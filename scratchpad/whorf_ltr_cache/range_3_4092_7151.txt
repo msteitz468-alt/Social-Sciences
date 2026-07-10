@@ -1,0 +1,3059 @@
+Grammatical Categories
+
+The very natural tendency to use terms derived from traditional grammar,
+like verb, noun, adjective, passive voice, in describing languages
+outside of Indo-European is fraught with grave possibilities of
+misunderstanding. At the same time it is desirable to define these terms
+in such a way that we can avail ourselves of their great convenience
+and, where possible, apply them to exotic languages in a scientific and
+consistent way. To do this, we must re-examine the types of grammatical
+category that are found in languages, using a worldwide view of
+linguistic phenomena, frame concepts more or less new, and make needed
+additions to terminology. These observations apply pari passu to
+English, which hardly less than some American Indian languages is off
+the pattern of general Indo-European.¹
+
+In the reaction from conventional grammars of American languages based
+on classical models, there has been a tendency to restrict attention to
+the morphemes by which many grammatical forms are marked. This view
+loses sight of various word-classes that are marked not by morphemic
+tags but by types of patterning: e.g. by the systematic avoidance of
+certain morphemes, by lexical selection, by word-order that is also
+CLASS-ORDER, in general by association with definite linguistic
+configurations. At the beginning of investigation of a language, the
+“functional” type of definition, e.g. that a word of a certain class,
+say a “noun,” is “a word which does so-and-so,” is to be avoided when
+this is the ONLY test of distinction applied; for people’s conceptions
+of what a given word “does” in an unfamiliar language may be as diverse
+as their own native languages, linguistic educations, and philosophical
+predilections. The categories studied in grammar are those recognizable
+through facts of a configurational sort, and these facts are the same
+for all observers. Yet I do not share the complete distrust of all
+functional definitions which a few modern grammarians seem to show.
+After categories have been outlined according to configurative facts, it
+may be desirable to employ functional or operational symbolism as the
+investigation proceeds. Linked with configurative data, operational
+descriptions become valid as possible ways of stating the MEANING of the
+forms, “meaning” in such cases being a characterization which succinctly
+accounts for all the semantic and configurational facts, known or
+predictable.
+
+We may first distinguish between OVERT CATEGORIES and COVERT CATEGORIES.
+
+An overt category is a category having a formal mark which is present
+(with only infrequent exceptions) in every sentence containing a member
+of the category. The mark need not be part of the same word to which the
+category may be said to be attached in a paradigmatic sense; i.e. it
+need not be a suffix, prefix, vowel change, or other “inflection,” but
+may be a detached word or a certain patterning of the whole sentence.
+Thus in English the plural of nouns is an overt category, marked usually
+in the paradigm word (the noun in question) by the suffix ‘-s’ or a
+vowel change, but in the case of words like ‘fish, sheep,’ and certain
+gentilic plurals, it is marked by the form of the verb, the manner of
+use of the articles, etc. In ‘fish appeared,’ the absence of any article
+denotes plural; in ‘the fish will be plentiful,’ a pluralizing adjective
+denotes it; in ‘the Chinese arrived’ and ‘the Kwakiutl arrived,’ the
+definite article coupled with lack of a singular marker like ‘person,’
+‘Chinaman,’ or ‘Indian’ denotes plural. In all these cases plural is
+overtly marked, and so, with few exceptions, are all noun plurals in
+English, so that noun-plural is an overt category in English.² In
+Southern Paiute the subject-person of a verb is marked by a sublexical
+element (or “bound morpheme”) that cannot stand alone, like English
+‘-s’; but it need not be attached to the verb, it may be attached to the
+first important word of the sentence. In English what may be called the
+potential mode of the verb is an overt category marked by the morpheme
+‘can’ or ‘could,’ a word separate in the sentence from the verb but
+appearing in every sentence containing the category. This category is as
+much a part of the verb system of morphology as though it were denoted
+by a bound element in a synthetic Algonkian or Sanskrit verb; its
+morpheme ‘can’ may replace coordinate elements in the same modal system,
+e.g. ‘may, will,’ but it may not, like a mere lexical item (e.g.
+‘possibly’) be simply added to them. In Hopi also there is a rigid
+system of mutually exclusive “modalities” denoted by detached words.
+
+A covert category is marked, whether morphemically or by
+sentence-pattern, only in certain types of sentence and not in every
+sentence in which a word or element belonging to the category occurs.
+The class-membership of the word is not apparent until there is a
+question of using it or referring to it in one of these special types of
+sentence, and then we find that this word belongs to a class requiring
+some sort of distinctive treatment, which may even be the negative
+treatment of excluding that type of sentence. This distinctive treatment
+we may call the REACTANCE of the category. In English, intransitive
+verbs form a covert category marked by lack of the passive participle
+and the passive and causative voices; we cannot substitute a verb of
+this class (e.g. ‘go, lie, sit, rise, gleam, sleep, arrive, appear,
+rejoice’) into such sentences as ‘It was cooked, It was being cooked, I
+had it cooked to order.’ An intransitive thus configuratively defined is
+quite a different thing from the “dummy” intransitive used in
+traditional English grammar; it is a true grammatical class marked by
+these and other constant grammatical features, such as nonoccurrence of
+nouns or pronouns after the verb; one does not say ‘I gleamed it, I
+appeared the table.’ Of course compound formations involving these same
+lexemes may be transitive, e.g. ‘sleep (it) off, go (him) one better.’
+In the American colloquial forms ‘go haywire, go South Sea Islander,’
+etc., the word or phrase after the verb is a covert adjective, cf. ‘go
+completely haywire.’
+
+Another type of covert category is represented by English gender. Each
+common noun and personal given name belongs to a certain gender class,
+but a characteristic overt mark appears only when there is occasion to
+refer to the noun by a personal pronoun in the singular number—or in the
+case of the neuter class it may be marked by the interrogative and
+relative pronouns ‘what, which.’ The grammatical alignment is no less
+strict than in an overt gender system like that of Latin, where most
+nouns bear their gender mark. No doubt for many English common nouns a
+knowledge of actual sex and of scientific biological and physical
+classification of objects could serve a foreigner in lieu of knowledge
+of the grammatical classes themselves, but such knowledge would be of
+only limited use after all, for the greater part of the masculine and
+feminine classes consists of thousands of personal names, and a
+foreigner who knows nothing of the cultural background of Western
+European Christian names must simply learn, i.e. observe, that ‘Jane’
+belongs to the ‘she’ group and ‘John’ to the ‘he’ group. There are
+plenty of names of overt similarity but contrasted gender, e.g. ‘Alice :
+Ellis, Alison : Addison, Audrey : Aubrey, Winifred : Wilfred, Myra :
+Ira, Esther : Lester.’³ Nor would knowledge of any “natural” properties
+tell our observer that the names of biological classes themselves (e.g.
+animal, bird, fish, etc.) are ‘it’; that smaller animals usually are
+‘it’; larger animals often ‘he’; dogs, eagles, and turkeys usually ‘he’;
+cats and wrens usually ‘she’; body parts and the whole botanical world
+‘it’; countries and states as fictive persons (but not as localities)
+‘she’; cities, societies, and corporations as fictive persons ‘it’; the
+human body ‘it’; a ghost ‘it’; nature ‘she’; watercraft with sail or
+power and named small craft ‘she’; unnamed rowboats, canoes, rafts ‘it,’
+etc. The mistakes in English gender made by learners of the language,
+including those whose own languages are without gender, would alone show
+that we have here covert grammatical categories, and not reflections in
+speech of natural and noncultural differences.
+
+The classes of nouns based actually or ostensibly upon shape, in various
+American languages, may be either overt or covert. In Navaho they are
+covert. Some terms belong to the round (or roundish) class, others to
+the long-object class, others fall into classes not dependent on shape.
+No overt mark designates the class in every sentence. The class mark as
+in English gender is a reactance; not a pronoun, however, but a choice
+between certain verb stems that go definitely with one class and no
+other, although there are very many verb stems indifferent to this
+distinction. I doubt that such distinctions, at least in Navaho, are
+simply linguistic recognitions of nonlinguistic, objective differences
+that would be the same for all observers, any more than the English
+genders are; they seem rather to be covert grammatical categories. Thus
+one must learn as a part of learning Navaho that ‘sorrow’ belongs in the
+“round” class. One’s first and “common-sense” impression of covert
+categories like English gender and Navaho shape-class is that they are
+simply distinctions between different kinds of experience or knowledge;
+that we say ‘Jane went to her house’ because we know that Jane is a
+female. Actually we need not know anything about Jane, Jane may be a
+mere name; yet having heard this name, perhaps over the telephone, we
+say ‘What about her?’. Common sense may then retreat a step further and
+say that we know the name Jane to be given only to females. But such
+experience is linguistic; it is learning English by observation.
+Moreover it is easy to show that the pronoun agrees with the name only,
+not with the experience. I can bestow the name ‘Jane’ on an automobile,
+a skeleton, or a cannon, and it will still require ‘she’ in pronominal
+references. I have two goldfish; I name one ‘Jane’ and one ‘Dick.’ I can
+still say ‘Each goldfish likes its food,’ but not ‘Jane likes its food
+better than Dick.’ I must say ‘Jane likes her food.’ The word ‘dog’
+belongs to a common gender class with a preference for ‘he’ and ‘it,’
+but the gender-classed given name of a dog determines its own pronoun;
+we do not say ‘Tom came out of its kennel,’ but ‘Tom came out of his
+kennel, Lady came out of her kennel, The female dog came out of its (or
+her) kennel.’ “Doggish” names like ‘Fido’ are of the ‘he’ class: ‘Towser
+came out of his kennel.’ We say ‘See the cat chase her tail,’ but never
+‘See Dick chase her tail.’ The words ‘child, baby, infant’ belong to the
+common class and can take ‘it,’ but the given names of children take
+either ‘he’ or ‘she.’ I can say ‘My baby enjoys its food,’ but it would
+be linguistically wrong to say ‘My baby’s name is Helen—see how Helen
+enjoys its food.’ Nor can I say ‘My little daughter enjoys its food,’
+for ‘daughter,’ unlike ‘baby,’ is grammatically in the feminine class.
+
+Likewise with various covert categories of exotic languages: where they
+have been thought to be recognitions of objective differences, it may
+rather be that they are grammatical categories that merely accord up to
+a certain point with objective experience. They may represent
+experience, it is true, but experience seen in terms of a definite
+linguistic scheme, not experience that is the same for all observers. On
+the other hand, the distinctions between present and absent, visible and
+invisible, made in many American languages, may well represent
+experiential differences; and again we may have such experiential
+differences engrafted upon purely grammatical classifications, yielding
+mixed classes such as “experiential-present plus grammatical-feminine.”
+
+A covert category may also be termed a CRYPTOTYPE, a name which calls
+attention to the rather hidden, cryptic nature of such word-groups,
+especially when they are not strongly contrasted in idea, nor marked by
+frequently occurring reactances such as pronouns. They easily escape
+notice and may be hard to define, and yet may have profound influence on
+linguistic behavior. The English intransitive verbs as configuratively
+defined above are a cryptotype. A similar cryptotype comprises the verbs
+of “copulative resolution” (‘be, become, seem, stay, remain,’ etc.),
+which also lack the passive and causative but may be followed by nouns,
+pronouns, and adjectives. Transitives (a cryptotype which includes ‘run,
+walk, return,’ etc.—indeed most English verbs) possess the passive and
+causative and may be followed by nouns and pronouns but not by
+adjectives alone. Names of countries and cities in English form a
+cryptotype with the reactance that they are not referred to by personal
+pronouns as object of the prepositions ‘in, at, to, from.’ We can say ‘I
+live in Boston’ but not ‘That’s Boston—I live in it.’ A word of this
+cryptotype is referred to by ‘there’ or ‘here’ in place of ‘in it, at
+it, to it,’ and by ‘from there (here)’ in place of ‘from it.’ In various
+American languages such place names constitute a grammatical class; in
+Hopi they lack the nominative and objective cases, occurring only in
+locational cases; in Aztec they bear characteristic endings and exclude
+the use of certain prepositions.
+
+English adjectives form two main cryptotypes with subclasses. A group
+referring to “inherent” qualities—including color, material, physical
+state (solid, liquid, porous, hard, etc.), provenience, breed,
+nationality, function, use—has the reactance of being placed nearer the
+noun than the other group, which we may call one of noninherent
+qualities, though it is rather the residuum outside the first
+group—including adjectives of size, shape, position, evaluation
+(ethical, esthetic, or economic). These come before the inherent group,
+e.g. ‘large red house’ (not ‘red large house’), ‘steep rocky hill, nice
+smooth floor.’ The order may be reversed to make a balanced contrast,
+but only by changing the normal stress pattern, and the form is at once
+sensed as being reversed and peculiar. The normal pattern has primary
+stress either on the noun (‘steep rocky hi′ll’) or on the inherent
+adjective (‘pretty Fre′nch girl’). We cannot simply reverse the order of
+adjectives and say ‘French pre′tty girl’—the form suggests a contrasted
+‘French plai′n girl’ but the pattern of so contrasting adjectives is
+un-English; the proper contrast is ‘plai′n French girl.’ We can however
+reverse the adjectives by altering the stress pattern and say ‘Fre′nch
+pretty girl,’ if in contrast with e.g. ‘Spa′nish pretty girl,’ though
+such forms are clearly exceptional.
+
+The contrasting term PHENOTYPE may be applied to the overt category and,
+when no ambiguity results, to the mark which accompanies the overt
+category in the sentence.
+
+The distinction between overt and covert categories, or PHENOTYPES and
+CRYPTOTYPES, is one of two distinctions of supreme importance in the
+theory of grammatical categories. The other is the distinction between
+what may be called SELECTIVE CATEGORIES and MODULUS CATEGORIES.
+
+A selective category is a grammatical class with membership fixed, and
+limited as compared with some larger class. A PRIMARY selective
+category, or LEXEMIC category, is one compared to which the next larger
+class is the total lexicon of the language. Certain semantic and
+grammatical properties are assured in the word by selecting it from a
+certain class of fixed membership not coterminous with the whole
+vocabulary. In order that a certain grammatical property may be “in the
+lexeme,” it cannot be in all lexemes. The familiar “parts of speech” of
+most European languages, but not of English, are lexemic categories. The
+situation in English is peculiar, and will be touched upon later.
+Lexemic categories may be either overt or covert. Hopi is an example of
+a language in which they are covert. Possibly Maya may be another such
+case, though we lack clear information on that point. In Hopi there is
+no distinction in the simplex (bare-stem) forms between nouns and verbs,
+and sentences are possible in which there is no distinction in the
+sentence. Thus le·′na or pam le·′na means ‘it is a flute,’ and pe·′na or
+pam pe·′na means ‘he writes it.’ Hence nouns and verbs may be alike in
+overt characteristics. But it is easily possible to make sentences in
+which le·′na appears with case suffixes and in other forms quite
+impossible for pe·′na, and vice versa. One has to learn, and cannot
+always tell from the sentence, that le·′na and pe·′na belong to
+different compartments of the lexicon.
+
+It is probably more common to find lexemic classes that are overt, as in
+Latin, French, Aztec, Tübatulabal, Taos, and Navaho. In French, ange and
+mange belong to different compartments of the vocabulary (noun and verb)
+and there is always a feature in the sentence that tells which; one does
+not find such pairs as il mange : il ange, c’est un ange : c’est un
+mange. It may be possible to have Ange! versus Mange!, but special and
+abbreviated types of sentence like these with their lack of formal
+distinctions do not justify calling the categories covert. In Latin,
+Aztec, Tübatulabal, and Taos, the distinction is marked not only in the
+sentence, but also usually in the paradigm word itself. Yet this overt
+mark of the noun, verb, or other “part of speech” cannot usually be
+transferred to a lexeme outside of the proper group. The mark that goes
+with a covert lexemic class need not stand for any other category such
+as case, person, or tense, though it does for example in Latin, Greek,
+and Sanskrit. The “absolutive suffixes” found attached to lexemic nouns
+in most Uto-Aztecan languages have basically no other character than
+that of such class-marks, though in Aztec they are also tied up with
+number; and needless ingenuity has been wasted in trying to make them
+out to be “articles” or the like. The absolutive suffixes in Taos go
+with the selective class of nouns but indicate gender and number also.
+In Latin the distinction between the nouns (including in this class the
+adjectives) and the verbs is selective and overt, but that between
+adjectives and substantives is selective and covert; compare est gladius
+and est bonus. As with all covert classes, the distinction is revealed
+upon forming the proper type of sentence: est bona occurs, but not est
+gladia.
+
+Lexemic categories include not only nouns, verbs, adjectives, and other
+“parts of speech,” but also “full” words and “empty”⁴ words or stems, as
+in Chinese and perhaps the Wakashan languages, and still other types of
+distinction; e.g. in Algonkian the lexemic classes include large groups
+of stems having different combinatory powers and different positions in
+the verbal complex.
+
+A modulus category is a nonselective category, i.e. it is generally
+applicable and removable at will. Depending on its type, it may be
+applied either to any “major word” (any word excepting small and
+specialized selective classes, e.g. “particles”), or, more often, to any
+word coming within a certain prerequisite larger category, which may be
+either selective or another modulus category. The cases, tenses,
+aspects, modes, and voices of Indo-European and Azteco-Tanoan⁵ languages
+are modulus categories, applicable at will to words belonging to the
+proper larger category—cases being moduli of the larger category of
+nouns; aspects, tenses, etc. moduli of the larger category of verbs.
+Hence the person versed only in Indo-European types of grammar poses to
+himself the distinction between selective and modulus classes (or
+between selectivity and modulation) as the distinction between “parts of
+speech” on the one hand and “grammatical forms” of the aspect, tense,
+and voice type on the other. But, in widely different types of speech,
+these familiar types of meaning and function cease to be associated with
+selectivity and modulation in the same way; entirely different
+alignments there hold sway in the grammar, and, until this is
+recognized, an adequate conception of the grammar cannot be obtained. It
+is not necessary to have large categories, such as nouns and verbs, in
+order to have such modulus categories as aspect. In Nitinat⁶ (and
+presumably in the closely related Nootka and Kwakiutl) all major words
+have aspects, such as durative, momentaneous, inceptive, etc.—both the
+word for ‘run’ and the word for ‘house’ always bear some element marking
+this aspect.
+
+We may use the term “modulus” alone to denote the distinctive class
+meaning and function of the category; thus the present-participle
+meaning is a modulus in English. We may also use modulus to mean the
+grammatical operation of producing one such meaning, and hence, where no
+ambiguity results, to mean the element or pattern that marks the
+modulus. Thus we can say that in English the present-participle modulus
+is the suffixing of ‘-ing,’ or for short that it is ‘-ing.’ Where
+greater preciseness is desirable, we may call the overt mark the (or a)
+SIGNATURE of the modulus. This distinction is ultimately important;
+sometimes it is necessary to distinguish several signatures of the same
+modulus. In illustrating overt categories we cited the English
+noun-plural, which is a modulus category. The modulus, or plural type of
+meaning, is one and the same thing throughout the various examples, but
+the signatures whereby this plural modulus may be applied to the word
+‘fish’ are different from one example to the next. To these signatures
+we may add ‘-s’ or ‘-es,’ giving ‘fishes.’ Since ‘sheep, deer, moose,
+caribou,’ etc. belong to a cryptotype that excludes ‘-s,’ and
+“fishermen’s fish” such as ‘trout, bass, salmon, mackerel, cod,’ etc.
+(contrasted with “low-grade fish,” e.g. ‘sharks, skates, eels,
+sculpins,’ etc.) belong to another such cryptotype, we cannot use this
+last signature for them. As this example shows, it is not necessary to
+have one-to-one correspondence between moduli and signatures. Where a
+high degree of such one-to-one correspondence obtains, it has often been
+the custom to apply the graphic but not very scientific catchword
+“agglutinative” to the language. Languages of the typical
+“agglutinative” type, such as Turkish, have been referred to as if they
+had such one-to-one correspondence, and moreover as if they had no
+categories but modulus categories. The grammar of Yana (Hokan stock,
+California) consists largely of moduli, but has also a few selective
+categories; e.g. a class of stems which must stand first in the verbal
+complex and a class which must stand second.
+
+A distinction of the same semantic type as that between verbs and nouns
+in selective categories may be handled by modulus categories instead.
+That is, the possible moduli include not only voice, aspect, etc., but
+also VERBATION and STATIVATION.⁷ Whenever, as for example in Yana, the
+mere application of certain distinctive suffixes or other signatures
+makes a “verb” out of any stem, then we do not have a class of verbs in
+the same sense as in French, Latin, Greek, Hopi, Aztec, Taos, and
+Navaho: i.e. a selective class. We have verbations instead of such
+verbs. The so-called verbs and nouns of Semitic are moduli, applicable
+to lexemes in general by signatures consisting largely of
+vowel-consonant sequence patterns, though there may be occasional gaps
+in the universality of lexical applicability. In Hebrew we have e-e as
+one of several signatures for stativation and [LATIN SMALL LETTER A WITH
+MACRON]-a as one of several for verbation, e.g. berek⁸ ‘knee’ : b[LATIN
+SMALL LETTER A WITH MACRON]rak ‘he kneeled,’ derek ‘road’ : d[LATIN
+SMALL LETTER A WITH MACRON]rak ‘he marched,’ geber ‘man, as virile or
+strong’ : g[LATIN SMALL LETTER A WITH MACRON]bar ‘he was strong,’ hebel
+‘cord’ : [Whorf_p126a] ‘he bound,’ melek ‘king’ : m[LATIN SMALL LETTER A
+WITH MACRON]lak ‘he reigned,’ qedem ‘antecedence’ : q[LATIN SMALL LETTER
+A WITH MACRON]dam ‘he was before,’ regel ‘foot’ : r[LATIN SMALL LETTER A
+WITH MACRON]gal ‘he went on foot.’ There are no doubt many Hebrew
+“nouns” for which we do not know the verbation form in texts, but this
+seems to be so largely because the textual Hebrew that we know does not
+represent the full resources of the ancient living language; Arabic
+shows better the general applicability of these moduli to the great
+majority of lexemes. But verbs and nouns which are modulus categories
+may be found nearer home than Semitic. The lexicon of English contains
+two major selective divisions. One division, consisting mostly of long
+words and words with certain endings, contains selective verbs like
+‘reduce, survive, undertake, perplex, magnify, reciprocate,’ and
+selective nouns like ‘instrument, elephant, longevity, altruism.’ A
+limited number of short words belong also to the group of selective
+nouns and verbs, e.g. ‘heart, boy, street, road, town; sit, see, hear,
+think.’ In this selective vocabulary English is like French or Hopi. The
+other part of the lexicon, mostly the shorter words but some long ones,
+contains bare lexemes to which either verbation or stativation may be
+applied at will, e.g. ‘head, hand, stand, walk, exchange, sight, skin,
+weave, dog, surrender, massage,’ etc.⁹ This part of the vocabulary is
+like Arabic, though the signatures are of a quite different sort. Those
+for stativation include the articles, plural signatures, position after
+possessive pronouns and selective adjectives; those for verbation
+include position after a nominative pronoun, position before a pronoun,
+noun, or stativation, the tense forms, the verbal auxiliaries and modal
+particles, etc.
+
+There may be wide variability in the semantic relations between
+verbations and stativations in the same language. When contrasted with
+the corresponding stativations, verbations may seem to add in an
+inconstant manner such ideas as ‘he engaged in’ (hunt, jump, dance),
+‘behave like’ (mother, carpenter, dog), ‘be in’ (lodge, hive), ‘put in’
+(place, seat, pocket, garage), ‘make, add, install’ (weave, plant, roof,
+pipe, tin), ‘take away’ (skin, peel, husk, bone), ‘get’ (fish, mouse),
+‘use’ (spear, hammer, fiddle, bugle); while on the other hand
+stativations seem to add inconstantly such ideas as ‘result’ (weave,
+plant, form), ‘means’ (paint, trail), ‘action or place’ (walk, slide,
+step, drop), ‘instrument’ (lift, cover, clasp, clip), etc. This
+inconstancy, or, better, elasticity, in certain aspects of the meaning,
+seen in Semitic as well as in English, is characteristic of the simple
+moduli of verbation and stativation, and it may be contrasted with the
+condition of having a number of different moduli, each a different
+specialized type of verbation or stativation, which appears to be the
+situation in Alaskan Eskimo. It merely means that, in a language with
+simple primary types of moduli, the meaning of the individual lexeme is
+more or less under the sway of the entire sentence, and at the mercy of
+the manifold potentialities of connotation and suggestion which thereby
+arise.
+
+Can there be languages not only without selective nouns and verbs, but
+even without stativations and verbations? Certainly. The power of making
+predications or declarative sentences and of taking on such moduli as
+voice, aspect, and tense, may be a property of every major word, without
+the addition of a preparatory modulus. This seems to be the case in
+Nitinat and the other Wakashan languages. An isolated word is a
+sentence; a sequence of such sentence words is like a compound sentence.
+We might ape such a compound sentence in English, e.g. ‘There is one who
+is a man who is yonder who does running which traverses-it which is a
+street which elongates,’ though the exotic sentence consists simply of
+the predicative lexemes ‘one,’ ‘man,’ ‘yonder,’ ‘run,’ ‘traverse,’
+‘street,’ and ‘long,’ and the proper translation is ‘A man yonder is
+running down the long street.’ Such a structure might or might not be
+found in an isolating language; again it might or might not be found in
+a polysynthetic one like Nitinat. The polysynthetic language might or
+might not fuse some of the lexemes into long synthetic words, but it
+would doubtless have the power in any case of fusing in a great many
+aspectual, modal, and connective elements (signatures of moduli). Of
+such a polysynthetic tongue it is sometimes said that all the words are
+verbs, or again that all the words are nouns with verb-forming elements
+added. Actually the terms verb and noun in such a language are
+meaningless. The situation therein is radically different from for
+example Hopi, for, though in the latter le·′na ‘it is a flute’ and
+pe·′na ‘he writes it’ are both complete sentences, they are words which
+are not equally predicative in all positions of a sentence, and they
+also belong to selective covert classes of noun and verb that in general
+take different inflections, and look alike only in particular types of
+sentence. In Hopi the verb-noun distinction is important on a selective
+basis; in English it is important on a modulus basis; in Nitinat it
+seems not to exist.
+
+So far we have dealt with categories which are distinct both
+configuratively and semantically, and these are the typical formulations
+of grammar. But we also have word groups which are configuratively
+distinct and yet have no difference in meaning; these we may call
+ISOSEMANTIC or purely formal classes. They in turn are of two sorts
+corresponding to selective and modulus in the semantic categories, but
+here better styled SELECTIVE and ALTERNATIVE. Selective isosemantic
+classes are typified by “declensions” and “conjugations,” those very
+common features of languages the world over, richly developed in Latin,
+Sanskrit, Hopi, and Maya, less developed in Semitic, English (“strong”
+and “weak” verbs), and Aztec, and almost lacking in Southern Paiute.
+They also include gender-like classes without semantic difference, as in
+Bantu and in certain of the genders of Taos (all these might be called
+“declensions” with pronominal agreement or the like); classes requiring
+different position in a sentence or complex without difference in type
+of meaning (stem-position classes in Algonkian); and classes requiring
+different signatures for the same modulus without difference in type of
+meaning, e.g. in Hebrew the segholate (e-e) “nouns” and parallel
+stativation groups. Alternative isosemantic classes are what their name
+implies: e.g. the English group comprising ‘don’t, won’t, shan’t,
+can’t,’ etc. and the group of ‘do not, will not, shall not, cannot.’ In
+this case we could perhaps speak of a modulus of brevity, convenience,
+or colloquial attitude which is applied in the former group. Alternative
+classes sometimes show stylistic as opposed to grammatical difference.
+In other cases there seems to be no GENERALIZABLE difference, as in
+English ‘electrical, cubical, cyclical, historical, geometrical’ versus
+‘electric, cubic, cyclic, historic, geometric.’
+
+There remains another type of distinction: SPECIFIC CATEGORIES and
+GENERIC ones. A specific category is an individual class existing in an
+individual language, e.g. English passive voice, Hopi segmentative
+aspect. A generic category, in the restricted sense of application to a
+particular language, is a hierarchy formed by grouping classes of
+similar or (and) complementary types, e.g. case in Latin, voice in Hopi.
+Here much depends on both the insight and the predilections of the
+systematizer or grammarian, for it may be easy to build up specific
+categories into very logical schemes; yet what is rather desired is that
+such generic categories should represent systems which the language
+itself contains. We do well to be skeptical of a grammarian’s
+systematization when it is full of ENANTIOMORPHISM, the pairing with
+every category of an opposite which is merely the lack of it. Specific
+categories of seemingly opposite meaning such as passive voice and
+active voice (when this term “active” means merely “nonpassive”) should
+be brought into one generic category (“voice”) only when they are more
+than two, or when, if there are only two, taken together they contrast
+as a unit with some other system of forms.
+
+Finally, in a still wider sense generic categories may be so formulated
+as to become equivalent to the concepts of a general science of grammar.
+Such categories are made by grouping what seem to us to be SIMILAR
+SPECIFIC CATEGORIES IN DIFFERENT LANGUAGES. Only in such a sense can we
+speak of a category of “passive voice” which would embrace the forms
+called by that name in English, Latin, Aztec, and other tongues. Such
+categories or concepts we may call TAXONOMIC categories, as opposed to
+DESCRIPTIVE categories. Taxonomic categories may be of the first degree,
+e.g. passive voice, objective case; or of the second degree, e.g. voice,
+case. Perhaps those of the second degree are the more important and
+ultimately the more valuable as linguistic concepts, as generalizations
+of the largest systemic formations and outlines found in language when
+language is considered and described in terms of the whole human
+species.
+
+ 
+
+Reprinted from Language, 21:1–11 (1945). According to a note supplied by
+the editor of Language, “This paper was written late in 1937 at the
+request of Franz Boas, then editor of the Int. J. Amer. Linguistics. The
+manuscript was found in the Boas collection by C. F. Voegelin and Z. S.
+Harris.” The Boas collection is cataloged in Language Monograph no. 22,
+1945.
+
+1. The author wishes to acknowledge his indebtedness to his colleagues,
+Dr. George L. Trager and Dr. Morris Swadesh, with whom some of these
+questions of category have been discussed.
+
+2. There is of course a minority group of possible or theoretically
+possible sentences, e.g. ‘The fish appeared,’ in which plural is not
+distinguished from singular. But, in actual speech, such sentences are
+embedded in a larger context which has already established the plurality
+or the singularity of the thing discussed. (Otherwise such a sentence is
+not likely to occur.) Such minority types are not considered in the
+distinction between overt and covert; i.e. they do not prevent a
+category from being classed as overt. In covert categories the unmarked
+forms are relatively numerous, often in the majority, and are
+undistinguished even by context.
+
+3. There are a very few names of indeterminate or double gender:
+‘Frances (Francis),’ ‘Jessie (Jesse),’ or ‘Jess, Jean (Gene), Jocelyn,
+Sidney, Wynne,’ and perhaps a few others. The number is increased if we
+include nicknames like ‘Bobby, Jerry,’ etc.; but, all in all, such
+instances are relatively so few that they in no way disturb our
+alignment of facts.
+
+4. An “empty” word or stem is probably one that is highly specialized
+for grammatical or syntactic indication, perhaps in a way that does not
+admit of being assigned a concrete meaning. For example, such a form
+might have no other meaning than to serve as the reactance of some other
+category, or as the signature of a modulus category (see the next
+paragraph).
+
+5. B. L. Whorf and G. L. Trager, “The relationship of Uto-Aztecan and
+Tanoan,” Amer. Anthrop., 39:609–24 (1937).
+
+6. See Mary Haas Swadesh and Morris Swadesh, “A visit to the other
+world: a Nitinat text,” Int. J. Amer. Linguistics, 7:3–4 (1933).
+
+7. Stativation is a term used to denote the modulus of forms which are
+contrasted with verbations in a way similar to that in which nouns, as a
+selective category, are contrasted with verbs in the languages that have
+such a contrast. It is used here instead of “nomination” or
+“nominalization,” because these terms through past usage have come to
+suggest derivations rather than moduli, while “stativation” helps us to
+think of the form not as a noun derived from a verb, but simply as a
+lexeme which has been affected by a certain meaningful grammatical
+coloring as a part of certain configurations.
+
+8. Since these Hebrew examples are used only to illustrate vowel
+patterns, they are written in approximate morphophonemic orthography,
+which does not attempt to show the distinction between the stops b, g,
+k, etc. and the spirants which replace them after vowels under regular
+statable conditions.
+
+9. Adjectivation in English is another modulus which is applied both to
+bare lexemes and to selective nouns, but there are also selective
+adjectives, and these are not modulated into substantives.
+
+8
+
+Discussion of Hopi Linguistics
+
+320 Wolcott Hill Road,
+
+Wethersfield, Conn.
+
+Dear John:
+
+You will be interested to hear that I have been appointed to a part-time
+lectureship at Yale for the term January to June 1938, Department of
+Anthropology, to give one 2-hour lecture a week on Problems of American
+Linguistics. During the fall term my colleague George L. Trager will
+have the same group in Phonetics, so that I do not plan to devote much
+of any time to phonetic or phonemic problems per se. I am going to
+orient my lectures largely toward a psychological direction, and the
+problems of meaning, thought, and idea in so-called primitive cultures.
+Methods of investigating language which reveal something of the psychic
+factors or constants of the American Indians in the given linguistic
+community will be emphasized. I say psychic instead of mental, since
+affect as well as thought, insofar as it is linguistic, will be treated.
+I expect to give a good deal of attention to the subject of the
+organization of raw experience into a consistent and readily
+communicable universe of ideas through the medium of linguistic
+patterns. Altogether I hope to present some conceptions rather exciting
+to the cultural anthropologist and to the psychologist, and to have some
+budding exponents of both disciplines among my students.
+
+In preparing material for the course I should be very glad to have any
+assistance that you and the University can render, for I know you and
+they are interested along this linguistic-psychological line. I might
+outline here certain concepts that I am now working on, based on
+analysis of the Hopi language, which naturally will be one I shall draw
+on considerably for examples, though I expect also to devote some time
+to Aztec and Maya. An introduction to the general problem may be found
+in the analysis of Hopi categories of verb morphology, especially those
+which for purposes of convenience may be called aspect and tense,
+although exactly the same meaning that these terms have in classical
+European linguistics cannot be taken for Hopi. We have however two
+distinct morphological categories, the suffixes of which are differently
+treated and have different positions, the tense suffix coming after the
+voice suffix. There are three tenses: past (i.e., past up to and
+including present), future, and generalized (that which is generally,
+universally, or timelessly true), all of which are mutually exclusive.
+Of these, the only one to be considered here is the future (suffix -ni).
+A first approximation to its meaning is the English future. There are
+nine aspects, of which I shall consider chiefly the inceptive (-va) and
+projective (-to). The punctual aspect is the aspect of the simplex (stem
+without suffixes or modification); the past tense is the tense of the
+simplex. A first approximation to the meaning of the inceptive is
+‘begins doing’ (I shall translate the Hopi past tense by the English
+present), and to that of the projective is ‘does with a forward
+movement.’ Later I shall refer to the progressional resultative or
+“crescentive” form in -iwma. There is another inceptive-like
+progressional form in [Whorf_p133] but I am not including it as it has a
+noticeably different meaning (‘is well on the way to getting it done’).
+
+In getting translations of the English ‘begins doing it’ form with a
+large number of different verbs, we eventually find that, whereas the
+Hopi uses the inceptive for the majority of the verbs, for a certain
+number it uses the projective, and for a considerable number it jumps
+out of the “aspect” category entirely and uses the FUTURE TENSE (in the
+punctual or nonspecified aspect). The usage is consistent and does not
+depend on the formal type (“conjugation”) of the verb. Analysis shows
+that it follows in a curious way the lexical meaning of the verb. The
+question at once strikes one: Why should a pattern (‘begins doing it’)
+which appears to us to be perfectly uniform and of the same nature in
+all cases present itself to the mind of the bilingual English-speaking
+Hopi informant as a meaning which switches back and forth between two
+(or more) fundamental meaning categories of his own language? It is also
+to be noted that, in almost all the cases where the inceptive is used
+for ‘begins doing,’ the Hopi uses not only the suffix -va but also a
+reduplication. The meaning of reduplication is a durativizing of the
+punctual to denote a more extended process and hence would seem to be a
+logical prerequisite to a form denoting the beginning of a process, but
+nevertheless, where the projective or the future tense translates the
+‘begins doing,’ the reduplication is NOT employed. This tends to confirm
+one’s impression that the Hopi observer conceives the events in a
+different manner from the one whose native language is English.
+
+Thus in the expressions for ‘begins writing, breathing, sleeping,
+flying, rolling (over and over), laughing, fighting, smoking, singing,
+swimming, dying, looking, bumping it,¹ turning it, digging it, eating
+it, breaking it, tearing it, killing it, tying it, gathering it, lifting
+it, bending it, putting it in, putting it down, picking it up,’ and many
+more, the inceptive (-va on reduplicated base) is used. In those for
+‘begins running, moving, fleeing, going homeward, going away, going to
+(a place), going up (or down), talking, opening it, closing it, shooting
+it (arrow), driving it (car), being in or at (a place),’ the future is
+used. Thus the forms are the same as for ‘will run, move, flee,’ etc. In
+the expressions for ‘begins going out, going in, coming (= ‘arriving’ in
+Hopi), falling down, falling (through space, a different verb), going in
+a circuit, turning, rotating, splitting open (intransitive), tipping
+over, spilling,’ and others, the projective aspect is used. ‘Does with a
+forward movement’ seems appropriate to many of these, but why it is not
+also appropriate to many of those in the other two groups is not clear,
+nor why it should be the necessary translation of English ‘begins doing’
+in this third group. The informant himself can give no explanation.
+
+From phenomena of this sort, which are not confined to the inceptive
+problem but pervade all Hopi grammar, I conclude that there must be to
+the Hopi speaker a dimly felt relation of similarity between the verb
+usages in each group having to do with some inobvious facet of their
+meaning, and therefore itself a meaning, but one so nearly at or below
+the threshold of conscious thinking that it cannot be put into words by
+the user and eludes translation. To isolate, characterize, and
+understand the operation of these dimly felt, barely conscious (or even
+unconscious) meanings is the object of my further analysis. Such an
+elusive, hidden, but functionally important meaning I call a CRYPTOTYPE.
+
+Thus I would say that the meanings of the Hopi stems translated ‘be
+writing, breathing, sleeping, breaking it,’ etc. are similar in that
+they all contain “cryptotype A,” while ‘running, moving, going homeward,
+opening it,’ etc. contain “cryptotype B,” and ‘going in, falling,
+turning,’ etc. “cryptotype C.” The mode of lettering is simply a varying
+and provisional one for each problem. In contrast with the cryptotype,
+which has no formal mark and whose meaning is not clearly evident, but
+is rather a submerged meaning shown as an influence, I give the name
+PHENOTYPE to the categories inceptive, future, projective, etc.; i.e.,
+the phenotype is the “classical” morphological category, having a formal
+mark and a clearly apparent class-meaning. For schematic purposes, we
+may refer to inceptive, future, projective, as phenotypes 1, 2, 3, with
+reference to the present problem. It will be seen that, in a language
+such as Hopi, the meanings of grammatical forms result from the
+interplay of phenotype and cryptotype, and not from phenotype alone.
+This concept is of course extensible to many other languages than Hopi.
+Linguistics up to now has studied almost entirely the phenotypes. Study
+of cryptotypes opens up a more psychological phase of linguistics.
+
+So far we have three types of ‘begin’ forms, Al, B2, C3. If we equate
+‘begins ——ing’ to ‘begins to be ——ing’ (which is rendered the same in
+Hopi) and then pass to ‘begins to be ——,’ where —— is not an -ing form
+but either (a) an adjective or (b) a past participle, we get an
+interesting difference. With an adjective, e.g., ‘begins to be sweet,
+red, white, blue, hot, big, short, good, round,’ etc. a new phenotype
+(4), i.e. another inceptive-like morpheme, appears. A form in -iwma is
+now used. This form is a combination of voice and aspect: the
+resultative voice (‘as a result is sweet’) plus the progressional aspect
+-ma (‘does in the course of motion, secondarily “passes” or “goes” into
+or toward a state or condition’). In the case (b), e.g. ‘begins to be
+torn, bumped, dug, cut, written,’ etc., it makes a difference whether
+the condition is to be considered as resultative or passive, i.e.,
+whether what is beginning is a torn condition, which uses phenotype 4
+(-iwma), or what is beginning is a tearing act happening to a passive
+subject, which uses (2) (future tense, -ni) plus the suffix of the
+passive voice. If, however, cryptotype C is present, the form is C3
+(projective, -to) just as in the previous case without passive meaning,
+i.e., ‘begins to be split open, rotated, spilled,’ etc. is the same as
+‘begins splitting open, rotating, spilling,’ although it is possible to
+use the -iwma form here to give a definitely resultative meaning. In all
+these ‘begin to be ——’ forms we see another cryptotype, D, which is
+evidently the passive-resultative side of the meanings of both A and B,
+besides also including the ordinary descriptive adjective. D can use two
+inceptive phenotypes, 4 or 2. Phenotype 4 is really the progressional
+aspect -ma, -iw- being the sign of the resultative voice corresponding
+to the sign of the passive used with 2. We have added the types D4, D2.
+
+It may now be noted that D is contrasted with A, B, C as inactive with
+active. A, B, and C are alike in being active: i.e., actual movement and
+change is shown going on, or else it is a vital state, a life process,
+that is shown as in ‘sleeping’; the only exception (from our own
+viewpoint) is ‘being in a place,’ which is very likely not a real
+exception but a phase of the same idea. The “role” of the subject is
+that of actor, even if the actor does nothing but be in a place; this
+seems to be a common idea to A, B, and C. In D the “role” of the subject
+is the nonacting substance that serves to display some condition or
+quality. Perhaps it might be said that, in the first case, the subject
+is regarded as the causal agent, in the second as not the causal agent,
+of what I call the ‘verbation,’ i.e., the manifestation (action,
+operation, condition, state, status, relation, etc.) announced by the
+verb. We still cannot state the differences among the A, B, and C
+cryptotypes, but one factor of cryptotypic meaning has been shown up.
+The contrast active-inactive or causal-incausal nowhere appears as a
+phenotype in Hopi. But as a cryptotypic contrast it is decisive in
+governing the outward form.
+
+If we get renderings for ‘begins to do,’ distinct differences appear as
+compared to ‘begins doing.’ The Hopi now omits the reduplication from
+the inceptive aspect forms of A1. Evidently the Hopi feels that our -ing
+form denotes a more extended process than the infinitive. The B
+cryptotype is however rendered just the same: i.e., -ni for both ‘begins
+moving’ and ‘begins to move.’ The C is also the same: i.e., -to for
+‘begins going out’ and ‘begins to go out.’ But moreover, the A
+cryptotype can now use phenotype 2 (-ni) as well as 1; both forms are
+possible for the same verb with the same translation. In certain cases a
+slight difference in meaning creeps out. We have added one more type,
+A2, which has a slightly different translation from the reduplicated A1,
+and an even slighter difference in meaning from the unreduplicated A1.
+This difference is hard to perceive, but is shown in certain examples
+and is presumably connected with the difference in the phenotypes -ni
+and -va (and is not cryptotypic).
+
+Returning to cryptotypes A, B, and C: A and B are related by the fact
+that A uses both -va and -ni and B uses -ni only. There is then
+presumably something about the B type of ideas that makes the
+characteristic inceptiveness of -va inappropriate. And there is
+presumably something about C that makes both -va and -ni ineligible and
+demands -to. D is characteristically inactive or incausal, and, in
+contrast, A, B, and C represent three different types of activity or
+causality. Omitting the space-relational forms and a few others,
+causality becomes the same as activity. After a prolonged scrutiny and
+analysis, aided by what grasp I have of Hopi linguistic ideas and
+viewpoints, I arrive at the following characterization of these
+cryptotypes A, B, and C. B is an activity, the starting of which implies
+that there will be a certain amount of actual maintenance thereof,
+springing from the initial impulse supplied by the subject or actor. B
+represents acts springing from a subject-initiated impulse, but not
+necessarily ALL such acts—only those in which the first initiation of a
+phenomenon by the impulse immediately shows the activity in full-fledged
+form, a form for which CONTINUING has simply the meaning of adding time,
+but not of further developing nor of continuously adapting the form. In
+nearly all cases we may read for “impulse,” “volitional impulse” or
+“will,” either actual in an animate actor or “felt into,” the rarely
+occurring inanimate subject. Hence the type includes the subjectively
+determined kinds of uniform motion like running, fleeing, and “going” of
+various sorts. Thus, in order to say ‘he begins to run,’ the activity
+must already have shown itself in the effective form of running, which
+will not thereafter be developed and stabilized, but merely continued
+“as is.” “Being,” i.e., in Hopi a verbation of spatial relationship like
+‘in, at, on, along, under, with,’ etc., is classed as of the same type
+as “running.” A very few transitive verbs are included, in which the
+actor transfers his impulse at once to the object in such a way that its
+form of activity is at once completely displayed. Thus, ‘he opens it’
+(no matter how little, it is open and no longer closed); closing it is
+classed as a converse operation of the same type (the moving of any
+barrier over the opening is a partial closing which, so far as it goes,
+has been maintained and will not be changed in form by continuance); so
+also ‘shooting an arrow.’
+
+A however is an activity, the start of which does not mean even a brief
+maintenance of itself as a result of one first impulse or tendency. If
+the very first impulse should not be reinforced the laugh would not be a
+laugh, the writing not a writing but at most a mark, or a pen-grasping,
+the break not a break but only a strain. The action is felt to consist
+of a developing train of events or a more than momentary application of
+the will to action, a following-up sort of participation of the subject
+necessary to even the briefest establishment of the action in its
+representative form. Some of the verb meanings of A will at first seem
+strangely selected from this standpoint, but a little meditation on the
+matter will often show a peculiar insight revealed in the Hopi
+cryptotypic meaning. Thus “sleep” is classed here by Hopi as though it
+felt sleep to be a state which the subject developed into by a
+continuous readjustment, not one which he launched himself into; while
+“running” and “talking” are regarded as states launched into, not
+progressed or adjusted into. All transitive verbs except the few special
+ones in B are regarded as of this A type—the affecting of an object
+requires an adjustment to it. Cryptotype A is thus an essentially
+dynamic or symbolically dynamic concept, even though it may refer to a
+resting state, and the dynamism emanates from the subject. Cryptotype A²
+is active or symbolically active (actorial) but not dynamic; the subject
+is simply introjected into a state of uniform motion, or its symbolic
+equivalent, and left there.
+
+Cryptotype C is an activity (always intransitive), into which the
+subject needs only to be placed in the initial stage in order to be
+seized by a natural tendency and carried on beyond the initial state in
+spite of itself. It is delivered over, as it were, to a realm of
+tendency, and henceforth is no longer master but must submit to an
+inevitable development and change of the initial state. Thus the initial
+state may be losing a support or losing balance, whereupon the subject
+is delivered over to gravity and ‘falls’ or ‘tips over’ or ‘spills’;
+once entered upon this state, it has to “see the finish of it.” Or, as
+in the case of turning, rotating, and other mechanical actions, it may
+be inertia, momentum, elasticity, or simply some indefinite automatic
+tendency that seizes the subject, once the first projection of action
+has, like a trigger, released it. The symbol for this is “being thrown,”
+which is the symbolic image behind the projective aspect -to ‘does with
+a forward movement.’ It may at first be thought curious that Hopi puts
+‘going out’ and ‘going in’ in this category. Actually no external force
+seizes the subject and moves him, but he does pass over a definite
+dividing line into another realm, the realm of the exterior, whereas he
+has been a part of the interior, or vice versa, and once he has made the
+change he is subject to the laws and nature of the new realm, those of
+the initial state being absolutely left behind. Thus in a way the verb
+‘go in’ or ‘go out’ might serve as the symbol of all the other ideas in
+this cryptotype. Cryptotype C is thus dynamic, or symbolically dynamic,
+but the dynamism does not emanate from the subject but from the external
+field. Finally, cryptotype D, as we saw, is not dynamic or even active,
+but inactive, i.e. either static or passive.
+
+The meaning of a PHENOTYPE, though ostensibly plain, can really not be
+completely understood in all its subtlety until the cryptotypes that go
+with it have been dredged up from their submerged state and their
+effective meanings to some extent brought into consciousness. Thereupon
+the different effects produced by the same phenotype with different
+cryptotypes, and vice versa, result in a more pronounced consciousness
+and clearer understanding of the phenotype itself. We are now in a
+better position to study the subtle meaning of -va and -ni. In the case
+of the latter we of course have to begin with a somewhat intuitive study
+of the tense system as a whole, and then of the “future” tense, denoted
+by -ni. The “future” tense asserts that expectancy of the event is
+present, that the subject’s will to the event, if it is a voluntary act,
+is present, and that the very first initial point of the event may have
+been reached (here context governs), but that all beyond this is not
+present but future: i.e. the event AS A WHOLE is future. In order that
+the event as a whole may be future, the tense cannot imply that the
+subject’s tendency will persevere beyond the initial point; otherwise
+the sense of futurity would be greatly weakened or completely lost; it
+would mean ONLY ‘he is starting his doing of it’ or ‘he is starting to
+do it.’ On the other hand -va means ‘starts with perseverance or
+gathering impetus to do it’; the initial point is present, the next
+point swiftly impending, and the follow-through promised. With the A
+cryptotype, unreduplicated, either -va or -ni may be used with a slight
+difference in nuance, which is shown by some of the examples to mean
+‘begins to do it.’ The -ni says the activity has gone to the initial
+point, but the dynamic, perseverating meaning of the cryptotype itself
+promises that the nondurative condition denoted by the verb will be
+fairly embarked into. It is the same with -va, except that it makes the
+embarkation even more positive. But, with the reduplicated or durative A
+verb, we need -va because the dim cryptotypic perseveration in the A
+verb is merely sufficient to embark, and, in order to promise a
+follow-up through a durative action, we need to assert the persevering
+will or tendency of the subject himself or itself, which is done by
+means of -va. Thus, to say ‘he begins to chop it,’ meaning that he
+swings the axe to make at least one chop (whether he makes any more or
+decides to quit then and there we don’t know), we may use either -ni or
+-va. But, to say ‘he begins chopping it,’ meaning that his first chop
+will be followed by a second and a third and so on, we need the
+reduplication and -va, not -ni. It is the same if the action is not
+repetitive but merely continuous: i.e. ‘he begins sleeping.’
+
+On the other hand, with cryptotype B, the cryptotypic meaning implies
+that, once the initial point is reached (for which -ni is sufficient),
+the event is manifested in its typical form and will maintain itself for
+a time at least in that form; hence the whole question of perseverance
+by the subject is thrown out of the window, so to say. This means that
+-va would be redundant and inappropriate, perhaps suggesting more
+purposive drive than is needed in the bare statement of a B-type
+activity. There is about the B-cryptotype words a certain bareness and
+abstractness; they announce a type of motion or position and let it go
+at that. All the ‘going’ and ‘coming’ words are particularly abstract,
+having no really verbal roots but being merely verbalized postpositions
+or adverbs, ‘to, from, away,’ etc. It is perhaps a matter of the deep
+layers of Hopi thought process that this cold bareness should not be
+spoiled or falsified by the use of an element like -va.
+
+This illustration will show how the meaning of a form in a language like
+Hopi is capable of being more deeply analyzed by the cryptotype concept,
+and how the totality of meaning is a joint product of cryptotypic and
+phenotypic factors. In many languages the cryptotype concept would be of
+little use, but there are languages like Hopi in which much of the
+influential material of paradigm production lies in this heavily veiled
+state, just as there are people whose mental life is much less
+accessible than that of others. Cryptotypes play a much larger part in
+Hopi than this rather minor problem of inceptive forms, which however
+yields a neat illustration. I believe I am the first to point out the
+existence of this submerged layer of meaning, which in spite of its
+submergence functions regularly in the general linguistic whole.
+
+I am very curious to know what you as a psychologist think of this
+general idea. How does it bear on the problems you have in hand? The
+resemblance of the cryptotypes to the concept of the unconscious of
+Freud, and still more perhaps of Jung, will no doubt strike you,
+although the parallel should perhaps not be carried too far.
+
+ 
+
+The following, heretofore unpublished, was a draft of a letter addressed
+to me while I was a student of psychology at the University of Minnesota
+in the fall of 1937. Even though part of the handwritten draft was
+copied out on the typewriter, with an original and one carbon, it was
+apparently never sent, for I never received it. The draft manuscript was
+found among family papers.
+
+1. “It” denotes a transitive verb, requiring an object expressed or
+implied.
+
+2. [The first ed. has A but it is possible that B is intended here. PL]
+
+9
+
+Some Verbal Categories of Hopi
+
+In the earlier stages of work on the Hopi language, I had the pleasant
+feeling of being in familiar linguistic territory. Here, wondrous to
+relate, was an exotic language cut very much on the pattern of
+Indo-European: a language with clearly distinct nouns, verbs, and
+adjectives, with voices, aspects, tense-moods, and no outré categories,
+no gender-like classes based on shape of objects, no pronouns referring
+to tribal status, presence, absence, visibility, or invisibility.
+
+But, in course of time, I found it was not all such plain sailing. The
+sentences I made up and submitted to my Hopi informant were usually
+wrong. At first the language seemed merely to be irregular. Later I
+found it was quite regular, in terms of its own patterns. After long
+study and continual scrapping of my preconceived ideas, the true
+patterning emerged at last. I found the experience highly illuminating,
+not only in regard to Hopi but as bearing on the whole subject of
+grammatical categories and concepts. It happens that Hopi categories are
+just enough like Indo-European ones to give at first a deceptive
+impression of identity marred with distressing irregularities, and just
+enough different to afford, after they have been correctly determined, a
+new viewpoint toward the, on the whole, similar distinctions made in
+many modern and ancient Indo-European tongues. It was to me almost as
+enlightening to see English from the entirely new angle necessitated in
+order to translate it into Hopi as it was to discover the meanings of
+the Hopi forms themselves. This was notably true for the four types of
+verbal category herein discussed.
+
+It will be well to outline first the following general distinctions:
+
+1. OVERT CATEGORY: one marked by a morpheme which appears in every
+sentence containing the category, vs. COVERT CATEGORY: not marked in
+sentences in general, but requiring a distinctive treatment in certain
+types of sentence, e.g. English genders.
+
+2. WORD CATEGORY: a category (overt or covert or mixed) which delimits
+one of a primary hierarchy of word classes, each of limited membership
+(not coterminous with entire vocabulary), e.g. the familiar “parts of
+speech” of Indo-European and many other languages, vs. MODULUS CATEGORY:
+one which modifies either any word of the vocabulary or any word already
+allocated to a delimited class, e.g. voices, aspects, cases.
+
+3. SPECIFIC CATEGORY: an individual class of any of the above types,
+e.g. passive voice, durative aspect, vs. GENERIC CATEGORY: a higher
+hierarchy formed by grouping classes of similar or complementary types,
+e.g. voice, aspect.
+
+The categories treated in this article are all of the overt and the
+modulus types, but it should be stated that covert categories and word
+categories are also of great importance in Hopi grammar. Failure to
+define such classes would at once give the grammar a very irregular
+appearance. The generic categories here treated belong to the verb
+system, and have been designated ASSERTION, MODE, STATUS, and MODALITY.
+
+Assertion
+
+Hopi verbs have three assertions: REPORTIVE (zero form), EXPECTIVE
+(suffix -ni), NOMIC (suffix -[LATIN SMALL LETTER ENG]^(w)ï ). These
+translate, more or less, the English tenses.¹ But they do not refer to
+time or duration. They distinguish three different kinds of information.
+Assertion, in other words, is a classification that refers the statement
+to one of three distinct realms of validity. The reportive is simply a
+reporting statement, telling of the historical actuality of a certain
+situation: e.g. Eng. ‘he ran, he is running, I see it.’²
+
+The expective declares an expectation or anticipation of a situation. It
+is translated by the English future, or by ‘is going to,’ or by ‘begins
+to,’ for an attitude may still be one of expectant anticipation, rather
+than one of reporting a fait accompli, while the action is already
+beginning. Since the assertions have nothing to do with time as such, an
+expectant attitude may be projected into an account of past events,
+giving the translations ‘was going to,’ ‘began to.’ A clue to meanings
+otherwise obscure resides in the rendering ‘his doing it is (or was)
+expected.’ Thus, addition of the concursive mode suffix -ka[LATIN SMALL
+LETTER ENG] ‘while’ forms an expective concursive in -nika[LATIN SMALL
+LETTER ENG], but to translate here by the English future ‘while he will
+do it’ would be quite incorrect. The form means ‘before he does it’:
+i.e. ‘while his doing it is expected.’³
+
+The nomic does not declare any particular situation, but offers the
+statement as a general truth, e.g. English: ‘she writes poetry, he
+smokes only cigars, rain comes from the clouds, certain dinosaurs laid
+eggs in sand.’ The three assertion categories are mutually exclusive.
+
+Mode
+
+Mode, in Hopi, is the generic category of the system by which is denoted
+the nature of the mingled discreteness and connection between a sentence
+(clause) and the sentence (clause) which follows or precedes it. The
+INDEPENDENT mode (zero form) implies that the sentence is detached from
+others, though it is possible to relate such sentences by paratactic
+connectives like our ‘and.’ But the Hopi show a great liking for
+hypotactic constructions. These employ six mutually exclusive DEPENDENT
+MODES, denoted by suffixes placed after the assertion suffix. Each mode
+denotes a basic type of relatedness involving both linkage and
+discreteness, or disparity. With the further addition of qualifying
+particles, these modes can distinguish a great number of possible
+relationships, much as in Greek the basic system of three oblique cases
+can be further developed by a large number of prepositions. However, the
+mode relationships are not case relations, nor are the modes defective
+forms like IE infinitives and gerunds, but full verb paradigms.
+
+The names, suffixes, and types of discreteness-connection are as
+follows: CONDITIONAL ([Whorf_p147a] eclipsing final vowel of base),
+condition needed to justify a nonreportive (expective or nomic)
+assertion in the other clause (Eng. ‘when, if’) (the mode clause is
+logically in this same assertion, though it does not bear any assertion
+suffix); CORRELATIVE (-qaY), explanatory justification of the statement
+of the other clause (Eng. ‘because, since, as, for,’ gerund
+construction); CONCURSIVE (ka[LATIN SMALL LETTER ENG], -kaka[LATIN SMALL
+LETTER ENG]), parallel contemporaneous occurrence (Eng. ‘while, as,
+and’); SEQUENTIAL (-t), sequence in time (Eng. ‘after, . . . and then .
+. .’); AGENTIVE (-qa), qualification of a person or thing in one clause
+as the subject in the other, the mode clause (Eng. ‘who, which,’ though
+not Eng. ‘whom’); TRANSRELATIVE (-q, [Whorf_p147b]), general relatedness
+bridging a difference of subject in the two clauses (no Eng.
+equivalent). Each mode refers to a certain kind of disparity or
+contrast, as well as of connection, between the two clauses; and a
+separateness of subjects or performers in the two clauses is itself one
+basic type of disparity on a level with the other basic types, and
+necessitates the transrelative mode in one of the clauses. Hence all the
+other modes refer to conditions in which the subject of both clauses is
+the same: i.e. clause-contrast is based on other factors than disparity
+of subjects. If it is desired to add to the general notion of the
+transrelative mode an expression of factors like those which are basic
+in the other modes, this can be done by detached particles. The subject
+of the transrelative in many constructions and of the agentive in some
+is in the objective case. That of all other modes is in the nominative.
+There follow some illustrations of the uses of the modes. In these
+examples and henceforth throughout this paper, the mode suffix is
+hyphenated to assist in identifying the dependent verb.
+
+Conditional: [Whorf_p148a] ‘when he goes home he will see the river’
+(expective); [Whorf_p148b] ‘when he goes home he sees the river’
+(nomic).
+
+Correlative: [Whorf_p148c] ‘because he went home he saw the river’;
+[Whorf_p148d] ‘he went home in order to see the river’: i.e. ‘he went
+home because his seeing the river was expected, looked forward to (by
+him)’; [Whorf_p148e] ‘he said that he saw the river’ (by his saying, to
+quote, ‘he saw the river’).
+
+Concursive: [Whorf_p148f] ‘as (or while) he went home he saw the river’;
+[Whorf_p148g] ‘he danced and sang’ (at the same time).
+
+Sequential: [Whorf_p148h] ‘after (or when) he arrived at his home he saw
+the river’; [Whorf_p148i] ‘he danced and then he sang.’
+
+Agentive: [Whorf_p148j] ‘the man who went home saw the river’;
+[Whorf_p148k] ‘I saw the man who went home’ (the agentive takes noun
+cases and here is in objective case, as likewise its subject).⁴
+
+Transrelative: [Whorf_p148l] ‘when he goes home a man will meet (‘arrive
+to’) him’; [Whorf_p148m] ‘when he goes home the chief meets him’
+(nomic); [Whorf_p148n] ‘since the boy danced, therefore the girl sang’;
+[Whorf_p149a] ‘he said that the girl went home’; nat ta·'wlaW-q ma·'na
+wïni'ma ‘while he sang the girl danced’; [Whorf_p149b] ma·'na ta·'wla`wï
+‘right after he (or, as soon as he had) danced the girl sang’;
+[Whorf_p149c] [Whorf_p149d] ‘after he goes home the chief will meet
+him.’
+
+Our relative clause with relative pronoun object is transrelative in
+Hopi, since there is disparity of subject; e.g. [Whorf_p149e]
+[Whorf_p149f] ‘the man whom I saw went home’ (‘man,’ objective dependent
+on ‘my seeing,’ ‘he went home’). Hopi treats ‘man’ as the object of the
+seeing clause, while the subject of the going-home clause is ‘he’
+expressed in the verb. English makes very little distinction between
+this construction and the one expressed in Hopi by the agentive, often
+using the same connective, ‘that’ or ‘which,’ for both, so that
+bewildering changes of construction may result, in translating a number
+of outwardly similar relative clauses into Hopi. These changes however
+are perfectly transparent to a Hopi; even a bilingual Hopi, when given
+the two propositions dressed in the same garb of English form, ‘the man
+that I saw went home’ and ‘the man that saw me went home,’ will
+instantly react with two completely dissimilar patterns: [Whorf_p149g]
+ni'ma, and ta·'qa nïy tïwa'‘qa ni'ma. Hopi also produces transrelative
+forms that translate our relative pronoun object of a preposition; and
+here the remoteness from our pattern is extreme: e.g. [Whorf_p149h]
+wa·'yma-q lε'‘pε ‘the bridge on which he was walking collapsed’ (‘bridge
+[objective] on-it being his walking, it collapsed’). Most bewildering of
+all to the usual Indo-European view is the manner in which Hopi combines
+modes with modalities according to a systematic logic of its own, of
+which more presently.
+
+Lest the omission of “imperative” from the modes seem peculiar, I may
+say that it belongs to a category of INJUNCTIVES (imperative,
+semi-imperative, optative, vetative), defective paradigms that are
+neither modes nor modalities.
+
+Status
+
+The status categories have been named AFFIRMATIVE (zero form,
+declarative sentence), NEGATIVE, INTERROGATIVE, INDEFINITIVE. The
+negative is formed in the reportive and nomic by the particle qa` ‘not’
+before the verb, in the expective by [Whorf_p150a] before the verb. The
+interrogative is the status of asking a question for a yes-or-no answer.
+It is formed by the particle pï` as the first word in the sentence, e.g.
+pï` ma·'na ti'yot [Whorf_p150b] ‘did the girl see the boy?’ There is no
+different intonation from any other type of sentence. The reply-forms
+are [Whorf_p150c] ‘yes,’ [Whorf_p150d] ‘no,’ pi·'hi·ˆy, an unanalyzable
+word meaning ‘I don’t know.’ The indefinitive is the status of the
+sentence containing an “interrogative” (better, indefinitive) pronoun,
+adverb, or verb (e.g. the verb ‘do what’). It need not be necessarily a
+true question, because such interrogative words are also indefinites
+(i.e. the words ‘what?’ and ‘something’ are the same); or, better said,
+the meaning of the word is an indefinite suggestion that implies also a
+more or less inquisitive attitude ‘something—I wonder what?’ The Hopi
+sentence [Whorf_p150e] ‘something is coming’ could be rendered
+psychologically as an ‘I-wonder-what is coming.’ Whether this is to be
+interpreted as a request for information or merely as an interesting
+remark will depend on the context, which may include the general
+behavior of the speaker.
+
+Modality
+
+Modality in Hopi is in rough terms the sort of thing that is referred to
+by the subjunctive and some other moods of IE languages. But of course
+we ought not to rest content with this “sort of” sort of definition. I
+would say that the modalities of Hopi are moduli of moduli, that is,
+they are methods of further modifying and amplifying the three-assertion
+system that distinguishes three basic realms of validity, so that in
+effect many more than three realms and subrealms of validity are
+distinguished—again, much as prepositional relationships in Greek
+amplify a basic system of case relationships. Modalities are to
+ASSERTIONS what the particles [Whorf_p151a] etc. in our mode examples
+are to MODES. They are denoted by particles designated MODALIZERS. The
+word-category of modalizers is more abundant in morphemes than the
+category of modality strictly considered. While there are many particles
+of the modalizer type, it seems necessary to distinguish eight (perhaps
+more) as mutually coordinated to the point of forming a system of eight
+modalities, to which on schematic grounds we may add as ninth the
+indicative modality or zero form. The line between the modalities and
+the lexical use of other modalizers is not sharp; yet on the whole the
+modalities are a set of mutually exclusive forms (with certain
+exceptions), while the other modalizers are used more freely along with
+each other or with the modality modalizers, occur in less frequent and
+less formally patterned uses, and are perhaps most conveniently treated
+as lexical items (see examples at end of this paper). The modalities
+have been named: INDICATIVE, QUOTATIVE, INHIBITIVE, POTENTIAL,
+INDETERMINATE, ADVISORY, CONCESSIVE, NECESSITATIVE, IMPOTENTIAL.
+
+QUOTATIVE: modalizer ya`w. The assertion becomes the assertion of a
+linguistic report. In telling a folk-tale ya`w is used like the English
+‘so’ or ‘and so’ at the beginning of almost every long sentence; it
+there means ‘so’ in the sense of ‘according to the story.’ In the simple
+independent sentence it adds the idea ‘they say,’ ‘on dit que.’ It is
+placed immediately after a direct quotation, the last word in which then
+receives high stress on the last syllable, this combination being
+equivalent to spoken quotation marks. It is used in indirect discourse,
+the verb of saying, hearing, etc., being in correlative or transrelative
+mode (see examples under these modes). Contrast [Whorf_p151b] ‘I heard
+that he fell down’ (by verbal report) with [Whorf_p151c] ‘I heard him
+fall down’ (heard the sound of his fall). However the quotative cannot
+imply the confirmation or concede the truth of the report, which is the
+function of the concessive modality [Whorf_p152a]; hence [Whorf_p152b]
+‘I heard (of the fact) that he fell down’ (which is conceded to have
+actually happened).
+
+INHIBITIVE: modalizer [Whorf_p152c] This means that the subject is
+blocked or prevented from producing the effect specified by the verb,
+with complete lack of implication about the cause of this condition, as
+to whether it lie in the ability of the subject or externally, etc. It
+is translated simply by ‘cannot.’
+
+POTENTIAL: This formulation strikes the English speaker at first as
+topsy-turvy, if not positively weird. It is translated by ‘can,’ but is
+simply the negative of the inhibitive, donated by [Whorf_p152d] Yet
+analysis shows the form to be remarkably logical. By this means the Hopi
+produce a perfectly neutral, potential ‘can’ that does not merely refer
+to personal ability, but denotes that the way is entirely open for the
+subject to turn potentiality into action if he chooses. (For the ‘can’
+of personal or technical ability, ‘knowing how,’ there is a definite
+verb, used with the expective correlative of the action verb.) But how
+could such a neutral potential ‘can’ be better expressed than by a
+negative form which declares simply the absence of all inhibitive or
+frustrative checks between the subject and action?
+
+INDETERMINATE: modalizer [Whorf_p152i] This indicates uncertainty,
+corresponding to ‘perhaps, possibly, maybe,’ or in the expective to
+‘may’: e.g. [Whorf_p152f] ‘when he goes home he may meet the chief’ (and
+again he may not). The uncertainty is like that of a balancing between
+about equal positive and negative probabilities; hence, e.g.
+[Whorf_p152g] [Whorf_p152h] ‘I asked him if (whether) he were about to
+go home’ (transrelative construction). Here at first [Whorf_p152i] seems
+to play the role of Eng. ‘if,’ but it is not so. It answers only to the
+indeterminacy expressed by the ‘if,’ whereas the linking and relating
+function of the ‘if’ is performed by the transrelative mode relation;
+[Whorf_p152i] itself is quite unable to effect any linkage.
+
+ADVISORY: modalizer kε. It denotes an uncertainty like [Whorf_p152i],
+but stresses slightly the possibility of the positive rather than the
+negative outcome. If this positive possibility is being asserted in the
+presence of a somewhat opposing attitude, or a dread of such an outcome,
+it gives the feeling of our ‘might,’ ‘may nevertheless,’ or in the
+reportive ‘might have done so.’ Thus, ta·'qa [Whorf_p153b] ‘when the man
+sees it he may run away’ (his possible running away is the thing to be
+kept in mind). Hence the sentence containing kε has an advisory
+character, since it does not merely adumbrate an uncertainty, but calls
+attention to one possible outcome thereof. Logically enough, our ‘may
+not’ is kε qa`, not [Whorf_p152i] qa`, e.g. [Whorf_p153c] ‘when he goes
+home he may not see it.’
+
+CONCESSIVE: modalizer [Whorf_p153a]. It denotes that the assertion is
+given validity as a concept rather than validity as an objective
+experience:⁵ e.g. ‘it is conceded, granted, inferred from the evidence
+at hand, assumed, considered as known,’ etc. In the independent sentence
+it may be rendered ‘it seems that, evidently, apparently,’ or merely
+‘so’: e.g. [Whorf_p154a] ‘so the chief went home’ (I gather). It is in
+complex sentences that its subtle importance stands out. Consider the
+transrelative pattern; [Whorf_p154b] ‘I see that it is red’ (by my
+seeing it is red), [Whorf_p154c] [Whorf_p154d] ‘I see that it sparkles.’
+The Hopi refuse to use this pattern as it stands for, e.g. ‘I see that
+it is new,’ which demands the concessive in the clause expressing
+newness, i.e. [Whorf_p154c] [Whorf_p154e] (by my seeing it is
+inferentially new). In other words newness is not a visual sensation
+like redness or light; it is not seen directly, but is inferred or
+assumed, [Whorf_p153a], from seen data. To us this seems like
+psychological analysis, but to the Hopi it is a clear and practical
+distinction. The ordinary English conditional ‘if’ construction requires
+in Hopi that the conditional or transrelative mode which represents the
+linking function of our ‘if’ be also concessive to represent the
+hypothecating function of the ‘if’; otherwise the mode would be
+translated ‘when’ and not ‘if.’ Thus, [Whorf_p153a] [Whorf_p154f] ‘if he
+goes home he will see the river’ (assuming that he goes home, etc.). The
+contrary-to-fact ‘if’ is another matter ([Whorf_p154g] see below).
+
+NECESSITATIVE: modalizer [Whorf_p154i] qa`. It means ‘necessarily,
+naturally, inevitably,’ and seems queer from the IE standpoint in being
+simply a double negative, which in Hopi always makes a positive. It is a
+combination of qa` ‘not’ and [Whorf_p154i] ‘expective not’ and thus
+means that there can be no expectancy of a negative. It often translates
+English ‘must’ and ‘have to’ but is not tinged with any notions of
+compulsion, duty, or obligation, being entirely neutral and abstract. It
+is often used in the conclusion of conditional statements to indicate a
+necessary consequence: e.g.
+[Whorf_p153a] [Whorf_p154j] [Whorf_p154i] qa` [Whorf_p154k] ‘if he goes
+home he will see the river’ (as a necessary consequence).
+
+IMPOTENTIAL: modalizer [Whorf_p154h]. This modality is very difficult to
+express in terms of our ways of thinking. It indicates what I might call
+teleological ineffectiveness. We go part way along the road with the
+Hopi by recognizing forms of assertion, like ‘may’ and ‘can,’ that are
+on a different plane from the bare ‘does’ and ‘does not,’ and as
+compared with these more rudimentary assertions have a status that
+combines the qualities of affirmative and negative, of reality and
+unreality. They are on a middle ground between these opposites, even
+though formally cast in an affirmative pattern. But all our
+middle-ground expressions refer to the realm of latency; the reason for
+the statement’s dual positive-negative character is that its truth is
+that of a latency, of which the manifestation belongs to the future. The
+Hopi also have middle-ground expressions of this sort, as we have seen.
+But they have, further, a middle-ground expression in which the dual
+positive-negative character is not a matter of latency, but is ascribed
+to events that have already happened. Moreover an expression referring
+to something that never happened at all can be assigned to this same
+realm of quasireality, along with references to actual happenings. The
+criterion that fastens this particular stigma, as it were, of
+quasireality upon the subject matter of discourse is ineffectiveness in
+terms of the purpose, goal, drive, need, function, etc. (a variety of
+concepts in our own ideology are here applicable) that originally formed
+the grounds for the action. If a Hopi is reporting a train of events in
+which a man ran away from his pursuers but was eventually captured by
+them, he will use the impotential, and say ta·'qa [Whorf_p154h] wa·'ya
+‘the man ran away’ (implying that ‘ran away’ cannot here be held to mean
+‘escaped’). If the man ran away and escaped, the statement would be
+simply ta·'qa wa·'ya. [Whorf_p155a] ma'qto is ‘I went hunting’;
+[Whorf_p154c] [Whorf_p154h] ma'qto is the same, except that it implies
+that I came back empty-handed or practically so. We could convey such
+information by saying ‘well, I went hunting!’ in a disgusted tone, but
+the Hopi sentence is not really comparable to this. It is a quite
+unemotional statement; [Whorf_p154h] is not an expression of affect but
+is intellectual, and would be used whether the speaker be unmoved,
+displeased, or pleased; e.g. cö·'viw [Whorf_p154h] wa·'ya ‘the deer
+fled’ (but I caught him just the same). My name for this modality,
+“impotential,” refers to the connotation of impotence that it gives to
+the statement of actions and attempts. In the expective, it changes the
+translation from ‘will’ to ‘tries to’: e.g.
+ma·'na [Whorf_p154h] [Whorf_p156a] ‘the girl tries to dance’ (but does
+not for the present succeed). However, expective impotential does not
+imply that later attempts will not succeed. When the expective refers to
+the past of narration, its impotential refers to a frustrated attempt at
+some event that did not actually happen: e.g. [Whorf_p154h] wa·'ya'ni
+‘he tried to escape,’ of a prisoner who failed to escape. When the
+impotential is expective in a dependent mode (i.e. when it is
+conditional or transrelative and the other clause is expective), the
+reality is further attenuated to a never-realized theoretical past
+possibility. Thus our contrary-to-fact condition is impotential in Hopi:
+e.g. [Whorf_p156b] ‘if he had gone home he would have seen the river’
+(‘when in not-to-be-realized capacity of going home he was in
+necessitous expectancy of seeing the river’). Here the concessive may be
+added to the impotential, especially if the mode is transrelative: e.g.
+[Whorf_p156c] ‘if he had gone home the chief would have met him.’ Our
+‘although, but, yet,’ etc. indicate a tension of some sort between two
+conflicting tendencies. The Hopi unerringly discriminate whether one of
+these tendencies has actually aborted the other (the impotential
+meaning) or whether the opposition is of the sort to be indicated by kε,
+[Whorf_p152i], or some other means. Thus, in concursive,
+[Whorf_p154c] [Whorf_p154h] [Whorf_p156d] ‘although I was sitting I felt
+tired’; in transrelative, [Whorf_p154h] [Whorf_p156e]‘although he fled I
+caught him.’ On the other hand, [Whorf_p154h] would be wrong in
+‘although he was running he was singing,’ since neither action has
+aborted the purpose of the other; here a Hopi would say simply
+[Whorf_p156f] ‘while he was running he was singing,’ or perhaps add to
+this an element denoting mild surprise. In the sequential
+form[Whorf_p154h] [Whorf_p156g] ‘although he had arrived he did not
+dance,’ [Whorf_p154h] implies that the function of coming was to dance;
+he might as well not have come.⁶
+
+The disparity of pattern from Indo-European appears in that, while all
+these modalities resemble the IE subjunctive, not one aligns with it.
+The Hopi interpret our subjunctive in various ways according to a
+recognition of relationships of which we are not linguistically
+conscious. Thus, in ‘if I were king,’ ‘were’ from the Hopi viewpoint is
+impotential; in ‘to see if he were brave,’ ‘were’ is indeterminate; in
+‘though he be stubborn,’ ‘be’ is advisory; in ‘if he be right,’ ‘be’ is
+concessive. Or is the pattern so very different from Indo-European after
+all? It remains a fact that the Uto-Aztecan languages in general, and
+Hopi especially, are for American languages unusually reminiscent of IE
+in their type of grammar. Could it be possible that in ancient forms of
+IE, perhaps in Hittite, patterns of syntactic construction may exist
+that would lend themselves to an analysis following somewhat the Hopi
+outline?
+
+Other Modalizers
+
+There are a number of modalizers having uses less definitely formal than
+those of the modality system. Their wide range of expression is shown by
+the following samples:
+
+[Whorf_p157a]: memory, recollection—‘according to recollection it is
+so.’
+
+[Whorf_p157b]: probability, reasonable expectation, justifiable
+assumption or hope—‘supposedly’—and in the expective is like our ‘if all
+goes well.’
+
+na'wïs: obligation to voluntary action without compulsion; differs from
+our ‘ought to, should’ by greater promise that the action will be
+performed; may sometimes be rendered ‘has to,’ but, according to my
+informant, corresponds to our expression ‘can’t very well refuse to.’
+
+pε·v: ‘almost, nearly,’ pε·v kε ‘possibly almost,’ ‘almost may.’
+
+pi`: acceptance of conditions as they are or must be, undeniable fact,
+inevitability; sometimes corresponds to English word stress, e.g.
+[Whorf_p158a] ‘he will arrive,’ [Whorf_p158b] ‘he will arrive,’ ‘he, at
+least, will arrive.’ It also corresponds to ‘after all,’ and still more
+to our shrug of the shoulders, while pay pi` ‘already,’ pi` indicates
+philosophic resignation to unchangeable reality—pay pi` wa·'ya ‘he ran
+away, and that’s that.’ Also common are the combinations with negative
+(pi` qa`) and necessitative ([Whorf_p154i] pi` qa`).
+
+ta'tam: necessity to which one resigns oneself with a self-sacrificing
+feeling; ‘must,’ or ‘may as well’ imbued with this feeling; implies that
+the subject is sacrificing his own interests or preferences.
+
+[Whorf_p158c]: intention without clear resolve, vaguer than ‘wants to’
+or ‘intends to’; more like ‘is (was) thinking of ——ing,’ ‘would,’ ‘would
+like to.’
+
+The extent to which “modal feeling” is diversified and the finesse of
+its application differ markedly in different languages, but probably few
+languages have gone so far into these fields as Hopi.
+
+ 
+
+Reprinted from Language, 14:275–286 (1938).
+
+1. In “The punctual and segmentative aspects of verbs in Hopi,”
+Language, 12 (1936), I referred to the assertions as tenses and called
+them factual or present-past, future, and generalized or usitative.
+
+2. There is no distinction in the reportive between past and present,
+for both are equally accomplished fact. What we call present tense (not
+counting our present form which corresponds to the nomic) is from the
+Hopi standpoint simply a report to others concerning a situation shared
+with them, this report being either redundant information, or used to
+call attention to, or tell about some fragment of the situation not
+fully shared. Thus to the Hopi ‘he is running’ need not be different
+from ‘he was running,’ for, if both the speaker and listener can see the
+runner, then the ‘is’ of the former sentence means merely that the
+listener can see for himself what he is being told; he is being given
+redundant information, and this is the only difference from the latter
+sentence. Now the Hopi listener senses no lack in Hopi grammar for its
+not telling him that the information is redundant, when he can see for
+himself that it is. If the speaker can see the runner but the listener
+cannot, then the information is not redundant, but the situation in that
+case is one of rapidly relaying the information, which rules out the
+distinctive past meaning of ‘was,’ and again the Hopi find our tense
+distinction irrelevant.
+
+3. The orthography used for Hopi is phonemic and employs the American
+Anthropological Association symbols generally used for American Indian
+languages, with the following minor variations: k is somewhat fronted
+and before a and ε sounds like k^(y); c is the affricate ts;
+[Whorf_p146n3a] is glottal stop; v is bilabial and when syllable-final
+unvoiced, r is retroflex, untrilled, and slightly spirantal, and when
+syllable-final unvoiced, small capitals denote voiceless consonants
+which are separate phonemes, a dot under a vowel denotes the short, and
+lack of a mark the medium grade of the Hopi three-quantity vowel system,
+' (“high accent”) denotes raised pitch and fairly strong stress and on
+monosyllabic words is not marked but to be understood,` (“low accent”)
+denotes a lower level of pitch and weak stress and is marked where it
+occurs on monosyllabic words. The mode suffixes and most of the
+particles have special pausal forms when they stand at the end of
+sentences; these are not given except for the suffix [Whorf_p146n3b]
+which is used in an example.
+
+4. This objective-case agentive clause is the one exception to the rule
+that disparity of subject requires the transrelative.
+
+5. We may not here read “sensory” for “objective,” for experiences which
+psychology would place at the level of percepts rather than sensations,
+or even at the level of simple concepts, do not require the concessive,
+though they are treated differently from sensations. They are the
+percepts (or simple concepts) of seeing an action or phenomenon of a
+type having a lexical name (verb), and are put in the indicative
+transrelative, while it is now the verb of seeing that is in the
+independent mode, e.g.,[Whorf_p153d] ‘I saw him run away,’ [Whorf_p153e]
+‘I saw him shoot the bird.’ It is a remarkable fact that the Hopi seem
+to recognize, in their language, a distinction of four types of received
+information which correspond roughly to gradings made by psychology: (1)
+sensory, e.g. ‘I see that it is red,’ ‘I hear him fall,’ sensing verb in
+transrelative, information verb in indicative; (2)
+perceptual-conceptual, e.g. ‘I see him fall,’ sensing verb in
+independent, information verb in transrelative; (3) overt linguistic,
+e.g. ‘I heard that he fell’ (unconceded), sensing verb in transrelative,
+information verb in quotative; (4) pure conceptual, e.g. ‘I see that it
+is new,’ ‘I heard that he fell’ (a conceded truth), sensing verb in
+transrelative, information verb in concessive.
+
+6. The realm of the might-as-well-not-have-been is, in a nutshell, that
+middle ground between positive and negative which the impotential
+represents. What we call the might-have-been is to the Hopi simply a
+part of this realm. It is the expectancy (potency, tendency,
+possibility, wish) that might as well not have been.
+
+10
+
+Language: Plan and Conception of Arrangement
+
+Editor’s note: In 1938, Whorf circulated this table and accompanying
+outline in manuscript form among selected colleagues. It was written as
+a supplement to the Outline of cultural materials prepared by George P.
+Murdock and his colleagues at the Department of Anthropology at Yale
+University as a guide to ethnological field workers, and is referred to
+in the brief “Language” section of that outline.
+
+In several places in his writings Whorf mentions the desirability of a
+“world-survey” of languages; this outline was doubtless intended by him
+as a suggested standard framework for collecting the information on
+particular languages which would be needed for such a survey.
+
+The reader’s attention should be directed first to the table on page
+160, which displays the whole scheme of language as conceived by Whorf.
+The subsequent outline, which presents an expansion of the semasiology
+section of the table, is thus only an appendage to the table, even
+though it contains most of the meat. The material is printed with only
+minor alterations and corrections of the original manuscript, which was
+furnished by Professor Norman McQuown of the University of Chicago.
+
+[Whorf_010_fig_001]
+
+[EXPANSION OF Semasiology SECTION OF THE TABLE]
+
+A. The sentence
+
+1. Sentence-end marking: by
+
+intonation (one pattern, several patterns)
+
+pause forms
+
+special marking elements
+
+word order affective marking. Intonations or other elements marking
+sentence end and also denoting, e.g., emphasis, interest, surprise,
+doubt, interrogation, force of conviction, affective diminution, or
+augmentation, etc.
+
+2. Sentence-initial marking: by
+
+word order, e.g., verb always first, etc.
+
+sentence introducers
+
+intonation
+
+others
+
+absent
+
+3. Intrasentential linkage (syntax) (integrating principle within the
+sentence) word order. Expansion of word order, subject-predicate order,
+adjacent order (modifier before, modifier after, mixed), interrupted
+order (tmesis), e.g., English split infinitive.
+
+functional categories (e.g., nouns, verbs, predicators, etc.) variously
+marked. See categories under B, The word.
+
+marking of relationships, e.g., by cases, pre- or postpositions, action
+directors (i.e., different markings of action-goal or cause-effect,
+transitives, applicatives) et al.
+
+subsumption (reference within verb or other keyword to the syntax)
+pronominal incorporation or reference, noun incorporation directive and
+instrumental elements, and body-part elements, etc. verb a nuclear
+sentence (e.g. Navaho)
+
+holophrastic sentence (form of polysynthesis in which verb takes in most
+of the sentence)
+
+sentence harmony, i.e., agreement of formal classes, e.g., agreement in
+gender, number, etc. (Bantu is an extreme instance)
+
+4. Intersentential linkage (external syntax) (addition of sentence to
+sentence)
+
+Paratactic (coordinating)
+
+juxtaposition of sentences
+
+coordinating elements
+
+prosodic (intonations, etc.)
+
+sublexical (suffixes, etc.)
+
+particles (enclitics or words, e.g., ‘and’)
+
+Hypotactic (subordinating) (use of dependent clauses) by order
+
+prosodic means (intonation, etc., e.g., the English comma intonation)
+
+sublexical marking, including special verb forms, gerundials
+
+subordinating particles, conjunctions
+
+5. Predication
+
+Techniques
+
+word order or sentence pattern (the isolating type)
+
+sublexical predicators (i.e., suffixes, etc., which make a “verb” out of
+anything to which they are added. Here the suffix, not the whole “verb”
+is the predicator)
+
+predicating word-classes (verbs and various types of quasiverbs; the
+predicative force is fused with a lexical meaning, e.g., ‘eat, kill,
+stand’) (See categories under B, The word)
+
+verbal sentence only
+
+verbal and nominal sentences—nominal sentences designated by order
+pattern, sublexically, etc.
+
+operators (words specialized for predication, otherwise lexical meaning
+blank [‘be, become, cause, do’] or vague [‘make, turn, get,’ etc.]).
+auxiliary verbs.
+
+mixtures of techniques
+
+Categories of predication
+
+copulative (be)
+
+general
+
+inherent (Spanish ser), or subjective
+
+objective (Spanish estar)
+
+general verbal, including all the following:
+
+causal
+
+active–causal
+
+intransitive—mediopassive
+
+transitive
+
+inactive–causal
+
+intransitive
+
+transitive
+
+incausal
+
+static
+
+resultative
+
+passive
+
+others (the above may be stated differently according to the pattern of
+language, e.g., instrumental verb, etc.)
+
+6. Minimal and abbreviated sentences
+
+abbreviated sentences
+
+retrospective forms, e.g., ‘I did.’ ‘Will you?’
+
+elliptic forms, e.g., ‘But tomorrow—!’
+
+social formulas (‘thank you, hello, please,’ etc.)
+
+minimal sentences
+
+vocative type (‘John! Mother!’)
+
+imperative type (‘Come!’)
+
+others
+
+‘yes’ and ‘no’
+
+interjections
+
+ordinary (‘oh, ouch, alas,’ etc.)
+
+“swear words”
+
+other types with special cultural force
+
+B. The word (the word as part of the sentence)
+
+1. Morphology (overt structure)
+
+Techniques (of overt marking) (if possible, state degree, e.g., slight,
+moderate, abundant, profuse)
+
+prefixing
+
+suffixing
+
+infixing
+
+vocalic ablaut
+
+change of 1 vowel of stem, of 2 or more
+
+ablaut elision, length-change, quavering
+
+consonantal ablaut
+
+accent and (or) tone changes
+
+reduplication (total, partial, initial-syllabic, final-syllabic,
+vocalic, reduplication with interpolation)
+
+extrusion (commonly called reduplication)
+
+vocalic, initial (tak—atak), final (lem—leme)
+
+consonantal, initial (lem—leml), final (lem—mlem)
+
+mixed (e.g., lem—lemel)
+
+vowel-harmony accompanying other techniques
+
+Categories, morphological. See 3. Categories
+
+2. Covert structure and relationship
+
+Techniques
+
+selection^(*) (e.g., difference between ‘John, come, dog, kill’)
+
+suppletion (e.g., ‘go, went’)
+
+order (in phrase or sentence)
+
+pronominal reference (e.g., used in English to mark gender-class)
+
+reference by key-word not a pronoun
+
+reactance (word with the covert relation governs choice of certain other
+words, e.g., round- vs. long-object terms in Navaho, governs choice of
+verb stem)
+
+Categories, covert. See 3. Categories
+
+3. Categories
+
+May be either overt or covert. If possible, say which and how marked, or
+mixed, e.g., verbs, suffixing; nouns, pure selection; nouns, absence of
+other marking.^(†)
+
+I. Word categories
+
+a. Functional–lexical
+
+noun
+
+verb
+
+adjective
+
+adverb
+
+none (it must be remembered that any or all of these types may not
+exist; e.g., it may be impossible to have a “verb” without a suffix of
+verbation which can be applied to ANY stem. There is then no class of
+verbs, but only the “modulus category” (q.v.) of verbation.)
+
+b. Functional
+
+pronouns (personal, state kinds of—demonstrative, directive—state ideas
+connoted—interrogative, negative, indefinite, relative, etc.)
+
+particles (words used in marking or linking the SENTENCE, q.v.,
+end-markers, initial-markers (inceptors), pro- and postpositions,
+conjunctions, modal particles, predicators, operators, etc.)
+
+articles. See II,c. definite–indefinite
+
+c. Reference categories (which imply a classification of experience,
+different kinds of things, state, or action)
+
+genders (many different kinds, masculine, feminine, animate, inanimate,
+personal, rational, irrational, integral, etc.)
+
+multireference categories (many gender-like classes, often with
+indistinguishable meaning, e.g., Bantu)
+
+social status and rank classes
+
+shape classes (e.g., Navaho, Haida)
+
+presence–absence
+
+visibility
+
+locus and extension classes
+
+d. Purely formal classes, e.g., conjugations and declensions
+
+e. Personal name classes, gender, age, respect, etc.
+
+II. Modulus categories. (These do not delimit word-classes in
+themselves; they MODIFY, either ANY class, or classes already delimited
+by other means)
+
+a. Generally applicable
+
+predication
+
+verbation (predication other than ‘be’)
+
+“nomination” or noun-designation
+
+absolutive suffixes, nominative articles, zero-marking, etc.
+
+adjectivization
+
+b. Mixed application—sometimes generally applied, sometimes specially
+applied
+
+number (kinds 1, 2, 3, several, many, plural)
+
+collectivity and distribution
+
+duration
+
+tension (extension–duration)
+
+time or tense
+
+comparison, e.g., of adjectives
+
+see also reference categories; the same ideas may be applied as moduli
+
+c. Special application
+
+Applied usually to verbs (or along with verbation)
+
+categories of predication, q.v. A. The sentence
+
+voice: active, passive, etc.
+
+resolution: transitive, intransitive, passive (voice and resolution
+merge)
+
+aspect (duration, extension, etc., e.g., punctual, durative, perfective,
+imperfective, inceptive, continuative, progressive, frequentative,
+iterative, usitative, etc.)
+
+intensives
+
+tense systems
+
+mode (mood), e.g., indicative, subjunctive, inferential, dubitative,
+optative, potential, permissive, concessive, adversative, et al.
+
+status, e.g., interrogative, negative, quotative, emphatic
+
+exclamative and other affective forms
+
+address-forms, e.g., imperative, vetative (negative imperative),
+hortative, etc.
+
+gerundials or subordinators (cross-refer to A4)
+
+Applied usually to nouns (or along with nomination)
+
+state (i.e., possessed, unpossessed, pronominally possessed forms)
+
+case (various cases)
+
+adjectivization (also given under general)
+
+definite-indefinite (articles, etc.)
+
+partitives (some or any)
+
+generality, e.g., ‘man, woman, canis,’ as opposed to ‘a man, a woman, a
+dog’
+
+continual, e.g., ‘wood, metal,’ as opposed to ‘stick, piece of metal’
+
+individuative, e.g., ‘stick’
+
+others—See Reference categories, into which these merge
+
+d. Affective modulus categories (express speaker’s feelings rather than
+an idea)
+
+affective diminution (diminutives)
+
+affective augmentation
+
+respect forms
+
+emphasis, exclamative, and other forms—what classes of words is the
+affective modulus applied to?
+
+III. Cryptotypes. Covert word categories with subtle meaning marked only
+by reactances. Skip this in the survey except for obvious cases, as
+determination of cryptotypes usually requires deep study of a language.
+
+C. The lexeme (the word or stem as an item of the vocabulary, and as a
+part analyzed or abstracted from sentence words)
+
+1. Lexical hierarchies
+
+a. The language possesses distinctions between roots and derivative
+formations (stems, bases, themes). In this case the minimal irreducible
+base is called ROOT.
+
+b. The language may have only one sort, or one main sort, of lexical
+element. In this case such an element is usually called STEM—e.g., stems
+in Algonkin, Yana. Characterize language in this way if possible.
+
+c. Lexeme may be identical with word (word in sentence). Lexeme always
+different from word. Lexeme occurs in sentence—
+
+1. with morphological elements
+
+2. in polysynthetic composition
+
+2. Root and stem types
+
+polymorphous (no particular form for root or stem—however, this is rare;
+apt to be appearance based on insufficient analysis, e.g., as regards
+roots, English is not polymorphous)
+
+monomorphous. One characteristic root type, or 1 or 2 related types,
+e.g., CV, CVC, etc.
+
+restricted. Type with considerable freedom of form with certain
+restrictions, e.g., limitation on the kind and position of consonant
+clusters within root or within stem, e.g., English. Indicate the
+restrictions on clusters, etc. if possible.
+
+3. Derivation (formation of secondary lexemes, i.e., word bases, from
+roots)
+
+Techniques. Overt. These are similar to morphological techniques; e.g.,
+prefixing, suffixing, etc.
+
+Covert techniques—transfer to a different covert class and change of
+meaning with covert marking, e.g., ‘(to) stand, (a) stand (position),
+(a) stand (pedestal)’
+
+Degree of derivation—none, slight, moderate, great, cumulative (piling
+of derivative upon derivative, e.g., the mock-learned
+‘honorificabilitudinity’; this is found in Aztec, less so in Sanskrit
+and Greek, possibly in Magyar and Turkish)
+
+Derivational types^(‡)
+
+Noun types from verb-like bases
+
+action and state nouns, abstract nouns
+
+agentives—nouns of the doer
+
+instrumentives—nouns of instrument place nouns
+
+[Whorf_p170a]
+
+adjectival nouns others—there are many possibilities
+
+Verb types from nounlike bases
+
+verbs of activation, of possession, etc.
+
+4. Composition
+
+Compounding (essentially binary complexes; the 2 main parts may also be
+separate)
+
+modifier types. Does modifier come before or after?
+
+types: noun–noun, verb–noun, noun–verb, etc.
+
+coordinate types, e.g., ‘space-time’ in ‘space-time relationships’
+
+Polysynthetic composition
+
+composition of many stems with rules of order, e.g., Algonkin
+
+a further possibility is: no distinction between stems (lexemes) and
+markers of modulus categories. In this case cross-refer to modulus
+categories.
+
+Mixed types, e.g., “interrupted synthesis”
+
+in Athabascan—may be skipped as often difficult to analyze
+
+Nonisolatable lexemes—few, many, or all lexemes thus
+
+5. Semantic root-structure
+
+root analyzable into more or less vague parts and meanings, e.g.,
+‘tread, track, trip.’ Root-nucleus (e.g., tr) and root- determinative
+
+phonemic symbolism (correspondence between sound and sense)
+
+recurrence of the same phoneme or phoneme-group with a type of meaning
+
+overt manipulation of phonemes for semantic and affective results (e.g.,
+childish forms in some NW coast languages)
+
+roots susceptible of considerable intra-radical analysis.
+
+ 
+
+* Selection, i.e., pure selection. Selection also accompanies all other
+marking of word-categories. Pure selection requires existence of covert
+word-categories (q.v.).
+
+† Where possible, state avoidance of commonly found categories, e.g., no
+plural, no gender.
+
+‡ These may merge into or become identical with morphological
+categories, and in some languages this section is to be transferred from
+the LEXEME to the WORD: morphology.
+
+11
+
+The Relation of Habitual Thought and Behavior to Language
+
+Human beings do not live in the objective world alone, nor alone in the
+world of social activity as ordinarily understood, but are very much at
+the mercy of the particular language which has become the medium of
+expression for their society. It is quite an illusion to imagine that
+one adjusts to reality essentially without the use of language and that
+language is merely an incidental means of solving specific problems of
+communication or reflection. The fact of the matter is that the “real
+world” is to a large extent unconsciously built up on the language
+habits of the group. . . . We see and hear and otherwise experience very
+largely as we do because the language habits of our community predispose
+certain choices of interpretation.
+
+—Edward Sapir
+
+There will probably be general assent to the proposition that an
+accepted pattern of using words is often prior to certain lines of
+thinking and forms of behavior, but he who assents often sees in such a
+statement nothing more than a platitudinous recognition of the hypnotic
+power of philosophical and learned terminology on the one hand or of
+catchwords, slogans, and rallying cries on the other. To see only thus
+far is to miss the point of one of the important interconnections which
+Sapir saw between language, culture, and psychology, and succinctly
+expressed in the introductory quotation. It is not so much in these
+special uses of language as in its constant ways of arranging data and
+its most ordinary everyday analysis of phenomena that we need to
+recognize the influence it has on other activities, cultural and
+personal.
+
+The Name of the Situation as Affecting Behavior
+
+I came in touch with an aspect of this problem before I had studied
+under Dr. Sapir, and in a field usually considered remote from
+linguistics. It was in the course of my professional work for a fire
+insurance company, in which I undertook the task of analyzing many
+hundreds of reports of circumstances surrounding the start of fires, and
+in some cases, of explosions. My analysis was directed toward purely
+physical conditions, such as defective wiring, presence or lack of air
+spaces between metal flues and woodwork, etc., and the results were
+presented in these terms. Indeed it was undertaken with no thought that
+any other significances would or could be revealed. But in due course it
+became evident that not only a physical situation qua physics, but the
+meaning of that situation to people, was sometimes a factor, through the
+behavior of the people, in the start of the fire. And this factor of
+meaning was clearest when it was a LINGUISTIC MEANING, residing in the
+name or the linguistic description commonly applied to the situation.
+Thus, around a storage of what are called “gasoline drums,” behavior
+will tend to a certain type, that is, great care will be exercised;
+while around a storage of what are called “empty gasoline drums,” it
+will tend to be different—careless, with little repression of smoking or
+of tossing cigarette stubs about. Yet the “empty” drums are perhaps the
+more dangerous, since they contain explosive vapor. Physically the
+situation is hazardous, but the linguistic analysis according to regular
+analogy must employ the word ‘empty,’ which inevitably suggests lack of
+hazard. The word ‘empty’ is used in two linguistic patterns: (1) as a
+virtual synonym for ‘null and void, negative, inert,’ (2) applied in
+analysis of physical situations without regard to, e.g., vapor, liquid
+vestiges, or stray rubbish, in the container. The situation is named in
+one pattern (2) and the name is then “acted out” or “lived up to” in
+another (1), this being a general formula for the linguistic
+conditioning of behavior into hazardous forms.
+
+In a wood distillation plant the metal stills were insulated with a
+composition prepared from limestone and called at the plant “spun
+limestone.” No attempt was made to protect this covering from excessive
+heat or the contact of flame. After a period of use, the fire below one
+of the stills spread to the “limestone,” which to everyone’s great
+surprise burned vigorously. Exposure to acetic acid fumes from the
+stills had converted part of the limestone (calcium carbonate) to
+calcium acetate. This when heated in a fire decomposes, forming
+inflammable acetone. Behavior that tolerated fire close to the covering
+was induced by use of the name “limestone,” which because it ends in
+“-stone” implies non-combustibility.
+
+A huge iron kettle of boiling varnish was observed to be overheated,
+nearing the temperature at which it would ignite. The operator moved it
+off the fire and ran it on its wheels to a distance, but did not cover
+it. In a minute or so the varnish ignited. Here the linguistic influence
+is more complex; it is due to the metaphorical objectifying (of which
+more later) of “cause” as contact or the spatial juxtaposition of
+“things”—to analyzing the situation as ‘on’ versus ‘off’ the fire. In
+reality, the stage when the external fire was the main factor had
+passed; the overheating was now an internal process of convection in the
+varnish from the intensely heated kettle, and still continued when ‘off’
+the fire.
+
+An electric glow heater on the wall was little used, and for one workman
+had the meaning of a convenient coathanger. At night a watchman entered
+and snapped a switch, which action he verbalized as ‘turning on the
+light.’ No light appeared, and this result he verbalized as ‘light is
+burned out.’ He could not see the glow of the heater because of the old
+coat hung on it. Soon the heater ignited the coat, which set fire to the
+building.
+
+A tannery discharged waste water containing animal matter into an
+outdoor settling basin partly roofed with wood and partly open. This
+situation is one that ordinarily would be verbalized as ‘pool of water.’
+A workman had occasion to light a blowtorch near by, and threw his match
+into the water. But the decomposing waste matter was evolving gas under
+the wood cover, so that the setup was the reverse of ‘watery.’ An
+instant flare of flame ignited the woodwork, and the fire quickly spread
+into the adjoining building.
+
+A drying room for hides was arranged with a blower at one end to make a
+current of air along the room and thence outdoors through a vent at the
+other end. Fire started at a hot bearing on the blower, which blew the
+flames directly into the hides and fanned them along the room,
+destroying the entire stock. This hazardous setup followed naturally
+from the term ‘blower’ with its linguistic equivalence to ‘that which
+blows,’ implying that its function necessarily is to ‘blow.’ Also its
+function is verbalized as ‘blowing air for drying,’ overlooking that it
+can blow other things, e.g., flames and sparks. In reality, a blower
+simply makes a current of air and can exhaust as well as blow. It should
+have been installed at the vent end to draw the air over the hides, then
+through the hazard (its own casing and bearings), and thence outdoors.
+
+Beside a coal-fired melting pot for lead reclaiming was dumped a pile of
+“scrap lead”—a misleading verbalization, for it consisted of the lead
+sheets of old radio condensers, which still had paraffin paper between
+them. Soon the paraffin blazed up and fired the roof, half of which was
+burned off.
+
+Such examples, which could be greatly multiplied, will suffice to show
+how the cue to a certain line of behavior is often given by the
+analogies of the linguistic formula in which the situation is spoken of,
+and by which to some degree it is analyzed, classified, and allotted its
+place in that world which is “to a large extent unconsciously built up
+on the language habits of the group.” And we always assume that the
+linguistic analysis made by our group reflects reality better than it
+does.
+
+Grammatical Patterns as Interpretations of Experience
+
+The linguistic material in the above examples is limited to single
+words, phrases, and patterns of limited range. One cannot study the
+behavioral compulsiveness of such material without suspecting a much
+more far-reaching compulsion from large-scale patterning of grammatical
+categories, such as plurality, gender and similar classifications
+(animate, inanimate, etc.), tenses, voices, and other verb forms,
+classifications of the type of “parts of speech,” and the matter of
+whether a given experience is denoted by a unit morpheme, an inflected
+word, or a syntactical combination. A category such as number (singular
+vs. plural) is an attempted interpretation of a whole large order of
+experience, virtually of the world or of nature; it attempts to say how
+experience is to be segmented, what experience is to be called “one” and
+what “several.” But the difficulty of appraising such a far-reaching
+influence is great because of its background character, because of the
+difficulty of standing aside from our own language, which is a habit and
+a cultural non est disputandum, and scrutinizing it objectively. And if
+we take a very dissimilar language, this language becomes a part of
+nature, and we even do to it what we have already done to nature. We
+tend to think in our own language in order to examine the exotic
+language. Or we find the task of unraveling the purely morphological
+intricacies so gigantic that it seems to absorb all else. Yet the
+problem, though difficult, is feasible; and the best approach is through
+an exotic language, for in its study we are at long last pushed
+willy-nilly out of our ruts. Then we find that the exotic language is a
+mirror held up to our own.
+
+In my study of the Hopi language, what I now see as an opportunity to
+work on this problem was first thrust upon me before I was clearly aware
+of the problem. The seemingly endless task of describing the morphology
+did finally end. Yet it was evident, especially in the light of Sapir’s
+lectures on Navaho, that the description of the LANGUAGE was far from
+complete. I knew for example the morphological formation of plurals, but
+not how to use plurals. It was evident that the category of plural in
+Hopi was not the same thing as in English, French, or German. Certain
+things that were plural in these languages were singular in Hopi. The
+phase of investigation which now began consumed nearly two more years.
+
+The work began to assume the character of a comparison between Hopi and
+western European languages. It also became evident that even the grammar
+of Hopi bore a relation to Hopi culture, and the grammar of European
+tongues to our own “Western” or “European” culture. And it appeared that
+the interrelation brought in those large subsummations of experience by
+language, such as our own terms ‘time,’ ‘space,’ ‘substance,’ and
+‘matter.’ Since, with respect to the traits compared, there is little
+difference between English, French, German, or other European languages
+with the POSSIBLE (but doubtful) exception of Balto-Slavic and
+non-Indo-European, I have lumped these languages into one group called
+SAE, or “Standard Average European.”
+
+That portion of the whole investigation here to be reported may be
+summed up in two questions: (1) Are our own concepts of ‘time,’ ‘space,’
+and ‘matter’ given in substantially the same form by experience to all
+men, or are they in part conditioned by the structure of particular
+languages? (2) Are there traceable affinities between (a) cultural and
+behavioral norms and (b) large-scale linguistic patterns? (I should be
+the last to pretend that there is anything so definite as “a
+correlation” between culture and language, and especially between
+ethnological rubrics such as ‘agricultural, hunting,’ etc., and
+linguistic ones like ‘inflected,’ ‘synthetic,’ or ‘isolating.’¹ When I
+began the study, the problem was by no means so clearly formulated, and
+I had little notion that the answers would turn out as they did.)
+
+Plurality and Numeration in SAE and Hopi
+
+In our language, that is SAE, plurality and cardinal numbers are applied
+in two ways: to real plurals and imaginary plurals. Or more exactly if
+less tersely: perceptible spatial aggregates and metaphorical
+aggregates. We say ‘ten men’ and also ‘ten days.’ Ten men either are or
+could be objectively perceived as ten, ten in one group perception²—ten
+men on a street corner, for instance. But ‘ten days’ cannot be
+objectively experienced. We experience only one day, today; the other
+nine (or even all ten) are something conjured up from memory or
+imagination. If ‘ten days’ be regarded as a group it must be as an
+“imaginary,” mentally constructed group. Whence comes this mental
+pattern? Just as in the case of the fire-causing errors, from the fact
+that our language confuses the two different situations, has but one
+pattern for both. When we speak of ‘ten steps forward, ten strokes on a
+bell,’ or any similarly described cyclic sequence, “times” of any sort,
+we are doing the same thing as with ‘days.’ CYCLICITY brings the
+response of imaginary plurals. But a likeness of cyclicity to aggregates
+is not unmistakably given by experience prior to language, or it would
+be found in all languages, and it is not.
+
+Our AWARENESS of time and cyclicity does contain something immediate and
+subjective—the basic sense of “becoming later and later.” But, in the
+habitual thought of us SAE people, this is covered under something quite
+different, which though mental should not be called subjective. I call
+it OBJECTIFIED, or imaginary, because it is patterned on the OUTER
+world. It is this that reflects our linguistic usage. Our tongue makes
+no distinction between numbers counted on discrete entities and numbers
+that are simply “counting itself.” Habitual thought then assumes that in
+the latter the numbers are just as much counted on “something” as in the
+former. This is objectification. Concepts of time lose contact with the
+subjective experience of “becoming later” and are objectified as counted
+QUANTITIES, especially as lengths, made up of units as a length can be
+visibly marked off into inches. A ‘length of time’ is envisioned as a
+row of similar units, like a row of bottles.
+
+In Hopi there is a different linguistic situation. Plurals and cardinals
+are used only for entities that form or can form an objective group.
+There are no imaginary plurals, but instead ordinals used with
+singulars. Such an expression as ‘ten days’ is not used. The equivalent
+statement is an operational one that reaches one day by a suitable
+count. ‘They stayed ten days’ becomes ‘they stayed until the eleventh
+day’ or ‘they left after the tenth day.’ ‘Ten days is greater than nine
+days’ becomes ‘the tenth day is later than the ninth.’ Our “length of
+time” is not regarded as a length but as a relation between two events
+in lateness. Instead of our linguistically promoted objectification of
+that datum of consciousness we call ‘time,’ the Hopi language has not
+laid down any pattern that would cloak the subjective “becoming later”
+that is the essence of time.
+
+Nouns of Physical Quantity in SAE and Hopi
+
+We have two kinds of nouns denoting physical things: individual nouns,
+and mass nouns, e.g., ‘water, milk, wood, granite, sand, flour, meat.’
+Individual nouns denote bodies with definite outlines: ‘a tree, a stick,
+a man, a hill.’ Mass nouns denote homogeneous continua without implied
+boundaries. The distinction is marked by linguistic form; e.g., mass
+nouns lack plurals,³ in English drop articles, and in French take the
+partitive article du, de la, des. The distinction is more widespread in
+language than in the observable appearance of things. Rather few natural
+occurrences present themselves as unbounded extents; ‘air’ of course,
+and often ‘water, rain, snow, sand, rock, dirt, grass.’ We do not
+encounter ‘butter, meat, cloth, iron, glass,’ or most “materials” in
+such kind of manifestation, but in bodies small or large with definite
+outlines. The distinction is somewhat forced upon our description of
+events by an unavoidable pattern in language. It is so inconvenient in a
+great many cases that we need some way of individualizing the mass noun
+by further linguistic devices. This is partly done by names of
+body-types: ‘stick of wood, piece of cloth, pane of glass, cake of
+soap’; also, and even more, by introducing names of containers though
+their contents be the real issue: ‘glass of water, cup of coffee, dish
+of food, bag of flour, bottle of beer.’ These very common container
+formulas, in which ‘of’ has an obvious, visually perceptible meaning
+(“contents”), influence our feeling about the less obvious type-body
+formulas: ‘stick of wood, lump of dough,’ etc. The formulas are very
+similar: individual noun plus a similar relator (English ‘of’). In the
+obvious case this relator denotes contents. In the inobvious one it
+“suggests” contents. Hence the ‘lumps, chunks, blocks, pieces,’ etc.,
+seem to contain something, a “stuff,” “substance,” or “matter” that
+answers to the ‘water,’ ‘coffee,’ or ‘flour’ in the container formulas.
+So with SAE people the philosophic “substance” and “matter” are also the
+naive idea; they are instantly acceptable, “common sense.” It is so
+through linguistic habit. Our language patterns often require us to name
+a physical thing by a binomial that splits the reference into a formless
+item plus a form.
+
+Hopi is again different. It has a formally distinguished class of nouns.
+But this class contains no formal subclass of mass nouns. All nouns have
+an individual sense and both singular and plural forms. Nouns
+translating most nearly our mass nouns still refer to vague bodies or
+vaguely bounded extents. They imply indefiniteness, but not lack, of
+outline and size. In specific statements, ‘water’ means one certain mass
+or quantity of water, not what we call “the substance water.” Generality
+of statement is conveyed through the verb or predicator, not the noun.
+Since nouns are individual already, they are not individualized by
+either type-bodies or names of containers, if there is no special need
+to emphasize shape or container. The noun itself implies a suitable
+type-body or container. One says, not ‘a glass of water’ but
+[Whorf_p182a] ‘a water,’ not ‘a pool of water’ but [Whorf_p182b],⁴ not
+‘a dish of cornflour’ but [Whorf_p183a] ‘a (quantity of) cornflour,’ not
+‘a piece of meat’ but sik^(w)i ‘a meat.’ The language has neither need
+for nor analogies on which to build the concept of existence as a
+duality of formless item and form. It deals with formlessness through
+other symbols than nouns.
+
+Phases of Cycles in SAE and Hopi
+
+Such terms as ‘summer, winter, September, morning, noon, sunset’ are
+with us nouns, and have little formal linguistic difference from other
+nouns. They can be subjects or objects, and we say ‘at sunset’ or ‘in
+winter’ just as we say ‘at a corner’ or ‘in an orchard.’⁵ They are
+pluralized and numerated like nouns of physical objects, as we have
+seen. Our thought about the referents of such words hence becomes
+objectified. Without objectification, it would be a subjective
+experience of real time, i.e. of the consciousness of “becoming later
+and later”—simply a cyclic phase similar to an earlier phase in that
+ever-later-becoming duration. Only by imagination can such a cyclic
+phase be set beside another and another in the manner of a spatial (i.e.
+visually perceived) configuration. But such is the power of linguistic
+analogy that we do so objectify cyclic phasing. We do it even by saying
+‘a phase’ and ‘phases’ instead of, e.g., ‘phasing.’ And the pattern of
+individual and mass nouns, with the resulting binomial formula of
+formless item plus form, is so general that it is implicit for all
+nouns, and hence our very generalized formless items like ‘substance,
+matter,’ by which we can fill out the binomial for an enormously wide
+range of nouns. But even these are not quite generalized enough to take
+in our phase nouns. So for the phase nouns we have made a formless item,
+‘time.’ We have made it by using ‘a time,’ i.e. an occasion or a phase,
+in the pattern of a mass noun, just as from ‘a summer’ we make ‘summer’
+in the pattern of a mass noun. Thus with our binomial formula we can say
+and think ‘a moment of time, a second of time, a year of time.’ Let me
+again point out that the pattern is simply that of ‘a bottle of milk’ or
+‘a piece of cheese.’ Thus we are assisted to imagine that ‘a summer’
+actually contains or consists of such-and-such a quantity of ‘time.’
+
+In Hopi however all phase terms, like ‘summer, morning,’ etc., are not
+nouns but a kind of adverb, to use the nearest SAE analogy. They are a
+formal part of speech by themselves, distinct from nouns, verbs, and
+even other Hopi “adverbs.” Such a word is not a case form or a locative
+pattern, like ‘des Abends’ or ‘in the morning.’ It contains no morpheme
+like one of ‘in the house’ or ‘at the tree.’⁶ It means ‘when it is
+morning’ or ‘while morning-phase is occurring.’ These “temporals” are
+not used as subjects or objects, or at all like nouns. One does not say
+‘it’s a hot summer’ or ‘summer is hot’; summer is not hot, summer is
+only WHEN conditions are hot, WHEN heat occurs. One does not say ‘THIS
+summer,’ but ‘summer now’ or ‘summer recently.’ There is no
+objectification, as a region, an extent, a quantity, of the subjective
+duration-feeling. Nothing is suggested about time except the perpetual
+“getting later” of it. And so there is no basis here for a formless item
+answering to our ‘time.’
+
+Temporal Forms of Verbs in SAE and Hopi
+
+The three-tense system of SAE verbs colors all our thinking about time.
+This system is amalgamated with that larger scheme of objectification of
+the subjective experience of duration already noted in other patterns—in
+the binomial formula applicable to nouns in general, in temporal nouns,
+in plurality and numeration. This objectification enables us in
+imagination to “stand time units in a row.” Imagination of time as like
+a row harmonizes with a system of three tenses; whereas a system of two,
+an earlier and a later, would seem to correspond better to the feeling
+of duration as it is experienced. For if we inspect consciousness we
+find no past, present, future, but a unity embracing complexity.
+EVERYTHING is in consciousness, and everything in consciousness is, and
+is together. There is in it a sensuous and a nonsensuous. We may call
+the sensuous—what we are seeing, hearing, touching—the ‘present’ while
+in the nonsensuous the vast image-world of memory is being labeled ‘the
+past’ and another realm of belief, intuition, and uncertainty ‘the
+future’; yet sensation, memory, foresight, all are in consciousness
+together—one is not “yet to be” nor another “once but no more.” Where
+real time comes in is that all this in consciousness is “getting later,”
+changing certain relations in an irreversible manner. In this “latering”
+or “durating” there seems to me to be a paramount contrast between the
+newest, latest instant at the focus of attention and the rest—the
+earlier. Languages by the score get along well with two tenselike forms
+answering to this paramount relation of “later” to “earlier.” We can of
+course CONSTRUCT AND CONTEMPLATE IN THOUGHT a system of past, present,
+future, in the objectified configuration of points on a line. This is
+what our general objectification tendency leads us to do and our tense
+system confirms.
+
+In English the present tense seems the one least in harmony with the
+paramount temporal relation. It is as if pressed into various and not
+wholly congruous duties. One duty is to stand as objectified middle term
+between objectified past and objectified future, in narration,
+discussion, argument, logic, philosophy. Another is to denote inclusion
+in the sensuous field: ‘I SEE him.’ Another is for nomic, i.e.
+customarily or generally valid, statements: ‘We SEE with our eyes.’
+These varied uses introduce confusions of thought, of which for the most
+part we are unaware.
+
+Hopi, as we might expect, is different here too. Verbs have no “tenses”
+like ours, but have validity-forms (“assertions”), aspects, and
+clause-linkage forms (modes), that yield even greater precision of
+speech. The validity-forms denote that the speaker (not the subject)
+reports the situation (answering to our past and present) or that he
+expects it (answering to our future)⁷ or that he makes a nomic statement
+(answering to our nomic present). The aspects denote different degrees
+of duration and different kinds of tendency “during duration.” As yet we
+have noted nothing to indicate whether an event is sooner or later than
+another when both are REPORTED. But need for this does not arise until
+we have two verbs: i.e. two clauses. In that case the “modes” denote
+relations between the clauses, including relations of later to earlier
+and of simultaneity. Then there are many detached words that express
+similar relations, supplementing the modes and aspects. The duties of
+our three-tense system and its tripartite linear objectified “time” are
+distributed among various verb categories, all different from our
+tenses; and there is no more basis for an objectified time in Hopi verbs
+than in other Hopi patterns; although this does not in the least hinder
+the verb forms and other patterns from being closely adjusted to the
+pertinent realities of actual situations.
+
+Duration, Intensity, and Tendency in SAE and Hopi
+
+To fit discourse to manifold actual situations, all languages need to
+express durations, intensities, and tendencies. It is characteristic of
+SAE and perhaps of many other language types to express them
+metaphorically. The metaphors are those of spatial extension, i.e. of
+size, number (plurality), position, shape, and motion. We express
+duration by ‘long, short, great, much, quick, slow,’ etc.; intensity by
+‘large, great, much, heavy, light, high, low, sharp, faint,’ etc.;
+tendency by ‘more, increase, grow, turn, get, approach, go, come, rise,
+fall, stop, smooth, even, rapid, slow’; and so on through an almost
+inexhaustible list of metaphors that we hardly recognize as such, since
+they are virtually the only linguistic media available. The
+nonmetaphorical terms in this field, like ‘early, late, soon, lasting,
+intense, very, tending,’ are a mere handful, quite inadequate to the
+needs.
+
+It is clear how this condition “fits in.” It is part of our whole scheme
+of OBJECTIFYING—imaginatively spatializing qualities and potentials that
+are quite nonspatial (so far as any spatially perceptive senses can tell
+us). Noun-meaning (with us) proceeds from physical bodies to referents
+of far other sort. Since physical bodies and their outlines in PERCEIVED
+SPACE are denoted by size and shape terms and reckoned by cardinal
+numbers and plurals, these patterns of denotation and reckoning extend
+to the symbols of nonspatial meanings, and so suggest an IMAGINARY
+SPACE. Physical shapes ‘move, stop, rise, sink, approach,’ etc., in
+perceived space; why not these other referents in their imaginary space?
+This has gone so far that we can hardly refer to the simplest nonspatial
+situation without constant resort to physical metaphors. I “grasp” the
+“thread” of another’s arguments, but if its “level” is “over my head” my
+attention may “wander” and “lose touch” with the “drift” of it, so that
+when he “comes” to his “point” we differ “widely,” our “views” being
+indeed so “far apart” that the “things” he says “appear” “much” too
+arbitrary, or even “a lot” of nonsense!
+
+The absence of such metaphor from Hopi speech is striking. Use of space
+terms when there is no space involved is NOT THERE—as if on it had been
+laid the taboo teetotal! The reason is clear when we know that Hopi has
+abundant conjugational and lexical means of expressing duration,
+intensity, and tendency directly as such, and that major grammatical
+patterns do not, as with us, provide analogies for an imaginary space.
+The many verb “aspects” express duration and tendency of manifestations,
+while some of the “voices” express intensity, tendency, and duration of
+causes or forces producing manifestations. Then a special part of
+speech, the “tensors,” a huge class of words, denotes only intensity,
+tendency, duration, and sequence. The function of the tensors is to
+express intensities, “strengths,” and how they continue or vary, their
+rate of change; so that the broad concept of intensity, when considered
+as necessarily always varying and/or continuing, includes also tendency
+and duration. Tensors convey distinctions of degree, rate, constancy,
+repetition, increase and decrease of intensity, immediate sequence,
+interruption or sequence after an interval, etc., also qualities of
+strengths, such as we should express metaphorically as smooth, even,
+hard, rough. A striking feature is their lack of resemblance to the
+terms of real space and movement that to us “mean the same.” There is
+not even more than a trace of apparent derivation from space terms.⁸ So,
+while Hopi in its nouns seems highly concrete, here in the tensors it
+becomes abstract almost beyond our power to follow.
+
+Habitual Thought in SAE and Hopi
+
+The comparison now to be made between the habitual thought worlds of SAE
+and Hopi speakers is of course incomplete. It is possible only to touch
+upon certain dominant contrasts that appear to stem from the linguistic
+differences already noted. By “habitual thought” and “thought world” I
+mean more than simply language, i.e. than the linguistic patterns
+themselves. I include all the analogical and suggestive value of the
+patterns (e.g., our “imaginary space” and its distant implications), and
+all the give-and-take between language and the culture as a whole,
+wherein is a vast amount that is not linguistic but yet shows the
+shaping influence of language. In brief, this “thought world” is the
+microcosm that each man carries about within himself, by which he
+measures and understands what he can of the macrocosm.
+
+The SAE microcosm has analyzed reality largely in terms of what it calls
+“things” (bodies and quasibodies) plus modes of extensional but formless
+existence that it calls “substances” or “matter.” It tends to see
+existence through a binomial formula that expresses any existent as a
+spatial form plus a spatial formless continuum related to the form, as
+contents is related to the outlines of its container. Nonspatial
+existents are imaginatively spatialized and charged with similar
+implications of form and continuum.
+
+The Hopi microcosm seems to have analyzed reality largely in terms of
+EVENTS (or better “eventing”), referred to in two ways, objective and
+subjective. Objectively, and only if perceptible physical experience,
+events are expressed mainly as outlines, colors, movements, and other
+perceptive reports. Subjectively, for both the physical and nonphysical,
+events are considered the expression of invisible intensity factors, on
+which depend their stability and persistence, or their fugitiveness and
+proclivities. It implies that existents do not “become later and later”
+all in the same way; but some do so by growing like plants, some by
+diffusing and vanishing, some by a procession of metamorphoses, some by
+enduring in one shape till affected by violent forces. In the nature of
+each existent able to manifest as a definite whole is the power of its
+own mode of duration: its growth, decline, stability, cyclicity, or
+creativeness. Everything is thus already “prepared” for the way it now
+manifests by earlier phases, and what it will be later, partly has been,
+and partly is in act of being so “prepared.” An emphasis and importance
+rests on this preparing or being prepared aspect of the world that may
+to the Hopi correspond to that “quality of reality” that ‘matter’ or
+‘stuff’ has for us.
+
+Habitual Behavior Features of Hopi Culture
+
+Our behavior, and that of Hopi, can be seen to be coordinated in many
+ways to the linguistically conditioned microcosm. As in my fire
+casebook, people act about situations in ways which are like the ways
+they talk about them. A characteristic of Hopi behavior is the emphasis
+on preparation. This includes announcing and getting ready for events
+well beforehand, elaborate precautions to insure persistence of desired
+conditions, and stress on good will as the preparer of right results.
+Consider the analogies of the day-counting pattern alone. Time is mainly
+reckoned “by day” (taLk, -tala) or “by night” (tok), which words are not
+nouns but tensors, the first formed on a root “light, day,” the second
+on a root “sleep.” The count is by ORDINALS. This is not the pattern of
+counting a number of different men or things, even though they appear
+successively, for, even then, they COULD gather into an assemblage. It
+is the pattern of counting successive reappearances of the SAME man or
+thing, incapable of forming an assemblage. The analogy is not to behave
+about day-cyclicity as to several men (“several days”), which is what WE
+tend to do, but to behave as to the successive visits of the SAME MAN.
+One does not alter several men by working upon just one, but one can
+prepare and so alter the later visits of the same man by working to
+affect the visit he is making now. This is the way the Hopi deal with
+the future—by working within a present situation which is expected to
+carry impresses, both obvious and occult, forward into the future event
+of interest. One might say that Hopi society understands our proverb
+‘Well begun is half done,’ but not our ‘Tomorrow is another day.’ This
+may explain much in Hopi character.
+
+This Hopi preparing behavior may be roughly divided into announcing,
+outer preparing, inner preparing, covert participation, and persistence.
+Announcing, or preparative publicity, is an important function in the
+hands of a special official, the Crier Chief. Outer preparing is
+preparation involving much visible activity, not all necessarily
+directly useful within our understanding. It includes ordinary
+practicing, rehearsing, getting ready, introductory formalities,
+preparing of special food, etc. (all of these to a degree that may seem
+overelaborate to us), intensive sustained muscular activity like
+running, racing, dancing, which is thought to increase the intensity of
+development of events (such as growth of crops), mimetic and other
+magic, preparations based on esoteric theory involving perhaps occult
+instruments like prayer sticks, prayer feathers, and prayer meal, and
+finally the great cyclic ceremonies and dances, which have the
+significance of preparing rain and crops. From one of the verbs meaning
+“prepare” is derived the noun for “harvest” or “crop”: na′twani ‘the
+prepared’ or the ‘in preparation.’⁹
+
+Inner preparing is use of prayer and meditation, and at lesser intensity
+good wishes and good will, to further desired results. Hopi attitudes
+stress the power of desire and thought. With their “microcosm” it is
+utterly natural that they should. Desire and thought are the earliest,
+and therefore the most important, most critical and crucial, stage of
+preparing. Moreover, to the Hopi, one’s desires and thoughts influence
+not only his own actions, but all nature as well. This too is wholly
+natural. Consciousness itself is aware of work, of the feel of effort
+and energy, in desire and thinking. Experience more basic than language
+tells us that, if energy is expended, effects are produced. WE tend to
+believe that our bodies can stop up this energy, prevent it from
+affecting other things until we will our BODIES to overt action. But
+this may be so only because we have our own linguistic basis for a
+theory that formless items like “matter” are things in themselves,
+malleable only by similar things, by more matter, and hence insulated
+from the powers of life and thought. It is no more unnatural to think
+that thought contacts everything and pervades the universe than to
+think, as we all do, that light kindled outdoors does this. And it is
+not unnatural to suppose that thought, like any other force, leaves
+everywhere traces of effect. Now, when we think of a certain actual
+rosebush, we do not suppose that our thought goes to that actual bush,
+and engages with it, like a searchlight turned upon it. What then do we
+suppose our consciousness is dealing with when we are thinking of that
+rosebush? Probably we think it is dealing with a “mental image” which is
+not the rosebush but a mental surrogate of it. But why should it be
+NATURAL to think that our thought deals with a surrogate and not with
+the real rosebush? Quite possibly because we are dimly aware that we
+carry about with us a whole imaginary space, full of mental surrogates.
+To us, mental surrogates are old familiar fare. Along with the images of
+imaginary space, which we perhaps secretly know to be only imaginary, we
+tuck the thought-of actually existing rosebush, which may be quite
+another story, perhaps just because we have that very convenient “place”
+for it. The Hopi thought-world has no imaginary space. The corollary to
+this is that it may not locate thought dealing with real space anywhere
+but in real space, nor insulate real space from the effects of thought.
+A Hopi would naturally suppose that his thought (or he himself) traffics
+with the actual rosebush—or more likely, corn plant—that he is thinking
+about. The thought then should leave some trace of itself with the plant
+in the field. If it is a good thought, one about health and growth, it
+is good for the plant; if a bad thought, the reverse.
+
+The Hopi emphasize the intensity-factor of thought. Thought to be most
+effective should be vivid in consciousness, definite, steady, sustained,
+charged with strongly felt good intentions. They render the idea in
+English as ‘concentrating, holding it in your heart, putting your mind
+on it, earnestly hoping.’ Thought power is the force behind ceremonies,
+prayer sticks, ritual smoking, etc. The prayer pipe is regarded as an
+aid to “concentrating” (so said my informant). Its name, na′twanpi,
+means ‘instrument of preparing.’
+
+Covert participation is mental collaboration from people who do not take
+part in the actual affair, be it a job of work, hunt, race, or ceremony,
+but direct their thought and good will toward the affair’s success.
+Announcements often seek to enlist the support of such mental helpers as
+well as of overt participants, and contain exhortations to the people to
+aid with their active good will.¹⁰ A similarity to our concepts of a
+sympathetic audience or the cheering section at a football game should
+not obscure the fact that it is primarily the power of directed thought,
+and not merely sympathy or encouragement, that is expected of covert
+participants. In fact these latter get in their deadliest work before,
+not during, the game! A corollary to the power of thought is the power
+of wrong thought for evil; hence one purpose of covert participation is
+to obtain the mass force of many good wishers to offset the harmful
+thought of ill wishers. Such attitudes greatly favor cooperation and
+community spirit. Not that the Hopi community is not full of rivalries
+and colliding interests. Against the tendency to social disintegration
+in such a small, isolated group, the theory of “preparing” by the power
+of thought, logically leading to the great power of the combined,
+intensified, and harmonized thought of the whole community, must help
+vastly toward the rather remarkable degree of cooperation that, in spite
+of much private bickering, the Hopi village displays in all the
+important cultural activities.
+
+Hopi “preparing” activities again show a result of their linguistic
+thought background in an emphasis on persistence and constant insistent
+repetition. A sense of the cumulative value of innumerable small momenta
+is dulled by an objectified, spatialized view of time like ours,
+enhanced by a way of thinking close to the subjective awareness of
+duration, of the ceaseless “latering” of events. To us, for whom time is
+a motion on a space, unvarying repetition seems to scatter its force
+along a row of units of that space, and be wasted. To the Hopi, for whom
+time is not a motion but a “getting later” of everything that has ever
+been done, unvarying repetition is not wasted but accumulated. It is
+storing up an invisible change that holds over into later events.¹¹ As
+we have seen, it is as if the return of the day were felt as the return
+of the same person, a little older but with all the impresses of
+yesterday, not as “another day,” i.e. like an entirely different person.
+This principle joined with that of thought-power and with traits of
+general Pueblo culture is expressed in the theory of the Hopi ceremonial
+dance for furthering rain and crops, as well as in its short,
+piston-like tread, repeated thousands of times, hour after hour.
+
+Some Impresses of Linguistic Habit in Western Civilization
+
+It is harder to do justice in few words to the linguistically
+conditioned features of our own culture than in the case of the Hopi,
+because of both vast scope and difficulty of objectivity—because of our
+deeply ingrained familiarity with the attitudes to be analyzed. I wish
+merely to sketch certain characteristics adjusted to our linguistic
+binomialism of form plus formless item or “substance,” to our
+metaphoricalness, our imaginary space, and our objectified time. These,
+as we have seen, are linguistic.
+
+From the form-plus-substance dichotomy the philosophical views most
+traditionally characteristic of the “Western world” have derived huge
+support. Here belong materialism, psychophysical parallelism, physics—at
+least in its traditional Newtonian form—and dualistic views of the
+universe in general. Indeed here belongs almost everything that is
+“hard, practical common sense.” Monistic, holistic, and relativistic
+views of reality appeal to philosophers and some scientists, but they
+are badly handicapped in appealing to the “common sense” of the Western
+average man—not because nature herself refutes them (if she did,
+philosophers could have discovered this much), but because they must be
+talked about in what amounts to a new language. “Common sense,” as its
+name shows, and “practicality” as its name does not show, are largely
+matters of talking so that one is readily understood. It is sometimes
+stated that Newtonian space, time, and matter are sensed by everyone
+intuitively, whereupon relativity is cited as showing how mathematical
+analysis can prove intuition wrong. This, besides being unfair to
+intuition, is an attempt to answer offhand question (1) put at the
+outset of this paper, to answer which this research was undertaken.
+Presentation of the findings now nears its end, and I think the answer
+is clear. The offhand answer, laying the blame upon intuition for our
+slowness in discovering mysteries of the Cosmos, such as relativity, is
+the wrong one. The right answer is Newtonian space, time, and matter are
+no intuitions. They are recepts from culture and language. That is where
+Newton got them.
+
+Our objectified view of time is, however, favorable to historicity and
+to everything connected with the keeping of records, while the Hopi view
+is unfavorable thereto. The latter is too subtle, complex, and
+ever-developing, supplying no ready-made answer to the question of when
+“one” event ends and “another” begins. When it is implicit that
+everything that ever happened still is, but is in a necessarily
+different form from what memory or record reports, there is less
+incentive to study the past. As for the present, the incentive would be
+not to record it but to treat it as “preparing.” But our objectified
+time puts before imagination something like a ribbon or scroll marked
+off into equal blank spaces, suggesting that each be filled with an
+entry. Writing has no doubt helped toward our linguistic treatment of
+time, even as the linguistic treatment has guided the uses of writing.
+Through this give-and-take between language and the whole culture we
+get, for instance:
+
+1. Records, diaries, bookkeeping, accounting, mathematics stimulated by
+accounting.
+
+2. Interest in exact sequence, dating, calendars, chronology, clocks,
+time wages, time graphs, time as used in physics.
+
+3. Annals, histories, the historical attitude, interest in the past,
+archaeology, attitudes of introjection toward past periods, e.g.,
+classicism, romanticism.
+
+Just as we conceive our objectified time as extending in the future in
+the same way that it extends in the past, so we set down our estimates
+of the future in the same shape as our records of the past, producing
+programs, schedules, budgets. The formal equality of the spacelike units
+by which we measure and conceive time leads us to consider the “formless
+item” or “substance” of time to be homogeneous and in ratio to the
+number of units. Hence our prorata allocation of value to time, lending
+itself to the building up of a commercial structure based on
+time-prorata values: time wages (time work constantly supersedes piece
+work), rent, credit, interest, depreciation charges, and insurance
+premiums. No doubt this vast system, once built, would continue to run
+under any sort of linguistic treatment of time; but that it should have
+been built at all, reaching the magnitude and particular form it has in
+the Western world, is a fact decidedly in consonance with the patterns
+of the SAE languages. Whether such a civilization as ours would be
+possible with widely different linguistic handling of time is a large
+question—in our civilization, our linguistic patterns and the fitting of
+our behavior to the temporal order are what they are, and they are in
+accord. We are of course stimulated to use calendars, clocks, and
+watches, and to try to measure time ever more precisely; this aids
+science, and science in turn, following these well-worn cultural
+grooves, gives back to culture an ever-growing store of applications,
+habits, and values, with which culture again directs science. But what
+lies outside this spiral? Science is beginning to find that there is
+something in the Cosmos that is not in accord with the concepts we have
+formed in mounting the spiral. It is trying to frame a NEW LANGUAGE by
+which to adjust itself to a wider universe.
+
+It is clear how the emphasis on “saving time” which goes with all the
+above and is very obvious objectification of time, leads to a high
+valuation of “speed,” which shows itself a great deal in our behavior.
+
+Still another behavioral effect is that the character of monotony and
+regularity possessed by our image of time as an evenly scaled limitless
+tape measure persuades us to behave as if that monotony were more true
+of events than it really is. That is, it helps to routinize us. We tend
+to select and favor whatever bears out this view, to “play up to” the
+routine aspects of existence. One phase of this is behavior evincing a
+false sense of security or an assumption that all will always go
+smoothly, and a lack in foreseeing and protecting ourselves against
+hazards. Our technique of harnessing energy does well in routine
+performance, and it is along routine lines that we chiefly strive to
+improve it—we are, for example, relatively uninterested in stopping the
+energy from causing accidents, fires, and explosions, which it is doing
+constantly and on a wide scale. Such indifference to the unexpectedness
+of life would be disastrous to a society as small, isolated, and
+precariously poised as the Hopi society is, or rather once was.
+
+Thus our linguistically determined thought world not only collaborates
+with our cultural idols and ideals, but engages even our unconscious
+personal reactions in its patterns and gives them certain typical
+characters. One such character, as we have seen, is CARELESSNESS, as in
+reckless driving or throwing cigarette stubs into waste paper. Another
+of different sort is GESTURING  when we talk. Very many of the gestures
+made by English-speaking people at least, and probably by all SAE
+speakers, serve to illustrate, by a movement in space, not a real
+spatial reference but one of the nonspatial references that our language
+handles by metaphors of imaginary space. That is, we are more apt to
+make a grasping gesture when we speak of grasping an elusive idea than
+when we speak of grasping a doorknob. The gesture seeks to make a
+metaphorical and hence somewhat unclear reference more clear. But, if a
+language refers to nonspatials without implying a spatial analogy, the
+reference is not made any clearer by gesture. The Hopi gesture very
+little, perhaps not at all in the sense we understand as gesture.
+
+It would seem as if kinesthesia, or the sensing of muscular movement,
+though arising before language, should be made more highly conscious by
+linguistic use of imaginary space and metaphorical images of motion.
+Kinesthesia is marked in two facets of European culture: art and sport.
+European sculpture, an art in which Europe excels, is strongly
+kinesthetic, conveying great sense of the body’s motions; European
+painting likewise. The dance in our culture expresses delight in motion
+rather than symbolism or ceremonial, and our music is greatly influenced
+by our dance forms. Our sports are strongly imbued with this element of
+the “poetry of motion.” Hopi races and games seem to emphasize rather
+the virtues of endurance and sustained intensity. Hopi dancing is highly
+symbolic and is performed with great intensity and earnestness, but has
+not much movement or swing.
+
+Synesthesia, or suggestion by certain sense receptions of characters
+belonging to another sense, as of light and color by sounds and vice
+versa, should be made more conscious by a linguistic metaphorical system
+that refers to nonspatial experiences by terms for spatial ones, though
+undoubtedly it arises from a deeper source. Probably in the first
+instance metaphor arises from synesthesia and not the reverse; yet
+metaphor need not become firmly rooted in linguistic pattern, as Hopi
+shows. Nonspatial experience has one well-organized sense, HEARING—for
+smell and taste are but little organized. Nonspatial consciousness is a
+realm chiefly of thought, feeling, and SOUND. Spatial consciousness is a
+realm of light, color, sight, and touch, and presents shapes and
+dimensions. Our metaphorical system, by naming nonspatial experiences
+after spatial ones, imputes to sounds, smells, tastes, emotions, and
+thoughts qualities like the colors, luminosities, shapes, angles,
+textures, and motions of spatial experience. And to some extent the
+reverse transference occurs; for, after much talking about tones as
+high, low, sharp, dull, heavy, brilliant, slow, the talker finds it easy
+to think of some factors in spatial experience as like factors of tone.
+Thus we speak of “tones” of color, a gray “monotone,” a “loud” necktie,
+a “taste” in dress: all spatial metaphor in reverse. Now European art is
+distinctive in the way it seeks deliberately to play with synesthesia.
+Music tries to suggest scenes, color, movement, geometric design;
+painting and sculpture are often consciously guided by the analogies of
+music’s rhythm; colors are conjoined with feeling for the analogy to
+concords and discords. The European theater and opera seek a synthesis
+of many arts. It may be that in this way our metaphorical language that
+is in some sense a confusion of thought is producing, through art, a
+result of far-reaching value—a deeper esthetic sense leading toward a
+more direct apprehension of underlying unity behind the phenomena so
+variously reported by our sense channels.
+
+Historical Implications
+
+How does such a network of language, culture, and behavior come about
+historically? Which was first: the language patterns or the cultural
+norms? In main they have grown up together, constantly influencing each
+other. But in this partnership the nature of the language is the factor
+that limits free plasticity and rigidifies channels of development in
+the more autocratic way. This is so because a language is a system, not
+just an assemblage of norms. Large systematic outlines can change to
+something really new only very slowly, while many other cultural
+innovations are made with comparative quickness. Language thus
+represents the mass mind; it is affected by inventions and innovations,
+but affected little and slowly, whereas to inventors and innovators it
+legislates with the decree immediate.
+
+The growth of the SAE language-culture complex dates from ancient times.
+Much of its metaphorical reference to the nonspatial by the spatial was
+already fixed in the ancient tongues, and more especially in Latin. It
+is indeed a marked trait of Latin. If we compare, say Hebrew, we find
+that, while Hebrew has some allusion to not-space as space, Latin has
+more. Latin terms for nonspatials, like educo, religio, principia,
+comprehendo, are usually metaphorized physical references: lead out,
+tying back, etc. This is not true of all languages—it is quite untrue of
+Hopi. The fact that in Latin the direction of development happened to be
+from spatial to nonspatial (partly because of secondary stimulation to
+abstract thinking when the intellectually crude Romans encountered Greek
+culture) and that later tongues were strongly stimulated to mimic Latin,
+seems a likely reason for a belief, which still lingers on among
+linguists, that this is the natural direction of semantic change in all
+languages, and for the persistent notion in Western learned circles (in
+strong contrast to Eastern ones) that objective experience is prior to
+subjective. Philosophies make out a weighty case for the reverse, and
+certainly the direction of development is sometimes the reverse. Thus
+the Hopi word for “heart” can be shown to be a late formation within
+Hopi from a root meaning think or remember. Or consider what has
+happened to the word “radio” in such a sentence as “he bought a new
+radio,” as compared to its prior meaning “science of wireless
+telephony.”
+
+In the Middle Ages the patterns already formed in Latin began to
+interweave with the increased mechanical invention, industry, trade, and
+scholastic and scientific thought. The need for measurement in industry
+and trade, the stores and bulks of “stuffs” in various containers, the
+type-bodies in which various goods were handled, standardizing of
+measure and weight units, invention of clocks and measurement of “time,”
+keeping of records, accounts, chronicles, histories, growth of
+mathematics and the partnership of mathematics and science, all
+cooperated to bring our thought and language world into its present
+form.
+
+In Hopi history, could we read it, we should find a different type of
+language and a different set of cultural and environmental influences
+working together. A peaceful agricultural society isolated by geographic
+features and nomad enemies in a land of scanty rainfall, arid
+agriculture that could be made successful only by the utmost
+perseverance (hence the value of persistence and repetition), necessity
+for collaboration (hence emphasis on the psychology of teamwork and on
+mental factors in general), corn and rain as primary criteria of value,
+need of extensive preparations and precautions to assure crops in the
+poor soil and precarious climate, keen realization of dependence upon
+nature favoring prayer and a religious attitude toward the forces of
+nature, especially prayer and religion directed toward the ever-needed
+blessing, rain—these things interacted with Hopi linguistic patterns to
+mold them, to be molded again by them, and so little by little to shape
+the Hopi world-outlook.
+
+To sum up the matter, our first question asked in the beginning (pp.
+178–179) is answered thus: Concepts of “time” and “matter” are not given
+in substantially the same form by experience to all men but depend upon
+the nature of the language or languages through the use of which they
+have been developed. They do not depend so much upon ANY ONE SYSTEM
+(e.g., tense, or nouns) within the grammar as upon the ways of analyzing
+and reporting experience which have become fixed in the language as
+integrated “fashions of speaking” and which cut across the typical
+grammatical classifications, so that such a “fashion” may include
+lexical, morphological, syntactic, and otherwise systemically diverse
+means coordinated in a certain frame of consistency. Our own “time”
+differs markedly from Hopi “duration.” It is conceived as like a space
+of strictly limited dimensions, or sometimes as like a motion upon such
+a space, and employed as an intellectual tool accordingly. Hopi
+“duration” seems to be inconceivable in terms of space or motion, being
+the mode in which life differs from form, and consciousness in toto from
+the spatial elements of consciousness. Certain ideas born of our own
+time-concept, such as that of absolute simultaneity, would be either
+very difficult to express or impossible and devoid of meaning under the
+Hopi conception, and would be replaced by operational concepts. Our
+“matter” is the physical subtype of “substance” or “stuff,” which is
+conceived as the formless extensional item that must be joined with form
+before there can be real existence. In Hopi there seems to be nothing
+corresponding to it; there are no formless extensional items; existence
+may or may not have form, but what it also has, with or without form, is
+intensity and duration, these being nonextensional and at bottom the
+same.
+
+But what about our concept of “space,” which was also included in our
+first question? There is no such striking difference between Hopi and
+SAE about space as about time, and probably the apprehension of space is
+given in substantially the same form by experience irrespective of
+language. The experiments of the Gestalt psychologists with visual
+perception appear to establish this as a fact. But the CONCEPT OF SPACE
+will vary somewhat with language, because, as an intellectual tool,¹² it
+is so closely linked with the concomitant employment of other
+intellectual tools, of the order of “time” and “matter,” which are
+linguistically conditioned. We see things with our eyes in the same
+space forms as the Hopi, but our idea of space has also the property of
+acting as a surrogate of nonspatial relationships like time, intensity,
+tendency, and as a void to be filled with imagined formless items, one
+of which may even be called ‘space.’ Space as sensed by the Hopi would
+not be connected mentally with such surrogates, but would be
+comparatively “pure,” unmixed with extraneous notions.
+
+As for our second question (p. 179): There are connections but not
+correlations or diagnostic correspondences between cultural norms and
+linguistic patterns. Although it would be impossible to infer the
+existence of Crier Chiefs from the lack of tenses in Hopi, or vice
+versa, there is a relation between a language and the rest of the
+culture of the society which uses it. There are cases where the
+“fashions of speaking” are closely integrated with the whole general
+culture, whether or not this be universally true, and there are
+connections within this integration, between the kind of linguistic
+analyses employed and various behavioral reactions and also the shapes
+taken by various cultural developments. Thus the importance of Crier
+Chiefs does have a connection, not with tenselessness itself, but with a
+system of thought in which categories different from our tenses are
+natural. These connections are to be found not so much by focusing
+attention on the typical rubrics of linguistic, ethnographic, or
+sociological description as by examining the culture and the language
+(always and only when the two have been together historically for a
+considerable time) as a whole in which concatenations that run across
+these departmental lines may be expected to exist, and, if they do
+exist, eventually to be discoverable by study.
+
+ 
+
+Reprinted from pp. 75–93, Language, culture, and personality: Essays in
+memory of Edward Sapir, edited by Leslie Spier (Menasha, Wis.: Sapir
+Memorial Publication Fund, 1941). The article was written in the summer
+of 1939.
+
+1. We have plenty of evidence that this is not the case. Consider only
+the Hopi and the Ute, with languages that on the overt morphological and
+lexical level are as similar as, say, English and German. The idea of
+“correlation” between language and culture, in the generally accepted
+sense of correlation, is certainly a mistaken one.
+
+2. As we say, ‘ten at the SAME TIME,’ showing that in our language and
+thought we restate the fact of group perception in terms of a concept
+‘time,’ the large linguistic component of which will appear in the
+course of this paper.
+
+3. It is no exception to this rule of lacking a plural that a mass noun
+may sometimes coincide in lexeme with an individual noun that of course
+has a plural; e.g., ‘stone’ (no pl.) with ‘a stone’ (pl. ‘stones’). The
+plural form denoting varieties, e.g., ‘wines’ is of course a different
+sort of thing from the true plural; it is a curious outgrowth from the
+SAE mass nouns, leading to still another sort of imaginary aggregates,
+which will have to be omitted from this paper.
+
+4. Hopi has two words for water quantities; [Whorf_p182a] and
+[Whorf_p182b]. The difference is something like that between ‘stone’ and
+‘rock’ in English, [Whorf_p182b] implying greater size and “wildness”;
+flowing water, whether or not outdoors or in nature, is [Whorf_p182b];
+so is ‘moisture.’ But, unlike ‘stone’ and ‘rock,’ the difference is
+essential, not pertaining to a connotative margin, and the two can
+hardly ever be interchanged.
+
+5. To be sure, there are a few minor differences from other nouns, in
+English for instance in the use of the articles.
+
+6. ‘Year’ and certain combinations of ‘year’ with name of season, rarely
+season names alone, can occur with a locative morpheme ‘at,’ but this is
+exceptional. It appears like historical detritus of an earlier different
+patterning, or the effect of English analogy, or both.
+
+7. The expective and reportive assertions contrast according to the
+“paramount relation.” The expective expresses anticipation existing
+EARLIER than objective fact, and coinciding with objective fact LATER
+than the status quo of the speaker, this status quo, including all the
+subsummation of the past therein, being expressed by the reportive. Our
+notion “future” seems to represent at once the earlier (anticipation)
+and the later (afterwards, what will be), as Hopi shows. This paradox
+may hint of how elusive the mystery of real time is, and how
+artificially it is expressed by a linear relation of
+past–present–future.
+
+8. One such trace is that the tensor ‘long in duration,’ while quite
+different from the adjective ‘long’ of space, seems to contain the same
+root as the adjective ‘large’ of space. Another is that ‘somewhere’ of
+space used with certain tensors means ‘at some indefinite time.’
+Possibly however this is not the case and it is only the tensor that
+gives the time element, so that ‘somewhere’ still refers to space and
+that under these conditions indefinite space means simply general
+applicability, regardless of either time or space. Another trace is that
+in the temporal (cycle word) ‘afternoon’ the element meaning ‘after’ is
+derived from the verb ‘to separate.’ There are other such traces, but
+they are few and exceptional, and obviously not like our own spatial
+metaphorizing.
+
+9. The Hopi verbs of preparing naturally do not correspond neatly to our
+“prepare”; so that na′twani could also be rendered ‘the practiced-upon,
+the tried-for,’ and otherwise.
+
+10. See, e.g., Ernest Beaglehole, Notes on Hopi economic life (Yale
+University Publications in Anthropology, no. 15, 1937), especially the
+reference to the announcement of a rabbit hunt, and on p. 30,
+description of the activities in connection with the cleaning of Toreva
+Spring—announcing, various preparing activities, and finally, preparing
+the continuity of the good results already obtained and the continued
+flow of the spring.
+
+11. This notion of storing up power, which seems implied by much Hopi
+behavior, has an analog in physics: acceleration. It might be said that
+the linguistic background of Hopi thought equips it to recognize
+naturally that force manifests not as motion or velocity, but as
+cumulation or acceleration. Our linguistic background tends to hinder in
+us this same recognition, for having legitimately conceived force to be
+that which produces change, we then think of change by our linguistic
+metaphorical analog, motion, instead of by a pure motionless
+changingness concept, i.e. accumulation or acceleration. Hence it comes
+to our naive feeling as a shock to find from physical experiments that
+it is not possible to define force by motion, that motion and speed, as
+also “being at rest,” are wholly relative, and that force can be
+measured only by acceleration.
+
+12. Here belong “Newtonian” and “Euclidean” space, etc.
+
+12

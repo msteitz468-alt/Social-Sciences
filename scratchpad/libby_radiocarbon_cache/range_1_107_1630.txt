@@ -1,0 +1,1524 @@
+                    PREFACE       TO THE       FIRST    EDITION
+
+           |:IS a real pleasure to acknowledge the invaluable contributions
+                of my collaborators, Drs. E. C. Anderson and James R. Arnold,
+                in the development of the dating method. Certainly nothing
+          would have been done without them. Dr. A. V. Grosse and his col-
+         laborators at the Houdry Process Corporation concentrated the
+         methane samples which first established the existence of radiocarbon
+         in nature and laid a firm foundation for the program.
+            The Committee on Carbon 14 of the American Anthropological
+         Association and the Geological Society of America, consisting of
+         Frederick Johnson, chairman, Donald Collier, Richard Foster Flint,
+         and Froelich Rainey, in selecting the samples for measurement, ad-
+         vising on priorities, and lending a friendly ear in troubled periods,
+         have indeed earned our most heartfelt gratitude. We hope that the
+         results of the research may in some small measure repay them for
+         their efforts.
+            It is also a privilege to thank the Wenner-Gren Foundation for
+         Anthropological Research, formerly The Viking Fund, Inc., and its
+         director, Dr. Paul Fejos, for the financial support of this research
+         with two grants totaling some $35,000 in the years 1948, 1949, and
+         1950. A small unexpended balance remains from these funds, which
+         will be used over the years for occasional further measurements. This
+         foundation, together with the University of Chicago, furnished the
+         principal financial support for the entire research. We are very
+         grateful indeed for this assistance.
+            We also are indebted to the Air Force (Wright-Patterson Air
+         Force Base, Contract AF 33[038]-6492) for a contract for the de-
+         velopment of low-level counting techniques during the year 1949,
+         the results of which were put to immediate use in the radiocarbon
+         dating research.
+            It is hoped that the present publication will contain the answers
+         to most of the questions which will occur to an investigator con-
+                                          Vv      Concordia Colles on
+                                                   Bramaviti, Ne Ye 80
+vi                  PREFACE   TO THE   FIRST EDITION
+
+structing and operating equipment for the measurement of dates by
+the radiocarbon technique. It is realized, however, that certain im-
+portant details may have been omitted, and we would be pleased to
+try to assist in the solution of any difficulties which other groups
+may encounter.
+                                                       W. F. Lipsy
+     Curcaco, ILLINOIS
+         PREFACE       TO THE      SECOND       EDITION
+
+hk: improvements in the measurement technique developed
+         since the first edition was published are described, and the
+         hundreds of additional dates measured in our laboratory
+are included in the tabulation of radiocarbon dates in chapter vi.
+Chapter vii, ‘‘Reflections upon the Significance of Radiocarbon
+Dates,”’ by I'rederick Johnson, has been revised and expanded.
+
+                                                      W. F. Lippy
+
+
+
+
+                                 vii
+             *    0             "iy 3! Pasar *iSee viii ‘gsiaie            fins: ienkSH \ as
+)        Leva!           ed              4 Ste heboidis        acy    se             ret only eaten”
+          ode!           "G0         4    BP    usin   ten          erie             Ff+ ehantwarl:
+                 ny!             ‘at           neabubAtbin     Fe OMe      use        “Ht of tadDebwly
+                                                                      ps
+          nk.                  Tee sonal                gift   AV     Adoitashtet”           ek ae
+                               "le
+    el           tOGRe         yrs Tea,                        Py
+                                                    Moc! aes. oobitiGT Bopehtn
+                                                                        o's    “
+                                                                               Tae
+                                                                                   = |
+
+                                                                             au
+    yet                TW                               yas                      :           7
+            NOTES       ADDED         IN    1965"PRINTING
+
+
+
+                      ADDENDUM         TO CHAPTER        I
+
+     No important new point of principle has appeared in the last ten
+  years. However, considerable refinements have developed. It now
+  appears that there is some evidence for a deviation in the period
+  4000-5000 z.P. (2000-3000 B.c.) in the direction of the radiocarbon
+‘ dates being too young by perhaps 500 or 600 years for Egyptian
+\ samples at the time of the First Dynasty (4800 to 5000 s.p.). Good
+/ agreement generally has been found for the period back to about
+  4000 B.p. The question of the source of the disagreement in the fifth
+  millennium remains to be resolved. If it is historical, the radiocarbon
+  dating method will remain unaffected. If it is in the method itself,
+  grave corrections might prove necessary for all dates older than 4000
+  years. (W. F. Libby, Science 140, 278 [1963].)
+Ss
+
+                     ADDENDUM         TO CHAPTER         II
+
+        It appears that the specific activity of living matter now accurate-
+     ly measured to be close to 13.56 + 0.07 disintegrations per minute
+     per gram of carbon (J. Karlen, I. U. Olsson, P. Kalberg, and S.
+     Kilicci, Arkiv Geophysik 4, 465 [1964]) raises the question of the
+     total makeup of the reservoir. In the work described in this chapter
+     and in chapter i, the total reservoir was set at 8.3 grams of carbon
+     per cm? corresponding to a decay rate of 1.9 + 0.2 per cm’ per sec-
+     ond. The most recent estimates of the cosmic-ray production rate is
+     2.5 + 5 per cm? per second (R. E. Lingenfelter, Rev. Geophysics 1,
+     35 [1963]). The entire discrepancy, if real, could be removed by
+     adding some 2-3 grams of carbon per cm’ to the inventory, possibly
+     as carbonate precipitation in the oceans. Owing to recent work on
+     meteorites (M. Honda and J. R. Arnold, Science 143, 203 [1964]),
+                                       ix
+x                             ADDENDA
+
+the evidence that the cosmic rays themselves have remained con-
+stant is stronger now than ten years ago, and the only other factor
+that might cause error is the earth’s magnetic field, which acts to
+reduce the cosmic-ray intensity to about half the intensity a non-
+magnetic earth would receive (W. Elsasser et al., Nature 178, 1226
+[1956]). Some evidence exists for variation of the earth’s total
+magnetic dipole (directional changes are of no importance to the
+problem because of the completeness of mixing) (T. Nagata ef al.,
+J. Geophys. Res. 68, 5277 [1963]).
+
+
+                ADDENDUM         TO CHAPTER       III
+
+   The half-life of radiocarbon now is accepted to be 5730 + 40
+years, but for reasons of consistency in reporting, radiocarbon dates
+are reported on the old value of 5570.years (H. Godwin, Nature 195,
+984 [1962]).
+
+
+                ADDENDUM          TO CHAPTER      IV
+
+   The black carbon method described in chapters iv and v now is
+obsolete. The present method uses pure carbon dioxide gas in a
+proportional counter as described in the last paragraphs of chap-
+ter iv.
+
+
+                ADDENDUM          TO CHAPTER      VI
+
+  Radiocarbon dates now are published in Radiocarbon, a supple-
+ment of the American Journal of Science (Yale University Press;
+Editors: E. S. Deevey, R. F. Flint, and I. Rouse). Radiocarbon now
+is in its seventh year (Vol. 6, 1964).
+                                  CONTENTS
+    I, PRINCIPLES
+
+   II. WoRLD-WIDE     DISTRIBUTION OF RADIOCARBON
+
+  III. Hatr-Lire oF RADIOCARBON
+
+SaLVs PREPARATION OF THE SAMPLE FOR MEASUREMENT
+
+    V. MEASUREMENT        OF THE SAMPLE
+
+   VI. RADIOCARBON DATES
+
+  VII. REFLECTIONS    UPON THE SIGNIFICANCE OF RADIOCARBON DaTES                 141
+         By Frederick Johnson
+
+
+                                  APPENDIXES
+~ A. SPECIAL EQUIPMENT AND       CHEMICALS     FOR   THE   C!4 SAMPLE   PREPA-
+     RATION APPARATUS .                                                          163
+“ B. SpecIAL MATERIALS      FOR SCREEN-WALL     COUNTER      .                   164
+
+
+                                    INDEXES
+  INDEX OF SUBJECTS   .                                                          167
+
+  INDEX OF NAMES                                                                 169
+
+  INDEX OF SAMPLES    .                                                          172
+
+
+
+
+                                          Xi
+                                                              dese
+ce
+ 1                                    \
+
+
+
+     .                                                                              -
+
+
+
+
+                                                                                                                             a        a               *s
+
+                                                                                             y                               M |                    ? oe)
+                                                                                                                                                      © fag                            5        shh    Ve eiper
+                 l                                    ’                                 i                           gif                                    ek |                             inv?      bes     sollte vnngi
+                                                                                                                                                we
+                                                                                                       i            Piey't                                          l)                     Od         ae:                        i                   ¥
+                                                                                            = LAA                                           A              BS        teg aU "Ty NL                          etd “2 ‘ool                          am
+                                                                                                                                                                                                                                                 ts
+                                                                                              1            a                 me ;                                                                            re                             bit
+                                                                            :                                       ourtaay:                                        FURIAR,                             Bo ad veal ah oF
+                                                                                                                                                                                                 “eG
+                                                                            i               see                              ea,                    20%     Lite ar,               T09             ‘ee, Parra iy 4
+                                                                                                                                          oer                                                                                               \
+                                                                        ’                     ’                1
+                                                                                                                     ine)                       4                                 re
+
+
+         :           ee                                                                                                                                   EAU       he! Ue
+                                                                                                                                                                         9                                  en re                                |
+                                                          !                                                                  2,                       .         +                i i ~                      ret         @       17        ft     :
+
+                                                  Or                        1                                      rue       i             poles           ne       -            “anges Aaae
+
+                     ri                   ‘      Peer             he                         wey               ve            Iie urea                     ebay                   jet        ‘ ny            frvwid
+                                                      pny’                                                                    yet,                                               freind, Sper                               i, a
+                                                       ;                        :                                                                                                 re?      ‘                                a#3 ej
+
+
+                                                                                            ee                                                                                                        et
+                                  alin ames                                                                    Pine eo ’ ae                                                      is = aye!                                                Sage
+                         Ma       M           Vedado              ge                          v oy                                “         baie                                 yee                                                 ne
+                     sik                      taeds                ab               Sigh ine ahs iad                                                                                            aoa                         |
+
+as                        i
+                              ‘steak eka                                            x
+                                                                                                                      + lta                                     he fe scans vale
+                                                                                                                                                                             |                               a                   oe
+                     :                    PA                      Fabs                                                       i                                                                          a          To           Wee
+| ’          ,                ;
+                                  iedf                        .
+                                                                            nae                   mY
+                                                                                                                                                                         y                       } i) a                         a
+                                CHAPTER              I
+
+                                 PRINCIPLES *
+
+ip      “HE discovery of cosmic radiation by V. F. Hess in 1911 led
+          to repeated conjectures as to possible permanent effects this
+          radiation might have on the surface of the earth. The energy
+received by the earth in the form of cosmic radiation is commensu-
+rate with that received as starlight. It is therefore really quite small
+in terms ofthe solar energy. The specific energy, that is, the energy
+per constituent particle, is very much higher than for any other type
+of radiation, averaging several billions of electron volts (1 electron
+volt is 1.6 X 10-” ergs, which is the average energy of motion of a
+gas molecule at 10,000° C.). It is conceivable, therefore, that the
+cosmic radiation will alter the earth’s atmosphere in detectable ways.
+   It was discovered shortly after the neutron itself had been dis-
+covered that neutrons were present in the higher layers of the at-
+mosphere probably 4s secondary radiations produced by the primary
+cosmic rays. Measurements by cosmic-ray physicists have clearly
+established that the population in the atmosphere rises with altitude
+to a maximum somewhat above 40,000 feet and then falls}! This
+proves the secondary character of the radiation—that it is not inci-
+dent on the earth from interstellar space but is a product of the im-
+pact of the true primary radiation on the earth’s atmosphere. ‘The <>»
+decrease at the top of the atmosphere is due to the escape of some
+of the neutrons formed from the earth. They are formed at high
+velocity and will escape if they happen to fly off in an upward
+direction when first produced.{ A corroborating point in this con-
+nection is the recent demonstration that the neutron is truly radio-
+ active with a lifetime of about 12 minutes, which of course removes
+ any possibility of the neutrons having time to travel any consider-
+     * See Addendum to Chapter I, p. ix above-
+    1. H. M. Agnew, W. C. Bright, and Darol Froman, Phys. Rev., 72, 203 (1947)
+(this paper contains references to many earlier measurements); J. A. Simpson, Jr.,
+Phys. Rev., 73, 1389 (1948); L. C. L. Yuan, Phys. Rev., 74, 504 (1948); L. C. L. Yuan
+and R. Ladenburg, Bull. Am. Phys. Soc., 23, No. 2, 21 (1948); L. C. L. Yuan, Phys.
+Rev., 76, 1267, 1268 (1949); L. C. L. Yuan, Phys. Rev., 77, 728 (1950).
+
+                                          1
+2                          RADIOCARBON         DATING
+
+able distance in interstellar space, though the trip from the sun
+could be made without complete decay to hydrogen.
+   Consideration of possible nuclear transmutations which the cosmic
+rays might effect leads one immediately to consider what the neu-
+trons known to be produced by, the cosmic rays might be expected
+to do to the earth’s atmospherel   In the laboratory many studies have
+been made of the effects of neutrons of various energies on all the
+ordinary elements and especially on nitrogen and oxygen, the con-
+stituents of the air. In general, the results are that oxygen is extraor-
+dinarily inert but that nitrogen is reactive. It appears certain that,
+of the two nitrogen isotopes, N14, of 99.62 per cent abundance, and
+N®, of 0.038 per cent abundance, N" is the more reactivel With neu-
+trons of thermal velocity the reaction
+                               N“+n=C4+H!                               (1)
+is dominant, the cross-section of the N'4 atom for a room tempera-
+ture thermal neutron being in the vicinity of 1.7 X 10-*4 cm.?,
+whereas the thermal neutron cross-section for reaction with O”* is of
+the order of 0.1 per cent of this. It is therefore quite certain that
+thermal neutrons introduced into ordinary air will react according
+to Equation (1) to form the radiocarbon isotope of mass 14 and
+half-life of 5568 + 30 years.
+   The neutrons in the air being formed by the energetic cosmic rays
+possess energy themselves, probably of the order of 5-10 mev (mil-
+lion electron volts) on the average when first formed. After birth
+they then collide with the air molecules and lose their energy by col-
+lision, either elastic or inelastic, either reacting on one of these col-
+lisions and so being absorbed or finally attaining thermal energies
+where they are quite certain to be absorbed to form radiocarbon by
+Reaction (1). Laboratory studies of the effects of energetic neutrons
+on air again indicate that the nitrogen is the more reactive constitu-
+ent. Reaction (1) is still dominant, though a second reaction,
+                              N+      » = Bl + Het,                     (2)
+
+occurs.” The latter reaction becomes dominant at energies above
+1 mev but even at the most favored energies attains cross-sections
+of only 10 per cent of that of nitrogen for thermal energies. Reac-
+    2. C. H. Johnson and H. H. Barschall, Phys. Rev., 80, 819 (1950).
+                                  PRINCIPLES                              3
+
+tion (1), on the other hand, goes with considerable probability in |
+the region of 0.4-1.6 mev.
+   A third type of reaction of high-energy neutrons with nitrogen,
+
+                              N¥+n=C®+H,                            (3)
+has been reported in the laboratory.’ The nature of the laboratory
+experiment was such that it was difficult to estimate the cross-section
+for the reaction, but the reported value was 10-* cm.’, to an accu-
+racy of about a factor of 5. It is certain from the masses of the atoms
+involved in Reaction (3) that neutrons of not less than 4 mev are in-
+volved, since the reaction is endothermic to this extent. The hydro-
+gen isotope in Reaction (3) is the radioactive hydrogen called trit-
+ium, of 12.46 years half-life, which decays to form the stable iso-
+tope of helium, He*, which occurs in atmospheric helium in an
+abundance of 1.2 X 10-* parts He’ per ordinary helium in atmospher-
+ic air.4 It is thought that this value is accurate to about 30 per cent.
+The abundance of He’® in ordinary helium from terrestrial sources
+varies widely from undetectably small values in uranium ores, where
+an excessively large amount of He‘ is found, to the values of
+12 X 10-* parts for certain Canadian rocks. In general, however,
+the He? content of helium from the earth’s crust is not over one-
+tenth as large as that of atmospheric helium. Since tritium pro-
+duced by Reaction (3) lasts such a short time, one knows that any
+tritium produced by Reaction (3) will introduce an equivalent
+amount of He* into the earth’s atmosphere, so that one possible effect
+of the cosmic-ray bombardment of the earth’s atmosphere could be
+the introduction of He* into the atmospheric helium. It is seen that
+this may be the case, since it is observed that atmospheric helium
+is richer in He* than terrestrial helium.
+   Summarizing the three most probable reactions, only the first and
+third lead to radioactive isotopes. It is therefore to be expected that
+the neutrons produced by the cosmic radiation may produce these
+radioactive materials in the earth’s atmosphere. After these points
+were made,° a search in nature for both radioactivities was insti-
+  3. R. Cornog and W. F. Libby, Phys. Rev., 59, 1046 (1941).
+  4. L. T. Aldrich and A. O. Nier, Phys. Rev., 74, 1590 (1948).
+  5. W. F. Libby, Phys. Rev., 69, 671 (1946).
+4                          RADIOCARBON          DATING
+
+tuted. Both have since been found® in amounts and concentrations
+corresponding roughly to those expected.
+   Therefore, we now have more confidence in the basic postulates
+made in the arguments outlined above—that the behavior of the
+cosmic-ray neutrons in the air is predictable from the observed be-
+havior of laboratory neutrons on nitrogen and oxygen and that the
+possibility of the neutrons having higher energy than laboratory
+neutrons appears not to confuse the issue appreciably.
+   The prediction of the expected amounts of radiocarbon and trit-
+ium can be made only on the basis of some information about the
+relative probabilities of Reactions (1), (2), and (3). Reaction (1) is
+so much more probable, however, that it is clear that the yield of
+radiocarbon will be nearly equal to the total number of neutrons
+generated by the cosmic rays and retained on earth, a number
+which we shall call Q in units of number per square centimeter per
+second. The tritium yield, due to Reaction (3) only, is taken to be
+of the order of the ratio of these cross-sections, or about 1 per cent
+of Q. The latter will be considerably more uncertain than the yield
+of radiocarbon, since the cross-section for Reaction (3) is much more
+uncertain than that for Reaction (1) and more specifically than the
+dominance of Reaction (1). If we integrate the data for the neutron
+intensity as a function of altitude from sea-level to the top of the
+atmosphere, to obtain the total number of neutrons, Q, produced
+per square centimeter per second, and average this over the earth’s
+surface according to the observed variation of neutron intensity
+with latitude,” we obtain a figure for Q, the average number of
+neutrons generated per square centimeter of the earth’s surface per
+second by the incidence of cosmic radiation.|If we further assume 2
+that the cosmic-ray production of radiocarbon is an ancient phe-
+nomenon in terms of the 5600-year half-life of radiocarbon (i.e., the
+cosmic rays have remained at essentially their present intensity
+over the last 10,000 or 20,000 years), we can conclude that there is
+some place on earth enough radiocarbon to guarantee that its rate
+   6. E. C. Anderson, W. F. Libby, S. Weinhouse, A. F. Reid, A. D. Kirshenbaum,
+and A. V. Grosse, Science, 105, 576 (1947); E. C. Anderson, W. F. Libby, S. Weinhouse,
+A. F. Reid, A. D. Kirshenbaum, and A. V. Grosse, Phys. Rev., 72, 931 (1947); A. V.
+Grosse, W. H. Johnston, R. L. Wolfgang, and W. F. Libby, Science, 113, 1 (1951).
+    7. J. A. Simpson, Jr., Phys. Rev., 73, 1389 (1948); L. C. L. Yuan, Phys. Rev., 76,
+1267, 1268 (1949).
+                                    PRINCIPLES                                            5
+
+ of disintegration is just equal to its rate of formation. |Evaluation of
+ QO from the experimental data available gives 2.6 as a most likely
+ value. Since the earth’s surface has 5.1 X 10% cm.?, the radio-
+ carbon inventory must be such that 1.3 X 10!° beta disintegrations
+ occur per second.
+                                  C4 = B-+N"+,                                     (4)
+
+
+ Since laboratory measurement of the specific disintegration rate of
+ radiocarbon’ gives 1.6 X 10! disintegrations per second per gram,
+ dividing we obtain 8.1 X 10’ grams, or 81 metric tons, as the pre-
+ dicted inventory for radiocarbon on earth. This is equivalent to
+ 365 million curies (1 curie is that quantity of radioactivity which
+ gives a disintegration rate of 3.7 X 10!° per second). Reasoning
+ similarly, we predict a tritium inventory of about 3 million curies
+ in nature.
+¢ The question remains as to where the radiocarbon will occur. A
+ moment’s thought answers this, however. We consider the problem
+ of the ultimate fate of a carbon atom introduced into the air at a
+ height of some 5 or 6 miles. It seems certain that within a few
+ minutes or hours the carbon atom will have been burned to carbon
+ dioxide molecule.[It is true that there are points of interest to discuss
+ in the question of the kinetics of combustion of atomic carbon in the
+ air, and research is necessary to supply definite answers for the many
+ questions which would arise in such a discussion. It seems probable,
+ however, that the carbon will not long remain in any condition other
+ than carbon dioxide. Postulating that this is so (i.e., the absorption
+ of cosmic-ray neutrons by nitrogen of the air is equivalent to the
+ production of radioactive carbon dioxide), we can proceed to an im-
+ mediate answer to the question as to'\where natural radiocarbon
+ should occur on earth. Radioactive carbon dioxide will certainly mix
+ with considerable speed with the atmospheric carbon dioxide, and
+ so we conclude that all atmospheric carbon dioxide is rendered ra-
+ dioactive by the cosmic radiation. Since plants live off the carbon
+ dioxide, all plants will be radioactive; since the animals on earth
+ live off the plants, all animals will be radioactive. Thus we conclude
+ that all living things will be rendered radioactive by the cosmic radia-
+    8. A. G. Engelkemeir, W. H. Hamill, M. G. Inghram, and W. F. Libby, Phys. Rev.,
+ 75, 1825 (1949); W. M. Jones, Phys. Rev., 76, 885 (1949); W. W. Miller, R. Ballentine,
+ W. Bernstein, L. Friedman, A. O. Nier, and R. D. Evans, Phys. Rev., 77, 714 (1950) ;
+ A. G. Engelkemeir and W. F. Libby, Rev. Sci. Inst., 21, 550 (1950).
+6                          RADIOCARBON          DATING
+
+tion In addition, there is another carbon reservoir for the natural
+radiocarbon, and this is the inorganic carbon in the sea present as
+dissolved carbon dioxide, bicarbonate and carbonate, for it is known
+that an exchange reaction occurs between carbon dioxide and dis-
+solved bicarbonate and carbonate ions. The time for radioactive
+carbon dioxide in the air to distribute itself through this reservoir
+probably is not in excess of 500 years. This is the so-called “‘turn-
+over’’ time for the life-cycle which has been widely discussed by geo-
+chemists. The estimates vary quite widely, but it does seem that this
+time can hardly exceed 1000 years. Since this is a time short as com-
+pared to the lifetime of radiocarbon, we conclude that any given
+radiocarbon atom will make the round trip several times in its life-
+time, and we therefore predict that the distribution of radiocarbon
+throughout the reservoir will be quite uniform, there being little
+vertical or latitudinal or longitudinal gradients left. One has some
+cause to suspect that there might be variations in intensity over the
+earth’s surface, for the reason that it is known that the cosmic-ray
+neutron component varies by a factor of about 3.5° between equa-
+torial and polar regions, the intensity being greater in the polar
+regions.
+   As expected, however, on the basis of the probable brevity of the
+turn-over time as compared to the lifetime of radiocarbon, it has
+been found that the distribution is uniform. Materials have been
+selected from various points on the earth’s surface and from various
+altitudes, and the specific radioactivity has been found to be identi-
+cal within the error of measurement, which amounts to some 3-5
+per cent.
+   In order to predict the specific radioactivity of living carbon, the
+amount of carbon in the exchange reservoir must be estimated.
+Careful consideration of the complex biochemical questions involved
+leads us to the numbers given in Table 1.
+   The dominance of the inorganic material dissolved in the sea is
+obvious from these numbers. This has the immediate consequence
+that variations in living conditions which will lead to variations in
+the amount of living matter on earth will not appreciably affect the
+total carbon in the reservoir. Or, conceivably, the only possible sig-
+   9. J. A. Simpson, Jr., Phys. Rev., 73, 1389 (1948); L. C. L. Yuan, Phys. Rev., 76,
+1267, 1268 (1949).
+                                     PRINCIPLES                                           fi
+
+nificant variations of the quantity of carbon in the reservoir must —
+involve changes in the volume, the temperature, or the acidity (pH)
+of the oceans. This probably means that the reservoir has not
+changed significantly in the last few tens of thousands of years,
+though there is the point to consider of the effect of the glaciation on
+both the volume and the mean temperature of the oceans. If the
+numbers in Table 1 are correct, there are some 8.3 grams of carbon
+in exchange equilibrium with the atmospheric carbon dioxide for
+each square centimeter of the earth’s surface, on the average, and,
+since there are some 2.6 C4 atoms formed per square centimeter per
+second, we must expect that these 8.3 grams of carbon will possess
+
+                                        TABLE      1
+
+                                  CARBON INVENTORY
+                                                                            Amount
+                         Source                                            (Gm/Cm?)
+             Oceanescashbonate wees .ce7 Se enc: we      eee                azo
+             Ocean,;idissolyvediorganic: +4 s.c. 2aqiae
+                                                     o<! cia                0.59
+            IBiOSphere Site a oe      ee ar ce One ae ate                   0.33
+            AA EMOSD HELE Mansi re tre’= sg shatsack cette hepreds SHAH:    Ont2
+
+                  CRG     earn     face Ae eee         sy een   een eee     8.3
+
+
+a specific radioactivity of 2.6/8.3 disintegrations per second per
+gram, or 2.6 X 60/8.3 disintegrations per minute per gram. This
+number, 18.8, is to be compared with the experimentally observed
+value of 16.1 + 0.5.!° The agreement seems to be sufficiently within
+the experimental errors involved, so that we have reason for confi-
+dence in the theoretical picture set forth above.
+   The agreement between these two numbers bears on another point
+of real importance—the constancy in intensity of the cosmic radia~-
+tion over the past several thousand years. If one were to imagine that
+the cosmic radiation had been turned off until a short while ago, the
+enormous amount of radiocarbon necessary to the equilibrium state
+would not have been manufactured and the specific radioactivity of
+living matter would be much less than the rate of production calcu-
+lated from the neutron intensity. Or, conversely, if one were to
+imagine that the intensity had been much higher in the past until
+very recently, the specific radioactivity would greatly exceed that
+   10. E. C. Anderson, Ph.D. thesis, University:of Chicago           (1949); E. C. Anderson
+and W. F. Libby, Phys. Rev., 81, 64 (1951).
+8                          RADIOCARBON           DATING
+
+calculated from the observed neutron intensity. Since 5568 + 30
+years will be required to bring the inventory halfway to any new
+equilibrium state demanded by the change in cosmic-ray intensity,
+we find some evidence in the agreement between these numbers that
+the cosmic-ray intensity has remained essentially constant for the
+last 5000-10,000 years. This does not mean that it could not exhibit
+hourly, daily, or even annual fluctuations. It does mean, however,
+that the intensity averaged over 1000 years or so has not changed.
+There is the slight possibility that an approximately compensating
+change in the carbon inventory has occurred, but for the reasons
+mentioned above the buffering action of the great reservoir in the sea
+makes this very remote.
+   A further point of interest in connection with the inventory and
+the observed specific assay is that the carbon isotopes apparently are
+fractionated in being incorporated into the biosphere from the in-
+organic world. This effect was discovered some time ago! for the
+isotope C!%, which has a mean abundance of 1.1 per cent in ordinary
+carbon. It was found that the ratio of the abundance of C® in inor-
+ganic carbon to that in biological carbon is 1.025. On the basis of this,
+one would expect a value of 1.05 for the analogous ratio for C14, radio-
+carbon. Since the mass spectrographic measurements of the C18
+abundance are quite accurate and the theory on which one calculates
+the 1.05 ratio from the observed 1.03 ratio for C!* is quite rigorous,
+we are inclined to multiply our assay of biological material by 1.05
+rather than to take the mean value of the small number of measure-
+ments we have made on inorganic carbon. The mean of the biologi-
+cal assay is 15.3 + 0.1. Multiplying by 1.05, we obtain 16.1 for in-
+organic carbon; then, averaging according to the weight factors given
+in Table 1, we derive the average 16.0 for the carbon inventory as a
+whole. One must remember, however, that wood or other biological
+material will present an assay of 15.3 and that modern seashell will
+present an assay of 16.1.
+   If the cosmic radiation has remained at its present intensity for
+20,000 or 30,000 years, and if the carbon reservoir has not changed
+appreciably in this time, then there exists at the present time a com-
+
+   11. A. O. Nier and E. A. Gulbranson, J. Am. Chem. Soc., 61, 697 (1939); B. F.
+Murphy and A. O. Nier, Phys. Rev., 59, 771 (1941); H. Craig, Geochim. et Cosmochim.
+Acla, 3, 53-92 (1953); H. Craig, J. Geol., 62, 115 (1954).
+                               PRINCIPLES                                    9
+
+   plete balance between the rate of disintegration of radiocarbon atoms
+   and the rate of assimilation ¢of new radiocarbon atoms for all material
+   in the life-cycle. For exampld) altree, or any other living organism, is
+   in a state of equilibrium between the cosmic radiation and the natu-
+   ral rate of disintegration of radiocarbon so long as it is alive. In
+   other words, during the lifetime the radiocarbon assimilated from
+   food will just balance the radiocarbon disintegrating in the tissues.
+   When death occurs, however, the assimilation process is abruptly
+   halted, and only the disintegration process remains. |
+ |) {It has been known for many years that the rate of disintegration of
+   radioactive bodies is extraordinarily immutable, being independent
+   of the nature of the chemical compound in which the radioactive
+   body resides and of the temperature, pressure, and other physical
+   characteristics of its environment.}The reason for this is that the
+  transformation is a nuclear phenomenon involving energies very
+  much larger than those corresponding to the chemical bonds and to
+  the various physical influences to which matter might conceivably be
+b subjected. Therefore,  \we conclude that the rate of disappearance of
+  radioactivity following death corresponds to the exponential decay
+  law for radiocarbon as represented by the solid curve in Figure
+  which the world-wide assay of 15.3 for biological materials corre-
+  sponds to zero time, and the predicted specific radioactivities for
+  various times thereafter are given by the curve. The equation for
+  the curve is
+                      Wisaa5 13 exp (— 0.693 =368)
+                                               t
+                                                                       (5)
+   or
+
+                      T= 15.3 2(-#/5568) |                            (S’)
+
+   in which ¢ is the age of the organic material in years, age being de-
+   fined as the time elapsed since death occurred. The experimental
+   points shown in Figure 1 are the observed assays for various samples
+   of known age, discussed later. In so far as the points fit the curve,
+   we have reason to believe that the method is sound and gives the
+   correct ages. The errors indicated on the experimental points are
+   standard deviations, and it appears that the results are favorable
+   as judged statistically
+   |It is obvious that we must be careful, in selecting samples, to
+10                        RADIOCARBON          DATING
+
+choose materials that contain the original carbon atoms present at
+the time death occurred. In other words, samples must not have been
+preserved with organic materials containing carbon of age different
+from that of the sample. Care must also be taken that chemical
+changes have not led to replacement of the carbon atoms. In a gen-
+
+        16
+
+                       SAMPLES            OF   KNOWN          AGE
+
+
+
+
+                   TREE RING (1072 A.D)
+                      $ TREE RING (580 A.D.)
+
+                          TREE RING (575 A.D)
+                                BIBLE (100100 B.C)
+
+                                 PTOLEMY (200 +150 B.C)
+                                    TAYINAT (675 +50 BC.)
+                                     $ REDWOOD (979 +52 BC.)
+
+                                               SESOSTRIS (1800 BC)
+                                                        ZOSER (2700 +75B,C)
+     (dpm/gC)
+      SPECIFIC  CURVE CALCULATED
+      RADIOACTIVITY
+      ABSOLUTE
+                FROM PRESENT DAY POINT                  SNEFERU (2625+ 75BC)
+                AND HALF LIFE OF
+                RADIOCARBON 5568430 YEARS             “9 HEMAKA (2950+ 200BC
+
+
+
+                                      !        [oats tet
+                 1000-2000      ~=«3000 += «4000 :+~=S«5000     +~—6000 ~~ 7000
+                          HISTORICAL AGE (YEARS)
+      Fic. 1.—Predicted versus observed radioactivities of samples of known age
+
+
+eral way, organic materials consisting mainly of large molecules,
+such as cellulose and charcoal, are favored. An example of question-
+able material is shell, for it is quite conceivable that shell which is
+powdery and chalky in appearance has had its.carbonate atoms re-
+placed.
+                                   PRINCIPLES                                       11
+
+   It has recently been shown” that a New England lake whose bed
+was entirely ancient limestone and which was fed mainly by water
+leached through ancient limestone contained carbonate, bicarbonate,
+and CO: whose radiocarbon content was only 77 + 2 per cent of the
+value for the carbon in modern wood. Also it was shown that in this
+particular lake the living material had specific activities below that
+ of modern wood in the normal biosphere but not quite so low as the
+carbonate, bicarbonate, and CQO: dissolved in the lake water. This
+experience cautions us that materials grown under such conditions
+must not be used for radiocarbon dating. Material that is likely to , .
+be supported in its growth, in any significant part, by carbon fromJ
+limestone is, of course, useless.
+    12. E.S. Deevey, Jr., M.S. Gross, G. E. Hutchinson, and H. L. Kraybill, Proc. Nat.
+Acad. Sci., 40, 285 (1954).
+                               CHV
+                                ASEy              Rew ten
+
+                   WORLD-WIDE DISTRIBUTION
+                       OF RADIOCARBON *
+
+  | NUNDAMENTAL to the radiocarbon dating method is the
+       question of the contemporary assay of the exchange reservoir
+       for radiocarbon and the uniformity over the earth’s surface of
+this assay. Organic material, principally wood, was collected from
+widely scattered points over the earth’s surface, and measurements
+of the specific radioactivity were made. One group of samples was
+concentrated near the geomagnetic equator, where the neutron flux
+is at a minimum; another in high latitudes, where the neutron flux
+is at a maximum. The variation in neutron intensity with latitude,
+as observed by Simpson at 30,000 feet, is presented in Figure 2.?
+Some consideration was given to the archeological importance of
+the region with the thought that, if no uniformity were demon-
+strated, these data might be utilized in age measurements where the
+original assay would vary from region to region. Fortunately, this
+has not proved to be necessary. Owing to the known extreme varia-
+tion of neutron intensity with altitude, shown in Figure 3, in which
+the data of Yuan and Ladenburg taken at Princeton, New Jersey,’
+are given, two samples from high altitudes were measured. It might
+be suspected that the specific radioactivity would be higher at
+higher altitudes. However, the height of the timber line was of
+course very small indeed compared with the 30,000-foot altitude at
+which the principal radiocarbon production occurs.
+   The experimental results are given in Tables 2 and 3, in which
+the type of sample, the donor, the geomagnetic latitude, and the
+   * See Addendum to Chapter II, p. ix above.
+   1. The material on this subject has been taken largely from the doctoral thesis of
+E. C. Anderson, presented to the Division of Physical Sciences, University of Chicago,
+in partial fulfilment of the requirements for the Ph.D. degree. Cf. also Ann. Rev. Nuc.
+Sct., 2, 63 (1953).
+   2. Ibid.
+   3. Phys. Rev., 74, 504 (1948); 76, 1267, 1268 (1949); 77, 728 (1950); Bull. Am.
+Phys. Soc., 23, No, 2, 21 (1948).                        ;
+                                          12
+           ([S¥6T] 68EI ‘eZ “eay “skyg “af ‘uosdutg ~y ‘[ Joyyy) “A}isuezUT UoIyNEU AvI-oTUISOD Jo UOTBIRA [BUIPNIneT—Z   “OT
+    Be     aca        Q1313     DILSNOVW     310d!0     ig came         ZQNLILV1       SILSNOVWO39       $33u930d)    =+—NS—>
+                              OS              OV
+                                                                                                                                SLNNOD)
+                                                                                                                                3LOANIN   Y3d
+                                                                                                                                    NOYLNIN
+                                                                                                                                            ALISNILNI
+
+
+                                                                                                                                 NI
+                                                                                                                                 NOYLN3N
+                                                                                                                                 (Y3LNNOD
+              n
+i    stato h te — +    ie       Ee
+REBAR             auee HetBeReeeeReReRRESE                                                            SERRE).
+14                       RADIOCARBON           DATING
+
+observed specific radioactivity in absolute disintegrations per minute
+per gram of carbon are recorded, Table 2 applying to the biosphere
+and Table 3 to the inorganic.
+   The associated error is the standard deviation calculated from
+the counter statistics only. Naturally, since other errors are involved,
+the true error will be somewhat larger. However, similar treatment
+of the more numerous data quoted later on samples measured for
+age determination seem to indicate that the scatter appears to be
+
+
+
+                    NEUTRON DENSITY IN FREE ATMOSPHERE               vs
+                       ALTITUDE AT PRINCETON, N.J.
+                          (JAN. 8, 1949)
+
+
+
+
+ INTENSITY
+
+
+
+
+ NEUTRON
+
+
+
+
+        100000] 50000        30,000
+          FEET| FEET          FEET
+             70000
+             FEET           PRESSURE     (Cm   Hg)
+     (COUNTS
+     COUNTER)
+     PER
+     IN
+     MINUTE
+     THERMAL
+     NEUTRON
+
+                Fic. 3.—Altitudinal variation of neutron intensity
+
+
+little more than would be expected from this source alone. So per-
+haps one can conclude that this nearly represents the true standard
+deviation of the measurement. The terrestrial distribution of the
+samples is shown in the map in Figure 4, each dot corresponding to
+a particular sample. It is of course to be realized that the geomag-
+netic latitude and the ordinary latitude are not identical. The geo-
+magnetic latitude is taken as being more significant in Table 2,
+since the variation in neutron intensity with latitude shown in Fig-
+ure 2 correlates with it.
+                                                  TABLE    2
+                    ACTIVITY        OF TERRESTRIAL        BIOSPHERE           SAMPLES
+
+
+                                                                             Geomag- | Absolute Specific
+                               Source                                          netic        Activity
+                                                                             Latitude     (Dpm/Gm)
+
+White spruce, Yukon (Frederick Johnson).............                          60°N.         14.84+0.30
+Norwegian spruce, Sweden (Donald Collier, Chicago Nat-
+  iralselistory Museum) cttw     ene. om          ee                          BORING        15.37+0.54
+lnawoods Chicago (author) {2 ots cher sce sie cme lini nt                     53°N.         14.72+0.54
+Fraximus excelsior, Switzerland (Donald Collier).......                       49°N.         15.16+0.30
+Honeysuckle leaves, Oak Ridge, Tennessee (C. H. Perry,
+   Clinton Laboratory)ako  hee     base     He ee ee                          47°N.         14.60+0.30
+Pine twigs and needles (12,000-ft. alt.), Mount Wheeler,
+   New: Mexico (Robert Fryxell)".    5 n..c¢...sk.e  see:                     44°N.         15.82+0.47
+North African briar (John Hudson Moore, Inc.).......                          40°N.         14.47+0.44
+Oak, Sherafut, Palestine (Donald Collier).............                        34°N.         15.19+0.40
+Unidentified wood, Teheran, Iran (M. Hessaby).......                          28°N.         15.57+0.34
+Fraximus mandshurica, Japan (Donald Collier).........                         26° N.        14.84+0.30
+Unidentified wood, Panama (John Simpson)...........                           20°N.         15.94+0.51
+Chlorophora excelsa, Liberia (Donald Collier)...........                      Ne            15.08+0.34
+Sterculia excelsa, Copacabana, Bolivia (9000-ft. alt.) (Don-
+   Mla @ollier) sath; ar heaters. bake ee oe          es                       1°N.         15.47+0.50
+Ironwood, Majuro, Marshall Islands (Donald Collier). .                         0°           14.53+0.60
+ Unidentified wood, Ceylon (Donald Collier)............                        PSs          15.29+0.67
+Beech wood (’Nothafagus), Tiera del Fuego (Junius
+  [REO Omer    Saas MG    Ret esa       hefe AR     ae REE         NE. a5?    45°S.         15.37+0.49
+Eucalyptus, New South Wales, Australia (Donald Collier)|                      45°S.         16.31+0.43
+Seal oil from seal meat from Antarctic (Byrd Expedition
+  EHrOUgnyEd.) (nM CASOM) ae cates. fieeabre dh. ok asclee mes bee            65°S.         15.69+0.30
+     PAVERRCEL Oak nd Meee       race Aertorns ae atic vatars eae oes |leameperacaes: x     15.3) seORL
+
+   * Error of calibration of counter raises error on absolute assay to 0.5.
+
+
+
+                                                  TABLE    3
+                   ACTIVITY OF CONTEMPORANEOUS SHELL SAMPLES
+                                          Source                                          Assay*
+         Four seashells from Lower Californiaf..........                               1573-0.
+         Six clam shells:frond New York... .amegeenien.:                               16.9+0.3
+         Bikini coral (Halimeda debris)f................                               16.9+0.3
+         Clam shells from Aleutians§......%............%                               13.3+0.5
+         Eleven mollusk shells from North America, rang-
+             ing from Texas, California, and Florida to
+               INewe Ene lama llete ecanrrrorcksoihe ar hae                  eens      15.8+0.2
+            (Excluding two high values at 17.8 and 17.2...                             15.4+0.2
+         Munexishell from eRloridas  4. 4.\c..).).2e) eee                              17-1055
+         Fresh ocean sediment from Bermuda............                                 17.4+0.5
+         Oyster from Ghesapeake Bay, . hates) «sian eee                                U5 a1 005
+             * All the analyses quoted from other laboratories are reduced by assuming that the
+         modern wood assay is in perfect agreement with the average value deduced from the
+         data in Table 2.
+             t H. Suess, Science, 120, 467 (1954).
+             tJ. L. Kulp, H. W. Feely, and L. E. Tryon, Science, 114, 565 (1951).
+             §J. L. Kulp, L. E. Tryon, W. R. Eckelman, and W. E. Snell, Science, 116, 409
+         (1952).                                               .
+              lM. Blau, E. S. Deevey, Jr., and M. S. Gross, Science, 118, 1 (1953).
+“oI   uoynquisiqG—f
+        jo            snoaueioduiajuos
+                              sajduies
+          WORLD-WIDE          DISTRIBUTION          OF RADIOCARBON                    17
+
+   The average specific activity of all the biosphere samples is found*
+to be 15.3 + 0.5 absolute disintegrations per minute per gram. The
+data seem to show no scatter appreciably larger than the expected
+statistical fluctuations, indicating that the samples involved would
+indeed have specific activities identical within the error of measure-
+ment. The data presented in Table 3 for shell reveal that shell
+carbon is probably more radioactive than organic matter. This
+difference is to be expected, since it has been shown’ that frac-
+tionation of the stable isotopes of carbon, C” and C", occurs in
+these systems. The ratio of the C' content of carbonate to that of
+organic material would be expected to be 1.05, since the careful
+work on C!4 has shown a factor of 1.025.° The difference between
+this factor 1.05 and the one found in the data given in Table 3 may
+not be outside the experimental area. But one has the suspicion
+from examining the data in Table 3 that factors are operating which
+we do not understand clearly. It has been suggested’ that upwelling
+of deep ocean waters which are somewhat deficient in C'*, apparently
+because of slightly imperfect mixing in the greatest depths of the
+ocean, may cause seashells growing in these regions of upwelling wa-
+ters to be deficient in C'*. This would perhaps apply to the clam
+shells from the Aleution Islands. Since the accuracy of the estima-
+tion of the fractionation factor from the accurate C!® data® is better
+than the precision of our measurements of the shell activity, we take
+the observed value per shell to be 16.1, derived by multiplication of
+the mean of the organic specific activity by 1.05. It seems that a fur-
+ther investigation of the fractionation factor would be worth while
+and that further measurement of contemporaneous shell samples is
+definitely desirable.
+   The estimation of the amount of carbon in exchange with the
+atmospheric carbon dioxide is a difficult task. It is, however, neces-
+sary to the striking of a balance between the observed specific ac-
+   4. Earlier publications have given 12.5 for this number. The counters have been re-
+calibrated for absolute efficiency since then, and the new value is derived from the old
+one by correction for the more accurately determined efficiency.
+   5. A. O. Nier and E. A. Gulbranson, J. Am. Chem. Soc., 61, 697 (1939); B. F.
+Murphy and A. O. Nier, Phys. Rev., 59, 771 (1941).
+   6. H. Craig, J. Geol., 62, 115 (1954).
+   7. J. L. Kulp, H. W. Feely, and L. E. Tryon, Science, 114, 565 (1951).
+   8. A. O. Nier and E. A. Gulbranson, J. Am. Chem. Soc., 61 (1939); B. F. Murphy
+and A. O. Nier, Phys. Rev., 59, 771 (1941); H. Craig, J. Geol., 62, 115 (1954).
+18                        RADIOCARBON     DATING
+
+tivity and the cosmic radiation intensity. The results have been
+given in Table 1.
+   The carbon in the exchange reservoir is obviously of three prin-
+cipal origins; namely, that dissolved in the oceans, the carbon of liv-
+ing organisms, and atmospheric carbon dioxide itself. We shall find
+that the latter two are so small as to be nearly negligible in com-
+parison with dissolved material in the sea, principally carbonate and
+bicarbonate. Let us consider first the amount of carbon dissolved in
+the oceans as some species of carbonic acid. This amount can be
+calculated from a knowledge of two factors: the alkalinity and the
+pH of the ocean water. The alkalinity is the excess of positive ions
+over the anions of strong acids. This difference must be made up by
+the ionization of weak acids in order to preserve electrical neutral-
+ity. Since carbonic acid is the principal weak acid in the ocean, the
+situation is fairly simple. The total amount of dissolved carbon is
+not uniquely determined by the alkalinity alone, because of its
+variable equivalent nature due to the possibility of its existence in
+the neutral, monobasic, and dibasic forms: H:COs, HCOs;, and
+CO; . The ratio of the amounts in these forms must therefore
+be specified, and this ratio is, of course, determined by the pH.
+The necessary equations are
+                            (H*) - (HCO;)
+                               (HcO,y       =                      6)
+                            (H+) + (COs) _
+                            —THCO=)~ &                             ai
+                 A = (HCO>) + 2 (COF)                              (8)
+
+                 S = (H,COs) + (HCO;) + (CO;-),                    (9)
+where A is the alkalinity due to carbonic acid, and S is the total
+amount of carbon present in the forms indicated. These equations
+can be combined to give
+                   rica     Postma pelt(ES*stairBog +1].         (10)
+                   a            x        tat
+We must now consider the values to be adopted for the four con-
+stants in this equation; namely, the alkalinity, the hydrogen-ion
+concentration, and the two ionization constants of carbonic acid.
+          WORLD-WIDE-DISTRIBUTION                 OF RADIOCARBON            19
+
+     The average value of the alkalinity of the ocean seems to be well
+  established as a result of numerous measurements by many investi-
+  gators and has a value of 2.43 milliequivalents per liter.? The alka-
+  linity is due almost exclusively to carbonate and bicarbonate, the
+  amounts of phosphorus, arsenic, silicon, and other elements capable
+  of forming weak acids being completely negligible. A slight correc-
+  tion can be made for the amounts of boron known to be present.
+  Using only the first ionization constant of boric acid and taking the
+  pH of the ocean as 8.0, we find the alkalinity due to boron to be 0.06
+  milliequivalents per liter.!° The alkalinity due to carbon is therefore
+' 2.37 milliequivalents per liter.
+     The variation in pH throughout the ocean is surprisingly small,
+  and the average value is about 8.0" The small amount of variation
+  found throughout the greater portion of the water map is graphically
+  illustrated by the north-south section of the Atlantic Ocean given
+  by Sverdrup e¢ al. as taken from Wattenberg.” It is clear that over
+  the major portion of the ocean the variation is only 0.1 pH unit.
+     It is of interest to compare the observed pH of ocean water with
+  that calculated assuming complete equilibrium with the carbon
+  dioxide of the atmosphere. The deep water which constitutes by far
+  the largest fraction of ocean water is formed at high latitudes by the
+  cooling of water of high salinity. Therefore we will assume Arctic
+  conditions for the equilibration. For the apparent ionization con-
+  stants of carbonic acid we will use experimental values which will be
+  discussed below. These are Kj = 8.3 X 10-7, and K2 = 6.3 X 107°,
+  and are applicable to water of chlorinity 19.0 per mil at a tempera-
+  ture of 4° C. We will assume an alkalinity of 2.37 milliequivalents
+  per liter and a partial pressure of CO; in the polar air of 0.23 mm. of
+  mercury.'® For the solubility of CO, in sea water we will use the
+  data given by Sverdrup e¢ al.'4 The result of this calculation is a pH
+  of 8.10 for the water while at the surface. On sinking to the average
+    9. H. U. Sverdrup, M. W. Johnson, and R. H. Fleming, The Oceans (New York:
+ Prentice-Hall, 1946), p. 208.
+   10. Ibid., p. 199.
+   11. Ibid., p. 208.
+   12. Ibid., p. 210, Fig. 43.
+   13. K. Buch, Acta Acad. Aboensis, Math. et Physica, 11, No. 12 (1939).
+   14. Op. cit., p. 191.
+20                        RADIOCARBON          DATING
+
+depth of the oceans (3800 meters), the pH will change to 8.01 as a
+result of changes of Kj and K3 with pressure. These results are in very
+satisfactory agreement with the observed pH of the deep ocean,
+namely, 8.0.
+   Because of the high ionic strength of sea water, namely, 0.9 molal,
+and the lack of knowledge of the activity coefficients of the species
+involved, it is necessary to use apparent ionization constants rather
+than thermodynamic constants for carbonic acid. Fortunately the
+values of Kj and Kj have been carefully investigated by a number
+of investigators! as a function of pH, salinity, temperature, and
+pressure in both natural and artificial sea water. In general, the
+agreement among the several investigators is excellent, and the re-
+sults appear to be very reliable.
+   The relations which were found for the normal range of composi-
+tion of sea water are
+                          pK; = 6.47 ~—0.100 (Cl) 4                            ay
+
+at 20° C. with a temperature coefficient of —0.008 per °C. and a
+pressure coefficient of —4.8 X 10- per meter of depth; and
+                        pK2= 10.35
+                               — 0.498 (Cl) 8                                  (12)
+(where pK is the negative logarithm, base 10) at 20°C. with a
+temperature coefficient of —0.011 per °C. and a pressure coefficient
+of —1.8 X 10-* per meter. Taking (Cl) as 1.95 per cent, the tempera-
+ture to be 4° C.; and a depth of 3800 meters (the mean depth of the
+ocean), we find that for average ocean water
+                              Ki = 1.26 X 10-6                                 (13)
+                              Ke = 441 X10.                                    (14)
+
+    From Equation (10) it is possible to calculate the errors which
+will be introduced into the value of the total carbon by errors in
+Ki, Ks, and pH. If we substitute the following numerical values in
+Equation (10), Ki = 1.20 X 10-*, K; = 7.41 X 10-!°, and (H+) =
+10-8, we find
+                  S =   7—,,         (0.00824 0.074+41).                       (15)
+
+   15. E.G. Moberg, D. M. Greenberg, R. Revelle, and E. C. Allen, Bull. Scripps Inst.
+Oceanogr., Univ. California, Tech. Ser., 3, 231 (1934); K. Buch, Acta Acad. Aboensis,
+Math. el Physica, 11, No. 5 (1938); Sverdrup et al., op. cit., p. 250.
+          WORLD-WIDE -DISTRIBUTION         OF RADIOCARBON               21
+
+It is clear that Kj has a completely negligible effect on S, since it
+contributes only 0.8 per cent to the last term.
+   Dropping K; and expanding Equation (10) in terms of powers of
+[K3/(H*)], and dropping higher powers than the first, we have, to
+a good approximation,
+
+                    s=4(1- aH) A(L— 0,074),                          (16)
+The entire effect of K3 is only 7.4 per cent. If for the possible error in
+K2 we allow the amount of the full range between Ky and K3, we
+will estimate the possible error in S from this source as 7 per cent.
+   The error introduced in the value of S by an error in pH can be
+calculated by differentiating Equation (10) with respect to —log
+(H+). In this way we find
+                  dS                            (H*)
+                   Tope
+                     =~9:42 X10 eee pens                            (17)
+At pH 8 a change of one pH unit gives a change of 0.36 in S, or 16
+per cent. If we assume that the uncertainty in the exact average pH
+of the ocean is 0.5 pH unit, we place an error of 8 per cent on the
+amount of dissolved carbonate.
+   The variations in alkalinity which have been observed in water
+from various sources by different investigators amount to about 4
+per cent. We may take this as a measure of the uncertainty in A.
+Combining the errors from K3, pH, and A, by the square root of the
+sum-of-squares method, we place an uncertainty of 11 per cent on
+the value of S.
+   Using the values of Kj = 1.26 X 10-*, K; = 7.41 X 10-”, pH =
+8.0, and A = 2.37, the solution of Equation (10) gives for S a value
+of 26.2 milligrams of carbon per kilogram of sea water, or 7.25 gm/
+cm? of earth’s surface. This corresponds to a total mass of 3.7 * 107°
+grams of carbon. In addition to the dissolved inorganic carbon, there
+is found in solution in the ocean a considerably smaller amount of
+organic carbon (not living). The best value for this appears to be
+about 2 mg. per liter, according to Sverdrup et a/.!° This corresponds
+to 0.59 gram of carbon per square centimeter of the earth’s surface.
+   The amount of carbon in living material is difficult to estimate and
+appears to have been grossly overestimated by some writers in the
+  16. Op. cit., p. 250.
+22                          RADIOCARBON           DATING
+
+past. We will base our estimate on the rate of fixation of carbon by
+photosynthesis, a quantity which appears to-be fairly well estab-
+lished.” Fortunately it can be shown that biosphere carbon is small
+compared with ocean carbonate, and therefore an error in the estima-
+tion of it will not be of great importance to our use of this quantity.
+   The total rate of fixation of carbon by land plants has been in-
+vestigated by Schroeder,!® who concluded that the average annual
+fixation by this source is 1.63 X 10 grams, or 3.2 mg/cm? of the
+earth’s surface. Riley’® made an investigation of the fixation by ocean
+plankton and arrived at a figure of 30.5 mg/cm? of earth’s surface for
+the average annual rate. Rabinowitch” estimates that, on the basis
+of the solar energy flux, reflection losses, and photosynthetic ef-
+ficiency, not more than 60 mg/cm? of earth’s surface could be fixed
+annually, indicating that Riley’s figures could not be too low by any
+large factor. On the other hand, it appears that the estimate of
+Vernadsky,”! who gives 2000 mg/cm? for the carbon content of the
+biosphere, with renewal several times a year, is energetically im-
+possible. We will use the sum of the values given by Schroeder and
+by Riley as the total annual rate of fixation of carbon; namely, 33
+ mg/cm? of the earth’s surface.
+    The total amount of carbon contained in the biosphere at any time
+will be given by the fixation rate times the average length of time
+a given carbon atom spends in the biosphere, if a steady state exists.
+An estimation of this time is somewhat easier than might appear on
+first glance, since 90 per cent of the fixation is by ocean plankton,
+which are minute organisms of very short life. Furthermore, even the
+ carbon contained in longer-lived organisms does not in general
+ have a time of residence in the organism equal to the life of the
+ organism but rather less because the material of the organism is
+ replaced a number of times during its lifetime. A maximum value for
+ the average time the carbon atom spends in the biosphere seems to
+    17. E. Rabinowitch, Photosynthesis and Related Processes (New York: Inter-Science
+Publishers, Inc., 1945), chap. i.
+     18. G. Schroeder, Naturwiss., 7, 8, 96 (1919).
+    19. G.A. Riley, Bull. Bingham Oceanogr. Coll., 1, 1 (1941), quoted by Rabinowitch,
+op.cit., p. 6.
+     20. Op. cit., p. 6.
+    21. W. J. Vernadsky, Geochemie in ausgewahlten    Kapiteln   (Leipzig: Akademische
+Verlagsgesellschaft, 1930).
+           WORLD-WIDE            DISTRIBUTION        OF RADIOCARBON               23
+
+_ be a few years. Since carbon in the biosphere is such a small fraction
+  of the total exchange reservoir, a more exact treatment appears un-
+  necessary. Taking 10 years for the average carbon life, our calculated
+  biosphere inventory will be 0.33 gm/cm? of the earth’s surface, which
+  will prove to be only some 4 per cent of the total in the exchange
+  reservoir, as has been shown in Table 1.
+     We may check this estimate against measurements which have
+  been made of the ratio of living matter to dissolved organic carbon
+  in the ocean. A number of such measurements have been made by
+  several observers,” and the ratio of dissolved to living matter has
+  been determined to vary between 300:1 and 2:1. The low figures
+  are found only in relatively small areas near shore where there is
+  intense biological activity. The larger ratio, which was established
+  for the deep water of the open ocean, was probably considerably
+  nearer the average for the ocean as a whole. The estimates which we
+  have chosen for these two quantities give a ratio of 2:1, again indi-
+  cating that we have not underestimated the amount of carbon in the
+  biosphere.
+     The most likely way of appreciably increasing the holdup of the
+  biosphere is by the assumption that a considerable portion of this
+  material spends many years in slow decay as humus or ocean sedi-
+  ments before it is recirculated. The available evidence for the ocean
+  sediments seems to be that the major part of the dead material
+  dissolves during the settling process and that little of it ever
+  reaches the ocean floor.** This makes it unlikely that this factor could
+  increase appreciably the importance of biosphere carbon to the size
+  of the exchange reservoir.
+     The amount of carbon dioxide in the atmosphere has been deter-
+  mined by several people. The values are: Buch,?! 0,12 (polar) to 0.13
+  (tropical and continental); Paneth,” 0.12; and Vernadsky,” 0.12.
+  We will use 0.12 gm/cm? of the earth’s surface for the amount of
+  carbon in atmospheric carbon dioxide. This is equivalent to CO,
+    22. Sverdrup et al., op. cit., p. 250.
+    23. Ibid., p. 1012.
+     24. K. Buch    4cta Acad. Aboensis, Math. et Physica, 11, No. 12 (1939).
+     25. F. Paneth, quoted by G. P. Kuiper, The Atmospheres of the Earth and Planets
+  (Chicago: University of Chicago Press, 1949), p. 1.
+    26. Op. cit.
+24                         RADIOCARBON         DATING
+
+partial pressure of 0.21 mm.            of mercury, or a concentration of
+0.028 per cent.
+   In addition to the dilution of cosmic dene by the carbon of
+the exchange reservoir, some is being removed constantly by incor-
+poration in sedimentary rocks as they form. This rate of loss of radio-
+carbon will be estimated. The rates of deposition of calcium carbo-
+nate in the sea are not at all well established. Various estimates can
+be made on the basis of the total amount of calcium carbonate that
+has been deposited, the bicarbonate contents of rivers emptying
+into the sea, and the direct observationof the rate of formation of
+ocean sediments. For example, Brown”’ has calculated the following
+inventory of carbon in the sedimentary rocks: in shale, 5.45 X 107
+grams; in sandstone, 0.20 X 101 grams; and in limestone, 3.67 X
+10” grams—a total of 9.3 X 10% grams of carbon. If we assume uni-
+form deposition over a 2-billion-year period, we have a yearly loss
+rate of 5 X 10” grams, which would remove only 6 grams of the
+9800 grams of radiocarbon produced each year. This may be low
+because recycling may be important, and the other methods give
+somewhat higher figures; but it seems likely that the total removal
+by formation of sedimentary deposits is probably less than about
+3 per cent.
+   We may consider now the question as to whether or not the vari-
+ous portions of the exchange reservoir are sufficiently well mixed so
+that they are completely efficient in the dilution process. The uni-
+form distribution of radiocarbon throughout the reservoir will result
+only if the various mixing processes are complete in a time short
+compared with the average life of radiocarbon (8033 years; the aver-
+age life is longer than the half-life by 1/ln 2). From the estimated
+photosynthetic fixation rate given above and the total material in
+the exchange reservoir, it can be calculated that a time of the order
+of 250 years would suffice to turn over all the carbon through the
+biosphere. This insures that the thin layer of the reservoir at the sur-
+face of the earth and of the ocean will be well mixed. The main
+question is whether or not the depths of the ocean and the upper
+reaches of the atmosphere are mixed.
+   Considering the latter first, we note that the radiocarbon is pro-
+duced at great heights (Fig. 3), the neutron intensity reaching a
+     27. H. S. Brown, private communication,
+           WORLD-WIDE            DISTRIBUTION            OF RADIOCARBON          25
+
+. maximum at about 40,000 feet and falling off considerably by 70,000
+  feet. At this altitude the air pressure is 3.5 mm. of mercury. Excel-
+  lent and rapid mixing is well established in the troposphere, the
+  adiabatic portion of the atmosphere in which most weather phe-
+  nomena occur. In the meteorological “standard atmosphere” the
+  tropopause, or boundary between the adiabatic troposphere and the
+  isothermal stratosphere, is assumed to be? at 10.8 km. (36,000 feet).
+  However, the height of the tropopause varies considerably with the
+  season and with latitude, reaching 18 km. (58,000 feet) in the winter
+  at 40° N. latitude, while in summer it may be found at 16 km.
+  (52,000 feet) as far north as 60° N. geomagnetic latitude.” Thus the
+  tropopause is actually above the altitude of maximum neutron in-
+  tensity some of the time each year. Even the isothermal stratosphere
+  is not without vertical mixing.”
+     The situation with regard to oceanic mixing is much less obvious.
+  Very little indeed is known about the quantitative rates of convec-
+  tive mixing of the deep ocean basins. Diffusive mixing is of course
+  so extremely slow as to be out of the question.
+     From studies made of the circulation of the Atlantic Ocean*! a
+  very rough estimate of the mixing time can be made. These figures
+  indicate that the rate of flow southward between South America
+  and Africa at the equator is about 6 X 10® cubic meters per second
+  at 3000 meters depth. This flow has been identified with North
+  Atlantic Deep Water produced in the Arctic regions, and much of it
+  reaches the Antarctic to replace water subsiding at the Antarctic
+  Convergence. The situation is greatly complicated by the presence
+  of some six water masses interacting in an involved circulatory
+  pattern, but we may take this figure to represent the gross ex-
+  change of water between the North and South Atlantic at great
+  depths. The shallower water is mixed more rapidly by local complexi-
+  ties in the circulation pattern, and the surface water is characterized
+  by well-developed patterns of rapid currents. The Antarctic Bottom
+  Water, which fills the deepest parts of most of the Atlantic, moves
+    28. H. R. Byers, General Meteorology (New York: McGraw-Hill Book Co., 1944),
+ p. 171.
+    29. C.-G. Rossby, in The Atmospheres of the Earth and Planets, ed. G. P. Kuiper
+ (Chicago: University of Chicago Press, 1949), p. 21.
+    30. L. Spitzer, Jr., 2b¢d., p. 221.
+    31. Sverdrup et al., op. cit., pp. 629 and 747 ff.
+26                           RADIOCARBON          DATING
+
+slowly north below the southward current and is presumably re-
+turned to the Antarctic by gradual mixing with the North Atlantic
+Deep Water. The rate of the return is not known, but the north-
+ward flow at the equator is estimated at 1 X 10° cubic meters per
+second.
+   Taking the volume of the Atlantic Ocean as 3.24 X 10!” cubic
+meters, we find the calculated time of circulating the entire ocean
+through the entire Deep Water current to be 1700 years. About 18 —
+per cent of the Atlantic is below 4000 meters. If this water has a
+circulation rate of 1 X 10° cubic meters per second, the time re-
+quired to circulate it is 1800 years. Less is known about the Pacific
+circulation, but it is thought to be somewhat slower than that of the
+Atlantic.
+   For isolated seas for which the annual inflow and outflow are
+known, it is possible to calculate a renewal time. Some of the figures
+so obtained are: Mediterranean, 80 years; Arctic Mediterranean,
+165 years; and Black Sea, 2500 years. The volume of such seas makes
+their importance in a general mixing process small, but the figures
+given are an indication of the order of magnitude of the time scale
+involved.
+   A further argument in favor of complete mixing of the ocean
+basins may be based on the following considerations: It is known that
+heat is being liberated from the earth’s crust at the rate of about 30
+calories per square centimeter per year.*” Presumably the evolution
+of heat from the bottom of the sea is of a similar magnitude, as in-
+deed recent measurements by Revelle and associates in the deep
+Pacific have shown.** Owing to this heat evolution, one might expect
+regions of temperature inversion to develop near the ocean bottom,
+especially in areas of poor circulation. To transfer this amount of
+heat by molecular conduction would require a thermal gradient of
+8 X 10-*°C. per centimeter, assuming the conductivity of water to
+be 0.0013. If a layer 1000 meters thick at the bottom were cooled
+only by molecular conduction, a temperature difference of 80° C.
+would be required. Naturally, turbulent eddy circulation patterns
+would be set up at much lower gradients, and a more effective
+     32. I. C. Bullard, Nature, 156, 35 (1945).
+    33. Roger Revelle and associates, private communication. They find 38 calories
+per square centimeter per year.
+            WORLD-WIDE           DISTRIBUTION   OF RADIOCARBON          27
+
+  mechanism of eddy conduction would operate to remove the heat.
+- Such eddy circulation would be equally efficacious in the transfer of
+  dissolved carbonate, and a very efficient method of maintaining
+  the radiocarbon equilibrium would arise. It can be calculated,
+  for example, that a temperature gradient of 1.6 x 10-® °C. per
+  centimeter would require a coefficient of eddy conduction some five
+  hundred times the molecular coefficient for the transfer of the postu-
+  lated amount of heat. This is quite small as eddy coefficients go,
+  since they often range up to 10° or more times the molecular co-
+  efficients. Such an eddy circulation operating at a depth below 4000
+  meters can be shown to be adequate to mix the ocean depths suf-
+  ficiently so that the assay of radiocarbon at 6000 meters would be
+  90 per cent of normal with an integrated effect of only 1.4 per cent
+  on the value of the specific activity.
+     Few cases of temperature inversion in the deep ocean have been
+  established. The inversion gradient shown in the above calculation
+  is that observed in the Mindanao Trench* and is almost exactly
+  equal to the gradient which would be produced by adiabatic com-
+  pression; that is, there is no density inversion, the density of the
+  water being constant with depth. However, the smaller the thermal
+  gradient, the larger the coefficient of eddy conduction required to
+  transport the heat. Without specifying the nature or source of the
+  circulation, we merely point out that if 30 calories per square centi-
+  meter per year are being evolved from the ocean floor, a certain mini-
+  mum rate of circulation must exist in order to prevent the develop-
+  ment of large thermal gradients. The above arguments are of course
+  qualitative, since turbulent eddy circulation is not amenable to
+  calculation. However, if the assumption of the specified heat evolu-
+  tion is correct, the absence of appreciable thermal inversions near
+  the ocean bottom would seem to indicate that the mixing is very
+  good indeed on our time scale.
+     It has not been possible to obtain samples of dissolved carbon
+  from the very deep ocean, so that experimental evidence on the mix-
+  ing time is not at hand. It would appear that measurements of this
+  kind might be of considerable oceanographic interest and might shed
+  some light on the problem of circulation in the deep basins. It is to be
+  noted that collection of the deep water must be done with care, so
+    34. Sverdrup et al., op. cit., p. 739.
+28                          RADIOCARBON          DATING
+
+that particulate material in transit from the top to the bottom and
+probably in equilibrium with the biosphere will not be taken as part
+of the sample proper. It seems likely that matter falling through the
+deep water would not come into exchange equilibrium with dis-
+solved material.
+   We arrive finally, therefore, at the numbers given in Table 1 and
+a total figure of 8.3 gm/cm? of the earth’s surface for the carbon in
+the exchange reservoir. The uncertainty in this value for the total
+carbon in the reservoir we place at about 15 per cent, most of this
+error being in the estimated uncertainty in the value for ocean
+carbonate, since it is the largest single item in the reservoir. It is
+interesting to compare our numbers with a similar set given by
+Rubey.® Dr. Rubey’s numbers are 7.85 gm/cm? for the total, con-
+sisting of 6.95 for ocean and fresh water, 0.125 for the atmosphere,
+and 0.775 for living organisms and undecayed organic matter.
+   We shall turn now to the question of the present production rate
+of radiocarbon as judged from the observed neutron intensity in the
+atmosphere, assuming essentially quantitative conversion of atmos-
+pheric neutrons to radiocarbon by Equation (1). As stated previous-
+ly and shown in Figure 3,* the neutron intensity increases with alti-
+tude from sea-level up to about 40,000 feet in an exponential fashion,
+with a half-thickness of about 1 meter of water equivalent. Above
+40,000 feet a maximum is reached, followed by a rapid decrease,
+indicating very low intensity at the very top of the atmosphere, in
+agreement with the principle that the neutrons are secondary in
+origin, and escape from the earth in part. In addition to the altitude
+dependence, the neutron intensity shows a strong dependence on
+geomagnetic latitude (Fig. 2),3” the intensity at high latitudes being
+about four times that at the geomagnetic equator.
+   The measurements on neutron intensity which we use for our
+calculations of total intensity have been on the thermal component
+as defined by cadmium absorption for a boron detector. We shall
+take this to mean that that fraction of the neutron spectrum lying
+   35. W. W. Rubey, “Geological Evidence Regarding the Source of the Earth’s Hy-
+drosphere and Atmosphere,’’ Science, 112, 20 (1950); and autumn, 1950, meeting of
+the National Academy of Sciences.
+   36. L.C.L. Yuan, Phys. Rev., 74, 504 (1948); 76, 1267, 1268 (1949); 77, 728 (1950) ;
+L. C. L. Yuan and R. Ladenburg, Bull. Am. Phys. Soc., 23, No. 2, 21 (1948).
+     37. E. C. Anderson, Ph.D. thesis, University of Chicago (1949).
+         WORLD-WIDE         DISTRIBUTION           OF RADIOCARBON                29
+
+below 0.4 ev has been measured, and, in order to calculate the total
+number of neutrons per square centimeter, Q, and its world-wide
+average, 0, we must determine theoretically the probable ratio of
+the total intensity to the thermal intensity. Bethe, Korff, and
+Placzek** and Placzek*® have considered the problem in detail. Fol-
+lowing them and using the later data of Melkonian*® together with
+the data in the Massachusetts Institute of Technology volume,” we
+shall assume that in the range 0.4 ev to 0.5 mev the total cross-
+section in units of 10-*4 cm.’ for air is given by
+                         o, = 8.56+ (0.266/E'”),                              (18)
+and that the ‘capture cross-section is given by
+                               oj=0.266/#1?.                                  (19)
+
+The expression for the ratio of the total number of neutrons gener-
+ated to the number which reach the thermal range is e”, where y is
+given by                          Me     \                      s
+                        y=ngeJf, otBs ok,                                     (20)
+where the number 0.124 is the fractional energy loss in elastic col-
+lision with the average air atom, the bond strength being neglected.
+Integration and substitution give 0.79 for the integral and the calcu-
+lated ratio of total production to thermal population of 2.20. It is
+clear, however, that one must consider the effect of the very strong
+bonds in the nitrogen and oxygen molecules on the cooling process.
+Study of the analogous problem of the effect of binding on the neu-
+tron elastic and inelastic cross-sections for hydrogen® leads us to
+expect that no large error is made in neglecting the binding for cool-
+ing down to the cadmium cut-off of 0.4 ev, which is 1.5 vibrational]
+quanta for the average air molecule.
+   It is necessary to make a correction for the absorption above 0.5
+mev. It has been shown by Barschall and Battat,** Johnson and
+  38. H. A. Bethe, S. A. Korff, and G. Placzek, Phys. Rev., 57, 573 (1940).
+  39. G. Placzek, Phys. Rev., 69, 423 (1946).
+  40. E. Melkonian, Phys. Rev., 76, 1750 (1949).
+   41. Science and Engineering of Nuclear Power (Cambridge, Mass.: Addison-Wesley
+Press, 1947), 1, 408-11.
+  42. H. A. Bethe, Rev. Mod. Phys., 9, 122-27 (1937).
+  43. H. H. Barschall and M. E. Battat, Phys. Rev., 70, 245 (1946).
+30                           RADIOCARBON          DATING
+
+Barschall,** and others,* that resonance production of radiocarbon
+occurs in this range at cross-sections rising to a maximum of 0.1 X
+10~** cm.” and falling to about 0.01 X 10-*4 cm.? in the range 0.5
+mev to 2.0 mey. To obtain a probable upper limit for the capture
+contribution in this high-energy range, we assume that only elastic
+scattering occurs and that an average capture cross-section of
+0.035 X 10-*4 cm.? applies throughout the high-energy interval. This
+gives an additional contribution of 7 per cent to the ratio of total to
+thermal neutron population. The corrected ratio is 2.36. The value
+of Q is now to be obtained at any given latitude by integrating the
+observed intensity under the intensity versus altitude curve (e.g.,
+Fig. 3) and multiplying this observed intensity by the number
+2.36. For this purpose we choose the data of Yuan and Ladenburg,”®
+Figure 3, obtained at Princeton, New Jersey, which give 1.9 as the
+number of slow cosmic-ray neutrons absorbed per second per square
+centimeter of earth’s surface at that latitude. Using Simpson’s data‘”
+(Fig. 2) for the variation of Q with latitude, and integrating over
+the surface of the earth, we find for the average thermal flux 1.1
+thermal cosmic-ray neutrons per square centimeter per second.
+Finally, multiplying by the ratio of total production to thermal
+neutron population, we obtain 2.6 as the most likely value for Q, the
+average total production of cosmic-ray neutrons per square centi-
+meter of earth’s surface per second. Ladenburg* and Kouts and
+Yuan‘? have calculated the 0 by somewhat different methods and
+ arrived at 2.4. It seems likely that their calculation is more reliable
+than the one above.
+   If the figure 2.4 for the average total production of cosmic-ray
+neutrons per square centimeter of earth’s surface per second, Q, is
+correct, and this intensity has remained constant over the last
+several half-lives of radiocarbon, we can calculate an expected spe-
+cific activity for the carbon in the exchange reservoir of (2.4 X 60)/
+8.3, or 17.3 disintegrations per minute per gram of carbon. This
+     44. C. H. Johnson and H. H. Barschall, Phys. Rev., 80, 819 (1950).
+     45. Science and Engineering of Nuclear Power, 1, 408-11.
+     46. L.C.L. Yuan and R. Ladenburg, Bull. Am. Phys. Soc., 23, No. 2, 21 (1948).
+    47. E. C. Anderson, Ph.D. thesis, University of Chicago (1949); Ann. Rev. Nuc.
+Sci., 2, 63 (1953).
+     48. R. Ladenburg, Phys. Rev., 86, 128 (1952).
+     49, H. J. Kouts and L. C. L. Yuan, Phys. Rev., 86, 128 (1952).
+          WORLD-WIDE          DISTRIBUTION         OF RADIOCARBON                   oil
+
+ is to be compared with the observed mean value (Table 2) of
+ 16.0 + 0.5. Both of these numbers are for the average carbon in
+ the inventory and are very close to the number expected for carbon-
+ ate carbon, which is some 6 per cent higher in its radiocarbon content
+ than biological carbon. The agreement between these two values is
+ gratifying and suggests that no major factors contributing to the
+ situation have been overlooked, although it does seem possible that
+ the agreement may be due in some part to cancellation of errors.
+    The possibility that the amount: of carbon in the exchange reser-
+voir has altered appreciably in the last 10,000 or 20,000 years turns
+ almost entirely on the question as to whether the glacial epoch,
+ which as we will see later appears to reach into this period, could
+ have affected the volume and the mean temperatures of the oceans
+ appreciably. Antevs,°? Daly, and Flint® give 90, 85, and 102
+ meters, respectively, for the lowering of the seas below the present
+ level during the last Ice Age. This is to be compared with the mean
+ depth of 3800 meters, so we may expect a decrease in the volume
+ of the sea by about 5 per cent during this period, the actual magni-
+ tude depending on the extent of the continental shelf in shallow
+ regions in this sea. This effect in itself would lead to an increase in
+ the specific activity of carbon formed during the glacial epoch by
+ about this same percentage. In addition, there is the question of
+ the mean temperature of the oceans and whether this has varied ap-
+preciably. An increase in mean temperature would act to increase
+ the carbon in the reservoir, and a decrease in mean temperature
+would decrease the inventory. Bearing in mind that both of these
+effects will be unimportant unless the altered conditions last for a
+time of the order of magnitude of the mean life of radiocarbon
+ (8033 + 50 years), we find it difficult at this stage to make correction
+for these effects. It does seem possible, however, that the certain
+decrease in volume and the possible slight decrease in temperature
+might raise the specific activity of carbon in the exchange reservoir
+during the glacial maximum by 5 or 10 per cent, causing an error
+   50. Am. Geog. Soc., Res. Ser., No. 17, pp. 74-82 (1928).
+    51. Changing World of the Ice Age (New Haven:       Yale University Press, 1934),
+p. 46.
+    52. Glacial Geology and the Pleistocene Epoch (New York: John Wiley & Sons, 1947),
+p. 435.
+32                        RADIOCARBON          DATING
+
+in the direction of making glacial material appear somewhat too
+young. We can estimate from the decay equation
+                                  T= Ihe-*/",                                 (21)
+in which J is the original specific activity and 7 is the mean life,
+that the error in the age will be given by
+
+                          ical (ALY +
+                                    +(Any,
+                                      (AE                                     (22)
+in which AT is the error in the determination of the specific activity
+of the ancient material and AJ, is the error made in assuming that
+I) has the modern value of 15.3 for organic matter or 16.2 for shell
+and inorganic material. From this we see that a 10 per cent error in
+To would make our glacial ages too young by some 800 years. As
+further information becomes available on the chronology of the
+recent ice ages, it should be possible to make a more accurate correc-
+tion for this effect. It is to be hoped that Professor Urey’s determina-
+tion of prehistoric temperatures by the O18 content of fossil shell®*
+will give quantitative information on the mean temperature of the
+oceans in recent glacial times. With such data one then can calculate
+the expected change in the principal item in the inventory, the inor-
+ganic carbon in the sea. The data available at present suggest that
+the temperature correction will not be large, though it must be
+borne in mind and considered to be a source of uncertainty.
+   It seems quite likely that the amount of living matter on earth
+will not seriously affect the specific activity, for the reason that it
+constitutes such a small fraction of the total inventory in the reser-
+voir and probably has always held this minor position. The situation
+would appear to be similar for the other two items in the inventory,
+the dissolved organic material in the ocean and atmospheric carbon
+dioxide.
+   The question of the constancy of the cosmic radiation intensity
+is much more difficult to answer. One feels that it is not unlikely
+that the intensity has remained constant in the sense we demand;
+    53. H. C. Urey, Science, 108, 489 (1948); J. M. McCrea, J. Chem. Phys., 18, 849
+(1950);S. Epstein, R: Buchsbaum, H. A. Lowenstam, and H. C. Urey, “‘The Carbonate-
+Water Isotopic Temperature Scale,’ Bull. Geol. Soc. Am., 62, 417 (1951); H. C. Urey,
+H. A. Lowenstam, S. Epstein, and C. R. McKinney, “Measurement of Paleotempera-
+tures and Temperatures of the Upper Cretaceous of England, Denmark and the
+Southeastern United States,”’ Bull. Geol. Soc. Am., 62, 399 (1951).
+        WORLD-WIDE      DISTRIBUTION     OF RADIOCARBON             33
+
+namely, variations. in the average intensity over periods commen-
+surate with the lifetime of radiocarbon, since it appears to be a
+phenomenon originating in the cosmos and therefore probably tied
+to a time scale similar to that controlling the intensity of solar
+radiation. However, it is not obvious a priori that this is true, and
+we must admit the possibility of variations having occurred. About
+the only sources of information on this point discovered so far have
+been the agreement between the specific activity of the present-day
+inventory and the observed present rate of production and observa-
+tion that ancient materials of historically known age appear to
+exhibit the radiocarbon content calculated on the assumption that
+their original assay was identical with that of the modern reservoir.
+We have seen how uncertain the experimental information on the
+present rate of production is and are therefore forced to conclude
+that agreement between this rate and the radioactivity of modern
+material, which of course reflects the production rate as of some
+8000 years ago—-since the carbon atoms now found in modern wood,
+for example, are 8000 years old on an average—is not a very firm
+proof of the constancy and intensity of the cosmic radiation. It does,
+however, agree with this postulate. The rather satisfactory agree-
+ment between the predicted and observed radiocarbon contents of
+organic materials of historically known age (I'ig. 1) is somewhat
+more reassuring. Taking the oldest materials with an age of some
+4000 years, we observe their radiocarbon content, which was of
+course due to an average production some 8000 years previous to
+their existence, or some 12,000 years before the present, appears
+within the experimental error to have been the same as at present.
+This of course assumes that the size of the reservoir has not changed
+simultaneously and in a compensating manner. However, for the
+reasons given above we do not think that a significant factor of this
+sort is very likely. Considering the matter empirically, we are ap-
+parently justified in saying that, whatever the reasons, the specific
+activity of living matter has not changed significantly in historic
+times, and the problem resolves itself into consideration of possible
+variations restricted to the prehistoric period encompassed by the
+radiocarbon dating method.
+                             CHAP          tikes bir
+

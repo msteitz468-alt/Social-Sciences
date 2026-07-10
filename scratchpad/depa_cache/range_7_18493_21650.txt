@@ -1,0 +1,3158 @@
+Part IV: Studies of particular taxonomic groups
+      Section i: Plants
+
+
+
+
+      J. ALEXANDER & D. G. COURSEY
+
+      The origins of yam cultivation
+
+
+      Introduction
+
+After the cereal grains, the staple food crops of most of the peoples of the
+world are the so-called “root” crops, which include stems, rhizomes, corms,
+bulbs, tubers and other types of organ as well as true roots. The origins and the
+beginnings of the cultivation of these crops are generally obscure, although in
+most cases, clear botanical evidence exists as to the continent of origin (e.g.
+cassava or manioc is unquestionably of tropical American origin). The yams
+present one of the most difficult and interesting cases for study.
+  Yams are still important food crops, the annual world production being
+estimated at twenty to twenty-five million tons1, and before the introduction
+of American crop plants to the Old World, must have played a relatively more
+important role than they do today. Ethnographic evidence from Africa and
+Asia supports this, for the past importance of yams to many communities is
+shown by the part they play in socio-religious events. A very wide range of
+societies still have yam-based economies; some are comparatively primitive,
+being until recently stone tool-using and organized in small isolated settlements;
+others have developed high civilizations (amongst the highest in Africa) based
+upon population densities of more than five hundred to the square mile.
+  To the study of yam domestication three kinds of evidence, botanical,
+ethnographic and archaeological, are relevant, but each kind is complicated
+by special problems. The botanical by the presence of wild and cultivated
+varieties through almost the whole of the humid and sub-humid tropics; the
+ethnographic by the failure of observers to distinguish between yam species;
+and the archaeological by the inability, at present, of field-workers to recover
+direct evidence of yam cultivation2.
+406   Part IV Plants    ALEXANDER AND COURSEY
+
+
+
+
+      Botany
+The yams, in the true sense of the word, are plants of the natural family
+Dioscoreaceae, in the monocotyledonous order Liliales. By far the largest
+genus of this family is Dioscorea itself, containing some six hundred species in
+all, among which are numbered all the important species of edible yams. Two
+other small genera, however, deserve passing mention: the tropical American
+Rajania and the European Tamus, which contain the Carib Yam, R. cordata
+and the Black Bryony, T. communis respectively. There are also a few other
+minor genera (Avetra, Trichopus and Stenomeris), of no economic import¬
+ance, in the Dioscoreaceae3.
+  Before proceeding, it may be useful to clear up a misconception that exists
+over the use of the word “yam”. Strictly, the word is applied only to members
+of the genus Dioscorea and it is in that sense that it is used here. It is often
+misapplied, however, especially by American writers, to include numerous
+other tropical and sub-tropical root and tuber crops, principally the sweet
+potato (Ipomoea batatas) but also to aroids such as cocoyams or taros
+(Xanthosoma and Colocasia spp.) and arrowroots (Maranta spp.). The
+“Elephant Yam” of India (Amorphophallus campamdatus) is also an aroid and
+not a true yam. The so-called “yam belt” of the southern U.S.A. is actually a
+region where sweet potatoes are extensively grown. In West Africa, a tuber¬
+ous-rooted legume (Sphenostylis stenocarpa) is commonly referred to as the
+“yam bean”, on account of the form of its root, as are also species of Pachy-
+rhizus in Asia and Central America. The word “yam” is derived from the
+West African Mande “niam” or Temne “enyame”, which was adopted as
+“ynhame” in fifteenth-century Portuguese, or “name” in Spanish and spread
+thence into other European languages4.
+  Most species of Dioscorea and all those of importance as food crops develop
+as underground tuber or group of tubers, from which an herbaceous “vine” is
+produced annually, to die away at the end of the growing season. The yam
+tubers are, organographically, derived from the stem. They are natural storage
+organs, which enable the plant to survive during periods of inclement con¬
+ditions—e.g. from one rainy season to the next—and it is these tubers that
+form the edible part of the plant.
+  In all Dioscorea which are normally used as food plants, the tuberous
+system is renewed annually, the old tuber, in the natural state, withering
+away as the vine develops during the growing season, to be replaced by a
+new one formed towards the end of the phase of active growth. In some wild
+species the underground system is perennial, and survives for the whole life
+of the plant, becoming more or less lignified. Some of the Dioscorea, such as
+those of the section Stenophora, are rhizomatous.
+  The stem of the yam plant consists of a twining vine, adapted for climbing
+among bushes, savannah trees or even forest trees. In the smaller species, it
+                                              The origins of yam cultivation      407
+
+
+may reach only two or three metres, but in the stronger-growing species, ten
+metres is not unusual, and even more may be achieved. The male and female
+flowers are borne separately, usually on different plants, and are incon¬
+spicuous : they are, none the less, insect pollinated and not wind pollinated,
+as has been suggested. The fruit, when formed, is a dry capsule, containing
+seeds winged for dispersal by the wind. In many of the cultivated forms,
+centuries of vegetative propagation has so reduced the sexual fertility of the
+plant, that flowering is rare, and fertile seed is hardly ever, if at all, set.
+  When grown as a crop plant, propagation is invariably by means of vegeta¬
+tive “setts”, which consist of small tubers—in the case of those species which
+produce many tubers; from bulbils, when these are formed; or, most usually,
+from small pieces of large tubers.
+  Stakes or ropes tied to trees are normally provided for the vines to twine
+upon, to replace the support provided by the “bush” in the wild state. Such
+staking is necessary in order to maximize yields.
+  Representatives of the genus Dioscorea are to be found in most parts of the
+tropics. A number of species also penetrate into the temperate parts of the
+world, while a few are alpine in habitat. It is only among the tropical and
+sub-tropical species, however, that yams of any value as food crops are
+found. The natural distribution of the Dioscoreaceae in the world is shown in
+Fig. 1.
+  Within the tropics, species of Dioscorea are to be found almost wherever the
+rainfall is sufficient for their growth—about 120 cm. annually—in both Old
+and New Worlds, and in Australia. Various members of the genus are
+adapted to rain forest and to savannah. A considerable proportion of the
+members of the genus provide edible tubers, and some of these occur in most
+parts of the non-arid tropics. Others provide poisons which are widely used
+for hunting and fishing.
+   The evolutionary history of the genus has been discussed fully by Burkill5.
+It is sufficient for the purpose of this paper to note that the ancestors of the
+Dioscorea, having evolved originally in what is now South-east Asia, appear to
+have achieved world-wide distribution as early as the end of the Cretaceous
+era. An alternative theory, based on cytological considerations, suggests an
+evolutionary origin in Central Africa: this, however, is difficult to reconcile
+with morphological taxonomy. Subsequently, evolution followed somewhat
+varying paths in the Old and the New Worlds with the result that botanical
+differences are marked between the species of the two hemispheres. Separa¬
+tion of the Asiatic from the African ancestral forms appears to have taken
+place later, during a period of desiccation in the Miocene era. There are there¬
+fore closer relationships between the species of Asia and those of Africa, and a
+single species occurs wild in both continents. This is D. bulbifera, of the
+section Opsophyton, and there are appreciable differences between the two
+ continental forms: the African form has been separated by some botanists as a
+ different species.
+Fig i The natural distribution of the Dioscoreaceae in the world.
+     The full line encloses the tropical area in which the edible yams occur. Within the extensions
+     enclosed by dashed lines, only atypical species, of no value as food crops, occur (e.g. Tamils, and
+     sections such as Stenophora and Testudinaria).                  __
+                                           The origins of yam cultivation        409
+
+
+  Nearly all the Dioscorea of the Old World, except for a few aberrant species
+which, not being food crops, do not enter the present discussions, have
+chromosome numbers based on multiples of 10, and in a large number of
+species, 2n — 40. The New World species which have been examined to date,
+have all been found to have chromosome numbers based on 9. Some of the
+cultivated species are high polyploids, with chromosome numbers ranging up
+to in = 140. These high chromosome counts have been recorded principally
+in those species which are most highly developed in cultivation, D. alata and
+D. cayenensis (the latter species including D. rotundata, according to the
+taxonomy followed by the author in question). A few cultivated forms appear
+to have abnormal counts, based on multiples of 9, e.g. in = 36 or 45. It
+has been suggested that such high polyploidy in cultivated forms is associated
+with long periods of continuous vegetative propagation6.
+  Of the many species of yam known, only comparatively few are of import¬
+ance as crop plants. These fall naturally into three groups, according to their
+geographical origins.
+
+
+Asiatic Yams
+The Greater Yam (also known as Water Yam
+  or Winged Yam)                                  D. alata
+The Lesser Yam (also known, incorrectly, as
+  the Chinese Yam)                                D. esculenta
+The Chinese Yams                                  D. opposita and D. japonica
+                                                      (both often known by the
+                                                      invalid taxon D. batatas)
+The Aerial or Potato Yam                         D. bulbifera
+Other Asiatic species utilized to some extent
+  are:                                           D. hispida
+                                                 D. pentaphylla
+                                                 D. nummularia
+
+
+African Yams
+The White, or White Guinea, Yam                  D. rotundata
+The Yellow, or Yellow Guinea, Yam                D. cayenensis
+The Cluster or Bitter Yam                        D. dumetorum
+The Aerial or Potato Yam                         D.     bulbifera     (the   African
+                                                      form of this species has
+                                                      been separated by some as
+                                                      D. latifolia)
+African species of minor use are:                D. preussii
+                                                 D. praehensilis
+                                                 D. sansibarensis
+                                                 D. colocasiifolia
+4io     Part IV Plants    ALEXANDER AND COURSEY
+
+
+American Yams
+The Cush-cush, Yampi or Mapuey                      D. trifida
+Other American species, cultivated to some
+  extent, and more in times before the intro¬
+  duction of Asiatic and African species,
+  include:                                          D. convolvidacea
+                                                    Rajania cordata
+
+
+  The most widely grown species are the Asiatic D. alata and the African
+D. rotundata: these, together with D. cayenensis, D. nummularia, D. opposita
+and D. japonica all belong to the section Enantiophyllum of the genus
+Dioscorea. One of the characteristics of the yams of this section is the forma¬
+tion of a single tuber—rarely two or three, and extremely seldom more—in
+each season. The tubers often weigh as much as five to ten lei log rams each,
+and in exceptional cases may weigh more than fifty kilograms, and be two to
+three metres in length. These are the most typical yams: together, the six
+species mentioned probably account for more than 90% of all the yams that
+are actually grown for food, in the world. The minor African species, D.
+praehensilis, D. preussii and D. colocasiifolia also belong to this section: all its
+members have vines which twine to the right, whereas the other species of
+yam mentioned twine to the left.
+  The Asiatic D. hispida and the African D. dumetorum belong to the section
+Lasiophyton, and form a cluster of medium-sized tubers, more or less fused
+together. Their vines twine to the left, and bear compound leaves, usually
+with three leaflets (most Dioscorea leaves are simple). These two species are
+so similar that they have been classified as sub-species, but are now regarded
+as distinct. Wild forms of both species are extremely toxic, owing to the
+presence of alkaloids, but can be detoxicated by prolonged soaking in water.
+ Many less toxic or non-toxic cultivars exist. To this section also belongs
+ D. pentaphylla, which is generally similar.
+      D. bulbifera (including D. latifolia). This yam, which belongs to the section
+ Opsophyton, differs from most others in that it is the aerial bulbils, which are
+ freely borne in the leaf axils, which provide the edible product: the under¬
+ ground tuber is either small or absent. Many wild forms are toxic, though
+ others produce bulbils so succulent that they can be eaten raw. Although
+ widespread in cultivation throughout the tropics, it is nowhere a major food
+ crop, to the same extent as some other species.
+      The Lesser Yam, D. esculenta, is the only member of the section Combilium.
+ Unlike the species discussed so far, it forms a large number of individually
+ small tubers, each usually weighing only a few hundred grams: the under¬
+ ground system of a newly-lifted plant superficially resembles that of the
+ potato. The whole plant, although of climbing habit, is of smaller stature than
+ the Enantiophyllum yams. It is seldom cultivated to such a large extent,
+ although known and appreciated in most tropical countries.
+                                           The origins of yam cultivation   411
+
+
+  D. sansibarensis, of the section Macroura, hardly ranks as a cultivated plant,
+although somewhat improved forms are known: it freely produces small
+bulbils, as well as tubers which, in wild forms contain an alkaloid and are
+highly toxic. It is a very large-growing species, believed, in many parts of
+Africa, to possess magical properties.
+  The indigenous American yams are today of minor economic importance,
+having been largely displaced in cultivation by Asiatic and African species.
+The most widely grown, D. trifida (section Macrogynodium) produces a
+group of smaller tubers, rather after the manner of D. escidenta. The related
+genus Rajania, which is restricted to tropical America, forms long, single
+tubers, not dissimilar to those of the Enantiophylla.
+
+
+
+      Ethnography
+
+The ethnographic evidence for the use of yams may now be considered.
+  Wild yams are harvested by hunter/gatherers and domesticated yams are
+cultivated today in Africa, Asia and South America. No comparative study of
+their social/religious customs and methods of cultivation seems to have been
+published but the following generalizations can be made:
+  In South-east Asia wild yams are known and prized by hunter /gatherers, in
+Ceylon, the Andaman Islands, Malaya, the Pacific Islands and Australia. In
+some areas slices of the tuber are even reburied for propagation. The toxins
+are removed by pounding, shredding and soaking7 and are sometimes used in
+fishing and hunting.
+   Cultivated yams are grown from India to Fiji and from China to New
+Guinea. They are major food crops in parts of Indonesia, New Guinea and
+the islands of Oceania. The general technique after clearing and burning is to
+fence a plot and then to plant tuber-fragments in mulched mounds. The work
+is hard, continuous (both men and women taking part) and extremely skilful,
+many species and cultivars being used to suit varying soils and climatic con¬
+ditions. Digging sticks and hoes are the commonest tools used, but communi¬
+ties are small and some were purely stone-using at the coming of Europeans8.
+Cooking is usually by pounding or roasting. Religious ritual and belief are
+often linked with the yam agricultural cycle and yams are much used in
+ceremonies.
+  Literary evidence shows yams to have been known in India in the sixth
+century a.d. and in China in the second century a.d.
+  In South America wild yams are eaten by hunter/gatherers in Eastern
+Brazil and Venezuela. Shredding and soaking are employed to remove the
+toxins9.
+  Cultivated yams are widely grown as a secondary crop in Brazil and
+Venezuela but nowhere are they a major crop10. After clearing and burning
+the tuber-fragments are planted in low mulched mounds and regularly tended.
+4i2   Part IV Plants     Alexander and coursey
+
+
+They are interplanted with other crops and yields are low and communities
+are small (o-6 per square mile). Only stone axes and hoes were in use prior
+to European contact. Cooking processes include grating and soaking11. Yams
+have no special religious connections, as far as is known, in America.
+   In Africa wild yams are known and searched for by hunter/gatherers in the
+rain-forests12. They are also used in time of famine by cultivators at the fringes
+of the forest13 and in the savannah. The toxins are removed by soaking and are
+sometimes used in hunting.
+  Cultivated yams are grown from Guinea to Kenya and from Angola to
+Uganda, but their importance varies greatly. Only in West Africa from the
+Ivory Coast to the Cameroons are they at present a major food crop. There
+have been suggestions that in Uganda and the Congo they were once much
+more widely grown14.
+ After clearing and burning, tuber-cuttings are planted in mounds or
+ridges. These are mulched and the growing vines carried by living trees or by
+poles. Population densities of up to 500 per square mile are supported15.
+Hoes and rakes are the commonest tools used. Yams are usually interplanted
+with other crops, great skill being shown in the choice of soils and species. The
+apportioning of work between men and women varies greatly from region to
+region16. Iron tools were commonly in use at the coming of Europeans but
+some groups were still stone-using in the nineteenth century            A.D.,   and
+memories of a stone-using period were preserved by others17. Cooking is
+usually by pounding and mashing. Yams are used extensively in religious
+ceremonies and some varieties are credited with magical properties. Events in
+the yam agricultural cycle are widely celebrated18.
+
+
+
+      Archaeology
+
+It is apparent from this evidence that both wild and cultivated yams were
+being utilized for food in most parts of the tropical world before historic
+times and that only archaeology can solve the problems of their domestication.
+The archaeological evidence is best considered separately in the three great
+regions into which the botanical evidence divides (Fig. 2).
+
+      Area I: South-east Asia
+
+
+This region is the home of many species of cultivated yams. The principal
+ones are D. alata, D. esculenta, D. nummularia, D. bulbifera, D. hispida and
+D. pentaphylla, the first two named being the most widely grown. Many
+other species are also cultivated but to a limited extent and in restricted areas.
+The relative importance of the species vary greatly from one district to
+another, although D. alata usually predominates, and throughout the area the
+relative importance of yams to other crops also varies. Most peoples in the
+Fig 2 The principal regions of yam cultivation.
+414    Part IV Plants     Alexander and coursey
+
+
+area have economies based in rice, and everywhere other “root” crops,
+notably the aroids and sweet potato, compete extensively with the yams.
+
+
+i S.E. Asian mainland.      D. alata. This species has never been found growing
+wild, except in districts where it may have escaped from cultivation, but there
+is nevertheless no doubt as to its Asiatic origin. The two wild species, D.
+hamiltonii and D. persimilis, which are extremely close to it in botanical
+characteristics are at home to the east and west of the broken country of the
+upper reaches of the Irrawaddy, Salween, Mekong and Red Rivers (Fig. 3). It
+seems likely that it was here that the selection or production of a plant derived
+from the two wild species mentioned became D. alata. It is thus a true
+
+
+
+
+Fig 3 The origins of Dioscorea alata.
+      The areas marked h and p indicate the natural distributions of D. hamiltonii
+      and D. persimilis, respectively. The cultigen D. alata is believed to have
+      originated between the areas, near the point marked X'. A secondary centre
+      of diversity of this species also exists at X, in Celebes (after Burkill, I. H.
+      G924)- " list of oriental vernacular names of the genus Dioscorea, Gdns’ Bull.,
+      Straits Settl 3 (4-6), pp. 121-244; and Burkill, I. H. (1951). The rise and
+      decline of the Greater Yam in the service of man, Advmt. Sci., Bond., 7 (28),
+      pp. 443-8-)                                                              ' V ;
+                                             The origins of yam cultivation   415
+
+
+cultigen, or product of cultivation. A more southerly origin, in the Malay
+peninsula itself, is unlikely as it is an area with rainfall spread almost evenly
+throughout the year and the wild yams of that area, having no severe dry
+season to survive, do not possess large, esculent tubers like those of D.
+hamiltonii and D. persimilis.
+  D. esculenta has no closely related wild species, so its exact origin is some¬
+what obscure. Botanically it is certainly Asiatic, although not Chinese in
+origin, and it would appear likely that it was first taken into cultivation in the
+same area as D. alata, while its subsequent spread also followed similar paths.
+  Much closer to the wild forms are D. pentaphylla and D. hispida. D.
+pentaphylla is a highly variable species as far as the quality of its tubers is
+concerned: some are pleasant and harmless to eat, others nauseous and
+highly toxic. It has been suggested that this wide variation may well have
+provided a stimulus to selection by the more primitive cultivators, and this
+species is currently at the early stages of ennoblement19.
+  Most forms of D. hispida are highly toxic, owing to the presence of the
+alkaloid, dioscorine, in the tubers, and are used as food only in times of
+famine, after a lengthy processing to remove the alkaloid, involving alternate
+soaking and drying of the shredded tubers. For this purpose, tubers are
+collected mainly from wild plants, although it is possible that some ennoble¬
+ment of the less toxic forms has taken place.
+  The archaeological evidence from this area is still very scanty but a number
+of relevant generalizations may be made.
+  In Southern and Eastern Asia in the third and second millennia b.c., only
+two distinctive complexes of cultural equipment have been recognized. Both
+are first recognizable in the warm-temperate climatic zones; one in Central/
+North China, the other in West Pakistan/North-west India; and both are
+based on the cultivation of cereals. In the second millennium b.c. cultivated
+wheat, millets and rice are present in both zones20. The ground stone tools and
+pottery which are the commonest durable evidence in both complexes are
+quite distinctive. In the region between them, that in which the domestica¬
+tion of D. alata and D. esculenta probably took place, artifacts of both tra¬
+ditions have been found and recent absolute dates indicate that some of them
+belong to the late third and second millennia b.c.21 Excavation in Eastern
+India has recently reinforced existing evidence of a movement of stone tool-
+types, and probably pottery-types, westwards from the Chinese/Indo-Chinese
+province at this time22. Whilst there is no indication of what, if anything,
+these tool- and pot-makers were growing, the general nature of the equip¬
+ment is that associated with agriculture elsewhere in India and China and
+provides a context in which the domestication of local tubers might have
+taken place. There is so far no earlier evidence from this entire region which
+suggests agriculturalists of any kind.
+  Further south in Malaya the present evidence from the second millennium
+b.c. suggests connections with cultures further north in Indo-China23. There
+416   Part IV Plants    Alexander and coursey
+
+
+are no distinctive local cultures which might be associated with agriculture
+nor is there any evidence suggesting any early or indigenous domestication of
+yams. In this the archaeological evidence supports the botanical evidence24.
+
+
+2 The Philippine, Malaysian and Indonesian islands.        Here D. alata and D.
+esculenta exist in an enormous variety of cultivars and have longer and more
+deeply buried tubers than the local varieties. The latter are sufficiently
+numerous for a secondary centre of domestication in Celebes and the neigh¬
+bouring islands to have been suggested25. The following deserve special
+comment.
+  D. nummularia is used as a food plant mainly in Indonesia and some of the
+Pacific islands where it is of secondary importance. Nowhere does it seem to
+be greatly ennobled, nor does it exist in any great variety of cultivars; although
+it has considerable ritual significance in some areas26.
+  D. pentaphylla is occasionally met with as a cultivated plant in many parts
+of India, the Malay peninsula, the Philippines, Indonesia and Fiji. It is no¬
+where an important crop plant and would appear to have been brought rather
+fortuitously into cultivation at a number of widely separated places.
+  D. bulbifera. The practices adopted for the cultivation of this species are
+radically different from those used for other yams. The edible portion of the
+plant is the aerial bulbil, which may be “harvested” from the vines of the
+growing plant, after the manner of a fruit. Such an easily available food must
+have attracted the attention of man at a very early date, and as might be
+expected, the use of this plant as food occurs in many districts. As there are
+no very great numbers of cultivars concentrated in any one part of Asia or
+Africa, it is not unreasonable to assume that this species was brought into
+cultivation in many places, independently.
+  The archaeological evidence from this region shows stone and pottery
+artefacts of the two mainland cultural traditions; the Chinese/Indo-Chinese
+type being widespread through the coastal islands and the Indian/Pakistani
+type through Indonesia27. There is at present no evidence to suggest an
+independent development of agriculture earlier than the mainland28. This
+appears to support the botanical evidence that the original domestication of
+the main yam cultivars should not be looked for here.
+
+
+3 Central and North China, most of Japan, the Ryukyu Islands and parts of
+Korea. This is not today a very important yam-growing region, but deserves
+mention as substantial quantities of the two very closely related species D.
+opposita and D. japonica are grown here. Only a small number of cultivars are
+known and they are not cultivated to a significant extent anywhere else in the
+world. They are to be regarded as warm-temperate, rather than as tropical,
+crops, in spite of their close botanical relationship to many of the major
+tropical food yams. They are members of the section Enantiophyllum, and so
+normally produce only a single, large tuber, which in most forms drives deeply
+                                            The origins of yam cultivation   417
+
+
+into the soil, making harvesting a laborious process. They are well adapted to
+the area in which they grow, and where, without doubt they originated. They
+have not, within the historical period at least, been crops of major importance.
+In modern times they have been taken in cultivation to the Hawaiian Islands,
+America and even, during the time of the mid-nineteenth century potato
+famines, to Europe: in none of these areas, however, have these yams ever
+become much more than horticultural curiosities.
+  There is at present no archaeological evidence to suggest when they were
+brought into cultivation. Literary evidence attributes their cultivation in
+China to the mythical period before c. 1500 B.c.
+
+
+4 The Pacific Islands east of Indonesia and Australasia.   In this region yams
+of S.E. Asian types (notably D. alata, D. pentaphylla, D. bulbifera and D.
+nummularia) were widespread at the time of the first European contacts. They
+are not indigenous to the islands and botanical, ethnographic and archae¬
+ological evidence all support a movement of people and cultivated plants
+eastwards in the first and second millennia a.d.29 There is therefore no reason
+to consider this region further, in connection with agricultural origins.
+
+
+5 The westward spread of S.E. Asian yam cultivars.     Some cultivars (notably
+D. alata and D. esculenta) are found in India, Ceylon, Madagascar, the coast
+of East Africa, Central and West Africa, the Caribbean islands and in Central
+and South America. Since Madagascar, Africa and South America have
+indigenous wild and cultivated yams of their own, the problems of the
+origins of cultivation are different from those of the eastern spread and
+primarily relevant to the problems of local cultivars there. They may be
+considered in three regions:
+
+      (a) The coastlands of the Indian Ocean.   Elere the only certain evidence
+      is literary, and it is established that cultivated yams were known in
+      India by 600 A.d. (probably earlier) and in Madagascar well before
+      1450 a.d.30 There seems no doubt that the references are primarily to
+      D. alata.
+        The archaeological evidence for this spread is twofold: firstly from
+      the third millennium b.c. onwards there is considerable evidence for
+      long distance trade between the highly sophisticated societies of W.
+      Pakistan, N.W. India, the Persian Gulf and Arabia, but it is only in the
+      first millennium b.c. that Ceylon, Indonesia and the S.E. Asian main¬
+      land can be shown to take part in it. An earlier participation by Malays
+      and Indonesians seems unlikely on present evidence for no highly
+      developed societies of the kind likely to be interested in trans-Indian
+      Ocean trade have been recognized at this period. Secondly from 300 b.c.
+      onwards historical evidence makes such contacts more likely and from
+      c. 150 b.c. onwards direct sailing across the ocean is well attested.
+418   Part IV Plants    ALEXANDER AND COURSEY
+
+
+      There is considerable archaeological evidence that the manufactures of
+      the Chinese and Roman Empires were being exchanged by this route in
+      the first two centuries a.d.31 Since yams were used from at least this time
+      onwards by Malay sailors, this trade provides a context for the arrival of
+      yams, and perhaps bananas (another S.E. Asian food favoured by
+      sailors), on the east coast of Africa. These voyages would have been
+      contemporary with the great Pacific voyages to the east32.
+        On quite different evidence, linguistic and racial, a date between 300
+      b.c. and 400 a.d. is generally accepted for the settlement of Madagascar
+      by Malaysian people. These might well have brought D. alata to the
+      island.
+
+      (b) The spread into Central and West Africa.     When records began to
+      distinguish the yam species growing here (in the last century) D.
+      alata, alone of the S.E. Asian cultivars, was to be found in a few areas of
+      the Congo Basin and in the “yam zone” of West Africa, and in many
+      areas was distinguished linguistically from “proper yams” i.e. the local
+      species33. Two other S.E. Asian cultivated plants, bananas and Colocasia
+      were found in the same regions34.
+        There seem to be two possible explanations for this: D. alata may
+      have spread by land from the Kenya-Tanzanian coast at some time
+      after 400 b.c.; or it may have been carried by sea round the Cape of
+      Good Hope. If the latter, then it is likely to have arrived after 1498,
+      when Portuguese are known to have been using it for sea-stores, rather
+      than have been carried by Malay/Madagascans for whom there is no
+      evidence of sailing in the Atlantic. If the former, then the African
+      archaeological evidence for the early first millennium a.d. is important.
+      Whilst there is general evidence of long distance trade eastwards from
+      Katanga and Rhodesia in this miUennium35, and of folk movements out
+      of the Congo Basin to the east and south, there is no evidence of any
+      trade or movements into West Africa, especially across the Cameroon
+      Mountains, which to this day form a major ethnic boundary. Indeed
+      such evidence as there is suggests rather a southward movement from
+      that region31'. If D. alata reached West Africa at this time there is no
+      archaeological context at present in which to place it; it must also have
+      been adopted very readily and local wild forms quickly brought into
+      cultivation.
+
+
+      (c) South America and the Caribbean islands.        Cultivars of South¬
+      east Asian species (D. alata and D. esculenta) reached this region, to¬
+      gether with some African ones, in and after the sixteenth century a.d.
+      There is literary evidence that they were deliberately imported by
+      Spaniards and Portuguese.
+                                              The origins of yam cultivation    419
+
+
+
+
+      Area II: West and Central Africa
+
+
+This area is the home of a large group of cultivars of which D. rotundata and
+D. cayenensis are principal37, and D. dumetorum, D. praehensilis, D. colocasiifolia
+and D. preussii lesser, varieties.
+  The limits of the main zone, growing 90% of all the yams in Africa, are
+remarkably sharp (Fig. 4). The northern and southern are climatic, represen-
+
+
+
+
+Fig 4 The West African yam zone.
+      The full line encloses the area where yams are, traditionally, the staple food
+      crop (after Miege, J. (1954). Les cultures vivrieres en Afrique occidentale,
+      Cah. d’Outre-Mer, 7 (25), pp. 25-50; Coursey, D. G. (1965). The role of yams
+      in West African food economies, Wld Crops, 17 (2), pp. 74-82; and Coursey,
+      D. G. (1967). Yams. London, pp. 28-67.)
+
+
+ting the boundary of minimum rainfall in the north, and the coastal swamps
+and lagoons in the south. The western boundary coincides closely with the
+Bandama River of the central Cote d’Ivoire, and the eastern to the Cameroon
+Mountain chain38.
+ In the remainder of Central and West Africa, yams are only cultivated to a
+very limited degree, and they are only major crops in very restricted localities.
+The same species are grown as in the main zone, but D. rotundata is less
+important and the minor African yams more so.
+  D. rotundata and D. cayenensis are best considered together, as they are
+extremely close botanically, and the techniques of cultivation are virtually
+identical. Most of the French botanists who have worked with the genus
+420   Part IV Plants     Alexander and coursey
+
+Dioscorea regard the former as being merely a subspecies of the latter39: the
+term D. cayenensis in most French writing therefore includes yams that
+British authors would refer to as D. rotundata. A detailed discussion of the
+taxonomy would be out of place here, but it may be noted that D. cayenensis
+sensu strictu is a forest species, adapted to a short dry season, and a correspond¬
+ingly brief period of dormancy: the forms that may be referred to as D.
+rotundata have a longer dormant period, adapted to the longer, fiercer dry
+season of the savannah: they therefore tend to build up larger reserves in their
+tubers, and are thus better suited for use as crop plants (an incidental advan¬
+tage is that the tubers become more deeply dormant and therefore store
+better). However, there are many intermediate forms, which have been fixed
+as apomictic clones, by continuous vegetative propagation in cultivation,
+which may represent hybrids, or merely variations within the species. Yams
+essentially identical in their botanical characteristics with cultivated D.
+cayenensis are known in the wild state through most of the forest zone of West
+Africa. Like D. alata, D. rotundata is unknown in the wild state, and is
+apparently a cultigen. It is possible that such wild species as D. abyssinica
+and D. praehensilis may have played a part in its formation. D. rotundata is by
+far the most important, and widely cultivated, species in West Africa.
+   D. bulbifera. This species, which occurs wild throughout most of tropical
+Africa, is cultivated to a limited extent in many areas. Its use doubtless arose
+in much the same way as it did in Asia and Oceania, independently in many
+districts. The African forms of the species (sometimes separated as D.
+latifolia) are generally inferior to Asiatic ones, and appear to be even less
+ennobled than the latter. The Asiatic forms are recognized by some African
+peoples as having been introduced by Europeans.
+   D. dumetorum. The wild and toxic species is so similar to the Asiatic D.
+hispida that it was formerly regarded as a sub-species: it is now known to be
+distinct. In parts of West Africa it has been ennobled in cultivation to a
+considerable degree, and virtually non-toxic forms are quite extensively
+grown, especially in the former Eastern Provinces of Nigeria. The process of
+acculturalization of this species is still continuing: in 1901 Chevalier observed
+plants of this species being collected from the wild state in Ubangui-Shari,
+and those which were not immediately required for food being planted
+around village compounds.
+   Like D. esculenta the properties of the starch of this yam render it un¬
+suitable for the making of the traditional West African dish, “fufu”: it is,
+nevertheless much appreciated for other culinary uses.
+   It is only in recent years that botanical research has shown this complex of
+cultivars to be certainly African and in so doing has made much of the
+previous theorizing invalid40.
+   The ethnographic and archaeological evidence complement each other
+particularly well in this region, for the ethnography shows that at the coming
+of the Europeans there was no evidence of staple food crops other than yams
+                                             The origins of yam cultivation    421
+
+in the “yam zone” of West Africa. It is likely therefore that agriculture began
+here only after local yams had been ennobled or foreign ones introduced. The
+archaeological evidence is interpreted below as suggesting the former:
+  In the savannahs immediately south of the Sahara, cereal-based agriculture
+is attested in the third millennium b.c. and in the eastern and southern
+savannahs early in the first millennium A.D. (but might have been there well
+before this)41. This may mean that “domestication” as a concept was available
+to forest dwellers in West Africa as early as the third millennium b.c. This is
+supported by finds of savannah-type artifacts far south into the forest
+margins at that period42.
+  In the third and second millennia b.c. therefore, the contemporary situa¬
+tions in West Africa and in the interior of S.E. Asia have more parallels than
+was previously suspected. In both there was the possibility of contact with
+well established cereal growing communities and there were hunter/gatherers
+who in all probability then as now, knew and prized wild tubers, including
+yams, which were suitable for cultivation43.
+  A similar parallelism may be noted in the archaeological evidence, for on
+the forest margins in Ghana and Nigeria as in S.E. Asia, complexes of ground
+stone tools and pottery related to cereal agriculturalists’ types, are found in the
+second and first millennia b.c.44 Whilst these cannot yet be associated directly
+with agriculture, similar artifacts in the African savannahs certainly were in
+the previous millennium. It may be, as Davies suggests45, that yams were
+already being cultivated in Africa.
+   If this were so then the later events in the area fall into place. At the coming
+of the Europeans in the fifteenth century a.d. dense populations organized
+into urbanized societies existed in southern Nigeria and around the mouth
+of the Congo. The traditions of these societies stretch back to twelfth century
+a.d. apparently based upon the yam cultivation46 which is still, as it was in the
+seventeenth century, so interwoven with their religious and social life. The
+complexity of the cultivation and the variety of cultivars of the indigenous
+species might well mean that three millennia of development, rather than the
+single one since the earliest possible introduction of D. alata, are represented.
+That other urbanized societies developed in West Africa during and possibly
+before the first millennium a.d. is well documented in ancient Ghana.
+  It would seem that a good case exists for regarding the domestication of
+yams in West Africa as being contemporary with and quite separate from that
+in South-east Asia.
+
+     Area III: South America and the Caribbean islands
+
+
+The yams most cultivated in America today are Asiatic and African intro¬
+ductions of the sixteenth and seventeenth centuries; D. alata, D. cayenensis,
+D. rotundata, D. esculenta and D. bulbifera are all grown, especially in the
+West Indies. The first named is generally the most popular, but in Jamaica
+422   Part IV Plants   ALEXANDER AND COURSEY
+
+
+and elsewhere in the Western Caribbean the African species are more
+favoured.
+  Although there are more species of Dioscorea indigenous to the New World
+than to the Old, man in the Western Hemisphere has paid little attention to
+them as potential crop plants, probably because of the availability of more
+easily cultivated “root” crops such as manioc or cassava (Manihot esculenta),
+tanias (Xanthosoma spp.), sweet potato (Ipomoea batatas) and in the cooler
+areas, Solatium spp. The one species that was fairly widely cultivated and to
+some extent ennobled was D. trifida. This species appears to have a centre o
+origin on the borders of Guyana and Brazil, where many forms are known,
+and to have spread in cultivation through Trinidad northward along the
+island chain, becoming progressively more highly selected, until in Jamaica
+only one or two forms are known47. This pattern of distribution suggests an
+original domestication and dispersal by the Arawak, but no very definite
+information appears to be available.
+  In one of the two surviving Carib communities, in Dominica, species of
+Rajania (a small genus of the Dioscoreaceae, whose members are of similar
+anatomy to the yams) are still grown to a limited extent. It is not highly
+ennobled, and although common in the wild state, is not now cultivated else¬
+where in the Caribbean48.
+  A form of “protoculture” of D. convolvulacea, which is encouraged in
+orchards and cocoa plantations, using the trees as supports, has been men¬
+tioned in Costa Rica49.
+  American yams have not been taken in cultivation to the Old World to any
+significant extent, in marked contrast to the westward movement of both
+Asiatic and African cultivars. There is at present no indication of how long
+these have been in cultivation or whether the “Aje” referred to by Columbus
+was D. trifida, another indigenous Dioscorea, or possibly some other crop50.
+  It is certain, however, that root crops, in particular Manihot esculenta were
+widely cultivated in pre-Hispamc times and that yams, which today play a
+subsidiary role within that agricultural system, may well have played it then,
+rhis is made more likely by the knowledge and use made of wild tubers,
+including yams, by local hunter/gatherers. Since suggestions that roo.
+cultivation might have been practised in the third millennium b.C. in this
+region01 yams, as a minor crop, may well have a respectable antiquity here
+and domestication may have been generally contemporary with that in the
+other two areas. The parallelism between this and the African and Asian
+regions also includes contiguity with an area which, by the third miUennium
+B.C-, already had established an agricultural pattern (in this case Meso-
+American), and the presence of hunter/gatherers appreciative of wild tubers
+including yams.
+  It may be therefore that there was an independent centre of yam domestica¬
+tion in the New World not far removed in time from those of the Old World.
+                                             The origins of yam cultivation    423
+
+
+
+
+      Conclusions
+
+On the basis of the evidence presently available, there is no reason to suppose
+that the introduction of yams into cultivation occurred initially only in a single
+area. Instead, the prerequisites of domestication are clearly seen to have
+existed in three widely separated regions—South-east Asia; West Africa and
+tropical America—and different species of yam were actually brought into
+cultivation, and subsequentiy ennobled, in the three areas. Subsequent
+movement of the cultivated forms has taken place, in historic times, the
+Asian species being taken in cultivation to both Africa and America, and the
+African species to America: this has tended to obscure the original pattern.
+  The conditions which favoured the domestication appear to have been, in
+all three regions, cultural interaction between people possessed of primitive
+grain-based agricultural systems with others, still in the hunter/gatherer stage,
+who were utilizing wild yams. These contacts seem to have occurred approxi¬
+mately simultaneously, in all three regions, during the third millennium b.c.52
+
+
+
+      Notes
+      1 Coursey, D. G. (1965). The role of yams in West African food economies,
+         Wld. Crops, 17 (2), pp. 74-82.
+      2 Alexander, J. (In press). The domestication of yams, in Brothwell, D. R.
+        and Higgs, E. S. (eds.) Science and Archaeology. 2nd ed. London.
+      3 Coursey, D. G. (1967). Yams. London, pp. 28-67.
+      4 Burkill, I. H. (1938). The contact of the Portuguese with African food
+        plants which gave words such as “Yam” to European languages, Proc.
+        Linn. Soc., 150 (2), pp. 84-95; Corominas, J. (1954-7). Diccionario Critico
+        Etimologico de la Langua Castellana. Madrid; Coursey, D. G. (1967).
+        op. cit. pp. 5-27.
+      5 Burkill, I. H. (i960). The Organography and the Evolution of the
+        Dioscoreaceae, J. Linn. Soc. (Bot.), 56 (367), pp. 319-412.
+      6 Sharma, A. K. and De, D. N. (1956). Polyploidy in Dioscorea, Genetica,
+        28 (1-2), pp. 112-20; Martin, F. W. and Ortiz, S. (1963). Chromosome
+        Numbers and Behaviour in some Species of Dioscorea, Cytologia, 28 (1),
+        pp. 96-101; Martin, F. W. and Ortiz, S. (1966). New Chromosome
+        Numbers in some Dioscorea Species, Cytologia, 31 (1), pp. 105-7.
+      7 Forde, C. D. (1964). Habitat, Economy and. Society. London.
+      8 Barrau, J. (1956). Les ignames alimentaires des lies du Pacifique sud,
+        J. Agric. trop. Bot. appl, 3 (7-8), pp. 385-401; Forde, C. D. (1964). ibid.
+      9 Sauer, C. O. (1952). Agricultural origins and dispersals, Amer. Geog.
+        Soc., Bowman Memorial Lectures, Series 2.
+     10 Stewart, L. and Farron, M. (1959)- The Native Peoples of South America.
+        New York.
+     11 Metraux, A. (1948). in Steward, J. H. (ed.) Handbook of South American
+        Indians, III. Bureau of American Ethnology, 143; Forde, C. D. (1964). ibid.
+     12 Burkill, I. H. (1939). Notes on the genus Dioscorea in the Belgian Congo,
+        Bull. Jard. bot. Etat., Brux., 15 (4), pp. 345~92-
+     13 Okiy, G. E. O. (i960). Indigenous Nigerian food plants, J. W. Afr. Set.
+         Sci.Assoc., 6 (2), pp. 117-21; Corkill, N. L. (1948). The poisonous wild
+           *   *
+15—DOPAA
+424   Part IV Plants      Alexander and coursey
+
+
+         cluster yam, Dioscorea dumetorum Pax., as a famine food in the Anglo-
+         Egyptian Sudan, Ann. trop. Med. Parasit., 42 (3-4), pp. 278-87.
+      14 McMaster, D. (i960). A subsistence crop geography of Uganda, Ph.D.
+          Thesis, Univ. of London', Burkhill, I. H. (1939)- ibid.
+      15 Gourou, P. (1966). The Tropical World. 4th ed. London.
+      16 Irvine, F. R. (1963). A Textbook of West African Agriculture. London:
+         Torto, J. O. (1956). The cultivation of yams in the Gold Coast, New Gold
+         Cst. Fmr., 1 (1), pp. 6-8.
+      17 Clark, J. D. (1963). Africa south of the Sahara, in Braidwood, R. J. and
+         Willey, G. R. (eds.) Courses toward Urban Life. Edinburgh.
+      18 Coursey, D. G. (1967). op. cit. pp. 197-203. A more detailed study of this
+         subject is currently under preparation.
+      19 Burkill, I. H. (1924). A list of oriental vernacular names of the genus
+         Dioscorea, Gdns’ Bull., Straits Settl., 3 (4-6). pp. 121-244; Burkill, I. H.
+         (1951). The rise and decline of the Greater Yam in the service of man,
+         Advmt. sci., Lond., 7 (28), pp. 443-8.
+      20 Watson, W., this volume, pp. 397-402; Allchin, F. R., this volume,
+         PP-323-9-
+      21 Sharma, T. (1966). Neolithic cultures of Assam, Ph.D. Thesis, Univ. of
+         London; Sieveking, G. (1954-5). Excavations at Gua Cha Kalantan,
+         Fed. Mus.J. {Malaya). 1-2, p. 75; Clark, J. D. (1964). World Prehistory.
+         Cambridge; Solheim, W. G. (1968). Early Bronze in North-eastern
+         Thailand, Current Anthropology, 9 (1), pp. 59-62.
+      22 Sharma, T. (1966). ibid. See especially under Daojali Hading.
+      23 Tweedle, M. (1953). The stone age in Malaya,^ R. Asiat. Soc., 26 (2).
+      24 Sauer’s theory should, therefore, be abandoned.
+      25 Burkill, I. H. (1924). ibid.; Burkill, I. H. (1951). ibid.
+      26 Barrau, J. (1965). Histoire et prehistoire horticole de l’Oceanie tropicale,
+         J. Soc. Oceanistes, 21 (21), pp. 55-78.
+      27 van Heekeren, J. (1957). F/ze Stone Age in Indonesia. The Hague.
+      28 With the possible exception of Taiwan (see Solheim, W. G. (1968). ibid.).
+         The evidence is, however, too uncertain to be acceptable at present.
+      29 Barrau, J. (1965). ibid.
+      30 Burkill, I. H. (1924). ibid.; Burkill, I. H. (1951). ibid.; Wrigley, C. (i960).
+          Speculations on the economic prehistory of Africa, J. Afr. Hist., 1 (2),
+         pp. 189-203; Jumelle, H. and Perrier de la Bathie, H. (1910). Fragments
+         biologiques de la flore de Madagascar, Ann. Mus. colon., Marseilles (2'
+          Ser.), 8, pp. 1-96; Jumelle, H. (1922). Ignames sauvages et ignames
+         cultivees a Madagascar, Rev. Bot. appl. Agric. trop., 2 (9), pp. 193-7.
+      31 Wheeler, R. E. M. (1958). Rome beyond the Imperial frontiers. London.
+      32 Barrau, J. (1963). Plants and migrations of Pacific peoples. 10th Pacific
+          Science Congress. Hawaii.
+      33 The other important Asiatic species, D. esculenta, was introduced only
+         within the Colonial period in Africa. The Asiatic form of D. bulbifera is
+         recognized by some African people, e.g. the Floup of Portuguese Guinea,
+         as having been “brought by white men”; see Coursey, D. G. and Alex¬
+         ander, J. (1968). African agricultural patterns and the sickle cell, Science,
+          160 (3835), pp. 1474-5.
+      34 Simmonds, N. W. (1962). The Evolution of the Banana. London; The
+         other crop, Colocasia, may, as suggested by Burkill, I. H. (1938). ibid.,
+         have come down the Nile valley, but there is no archaeological evidence
+         which makes such a move likely. There is also no reliable evidence that
+         Malay navigators ever penetrated into the Atlantic.
+      35 Fagan, B. (1966). Southern Africa. London. (See especially Ingombe
+          Ilede); Poznanski, M. (1961). Pottery types from archaeological sites in
+         East Africa, J. Afr. Hist., 2 (2), pp. 177-98; Fagan, B. (1966). The Iron
+         Age of Zambia, Current Anthropology, 7 (4), pp. 453-62.
+                                        The origins of yam cultivation    425
+
+
+36 Stevenson, W. Unpublished information.
+37 Torto, J. O. (1956). This author suggests that about 80% of the yams
+   grown in Ghana at that time were derived from two cultivars of D.
+   rotundata; Coursey, D. G. (1967). op. cit. pp. 134-44. The figure given
+   by Torto for Ghana is probably at least approximately correct for the
+   West African yam zone as a whole; Chevalier, A. (1936). Contribution a
+   l’etude de quelques especes africaines du genre Dioscorea, Bull. Mus. Nat.
+   Hist. Nat., Paris (2e ser.), 8 (6), pp. 520-51.
+38 Miege, J. (1954). Les cultures vivrieres en Afrique occidentale, Cah.
+   d’Outre-Mer, 7 (25), pp. 25-50; Coursey, D. G. (1965). ibid.; Coursey,
+   D. G. (1967). op. cit. pp. 22-5.
+39 Chevalier, A. (1936). ibid.; Burkill, I. H. (1939). ibid.; Coursey, D. G.
+   (1967). op. cit. pp. 59-60.
+40 Murdock, G. P. (1959). Africa: its peoples and their culture history. New
+   York. There is no point in discussing a wholly Asiatic origin for African
+   yam cultivation, as this concept has now been discredited (see Coursey,
+   D. G. and Alexander, J. (1968). ibid.)
+41 Fagan, B. (1966). ibid.; Clark, J. D. (1963). ibid.
+42 Davies, O. (i960). The neolithic revolution in tropical Africa, Trans.
+   Hist. Soc. Ghana, 4 (2), pp. 14-20. Unpubhshed evidence from W.
+   Stevenson suggests that derivation of these artifacts from local palaeo¬
+   lithic sources, as proposed by Davies, is unlikely.
+43 Isolated hunter/gatherer communities in both these areas still make
+   extensive use of such wild yams and other “roots”.
+44 Davies, O. (In press). Ntereso. Paper presented at the 8th Congress on Pre-
+   and Proto-history, Prague (1966); Shaw, T. (1968). Radiocarbon dating
+   in Nigeria. Ibadan, p. 10.
+45 Davies, O. (1967). West Africa before the Europeans. London.
+46 Coursey, D. G. (1967). op. cit. pp. 197-203, and further work under
+   preparation. Festivals associated with yam cultivation were the major
+   events in the annual socio-religious cycle in much of this area.
+47 Henry, V. C. R. (1967). Studies on botanical and agronomic characteristics
+   of cush-cush (Dioscofea trifida L.f.), Ph.D. Thesis, McGill Univ., and
+   Private communication.
+48 Chevalier, A. (1946). Nouvelles recherches sur les ignames cultivees,
+   Rev. int. Bot. appl. Agric. Prop.-, 26 (279-80). pp. 26-31.
+49 Leon, J. Private communication, from Instituto Interamericano de
+   Ciencias Agricolas.
+50 According to Leon, basing his opinion on Oviedo’s Historia General y
+   Natural de las Indias, “aje” refers definitely to a white-fleshed form of
+   sweet potato, not to any of the Dioscorea.
+51 Rouse, I. (1962). The intermediate area; Amazonia and the Caribbean
+   area, in Braidwood, R. J. and Willey, G. R. ibid.; Rouse, I. (1964). The
+   Caribbean Area, in Jennings, J. D. Prehistoric Man in the New World.
+   Chicago.
+52 One of us (D.G.C.) is required to state that the opinions expressed here
+   are his own and not necessarily those of the Tropical Products Institute.
+      A. KRAPOVICKAS1
+
+      The origin, variability and spread of the
+      groundnut (Arachis hypogaea)
+
+The origin and spread of the groundnut are of equal interest to ethnologists,
+botanists and crop-scientists. Knowledge of this subject is certainly basic to
+soundly based programmes for improving this important economic crop.
+Several years have been occupied in the study of a large collection of South
+American varieties maintained at the Experimental Station of Manfredi
+(I.N.T.A. Cordoba, Argentina) and the time is opportune for a presentation
+of conclusions drawn from this study. The material used consists of land races
+(unimproved strains) collected from relatively unsophisticated cultivators in
+some of the less readily accessible areas of Mexico, Peru and Bolivia. There
+are, in addition, 1000 accessions collected in two expeditions to Paraguay,
+Bolivia and Central Brazil with W. C. Gregory and J. Pietrarelli. The prime
+object of these journeys was to collect material to clarify the taxonomy of the
+genus Arachis and visiting the type localities of wild species. One area not
+visited was the N.E. of Brazil, the original location of A. pusilla Benth.
+  The author’s studies of variability within the cultivated species began with
+descriptions of local varieties cultivated in central Cordoba Province, the
+most important area of groundnut cultivation in Argentina2 and an analysis of
+introgression in N.E. Argentina3.
+   Material collected in Paraguay, Brazil and Bolivia has also been analysed
+and this paper presents some of the results of this work and further observa¬
+tions on Mexican and Peruvian material.
+
+
+
+     Origin of Arachis hypagaea
+
+The genus Arachis is confined to South America. It includes thirty species
+and occurs in an area between the River Amazon and the Rio de la Plata and
+from the Atlantic to the foothills of the Andes. The centre of origin of the
+genus is probably in the Mato Grosso (Brazil) close to the Gran Pantanal.
+Representatives are found there of all the sections into which we divide the
+genus4.
+428   Part IV Plants     krapovickas
+
+
+  The outstanding morphological feature of this genus is the geocarpic fruit
+produced by all species. In A. hypogaea the fruit has a single cavity which
+contains 1-5 seeds. The characteristics of the fruits of wild species were
+first described by Burkart5, the development of these fruits was interpreted by
+Krapovickas and Rigoni6. In all wild species the fruit is articulated with two
+single-seeded compartments, separated from each other by a filamentous
+isthmus, the length of which varies according to species from a few milli¬
+metres to about 20 cm. This must be due to the presence of two meristems in
+the ovary one at the base, the other between the two ovules. In A. hypogaea
+only the basal meristem functions which grows after fertilization to produce a
+peg which buries the tip of the ovary. The ovules, once buried belowground,
+grow and mature. The intercalary meristem normally fails in A. hypogaea
+and for this reason the biarticulate pod may be considered as a wild character.
+  The growth of the peg and isthmus is horizontal in the majority of species
+from Central Brazil and may reach a length of one metre, flowers may be
+aerial or subterranean. In A. hypogaea flowers are normally aerial and the
+peg grows vertically both in the aerial and subterranean portions. This I
+believe is important; from an area at approximately 57°W and westwards
+there is an increase in the number of species with vertical peg development,
+such types are commoner in the more peripheral areas.
+  In attempts at interspecific hybridization attempted so far between A.
+hypogaea and wild species more success is obtained when the wild species
+pollen parent also has vertical peg growth than when this is horizontal7.
+  The great majority of wild Arachis species are perennial but annual forms
+are found in two district areas 2500 km. apart in the N.E. of Brazil and N.W.
+Argentina and areas near the Bolivian frontier. In the latter area four species
+have been found of which three are diploid and one A. monticola Krap. et
+Rig. is tetraploid with 2n = 40 chromosomes. This species (from altitudes
+1400-2800 m. above sea level in Argentina) is the only wild species to give
+fully fertile hybrids with A. hypogaea. The only perennial species which can
+cross with A. hypogaea to give viable hybrids are those with a taproot similar
+to A. villosa Benth, 2n = 20 chromosomes and more or less vertical pegs.
+Such hybrids have three genomes and are more or less sterile. The range of A.
+villosa and its relatives is somewhat peripheral to that of the genus as a whole,
+they occur to the west of the 57° meridian, that is west of a line marked by the
+Rivers Paraguay and Uruguay. This evidence indicates that A. hypogaea has
+originated farther to the west than had been thought previously and that it
+arose in the periphery of the area occupied by this genus.
+  It seems likely that A. hypogaea originated in Bolivia, at the base or in the
+foothills ol the Andes. There exists in this area a very important centre of
+variability of A. hypogaea subsp. hypogaea. This subspecies we believe has the
+greatest affinity with the wild annual species and the perennials of the A. villosa
+group shown by the occurrence of the runner habit, similar branching
+pattern and absence of compound spikes.
+                                   The origin and spread of the groundnut     429
+
+
+  It is curious that Bolivia is scarcely mentioned in older literature on the
+groundnut yet it is not only an important centre of variation of the cultivated
+forms but the area in which this crop plant arose. The diversity of use to
+which groundnuts are put in the area indicates also that it has been present
+there for a long time. In addition to the more customary uses it is employed in
+the preparation of chicha de mani8 a refreshing non-alcoholic drink. In Santa
+Cruz de la Sierra a soap is produced from it. In the woodland zone of
+Northern Bolivia the natives eat the entire soft fruit with relish at the stage
+when the pericarp is thick and juicy9.
+
+
+
+      Intraspecific taxa of A. hypogaea
+
+Earlier systems of classification have taken into account characters of the fruit
+only10 or characters of the fruit together with habit, erect or prostrate11. Since
+the importance of branching systems was recognized more rational classifica¬
+tions have been produced12 and comparable results have been obtained from
+cultivated peanuts of North America, Africa, Venezuela and Argentina.
+  The study of branching habit and other vegetative characters is best
+carried out on living plants which have been grown at low plant population
+densities. Branching pattern has been correlated with the form and size of the
+fruit, growth habit, the duration of the vegetative period, with seed dormancy
+and with other characters. In this way it is possible to interpret the taxonomic
+contributions of previous authors and understand their illustrations.
+  In a previous work13 we proposed a taxonomic system dividing A. hypogaea
+into two subspecies according to branching habit, alternate (subsp. hypogaea)
+or sequential (subsp. fastigiata). A new varietal entity (var. hirsuta) which has
+recently come to light should be added to this scheme.
+
+Arachis hypogaea L.
+  subspecies hypogaea
+    var. hypogaea (= A. africana Lour.), the Brazilian type of Dubard14, the
+          Virginia type of Gregory et a/.15
+     var. hirsuta Kohler (= A. asiatica Lour.) the Peruvian type of Dubard16
+          in part.
+  subspecies fastigiata Waldron
+    var. fastigiata the Peruvian type of Dubard17 in part, the Valencia type
+          of Gregory et al.18
+     var. vulgaris Harz, the Spanish type of Gregory et al.19
+
+  The two subspecies are distinct entities, in addition to their morphological
+differences they show divergence in physiological and genetical characters.
+Groundnuts of subspecies hypogaea are generally prostrate, their seeds have
+considerable dormancy, their vegetative period is long with a duration of from
+5-10 months. In subspecies fastigiata plants are erect, the seed has no
+430   Part IV Plants   krapovickas
+
+
+dormancy and the vegetative period is short, 3-5 months, which permits two
+crops per annum in some tropical areas. In crosses between the two sub¬
+species we have observed progeny with lethal characters (albinos) or with
+malformations. This confirms the observation of Hull20. Forms intermediate
+between the subspecies are encountered much less frequently than those
+intermediate between botanical varieties.
+
+
+
+      The genocentres of groundnuts in South America
+
+It has been possible by using Anderson’s method21 to analyse the patterns of
+variability found in the indigenous strains of South America. It has been
+shown for example that the great variability found in the Guarani region is
+most probably due to introgressive hybridization. This has produced a
+typical hybrid swarm from which we were able to determine the probable
+prototypes which crossed freely among themselves and have as a result given
+this region a special character. By extending this method to other areas of
+South America we have identified different prototypes and we can delimit
+distinct genocentres from a study of the patterns of variability produced.
+  Although we are dealing with forms in cultivation at the present time, it is
+possible to explain why the genocentres are static. In the localities visited
+groundnuts were grown almost exclusively for subsistence, there was no
+appreciable export trade nor had any cosmopolitan varieties been introduced
+to these areas.
+  At the present time we can recognize the following genocentres
+
+1 The Guarani region, the basins of the Paraguay and Parana rivers
+2 Goias and Minas Geraes (Brazil)
+3 Rondonia and N.W. Mato Grosso
+4 The Eastern foothills of the Andes in Bolivia
+5 Peru.
+
+
+      I The Guarani region
+
+
+This includes a large part of the basins of the rivers Paraguay and upper
+Parana bordering N.E. Argentina (Corrientes and Misiones), the East of
+Paraguay, southern Mato Grosso and western Sao Paulo in Brazil. The
+extent of this region eastwards is uncertain but it probably extends to the
+Brazilian States of Parana, Santa Catarina and Rio Grande do Sul.
+  The groundnuts of this region are almost entirely erect (subspecies
+fastigiata); Valencia is the commonest form. The subspecies hypogaea is very
+rare and is represented by two indigenous races, Guaycuru or Guanaco and
+Rasteiro. These are very similar but are differentiated by testa colour,
+salmon or reddish in Guaycuru and white with red streaks in Rasteiro \ the
+                                   The origin and spread of the groundnut     431
+
+
+latter is characteristic also of the Overo variety of Argentina (Manduvi
+Cabara or Mani cabra of Paraguay). These groundnuts occur along the length
+of the upper Parana River and also in Ceres (Goias, Brazil). Rasteiro was
+described as a species by Chevalier22 from fruits originating in Santa Catarina
+(Brazil).
+  In the Guarani region there is very little evidence of introgression between
+the two subspecies of A.hypogaea, but there does exist a swarm of forms inter¬
+mediate between the races belonging to subspecies fastigiata. In the course of
+analysing this introgression we were able to identify the following prototypes,
+all belonging to subsp. fastigiata
+
+var. fastigiata Valencia and Porto Alegre
+var. vulgaris Negrito and Spanish.
+
+  Of these Porto Alegre and Negrito with dark violet testa colour are only
+found in the Guarani region and their distribution can be regarded as co¬
+inciding with the extent of this region. Valencia also occurs in the region of
+Goias and Minas Geraes but specimens from this area show no evidence of
+introgression. We have not found Valencia groundnuts in any of the other
+three regions. It is possible that it has spread throughout the world from an
+original location in Paraguay or Central Brazil and has given rise to numerous
+cultivars, e.g. “Colorado de Cordoba” in Argentina and “Tatu” in Brazil.
+  The “Spanish” groundnut characteristically has fruits with two seeds, the
+testa is pale pink or light chestnut and abundant foliage is produced. We have
+found it only in the Guarani region where it is most frequently found in N.E.
+Argentina. It is not absolutely certain whether this race is truly indigenous in
+this region or is a recent introduction. However, the Guarani region is a
+centre of variation of the variety vulgaris and it is a reasonable assumption that
+the Spanish groundnut has been disseminated from this region. There are
+numerous cultivars of Spanish conformation, e.g. Macspan, Blanco Manfredi,
+Dixie Spanish and Natal Common.
+
+
+      2 The region of Goias and Minas Geraes
+
+
+Our travels only covered the south of Goias and N.E. Minas Geraes but here
+we met with a varietal pattern quite distinct from that of the Guarani region.
+This region coincides with the basin of the River Tocantins and the river
+San Francisco marks its eastward extent, here erect groundnuts (subsp.
+fastigiata) predominate. We came upon only one example of subsp. hypogaea
+in the vicinity of Ceres (Goias) which was like Rasteiro in having a red and
+white testa.
+  Cultivated races in this region belong in the main to subsp. fastigiata, both
+varieties fastigiata and vulgaris are represented with little indication of
+introgression between them. An important feature of this region is the
+remarkable increase in frequency of the variety vulgaris, fruit size is larger
+432   Part IV Plants      krapovickas
+
+
+than in region i and is similar to that of the North American cultivars
+Tennessee Red and Tennessee White. In our collection we have similar
+material from Venezuela and Mexico. No material of Spanish type has been
+collected in the area.
+
+      3 The region of Rondonia and N.E. Mato Grosso (Brazil)
+
+
+This region is not as yet well defined and requires further study, nevertheless
+the data we have collected so far show that it has some very peculiar features.
+The type specimen of A. nambyquarae Hoehne was collected in Pimenta
+Bueno (Rondonia);this has a bi-coloured testa and we consider it belongs to
+A. hypogaea subsp. hypogaea var. hypogaea. A. villosulicarpa also occurs in
+the Mato Grosso23 cultivated by natives of Juruena and Diamantino. This
+species is not closely related to A. hypogaea; it is diploid and perennial.
+  In central Mato Grosso we have collected a number of erect groundnuts
+with yellow testas, a colour not previously observed.
+  This region is part of the Amazon basin and further exploration of this
+river system will greatly increase our knowledge and enable us to elucidate
+further its importance.
+
+
+      4 The eastern foothills of the Andes in Bolivia
+
+
+The outstanding feature of this region is the abundance of forms belonging
+to subspecies hypogaea var. hypogaea. There is a great range of variability to
+be found in habit and size of plant, in fruit characters and testa colour.
+  The four representatives of var. fastigiata that we have collected from this
+area are distinctly different from those of the other regions. We have not
+collected any representative of var. vulgaris.
+  In this region the groundnut is grown over a range of ecological con¬
+ditions and at altitudes up to 2000 metres above sea level.
+  In Bolivia we have observed several instances of introgression between the
+two subspecies. The groundnut “Overo” or “Pintado” with red and white
+testa occurs throughout the whole of Bolivia, this is frequently encountered
+in the markets of La Paz, Cochabamba and Santa Cruz de la Sierra. It is a
+different groundnut from Rasteiro or from Nambyquarae, because of its
+semi-erect habit and its segregation for branching habit and seed coat colour.
+It is possible that this form has arisen from crosses between var. hypogaea and
+var .fastigiata. In Santa Cruz de la Sierra, we collected a form we have called
+“Cruceiio” with plant habit and fruits similar to those of var. fastigiata but
+with some features of “Pintado”. This could well be a product of intro¬
+gression.
+                                   The origin and spread of the groundnut    433
+
+
+
+
+     5 The region of Peru
+
+
+In Peru we have collected two distinct types of groundnut, one very similar
+to Virginia Runner, a common North American cultivar and the other with
+fruits very similar to those found in the pre-Columbian tombs on the coast of
+Peru. We presume that Virginia Runner is of recent introduction to the area,
+the numerous collections made show little or no variability.
+  The situation with regard the second type is very different. These are
+characterized by very large fruits with marked constrictions between seeds,
+very prominent veins and at the distal extremity a marked, parrot-like beak.
+This type of fruit has been illustrated repeatedly in reports on pre-Columbian
+remains from coastal Peru24 and is represented on pottery of the Mochica
+culture. This groundnut may well be that which Monardes25 described from
+the shores of the River Maranon thus “it is of the size of the middle finger,
+round, twisted throughout, with a very neat design, its colour brownish, it
+has inside a seed which rattles when dry somewhat like an almond with a
+light-tan husk, it is white and breaks into two parts like an almond”.
+  The fruits of the pre-Columbian type which we obtained in the Lima
+market proved to belong to distinct types of plant, this suggests that we are
+in a centre of variability for this groundnut. The fruits most like those of pre¬
+columbian tombs belong to the subspecies hypogaea that is to say they are
+prostrate, with alternate branching and late maturity and otherwise conform
+to the description of the variety hirsuta Kohler (= A. asiatica Lour.). This
+variety may show some peculiarities in its growth, for example the main axis
+may grow to a length of a metre or more, far exceeding that of the runner
+groundnuts of var. hypogaea. These groundnuts are still grown on the
+Pacific coast.
+  We have also found similar fruits, frequently coarser and with heavier
+veins, belonging to subspecies fastigiala var. fastigiata. These have been
+described and illustrated by Mazzani and Cobo26 under the name of “Tingo
+Maria”. “Tingo Maria” does not appear to be the typical pre-Columbian
+groundnut and probably originates in the woodland zone in Eastern Peru.
+  Radiocarbon datings of groundnuts from Huaca Prieta in the valley of the
+River Chacama at 850 b.c. have been obtained.
+  There is general agreement on the nature of prehistoric Peruvian ground¬
+nuts; however Towle27 points out that a smaller variety had also been found
+with a slightly reticulated pericarp and without a dorsal ridge. This seems to
+be rather similar to several cultivated varieties actually grown [in the U.S.A.
+at the present time. This material was obtained in Lupe and is of the early
+Ancon period.
+  Dubard28 termed all these groundnuts “Peruvian type” but because he
+used the number of seeds per pod as his principal diagnostic character, he
+included Valencias in his Peruvian group. Valencias also have 3-4 seeds but
+434    Part IV Plants    krapovickas
+
+
+the fruit has no beak, no prominent ridges on the dorsal surface nor prominent
+veins. Dubard’s “Peruvian type” includes both sequentially branched and
+alternately branched forms. The alternately branched forms with 3-4 seeds,
+rough pod with a parrot-like beak, the runner habit, fairly hairy and very late
+maturing can be distinguished by the sum of these characters from Virginia,
+Spanish or Valencia groundnuts.
+
+
+
+       The relation between groundnut genocentres
+       and indigenous tribes
+
+A comparison of the genocentres described and the distribution of indigenous
+ethnic groups in South America enables us to draw some very timely con¬
+clusions. The existence of genocentres can be explained by geographical
+isolation due to the great distances and the lack of contact between primitive
+settlements. There is at the present time a dearth of information on the
+groundnuts of the Amazon basin and the eastern foothills of the Andes from
+Bolivia to Venezuela. Study of these regions would undoubtedly extend our
+knowledge of the processes of domestication and spread of the groundnut.
+  If we superimpose on the ethnic and linguistic map of South America29 the
+present scheme of variation patterns of the groundnut we can see that
+genocentre no. 1 coincides broadly with the distribution of the Guarani
+Indians and no. 2 with that of the Ge people. The other three genocentres
+each cover a mosaic of tribes. However it can be shown that there is some
+affinity between genocentres no. 1 and no. 2 and none between these and the
+remainder. In addition there is very little apparent affinity between groups
+3-5-
+  The establishment of relationships between these genocentres and the
+indigenous cultures, although outside the scope of the present treatment, is
+worth further detailed ethnological study. We suggest that for such a study
+these possible correlations might serve as a useful working hypothesis.
+
+
+
+       Spread of the groundnut
+
+The groundnut is one of a number of American cultivated plants which
+almost immediately after Columbus were disseminated and became estab¬
+lished in the Old World. The rapidity of this spread has led some to postulate
+an African origin, an opinion still to be seen repeated in some technical works,
+but which has been discarded for the past century. The description of pre¬
+columbian groundnuts from coastal Peru30 established the South American
+origin of this plant31. Several theories have been elaborated to explain its mode
+of spread.
+  Right from the start comparative studies were made of the archaeological
+                                 The origin and spread of the groundnut    435
+
+
+groundnuts of Peru and those found in lands bordering the Pacific and
+Indian Oceans (the Philippines, China, India, Madagascar, etc.) This
+aroused interest in pre- and post-Columbian trans-oceanic relationships.
+  Dubard32 was among the first to attempt an explanation of the spread of
+groundnuts. He differentiated two types, the Peruvian with 3-4 seeds and the
+Brazilian with 2 seeds per fruit. According to Dubard, the Peruvian type
+similar to the pre-Columbian form of the tombs, must have been spread by the
+Spanish in the Pacific basin and to Mexico and from there introduced to
+Spain. The Brazilian type must have been distributed along the West
+African coast by early Portuguese slave traders who bought it there.
+  Bois33 split A. hypogaea into subspecies africana (Lour.) with prostrate
+branches and asiatica (Lour.) with erect branches. According to Bois these
+two subspecies correspond to the Brazilian and Peruvian types respectively,
+of Dubard.
+   Fruits similar to Peruvian archaeological groundnuts were mentioned and
+illustrated by Skyortzow34 and by Ames35 from China. Anderson36 said “—the
+most primitive type of peanut, the same narrow little shoestrings which are
+found in the Peruvian tombs, are commonly grown today, not in Peru but in
+. South China. How did they get there ?” The resemblances between Asiatic
+and Peruvian groundnuts have been used to support theories of trans¬
+pacific land connections. Merrill37 however denies the possibility of such
+connections and supports the hypothesis that the spread of groundnuts
+occurred along the old Portuguese trade route from Brazil to Goa and thence
+to Canton and later Macau. This opinion of Merrill’s has been generally
+accepted and illustrated in maps38.
+
+
+
+
+      Spread in South America
+
+Much light can be shed on this problem by studying the vernacular names of
+A. hypogaea. The following list is based principally on information gathered
+by I Gilii and Xuarez39, II Valdizan and Maldonado40 and III Rivet in
+Chevalier.41
+
+Betaca Pole              Mocobl42
+Cacahuali                Piro, Chontaquiro (II)
+Cacahuete                Mexican Spanish (I)
+Cacuali                  Piro (II)
+Curiquiere               Mojos (I)
+Chemnakjai               Lenguas43
+Choccopa                 Aymara (II and III)
+Chocopan                 Araucanos44
+Inchic                   Keshua (II)
+Inchig                   Kichua quiteno (III)
+436    Part IV Plants   KRAPOVICRSA
+
+
+Inchik                   Peruvians and natives of Quito (I)
+Inchis                   Kichua (III)
+Inci                     Campa (II)
+Inqui                    Antis (II)
+Kadyahati                Hianakoto (Caribe) (III)
+Kupekana                 Arawak (Tariana) (III)
+Magua                    Guana45
+Mandobi                  Brazilian Portuguese (I) Tupi (III)
+Mandovi                  Pilaga46
+Manduvi                  Chiriguano47
+Man!                     Spanish American (I); Haiti (III); Aparai (Caribe)
+                           (III)
+Manobi                   Brazilian Portuguese (I) Tupi (III)
+Manubi                   Guarani (I)
+Maytapa                  Pacaguara (II); Pano (Pakaguara) (III)
+Mondowi                  Tupi (III)
+Mundubi                  Tupi (III)
+Munui                    Tupi (III)
+Naaquis                  Chiquitos (I)
+Nioskita                 Choroti48
+Sil’ari                  Itonama (III)
+Tagalatic                Toba49
+Tama                     Pano, Shipibo, Conibo (II)
+Tlalcaca-huad            Mexican
+Torah                    Colorado (III)
+Yapiopeka                Tukano (Kobena) (III)
+Yatubu                   Tukano (III)
+Yaxtutu                  Tukano (Tuyuka) (III)
+Yolique                   Mbaya (I)
+Zebe                      Yurakare (II and III)
+
+
+  The commonest names in use are “cacahuate” in Mexico, a name which in
+Spain was transformed into “cacahuete”, in Brazil “amendoin” and in Para¬
+guay “manduvi” and “main”. The latter is in fairly general use in the rest of
+Spanish America, it is also the name mentioned by Oviedo50 from His¬
+paniola. Reference to the above list shows that in the Tupi-Guarani
+region there are numerous variants differing little from the actual name
+“manduvi”. In the remainder of South America the names show little
+affinity one with another. A large number of variants of “manduvi” occurs in the
+languages from the eastern foothills of the Andes and between these linguistic
+groups there are others having affinities with the Arawak tongues. The
+Arawaks inhabit the area which extends from the Caribbean to the heart of
+South America as far as the border of Bolivia with the Chaco.
+   The presumed area of origin of A. hypogaea is in a region in which Arawak
+                                   The origin and spread of the groundnut   437
+
+
+linguistic influences predominate and it is rather remote from those of the
+ Guarani. In spite of this coincidence and also their wide dispersion in
+America, I do not necessarily conclude that the Arawaks are responsible for
+the spread of the groundnut from its centre of origin as far as the Caribbean
+islands. Such a hypothesis is however consistent with the evidence available
+at the present time.
+
+
+
+       Spread outside South America
+
+The progenitors of the whole range of cultivars now widely dispersed
+throughout the world originally came from South America. It is possible to
+place all of them in the botanical varieties described previously, groups
+lower in the taxonomic hierarchy require further study.
+   The runners of coastal Peru (var. hirsuta) appear to have had their origin in
+this area. Similar forms however are still cultivated in Mexico where they are
+called “chino”. This name has no geographical significance but signifies in the
+vernacular “wrinkled”, referring to the prominent veins and ridges of the
+pod. “Chino” varieties of Mexico conform to the Peruvian type in having
+alternate branching, runner habit, similar fruit and seed with violet testas.
+These are long established cultigens in Mexico and are illustrated in
+Clavigero51. Only fruits are shown but this author mentioned a vegetative
+period of seven months which confirms that this groundnut belonged to the
+subspecies hypogaea.
+  Heiser52 commented on the lack of historical information on pre-columbian
+cultivation of the groundnut in Mexico but mentioned the discovery by
+MacNeish of a groundnut found at Tehuacan of the period 200 B.C.-700 a.d.
+According to Hernandez53 the groundnut was probably taken from Haiti to
+Mexico by the Spanish; if this was so the introduction was probably of the
+Virginia type, evidently the form grown in the Antilles.
+  The groundnut was soon taken across the Pacific by the Spaniards. The
+first introduction to the Malayan archipelago was between 1521-9 or perhaps
+some time after 157954. According to Bolhuis the first crops were of the
+variety Katjang tjina, a runner plant with small two-seeded pod, without
+strong markings and a vegetative period of 8-10 months.
+   The groundnut probably reached China (Fukien province) in the early
+seventeenth century, possibly even before 160855.
+  The observations and more particularly later descriptions and illustrations
+of material from the Western Pacific and Indian Oceans indicate that it was
+the Peruvian groundnut which spread throughout these regions. It has been
+variously named Chamaebalanus japonicus56, Arachis asiatica57, l’Arachide de
+l’lnde58, and Arachis hypogaea™.
+   Virginia groundnuts of runner habit (var. hypogaea) were apparently
+introduced to the South-eastern United States with the slave trade60. A range
+438   Part IV Plants     krapovickas
+
+
+of improved forms have been produced in this area (e.g. Virginia Bunch)
+which have become widespread. In general morphology the Virginia ground¬
+nut agrees with the descriptions and illustrations of groundnuts from the
+Antilles of seventeenth-century authors du Tertre, Labat and Plumier61. As
+yet no mainland locality has been found in South America in which the
+Virginia type has been of ancient cultivation nor in which it shows any
+appreciable variation, it should be pointed out that studies of variability are
+lacking in the N.E. of Brazil and in the Caribbean. (The Virginia type does
+however show a very considerable range of variation in the African
+continent62.)
+  There is more information about the Spanish type (var. vulgaris). Gilii and
+Xuarez63 record its introduction to Europe. The plant is illustrated under the
+name Glycine subterranea and came from seed sent in 1784 from Brazil to Don
+Jose Campos in Lisbon part of which was sent on to Rome. The greater part
+of the variability of var. vulgaris has been recorded in Paraguay and the
+Brazilian States of Goyaz, Minas Geraes and Sao Paulo, and therefore Brazil
+is a very likely source of the original Spanish type. There is no evidence
+against the view that the Spanish type was that which was spread by Tabares
+de Ulloa64 (1799) in Valencia and from there it was taken to the South of
+France at the beginning of the nineteenth century. According to Higgins65
+this groundnut was introduced to the U.S.A. from Spain in 1871 and to
+Africa early in the present century.
+  Information on the Valencia type (vav.fastigiata) in the literature is of more
+recent date. Dubard66 described the fruit but the first use of the name
+“Valencia” was by Beattie67 referring to a new introduction to the U.S.A.
+from Spain. Tonnelier68 referred to a groundnut with 3-4 seeds/pod from
+Cordoba Argentina which is probably the present cultivar “Colorado de
+Cordoba” a Valencia type groundnut. The centre of variation of the Valencia
+group is in Paraguay and Central Brazil and it is possible that spread took
+place from South America in the present century, via Spain as the name
+suggests. The Valencia type has actually been cultivated on the Mediter¬
+ranean coast and from this area it has been sent not only to the U.S.A. but to
+other parts of Europe in addition to Asia and Africa.
+
+
+
+      Notes
+
+      1 This paper was originally given in Spanish to the XXXVIIIth Congreso
+        International de Americanistas in September 1966 at Mar del Plata,
+        Argentina. The translation is by J. Smartt.
+      2 Rigoni, V. A., Krapovickas, A., and Pietrarelli, J. (i960). Las variedades
+        cultivadas de mani en la provincia de Cordoba, Rev. Invest. Aerie., 14 (2),
+        pp. 177-96.
+      3 Krapovickas, A. (i960). Hibridacion introgressiva en manies de la region
+        guarantica argentina, Rev. Invest. Agric., 14 (2), pp 161-75
+      4 Krapovickas, A. and Gregory, W. C. (In press).
+                                The origin and spread of the groundnut        439
+
+
+ 5 Burkart, A. (1939)- Estudios sistemtaicos sobre les Leguminosas-Hedi-
+   sareas de la Rep. Argentina y regiones adyacentes, Darwiniana, 3 (2), pp.
+    117-302.
+ 6 Krapovickas, A. and Rigoni, V. A. (1957). Nuevas especies de Arachis
+   vinculadas al problema del origin del mani, Darwiniana, n (3), pp. 431-55.
+ 7 Smartt, J. and Gregory, W. C. (1967). Interspecific cross-compatibility
+   between the cultivated peanut Arachis hypogaea L. and other members of
+   the genus Arachis, Oleagineux, 22, pp. 455-9.
+ 8 Weddell, H. A. (1853). Voyage dans le Nord de la Bolivie. Paris.
+ 9 Scolnik and Luti, Personal communication.
+10 Burkart, A. (1939). ibid.; Chevalier, A. (1933). Monographic de l’Arachide,
+   Rev. Bot. Appliq., 13, pp. 689-789; Dubard, M. (1906). De l’origine de
+   l’arachide, Mus. Nat. Hist. Nat. Paris, Bull., 5, pp. 340-4; Hermann,
+   F. J. (1951). A synopsis of the genus Arachis, U.S. Dept. Agric. Agriculture
+   Monograph, 19; Hoehne, F. C. (1940). Arachis, Flora Brasilica, 25 (122).
+11 Bois, D. (1927). Les Plantes Alimentaires chez tous les Peuples et a travers les
+   Ages, I. Paris; Chevalier, A. (1929), L’origine botanique et l’amelioration
+   des Arachides cultivees. Rev. Bot. Appliq., 9, pp. 97-197; John, C. M.
+   Venkatanarayana, G. and Sheshadri, C. R. (1954). Varieties and forms of
+   groundnuts, Indian J. Agric. Sci., 24 (4), pp. 159-93.
+12 Bunting, A. H. (1955). A classification of cultivated groundnuts, Emp.
+   J. Exptal. Agric., 23, pp. 158-70; Gregory, W. C., Smith, B. W. and
+   Yarbrough, J. A. (1951). Morphology, Genetics and Breeding, in The
+   Peanut, the Unpredictable Legume. Washington; Krapovickas, A. and
+   Rigoni, V. A. (i960). La nomenclatura de las subespecies y variedades de
+   Arachis hypogaea L., Rev. Invest. Agric., 14 (2), pp. 197-228; Mazzani, B.
+   and Cobo, M. (1957). Caracteristicas varieties del mani, Agronomia
+    Tropical, 7 (3), pp. 109-49.
+13 Krapovickas, A. and Rigoni, V. A. (1957). ibid.
+14 Dubard, M. (1906). ibid.
+15 Gregory, W. C., Smith, B. W. and Yarbrough, J. A. (1951). ibid.
+16 Dubard, M. (1906). ibid.
+17 Dubard, M. (1906). ibid.
+18 Gregory, W. C., Smith, B. W. and Yarbrough, J. A. (1951)- ibid.
+19 Gregory, W. C., Smith, B. W. and Yarbrough, J. A. (1951)- ibid.
+20 Hull, F. H. (1936). Inheritance of rest period of seeds and certain other
+   characters in the peanut, Florida Agric. Exper. Station Bull., 314.
+21 Anderson, E. (1949). Introgressive Hybridisation. New York.
+22 Chevalier, A. (1929). L’Arachide Rasteiro du Bresil, Rev. Bot. Appliq., 9,
+   p. 487-
+23 Hoehne, F. C. (1944). Duas novas especies de Leguminosas do Brasil,
+   Arq. Bot. Est. Sao Paulo, 2, pp. 15-18.
+24 Costantin, J. and Bois, D. (1910). Sur les graines et tubercules des
+   Tombeaux peruviens de la Periode Incasique, Rev. Gen. Bot., 22 (258), pp.
+   242-65; Dubard, M. (1906). ibid.; Towle, M. A. (1961). The Ethno-
+   botany of Pre-Columbian Peru. Chicago; Wittmack, L. (1887), in Reiss, W.
+   and Stuebel, A. The Necropolis of Ancon in Peru, 3. Berlin.
+25 Monardes, N. (1574). Historia Medicinal de las Cosas que se traen de
+   Neustras Indias Occidentales que sirven en medicina. Sevilla.
+26 Mazzini, N. and Cobo, M. (1957). °P- cit- Fi§- 4B-
+27 Towle, M. A. (1961). ibid.
+28 Dubard, M. (1906). ibid.
+29 Steward, J. H. (ed.) (1950). Handbook of South American Indians, 6            .
+   map 18.
+30 Squier, E. G. (1877). Peru Illustrated. New York.
+31 de Candolle, A. L. P. P. (1884). Origin of Cultivated Plants. London.
+32 Dubard, M. (1906). ibid.
+440   Part IV Plants      krapovickas
+
+
+       33 Bois, D. (1927). ibid.
+       34 Skvortzow, B. V. (1920). On some varieties of peanuts grown in China,
+           J. N. China Branch Roy. Asiat. Soc., 51, pp. 142-5.
+      35 Ames, O. (1939). Economic Annuals and Human Cultures. Cambridge,
+           Mass.
+      36 Anderson, E. (1952). Plants, Man and Life. Boston.
+      37 Merrill, E. D. (1954). The Botany of Cook’s Voyages. Waltham, Mass.
+      38 Olivier, M. (1954). Le marche mondial des arachides, OUagineux, 9 (2),
+          pp. 125-8; Johnson, F. R. (1964). The Peanut Story. Murfreesboro, N.C.
+      39 Gilii, F. L. and Xuarez, G. (1789). Osservazione Fitologiche sopra alcune
+          Pliante Esotiche Introdotte in Roma fatte nell’anno 1788. Rome. Translated
+          in Furlong, G. (1954). Gaspar Juares, S. J. y sus Noticias Fitologicas.
+          Buenos Aires.
+      40 Valdizan, H. and Maldonado, A. (1922). La Medicina Popular Peruana.
+          Lima.
+      41 Chevalier, A. (1933). ibid.
+      42 Zapata GolHn, A., (1945). Nomenclature mocobi de animales y plantas,
+          Bol. Dep. Estud. Etnogr.y Coloniales, 1 (1), pp. 51-62. Santa Fe.
+      43 Cervino, P. A. (1910). Vocabulario Espahol y Lenguas, en Catal. Razonado
+          de las Secc. Lenguas americanas por B. Mitre, 2. Buenos Aires. (MSS. of
+          1839.) pp. 145-60.
+      44 Abregu, V. C. (1942). Idiomas Aborigenes. Buenos Aires.
+      45 Cominges, J. de (1892). Vocabulario de Algunas Palabras en Idioma Guana.
+          Obras escogidas de Juan de Cominges. Buenos Aires, pp. 247-9.
+      46 Da Rocha, A. C. (1938). Vocabulario comentado Pilaga-Castellano,
+          Comision Honoraria de Reducciones de Indios, 7. Beunos Aires.
+      47 Metraux, A. (1930). Etudes sur la civilisation des indiens Chiriguano,
+          Rev. Inst. Etnol. Univ. Nac. Tucuman, 1 (3), pp. 295-494.
+      48 Hunt, R. (1915). El choroti 0 yofuaha. Rev. Mus. La. Plata, 10 (2nd
+          series), pi. 23.
+      49 Tebboth, T. (1943). Diccionario Castellano-Toba, Rev. Inst. Antropol.
+          Univ. Nac. Tucuman, 3 (2), pp. 35-221.
+      50 Oviedo y Valdes, G. F. de (1535). Prhnera Parte deai Historia Natural y
+          General de las Indias. Madrid.
+      51 Clavigero, F. S. (1787). The History of Mexico, 1. London.
+      52 Heiser, C. B., Jr. (1965). Cultivated plants and cultural diffusion in
+          Nuclear America, Amer. Anthrop., 67 (4), pp. 930-49.
+      53 Hernandez, F. (1790). Opera, 2. Madrid.
+      54 Bolhuis, G. G. (1955). La culture de l’arachide en Indonesie, Oleagineux,
+          I0> (3)5 PP- 157-60-
+      55 Currington Goodrich, L. (1936-7). Early notices of the peanut in China,
+          J. Orient. Stud. Cath. Univ. Peking, 2, pp. 405-9.
+      56 Rumphius, G. E. (1747). Herbarium Amboinense, 5. Amsterdam.
+      57 Loureiro, J. (1790). Flora Conchinchinensis. Lisboa.
+      58 Cordemoy, C. J. de. (1866). Note sur L’Arachide (lie de la Reunion),
+          Adansonia, 6, pp. 249-53.
+      59 Blanco, M. (1878). Flora de Filipinas. (3rd ed.), 2. Manila.
+      60 Higgins, B. B. (1951). Origin and early history of the peanut, in Gregory,
+          W. C., Smith, B. W. and Yarbrough, J. A. (1951). ibid.
+      61 Chevalier, A. (1933). ibid.; Higgins, B. B. (1951). ibid.
+      62 Gibbons, R. W. and Harkness,C. In preparation; Bunting, A. H. (1955).
+          ibid.; Bunting, A. H. (1958). A further note on the classification of culti¬
+          vated peanuts, Emp.J. Exptal. Agric., 26, pp. 254-8; Meikle, J. O. (1965).
+          A survey of African-grown groundnut varieties in Rhodesia, Rhodesia
+          Agric. J., 62, pp. 109-13; Smartt, J. (1961). Groundnut varieties of
+          Northern Rhodesia and their classification, Emp. J. Exptal. Agric., 29,
+          pp.153-8.
+                                 The origin and spread of the groundnut       441
+
+
+  63 Gilii, F. L. and Xuarez. G. (1789). ibid.
+  64 Tabares de Ulloa, F. (1799). Relacion Sucinta en que se explica sencillamente
+     el nuevo descubrimiento de sacar el aceyte del cacahuate 0 Mani de America.
+     Valencia.
+
+
+VO vo vo vo
+     Higgins, B. B. (1951). ibid.
+     Dubard, M. (1906). ibid.
+     Beattie, W. (1911). The peanut, Farmers Bull., 431. Washington.
+         r^OO
+     Tonneher, A. C. (1912). Informe sobre el mani, Bol. Min. Agric., 14 (5),
+     pp. 460-8.
+      BARBARA PICKERSGILL
+
+      The domestication of chili peppers
+
+
+      Introduction
+
+Chili peppers share with Phaseolus beans and the Cucurbits the distinction
+of being among the first plants cultivated in the New World. Unlike the
+latter crops, peppers never formed a staple part of the diet, but have always
+been much-prized condiments. Both fresh and dried fruits contain a phenolic
+compound, capsaicin, in the placentas, which gives them their characteristic
+pungency.
+  Several of the cultivated species of Capsicum are extremely variable. Bell
+peppers, paprika, cayenne and the Mexican chilis are all forms of a single
+species, C. annuum. This is the only species known to most Europeans,
+although at least three others, C. baccatum, C. chinense and C. pubescens, are
+still widely cultivated in South America, which is the centre of origin of this
+genus.
+  These species could be of recent origin; the products of a single domestica¬
+tion followed by evolution and divergence under cultivation. Alternatively,
+there may have been several distinct species before the development of
+agriculture, each of which was subsequently domesticated from wild plants of
+that species. These multiple domestications may have occurred independently
+or the idea may have spread from one area to another, leading to experimen¬
+tation with the rather different wild material available in different regions.
+
+
+
+      Distribution of the domesticated chili peppers
+
+Table i shows the probable pre-Conquest distribution of the principal
+cultivated species of chili pepper. The most likely ancestor of cultivated C.
+annuum is the wild bird pepper ( C. annuum var. minimum). This has a fairly
+wide distribution, whereas cultivated C. annuum was limited to Middle
+America in pre-Conquest times1. C. baccatum, on the other hand, has always
+been restricted to South America. Wild plants (var. baccatum) occur only in
+southern Peru and Bolivia. Cultivated types (var. pendulum) presumably
+444    Part IV Plants     pickersgill
+
+
+developed from these wild plants and are most frequent in Peru and Bolivia
+but extend north up the west coast to southern Colombia. C. chinense has a
+distribution which is complementary to that of C. baccatum, since C. chinense
+attains its greatest diversity east of the Andes, in the Amazon Basin. It
+extends also to the West Indies, and its range overlaps that of C. baccatum in
+Ecuador, Peru and Bolivia. C. chinense is closely related to, and possibly
+originated from, a fourth species, C. frutescens. The latter includes the
+cultivated Tabasco peppers and is widespread both as a weed and in cultiva¬
+tion throughout Middle America and lowland South America. In highland
+South America these species give place to a more hardy pepper, C. pubescens,
+of which no wild forms are known.
+
+
+Species                        Probable pre-Conquest distribution
+
+C. annuum
+   var. minimum   wild         Southern U.S., West Indies, Mexico, Central America,
+                                 Colombia.
+  var. annuum     cultivated   Southern U.S., Mexico, Central America.
+C. baccatum
+  var. baccatum   wild         Southern Peru, Bolivia.
+  var. pendulum   cultivated   Southern Colombia, Ecuador, Peru, Bolivia, southern
+                                 Brazil, northern Chile, and Argentina.
+C. chinense       cultivated   West Indies, lowland South America south to Bolivia and
+                                 southern Brazil.
+C. frutescens     wild and     Mexico, Central America, lowland South America south
+                    cultivated   to Bolivia and Brazil.
+C. pubescens      cultivated   Highland South America.
+
+
+Table i Pre-Conquest distribution of the cultivated species of Capsicum.
+
+
+   Since there are wild plants related to most of the cultivated varieties, and
+since the different species are separated by well-marked barriers to gene
+exchange2, it is probable that these species existed before the development of
+agriculture and that each was domesticated independently. Moreover, since
+the species have somewhat distinct ranges even today, they were probably
+domesticated in different areas by different groups. It is, of course, possible
+that the wild varieties found today represent weedy plants descended from
+cultivated varieties, but studies on their cytology and ability to intercross3
+suggest that the wild varieties are more closely related to one another, and
+hence closer to any common ancestor of this group, than are the cultivated
+varieties.
+   Little is known about a number of other species of limited distribution. In
+Bolivia, fruits of C. cardenasii and C. eximium are collected and sold in the
+markets, and the same is true of C. praetermissum in south-eastern Brazil.
+Toleration rather than cultivation of useful but weedy peppers is character¬
+istic also of primitive agricultural systems in Amazonia, where peppers seldom
+seem to be sown deliberately but spontaneously germinating plants are
+preserved even if they come up in the middle of the manioc patch or banana
+                                         The domestication of chili peppers   445
+
+grove. Peppers probably occupied a similar privileged status as tolerated
+weeds in the initial stages of their domestication.
+
+
+
+      Changes occurring under domestication
+
+ Chili peppers are particularly favourable for studying evolution under
+ domestication since so many of the species contain both wild and cultivated
+varieties. These can be crossed and the genetic bases of the differences
+between them studied. The archaeological record, although incomplete, may
+date some of the stages in their domestication.
+   Wild peppers all have in common small, red, pungent fruits, which may be
+spherical, oval, conical or elongate, borne erect on the plant, and deciduous,
+i.e. readily separating from the persistent calyx. The seeds are probably
+dispersed by birds, attracted by the bright colour of the exposed fruits and
+seen feeding avidly on the flesh of even the most pungent varieties. Under
+cultivation, one of the first changes to occur was loss of this dispersal mech¬
+anism. Since man was growing the plants for their fruits, he selected, con¬
+sciously or unconsciously, for non-deciduous fruits which would remain on
+the plants until harvested. This character is controlled by a single major gene,
+and the dominant allele produces deciduous fruits4, so once a mutation to the
+recessive, non-deciduous allele had occurred it would be relatively easy to
+eliminate deciduous fruits by selection. The position of the fruits also
+changed from erect to pendant. This was perhaps in part a consequence of the
+increased size and weight of the fruit in cultivated forms, but a mutation to
+pendant would again protect the crop from bird damage, since pendant fruits
+are hidden amongst the foliage and not conspicuous.
+   Size, shape and colour of the fruits also varied enormously under human
+selection. Observations of this type have repeatedly been made on cultivated
+plants, leading to the generalization that variability is greatest in that part of
+the plant that is of economic importance. Red, orange, yellow and brown
+fruits developed independently in all four cultivated Capsicum species and
+there is also much parallel variation in fruit shape.
+   Another effect of domestication seems to have been a shift to increased self-
+pollination. Comparison of wild and cultivated varieties shows that wild
+plants have relatively long styles exserted beyond the anthers, while in
+cultivated plants the stigma is at or near the level of the anthers, so that self-
+pollination is more likely. Self-incompatibility, reported for some wild species
+of Capsicum, is unknown in cultivated varieties. Increased inbreeding could
+have been caused by selection by man for high fruit set, or for plants which
+bred true from seed, or by movement of the crop into an area in which
+natural pollinating agents were uncommon. Once self-pollination is estab¬
+lished, several distinct types can be grown in a small area without losing their
+identities by intercrossing. Standley5 reported a practice among the Indians of
+446   Part IV Plants    pickersgill
+
+Guatemala which, if widespread, would also increase the amount of inbreed¬
+ing. He stated that varieties of maize and beans “are often very local and
+carefully guarded, but not because they are believed superior to varieties
+grown by neighbours. The Indians cherish a firm belief that it is best to plant
+seeds grown on the premises. Otherwise the plants would never be happy;
+they would become homesick, as it were, pine away, and the crop would fail.”
+
+
+
+      The archaeological record
+
+Chili peppers have been identified from sites in both Middle and South
+America. In Mexico, peppers have been recorded from MacNeish’s excava¬
+tions in Tamaulipas6 and Tehuacan7. In both areas peppers are present in the
+earliest levels, dating back to about 7000 b.c. This antedates the development
+of agriculture and implies that wild plants were being exploited. These
+Mexican specimens have sometimes been assigned to C. frutescens, but I
+have seen photographs of broken fruits from Palo Blanco levels at Tehuacan
+(700 b.c.-a.d. 200) and these relatively large fragments with the calyx still
+attached look to me more like cultivated C. annuum.
+   In South America, chili peppers have been found in sites on the coast of
+Peru. Peppers are thus far unknown from pre-agricultural sites in this region,
+which suggests that they did not occur wild here but were introduced from
+elsewhere. The first plants cultivated were apparently gourds and squashes8,
+but by 2000 b.c. peppers were grown in the Ancon area on the central coast9
+and at Huaca Prieta on the north coast10. I have studied material from both
+ areas and consider that these specimens came from cultivated, not wild,
+ plants. Fruits from the lowest levels in both areas had the calyx attached,
+ which suggests that the non-deciduous character, typical of cultivated plants,
+ was already established. At Huaca Prieta, both red and orange fruits were
+ present in the lowest levels, which again suggests selection under cultivation,
+ since orange fruits are unknown among wild forms. Seed width also falls
+ within the range of cultivated rather than wild plants.
+    If the material is in good condition it is possible to identify more precisely
+ the cultivated species represented in sites in South America. C. pubescens can
+ be distinguished from C. baccatum and C. chinense by its black seeds, but it
+ has not yet been recorded archaeologically. C. baccatum and C. chinense both
+ have straw-coloured seeds, but C. baccatum has a toothed calyx with prom¬
+ inent veins, while in C. chinense the calyx is entire and the veins less con¬
+ spicuous. The fruits from Ancon and the lower levels of Huaca Prieta
+ represent C. baccatum. This species was domesticated in southern Peru or
+ Bolivia11. The material from both Huaca Prieta and Ancon belongs to the late
+ Preceramic Stage and during this stage cotton, Canna and Canavalia beans
+ also reached the coast, probably spreading from the same centre as C.
+                                        The domestication of chili peppers   447
+
+
+baccatum. This suggests that southern contacts played an important part in
+the development of coastal cultures at this time.
+   The Huaca Prieta specimens show that C. baccatum was gradually improved
+under human selection. Seeds and fruits increased in size and deciduous
+fruits were eliminated. However, in H.P.3 D2 and succeeding levels, mean
+seed width decreased, deciduous fruits reappeared, and the shape and calyx
+characters of some of the fruits suggest that a second species, C. chinense, at a
+less advanced stage of domestication, was introduced. The centre of diversity
+of C. chinense today is east of the Andes and its domestication was probably
+connected with the development of agriculture in the tropical forests. It may
+well have spread in association with manioc, which apparently reached the
+coast of Peru at about the same time as this pepper.
+   As more archaeological material becomes available, it should be possible to
+assess more accurately the interplay between different areas of the New
+World on the basis of changes in the cultivated plants. Present evidence
+indicates that agriculture developed along surprisingly independent lines in
+Mexico and Peru12. Even when die same crop was cultivated in the two areas,
+it was often represented by different species, as for example the amaranths,
+chenopods, Canavalia beans and chili peppers. In Peru, on the other hand,
+although one might expect the desert coast and the Amazon jungles to have
+been effectively isolated by the barrier of the high Andes, contact between the
+different regions seems to have been effective and prolonged, as shown by the
+presence of manioc, peanuts and C. chinense, domesticated in the tropical
+forests, in prehistoric sites on the coast.
+
+
+
+       The historical record
+
+Chili peppers were a new and valuable spice to Europeans at a time when the
+desire to obtain spices was providing a considerable impetus to exploration.
+They were the most important spice encountered by Columbus in his un¬
+successful attempt to find a route to the East Indies. Several of the Spanish
+chroniclers thus devoted considerable space to these peppers.
+  Perhaps Cobo13, who travelled throughout much of Spanish South America
+early in the seventeenth century, has given the best description of the vari¬
+ability then present in chili peppers. He reported that “one is as large as limes
+or large plums; another, as small as pine nuts or even grains of wheat, and
+between these two extremes are many different sizes. No less variety is found
+in colour. . . . The same difference is found in form and shape; for one is
+round; another, elongated, and others, of many other forms. . . . Finally, the
+different kinds of peppers found in these Indies are so many that they exceed
+forty.” Garcilaso de la Vega14 mentioned both yellow and brown fruited
+forms [and both Acosta15 and Oviedo16 reported sweet varieties. It is thus
+clear that the great variability in these peppers was established by the time of
+448   Part IV Plants    pickersgill
+
+
+the Spanish Conquest and was not a product of the trade and opportunities
+for hybridization created by European colonization.
+   It is difficult to identify the species recognized today in the chroniclers’
+descriptions. The rocoto, described by Cobo17 as having a leaf “very different
+from the other kinds of pepper, for it is much larger, not as smooth, of a dark
+green” is probably C. pubescens, since this species has hairier leaves than most
+cultivated varieties and is still called rocoto today. Oviedo18 described a pepper
+which “has (small green fruits) mottled with black, . . . not the whole fruit,
+but some part of it”. This is almost certainly C.annuum var. minimum, which in
+Colombia is gathered while the fruits are still green. It has not proved possible
+to distinguish between C. chinense and C. baccatum in the chroniclers’
+accounts.
+   All the chroniclers agree on the importance of peppers to the Indians.
+According to Cobo19, “pepper holds first place, after maize, as the plant most
+common and of greatest esteem amongst the Indians”. The fruits were used
+in stews or soups, with meat or fish, and the leaves could be used to make a
+sauce similar to parsley20. Salt and tomatoes were sometimes used to temper
+the pungency of the fruits21. Besides being used fresh, the fruits were pre¬
+served by pickling, which was the form preferred for sea voyages22, or by
+drying.
+   The value of pepper fruits to the Indians, and the fact that they could be
+preserved and stored for some time, may have led to their becoming a form of
+money in Peru, in the same way that cacao beans did among the Aztecs.
+According to Valcarcel23, “under the Inca money was not known and certain
+preferred products like peppers were perhaps the rudiments of a monetary
+system. Until a few years ago one could shop in the plaza of Cuzco with the
+so-called ‘Rantii’, which was a handful of peppers.”
+   Not surprisingly, in view of their secular importance, chili peppers also
+figured in religious belief and custom. One form of the Inca creation myth
+names the four brothers who emerged at the beginning of the world as Manco
+Capac, who became the first Inca, Ayar Cachi (Cachi = salt), Ayar Uchu
+(Uchu = chili pepper) and Ayar Sauca (Sauca = pleasure). The allegorical
+interpretation given by Garcilaso24 is that “by the salt they say that the
+instruction which the Ynca gave in the rational life is to be understood. The
+pepper represents the delight they received from this teaching, and the word
+for pleasure is to show the joy and satisfaction in which they afterwards
+lived.”
+
+
+
+      Summary
+
+The evolutionary history of chili peppers is being traced by a combination of
+morphological, cytogenetical and archaeological studies. At least four species
+were grown, in the New World at the time of the Spanish Conquest and these
+                                          The domestication of chili peppers     449
+
+
+species seem to have undergone parallel but independent domestication and
+selection in different areas. Chili peppers are among the most ancient culti¬
+vated plants and may prove as valuable as some inorganic artifacts in tracing
+cultural contacts in the Americas25.
+
+
+
+      Notes
+      1 Smith, P. G. and Heiser, C. B., Jr. (1957). Taxonomy of Capsicum
+        sinense Jacq. and the geographic distribution of the cultivated Capsicum
+        species. Bull. Torrey Bot. Club, 84, pp. 413-20.
+      2 Smith, P. G. and Heiser, C. B., Jr. (1957). Breeding behaviour of culti¬
+        vated peppers, Proc. Amer. Soc. Hort. Sci., 70, pp. 286-90; Eshbaugh,
+        W. H., III. (1964). A numerical taxonomid and cytogenetic study of certain
+        species of the genus Capsicum, Ph.D. thesis, Indiana University; Pickersgill,
+        B. (1966). The variability and relationships of Capsicum chinense Jacq.,
+        Ph.D. thesis, Indiana University.
+      3 Pickersgill, B. 1966). ibid, and unpublished data.
+      4 Lippert, L. F., Smith, P. G., and Bergh, B. O. (1966). Cytogenetics of the
+        vegetable crops. Garden pepper, Capsicum sp., Bot. Rev., 32, pp. 24-55.
+      5 Standley, P. C. (1946). Food plants of the Indians of the Guatemalan
+        highlands, J. Arnold Arbor., 27, pp. 395-400.
+      6 Kaplan, L. and MacNeish, R. S. (i960). Prehistoric bean remains from
+        caves in the Ocampo region of Tamauhpas, Mexico, Botanical Museum
+        Leaflets, Harvard University, 19, pp. 33-56.
+      7 MacNeish, R. S. (1964). Ancient Mesoamerican civilisation, Science, 143,
+        PP- 531-7-
+      8 Lanning, E. P. (1965). Early man in Peru, Scientific American, 213, pp.
+        68-76.
+      9 Moseley, M. E., Personal communication.
+     10 Bird, J. (1948). America’s oldest farmers, Nat. Hist., 57, pp. 296-303 and
+        334-5-
+     11 Pickersgill, B. Unpublished data.
+     12 Heiser, C. B., Jr. (1965). Cultivated plants and cultural diffusion in
+        Nuclear America, Amer. Anthrop., 67, pp. 930-49.
+     13 Cobo, B. (1653). Historia del Nuevo Mundo. Reprinted in 1956 in Biblio-
+        teca de Autores Espaholes, 91. Madrid. The quoted passages have been
+        translated from this reprint.
+     14 Garcilaso de la Vega, I. (1609). Comentarios Reales. Primera parte. Trans¬
+        lated and edited by C. R. Markham for the Hakluyt Society Works, 2 (45),
+        London. 1871.
+     15 Acosta, J. de. (1590). Historia Natural y Moral de las Indias. Translated
+        in 1604 by E. Grimston and edited by C. R. Markham for the Hakluyt
+        Society Works, 60 and 61, London. 1880.
+     16 Oviedo y Valdes, G. F. de. (1547). Historia General y Natural de las
+        Indias. Reprinted in 1959 in Biblioteca de Autores Espaholes, 117, Madrid.
+        The quoted passage has been translated from this reprint.
+     17 Cobo, B. (1653). ibid.
+     18 Oviedo y Valdes, G. F. de. (1547). ibid.
+     19 Cobo, B. (1653). ibid.
+     20 Cobo, B. (1653). ibid.; Oviedo y Valdes, G. F. de (1547). ibid.
+     21 Acosta, J. de. (1590)- ibid.
+     22 Cobo, B. (1653). ibid.
+     23 Valcarcel, L. E. (1925). Del ayllu al imperio. Lima. The quotation has been
+        translated from the Spanish.
+450    Part IV Plants    pickersgill
+
+      24 Garcilaso de la Vega, I. (1609). ibid.
+      25 The work reported here was supported in part by a grant from the
+         National Science Foundation of the United States to Dr. C. B. Heiser,
+         Jr., who supervised the thesis from which this paper has developed. I
+         should like to thank the Instituto Nacional de Antropologia e Historia,
+         Mexico City, for photographs of pepper fruits from Tehuacan; Dr. M.
+         Towle for loan of the specimens from Huaca Prieta in the Harvard
+         Botanical Museum; and Mr. M. E. Moseley for making available speci¬
+         mens and unpublished data from his excavations at Ancon.
+      J. SMARTT
+
+      Evolution of American Phaseolus beans under
+      domestication
+
+      Introduction
+
+ Studies of crop plant evolution are of interest to both the plant breeder and
+ the archaeologist. The plant breeder cannot hope to understand the present
+ state of his crop plants without some knowledge of their evolutionary history
+while the archaeologist needs to know the role which specific crops played in
+the life of human communities in the past and for how long they have been
+significant in them.
+    Many botanists, geneticists and agriculturists have been interested in
+studies of crop plant evolution. Typical of the kind of work which has been
+done is that of Simmonds1 on bananas, Hutchinson et al2 on cotton and
+several others3. Most evolutionary studies of crop plants have been a by¬
+product of straightforward plant breeding projects. In the effort to broaden
+the genetic base of a given crop plant land races or relatively “unimproved”
+varieties were first exploited followed by ancestral wild forms and related
+species. As a result of such work a more or less clear picture of probable
+phylogenetic relationships has frequently emerged over a period. In the
+present study this approach could not be used. The great mass of taxonomic
+and genetical data necessary simply was not available.
+   In the present world food situation the actual and potential importance of
+the protein rich grain legumes is such that much more detailed study is re¬
+quired before much improvement can be made in them. To form some idea
+of the evolutionary history of a group of plants such as the New World species
+of Phaseolus it has been necessary to consider the published evidence available
+and where necessary to try to fill gaps as far as possible by further experiment
+and observations. This work began in early 1965 at the School of Agriculture,
+Cambridge under the direction of Professor Sir Joseph Hutchinson. A
+considerable range of Phaseolus material had already been assembled and this
+was added to quite considerably during the course of the work.
+452   Part IV Plants    smartt
+
+
+
+
+      Taxonomy
+
+The genus Phaseolus belongs to the tribe Phaseoleae of the Leguminosae and
+is related to other genera with cultigens such as Vigna and Dolichos. The more
+conservative authorities consider that the genus Phaseolus contains about 150
+species4. This number is probably inflated by synonyms, Mackie5 listed
+18 for one species (Phaseolus lunatus L.) alone and this is probably not
+exceptional.
+   Four distinct groups can be recognized easily within the genus namely
+
+1 Phaseolus proper or Euphaseolus6: the large seeded American beans
+2 Macroptilium1: very small seeded American forms
+3 Azukia8: rather small seeded Asiatic forms
+4 Caracallae9: forms with characteristic “snail flowers”.
+
+These groupings consist of forms which have similar flower and pod morph¬
+ology which have been grown at Cambridge and are by no means a complete
+breakdown of the genus. The taxonomic treatments of the genus available
+at the present time are not only unhelpful but positively misleading; de
+Candolle, Taubert and Piper10 all place some closely related species in
+different sections of the genus. The quality of much of the herbarium
+material available is very poor, without flowers very often and inadequate
+for reliable determination in many cases. A modern taxonomic revision of
+this important genus is long overdue.
+   The New World cultivated species Phaseolus vulgaris L., Ph. coccineus L.,
+Ph. lunatus L. and Ph. acutifolius A.Gr. were selected for study because they
+are most widely disseminated members of the genus and adequate material
+was available. Although accurate figures of the world production are not
+available, it is probable that Ph. vulgaris is the most widely cultivated,
+followed by Ph. lunatus and Ph. coccineus in that order with Ph. acutifolius in
+the lowest rank. These beans have all come to the Old World in post-
+Columbian times.
+
+
+
+      Archaeological record
+
+The archaeological record for Phaseolus in the New World is most impressive.
+Kaplan11 has reported radiocarbon datings of 7000 b.p. for Ph. vulgaris from
+Tehuacan, Mexico, 5300 B-p- for Ph. lunatus from Chilca, Peru, 5000 b.p. for
+Ph. acutifolius from Tehuacan, Mexico and 2200 B.P. for Ph. coccineus also
+from Tehuacan with a possible earlier dating of 7500-9000 b.p. from Ocampo
+in Mexico. These dates take us up to early agricultural times in America, yet
+Kaplan has reported that seed and pod material of Ph. vulgaris was basically
+                                   Evolution of American Phaseolus beans      453
+
+
+similar to modem beans. This suggests that the development of beans similar
+to modem types occurred quite rapidly in early agricultural times.
+   Kaplan has also concluded that Ph. lunatus was domesticated independently
+in Pern and Mexico, these different domesticates can be distinguished easily
+on seed size, the large, Peruvian macrospermus and the smaller Mexican
+microspermus type. It seems quite probable that domestication of Ph. vulgaris
+has been equally if not more complex; the present complex pattern of
+morphological variation in Ph. vulgaris could be perhaps a result of a
+complex pattern of domestication.
+   Because beans have such a long history under domestication it is possible
+that the divergence between the cultivated and wild forms has been so great
+as to make it difficult to relate cultigens to their wild progenitors. There is the
+additional possibility that the four species now in cultivation had a single wild
+progenitor. Both questions can be resolved easily; wild forms of all four
+species, obviously related to the forms in cultivation can be found. We can
+conclude that the origin of specific rank differences between the four species,
+all of which incidentally are diploid with 2n = 22 chromosomes, preceded
+domestication.
+   Kaplan has also pointed out the dietary importance of beans. Bean seeds
+are rich in lysine and tryptophane, two essential amino-acids deficient in
+maize. The two crops complement each other and together produce a reason¬
+ably balanced diet. In the absence of domesticated animals this combination
+of crops is highly advantageous and even at the present time, notwithstanding
+ the introduction of cattle and other domestic animals, Phaseolus beans still
+make an important contribution of protein to the Mexican diet.
+
+
+
+      Comparative morphology of wild forms
+
+      1 Growth habit
+
+The wild forms of the four Phaseolus species we are considering have basically
+the same growth habit. This they share with other wild species such as Ph.
+polystachyus (L.) B.S.P., which have produced no cultigens. Ph. polystachyus
+is called the thicket bean and its habit of growth enables it to become estab¬
+lished and survive in such a plant community. The main axis is slender and
+ascending and may reach a length of several feet, six or even more. Lateral
+branches are produced profusely which initially are not ascending but grow
+out more or less horizontally and straight for considerable distances (two
+or three feet, perhaps more) before assuming the twining and ascending
+pattern of growth. In this way thicket vegetation can become thoroughly
+infiltrated by the growth of these plants in a relatively short time.
+   Some differences in response have been observed in experimental cultiva¬
+tion. The primitive form of Phaseolus coccineus {Ph. formosus H.B.K.) when
+454   Part IV Plants    smartt
+
+
+grown in open ground does not climb or scramble but first covers the soil
+with a mat of vegetation, only when this is done will it climb. On the other
+hand primitive Ph. vulgaris (ssp. aborigineus Burk.) is climbing in open
+ground; in greenhouse cultivation however both forms are climbing from the
+outset.
+
+      2 Flower, fruit and seed characters
+
+Lilac flowers are found in all four species in the wild. In addition red and
+pink flowers are found in wild Ph. coccineus (the pink flowered individuals are
+hybrid) and white flowers are found in some northern collections of Ph.
+vulgaris ssp. aborigineus.
+   Basic flower structure is very similar indeed in all four species. Size of
+flowers is greatest in Ph. coccineus, least in Ph. lunatus. The stigmatic surface
+is outwardly directed or nearly terminal in Ph. coccineus (JPh. formosus) and
+inwardly directly in the others. This is associated with a greater tendency to
+cross-pollination in Ph. coccineus. Self-pollination is perfectly feasible, the
+stigmatic surface however requires scarification before pollen will grow in Ph.
+coccineus-, this is not required in the other three species. The young pod is
+rather fleshy in Ph. vulgaris and Ph. coccineus but fibrous in Ph. acutifolius
+and Ph. lunatus. The number of seed per pod is characteristically never more
+than four in Ph. lunatus but may range up to eight or nine in the other
+species.
+   Testa colour and pattern is basically similar throughout the four species
+(and also Ph. polystachyus). This is basically grey or brown with a dense
+pattern of darker spots and blotches. Self-coloured testas do occur, black-
+seeded Ph. lunatus and Ph. vulgaris and buff-seeded Ph. coccineus (formosus)
+have been collected from the wild.
+   Seed dormancy occurs as a rule due to “hard-seededness”, in addition Ph.
+acutifolius requires a post-harvest maturation period before germination can
+occur.
+   Flowering and fruiting in Phaseolus may be affected by day length, a
+common enough occurrence in plants from low latitudes. In the Cambridge
+collection of Phaseolus, wild representatives of Ph. vulgaris have the most
+rigid photoperiodic requirement; one accession from N.W. Argentina does not
+flower before October under normal day lengths in England. Other lines will
+flower earlier than this but not usually until the summer solstice is past. It is
+possible to induce such forms to flower in Spring by early sowing in the
+greenhouse. Two distinct types of photoperiodic response have been
+observed, the first for a specific day length and the second for a declining
+day length. This subject merits detailed study under carefully controlled
+conditions.
+  In addition to photoperiod-sensitive lines, day-neutral strains can be found
+which will flower at almost any time of the year under long or short days.
+                                  Evolution of American Pbaseolus beans      455
+
+
+
+
+      3 Variability in wild populations
+
+The sampling of wild populations we have been able to make is much smaller
+than we would have liked but it does indicate that the variability within each
+species in the wild may be quite considerable. Some of the conclusions we
+might draw from the changes we believe to have followed domestication
+must be subject to the proviso that such differences might already have
+existed in wild populations, though perhaps not extensively. There can be
+little doubt however that in the early days of domestication, progress in the
+improvement of beans was assisted by the variability which existed in the
+populations of the wild form of a given species.
+
+
+
+     Ecological considerations
+
+In nature all four species do not occur together in the same habitat. A range of
+habitats is exploited from the cool, moist montane conditions in which Ph.
+coccineus flourishes to the arid, semi-desert conditions in which Ph. acutifolius
+is found. Warm temperate conditions are optimal for Ph. vulgaris whereas Ph.
+lunatus grows best in the tropics and sub-tropics.
+   The environments which the members of this genus can exploit cover an
+enormous geographic range from Scandinavia to New Zealand; it is regret¬
+table that these valuable plants are not exploited more fully, especially in the
+tropics where they could provide additional protein for human nutrition.
+
+     Response to domestication
+
+
+The New World cultigens in the genus Phaseolus provide an opportunity to
+test Vavilov’s principle of homologous variation. One would expect responses
+to be qualitatively similar and to a considerable extent they are. Of course the
+selection pressures to which the different species have been exposed are
+different and the differences in response under domestication will in all
+probability reflect this. This does not of course exclude the possibility that
+the species have inherently different capacities to respond. The actual re¬
+sponse must therefore depend on both the capacity for response and the
+intensity of selection imposed.
+
+     1 Morphological responses
+
+(a) Growth habit.    The most obvious effect of domestication on most
+Phaseolus is the modification of growth habit. To take Phaseolus vulgaris as an
+example, the physical difference in growth form between the wild ssp.
+aborigineus and a cultivated dwarf French bean variety is enormous. The
+16—DOPAA   *   *
+456   Part IV Plants    smartt
+
+
+differences between climbing or “pole” varieties and the wild forms are less
+but they are none the less real.
+   The major difference between wild and climbing beans on the one hand
+and the dwarf varieties on the other is principally in branching pattern. In the
+wild and climbing forms growth is indeterminate, the axes continue to grow
+indefinitely whereas in most dwarf varieties after the production of seven or
+eight nodes or less, growth of the main axis is terminated by an inflorescence.
+Lateral branches are terminated in a similar fashion. This difference is under
+very simple genetic control, by a single locus. Typical 3:1 ratios are given in
+F2 for crosses indeterminate X determinate in Ph. vulgaris, Ph. coccineus and
+Ph. lunatus12.
+    The differences between primitives and climbers are rather more subtle.
+ In both the main axis is ascending and behaves similarly. The behaviour of
+ the lateral branches is quite different. In the primitives these are numerous
+ and can grow to enormous lengths. In cultivated climbers these are very
+ considerably reduced in number and if they grow to any considerable length
+ are ascending from the outset, there is no diageotropic tendency. In the most
+ advanced climbers the growth form is pyramidal, the first laterals are the
+ longest, successive branches are progressively shorter. Laterals are often
+ produced only at the first seven or eight nodes.
+   The selection of growth habits has been related to development of agricul¬
+ tural practice. It is generally believed that maize and beans were grown
+ together. The maize stalks provided support for climbing beans. However if
+ beans with the wild growth habit were grown, unless the maize plants were
+ well separated the whole plot would become an enormous tangle by the time
+either the beans or maize were mature. A reduction in the production of
+lateral branches is clearly advantageous in these circumstances. This seems to
+have come about by selection at the polygenic level. Among domesticated
+climbing beans there is a considerable range of variation in the extent to
+which lateral branching is suppressed.
+   After a period of mixed cropping of maize and beans, single crop cultiva¬
+tion was probably attempted and in these circumstances the dwarf-determin¬
+ate growth habit was advantageous. In nature or in mixed cultivation the
+dwarf determinate mutation would have been effectively lethal. It is of course
+on the dwarf-determinate form that the present commercial production of
+beans for canning and processing is based. Man has here preserved and
+propagated a key mutant in Phaseolus on which its future as a crop plant has
+depended. Kaplan13 has mentioned vegetative remains of a dwarf bean 800
+years old which was found in Tamaulipas. Since differences in seed characters
+are not correlated in any way with growth habit nothing can be inferred in
+regard to the growth form of more ancient material.
+   Ojehomon11 at Cambridge studied comparatively the development of
+indeterminate and determinate forms of Ph. vulgaris and has suggested that
+the terminal inflorescence of a determinate is equivalent to the axillary
+                                Evolution of American Phaseolus beans      457
+
+inflorescence of an indeterminate at the seventh or eight node on the main
+axis. That is the lowest node which bears an inflorescence. Froussios (un¬
+published) has classified three distinct growth forms on the basis of both
+growth habit and branching pattern these are:
+
+1 Indeterminate climber
+2 Indeterminate bush or dwarf
+3 Determinate bush or dwarf.
+
+To this list the class indeterminate-scramblers represented by the primitive
+forms can be added.
+   The full range of growth forms can be found in Ph. vulgaris. No dwarf-
+indeterminates have been reported in Ph. coccineus and Ph. lunatus; however,
+all cultivars of Ph. acutifolius are of this type.
+
+(b) Size of vegetative plant parts.  We have considered how under domesti¬
+cation the production of lateral branches has been reduced in the climbers
+and the length of the main axis and lateral branches has been curtailed in
+dwarf forms. Without compensating increases in the size of plant parts, stems
+and leaves principally, it is doubtful whether the plant could have responded
+successfully to selection. A determinate mutation in the genetic background
+of Ph. vulgaris ssp. aborigineus would have produced a spindly plant perhaps
+six inches high with very low productive capacity. It seems probable that
+what has happened is that selection for increase in leaf and stem size proceeded
+hand in hand with that for reduction in production of lateral branches. The
+genetic control of these could well be independent. Certainly experimentally
+produced F2 progeny from the cross Ph. coccineus cr. Hammond’s Dwarf
+Scarlet X Ph. coccineus {Ph. formosus) show segregants combining the
+determinate dwarf habit of the cultivar with the small leaf of the primitive
+parent.
+   The consequences of domestication have been reductions in the number
+of branches and leaves with a compensating increase hi leaf size together with
+correlated increases in stem diameter. When the new balance was struck in
+the climbers, the determinate mutant became viable in cultivation because
+the individual plant had sufficient leaf area to produce an adequate yield of
+crop.
+   The response pattern outlined has been recorded in all species but Ph.
+acutifolius. In this species leaf and stem size have not increased, the plant
+habit is bushy rather than climbing and no determinate forms have become
+established.
+
+(c) Changes in reproductive plant parts.    Flower size is appreciably larger in
+cultigens of Ph. coccineus and Ph. vulgaris than in primitive forms but little or
+no change has apparently occurred in Ph. acutifolius and Ph. lunatus. Changes
+in flower colour have occurred: white flowers are found in cultivated Ph.
+458   Part IV Plants     smartt
+
+
+coccineus, Ph. lunatus and Ph. acutifolius but not in the wild, and lilac flowers
+are found among the cultigens of all species except Ph. coccineus. Every
+species therefore has two common flower colour variants, red and white
+in Ph. coccineus and lilac and white in the other species.
+   The most important change which has taken place in the reproductive
+parts is pod and seed size. Seed number per pod has not changed significantly
+except in Ph. acutifolius in which up to nine seeds may be found in wild forms
+but rarely more than six in cultivars. Pod and seed size has increased most in
+Ph. coccineus; primitive pods rarely if ever exceed three inches in length. Pods
+of cultivars with the same number of seeds may be well over a foot in length.
+The weights of individual seeds of any wild species do not usually exceed
+o-i gm. by very much; the seed of cultivars of Ph. coccineus may be as much as
+i-o gm. in weight. Seed weight has increased by a factor of about eight. In the
+other species increases in pod and seed size have not perhaps been as great but
+in Ph. vulgaris and Ph. lunatus they are none the less striking and a five- or
+six-fold increase at least has been achieved in some cultivated varieties. In Ph.
+vulgaris there is a continuous range of seed size from the primitive to the
+largest seeded cultivated form. In both Ph. coccineus and Ph. lunatus there is
+at the present time a very sharp discontinuity between primitive and culti¬
+vated races in seed size. A much less striking increase in seed size has occurred
+in Ph. acutifolius, probably only by a factor of three.
+  Preliminary studies have begun on the inheritance of seed size in Ph.
+coccineus. The indications are that it is determined polyfactorially but no
+estimate of the number of effective factors can be made at the present time.
+  One of the most remarkable features of cultivated beans is the enormous
+range of testa colours and patterns which can be found. Four main colour
+groups have been identified in Ph. vulgaris; similar groups doubtless occur
+but have not been studied as extensively in other species. They are white,
+black, red and brown. Superimposed on these ground colours may be various
+patterns of spots, flecks, stripes and eyes. The genetics of basic testa colours
+is fairly simple with probably at least two loci involved; that of the
+patterns is more complex.
+  An important property of the testa is its permeability to water. Wild
+species are characteristically hard-seeded and unless the seed surface is
+abraded do not absorb water readily. Kaplan15 considered that the loss of this
+property was an important factor in the domestication of beans. Cultivated
+beans as a rule absorb water readily through the testa without abrasion.
+Rathjen11’ at Cambridge has found that hard seed may be produced by Fx
+intervarietal hybrids in Ph. vulgaris. These hybrids were between lines of
+poor genetical combining ability and much of the seed was rather poorly
+developed. It has been suggested that the relative growth of embryo to testa
+is greater in cultigens than in wild forms and that stretching increases
+permeability. In the reported instances where embryo growth is poor the
+testa is unstretched and may be impermeable as a result.
+                                     Evolution of American Phaseolus beans    459
+
+   Pod structure is basically similar in wild forms and the more primitive
+ cultigens. In cultigens generally there is a tendency for dehiscence to be
+ reduced without necessarily any gross change in anatomical structure. Apart
+ from this consideration no other change has occurred in the pods of Eh.
+ lunatus and Eh. acutifolius, under domestication both are very fibrous. Pods of
+ Eh. vulgaris and Eh. coccineus are even in the wild state less fibrous than those
+of Eh. lunatus and Eh. acutifolius. Under domestication the fibre content of
+the pods has been further reduced, more so in Eh. vulgaris than in Eh.
+coccineus. Three distinct pod textures are found in Eh. vulgaris namely:
+
+ 1 parchmented—very fibrous—dehisces strongly at maturity
+2 leathery—less dehiscent—splits readily along the sutures
+3 stringless—indehiscent—does not split readily along the sutures.
+
+   Varieties with parchmented pods are used entirely for dry seed production,
+leathery podded varieties can be used either for green pod production when
+young or haricot production when fully mature. Stringless beans are used
+entirely for the production of green pods.
+
+
+     2 Change in life form
+
+
+Eh. coccineus and Eh. lunatus are perennial species fundamentally although in
+cultivation frequently treated as annuals. The determinate forms of both
+species show a tendency towards the annual life form. Eh. vulgaris ssp.
+aborigineus includes both annual and perennial forms, the accessions in the
+Cambridge collection from Argentina are annuals, a single accession from
+Mexico is perennial and produces a similar type of root-tuber to Eh. coccineus
+and Eh. lunatus. Eh. acutifolius is a strict annual.
+  There is a tendency under domestication for selection towards the annual
+life form, this is reinforced by the ever increasing use of determinate dwarf
+forms.
+
+     3 Ehysiological responses
+
+
+(a) Fhotoperiod sensitivity. The genus Ehaseolus in America has its centre of
+distribution in tropical and sub-tropical latitudes. Collections of cultivars
+from this area almost invariably include forms which are photoperiod
+sensitive. Photoperiodic response shows a range from day-neutral to a require¬
+ment for a twelve hour day for flower induction. In Eh. vulgaris photoperiod
+sensitivity is not confined to any particular morphological type and is found in
+them all, likewise day-neutrality. The occurrence of varying degrees of
+photoperiod sensitivity in wild forms suggests that the alleles for day length
+sensitivity have never been fixed. The migration of Eh. vulgaris into North
+America in pre-Columbian times ensured that day-neutral alleles were fixed
+in these populations but not in those near the centre of origin.
+460   Part IV Plants    smartt
+
+
+  Segregations in F2 of hybrids between a photoperiod-sensitive primitive
+and a day-neutral cultivated type gave typical monofactorial ratios of 3
+sensitive : 1 day-neutral. The range in photoperiod sensitivity suggests that
+other genetic loci may influence the expression of this character.
+
+
+(b) Seed dormancy.     In addition to dormancy imposed by hard seed, there is
+dormancy in primitive Ph. acutifolius which is apparently imposed by a post¬
+harvest maturation period. There is some evidence that this may also occur in
+Ph. vulgaris ssp. aborigineus. In general, however, no difficulty has been found
+in germinating fairly fresh seed (i.e. within two months of harvest) of other
+species.
+
+      Experimental hybridization
+
+Crosses have been made experimentally between primitive and cultivated
+forms of all four species. Fertility of the Fx hybrids has been perfectly normal
+with very few exceptions and F2 progenies have been raised and examined.
+Simple monofactorial segregations have been observed for branching pattern,
+photoperiod sensitivity and flower colour. Seed size and seed coat colour
+segregations are more complex and require much more detailed study.
+Certainly there are no grounds to suppose that there is any kind of fertility
+barrier between primitive and cultivated forms. Flower and seed morphology
+differs most widely between Ph. coccineus cultivars and the presumed primitive
+ancestral form Ph. formosus. The stigma of Ph. coccineus is lateral, elongate
+and outwardly directed; in Ph. formosus it is capitate and terminal. The seeds
+are nearly circular in outline, the hilum a broad oval in Ph. formosus, whereas
+Ph. coccineus seeds are more kidney-shaped and the hilum is elongate. In the
+three other species there is very close correspondence in flower and pod
+morphology between primitive and cultivated forms. Although de Candolle
+more than a century and a quarter ago suggested that Ph. formosus was
+ancestral to Ph. coccineus, it is possible that an undescribed form may yet
+exist which is actually closer to the ancestral type.
+
+
+
+      Conclusion
+
+In conclusion it can be said that the response of New World Phaseolus species
+does provide a good illustration of Vavilov’s principle of homologous varia¬
+tion. In three of the four species, dwarf determinate forms occur and in two
+of them it is possible to demonstrate that an homologous locus is probably
+involved. In F2 progeny from an interspecific hybrid Ph. vulgaris (dwarf
+determinate) x Ph. coccineus (dwarf determinate) no segregation for branch¬
+ing habit was observed. It is not possible to cross either of these species with
+Ph. lunatus and establish genetic homology directly, but morphologically the
+                                   Evolution of American Phaseolus beans       461
+
+result is the same and a homologous locus in all probability does control
+branching habit in the three species.
+   The suppression of lateral branching in domesticated climbers accom¬
+panied by an increase in size of leaf and stem has followed a similar pattern in
+Ph. vulgaris, Ph. coccineus and Ph. lunatus although the most perfect pyra¬
+midal form is developed in Ph. vulgaris. In physiological terms the cultivated
+types show more pronounced apical dominance. The dwarf indeterminate
+growth form is subject to environmental modification. Ph. vulgaris varieties
+and cultivated Ph. acutifolius which develop this habit of growth out of doors
+may under greenhouse conditions behave as indeterminate climbers. It is
+possible that this change in form is controlled by the production of a growth
+substance, most probably a gibberellin, which is suppressed under conditions
+of high incident ultraviolet light.
+   Some question might also be raised on the question of determinate vs.
+indeterminate growth habits. The typical determinate dwarf cultivated bean
+bears its terminal inflorescence after not more than seven or eight nodes have
+been produced on the mam axis. In both Ph. vulgaris and Ph. coccineus
+climbing forms occur in which growth in length of the main axis is terminated
+by an inflorescence after twenty or even more nodes have been produced.
+This suggests that growth habit may be controlled by genes affecting in the
+first place internode length and secondly node number.
+   A general response in all beans to domestication has been increased seed
+size. Segregation data of F2 progeny studied so far indicate that this is
+probably polyfactorial. Detailed biometrical study of this important character
+is most certainly needed.
+   There is little doubt that in domestication Ph. vulgaris has proven to be the
+most versatile. It has produced the greatest range of variants, in growth
+habit, seed shape, seed-coat colour and pod texture. The environmental
+range is however restricted to warm and cool temperate climates and herein
+lies the greatest potential for future improvement. A versatile legume such as
+Ph. vulgaris could be exploited very intensively in the tropics if it could be
+grown there satisfactorily. There is the possibility that the production of
+amphidiploids between Ph. vulgaris and Ph. acutifolius might be a step in this
+direction, if they possessed the heat tolerance of Ph. acutifolius without serious
+loss of the pod and seed quality of Ph. vulgaris.
+   Kaplan17 has pointed out that in recent historic times the cultivation of Ph.
+acutifolius has contracted to a marked degree in Mexico and it seems quite
+likely that this species will disappear from cultivation in a relatively short
+while. The possibility of making use of it in hybridization should however be
+ borne in mind. There seems to be no immediate danger of the remaining two
+ species going out of cultivation, largely because these species extend beyond
+ the effective range of Ph. vulgaris cultivation, Ph. coccineus into cooler climatic
+ zones and Ph. lunatus into tropical regions.
+   We are still unable to pinpoint any single decisive factor which has
+462    Part IV Plants     smartt
+
+
+established Ph. vulgaris in its pre-eminent position among Phaseolus beans
+but the following factors are probably the most important.
+
+1 an inherent capacity to respond to selection
+2 the heavy selection pressures applied
+3 an early wide dispersion and selection over a range of temperature environ¬
+  ments in pre-Columbian times favouring a very rapid spread in post-
+  Columbian times.
+  The factor which has limited the spread of Ph. vulgaris has of course
+preserved the range of four species now in cultivation. There is no doubt
+that Gause’s law can be applied to crop plant species as well as those in the
+wild. Just as two very similar species cannot coexist indefinitely in the same
+natural habitat and exploit it in exactly the same way so two very similar crop
+plants will not persist indefinitely in cultivation under any given set of
+environmental conditions; one or other will fall by the wayside.
+
+
+
+      Notes
+        1 Simmonds, N. W. (1962). The Evolution of the Bananas. London.
+       2 Hutchinson, J. B., Silow, R. A. and Stephens, S. G. (1947). The Evolution
+           of Gossypium. Oxford.
+       3 Darlington, C. D. (1956). Chromosome Botany and the Origins of Cultivated
+          Plants. London; Hutchinson, Sir J. (ed.) (1965). Essays on Crop Plant
+          Evolution. Cambridge; Schwanitz, F. (1966). The Origin of Cultivated
+          Plants. Harvard.
+       4 Rendle, A. B. (1925). The Classification of Flowering Plants, 2. Cambridge.
+       5 Mackie, W. W. (1943). Origin, dispersal and variability of Phaseolus
+          lunatus, Hilgardia, 15, pp. 1-29.
+       6 Bentham, G. (1862). Genera Plantarum, 1. Hookerian Herbarium, Kew.
+       7 Hutchinson, J. (1964). The Genera of Flowering Plants, 1. Oxford.
+       8 Ohwi, J. (1953). Flora of Japan. (Japanese.) (Eng. trans. 1965.) Smith¬
+          sonian Inst., Washington.
+       9 de Candolle, A. P. (1825). Prodromus, 2. Paris.
+      10 de Candolle, A. P. (1825). ibid.; Taubert, P. (1891), in Engler, A. and
+          Prantl, K. Die Natiirlichen Pflanzen familien, 3. Leipzig; Piper, C. V.
+          (1926). American genera of Phaseolineae, Contributions, U.S. National
+          Herbarium, 22, p. 9.
+      11 Kaplan, L. (1965). Archaeology and domestication in American Phaseolus
+          beans, Econ. Bot., 19. pp. 356-68.
+      12 See also Allard, R. W. (1953). Inheritance of morphological characters in
+          lima beans, Hilgardia, 22, pp. 283-9.
+      13 Kaplan, L. (1965). ibid.
+      14 Ojehomon, O. O. (1966). The development of flower primordia of
+          Phaseolus vulgaris (L.) Savi, Ann. Bot., 30, pp. 487-92.
+      15 Kaplan, L. (1965). ibid.
+      16 Rathjen, A. (1965). Ph.D. thesis, Cambridge.
+      17 Kaplan, L. (1965). ibid.
+      W. R. STANTON
+
+    Some domesticated lower plants in South-east Asian
+food technology
+
+
+  The philosophy underlying the subject of the domestication of lower plants
+  has come under close scrutiny as part of the rapid expansion of research in
+  recent years into various novel methods of satisfying man’s requirement for
+  food, that is, in the face of a rapidly increasing world population.
+     I have used, in the title to this paper the broad taxon “lower plants” to
+ distinguish this process of plant evolution under the influence of man from
+•that of the previous speakers who have all been dealing with higher plants,
+ that is Angiosperms. The so-called lower plants comprise a very wide variety
+ of life forms most conveniently distinguished from the higher plants by their
+ reproductive system, but they may be considered from the point of view of
+ the present discussion as plant forms which do not normally occupy the environ¬
+ ments provided by agriculture, except to interfere with the normal course of
+ agriculture by causing diseases of higher plants, deterioration and spoilage,
+ and superficially interfering with man’s agricultural efforts.
+    However, on closer inspection of agricultural evolution in its broadest sense,
+ including fertility improvement, food harvesting, storage, and processing
+ (and in this context I include both the harvest of animals as well as the
+ gathering of plant parts), it is realized that a great diversity of autotrophic,
+ heterotrophic and parasitic plant forms associated with the main economic
+species have undergone concomitant changes. As with higher plant breeding,
+it is only within very recent times that a positive breeding approach has been
+directed towards the secondary organisms involved in natural-product
+production and utilization.
+    The term “plant” is of great antiquity as applied to the micro-organisms of
+Western food technologies. One has only to think of such terms as “vinegar
+plant” and “ginger-beer plant”; mushrooms and seaweeds used for food have
+also been described in this way. Otherwise, the lay classification made the
+distinction between “moulds”, “slimes”, and “ferments”, the recognition of
+the role of lower-plants in the last category being of relatively recent origin.
+    The constructive role of micro-organisms under domestication is almost as
+diverse as that of the higher plants of agriculture. This has not been solely a
+464   Part IV Plants    STANTON
+
+
+consequence of higher plant and animal domestication. Lower plants have
+opened up new possibilities in terms of food production and recovery,
+flavour improvement, toxic component removal, utilization of waste for food,
+supply of essential secondary food constituents, and such activities as binding
+by their thread-like structures, or disintegration from the activity of their
+extra-cellular enzymes as the need arose. Extra cellular enzyme processes are
+familiar in the technology of retting and the saccharification of starches.
+   A major part of the work of the microbiology department at the Tropical
+Products Institute is concerned with the diversity of constructive roles of
+micro-organisms as will be seen from Fig. 1.
+   I have confined my discussion to particular aspects of South-east Asian
+food technology for reasons which I will explain in a moment.
+   Even if one excludes the technologies of the manufacture of cheese, bread,
+beers, wine, vinegar and so on, lower plant domestication is not exclusively a
+tropical phenomenon. For instance, seaweeds are of very ancient usage in
+Welsh (lava-bread)1 and Norwegian food technology; lactic acid fermentations
+are important in the fermentation of temperate zone vegetables, although they
+assume a greater importance in the tropics2.
+   However, in a tropical and sub-tropical environment the food preservation
+methods of chilling, salting, and drying are impossible or less freely available.
+Even after treatment of the harvest by the second two methods, infection
+of the products with micro-organisms is likely to occur.
+   It is this interaction, that is “the presence of high salt concentration plus
+partial dehydration”, which is employed in the characteristic fermented fish
+sauces and pastes of South-east Asia. These products are daily items of diet
+and contribute as much as one third of the daily protein requirement, other
+than rice, to the diet. For this reason I have chosen a tropical region with a
+long history of food technology, and that is, an area with “millennia of history
+of fungi, food and fermentation” to quote the title of Hesseltine’s classical
+review of the subject3.
+   In Indonesia, at the heart of the region, fermented cakes of soya beans and
+groundnut provide about one-third of the total crude protein requirement of
+the population and these fermentation processes have been particularly
+studied in our laboratory because they can be applied to fermenting low-
+protein agricultural products to synthesize microbial protein in situ with
+added mineral nitrogen and other salts4.
+   Mushrooms, although a very common constituent of the South-east Asian
+diets, contribute a small proportion of the protein, and recent studies of the
+Basidiomycetes have shown that it would not be possible to meet the whole of
+the human protein requirement from the culture of this type of organism
+even by modern industrial methods. Nevertheless, the Dutch have recently
+considered it worthwhile to investigate the growing of the classical mush¬
+room of South-east Asia, the paddy-straw mushroom (Volvaria species)5 as
+part of the diversification of their industrialized food economy. The Basidio-
+                  C “O   <D
+                  £ o _c
+                  ° o tr
+                  U LL O
+
+
+
+
+;E
+•c
+<
+T3
+0)Q>
+CO
+
+
+ CO
+O)
+TO>
+<D
+
+            CD
+            c
+
+            <DO
+            O
+
+
+
+ CO
+
+ E
+ 0)
+ +->
+CO
+
+ w)
+ 0)
+x>
+,D
+
+
+
+ O
+ O
+cc
+
+
+ oD
+*D
+  O
+ (T3
+D
+ CD
+2                    o c ,9>
+
+
+
+
+       03
+       .o
+       03
+       •w
+       03
+       Q
+466     Pan IV       Plants    stanton
+
+
+mycetes, of which Volvaria is a member are, however, a particularly interesting
+ group of fungi in that they are the most important group which can
+ exploit cellulose as their carbon source of growth. The other main method
+ of utilizing cellulose has been via the ruminant, but the organisms in the
+rumen require an extremely specialized environment which it is difficult to
+simulate even under the most advanced laboratory conditions.
+   The paddy-straw mushroom can be regarded as a truly “domesticated”
+plant, although it appeared originally as a growth on the threshing and milling
+trash of the rice mill. Attempts have been made in recent years to select this
+organism and improve the growing conditions6. As always happens with
+increased domesticity it seems that troubles are beginning to arise from a new
+series of pathogens—fungi, bacteria and viruses. These diseases are already
+the common experience of the mushroom growers of the temperate zones.
+   In following the path of domestication of higher plants, we are able to
+observe the interaction and the response of the plant to methods of harvesting,
+selection for increased size of the useful part, selection for palatability, yield,
+etc. It is also possible to trace the spread of lower domesticated plants along
+with the spread of the appropriate human culture.
+   For the food technologies and the micro-organisms associated with them,
+however, the documentation and research is less complete than for the higher
+plant and animals. The organisms, examples of which I have already men¬
+tioned and which I have classified in Table i, are truly domesticated and differ
+from their wild relatives in a number of respects. The changes which have
+occurred must be observed in controlled culture studies, for which one can
+
+Algae                  Fungi                       Yeasts              Bacteria
+
+Marine                 Basidiomycetes              Saccharomyces sp.   Acetobacterl'a’b'>
+ Chondrus crispus      e.g. Volvaria^’6>           S. cerevisiae^'h)   Bacillus subtilista'b'>
+ Porphyra sp. <“>           Amanita sp.            S’. rouxiila’b'>    Lactobacillus(0’6)
+ Others*e>                  Hallucinogenic fungi                       Corynebacterium
+                            Various “wood”         Hansenula sp.<">    fish sauce organisms
+Lacustrine                    fungi<“>
+  Spirulina sp.        Others*1*)
+  Chlorella sp.<c>          Aspergillus^’b>
+                            Monascus^a)
+                            MoniliaW
+                            Mucor
+                            Penicillium
+                            Rhizopus(-a'b'>
+                            Thamnidium
+
+
+(a) Indigenous to South-east Asian food technology.
+(b) Known to have undergone extensive selection.
+(c) Japan mainly.
+(4) See also Hesseltine, C. W., Wang, Hwa, L. and Smith, M. (1967). Traditional fermented
+    foods, Biotechnol. Bioeng., 9 (3), pp. 275-88.
+(e) Subba Rao, G. N. (1965). Indo-Pacific Fisheries Council Regional Studies. No. 2. Use of
+    seaweeds directly as human food, Bankok; F.A.O. Regional Office for Asia and the Far
+    East, p. 32.
+
+Table 1 Examples of “cultivated” micro-organisms.
+                       Lower plants in South-east Asian food technology     467
+
+use the equivalent of the Clausen transplant-experiment technique7, studies
+of growth rate, interaction with substrate, biochemical pathways, and the
+biochemistry and organoleptic character of the end products. Taste is still an
+important aid to the selection of the organisms involved in the fermentation
+in spite of all the refinements of analytical chemistry.
+   The end-product of the micro-organic culture consists of the micro¬
+organism mass itself such as the sporophores of Basidiomycetous fungi, and
+the algae8, including seaweed. Even bacteria such as the Acetobacter sp. are
+stimulated to form a jelly-like mass on fruit juice and coconut water in a
+Philippine fermentation process to produce Nata. Alternatively, a mixture of
+the original material with mycelium threads of fungi such as Rhizopus, Mucor
+and other species may be produced9, or a more complex fermentation may
+occur such as is used in the manufacture of miso, a fermented soya bean paste
+of Japan10, in which a number of organisms have taken part at different stages.
+This particular paste is of interest in that three-quarters of the households in
+Japan use this fermented product as a main soup component daily, according
+to a recent survey report. The Japanese products represent a northward and
+eastward migration of the “sho” processes (a general term in Japan for the
+high salt fermentations). Today these fermentations are carried out under
+highly industrialized conditions, the organisms being given the benefit of
+highly specialized environments, and the domestication in consequence has
+proceeded here further than it has elsewhere in the region. Further, due to the
+extensive Japanese investigations of these industrialized organisms and their
+associated production methods, more is known about the variation in charac¬
+ter between different strains in Japan than in other parts of the region.
+Japanese, American, Indonesian and our own study of the organisms used in
+the village-factory and domestic economies in the south and east of the
+region show that these food micro-organisms, which are conserved from one
+process batch to the next, differ considerably in many characters from their
+wild counterparts.
+   The types of variation which we found in different isolates in response to
+different substrates and controlled conditions are shown in Table 2.
+   I feel that we are on the verge of a large development in domestication of
+these organisms, in order to make a better use of the limited food resources of
+the Tropical World, and we shall require all the modern techniques of
+agronomy such as the statistical methods of response surfaces to achieve
+optimum growing conditions, and plant breeding which has great possibilities
+with micro-organisms, in order to achieve optimum results. We have however
+the advantage with the cultivation of these lower plants that we can control
+with relative ease the environment in which they are grown, and we can
+employ specialized environments which will protect them in part from harm¬
+ful elements of the rest of the biota, that is, from the effects of unwanted
+micro-organisms such as those which produce mycotoxins and which are the
+analogues of weeds in higher plant agriculture.
+468    Part IV Plants        STANTON
+
+General genetic and cytological stability: probably increases (true of brewing yeasts).
+Growing rate: increased in the selected substrate, but decreased in comparison with “wild
+  types” on the general range of substrates. Probable loss of capacity to overcome naturally
+  occurring growth inhibitors.
+Environmental adaptability: growth of cultivated strain inferior to wild type outside the range
+  of conditions normally provided for the fermentation, e.g. temperature, humidity, salinity,
+  oxygen, tension, nutrient concentration.
+Reproductive capacity: selection for early and heavy sporulation under the processing condi¬
+  tions employed.
+Food acceptability: improved palatability and acceptability of end-product (selection against
+  unacceptable metabolites).
+Increased tolerance: to growth inhibiting factors occurring in the cultivation process, e.g.
+  metal ions (Cu++, Zn++), specific glycosides, N03, urea, organic acids, phenolic compounds.
+Contrived growth: in presence of its own metabolites; the loss of enzyme feed-back
+  inhibitions.
+Advanced industrial processes: strains with highly selected segments of biosynthetic pathways
+  with removal of feed-back inhibitions.
+
+Table 2     Examples of known and postulated changes in fungi due to selection
+      under cultivation.
+
+
+  Micro-organism cultures may be regarded as components of a two stage
+phytosynthetic process and, apart from the disadvantage of an obligatory
+requirement of non-solar energy, they have many advantages over higher
+plant cultures in features such as short cultivation time, low demand on land
+and fresh water (sea-water and saline water can be used) and simplicity of
+mutual adjustment of organism to environment with consequent precise
+control over the character of the synthetic product. Analysis of the classical
+process impresses one with the degree of understanding which early tech¬
+nologies achieved in harnessing the ferments.
+   As with higher plants, it is pertinent to advance domestication initially
+with the recognized food species of micro-organisms, though because we can
+now create chemically and physically controlled environments not available
+to earlier food technologists, we may be able to cultivate previously un¬
+tamable species.
+
+
+
+       Notes
+
+        1 Duddington, C. L. (1967). Seaweeds and Other Algae. London, p. 207;
+          Glabe, E. F., Goldman, P. F. and Anderson, P. W. (1957). How Irish
+          moss extractive improves protein-content foods, Fd. Engng., 29 (1), pp.
+          65-7j Larsen, B. A. and Hawkins, W. W. (1961). Nutritional value as
+          protein of some of the nitrogenous constituents of Chondrus crispus and
+          Laminaris digitata,J. Sci. Fd. Agric., 12, pp. 523-9; De Guerin, B. C.
+          (1946). Carrageen in the Channel Isles, Fd. Mf., 21, pp. 95-8; Sieburth,
+          J. McN. and Jensen, A. (1967). Effect of processing on the microflora
+          of Norwegian seaweed meal with observations on Sporondonema minutum
+          (Hpye), Frank and Hess, Appl. Microbiol., 15 (4), pp. 830-8.
+        2 Etchells, J. L., Jones, I. D. and Lewis, W. M. (1947). Bacteriological
+          changes during the fermentation of certain brind and salted vegetables,
+          U.S.D.A. Technical Bull., 947, Oct. 1947.
+                  Lower plants in South-east Asian food technology       469
+
+ 3 Hesseltine, C. W. (1965). A Millennium of fungi, food and fermenta¬
+   tion, Mycologia, 57, pp. 149-97; Hesseltine, C. W., Wang, H. L. and
+   Smith, M. (1967). Traditional Fermented Foods, Biotechnol. Bioeng., 9
+   (3)» PP- 275-88.
+ 4 Annual Rep. Tropical Products Inst. (1967). H.M.S.O., London, p. 49.
+ 5 Chang, S. T. (1965). Cultivation of the straw mushroom in S.E. China,
+   World Crops, 17 (3), pp. 47-9.
+ 6 Madic, V. R. and Roldan, E. F. (1965). A preliminary test on the effect on
+   mushroom production of straws rendered sterile with fumigant dowfume
+   MC-Z, AranetaJ. Agric., 12, pp. 233-8.
+ 7 Clausen, J., Keck, D. D., Hiesey, W. M. (1939). The concept of species
+   based on experiments, Amer. J. Bot., 26 (2), pp. 103-6.
+ 8 Subba Rao, G. N. (1965). Use of seaweed directly as human food,Indo-
+   Pacific Fisheries Council Regional Studies, 2, F.A.O. Regional Office for
+   Asia and the Far East, Bangkok, p. 32.
+ 9 Hesseltine, C. W. et al. (1964). Tempeh: Nutritive value in relation to
+   processing, Cereal Chem., 41 (3), pp. 173-81.
+10 Standal, B. R. (1963). Nutritional value of proteins of oriental soyabeans’
+   products, J. Nutr., 81 (3), p. 279 and p. 285.
+       Section 2: Animals
+
+
+
+
+       M. S. DROWER
+
+       The domestication of the horse
+
+
+The four main species of the genus Equus appear to have been distributed
+over the forests and plains of the Old World during the Pleistocene period in
+separate geographical zones: the onagers or half-asses (hemiones) in Hither
+Asia (Arabia, Persia and India), the asses in northern and north-east Africa,
+the zebras in the south and east of Africa and the caballine horses in Europe
+and in Central Asia north of the great mountain ranges. All these species are
+capable of producing hybrids, and all but the zebras have been domesticated
+by man1.
+   Of the species of Equus caballus, three wild races, all rather small, have
+survived until fairly recently. These are Przewalski’s horse, a native of
+Mongolia, of which a few specimens only are preserved in zoological gardens;
+the tarpan, which became extinct in the middle of the nineteenth century
+a.d. ; and the forest wild horse, which survived in Poland until the eighteenth
+century. Whether the wild horses depicted in cave-paintings as the quarry of
+hunters were all of one sub-species, or of several different strains, is in dis¬
+pute; the existence of a much larger horse in palaeolithic times has been
+postulated2. It appears at any rate certain that neither palaeolithic nor meso¬
+lithic man domesticated the horse.
+
+
+
+      First domestication
+There is little evidence, written or archaeological, for the presence of the
+domesticated horse in the Middle East until a little before 2000 b.c. Domesti¬
+cation, necessarily a gradual process, must have been achieved earlier and
+elsewhere. The distribution of the wild species suggests that horses were first
+472   Part IV Animals     drower
+
+
+tamed on the grass steppe-lands to the north, in the Ukraine or somewhere
+further east, between Turkestan and China. The tamers are likely to have
+been nomadic herdsmen to whom rapid mobility would have given many
+advantages. It is however difficult to establish evidence for the early domesti¬
+cation of the horse, since precise indications of morphological change, such
+as are present in the skeletons of cattle and sheep3, are absent from the bones
+of Equidae4. Bones of horses occur at all levels of the Tripolye culture of the
+Ukraine, but become numerous only in the later phases; the sharp increase in
+numbers in other sites contemporaneous with Tripolye B has been thought
+to be evidence for domestication about 2700 or 2800 b.c.5 In the so-called
+Timber Grave culture of the Volga region, ceremonial horse burials occur,
+together with sacrifices of cattle, in a context of the middle of the second
+millennium6.
+   One or two isolated examples of bones formerly identified as E. caballus,
+found in Persia in an early context at Sialk and Anau, are now generally
+considered to be onagers7, and this is probably also true of the remains
+found in Beersheba and dated to the fourth millennium b.c.8, though the
+possibility cannot be ruled out that this was an early breed of wild horse
+which later died out. Horses are not however depicted in prehistoric rock-
+drawings in Palestine or Egypt9. The bone tablet from Susa which appears to
+be a tally of domesticated equids with short bristle-manes must depict
+onagers10.
+   The first literary mention of the horse (in Sumerian ANSE KUR.RA)
+occurs in a text of the Third Dynasty of Ur, c. 2100 b.c., in which the animal
+is described as “of the (caravan) route” (i.e. not wild), and “with flowing
+tail”; the latter epithet distinguishes it from the onager and assu. The word
+ANSE.KUR means “foreign ass” or “ass of the mountains”; it is found in its
+literal meaning in the Sumerian story of “Enmerkar and the Lord of Aratta”,
+in which asses of the mountain are used as beasts of burden (a purpose for
+which the horse was not employed)12. Though horses are not mentioned in
+the Code of Hammurabi and cannot therefore have been a domestic animal
+frequently owned and used by Babylonians of the early eighteenth century
+B.c., they make their appearance at about that time as costly and much-
+desired objects of trade between the Amorite princes, Hammurabi’s near
+contemporaries, whose correspondence is preserved in the Mari letters.
+Carchemish on the Euphrates was one of the centres of distribution and
+Kharsamma in Cappadocia was a source of supply13. Horses are several times
+mentioned in the texts from Kanesh (modem Kiiltepe, near Kayseri) where
+the form used is the Akkadian sisu, a word of undoubtedly Indo-European
+origin (>aswas, ekwos)14, and although they do not receive mention in the
+tablets from Alalakh of the eighteenth century b.c., they were known at the
+same time in Brak and Chagar Bazar, on the river Khabut, where there are
+models of equids, evidently horses, with painted or modelled bridles, and the
+tablets mention “yokes” of horses: the quantities of fodder allowed for a yoke
+                                            The domestication of the horse   473
+
+show that two, or three (two and a spare), horses are meant15. For their role
+was not to replace the ass as a pack animal, but to draw, yoked in pairs, the
+light biga with spoked wheels which was now revolutionizing warfare.
+
+
+
+      The horse and chariot of the Bronze Age
+
+This mobile vehicle16, in build quite unlike the cumbersome solid-wheeled
+Sumerian chariot drawn by onagers which it superseded17, is everywhere in
+the Near East associated with the newcomers—Kassites, Hittites, Hurrians—
+who during the early years of the second millennium b.c. were establishing
+their rule over the kingdoms of Western Asia. Its use must have given tactical
+superiority to the newcomers. In particular it is associated with the Indo-
+Aryan aristocracies among the Hurrian and Kassites. Texts pertaining to the
+art of horse-breeding use technical terms akin to Sanskrit, and the chivalry of
+Mitanni and the Hurrian-dominated city-states of Syria and Palestine were
+known by the Indo-Iranian name maryannu18. It may therefore be suggested
+that mounted Aryans brought the horse south of the Caucasus, and that in
+some well-wooded19 but not too rugged terrain, a new and more mobile form
+of chariot was devised, perhaps by the Hurrians of the region who already
+knew and used the heavier onager or ass-drawn vehicle20.
+   The new technique spread rapidly: by the sixteenth century horses and
+chariots were known and used in Greece and Egypt. The first European
+horse is that depicted in the fifth shaft-grave at Mycenae, and the earliest
+representations of horses in Egypt appear at the beginning of the eighteenth
+dynasty, about 1570; they are mentioned in texts referring to the war of
+liberation from the Hyksos a decade or so before, and the single horse whose
+skeleton was found in the debris of the destroyed Middle Kingdom fortress
+at Buhen21 may have been buried as early as the seventeenth century b.c.
+Remains of horses have been found in India in contexts of the sixteenth
+century and the horse and chariot reached China at least by 1300 B.C.22
+   Technical treatises which have survived among the cuneiform tablets of the
+Late Bronze Age show that in Anatolia23, North Syria24 and Mesopotamia25
+the breeding, training and veterinary care of horses was well understood:
+there are directions for exercising and grooming horses, stressing the im¬
+portance of careful diet, and remedies for sick animals. At Ugarit what
+appeared to be an indoor riding school26 was found. When sent from one
+country to another, the animals needed to be acclimatized. In a letter to the
+King of Babylonia27, a Hittite king asks for fresh supplies of horses, since
+those which the former Kassite king had sent have gone lame: “In Hatti-land
+the cold is severe, and an old horse does not last long. So send me, my brother,
+young stallions!” Horses are listed at Alalakh and Nuzi according to sex, age
+and colour; in Nuzi28, Hurrian words are used for the various colours, and in
+the Kassite texts29 stallions are given names such as “Foxy”, “Starry”,
+474   Fart IV Animals      drower
+
+ “White”, “Piebald”. The name of the sire is often added (X., son of Y.),
+ showing that pedigrees were remembered and perhaps stud-books kept.
+ White horses were especially prized, in the Ancient Near East as among the
+ Persians, Romans and Germans of a later age30; they were destined to draw
+the chariots of kings and of gods and in Assyria were accorded divine
+honours31.
+   Ownership of horses and a chariot was a matter of rank and privilege. Only
+kings and nobility are shown in the lightest type of vehicle, the mono¬
+place chariot in which extraordinary skill and balance were needed. Looping
+the reins round their waist, they let fly their arrows at a gallop after fleeing
+targets, whether enemy soldiers or wild game. Ramesses III in the later New
+Kingdom is shown in an open-fronted chariot with one foot on the chariot
+pole, but this was unprecedented virtuosity (PI. ill). The breed was small, in
+general not exceeding the dimensions of a pony: skeletal remains, and the
+dimensions of the stables at Ugarit32, confirm the reliability of the artists in
+this respect. It has often been remarked that horses are seldom shown being
+ridden, and that in such representations (Fig i), the riders appear to be
+
+
+
+
+Fig i Riding groom, from the tomb of Horemheb at Memphis, c. 1345 b.c.
+      (after Aldred, C. (1951). New Kingdom Art in Ancient Egypt during the 18th
+      dynasty B.C. London. Fig. 141.)
+
+
+grooms or stable lads33. The explanation that they were too small to bear full-
+grown men cannot be correct, for donkeys were ridden; the reason may he
+rather in the difficulty an inexperienced bareback rider without stirrups
+would have in keeping his balance, and his dignity, on a short-striding animal
+at the trot31. Nevertheless Astarte, the Syrian goddess who protected
+charioteers, is herself shown riding bareback35, and it may be suspected that
+there were larger breeds which were more suitable for riding. The Buhen
+horse was larger than a pony, and a horse found buried at Osmankayasi near
+Boghazkoi30 was about fourteen and a half hands (150 cm.), the size of a
+modern Arab, and able no doubt to pull the heavier, three-manned chariot of
+the Hittites. For horses must have been bred for size as the weight of the
+chariot increased. The armour-plating of chariots and horses and of their
+                                           The domestication of the horse   475
+
+
+riders, was no doubt made necessary by the spread of penetrating weapons
+such as the composite bow; the sariam frequently mentioned in the Nuzi
+texts (the word is probably Indo-Iranian) appears to have been a leather
+jerkin or cover sewn with metal scales37.
+
+       The Iron Age
+
+By 1000 b.c. new and larger breeds of horse were making their appearance
+and superior harness had evolved. A second wave of Indo-European immigra¬
+tion brought horse riders to the Iranian highlands. To Azerbaijan and to
+Gilan and Mazanderan on the well-watered southern shore of the Caspian
+Sea came the Mannaeans and the Medes, and Iran soon became the land of
+“fine horses and fine men”. Horses figure largely in the animal style of
+Luristan and bronze cheek-pieces, horse-bits and other harness elements are
+the most common objects found38. Pottery models show saddles. The horses
+the newcomers rode were relatively big: horse-bones from Hasanlu in
+Azerbaijan (Early Iron Age) examined by Bokonyi were those of animals
+about 140 cm. in height39 and those found in early Scythian graves at Szentes-
+Vekerzug in Hungary studied by him were of a similar size40. Zamua and the
+Mannai territories south of Lake Urmia were sources whence the Assyrians
+obtained fresh supplies of horses, and from the ninth century onwards
+mounted cavalry formed an essential part of the Assyrian fighting force. At
+the same time, according to the palace reliefs, the chariot was getting heavier
+and larger; so, too, were the horses that drew it (Fig. 2).
+
+
+
+
+Fig 2a War chariot: relief from the palace of Ashur-nasir-pal, ninth
+     century b.c.
+     (after Layard, A. H. (1849). Nineveh and its Remains, 2. London, p. 350).
+
+
+   According to Hilzheimer41 several breeds of horse are represented in these
+reliefs, but he probably puts too much reliance on the accuracy of the
+draughtsman; similarly, Ghirshman’s attempt to deduce from the painted
+pottery horses from Susa and Makou the existence of two distinct breeds42 is
+unwarranted. There is however good evidence for the coexistence of two
+476   Part IV Animals    drower
+
+
+
+
+Fig 2b Ashur-bani-pal’s state chariot, seventh century b.c.
+     (after Layard, A. H. (1849). Nineveh audits Remains, 2. London, p. 137).
+
+races of horse in the remarkably-preserved burials of the fifth century b.c. at
+Pazyryk43: in each kurgan a number of short-headed ponies were found,
+which Professor Vitt considered to have been descended from a wild
+Mongolian stock of Przewalski descent, and also at least one thoroughbred
+horse of greater stature (over 140 cm.); these were all geldings and had been
+fed on corn and carefully tended, and they wore fine trappings. It is suggested
+that the larger animals, which were similar in size and build to those from
+Szentes, mentioned above44, may be descended from tarpan stock. Antonius
+also classes Scythian horses as descendants of tarpans, basing his theory
+largely on the horses depicted on the Chertomlyk vase45.
+   Archaeology and the testimony of Herodotus (Bk. VII) have told us much
+about the Scythians, and it is in this remarkable people that the fullest
+development of a pastoral economy in which the horse played a leading part
+may be pictured. They rode and shot with skill; they ate salted horse flesh
+and drank fermented mare’s milk. In the barrows of South Russia the whole¬
+sale sacrifice of horses described by Herodotus can be vividly reconstructed46.
+It may be that the way of life of these nomads reflects the original symbiosis
+of man and horse, developed on the steppe-lands perhaps two thousand years
+earlier.
+
+
+
+      The Western horse
+
+It is not possible to discuss here the vexed question of the horses depicted in
+the rock-engravings of North Africa, nor is the present writer competent to
+do so. The date of the drawings, of which some thousands survive, has been
+much discussed and there have been various attempts to classify them.
+Henri Lhote in his studies of the Tassili group47 distinguishes a “che valine
+period” in which horses are shown in pairs drawing a light-wheeled chariot,
+in the attitude of the “flying gallop”; in these he sees similarities with
+                                              The domestication of the horse   477
+
+
+Mycenaean art and he suggests that the Sea Peoples, after the failure of their
+attacks on Egypt, moved westwards with their Libyan allies and penetrated
+the Fezzan, bringing with them the horse and chariot. Another theory would
+associate the Tassili charioteers with the Garamantes and other tribes known
+to the Romans. Neither takes account of the theory, discussed by Zeuner48,
+that there may have been a separate western centre of domestication in Spain
+or North Africa which gave rise to the North African “barb” or Barbary
+horse. Here too there seems to be much scope for further enquiry. Whatever
+the truth may be, it seems certain that the idea of the domestication of the
+horse, and of harnessing it to a wheeled vehicle, must have reached the
+Western Mediterranean from the Levant.
+
+
+      Notes
+       1 Zeuner, F. E. (1963). A History of Domesticated Animals. London.
+       2 Zeuner, F. E. (1963). op. cit. p. 306.
+       3 See Bokonyi, S. and Grigson, C., this volume, pp. 219-46 and 277-306.
+       4 Zeuner, F. E. (1963). op. cit. p. 316.
+       5 Dr. S. Bokonyi’s dating (in discussion).
+       6 Clark, G. and Piggott, S. (1967). Prehistoric Societies. London, p. 275.
+       7 See Noble, D. S., this volume, pp. 485-8.
+       8 Anati, E. (1963). Palestine before the Hebrews. London, p. 241.
+       9 Anati, E. (1963). op. cit. p. 208; Winkler, H. (1938-9). Rock Drawings of
+         Southern Upper Egypt. E.E.S. Archaeological Survey.
+      10 Amiet, P. (1966). Elam. Anvers-sur-Oise. p. 97.                 v
+      11 Falkenstein, A. (1952). Sumerische religiose Texte 2: Ein Sulgi-Lied,
+         Z. Assyriologie, 16, pp. 64 ff.
+      12 Salonen, A. (1956). Hippologica Accadica, Annales Academiae Scientiarum
+         Eennicae. Sarja. Ser. B. Nide. 100. Helsinki, p. 19.
+      13 Salonen, A. (1956). op. cit. p. 23; Dossin, R. (1938). Aplahanda, Roi de
+         Carkemis, Rev. d’Assyriol., 35, p. 120.
+      14 Salonen, A. (1956). op. cit. p. 21.
+      15 Gadd, C. J. (1940). Tablets from Chagar Bazar and Tell Brak, Iraq, 7,
+         pp. 22 ff.
+      16 Yadin, Y. (1963). The Art of Warfare in Biblical Lands. London, pp. 86 ff.
+      17 See Noble, D. S., this volume, ibid.
+      18 O’Callaghan, R. T. (1948). Aram Naharaim, Analecta Orientalia, 26, pp.
+         64 ff.
+      19 The chariot preserved in Florence is built of oak and elm and has tyres
+         of birch-bark ... all northern woods.
+      20 Crossland, R. A. (1967). Immigrants from the North, C.A.H.IP, Cam¬
+         bridge, ch. 27.
+      21 Emery, W. B. (i960). A preliminary report on the excavations of the
+         Egypt Exploration Society at Buhen, 1958-9, Kush, 8, pp. 7 ff.
+      22 Dewall, M. von. (1964). Pferd und Wagen im friihen China, Saarbriicker
+         Beitrage zur Altertumskunde, I, pp. 109 ff.
+      23 Kammenhuber, A. (1961). Hippologia Hethitica. Wiesbaden.
+      24 Virolleaud, Ch. (1934). Fragments d’un traite phenicien de therapeutique
+         hippologique, Syria, 15, pp. 75 ff.
+      25 Ebeling, E. (1951). Bruchstucke einer mittelassyrischen Vorschriftensam-
+         lung fur die Akklimatisation und Trainierung von Wagenpferden,
+          Deutsche Akad. d. Wiss., Inst.f. Orientforschung, 7.
+478    Part IV Animals      drower
+
+       26 Schaeffer, C. F. A. (1938). Les fouilles de Ras Shamra-Ugarit: neuvieme
+           campagne (printemps 1937), Syria, 19, p. 314.
+       27 See Salonen, A. (1956). op. cit. p. 28 for references.
+       28 Pfeiffer, R. and Speiser, E. A. (1936). One hundred new selected Nuzi
+           texts, Ann. Am. Sch. Or. Research, 16.
+      29 Balkan, K. (1954). Kassitenstudien I, Die Sprache der Kassiten, Amer. Or.
+           Series, 37, pp. 11-40 and pp. 127 f.

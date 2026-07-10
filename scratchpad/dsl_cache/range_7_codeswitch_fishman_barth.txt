@@ -1,0 +1,2709 @@
+           JAN-PETTER BLOM AND JOHN J. GUMPERZ
+
+
+
+
+           Jan-Petter Blom is a lecturer in social anthropology and
+           member of the Research Institute for Social Anthropol-
+           ogy at the University of Bergen. He has done fieldwork
+           in rural Norway and, most recently, in the Bahamas,
+           on folklore, social structure, and ethnomusicology.
+                John J. Gumperz is a professor of anthropology at
+           the University of California, Berkeley. He received his
+           doctorate in Germanic linguistics at the University of
+           Michigan and has taught at Cornell University and
+           Deccan College in Poona. He has done fieldwork in
+           India, Norway, and among minority groups in the United
+           States.
+              This study of the meaning of linguistic choice in a
+           Norwegian community exemplifies what is meant by an
+           integrated sociolinguistic approach. Ethnography and
+           linguistics both are drawn upon, technically and concep-
+           tually; but more than that, the outcome is an under-
+           standing of social constraints and linguistic rules as parts
+           of a single communicative system. The conceptual frame-
+           work for the social analysis here leans on the work of
+           Leach (1954) and Barth (1966) and Goffman (1964).
+              The stability of the valued local form of speech, as well
+           as the potential for change in speech patterns within the
+
+   1 Some of the data cited in this study were given in preliminary form in previous publica-
+
+tions (Gumperz 1964b and Gumperz 1966). The authors are grateful to Einar Haugen,
+Aaron Cicourel, and Richard Howell for their comments. Field work for the study was
+sponsored by the Institute of Sociology, University of Oslo, Norway. We are grateful to
+Professor Sverre Holm of that institution for support and encouragement. Mr. Gumperz'
+stay in Norway was made possible through a senior postdoctoral fellowship from the Na-
+tional Science Foundation.
+
+                                            407
+                                                                i
+                                                                I
+ 408   Genesis, Maintenance, ancl Change of Linguistic Codes
+                                                                '
+                                                                I
+community, is discussed. To show the relationships
+between social and linguistic alternatives presupposes
+the technical analysis of specific features of speech, as
+well as also, of social relations (particularly of participa-
+tion in closed and open networks) and of the diversity of
+local value systems. It requires an experimental ap-
+proach such as the one employed. It also requires a uni-
+tary frame of reference; here the whole network is
+viewed from the standpoint of actors in particular social
+ situations as they adopt strategies constrained by the ex-
+isting communicative repertoire.
+    As in Part I of this volume, the present study concerns
+values expressed in certain genres of speech, particularly
+ self-identity and pride in informal conversations. As in
+ Part 2, this study deals with rules; here, rules of alterna-
+ tion that govern the linguistic repertoire of an entire com-
+ munity. The components of the repertoire themselves are
+ defined by co-occurrence rules. One can also describe
+ the study as making problematic a series of things some-
+ times taken for granted: (I) given that members of the
+ community consider there to be two varieties of code, to
+ what extent and in what way are the varieties actually
+ linguistically distinct? Blom and Gumperz find a single
+ linguistic system, differentiated by features similar to
+ what Labov (Chapter I 9) calls variables. Notice that def-
+ inition of the two varieties, Ranamal and Bokmal, cuts
+ across several formal sectors of language (phonology,
+ lexis, morphology). (2) Given that elicitation brings out
+ these differences, what is the case in everyday interac-
+ tion? Some features found in elicitation sessions are
+ never found in spontaneous speech. (3) Given the
+ linguistic reality of the two varieties, why are both main-
+ tained? Unintelligibility can hardly be a factor since most
+ speakers control the entire range of both. To speak of
+ persistence of dialects in remote or less advanced areas is
+  merely to name the phenomenon, not to explain it. Again,
+  since the adult population has access to both varieties,
+  the explanation must lie in the social meanings of the two.
+'(4) If social symbolism is the basis, what is its nature?
+  How is it actually expressed? Blom and Gumperz in-
+  troduce the concepts of setting, situation, and event,
+  taken as stages recognized in the enactment of personal
+  strategies, to analyze the meaning of choice between the
+  two varieties. An important distinction is made between
+                         Social Meaning in Linguistic Structure   409
+                                                        I
+
+
+         situational switching, where alternation between
+          varieties redefines a situation, being a change in gov-
+          erning norms, and metaphorical switching, where alter-
+         nation enriches a situation, allowing for allusion to more
+         than one social relationship within the situation. In
+         Hemnes situational switching involves change in partici-
+         pants and/or strategies, metaphorical switching involves
+         only a change in topical emphasis. (Cf. Albert's Burundi
+         case of role switching initiated by an aristocrat talking to
+         a peasant, described in terms of change of topic and pur-
+         pose.)
+            Notice the experimental presentation of the uncon-
+         scious status of metaphorical switching among the
+        members of the open network (i.e., a network of rela-
+        tionships with reference points outside the local commu-
+        nity); and criticism of it in terms of the folk concept of
+        knot 'artifical speech.' Goffman ( 1961) provides an addi-
+        tional related reading. A collection of Gumperz' papers
+        dealing with similar issues has recently appeared (Gum-
+        perz 1971).
+
+
+
+
+          In recent discussions of the problem of language and society,
+ Bernstein ( 1961, 1964a) explores the hypothesis that social relationships
+act as intervening variables between linguistic structures and their realiza-
+tion in speech. His formulation suggests that the anthropologists' analysis
+of social constraints governing interpersonal relationships may be utilized
+in the interpretation of verbal performances. This chapter attempts to
+clarify the social and linguistic factors involved in the communication
+process and to test Bernstein's hypothesis by showing that speaker's
+selection among semantically, grammatically, and phonologically permis-
+sible alternates occuring in conversation sequences recorded in natural
+groups is both patterned and predictable on the basis of certain features of
+the local social system. In other words, given a particular aggregate of
+people engaged in regular face-to-face interaction, and given some knowl-
+edge of the speakers' linguistic repertoire (Gumperz 1964b), we wish to
+relate the structure of that repertoire to the verbal behavior of members of
+the community in particular situations.
+   Data on verbal interaction derives from approximately two months'
+field work in Hemnesberget, a small commercial and industrial town of
+about 1300 inhabitants in the center of the Rana Fjord, close to the Arctic
+circle in northern Norway. The settlement owes its existence to the
+        410   Genesis, Maintenance, and Change of Linguistic Codes
+
+growth of local trade and industry following the abolition of government-
+sanctioned trade monopolies covering most of northern Norway in 1858.
+Since the Middle Ages, these monopolies had kept the area's economy
+dependent upon a small elite of merchant and landholding families with
+connections to southern Norway, separated by great differences in
+wealth, culture, and education from the tenant farmers, fishermen, estate
+laborers, and servants who formed the bulk of the populace. Apart from a
+few shop owners and government officials, present-day Hemnesberget
+residents are mostly descendants of these latter groups. They have been
+attracted to the town from the surroundings by new economic opportuni-
+ties there, while a hundred years of relatively free economic development
+have splintered the old ruling circles. Many of this former elite have
+moved away, and the remainder no longer form a visible social group in
+the region.
+   Present inhabitants of Hemnesberget earn their livelihood mainly as
+craftsmen in family workshops or in the somewhat larger boat-building
+and lumber-processing plants, all of which are locally owned. The area
+serves as a major source of wood products and fishing equipment for the
+northernmost part of Norway. A significant group of merchant mid-
+                                1
+dlemen deal in locally produced boats and other products, which they ship
+north for resale, and maintain sales agencies for motors and other appli-
+ances and manufactured goods from the south.
+   While at the beginning of the century Hemnesberget was the most im-
+portant communications and commercial center in the area, it has been
+eclipsed in recent years by government-sponsored economic develop-
+ment which has turned the town of Mo i Rana, at the mouth of Rana Fjord,
+into Norway's major iron- and steel-producing center. The region of Mo
+has grown from about 1000 inhabitants in 1920 to almost 9000 in 1960,
+largely through immigration from the region of Tryjndelag and southern
+Norway. It now boasts several modern department stores, hotels, restau-
+rants;and cinemas. The railroad from Trondheim in the south through Mo
+and on north to Bodyj was completed shortly after World War II, and the
+road system is steadily improving. All these new communication arteries,
+however, now bypass Hemnesberget, which has all but lost its importance
+as a communication link for both land and sea traffic.
+   Although the immediate ecological environment has changed greatlY,
+Hemnesberget remains an island of tradition in a sea of change. There is a
+regular once-a-day boat service to Mo, buses leave for the railroad station
+twice a day, and a few people commute to Mo by private automobile or
+motorcycle. However, the bulk of the residents spend most of their wor~-
+ing and leisure time in and around Hemnesberget. Those who can afford it
+build vacation cabins in the unsettled areas across the fjord a few miles
+away. Our interviews uniformly show that social events in Mo i Rana are
+only of marginal interest to local inhabitants.
+                                Social Meaning in Linguistic Structure   411
+
+
+               The Community Linguistic Repertoire
+                   Most residents of Hemnesberget are native speakers of Ranamal
+         (R), one of a series of dialects which segment northern Norway into
+         linguistic regions roughly corresponding to other cultural and ecological
+         divisions (Christiansen 1962). As elsewhere in Norway, where local in-
+         dependence and distinctness of folk culture are highly valued, the dialect
+         enjoys great prestige. A person's native speech is regarded as an integral
+         Part of his family background, a sign of his local identity. By identifying
+         himself as a dialect speaker both at home and abroad, a member symbol-
+        izes pride in his community and in the distinctness of its contribution to
+        society at large.
+           Formal education, however, is always carried on in the standard, the
+        language of official transactions, religion, and the mass media. Norwegian
+        law sanctions two standard languages: Bokmal (formally called Riksmal)
+        and N ynorsk (formerly Landsmal), of which only Bokmal (B) is current in
+       northern Norway.
+           Education is universal and, allowing for certain individual differences in
+       fluency, all speakers of Ranamal also control the standard. Both Bokmal
+       and Ranamal, therefore, form part of what we may call the community
+       linguistic repertoire (Gumperz 1964b), the totality of linguistic resources
+       Which speakers may employ in significant social interaction. In their
+       everyday interaction, they select among the two as the situation demands.
+       Members view this alternation as a shift between two distinct entities,
+       Which are never mixed. A person speaks either one or the other.
+          The fact that the two varieties are perceived as distinct, however, does
+      not necessarily mean that their separateness is marked by significant
+      linguistic differences. Pairs such as Hindi and Urdu, Serbian and Croa-
+      tian, Thai and Laotian, and many others which are regarded as separate
+      languages by their speakers are known to be grammatically almost iden-
+      tical. The native 's view of language distinctions must thus be validated by
+     empirical linguistic investigation.                     \
+         We began our analysis by employing standard linguistic elicitation
+     Procedures. A series of informants selected for their fluency in the dialect
+     Were interviewed in our office and were asked to produce single words,
+     sentences, and short texts, first in the dialect and then in the standard, for
+     t~ping or phonetic recording by the linguist. These elicitation sessions
+     Yielded a series of dialect features which are essentially identical to those
+     described by Norwegian dialectologists (Christiansen 1962).
+    ) The vowel system distinguishes three tongue heights-high: front
+    Unrounded i, front rounded y, central rounded u, back rounded o; mid:
+    front unrounded e, front rounded 0 , back rounded a; low: front unrounded
+    ie, front rounded jiS, back a.
+
+
+
+l
+            4I2        Genesis, Maintenance, and Change of Linguistic Codes
+
+   Consonants occur either singly or as geminates. Vowels are phonet-
+ically short before geminates, consonant clusters, and palatalized conso-
+nants. There are two series of consonants: unmarked and palatalized. Un-
+marked consonants include stops p, b, t, d, k, g; spirants f, v, s, s, j, <;;
+nasals m, n, l); trill r, lateral I, and retroflex flap I. The palatal series con-
+tains tj, dj, nj, and Ij. On the phonetic level, a set of cacuminal or retroflex
+allophones occur for the sequences rs [s], rd [d], rt [t], and rn [J}].
+   The local pronunciation of the standard differs from the "pure" dialect
+as follows: Bokmal does not have the phonemic distinction between the
+palatalized and nonpalatalized series of consonants. Only nonpalatalized
+consonants occur. In addition, it does not distinguish between mid front
+rounded /of and low front rounded /,,-6/; only the former occurs. On the
+purely phonetic level, dialect allophones of the phonemes /re/ and /a/ are
+considerably lower and ·more retracted than their standard equivalents.
+The dialect furthermore has a dark allophone [l] of /1/ where the standard
+has clear [I]. The cacuminal or retroflex allophones of /s/, /d/, /ti, and /n/,
+and the flap /I/, however, which are commonly regarded as dialect fea-
+tures, are used in both varieties, although they tend to disappear in highly
+formal Bokmal.                     I
+
+   Morphological peculiarities of the dialect include the masculine plural
+indefinite suffix -cl! and the definite suffix -an, e.g., (R) luestll! (horses),
+lucstan (the horses), contrasting with (B) hester and hestene. In verb
+ inflection the dialect lacks the infinitive suffix -e and the present suffix -er
+ of regular verbs. Further differences in past tense and past participle
+ markers and in the assignment of individual words to strong or weak
+ inflectional classes serve to set off almost every dialect verb from its stan-
+ dard Norwegian equivalent. Here are some examples of common regular
+ and irregular verbs and their standard equivalents:
+
+              /11fi11itive          Present               Past           Past Participle
+            (R)          (B)     (R)        (B)    (R)           (B)      (R)        (B)
+      fi1ii            fi1111e   Jinj    finner    fwii      fant      fpnje       fi1nnet   (find)
+      vara
+            or va       v<ere    e       lk..'I'   V(l       var       1'¢re       \'{l'r/   (be)
+      ft)               fti      ftir    Jiir      Jekk      fikk.     Jiitt       Jiitt     (get)
+      stwii             Sill     st1ir   st1ir     sto       sto       stie        sttitt    (stand)
+      j1l!r             j¢re     j{l!r   jpr       jol       j¢re      jort        jort      (do)
+       lws               Iese     lws    leser     ltr!st     leste    hr!st       lest      (read)
+       ta                ta       tek     tar      tok        tokk      tatt       tat(      (take)
+                                                                         or tire
+
+
+
+ Other important dialect features appear in pronouns, common adverbs of
+ time, place, and manner, conjunctions, and other grammatically signifi-
+ cant function words. Here is a list of some of the most common distinctive
+ forms of personal pronouns and possessive pronouns:
+                          Social Meaning in Linguistic Structure                       413
+
+                           (B)          (R)
+                         j{l'jj        OR            (I)
+                         111ll')i      Ille[.!    (me)
+                         da,jj         deR        (you)
+                         lw1111        hwti       (he)
+
+                           (B)              (R)
+                        hunn             ho                (she)
+                        ha1111s          lwnjs             (his)
+                        he1111es         hi11iers          (hers)
+                        dere             d{ikk             (you)(plural)
+                        di               dll'mm*           (theirs)
+                * Sometimes also di and deres.
+
+         Interrogatives, relatives, and indefinites:
+                           (B)                   (R)
+                        Slllll/ll        sa                     [ who, which (relative)]
+                        va               ke                     [ what (interrogative)]
+                        ve1111n          kem                    (who)
+                        ,we              nakka                  (something)
+                        l'{/lf(I/'/'     kefr/>r                (what for)
+                        vilket           kefij>r nokka          [ which (thing)]
+                        vi/ken           kefij>r 1101111        [ which (person)]
+                        Vll'/'           kvar                   (every)
+                        en               ein                    (one)
+
+
+              Adverbs and conjunctions:
+
+                           (B)              (R)
+                        till            tell               (to, toward)
+                        111enn          /ll{l'/lll         (but)
+                        lul'r           her                (here)
+                       fi'a             (fi'a              (from)
+                       me/lam           ime(i{l'           (in between)
+                        1•ordan         kelesn             (how)
+                        1•iss            i•ess             (if)
+                                                                  I
+   These data constitute empirical evidence to support the view of the
+dialect as a distinct linguistic entity. By comparing information collected
+in this manner with local speech forms elsewhere in northern Norway,
+dialectologists interested in historical reconstruction identify Ranamal as
+one of a series of northern Norwegian dialects set off from others by the
+fact that it shows influences of eastern Norwegian forms of speech (Chris-
+tiansen 1962). In this discussion however, we are concerned with social
+interaction and not with history, and this leads us to raise somewhat dif-
+ferent problems.
+   The elicitation sessions which provide the source data for dialect
+grammars are conducted in the linguist's, and not in the informant's,
+        414    Genesis, Maintenance, and Change of Linguistic Codes
+
+frame of reference. Although by asking speakers to speak in the dialect,
+the linguist may be interested in purely descriptive or historical informa-
+tion, the native speaker, mindful of the association between dialect, local
+culture, and local identity, is, of course, anxious to present his locality in
+the best possible light. Consistency of performance in linguistic interview
+sessions might well be the result of the interviewer's presence; it need not
+reflect everyday interaction. Furthermore, when comparisons with other
+forms of speech are made, it is the linguist's analysis which serves as the
+basis for these comparisons, not the speaker's performance.
+
+
+        Ranamttl and Bokmal as Codes
+        in a Repertoire
+
+          In order to understand how natives may perceive the dialect stan-
+dard language differences, some further discussion of the way in which
+distinctions between what are ordinarily treated as separate linguistic
+systems may be manifested in everyday speech is necessary. Thus if we
+compare a bilingual's prdnunciation of the Norwegian sentence vill du ha
+egg og heiken till frokast? with the same speaker's pronunciation of the
+English equivalent "Will you have bacon and eggs for breakfast?" the two
+utterances will show phonetic distinctions in every segment. The Nor-
+wegian voiced spirant [v] has much less spirantal noise than its English
+equivalent, the [i] is tense as compared to the lax English [i], the Nor-
+wegian [l] may be clear or dark but it is phonetically different from English
+[l]. The Norwegian central rounded [u] in du has no direct English equiva-
+lent. In egg the Norwegian has a tense [e] and the [g] has an aspirate
+release, whereas in English the vowel is lax and [g] has a voiced release.
+Similarly, the Norwegian has a stressed vowel in heike11 [rei] whereas the
+English has [ey]. Bilinguals whose entire articulation shifts in this way can
+be said to have two distinct articulation ranges in addition to two sets of
+grammatical rules.
+    Analysis of recordings of Hemnesberget speakers' switching from the
+dialect to the standard reveals a different situation. In a sentence pair like
+hanj hor f){/ nilsen' s paysonat and its Bokmal equivalent hann hor pa
+nilsen's paysonat "He lives in Nilsen's pensionat," only the realizations
+of /a/, /ti, and /nj/ which appear in our list of dialect characteristics differ.
+In other relevant respects the two utterances are identical. Furthermore,
+even in the case of these dialect characteristics, speakers do not alternate
+between two clearly distinguishable articulation points; rather, the shift
+takes the form of a displacement along a scale in which palatalized conso-
+nants show at least three degrees of palatalization, strong [nj], weak [ni],
+and zero [n] and /a/ and /re/ each show three degrees of retraction and
+lowering.
+                         Social Meaning in Linguistic Structure   415
+
+     While the switch from Norwegian to English implies a shift between
+  two distinct structural wholes, the Bokmal-Ranamal alternation, in pho-
+  nology at least, seems more similar to conditions described by Labov
+  (1966b) for New York speech. A speaker's standard and dialect perfor-
+  mance can be accounted for by a single phonetic system. The bulk of the
+ constituent phones within this system are marked by relatively stable,
+ easily identifiable points of articulation. The palatalized consonants and
+ the vowels listed here differ in that they vary within a much greater articu-
+ lation range. They are instances of what Labov has called variables
+ (1964b). It is the position of such variables along the scale of possible
+ articulations which, when evaluated along with morphological informa-
+ tion, signals dialect vs. standard speech.
+    Not all items identified in our elicitation sessions as Ranamal features
+ function as variables, however. The contrast between /p/ and /6/ was
+ never produced spontaneously. In normal discourse only [6] occurs. Fur-
+ thermore, as stated previously, the flap allophone/!/ and the retroflex stop
+ allophones which find a prominent place in dialect grammars are also used
+ in local Bokmal as well as in eastern varieties of standard Norwegian;
+ thus their status as dialect markers is doubtful.
+    Our texts also reveal some individual differences in the pronunciation
+ of the palatalized consonant and vowel variables. While the normal
+ dialect speech of most residents shows strong palatalization of these con-
+ sonants and extreme vowel retraction, some of the more highly educated
+ younger residents normally have medium palatalization and medium
+ vowel retraction. Regardless, however, the direction of variation is the
+ same for all individuals.
+    In the realm of morphology-syntax it is also possible to set up a single
+ set of grammatical categories to account for what on the surface seem like
+ striking differences between the two varieties. All nouns, e.g., appear in
+an indefinite form consisting of the noun stem and in an indefinite form .
+made up of stem plus suffixed article, both of which are inflected for singu-
+lar and plural. There are three subcategories of noun gender: masculine,
+feminine, and neuter, and the case categories are shared. Verbs appear in
+imperative, infinitive, present, past, and past participle forms. Basic func-
+tion word categories, including pronouns, conjunctions, and adverbs, are
+shared, etc.
+    Ranamal shows a few peculiarities in the order of pronouns and verbs
+in sentences such as (R) ke du e (fr{I, (B) vor <l!r du fra "Where are you
+from?" But even without detailed analysis, it is obvious that these dif-
+ferences correspond to relatively low-order syntactic rules. The m,tjority
+of the distinctions between the dialect and the standard thus do not affect
+the basic grammar but only what we may call the morphophonemic real-
+ization of shared grammatical categories.
+   Even at the morphophonemic level, variation is not without pattern.
+         416    Genesis, Maintenance, and Change of Linguistic Codes
+
+ Examination of such alternates as (B) till, (R) tell "to"; (B) jikk, (R) fekk
+ "received"; (B) hest, (R) hwst "horse"; and (B) ,nenn, (R) mcenn "but"
+ suggests a general process of lowering of front vowels in the dialect. This
+ lowering process is also found elsewhere in Norway, although it may
+ occur in different linguistic forms/ Similarly, other sets of alternates such
+ as icce/ikke "not," dcemm/di "they," and ifra/ji·a "from" are common in
+ other Norwegian regions.
+     Leaving aside historical considerations, it is almost as if all dialect vari-
+ ation within Norway were generated by selection of different forms from
+ a common reservoir of alternates. Ranamal differs from other dialects not
+ so much because it contains entirely different features but because of the
+ way in which it combines features already found elsewhere. Furthermore,
+ Hemnesberget pairs such as (B) lcerer, (R) lerar, and (B) !uer, (R) her,
+ which conflict with the lowering process just mentioned, suggest that here ·
+ as elsewhere selection may at times be motivated by social pressures
+ favoring maintenance of distinctions (Ramanujan 1967). No matter what
+ the actual historical facts are, however, the narrow range of variation we
+ find lends support to our view of dialect features as variables within a
+ single grammatical system.
+    The effect of structural similarities on speakers' perception of speech
+ differences is somewhat counterbalanced by the fact that choice among
+ these variables is always restricted by sociolinguistic selection constraints
+ such that if, for instance, a person selects a standard morphological
+ variant in one part of an utterance, this first choice also implies selection
+ of pronunciation variables tending toward the standard end of the scale. A
+ speaker wishing to ask for another's place ofresidence may, e.g., start his
+ sentence either with (R) ke "where" or (B) var. In the first case, the rest of
+ the sentence will read hanj e ifrc1 "is he from?" In the second case, it will
+ be cer hannfra; var and hanj do not co-occur. Similarly, selection of e "is"
+ requires dialect pronunciation; the form cer "is" would sound odd if it
+ appeared in the same sentence with hanj.
+    It is the nature of these selection constraints and the manner in which
+they cut across the usual boundaries of phonology and morphology to
+generate co-occurrences among phonetic and allomorphic and lexical vari-
+ables, which lends the Ranamal-Bokmal variation its peculiar stamp, and
+sets it off, e.g., from the phonologically similar situation in New York.
+Sociolinguistic selection rules also account to some extent for the speak-
+er's view of the two varieties as separate entities.
+   Since the dialect and the standard are almost isomorphic in syntax and
+phonetics and vary chiefly in morphophonemics, and since most speakers//"
+control the entire range of variables, it would be unreasonable to assume,
+as is frequently done wherever two distinct dialects are spoken, that
+selection patterns affecting the just-mentioned selection rules are mo-
+tivated by considerations of intelligibility. The most reasonable assump-
+
+
+
+
+                                                                               d
+                                 Social Meaning in Linguistic Structure   417
+                                                                      I
+
+          tion is that the linguistic separateness between the dialect and the stan-
+          dard, i.e., the maintenance of distinct alternates for common inflectional
+          morphemes and function, is conditioned by social factors.
+             Some idea of how this came about can be obtained by considering the
+         conditions under which the two varieties are learned. The dialect is
+         acquired in most homes and in the sphere of domestic and friendship rela-
+         tions. As a result, it has acquired the flavor of these locally based rela-
+         tionships. However, dialect speakers learn the standard in school and in
+         church, at a time when they are also introduced to national Norwegian
+         values. It has therefore become associated with such pan-Norwegian
+         activity systems.
+            Since the adult population has equal access to both sets of variants
+         however, the developmental argument does not provide sufficient expla~
+        nation for the maintenance of distinctness. Immigrants to urban centers
+        around the world, e.g., frequently give up their languages after a generation
+        if social conditions are favorable to language shift. The hypothesis suggests
+        itself, therefore, that given the initial acquisition patterns, the dialect and
+        the standard remain separate because of the cultural identities they com-
+        municate and the social values implied ,therein. It is this aspect of the
+        problem that we intend to explore in the .remaining sections of the
+        chapter. Before we proceed, however, something more needs to be said
+        about the process of social symbolization.
+           Students of communication usually distinguish between semantics
+       proper, or reference, and pragmatics (Ervin-Tripp 1964). Reference in-
+       dicates verbal categorization of objects' actions and experience in terms
+       of their objective properties; pragmatics deals with the effect of symbols
+       of various kinds on speakers and listeners, i.e., with the significance of
+       what is communicated for the actors involved. Most discussions of prag-
+       matics ordinarily do not distinguish between individual intent and inter-
+       personal significance of usage patterns, although it is evident that without
+       such a distinction it would be impossible to explain the fact that the same
+       message may indicate praise in some instances and disapproval in others.
+      Effective communication requires that speakers and audiences agree both
+      on the meaning of words and on the social import or values attached to
+      choice of expression. Our discussions will be confined to the latter. We
+      Will use the term social significance, or social 1nea11ing, to refer to the
+      social value implied when an utterance is used in a certain context.
+          In general, the assignment of value to particular objects or acts is as ar-
+      bitrary as the referential naming of objects. Just as a particular term may
+      refer to a round object in one group and a square object in another, so also
+     the value of actions or utterance.s may vary. Thus the same term may in-
+      dicate geographical distinctions in one community and symbolize social
+     stratification elsewhere. Social meanings differ from referential meanings
+     in the way in which they are coded. Whereas reference is coded largely
+
+i
+
+
+ob
+          418   Genesis, Maintenance, and Change of Linguistic Codes
+
+  through words, social meaning can attach not only to acoustic signs but
+  also to settings, to items of background knowledge, as well as to particular
+  word sequences. In Hemnes, e.g., values attached to a person's family
+  background or to his reputation as a fisherman are important in under-
+  standing what he says and influence the selection of responses to his
+  actions.
+     It must also be pointed out th;tt referential meanings are at least to some
+  extent recoverable through the study of individual words, they are, to use
+  Pike's (1967) term, segmental, while social meanings are not. A sentence
+  like ke due iji·d "Where are you from?" can be divided into units of refer-
+  ence like ke "where," du "you," e "are," and ifr/1 "from." Social signifi-
+  cance attaches to the utterance as a whole; it is not segmentable into
+  smaller component stretches. Sociolinguistic co-occurrence patterns along
+  with intonation contours enable the speaker to group language into larger
+· pragmatic wholes and to interpret them in relation to signs transmitted by
+  other communicative media.
+
+
+         Local Organization and Values
+
+          Social life in; Hemnesberget shows a fluidity of class structure
+ quite similar to that described for southern Norway by Barnes (I 954). Ex-
+ tremes of poverty and wealth are absent. Expressions of solidarity such as
+ "'We all know each other here in Hemnes," and "We are all friends here"
+ recur in our interviews. The majority of those who claim local descent
+ show a strong sense of local identification. To be a hremnesvcering
+ "Hemnes resident" in their view is like belonging to a team characterized
+ by commonalty of descent. Members of this reference group act like kin,
+ friends, and neighbors, cooperating in the pursuit of community ideals. In
+ everyday behavior they symbolize this quality of their ties through greet-
+ ings, exchanges of personal information, and general informality of pos-
+'ture toward fellow members. The dialect is an important marker of their
+ common culture. Residents of neighboring settlements, of Mo i Rana, as
+ well as other Norwegians, stand apart from this local community. They
+ are potential competitors who must at least initially be treated with
+ reserve. Their dialects are said to be different. The linguist interested in
+ structural significance may wish to· disregard such variation as minor.
+ Nevertheless, they have important social meanings for intercommunity
+ communication within the Rana region. They are constantly commented
+ upon and joked about and seem to play an important role in the mainte-
+ nance of local identity.
+    Despite the intense sense of local identification, perceptions of close-
+ ness within this local group are not everywhere the same among Hemnes
+ residents. More detailed interviews and observations of visiting and rec-
+                          Social Meaning in Linguistic Structure   419
+
+    reational patterns and of the exchange of assistance suggest a clear dis-
+    tinction between personal relations and the more general local relations.
+    The actual range of effective personal relations for any single individual
+   tends to be fairly small and stable over time. For most people it includes
+   only certain near kin, in-laws, neighbors, or fellow workers. The commu-
+   nity can thus be described as segmented into small nuclei of personal in-
+   teraction. Since these groups are not marked linguistically, however, the
+   behavioral signs of friendliness and equality constitute a communicative
+   idiom which applies to both these nuclei and to other relations or shared
+   local identification.
+      The meaning attached to local descent and dialect use-to being part of
+  the "local team"-is clearly seen when we consider those members of the
+  community who dissociate themselves from this "team." Traditionally, in
+  northern Norway the local community of equals was separated from the
+  landowning commercial and administrative elite by a wide gulf of social
+  and judicial inequality. Since the latter were the introducers and users of
+  standard Norwegian, the standard form was-and to some extent still is-
+  associated with this inequality of status. Many of the functions of the
+  former elite have now been incorporated into the local social system.
+  Individuals who fill these functions, however, continue to be largely of
+  nonlocal descent. Although they may pay lip service to locally accepted
+  rules of etiquette and use the dialect on occasion, their experience else-
+  where in Norway, where differences in education, influence, and prestige
+ are much more pronounced, leads them to associate the dialect with lack
+ of education and sophistication. Therefore, they show a clear preference
+ for the standard.
+      Such attitudes are unacceptable to locals, who view lack of respect for
+ and refusal to speak the dialect as an expression of social distance and
+ contempt for the "local team" and its community spirit. It is not sur-
+ prising, therefore, that their loyalty to the dialect is thereby reaffirmed.
+ For a local resident to employ (B) forms with other local residents is in
+ their view to snakk fint or to snakk jalat "to put on airs."
+     Since the different social meanings which attach to the dialect are regu-
+ lar and persistent, they must in some way be reinforced by the pattern of
+social ties. This relationship can best be described if we consider the
+socioecological system which sustains the community. There is a correla-
+tion between a person's regional background, his reference group, and the
+niche he occupies in this system (Barth 1964). This information enables
+us to segment the local population into three distinct categories: (1) ar-
+tisans, (2) wholesale-retail merchants and plant managers, and (3) service
+personnel. Members of the first two categories are the basic producers of
+wealth.
+    The more than 50 percent of the population which falls into the first cat-
+egory includes draftsmen who may or may not own their own shops, as
+         420   Genesis, Maintenance, and Change of Linguistic Codes
+
+ well as workmen employed in the larger plants and their dependents.
+ Most of them are locally born or have been drawn to Hemnes from the
+ surrounding farms by the demand for their skills. Since they live and work
+ among their relatives and among others of the same social background,
+ they tend to choose their friends and spouses from within their own refer-
+ ence group and thus become strong supporters of local values.
+    Wholesale-retail merchants buy lumber products and finished boats
+ from producers in the Rana are~l, f.:i'rnishing them with supplies and gear
+ and appliances in exchange. They sell boats, lumber products, and fishing
+ supplies to customers all the way up to the northernmost tip of Norway.
+ Relationships between merchants and their customers most commonly
+ take the form of long-term credit arrangements based on personal trust in
+ which credit is given to artisans against their future production. Also part
+ of the second category are the managers of large local enterprises who
+ achieve their position partly because of their special commercial and man-
+.agerial skills and partly through their ability to get along with and keep the
+ confidence of owners, workers, and foremen.
+    Like artisans, members of category 2 are largely of local descent.
+ Although they tend to be in the higher income brackets, they maintain kin
+ and conjugal relationships among craftsmen and fishermen-farmers. The
+ fact that their livelihood depends to a great extent on their standing within
+ the system of locally b,ased relations leads them to associate more closely
+ with the local values. The circumstances of their commercial enterprises,
+ however, also take them outside this local network. They must be able to
+ act within the urban commercial ethic, and they must also maintain per-
+ sonal ties with their customers in the north and elsewhere. The range of
+ their social connections includes both local and supralocal ties, involving
+ different and sometimes conflicting standards of behavior. The result is
+ that while they maintain strong loyalty to general local values, they tend
+ to avoid close personal ties with their kin in the first category and confine
+ their friendships to others who are in similar circumstances.
+    The third category is a composite one, consisting of individuals whose
+ position depends on the productivity of others. It includes persons
+ engaged in purely local services-private and administrative-of all kinds
+ such as salesmen, clerks, repairmen, shopkeepers, professionals, and
+ those who are employed in repair shops and in transportation. The
+  sociocultural background of these people varies. Those who pe1form
+  manual labor tend to be of local descent and are culturally indistin-
+ guishable from members of the first category. The same is true for the
+  lower echelons of employees in stores and in administrative offices.
+  Among the owners of retail businesses, clothing, shoe, pastry, and sta-
+  tionary shops, many belong to families who have moved to Hemnesberget
+ from other urban or semiurban centers in northern Norway. Their kin and
+ friendship relations tend to be dispersed among these communities, and
+                          Social Meaning in Linguistic Structure   421
+
+ this leads them to identify with the differentiated nonlocal middle-class
+ value system. Shopowners of local background also aspire to these stan-
+dards, at the same time trying to maintain their position in the "local
+team" by showing loyalty to its values. Professionals are similarly drawn
+to Hemnes from the outside because of their technical expertise. The
+more stable core of this group, the schoolteachers, tend to be of north
+Norwegian background. Doctors, veterinarians, dentists, and priests
+frequently come from the south. Invariably their values are those of the
+pan-Norwegian elite.
+   Economic conditions in Hemnes leave little room for the academically
+trained and those with technical skills outside local niches. Consequently,
+young people from all categories who aspire to higher education must
+spend most of their student years away from Hemnes and will eventually
+have to seek employment somewhere else. While they remain students,
+however, they are partly dependent on their families. They tend to return
+home during the summer vacation and seek local employment.
+
+
+         Contextual Constraints
+
+           Previous sections have dealt with the linguistic repertoire, in-
+  ternal cultural differences, and relevantfeatures of social organization.
+ We have suggested that linguistic alternates within the repertoire serve to
+ symbolize the differing social identities which members may assume. It is,
+ however, evident from our discussion that there is by no means a simple
+ one-to-one relationship between specific speech varieties and specific
+ social identities. Apart from the fact that values attached to language
+ usage vary with social background, the same individual need not be abso-
+ lutely consistent in all his actions. He may wish to appear as a member of
+ the local team on some occasions, while identifying with middle-class val-
+ues on others. In order to determine the social significance of any one
+utterance, we need additional information about the contextual clues by
+which natives arrive at correct interpretations of social meaning.
+    Recent linguistic writings have devoted considerable attention to
+speech events as the starting point for the analysis of verbal com-
+munication. It has been shown that aside from purely linguistic and
+stylistic rules, the form of a verbal message in any speech event is directly
+affected by (a) the participants (i.e., speakers, addressees, and audiences);
+(b) the ecological surroundings; and (c) the topic or range of topics
+(Hymes I 964e; Ervin-Tripp 1964).
+    In visualizing the relationship between social and linguistic factors in
+speech events, it seems reasonable to assume that the former restrict the
+selection of linguistic variables in somewhat the same way that syntactic
+environments serve to narrow the broader dictionary meanings of words.
+        422    Genesis, Maintenance, and Change of Linguistic Codes
+
+ For the purpose of our analysis, we can thus visualize verbal com-
+munication as a two-step process. In step I, speakers take in clues from
+the outside and translate them into appropriate behavioral strategies. This
+step parallels the perceptual process by which referential meanings are
+converted into sentences. In step 2, these behavioral strategies are in turn
+translated into appropriate verbal symbols. The determinants of this com-
+municative process are the speaker's knowledge of the linguistic reper-
+toire, culture, and social structure, and his ability to relate these kinds of
+knowledge to contextual constraints. For Hemnesberget, it seems useful
+to describe these constraints in terms of three concepts representing suc-
+cessively more complex levels of information processing.
+   We will use the term setting to indicate the way in which natives clas-
+sify their ecological environment into distinct locales. This enables us to
+relate the opportunities for action to constraints upon action provided by
+the socially significant features of the environment. First, and most impor-
+tant among local settings in Hemnesberget, is the home. Homes form the
+center for all domestic activities and act as meeting places for children's
+peer groups. Houses are well built and provide ample space for all. Also,
+friends and kin prefer the privacy of meetings at home to restaurants or
+other more public places.
+   Workshops and plants where productive activity is carried on are sepa-
+rated for the most part from residential areas, although some families con-
+tinue to live next to their workshops along the shore of the fjord. The
+work force normally consists of male members of the group of owners,
+whether managed by a single nuclear family or by a group of families con-
+nected by filial, sibling, or in-law ties. Employees in the larger plants
+frequently also include groups of kin who work together as work teams.
+In view of the homogeneity of workers, it is not surprising that the place
+of work frequently forms the center for informal gathering among males.
+In offices, shops, and merchant establishments, however, where the ex-
+pertise requirements favor socially more differentiated personnel, work
+relations tend to be less colored by preexistent social ties.
+   A second group of settings lacks the specific restrictions on personnel
+which mark those just mentioned. These include the public dock, where
+visiting boats and the steamer are moored, as well as a few of the larger
+stores, e.g., the co-operative society store located near the central square,
+the square itself, and the community park. Here all local residents may
+meet somewhat more freely without commitments, subject, of course, to
+the constraints imposed by lack of privacy. The primary school, the junior
+high school, the church, and community meeting hall all form somewhat
+more restricted meeting grounds for more formal gatherings such as
+classroom sessions, religious services, political meetings, meetings of
+various voluntary associations, and occasional movies. The church is
+used only for church services.
+l
+I                              Social Meaning in Linguistic Structure   423
+
+          The socioecological restrictions on personnel and activities still allow
+       for a wide range of socially distinct happenings. ,The school, e.g., is used
+       for class sessions during the day and for meetings of voluntary associa-
+       tions during the evening. Similarly, in the town square, men gather for dis-
+      cussions of public affairs, women shoppers stop to chat with acquaint-
+      ances, adolescent peer groups play their various games, etc. A closer
+      specification of social constraints is possible if we concentrate on activi-
+      ties carried on by particular constellations of personnel, gathered in par-
+      ticular settings during a particular span of time. We will use the term
+      social situation to refer to these. Social situations form the background
+      for the enactment of a limited range of social relationships within the
+      framework of specific status sets, i.e., systems of complementary distribu-
+      tions of rights and duties (Barth 1966).
+          Thus alternative social definitions of the situation may occur within the
+      same setting, depending on the opportunities and constraints on interac-
+      tion offered by a shift in personnel and/or object of the interaction. Such
+      definitions always manifest themselves in what we would prefer to call a
+      social event. Events center around one or at the most a limited range of
+      topics and are distinguishable because of their sequential structure. They
+      are marked by stereotyped and thus recognizable opening and closing
+      routines. The distinction between situation and event can be clarified if
+     we consider the behavior of Hemnes residents who are sometimes seen in
+     the community office, first transacting their business in an officially cor-
+     rect manner, and then turning to one of the clerks and asking him to step
+     aside for a private chat. The norms which apply to the two kinds of in-
+     teraction differ; the break between the two is clearly marked. Therefore,
+     they constitute two distinct social events, although the personnel and the
+     locale remain the same.
+         The terms setting, social situation, and social event as used here can be
+     considered three successively more complex stages in the speaker's
+     processing of contextual information. Each stage subsumes the previous
+     one in such a way that the preceding one is part of the input affecting the
+     selection rules of the next stage. Thus, a speaker cannot identify the social
+     situation without first having made some decision as to the nature of the
+     setting. To demonstrate· how these factors influence language usage in
+     Hemnesberget, we turn now to some examples drawn from participant
+    observation.
+         The fact that the dialect reflects local values suggests that it symbolizes
+    relationships based on shared identities with local culture. Casual obser-
+    vations and rec0rding of free speech among locals in homes, workshops,
+    and the various public meeting places where such relationships are as-
+    sumed do indeed show that only the dialect is used there. However, sta-
+    tuses defined with respect to the superimposed national Norwegian
+    system elicit the standard. Examples of these are church services, presen-
+        424   Genesis, Maintenance, and Change of Linguistic Codes
+
+tation of text material in school, reports, and announcements-but not
+necessarily informal public appeals or political speeches-at public meet-
+ings. Similarly, meetings with tourists or other strangers elicit the stan-
+dard at least until the participants' identity becomes more clearly known.
+
+
+       Situational and Metaphorical Switching
+
+          When within the same setting the participants' definition of the
+social event changes, this change may be signaled among others by
+linguistic clues. On one occasion, when we, as outsiders, stepped up to a
+group of locals engaged in conversation, our arrival caused a significant
+alteration in the casual posture of the group. Hands were removed from
+pockets and looks changed. Predictably, our remarks elicited a code
+switch marked simultaneously by a change in channel cues (i.e., sentence
+speed, ryhthm, more hesitation pauses, etc.) and by a shift from (R) to (B)
+grammar: Similarly, teachers report that while formal lectures-where
+interruptions are not encouraged-are delivered in (B), the speakers will
+shift to (R) when they want to encourage open and free discussion among
+students. Each of these examples involves clear changes in the partici-
+pants' definition of each other's rights and obligation. We will use the term
+situational switching to refer to this kind of a language shift.
+   The notion of situational switching assumes a direct relationship
+between language and the social situation. The linguistic forms employed
+are critical features of the event in the sense that any violation of selection
+rules changes members' perception of the event. A person who uses the
+standard where only the dialect is appropriate violates commonly ac-
+cepted norms. His action may terminate the conversation or bring about
+other social sanctions. To be sure language choice is never completely
+determined; sociolinguistic variables must be investigated empirically.
+Furthermore, situations differ in the amount of freedom of choice al-
+lowed to speakers. Ritual events, like the well-known Vedic ceremonies
+of South Asia, constitute extreme examples of determination, where
+every care is taken to avoid even the slightest change in pronunciation or
+rhythm lest the effectiveness of the ceremony be destroyed. The greet-
+ings, petitions, and similar routines described by Albert (Chapter 2)
+similarly seem strictly determined.
+   In Hemnesberget, as our example will show later on, speakers are given
+relatively wide choice in vocabulary and some choice in syntax. Selection
+rules affect mainly the variables discussed previously. Values of these
+variables are sociolinguistically determined in the sense that when, on the
+one hand, we speak of someone giving a classroom lecture or performing
+a Lutheran church service or talking to a tourist, we can safely assume
+                           Social Meaning in Linguistic Structure   425
+
+    that he is using (8) grammatical forms. On the other hand, two locals
+    having a heart-to-heart talk will presumably speak in (R). If instead they
+   are found speaking in (8), we conclude either that they do not identify
+   with the values of the local team or that they are not having a heart-to-
+   heart talk.
+       In contrast with those instances where choice of variables is narrowly
+   constrained by social norms, there are others in which participants are
+   given considerably more latitude. Thus official community affairs are
+   largely defined as nonlocal and hence the standard is appropriate. But
+   since many individuals who carry out the relevant activities all know each
+   other as fellow locals, they often interject casual statements in the dialect
+   into their formal discussions. In the course of a morning spent at the com-
+   munity administration office, we noticed that clerks used both standard
+  and dialect phrases, depending on whether they were talking about official
+  affairs or not. Likewise, when residents step up to a clerk's desk, greeting
+  and inquiries about family affairs tend to be exchanged in the dialect,
+  while the business part of the transaction is carried on in the standard.
+      In neither of these cases is there any significant change in definition of
+  participants' mutual rights and obligations. The posture of speakers and
+  channel clues of their speech remain the same. The language switch here
+  relates to particular kinds of topics or subject matters rather than to
+  change in social situation. Characteristically, the situations in question
+  allow for the enactment of two or more different relationships among the
+  same set of individuals. The choice of either (R) or (8) alludes to these
+  relationships and thus generates meanings which are quite similar to those
+  conveyed by the alternation between ty or vy in the examples from Rus-
+ sian literature cited by Friedrich (Chapter 9). We will use the term meta-
+ phorical switching for this phenomenon.
+     The semantic effect of metaphorical switching depends on the existence
+ of regular relationships between variables and social situations of the type
+just discussed. The context in which one of a set of alternates is regularly
+ used becomes part of its meaning, so that when this form is then employed
+ in a context where it is not normal, it brings in some of the flavor of this
+ original setting. Thus a phrase like "April is the cruelest month" is
+regarded as poetic because of its association with T. S. Eliot's poetry.
+When used in natural conversation, it gives that conversation some of the
+flavor of this poetry. Similarly, when (R) phrases are inserted metaphori-
+cally into a (8) conversation, this may, depending on the circumstances,
+add a special social meaning of confidentiality or privateness to the con-
+versation.
+    The case of the local who, after finishing his business in the community
+office, turns to a clerk and asks him to step aside for a private chat further
+illustrates the contrast between metaphorical and role switching. By their
+constant alternation between the standard and the dialect during their
+        426    Genesis, Maintenance, and Change of Linguistic Codes
+
+business transaction, they alluded to the dual relationship which exists
+between them. The event was terminated when the local asked the clerk
+in the dialect whether he had time to step aside to talk about private af-
+fairs, suggesting in effect that they shift to a purely personal, local rela-
+tionship. The clerk looked around and said, "Yes, we are not too busy."
+The two then stepped aside, although remaining in the same room, and
+their subsequent private discussion was appropriately carried on entirely
+in the dialect.
+
+
+        The Experiment
+
+          Our discussion of verbal behavior so far has relied largely on
+deductive reasoning supported by unstructured ethnographic observa-
+tion. Additional tests of our hypothesis are based on controlled text elici-
+tation. We have stated that gatherings among friends and kin implying
+shared local identities must be carried on in the dialect. If we are correct
+in our hypothesis, then individuals involved in such friendly gatherings
+should not change speech variety regardless of whether they talk about
+local, national, or official matters.
+    In order to test this, we asked local acquaintances whom we knew to be
+part of the network of local relationships to arrange a friendly gathering at
+which refreshments were to be served and to allow us to record the pro-
+ceedings as samples of dialect speech. Two such gatherings were re-
+corded, one in the living room of our local hosts, and the other in the home
+of an acquaintance. The fact that arrangements for the meeting were made
+ by local people means that the groups were self-recruited. Participants in
+the first group included two sisters and a brother and their respective
+ spouses. One of the men was a shopkeeper, one of the few in this category
+who claims local descent; his brothers-in-law were employed as
+craftsmen. All three men are quite literate compared to workmen else-
+where in the world and well read in public affairs. They are active in local
+ politics and experienced in formal committee work. The second group
+included three craftsmen, friends and neighbors who worked in the same
+ plant, and their wives. One of these had served as a sailor on a Norwegian
+ merchant vessel for several years and spoke English. Participants were all
+ quite familiar with standard Norwegian, and our recorded conversations
+ contain several passages where the standard was used in quoting nonlocal
+ speech or in statements directed at us.                ·
+    Methodologically, self-recruitment of groups is important for two
+ reasons. It insures that groups are defined by locally recognized rela-
+ tionships and enables the investigator to predict the norms relevant to
+ their interaction. Furthermore, the fact that participants have preexisting
+                          Social Meaning in Linguistic Structure          427
+
+ obligations toward each other means that, given the situation, they are
+ likely to respond to such obligations in spite of the presence of strangers.
+ Our tape recording and our visual observations give clear evidence that
+ this in fact was what occurred.
+    Our strategy was to introduce discussion likely to mobilize obligations
+ internal to the group, thus engaging members in discussion among them-
+ selves. This proved to be relatively easy to do. When a point had been dis-
+cussed for some time, we would attempt to change the subject by injecting
+ new questions or comments. In doing this, we did not, of course, expect
+that our own interjections would predictably affect the speakers' choice of
+codes. Participants were always free to reinterpret our comments in any
+way they wished. Nevertheless, the greater the range of topics covered,
+the greater was the likelihood of language shift.
+    As a rule, our comments were followed by a few introductory ex-
+changes directed at us. These were marked by relatively slow sentence
+speeds, many hesitation pauses, and visual clues indicating that people
+were addressing us. Linguistically, we noted some switching to the stan-
+dard in such exchanges. After a brief period of this, if the topic was inter-
+esting, internal discussion began and arguments that referred to persons,
+places, and events we could not possibly be expected to have any knowl-
+edge about developed. The transition to internal discussion was marked
+by an increase in sentence speed and lack of hesitation pauses and similar
+clues. The tape recorder was run continously during the gatherings, and
+after some time participants became quite oblivious to its presence.
+   Only those passages which were clearly recognizable as internal discus-
+sion were used in the analysis; all others were eliminated. The texts ob-
+tained in this way consist of stretches of free discussion on diverse topics.
+The following passages show that our hypothesis about the lack of con-
+nection between code switching and change in topic was confirmed.
+
+Group I: Topic: Chitchat about Local Events
+
+GUNNAR:         ja de va ein sci laimm idag-ein sa kcimm me mcdka-s!t sci hanj
+                de va SCI varmt in} pa mo i gar-Ja, sa eg, de 1'(1110 in·e vent an}tl!
+                dtikk mli 110 ha 1neir enn di a11jra1111 bestanjdi.
+                Yes, there was one who came today-one who came with milk-so
+                he said it was so warm in Mo yesterday. Yes, I said, there is nothing
+                else to be expected, you people must always have more than any-
+                body else.
+
+                Topic: Industrial Pla1111i11g
+ALF:           her kunj ha vre eit par Sl/11/1 mel/0111store bedreftcl! pd eill frj>rti-
+               fwmti ma,w so ha bescl!ftiga! denna fcl/ke detta sci ha gcidd ledi
+               amm vinjtcl!m.
+        428   Genesis, Maintenance, and Change of Linguistic Codes
+
+                There might have been here some medium-size plants employing
+                forty to fifty men which then could offer work to those who have
+                nothing to do in winter.
+
+                Topic: Govenunental Affairs
+OSCAR:          vi jekk inj f<IJr denn forste injsti/jinga! ifrt frikommitenn.
+                'We supported the first proposal made by the Schei Committee.'
+
+
+   Item 1 deals with a local topic in a somewhat humorous way; items 2
+and 3 concern planning and formal governmental affairs. All these pas-
+sages are clearly in the dialect. Of the phonological variables, [nj] and [lj]
+show the highest degree of palatalization and [a] and [re] the highest
+degree of retraction throughout. Morphophonemic dialect markers are
+(R) ein "one," sl'i "who," ir,;<;e "not," dakk "you," 1neir "more," her
+"here," jekk "went," ifdt "from." Even lexical borrowings from the stan-
+dard such as injstiljing "proposal" and bedreftw "plants" are clearly in
+dialect phonology and morphology. We find one single instance of what
+seems to be a standard form: (B) mellom/ (R) imelja "middle." But this
+only occurs as part of the borrowed compound mellomstore "medium-
+size." In several hours of conversation with both groups, marked by many
+changes in topic, we have found a number of lexical borrowings but not a
+clear instance of phonological or grammatical switching, in spite of the
+fact that all informants clearly know standard grammar.
+  While our hypothesis suggests that switching is constrained in those sit-
+uations which allow only local relationships to be enacted, it also leads us
+to predict that whenever local and nonlocal relationships are relevant to
+the same situation, topical variation may elicit code switching. To test
+this, we selected members of a formerly quite active local peer group. For
+the last few years these individuals had all been at universities in Oslo,
+Bergen, and Trondheim. They returned home in the summer either for
+vacation or to take up local employment. In conventional interview ses-
+sions, all participant's claimed to be pure dialect speakers and professed
+local attitudes about dialect use. They thus regarded themselves as
+members of the local "team." As fellow students, however, they also
+shared statuses that are identified with pan-Norwegian values and as-
+sociated with the standard. Our assumption then is that if topical stimuli
+are introduced which elicit these values, switching may result.
+  Three gatherings were arranged in the home of one of our informants.
+Refreshments were again served. Elicitation strategies were similar to
+those employed with the first two groups, and similar ranges of topics
+were covered. The examples cited here show that our hypothesis was
+again confirmed.
+                           Social Meaning in Linguistic Structure       429
+
+ Group Ill: Topic: Chitchat about Drinking Habits
+
+BERIT:       ja,ja, nuen vi bjynjt anjer veien du-vi bjynjt i barnelosen-sci vi har
+             de II njajort.
+             Yes, yes, we started the other way, we started in the children's an-
+             tialcoholic league. So we have finished all that.
+
+             Topic: Industrial Development
+BERIT:       jo da viss di hare fikk de te /¢nn seg-sci e i vwrtfall prisniv(le luer i
+             Rana skmdd h¢ger enn dee vanligvis anner stann i lanne.
+             Yes, if they could only manage to make it profitable-so in any case
+             the prices tend to be higher here in Rana than is common in other
+             places in the country.
+
+             Topic: Informal Statement about University Regulations
+OLA:         nuenn no ha dcem111 lw111p{f! pa de.
+             But now they have relaxed that.
+
+             Topic: Authoritative Statement about University Regulations
+OLA:         de voe/ du mellom en faemm saeks.
+             You choose that from among five or six.
+
+    Comparison of Berit's and Ola's first statement with their second state-
+ ments shows considerable shifting in each case. Thus Berit's second
+utterance has such unpalatalized forms as anner (vs. anjer), and raised and
+less retracted [a] in da. She also uses standard variables (B)fikk/(R)fekk,
+(B)viss/(R)vess, (B)V<1?rtfall/(R)kvartfal!, (B)lu1?r/(R)her, etc. Ola's second
+ statement is characterized by (B)nzel/011/(R)imelja and (B)en/(R)ein. Simi-
+larly, his [re] inf{l?,n and :u1?ks is raised and fronted. In neither case is the
+ shift to the standard complete-after all the situation never lost its infor-
+mality. Berit's statement still contains dialect words like (R)l¢n11/(B)/¢11ne
+"to be profitable"; (R)stan/(B)steder "places"; and Ola has
+(R)v{l?//(B)velger "to choose." What we see then is a breakdown of co-
+occurrence rules, an erosion of the linguistic boundary between Ranamal
+and Bokmal. The tendency is to switch toward standard phonology while
+preserving some morphophonemic and lexical dialect features of (R). Fea-
+tures retained in this manner are largely those which also occur in other
+local dialects and to some extent also in N ynorsk. They have thus gained
+some acceptance as proper dialect forms. Those characteristics which
+locals refer to as broad speech, i.e., those that are known as local peculiar-
+ities, tend to be eliminated.
+    It must also be noted that Berit and Ola also differ in their pronuncia-
+        430    Genesis, Maintenance, and Change of Linguistic Codes
+
+tion of the phonological variables. Ola's normal pronunciation shows the
+strong palatalization of consonant and extreme vowel retraction charac-
+teristic of most residents. Berit's normal pronunciation has medium
+palatalization and medium retraction. Both, however, switch in the same
+direction, in response to similar situational and topical clues, and this
+agreement on the rules of stylistic manipulation is clearly more important
+in this case than the mere articulatory difference in Berit's and Ola's
+speech.
+   The social character of the style switch was clearly revealed when the
+tape-recorded conversations were played back to other Hemnes resi-
+dents. One person who had been working with us as a linguistic informant
+at first refused to believe that the conversations were recorded locally.
+When he recognized the voices of the participants, he showed clear signs
+of disapproval. Apparently, he viewed the violation of co-occurrence
+rules as a sign of what is derogatorily called knot "artificial speech" in col-
+loquial Norwegian. Some of the participants showed similar reactions
+when they heard themselves on tape. They promised to refrain from
+switching during future discussion sessions. Our analysis of these later
+sessions, however, revealed that when an argument required that the
+speaker validate his status as an intellectual, he would again tend to use
+standard forms in the manner shown by Berit and Ola. Code selection
+rules thus seem to be akin to grammatical rules. Both operate below the
+level of consciousness and may be independent of the speaker's overt in-
+tentions.
+   Additional information about usage patterns in group III was provided
+through a fortunate accident. One of our sessions with this group was
+interrupted by a somewhat mentally retarded young person, who has the
+habit of appearing in peoples' homes to solicit assistance for his various
+schemes. Here are some examples of remarks addressed to him by Berit
+and Solveig, of all the members of the group, the most prone to use stan-
+dard forms. Her normal pronunciation shows the least amount of conso-
+nant palatalization. She is socially more marginal to Hemnes than other
+members of the group.
+Group Ill: Topic: Talking to a Retarded Local Youth
+
+BERIT:           e de du sa vikarier ff/)rr lwnj 110.
+                 Are you a stand-in for him now?
+SOLVEIG:        /zanj kanj jo jett gate, /zaj kanj 110 va me.
+                He is good at word games, he should participate.
+
+   Both Berit and Solveig's pronunication in these examples become iden-
+tical with the ordinary speech of Ola and of the members of group I. The
+extreme palatalization of [nj] and the lowering of [a] is not normal for
+                          Social Meaning in Lingllistic Structllre   431
+
+   them; they clearly are talking down in this case. Their stylistic range, as
+   well as their facility in switching, seem to be' greater than those of the
+   others.
+      In comparing the behavior of the first two groups with that of group III,
+   we find two different kinds of language-usage patterns. All three groups
+   speak both the dialect and the standard. Groups I and II, however, show
+   only situational switching. When members talk to each other, differences
+   of formality or informality to topic are reflected only in the lexicon. Pro-
+  nunciation and morphology do not change. Those groups shift to (B)
+  phonology and grammar only when remarks are addressed directly to us
+  who count as outsiders or in indirect quotes of such matters as govern-
+  ment rules, on officials' statements, etc. In such instances of situation
+  switching, therefore, Ranamal and Bokmal are kept separate throughout
+  by strict co-occurrence restrictions. In group III, however, deviation from
+  the dialect results both from metaphorical and situation switching. Meta-
+  phorical switching, furthermore, involves a breakdown of the co-
+  occurrence restrictions characteristic of situational shifts.
+     The dialect usage of locals, on the one hand, corresponds to their view
+  that the two varieties are distinct, and to their insistence on maintaining
+  the strict separation of local and nonlocal values. For the students, on the
+  other hand, the distinction between dialect and standard is not so sharp.
+  Although they display the same general attitudes about the dialect as the
+ team of locals, their behavior shows a range of variation rather than an al-
+ ternation between distinct systems. It reflects a de facto recognition of
+ their own nonlocal identification.
+     A fourth conversational group further illustrates the internal speech
+ diversity in the community. The principal speakers here are two men, A
+ and B, and C, who is A's wife. All come from families who tend to dissoci-
+ ate themselves from the egalitarian value system of the local team. Their
+ normal style of speech was Bokmal for remarks directed, at us as well as for
+ in-group speech. Only in a few instances when A began telling local
+anecdotes did he lapse into Ranamal. (R) forms were introduced as meta-
+phorical switches into what were basically (B) utterances to provide local
+color, indicate humor, etc., in somewhat the same way that speakers in
+group III had used (B) forms in (R) utterances.
+     In the course of the evening A and C's teen-age daughter joined the
+conversation. She expressed attitudes toward the dialect which are quite
+similar to those of the students in group III and thus are somewhat dif-
+ferent from those of her parents. The few samples we have of her speech
+show (R) phonology similar to that of Berit and Solveig in group II I.
+    Although the picture of language usage derived from the four groups
+seems at first highly complex, it becomes less so when viewed in relation
+to speakers' attitudes, interactional norms, and local values. All Hemnes
+        432   Genesis, Maintenance, and Change of Linguistic Codes
+
+residents have the same repertoire. Their linguistic competence includes
+control of both (R) and (B) rules. They vary in the way in which they use
+these rules. Expressed attitudes toward (R) and (B) do not provide an
+explanation for these differences in speech behavior. The most reasonable
+explanation of the ways in which these groups differ seems to be that the
+dual system of local values, differences in individual background, and the
+various social situations in which members find themselves operate to
+affect their interpretation of the social meaning of the variables they
+employ.
+
+
+        Conclusion
+
+          Our analysis in this chapter is based on the assumption that
+regularities in behavior can be analyzed as generated from a series of indi-
+vidual choices made under specifiable constraints and incentives (Barth
+1966). This position implies an important break with previous approaches
+to social structure and to language and society. Behavioral regularities are
+no longer regarded as reflections of independently measurable social
+norms; on the contrary, these norms are themselves seen as com-
+municative behavior. They are reflected in what Goffman (1959) calls the
+rules of impression management or, in our terms, in the social meanings
+which constrain the actor's adoption of behavioral strategies in particular
+situations.
+    In interactional sociolinguistics, therefore, we can no longer base our
+analyses on the assumption that language and society constitute different
+ kinds of reality, subject to correlational studies. Social and linguistic
+information is comparable only when studied within the same general
+analytical frame work. Moving from statements of social constraints to
+grammatical rules thus represents a transformation from one level of
+ abstraction to another within a single communicative system.
+    As Bernstein (1961) has pointed out, verbal communication is a
+process in which actors select from a limited range of alternates within a
+ repertoire of speech forms determined by previous learning. Although ul-
+timately this selection js a matter of individual choice, our chapter shows
+ that the rules of codification by which the deep structure of interpersonal
+ relations is transformed into speech performances are independent of
+ expressed attitudes and similar in nature to the grammatical rules
+ operating on the level of intelligibility. They form part of what Hymes
+ (1972) has called the speaker's communicative competence. Socio-
+ linguistic constraints on the selection of variables seem to be of central im-
+portance in this codification process. We argued that they determine the
+ speaker's perception of the utterances as a unit of social meaning. By ac-
+                         Social Meaning in Linguistic Structure   433
+
+ cepting the native's view of what is and what is not properly part of a
+ dialect or language, linguists have tended to assume these co-occurrences
+ rather than investigate them empirically. We have attempted to develop
+ descriptive procedures suitable for the empirical investigation of these
+ rules by combining various ethnographic field techniques with conven-
+ tional linguistic elicitation methods.
+    In Hemnes, where Ranamal and Bokmal communicate the same objec-
+ tive information, we were led to ask how the apparent separateness of the
+ dialect and the standard can exist and be maintained. Ethnographic inves-
+ tigation suggests the hypothesis that Ranamal has social value as a signal
+ of distinctness and of a speaker's identification with others of local
+ descent. This social significance of the dialect can only be understood by
+ contrast with the meanings which locals assign to the standard, the lan-
+ guage of nonlocal activities. The standard is associated with education
+ and power on the national scene and carries connotations of differences in
+ rank which are unacceptable in the realm of informal local relations.
+When used casually among Hemnes residents, therefore, it communicates
+dissociation from the "local team."
+    Since most Hemnes natives live, marry, and earn their livelihood
+among others of their own kind, their values are rarely challenged. Their
+personal relations have all.the characteristics of network closure (Barnes
+ J 954). On the other hand, those with nonlocal background and who main-
+tain significant ties in other communities tend to seek their friends among
+those in similar circumstances, even though they may have resided in
+Hemnes for more than a generation. Their contacts with members of the
+"local team" remain largely nonpersonal, focusing around single tasks,
+and are thus similar in kind to nonlocal contacts. This lack of personal ties
+between individuals of dissimilar backgrounds and cultural identification
+reinforces the general social meanings ascribed to the dialect by those
+who share local background and identity, and thus contributes to main-
+taining the separateness of dialect and standard.
+    While this information provides the background for our study, it does
+not explain the fact that all residents frequently switch between the
+dialect and the standard. This can only be explained through the analysis
+of particular speech events. The concepts of setting, social situation, and
+social event represent an attempt to explain the natives' conception of
+their behavioral environment in terms of an ordered set of constraints
+which operate to transform alternative lines of behavior into particular
+social meanings. Our distinction between metaphoric and role switching
+shows how constraints at different levels of inclusiveness produce appro-
+priate changes in the way speech pe1formances are interpreted.
+    Although locals show an overt preference for the dialect, they tolerate
+and use the standard in situations where it conveys meanings of of-
+        434    Genesis, Maintenance, and Change of Linguistic Codes
+
+ficiality, expertise, and politeness toward strangers who are clearly seg-
+regated from their personal life. In private gatherings where people meet
+as natives and equals, a speaker's use of standard variables suggests
+ social dissociation, an attitude which is felt to be out of place. Although
+the students in our experimental sessions meet as locals and friends, they
+ differ from other members of the local team because they share the addi-
+tional status of intellectuals. This fact modifies the social meaning of stan-
+dard forms when they are used among the students. To refrain from using
+standard forms for these topics which elicit participants' shared experi-
+ence as intellectuals would constitute an unnatural limitation on their
+freedom of expression. Group IV demonstrates the effect of intracom-
+munity differences in value systems on language-usage patterns. Because
+of this identification with the urban middle classes, the adult members of
+this group use (B) as their normal form of speech while employing (R)
+only for special effect. Such usage distinctions, however, are not neces-
+sarily very stable. The teen-age daughter of the adult members seems to
+follow local usage, thus symbolizing her identification with her peer group
+rather than with her family.
+   Our experiments, and the analysis presented in this chapter, demon-
+strate the importance of social or nonreferential meaning for the study of
+language in society. Mere naturalistic observation of speech behavior is
+not enough. In order to interpret what he hears, the investigator must
+have some background knowledge of the local culture and of the pro-
+cesses which generate social meaning. Without this it is impossible to gen-
+eralize about the social implication of dialect differences. The processes
+studied here are specific to particular small communities. Predictions of
+language maintenance or language shift in larger societies will, of course,
+have to depend on statistical generalizations. More studies along the lines
+suggested here, however, should materially improve the validity of such
+generalizations. For Hemnesberget, the fate of the dialect seems assured
+as Jong as local identification maintains its importance, and the socioeco-
+logical system continues to prevent any significant accumulation of indi-
+viduals who, like the students, fail to maintain the situational barrier
+between the dialects and'the standard.
+ 15
+
+Domains and the Relationship
+between Micro-- and
+Macrosocio1inguistics
+JOSHUA A. FISHMAN
+
+
+
+
+ Joshua A. Fishman is a professor of sociology at Yeshiva
+  University. He has been concerned with multilingualism
+  and the social role of language for some years. Having
+ completed studies of language loyalty in the United
+ States, and Spanish-English bilingualism among Puerto
+ Ricans in the New York area, he is now engaged in
+ research on language policy and development. The theo-
+ retical framework, as well as part of the data presented in
+ this chapter, are contained in an earlier article (Fishman
+ 1965), of which the present essay is an extension and
+ revision.
+    Fishman is here concerned with situations of language
+choice, as are Blom and Gumperz, but the focus and the
+ methods employed are instructively different. Blom and
+Gumperz treat norms and other factors all as dimensions
+of one communicative system as input to a single set of
+rules. The potential for change in the situation is de-
+tected, but information as to the larger society and his-
+tory is used as context to illuminate the set of rules itself.
+The emphasis is on the individual choosing among alter-
+native modes of behavior in accordance with linguistic
+and social constraints. Fishman, however, is concerned
+with behavioral norms seen as jural rules (see Introduc-
+tion) and defined in sociological terms as regularities
+which stand apart from individual behavior. He concen-
+trates on stable systems of choice, or "proper" usage as
+he calls it, specifically excluding situations of change
+where these norms no longer hold. Fishman's key con-
+cept, domain, is intended to relate specific language
+choices, from which it is an abstraction, to general insti-
+                            435
+436   Genesis, Mai/ltenance, and Change of Linguistic Codes
+
+tutions and spheres of activity, both in one society and,
+comparatively, between societies. Concern with chang-
+ing situations is not dealt with in terms of formulated
+rules and linguistic variation but at the level of changes in
+spheres of activity and institutions. Whereas Blom and
+Gumperz place participant observation and analysis of
+spontaneous speech at the center of their approach,
+Fishman employs techniques more characteristic of
+large-scale social investigations, including self-report in-
+struments, census, word association, test together with
+factor analysis and analysis of variance. The approach
+taken here is akin to the correlational view of language
+described by William Bright ( 1966) and discussed in the
+ Introduction.
+    Further difference lies in the materials studied and in
+ the approach taken. Both chapters are concerned with
+successful prediction, but the Norwegian case of vari-
+ables within one linguistic matrix clearly requires close
+phonetic and other linguistic specification, whereas the·
+ Puerto Rican case can be approached in terms of two
+grossly distinguishable wholes.
+    Notice in Fishman's discussion of topic that this sa-
+ lient dimension of rule-governed choices is shown to
+ depend on more than one underlying process. The
+ implicit danger to which Fishman calls attention is that
+ success in stating rules and predicting use may remain at
+ a "surface structure" level and may not reach the level at
+ which the predictable regularities are generated. In both
+ this and the preceding chapter there is the concern of
+ relating individual choices to relatively stable patterns,
+ but whereas Blom and Gumperz align themselves with
+ the view that the latter are generated from the former,
+ Fishman treats the individual choices as being derived
+ from stable patterns. (It is worthwhile to compare the
+ Blom-Gumperz schema of setting-situation-event with
+ the scheme of relationships in Fig. 15. I of the present
+ chapter.)
+    Domain analysis is linked to the analysis of cultural
+ scenes discussed by Frake (Chapter 3), although the defi-
+ nition of domain here differs from the ethnoscientific defi-
+ nition of the term. Fishman points out that a fixed set of
+ domains cannot be prescribed in advance for all cases.
+ He envisages different categories of participant (e.g.,
+            Domains between Micro- and Macrosociolinguistics     437
+
+         children), different types of social context1 (e.g., im-
+         migrant-host contexts), and different levels of focus (e.g.,
+         social-psychological vs. societal-institutional). While
+         concerned with the establishment of the validity of the
+         constructs for the particular Puerto Rican study,
+         Fishman locates the findings of appropriate domains first
+         of all in the integrative intuition of the investigator. He
+         implies that the heuristic value of the concept of domain
+         does not depend on any one method of data collection
+         and analysis. Additional related readings are provided
+         by: Ferguson ( 1966), Gumperz (1961 ), Rona (1966),
+         Rubin (1968), and Fishman (1970).
+
+
+
+         The Analysis of Multilingual Settings
+
+          Multilingual speech communities differ from each other in so
+ many ways that every student of societal multilingualism must grapp.Je
+ with the problem of how best to systematize or organize the manifold dif-
+ferences that are readily recognizable between them. This chapter is
+ directed to a formal consideration of several descriptive and analytic vari-
+ables which may contribute to an understanding of who speaks what lan-
+guage to whom and when in those speech communities that are character-
+ ized by widespread and relatively stable multilingualism. It deals
+primarily with "within-group (or intragroup) multilingualism" rather than
+with "between-group (or intergroup) multilingualism," i.e., it focuses upon
+those multilingual settings in which a single population makes use of two
+(or more) "languages" or varieties of the "same language" for internal
+communicative purposes (Fishman 1967). As a result of this limitation,
+mastery or control of mother tongue and other tongue [or, more generally,
+of the various languages or varieties constituting the speech community's
+linguistic repertoire (Gumperz 1962)] may be ruled out as a crucial vari-
+able since the members of many speech networks could communicate
+with each other quite easily in any of their available codes or subcodes. It
+seems dear, however, that habitual language choice in multilingual
+speech communities or speech networks is far from being a random
+matter of momentary inclination, even under those circumstances when it
+could very well function as such from a purely probabilistic point of view
+(Lieberson 1964). "Proper" usage dictates that only one of the theoreti-
+cally coavailable languages or varieties will be chosen by particular
+classes of interlocutors on particular kinds of occasions to discuss partic-
+ular kinds of topics.
+         438    Genesis, Maintenance, and Change of Linguistic Codes
+
+   What are the most appropriate parameters in terms of which these
+choice patterns can be described in order to attain both factual accuracy
+and theoretical parsimony, and in order to facilitate the integration of
+small-group and large-group research rather than its further needless
+polarization? If we can solve the problem of how to describe language
+choice in stable, within-group bilingual settings (where the limits of lan-
+guage mastery do not intrude), we can then more profitably turn (or return)
+to the problem of choice determinants in less stable settings such as those
+characterizing immigrant-host relationships and between-group mul-
+tilingual settings more generally (Fishman I 964).
+
+  A HYPOTHETICAL EXAMPLE
+
+   American students are so accustomed to bilingualism as a "vanishing
+phenomenon," as a temporary dislocation from a presumably more
+normal state of affairs characterized by "one man, one language," that an
+example of stable intragroup bilingualism may help to start off our discus-
+sion in a more naturalistic and less bookish vein.
+   A government functionary in Brussels arrives home after stopping off at
+his club for a drink. He generally speaks standard French in his office,
+standard Dutch at his club, and a distinctly local variant of Flemish at
+home. 1 In each instance he identifies himself with a different speech
+network to which he belongs, wants to belong, and from which he seeks
+acceptance. All of these networks-and more-are included in his
+overarching speech community, even though each is more commonly as-
+sociated with one speech variety than with another. Nevertheless, it is not
+impossible to find occasions at the office in which he speaks or is spoken
+to in one or another variety of Flemish. There are also occasions at the
+club when he speaks or is addressed in French; finally, there are oc-
+casions at home when he communicates in standard Dutch or even
+French.
+   Our hypothetical government functionary is most likely to give and get
+Flemish at the office when he bumps into another functionary who hails
+from the very same Flemish-speaking town. The two of them grew up
+together and went to school together. Their respective sets of parents
+strike them as being similarly "kind- but- old- fashioned." In short, they
+ share many common experiences and points of view (or think they do, or
+ pretend they do), and, therefore, they tend to speak to each other in the
+
+  1
+    This example may be replaced by any one of a number of others: standard German,
+Schwytzertiitsch, and Romansch (in parts of Switzerland); Hebrew, English, and Yiddish in.
+Israel; Riksmaal, Landsmaal, and more local dialectal variants of the latter in Norway; stan-
+dard German, Plattdeutsch, and Danish in Schleswig; French, standard German, and
+German dialect in Luxembourg, etc.
+               Domains between Micro- and Macrosocio/inguistics                  439
+
+language which represents for them the intimacy that they share. The two
+do not cease being government functionaries when they speak Flemish to
+each other; they simply prefer to treat each other as intimates rather than
+as functionaries. However, the careful observer will also note that the two
+do not speak Flemish to each other invariably. When they speak about
+world affairs, or the worlds of art and literature, not to mention the world
+of government, they tend to switch into French (or to reveal far more
+French lexical, phonological, or even grammatical influence in their Flem-
+ish), even though (for the sake of our didactic argument) the mood of in-
+timacy and familiarity remains clearly evident throughout.
+   Thus our overall problem is twofold: (a) to recognize and describe
+whatever higher order regularities there may be in choosing among the
+several varieties that constitute the repertoire of a multilingual speech
+community (so that we need not always remain at an anecdotal and
+clinical level of analysis) and (b) nevertheless, to provide for and recog-
+nize the interpersonal fluctuation (= lower order societal patterning) that
+remains even when higher order societal patterning is established.
+
+   TOPIC
+   The fact that two individuals who usually speak to each other primarily
+in X nevertheless switch to Y (or vacillate more noticeably between X
+and Y) when discussing certain topics leads us to consider topic per se as
+a regulator of language use in multilingual settings.
+   The implication of topical regulation of language choice is that certain
+topics are somehow handled "better" or more appropriately in one lan-
+guage than in another in particular multilingual contexts. However, this
+greater appropriateness may reflect or may be brought about by several
+different but mutually reinforcing factors. Thus, some multilingual speak-
+ers may "acquire the habit" of speaking about topic x in language X par-
+tially because that is the language in which they are trained to deal with
+this topic (e.g., they received their university training in economics in
+French), partially because they (and their interlocutors) may lack the spe-
+cialized terms for a satisfying discussion of x in language Y, 2 partially
+because language Y itself may currently lack as exact or as 1nany terms
+for handling topic x as those currently possessed by language X, and par-
+
+   2 This effect has been noted even in normally monolingual settings, such as those ob-
+
+taining among American intellectuals, many of whom feel obliged to use French or German
+words in conjunction with particular professional topics. English lexical influence on the lan-
+guage of immigrants in the United States has also often been explained on topical grounds.
+The importance of topical determinants is discussed by Haugen (I 953, 1956) and Weinreich
+(1953) and, more recently, by Gumperz (1962) and Susan Ervin-Tripp (1964). It is implied
+as a "pressure" exerted upon "contacts" in Mackey's descriptions of bilingualism (I 962,
+1965, 1966).
+          440     Genesis, Maintenance, and Change of Linguistic Codes
+
+tially because it is considered strange or inappropriate to discuss x in lan-
+guage Y. The very multiplicity of sources of topical regulation suggests
+that topic may not in itself be a convenient analytic variable when lan-
+guage choice is considered from the point of view of the larger societal
+patterns and sociolinguistic norms of a multilingual setting, no matter how
+fruitful it may be at the level of face-to-face interaction per se. What would
+be helpful for larger societal investigations and for intersocietal compari-
+sons is an understanding of how topics reflect or imply regularities which
+pertain to the major spheres of activity in any society under consider-
+ation. We may be able to discover the latter ifwe inquire why a significant
+number of people in a particular multilingual setting at a particular time
+have received certain kinds of training in one language rather than in
+another; or what lt reveals about a particular multilingual setting if lan-
+guage X is currently actually less capable of coping with topic x than is
+language Y. Does it not reveal more than merely a topic-language rela-
+tionship at the level of particular face~to-face encounters? Does it not
+reveal that certain socioculturally recognized spheres of activity are, at
+least temporarily, under the sway of one language or variety (and,
+therefore, Ptrrhaps, under the control of certain sp~ech networks) rather
+than others? Thus, while topic is doubtlessly a crucial consideration in un-
+derstanding language choice variance in our two hypothetical government
+functionaries, we must seek a means of examining and relating their indi-
+vidual, momentary choices to relatively stable patterns of choice that
+exist in their multilingual speech community as a whole.
+
+
+
+          Domains of Language Behavior
+
+         l. The concept of domains of language behavior seems to have
+received its first partial elaboration from students of language mainte-
+nance and language shift among Auslandsdeutsche in pre-World-War-II
+multilingual settings. 3 German settlers were in contact with many dif-
+ferent non-German-speaking populations in various types of contact set-
+tings and were exposed to various kinds of sociocultural change pro-
+cesses. In attempting to chart and compare the fortunes of the German
+language under such varying circumstances Schmidt-Rohr (1963) seems
+to have been the first to suggest that dominance configurations needed to
+
+
+  3 The study of language maintenance and language shift is concerned with the relationship
+
+between change or stability in habitual language use, on the one hand, and ongoing psycholo-
+gical, social, or cultural processes of change and stability, on the other hand (Fishman i 964,
+1966; Nahirny and Fishman 1965).
+                    Domains between Micro- and Macrosocio/inguistics                  441
+
+       be established to reveal the overall status of language choice in various
+       domains of behavior. The domains recommended by Schmidt-Rohr were
+      the following nine: the family, the playground and street, the school, the
+      church, literature, the press, the military, the courts, and the govern-
+      mental administration. Subsequently, other investigators either added ad-
+      ditional domains [e.g., Mak (1935), who nevertheless followed Schmidt-
+      Rohr in overlooking the work sphere as a domain], or found that fewer
+     domains were sufficient in particular multilingual settings [e.g., Frey
+     0 945), who required only home, school, and church in his analysis of
+     Amish "triple talk"]. However, what is more interesting is that Schmidt-
+     Rohr's domains bear a stdking similarity to those "generally termed"
+     spheres of activity which have more recently been independently ad-
+    ~anced by others interested in the study of acculturation, intergroup rela-
+    hons, and bilingualism [e.g., Dohrenwend and Smith (1962)) .
+      . Domains are defined, regardless of their number,4 in terms of institu-
+    tional contexts and their congruent behavioral co-occurrences. They at-
+    tempt to summate the major clusters of interaction that occur in clusters
+   of multilingual settings and involving clusters of interlocutors. Domains
+   enable us to understand that language choice and topic, appropriate
+   though they may be for analyses of individual behavior at the level of
+  fac~-to-face verbal encounters, are, as I suggested, related to widespread
+  sociocultural norms and expectations. By recognizing the existence of
+  domains it becomes possible to contrast the language of topics for individ-
+  U~ls or particular subpopulations with the predominant language of
+;domains for larger networks, if not the whole, of a speech community.
+      2. The appropriate designation and definition of domains of language
+  behavior obviously calls for considerable insight into the sociocultural
+ dy~amics of particular multilingual speech communities at particular
+ ~~nods in their history. Schmidt-Rohr's domains reflect not only mul-
+ tilingual settings in which a large number of spheres of activity, even
+~hose that pertain to governmental functions, are theoretically open to
+   0
+     t_h or all of the languages present but also those multilingual settings in
+Which such permissiveness is at least sought by a sizable number of inter-
+ested parties. Quite different domains might be appropriate if one were to
+study habitual language use among children in these very same settings.
+Ce~tainly, immigrant-host contexts, in which only the language of the host
+society is· recognized for governmental functions, would require other and
+Perhaps fewer domains, particularly if younger generations constantly
+
+  4
+th _We can safely reject the implication encountered in certain discussions of domains that
+b ~Ie ~nust be an invariant set of domains applicable to all multilingual settings. If language
+k~d~vior is r:~ective of sociocultural patterning, as is now wi,dely acc:pted.' t~en d!fferent
+d    _of muit1hngual speech communities should benefit from ,malyses m te1 ms of different
+  omain O f
+       s    language use, however defined and validated.
+          442     Genesis, Maintenance, and Change of Linguistic Codes
+
+ leave the immigrant society and enter the host society. Finally, the
+domains of language behavior may differ from setting to setting not only in
+terms of number and designation but also in terms of level. Thus in study-
+ing acculturating populations in Arizona, G. C. Barker [who studied bilin-
+gual Spanish Americans.(19,47)] and Barber [who studied trilingual Yaqui
+ Indians (1952)] formulated domains at the ln•el of sociopsychological
+analysis: intimate, informal, formal, and intergroup. Interestingly enough,
+the domains defined in this fashion were then identified with domains at
+ the societal-institutional level mentioned previously. The "formal" do-
+ main, e.g., was found to coincide with religious-ceremonial activities; the
+intergroup" domain consisted of economic and recreational activities as
+well as of interactions with governmental-legal authority, etc. The in-
+terrelationship between domains of language behavior defined at a so-
+cietal-institutional level and domains defined at a sociopsychological level
+(the latter being somewhat closer to the topical-situational analyses dis-
+cussed earlier) may enable us to study language choice in multilingual set-
+tings in newer and more fruitful ways.
+   3. The "governmental administration" domain is a social nexus which
+normally brings certain kinds of people together primarily for a certain
+cluster of pw-ri,ses. Furthermore, it brings them together primarily for a
+certain set of role relations (discussed later) and in a delimited environ-
+ment. Thus, domain is a sociocultural construct abstracted from topics of
+communication, relationships between communicators, and locales of
+communication, in accord with the institutions of a society and the
+spheres of activity of a speech community, in such a way that individual
+behavior and social patterns can be distinguishedji-cJrn each other and yet
+related to each other. 5 The domain is a higher order summarization which
+is arrived at from a detailed study of the face-to-face interactions in which
+language choice is imbedded. Of the many factors contributing to and sub-
+sumed under the domain concept, some are more important and more ac-
+cessible to careful measurement than others. One of these, topic, has
+already been discussed. Two others, role relation and locale, remain to be
+discussed. Role relations may be of value to us in accounting for the fact
+that our two hypothetical governmental functionaries, who usually speak
+an informal variant of Flemish to each other at the office, except when
+they talk about technical, professional, or sophisticated "cultural''
+matters, are themselves not entirely alike in this respect. One of the two
+tends to slip into French more frequently than the other. It would not be
+surprising to discover that he is the supervisor of the other.
+
+   5
+     For a discussion of the differences and similarities between "functions of language
+behavior" and "domains oflanguage behavior" see Fishman ( 1964). "Functions" stand closer
+t? so.ciopsychological analysis, for they abstract their constituents in terms of individual mo·
+t1vat1on rather than in societal institutions.
+
+
+
+
+                                                                                                   ,,,,,
+                    Domains between Micro- and Macrosociolinguistics                    443
+
+       DOMAINS AND ROLE RELATIONS
+
+          In many studies of multilingual behavior the family domain has proved
+       to be a very crucial one. Multilingualism often begins in the family and
+       depends upon it for encouragement if not for protection. In other cases,
+       multilingualism withdraws into the family domain after it has been dis-
+      placed from other domains in which it was previously encountered. Little
+      wonder then that many investigators, beginning with Braunshausen sev-
+      eral years ago (1928), have differentiated within the family domain in
+      terms of "speakers." However, two different approaches have been
+     followed in connection with such differentiation. Braunshausen [and,
+     much more recently, Mackey (1962, 1965, 1966)] have merely specified
+     family "members": father, mother, child, domestic, governess and tutor,
+     etc. Gross (1951 ), however, has specified dyads within the family: grand-
+     father to grandmother, grandmother to grandfather, grandfather to father,
+     grandmother to father, grandfather to mother, grandmother to mother,
+    grandfather to child, grandmother to child, father to mother, mother to
+    father, etc. The difference between these two approaches is quite consid-
+    erable. Not only does the second approach recognize that interacting
+    members of a family (as well as the participants in most other domains of
+    language behavior) are hearers as well as speakers (i.e., that there may be
+   a distinction between multilingual production) but it also recognizes that
+   their language behavior may be more than merely a matter of individual
+   Preference or facility but also a matter of role relations. In· certain
+   societies particular behaviors (including language behaviors) are expected
+   (if not required) of particular individuals vis-a-vis each other
+  (Goodenough 1965a).
+  . The family domain is hardly unique with respect to its differentiability
+  Into role relations. Each domain can be differentiated into role relations
+  that are specifically crucial or typical of it in particular societies at partic-
+ u!ar times. The religious domain (in those societies where religion can be
+ ~1fferentiated from folkways more generally) may reveal such role rela-
+ ~1ons as cleric-cleric, cleric-parishioner, parishioner-cleric, and parish-
+ ioner-parishioner. Similarly, pupil-teacher, buyer-seller, employer-
+emp]oyee, judge-petitioner, all refer to specific role relations in other
+domains. It would certainly seem desirable to describe and analyze lan-
+guage use or language choice in a particular multilingual setting in terms
+of the crucial role relations within the specific domains considered to be
+rnost revealing for that setting.o The distinction between own-group-in-
+   0 These remarks are not intended to imply that all role-relation differences are necessarily
+~elated to language-choice differences. This almost certainly is not the case. Just which role-
+~elation differences are related .to language-choice differences. \and unde: what circum-
+s~ances) is a matter for empirical determination within each mult!lmg~al seth~g i's well as _at
+different points in time within the same setting. In general the venficat1on of s1gn!ficantly dif-
+ferent clusters of a/lo-roles (as well as significantly different clusters of allo-top1cs and allo-
+caJes) (see later discussion) is a prerequisite for the empirical formulation of domains.
+        444   Genesis, Maintenance, and Change of Linguistic Codes
+
+terlocutor and other-group-interlocutor may also be provided for in this
+way_ when intergroup bilingualism becomes the focus of inquiry.
+
+  DOMAINS AND LOCALES
+   Bock (1964), Ervin-Tripp (1964), and Gumperz (1964b) have pre-
+sented many examples of the importance of locale as a determining com-
+ponent of situational analysis. If one meets one's clergyman at the race-
+track, the impact of the locale on the topics and role relationships that
+normally obtain is likely to be quite noticeable. However, we must also
+note that domains too are locale related in the sense that most major
+social institutions are associated with a very few primary locales. Just as
+topical appropriateness in face-to-face language choice is indicative of
+larger scale societal patterns, and just as role appropriateness in face-to-
+face language choice is similarly indicative, so the locale constraints and
+local appropriatenesses that obtain in face-to-face language choice have
+their large-scale implications and extrapolations.
+
+  THE CONSTRUCT VALIDITY OF DOMAINS
+    A research project dealing with Puerto Rican bilingualism in the
+Greater New York City area has yielded data which may help clarify the
+construct validity of domains as well as the procedure for their recogni-
+ tion. Since domains are a higher order generalization than congruent situ-
+ ations (i.e., from situations in which individuals interacting in appropriate
+ role relationships with each other, in the appropriate locales for these role
+ relationships, and discussing topics appropriate to their role rela-
+ tionships), it was first necessary to try out and revise intuitive and rather
+ clinical estimates of the widespread congruences that were felt to obtain.
+,After more than a year of participant observation and other data-
+,gathering experiences, it seemed to Greenfield ( 1968) that five domains
+ could be generalized from the innumerable situations that he had encoun-
+ tered in the Puerto Rican speech community. He tentatively labeled these
+  "family," "friendship," "religion," "education," and "employment" and
+  proceeded to determine whether a typical situation could be presented for
+ each domain as a means of collecting valid self-report data on language
+  choice. As indicated on p. 445 each domain was represented by a con-
+  gruent person (interlocutor), place, and topic in the self-report instrument
+  that Greenfield constructed for use with high school students.
+    Greenfield's hypothesis was that within the Puerto Rican speech com-
+ munity, among individuals who knew Spanish and English equally well,
+ Spanish was primarily associated with family and secondarily with friend-
+ ship (the two, family and friendship, constituting the intimacy value clus-
+                Domains between Micro- and Macrosociolinguistics                  445 1
+
+        Domain         /11terloc11tor     Place                       Topic
+      Family           Parent           Home          How to be a good son or daughter
+      Friendship       Friend           Beach         How to play a certain game
+      Religion         Priest           Church        How to be a good Christian
+      Education        Teacher          School        How to solve an algebra problem
+      Employment       Employer         Workplace     How to do your job more efficiently
+
+
+
+  ter), while English was primadly associated with religion, work, and edu-
+  cation (the three constituting the status-stressing value cluster).7 In order
+  to test this hypothesis, he initially presented two seemingly congruent sit-
+  uational components and requested his subjects (a) to select a third com-
+ ponent in order to complete the situation as well as (b) to indicate their
+ likelihood of using Spanish or English if they were involved in such a situ-
+ ation (and if they and their Puerto Rican interlocutors knew Spanish and
+ English equally well). Section I of Table 15.1 shows that Greenfield's
+ predictions were uniformly confirmed among those subjects who selected
+ congruent third components. The domains for, which Spanish was re-
+ ported were, from most often to least, family, friendship, religion, employ-
+ ment, and education, regardless of whether the third ~omponent selected
+was a person, place, or topic.
+    However, as Blom and Gumperz (Chapter 14), Fishman (1968b), and
+others have indicated, seemingly incongruent situations frequently occur
+and are rendered understandable and acceptable Gust as are the seemingly
+ungrammatical sentences that we hear in most spontaneous speech). In-
+terlocutors reinterpret incongruencies in order to salvage some semblance
+of. the congruency in terms of which they understand and function within
+ their social order (c.f. Garfinkel, Chapter 10). Were this not the case,
+then no seemingly congruent domains could arise and be maintained out
+of the incongruencies of daily life. In order to test this assumption, Green-
+field subsequently proceeded to present his subjects with two incongruent
+components (e.g., with a person from one hypothetical domain and with a
+place from another hypothetical domain) and asked them (a) to select a
+third component in order to complete the situation, as well as (b) to in-
+dicate their likelihood of using Spanish or English in a situation so consti-
+tuted. Greenfield found that the third component was overwhelmingly
+selected from one or the other of the two domains from which he had
+selected the first two components, not from some third domain. Further-
+more, in their attempts to render a seemingly incongruous situation some-
+what more congruent, his subjects' language preferences left tlze normal
+relationship between domains and language choice substantially wza/-
+
+  1 For a discussion of the significance or' value clusters in the study of diglossic societies
+and the relationship between domain analysis and value analysis see Fishman (1968b).
+        446   Genesis, Maintenance, and Change of Linguistic Codes
+
+tered (directionally), regardless of whether person, places, or topics were
+involved. Nevertheless, all domains became somewhat less different from
+each other than they had been in the fully congruent situations. Ap-
+parently, both individual indecisiven.~ss and sociolinguistic norms gov-
+erning domain regularity must be combined and compromised when
+incongruencies appear. Language choice is much more clear-cut and
+polarized in "usual" situations governed entirely by sociolinguistic
+norms of communicative appropriateness than they are in "unusual"
+situations which must be resolved by individual interpretation.
+   Greenfield's findings imply that the assumed relationship between face-
+to-face situations and larger scale societal domains obtains for self-report
+data. However, it remained necessary for other investigators to determine
+whether the domains adumbrated in this fashion have more general valid-
+ity in the speech community under study.
+   On a reinterviewed sample of 124 cases the distributions obtained were
+practically identical to those shown here, indicating that the marginals
+reported here are quite stable.
+   The language replies to the census have been subjected to a factor anal-
+ysis (verimax orthogonal rotation). The following five-factor solution ap-
+peared to be most revealing:
+   A language census conducted among all 431 souls in a two-block
+Puerto Rican neighborhood in Jersey City yielded the data shown in
+Table 15.2. Above and beyond examining the replies obtained to the indi-
+vidual census items, the reader should direct his attention to the results of
+the factor analysis. If domains are more than the investigator's etic reclas-
+sification of situations, then they should also become apparent from factor
+analysis, which in essence asks: Which items tend to be answered in a con-
+sistent fashion? Of the five domains extracted from this analysis, all four
+domains considered appropriate for census questioning (language in the
+context of family, education, work, and religion) appeared as separate
+factors, namely, I. Spanish: literacy (= education), II. Spanish: oral (=
+family), IV. Spanish: at work, and V. Spanish: in religion. In addition, an
+English factor also emerged, indicating that although English is not as-
+sociated with specific domains for the population as a whole (it is so as-
+sociated for children, as we will see), its relation to Spanish is not one of
+displacement or transition. An orthogonal English factor indicates that (as
+in other speech communities marked by relatively stable and widespread
+bilingualism) there is no need for one language to be learned or used at the
+expense of the other in the population under study. Other accounts of lan-
+guage censuses and the research problems which they pose are provided
+by Kloss ( 1929) and Lieberson ( 1966a).
+   A third (and, for this presentation, final) indication of the construct
+validity of domains as analytic parameters for the study of large-scale
+sociolinguistic patterns is yielded by Edelman's data (1968). Here we
+note that when the word-naming responses of bilingual Puerto Rican
+I
+I
+                        table 15.1
+{
+         Spanish- and English-Usage Self-Ratings in Various Situations for Components
+         Selected by Bilingual Ss*
+
+         I. Congruent Situations: Two "congruent" components presented; S selects third congruent
+            component and language appropriate to situation ( I = All in Spanish; 5 = all in English)
+
+                                                           Congruent Persons Selected
+                                Parent        Friend       Total      Priest    Teacher      Employer         Total
+(
+                  Mean            2.75           3.38       3.08        4.67       4.92         4.77           4.77
+                  s.d.            1.67           1.22       1.15        0.68       0.30         0.44           0.37
+                  n              12             13         13          12         12           13             13
+
+                                                           Congruent Places Selected
+
+                               Home        Beach         Total      Church      School      Work Place        Total
+                  Mean           2.33         3.50        2.60        3.80        4.79         4.27            4.34
+                  s.d.           1.11         1.37        1.14        1.57        0.58         1.39            0.99
+                  n             15            6          15          15          14           15              15
+
+                                                                            '
+                                                          Congruent Topics Selected
+                       Family         Friendship         Total      Religion    Education      Employment             Total
+         Mean            1.69             3.33            2.64        3.80          4.78              4.44             4.38
+         s.d.            0.95             1.24            0.98        1.52          0.55              1.15             0.75
+         11             16               18              18          15            18                18               18
+
+     II. Incongruent Situations: Two "incongruent" components presented; S selects any third
+         component and language appropriate to situation ( I = All in Spanish; 5 = all in English)
+
+                                                                All Persons Selected
+                              Parent       Friend         Total      Priest    Teacher      Employer         Total
+              Mean               2.89          3.48        3.50       4.65       4.73         4.38            4.66
+              s.d.               1.41          1.21        0.73       0.63       0.42         0.74            0.57
+              n                 13            13          13         13         13            8              13
+
+                                                                All Places SelC'l'ted
+                           Home          Beach          Total      Church      School      Work Place        Total
+              Mean             2.63       3.86           2.77        3.71       4.39          4.42            4.10
+              s.d.             0.80       1.05           0.73        1.36       1.03          0.98            0.85
+              n               15          5             15          15         15            15              15
+
+                                                                All Topics Selected
+
+                      Family       Friendship           Total      Religion    Education      Employment             Total
+
+    Mean               2.88              3.81            3.26        3.07          3.65           3.81                3.49
+    s.d.               1.07              1.16            1.05        1.03          1.59           1.06                0.79
+    11                18                16              18          18            17             18                  18
+                      * From Greenfield 1968.
+
+                                                                   447
+         448    Genesis, Maintenance, and Change of Linguistic Codes
+
+         table 15.2
+
+Language Census
+                       Item                              Yest     Little   t    110*   np*
+
+I. Can understand Spanish conversation?                  779       135         019     067
+2. Can speak Spanish (conversation)'?                    833       077         016     074
+3. Can read newspapers/books in Spanish?                 397       049         318     237
+4. Can write letters in Spanish?                         390       030         339     241
+5. Can understand English conversation?                  571       176         183     070
+6. Can speak English (conversation)?                     536       181         216     067
+7. Can read newspapers/books in English?                 455       130         206     209
+8. Can write letters in English?                         387       063         327     223
+
+
+                                                        Spant      Engt        Botht   NPt
+ 9. First language understood (conversation)?            886        002         039    072
+10. First language spoken (conversation)?                884                    0.23   093
+11. First language read (newspapers/books)?              401                    297    302
+12. First language written (letters)?                    383        002         276    339
+13. Most frequently spoken at home?                      657        088         183    072
+14. Most frequently read at home?                        267        051         357    325
+15. Most frequently written at home?                     339        014         255    392
+16. Most frequently spoken with fellow workers?          137        049         137    677
+17. Most frequently spoken with supervisor?              046        009         264    680
+18. Most frequently spoken with clients/customers        032        014         035    919
+19. Language of instruction in school?                   339        237         167    257
+20. Language liked most (conversation)?                  362        285         186    167
+21. Language of priest's/minister's sermon?              452        137         193    206
+22. Language of silent prayer?                           469        123         151    257
+23. Language of church service?                          427        160         193    220
+
+
+   On a reinterviewed sample of 124 cases the distributions obtained were practically iden-
+tical to those shown here, indicating that·the marginals reported here are quite stable.
+   The language replies to the census have been subjected to a factor analysis (verimax
+orthogonal rotation). The following five~factor solution appeared to be most revealing:
+
+
+        No.     Suggested Factor Name                 Items (Loadings)
+
+               Spanish: literacy            4(93), 3(92), 15(89), 12(88), 11 (87),
+                                               19(71), 14(70), 20(54)
+        II     English (oral and written)   7(89), 6(88), 5(84), 8(82)
+        Ill    Spanish: oral                9(78), 1(71), 2(66), 10(63), 13(38)
+        IV     Spanish: at work             18(79), 16(73), 17(55)
+        V      Spanish: in religion         21 (93), 23(89), 22(40)
+        * Fishman 1968a.
+        t Percents carried to three places; decimals omitted.
+               Domains between Micro- and Macrosociolinguistics;                449
+
+             table 15.3a
+
+ Mean Number of Words Named by Young Schoolchildren*
+                                     (N=34)
+
+                                                   Domain
+      Age       Language   Family       Education       Religion   Friendship    Total
+      6-8        English     6.2           8.2              6.6       8.3         7.3
+                 Spanish     7.6           6.2              5.8       6.4         6.5
+                 Total       6.9           7.2              6.2       7.4         6.9
+
+      9-11       English    11.7          12.8              8.7      I0.9        11.0
+                 Spanish    10.5            9.4             7.2       9.7         9.2
+                 Total      I I. I        I I. I            7.9      10.3        10.1
+
+     Total      English     9.0           10.5              7.7       9.6         9.2
+                Spanish     9.0            7.8              6.5       8.0         7.8
+                Total       9.0            9.1              7.1       9.0         8.5
+
+         *Edelman 1968.
+
+
+
+children in Jersey City were analyzed in accord with the domains derived
+ from Greenfield's and Fishman's data reported here (Tables 15.1 and
+15.2) significant and instructive findings were obtained. The most Spanish
+ domain for all children was "family" (Table 15.3a). The most English
+domain for all children was "education." The analysis of variance (Table
+ 15.3b) indicates that not only did the children's responses differ signifi-
+cantly by age (older children giving more responses in both languages
+than did younger children), by language (English yielding more responses
+than did Spanish), and by domain (church yielding fewer responses than
+did any other domain), but that these three variables interact significantly
+as well. This means that one language is much more associated with cer-
+tain domains than is the other and that this is differentially so by age. This
+is exactly the kind of finding for which domain analysis is particularly
+suited. Its utility for inter-society comparisons and for gauging language
+shift would seem to be quite promising.
+
+  THE INTEGRATION OF MACRO-
+  AND MICROPARAMETERS
+
+  The situational analysis of language and behavior represents the bound-
+ary area between micro- and macrosociolinguistics. The very fact that a
+baseball conversation "belongs" to one speech variety and an electrical
+          450      Genesis, Maintenance, and Change of Linguistic Codes
+
+          table 15.Jb
+
+Analysis of Variance of Young Schoolchildren's Word-Naming Scores
+                             Mean
+     Source           dj'   Square      F9s      F95    Foo
+
+Between subjects      33
+ C (age)               I    689.30    19.67*     4.17   7.56
+  D (sex)                    15.54     0.44      4.17   7.56
+  CD                    I    87.87     2.51      4.17   7.56
+  Error (b)           30     35.05
+
+Within subjects      235
+ A (domain)             I   123.13     11.11 *   4.17   7.56
+ B (language)           3    64.18      9.30*    2.71   4.00
+  AB                    3    21.71      6.66*    2.71   4.00
+  AC                    3    20.51      2.97*    4.17   7.56
+  AD                    3     0.96      0.14     4.17   7.56
+  BC                         16.50      1.49     2.71   4.00
+  BO                         42.08      3.80     2.71   4.00
+  ABC                   3     8.00      2.45     2.71   4.00
+  ABO                   3     2.23      0.68     2.71   4.00
+  ACD                   3     4.51      0.65     4.17   7.56
+  BCD                        14.62      1.32     2.71   4.00
+  ABCD                 3      2.66      0.82     2.71   4.00
+  Error (w)          207
+  Error 1 (w)         89      6.90
+  Error2 (w)          29     11.08
+  Error3 (w)          89      3.26
+
+Total                268
+
+          * Significant at or above the 0.01 level.
+          t Significant at or above the 0.05 level.
+
+
+engineering lecture "belongs" to another speech variety is a major key to
+an even more generalized description of sociolinguistic variation. The
+very fact that humor during a formal lecture is realized through a meta-
+phorical switch to another variety (Blom and Gumperz, Chapter 14) must
+be indicative of an underlying sociolinguistic regularity, which obtained
+before the switch occurred, perhaps of the view that lecture-like or formal
+situations are generally associated with one language or variety whereas
+levity or intimacy is tied to another. Without such a view, without a more
+general norm assigning a particular topic or situation, as one of a class of
+such topics or situations, to one language rather than to another, meta-
+phorical purposes could neither be served nor recognized.
+   As with all constructs (including situations, role relationships, and
+                                                                 I
+                   Domains between Micro- and Macrosociolinguistics       45 J
+
+          speech events), domains originate in the integrative intuition of the inves-
+          tigator. If the investigator notes that student-teacher interactions in
+          classrooms, school corridors, school auditoriums, and school laboratories
+          of elementary schools, high schools, colleges, and universities are all
+         realized via the high variety (H), as long as these interactions are focused
+         upon educational technicality and specialization, he may begin to suspect
+         that these congruent situations all belong to a single (educational) domain.
+         If he further finds that incongruent situations involving an educational and
+         a noneducational ingredient are, by and large, predictably resolved in
+         terms of H rather than the low variety (L) if the third ingredient is an edu-
+        cational time, place, or role relationship, he may feel further justified in
+        positing an educational domain. If informants tell him that the predicted
+        language or variety would be appropriate in most of the examples he can
+        think of that derive from his notion of the educational domain, whereas
+        they proclaim that it would not be appropriate for examples that he draws
+        from a contrasted domain, and, finally, if the construct helps clarify and
+        organize his data, and, particularly, ifit arises as a compositing feature of
+        his data-then the construct is as usefu,lly validated as is that of situation
+       or event-with one major difference.
+           Whereas particular speech acts can be apportioned to the speech events
+       and social situations in which they transpire (Hymes, Chapter 1) the same
+       cannot be done with respect to such acts in relation to societal domains.
+       Domains are extrapolated from the data of "talk" rather than being an
+       actual component of the process of talk. However, domains are as real as
+       the very social institutions of a speech community and, indeed, they show
+       a marked paralleling with such major social institutions (G. C. Barker
+       I 947) and the somewhat varied situations that are congruent with them.
+      There is an undeniable difference between the social institution, "the fam-
+      ily," and any particular family, but there is no doubt that the societal
+      regularities concerning the former must be derived from data on many in-
+      stances of the latter. Once such societal regularities are formulated, they
+      can be utilized to test predictions concerning the distributions of socie-
+      tally patterned variation in "talk."
+          Thus domains and social situations reveal the links that exist between
+     micro- and macrosociolinguistics. The members of diglossic speech com-
+     munities can come to have certain views concerning their varieties or lan-
+     guages because these varieties are associated (in behavior and in attitude)
+     With particular domains. The H variety (or language) is considered to
+     reflect certain values and relationships within the speech community,
+     Whereas the L variety is considered to reflect others. Certain individuals
+     and groups may come to advocate the expansion of the functions of L into
+     additional domains. Others may advocate the displacement of L entirely
+     and the use of H solely. Neither of these revisionist views could be held
+
+
+
+
+ht
+        452     Genesis, Maintenance, and Change of Linguistic Codes
+
+or advocated without recognition ()f the reality of domains of language-
+and-behavior- (in terms of existing norms of communicative appropri-
+ations) on the part of members of speech communities. The high culture
+values with which certain varieties are associated and the intimacy and
+folksiness with which others are congruent are both derivable from
+domain-appropriate norms governing characteristic verbal interaction.
+   There are several levels and approaches to sociolinguistic description
+and a host of linguistic, sociolinguistic, and societal constructs within
+each (Fig. 15. I). The choice among them depends on the particular
+
+
+
+                  VALUE CLUSTER
+          Set of community values character-
+          istically enacted in a corresponding
+          set of culturally defined behavioral
+          domains                 ;
+
+
+
+                        DOMAIN                                        NETWORK TYPE
+                                                                        (open und closed)
+           Cluster of social situations typically
+           constrained by a common set of be-                    Cluster of role relationships
+           havioral rules                                        defined by extent to which
+                                                                 they are governed by a sin-
+                                                                 gle (or multiple) set of com-
+                                                                 munity values
+
+                  SOCIAL SITUATION
+           Encounter defined by intersection of
+           setting, time, and role relationship
+
+
+
+           TIME          SETTING
+                                                 ROLE
+                                              RELATIONSIIIP
+                                            Set of culturally de·
+                                            fined mutual rights and
+                                            obligations
+
+
+
+
+                                                    INTERACTION TYPE
+                                                    (personal and trnnsactional)
+                                            Function of interaction defined by
+                                            degree to which participants in social                   I
+                                            situation stress the mutual rights and
+                                            obligations of their role relationship               /
+
+                                SPEECH (EVENTS AND ACTS)
+
+        figure 15.1
+Relationships among some constructs employed in sociolinguistic
+analysis (Cooper 1968).
+            Domains between Micro- and Macrosocioling11istics    453
+
+ problem at hand. This is necessarily so. Sociolinguistics is of interest to
+ students of small societies as well as to students of national and interna-
+ tional integration. It must help clarify the change from one face-to-face
+ situation to another. It must also help clarify the different language-
+ related beliefs and behaviors of entire social sectors and classes. It must
+ be as useful and as informative to sociologists pursuing intersocietal and
+ intrasocietal topics as it is to linguists pursuing more contextualized
+synchronic description.
+    It would be foolhardy to claim that one and the same method of data
+ collection and data analysis be utilized for such a variety of problems and
+purposes. It is one of the hallmarks of scientific social inquiry that
+methods are selected as a result of problem specifications rather than
+independently of them. Sociolinguistics is neither methodologically nor
+theoretically uniform. Nevertheless, it is gratifying to note that for those
+who seek such ties the links between micro- and macroconstructs and
+methods exist (as do a number of constructs and methods that have wide
+applicability through the entire range of sociolinguistics). Just as there is
+no societally unencumbered verbal interaction so are there no large-scale
+relationships between language and society that do not depend on individ-
+ual interaction for their realization. Although there is no mechanical part-
+whole relationship between them, micro- and macrosociolinguistics are
+both conceptually and methodologically complementary.
+16
+Ethnic Processes
+on the Pathan--Baluch Boundary
+FREDRIK BARTH
+
+
+
+
+Fredrik Barth is· a professor of social anthropology and
+director of the Research Institute for Social Anthropol-
+ogy at the University of Bergen, Norway. He has done
+fieldwork in Iran, Pakistan, Sudan, and most recently in
+New Guinea. One of his principal interests is a transac-
+tional model of social organization (Barth 1966). The
+present chapter was originally published as part of the
+Georg Morgenstierne Felicitation volume (Redard
+1964).
+   The stability of language boundaries in multitribal
+areas is in large part determined by the structure of tribal
+systems. Taking a sociological insight of the linguist
+Georg Morgenstierne as his starting point, Barth explains
+the northward expansion of the Baluchi language in
+Pakistan in terms of capacity to assimilate and organize
+potential personnel, given a situation of fragmentation
+and social mobility. The considerations usually invoked
+by linguists would have predicted expansion not of the
+Baluch but of the Pathans. The Pathans are more nu-
+merous, of greater population density, more prosperous,
+probably have a higher rate of fertility, and are acknowl-
+edged to be more agressive militarily. Yet in spite of
+numerical superiority and greater prestige, Pashto, the
+ Pathan langauge, is retreating before Baluchi.
+   In explaining this seemingly anomalous situation
+ Barth, by implication, at least, suggests that the analysis
+
+
+From !ndo-lranica. Melanges presentes b Georg Morgenstieme ll /'oc-
+Cllsio11 de son soixllnte-dixieme anniversaire. Edited by Georges Re-
+dard. 1964. Otto Harrassowitz, Wiesbaden.
+
+                                454
+      Ethnic Processes on the Patlzan-Baluch Boundary    455
+
+  of language maintenance and language shift (see Fishman
+   1965 for a discussion of this problem) requires consider-
+  ably more information about intrasocietal social pro-
+  cesses internal to the societies concerned than is usually
+  adduced. Units such as "a tribe," "a culture," "a caste,"
+  or "a nation" cannot be taken for granted and member
+  populations treated as culturally uniform (cf. Moerman
+  1965 and 1968a for a different approach to similar
+  problems). Nor does the common assumption that so-
+  cietal or geographical isolation is crucial to maintenance
+  of cultural diversity accord with the ethnographic facts.
+  Barth's position is explained in detail in his introduction
+  to a recent collection of ethnographic investigations of
+ ethnic boundaries (Barth 1969). Here he demonstrates
+ that ethnic boundaries frequently persist in spite of the
+ regular movement of personnel across them and in spite
+ of regular and institutionalized intergroup com-
+ munication [just as language boundaries are often main-
+ tained in regions of almost total bilingualism (Gumperz
+ 1969)]. There must therefore be, he argues, social pro-
+ cesses of exclusion and incorporation which lead to the
+ maintenance of such boundaries. Taking an interactional
+ point of view of social structure similar to that developed
+ by Goffman (I 959), he views ethnic categories as cat-
+ egories of ascription by which actors identify themselves
+ by expressing particular cultural values and speaking par-
+ ticular languages. The social necessity (or advantage) of
+ maintaining such identifications is conditioned by a com-
+ bination of underlying factors (cultural interactional
+ norms, intrasocietal power relationships, ecology, or by
+factors of demography, etc.) which must be studied em-
+ pirically for each case.
+    In the present situation, Barth begins by questioning
+the identification of Pathans and Baluch as two com-
+pletely distinct social entities. He deals with them as
+component groups operating within the same ecological
+system-i.e., as members of a single linguistically di-
+verse speech region. He then proceeds to examine in de-
+tail the social conditions which could lead an individual
+to identify himself as a member of one or the other
+subgroup. His analysis of the two groups as part ofa single
+social whole is justified on grounds of both intergroup
+mobility and communication and common culture.
+Pathan and Baluch share the fundamental cultural princi-
+456   Genesis, Maintenance, and Change of Linguistic Codes
+
+pies of patrilineality, honor, and obligation. They differ in
+political organization. Pathan communities are based on
+councils of equals where a person's ability to survive eco-
+nomically is in part based on his ability to muster commu-
+nity support. Individuals who for reasons of war or per-
+sonal misfortune, etc., no longer possess the resources
+for participation in the.competition among equals must
+turn to others for protection. If they fail to find support
+among their former equals, their alternative is to attach
+themselves to a Baluch chief and enter into a hierarchi-
+cally organized patron-client relationship with him.
+   Notice that the different systems of social organization
+also involve differences in norms of verbal interaction
+and lead to differential distribution of speech skills and
+verbal genres. Among the Pathan, on the one hand the
+right to speak in one's local councils requires skilled use
+of Pashto rhetoric in formal debate. Furthermore, the
+egalitarian ethic emphasizing communality of back-
+ground apparently also operates to exclude bilingualism.
+Among the Baluch, on the other hand, political com-
+munication is between different levels of authority and
+may be carried by bilingual intermediarjes. The use of
+Baluchi is required only in a type of formalized ritual
+exchange. Former Pathan groups may therefore retain in-
+formal colloquial Pashto for intragroup communication
+while using Baluchi on specialized occasions. (Cf. Bern-
+stein, Chapter 17, on the relationship between social rela-
+tions and speech skills.)
+   Although Barth deals with relatively remote tribal
+groups, his approach to social organization has important
+implications for the understanding of sociolinguistic phe-
+nomena in complex Western societies. In these so-
+cieties, even more than in the case discussed by Barth,
+ethnically distinguishable groups are tightly enmeshed in
+a single social system. Yet, most of our models for the
+description of such groups, or subgroups, are models
+designed to describe primarily the aspects of mechanical,
+rather than organic, solidarity. Note that Barth has a way
+of isolating both similarities and differences in culture
+and that he is careful to point out the behavioral con-
+sequences of an individual's choice among alternate
+value systems. He also separates culture from ecology
+and shows the effect of common ecologicM systems on
+different value systems, and on speech behavior. A simi-
+                Ethnic Processes 011 the Pathan-Ba/uclz Bo;mdary   457
+
+           Jar approach applied to Western society might provide
+           some revealing insight into subtle behavioral variations in
+           such societies. Additional related readings are provided
+           by Gumperz (1962), Trevor Hill (1958), Hymes (1968b),
+           Pride (in press), Salisbury (1962), and Brudner (1969).
+
+
+
+            Linguistic studies on the Indo-Iranian borderland throw light on
+   the historical processes of ebb and flow of language areas and on the role
+   of contagion, borrowing, and linguistic substrata, as well as genetic
+   processes, in language development. In his many contributions to the sub-
+  ject, Georg Morgenstierne has referred to the importance of social struc-
+   ture in these processes. Thus in an early statement he comments on how
+  "the tribal system of the Baloches and Brahuis, which in contrast to that
+  of the Pathans favours the assimilation of racially foreign elements into
+  the tribe, has no doubt led to frequent changes of language within many
+  Baloch and Brahui clans" (1932:8-9). As a tribute to his insight, I should
+  like to demonstrate the validity of this contrast, and show its relevance to
+  trends along the Pathan-Baluch language boundary. Briefly, I wish to
+  demonstrate that the recent northward spread of Baluchi at the expense of
+  Pash to in the hill country west of the Suleiman range (Fig. I 6.1) depends
+  precisely on the structural differences in the tribal systems of these two
+  peoples, to which Morgenstierne refers. The discussion is based mainly
+  on material collected during social anthropological fieldwork among
+  Pathans in 1954 (see Barth I 959a,b) and in 1960, and among the Marri
+ by the late Robert N. Pehrson in I 9 5 5 (see Pehrson I 966).
+    The relationship between tribal and ethnic identity and language needs
+ to be established. The often-cited Pashto proverb that "he is Pathan who
+ does Pashto, not who speaks Pashto" can illustrate the absence of any
+ necessary correlation. Yet, in the tribal areas, it is true to say that tribal
+ membership presupposes linguistic fluency. In contrast to some other of
+ the tribal systems of the Middle East [e.g., South Persia (cf. Barth
+ I 961: 130ff)], tribal political structures constitute linguistic communities
+and depend on constant internal cross-communication. In the case of
+Pathan tribes, these structures are essentially acephalous and are consti-
+tuted by lineage councils Uirgas) arranged in a hierarchy of inclusiveness.
+Within councils of every level the interests-and in the longer run, sur-
+vival-of individuals and segments can only be secured through debate,
+requiring the skilled use of the idiom.
+    Baluch tribes, however, are socially stratified and have a centralized
+form, and the structure is composed of channels of communication
+through echelons of leaders. In such a system foreign language bodies
+might be encapsulated and communicate upwards through a bilingual
+                                                                    69'E
+  Jo·1v
+
+
+
+
+                                                 SJ>b.
+                                                   'Y    l'.
+                                                          '14>1.v          ---··..••••
+                                                                              Mekhtar \
+                                                                                           -Is.
+                                                                                           vi
+                                                                                           Co
+
+
+                                                                                          C'l
+                                                                                          ~
+                                                                                          :::
+                                                                                           ~
+
+                                                                                          '";·'
+                                                                                           ~
+                                                                                          g·
+                                                                                          ~
+                                                                                          :::
+                                                                                          ::;:;
+                                                                                          ~
+                                                                                          ;::,
+                                                                                          :::
+                                                                                          ;::,_
+                                                                                          ("')
+                                                                                          :::-
+                                                                                          ::
+                                                                                          ~
+                                                                                          ~
+
+
+                                                                                          ~
+                                                                                          t:
+                                                                                          :::
+ 29,.'v
+                                                                                          ~
+                                                                                          ~·
+                                                                                          t=;·
+          0        IO                                                                     ("')
+                                                                                          0
+                 Miles                                                                    ;::,_
+                                                                                          ~
+
+                                                                                          '"'
+          68'E
+
+          figure I 6.1
+Ethnic processes on the Pathan-Baluch boundary
+                          Ethnic Processes on the Pathan-Baluch Boundary      459
+
+             leader, as do linguistic minorities in South-Persian tribes. However, in
+             their precarious niche as nomadic mixed herders in a harsh environment,
+             the widely dispersed Baluch camps and segments depend for survival also
+             on another network of communication, mediating information on the
+             availability of grazing, water, and the movements of other persons and
+             camps rather than political decisions. This network is formalized in tlie
+             Baluch institution of hat-exchanges of information given in a peculiar
+             intonation and stereotyped phrases as formal greetings whenever
+             tribesmen meet. In both cases, in other words, membership in a tribe
+             implies membership in a linguistic community.
+                In seeking the causes for the growth and expansion of Baluch-speaking
+             tribes at the expense of Pathans, it is convenient first to discuss some of
+             the more self-evident possibilities. Indeed a number of factors of undeni-
+             able relevance in a situation of competition between tribes seem rather to
+             favor the Pathans. With respect to aggregate numbers, Pathans greatly
+             outnumber Baluchis; likewise in their over-all density in their respective
+             territories. In the zone of contact that concerns us here (Marri/Bugti vs.
+             Panni/Tarin/Kakar/Luni/Zarkun/Powindah), the same holds true, and
+             Pathan villages and camps are consistently larger than those of the
+             Baluchis. Relative prosperity is also on the side of the Pathans-there is
+             a general ecological gradient of improvement from south to north, and this
+             is mirrored in greater capital accumulation (in dwellings, irrigation devel-
+             opments, flocks, movable property, and weapons) among the Pathans.
+             Relative rates of natural population growth are difficult to assess in the ab-
+             sence of detailed demographic information. Doubtless both populations
+             produce a surplus, as evidenced by th.eir history of invasion~ of the plains,
+             and the wide dispersal of both groups through contemporary labor migra-
+             tion. But the small door-to-door censuses I have suggest a higher rate of
+             fertility among Pathan than Baluch, as one would expect in their better
+             environment. Finally, in military aggressiveness the reputation of Pathan
+             tribes exceeds that of Baluchis, both in their mutual estimation and in the
+             judgement of third parties, though perhaps more because of the Pathans'
+             better weapons than any difference in the value placed in the two cultures
+             on bravery and fighting.
+                A number of considerations would thus lead one to expect the pressure
+             along the boundary to be primarily from Pathan to Baluch country. In the
+             hill regions, until recently, for all practical purposes, uncontrolled by any
+             external government, one would expect these pressures to express them-
+             selves in fighting, conquest, and over-all expansion. There can be no
+             doubt about the anarchy that prevailed in the area (cf. Bruce 1900), which
+             resulted in a complex history of conquest and local succession (Dames
+              1904). Yet this very anarchy created the situation where structural fea-
+             tures of the tribal organizations of the competing peoples become over-
+
+
+
+     I
+         I
+./
+        460    Genesis, Maintenance, and Change of Linguistic Codes
+
+whelmingly important. Frequently, wars and plundering forays inevitably
+tear numbers of people loose from their territorial and social contexts:
+splinter groups, fleeing survivors, and families and communities divested
+of their property, as well as nuclei of predators, are generated. From such
+processes of fragmentation and mobility, a vast pool of personnel results
+-persons and groups seeking social identity and membership in viable
+communities. The growth rates of such communities will then depend not
+so much on their natural fertility rates as on the capacity of their formal
+organization to assimilate and organize such potential personnel.
+   In this respect, there are striking contrasts between Pathan and Baluch
+tribal organization, though the difference in the cultural bases on which
+each is built is slight. Fundamentally, both tribal forms derive from the
+shared principles of patrilineality, honor, and obligation. Let me try to
+sketch these common bases, and then show how the two systems derive
+from them.
+   I. The patrilinet1l principles are followed in both tribes: Political rights
+in the tribe and rights in the tribal estate are vested in men and transmitted
+in male line only. Though persons may lose status and rights because of
+their mother's lower status, they can never gain rights through their
+mother, only through their father. A man's political position inside his
+lineage and tribe is thus fixed through agnatic descent.
+   2. A position in the tribe implies a patrimony of /zonor which must be
+defended against slights from persons with whom one claims to be equal.
+An unrequited grievance is' a blemish on one's honor which only talion or
+blood revenge can eliminate. A failure to take revenge is an acceptance of
+inequality and brings about a loss of honor and position. From the time
+they are very small, Pathan boys learn to fight with their peers to defend
+their honor (izzlit),just as the Baluch boy who fails to hit back when other
+boys beat him is scolded for being beghairat-'without honor.'
+   3. Finally, the honor of a tribesman involves an obligation toward
+those who depend on his position: his guests, his family who are his legal
+wards, and those who have sought his protection as clients (/zamsayalz).
+Thus hospitality, patronage, and physical dependence form a complex
+with clear political implications.
+ ; Pathan tribal organization is based on these principles, as realized for
+political and judicial purposes through the mechanism of the council
+(jirga). One might say that the model for the whole system is the group of
+brothers, independent men with separate interests who, by virtue of their
+common blood, keep peace and can unite as a corporate body through
+joint decision making on the basis of equality. Extending the notion of
+common blood (among patrilineal relatives only), ever-widening circles of
+"brotherhood" are defined by ever-deepening genealogies, producing a
+hierarchy of merging segments and lineages based on common descent.
+ Each such segment becomes corporate in the form of a council of its living
+              Ethnic Processes 011 the Patlw11-Ba/11ch Boundary   461
+
+male members, who sit together as agnates with equal rights. It also
+follows that the right to speak in one small, local council implies the right
+to speak in every council of higher order within the merging series.
+   Another important feature of the Pathan tribal system is its t~rritorial
+aspect. Groups and their segments hold rights to different types of joint
+estate. Persons thus obtain access to agricultural land and to grazing areas
+by virtue of agnatic status; as a result, units are also territorial units, and
+localities and districts tend to be named after the tribal segment inhabiting
+them-names which again usually derive from the common ancestor of
+that descent segment.
+   The aspect of equality between council members indicates the rele-
+vance of honor, point 2, to council procedure. This has tactical implica-
+tions since acts which compromise the honor of fellow council members
+will lead to retaliation or blood revenge, even against superior force. For
+the person who is insulted cannot permit the blemish to remain-he can
+sit on the council and act as a tribesman only if he can defend his honor
+and assert his equality. It is therefore difficult for such councils to reach
+final decisions, and dangerous for the interested parties to use pressure on
+members to achieve compliance. Pathan tribes are well able to act
+strongly in defense of shared, short-term interests or basic values or in the
+pursuit of gain, but generally fail to pursue more long-term strategies, or
+to reach agreement on compromises requiring joint action.
+   Where a Pathan's honor is lost through a dishonorable act of failure to
+extract revenge, he loses his capacity to defend his life and interests in the
+council. He must then either flee the country or seek the protection of
+another man as noted under point 3. Seeking the protection of one man
+is, however, lowering yourself before all the tribesmen, and in most situa-
+tions the unfortunate chooses emigration-so Pathans often say that "he
+who leaves his tribal land has either committed incest with his mother or
+failed to revenge his father." It also follows from the preceding that to ac-
+cept hmnsayalzs is in most Pathan areas a commitment that men would
+prefer to avoid. In the egalitarian setting of the council, the value of
+clients as a fighting force is more than offset by the disputes they may
+cause-liabilities which fall squarely on the shoulders of their patron.
+Only in rich environments, where the control over a large labor force
+gives great economic returns, are such clients an advantage (as, e.g., in
+Bannu in preadministration times, and in Malakand Agency today).
+   It should be emphasized that this description holds even where, as in
+many of the southern Pathan tribes, sardars and maliks are found. An in-
+vestigation of actual decision making shows that these leaders have little
+authority, and political processes take place within the framework of
+egalitarian lineage councils. The tribal growth pattern that follows from
+these features is characteristic: It might be called vegetative, based on
+natural increase (with a certain loss through individual emigration) and
+         462   Genesis, Maintenance, and Change of Linguistic Codes
+
+ tending toward a ramifying, branching form where local growth 1s as-
+ sociated with rapid segmentation.
+    Baluch tribal organization, though derived from the same concepts, is
+ not based on the particular mechanism of the egalitarian council. Though
+ defense of honor among equals is important, it thus does not become built
+ into the political system as a m,\jor tactical consideration. A model for the
+ Baluch political system is the relationship between a father and his sons-
+ one of authority stemming from status, and common submission to this
+ authority as the basis for joint action. Instead of working in terms of rhet-
+ oric and rallying of equals, with the ultimate sanction of talion, the Baluch
+ political and judicial mechanism is based on vertical communication
+ between ordinary men and big leaders, with communal action as the ul-
+ timate sanction. Political activity thus mainly takes place between
+ unequals, and the important principle that is brought into play is not honor
+ but obligation, as sketched under point 3. Tribal status in such a system
+does not require an assertion of equality but is based on a chain of client-
+age and patronage between minor and major leaders in a hierarchy. A
+Baluch tribe as a whole becomes divided into segments in a formal pattern
+very much like a Pathan tribe, and membership and position in the system
+are ascribed on the basis of patrilineal descent; but the politically crucial
+aspect of the organization is the recognition of a political clientship tie to
+the leader of each group by its members. These leaders again work in the
+same "vertical" pattern-political maneuver does not involve appeal to
+equals in a council, but communication with and mobilization of more
+influential, higher echelon leaders.
+   At the top of this hierarchy sits the sardar, who has no equal, only even
+more influential connections: with the Khan of Kalat and the government
+of the plains. Sardars maintained their influence in the tribe by playing
+their inferiors (waderas and mukadams) off against each other, and by
+substantial bribes and personal favors-the patron's reciprocal to the
+client's request for protection.
+   The territorial estate of a Baluch tribe is also allocated differently from
+that of Pathans. Among the Marri, grazing rights to the whole tribal area
+are held by the sardar and accessible to any Marri by payment of a tax
+(gahl), which has now been dispensed with. Agricultural land is held indi-
+vidually (until recently by leaders only) or jointly by very large tribal sec-
+tions in a system of periodic reallotment. Such systems have also been
+common among Pathans; but among them the allocation of fields to sub-
+segments and families follows the schema of their genealogical relations,
+while among the Marri equal shares are given to all men within the sec-
+tion, regardless of genealogical pattern. There is thus no identity between
+tribal subunits and territorial units; as might be expected, place names in
+Marri area have no reference to social groups, though they sometimes
+derive from the personal names of prominent men, past or present.
+              Ethnic Processes on the Pathan-Baluclz Boundary    463
+
+    When a man in this system is dishonored, the consequences are of a dif-
+ ferent order from what they are for Pathans. Conflicts of honor and
+ revenge between equals lead to fission of their immediate group, but need
+ not in fact be resolved between the parties since territorial separation can
+ take place without consequences for the persons' positions in the political
+ structure. A relationship of clientship to the same leader can thus be
+ maintained by enemies, though the conflict may also be such as to involve
+ the leader and thus force one faction to secede. But where a man or group
+ does secede, this implies no important loss of rank, and a new clientship
+ relation may be established to another leader. Again in contrast to the
+ Pathans, such seceders are welcomed in their new status: The importance
+ and influence of a Baluch leader is roughly commensurate with the
+ number of his effective followers, and the decision to grant new followers
+ protection and rights lies with him and need not be debated and accepted
+ by a council of his equals.
+   The normal growth pattern that will result in such a system is in part
+ different from that of the Pathan system. Further segmentation does not
+follow automatically with growth in every generation: Natural growth can
+ take place within fixed political units, merely increasing their size. And
+where persons secede or are expelled from one segment, they can be
+accommodated in an equivalent position in another segment, without loss
+of tribal status.
+   The structural differences sketched here imply clear differences in
+assimilative capacities of the two forms of tribal organization. Disorgan-
+ized personnel such as is generated at a high rate during relatively
+anarchic periods is readily incorporated in a Baluch tribe: Persons may
+seek the protection of, and swear fealty to, a recognized leader within that
+tribe. In the case of the Marri, their tribal organization was also clearly
+thought of as predatory organization, and for purposes of offense and
+increased loot, as well as defense, it was in everybody's interest to
+increase the personnel. Thus one Marri leader, himself of Pathan descent,
+explained to me: "In those days there was war Uang]-nobody asked
+who is your father, brother-you joined the force [las/zkar], moved and
+conquered and moved again."
+   Though the same military consideration also held for Pathan tribes
+along the boundary, incorporation of personnel into their tribal system
+would either require that newcomers accept servile status or that a ple-
+nary meeting of the whole tribe agreed to accept them as equals, allotted
+them a compact block of land, and determined their position in the tribal
+schema of segmentation. Though both of these forms of incorporation
+have occurred, they are rare, and one would expect the growth rate by
+incorporation into Baluch tribes far to exceed that of Pathan tribes.
+   There can be little doubt that such is the case. None of the Pathan
+tribes along the boundary have sections or, to my knowledge, persons
+        464   Genesis, Maintenance, and Change of Linguistic Codes
+
+claiming Baluch descent, and the vast majority of tribesmen have recog-
+nized agnatic status, though some incorporation of other Pathan groups
+has taken place, e.g., among the Kakar and Luni (Baluchistan District
+Gazetteer II :76, 85). The tiny Zarkun tribe, partly encapsulated in Marri
+territory, is the only one that admits to a (rather fanciful) compound ori-
+gin, explaining the name as meaning zar lwum-"thousand nations"-
+and their origin as being a defensive confederation against the Marri to
+which each Pathan tribe contributed one family. The presence ofso many
+small, genealogically distant tribes along the boundary (Panni stem:
+Isot/Barozai; Miani stem: Luni/Jafar/Lats; Zarkun; var. Tarins, etc.) is
+evidence of this general failure of assimilative growth.
+   In the Marri tribe, however, all sections have traditions of incorpo-
+ration, and many sections and subsections trace Pathan descent, often to
+existing Pathan tribes. Of the three main branches of the Marri, the
+Ghazani contains subsections of various origins, the Loharanis are half-
+constituted by the Shiranis, tracing descent from the Pathan tribe of that
+name, and the Bijaranis are regarded as predominantly of Pathan origin.
+Among the Bijaranis the Powadhi section has had the most prolific recent
+growth. Mentioned in most texts (based on early and poor material) as a
+not particularly significant subsection, their leader is today virtually au-
+tonomous in his relation to the Bijarani leader; and the growth of the sec-
+tion has taken place so predominantly through incorporation of Pathans
+that it is referred to as "Pathan" by other Manis, though it is uniformly
+Baluchi speaking.
+   This rapid population growth of the Marri tribe, based in large part on
+assimilation, has expressed itself also in territorial expansion. Growth
+without political subdivision has progressively tipped the military scales
+in favor of the Marris; over the last hundred years parts of Panni, Luni,
+Zarkun, and Tarin land have been conquered, and the linguistic boundary
+moved accordingly. The broken fragments of Pathan tribes along the
+boundary, and the Wanechi language remnant among them, suggest that
+the northward trend has both considerable consistency and antiquity.
+Under present more peaceful conditions, increasing numbers of Marris
+also penetrate with their flocks into Pathan country as far north as Loralai
+and Mekhtar-an encroachment which the administrative authorities
+battle against but are unable to stop.
+   The northward expansion of the Baluchi language area in the hill
+country west of the Suleiman range is thus an aspect of rather complex
+processes of incorporation and exclusion along the ethnic boundary by
+which Pathans become assimilated into Baluch tribal organization rather
+than a simple case of Baluch population growth and expansion. An analy-
+sis of tribal organization illuminates some of the critical factors underlying
+the linguistic spread.
+
+
+
+
+                                                                                 rrrd
+    17
+    A Sociolinguistic Approach
+   to Socialization; with Some Reference

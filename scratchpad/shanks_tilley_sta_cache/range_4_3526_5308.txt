@@ -1,0 +1,1782 @@
+              Material Culture
+
+
+We wish to address two basic questions in this chapter. First, how
+do we interpret material culture; what meaning, if any, does it
+possess? Secondly, how does material culture patterning relate to
+the social? As a way of approaching these questions we wish to
+briefly examine some of the answers provided by both traditional
+and 'new' archaeology.
+
+
+            TYPES, CULTURE AND COGNITION
+In traditional archaeology the question of the relationship between
+material culture and society was addressed in a fairly limited
+fashion and was very closely bound up with considerations of
+artefact classification and the establishment of typological
+sequences. The attempt to establish a spatio-temporal systematics
+for the pigeon-holing of artefacts formed the backbone of research
+in Anglo-American archaeology until the relatively recent rise of
+the new archaeology.
+   Given that artefacts exhibited demonstrable variation across
+both time and space, one of the primary aims of traditional
+archaeology was to bring order to this variability by stipulating
+redundancies in the form of classificatory schemes often explicitly
+modelled on the basis of biological analogies in which artefacts
+were to be sorted and 'identified' in a manner equivalent to plants,
+animals, or mushrooms and toadstools. For example, the 1930
+Pecos Conference concerned with the formulation of procedures
+for classifying American south-western ceramics adopted the
+following scheme: 'Kingdom: artefacts; Phylum: ceramics; Class:
+pottery; Order: basic combination of paste and temper; Ware:
+basic surface colour after firing; Genus: surface treatment; Type or
+
+80                            MATERIAL CULTURE
+
+Subtype . . .' (Hargrave, 1932, p. 8, cited in Hill and Evans, 1972,
+p. 237). Clark notes that 'the fact that industrial and art forms are
+subject to evolutionary processes is a great aid when it comes to
+arranging them in sequence . . . [The problem is] to determine the
+direction in which the development has proceeded, to determine in
+other words whether one is dealing with progressive evolution or
+with a series of degeneration' (Clark, 1972, pp. 134-6, cf. Kreiger,
+ 1944, p. 273). One task of the archaeologist was to determine types,
+usually descriptively labelled according to the locality where first
+identified (e.g. Flagstaff red pottery; Folsom point; Peterborough
+Ware), or presumed function, or a mixture of the two (e.g. La Tene
+fibulae). Artefacts could then, ideally, be assigned to these type
+groupings on the basis of perceived similarities and differences.
+Different groups of artefacts, associated together in hoards,
+burials, settlements, votive deposits etc., could be grouped together
+in more inclusive entities, 'cultures'. But what did the 'types' and
+the 'cultures' mean in social terms?
+
+
+                        Meaning and artefact types
+Traditional archaeology provided three main answers to this
+question. The first largely evaded the question of social meaning
+altogether. Types were developed as purely classificatory devices to
+bring order to the immense range of archaeological materials
+discovered and to facilitate comparison of specimens and expedite
+field recording and cataloguing (Kreiger, 1944, p. 275).
+   The second answer was that the types defined by the archae-
+ologist were expressions of the 'mental templates' of their makers:
+
+     It may be said that, ideally, an archaeological type should represent a
+     unit of cultural practice equivalent to the 'culture trait' of ethno-
+     graphy. Each type should approximate as closely as possible that
+     combination of mechanical and aesthetic executions which formed a
+     definite structural pattern in the minds of a number of workers, who
+     attained this pattern with varying degrees of . success . and
+     interpretation.
+                                                  (Kreiger, 1944, pp. 272,278).
+
+Rouse makes a similar point when he writes: 'Types are stylistic
+patterns, to which the artisan tries to make his completed artefacts
+conform'(1939, p. 15). Compare Gifford:
+
+     When entire cultural configurations are, taken into account, certain
+     regularities are discernible that are due to the interaction of
+
+                           MATERIALCULTURE                                   81
+   individuals and small social groups within a society, and these are
+   observed as types. Types in this sense are material manifestations of
+   the regularities of human behaviour. . . The basic attributes involved
+   in any type come together in the combination of a mental image plus
+   the motor habits of the prehistoric artisans of a culture in such a way
+   that when executed in clay, they fulfilled the requirements of the
+   ceramic and stylistic values of that culture.
+                                                         19 6 0 , pp. 341-2)
+
+And Chang:
+
+  The 'right' categories are those that reflect or approximate the
+  natives' own thinking about how their physical world is to be
+  classified, consciously or unconsciously, explicitly or implicitly,
+  within which framework they accordingly act.
+                                                         (1967, p. 78)
+
+  The third answer, very closely related to the second, was that
+types and cultures primarily had meaning as historical indicators of
+temporal and spatial relationships between human groups:
+
+   We find certain types of remains - pots, implements, burial rites,
+   house forms - constantly recurring together. Such a complex of
+   regularly associated traits we shall term a 'cultural group' or a
+   'culture'. We assume that such a complex is the material expression
+   of what today would be called a people.
+                                                (Childe, 1929, pp. v-vi).
+
+The ideas of artefacts as Hypes' reflecting basic ideas, mental
+images, preferences or culturally prescribed ways to do things, and
+of regularly occurring patterns of different material items as
+representing peoples or ethnic groups, formed the interpretative
+basis for assigning meaning to material culture and the
+archaeological record. It is represented perhaps most succinctly in
+the 'type-variety' concept developed in,the US, initially for classify-
+ing ceramics (figure 4.1).
+  European and American prehistory was, in essentials, written as
+the history of cultural continuity and change of types and cultures.
+A number of assumptions underpinned such an approach.Learn-
+ing formed the basic means for cultural transmission between
+generations in any particular cultural group, while; diffusion of
+ideas between discrete non-breeding' populations accounted for
+cultural similarities and differences. This cultural transmission of
+ideas took place in inverse proportion to the degree of physical or
+social distance between them. Concomitantly spatial discontinuities
+
+82                                         MATERIAL CULTURE
+
+                                             THEORETlCAl
+                                             CONCEPTIONS
+                                         UNITS OF INTEGRATION
+                                         (COMPLEXES, CERAMIC
+                                   /SEQUENCES, CERAMIC COMPLEXES\
+                                        WARES. HORIZON STYLES)
+
+                                                  •
+                              /                                   TYPES \
+                                                                            \
+
+                  /
+                          /       INCLUDING ONE OR MORE VARIETIES
+                                                      A
+                                                                            \
+              /                               VARIETIES                         \
+     /                        ATTRIBUTES              -THE DATA
+
+          •           •                                    \
+                                                                                    \
+ F I G U R E 4.1 The Type-variety method of ceramic classification, after
+                                 Gifford
+Source: From 1. Gifford (I960).
+
+
+
+in culture resulted from either natural boundaries to interaction or
+social value systems inhibiting the acceptance or adoption of new
+ideas. Internal cultural change was deemed to be essentially slow
+and incremental resulting either from an inbuilt dynamic or 'drift'
+away from previously accepted norms governing artefact
+production, vagaries of fashion, or technological innovation.
+Alternatively, obvious discontinuities in the archaeological record
+were explained as resulting from the development of exchange net-
+works with other groups; migration or invasion of populations; or
+diffusion of radically new and powerful ideas, for example
+religious cults. Binford termed such an interpretative framework
+the 'aquatic view' of culture:
+
+     Culture is viewed as a vast flowing stream with minor variations in
+     ideational norms concerning appropriate ways of making pots,
+     getting married, treating one's mother-in-law, building houses,
+     temples . . . a n d even dying. These ideational variations are
+     periodically 'crystallized' at different points in time and space,
+     resulting in distinctive and sometimes striking cultural climaxes
+     which allow us to break up the continuum of culture into cultural
+     phases.
+
+                         MATERIAL CULTURE                           83
+
+                       Artefact classification
+One idea underlying the development and refinement of the
+classificatory schemes was that the act of classification was usually
+held to be a neutral device and independent of theory.
+Classification followed data collection and once carried out could
+lead to inferences being made from the materials thus sorted.
+Material culture had a meaning or significance inherent in itself and
+the task of the archaeologist was to extract this meaning which was
+restricted, i.e. each artefact retained within itself one or a few
+meanings. Much debate centred on how artefacts might be best
+classified (e.g. Rouse, 1960; Sears, 1960) and whether these
+classifications were 'real' or 'ideal', i.e. whether they actually
+reflected the ideas of prehistoric artisans which were then
+discovered, or were imposed by the archaeologist (Ford, 1954a,
+  1954b; Spaulding, 1953, 1954). Because many of the typologies
+obviously worked, at least as limited temporal indicators, they were
+assumed to be in essentials correct and the 'types' and 'cultures'
+became canonized in the literature as the types and the cultures:
+ 'pottery types are not primarily descriptive devices but are refined
+tools for the elucidation of space-time problems' (Sears, 1960,
+p. 326).
+   As we have mentioned above, the meaning of archaeological
+data was its supposed direct relationship to cognitive structures
+collectively held by peoples or ethnic groups; but despite this
+interest traditional archaeology never really developed such
+concerns because to identify types, cultures and spatio-temporal
+relationships between them became ends in themselves. This was
+coupled with a pessimism in which it was claimed that little could
+be known beyond the realms of technology and the economy
+(Hawkes, 1954; Piggott, 1959, pp. 9-12).
+   The cognitive and social reality of artefact taxonomies and
+cultures have been much disputed during the last 25 years. As
+regards artefact classification, it has begun to be recognized that
+classification is not independent of theory (Dunnell, 1971; Hill and
+Evans, 1972) and that there is no such thing as a 'best' classifi-
+cation. All classifications are partial and select from observed
+features of the data set. Attempts to create some kind of 'natural'
+classification, good for all purposes, and dealing with; all possible
+variation within the data set studied is simply unattainable. Any
+form of classification involves the definition of significant criteria
+(significant to the classifier) to be used in the process of forming
+classes. This may involve the arrangement of these criteria in some
+
+84                      MATERIAL CULTURE
+
+order of importance which depends on theory or what we know or
+want to know. The link between classificatory systems and
+theoretical knowledge of the data universe to be studied is
+insoluble. Classifications are dependent on and derived from
+theory; they are not in some sense independent formal schemes
+which may be considered to be more or less convenient or useful.
+An infinite number of different classificatory systems may be
+developed for the same data set and there is no automatic
+obligation for the archaeologist to model, or attempt to model, his
+or her taxonomic systems on the basis of those utilized by
+prehistoric artisans.
+
+                      Cognition and the past
+Archaeological taxonomies and descriptions of the past may tell us
+a great deal about the manner in which the archaeologist thinks
+about past socio-cultural systems, but is there any reason to think
+that they tell us anything about the manner in which prehistoric
+social actors thought about their culture? Is this irrelevant anyway?
+One answer is provided by Eggert (1977) who makes four points:
+
+1   A native people's way of thinking about and explaining their
+   world should represent a starting rather than an end point for
+   inquiry and this inquiry has to be undertaken from another
+   (scientific) frame of reference.
+2 Material forms not explicitly devised for communicative pur-
+   poses, unlike language, are too ambiguous to reflect in an
+   unequivocal manner the ideas embodied in them.
+3 Cognitive systems are abstractions of the anthropologist. They
+   are idealized and tend to subsume or ignore the considerable'
+   degree of individual variability in action sequences and thought.
+4 People's conceptions of what they do and how they should act
+   may differ markedly from their actual practices.
+Eggert concludes that any attempt on the part of the archaeologist
+to study or infer or attempt to model taxonomic systems in terms of
+prehistoric cognitive systems is fundamentally misguided.
+   Some ethnoarchaeological studies, on the other hand, have
+attempted to demonstrate; that cognitive systems are embodied in
+material culture and cannot be ignored by the archaeologist if he or
+she wishes to arrive at an adequate understanding of that being
+investigated (eg. Arnold, 1971; Friedrich, 1970; Hardin, 1979,1983;
+and see the discussion below pp. 148-58). Arnold suggests that
+
+                            MATERIAL CULTURE                                   85
+
+   Since artifacts are the result of what people actually do and not what
+   they say they do, it seems more reasonable to attempt to reconstruct
+   non-verbal behaviour from ancient artifacts rather than from
+   anything else. But, if it can be demonstrated from an analysis of
+   verbal behaviour, non-verbal behaviour, and from the material
+   aspects of culture that a cognitive system common to a particular
+   group is really conditioning all of these factors, then, it seems
+   reasonable to suggest that cognitive systems should warrant some
+   attention as a significant factor in the production of artifacts.
+                                                       (Arnold, 1971, p. 22)
+
+Arnold's study attempts to demonstrate a clear relationship
+between the cognitive ethnomineralogical system used by potters in
+Ticul, Yucatan, and verbal, non-verbal and material aspects of
+processes involved in selecting and using raw materials for making
+pottery. He finds a correlation between certain emic
+ethnomineralogical categories of raw materials used to make
+pottery (clays, temper etc.) and actual (etic) composition as deter-
+mined by X-ray diffraction studies. However, studies such as those
+by Arnold and Hardin seem to fall rather short of mapping a
+cognitive system in terms of material culture patterning - a point
+we wish to elaborate by returning to consider Eggert's strictures.
+   Even if an archaeologist were able to reproduce an exact replica
+of a prehistoric taxonomic system how much would this tell us? It
+appears to be insufficient to regard such an attempt at a
+reconstruction of the 'templates' of prehistoric artisans as
+providing an explanation of material culture patterning. An
+archaeologist duplicating a prehistoric taxonomic system would be
+arriving at a description of that system, but such a description of
+the manner of ordering and thinking about artefacts is itself in need
+of explanation or further description in relation to social strategies
+and practices. Material culture should be regarded as not merely a
+reflection of cognitive systems and social practices but actively
+involved in the formation and structuring of those practices. So,
+we are never likely to be dealing with a simple correspondence
+relationship between idea and/or action and material culture form
+but a situation in which material culture actively mediates ideas and
+practices. The fact that material culture differs from language in its
+communicative form and effect does hot require that we evaluate
+the communicative intent of material culture negatively, in terms of
+its difference from language, and conclude that material culture as
+a communicative form is too ambiguous to repay study. Cognitive
+systems are, of course, attributed by the anthropologist or the
+archaeologist to ethnic groups and material culture: patterning.
+
+86                        MATERIAL CULTURE
+
+Such systems are constructs; but this in no way implies that they do
+not exist or that the actions of individuals might be contradictory
+or variable. In fact, as we argue in chapter 6, societies are inherently
+contradictory entities. The idea of society as being constituted in
+terms of a normative (and cognitive) set of beliefs held and
+subscribed to by all social actors cannot be sustained. The problem
+with the studies by Arnold, Hardin and others is that while they do
+usefully point out the significance of cognitive bases for social
+action and their manifestation in material culture, in common with
+the work of traditional archaeologists the assumption is made that
+all social actors in a society share an undifferentiated and
+normative set of beliefs. There is little consideration of the
+negotiation and renegotiation of meaning frames within the context
+of social strategies which may very well be oppositional and con-
+tradictory. An emphasis on contradiction and conflict of interest
+goes some way to explain why social practices, as often as not, con-
+flict with idealized models of these practices.
+
+
+                     STYLE AND FUNCTION
+
+In much of the literature post-dating the mid-1960s the notion of
+material culture as more or less directly relating to cognition or
+peoples was challenged or abandoned by many. A realization
+developed that archaeological cultures could simply not be
+correlated in any direct or immediate manner with ethnicity and
+there were in fact multiple factors affecting the nature of
+distributions of material culture items perceived in the
+archaeological record (e.g. Hodder (ed.), 1978). The types used to
+define cultures were as often as not atypical features of the
+archaeological record in any particular region (e.g. Clarke, 1968,
+pp. 29-31). What traditional archaeologists took as representing
+ethnicity might instead refer to functional variability in the types of
+activities carried out on different sites. This point provided the
+essence of the debate between Binford (1973) and Bordes (1973)
+regarding the meaning of assemblage variability in Mousterian sites
+in south-western France: Bordes arguing that the differences
+reflected ethnic identity, and Binford claiming they related to
+functional variability between different activity sets. Clarice (1968)
+argued that cultures were to be polythetically rather than
+monothetically defined and that such cultures were distinct
+analytical entities in themselves with no necessary relationship with
+ethnicity. Renfrew (1978) questioned the existence of homogeneous
+
+                           MATERIALCULTURE                                  87
+
+assemblages, suggesting that cultures were little more than
+arbitrary taxonomic categories imposed on a continuum of change.
+   In short, the interpretative basis of the meaning of material
+culture provided by traditional archaeology was undermined.
+Instead, material culture was granted a fresh significance which
+became grafted in terms of the opposition between two
+dichotomous terms: style and function. Much of the debate which
+has taken place during the last 15 years about the relationship
+between material culture and the social hinges on the definition and
+use of these terms and whether primacy can (or should) be granted
+to one or the other in an understanding of the past.
+
+
+             Material culture: system and adaptation
+Two major developments in thinking occurred. Firstly, culture
+became redefined as a system composed of distinct subsystems. It
+became fashionable to talk about the interaction between sub-
+systems rather than people, the latter being effectively screened out
+of the analysis (see chapter 2). Secondly, Binford (1962), following
+White (1959), redefined culture as an extrasomatic means of
+adaptation. Consequently the primary meaning of material culture
+was its role as an interface between people, the environment, and
+interactions of individuals regarded as components of social
+systems. Culture was no longer to be regarded as something shared
+by people but as participated in differentially:
+
+  A basic characteristic of cultural systems is the integration of
+  individuals and social units performing different tasks, frequently at
+  different locations. .. Within any one cultural system, the degree to
+  which the participants share the same ideational basis should vary
+  with the degree of cultural complexity of the system as a whole. '
+                                                  (Binford, 1972, p. 199)
+
+  As Binford regarded material culture as an extrasomatic means
+of adaptation it was entirely consistent that he should regard it in
+wholly functional terms. It either had a direct utilitarian function
+or a social function. In an early paper Binford (1962) defined three
+distinct classes of artefacts: technomic, sociotechnic and
+ideotechnic, functioning respectively in coping with the environ-
+ment, social and ideological relations. Residually cross-cutting
+these three functionally defined artefact classes was style: 'formal
+qualities that are not directly explicable in terms of the nature of
+the raw materials, technology of production, or variability in the
+
+88                      MATERIAL CULTURE
+
+structure of the technological and social subsystems of the total
+cultural system' (1972, p. 25). Style functioned in terms of
+promoting group solidarity, awareness and identity. Later
+recognizing that it was impossible to sustain any meaningful
+distinction between functional classes of artefacts operating in
+different social subsystems, Binford (1965) redefined artefacts as
+possessing primary (utilitarian) and secondary (stylistic) functions
+cross-cutting morphological and decorative variation (in the case of
+ceramics). Primary functional variation referred to utilitarian use
+(e.g. the difference between a drinking vessel and a plate). Secon-
+dary functional variation referred to the social context of the
+production and use of material culture: 'this variation may arise
+from a traditional way of doing things within a family or a larger
+social unit, or it may serve as a conscious expression of between-
+group solidarity' Binford, 1972, p. 200).
+   The examination of what Binford teamed primary and secondary
+functional variability in the archaeological record has played a
+major role in the recent development of archaeology. In prehistoric
+and ethnoarchaeological studies much attention has focused on
+technologies of artefact production (e.g. Semenov, 1964; Van de
+Leeuw, 1976; Kramer, 1985, pp. 78-83; Howard and Morris (eds),
+ 1981; Steponaitis, 1983). A second area that has been investigated
+is the determination of the utilization of particular artefacts (e.g.
+Hayden (ed.), 1979; Wilmsen, 1968; Braun, 1983; Hally, 1986). In
+such studies attention has focused on the suitability of particular
+artefact types for different purposes which are supposedly strictly
+delimited by the physical properties of the artefacts themselves.
+Characterization studies of sources of raw materials have been used
+to suggest the existence of exchange networks or social interaction
+spheres (e.g. Earle and Ericson (eds), 1977; Ericson and Earle (eds),
+ 1982; Sabloff and Lamberg-Karlovsky (eds), 1975), and attention
+has been paid to the rate of breakage of artefacts, discard and reuse
+patterns (e.g. DeBoer and Lathrap, 1979; David, 1972; Kramer,
+ 1985, pp. 89-92; Schiffer, 1976; Binford, 1979). Other studies have
+investigated sites in terms of the relationship between artefact
+patterning and different activities such as tool manufacturing, food
+processing and group size (e.g. Binford, 1978, 1981; Schapiro,
+ 1984; Kent, 1984; Hietala, 1984). Such work has certainly alerted
+archaeologists to the complexities of the formation processes of the
+archaeological record but the symbolic and social meaning of
+artefact production and usage has been neglected. Meaning tends
+to be only investigated insofar as it can be reduced to an effect of
+various technologies or utilitarian considerations.
+
+                         MATERIAL CULTURE                          89
+
+                         Ceramic sociology
+Some innovative research in the 1960s and 1970s on ceramics was
+based on the assumption that degrees of stylistic similarity in
+material culture patterning might reflect social interaction. In cases
+where it could be assumed on the basis of ethnographic evidence, as
+in the American South-West, that residence was uxorial and
+women made the pottery intended for household use and traditions
+of pottery manufacture and, decoration were passed down from
+mother to daughter, the spatial concentration of micro traditions in
+design style would be expected to indicate distinct clan or residence
+groupings within a settlement (for synchronic studies see e.g.
+Longacre, 1970; Hill, 1970; and for a diachronic perspective Deetz,
+ 1965; Whallon, 1968).
+   On a broader regional scale, degrees of social interaction
+resulting in the borrowing of designs or design fields would be
+reflected in the degree of stylistic similarity between sites
+(Engelbrecht, 1978; S. Plog, 1976; Washburn,. 1983). Such studies
+have been subjected to much critical assessment (Allen and
+Richardson, 1971; Hodder, 1982; Stanislawski and Stanislawski,
+ 1978; Longacre, 1981; S. Plog, 1978), focusing on the feasibility (or
+necessity) of reconstructing kinship patterns from archaeological
+data given that concepts such as matrilocal kinship are often
+second or third order anthropological abstractions themselves.
+Ceramics may also often be produced by groups rather than
+individuals and learning networks may differ considerably from a
+simple transmission from mother to daughter within a social unit
+essentially conceived as isolated. Nor is there any necessary
+correlation between interaction and stylistic similarity because style
+may be actively used to mark put boundaries of different social
+groups where there is intense interaction between them. The theory
+assumes that style is a passive reflection of group or social identity
+and the cross-cultural generalizing perspective, in terms of which
+this research has often been framed, denies the specificity of
+cultural context, that in some situations style may relate to learning
+networks while in others it clearly does not. We need to know why
+this is the case. In one sense the idea that decorative style reflects
+the composition of social groups in space arid time bears a very close
+resemblance to traditional archaeology, but at a fine-grained level.
+
+                Choice, function and information
+Many archaeologists, however, have always realized that given
+consideration of technological and utilitarian parameters there still
+
+90                           MATERIAL CULTURE
+
+exists a latitude for choice in the manner in which artefacts may be
+produced and the meanings which they may carry. But how much
+choice and what are these social meanings?
+  Choice is predominantly regarded as strictly delimited by
+environment and function:
+     If our interest resides in ancient artefacts and our aims in the most
+     powerful interpretation of these artefacts, then we must realise that
+     archaeological artefact systems express the individually modified
+     imprints of environmental constraint on particularly valued cultural
+     matrices.
+                                                        (Clarke, 1968, p. 83)
+
+According to Braun,
+
+     Where pottery making is a domestic craft, we can then assume a
+     selective process. Pottery techniques that produce vessels that are in-
+     efficient as tools, require relatively high labour or material costs, or
+     require relatively frequent placement, will tend to be avoided in
+     favour of techniques that produce more efficient results, at lower
+     costs . . . The mechanical uses of ceramic vessels directly constrain
+     the kinds of decoration they receive and hence the kinds of social
+     information they carry.
+                                                           (1983, pp. 112-13)
+
+And Arnold:
+
+     Viewed from the perspective of cybernetics, weather and climate can
+     provide either deviation counteracting feedback or deviation
+     amplifying feedback for pottery production depending on the
+     character of the climate . . . In areas where a wet, cold and foggy •
+     climate persists for the entire year, the negative feedback is totally
+     effective in preventing the development of pottery making, even if
+     the craft is introduced by innovation or diffusion.
+                                                          (1985, pp. 76, 83)
+
+Such statements are so widespread in the literature that they require
+no further documentation. While rigid environmental and
+functional constraint on the choice of the form and nature of
+material culture is usually emphasized, meaning is sometimes
+addressed in a purely abstract manner as 'information' and in
+terms of information flow structures (e.g. Johnson, 1978; Van de
+Leeuw, 1981).
+   Clarke (1968) defined material culture as a separate subsystem of
+society providing information, the messages being 'accumulated
+survival information plus miscellaneous and random noise peculiar
+
+                             MATERIAL CULTURE                                      91
+
+to each system and its past trajectory' (1968, p. 85) and this general
+approach to meaning as survival information has been frequently
+advocated in debates about the significance of style and function in
+material culture. Dunnell regards style as denoting 'those forms
+ that do not have detectable selective values. Function is manifest as
+those forms that directly affect the Darwinian fitness of the
+populations in which they occur' (1978, p. 199 emphasis in original).
+A priority of function is asserted in purely adaptive terms with the
+ significance of style marginalized in terms of stochastic processes
+ - trivial socio-cultural variation. On the other hand, style may be
+regarded as important but only insofar as it can be explained away
+ as just another form of adaptation to the natural and social
+environment (e.g. Conkey, 1978; Fritz, 1978; Jochim, 1983).
+   Wobst regards style as a strategy of information exchange with
+both functional and adaptive significance. Artefacts convey
+messages and Wobst conceives the content of such messages as
+being more or less isomorphic with spoken language. Consequently
+he suggests that because it is relatively costly to produce messages
+in the stylistic mode of artefacts as opposed to conveying
+information through language, only a relatively narrow range of
+information will be expressed in the form of simple invariant and
+recurrent messages - messages of emotional state, social identifi-
+cation, group affiliation, rank, authorship and ownership,
+behavioural norms, religious and political belief (Wobst, 1977, p.
+323). Stylistic messaging will usually be 'targeted' at individuals
+beyond the immediate household or residence group but loses its
+usefulness in relation to socially distant populations because they
+will either be unable to encounter or decode the messages. This
+leads Wobst to claim that
+
+   the majority of functions of stylistic behaviour should relate to
+   processes of social integration and social differentiation. Stylistic
+   messages of identification, ownership, and authorship link efficiently
+   those members of a community who are not in constant verbal
+   contact and who have little opportunity to observe each others'
+   behaviour p a t t e r n s . . . it makes social intercourse more predictable.
+                                                                 (Ibid., p. 327)
+
+So style transmits information about social group membership and
+internal differentiation, functioning to keep a society running
+smoothly by reducing stress or conflict, and may be used to main-
+tain social boundaries. This general perspective has been frequently
+adopted in the subsequent literature (e.g. Weissner, 1983; Pollock,
+ 1983; Graves, 1982; S. Plog, 1980, pp. 126-39; Braun and S. Plog,
+
+92                        MATERIAL CULTURE
+1982). All such a perspective purports to explain is the existence or
+non-existence of style; it is incapable of telling us anything at all
+with regard to its specific form and nature, such as why pots might
+have one set of designs rather than another.
+
+                         Style and meaning
+Whether explicitly stated or implicitly assumed, in most studies
+style is regarded as something left over in material culture after
+utilitarian function has been taken into account. It is generally
+regarded as having social significance which may or may not be
+regarded as important and possible or impossible to study with any
+degree of 'rigour'.
+   Underlying much of this discussion are two assumptions: (1)
+style can be separated out from utilitarian aspects of artefacts; (2) it
+'functions' in social rather than utilitarian areas of life. In a series
+of papers Sackett (1973, 1977, 1982, 1985) has been specifically
+concerned to stress the inseparability.. of style and function,
+challenging the idea that stylistic aspects of artefacts merely
+constitute a residue, something left over when function has been
+taken into account. He argues that style does not constitute a
+distinct domain but is to be encountered in all formal variability in
+individual artefacts and that style and function share equal
+responsibility for the finished product, a view which we wish to
+fully endorse. It is impossible, for example, to separate out the style
+and the function in either vessel shape or projectile point
+morphology. There is no way in which we can meaningfully
+measure and determine what proportion of a vessel's shape
+performs some utilitarian end, the remainder being assigned to the
+domain of style. To take a chair - what proportion of this is
+functional as opposed to stylistic? No answer can be given; the style
+inheres in the function and vice versa. Furthermore, ascribing any
+specific or strictly delimited function to an object is in many,if not
+all cases, an extremely dubious exercise. A chair may be to sit on, it
+nominally fulfils this; function,. but chairs can also be used for
+standing on, or for knocking people over the head with, as pen-
+dulums, rulers, or almost anything else. This is not to deny the
+banal point that objects have uses and may normally be used in just
+one way, but it is to suggest that such a position represents, at best,
+a starting point rather than an end point for archaeological
+a n a l y s i s . ,
+
+  The second point is far more crucial, and we will consider it in
+relation to Sackett's work. What is at issue here is the socialmean-
+
+                           MATERIAL CULTURE                                    93
+
+ing of style. Sackett argues that 'any artifact has an active voice
+which connotes function . . . [and] a passive voice which connotes
+style' (1977, p. 370; our emphasis). The implication here is that
+function is something dynamic and active depending on the use of
+artefacts and the roles they play as technology or in social terms,
+while style merely reflects aspects of the social world, playing no
+significant role in either creating or transforming it. Sackett
+distinguishes between two domains of artefacts: those which may
+be taken to be utilitarian in function; and those which are primarily
+non-utilitarian, for example a crown or a head-dress. Both may be
+cross-cut by adjunct form, for example pottery decoration. Stone
+tools, by contrast, have no obvious adjunct form. Sackett's non-
+utilitarian class of artefacts clearly embraces both Binford's
+sociotechnic and ideotechnic classes, while adjunct form is that
+which is normally taken to be stylistic in the archaeological
+literature. Sackett's further and most important argument is worth
+quoting at some length:
+
+   Although the form of any given object may be entirely appropriate
+   to its function . . . there exists nevertheless a great range of
+   alternative forms that would be more or less equally appropriate. In
+   other words, there usually is a variety of functionally equivalent
+   means of achieving a given end, whether these concern the design
+   of a weapon with which to kill reindeer, the execution of pot
+   decoration that symbolically identifies a specific residence group, or
+   the manufacture of a chisel-ended burin. The seemingly equally valid
+   and feasible options we may regard as functional equivalents with
+   respect to a given end constitute a spectrum of what I choose to term
+   isochrestic form . . . The artisans in any given society tend to
+    'choose' but one, or at most but a very few, of the isochrestic options
+   that at least in theory are potentially available to them from this
+   spectrum . . . Given the large number of options that are at least
+   potentially available, chance alone dictates that any single one is
+   unlikely to be chosen by two societies which are not ethnically related
+   in some fashion; and chance would appear to exclude altogether the
+   possibility that the same combination of several such choices in
+   different spectra of isochrestic form could be made by two unrelated
+   societies. . . Since material culture is largely the product of learned
+   behaviours that are socially transmitted, there exists a strong and
+   direct correlation between the specific choices a society makes and its
+   specific position in the stream of culture history.
+                                                   (Sackett, 1982, pp. 72-3)
+In this formulation style, viewed as isochrestic variation, has no
+social meaning whatsoever other than being a habitualized
+expression of ethnicity and, apparently, neither suggests nor
+
+94                       MATERIAL CULTURE
+requires any further explanation (Sackett, 1985, p. 157). Sackett's
+position, while being sensitive to the detection of style in all
+artefacts, at the same time explicitly avoids any consideration of its
+meaning and significance because in his view style just happens as a
+product of habit and socialization processes; hence the claim which
+he makes that style is function writ small.
+   To summarize: while in traditional archaeology the meaning of
+material culture was its supposedly direct reflection of ethnicity and
+(unspecified) ideas, the new archaeology reduced its meaning to
+function - as an adaptive interface between people and the
+environment (as technology) or as a means of cementing together
+social groups or symbolizing group identity (as style). In the case of
+Sackett's work this is a purely passive process, while for Wobst and
+others it has a more active dimension as a form of social signalling.
+In all accounts, function has either been privileged in relation to
+style or style has been explained away as existing because of an
+inherent social function. However, specifying a social function for
+stylistic aspects of material culture patterning tells us virtually
+nothing about its specificity, for example all the multitudes of
+different chair forms, past or present, their shapes, decorative
+features, arrangements in different rooms or types of rooms. The
+general conclusion that may be drawn is that the term function is
+virtually redundant.
+   When we are dealing with material culture we are analysing a
+world of stylistic form and conceptual choice, creating things in
+one way rather than another. The corollary is that the
+archaeological record is a record of form according to specific
+cognitive orientations toward the world. The first stage in trying to
+understand material culture is to accept it as a stylistic cultural
+production. The second stage is to make full use of the range of
+variability in the material culture patterning apparent to us and not
+to subsume this variability under high-level generalizations.
+Exploiting the variability in material culture patterning is of vital
+importance: it gives us clues on which to hinge our statements and
+ensures we realize the full potential of the archaeological record.
+   Place a brick somewhere in London. Imagine that London
+represents the totality of the social relations and practices existing
+in a prehistoric society. The brick represents the archaeological
+evidence from which we have to extrapolate to come to an
+understanding of that past social totality. Obviously the variability
+in the brick is of vital importance if we are going to understand
+anything at all. However, for many archaeologists, it appears as if
+even our solitary brick in the centre of London is too variable and
+
+                         MATERIALCULTURE                           95
+
+complicated, so much so that high-level generalizations must be
+employed to further reduce the brick to a few fragments via the
+operation of certain methodological hammers. One of the most
+powerful of these hammers - the hammer of function - has already
+been discussed above, and is often combined with another even
+more powerful tool, the sledge hammer of cross-cultural
+generalization (e.g. Arnold, 1985; and see the discussion above),
+which finally manages to reduce our brick to fine particles of dust.
+London appears to be lost.
+
+
+   HISTORY,.STRUCTURE AND MATERIAL CULTURE
+
+Most of contemporary archaeological discourse concerns itself with
+the delimitation and analysis of constraints, usually of an asocial
+nature, impinging upon societies - environment, ecology,
+population pressure, economic resource availability - presupposing
+that human potentialities are strictly bounded and limited.
+However, in most of the substantive analyses, such a position is
+simply assumed rather than demonstrated, and there is little, if any,
+evidence to support it. Rather than thinking in terms of asocial
+constraints, perhaps we should think in terms of human potentialities
+and possibilities for action. In any given determinate social field
+societies to a greater or lesser extent constrain themselves, rather
+than being constrained by external forces or purely utilitarian
+considerations. Such amove parallels a shift from viewing material
+culture as primarily functional to regarding it as constituting a
+symbolic, active communicative field. How then do we conceive of
+material culture and its relation to the social?
+
+
+             Perception, history and material culture
+Very broadly, a history of perception or the manner in which
+people regard the world provides one link between the content of
+thought and the structuring of society (Lowe, 1982). Merleau-
+Ponty, in The Phenomenology of Perception (1962), emphasizes
+three main features of perception together creating a perceptive
+field: the subject as perceiver; the action of perceiving; and the
+content of that perceived. The perceiving subject from an
+embodied spatial location always approaches and conceives of the
+world as a lived, dynamic, open, horizontal field. The act of
+perceiving unifies the subject with that perceived and the content of
+the perceived resulting from the act of perception affects the
+
+96                       MATERIAL CULTURE
+
+subject's actions and relationship with the world. Perception is
+bounded by three fundamental factors: (1) common media framing
+and facilitating the act of perception; (2) the senses themselves -
+hearing, touching, smelling, tasting, seeing - structuring the
+subject as embodied receiver; (3) epistemic or cognitive
+presuppositions ordering the content of that perceived. Together
+these constitute a field of perception within which knowledge of the
+world becomes possible. From such a perspective we can view
+material culture as being involved actively in a process of
+perception and as media framing and facilitating the act of
+perception and gaining knowledge of the world. The question we
+next have to ask is: how important is material culture as framing
+and communicative media in society; and, historically, has it had a
+differential importance?
+   All communicative media from the patterns on a pot to television
+and video not only transmit information but also form, package
+and filter it. If the medium doesn't actually constitute the message
+it certainly alters it. Historically, media for communication have
+changed dramatically, from oral cultures in which there was no
+written language, script or text, to cultures where writing was the
+preserve of an elite minority, to the introduction of print and an
+increase in literacy, to the mass media electronic communicative
+forms of today. These changes have been additive rather than
+substitutive. Ong (1967) and Lowe (1982) have claimed that such
+changes from oral to chirographic to typographic to electronic
+cultures are correlated with a changing hierarchy of the senses. In
+oral cultures speech has to fulfil the role of both preserving know-
+ledge and framing communication, for only in the act of speaking
+can knowledge be preserved. Speech, memory and a primacy of hear-
+ing as perception go together: oral communication is primarily aural
+communication. A priority of hearing over seeing is implied. It is
+only with the advent of a typographic culture that sight assumes
+priority.
+   This perspective, while privileging language, overlooks the role
+of material culture as a perceptive medium and as a framework for
+communicating knowledge and information. In an oral culture it
+would seem to be quite plausible to regard material culture as a
+communicative medium of considerable importance for transmit-
+ting, storing and preserving social knowledge and as a symbolic
+medium for orientating people in their natural and social environ-
+ment because of the relative permanence of material culture vis a
+vis speech acts. So material culture can be regarded in oral societies
+as a form of writing and discourse inscribed in a material medium
+
+                         MATERIAL CULTURE                           97
+
+in just the same way as words in chirographic and typographic
+cultures are inscribed on a page. It is then possible to go on to
+suggest that as a communicative discourse material culture becomes
+successively transformed in importance with the advent and spread
+of communicative media directly related to spoken language -
+writing, printing and the mass media of today, which do not
+transcribe speech but actually transmit it.
+   With the development of mass industrial production as opposed
+to craft production the role of material culture as an active
+symbolic transformative intervention in the social world is certainly
+altered. In a world capitalist economy we may be wearing jeans at
+the same time as a Lebanese gunman. The material form - in this
+case jeans - remains the same but its meaning will alter according
+to the context. Jeans will be consumed in different ways,
+appropriated and incorporated into various symbolic structures
+according to historical tradition and social context. In a prehistoric
+situation not only will the meanings differ, but so will the par-
+ticularity of the material form. Consequently it is possible to argue
+that there is likely to be a closer relationship between material form
+and meaning content than exists today.
+
+         . Material culture, the individual and society
+In considering the nature of material culture as communication, as
+a form of writing and silent discourse, we need some perspective on
+the relationship between the individual subject and society. In other
+words, we need to consider to what extent material culture
+production is simply a product of individuals and to be related to
+their intentions, individual psychology and personal make-up, or to
+what extent it can be considered a social production. How
+important is the individual as individual in cultural production? Is
+material culture to be regarded as a largely autonomous expression
+of individual personality, or as indelibly structured in relation to
+social processes which themselves encompass, define, create and
+articulate the individual? We have already provided answers to
+these questions in the previous chapter. It does not seem to be at all
+theoretically acceptable to pursue a view of the human subject as
+endowed with specific capacities and attributes, as the source of
+social relations, font of meaning, knowledge and action. We
+should insist, therefore, on the logical priority of the social and the
+structuring of social relations in accounting for all social practices
+including material culture production. Material culture is. in no
+sense to be regarded as a product of unmediated individual inten-
+
+     98                       MATERIAL CULTURE
+
+    tionality but as a production of the intersubjective social
+    construction of reality. Individuals are structured in terms of the
+    social and, concomitantly, material culture is socially rather than
+    individually structured.
+       The intention here is not to uphold a radically anti-humanist
+    position in the manner of Althusser and Balibar (1970) but, as we
+    argued in chapter 3, to regard individuality as created and
+    constructed in a social and symbolic field over which the subject
+    has no immediate or direct degree of control or possibility for
+    radical intervention. This is to decentre the subject and to regard
+    material culture as a social production created in terms of a socially
+    mediated symbolic field. We are placing emphasis on the
+    constructedness of human meaning and that meaning is not a
+    private experience but a product of shared systems of signification.
+    Language and material culture pre-date the individual. The agent
+    does not so much construct language or material culture but is,
+    rather, constructed through them. Meaning is by no means a
+    natural extension of personality but a product of linguistic and
+    material culture systems. Reality is not reflected by language or
+    material culture as much as actively produced by it. The meaning
+    an individual is able to articulate in relation to the world is depen-
+    dent on the construction of that world through language and
+    material culture.
+
+                       Material culture and structure
+   We now want to explore the relationship between material culture
+   and structure. The central proposition that follows from a position
+   in which the subject is decentred vis a vis material culture
+   production is that the archaeological record must be regarded not
+   in terms of just a random collection of artefacts or attributes of
+   individual artefacts but as a structured record, structured in
+   relation to the social construction of reality and in relation to social
+   strategies of interest and power and ideology as a form of power.
+   The position we are taking is that material culture as
+   communication is a structured sign system. The point has: already
+   been made that material culture can be considered as a form of
+   writing and in the absence of writing as we know it today as a
+X. textual production it can be considered to play a much more power-
+   ful role as a signifier in the comparatively less complex oral cultures
+   archaeologists typically investigate. If we take up this notion of
+   material culture as a form of writing does this imply that it can be
+   considered in just the same manner as language - as a form of non-
+
+                         MATERIAL CULTURE                           99
+verbal discourse with grammars, codes and specific units of
+signification? In other words does material culture act as a struc-
+tured series of signs which signify something in social reality, or
+does material culture form a kind of discourse signifying itself
+rather than something external to it? If material culture signifies
+the social or aspects of social reality in what manner is this
+effected? Is material culture a supplement to language acting in a
+similar way with an equivalent pattern of meaning structure? These
+questions take us into the realm of structuralism, semiotics, post-
+structuralism and deconstruction.
+   Saussure, the father of contemporary structuralism, in his
+Course in General Linguistics (1978), regarded the study of
+linguistics as one day forming part of a general science of signs.
+This would seem to suggest that language forms one sign system
+among many and that there might be a relative autonomy among
+different semiotic systems. Barthes, in his Elements of Semiology
+(1967), strongly criticized such a view regarding all sign systems
+as part of language. For him there could be no non-linguistic
+semiotic system. Rather than adhering either to Saussure
+or Barthes' position it would seem best to regard material culture as
+forming a system of discourse which has a relative degree of
+autonomy from a language, a second order type of writing which
+shares some essential features with linguistic systems while at the
+same time not being directly assimilable t o , or reducible t o ,
+language. So, in what manner does material culture as a signifying
+system have a relative autonomy from language and what features
+does it share with language? T h e answer to this question depends,
+of course, on how we regard language as a signifying system.
+   Saussure in his Course viewed language as a system of signs
+which must be studied synchronically rather than diachronically.
+Each sign is made up of a signifier (sound-image or graphic
+equivalent) and a signified (a concept or meaning). According to
+Saussure the relationship between the signifier and that signified
+was entirely arbitrary, a matter of cultural or historical convention.
+Each sign in a system only had meaning by virtue of its difference
+from other signs. For example, badger has meaning because it is
+not rat, dog or pig; but its relationship with the four legged, black
+and white striped creature is entirely arbitrary, a matter of
+convention. In Saussure's conception of a linguistic system
+emphasis is placed therefore on relational difference. Meaning does
+not inhere in a sign in itself but by virtue of its difference from
+other signs. Saussure was not particularly interested in actual
+speech (parole) but with objective structures making speech
+
+100                       MATERIAL CULTURE
+possible (langue), i.e. the rules underlying and structuring any par-
+ticular real speech act in the world. The nature of langue as a
+system of rules lies underneath and governs the relative superficiality
+of day-to-day speech. If language is an exchange of messages
+constituted in their difference, governed by an underlying system of
+grammatical rules and is taken as a paradigm for social and cultural
+analysis, then the move made by Levi-Strauss (1968) to view
+kinship as a structured exchange of mates within the confines of an
+abstract system of underlying unconscious rules, the economy an
+exchange of goods and services, politics an exchange of power and
+so on, is quite easy to understand. But what of material culture? If
+language is an exchange of messages, then material culture might
+be thought to act as a kind of second level back-up, mirroring in
+some sense this message exchange and reinforcing it by virtue of its
+very materiality and relative permanence.
+    There are two major problems with this structuralist perspective.
+First it systematically diverts attention from history, the manner in
+which people have altered and do alter their objectifications of the
+social. A structuralist perspective concentrates on the synchronic
+investigation of order, the codes underlying the order, and the
+significance of the experience of the order.
+    In archaeology formal analysis of pattern in material culture is
+now well established. The aim has been to investigate pattern, to
+establish the logic behind the patterning and establish rules for
+constructing the patterns. Washburn (1978, 1983) has used
+symmetry (repetition, rotation, reflection of a design element) as a
+logic lying beneath pottery decoration. Hodder (1982, pp. 174-81)
+has claimed a generative grammar for the decoration of calabashes
+among the Sudanese Nuba, a system of rules operating on an
+originary cross motif, which can generate a wide variety of actually
+occurring calabash designs. His analysis included computer
+simulation - 'testing' the rules he isolates as generating the designs
+to see whether they fitted observed patterns. Fritz (1978) has iden-
+tified symmetrical relationships in the organization of the direc-
+tional orientation of settlement space in the Chaco Canyon in the
+American south-west. Fletcher's (1977) work on the formal
+arrangement of settlement space can be mentioned here - an
+analysis aimed at identifying a syntax of space.
+    In addition to attempts to identify rules of symmetry and design
+combination and space syntax, analysis of pattern or structure
+in archaeology has employed the use of binary oppositions
+ such as bounded/unbounded, horizontal/vertical, left/right,
+hierarchical/sequential. Hodder (1982d) has described a transfer-
+
+                          MATERIAL CULTURE                             101
+
+mation of the structure of designs on Dutch neolithic pottery
+according to a horizontal/vertical distinction: from bounded
+designs hierarchically organized, to later horizontally zoned
+sequential designs. As in orthodox structuralism the meaning of
+such patterning remains a problem. Hodder links the changes in
+pottery design in the Dutch neolithic to a change from strongly
+bounded to incorporative social groups; so designs are held to
+directly mirror social entities. Another way of assigning meaning
+is to invoke oppositions or distinctions such as male/female
+(as in Leroi-Gourhan's early work (1965) oh upper paleolithic
+cave painting), culture/nature, domestic/wild, living/dead, settle-
+ment/burial, and these may be held to be cognitive universals as
+implied by Hodder (1982, p. 215f).
+   Secondly, a structuralist position privileges language and this
+may hinder the recognition of the importance of non-verbal
+signifying systems. Granting priority to the verbal, and suggesting
+that non-verbal forms of communication merely directly mirror
+(inadequately) linguistic structures and forms of signification is, as
+Rossi-Landi points out, rather like
+
+  asserting the priority of digestion upon breathing, or of rivers upon
+  seas, or worse, of downhill roads upon uphill roads. Since language
+  and all other sign systems of a community are in reciprocal relations
+  in reality, we don't understand in what possible way one can
+  attribute to any one of these sign systems a real priority.
+                                           (Rossi-Landi, 1975, pp. 20-1)
+
+Material culture as a coded sign system constitutes its own 'material
+language', tied to production and consumption. It does not simply
+reflect the significative structures of language in another form.
+Like language it is itself a practice, a symbolic practice with its own
+determinate meaning product which needs to be situated and
+understood in relation to the overall structuration of the social.
+   If for Saussure the relationship between the signifier and that
+signified is entirely arbitrary within the context of an overall system
+of difference, then for Derrida (1976, 1978), the later work of
+Barthes (1977) and for Foucault (1981) this difference can be
+extended infinitely. If meaning is a matter of difference and not
+identity, taken to its logical conclusion language cannot be held to
+constitute a stable closed system. Meanings of signs are always
+elusive, for if a sign is constituted by what it is not, by difference
+from other signs, there can be no final relationship between one
+signifier and something that is signified, as the signified is always
+already the signifier of another signified. Meaning is then the result
+
+102                     MATERIAL CULTURE
+of a never-ending play of signifiers rather than something that can
+be firmly related to a particular referent. The meaning of one sign
+depends on that of another; signifieds keep on changing into
+signifiers and vice versa. Signs confer value as much by virtue of
+what they are not as what they are. The concomitant of this
+position is that meaning in language is floating rather than fixed -
+dispersed along whole chains of signifiers, as each becomes in
+effect a residue of others, a trace of language. For signs
+to have any capacity for meaning they must be repeatable or
+reproducible: something that occurs only once cannot count as a
+sign. The reproduction of signs constitutes part of their identity
+and difference but the very fact of their reproduction entails a Jack
+of any unitary meaning or self-identity because they can always be
+reproduced in different contexts, changing their meaning.
+Signifieds always become altered by the chains of signified-
+signifiers in which they become embroiled through usage.
+
+             Materialculture, language and practice
+We want to suggest that material culture can be considered to be an
+articulated and structured silent material discourse forming a
+channel of reified expression and being linked and bound up with
+social practices and social strategies involving power, interests and
+ideology. As a communicative signifying medium material culture
+is quite literally a reification when compared with the relatively
+free-flowing rhythms of actions of individuals in the world and the
+spontaneity of spoken language. If we take up Saussure's notion of
+the diacritical sign - i.e. the sign whose value is independent of
+denoted objects and rests upon its insertion in a system of signs,
+and Derrida's deconstruction of the notion of the sign as possessing
+a plenitude of meaning by virtue of its relation to other signs - we
+arrive at what might be termed the metacritical sign: the sign whose
+meaning remains radically dispersed through an essentially open
+chain of signifieds-signifiers. If we conceive of material culture as
+embodying a series of metacritical signs then we must regard the
+meaning of the archaeological record as being always already
+irreducible to the elements which go to make up and compose that
+record, characterized as a system of points or units. What we will
+be involved with will be a search for the structures, and the prin-
+ciples composing those structures, underlying the visible tangibility
+of the material culture patterning. Our analysis must try to uncover
+what lies beneath the observable presences, to take account of the
+absences, the co-presences and co-absences, the similarities and the
+
+                          MATERIAL CULTURE                           103
+
+differences which constitute the patterning of material culture in a
+particular spatial and temporal context. The principles governing
+the form, nature and content of material culture patterning are to
+be found at both the level of micro-relations (e.g. a set of designs
+on a pot) and macro-relations (e.g. relationships between settle-
+ment and burial), but they are irreducibly linked, each forming a
+part of the other; hence any analysis which restricts itself to just
+considering one feature of the archaeological record such as an
+isolated study of pot design is bound to be inadequate.
+   Material culture can be considered to be constituted in terms of a
+ spiralling matrix of associative (paradigmatic) and syntagmatic
+relations involving parallelism, opposition, linearity, equivalence
+and inversion between its elements. Each individual act of material
+culture production is at the same time a contextualized social act
+involving the relocation of signs along axes which define the
+relationships between signs and other signs. The meaning of these
+signs is constituted in their lateral or spatial and horizontal or
+temporal relations. The signs reach out beyond themselves and
+toward others and become amplified in specific contexts or sub-
+dued in others. Material culture does not so much signify a rela-
+tionship between people and nature, since the environment is itself
+socially constituted, but relationships between groups, relation-
+ships of power. The form of social relations provides a grid into
+which the signifying force of materialculture becomes inserted to
+extend, define, redefine, bolster up or transform that grid. The
+social relations are themselves articulated into a field of meaning
+partially articulated through thought and language and capable of
+reinforcement through the objectified and reified meanings inscribed
+in material culture. The material logic of the relationships involved
+in the contextual patterning of material culture may run parallel to,
+subvert or invert the social logic or practices involved at the sites of
+the production, use, exchange or destruction of artefacts. Material
+culture as constituted by chains of signifiers-signifieds should not
+be treated in a simplistic fashion as necessarily representing
+anything in particular, such as red ochre or use of red as
+symbolizing blood or pots of shape X as signifying male and pots
+of shape Y as signifying female, on its own. The signifying force of
+material culture depends on the structure of its interrelations, and
+the signification of any particular artefact or item can be seen as
+being intersected by the meanings of other items. So, particular
+objects form nodes in a grid of other objects. This follows
+from a view of material culture as being constituted in an open
+Held rather than as a closed system of signs. The material culture
+
+104                       MATERIAL CULTURE
+
+record is a set of conjunctions, repetitions and differences, and
+meaning shifts across from context to context, level to level,
+association to association. Despite that, material culture forms part
+of the encoding and decoding strategies involved in the active social
+construction of reality helping to constitute a common cultural
+field and tradition along with action and speech. It would be naive
+to suppose that material culture expresses exactly that which might
+be expressed in language but in a different form. The importance of
+material-culture as a signifying force is precisely its difference from
+language while at the same time being involved in a communication
+of meanings. Material culture forms part of the social construction
+of reality in which the precise status of meaning becomes
+conceptually and physically shifted from one register to another:
+from action to speech to the material. Meaning can be
+communicated in all these areas but the medium alters the nature
+and effectivity of the message. The depth of social meaning in the
+world derives partly from the use of multiple channels for its
+transmission. Material culture constitutes an external field to the
+intersubjectivity of social relations and is dialectically related to
+them, its signifying relations affecting the constitution and
+transformation of the social.
+   Material culture may be regarded as revealing its structure and
+the principles which underlie it through its repetition. This is why,
+as has long been recognized, consistent patterning in the
+archaeological record is so important for understanding its nature.
+Material culture as a communicative discourse solidifies, encodes
+and reifies the social relations in which it is embedded and from
+which it is derived. Social action is the product of discourse and
+from this discourse both action and material culture arise. Material
+culture plays less the role of signifying social relations than acting
+in terms of established and fixed relations.
+   We can argue, therefore, that artefacts constitute a code of signs
+that exchange among themselves. The production, utilization and
+consumption of material culture on the part of the individual agent
+can be regarded as an act of bricolage. Material culture is used to
+organize the existence of agents and invest this existence with
+meaning and significance. The bricoleur, or handyman (L6vi-
+Strauss, 1966, 1969), who uses odd scraps of wood, a bent saw or
+whatever, to do a reasonable patching up job, cannot by the nature
+of his or her situation create something entirely new, but is trapped
+by the 'constitutive sets' from which the elements came. The
+bricoleur is never fully in control or master of the situation with
+which he or she is confronted. Similarly, the agent produces and
+
+                          MATERIAL CULTURE                                   105
+uses material culture, but is never aware of the entire system of
+material significations. The agent lives through the world
+metonymically. That which is being utilized, produced and con-
+sumed is never the individual artefact or object (although it may
+appear as such), but rather the entire symbolic structured system of
+objects or artefacts of which it forms a part; the use and production
+of artefacts is simultaneously the use and reproduction of the
+system of which they form a part.
+   The primary significance of material culture is not pragmatic, its
+utilitarian or technological use-value, but its significative exchange
+value. In our argument, we agree with Baudrillard (1981) in
+suggesting that a theory of material culture simply cannot be
+established in terms of biological needs and their satisfaction, but
+must be based on a theory of signification and regarded as a
+symbolic production, part of the social constitution of reality:
+
+  the empirical 'object,' given in its contingency of form, colour,
+  material, function and discourse . . . . is a myth. How often it has
+  been wished away! But the object is nothing. It is nothing but the
+  different types of relations and significations that converge,
+  contradict themselves, and twist around it, as such - the hidden logic
+  that not only arranges this bundle of relations, but directs the
+  manifest discourse that overlays and occludes it.
+                                                (Baudrillard, 1981, p. 63)
+
+We need to analyse artefacts in terms that go entirely beyond them,
+in relation to meaning structures and the social strategies to which
+they are related, to determine what specific place in the social is
+occupied by material culture as part of an overall pattern of
+significations.
+
+
+               STUDYING MATERIAL CULTURE
+
+               Material culture and social practices
+A growing number of recent archaeological studies are beginning to
+work towards the position we have been proposing. Braithwaite's.
+(1982) ethnoarchaeological study among the Azande (southern
+Sudan) brings out the active use of material culture in processes of
+definition and maintenance of social categories and boundaries.
+Male/female differentiation and asymmetrical power relations
+related to this differentiation form a fundamental feature of the
+Azande social world. Power relations between the sexes are played
+
+106                       MATERIAL CULTURE
+out in terms of the sexual division of labour and its articulation
+with the timing and spacing of productive activities. While men are
+in a position of social domination, and greater prestige is associated
+with their activities and labour product, this domination is never-
+theless dependent on their relationship with and competition for
+women who possess a more muted but nevertheless important
+strength and influence. The male-female relationship is one of
+considerable tension and ambiguity. Clay pots are made by the men
+ and used and owned almost exclusively by women in the domestic
+sphere of labour. The male/female opposition involving the
+negotiation and renegotiation of social position is related to the use
+of decorated and undecorated pottery: Pots only used by a single
+sex are not decorated while the decorated pots are those used in the
+transfer of foods or drink from one sex to another, e.g. a woman
+serving a man food from a cooking vessel. So, pottery decoration is
+associated with and serves to mark put situations in which there is
+transfer of food across fundamental social boundaries; it serves to
+mark out areas of concern and importance in Azande society.
+   In the Wessex area of south England a new type of pottery, finely
+decorated beakers, appears in the late neolithic at a time when the
+social landscape is dominated by the use of large-scale ceremonial
+monuments in what appears to have been a dispersed and
+acephalous society with legitimation of authority being ritually
+based in the activities taking place at the henge monuments.
+Although the building of these monuments must have required
+considerable labour input and co-ordination, contemporary burials
+show little evidence of hierarchy or status differentiation (Shennan,
+ 1986, p. 145). Thorpe and Richards (1984) and Shennan (1986) note
+that the new material culture form - the finely decorated beakers -
+occur in graves on the peripheries of the assumed areas of ritual
+influence of the henge monuments and moreover in graves in which
+we have the first evidence of status differentiation. They suggest
+that these beakers were actively adopted and used by those excluded
+from the traditional power structures associated with the use of the
+henges and mark the beginning of the development of an
+alternative and competing structure of authority and power. This is
+a markedly different kind of explanation for the adoption of
+beakers than those previously proposed in the literature where their
+introduction was discussed in terms of the appearance of new
+peoples in the framework of traditional archaeology, or as a
+prestige good in the new archaeology. Thorpe and Richards and
+Shennan display sensitivity as to the particular context in which
+beakers occur in Wessex and argue for their active use in competing
+
+                          MATERIALCULTURE                              107
+
+power strategies; however, neither explanation Is able to cope with
+the specificity of the local context in which finely decorated beakers
+first occur in large areas of Europe: these frameworks were unable
+to explain why beakers appear in some areas in a particular context
+(in graves or settlements or ritual structures) and not in others.
+   These studies are also unable to explain within the framework
+adopted the specificity of pot decoration, For example all that
+Braithwaite's explanation does is to tell us why decoration might
+occur - but what of its form? Similarly, why use beakers in Wessex
+rather than decorated ox bones?
+   Hodder's ethnoarchaeological studies, reported in Symbols in
+Action (1982), usefully emphasize two important features of
+material culture. First, and again, that material culture plays an
+active symbolic role in social relations. Interacting groups
+manipulate and negotiate, consciously and unconsciously, material
+symbols according to their strategies and intentions. For example,
+particular types of body decoration worn,, by young men and
+women in the Baringo area of Kenya are a means by which the
+authority of older men is contradicted. In the Lozi kingdom
+material culture is used by status groups to legitimate authority. In
+both these cases it is clear that material culture does not simply
+reflect social relations but actively mediates intentions, strategies,
+attitudes and ideologies.
+   Secondly, material culture is meaningfully constituted; it is
+produced in relation to symbolic schemes, structured according to
+the system of meanings of particular social groups. These
+structured meanings mediate social practices and material culture.
+Hodder argues that all aspects of Nuba materialculture, from
+burial to settlement to decoration to refuse disposal are related to
+the same symbolic scheme. Among the Nuba there are well-
+developed local groups, while roles and networks of individual
+relationships are only weakly defined, Following Douglas (1970),
+Hodder associates these features with an emphasis on the purity of
+the group, the distinction insider/outsider, and on classification
+and categorization:        .
+
+   AH these aspects of ritual and world view are present in Nuba society,
+   and particularly in Mesakin society. . . from the emphasis on spatial
+   group seclusion to the pollution taboos, to the concern with body,
+   home and granary boundaries, to the ritual surrounding the
+   boundary between life and death and the breaking of items-
+  : associated with a dead man, to the regular placing of items in
+   particular places in the huts, to detailed classification and
+
+108                        MATERIAL CULTURE
+   categorisation of form and design, to, the: logically consistent set of
+   generational rules in the art.
+                                                    (Hodder, 1982, p. 183)
+
+As indicated here, however, Hodder emphasizes a single unitary
+logic within a social system which may nevertheless contain
+tensions:
+
+   Each material item has significance in terms of its place in the whole.
+   This is not to say that the patterns in the different types of data are
+   always direct mirror images of each other. Rather the identifiable
+   patterns are transformations, often contrasting, disrupting, or
+   commenting oh basic dichotomies and tensions within the social
+   system and within the distribution of power.
+                                                             (Ibid, p. 212)
+
+The concomitant of such a position is that any unitary logic must
+be argued to be historically specific and not a universal principle of
+analysis.
+  We have suggested (Shanks and Tilley, 1982) a series of
+principles generating the patterning of human remains from
+communal tombs (long barrows and chambered passage graves) in
+neolithic Wessex and Skane, Sweden, based on the distinctions
+individual/group, bounded/unbounded, male/female, right/left,
+culture/nature and basic body symmetries such as body/limbs,
+upper/lower in respect of disarticulated/articulated remains. Such
+distinctions were argued to be part of what Bourdieu has termed
+habitus (1977), aspects of lineage-based social systems, involving
+social strategies arising from opposed structuring principles of
+social control by individual lineage heads or elders in contradiction
+with collective production, and direct, unmediated reciprocity and
+exchange relations between kin groups. In such a social context we
+argued that communal burial asserts the collective rather than the
+individual.' • The regrouping of disarticulated remains, which we
+identified, incorporates in the expression of symmetry between
+body parts a denial of asymmetrical relationships in relations of
+production. In this manner we focused on the possible ideological
+dimension of the form and nature of material culture, how it may
+act to naturalize and misrepresent other social practices.
+   Tilley (1984) has extended the analysis to cover all aspects of
+material culture patterning in the middle neolithic of southern
+Sweden, identifying structural homologies running through the
+directional orientation of tombs in the landscape, to burial
+practices, ceramic designs and uses of settlement and mortuary
+
+                           MATERIALCULTURE                                   109
+space. These homologies are related to social strategies of group
+competition in the context of status display and ritual elaboration.
+Incorporating the distinctions ancestors/living, spiritual/social,
+material culture is analysed as an ideological comment on other
+social practices. Related transformations in diverse aspects of
+material culture patterning are traced through to the emergence of
+the Battle Axe/Corded W a r e tradition. It is proposed that the
+manipulation of material culture in the sphere of ritual activities
+was part of an ideological order which eventually failed to
+misrepresent structural contradictions and justify asymmetries in
+social relations, leading to a legitimation crisis and wholesale social
+change: the emergence of the more egalitarian Battle Axe tradition.
+   Miller (1985a) has similarly used concepts of ideology and a
+legitimation crisis in the context of the Indus or Harappan
+civilization. He articulates the material remains around a
+culture/nature distinction and in relation to an emphasis on order,
+standardization and purity. He invokes Foucault's notion of power
+as relating not merely to coercive social processes manifested by
+particular individuals, institutions or groups but as an overarching
+and pervasive principle which generates as well as constrains social
+forms. Arguing against notions of priest-kings and redistributive
+temple bureaucracies, he suggests that power resides in a multiplicity
+of organizational forms, this very dispersal of power ensuring the
+reproduction of the social order.
+   Miller's (1985) analysis of Indian Dangwara pottery is a
+sophisticated elucidation of some of the principles we have been
+emphasizing in this chapter. He represents a formal symbolic
+framework summarizing the variability of pottery in Dangwara
+society established by relating the pot forms, colours and uses to
+cultural categories and codes such as food, gender and caste (figure
+4.2). Having noted different classifications of the pottery
+categories (e.g. according to colour, semantic label and function)
+and related the pottery code to other codes or category systems,
+Miller stresses that this formal order is his objectified postulation
+which is to be superseded:
+
+   rather there is a se{ of individual and transient realisations in
+   particular contexts and strategies, which treats these alignments as
+   generalised potentials rather than rules of meaning . . . the formal is
+   constantly qualified as category (to the different actual pots of the
+   same form), code (to the variety of classifications) and grid (to the
+   variety of 'evocations') into the informal and realised, which
+   produces an array of different and sometimes inconsistent patterns.
+                                                                  (P. 175)
+
+                        MATERIAL CULTURE
+no                                       POT             STATUS     GENDER
+
+                                         Kalash
+
+
+                                         Dhupana.        Divine
+
+                                         Divali matka
+
+                                        Akhartij gagra
+
+
+
+                                     — Marnette          Ritual
+
+
+                                        Goli
+
+                                        Matka                       Male
+
+                                        Gagra
+
+
+                                        Chuklya
+
+
+                                        Batloi
+
+
+                                         Brahman dohni
+
+
+                                        Patya
+
+                                        Wariya
+
+                                        Kunda
+                                                         Human
+                                        Bhartiya
+
+
+                                        Kareta
+
+                                        Dohni
+
+
+                                        Kareli                      Female
+
+                                        Dhatrl
+
+                                        Chayra dohni
+
+                                        Jhawaliya
+
+
+                                        Harawla          Polluted
+
+FIGURE 4.2 The associations between pottery and major social variables
+           in Dangwara society, India, according to Miller
+    Source: From D. Miller (1985). Reprinted by permission of Cambridge
+                             University Press.
+
+                              MATERIALCULTURE                                111
+COLOUR    CASTE          CONNOTATION    CONTENT   EXCHANGE   HEAT   RIGHTS
+
+
+
+
+          Brahman
+
+
+
+
+                                                  Jajman
+Red                                               system
+painted
+                                                                    Contractual
+
+
+                         Auspicious
+
+                                        Water
+
+                                                  Embedded          Proprietorial
+          High                                    exchange
+          castes
+
+
+
+
+Red
+and
+buff
+
+          Middle
+          castes
+
+
+                                                  Market
+                                                  system
+                         Inauspicious
+
+
+                                                                    Non-contractual
+          Low
+          castes
+                                        Sorghum                     Non-proprietorial
+
+                                        Pulse     Monetary
+                                                  economy
+
+
+
+          Untouchables                                       Hot
+
+112                       MATERIALCULTURE
+
+The variability apparent in the interpretation of the meaning(s) of
+the same pot depends on the particular context in which the
+interpretation takes place. Miller adopts the term 'pragmatics' to
+refer to this relationship of conceptualization and context. Two
+important concepts of pragmatics are 'cue' and 'frame'. Cues and
+frames divide off various contexts in which interpretation may
+occur. Pots themselves may act as framing devices (see above),
+providing cues as to the significance and meaning of events taking
+place, controlling spheres of evocation. The notion of pragmatics
+introduces substantial multivalency with regard to pottery, and
+through pots acting as frames, into other categories.
+   Context implies not only other category sets but also human
+practice: the production and use of pots. Miller also considers the
+relation of pot categories to social strategies - in particular
+'emulation', a process in which attempts are made to raise status
+through utilizing particular pot forms associated with dominant
+groups; and 'naturalization', in which the socially contingent
+appears natural. He rightly emphasizes this as an important feature
+of material culture. Its frequency, apparent triviality and practicality
+or simple functionality lend themselves to naturalization. Arbitrary
+cultural distinctions may be superimposed on apparently natural
+(functional) associations, without becoming a discursive focus of
+attention.
+   We may note several conclusions from Miller's work:
+
+1  The notion of a formal set of discrete categories as forming the
+  basis of classification systems is to be extended. Categories
+  include non-incidental variability. Such variability involves the
+  heterogeneity of social context and practice and does not
+  involve a denial of structure (p. 202). The material artefact is
+  polysemous.
+2 Material variability is not a simple symbolic reflection of a prior
+  social classification. Categories of social relationship such as
+  caste or class are like the material dimension - 'constructs
+  which capture and in turn constitute elements of culture, but
+  within an array of alternative, sometimes complementary and
+  sometimes conflicting representations. There is no privileged
+  real "society" that is being represented: there is nothing else
+  behind these mirrors. The term "representation" refers to a
+  circle of form and understanding, and culture is exhausted by
+  the same constructs through which it is understood' (pp. 202-3).
+3 This means that different social dimensions are not reducible,
+  one to the other (such as stylistic form to adaptive function).
+
+                        MATERIALCULTURE                          113
+
+   Consequently archaeologists are not in a weak position with
+   regard to social analysis in the sense of having no direct access
+   to the understanding of social actors which may he linguistically
+   articulated. We have analogously argued above that
+   archaeological analysis is not a recovery of a lost life-world
+   through empathetic reconstruction of the consciousness of an
+   ancient potter: 'a society studied through its material rather
+   than its linguistic manifestation is in no sense less immediate or
+   less real' (p. 198).
+   This requires a theorization of material culture not readily
+   available in contemporary sociologies. This will not be a
+   specifically archaeological theory but theory directed at
+   material culture and its particular properties: as an important
+   aspect of Bourdieu's doxa, a representation of the given order
+   of the world that constitutes an environment for living
+   (Bourdieu, 1977, pp. 164-71); as an effective frame for social
+   action; as ideologically informed due to its perceived simple
+   functionality, concreteness and triviality which facilitate
+   naturalization and misrepresentation.
+
+
+   Our work (Shanks and Tilley, 1987) with the design of contem-
+porary beer cans in Britain and Sweden also exemplifies some of
+the features of material culture analysis we have been proposing.
+Involving detailed analysis of the material culture of alcoholic
+drink, both packaging and advertising, we located the design of
+beer cans within a social context of brewing, commercial
+marketing, consumerism, consumption and the relation of drinking
+to images of health and the body. Eschewing cross-cultural
+generalization with its resultant problems of lack of explanation of
+specific features of material culture, we compared the two capitalist
+nation-states Britain and Sweden, analysing the historical develop-
+ment of brewing, drinking, the welfare state and technologies of
+disciplinary power. We argued there was a contradiction embodied
+in the material culture of drink in Britain and Sweden, between
+alcohol as commercial product and alcohol as drug. The
+differences between British and Swedish can design can be
+understood as different ideological mediations of the contra-
+diction between promoted consumption and disciplinary control
+of drink. So design can hardly be conceived as reflecting a
+separate social reality but is a structured mediation inscribed in
+commercial, institutional and individual social practices and
+strategies.
+
+114                        MATERIALCULTURE
+
+
+           Material culture and the archaeological record
+
+ We have argued for a view of material culture as a constructed net-
+ work of significations, linking this position with some recent
+ studies. Considered in terms of the archaeological record material
+ culture obviously has boundaries and thresholds in terms of its
+ content and internal structure. It is not reducible t o , nor deducible
+ from, a universal code because material culture is intimately linked
+with social praxis and it is through praxis that it comes into being as
+ an objectification and in an objectified form. Material culture is
+ structured in relation to a specific social totality and is historically
+ and spatially constituted                             • ,•       .
+     Individual material culture items are concrete and particular.
+ They are, after all, empirical objects. At the same time material
+ culture items in the archaeological record are meaningfully
+ constituted and linked in • structural relationships underlying their
+ physical presence, forming a network of cross-references. The
+ individual item forms part of the totality and the totality in part
+ serves to constitute the nature of the individual artefact, its value
+ and significance. The interrelatedness of the meaning of material
+ culture in the archaeological record refers to the intersubjectivity of
+ h u m a n actions. Material culture production, in any particular
+context, is not an isolated act but is always already established as a
+j u n c t u r e : a relation to the material culture which already exists in a
+cultural tradition both spatially and temporally. Any fresh or novel
+ material culture production is always a response to an established
+tradition. The space and time of material culture patterning is
+charged through with the space and time of the social relations to
+which it refers and relates. This is not quantitative space and time
+but lived h u m a n space and time (see chapter 6). Meaning is
+ distributed across space and time through repetition and
+ difference, contextualized parallels, associations, inversions and so
+on. While the meaning of material culture is relatively fixed as
+compared with the nuances of speech, i.e. it is likely to possess
+fewer syntactic links, and differences between right and w r o n g are.
+likely to be more clear cut t h a n in speech, the meaning of material
+culture can by no means be regarded as stable. It can possess
+ different meanings at different times and in different locations. A
+large t o m b such as a megalith is unlikely to possess exactly the same
+meaning 1,000 years after it was first constructed and this point
+leads us on to a consideration of how we, as archaeologists, go
+about interpreting material culture.
+
+                         MATERIAL CULTURE                           115
+
+
+                     Translating material culture
+ The past is not an eternally open site in which the archaeologist
+ rambles around conferring meaning and significance at will.
+ Regarding material culture as meaningfully constituted forming a
+ signifying field inevitably involves the archaeologist in a complex
+process of interpretation, decoding or translation. The single most
+important feature of material culture is that while it is irreducibly
+ polysemous with an indeterminate range of meanings we can't just
+ ascribe any old meaning to it. Material culture patterning is not a
+ reality to be questioned in the way in which a hypothethico-
+ deductive analysis might suggest but a reality that has to be
+constructed in the process of translative, interpretative analysis.
+ Gaining a representation of the significance of material culture
+forms a process in which the significance is achieved by making
+visible or drawing out certain features of the data rather than
+others.                                        \ .
+   In translating from the past to the present we are not trying to
+convey exactly the form and meaning of artefacts in terms of their
+significance for prehistoric social actors. They had their point,of
+view; we have ours. Is one any better than the other? Are our
+categories their categories? Much archaeological discussion,
+particularly that concerned with erecting typologies, has concerned
+itself, as we discussed earlier in this chapter, with this distinction.
+Our present analysis of the archaeological record provides one
+perspective on that record, and as all material objects have to be
+interpreted, whether they exist in the present or the past, we cannot
+restrict ourselves to some arcane attempt at a recovery of original
+meaning for there is no such thing as original meaning given the
+intersubjective context of the production and use of material
+culture. In this the position of the archaeologist is no different
+from an anthropologist faced with an essentially alien culture. So
+we are not trying to convey form and meaning from an original,
+somehow untainted past context into a present-day context as
+accurately as possible. Such a perspective would find it hard to
+define the nature of its own accuracy and, therefore, could shed no
+light on what actually is important in the process of translating the
+past. In the act of translating the past we change it just as we
+change a text in translation from one language into another. No
+translation or conceptually mediated intervention would, be
+possible if it strove for an absolute degree of identity with the
+original (see Benjamin, 1970). Translation is always active, it
+changes the past while being constrained by that being translated,
+
+116                     MATERIALCULTURE
+
+the foreignness, the otherness. Translation is a mode of recovering
+the meaning in the past, an active remembering on the part of the
+archaeologist. The past does not somehow form a slate which we
+can wipe clean since materiality is inscribed or written into it. No
+interpretation can ever be complete or whole or exhaust the
+meaning of the past because of the polysemous nature of the
+structured series of metacritical signs that compose it. Content and
+form in the past form a whole, like a banana in its skin. Our
+interpretations can either envelop the past like a gigantic octopus
+with ample tentacles to suck it in or,alternatively, can try to come
+to terms with the otherness through a theory-data dialectic in
+which we allow the data to challenge our presuppositions while at
+the same time not privileging that data as in standard empiricist
+approaches. This is in part a realization that all archaeology is
+essentially derivative, derived from that which it studies.
+   The artefact constitutes both a point of departure and a point of
+return. The point of return is a translation of the archaeological
+record into a fresh constellation. Truth does not reside in a
+recovery or reproduction of some supposed original meaning but in
+the process of the transformation of the past. The difference
+between a translation of the past and the empirically perceived past
+indicates the similarities and not vice versa. Because material
+Culture relates to and was produced in a past social context we
+should not think of it as being mute and enclosed in an isolation
+which can only be broken by an infusion of our present
+consciousness. The past still speaks in its traces, in the signifying
+residues of the texture of the social world in which it was once
+located. It is up to us to articulate that past in our own speech, to
+come to terms with it as a vast network of signifying residues, to
+trace the connections down the signifying axes and place them back'
+in our present.
+
+
+                          C O N C L U S I O N
+
+
+
+In this chapter we have argued that to try and explain material
+culture in functionalist terms or subsume it under cross-cultural
+generalizations is entirely unsatisfactory. Instead we should be
+thinking in terms of human potentialities linked with social con-
+straints rather than the asocial and the environmental. Material
+culture forms a set of resources, a symbolic order in practice,
+something drawn on in political relations, activated and
+manipulated in ideological systems. In other words, material
+
+                        MATERIAL CULTURE                           117
+
+culture is actively involved in the social world. We have suggested
+that material culture should be regarded as a social production
+rather than an individual creation. Conceived as a form of
+communication it constitutes a form of 'writing' and is located
+along structured axes of signification. We are not attempting to
+argue that material culture, in a manner analagous to language,
+directly represents things, features or concepts in the social world,
+but that it is ordered in relation to the social. The structure of this
+ordering is of vital significance. Material culture is polysemous,
+located along open systems of signified-signifiers or metacritical
+signs. This means that we can never exhaust or pin down its
+meaning once and for all. Material culture in the archaeological
+record consists of a set of conjunctions and repetitions with
+meaning shifting between different levels and contexts. Interpreting
+material culture might be regarded as a kind of translation which is
+essentially transformative and does not aim at a recovery of
+original meaning. Given the intersubjective context of the
+production and use of material culture there is no original meaning
+to be recovered as the meaning depends on the structured and
+positioned social situation of the individual.

@@ -1,0 +1,3345 @@
+     Social Evolution: Europe in the
+    Later Neolithic and Copper Ages
+                                     (1984)
+
+Although archaeological information about the later Neolithic and Copper
+Ages1 has increased enormously since the later part of the last century, its
+interpretation in social terms has remained at a relatively primitive level.
+While the need to deal with underlying social processes has been in-
+creasingly stressed in recent years, many of the concepts employed have
+been no more than revivals of nineteenth-century schemes. Technological
+change and the unilinear development of increasingly hierarchical forms of
+society still lie at the base of many current interpretations.
+   One symptom of this is the frequent appearance of the term 'chiefdom',
+covering a wide range of social forms from the groups encountered by the
+Romans in the later Iron Age to the Copper Age inhabitants of Bulgaria or
+the megalith-building Neolithic farmers of western Europe. Looking for 'the
+indian behind the artefact' (in Robert Braidwood's phrase) has become in-
+creasingly difficult when there is nothing to be seen but chiefs.
+   This uncertainty as to when social ranking actually arose is symptomatic
+of the problems of describing European prehistory by comparison, say,
+with that of the Near East. While we have a fairly refined vocabulary for
+dealing with the various stages in the emergence of complex urban societies,
+Europe's stubborn failure to organise itself until just before the arrival of the
+
+This paper was prepared for a conference on social evolution organised by John
+Bintliff. It was thefirstsketch of a pan-European picture, with attention to social
+process; and it was stimulated especially by the work of Richard Bradley, Ian
+Hodder, Kristian Kristiansen, Michael Rowlands and Stephen Shennan - an
+astonishing concentration of talent on a set of related problems. (The article by
+Mike Rowlands in the same conference volume is now a classic, and has pro-
+foundly influenced my own perceptions ever since.) It tried to go beyond the
+ecological and functionalist views which had dominated my earlier work, and
+pointed the way to some of the themes which would emerge in the following
+decade.
+
+                                         134
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+        EUROPE    IN   THE   LATER   NEOLITHIC        AND   COPPER      AGES
+
+
+Romans leaves us with some 6000 years of social development for which
+a simple division into 'tribal' or 'chiefly' seems hopelessly inadequate. It is
+especially primitive by comparison with the sophistication of our typo-
+logical and chronological analyses, which allow us to divide this same
+period into nearly twenty major cultural divisions, many themselves sub-
+divided into three or four phases.
+   The temptation in interpreting the archaeological record of the later
+Neolithic and Copper Ages is thus to see some sort of cumulative growth of
+social complexity, with evidence such as monument-building or minority
+burial reflecting emerging hierarchies. Terms such as 'chiefdom' have
+become stretched to include earlier and earlier examples of prehistoric
+societies. The account presented here takes a different point of view: it tries
+to explore the variety in early agricultural societies in terms of non-
+hierarchical forms of social organisation. Although social change did not
+benefit all sections of the population equally, it is misleading to see pre-
+history simply in terms of the increasing domination of an elite. We need to
+look more closely at the problems faced by communities in different circum-
+stances and the sorts of power relations that emerged in each case.2 While
+such societies may demonstrate a considerable degree of cultural com-
+plexity, this does not necessarily take the form of centralisation, ranking and
+stratification.
+
+STAGES AND ZONES
+A problem common to many discussions of 'social evolution' is the use of
+categories derived from contemporary ethnography and their application to
+long-term archaeological sequences. From Lewis Henry Morgan (1877)
+onwards evolutionary writers have put forward schemes defining successive
+'stages of culture': savagery-barbarism-civilisation (Clark 1946); band-
+tribe-chiefdom-state (Service 1962); egalitarian-ranked-state (Fried 1967);
+and so forth. While differing in detail, they share the same logic: they
+attempt to convert static snapshots into a dynamic sequence. Such schemes
+are now increasingly under attack. The band to state sequence - that most
+used by archaeologists - has now been trenchantly criticised by its own
+author (Service 1968,169). Recent bands, he noted, were often the smashed
+remnants of more complex systems dislocated by western colonial impact.
+Tribes, in the sense of discrete political units, were often created by inter-
+action with more organised units (Fried 1978); chiefdoms and simple states
+frequently arose in reaction to slave-raiding and the trading opportunities
+offered by contact with the west (Stevenson 1968). Even if we do not treat
+the whole band-tribe-chiefdom-state continuum simply as a reflection of the
+differential impact of colonial contact, these arguments at least point to
+differing degrees of social complexity in the ethnographic record as being
+largely related to positions within the 'macro von Thiinen rings' of a recent
+
+                                        135
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+                             SOCIAL      EVOLUTION:
+
+
+world system - a geographical zonation as a result of historical interaction
+around a few major centres.
+   The difficulty of interpreting archaeological sequences in social terms
+is thus that of mapping an observed spatial variability onto an inferred
+chronological sequence of social forms reconstructed from artefactual
+remains. Not only do the two bodies of evidence - ethnographic and archae-
+ological observations - differ in their raw material, but they also reflect
+different parts of the process of global development. Many of the 'chief-
+doms' of the ethnographic record reflect secondary consequences of the
+existence of states that cannot be projected back into periods before the
+emergence of the state. The time has now come to reassert the independent
+validity of archaeological data, which offer too multivariate a pattern to be
+constrained within arbitrary partitions of a homogenised universal suc-
+cession. For this reason the following discussion takes a more inductive view
+of the archaeological evidence, in searching for internal contrasts before
+seeking external comparisons in world ethnography.
+   Many apparently stadial phenomena need to be considered from a spatial
+point of view, as they result from the rapid imposition of systems developed
+in nuclear areas on less fast-moving peripheries. For instance, the contrast
+between 'Mesolithic' and 'Neolithic' ways of life is in fact as much geo-
+graphical as chronological, as economies based on cereals increasingly
+intruded into neighbouring areas whose subsistence was based on the
+increasingly intensive cropping of local resources. In other parts of the
+world, this process was less abrupt and indigenous sequences were able to
+develop further before being radically restructured by outside contact.
+Temperate North America offers a relevant example, where the florescence
+of monument-building and trading in exotica that characterises phenomena
+such as Hopewell, for instance, preceded rather than resulted from the
+spread of cereal cultivation from further south. Indeed, it is now suggested
+that the apparent 'cultural decline' of the later Woodland period in fact
+represents a period of increased stability and security in food supplies, with
+cereal cultivation requiring a less complex and certainly less spectacular
+socio-cultural system.
+   There are two points to note here. One is the way in which a 'Mesolithic'
+system, if preserved from outside interference, may manifest far more com-
+plex properties than would be inferred from the truncated sequence of early
+postglacial Europe. The other is the way in which new subsistence elements
+that may actually raise population levels and energyflowscan at the same time
+cause a simplification or decentralisation of social structures. It is this kind of
+variability which characterises semi-isolated regions such as the woodlands
+of Europe and North America. Structural principles which were rapidly super-
+seded in nuclear areas may have continued to be important in the more drawn-
+out sequences of social change where urbanisation was a relatively late feature.
+Rather than trying to see in the European prehistoric sequence an increasingly
+
+
+                                        136
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+        EUROPE    IN   THE   LATER    NEOLITHIC       AND    COPPER      AGES
+
+
+ranked series of societies in which successively more powerful chiefdoms suc-
+ceeded one another at each opportunity, it may be more profitable to explore
+alternative descriptions of social organisation.
+    One of the striking features of the west European archaeological record
+is the abundant evidence of ritual monuments which are not accompanied
+by elaborate individual burials or residences. Instead of always looking for
+hierarchisation, it may become appropriate in such contexts to look for a
+different principle, that of ritual formalisation as the basis of social order.
+To equate certain artefacts - monumental tombs, rare or craft-made items
+(Renfrew 1973) in the later Neolithic of western Europe - with 'chieftain-
+ship' may be to miss the essential character of such societies, and to obscure
+both their essential similarity to earlier Neolithic societies and their contrast
+with contemporary groups further east.
+    It is clear that this approach requires European prehistory to be treated
+as a whole, and that it is necessary to go beyond the artefactual mani-
+festations to postulate underlying similarities in social organisation which
+may cross-cut conventional divisions. Such social forms may have no direct
+correspondence to that of any particular group within the ethnographic
+record; but while this makes the task of such reconstruction more difficult,
+it also makes the attempt more worthwhile as a contribution to the general
+study of pre-literate societies.
+
+
+EVOLUTIONARY PATHWAYS
+The basic regional structure of Neolithic and Copper Age societies was
+established by the arrival of agricultural groups and their interaction with
+native communities.3 Along the main axis of agricultural spread, in the
+Balkans and the central European loesslands, the dominant process was
+one of colonisation. By 5000 BC the unity of 'Danubian' cultures across
+the loess, from western Hungary in the south to the Low Countries and the
+western Ukraine in the north, was already established. Cultures of the
+Balkan group with a core area of tell settlements in Bulgaria and southern
+Jugoslavia extended northwards into Romania and eastern Hungary. In the
+central and west Mediterranean (Lewthwaite 1982), the successive adoption
+of sheep and pottery by native littoral groups was increasingly sup-
+plemented by cultivation as the complex expanded from its coastal base.
+The main surviving zone of hunting and collecting groups lay in a broad arc
+from the British Isles, across Scandinavia and the North European Plain,
+to the marshes of eastern Europe which drain into the Black Sea. As the
+Atlantic forests thickened and the climax trees of the mixed oak forest
+shaded out pioneer species such as hazel, the nuts and game resources of
+forest areas declined in productivity and concentrated the attention of native
+groups on coasts, lakes and rivers where fish and molluscs provided a
+substantial part of the diet.
+
+                                         137
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+                            SOCIAL      EVOLUTION:
+
+
+
+
+5.1 The chronological dine between SE and NW Europe in the spread of farming,
+metal use and features of the secondary products complex [from Sherratt 1995,
+fig-4]-
+   Two processes, therefore, dominated the development of European
+societies in the period following this initial establishment of agriculture: one
+was the differentiation and linkage of the increasingly copper-using groups
+of south-east and south-central Europe; the other was the expansion of
+agricultural groups and their interaction with native populations in the
+outer arc. As a result of these processes, the relative regional homogeneity
+of the first agricultural communities gave way to a diversity both within and
+between regions that reached its climax during the fourth millennium BC
+before giving way to a degree of uniformity within the new corridors of con-
+tact which were opened up - the Mediterranean, the North European Plain,
+the Steppes and the Atlantic Seaboard.
+
+
+                                        138
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+        EUROPE    IN   THE   LATER   NEOLITHIC       AND    COPPER      AGES
+
+
+South-east Europe, 5500-4500 BC
+The first question, therefore, is the nature of the changes that were taking
+place in south-east Europe during the fifth millennium BC. This period
+encompasses the climax of the pattern established in the Balkans during the
+seventh and sixth millennia, and illustrates a relatively pure 'successionaP
+change in that these societies then underwent an important transformation
+without interference from adjacent zones. The climax of the tell cultures is
+represented by a variety of groups whose ceramic distinctiveness is a hall-
+mark of the period. There is a profusion of substantial settlement sites, rich
+in the imported materials of everyday life: obsidian, greenstone axes, shell
+beads. Female figurines, often in elaborate settings of painted clay altars and
+shrines, are a characteristic feature; though burials (often still in household
+clusters within settlements rather than in formal cemeteries) are not marked
+by large accumulations of grave goods. I have tried elsewhere (Chapter 10)
+to sketch how these systems may have operated. There is no reason to sup-
+pose that these groups were composed of anything other than autonomous
+communities and lineages. What is evident is an elaboration of material
+culture, particularly the decorative elements, at the same time as an increase
+in regional trade: an intensive production of locally specific pottery types,
+the production of local specialities like salt and perhaps linen textiles, and
+a massive transfer of materials like obsidian and flint between adjacent
+highland and lowland zones. There is also a special emphasis on ritual
+elements - figurines and house decoration, in south-east Europe, and also
+some of the first ritual monuments like Kyjovice Tesetice (Moravia),
+Schalkenburg (central Germany) or Kothingeichendorf (Bavaria) in the
+related area of the central European loess belt (Hockmann 1972).
+    These two elements, regional trade and ritual, give a clue to the social
+mechanisms that organised and linked such communities. The wealth of
+everyday objects, manufactured to high standards of craftsmanship, repre-
+sent more than satisfaction of material needs. The flow of such items was
+clearly vital to social reproduction as much as material survival. This would
+explain the large quantities of items at the top end of the range of utilitarian
+goods - well-finished axes, fine pottery, good flint or obsidian tools - that
+occur in such profusion. Such quantities of valuables were generated by
+social rather than economic needs (cf. Douglas and Isherwood 1978).
+Anyone who has a small child is familiar with this principle: every visitor
+or relative sends another toy digger, fire engine or teddy bear on social
+occasions, quite beyond the propensity of the child to consume such wealth
+(he has boxes full upstairs). Similarly with these Neolithic settlements: every
+site is a bonanza to the archaeologist, who finds great quantities of museum-
+worthy objects (stored in boxes downstairs) that originally circulated to
+cement alliances, to purchase wives, or to compensate for offences.
+   If relations between communities rested on alliances and the flow of
+
+
+                                        139
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+                             SOCIAL     EVOLUTION:
+
+
+material valuables, the proliferation of items with ritual associations suggests
+that this was important in regulating social life within the community. The
+common forms of figurines suggest that these ritual codes were widely shared
+between groups. Indeed, the contrasts between archaeological cultures in this
+context (e.g. Vine a and Tisza, to take two classic Childean examples), which are
+evident in their figurine designs and decorative styles but not in their more
+mundane objects, are likely to reflect not breaks in social interaction (Hodder
+1982a) but the limits of particular, consciously held, ideological systems. The
+general form of these ideologies was probably very similar in the different
+areas in which they were expressed, since the typical female figurines are all
+variations on a theme. The basic features of this cult may even be reproduced
+in very different cultural contexts, though similar social circumstances, in
+other parts of Europe for which the shadowy presence of a mother goddess
+has been inferred. We shall return later to the megalithic temples of Malta, but
+it is perhaps worth noting the association of such Neolithic societies with
+the worship of female deities or earth spirits. It is this kind of association that
+lies behind older views - going back to Lewis Henry Morgan and surviving in
+the canon of Marxist orthodoxy - which describe Neolithic society as 'matri-
+archal' (e.g. Neustupny and Neustupny 1961). In settlement terms, this phase
+was characterised by big sites - large communities of several lineage groups
+with their own burial areas - aggregating for co-operation and defence. In such
+acephalous groups, intensification of warfare is the other side of the coin from
+the intensification of trading and ritual activity, and competition between com-
+munities for the acquisition of material goods involved both alliance and
+hostility (Chapter 10).
+    This, then, is what I mean by ritual formalisation in an east European
+context. The actual structures that underlay these archaeological mani-
+festations remain to be defined, but we may bear in mind the elaboration of
+cross-cutting ties - clans and sub-clans, moieties and ceremonial associ-
+ations - that ethnography suggests may be relevant, and that do not involve
+hierarchy. Their material evidence, in the form of ceremonial houses,
+dancing grounds, symbolic oppositions or totemic signs, should not be
+beyond the perception of archaeology. The hallmark of this type of system
+- which archaeologically we may term the 'mature' Neolithic, to respect its
+time-transgressive character and avoid regional terminologies - is the
+presence of an abundance of material items, mostly of an unspectacular
+kind, that are imported but not rare, moved by active regional trading
+networks and circulating as small valuables. Allied to this is the pervasive
+ritual and symbolic character of material culture in general, which never-
+theless lacks the marks of individual rank and achievement.
+
+4500-3500 BC
+Some time around the middle of the fifth millennium BC this system was
+radically changed, marking the beginning of what is locally termed the
+
+                                         140
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+        EUROPE    IN   THE   LATER   NEOLITHIC        AND   COPPER      AGES
+
+
+'Copper Age' (Chapter 10). The tight regional groupings disappeared; settle-
+ments dispersed or became less continuously occupied; burials received
+greater emphasis (often being easier to find than the settlements); the bulk
+of regionally traded products was replaced by smaller quantities of exotic
+items (notably copper and gold); objects symbolising individual status
+appeared (shafthole axes); the figurines became more schematic and less
+overtly female; and there are greater contrasts in these new forms of wealth
+both within regions and in individual cemeteries. The use of ritual within
+established and long-lived communities was thus replaced by an apparently
+more fluid system in which more explicit statements about rank were neces-
+sary, and a wider range of competition was possible. Even so, there is little
+indication of hierarchy: the rich burials are the end of a continuum, and
+occur within the same cemeteries as the others - there was no mobilisation
+of labour for a Fiirstengrab like Helmsdorf or L^ki Male. Nor are there
+hoards in the same way as in the Bronze Age.
+   This pattern continued into the fourth millennium when agricultural
+settlement was expanding onto the Steppes and the North European Plain.
+These movements of expansion on the periphery did not take place in
+isolation: for the increasing scale of inter-regional trade from the Carpathian
+Basin and the Balkans reached even the outer margins, in Denmark and the
+Ukraine. These long-distance links were associated with shifts in the centres
+of prosperity within south-east Europe. Instead of the central agricultural
+areas, in Thrace or the Koros depression for instance, the areas which rose
+to prominence were on the edges, at nodal positions between regional
+systems: in east Slovakia, at Tibava by the critical passes through to the
+Ukraine (modern frontier crossing-point at Uzgorod); on the Black Sea
+coast at Varna, with its spectacular, gold-filled graves perhaps indicating
+access to the Anatolian gold; in Kujavia (Brzesc Kujawski) on the interface
+with the North European Plain. Access to metal sources and control of the
+trade routes was the key to economic and social success, as the rich graves
+in these areas testify, and the products which crossed regional boundaries
+included Wolhynian flint in eastern Hungary (Kaczanowska 1980) -
+especially the long flint dagger blades - and also the first horses (Bokonyi
+1978), in return for the Balkan/Carpathian copper objects which appeared
+at this time as far afield as Ukraine and in Early Neolithic contexts in
+Denmark.
+
+3500-3000 BC
+Although this theme is clearly relevant to the developing picture in northern
+Europe, we will follow through the sequence in south-east Europe down to
+the end of the fourth millennium BC; for there follows a classic example of
+a discontinuity caused by the incorporation of new features from a neigh-
+bouring region. That region was the Steppes, where major developments
+were now occurring. The expansion of population into the dry interfluves
+
+                                        141
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+                             SOCIAL      EVOLUTION:
+
+
+altered the economic role of this region in a fundamental way. It now came
+to act as a bridge between the peripheral Near Eastern cultures of the
+Caucasus and those of south-east Europe: and many of the features involved
+in adaptation to the steppe landscape were also relevant to the increasingly
+open parts of temperate Europe. The early transfer of horses has already
+been mentioned, though these early specimens - doubtless objects of wonder
+and curiosity - did not survive as a local breeding stock. Equally important
+(though contacts with Anatolia may have been equally relevant here) were
+new breeds of sheep that are evident from the increased size of European
+stocks at this time (Bokonyi 1974).
+   In any case, a radical change in the settlement structure of south-east
+Europe took place at this time, which accelerated the divergence of truly
+Mediterranean areas (where tree crops now became important) from inland
+areas. In the Carpathian Basin, the change is manifested in a major shift of
+population to previously marginal areas both on the edges of the Basin and
+the surrounding valleys penetrating into the uplands, and on the sandy inter-
+fluves within it like the area between the Danube and Tisza (Chapter 10).
+Within the interstices created by this shift, some actual penetration of Steppe
+tribes seems to have occurred (Ecsedy 1979), for example on the Tisza and
+lower Danube. As with the Late Woodland phenomenon mentioned above,
+the effect of a more secure subsistence base was to render some of the
+spectacular efforts of the previous period largely unnecessary: there is no
+later-fourth-millennium equivalent to the Varna cemetery, and indeed
+a relative recession in the copper industry. Social differences were now
+perhaps evident in more basic ways - between village headmen buried with
+their draught oxen and their local followers in the Alsonemedi cemetery
+(Figure 8.1) for instance - than between generally wealthy communities in
+nodal regions and poorer populations in the hinterlands. Such a foundation
+had the potential for a taller edifice of social structure, in which hierarchical
+divisions could cut deeper than ever before - the beginning of the Bronze
+Age pattern - though it was another millennium before these divisions were
+to become evident in the rich, fortified centres of Early Bronze Age Hungary,
+Romania and Slovakia.
+
+Central and northern Europe, 5 0 0 0 - 3 0 0 0 BC
+While the south-east had a protracted early agrarian sequence unaffected by
+neighbouring developments, north-west Europe was from the beginning in
+contact with a wider network. It was also an area of greater diversity, from
+the relatively dense coastal native populations to the pioneer farmers of the
+loess bridgehead. Inevitably, therefore, it did not simply replicate the stages
+defined for Balkan and Carpathian Europe; though at a deeper level there
+are some significant resemblances. The sequence on the loess corridor of
+central Europe has something of a transitional character: it reflected some
+of the developments of the south-east, but its limited area rather reduced its
+
+                                         142
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+        EUROPE    IN   THE   LATER    NEOLITHIC       AND   COPPER      AGES
+
+
+importance in the fourth and third millennia when the surrounding regions
+were opened up. This change in role makes it difficult to treat as an inde-
+pendent entity and it will therefore be considered in conjunction with its
+northern and western hinterlands. The increasing aggregation of settlement
+that was characteristic of the early fifth millennium in the Carpathian Basin
+(Chapter 10) was repeated during the later fifth and early fourth millennia
+in the central European zone. The clusters of hamlets that were character-
+istic of the pioneer phase, for example in the Rhineland, were replaced by
+nucleated, enclosed villages of long-houses. Already, however, small groups
+were penetrating northwards into the interstices of established Mesolithic
+groups around the lakes of the North European Plain, and a complex
+pattern of interaction was beginning.
+    The origins of the northern Neolithic cultures (TRB) have conventionally
+been sought either in continuity from local Mesolithic groups or in some
+fresh wave of agricultural population from further south (e.g. Troels-Smith
+1952; contra, Becker 1954). The present picture suggests that the new
+pattern of farming cultures that united both the North European Plain and
+the northern loesslands, actually originated from interaction on the interface
+between the two. In some areas, such as Scandinavia, the expansion of farm-
+ing seems to have followed a relative collapse of local resources (Rowley-
+Conway 1984); in others, such as Brittany, some kind of fusion seems to
+have occurred; in the south-east of the British Isles, some colonisation into
+empty niches seems more likely. Despite these diverse origins, a strongly
+convergent pattern came about, in which scattered hamlets were focused on
+small burial-monuments and enclosures that provided continuing points of
+integration between a diversity of exploited zones. Already, however, there
+were significant regional exchange systems, which at certain points articu-
+lated with long-distance chains reaching back to central and south-east
+Europe; though these imported objects did not serve to mark an elite in the
+same way as in Hungary or Bulgaria (Randsborg 1979).
+    These relatively small-scale systems, limited in territorial extent, were
+greatly enlarged at the same time as the radical shift which transformed
+Balkan and Carpathian Copper Age groups. The appearance of plough-
+marks in northern Europe suggests that these phenomena had a common
+cause, and that in both areas the use of plough cultivation greatly enlarged
+the area which could be exploited for agriculture. The effect of this techno-
+logical innovation, on two contrasting socio-economic systems, was very
+different: rather than changing the direction of development, as in the south-
+east, this more extensive form of agriculture actually intensified propensities
+already present in north-western Europe.
+    One effect was greatly to extend the area under cultivation, absorbing in
+the process many of the remnant communities of hunters and fishers. This
+was accomplished, however, within the existing framework: the megalithic
+tombs became larger and more elaborate, taking the form of passage-graves
+
+                                        143
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+                            SOCIAL      EVOLUTION:
+
+
+rather than simple burial-chambers; the enclosures which seem to represent
+a level of local integration above that of the monumental tombs reached
+a peak and then declined; and existing methods of exploiting raw materials
+either for tools (e.g. flint) or ornaments (e.g. amber) were greatly enlarged.
+In the loess area this progress was manifested in a shift from the riverine
+strip to the edge of the interfluvial zone (Kruk 1973; 1980); though since
+this area lacked the local diversity of the north-western landscape, the foci
+of this process were nucleated (and now often defended) villages (Bronocice,
+Dolauer Heide) rather than burial monuments. The common basis of all
+these societies, however, was an attachment to place and the rituals which
+were performed there, rather than to individuals of a particular rank.
+   How were these societies integrated, and in particular how do they
+compare in this respect with the various stages defined for south-east
+Europe? My impression is that despite their contemporaneity with the
+Copper Age and Early Bronze Age groups of that area, they were funda-
+mentally more similar to those of the late Neolithic tell climax, in which
+ritual (manifested both in the monuments and the artefacts), rather than
+rank, was the organising principle. As with these earlier 'mature' Neolithic
+communities, the artefactual repertoire does not distinguish symbols of
+individual rank, but rather offers a broad range of often finely-made
+domestic items - such as decorated pottery, stone axes and amber beads -
+which did not themselves act as sumptuary markers of a particular rank, but
+served to structure social relations through their use as valuables. Burials
+were not accompanied by impressive quantities of wealth objects associated
+with particular individuals, although burial itself was a focus of ritual which
+involved both monumental construction and the disposal of wealth. The
+tombs are usually communal, and convey meaning by the arrangement of
+the bones, rather than by varying quantities of personal grave-goods, which
+often take the form of offerings at the monument as a whole. Emphasis was
+on the community rather than the individual, and effort was expended not
+to commemorate powerful leaders but to enhance corporate prestige and
+territorial integrity. Moreover, burials in monumental tombs probably
+represent only a part of the total population; though this in itself does not
+imply a system of social stratification. The tombs should not be considered
+as a means of disposing of the dead, but rather of giving significance to
+selected people whose death was of importance to the groups involved.
+There was often a considerable interval between death (and exposure of the
+corpse, which was perhaps the usual means of disposal) and interment in a
+tomb. The remains selected for such treatment were probably not those of
+people who occupied a particular rank in their own lifetime, but venerated
+ancestors who stood in critical genealogical positions in relation to group
+fissioning.
+  The main contrast between 'mature Neolithic' groups in south-east and
+north-west Europe, then, is the elaboration of mortuary ritual which charac-
+
+                                       144
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+        EUROPE    IN   THE   LATER    NEOLITHIC        AND   COPPER      AGES
+
+
+terises the latter. It can be argued that this is more an expression of local
+ecology than of fundamental differences in social organisation. Funerary
+monuments are typical of areas of early agricultural settlement beyond the
+loess, and are associated with the particular conditions of the North Euro-
+pean Plain and the Atlantic coastlands - unlike the defended centres, which
+also occur on the loess. Monumental tombs are characteristic of areas where
+settlement was still constrained - note their occurrence in clusters and linear
+arrangements in relation to river-valleys - but where large aggregated
+communities were not possible. They represent foci and territorial markers
+for an expanded (though not dispersed) pattern of settlement, particularly
+in core areas like the Danish islands where settlement was relatively dense.
+Other types of non-monumental 'earth-graves' occur in less densely settled
+zones like western Jutland (Randsborg 1975), where a seasonally mobile
+way of life may have persisted, that was perhaps also characteristic of the
+earliest phase of settlement in the core area. The monuments thus mark
+a phase of saturation and the crystallisation of defined territorial units.
+    Such monumental tombs served not only to legitimate rights to particular
+territories, but were also agents of social control within the groups. One
+striking feature, both of long barrows and 'causewayed' enclosures, is the
+composite nature of their construction - reflected in discontinuous quarry
+ditches as well as constructional compartments 4 that seem to relate to
+corporate work-groups involved in their construction. Rather than simply
+representing the tombs of different lineages, therefore, the tombs may be the
+products of cross-cutting local associations which provided a focus of
+political allegiance. This would be particularly important if surviving
+Mesolithic groups retained a corporate existence within the agrarian terri-
+torial structure, and such monuments would thus be particularly developed
+in areas where native populations were integrated into Neolithic societies
+at a local level.
+   This interpretation of the social basis of the megalith-building groups
+of north-west Europe does not imply that such groups were essentially
+egalitarian - in the sense that there was no conflict of interests between
+different status- and kinship-groups - for it is basic to the idea of such ritual-
+centred organisations that competition took place between (probably ex-
+ogamous) local units, and that certain sections of the population (notably
+senior men) exercise dominance within them. But authority was localised,
+and there was no hierarchy in the sense of successive tiers of authority:
+rather, dominant groups promoted a common ideology which supported
+their own interests within the unit, and left them free to engage in
+competition for prestige between units. This probably took the form of
+competitive feasting - 'fighting with wealth' - involving both consumption
+of subsistence goods and the ritual destruction of material items, e.g. pot-
+smashing. Differences in wealth between units (whether communities or
+lineages) are therefore to be expected and are indeed manifested in the
+
+                                         145
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+                             SOCIAL      EVOLUTION:
+
+
+different quantities of offerings associated with communal tombs, just as
+there are notably 'wealthy' settlements among the Neolithic villages of
+south-east Europe. Such differences in wealth, however, do not add up to
+a conical pattern of ranking between communities and these must still be
+considered as largely autonomous.
+
+3000-2500 BC
+This parallelism with the 'mature Neolithic' phase of the south-eastern
+sequence is even more striking in its transition to a pattern which reversed
+many of these elements - the disappearance of large, central sites and the
+dispersal of population; the decline in ritual elements and the appearance of
+status-symbolic artefacts; the development of long-distance trade (especially
+in metal) rather than in common regional items. These new features charac-
+terise the Corded Ware cultures that succeeded the variety of megalith-
+building groups throughout the North European Plain and initiated the
+pattern that was to characterise the second millennium BC; and in this
+sense, it may still be useful to describe the Corded Ware and Beaker periods
+as 'Copper Age'.
+   One evident feature of this period was a major phase of internal
+colonisation penetrating more deeply into the interfluvial areas of the loess
+and cover sands, and extending agrarian occupation to the outwash sands
+of the North European Plain. Settlement had a greater fluidity, with less
+substantial and long-lived sites, and a shorter-term investment in burial
+monuments: single graves under round barrows5 rather than long megalithic
+or earth-built structures. Material culture had a more segmentary character;
+a consistently replicated series of status-kits comprising a personal drinking
+vessel and weapon (battle-axe) which accompanied a large number of males
+to the grave. These symbols became internationalised to a much larger ex-
+tent, even integrating neighbouring hunting and fishing groups within a single
+framework of status codes, as in central Scandinavia and the Baltic regions.
+   This pattern did not emerge in a uniform way over the whole of the
+North European Plain. It seems to have crystallised earlier in the east,
+perhaps in central Germany and eastern Poland, and to have spread like a
+domino effect westwards into the megalithic heartlands, as far as the North
+Sea. This complex seems to have penetrated within and around the estab-
+lished TRB communities of the Low Countries and Scandinavia, before
+absorbing them into the new pattern. It opened up a new east-west corridor
+that articulated at its eastern end with the expanding Steppe groups, trans-
+mitting horses and woolly sheep (as well as artefacts such as hammer-
+headed bone pins) directly across the open landscape of northern Europe,
+and restructuring the communities of the adjacent loess belt. It did not, how-
+ever, penetrate westwards as far as the British Isles or large parts of northern
+France (Seine-Oise-Marne culture), where the earlier pattern of territorially
+focused communities persisted (Howell 1982).
+
+                                         146
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+        EUROPE    IN   THE   LATER   NEOLITHIC       AND    COPPER      AGES
+
+
+   This linkage, from the forest Steppe to the Atlantic sea-board, was a
+manifestation of the speed of forest clearance on the lighter soils of the
+North European Plain. The increased size of cultivated area followed a
+greater development of the pastoral sector of a mixed farming economy
+based on light plough agriculture, with an emphasis on the male role
+in warfare and protection of an acquired territory. It produced a similar,
+segmentary social structure over a large interconnected area, with the ability
+to penetrate and corrode the more static structures of surrounding groups.
+In the following centuries, this pattern was to spread, and be further en-
+riched, by contact along the Atlantic coast, the Rhone, and across the
+western Alps: the Bell Beaker network.
+
+The central and west Mediterranean, 5000-3000 BC
+It is now time to consider the third major geographical division, the central
+and western Mediterranean. During the earlier fourth millennium there was
+no major opening-up of new areas for settlement as in northern Europe, and
+a relatively stable pattern of large villages with stone or rock-cut tombs
+occupied the more fertile zones within it, at a relatively low overall density.
+Exchange networks carrying material such as obsidian linked islands such
+as Sardinia with the adjacent mainland, but these had a limited, regional
+scope. Some signs of the elaboration of territorial foci were in evidence, in
+the beginning of megalithic construction in Iberia and in the prototypes of
+the trefoil-shaped temples in Malta.
+    As in north-west Europe, the mid-fourth millennium saw an increase
+in the scale of these activities, without a discontinuity of developmental
+trajectory. Tomb and temple construction became more elaborate, with a
+concomitant appearance of small cult objects such as female figurines. Craft
+production developed, with copper axes supplementing stone ones and
+pottery bearing a profusion of ornamental and symbolic signs including the
+'oculus' motif.
+    These features bear a general resemblance to those of the megalithic
+cultures of north-west Europe and they probably shared a similar form of
+social organisation. Increasingly, however, a further process of spatial
+expansion and inter-regional linkage introduced new elements, both from
+northern Europe and from the east Mediterranean. This expansion can
+plausibly be attributed to the use of the light plough, which assisted in the
+opening-up of the interfluves in the same way as in other areas of Europe at
+this time, and to specific features of the drier Mediterranean environment:
+the cultivation of tree crops along with an expansion of sheep rearing, and
+also fishing. An important outcome was the colonisation of new areas,
+particularly highlands like the limestone plateaux of Languedoc and islands
+like Lipari, which acted as nodal points in inter-regional contacts. Forti-
+fication was a notable feature of Mediterranean settlement patterns, both
+at large villages such as Los Millares (Almeria)6 and smaller fortified
+
+                                        147
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+                             SOCIAL     EVOLUTION:
+
+
+enclosures like Zambujal (Portugal) and Lebous (southern France). The new
+external links promoted the rapid spread of particular features such as
+bastion fortification which can be traced throughout the length of the
+Mediterranean. These contacts can also be seen in portable artefacts, like
+the distribution of Castelluccio bone plaques.
+   This growing network of regional links within the Mediterranean began
+to be articulated with the long-distance routes reaching down from northern
+Europe. The characteristic combination of drinking vessel (sometimes a
+beaker but often a local form of handled cup) and personal weapons (now
+a dagger and arrows rather than a battle-axe) began to appear in male
+graves, though normally these were rock-cut tombs more appropriate to a
+Mediterranean environment than the earthen barrows of the north. This
+emphasis on the male warrior began to replace that on the female figure in
+representations, stelae and rock engraving.7 The transition was most rapid
+in Italy and southern France, with their more direct northward connections,
+but also penetrated to the islands (e.g. Corsica). In Iberia the change was less
+clear-cut, and was only fully complete in the second millennium with the
+appearance of the Argaric culture with its male warrior burials. The pattern
+of settlement in the Mediterranean, however, continued to be based on
+defended centres now often positioned on spectacular heights.
+   As with the British Isles in relation to the North European Plain, there
+were spatial limits to this penetration, and in peripheral areas an older
+stratum survived and continued to develop along its own lines. In Malta the
+temples serving a female divinity reached a peak of elaboration in the earlier
+third millennium, culminating in the massive structures of Tarxien and the
+nearby Hypogeum. The stability of these temple-centres, of which over a
+dozen are known, is indicated by their cumulative rebuilding and ex-
+tension, and this territorial stability must be related to the finite size and
+relative isolation of the island; these laboratory conditions allowed the
+undisturbed growth of perhaps the most complex of these ritual-centred
+organisations.
+
+The British Isles
+Britain itself must also be considered as part of the archaic fringe to which
+continental innovations were introduced at a relatively late stage, and which
+continued to develop along its existing trajectory to take an older pattern to
+new heights of elaboration. While large enclosures and other monuments to
+territorial stability largely disappeared in adjacent areas of the continent
+during the third millennium BC, many parts of the British Isles saw a re-
+newed phase of monumental construction, either of large passage graves like
+Maes Howe or Newgrange in northern and western Britain in the later
+fourth millennium, or of henges like Avebury or Durrington Walls - the
+latter being significantly close to earlier territorial foci - in the south in the
+third millennium BC. The scale of such construction, however, was entirely
+
+                                         148
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+        EUROPE    IN   THE   LATER    NEOLITHIC       AND   COPPER      AGES
+
+
+new; and the ritual landscapes of the British chalklands - for instance the
+triangle of Avebury and its avenues, the 'Sanctuary' and Silbury Hill -
+represent a concentration of effort unparalleled before. In this case, the
+relative isolation from the Corded Ware 'domino effect' was reinforced by
+the local setting of continued territorial expansion, which was internally
+focused within the chalklands and adjacent gravel terraces, rather than
+externally directed to the large areas of outwash sands as it was in the North
+European Plain. This elaboration of ritual and territorial foci seems to have
+been an alternative to the segmentary organisation reflected in Beaker
+'status-kits', which began to be represented in parts of Britain, outside the
+main henge areas. This 'Beaker' pattern led to the formation of rich indi-
+vidual burials in Wessex itself shortly before 2000 BC, associated with the
+erection of stone settings in the earlier earth and timber henges, e.g. at
+Avebury and Stonehenge. The 'Beaker' pottery lost its role as a status item
+and merged with the rest of the domestic pottery assemblage to form the
+basis of the Bronze Age wares of the second millennium. These were associ-
+ated with a major spatial expansion into more marginal areas outside the
+earlier chalkland foci, in the manner of Corded Ware and Early Bronze Age
+expansion on the Continent.
+    This third-millennium phase of ritual monuments represented by henges,
+like the Maltese temples discussed above, clearly went beyond the simple,
+relatively autonomous character of earlier ritual-centred forms of social
+organisation. They may well have been associated with a specialised ritual
+caste with access to esoteric (e.g. astronomical) knowledge, rather than
+simply being run by lineage heads or village elders in the way that may be
+imagined for earlier Neolithic ritual monuments. But although they were
+able to mobilise impressive quantities of labour, this apparently did not ex-
+tend to the accumulation of surplus produce or the extensive patronage of
+manufacturing operations based upon it. These properties, and the 'conical'
+patterns of ranking that underlay them, only emerged from the more ex-
+plicitly individualising warrior-centred form of organisation associated with
+Corded Ware and Beakers.
+
+CONCLUSION: SPACE, TIME AND SOCIAL STRUCTURE
+This brief review of the contrasts between successive and contemporary
+groups in different parts of Europe demonstrates the difficulty of applying
+any simple scheme of social evolution to this phase of maximum diversi-
+fication. Nevertheless, some common elements have been identified, as well
+as trends which were to result in a much greater degree of convergence
+during the Bronze Age.
+   A basic theme of discussion has been the contrast between east and west.
+Many of the most conspicuous artefacts of this phase - the megalithic and
+earthen monuments of western Europe - have no direct parallels in the east.
+
+                                        149
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+                             SOCIAL      EVOLUTION:
+
+
+Yet the types of society which they represent may, at a deeper level, have
+a fundamental resemblance to already superseded stages of social develop-
+ment in those parts of Europe which had been settled by agricultural
+communities at an earlier date (Figure 5.1). The evident contrasts stem from
+the historical and environmental setting of their respective developments,
+and the relative isolation of the western periphery which allowed a further
+elaboration of social forms which in other areas had been rapidly
+extinguished.
+   These contrasting trajectories determined the different reactions of the
+various areas to the major technological and economic innovations of the
+period, the secondary products complex (Chapter 6). The rapid spread of
+features like the plough and woolly sheep cross-cut local successions of
+social development, and they were integrated into local systems in different
+ways. In the east, they caused something of a recession in the production
+of spectacular elite items such as the goldwork of Varna; in the west they
+accelerated and increased the scale of monument construction and terri-
+torial demarcation, giving a further twist to the elaboration of ritual inte-
+gration. In this way the effect of these innovations was to increase regional
+contrasts, even though in the longer term it was to provide a more uniform
+basis for convergent development.
+   Although elites of different kinds were produced by the various processes
+which have been defined, with a measure of ranking both within and be-
+tween communities, there are no signs of substantial contrasts between
+different levels of society that would deserve the term 'stratification'; nor of
+the cumulative addition of levels of executive authority that could be
+described as a hierarchy. The basic building block of Neolithic and Copper
+Age societies was the community or lineage, and the bonds between them
+were the fragile ones of exogamy and alliance.
+   Within this framework, however, there was a variety of ways in which
+social relations might be organised. An important variable was the layout of
+settlement on the ground. Although Europe went through a protracted pro-
+cess of 'filling up', this did not produce a simple linear increase in population
+pressure and stress on land: instead, we can observe small cycles of infilling
+within particular zones, followed by the unlocking of further zones either
+within or beyond the region. The plough in particular opened up extensive
+areas for cultivation (incidentally increasing the pastoral component of
+agricultural economies) which allowed a more rapid process of spatial ex-
+pansion than was characteristic of the often river-based patterns of initial
+land-taking. Paradoxically, therefore, analogies with slash-and-burn
+farmers in the tropics may be more relevant to the later Neolithic than to
+the early Neolithic, whose constrained commitment to zones of primary
+productivity is perhaps more analogous to that of the lowland rice farmers.
+    The implication of these patterns of expansion can be taken further. In an
+illuminating article on stateless societies in West Africa, Horton (1976) has
+
+                                         150
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+        EUROPE    IN   THE   LATER    NEOLITHIC        AND   COPPER      AGES
+
+
+discussed the circumstances under which lineages and corporations based
+on principles other than descent become important media of social organ-
+isation. He contrasts the conditions of unconstrained expansion, in which
+dispersed settlement is the norm and spatial and genealogical distance main-
+tain an approximate equivalence, with constrained expansion where 'leap-
+frogging' and disjunctive migration become necessary. In the former case,
+segmentary lineages can occur in which a single genealogical scheme can
+embrace many thousands of people; in the latter, aggregates composed of
+several lineages are formed, which must be integrated by cross-cutting ties
+and a genealogical definition of landholding rights is replaced by a territorial
+one. Co-residence, rather than common descent, becomes the focus of
+political allegiance.
+   Such territorially-based societies may be of two kinds: those where the
+political community coincides with a large, nucleated village, and those
+where its members are scattered in a number of smaller settlements. In the
+former case, the role of lineages is subordinated to cross-cutting institutions
+based on age grades, secret societies, and especially ritual groupings - 'a
+cluster of adaptations to the problem posed by the presence in the com-
+munity of strong and rivalrous lineages' (ibid., 96). In the latter, the lineages
+maintain their importance as social groupings within the territorial unit,
+whose role in this potentially fissiparous situation is stressed by the cult of
+an earth spirit that unites the constituent descent groups. In this case, the
+head of the leading lineage usually acts as cult priest and presides over
+internal affairs.
+   Now these distinctions correspond in a rough way to some of the
+contrasts which have emerged in discussing the societies of later Neolithic
+and Copper Age Europe. While there are no equivalents here to the pioneer
+societies of the earlier Neolithic, there are striking resemblances between the
+institutions that have been inferred for the large Neolithic villages of south-
+east Europe and the loess area, for instance, and those of stateless groups in
+West Africa such as the Kalahari. The problems of scattered, but territorially
+defined, groups like the Lodagaa are paralleled by the megalith-building
+communities of north-west Europe, and were apparently solved in a similar
+way, through a focus in territorial ritual.
+   Can the properties inferred for 'Copper Age' societies (both the fourth-
+millennium examples from south-east Europe and third-millennium
+examples from the North European Plain) be related to a pattern of seg-
+mentary lineages (Kristiansen 1982)? Settlement was both dispersed and
+expanding in space, producing the (temporary) conditions under which
+genealogical reckoning was an effective way of maintaining an expanding
+series of relationships, and reducing the emphasis on territorial definition.
+In such a system there is no permanent political community, but rather
+adventitious combinations for particular threats, drawing on as large a
+kinship range as necessary. This equivalence of segments and relativity of
+
+
+                                         151
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+                            SOCIAL      EVOLUTION:
+
+
+political grouping - overlapping egocentred units - leads to a predominance
+of leadership over authority: political position is a matter of external
+negotiation rather than internal control. In such circumstances, the role of
+individual lineage heads becomes crucial, both as a widespread status
+position (marked by an appropriate set of sumptuary artefacts?) and as a
+potential focus for wider allegiances in a shifting configuration of political
+structures (with the possibility of achieving individual prominence in the
+process). In this context, we can understand the emergence both of inter-
+regional symbols of rank, such as stone or copper battleaxes or decorated
+drinking vessels. The deposition of these items in graves (as Shennan, 1982,
+remarks) was important in the process of defining succession to these ranks
+and their acquired prestige. Moreover, this type of organisation has the
+property of being able to spread at the expense of surrounding groups -
+Marshall Sahlins (1961) has called it an 'organisation of predatory ex-
+pansion'. This seems a particularly appropriate description of the spread of
+Corded Ware and its impact on the ritually focused megalith-builders.
+   The main contrast in the European succession is thus between two
+sorts of societies. The first was characterised by stable flows of regionally-
+acquired goods, and was organised on an established territorial basis, with
+public rituals and symbolic analogies based on female images. The societies
+which superseded them were characterised by a greater emphasis on exotic
+goods and longer-distance trading contacts often of a less stable and more
+adventitious kind, in which information-carrying items took precedence
+over more basic commodities. Their territorial basis was less stable, their
+ethos was a competitive and self-aggrandising one, with sumptuary codes of
+artefact use and symbolic analogies based on the image of the warrior male.
+More generally, we can perhaps discern in these European sequences an
+underlying shift from societies organised primarily on the basis of com-
+munity (whether a single settlement or several sites with a common focus)
+to an increased emphasis on the potential of kinship for forming wider
+networks of alliance than had hitherto been realised.8 This is perhaps the
+clue to the new properties which emerged in Copper Age systems in tem-
+perate Europe.
+   This latter type of social structure provided the basis for Bronze Age
+development, in which the scale of inter-regional exchange was expanded
+from a primary concern with symbolic items to include a greater volume of
+'consumer durables' like textiles and bronze tools. This involved a greater
+organisation of local production for inter-regional exchange, with regional
+specialisation in commodities and manufactured products which were more
+widely available but still supplied through an elite. With the gradual filling-
+up of the continent during the second millennium, differential access to
+productive land became more significant and provided preconditions for the
+emergence of true stratification. At the same time the expansion of urban
+trading networks from the east Mediterranean started a process of inter-
+
+
+                                        152
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+          EUROPE       IN   THE   LATER      NEOLITHIC        AND    COPPER       AGES
+
+
+action with indigenous European communities, to produce the core-
+periphery pattern of the first-millennium Iron Age (Frankenstein and
+Rowlands 1978).
+   The societies of later prehistoric Europe thus provide an extended series
+of examples of the processes operating in the early stages of social differ-
+entiation. Such societies are arguably poorly represented both in the ethno-
+graphic record, and in the archaeological evidence from nuclear regions
+where these types of society were rapidly superseded. European Neolithic
+and Bronze Age archaeology thus represents a prime source for the study of
+such phenomena. It may be complemented by the study of other areas - for
+instance Polynesia - whose relative remoteness from expanding core areas
+of states and empires allowed indigenous sequences to achieve a measure of
+social complexity. An understanding of social change requires a continuing
+dialogue between the evidence of ethnography and archaeology. By a better
+definition of their own material, archaeologists will be in a better position
+to understand the relevance of other branches of anthropology to it.
+
+NOTES
+
+1. The terminology of period divisions in European prehistory has been elaborated over more
+   than a century and is still inconsistent. 'Neolithic' was first defined as the later part of the
+   Stone Age in opposition to 'Palaeolithic'; the idea of a 'Copper Age' before the beginning
+   of the Bronze Age grew up as a local concept both in Ireland and Hungary in the 1870s.
+   National terminologies have incorporated this usage (often in the form 'Chalcolithic' or
+   'Eneolithic'), but these usages are often mutually inconsistent and in any case do not
+   precisely conform to the beginning of copper use in any particular area. This article uses
+   calibrated radiocarbon dates to give absolute ages. The terms 'mature Neolithic' and
+   'Copper Age' are used in a descriptive sense to denote particular types of social systems
+   that are defined in the text. 'Copper Age' thus denotes a system in which copper objects
+   are used in a particular way, rather than a period defined by the first use of metal.
+2. Recent social theories (Giddens, A. 1979, Central Problems in Social Theory, London,
+   Macmillan; Harre, R. 1979, Social Being, Oxford, Blackwell) have attempted to overcome
+   the essentially static nature of conceptions of social structure based on fixed roles and
+   functions, determined by efficient adaptation to external (usually economic) circumstances.
+   Instead they have proposed a more dynamic view in which individuals and groups manipu-
+   late their shifting advantages in a continuous process of negotiation (called 'structuration'
+   by Giddens) which itself creates and defines the patterns of social life. While this over-
+   comes some of the problems associated with the endless search for a 'prime mover' of
+   social change, it has yet to be formulated in a way which is relevant to changes on an
+   archaeological ('evolutionary') timescale.
+3. For a more systematic general account of European prehistory and that of adjacent areas
+   (with references), see Sherratt (1980).
+4. Such compartments are seen both in earthen long barrows, where they are defined by
+   hurdling, and cairns like the Severn-Cotswold barrows, where the mound was constructed
+   of dry-stone cells filled with material from the quarry-ditches, themselves dug in a series of
+   intersecting pits. This suggests an organisation of several co-operating groups, perhaps on
+   the scale postulated by W. Startin (PPS 1978, vol. 44, pp. 143-59), for construction of a
+   Bandkeramik longhouse. Such a co-operating unit, itself segmentary in character, would
+   represent a political community but not necessarily a co-resident group. This may be the
+   logic behind the settlement clusters definable in Neolithic settlement patterns in several
+   areas.
+
+
+                                               153
+
+
+
+
+                      This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                       All use subject to https://about.jstor.org/terms
+
+                                 SOCIAL      EVOLUTION:
+
+5. Such tombs still had a 'monumental' aspect in that they were covered with earth mounds,
+   which might form small cemeteries through the accumulation of satellite and secondary
+   burials. A role as territorial markers is evident from their occurrence on interfluves and on
+   sight-lines, but not all such burials were marked by mounds. In some areas where spatial
+   expansion was not occurring, flat graves are found - sometimes in large cemeteries - e.g.
+   Vikletice, Bohemia.
+6. The Almerian collective burials in tholoi (nearly ninety at Los Millares) differ from other
+   European megalithic tombs in their direct associations with a large adjacent settlement: in
+   this case the tombs may directly reflect lineages within the community. These appear to be
+   ranked in wealth and this pattern is probably associated with the continuing importance
+   of limited areas of wet bottomlands in this arid environment.
+7. This occurs on menhirs in the west Mediterranean, and also on Cycladic figurines.
+8. This is not to deny the existence of extensive kinship networks in earlier times, especially
+   among Upper Palaeolithic hunters in open environments; but it suggests that an initial
+   effect of the introduction of agriculture (or other forms of existence involving large,
+   sedentary communities) was to place the emphasis of social organisation foremost on
+   community. This would be the case both in the large settlements of the Neolithic of central
+   and south-east Europe, and in the Neolithic of western Europe where 'big monuments'
+   replaced 'big sites'. The formation of more extensive kinship networks would then repre-
+   sent a shift to forms of social organisation that were less tied to patterns of residence and
+   the existence of large, stable settlements.
+
+
+
+
+                     This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:24:40 UTC
+                                      All use subject to https://about.jstor.org/terms
+
+                           Section           III
+
+  D I S C O V E R I N G THE
+SECONDARY PRODUCTS
+          COMPLEX
+
+
+
+
+Impression of a cylinder-seal of the Uruk period, c.3500 BC, showing two men
+       harnessing an ox (British Museum: drawing by Ann Searight).
+
+
+
+ Als man Milch trank, und den Ochsen an den Pflug spannte, waren
+    wesentlich alle Bedingungen fur unsere asiatisch-europaische
+                         Kultur vorhanden.
+        (When milk was drunk, and the ox yoked to the plough,
+  all the conditions for our Asiatic-European culture were present.)
+                                                          EDUARD HAHN (1896)
+
+
+
+
+              This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:26:25 UTC
+                               All use subject to https://about.jstor.org/terms
+
+         DISCOVERING      THE    SECONDARY       PRODUCTS        COMPLEX
+
+
+ u ur understanding of Old World animal management after the initial
+provision of a captive meat supply was put on a new footing by Andrew
+Sherratt's now classic study of 1981', wrote Stuart Piggott (1992, 13),
+having earlier (1983, 34) called it 'important and stimulating' but the
+phenomenon in question 'unhappily named'. Alas, quite true - but de-
+liberately so. I have tendentiously titled this section 'Discovering ...', but
+it would be more in tune with contemporary terminology if I had written
+'Inventing the Secondary Products Complex' - or Secondary Products Revo-
+lution, as I even more tendentiously termed it at the time. The rhetorical
+flourish of an admittedly ugly title was a necessary strategy to ensure the
+visibility of the concept.
+   That strategy apparently succeeded; for not only is the concept enshrined
+in the new Oxford Companion to Archaeology (with which I have no
+editorial links), but the term is used in several British universities to struc-
+ture their teaching of later European prehistory. There is obviously a need
+to find punctuation points within the long sequence of agrarian communi-
+ties before the arrival of bronze - a period which has successively increased
+in length with every advance in absolute dating since the invention (or
+discovery?) of radiocarbon dating. It clearly, therefore, fulfils a need in
+current expository schemes: but did it ever really happen?
+   That depends, of course, on how it is conceived. 'This was a time of
+considerable intensification of farming production, using a whole range
+of devices and inventions in agriculture and in animal husbandry. Some of
+these are well encapsulated in Sherratt's term the "secondary products
+revolution"', writes Colin Renfrew (1994,159-60), presenting a minimalist
+interpretation - for he goes on to qualify his acceptance of the idea: 'but
+unfortunately his exposition involves the diffusionist assumption that the
+innovations in question had an eastern origin, a point that has been
+effectively countered (Chapman 1982; see Bogucki 1988). As noted above,
+these diffusionist arguments rest as much on faith as on material evidence,
+and the positive features of his model are just as well described under the
+rubric of the intensification of farming systems.'
+    In this minimalist form, it still fulfils one of the intentions which I had
+in (well, yes, frankly) inventing the concept: to emphasise the otherness of
+early farming. Terms such as 'hunting' or 'farming' carry a heavy baggage
+of contemporary images and assumptions, which it is anachronistic to retro-
+ject deep into the past. On the one hand, it is necessary to choose some term
+from contemporary language; on the other, any term cannot quite fit earlier
+circumstances - for instance the combination of cereal cultivation and
+gazelle-hunting practised by the early inhabitants of Jericho. Bundling
+together all the features now characteristic of Old World farming - but not
+present at the beginning, nor represented, for instance, in native North
+American farming - was a convenient way of summarising the very different
+character of early Old World cultivation systems. Use of the term 'revo-
+
+
+                                        156
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:26:25 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+         DISCOVERING       THE   SECONDARY        PRODUCTS       COMPLEX
+
+
+lution', however, suggested a stadial, evolutionary model underlying it,
+which it was not part of my intention to convey; and this would be the core
+of my disagreement with Colin Renfrew, for I do not believe that these
+changes could have happened if Europe had remained in complete isolation.
+   Fundamental to my conception of why the SPR did happen, and why its
+successive impacts in mid- and late-fourth-millennium BC Europe were so
+concentrated, was its intimate connection to Gordon Childe's Urban
+Revolution in Mesopotamia. This, as I suggest in the final chapter in this
+volume, is the 'revolution' to which its European impact is due - just as the
+fundamental impact which farming itself had on Europe some three
+millennia earlier was due to the Neolithic Revolution in the same area. It
+was the unique characteristics of that intimate intermixture of the desert, the
+steppe and the sown which made the area between the Mediterranean and
+the Persian Gulf into such a power-house of innovations (Sherratt 1996).
+
+
+
+
+                                        157
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:26:25 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+  Plough and Pastoralism: Aspects of
+  the Secondary Products Revolution
+                                        (1981)
+
+ 1 he contrast between the development of agriculture in the Old and New
+Worlds is an instructive one. In both, the domestication of a cereal crop
+allowed a massive increase in population, first in village communities and
+later in towns and cities. The major difference lay in the role of animal
+domesticates. In the New World there were few counterparts to the range
+of domesticated animals which were an integral part of Old World systems;
+in North America only the turkey, and in South America the guinea-pig
+and the Andean camelids, played a comparable role to the sheep, cattle and
+equids of Eurasia.
+    The first implication of this contrast is the primary role in the 'Neolithic
+Revolution' which was played in both hemispheres by the domestication of
+plants, and especially cereals. Cultivation alone, without the extensive use
+of domestic animals, was able to sustain even complex urban societies. But
+it is not without significance that the next threshold, that of industrial-
+isation, was attained only in the Old World; for the employment of animal-
+power as the first stage in the successive harnessing of increasingly powerful
+sources of energy beyond that of human muscle was only possible where
+these animals were domestic, not wild. The critical differences between the
+
+David Clarke's death in 1976, at the age of 38, was a devastating blow. Ian
+Hodder and I discussed compiling a volume of papers. I wanted to write the best
+paper of which I was capable, and this was it. (Even Glyn Daniel - no admirer
+of New Archaeology - liked it, as I discovered from an unfinished review tucked
+inside his copy, sold after his death.) It builds on comments that David made on
+my Ph.D. thesis, about the fundamental nature of the transition from the Balkan
+Copper Age to the Early Bronze Age, and continued in the comparative (and
+interactionist) way which he encouraged. The paper would not have been possible
+without the pervasive influence of David Clarke. Many of its ideas had their roots
+in his suggestions and remarks. His enthusiasm and criticism were sadly missed in
+writing it.
+
+                                            158
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+        ASPECTS     OF   THE     SECONDARY         PRODUCTS          REVOLUTION
+
+
+utilisation of animals in the Old and New World lay less in their uses as a
+source of meat than in their emergent properties when other applications
+were explored - their 'secondary products'.
+    The distinguishing feature of agrarian development in the Old World,
+therefore, is the interaction between plant and animal domesticates. Of
+major importance in this process is the plough - the first application of
+animal-power to the mechanisation of agriculture. Closely connected with
+this is the use of the cart, with its contribution not only to more intensive
+farming but to the transportation of its products. These two innovations
+resulted from a new application of domesticated cattle. Comparable
+advances in transport resulted from the domestication of the equids and
+their use as draught- and pack-animals. Also, secondary features of domesti-
+cated ovicaprids - notably the development of wool in sheep - allowed a
+new range of uses for these animals in providing fibres suitable for textiles.
+Finally, the regular milking of domesticated animals provided a variety of
+storable products and made possible a continuous flow of food without
+slaughtering the stock.
+    These features were not part of the original complex of plant and animal
+domestication in the Old World. Archaeological evidence for this range of
+secondary uses and products of domesticated animals is naturally very
+varied and of uneven value. Nevertheless, where these features can be dated,
+it is apparent that they only appear five millennia or so after the beginnings
+of agriculture in the Near East, and some three or four millennia after its
+introduction to Europe. There was thus a long primary phase of agricultural
+development before the secondary uses of domesticated animals were dis-
+covered and applied. Moreover, many of these features appeared within a
+similar span of time, some four to five thousand years ago. While they are
+by no means exactly contemporary, their appearance together at approxi-
+mately the halfway point in the development of agriculture in the Old
+World, marking the beginnings of a phase of interaction between the plant
+and animal components and the earliest non-human sources of energy,
+perhaps deserves some explicit recognition: and it is in this spirit that I
+venture to burden an already over-taxed archaeological vocabulary with yet
+another revolution - the Secondary Products Revolution of the Old World.
+    These secondary products had important applications both in the intensi-
+fication of agricultural production and in the sphere of transport, trade and
+personal mobility. The plough increased production and made economic the
+cultivation of a range of poorer-quality soils; it thus resulted in the colon-
+isation of a wider area than had been possible under previous systems of
+cultivation. Both the ox-cart and the horse, as well as the pack-donkey,
+opened up new possibilities for bulk transport and reduced the friction of
+distance. They made economic a range of locations and settlement types,
+including systems with cities, which would otherwise have involved huge
+amounts of effort. The development of textiles made from animal fibres
+
+
+                                            159
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                         PLOUGH        AND     PASTORALISM:
+
+
+
+
+6.1 Clay tablets from Uruk with symbols in pictographic script, including the sign
+for 'cart\ Uruk period, late fourth millennium BC (after Falkenstein 1936).
+
+gave for the first time a commodity which could be produced for exchange
+in areas where arable production was not the optimal form of land use. The
+use of milk made much larger herds economical, making use of exhausted
+and otherwise marginal land and encouraging the development of the
+pastoral sector with transhumance or even nomadism.
+   This bundle of innovations produced two types of society and subsistence
+systems which were unknown in pre-contact aboriginal America: plough-
+using agriculturalists, and pastoralists. The two were frequently in geo-
+graphical proximity and interaction and their relations, both of conflict and
+symbiosis, are a recurring theme in the history of the Old World. Anthro-
+pologists have long recognised (and are increasingly emphasising; Goody
+1976) the importance of plough agriculture as a predictor of social systems
+involving new mechanisms of inheritance as a result of the importance
+which the transmission of land acquires in such economies. Groups with
+a major pastoral component, too, have characteristic social features, such
+as strongly patrilineal descent groups, which are unlikely to have been
+associated with earlier hoe cultivators. The revolution was thus not simply
+a matter of subsistence and economics: it was a threshold of social develop-
+ment as well.
+   It would be surprising if so radical a set of changes were without evident
+traces in the archaeological record. While the secondary utilisation of
+animals can be shown from representations, or occasionally glimpsed
+directly where the evidence is favourably preserved, the striking changes in
+the distribution and character of settlement in Europe in the third millen-
+nium BC are eloquent testimony to a major alteration in the condition of life.
+Coming at a time when settlement in many of the older-settled areas had
+expanded to its limits, and long-term soil deterioration had begun to set in,
+these changes define a 'second generation' of agrarian economies in Europe,
+and the beginnings of a new cycle of expansion in the Bronze Age.
+   The 'secondary products revolution' thus separates two stages in the
+development of Old World agriculture: an initial stage of hoe cultivation,
+whose technology and transportation systems were based upon human
+muscle-power, and in which animals were kept purely for meat; and a
+
+
+                                             160
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+        ASPECTS     OF   THE     SECONDARY          PRODUCTS         REVOLUTION
+
+
+second stage in which both plough agriculture and pastoralism can be recog-
+nised, with a technology using animal sources of energy. The former mode
+of life is now extinct in the temperate and sub-tropical parts of the Old
+World, though it may have important analogies with agriculture or semi-
+agriculture as practised in aboriginal temperate North America. The
+secondary products revolution marked the birth of the kinds of society
+characteristic of modern Eurasia.
+
+
+DATING EVIDENCE
+The use of animal traction
+Although cattle were fully domesticated at least by the sixth millennium BC,
+they were not systematically used as traction animals until the later fourth
+millennium, when a specific technology was developed to make use of this.
+The most important applications were to the plough and the cart. The
+evidence will be reviewed separately here, but it is clear that the two spread
+as a closely related complex.
+
+The cart. Earliest unambiguous indications of the use of the cart (Figure 6.1)
+come from archaic Sumerian pictograms from Uruk in southern Meso-
+potamia (Falkenstein 1936, signs 742-5). These date to the first half of the
+fourth millennium BC. From the succeeding Early Dynastic period there
+is a wealth of evidence from representations and actual cart burials. Clay
+models of vehicles with two or four solid wheels occur at this time over a
+wide area including northern Syria, northern Iraq, eastern Turkey, northern
+Iran and Transcaucasia. Mesopotamian examples are mostly vehicles for use
+in war, but the ones from further north include 'covered wagon' forms well
+suited for use in regions at the junction of steppe and forest (Piggott 1968
+[and now 1983 for the early history of wheeled vehicles in general]).
+   Comparable vehicles are known to have been used at least during the
+third millennium BC on the steppe-lands north of the Caucasus and the
+Black Sea. Several groups of barrows near Elista on the Kalmuk steppe
+between the Caucasus and the Volga have produced evidence of carts. The
+most famous example, Tri Brata, contained both wooden wheels and a
+model of a two-wheeled cart. A somewhat later example from Kudinov on
+the lower Don contained a complete four-wheeled wagon. Similar finds
+occur on the lower Dnepr.
+   In Eastern Europe the most striking evidence is the handled drinking-cup
+in the form of a four-wheeled wagon from Budakalasz near Budapest in
+Hungary, now with another example (Figure 6.2a) from Szigetszentmarton
+(Kalicz 1976). These belong to the Baden culture, as does the cemetery of
+Alsonemedi with its double bovid burial [cow and calf in Alsonemedi graves
+3 and 28, two calves in the comparable grave 3 at Budakalasz - presumably
+
+
+                                            161
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                          PLOUGH       AND     PASTORALISM:
+
+
+
+
+(a)                                                (b)
+
+
+
+
+ (c)   ^ ^   ^       ^ ^ ^                         (d)
+
+6.2 Early evidence of ox-traction in Europe: (a) cup in the form of a wagon from
+a Baden culture grave at Szigetszentmarton, Hungary; (b) handle in the form of
+two yoked oxen, TRB culture Krgznica Jara, Poland; (c) pottery *cart' with two
+protomes, Baden culture, Radosina, Slovakia; (d) pecked scene of oxen drawing a
+cart, from a megalithic cist at Zuschen, Germany; after Kalicz (1976), Nbnejcova-
+Pavukovd (1973) and Uenze (1958).
+to avoid killing valuable draught-oxen] indicative of paired draught (see
+below Korek, Behrens 1964). [It is notable that there are several pedestalled
+cups whose bowl is a wheel-less wagon body (Banner 1956, plate 114 nos
+1-7); and also that the Budakalasz wagon-cup had its own grave (no. 177) -
+a cenotaph without a body.] A somewhat larger vessel in the form of a
+wagon, without wheels but with two animal (ox?) protomes protruding
+from the front, comes from Radosina in Slovakia (Figure 6.2c), from an
+early Baden (Boleraz) context (Nemejcova-Pavukova 1973, fig. 3). Radio-
+carbon dates for this culture indicate a date of 3400-3100 BC. Double ox
+burials appear at the same time in over a dozen examples in the Globular
+Amphora culture in Poland and central Germany (and may be present in
+Middle Neolithic Denmark, though bone is less well preserved). Evidence
+from representations is also available in the form of a pottery handle show-
+ing a pair of yoked oxen from Kr^znica Jara, Lublin (Figure 6.2b), in the
+context of the south-east TRB group, datable to the later fourth millennium
+BC, and also from a stone with a pecked schematic scene (Figure 6.2d) in
+
+                                             162
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+        ASPECTS     OF   THE    SECONDARY          PRODUCTS         REVOLUTION
+
+
+
+
+                    KAA -
+
+                                                         OlQ
+
+
+
+
+6.3 Above: representation of a four-wheeled wagon on a TRB pot from Bronocice
+(Phase III, 3500-3100), Little Poland: Milisauskas and Kruk 1982; middle: motif
+in schematic form on contemporary Polish TRB pots from Inowroclaw-Mqtwy
+and Ostrowiec Swiqtokrzyski (Midgley 1992, figs 13 and 108); below: wagon-
+representation from below the belt of a statue-menhir from Lagunda, Alto Adige,
+Italy (other examples have a plough in the same position): [new drawing].
+a Hesse collective-burial cist at Lohne (Ziischen) with a similar dating
+(Uenze 1958). The scene is a vertical view of pairs of oxen yoked to what
+are probably carts. A similar view of a four-wheeled vehicle has recently
+been found in a TRB context at Bronocice in south-east Poland (Milisauskas
+and Kruk 1978: see Figure 6.3).
+   Finds of actual cart components have been made in Europe only in water-
+logged contexts. Wheels from the Netherlands and Denmark have been
+dated by pollen analysis and radiocarbon dating to the third-millennium BC
+
+                                            163
+
+
+
+
+                              This content downloaded from
+            128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                      All use subject to https://about.jstor.org/terms
+
+                         PLOUGH        AND       PASTORALISM:
+
+
+
+
+                     _mnk            —       ^               -^k
+
+
+
+
+                     ^                                       ^
+6.4 Clay tablets of the fourth millennium BC with symbols in pictographic script,
+including the sign for 'plough3: above, from Uruk, Mesopotamia (Uruk period);
+below, from Susa, Khuzestan (proto-Elamite period). After Falkenstein (1936)
+andScheil (1923).
+Corded-ware period (van der Waals 1964; Rostholm 1977). Two yokes, one
+from Switzerland (Vinelz) and one from Lower Saxony (Petersfehn), may
+also be of third-millennium date (Gandert 1964).
+   Turning east, there are many examples of models showing solid-wheeled
+carts from the Harappan culture of the mid-third millennium BC in north-
+east India. In China, however (as also apparently in Egypt), the wheel only
+arrived in its spoked form in the second millennium. This spread across cen-
+tral Asia was associated with the use of the horse, and is considered below.
+   The evidence thus suggests that wheeled vehicles were first produced in
+the Near East in the fourth millennium BC, and that they rapidly spread
+from there both to Europe and India during the course of the third millen-
+nium, and across the central Asian steppes in the second. The occurrence of
+
+                                             164
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+        ASPECTS     OF   THE    SECONDARY          PRODUCTS          REVOLUTION
+
+
+
+
+6.5 Third- and second-millennium ploughs: left, impression of a cylinder-seal
+showing two-handled plough (ard) with sowing-funnel, Akkadian period, late
+third millennium BC (Ashmolean Museum); right, sole-ards in Cretan hieroglyphic
+script, early second millennium (after Evans).
+model wheels in New World contexts, indicating that the principle was
+known even though wheeled vehicles were not used in transport, shows that
+the availability of draught animals was the critical factor in this technology.
+The plough. Again, earliest indications are in pictograms (Figure 6.4)
+(Falkenstein 1936, sign 214; Scheil 1923, signs 668-77). The basic model
+seems to be the same in both cases, with two stilts (handles) and a composite
+draught-pole. Representations of such ploughs (or, more accurately, ards)
+are plentiful as ritual scenes on cylinder-seals in the Akkadian period around
+2300 BC, both in Mesopotamia and Assyria. These sometimes show a de-
+veloped form with a sowing funnel (Figure 6.5), a device for sowing
+in regular lines which was especially useful with irrigation and generally
+in semi-arid conditions because of the deep implantation of the seed
+(Christiansen-Weniger 1967).
+   The plough, also in a two-handled version, is first evidenced in Egypt in
+the mid-third millennium, in a third-dynasty representation (Hartmann
+1923). The construction of the Egyptian plough owed features of design like
+the rope binding to earlier hoe types.
+   In contrast to these Near Eastern forms, the earliest European ones are
+simpler and have only a single handle (Figures 6.6, 6.7). In the Mediter-
+ranean region it consisted of a flat sole into which were inserted both the stilt
+and the draught-pole. Further north, the even simpler design of the crook-
+shaft was used - a branch with a recurving projection, carved from the trunk
+itself, into which was set the stilt. As in Egypt, this resembled local hoe
+types, and was indeed the basic form of hafting in use at the time.
+   Ploughs of the sole-ard type are demonstrated from Early Bronze Age
+Cyprus from small terracotta models [e.g. Vounous: Karageorghis 1982, fig.
+29], and the signs of the Cretan pictographic and Linear A scripts (Figure
+6.5; Evans 1909) make it clear that this design was also in use there in the
+Bronze Age. It is not known what form was in use in Anatolia, but it was
+probably also a one-handled type. The crook-ard is known to have been in
+
+                                            165
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                         PLOUGH       AND     PASTORALISM:
+
+
+
+
+6.6 Finds of ards of crook-ard type from northern Europe and the Ukraine:
+(a) Walle, Germany; (b) Wieu/ioki, Poland; (c) Polessje, Ukraine; (d) Tokari,
+Ukraine; (e) Hvorslev; Denmark; ( f ) Sergeiev, Ukraine; (g) Vebbestrup, Denmark.
+After Glob (1951) and Sramko (1971).
+use in the second millennium north of the Black Sea in the area around Kiev,
+as shown by finds from Polessje, Tokari and Sergeiev, the first radiocarbon
+dated to the early second millennium BC (Sramko 1971). There is no reason
+to suppose that it was not in contemporary use in the better-watered parts
+of the true steppes further south.
+   The use of the plough in the later third millennium in Harappan India has
+recently been demonstrated by finds of plough-marks at Kalibangan in the
+Punjab (Steensberg 1971). Its arrival in China, however, seems even later
+
+                                            166
+
+
+
+
+                              This content downloaded from
+            128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                      All use subject to https://about.jstor.org/terms
+
+                 ASPECTS              OF        THE    SECONDARY       PRODUCTS     REVOLUTION
+
+
+
+
+                                                                             £ vnmnce ft he pimjgh
+                                                                             and
+                                                                              s 4
+                                                                                  yoked tract**?*
+                                                                             <*l               H''*.**^
+
+
+
+
+             v-
+
+                     '                     it
+
+                   i; • n           --
+                             0 " Oiw *
+                      Ililll
+                                                                   , - \\v
+                    • P IIS
+                    MBl \\ *
+                              /
+                            trill!!
+                                                      •J.'-::-
+                                           ""'v..       '   £-"7
+                                                                                        111!
+
+6.7 Nlap of plough-marks and of ard finds and representations, showing the
+division between two-handled Near Eastern forms and European sole- and crook-
+ards [cf. Fig. 0.5].
+than that of wheeled vehicles, and occurred only in the first millennium BC.
+   In southern Europe, finds of ploughs and plough-like objects are known
+from second- and third-millennia circum-Alpine lakeside-village sites such
+Early p l o u g h - m a r k s
+l^frt Furrows
+r 1 Megalithic blocks
+      Disturbance
+ 0   Scalefor(a),(b),(c)   5 metres
+
+
+
+
+6.8 Plough-marks preserved under north European long-barrows: (a) Avebury;
+England; (b) Fuglebaeksbanken, Denmark; (c) Sarnowo, Poland; (d) Lundehoj,
+Denmark. After Evans (1967), Ebbesen and Brinch-Peterson (1973), 0rsnes
+(1956) and Dqbrowski (1971).
+
+                                                                 167
+
+
+
+
+                                             This content downloaded from
+                           128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                                     All use subject to https://about.jstor.org/terms
+
+                         PLOUGH       AND      PASTORALISM:
+
+
+
+
+6.9 Summary of evidence on the date of early ox-traction in Europe (scale in
+hundreds of dendro-calibrated C14 years).
+as the Lago di Ledro near Trento and Seeberg-Burgaschisee Sud near Berne.
+The former yielded a crook-ard, the latter a rather similar 'hand-ard' or
+Furchenstock (Battaglia 1943; Miiller-Beck 1965). The most extensive series
+of early plough finds, however, comes from the North European Plain (Glob
+1951). Four crook-ards are known from Jutland, of which two are dated
+to the second millennium. Another, three metres in length, came from Walle
+in East Friesland, Germany. Two more examples are known from the bend
+of the Vistula in Poland.
+   These finds of actual ploughs do not date the introduction of the im-
+plement. It has long been known that traces of criss-cross plough-marks are
+preserved under third-millennium round-barrows in north-west Europe; but
+
+                                           168
+
+
+
+
+                              This content downloaded from
+            128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                      All use subject to https://about.jstor.org/terms
+
+        ASPECTS     OF   THE    SECONDARY          PRODUCTS          REVOLUTION
+
+
+               North-central       Carpathian          Western
+B.C.             Europe              Basin             steppes
+
+4OOO           Roessen             Tiszapolgar         Tripole BII
+
+
+
+                Early TRB           Bodrogkeresztur Tripole CI
+35OO
+
+
+                Middle              Baden              Tripole CI I      <= Plough
+                Neolithic                               (Usatovo)          Cart
+                                                                           (Milk?)
+3OOO
+
+                Corded-ware/        Vucedol             Pit-graves       <= Wool
+                 Beaker                                                    Horse
+                                                                           Tumuli
+                                                                           Alloying
+2500            Early               Nagyrev             Catacomb-
+                 Unetice                                 graves
+
+
+
+2000            Late Unetice        Otomani            Timber-graves     <=• Chariot
+
+
+Table 6.1 The earliest cultural contexts of features of the secondary products
+complex in Europe.
+now six examples preserved under late fourth-millennium long-barrows
+are known, from Britain to Poland (Figure 6.8). At Sarnowo in Kujavia
+a trapezoid barrow of the Wiorek phase of TRB overlay parallel plough-
+furrows. A radiocarbon date for a pit beneath the barrow gave a terminus
+post quern in the fifth millennium BC (Bakker et al. 1969, 7; Wislanski 1970)
+and a more direct date is suggested from a nearby Wiorek site at Zar^bowo
+dated to 3400 BC (2674 ± 40 b.c.). In Denmark four examples are known,
+dating to the Middle Neolithic, around 3400-3200 BC. They are Lundehoj
+on Mon (MN II-IV: 0rsnes 1956), Fuglebaeksbanken on Stevns in west
+Zealand (MN lb: Ebbesen and Petersen 1973), Himmelev 53 in central
+Zealand (MN lb) and Steneng in south Jutland (Skaarup 1975, note 239).
+Finally, in southern England a long-barrow at Avebury, Wiltshire covered an
+area of plough-marks some fifteen metres square. It was radiocarbon dated
+by material from underneath and within it to 3500-3200 BC (Fowler and
+Evans 1967). The coincidence of these dates is remarkable.
+   There is also a striking similarity between the dates for the appearance of
+the plough and the cart, and when the evidence is plotted in conjunction
+(Figure 6.9) it forms a consistent pattern. The plough and cart seem to have
+been developed somewhere in northern Mesopotamia by the early fourth
+millennium BC, and to have spread in not much more than 500 years as
+far as north-west Europe (Table 6.1), where it arrived around 3500 BC.
+
+                                            169
+
+
+
+
+                              This content downloaded from
+            128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                      All use subject to https://about.jstor.org/terms
+
+                         PLOUGH        AND     PASTORALISM:
+
+
+Assuming a similar rate of spread to other parts of Europe, it would have
+reached the Aegean by around 3400 BC, and Iberia by 3200 BC.
+   This horizon has long been recognised as marking a major change in
+culture and settlement patterns. It marks the beginning of the Early Bronze
+Age in Transcaucasia, Anatolia, the Aegean and the Balkans; the Tripole-
+Usatovo transition in the Ukraine; the Baden culture in central Europe;
+the Middle Neolithic (Passage-grave) period in north-west Europe, and the
+Chalcolithic of south-west Europe. There is thus reason to believe that the
+introduction of this traction complex, and perhaps other features, was of
+major importance in European culture-history; and that its spread to other
+areas may have been equally significant.
+
+Animals for riding and transport
+The fourth millennium also saw the domestication of four or five species of
+animals which, although hunted in earlier periods, had not been economical
+to domesticate. These, however, were animals which could be ridden, or
+used as pack- or draught-animals, and included equids and camels. Their
+suitability as transport animals helps to explain their independent but near-
+contemporary domestication from Egypt and Arabia to the Ukraine and
+Turkmenia.
+
+The equids. The genus Equus entered the Old World in the Late Pliocene,
+and the modern distribution of species is the result of geographical
+speciation during the Pleistocene. This produced four main groups within
+the desert-steppe belt: zebras in sub-Saharan Africa, asses in north Africa,
+half asses (hemiones) or onagers in the Near East, and true horses in
+Eurasia.
+   The horse (Equus caballus) was widespread in the steppe-tundras of the
+last glaciation, and survived in small numbers in forested areas in the
+Holocene; but its main habitat was the steppe belt from the Ukraine to
+Mongolia. The contexts of the earliest horse domestication were the
+sedentary cattle-keeping but non-agricultural communities of the middle
+Dnepr, neighbours of agricultural Tripole groups in the parallel river valleys
+further west in the late fifth and fourth millennia BC. These sites of the
+Sredni Stog group of the Dnepr-Donets culture contain Tripole B imports.
+At one of these, Dereivka, south of Kiev, a large number of bones of a small
+variety of horse have been recovered, and dated by radiocarbon to around
+4400 BC (Telegin 1971). These have been widely accepted as indicative of an
+early stage of domestication, and features of material culture interpreted as
+riding equipment. The keeping of horses spread from this area only in the
+mid-fourth millennium, at around the time when the traction complex was
+becoming widespread. The percentage of horses in Tripole C assemblages
+shows a leap from 5 per cent to 15 per cent over the previous period (Figure
+6.10), at the same time that sheep became more common than cattle both
+
+                                            170
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+        ASPECTS     OF    THE    SECONDARY          PRODUCTS         REVOLUTION
+
+
+             Tripole
+
+
+
+
+             0                      10                     20                  30
+                                                                 % min. ind.
+
+6.10 Percentages of horse (minimum numbers of individuals) in faunal assem-
+blages of the three phases of the Tripole culture (data from Murray 1970). [In fact,
+the increase probably reflects Tripole expansion into the steppes, and thus mostly
+hunted animals - not the spread of domesticated horses.]
+among Tripole groups and the successors of the Sredni Stog group. This
+coincided with a widespread colonisation of the true steppe area in the
+interfluves between the major river valleys, and formed part of the radical
+economic changes behind the emergence of the Pit-Grave culture in this
+area.
+   Horses spread more slowly into forested Europe than did the traction
+complex, but became widespread in the later third millennium. They are
+evidenced in large numbers on the Island of Csepel below Budapest in the
+Beaker period, when they also seem to have reached Ireland (Nobis 1971;
+van Wijngaarden-Bakker 1975). At the same time they spread down into the
+Near East through the Caucasus and eastern Anatolia, down to the Levant
+and Mesopotamia. Riders on horseback are shown on terracotta plaques of
+the Old Babylonian period, and though difficult to distinguish from the
+native onagers, horses are well documented by the later third millennium,
+though the expense of keeping them in a sub-tropical environment restricted
+their ownership.
+   The onager (Equus hemionus) was a widely hunted species in the Near
+East during the early Neolithic. Lightly built and fast-moving, it is not easy
+to domesticate and is often shown muzzled in Mesopotamian represen-
+tations. It was probably first used in the steppes of Assyria or Khuzestan in
+the later fourth millennium BC, before the spread of the horse, and is most
+probably the equid shown on proto-Elamite tablets (Scheil 1923). In Early
+Dynastic times during the third millennium they (or their hybrids) were
+applied as draught animals to the solid-wheeled battle-cars with two or four
+wheels of the kind shown in the Agrab model or on the Standard of Ur. They
+were harnessed in the same way as cattle, and controlled by means of a nose
+ring: but it took four animals to pull even the two-wheeled cars. Terracotta
+
+
+                                             171
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                         PLOUGH        AND     PASTORALISM:
+
+
+
+
+6.11 Pottery model of donkey with panniers, broken from the rim of a vessel.
+From Cyprus, EB III (late third millennium BC); (Ashmolean Museum).
+plaques show that equids were ridden at least by the later third millennium.
+   The southwards spread of the horse displaced the onager from most of its
+uses, including that of traction animal. The vehicles with which it was used,
+however, underwent a more rapid development to make them more suitable
+for equids. This probably took place in northern Mesopotamia, Anatolia
+and northern Iran: an early stage is shown by the use of the cross-bar wheel
+with a central splat and two struts on a seal from Tepe Hissar, and true
+spoked wheels are known from Cappadocia from the end of the third
+millennium (Moorey 1968). In Mesopotamia in the early second millen-
+nium, traction equids were still controlled by a nose ring: but on the
+Eurasian steppes the new light vehicles were joined to more sophisticated
+traditions of horsemanship using the bit. Horse bits and spoked wheels are
+together evidenced in eastern Europe shortly after 2000 BC in sites of the
+Mad'arovce and Otomani cultures, where bone cheek-pieces and clay
+models of four-spoke wheels have been found in Hungary, Slovakia and
+Moravia (Tihelka 1954; Bona 1960; Vizdal 1972). The spoke-wheeled cart
+spread equally rapidly eastwards across the steppes, and it is represented in
+a drawing on a pot of the Timber-Grave culture, and on rock engravings in
+Kirgizia and Kazakhstan (Cherednichenko 1976). It was probably by this
+route that spoke-wheeled vehicles reached China.
+   The third equid to be domesticated at this time was the ass or donkey
+(Equus asinus). Its natural distribution is from Algeria to Sinai and possibly
+
+                                             172
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+        ASPECTS     OF   THE SECONDALT Y PRODUCTS                    REVOLUTION
+
+
+into the Levant. The advantage of the species is its docility and low dietary
+needs, making it a most economical animal especially in the Near East and
+Mediterranean. It thus provided a natural complement to the horse in this
+region. It was known as a domesticated animal for pack use in the EBA of
+Palestine around 3000 BC and in Egypt from the early third millennium BC
+onwards. It was used in Cyprus in the later third millennium as a pack
+animal, as shown in EB III figurines (Figure 6.11). Especially when crossed
+with the horse to produce the mule, the vigorous but infertile inter-specific
+hybrid, it was perhaps the most important form of bulk, long-distance
+transport, and must have formed the basis for the expanding overland trade
+networks of the later third and second millennia, such as the well-
+documented route linking Assur with the karum of Kanis. In this role, it was
+of even greater economic importance than the horse itself.
+
+The camels. Like the equids, camels also spread through the Old World
+in the Pleistocene, though they did not penetrate so far or split into geo-
+graphical species to the same extent. While all belong to the species Camelus
+dromedarius, they fall into two regional populations which were probably
+independently domesticated. The more primitive woolly, two-humped or
+'Bactrian' camel is adapted to the cooler steppe and mountain fringe of
+Eurasia, and the more advanced, single-humped dromedary or 'Arabian'
+camel to the more arid areas of Arabia and north Africa. The advantage of
+the camel as a transport animal is that it can carry twice as much as a
+donkey, faster, for less frequent feeding and watering (Bulliet 1975).
+   The one-hump camel was probably domesticated from at least the early
+third millennium, and is possibly shown loaded on a pot from the cemetery
+of Abusir-el-Melek in lower Egypt; while the two-humped form is shown on
+a contemporary bronze pick from Khurab in southern Iran (Zeuner 1963).
+The two-hump form seems to have been part of the traction complex, being
+controlled by a nose ring and shown pulling vehicles in central Asia, for
+instance on third-millennium cart models with solid wheels and a camel's
+head from Turkmenia, or on rock drawings showing camels pulling spoke-
+wheeled carts from the region of Minusinsk (Bulliet 1975, 153,185; Figure
+7.6). Camel bones are known from the Andronovo and Timber-Grave
+cultures, and camel-hair was claimed at Maikop. The one-hump form,
+traditionally controlled by a noseband, became more common in the first
+millennium as Arab groups opened up the desert trade routes.
+   With the equids and the camels, five independent but parallel episodes of
+domestication took place during the fourth millennium, partly in direct
+association with the traction complex, and partly in adjoining parts of the
+semi-arid zone. Asses and camels in north Africa, onagers in the Near East
+itself, and horses and camels in the Eurasian steppe and semi-desert zone, all
+contributed to a more general transportation complex able to deal with a
+wide range of conditions. Within this area, individual animals spread and
+
+                                            173
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                         PLOUGH        AND     PASTORALISM:
+
+
+replaced or complemented the others, as well as expanding beyond this
+nuclear area into many parts of the Old World. Together they produced a
+revolutionary increase in transport potential.
+
+Milk and wool
+Milk. Basic to the economics of keeping animals for exploitation in the ways
+discussed earlier in this article is the use of milk. If animals are being used
+for purposes other than meat, they are too valuable a resource to slaughter
+simply when required for food. While surplus males may be eaten, larger
+numbers of females are needed for breeding stock. To carry the numbers of
+beasts required for a working population and a breeding population, some
+continuously usable food-product is really necessary - milk or in some cases
+blood.
+   Milk has several advantages. From a dietary point of view, it supplies the
+amino-acid lysine which is missing in cereal-based food. It contains fat,
+protein and sugar in a balanced form, and is a useful source of calcium.
+Being liquid, it is easily handled, and can be converted into a variety of
+storable products. These qualities, together with its almost universal associ-
+ation with domesticated livestock at the present time, have led many writers
+to assume that milking was practised from the earliest Neolithic onwards.
+   But the matter is not so simple. In the first place, animals which are not
+specially bred for the purpose do not produce large quantities of surplus
+milk; and moreover may not readily surrender it to the herdsman. Nor are
+human populations physiologically well adapted to use, as adults, the
+specific form of sugar which milk contains. Indeed, most adults suffer an
+unpleasant, even dangerous, reaction to drinking milk - 'a bloated feeling,
+flatulence, belching, cramps and a watery, explosive diarrhoea' (Kretchmer
+1972, 72). Realisation that Euroamerican populations are unusual in their
+tolerance to milk as adults has come only recently. Tests with American
+negroes first showed that the adult ability to digest milk is not present in
+mankind as a whole (Bayless and Rosenzweig 1966), and tests of popu-
+lations around the world showed how restricted that ability is (McCracken
+1971). This realisation made sense of the evidence being assembled on the
+distribution of the milking habit itself (Simoons 1969; 1970). It was so long
+in being recognised because of the concentration of research and medical
+skills among the populations most tolerant of milk - European and
+American whites. In the present context, it is of fundamental importance.
+    Milk has three components: fat, protein, and milk-sugar, known as
+lactose. This last is a disaccharide, composed of glucose and galactose, and
+is synthesised only in the mammary gland. It is broken down in the small
+intestine by the enzyme lactase, which splits the disaccharide into glucose -
+which is used directly - and galactose, which is metabolised by the liver.
+In the absence of lactase, the lactose remains undigested and is fermented
+by the bacteria of the colon. It is this which causes the explosive diarrhoea.
+
+                                             174
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+        ASPECTS     OF   THE SECONDALT Y PRODUCTS                    REVOLUTION
+
+
+The cause of lactose intolerance is thus lactase deficiency (Kretchmer 1972).
+   In all mammals except human lactose-tolerant populations, the pro-
+duction of lactase is at a maximum shortly after birth and ceases after
+infancy - in man, from two to four years of age. This represents the normal
+situation, and fits the pattern of other temporarily produced enzymes.
+Lactase production is not stimulated to any extent by the continued in-
+gestion of lactose. Lactose-tolerance is transmitted genetically, and indeed is
+a dominant trait, although incompletely so. American black populations are
+approximately 70 per cent intolerant in comparison with ancestral West
+African populations, who at the present time are 98 per cent intolerant.
+Lactose-intolerance is particularly high among Chinese, Thais, agricultural
+West Africans (though not nomadic groups like the Fulani), South Ameri-
+cans and New Guineans, of those tested. In short, lactose-tolerance is the
+result of a relatively recent evolutionary episode, and adult milk-drinking a
+late and restricted feature of human diet (Kretchmer 1972; Simoons 1969).
+   The elaborate preparation of milk products may have been necessary
+because of a limited tolerance of lactose. Fermented products such as yogurt
+and cheese have a lower lactose content than fresh milk (McCracken 1971),
+and it is a general pattern in the Mediterranean that most of the milk is pro-
+cessed in this way. Low levels of tolerance are common today in Greece and
+south Italy, and such processing is analogous to the preparation of bitter
+manioc for consumption in South America.
+   The well-known Chinese aversion to milk, often cited as an example of
+an irrational food preference, is part of a more widespread phenomenon
+with a basic biological explanation. The geographical distribution of the
+practice of milking (Simoons 1970, 702) shows a continuous area from
+Morocco to eastern India (with non-milking enclaves there suggesting a
+recent expansion of the practice), extending southwards in east Africa but
+not penetrating into south-east Asia and Oceania. It comprises those areas
+connected via the steppe corridor and the Sahara, the arid belt across Africa
+and Eurasia. In the centre of this area are the mountains of the Near East
+and surrounding steppes. The distribution suggests a mid-Holocene origin
+for the practice, somewhere in this central area, and it seems likely that
+milking and milk-consumption form another aspect of the complex of
+secondary uses and products which has been outlined above; indeed, it was
+probably a precondition for these developments.
+   The limited tolerance of human populations to milk is only one side of
+the problem: the reluctance or inability of the cow to provide it is the other.
+For a modern perspective on this we may turn to the pastoral groups studied
+by ethnographers (Cranstone 1969). These illustrate the difficulties faced
+by people who do not have the highly bred milch animals of north-west
+Europe. The problem is to allow the animals to accumulate their milk, and
+to persuade them to let it down to a human milker. Cows are often separated
+from their calves during the day, to prevent their taking milk. However, they
+
+                                            175
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                         PLOUGH        AND     PASTORALISM:
+
+
+
+
+6.12 Cylinder-seal and drawing of its impression, showing reed-built byres with
+calves and milk-jugs, with a frieze of adult animals above. The seal itself is
+surmounted by a silver ram. From Iraq, Uruk period (late fourth millennium BC);
+(Ashmolean Museum).
+
+                                            176
+
+
+
+
+                              This content downloaded from
+            128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                      All use subject to https://about.jstor.org/terms
+
+        ASPECTS     OF   THE    SECONDALT Y P R O D U C T S          REVOLUTION
+
+
+
+
+6.13 Inlaid scene of milking, forming part of the frieze of the temple to Nin-
+Hursag built by A-an-ni-pa-da at El 'Ubeid, Iraq. Early Dynastic (mid-third
+millennium BC); (by permission of the Trustees of the British Museum).
+
+or some surrogate need to be present at the milking, to stimulate lactation
+and to activate the milk ejection reflex (Amoroso and Jewell 1963). The
+action of letting down the milk is a true reflex, involving the release by the
+pituitary gland of the hormone oxytocin which stimulates contraction of the
+muscles which press on the milk storage sacs. This reflex may be activated
+by stimulation either of the teat and mammary gland, or (because of the role
+of oxytocin in initiating uterine contractions) the vagina and cervix. It is
+thus a common custom among present and ancient pastoralists to blow,
+often using a special tube, into the rectum or vagina of the animal during
+milking. The milker is thus positioned behind the animal, rather than at the
+side as is otherwise more convenient. Instruments for this purpose have been
+identified archaeologically, for instance in the Baden culture (Banner 1956)
+and in south Russia (Galkin 1975).
+   These features were once widespread, not only among specialised
+pastoralists but in all the groups which practised milking. Uruk period seals
+show the adult cattle returning to huts where the young have been stalled
+during the day (Figure 6.12). From the Early Dynastic III period comes the
+famous relief from the temple of Nin-Hursag at El Ubeid, built by A-an-ni-
+pad-da, second king of the first dynasty of Ur. This shows in great detail the
+actual milking - from the back, with the aid of an insufflator - and the
+processing of the milk (Figure 6.13). The small udders on these early cows
+suggest that they were not highly bred for milk, and such stimulation would
+be essential. The milking position behind the animal is also shown in an
+Early Dynastic inlay from Kish; and it was still in use in Minoan times,
+as shown by a sealing (Figure 6.14) from the Archives Deposit at Knossos
+(Evans 1935). Goats are also shown being milked on Early Dynastic
+cylinder-seals. In Egypt a hobbled cow is shown being milked in the presence
+of a calf in the tomb of Ti in the Old Kingdom (Klebs 1915, 63). Milking is
+apparently shown on some central Saharan rock drawings from Tassili and
+the Fezzan, but their date is difficult to determine and there is no evidence that
+they are earlier than the third millennium BC (Simoons 1971; Clark 1976).
+   The biochemical and iconographic evidence thus suggests that although
+milking was known by the time of the first representations in early urban
+
+                                            177
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                          PLOUGH       AND       PASTORALISM:
+
+
+
+
+                                        \
+                                            \
+
+
+
+
+                                                                    i^MMlHlfl
+                                            /
+                                        /
+
+
+
+                                                        ill
+
+6.14 Early milking: left, sealing from Knossos, Crete, Late Bronze Age (later
+second millennium), showing milking from behind (Evans 1935(4), fig. 534);
+right, shell inlay from Kish, Iraq, ED III (mid-second millennium) (Ashmolean
+Museum).
+
+contexts in the Near East, it was not of much greater antiquity. Is there any
+other evidence which would date the adoption and spread of the practice?
+One suggestion comes from pottery. It has long been noted that the Bronze
+Age sees a radical change in the kinds of vessels which constitute typical
+assemblages. Specifically, the open bowls which dominated Neolithic assem-
+blages were supplemented by a range of drinking and pouring vessels, and
+a variety of pails (Figure 6.15). In the Mediterranean, the jugs and cups have
+been attributed to the discovery of wine (Renfrew 1971, 282), and this may
+be the case, but the changes affect a much wider area than that feature could
+explain. They clearly reflect some dietary innovation occurring in southern,
+central and northern Europe within a similar time range. Some types of
+Bronze Age pottery, like the Appenine 'milk boilers' or the Cypriot 'milk
+bowls' have already been characterised as being for such use. It seems likely
+that the widespread adoption of shapes appropriate for the manipulation of
+liquids is connected with the spread of the milking habit and the use of milk
+products. This would explain the often uncanny resemblances between
+distant areas, which have usually been used to argue for major migrations.
+The massive array of parallels assembled by Kalicz between the Baden
+culture and Anatolian Early Bronze Age cultures, for instance, finds an
+acceptable explanation here [though see Chapters 8, 15 and 16]. Parallels
+between EBA Bulgaria and Cyprus become comprehensible. The universal
+appearance of strapwork-ornamented bucket-shaped pots, from one end of
+Europe to the other, becomes less surprising; while the Fischbuttengefass
+which appears in central Europe with the Baden culture has long been
+explained in Ghassulian contexts in Palestine as a churn.
+   Such lactic products, if such they were, probably had initially some ritual
+and social significance, especially if they included the intoxicating products
+of fermentation such as kumish. Precisely such an association is demon-
+strated in the Baden culture cemeteries of Hungary, where the two cart
+
+
+                                                178
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+       ASPECTS      OF THE SECONDALT Y PRODUCTS                     REVOLUTION
+
+    CENTRAL EUROPE                        BALKANS                        CYPRUS
+
+
+
+
+     N-W. EUROPE                         BALKANS                          T
+                                                                          IAL
+                                                                            Y
+
+
+
+
+6.15 Pottery forms concerned with the manipulation of liquids and associated
+with the spread of the secondary products complex. [The lower ones may be for
+milk-processing, the upper ones - many with metal models - more probably for
+alcoholic drinks.]
+
+
+
+                                            179
+
+
+
+
+                              This content downloaded from
+            128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                      All use subject to https://about.jstor.org/terms
+
+                         PLOUGH        AND     PASTORALISM:
+
+
+burials at Alsonemedi were accompanied by identical assemblages consist-
+ing of a finely made pottery jug, cup, dipper and bipartite bowl. From the
+grave which produced the Szigetszentmarton cart model (Figure 6.2a) came
+a precisely similar combination; and that model was itself a cup! The asso-
+ciation of drinking and driving evidently began at an early stage in their
+history. These coincidences strengthen the view that we are dealing with
+an interdependent complex of features, which spread to a large extent in
+association.
+
+Wool. The textile-fibre which became most important in the Old World,
+wool, was not present in the first four to five millennia after the initial
+domestication of the sheep. Vegetable fibres formed the basis of the earliest
+textiles, as in the New World, where cotton (Gossypium) fibre was de-
+veloped by agricultural groups to supplement the older tradition of skin and
+leather clothing. Flax (Linum usitatissimum) was the most common Old
+World vegetable fibre, and already woven into elaborately patterned linen
+textiles before the emergence of wool. This persisted in some hot countries
+even after wool became common elsewhere: Egyptian Old Kingdom sheep
+were commonly of non-woolly types. Wool sheep were not introduced into
+Egypt until the Middle Kingdom.
+   The date at which wool sheep developed is being made more precise by
+microscopic examination of prehistoric fibres (Ryder 1969). These have
+already suggested that claims of an early date for woollen fibres (as at Qatal
+Hiiyiik) are mistaken. As with milking and paired-draught traction, the
+earliest evidence comes with the beginning of a literary and pictorial record
+during urbanisation in Mesopotamia. While such evidence gives only a
+terminus ante quern, the replacement of linen by woollen textiles can be
+traced in some detail from waterlogged contexts in Europe, and these show
+that the transition had not occurred there before the mid-third millennium
+BC. It seems most likely, therefore, that it had developed not long before the
+first indications in the Near East. Examination of further samples will make
+this more precise.
+    The wild sheep has a brown, hairy coat with short, woolly underhair.
+It was the development of underhair at the expense of the coarser outer hairs
+or kemps which produced the wool sheep. This was probably deliberately
+selected, in cold environments where the tendency was already present in
+wild populations. Lighter colours of fleece were also sought, though early
+sheep were probably more pigmented than today's breeds.
+    By the time of the Uruk pictographs (Falkenstein 1936) there were over
+thirty signs representing sheep. Pictorial evidence from the Proto-literate
+period indicates that both hairy and woolly sheep were known, as well as
+the fat-tailed breed. Sheep which are shown as being milked belong to the
+spiral-horned variant of the wool sheep (Zeuner 1963, 173; Amoroso and
+Jewell 1963). Early Dynastic sculptures and cylinder-seals not infrequently
+
+                                             180
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+        ASPECTS    OF   THE SECONDALT Y P R O D U C T S             REVOLUTION
+
+
+show woolly sheep alongside hairy ones, while Old Babylonian shearing
+lists indicate the organisation of wool collection (Kraus 1966, 47) and the
+importance of the spring shearing in the agricultural calendar. The wool
+would at this stage have been plucked, as it was naturally moulted, and
+somewhat finer wool obtained as many of the coarser hairs were left behind.
+    Marked changes in the exploitation of sheep appear in Europe in the
+third millennium. In Hungary, sheep increase as a percentage of bones on
+sites to 40 per cent or more, in comparison to figures of around 10 per cent
+in the preceding period (Bokonyi 1974, figs 1 and 2). A similar change
+occurs in the Early Bronze Age in the Alpine region and in Greece (Halstead
+1981). In addition, the withers height increases dramatically, and there are
+higher percentages of mature and old animals. Horns also increase in size,
+though individuals without horns are common. These Bronze Age sheep
+must have resembled the still-surviving Soay breed.
+    These changes become comprehensible when attention is paid to the
+textiles preserved in the Swiss lake villages (Vogt 1937). Of the fourth- and
+early-third-millennium examples, all are linen, with leather being used for
+garments requiring greater robustness. Wool appears in the late third
+millennium. The proliferation of Early Bronze Age pin types represents the
+adoption of fastenings suitable to the loose woollen weaves which were
+introduced in this period, replacing the buttoned leather clothing of the
+Neolithic. The extensively preserved Bronze Age costumes from Danish
+coffin burials (Hald 1950) indicate the types of garment produced.
+    One factor which favoured the expansion of textile production was the
+change to a predominant male role in agriculture, leaving the women free to
+spin and weave (see below). As medieval economic historians have long
+been aware, woollen commodities are among the most basic items of inter-
+regional trade, and are usually the first manufactured goods to be traded on
+a large scale. Exports in developing areas shift from basic subsistence items
+like grain to manufactured products. This process can be observed in Meso-
+potamia during the course of the third millennium, and the development of
+such trade may have had an important role in extending the urban network.
+The role which wool and textiles played in the economies of the second
+millennium is clear from the textual evidence, both in Mesopotamia,
+Anatolia, and in Crete (Killen 1964).
+
+The economics of secondary products            exploitation
+When animals are raised purely for meat, it is economic to slaughter them
+while they are relatively young. For instance, the same amount of fodder
+(33,000kg of hay-equivalent) would raise seven calves to two years as would
+be needed to take three of them to three and a half years; and the former
+strategy yields 40 per cent more meat (Lotka 1956,120). The increase in live
+weight for the first two years is roughly proportional to the amount of feed
+consumed, but after that age the live weight increases more slowly while the
+
+                                            181
+
+
+
+
+                              This content downloaded from
+            128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                      All use subject to https://about.jstor.org/terms
+
+                         PLOUGH        AND    PASTORALISM:
+
+
+feed consumption stays consent (ibid., 133). It is th         ~e advantageous
+to crop the population at this point (or even earlier, whe„ aiere are seasonal
+fodder shortages), leaving only breeding stock, mostly females. Even the
+breeding stock, however, would not be kept beyond the age of reproduction.
+   Milking is a highly efficient mode of exploitation, giving four or five times
+the amount of protein and energy from the same amount of feed as would
+exploitation for meat. The use of cattle for beef recovers about 3.5 per cent
+of the energy which they have consumed in feed: with modern breeds the use
+for milk recovers 18 per cent (ibid., 136). Vitamins and salts (like calcium
+compounds) which are present only in small quantities in muscular tissue
+are abundant in milk. The kill-off strategy must be thus adjusted to
+maximise the number of lactating animals, by increasing the proportion of
+mature females. Male animals may either be mostly slaughtered very early
+(even at birth in a documented example from medieval Ireland: Amoroso
+and Jewell 1963, 135), or else kept for a longer period as an insured meat
+supply in extreme environments. Thus the Karimojong of Uganda, although
+dependent largely on milk (Dyson-Hudson and Dyson-Hudson 1969), may
+have only 12 per cent of lactating animals in their herds because of the high
+proportion of males (40 per cent), the long maturation period for cattle
+(three and a half to four years), the long period between calves (fourteen
+months), and the short lactation period (eight months or less). Female
+animals kept for milk are usually retained for long periods: an Estonian herd
+recorded in 1651 had half its cows over seven years and a third over ten
+years old (Slicher van Bath 1963, 287).
+   Animals used for traction are usually castrated males which at the age
+of three to four years are almost fully-grown, and have been trained as
+draught-animals since the age of two or three. The numbers of animals
+which must be maintained depends on the total amount of work during the
+year, and the extent to which it has to be done simultaneously. In India
+(especially the Central region), a short wet-season makes it imperative that
+each peasant should have a pair of bullocks to get his cultivation completed
+in time, since it must be done at once when the rains come (Clark and
+Haswell 1964, 55): this need underlies the maintenance of large numbers of
+scavenging cows as breeding stock, even though their milk yields are poor
+(Harris 1966). In medieval Europe there was increasing pressure on working
+livestock because of the expanding arable, even though plough teams were
+shared by the community (Warriner 1939).
+   The interpretation of kill-off patterns in a prehistoric European cattle
+population has been considered by Higham and Message for the TRB Middle
+Neolithic settlement of Troldebjerg in Langeland, Denmark (1969). On the
+basis of metacarpals, radii and mandibles, they reconstructed a pattern with
+low mortality in animals of both sexes up to two or three years of age,
+differential slaughter of castrated males from that age up to four years, with
+about a sixth of all animals surviving beyond that point. This argues against
+
+
+                                             182
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+        ASPECTS     OF   THE SECONDALT Y PRODUCTS                   REVOLUTION
+
+
+a pure meat economy, but does not suggest very highly developed ex-
+ploitation of secondary products. It suggests small numbers of milch cows,
+and the possibility of a few traction-animals. The pattern conforms to
+Boessneck's observations (1956, 34) from Bavarian Neolithic settlements,
+that half the animals slaughtered were young to subadult. The handful of
+systematic investigations which have so far been made on this material,
+however, needs to be multiplied many times before comparative patterns can
+be defined. [Recent publications (Davis 1987; 1993; Benecke 1994a; 1994b)
+have continued to refine the picture presented here.]
+    For sheep, Payne (1973) has reported early results from his continuing
+investigation into comparative patterns of mortality. He has suggested
+model life-tables for different types of exploitation (ibid., figs 1-3). For
+meat, similar considerations apply as to cattle: the optimum period for
+cropping surplus stock is between one and a half and two and a half years,
+with males preferentially slaughtered at this point. Milk production makes
+it advantageous to keep at least half of the female animals beyond five years,
+and some even up to ten. With wool production, males become equally
+valuable at these ages also, so that there is a roughly symmetrical distri-
+bution with a high proportion of both sexes being kept up to six years and
+beyond. Historical samples studied by Payne show animals being carried up
+to eight years, as does a Bronze Age sample from the west Anatolian site of
+Beycesultan: by contrast, the sheep from the Early Neolithic site of Nea
+Nikomedia in north Greece were all killed before four years of age, many
+in their first year (Payne, pers. comm.). Ducos has suggested that kill-off
+patterns characteristic of secondary product utilisation began in Palestine
+with the Ghassulian (1973, 84). Halstead (1981) has investigated these
+suggestions in Neolithic Greece and concludes that secondary products were
+not a feature of early stock economies there. The evidence from osteological
+studies thus supports the contention that domestic animals before the fourth
+and third millennia BC were exploited only for their meat, and that the
+spread of secondary products utilisation brought about major changes in
+animal husbandry.
+
+
+
+INTERACTIONS A N D EFFECTS
+A general model
+The evidence reviewed above suggests that a number of major innovations
+occurred in the Near East and adjacent areas in the middle or later fourth
+millennium BC; and that these innovations spread and interacted with each
+other so as to cause major economic changes during the course of the third
+millennium. This revolution in animal husbandry involved using old
+domesticates in new ways, and in domesticating a new range of species. It
+resembled the previous phase of Near Eastern domestication in the eighth
+
+                                           183
+
+
+
+
+                              This content downloaded from
+            128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                      All use subject to https://about.jstor.org/terms
+
+                         PLOUGH        AND     PASTORALISM:
+
+
+and seventh millennia in that different parts of the area, evolving in parallel
+with local resources, each contributed to a package of compatible elements
+with widespread application. A general explanation may therefore be
+suggested.
+   These developments were not accidentally coincident. They represented
+a variety of similar responses to a common problem, the pattern of popu-
+lation growth and territorial expansion which had been initiated by the
+beginnings of animal and plant domestication in that area some four
+thousand years before. Such problems became especially acute with the need
+to penetrate increasingly marginal environments in a landscape containing
+sharp contrasts in climate and terrain within short distances. They were
+partly dependent on biological changes both in man, in the case of tolerance
+to lactose, and his stock, for instance with wool. They involved an increased
+scale of investment in animal husbandry, and together they produced a new
+phase of man-animal relationships (Figure 6.16).
+   An increase in the scale of animal keeping was the basic feature. The
+population of domestic animals had to contain both breeding stock and
+working or production stock, as well as any beasts kept solely for meat. The
+maintenance of such an increased population was greatly facilitated by the
+practice of milking. It was this which made other uses possible, by allowing
+the continuous cropping of a subsistence product from a standing herd.
+   As agricultural communities expanded to the edges of the Fertile Cres-
+cent, they encountered extensive semi-arid areas which supported large
+mobile animal populations. Because of the uncertainty it involved, in areas
+without alternative resources, hunting was not a viable economy. With a
+product like milk which could be continuously obtained, and especially with
+the added mobility given by draught- and riding-animals, such areas could
+be exploited by pastoralism. Because of the easier alternative methods of
+increasing subsistence, especially by small-scale irrigation, this pattern was
+slow to evolve. The evolution of lactose-tolerant populations removed an
+important brake on the development of such systems, which could them-
+selves develop techniques of milk processing (initially for storage) which
+rendered it usable by non-tolerant populations. The adaptation could thus
+spread more rapidly than its genetic basis.
+    Where did this process of adaptation take place? It is probably mis-
+leading to look for any closely defined region of origin, but it would appear
+that the process was occurring during the late Ubaid period in the second
+half of the fifth millennium BC and first half of the fourth, in northern Iraq,
+Syria and Palestine. The Ghassulian culture in Palestine shows a ceramic
+inventory including vessels for pouring and manipulating liquids, including
+the famous 'butter churn', and the suggestion of a mortality pattern among
+its livestock of the kind indicating secondary products has already been
+noted. Equally suggestive are the large numbers of sites which appear at this
+period in the arid areas of south Palestine and Sinai (Rothenberg 1970),
+
+
+                                             184
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+         ASPECTS         OF    THE SECONDALT Y PRODUCTS                  REVOLUTION
+
+
+
+
+                                                                               New social
+                                                                               structures
+                                                                               wider networks,
+                                                                               more centralisation
+                                                                               of exchange,
+                                                                               inter-regional roles
+
+                                                                               New land use
+                                                                               systems
+                                                                               plough agriculture,
+                                                                               transhumance,
+                                                                               pastoralism
+
+
+                                                                               New social
+                                                                               structures
+    Continuous                                                                 male dominated,
+    deforestation and                                                          emphasis on property
+    increasing pasture                                                         transmission
+
+
+
+                              Milking                     Tree crops
+                 {lactose tolerance)
+                                            J   L
+             Stage I (4th millennium B C)       Stage II (3rd millenium BC)
+
+
+
+6.16 Interaction of the components of the secondary products complex in western
+Eurasia through time. [This diagram has been much misunderstood, and is
+perhaps misleading in trying to combine chronology and causality in a single
+representation. Note, in any case, that it is not regionally specific: it offers a
+general picture of western Eurasia as a whole.]
+
+indicative of methods of coping with such dry environments, and important
+also in the acquisition of raw materials like copper. Indeed, the formation of
+populations in the dryer interstices would have had an important effect on
+patterns of trade and contact (Sherratt 1976).
+   The application of certain features of this system was not restricted,
+however, to semi-arid areas. The use of draught-animals, especially, had
+revolutionary implications for cultivation in better-watered areas. Not only
+did the cart improve transport on the farm, but the innovation of a
+'mechanical hoe', the plough, increased the farmer's ability to prepare his
+land by a factor of up to four or more. (For the economics of this, see Clark
+and Haswell 1964, 55.) This both increased the productivity of good land,
+and made economical the preparation of land from which a poorer yield
+might be expected. It seems likely that the plough played a critical role in the
+cultivation of tree crops which began at this period (Zohary and Spiegel-
+Roy 1975). An intensification of agricultural production was thus a parallel
+development to the expansion of pastoral populations. Furthermore, the
+large-scale production of wool, an animal product suitable for manu-
+factures, provided a greatly increased potential for trade. It was the juxta-
+position of contrasting environmental zones which produced in the Near
+East such innovating co-action (Figure 6.17; cf. Clarke 1968, 355).
+
+                                                    185
+
+
+
+
+                                   This content downloaded from
+                 128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                           All use subject to https://about.jstor.org/terms
+
+6.17 Origins and interaction of the main elements of the secondary products
+complex: (a) 4000 BC, primary developments; (b) 3000 BC, inter-regional exchange
+and spread; (c) 2000 BC, continuing exchange and interaction. [In (b), I would
+now take ox-traction through Anatolia as well as the Pontic steppes, as in Fig. 0.5;
+and in (c) I would take the chariot through the Balkans rather than the Caucasus,
+as described in Chapter 7.]
+
+                                            186
+
+
+
+
+                              This content downloaded from
+            128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                      All use subject to https://about.jstor.org/terms
+
+        ASPECTS     OF   THE SECONDALT Y PRODUCTS                    REVOLUTION
+
+
+   This agricultural revolution was well under way by the later fourth
+millennium in Mesopotamia and Khuzestan, where the massive increase in
+population on the alluvium created an extensive demand for raw materials.
+Ramifying trade links spread advanced techniques into the hinterlands,
+while the increasingly urbanised populations of the lowlands began the
+manufacture of woollen textiles. At the same time, semi-dependent pastoral
+populations continued to grow in the areas where grain-growing was un-
+profitable.
+   The links between these differentiating subsistence specialisations, in-
+tensive cultivation and mobile pastoralism, were probably deeper than
+simple trading relationships. Such diversity opens up the possibility of poly-
+ethnic and symbiotic social systems (Barth 1969), with a fluctuating balance
+between sedentarisation and nomadisation, or long-term flows of popu-
+lation between economies with different patterns of fertility and mortality -
+notably across ethnic boundaries (Barth 1964, ch. 9). Such a complex
+system, despite its inbuilt homeostatic features, has the potential for violent
+change when there are rapid shifts in the balance of power: the relationship
+between villager or town-dweller and nomad was always ambivalent. The
+degree of interdependence involved in a closely adjusted timetable for
+stubble grazing and use of winter pastures always contained the potential
+for conflict.
+   The dual economy of plough and pastoralism was characteristic of areas
+of ecological diversity. Thus in mountain areas the pastoral sector was
+occupied by transhumant groups which were directly analogous to the
+nomads of the arid plains. This pattern became characteristic not only of the
+Zagros and the Taurus but also of the Tertiary fold mountains of southern
+Europe, where it was also a creation of the third millennium.
+   In more arid areas, pastoralism spread without the plough. While plough
+cultivation spread along with the rest of the secondary products complex
+both to Europe and to India, it did not reach into Africa further than the
+upper Nile. Pastoralism, involving milking, was common in the Sahara
+probably by the later fourth and almost certainly by the third millennium
+BC, and with the third-millennium desiccation some of these populations
+were forced southwards (Clark 1976). The continuing penetration into east
+Africa took a ploughless and cartless pastoralism down the tropical
+grassland corridor, as cattle replaced the native wild ungulates. Cattle were
+much less efficient than these animals, some of which (like the eland) were
+potentially herdable; and indeed it was their plentiful provision of milk,
+urine and dung - which in the native antelopes were sparse and con-
+centrated - that made the introduced animals so valuable a resource (Kyle
+1972).
+   On the Eurasian steppes, pastoralism did not become divorced from
+traction and the plough was used in oasis situations. On the other hand, the
+well-known Chinese intolerance to lactose inhibited the development of a
+
+                                            187
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                         PLOUGH        AND     PASTORALISM:
+
+
+pastoral sector and thus a ready supply c draught-animals, which may
+explain the occurrence of draw-spades and plough-like instruments pulled
+by human traction (Leser 1931). In India, Harris (1966) has argued that the
+very large numbers of animals needed for ploughing with the sharp onset of
+the monsoon necessitates a large population of generally poorly nourished
+cattle. He has also suggested that the prohibition on pork in large parts
+of the Near East stems from the need to devote resources to animals giving
+secondary benefits of milk or traction.
+   The spread of the secondary products complex, then, offered new
+opportunities to populations in many areas of the Old World. Many of the
+characteristic features of the present-day ethnographic pattern can be traced
+back to this dispersal.
+
+Changes in agricultural systems and settlement               patterns
+The changes which the secondary products revolution brought to pre-
+historic Europe and the Near East are best demonstrated by the major
+changes in settlement pattern which are characteristic of the fourth and
+third millennia BC. Before looking at the archaeological evidence, however,
+a brief comment on models of early agricultural economies is needed.
+   It has often been assumed that the earliest agriculture was some form
+of shifting cultivation, involving a 'slash and burn' system of temporary
+clearings which were allowed to revert to woodland after a few years of
+cropping. Such systems are widely known from agriculturally less developed
+areas in the tropics and in peripheral parts of Europe. Ester Boserup (1965)
+has suggested a general model of agricultural change in which the fallowing
+cycle is progressively reduced as population pressure forces intensification
+of production. Plough agriculture would thus be a threshold of development
+separating temporary from permanent cultivation.
+   The archaeological evidence from Europe and the Near East, however,
+does not support such a scheme, and suggests that it may be misleading
+to apply directly a model based largely on cultivation in the tropics to the
+situation in temperate and sub-tropical regions. In these areas, cultivation
+began by being concentrated in small areas of high-yielding land which did
+not require a long fallowing cycle. Only later did cultivation spread to
+poorer soils where longer fallows were required. In temperate Europe, slash
+and burn systems are characteristic of the poor soils under coniferous forest
+in Finland and the Carpathians (Balassa 1972) which were among the last to
+be settled agriculturally. The introduction of the scratch-plough to Europe
+made it economical to cultivate a wider range of soils than before, and thus
+to extend the area of cultivation.
+    In the Near East and Europe, present evidence suggests an early stage of
+spatially restricted, fairly intensive cultivation of areas of high productivity
+(Allan 1972), followed by an expansion of the cultivated area either through
+irrigation or by tackling more extensive areas of less productive land. The
+
+                                             188
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+        ASPECTS      OF   THE SECONDALT Y P R O D U C T S            REVOLUTION
+
+
+earliest cultivation systems in the Near East seem to have resembled the
+floodwater-farming of the American south-west (Bryan 1929), and to have
+concentrated on naturally watered mudflats by lakes, rivers and springs.
+Expansion in the sixth millennium took place by small-scale irrigation by
+water-spreading on alluvial fans, marking the beginning of the Early
+Chalcolithic pattern (Oates and Oates 1976). Forms of settlement reflect
+a continuing interest in localised resources, with substantial and long-lived
+settlements like Jericho and Qatal Hiiyiik existing at an early stage and tell
+sites continuing to be characteristic. Despite this stability, however, many
+of these early agricultural sites continued to obtain their animal protein by
+hunting or loose herding. Gazelle were still the animal staple at Jericho,
+while frescoes of cattle at £atal Hiiyiik and onagers at Umm Dabagiyeh
+show that there was little incentive to full domestication in open areas
+supporting large herds.
+    In central Europe, it has been usual to see the first Neolithic communities
+as slash and burn agriculturalists with shifting cultivation and settlement
+(Wanderbauerntum). This idea was supported by tropical and boreal-forest
+analogies, by the existence of temporary clearance phases in pollen dia-
+grams, and by inference from the fact that the settlements did not form tells.
+This would conform with expectations on the Boserup (1965) model. How-
+ever, close study of Early Neolithic settlement, especially in Poland and in
+the Netherlands and adjacent parts of Germany (Kruk 1973; Modderman
+1970), has demonstrated the stability and longevity of such sites. The
+absence of tell formation relates more to differences in building material
+than to the character of agriculture, and individual locations were con-
+tinuously occupied for comparable spans of time, up to 1000 years in some
+cases.
+   Moreover, the locations chosen for such sites show a marked preference
+for high-quality loessic soils, and within these for waterside positions. In
+Little Poland, where the topography has sufficient relief to show locational
+preferences with particular clarity, it is clear that these valley-bottom
+locations offered access only to a relatively narrow area of land along the
+rivers. The distribution of such sites is conspicuously linear throughout
+central Europe, and the exploited zone was spatially very restricted although
+of maximum productivity. Such limited clearances in the primary forest
+would have offered very limited grazing. Cattle must have been kept only in
+small numbers and probably partly stall-fed in the characteristic long-
+houses.
+   The economy would thus have resembled a garden system not unlike
+the horticulture or semi-agriculture of the south-eastern parts of pre-contact
+North America. While some comparison may be made with hoe cultivation
+in the tropics, this temperate hoe cultivation has no true analogy in the Old
+World, where it represents an extinct economic type which has everywhere
+been replaced by plough cultivation.
+
+                                            189
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                         PLOUGH        AND     PASTORALISM:
+
+
+   These early agricultural systems were characterised by a highly selective
+pattern of land use, in which population was concentrated in a few zones of
+high productivity, and relatively small areas of land were intensively culti-
+vated. The system allowed the maintenance of large herds only where there
+were significant tracts of naturally open countryside accessible from the
+'oases' of settlement. Grazing was increasingly problematic as such systems
+penetrated into European forest environments. The lack of large-scale forest
+clearance is reflected in a toolkit lacking large, wide-bladed axe forms.
+   The effect of the spread of plough cultivation was to produce major
+alterations in the structure and distribution of settlement. By contrast to the
+limited areas along rivers which the earliest settlers opened up in the forest,
+the wider areas opened up by third-millennium groups would have provided
+the necessary grazing for the animals needed to till them, and the new system
+operated on an extensive rather than a localised, intensive basis. The sites
+chosen for settlement were less long-lived, and more rapid turnover of culti-
+vated area would have left sufficient fallow for a more balanced form of
+mixed agriculture in which the pastoral component was able to grow con-
+tinuously with the progress of deforestation. The appearance [or, rather, in-
+tensification of activity] at a similar date from England to Russia of mines
+and quarries to produce material for effective flint and stone axes for forest
+clearance is eloquent testimony to this new scale of attack on the woodland
+(Sherratt 1976).
+   An increase in the animal component of agriculture which was thus made
+possible would have introduced for the first time problems of over-wintering
+numbers of stock, but would also have provided manure in useful quanti-
+ties. For the first time a balanced crop-livestock husbandry came into being,
+with different requirements and patterns of land use. In central and northern
+Europe, on the loess lands and the North European Plain, functionally un-
+differentiated villages of longhouses were replaced by the variety of sites
+which are characteristic of the TRB and related cultures. [This was initially
+because of the integration of indigenous populations, as described in
+Chapter 13, using more extensive methods of cultivation in which the
+plough was increasingly advantageous; but the real shift in settlement
+patterns did not occur until Corded Ware: see Chapter 16.]
+   The main expansion of hoe agriculture had taken place on medium (silt-
+grade) soils like loess. The main expansion of agriculture based on the
+scratch-plough in the later third and second millennia took place on lighter
+land, especially on sandy soils which were less able to withstand prolonged
+cultivation. The vast numbers of round-barrows in areas like central Jut-
+land, for instance, bear tribute to the speed with which Late Neolithic and
+Early Bronze Age farmers effectively reduced large areas of precariously
+wooded glacial outwash-sands to infertile heathland. The occurrence of
+Bronze Age tumuli under forest in many parts of Europe show that, once
+exhausted, such land was often never recolonised. This cycle of expansion
+
+
+                                             190
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+              ASPECTS           OF        THE SECONDALT Y P R O D U C T S                    REVOLUTION
+
+                                              Brown   Chernozem Glei     Rendsma
+                                              Earth
+                                            iO      500       500      500     50       V. '9P
+                                                                                       ...m
+                                                                                    fy valleys^
+                                                                                      . Sites m ,
+
+                                            ItllD                                   v
+
+
+
+                                                                                                      A N
+0   10
+' km 1
+                      LBK c 5 0 0 0 B C
+
+           — Edge of survey
+          H I Linked sites
+              (< 5 km apart)
+                                   Lengyel  llll                                                      A N
+                                            EIED                                                      EH
+                                                                                         Sues on
+
+
+                            Corded Ware
+           ^ Corded Ware c 2000 B C
+                                            MOD I                                        elevations
+
+
+
+
+                                                                                    Settlement
+                                                                                                      Ml
+                                                                                                      • Maiorsites
+                                                                                                      C Minor sues
+                                                                                                                      • Tumulus
+                                                                                                                     //f Contours
+Inter-site links                              Soil preference                       situation         Locational pattern
+6.18 The development of settlement in the loess uplands of Little Poland, from
+5000 to 2000 BC: locational preferences and contact networks. Note the simi-
+larities between the first and last pairs, and the shift between Lengyel and TRB
+(data from Kruk 1973). [This major shift in fact pre-dates my plough horizon,
+and owes more to fusion with native groups, as discussed in Chapter 13.]
+reached its limits in the later second millennium, when heavier types of ard
+capable of turning a sod were developed as settlement spread to the still
+little-used heavy clay and alluvial soils.
+    The move from a pattern of concentrated and localised agricultural
+exploitation to a wider use of the terrain for light plough cultivation and
+extensive grazing had a marked effect on settlement patterns further south.
+It is a notable feature of the later fourth millennium BC that the pattern of
+tell sites established over the previous two millennia underwent substantial
+modifications over a wide area, from Transcausasia to the Balkans. Instead
+of long-lived tell sites in the valleys near to water, valley-edge or spur sites
+appear and settlements are found in upland locations. The tell sites which
+do continue are usually larger, frequently fortified, and with greater inter-
+vening distances (Sherratt 1976). The disappearance of large, nucleated
+Neolithic sites is also evidenced from the Tavoliere of Apulia, where the
+large ditched settlements have been documented by aerial photography.
+The shift of population to the plain edge and surrounding mountains in
+the Bronze Age indicates the relative advantage of a milk-based pastoral
+economy over intensive lowland cereal cultivation. The model has a wide
+predictive value throughout the Mediterranean, especially where extensive
+upland areas suitable for transhumance surround lowland plains.
+    In the Near East, these processes lay behind the increasingly urbanised
+character of settlement. Population expanded in the fourth millennium BC
+in areas like the terraces of the Konya Plain or the alluvium of lowland
+Mesopotamia. In the latter case, the use of the plough was part of the
+irrigation-based system which made possible a fivefold increase in the
+
+                                                                191
+
+
+
+
+                                       This content downloaded from
+                     128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                               All use subject to https://about.jstor.org/terms
+
+                         PLOUGH        AND     PASTORALISM:
+
+
+number of sites during the Uruk period. Subsequent development involved
+an increasing concentration of population in a few defended centres.
+Whether such defences were erected against potentially hostile pastoralist
+populations in the drier areas between the irrigated farming areas, or against
+the other cities of the region, such concentrations of agrarian population
+were made possible by use of the ox-drawn cart for local transport.
+   Longer-distance transport links were also made possible by the domesti-
+cation of equids as transport-animals. The fertile but stoneless and metal-
+less alluvial basin of the Euphrates and Tigris generated an enormous
+demand for raw materials. The size of the hinterland over which effective
+trade links existed has been demonstrated to extend for up to 1000km in
+each direction. To the south-east, the discovery of Proto-Elamite tablets
+at Tepe Yahya demonstrates links from Khuzestan to Kirman as early as the
+later fourth millennium; while at the same time the site of Habuba el-
+Kabireh in northern Syria indicates links along the Euphrates to southern
+Iraq (Lamberg-Karlovsky and Lamberg-Karlovsky 1971; Strommenger
+1976). In the third millennium the importance of east-central Anatolia to
+Mesopotamia is shown both by the military expeditions of Sargon and the
+Anatolian origin of gold from the royal graves at Ur (Maxwell-Hyslop
+1977). By the second millennium the overland trade routes northwards from
+Assur and westwards from Mari were major distribution lines for bulk
+supplies both of raw materials like metals and manufactured products like
+textiles. These would have been impossible without the use of transport-
+animals.
+   While the Mesoamerican evidence shows that animal-traction is not
+a necessary precondition for the development of urban communities, the
+rarity and much later appearance of towns in the New World suggests that
+while a variety of settlement systems may eventually reach an urban form,
+the higher energy of Old World systems greatly accelerated movement along
+this trajectory.
+
+Pastoralism and linguistic change [See also Chapter 19]
+The secondary products revolution had large-scale effects in the semi-arid
+areas of the Old World. The Eurasian steppes in particular saw important
+changes in the distribution and density of population.
+   Previously, in the fifth and early fourth millennia, population had been
+largely concentrated in the valleys of the major rivers flowing into the Black
+Sea. Agricultural settlements of the Tripole culture were confined to the
+forest steppe parts, with cattle-keeping, fishing and collecting groups of the
+Dnepr-Donets culture along the rivers in the true steppes.
+   With the arrival of the cart and traction complex and the spread of the
+horse, both groups began to make a greater use of the drier interfluves; and
+sheep became the predominant domestic animal. The effect of new transport
+possibilities, and probably also milking, was to create on the steppes an
+
+                                             192
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+        ASPECTS     OF   THE SECONDALT Y PRODUCTS                    REVOLUTION
+
+
+economy with sufficient mobility to be able to exploit effectively the pre-
+viously neglected zone stretching eastwards into central Asia; though at this
+stage such pastoralism was probably 'transhumant' rather than 'nomadic'.
+   This set of economic changes precipitated the formation of a new cultural
+group on the basis of the previous riverine groups and under strong techno-
+logical influence from the Caucasus. A characteristic of this group was the
+erection of burial mounds covering graves in increasingly elaborate pits and
+wood-lined chambers - the Pit-Grave, Catacomb-Grave and Timber-Grave
+phases of expanding steppe culture. These herding and farming groups
+penetrated eastwards along the Eurasian steppe belt as far as the Volga-Ural
+interfluve in the early third millennium, and (using spoke-wheeled vehicles)
+as far as the Altai in the early second.
+   Some backwash of this expansion was also felt in Europe. Wool sheep
+and the horse, along with tumuli and alloy metallurgy, spread westwards
+from 3000 onwards and spoke-wheeled vehicles followed at the end of the
+third millennium. The opening-up of the European forests, and especially
+the creation of large areas of heathland on sandy soils, allowed a wider net-
+work of contacts and facilitated the penetration of steppe elements into the
+temperate forest area.
+   It is instructive to compare the effects of horses and wheeled vehicles to
+the spread of imported Spanish horses among the tribes in the Plains area
+of north America (Roe 1955). As well as tempting a variety of formerly
+settled riverine groups to colonise the prairies and create the classic Plains
+Indian cultures of popular image, it also gave the opportunity for mounted
+Athebascan sheep-herders - like the Navajo - to spread over a thousand
+kilometres from the home area of their language group.
+   The spread of settlement in the semi-arid corridors of the Old World had
+important implications for linguistic distribution there. The expansion of
+population in east Europe and central Asia provided the opportunity for the
+spread and differentiation of a previously localised language group which
+now occupies a major area of Eurasia. The dispersal of these Indo-European
+languages was paralleled by the similar expansion and differentiation of the
+Semito-Hamitic group in the Near East and north Africa.
+   Philologists have long contended that the extensive resemblances in form
+and vocabulary between geographically removed languages like Latin and
+Sanskrit imply a common ancestral Ursprache which differentiated after
+dispersal: and that, moreover, since such resemblances rapidly decay, it
+must have taken place relatively recently. An often quoted estimate for such
+a dispersal (Robins 1964) is 3000 BC - to some extent a circular argument
+from the archaeology, but consistent with observed rates of change
+(Swadesh 1968). The eastward movements of population onto the steppes
+in the third millennium BC linked east Europe with the Pontic and Trans-
+Caspian regions as far as the Tarim Basin and the Iranian Plateau, and there
+seems no doubt that it was such relatively rapid movements in the semi-arid
+
+                                            193
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                         PLOUGH        AND     PASTORALISM:
+
+
+zone which gave Indo-European its geographical range. This is also con-
+sistent with the first appearance of specifically Indo-Iranian names in
+northern Syria and Mesopotamia in the second millennium BC.
+   The extent to which Indo-European languages were already present
+in the forested parts of Europe is uncertain. Nevertheless there are good
+philological grounds for inferring some westwards spread of Indo-European
+languages in the second millennium BC, and this could well have taken place
+in the context of the changes in settlement and economy documented in a
+previous section.
+
+Social structure
+Besides the large-scale effects of the secondary products revolution in
+creating new forms of subsistence economy, its effects on the texture of
+social relations was equally important. By its major alterations in the
+allocation of subsistence roles between the sexes, it created new social
+structures and patterns of organisation, and by giving a new importance to
+the transmission of land it necessitated new mechanisms of inheritance.
+   The arguments for associations of this kind are inevitably based on cross-
+cultural surveys, and especially the Area Files of the Institute of Human
+Relations and the Ethnographic Atlas (Murdock 1967) abstracted from
+them. Interpretations of such material in historical terms is especially
+dangerous: but the archaeological perspective given above on the spread of
+features such as the plough allows a time dimension to be fitted to the
+recurrent patterns of association which have become clear from statistical
+analysis of this data. Such considerations allow a sketch of the kinds of
+society which may have been characteristic of temperate hoe-based horti-
+culture.
+   In common with some of the systems based on the intensive collecting of
+localised subsistence products on a sedentary basis, agriculture involved the
+transmission of property consisting of facilities such as fields and houses.
+It is therefore usually associated with continuing kin-based corporations
+such as lineages, often with a specifically unilineal mode of inheritance
+(Harner 1970). The mode of inheritance is strongly influenced by patterns
+of residence: in an uxorilocal system, where the husband joins the wife's
+community on marriage, transmission is likely to follow the female line.
+Residence systems, in turn, reflect the relative importance of the sexes in
+subsistence pursuits. In simple hoe agriculture, the major subsistence contri-
+bution comes from female labour in sowing, weeding and harvesting. There
+have been some suggestions that a clear worldwide association occurs be-
+tween simple hoe-based agricultural economies and matrilineal inheritance,
+and that this association would be even stronger were it not for the effect of
+recent influences (Keesing 1975). Societies based on matrilineal lineages are
+thus likely to have been typical of early agricultural communities in the Old
+World. This pattern is characteristic of aboriginal societies in the woodlands
+
+                                             194
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+        ASPECTS     OF    THE SECONDALT Y P R O D U C T S            REVOLUTION
+
+
+of the American south-east which have been identified as the closest
+parallels to pre-plough agriculturalists in Europe (Driver 1961).
+    Both plough agriculture and pastoraliSfti, by contrast, show a strong
+association with male dominance in subsistence activities, virilocal resi-
+dence, and patrilineal descent. This pattern is often reinforced by the kinds
+of warfare which are common when large quantities of livestock are present.
+On a world sample, two-thirds of plough agriculturalists and two-thirds of
+pastoralists have purely patrilineal inheritance. Moreover, such societies are
+likely to evolve beyond the lineage mode of production to be composed of
+larger non-localised clans or to become stratified as scarcity of land becomes
+increasingly important.
+    Changes in the sexual allocation of tasks affected non-agricultural pro-
+duction. The decline of the female role in agriculture released labour from
+the fields to the home, making possible an expansion in spinning, weaving
+and textile production. This increase in scale made economical the use of
+more elaborate forms of loom. Archaeologically, traces of weaving equip-
+ment become much more prominent in the third millennium (e.g. Trump
+1960).
+    Besides reallocating productive roles between the sexes, plough agri-
+culture introduced new principles to the transmission of property. Greater
+flexibility of land use and the ability to use wider holdings gave a new
+importance to the acquisition and devolution of land. The advantages of
+'marrying out' came to be balanced by the advantages of keeping land
+within the descent group, retaining resources within the productive unit.
+Marriage would thus tend to become an important move in the de-
+termination of patterns of land-holding, and a focus of interest to the
+descent group as a whole (Goody 1969). Such a concern leads to arranged
+marriages in which women, as carriers of property, have to be appropriately
+matched to maintain the status of the family. These features are likely to be
+more pronounced the greater the scarcity of land and the more intensive its
+use.
+    Goody (1976) has recently contrasted the kinds of property transmission
+characteristic of plough-less Africa with those commonly found among the
+plough-based agriculturalists of Eurasia. He characterises the contrast as the
+difference between homogeneous devolution, where property is transmitted
+between members of the same sex and there is no community of property on
+marriage, and diverging devolution, where children of both sexes inherit
+and marriage establishes a joint fund. In the former case, typical of African
+hoe cultivators, property reverts to the lineage of a deceased person, and
+is not passed to his or her offspring: in the latter, typical of Eurasian plough
+cultivation, marriage produces successive recombinations of holdings in
+each generation. Diverging devolution is characteristic of societies where
+land forms a major heritable commodity, and is associated with a particular
+emphasis on marriage and control over the choice of mate.
+
+
+                                             195
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                         PLOUGH        AND     PASTORALISM:
+
+
+   In examining a worldwide sample from the Ethnographic Atlas
+(Murdock 1967), Goody found diverging devolution to be characteristic of
+over half of the societies of Eurasia, including the most populous, but to
+occur in only a twentieth of the African examples; and moreover that the
+earliest Eurasian law codes show this contrast to reach back to the second
+millennium BC. Features which showed a high correlation with diverging
+devolution were advanced and plough agriculture, male farming, in-
+marriage, monogamy, prohibited pre-marital sex, and kinship terminologies
+separated siblings from cousins. Such features are often associated with
+stratified and state societies. Goody (1976, 25) suggests that the increase in
+production made possible by the plough had major implications for inter-
+personal relations: Tor differentiation arose even at village level and the
+scene was set for the development of relationships such as lord and serf,
+landlord and tenant, which exist in Eurasia but not in Africa.'
+   In so far as forms of society are determined by the organisation required
+for work and the types of property which are passed between generations,
+we may apply these insights to the historic situation in Eurasia. The
+secondary products revolution produced an economy dominated by men,
+who played a dominant role in handling large livestock either as herds or in
+ploughing. Women became increasingly relegated to the domestic sphere.
+Where the absolute amount of cultivable land was relatively restricted, as in
+the Near East and the Mediterranean, ownership of land became increas-
+ingly subject to competition. Differences in access to land became the basis
+of growing inequalities, while the transmission and coalition of property
+became a major preoccupation of the landed classes.
+   In inland Europe, the archaeological evidence indicates that land was still
+relatively plentiful as the Bronze Age farmers continued to clear primary
+forest on somewhat less fertile soils. These features were probably not pre-
+cipitated, therefore, until the end of the second millennium when organised
+field systems were laid out, heavier forms of plough were developed, and
+extensive indications of status differences appeared. Second-millennium
+Europe may thus have exemplified a second extinct economy of the tem-
+perate zone - an extensive light-plough cultivation with a predominantly
+male role in agriculture, but without the highly differentiated social order
+where groups struggled to maintain their status by the vertical transmission
+of property. The 'rich' graves with prestige items at this time probably repre-
+sent a 'big-man' system rather than true chiefdoms (Sahlins 1963). Essen-
+tially a transient type, such societies have not survived to reach the pages of
+the Ethnographic Atlas (Murdock 1967); only the extreme contrast between
+tropical matrilineal shifting hoe cultivators with homogeneous devolution,
+and the more northerly patrilineal intensive plough cultivators with
+stratified societies and diverging devolution, suggests the possibility of
+structurally intermediate ancestral forms.
+
+
+
+                                             196
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+
+        ASPECTS    OF   THE SECONDALT Y P R O D U C T S             REVOLUTION
+
+
+CONCLUSION
+Eduard Hahn's perceptive remark quoted at the beginning of this section
+still stands as a fundamental observation about the origins of western
+society. The progress of archaeological research, however, has provided a
+time-depth which allows a further definition of the processes involved. As
+the beginnings of agriculture and domestication have been traced further
+back into the post-glacial period, so the major developments of the fourth
+and third millennia BC have emerged as a second burst of economic inno-
+vation with far-reaching consequences.
+    The spread of the plough was arguably the most important development
+in Old World prehistory after the adoption of cereal cultivation itself.
+It firmly tied together the arable and pastoral sectors of husbandry in an
+interdependent system, and it fundamentally affected the character of settle-
+ment and the structure of society. Use of the plough was only part of a wider
+set of changes, however, which marked a new phase in man-animal relation-
+ships, involving larger numbers of domestic animals, the domestication of
+new species, and new uses for long-domesticated ones.
+    The use of animals for traction purposes seems to have begun in Meso-
+potamia, and involved first the familiar ox and then the onager, spreading
+to include the Bactrian camel in the lands east of the Zagros. Riding was
+developed on the steppe-plains north of the Caucasus and the Black Sea,
+as the horse was domesticated. Pack-transport began in the lands around
+the head of the Red Sea with the domestication of the ass, and then of the
+dromedary. The production of wool was probably a development in the
+sheep populations of the Taurus-Zagros arc. These innovations spread and
+interacted, some animals changing role or adding new ones. Basic to all of
+them was probably the beginning of milking, giving a continuously available
+form of animal food and making economical the keeping of large numbers
+of animals which could be put to a variety of uses.
+    The focus of all these developments was the Near East, in different parts
+of which the various elements emerged and spread. The key to this pro-
+ductivity lay in large part in the diversity of adjacent environments which
+this area offers. The arid belt of the Old World crosses north Africa and
+swings north-east into central Asia: but it is interrupted in its course by
+the great chain of Tertiary fold-mountains running from the Alps to the
+Himalayas, which catch the rain-bearing winds of winter. This intersection
+of desert, mountain and sea provides an intimate mixture of zones with
+different stresses and opportunities, maximising the possibilities of inno-
+vation and providing a theatre in which interaction and cross-fertilisation
+can take place.
+    The impact of the secondary products revolution was felt principally in
+that part of the agricultural zone of the Old World characterised by cereal
+crops, rather than the tropical part where root-crops were cultivated. Its
+
+
+                                           197
+
+
+
+
+                              This content downloaded from
+            128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                      All use subject to https://about.jstor.org/terms
+
+                         PLOUGH        AND     PASTORALISM:
+
+
+innovations spread rapidly along the arid corridors and penetrated into
+more temperate regions. The axis of Old World development from Europe
+to India came into being as a result. These influences penetrated only slowly
+and incompletely into east Asia. There an alternative system of protein
+capture based on fish (especially in rice-paddies) and on the pig was already
+supporting a relatively dense population, and the expanded pastoral sector
+which the secondary products revolution required could not easily be
+brought about. For this reason, the civilisation of China was in many re-
+spects comparable to those civilisations of the New World where domestic
+animals played a minor role.
+    Beyond the zone of cultivation, the practice of milking allowed the in-
+filling of arid areas by animal-based groups, and produced a secondary
+impact on the hunting peoples of the northern forests. The milking of
+reindeer by Lapp populations is a notable example. In Africa, milking may
+have spread relatively early from its south-west Asian focus, but pastoralism
+was imposed on existing systems of tropical hoe cultivation. It did not
+achieve the organic linkage with cultivation that was characteristic of
+Eurasia, and animals were not used as sources of energy.
+    The effects of the secondary products revolution thus spread widely both
+to north and south of the main axis, affecting much of the Old World. Many
+of the cultures recorded ethnographically therefore were, like the historical
+societies of Eurasia, products of the second half of the post-glacial period.
+    As David Clarke showed in 'Mesolithic Europe: the economic basis'
+(1976), archaeological data are most effectively used in the context of wider
+ethnographic comparison; not by taking recent groups as direct analogies of
+prehistoric ones, but by analysing both in the perspective of evolutionary
+change. The societies which flourished in temperate and sub-tropical
+Eurasia in the Early Holocene form an important extinct phylum of human
+culture, which cannot be directly compared to any surviving groups. Their
+character was completely altered by the secondary products revolution,
+which created many of the basic features of the modern world.
+
+
+
+
+                                             198
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:27:37 UTC
+                       All use subject to https://about.jstor.org/terms
+

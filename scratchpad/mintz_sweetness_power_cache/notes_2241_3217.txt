@@ -1,0 +1,977 @@
+Notes
+
+
+
+Introduction
+
+			 1. Hagelberg (1974: 51–52; 1976: 5) points out that noncentrifugal sugars still figure importantly in consumption in a number of countries, and estimates (in lit., July 30, 1983) that world output stands at around twelve million tonnes (one metric ton = 2,204.6 pounds), a significant figure.
+
+			 2. Among the most interesting studies, I would note those by Claudius Salmasius, Frederick Slare, William Falconer, William Reed, Benjamin Moseley, Karl Ritter, Richard Bannister, Ellen Ellis, George R. Porter, Noel Deerr, Jacob Baxa and Guntwin Bruhns, and, above all, Edmund von Lippmann. Specific references to their works are provided in the bibliography.
+
+			 3. Malinowski 1950 [1922]: 4–22. See also his self-criticism in Malinowski 1935: I, 479–81.
+
+			 4. R. Adams 1977: 221.
+
+
+1. Food, Sociality, and Sugar
+
+			 1. Richards 1932: 1.
+
+			 2. Robertson Smith 1889: 269.
+
+			 3. Ibid.
+
+			 4. Marshall 1961: 236.
+
+			 5. Of course this assertion glosses over an immense quantity of research, both archaeological and ethnological, which I cannot deal with here. Most scholars believe that settled agricultural life, based on stable cereal (or root) cultivation, was a precondition for the emergence of complex political systems (states), as in post-Neolithic Egypt, Mesopotamia, Mexico, and so on. One authority (Cohen 1977) has suggested that, even earlier, the successes in domesticating plants and animals actually served to resolve a food crisis caused by the decline of big game. Once stable cultivation was established, the human population began to increase rapidly. Sauer 1952 and Anderson 1952 provide classic introductions to the saga of plant domestication. The archaeologist V. Gordon Childe likened its consequences to a revolution, and coined the term “Neolithic Revolution” to describe it (1936). Useful information on domestication is provided in Chrispeels and Sadava 1977, and in an article by David Harris (1969).
+
+			 6. Richards 1939: 46–49.
+
+			 7. E. Rozin 1973, P. Rozin 1976a, E. Rozin and P. Rozin 1981.
+
+			 8. See, for instance, Pimentel et al. 1973, Steinhart and Steinhart 1974.
+
+			 9. See, for instance, Balikci 1970 on the Eskimos, Oberg 1973 on the Tlingit, and Huntingford 1953 on the Masai.
+
+			 10. Roseberry 1982: 1026.
+
+			 11. Maller and Desor 1973: 279–91.
+
+			 12. Jerome 1977: 243.
+
+			 13. Beidler 1975, Kare 1975, P. Rozin 1976a, 1976b.
+
+			 14. Symons 1979: 73.
+
+			 15. Beauchamp, Maller, and Rogers 1977.
+
+			 16. DeSnoo 1937: 88.
+
+			 17. Jerome 1977: 236.
+
+			 18. The improvement of sucrose extraction from the sugar beet, building on studies that were pioneered by Marggraff (1709–1782), was accomplished by his pupil Franz Achard (1753–1821). But it was Benjamin Delessert who manufactured loaves of white sugar in 1812, to Napoleon’s delight. The French beet sugar industry received favored treatment until its product was fully competitive with cane sugar coming from French tropical colonies, such as Martinique and Guadeloupe.
+
+			 19. Henning 1916. A useful recent discussion can be found in Pfaffman, Bartoshuk, and McBurney 1971. Henning sought to represent the relations among the tastes of bitterness, saltiness, sourness, and sweetness by a diagram having four faces. The four primary tastes are at the apices, binary tastes along the edges, and tertiary tastes on the surfaces, thus:
+
+
+
+				Taste tetrahedron (Henning 1916) as reproduced in Pfaffman et al. 1971: 97.
+
+
+
+			Pfaffman et al. believe that the diagram works, at least for representing successive taste sensations. The implications of a taste system consisting of four scientifically verifiable primary tastes are very substantial, but most authorities treat this position circumspectly.
+
+			The use of the term “sweet” to describe water (and not just fresh water as opposed to saltwater or to brackish water, but also to describe the taste of water drunk after something salty, bitter, or sour has been ingested) and to describe certain foods, such as scallops and crabmeat, dramatizes the very wide range of the experience of sweetness as opposed to the relatively narrow range of sugars and of a lexicon of taste. The differences are sufficiently bewildering to lead one of the best students of sweetness to write: “As psychologists explore sweetness, and indeed the chemical senses, they are constantly required to emulate Janus—looking one way toward the behavior of model systems in the search for regularities and laws, but also to actual foods, where consumption occurs and where regularities give way to irregularities and laws of behavior to abundant exceptions” (Moskowitz 1974: 62).
+
+
+2. Production
+
+			 1. Edelman 1971. The family of naturally occurring substances called carbohydrates, formed from carbon, hydrogen, and oxygen, includes the sugars, of which sucrose is most important to this account. It can be found in all grasses, in some roots, and in the sap of many trees. Photosynthesis effects the combination of carbon dioxide with water to manufacture sugar (sucrose) and other starches and sugars. Our species cannot manufacture sucrose, only consume it. Ingestion of carbohydrates, together with inhalation of oxygen, allows glucose (blood sugar) to be transformed into energy, and is accompanied by the exhalation of carbon dioxide: “sugar consumption is thus the reverse of sugar formation” (Hugill 1978: 11).
+
+			 2. Of the six known species of the genus Saccharum, four appear to be domesticated, and of these, Saccharum officinarum (“sugar of the apothecaries”) is most widespread and important (Warner 1962). The immense number of cultivated cane varieties is the consequence of a vast amount of applied research on the major source of one of the world’s leading commodities. Sugar has ranked among the top half-dozen food imports worldwide for several centuries.
+
+			 3. Deerr 1949: I, 63.
+
+			 4. R. J. Forbes 1966: 103.
+
+			 5. S. G. Harrison 1950: n.p.; R. J. Forbes 1966: 100–1.
+
+			 6. Tabashir (tabasheer, tabaxir), or Sakkar Mambu, was much prized as a medicinal. When hardened, this vegetable gum becomes transparent or white, concreted, and sweet in taste. It may have been used in the same way as sugar in medical preparations. The word tabaxir means “chalk” or “mortar” in Urdu, according to the Shorter Oxford English Dictionary; it occurs with the same meaning in the dialects of Maghribi Arabic. The word “sugar” is believed to be derived from Sanskrit śarkarā, meaning “gravel” or “grit.” Just as sugar came to be called a kind of salt by the physicians of seventeenth-century western Europe, so was tabashir called Arabian salt (Salz aus den glücklichen Arabien), “the salt of Arabia Felix.” Opportunities for confusion between these substances were considerable—even though they are not really similar—because both were very rare, and probably some authors were describing them only second- or third-hand. Parallel confusion marks discussions of Biblical references to sweetness that mention neither manna nor honey. There seems no likelihood that sugar was known in the Near East in Biblical times, but scholars are not unanimous. See, for instance, Shapiro 1957.
+
+			 7. Barnes writes: “Sugar cane is propagated commercially by the vegetative method, which involves the planting of sections of the stem of immature cane, this material being known as seed, seed cane, seed pieces, and setts. The true seed of cane arising from natural or controlled pollination of the female flowers is entirely unsuitable for producing commercial crops. . . . The asexual or vegetative method produces new plants in all respects like the canes from which the seed pieces were taken, though in very rare cases a new individual cane is developed from a bud sport which differs for unknown reasons from others derived from the same variety. The new crop thusgrows from the buds of the planted stem cuttings of the variety selected for commercial use” (Barnes 1974: 257).
+
+			 8. Hagelberg 1976: 5.
+
+			 9. Ibid.
+
+			 10. The words for molasses (e.g., French mélasse, Spanish melaza, Portuguese melaço, etc.) come from the Latin mel, honey. The English term “treacle” is from the Latin theriaca (from Greek thérion, wild animal), an electuary or compound used in the treatment of poisonous bites. Both Galen and Dioscorides developed “theriacs,” which often contained the flesh of poisonous serpents. Such theriacs (or treacles) eventually became enshrined in European medicine and did not disappear from official pharmacopoeias until late in the nineteenth century. F. Crane, writing in Notes and Queries (February 22, 1762), observes that only in England did the term “treacle” come to mean molasses, presumably by broadening its usage from a particular kind of compound to a general substance. The important point, it seems to me, is that treacles had been made with honey; that molasses, probably because of its rapidly declining price, supplanted honey; and that the term for the compound then could be transferred to the medium. We find “treacle” first written to mean “molasses” in 1694; the Shorter Oxford English Dictionary cites Westmacot, Script. Herb.: “good store of molossus or common Treacle to sweeten it.” The term continues to be used to describe medicines as well, but the word “molasses” never achieved popular usage in England, whereas the liquid still called “treacle” (or “golden syrup”) remains popular. The term “golden syrup” requires a passing comment in turn. Refined molasses can be made both thinner and lighter in color, so as to resemble honey, but with a readily varied consistency.
+
+			It achieved some kind of climax in the “golden syrup” perfected toward the end of the nineteenth century by the Glasgow-based giant of British sugar, Tate and Lyle. As Aykroyd (1967: 7) has pointed out, this product, one of the most important prepared foods in modern history, has been advertised by the invocation of a Biblical story that neatly confounds it with honey. The container shows a dead lion, the lion Samson killed, surrounded by bees: they have nested in the lion and made honey. Samson’s riddle—“Out of the eater came forth meat, and out of the strong came forth sweetness”—could not be solved by the Philistines; but Delilah worried it from him: “What is sweeter than honey? and what is stronger than a lion?” (Judges 14:18). Aykroyd adds: The designers of the emblem ignored the fact that the source of sweetness [in the Biblical tale] is honey rather than sugar.” Indeed they did, epitomizing thus a process of replacement that took centuries to complete.
+
+			 11. Just as we cannot adequately discuss the place of sugar or sugarlike substances in traditional Greek medicine, we must omit any serious consideration of sugar in Indian medical practice. In all probability hardened sugar, crystallized from the processed juice of the cane, was being used medically in India by 400 A.D., if not earlier. But such hardened sugar was, it seems certain, not known to Galen and his contemporaries. The only sugar product—sucrose, that is to say—that may have figured in Galenic medicine was probably the doughy, ropelike, noncrystalline fanid—Arabic al-fānīd, English pennet, penide, penidium. These words probably come from some Indic language. (The term phanita is a Sanskrit-derived modifier of the word for “sugar” [śarkarā] employed in the Bower Manuscript, dating to c. 375 A.D., where it refers to a wholly liquid product. [Cf. Deerr 1949: I, 47]) Penidium gives rise to Spanish alfeñique and English alembick, meaning a still. In its earlier forms in English, such as “fanid,” it refers to a taffylike sugar confection (or medicine) similar to the barley sugar of later English usage. “Fanid,” writes Pittenger (1947: 5), “originally nothing but the solidified cane juice after it had been boiled down and skimmed, consisted of a brown to black syrupy dough, later described as being yellowish and even as being whitish. It was evidently non-crystalline because of statements to the effect that before cooling off completely, it could be stretched into threads or leaves and rolled out.” Pomet, writing in 1748, gives an admirably specific description of barley sugar, which makes clear its affinity with the fanid (pennet, or diapenidium) of European pharmacopoeia at the time: “Barley-sugar is made either of white sugar or brown; the first sort is boil’d ’till the Sugar becomes brittle, and will easily break after it is cold. When it is boil’d to a Height, cast it upon a Marble, that is first lubricated with Oil of Sweet Almonds; and afterwards work it to a Paste, in any figure you fancy. The other Sort, improperly call’d Barley-Suger, is made of Cassonade, or coarse Powder Sugar, clarified and boil’d to a Toughness that will work with your Hands to any Shape, and is commonly made up in little twisted Sticks. This Kind of sugar is more difficult to make than the other, because of hitting the exact Proportion of boiling to fetch it to such a Height that they may work it as they please: This ought to be of a fine Amber-Colour, dry, new made, and such as does not stick to the Teeth: Some Confectioners, to make it of a fine Colour, stain it with Saffron” (Pomet 1748: 58).
+
+			It is not possible to do justice to this and other kinds of sugar in a work of the present sort. But it is worth noting that fanid or pennet could be made in combination with almond oil, and shaped afterward into different forms. This “sculptural” quality of some sugars was to play an important part in the later development of sugar uses.
+
+			 12. Galloway (1977), building on Lippmann (1970 [1929]) and Deerr (1949, 1950), has advanced our knowledge of the spread and consolidation of the Mediterranean industry. A. M. Watson (1974) has documented the Arab contribution to Mediterranean agriculture. See also Phillips n.d.
+
+			 13. Dorveaux 1911: 13.
+
+			 14. A. M. Watson 1974.
+
+			 15. Bolens 1972; A. M. Watson 1974.
+
+			 16. Deerr 1949: I, 74.
+
+			 17. Berthier 1966.
+
+			 18. Popovic 1965.
+
+			 19. See, for instance, Salmi-Bianchi 1969.
+
+			 20. Deerr 1950: II, 536; Lippmann 1970 [1929].
+
+			 21. Soares Pereira 1955; Castro 1980.
+
+			 22. Baxa and Bruhns 1967: 9.
+
+			 23. Benveniste 1970: 253–56.
+
+			 24. Galloway 1977: 190 ff.
+
+			 25. Ibid.
+
+			 26. Ibid.
+
+			 27. Greenfield 1979: 116.
+
+			 28. Malowist 1969: 29.
+
+			 29. Heyd 1959 [1879]: II, 680–93.
+
+			 30. The first known exported sugar from the Canary Islands dates from 1506, but Fernández-Armesto (1982) believes that it began even earlier; indeed, he supposes that Canarian sugar production surpassed Madeira’s during the first years of the sixteenth century.
+
+			 31. Fernández-Armesto 1982: 85.
+
+			 32. Wallerstein 1974: 333; Braudel 1973: 156.
+
+			 33. Ratekin 1954.
+
+			 34. Ibid.: 7. Here Ratekin follows Lippmann—wrongly, I believe—in attributing this mill type to Speciale. Mauro (1960: 209) reproduces a 1613 sketch of a mill said to have been introduced to Brazil from Peru by a priest, after a genuine innovation in milling there (1608–12). The new mill had three vertical rollers and a sweep bar, and allegedly replaced a two-roller horizontal mill then in use.
+
+			 35. Ratekin 1954: 10.
+
+			 36. Ibid. Ratekin quotes Peter Martyr’s unsupportable claim that, by 1518, twenty-eight “mills” were operating, and Irene Wright’s more reliable view of the growth of the industry in Santo Domingo (Wright 1916).
+
+			 37. Ratekin 1954: 13; see also Sauer 1966.
+
+			 38. Masefield (1967: 289–90) writes: “The first result of the extension of sugar cane production to Madeira and the Canaries in the fifteenth century was severe competition with existing European producers. This was accentuated as the American colonies came into production. By 1580 . . . the industry in Sicily was moribund. . . . In Spain the industry languished. . . . The small medieval sugar industries of southern Italy, Malta, the Morea, Rhodes, Crete and Cyprus all underwent a similar decline and eventually disappeared.
+
+			“In both Madeira and the Canaries sugar production involved the use of African slave labor. . . . This use of slaves may have helped the islanders to undersell other European sugar producers, but Madeira and the Canaries in their turn succumbed respectively to Brazilian and West Indian competition.”
+
+			 39. K. G. Davies 1974: 144. Davies’s mention of Javanese and Bengali sugar is slightly surprising. For England, at any rate, the bulk of sugars imported during the first half of the seventeenth century came from Brazil and the Atlantic islands.
+
+			 40. Andrews 1978: 187.
+
+			 41. Though the term “muscovado” (mascabado, moscabado, etc.) survives to describe some contemporary less refined brown sugars, “clayed” sugar is no more. When semicrystalline sugars were poured into inverted ceramic cones to permit the molasses and impurities to drain, it became the practice to cap them with wet white clay. The water in the clay, percolating downward, would carry with it much of the waste nonsucrose, the molasses and other materials, leaving the base of the inverted sugar “head” or “loaf” white in color. The apex of the cone would contain darker, less pure sucrose, which was of poorer quality. The whiter sugar was “clayed,” the darker “muscovado.” These were but two of the more important descriptive terms for sugar types, of which there were scores or hundreds. The British naturalist Sir Hans Sloane recounts the apocryphal story that sugar claying began when it was noticed that a hen, after foraging in wet clay, walked across wet sugar, and left it whiter in those places where she had walked. Once sugar making had passed the stage of removing molasses and impurities by drainage, claying disappeared.
+
+			 42. Williamson 1931: 257–60.
+
+			 43. Beer 1948 [1893]: 62–63.
+
+			 44. Ibid.: 65.
+
+			 45. Child 1694: 79.
+
+			 46. Oldmixon 1708: I, xxiii.
+
+			 47. Quoted in Oldmixon 1708: I, 17. The seventeenth-century political economist J. Pollexfen was prophetic: “Our Trade to our Plantations or West-India Collonies takes off great quantities of our Products and Manufactures, as well as Provisions and Handicraft Wares, and furnishes us with some Goods for a further Manufactury, and others in great abundance to be Exported to Foreign Nations, especially of Sugar and Tobacco. And although some Objections may be made against the use and necessity of those Commodities, yet being so introduced amongst us as it may be impossible to prevent our having them from other Countries, and being a Trade which imployes vast numbers of Ships and Seamen, ought to be incouraged; for having lost so great a part of our Fishing Trades, these Trades, and that to Newcastle, are now become the chief support of our Navigation, and Nursery for Seamen. And if all back doors could be shut, that all the Products Exported from those Collonies might without diminution be brought to England, that what are not spent here, might be Re-exported from hence; and those Collonies, as the proprietors are English, made to have their whole dependance on England, the fruits of their labours to be as much for the advantage of England, as those that stay at Home, then all incouragement by easie Laws, Regulations and Protection, should be given to them, they having more opportunities, and being under a greater necessity of gaining more Laborious People, (from whence Riches must arise) to help to make great improvements than England, or any other of the Dominions belonging to it: And if it be considered what Forests and Deserts have been improved, and Riches acquired, in some of those Collonies, in so short a time, as the Age of a Man, it must be agreed what hath been asserted, That the Original of moveable Riches is from Labour, and that it may arise from the Labour of Blacks and Vagrants, if well managed” (Pollexfen 1697: 86).
+
+			 48. Oldmixon 1708: I, 17.
+
+			 49. Mill 1876 [1848]: 685–86.
+
+			 50. Davis 1973: 251.
+
+			 51. Ibid.
+
+			 52. Gillespie 1920: 147.
+
+			 53. Deerr 1949: I, 86.
+
+			 54. Tryon 1700: 201–2.
+
+			 55. Dunn 1972: 189–95.
+
+			 56. Mathieson 1926: 63.
+
+			 57. Ibid.
+
+			 58. At the risk of digression, I mention that “free” labor and “slave” labor are not polar opposites, except abstractly; indeed, there are many intermediate forms of semicoerced labor, depending on locale, time, and specific circumstances. That capitalism is commonly (and, for analytical purposes, accurately) associated with the proletariat of course does not mean that capitalists were able to profit only from the use of free labor.
+
+			 59. “In his letters describing the storming of Drogheda, Cromwell wrote that, ‘When they submitted, these officers were knocked on the head, and every tenth man of the soldiers killed, and the rest shipped for Barbados.’ ‘A terrible Protector this,’ remarks Thomas Carlyle, ‘. . . he dislikes shedding blood, but is very apt to Barbados an unruly man: he has sent and sends us by hundreds to Barbadoes—so that we have made an active verb of it, ‘barbadoes you’” (Harlow 1926: 295).
+
+			 60. Curtin 1969.
+
+			 61. Marx 1939 [1867]: I, 793, 738.
+
+			 62. Gillespie 1920: 74.
+
+			 63. Thomas and McCloskey 1981: 99.
+
+			 64. A. Smith 1776: bk. IV, ch. VII, pt. III, quoted in Thomas and McCloskey 1981: 99.
+
+			 65. Wallerstein 1980.
+
+			 66. For a clear, elegant statement of this view, see Wolf 1982: 296 ff.
+
+			 67. Banaji 1979.
+
+			 68. Marx 1969: II, 239.
+
+			 69. Ibid.: 303.
+
+			 70. Marx 1965 [1858]: 112.
+
+			 71. Genovese 1974: 69.
+
+			 72. Genovese 1965: 23.
+
+			 73. “Tremendous wealth was produced from an unstable economy based on a single crop, which combined the vices of feudalism and capitalism with the virtues of neither” (Williams 1942: 13).
+
+			 74. Banaji 1979: 17.
+
+			 75. Thomas 1968.
+
+			 76. Quoted in Deerr 1950: II, 433–34.
+
+			 77. Davis 1954: 151.
+
+			 78. Ibid.: 152–53.
+
+			 79. Ibid.
+
+			 80. Ibid.: 163.
+
+			 81. Marx 1939 [1867]: I, 776, 785.
+
+			 82. Marx 1968 [1846]: 470.
+
+			 83. Hobsbawm 1968: 51. Hobsbawm adds to his argument elsewhere (ibid., pp. 144–45): “We . . . expect to find, and do find, an increasingly large excess of imports over exports after 1860. But we also find—and this is rather odd—that at no time in the nineteenth century did Britain have an export surplus in goods, in spite of her industrial monopoly, her marked export-orientation, and her modest domestic consumer market. . . . The buyers of our exports reflect the limits of the markets to which Britain exported, which were essentially countries which either did not want to take much more British textiles or were too poor to have more than a very tiny per capita demand. But it also reflects the traditional ‘underdeveloped’ slant of the British economy, and also to some extent the luxury demand of the British upper and middle classes. As we have seen, between 1814and 1845 about seventy per cent of our net imports (in value) were raw materials, about twenty-four per cent foodstuffs—overwhelmingly tropical or similar products (tea, sugar, coffee)—and alcohol. There is not much doubt that Britain consumed so much of these because we had a traditionally important re-export trade in them. Just as cotton production grew, as it were, as a by-product of a large international entrepot trade, so did the unusually large consumption of sugar, tea, and so on, which accounts for a large part of the deficit on current account.”
+
+			I suspect this may be too neat an explanation. The consumption of tea and coffee diverged sharply in the eighteenth century, and these trends, once established, were never reversed. Even if the re-export trade in coffee maintained itself, tea won out over coffee in the British Isles, to some substantial extent because tea was an imperial production in a way that coffee neither was nor became. The same is even truer of sugar; its consumption solidified once British colonies produced it, and that has never changed.
+
+			 84. Sheridan 1974: 19–21; italics added.
+
+			 85. Coleman 1977: 118.
+
+			 86. Deerr 1950: II, 532. Davis (1979: 43–44) summarizes eloquently: “Sugar was the largest British import for a century and a half, down to the 1820s when it was overtaken by cotton. Sugar was wholly imported from America, Asia or Africa; there was no British, and little European, production. Medieval Europe had lived without it, but once cheap and plentiful supplies appeared in the seventeenth century sugar rapidly became a conventional necessity, and it was one without a substitute. During the eighteenth century the slave-worked plantations of the British Caribbean colonies were virtually the only suppliers, but in the wars great amounts came in from British-occupied French West Indian islands and the Dutch East Indies; and Mauritius and India became important sources from the 1820s.
+
+			“Sugar was fairly homogeneous; that is, West Indian and Javan and Mauritius sugar were not basically very dissimilar, though they were imported at different stages of processing that gave them differing reputations. The colonial product was protected until 1844 by a discriminatory import duty that prevented foreign sugar import, but the duty on colonial sugar itself was very high, even after it was halved in 1845. Sugar prices were therefore not only influenced on the supply side by the opening of new sources to serve the British market, crop fluctuations and changing costs of transport, but also by changes in the general level of import duties and in colonial preferences. Britain’s internal demand showed a strong long-run tendency to growth, because its rapidly rising population had firmly established habits of sugar consumption.
+
+			“Annual fluctuations in imports reflected crop variations and to some extent merchant intentions, but stock-holding was limited, and in any but the shortest run imports had to correspond with consumption. Year-to-year figures show a fair degree of price-elasticity, the British market responding to harvest variations by price changes as well as by adjustment of stocks. In the longer run, however, the picture is different. The slave revolution of 1791 in San Domingo (Haiti), which was Europe’s largest supplier, caused some diversion of British supplies to Europe, and a sharp rise in prices which was continued by the first wartime increases in duties. Consumers seem to have been taken aback by this, but they soon returned to their old consumption habits despite continually rising prices. Throughout the war period the average consumer responded to the rising price of sugar by spending more money on it, and when prices fell after the wars he reduced his expenditure rather than greatly increasing his consumption. When the long post-war depression ended in the prosperity of mid-century, steeply rising incomes caused an even faster rise in sugar consumption.
+
+			“This pattern of buying, revealing a rather inelastic demand, might be expected for a non-substitutable article, on which few families spent more than a few pence a week, but which in some small quantity had become nearly a necessity, and which was attractive enough to invite a greater share of expenditure as more and more incomes rose well above the poverty line. Sugar retained its leading place among British imports over a very long period because it was much the most used of imported non-essential foodstuffs, and its relative importance sank only when the basic foodstuffs themselves began to figure on a great scale in British import trade.”
+
+			 87. Such calculations, at least for 1700, must be wildly imprecise, since both the amount of sugar consumed and England’s population in 1700 must be guessed. It seems certain, however, that nearly 13,000 tons of sugar per year were reaching England by that time. If 10 percent of her citizens could consume as much sugar as they wished, leaving none for those poorer than themselves, each would have been using about 40 pounds per year, or 1.75 ounces per day. I think these guesses are not wild.
+
+			There were, to be sure, even earlier attempts to guess at per-capita consumption, and Joseph Massie’s “incursions into political arithmetic” (Mathias 1979) include a sketch of differential sugar consumption by class, for the year 1759. Massie’s purpose was to establish that the costs of the West India monopoly had been borne by theEnglish consumers, and he makes a good case. But I was not able to reconcile his enumeration of “ranks, degrees and classes” and his calculations of sugar consumed to arrive at any average figures.
+
+			 88. The first modern writer to point to this issue may have been Eric Williams, in his Capitalism and Slavery (1944). But no reader of C. L. R. James’s The Black Jacobins (1938) will have missed the thread of connection from Marx to James to Williams.
+
+			 89. Mintz 1979: 215.
+
+			 90. Mintz 1977.
+
+			 91. Mintz 1959: 49.
+
+			 92. Lewis 1978.
+
+			 93. Orr 1937: 23. Leverett writes: “Dental caries was not prevalent in primitive societies apparently because their diets lacked easily fermentable carbohydrates. Although caries is clearly a disease with multiple causes, the principal mode of caries initiation is acid dissolution of tooth enamel. This acid is produced by several different microorganisms, most notably Streptococcus mutans, with fermentable carbohydrates, especially sucrose, as the nutrient source. . . . In England, for instance, there was a sharp increase in the prevalence of dental caries during the Roman occupation. There was a decline in dental caries after the departure of the Romans in the early 5th century A.D., and it did not significantly increase again until the second half of the 19th century, when sucrose became widely available to all levels of society” (1982: 26–27).
+
+
+3. Consumption
+
+			 1. A particularly moving representation is Nigerian author Chinua Achebe’s (1973) story “Sugar Baby,” in which a man’s obsessive liking for sugar becomes the crux of his personal crisis during the Nigerian civil war.
+
+			 2. McKendry 1973: 10.
+
+			 3. Nonetheless there was some exportation of wheat and barley from England, even as early as the fourteenth century. Cf. Everitt 1967b, passim, especially pp. 450 ff.; and Bowden 1967: 593 ff.
+
+			 4. Drummond and Wilbraham 1958: 41.
+
+			 5. Appleby 1978: 5.
+
+			 6. Ibid.
+
+			 7. Drummond and Wilbraham 1958: 88.
+
+			 8. Such general assertions are of course always risky and subject to exceptions. But J. E. T. Rogers called the fifteenth century “the golden age of the English labourer,” and with reason; the depopulation resulting from the Black Death had created a labor shortage resulting in the doubling of wages in many regions (Bowden 1967: 594). “Not until the nineteenth century,” Postan writes, “was the wage-earner’s standard of living again so high” (Postan 1939: 161). In the seventeenth century, dearth fell especially hard upon the poor. The evidence collected and assembled by Everitt and by Bowden in their contributions to The Agrarian History of England and Wales makes clear that “the third, fourth, and fifth decades of the seventeenth century witnessed extreme hardship in England, and were probably among the most terrible years through which the country has ever passed” (Bowden 1967: 621). These were the years immediately preceding the large-scale introduction of sugar and other commodities (such as tea) into England.
+
+			 9. Drummond and Wilbraham 1958: 68–69.
+
+			 10. Ibid.: 51.
+
+			 11. Ibid.
+
+			 12. Murphy 1973: 183.
+
+			 13. Ibid. See also note 8.
+
+			 14. Not all of these particular items—saffron, for instance—are produced exclusively in tropical or subtropical regions. Nonetheless, most were imported to England; all were rare and costly; and knowledge of their nature was for long imperfect and even fantastic. According to tradition, it was Phoenician merchants who originally introduced saffron to Cornwall and Ireland. Hunt (1963) claims that the Cornish buns and cakes flavored with “saffran” confirm that tradition, while the saffron-dyed shirts of Ireland, the leine caroich worn by chiefs, supposedly are the origin of the tartan. England became a saffron producer in later centuries.
+
+			 15. Joinville 1957 [1309]: 182.
+
+			 16. Mead 1967 [1931]: 77.
+
+			 17. Quoted in Salzman 1931: 461.
+
+			 18. Our English Home 1876: 86.
+
+			 19. Ibid.: 85.
+
+			 20. Ibid.: 86.
+
+			 21. Salzman 1931: 417.
+
+			 22. Ibid.
+
+			 23. Ibid.
+
+			 24. Labarge 1965: 96.
+
+			 25. Ibid.: 97.
+
+			 26. Crane 1975 and 1976: 473.
+
+			 27. Labarge 1965: 96.
+
+			 28. Salzman 1931: 231 n.
+
+			 29. Ibid.: 202.
+
+			 30. Hazlitt 1886: 183.
+
+			 31. Ibid.
+
+			 32. Mead 1967: 44.
+
+			 33. Ibid.: 55.
+
+			 34. Ibid.: 56.
+
+			 35. Ibid.
+
+			 36. Austin 1888: ix.
+
+			 37. R. Warner 1791: Pt. I, 7.
+
+			 38. Ibid.: 9.
+
+			 39. Lippmann 1970 [1929]: 352 ff.
+
+			 40. Ibid.: 224–25. In an informative paper, K. J. Watson (1978: 20–26) describes the casting of sugar statues duplicating existing bronzes, which became common festive decor for the grand-ducal weddings of the fifteenth to seventeenth centuries in major Italian and southern French cities. Watson was not able to identify any pre–fifteenth-century references for such sculptures, and concluded that sugar’s price precluded this kind of display, even for the wealthy, in earlier centuries. But since sugar was being imported to Venice no later than about the eighth century, while refining was being improved there by the thirteenth, earlier experimentation probably did occur. Sugar sculpture in Islamic North Africa was common by the eleventh century. The Italian sugar sculptures, Watson writes, were often called trionfi (triumphs): “table decorations for banquets, most frequently wedding banquets . . . usually . . . ornaments to delight the eye rather than the stomach . . . sometimes presented to guests at the end of the event” (1978: 20). The subjects were drawn from heraldic imagery, themes of triumph, architecture, gods and goddesses, narrative groups from Biblical stories or contemporary literature, and animals. This “court art,” Watson believes, was partially eclipsed in the early eighteenth century by the beginnings of hard-paste porcelain manufacture. The techniques, as well as the ceremonial specifications, were vey likely diffused from North Africa to northern Europe by way of Italy and then France.
+
+			 41. Le Grand d’Aussy 1815 [1781]: II, 317.
+
+			 42. Drummond and Wilbraham 1958: 57.
+
+			 43. Our English Home 1876: 70.
+
+			 44. Ibid.
+
+			 45. W. Harrison 1968 [1587]: 129. William Harrison’s The Description of England is generally regarded as the fullest single account of British social life in Elizabethan times. It was written, we are told, “to provide the introductory books to Holinshed’s Chronicles” (Edelen 1968: xv), and deals with the whole of English society, but provides especially rich accounts of daily life. Harrison refers to sugar only twice in his book, the first time to bemoan the sharp rise in price of all spices (sugar included) because they were being re-exported; and the second, when describing the fare of the rich and privileged.
+
+			 46. Warton 1824: I, clix. George Cavendish, the biographer of Cardinal Wolsey (1475–1530), rhapsodizes about the subtleties that graced the table of the Cardinal’s installation: “Anon came vppe the Second Course wt so many disshes, subtilties, & curious devysis wche ware above an Cth in nomber of so goodly proporcion and Costly/that I suppose the ffrenchmen neuer sawe the lyke/the wonder was no lesse than it was worth in deade/there ware Castelles wt Images in the same/powlles Chirche & steple in proporcion for the quantitie as well counterfeited as the paynter shold haue paynted it vppon a clothe or wall/There ware, beastes, byrdes, fowles of dyuers kyndes And personages most lyvely made & counterfeit in dysshes/some fighting (as it ware) wt swordes/some wt Gonnes and Crosebowes/Some vaughtyng & leapyng/Some dauncyng wt ladyes/Some in complett harnes Iustyng wt speres/And wt many more devysis than I ame able wt my wytt to discribbe/Among all oon I noted/there was a Chesse bord subtilly made of spiced plate/wt men to the same/And for the good proporcyon bycause that frenche men be very expert in that play my lord gave the same to a gentilman of fraunce commaundyng that a Case should be made for the same/in all hast to preserue it frome perysshyng in the conveyaunce therof in to hys Contrie” (Cavendish 1959 [1641]: 70–71). “Spiced plate” refers to the hardened sugar from which these various forms and figures were sculpted. See also Intronizatio Wilhelmi Warham, Archiepiscopi Cantuar. Dominica in Passione, Anno Henrici 7. vicessimo, & anno Domini 1504. Nono die Martii, in Warner 1791: 107–24.
+
+			 47. Partridge 1584: cap. 9 [unpaged].
+
+			 48. Ibid., cap. 13 [unpaged].
+
+			 49. Platt 1675: nos. 73–79.
+
+			 50. McKendry 1973: 62–63.
+
+			 51. Glasse 1747: 56.
+
+			 52. Warner 1791: 136. Surely one of the most interesting passages ever written about the subtleties is to be found here: “Hence arose an extraordinary species of ornament, in use both among the English and French, for a considerable time; representations of the membra virilia, pudendaque muliebria, which were formed of pastry, or sugar, and placed before the guests at entertainments, doubtless for the purpose of causing jokes and conversations among them: as we at present use the little devices of paste, containing mottos within them, to the same end. . . . Nor were these obscene symbols confined to the ornaments of the person, or to the decorations of the table, but, inthe early ages, were even admitted into the most awful rites of religion. The consecrated wafer, which the pious communicant received from the hands of the priest, on Easter Sunday, was made up into a form highly indecent and improper. . . . “Not until 1263, according to Warner, did the English Church halt the apparently common practice of baking the communion wafers in the shape of human testicles: “Prohibemus singulis sacerdotibus parochialibus, ne ipsi parochianis suis die paschatis testes seu hostias loco panis benedicti ministrent, ne ex ejus ministratione, seu receptione erubescentiam evitare videantur, sed panem benedictum faciant, sicut aliis diebus dominicis fieri consuevit” (Stat. Synod. Nicolae, Episc. Anegravensis An. 1263). Warner adds: “Du Fresne subjoins, ‘Ubi pro evitare legendum puto irritare, forte enim intelliguntur paniculi, seu oblatae in testiculorum figuram formatae, quas in hoc testo Paschali loco panis benedicti dabant’” (Gloss. Tom. III, p. 1109). A revival of such odd practices, now of course entirely divested of any religious associations, is evidenced by occasional stories in the contemporary American press. A January 1982 article in the Baltimore Evening Sun, for example, recounts the success of “adult” gingerbread cookies and “erotic chocolates.” “I have people coming in,” marvels one confectioner, “and saying: ‘I want to see the gynecologist special.’ Some women actually take these candies to their doctors and give their doctors candy after an examination.” I intend to deal anthropologically with these rather bizarre materials in a subsequent publication.
+
+			 53. Wallerstein 1974.
+
+			 54. Schneider 1977: 23.
+
+			 55. Pellat 1954. See also Hunt 1963.
+
+			 56. Levey 1973: 74. It is tempting to try to combine Galenic humoral concepts with the “taste tetrahedron” proposed by Henning (1916) to show the interrelationships among the taste qualities. Galen himself had enumerated more than four taste qualities. But humoral medicine appears to be grounded upon a quadripartite organization of physical reality, and the taste qualities that were most often enumerated were four in number. The four elements of the natural world were air, fire, water, and earth; earth was dry, water moist, fire hot, air cold. Any two elements combined to produce a complexion; there were four, each with its own humor:
+
+			 				 					 					 					 				 				 					 						 							Complexion
+
+						 						 							Qualities
+
+						 						 							Humor
+
+
+
+					 						 							Sanguine
+
+						 						 							Hot and moist
+
+						 						 							Blood
+
+
+
+					 						 							Phlegmatic
+
+						 						 							Cold and moist
+
+						 						 							Phlegm
+
+
+
+					 						 							Choleric
+
+						 						 							Hot and dry
+
+						 						 							Yellow or green bile
+
+
+
+					 						 							Melancholic
+
+						 						 							Cold and dry
+
+						 						 							Black bile
+
+
+
+				 			 			All foodstuffs were made up of the same elements; their suitability as food depended upon these elements, relative to the temperament of the consumer. So lamb, which was considered moist and phlegmatic, was unsuitable for old men, whose stomachs had too much phlegm already. Children, by temperament phlegmatic, were to eat moderately hot and moist meats; as they grew older, becoming either sanguine or choleric, they were to eat cold salads, and colder meats (this is not, of course, a reference to temperature), reverting to hot and moist meats in old age. Appetite was believed to be a function of heat and dryness; digestion, of heat and moisture; retention, of coldness and dryness; expulsion, of moisture and coldness. Since foods had their characteristic states, they could be prescribed in dietary fashion. Moreover, the system was made more elaborate by the notion of degrees (so that, for instance, lettuce was cold and moist, while cabbage was hot in the first degree and dry in the second).
+
+			The “hot” and “cold” distinctions (which have nothing to do with temperature, of course, and occur in much-modified form in the contemporary folk medicine of much of the world) figured in Galenic humoral medicine (Kremers and Urdang 1963: 16–17), and were maintained and elaborated by Islamic scholars after the seventh century. Especially important in this semiscientific elaboration (and in its subsequent perpetuation in western medicine for centuries thereafter) was Alkindus (Abū Yūsuf Ya’qūb ibn-Ishāq al-Kindī), physician to the caliphs al-Ma’mun and al-Mu‘taim at Baghdad. Alkindus “prematurely attempted to establish an exact method of prescribing by applying the law of geometrical progression to the Galenic doctrine of qualities and degrees of complicated mixtures. His geometrical prescribing combined with musical harmony is well illustrated in the following:
+
+			 				 					 					 					 					 					 				 				 					 						 							Cardamom is
+
+						 						 							1´ warm
+
+						 						 							½´ cold
+
+						 						 							½´ moist
+
+						 						 							1´ dry
+
+
+
+					 						 							Sugar is
+
+						 						 							2´ warm
+
+						 						 							1´ cold
+
+						 						 							1´ moist
+
+						 						 							2´ dry
+
+
+
+					 						 							Indigo is
+
+						 						 							½´ warm
+
+						 						 							1´ cold
+
+						 						 							½´ moist
+
+						 						 							1’ dry
+
+
+
+					 						 							Emblica is
+
+						 						 							1´ warm
+
+						 						 							2´ cold
+
+						 						 							1´ moist
+
+						 						 							2´ dry
+
+
+
+					 						 							Sum
+
+						 						 							4½´ warm
+
+						 						 							4½´ cold
+
+						 						 							3´ moist
+
+						 						 							6´ dry
+
+
+
+				 			 			This, according to Alkindus, means that the compound is dry to the first degree” (D. Campbell 1926: 64).
+
+			Honey and sugar were humorally different, it appears. But the humoral characterization of sugar probably developed within the Islamic world itself, later to be diffused to Europe. Because of this, the two substances were not used with complete interchangeability, though their uses overlapped, and sugar replaced honey more and more. Sweet-tasting foods seem generally to have been considered hot, the other three “qualities” or tastes being cold:
+
+
+Hic fervore vigent tres, salsus, amarus, acutus,
+
+			Alget acetosus, sic stipans, ponticus atque
+
+			Unctus, et insipidus, dulcis, dant temperamentum.
+
+			(Harington n.d. [1607]: 50)
+
+			But a fleeting glance at the relevant materials gives no indication that sweetness was treated for diagnostic purposes as a “quality” separate from the food that produced the sweet sensation. My attempt to find some simple imposition of four tastes upon four humors (upon four fluids, upon four body processes, upon four elements, etc., etc.) failed. But serious study of the incorporation of sugar into the humoral pathology of the European world would probably reveal much about the way it was viewed, particularly in contrast to honey.
+
+			 57. Levey 1973.
+
+			 58. Ibid.
+
+			 59. The influence of Arab pharmacology upon western concepts of liquid medicines and beverages is suggested in a small way by contemporary lexicon. It was through that influence that terms such as sherbet, shrub, syrup, and julep entered English; and these contributions of Arabic (and Persian, via Arabic) to English seem to have been based largely on the diffusion of sugar uses.
+
+			 60. Pittenger 1947. Note that nearly all the ingredients are white in color. The association between purity and whiteness is ancient in Europe. White sugar was commonly prescribed in medicines, and combinations of white foods (chicken, cream, rice flour, almonds, etc.) seem to have enjoyed a popularity at times out of all proportion to their therapeutic efficacy.
+
+			 61. Lippmann 1970 [1929]: 368.
+
+			 62. An argument of a kind could be made for sugar’s innocence or purity on grounds of its color—not so silly an idea as it sounds. See note 60. “Pure white sugar” still has two quite different meanings, which its manufacturers are happy to treat as one.
+
+			 63. Pittenger 1947: 8.
+
+			 64. Lippmann 1970 [1929]: 395.
+
+			 65. Pittenger (1947) enumerates the following: (1) preservative; (2) antioxidant; (3) solvent; (4) to give consistency or body; (5) stabilizer; (6) to mask bitter and unpleasant-tasting drugs; (7) in syrups; (8) as a demulcent; (9) as a food; (10) as a replacement for glycerin; (11) in elixirs; (12) as a binder for tablets; (13) as an excipient; (14) as a coating; (15) as a diluent and sweetening agent; (16) as a confection base; (17) as an oil sugar base; (18) as an aromatic sugar base; (19) as a homeopathic medicated globule base; (20) as a homeopathic medicated cone base; (21) as a candy cough lozenge base; (22) as a test diet base; (23) in calcium saccharate; (24) medicinally. Of these, I believe that nos. 1, 3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 16, 18, 21, and 24 were known and employed in the pharmacopoeias transferred to Europe in Latin translation beginning no later than around 1140; that nos. 2, 12, 17, 19, and 20 were possibly practiced; and that only nos. 10, 22, and 23 are probably European and recent. Though I have not consulted specialists in the history of pharmacy concerning this list, I believe the main point—that most such practices were developed or invented in the Islamic world, between the seventh and twelfth centuries—is unassailable.
+
+			 66. Lippmann 1970 [1929]: 456–66. Serveto’s essay on syrups seems innocuous enough to one ignorant of the deeper philosophical implications—which have to do with much more basic conceptions of orthodox Christianity. Pittenger’s (1947: 9) suggestion that Serveto may have lost his life because of his hostility to sugared medicines is insouciant, to say the least. On Syrups can hardly be called medical in character, no matter how broadly one uses that adjective.
+
+			 67. Pittenger 1947: 10.
+
+			 68. Ibid.
+
+			 69. Lippmann 1970 [1929]: 478. The translation by Pittenger (1947: 10–11) is abridged.
+
+			 70. Vaughan 1600: 24.
+
+			 71. Ibid.: 28.
+
+			 72. Vaughan 1633: 44.
+
+			 73. Venner 1620: 103–6.
+
+			 74. Hart 1633: 96–97.
+
+			 75. Slare 1715. Thomas Willis was one of London’s most successful physicians of the Restoration period. He provided unusually complete descriptions of many diseases, and is especially known for his detailed study of diabetes mellitus (“the pissing sickness”) or saccharine diabetes, in which he reported on the intensely sweet character of the urine of diabetics and speculated on the possible particular significance of this aspect of the disease. He is generally regarded as the discoverer of diabetes m. (cf. Major 1945: 238–42). Willis was one of the first medical men of his time to raise serious questions about sugar and health, thus incurring the wrath of Frederick Slare.
+
+			 76. Ibid.: E4.
+
+			 77. Ibid.
+
+			 78. Ibid.: 3.
+
+			 79. Ibid.: 7.
+
+			 80. Ibid.: 8.
+
+			 81. Ibid.: 16.
+
+			 82. Oldmixon 1708: II, 159.
+
+			 83. Anderson 1952: 154; Rosengarten 1973: 75.
+
+			 84. Moseley 1800: 34.
+
+			 85. Chamberlayn 1685. “As the Chinese would deem us barbarians for putting milk and sugar into our tea,” writes Dodd (1856: 411), “so do the coffee-drinkers of tropical countries consider it to be barbarism to introduce such additions to the fragant decoction of their favourite berry. Lieutenant Welsted gives an amusing illustration of this: ‘A party of Bedouins were disputing respecting the sanity of Lady Hester Stanhope,—one party strenuously maintaining that it was impossible a lady so charitable, so munificent, could be otherwise than in full possession of her faculties. Their opponents alleged acts in proof to the contrary. An old man with a white beard called for silence—a call from the aged among the Arabs seldom made in vain. “She is mad,” said he; and lowering his voice to a whisper, as if fearful such an outrage against established custom should spread beyond his circle, he added, “for she puts sugar in her coffee!” This was conclusive.’”
+
+			 86. Strickland 1878, quoted in Ukers 1935: I, 43.
+
+			 87. Ukers 1935: I, 38–39.
+
+			 88. Ibid.: I, 41.
+
+			 89. Drummond and Wilbraham 1958: 116.
+
+			 90. Heeren 1846 [1809]: 172–73.
+
+			 91. E.g., Drummond and Wilbraham 1958: 116.
+
+			 92. Ukers 1935: I, 67. The John Company’s records reveal that in 1664 2 pounds 2 ounces of “good thea” were purchased by the court of Directors for presentation to His Majesty so that he might “not find himself wholly neglected by the Company” (Ukers 1935: I, 72). In 1666, 22¾ pounds of tea were provided to the king (purchased at 50s. per pound!); not until 1668 does a commercial order for 100 pounds of China tea occur in the records. Only after the English were driven out of Java by the Dutch in 1684 were standing orders for tea placed by the company.
+
+			 93. Drummond and Wilbraham 1958: 203.
+
+			 94. Ukers 1935: I, 133–47.
+
+			 95. D. Forbes 1744:7.
+
+			 96. MacPherson 1812: 132.
+
+			 97. D. Davies 1795: 37.
+
+			 98. Ibid.: 39.
+
+			 99. Eden 1797: III, 770.
+
+			 100. Hanway 1767. In an anonymous tract (whose author is undoubtedly Hanway) inveighing against both tea and sugar, we are told: “If you please, then, join them all together, and compute the expence, the loss of time taken in breaking and washing the dishes, sweetening the tea, spreading the bread and butter, the necessary pause which defamation and malicious tea-table chat afford, and they will largely account for half a day in winter, spent in doing that which is worse, very much worse than doing nothing.” That the tea and sugar might serve to make it possible for people to do much more than otherwise does not seem to have occurred to such critics.
+
+			Dorothy George has commented insightfully (1925: 14) on the school of opinion Hanway represented. In the latter half of the eighteenth century, there was, she writes, “a general cry of national deterioration. This is based largely on two ideas, one, the terrible effects of increasing luxury, as seen for instance, in the nabob, or the lamplighter with silk stockings, or the labourer’s family consuming tea and sugar. The other is the decline of what Defoe called the Great Law of Subordination, a theory of course much stimulated by the fears of Jacobinism roused by the French Revolution. Though connected with opposite schools of thought, the two ideas merged; the well-dressed lamplighter for instance might be regarded as a symbol of either of the two great causes of degeneration. Contemporary denunciations of luxury and insubordination deserve a rather critical attention. They imply a higher standard of living and some improvement in education. The fine clothes, good food and constant tea-drinking so much complained of after 1750 were incompatible with the wholesale consumption of gin of the earlier part of the century. There was something paradoxical in a complaint by Dr. Price in 1773 that ‘the circumstances of the lower ranks of people are altered in every respect for the worse, while tea, wheaten bread and other delicacies are necessaries which were formerly unknown to them.’”
+
+			But we can see clearly in retrospect that those who feared the moral and political consequences of increased and widened consumption were bound to lose out as the Industrial Revolution approached, the empire expanded, and as the trading, planting, and manufacturing classes grew apace, though not yet locked in competition with each other.
+
+			 101. Burnett 1966: 37–38.
+
+			 102. Drummond and Wilbraham 1958: 329.
+
+			 103. Ibid.: 209.
+
+			 104. Trevelyan 1945: 410; George 1925: 26.
+
+			 105. Fay 1948: 147.
+
+			 106. Quoted in Botsford 1924: 27.
+
+			 107. Drummond and Wilbraham 1958: 112.
+
+			 108. Ayrton 1974: 429–30.
+
+			 109. Pittenger 1947: 13.
+
+			 110. Drummond and Wilbraham 1958: 58.
+
+			 111. Ibid.: 54.
+
+			 112. Salzman 1931: 413.
+
+			 113. Mead 1967 [1931]: 155.
+
+			 114. Our English Home 1876: 73.
+
+			 115. Salzman 1931: 417; see also Lopez and Raymond 1955. Balducci Pegolotti’s (1936: 434–35) accounts from the thirteenth century are rich with references to different sorts of sugars reaching Venice (and passing through that city as well), mainly from the eastern Mediterranean. Included here are the once-, twice-, and thrice-“cooked” (refined) sugars; the various loaves (mucchera, caffettino, bambillonia, musciatto, and domaschino), which differed in form and quality; powdered sugar (polvere di zucchero or simply polvere); the various imperfectly refined, molasses-heavy sugars (zucchero rosato, zucchero violato), etc. There is also some mention of molasses, though such references are unsatisfactory. Heyd 1959 [1879]: II, 690–93) notes that such liquids were perceived, at least to judge by their names, as similar to honey: mel zucarae, zuccara mellita, miel di calamele, meil sucre, etc. While a reconstruction of both the distinctions among these sugars and some specification of their different uses is possible—Lippmann (1970 [1929]: 339 ff.) actually attempts to classify them—it is a task for the future. By turning instead to developing uses and preferences in England itself, I am able to cover some of the same ground.
+
+			 116. Pomet 1748: 58–59. Pomet provides more than four pages of descriptive text, as well as a full-page plate of a West Indian cane plantation, showing mill and boiling pans. Each type or kind of sugar—Cassonade, Royal and Demy-Royal, Brown, White and Red Candy, Barley-Sugar, Sugar-Plums, etc.—is described fully, and its medical uses detailed.
+
+			 117. Torode 1966.
+
+			 118. Drummond and Wilbraham 1958: 332.
+
+			 119. Burnett 1966: 70.
+
+			 120. R. H. Campbell 1966: 54.
+
+			 121. Ibid.: 56.
+
+			 122. Paton, Dunlop, and Inglis 1902: 79.
+
+			 123. R. H. Campbell 1966: 58–59.
+
+			 124. Burnett 1966: 62–63.
+
+			 125. Torode 1966: 122–23.
+
+			 126. Austin 1888.
+
+			 127. Mead 1967 [1931]: 159.
+
+			 128. Ibid.: 160.
+
+			 129. This issue is discussed in Taylor 1975 and Burnett 1966.
+
+			 130. The short, unhappy life of Prince Henry, the sickly son of Edward I (who reigned 1272–1307), was sweetened by the prescriptions ofthe court physicians, at a time when the medicinal uses of sugar were gaining recognition—rose sugar, violet sugar, penidia (pennet), syrups, liquorice—but all to no avail. They helped no more than did “the candles made to his measure” set to burn at all the famous shrines, or the thirteen widows who prayed all night for his recovery. See Labarge 1965: 97.
+
+			 131. Hentzner 1757 [1598]: 109.
+
+			 132. Rye 1865: 190.
+
+			 133. Nef 1950: 76.
+
+			 134. Lippmann 1970 [1929]: 288.
+
+			 135. Renner 1944: 117–18.
+
+			 136. Crane 1975 and 1976: 475. Eva Crane’s excellent study of honey points out how very little formal attention was given to it in Great Britain. The first book on honey in English, John Hill’s The Virtues of Honey, was not published until 1759, and dealt with honey mainly as a medicine. Crane’s work is particularly important because of her insistence that honey was a food, a medicine, and a basis for manufacturing alcohol—but not a sweetener. She argues persuasively that sweetening was simply not valued that highly by the English before perhaps the thirteenth century.
+
+			 137. Hentzner 1757 [1598]: 110.
+
+			 138. Rye 1865: 190. I discovered too late to include in my discussion the interesting paper by Sass (1981) which deals with aspects of the English sweet tooth in medieval times. Sass indicates eloquently how much more historical research is needed on the subject of sweet preference.
+
+			 139. Drummond and Wilbraham 1958: 116.
+
+			 140. Ibid.
+
+			 141. Sheridan 1974: 347–48.
+
+			 142. Mathias 1967.
+
+			 143. The new beverages provoked a flood of literature, most of it bad. The author of this poem is not identified, but Allen Ramsay, Robert Fergusson, Hartley Coleridge, and Shelley, among others, rhapsodized poetically about tea. One of the earliest devotees was Nahum Tate, whose “Panacea: A Poem upon Tea” was his most famous work; written in 1700, it includes the lines:
+
+
+With silent wonder mutually they Trace
+
+			Bright joys reflected on each other’s Face.
+
+			Then thus the Bard—fear no Circean Bowls—this is the
+
+			Drink of Health, the drink of Souls!
+
+			The virtues this, and this the Graces quaff,
+
+			Like Nectar chearful, like Nepenthe safe.
+
+			Not such the Plant which Bacchus first did nurse,
+
+			Heaven’s Blessing changed by Mortals to their Curse,
+
+			Ah, Syren-Pleasure to Destruction turn’d!
+
+			Ah, woeful Mirth to be for ever mourn’d!
+
+			Not only is there an embarrassing supply of such “literature,” but its very production raises interesting questions of social history. Sugar cane apparently excited similar excesses. Of James Grainger’s interminable poem about sugar (“The Sugar Cane. In Four Books.”), Samuel Johnson scoffed that he might as well have written of a parsley garden or a cabbage patch. But the role of so-called didactic poetry in influencing attitudes about these commodities should not be slighted.
+
+			 144. Burnett 1969: 275.
+
+			 145. Sombart 1967 [1919]: 99.
+
+			 146. Shand 1927: 39.
+
+			 147. Ibid.
+
+			 148. Ibid.
+
+			 149. Ibid.: 43.
+
+			 150. Dodd 1856: 429.
+
+			 151. Simmonds 1854: 138.
+
+			 152. Though Oddy, emphasizing the nonsocial character of proletarian eating habits, cites a Liverpool dock laborer’s wife interviewed before World War I, who did not offer tea to her friends because “women wouldn’t thank you for a cup of tea” (Oddy 1976: 218).
+
+			 153. Drummond and Wilbraham 1958: 299.
+
+			 154. Taylor 1975: xxix–xxxi.
+
+			 155. Oddy 1976: 219.
+
+			 156. Ibid.: 219–20.
+
+			 157. Reeves 1913: 97.
+
+			 158. Drummond and Wilbraham 1958: 299.
+
+			 159. Reeves 1913: 103.
+
+			 160. Oddy 1976: 216.
+
+			 161. Rowntree 1922: 135.
+
+			 162. Reeves 1913: 98.
+
+			 163. Oddy 1976: 217.
+
+			 164. Ibid.: 13.
+
+			 165. “The consumption of sugar was 20 lbs. per head. Now it is 5 times as great. Better class industrial workers in Manchester in 1836 consumed about ½ oz. of tea per head per week and 7 ozs. of sugar. Workers of a corresponding type today consume 3 ozs. of tea and nearly 35 ozs. of sugar in all forms. This five-fold increase in sugar consumption is the most striking change of the nation’s diet during the last 100 years. It has, of course, been rendered possible by the great fall in price. A hundred years ago sugar cost about 6d a lb. It now costs less than half” (Orr 1937: 23).
+
+			 166. A dessert not yet forgotten. Margaret Drabble’s hero, Len, in The Ice Age, thinks back: “Custard, the poor man’s cream. Len, like many of his generation, did not taste fresh cream until he was a man: for a year or more he had surreptitiously preferred condensed milk, before weaning himself onto the real thing” (Drabble 1977: 97).
+
+			 167. Burnett 1969: 190.
+
+			 168. Klein, Habicht, and Yarborough 1971.
+
+
+4. Power
+
+			 1. Ragatz 1928: 50.
+
+			 2. Ellis 1905: 66–67.
+
+			 3. Ibid.: 78.
+
+			 4. Rogers 1963 [1866]: 463.
+
+			 5. Pares 1960: 40.
+
+			 6. K. G. Davies 1974: 89.
+
+			 7. Davis 1973: 251–52.
+
+			 8. Quoted in DeVries 1976: 177.
+
+			 9. Ibid.
+
+			 10. Ibid.: 179. “Quotations of this sort,” writes Elizabeth Gilboy, “could be multiplied without end,” citing Sir William Temple: “. . . the only way to make them [the laborers] tempered and industrious is to lay them under the necessity of labouring all the time they can spare from meals and sleep, in order to procure the necessaries of life” (Gilboy 1932: 630). The citation in DeVries is from an anonymous 1764 tract entitled Considerations on Taxes.
+
+			 11. Ibid.
+
+			 12. Ibid.
+
+			 13. Hobsbawm 1968: 74.
+
+			 14. That apostle of colonization Edward Gibbon Wakefield, whom Karl Marx criticized so roundly, has some sprightly remarks upon the beneficial effects of the extension of markets. Of particular interest is his implication that sugar (among other things) reduced the costs of agricultural production in the metropolis: “It is not because an English washerwoman cannot sit down to breakfast without tea and sugar, that the world has been circumnavigated; but it is because the world has been circumnavigated that an English washerwoman requires tea and sugar for breakfast. According to the power of exchanging are the desires of individuals and societies [so much for symbolic anthropology]. But every increase of desires, or wants, has a tendency to supply the means of gratification. . . . The sole ground on which it is supposed that the blacks of the West Indies will work for wages as soon as they shall be set free, is their love of finery. They will produce sugar, it is said, in order to buy trinkets and fine clothes. . . . As with individuals, so with nations. In England, the greatest improvements have taken place continually, ever since colonization has continually produced new desires among the English, and new markets wherein to purchase the objects of desire. With the growth of sugar and tobacco in America, came the more skilful growth of corn in England. Because, in England, sugar was drank and tobacco smoked, corn was raised with less labour, by fewer hands; and more Englishmen existed to eat bread, as well as to drink sugar and smoke tobacco” (Wakefield 1968 [1833]: 509; emphasis added).
+
+			 15. Williams 1944: 37.
+
+			 16. Pares 1950.
+
+			 17. Pares 1960: 39–40.
+
+			 18. Williams 1944: 96.
+
+			 19. Ibid.
+
+			 20. Drummond and Wilbraham 1958: 111.
+
+			 21. Young 1771: II, 180–81.
+
+			 22. Porter 1851: 541.
+
+			 23. Ibid.
+
+			 24. Ibid.: 546. Apparently no one in England thought it odd that the twenty million pounds sterling in indemnities paid at Emancipation should have gone to the planters, who owned the slaves, and to their creditors, and not one half-penny to the slaves themselves, whose labor had been taken from them. Porter, in making explicit his fear of “overrewarding” the ex-slaves, gives us a passage with a startlingly contemporary ring.
+
+			 25. Lloyd 1936: 114–15. George Orwell (1984 [1937]: 85–86) observed this problem firsthand, and commented upon it with his usual acuity. Analyzing the debate over the minimum food needed for continued survival, he cites a miner’s family budget in which eight pounds of sugar weekly are consumed, and writes: “The basis of their diet, therefore, is white bread and margarine, corned beef, sugared tea, and potatoes—an appalling diet. Would it not be better if they spent more money on wholesome things like oranges and wholemeal bread or if they even, like the writer of the letter to the New Statesman, saved on fuel and ate their carrots raw? Yes, it would, but the point is that no ordinary human being is ever going to do such a thing. The ordinary human being would sooner starve than live on brown bread and raw carrots. And the peculiar evil is this, that the less money you have, the less inclined you feel to spend it on wholesome food. A millionaire may enjoy breakfasting off orange juice and Ryvita biscuits; an unemployed man doesn’t. . . . When you are unemployed, which is say when you are underfed, harassed, bored, and miserable, you don’t want to eat dull wholesome food. You want something a little bit ‘tasty.’ There is always some cheaply pleasant thing to tempt you. Let’s have three pennorth of chips! Run out and buy us a twopenny ice cream! Put the kettle on and we’ll all have a nice cup of tea! . . . White bread-and-marg and sugared tea don’t nourish you to any extent, but they are nicer (at least most people think so) than brown bread-and-dripping and cold water.”
+
+			 26. Anonymous 1752: 5.
+
+			 27. Malinowski 1950 [1922], Firth 1937, Richards 1939.
+
+			 28. Mintz 1979. I am not interested here in the intentions of the British ruling classes, other than their internally divided—that is, conflicting—intentions to profit from their investments. If they are free, the proletarian and propertyless owners of their own labor power sell it to the owners of capital; if they are enslaved, the slave and propertyless nonowners of their own labor power surrender it under duress. In the first instance, all such labor appears as paid labor, paid for by the owners of capital; in the second instance, all such labor appears as unpaid surplus labor yielded to the owners of the slaves. “The value of labour-power resolves itself into the value of a definite quantity of the means of subsistence. It therefore varies with the value of these means or with the quantity of labour requisite for their production” (Marx 1939 [1867]: 172). As British workers responded to the availability of products such as tobacco, tea, and sugar, and later, even more intensely to their declining prices, they consumed more and more of them. Overall, they exchanged smaller and smaller quantities of their earnings for larger and larger quantities of these and like commodities. I have tried to suggest that the dietary and physiological consequences of this were mixed; it is certainly an open question whether all of such consequences were in the workers’ best interests. As an interesting sidelight to this process, the development of exact and interchangeable measures of both substances and human effort in the same caloric terms gave new meaning to Marx’s concept of labor power: a unit of work could be expressed exactly as a unit of sugar (in caloric terms), and vice versa. It seems unlikely that this exact rendering of the “weight” or “mass” of labor power, developed as part of the science of nutrition at the turn of the century, was not fully understood at an earlier time by some of those same sugar enthusiasts whose words have been quoted here. The relationship between nutrition and disciplined effort may have been learned first on the Caribbean sugar plantations, in fact (as was so much else about labor exaction), before its refinement in the free labor markets of Europe itself.
+
+			Turner comments: “There is a prima facie case for believing that a dietary ‘calling’ to discipline the body by reference to a religio-medical regimen would have been compatible with a spirit of capitalism” (Turner 1982: 27). Turner hypothesizes some “elective affinity” between diet and the rise of capitalism, but has in mind something both more abstract and quite differently generated from my line of argument here.
+
+			 29. Forster 1767: 41.
+
+			 30. E.g., Gilboy 1932; McKendrick, Brewer, and Plumb 1982.
+
+			 31. Dowell 1884: 32–33.
+
+
+5. Eating and Being
+
+			 1. No mystery here. In the developed countries, sucrose contributes a bigger share of calories to the total food intake of the poor than of the rich. Statistical support for this assertion is weak; but no one seems prepared to contradict it. Sucrose is commonly rationed in the West in wartime, in part because it is usually imported (except for beet sugar in some countries) and its flow may be interrupted, in part because it is politically wise to ensure that everyone gets at least some of what there is. But for those for whom it may compose up to perhaps as much as 30 percent of total caloric intake (Stare 1975), response to its virtual disappearance from the market parallels the response to scarcities of alcohol, tobacco, and the stimulant beverages.
+
+			 2. “I know not why we should blush to confess that molasses was an essential ingredient in American independence,” wrote John Adams in 1775. “Many great events have proceeded from much smaller causes.” The thirteen colonies were voracious consumers of molasses and of rum, manufactured from molasses. Only after the Revolution, and gradually, did Americans give up their preference for molasses, rum, and tea, to replace them in large measure with maple syrup or corn syrup, whisky, and coffee. Sugar consumption rose very sharply in the nineteenth century. On rum and molasses in the British imperial trade, see Sheridan 1974: 339–59.
+
+			 3. Bannister 1890: 974.
+
+			 4. Material for a dozen different books, perhaps—but not this one. Robert F. Smith’s The United States and Cuba: Business and Diplomacy, 1917–1960, is one of many serious studies of American power that touch on the place of sugar in the development of our foreign policy. But the book that does the same generally for sugar and the activities of the U.S. Congress is yet to be written.
+
+			 5. Sheridan 1974: 24–25.
+
+			 6. Shand 1927: 45. The passage can be found in translation in Brillat-Savarin 1970 [1825]: 101.
+
+			 7. Of course many unanswerable questions arise from such a conjecture. But probably most sophisticated persons in the West would rank both French and Chinese cuisines highly, and both stand in contradistinction to, say, American or British or German cuisines in their use of sugar—whether in terms of gross quantities, sugar’s position in the sequence of dishes, or its forms of use. To advance the conjecture even more unreliably: sweetness is more often unexpected in Chinese and French cooking than in the other cuisines, and there is altogether less of it. Readers should not be misled by the drama of sweet and pungent dishes in Chinese cooking, or by French pastries. Consumption figures are markedly lower in these two countries, though the gap is closing rapidly.
+
+			 8. “For approximately 50 years or more, sugar has provided 15 to 20% of total calories in the average U.S. diet. . . . Studies of actual intake among individuals suggest that the percentage of calories taken as sugar is higher during the growing and adolescent years, when energy demands are high, and lower during adult and later years. . . . The usual range of sugar intake may therefore be between 10 and 30% of total calories, with the average at 15 to 20%. There being no valid evidence to the contrary, this rate of sugar intake may be considered moderate, and can probably be exceeded somewhat without overstepping the bounds of moderation” (Stare 1975: 240; emphasis added). Professor Emeritus Frederick J. Stare, M.D., is not to be confused with Dr. Frederick Slare, the eighteenth-century champion of sugar cited frequently in this book.
+
+			 9. Hagelberg 1974: 10 ff.
+
+			 10. Ibid.
+
+			 11. Stare 1948. 1975. Comparisons of this sort are inevitably inexact, since crop-yield figures are highly variable and cannot be averaged without introducing serious distortions. Nonetheless, the high caloric yield of sugar under the best conditions, relative to any other crop, and its amazing return of energy to the environment, make it a spectacularly efficient food.
+
+			 12. Hagelberg believes that world consumption of noncentrifugal sugars is not falling, though he concedes that consumption of “direct consumption white” sugar is rising, particularly in the world’s urban areas. There is more to the argument than I can deal with adequately here.
+
+			 13. Timoshenko and Swerling 1957: 235. The rise of the European beet-sugar industry, they write, provides “the earliest example of the market for an important tropical product being seriously eroded by the application of modern scientific methods in relatively advanced countries” (quoted in Hagelberg 1976: 13). This has happened with other tropical products since.
+
+			 14. Page and Friend 1974: 100–3.
+
+			 15. International Sugar Council 1963: 22.
+
+			 16. Wretlind 1974: 81; Hagelberg 1976: 26.
+
+			 17. Stare 1975; see note 8.
+
+			 18. Wretlind 1974: 84.
+
+			 19. Cantor 1978: 122.
+
+			 20. Cantor and Cantor 1977: 434.
+
+			 21. Page and Friend 1974: 96–98.
+
+			 22. Recall once again that these are disappearance figures; and that the average consumption says nothing about probable differences in individual intake, or differences among economic, social, regional, racial, and age groups. Reliable data on this problem, if we had them, could prove immensely important in future policy-making.
+
+			 23. The sugar-fat relationship has many facets; I intend to return to it in a later publication. The pioneering paper by Cantor and Cantor (1977) raises many of the relevant issues.
+
+			 24. Douglas 1972: 62.
+
+			 25. A “full-time household manager who lives with her family in Minneapolis,” Linda Delzell tells us in her article in Ms. (entitled “The Family That Eats Together . . . Might Prefer Not To”), says that her family’s members are each in charge of their own nutritional needs since she quit planning and preparing meals three years ago. “David, 13,” she asserts, “survives on cereal, milk, peanut butter, raisins, frozen pizza, orange juice, and McDonald’s hamburgers, fries and shakes. At times I am almost certain that he will turn into a pizza,” she adds, “but he’s five feet nine and a very sturdy athlete” (Ms., October 1980). Delzell says her family could have arranged to eat together “with long-range planning, sacrifice of individual interests, sophisticated schedule juggling, or if need be, force. But all that came of it when we tried was strong resentment on the kids’ part, added pressure on my husband, and frustration for me. The change in our lifestyle has meant that we have more time to spend together—though not at meals—and are more relaxed.”
+
+			 26. To impute the apparent feeling of a chronic shortage of time that most persons have in modern society to the intention of anyone is not my purpose here. But it seems to me at least possible—likely, even—that those who run a society so bent on “discovering” new consumption needs will have little interest in finding time for their satisfaction.
+
+			 27. The example is borrowed (with some vulgar amendments) from Linder 1970, whose book deserves much more attention than it has received.
+
+			 28. Though this is a subject that may seem remote from the history of sugar, my contention is that time and sucrose are closely linked. The classic paper by Edward Thompson (1967) comes to mind in this connection, as does the late Harry Braverman’s work (1974). But anyone seriously interested in these connections must inevitably return to Karl Marx’s concepts of commodity fetishism and alienation.
+
+			 29. Page and Friend 1974: 100–3.
+
+			 30. Fischler 1980: 946.
+
+			 31. Cantor in lit. 5/1/80. Cantor (1975) discusses some of these issues.
+
+			 32. Pyler 1973.
+
+			 33. Sugar Association n.d. (1979?): 9.
+
+			 34. Reports of research on a calorieless “sugar” began appearing in the daily press around 1980. But the rapid increase in the use of high-fructose corn syrup and the commercial development of low-calorie “Nutra-Sweet” (phenylalinine) have attracted more attention in the sweetener field in recent years.
+
+			 35. Cantor (1981) projects a significant increase in the proportion of the market held by corn sweeteners before the end of the century:
+
+			 				 					 					 					 					 					 				 				 					 						 						 							1965
+
+						 						 							1967
+
+						 						 							1980
+
+						 						 							1990
+
+
+
+					 						 							Beet
+
+						 						 							25.5
+
+						 						 							22.9
+
+						 						 							20.5
+
+
+
+					 						 							Cane
+
+						 						 							59.6
+
+						 						 							61.9
+
+						 						 							46.3
+
+
+
+					 						 							Corn
+
+						 						 							13.3
+
+						 						 							14.0
+
+						 						 							32.1
+
+						 						 							(47.5)
+
+
+
+					 						 							Sucrose
+
+						 						 							85.2
+
+						 						 							84.8
+
+						 						 							66.8
+
+						 						 							(52.5)
+
+
+
+				 			 			 36. “The interconversion of one material to another for taste, economic advantage, status or other specific reason dominates our development activities. . . . The food and associated industries to an astonishing degree are involved in a vast (food) culture transfer—another kind of conversion” (Cantor 1969). Cantor 1981 provides an updated presentation of the interconvertibility concept.
+
+			 37. Cantor 1981: 302.
+
+			 38. This argument can be linked to the sugar-fat combination noted earlier, and to the odd but apparently real link between sweetness and sexuality. Though I will return to this theme in later work, it may be worth suggesting here that I believe these advertising adjectives contrast along symbolic lines associated with culturally conventionalized male-female differences.
+
+			 39. Cantor and Cantor 1977: 430, 441.
+
+			 40. Ibid.: 442.
+
+			 41. Barthes 1975: 58. Lindsy van Gelder, in the December 1982 issue of Ms., bemoans the ubiquity of food, particularly for those in urban environments who wish both to diet and to see their friends: “There aren’t an awful lot of places in New York City where an adult and child can sit down together after 5 P.M. without a sugar bowl in between them and a waiter hovering nearby.” Her article, entitled “Inventing Food-Free Rituals,” contrasts nicely with Delzell’s abdication as family cook (see note 25): Delzell can’t cook for her family and feel free; Van Gelder can’t figure out how to see her friends without eating.
+
+			 42. Cantor and Cantor 1977: 442–43.
+
+			 43. Tiger 1979: 606.
+
+			 44. Ibid.
+
+			 45. The proliferation of impersonal (machine-dispenser) food outlets encourages the use of sucrose, which can increase shelf life and reduce the frequency of servicing, for instance. On reading this material, a colleague at a large American university wrote: “To gain space and save money the administration removed a large bank of milk, juice and yoghurt machines from a snack bar in the library, converting the room into a study hall. When students complained, they added vending machines in adjacent buildings. But the new vending machines are all for candy, barbecue-flavored potato chips, cheese–peanut butter atrocities, etc. My sense of it is that the latter machines are stocked very infrequently, in contrast to the others, which required daily stocking and refrigeration. Presumably here sugar’s preservative and processing virtues are particularly important. And the consequences are interesting—while milk and yoghurt might be used as complements to a sandwich brought from home (as was my custom), their replacements have no role in a meal at all.”
+
+			Overseas, the penetration of the nonwestern world by cold stimulant beverages provides different interruptions of meals and schedules. In much of the former British colonial world, the replacement of tea by Coca-Cola has an interesting symbolic weight: most of that world had first been converted to hot tea, a century or two ago, and its “retransformation” bespeaks American power. In the Soviet Union and the People’s Republic of China, the growing success of cold stimulant beverages carries a similar meaning. The number of beverage salesmen who have become makers of foreign and military policy or journalistic commentators upon such policy, such as Weinberger and Safire, makes one think. See, for instance, Louis and Yazijian 1980.
+
+			 46. Ortiz 1947: 267–82.
+
+
+
+
+

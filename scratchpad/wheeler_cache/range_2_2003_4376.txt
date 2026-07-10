@@ -1,0 +1,2374 @@
+                              CHAPTER 4
+
+                          Stratigraphy
+
+In the last chapter reference was made to a number of ways, some of
+them very familiar ones, whereby an approximation to absolute
+chronology can sometimes be extracted from undocumented archae-
+ological material. Such absolute chronology is essential alike to the
+appreciation of the varying tempo of human achievement, and, above
+all, to the establishment of the cultural inter-relationships which help
+to rationalize human ‘progress’. But in much of our archaeology
+fixed time-points are intermittent and chancy. More usually, the
+archaeologist must be content to establish the relative sequence of his
+evidence, to ensure that, however ill-focused, his perspective is essen-
+tially correct. Therein lies his primary duty: to secure beyond doubt
+the orderly succession of the vestiges with which he deals, even
+though, in any given phase of research, he may be compelled to leave
+finer adjustment and interpretation to his successors. To come at
+once to the core of the matter, his first task as an excavator is with
+stratification.
+  In picturesque fashion, Mrs Jacquetta Hawkes has had something
+to say of the Law of Stratification. It is as simple, she remarks, as
+gravity, as falling down stairs, and is indeed rather like that. There
+follows a little fantasy which I abstract from her text.
+
+   If[she says] instead of one apple falling on the head of Sir Isaac Newton
+a heavenly orchard had let tumble a rain of fruit, one of the greatest of
+men would have been overwhelmed and then buried. Anyone examin-
+ing the situation afterwards in a properly scientific spirit, clearing the
+apples layer by layer, would be able to deduce certain facts. He would
+be able to prove that the man was there before the apples. Furthermore,
+that the blushing Beauty of Bath found immediately over and round Sir
+Isaac fell longer ago than the small swarthy russets that lay above them.
+If, on top of all this, snow had fallen, then the observer, even if he came
+from Mars where they are not familiar with these things, would know
+that the apple time came before the snow time. Relative ages are not
+enough [Mrs Hawkes adds], the observer would want an absolute date,
+
+                                    56
+                            STRATIGRAPHY
+
+and that is where Sir Isaac comes in again. An examination of his clothes,
+the longskirted coat, the loose breeches and the negligent cut of his
+linen, the long square-toes pointing so forlornly up to the sky, would
+date the man to the seventeenth century. Here would be a clue to the
+age of the apples and the snow.
+   In more prosaic sense, this term stratification has already appeared
+here and there in the previous chapters and will remain a recurrent
+theme. It was long understood by geologists before it became the
+commonplace of archaeology. The protagonist in the geological use
+of the term was William (‘Strata’) Smith who, in 1816, began the
+issue of a work entitled ‘Strata Identified by Organized Fossils’, and
+thereby opened up new geological profundities and successions.
+With so long and familiar a history behind it, it is unnecessary to
+enter here into any detailed exposition of the stratigraphical principle,
+but, for completeness’s sake, I will briefly recall the nature of its
+application to archaeology.
+   In this context, its principles are — in theory, at any rate — simple
+enough. The human occupation of a site normally results in the
+accumulation of material of one kind or another on and about the
+area occupied. Objects are lost or discarded and become embedded
+in the earth. Floors are renewed and old ones buried. Buildings
+crumble and new ones are built upon the ruins. A flood may destroy
+a building or a town and deposit a layer of alluvium upon its debris;
+and later, when the flood has subsided, the levelled site may be re-
+occupied. Sometimes, the process is in the reverse direction: evidences
+of occupation may be removed, as in the deepening of an unsurfaced
+street by traffic, or the digging ofa pit for the disposal of rubbish or for
+burial. At Sabratha in Tripolitania, a Roman temple was found in
+1948 to have been rebuilt at a lower level than its predecessor on the
+same site, through an intentional lowering of the whole temenos at
+the time of rebuilding. In one way or another, the surface of an
+ancient town or village is constantly altering in response to human
+effort or neglect; and it is by interpreting rightly these evidences of
+alteration that we may hope to reconstruct something of the vicissi-
+tudes of the site and its occupants.
+   As it happens, the first recorded instance, so far as I am aware,
+of the observation of archaeological stratification related not to an
+                     1. A Land (London, 1951), p. 26.
+
+                                    Di/
+              ARCHAEOLOGY           FROM     THE    EARTH
+
+occupation-site but to a burial-mound. At the time when the episode
+occurred, the word stratification, in the sense in which I have just used
+it, was not yet in circulation, but the elements of the matter were
+precociously appreciated by that remarkable man, Thomas Jefferson,
+whose major title to fame is, I suppose, that he was third President
+of the United States and an author of the Declaration of American
+Independence. For us he may rank in the lesser but not negligible
+role of the first scientific digger. His sociological interests were wide;
+in particular, as governor of Virginia, he concerned himself with the
+problems of the Red Man and the Negro, and in the course of his
+studies he became interested incidentally in certain ‘barrows of which
+many are to be found all over in this country’ (i.e. Virginia). One of
+them, situated ‘on the low grounds of the Rivanna, about two miles
+above its principal fork, and opposite to some hills, on which had been
+an Indian town’, he opened in order to satisfy himself of the correct-
+ness of opinions and traditions relating to these mounds. His report is
+a testimony to his careful observation:
+   Appearances certainly indicate that it [the mound] has derived both
+origin and growth from the accustomary collection of bones, and the
+deposition of them together; that the first collection had been deposited
+on the common surface of the earth, a few stones put over it, and then
+a covering of earth, that the second had been laid on this, had covered
+more or less of it in proportion to the number of bones, and was then
+also covered with earth, and so on.
+  These facts caused him to reject two notions: first, that the mound
+covered only bones of those slain in battle (not a single weapon-
+wound was found); and secondly ‘that it was the common sepulchre
+of a town, in which the bodies were placed upright, and touching
+each other’. He remarked that a few stones found in the mound were
+“brought from a cliff a quarter of a mile off, and from the river, one-
+eighth of a mile off’. He also recorded that infants were buried there,
+since a rib of an infant, part of the jaw of a child which had not cut
+its teeth (the right half of the under jaw), etc., were discovered.
+   All that, be it noted, was in 1784, and I have therefore thought it
+worth while to relate the episode at some length. Let us consider the
+   1. T. Jefferson, Notes on Virginia (8th ed., 1801), pp. 142~7; account here
+derived from A. F, Chamberlain in The American Anthropologist, ix (1907),
+499 f.
+                                     58
+                          STRATIGRAPHY
+
+contents of Jefferson’s clear and concise report. He describes the situa-
+tion of the mound in relation to natural features and evidences of
+human occupation. He detects components of geological interest in
+its materials and traces their sources. He indicates the stratigraphical
+stages in the construction of the mound. He records certain significant
+features of the skeletal remains. And he relates his evidence objec-
+tively to current theories. No mean achievement for a busy statesman
+in 1784!
+    Unfortunately, this seed of a new scientific skill fell upon infertile
+ soil. For a century after Jefferson, mass-excavation remained the rule
+ of the day. In Chapter 2 the successive layers in the soil, in other words
+ stratification, were compared to the successive pages of a book. The
+ analogy is essentially a true one, and includes the corollary: a prime _
+ condition of intelligibility is that the layers, like the pages, shall be
+ brought to our eyes reasonably intact and in proper sequence. Of
+ course, mass-excavation has not always been devoid of all merit. In a
+“rudimentary stage of research, it may help to point the way and stimu-
+ late advance along it. We may be grateful to Schliemann for plunging
+ his spade into Troy, Tiryns, and Mycenae in the seventies of the last
+ century, because he showed us what a splendid book had in fact been
+ buried there; but he tore it to pieces in snatching it from the earth,
+ and it took us upwards of three-quarters of a century to stick it more
+ or less together again and to read it aright, with the help of cribs from
+  other places. On a smaller plane, I remember my gratitude in 1944 to
+ certain ardent but highly unskilled French antiquaries at Pondicherry
+ in south India for scraping up a heterogeneous mass of material from
+ an ancient site because, although they knew it not, their spoliation
+ showed that the site contained imported (and dated) Arretine pottery
+which subsequently, by more        orthodox methods, enabled us to
+determine the first archaeological datum-line in pre-medieval south
+India. But the accidental benefits conferred on us by our Pondicherry
+friends, or even by Schliemann himself, are no longer a valid excuse
+for archaeological illiteracy. To-day, the digger must learn to read his
+sections, or he should be constrained from digging.
+   In practice, the identification and correlation of the strata or layers
+which represent the successive phases in the archaeological ‘history’
+of a site is one of the principal tasks of the excavator and will occupy
+the major portion of his time. So important is this task that, at the tisk
+                                    59
+              ARCHAEOLOGY           FROM     THE    EARTH
+
+of wearying the reader either with the excessively unfamiliar or,
+more likely, with the excessively familiar, it would be wrong to
+forbear from certain rather arid technical details. The task is one
+which involves clear and logical thinking reinforced by experience
+and infinite patience. Normally, the strata are differentiated by
+variations in colour or material or content. Not infrequently, how-
+ever, these variations, particularly under the bleaching influences of
+an African or Asian sun, present difficulty even to the experienced eye:
+so much so that more than one archaeologist who ought to know
+better has denied the presence of stratigraphy (in the Western sense of
+the term) on Eastern sites. “Thete was no clear stratification’, writes a
+well-known American archaeologist with reference to a Palestinian
+site, “during a good part of the period covered because there was no
+complete destruction and rebuilding at any one time.” This, of
+course, is nonsense; by ‘stratification’ the writer quoted means merely
+“continuous building-levels’, oblivious of the no less important layers
+which on any site may be expected to supplement and interrelate
+phases of actual construction. The fact is that the observer had simply
+failed to obsetve. There are in practice various ways and means of
+dealing with the reluctant, sun-baked section of the Orient, or indeed
+with many sections in the West. Damping, and careful scraping with
+a knife or turf-cutter, will often provide the remedy by bringing out
+the more subtle variations of colour or material. Observation in
+different lights at different times of the day may help. In a difficult and
+important section, observation may be continued over a period of
+days before certainty is reached. And finally an attempt must be made
+to ‘read’ the section — to discriminate, without prejudice, between
+the more significant and the less significant differentiations of strata:
+for example, between a mere ‘tip-line’ in a continuous accumulation
+on the one hand and a substantive and emphatic occupation-level
+on the other. It is not enough to identify layers, although that is, of
+course, the essential first step; it is the task of the archaeologist to
+interpret.them, to understand the sentence as well as to transliterate it.
+   On this all-important question of interpretation something more
+must be said, always with the proviso that the written word is no
+sort of substitute for field-experience. The most that the professor
+   1. C. C. McCown, Tell en-Nasbeh, excavated under the direction of the late
+William Frederic Bade (Am, Sch. of Or. Res., 1947), i. 10.
+
+                                     60
+                            STRATIGRAPHY
+
+can do is to offer such hints or warnings as shall create in the mind of
+the student a healthy wariness and a proper regard for trifles. Let us
+take once more as our theme the first and universal question. of which
+something was said in the preceding chapter: What is the time-value
+of archaeological strata: How long did it take, say, 4 feet of stratified
+deposit to accumulate? A very searching and important question, well
+worthy of the most careful consideration: if we could always answer
+it, half our battle would be won.
+  Reference has already been made to a famous lead which geology
+has given us by the recognition of the varved clavs of Sweden (and
+elsewhere) as the annual deposits of the retreating ice, and as the
+time-table, therefore, of a related human phase. But it is rarely, in all
+conscience, that geology deals with us so straightforwardly; whilst
+man-made strata are capable of every sort of perversity. Some of
+them, indeed, are of no chronological import whatsoever, and, as in-
+structive disturbers of all faith, these nonentities shal] be considered first.
+   It has been my practice, from time to time, to persuade my students
+towards the end of the day’s work to cut a section through the dump
+which is the outcome of their digging. They normally discover, as is
+ to be expected, that the section thus cut is replete with stratification —
+tip-lines, streaks of variant soil, a miscellany of the materials through
+which they have been working in the course of the day. Nothing is
+‘more calculated to disturb their faith in the time-significance of
+stratification. Here, in front of them, is the variegated accumulation
+of a few hours; how is that to be reconciled with the interpretation
+of the adjacent strata below ground in terms of centuries?
+   In theory the answer is difficult, in practice it is usually easy. It will
+often be found that certain of the strata cease towards one end or both,
+in such a fashion that the underlying and overlying layers unite to
+clasp them and hold them within a uniform mass, as it were in
+suspension — a sufficient proof of contemporaneity. A succession of
+layers may join up laterally, like fingers extended from the palm of
+the hand, essentially integral therefore with one another in substance
+and date. Very rarely do deposits of this sort consistently ape a pro-
+longed and systematic accumulation. On the other hand, they present
+a warning: a selected portion of them may be found to simulate a
+consistent and logical sequence, and so serve to point the danger of
+argument from small sections. Fig. 8 shows a problem of this kind,
+                                      6I
+                    ARCHAEOLOGY                               FROM          THE        EARTH
+
+solved on the right by an extension of the section. It should in any
+event be axiomatic that no chronological sequence can be regarded
+as established securely on the basis of a single section.
+   A good archaeological instance of the insignificance of stratification
+is provided by many of the storage-pits cut by Early Iron Age farmers
+round about their dwellings, particularly on the chalk-lands. After
+being used for a time for the storage of farm-produce, these pits were
+liable to ‘turn sour’ and were summarily filled up with any material
+
+
+
+                                                                                                 "                Oat
+                    o           ST            NAS       See        Wy       &          Se                afte.            ws
+wis, Sy                   Win            oD                                       o             —_                  Me
+               Aw                         x                                                                           =
+
+
+
+aa              a,              ie                  =                   S         Ah       Qa   airs    =        Se aaa
+                    We   oF                   . We.                Ss   we        z    r        Re     e OW
+af,       GS
+                                     =            PLelts           pe
+                    zs                        .
+
+
+MMMM                             SAL
+VATED     LLL            LEE         (6)
+                                              eS
+                                               se
+
+Riker          ens Oe ee) Ss                                        UE          Bs33 7 eS an
+SCT                       EEA                                 OW AA                                  NVABAw
+pees erent nese atok a                                              a
+Fig. 8. Section illustrating (a-B) an apparent succession of strata (3-7), shown
+by an extension of the cutting (B-c) to have been deposited simultaneously
+
+which happened to be nearby. The result is often a strikingly varie-
+gated filling, of which the stratification bears no relation to time-
+sequence. In other words, the first rule about stratification is that there
+is no invariable rule.
+   The opposite danger to the over-emphasis of what may be called
+‘accidental’ and contemporary features is the under-emphasis of time-
+values: the assumption that a succession of strata have accumulated
+continuously whereas in fact they represent an intermittent growth,
+with one or more time-gaps. Thus the original excavator of Gezer in
+Palestine in 1902-9 hopelessly telescoped the Iron Age chronology of
+Palestine through a failure to recognize a gap of some five centuries
+in the occupation of his site. The mistake was gradually rectified,
+years later, by the evidence of other excavations, but for a time it
+
+                                                              62
+                           STRATIGRAPHY
+
+completely upset the dating of these centuries in Palestinian archae-
+ology. How is a misjudgement of this sort to be prevented? This
+question is manifestly important and deserves careful consideration.
+   There is no single answer to the question, but at least two criteria
+are feasible, and either or both must be considered in the interpreta-
+tion of a section illustrating more than one cultural phase.
+   The first criterion is the nature of the soil at the point of junction
+between two cultures. An interruption in the occupation may here
+be represented by a layer of wind-blown or water-borne sand, or by
+the debris of turf or other vegetation. On a Dorset site, a dark layer
+separated the Early Bronze Age from the Early Iron Age, and this
+dark stratum was diagnosed on analysis as ‘brown-earth soil devel-
+oped on a subsoil rich in chalk. It evidently means a gap in the occu-
+Sation and a covering of the hill with woods’ - in fact, a gap of a
+thousand years or more. A mere 4 or 5 inches of brown soil, com-
+pressed for more than twenty centuries beneath a rising canopy of
+trampled earth tell us all that, and hint at changes of climate and water-
+table which for a thousand years diverted family-life to more homely
+lowlands. A subtler example comes from Hadrian’s Wall, from the
+filling found by Mr Gerald Simpson and Professor Ian Richmond
+in the ditch of the Vallum where it was locally superseded by the
+Roman fort at Birdoswald, in Cumberland. The problem was to
+ascertain how long the Vallum ditch was open at this point before
+the fort was built over it, and investigation was therefore made on a
+vertical section of the material now filling the ditch. The result, as
+reported by Dr Kathleen Blackburn, of the Department of Botany
+in King’s College, Newcastle upon Tyne, settled the matter and is
+worth quoting. It is as follows:
+  Above the yellow silt of which the bottom (of the filling) was com-
+posed were deposits of peat, which varied in thickness in different sec-
+tions and were obviously composed of lumps of peat put in by hand...,
+An investigation of the material from the floor of the ditch showed little
+organic matter, and no traces of the dark coloration which is the usual
+product of organic decay. What little remains were present consisted
+very largely of weed seeds: the majority of these were of the Knot-grass
+Polyponum aviculera), but examples were also found of Chickweed
+Stella media) and of a buttercup, which was probably Ranunculus acris.
+These seeds were in perfect preservation, probably due to the preserving
+                                   63
+              ARCHAEOLOGY            FROM     THE   EARTH
+
+action of the water draining from the peat immediately above. Such a
+flora as these seeds suggest is one which would only be found on newly-
+disturbed ground. From this, and from the absence of organic remains,
+I think we may assume that the ditch could only have been open a year
+or two before the re-filling with the peat.?
+
+The ditch of the Vallum was therefore deliberately blotted out of
+existence here (for the accommodation or extension of the fort)
+almost immediately after its creation - a conclusion of revealing
+lucidity and of a notable importance in the historical diagnosis of
+the frontier-system. Similar evidence was recovered nearby from the
+ditch of the Turf Wall where it underlay the fort, showing that the
+fort was built across it with no appreciable intervening period — again
+a ‘historical’ inference of the highest value.
+   Even without analysis, careful observation under favourable con-
+ditions may reduce stratification to terms of a precise chronology,
+occasionally comparable with that of the famous varved clays. Two
+examples, one from England and one from Iraq, have been cited
+above (p. 45); and time-gaps and even time-spans may thus on occa-
+sion be identified in a number of ways, provided by the close observa-
+tion of weather-worn or overgrown surfaces and, above all, by soil-
+analysis. But suitable phenomena or facilities are not always present —
+though the latter at least should be available to a modern excavation.
+There is, in any event, another approach to the problem, and the
+best way to describe it is by illustration.
+   In 1947 I was digging a town-site on the Mysore plateau in south
+India, in the vicinity of an undated Iron Age megalithic cemetery,
+with a view to the correlation of the culture of the cemetery with one
+or other of the phases of the town. In fact, the sections through the
+town-site revealed three successive and quite different cultures, of |
+which the middle one was that of the cemetery. For the understanding
+of the sequel I must burden you with names. The topmost culture
+was known as ‘Andhra’, from the name of a local kingdom, the
+middle culture as ‘Megalithic’, since it was also that of the local mega-
+lithic tombs, and the lowest as ‘Stone Axe’, from its characteristic
+product. Of the three, the only datable culture was the Andhra, which
+  1. Trans. Cumberland and Westmorland Ant. Soc. (N.S.), xxix (Kendal, 1929),
+308.
+
+                                    64
+                           STRATIGRAPHY
+
+could be ascribed mainly to the first century A.D. The problem was to
+relate the other two cultures to this and so, for the first time, to obtain
+some sort of chronology for them.
+   For this purpose it was obviously of cardinal importance to ascer-
+tain whether the three cultures formed a continuous succession or
+whether they were divided from one another by time-gaps. Examina-
+tion of the sections failed to reveal any intervening weathered or
+exposed. surfaces; and indeed, had there been such surfaces, laboratory
+ facilities for their analysis were not available in India. Accordingly,
+recourse was had to other types of data. In one instance, chance
+played happily into our hands: a pot-burial of the distinctive Stone
+Axe type was found inserted into the lowest overlying stratum of the
+megalithic culture, implying a co-occupation by the two cultures at
+this point. But even without so incontrovertible a demonstration of
+continuity, the matter was set at rest by what I may call the actuarial
+analysis of our sections. Such actuarial analyses should, in my view,
+be made more frequently than they are, and the Mysore example may
+therefore be described in some detail. Briefly, the method was this.
+  In an extensive cutting, chosen as free from complication in the
+form of intrusive pits or structures, a careful register was kept, layer
+by layer, of every potsherd found, and the results were tabulated
+(Figs. 9-10 and Pl. 3). Fortunately the fabric and technique used by
+‘the three cultures were so distinctive from one another that their
+ classification was beyond doubt; the pottery of the Stone Axe people
+ being coarse, hand-made stuff, that of the Megalithic folk being a
+ polished and beautiful black and brown and turned slowly if at all,
+ that of the Andhra at the top being turned more mechanically on a
+ fast wheel and otherwise elaborated with glaze and patterning. Now
+ the table shows a substantial overlap, running through three succes-
+  sive layers, between the Stone Axe and the Megalithic series, fol-
+ lowed by a similar overlap between the Megalithic and the Andhra
+ series. In estimating the significance of these very substantial overlaps,
+ due allowance must be made for the fact that, from a variety of causes,
+ the subsoil is always in a state of less or greater movement. Animal
+ and vegetable life, and climate, are constantly at work in it. Relics of
+ one stratum are always liable to find their way sporadically into
+ another and to confuse our exact minds. But the thrusting-upwards
+ respectively of 239 and 219 sherds from one culture into the next
+    Cc                                65
+                 ARCHAEOLOGY                    FROM    THE   EARTH
+
+above it in this single section is not to be thus lightly dismissed. The
+only acceptable explanation is that on neither occasion did the arrival
+of the newer culture on the site involve the immediate extinction of
+
+                                                                              SOUTH-BEST
+
+
+                  NORTH-EAST
+
+
+                           we   wg     Wh 3 <
+                                  wm
+
+
+
+  ANDHRA
+    CULTURE
+
+
+                  1
+
+. MEGALITHIC      {                             —
+    CULTU! RE     H                    STONE-COURSE Ay    +       ee          ee
+                  }      7 aeae aoa    =   mM            wy ee
+                                                    + ws Ly  I               Sisal
+                                                                       YSTIE i
+                 le  IN aoe ae                                 Sad ee              Tre!
+                  oe KG bos                                     Uf is
+                                                                Bou
+                                                                  gL
+                                                                   Y;
+                                                                    aus
+                                                                      2”
+                  SKAS
+
+
+
+                            ee
+1B. STONE-AXE     &Ow
+     CULTURE =     xX y
+    (LATER)
+
+
+
+
+                                                                              -3
+                                                                              y oe
+1A. STONE-AXE     Se                                                           co
+    CULTURE       MGao >                                                           TINGS
+    eal) |ce      i WA
+                     aGRcE        NWAAl
+
+
+
+
+Fig.9.Section from Brahmiagiti, Mysore State, India, showing three cultural
+                           phases with overlaps
+
+the older: in other words, that the cultural sequence was continuous
+and, in our estimate of its chronology in relation to the fixed point
+at the top, we can ignore the possibility of unknown factors arising
+                                                66                        :
+                                     STRATIGRAPHY
+RS
+
+              I.          Il.                                   _It.
+ Layer | Stone Axe | Megalithic                                Andhra
+     ae ,                                 .    52, mecadine I‘yellow-painted sherd
+     |                                         384, including
+                                                       ro yellow-painted sherds
+      |                                       /480,  including 68yellow-painted and
+                                                 1 rouletted sherd
+      3a                                       67
+      4       |                      36        269, including $1 yellow-painted sherds
+      5                              68        219, including to yellow-painted sherds*
+      6            26               115        405, including 7 yellow-painted sherds
+
+      7            B3)   dy!       LACT
+      8           Igo               199?
+
+      8a           36          |
+
+      8b      | 89
+
+      9           aly
+      9a          196
+
+     10            46                                                                   =
+
+     II            33
+     2            23
+     13            26
+     I4            48
+     14a           15
+     15           198                                                                Toa
+
+     16             i                                    "                           ine
+
+     17            45                                                                   ie
+es 8          &    25          |
+
+     19       | 328°.          |
+1.        In adjacent cuttings, layers equating with 5 and 6 of Br. 21, i.e. the lowest
+‘Andhra’ levels, produced 7 sherds of rouletted wate.                     f
+  2. In an adjacent cutting, the layer equating with this contained an urn-
+burial of the ‘Stone Axe’ culture:       pid’                                 :
+   3. Including 18 ‘Early Painted’ and 6 incised sherds of the IA culture, which
+this layer represents.
+  Fig. 10. Tabulation of sherds representing the three cultures at Brahmagiri
+                                  (See Fig. 9)
+              ARCHAEOLOGY          FROM    THE   EARTH
+
+from interruptions in the occupation. We are here in no danget of
+repeating the disastrous oversight of the excavator of Gezer (p. 62).
+Details of this specific Mysore example do not concern us; it will
+suffice to observe that the overlap thus demonstrated between the
+megalithic culture and the overlying first-century culture proved that
+the megalithic tombs were there in use until the first century, and so
+provided the first firm date for this very abundant category of south
+Indian structures.
+   Well, there are examples of various kinds of stratigraphical evi-
+dence: of layers that are contemporary with one another, layers that
+are separated by greater or lesser time-intervals, layers that have
+accumulated in unbroken succession. The reading of a section is the
+reading of a language that can only be learned by demonstration and
+experience. A word of advice to the student. However practised, do
+not read too hastily. Be your own devil’s advocate before passing
+judgement. And, wherever possible, discuss your diagnosis with others
+— with colleagues, with pupils, with your foreman. (“The testimony
+of one person is no testimony’, declares Hywel Dda, the wise Welsh
+law-giver.) Be humble. Do not ignore the opinion of the uninstructed.
+‘Everyone knows as much as the savant. The walls of rude minds are
+scrawled all over with facts, with thoughts.’ Emerson said so, and he
+‘was right. Even if you do not accept the views of those you question,
+the mere act of questioning is at the same time a restraint and a
+stimulus.
+   We turn now from interpretation to record. But first reference
+must be made to a method of recording that not long ago was wide-
+‘spread in the East and may in fact still survive there. If so, it is the
+‘survival of a fantastic and monstrous device evolved in the alluvial
+plains of the great river valleys of Egypt and Mesopotamia as a sub-
+“stitute for exact observation in ill-controlled ‘mass excavations’. Its'
+origin is probably to be found in Petrie’s belief that on an Egyptian
+-town-site it was possible to equate the accumulation of material with
+a specific time-scale (p. 45). The validity of this ‘principle’ was
+-doubtful and dangerous enough in its original specialized context;
+it has no place whatsoever in the general technique of modern field-
+archaeology. Yet in India, for example, as recently as 1944 it was still
+zthe only method known.                                              |
+   Briefly, it consisted of the mechanical recording of every object
+                                    68
+                           STRATIGRAPHY
+
+and structure in relation to a fixed bench-level. Thus in the excava-
+tions at the great prehistoric city of Mohenjo-daro in the Indus valley,
+In 1927-31, the records were prepared from bench-levels, in one
+area ‘178-7 ft. above mean sea-level’ and in another ‘1809 ft. above
+sea-level’, the assumption being that all objects and structures at the
+same level below (or above) datum line were in the same ‘stratum’,
+i.e. contemporary with one another! I have described this system as
+‘incredible’ and I repeat the description. So incredible is it, and yet so
+widespread, that the excavator’s own proud account of it may be
+repeated. He says:
+   In order that our deep digging might be satisfactorily carried out, an
+extensive system of levelling was necessary. The levels of every building
+and of every wall were therefore taken, especial attention being paid to
+door-sills and pavements as being for purposes of stratification the most
+important parts of a building. In addition, both the locus and level of
+every object found, whether it was regarded at the time as important or
+not, were noted in order not only to correlate each object with the build-
+ing in which it was found, but also to facilitate the study of the develop-
+ment of art and technique. As some thousands of objects were unearthed
+in the sections that we excavated, it may be thought that this procedure
+was unnecessarily laborious. This, however, was not the case. The level-
+ling instruments were set up early in the morning and remained in
+position all day; and it was quite a simple matter to take the level of
+each object directly it appeared.
+
+  It was, however, admitted that this method was not wholly free
+from complexity; that there were
+limitations to the deductions to be drawn from the levels at which
+objects are found. For instance, if a jar or a seal lies either below or at
+some distance above a pavement or door-sill, it is difficult to decide to
+what period it belongs. We, therefore adopted the rule that all objects
+found in or near the foundations of a building be assigned to the period
+of that building rather than to the previous phase, unless they actually
+rested on the remains of a pavement of earlier date; for it is more than
+probable that they were dropped or left behind when the foundations
+were being made.
+
+The chapters on the pottery and other finds in the excavator’s subse-
+juent report include page after page of elaborate but insignificant
+ables based on this procedure.
+                                   69
+                ARCHAEOLOGY            FROM     THE    EARTH
+
+   In other words, be it repeated, the so-called ‘stratification’ of the
+ Indus valley civilization, one of the major civilizations of the ancient
+ world, was dominated, not by local observation, but by the level
+ of the sea nearly 300 miles away! This mechanical classification can
+ only be categorized as the very parody of scientific method. It bears
+ little more relationship to scientific archaeology than astrology bears
+ to astronomy.
+    To appreciate its utter absurdity, we need only recall that, except
+ perhaps at the earliest level of a site (hardly ever adequately explored),
+ an ancient city in the East is never level. Very rarely is a city com-
+ pletely destroyed and completely rebuilt at one moment and at one
+ horizon, Normally, a house is reconstructed or replaced as it decays,
+ or at the whim of its owner. The town as 2 whole is constantly in a
+ state of differential destruction and construction. Individual building-
+‘sites rise above their neighbours; the town-site itself rises and assumes
+ the contour of a hill; buildings on its slopes are contemporary with
+ buildings on its summit. A doorway or a potsherd may be found at
+ one spot 10 feet below a doorway or a potsherd of precisely the same
+date at another spot. Such differences, of vital importance to the
+scientific interpretation of the site, are ironed out and obliterated by
+the bench-level. If it be necessary to illustrate further the grievous
+fallacy of this method, two diagrams (Fig. 11) may serve. They are
+self-explanatory.
+   Yet, for all the obvious absurdity of the datum-line system just
+described, the substitution of so-called ‘levels’ - whether abstract
+building levels or purely arbitrary depth-lines — for factual stratifica-
+tion dies hard. It recurs, for example, in a revised edition (1950) of A
+Manual ofArchaeological Field Methods prepared by a leading American
+university. There, as sturdily as ever, thrives the old outworn system,
+with its mechanical ‘unit-levels’, governed not by changes of soil but
+by ‘the length of the shovel-blade (6 to 12 inches)’.1 True the word
+‘stratification’ is not unknown to the authors. It represents a pheno-
+menon, they admit, which ‘may be visible in the walls of the excava-
+tion’; but, we are assured, “any stratigraphy of artifact types and
+   1. It may be noted in passing that mechanical “foot-levels’ were used as long
+ ago as 1865 by W. Pengelly, F.R.S., in the excavation of Kent’s Cavern at
+ Torquay. See his interesting MS. Journal in the possession of the Royal Society.
+ But it is sad to find the same outworn method advocated by a distinguished
+ university in 1950.
+                                       7O
+                              STRATIGRAPHY
+
+animal bones will appear after a study has been made and need not
+bother the excavator in the field’ [sic]. The notion of peeling off the
+successive strata in conformity with their proper bed-lines, and thus
+ensuring the accurate isolation of structural phases and relevant arti-
+facts, is not even considered.
+  Enough of criticism; let us turn to a more positive aspect of the
+matter. The preparation for the record of the section begins with
+the first spadeful dug. From the outset, the strata are carefully ob-
+served, distinguished, and labelled as the work proceeds. It is, of
+                                                       E x AMPLE      OF       4
+                                                  FALSE “STRATIFICATION
+                                                      BY LEVELLING
+
+
+
+
+                                                                   PRECINCT WALL
+                                                                   OF BUDDHIST
+                                                                   MONASTERY
+
+
+
+
+       3RD MILLENIUM   B.C.          1910 A.D.            282 CENTURY       A.D.
+
+
+ Fig. 11. Diagrams illustrating the stratification of a city-mound (below) and
+             the fallacy of recording by mechanical levels (above)
+
+course, as the work proceeds that ‘finds’ are isolated and recorded,
+and their record is necessarily integral with that of the strata from
+which they are derived. The supervisor must therefore make up his
+mind clearly from moment to moment as to the limits and nomen-
+clature of his strata; and his decisions, whether ultimately approved
+or modified, must be susceptible to accurate delineation, if only for
+                                      71
+              ARCHAEOLOGY          FROM    THE   EARTH
+
+ the subsequent correlation of his ‘finds’. In other words, both he and
+ the spectator or the future reader must know exactly what he thinks
+ he is doing.
+    I have found in practice that there is only one foolproof method of
+ ensuring this. The successive layers must be defined and clearly
+ labelled as they come to light. By labelling I meant the actual pinning
+ of a label by a nail or peg into the side of the trench in (preferably on
+ the top edge of) each layer. The label bears the number of the layer
+ within a circle (I reserve encircled numbers for this purpose, to avoid
+ all risk of confusion with numbers having other connotations), sup-
+ plemented by a name: for example ‘lower brown’, ‘red clay’,
+ ‘porridge’ — it matters not what, so long as a distinctive word or
+ phrase is used to emphasize and cross-check the differentiation.
+ Numbers may on occasion be erroneously duplicated, but the addi-
+‘tion of a name avoids risk of confusion. And incidentally the use of a
+ name tends to give individuality to a layer and helps the mind in a
+ pictorial reconstruction of the section.
+    Accordingly, I like to see my sections plastered from head to foot
+ with orderly arrays of labels (PI. 3), which serve three main purposes:
+ they demand clear and decisive thought on the part of the supervisor
+ who invents them, they show on the ground and on the drawing
+ precisely what his small-find labels mean, and they make it possible
+ for the director or a substitute-supervisor to understand at once the
+ diagnosis up to date. Incidentally, they enable that diagnosis to be
+ checked —- always with the proviso that any material alteration in it
+ will probably mean either a relabelling of the relevant ‘finds’ or at
+ least a recording of the original as well as the corrected diagnosis.
+ As a general guide to the young, it is wiser to insist upon the over-
+ stratification than the under-stratification of a section in the first
+ instance: it is easy subsequently to group layers and their contents”
+ but it will never be safe to subdivide them.                              |
+    Now a word as to systems of numbering. Layers or strata it is
+ obviously necessary to number downwards from the top of a cutting,
+ so that the numbers are mostly in the reverse order of accumulation,
+  the latest (topmost) layer being layer 1. This somewhat illogical
+  procedure is unavoidable since it is necessary to give layer-numbers
+  to small-finds as they come to light, without waiting for the com-
+  pletion of the section. The same disability does not apply to cultures,
+                                    72
+                          STRATIGRAPHY
+
+which emerge as recognizable entities at a later stage of the work and
+are not used for labelling purposes. Here the logical system can, and
+certainly should, be followed: namely, to number the earliest culture
+or phase as number I, with I, II, etc., in sequence above them.
+Unfortunately, usage in this matter is chaotic. A number of Meso-
+potamian and Iranian sites (Arpachiyah, Uruk, Uquair, Gawra, Giyan)
+have been numbered from top to bottom, so that, for example,
+Giyan V and Gawra XX are early, and Giyan I and GawraI are late.
+On the other hand, Sialk VI is late, and so with Nineveh, Hissar,
+Susa (new classification) and other rationally classified sites. It should
+unquestionably be laid down as standard that cultures or cultural
+phases are numbered (with Roman numerals) from the earliest to the
+latest (Fig. 9). The only circumstances which may present difficulty to
+this method is failure to reach the bottom of a site. Where this hap-
+pens, the earliest phase uncovered may not in fact be the earliest on
+the site, and therefore not truly its number I. Chanhu-daro in Sind
+is an instance of this kind, where the excavator might justify the top-
+downwards numeration, which he in fact adopted, on the plea that
+the water-table stopped him from reaching and diagnosing the lower
+levels. Interim reports on unfinished excavations may provide another
+excuse for this procedure. But in general, the answer to the difficulty
+is clear: no site should be dug unless it is sectioned and diagnosed to
+the lowest level and a complete culture-sequence recovered. Water
+should not normally be accepted as a bar; at Arikamedu in 1945 we
+had to dig 11 feet below sea-level, and this depth we achieved, with
+some difficulty it is true, but without elaborate equipment, whilst at
+Mohenjo-daro in 1950 we penetrated with the help of pumps to a
+depth of 10 feet below the water-level under peculiarly difficult con-
+ditions, and with more time could certainly have dug lower still.
+   The purist may complain that two contrary systems have here been
+recommended: the numbering of layers from top to bottom, and of
+cultural phases from bottom to top. In fact, there is no conflict what-
+soever between the two. They are both logical and practical for their
+several purposes. A nominal inconsistency is their only demerit, and
+it is of a kind that only a pedant could carp at. “Do I contradict
+myself?’ cries Walt Whitman; ‘Very well, then, I contradict myself!’
+Or recall the words of a less blustering fellow-countryman of Whit-
+man’s: ‘A foolish consistency is the hobgoblin of little minds’; and
+                                    73
+               ARCHAEOLOGY           FROM     THE    EARTH
+
+ when the magisterial Ralph Waldo Emerson opes his mouth let no
+ dog bark.
+   Our section, then, has been dug, diagnosed, and labelled. The task
+ remains to record it on paper accurately and expressively. The mech-
+ anism is simple enough. Categorically, the materials required are:
+ squared paper, a light drawing-board (three-ply wood is useful for
+ this), drawing-pins, a good HB pencil, an india-rubber, a scale-rule,
+ good thin string for the datum-line, surveying-pins (‘arrows’) or
+ 6-inch nails, a measuring-tape, clips for fixing the tape, a 5-foot rod,
+ and a plumb-bob.
+   At a convenient point, generally at the top, the string is stretched
+ firmly across the section and levelled either by means of a bubble-
+ level or by a surveyor’s level laid on the terminal points. As usual,
+ details are important. String of the best quality should be used;
+‘inferior string breaks or, worse still, stretches and sags. In any case, the
+ string should be supported on carefully levelled pegs at horizontal
+ intervals of ten feet. Moreover, to avoid errors from stretching or
+other causes, the level of the string should be checked once or twice
+during the day.
+   This string should be marked off in feet or metres or, better still, a
+measuring-tape should be stretched (not too tightly) alongside it.
+Then, at every foot or at other selected points, vertical measurements
+are taken with a weighted measuring-tape above or below the datum
+and are transferred by the draftsman, on the spot, to suitably squared
+paper.
+   As to scale, the smallest scale at which the detail of an average
+section can be adequately recorded is $ inch = 1 foot (alternatively,
+5 cm, = 1 m.), and this may be regarded as standard for large sections.
+Whenever possible, however, the larger scale of 1 inch = 1 foot
+(alternatively, 10 cm. = 1 m.) is preferable; it is more accurate, and
+better lends itself to annotation.
+   In the process of drawing the section, there is a common tendency _
+on the part of the inexperienced draftsman to exaggerate inequalities
+in the surface of a stratum, so as to obscure its general contour and           —
+character. He should be reminded that, on the normal scale of 4 inch
+= I foot, the picture will be one-twenty-fourth of the size of the —
+original. An inequality, therefore, rising actually 2 inches above the —
+average level of a stratum will, in a normal scale-drawing, vary by
+                                     74.
+                                                                                a
+                                                                                Sutmesrp-uoyoas Jo anbruypey, *c1 “Sty
+GALVILNAUsdsId                      =ATLNAOITIZLINI
+                                         “D
+                                         NOILDAS
+                                           MOS
+                                           IVWANLYN
+
+                                                                                               he    een
+                                                                                                              10S
+                                                                                                              TVUN.LVvN
+                                                                                                 A
+                                                              PLEAD
+          VL              A
+                                                                                                            BWZWil;
+
+                          MELLTIT
+                                                                                                      WMD
+
+
+
+
+                                               IEEE    TET
+                                    ELL
+          APAFOM
+                                      a
+                                    LEMS
+                                                                                      WG
+                                                                                res
+                                    181d
+                                                                           A
+                                                                           Mf
+                                                                           to
+                                                                          WM/
+                                                                                      Za
+           “ww                                        aw                  2
+           Fl o W                                     wil a           W
+   rent
+    STULRS Usd$2
+            FS
+                   OSZs
+               ARCHAEOLOGY          FROM     THE   EARTH
+
+ only one-twelfth of an inch above the level, and so will form a nearly
+ negligible break in the surface. Almost invariably the draftsman, see-
+ ing the trees rather than the wood, will over-emphasize the obstacle,
+ albeit that the feature is exceptional and misrepresents the general
+ meaning of the layer.
+    Furthermore, there is the question, not merely of the over-empha-
+sis of accidental features, but of the over-emphasis or under-emphasis
+of whole layers; resulting, in fact, in a permanent misinterpretation
+of the section. I can best demonstrate this by. three diagrams (Fig. 12).
+In diagram A, the draftsman.is assumed to have delineated the
+individual strata correctly and fairly, with reference to his horizontal
+datum-line. But this delineation, although indicating the presence of
+strata, does little or nothing to indicate their varying character and
+significance. It is an almost meaningless collection of lines - a proces-
+sion of letters not yet divided into words. A more ambitious drafts-
+ man may attempt to indicate something of the individuality and
+ diversity of the strata, and diagram B illustrates such an attempt. This
+fails in two main respects. First, the general evenness of tone through-
+ out the section produces the unmeaning monotony of a sentence
+spoken without inflection, and so fails largely to convey the intended
+impression. The draftsman has not realized the varying significance
+of the facts which he is recording; he has again failed to see the wood
+for the trees. Secondly, he has not realized that his rendering is not,
+or should not be, merely a transcription of accurately measured or
+even accurately emphasized lines: it is, or should be, also an accurate
+picture of what he sees. Not only should lines of demarcation be
+transcribed from measurement, but also the size, shape, and position
+of brick-bats, bones, sherds or other materials which, by their char-
+acter and quantity and by their ‘angle of rest’ in the soil, combine to
+indicate the nature of a stratum and the method of its accumulation.
+An intelligently drawn section is far more than a diagram; it is, as I
+say, a picture, representing not merely the skeleton but also something
+of the vital flesh and blood of its subject. Diagram C is diagram B
+corrected in this sense.
+   It must be confessed that a well-drawn, i.e. intelligently recorded,
+section is relatively a rarity. But it is nevertheless a basic necessity of
+modern field-work. The published sections are the readiest index of
+the value of an excavation-report
+                                    76
+                                STRATIGRAPHY
+
+   In these diagrams, and elsewhere, I have used certain symbols for
+the easy conventional representation of different types of soil or
+deposit. They have no special merit but are reasonably expressive.
+Some measure of standardization in the choice of symbols would be
+useful but has not yet been attempted in Britain. (See, however,
+Fig. 13.)
+
+                          SYMBOLS
+                   Be Reso                   TONS
+
+EURNT BRICKS
+                                                               YELLS yy
+                                                               MLLLLLILSED
+                                           ASH                 UM iiss
+                                                               VA
+
+MUD     BRICKS                             MUDDY BANDS
+
+
+
+
+Loose EARTH        % WA W%                 POTSHERDS           3S
+with GRAVEL ete. Iy FIZ
+LOOSE    EARTH     =      ~                GRAVEL              os
+                       ths SM                                  eo
+
+
+
+
+                   Y             WY
+COMPACT    EARTH                           SAND
+                                  ——
+
+
+
+
+LOOSE     CLAY                             BRICKBATS    etc.
+
+
+
+
+                                                                    |Hi
+                                                               I
+COMPACT     CLAY                           SURFACE HUMUS |
+                                                                            aeRae
+
+
+
+  Fig. 13. Chart of symbols adopted by the Archaeological Survey of India
+               ARCHAEOLOGY             FROM           THE   EARTH
+
+   Before leaving the delineation of sections, reference must be made
+to an alternative method which was occasionally (though not nor-
+mally) used long ago by Pitt Rivers, and has from time to time found
+favour with others, amongst whom Dr Gerhard Bersu is notable
+(Fig. 14). This may be called the ‘pictorial’ method in a sense some~-
+what different from that in which I have used “picture’ in preceding
+paragraphs. The strata are not outlined (as in Fig. 12) but are, to a
+greater or less extent, differentiated from one another by what may
+
+      W               P59                               P40         E
+
+
+
+
+                                                     lelt: i
+                                                   : a
+                                           iy 1a: 1
+                       eeCA        Aaw
+                               ENS ha es      feiden
+                ed SERS
+                  be          RET
+                                      I) Rr Beats
+
+       Fig. 14. ‘Pictorial’? method of section-drawing. After G. Bersu
+
+be called a sort of chromatic shading. The result is an impression of the
+section, more akin to a photograph than to a diagram. The different
+“tones’ are not consistently framed or demarcated, nor are they
+numbered.
+  Granted that, in the hands of an artist, this impressionistic tech-
+nique has merits, it is equally plain that in the hands of one who is a
+mere delineator rather than an artist chaos will prevail. A technique
+which is beyond the reach of most excavators is, on that ground
+alone, ruled out where a workable alternative exists. The impres-
+sionistic technique cannot be defended on the grounds that it is “less
+conventional’; in its own fashion, it is no less conventional than the
+linear technique, only, it is a different convention. And it has this
+crowning disadvantage: it lends itself to nebulousness, to a blurring
+of detail and a lack of precision in diagnosis. Even some of Dr Bersu’s
+skilful drawings show this, and a less skilful performer is liable to be
+utterly lost. This is a grave defect. If I have tried to emphasize one
+thing more than another it is the need for considered precision in our
+                                      78
+                           STRATIGRAPHY
+
+work. Any medium or convention which is likely to encourage
+woolly thinking is to be deprecated: and, save at its rare best, the
+impressionistic technique is woolly. I do not commend it to the
+average worker.
+   One more detail. It is useful, in the drawing of a large section, to
+include a human figure as well as a linear scale. The figure provides
+an effortless indication of approximate size, and the saving of effort
+on the part-of the reader is worth a little extra effort on the part of the
+draftsman.
+                             CHAPTER      §
+
+          The Layout of an Excavation
+
+An ill-considered excavation is liable to develop into a chaos of pits
+and trenches, difficult to supervise and record, and often embarrassed
+by intrusive spoil-tips that eventually either control the work or are
+in a constant and costly process of secondary removal. On approaching
+an excavation, the trained observer can at a glance evaluate its effici-
+ency. It is an axiom that an untidy excavation is a bad one, whether
+the untidiness reside in the general layout or in detailed execution.
+The guiding principles are not difficult: they are ‘Have a plan’, a
+carefully thought-out scheme, and execute it in orderly fashion.
+   Two contrasted examples will illustrate this. The first (Pl. 4a) is an
+official photograph of a well-known excavation in the East, conducted
+by an archaeologist of considerable repute and long field-experience.
+Nevertheless,   a mere novice might guess, and guess correctly, that
+chaos reigns. Look at the crowded workmen, picking and shovelling
+tumultuously in all directions; the absence of a supervisor or indeed
+of any possibility of supervision; the absence also of ‘small-find’ or
+pottery receptacles; and of course a complete lack of any systematic
+identification of strata. Needless to say, the subsequent report faith-
+fully reflected this concentrated confusion.
+  The second illustration (Pl. 4b), from the same subcontinent, un-
+blushingly represents an excavation of my own, on the principle that
+the professor may properly be expected to practise. It shows a site
+neatly parcelled out in readily controllable areas; small groups of
+workmen are directed by supervisors (distinguishable in the photo-
+graph by their sun-helmets); the basket-carriers are working in
+orderly procession along clear pathways; and in the middle distance
+on the right, the survey-party is conveniently at work at a table
+shaded by an essential umbrella. The subsequent analysis and detailed
+publication of this excavation was a relatively easy task. For it is not
+the least of the merits of orderly field-work that it is easy. Every man
+knows what he is doing, and records are almost inevitably clear and
+sensible, the considered product of several pairs of critical eyes,
+                                   80
+              THE    LAYOUT      OF        AN   EXCAVATION
+
+   Plan your work, then, and methodically pursue your plan. True,
+there must always be an element of chance and of opportunism in an
+excavation, however carefully planned. But scientific digging is not
+on that account a gamble. The experienced excavator, who thinks
+before he digs, succeeds in reaching his objective in a majority of
+cases.
+   The nature of the plan necessarily depends upon the character and
+needs of the site. For purposes of discussion, we may here classify our
+problem under three categories: trial-trenching or sondages, area-
+excavation, and what I shall call substantive trenching. The excava-
+tion of burials will be considered separately (p. 113), and caves, in
+view of the slightness of my experience in their exploration, I propose
+to omit altogether; they require a monograph by one who knows.
+
+             (i) TRIAL-TRENCHING OR “SONDAGES’
+The old practice of cutting trial-trenches, of making sondages, as a
+preliminary to, or even in lieu of, area-excavation was frequently a
+substitute for intelligent thinking and clear aiming. It was to a large
+extent ‘shooting into the brown’ on the off-chance of bringing down
+a bird. Trial-trenches rarely prove anything, save of the most general
+kind. I have in mind a long and wide trial-trench cut by an eminent
+archaeologist across a famous town-site without apparent result;
+whilst subsequent systematic excavation, initiated on an altogether
+different basis,proved that the trench had in fact passed through and
+utterly failed to reveal a building of unique character. The answer on
+a site of that kind is, not a trial-trench, but a methodical area-excava-
+tion, which can always be discontinued if unproductive but at least
+reveals coherently within the area selected.
+   Trenches in general, save of the somewhat special ‘substantive’
+kind described below (p. 86), are bad for more than one reason. They
+‘mess up’ a site. Unless very wide (when they are, in effect, cumber-
+some area-excavations) they are liable at any considerable depth to
+become excessively confined and difficult to work in, their stratifica-
+tion cannot be viewed comprehensively and at adequate range, and,
+above all, lateral enlargement complicates the record to an extent
+which endangers its accuracy. At Maiden Castle in Dorset I dug the
+northern portal of the eastern entrance in 1935 by trenching, and can
+                                      81
+                  ARCHAEOLOGY      FROM    THE    EARTH
+
+still recall the appalling complexity of my record as the work pro-
+ceeded and my trenches widened. In the following year I dug the
+southern portal as an area by the ‘square’ method, to be described
+below, and both excavation and record developed easily side by side,
+without risk of error and without headache.
+   On the other hand, prejudice against trenching cannot be extended
+to sites where the preliminary problem is solely and simply to search
+for a superficially invisible structure. If a line of ancient entrench-
+ments, for example, is thought to have passed somewhere through
+a certain field, a trial-trench across the field is the obvious method of
+proving or disproving the theory, and it would be pedantry to
+protest. The example of Napoleon III’s Colonel Stoffel in this respect
+has already been cited (p. 23). The principle here advocated is that
+trenching should be employed, not as a normal method, but only
+when very special circumstances demand it. Too often does it form
+the basis of an excavation to which other methods are more suitable.
+
+                       (ii) AREA-EXCAVATION
+Ifa site is known to have been occupied, an area-excavation, not a trial-
+trench, is usually the effective answer. But let us first consider the
+pre-requisites.
+  An area-excavation must be:
+  (a) conveniently and clearly subdivisible for record and control;
+  (b) capable of easy, progressive expansion in any direction without
+      breaking down or impairing the preliminary datum-lines;
+  (c) capable of preserving for constant reference at a maximum
+      number of points complete vertical sections until the last phase
+      of the excavation;
+  (d) capable, ultimately, of easy integration into a continuously ex-
+      posed regional excavation;
+  (e) readily accessible to all points for the removal of soil, without
+      hindrance from intervening cuttings or traffic across excavated
+       surfaces; and
+  (f) sufficiently open to the sky to ensure the easy inspection of
+      well-lighted sections at all required depths.
+                                   82
+               THE   LAYOUT      OF     AN   EXCAVATION
+
+   Only one type of layout normally supplies all these needs: namely,
+a layout based upon a square (PI. 5). A series of squares, a grid, dug so
+that a balk is left between each pair of adjacent squares until the ex-
+treme end of the work, supplies all the six pre-requisites. The indi-
+vidual square is a clearly defined sub-unit for record and supervision;
+supplementary squares can be added in any direction in accordance
+with developing needs, without affecting any previous datum; the
+supervisor retains in each square (until the end of the work) a com-
+plete section on all four sides of him, together with such additional
+sections or part-sections as he may care to add within the compass of
+the square; the stratification of adjacent squares, and therefore accu-
+mulatively of the whole site, can easily be correlated and recorded
+along a number of arterial lines, so that ultimately the barriers be-
+tween the squares can be removed without loss of vertical evidence
+and the whole plan laid bare, level by level; the barriers or balks pro-
+vide ready paths of access to the various squares, and from them to
+the spoil-dumps; and the squares, unlike most trenches, are suffici-
+ently spacious to let in ample light and to provide elbow-room for
+interpretation and record.
+   Experience shows that in soils of average stability the horizontal
+dimensions of a square should approximately equal its anticipated
+maximum depth. Thus, if it is intended to dig to a depth approaching
+20 feet, the square should be laid out with 20-foot sides. This ratio
+allows for the necessary stairs and balks. Similarly, a 30-foot square
+can be dug to a depth of 30 feet, whilst a depth of 10 feet or less (the
+normal range in Great Britain) demands only a 10-foot square. The
+smaller the superficial area of the square in relation to its depth the
+better, provided always that there is ample light and working-room.
+With a due regard to these factors, a 10-foot square may be regarded
+as the minimum sub-unit.
+   These measurements include provision for the balks between
+squares. In most soils a balk 3 feet wide will carry any amount of
+traffic, and that width may therefore be regarded as standard on all
+but the shallowest sites. (For 10-foot squares a 2-foot balk is usually
+adequate.) The 3-foot balk implies that the string marking the top
+edge of the actual cutting is 13 feet within the perimeter of each
+square as pegged out; for example, the actual cutting of a 20-foot
+square will be 17 feet square, and of a 30-foot square it will be 27 feet.
+                                   83
+               ARCHAEOLOGY          FROM    THE    EARTH
+
+Similarly a 1o-foot square with 2-foot balks will be cut with 8-foot
+sides.
+  The pegged squares will form the basis of record and survey, and
+the supervisor must ensure their initial exactitude; otherwise, all sorts
+of complications and errors will arise. At each corner of the square
+a strong peg, not less than 14 inches square in scantling and 1 foot
+3 inches long, with one end pointed, is firmly driven into the ground,
+its faces set diagonally to the proposed square; but the exact corner-
+point is marked by a 2-inch nail driven vertically into the top of the
+peg and left projecting about an inch for the occasional affixture of
+string or measuring-tape in connexion with survey. On one occasion,
+where the surface-soil was too soft to hold the corner pegs with com-
+plete security, I found it worth while to have them set in concrete,
+so important are they to the accuracy of the work.
+   From these fixed points, the marking out of the actual cutting
+with string as a guide to the diggers, allowing for the necessary balk
+(see above), is a simple secondary operation.
+   The squares‘thus pegged out are conveniently named by means of
+letters in one direction (say, east to west) and by numbers in the other
+direction (say, north to south). They will thus be known individually
+as A, A2, A3, etc.; Br, Bz, etc. The appropriate designation must be
+painted clearly on the nearest face of each of the four corner-pegs,
+which for this purpose have been set diagonally in the ground. Thus
+a peg set at the junction of four squares will have a different designa-
+tion on each face; e.g. Ar, A2, Br, B2. The need for clear and abun-
+dant labelling cannot be over-emphasized if error is to be eliminated
+from the records, particularly on a large excavation.
+   In the actual digging of a square, a principle of universal application
+in archaeological excavation may be stressed: namely, the use of the
+control-pit. This is the supervisor’s own special charge, and upon it the
+accuracy of the general digging in large measure depends. It is a small
+cutting, about 2} feet square, cut by the supervisor himself or by a
+trained man under his eye, to a depth of 14-2 feet lower than the
+average level of the work. Its purpose is to enable the supervisor, with
+a minimum disturbance of the strata, to anticipate the nature and
+probable vertical extent of the layers which are being cleared by his
+main gang. It is a glimpse into the future of his stratigraphical work.
+Without it, neither the supervisor nor his diggers, working blindly
+                                    84
+                THE    LAYOUT       OF     AN   EXCAVATION
+
+- from the top, can avoid the confusion of the lower part of one stratum
+  with the upper part of the next below it. In other words, stratification
+  must, by its nature, always be controlled from the side, i.e. from the
+ side of the control pit, since it obviously cannot be controlled pro-
+ phetically from the top: vertical digging first, horizontal digging afterwards,
+ must be the rule. Control-pits must be sufficiently numerous to min-
+ imize risks arising from the unevenness or interruption of strata, and
+ sufficiently small in area to restrict the confusion of evidence which is
+ inherent in their exploratory nature. The control-pit is indeed a means
+ of concentrating errors which would otherwise be spread over the
+ whole area. Its evidence in detail must be used with proportionate
+ circumspection.
+   And, above all, constant reference must be made to the stratifica-
+ tion revealed by the sides of the square as the digging proceeds. The
+ four sides must be constantly correlated with one another. Any
+ marked discrepancy between them, or between the equivalent sections
+ in adjacent squares, must be considered and an explanation sought.
+ During the search for an explanation, the supervisor may find it
+ desirable to suspend or restrict the actual digging.
+   This raises a further point, again of universal application. In view
+of the occasional necessity for a temporary suspension of digging in
+one square or another, the director of an excavation must always have
+in readiness a sufficiency of “reserve-jobs’ to mect contingencies of
+this kind. Such reserve-jobs may include the removal of unimportant
+top-soil from a new square, or the reinforcement of a gang engaged
+elsewhere upon the digging of a deep stratum. Remember that, when
+a gang stops digging, from two to six workpeople - pick-man,
+shovel-man     and, in the East, probably four basket-carriers - are
+thrown out of action. And idleness is both costly and infectious.
+   In the last three paragraphs matters have been dealt with which are
+not peculiar to the ‘square’, although they are liable to present them-
+selves on a busy area-dig in an acute form. I turn now to the actual
+recording of the square.
+   Be it repeated that a great merit of the ‘square’ method is that it
+localizes both control and record. The supervisor’s responsibilities
+are clearly defined, and the area covered by his field note-book is
+precise. The basis of his record is the careful identification, embodied
+in an accurate measured drawing, of the stratigraphy of each of the
+                                      85
+              ARCHAEOLOGY           FROM     THE    EARTH
+
+four sides of his square and of such supplementary sections as may be
+required. As in all excavations, the layers are demarcated and labelled
+with a serial number whilst the excavation proceeds (see p. 72). Each
+side of the square is also labelled with its compass-point, which is
+added to the index-number of the square: ¢.g. B3N indicates the
+northern side of square B3. And each side is carefully measured and
+drawn to a minimum scale of } inch to 1 foot, or to a maximum scale
+of r inch to 1 foot, or the metric equivalents (see p. 74). A sketch (or
+even measured) section should also be included in the notebook; and
+reference should be made to relevant sections not so included.
+   In the process of excavation, it may be found convenient sometimes
+to work diagonally across the square; for instance, if diagonal walls
+are found, since sections at right angles to the line of a wall are neces-
+sary to avoid a distortion of the relevant strata. An example is illus-
+trated in Pl. 4b, where diagonal balks can be seen within the grid~
+squares. In such cases, the diagonal section must of course be corre-
+lated with the side-sections and, if necessary, drawn separately.
+   All ‘finds’ will be recorded by strata with reference to the nearest
+recorded section, normally with the nearest side of the square. Struc-
+tures, pits, or important objects, together with the position of all -
+measured sections, will be planned carefully in the supervisor's note-
+book in relation to the four surveyed corner-pegs of the square.
+‘Finds’ will be classified in the notebook by serial numbers, section-
+label, stratum, and sketch (see below).
+
+
+                   (iii) SUBSTANTIVE TRENCHES
+The epithet ‘substantive’ is here applied to trenches which are not
+merely tentative cuttings made in search of some ill-defined objective
+but are in themselves a definite objective. In the category is included
+the cross-trenching of a line of fortifications, to establish their struc-
+tural sequence and to link it up with the sequence of occupations
+within the enclosure. Examples are illustrated in Pls. 6 and 7a, one of
+them a tevealing section which, in 1944-5, related the stone defences
+of the third city of Taxila (Sirkap) in the Punjab with a dated “palace’
+in the vicinity and so threw a new light on the chronology of this
+important site! A further use of the substantive trench is shown in
+            1. Ancient India, no. 4 (New Delhi, 1948), pp. 41 ff.
+
+                                    86
+               THE    LAYOUT         OF    AN   EXCAVATION
+
+Pl. 7b, where the method was employed to establish the stratigraphical
+relationship of two cemeteries, representing different cultures, on
+the famous prehistoric site at Harappa, in the Punjab. In 1946 the two
+cemeteries were linked by a carefully cut and surveyed trench nearly
+450 feet long, and the resultant section (which has been published)
+was conclusive. In the photograph, one of the cemeteries is beside
+the figures in the foreground, the other lies amongst the trees in the
+background, and the lines of datum-pegs, together with a regular
+series of cross-balks designed to equate the sections on the two sides
+of the trench, are seen.
+  In all these examples, the principle is the same. The lateral extent
+of the trench is defined at the outset, and the flanking datum-lines are
+accordingly fixed once and for all. There is no risk of their obliter-
+ation by any lateral, crab-like movement of the cutting, and the
+recorder’s task is predictable from start to finish.
+   The established method of recording objects found in a trench
+which it is not intended to enlarge laterally is represented by the
+following extracts from a recorder’s notebook:
+
+
+ No.       Measurements    |          Layer           Object     Remarks
+
+was,    INV. 62x. 3°57 67 Ks) Brown sand__|         Iron knife | (Sketch)
+                                                    blade 5”
+                                                    long
+
+LN      OY rt 4°62” °5"— ® Loose reddish | Spherical | In a local
+          6’ 2”           earth with occa- | agate bead | patch of
+                          sional patches of               wood-ash
+                               ash              '
+
+   The figure in the first column is the serial number of the find. I make
+the practice of enclosing it in a triangle to avoid any possibility of con-
+fusion with layer-numbers, etc. It is immediately written on the
+envelope containing the object and /or on the label attached to the
+object, and subsequently on the object itself; also on an index-card in
+duplicate (one for the site-index and one for the index of objects classi-
+fied by categories), which will include likewise all the other particu-
+lars of the record.
+  The figures in the second column are the essence of the record, and
+
+                                          87
+                                ARCHAEOLOGY             FROM      THE        EARTH
+
+    are derived as follows. Before the digging of the trench is begun, two
+    parallel lines of pegs are laid out, each at a distance of 1 foot from one
+    of the intended edges of the trench. Thus, if the trench is (for example)
+    to be 10 feet wide, the two lines of pegs will be 12 feet apart. The pegs
+    themselves are not less than 14 inches square in scantling and 1 foot
+    3 inches long, with one end pointed. They are driven firmly into the
+    ground — firmly enough to avoid any risk of accidental dislodgement
+    — and are set diagonally with reference to the proposed trench, i.e.
+    with one angle facing the latter. In each line they are placed with
+    these edges 3 feet apart, measured horizontally, not along the actual
+    contour of the ground (unless that be level); and an imaginary cross-
+    line joining opposite pairs of pegs in the two main lines must be at
+    right angles with the latter. See Fig. 15.
+     _ Every peg is then numbered clearly on each of the two faces nearest
+    to the proposed trench with a serial-number in black paint. With the
+    addition of the Arabic zero, Roman numerals (I, IL, Il, etc.) are used
+
+
+       PEG O                    Be   PEG I                   PEG D                   PEG
+              Se   ao ee       Se
+                                      ce)te   ae   Oe   a    a
+                                                               ©         a         er
+                                                                                      o
+         i}
+         i]
+         1
+         1
+         1                                                             EDGE OF TRENCH
+         1
+
+
+
+                                              TRENCH
+         es
+         hiss
+          |          =x                                          A fOGE OF TRENCH
+                           \
+            RIGHT              \     y
+          j ANGLE               \    f
+              Solas ye               afer =s==== ae
+                                                  ee                         See   es      STRING
+
+{      PEG fe)0”                       cr
+                                     PEGI                    PEG 0 d                 PEG     5
+
+                   Fig. 15. Layout of a trench for three-dimensional recording
+
+for the double reason: (a) that they are easier to paint than Arabic
+numerals, and (b) that there is no risk of confusing them with the
+actual measurements of the record. The figures on one of the lines
+of pegs are distinguished by a dash (O’, I’, II’, III’, etc.). Ifsubse-
+quently it is desired to extend the trench backwards from zero (e.g.
+down the reverse slope of a rampart), capital letters (A, B, C, etc.) are
+                                                        88
+                THE    LAYOUT       OF   AN   EXCAVATION
+
+ used for the successive pegs of the extension, the letters on one of the »
+ lines being similarly distinguished by a dash (A’, B’, C’, etc.).
+    Along the front edges of each line of pegs a string is then tightly
+ stretched, and is pegged down where this is necessitated by the con=
+ tour of the ground. These strings are the base-lines from which
+ measurements are subsequently taken.
+    So much for the preliminary layout of the trench. The supervisor
+ must now be provided with an angle-measure, made lightly but
+  strongly of two 3-foot or preferably 4-foot arms graduated in feet and
+  inches and fixed firmly to each other at right angles (PI. 18, rr). On
+  each arm is fixed a bubble-level. The other normal measuring-instru-
+  ments — tape, 5-foot rule, and plumb-bob — complete the equipment.
+     When the digging of the trench is in progress, theposition of every
+  significant find is measured in the following sequence:
+     (A) Longitudinal measurement. The point at which a line at right-angles
+  from the main datum-string to the object cuts the former is measured
+  along that line from the last preceding peg. The point in question is ob-
+  tained by means of the angle-measure, with such extension of the out-
+  ward arm as may be required and with the assistance of a plumb-bob.
+  Thus if the point be at 10 feet 4 inches from the zero peg, it will actually
+  be measured from peg III (9 feet) and will be recorded as III 1’ 4”.
+    (B) Outward measurement. The distance outwards, at right-angles to
+  the datum-string, to a point vertically (by plumb-bob) above the object
+  is measured with the angle-measure, levelled by its bubble-level and
+  extended by means of the 5-foot rule if necessary. Note that the measure-
+  ment is recorded from the datum-string, not from the actual side of the
+  trench. Thus, if the measurement is 2 feet 5 inches, the distance of the
+  object from the side of the trench will be about 1 foot 5 inches. The re-
+  corded measurement is affixed to the longitudinal measurement with a
+  multiplication sign: thus in the present example the measurements so
+  far will be III 1’ 4” x 1’ 5”.
+    (C) Downward measurement. This represents the vertical depth ofthe
+  object below the level of the datum-string at the intersection established
+  under (A) above. It is obtained by tape (or rule) and plumb-bob from
+  the levelled armof the angle-measure, and it is added to the record with
+  a minus sign. If the depth is 6 feet 2 inches, the total record will now
+  read IIT 1’ 4” x 1/7 5” —'6’ 2”.
+   In the third column is noted the number allotted to the layer -anum-
+ber best shown in a circle, a symbol which is in practice useful for
+                                         89
+              ARCHAEOLOGY          FROM    THE   EARTH
+
+distinguishing layer-numbers from other figures —and the descrip-
+tive word or phrase by which the layer is named. These facts are of
+importance, since the material in which an object is found is usually
+certain and provides a check upon the measurements, which may
+sometimes mislead in irregular strata or near the junction of two
+strata.
+   The fourth column is self-explanatory. The fifth column is useful for
+additional information and, above all, for a sketch of the object.
+Even a bad sketch is better than none at all.
+  It is scarcely necessary to add that the utility of such a record — or
+indeed of any stratigraphical record - is proportionate to the accur-
+acy of the measured section or sections with which the record is sub- _
+sequently to be equated. The two sides of a trench are rarely identical,
+and it will nearly always be desirable to prepare an accurate drawing
+of both, together with occasional cross-sections. Moreover, during
+the actual digging it is sometimes useful to project certain categories
+of objects (from the three-dimensional record) on to the actual sides
+of the trench by means of labelled or coloured pegs. I have known
+occasions upon which such a visual representation of a distribution
+in the actual trench has been illuminating and convincing.
+
+
+
+
+                                   9O0
+                             CHAPTER      6
+
+
+        The Excavation of a Structure
+
+FROM the more general questions of technique we turn to specific
+problems. How would you excavate the buried remains of an ancient
+building? ‘Find a wall and follow it’ might be the obvious answer.
+But the previous chapters have been written in vain if the novice who
+has read thus far is prepared to accept the answer without protest. He
+will by now appreciate that to follow a wall in all literalness would be
+to destroy the related evidence upon which its interest in large meas-
+ure depends. Let us consider in some detail the nature of that related
+evidence.
+   Unless a structure is'dated by a contemporary inscription or by un-
+impeachable documentary evidence or (exceptionally) by its intrinsic
+character, our knowledge of its date or cultural context must be
+derived from the stratigraphical association of objects of recognizable
+types. Furthermore, the specific character of the strata themselves —
+whether resulting from construction, destruction, decay, or other
+causes — will throw light upon the vicissitudes through which the
+building has passed. Only the most careful excavation and observa-
+tion can recover such evidence with sufficient exactitude for use. The
+dating or cultural setting of a building is based ideally on three cate-
+gories of objects: (i) those supplied by strata which accumulated
+before the building was constructed; (ii) those supplied by strata
+contemporary with the construction; and (iii) those supplied by strata
+subsequent to the construction. Categories (i) and (iii) bracket the
+structure chronologically or culturally, whilst category (ii) defines
+the point within the brackets.
+  To understand the full meaning of a building in decay, it is neces-
+sary to understand how it was originally constructed. I have accord-
+ingly urged elsewhere (p. 157), for this and other reasons, that a know~
+ledge of building-construction be included amongst the qualifications
+of an excavator. In its simplest form, a masonry wall is built normally
+as follows. A trench, known as the ‘foundation-trench’, is cut along
+the line of the proposed wall in order that the foundations of the
+                                   Ot
+               ARCHAEOLOGY           FROM     THE   EARTH
+
+latter may rest upon the solid sub-soil rather than upon the relatively
+unstable soil that is commonly found on the surface - whether natural
+humus or disturbed ‘occupation-earth’. Rarely, when the surface-
+soil is itself solid, or when the building is a slight one, or when the
+building is jerry-built (an abnormal crime in ancient times), the
+foundation-trench may be absent; on the other hand, a foundation-
+trench may actually be cut even into the live rock, in order to give a
+level seating for the wall. The preliminary assumption in all instances
+must be that a foundation-trench is present.
+   This feature is of great importance, and all care must be taken in
+its identification. Obviously, layers into which it is cut antedate it,
+and must be distinguished beyond all doubt from layers which
+accumulated against the structure and therefore post-date or are con-
+temporary with it. In loose sandy soil, the foundation-trench will be
+V-shaped, with an appreciable space between its sides and those of the
+initial wall built in it. But in a stiff clay sub-soil*the sides of the trench
+may be vertical and may have been completely filled with the founda-
+tions of the wall. Much may depend then upon the character of the
+wall-facing when cleared of the soil; a trench-built wall will neces-
+sarily have an untrimmed, relatively rough face, whilst a wall built
+‘free’, and therefore accessible to the mason, will generally show a
+more careful coursing and trimming. Needless to say, a wall with
+any sort of plaster ‘rendering’ or facing, or with ‘struck’ or neatly
+finished mortar jointing must have been built free, cannot have been
+laid in a foundation-trench. A wide experience of different materials
+is necessary for the identification of a foundation-trench, and the
+result of the investigation must always be noted carefully, with
+diagrams, in the notebook.
+   After the building of the wall to a suitable height, the sides of the
+foundation-trench (if V-shaped) will be packed and the adjacent
+surface levelled, if necessary, to carry the floor. Subsequently, the
+utilization of the floor will result in wear-and-tear, possibly patching
+or renewal, and probably the accumulation upon it of an ‘occupation-
+layer’, consisting of extraneous material - hearth-ash, mud, food-
+debris, broken pottery, lost ornaments or coinage - which may help
+to date the period or periods of usage. Later again, disaster or decay
+may cover the occupation-layer with building-debris (indicating,
+incidentally, something of the character of the superstructure),
+                                    Q2
+             THE   EXCAVATION        OF   A   STRUCTURE
+
+ and eventually the whole site may be carpeted with vegetable-
+ mould.
+   Let us take an example. Fig. 16a illustrates the accumulation of
+ strata under, around, and over the wall of an ancient structure. On
+ the right-hand side of the wall-section, over the natural soil, two
+ layers (9 and 10) represent village-occupation of Culture A, with post-
+ holes indicating wooden huts and associated with potsherds, spindle-
+ whorls, etc. Into these layers is cut a shallow foundation-trench to
+ take the footings of Wall Y, and the flanks of this trench are filled
+ with layer 8, which is also spread (on the right) as a basis of Floor 1.
+ Layer 8 contains only relics of Culture A, but one or two telics of
+ Culture B are imbedded in Floor 1; and the superimposed layer 7,
+ resulting from the occupation of the building, represents Culture
+ B exclusively. Over this occupation-layer, a new rammed floor
+ (Floor 2) is laid, and on it is a further occupation-layer (6) of lesser
+ extent, still containing objects of Culture B but in a somewhat
+ evolved form. On this occupation-layer, a cascade of bricks mixed
+ with burnt timber and clay (layer $) indicates the destruction of the
+ building by fire. Thereafter the stump of the wall is used as the foun-
+ dation for a mud-brick wall (X) of lighter construction, associated
+  with an earthen floor (layer 3) containing relics mostly of Culture C.
+  This new structure represents an intrusive culture of inferior quality,
+  immediately preceded by the violent destruction of Culture B, and
+~ may (if the evidence is found to be typical) be interpreted perhaps as
+  a semi-barbarian supersession of Culture B in an evolved phase of
+  the latter.
+     On the left-hand side of the wall-section, the same two pre-wall
+  strata (9 and 10) are continued, but are superseded at the wall-level
+  by a well-metalled street (Road 1). This metalling is renewed at
+  intervals (Roads 2 and 3), the upper metalling being inferior to the
+  lower and suggesting a decline in municipal standards. Finally, in
+  association with the mud-brick wall (X) of Culture C, metalling
+  ceases, and traffic gradually wears the street into a hollow, removing
+  earlier strata in the process. This process of road-deepening may be
+  seen in many Eastern villages of the present day, and serves to remind
+  us that the passing of time may be represented stratigraphically by
+  denudation no less than by aggradation.
+                                                                      e
+     Fig. 16b shows the unhappy consequence of the wholesale clearanc
+                                    93
+                                                                                                                                 SOUTH
+
+                                                                          PTT
+                                                                          Gey)                                   aed aa               dt
+      NORTH             .     a            mee Ma
+        yl gdag
+
+      aSey                                                                                      TLE                  LL/ 702
+                                                                                            LiMn
+       Hi,          =                                                                           D2               N
+
+
+
+
+ee                 eae eT:                                            THO                                    OKA                     ZR
+                             conics
+                                                                     MW                                  5                            ~         te
+
+
+
+S18                ere DQ               marl tert             SA     ee
+ISS
+|
+    SRO MA care   ansene
+           viaarassreon=s
+                                                                          AHH:
+                                                                          o
+                                                                                                             CONAN
+                                                                                                                                              li
+                                                                                            ~            POST-HOLE
+                                       UNDATION
+                                      FOUNDATION      NATURAL, SOIL,
+                                                          y
+
+             A. RELATIONSHIP OF STRATIFICATION. TO                                                           STRUCTURES
+                         RETAINED BY CROSS-SECTION
+
+
+ RSA no EANS outedNeDStap
+                                                                                    PSips Ser eiOliuy
+                                                                                                                                aq        r          tt
+
+
+       NORTH                            om
+      ir                                frwssetie Jere)                   E
+      og | altel” Bed ier |ee od ee
+                                                                                                                           ele) bps
+               /                        fe                                    .-f                            a       od,         ~    fo@s    Pes
+
+                                        | ERSASES (25                         EZ, EHR                                            SY
+                                                                                                                                               NS
+                                                                                                Ww           4             n(4)2                      }
+                                                                                    :                :                     '         34       wf
+
+
+
+                                                                              9 sizca   F            L
+                                                                                                                               HHH              id
+
+
+       if                                                                     Ce
+       Naz                                                                              LBs a8) KoWAENGR
+                                                                                                     S
+       \W Us                                                                            ann        OT ON
+                                        .tactyocapet
+      VAC se                                                                                                               ik
+                                                                                                                                          1
+
+
+                                                              LLL
+                                                                                                                               MOL
+                                                                              Zs
+
+
+
+                                  teen
+                                      SL      om     Ly
+
+
+                   PTT
+‘al X71 URSA            wo    <
+
+
+       {
+                                                   NATURAL    SOIL
+                   B. THE         SAME RELATIONSHIP OBLITERATED                                                                 BY
+                                     CONTINUOUS, TRENCHING
+             Fig. 16, Sections illustrating the relationship of strata to a wall, and their
+                                           removal by summary excavation
+             THE    EXCAVATION            OF   A STRUCTURE
+
+of the wall along its two faces. The relationship of the wall with
+the adjacent strata has been lost beyond recall, and the sequence indi-
+cated above is irrecoverable. Excavation has devolved into irrepar-
+able destruction.
+   So important is this matter of section-interpretation, that I will give
+another example, dug out of an old report on the excavation of the
+Roman amphitheatre at Caerleon in Monmouthshire. In the early
+stages of this excavation, conclusive evidence as to the date of con-
+struction was hard to find, for the good reason that an amphitheatre,
+being a place merely of visitation, was largely devoid of the sort of
+material which may be expected to produce dated ‘finds’. As the
+work proceeded, this deficiency was gradually compensated for in a
+variety of ways, and Fig. 17 illustrates one of them.
+   In this illustration, the wall in séction on the left is the external wall
+of the amphitheatre. It is built on deep footings, the upper part of
+which is mortared whilst the lower part is dry-built. The footings
+occupy a foundation-trench, partly vertical and party V-shaped, cut
+through three dark occupation-layers which therefore antedate the
+construction. We then come to the faced walling, the base of which
+is in contact with a road-surface that had clearly been laid down in
+connexion with it. The section goes on to show that this road was
+subsequently renewed on at least four occasions. Now logically, the
+date of the construction of the amphitheatre plus the earliest road
+should have been bracketed by the dates of the material from the
+three pre-road occupation-layers and from the subsequent road-
+repairs. The pre-road occupation-layers fulfilled their function admir-
+ably by producing material of ¢. A.D. 75, indicating that the amphi-
+theatre was not earlier than that date; but the road-repairs were
+unproductive, and the later endof the bracket therefore remained open.
+The section did not on that account fail us; it will be observed that
+to the right of the amphitheatre-wall is a culvert (in section) built in
+a trench which has been cut through the same three strata as the wall-
+trench and has been covered by the same make-up and road surface
+that covers the wall-trench and equates with the wall. It is therefore
+exactly contemporary with the amphitheatre. But further exploration
+in the vicinity showed that the culvert was structurally connected
+with a neighbouring bath-building dating from the last two decades
+of the first century A.D. To that date therefore belongs the construction
+                                     95
+           OGL ‘aITYsYNOTMUOYY ‘UOspIERD Je sao   Ydure ueMoY oy Jo [eM [ews9IX9 oy} 0) UONLpEI UT uoNLoENS “LI ‘Sty
+                                          a           ee                 2   I TTS
+920 SAVITUAM-HSUM FA
+                                                                                                 ee
+                                                                                                                                RAS
+                                                                                                                   SAN FALOLLWORI
+                                                                                                                   pean # DTT a
+                                                                                                           apres     STTHISD aa
+  Gp     0    30 <= ‘co ee        eS
+  (4)   TILL NDIONT? ONLI—
+                         SUNWOK
+                         —>
+                                                       LUAL   ALL
+                                                                    vy
+             THE   EXCAVATION          OF   A STRUCTURE
+
+of the amphitheatre - an inference subsequently confirmed from
+other sources, but in itself sufficiently well founded.
+    The moral of all this is clear: the identification and interpretation
+ of the stratigraphical evidence associated with a building are of car-
+-dinal importance, and are rendered possible only by the preservation
+ of extensive cross-sections in the process of excavation. In other
+ words, the preliminary excavation of a wall consists, not in clearing
+ it continuously, but in cross-sectioning it at frequent intervals, each
+ cross-section being closely examined and correlated with its neigh-
+ bours. Only when an agreed interpretation of these cross-sections is
+achieved and recorded can they properly be removed, stratum by
+ stratum. Even s0, it is wise to keep a typical cross-section in position
+ for reference until the close of the excavation.
+    If we turn from general principles to their practical application,
+there is less room for dogma. In all cases the ‘square’ method which
+‘I have recommended for area-excavations (p. 83) is suitable, and on
+ sites where buildings of varying plans are piled one on top of the
+ other, as on many Eastern sites, no other method lends itself so readily
+ to clear systematic record. But on a shallow site, where the excavator
+ is confronted with an essentially unitary structure, as on some
+ Romano-British sites, it may be found convenient to take the indi-
+ vidual rooms of a building as the basis of record. Even so, it is safer to
+ begin on the grid plan until the dimensions of the problem are appar-
+ ent; and having begun on the grid I should myself hesitate to change
+ horses.
+    Two or three other points may be dealt with briefly.
+
+                             ‘GHOST’ WALLS
+
+ The excavator may have the misfortune to light upon a site where the
+ walls have been completely destroyed by stone- or brick-robbers in
+ ancient or modern times. A notable example of this is provided by the
+ Romano-British site of Verulamium where Matthew Paris records
+                                                              the
+ that, amongst others, an eleventh-century abbot ‘turned over
+  soil to a considerable depth that he might find masonry structures’
+                                                                         the
+  which he ‘reserved for the fabric of his church’. The excavator of
+ ‘site found, in fact, evidence everywhe re  of systemati c brick-rob bing,
+  and learned to recover the plans of buildings by carefully following
+    D                                97
+                  ARCHAEOLOGY      FROM     THE   EARTH
+
+the robbers’ trenches (leaving intermittent cross-sections as described
+above). For the most part, the robbing had been so skilful and econ-
+omical that the trench was scarcely wider than the wall that it had
+contained; so that when, after the removal of the wall, the unwanted
+debris was thrown back and the site levelled for cultivation, the mixed
+filling provided a perfect negative of the plan (Pl. 8a). By cutting
+across the debris-filled trench at frequent intervals, it was often pos-
+sible to recover the lines of the former building with accuracy, and
+even, in favourable instances, to equate some of the stratification with
+them. Perhaps the most remarkable example of the recovery of a plan
+from ‘ghost’ walls of this kind was afforded by the north-west gate-
+way of Verulamium where, in 1931, Miss Kathleen Kenyon found
+that a great part of the structure had been almost completely removed
+but was able, by the careful clearing of the debris from the former
+wall trenches, to reveal the whole layout in negative whilst preserving
+the stratified floors intact (Pl. 8b).
+              Y
+
+                          STRAIGHT      JOINTS
+
+The junction of two walls is often a key-point in the interpretation of
+a plan. If the walls are well and truly bonded together, with identical
+masonry and coursing, they are obviously of the same build and date.
+There is, however, a ‘catch’ for which it behoves the excavator to
+keep a vigilant watch. By the removal of some of the facing-stones
+of an older wall it is possible to ‘tooth-in’ a younger branch-wall
+with some semblance of bonding; but the difference in structural
+period is usually betrayed by differences in material or coursing, or
+by the incompleteness of the bonding.
+   On the other hand, the absence of bonding - a ‘straight joint’ -
+does not necessarily imply a difference of date. The medieval builder,
+it is true, was usually concerned to see that all his walls were properly
+bonded; the close integration of a Gothic building, the interplay of
+stresses and strains, demanded this. Accordingly, in a medieval struc-
+ture a straight joint is normally significant chronologically. But in
+the more static architecture of earlier periods a straight joint may be
+a matter of indifference or even of choice. Where two adjacent walls
+carry very different vertical loads, it may not be inadvisable to leave
+them to some extent free of one another. Or, in the days when the
+                                   98
+             THE    EXCAVATION            OF   A STRUCTURE
+
+plan of a building consisted, not of a blue-print, but of the actual
+foundations planted on the ground under the direction of the architect
+or master-mason, the main lines may have been laid down first and
+subsidiary features added as the work proceeded. One or other of
+these explanations may be sought for the fact that the towers of the
+Roman fortress known as Burgh Castle in Suffolk show a straight
+joint with the fortress-wall up to a certain height, above which they
+are bonded in; or, similarly, that the towers of Verulamium are built
+free up to a height of 6 feet and are thereafter of one build with the
+town-wall. In both instances, towers and wall are essentially parts of
+the same design. A more remarkable instance is the systematic use
+of the straight joint in Nebuchadnezzar’s great Ishtar Gate at Babylon
+(sixth century B.c.). The foundations of the structure are of a varying
+depth, and to quote Koldewey:
+It is conceivable that those parts of the wall where the foundations are
+specially deep do not sink so much in the course of time as those of
+shallower foundations, and settlement is unavoidable even with these,
+standing as they do upon earth and mud. Thus where the foundations
+are dissimilar there must be cleavages in the walls, which would seri-
+ously endanger the stability of the building. The Babylonians foresaw
+this and guarded against it. They devised the expansion joint, which we
+also make use of under similar circumstances. By this means walls that
+adjoin each other but which are on foundations of different depths are
+not built in one piece. A narrow vertical space is left from top to bottom
+of the wall, leaving the two parts standing independent of each other.
+In order to prevent any possibility of their leaning either backwards or
+forwards, in Babylon a vertical fillet was frequently built on to the less
+deeply rooted wall, which slid in a groove in the main wall. The two
+blocks run in a guide, as an engineer would call it.
+
+
+                              TIMBERWORK
+
+In airtight peat or clay or alluvium, or on the other hand in a very dry
+climate, timber will retain its form and something of its substance for
+thousands of years. On the other hand, a solid timber such asa railway-
+sleeper begins to deteriorate in the British climate after about ten
+   1. R. Koldewey, The Excavations at Babylon, trans. by A. S. Johns (London,
+1914), pp. 36-8.
+
+                                     99
+              ARCHAEOLOGY          FROM    THE    EARTH
+
+years. Ancient woodwork found in Egypt or in the deserts of Central
+Asia is dated in millennia, and the rough timbering which Dr
+Grahame Clark uncovered with great skill in the peat at Seamer in
+Fast Yorkshire in 1949-51 may be as much as 9,000 years old. Dr van
+Giffen, a master of timber-excavation in the sympathetic soils of the
+Low Countries, found remarkable vestiges of wooden buildings -
+posts and wattle walls — of structures of the first century A.D. in the
+Roman forts at Valkenburg near Leiden (south Holland).t But for the
+most part, the excavator of ancient timber structures must content
+himself with less tangible results. When carbonized, their vestiges
+may last indefinitely; otherwise they are generally a mere stain or a
+more or less loosely filled hollow in the earth, and have to be treated
+substantially like the ‘ghost’ walls of which I have spoken above. On
+the whole, they are not an easy problem. The stains and hollows may
+sometimes be missed even by the expert eye, and a timber-structure
+should never be explored by the novice without the closest supervision.
+   We may set aside carbonized timber as a relatively straightforward
+matter. An example of the more subtle kind is provided by the first-
+century sheds uncovered within the Roman fortress at Richborough
+about 1930 by MrJ. P. Bushe-Fox. The sheds had been built on
+sleeper-beams, some of which had been laid on uprights, and Mr
+Bushe-Fox first recognized them in the faintly discoloured lines and
+pits which began to show up in the light-coloured sand of the site
+when the ground was cleared under suitable weather conditions. The
+coloured lines were formed by the earth which had occupied the
+matrices of the vanished timbering, and vertical hollows, similarly
+filled, showed the former presence of the posts (Pl. 9a). By care-
+fully scraping and sectioning the site, the excavator was eventually
+able to uncover a series of these buildings and to reconstruct them (on
+paper) with a substantial measure of certainty.
+  The same method, with variations, must normally be followed in
+work of this kind. Certain soils, notably gravel, are more reluctant
+than others to yield their evidence. A sandy sub-soil is usually the
+most responsive, and at Harappa in the Punjab, in a cemetery dating
+from -+ 2000 B.c., not only was the outline of a coffin visible as a
+brown outline, but Dr K. A. Choudury, of the Indian Forest Research
+  I. 2s-28 Jaarverslag van de Vereeniging voor Terpenonderzoek (Groningen,
+ 1948), with English summary.
+
+                                   100
+
+                                   t
+              THE    EXCAVATION             OF   A STRUCTURE
+
+ Institute, was able to photograph and identify with complete certainty
+ the impressions of a specific timber (deodar) in the matrix of sand. The
+ coffin (Pl. 9b) was found first as a dark stain in section and was then
+ carefully cleared from above, the final clearance being effected by
+ gentle scraping and lightly brushing with a small, soft brush. The
+ somewhat similar outline of a coffin was traceable round a late
+ Roman burial at Verulamium,! and other examples are recorded from
+ Britain.
+    It would, however, be difficult to find more brilliant expositions of
+ timber-excavation than those afforded by the work of Mr C. W.
+ Phillips at the Skendleby long-barrow in Lincolnshire and the famous
+ Sutton Hoo ship-burial in Suffolk. The general method adopted in
+ the excavation of the long-barrow will be cited in a later chapter (p.
+ 122). Here we are concerned only with the hurdle-work which was
+ incorporated in the mound and was revealed in a trench dug close to
+ and parallel with its longitudinal axis. In the excavator’s words,
+  the trench was § ft. in width, and an examination of its sides soon showed
+  a series of what were called for the sake of convenience ‘verticalities’ at
+  irregular intervals. These vague vertical breaks in the substance of the
+  barrow could only be interpreted as the traces of decayed barriers of
+  some kind, presumably of wood. A heavy rain fell on the night after
+  these were noted, and brought away a thickness of between 6 in. and
+_ 1 ft. of material from the side of the trench towards the upper side of the
+  barrow. This fall had taken place along a definite division in the material
+  of the barrow along its middle line, and it was at once apparent, from
+  the impressions of upright posts and pieces of wood fixed between
+  them, that some sort of a fence had been set up here before the barrow
+ had been built, and then had been buried in it... . The reason for the
+ ‘verticalities’ became clear at once, for they were traces of similar fences
+ setting off at about right-angles from the central fence in the direction
+ of the lower side of the barrow (PI. 10).?
+
+ All this evidence was of course in ‘negative’; the soil was totally un-
+ favourable to the preservation of the actual woodwork.
+    Accident helped in this discovery but in no way detracts from the
+ astuteness of the excavator’s observation. The feature thus revealed
+ was substantially an addition to knowledge and will doubtless fit, in
+          1. Wheeler, Verulamium Report (London, 1936), pl. cxv A.
+          2. Archaeologia, lxxxv (London, 1936), 60.
+
+                                     Io1I
+              ARCHAEOLOGY           FROM      THE       EARTH
+
+due course, into a new structural and ritual pattern of the neolithic
+age. But at Sutton Hoo accident can claim no share of the credit. The
+general circumstances of this astonishing discovery are well known:
+about the middle of the seventh century A.D. a man of high rank had
+been interred with ‘the richest treasure ever dug from British soil’ in
+a ship some 80 feet long, which had been buried under a mound in
+a great trench cut into the sand.
+   Since the whole ship and its contents had been involved in sand for
+some 1,300 years, it is not surprising that there were virtually no re-
+mains of wood except for small fragments which were found here and
+there preserving their form if not their character through contact with
+rusted iron. ... Traces of the existence of wood could frequently be
+seen in the form of thin layers of discoloured sand, associated with bands
+of more or less the same material leached white by the action of the
+acids liberated in the decay of the wood. The normal colour of the sand
+on the site was yellow, except where it was the product of the decay
+of turf or had been under decaying wood. ... No difficulty was found
+in distinguishing the filling of the trench from the undisturbed sand
+even where the colour was the same in each case. The filling dropped
+away easily from the sides of the trench and following it was merely
+mechanical.*
+
+   In these circumstances, the excavation of the hull was a particularly
+delicate operation, and extracts from Mr Phillips’s account of it may
+be quoted. The work which had been done before he took over
+direction
+showed that none of the wood of the ship remained, though all the
+numerous clench-nails which had held its planking together were ex-
+actly in place, the ship having been completely filled up with as much of
+the sand excavated from the trench as could be got in again. These con-
+ditions were ideal for the preservation of its form, and it was clear that
+the only way to carry out the work was to cut a very wide trench right
+through the mound which would give ample walks on each side of the
+burial-trench. The faces of the cutting were stepped backwards in ter-
+races and their faces timbered up, and the boat was carefully emptied of
+all content, beginning with the burial chamber. ...
+   Since all but the burial chamber area had been filled in directly with
+sand while the ship was still whole, none of the clench-nails which held
+                        I, Antiquity, xiv (1940), Io.
+
+                                     102
+             [THE   EXCAVATION            OF   A STRUCTURE
+
+ the ship together could move from their place even when the wood
+ which they secured had disappeared. By careful work from the inside
+ it was possible to remove all the content of the boat without displacing
+any of the nails, which remained in their places on the sides of the exca-
+ vations. This process was aided by a change in the consistency of the sand
+ which was to be found where the boat’s timbers had once been. A dusty
+blackish layer, accompanied by some leached sand, could be felt for
+ carefully by slowly shaving down the sand, and warning was given of
+ its approach by the appearance of the bright red patches signalling the
+ near presence of clench-nails. In this way all the boat which survived
+ ‘was emptied so that the face of the excavation everywhere was the sand
+which had pressed against the timbers of the boat from the outside, and
+which sometimes still bore in recognizable form the imprint of the grain
+of wood. ...[PI. 15.]
+    The ship had twenty-six ribs. . . . The preservation of the ribs was
+bad. All that remained .. . was a dirty line of sand running across the ship
+ from gunwale to gunwale keeping close to the hull, and frequently still
+retaining a marked rectangular cross-section. In some cases the sand had
+formed a rough cast of the decayed wood so that, if this was breached,
+discoloured sand tended to pour out of the hole leaving a rectangular-
+sectioned cavity. In excavating the ship these rib traces were left en-
+closed in strips of sand.1
+   These examples of timber-excavation must suffice. The tools most
+generally useful are a broad-bladed knife, a small spike of some sort,
+and a soft paint-brush. In the clearance of the Sutton Hoo burial-
+chamber, a stout shovel mounted on the end of a long ash handle was
+used for shaving down and removing the sand on a horizontal plane
+in a search for the significant changes of colour.
+
+                              MUD-BRICK
+
+ In the dry climate of parts of Africa and Asia, bricks of unbaked
+mud, often integrated by an admixture of straw, have long been used
+for building, and may present some difficulty to the excavator, though
+   1. Ant. Journ. xx (1940), 158, 183, 188, etc. See also the account of the
+ excavation of the burial chamber, ibid., p. 158. A simpler but nonetheless
+instructive set of problems attended the excavation of the Oseberg ship in
+Sweden. The student is referred to the account of these (in English) in
+A. W. Brogger, Hj. Falk, and Haakon Schetelig, Osebergfundet, i (Kristiania,
+1917), 369 ff.
+                                    103
+               ARCHAEOLOGY          FROM     THE   EARTH
+
+generally of a less formidable nature than that presented by vanished
+timberwork. A writer on archaeological technique has written:
+   The principal difficulty faced by an archaeologist in dealing with mud-
+bricks lies in the fact that the material used in their construction is not
+unlike that of the earth in which they have been buried for centuries.
+Asa result there have been a number of cases where long narrow rooms
+turned out to be heavy walls; in other words, the excavators recognized
+a slight change in colour or consistency of the ground during the digging
+but removed the walls and left the rooms unexcavated !
+
+I need hardly add that this unhappy experience was derived mainly
+from that land of archaeological sin, Palestine, and reopens a vista of
+incompetence which is by now sufficiently familiar to us.
+ The problem once more is that of intelligent supervision; though
+the trained workman is here an asset of almost equal worth. ‘The tex-
+ture of the earth, the feel of it, the sound of it as the pick or shovel
+strikes it, are all factors which, almost equally with direct visual
+evidence, tell the experienced digger when he is or is not on a mud-
+brick wall. The instructed peasant learns to think through the point
+of his pick or the blade of his knife. Decayed mud-brickwork may
+fill the interior of a room and present on plan an undifferentiated
+surface where it and a mud-brick wall-top abut upon each other.
+But tapping carefully and obliquely with a small pick will often
+produce a distinguishable hard note when the point, penetrating the
+filling, strikes the face of the actual wall. Scraping the surface carefully
+with a knife, sometimes aided by damping, may reveal a slight but
+significant line where filling and wall meet, or between individual
+bricks. The composition of the mud wall will sometimes indicate
+whether it represents brick or filling; flecks of charcoal and scraps of
+pottery rarely occur in bricks but are not infrequent in filling, and I
+have sometimes found them in the coarser mud which may be used
+as the equivalent of mortar. Their presence, therefore, is a useful
+guide, though their absence proves nothing. Petrie adds that ‘in the last
+resource the stuff should be searched with a magnifier to see the hol-
+lows left by decomposed straw: in kneaded brick these hollows lie in
+every direction; in blown dust and wash they lie nearly all horizontal’.
+   The initial tracing of a mud-brick wall may thus be a fairly lengthy
+process, involving careful inspection and digging in different lights
+                                    104
+             THE    EXCAVATION           OF   A STRUCTURE
+
+ and different degrees of dampness or dryness of soil. When the wall-
+ face has been definitely located, further care must be taken to ascer-
+ tain whether it was anciently ‘rendered’ with a mud or plaster facing.
+ Ifnot, it can be gently brushed horizontally or scraped with a knife.
+ When thus newly cleaned, the individual bricks will frequently show
+up clearly, and they must then be completely recorded (size, bond,
+ quality, jointing); for the chances are that, as the wall dries out and
+ bleaches in the sun, much of the detail will be lost. In order to retain
+ the general picture, it is sometimes possible to reduce the mud-joints
+ slightly by gentle brushing or scraping, and so to leave the separate
+ bricks in shallow relief. On the other hand, if the joints are of harder,
+ coarser material, as they sometimes are, it may be preferable to scrape
+ the smoother surface of the bricks, thus leaving the joints in relief
+ (Pl. rz). In either case, this work should normally be done after record
+ not before.
+   In all other respects, a mud-brick wall should be dug exactly as a
+ masonry wall, with a similar system of cross-sections through the
+ attendant strata.
+
+
+
+
+                                   105
+                             CHAPTER      7
+
+              On Digging ‘Town-sites
+
+THE natural sequel to a chapter on structures is the consideration of
+the structural complex of a town-site. (The problems of a military
+site are technically similar.)
+   The site of an ancient town.may to-day be a tolerably level tract
+of countryside, or it may have piled itselfinthe course of ages into
+the form of an artificial mound or tell up to 100 feet or more in height.
+Something has been said of the latter process elsewhere (p. 57). Here
+the question is one of tactical approach to the problem of excavation.
+   Let us consider what information we want. Our primary need is to
+ascertain the chronology and cultural setting of the site. Without
+these two basic facts, its structural layout will mean little. But they
+in turn will mean little without a knowledge of the plan of the town,
+of its domestic economy from period to period, and the social and
+political condition of itsinhabitants. These problems are necessarily
+interlocked, but they can to some extent be separated for the purpose
+of preliminary investigation.
+   On a level site, the technical approach is relatively straightforward.
+There the cultural and chronological sequence can be recovered in
+introductory fashion by one method only: by a restricted area-
+excavation in the interior of the town, preferably somewhere near
+its centre. Although the rule is by no means invariable, cities com-
+monly grow in a reasonably symmetrical fashion; the original civic
+centre is likely to remain the focus and to represent therefore the
+maximum depth of accumulated occupation. This accumulated
+occupation must be probed carefully to the bottom, preferably by
+means of one or more squares — a group of four adjacent squares is
+often a useful unit - in accordance with the method described on
+p. 83. But on no account should this procedure be repeated at random.
+Petrie cannot be gainsaid when he protests against the multiplication
+of trial-pits. Such pits, ‘if they hit anything of importance,’ he
+remarks, ‘are likely to injure it, and certain to destroy its connexion
+with other things. French explorers have a love for faire quelques
+                                   106
+                   ON   DIGGING      TOWN-SITES
+
+sondages, a proceeding which often ruins a site for systematic work,
+and which never shows the meaning of the positions or the nature of
+the plan’. On the other hand, a restricted probe, carried out by
+methods more subtle and thorough than Petrie’s, is a necessary
+preliminary stage on a ‘flat’ site of unknown potentiality.
+   A secondary if not simultaneous stage is the investigation of the
+system of fortifications which normally characterizes an ancient
+town. The moments at which a town built or rebuilt its defences
+were manifestly of special importance in its life-history. The con-
+struction of a fortification may indicate the newcomer in a strange
+land, as in the mottes of Norman England; or it may mark the
+achievement of full city status, and may reflect a period of peaceful
+consolidation rather than of military duress, as in the walled towns of
+Augustan Gaul or late second-century Britain. Or it may reflect the
+advent or threat of a formidable rival or of political anarchy; as when
+anxious edicts of Honorius urged cities to build or repair their walls
+and authorized them to use statues, altars, and temples for the purpose.
+It may have been designed to defend the populace, or to control it;
+as, perhaps, in the almost feudal citadels which dominated the Indus
+cities of Harappa and Mohenjo-daro in the third millennium B.c., or
+certainly in William the Conqueror’s Tower of London. Fortifica-
+tions thus not merely outline the town-plan (or some part of it) but
+may focus and express the city’s vicissitudes and something of its
+sociology. Further, the character of their brickwork or masonry is
+a fair reflection of the economic condition of the city at the time of
+construction, of wealthy and leisurely civic pride or of more slovenly
+necessity. And to what extent were the defences maintained? — were
+there long periods of immunity during which maintenance was
+allowed to lapse? Finally, were they riven by an attacker, as were the
+mined and counter-mined walls of Dura-Europos on the Euphrates?
+- or did they crumble into decay as a counterpart to economic
+decline? All these and other questions are of the first importance to
+the inquiring antiquary or historian. It is along the lines of the
+defences rather than in the buried relics of the bazaar that the excava-
+tor may expect first to recognize the major moments, the frame-
+work, of the story of the site.
+  Let him therefore, early in his work, cut across the line of the forti-
+fications at selected points where it seems likely that the evidence will
+                                   107
+              ARCHAEOLOGY           FROM   THE   EARTH
+
+be most comprehensive. And let his cross-trenches be both wide and
+deep, no mere otter’s bites - wide enough to escape accidental features
+and to provide ample room and light for observation; deep enough
+to reach down into the natural soil and so to ensure that the story is
+complete. Furthermore, let the trenches be carried far enough into
+the town to relate the defensive system in its various phases with the
+successive occupations of the town itself.
+   The accepted three-dimensional method of recording such a
+trench is described on pp. 87-90.
+  To the sectioning of the defences should be added the careful
+excavation of a gateway, where successive road-levels and guard-
+room floors may be expected to amplify the architectural evidence
+and to lend it precision.
+_ The completion of these works — the examination of the defences
+and the central area~excavation — may be assumed to have given us
+a reasonable conspectus of the site. The next stage is less predictable
+in detail, although its general purpose is clear enough: namely, to
+recover a representative part of the town-plan at various periods or,
+at any rate, at the topmost period, and to ascertain the character and
+economy of its various types of building. The best course will prob-
+ably be to extend the original area-dig at the level of some specific
+stratum, to link it up with the excavated gateway, and to recover the
+intervening layout of buildings and streets at the selected level or
+levels. Thereby an orderly, coherent development of the work is
+ensured, and future excavators will know readily where they stand
+in relation to it. This was approximately the method adopted by Sir _
+John Marshall at Taxila (Sirkap) in the Punjab, with the most reveal-
+ing results (Pl. 12). The extent to which such work can or should be
+carried subsequently downwards depends on the funds available and
+the current state of knowledge. Although I would not accept Mar-
+shall’s methods of excavation and record, my view is that he was
+perfectly right in uncovering, and preserving uncovered, only the
+ two uppermost strata of Sirkap in the area tackled by him. He was
+ dealing with an entirely unknown culture and polity. On the other
+ hand, in a Romano-British town I should to-day normally advocate
+ the complete clearance of the available area in depth, even at the ex-
+ pense of extensive destruction. As so often, no general rule can be
+postulated; each instance must be considered on its merits.
+                                    108
+“a
+                         ON   DIGGING          TOWNSSITES
+
+        If we turn from a “flat’ site to a tell, say, 50 feet high (PI. 13), com-
+     plications confront us. Probing from top to bottom in a mound of
+     this depth becomes a major engineering feat and involves a dispro-
+     portionately large opening at the top. Moreover, there is not infre-
+     quently the risk that such a probe will over-emphasize the latest and
+     possibly best-known phases at the expense of the earlier and less-
+     known. Let me give two examples.
+        Some 18 miles north-east of Peshawar in the North-west Frontier
+     Province of Pakistan, near the village of Charsada, is a famous group
+     of mounds which represents the ancient capital city of Puskalavati,
+     set athwart one of the great trade-routes of ancient Asia. Its strength
+     was such that even the veteran army of Alexander the Great took
+     30 days to capture it in 326 B.c., and such was its prestige that Alex-
+     ander went out of his way to receive its surrender in person. In the
+     seventh century A.D., when the Chinese pilgrim Hiuen Tsang visited
+     it, it was yet ‘well peopled’. To-day the vast site is derelict, bitten
+     into and divided by the streams of the Swat river, but its largest
+     mound, the Bala Hisar or High Fort, still stands to a maximum height
+     of about roo feet. Here in 1902-3 the then recently reconstituted
+     Archaeological Survey of India carried out its first excavation. The
+     summit of the highest mound was selected for the work, and trenches
+     were dug into it to a depth of 20 feet. The result was the discovery of
+     scraps of medieval and later buildings of familiar Sikh and Islamic
+     types and a few possible fragments of somewhat earlier historic dates.
+     Nothing that was not predictable was brought to light, and the real
+     problems of (potentially) one of the most important sites of Asia were
+     not touched. The young director, fresh from Athens, his mind
+     doubtless obsessed with the prestige of a towering acropolis, had
+     carried out the excavation in the one spot where a maximum accu-
+     mulation of relatively modern material could have been foreseen.
+        Similarly at another site, far away on the steppe of Afghan Tur-
+     kestan, there lie the great mounds which represent the ancient Bactra,
+     ‘Mother of Cities’, carfax of trans-Asian trade-routes and outpost of
+     Hellenism in partibus. Bactra was already a city in the fourth century
+     B.C., and it suffered from the savagery of Chingiz Khan in the thir-
+     teenth century a.p. To-day only the tiny village of Balkh lies within
+     the immense circuit of its derelict walls, and several square miles of
+     the buried history of Asia, indeed of the world, lie accessible to the
+                                         109
+              ARCHAEOLOGY            FROM     THE      EARTH
+
+adventurous explorer. Accordingly, in 1924-5, Monsieur A. Foucher,
+to whose memory all honour is due as a student of Buddhist art, was
+deputed to carry out a series of excavations on behalf of the French
+Archaeological Mission to Afghanistan. The results were, as he freely
+and naively admits, disappointing to a degree. Why? He chose for
+his operation the highest point of the towering tell which represents
+the citadel of this vast city, and dug down metre after metre into the
+ruins of - a relatively modern mosque and a ‘Turkish’ bath! True, in
+a city with a walled circuit of 7 miles there was room enough for
+error: Foucher himself exclaims, ‘We compared ourselves, my wife
+and I, to two ants sent into the depths of the jungle to carry out an
+autopsy on the corpse of an elephant.’ But why, from so wide a
+possible choice, did he choose of all things the ultimate summit of
+the citadel: In a letter to his Paris correspondent, he tells us: “Because’,
+he writes, ‘one cannot escape the magic power of names, and you your-
+self, if I could have consulted you from afar and had asked, as in
+Hernani: “Where should I begin?”, would incontestably have
+replied: “On the Acropolis.”’! The inescapable magic of names!
+What a superbly Gallic reason for plunging into the one spot in the
+whole of Bactra that a less charmingly sentimental investigator would
+unhesitatingly have shunned: the one dominant spot which could
+have been prophesied to bear upon its heights the latest and most
+familiar of medieval buildings.
+  No, a little cold-blooded deliberation at these two sites would
+easily have pointed the proper way. I happen to know them both,
+and am prepared without undue rashness to prescribe. The premisses
+are that both sites stretch back into a remote but undefined antiquity;
+that both have also been wholly or partially occupied in Islamic times;
+but that, since our extensive knowledge of Muslim architecture is
+unlikely to be enhanced appreciably by the costly excavation of the
+buried fragments of a medieval citadel, this phase may profitably be
+by-passed. The outstanding importance alike of Charsada and Balkh
+lies in their earlier phases, when they were metropolitan centres of
+Asiatic trade and meeting-places of oriental and occidental cultures.
+To reach these earlier strata the approach is not in fact difficult. At
+Chirsada the attacks of man, weather, and water have, over a large
+  1. A. Foucher, La Vieille Route de Inde de Bactra a Taxila (Mém. de la Délég.
+Arch, Frangaise en Afghanistan, Paris, 1942), p. 98.
+
+                                     IIo
+                    ON   DIGGING        TOWNS-=SITES
+
+part of the principal mound, removed the higher strata to a depth of
+some 40 feet. In other words, Sikh and Muslim may safely be pre-
+sumed to have vanished here, leaving the pre-medieval strata exposed
+to immediate attack. There, at the eastern foot of the High Fort, is
+the obvious spot for an area-excavation designed to reach the ancient
+Puskalavati and to achieve - who knows? ~ another Mohenjo-daro
+at its base? At Balkh also it is not difficult, by an examination of the
+sides of gullies and other cuttings, to find a number of places where
+the familiar top-stuff is absent, and where penetration to the earlier
+levels can be reasonably assured. But at Balkh there is one obvious
+and immediate goal. Nearly half of the defensive system shows only
+Islamic workmanship and may for our purpose be ruled out, at any
+rate in the initial stages (later, it too should be fully recorded); but a
+part of the remainder is of composite character and obviously incor-
+porates earlier work. In particular, along the southern side the Islamic
+wall is carried by a huge rampart which is itself, to judge from slight
+indications, a complex structure. Here is a major problem for settle-
+ment. Until the excavator of Balkh has dug a great trench, recorded
+in three dimensions, through these southern fortifications and linked
+their successive phases to occupation-levels in the adjacent interior,
+he has not got to grips with his problem.
+   To turn from these two examples to the general run of tells is to
+turn to variable phenomena, susceptible to no fixed rule. Much de-
+pends upon the height of the mound and the extent of its erosion.
+As a general practice, however, it is desirable to bite boldly into the
+periphery at some carefully selected point, penetrate the inevitable
+scree, and establish the successive cultures with, if possible, the suc-
+cessive systems of fortification. This -desideratum is commonly
+realized by tell-excavators, but there is an unhappy habit of nibbling
+sporadically at the flanks of the mound instead of contemplating a
+methodical, coherent cutting which will, with ordinary luck, link up
+and sort out many important factors once and for all. An established
+method of cutting such a section is to step it from top to bottom, so
+that the gangs have convenient working-platforms at intervals and,
+above all, so that the lower stages of the cutting are not unconscion-
+ably deep. Nevertheless, there are few published tells where a section
+of this kind has been completed. Pl. 11 shows a complete section
+through the margin of the highest tell of the chalcolithic Indus city at
+                                  III
+              ARCHAEOLOGY         FROM     THE   EARTH
+
+Harappa in the Punjab. Its total depth is 50 feet but, owing to the
+compactness of its material, I was able to cut it vertically, without
+stepping. Incidentally, the recorder and draftsman completed their
+work in detail, foot by foot, as the working-platform was gradually
+lowered, so that, when natural soil was eventually reached, the
+digging and the recording ended almost simultancously. As usual,
+the log-book record was three-dimensional (cf. p. 87).
+  Apart from the marginal bite, as on a ‘flat’ site, the clearance of a
+gateway is highly desirable, combined with an area-dig in the
+adjacent interior on a sufficiently Jarge scale to establish firmly the
+cultural context of successive gateways and fortifications. Further in
+the interior, an elevation may indicate the position of a citadel or
+temple and may also be subjected to an ‘area-excavation, which
+should subsequently be linked up systematically with that adjoining
+the gateway, and thereafter continued to the designed limits of the
+enterprise.
+   The ultimate goals of a tell-excavation should be (a) to establish its
+cultural or chronological range by the marginal sections indicated
+above, and (b) to uncover completely a specific phase or phases of its
+occupation. I emphasize this point after seeing many incredibly messy
+tell-excavations where everything has been attempted at once, with
+cuttings and soundings at varying depths and the whole site perma-
+nently wrecked or obscured by tip-heaps. Let the rule be to finish a
+clear-cut scheme which can be transmitted lucidly, on paper and on
+the ground, to future generations of investigators. Leave your tell for
+others as you would wish to find it. Too many excavated tells of Asia
+are, to adapt Petrie’s phrase, ‘ghastly charnel houses of murdered
+evidence’. Fortunately, there are still some thousands of intact ones
+awaiting a more human and legitimate execution.
+
+
+
+
+                                   I1i2
+
+                                                                            ae

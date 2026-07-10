@@ -1,0 +1,2143 @@
+        Chapter 2
+1111
+2
+        Finding the past
+3
+4
+5
+6
+7
+8
+9
+1011
+1
+2
+3       On 17 June 1873, in the third year of his excavations at Hissarlik, Heinrich
+4       Schliemann discovered what he regarded as the ultimate proof that the site
+5       he was digging was the famous Troy of Homer’s Iliad:
+6
+7           In excavating this [city] wall further and directly by the side of the
+8           Palace of King Priam, I came upon a large copper article of the most
+9           remarkable form, which attracted my attention all the more as I thought
+20111       I saw gold behind it. . . . In order to withdraw the treasure from the
+1           greed of my workmen, and to save it for archaeology, I had to be most
+2           expeditious, and although it was not yet time for breakfast, I immedi-
+3           ately had ‘paidos’ called. . . .
+4              While the men were eating and resting, I cut out the treasure with
+5           a large knife, which it was impossible to do without the very greatest
+6           exertion and the most fearful risk of my life, for the great fortiﬁcation-
+7           wall, beneath which I had to dig, threatened every moment to fall
+8           down upon me. But the sight of so many objects, every one of which
+9           is of inestimable value to archaeology, made me foolhardy, and I never
+30111       thought of any danger. It would however, have been impossible for me
+1           to have removed the treasure without the help of my dear wife, who
+2           stood by me ready to pack the things which I cut out in her shawl and
+3           to carry them away.
+4                                                     (Quoted in Deuel 1978: 205)
+5
+6       Much of the public perception of archaeology lies in the excitement of
+7       discovery, of buried treasure, of the ﬁnd (Biddle 1994). We tend to down-
+8       play this aspect in academic archaeology, almost as an emotional reaction
+9       to what should be a dispassionate, scientiﬁc exercise. However, there is
+40111   clearly a tension involved here, of the thrill of discovery, a hasty scrab-
+1       bling in the earth, and at the same time a certain pride in meticulous,
+2       restrained excavation. It is not that the two are contradictory – we can all
+3       unearth wonderful ﬁnds in what might appear a greedy way and yet main-
+44111   tain the standards of observation and recording required by contemporary
+                                                                 Finding the past   19
+
+1111    practice. Yet in any text you might pick up on ﬁeld archaeology today,
+2       while the emotive thrill may be alluded to, it is the stress on a controlled
+3       encounter with the archaeological record that is maintained.
+4          And yet in the quote above from Schliemann, he clearly describes the
+5       moment of discovery and links it into the archaeological value of the
+6       objects; in his narrative, the two aspects seamlessly interweave. We may
+7       deride Schliemann as a treasure hunter, even see some hypocrisy in his
+8       allusion to the greed of the workmen and his own secretive removal of the
+9       ﬁnds, but he was working in a very different intellectual climate and it is
+1011    too easy to dismiss his archaeology as a primitive version of today’s progres-
+1       sive techniques. What did it mean at the end of the nineteenth century
+2       to excavate – and how different was that from today? This is the question
+3111    I want to address in this chapter – it is not simply a history of ﬁeld tech-
+4       niques, but of how what we today call the archaeological record has been
+5       conceived in the past century or so since the discipline became properly
+6       established.
+7
+8
+        Cultural evolution and the object (1880–1920)
+9
+20111
+        Pitt Rivers and the total archaeological record
+1
+2       A few years before Schliemann began his Trojan excavations, Lieutenant-
+3       General Pitt Rivers had begun his excavation career in Ireland and then
+4       later in England (Bowden 1991). When we think of these two ﬁgures of
+5       archaeology, they stand at quite opposite poles – Schliemann the romantic,
+6       the treasure-hunter, and Pitt Rivers the ﬁeld archaeologist, the scientist.
+7       But how differently did they see the archaeology they – or rather their
+8       workmen – unearthed? Pitt Rivers has gone down in all the history books
+9       as the father of British ﬁeld archaeology in that he introduced detailed and
+30111   systematic excavation and recording techniques, perfected over many
+1       seasons of ﬁeldwork on his estates at Cranborne Chase. But what exactly
+2       did this involve, and how different was it from the work of his forebears
+3       and contemporaries? Pitt Rivers himself summed it up thus in his preface
+4       to the ﬁrst volume of Excavations in Cranborne Chase:
+5
+6           It will, perhaps, be thought by some that I have recorded the excava-
+7           tions of this village and the ﬁnds that have been made in it with
+8           unnecessary fulness, and I am aware that I have done it in greater detail
+9           than has been customary, but my experience as an excavator has led
+40111       me to think that investigations of this nature are not generally sufﬁ-
+1           ciently searching and that much valuable evidence is lost by omitting
+2           to record them carefully. That this has been so in the present instance
+3           is proved by the fact that this village had before been examined and
+44111       reported upon in the XXIVth volume of the Journal of the Anthropological
+        20   Critical approaches to fieldwork
+
+1111         Institute, and not a single pit or skeleton had been found; whilst I have
+2            discovered 95 pits and 15 skeletons.
+3                                                         (Pitt Rivers 1887: xvi–xvii)
+4
+5       These comments on a previous investigator, Austin, highlight two key points
+6       which Pitt Rivers saw as crucial to ﬁeldwork: a ‘sufﬁcient search’ and ‘care-
+7       ful recording’. These are undoubtedly the aspects of his work which make
+8       him stand out. His accounts in the four volumes of his excavations make it
+9       quite clear that his investigations were extensive, frequently included open-
+1011    area trenching and were detailed in the recording. For example, regarding
+1       the ‘sufﬁcient search’, during the excavation of the Romano-British village
+2       at Rushmore Park (to which the above quote also alludes), he not only
+3       cleared out major sections of ditch circuits, but also opened up inside the
+4       enclosure by
+5
+6            placing the men in line at working distance apart, digging down every-
+7            where through the surface mould until the chalk beneath was reached,
+8            and noticing carefully any irregularity in the latter. Where the mould
+9            went deeper it was dug out, and in this way pits, hearths, ditches, and
+20111        irregularities of all kinds were cleared out and exposed.
+1                                                              (Pitt Rivers 1887: 10)
+2
+3       It is unlikely, however, that a whole area was stripped in one pull but rather
+4       that he used the technique known as ‘strip-digging’, by which the ground
+5       was cleared in a series of successive parallel trenches, the spoil from one
+6       being used to backﬁll the last (Barrett et al. 1983: 196). This was a common
+7       nineteenth- and early twentieth-century method in shallow quarrying and
+8       therefore probably one the workmen were familiar with. The consequences
+9       of this for not identifying features or ﬁnds has been remarked upon (Barrett
+30111   et al. 1991: 13; Bowden 1991: 156). When not excavating like this, he
+1       tended to run single trenches across earthworks such as dykes, or into the
+2       centre of barrows. For example, at Wor Barrow he began in a fairly conven-
+3       tional way, running a trench north to south through the mound, even
+4       leaving standing blocks at certain points as references for ﬁnd location
+5       (Figure 1; Pitt Rivers 1898: 64, and plate 255). In many ways this is similar
+6       to what other mound diggers had done, including Canon Greenwell, under
+7       whom Pitt Rivers had excavated and whom he acknowledges as his ﬁrst
+8       teacher (Pitt Rivers 1887: xix). However, unlike Greenwell, Pitt Rivers
+9       then removed the rest of the mound, exposing the whole plan of the barrow
+40111   including the mortuary enclosure. It is this aspect of trying to achieve total
+1       excavation which really separated him from others, something which H.
+2       St George Gray highlights in his memoir, illustrated by the excavation of
+3       South Lodge Camp where total excavation was carried on, even after
+44111   nothing was found in the ﬁrst three sections (Gray 1905: xvii).
+        Finding the past                                                  21
+
+1111
+2
+3
+4
+5
+6
+7
+8
+9
+1011
+1
+2
+3111
+4
+5
+6
+7
+8
+9
+20111
+1
+2
+3
+4
+5
+6
+
+
+
+
+                       Figure 1 Excavation of Wor Barrow by Pitt Rivers
+7
+8
+9
+30111
+1
+2
+3
+4
+5
+6
+7
+8
+9
+40111
+1
+2
+3
+44111
+        22   Critical approaches to fieldwork
+
+1111       The point Gray makes is that Pitt Rivers was not after treasure but after
+2       history. Gray was one of Pitt Rivers’ supervisors in the later years of the
+3       Cranborne Chase excavations, and was trained by Pitt Rivers to conduct
+4       most of the actual ﬁeldwork and post-excavation analysis. This second inno-
+5       vation, ‘careful recording’, is enshrined in the oft-quoted paragraph of the
+6       preface to Volume I of Excavations:
+7
+8            Excavators, as a rule, record only those things which appear to them
+9            important at the time, but fresh problems in Archaeology and
+1011         Anthropology are constantly arising, and it can hardly fail to have
+1            escaped the notice of anthropologists, especially those who, like myself,
+2            have been concerned with the morphology of art, that, on turning back
+3            to old accounts in search of evidence, the points which would have
+4            been most valuable have been passed over from being thought unin-
+5            teresting at the time. Every detail should, therefore, be recorded in the
+6            manner most conducive to facility of reference, and it ought at all times
+7            to be the chief object of an excavator to reduce his own personal
+8            equation to a minimum.
+9                                                             (Pitt Rivers 1887: xvii)
+20111
+1       Pitt Rivers’ military background probably strongly inﬂuenced his ability and
+2       desire for systematic recording (Bradley 1983: 3); he trained up assistants
+3       in surveying and draughting who carried out the actual ﬁeldwork and,
+4       increasingly, the post-excavation analysis for the Cranborne Chase exca-
+5       vations. Of course Pitt Rivers had supervised ﬁeldwork himself and one
+6       cannot accuse him of being an armchair archaeologist, although by the
+7       time he began work at Cranborne Chase, this is what in effect he was:
+8
+9            The work of superintending the digging – though I never allowed it
+30111        be carried on in my absence, always visiting the excavations at least
+1            three times a day, and arranging to be sent for whenever anything of
+2            importance was found – was more than I could undertake single-handed,
+3            with the management of the property and other social duties to attend
+4            to, and I had by ample experience been taught that no excavation
+5            ought ever to be permitted except under the immediate eye of a respon-
+6            sible and trustworthy superintendant.
+7                                                          (Pitt Rivers 1887: xvii)
+8
+9       To this end, a whole string of archaeologists learnt their ﬁeldwork through
+40111   him, and it is probably this as much as anything which helped perpetuate his
+1       image as the father of British ﬁeld archaeology. Pitt Rivers’ concern for ‘total
+2       excavation’ comes out in his reports where equal emphasis is placed on plans
+3       and sections. Comparing Excavations in Cranborne Chase with his teacher
+44111   Greenwell’s major work, British Barrows (published only ten years before
+                                                                   Finding the past   23
+
+1111    Volume I of Excavations), the difference in the graphic record is startling.
+2       Greenwell mostly showed artefacts, site ﬁgures rarely, and when the barrows
+3       were illustrated, it was usually as a section (Greenwell 1877). In contrast,
+4       Pitt-Rivers’ volumes are in effect read through the illustrations, each portion
+5       of text entitled as a description of plate such-and-such. The plans are mea-
+6       sured, showing contours of the surface and the location of all features after
+7       excavation, while the sections are schematic, although with some represen-
+8       tational elements, but again measured. In addition, tabulated summaries (his
+9       ‘Relic Tables’ which were ﬁrst used at Mount Caburn and Caesar’s Camp in
+1011    the late 1870s) appear at the end and give details of each feature, including
+1       dimensions and quantities and types of ﬁnds. In many respects, this structure
+2       is still used today, with topographic introduction, presentation of excavated
+3111    features, followed by ﬁnds reports which include not just artefacts but faunal
+4       and botanical remains in many cases too.
+5          Pitt Rivers’ actual reports, then, very much live up to the standards he
+6       preached in his preface. In everything I have said here it sounds as if he
+7       was indeed the revolutionary ﬁgure he has been painted. But I think we
+8       need to qualify this and try and place his innovations in some kind of
+9       context. In the ﬁrst place, we noted in his excavation of Wor Barrow how
+20111   he started in an almost conventional manner with a linear trench and only
+1       then opened up the rest. This is quite revealing, because his actual methods
+2       of excavation were in many ways no different from those of Greenwell or
+3       other contemporaries – he merely applied them on a more extensive scale
+4       (Bowden 1991: 154–5). While he was not working on very deeply strati-
+5       ﬁed sites – although in many cases they were certainly multi-phase – he
+6       rarely mentions stratigraphy or raises issues of stratigraphically phasing a
+7       site (e.g. looking at ditch junctions/cuts, etc.). Bowden, in his detailed study
+8       of Pitt Rivers, sums this up very well:
+9
+30111       His recording was meticulous but his physical digging methods let him
+1           down. Though recognising the importance of stratigraphy and the inter-
+2           relationship of features he failed to excavate in such a way as to be
+3           able to see them clearly. He dug in spits and not by layers, a tech-
+4           nique which he was to retain until the end of his life.
+5                                           (Bowden 1991: 94; also see pp. 155–6)
+6
+7       The same lack of originality could be said of his recording; the sections
+8       look little different from those of the better excavators of the time, and
+9       locating all ﬁnds by vertical position as well as contextual location was
+40111   nothing new – he merely applied the same technique more exhaustively
+1       than did others (see Bowden 1991: 154–5). More signiﬁcant, however,
+2       is that towards the end of his Cranborne Chase excavations he gave up
+3       even these sections in favour of ‘average sections’ which he continued
+44111   to use thereafter (Bowden 1991: 128); these were simply generalised proﬁles
+        24   Critical approaches to fieldwork
+
+1111    with the ﬁnds location plotted on (e.g. see Pitt Rivers 1898). This suggests
+2       very strongly that his main interest was not in stratigraphy but in sequencing
+3       ﬁnds, and he clearly felt that a simple vertical position was sufﬁcient to do
+4       this. This comes out very clearly in a paragraph on how to excavate a ditch
+5       in Volume IV of Cranborne Chase (1898), where he argues for horizontal
+6       excavation in spits, against the usual method of digging down to the bottom
+7       in one spot and then working the face vertically along the length of the
+8       ditch (Pitt Rivers 1898: 26). His reasoning for this is simply in terms of
+9       ﬁnds control. In summary, to quote Bradley:
+1011
+1            Recent work in Cranborne Chase suggests that it is an over-simpliﬁ-
+2            cation to see Pitt Rivers as the advocate of a purely empirical school
+3            of archaeology. His reluctance to interpret the structural sequence on
+4            his sites did not result entirely from scholarly restraint; the General
+5            had quite different objectives.
+6                                                                  (Bradley 1983: 8)
+7
+8       The key point, I believe, to Pitt Rivers’ innovation was not that he invented
+9       ﬁeld archaeology or new methods of excavation and recording, but that he
+20111   applied the standard techniques of the day in a much more totalising and
+1       exhaustive manner – he wanted a total record of what was in the ground.
+2       While he may have been among the ﬁrst to excavate non-barrow sites
+3       (most of his contemporaries, such as Greenwell, were almost all barrow-
+4       diggers – see Marsden 1974), his interest was in the recovery of a wider
+5       range of everyday ﬁnds rather than in the site itself. I think this comes out
+6       very clearly in the ﬁrst quote we gave above, where he opens with an
+7       apology for the ‘unnecessary fulness’ of his account. We may still applaud
+8       this as no mean achievement, but it is to be questioned whether such a
+9       thing as a total record is possible. Carver discusses this aspect in relation
+30111   to two schools of ﬁeld archaeology, one stemming from Pitt Rivers and the
+1       idea of the total record, and the other from Petrie and Wheeler who argued
+2       that one always selects what to record (Carver 1990: 45–7). Petrie, writing
+3       four years after the death of Pitt Rivers, said:
+4
+5            In recording, the ﬁrst difﬁculty is to know what to record. To state
+6            every fact about everything found would be useless, as no one could
+7            wade through the mass of statements. . . . The old saying that a man
+8            ﬁnds what he looks for in a subject is too true; or, if he has not enough
+9            insight to ensure ﬁnding what he looks for, it is at least sadly true that
+40111        he does not ﬁnd anything he does not look for.
+1                                                                     (Petrie 1904: 49)
+2
+3       If we accept that the real force behind Pitt Rivers’ approach was the idea
+44111   of a ‘total record’, it means that this is what we should focus on rather
+                                                                Finding the past   25
+
+1111    than any mythical revolution in ﬁeld methods or techniques. I think in
+2       this respect it is extremely productive to mention Pitt Rivers’ other major
+3       contribution to archaeology, evolutionary typology. It is possible to believe
+4       that Pitt Rivers’ intellectual faculties were applied with much greater force
+5       to classiﬁcation and an evolutionary conception of material culture than
+6       they were to excavation (for example, see Pitt Rivers 1906; also Bradley
+7       1983; Bowden 1991: 161). Moreover, one could argue that typology is in
+8       its very nature, an exercise in totalising objects; it brings them under a
+9       single system by placing them in relation to other objects and in this way,
+1011    every object is connected in a structured chain – which in the case of
+1       evolutionary typology, is ordered by the criterion of complexity. I will not
+2       go into Pitt Rivers’ concept of evolutionary typology here as I touch on it
+3111    in more detail later, but for the moment I think it is important to recog-
+4       nise the link between a totalising classiﬁcation and a totalising excavation.
+5       The reason Pitt Rivers pushed the conventional ﬁeld methodologies to a
+6       much greater extent than anyone had done previously is because of his
+7       desire for totalisation; it was his intellectual background in classiﬁcation
+8       and desire for a total record which drove his innovations in the ﬁeld.
+9          If there is a link at the conceptual level between Pitt Rivers’ excavation
+20111   methods and evolutionary typology, is there a more practical link? This can
+1       be answered by posing a further question: why, despite all his detailed
+2       recording and the presentation of the site through plans, sections,
+3       photographs, text and even model reconstructions, does Pitt Rivers never
+4       really discuss the way a site ‘works’ or functions? What is really glaringly
+5       marked by its absence in his accounts of Cranborne Chase, is any sense of
+6       phasing (Barrett et al. 1991: 13). Why this lack? He clearly had a sense
+7       of the importance of the site as opposed to just artefacts or objects – he
+8       was after all the ﬁrst Inspector of Ancient Monuments. But what value did
+9       he put on these sites? That is the question that surely needs answering. I
+30111   think the answer relates to the observation we made earlier about his inter-
+1       ests in evolutionary typology. What really matters to him in the
+2       archaeological record are objects and how they reﬂect upon human history.
+3       While his concern for detailed recording may have been motivated in
+4       general by a desire for totalisation, his particular aims were dominated by
+5       the need to provide a secure context for objects, to establish their proper
+6       place in the evolutionary scheme of culture. Bradley has even suggested
+7       that his main motivation in early excavations was to recover material purely
+8       to illustrate his typological sequences – not in the sense of testing but
+9       merely as a physical addition to a collection (Bradley 1983: 4; also Barrett
+40111   et al. 1991: 13).
+1          I think that this motivation perhaps never left him. Indeed, as Bradley
+2       points out, at the end of Volume IV of Excavations there is an essay on
+3       the evolution of chevron-decorated pottery. In concluding this section, Pitt
+44111   Rivers re-asserts the importance of recording the proper levels of ﬁnds in
+        26   Critical approaches to fieldwork
+
+1111    order to help answer these questions (Pitt Rivers 1898: 238–9). Moreover,
+2       in commenting elsewhere on the need to recover all artefacts, not just the
+3       ‘nice’ pieces, his argument is based on the signiﬁcance that common (i.e.
+4       frequently occurring) objects have for classiﬁcation (ibid.: 27). I think this
+5       is crucial to appreciating how the archaeological record was conceived in
+6       the late nineteenth century and to contextualising Pitt Rivers’ contribu-
+7       tions to ﬁeld archaeology. While he gives every appearance of concern for
+8       all those issues which are important today, such as the site plan and context,
+9       in actuality it is very hard to ﬁnd in any of his writings, any real interest
+1011    in interpreting the site, the meaning of features and so forth. This may
+1       seem something of a contradiction, but this relation does not really surface
+2       in Pitt Rivers’ work, partly because his texts on archaeological excavations
+3       and those on anthropological issues of evolutionary typology, are quite sepa-
+4       rate. The same cannot be said of another major British ﬁgure in ﬁeld
+5       archaeology, Flinders Petrie. Petrie provides an interesting study of the
+6       relation between the way in which the archaeological record was conceived
+7       and the prevailing concern for the evolution of material culture.
+8
+9
+        Flinders Petrie: the site and its finds
+20111
+1       Flinders Petrie’s Methods and Aims in Archaeology (1904) was perhaps the
+2       ﬁrst archaeological ﬁeld manual in English; although largely based upon
+3       and applied to work in Egypt, it can be read as a more general statement
+4       on a ‘scientiﬁc archaeology’. In it he discusses a whole series of issues
+5       surrounding excavation, from the personality of the archaeologist to methods
+6       of recording and the ethics of ﬁeldwork. I shall return to this text on later
+7       occasions but here I will focus on certain points only, chieﬂy the methods
+8       of excavating and recording sites. In terms of excavation, Petrie recom-
+9       mended two main types of trenching – open area and linear, depending on
+30111   the nature of the site. The former was better for complex sites with deep
+1       stratigraphy, while simpler sites were best tested by a series of parallel
+2       trenches which could be extended according to the layout of structures
+3       (Petrie 1904: 41–2).
+4          The concern for the plan of a site is clearly paramount in Petrie’s discus-
+5       sion and indeed in his recording he focuses on how to plan large areas by
+6       means of a grid of squares identiﬁed by a letter (for the row) and number
+7       (for the column) (Petrie 1904: 48–54). In this he is clearly following on
+8       the innovation of Pitt Rivers who undoubtedly changed the graphic repre-
+9       sentation of archaeology through the use of plans – a point acknowledged
+40111   by O. G. S. Crawford as being the ‘one essential feature in every excavation’
+1       (Crawford 1921: 208). Petrie’s method was still in use on some post-war
+2       sites in this country (e.g. Clark on Starr Carr). Moreover, Petrie’s great
+3       criticism of earlier excavation reports was their lack of plans – he singles
+44111
+                                                                   Finding the past   27
+
+1111    out as an example Greenwell’s British Barrows (1877) which contained very
+2       few illustrations, yet most of the text of which could have easily been
+3       reduced to a series of plans (Petrie 1904: 114). Petrie’s vision of a good
+4       archaeological report was clearly one dominated by its ﬁgures rather than
+5       its words – ‘the text is to show the meaning and relation of the facts already
+6       expressed by form’ (ibid.: 115). This visual sense of archaeological data was
+7       increased by the importance he attached to photographs, and more gener-
+8       ally his whole attitude can again be seen as partly derived from Pitt Rivers.
+9       Indeed, Petrie had met Pitt Rivers in 1881 in rather comical circumstances
+1011    when the latter was on a tour in Egypt (Burleigh and Clutton-Brock 1982).
+1          The element of visual representation is one to which I shall return in
+2       the ﬁnal chapter, but it is worth qualifying Petrie’s focus on plans by his
+3111    almost total disregard of sections which gets, by comparison, very little
+4       mention in the book. Why this should be so is curious, for Petrie was not
+5       unconcerned with the chronological development of a site. Mortimer
+6       Wheeler, who was a strong critic of Petrie, remarks on this: ‘The almost
+7       complete absence of measured sections from Petrie’s reports is the inevitable
+8       corollary of his “method”’ (Wheeler 1954: 15). What Wheeler is referring
+9       to here is Petrie’s lack of concern for stratigraphic relationships; a closer
+20111   look shows that it was chieﬂy the ﬁnds which provided the site’s chronology
+1       rather than stratigraphic analysis; in the chapter entitled ‘Systematic archae-
+2       ology’ (ch. XI), he identiﬁes two modes of work necessary for archaeology
+3       to become properly scientiﬁc: the ‘complete deﬁnition of facts by means of
+4       a corpus of all known variety of objects’, and the ‘arrangement of material
+5       in its order of development by statistical methods and comparison, which
+6       bring out the original sequence of construction’ (ibid.: 123).
+7          Petrie’s interest in typology is well known, especially his work on seriation,
+8       but we need to ask why typological sequences should be seen as deﬁning
+9       the development of a site rather than stratigraphy. A few years later, his
+30111   approach was to be criticised as relying on ‘evidence from style rather than
+1       stratiﬁcation’, as being subjective rather than objective archaeology (Droop
+2       1915: 8–10). One could put it down to ‘bad archaeology’ (as Droop and
+3       later Wheeler did), but given the evolutionary conception of culture which
+4       was dominant at the time, is it not surprising that sections at least should
+5       not have been seen as a greater resource? Petrie makes an interesting
+6       comment towards the end of the aforementioned chapter with regard to
+7       displaying objects in museums; he states that they should be displayed so
+8       as to demonstrate both their development and context (Petrie 1904: 132).
+9       This idea of the twofold character of an object is derived from the
+40111   Scandinavian innovations in museum display by Thomsen and later
+1       Hildebrand, and it is worth exploring a little further as it helps to under-
+2       stand Petrie’s focus on seriation and typology in providing the ‘original
+3       sequence of construction’ of a site.
+44111
+        28   Critical approaches to fieldwork
+
+1111    Antiquarianism and archaeology in Northern Europe:
+2       redefining the object
+3       It is all very well having stratigraphic sequences but the question arises
+4       whether there is any archaeological site in the world which has a ‘full
+5       sequence’ of deposits representing all prehistoric periods (forgetting for
+6       a moment the absurdity of this very conception). More commonly one
+7       has to link stratigraphically unrelated deposits or groups of stratiﬁed
+8       deposits across unconnected sites. The greater the lack of stratigraphic in-
+9       formation, the more reliant one is upon typological methods – indeed
+1011    in Sweden where typological studies were effectively developed, prop-
+1       erly contexted ﬁnds were rare compared to Denmark. Where in Sweden
+2       most ﬁnds came as ‘strays’, in Denmark graves and hoards were far more
+3       common, offering a better basis for using ﬁnd combination to construct
+4       chronologies (Almgren 1995: 27). This is well illustrated by the exhibition
+5       in the Museum of National Antiquities at Stockholm in 1866 which
+6       was modelled upon that of Thomsen at Copenhagen in 1819, for ‘the
+7       exhibitions were arranged in two parallel running series, one arranged
+8       according to types, and the other according to ﬁnd location’ (ibid.: 27). The
+9       lack of closed ﬁnds, (e.g. graves, hoards) meant that type series came to
+20111   have greater importance. B. E. Hildebrand, who directed the exhibition,
+1       employed an aesthetics of similarity, imitating an exhibition of modern
+2       mass-produced items of the same year (ibid.). Helping out at the exhi-
+3       bition was his son, Hans Hildebrand (who later published the ﬁrst evolu-
+4       tionary typology, on Iron Age brooches), and the young Oscar Montelius
+5       (ibid.: 28–31).
+6          The development of typology might then be said to have arisen out of
+7       a need to provide chronology in the face of poor stratigraphic information.
+8       A debate later emerged in the 1880s between Montelius and another archae-
+9       ologist Sophus Müller about the relative priority of ﬁnd combination
+30111   (fundsammenængen) and typology in constructing prehistoric chronologies
+1       (Klindt-Jensen 1975: 84–96; Gräslund 1987). The basis of the ﬁnd combi-
+2       nation is that:
+3
+4            A ﬁnd consists of a number of artefacts within a common spatial frame-
+5            work, which indicates that they got into the soil on one and the same
+6            occasion or that they were accumulated during a deﬁnite and contin-
+7            uous period of time. Thus, a ﬁnd indicates an absolutely simultaneous
+8            deposit or a relatively simultaneous accumulation in the soil.
+9                                                               (Gräslund 1976: 70)
+40111
+1       From this deﬁnition, it seems clear that the ‘ﬁnd’ is conceived much as a
+2       ‘context’ or stratigraphic unit is, although in the same statement it is
+3       described both as the deposit and the ﬁnds deﬁned by the deposit. Gräslund
+44111
+                                                                  Finding the past   29
+
+1111    goes on to say that, in themselves, the deposit or associated ﬁnds offer no
+2       means of relative dating – it is only when the deposits in a group are
+3       compared in terms of the composition of their ﬁnds, e.g. through seriation,
+4       that a chronology can be constructed. Fundamental to this process is clas-
+5       siﬁcation, in so far as one analyses what type of ﬁnd one deposit has in
+6       common with another. Of course Gräslund is not saying that stratigraphy
+7       is irrelevant to the relative date of the deposits in a group but the chrono-
+8       logical value of stratigraphy is conditioned by the type deﬁnability of the
+9       artefacts (Gräslund 1976: 74). The crucial point in all this, however, is
+1011    that the ﬁnd combination, whether it has any stratigraphic content or not
+1       (i.e. is open or closed), is primarily seen in terms of its relative date, its
+2       ‘epochal’ attribution (e.g. Iron Age). Stratigraphy as a concept is of little
+3111    importance except in so far as it aids chronology via closed ﬁnd-combination
+4       analogies. This is best demonstrated by the work of Worsaae, who succeeded
+5       Thomsen at the National Museum and who was the principal ﬁgure in
+6       Danish ﬁeld archaeology in the late nineteenth century.
+7          Worsaae is often cited as another pioneer of scientiﬁc ﬁeld techniques,
+8       but his methods leave a lot to be desired. In the appendix to Primeval
+9       Antiquities of Denmark (1849), he discusses the methods used in excavating
+20111   barrows: ﬁrst one should make a proper, measured description, preferably
+1       with a drawing, and only then excavate (Worsaae 1849: 152–3). He recom-
+2       mends two techniques – ﬁrst, trenching across the barrow, sometimes
+3       supplemented by another trench at right angles, and the second technique,
+4       digging a pit through the centre from above, again preferably supplemented
+5       by a trench leading to the barrow edge. What is interesting about the
+6       trenches is that he gives orientations – these are not arbitrary but run along
+7       speciﬁc alignments, which correspond to where satellite burials are predom-
+8       inantly located (ibid.). These trenches are not dug in order to understand
+9       barrow construction, but are geared to the location of burials and the
+30111   recovery of artefacts. Indeed for the same reasons as Pitt Rivers, he argues
+1       for total recovery of all ﬁnds no matter how trivial, as it is usually the
+2       common objects which provide the means for comparison (Worsaae 1849:
+3       156). Sites, like barrows, are treated as ‘mines’ for artefacts, albeit in a
+4       controlled manner, and he cites other good places where antiquities may
+5       be found, including peat bogs and quarries (ibid.: 155). No mention is made
+6       of stratigraphy beyond a passing mention of distinguishing interments at
+7       the top and base of barrows and nowhere in the book is stratigraphy used
+8       to argue for the dates of antiquities – he draws instead on general evolu-
+9       tionary assumptions. Even his later work on shell middens, which exhibited
+40111   greater concern for stratigraphy, does not alter the fact that his main concern
+1       was the retrieval of artefacts.
+2          Now perhaps we can appreciate why Petrie showed little concern for
+3       sections and the stratigraphy of the site; in itself it was deemed of little
+44111
+        30   Critical approaches to fieldwork
+
+1111    relevance to chronology except through seriation of closed ﬁnd groups, and
+2       even then it was not strictly necessary as the same effect could be achieved
+3       though seriation of purely typological elements, that is, evolutionary
+4       typology. This attitude is strongly expressed in his paper ‘Sequences in
+5       prehistoric remains’ (1899); Petrie complained that although broad period
+6       divisions had been achieved, there was still a lack of ﬁner resolution. To
+7       achieve this, he outlined ﬁve methods which he employed to resolve issues
+8       of chronology:
+9
+1011         1st Actual superposition of graves and burials; but rarely found.
+1            2nd Series of development or degradation of form; very valuable if
+2            unimpeachable.
+3            3rd Statistical grouping by proportionate resemblance; the basis for clas-
+4            sifying large groups.
+5            4th Grouping of similar types, and judgement by style; giving a more
+6            detailed arrangement of the result of the 3rd method.
+7            5th Minimum dispersion of each type, concentrating the extreme
+8            examples.
+9                                                                (Petrie 1899: 297)
+20111
+1       The ﬁrst, stratigraphic relationship, was for Petrie rarely of practical use
+2       but he does afﬁrm its importance in the broadest periodisation and as a
+3       framework for the more reﬁned sequences; moreover, it appears to be of
+4       quite a different order from the other four in that it uses direct character-
+5       istics of the contexts to sequence themselves rather than relying on
+6       comparisons of their objects. Of the other four, each has different aspects
+7       worthy of remark. The second method, essentially an evolutionary typology,
+8       is comparable to Pitt Rivers’ method and, under one guise, that of Montelius.
+9       The third method is closest to what we call seriation, though it seriates
+30111   the presence/absence or frequency of different types of objects rather than
+1       attributes of objects; this latter is closer to what Petrie describes as the
+2       fourth method which looks at the similarity/dissimilarity between objects,
+3       such as brooches, of a single type. The ﬁfth method is more of a supple-
+4       ment to the others and is merely a kind of Occam’s razor or law of parsimony
+5       which would see each different type in the sample as occupying the shortest
+6       possible duration.
+7          From this, it is fairly clear what Petrie’s priorities are; but more than
+8       that, they reveal that while stratigraphy may be relevant in understanding
+9       the constructional sequence of a site, neither it nor the sequence itself
+40111   was the aim of ﬁeld archaeology; rather these were simply means to an end,
+1       the end being understanding the evolution of material culture. A demon-
+2       stration of this is given quite clearly in the opening paragraphs of the
+3       same paper:
+44111
+                                                                 Finding the past   31
+
+1111        But it may be said that in dealing with ages before any written record
+2           of years no reference to time or dates is possible. In the narrowest sense
+3           this may be true. Yet the main value of dates is to show the sequence
+4           of events; and it would matter very little if the time from Augustus to
+5           Constantine had occupied six centuries instead of three, or if Alexander
+6           had lived only two centuries before Augustus. The order of events and
+7           the relation of one country to another is the main essential in history.
+8           Indeed, the tacit common-sense of historians agrees in treating the
+9           periods of great activity and production more fully than the arid ages
+1011        of barbarism, and so substituting practically a scale of activity as the
+1           standard rather than a scale of years.
+2              It would be, therefore, no fallacy to portion out the past by the ratio
+3111        of events rather than by the seasons; and to measure history by the
+4           stages of thought and action of man rather than by inanimate celestial
+5           motions. In this truest sense, then, we may have a possibility of reducing
+6           the prehistoric ages to a historical sequence, and deﬁning them as
+7           readily as historic times. If some scale and ratio of human activities
+8           can be adopted, we may measure the past by means of it deﬁnitely as
+9           we do by years B.C.
+20111                                                               (Petrie 1899: 295)
+1
+2       One could argue that Petrie, as much as Pitt Rivers or Worsaae, was not
+3       really concerned to understand how a site worked or developed in itself –
+4       the site was merely the context for the ﬁnds. The epochal concept of culture
+5       provided the framework within which a context or stratigraphic event was
+6       primarily understood – as denoting a particular phase or period (epoch)
+7       within a relative chronology whose ultimate purpose was to place an object
+8       in the correct point of a sequence. This was its primary cultural relevance.
+9          Despite the so-called innovations of Pitt Rivers, the differences between
+30111   him and Greenwell are not differences in kind, but only of degree. Indeed,
+1       one might even suggest that Schliemann was as good as Pitt Rivers, espe-
+2       cially when one considers the complexity of the sites he excavated,
+3       identifying building levels/layers in a Tell. In 1881 he also brought in an
+4       architect, Dörpfeld, to produce accurate plans (Cottrell 1953: 79, 85; Trigger
+5       1989: 197). Similarly, Giuseppi Fiorelli at Pompeii in the later nineteenth
+6       century excavated in wide horizontal layers rather than the usual ‘mine
+7       shafts’, expressing a concern for controlled excavation (Malina and Va šíček
+8       1990: 49). Petrie, who started excavating in Egypt around the same time,
+9       also produced work of an equal standard and was followed by George Reisner
+40111   at the turn of the century who improved techniques even more (Trigger
+1       1989: 197). We have not discussed Reisner’s work here but it is signiﬁcant
+2       to note that the American archaeologist Alfred Kidder, who is discussed
+3       below, had studied under him at Harvard (ibid.: 188).
+44111
+        32   Critical approaches to fieldwork
+
+1111       What brings most of these archaeologists together is a similar conception
+2       of archaeological ﬁeldwork as primarily one concerning the retrieval of arte-
+3       facts. The actual precision used in such retrieval is in many ways irrelevant
+4       since the signiﬁcance lies not in any stratigraphic context but in a ﬁnd’s
+5       relationship to other ﬁnds. This is clear for example in Pitt Rivers’ adoption
+6       of average sections and the concern for three-dimensional recording rather
+7       than stratigraphic association. This is not to say that they were not inter-
+8       ested in the features from which ﬁnds came, such as graves, buildings,
+9       ditches – but rather that these took second place to the ﬁnds. Schliemann’s
+1011    conception of the recovery of Priam’s treasure shares the very same back-
+1       ground as Pitt Rivers’ recovery of Romano-British pottery from Rushmore
+2       Park; both archaeologists wanted to be sure of the context from which the
+3       ﬁnds came, but were not concerned for the context in itself, so much as
+4       for the ﬁnd.
+5          From this perspective, the proximity of late nineteenth-century archae-
+6       ology to antiquarianism is much closer; what unites them is a focus on the
+7       object rather than the site. What separates them is a concern to place
+8       the ﬁnds in an evolutionary/historical rather than an aesthetic/speculative
+9       context. Schliemann’s major intellectual concern was with the literal truth
+20111   of Homer; Pitt Rivers’ preoccupation was with the evolution of material
+1       culture. Both focused on the object to achieve this, and the methods they
+2       actually used to retrieve objects were not that dissimilar. It is interesting
+3       to turn and see how the same issue was dealt with in North America,
+4       because, despite differences, the same conceptions lie at the root of ﬁeld-
+5       work conducted there at the end of the nineteenth century.
+6
+7
+        The development of field archaeology in North America
+8
+9       As in Europe, late nineteenth-century archaeological ﬁeldwork in North
+30111   America was highly variable in quality, being conducted by a mixture of
+1       peripatetic collectors such as Edward Palmer or people trained in other
+2       disciplines such as William Henry Holmes (art), Cyrus Thomas (ento-
+3       mology) and Frederic Ward Putnam (zoology) (Meltzer 1985: 251).
+4       Archaeology in North America was very much dominated and forged at
+5       this time by two institutions, the Bureau of American Ethnology (BAE) in
+6       Washington and the Peabody Museum, Harvard, both of which were
+7       concerned to develop a profession of ‘real archaeologists’ although with
+8       some differences of opinion (Hinsley 1974, 1985). The BAE certainly
+9       regarded itself as the leader of a new science, claiming it represented the
+40111   ‘New Archaeology’ (Meltzer 1985: 252); on the other hand, it was perhaps
+1       Putnam who did more than anyone to train groups of students in careful
+2       excavation and recording and he was one of the few to talk publicly about
+3       his techniques (Putnam 1973 [1886]).
+44111
+                                                                 Finding the past   33
+
+1111      In an address to the Harvard University Archaeological Society in 1885,
+2       Putnam outlined the methods of investigation for burial mounds, settle-
+3       ments and cemeteries, all of which followed a similar procedure of trenching
+4       or slicing:
+5
+6           For instance, in exploring a mound a trench is ﬁrst dug at the base of
+7           the mound. A slight vertical wall is made thereby showing the contact
+8           of the edge of the mound with the earth upon which it rests. . . . This
+9           wall is the ﬁrst section of the exploration, and its outline should be
+1011        drawn or photographed and its measurements noted. For the latter
+1           purpose it is best to stretch two strings over the mound, one north and
+2           south and the other east and west, and to take all measurements from
+3111        those. After this ﬁrst section is made, the work is carried on by slicing;
+4           or cutting down a foot at a time, always keeping a vertical wall in
+5           front, the whole width of the mound. Each slice thus made is a section.
+6           . . . This method is continued until the whole mound has been dug
+7           away, and a thorough knowledge of its structure and contents obtained.
+8                                                           (Putnam 1973 [1886]: 3)
+9
+20111   This slice method was basically a way of progressing by means of a contin-
+1       uous vertical face, allowing constant check on the stratigraphy. It is
+2       important to recognise that while it is not stratigraphic excavation, it is
+3       still excavation which is aware of stratigraphy. This is an important point,
+4       because there is a great deal of disagreement over who conducted the ﬁrst
+5       stratigraphic excavations in North America, and misunderstanding of this
+6       difference may lie at the base of many of these disputes (Browman and
+7       Givens 1996: 81). The ‘stratigraphic revolution’ is discussed later in this
+8       chapter, but it is worth looking at other ﬁeldworkers in the late nineteenth
+9       century who used stratigraphy to interpret their sites.
+30111      Browman and Givens analyse several early claimants for stratigraphic
+1       excavation, including William Dall and Henry Holmes, both of whom, like
+2       Putnam, clearly observed stratigraphy in cross-sections, but this is not the
+3       same as excavating stratigraphically (ibid.: 82). However, others such as
+4       G. Nordenskiöld, Richard Wetherill and George Pepper have also been
+5       accredited with early stratigraphic excavation, and at least in the case of
+6       Pepper this seems incontrovertible, thanks to Reyman’s study of his unpub-
+7       lished ﬁeld notes (Reyman 1989). Pepper’s work in the 1890s was certainly
+8       ahead of its time (if only by a decade or so) and not only because of his
+9       ﬁeld methodology, but also because of his concern with chronological
+40111   change – and the two are linked. His methods remained unpublished and
+1       were not taken up, perhaps because the discipline was still not quite ready
+2       for an interest in chronology.
+3          Much the same point can be made of early stratigraphic excavations in
+44111
+        34   Critical approaches to fieldwork
+
+1111    South America by Max Uhle which were more or less ignored in their own
+2       day. Uhle was born and trained in Germany, and in particular his early
+3       museum work in Europe would have made him attentive to issues of typo-
+4       logical development. Moreover, he was familiar with Petrie’s studies. His
+5       most inﬂuential work was conducted in Peru and Bolivia in the 1890s, and,
+6       after Petrie, he used seriation techniques on grave assemblages to create a
+7       highly successful chronology (Uhle 1902). Only rarely did he employ strati-
+8       graphic means to verify these, but during later excavations on a shell-mound
+9       in California he used the stratigraphy to suggest a sequence of cultural
+1011    change. The reaction to this work is very interesting, because essentially
+1       the work was disputed and ultimately ignored; and yet the man responsible
+2       for this, Alfred Kroeber, was also responsible for later resurrecting Uhle’s
+3       work and bringing the importance of seriation into archaeology (Willey
+4       and Sabloff 1993: 63–4; Browman and Givens 1996: 82).
+5          While it is important to recognise Uhle’s contribution to archaeological
+6       ﬁeldwork, I think one must not lose sight of the fact that his use of stratig-
+7       raphy was not common and, like Petrie, he preferred to use discrete graves
+8       to work on rather than stratiﬁed deposits such as middens. Where he perhaps
+9       differed from Petrie was that he was more concerned with speciﬁc
+20111   regional/historical culture change than general evolutionary trends – a fact
+1       which also caused him to clash with prevailing views at the turn of the
+2       century in North America. The latter part of the nineteenth century in
+3       North America has been characterised as a period of formalisation for
+4       American archaeology, much as it was in Europe (Willey and Sabloff 1993).
+5       It was a time when a great deal of ﬁeldwork was conducted, and sites
+6       described and classiﬁed; however, unlike in Europe, there was comparatively
+7       little concern for chronology which appears partly linked to the legacy of
+8       Evolutionism which saw non-Europeans as ‘peoples without history’. This
+9       may be an over-simpliﬁcation, however, especially if one looks at a work such
+30111   as the Marquis de Nadaillac’s Pre-historic America (1885), which distinguishes
+1       several periods ‘from the shell-heap to the mound, from the mound to the
+2       pueblo, from the pueblo to the structures of Mexico, Central America and
+3       Peru’ (de Nadaillac 1885: 534). However, it is telling that he was French,
+4       not American, and his book was an explicit copy of his earlier work on pre-
+5       historic Europe. Nevertheless, it might be noted that the book was edited
+6       (and its themes endorsed) by William Dall, a prominent North American
+7       archaeologist who made use of stratigraphic observation in his studies.
+8          For North American archaeologists, the major issues in the latter part
+9       of the nineteenth century revolved around the antiquity of human occu-
+40111   pation and the origin of numerous mounds in the Ohio and Mississippi
+1       valleys, which some claimed had been built by a ‘lost race’ rather than by
+2       ancestors of present-day North American Indians (Dixon 1913: 549; Meltzer
+3       1985: 252). Through the efforts of the Bureau of American Ethnology under
+44111
+                                                                      Finding the past   35
+
+1111    the guidance of Wesley Powell and later Cyrus Thomas, both issues were
+2       resolved, with most unanimity centred on the latter issue. Putnam, at the
+3       Peabody Museum, also contributed greatly to destroying the ‘lost race’ theory
+4       of the mound-builders but, in opposition to Powell, argued for a more
+5       ancient origin for the North American Indians. The important point here
+6       is that the only issue of chronological signiﬁcance was over the very long
+7       term – between palaeolithic and present-day Indians – and when Powell’s
+8       views eventually prevailed, North American prehistory became more or less
+9       a single period discipline. Part of this undoubtedly relates to the close asso-
+1011    ciation between archaeological and ethnographic work by the Bureau, and,
+1       while destroying the lost race hypothesis of mound-builders was an impor-
+2       tant development, the very premise of this association also underpinned
+3111    the continuity perceived between contemporary and prehistoric North
+4       American Indians (Meltzer 1985: 255).
+5          It is this lack of concern for chronology which accounts for the relative
+6       obscurity of those early stratigraphic excavations. Finding any published work
+7       on ﬁeld methods for this period is hard – indeed much information undoubt-
+8       edly lies in ﬁeldnotes and manuscripts (Reyman 1989: 41–2). Yet this fact
+9       itself is instructive – in many ways, the issue of who conducted, and when, the
+20111   ﬁrst stratigraphic excavation is a red herring. The larger point is that there was
+1       no standardised or widely adopted approach to ﬁeldwork in North America
+2       before the 1930s; indeed before 1900 there was little agreement over how to
+3       evaluate archaeological discoveries, except on a personal basis (Hinsley 1976;
+4       Meltzer 1985: 254). Putnam’s address from which I quoted above ended with
+5       an appeal for all archaeologists to follow similar principles; at the heart of the
+6       drive for the professionalisation of archaeology was ﬁeldwork which one could
+7       trust. Hinsley raises this issue both for Putnam at the Peabody and Powell at
+8       the BAE, in terms of their seeking people to conduct ﬁeldwork for their
+9       respective institutions (Hinsley 1974: 41; 1985: 62). This essentially came
+30111   down to the need for a full and proper record of the excavation, as Putnam’s
+1       references to measured plans, sections and photographs intimate, and while
+2       articulated differently from Pitt Rivers’ call for the total record, the basic issue
+3       of trust, i.e. reliable data, was the same.
+4          The period between 1870 and 1900 was a period of major transition in
+5       many ways in North America, as in Europe, with, on the one hand, a ﬁeld-
+6       work which was largely driven by the desire to build and enhance museum
+7       collections, and, on the other, one which also clearly recognised the impor-
+8       tance of context. But, unlike Europe, the meaning of this context was quite
+9       different: in Europe, context was chronological due to the evolutionary
+40111   interpretation of prehistory; in North America, context was far more ethno-
+1       graphic due to the anthropological perspective. This view, however, was
+2       soon to change, largely through the inﬂuential ﬁgure of Franz Boas. Within
+3       the second decade of the twentieth century, culture change became the
+44111
+        36   Critical approaches to fieldwork
+
+1111    issue, and it was largely articulated through a combination of stratigraphic
+2       excavations and seriation. But it was also mediated by a very different
+3       conception of culture which rejected evolutionism outright.
+4
+5
+        Culture history and the assemblage (1920–1960)
+6
+7
+        The Wheeler–Kenyon school and stratigraphy in Britain
+8
+9       It has been an often raised point that Pitt Rivers’ exhaustive approach to
+1011    ﬁeldwork was almost ignored by his successors as few excavators reproduced
+1       his standards, at least in Britain (Petrie’s ﬁeldwork was in Egypt). Mortimer
+2       Wheeler clearly regarded Pitt Rivers as a model:
+3
+4            Between 1880 and 1900 General Pitt Rivers in Cranborne Chase had
+5            brought archaeological digging and recording to a remarkable degree
+6            of perfection, and had presented his methods and results meticulously
+7            in several imposing volumes. Then what? Nothing. Nobody paid the
+8            slightest attention to the old man. One of his assistants had even
+9            proceeded to dig up a lake-village much as Schliemann had dug up
+20111        Troy or St. John Hope Silchester: like potatoes.
+1                               (Wheeler 1958: 55; also see Wheeler 1954: 13–14)
+2
+3       This assistant who dug a site ‘like potatoes’ was none other than H. St
+4       George Gray, the site being Glastonbury in Somerset (Bulleid and Gray
+5       1911/1917). But how bad was this site in fact? Gray joined Arthur Bulleid
+6       in 1902 after the latter had already been excavating the site for several
+7       years in the 1890s; fresh from Cranborne Chase, Gray’s contribution seems
+8       to have been predominantly on the ﬁnds rather than the excavated struc-
+9       tures, and indeed Bulleid’s excavation and recording appears to have been
+30111   as good, if not even better than Pitt Rivers’ – scale plans were drawn with
+1       most of the ﬁnds plotted on them, and full feature and ﬁnds descriptions
+2       are given in the ﬁnal report (Barrett 1987: 412–13). In general, the only
+3       criticisms that can be made about the excavation are the same as those
+4       applicable to Pitt Rivers – namely lack of stratigraphic information, although
+5       perhaps the location of ﬁnds was not always as precise as with Pitt Rivers.
+6       Corroborating this picture was another site excavated by Gray between
+7       1908 and 1913 – Maumbury Rings in Dorset, a multi-period site; this appears
+8       to have been done almost exactly following Pitt Rivers’ methods, from
+9       trenching techniques to recording (Bradley 1975: 5–6).
+40111      Wheeler then is certainly wrong in describing the decades after Pitt
+1       Rivers as retrograde; rather, it appears that he has exaggerated the bril-
+2       liance of Pitt Rivers. Wheeler himself gained one of his ﬁrst experiences
+3       of ﬁeld archaeology as a young student with Jocelyn Plunkett Bushe-Fox
+44111
+                                                                    Finding the past   37
+
+1111    at the excavations of the Roman town at Wroxeter in 1913. Looking at
+2       this site report, one sees that it is very similar in layout to Pitt Rivers’
+3       Excavations in Cranborne Chase, with detailed discussion of the site followed
+4       by ﬁnds ‘reports’. Measured plans and sections are shown and in all respects
+5       it is very difﬁcult to say it is of a lower standard than Pitt Rivers’ reports.
+6       What is clear is that Bushe-Fox was conscious of the importance of both
+7       plan and stratigraphy and the last site report of 1914 shows three phases
+8       of building development on the site (Bushe-Fox 1916; plates XXX–XXXII).
+9          This is way ahead of anything Pitt Rivers did; what is signiﬁcant, though,
+1011    is that Bushe-Fox’s concern for stratigraphy was partly in order to produce
+1       local Romano-British pottery sequences, as he highlights the importance
+2       of ‘well-stratiﬁed deposits’ in the discussions of coarse pottery (e.g. Bushe-
+3111    Fox 1913: 68). It is no coincidence, then, to ﬁnd he worked with Petrie
+4       in Egypt, nor that his excavations at Wroxeter were preceded by a study
+5       on dating Roman pottery from excavations at the Roman fort at Corbridge
+6       the previous year (Bushe-Fox 1912). It is also perhaps no coincidence that
+7       Mortimer Wheeler’s ﬁrst work was on Roman pottery, a work he began
+8       after the 1913 season at Wroxeter.
+9          Through his experience at Wroxeter and on sites in Essex after the war,
+20111   Wheeler developed his ideas on ﬁeld methodology, particularly stratigraphy,
+1       and it was in Wales that these ﬁrst crystallised at the Roman fort of
+2       Segontium in 1921–2 (Wheeler 1958: 60). He clearly saw the publication
+3       of Segontium as a key moment, drawing attention to a section of a cellar
+4       where, as he puts it, ‘the whole bones of the matter are’ (Wheeler
+5       1956: 60; see Figure 2). Soon after, in 1927 in an address to the Royal
+6       Society of Arts, he pronounced stratiﬁcation as the key principle of exca-
+7       vation, and through a number of examples, particularly of Roman sites, he
+8
+9
+30111
+1
+2
+3
+4
+5
+6
+7
+8
+9
+40111
+1
+2
+3       Figure 2 Wheeler’s section at the Roman fort of Segontium
+44111
+        38   Critical approaches to fieldwork
+
+1111    demonstrated how the basic geological concept can be applied on archae-
+2       ological sites; natural stratiﬁcation such as the lake bed clays of Sweden
+3       illustrated ‘the principle of deﬁnite chronological sequence represented by
+4       the superposition of stratum over stratum in the soil. This principle lies at
+5       the basis of all archaeological excavation’ (Wheeler 1927: 817). His follower
+6       Kathleen Kenyon afﬁrmed the same principle: ‘The science of excavation
+7       is dependent on the interpretation of the stratiﬁcation of a site, that is to
+8       say the layers of soil associated with it’ (Kenyon 1953: 69).
+9          However, years before, J. P. Droop in his Archaeological Excavation (1915)
+1011    had preached the importance of stratigraphy and even gives an example of
+1       stratigraphic interpretation rather similar to Wheeler’s in his 1927 article
+2       (Droop 1915: 75–7). It is Wheeler, however, who gives the classic example
+3       – which he uses later in his book, Archaeology from the Earth – of what can
+4       happen if stratigraphic excavation is not followed. A buried wall will cut
+5       through certain layers, be contemporary with others, and sealed by still
+6       more, ‘yet the ﬁrst instinct of the inexperienced excavator when he discovers
+7       a buried wall is at once to cut alongside it in order to see where it goes!
+8       Thereby destroying beyond amend just that evidence which might have
+9       made his discovery a real and living addition to knowledge’ (Wheeler 1927:
+20111   824; also see Wheeler 1954: 73–7; and Kenyon 1953: 90). Wheeler might
+1       have been thinking of Petrie when he wrote this, for in his Methods and
+2       Aims in Archaeology Petrie recommends just what Wheeler abhors: ‘In the
+3       case of tracing a building, trenches cut along the lines of the walls are a
+4       good beginning; and then if more is wanted, the plan is clear and the rooms
+5       can be emptied with foresight’ (Petrie 1904: 41).
+6          The importance of stratigraphic excavation is made clear in his criticism
+7       of arbitrary digging, where the ‘notion of peeling off the successive strata
+8       in conformity with their proper bed-lines, and thus ensuring the accurate
+9       isolation of structural phases and relevant artefacts, is not even considered’
+30111   (Wheeler 1954: 53–4). Throughout Wheeler’s examples, the importance of
+1       stratigraphy is usually referenced to its role in providing chronological infor-
+2       mation; this is ironic given that Petrie’s concerns were practically the same.
+3       How is it, though, that for Wheeler stratiﬁcation came to take on so much
+4       more signiﬁcance than it did for Petrie? One may point to the fact that
+5       Wheeler was working a great deal on deeply stratiﬁed sites (e.g. Roman
+6       towns) – but while this may have played a part, it cannot be the whole
+7       answer as Petrie too worked on such sites in Egypt. The answer must relate
+8       to the changing concept of culture within which Wheeler was working; to
+9       address this, it is worth examining the ﬁeld techniques of Wheeler a little
+40111   more closely, along with those of his contemporaries, especially Kathleen
+1       Kenyon.
+2          It is quite clear from both Wheeler’s and Kenyon’s work that stratig-
+3       raphy was the section; the two were inextricably linked and in this, perhaps,
+44111   we can see something of the same ‘visual’ sense of an excavation as Petrie
+                                                                     Finding the past   39
+
+1111    had in terms of ﬁnds and the plan. In a similar manner to Petrie, Wheeler
+2       identiﬁes three basic methods of investigating a site: trial trenching
+3       (sondages), open area and substantive trenching (Wheeler 1954: 63). The
+4       ﬁrst and last are rather similar in execution if not in strategy, involving
+5       limited cuttings – though in the former it is to test or attempt to uncover
+6       the archaeology, while in the latter it is directed at speciﬁc types of situation
+7       such as across an earthwork or to link up open areas. Wheeler’s main
+8       method, as Petrie’s, was the ‘open area’. This term has different connota-
+9       tions, however, especially today when we often use the phrase ‘open area’
+1011    to denote absence of baulks, as distinct from Wheeler’s ‘box’ system (see
+1       p. 52). For Wheeler, there were many ways to excavate an open area but
+2       only one satisﬁed all the necessary criteria for a proper, stratigraphic exca-
+3111    vation: the box or grid method (ibid.: 64–8; also see Atkinson 1946: 41–3;
+4       Kenyon 1953: 94–5).
+5          The method, ﬁrst employed at Maiden Castle (Wheeler 1943), sub-
+6       divided the area to be excavated into a series of squares on a grid (as Petrie
+7       recommended) but leaving baulks (i.e. standing sections) along the axes of
+8       the grid so that in effect the open area is divided into a series of ‘boxes’
+9       within which excavation proceeds (Figure 3). In employing his method,
+20111   Wheeler tended to use a control square (or, similarly, before opening an
+1       area, dig a trial trench or sondage) in order to establish the nature of the
+2       stratigraphy on the site. The control pit helped guide the progress of
+3       the excavation for ‘stratiﬁcation must, by its nature, always be controlled
+4       from the side, i.e. from the side of the control-pit, since it obviously cannot
+5       be controlled prophetically from the top: vertical digging ﬁrst, horizontal digging
+6       afterwards, must be the rule’ (Wheeler 1954: 66; emphasis in original). It
+7       is worth reiterating that phrase, ‘stratiﬁcation must, by its nature, always be
+8       controlled from the side’; stratiﬁcation is the section. This, as we shall see,
+9       is not the way we view things today and the difference is quite telling.
+30111      Wheeler himself does not give much information on how one goes about
+1       correlating the different strata between the squares or even between sections
+2       within a square except to say that it must be continually done as excavation
+3       proceeds down (Wheeler 1954: 66–7). He was aware of the potential hazards
+4       of a section-based stratigraphy where layers may not ‘follow through’ (ibid.).
+5       His follower, Kathleen Kenyon, gave a more detailed example illustrating
+6       the procedure which it is instructive to follow for what it reveals about a
+7       section-based conception of stratigraphy (for a later, similar example, see
+8       Alexander 1970: 71–4). In her two examples (Kenyon 1953: 130–1; ﬁgures
+9       13–14), one of a prehistoric site and another Roman, she shows how one
+40111   lays out the different squares in adjacent columns, the different layers in
+1       each listed in rows, producing a sort of matrix (in the strict mathematical
+2       sense – which is ironic given the use of this word for the modern system
+3       developed by Harris; see p. 56). The layers are then placed on the same
+44111   row if they either represent the same deposit or are contemporary, and
+        40   Critical approaches to fieldwork
+
+1111
+2
+3
+4
+5
+6
+7
+8
+9
+1011
+1
+2
+3
+4
+5
+6
+7
+8
+9
+20111
+1
+2
+3
+
+
+
+
+                                                Figure 3 Wheeler’s box-trench excavation at Maiden Castle
+4
+5
+6
+7
+8
+9
+30111
+1
+2
+3
+4
+5
+6
+7
+8
+9
+40111
+1
+2
+3
+44111
+                                                                  Finding the past   41
+
+1111    can be adjusted up or down according to their place in the sequence (i.e.
+2       later or earlier). Moreover, each row or a group of rows is collected under
+3       a periodisation or phasing, as we would say today. The Kenyon ‘matrix’ is
+4       indeed almost like a visual analogue of the section itself and stresses a
+5       simpler, unilinear sequence of layering (Figure 4).
+6          Throughout Kenyon’s and Wheeler’s texts there is a very clear bias
+7       towards seeing stratiﬁcation chieﬂy in terms of layers, which, as Harris has
+8       pointed out, is an overly geological conception of stratiﬁcation (Harris 1989:
+9       12–13). Wheeler himself in his 1927 paper begins his discussion of archae-
+1011    ological stratigraphy by using the geological example of lake-bed clays
+1       (Wheeler 1927: 816–17). Pyddoke’s whole book Stratiﬁcation for the
+2       Archaeologist (1961) focuses very much on geomorphological processes.
+3111    Today the debate is still alive about the geological conception of archae-
+4       ological stratigraphy, especially between Harris and proponents of
+5       archaeostratigraphic classiﬁcation (Gasche and Tunca 1983; Farrand 1984;
+6       Stein 1987; Harris 1991; also see Chapter 5). However, the point to note
+7       here is the effect such a bias has on giving over-emphasis to the concept
+8       of a layer in archaeological stratigraphy.
+9          Although Kenyon (1953: 69) afﬁrmed that ‘the term stratiﬁcation may
+20111   also be applied in the archaeological sense to things which are not strictly
+1       layers at all, but pits, banks, trenches, in fact any disturbance in the soil’,
+2       there is still a real sense that the layer provided the model for a strati-
+3       graphic unit. Note how she describes such non-layers: ‘in fact any disturbance
+4       in the soil’. Throughout the chapter on excavation techniques, such things
+5       are repeatedly described as disturbances, that is, deﬁned in reference to
+6       the layer which they break. Indeed both in her and Wheeler’s books, there
+7       is a clear sense that the two basic components of a site are layers and
+8       structures; tellingly, structures are never given numbers, only layers are
+9       (and disturbances of layers). More signiﬁcantly interfaces and/or cuts do
+30111   not receive numbers – but only solid deposits (see Kenyon’s section in
+1       Figure 4).
+2          In other words, even though Kenyon recognised a pit as a unit distinct
+3       from a layer, the concept of what a pit was, stratigraphically, was very much
+4       in terms of a layer – that is, what was recorded was the pit ﬁll, not the pit
+5       cut. This is what got numbered, not the line deﬁning the extent of the
+6       disturbance. Harris also quotes Kenyon in this respect, but he tends to give
+7       Wheeler and Kenyon the credit for recognising the interface as a unit of
+8       stratiﬁcation, when in fact this is misleading (Harris 1989: 11). Certainly
+9       they recognised the importance of the interface as distinguishing between
+40111   deposits, a fact which comes out forcefully in their espousal of strong lines
+1       in section drawing (see p. 208); yet to say that they recognised the impor-
+2       tance of the interface as a unit in its own right is incorrect. This was surely
+3       Harris’s major contribution (see p. 153; Harris 1991).
+44111
+        42   Critical approaches to fieldwork
+
+1111
+2
+3
+4
+5
+6
+7
+8
+9
+1011
+1
+2
+3
+4
+5
+6
+7
+8
+9
+20111
+1
+2
+3
+4
+5
+6
+7
+8
+9
+30111
+1
+2
+3
+4
+5
+6
+7
+8
+9
+40111
+1
+2
+3       Figure 4 Kenyon’s correlation table of archaeological layers
+44111
+                                                                   Finding the past   43
+
+1111       This idea that all units of stratigraphy are essentially layers (or deposits)
+2       is still common outside archaeology in Britain and I have witnessed sheer
+3       incomprehension at the idea that one might record a cut as a stratigraphic
+4       event. This is clearly not necessarily a case of ‘bad archaeology’ (however
+5       much we might like to think so), but must relate to something fundamental
+6       in the way the archaeological record is perceived. I think it is important
+7       to look at the wider milieu of Wheeler and Kenyon, especially to try see
+8       in what way their perspective on excavation linked up with that of the
+9       concept of culture.
+1011
+1
+        Wheeler, Bersu and the culture-group concept in
+2
+        European archaeology
+3111
+4       Although Wheeler was undoubtedly extremely inﬂuential on British ﬁeld
+5       techniques, he had a rival; Gerhard Bersu, who brought German ‘open
+6       area’ methods into Britain in the later 1930s, inﬂuenced a whole genera-
+7       tion of famous archaeologists such as Grahame Clark, W. P. Grimes and
+8       Christopher and Jacquetta Hawkes (Evans 1989). Given Bersu’s background
+9       in the ‘homeland’ of the culture-group concept and its concern for settle-
+20111   ment archaeology, his focus on large, open area plans is perhaps unsurprising.
+1       Indeed, settlement archaeology extended back into the nineteenth century
+2       in much of mainland Europe with C. Schuchardt’s excavations and recog-
+3       nition of posthole structures since the 1870s (Malina and Va šíček 1990:
+4       49). Elsewhere on mainland Europe, people such as van Giffen in the
+5       Netherlands and Gudmund Hatt in Denmark were, like Bersu, conducting
+6       open area excavations without baulks/sections speciﬁcally to be able to
+7       discern such structures (Barker 1982: 16–20). Bersu’s inaugural project was
+8       the excavation of the Iron Age settlement at Little Woodbury, conducted
+9       on behalf of the Prehistoric Society in 1938 and 1939 (Bersu 1938, 1940).
+30111   However, Bersu’s method has perhaps gone down as more pioneering than
+1       it really was; his excavation was not strictly ‘open area’, but consisted of a
+2       series of parallel strip trenches which were backﬁlled with the spoil from
+3       the ‘seams’ between them which were dug afterwards (Bersu 1938: 42; for
+4       a contemporary critique of this method by a Wheelerian, see Atkinson
+5       1946: 43; earlier critics include Droop 1915: 22).
+6          As Evans points out, only in the ﬁnal plan does it look like an open
+7       area excavation (Evans 1989: 443); and yet exactly the same can be said
+8       about Wheeler’s excavations: when completed, the baulks of a Wheelerian
+9       grid were removed to recover the whole ‘plan’ so that the ﬁnal result might
+40111   look like a section-free open area. There is little difference in the plans of
+1       Bersu and Wheeler, except perhaps stylistically as Bersu often published a
+2       naturalistic as well as schematic plan (e.g. see Bersu 1940, ﬁgures 20 and
+3       21), although it is his naturalistic sections which are usually recalled, in
+44111
+        44   Critical approaches to fieldwork
+
+1111    opposition to Wheeler’s ‘compromise’ sections (see Chapter 6 for further
+2       discussion of these points). Many of the differences between Bersu and
+3       Wheeler have perhaps been exaggerated – certainly they differed in their
+4       graphic representation as just mentioned, but possibly most signiﬁcantly it
+5       was in their interpretation of prehistoric sites. Wheeler worked a lot on
+6       Roman as well as prehistoric sites, and much of the antagonism between
+7       him and Bersu was over the ‘pit-dwelling’ view of pits (Evans 1989: 444).
+8       Bersu’s major inﬂuence was undoubtedly not on ﬁeld techniques in general
+9       but upon the importance of recognising posthole structures in the British
+1011    context and their interpretation as houses, replacing the pit-dwelling theory
+1       (ibid.: 445). Even Pitt Rivers was not very good at this and missed most
+2       structures in the areas he stripped (Barrett et al. 1991: 13). Yet while an
+3       open area is essential for such recognition, Bersu’s method was not the
+4       most conducive to it, and certainly no more so than Wheeler’s.
+5          While it may be fair to say that Bersu gave more emphasis to the plan
+6       than Wheeler did, it is not necessarily the case that Wheeler gave greater
+7       signiﬁcance to sections. This caricature was fuelled by the followers of Bersu
+8       – in their book Prehistoric Britain, the Hawkeses opposed horizontal
+9       and vertical approaches, associating them with modern-sociological and
+20111   traditional-historical schools of archaeology respectively, albeit paying lip
+1       service to an ideal which combines both (Hawkes and Hawkes 1947: 167).
+2       And yet this is exactly what Wheeler was attempting; in the statement
+3       already quoted, although he afﬁrmed that the ‘vertical’ precedes the ‘hori-
+4       zontal’, he still required both. Certainly Wheeler was almost on a mission
+5       to raise awareness of stratigraphic relations and the importance of the
+6       section, but it is also quite clear that such a method as the box system was
+7       an attempt to ﬁnd the optimum compromise between section and plan views
+8       of the excavation.
+9          This last is quite crucial to understanding the context of Wheeler’s
+30111   methods in terms of the concept of culture at the time. Wheeler’s concern
+1       for stratigraphy meant that the section was raised in value, not that the
+2       plan was devalued. The force of this comes out when we consider the rela-
+3       tionship of these methods to the contemporary culture-group concept
+4       (Barker 1982: 15; Harris 1989: 11). Petrie’s concern for chronology was
+5       expressed very much as a relative phenomenon; what mattered was sequence,
+6       not absolute time (see p. 31). Contrast that with Wheeler’s statement on
+7       chronology:
+8
+9            To-day, when the traditional precision of history has nevertheless been
+40111        extensively supplemented by broadly based cultural studies, it may seem
+1            reactionary and perverse to reafﬁrm, as I do, at the beginning of a book
+2            on archaeology in the ﬁeld that mere dates are still of primary and ulti-
+3            mate and unrelenting importance. And by dates I mean not simply
+44111        those nebulous phases and sequences, those date-substitutes with which
+                                                                  Finding the past   45
+
+1111        archaeologists often try to bluff us. I mean time in hard ﬁgures. I mean
+2           Bradshaw.
+3                                                                (Wheeler 1954: 38)
+4
+5       Wheeler even tells us why we need ‘time in hard ﬁgures’, and this is the
+6       crucial point:
+7
+8           First, without an absolute chronology cultures of different regions cannot
+9           be assessed: in other words, the vital causative factors of human ‘progress’
+1011        cannot be authoritatively reconstructed, and may be widely misunder-
+1           stood. Secondly, the ﬂuctuating tempo of human achievement – cannot
+2           be estimated: the lightning ﬂash, for example, of Periclean Athens, or
+3111        the glow of the slow-moving riverine civilizations.
+4                                                                           (ibid.: 39)
+5
+6       Ignoring the speciﬁc interpretations Wheeler evokes which may sound
+7       dated, the signiﬁcant aspect to absolute chronology which he highlights is
+8       its status as a measure – it enables cultural variability to be commensurable
+9       both in terms of change and the rate of change. The afﬁrmation of an
+20111   absolute, independent chronology made by Wheeler stands in contrast to
+1       Petrie. Petrie’s evolutionary views are, for all intents and purposes, iden-
+2       tical to Wheeler’s, yet the two have quite contrary ways of articulating
+3       them: for Wheeler, assessing the progress of civilisation necessitated an
+4       independent measure of time, while for Petrie such a measure was super-
+5       ﬂuous since all that was necessary was sequence. The reasons for this
+6       difference are discussed in more detail in the next chapter, but the crux
+7       would seem to lie with the fact that for Petrie there was only one History,
+8       one Story of Progress, and the details of when this happened or at what
+9       rate were merely incidental. For Wheeler, on the other hand, history was
+30111   multiple, civilisation had many faces and to understand it in all its variety
+1       meant that just those things which Petrie downplayed, rose to pivotal impor-
+2       tance. I have argued elsewhere that the subsequent development of
+3       radiocarbon and other dating techniques can be seen in this changing
+4       conception of time to prehistory rather than as a simple narrative of progress
+5       in archaeological knowledge (Lucas 1997).
+6          The rise of the culture group, of a pluralist conception of culture, created
+7       the necessity for an absolute framework within which to analyse that
+8       pluralism – space and time. Cultural difference was no longer directly rela-
+9       tive, but had to be compared indirectly through the medium of space–time.
+40111   In order to delineate cultural horizons under such a view, time and space
+1       had to be kept quite distinct, acting like a mutual check upon the other’s
+2       validity. That such a model of the necessary foundation or basis upon which
+3       to understand the past should also be seen in excavation techniques is
+44111   perhaps not surprising. Indeed as this distinction became more important,
+        46   Critical approaches to fieldwork
+
+1111
+2
+3
+4
+5
+6
+7
+8
+9
+1011
+1
+2
+3
+4
+5
+6
+7
+8
+9
+20111
+1
+2
+3
+4
+5
+6
+7
+8
+9
+30111
+1
+2
+3
+4
+5       Figure 5 Wheeler’s section from Brahmagiri, India
+6
+7
+8       one would expect a debate in excavation techniques over the problems of
+9       reconciling horizontal and vertical control. This is perhaps just what the
+40111   Wheelerian grid system attempted. The concern in excavation for both
+1       horizontal and vertical control is a direct expression of the wider conception
+2       of control in interpreting prehistory through the axes of space and time;
+3       locating a stratigraphic layer on a site both in plan and section is a direct
+44111   correlate of the need to ﬁx a culture group in prehistory in time and space,
+                                                                Finding the past   47
+
+1111    illustrated in the charts or tables of cultures seen in many textbooks, most
+2       famously in Childe’s Danube in Prehistory (1929). This is not to say that a
+3       layer is comparable to a culture group, although it is interesting to look at
+4       one of Wheeler’s sections from his Indian campaigns (Figure 5; Wheeler
+5       1954: 48; ﬁgure 9) where major discontinuities in the section (i.e. strati-
+6       graphic sequence) are read as major changes in culture groups – a trait
+7       more common in North America. Now is a good point at which catch up
+8       with developments there and see how similar – or different – ﬁeldwork was.
+9
+1011
+        North America: stratigraphy and culture history
+1
+2       The early decades of the twentieth century in North America saw the rejec-
+3111    tion of cultural evolutionism and the adoption of historical particularism
+4       under the lead of Franz Boas and his students (Willey and Sabloff 1993: 91).
+5       In effect, this was comparable to the development of the culture-group con-
+6       cept in Europe and spurred the whole development of methods to recover
+7       cultural differentiation across time and space. At the turn of the century,
+8       spatial, that is regional/geographical, cultural complexes were beginning to
+9       be systematically articulated, particularly through the work of W. H. Holmes,
+20111   who aimed to synthesise the distribution of archaeological material with
+1       known ethnographic areas (Holmes 1914). However, as Meltzer says, this
+2       work became obsolete almost as soon as it was published because the very
+3       idea of ﬁxed, unchanging cultures was being overturned (Meltzer 1985: 258).
+4       It was not so much the spatial differences which were problematic as their
+5       association with an unchanging ethnographic present. Thus it was the
+6       chronological aspect which gained most attention and became the dominant
+7       issue for American archaeology for the ﬁrst half of the twentieth century as
+8       the primary means to developing culture-historical ‘area syntheses’.
+9          This emphasis is clearly borne out in the subsequent development of ﬁeld
+30111   techniques, with what has been called, ‘the Stratigraphic Revolution’
+1       (Willey and Sabloff 1993: 97; Browman and Givens 1996), which at ﬁrst
+2       sight mirrors that in Britain under Wheeler. The methods and concerns of
+3       North American archaeologists were, however, somewhat different. Their
+4       primary purpose in employing stratigraphic excavation was to recover a
+5       sequence of material culture assemblages which, when compared or quan-
+6       tiﬁed, enabled a detailed chronological differentiation of an area. While
+7       stratigraphic excavation was important in understanding the site, its main
+8       aim was to prove cross-site or regionally signiﬁcant sequences. Second,
+9       although it has been called ‘stratigraphic excavation’, this has not quite
+40111   the same meaning as it did – or does – in Britain. While this practice in
+1       North America, usually meant recognition of stratiﬁcation, excavation often
+2       proceeded by arbitrary spits rather than by the physical strata. This differ-
+3       ence has been described as digging by ‘metrical, as opposed to natural
+44111   stratigraphy’ (Willey and Sabloff 1993: 107; also Haag 1986: 68). In Britain,
+        48   Critical approaches to fieldwork
+
+1111    the same difference is described as arbitrary versus stratigraphic excavation
+2       (Harris 1989). Without going into which is the best terminology, the rele-
+3       vant point here is that the ‘stratigraphic revolution’ in North America was
+4       clearly quite different from that in Britain at the same time.
+5          The key inﬂuential works on carefully controlled ‘stratigraphic’ excavation
+6       were by Manuel Gamio in Mexico (1913) and Nels C. Nelson (1916) and the
+7       Kidders (1917) in the Southwest. Gamio’s work came about under Franz Boas’
+8       instigation and tutelage – Boas had been instrumental in setting up an Inter-
+9       national School of American Archaeology and Ethnology in Mexico in 1910
+1011    and Gamio was Boas’ ﬁrst doctoral student at Columbia, subsequently taking
+1       up a fellowship at the School in 1911 (Browman and Givens 1996: 90). One
+2       of the primary aims of the school was the establishment of a regional chronol-
+3       ogy after the Berlin professor Eduard Seler (who was director in the ﬁrst year)
+4       had noted the great diversity of material culture in the valley of Mexico. In
+5       reporting the ﬁrst years of work by the school, Boas writes:
+6
+7            The question arose, how to determine the chronological sequence of
+8            these remains. A survey of the wells and brick-yards in the environ-
+9            ment of the City of Mexico showed that this question could be studied
+20111        by observations on geological sequence of strata. In the year 1911–12
+1            a careful investigation was conducted in one single excavation in a
+2            brick-yard at San Miguel Amantla near Atzcapotzalco, which was
+3            carried out under the supervision of the Director by Mr Manuel Gamio.
+4            The result of this excavation was the deﬁnite proof that three distinct
+5            civilizations were found in the Valley of Mexico, – a primitive one,
+6            which is found in the bottom layers; a second one, identical with that
+7            of San Juan Teotihuacán; a third one, the Aztec.
+8                                                                  (Boas 1915: 385)
+9
+30111   While Gamio’s work initiated a spate of similar stratigraphic excavations
+1       by the school under Boas’ supervision, a similar movement was occurring
+2       in the Southwest under the impetus of Nelson. Nelson, who had earlier
+3       excavated Californian shell mounds similar to Uhle’s but with uninspired
+4       results, excavated a deep midden in the Southwest in a similar manner to
+5       that of Gamio, using arbitrary units, with even more impressive results:
+6
+7            At that time it was noticed in a general way that different types of
+8            pottery fragments prevailed at different levels but no effort was made,
+9            until too late, to keep them separate. . . . A visibly stratiﬁed section of
+40111        the refuse exposure showing no evidence of disturbance was selected
+1            and a block of this measuring 3 by 6 feet on the horizontal and nearly
+2            10 feet deep was excavated. I performed this work with my own hands
+3            . . . potsherds from each separate foot of debris were kept apart. . . .
+44111                                                                    (Nelson 1916)
+                                                                  Finding the past   49
+
+1111    It seems unlikely that Nelson was inﬂuenced by Uhle, especially given that
+2       his tutor, Alfred Kroeber, had been very scathing of Uhle’s work (Browman
+3       and Givens 1996: 82–3). Nor, despite his association with George Pepper,
+4       did stratigraphic excavation seem to take hold with him from this source
+5       (Reyman 1989); rather, it seems that only after spending a season in Spain
+6       with famous European archaeologists did he return and adapt these strati-
+7       graphic methods to the Southwest in 1914 (ibid.: 83–4). Kidder, aware of
+8       both Gamio’s and Nelson’s work, was deeply complimentary, and even
+9       though his own ﬁeldwork using stratigraphic methods came after them, it
+1011    is unfair to paint him as an imitator. Kidder’s approach was quite different,
+1       and his subsequent inﬂuence greater than that of Nelson or Gamio. Kidder’s
+2       training was under the famous Egyptologist George Reisner at Harvard, who
+3111    employed stratigraphic methods on his sites in the Near East and intro-
+4       duced a course on ﬁeldwork in 1911 (ibid.: 87). By 1913, Kidder was already
+5       thinking that stratigraphic excavation would resolve problems in sequencing
+6       types, and by 1915 had started work at Pecos.
+7          Kidder’s method stands out above Gamio’s and Nelson’s in that instead
+8       of using arbitrary units of excavation, he followed the natural stratigraphy:
+9
+20111       The Pecos test pits were not divided into exactly equal cuts, as was
+1           done by Mr Nelson, but were laid out in nearly equal divisions based
+2           on sand, ash, or other strata which indicated actual levels of deposi-
+3           tion during the formation on the mound. This was necessitated by the
+4           fact that the Pecos deposits were for the most part laid down on sloping
+5           or irregular surfaces, and cuts made on arbitrary chosen plane levels
+6           would have resulted in the splitting or cross-cutting of strata.
+7                                                    (Kidder and Kidder 1917: 340)
+8
+9       Ultimately, what matters is not who was ﬁrst, or who inﬂuenced whom, but
+30111   that by 1920, the use of stratigraphic methods – natural or arbitrary – were
+1       widespread. The actual procedures used in such stratigraphic excavation, par-
+2       ticularly on initial exploratory ﬁeldwork, varied but generally two main
+3       methods seem to have been employed; one was a ‘level-stripping’ method
+4       whereby a trench or pit was cumulatively excavated, either by arbitrary/
+5       metrical or stratigraphic/natural units, the other, almost the inverse of the
+6       last, was the ‘block’ method. This involved trenching all around a square,
+7       leaving a standing block or column which could then be excavated, again
+8       arbitrarily or stratigraphically. This method was employed by Nelson and
+9       Kidder but also subsequently by the Tennessee Valley Authority (TVA)
+40111   excavation programmes which began in the 1930s (Haag 1986: 68). The
+1       advantage it had over the other, was that the vertical section could actually
+2       be used to guide excavation, whereas in the former, it can only serve as a post
+3       facto check; in terms of ﬁxing ﬁnds to correct layers, the ‘block’ method
+44111    had clear advantages. Superﬁcially, the ‘block’ method also appears to be a
+        50   Critical approaches to fieldwork
+
+1111    negative version of Wheeler’s ‘box’ method. It does not seem, however, as if
+2       whole areas were excavated like this but rather single pits/trenches, and it
+3       was more common to still excavate such blocks arbitrarily rather than by
+4       layer. Nevertheless, there is a clear common conception in North America
+5       and Britain of stratigraphy being understood through the section.
+6          As if further mirroring the developments in Britain, ﬁeldwork in North
+7       America also developed a concern for open area excavation in the 1930s,
+8       particularly in the eastern states where the traces of structures survived
+9       largely as postholes, etc., rather than as standing architecture as in the
+1011    pueblos of the southwest or stone ruins of Central and South America.
+1       Previously, plans of ‘features’ were often only recovered from reconstruc-
+2       tions because of the slice method, as pioneered by Putnam and others (see
+3       p. 33), but an increase in interest for such plans meant that an open area
+4       stripping or peeling method became more desirable. The major impetus for
+5       ﬁeldwork changes came under rescue situations with the Works Progress
+6       Administration (WPA), Tennessee Valley Authority (TVA) and Civilian
+7       Conservation Corps (CCC) projects in the late 1930s and 1940s, and the
+8       individuals who supervised them such as William Webb and Fay Cooper-
+9       Cole (Dunnell 1986b: 28). While initially under the over-arching authority
+20111   of the Committee for State Archaeological Surveys (CSAS) established in
+1       1920, these projects also led to the formation of the Society of American
+2       Archaeologists (SAA) in 1934 (and its journal, American Antiquity) which
+3       took over the functions of the CSAS when it was disbanded in 1937, unable
+4       to cope with the quantity of work (Pinsky 1992: 166–7; Setzler and Strong
+5       1937). The formation of the SAA has also been seen as an attempt to
+6       carve out a separate identity for archaeology in the four-ﬁeld discipline of
+7       anthropology pioneered by Boas and expressed though the American
+8       Anthropological Association (and its journal, American Anthropologist),
+9       especially as Boas appears to have had little interest in archaeology – despite
+30111   helping Gamio – because of its museum associations (Pinsky 1992: 174–5).
+1          These rescue projects engendered a whole new generation of archaeolo-
+2       gists and stimulated the demand for academic posts outside the restricted
+3       ambit of Columbia and Harvard. They also established consistent sets of
+4       ﬁeld procedures, including the use of site grids and standardised recording
+5       forms. While Guthe published a general statement on ﬁeld methods in 1930
+6       under the National Research Council, the ultimate codiﬁcation of the
+7       methods developed in the 1930s and 1940s was Heizer’s Guide to Archae-
+8       ological Field Methods, ﬁrst published in 1949 and, albeit vastly modiﬁed in
+9       subsequent editions, still going strong (Hester et al. 1997). As elsewhere, a
+40111   distinction was made between test or exploratory excavations which uncov-
+1       ered a part of the site using trenching and area excavation which involved
+2       stripping a larger expanse. In either case, Heizer identiﬁed two main
+3       methods: the slice or vertical face method as developed by Putnam (some-
+44111
+                                                                  Finding the past   51
+
+1111    times modiﬁed by stepping the faces, a technique known as level stripping),
+2       and the unit-level method where the site is divided into separate square
+3       units based on a grid, with each excavated independently and stratigraph-
+4       ically (Heizer 1958: 40). The latter became the main method, especially
+5       for open area sites and, as with Wheeler’s box system, it deals with both
+6       the horizontal and vertical planes, exhibiting the same concerns for spatial
+7       and temporal control. The advantage over the slice method was through
+8       the better recovery of plans, and because units were excavated separately
+9       a section was always available for checking the vertical stratigraphy.
+1011       As in Britain, the new methods manifested themselves on the larger
+1       canvas of area syntheses, exempliﬁed most famously in Kidder’s work at
+2       Pecos:
+3111
+4           As originally planned, the work of the Pecos expedition was to be ﬁrst
+5           intensive, then extensive. The intensive phase was to consist of the
+6           excavation of the pueblo, and the determination by stratigraphic
+7           methods of the sequence of the pottery types found at the site. During
+8           the second or extensive phase we were to use our knowledge of the
+9           sequence of the pottery types to arrange in their proper chronological
+20111       order all other ruins which contained those types. This work was to
+1           be accomplished by a thorough archaeological reconnaissance of the
+2           Rio Grande drainage.
+3                                                       (Kidder 1962 [1924]: 132)
+4
+5       Kidder’s work at Pecos led to a major conference to formulate a classiﬁca-
+6       tory scheme which in turn spawned alternatives in response, such as those
+7       by Harold Gladwin and William McKern. These are discussed in greater
+8       detail in a later chapter, but whatever the classiﬁcations employed, such
+9       area syntheses became a major goal of archaeologists in the 1930s to 1960s
+30111   and were ultimately, as Willey and Sabloff note,
+1
+2           an ordering of the archaeological remains of a given area in a spatio-
+3           temporal framework. The essence of this ordering was the archaeological
+4           chronology chart, a diagram arranged with chronological periods in
+5           vertical column and geographical subdivisions across the top, so that
+6           the various culture units . . . could be placed in their appropriate boxes.
+7                                                     (Willey and Sabloff 1993: 128)
+8
+9       The ultimate synthesis and zenith of culture classiﬁcations was undoubt-
+40111   edly Indians Before Columbus, by Martin, Quimby and Collier, published
+1       in 1947, which produced such charts for the whole of North America,
+2       appended to a long, detailed and turgid text listing the various traits of
+3       each culture group.
+44111
+        52   Critical approaches to fieldwork
+
+1111    Cultural behaviour and context (1960–present day)
+2
+3       Winchester and ‘techniques’ of archaeological excavation
+4       in Britain
+5       By the 1960s and the rise of rescue archaeology the ‘myth’ of the open area
+6       excavation as pioneered by Bersu was well established; in Graham Webster’s
+7       Practical Archaeology, it is rated above the grid system for most sites except
+8       certain kinds (e.g., barrows, earthworks) because of its emphasis on the plan
+9       (Webster 1965: 86–7). But the open area excavation applauded by Webster,
+1011    as for example that employed at Yeavering by Brian Hope-Taylor or at
+1       Cheddar by Philip Rahtz, was not the same as Bersu’s open area. Much of
+2       the difference is simply related to the use of mechanical excavators allowing
+3       large areas to be opened all at once rather than successively. They were being
+4       occasionally used on sites by the 1940s, but chieﬂy in a rescue context and
+5       often just to cut sections or long trenches (see Atkinson 1946: 47). Atkinson
+6       suggested that their use might become more common and for stripping larger
+7       areas, especially on sites which consisted of subsoil features under an already
+8       disturbed ploughsoil layer (ibid.: 220). The growth of rescue archaeology in
+9       the 1960s undoubtedly stimulated their use to the extent that there are few
+20111   sites dug today which do not employ a mechanical excavator to take off the
+1       overburden (Figure 6; see Alexander 1970: 41 and 52–3).
+2          Certainly having a truly open area affected the perception and inter-
+3       pretation of sites (particularly for posthole buildings; see Barker 1969; also
+4       Bradley 1997: 64–8), but in a way this change in the ‘way of seeing’ had
+5       already happened; the ‘true’ open area came about twenty years after its
+6       alleged advantageous effect, as we have seen. Large-scale, mechanical strip-
+7       ping merely conﬁrmed what was anticipated. Webster’s Practical Archaeology
+8       is, for the most part, notable for the way in which it is so similar to its
+9       predecessors such as Atkinson’s Field Archaeology and Wheeler’s Archaeology
+30111   from the Earth. For example, the same two kinds of entities – structures and
+1       layers – are recognised by Kenyon as ‘ﬁrst, man-made constructions ranging
+2       from walls to hearths, rubbish-pits and post-holes, and secondly, deposits
+3       or layers . . . of material laid down by man’ (Webster 1965: 59). Signiﬁcantly,
+4       though, ‘disturbances’ are now deﬁned as post-depositional natural events
+5       such an root action and animal burrows, while postholes etc. are grouped
+6       under structures (ibid.). There are innumerable other similarities one could
+7       give, but despite all the rhetoric of the Bersu ‘school’ very little changed
+8       in ﬁeld methods from Wheeler’s pioneering work in the 1920s. The really
+9       signiﬁcant shifts in ﬁeld techniques did not occur through open area exca-
+40111   vation speciﬁcally but in methods associated with it, formulated by the
+1       Winchester Research Unit in the 1960s.
+2          Fundamental to Martin Biddle’s decision to set up the Winchester
+3       Research Unit in 1961 ‘was a swing in emphasis away from a concept of
+44111
+        Finding the past   53
+
+1111
+2
+3
+4
+5
+6
+7
+8
+9
+1011
+1
+2
+3111
+4
+5
+6
+7
+8
+9
+20111
+
+
+
+
+                           Figure 6 Modern open-area excavation in Cambridgeshire, England
+1
+2
+3
+4
+5
+6
+7
+8
+9
+30111
+1
+2
+3
+4
+5
+6
+7
+8
+9
+40111
+1
+2
+3
+44111
+        54   Critical approaches to fieldwork
+
+1111    excavation dominated by the requirements of a particular period, notably
+2       that of Roman Britain, towards the examination without period bias of a
+3       city or town as an overall archaeological entity’ (Jones 1984: 17).
+4       Undoubtedly the urban context of Biddle’s excavations was a causative
+5       factor, but all the same the concept of an excavation stripped of ‘period
+6       bias’ cannot be totally derived from the multi-period nature of most urban
+7       archaeology. There is surely more to it, especially as we consider the other
+8       concept that grew alongside this, that of ‘problem-oriented’ excavation (see
+9       Barker 1977: 4) and indeed this comes out when we look closely at the
+1011    positive developments associated with this abandonment of period bias.
+1          The ﬁrst expression of these new developments was publicly aired at a
+2       research seminar at the Institute of Archaeology in London at the end of
+3       1967, and published two years later (Biddle and Kjølbye-Biddle 1967, 1969).
+4       Three ‘new ideas’ were expounded, two of which I shall focus on here:
+5       metric, co-ordinate planning and open area excavation on deeply stratiﬁed
+6       sites. The big difference between stripping an open area on a greenﬁeld
+7       site with little stratigraphy and a brownﬁeld or urban site is very impor-
+8       tant to appreciate. Most if not all the work of Bersu’s adherents had been
+9       done on the former, where little if anything was lost by opening large areas
+20111   at the expense of retaining baulk sections. The same cannot be said in an
+1       urban context, however; one must appreciate the boldness of the Biddles’
+2       use of it in such a situation:
+3
+4            One of the major problems in excavation is the need to combine the
+5            conﬂicting requirements of horizontal and vertical observation and
+6            record. This problem is particularly acute in the excavation of large
+7            areas. The normal solution, ﬁrst devised by Sir Mortimer Wheeler at
+8            Maiden Castle, has been to excavate a grid of squares divided by baulks.
+9            In this way the excavation of a large area can be combined with a
+30111        permanent record of the vertical stratiﬁcation. . . . There are, however,
+1            serious disadvantages: the trench pattern is imposed on the site, often
+2            to the detriment of the pattern of structures, and once established the
+3            trench pattern is ﬁxed. The deeper the squares go, the more difﬁcult
+4            it becomes to view and comprehend the structures as a whole. . . . On
+5            a site with very complex stratiﬁcation, correlation of layers from one
+6            side of a baulk to the other may be impossible.
+7                                            (Biddle and Kjølbye-Biddle 1969: 211)
+8
+9       In coming up with a new method to reconcile the horizontal and vertical
+40111   which did not necessitate the retention of baulks, the Biddles developed a
+1       process of digging by ‘phase’. Essentially this involved the layout of a grid
+2       of pegs across the site enabling the recording of features by a cartesian co-
+3       ordinate system (compatible with the National Grid); temporary baulks/
+44111
+                                                                  Finding the past   55
+
+1111    sections are maintained but only until a certain level is reached, deﬁned
+2       by a ‘major layer’, then they are removed after proper recording (Biddle
+3       and Kjølbye-Biddle 1969: 212). The whole process is then repeated, the
+4       grid lowered as the site proceeds down and baulks either left in the same
+5       place or relocated according to the archaeology at that level. The end result
+6       is then primarily a series of ‘phase’ plans and ‘cumulative’ sections.
+7          As the Biddles stated, such a method ‘required great site discipline and
+8       well-trained workers’ (ibid.: 213). In a way, this method signalled the start
+9       of the whole ‘mechanisation’ of excavation whereby digging becomes more
+1011    a technical than interpretive process, a trend which reached its culmina-
+1       tion in single-context recording and professional, ﬁeld (i.e. contract)
+2       archaeology. Barker summed it up when he wrote in the ﬁrst edition of
+3111    Techniques of Archaeological Excavation, that the digger was a . . . ‘techni-
+4       cian producing evidence from the ground regardless of its date or function’
+5       (Barker 1977: 53). This is diagrammatically represented in Alexander’s hier-
+6       archy of the excavation team which not only grades people according to
+7       their authority but includes objects such as trowels and excavators so that
+8       an impression is given of a hierarchy from human down to machine
+9       (Alexander 1970: 17, ﬁgure 1). Those people closest to the bottom are
+20111   most associated with the machines, most machine-like. The so-called
+1       democratisation of ﬁeld archaeology which some have seen occurring since
+2       the rise of rescue archaeology and the Winchester method is directly linked
+3       into this ‘technicisation’ (see Chapter 1).
+4          While all this chimes well with the Biddles’ focus on an excavation free
+5       of ‘period bias’, it also appears that concurrently excavation was being trans-
+6       formed into a process more and more removed from the interpretation of
+7       the past – and yet I do not think this is quite right. Maybe the digger is
+8       removed from that interpretation, but not the supervisor or director. Yet
+9       changes in the manner of interpretation in the ﬁeld did occur, but we must
+30111   rather see this in relation to changing conceptions of what prehistory and
+1       culture have meant since the 1960s. However, before I go into this, let me
+2       complete the story of the developments at Winchester, particularly the
+3       development of single-context recording.
+4          The advantage of the Biddles’ method over Wheeler’s is clear in so far
+5       as sections are always strategically placed with respect to the archaeology,
+6       both for the clarity of the section and the plan. However, as the Biddles
+7       recognise, at the point at which one pauses, ‘a qualitative decision is taken
+8       which may not really reﬂect an equally important phase in the history of
+9       the site’ (Biddle and Kjølbye-Biddle 1969: 213). In other words, the partic-
+40111   ular level at which the director decides to stop and draw a plan and change
+1       the grid can only be based on his or her current understanding of the site
+2       and the stop may be too early or too late. This may only be picked up in
+3       the post-excavation analysis of the records. However, the issue goes deeper,
+44111
+        56   Critical approaches to fieldwork
+
+1111    for it makes assumptions about the way a site changes – that a site will go
+2       through major, site-wide shifts (phases) rather than a multi-linear trajectory,
+3       with different parts of the site changing at different rates or times. This
+4       problem is actually the most critical issue, and upon it hinges the change
+5       from the old combined section and plan method of digging to an effectively
+6       totally plan-driven method. The Biddles’ digging ‘in phase’ still relied on
+7       the notion of the layer as the most signiﬁcant stratigraphic entity and conse-
+8       quently the importance of the section to reading stratigraphy. In the course
+9       of post-excavation work at Winchester, Edward Harris, who worked for the
+1011    Research Unit between 1967 and 1971, developed a method of relating
+1       stratigraphic units diagrammatically which had a spin-off for the whole
+2       process of recording a site allowing just for this factor of multi-linearity.
+3
+4
+        The Harris matrix and single-context planning
+5
+6       Harris had formulated a method of dealing with post-excavation problems in
+7       1973 which relied on the innovations developed at Winchester. Up to the
+8       use of context sheets, the basic textual ﬁeld record was the notebook which
+9       was usually ordered so that each page corresponded to a square in the grid
+20111   or area within the site. The square was assigned a letter and on its corres-
+1       ponding page the different layers were listed and numbered (though num-
+2       bering always started from zero within each square; e.g. see Kenyon 1953:
+3       129–31). This basic two-tier method of a letter (square/area) and number
+4       (layer) goes back at least to Petrie and is chieﬂy linked in to a means of iden-
+5       tifying the provenance of ﬁnds (Petrie 1904: 51–2). With the Biddles’ use of
+6       co-ordinate planning, letter and number systems were dispensed with so that
+7       every ﬁnd or feature could be located by speciﬁc x–y co-ordinates as in a
+8       cartesian grid (Biddle and Kjølbye-Biddle 1969: 208), and more signiﬁcantly
+9       in this context, one could also then have a single running sequence of
+30111   numbers of every stratigraphic unit for the whole site.
+1          The basis of the Harris matrix is that any stratigraphic unit can only
+2       have three possible kinds of direct relationship to another: none, earlier/later
+3       than, or equivalent to (Harris 1989: 36). In practice, contexts may have
+4       indirect relationships with other contexts (i.e. through a common context
+5       which is earlier or later) as well as the more direct relationships. The nature
+6       of this indirect relationship cannot be determined stratigraphically but
+7       must be discovered by other means, which involve grouping (or phasing)
+8       the matrix into broad divisions which are approximately contemporary;
+9       ideally this would be done through major horizon breaks in the sequence
+40111   and/or independent dating through ﬁnds association (e.g. pottery, coins).
+1       Essentially this is the question of permutations of the matrix which occur
+2       in all multi-linear sequences (e.g. see Harris 1984; 1989: 129–32; also
+3       Dalland 1984).
+44111
+                                                                    Finding the past   57
+
+1111       The idea behind the matrix derives from critical path analysis, a tech-
+2       nique in quantitative geography: ‘This method [i.e. the matrix] of presenting
+3       a stratigraphic sequence might be seen as a form of critical path analysis’
+4       (Harris 1975: 119). Critical path analysis was formalised in the 1960s as
+5       part of the same statistical and quantitative ‘revolution’ which hit most of
+6       the social sciences, including archaeology. Essentially it presents in a
+7       diagrammatic form the shortest route in time on a one-way path, the critical
+8       path being the longest path through a network of possible routes. Inter-
+9       estingly, the work Harris quotes, Quantitative Geography, suggests that critical
+1011    path analysis
+1
+2           might also provide a new approach to studying the course of history,
+3111        since certain events could not happen before the completion of others.
+4           The motor car of the present could not be made before the invention
+5           of the internal combustion engine using petrol. This in turn had to
+6           await the invention of the sparking plug – and so on.
+7                                                     (Cole and King 1968: 572)
+8
+9       From the Biddles’ co-ordinate planning and Harris’s work on the matrix,
+20111   the idea of recording stratigraphic units on separate pro forma sheets and
+1       planning them individually, produced a whole new possibility in concep-
+2       tualising ﬁeldwork. The ﬁrst instances of the use of context sheets for
+3       describing stratigraphic units occurred in the 1970s; single-context planning
+4       was ﬁrst suggested to Harris by Lawrence Keen (Harris 1975: 121; 1989:
+5       95) and developed with Patrick Ottoway on New Road site, Winchester
+6       in 1975 (Harris and Ottoway 1976; Harris 1989: 95). It was developed as
+7       a means to avoid reliance on multiple-feature or, more commonly, composite
+8       plans – that is, plans which record all or phased features respectively, on
+9       the same drawing.
+30111      The combination of the matrix and single-context recording effectively
+1       meant that all baulk sections could be dispensed with and everything exca-
+2       vated in plan. For the ﬁrst time, stratigraphy became truly independent of the
+3       section. The basic conceptual difference between Harris’s formulation of
+4       stratigraphy and that based on the section is that, for the former, physical and
+5       stratigraphic relationships are not conﬂated but distinct. This difference will be
+6       explained below, but it was quite a momentous occasion in the history of
+7       ﬁeld archaeology in Britain. Statements such as the following, in a 1974 pub-
+8       lication on archaeological reports, once uncontested, swiftly became untrue:
+9       ‘The whole presentation of the excavator’s stratigraphic analysis and hence
+40111   his interpretation of the site has depended upon his sections, so they stand
+1       as the only record of that interpretation’ (Grinsell et al. 1974: 41). Harris’s
+2       methods were quickly adopted, most notably in London by the Department
+3       of Urban Archaeology (DUA) who ﬁrst used them at the GPO site in 1975
+44111
+        58   Critical approaches to fieldwork
+
+1111    to overcome the time constraints of on-site interpretation and the corre-
+2       sponding need for phase and composite plans (Spence 1991b). (Schoﬁeld
+3       (1977: 101), however, stated that these methods were being used as early as
+4       1974.) In the following discussion, I will deal with the DUA, or MoLAS
+5       (as it is now known – Museum of London Archaeology Service) system, as
+6       it undoubtedly represents the most reﬁned development of the Harris–
+7       Winchester method, though most other units in the country, especially urban
+8       units, have adopted a form/degree of single-context recording and the matrix
+9       (e.g. for York, see Pearson and Williams 1991).
+1011       The primary consideration in the excavation and recording of sites using
+1       this method is the stratigraphic sequence. The method is particularly useful
+2       on urban sites with deep, complex stratigraphy where some external control
+3       is required which does not solely depend upon on-site interpretation. The
+4       basis of the approach is to divide up the site into discrete units or contexts
+5       which are excavated and recorded according to their stratigraphic position:
+6       ‘Any single action, whether it leaves a positive or negative record within the
+7       sequence, is known as a “context”’ (Westman 1994: §1.2; emphasis in orig-
+8       inal). The deﬁnition of the unit is thus in terms of its physical, that is
+9       spatial, limits which are deﬁned either negatively (e.g. a cut) or positively
+20111   (e.g. a deposit) and interpreted as representative of a single action or event.
+1       This spatial deﬁnition means that even if what appears to be a single feature
+2       such as a dump layer is bisected by a cut, and if there is no physical contact
+3       extant between the two halves, then they are treated as two separate units.
+4       The approach has to be consistent; the identity of the two halves can
+5       always be established subsequently in the record. Each unit then has a
+6       stratigraphic position – that is a position relative to other units in terms
+7       of the sequence – and this is represented in terms of the Harris matrix
+8       (Harris 1989).
+9          The single-context recording system and the stratigraphic matrix are both
+30111   extremely useful methods in understanding a particularly complex archae-
+1       ological site; by viewing it as a palimpsest of discrete events (either of
+2       deposition or removal), the sequence of development on site can be under-
+3       stood with maximum control (Figure 7). It views the site or even a part
+4       of the site as a dynamic, creative process. In a way, it represents the apoth-
+5       eosis of techniques developed in the late 1960s and 1970s and best illustrates
+6       the conception of ﬁeldwork as the investigation and retrieval of an archae-
+7       ological record. No longer a physical site, made of dirt and sharp stones,
+8       no longer the location of buried treasure, but an abstract, immaterial struc-
+9       tured set of lines, numbers and text.
+40111
+1
+        Field archaeology in North America since 1960
+2
+3       North American archaeologists started to encounter large-scale excavations
+44111   comparable to the rescue or Cultural Resource Management work as early as
+                                                                Finding the past   59
+
+1111
+2
+3
+4
+5
+6
+7
+8
+9
+1011
+1
+2
+3111
+4
+5
+6
+7
+8
+9
+20111
+1
+2
+3
+4
+5
+6
+7       Figure 7 Harris matrix
+8
+9
+30111   the 1930s and 1940s through the Works Progress Administration and Civilian
+1       Conservation Corps programmes (Dunnell 1986b: 23). It was in such situa-
+2       tions that many of the innovations which were introduced in Britain in the
+3       1960s had already been implemented, innovations such as standard recording
+4       forms and cartesian grids (ibid.: 28). Mechanical excavators were also start-
+5       ing to be used at the same time, especially by the Tennessee Valley Authority
+6       and other salvage excavations, and, unlike Britain, they seem to have been
+7       instrumental in opening large areas and uncovering whole settlements
+8       (Wedel 1951; Haag 1986: 70). If the USA had already established many of
+9       the developments which took place a little later in Britain, what innovations
+40111   in ﬁeldwork did occur at this time? A look through the various editions and
+1       transformations of Heizer’s original guide from 1949 up to its present incar-
+2       nation shows that the same basic procedures, developed in the 1930s and
+3       1940s, continue to form the core of excavation methods, in particular the
+44111   ‘unit-level’ method of excavation. Most other ﬁeld manuals which started to
+        60   Critical approaches to fieldwork
+
+1111    appear from the 1960s onward, also cite the unit-level method as the favoured
+2       technique (e.g. Joukowsky 1980; McMillon 1991).
+3          The only major shifts within this scheme were the standard preference
+4       by the 1960s for excavating after the natural stratigraphy wherever possible
+5       rather than using arbitrary spits, and the subsequent adoption of the Harris
+6       matrix by the 1980s. The continued use of a horizontal grid as a larger
+7       excavation unit, however, distinguishes the US from the British approach
+8       with an accompanying greater concern for sections or proﬁles. In this regard,
+9       the layer remains the primary element of a site; thus features such as pits
+1011    are often still described as ‘disturbances’ of the stratigraphy rather than
+1       stratigraphic units in their own right (Joukowsky 1980: 150–7). McMillon
+2       even gives a detailed breakdown of such phenomena under the subtitle of
+3       ‘excavation problems’, where he divides them into ‘distortions’, ‘interrup-
+4       tions’ and ‘disturbances’ (1991: 77–84). The importance of the section for
+5       understanding the site is highlighted by Joukowsky, for it ‘can only be
+6       learned by the study of exposed sections and section drawings, which are
+7       scale drawings of the stratiﬁcation of the site’ (Joukowsky 1980: 153).
+8          Nevertheless, while it may appear that ﬁeld techniques did not develop
+9       as dramatically in the 1960s as they had in the 1920s and 1930s in North
+20111   America, this is only a partial view. While it may be fair to say that exca-
+1       vation methods were not radically different, more general aspects of ﬁeldwork
+2       were, speciﬁcally in the area of sampling and research design. Both on the
+3       larger scale of the landscape and the micro-scale of the site, sampling strate-
+4       gies were undoubtedly a major innovation in ﬁeldwork around the 1960s.
+5       Use of grids for ﬁeld survey, geophysical and geochemical methods of site
+6       prospecting, and the routine adoption of on-site screening (i.e. sieving) and
+7       ﬂotation of deposits for environmental and other remains are all major
+8       developments that took off after this time (Haag 1986: 70–3; Dunnell
+9       1986b: 28). The same trends also occurred in Britain and are clearly linked
+30111   to the new concerns and questions of archaeology after the 1960s – site
+1       distribution and regional settlement systems on the one hand, and environ-
+2       mental and ecological components on the other. Both these issues were of
+3       course raised in the decades before the 1960s, but it is only after this time
+4       that they became routine aspects of ﬁeldwork because of changes in the
+5       perception of the archaeological record.
+6          Fundamental to this change was the idea that the recovery of data was
+7       inevitably dependent on what one was looking for. Binford, in an impor-
+8       tant paper on research design, criticised most earlier ﬁeldwork for treating
+9       sites as essentially ‘mines’ for the recovery of artefacts with little regard for
+40111   features or the relationship between artefacts and features (Binford 1964).
+1       While this was perhaps overstating the case, his main issue was that ﬁeld-
+2       work was usually too constrained by what was within the often arbitrary
+3       limits of trenching or survey, and that the relationship between what was
+44111   in or on the ground and what was actually recovered remained unprob-
+                                                                   Finding the past   61
+
+1111    lematised. He argued for a need to consider proper sampling strategies and
+2       a thought-out research design using two basic units of sampling – the region
+3       and the site – the one being covered by surface survey and the other by
+4       excavation. For the former, he drew on the by now common trio of random,
+5       systematic or stratiﬁed sampling procedures, while for excavation he
+6       suggested a staged investigation employing methods which were already in
+7       use: an initial test pit survey to identify the presence of remains, a secondary
+8       block area excavation to provide a representative spatial cover, and ﬁnally
+9       an open area stripping to provide the detailed contextual data (ibid.). By
+1011    implementing a research design, the relevant data about sites could be prop-
+1       erly recovered, with, more importantly, some control over their recovery
+2       (e.g. see papers in Mueller 1975).
+3111
+4
+        Modern field methods and ‘action archaeology’
+5
+6       The rise of New Archaeology around the same time as these developments
+7       in ﬁeld techniques is of course no coincidence. The use of a matrix and
+8       single units is reminiscent of systems theory diagrams and we have already
+9       commented on its pedigree in geography’s critical path analysis. More speciﬁ-
+20111   cally though is the equation made between a stratigraphic unit and an
+1       event or action, for just as objects were no longer viewed as direct, norma-
+2       tive representations of cultures nor were the contexts of those objects.
+3       Culture came to be seen as more complex, articulated through all kinds of
+4       different behavioural events/actions rather than simply a normative repos-
+5       itory of traits. This complexity of culture is equally manifest in the SCR
+6       system of excavation which sees a site as a complex of actions/events rather
+7       than a simple sequence of cultures or cultural change as in ‘phase’ exca-
+8       vation. While this thematic link to excavation methods was perhaps stronger
+9       in Britain, in the USA these developments were accompanied by a group
+30111   of related studies – ethnoarchaeology, experimental archaeology,
+1       taphonomy, formation processes and Middle Range Theory – all of which
+2       in various ways tackle the question of the relationship between the archae-
+3       ological record and behaviour (see Chapter 5).
+4          Willey and Sabloff have suggested that the development of ‘feature’ exca-
+5       vation in the 1930s ultimately stimulated the concern for context and
+6       understanding behaviour patterns in the archaeological record (Willey and
+7       Sabloff 1993: 144). It certainly may have been a necessary precondition,
+8       but such behavioural concerns do not really appear until much later and
+9       in Britain a case can be made for clearly linking them to SCR with its
+40111   focus on the ‘event’ or ‘action’ nature of archaeological deposits. For Wheeler
+1       or Kenyon excavation was largely a matter of construction sequence; while
+2       we have inherited this notion, our focus on the stratigraphic unit as repre-
+3       sentative of an event seems a clear departure, in the sense of viewing a
+44111   site as a site of actions and events. Of course Wheeler saw this too, espe-
+        62   Critical approaches to fieldwork
+
+1111    cially through his imaginative reconstructions, but the difference is that for
+2       Wheeler the events are pulled out of the stratigraphic sequence and woven
+3       into a traditional historical narrative while under SCR they form the very
+4       basis of the sequence. Our concern today is understanding a structured
+5       activity or set of activities, not simply a series of unique events; the site is
+6       composed of this.
+7          Economic and ecological dimensions of the culture group as developed
+8       by such people as O. G. S. Crawford and Grahame Clark in Britain and,
+9       slightly later, Julian Steward and Leslie White in the USA, can be seen
+1011    as anticipating this behavioural turn. However, their work focused on
+1       improving the retrieval and analysis of environmental ﬁnds, rather than
+2       explicitly studying behaviour patterns through context or stratigraphic units.
+3       It is only when assemblages were studied in these terms that major changes
+4       were made in viewing the archaeological record – for example the studies
+5       on social organisation made on Pueblo sites in the American Southwest
+6       by Hill, Longacre and others and those on mortuary practices by Binford
+7       and others (Binford and Binford 1968). In Britain, similar studies ultimately
+8       developed into a contextual archaeology under the inﬂuence of Ian Hodder
+9       (e.g. Hodder 1982b). Just as the culture group concept inﬂuenced the way
+20111   sites were excavated, so processual/post-processual archaeology through its
+1       concern for behaviour/action has affected the way we perceive sites today.
+2          Looking back over the developments in ﬁeld archaeology since the 1880s,
+3       several major changes in perception can be identiﬁed. For Pitt Rivers and
+4       others of his time, the archaeological site was a repository of objects which,
+5       if carefully excavated and linked to types of monuments, were instrumental
+6       in the construction of evolutionary typological sequences. For Wheeler,
+7       Kidder and their contemporaries, the site became a repository of an arte-
+8       factual assemblage indicative of a culture group, and, if stratiﬁed, the locus
+9       of critical information on the chronological changes within this assemblage.
+30111   For us, the site is a repository of behavioural patterns, structured activities
+1       revealed through close analysis of contextual association within or between
+2       assemblages.
+3          One can see how each of these views is linked to the prevailing concep-
+4       tion of the past – as the evolution of culture, as the history of culture
+5       groups, and as cultural behaviour (however this is viewed). These changes
+6       should not, however, be seen as completely disjunctive, for many of the
+7       themes from preceding periods were carried over. We still use typologies
+8       and systems of classiﬁcation developed in the late nineteenth century and
+9       we still use regional culture differences inherited from the earlier twentieth
+40111   century. The history of ﬁeldwork is one of continuities and change and it
+1       is important to see the two together. Moreover, while there is no doubt
+2       that ﬁeldwork methodologies also tend to channel the process of recovery
+3       in relation to theoretical perspectives, this is not necessarily a closed rela-
+44111   tionship as the productive re-examination of earlier excavation archives
+                                                              Finding the past   63
+
+1111    shows (e.g. Barrett, Bradley and Green 1991; Barrett et al. 1983; Wilcox
+2       1981). This issue of the openness of archives is something I return to at
+3       the end of this book in terms of the concept of ‘iterability’ and the fact
+4       that excavation and ﬁeldwork in general are not necessarily the unrepeat-
+5       able experiments we often regard them as.
+6
+7
+8
+9
+1011
+1
+2
+3111
+4
+5
+6
+7
+8
+9
+20111
+1
+2
+3
+4
+5
+6
+7
+8
+9
+30111
+1
+2
+3
+4
+5
+6
+7
+8
+9
+40111
+1
+2
+3
+44111

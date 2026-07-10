@@ -1,0 +1,1679 @@
+                                    CHAPTER 5
+
+
+                    Genes and Languages
+
+
+
+
+     - More than 5,000 languages are spoken today. A few are used by
+       hundreds of millions of people, but the great majority have a very
+       restricted distribution. Languages with only a hundred speakers or
+  et
+  ee   fewer are in danger of imminent extinction; many have disappeared
+       already.
+ee) It doesn’t take a linguist to know that some languages are
+aeee
+      more closely related than others. Spanish and Italian, my mother
+      tongue, are obvious examples. I can get by in Spanish- or Portuguese-
+      speaking countries without much difficulty. However, words that are
+      identical or similar but have different meanings cause trouble. For
+      example, burro means “butter” in Italian but “donkey” in Spanish;
+     equipaggio means “crew” in Italian and equipaje means “luggage” in
+     Spanish; salire means “to go up” in Italian, and salir, “to go out” in
+     Spanish. We call these words “false friends,” and fortunately there
+     are not many of them. Italian, French, Spanish, Romanian, and so
+     on, derive from a common source—Latin. Likewise, Germanic
+     languages include Swedish, German, Dutch, Flemish, and English.
+     The Slavic languages of eastern Europe are also quite similar. The
+
+                                       133
+resemblance between Sanskrit, a classical language in India, and
+some ancient European languages was well-known as early as the
+eighteenth century.
+    The study of Sanskrit provided the first linguistic clues to the rela-
+tionships among what would become known as the Indo-European
+family of languages. Since then, many other linguistic families have
+been recognized (some linguists prefer to call these families phyla).
+Like plant and animal taxonomists, linguists have reconstructed
+trees illustrating linguistic relationships that they call “genetic”—
+equivalent to the word's use in biology. But linguists have had
+trouble reconstructing relationships above the family level—we
+have yet to agree on a single tree linking all the existing families. In
+fact, many linguists believe that the question of the unity or diver-
+sity of modern languages can never be answered. The difficulty
+rests with the rapidity of linguistic evolution.
+     Figure 11 shows the geographic distribution of language fami-
+lies recently proposed by Merritt Ruhlen. The least well-known
+languages, those of the Australian Aborigines and New Guineans,
+are more difficult to classify. But opinions about other families also
+differ, and bitter feuding has characterized much of historical lin-
+guistics over the past century. One of the most contentious issues
+among American linguists has been the classification of Native
+American languages.
+    At the beginning of the century, having noted the resemblance
+of many Amerindian languages, the linguist Edward Sapir and the
+anthropologist Karl Kroeber claimed that only a few Native Ameri-
+can language families existed. Their hypothesis met considerable
+resistance from the majority of American linguists who strongly
+opposed such a unification. A new cycle of contention began after
+Joseph Greenberg of Stanford University published a book in 1987
+called Language in the Americas, showing that the languages spo-
+ken by pre-Columbian Americans could be grouped into just three
+families: Eskimo-Aleut, Na-Dene (comprising languages that are
+spoken mostly in the Pacific Northwest, but also including Navajo
+and Apache), and Amerindian, which comprises most languages of
+North and South America. Greenberg's proposal agreed with the
+
+                                   134
+                                      MASNSS
+
+
+
+
+                                                                                                                                                                     ur sdeul Woy UMeIP) SozeIOST ONSINSUT [BIOAes Jo UONROOT pu ‘saTTUIey ONSMBuT] UsayUAas ayy Jo UOYNGUySIp orydesS005 “T][ eNSIq
+                                                                              |
+                                                                                    }
+                ULTURJOPIOY-~1esIN,
+                                                                                     (Ouysny)
+
+
+
+          UBIEYES-OTIN
+                                                                         uBpeyoUEy-yoNY
+
+
+                                                    uriseones
+
+
+
+
+                                                                                                                                                                                                                                                                                                       ‘(T JOA ‘L861 veryny
+                                                                   JTyseyNX-oyeIQ)
+                                                                uvedoinq-opuy
+                                                                              opy-Oun|sy                                                            mnafy-ounjs”
+                                                                                          oRIseoNsnYy
+                                                                                   uejoqiy-ours
+
+ueslory                                                                                                            anbseg
+                                                                                  UeIpIAeq              ueleysny
+
+
+
+                                      oNRISy-O1Ty
+                                                                     oreaty
+                                                                                         (OLysnYy)
+                                                                                         ovx-oRIW(Ousny)
+                                                                                                 oreq
+                                                                                                    oyloeg-opuypuuleury pysegstung
+                                                                                                                            PI       yeyeN
+
+                                                                                                                              PALO
+                                                                                     |                      auaq-en
+                                                                                                             fF                                     [Ay
+
+                                                                                                                                               Ree
+                                                                                                                                               ueadomg-opuy
+                                                                                                                                                    Kel ae
+                                                                                                                                                         (oLysny)
+                                                                                                                                                          uvIssuoQnsNYy
+                                                                                                                                                      (OLAsny)
+                                                                                                                                                      oPIseosny
+                                                                                                                                             SANV'ISI
+
+
+
+
+                                                                                                      135
+- classifications of American biologists Christie G. Turner and -
+ Stephen Zegura, who used measurements of modern and fossilized -
+ teeth, and blood groups and proteins, respectively. What's more,
+ these three linguistic families seem to correspond with three major
+ migrations suggested by archeological data. Amerindians appear to
+ have come first, followed by Na-Dene speakers and finally Eski-
+ mos. The first group occupied all of America, while the second and
+ third groups have remained near the Arctic, where they originated.
+ We also found that Native Americans can be divided genetically
+ into the three distinct groups Greenberg recognized on linguistic
+ grounds. It must be said, however, that Amerindians are genetically
+ extremely variable and that linguistic sub-groupings within the
+ Amerindian family level do not correspond terribly well with the
+ genetic results. Souther Na-Dene (Apaches and Navajos) are
+ genetically similar to Northern Na-Dene, but the southern popula-
+ tions have absorbed genes from their Amerindian neighbors.
+     The Amerindians appear to have reached the Americas in a
+ migration much older and more complex than those of later Na-
+ Dene and Eskimo-Aleut speakers, and there may even have been
+ more than one Amerindian migration. Genetic data indicate that
+  Amerindians arrived at least 30,000 years ago, but this date may only
+ _represent an average of the most important migrations. In addition,
+  it may be biased upwards if it is true that the first Amerindian migra-
+  tions involved very few individuals, as some new data on Y chromo-
+ somes suggest. A strong founders’ effect tends to increase the length
+ of branches in neighbor-joining trees, discussed later, and thus also
+ to exaggerate the time of first settlement calculated genetically.
+     The publication of Language in the Americas unleashed a new
+ war between American linguists and anthropologists supporting
+  Greenberg's thesis. A large group of linguists held a meeting and
+  declared it impossible to recognize fewer than sixty or so taxonomic
+  groups of Native American languages. Taxonomists can be divided
+  into “lumpers” and “splitters”: these synthetic and analytic tenden-
+  cies probably reflect a fundamental dichotomy in the human spirit.
+  However, in the case of Amerindian classification, methodological
+  differences can explain much of the dispute, as Greenberg discusses
+
+                                    136
+        4 indetail. Iam not a linguist, but I findGreenberg's arguments most          ~
+          convincing. Furthermore, Greenberg has been through this before.
+   _~     Many years ago, he proposed a now widely accepted classification of
+          African languages into only four families: Afroasiatic, including all
+          Semitic languages and most languages in Ethiopia and North Africa;
+          Nilo-Saharan, comprising languages spoken along the upper Nile
+          and the southern Sahara; Niger-Kordofanian, which includes most
+          central, southern, and West African languages, especially the Bantu
+           ones; and Khoisan languages, spoken by Khoi-Khoi and San popula-
+        _ tions in southern Africa. Greenberg's classification endured a bar-
+         _ rage of criticism when it was first proposed, and it is now widely
+           accepted. A similar change of attitude toward the Amerindian classi-
+          fication will probably come with time.
+              An examination of some of the objections thatGreenberg's col-
+          leagues have raised against his classifications can help us understand
+          both the objective difficulties that afflict studies of linguistic evolu-
+          tion, and also the subjective ones, which are typified by Greenberg's
+        _ attackers. Languages change very rapidly and it is terribly hard to
+          establish clear connections between distant languages. Significant
+          phonological and semantic changes to all languages occur over time.
+         The magnitude of these changes complicates the reconstruction
+   and evaluation of linguistic commonalities. Grammar also evolves,
+   although usually sufficiently slowly to aid the recognition of more
+ee
+ee
+ee ancient linguistic connections. Under the pressure of phonetic and
+         semantic change, a language rapidly becomes incomprehensible.
+         Modern languages derived from Latin would not be understandable
+         to a Roman of two thousand years ago—a thousand-year separation
+         is often enough to render a language incomprehensible to its first
+         speakers. After a separation of five to ten thousand years, the rate of
+         recognizably similar words can drop to ten percent or less. Fortu-
+         nately, certain words and certain parts of speech exhibit a slower rate
+         of change and give us a better chance of discerning more distant lin-
+         guistic relationships.
+             As for the problems caused by misguided methods, some anti-
+         Greenberg linguists believe it is impossible to posit a quantitative
+         relationship between any two languages. By disallowing reliable
+
+                                             137
+                                 © oft ee   >   °* ae
+                                                    as       a!
+                                                         +
+
+
+
+
+~ measurements, and by limiting the relationship between two lan-—
+  guages only to “related or not related,” the American linguists—
+  opposing Greenberg have ruled out the possibility of hierarchical ~
+ classifications, an essential prerequisite to taxonomy.
+     Interestingly, this position completely contradicts the view of |
+ linguists who use sophisticated methods to measure linguistic simi-
+ larity, based on the fraction of words from a standard list that have a
+ detectable common origin. This approach was developed by an
+ American linguist, Morris Swadesh. He suggested that the proba-
+ bility that a word will lose its original meaning stays constant over
+ time. When the fraction of related words retained after a known
+ period of time has been calculated (by observing the change from
+  Latin to the modern Romance languages, for example), we can con-
+ struct a “calibration” curve, allowing us to read the time elapsed
+ since two living languages shared a common ancestor. This method,
+ which has been called “glottochronology,” uses a “linguistic clock”
+ very similar to the “molecular clock” we discussed previously for
+ genetics. In biology, we have the advantage of using many proteins
+ ‘or DNA sequences to obtain many independent estimates of the
+  date of separation between two species. Unfortunately, there is no
+  such variety and wealth of data in linguistics to strengthen our con-
+  clusions. Glottochronology is a less rigorous method than those
+  used in biology, and is especially difficult to apply to distant com-
+  parisons when the fraction of cognate words more than ten thou-
+  sand years ago is very small. The word lists cannot grow, because
+  only a limited number of words change slowly; moreover, every
+  word has its own rate of change, a fact neglected by glottochronol-
+  ogy, which assumes a constant rate of change.
+      Other linguists insist that the resemblance between similar
+  words in different languages be examined in light of “classical
+  sound correspondences,” which are very strict rules of phonological
+  change. If these rules are not followed exactly, they say, two words
+  cannot be considered “cognates,” that is, one cannot determine if
+  they share a common origin. Greenberg has answered them with
+  an impressive list of exceptions to these rules within the Indo-
+  European language family and others. He concluded that it would
+
+                                     138
+              eae            eee    A
+
+    . be impossible to establish the Indo-European language family if
+  _ these rules were applied too rigorously. Fortunately, the Indo-
+ i European family was proposed and accepted before the theory of
+sound correspondences adopted its most rigid format.
+        Finally, some linguists believe that the parent language that
+    - gave rise to a family or, in general, a cluster of languages must be
+_       reconstructed in order to demonstrate a phylogenetic relationship
+a
+“<
+   among families. Here too, biology provides an analogy—when the
+    _ “consensus” DNA sequence is calculated from the sequence of two
+     _ modern species. The consensus sequence is the best guess of the
+        ancestral sequence that would require the fewest changes to gener-
+        ate the diversity observed in a particular sample. But the search for
+|.aia
+ —      consensus is less rigorous in linguistics because linguistic variation
+eee
+ee
+a,
+        is much wider than biological variation, since only four nucleotides
+        make up DNA. In biology, some proteins are so important to an
+vo organism that littleor no change could be tolerated. Thus, many
+__ sequences of proteins change extremely slowly, and it is possible to
+   prove their relationship without reconstructing ancestral sequences
+        of millions or even billions of years ago. Knowledge of a proto-
+        language may be helpful in comparative analyses, but imposing this
+        exercise on all linguistic classifications is a serious limitation when
+"so few proto-languages have been generated. Furthermore, recon-
+        structions have a low probability of being entirely reliable. Green-
+        berg’s method avoids this impasse. It may be more subjective than
+        is desirable, but it can go much further than other methods.
+            The classification of families by Merritt Ruhlen (a student of
+        Greenberg's) appears to me to be satisfactory for comparing genetic
+        and linguistic evolutions, as we will do in the next section. Defining
+        a family does not appear to be an entirely objective task, but the
+        distinctions between families, subfamilies, and superfamilies are
+        mostly a matter of convenience and are unnecessary for certain
+        purposes. What matters is the possibility of establishing a simple,
+        logical, and hierarchical relationship. Unfortunately, most modern
+        classifications stop at the level of families, of which there are as
+        many as seventeen in Ruhlen’s unifying system. There ate some
+        superfamilies, but, as already noted, modern linguistic methods
+
+                                          139
+have not yet generated a complete tree growing from a single —
+source.
+    It is of interest to consider some of the proposed superfamilies,
+even if they are rather controversial. According to Ruhlen, Austric is a
+superfamily consolidating four families: Miao-Yao (spoken in pockets
+of southern China, and northern Vietnam, Laos, and Thailand); Aus-
+troasiatic, comprising Munda languages spoken in northern India and
+Mon-Khmer (spoken mostly throughout Southeast Asia); Daic (spo-
+ken widely in southern China and much of Southeast Asia), and Aus-
+tronesian. There are some 1,000 Austronesian languages, spoken by
+about one hundred eighty million people, including Taiwanese abo-
+rigines and Malayo-Polynesians. The latter group ranges from Taiwan
+to Polynesia, parts of Melanesia, the Philippines, Indonesia, Malaysia,
+and as far west as Madagascar. The oldest Austronesian languages are
+spoken by Taiwanese aborigines. Whether or not this superfamily is
+accepted, it ties together a very wide geographic region, including
+Southeast Asia, both insular and non-insular areas, and a large num-
+ber of islands in the two oceans separated by Southeast Asia.
+   Superfamilies extending over Europe and Asia are of particular
+interest. Two linguistic groupings in this region are current today and
+are closely related: Nostratic and Eurasiatic. Rejected at first by most
+linguists, they are slowly being recognized. The Nostratic superfam-
+ily, as originally described by various Russian scientists, includes the
+Indo-European, Uralic (spoken across the Uralic mountains), Altaic
+(widely spoken in Central Asia), Afroasiatic, which comprises many
+North African and also Semitic languages, Dravidian (currently spo-
+ken almost only in southern India), and South Caucasian families.
+One Russian linguist, Vitaly Shevoroshkin, showed that the Nostratic
+superfamily has strong similarities to the Amerindian group, as
+defined by Greenberg. The Eurasiatic superfamily proposed by
+Greenberg is similar to Nostratic, but it is different in the extension
+given to some families like Altaic and comprises smaller families like
+Eskimo and Chukchi, in addition to Japanese. Thus, Eurasiatic
+extends further east than Nostratic, but not as far southwest, as it
+does not include Afroasiatic and Dravidian, which, according to
+Greenberg, have an older origin.
+
+                                  140
+                                      td
+                                       ek cont ated
+
+
+
+
+        anch, aban to ee eeceiciAmerindian group on one side,
+  and to anew, older superfamily on the other, Dene-Caucasian. Sapir
+ “initiated this new grouping, but Sergei Starostin proposed it offi-
+_ cially only a few years ago. The Dene-Caucasian superfamily includes
+ _ essentially three families: North Caucasian, Na-Dene, and Sino-
+ _ Tibetan. The last family of languages is spoken by almost a billion
+  _ individuals (in China, India, Nepal, Burma, and also Southeast Asia,
+ _ : plus some isolates in Europe and West Asia), and is therefore the
+     most populous one.
+         Thus, one could draw this approximate saeeam,
+
+
+                   Eurasiatic   Afroasiatic     Dravidian
+
+
+
+
+                                 Nostratic         Amerindian
+
+
+                                                       Dene-Caucasian
+
+
+
+
+                                                Eurasian
+
+En
+ee
+oe       This hierarchy of superfamilies includes almost all of Europe,
+     northern Africa, most of Asia, and all of America. It lacks only three
+     African families, Khoisan, Niger-Kordofanian and Nilo-Saharan, as
+     well as Australian (170 languages), and Indo-Pacific, a group of 700
+     languages, spoken mostly in New Guinea but also in neighboring
+     islands and in the Andaman Islands near Malaysia.
+        There is, however, a small group of languages called isolates,
+     which most linguists are unable to classify in any of the better-
+     established families. The best known is Basque. Still spoken by
+     approximately 12,000 French and perhaps a million and a half
+     Spanish, this language is likely a relic of a pre-Neolithic period and
+     is possibly related to the language spoken by Cro-Magnons;, the first
+     modern humans in Europe. But it has certainly changed enough
+
+                                          141
+that modern Basques and Cro-Magnons would not be anidto
+communicate if they had the chance to meet. In fact they probably—
+wouldn't even recognize their languages as related. Several linguists_
+suggest a relationship between Basque and modern languages of
+the northern Caucasus.      It is thus possible that one or more
+pre—Indo-European languages were spoken in Paleolithic Europe.
+Other linguists see even more encompassing resemblances among
+Basque, Caucasian, Sino-Tibetan, and Na-Dene languages. The last
+are spoken in the northwestern region of North America. Another
+claim is that Burushaski, an isolate spoken in a high valley in the
+Himalayas, is related to Basque and Caucasian. And, according to           {
+
+
+
+other linguists, Sumerian, Etruscan, and other linguistic “fossils”
+ belong to the same ancient family, Dene-Caucasian. If the Nos-
+tratic/Amerindian group were added to the Dene-Caucasian group
+to form a hypothetical Eurasian superfamily, it may have extended
+across all Europe and Asia (except the southeast), and spread to the
+Americas. This giant superfamily later differentiated into several
+branches, and local twigs of this tree flourished and extended to
+regions far and wide.              -
+   These are interesting and hopeful hypotheses that need to be
+explored further. If we want to stay on absolutely firm ground, the
+situation is worse than simply lacking a reliable tree to link all mod-
+ern languages: it is not even certain that all languages.share a com-
+mon origin. Most linguists consider both problems insoluble. It’s a
+bit like trying to determine if all life on the planet had a single ori-
+gin. (Many biologists believe in a single origin; since there is only
+one form of the twenty aminoacids found in proteins.) Greenberg
+noticed that there is at least one word all the linguistic families
+share: the root tik. It means finger, or the number one (a semantic
+shift, which requires no explanation). In other languages we find
+other semantic changes of this root, which also appear acceptable,
+“hand” and “arm,” for example, or “point, indicate.” In French,
+doigt (pronounced “dwa”) and in Italian, dito (meaning “finger”)
+come from the Latin root digit.
+    Extending this example, American linguist John-D. Bengtson has
+proposed, with Ruhlen, about thirty other roots that are nearly as
+
+                                  142
+       Vel Sd
+
+  | el on hess newest results. As might be expected, there are
+        few roots that are common to most languages. Most of them
+ _ designate parts of the body, or are personal pronouns or small num-
+bers    (one, two, and three). It is not surprising that words conserved.
+ _ since the beginning of linguistic diversification are among the first
+ _ words we learn: eyes, nose, mouth, and so on. But there are others
+___ that were certainly very important in Paleolithic life and have been
+__ preserved in many languages; “lice” is one example.
+
+
+
+
+        Comparison of Linguistic Families with the Genetic Tree
+
+   Even without a comprehensive linguistic tree, we can still compare
+   our genetic tree to existing linguistic trees. There are some impres-
+   sive similarities.
+       In figure 12, the language families have been drawn next to the
+   populations that speak the respective languages. We see that a fam-
+   ily corresponds to one or more branches in the genetic tree. Some-
+   times a language family is represented in the joint genetic-linguistic
+   tree by only one branch, because the populations speaking these
+   languages were grouped together in the genetic analysis. In effect
+   they show great similarity, either genetic or ethnographic, and live
+   near each other. An example is the Bantu subfamily, belonging to
+   Niger-Kordofanian, which is genetically homogeneous and distinct
+   from other African groups. Although the word Bantu designates a
+   language group, it is also useful as a biological category. Other
+   genetic groupings also have been corroborated by linguistic infor-
+  mation; for example, southern Indians speak Dravidian languages
+  and the Na-Dene speak Native American ones. Shared language
+  families often point to a common genetic and ethnic background.
+      The genetic tree shown in figure 12 is composed of 38 popula-
+  tions, some of which are broadly grouped (e.g., Europeans, Melane-
+  sians). There are only 16 language families (we had no genetic data
+  on Caucasian populations when we drew this tree). Therefore some
+
+                                    143
+    Genetic Tree            Populations                 "Linguistic Families —
+
+                     Mbuti Pygmy                 Original language unknown
+                     bear             meee Niger-Kordofanian-
+                     Bantu
+                     Nilotic ————————__          Nilo-Saharan
+                     San (Bushmen)               Khoisan
+                     Ethiopian
+                     Berber, N. African          Afro-Asiatic SR         oe       ee -
+                     S. W. Asian                                                    tt
+                     Tranian                                                        n
+
+                     era                         Indo-European           [oe
+
+                     Indian                                                         ~
+                     S. E. Indian —————.         Dravidian ========      oe Staal 5
+                     Lapp                          2
+                     rae                     = Uralic-Yukaghir
+                                                             ‘           8“ Bole
+                                                                            a z
+                     Mongol                                                   e     - =
+                     Tibetan                     Sino-Tibetan                       :3
+                     Korean                                                         : —F
+                     Japanese                    Altaic                  —               5
+                     Ainu                                                           1
+                     N. Turkic                                                      .
+                     Eskimo ———————              Eskimo-Aleut                       :
+                     Chukchi ———————_            Chu kchi-Kamchatkan                i
+                     S. Amerind
+                     C. Amerind —+               (ALS             ee   eeSe         i
+                     N. Amerind
+                     N. W. Amerind               Na-Dene
+                     S. Chinese ——————           Sino-Tibetan
+                      Mon-Khmer —————            Austroasiatic
+                     Thai ————————_              Daic
+                      Indonesian                                          Austric
+                      Malaysian
+                     Philippine                  Austronesian
+                      Polynesian
+                      Micronesian
+                      Melanesian                              :
+                       sy      care         \. Indo-Pacific
+                      New Guinean
+                     Australian ——————           Australian
+
+
+Figure 12. The comparison of genetic and linguistic trees (Cavalli-Sforza et all.
+1988, pp. 6002-6).
+
+
+
+
+                                           144
+    Spal in the pibeto tree must and indeed usually do belong
+ 4 together to the same linguistic family. We can immediately note that
+  _ populations that are adjacent in the genetic tree usually speak lan-
+  _ guages of the same family. Because of this we can use the genetic
+~ tree to help us date the approximate origin of a linguistic family.
+Most language families appear to have developed during a brief
+ _ period, between 6,000 and 25,000 years ago.
+       There are, however, exceptions to the tendency of populations
+3 speaking related languages to be close in the genetic tree. Ethiopians,
+_ for example, are part of the African genetic branch, but they gener-
+ ally speak languages from the Afroasiatic family, which are wide-
+   spread in North Africa and the Middle East, where the people are
+   generally Caucasoid. Ethiopians are in effect a bit more African.than
+   Caucasoid genetically and more Caucasoid than most Africans lin-
+   guistically. The Saami (Lapps) illustrate another exception to this
+_ tule: they are genetically Caucasoid but speak a Uralic language
+  whose other representatives live mostly in northeastern European
+  Russia and northwestern Siberia near the Urals. The Uralic people of
+  Asia are generally Mongoloid, and the Lapps are a mix of Caucasoid
+   (probably from Scandinavia) and Mongoloid (of Siberian origin), —
+  with a prevalence of the former. Even without looking at their genes,
+  we can see this in the color of their skin and hair, and in the color and
+  shape of their eyes, which vary in type from Mongoloid to Caucasoid.
+      There is a simple explanation for these disagreements between
+  genetic and linguistic classifications. As we have explained, these
+  two populations are the products of relatively recent genetic admix-
+  ture: of Europeans and Siberians for the Lapps, and of Africans and
+  Arabs for the Ethiopians. In the genetic tree, the populations are
+  placed with the groups that contributed the greater proportion of
+  genes. Extended admixture may also put them in a more isolated
+  and somewhat intermediate position in the tree. The genetic effects
+  of population admixture are much simpler and more predictable
+  than linguistic change. Genes of a mixed population occur in pro-
+  portions corresponding to those of its ancestral parental popula-
+  tions. But a genetically mixed population tends to preserve only one
+  of the two original languages. Sometimes, the language of a mixed
+
+                                    145
+population will not change at all:more nee saan we finda— :
+words or, sometimes, sounds borrowed from the other language.
+Grammar is more resistant to change than vocabulary. As for the ori-
+gin of the mixtures that generated Ethiopians and Lapps, we know
+of intimate contacts between Arabs and Africans in Ethiopia during
+the first millennium B.c. An Arab-Ethiopian kingdom established a         ~
+capital first in Arabia (in the Saba region) and later in northern
+Ethiopia (at Aksum). But earlier contacts may have occurred that
+took place too early for history to record. We also know that the
+Lapps have been in their present territory for at least 2,000 years. In
+both these cases, the shortage of written records limits our ability to
+know just how far back contact originated. In each case, the degree
+of genetic mixing established can vary and depends on the amount
+and mode of contact between two populations.
+    It is easy to calculate that the genome of a people who received
+a constant genetic flow of 5 percent per generation from its neigh-
+bors would keep only 70 percent of its original genome after three
+centuries. This is the average value of admixture for African Ameri-
+cans, who have retained 70 percent of their original genome and
+received 30 percent from mostly white settlers. If this flux contin-
+ues with the same speed, African Americans will have little more
+than 10 percent of their original genes after 1,000 years of habita-
+tion in America. In the cases of Lapps and Ethiopians, their parent
+populations may have been in reciprocal contact for a long time
+(perhaps several thousand years), and degrees of admixture are
+greater than those observed in African Americans, who were in
+contact with whites for a much shorter period, and under condi-
+tions of strong social inferiority.
+    We can find still other interesting exceptions to exact corre-
+spondence of the genetic and linguistic trees. Genetically, Tibetans
+belong to the group of northern Mongols, but they speak a Sino-
+Tibetan language like the Chinese. The Chinese represented in our
+tree, however, originate from southern China and are genetically
+more similar to southern Mongols. History comes to our rescue: in
+this case as well. According to Chinese historians, Tibetans are re-
+lated to the northern Chinese. Starting from the third century B.C,
+
+                                  146
+   in northern China, pastoral nomads headed south to Tibet. Some
+  remained nomadic shepherds, but most maintained their original
+  __ language after migrating. The unification of China began around
+     the third century B.c. under the short-lived Qin (pronounced Chin)
+     dynasty, and was completed under the Han Dynasty, which reigned
+ 4 for the next-four centuries. These two northern dynasties can be
+  __ credited with the spread of their language beyond northem China
+    into the entire country. During the following 2,000 years, this lan-
+_ guage naturally differentiated into several others. Nevertheless, a
+large number of ethnic minorities (55 are officially recognized,
+ _ forming about 10 percent of the total Chinese population), espe-
+  _ ciallyin southern China, have preserved their original language and
+   ! genes, showing their different origins. The large majority of Chi-
+     nese (close to 90 percent) call themselves Han, but the original
+  _ genetic difference between north and south is still clearly vis-
+; ible among them. Therefore, it is not surprising that Tibetans have
+   - conserved their northern Chinese genes, although they live in
+j the south, while southern Han look genetically more like Southeast
+_ Asians. But they all speak Sino-Tibetan languages, of northern
+origin.
+;        The Nostratic and Eurasiatic superfamilies are represented at
+     the extreme right of the group of language families in the tree in
+    figure 12. With few exceptions, they correspond with the deeper
+    genetic branches that we have called North Eurasian (not labeled)
+    uniting the Caucasoids, northern Mongols, and Native Americans.
+    This branch begins near the second fission, where non-Africans split
+    into Southeast Asians (including Australians and New Guineans),
+    and North Eurasians. The most important exceptions to this corre-
+    spondence are the two Sino-Tibetan speaking populations, Tibetans
+    and Chinese, whose genetic and linguistic associations noted in the
+     figure disagree. They both speak Sino-Tibetan languages but
+   _ Tibetans associate genetically with North Eurasians, and Chinese
+    with South Asians.-As we have just explained, however, the dis-
+    agreement is superficial, because the Chinese shown in our tree are
+    from the south, and have only adopted their current language in the
+    last 2,000 years, while they are genetically more closely related to
+
+                                    147
+ the speakers of Austric languages, that is, people living in Southeas
+ Asia with whom they are grouped in the genetic tree.
+     Figure 12 shows one other apparent discrepancy between the
+ genetic and linguistic trees: Melanesians (from the Pacific islands
+ closer to New Guinea) are genetically close to Southeast Asians and
+are linguistically assigned to the Indo-Pacific family. This is not
+ entirely accurate, because the languages spoken in Melanesia (as
+ well as in coastal parts of New Guinea) are in part Austronesian,         e
+ and part non-Austronesian. The latter are mostly Indo-Pacific, a
+ very heterogeneous family. In practice, Melanesia’s situation is not
+ a disagreement but an exceptionally complicated situation gener-
+ ated by several superimposed migrations that can be considerably
+ clarified by a more detailed analysis.
+     The genetic tree in figure 12 still has some flaws, which are dis-
+ cussed below, but, because of the complexity of the relationship and
+ the frequency of mixed origins of populations, a much more detailed
+ representation is needed. The tree we published in 1988 shows that
+ after the first split (separating Africans from non-Africans), the sec-
+ ond branch separates Eurasians and Americans from Oceanians
+ (Australian Aborigines and New Guineans) and Southeast Asians.
+ By 1994, new genetic information showed that the second branch-
+ ing split Oceanians from all the rest; Southeast Asians actually split
+ from Eurasians in the third branch. Admixture between Southeast
+ Asia and the rest of Asia is probably the reason for this uncertainty,
+ which has yet to be resolved because of the lack of adequate data
+ from Southeast Asia.
+     Other difficulties have also intervened, because a popular tree
+ reconstruction method developed by Naruya Saitou and Masatoshi
+ Nei (1987), called neighbor joining, produces a genetic tree some-
+ what different from that of figure 12. In neighbor-joining trees,
+ Europeans are attached to a short branch near the center of the
+ tree between Africans and Asians. The most likely explanation is
+ that Europeans received some of their genes from Asia and some (a
+ smaller portion) from Africa. Using the neighbor-joining method,
+ mixing between populations shortens the mixed branch and moves
+ it toward the tree’s origin. I believe that the conflicts between these
+
+                                   148
+   ; ‘
+     aifdee Halide methods are related mostly to delvitattin
+    between populations.
+        Mixing between North Asians and Africans contributed to the
+    European makeup. Several European genetic traits are intermediate
+    between the two parent populations. Africa probably contributed
+    genes to Europe via a number of different routes, including the
+     Middle East. This region is reachable directly from both Africa and
+    Asia without crossing the sea, and may have been a starting point for
+g _ the occupation of Europe by modern humans 40,000 years ago.
+    Neolithic humans came from the Middle East 10,000 years ago. But
+  _ we cannot exclude the possibility that modern humans also entered
+     Europe from northwestern Asia. This may explain the relationship
+     which several linguists claim exists between Basque. and the Dene-
+    Caucasian languages spoken in extreme western Europe. Survival of
+     the evidence of old relationships may be due to the refuge offered by
+     geography, especially mountains, to relic languages and populations.
+          A genetic tree built using a reasonably large number of micro-
+     satellite markers showed that Basques were more similar to the Hunza
+     (who speak the Burushaski language) than to four other Pakistani
+     populations investigated. This observation, a result of the magnifi-
+     cent research effort done in Pakistan by Dr. Qasim Mehdi and his
+     colleagues, will need confirmation with a greater number of individu-
+     als and markers. In the meantime, it provides the first genetic indica-
+ae
+ae   tion of a relationship between these two peoples, for which some
+   _ remote linguistic resemblance was independently postulated.
+
+
+
+
+                Why Is There a Similarity between Biological
+                          and Linguistic Evolution?
+
+     There are important similarities between the evolution of genes and
+     languages. In either case, a change, which first appears in a single
+     individual, can subsequently spread throughout the entire popula-
+     tion. For genes, these changes are called mutations; they are passed
+     from one generation to the next and can—over many generations—
+
+                                       149
+increase in frequency and even eventually completely replace the _
+ancestral type. The genome is conserved and well protected from
+outside influences.   Genetic mutations   are rare, and transmission
+from one individual to another occurs only from parent to child,
+while linguistic changes are much more frequent and can pass also
+between unrelated individuals. As a result, languages change more
+quickly than genes. In effect, if a word can resist change for 1,000
+years, a gene can remain substantially unchanged for millions, and
+even billions of years. Despite these differences, there are two rea-
+sons for anticipating important similarities in the evolution of the
+two systems.                   :
+    Let me start by emphasizing that there is no reason to think that
+genes influence the ability to speak one language over another. If
+there are any such differences, they must be small indeed. Modern
+humans possess thecapacity to learn any language, and the first lan-
+guage learned is a function of the time and place of birth. All mod-
+ern languages share a similar level of structural complexity—ethnic
+groups that live at a primitive economic level do not speak a more
+primitive language than wealthier groups. If there is any interaction
+between genes and languages, it is often languages that influence
+genes, since linguistic differences between populations lessen the
+chance of genetic exchange between them.
+   Linguistic evolution is a special type of cultural evolution, as we
+shall discuss more generally in the following chapter. How is it possi-
+ble for these two very different systems to follow parallel evolution-
+ary trajectories, or to “coevolve”? The explanation is quite simple.
+Two isolated populations differentiate both genetically and linguisti-
+cally. Isolation, which could result from geographic, ecological, or
+social barriers, reduces the likelihood of marriages between popula-
+tions, and_as a result, reciprocally isolated populations will evolve
+independently and gradually become different. Genetic differentia-
+tion of reciprocally isolated populations occurs slowly but regularly
+over time. We can expect the same thing to happen with languages:
+isolation diminishes cultural exchange, and the two languages will
+drift apart. Even if glottochronological estimates of the time of sepa-
+ration are not always as exact as we would like, in general languages
+
+                                  150
+      "do diverge increasingly with time. In principle, therefore, the lin-
+     _ Guistic tree and the genetic tree of human populations should agree,
+     __ since they reflect the same history of populations splitting and evolv-
+        ing independently.
+            Nevertheless, there are several major sources of divergence
+    _ between genetic and linguistic trees. One language can be replaced
+    __ by another in a relatively short time. In Europe, for example, Hun-
+       garian is spoken in the geographic center of many Indo-European
+         branches: Slavic, Germanic, and Romance; but it belongs to the
+      _. Finno-Ugric branch of Uralic. The other languages of the same
+         family are spoken in the northeast of Europe and in the west of
+    7    Siberia. At the end of the ninth century A.D., the nomadic Magyars
+       left their land in Russia, crossed the Carpathians and invaded Hun-
+       gary, which had already been occupied by the Avars. The conquest
+       resulted in a Magyar monarchy, which imposed its language on the
+       local Romance-speaking population. The number of conquerors
+       was large but did not constitute the majority of the population—
+      perhaps less than 30 percent of the total. The genetic effect of this
+       conquest was therefore modest, and further diluted by subsequent
+Oe
+NEE
+ee
+       exchanges with neighboring countries. Today, barely 10 percent of
+       the genes in Hungary can be attributed to Uralic conquerors.
+4         Elsewhere, the Barbarian conquests following the collapse of
+|      Rome faced greater difficulties in replacing or modifying the lan-
+      _ guage of the conquered, who were always more numerous than their
+       invaders. The earlier inhabitants also usually possessed a higher
+       level of socioeconomic organization and were able to retain their
+       cultural identity. The Lombards probably originated in Sweden or
+       northern Germany, but they began to conquer Italy in the middle of
+       the sixth century A.D. About 35,000 warriors, coming from Austria or
+       Hungary, rapidly occupied most of Italy, except for the extreme
+       south, and established a powerful state that lasted until the eighth
+       century, but had no significant effect on the local language. The same
+       is true of the Franks, a German population that played an important
+       role in French political history without affecting their language. But
+       in England after the fall of the Roman Empire, the Anglo-Saxons—
+       Roman mercenaries of Germanic origin—did succeed in imposing
+
+                                         151
+century. The BritishIsles have witnessed dramatic linguistic change
+in a very short time. The indigenous population spoke pre-Indo-
+European languages unknown to us today. In the last millennium—
+B.C., Celtic languages were spread throughout most of Europe, from _
+a center probably located between Austria and Switzerland. At the
+time of Rome’s conquest, Celtic languages were spoken throughout _
+most of the British Isles. The Romans imposed Latin, which was fol-
+lowed by the adoption of Anglo-Saxon. Norman invaders ultimately
+brought many French words into English after 1066.
+    Another important replacement occurred in Turkey at the end
+of the eleventh century, when Turks began attacking the Byzantine
+Empire. They finally conquered Constantinople (modern Istanbul)
+in 1453. The replacement of Greek with Turkish was especially sig-
+nificant because this language belongs to a different family—Altaic.
+Again the genetic effects of invasion were modest in Turkey. Their
+armies had few soldiers and even if they sometimes traveled with
+their families, the invading populations would be small relative to
+the subject populations that had a long civilization and history of
+economic development. After many generations of protection by
+the Roman Empire, however, the old settlers had become compla-
+cent and lost their ability to resist the dangerous invaders.
+    In general, the survival of a language like Basqueor Burushaski
+is more likely to happen in refugia (isolated places—like mountain-
+ous regions—resistant to invaders). A strong social identity also
+helps to retain a population’s language.
+    Examples of language replacement are not limited to Europe,
+but because Europe’s written history is quite long, the most recent
+replacements are documented to a unique extent. The Aryan inva-
+sions of Iran, Pakistan, and India brought Indo-European languages
+to Dravidian-speaking areas. The great geographic discoveries of the
+Malayo-Polynesians, extraordinarily skillful navigators, led to the
+diffusion of their Austronesian languages to parts of New Guinea,
+Melanesia and Micronesia, and Polynesia. To the west, Austronesian
+languages spread as far as Madagascar near the African coast. The
+Polynesian migrations had lesser genetic consequences in Melanesia
+
+                                152
+             ete
+            aees ae       §
+
+
+
+
+ and New Giines: which were already occupied. The genetic-
+  linguistic mosaic of Melanesia is very complex, reflecting a 5,000-
+  year history of migration and admixture of different people. But
+when the latest Austronesian migrants—passing Melanesia and cen-
+4 tralPolynesia—reached eastern Polynesia, starting about 3,000
+  years ago, they still appeared nearly Mongoloid, because they had
+  not had time to mix with the Melanesians.
+      Exploration enthusiasts will be happy to learn that, Bae a genetic
+  viewpoint, it is still impossible to exclude the possibility that South
+  Americans contributed in some ways to eastern Polynesia, as Thor
+_ Heyerdahl implied in his voyages with the Kon-Tiki. The genetic dif-
+   ference between Mongoloids and Amerindians is not sufficient to
+   say exactly if and how South Americans may have contributed to
+ - Polynesia. Recently discovered genetic Amerindian markers could
+  undoubtedly provide a clearer answer to these questions.
+      The total substitution of one language for another occurs more
+  easily under the pressure of a strong political organization of new-
+  ‘comers, as witnessed in the Americas. Otherwise, the separate lan-
+  guages spoken in nearby countries can remain relatively unaffected
+  for thousands of years, even when the genes’of neighbors experience
+  a partial, and sometimes major, substitution. It is difficult to quantify
+  the extent of substitution that has occurred in the Basque genome
+  through admixture with neighboring populations, but it must be con-
+  siderable. However, given the length of time during which Basques
+  were exposed to gene flow from neighbors, especially farmers who
+  arrived in the area some 5,000 years ago, the gene flow per unit of
+  time was small. There were perhaps only one or two mixed marriages
+  per thousand each generation. By contrast, near complete genetic
+  substitution without language replacement probably did occur in the
+  Hadza and Sandawe. These two populations from Tanzania speak
+  Khoisan languages, but their genes are unlike South African Khoisan.
+  Both groups are quite small and must have lived among Bantus for
+  quite a long time. Bantus probably arrived in the general area about
+  2,000 years ago. A population isolated among other, different ones,
+  undergoing a gene flow of 5 percent per generation over 1,000 years,
+  could result in the replacement of 87 percent of the population's
+
+                                     153
+original genes, and 98 percent over 2,000 years. The Hadza and San-
+dawe were hunter-gatherers and were thus separated from Bantu
+farmers by socioeconomic factors sufficient to preserve their own
+languages but insufficient to prevent genetic exchange with their
+neighbors. It must be admitted, however, that it is difficult to exclude
+the opposite hypothesis: that both the Hadza and Sandawe have basi-
+cally maintained their original non-Khoisan genetic background, and
+have changed their language to a Khoisan one because of original
+contact with Khoisan speakers. Eventually, however, this contact dis-
+appeared after Khoisans retreated south. There are many such exam-
+ples of language replacement with little gene replacement in the very
+recent expansions of Europeans that followed the introduction of
+transoceanic travel, resulting in the adoption of the invaders’ lan-
+guage. The reverse also happened: Finns speak a Uralic language but
+they have very little, perhaps 10 percent, of Uralic genes (still to be
+confirmed with more powerful markers than those on which this esti-
+mateis based). It is possible they originally spoke a language of the
+Balto-Slavic subfamily, when they settled in Finland, a very vast
+country that must have been inhabited by a low density of Uralic-
+speaking hunter-gatherers or nomadic pastoralists, probably kin of
+the Saami still living in the northern part of Finland. As discussed
+earlier, there is genetic evidence that the original farmers who settled
+in Finland perhaps 2,000 years ago were a very small population, per-
+haps 1,000 or so. This is inferred from strong evidence of genetic
+drift, especially for certain genetic diseases. The new settlers proba-
+bly joined a good number of native inhabitants, and peaceful contact
+with them helped the immigrants settle and spread. The process was
+facilitated by learning the natives’ language, and eventually adopting
+it. Most likely there was little genetic exchange between the two.
+     In summary, the replacement of languages is not the only force
+that disturbs the parallelism between genetic and linguistic evolu-
+tion. Genetic change due to gene flow from neighbors into a small
+group can be another one. Deeper analysis and, especially, histori-
+cal information can frequently help to distinguish between the vari-
+ous explanations. It is remarkable that, despite the opportunity for
+genetic and linguistic replacement, we can still find sufficient
+
+                                  154
+  “coherence iin the ees linguistic and genetic jumble to recon-
+ _ struct a common tree for the two evolutionary tracks. But the rate
+__ of disappearance of traditional languages, a serious loss which is dif-
+   ficult to fight, is so high that this investigation may become impossi-
+  bleiin a few generations. —
+
+
+
+
+            Interpreting the Great Human Expansions on the
+       Basis of Genetic and Linguistic Data, Particularly in Asia
+
+  We have already observed that, judging from the genetic tree, most -
+  linguistic families appear to date anywhere from 6,000 to 25,000
+  years ago. Some families are older; based on their time of coloniza-
+  tion, the Indo-Pacific languages of New Guinea and those of Aus-
+  tralian Aborigines may be older than 40,000 years. In this case the
+  definition of families is aided by the great geographic isolation of
+  these two regions, an island and a continent.
+      Khoisan languages must also be very old, given the uniqueness
+  of some of their characteristics (e.g., the presence of click sounds),
+  but it is difficult to know precisely how old. I would not be surprised
+  if the ancestors of these peoples were responsible for the first
+  expansion from Africa to Asia. There is some support for this per- -
+  haps surprising, certainly titillating, hypothesis, other than the
+  possible antiquity of Khoisan languages. According to some anthro-
+  pologists, the Khoisan people who now live in southern Africa once
+  lived further north, in East Africa or perhaps even northeastern
+  Africa. If this was the case between 50,000 and 80,000 years ago,
+  then they were in the best position to expand to Asia. It is true that
+  of all Africans, as we saw in figure 3 in chapter 3, East Africans are
+  most similar to Asians. This is encouraging, but it might also be due
+  to more recent migrations between East Africa and Arabia, which
+  certainly happened much later in both directions. It is also worth
+  noting that Khoisans bear some physical resemblance to East Asians,
+  notably in their long-drawn eyes and large round heads. They also
+  show a remarkable genetic similarity to western Asians (but not to
+
+                                    155
+                                                                         z
+                                                                             he
+                                                                              i!
+
+East Asians, in spite of their superficial resemblance for facial
+traits). At the time of writing, the first results of a major break-
+through in the study of Y chromosomes promise to give us some
+much anticipated answers to these problems.
+   Let us consider, in parallel, both genetic and linguistic data in
+other parts of the world, as they might illuminate the oldest expan-
+sions. There clearly must have been major expansions and migra-
+tions in Asia, soon after the arrival of modern humans. The principal
+components of Asia clearly indicate some regions that may be cen-
+ters of major demographic developments. The first five PCs give us,
+in order: (1) a region of northwest Iran, south of the Caspian Sea,
+bordering Iraq on the western side and Turkmenistan on the north-
+eastern side; (2) Southeast Asia; (3) the region around-the Sea of
+Japan, including Japan, Korea, Manchuria, and northeastern China;
+(4) northern India; (5) Central Asia. One also notices a major genetic
+gradient of the first PC extending between east and west. It must
+have been generated by several migrations in eastern and western
+directions, of which there are many indications in history and in
+immediate prehistory. Obviously, there must have been many simi-
+lar ones before. Also the Y chromosome analysis indicates that there
+must have been several different demographic developments in
+Asia, leading to the settlement of the three continents: Oceania,
+Europe, and America, in this order. It gives some idea of main
+migratory paths, but the data are not yet to the point of giving the
+precision one would like to reach. Recent research by Li Jin et al.
+(1999) comparing the Y chromosome and also a narrow but highly
+variable region of chromosome 21 shows that there must have been
+more than one major migration from Africa to Asia. The Y chromo-
+some is particularly informative on older migrations, as shown by
+recent work of Peter Underhill and Peter Oefner, who use a new
+technique of discovering genetic variation called DHPLC. At the
+time of writing they have found 165 genetic variants of the Y chro-
+mosome, which can be divided into ten major groups (called hap-
+logroups, and numbered from I to X). The first three are the oldest
+and originated in Africa, but the third born, JI], migrated from
+
+
+
+                                 156
+        Africa to Asia. The other seven, from IV to X, originated in Asia
+        and several of them are found also in Oceania, Europe, or America.
+          They also correspond to centers of expansion indicated by the PCs:
+          the VI and IX haplogroups correspond to the south Caspian. These
+          two haplogroups may well include the whole Middle East, and may
+          be a composite of several centers of expansion at different times,
+          including earlier expansions from and to North Africa, and the
+          development of agriculture. The VII and VIII correspond to the
+          Southeast Asian center; the IV to the expansion from the Sea of
+          Japan; theV to northern India. The expansion from Central Asia
+          (the fifth PC) probably corresponds to a later branch of the V hap-
+          logroup. One can also assign, at least tentatively at this stage, a lin-
+          guistic family or superfamily to each expansion center: Greenberg's
+          Eurasiatic to the south Caspian region, Austric to the second PC
+          center in Southeast Asia, Dene-Caucasian to the eastern center of
+    e     the third PC.
+4            The center of origin of Dravidian languages is likely to be some-
+>
+,
+        - where in the western half of India. It could be also in the south
+#
+4        ~ Caspian (the first PC center), or in the northern Indian center indi-
+;         cated by the fourth PC. This language family is found in northern
+          India only in scattered pockets, and in one population (Brahui) in
+          southern Pakistan. It was spoken earlier further west—certainly in
+          Elam (southwestern Iran), and possibly in the Indus valley (eastern
+          Pakistan). The major group of residual Dravidian languages is spo- -
+          ken, as is well-known, in the south of India. It may seem strange to
+        . place the origin of a language family in an area in which almost no
+          language of the family is represented today. But it is a reasonable
+          assumption that this family was removed from its place of origin by
+          the arrival in Pakistan and northern India of Indo-European speak-
+          ers, 3,500 to 4,000 years ago. The effectiveness and cruelty of the
+          Indo-Europeans’ war against earlier settlers of India is told in vivid
+          images in battles described in the Mahabharata.
+              The fifth PC indicates a center of expansion further north,
+          approximately in the Altai region, and a natural suggestion is that
+         this is the center of origin of Altaic languages. Two major expansions
+
+
+                                            157
+                                               P                 .
+
+
+
+
+ appear to have originated from this area, both late: by Mongols _
+ (third century B.C.) and by speakers of Turkic languages (beginning
+ with the eleventh century A.D.). There surely could have been many
+ other expansions before. In a period preceding the Mongolian and
+ Turkic expansions, the three millennia before the Christian era, the
+ area was in part controlled by Indo-European speakers (Tocharians).
+     Interestingly, the first suggestion of a reverse migration from
+ East Asia was a hypothesis by Michel Hammer on the basis of a
+ peculiar Y chromosome mutant he discovered in Japan and also in
+ Africa. We found other mutants supportive of Hammer's observa-
+ tion. The origin of the specific Hammer mutant was not necessarily
+ in Japan, but the migratory chain seems reasonable and indepen-
+ dent from others. The haplotypes involved may be the Asian branch
+ of the III Y-chromosome haplogroup, and the IV haplogroup. It is
+ possible that this expansion may have brought the oldest Eurasian
+ linguistic family (called Dene-Caucasian by Starostin) across Asia
+ to reach Europe, perhaps 40,000 years ago. This family is repre-
+ sented in refugia by linguistic isolates like Basque, a Caucasian fam-
+ ily, Burushaski in northern Pakistan, Ket (on the Yenisei River in
+ central Siberia, possibly ancestral to the Na-Dene family in north-
+ western America) and some other extinct, less clearly related lan-
+ guages (like Sumerian and Etruscan). Two major families also
+ belonging to the Dene-Caucasian superfamily, Sino-Tibetan and
+- Na-Dene, survived over more extensive regions. They were nearer
+ to the postulated region of origin, and must have survived in larger
+ numbers than the other branches of the family.
+     Dene-Caucasian may have been the Eurasian superfamily par
+ excellence until perhaps 20,000 years ago, which some linguists
+ have given as the time of origin of Nostratic. Nostratic may have
+ been a late branch of Dene-Caucasian. It started growing perhaps
+ 10,000 to 20,000 years ago and gave rise to the families which           —
+ largely replaced Dene-Caucasian in Eurasia: Indo-European, Uralic,
+ Altaic. Greenberg's Eurasiatic family lengthens the northern Asian
+ range of Nostratic to the east. It excludes Afroasiatic, whose geo-
+ graphic origin is obscure, but is earlier than Eurasiatic and origi-
+ nated in Africa, according to Greenberg.
+
+                                  158
+                         The Indo-European Family
+
+   Indo-European remains the most studied language family. Attempts
+   to determine its place of origin have given incredibly variable results.
+_ Many locations have been proposed, ranging from Germany as far as
+   the northeastern Caucasus and from the Baltic States to Suez. Some
+   hypotheses are even wilder. Not long ago, one of the most popular
+   theories was proposed by the archeologist Marjia Gimbutas, who
+   postulated an origin above the Black Sea and associated the earliest
+ _ speakers of Indo-European with the Kurgan culture of the Asian
+   steppes. But when Gimbutas published her hypothesis, the Kurgan
+   dates were poorly known. She assumed 3,000 to 3,500 years B.C., a
+   date which was rejected as too old by English archeologists. Gimbu-
+   tas’s dates appear to have been vindicated by new excavations, which
+   have also shown that horses were probably domesticated and
+   mounted at that time and that war chariots were built in this area.
+       In 1987, Colin Renfrew proposed that Indo-European languages
+   were conducted north by the Neolithic farmers of the Middle East.
+   In chapter 4, I mentioned his influential book, which corroborated
+   our hypothesis that Neolithic agriculture spread by a demic and not
+   a purely cultural process. It is tempting to champion the correspon-
+   dence between the spread of Indo-European languages and the
+   diffusion of agriculture, which geography brings clearly to light.
+   However, in my discussions with Albert Ammerman, my archeologi-
+ _ cal collaborator in the initial research on the spread of farming and
+  farmers, we avoided linguistic correlations because archeology can-
+  not tell us about them in the absence of a written record. Never-
+  theless, on the basis of theoretical anthropological considerations,
+  archeologist Renfrew came courageously to the conclusion that
+  Indo-European was spread by Middle Eastern farmers.
+     I learned about Renfrew’s hypothesis before he published it, on
+  the occasion of a visit to Cambridge. Further connection between
+  the spread of agriculture and language came to mind when I learned
+  from linguistic literature that the language written in a cuneiform
+  script around 5,000 years ago in the region of Elam (southwestern
+  Iran) was Dravidian. Both Renfrew and I independently suggested
+
+                                     159
+- that Diwan may have originated in theMiddle Eastaioe
+  spread by mideastern farmers east toward Pakistan and India. But —
+  in the last section of this book I tried to shift the origin of Dravidian —
+ away from the Fertile Crescent further east, either to the south
+ Caspian, eastern Iran, or northern India. It seems very reasonable
+ to assume that agricultural developments helped spread the lan- :
+ guages spoken by the first farmers. This must have- happened
+ repeatedly, and we will see other examples. But agriculture devel-
+ oped no earlier than 10,000 years ago, and therefore the relevant
+ linguistic families are late ones. If Greenberg is right in stating that
+ Dravidian as well as Afroasiatic is older than Eurasiatic, then the
+ center of origin of Dravidian is not necessarily connected with the
+                                                                                :
+ Middle East, and may be further to the east.
+     Another interesting question related to the difficult problem of
+ centers of origin of linguistic families arises with Renfrew’s hypoth-
+ esis that the Indo-European languages originated in Turkey, and
+ then spread into Europe with Neolithic peasants. Obviously, all
+ immigrants bring their language with them, and have no reason to
+ learn a new one if they fail to encounter anyone in their new terri-
+ tory. It is worth pointing out that the inhabitants of Europe before
+ the agricultural expansion (often called Mesolithics) usually had a
+ very low population density. Since they were hunter-gatherers, they
+ may have preferred living in areas that were geologically different
+ from agriculturally suitable land. These earlier inhabitants and the
+ new settlers, the Neolithic farmers, did not therefore have much
+ contact, especially at the beginning of the agricultural expansion,
+ when the density of farmers was lower than at later stages.
+     Renfrew’s hypothesis, if correct, provides a date for the dissemi-
+ nation of Indo-European languages equivalent to that of the initial
+ spread of farming, around 9,500 to 10,000 years ago. This date may
+ seem to be problematic, since old linguistic estimates (although
+ very approximate) suggested an earlier date (6,000 years ago).
+ Moreover, this latter date would fit more comfortably Gimbutas’s
+ hypothesis of a Kurgan origin 5,000 to 5,500 years ago (kurgans are
+ tombs in the form of mounds, which have been quarries of art
+ objects in southern Russia). As we shall see, however, there is no
+
+                                    160
+    a- contrary, Alberts Piazza and I believe that their proposals pei force
+   _ each other. If we accept this idea, it may be useful to refer to the
+   _ original Indo-European spoken in Turkey 10,000 years ago as the
+  _ primary Indo-European, pre—proto-Indo-European, and to that
+ spoken 4,000 to 5,000 years later in the Kurgan region as secondary
+      or proto-Indo-European.
+        It is clear that, genetically scare peoples of the Kurgan
+____ steppe descended at least in part from people of the Middle East-
+      em Neolithic who immigrated there from Turkey. To arrive north
+      of the Black Sea farmers from Turkey may have expanded west of
+      the Black Sea, through Romania, and/or along the eastern coast of
+_     the Black Sea. Shortly after their arrival, these Neolithic farmers
+      domesticated the horse, which was not as abundant elsewhere, and
+    _ developed a predominantly pastoral economy. This allowed them to
+      survive and even prosper in an environment ill suited to an exclu-
+      sively agrarian life. This adaptation took time, but with the first
+      development of bronze (around 5,000 years ago), they were on the
+      brink of an expansion. They had food, a means of transport, and
+      powerful new weapons. Actually, the Kurgan region extended fairly
+      widely, and generated many expansions after this first one, over the
+      next 3,000 or 4,000 years. The very first area of origin may have
+ee
+it
+eee
+|oe
+  -
+      been between the rivers Volga and Don, but there were many
+      expansions, both eastward to Central Asia and westward toward
+      Europe. Kurgans are found over much of the steppe in both west-
+      ern and eastern directions.
+          The eastward expansion may have been first. It led east and
+      south through Central Asia toward Iran, Afghanistan, Pakistan, and
+      India, generating the “Indo-Iranian     branch”   of Indo-European.
+      These languages later completely replaced almost all the Dravidian
+    A Janguages previously spoken from Iran to Pakistan and in northern
+
+      India, but not those in southern India. Most inhabitants of India are
+      Caucasoid, even if their skin is darker than that of northern Euro-
+      peans, Populations in the south that speak Dravidian languages are
+      genetically slightly different from, and darker than, northern Indi-
+      ans. At least three ethnic layers are superimposed in this part of the
+
+                                        161
+world. The oldest and the most limited (the pre-Dravidians, or Aus- —
+traloid) have unfortunately not been studied in detail. They are said —
+to resemble Australian Aborigines in some respects; the similarity
+can only be superficial, but these people are likely to be more or less
+direct descendants from first African immigrants. As for the Dravid-
+ians, they were most probably the first Neolithic farmers of India, °
+but it is unclear where they actually came from—perhaps from the
+Middle East, as originally hypothesized both by Renfrew and
+myself, or perhaps from northern Iran or northern India, as outlined
+above. Unfortunately, not much is known about the development of
+Indian agriculture.
+   The expansions in the opposite direction, westward, toward cen-         ~
+tral and northern Europe, generated, one after the other#the Celtic,
+Italic, and Germanic branches of Indo-European languages. North-
+ward expansions may have originated the Balto-Slavic expansion,
+which was perhaps the last. The southward expansion was less suc-
+cessful, as the area was already heavily inhabited, but from the sec-
+ond millennium B.c. there were various Indo-European speaking
+peoples and dynasties in Turkey and the Middle East—the Hittites
+and the Mitanni—whose probable origin was from the Kurgan.
+     That Gimbutas’s and Renfrew’s ideas seem more reasonable in
+combination than either is alone was confirmed by a recent study of
+the Indo-European language tree. We conducted this research using
+material published in 1992 by two linguists, Isidore Dyen and Paul
+D. Black, and the statistician Joseph B. Kruskal, to make the first com-
+plete, quantitative analysis of the similarities between Indo-European
+languages. The data published are the frequency of common origin
+of two hundred words in some six dozen Indo-European languages.
+All possible pairs of languages were compared and the similarity of
+each pair evaluated by calculating the percentage of words that
+showed common origin by classical linguistic criteria. For instance,
+“mother” in English and mére in French have common origin, while
+“head” and téte do not. The words were those of a standard list
+used for “glottochronology,” a method for dating the separation of
+languages. Their statistical method is multidimensional scaling, a
+sophisticated type of principal components analysis. Using their data
+
+                                  162
+    we applied two modem methods of tree reconstruction developed
+  Bs for genetic studies, and obtained easily reproducible trees that, inter-
+     estingly, correspond reasonably well to August Schleicher’s original
+     one. The biggest difference is the position of the root, which as
+     always is the most difficult to assess.
+        The most important groups of Indo-European Biauides are the
+     following subfamilies: Germanic (which includes English and the
+     Scandinavian languages), Italic (issuing Latin, among other lan-
+    guages spoken in Italy, in the first millennium B.c.), Balto-Slavic,
+    Celtic, Greek, Indian, and Iranian. Most linguists consider Indo-
+    Iranian a single branch, although Dyen and his colleagues say they
+    are distinct. In our tree, several languages have an early, separate
+4 origin: Albanian, Armenian, and, later, though somewhat less clearly,
+ by Greek. Extinct languages like Hittite and Tocharian could not be
+A   considered in our analysis. The same tree was obtained by two other
+    major methods of reconstruction and is shown in figure 13.
+     It is reasonable to think that isolated languages like Albanian
+    and Armenian (and with less evidence Greek) originated with the
+    first wave of Neolithic farmers from Turkey. Their greater.age with
+    respect to other families is responsible for their early position in the
+setree. They are also geographically closest to Turkey.
+oe
+eS
+        Our analysis groups the Indian and Iranian languages into
+    one Indo-Iranian group, in the classic tradition of Indo-European
+    studies, but slightly contradicting the results of Kruskal and his
+    colleagues.
+        The later branches are likely to be derived from the second
+    wave of Indo-European migrations from the Kurgan area, central
+    European ones from its western part, and the Indo-Iranian branch
+    from the eastern part. The order of branching in the tree is inter-
+    esting: that of Celtic, Balto-Slavic, Italic, and Germanic subfamilies
+    corresponds reasonably well to their geographic distance from the
+    center of origin. Here the first branch of the tree is the Celtic,
+    which is still spoken in the extreme western areas of Europe, and
+    therefore is the most distant one from the Kurgan area. The next
+    split generated the Italic-Germanic and the Balto-Slavic branch.
+    The Italic branch settled in the southwest of Europe; it was unable
+
+                                         163
+                                                                                             ¥ Pers ~
+                                                                                              Tadzik
+                                                                                              Wakhi
+                                                                                              Ossetic
+                                                                                              Bengali
+                                                                                              Hindi
+                                                                                         —    Lahnda
+                                                                                              Panjabi
+                                                                                              Gujarati
+                                                                                              Marathi
+                                                                                              Khaskura
+                                       ;                      100                   100 j Nepali
+                                           100                                                Kashmiri
+                                                                                              Singhalese
+
+                                                                         100         aa
+                                                                                              WelshC
+                                                      100                            100 WelshN
+                                                                                               IrishA
+
+                                                                               86
+                                                                                    7a        Dae
+                                                                                              Macedonian
+
+                                                                        ~_|89_f5—              Byelorussian
+                                                                               2               Polish
+                                                                               49             Czech
+                                                                                     =        Slovak
+                                                                    —               SS CacchE
+                                                                               a=             LusatianU
+                                                        100                                   Russian
+
+
+
+
+                                  S
+
+
+
+                     3
+
+
+
+
+                                      SM
+
+
+
+
+                                  Siti                  we
+                                  =         S           —
+     9000   8000   7000    6000
+
+
+
+Figure 13. Tree of63 Indo-European languages. Numbers near branches indicate the
+reliability in percent of the specific branch, calculated by the method of the bootstrap.
+The scale on the bottom indicates years. (From an unpublished manuscript by Piazza,
+Minch, and Cavalli-Sforza, based on data from Dyen, Kruskal, and Black 1992)
+
+                                                164
+           a
+
+
+    © to completely replace the earlier pre-Indo-European language
+        _ Basque but was successful in replacing Etruscan in the Italian
+    _     peninsula. The Germanic branch settled in the northwest, north,
+_         and center of Europe, being unable to completely replace the ear-
+          lier Indo-European subfamily which had also survived Celtic. The
+          Baltic and Slavic branches settled in the northeast and the south-
+          east, respectively, competing with the earlier settlers who spoke
+          Uralic languages.          .
+              Recently, Tandy Warnow from Philadelphia and others have pro-
+          posed a completely independent tree analysis of Indo-European his-
+          tory. Their results are not fully published and therefore difficult to
+          analyze. They use a small number of word roots, believed to be espe-
+          cially reliable, and a very small number of languages that includes
+          extinct ones. Their conclusions differ from ours mainly because they
+          propose a very late branching of Celtic. This is difficult to reconcile
+         with the early diffusion of Celtic languages to almost all of Europe, -
+          and their suppression by latecomers, speaking Germanic and Italian
+          languages, which confined these languages to the extreme geo-
+          graphic periphery of northwestern Europe. The small number of
+    '    words employed and the lack of a statistical test of robustness of
+         conclusions may be the main problem of this otherwise very inter-
+         esting analysis.
+
+
+
+
+                                  The Bantu Expansion
+
+         Many other expansions have brought new languages to new lands.
+         The demic expansions of peoples that we are familiar with were
+         almost all accompanied by their original languages. Among the pre-
+         historic expansions studied both genetically and linguistically, the
+         Bantu expansion is of considerable interest. Despite contacts and
+         genetic flow from tribes speaking other languages, like Nilo-Saharan
+         in East Africa, and the Khoisan in South Africa, the Bantus have
+         largely maintained their genetic distinctiveness, which makes them
+         somewhat different from the other West Africans from which they
+
+                                           165
+originated. Starting from Nigeria and Cameroon, they head ol 4
+south, toward the Atlantic coast. The Bantus of the first expansion        _
+were still using Neolithic tools 3,000 years ago, but later Bantu
+expansion was aided by the introduction of iron. Only around A.D. 1
+did the Bantus reach the Great Lakes region of Uganda and Kenya,
+and from there they expanded south, both near the coast of the
+Indian Ocean and further inland. From this time on,
+                                                 mn,archeologists
+find Bantus relied heavily on iron.
+   The western and eastern currents moving into the south central
+continent met eventually. The Bantus were apparently still a few
+hundred kilometers from the Cape of Good Hope when the Dutch
+landed there around 1650. Both archeology and linguistics also show
+that the Bantus arrived earlier in Namibia along the West Coast.
+
+
+
+
+                          Darwin's Prophecy
+
+The origin of scientific linguistics can be dated to 1786. In that year,
+the English judge Sir William Jones advanced the theory that San-
+skrit, Greek, and Latin, and possibly Celtic and Gothic (the ances-
+tor of Germanic languages), appeared to have a common origin, at a
+famous conference at the Bengal Asiatic Society of Calcutta, which
+he had just founded and served as president. The similarity of
+Sanskrit and European languages had already been noticed by the
+Florentine merchant Filippo Sassetti and by the Jesuit priest
+Coerdoux. The latter sent notes from Pondicherry to the Academy
+of Inscriptions in Paris showing that Sanskrit, Greek, and Latin
+must have a common origin, but his conclusion did not have the
+impact of Jones's conference. In 1863 the German linguist August
+Schleicher published a tree showing the origins of Indo-Europeans
+very much like one we would draw today using modem methods.
+The ties between biology and linguistics were evident at once.
+Schleicher was certainly influenced by Charles Darwin’s use of
+trees. to explain the theory of organismal evolution. In On the Ori-
+
+
+                                  166
+      a   ”
+
+      gin of Species, Darwin clearly stated that if we knew the tree
+                                                                   of bio-
+       logical descent of the human groups, we could extract the tree
+     we_ relating languages. This effort was not attempted until 1988. I am
+
+    | ashamed to say I was not aware of Darwin's prophecy at the time. I
+         was reminded by a friend who is a historian of our science and had
+       read our 1988 paper, with Alberto Piazza, Paolo Menozzi, and
+       Joanna Mountain, in which we correlated together on a global scale
+       data of genetics, archeology, and linguistics. Here are Darwin’s
+       words:
+
+                     The natural system [of classification] is genealogical in its arrange-
+              - ment, like a pedigree. It may be worthwhile to illustrate this view of
+                classification by taking the case of languages. If we possessed a perfect _
+                pedigree of mankind, a genealogical arrangement of the races of man
+                would afford the best classification of the various languages now spo-
+                ken throughout the world; and if all extinct languages, and all interme-
+                diate and slowly changing dialects, were to be included, such an
+                arrangement would be the only possible one. °
+
+4          The correlation between genes and languages cannot be per-
+a
+       fect, since the rapid conquest of large territories may favor replace-
+q      ment of indigenous languages with unrelated ones, as happened in
+4      much of the Americas. But these events do not appear to have
+3      occurred frequently enough to erase all trace of a correlation. We
+       see equally that in the case of prolonged genetic exchanges with dif-
+       ferent neighbors, genes can be replaced. Nevertheless, despite the
+       two sources of confusion, the correlation between genes and lan-
+       guages remains positive and statistically significant.
+           Even at a microgeographic level, the regions subject to detailed
+       study have usually shown strong correlations between geography,
+       genetics, linguistics, and other cultural aspects like surnames.
+       Often the genetic-linguistic mosaic we observe clearly shows the
+       effects of numerous expansions—some are known historically—
+       and of their superimpositions and interactions. Perturbations do
+       occur, but they do not manage in most cases to obscure the clarity
+       of the correlation between genes, peoples, and languages,
+
+
+                                                   167
+     A Hypothetical Model of Linguistic Evolutionary History
+      Based Mostly on Genetic and Archeological Knowledge
+
+Linguistic evolution is a subject of unusual interest. In this chapter,
+we have restricted ourselves to explaining the similarities between
+genes and languages. But linguistic evolution is also very important
+to understand as an example of a more general phenomenon, cul-
+tural evolution, which we will analyze in the next chapter.
+     Following Darwin’s suggestion, one can attempt to use our
+knowledge of genetic evolution to make hypotheses about the ear-
+lier part of the linguistic tree. Figure 14 shows the linguistic history
+reconstructed when a number of cues taken from the genetic tree
+are correlated to linguistic information. Merritt Ruhlen drew the          =—
+                                                                            o
+                                                                            s
+
+
+tree, using our 1988 genetic tree as a guideline. But he also took
+into account new linguistic superfamilies that had been daringly
+proposed in the interim. I have made few changes to his tree,
+adding some probable dates. When our genetic data is entirely sat-
+isfactory, the tree will probably not be as simple as this one, but it
+seems likely that its major features will not change.
+    The oldest linguistic families must be African: of the four exist-
+ing today, Khoisan is considered to be the oldest; Afro-Asiatic the
+most recent; Niger-Kordofanian and Nilo-Saharan probably had a
+common origin (the Congo-Saharan superfamily suggested by
+some linguists), and must have arisen at an intermediate time.
+Khoisan may be the most direct descendant of the people who left
+Africa, as explained before.
+    For those Africans who remained, the first linguistic split is
+likely to have been between the branch leading to modern Khoisan
+on one side and a branch leading to the ancestral languages of
+Congo-Saharan on the other. Afroasiatic is likely to have originated
+much later, probably in northeast Africa, or otherwise in the Middle
+East, or in Arabia.
+    The Niger-Kordofanian family consists of two branches. The
+very small one is the Kordofan, named after a large mountain range
+in western Sudan, and the other is called Niger-Congo. Perhaps
+there was a westward spread from East Africa, first to the Kordofan,
+
+                                   168
+                                                                                       Khoisan
+
+                                                                                  Niger-Kordofanian
+                                  ane                  Congo-Saharan
+                                                                                    Nilo-Saharan
+
+
+                                                                                      Zz          =
+
+
+
+
+                                       faci
+                                                                                   Indo-European
+
+
+
+                                        ep   40-20 K                 20-10 Kya
+
+
+         Ti                   :        :                                            Eskimo-Aleut
+                omo sapiens sapiens
+    ¥             (100-70 Kya)                                                   Chukchi-Kamchatkan       2
+
+4                         3            _ Eurasian       Dene-Caucasian                Na-Dene
+i                                      (6040 Kya)         (40-20. Kya)              |Na-Dene |
+E           :                                                                       Sino-Tibetan
+
+ro      a                                                               :   Caucasian/Basque/Burushaski
+
+rae
+P                                                                   Austro-Tai
+                                                                                            Cc.
+
+
+“4                    ‘            :                Austric                           Miao-Yao
+
+                                                                                    Austro-Asiati
+                          Southeast Asia/Pacific
+                                  (60-40 Kya)                                       Indo-Pacific
+
+
+
+
+        Figure 14. The tree of origin of human languages, drawn by Merritt Ruhlen in 1994,
+        using Darwin’s suggestion to base it on the genetic tree (given in figure 12), somewhat
+        modified, with the likely range of initial divergence dates (Kya = 1,000 years ago).
+
+
+        then to West Africa, or the expansion may have been in the opposite
+        direction. In West Africa a major population burst coupled with the
+        introduction of agriculture may have occurred 4,000 to 6,000 years
+        ago. I hope archeologists will note the genetic cues from principal
+        component analysis of genes that suggest this may have begun
+        between Mali and Burkina Faso (former Upper Volta). Agriculture
+
+                                                              169
+then spread from Nigeria and Cameroon to pal oa southe
+Africa with the Bantu expansion, which took 3,000 years to reach as
+far south as it would.                                                  e
+    The agricultural expansion originated in West Africa found a —
+forest population of hunter-gatherers, Pygmies. Most of my work in
+Africa was in the forest areas of the tropical belt, where Pygmies —
+have survived the arrival of farmers. They are very few and, wher-
+ever the forest has disappeared, their descendants are hardly recog-
+nizable. Unfortunately, the original Pygmy languages have all
+disappeared, replaced by languages of neighboring farmers. The
+only possible traces of these languages are in their names for forest
+animals and plants. Working in an area where foraging (hunting-
+gathering) barely survives side by side with agriculture has given
+me a chance to observe the transition from foraging to farming,
+which is still going on but will soon be over. I believe that archeolo-
+gists interested in the Neolithic transition in Europe and elsewhere
+should spend time in this area, while it is not too late, inorder to see
+a living model of what must have happened in similar circum-
+stances in other parts of the world. All the farming people in prox-
+imity are dark-skinned, while those who live in the forest are less so.
+    A group of very dark-skinned Africans (sometimes called “elon-
+gated” because of their very elegant, tall and thin bodies), many of
+whom could make a good living as fashion models, inhabit East
+Africa and other neighboring regions. Linguistically, they are Nilo-
+Saharan, a name that indicates their dominant living area and their
+origin. The Nilo-Saharan started domesticating cattle in the Sahara
+perhaps 8,000 years ago, but many of them had to leave when it
+became a desert. Even today they are still mostly shepherds.
+    The earliest confirmed date of modern humans in Asia is in
+China, 67,000 years ago; and the first settlement of New Guinea
+and Oceania is believed to have been 50,000 to 60,000 years ago at
+the earliest, or at most somewhat later, 40,000 years ago. Did mod-
+ern humans reach East Asia by land or perhaps by boat, along the
+southern coast? Probably both. There exist archeological estimates
+of the rate at which the recolonization of northern Europe took
+place at the end of the last glaciation (around 13,000 years ago): it
+
+                                   170
+              a Butthe. major limiting qectiiemay have been largely that
+     Periice withdrawal, rather than that of human movement. Itis possi-
+    2 ble that the coastal route allowed a faster movement. How long did
+     _ it take to travel by the hypothetical coastal route from East Africa, a
+     : likely point of departure, to Southeast Asia (a necessary point of
+       arrival, from which some may have continued north to East Asia
+     along the coast of the Pacific, and others south to New Guinea and-
+    _ Australia)? We may venture a minimum guess of 10,000 years. Per-
+    _ haps modern adventurers might try to repeat a small part of the
+a     journey in conditions similar to those of our ancestors. This could
+    _ be very informative, even if today’s coast and the availability of
+ 4g seafood must be different from what it was then. Assuming that it
+  _ took that much time to go from East Africa to Southeast Asia, the
+    average displacement that may have taken place would have been
+    on the order of 50 to 60 kilometers per generation (2 km/yr). This is
+ about twice the rate of advance of farmers many thousands of years
+ later. We are speaking of a mode of life of which there do not seem
+      to exist living or historical examples (other than perhaps in Bommeo).
+      I would describe it as nomadic fishing. But the model of demo-
+      graphic expansion would not be very different from that of Neolithic
+      farmers, in the sense that there must be both migration and reason-
+     _ ably active reproduction for an expansion to take place. Of course,
+       over the generations, some extended families or small groups may
+       have settled or chosen to leave the coast and go into the interior, as
+       others continued their almost random wandering along the coast.
+      The settlement of Southeast Asia, New Guinea, and Australia led to
+      the development of the Indo-Pacific and Australian linguistic fami-
+      lies. Andamanese and other Negritos of Southeast Asia are the clos-
+      est living descendants of Africans who were among the first settlers
+      of Southeast Asia and Oceania.
+          China and Japan may have been settled before Australia, and
+Eemay
+ae
+ee
+Oe         have been the first areas of development of the Dene-Sino-
+      Caucasian family, which must have spread west through central
+      Asia to Europe. The Na-Dene branch went to Siberia, from which
+      it later (about 10,000 years ago) migrated to North America, after
+
+                                         171
+_ the Amerindians first colonized it aie 15,000 to 30,000 years “y
+   ago).
+       A late expansion centered in Southeast Asia was that of theAus-
+                                                                             ct
+                                                                             Ap
+                                                                              a
+   tric superfamily, which connects genetically Taiwanese aborigines _
+   and the southern Mongols of Southeast Asia. The second PC of
+   Asia indicates a possible genetic expansion centered in Southeast
+   Asia. This may have happened both very early, and also again as late
+ * as the local development of agriculture. Principal components can-
+   not distinguish two expansions having the same area of origin which
+   took place at different times.
+       The multiplicity of migrations and expansions between Europe
+ and Asia, in both directions, is well substantiated. A recent discov-
+ ery of a late west-to-east migration was that of the Indo-Europeans     .
+ who went as far as western China as recently as 4,000 to 1,000 years
+ ago, but the languages spoken by them, Tocharian, are extinct.
+ Among the last people to expand from a center located in the east
+ were Mongolians who engaged China, forcing the emperors to
+ build the Great Wall more than 2,200 years ago. Attila the Hun
+ went as far west as Italy. Their relatives speaking Turkic languages
+ started expanding from Central Asia about eight or nine centuries
+ ago, eventually reaching Turkey and the Balkans.
+     We have mentioned that the roughly continuous genetic
+ gradient from Europe to East Asia is the result of all these migra-
+ tions. Many Central Asians are herders and nomadic. Languages,
+ especially those forming the Eurasiatic family, introduce apparent
+ discontinuities in the gradient, as communities inevitably speak a
+ single, common language. Some extend widely and may move,
+ creating a complex human         geography.   Political changes and
+ military events may force the replacement of languages in a rela-
+ tively short time. Here the correlation of languages and genes
+ cannot be perfect but it is still evident to some extent, in spite of
+ the turbulence of the Eurasian history of the last four or five
+ millennia.
+     Genetic research can certainly help the understanding of lin-
+ guistic evolution, and vice versa.
+
+
+
+                                      172

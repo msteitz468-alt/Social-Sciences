@@ -1,0 +1,50 @@
+---
+title: "Ancient Society"
+author: ["Lewis H. Morgan"]
+year: 1877
+source_type: "primary-study"
+disciplines: [anthropology, sociology]
+era_coverage: [founding-era]
+region_coverage: ["north-america", "eastern-north-america", "mesoamerica", "mediterranean", "global-north"]
+methodological_approach: "comparative"
+reliability_notes: "Lewis Henry Morgan, *Ancient Society, or Researches in the Lines of Human Progress from Savagery through Barbarism to Civilization* (New York: Henry Holt, 1877). Founding-era comparative ethnology and the canonical statement of unilinear social evolutionism. Claims are Morgan's — attributed voice throughout; his stadial ranking of peoples ('savagery/barbarism/civilization') and conjectural family sequence are the theory whose failure the discipline later documented, not wiki-voice fact (see reflexivity/critique). Morgan's ethnographic base is strongest for the Iroquois (his own fieldwork) and secondhand/philological for other cases; Greek and Roman material rests on classical texts. Text from a clean epub→txt conversion (ebook-convert); ~187k words total, of which body prose is ~lines 156–3550 (Parts I–IV + conclusions) and the remainder (~458 numbered endnotes) is Morgan's citation apparatus. No silent truncation; all four parts present. Ethnocentric and racial-hierarchy framing is period-typical and is handled as reflexivity content, attributed to Morgan. Distinct from Morgan's *[[morgan-systems-consanguinity-1871|Systems of Consanguinity]]* (1871), already ingested — this volume develops the family sequence, the gens/government argument, and the property argument that *Systems* only gestured at."
+study_page: "morgan-ancient-society-study"
+pages_created: 6
+pages_updated: 2
+ingested: 2026-07-09
+tags: [source]
+---
+
+# Ancient Society
+
+Lewis H. Morgan, *Ancient Society* (Henry Holt, 1877). Author: [[morgan-lewis-henry]]. The magnum opus of Victorian [[social-evolutionism|social evolutionism]]: a comparative argument that all of humanity has advanced through the same three "ethnical periods" — **[[savagery-barbarism-civilization|savagery, barbarism, and civilization]]** — along four parallel lines (subsistence/technology, government, the family, and property), each driven by a sequence of inventions and institutions. Ingested as a `primary-study` with a companion analytic [[morgan-ancient-society-study|study page]]. Related primary already complete: *[[morgan-systems-consanguinity-1871|Systems of Consanguinity]]* (1871) / [[morgan-systems-consanguinity-study]]. The most influential single text of nineteenth-century anthropology, it supplied the empirical and periodizing scaffold for [[engels-friedrich|Engels]]'s *[[engels-origin-of-the-family-1884|The Origin of the Family, Private Property and the State]]* (1884) and became the founding target of the twentieth-century reaction against unilinear evolution (see [[unilinear-kinship-evolution-debate]]).
+
+## Section Plan
+
+| Part | Chapters | Body lines | Theme | Key topics |
+|---|---|---|---|---|
+| I — Growth of Intelligence through Inventions and Discoveries | 1–3 | 156–501 | technology / periodization | ethnical periods (see [[savagery-barbarism-civilization]]) and their subdivisions (lower/middle/upper); arts of subsistence as the driver; ratio of human progress (geometrical acceleration); psychic unity |
+| II — Growth of the Idea of Government | 1–15 | 502–2554 | political organization | organization on the basis of sex (Australian classes); the [[gens]], phratry, tribe, confederacy; the Iroquois (see [[iroquois]]) as type case; Aztec, Grecian, and Roman gentes; change of descent from female to male line; transition from *societas* (persons/gentes) to *civitas* (territory/property) |
+| III — Growth of the Idea of the Family | 1–6 | 2555–3385 | kinship / family | the family sequence — consanguine → punaluan → syndyasmian → patriarchal → monogamian; classificatory vs descriptive terminologies (see [[classificatory-system-of-relationship]]) as fossils of prior family forms; [[group-marriage]]; [[mother-right]] |
+| IV — Growth of the Idea of Property | 1–2 + conclusions | 3386–3550 | property | rules of inheritance; property as the force driving monogamy, male descent, and the state; concluding vision of progress and a "return, in a higher form, to liberty, equality and fraternity" of the ancient gentes |
+| Apparatus | Notes | 3553–7260 | — | ~458 numbered endnotes (citations; occasional substantive ethnographic detail) |
+
+## Claims Extracted
+
+All attributed to Morgan; his stadial ranking and conjectural sequences are theory, never wiki-voice fact. Full analytic treatment on the [[morgan-ancient-society-study|study page]].
+
+**Part I — inventions and periodization.** Humanity everywhere advanced through seven **ethnical periods** (Lower/Middle/Upper Savagery; Lower/Middle/Upper Barbarism; Civilization), each opened by an invention or art of subsistence (fire+fish; bow; pottery; animal domestication or irrigation+adobe; iron smelting; phonetic alphabet). The Danish three-age system is insufficient because its ages overlap. **Arts of subsistence** are the primary engine of progress (five successive sources). Progress proceeds at an accelerating ("geometrical") ratio; Morgan apportions ~60,000 of a hypothesized 100,000 human years to savagery. The method rests on **psychic unity** — "the specific identity of the brain of all the races of mankind" — licensing the reading of isolated living societies as windows onto the ancestral past. → [[savagery-barbarism-civilization]], [[social-evolutionism]]. **[REFLEXIVITY]** explicit racial hierarchy (Aryan/Semitic "leading" families; brain-size claims), progressivist teleology, and the ethnographic-analogy-as-ancestral-stage conflation.
+
+**Part II — government.** The **[[gens]]** (a body of consanguinei with a common name, exogamy, elective/deposable sachems, and ten enumerated gentile rights) → phratry → tribe → confederacy is a **universal pre-state organization**, with the [[iroquois]] as type case; Greek *genos* and Roman *gens* are the same institution later. Gentile government is a **[[military-democracy]]**, never a monarchy (disputing Grote). The state arises only with the transition from **[[societas-and-civitas|societas to civitas]]** — organization by territory and property replacing organization by persons (Cleisthenes at Athens 509 BCE; Servius Tullius at Rome). The Aztec "empire" was really a confederacy/military democracy misread by Spanish chroniclers. → [[gens]], [[iroquois]], [[societas-and-civitas]], [[military-democracy]].
+
+**Part III — the family.** Five successive family forms (consanguine → punaluan → syndyasmian → patriarchal → monogamian), inferred from **classificatory kinship terminologies read as fossils** of extinct marriage practices ("the form of the family advances faster … than systems of consanguinity, which follow to record" it). Female-line descent ([[mother-right]]) is archaic. Morgan rebuts Maine's patriarchal-family-as-original thesis and, at length, McLennan on the value of classificatory terms. → [[morgan-family-sequence]], [[classificatory-system-of-relationship]], [[mother-right]], [[group-marriage]], [[morgan-mclennan-debate]].
+
+**Part IV — property.** Three rules of inheritance (gentile → agnatic → children-exclusive), evidenced from Athenian, Roman (Twelve Tables), and Mosaic law. **Property was the prime mover**: "The monogamian family owes its origin to property"; the growth of property drove male descent, monogamy (to secure legitimate heirs), slavery, and aristocracy — lowering women's status. The property→state formalization is chiefly Engels's extension. The book closes with the teleological vision of a coming "revival, in a higher form, of the liberty, equality and fraternity of the ancient gentes." → [[private-property]], [[monogamy]], [[engels-origin-of-the-family-1884]].
+
+## Volume Synthesis Note
+
+*Ancient Society* is the grand evolutionary synthesis built atop the kinship dataset of Morgan's *[[morgan-systems-consanguinity-1871|Systems of Consanguinity]]* (1871): four parallel "lines of progress" (subsistence, government, family, property) climbing one universal ladder from savagery to civilization, integrated by the twin engines of technological invention and the survival/fossil reading of institutions. It is at once the founding text of cultural evolutionism and the founding target of the reaction against it: the Boasians and twentieth-century kinship theory rejected the unilinear ladder, universal group marriage, and matriliny-first, while retaining the gens/clan, the classificatory/descriptive distinction, and the principle that kinship terminologies carry historical information (see [[unilinear-kinship-evolution-debate]]).
+
+Within the vault it sits beside three neighbors. It completes the Morgan corpus begun with [[morgan-systems-consanguinity-study|Systems of Consanguinity]] — supplying the family sequence and the gens/government/property arguments that *Systems* only gestured at. It is the direct source of [[engels-friedrich|Engels]]'s *[[engels-origin-of-the-family-1884|Origin of the Family]]* (1884), which the vault previously used to reconstruct Morgan secondhand; this ingest lets those pages be re-grounded in Morgan's own text (attributed to Morgan directly rather than via Engels). And it is the primary foil for [[maine-henry-sumner|Maine]]'s patriarchal theory, which Morgan attacks by name. Its racial-hierarchy framing — the closing paean to the "intrinsic superiority" of the "Aryan family" — is period scientific racism, quarantined in attributed voice and treated as reflexivity content, never asserted as fact.
+
+*This ingest ran concurrently with a broader anthropology-batch session revising the shared evolutionism pages (`gens`, `social-evolutionism`, `iroquois`, `unilinear-kinship-evolution-debate`, `morgan-lewis-henry`, etc.); to avoid clobbering that work, this session created the Ancient Society-specific pages and left the shared-page updates to the concurrent pass. See log.*

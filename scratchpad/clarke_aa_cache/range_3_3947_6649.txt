@@ -1,0 +1,2703 @@
+3947|3     Cultural morphology and cultural
+3948|      ecology - the setting
+3949|
+3950|      C o m m u n i c a t i o n is the discriminatory response of an
+3951|      organism to s t i m u l u s ,
+3952|      S. S. S T E V E N S 1 9 5 0 ,
+3953|      ' I n t r o d u c t i o n : A Definition of C o m m u n i c a t i o n ' ,
+3954|                                  /. Acoust, Soc. Am., 2 2 , no. 6
+3955|      . . . communities are c o m p o s e d of recognizable population
+3956|      elements and evolutionary ecology d e p e n d s upon
+3957|      population s y s t e m s , since population s y s t e m s b e c o m e
+3958|      adapted to their e n v i r o n m e n t s to a greater degree than the
+3959|      individual,
+3960|                                                         A L L E E et al. 1 9 5 0 , p. 6
+3961|
+3962|
+3963|
+3964|One of the main reasons for the premature attempt at a general model
+3965|for cultural processes is the need to emphasize that the systems of
+3966|relationships investigated by archaeologists are but special manifes-
+3967|tations of much more comprehensive systems that once existed. T h e
+3968|striking similarities in the structure, complexity, and inherent
+3969|'behaviour' of archaeological and anthropological data stems from
+3970|their joint generation as products of the same kinds of system - human
+3971|societies. One of the distinctive attributes of such societies is culture -
+3972|the communication system of acquired beliefs which increasingly
+3973|supplements instinctive behaviour in man. Regardless of their specific
+3974|outward form, all cultural systems consist of learned modes of
+3975|behaviour and its material manifestations, socially transmitted from
+3976|one society or individual to another. A cultural system is therefore an
+3977|organized structure integrating amongst others, social, religious, psy-
+3978|chological, linguistic, economic and material culture subsystems.
+3979| T h e s e subsystems are the equilibrium networks within any particular
+3980|cultural system, coupled one with another and with the external
+3981|environing system. In order to understand the many possible mean-
+3982|ings of the regularities that he discovers, the archaeologist must be
+3983| aware of the complex connections between his subsystem's input and
+3984|output and that of the other interconnected subsystems networking
+3985| the overall system. H o w else can the archaeologist hope to interpret
+3986|       C u l t u r a l m o r p h o l o g y and cultural e c o l o g y - the setting                   85
+3987|
+3988|the social, religious, e c o n o m i c , and other kindred aspects of his
+3989|material ?
+3990|       A f t e r a p r e l i m i n a r y look at the essential nature of cultural s y s t e m s
+3991|it is o u r intention to analyse b r i e f l y the c o u p l i n g and connections of
+3992|the v a r i o u s s u b s y s t e m s within the general s y s t e m S - thus p r o v i d i n g
+3993|the b e g i n n i n g s of a setting w i t h i n w h i c h to e x a m i n e particular
+3994|archaeological cultures. T h e internal setting of s u b s y s t e m s within the
+3995|s y s t e m constitutes w h a t w e intend b y 'cultural m o r p h o l o g y ' ; the
+3996|external setting of the integrated s y s t e m then c o m p r i s e s 'cultural
+3997|e c o l o g y ' - the m u t u a l relationships b e t w e e n s u c h s y s t e m s and their
+3998|e n v i r o n m e n t , and the a d a p t i v e c h a n g e s of these s y s t e m s w i t h time and
+3999|space. T h e time has also c o m e w h e n we m u s t be m o r e specific about
+4000|the nature and m e c h a n i s m s of the cultural s y s t e m as an entity and of
+4001|the c o m p o n e n t s u b s y s t e m s , if w e are u s e f u l l y to d e v e l o p the equilib-
+4002|r i u m postulates and h y p o t h e s e s p r o m i s e d by the general m o d e l .
+4003|U n f o r t u n a t e l y , this m u s t m e a n the repeated reiteration in particular
+4004|contexts and levels of the relationships o b s e r v e d as inherent in culture
+4005|s y s t e m s in general, as integrated in the general m o d e l .
+4006|
+4007|
+4008|1   The nature of cultural systems
+4009|A r c h a e o l o g i s t s and anthropologists are most o f t e n dealing w i t h
+4010|cultural data relating either to artefacts or to activities and there is a
+4011|t e n d e n c y to r e g a r d these aspects as the f u n d a m e n t a l elements of
+4012|culture s y s t e m s . In an earlier discussion on artefacts h o w e v e r , it w a s
+4013|pointed out that e v e r y attribute on an artefact is equivalent to a
+4014|fossilized action, e v e r y artefact is a solidified s e q u e n c e of actions or
+4015|activities, and w h o l e a s s e m b l a g e s of a r t e f a c t s are t a n t a m o u n t to w h o l e
+4016|patterns of b e h a v i o u r . If w e d i s r e g a r d the material or non-material
+4017|i m p l e m e n t a t i o n of the acts then w e can u n d e r s t a n d artefacts as s i m p l y
+4018|'solid' b e h a v i o u r , in w h i c h a r o u g h e q u i v a l e n c e can be struck b e t w e e n :
+4019|
+4020|
+4021|Action                     Anthropology               Archaeology
+4022|
+4023|
+4024|an action                  an attribute               an attribute
+4025|a cluster of               an activity                an artefact
+4026|   actions
+4027|repeated clusters          behaviour                  assemblages
+4028|  of actions                                            of artefacts
+4029|86   Analytical Archaeology
+4030|     This remains meaningful so long as care is taken to keep the
+4031|terminology defined and in use at the same level - as long as a social
+4032|'activity' is not confused with its basic 'attributes'. If the levels are to
+4033|be maintained for comparative purposes and interpretation then the
+4034|'sun dance' or the 'initiation ceremony' are cultural artefacts or
+4035|assemblages of artefacts, not attributes. In essence, it seems that both
+4036|artefacts and activities can be reduced to behaviour composed of
+4037|actions on the part of the system's generators.
+4038|     This argument might lead to the assumption that cultural systems
+4039|are behaviour systems which can be completely described in terms of
+4040|the behaviour observed. However, the elementary discussion of simple
+4041|systems illustrated just how much system 'behaviour' may be inherent
+4042|in the structure of the system and in any case this discussion of
+4043|cultural artefacts and activities has neglected to deal with the even
+4044| more fundamental aspect of cultural 'beliefs'. Living societies are
+4045| represented by corporate groups of people, and their culture systems
+4046|by the relationships explicitly or tacitly inferred by their repeated
+4047| patterns of activities, artefacts, and beliefs. T h e basic attributes of
+4048| such culture systems are consequently activities, artefacts, and beliefs,
+4049| not in their own guise but as 'information' controlling and regulating
+4050| these three derivative expressions of cultural tradition. Culture is an
+4051| information system, wherein the messages are accumulated survival
+4052| information plus miscellaneous and random noise peculiar to each
+4053| system and its past trajectory (Xs in fig. 11).
+4054|     Now, it has been suggested that the significant difference between
+4055| the ape-like ancestors of man and the ape-like ancestors of the modern
+4056| apes lay in the difference between strongly social large 'apes' and the
+4057| less social large pongid 'apes'. T h e early hominids were social animals
+4058| before they were bearers of material or non-material culture. It was
+4059| possibly this social and co-operative behaviour of 'man' the bipedal
+4060| ground-ape that led to the early hominid preservation of an unspeci-
+4061| alized physique, a decreasing level of instinctive behaviour and the
+4062| advantageous development of elaborate intercommunication by
+4063| speech and other means. Whereas the survival of other species centred
+4064| around the inheritance of a large body of instinctive behaviour, the
+4065| survival of the early hominids is likely to have been increasingly
+4066| dependent upon their co-operative activities in social groups. In this
+4067| sense, then, co-operative social activities in the early hominids were a
+4068| partial alternative to increasingly specialized instinctive behaviour.
+4069|  Consequently, man is unusually dependent on behaviour information
+4070| communicated by seniors and contemporaries in his social group; one
+4071|     C u l t u r a l m o r p h o l o g y a n d c u l t u r a l e c o l o g y - the s e t t i n g   87
+4072|
+4073|of the prime functions of that clustered group being to ' i n f o r m ' the
+4074|young hominid how to survive in the given conditions.
+4075|     Before speech had fully developed man had a social organization
+4076|and probably simple artefacts, and at this stage the material and
+4077|non-material culture of the g r o u p may have played the vital role in
+4078|transmitting and communicating survival information to the
+4079|immature and defenceless hominid. In an important sense cultural
+4080|systems are the continuous transmission systems of cumulatively
+4081|acquired information, supplementing instinctive behaviour in man.
+4082|T h e y are information systems of signs and s y m b o l s of great advantage
+4083|in the face of natural selection and perhaps even the coded forerunners
+4084|of true speech. In any event, the efficiency of the particular culture
+4085|system clearly depends on the amount of information that it can store
+4086|and convey, by whatever means, at a conscious or unconscious level.
+4087|    Elaborate formal teaching in the modern sense is usually but
+4088|slightly developed in primitive societies, although by no means
+4089|entirely absent. S u c h teaching is essentially supplementary to the
+4090|information received by the individual f r o m the earliest days of
+4091|infancy in the various codes of artefacts and their attributes, speech
+4092|and signs, activities and ceremonies. T h e mere recognition and
+4093|definition of an activity by the production of a concomitant set of
+4094|artefacts constitutes the transmission of information or a message - the
+4095|ordered selection of a set of attributes f r o m amongst the infinite
+4096|variety of possible cultural expressions. A child brought up amongst
+4097|motor-cars and skyscrapers is differently informed to another child
+4098|born amongst stone axes and pig hunts - irrespective of any q u a l i f y i n g
+4099|verbal elaboration.
+4100|     T h e y o u n g learn to survive first of all within their particular
+4101|culture system and later within its external environment, by the
+4102|conscious and subconscious assimilation of the social, religious,
+4103|economic, artefactual, and psychological patterns of their culture.
+4104|T h e s e patterns of behaviour are the code for survival imprinted on the
+4105|individual by his g r o w i n g - u p within and through them, as surely as an
+4106|external pattern is imprinted on a substance expanding within a
+4107|mould. T h a t imprint is not the infinitely complex impression of the
+4108|'real and total' environment but that intermediate approximation
+4109|selectively perceived and reflected in the particular social tradition.
+4110|   S u r v i v a l is all that really matters to a species and this means
+4111|survival of the fittest species. T h e fittest are biologically defined as
+4112|those with an increasing rate of progeny survival, as opposed to a static
+4113|or declining rate. Consequently, any system that can continuously
+4114|88    Analytical A r c h a e o l o g y
+4115|
+4116|convey complex survival information, based on many experiences of
+4117|many past environments, to very young progeny, teaching them to
+4118|survive by subconscious imprint even before they are capable of
+4119|conscious comprehension, any such system must be of infinite value in
+4120|increasing the biological 'fitness' of the species. A s cumulative
+4121|systems, culture systems have become cumulatively more efficient in
+4122|their role of enabling the hominid species to survive, multiply and
+4123|spread across the globe. A s survival information systems they have
+4124|become cumulatively more efficient in transmitting information -
+4125|speech has been perfected, international languages and communi-
+4126|cations fostered, writing and printing developed, wireless and tele-
+4127|vision flourish. It follows that there is an accompanying increase in the
+4128|scope for the transmission of misleading, mistaken or mutually
+4129|contradictory information with a concurrent increase in the social
+4130|ambiguity and dislocation that this must cause.
+4131|
+4132|
+4133|ii   Culture as an information system
+4134|
+4135|If cultural systems are information systems carrying information on
+4136|cultural values and cultural norms in terms of cross-referencing
+4137|images, codes, beliefs, fables and myths then how do they work and how
+4138|can their anomalies be explained?
+4139|    T h e transmission of information is essentially brought about
+4140|whenever constraint restricts the variety of outcomes in a coupled
+4141|system - when only a limited set of variety is transmitted. A message
+4142|in these terms constitutes an ordered selection f r o m an agreed set of
+4143|selected variety. Disturbances which do not represent any part of the
+4144|'essential message' f r o m the source are termed 'noise' in information
+4145|theory. T h i s concept of 'noise' is very useful in the analysis of
+4146|information systems - the relationship between 'noise' and 'informa-
+4147|tion' is simply that they are in no way intrinsically distinguishable one
+4148|from the other as categories of variety - except that noise is the variety
+4149|not essential to the source's message. One can see that this relationship
+4150|is closely similar to that between the inessential and essential attri-
+4151|butes or variables in a system. Now that we understand our cultural
+4152|systems as in essence kinds of information systems, then the 'essential
+4153|attributes' are the 'information' in the system and the inessential
+4154|attributes are the 'noise' - much of it introduced by the nature of the
+4155|system and its past trajectory (Ashby 1 9 5 6 , pp. 121—60; C h e r r y 1957,
+4156|PP- 303-7)-
+4157|       C u l t u r a l m o r p h o l o g y and c u l t u r a l e c o l o g y - the setting                   89
+4158|
+4159|    This outlines the background of the earlier statement that culture
+4160|is an information system, where the messages are accumulated
+4161|survival information, plus miscellaneous and idiosyncratic noise
+4162|peculiar to each system and its past trajectory ( ¿ s in fig. 11). As we
+4163|shall see, this concept is applicable to real data and enables the analyst
+4164|to separate the essential and key variables from the inessential vari-
+4165|ables in artefact assemblages.
+4166|    Information enters cultural systems either as the communication
+4167|of constraint in the variety of outcomes with external systems (fig. 11,
+4168|E -* S) including other cultural systems, or as a similar set of selected
+4169|variety generated within the internal subsystems of S. T h e first cate-
+4170|gory of information corresponds to the 'adaptive' and discriminatory
+4171|response of the culture system to its environment, including the
+4172|capacity to accept information diffused by communication from other
+4173|cultural systems, thereby increasing the system's own information
+4174|variety from external sources. T h e second category of internally
+4175|generated variety corresponds to internal invention or innovation -
+4176|usually as part of the minor re-networking of components producing
+4177|surprising, newly 'emergent' variety in component properties (see
+4178|above p. 60).
+4179|    By and large fresh information or new variety affects the cultural
+4180|information system in a limited number of ways. T h e system may
+4181|either accept or reject the new set of variety - where the conditions for
+4182|acceptance or rejection will be discussed shortly. If the message or set
+4183|of variety is accepted, then it will be in one of four relationships to
+4184|existing variety in the attributes of the culture system : the new variety
+4185|will be wholly new, or it may be additional but alternative to that
+4186|already existing in the system, or it may flatly contradict and destroy
+4187|existing system information, or finally it may confirm and be identical
+4188|with existing information. T h i s flow of kinds of new information and
+4189|their effects can be displayed as follows:
+4190|
+4191|Invention                                  Rejection            »
+4192|
+4193|
+4194|Internil
+4195|informati«                                                      1. N e w v a r i e t y (gain)
+4196|                          S y s t e m S^                        2. A l t e r n a t i v e v a r i e t y
+4197|External
+4198|information
+4199|                                      X    Acceptance
+4200|                                                                   (disjunction)
+4201|                                                                3. C o n t r a d i c t i v e v a r i e t y
+4202|                                                                     (equivocation)
+4203|Diffusion                                                       4. C o n f i r m a t i v e v a r i e t y
+4204|                                                                     (redundant)
+4205|go   Analytical Archaeology
+4206|T h e terms in brackets express the nearest information theory
+4207|equivalents to our terms 1 - 4 (Cherry 1957, pp. 303-7).
+4208|     It is important to grasp that the variety in information which we
+4209|are discussing in general terms can be quite specifically demonstrated
+4210|as new, alternative, contradictive, or confirmative in the spheres of the
+4211|material culture, social, religious, psychological, linguistic or
+4212|economic value subsystems. T h e significance of these concepts is that
+4213|they enable us to come to grips with the meaning of equilibrium in
+4214|cultural system contexts, other than at the gross level of numerical or
+4215|mechanical equilibrium.
+4216|     As a dangerous but ultimately advantageous move it may be help-
+4217|ful to use the information theory version of the terms 1 - 4 - gain,
+4218|disjunction, equivocation and redundancy - whilst fully realizing that
+4219|these terms are rather more narrowly constrained than accurately fits
+4220|our purpose. Gain can be defined as the increase in system information
+4221|resulting from the receipt of a message (Ashby 1956, p. 178). Dis-
+4222|junction occurs when information presents alternative variety to the
+4223|set already held — presenting various alternative choices and tra-
+4224|jectories. Equivocation occurs when the incoming information
+4225|presents a partially or totally contradictory and therefore mutually
+4226|incompatible set of variety to that already held ; since only variety can
+4227|destroy variety, some of the system's variety in information will then
+4228|be destroyed and produce uncertainty about the information as a
+4229|whole. Redundancy occurs when the incoming information presents
+4230|the identical set of variety to that already held by the system - thereby
+4231|confirming that set and increasing consistency but not increasing the
+4232|system's information variety.
+4233|      It will be noticed that gain and disjunction will increase the variety
+4234| of information in the system and therefore the new variety they
+4235| provide increases the regulatory capacity of the system in that it now
+4236| holds larger reserves of variety at R to counter variety from the
+4237| environment E (figs 6, 9, 1 1 ) . Consequently, we can define a more
+4238| 'sophisticated' or complex culture system, or subsystem, as one in
+4239| which more activities or more artefacts are produced, implying a
+4240| greater information content or variety available for regulatory 'insula-
+4241| tion'. One is reminded here of the information system implications of
+4242| Steward's comparison between the 500,000 different artefact-types
+4243| landed by the United States military forces at Casablanca during
+4244| World War II and the 3,000-6,000 total variety of artefact-types
+4245| produced by Californian Indian tribes (Steward 1955, p. 81). Here we
+4246|     Cultural morphology and cultural ecology - the setting            91
+4247|
+4248|have a clear measure of the comparative regulatory or insulatory
+4249|capacity of two culture systems based on artefact-type counts and
+4250|underlying information theory - a technique which we will explore
+4251|later (fig. 24).
+4252|     Even at this stage it would seem likely that a culture system's
+4253|capacity as a regulator or insulator cannot exceed its capacity as a
+4254|communication system, since only variety in culture can force down
+4255|variety in the outcomes. Information cannot be transmitted in larger
+4256|quantity than the system's variety allows and the greater the number
+4257|of connecting channels or networks, the greater the number of coded
+4258|means of intercommunication (artefacts, activities, speech, writing,
+4259|etc.), the greater the regulatory potential of the system as a whole.
+4260|     Redundancy, on the other hand, is not accompanied by any change
+4261|in the system's variety. Redundant information confirms the existing
+4262|consensus of the system's communication channels, strengthening the
+4263|system in its existing state in spite of all the factors of uncertainty
+4264|acting against its continuity - noise, disjunction, equivocation and so
+4265|on. T h e capacity of a system transmitting information to continue or
+4266|survive as the same system depends on the maintenance of the essen-
+4267|tial attributes or information being conveyed. However, the fluctuat-
+4268|ing variety within the system is not inviolate, the greater the changes
+4269|in variety introduced, the greater the number of possible trajectories
+4270|and the lower the chances of the consistent communication of the
+4271|system's syntax in the same general format. T h e complex syntactical
+4272|rules of culture systems represent a set of constraints marking the
+4273|thresholds defining the systems as individual entities. There exist,
+4274|therefore, thresholds marking the survival capacity of that particular
+4275|information system beyond which it becomes transformed into other
+4276|systems (trajectory examples (1 )—(5), chapter 2). Redundancy is the
+4277|vital factor which makes for consistency and continuity, preserving the
+4278|system in its present general format. Redundancy is tantamount to
+4279|conformity of behaviour information, a high rate of redundancy from
+4280|all the channels in a culture system means little or no change. In this
+4281|way redundancy can help to combat noise or other kinds of variety
+4282|tending to distort the system's distinctive information format.
+4283|    T h e three broad categories of oscillation postulated as inherent in
+4284|cultural systems are significantly connected with the transmission of
+4285|information (postulate 1 1 , general model p. 76). Information feedback
+4286|exists whenever the system or subsystem to which the culture system
+4287|is coupled gives rise to an output which causes the culture system to
+4288|92   Analytical Archaeology
+4289|
+4290|modify its own output - either positively or negatively - thereby
+4291|influencing the other system's transformations (fig. 4). Oscillations in
+4292|the environing system will therefore bring about oscillations in the
+4293|coupled cultural system (postulate 11 a). Alternatively, internal oscil-
+4294|lations towards stable equilibria often occur amongst the system's
+4295|subsystems, usually with lag and lead phenomena and by the same
+4296|feedback process (postulate 11b). Time lag arises when information
+4297|bringing about a transformation takes a definable time after its
+4298|appearance and before the consequent system change. Time lead
+4299|occurs when a system's past trajectory is such that certain future
+4300|transformations can be anticipated and give rise to other prescient
+4301|changes.
+4302|     In the general model diagram (fig. 11) 'lag' is illustrated by the
+4303|time taken for the environmental conditions Eh at time f, to affect the
+4304|system S, not as S,, but as S,2. In the same figure, 'lead' is illustrated by
+4305|the constrained set of possible system outcomes under conditions E,2
+4306|influencing the table of probable responses at f,. A culture system
+4307|demonstrates 'lag' when, for example, centuries of increasing defores-
+4308|tation finally brings about a reluctant change in hunting techniques.
+4309|Such a culture system shows 'lead' when it acts in the light of religious
+4310|beliefs forecasting the end of the world, or when it shifts its fields in
+4311|order not to exhaust the fertility of the land. Given a high gain in
+4312|information variety, alternative variety based on disjunctions, or
+4313|uncertainty stemming from equivocations, then oscillation amongst
+4314|the system attributes or components must often occur. Especially if
+4315|these increases in variety are part of lag or lead situations when the
+4316| present or retrospective changes may turn out to be over-drastic or
+4317| underestimated and need compensation in the manner of the error-
+4318| controlled regulator. Even amongst coupled systems in dynamic
+4319| equilibrium, stability is never completely achieved because the
+4320| environment is continually changing and integration takes time.
+4321| Consequently, there is always a lag in the implementation of regulated
+4322| control transformations and the feedback will set up oscillations
+4323| 'hunting' about a satisfactory strategy (fig. 11, circuit E, R, T , S, E).
+4324|     T h e third kind of oscillation is not connected directly with
+4325| movement towards a stable consensus but is the aimless stochastic
+4326| oscillation that can occur when the permissive boundaries of the stable
+4327| sets of component values allow many equally probable trajectories
+4328| (postulate 11c). T h i s aimless wandering among attribute values may
+4329| be advantageous to the system in that the multiplicity of aimlessly
+4330|     Cultural morphology and cultural ecology - the setting             93
+4331|
+4332|oscillating aspects may chance upon an arrangement with emergent
+4333|and latent potentialities. T h i s leads to exploitative development by
+4334|retaining the advantageous changes and oscillating neutral ones;
+4335|fashion fluctuations of this kind may be thought of as 'scanning'
+4336|through variety 'in search o f useful transformations - an efficient
+4337|inherent tendency in this kind of system, maximizing random dis-
+4338|covery (figs 44, 45).
+4339|    Earlier in this chapter the three major levels of dynamic equilib-
+4340|rium within cultural systems were noted as actively moving towards:
+4341|
+4342|     (i) equilibrium within each subsystem - including the social,
+4343|         economic, religious subsystems, etc.,
+4344|    (ii) equilibrium between the outputs of the various component
+4345|         subsystems,
+4346|   (iii) equilibrium between the system as a whole and its environ-
+4347|         ment.
+4348|
+4349|    T h i s activity has been portrayed as a continuous three level game,
+4350|or a ceaseless three level 'debate'. T h i s arises from the moves to
+4351|reconcile the variety of information flowing through the system. By
+4352|these means the information reaching any single node in the generat-
+4353|ing network from the various systems and subsystems is made less
+4354|mutually contradictory and self-destructive so as not to imperil the
+4355|consistent communication of the system's syntactical format. If the
+4356|information variety is contradictory, then some variety is destroyed
+4357|and beyond a certain threshold the capacity of the system to continue
+4358|in its existing format is unavoidably impaired.
+4359|    Now one way of reconciling mutually contradictory information,
+4360|or destructive variety following equivocation, is to generate fresh
+4361|variety making both sets mutually tolerable and thus not reducing the
+4362|valuable variety in the system as a whole. T h i s 'blending' strategy
+4363|subsumes and reconciles the two former sets of contradictory variety
+4364|within a new and more comprehensive set. T h i s is a procedure often
+4365|observed in 'new' economic strategies blending formerly independent
+4366|components, in 'new' mythologies or religions blending formerly alien
+4367|components, and in 'new' social patterns integrating components from
+4368|several sources. T h i s bleifding strategy as a move towards maintaining
+4369|equilibrium is therefore revealed as a very important stimulus for the
+4370|production of 'new' patterns in sociocultural subsystems.
+4371|    T h e three level debate, or equilibrium game, ceaselessly presents the
+4372|sociocultural system with a limited variety of alternative transitions
+4373|94   Analytical Archaeology
+4374|in its component values and attributes. We have already seen how
+4375|these alternative transitions can be treated 'as if' the culture is
+4376|selecting certain strategies in order to satisfy the limiting conditions of
+4377|the transformations and to ensure an equilibrium outcome; in this
+4378|context we have noted the mixed or randomizing strategy advan-
+4379|tageously underlying multilinear development and now a mixed strat-
+4380|egy creatively blending components in 'new' patterns. In order to
+4381|appreciate the many different kinds of strategy which might be sought
+4382|for in cultural system trajectories and in order to state in general terms
+4383|much of specific value to us later on we might briefly look at the
+4384|concept of strategy in game theory (Braithwaite i960, pp. 200-50).
+4385|     T h e first point to emphasize is that of course the culture systems
+4386|are not choosing strategies and playing games but on the contrary we
+4387|are trying to closely approximate the observed input/output regulari-
+4388|ties of these Black Box systems by fitting or comparing them with
+4389|homomorphic models based on game theory. Bearing this in mind it is
+4390|convenient to divide strategies into two classes - the optimizer strat-
+4391|egies and the satisficer strategies (Simon 1 9 5 7 , pp. 195-200). Crudely
+4392|speaking the optimizer strategies include all strategies which attempt
+4393|to optimize the desirable outcomes in a series of situations involving
+4394|alternative trajectories - optimizer strategies try to get the best possi-
+4395|ble results given the conditions. Satisficer strategies, on the contrary,
+4396| rank all the relevant alternative trajectories in order of preference and
+4397| then select from this set a prudent trajectory that satisfies the system's
+4398| tolerances without it being the best possible - satisficer strategies are
+4399| satisfactory and safe, without being optimal. In the light of hindsight
+4400| and fully documented conditions it is often difficult to understand why
+4401| certain systems did not take the optimal trajectories but in real life it is
+4402| rarely the case that complete information is available to the system
+4403| before the alternative transitions must occur. Rather than risk all on an
+4404| optimizer strategy societies often follow some kind of satisficer strat-
+4405| egy - usually of the mixed kind.
+4406|    Wolpert (1964) has used linear programming and regression
+4407|analysis to contrast the actual productivity of the Swedish Mellans-
+4408|verige district and the potential optimum productivity estimated for
+4409|the area. Less than half the district had outputs of more than 70 per
+4410|cent of the optimum and in some cases the output was regularly as low
+4411|as 40 per cent of the possible optimum. T h e local Swedish farmer was
+4412|not aiming at optimum productivity, but rather at a safe, low risk,
+4413|satisficer yield. In addition it appeared that one factor in this parti-
+4414|     C u l t u r a l m o r p h o l o g y a n d c u l t u r a l e c o l o g y - the s e t t i n g   95
+4415|
+4416|cular case was a regional 'uncertainty' about the most prudent live-
+4417|stock and cereal mixes in the face of the contemporary fluctuations in
+4418|local conditions, market prices, crop and stock diseases and other
+4419|changing factors. T h i s situation can be interpreted as part of an
+4420|oscillating trajectory moving away from a former metastable state,
+4421|towards some new future equilibrium strategy suitable for the
+4422|temporarily stabilized conditions of that future time.
+4423|    T w o kinds of strategy are frequently employed as satisficer strat-
+4424|egies when optimizer versions seem too risky, these are the mixed or
+4425|randomized strategy and the minimax strategy. We have already
+4426|encountered the mixed strategy in which a number of different specific
+4427|strategies are blended according to the prevailing conditions, and the
+4428|randomized version where the blending of the basic strategies is
+4429|stochastically arranged to 'search' the outcomes for advantages. T h e
+4430|mixed or randomized strategy rests on the assumption that it might be
+4431|better not to employ the same strategy all the time but sometimes to
+4432|use one and sometimes another in succession - or alternatively, to use
+4433|a single simultaneous blend of strategies.
+4434|    T h e minimax, maximin, or 'most prudent' kind of strategy, aims at
+4435|maximizing the m i n i m u m outcome (maximin), or put another way, on
+4436|minimizing the m a x i m u m risk (minimax). Now the system or subsys-
+4437|tem's ultimate trajectory depends on the successive values of a table of
+4438|transformations expressing the distribution of probabilities around the
+4439|various alternative transitions. T h e r e f o r e in order to pursue a pru-
+4440|dential or minimax policy the system must take those successive values
+4441|which are the most 'prudent' of the non-optimal outcomes in the light
+4442|of possible countermoves (lead). In this way the prudential trajectory
+4443|takes successive values such that whatever the subsequent alternatives
+4444|in the successive stages of the developing situation, the system always
+4445|takes those values which will ensure the best of the non-optimum
+4446|outcomes that can be forced upon it. T h i s strategy ensures that
+4447|however well the 'opponent' plays, however bad conditions may
+4448|become, the outcome is the best that could be achieved in the circum-
+4449|stances (Braithwaite i 9 6 0 , pp. 238-46). T h e drawback of this policy
+4450|being that frequently conditions turn out not to be as bad as they
+4451|might have been and yet the system is already committed to a non-
+4452|optimal stance - prepared to make the best of the worst situation.
+4453|    In the context in which we are examining these various kinds of
+4454|strategy, the 'prudent* outcome is that state or value which most
+4455|satisfactorily approaches dynamic equilibrium in terms of total
+4456|96   Analytical Archaeology
+4457|information variety. W e can venture to suggest that in such a system
+4458|( S ) , pursuing such a strategy (minimax), those successive transitions,
+4459|and that trajectory will be adopted which minimize the m a x i m u m
+4460|amount of information variety destroyed by contradiction and dis-
+4461|location within the system. T h e principle of minimizing the m a x i m u m
+4462|amount of change necessary for survival, in the light of the systems'
+4463|past and present values, suggests a means for defining the concept of
+4464|equilibrium in such information systems which w e will now pursue.
+4465|    Let us take the commonly used term 'dislocation' and define it as
+4466|meaning, for our purposes - the relationship existing between coupled
+4467|systems or subsystems when their information variety outputs are in
+4468|some part mutually contradictory, thereby destroying variety in the
+4469|system as a whole and ultimately imperilling the survival of that
+4470|system in that form. T h e state of equilibrium in such systems and
+4471|subsystems then becomes the state in which dislocation is jointly
+4472|minimized - or the state in which the rate of destruction of informa-
+4473|tion variety is minimized. T h i s is the vital meaning of equilibrium in
+4474|the original postulates 1 - 1 6 of the general model and this meaning
+4475|now enables us to give those postulates predictive 'teeth'. It is very
+4476|important in this context not to confuse the term 'dislocation' with the
+4477|earlier term 'disjunction' expressing alternative variety; especially
+4478|since it is not 'disjunction' but 'equivocation' - contradictive and
+4479|therefore destructive variety which is most frequently involved in
+4480|system dislocation.
+4481|    T h i s concept of dislocation enables us to grasp a fresh compre-
+4482|hension not only of the equilibrium postulates but also of such other
+4483|aspects as the acceptance or rejection of information by culture
+4484|systems, the nature of the thresholds defining the survival capacity of
+4485|such systems, and the focusing of innovation in successive areas of the
+4486|cultural system network. T h i s fresh approach can best be made clear
+4487|from a consideration of the role of the individual in the sociocultural
+4488|system - an approach which has been unavoidably postponed until
+4489|this late stage.
+4490|    E v e r y man is part of a society, a generator and a receiver, and is
+4491|influenced by his society's sociocultural system in many subtle and
+4492|constraining ways. E v e r y activity of such a man is a vector of several
+4493|simultaneous factors (biological, psychological, religious, social,
+4494|economic or other components). T h e act may not be uniquely
+4495|'determined' but it will be very closely 'constrained'. T h e act is a node
+4496|at which the network of cultural and personal subsystems converge
+4497|     Cultural m o r p h o l o g y a n d cultural ecology - the setting   97
+4498|
+4499|with information on the set of variety allowed the act - some actions
+4500|having few relevant components and great freedom of variation, others
+4501|may have many bonds and the more components there are, the more
+4502|restricted the prescribed resultant (fig. 7). A so-called simple culture
+4503|may not itself recognize or designate these component subsystems
+4504|bearing on the act but this does not mean that the subsystems are not
+4505|acting - just as they are in more elaborate cultures which have arbi-
+4506|trarily formalized and recognized their own social, religious, and
+4507|economic spheres.
+4508|    T h e ideal is for the man to act without dislocation because dis-
+4509|location, as opposed to permissive disjunction, results in an act which
+4510|communicates a set of contradictory values - capable of causing con-
+4511|fusion, loss of cohesion and ultimately social anarchy. Such an act may
+4512|be accepted only if dislocation is minimal, only if it can be accom-
+4513|modated as a valid alternative, as a disjunction within the tolerance
+4514|thresholds of the system. T h i s immediately brings us to a fresh view of
+4515|the process of diffusion of material and non-material artefacts - both
+4516|representing messages with information.
+4517|    Diffusion has three phases: (1) the presentation of the new ele-
+4518|ment; (2) the acceptance; (3) the integration and frequently the
+4519|modification of the element. T h e optimal presentation of new variety
+4520|may be gained by increasing the number and capacity of outside
+4521|communication channels, which if maximized will maximize in turn
+4522|the input of new variety advantageous to the system regulation and
+4523|control - one may recollect for example, the rise of the Renaissance in
+4524|the wake of the fresh channels developed by the Venetian, Pisan,
+4525|Genoan and Florentine merchant explorers. However, the crucial
+4526|phase is acceptance, for if rejected the information is as if it had never
+4527|existed as far as that culture is concerned. Why do some cultural
+4528|systems accept some diffusing innovations and yet reject others? T h e
+4529|answer can only be proposed in detail for each specific case but the
+4530|general syntax is the same. New variety will not be accepted if its
+4531|concomitant dislocation cannot be minimized to vanishing point - it
+4532|must be variety which does not contradict and destroy any of the
+4533|essential attributes concerned with the continuity of the system.
+4534|   This tells us why such new information variety may be rejected
+4535|but what causes acceptance? In the same manner, parts of the system
+4536|or subsystems may be oscillating in an unstable equilibrium or
+4537|in minor dislocation, consequently any convenient new variety
+4538|communicated to the system and capable of bringing this localized
+4539|98   Analytical Archaeology
+4540|disequilibrium to stability will immediately be accepted and integrated.
+4541|Since the systems and subsystems are dynamic, there is constant
+4542|disequilibrium or dislocation of a minor kind but quite sufficient to
+4543|attract new variety and its unforeseen consequences. Here again we
+4544|have lag and lead, oscillation towards equilibrium and apparent goal-
+4545|seeking in our systems. In such circumstances a diffusing attribute may
+4546|be accepted and integrated if its immediate capacity for diminishing
+4547|serious dislocations already existing in the system are greater than any
+4548|small dislocations which its integration may cause.
+4549|     Culture systems continuously vary in their complexity and in their
+4550|stability or lack of dislocation. Consequently, the network of conver-
+4551|ging information bearing on a given act will vary from culture to
+4552|culture in the number of channels involved and in the 'tolerance'
+4553|within the boundaries of the set of stable variants. In a highly institu-
+4554|tionalized system with rather rigid and narrow limits defining stable
+4555|transformations the ability to assimilate and integrate diffusing variety
+4556|will be impaired; the system has become in certain respects 'non-
+4557|adaptive' and may ultimately collapse if the tolerance threshold of the
+4558|system as a whole is overwhelmed by severe contradiction and dis-
+4559|location. T h i s situation reveals the dangers of certain kinds of over-
+4560|elaborate cultural complexity (cf. Flannery 1972, p. 423), possibly
+4561|over-adapted to peculiar contexts and unable to cope with fresh
+4562|variety of a different kind. In contrast, a less specialized culture
+4563|system although lacking such large resources of system variety, may be
+4564| less vulnerable in the broader limits of the stable sets comprising its
+4565| essential variables.
+4566|     It seems that overspecialization is another phenomenon shared by
+4567| cultural and organic living systems, with cultural dinosaurs just as
+4568| vulnerable as animal ones. As an example one might reflect on the
+4569| accumulating evidence that the incipient food producing cultures
+4570| appear not out of the ranks of the most sophisticated hunter-fisher-
+4571| gatherers but from the not so complex and rather unspecialized
+4572| peripheral systems in more marginal and increasingly trying
+4573| environments (e.g. Binford 1968b) - environments stimulating
+4574| increasing disjunction and equivocation - demanding 'new' variety
+4575| development.
+4576|     A combination of flexibility and sufficient complexity seems to be
+4577| the requirement best able to maintain a given system intact in a great
+4578| variety of contexts or environments. T h e collapse of such a sociocul-
+4579| tural system does not usually or necessarily depend on or coincide
+4580|    Cultural morphology and cultural ecology - the setting             99
+4581|with, the wholesale destruction of the system's generators or their
+4582|entire way of life. T h e 'death' of a sociocultural system is usually the
+4583|'birth' of a new alternative, quite irrespective of the generator's popu-
+4584|lation fluctuation. T h e 'death' of the system amounts to no more than
+4585|the collapse of the syntax defining the format of the essential attributes
+4586|and the bursting of the thresholds of the key sets of constrained
+4587|variety. T h e 'birth' of a new system is usually accompanied by the
+4588|survival of large parts of the old subsystems' values which are re-
+4589|networked in novel ways, with newly 'emergent' potential consequent
+4590|upon this change, together with the integration of fresh variety in
+4591|attributes diffused from without. Similarly, the 'death' or collapse of
+4592|such systems can result from serious dislocation within or between
+4593|subsystems, or between the system as a whole and its environment.
+4594|T h e great inherent tolerance of such systems has already suggested
+4595|that, with rare exceptions, such apparently dramatic transformations
+4596|are most often gradual, cumulative, and multifocused.
+4597|     An earlier part of this discussion described the concept of distinct
+4598|and definable development foci within particular systems at particular
+4599|times, located in particular parts of the system's networked
+4600|components - foci for innovation and the acceptance of fresh variety.
+4601|T h e archaeologist detects such foci in aspects of changing artefact-
+4602|types and material culture assemblages, the anthropologist recognizes
+4603|similar foci in changing aspects of social structure and in both cases
+4604|the distinctive mark is the greatly accelerated rate of change in these
+4605|foci as opposed to the steadier rate of change elsewhere in the systems.
+4606|An important development of this concept is the bite which it can be
+4607|given by taxonomic methods capable of measuring 'rate of change'.
+4608|     At any one time there usually appears to be one or more major
+4609|foci of accelerated change in the subsystems of sociocultural systems.
+4610|These foci will often tend to be areas focusing the variety of effects of
+4611|multiple environmental stimuli new to the culture upon incompatible
+4612|variety in the existing system. It follows that these foci of development
+4613|will tend to move around and through the different subsystem
+4614|networks in a continuous cycle of growth and renewal. On occasions
+4615|the foci will shift away from areas of once intense development to new
+4616|fields, old foci may partially revert to a simple or generalized pattern
+4617|last seen in a pre-elaboration phase providing an interesting sequence
+4618|of apparently cyclical oscillation from simple to complex to simple
+4619|forms again (fig. 38). T h i s oscillation is found in material and non-
+4620|material culture but we will be particularly interested in its material
+4621|ioo   Analytical Archaeology
+4622|artefact manifestations. As brief examples one might cite the return of
+4623|some Late African Acheulean and Sangoan handaxe types to forms
+4624|closely resembling Early Acheulean simple forms; or the Neolithic
+4625|shift of focus from many aspects of the flint assemblages to other areas
+4626|such as pottery elaboration, with a concomitant reversion of burin and
+4627|scraper types to 'early' simple and unelaborate forms in many
+4628|instances. Of course this reversion or 'dis-elaboration' inevitably
+4629|reflects changes in connected aspects of the societies' other subsys-
+4630|tems; in these examples and in the main such changes in material
+4631|culture are usually correlated with economic and environmental
+4632|fluctuations, although religious and social foci are almost as frequently
+4633|so reflected. One aspect which can be informative is the correlation
+4634|between reversion or dis-elaboration in one locus and the shift of the
+4635|foci or change to new fields of concentration, thus pointing out the
+4636|successive sequence of areas of system dislocation and perhaps
+4637|suggesting their causes.
+4638|     The fundamental elements of sociocultural systems - activities,
+4639|artefacts, and traditions - are all in essence forms of information. The
+4640|continuous rhythm of repeated activity sequences, day by day, month
+4641|by month, season by season, and year by year generate a distinctive
+4642|information code idiosyncratic to that particular cultural system. The
+4643|continuous output of solid activities - the artefacts - convey dis-
+4644|criminatory response and intention; not a response to everything but a
+4645|peculiarly discrete response to the partial environment perceived
+4646|through the cultural system's 'sensory' organs. This constrained and
+4647|continuous response embodies in material artefact form, sets of trans-
+4648| formations converting information from one representation into
+4649| another - an ordered selection from a limited set of signs - in short, a
+4650| coded message. The conversation, beliefs, legends, myths, fables and
+4651| traditions are even more directly comprehended as coded information
+4652| on socially acceptable norms, their boundaries and the consequent
+4653| taboos. The individuals generating the changing sociocultural
+4654| information system move through their personal cycles of age- and
+4655| sex-graded activities - the individual's actions vary irregularly, but
+4656| overall the continuous, redundant rhythm of patterned activity
+4657| continues, changing slowly but perceptibly in a man's lifetime. A
+4658| rhythmic intimation of survival information and idiosyncratic noise on
+4659| a comprehensive scale, ensuring the survival of the young within the
+4660| group and the group within its changing environment, with the
+4661| minimum of disruption. The accumulative continuity of the cultural
+4662|      Cultural morphology and cultural ecology - the setting           101
+4663|
+4664|information system represents the aspect most advantageous to its
+4665|generators.
+4666|
+4667|
+4668|
+4669|Ill    Culture as a system with subsystems
+4670|T h e internal setting of subsystems within the general system consti-
+4671|tutes 'cultural morphology' as opposed to the external setting of the
+4672|system in its environment, comprising 'cultural ecology'. Both of these
+4673|fields are sufficient to fill several books with discussion and elaboration
+4674|but the intention here is merely to sketch in two successive sections
+4675|the implications of the developing general model for these specialist
+4676|fields. If the model is well constructed it should be possible to say
+4677|succinctly and in general what should prove to be the case in particular
+4678|instances. Since the subsystems within culture are the subject of
+4679|highly-specialized studies we are here only interested in seeing them
+4680|in a particular light in preparation for their use as a setting for
+4681|archaeological data.
+4682|     It is, of course, quite as arbitrary and dangerous to describe a
+4683|sociocultural system as having component subsystems as to describe
+4684|any unitary and highly complex system in terms of a number of its
+4685|component circuits, for the self-same reasons (fig. 5). Not only are the
+4686|subsystems really different aspects of the same system (fig. 8) but even
+4687|could we define them adequately in terms of content and boundaries
+4688|one would still not have defined the system containing them. Such
+4689|complex systems cannot be treated as an interlaced set of more or less
+4690|independent subsystems since, as we have seen, the 'behaviour' of
+4691|such a unit is more complex than simply the expression of the sum of
+4692|its components' 'behaviours' (fig. 5). Nevertheless, as long as we
+4693|continue to realize the arbitrary nature of this kind of component
+4694|description it will perhaps serve to partially describe an otherwise
+4695|extremely complex reality. In the full realization that where we arbi-
+4696|trarily describe say five component subsystems the system generators
+4697|may have conceptualized only one, or possibly three, or perhaps sixty
+4698|- but as long as we are consistent this arbitrariness will temporarily
+4699|serve our purpose.
+4700|    In the arbitrary setting devised here it is intended to distinguish
+4701|five subsystems within which we will imagine the information in
+4702|sociocultural systems to be more richly interconnected than externally
+4703|networked within the system as a whole:
+4704|io2      Analytical A r c h a e o l o g y
+4705|
+4706|      ( 1 ) Social subsystem. T h e hierarchical network of inferred personal
+4707|            relationships, including kinship and rank status.
+4708|      (2) Religious subsystem. T h e structure of mutually adjusted beliefs
+4709|            relating to the supernatural, as expressed in a body of doctrine
+4710|            and a sequence of rituals, which together interpret the
+4711|            environment to the society in terms of its own percepta.
+4712|      (3) Psychological subsystem. T h e integrated system of supra-
+4713|          personal subconscious beliefs induced upon the individuals in
+4714|          a society by their culture, their environment and their
+4715|          language; essentially the subconscious system of comparative
+4716|          values.
+4717|      (4) Economic subsystem. T h e integrated strategy of component
+4718|          subsistence methods and extraction processes which feed and
+4719|          equip the society.
+4720|      (5) Material culture subsystem. T h e patterned constellations of
+4721|          artefacts which outline the behaviour patterns of the system as
+4722|          a whole and e m b o d y that system's technology.
+4723|
+4724|    T h e s e five subsystem headings are transparently based on the
+4725|prejudices of current opinion, underlining their arbitrary nature. Even
+4726|by the standards of this biased basis, m a n y will find them unsatis-
+4727|factory and will wish to reorganize them accordingly (e.g. R e n f r e w
+4728|(1972) distinguishes 'social', 'projective/symbolic',      'subsistence',
+4729|'technological'     and    'trade   and   communications'   subsystems).
+4730|H o w e v e r , we will arbitrarily conceptualize cultural systems as
+4731|integrating these five main information subsystems as a coherent
+4732|ensemble in d y n a m i c equilibrium at the three levels:
+4733|
+4734|        (i) within each subsystem,
+4735|       (ii) between the subsystem outputs,
+4736|      (iii) between the whole system and its environment (fig. 14).
+4737|
+4738|E q u i l i b r i u m being defined in terms of the information concepts earlier
+4739|discussed - minimizing immediate system dislocation. T h e s e rela-
+4740|tionships can be crudely s u m m e d up in a diagram, first in a static
+4741|background (fig. 14), and then against a changing background (fig. 15).
+4742|In these diagrams the entity simply labelled system S or S, in previous
+4743|figures is expanded in terms of these arbitrary components (figs 9, 1 1 ) .
+4744|T h i s setting will now enable us to discuss very briefly the relevance of
+4745|the earlier postulates and the general model to these particular
+4746|subsystem spheres.
+4747|   C u l t u r a l m o r p h o l o g y a n d c u l t u r a l e c o l o g y - the s e t t i n g   103
+4748|
+4749|                                          ENVIRONMENT
+4750|
+4751|
+4752|
+4753|
+4754|           Fig. 14 A static model representing the dynamic equilib-
+4755|           rium between the subsystem networks of a sociocultural
+4756|           system and its environment. The psychological subsystem
+4757|           may be envisaged as centrally encased by the other
+4758|           subsystems - a genetic inheritance modified by an induced
+4759|           field; see fig. 23.
+4760|
+4761|
+4762|SOCIAL     SUBSYSTEM
+4763|
+4764|T h e attributes integrated in this subsystem are conceptual ideas or
+4765|information about the relationships between the individuals within a
+4766|system. Although these concepts and this information may be partially
+4767|equated with lines of genetic relationship this is by no means the rule
+4768|of organization for social subsystems. Rank, status and obligation
+4769|often operate on other bases than genetic relationship (e.g. Service
+4770|1962 ; Fried 1967) and even kinship itself is an arbitrary concept which
+4771|may ignore one side of the family completely for some purposes and
+4772|yet link remarkably distant blood relations in some other direction.
+4773|T h e social subsystem 'does not consist of the objective ties by descent
+4774|or consanguinity that obtain among individuals; it exists only in
+4775|io4   Analytical Archaeology
+4776|                    ENVIRONMENT
+4777|
+4778|
+4779|
+4780|
+4781|Fig. 15 A schematic model suggesting the oscillating subsystem states and
+4782|values in the networks of a sociocultural system in dynamic equilibrium with
+4783|the oscillating states of its coupled environment.
+4784|
+4785|
+4786|human consciousness, it is an arbitrary system of ideas, not the spon-
+4787|taneous development of a factual situation' (Lévi-Strauss 1945). T h i s
+4788|commonly held information causes the individuals in a group to
+4789|repeatedly act according to an explicit or tacit pattern. On the basis of
+4790|these ideational patterns human groups are everywhere networked by
+4791|an intersecting w e b of exclusive or non-exclusive divisions which are
+4792|orientated towards proscribed sets of activities within the system.
+4793|T h e s e segments include such sets as elite groups, education groups,
+4794|age groups, ceremonial, military, recreational, religious and political
+4795|groupings. Within these groupings different individuals are variously
+4796|linked with various neighbours in a great intercommunicating network
+4797|    Cultural morphology and cultural ecology - the setting                  105
+4798|
+4799|(fig. 8). T h e social cohesion of a group depends on the intensity of
+4800|internal reticulation within this network, as opposed to the compara-
+4801|tively sparse connections running beyond the society to other
+4802|societies. T h e social subsystem is an idiosyncratic and multipurpose
+4803|network generated by a set of acquired ideas or information. T h e
+4804|successive replication of itself, by conscious and subconscious imprint,
+4805|is not the least function of the social subsystem - continuity is over-
+4806|whelmingly advantageous in the maintenance of variety.
+4807|       T h e information in the social subsystem, as in the other subsys-
+4808|tems, seems mainly concerned with expressing the accepted rules of
+4809|behaviour and their range of tolerance as comprehensive sets. When
+4810|the observed social norm differs from the socially communicated
+4811|conceptual rule, as is often the case, then disjunction or equivocation
+4812|results, usually followed by oscillation around a 'new' rule subsuming
+4813|the former aberrations. T h i s lag or lead in social norms reaching
+4814|compatible equilibrium with the existing social rule constitutes an
+4815|unstable feedback system depending on the perceptible time that
+4816|values and attitudes take to diffuse throughout the social network - the
+4817|resulting oscillation is often characterized as action/reaction within the
+4818|system.
+4819|       T h i s latter class of oscillation represents oscillation towards stable
+4820|equilibrium within the subsystem (postulate 1 1 b ) . T h e two other
+4821|general classes of oscillation are also detectable in changing social
+4822|subsystem values - oscillation induced by coupled contextual oscil-
+4823|lation ( n a ) , and oscillation within the sets of alternative stable values
+4824|( 1 1 c ) . Oscillation induced by fluctuations in coupled systems or
+4825|subsystems may be illustrated by the centuries of oscillation in Euro-
+4826|pean moral codes between the puritan and the liberal ideals or the
+4827|interesting social reversion to nuclear family units in modern urban
+4828|societies - both oscillations being coupled with fluctuations in other
+4829|cultural subsystems. Oscillation within the sets of stable values is
+4830|everywhere demonstrated by the multilinear trajectories and values of
+4831|the dispersed component groups within the same broad, polythetic,
+4832|sociocultural system.
+4833|     Similarly, new states or values successively introduced into the
+4834|social subsystem do cumulatively approach a threshold beyond which
+4835|the system cannot continue unchanged (postulate 8). T h e contem-
+4836|porary fluctuation of many African social subsystems and their
+4837|gradual transmutation to newly emergent formats reflects the tran-
+4838|sitions across the thresholds of the old tribal patterns. T h e former
+4839|io6      Analytical Archaeology
+4840|systems could no longer function without serious dislocation by reason
+4841|of the growing number of incompatible European ideals steadily
+4842|integrated within them. Very similar processes operated in the
+4843|accelerated detribalization of Europe between AD 500 and 1000 and
+4844|the rise of emergent and more complex social and political units.
+4845|Acculturation, or saturating diffusion brought about by the intricate
+4846|interpénétration of different cultural systems is repeatedly but not
+4847|invariably followed by cumulative integration and eventually system
+4848|transmutation. In all these social processes detailed study reveals
+4849|certain essential attributes involved in the subsystem's trajectory and
+4850|amongst these the key attributes which express the characteristic
+4851|syntax of that system; these are the attributes cumulatively contradic-
+4852|ted by the successively accepted external variety. If several loosely
+4853|related sociocultural systems are cumulatively integrating the same set
+4854|of diffusing attributes these systems may become convergently similar
+4855|and represent a gross entity closely related to the archaeological
+4856|culture group (chapter 7).
+4857|    An important claim made in the postulates of the general model
+4858|was that the states of the components in the subsystem change not by
+4859|single-valued, closed transformations alone, but as a limited matrix of
+4860|transitions whose probabilities vary partly as a function of the past and
+4861|the present state of the system as a whole (postulate 9). Because these
+4862|systems have this Semi-Markovian form it was claimed that there are
+4863|usually several trajectories by which any given state may be reached
+4864| (postulate 13). Modern studies in social subsystems illustrate these
+4865|points particularly well, especially the analytical cross-cultural studies
+4866|of Murdock based upon a statistical analysis of hundreds of societies
+4867|and their social structures (Murdock 1949).
+4868|    It is impossible to discuss the full scope and relevance of
+4869|Murdock's work in such a confined context but it is hoped that some of
+4870|its implications can be usefully conveyed. In the section that best
+4871|illustrates this discussion Murdock takes two hundred and fifty
+4872|societies from around the world and on the basis of his analyses
+4873|describes forty-seven main structural sub-types - claimed as cross-
+4874|cultural regularities in social subsystem structure. A study of the
+4875|evidence suggested the probable and possible trajectories by means of
+4876|which each particular structural sub-type could be attained, thus:
+4877|Structural sub-type   Probable and possible   derivations
+4878|
+4879|Normal                Patri-Eskimo, Neo-Yuman, Neo-Fox, Neo-Hawaiian,        (Neo-
+4880|Eskimo       «-       Guinea), (Neo-Nankanse), (Matri-Eskimo), (Bi-Eskimo)
+4881|    Cultural m o r p h o l o g y and cultural ecology - the setting           107
+4882|
+4883|- the order of the possible derivations indicating the rough order of
+4884|probability, the improbable but possible derivations in parentheses
+4885|(Murdock 1949, pp. 3 2 3 - 6 ) .
+4886|      T h e source of M u r d o c k ' s sample, his methods of analysis and his
+4887|resulting typology may of course be held in question 1 but that the
+4888|results obtained indicate the general nature of the data can hardly be
+4889|doubted. In short, M u r d o c k ' s table of social structure derivations
+4890|amounts to the construction of a model matrix of transition prob-
+4891|abilities for social subsystems - a real example of the arbitrary T a b l e
+4892|' T ' used in our earlier general discussion (figs 9, 10, 1 1 ) . In order to
+4893|convey an impression of this attempt at a canonical representation of
+4894|social-subsystem trajectories M u r d o c k ' s table is schematically
+4895|reproduced here in matrix f o r m (fig. 16).
+4896|    T h e salient points emerging f r o m this and similar analyses are the
+4897|presence of constraint in social variety and therefore discernible
+4898|regularities in cross-cultural social structure - the clues resting in the
+4899|comprehensive analysis of large quantities of examples of input/output
+4900|data and its sifting for directively correlated essential variables - a
+4901|classic Black Box operation. T h e analysis clearly shows that unique
+4902|trajectories leading to particular social structures are very unusual but
+4903|on the other hand the number of viable trajectories directively cor-
+4904|related to one state is severely limited - between one and nine tra-
+4905|jectories linking any pair of states (fig. 16). T h e constraining or
+4906|'funnelling' role of some social structures as opposed to the axial and
+4907|'radiating' role of others is repeatedly emphasized in trajectories traced
+4908|through this table (fig. 16). T h e shifting foci of dislocation and
+4909|consequent change within social subsystems are particularly well
+4910|brought out by M u r d o c k ' s investigations - which quite apart f r o m
+4911|specific reservations is an excellent example of the p o w e r f u l new
+4912|developments in the experimental spheres of both archaeology and
+4913|anthropology (fig. 2) ( M u r d o c k 1949, chapters 8, 9, 1 0 , 1 1 ) .
+4914|    An equally perceptive study of the correlated constraint in variety
+4915|and the consequent regularities in social subsystems is developed in
+4916|the work of Steward ( 1 9 5 5 , pp. 1 0 1 - 7 2 ) . In a search for cross-cultural
+4917|regularities linking ecology and social structure S t e w a r d convincingly
+4918|demonstrates several striking modes of clustering social and economic
+4919|subsystem components. In one example a clear relationship is
+4920|demonstrated between patrilineal, patrilocal, exogamous multifamily
+4921|band organization and the constraint imposed by territories with
+4922|limited and scattered food resources, mainly small game in very small
+4923|                                     S                                                                                 s                         §|            .       „»
+4924|
+4925|®SL Îîl|l|!PfH-a ¡»JllIsAplfHlIlPllpI.ul
+4926|     subtypes        c    "V B T x * ô |                          2 S g ^ t a '5 o â i o ô ? <7? ô E o g g § z 2                                                           g         S 7 B 3 EÙo «
+4927|                     ElS-è-i E = i i                               I e £ z I i E « Ì É â I Ecn i E O I 6 ë z I I ~ E                                                               I J. Î Ë c i î i l ;
+4928|                     t i
+4929|                     ZfflSaz2Z[LZ0      l ^ o t t I O LT I oi- i O i- i O i- 3 t G 4|D0
+4930|                                   5ZZIB5ZllZCDZ2lDZ2£DZZCDZ2<lDQZa2               O ^ 20.2<tlI10Zll
+4931|                                                                                        3 , oO~ £ 3 IO O
+4932|                     \•   ••
+4933|                      \ • • J•-
+4934|Normal Eskimo
+4935|Bi-Eskimo            •
+4936|M a t r i - Eskimo   1 s     J                        •                       •
+4937|Patri - Eskimo           s I                                  •                            •
+4938|Normal Hawaiian                      \
+4939|Matri - Hawaiian         •       •                                                             •                                                           •
+4940|Neo-Hawaiian         •                        \           1• * •
+4941|Patri-Hawaiian                                 s                                           •
+4942|Normal Yuman                 •                1 \                             •
+4943|Bi-Yuman                                                  s
+4944|Matri-Yuman                                                   \1                           •
+4945|Neo-Yuman                                 •       •       •                                    S                                                                           •
+4946|Normal Fox                                                            \•               -   • •
+4947|Bi-Fox                   •                        •                    S           ft
+4948|                                                                                   •       •
+4949|Matri-Fox                                                             *       s
+4950|N e o - Fox                      •                        •           •         s •
+4951|Patri-Fox                                                                                  \l
+4952|Normal Guinea                                                             •        •                                                                                                       •       •
+4953|Bi-Guinea                                                                                          s•I
+4954|Neo-Guinea                                                                                          M
+4955|Norma! Dakota                •                                                                     •   •                            1            • •               •
+4956|Bi-Dakota                                                                                                      S
+4957|Neo-Dakota                                                                                                      vi
+4958|Normal Sudanese              •                                                                             • •     •
+4959|                                                                                                                              1                  • •               •
+4960|Bi-Sudanese                                                                                                                s •1
+4961|Neo-Sudanese
+4962|Normal Omaha                                          •           •                                        •           •   •   •
+4963|                                                                                                                                             1*                                    •
+4964|Bi-Omaha                                                                                           •           •           •             s I
+4965|Neo-Omaha                                                                                              •           •           •           \1
+4966|Normal Nankanse                                                       •        •                                                         • •                                           1       •
+4967|Avuncu-Nankanse      •       1                                                                                                                s                    •
+4968|Bi-Nankanse              •                                                                         I           •                                       s• • •
+4969|Duo-Nankanse                              •                                                                                                  •           s k•                              1       *
+4970|Neo-Nankanse                     •                                                                     1           •                                     • N
+4971|Pàtri-Nankanse       •                                                                                     •           •                               •      s                  •             *
+4972|Normal Iroquois                                   •                                                                        1                                           s•      • •
+4973|Avuncu-Iroquois                                                   •                                                                                        •           • s •               •       #
+4974|Bi-Iroquois                                               •                                                                                                              • s •
+4975|Duo-Iroquois                                  •                                                                                     •                              • •             \   •       •
+4976|Neo-Iroquois                                                          •                                                                                                                 •• 1
+4977|Patri-Iroquois                                                                                                                                                                         1 \• •
+4978|Normal Crow                                                                                    •                                                                                          \1
+4979|Avuncu-Crow                                                                        •                                                         •                 •               •       1 •s •
+4980|Bi-Crow                                                               •                                                                                                                       s• 1
+4981|Duo-Crow                                                                                                                                                                                        Jl
+4982|Neo-Crow                                                                                                                                                                                      • R\
+4983| Patri-Crow                                                               •                                                              •             •               •                •     • S
+4984|                                     Most probable antecedent                                                                      (j)       -    Matri* of transition probabilities
+4985|                                 •   social subtype state                                                                                         ——           :       —-—-       —
+4986|                                                                                                                                                  latticing various antecedent social
+4987|                                 (•¡Probable antecedent states                                                                                    structure subtype states to the
+4988|                                                                                                                                                  subtype in question (selected
+4989|                                 •       Possible antecedent                  slates                                                               from the left-hand column)
+4990|
+4991|
+4992|Fig. 16 T h e social structure game. A schematic representation of Murdock's
+4993|table of social structure derivations (1949, pp. 324-6) as a retrospective matrix
+4994|of transition probabilities'T' for tracing the past trajectories of particular social
+4995|subtypes. T o play, select any subtype ' S ' in the left-hand column, trace most
+4996|probable and probable antecedent states in its horizontal row, then repeat this
+4997|procedure for the antecedent states of each antecedent and so on. Note that
+4998|some structures allow many possible antecedent trajectories (nine for normal
+4999|Dakota type) and provide 'radiating' nodes in the lattice, whilst others offer
+5000|constraint and allow only one or two approach lines (two for Neo-Sudanese).
+5001|   C u l t u r a l m o r p h o l o g y and cultural ecology - the setting   109
+5002|
+5003| groups, and a hunting-gathering economy based on simple tech-
+5004| nology. In another case the correlation between hunting-gathering
+5005|economies based on large migratory herds of big herbivores is linked
+5006|with more complex societies organized in composite bands. In no case
+5007|does the environment and its resources force a single variety of viable
+5008|economic sub-system strategy or a single variety of coupled social
+5009|subsystem but varying degrees of constraint to restrict the variety of
+5010|subsystem but varying degrees of constraint do restrict the variety of
+5011|ted in detail. Such limiting regularities linking social organization,
+5012|economy and environment are particularly vital for the archaeologist
+5013|who wishes to know something of the possible range of social
+5014|organizations behind his data. T h e real data and the general model
+5015|show that, given the detailed economic and ecological background, the
+5016|archaeologist cannot reconstruct the social subsystem pattern behind
+5017|his material but it becomes increasingly possible for him to narrowly
+5018|define the limited range of possible variety this pattern might have
+5019|taken.
+5020|    Perhaps the most significant results of these and other studies are
+5021|their implications for the selection and analysis of the varying input-
+5022|output attributes in the search for correlated regularities. All these
+5023|studies are unanimous in emphasizing that it is not possible, with
+5024|precision, to separate out the inessential, essential and key attributes
+5025|before the analysis; which attributes fall in which category depends on
+5026|the particular study and on the results following the analysis. Other-
+5027|wise, circularity may be introduced by the acceptance of intuitive
+5028|'type-markers' or 'type-fossils' said to be 'typical(P)' of the set and thus
+5029|prejudicing its definition, boundaries and contents - a point already
+5030|elaborated in chapter 1 .
+5031|    T h e same studies raise again the problem of seeking the relevant
+5032|level for characterizing the components amongst which correlated
+5033|regularities are believed to exist. If we take the Steward analysis of
+5034|hunting tribes it can be seen that no significant correlation would
+5035|probably result from the sifting of hundreds of social structures shar-
+5036|ing economies based on specifically hunting, say - kangaroo, or
+5037|gazelle, or wild goat, or buffalo, for example. However, if these traits
+5038|had been tested for under societies based on hunting migratory large
+5039|herd herbivores as one category, and dispersed small game as another,
+5040|the useful regularity might be observed. Characterized as sharing
+5041|'hunting game' is too general, characterized as 'hunting kangaroo' is
+5042|too specific - 'hunting dispersed small game' and 'hunting large herd
+5043|no         Analytical Archaeology
+5044|
+5045|h e r b i v o r e s ' is t h e c h a r a c t e r i z a t i o n w h i c h is m o s t i n f o r m a t i v e .         This
+5046|specification          problem           is    the     single        greatest        barrier        in    detecting
+5047|significant        correlations            between          regularities           in   archaeological              and
+5048|anthropological analyses - every entity and even a given attribute has
+5049|m a n y l e v e l s of c h a r a c t e r i z a t i o n a n d c a n t a k e a P r o t e a n v a r i e t y               of
+5050|forms.
+5051|
+5052|
+5053|RELIGIOUS             SUBSYSTEM
+5054|
+5055|The      artificial       separation           of    the      religious        from        the     psychological
+5056|s u b s y s t e m m e r e l y u n d e r l i n e s t h e e s s e n t i a l l y a r b i t r a r y n a t u r e of t h i s
+5057|s c h e m e . U n d e r t h e d e f i n i t i o n f o l l o w e d h e r e t h i s is a d e v i c e to isolate
+5058|t h e b o d y of i n f o r m a t i o n f o r m i n g ' t h e s t r u c t u r e of m u t u a l l y a d j u s t e d
+5059|b e l i e f s r e l a t i n g to t h e s u p e r n a t u r a l , as e x p r e s s e d in a b o d y of d o c t r i n e
+5060|a n d a s e q u e n c e of r i t u a l s w h i c h t o g e t h e r i n t e r p r e t the e n v i r o n m e n t to
+5061|t h e s o c i e t y in t e r m s of its o w n p e r c e p t a ' . W e are i n t e n t m a i n l y o n
+5062|s h o w i n g in t h e b r i e f e s t w a y that t h i s s u b s y s t e m is also an i n f o r m a t i o n
+5063|v a r i e t y s y s t e m w i t h m a n y of t h e g e n e r a l c h a r a c t e r i s t i c s a l r e a d y d i s -
+5064|cussed (postulates 1 - 1 6 , c h a p t e r 2).
+5065|      It is c o m m o n p l a c e           to o b s e r v e      that     religious concepts,                 in     the
+5066|b r o a d e s t s e n s e , p l a y an a c t i v e p a r t in c o n s t r a i n i n g the a c t i v i t i e s of
+5067|i n d i v i d u a l s in m o s t s o c i e t i e s . R e l i g i o u s b e l i e f s are u s u a l l y e x p r e s s e d as
+5068|a b o d y of d o c t r i n e c o m m u n i c a t e d b y s t o r i e s , p a r a b l e s , m y t h s , l e g e n d s ,
+5069|or f a b l e s e x p r e s s i n g the 'ideal' rules f o r certain b e h a v i o u r .                     Religious
+5070|rituals provide a f u r t h e r c o m m u n i c a t i o n system redundantly reinforc-
+5071|i n g the c h a n n e l s f o r p a s s i n g r e l i g i o u s i n f o r m a t i o n - this t i m e in t h e
+5072|coded       f o r m of       celebrations,            feasts, holy           days,      dances, games                and
+5073|c e r e m o n i e s of all k i n d s .
+5074|       Information            circulates         within        the     subsystem,             with       continuous
+5075|r e a d j u s t m e n t a t t e m p t i n g to m i n i m i z e d i s l o c a t i o n w h i c h w o u l d i m p a i r
+5076| t h e c o n t i n u i t y of t h e s y s t e m . T h e c o l l a p s e of s u c h a r e l i g i o u s s u b s y s -
+5077|t e m a n d its s u b s e q u e n t t r a n s m u t a t i o n is a p t l y r e f l e c t e d in t h e E u r o -
+5078| pean      Reformation.               The       cumulative             build-up          of    alternative           and
+5079| c o n t r a d i c t i v e i n f o r m a t i o n b r e a c h e d t h e t h r e s h o l d d e f i n i n g the         Old
+5080| C a t h o l i c i s m of p a r t s of s i x t e e n t h - c e n t u r y E u r o p e - b u t s i g n i f i c a n t l y
+5081| not in o t h e r p a r t s . M o s t of t h i s c o n t r a d i c t i v e a n d a l t e r n a t i v e v a r i e t y
+5082| clearly arose f r o m the rapidly ' m o d e r n i z i n g ' technology and e c o n o m y
+5083| of n o r t h - w e s t E u r o p e in t h e p e r i o d c. 1 5 0 0 - 1 6 0 0 . T h e n e e d to es-
+5084| t a b l i s h e q u i l i b r i u m b e t w e e n t h e t e n e t s of t h e e x p a n d i n g             capitalist
+5085| e c o n o m y a n d t h e C a t h o l i c ' r u l e ' c o n d e m n i n g u s u r y is w e l l d o c u m e n -
+5086|    Cultural morphology and cultural ecology - the setting                     111
+5087|
+5088|ted in the development of capitalism and the rise of the Protestant
+5089|religion (Green 1959). E v e n at the present time we can observe the
+5090|oscillations of the Catholic D o g m a in the face of the contradictory
+5091|information about birth control - a momentary dislocation which will
+5092|doubtless be neutralized by a comprehensive 'new' doctrine, es-
+5093|tablishing equilibrium over this matter as over so many others in the
+5094|past. T h e s e equivocations and dislocations are not confined to any one
+5095|religious subsystem or to any one period, they are a continuous
+5096|process in all such systems.
+5097|    T h e cumulative encrustation and elaboration of the cycles of re-
+5098|ligious myths provide yet more excellent examples of the continuously
+5099|moving equilibrium process of minimizing the m a x i m u m religious
+5100|dislocation by the generation or acceptance of 'new' doctrine adjusting
+5101|the old and the new information. T h e ramifications of the changing
+5102|relationships of the G r a e c o - R o m a n gods and goddesses effectively
+5103|express a coded fossil of the states of belief at successive intervals in
+5104|space and time. T h e same cumulative complexity is f o u n d in similar
+5105|systems f r o m the changing Norse pantheon to the accretions of the
+5106|Old T e s t a m e n t . T h e s e religious cycles share this continuous read-
+5107|justment to minimize dislocation within the religious subsystem and
+5108|between that subsystem and its context, frequently with the three
+5109|kinds of oscillating variation already noted (postulate 1 1 ) . C u m u l a t i v e
+5110|change to thresholds, transmutation to new syntactical formats, foci of
+5111|rapid and concentrated change, dynamic equilibrium in information
+5112|variety - these are all general characteristics of religious subsystems.
+5113|     If we wish to speculate how knowledge of these inherent charac-
+5114|teristics can help the archaeologist in reconstruction we can see that, as
+5115|with the other subsystems, observed constraint and correlated
+5116|regularity can help to limit the possible interpretations. With historical
+5117|aid, for example, one can observe the subtle cumulative changes in the
+5118|religious doctrine of the patriarchal tribes of nomad H e b r e w pastoral-
+5119|ists f r o m the third millennium BC onwards. T h e oscillating transition
+5120|from a primitive and comprehensive monotheism under a tribal Baal,
+5121|with standing stone altars, sheep sacrifices and the tented A r k , to the
+5122|culminating complex J u d a i s m of a sophisticated urban society with
+5123|far-flung commercial connections communicating a great variety of
+5124|new information - splendidly assimilated in the continuing simple
+5125|format. In such a case sufficient data survives to trace the changing
+5126|trajectory of the religious subsystem in terms of the constraints and
+5127|variety associated with its successive transitions.
+5128|ii2     Analytical Archaeology
+5129|    I n purely archaeological contexts the interpretation of religious
+5130|data must be more speculative and broad by the very nature of the
+5131|paucity and complexity of the surviving record (e.g. Flannery's
+5132|attempt ( 1 9 7 6 , pp. 3 3 3 - 4 5 ) to distinguish public, household/sodality
+5133|and personal rituals in Formative villages in the Oaxaca valley,
+5134|M e x i c o ; G i m b u t a s ' ( 1 9 7 4 ) interpretation of the religious beliefs
+5135|expressed in figurines, models etc. in south-east E u r o p e f r o m 7000 to
+5136|3500 BC). Indeed it is for this reason that a general inductive model
+5137|sketching the general relationships between religious subsystems and
+5138|the other more tangible subsystems may help to throw light upon how
+5139|the archaeologist might converge upon some interpretation of re-
+5140|ligious artefacts. T h e general model suggests that sociocultural
+5141|systems tend to preserve vestigial 'memories' of their f o r m e r tra-
+5142|jectories and environments in both material and social configurations,
+5143|as well as in oral traditions (J£s and L a g , fig. 1 1 ) .
+5144|    L o n g after the situations that prompted specific adaptations have
+5145|passed they may survive in such systems - especially e m b a l m e d within
+5146|the conservative m e m o r y of the religious subsystem. It is very tempt-
+5147|ing to suspect that the Minoan Cretan fixation with the wild bull and
+5148|his horns represents a ' m e m o r y ' of a time and place when the herds of
+5149|giant wild cattle were an integrated and living part of an economic and
+5150|religious equilibrium. It is tempting to see the later Minoan idealized
+5151|bull cult and related components, as a relic of a long and multilinear
+5152|history of development centred around the massive wild cattle of the
+5153|Western Anatolian grasslands. Cattle, which together with their leo-
+5154|pard predators, were of fundamental contemporary significance to the
+5155|early Neolithic cultures of that area (Mellaart 1967). T h e fossilized
+5156|vestiges f r o m the continuous, complex and dynamic interaction of the
+5157|economic, religious, and artistic subsystems in former system states
+5158|are firmly portrayed in many prehistoric cultures.
+5159|
+5160|
+5161|PSYCHOLOGICAL.         SUBSYSTEM
+5162|
+5163|Anthropologists, sociologists and psychologists agree that the differing
+5164|kinds, quantity, reticulation and organization of information variety
+5165|within sociocultural systems f o r m s one important component imprin-
+5166|ted on the individual personality. T h e s e four dimensions of variety are
+5167|differently filled in different cultures whilst being largely shared
+5168|within each culture. Consequently, it is hardly surprising that popu-
+5169|lations of sufficient multitude polythetically share certain general
+5170|   C u l t u r a l m o r p h o l o g y and cultural ecology - the setting   113
+5171|personality attributes which are intuitively summed-up, with varying
+5172|accuracy, in 'national character' and even in attempts at the psy-
+5173|chological taxonomy of 'tribal character' (Kroeber 1948, pp. 3 2 1 - 6 ,
+5174|594-7). It would seem that cultures induce a broad psychological
+5175|pattern on their generators, with considerable personal variation and
+5176|are extremely difficult to express in a rigorous fashion. T h e pattern
+5177|takes the form of a subsystem of supra-personai subconscious concepts
+5178|and values induced upon the individuals in society by their culture,
+5179|their environment but above all by their language — the channel
+5180|linking the immature mind, almost from birth, with adult minds and
+5181|the cumulative coded information of former generations (Xs, fig. 1 1 ) .
+5182|    Language has emotive as well as symbolic power and the act of
+5183|learning a language which may recognize and differentiate one
+5184|hundred categories of seal or six thousand attributes of camels, or
+5185|twenty categories of greenstone for axes - differently orientates the
+5186|perception of the immature Eskimo, Arab and Maori. T h e differing
+5187|emphasis and the comparative scale of values underlying the variety of
+5188|information circulating within the system, from every form of com-
+5189|munication, constitutes the culture's psychological subsystem. In an
+5190|important sense this induced system of values and orientation, the
+5191|psychological subsystem, represents a canonical model of the socio-
+5192|cultural system as a whole, in that it is capable of generating the
+5193|transformations characterizing that system if communicated to that
+5194|system's individuals from birth. It is on the basis of constraint and
+5195|regularity in the environment that constraint and regularity appear in
+5196|the variety of cultural systems - and it is this quality which makes such
+5197|systems highly efficient teaching devices capable of communicating
+5198|survival information and noise to individuals within the group, from
+5199|the individual's earliest hours, by a multiplicity of coded channels
+5200|(Ashby 1956, pp. 130-4).
+5201|     T h e psychological subsystem as defined here equates roughly with
+5202|the 'psychological field space' of the psychologists, the psychological
+5203|environment within which the individual personality must operate.
+5204|T h e psychologist is primarily interested in the dynamic equilibrium at
+5205|this lowest level, between the individual personality and the psy-
+5206|chological subsystem of his sociocultural system (Lewin 1936, p. 6).
+5207|However, the subsystem must equally maintain stability with the
+5208|information in the other cultural subsystems and with the whole
+5209|system and its environment - the three general levels of dynamic
+5210|equilibrium, oscillation and 'debate' minimizing             dislocation.
+5211|ii4    Analytical Archaeology
+5212|
+5213|Dislocation or disequilibrium at the lowest level represents the personal
+5214|stresses, strains and conflicts arising from contradictory information at
+5215|the interface between the individual personality and the psychological
+5216|subsystem of the culture - frequently the outcome of contradiction
+5217|between personal instinctive behaviour and the socializing process. T h e
+5218|general terms alternative, contradictive and redundant variety equate
+5219|with the psychologist's low conflict, high conflict and neutral stimuli -
+5220|their disequilibria and barriers equating roughly with our dislocations
+5221|and thresholds. Against this background it is interesting to note that at
+5222|the lowest level contradictive information may initiate discordant and
+5223|mutually interfering processes in the central nervous system - and thus
+5224|that dislocation or disequilibrium arising f r o m the integration of
+5225|inconsistent information is now judged the main factor in stimulating
+5226|the learning process to nullify and stabilize the system. In other words,
+5227|such dislocation in the individual's subsystem must be minimized by
+5228|the acquisition or generation of new and comprehensive variety - by
+5229|learning (Berlyne 1966, pp. 8 2 - 7 ) .
+5230|
+5231|
+5232|ECONOMIC      SUBSYSTEM
+5233|
+5234|At first sight the fundamental attributes of a culture's economic
+5235|subsystem might be assumed to be a set of artefacts and a set of
+5236|resources and indeed this is the case at a superficial level. However, a
+5237|very brief acquaintance with the economic patterns of prehistoric and
+5238|historic societies quickly reveals that these subsystems do not exploit
+5239|all the varied resources of their environment, but on the contrary are
+5240|marked by idiosyncratic selections of favourite staples - even failing to
+5241|gain an optimal yield on occasions when this is possible. A m o n g
+5242|hunter-fisher-gatherer societies we may note the examples of the
+5243|T u l u a q m i u t band of the Nunamiut Eskimos, to whom only 1 2 out of
+5244|149 edible plant species are of dietary importance (Campbell 1968).
+5245|T h e satisficer strategies employed by Swedish farmers in obtaining
+5246|outputs of 4 0 - 7 0 per cent of optimal yields have already been demon-
+5247|strated by Wolpert (above pp. 94-5). Furthermore taboos and religious
+5248|constraint arbitrarily reduce the variety of resources, sometimes even
+5249|engendering unnecessary death and starvation - the Arabs will not eat
+5250|pork, the aboriginal Tasmanians would not eat scaled fish, the Chinese
+5251|will not drink milk and the English will not eat horse.
+5252|     T h u s it seems that a society's economy is a highly peculiar, selec-
+5253| tive and apparently irrational compound of extractive processes f r o m
+5254|   Cultural morphology and cultural ecology - the setting                    115
+5255|
+5256|within the broad variety of possible stable subsistence techniques. T h e
+5257|economic subsystem comprises a set of information about the
+5258|resources of a territory and conveys a strategy indicating, within broad
+5259|limits, an arbitrary scale of importance of the various resources, as well
+5260|as apportioning and co-ordinating the amount of time devoted to each
+5261|process and deciding the organization and distribution of the output.
+5262|     T h e economic subsystem provides information patterned in an
+5263|elaborate mixture of strategies based on the cumulative register of past
+5264|conditions and upon an extrapolated estimation of future contin-
+5265|gencies (Is and lead, fig. 1 1 ) . T h e more complex or sophisticated the
+5266|culture, the greater the variety of strategies in its economic array. T h e
+5267|strategy of this subsystem, as in other subsystems, rests on the
+5268|continuous effort of the generators to maintain the format and syntax
+5269|of the subsystem by continually minimizing serious dislocation
+5270|between all the varying component states in its trajectory. Strategy is
+5271|our formal recognition of the subsystem's continuous co-ordination of
+5272|fluctuating, new, alternative, contradictive and confirmative informa-
+5273|tion variety concerning resources and their exploitation.
+5274|   Once again the subsystem illustrates three basic levels of dynamic
+5275|equilibrium:
+5276|
+5277|      (i) within the subsystem, between its attributes,
+5278|     (ii) between this subsystem and the other subsystem components,
+5279|    (iii) between this part of the whole system and the environment.
+5280|
+5281|At the lowest level stability must be maintained between the compet-
+5282|ing demands of the subsystem's attributes, in this case the perceived
+5283|resources. These are simply those resources which the system's tech-
+5284|nology is capable of recognizing, thus making clear the 'sensory' role of
+5285|the material culture subsystem. T h e strategy at this level is concerned
+5286|with the division of time and labour, the allocation of roles, resources,
+5287|distribution, control and regulation. T h e quality of 'lead' or 'foresight'
+5288|is all-important; the estimation of future contingencies includes such
+5289|vital and mundane things as how much seed to reserve, how many
+5290|domestic animals to keep or slaughter, how much output to trade as
+5291|surplus, how effort should be apportioned between hunting, fishing or
+5292|gathering and which combinations of species are to be exploited. All
+5293|these decisions are made in advance, in the light of past experience and
+5294|they affect the system before the events they cater for have occurred
+5295|( ' T ' affected by Is and S,2 at ,,, fig. 1 1 ) . T h o m a s (1972, p. 691) has
+5296|noted the possibility that the prehistoric Shoshoneans could have
+5297|n6    Analytical Archaeology
+5298|predicted the relative yields of pinon nuts two years before the actual
+5299|crop by simple macroscopic inspection. Strategies for resource
+5300|exploitation and population distribution could then have been planned
+5301|in advance, especially in the event of a predicted crop failure.
+5302|    T h e dynamic equilibrium between the economic subsystem and
+5303|the other subsystems is stabilized by continually adjusting the mutual
+5304|values and states of these networks. T h e economy must be kept as
+5305|nearly as possible in equilibrium with the information on and con-
+5306|straint from taboos, social organization and division of labour by age
+5307|and sex, individual personalities, and the available capacity or range of
+5308|variety of material culture. 'Lag' can be seen in the response of the
+5309|economic subsystem to changes in demography and settlement
+5310|patterns (e.g. Washburn 1974, p. 325; Brose 1976, p. 18).
+5311|     At the highest level the economic subsystem must keep the whole
+5312|system in a stable relationship with the environment. Resources must
+5313|not be over-exploited, changing combinations of crops and animals
+5314|must be tried in the face of changing conditions, new variety from
+5315|penetrating the thresholds of new ecological niches (e.g. desert and
+5316|steppe fringes) can be exploited and must be accommodated. Among
+5317| hunter-fisher-gatherers resource scheduling and seasonal site occupa-
+5318|tion are important factors, whilst among agricultural communities,
+5319|crop rotation, manuring, length of fallow periods and settlement rota-
+5320|tion may be crucial factors in maintaining this stable relationship with
+5321|the environment. Where economic crisis threatens the survival of the
+5322| system as a whole, then regulatory control or fresh and powerful
+5323| variety must be interposed ('R* in fig. 1 1 ) , or the system as a whole
+5324| must change.
+5325|     At each of these three levels of 'continuous debate' between
+5326| coupled systems, an adequate blend of information variety (i.e. an
+5327| adequate mixed strategy) must be pursued. New, contradictive, alter-
+5328| native and confirmative economic variety must be balanced in a mov-
+5329| ing and frequently oscillating equilibrium, minimizing the maximum
+5330| immediate dislocation in the system's trajectory. T h e three general
+5331| categories of system oscillation are particularly marked in economic
+5332| subsystems and have been the subject of intensive modern research
+5333| (Tustin 1954). Oscillation induced in the equilibrium of the subsys-
+5334| tem as a whole is found in the 'trial and error' adjustment of primitive
+5335| economies as well as in modern business cycles, wheat price fluctua-
+5336| tions and pig-iron output oscillations (Ellsworth Huntington 1964, pp.
+5337| 466-73). Internal oscillation readjusting the attributes within the
+5338|   C u l t u r a l m o r p h o l o g y a n d c u l t u r a l e c o l o g y - the s e t t i n g   117
+5339|
+5340|subsystem frequently occurs when new information, resources or
+5341|techniques are developed or introduced: the dislocations caused by the
+5342|new variety are gradually countered by error-controlled regulation.
+5343|T h e third class of 'aimless' oscillation, within the boundaries of broad,
+5344|permissive sets, is often detectable in the fluctuating 'fashions' in the
+5345|blends of secondary economic processes - the staple processes
+5346|continuing in broader oscillations of lower frequency.
+5347|     T h e concepts of moving foci of development and directive cor-
+5348|relation are particularly useful in the analysis of economic subsystem
+5349|trajectories. Areas within the economic structure are continually in the
+5350|process of readjustment and the inevitable dislocations are the foci for
+5351|minimizing action by the development or acquisition of new variety.
+5352|T h e artefacts in the archaeological record provide an invaluable trace
+5353|of the foci of accelerated development to meet the new economic
+5354|contingencies successively affecting ancient cultures. Directive cor-
+5355|relation enables one to isolate early on in the multilinear sequences
+5356|those key attributes which subsequently integrate into crucial new
+5357|system formats with dramatic emergent properties. In this manner the
+5358|directive correlation of such features as plant and animal domesti-
+5359|cation, polished stone axes, pottery, 'permanent' settlement can be
+5360|studied converging and coalescing in a stable and coherent 'new'
+5361|economy of immense potential (cf. fig. 68).
+5362|    Enough has probably been covered to sketch the relevance of the
+5363|general model to economic subsystems (postulates 1 - 1 6 and fig. 1 1 ,
+5364|chapter 2). T h e strategy concept has been used increasingly in
+5365|anthropological and archaeological analysis of subsistence, especially
+5366|in tracing the trajectory of the successive equilibria of economic
+5367|subsystems. T h e archaeologist can isolate and model the two main,
+5368|related categories of strategy (i.e. subsistence organization and site
+5369|location) within economic subsystems and it is to examples of these
+5370|that we now turn.
+5371|
+5372|
+5373|(1) Subsistence organization strategies
+5374|
+5375|Economic subsystems are characterized by the particular way in which
+5376|combinations of resource staples are integrated in a stable mixed
+5377|strategy. A s an example of this from a contemporary society w e may
+5378|take Gould's (1963) study of the village of Jantilla in western Ghana.
+5379|T h e local climate fluctuates between very wet and very dry years and
+5380|the yields of the five staple crops (yams, maize, cassava, millet and
+5381|118     Analytical Archaeology
+5382|
+5383|(a) Crop yields under alternative environmental strategies
+5384|
+5385|          Environmental   strategies :        Wet year              Dry   year
+5386|
+5387|          Crop yields per unit of area:
+5388|            Yams                              82                    11
+5389|            Maize                             61                    49
+5390|            Cassava                           12                    38
+5391|            Millet                            43                    32
+5392|            Hill-rice                         30                    71
+5393|
+5394|
+5395|(b) Stages in the determination of the optimum crop mix for a Ghanaian
+5396|village by game-theory analysis
+5397|
+5398|                                 90                           90r
+5399|
+5400|
+5401|
+5402|                                 70
+5403|
+5404|
+5405|
+5406|
+5407|                                 50
+5408|
+5409|
+5410|
+5411|
+5412|                                 30                           30 t-              \     -
+5413|
+5414|
+5415|
+5416|                                 (0                           10E
+5417|         Wet               Dry    Wet                   Dry    Wet                    Dry
+5418|
+5419|                                  Environmental   strategy
+5420|
+5421|
+5422|(c) Computation of optimum counter strategy.
+5423|
+5424|Alternative    crops :                        Maize                       Hill-rice
+5425|
+5426|Yield under alternative environmental
+5427|     strategy:
+5428|  Wet year                            61                                  30
+5429|  Dry year                            49                                  71
+5430|Difference in yield                                                       41
+5431|                                                    1
+5432|                                                 4
+5433|                                                                1-4                    = 0-4
+5434|Proportional difference                        12—41                       12 —41
+5435|                                              77%
+5436|Optimum counter-strategy                                                  23%
+5437|
+5438|Fig. 17a, b, c An analysis and model of the subsistence strategy of the
+5439|Ghanaian village of Jantilla.
+5440|Source: Haggett, after Gould 1963, p. 293.
+5441|    Cultural m o r p h o l o g y and cultural ecology - the setting               119
+5442|
+5443|hill-rice) vary accordingly (fig. 17a). T h e            problem faced by the
+5444|villagers, as in all economies is
+5445|
+5446|    (a) whether to pursue a mainly high-yield but high-risk mixture of
+5447|        staples,
+5448|    (b) whether to pursue a safe, low-risk but low-yield mixture,
+5449|    (c) whether to pursue a prudential, intermediate strategy using
+5450|        the culture store of information on probable events and
+5451|        conditions (fig. 1 1 ) .
+5452|
+5453|First, given the two by five variables, G o u l d estimated the most
+5454|prudential mixed crop strategy in the light of the conditions. A graph
+5455|of crop yield was plotted for each crop against a scale running f r o m
+5456|extremely wet to extremely dry conditions - the resulting line sloping
+5457|according to the trend of the crop towards high output in either wet or
+5458|dry conditions. T h e superimposed output lines for the various crops
+5459|intersect at several points but by following the highest-yield inter-
+5460|sections, which f o r m a concave curve (fig. 1 7 b ) , it is possible to locate
+5461|the s a d d l e - p o i n t ' S ' representing the best crop combination. T h i s crop
+5462|strategy gives that combination of staples which will yield on average
+5463|the highest returns in a sequence of good and bad years - this is a
+5464|prudent and minimax solution.
+5465|      T h e proportional share of each crop in the minimax strategy is
+5466|computed by comparing the yields of the crops in pairs of wet and dry
+5467|years; then the wet and dry year difference for each crop is transferred
+5468|to the other, which divided by the comparative difference between the
+5469|crop pair gives indices (1-4 and 0 4) representing the proportional
+5470|share of each crop in the array of crops (fig. 17c). In the Jantilla
+5471|experiment the comparison of maize and hill-rice planting suggested a
+5472|minimax strategy using 77 per cent maize and 23 per cent hill-rice
+5473|which approximates the actual planting strategy used by the villagers.
+5474|T h i s example produced a hypothetical model for the most prudent
+5475|agrarian strategy and then showed that this closely fitted the strategy
+5476|in use - thus confirming our understanding of the basis of this mixture
+5477|of crops and illustrating a case of a prudent satisficer strategy pursued
+5478|when risky optimal, or less effective, satisficer blends might have been
+5479|used. T h i s raises the question of how such a mixed strategy would
+5480|arise without a knowledge of calculation and m i n i m a x theory? Here
+5481|again we have a clear indication of the decades of oscillating multi-
+5482|linear trial and error combinations, with a continuous feedback of
+5483|output observations which have gradually converged upon the most
+5484|practical solution (fig. 1 1 ) (Gould 1 9 6 3 ; Haggett 1 9 6 5 , pp. 1 7 3 - 4 ) .
+5485|                                              Kurdshul
+5486|                          Sivand
+5487|
+5488|
+5489|                  Marvdasht
+5490|
+5491|
+5492|                 Shiraz
+5493|
+5494|
+5495|
+5496|
+5497|                                         Sarvestan
+5498|
+5499|
+5500|
+5501|                                         Khafr
+5502|
+5503|
+5504|
+5505|
+5506|                                                   Jahrom
+5507|
+5508|
+5509|
+5510|                                                                     oMansurabad
+5511|
+5512|
+5513|
+5514|
+5515|   PERSIANS-
+5516|       GULF
+5517|
+5518|
+5519|Ftg. 1 8       T h e part of F a r s p r o v i n c e , S o u t h P e r s i a , in w h i c h the
+5520|Basseri tribe m i g r a t e s . R o u t e s h o w n b y d o t t e d line. L i g h t e r
+5521|s h a d i n g - a b o v e 5 , 0 0 0 f t ; d a r k e r s h a d i n g - a b o v e 8 , 0 0 0 ft
+5522|altitude.
+5523|S o u r c e : B a r t h 1 9 5 9 , p. 4.
+5524|   C u l t u r a l m o r p h o l o g y and cultural e c o l o g y - t h e setting   121
+5525|     Studies of other contemporary small-scale agricultural com-
+5526|munities illustrate some of the general points already made about
+5527|economic subsystems. These include the three basic levels of dynamic
+5528|equilibrium (e.g. Freeman 1 9 5 5 ; Conklin 1957) and the occurrence of
+5529|annual oscillation in crop yields, which among slash-and-burn agri-
+5530|cultural tribes can be quite drastic in effect (e.g. yields down by 50 per
+5531|cent per acre among the Iban of Sarawak - Freeman 1955).
+5532|     Another good example of a minimax strategy can be seen in the
+5533|migratory cycle of the Arab pastoral nomads in South Persia (Barth
+5534|1959). This cycle of successive occupation of different pastures
+5535|through an area of the greatest possible ecological diversity enables the
+5536|Arabs to compensate for the poor resources of the desert and to avoid
+5537|the extreme range of climatic variation found in that area. T h e
+5538|markedly seasonal pastures are successively exploited by the nomads'
+5539|flocks in a strict but flexible rotation - each tribe moving through a
+5540|series of territories in its 'il-rah', or 'tribal road', covering a continuous
+5541|strip from the low deserts in the south to the high mountains in the
+5542|north (fig. 18). In any one locality there is a succession of occupants
+5543|through the seasons and very few areas are ever unoccupied by anyone
+5544|(fig. 19). T h e individual il-rah is therefore a rota or schedule of
+5545|traditional rights to resources at certain places and times and the
+5546|successive occupation of a given area by different tribes allows the full
+5547|exploitation of the scanty resources, with short periods of rejuvenation
+5548|and fallow in between. By this means the population capacity of the
+5549|area as a whole may approach the carrying capacity of the individual
+5550|component areas at the season of maximum, not minimum, pro-
+5551|ductivity, a result of the rotational strategy which would be quite
+5552|impossible if one tribe stayed at one locus for most of the year. Similar
+5553|reasoning may be applied to agricultural economies which contain a
+5554|mobile element associated with stock-breeding, particularly in areas of
+5555|marked ecological diversity and constraints such as the Mediterranean
+5556|(e.g. Barker 1972).
+5557|    Mobility among extant hunter-fisher-gatherers is inextricably
+5558|interrelated with the uneven distribution of economic resources
+5559|through the year and across individual territories. Population aggre-
+5560|gation and dispersion vary in frequency, range and scale in different
+5561|societies but the most prudent general strategy is to maintain popu-
+5562|lation levels below those supportable by optimal yields of food
+5563|resources. This seems to be the long-term result of the need to
+5564|maintain the equilibrium between the economic subsystem and the
+5565|122        Analytical Archaeology
+5566|
+5567|Kuh-I-Bul
+5568|
+5569|
+5570|Pulvar
+5571| Valley
+5572|
+5573| Upper Kur
+5574|  Valley
+5575|
+5576| Kurdshul
+5577|
+5578|
+5579| Sivand Mts
+5580|
+5581|
+5582| Marvdasht
+5583|
+5584|
+5585| Sarvestan
+5586|
+5587|
+5588| Khafr
+5589|
+5590|
+5591| Jahron
+5592|
+5593|
+5594| Mansurabad
+5595|
+5596|
+5597| Lar
+5598|
+5599|
+5600|
+5601|
+5602| Fig. 19 A n analysis and model of the subsistence strategy of the Basseri
+5603| nomads over an annual cycle in w h i c h a succession of different tribal
+5604| groups sequentially o c c u p y the same chain of pastures; for localities see
+5605| fig. 18. Solid line - schedule and route of the Basseri; heavy dashed line -
+5606| Kurdshuli tribe; thin dashed lines - A r a b tribes; w a v y lines - other
+5607| shepherds; small arrows - place and time where other tribes enter or leave
+5608| the Basseri strip.
+5609| S o u r c e : Barth 1959, p. 6.
+5610|
+5611|
+5612|
+5613|environment            in t h e      face    of    resource        oscillations,        especially         those
+5614|unpredictable            p e r i o d s of m i n i m a l ,    disastrous yields which                   last for
+5615|m o r e t h a n a s e a s o n o r a s i n g l e y e a r (cf. C l a r k e 1 9 7 2 , fig. 1 . 1 5 ) .         Two
+5616|contrasting          s t u d i e s of   resource        types     and      distribution,          population
+5617|a g g r e g a t i o n a n d s e a s o n a l m o b i l i t y m a y b e s e e n in t h o s e of the T u l u -
+5618|a q m i u t E s k i m o s ( C a m p b e l l 1968) and the D o b e ! K u n g B u s h m e n (Lee
+5619|1969).
+5620|       P e r h a p s t h e n e a r e s t a r c h a e o l o g i c a l s t u d y c o m p a r a b l e to G o u l d ' s
+5621|g a m e t h e o r y a n a l y s i s of a s u b s i s t e n c e s t r a t e g y is b y J o c h i m       (1976),
+5622|w h o a t t e m p t s to d e r i v e a p r e d i c t i v e m o d e l of h u n t e r - f i s h e r - g a t h e r e r
+5623|economies           from generalizations                based       on    ethnographic            data.      The
+5624|                M   A   M   J       A   S   O   N
+5625|
+5626|
+5627|
+5628|
+5629|Fig. 20 A comparison of the predicted (top) and actual
+5630|(bottom) resource use schedule of the Round Lake Ojibwa
+5631|hunter-fisher-trappers of northern Ontario.
+5632|Source: Jochim 1976, pp. 43, 44.
+5633|124    Analytical Archaeology
+5634|author is trying to model the decision-making processes involved in
+5635|deciding on a suitable strategy, which he assumes among other things
+5636|will be non-maximizing and mixed. Subsistence and settlement are
+5637|regarded as a system with three subsystems: resource use schedule,
+5638|site placement and demographic arrangement. The resource use
+5639|schedule is based on the availability of resources (i.e. their seasonal
+5640|and spatial variation, their aggregation, weight, density, mobility, fat
+5641|content and non-food yields) and is thought to 'precede and condition
+5642|the site placements and demographic arrangements of a hunter-
+5643|gatherer group' (op. cit., p. 12). A preliminary test of the model is run
+5644|on an ethnographic group of hunter-fisher-trappers, the Round Lake
+5645|Ojibwa of northern Ontario. The resource use schedule predicted for
+5646|this group compared well with the actual pattern of utilization, with
+5647|the exception of a few informative discrepancies (fig. 20; Jochim 1976,
+5648|pp. 42-5). Similar close comparisons are noted for the actual and
+5649|predicted site location and demographic patterns. The model is then
+5650|applied to Mesolithic sites in the Danube valley in south-west
+5651|Germany. This approach to subsistence strategies clearly has great
+5652|potential, although from a methodological view it should be noted that
+5653|the Mesolithic data in this analysis were not gathered to test this
+5654|specific model.
+5655|
+5656|
+5657|(2) Site location strategies
+5658|The strategy of location relates the constraint and regularities in the
+5659|location of human settlements and analyses these regularities in the
+5660|light of site contents and the distribution of resources and other
+5661|settlements across the landscape. When prehistoric communities sited
+5662|their settlements (whether permanent and multi-purpose or seasonal
+5663|and special-purpose), they were taking into account the multiplicity of
+5664|requirements necessary for their optimal location. Many of these
+5665|requirements will have been partly contradictory and therefore some
+5666|compromise or blending strategy must have been employed. The
+5667|solution to this problem will usually have involved a stochastic selec-
+5668|tion from amongst a set of equally desirable sites. This enables the
+5669|archaeologist to study the regularity of site distribution and to try and
+5670|define the particular constraints operating and their correlation with
+5671|the sites.
+5672|    This approach opens up such problems as the location of Neolithic
+5673|sites in relation to soils, water, woodland and other resources, the
+5674|    Cultural morphology and cultural ecology - the setting                    125
+5675|
+5676|dispersion of hunting camps at different seasons within limited ter-
+5677|ritories, the relationships between open sites and cave sites - these are
+5678|all susceptible to analysis in terms of a mixed strategy locational
+5679|model. At the level of the individual site, the method of 'site-catch-
+5680|ment analysis' has been developed to relate the subsistence practised
+5681|to the resources available within an exploitable distance f r o m the site.
+5682|Vita-Finzi and H i g g s ( 1 9 7 0 , p. 7) argue that 'the further the area is
+5683|from the site, the less it is likely to be exploited, and the less rewarding
+5684|is its exploitation (unless it is peculiarly productive) since the energy
+5685|consumed in movement to and f r o m the site will tend to cancel out
+5686|that derived from the resource*. T h i s principle is derived ultimately
+5687|from the concentric ring model of land use developed by von T h i i n e n
+5688|in the last century and pursued in more detail over wider areas by
+5689|Chisholm (1962). Chisholm's conclusions, as well as a number of
+5690|ethnographic observations, lead Vita-Finzi and H i g g s to propose that
+5691|the exploitation territories of sedentary communities will lie within
+5692|5 km or an hour's walk f r o m their sites and those of mobile h u n t e r -
+5693|gatherers within 10 km or two hours' walking distance (see also Higgs
+5694|and Vita-Finzi 1972). Within these territories the resources available
+5695|to prehistoric communities are defined in terms of land use categories
+5696|(fig. 2 1 ) , whose relative importance is taken as evidence for the subsis-
+5697|tence strategy practised f r o m individual sites. T h e analysis is then
+5698|taken a step further in the reconstruction of economic exploitation
+5699|systems linking a number of seasonally occupied sites (fig. 2 1 ; Barker
+5700|1972).
+5701|    T h i s method for the analysis of site location strategies has not
+5702|escaped criticism of its basic assumptions and procedures. It would be
+5703|useful to present a short s u m m a r y of these to put the method into
+5704|perspective.
+5705|
+5706|     (a) T h e basic von T h u n e n / C h i s h o l m model of concentric exploi-
+5707|tation zones needs further testing in the light of contemporary obser-
+5708|vations f r o m rural A f r i c a (Hodder and Orton 1 9 7 6 , p. 233).
+5709|     (b) C h a n g e s in the local environment (e.g. deforestation, erosion,
+5710|lowering of the water-table) over hundreds or, more often, thousands
+5711|of years may negate the use of modern land use categories in the
+5712|analysis of site territories (Hodder and Orton 1 9 7 6 , p. 233). A more
+5713|optimistic method could be to reconstruct the prehistoric environment
+5714|as fully as possible and still hope to identify economic constraints on
+5715|site location (Flannery 1 9 7 6 , p. 95).
+5716| r r r ]   land over                     I      I land over       .. d e c i d u o u s
+5717|                                                                 ¡¿J w o o d l a n d
+5718|           2 0 0 metres                  '"     » 4 0 0 metres
+5719|
+5720|«•'        * • • e x t e n t of o n e h o u r   territory        3    pasture and
+5721|                                                                      rough grazing
+5722|O                                        5
+5723|                   kms
+5724|   Cultural morphology and cultural ecology - the setting                 127
+5725|
+5726|    (c) T h e relative importance of land use categories within a site
+5727|territory does not necessarily correlate directly with the importance of
+5728|animal or cereal exploitation at a particular site. If 'arable' land consti-
+5729|tutes less than 10 per cent of the site territory, does this mean that the
+5730|subsistence was non-agricultural? Flannery (1976, pp. 92—4) points out
+5731|that many agricultural Pueblo sites in the American south-west have
+5732|less than 10 per cent arable land within their 5 km territories. Given
+5733|modern cereal yields in both Mesoamerica and the Near East, com-
+5734|munities of up to fifty families could support themselves on the
+5735|harvests from only 1 per cent of their total territories. Flannery argues
+5736|that we should always consider the population which could have been
+5737|supported at a specific site and that estimates should be made of the
+5738|frequency of arable land within a site territory compared with that in
+5739|the region as a whole. T h i s last point has been developed by Zarky
+5740|(1976) and Green ( 1 9 7 3 ) who both use statistical (i.e. Chi-square,
+5741|binomial and 't') tests to assess the significance of site location in
+5742|relation to resource distribution. In this context the locations which
+5743|were not chosen for settlement may provide the archaeologist with
+5744|important 'negative' evidence.
+5745|    (d) Related to (c) is the fact that different resource areas may have
+5746|wide variations in productivity (Cassels 1972a). Site catchment analy-
+5747|sis provides 'a qualitative description of arbitrary habitat types that are
+5748|available around the site' but does not attempt to measure their
+5749|'extractive value' in terms of the relationship between primary and
+5750|secondary productivity and the 'extractive efficiency* of the human
+5751|cultural system (Foley 1 9 7 7 , p. 164).
+5752|    (e) T h e specific location of individual sites may be determined by
+5753|the relative mobility and security of resources rather than by those
+5754|resources which are most important to the occupants of these sites
+5755|
+5756|
+5757|Fig. 21     An example of site catchment analysis. Top. Topography and
+5758|modern land use plotted for the one hour and 5 km territories of the Eneoli-
+5759|thic and Bronze Age site of Luni sul Mignone in central Etruria. Bottom. A
+5760|reconstruction of three of the economic exploitation systems in the Bronze
+5761|Age of southern Etruria and the Upper Velino, marked as (2), (3) and (4).
+5762|Each consists of complementary resources in the coastal zone and the Apen-
+5763|nine mountains, which are linked together by modern droveroads ('tratturo').
+5764|    Open circles - Eneolithic burials; open squares - Eneolithic and Bronze
+5765|Age settlement sites; closed squares - Bronze A g e settlement sites. Number 1
+5766|is the site of Luni sul Mignone.
+5767|Source: Barker 1 9 7 2 , pp. 186, 194.
+5768|128    Analytical Archaeology
+5769|(Cassels 1972b, pp. 2 1 8 - 1 9 ; Jochim 1976, pp. 52-60). Generalizations
+5770|from ethnography suggest that there may be three 'levels' or 'zones' of
+5771|spatial organization around a hunter-gatherer site, a one-mile territory
+5772|of non-mobile resources (e.g. water, wood, shelter, view), a five-mile
+5773|territory of low mobility and relatively high security resources (e.g.
+5774|vegetal foods, small game) and a fifteen-mile territory of high mobility
+5775|resources (i.e. big game), so that while big game may be the most
+5776|important resource to a site it will not determine its specific location
+5777|(Jochim op. cit.).
+5778|     (f) Lastly, site catchment analysis disregards the importance of
+5779|non-subsistence factors in site location. Even considering subsistence
+5780|it can be objected that published studies place too much emphasis on
+5781|land use categories and not enough on such factors as shelter, topo-
+5782|graphy and water supply (see Sullivan 1976): the last factor may be
+5783|critical in agriculturally-marginal areas. T h e significance of rivers and
+5784|streams for transport should not be underestimated (Cassels 1972b;
+5785|Green 1973) and the availability of resources such as clays for pottery,
+5786|salt, ores, flint and igneous stone is often neglected (but see Clarke
+5787| 1972a, fig. 2 1 . 7 ; Flannery 1976, fig. 4.6). What also of the social ties
+5788| between communities? In areas where there is regularity in site spac-
+5789| ing but an irregular distribution of resources between the sites, one
+5790| might argue for the greater importance of social factors in site location
+5791| (Flannery 1976, p. 177 and fig. 6.9). If we accept the basic point
+5792| outlined above that site location should be analysed in terms of mixed
+5793| strategy models, then clearly site catchment analysis as originally
+5794| conceived gives us only a partial insight into the general problem of
+5795| settlement location and distribution.
+5796|
+5797|    T h i s last point leads us conveniently into the analysis of settlement
+5798|patterns and site location strategies in terms of factors such as markets,
+5799|transport and administration - in short the provision of services. This
+5800|is a field of archaeological analysis which has been revolutionized by
+5801|the introduction of methods and concepts from plant ecology and
+5802|geography. This involves the archaeologist in the analysis of settle-
+5803|ment distributions to define different types of patterns (e.g. nearest-
+5804|neighbour analysis) and then the application of models (e.g. Central-
+5805|Place theory) in order to interpret these patterns. In this way the
+5806|archaeologist can hope to relate site location to such factors as social
+5807|and political hierarchies, trade and markets and resource localization
+5808|(see Hodder and Orton 1976 for a full discussion and illustration of
+5809|these studies). Only when we can interpret site location strategies
+5810|    Cultural morphology and cultural e c o l o g y - t h e setting          129
+5811|
+5812|within this broad framework, as well as in terms of specific resource
+5813|constraints, will our understanding of the economic subsystem
+5814|increase to a more productive level.
+5815|
+5816|
+5817|MATERIAL CULTURE           SUBSYSTEM
+5818|
+5819|Material culture constitutes an information subsystem of patterned
+5820|constellations of artefacts which outline the behaviour patterns of a
+5821|sociocultural system and embody that system's technology. It is
+5822|pattern, or coherent structure, which passes the information and
+5823|pattern is s y n o n y m o u s with correlated attributes.
+5824|    T h e complexity of material culture as an information subsystem
+5825|stems f r o m its hierarchy of entities and their variety of information. It
+5826|is helpful to think in terms of new, alternative, contradictive and
+5827|redundant attributes, artefacts, assemblages and cultures, when
+5828|focusing a study on any of these equilibrium interfaces involving any
+5829|of these coupled entities. Attributes may be mutually incompatible, or
+5830|alternatives, or redundant when clustered in certain artefacts. T h e func-
+5831|tional cutting blade of a bronze dagger is incompatible with plastic
+5832|ornament along its edge, but the dagger may have either punched
+5833|or alternatively incised blade ornament, and its hilt may redundantly
+5834|show rivets and binding notches. Similarly, at the artefact-type/artefact-
+5835|type level it is apparent that the six-inch dagger is incompatible against
+5836|the contradictive variety of the three-foot long rapier, or clothing pins
+5837|may contradict fibulae and both may contradict buttons, the musket
+5838|contradicts the variety of armour and so on. T h i s essential need to
+5839|reconcile conflicting variety is usually characterized by the analogy of
+5840|stimulus and response - particularly well demonstrated in the moving
+5841|equilibrium between offensive and defensive weapons, as studied, for
+5842|example, by Y a d i n in Palestinian warfare from 3 0 0 0 - 5 0 0 BC ( Y a d i n
+5843|1963, pp. 1—31). T h i s oscillating equilibrium is a fine example of an
+5844|unstable d y n a m i c equilibrium based on a feedback circuit connecting
+5845|the aggressor and defender. Sometimes a stable equilibrium basin is
+5846|reached even in armament - the armoured chariot and warrior of the
+5847|Palestinian Bronze Age could only be countered by a similar array,
+5848|likewise for a while the medieval knight and the World War I I battle-
+5849|tank could best be countered only by the same equipment. Noticeably,
+5850|such saddle-points or metastable equilibria persist only as long as
+5851|developing technology will allow. Quite apart from armament studies,
+5852|the analysis of subsystems of coupled artefacts or attributes can best be
+5853|set out in terms of the interaction of variety.
+5854|130    Analytical Archaeology
+5855|    Feedback in the material culture subsystem usually results f r o m
+5856|the coupling existing within sociocultural systems and, like the other
+5857|subsystems,     feedback and          complex   feedback 'behaviour'   is
+5858|consequently inherent in the system and subsystems. T h e artefact
+5859|population or population of types which one generation of a system
+5860|used is its output and the input fed back into the phenotypic constitu-
+5861|tion of the next generation. In this way the attributes of the type
+5862|population constantly adjust to the environment over successive
+5863|generations - in the light of, or on the basis of, the former system
+5864|trajectory (.£s, fig. 1 1 ) . T h i s inherent property accounts for the
+5865|'memory-like' capacity of sociocultural systems.
+5866|     T h e material culture subsystem operates at the same three general
+5867|levels and with the same variety of oscillating 'behaviour' as the other
+5868|subsystems in the network. Dislocation between the subsystem and
+5869|the environing system, between the various component subsystems,
+5870|and between the attributes in the artefact subsystem is kept within the
+5871|'tolerance' of the whole sociocultural system by taking those tran-
+5872|sitions which appear to minimize the m a x i m u m amount of immediate
+5873|contradiction and dislocation. Oscillating equilibrium at the highest
+5874|level - between the whole material culture subsystem and the
+5875|environing system — is often associated with 'response' to coupled
+5876|climatic or similar environmental oscillations. T h e glacial/interglacial
+5877|and tundra/forest oscillations of prehistory provide numerous exam-
+5878|ples of correlated changes in the material culture of the coupled
+5879|cultural systems. A t the middle level, oscillating equilibrium between
+5880|the artefact subsystem and other subsystems occurs as induced feed-
+5881|back 'response' to fluctuations in the religious, psychological, social
+5882| and economic subsystems. F o r example the 'trial and error' or 'hunt
+5883|and seek' oscillations set up by the trajectory of the economic subsys-
+5884| tem towards a suitable minimax strategy will often be accompanied by
+5885|oscillating manifestations amongst the material culture. At the lowest
+5886| level, the continuous stochastic fashion oscillations within the margins
+5887| of the successive stable sets of transition possibilities is a very familiar
+5888| quality f o u n d in most artefact-types, f r o m women's fashions to grand-
+5889| father clocks and gravestones (figs 38, 39, 47). T h e important role of
+5890| all these oscillations 'scanning and searching' for advantageous variety
+5891| and its subsequent incorporation in innovating and emergent
+5892| arrangements has already been stressed.
+5893|    Invention or innovation appears as the deliberate or accidental
+5894|integration of networks of attributes exhibiting 'new' emergent prop-
+5895|   Cultural morphology and cultural ecology - the setting           131
+5896|
+5897|erties, often by simply re-networking long existing system attributes.
+5898|A n alternative way of generating new variety capable of reconciling
+5899|contradictive variety and dislocation is to borrow from the constant
+5900|flow of diffusing variety reaching the system from without. Since the
+5901|pooled innovation output of groups of cultures is correspondingly
+5902|greater than the invention rate of an individual culture it follows that
+5903|integration and modification of new variety f r o m diffusion provides
+5904|the great bulk of a culture system's variety, cumulatively gathered to
+5905|minimize dislocations. In terms of strategy we can view the number of
+5906|artefact-types and the relative percentage of each type produced as
+5907|marking a particular mixed strategy blend to meet the total system
+5908|requirements. T o characterize a culture's sites by the constant recur-
+5909|rence of an assemblage varying around - 10 per cent burins, 20 per
+5910|cent scrapers, 30 per cent blades, 30 per cent points and 10 per cent
+5911|microliths - reflects a strategy adopted by that system in a given
+5912|situation and reached by a limited but multilinear bundle of tra-
+5913|jectories.
+5914|    In the more detailed studies that follow the continuous movement
+5915|and cycle of foci of accelerated change through the cultural sub-
+5916|systems will be confirmed in the preserved form of the material
+5917|culture subsystem. T h e s e fossilized foci, or grouped foci forming
+5918|nodes of change, are particularly important in defining the
+5919|boundary or threshold between one type and another - at the
+5920|artefact, assemblage and culture level. Thresholds separating one
+5921|polythetic type from another polythetic type are cumulatively
+5922|reached in the characteristic way by successively supplanting the
+5923|essential and key attributes by newly integrated variants (examples
+5924|(1) and (2), chapter 2). Birth and death in artefact-type systems,
+5925|assemblage systems and culture systems amounts to no more
+5926|than the anthropocentric view of cumulative change to successive
+5927|thresholds separating polythetic systems of successive 'types' or
+5928|syntactical formats. It is not possible to characterize whole cultures
+5929|as inherently 'innovating' or 'conserving' when the foci of develop-
+5930|ment in all cultural systems are constantly moving through some
+5931|aspects of their framework. However, the concept of directive correla-
+5932|tion enables us with hindsight to isolate those essential variables con-
+5933|cerned in a system and more particularly those key variables that
+5934|subsequently integrate from converging trajectories cumulatively
+5935|to form a network of important emergent properties and potential (figs
+5936|26, 68).
+5937|132    Analytical Archaeology
+5938|iv    Environment as a system with subsystems
+5939|T h e aim of this final section is to continue the perspective view of the
+5940|material culture subsystem as merely one network aspect, or
+5941|component, within sociocultural systems coupled with environing
+5942|systems. Once again, a study of environment as a system with subsys-
+5943|tems would be sufficient to fill many individual works but here we are
+5944|interested simply in showing that environment is a system with
+5945|subsystems and relating our special archaeological interest to it. Our
+5946|particular interest is centred around the concept of environment and
+5947|culture as systems with inherent properties and particularly with the
+5948|model portraying this relationship as a complex two-player game with
+5949|inherent rules and permitting a variety of strategies.
+5950|     Throughout the general discussion and the framing of the general
+5951|model and its postulates we have used the term 'environment' in its
+5952|broadest sense - sometimes amplified a little by coupling with it the
+5953|term 'context'. T h e intention has been to convey simultaneously, in
+5954|single statements, observations about systems within and coupled with
+5955|environments, whether they be sociocultural systems and the envelo-
+5956|ping physical environment, or artefacts and their assemblage context.
+5957|T h e special case of artefact systems within material culture subsystem
+5958|contexts is the special obsession of the archaeologist and is further
+5959|developed in the chapters that follow, but it should not be forgotten
+5960| that this is a special case within the general model. Similarly, the
+5961| external environment of cultural systems is taken as including other
+5962| cultural systems besides the category under study and in addition to
+5963| the flora, fauna, geology and climate. Our use of the term environment
+5964| implies total environment, including other sociocultural systems and
+5965| also including those segments of reality not perceived or understood
+5966| by the culture englobed. We are concerned therefore, with 'open'
+5967| systems in which matter, energy and/or information is exchanged with
+5968| the environment (Hall and Fagan 1956; Trigger 1971).
+5969|    A great deal of space has so far been allocated to the discussion of
+5970|cultural morphology and the sociocultural subsystems. However, in
+5971|the earlier discussion of the three basic levels of equilibrium and
+5972|oscillation found in the subsystems, the highest level was that between
+5973|the subsystems and the environing system - that sector of the outer
+5974|face of the whole system which especially communicated variety
+5975|affecting particular subsystems. Remember, of course, that our
+5976|divided model is an arbitrary view of particular aspects or circuit
+5977|networks connecting a unitary entity (fig. 8). It therefore turns out
+5978|   Cultural m o r p h o l o g y and cultural ecology - the setting        133
+5979|
+5980|that the highest level equilibrium in each subsystem is merely a
+5981|particular aspect of the d y n a m i c equilibrium coupling the whole
+5982|system and the environing system - merely aspects of cultural ecology.
+5983|Cultural ecology f o r m s a useful f r a m e for the study of whole sociocul-
+5984|tural systems, the mutual relations between such systems and their
+5985|environments, and the 'adaptive' changes of these s y s t e m s ; neverthe-
+5986|less, cultural ecology is inseparable f r o m cultural morphology and the
+5987|study of the subsystem attributes. Cultural ecology and cultural
+5988|morphology are the outer and inner surfaces of the same sphere and
+5989|constraint and regularity in the structure of one will be coupled with
+5990|constraint and regularity in the other.
+5991|     T h e environment of a culture system expresses the attributes
+5992|external to that system and their varying and successive states in time
+5993|and space. T h e s e environmental attributes may be partly perceived by
+5994|the enclosed culture and partly not; f r o m the culture's point of view
+5995|some environmental attributes are inessential, some essential, and
+5996|some are key attributes for that culture system. Conventionally, we
+5997|organize the external environment under many headings but these can
+5998|be roughly s u b s u m e d under - other sociocultural systems, fauna,
+5999|flora, climate and g e o l o g y ; taking these terms in their broadest sense
+6000|so that for example geography and topography are mere manifes-
+6001|
+6002|
+6003|
+6004|
+6005|                                                    Fig. 22 A static and
+6006|                                                    schematic model of the
+6007|                                                    'environmental system'
+6008|                                                    of a sociocultural system
+6009|                                                    which is excluded from
+6010|                                                    the diagram. Sn here
+6011|                                                    represents the
+6012|                                                    summation of the effects
+6013|                                                    of other alien
+6014|                                                    sociocultural systems
+6015|                                                    within the same
+6016|                        Time                        interconnected territory.
+6017|Fig. 23 A static and schematic model of the dynamic equilibrium between the
+6018|subsystem networks of a single sociocultural system and its total environment
+6019|system. Sn represents the summation of the effects of alien sociocultural
+6020|systems connected to S by cultural 'coactions' (dashed lines) and to the
+6021|environment by 'interactions' (solid lines). T o set the model in motion all the
+6022|components must oscillate randomly along intercorrelated trending tra-
+6023|jectories.
+6024|   Cultural morphology and cultural e c o l o g y - t h e setting      135
+6025|
+6026|tations of geology. T h e s e five subsystems are taken as interconnected
+6027|networks of attributes forming complex wholes and themselves an
+6028|ensemble within the environmental system (fig. 22). If we were to
+6029|approach a rigorous treatment of the environmental system then each
+6030|subsystem would merit a section portraying the nature of its attri-
+6031|butes, the networking of those elements, the inherent properties of
+6032|each subsystem and more besides; this task will not be attempted here.
+6033|    S o far we have artificially conceptualized sociocultural systems as
+6034|five component subsystems coupled in a moving equilibrium with a
+6035|five component environmental system (fig. 23). One way of crudely
+6036|summing-up the dynamic equilibrium between sociocultural system S
+6037|and environmental system E would be to express one as a function of
+6038|the other 'buffered' by some expression (k) - S being a function of E if
+6039|a change in E may produce a change in S and vice versa. T h i s might
+6040|simply be expressed as
+6041|
+6042|                               E^t(k)    .S
+6043|T h e 'buffer' (k) in this expression would then represent the degree to
+6044|which S is 'insulated' from changes in E, and conversely E from S.
+6045|Now, in an earlier section it was suggested that the regulatory or
+6046|insulatory capacity of a culture system is proportional to its variety
+6047|and its capacity as a communication system - since only variety in
+6048|cultural attributes can force down variety in outcomes in the
+6049|environmental 'game'. It was therefore further suggested that a rough
+6050|relative measure of the regulatory or insulatory control capacity of a
+6051|culture system would be the number of differentiable artefact-types
+6052|made by that system. Of course, allowances would have to be made for
+6053|the archaeological loss of the organic artefacts and great care taken to
+6054|use justifiable samples. Nevertheless, if the variety of types produced
+6055|is a crude measure of the degree to which S is insulated from E then it
+6056|is crudely an expression of (k) - which can now be conceptualized as a
+6057|rough indicator of the 'degree of insulation' or 'degree of sophisti-
+6058|cation' based on a culture's technological level and variety in artefact-
+6059|types. T h u s (k) is related to the interposed regulator R and the size of
+6060|the set of transition probabilities or degrees of freedom of the table of
+6061|outcomes T (figs 6, 9, 1 1 ) . Making allowances for the percentage of
+6062|lost organic artefact-types, the archaeologist can still construct a very
+6063|approximate picture of the cumulative increase in (k) - albeit by a
+6064|fluctuating trajectory of which we are selecting only the successively
+6065|most complex cultures (fig. 24).
+6066|136     Analytical Archaeology
+6067|              VARIETY
+6068|
+6069|
+6070|
+6071|
+6072|                     Palaeolithic      Neolithic   Bronze   Iron   Industrial
+6073|
+6074|
+6075|  Fig. 24 A schematic diagram of the increased regulatory capacity 'R' of
+6076|  successively later culture systems, where 'R' is proportional to the
+6077|  cultures' variety content. The area between the two curves suggests the
+6078|  range of variety variation that might be expected in different examples of
+6079|  a given technocomplex configuration.
+6080|
+6081|     A more detailed version of the Palaeolithic parts of the curves in
+6082|fig. 18 has been published by Isaac (1972a) and is reproduced here in
+6083|fig. 25. It shows the increase in artefact-type categories used to
+6084|characterize Palaeolithic stone industries in Atlantic Europe and Sub-
+6085|Saharan Africa. Isaac also notes an increase in standardization of tool
+6086|forms and in the numbers of distinct stone industries during the
+6087|Pleistocene (e.g. 1972a, fig. 6 for African industries). Putting these
+6088|observations together, he draws the following conclusion about
+6089|regulation and communication in Palaeolithic cultural systems:
+6090|
+6091|      It is suspected that the acceleration in the rate of change, the extent
+6092|      of local differentiation and the degree of artefact standardization
+6093|      can be considered together as symptomatic of a great increase in
+6094|   Cultural morphology and cultural e c o l o g y - t h e setting       137
+6095|
+6096|                                               Upper Palaeolithic —
+6097|                                                (Pvrqord)
+6098|                                                                       •60
+6099|ATLANTIC EUROPE
+6100|                                                                        50
+6101|                                  Late Acheulian and Mousterian*
+6102|                                            (Periçord)                  40
+6103|
+6104|                                                                        30
+6105|
+6106|
+6107|                                                                 J-     20
+6108|
+6109|
+6110|                                           » Middle Acheulian s >V     *10
+6111|
+6112|
+6113|                                        106
+6114|
+6115|SUB-SAHARAN AFRICA
+6116|
+6117|                                                                         25
+6118|                                                L a i « Stone Age*—      20
+6119|                                              Middle Stone A g e — T i i 15
+6120|                                                                3
+6121|
+6122|                                                                         10
+6123|                                                                         5
+6124|
+6125|          2*10®                         106                      0*1*10'
+6126|Fig. 25 The increased regularity capacity 'R' of successively later culture
+6127|systems - a practical example. The increase in categories of artefact-types
+6128|during the Palaeolithic in Atlantic Europe and Sub-Saharan Africa.
+6129|Source: Isaac 1972a, p. 394.
+6130|
+6131|
+6132|   the complexity of cultural rule systems, and since the complexity
+6133|   of rule systems is liable to have been limited in large measure by
+6134|   the efficacy of the communication system, these changes imply
+6135|   that during the U p p e r Pleistocene, language crossed a critical
+6136|   threshold in its information capacity and precision of expression
+6137|   (1972a, pp. 395-6).
+6138|
+6139|    Another statistic which may become available from the great
+6140|increase in archaeological data is some approximate estimate of the
+6141|average number of individuals maintained in a culture's dispersed
+6142|components throughout most of the year - excluding special and
+6143|138      Analytical Archaeology
+6144|temporary gatherings. T h i s w o u l d in effect be an average m i n i m u m
+6145|measure of the m a x i m u m g r o u p size maintainable throughout the year
+6146|and would express a vector of the cultural m o r p h o l o g y and ecology.
+6147|T h i s m i n i m a x statistic w o u l d also be roughly related to (k) as a
+6148|measure of 'sophistication' or rather 'complexity of organization'. With
+6149|the great increase in data it might even be possible to combine these
+6150|two facets of (k) to express comparative levels of socioeconomic
+6151|complexity, perhaps in the f o r m ( S t e w a r d 1 9 5 5 , pp. 4 3 - 6 3 )
+6152|
+6153|  Socioeconomic level = v M i n i m a x g r o u p size. A r t e f a c t - t y p e variety
+6154|
+6155|      T o conclude this section on environment as a system with subsys-
+6156|tems, we can observe that the physical e n v i r o n m e n t itself is a complex
+6157|system in a m o v i n g equilibrium. T h e e q u i l i b r i u m of the whole
+6158|environing system and its parts is subject to the same kind of oscillat-
+6159|ing fluctuations (e.g. f o r a model of food resource oscillation see Clarke
+6160|1 9 7 2 , fig. 1 . 1 5 ) , dislocations and foci of accelerated change as the
+6161|sociocultural systems that reside within it. I n d e e d we can understand
+6162|that the coupling of cultural systems within their environing system is
+6163|such as to require the cultural systems to change in accordance with
+6164|these environing fluctuations, to a degree dependent on the variety
+6165|within the sociocultural system (e.g. M c B u r n e y ' s ( 1 9 6 8 ) correlations
+6166|between variations in stone tool frequencies and in animal resources
+6167|during the late Pleistocene occupation of the Ali T a p p e h cave in I r a n ;
+6168|and the association of changes in e c o n o m y , population levels, settle-
+6169|ment patterns and social integration with climatic and vegetational
+6170|change and soil erosion in the A m e r i c a n south-west c. AD 1 1 0 0 - 1 3 0 0 ,
+6171|summarized in Hill 1 9 7 0 , pp. 8 2 - 9 6 ) . T h u s in so far as a culture is an
+6172|adaptation to a specific environment, a change in the environment may
+6173|produce changes in the culture to maintain e q u i l i b r i u m inversely
+6174|proportional to the culture's technological level. 4
+6175|
+6176|
+6177|Notes
+6178|    ( 1 ) N e e d h a m ( 1 9 7 5 , pp. 3 5 9 - 6 0 ) accepts the possibility of the evolution of
+6179|social s u b s y s t e m s b y regular t r a n s f o r m a t i o n s , as in the S e m i - M a r k o v i a n
+6180|model developed here b y the author. But in considering M u r d o c k ' s m e t h o d s
+6181|of analysis, N e e d h a m notes that 'by the introduction of an additional dis-
+6182|criminating feature (viz. prescriptive alliance) that M u r d o c k did not take into
+6183|account, it can be s h o w n that a n u m b e r of societies in the sample can be
+6184|placed in quite d i f f e r e n t relative positions f r o m those which they occupy on
+6185|M u r d o c k ' s premisses'.
+6186|   Cultural morphology and cultural ecology - the setting                     139
+6187|
+6188|    (2) An influential study of regularities in social organization, which
+6189|became more popular after the first publication of this volume, was Service's
+6190|Primitive Social Organisation (1962). In this he defined an evolutionary
+6191|sequence of increasingly complex types of social organization, from the
+6192|hunting-and-gathering 'band' through the agricultural 'tribe' and 'chiefdom'
+6193|to the 'state'. Although Service later recanted on this general model of social
+6194|organization (1971 ), it has been applied in both the New World (e.g. Sanders
+6195|and Price 1968) and the Old World (e.g. Renfrew 1972). Chiefdoms have
+6196|attracted particular attention and Renfrew has attempted to identify the main
+6197|features of this model in Neolithic Wessex (1973a), prehistoric Malta (1973b)
+6198|and Mycenaean Greece (1972). He has even recognized a distinction between
+6199|'group-oriented' (Wessex, Malta) and 'individualizing' (e.g. Greece, Bronze
+6200|Age Central Europe) chiefdoms (1974). Critics of this approach to prehistoric
+6201|social organization (e.g. Tringham in Renfrew 1974) have emphasized the
+6202|disparity between the model itself and the archaeological contexts to which it
+6203|has been applied and the apparent 'invisibility' of many traits of anthro-
+6204|pological chiefdoms in the archaeological record. In its defence it can be
+6205|argued that, like Fried's (1967) study, it does enable the archaeologist to think
+6206|about 'the possible range of social organizations behind his data' (above, p.
+6207| 109). After all the 'correlated constraint in variety' (p. 107) which led to
+6208|regularities in contemporary small-scale societies may have led also to anal-
+6209|ogous regularities in the past.
+6210|     In addition to this analogue model, archaeologists have attempted to
+6211|analyse prehistoric social organization by using two complementary data-sets.
+6212|First a number of American archaeologists have been instrumental in analys-
+6213|ing settlements and trying to test models of residence and descent patterns
+6214|derived from anthropological studies. The basic assumption involved is that
+6215|patterning in human behaviour which results from the existence of residence,
+6216|descent or other special purpose groups, will be reflected in the patterning
+6217|which the archaeologist can detect in the artefacts he studies from excavated
+6218|settlements (Deetz 1968). Given this position, the appropriate analyses have
+6219|to be computer-processed and statistically tested in order to define patterns of
+6220|association (e.g. use of the Chi-square statistic) and covariation (use of factor
+6221|analysis) among the artefacts. The resulting artefactual patterns are then
+6222| assessed, residence units isolated and sometimes even descent groups infer-
+6223| red. Such analyses have been pursued between phases of a site's occupation
+6224| (Deetz 1965), within occupation phases (Longacre 1968, 1970; Hill 1968,
+6225| 1970) and through time between different sites in a localized area (Whallon
+6226| 1968).
+6227|     While these studies have been cumulatively stimulating, their underlying
+6228| theory has been open to increasing criticism. As far as residence and descent
+6229| groups are concerned, Allen and Richardson (1971) stress the difference
+6230| between the 'ideal' rules and the actual operation of societies: thus choices are
+6231| made by individuals as to where they wish to reside after marriage and these
+6232| choices may be influenced by such variables as economics and property
+6233|140     Analytical Archaeology
+6234|ownership. Similarly they doubt whether completely discrete descent groups
+6235|can be recognized. On these grounds the interpretations of two localized
+6236|matrilineal descent groups at the Carter Ranch Pueblo (Longacre, see above)
+6237|and five localized uxorilocal residence units at Broken K Pueblo (Hill, see
+6238|above) can be laid open to doubt. T h e effect of rebuilding, rubbish disposal,
+6239|complex patterns of ceramic motif transmission between communities and
+6240|generations and social mobility upon within-site artefact patterning has been
+6241|discussed by Stanislawski ( 1 9 7 3 , 1974). He argues that 'the localization of
+6242|ceramic types in prehistoric and modern Pueblos is more likely to be a matter
+6243|of the localization of "ad hoc" work groups of neighbours and friends,
+6244|including both kin and non-kin, than clan residences or descent localization'
+6245|( J 973> P- 1 2 1 ) . T a k i n g all these criticisms into consideration, it seems clear
+6246|that the assumptions and theory underlying 'social' analyses of prehistoric
+6247|and historic settlements need rethinking and further testing if the stimulus of
+6248|the original pioneering studies is to be fulfilled.
+6249|      T h e second broad approach to social organization in the past has been by
+6250|the analysis of patterning in burial practices. T h e assumption which is basic
+6251|to this approach is that a society will practise several different methods of
+6252|disposing of its dead and that the forms which these methods take will be
+6253|correlated, in some measurable way, with the status of the deceased indi-
+6254|viduals. T h i s assumption is derived from cross-cultural anthropological
+6255|observations (Saxe 1 9 7 0 ; Binford 1 9 7 1 ) and focuses attention upon the
+6256|covariation of such features as population structure (e.g. age and sex dis-
+6257|tributions), grave goods (e.g. spatial variability in deposition of 'exotic' raw
+6258| materials) and burial methods (e.g. relative energy expenditure, spatial
+6259| patterning). A review of examples of this approach can be found in Chapman
+6260| (1977). Recent studies have also introduced a more complex systemic
+6261| approach to the use of burial data for measuring changes in social structure
+6262| and organization in the past (Tainter 1977).
+6263|      As with 'social' studies of settlements, this is another expanding research
+6264| area within archaeology and as such it has again attracted criticism. T h e
+6265| confidence with which archaeologists can associate burial practices with social
+6266| status has been attacked on ethnographic grounds (Ucko 1969). Clearly also
+6267| the interpretation of complex patterns of association and covariation within
+6268| burial data in terms of particular anthropologically-recorded patterns of
+6269| social organization is a field mined with potentially circular arguments. But
+6270| coupled with data derived from settlement excavation, there seems room for
+6271| optimism that the social analysis of burial data will expand into productive
+6272| new areas within the next decade. In this context it would seem that the
+6273| spatial analysis of burials within cemeteries and cemeteries related to settle-
+6274| ments and other variables (e.g. topography, economy) is an open research
+6275| field.
+6276|
+6277|   (3) In this discussion the author followed the predominant thought of the
+6278|time in equating religion solely with 'beliefs relating to the supernatural'.
+6279|    C u l t u r a l m o r p h o l o g y and cultural e c o l o g y - the setting   141
+6280|
+6281|However, more recent anthropological research by Rappaport (1968, 1971a,
+6282|1 9 7 1 b ) among the Tsembaga group of the Maring speaking peoples of New
+6283|Guinea has stressed the relationship of religion and ritual in general to other
+6284|subsystems and the local environment. Rappaport does not argue against the
+6285|partly psychological or sociological functions of rituals in giving security to
+6286|human populations who are unable to control all the events and processes of
+6287|their environment (1968, p. 2). Like the author he also views rituals in terms
+6288|of information communication and in this respect there is a great similarity
+6289|between animal and human behaviour: rituals, after all, are only 'con-
+6290|ventionalized acts of display' ( 1 9 7 1 a , p. 63). But where he differs is in his
+6291|interpretation of rituals as regulating mechanisms (chapter 2, pp. 52-4) within
+6292|an ecosystem. T h u s he argues that among other things the ritual cycles of the
+6293|Tsembaga help to distribute surpluses of pork through local and regional
+6294|populations, to regulate the consumption of non-domesticated animals, toenable
+6295|inter-group trading or exchange, to maintain the local environment and to
+6296|regulate the frequency of local fighting or warfare (e.g. 1968, pp. 3 - 4 ; 1971a).
+6297|      Rappaport notes an alternating cycle of periods of local warfare and peace,
+6298|with the latter being marked by a ritual ('Kaiko') in which the ancestors are
+6299|thanked for their aid during the fighting. While the Tsembaga themselves
+6300|may see these rituals solely in terms of the propitiation of their ancestors'
+6301|spirits, their function as regulatory mechanisms is also argued by Rappaport.
+6302|Fighting is forbidden during these rituals, so in this way the frequency of
+6303|warfare is controlled. Furthermore the slaughter of pigs which takes place
+6304|during the ritual period (ten years on average) helps to regulate the size of pig
+6305|populations, reduce local tension (caused by the damage done by increasing
+6306|numbers of pigs to fences, gardens etc.), preserve the local environment,
+6307|distribute food supplies and reduce population pressure and competition for
+6308|land (cf. Reichel-Dolmatoff's (1976) study of spirits and cosmology among
+6309|the Tukano Indians of Columbia: note especially the belief that the spirits of
+6310|game animals cause sickness - another example of a regulator acting on the
+6311|exploitation of local fauna).
+6312|      In discussing communication, Rappaport also distinguishes religious
+6313|from other types of ritual. T h e essential distinction as he sees it, is that
+6314|religious rituals are endowed with sanctity: 'the quality of unquestionable
+6315|truthfulness imputed by the faithful to unverifiable propositions' ( 1 9 7 1 a , p.
+6316|69). T o put it another way 'to sanctify sentences is to certify them' ( 1 9 7 1 b , p.
+6317|29). Since religious messages are accepted as 'true', they contribute to the
+6318|maintenance of order within human societies (1971a, p. 69), especially by
+6319|reducing the conflict between the needs and desires of the individual and
+6320|those of society ( 1 9 7 1 b , p. 36).
+6321|     Attempts to apply Rappaport's theoretical framework to the analysis of
+6322|religion in prehistoric societies have so far been rare. In one study Drennan
+6323|(1976) has linked the development of religious rituals as a mechanism for
+6324|securing the acceptance of social conventions with the evolution of complex
+6325|societies in Formative Mesoamerica.
+6326|142      Analytical Archaeology
+6327|     At the same time it should be noted that Rappaport has been criticized by
+6328|other anthropologists for being too 'materialistic' or 'functionalist' in his
+6329|interpretations. Friedman (1974, pp. 459-60) doubts whether the T s e m b a g a
+6330|ritual cycle acts as a regulator since both human and pig populations were
+6331|well below carrying capacity when Rappaport studied the 'Kaiko'. Friedman
+6332|prefers to emphasize the part played by social relationships (e.g. prestigious
+6333|exchange) in the frequency and scale of pig sacrifices. Similarly McArthur
+6334|(1974) views the pig sacrifices in terms of the prestige gained by the posses-
+6335|sion of large herds which can be given to other individuals or groups to cancel
+6336|existing exchange obligations. As for Rappaport's interpretation of the ritual
+6337|being a means of preventing pigs from damaging the local environment and
+6338|increasing tension between social groups, McArthur points out that it is the
+6339|deliberate accumulation of the pig herds during the years leading up to the
+6340|'Kaiko' ceremony that creates this situation. Indeed large amounts of pork
+6341|consumed at the ritual are nutritionally wasted and thus the redistribution
+6342|function seems less convincing. Finally it is noted that in cases where fighting
+6343|has led to refugee groups arriving in a new area soon after the beginning of a
+6344|ritual cycle, there may be 10-20 years of over-population and possible
+6345|environmental damage in that area. T h i s is one example of a disadvantageous
+6346|result of the ritual. In spite of these criticisms, Rappaport's study still offers
+6347|the archaeologist a source of stimulus in his study of prehistoric societies in
+6348|terms of dynamic systems, with all the characteristics given in chapter 2.
+6349|
+6350|     (4) T h e 'systemic approach' to cultural change has enjoyed special popu-
+6351|larity among American archaeologists during the last decade. T h e compara-
+6352|tive lack of systemic studies and the more hostile reception within British
+6353|archaeology may be explained partly in terms of the different ways in which
+6354|the concepts of systems theory and cybernetics have been introduced into the
+6355|subject. In America the main impetus was provided by Lewis Binford (e.g.
+6356|1962, 1965), who developed the view that culture should be studied as a
+6357|whole system and that its primary function was an adaptive one:
+6358|      . . . as archaeologists we are faced with the methodological task of iso-
+6359|      lating extinct sociocultural systems as the most appropriate unit for the
+6360|      study of the evolutionary processes which result in cultural similarities
+6361|      and differences. If we view culture as man's extrasomatic means of
+6362|      adaptation, we must isolate and define the ecological setting of any given
+6363|      sociocultural system, not only with respect to the points of articulation
+6364|      with the physical and biological environment, but also with the points of
+6365|      articulation with the sociocultural environment. It is suggested that
+6366|      changes in the ecological setting of any given systems are the prime
+6367|      causative situations activating processes of cultural change (Binford
+6368|       1964, reprinted in Binford 1972, pp. 159-60).
+6369|
+6370|T h e main roots of this approach lay in the evolutionary anthropology of
+6371|Leslie White, as Binford has acknowledged (1972). T h e increasing popularity
+6372|of Whitean anthropology, to which archaeological students were exposed as
+6373|   C u l t u r a l m o r p h o l o g y and cultural e c o l o g y - the setting   143
+6374|
+6375|part of their university education, coupled with Binford's dynamic impact in
+6376|the 1960s has ensured the 'success' of the systemic approach within American
+6377|archaeology. In Britain, the anthropological perspective has been largely
+6378|absent from general archaeological work and university syllabus. It can be
+6379|argued that the more abstract presentation of systems theory given by David
+6380|Clarke in 1968, with its detailed discussion of concepts such as equilibrium,
+6381|homeostasis and adaptation (chapters 2 and 3), was less well received in
+6382|Britain because of the lack of this reinforcing anthropological theory: without
+6383|it the systems approach may have seemed too 'distant' from the archaeolo-
+6384|gist's concern with the study of human behaviour in the past.
+6385|    One soon becomes aware of this differential popularity and application of
+6386|systems theory in America and Britain when examining the results of a
+6387|decade of research within archaeology. We must ask how concepts and
+6388|models derived from systems theory and cybernetics have been applied to
+6389|archaeological problems. At the same time criticisms of specific applications
+6390|or concepts (e.g. homeostasis, adaptation), or indeed of the general concept of
+6391|systems analysis, must be considered so that the subject may be put in
+6392|perspective. T h e remaining part of this note will illustrate and discuss these
+6393|issues, so that the theory and concepts presented in chapters 2 and 3 can be
+6394|considered within the context of subsequent research.
+6395|    In a recent review article, Plog (1975) has discussed five ways in which
+6396|systems theory has been used in archaeology: as a theory of archaeology, as a
+6397|source of concepts, models and propositions/principles and as an approach to
+6398|explanation. It is instructive to use this framework and consider each of these
+6399|ways in turn, along with reference to specific examples of research (not all of
+6400|which are present in Plog's publication).
+6401|
+6402|    (a) A theory of archaeology. T h e need for a central theory of archaeology,
+6403|expressed in systemic terms and concerned with isolating regularities in
+6404|archaeological data, is the aim of Analytical Archaeology (e.g. see above pp.
+6405|xv-xvii).
+6406|    (b) A source of concepts. As Plog indicates (1975, p. 2 1 3 ) the use of
+6407|concepts such as homeostasis, feedback and adaptation in archaeological
+6408|research has been associated with an underlying concern to isolate processes of
+6409|change in the past. T h e emphasis is now on generalizing rather than parti-
+6410|cularistic studies and on relationships between important variables rather
+6411|than simply their individual attributes. In this context systems analysis has
+6412|enabled archaeologists to reconceptualize old problems and look at them in
+6413|new ways (cf. Doran 1970, p. 294). Increasing familiarity with demographic,
+6414|ethnographic, ethnological and agricultural studies has led the archaeologist to
+6415|become more aware of the role of population as an important variable in
+6416|cultural change. Homeostatic controls on the size of animal populations in
+6417|relation to the local carrying capacity of resources are already widely known
+6418|(Wynne-Edwards 1962). Studies of hunter-gatherer groups have extended
+6419|our knowledge of cultural means of regulating population sizes (Hayden
+6420|1972) and Boserup's (1965) study of agricultural growth has established the
+6421|144     Analytical Archaeology
+6422|view that population acts as an independent variable, rather than one which is
+6423|dependent on developments in agricultural techniques. T h i s new perspective
+6424|on population was one of the bases of Binford's (1968b) reanalysis of the
+6425|origins of food production in the Near East. In this he argued that population
+6426|growth occurred in that area as a by-product of increased sedentism based on
+6427|the exploitation of more nucleated animal resources. Sedentism was held to
+6428|be responsible for the reduced necessity for cultural means of regulating
+6429|population size. T h u s the regulatory controls had broken down and the
+6430|population-natural resources equilibrium was disturbed. Excess population
+6431|from sedentary areas would 'bud off' into more marginal zones with less
+6432|favourable resources, thus maintaining equilibrium in the optimal areas but
+6433|creating population pressure beyond them. T h e result of this pressure was
+6434|the emergence of methods of food production which would raise the carrying
+6435|capacity of the marginal areas and enable them to support the higher popu-
+6436|lation levels. In a more recent paper Binford and Chasko (1976) have
+6437|examined the relationship of increased fertility, sedentism and dietary
+6438|changes among the Nunamiut Eskimos.
+6439|      In another study of the development of food production, this time in
+6440| Mesoamerica, Flannery (1968) has used the concept of positive feedback, or
+6441| more specifically 'deviation-amplifying mutual causal processes', to explain
+6442| the emergence of maize and bean cultivation. T h e same author (1972) has
+6443| also analysed the evolution of civilizations, and more particularly the state, in
+6444| terms of two systemic processes: segregation (i.e. differentiation and speci-
+6445| alization of subsystems) and centralization (i.e. the degree of linkage between
+6446| subsystems). These processes are argued to be universal in state evolution, as
+6447| are the mechanisms by which they take place (i.e. 'promotion' and 'lineariza-
+6448| tion'), but the actual socio-environmental stresses (e.g. warfare, trade, popu-
+6449| lation growth, irrigation) that set these mechanisms in action are held to be
+6450| local in origin. Once again emphasis has been placed on general processes
+6451| rather than particular developments in an attempt to understand regularities
+6452| in cultural change.
+6453|      T h e concepts of information theory which David Clarke derived from
+6454| Ashby's work (1956) and applied in his model of culture as a system have
+6455| been little developed in subsequent research. However the concepts of
+6456| 'variety' and 'constraint' have been used by Rathje (1973) in analysing
+6457|  Lowland Classic Maya cultural change.
+6458|      (c) A source of models. Under this heading Plog (1975, pp. 2 1 6 - 1 8 )
+6459| includes the use of flow charts and simulation models, whose usage has
+6460| accompanied systems theory into archaeological research. Flow charts are, of
+6461| course, a by-product of the impact of computers on archaeology. T h e y
+6462| represent sets of relationships between different variables and can be used at
+6463|  various scales, with varying degrees of specificity and with a range of qualita-
+6464|  tive to fully quantitative data. In addition they can be efficient methods of
+6465|  reducing a vast amount of information or a complicated interpretation into a
+6466|  readily comprehensible form. Excellent examples of this quality can be found
+6467|    Cultural m o r p h o l o g y and cultural e c o l o g y - t h e setting      145
+6468|
+6469|in Newcomb's model of a Danish medieval parish, Kemp's chart showing the
+6470|quantified flow of energy in an Eskimo hunting society (both reproduced in
+6471|Clarke 1972, figs 1 . 1 0 and 1 . 1 1 ) and Thomas's (1972, fig. 17.3) model of the
+6472|Shoshonean economic cycle based upon data derived from earlier work by
+6473|Julian Steward. In the terminology of Chorley and Kennedy (1971) New-
+6474|comb's work is an example of a morphological system (i.e. specifying the
+6475|structural relationship« between the different components/variables) while
+6476|Kemp's flow chart represents a cascading system (i.e. a quantitative analysis
+6477|of energy exchanges or the flow of information). Archaeologists have also
+6478|used flow charts to represent processes of classification or interpretation, for
+6479|example Clarke's (1972, fig. 1 . 1 4 ) model for his classification of British beaker
+6480|pottery and Schiffer's (1976, figs 9.4-9.8) models for his classification of
+6481|chipped stone artefacts from the Joint site in Hay Hollow valley, Arizona. In
+6482|addition Schiffer (1976, figs. 4.1-4.2) has used flow charts to represent the
+6483|general processes through which material culture is incorporated in the
+6484|archaeological record.
+6485|    Thomas' (1972) model of the Shoshonean economic cycle leads us con-
+6486|veniently into the field of simulation studies. These form a growing research
+6487|area in which certain variables (e.g. economy, population statistics) are
+6488|specified in a computer programme which produces a simulated behavioural
+6489|pattern to be compared with actual archaeological data. Thomas states that
+6490|his model, BASIN I, is 'designed to simulate deposition of archaeological
+6491|artefacts resulting from a posited ethnographic pattern'. He views the
+6492|Shoshonean settlement pattern as a system which has two properties: struc-
+6493|ture and behaviour. T h e structure is represented in the flow chart mentioned
+6494|above as a 'functioning system in statistical equilibrium'. In considering the
+6495|system's behaviour, Thomas follows David Clarke's distinction (this volume,
+6496|pp. 70-2) between 'inessential', 'essential' and 'key' attributes or variables in
+6497|looking at different resource subsystems (e.g. piñón nuts, jack rabbits,
+6498|antelope) and uses a Markov chain model (this volume pp. 63-6) to simulate
+6499|temporal and spatial variation in the yields of piñón nuts. This variation is
+6500|then related to variation in Shoshonean subsistence strategies. T h e simula-
+6501|tion was found to compare well with Steward's previously untested model of
+6502|the Shoshonean economic cycle. A Markovian model has also been used by
+6503|Reynolds (1976) in studying Pre-Classic settlements in a 40-mile stretch of
+6504|the Upper Grijalva River in Chiapas state, Mexico. A more ambitious simu-
+6505|lation study within a fully systemic framework has been published by Wobst
+6506|(1974): in this he uses Monte Carlo techniques to analyse Pleistocene popu-
+6507|lation units, simulating up to 400 years of population variation by means of
+6508|specified age, sex, fertility and mortality variation. In particular he is inter-
+6509|ested in the effects of such factors as monogamy, polygyny, incest taboos and
+6510|exogamy on equilibrium sizes in Palaeolithic human populations. T h e ulti-
+6511|mate aim of this study is to predict the size and longevity of Palaeolithic social
+6512|units and to develop appropriate sampling models for the archaeological
+6513|investigation of Palaeolithic sites in given areas. Finally Plog (1975, pp.
+6514|146     Analytical Archaeology
+6515|217-18) outlines Zubrow's simulation model relating population and carrying
+6516|capacity, which are used in his research in the Hay Hollow valley, Arizona
+6517|(e.g. Zubrow 1 9 7 1 , 1 9 7 5 ; see below pp. 444-6).
+6518|      Markovian simulations are, of course, part of a wider series of stochastic
+6519|models (Clarke 1972, pp. 1 9 - 2 9 ; Doran and Hodson 1975, pp. 295-8) which
+6520|do not necessarily have to be explicitly formulated within a systemic frame-
+6521|work. We will return to these types of simulation when considering arte-
+6522|fact/settlement distribution patterns in chapter 10.
+6523|      (d) A source of propositions/principles.   Some archaeologists have preferred
+6524|to look at archaeological problems from a general systemic perspective:
+6525| instead of breaking their systems down into analytical subsystems
+6526| ('economic', 'social' etc.) they have analysed their data in terms of general
+6527| propositions or principles. T h u s Flannery (1972) has looked at the origins of
+6528| the state in terms of segregation and centralization processes and Plog (1974)
+6529| has constructed a dynamic equilibrium model of cultural growth in the
+6530| Basketmaker-Pueblo transition in Arizona in terms of changes in the rela-
+6531| tionships between population, system differentiation and integration (cf.
+6532| Flannery) and energy exchanges. Tainter (1977) has also recently applied
+6533| general systemic principles in the analysis of Woodland burial practices.
+6534|      (e) An approach to explanation. This last category of systemic research in
+6535| archaeology overlaps with (b) the use of systems concepts. Both the Binford
+6536| (1968b) and Flannery (1968, 1972) papers mentioned above are attempts to
+6537| explain such complex problems as the origins of agriculture and civilization
+6538| in terms of systemic processes. Similarly Renfrew (1972) has used the
+6539| concepts of systems theory to construct an explanation for the local
+6540| development of the Bronze Age civilization in the Aegean. After presenting
+6541| the main cultural sequences in each local area he analyses changes from c.
+6542| 6 0 0 0 - 1 0 0 0 BC in terms of five subsystems (subsistence, technological, social,
+6543| projective/symbolic and trade/communication - 1972, pp. 2 2 5 - 4 7 5 ) . Inter-
+6544| actions between these subsystems are then specified and the emergence of
+6545| civilization explained in terms of the operation of the 'multiplier effect', a
+6546| special type of positive feedback (1972, pp. 476-504).
+6547|
+6548|     T h e range of systemic applications in archaeology which have been
+6549|presented here should not be allowed to obscure disagreement over their
+6550|current success and potential. T h e more realistic proponents of the systemic
+6551|approach themselves recognize that much of the research outlined above is
+6552|still at a preliminary, experimental stage (Plog 1975, p. 220). Even among
+6553|those researching in general systems theory there are reservations about the
+6554|practicality of its application in other subjects, as it is claimed that there is
+6555|still much intensive research to be undertaken (Klir, quoted in Doran and
+6556|Hodson 1975, p. 337). Critics within archaeology have argued that systemic
+6557|concepts are not as revolutionary as has been claimed (Higgs and Jarman
+6558|I 97S> P- 3) a n d that there is a disparity between these concepts and the
+6559|
+6560|empirical data of archaeology. Either there is supposed to be insufficient data
+6561|   Cultural morphology and cultural ecology - the setting                     147
+6562|
+6563|to reconstruct, for example, social organization or religious subsystems or, to
+6564|put it another way, 'archaeological data are insufficient for the mathematics of
+6565|systems theory to be made to work' (Doran and Hod son 1975, p. 339; cf.
+6566|Steiger 1971, p. 69). This then reduces systems theory to the status of a
+6567|general analogy, a method for clearer thinking rather than an incisive analy-
+6568|tical tool (cf. von Bertalanffy's (1962) criticism of systemic research in biology
+6569|and psychology). On the other hand it cannot be denied that the systemic
+6570|approach has enabled archaeologists to reconceptualize old problems and in
+6571|particular to emphasize relationships and processes of change rather than
+6572|preoccupying themselves with linear causality and particularistic artefactual
+6573|studies.
+6574|     The two concepts in systemic archaeological research which have been
+6575|most criticized are homeostasis and adaptation. Wood and Matson (1973)
+6576|have distinguished two models of sociocultural systems, the homeottatic and
+6577|complex adaptive systems. The latter is derived from such systems theorists as
+6578|Buckley (1967), von Bertalanffy (1962) and Maruyama (1963). It is defined as
+6579|an open system exhibiting continuous (though varying rates of) change, the
+6580|source of which may be both within and outside the system as a whole. This
+6581|change may not only be counteracted by negative feedback mechanisms, thus
+6582|restoring the system's equilibrium, but it may also be amplified by positive
+6583|feedback (e.g. Flannery 1968; Renfrew 1972). In contrast the homeostatic
+6584|model (Ashby 1956) emphasizes the part played by regulatory mechanisms
+6585|(i.e. negative feedback) in maintaining system stability. Positive feedback will
+6586|only occur when these regulatory mechanisms fail and a new equilibrium
+6587|level will be reached. Thus periods of change alternate with periods of
+6588|stability (the latter being the 'normal' condition) and the source of change is
+6589|held to be external to the system (see Hill 1971). Wood and Matson comment
+6590|that this homeostatic model is functionalist in origin, unsuitable in dealing
+6591|with positive feedback processes and 'if we insist that change comes from
+6592|outside of the system, we then run the risk of a self-fulfilling prophecy; that
+6593|is, if we look hard enough for a changing environmental variable, we shall
+6594|surely find one* (1973, pp. 681-2).
+6595|     In a similar vein, Bennett (1975, 1976) has argued that the homeostatic
+6596|model is inappropriate for sociocultural systems characterized by long-term
+6597|and sometimes more dynamic changes. Thus he writes that
+6598|   the persistent developmental or exponential tendency in human
+6599|   behaviour, visible wherever the time span observed is long enough,
+6600|   should be evidence that the regularity and return to preexisting states
+6601|   characteristic of homeostatic movement are temporary phenomena that
+6602|   are useful in analysing limited sequences but not for understanding the
+6603|   basics of species behaviour (1976, p. 848).
+6604|    The homeostatic model has been based, Bennett argues, on short-term
+6605|observation by anthropologists among 'the relatively isolated, relatively slow
+6606|to change, low-energy society' (1975, p. 296) and is an inappropriate model
+6607|148      Analytical Archaeology
+6608|for periods of more rapid and complex cultural changes. However, current
+6609|archaeological thinking (e.g. Isaac 1972b, p. 186) would seem to support the
+6610|existence of fairly stable cultural traditions associated with low population
+6611|densities and a low frequency of social interaction over much of the early
+6612|Pleistocene period. In this case the application of a homeostatic model seems
+6613|to be supported by the archaeological evidence. Indeed it could be suggested
+6614|that the homeostatic model is more appropriate to studies of early Pleistocene
+6615|cultural evolution and the complex adaptive model of greater relevance to the
+6616|rapid increase in social and cultural complexity of the late and post-Pleisto-
+6617|cene periods.
+6618|    Adaptation has been a key concept in archaeological and anthropological
+6619|systemic research. Binford (1962), following Leslie White, defined culture as
+6620|'man's extrasomatic means of adaptation' and most systemic archaeologists
+6621|have used the concept, either specifically or loosely in their work. More
+6622|recently, doubts have been raised about its usage. For example, Burnham
+6623|(1973) supports the general point that culture can be adaptive, citing the case
+6624|of the Eskimos, but he then raises a number of important questions:
+6625|      It is only at a finer level of analysis that difficulties arise in discussing
+6626|      culture as man's adaptive dimension. Is all of culture positively adaptive
+6627|      or are there maladaptive traits? How would one assess and measure the
+6628|      adaptive advantages and disadvantages of a particular trait in a particular
+6629|      culture? (1973. P- 93)
+6630|He further argues that in order for the concept of adaptation to be meaning-
+6631|ful, it is the responsibility of archaeologists and anthropologists to specify the
+6632|exact cultural mechanism(s) which are 'realistic "equivalent(s) of natural
+6633|selection" or, for that matter, equivalents to any of the other key components
+6634|of the biological evolutionary process' (1973, p. 94; cf. Plog 1974, p. 48).
+6635|    T h e questions asked of the use of concepts such as homeostasis and
+6636|adaptation in cultural studies will undoubtedly continue, as will the debate
+6637|over the types of systems model which best approximate our archaeological
+6638|data. This is a healthy debate and archaeologists' own knowledge of systems
+6639|theory has been greatly extended since the first publication of this volume. As
+6640|I have tried to illustrate above, the range of systemic studies has increased,
+6641|but the key problem which faces workers in this field at the present is whether
+6642|they can, or need to, extend systems theory beyond the stage of being a useful
+6643|vehicle for reconceptualizing archaeological problems. With its emphasis on
+6644|processes and complex interrelationships it has enabled archaeologists to
+6645|postulate mechanisms of change which no longer rely upon single explana-
+6646|tions such as 'invasion' or 'diffusion'. But is this sufficient for significant
+6647|progress to be made in our knowledge of human behaviour in the past? This
+6648|is the challenge facing proponents of systems theory in contemporary
+6649|archaeology.

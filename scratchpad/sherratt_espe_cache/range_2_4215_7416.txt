@@ -1,0 +1,3202 @@
+  Socio-economic and Demographic
+ Models for Later Prehistoric Europe
+                                    (1972)
+
+Until recently there was at least a measure of general agreement among
+European prehistorians on the aims of archaeology and the appropriate
+framework for its interpretation. The most explicit statements of these aims
+and methods are to be found in the writings of V. G. Childe, in his series of
+syntheses of European prehistory from 1925 onwards, and in various later
+works devoted specifically to methodology (Childe 1925; 1956). Childe's
+approach was based on three related concepts: the 'stages of culture' classi-
+fication of Morgan and Engels, the key role of technology in relation to
+these, and a model of technological change which assumed that innovation
+was a characteristic of specific types of society. From this point of view, the
+progress of European societies depended on their proximity to Near Eastern
+civilisation through the mediation of the 'secondary civilisations' of the
+Mediterranean, themselves only made possible by the 'Urban Revolution' in
+the Orient. Thus the whole process depended ultimately on one or two
+unique events - the achievement of a regular surplus by irrigation agri-
+culture in the alluvial valleys of the Nile and the Tigris-Euphrates.
+   Both the theoretical basis of this, and the usefulness of these ideas in
+interpreting the evidence now available, have been questioned. In particular,
+on the theoretical side, it has become clear that more consideration must be
+given to factors which in the archaeological record are less obvious than
+technological change. The use of economic concepts such as 'surplus' cannot
+
+This was written while I was a graduate student at Peterhouse with David Clarke,
+for his book Models in Archaeology. It was a heady time, when someone in their
+mid-twenties was invited to contribute in this way to a major publication. I had
+just returned from excavating in Turkey, at Can Hasan with David French and
+Sebastian Payne, and was sharing a house with Robin Dennell. The extracts
+reproduced here have been chosen to convey the excitement of exploring
+a whole range of neighbouring disciplines for their relevance to archaeology,
+and the delight at finding principles and processes of human ecology.
+
+                                        70
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:06:41 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+                    FOR   LATER     PREHISTORIC        EUROPE
+
+
+be separated from demographic questions, such as why this was not ab-
+sorbed by population increase, or whether the productivity of Meso-
+potamian agriculture really was inherently greater than contemporary
+European systems. The role of technology must be assessed in the light of its
+relation to specific agricultural and economic systems, as it is only in re-
+lation to these that the significance of particular innovations can be judged.
+
+
+RESOURCES AND POTENTIAL FOR GROWTH
+Economic expansion, far from being a characteristic of all societies, is a
+rather exceptional occurrence. Small-scale economies appear to be charac-
+terised both by low levels of labour input and low population densities, even
+though human populations possess the ability to make use of a great range
+of food resources. The small fraction of these exploited at any one time
+makes the use of calculations based on 'carrying capacity' a dangerous pro-
+cedure. The only alternative is a detailed reconstruction of prehistoric
+economies based upon evidence of food remains, technology and site
+locations.
+    One of the most important factors to be taken into account is the
+fluctuation in the abundance of available resources. Not merely must
+population levels be adjusted to the season of greatest scarcity in the year,
+but the economic strategy must minimise the effects of differences in
+yield from year to year. The effects of such fluctuations, however, can be
+cushioned by reliance on a combination of resources which assures the
+highest return under the most adverse conditions. This is particularly
+important in determining the balance between animal and plant foods, and
+accounts for the heavy emphasis on pastoralism in arid regions (Deschler
+1965). Although animal resources are less productive than plant ones, being
+one step higher in the food chain, they possess the advantage of mobility, so
+that scattered flushes of vegetation in areas of variable rainfall, which are
+too erratic to be predicted and thus used for cereal growing, can be used to
+support moving herds. Even where the rainfall is more regular, but the area
+is still subject to droughts, the use of plant foods such as cereals still needs
+to be supplemented by a strong pastoral component, in case of crop failure.
+The types of social organisation typical of such economies embody further
+security precautions, based on the circulation of animals on loan.
+    In less marginal areas, however, such considerations are not so important
+in determining economic strategies and population levels. In particular,
+there seem to be a number of stable patterns of small-scale exploitation. The
+lack of complex techniques for storage, for instance, or for intensive forms
+of cropping, places limits on the development of increasingly productive
+ways of utilising many types of resources. Although shellfish may be con-
+veniently gathered from beds exposed intertidally or in shallow water, any
+more intensive method would involve a 'leap' in technological capacity,
+
+                                         71
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:06:41 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+             SOCIO-ECONOMIC         AND    DEMOGRAPHIC          MODELS
+
+
+including for instance the construction of large-scale dams, cages, etc.
+Similarly, the most productive method of exploiting an ungulate population
+is by a ranching technique, in which large numbers of animals are raised to
+a uniform age at which the gain in meat weight begins to be offset by the
+continuing cost of providing grazing or fodder. In small-scale exploitation,
+however, this is impossible: what is required is a regular supply of daily
+food, which is best supplied by live animal products (blood, milk, etc.) if this
+is possible, or by occasional culling.
+    While an increase in yield is therefore possible, it is unlikely to be
+attempted by most groups practising small-scale economies. Only where
+there is a set of relatively simple transition possibilities, based upon a series
+of small modifications to an existing system, are changes likely to occur.
+Given the tendency of societies to 'fight to stay the same' (Schon 1971, 32),
+by resisting innovations that would cause large-scale restructuring of estab-
+lished patterns, such possibilities are limited in occurrence, and are con-
+ceivable (a) only with resources with a high potential for expansion
+(elasticity), and (b) with resource systems including complementary re-
+sources which allow the problems created by the development of one
+element in the resource system to be overcome by the provision of - for
+example - a secure if low-yielding supply of food in case of the failure of the
+main element.
+    One of the most striking contrasts in patterns of growth is that between
+cereal-based economies, and those based on animal resources such as ungu-
+lates or shellfish. The root of the contrast lies in the relative elasticity of the
+resources. With an ungulate population, cropping above a certain per-
+centage of the population will impair the ability of the herd to reproduce
+itself. The size of the total population can only be raised by drastic changes
+in the structure of the ecosystem. With cereals, on the other hand, by
+relatively small changes in the structure of the ecosystem - shifting plants
+with an annual habit into niches occupied by plants more successful in com-
+petition - the yield of useful products can be greatly increased. Moreover,
+there is a more or less direct relationship between labour input and return:
+clearance and sowing of small additional areas produces an immediate effect
+in terms of increased output. Similarly, even relatively minor advances in
+technology may have the effect of greatly increasing yield, both by allowing
+more efficient cultivation methods and by making possible the use of hither-
+to unused types of land.
+    The significance of the Neolithic Revolution lies in the almost continuous
+growth possible in cereal-based economies, and the increasing degree of
+interference with the ecosystem that it entails. The domestication of animals
+such as sheep provided a resource compatible with a sedentary pattern of
+exploitation in a system in which settlements needed to be located for access
+to cereal-growing soils, and provided not only additional protein but also
+security in case of crop failure. Patterns of animal exploitation were thus
+
+                                          72
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:06:41 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+                    FOR   LATER     PREHISTORIC        EUROPE
+
+
+adjusted to complement an increased reliance on plant food. Despite the
+difficulties involved in actually identifying 'domesticated' animals (Higgs
+and Jarman 1969), the need for greater control over movement, breeding,
+etc., in this situation is clear, and the distinction between agricultural and
+'hunter-gatherer' economies remains valid.
+   Patterns of growth in agricultural economies are thus closely related to
+the amounts and distributions of fertile land, which affect both the capacity
+for further expansion and the kinds of more intensive exploitation that can
+be developed. In areas of heavy leaching such as the tropics, the potential for
+growth with a pre-industrial technology is much smaller than in temperate
+areas, even though in almost every zone there are alluvial soils whose
+concentration of minerals and water retentive capacity makes them first-
+class agricultural land. The capacity for further expansion thus depends
+ultimately on the availability of 'middle range' soils which allow expansion
+to continue when the first-class ones are filled to capacity. A second factor is
+present in some areas where a diversity of different zones adjoin (or are
+connected by easy transport links) and the integration of zones of specialised
+production is possible through reciprocal redistribution and exchange net-
+works.
+   The phrase 'the colonisation of Europe' has often been used by historians
+(e.g. Koebner 1966) to describe the extension of settlement in the Middle
+Ages into hitherto uncultivated areas. Yet this marginal infilling is but the
+final phase of a continuous process with its beginning in the Early Neolithic.
+The demographic crises of the later Middle Ages reflect the increased diffi-
+culty with which the extension of the margin of cultivation could be carried
+out. In many documented instances, population was very close to the
+ceiling. As Postan and Titow (1959) noted for the estates of the bishopric of
+Winchester in the thirteenth century, poor harvests were directly reflected in
+mortality figures. Wrigley (1962) has suggested that the ceiling imposed by
+competing uses for available land caused a recession until the bottleneck
+was broken by technical innovation - in this case the development of
+machines based on coal and iron rather than wood. This was an essential
+element in a solution involving radical changes in settlement location, land
+tenure and more intensive systems of agrarian production, complemented
+by the growth of an imperialist colonial system based on the export of
+specialist manufactured products and the importation of food and raw
+materials.
+
+Systems of land use
+The economies of prehistoric Europe and the Near East thus belong to a
+class of economies characterised by the possibility of more or less con-
+tinuous expansion. It might be expected from this that the economic, social
+and technological developments that characterise the post-Neolithic
+sequence could be explained in terms of this process of growth, and that the
+
+                                        73
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:06:41 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+            SOCIO-ECONOMIC          AND    DEMOGRAPHIC          MODELS
+
+
+different patterns that characterise the Near East, the Mediterranean and
+inland Europe could be related to the geographical background - the dis-
+tribution of soils, raw materials and transport routes.
+   An important set of information for the analysis of subsistence agri-
+culture is the labour requirements of the various crops. As there is great
+variation in these, and as societies are generally unwilling to work harder
+than is necessary, certain resources possess clear advantages for populations
+of a given size. Thus it has already been noted that hunter-gatherer groups
+expend relatively little effort on subsistence in comparison with agricultur-
+alists. The same contrast is true for the various stages of agricultural intensi-
+fication.
+   An increase in output can be achieved by two means: either by an increase
+in the area of land utilised or by intensification - the more productive use of
+land already cropped. Both require changes in technology and both have
+implications for social organisation, but intensification makes special de-
+mands on labour input. Expansion in a given system proceeds by a balance
+between the two processes related to the opportunities of an individual en-
+vironment; but before introducing a spatial element into the model, some
+characteristics of the intensification process should be noted.
+   The most thorough discussion of this problem is by Boserup (1965). She
+points out that with a small population, the most economic agricultural
+system in terms of labour input is an extensive one, based on swidden (slash-
+and-burn) cultivation with a simple technology. Intensification is measured
+by the increased frequency of cropping of a given area, with a consequent
+shortening of fallow periods. This process has several implications. In the
+first place little preparation of the soil is necessary for long fallow systems,
+where cropping is for short periods only and it is not necessary to maintain
+fertility by manuring during this period, nor even worthwhile clearing tree
+stumps. In consequence, the use of the plough is unnecessary and the culti-
+vated plot is abandoned when weeds begin to compete seriously with crops
+or when the nutrients released by burning off the forest are exhausted. For
+short fallow systems, however, both manuring and ploughing become neces-
+sary, as the land is cropped beyond the point at which initial fertility begins
+to decline, and fallowing is only long enough to allow the growth of grass,
+presenting problems in tillage. Further intensification, allowing even multi-
+cropping, depends on the introduction of techniques such as irrigation or
+terracing involving heavy capital investment.
+    In an extensive agricultural system, a relatively small labour input
+is sufficient to produce a good crop. As hoeing and weeding take a large
+amount of labour time, any increase in these is particularly important in this
+respect. It is these elements that become increasingly necessary with intensi-
+fication. In addition, yields are likely to fall somewhat even with manuring.
+With plough agriculture, considerations of scale are critical - draught
+animals must be fed and sufficient beasts are required for manuring to make
+
+
+                                          74
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:06:41 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+                    FOR   LATER     PREHISTORIC        EUROPE
+
+
+cultivation profitable. In consequence of these, one of the corollaries of
+intensification is an actual fall in output per man hour. Since labour is in any
+case low in extensive systems, this is still a possibility, but intensification
+does imply longer working hours if output is to be increased. Intensification
+is thus not likely to be undertaken except in a situation where the popu-
+lation cannot be supported by existing systems of cultivation and until other
+possibilities have been exhausted - or would themselves involve a com-
+parable increase in effort.
+    Boserup's scheme is artificial to the extent that it neglects local soil
+variation and presents only an economic analysis of the factors involved in
+intensification. In the analysis of the agricultural development of a specific
+area, the range of available land types and their distribution must be an
+important element. The soils determine the degree to which intensification
+can proceed with a pre-industrial technology without causing permanent
+damage. Many tropical soils are easily overcropped, and in consequence the
+widespread occurrence of extensive systems can be seen in part as due to
+this. In other areas, however, extensive systems occur on land that would
+sustain a shorter fallow period: here land is simply abundant in relation to
+population and there is no need for a system involving higher labour input.
+    On the basis of African evidence, Allan (1965) has produced a sixfold
+land classification based on the ratio of crop time to fallow time. Although
+based on the use of the soils, for the long-settled agricultural areas there is
+a strong correlation between this and inherent fertility characteristics. An
+important distinction can be drawn, for example, between permanent
+cultivation soils, and others that require a longer fallow period. The latter
+range through semi-permanent cultivation, recurrent cultivation, shifting
+cultivation, and partial cultivation to wholly uncultivable soils, requiring
+progressively longer fallow periods. Although Boserup's model does not
+admit the existence of ceilings determined by soil type, it is clear that with a
+pre-industrial technology they must exist. Certainly the more fertile areas
+could formerly have been cultivated on an extensive system: but as popu-
+lation grew, intensification proceeded only as far as the nature of the soil
+allowed without artificial fertilisers.
+   With a small initial population, the richest soils will be settled first,
+especially permanent cultivation soils if they are available. The growth of
+population leads to the spread of settlement to poorer and more difficult
+soils, first on an extensive basis and then on to as intensive a system as the
+soil will permit. As the good soils are filled up, a choice will open as to
+whether local intensification or extension of the margin of cultivation is
+more attractive. This depends on the character and availability of the
+remaining land - whether it is only slightly less fertile than that already
+cultivated, or much poorer - and thus on the relative cost-effectiveness of
+the two possibilities.1
+   The interrelatedness of different aspects of production introduces
+
+                                        75
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:06:41 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+            SOCIO-ECONOMIC          AND    DEMOGRAPHIC                MODELS
+
+
+                                                                                                FRUIT
+
+                                                             HEATH                             "| KUTS |
+                                                            PASTURE
+                                                            COMMONS
+
+
+
+
+                                                                                                VINES
+
+                                                         STUBBLE GRAZING
+                                                         (CLEAN FALLOWS)
+
+                                                     _ _ J LIGHT JPLOUGH)
+                                                     MANURING OF ARABLE, FRUITS i
+                                                                                               U
+                                                                        |    VINES
+                                                                          ARABLE PR<
+
+                                                                        nr
+                                                                        SEED FOR CONSUMPTION
+                                                                         JL
+
+                                               Hnrrr                  CARBOHYDRATES
+
+
+                                                      CLOTHING   J
+                                                              PROTEIN
+
+
+
+2.1 Diagram of the relationships between (a) north European and (b)
+Mediterranean agrarian systems in the medieval period. In the former (here
+diagrammed as a two-course rotation), arable and pastoral elements are closely
+interlinked; in the latter they have greater independence (after C. T. Smith).
+constraints on the range of possibilities for expansion. A series of well-
+documented examples is provided by the farming systems of medieval
+Europe (see especially Slicher van Bath 1963, 9-18; Smith 1967,191-256).
+In an intensive system of north European kind, where manure is utilised and
+the animals are overwintered largely on special crops and by products of
+cereal farming (stubble, chaff, etc.), the animal component has to be ex-
+tended at the same time as the cereal element, and the balance between the
+two is closely defined. The network of rights over stubble grazing was there-
+fore an important element in assuring maximum utilisation of animal
+fodder. Figure 2.1a shows the connections between various parts of the
+system. By contrast, the Mediterranean areas of Europe are characterised by
+a system where different elements could be developed independently; large
+areas of upland unsuitable for cereal growing encouraged the use of trans-
+humance, while some lowland areas provided suitable places for fruit grow-
+ing, often with small-scale irrigation (see Figures 2.1b, 2.2).
+   For a given set of resources, and techniques for cropping them, there are
+optimum sizes and locations for settlement units. Regularities in settlement
+pattern represent the end result of decisions based on the need to minimise
+unproductive travelling time and the costs of bulk transport; thus locational
+decisions can be modelled in the same way as decisions on crop strategy.
+As transport technology, exploitation pattern or social organisation
+changes, so the factors affecting site location will alter. Stable patterns of
+locational preference are thus valuable evidence for reconstructing these.
+   The potential for growth in a particular area and its pattern of develop-
+ment are determined in the first place by the range of soil types and their
+distribution. For the analysis of specific situations, therefore, a spatial model
+
+                                          76
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:06:41 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+                    FOR   LATER     PREHISTORIC        EUROPE
+
+
+
+
+2.2 South-east Europe showing routes used in transhumance in recent times
+(after Cvijic).
+
+is essential, and data on archaeological site locations offer one of the easiest
+methods of testing predictions derived from these. Over the last fifty years a
+great mass of data on archaeological distributions has been collected, some
+of it of outstanding quality and scholarship. Small-scale distribution maps
+were not greatly used by Childe, and it is this lack of contact with the
+pattern of prehistoric settlement 'on the ground', in a regional setting, that
+is the root of the inadequacy of much of his models today. It is not neces-
+sarily possible, however, to compare one kind of distribution map with
+another, especially when maps of different periods may be constructed in
+terms of different features - settlement sites, burials, stray finds of various
+types, etc. What must be compared are the inferred systems of land use
+deduced from various kinds of map, in conjunction with the analysis of food
+remains from settlement sites.
+
+
+T H E CHARACTER OF EARLY NEOLITHIC SETTLEMENT
+The change to an economy based on planted cereals and pulses and the
+adjustment of complementary exploitation and settlement patterns, despite
+the slowness with which the various elements of this strategy were
+
+                                         77
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:06:41 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+            SOCIO-ECONOMIC         AND    DEMOGRAPHIC          MODELS
+
+
+integrated, marks a significant transition to new patterns of demographic
+and economic growth for which Childe's description of a 'Neolithic
+Revolution' is not inappropriate. In Europe particularly, the introduction of
+new plant staples produced a sharply defined economic shift in areas of high
+agricultural potential, even though this had no immediate effect in areas
+where the exploitation of animal populations continued to be superior to
+primitive farming.
+   The restricted range of environments suitable for early farming systems
+has not been sufficiently emphasised in discussions of the spread of agri-
+culture, and in particular the significance of soil fertility and moisture
+content in determining the pattern of occupation. Although the striking
+correlation between Neolithic settlement and loess soils in central Europe
+has been the subject of comment since Buttler, this phenomenon of close
+association with particular soil types is not limited to the Danube region
+but is a general feature of the initial agricultural colonisation of Europe.
+A characteristic of early cereal assemblages from Neolithic sites in the Near
+East is the presence of seeds of Scirpus, indicating a very moist immediate
+environment for cereal cultivation. This evidence is supported by the strong
+pattern of association between early village sites and permanent cultivation
+soils near springs, and especially near the backswamps of large lakes or the
+fringes of old lake basins (cf. Allan 1970). This strongly suggests that an
+economic yield from cereal cultivation was generally possible only where
+a sufficient area of such soils was available, and that the recent geological
+history of the relevant areas should provide significant predictions about the
+kinds of area where early Neolithic sites are likely to be found.
+   Central Turkey and the areas of historic Macedonia and Thrace form an
+ancient crystalline massif against which later sedimentary rocks were in-
+tensively folded during the Tertiary mountain building phase, forming
+chains to the north and south of the original massif. The downfaulted areas
+of this were for a time occupied by arms of the sea, during which shallow
+water limestones were deposited in the Tertiary period. The inland basins
+were then cut off from the sea by further uplifting, and became freshwater
+lakes - or in some cases saltwater lakes in the case of internal drainage
+basins, e.g. Tuzgolii in central Anatolia. The levels of these lakes seem to
+have fluctuated considerably in the course of the Pleistocene, related to
+changes in temperature and humidity. In general the rise in temperature
+during interglacial phases would have increased evaporation (Butzer 1970),
+and a postglacial recession of lake levels has been documented in Anatolia
+(Cohen and Erol 1969; Cohen 1970) and in the Dead Sea Rift (Vita-Finzi
+1969). Similar phenomena are likely to have occurred in the large flat basins
+of Thessaly and central Bulgaria, and in a multitude of small lakes in the
+Balkans and Anatolia.
+   The relationship between the areas of fine alluvium and backswamp soils
+produced by the Late Glacial recession in lake levels, and the pattern of early
+
+                                         78
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:06:41 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+                           FOR   LATER        PREHISTORIC             EUROPE
+
+
+
+
+       & 9 S < 1 Terrace     [ [ [ \ \ Marl               Upland      [ g T
+
+                       Backswamp              Sandridge   I" ' .' •
+
+2.3 The distribution of known prehistoric sites in the Cumra region of south-
+central Turkey (between Konya and Karaman), after field-survey by Dr D. H.
+French (1970), with soil boundaries after Driessen and de Meester: (a) seventh
+millennium BC; (b) sixth millennium BC; (c) fifth millennium BC; (d) fourth
+millennium BC [from Sherratt 1973, with dates corrected],
+
+settlement, has so far been intensively investigated only in Anatolia (Cohen
+1970; French 1970). In the Konya plain, Neolithic settlement seems to be
+closely associated with backswamp soils, which, unlike the other soil types
+also associated with the receding lake such as marls, are not subject to
+strong seasonal desiccation. Although located for access to such backswamp
+soils, the settlements themselves are typically sited on the edges of alluvial
+fans which provide raised areas less liable to be flooded. The site of £atal
+Hiiyiik, for example, occupies a highly favourable position on a spur where
+the fan seems to have broken through a sandspit representing an old shore-
+line, and the site has ready access to backswamp soils on three sides (Figure
+2.3, top left).
+   One piece of evidence which suggests that such areas were strongly pre-
+ferred in spite of other disadvantages is the apparent incidence of malaria,
+for example at £atal Hiiyiik and at Nea Nikomedia in a low-lying part of
+Greek Macedonia. Angel (1968) has suggested that the incidence of porotic
+hyperostosis in skeletal material from these two sites is associated with a
+form of anaemia conferring resistance to this disease. Certainly the tectonic
+basins of Macedonia occupied by the remnants of Pleistocene lakes were
+until recently highly malarial, as the French and British forces discovered in
+1916-18 (see Naval Intelligence Handbooks: Greece, vol. I, 272).
+
+                                                    79
+
+
+
+
+                      This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:06:41 UTC
+                                       All use subject to https://about.jstor.org/terms
+
+            SOCIO-ECONOMIC          AND   DEMOGRAPHIC          MODELS
+
+
+    TWO basic reasons lie behind this pattern of land occupation. First,
+with low population densities, the model put forward in previous sections
+suggests that there would be a strong selection for permanent cultivation
+soils, and that excess population would move to other areas of similarly
+high-yielding soil before tackling poorer-quality land or changing to a more
+intensive system of exploitation. Secondly, in dry Mediterranean climates
+frequent ploughing of land is necessary to prevent run-off and to encourage
+moisture absorption in order to produce an adequate crop on land where
+groundwater is not near to the surface (Clark 1952,100; Stevens 1966, 93).
+It is most unlikely that the earliest agricultural communities in the Near East
+and south-east Europe used the plough, in view of Boserup's arguments
+summarised above. Instead, the initial stage of agricultural development
+seems to be characterised by a pattern of rapid spread with relatively low
+population densities, settlement systems being restricted to small areas of
+land of high agricultural potential, with specialised satellites.
+    This pattern of settlement has important implications for reconstructions
+of the types of social regulation and mechanisms for the distribution of
+goods, as well as being the unstable initial state of a system with great
+potential for change.
+
+
+INTERNAL EXPANSION IN ENEOLITHIC AND
+B R O N Z E A G E EUROPE
+While there was still an adjacent expanding frontier allowing surplus popu-
+lation to emigrate, population levels in a given area would have remained
+low. In south-east Europe the association of settlement with marshy areas
+and the consequent prevalence of malaria would in any case have checked
+growth to some extent. However, over a long time the build-up of popu-
+lation continued, and resulted in changes in economy, settlement pattern
+and social structure.
+    Of particular significance is the point at which permanent settlement
+began to be extended beyond the range of soils typical of the initial
+settlement of the area. In the Konya plain third-millennium settlements are
+found for the first time, in any number, on the drier terraces above the plain;
+doubling the number of sites known from the previous millennium. In the
+Balkans a shift in the preferred location of settlement occurs, typified by
+sites on defended promontories on the edge of the basins. In Czechoslo-
+vakia, similar hilltop settlements are found extending up the valleys from
+the fertile Bohemian 'heartland'. In the north European plain, settlement
+extends onto the sandy heathlands previously avoided.2 These movements
+are not closely synchronous even within individual regions, but they repre-
+sent critical points in a common process at work over the whole area.
+    The process of agricultural expansion carried with it implications for
+social organisation. One aspect of this was the competition for colonisable
+
+                                          80
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:06:41 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+                    FOR   LATER     PREHISTORIC        EUROPE
+
+
+land distributed between the existing centres of population, reflected both in
+the selection of defensive locations and the development of effective metal
+weapons as opposed to small copper knives. Another was the occupation of
+a more diverse range of environments than the initial optimal ones, and the
+increased necessity for the redistribution of basic products. Even though
+some of the forested sandy soils taken into cultivation would originally have
+carried brown earths suitable for cereal cultivation, the agricultural use of
+these would rapidly encourage podsolisation and reduce their value as
+arable. In this situation redistributive centres, even if only seasonal markets
+or fairs under the auspices or protection of a local chief, would take on
+increasing significance. The role of metal, increasingly a strategic raw
+material, would in these circumstances have been important in securing low-
+land cereal products, while the emergence of distributional centres and local
+chieftains made possible the exchange of specialised materials and objects
+between centres. In a similar way textiles - evidenced from the increased
+numbers and size of sheep in the Bronze Age of south-east Europe and from
+the appearance of loom weights and fittings - would have been an important
+medium of exchange.
+
+URBANISATION AND ECONOMIC GROWTH
+In Neolithic and Bronze Age Europe, the relationship between population
+and food supply can be expressed schematically as in Figure 2.3a (although
+the actual course of the curve will of course be far from regular). The culti-
+vated area increases as population grows, and production rises with it. Year-
+to-year fluctuations produce a temporary surplus in good years: this is the
+normal surplus of subsistence agriculture (Figure 2.3b; cf. Allan 1965).
+There is little or no large-scale distribution of food over any distance, since
+all sites are growing similar crops.
+    By the later fourth millennium, however, certain communities in the Near
+East had initiated a new pattern of exchanges between regions, notably
+between the alluvial river-basins and their hinterlands. Such institution-
+alised exchange introduced a new factor of production for manufacture. A
+system involving urbanism necessitates the production of a standard surplus
+(Figure 2.4a) by means of additional labour input, in which one region
+exports specialised manufactured products (often textiles) in return for
+grain and raw materials. Since the increase in grain production requires
+considerable additional labour input, it is likely that some element of co-
+ercion is needed to initiate an exchange system of this kind, even though the
+system may then be maintained by local elites - the main consumers of
+luxury products (Figure 2.5). The process of demographic and economic
+expansion thus has sociological implications which are essential to the
+general problem of growth, and particularly to the question of regulation of
+production and exchange. As the maintenance of an agriculturally non-
+
+
+                                        81
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:06:41 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+            SOCIO-ECONOMIC         AND    DEMOGRAPHIC          MODELS
+
+
+                                food
+                               SUPPLY
+
+
+
+
+2.4 Surplus as the relationship between population and food supply: (a) the
+normal surplus - the fluctuating yearly excess over subsistence requirements,
+and (b) the standard surplus, a regularly achieved production for exchange,
+requiring additional labour input.
+
+productive class requires more work from those directly involved in agri-
+culture, the development of social stratification can be seen as one of a range
+of increasingly high-cost solutions to the problem of supporting further
+growth, and the rarity of such systems in the course of human development
+is therefore scarcely surprising.
+    A true urban system, in which the central places are also centres of
+population and have facilities for continuous storage and manufacturing,
+is typical of state organisation with bulk interregional exchange. The actual
+size of such 'cities', however, is a local problem, depending on the con-
+centration of agricultural population. Where only a small agricultural
+community is resident, these may more aptly be described as palace or
+ceremonial centres. In Mesopotamia, by contrast, such centres seem often to
+have been surrounded by a zone empty of villages (Adams 1970), implying
+that the land was worked by labour from the city, and the difference in size
+between central and non-central places is largely related to settlement
+
+                                         82
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:06:41 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+                    FOR   LATER    PREHISTORIC         EUROPE
+
+
+Political                                 Politically administered external trade
+centre —
+(king)                                                  with foreigners
+Elite
+
+
+
+Villages                                                External trade a t the local
+or tribal •
+segments                                                 level: I market or gift trad'e
+
+2.5 Socio-economic transactions in the primitive economy, within a centralised
+system of political authority (from Dalton 1969).
+
+nucleation and concentration of population for defence. In other environ-
+ments, however, this may not be a rational pattern of population distri-
+bution. The true 'urban' functions of such sites are represented by the
+magazines, storage areas, administrative and religious 'core', and specialist
+manufacturing workshops. (The existence of a network of small 'market
+towns' is related to the degree to which the villages themselves consume
+specialist products, and such forms may be typical of a later phase either
+than fairs or urban centres as defined above.)
+   With the development of social differentiation and centres of power, new
+phenomena emerge as it becomes possible for innovations to appeal to
+sectional interests and emerging elites. Even more striking are the results of
+changes in the communication infrastructure of societies with a need to find
+external markets and sources of supply. With the growing disparity between
+'advanced' and 'underdeveloped' countries, centre/periphery diffusion
+systems (Schon 1971, ch. 4) become increasingly common and the scale of
+their effects becomes increasingly wide. Even so, however, such effects are
+largely limited to the areas in which they have a direct economic interest,
+and large areas - even adjacent to the colonising country - may remain
+relatively uninfluenced if they are outside this sphere of interest. The state
+seems to be closely related to the degree in which long-distance bulk
+exchange of products is critical to the functioning of the economy, and
+typically state organisation begins at nodal points and extends along the
+routes of trade (cf. Morton-Williams 1969). Historical geographers (e.g.
+Deutsch 1953; East 1968; Whittlesey 1944) have elaborated models of the
+genesis of states, which are in fact applicable, with modification, to less
+centralised systems.3 State systems exist to cope with large-scale flows of
+products; thus phenomena of this kind seem to be behind the growth of
+large oppida in southern Britain in the later pre-Roman Iron Age with the
+exports recorded by Strabo, a process of local development stimulated by,
+and progressively amalgamated into, the formal network of an expanding
+empire. This example illustrates the 'multiplier effect' (Hamilton 1967), by
+which nodal areas propagate their organisation outwards.
+
+
+                                        83
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:06:41 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+              SOCIO-ECONOMIC            AND    DEMOGRAPHIC           MODELS
+
+
+CONCLUSION
+The arguments set out in this paper are intended as much to indicate the
+range of evidence that must be considered in interpreting prehistoric cultural
+development as to advocate the use of specific models. Without an under-
+lying framework of assumptions about the role of factors such as population
+growth, there is no possibility of relating different aspects of prehistoric
+culture to each other and producing a convincing explanation for the
+contrasts in development between different areas. Only with this framework
+in mind can relevant models be selected for specific problems.
+
+
+NOTES
+
+1. Many of the types of choice made by subsistence farmers in assessing the cost-effectiveness
+   of various types of exploitation are conveniently expressed as programming models (e.g.
+   linear programming, integer programming, etc.). These are techniques for finding the
+   optimum allocation of labour on different resources with different degrees of productivity
+   to give a maximum yield, and they make it possible to work out mathematically a solution
+   found in practice only by trial and error (Joy 1967).
+2. Most useful here is Mathiassen's careful study (1948) of the distribution of prehistoric
+   finds in Jutland. The comparison of evidence from different classes of objects and
+   monuments produces an interesting and highly significant pattern related to the three
+   major facies of the Riss and Wiirm moraine landscape - hill sand, heath sand and clay.
+   At the risk of oversimplification, it is almost possible to see a reflection of Thomsen's
+   Three Age System* in the successive occupation phases of these soil types: Neolithic
+   settlement is concentrated largely on the more fertile hill sand; the late Neolithic Corded
+   Ware period sees the occupation of the poorer heath sand areas, and this pattern persists
+   until the occupation of clay areas in Iron Age times.
+3. Useful here is the distinction used by human geographers concerned with the genesis of
+   states (e.g. East 1968) between 'core' and 'peripheral' areas.
+
+
+
+
+                                              84
+
+
+
+
+                     This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:06:41 UTC
+                                      All use subject to https://about.jstor.org/terms
+
+                                              3
+          Water, Soil and Seasonality
+          in Early Cereal Cultivation
+                                     '     (1980)
+
+T h e purpose of this paper is to review current ideas of agricultural develop-
+ment in the sub-tropical and temperate parts of the western Old World and
+to suggest that the small scale and restricted extent of early cultivation
+systems gave them a unique character which has not been generally appreci-
+ated. Recent studies of prehistoric settlement in the western Old World have
+shown the basic role of soil moisture in early cultivation, and the association
+of such sites with riverine and springside locations. The beginning of such a
+cropping system marked a significant departure from earlier forms of cereal
+exploitation in the natural habitat zone, and may have involved a difference
+in growth cycle from that of the wild forms. The kind of cultivation which
+can be reconstructed as the earliest stage of agriculture is best described as
+a form of fixed plot horticulture dependent on ground- and surface-water,
+which differentiated in succeeding millennia into various forms of dry
+farming and irrigation agriculture. The former path involved the develop-
+ment of cultivation techniques suitable for interfluvial areas, including
+plough cultivation and swiddening; while the latter involved increasing
+degrees of water management to enlarge the area suitable for intensive
+cultivation.
+   Because the evidence for early cultivation systems is so varied in character
+
+The ideas of the previous chapter suggested that early farming, usually thought
+of as shifting cultivation, had been fundamentally misunderstood. This paper -
+written by invitation for a World Archaeology special volume on water manage-
+ment - was an attempt to outline a systematic alternative: that agriculture had
+begun as a transition from wild cereal populations to floodplain cultivation, and
+that such horticulture was the primary form of farming. It was actually written
+after Chapter 6, though published before it - in the same year as the Cambridge
+Encyclopedia of Archaeology, where I used its conclusions in my chapters. It was
+fuelled by comments from Jim Lewthwaite, Neil Roberts, Joan Oates and David
+HartW. ;
+
+
+                                             85
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:07:49 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                      WATER,       SOIL    AND      SEASONALITY
+
+
+and the arguments often speculative, three aspects will be considered
+separately rather than treated in strict chronological or regional order. After
+a short discussion of current schemes of agricultural development, the
+problem is approached first from the settlement evidence, and then from the
+viewpoint of crop ecology, before discussing the development of methods of
+water-management. The final section sets these observations in a wider
+context.
+
+
+T H E CHARACTER OF EARLY CULTIVATION SYSTEMS
+Recent discussions of agricultural development, notably those of Boserup
+(1965), Wolf (1966) and Sanders and Price (1968), have stressed the tran-
+sition from extensive to intensive forms of land-use. A major theme of this
+analysis is the move from long-fallow systems, often involving 'slash-and-
+burn' or swidden farming, to more intensive cultivation with shorter fallows
+made possible by labour-intensive techniques such as manuring and irri-
+gation. Such transitions have been studied notably in south-east Asia
+(Geertz 1963) and in tropical Africa (Allan 1965). In applying these ideas to
+archaeological material, swiddening has usually been seen as the 'primeval'
+system, and assumed to be typical of the earliest farming groups. This idea
+has a long history in Europe, where early Neolithic groups have often been
+assumed to be 'slash-and-burn' cultivators (e.g. Clark 1952, 93). Yet the
+very fact that swiddening is still widespread in many areas and was only
+superseded in other areas in historical times should itself argue caution in
+using this as a model for the systems which were in existence six thousand
+years before.
+    A further argument against seeing swidden cultivation as a feature of
+great antiquity, especially in temperate environments, is its restriction in
+recent times to the most marginal European habitats, usually under conifer-
+ous forest. Its use is known mainly from the Boreal forest areas, for instance
+in Finland (Sigaut 1975), or else from upland areas of coniferous forest in
+central Europe such as the Carpathians (Lewicka 1972). In these areas it
+occurs on soils so marginal that they were not cultivated before the Middle
+Ages, as can be seen from the distribution of Late-Medieval clearance-names
+(Smith 1967, 133). It could plausibly be argued, therefore, that far from
+being a 'primeval' agrarian system, swidden agriculture was a characteristic
+of the most recent phase of the internal colonisation of Europe, when settle-
+ment spread to the least fertile soils which could not withstand any other
+form of cultivation.
+    While this phase may be more significant in the tropics, where low-
+quality soils form a greater proportion of the landscape, the same arguments
+apply: it is likely that the starting point of the Boserup scheme represents an
+already developed system of cultivation which is no model for the earliest
+farming systems.
+
+                                             86
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:07:49 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                       IN   EARLY     CEREAL        CULTIVATION
+
+
+INFERENCE FROM PREHISTORIC SETTLEMENT PATTERNS
+
+The above arguments receive further support from examination of the
+archaeological evidence. The most striking feature of early farming settle-
+ment is its restricted distribution. By comparison with the proportion of the
+landscape under cultivation today, only a small fraction was used by early
+agriculturalists. In the Near East this proportion has grown much larger
+by the third millennium BC; but in Europe it did not attain anything like its
+present spread until the first millennium BC or even the Christian era, and
+the process of infilling continued well into the Middle Ages.
+   Not only was the distribution of sites in the earlier phases restricted, it
+was highly selective; and there are consistent patterns of association with
+certain environments and situations. Alluvial, lake-edge and other locations
+with high groundwater are characteristic of the Neolithic both in the near
+East and in southern Europe (Allan 1972; Sherratt 1973).
+   In the earliest stage of farming villages, many important sites like Jericho
+and Mureybit fall outside the zone of possible dry-farming altogether.
+Indeed, when evidence of cereal crops was first found at these sites it was
+commonly assumed that the grain must have been traded from better-
+watered hill-country nearby, or else that the climate must have undergone
+radical alteration. What all such sites possess, however, are abundant
+supplies of localised surface- or ground-water, such as the seepage area and
+spring of Ain es Sultan at Jericho or the seasonal wadis and perennially
+damp Euphrates floodplain at Mureybit. Similar observations apply to
+the more developed phase represented at Beidha, Tell Abu Hureyra and
+Bouqras, where local concentrations of surface-water permitted a limited
+cultivation on suitable fine-grained alluvial soils, especially at wadi-mouths.
+   The late glacial fall in lake-levels provided suitable terrain on the former
+lake-margins in many parts of the east Mediterranean. In Anatolia, the
+earlier Neolithic sites of the Konya Plain, including £atal Hiiyiik, cluster in
+the backswamp region where rivers spread out in the otherwise arid plain;
+while further west the fluctuating lakes in the upland basins of Pisdia are
+ringed with sites like Hacilar and Suberde. Early sites in Greece and the
+Balkans are concentrated in areas of high water-table in the tectonic basins,
+either by springs at the valley-edge, by stream confluences, or on lower
+terraces by rivers and seasonally-enlarged lakes. In central Europe, early
+agricultural settlements occur on levees in the Middle Danube and Tisza
+floodplains, and by rivers and streams within the loess area. All of these
+locations give access to hydromorphic soils, and avoid the drier interfluves.
+Contrary to expectations generated by the model of 'shifting cultivation',
+such sites are usually long-lived, lasting for hundreds or even thousands of
+years in some cases. This is as true for Bandkeramik sites in north-west and
+central Europe as it is for the early tells of the Near East. Moreover, they
+often represent surprisingly large communities; sites like Jericho and C^atal
+
+                                             87
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:07:49 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                       WATER,       SOIL    AND     SEASONALITY
+
+
+Hiiyiik are only the most spectacular examples of a general phenomenon.
+Clusters of agricultural settlement were often widely scattered, but within
+them population was locally concentrated around critical resources such as
+fine-grained, well-watered soils.
+   The implication of all this is that early agriculturalists occupied only a
+narrow zone of maximum productivity, in an essentially small-scale though
+locally intensive system of cultivation. In places this was capable of support-
+ing nucleated communities, though in others produced a pattern of hamlets
+following the exploited zone. This zone of high water-table was of import-
+ance not only for cereal-growing but for a variety of resources, including
+water itself, fish and freshwater mussels, and the range of plant and animal
+species characteristic of the unusual conditions of the alluvium - in the Near
+East the game and exploitable perennials of wet conditions, and in Europe
+the species which could flourish only in the more open conditions where the
+Atlantic forests were interrupted by wet ground (Clarke 1976). In a sense,
+therefore, 'Mesolithic' and 'Neolithic' adaptations were parallel rather than
+successive: the main difference was the possibilities of expansion inherent in
+systems using cereals (Sherratt 1972, 491).
+   The characteristics of initial farming systems in Europe are best
+demonstrated by comparison with the patterns which emerged in succeeding
+millennia. The results of intensive regional surveys indicate the major
+changes which took place in the fourth and third millennia BC. A classic
+study of this kind is the work of Janusz Kruk and his associates in the loess-
+covered uplands of Little Poland (Kruk 1973). Here the restricted catch-
+ments of early Neolithic sites in the river valleys are a clear indication of the
+focus of interest in this zone, in striking contrast to the pattern which
+succeeded it in the later fourth and third millennia BC. Kruk notes the
+restriction of the earliest (early fifth millennium BC) agricultural sites to the
+lower parts of the valley slopes, immediately overlooking the floodplain -
+a pattern which continued down to the early fourth millennium, with some
+expansion to similar positions in small side-valleys. The main change
+occurred in the fourth millennium with the TRB culture, when there was
+a shift of activity to the interfluves and sites were located on higher ground
+above the valleys.
+   Kruk uses these regularities to reconstruct the economy of the initial
+settlers (255): 'Because of the limited size of the zone where the activities of
+the Danubian [fifth millennium BC] people were concentrated, the regular
+use of burning economy seems virtually impossible. The characteristic con-
+centration of settlements within relatively limited areas also seems to speak
+against this possibility. Any extensive use of burning as a farming system
+would involve also the interfluve ... However, the higher landscape zone was
+not systematically exploited by the Danubian people.' Instead, 'it is possible
+to assume with a fair amount of certainty that amongst the Danubian people
+the plant cultivation was closely linked with the lowest-lying parts of the
+
+
+                                             88
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:07:49 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                       IN   EARLY      CEREAL       CULTIVATION
+
+
+ground. Natural conditions of this zone, notably the considerable humidity
+of soils and their productivity, favoured near larger settlements ... were
+worked by hand ... Owing to the high and durable edaphic potential of the
+soils that covered this zone it was possible to use the same portion of land
+continuously even without fertilizing it.' Such a pattern, with its small
+amount of forest-clearance and restricted possibilities for grazing, would
+fit the lack of stone tools suitable for woodcutting and the suggestions of
+stalled livestock in these early contexts.
+    There is accumulating evidence (Chapter 6) that the late fourth and early
+third millennia BC saw the widespread introduction of the plough, and that
+the extension of cultivation and shift in the focus of settlement to the drier
+interfluves was associated with plough-cultivation, extensive clearance and
+increased quantities of livestock. Such observations can be made in most
+parts of Europe. Their significance for our present purpose, however, is to
+suggest some important characteristics of the preceding regime. A common
+feature of early agrarian systems in the western Old World is their spatial
+restriction and concentration on limited alluvial zones. Soil moisture was
+evidently a critical feature of their cultivation system, and ground-water
+as significant as rainfall in the growth of crops. Such environments,
+while limited in extent, offered unusually high productivity and allowed
+considerable continuity of cultivation and, in some areas, notable con-
+centrations of population. Such a reconstruction prompts some further
+speculations about the nature and origins of this type of cultivation.
+
+
+CEREAL SEASONALITY AND GROWING-CONDITIONS
+Wild cereals belong to the group of grasses which have adapted to strong
+seasonal stress by an annual habit and the development of food-storage in
+the seed. This allows succeeding generations to 'recolonise' seasonally bare
+habitats by rapid growth with the onset of rain. Wild wheats and barleys
+occur as members of open communities, particularly on limestone or basalt
+slopes and plateaux in the submediterranean park-forest belt. Their mech-
+anism of dispersal is a simple one, in which the spike shatters when the seeds
+are ripe and they fall to the ground near the parent plant, where the sharp
+spikelet helps implantation in cracks in the soil. The time of ripening and
+localised area of dispersal prevent them from taking advantage of otherwise
+suitable habitats, for instance on seasonally open areas of alluvium. They
+thus grow mainly on dry hillslopes during the period of winter rainfall and
+ripen around May, with some variation according to altitude (Zohary
+1969).
+   Under these dry upland conditions, their growing season is spread over
+nine months. Such a long period is not, however, a physiological necessity:
+wheat can be grown in only three months (90-100 days) in appropriate
+conditions, as it was in certain places in antiquity. Such three-month wheat
+
+                                             89
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:07:49 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                      WATER,        SOIL   AND      SEASONALITY
+
+
+is often called spring wheat, since it grows between March and May.1 The
+principal sort of wheat grown in Europe and North America at the present
+day, however, is winter wheat which is sown in the autumn and harvested
+in summer. This has a higher and more stable yield than spring wheats
+(Klages 1949, 345). In most areas of Europe this type of wheat actually
+requires exposure to cold weather (vernalisation), though this is not so in
+the Mediterranean. At the present time, spring-sown wheat with a three-
+month growing season is only grown in any quantity on the northern
+margin of cultivation where the winter climate is too harsh.
+    Spring-grown wheat was, however, known in the Ancient World in the
+Mediterranean. Semple (1932, 382) describes the hard, heavy spring wheats
+as being typical of limited areas of southern Europe, by comparison with the
+soft, light grains which were then preferred for food. 'The heavy Boeotian
+wheat was doubtless spring-sown, as it is today, on the margin of the Lake
+Copais basin as the winter floodwaters gradually receded and Lake Copais
+contracted. The rich lacustrine soil and high water-table explained the
+superior quality of the grain.' The rapid growth of this crop, which did not
+have to rely on winter rainfall, was possible in the conditions of high
+ground-water which existed in restricted areas near to bodies of water,
+especially those subject to marked seasonal changes of volume.
+    It is tempting to ask whether the system documented for the Copais basin
+is not a relic of a much more widespread method of cultivation, that was
+typical of the pre-plough agriculture of southern and eastern Europe and the
+Near East. Is this not, in fact, the surface groundwater-based cultivation-
+system inferred from the settlement evidence in the preceding section? Such
+a form of cultivation would take advantage of the short period of optimum
+water-availability between winter floods and summer desiccation, allowing
+the three months' growing in spring which is necessary for a crop. Since less
+soil preparation is needed with this system than in one using rainwater, and
+little forest-clearance would be required, this pattern would make sense with
+low population levels and a simple technology.
+    This model suggests that the critical innovation in the cultivation of
+cereals was their transfer from dry environments with a rain-fed, winter,
+growth pattern to alluvial, lake-edge, riverine or springside locations in
+which an accelerated (spring) growth cycle was possible. The wild cereals
+themselves were precluded by their simple dispersal mechanism from
+colonising such habitats without human aid. The cultivation of crops in
+damp conditions is indicated by the presence of Scirpus seeds in early cereal
+samples (Flannery 1969, 81), and such deliberate sowing in areas away from
+their natural habitats was a necessary precondition (along with the use of
+the sickle for reaping) for the selection of tough-rachis forms, since the
+naturally-dispersed forms would always predominate in self-seeded popu-
+lations. The early cultivation of cereals in such habitats was thus a quantum
+change from other forms of tending and exploitation, in that it operated in
+
+
+                                             90
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:07:49 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                       IN   EARLY     CEREAL        CULTIVATION
+
+
+effect as a new means of dispersal. It thus opened up a new range of highly
+productive habitats for the species concerned without involving the massive
+restructuring of the ecosystem which became necessary in later agriculture;
+and it involved only a change in the growing-season. A minimum of culti-
+vation, and no clearance of climax forest would have been necessary; and
+moreover this system had the potential to spread very widely beyond the
+natural habitat zone of the wild cereals, wherever such alluvial niches were
+to be found.
+   The term 'dry-farming', which is often used to describe the phase of culti-
+vation before the development of formal canal-irrigation, is thus misleading:
+indeed, in the model suggested here, 'dry' (rainfall-dependent) farming was
+a specialised development parallel to that of irrigation itself. A small-scale
+horticulture adapted to riverine and lacustrine conditions explains the
+pattern of early Neolithic distribution in which even restricted areas of fine-
+grained water-retentive soils were sought for settlement. With initially low
+population levels, the still relatively sparse settlements could be supported
+from very limited patches of suitable soil, which could sustain even quite
+large villages. Such soils tend often to be neglected at the present day be-
+cause of their small extent, their unsuitability for the cultivation of winter
+cereals, and their equally important role in providing spring grazing where
+large numbers of animals are kept and where much of the rest of the land-
+scape is under cultivation.
+   The technology which such a horticultural system would require is of the
+simplest. In most cases major forest-clearance would not be needed. The
+seed would be broadcast, and relatively little weeding would be necessary.
+Virtually no preparation of the soil would be required, which in many cases
+would hardly rank even as hoe- or digging-stick cultivation. Where soils are
+subject to winter flooding and summer desiccation, the deep cracking caused
+by drying-out would provide natural aeration and make them practically
+self-cultivating. The labour-costs would thus have been trivial by com-
+parison with later forms of agriculture, especially with the major forest-
+clearance required by interfluvial expansion in third-millennium Europe
+which is reflected in the emergence of effective axes and the widespread
+trade in stone for these tools (Sherratt 1976, 563-7). Such early horti-
+cultural systems would always have been spatially restricted, however, with
+locally high population levels but wide intervening uncultivated areas and
+with little potential for local growth without radical changes in technique.
+The main pattern of growth would be first by rapid budding-off and export
+of population, followed by expansion to smaller and smaller patches of the
+appropriate high-yielding soils within the occupied area. This is precisely the
+picture which emerges from studies such as those of Kruk (1973: see also
+Sherratt 1972, 517, 524).
+   The rapidity of early agricultural dispersal was not due to shifting culti-
+vation, but to the pattern of restricted (and often linear) habitats suitable for
+
+                                             91
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:07:49 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                       WATER,       SOIL    AND     SEASONALITY
+
+
+initial farming practices. The spread of cultivation in similar habitats would
+have allowed a dispersal through a variety of environmental zones with
+minimal adaptation. It has, for instance, been suggested (Butzer 1972, 580)
+that the penetration of inland Europe would have involved a major shift
+from winter-grown crops in the Mediterranean to spring-grown crops in the
+temperate zone. If both were essentially spring-grown, then no such radical
+change in the growth period would have been necessary, other than a slight
+adjustment in the time of sowing.
+    Developments beyond this initial stage of cultivation involved adaptation
+to drier habitats which required more soil preparation and the use of fallow-
+ing or systematic rotation. Such techniques are likely to have emerged in
+areas where forest-clearance was not necessary. One of the first major steps
+in this direction was the extensive appearance of sites on the deep brown
+soils of the moist steppes of northern Assyria in the sixth millennium BC
+(Oates 1980). Such cultivation would require extensive soil preparation
+with the hoe, a fallow of one to four years and probably the development of
+new strains of cereals as cultivation moved out of the zone of abundant
+ground- and surface-water. Rainfall-dependent growth would have necessi-
+tated a winter growing season, at least for the wheats, and it is likely that
+there was a return to the pattern of seasonality characteristic of the wild
+cereals. Such a move would favour the use of barley, as well as bread-wheat
+(Triticum aestivum) - the 'soft, light grain' which replaced the older and
+harder forms.
+    The additional labour required for soil preparation under these circum-
+stances would have given a powerful incentive to the development of new
+techniques. As cattle were common domestic animals on these lowland sites,
+it is possible that the plough came into use in this area by the fifth millen-
+nium, even though it is only definitely attested from the fourth millennium
+in southern Mesopotamia (Sherratt 1980). This could be used to pulverise
+the soil to prevent loss of moisture through capillary action (Clark 1952,
+100; Stevens 1966, 93). Only at this stage would the characteristic pattern
+of 'dry farming' have emerged. While the extension of interfluvial culti-
+vation in the Mediterranean would have required a winter growing-season,
+in temperate Europe the higher spring rainfall would have allowed the
+continuation of a spring-growth pattern (Figure 3.1). The major role played
+by barley in late Neolithic and Bronze Age agriculture argues in favour of
+a spring growing-season, as cultivation proliferated on sandy or other light
+soils which warm up rapidly in spring. The frequency of millet (Panicum
+and Setaria) in these contexts in southern Europe (Hartanyi and Novaki
+1975) also supports this suggestion. Spring-grown crops would leave a
+greater area for winter grazing, important in Bronze Age stock economies.
+    The first definite indication of winter-grown crops in northern Europe is
+the spread of spelt in the first millennium BC (Applebaum 1954, 104). By
+this time it is likely that winter varieties of the other wheat species had also
+
+                                             92
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:07:49 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                      IN   EARLY      CEREAL         CULTIVATION
+
+
+
+
+                                                             TEMPERATE            EUROPE
+
+
+                                                           THIRD AND SECOND MILLENNIUM
+
+
+                                                         spring cereals            light soils
+
+
+
+
+                                                                                   light plough
+
+
+
+
+                                                               FIRST MILLENNIUM
+
+
+                                                         winter cereals            heavier soils
+
+
+
+
+                                                                                   heavier plough
+                                    Winter growth
+                                    Spring growth
+®                                                    ©
+3.1 The seasonality of cereal-growing: (a) the spread of farming to Europe from
+the Near East and the postulated shift from spring-grown to winter-grown cereals;
+(b) growing-periods in relation to rainfall seasonality; and to flood regimes in the
+major river-valleys; (c) implications of the shift from spring- to winter-grown
+cereals in temperate Europe: an expansion of livestock-keeping (especially sheep
+for wool) was a related development [(c) added from Sherratt, 1980, unpublished].
+
+
+
+
+                                                93
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:07:49 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                      WATER,       SOIL    AND      SEASONALITY
+
+
+emerged, involving the evolution of vernalisation mechanisms. This was the
+point at which the primitive original wheats such as emmer would have been
+increasingly replaced in Europe by hexaploid species better able to with-
+stand the cold, and barley became relatively less important. Rye also became
+more common in eastern and central Europe, after a long period of sporadic
+occurrence as a weed (Jankuhn 1969, 220). Spring-grown crops cultivated
+with the ard would have survived on the northern margins where the winter
+was too harsh for the longer growth-cycle. The pressure of grazing caused
+by winter sowing could have been alleviated by the provision of hay, which
+would have been increasingly important for the keeping of livestock.
+   At this point also cultivation began to spread to heavier soils, and more
+robust and ultimately sod-turning ploughs developed (Figure 3.2). This was
+important in autumn ploughing, to form clods which would prevent the
+formation of soil-caps and pans over winter, unlike the spring ploughing
+where a fine tilth is required. The use of iron for plough-shares also pro-
+duced a more effective instrument for land-breaking, especially on clays.
+(Iron shares appeared in the Near East in the early first millennium BC, in
+central Europe at the end of the first millennium BC, and in northern Europe
+in the later first millennium AD.) A probable consequence of these changes,
+and especially (as Susan Limbrey has pointed out) the existence of open
+ploughed fields at the time of maximum winter rainfall, would have been the
+massive increase in soil erosion indicated in the extensive accumulation of
+valley alluvium in temperate Europe. The cropping-system which came into
+use at this time would be essentially the same as that already in use in the
+Mediterranean, with a two-course rotation of alternate winter crops and
+fallow. This persisted until the later first millennium AD, when it was re-
+placed in parts of temperate Europe by the three-course system in which a
+further field of spring-grown crops - oats (for horses), barley and legumes -
+was added, which suited the developing needs of animal husbandry (White
+1962, 69). The fully-developed pre-industrial agricultural system of
+northern Europe was by this stage able to sustain comparable population
+levels to the intensive, though necessarily more restricted, irrigation-based
+systems of the Near East, and it was associated with the large-scale urban-
+isation of temperate Europe.
+
+
+DEVELOPED SURFACE-WATER AGRICULTURE:
+IRRIGATION
+During the time that these developments in rain-fed farming were taking
+place in Europe, a succession of irrigation-based systems had appeared in
+various parts of the Near East. It is commonly assumed that irrigation
+represented a major departure from earlier agricultural systems, involving
+radical changes in technique. In the perspective adopted here, however, it
+can be seen as an artificial extension of the conditions which characterised
+
+                                             94
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:07:49 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                     IN   EARLY      CEREAL        CULTIVATION
+
+
+
+
+the earliest forms of cultivation. A much more continuous pattern of
+development, by small additional inputs of labour and capital, can thus be
+postulated (Figure 3.3).
+   The earliest forms of irrigation are likely to be small-scale water-
+spreading involving minimum amounts of investment in new facilities. Such
+are indeed possible in pre-agricultural contexts, as with the Owen's Valley
+Paiute who divert streams to water patches of self-propagating wild plants
+(Steward 1929). Similar practices may have been employed from the
+beginning in locations like that of Jericho. Without modifying the natural
+drainage by channels, cultivation may also make use of the sheet-flow of
+
+                                            95
+
+
+
+
+                              This content downloaded from
+            128.122.149.9 on Thu, 27 Aug 2020 06:07:49 UTC
+                      All use subject to https://about.jstor.org/terms
+
+                       WATER,      SOIL    AND      SEASONALITY
+
+
+
+
+3.3 The differentiation of Old World farming systems: from simple floodwater
+farming to plough agriculture and irrigation.
+
+
+floodwaters. This system provided the basis of agriculture among some
+groups of Pueblo Indians of the south-west of the United States, where the
+rainfall is too slight to grow crops. As water seasonally overflows from high
+ground, however, cultivation is possible either at the sides of valleys below
+escarpments or on alluvial fans at the mouths of gullies (arroyos), or else on
+the valley floor itself where streams overflow their floodplains (Bryan 1929,
+445). Such floodwater farming supported communities of the Hopi and
+neighbouring Indian groups, and was a determining factor in the location of
+such villages, which might have a population of several hundred. This
+method of cultivation, however, requires undissected valley-floors and is
+very vulnerable to gullying in periods of stream-incision (Cooke and Reeves
+1976). Vita-Finzi has suggested that suitable conditions for this kind of
+cultivation obtained in parts of Jordan in the early Holocene during the
+deposition of the Hasa formation (1969, 32).
+   The earliest demonstrated examples of channel-irrigation in the Near
+East are related to the braided streams which flow down alluvial fans on the
+margins of the semi-arid basins. Cutting transverse trenches to carry the
+water to a wider area is a simple but effective way of using the gradient to
+maintain an adequate supply to the fields, either from floodwater or peren-
+nial flow. Such a system has been documented at Choga Mami near Mandali
+in Iraq and dated to the Samarran culture in the sixth millennium BC (Oates
+and Oates 1976). This form of irrigation is typical of the Early Chalcolithic
+
+                                             96
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:07:49 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                       IN   EARLY     CEREAL        CULTIVATION
+
+
+period in the Near East, when it was also employed on the fringes of the
+Zagros and of the Kopet Dagh in Turkmenia. In the latter area it sustained
+the settlements of the Geoksyur culture (Lisitslna 1969). It may also have
+been used in Anatolia at this time, for instance at sites in comparable
+positions in the Konya plain (French 1970; Sherratt 1973).
+    This system is well adapted to the margins of lowland areas fed by
+streams from nearby better-watered mountains. Similar techniques may
+have been employed in other areas of low rainfall such as southern Spain
+by the third millennium BC (Schiile 1967). They are, however, vulnerable to
+erosion producing channel incision and gully formation. Major extensions
+of the cultivated area by these methods, moreover, are difficult to obtain and
+require more complex engineering and higher investment. The system of
+underground channels or qanats in Iran and adjacent areas (e.g. the falaj
+system of Oman) carrying ground-water from valley-edge fans, represents
+a further attempt to extend these types of water-sources from the first
+millennium BC onwards (Stronach 1980).
+    In more marginal environments it was sometimes possible to make use of
+ephemeral run-off and wadi-flow by the use of dams or small channels. In
+Baluchistan and southern Arabia, where brief periods of stream-flow result
+from melting snow in the mountains, the water and fertile suspended silts
+were trapped by boulder-walls (gabarbands) across narrow valleys to allow
+the growth of a spring wheat-crop (Raikes 1965; Leshnik 1973, 67). A
+somewhat more sophisticated channel-based system dating to the fifth
+millennium BC has been found in association with the major Late Chalco-
+lithic settlement at Jawa in the basalt region in the arid zone of Jordan
+(Roberts 1977). Here, three systems of channels were used to tap the short-
+lived winter surplus, both by gravity flow from the main wadi and by
+collecting local runoff, and these were used to supply both fields and
+cisterns. Comparable systems supported the Bronze Age towns of Palestine,
+and highly sophisticated methods for utilising runoff were developed in
+the Levant and western Arabia in the first millennium BC (Evenari et al.
+1971).
+    The greatest opportunities for the extension of cultivation by irrigation,
+however, lay in riverine environments, especially the major alluvial valleys
+situated in arid plains but fed by exotic water, like those of the Tigris/
+Euphrates, Indus and Nile. Despite the environmental similarities of these
+three basins and the hydraulic civilisations which they produced, however,
+there are significant differences between them. Most important is the timing
+of their flood-periods (Figure 3.1). The Indus and Nile both have an
+essentially autumn inundation, allowing crops to be sown as the waters
+retreat in time for a winter growing-season, but the Tigris and Euphrates are
+characterised by inconvenient spring floods.
+    In the Indus basin, on the south-eastern edge of the distribution of the
+west Asiatic cereals, crops such as wheat and barley with a winter/spring
+
+                                             97
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:07:49 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                      WATER,       SOIL    AND      SEASONALITY
+
+
+growth cycle (rabi crops) could be grown in the dry winter season only
+in low-lying areas where they could make use of residual soil moisture
+from the autumn flood and monsoonal rains (Lambrick 1964, 75). Alluvial
+silts along the rivers thus provided the basis for Harappan agriculture.
+Cultivable land could be easily extended by simple methods of inundation
+irrigation (sailaba), especially along inlets and creeks or on the inner sides
+of river-meanders (Leshnik 1973, 73). 'Thus the whole operation involves
+an absolute minimum of skill, labour and aid of implements' (Lambrick
+1964, 76), and this limited but productive land could support the develop-
+ment of Harappan cities even before the introduction of the complementary
+summer/autumn (kharif) crops such as sorghum.
+    The Nile, flowing in a more narrowly-defined trench, allowed cultivation
+of the flood-deposited silts in a series of basins formed by old levees, in
+which the autumn floods provided natural irrigation for cereals sown as the
+waters receded by November (Butzer 1976). Simple techniques for retaining
+the water and increasing the watered area were in use by the third
+millennium BC, involving the breaching of levees and the canalisation of
+floodwater by digging overflow channels and constructing dikes. The proto-
+dynastic 'King Scorpion' macehead shows a ritual scene of this kind (p. 67).
+More labour-intensive methods of actually raising water from its lower,
+summer levels began by the mid-second millennium with the use of the
+shaduf (pole and bucket lever), and larger-scale operations were only
+initiated in the later first millennium BC. In consequence, summer-grown
+crops were not cultivated before the second or first millennium.
+    The growth of irrigation systems in the Mesopotamian lowlands has been
+extensively investigated in recent years (Adams 1974; Gibson 1974; Oates
+and Oates 1976). The Tigris and Euphrates differ from the Nile and Indus
+in that their floods, related to snow-melt in the mountains, occur towards
+the end of the winter growing-season, in April and May. It was thus the
+perennial flow which was most useful, with floodwater often presenting a
+problem of dispersal: what started as irrigation had to continue as drainage
+and crop-protection. Because the rivers deposit large quantities of silt and
+build up high levees, they actually run above the level of the surrounding
+plain. It is a relatively simple matter to spread water through breaches in
+these levees; though this water had then to be dispersed through a system of
+anastomosing channels. Early settlement 'followed the numerous small,
+meandering stream distributaries found on any unmodified alluvial plain.
+Lengthy, branching canal networks are not in evidence, and cultivation
+seemingly was confined to narrow bands along natural levee backslopes and
+to favourably situated margins of seasonally filled depressions' (Adams
+ 1974, 2). Mesopotamian irrigation was an extensive system in the sense
+that it required an alternate fallow to restore the water-table and prevent
+salination, and that there was more potentially irrigable land than could
+ easily be managed without major investment in flood-control. Indeed, the
+
+
+                                             98
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:07:49 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                       IN   EARLY     CEREAL        CULTIVATION
+
+
+onset of local salination forced periodic shifts. The fallow and intervening
+areas allowed a symbiotic pastoralism which was essential to a full ex-
+ploitation of the region.
+    These observations apply to lower Mesopotamia - the 'River Plain' of
+Buringh (1957). The development of irrigation on the Assyrian Steppe was
+a later feature, because the entrenched character of the rivers necessitated
+the use of lifting-devices rather than a simple use of gravity-flow. The shaduf
+(used in lower Mesopotamia for watering the levees) was one answer to this
+problem, and it was in use by the early-second millennium BC (Drower
+1954), though only in a limited area adjacent to the major rivers.
+    In each of these major alluvial basins, the Nile, Indus and Tigris/
+Euphrates, there is evidence for the use of the plough (technically the ard
+or scratch-plough) from an early stage in the development of lowland
+irrigation: in Mesopotamia at least by the fourth millennium and in the
+others by the third millennium (Chapter 6). It seems that this instrument
+was an integral part of these extensive lowland cultivation systems, and
+perhaps a precondition for their development.
+    The construction of major artificial watercourses in Mesopotamia dates
+to the Sassanian period (Adams 1965), when long branching canals argue
+a significant degree of central control and investment, and are part of the
+general pattern of intensified inputs of capital and labour and the more
+elaborate construction typical of all forms of irrigation from the first
+millennium BC onwards. This was the period in which summer-grown crops
+such as rice and sesame were introduced from further east. Intensive irri-
+gation led in many areas to substantially higher population densities and an
+extension of the areas under state control. Many of the features stressed by
+Wittfogel (1957) as associated with irrigation agriculture may thus be more
+characteristic of these Iron Age developments than of preceding systems,
+which were often village-based and local in management.
+    The growth of irrigation thus followed a natural progression from the
+earliest surface- and groundwater-based systems through an increasing
+management of sources of surface-water and its distribution to suitable
+locations. The earlier forms required only a small input of effort in pro-
+pitious circumstances, and involved little co-operation beyond individual
+communities. As with south-east Asian systems, even quite complex arrange-
+ments could grow by quite small increments of household investment
+in each generation (cf. Leach 1959). Small-scale hydroagriculture (in
+Wittfogel's term) was a widespread though sporadic feature of cultivation in
+the semi-arid and arid zones from the Mediterranean to central Asia in the
+third and second millennia BC. Larger-scale projects involving higher invest-
+ment and wider co-operation were needed to increase the area served by
+these limited systems, and these did not emerge until the growth of imperial
+power and investment in rural development by landlords and urban
+capitalists, especially from the first millennium BC onwards.
+
+                                             99
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:07:49 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                       WATER,      SOIL    AND      SEASONALITY
+
+
+COMPARISON
+Starting from similar initial conditions, therefore, cultivation systems in the
+Near East and Europe became increasingly differentiated as they exploited
+more fully the particular characteristics of the two regions. In the sub-
+tropical zone, where lack of water was the main constraint, large areas of
+alluvium could be brought into cultivation by irrigation, to support sub-
+stantial local populations from an early date. In the temperate zone, the
+most significant agricultural resource was the reservoir of nutrients stored
+as soil-colloids which could be released by forest-clearance and ploughing.
+The wide areas of productive forest soils postponed the need for intensive
+methods of cultivation; though, once introduced, these could support higher
+overall densities of settlement. In northern Europe the scratch-plough
+evolved into a heavier and more deeply-penetrating instrument for use on
+heavy soils whose thick sod required turning to aerate and drain. What had
+originally developed as a response to the lack of water had become a method
+of dealing with its over-abundance.
+   By contrast to the ecosystems of the subtropical and temperate areas,
+those of the humid tropics are characterised by rapid oxidation and strong
+leaching: nutrients are stored in standing vegetation rather than in the soil.
+While significant areas of alluvial and volcanic soils can support permanent
+cropping, the much greater areas of interfluvial terrain necessitate short
+periods of cultivation and long fallows. Nutrients can be released from
+standing vegetation by combustion, used up by crops in a few years, and the
+plot returned to forest. More permanent cultivation can only be imposed on
+such soils by large-scale investment of capital and labour. South-east Asian
+terracing systems with padi-farming are a specialised development of this
+kind, using flowing water to carry nutrients not available in the soil (Geertz
+1963).
+   The kinds of transition to more intensive systems studied by development
+economists such as Boserup, therefore, are only partly analogous to the
+kinds of change inferred in subtropical and temperate regions, and in any
+case represent a relatively late phase of land-use even in the tropics. Recent
+research has increasingly emphasised that the earlier stages of tropical
+cultivation were characterised by systems of fixed-plot horticulture (Harris
+1973, 399-402); while ecological arguments and archaeological evidence
+from several parts of the world have emphasised the importance of low-
+lying, alluvial areas in early cultivation.
+   In south-east Asia, rice began as a palustrian species, adapted to semi-
+aquatic habitats, as did taro. Dry rice, suitable for interfluvial cultivation,
+was a secondary development. Gorman (1977) has postulated an initial
+stage of inundation-cultivation in piedmont regions, lasting down to c.2000
+BC, followed by an extension of irrigation-systems in the open alluvial
+plains, with iron and plough-cultivation (using the water-buffalo) spreading
+
+
+                                            100
+
+
+
+
+                               This content downloaded from
+             128.122.149.9 on Thu, 27 Aug 2020 06:07:49 UTC
+                       All use subject to https://about.jstor.org/terms
+
+                         IN   EARLY      CEREAL       CULTIVATION
+
+
+in this context in the first millennium BC. Extensive swiddening could be
+a relatively recent development, as drought-resistant strains of rice allowed
+a spread to the hills in the first millennium AD.
+   In Africa, where agriculture developed at a later date than the other areas
+considered here, the situation is less well understood. Nevertheless, Harlan
+(1975, 197) has pointed out the importance of fluctuating shallow lakes
+in the Sahel region of West Africa where many of the indigenous cultigens
+emerged, which would have been suitable for decrue cultivation on moist
+soil as the floodwaters subsided.
+   In Mesoamerica (Price 1971) the present importance of swidden con-
+trasts with the types of cultivation inferred for prehistoric and early historic
+times. Early crops in the dry tropical zone of Mexico were cultivated by
+floodwater along barrancas (wadis). In the Valley of Oaxaca, one of the
+most intensively-investigated areas, initial cultivation was confined to the
+alluvial zone with a high water-table, and extended over a limited area by
+pot-irrigation from wells. In the Late Formative period, settlement spread to
+the piedmont zone where water from springs could be directed by canals to
+terraced fields, as in the fossilised system at Hierve el Agua (Kirkby 1973).
+In the Valley of Mexico, canal irrigation supported the growth of Classic
+Teotihuacan, while intensive chinampa (wet-garden) cultivation sustained
+Postclassic Tenochtitlan. In the Maya area of the humid tropical lowlands,
+the supposition that swiddening formed the basis of sites like Tikal has
+been replaced by a recognition of the importance of shallow lakes (bajos)
+exploited by canals and raised fields as well as a variety of other water-
+spreading devices (Harris 1978), and the situation is more complex than
+was previously imagined. In coastal Peru, floodwater farming on the coast
+was replaced by limited canal-irrigation in inland valleys, and in turn suc-
+ceeded by larger-scale canal irrigation on the arid coastal plain (Moseley
+1974). All these examples show a direct transition from floodwater-
+cultivation to canal-based systems, with extensive cultivation as a later,
+marginal development.
+   Behind the regional variations, therefore, underlying similarities in the
+development of agricultural systems are becoming evident. They emphasise
+the importance of an often protracted initial phase of small-scale surface-
+and groundwater-based horticulture, which ultimately differentiated into
+hydraulic and rainfed systems of both extensive and intensive kinds.
+
+NOTE
+
+1. The term 'spring wheat' is used in a special sense by plant geneticists, to describe any
+   wheat which lacks a vernalisation requirement, including winter-grown varieties in the
+   Mediterranean and Near East. I am grateful to E G. H. Lupton of the Plant Breeding
+   Institute, Cambridge, for this and other observations.
+
+
+
+
+                                              101
+
+
+
+
+                                 This content downloaded from
+               128.122.149.9 on Thu, 27 Aug 2020 06:07:49 UTC
+                         All use subject to https://about.jstor.org/terms
+
+   Resources, Technology and Trade:
+     An Essay on Early European
+              Metallurgy
+                                     (1976)
+
+Early European metallurgy has been a topic of debate since the beginning
+of the study of prehistory. As a fundamental division in the Three-age
+framework and a crucial contribution to chronology through typological
+sequences, it was a focus of interest from the mid-nineteenth century on-
+wards. More recently, the application of rapid techniques of micro-analysis
+has provided a massive body of quantitative data on the composition of
+early metal objects and new opportunities for interpretation, while the large
+body of surviving material continues to offer itself as a major source of in-
+formation - not only about chronology but also about the way of life of
+Copper and Bronze Age communities.
+   The abundance of copper and bronze objects from these periods leaves
+no doubt about their importance in the prehistoric economy, and the
+reasons for growth in the use of metal are clearly essential in this case to our
+understanding of economic change in primitive society. The process usually
+invoked to explain the spread of metallurgy is one of discovery, followed by
+diffusion of knowledge about the techniques involved, leading to a wide-
+spread use of metal because of its superiority for manufacturing tools and
+weapons. The change in technology would thus have led to a breakdown of
+economic self-sufficiency, and a consequent reliance on trade as a funda-
+
+This chapter was written as a tribute to J. G. D. Clark, Disney Professor of
+Archaeology at Cambridge and subsequently Master of Peterhouse. (Sir Grahame
+died in 1995.) It contrasts the metallurgy of the Early Bronze Age with that of the
+preceding Copper Age, and suggests that the latter differed in no fundamental way
+from the sophisticated uses and trade in stone achieved in the Neolithic. Grahame
+Clark had himself illuminated the European stone axe trade by comparison with
+Australian ethnography, and this paper followed Colin Renfrew's example in
+applying the anthropological economics of M. D. Sahlins to early metalworking.
+(See also Chapter 12 for flint exchange-networks in Neolithic and Copper Age
+Hungary.) The illustrations are notable as experiments in graphical presentation.
+
+                                         102
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+             AN   ESSAY    ON   EARLY    EUROPEAN        METALLURGY
+
+
+mental mechanism. At the same time, increasing productivity of agriculture
+would have begun to produce a surplus that served both to finance this
+increased scale of trading activity and to support the specialists concerned.
+   In its original conception (Childe 1958), this model sought to connect the
+appearance of metallurgy in Europe with the activities of prospectors from
+urban societies (in the Near East) whose concentration of capital had
+fostered the growth of the industry. More recently the reappraisal of Euro-
+pean chronologies has suggested a more active role for south-east Europe,
+and attention has turned to the background of technological skills in high-
+temperature firing available to Neolithic bakers and potters (Renfrew
+1969). But, whatever the circumstances of discovery, emphasis still rests on
+metallurgical knowledge as the key factor in the explanation with the
+assumption that, once discovered, metal became common because of its self-
+evident usefulness or inherent attractiveness. Both in Childe's account of this
+process (1956,115-20) and in Renfrew's discussion (1972, 308,483) of the
+growth of metallurgy in the Aegean, economic change is seen as the result
+of technological change, both through increased efficiency and through its
+stimulation of 'new needs'.
+   It may be doubted, however, whether the advantages conferred by a
+knowledge of the technical processes of metalworking could by themselves
+have had such far-reaching effects. Early metal tools were not, in practice,
+more efficient than stone ones, nor are early metal weapons likely to have
+been decisive in battle. Are there, then, less obvious reasons why a relatively
+rare raw material such as copper should have achieved so wide a circulation in
+the third and second millennia? And was this circulation different, in scale
+or character, from existing networks distributing materials such as fine stone?
+   The inevitable bias given by a material subject-matter often leads the
+archaeologist to a view of prehistory in which technology appears as the
+main element of progress. On the other hand, Professor Clark (1965) has
+stressed the need to come to terms with the social role of material objects,
+and to treat prehistoric societies in a total ecological context. From this
+standpoint, it may be possible to reach a view of the artefactual evidence
+that relates it to long-term processes of economic and social change, rather
+than treating technology as an independent sector producing revolutionary
+repercussions throughout society.
+
+' S T O N E A G E ECONOMICS'
+A key issue in this discussion is the contrast often drawn between the relative
+self-sufficiency of Neolithic life and the variety of raw materials required
+for the more complex technical processes of the Bronze Age. If there is a
+difference in trading activity between the two periods, however, it cannot be
+summarised as simply as this. Even in the Neolithic there were inherent
+limitations on self-sufficiency.
+
+                                         103
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+                RESOURCES,        TECHNOLOGY         AND    TRADE:
+
+
+   This point soon becomes evident from a consideration of site locations.
+The distribution of a population dependent on agriculture is determined
+largely by the soils on which its crops are grown, the most suitable zones for
+cultivation being naturally those with deep soil and an abundant water-
+supply. In order to make use of these locations, however, another set of
+resources is required - hard stone for tools, for example, or supplies of salt
+to offset dietary deficiency. By and large, such resources occur in different
+environments, and only a limited number of agricultural settlements have
+direct access to them. For instance, a distribution such as that of the early
+Neolithic Bandkeramik in central Europe (Clark 1952, fig. 45), with its
+concentration on open loess-covered plains, implies a constant import of
+materials from sources peripheral to the main concentration of population.
+   In any case, there are good reasons why, in small-scale societies, indi-
+vidual settlements and clusters of villages should not be isolated from wider
+contacts. Single units of settlement are naturally vulnerable to the possibility
+of local disaster, whether due to poor harvest or disease. A continuous ex-
+change of population from village to village creates a network of relation-
+ships that can distribute inequalities in local production and provide a wider
+pool of assistance. As a background to the distribution of rarer materials,
+a continuous movement of personnel and subsistence products between
+villages must be envisaged. It is this network which provides the basic
+carrier for the kinds of material that survive archaeologically in Neolithic
+contexts.
+   An important effect of this is the pattern of 'random walk' followed by
+individual objects in the course of such exchanges. Although there may be a
+general direction of drift in one class of material as it moves towards an area
+of scarcity, there is a large number of jumps between the source and the
+ultimate area of consumption. This lack of a direct link between producers
+and consumers at some distance from the source implies a strong spatial
+limit on effective demand with this kind of system. A distribution channel
+for a particular material is thus likely to have the following structure:
+1. Source: not necessarily in an area of agricultural production, though
+   accessible from it. Activities: unearthing of material, preliminary re-
+   duction of bulk.
+2. Production zone: settlements concerned in the active exploitation of the
+   material. Activities: working up into an exchangeable form.
+3. Direct contact zone: area of settlements linked directly to production
+   zone by face-to-face contact. Effective supply as result of close kinship
+   links.
+4. Indirect supply zone: area of settlements without direct access to the
+   production zone, receiving supplies through intermediaries.
+Anthropologists have stressed the basic contrast between the mechanisms
+connecting zones (3) and (4) with their supplies. Sahlins (1965) has noted
+
+                                         104
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+             AN   ESSAY    ON   EARLY    EUROPEAN        METALLURGY
+
+
+the way in which exchanges with close kinsmen, who may be expected to
+provide assistance, are less concerned with material equivalence than those
+that take place across tribal boundaries, where a more direct return is
+sought. Brookfield and Hart (1971, 315), discussing Melanesian evidence,
+have drawn the contrast between transfer, where goods are easily balanced
+by services, and trade, where goods are rarely exchanged for non-material
+favours. Rappaport (1968,106) has suggested that production will be sensi-
+tive to demand from within the area of direct contact, but not outside it. In
+a situation where each village is producing a similar range of subsistence
+goods, there will be an especially sharp division between those able to
+supply food and services direct to the producers and those beyond this
+range. Only in the case of particularly important materials is this friction
+overcome, by the exchange of high-value objects between certain individuals
+in different local groups (Sherratt 1972, 506).
+    This lack of direct articulation between supply and demand must have
+been a characteristic limitation on Neolithic economies, as Rappaport
+points out for the primitive farming groups of the New Guinea highlands.
+The problem is to avoid a situation in which an extensively needed com-
+modity is under-exploited because of the lack of items to exchange for it.
+In overcoming this, the circulation of non-utilitarian goods plays a vital role
+in mobilising demand. Items of adornment or display that are exchangeable
+for essential commodities, and can themselves be accumulated, encourage
+continuity in the production of basic materials even when local needs are
+filled. They thus act as a kind of 'fly-wheel' for the whole system.
+    Not only do items not directly concerned with subsistence activities
+contribute to the maintenance of the system, but essential commodities,
+such as fine stone, also have non-material functions. Speaking again of the
+New Guinea highlands, Strathern notes that 'in their area of production
+axes circulate as items of exchange value, in ceremonial exchange, death
+compensation, bride-wealth, payments in the settlement of disputes, and
+they had a similar role in the Enga area' where they were distributed. While
+ordinary working axes may be given in these contexts, particularly large and
+fine specimens are considered appropriate for ceremonial and bride-wealth
+presentations, and in the case quoted by Chappell (1966, 98) these may be
+up to five times the size of working axes. (Such an axe 30cm in length would
+require about three weeks' work in grinding.)
+    The goods in circulation thus carry important symbolic values in a way
+that is often explicitly organised. Commodities may be accumulated and
+exchanged in specified quantities for particular situations such as marriage
+alliances. Such artefacts are not generally exchangeable, as with a true
+currency, but act as 'standardised entitlements to a series of social pre-
+rogatives' (Douglas 1967, 135).
+    The wider effects of this social aspect of material goods are twofold. In
+the first place, the system is continuously generating demand both for the
+
+                                         105
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+                RESOURCES,       TECHNOLOGY         AND    TRADE:
+
+
+commodities with direct symbolic value and for those exchangeable with
+them, thus helping to overcome the limitations on supplies of useful
+materials that arise from the lack of direct articulation between producers
+and consumers. The use of necessary items, such as axes, in ceremonial
+contexts also ensures a reservoir of raw material in case of shortage. In the
+second place, by linking the movement of goods with the distribution of
+marriage partners, the system contributes to demographic equilibrium by
+adjusting the spatial distribution of women and goods (Rappaport 1968,
+108-9).
+    This tentative sketch of the working of a simple economic system is
+a starting point for the analysis of the prehistoric European situation. In
+opposition to the idea that 'a Stone Age community was, at least potentially,
+self-sufficing' and that 'the objects of Stone Age trade were always luxuries
+... at least things that men could have done without' (Childe 1951, 35), it
+suggests that continuous circulation was a basic pre-condition of such
+societies, extending even beyond simple material needs.
+    To be fully satisfactory, however, something beyond a static model is
+necessary if it is to cope with the evident changes within the prehistoric
+economy. In the first place, changes occur as new sources of raw materials
+are discovered and old ones are exhausted. Such changes are especially likely
+as the area under exploitation itself expands and peripheral groups come
+into contact with a wider environment. Secondly, any growth in population
+will also increase effective demand, making worthwhile intensification in the
+effort involved in unearthing raw materials and the development of larger-
+scale operations. Perhaps even more important are changes in the sphere
+of subsistence economy underlying the patterns of distribution in rarer
+materials. Once again, ethnography provides a clue to the processes in-
+volved.
+    Coastal Melanesia, in particular, shows a high development of long-
+distance trading links, some of them of extraordinary complexity. For some
+of the groups involved, participation in these networks is essential, not only
+at the level of raw materials but also in terms of basic subsistence products.
+Hogbin (1951) quotes examples from the Huon Gulf of New Guinea where
+groups survived only by producing pottery and importing food-stuffs, and
+Malinowski noted the division, within the Trobriand Islands, between the
+richer agricultural part and the poorer areas of the interior that manufacture
+wooden dishes, baskets and pots to exchange with it for food. In these cases,
+the occupation of such poorer areas is possibly only because of a continuing
+output of non-subsistence products. One consequence of the extension of
+settlement to marginal environments is the need for a class of products that
+stimulate the mobility of subsistence goods. Brookfield and Hart (1971,
+320-32), in a stimulating discussion of the problem, interpret the complex
+cycles of inter-island exchange in Melanesia       part of a 'flywheel' mech-
+anism to keep products on the move and s:           articulate several kinds of
+
+
+                                        106
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+              AN   ESSAY       ON   EARLY        EUROPEAN             METALLURGY
+
+
+                                                  trob    rianos
+
+
+
+
+               SOUTH PAPUAN COAST
+
+         1   CONUSARMSHELLS         7 ARMBANDS ANO PAINT           - A N T I CLOCKWISE KULA
+         2
+             SPONPYLUS NECKLACES    B BOWLS ANO BASKETS, - • C L O C K W I S E     KULA
+         3   RAW GREENSTONE           CARVED WARE        «—»NON-KULA
+
+         *   GREENSTONE AXES        9   CANOES                 •    PLACE OF ORIGIN
+
+         5   QUARTZ SAND            10 SAGO                    O     DESTINATION
+         6   POTTERY                11 TUBERS, COCONUTS        (    ENTRY TO KULA
+                                    12 POTTERY CLAY            X    EXIT FROM KULA
+
+4.1 A reconstruction of the flow of products around the kula ring: from Brookfield
+and Hart (1971).
+
+specialisation within the chain (see Figure 4.1). Such regional differentiation
+allows areas of lower subsistence potential to survive alongside better-
+endowed ones. Indeed, the fact that transactions still occur in a series of
+individual jumps means that opportunities open up for middleman trading,
+and some areas well connected in the network can survive even without
+specialist products of their own (e.g. Siassi).
+   In contrast to the relatively simple situation postulated above for the
+Bandkeramiky with its concentration on a single productive zone and
+occasional expeditions for raw materials outside this, the colonisation of a
+wide range of landscapes leads to a situation in which various groups are
+actively pumping rarer materials and products into the system. The contrast
+
+                                                 107
+
+
+
+
+                   This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                    All use subject to https://about.jstor.org/terms
+
+                RESOURCES,       TECHNOLOGY         AND    TRADE:
+
+
+stems, not from a disparity in technology and raw material requirements but
+from the difference in settlement ecology between the two cases.
+   One further feature of the Melanesian case may be mentioned - the social
+mechanisms involved. The actual operation of the trading process is in the
+hands of individuals: participation in the network depends on the ability to
+create stocks of trade articles and to manipulate social and ceremonial
+relationships:
+  Leadership and the political structure of groups are not set apart from the
+  sphere of commerce; the rewards of the successful entrepreneur are the
+  highest rewards of power and prestige which the society has to offer;
+  he cannot dominate the political situation without first dominating the
+  market ... This kind of fluidity is not a matter of individuals moving up
+  and down rapidly from one recognized position to another. It is much
+  more an instability in the relationship of actual positions, since each
+  outstanding leader creates his own leadership. (Douglas 1967,125)
+   In such systems, which have come to be known as 'big man' systems
+(Sahlins 1963), richer individuals provide nodes of concentration for
+circulating goods, without a rigidly hierarchical social structure divided on
+class lines. The accumulation of subsistence products is a temporary matter,
+and the climb to prestige is expressed in possession of the items of display,
+such as valued ornaments, which act as indicators or 'counters' of success.
+Although the majority of transactions is concerned with subsistence
+products, the system runs on the movement of symbolic items and these
+provide a material reading of varying status positions. This situation, one of
+regional economic differentiation articulated by individuals in small com-
+munities, must have been the condition of much of later prehistoric Europe
+before the emergence of urban centres. How far are such processes reflected
+in the artefactual record?
+
+
+T H E MOVEMENT OF MATERIALS IN NEOLITHIC EUROPE
+The patterns of movement, even in inorganic raw materials, are a field of
+research hardly yet systematically explored, but some idea of the scale
+involved can be gained from the major commodities often recognised and
+from the few areas where detailed studies have been made.
+   The Neolithic economy required both the cutting and scraping tools for
+fine work that had been essential to previous hunting economies, and a
+range of more massive implements for forest clearance and the manufacture
+of wooden tools. Higher population densities, moreover, demanded a much
+greater bulk of raw materials. For heavy axes and chisels, either large blocks
+of flint were necessary or else crystalline massive rocks, mostly of highland
+occurrence. These included ancient sedimentary rocks such as greywackes;
+igneous rocks either formed at great depth, such as diorite, or nearer the
+
+                                        108
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+             AN   ESSAY    ON   EARLY    EUROPEAN        METALLURGY
+
+
+surface, such as dolerite; and direct volcanic products, such as lavas (e.g.
+andesite and trachyte); or consolidated fall-out products (tuffs), and meta-
+morphosed forms of these and other rocks such as amphibolite or schist.
+The more deeply formed varieties have larger crystals and are hard to flake,
+while those more rapidly cooled are more likely to approach flint in their
+flaking properties. Apart from flints and cherts, almost all of the rocks used
+for heavy tools occur in regions of low agricultural potential, either in
+ancient massifs or more recently up-thrust blocks.
+    In different areas, the distribution of agricultural land might be adjacent
+to such regions or far removed. In the Balkans, with tectonic basins sur-
+rounded by highland areas, there were many local sources of such rocks in
+the crystalline massif and volcanic deposits in the Tertiary fold-chains
+(Sherratt 1972, 518). In addition, siltstones and cherts were used from later
+sedimentary deposits, while the extensive Cretaceous deposits of north-west
+Bulgaria provided large quantities of the characteristic brown flint that had
+been exploited since the Palaeolithic.
+    The same pattern, on a larger scale, is represented in the Carpathian
+Basin. Surrounded on all sides by young fold-mountains with local volcanic
+activity, the basin itself consists of two parts: in the western area of Trans-
+danubia, flint and chert, along with hard intrusive rocks, occur in the
+Mesozoic formations of the Bakony mountains; but to the east of the
+Danube neither these nor massive rocks are locally available, and an area of
+around 50,000 sq. km provides only river-pebbles. This deficiency is com-
+pensated for by the richness of the surrounding mountains in raw materials
+and their direct river links with the Danube Basin. To the north, the volcanic
+range of the Matra-Biikk-Zemplen mountains could provide not only
+trachyte and related rocks for heavier tools but also, in the parts near Tokaj,
+bombs of obsidian: to the east, Transylvania offered a variety of eruptive
+rocks within easy access of the plains. Obsidian, as in the Near East, was
+particularly widely traded.
+    In the loess plains sought by early agriculturalists further north, inorganic
+raw materials again came mostly from areas peripheral to the main con-
+centrations of population. Around the clusters of Bandkeramik settlement,
+sources of hard rocks were plentiful, for instance, in the ancient massif of
+Bohemia, at various points along the Rhine rift and the Middle Rhine high-
+lands, and in the central German highlands. There was no useful obsidian in
+these areas, but cherts from pre-Cretaceous rocks were available, and on the
+edge of the North European Plain the Bandkeramik spread as far as the
+flint sources in the Low Countries and Little Poland. Local exchange cycles
+brought these different sources into relationship: for instance, hard volcanic
+rocks, such as trachyte, tephrite and basalt from the Koblenz region, moved
+in the reverse direction to the flint of the Belgian Hesbaye; while the occur-
+rence of import sherds shows how important were the major rivers in
+articulating such systems (Clark 1952, 251). The recently investigated site
+
+                                         109
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+                 RESOURCES,      TECHNOLOGY         AND    TRADE:
+
+
+
+
+(selection).
+
+at Miiddersheim indicated a supply distance for stone of up to 10km for
+bulky sandstone objects, 30-40km for basalt, and up to 70km for flint.
+   As new regions were explored, fresh sources were discovered, and par-
+ticularly desirable raw materials achieved a circulation over hundreds of
+kilometres. The results of petrographic studies in the British Isles show how
+a primary use of local sources was supplemented by the products of distant
+factories as the network of inter-regional relations grew. Thus, in south-
+western Britain, early sites show a dominance of Cornish products, with
+Welsh and north-west British materials appearing in this area in large
+numbers in the Middle Neolithic. Less attractive products continued to be
+worked on a small scale and locally distributed: the Mynydd Rhiw quarry
+site (Houlder 1961) with an associated flint assemblage implies no more
+than small-scale seasonal exploitation in times of slack agricultural work, in
+which the winning of raw materials could be combined with hunting forays.
+On the other hand, it is clear that more highly organised production was
+becoming profitable for the commodities widely in demand.
+   The later-fourth and third millennia in many parts of Europe saw this
+rationalisation and intensification of production on a large scale (see Figure
+4.2). The honey-coloured flint of Bulgaria achieved a wide distribution
+within the Balkans, up to the north of the Black Sea, and into the southern
+half of the Carpathian Basin. Obsidian continued to be traded in large
+quantities, and is found on a very high proportion of the sites of this period,
+both within the Carpathians and beyond, especially in southern Poland.
+
+
+                                        110
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+AN   ESSAY   ON   EARLY     EUROPEAN        METALLURGY
+
+
+
+
+                            111
+
+
+
+
+     This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                      All use subject to https://about.jstor.org/terms
+
+                RESOURCES,       TECHNOLOGY         AND     TRADE:
+
+
+
+
+           DISTANCE     FROM      SOURCE
+4.4 The distance from source of finds made from two varieties of flint: Krzemionki
+banded flint and Grand Pressigny honey-coloured flint.
+
+This last area seems to have had - at least in certain phases such as Early
+Lengyel - a particularly intense exchange with the area of north Hungary
+and Slovakia just across the mountains, reflecting the complementary
+character of resources on either side. Going south to balance the obsidian
+were flint and, probably, salt as well: there are salt-pans from mid-fourth-
+millennium Lengyel contexts near Krakow in Little Poland (Jodlowski
+1971). Supplies of flint became particularly important as settlement in-
+creased in the North European Plain from TRB times onwards, for although
+flint was widely scattered in glacial deposits, it was mostly of poor quality,
+due to frost cracking. As in north-west Bulgaria, large-scale working and
+trading took place in response to demand from neighbouring areas lacking,
+or with inferior, raw materials.
+   To the west, areas of good flint potential occurred widely in France and
+the Low Countries within the Cretaceous deposits between the Seine and the
+Maas; but to the north and east, such sources were more scattered, occur-
+ring in north Jutland, Scania, the island of Riigen, south Poland and further
+east in Wolhynia. Among the south Polish sources, various characteristic
+types can be distinguished (Sulimirski 1960), mainly from the Upper Vistula
+region. These include the chocolate-coloured Upper Astartian flint from
+the Swi^tokrzyskie (Holy Cross) mountains; Lower Astartian banded
+flint from Krzemionki, used for axes; greyish, white-speckled Turonian
+flint from Swieciechow, used for blades; and a banded Jurassic chert from
+near Krakow. (Krema, incidentally, is a common Slav place-name element
+meaning 'flint'; e.g. Kremikovci, Bulgaria.) Attempts have been made to
+
+
+                                        112
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+             AN   ESSAY    ON   EARLY    EUROPEAN        METALLURGY
+
+
+
+
+4.5 The differential dispersal of three types of product from the same source: data
+from Sulimirski (1960) [corrected].
+
+
+map the distribution of these types of flint from visual identifications. The
+Swieciechow variety shows a restricted local circulation but the banded
+Krzemionki variety was exported in bulk, especially to the Middle Vistula/
+Notec/Middle Warta area, and examples are known from beyond the
+Carpathians in Slovakia (see Figure 4.3).
+   Such distributions can be summarised as curves showing the percentages
+of objects at given distances from the source (see Figure 4.4). Half of the
+known finds of Swieciechow flint lie within 100km of the source, while for
+the banded flint 50 per cent are within 300km, and 75 per cent within
+350km. Finds of both types are mainly of third-millennium date, though
+both start in the later-fourth millennium. Something of the same order of
+magnitude would hold for the other wide-traded commodities shown in
+Figure 4.2. An interesting feature of the Riigen flint distribution (see Figure
+4.5) is the way different products have a characteristic range of distri-
+butions.
+   Of the western sources, the most easily recognisable and widely-traded
+variety is the well-known iron-rich flint of Grand Pressigny, used in the later-
+third millennium for large blades hafted as daggers (see below). This shows
+a distribution on a similar scale to that of the banded flint, with 50 per cent
+within 250km and 75 per cent within 350km, despite the fact that stray
+finds occasionally occur up to 800km away. An analysis of the direction of
+
+                                         113
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+                         RESOURCES,        TECHNOLOGY            AND   TRADE:
+
+            %
+           1 oo
+                     N W                                                        SE
+           9 0   -
+
+           80 -
+                                                        hr
+           70    -
+
+           60    -                   <S>
+           50    -
+
+           40    -
+
+           3 0   -                            £                         1 ^
+           20 -
+
+           10 -                              1
+                                                             I
+           0                     i           i-              i          i
+                     R                                       B                   W
+4.6 Approximate percentages of finds of three types of flint in a SE-NW transect
+across Poland. Each division represents a 100 km2 sample cell: R, B and w mark
+the positions of the sources. Calculated from maps in Sulimirski (I960).
+
+movement (Figure 4.7) indicates three major components: up-river, down-
+river, and across-country north-eastward. The distribution map shows that
+the down-river component splits at the coast to go either to Brittany or to
+the Gironde - in neither case more than 200-300km by sea. The largest
+component is the overland route to centres of population on the Loire and
+the Seine, and beyond into the Low Countries. Finds become noticeably
+more scattered on this axis beyond the 350km limit. It is an indication of the
+special desirability of this material that its main axis of movement should be
+into areas with local supplies of good flint.
+   Although there are several sources of bias and inaccuracy in the maps
+used above, they do give some idea of the scale of later Neolithic trade.
+While many products were of merely local significance, demand was
+sufficient to move large volumes of particularly desirable goods over several
+hundred kilometres. While the banded flint went mainly to a single cultural
+area, the Grand Pressigny distribution is significantly inter-cultural. Both
+show the 'pull' of nearby population clusters, but spread beyond these to
+remoter areas. (Compare, for instance, the banded-flint distribution map
+with the one of Globular Amphora culture settlements in Wislanski 1970,
+fig. 56.)
+   Trading systems on this scale clearly required a considerable quantity of
+raw material, and a particular expression of the expansion in demand, by
+the later-fourth millennium and after, is the development of large-scale
+mining for various materials. Small operations had been undertaken even in
+Upper Palaeolithic times, as is shown by the two-metre deep pits for colour-
+ing material at Lovas in western Hungary. Such workings must have become
+very common in the Neolithic and, undoubtedly, many more sites remain to
+be discovered. Typical, for instance, are the two- to three-metre horizontal
+'drifts' for jasper in the hard Jura limestone of the Isteiner Klotz, north
+of Basle (Schmid 1952), the mass of small shafts for limnoquartzite near
+Miskolc, in north-west Hungary, and the network of three-metre deep
+
+
+                                                  114
+
+
+
+
+                         This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                          All use subject to https://about.jstor.org/terms
+
+             AN   ESSAY    ON   EARLY    EUROPEAN        METALLURGY
+
+
+
+
+4.7 The distribution of products of Grand Pressigny flint, analysed by direction
+of movement. The black inner zone of the orientation diagram (top right) includes
+finds within 200km, the hatched outer zone coversfindsbeyond this (cf. Figure 4.4).
+
+channels following vertical flint boundaries at Siimeg, in western Hungary
+(Vertes 1964). All these are probably of third-millennium date, and the last
+one certainly so. Somewhat larger are the series of shafts for Jurassic chert
+(radiolarite) at Mauern, near Vienna, some of which reach eight metres in
+depth and have lateral galleries (Kirnbauer 1958). With the widespread
+shallow workings alongside, these would have yielded around 1000 tonnes
+of usable stone, perhaps at the rate of a few tonnes per year. The workings
+seem to belong to a Lengyel culture local group, and this material was
+widely used between the Alps and the Danube. That such efforts were not
+restricted to mining stone is shown by the extensive system of underground
+galleries at Suplja Stena, near Belgrade, for the extraction of cinnabarite (red
+mercuric sulphide), used as a paint. The galleries are definitely dated by finds
+of Baden pottery to the mid-third millennium, but finds of cinnabarite at the
+nearby tell of Vinca suggest an earlier beginning (Milojcic 1943).
+   None of these, however, compares with the scale of flint-mining in
+northern Europe, where shafts were sunk through the relatively soft chalk
+to up to fifteen metres in depth, with lateral galleries following the hori-
+zontal seams. These are found in all the areas where flint could be won direct
+from the chalk, and range in date from early third-millennium examples,
+such as the Hov mine in Jutland producing thin-butted axes, to early
+
+                                         115
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+                RESOURCES,       TECHNOLOGY         AND    TRADE:
+
+
+second-millennium ones like the Aalborg mine 80km away, producing
+especially daggers and sickles (Becker 1959). Where flint was widely avail-
+able within a region, activity was not concentrated in one place: where
+opportunities were rarer, very large operations took place. The extensive use
+and limited natural occurrence of banded flint is reflected in the scale of
+mines at Krzemionki Opatowskie, where between 700 and 1000 shafts,
+some as much as 11m deep, are known in a rather barren area some 10km
+away from the nearest centres of settlement, where the working-up took
+place. Such an industrial scale of production (in the Krzemionki case
+perhaps twice that of Grimes Graves in East Anglia), as much as the
+wide distribution of the products, indicates the organisation that underlies
+such a pattern, in which at least groups of villages were gaining special
+advantages from their nearness to raw materials.
+    The large volume of material required in northern Europe is partly re-
+lated to the size of woodworking tools. There is a general decrease in the size
+of axes further south, where small quadrangular or shoe-last forms were
+most usually mounted in antler sleeves. In addition, the very large size of
+some northern examples suggests that the contrast may be exaggerated by
+non-utilitarian factors. In the New Guinea case mentioned in an earlier sec-
+tion, the ceremonial axes are clearly distinguished by their size, being over
+25cm in length as opposed to the working axes, which are generally less
+than 15cm. Thin-butted axes in Scandinavia and north Germany occasion-
+ally occur up to over 40cm in length, weighing around 4kg, clearly in excess
+of ergonomic requirements. In northern Europe, the large axe had a sym-
+bolic role beyond its immediate technical function, and is notable as one of
+the few representational elements in Megalithic art. Large ceremonial forms,
+if that is what they are, certainly travelled over long distances; the far-flung
+Langdale axe from Langwood Fen, in Cambridgeshire, is 28cm long (Fell
+1964) and it would be interesting to discover whether the larger forms gen-
+erally moved further than the smaller 'working' forms. The existence of a
+complete spectrum from simple working tools to purely symbolic forms is
+impressively demonstrated by the larger and finer jadeite examples, where
+use in ceremonial presentations was a sufficiently powerful motive to
+necessitate the exploitation of a specific raw material - though this explicit
+differentiation between tool and symbol may be a fairly late feature. The
+aesthetic qualities of Langdale tuff and banded flint may, in a similar way,
+have contributed to their major distributions, and the cross-cutting charac-
+ter of the British stone axe distributions (Clark 1965, fig. 1) indicates how
+one rock was traded against another.
+    Besides axes that are simply a variation of working forms in a different
+size or material, other forms appeared in the Late Neolithic that are linked
+to status through their use as weapons. This is most clearly seen south of the
+Carpathians, as early as the mid-fourth millennium, where working axes are
+rather small and axes over 10-15cm in length are almost entirely shaft-hole
+
+
+                                        116
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+             AN   ESSAY ON E A R L Y E U R O P E A N       METALLURGY
+
+
+
+
+                  HI
+                  in                                             ft
+Bach square represents
+one burial: not all
+                                           20
+grave-goods shown.
+                                           15
+
+                                           10
+
+                                           5
+
+
+
+
+                    children           AGE AT                   children
+                   (unsexed)           DEATH                   (unsexed)
+
+          N I T R A CEMETERY                         TISZAPOLGAR- BASATANYA
+                  dandkeramik                          Period ][ (Bodrogkenesztur)
+
+
+              KEY TO SYMBOLS :                  £      Copper bracelet
+              |   Schuhleistenkeil              II     Copper awl
+             ® Spondy/us ornament                    I Copper pin
+              f   ShaFthole axe                 i     Bone awl
+              |   Copper dagger                 ~~    Limestone beads
+
+4.8 The association of grave-goods by age and sex; a comparison of sixth- and later
+fifth-millennium examples. Data from Pavuk (1972) and Bognar-Kutzian (1963).
+
+forms and best described as 'battle-axes', since they are clearly intended for
+fighting or display rather than more mundane tasks. Such stone battle-axes
+occur in the north from TRB times onwards, becoming increasingly elaborate
+and distinctive. These axes seem to belong to a stage in the development of
+a more explicit symbolism of social status, the extension of a phenomenon
+traceable from the Early Neolithic. The occurrence of various items as
+common grave-goods allows some observations to be made on this process.
+An interesting feature of certain classes of artefact is their association with
+a specific sex and age-range (see Figure 4.8), suggesting that their possession
+was limited to individuals of a particular status - even if items such as axes
+could, no doubt, be borrowed by younger men for specific tasks. Such a
+social dimension of utilitarian objects is well known in anthropological
+literature, and it is likely that the exchanges that distributed objects such as
+axes took place only between men of comparable rank.
+    In the Nitra cemetery example, Spondylus ornaments reinforce the
+pattern of axe distribution: in other contemporary cases further north, how-
+ever, they occupy a converse position, associated with female and juvenile
+burials (Pavuk 1972; Kahlke 1954). A particularly elaborate Bandkeramik
+
+
+                                         117
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+                RESOURCES,        TECHNOLOGY         AND     TRADE:
+
+
+female inhumation grave at Erfurt (Inventaria Archaeologica D 85), for
+example, had eighteen beads and eleven pendants of this shell at the neck,
+two discs on the breast, and a ring on each upper arm.
+   Besides the shaft-hole axe, another personal weapon that began to
+achieve a widespread symbolic significance was the dagger. As early as the
+fourth millennium in Bodrogkeresztur contexts (Bognar-Kutzian 1963, 318
+'Group 1'), large dagger-blades of up to 18cm in length often accompany
+male burials. This is another feature that was greatly emphasised in the third
+millennium of northern Europe. It is significant that one of the most ex-
+tensively traded materials of the time should be the Grand Pressigny flint,
+whose characteristic cores were carefully prepared to produce especially
+long blades, at great cost in flint. Some of the most extensively developed
+systems of distribution in these stone-using communities were, thus, those
+connected with status items.
+   The development of a range of 'socio-technic5 items, such as the battle-
+axe, was a characteristic feature of the artefactual history of the later fourth
+and third millennia, both north and south of the Carpathians and,
+as Tabaczynski has said (1972, 59), should be considered 'nicht nur
+als Ausdruck der Verbreitung neuer Ideen ... sondern auch als eine
+archaeologischer Hinweis auf die fortschreitende gesellschaftliche
+Aufgliederung'. The evidence of stonework thus shows a growing scale of
+trade during the Neolithic, not only in essential products but also in in-
+creasing flows of symbolic artefacts. The rise in demand for essentials relates
+directly to the growth of population, but the indirect results of this are also
+of importance for the movement of materials in general. From the cultural
+and environmental uniformity of the earliest Neolithic, expansion and
+differentiation produced a mosaic of regional groupings and economic
+zones of great complexity, ranging from farmers on the rich loess-lands or
+more pastoral groups in sandy areas, to the specialised fishing villages of the
+Rzucewo culture on the sandspits of the Vistula estuary. The opportunity for
+fruitful exchange between these groups was thus much greater than in the
+situation of initial colonisation. The basic exchange channels could usefully
+carry a much greater volume of subsistence products and, with them, other
+material items to balance and regulate the flow. The significance of material
+counters in such situations has been emphasised by Vayda (1966) in dis-
+cussing the Pomo Indians of central California, where shell beads were ex-
+changed for food between communities concentrating on different staple
+foods that were in surplus at different seasons. Beads accumulated from
+a fish surplus, for instance, could be exchanged later with the donor com-
+munity for inland products, when these in turn were in surplus.
+   The actual distribution of population on the ground also encouraged
+and necessitated contact. While Early Neolithic groups in central Europe
+showed a strong orientation towards the river network and flood-plain
+edge, the spread of settlement to drier interfluvial regions implied more
+
+                                         118
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+             AN   ESSAY    ON   EARLY    EUROPEAN        METALLURGY
+
+
+frequent face-to-face contact between clusters of villages, and a more richly
+networked overall pattern (Krtik 1973). With more extensive grazing, the
+maintenance of a wide set of relationships with surrounding communities
+was not merely possible but essential to a smooth running of the system.
+Indeed, the widespread distribution of certain ceramic styles, such as the
+bell-beaker complex, indicates the growing intensity of inter-regional con-
+tacts. All these factors promoted an increased turnover in goods, a general
+quickening in local transactions that increased the power of such networks
+to carry rarer materials. Such traded items served to emphasise the rank and
+authority of those who could obtain them.
+
+
+T H E ROLE OF COPPER
+To understand the part that copper played in these developments, the
+distribution and character of its sources must first be appreciated. In the first
+place, copper ores are - like many of the types of harder stone used for axes
+- basically of highland occurrence, being 'concentrated in areas of structural
+complexity and igneous activity' (Park and Macdiarmid 1970). Such de-
+posits are commonly formed by hydrothermal injection in periods of
+tectonic movement, when hot solutions from deep-lying magma chambers
+penetrate upwards into favourable structural and lithological environments.
+Many such deposits were formed, for instance, during the Alpine mountain-
+building phase, and such ores are widespread in the Tertiary fold-chains of
+southern Europe (Sherratt 1972, 518). Somewhat different ore-complexes,
+formed at deeper levels, are found in the ancient crystalline massifs such as
+Bohemia or the Rhodope block: these may also contain copper, often lead,
+and occasionally tin.
+   A further factor of importance is the degree to which secondary changes
+have occurred as a result of weathering. Where an ore vein reaches the
+surface, a characteristic sequence of 'weathering horizons' develops, as a
+result of the leaching downwards of impurities. At the top is a zone of pure
+(native) copper, stable because of a thin surface coating of oxide. Below this
+develop successively zones of oxide and carbonate ores (see Table 4.1 for
+common minerals) and, below this, a zone of enrichment where impurities
+accumulate at the water-table. While the higher ore minerals are mostly
+bright^ coloured, those of the enrichment zone are characteristically grey
+and are collectively referred to by the German miners' term of Fahlerz-
+These are sulphide ores, containing also appreciable quantities of arsenic,
+antimony, often silver and sometimes lead. (Depending on whether arsenic
+or antimony dominates, these form crystals of the minerals tennantite and
+tetrahedrite respectively - though owing to chemical replacement within the
+same crystal structure, tetrahedrite-type crystals may represent either com-
+pound: this is important in linking ores with analysed objects.) Finally,
+below these secondary products, lies the zone of original unaltered sulphide
+
+                                         119
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+                                 RESOURCES,                       TECHNOLOGY                 AND     TRADE:
+
+
+                                   Age of ore deposits
+
+
+
+                                                                                            IT ?
+                                                                                         51iSSliiS
+                                                                                              U?.
+                                                                                              fsl w
+                                                                                                 1
+                                                                                                      fi
+                                                                                                     -c t
+                                                                                                            C
+
+                                                                                                         m \MjiU
+                                                                                                     2
+                                                                                 • i l l ? ! 1 = 142sm l i i l i . i J l i l i l i
+                                                                                        1
+      Ore Type            Chemical Formula                        A pproximate
+                                                                  Cu Content
+                                                                                 Ssal i            Si
+Pure Copper
+   Native Copper
+Copper  Oxides
+   Tenorite                                        black
+   Cuprite
+Copper   Carbonates
+
+   Malachite
+Capper Silicate
+   Crysocola
+    (Kupferpeckerx)
+'h'akleri'
+   Tennantite             Cu) As S).«              grey              55%
+   Tetrahcdrite           Cuj Sb Sj^               rey               55%
+   Enargite               Cuj As S4                «rey              50%
+   Buurnonite             Pb Cu Sb Sj              grey
+Copper   Sulphides
+    Covelina (Kupferindig) CuS                                       65%
+    Chalcocite (Kupferglam) C C S                                    50%
+    Bornite (Buntkupferz) uUJ Fe S«                       k*         65%
+                                                                     35%
+    Chalcopyrile (Kupferkiet) Cu Fe S,
+Copper/Arsenic
+   'Whitneyile'               Cu As               reddish-white
+    lomeykite                 Cuj As              grey-white
+    Alfodonite                                    grey-white
+    Pseudo malachite          2Cu As 0«.2Cu (Oil)}green
+Pure Arsenic
+    Native Arsenic            As
+Arsenic Oxide
+    Arse oolite
+Arsenic Sulphides
+    Orpiroent                 As, S}
+    Realgar                   As, S,              red
+                              FeS As
+
+Table 4.1 Selected occurrences of various copper ores in Romania: data from
+Radulescu and Dumitrescu (1966). [The age of the metallogenesis will be reflected
+in lead-isotope values.]
+
+ore, usually chalcopyrite. Secondary sulphides not containing iron may also
+occur higher up in the series. All sulphide ores require an additional roasting
+process before smelting, to get rid of the sulphur; and, in addition, the iron-
+containing pyrite ores present problems with slag. The common secondary ores
+all have a much higher copper content than the unaltered primary deposits.
+    The formation of secondary minerals is not inevitable, and ores in
+different areas show this to varying degrees. In the Alps, for example,
+unaltered sulphide ores are usual; while in the Carpathians and the Balkans
+large deposits of secondary minerals were formed, including native copper.
+Various factors (Pittioni 1957, 8-9) affected this and, in particular,
+the effects of glaciation in the Alps, in contrast with the more continuous
+conditions of development further south. As Pittioni (1957, 10) re-
+marks, 'die kulturgeschichtliche Bedeutung dieser lagerstattenkundlich-
+klimageschichtlichen Feststellungen kann nicht eindringlich genug betont
+werden'. The most important factor in the early development of copper
+metallurgy was the availability of a well-developed series of ores from the
+pure native form, through the easily smelted oxide and carbonate forms,
+down to enriched and, finally, unaltered sulphides; and, above all, the
+occurrence of such deposits in locations not too distantly removed from the
+
+                                                                            120
+
+
+
+
+                                   This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                                    All use subject to https://about.jstor.org/terms
+
+            AN   ESSAY    O N EARLY           EUROPEAN               METALLURGY
+
+
+
+
+                         native   oxide and    nat., ox. a c a r s
+                                  carbonate     witvi pahlerz.
+ SEC
+   O NDAR
+        Y
+ ORES OF COPPER
+ IN ROMANIA -
+                            i         b I
+
+4.9 Relative accessibility of copper ores in Romania as indicated by the heights
+above sea level of different sources. Data from Radulescu and Dumitrescu (1966).
+early centres of population. In the Balkans and the fringes of the Carpathian
+Basin especially - as indeed in other centres of early development such as
+Anatolia and Spain - the exploration of nearby upland regions brought agri-
+cultural populations, familiar with the controlled use of heat in firing pot-
+tery, into early contact with the brightly-coloured secondary ores of copper.
+   Some idea of the overall distribution of copper ores within the Carpatho-
+Balkan and Dinaric chains is given in Figure 4.15. Within this, however,
+there are important differences in accessibility, and these seem to have been
+major controlling factors in the development of local metallurgy. An attempt
+has been made in Figure 4.9 to give a visual impression of the variety within
+Romania. Two major groupings suggest themselves - a north-east group
+to the east of Baia Mare, and a south-west group from the Iron Gates to the
+Munjii Metalici where the densest concentrations occur. The altitudes of
+these two groups indicate that the latter are much more accessible, and the
+distribution of copper artefacts (see Figure 4.10) strengthens the impression
+that these were, in fact, important sources in the fourth and third millennia
+(see below). The less accessible sources of the north-east group sustained the
+second florescence of Carpathian copper metallurgy, in the early Bronze Age
+(Otomani culture).
+   A similar situation obtained in parts of Bulgaria. Figure 4.11 shows the
+position of sources exploited in the later fourth millennium (Chernykh
+
+                                              121
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+               RESOURCES,       TECHNOLOGY         AND    TRADE:
+
+
+
+
+                                                            \   • SECONDARY ORES
+                                                                       OF COPPER
+                                                                « COPPER AXES & AOZES
+
+
+
+
+ ROMANIA :
+ COPPER ORES
+ & PR ODUC
+         TS
+
+4.10 The distribution of copper axes of the fifth and fourth millennia in Romania,
+compared with potential ore-sources. Data from Vulpe (1973), Maczek et al. (1953).
+
+
+
+
+4.11 Settlement and resources in part of central Bulgaria during the Copper Age:
+Karanovo and adjacent copper mines in use at the time.
+
+                                       122
+
+
+
+
+                This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                 All use subject to https://about.jstor.org/terms
+
+            AN   ESSAY    ON   EARLY    EUROPEAN        METALLURGY
+
+
+
+
+4.12 The spread of settlement in thefifthmillennium in the region around Sabac,
+Serbia. (Sites marked 'Vinca* include also ones with Lengyel affinities.)
+
+1972; also below), in relation to the area of dense prehistoric settlement
+around Stara Zagora, where a series of important sites, including Azmak
+and Karanovo, occur along the spring-line at the edge of the basin. In this
+region, occupied from Early Neolithic times in the later sixth millennium,
+metal ores as well as hard stone sources occur within 5-1 Okm of long-lived
+tell settlements.
+   In addition to areas that had this intimate association from such an early
+date, expansion of settlement brought about similar conditions over a wider
+area. One example will suffice to illustrate what must have been a wide-
+spread process. The Tertiary limestones of Serbia were extensively colonised
+in the Vinca period (Sherratt 1972, 531). In the area around Sabac shown
+in Figure 4.12, Starcevo occupation of the sixth millennium concentrates
+
+                                        123
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+                RESOURCES,       TECHNOLOGY          AND    TRADE:
+
+
+
+
+4.13 A schematic attempt to illustrate the extension of upland settlement in the
+Alps as indicated by archaeological finds; compiled from various sources. [Dates
+corrected; the location of Copper Age €Iceman' from the Hauslabjoch has been
+added as a square symbol.]
+along the Sava; but, in the course of the fifth millennium, settlement pushed
+into the fringes of the uplands. Copper ores are known, not from the lime-
+stone area itself, but from the older rocks behind it, for instance at Tekeris
+(Maczek et al. 1953). Such deposits would again have been within a
+5-1 Okm range from the nearest settlements.
+   These three situations may be contrasted with the spread of settlement
+into those regions of the Alps where metal ores occur. In the Miihlbach-
+Bischofshofen area near Salzburg, for instance, which was the scene of ex-
+tensive mining and smelting activity in the second millennium, the ores lie
+between 1000 and 1500 metres above sea level. This is comparable with the
+group in north-east Romania, and such areas would have seen little human
+activity before the Bronze Age. Initial Neolithic settlement concentrated on
+the loess lowlands (see Figure 4.13), spreading in the fourth and early third
+millennia into the lake districts of the Alpine foreland, and only in the
+second millennium, with the development of transhumance, were the high
+pastures systematically used (Pittioni 1973). As the copper deposits in this
+area were, in any case, mainly sulphide ores requiring a longer roasting pro-
+cess, it is not surprising that Alpine ores did not figure largely in the Copper
+Age.
+   In the case of Bulgaria, therefore, with ores that must have been known
+as curiosities for a millennium before copper-working began, a limiting
+factor in terms of technology can, indeed, be inferred. The transition from
+
+                                         124
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+             AN   ESSAY    ON   EARLY    EUROPEAN        METALLURGY
+
+
+                                                                                       (hundreds)
+
+
+
+
+4.14 The succession of Copper Age shafthole-axe types in Balkan-Carpathian
+Europe, roughly from SE to NW as new sources were opened up (for selected spatial
+distributions, see following figure); [from Sherratt 1976a].
+
+light-coloured painted pottery fired in an oxidising atmosphere to the dark-
+coloured reduced wares that became fashionable in south-east Europe and
+Anatolia in the later fifth millennium probably indicates the critical change
+involved. The Macedno-Bulgarian region, therefore, where settlement be-
+gan as early as the sixth millennium in a landscape in which fertile alluvial
+basins lay scattered among mountains rich in stone and metal, was an area
+where resources waited for an appropriate technology; but outside this,
+factors of location and, ultimately, of ore-type were more critical. For re-
+sources requiring considerable labour to extract and process them at source,
+it is unlikely that extensive exploitation could take place within a primitive
+farming context unless these activities could be integrated within a yearly
+subsistence cycle. Only where settlement was nearby, or when seasonal
+movements of stock took men as a matter of routine into the area of
+occurrence, could such a process begin.
+    The earliest use of copper is, in fact, very hard to determine, as the kinds
+of small object made in the experimental stages are rarely found except by
+careful sieving of excavated deposits. For this reason, the date of the earliest
+metallurgy is likely, in many areas, to be pushed further back than current
+evidence allows. In south-east Europe, well-associated finds of beads, prob-
+ably made from native copper, from the Boian culture cemetery of Cernica
+(Cantacuzino and Morinz 1963) give a terminus ante quern in the earlier
+fourth millennium, while a find of a copper awl has been claimed in a fifth-
+millennium Cri§ context, though this is disputed. The earliest well-dated
+heavy objects probably made from smelted copper occur early in the second
+half of the fourth millennium, when the simpler forms of flat and shaft-hole
+axes make their appearance, along with arm-rings and bracelets.
+    The typological sequence of copper shaft-hole axes, beginning with
+
+                                         125
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+                 RESOURCES,       TECHNOLOGY         AND    TRADE:
+
+
+simple axe-hammers that were a direct translation of contemporary stone
+forms, is now well known (Bognar-Kutzian 1963; schubert 1965 inter alia).
+See Figure 4.14. Some of the earliest associated finds are the three examples
+from different houses in the early Gumelnija settlement at Hotnica in
+Bulgaria, of the so-called Vidra type (Bognar-Kutzian 1972,144). The Vidra
+form is typical of the area covered by the Gumelnija culture in Bulgaria and
+south Romania. A local form of flat axe has a complementary distribution
+(see Figure 4.15). Only slightly later are the finds from the Tibava cemetery
+(Siska 1964), not far from the copper sources of east Slovakia. Here, from
+a sample of forty-one excavated graves, come seven examples of the Coka
+and Plocnik types (Figure 4.15). Although these forms are known from a
+wider area at this time, it is significant that they occur in graves only in this
+immediate region, which would correspond to zone (2) of the distribution
+model set out earlier. The metalliferous area of eastern Slovakia was, in any
+case, already an important supply-area for andesite and obsidian (lumps of
+which occur in contemporary graves at Lucky in this region), and an
+intermediary in the transmission of brown translucent chert and Wolhynian
+flint (also in graves, at Tibava: Andel 1961). The copper industry at this
+stage was thus ancillary to the distribution of a wide range of raw materials,
+some of which were economically much more important.
+   With the widespread occurrence of mining for various rocks in mind, it
+is no surprise that the exploitation of copper should also involve mining
+activity as early as the fourth millennium. It can plausibly be related to the
+larger volumes of material required for heavy objects such as axe-hammers,
+and was probably an essential part of the process of collecting the raw
+material for smelting, rather than simply hammering small amounts of
+native copper. As with the stone-quarries, therefore, many more sites must
+remain to be recognised. The earliest confirmed traces of mining are the six
+shafts from Rudna Glava near Bor - an important copper-producing area
+down to the present day - where the Carpathian/Balkan arc swings through
+north-east Yugoslavia (Jovanovic 1971). These shafts are sloping funnels,
+varying from two metres to half-a-metre in diameter, following the ore
+veins. One shaft had an access platform partly revetted by a dry-stone wall,
+and the shafts extend beyond the two to three metres to which they were
+explored. Fragments of pottery and a 'cult-vessel' (lamp?) datable to the
+beginning of the Vinca-Plocnik phase of the early or mid-fourth millennium,
+were found in association with this site (Figure 16.1).
+    The Bulgarian sites near Stara Zagora, noted above and shown on Figure
+4.11, have also yielded traces of mining (Chernykh and Radunceva 1972).
+Pottery of Copper Age and Early Bronze Age types has been found in associ-
+ation at the site of Aibunar, though the mine at Hristene, which has a
+wide funnel entrance and a shaft nearly 25m in depth, may belong to a later
+period. Other traces of prehistoric mining activity have been discovered at
+Spania Dolina, near Banska Bistrica in western Slovakia (Tocik and ladar
+
+                                         126
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+            AN   ESSAY   ON   EARLY     EUROPEAN       METALLURGY
+
+
+
+
+4.1 S The distribution of various types of copper axe in Romania during the fifth
+and fourth millennia. Heavy lines enclose SO per cent of the finds of a given type
+in the country. Data from Vulpe (1973).
+
+1971), identified by large stone hammers grooved for withy hafts of a kind
+known elsewhere in Bronze Age contexts. (See map for these sites: Figure
+4.16.)
+   The scale of copper-working and trading grew appreciably, towards the
+end of the fourth millennium and at the beginning of the third. Typo-
+logically, this is indicated by the appearance of larger and more elaborate
+forms of axe-hammers, usually formed by flattening and fanning out the
+
+                                        127
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+shown by spatial proximity linkage [joining findspots at successive distance-
+thresholds - more accurate than a grid isopleth]; dark masses indicate dense
+clusters. Data from Schubert (1965). Below: the distribution of copper ores (dots)
+and known prehistoric mines (circles); large circles indicate a 200km radius around
+the most important sources. Source data from Maczek et al. (1954).
+
+                                        128
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+             AN   ESSAY    ON   EARLY    EUROPEAN       METALLURGY
+
+
+'hammer' end: Figure 4.14. In some cases this method was used to produce
+an actual working edge, and thus an axe-adze (e.g. Jaszladany type); in
+others, it simply produced a more elaborate terminal (e.g. Mezokeresztes
+type). Some examples of the latter - a local development in the upper Tisza
+area - are up to 32cm in length, indicating the abundance of copper supplies
+available. These developments took place in the Carpathian Basin rather
+than in the Balkans, where supplies seem to have been less plentiful and
+simpler forms continued. The Jaszladany type is by far the commonest and
+most widespread of the stray finds (Figure 4 . 1 5 ) , as well as being put into
+graves in the consuming area (zone 3) in the eastern Carpathian Basin.
+It was probably produced at a number of centres. Despite the large amounts
+of metal in circulation, however, there is no reason to believe that the trading
+mechanisms that distributed them were any more sophisticated than those
+involved in carrying stone supplies further north. The distribution map
+(Figure 4.16) for copper axes shows a concentration largely within the
+Carpathian Basin, and this pattern can be accounted for as the output of
+a number of sources on its edge whose scale of production was well below
+that documented for banded flint, for instance. While the use of copper
+added another new and desirable raw material, it caused no revolution in
+the sphere of trade.
+   The development of copper-working in the later fourth and third mil-
+lennia was the result of the availability of easily-smelted ores in locations
+already well known. The numerous analyses of hammer-axes, adze-axes and
+flat copper axes from this period (Patay et al. 1963; Junghans et al. 1968)
+show a consistent pattern almost without impurities, except for traces of
+silver. This would be compatible with the use either of native, oxide or
+carbonate ores, but it is likely that the bulk of copper came from the widely
+distributed (Table 4.1) ores, malachite and azurite, pieces of which have
+been found on a number of sites in Yugoslavia (e.g. Fafos: Jovanovic 1 9 7 1 ) .
+Over a wide area, from Macedonia and Bulgaria in the south to Slovakia in
+the north, the extensive deposits of ores of this kind allowed a simple metal-
+lurgy to flourish on an impressive scale. Although smelting was probably
+confined to areas immediately adjacent to the sources, re-melting probably
+took place over a wider area, and large objects traded outwards from the
+sources would, no doubt, at some stage have been broken down, as occasion
+demanded, into a multitude of smaller forms. No specialised ingots of
+comparable size are known. The processes involved in the manufacture of
+finished products are of a simple kind, involving only a one-piece open
+mould and a good deal of hammering (Coghlan 1 9 6 1 ; Charles 1 9 6 9 ) .
+   There is some evidence, even from the fourth millennium, of the pro-
+duction of arsenical alloys. One of the Tibava hammer-axes (SAM N O . 3 3 5 4 )
+contains 1.15 per cent of arsenic, and sporadic values of up to 4 per cent
+occur in objects from the later Copper Age. Such occurrences in no way
+imply the kind of regular trade in additives suggested by consistently high
+
+                                         129
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+                 RESOURCES,       TECHNOLOGY         AND    TRADE:
+
+
+tin values in the Bronze Age. As can be seen from Table 4.1, native arsenic
+and its oxides and sulphides occur commonly in association with the kinds
+of copper deposit under discussion. Indeed, the green pseudo-malachite
+mineral with a high arsenic content, similar in appearance to the pure
+copper carbonate, is occasionally found, and could well have been added
+quite accidentally. It is also, of course, likely that the effects of adding associ-
+ated arsenic minerals came to be appreciated and, with the development of
+closed-mould casting in the later third millennium (see below), the use of
+this additive became standard practice in south-east Europe (Chernykh
+1971) and the Aegean (Charles 1967), where tin supplies were sporadic.
+   The ores that sustained the output of massive copper axes were naturally
+limited in extent, and there are indications that by the later third millennium
+they were in short supply. Copper axes were no longer put in graves, and
+settlement finds are few. Some continuity was maintained in the north-west
+part of the basin where axes are found occasionally in Baden contexts in
+Austria and in Slovakia, and pieces of sheet metal were put in graves.
+Significantly, one or two pieces from this period are of Fahlerz, and while
+small amounts of purer copper ore remained (probably in relatively in-
+accessible areas) to be used sporadically for the next half-millennium, its
+main phase of use was over. The final stages of the third millennium marked
+a time of scarcity and experiment.
+   A curious situation then came about: at a time when raw-material sup-
+plies in the Carpathian Basin were short, contacts across the Pontic steppes
+with the Caucasian school of metallurgy (Chernykh 1966) introduced a new
+range of forms, such as the single-bladed axe (Mozsolics 1967), associated
+with the technique of closed casting in a two-piece mould. At the same time,
+local copper-working began over a much wider area of central and north-
+west Europe. This occurred in areas metallurgically entirely distinct: lacking
+extensive deposits of purer secondary ores, their industries developed on the
+basis of a supply of Fahlerz copper.
+   By the beginning of the second millennium, therefore, especially in
+Bohemia and central Germany but also further west, a second florescence of
+copper-using was under way. It is this 'Fahlerz boom' which has marked the
+Early Bronze Age of central Europe in general, and the Aunjetitz culture in
+particular, as a phenomenon of special interest to the prehistorian (Childe
+1957). Based initially on open-mould casting, this central European school
+later followed the Carpathian Basin in adopting the two-piece mould, at
+the same time taking local tin as a standard additive to improve closed
+castings in the same way that arsenic was adopted in the Balkans.
+   Spectographic analysis, of little use in identifying specific sources for the
+purer metals of the Copper Age, has proved of great value in distinguishing
+several varieties of Fahlerz (Otto and Witter 1952; Junghans et al. 1960;
+1968). The assemblages of the central European Early Bronze Age are
+dominated by a limited number of groups, chiefly CA' or Singen metal and
+
+                                         130
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+             AN   ESSAY   ON   EARLY     EUROPEAN        METALLURGY
+
+
+the so-called Qsenhalsring metal (Waterbolk and Butler 1965). Neither can
+be definitely attributed to a specific source: 'A' metal probably covers several
+sources including, possibly, some in the Harz mountains; but Osenhalsring
+metal shows a significant geographical patterning. Its concentration on the
+Upper Danube and in Moravia has been related both to a Slovakian and
+to an Alpine origin (Neuninger and Pittioni 1963; Bath-Bilkova 1973) but,
+whichever is correct, two features stand out - the large quantities that occur
+as ingots in hoards, and the contrast between the frequency of these in
+Moravia and the trickle of this metal that reached the Carpathian Basin.
+Only appreciably later did a local Fahlerz (FA/B or 'Otomani metal') become
+widespread in the Basin and allow a full expression of the forms that had
+developed there in the period of intervening scarcity (Schubert and Schubert
+1967).
+   What, then, was the social and historical significance of these changes in
+the availability of metal, and how do these relate to the questions set out in
+the opening section? In the first place, the development of a technology of
+copper-smelting from the purer secondary ores had few wider effects upon
+contemporary society. It was a local expression of processes widespread in
+Later Neolithic Europe - the exploration of the landscape, an intensified
+exploitation of raw materials, and a limited widening of trade networks. It
+added a new prestige material that was used in much the same way as stone
+and shell elsewhere. The earliest hammer-axes are a direct translation of the
+stone forms elsewhere called 'battle-axes', and are clearly the equivalents
+of these as deposits in graves. It was used for daggers - in phase II of the
+Tiszapolgar cemetery associated with somewhat younger adult males than
+the shaft-hole axes (Figure 4.8) - in place of stone blades, and it was used
+for armbands and beads in place of shell. Its importance was largely
+symbolic: the medium was the message.
+   The spread of metal-using further north in the second millennium was
+equally associated primarily with prestige uses. Again, the axe - in this case,
+the local flat form rather than a shaft-hole type - and the dagger were among
+the first applications, along with ornaments and the pins that were at this
+time becoming fashionable in place of buttons. There are, however, new
+features that are of significance for the social structure of the Bronze Age
+proper. The rich grave of Thun-Renzenbiihl in Switzerland (Figure 4.17;
+Strahm 1972) epitomises both old and new features. Axe and dagger retain
+their symbolic role, reinforced by a headband and belt-terminal which them-
+selves have antecedents in the later Copper Age. Cloak-pins of specific
+regional types no doubt proclaim local loyalties, but the six neck-rings intro-
+duce a new element of special importance. Such neck-rings (Qsenhalsringe)
+were evidently both traded as ingots and worn as ornaments. They occur in
+hoards of up to 600 (Schubert 1966) and are clearly counters as much as
+symbols of individual authority. In the Copper Age, groups of more than
+two or three axes found together are rare, and the 'hoard' of thirteen flat
+
+
+                                         131
+
+
+
+
+                  This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                   All use subject to https://about.jstor.org/terms
+
+                RESOURCES,      TECHNOLOGY         AND     TRADE:
+
+
+
+
+axes from the Plocnik settlement is unique. This is consistent with their
+inferred use as indicators of ascribed status. With the Osenhalsringe we
+have for the first time an element of accumulation, the achieved position of
+a 'big man' superadded to other inequalities. Contemporary with the
+Osenhalsringe are the massive axe-hoards of the Saale region, such as that
+of Grobers-Bennewitz, with 300 flanged axes, or the Dieskau II hoard in-
+cluding also daggers and halberds (Brunn 1959). Such collections are typical
+of the mixture of ingot-counters and display equipment that dominates
+European Bronze Age hoards down to the occurrence of industrial collec-
+tions ('smiths' hoards') which mark the system of rapid recycling necessary
+when bronze was used as a workaday material (Rowlands 1971).
+   It is unlikely that the goods that survive archaeologically moved in
+isolation: the greater concentration of metal in the Early Bronze Age, which
+for the first time saw the extensive import of metal objects to large areas,
+such as Denmark and north Germany, without local resources, must indi-
+cate also a greater mobility in other commodities, probably including sub-
+
+                                       132
+
+
+
+
+                This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                 All use subject to https://about.jstor.org/terms
+
+            AN   ESSAY    ON   EARLY    EUROPEAN        METALLURGY
+
+
+sistence products and textiles. The greater mobility offered by extensive
+transhumance and seafaring, the widespread use of the horse, all helped to
+make possible a wider network of exchange and trade. In the Aegean, the
+sudden flowering of inter-regional contacts in the later third millennium
+(Renfrew 1967) surely indicates the beginning of the type of complex
+maritime exchange-cycles so familiar to ethnographers (Figure 4.1).
+   The division of prehistory into Stone, Bronze and Iron Ages has had a
+remarkably long life since the scheme was first put forward in 1832. Seen as
+symptomatic of underlying ecological and social changes, rather than simply
+as a technological advance, the beginning of the Bronze Age retains its
+significance as a critical point in European development.
+
+
+
+
+                                       133
+
+
+
+
+                 This content downloaded from 128.122.149.9 on Thu, 27 Aug 2020 06:23:16 UTC
+                                  All use subject to https://about.jstor.org/terms
+
+                                          5

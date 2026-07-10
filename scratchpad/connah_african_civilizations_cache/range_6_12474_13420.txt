@@ -1,0 +1,947 @@
+Chapter 11
+Settlement growth and emerging polities:
+South Africa
+In this chapter, ‘South Africa’ describes the extremity of the continent south
+of a line from the Limpopo River, in the east, to Walvis Bay, in the west.
+It consists of the Republic of South Africa, together with southern parts of
+Namibia, Botswana, and Mozambique, as well as Lesotho and Swaziland,
+although attention will be limited to the ﬁrst of these modern states. Two
+characteristics of the archaeology of this region are of relevance to the subject
+of urban and state origins in Africa. First, environments in which trees were
+rare or absent resulted in the use of drystone construction for parts of many
+settlements, rendering them highly visible archaeologically, particularly
+if subsequently abandoned during the turbulent history of recent centuries.
+This allows detailed analysis of the layout of settlements and their relation-
+ship to landscapes. Second, the sociopolitical developments that are the
+subject of this book took place in South Africa within the last ﬁve hundred
+years at most and in many cases more recently, so that both documentary
+records and oral traditions are copious and valuable sources of information.
+In addition, linguistic and genetic studies can provide information on the
+relationships and movements of ethnic groups, to which investigations of
+pottery and other aspects of material culture can contribute. Thus, in the
+case of South Africa, we can examine processes of change for which there
+is much less evidence in some other parts of the continent at earlier dates.
+Not only can this throw light on the development of complexity in Africa as
+a whole, but an investigation of the South African data also has global
+relevance.
+
+
+Geographical location and environmental factors
+Mixed farming seems to have been well established in South Africa by the
+middle of the second millennium AD. However, the western and south-
+western parts of this huge area were too dry to grow African cereal crops
+or had winter rainfall instead of the necessary summer rainfall. In those parts
+of southern Africa, livestock-herding, hunter-gathering, or a combination of
+the two remained the subsistence strategies until European colonization over
+the last three hundred years or so. In contrast, to the east and north-east
+both cultivation and livestock, particularly cattle, were important. This was
+especially the case on the Highveld between the Vaal River and the Gariep
+
+330
+                                                                   South Africa
+
+River (formerly the Orange River) and some way north of the Vaal. In this
+area there are numerous deserted partly stone-built settlements belonging to
+the last few centuries, and some of them were the scenes of substantial social
+and political changes (Fig. 11.1). This is an area of temperate grassland,
+in South Africa referred to as the Veld, a word meaning grassland and
+open country. Indeed, the area is both of these, but it is also more than
+1,000 metres above sea level, so that it has a relatively cool and healthy
+climate. Much of it is good grazing country for livestock. It comprises two of
+the ten biomes, or ecological zones, into which the South African environ-
+ment can be divided (Mitchell 2002:15). These have been referred to as
+‘Grassland’ and ‘Mixed Woodland Savanna’. Signiﬁcantly, the majority of
+the archaeological sites discussed in this chapter are located within these
+zones (Mitchell 2002: ﬁg. 12.2).
+  In addition to livestock, both rainfall and soil in these zones are generally
+suitable for cereal cultivation, with sorghum and pearl millet formerly grown
+but after the seventeenth century increasingly maize, introduced from America.
+The latter can yield up to three times as much as the indigenous cereals and
+requires less labour for its cultivation. However, it needs 25 percent more rain,
+and in an environment prone to rainfall ﬂuctuations and serious drought, this
+was to have disastrous consequences (Mitchell 2002: 372). The existence of
+such ﬂuctuations is why livestock became so important; cattle-keeping, in
+particular, helped to protect against food shortages and provided a means of
+accumulating wealth and gathering supporters by loaning animals. Under-
+standably, cattle became the centre around which life revolved, even dictating
+the layout of the settlements in which farmers lived, a layout known as the
+Central Cattle Pattern that still characterizes patrilineal Eastern Bantu-
+speaking people (Mitchell 2002: 179–280). Concerning this matter more is
+known than usual, because many of the settlements were built partly in stone;
+speciﬁcally they included extensive drystone enclosure walls whose ruins are
+often still visible. As already mentioned, this was a response to the grassland
+environment, for the general lack of trees meant that there was little wood
+available for building, it being reserved for the framework of otherwise mud-
+built houses; in some cases houses were even built of stone. Such was the
+shortage of wood that dried dung had to be used for fuel in many places
+(Chirikure et al. 2008: ﬁg. 5.2), and iron tools and weapons had to be obtained
+by trade with other areas where there was sufﬁcient wood for smelting and
+smithing. However, in spite of the rounded character of much of the land-
+scape, there were also outcrops of rock that broke into pieces ideally suited for
+building. Settlements were often located on the ridges formed by such out-
+crops, giving ready access to building material as well as a commanding view
+of the surrounding plains.
+
+                                                                            331
+African Civilizations
+
+
+
+
+Fig. 11.1 Principal archaeological sites and places in South Africa mentioned in the
+text, showing the distribution of the three types of stone-walled settlement units on the
+South African Highveld. After Maggs 1976: ﬁg. 15 and Whitelaw 1997: ﬁg. 65. Drawn
+by Joe LeMonnier.
+
+
+
+332
+                                                                  South Africa
+
+Sources of information
+Historical evidence
+The earliest European settlements in South Africa were during the sixteenth
+century, so that substantial historical documentation provides information on
+African communities since that time (Theal 1964). Explorers, missionaries,
+traders, and others recorded what they saw, and these ethnohistorical sources
+indicate that urban development was already occurring in some places by the
+nineteenth century. For example, in 1801 Truter and Somerville estimated the
+number of huts at the Thlaping settlement of Old Lithako (which lacked stone
+structures), in north-eastern Cape Province, to be between 2,000 and 3,000,
+and the population between 10,000 and 15,000 (Walton 1956: 52). Further-
+more, in 1835 Gardiner reckoned the number of inhabitants at the Zulu
+capital of Mgungundlovu, in KwaZulu-Natal, at 5,500 (Parkington and
+Cronin 1979: 136), and the later Zulu capital of Ondini is thought to have
+housed up to 5,000 people at times during the 1870s (Watson and Watson
+1990: 34). Neither of these places possessed stone structures. In the case of
+Mgungundlovu, some of these visitors left plans and drawings of its layout, as
+well as descriptions. Another important documentary source is the account by
+John Campbell of his visit to Kaditshwene, the early nineteenth-century capital
+of the Hurutshe group of the Tswana, in 1820. He estimated its population as
+either 16,000 or 20,000; Stephen Kay, who visited in 1821, thought that it
+contained 13,000 to 14,000 people. In comparison, an 1824 ofﬁcial census
+recorded 18,668 occupants for Cape Town, the biggest colonial settlement at
+that time (Boeyens 2000: 3).
+  Historical documentation also provides evidence of state emergence, in
+several of the more densely populated parts of South Africa, by the nineteenth
+century. Best known is the Zulu kingdom, because of its violent conﬂict with
+other ethnic groups and with European colonial interests. However, there were
+also related Nguni polities and those of the Ndebele, Swazi, and others, which
+appeared during and after the Mfecane, a period of wars and population
+movements during the early nineteenth century (Fage and Verity 1978: 42).
+Oral traditions are another important source of information concerning these
+developments, and many of these traditions have been systematically recorded.
+This has provided substantial information on the ethnic identities of many of
+the people occupying the south-eastern part of South Africa, particularly the
+Sotho-Tswana of the Highveld. Anthropological and ethnological investiga-
+tions have further contributed to these contextual studies, so that much more is
+understood about the development of sociopolitical complexity in South
+Africa during the later second millennium AD than is the case for other parts
+
+
+                                                                           333
+African Civilizations
+
+of Africa during earlier periods. A major factor contributing to this difference
+was European settlement and trade, both of which expanded on an unpreced-
+ented scale in South Africa during the nineteenth century.
+
+
+Archaeological evidence
+Some of the earliest archaeological evidence for the emergence of social com-
+plexity in South Africa is in the Zoutpansberg Range, in what was formerly
+the northern Transvaal (now Limpopo Province). This seems to be dated to the
+ﬁfteenth century AD. Some sites with drystone structures in this region have
+similarities to the zimbabwe-tradition sites of Zambezia, notable examples being
+Dzata and Machemma. These are situated in a region later associated with the
+Venda, whose culture has been used to interpret symbolism at Great Zimbabwe
+(Huffman 1996). The Zoutpansberg had metal ores, good soils and pasture, and
+formerly abundant game, particularly elephants, and it is thought to be where
+the Sotho-Tswana people originated (Whitelaw 1997: 451). This was during
+a period with a cooler, drier climate; in some parts of South Africa, severe
+aridity probably occurred. As a consequence, farmers apparently had little
+interest in the Highveld, and it was probably only the increasing importance
+of cattle in their economy that led to substantial settlement in this zone. This
+occurred from about 1300; the site of Moor Park, in KwaZulu-Natal, is
+dated from the fourteenth to sixteenth centuries and consisted of a stone-walled
+enclosed hilltop, with evidence of domesticated cattle and sorghum cultivation
+(Mitchell 2002: 348; Huffman 2007: 33–4). Subsequently, a warmer, wetter
+period with more regular summer rains, which provided favourable conditions
+for cereal cultivation, might also have encouraged increased settlement of this
+high country. Radiocarbon dates suggest that this could have happened as late
+as the seventeenth century (Mitchell 2002: 348–9), although formerly a date
+two centuries earlier was suggested (Maggs 1976: 320). It was at this time
+that the earliest of many stone-walled settlements were built, in the north-
+eastern corner of the southern Highveld. Each of these consisted of a cluster of
+settlement units with layouts known to archaeologists as Type N (Fig. 11.2),
+after a site at Ntsuanatsatsi, in Free State Province. These settlement units had a
+central ring of circular livestock enclosures which were connected by walling to
+form a large secondary enclosure, outside of which were houses of reeds and
+mud, the whole complex being surrounded by a low outer wall. The layout
+allowed livestock to be penned in the centre of the unit, away from the living
+area around the huts. Each settlement unit seems to have housed an extended
+family and its livestock; settlements consisted of as many as a hundred such
+units, possibly containing up to 1,500 people. However, these early settlements
+were widely spaced compared with later ones, suggesting that the overall
+
+334
+                                                                          South Africa
+
+
+
+
+Fig. 11.2 Types of stone-walled settlement units on the South African Highveld. After
+Maggs 1976: ﬁg. 16. Copyright Taylor & Francis Ltd: www.tandfonline.com.
+
+population was still small. Excavation has produced broken pottery, clay ﬁgur-
+ines of cattle, iron and bone tools, bones of both domesticated and wild animals,
+stone platforms for grain bins, and indications that the houses were dome-like
+structures, sometimes with paved ﬂoors (Maggs 1976).
+                                                                                    335
+African Civilizations
+
+  After some time, the layout of the individual settlement units changed to one
+that is referred to by archaeologists as Type V (Fig. 11.2). Settlements consist-
+ing of units with this plan were much more common and more widespread
+than the earlier form and were located in areas with the best arable and grazing
+land, in part overlapping the distribution of Type N units. Each Type
+V settlement unit was made up of circular enclosures arranged in a rough
+circle and joined by connecting walls to form one large enclosure. The outer
+wall of the Type N units was no longer present, and the circular houses, which
+were sometimes of corbelled stone, were either in the open outside the large
+enclosure or formed part of the enclosure. Settlements comprising clusters of
+such units in some cases housed many hundreds of inhabitants. Occasional
+differences in the sizes of individual settlement units suggest that differences in
+wealth and power were developing within these communities. Furthermore,
+settlements were now closer together, indicating an increase in the overall
+population compared with the earlier period, and older settlements continued
+to be occupied or were reoccupied, stone from Type N settlement units often
+being robbed to build in the new style. Type V settlement units date from the
+seventeenth and eighteenth centuries, and excavations at the settlement site of
+Makgwareng, in the Free State, have provided information on the history of
+one of them. In this case the earliest occupants built enclosures of reeds, not
+stone, and constructed houses of mud-plastered reeds. Eventually these were
+replaced by ﬁve large stone enclosures that were linked to form a secondary
+enclosure, around which were six stone houses. In this form, the Makgwareng
+settlement unit was probably occupied by eighteen to forty-ﬁve people, com-
+prising a family homestead, but subsequently additional houses were built,
+suggesting that the number of occupants had increased. The end was appar-
+ently sudden and violent, with iron tools and weapons abandoned at the site.
+Like many other settlements with Type V units, it seems to have been des-
+troyed during the widespread warfare that engulfed this part of southern
+Africa in the early nineteenth century (Maggs 1976).
+  In the north-west of the Free State was yet another design of settlement unit,
+which archaeologists have called Type Z (Fig. 11.2). At the centre of each of
+these units was a compact group of circular enclosures for livestock; surround-
+ing these were eight to twenty circular houses, often with front and back semi-
+circular courtyards. The houses were different from those of either Type N or
+Type V settlement units. Apparently they had thatched conical roofs supported
+mainly by a ring of poles set outside the mud wall of the building itself, thus
+providing it with a veranda. Again, these settlement units were grouped
+together into settlements, of which one particularly large example at Matloang
+has been surveyed and partly excavated. At that place, tightly packed houses
+and livestock enclosures extended for more than a kilometre along a ridge and
+
+336
+                                                                     South Africa
+
+might have had a population of more than 1,000 people. Such settlements
+were probably occupied during the eighteenth century, but the earliest of them
+might be older. When oral traditions, historical accounts, and linguistic data
+are compared with the archaeological evidence, it appears that all three types
+of settlement unit were probably built by speakers of Sotho-Tswana languages
+but that whereas both Type N and Type V were the work of Sotho people, the
+ﬁrst style developing into the second, Type Z settlement units were built by
+Tswana people. Thus it seems that the differences in layout amongst the stone
+ruins of the Highveld reﬂect differences in its past populations (Maggs 1976).
+  During the 1960s and 1970s, the classiﬁcation of the stone-walled structures
+discussed above was based on aerial photographs. More recently, technologies
+such as Google Earth satellite imagery and Geographic Information System
+software have allowed more sophisticated analysis of such sites. Remotely
+sensed settlement data from the Suikerbosrand Nature Reserve near Johannes-
+burg have shown signiﬁcant changes in settlement patterns from dispersed
+homesteads to nucleated towns during the last two or three centuries before
+the colonial period. These changes are similar to those in other stone-walled
+structures, where they have been interpreted as indicating an evolution in
+social, political, and economic complexity. It is thought that climatic stress
+and conﬂict might have helped bring about these changes in settlement pat-
+terns. Structures have been classiﬁed into three groups: Group I dates from the
+ﬁfteenth to the seventeenth century and Groups II and III from the seventeenth
+to the nineteenth, although Group III might have been chronologically inter-
+mediate between Groups I and II (Sadr and Rodier 2012).
+  During the eighteenth century some Tswana settlements in the western
+Transvaal (now North-West Province) grew to a remarkable size, culminating
+in populations of 10,000 people or more. Kaditshwene appears to have been
+one of the largest, with a population in the early nineteenth century approach-
+ing 20,000, making it similar in size to contemporary Cape Town (Boeyens
+2000: 3). Molokwane, also in North-West Province, dating from the beginning
+of the eighteenth century, is thought to have been even larger. It was a
+settlement 3 kilometres in length, averaging 1.5 kilometres in width and with
+an area of approximately 4 to 5 square kilometres. It has to be regarded as
+urban in character, although it was called a ‘village’ by its investigator, who
+also described it as ‘the largest stone-walled archaeological site in South Africa’
+(Pistorius 1992: 17). Excavation of one of its smaller settlement units, covering
+an area of 1 hectare and loosely comparable in layout to the Type Z units, has
+provided a valuable picture of the life of its occupants (Fig. 11.3). Over
+79 percent of the meat consumed came from domestic animals, cattle outnum-
+bering sheep and goats, and there was evidence for the preparation of plant
+food, including grain. In addition, the internal arrangements of the settlement
+
+                                                                              337
+338
+
+
+
+
+      Fig. 11.3 Plan of excavated stone-walled settlement unit SEL1 at Molokwane, North-West Province, South Africa.
+      The layout consists of an outer wall enclosing dwellings, central kraal complexes, and an intervening unenclosed space.
+      After Pistorius 1992: ﬁg. 7.
+                                                                      South Africa
+
+unit shed light on the social structure of its inhabitants as well as on their daily
+activities. Considered as a whole, this huge settlement and others like it
+indicate increasing centralization of economic and political power by local
+rulers, at least partly in response to growing instability. Population expansion,
+partly fuelled by the introduction of maize, had led to greater competition
+between chiefdoms for arable land and grazing and to more frequent cattle
+raiding as a means of augmenting wealth. In addition, the onset of drought
+made the situation even worse, setting the stage for disaster (Antonites and
+Antonites 2014).
+  During the early nineteenth century there erupted a series of wars and
+population movements that originated in KwaZulu-Natal but subsequently
+affected much of south-eastern Africa. Known as the Mfecane by the Nguni,
+meaning ‘the crushing’, this explosion of violence seems to have been princi-
+pally sparked by intense competition for the control of resources, particularly
+those sought by European traders at Delagoa Bay, the location of the Mozam-
+bique port formerly known as Lourenço Marques (now Maputo). Slaves
+appear to have been one of those resources, but ivory was the principal one,
+as much as 50 tonnes (representing about 500 elephants) being exported each
+year from 1750 to 1790. This was mainly in exchange for glass beads, cloth,
+and brass. Such imports increased the wealth and power of those rulers who
+gained access to them, and the competition for elephants grew ever more
+intense as they became more difﬁcult to ﬁnd. In addition, there were the effects
+of population growth, resulting from the cultivation of maize, as mentioned
+earlier. Several severe drought episodes as well as crop rust and cattle disease
+made the situation even worse. Out of the resulting chaos emerged the Zulu
+state, centred in KwaZulu-Natal, but for the settlements of the Highveld the
+period has been remembered as the Difaqane by the Sotho-Tswana, meaning
+‘the scattering of tribes’. As European settlers moved north in the so-called
+Great Trek of the late 1830s, they found only deserted stone ruins in many
+places, not the thriving communities of people and animals that had formerly
+existed (Mitchell 2002: 369–79).
+  The increasing number and size of the stone-walled sites of the Highveld can
+be regarded as indications of urban development. Furthermore, the emergence
+of powerful centralized polities, such as that of the Zulus, out of the chaos of
+the Mfecane is a remarkable example of state development. In the Zulu case
+this was centred on a permanent army of young men of a given age, based in
+purpose-built military homesteads. Warfare enabled control of land, cattle,
+food, and agricultural labour, while the king controlled iron production and
+imported prestige goods. The success of the Zulu state is indicated by the Battle
+of Isandlwana in 1879, when the Zulus inﬂicted one of the most devastating
+defeats suffered by a British Army during colonial wars in Africa. Later that
+
+                                                                               339
+African Civilizations
+
+year the British retaliated at the Battle of Ulundi, breaking the military power
+of the Zulu nation by defeating its army, destroying the capital of Zululand,
+Ulundi, and capturing the Zulu king, Cetshwayo. The existence of the Zulu
+state had been brief, but it was an impressive example of indigenous state
+development in Africa.
+   The ruins of other stone-walled settlements exist in the south-east of South
+Africa, although individual settlement units are often relatively small. Never-
+theless, as already seen, in some instances the dense distribution of such
+structures and the size of some of them suggest the presence of substantial
+populations, with the potential for urban growth and state development. Such
+is the case in the Rustenburg region of North-West Province (Hall et al. 2008)
+and on the Mpumalanga Escarpment in Mpumalanga Province (Delius and
+Schoeman 2008). It was this potential that was most famously realized in the
+case of the Zulu; fortunately there are two sites of Zulu state capitals that have
+been investigated archaeologically. These are Mgungundlovu, in KwaZulu-
+Natal, occupied from 1829 to 1838 (Parkington and Cronin 1979), and the
+later capital of Ondini, dating from 1873 to 1879, in the same general area
+(Watson and Watson 1990). Each of these are thought to have housed about
+5,000 people at times, and although they both lacked stone structures, they
+were clearly impressive settlements. Mgungundlovu had an area of about 22.5
+hectares and a circumference of about 1.7 kilometres; Ondini covered about
+35 hectares. Because they were constructed in timber, reed, and thatch and in
+both cases had been destroyed by ﬁre, hut ﬂoors were ﬁred brick-hard, enab-
+ling excavation at Mgungundlovu to uncover the plans and layout of many
+huts as well as some of their internal details. At Ondini, excavation concen-
+trated instead on midden deposits, permitting a detailed study of faunal
+remains. On the basis of the meat weights estimated from the bones recovered,
+cattle overwhelmingly dominated the animal input of the diet. This was as
+expected from historical evidence for the major role of cattle in Zulu society at
+that time, providing hides for shields and clothing, as well as food, and also
+individual wealth for acquiring wives and for ritual and religious ceremonies.
+Together, the sites of Mgungundlovu and Ondini have contributed an import-
+ant insight into the character of nineteenth-century capitals in South Africa,
+enabling both urban and state development to be better understood.
+
+
+Subsistence economy
+Historical documentation and oral traditions indicate that mixed farming,
+consisting of cereal cultivation and livestock herding, was the basis of the
+subsistence economy of the stone-walled and related settlements of south-east
+South Africa. Perhaps as a result, relatively little attention appears to have been
+
+340
+                                                                     South Africa
+
+given to archaeobotanical evidence from excavations. Nevertheless, carbonized
+remains of sorghum, cowpeas, tsamma melons, and (from the eighteenth cen-
+tury onwards) maize have been recorded, as well as granaries and grain bins for
+storage. In addition, different forms of grindstones, used to prepare the grains as
+food, indicate the change from sorghum and millet growing to maize growing
+(Huffman 2007: 453–4; Antonites and Antonites 2014). More attention has
+been given to the meat supply, which overwhelmingly depended on cattle,
+although goats and sheep were kept and hunting and wild plant foods continued
+to be signiﬁcant resources (Mitchell 2002: 349). In contrast, the importance of
+cultivation to the economy is conﬁrmed by the distribution of stone-walled
+structures relative to the best arable soils. This suggests ‘a strong correlation
+between political courts and the best farmlands’ (Sadr and Rodier 2012: 1038).
+Although it is apparent that population growth, drought, and both animal and
+plant disease did cause periodic crises, the very existence of a growing popula-
+tion suggests that the subsistence economy was sound.
+
+
+Technology
+Two aspects of the technology of the Highveld and related settlements were
+particularly important. One was the building skill evident in the drystone
+structures at many sites, as well as in the use of reeds, mud, and thatch to
+produce serviceable and attractive houses. By the early nineteenth century, if
+not before, numerous houses in Tswana settlements were even provided with
+the sophistication of sliding doors. European visitors recorded these, and
+excavators have found the grooves in which they ran, as well as the remains
+of wood from the doors themselves. In addition, contemporary accounts
+mention ﬁnely polished mud ﬂoors, verandas, courtyards, internally plastered
+walls and ceilings, a void in the conical roof above the ceiling (presumably for
+insulation), painted decorations, and the general cleanliness of the houses
+(Maggs 1993). Clearly the occupants of these settlements were accomplished
+builders with a pride in their work. The second aspect of technology that
+deserves attention was metalworking, from the early second millennium AD,
+including both iron and copper smelting and manufacturing (Fig. 11.4) and
+mining to obtain the necessary ores (Hall et al. 2006). Tin was also mined and
+alloyed with copper to produce bronze (Huffman 2007: 87–8). At Rooiberg,
+in the Southern Waterberg of Limpopo Province, is the only source in southern
+Africa of cassiterite (a tin oxide) that has provided evidence of its mining
+before European colonization (Bandama et al. 2013). Because of the shortage
+of wood in many areas, communities with access to fuel for smelting and
+smithing, as well as the necessary ores, specialized in metalworking. They then
+traded their products to populations whose lack of fuel prevented such work
+
+                                                                              341
+342
+
+
+
+
+      Fig. 11.4 The central part of the settlement of Marothodi, North-West Province, South Africa, showing the location of copper- and
+      iron-working areas in relation to the homesteads. After Hall et al. 2006: ﬁg. 2. Reproduced by permission of Africa Magna
+      Verlag, Frankfurt am Main.
+                                                                    South Africa
+
+(Chirikure et al. 2008). A wide range of utilitarian iron goods was produced
+for both agriculture and warfare; copper (and sometimes bronze) was used for
+personal adornment. Other signiﬁcant aspects of technology included the
+manufacture of salt and the mining of ochre (Huffman 2007: 90–1). There
+was also the production of ﬁne pottery and the making of leather goods such
+as clothing and shields. In addition, the Lydenburg Head and associated
+artefacts from Mpumalanga Province (Huffman 2007: 67), although earlier
+in date than the period discussed here, indicate a tradition of technical skill in
+the forming and ﬁring of terracotta sculpture. Overall, archaeological and
+other evidence suggests that the occupants of the stone-walled and related
+settlements had a sophisticated technology and that a degree of functional
+specialization had already developed within a context of sociopolitical change.
+
+
+Social system
+The archaeological evidence, like the documentary and oral evidence, indi-
+cates the existence of a hierarchical society of chiefs and kings based on
+populations of subsistence farmers. If the clusters of stone-walled settlement
+units consisted of those occupied at the same time, then the larger clusters
+represented larger settlements, and it is thought that the size of settlements
+reﬂected wealth and political power. Large middens also indicate greater
+political power, as they represent court, rather than household garbage.
+Sadr and Rodier (2012) used the ranked sizes of individual settlements to
+suggest the relative political and economic stratiﬁcation of their different
+settlement groups. Clearly, varying degrees of urbanism were developing
+amongst the Sotho-Tswana, as well as state formation at different levels.
+For these changes to take place, social organization based on age sets and
+circumcision-initiation schools tended to be replaced by militaristic govern-
+ance, of which Shaka’s Zulu state was the best known example. Young men
+of similar age were formed into regiments that lived together, were not
+allowed to marry until they had served in action, and were under the control
+of commanders answerable to the king. In addition, lineage heads lost power
+to an elite centred on the royal lineage (Mitchell 2002: 372–3). This was a
+state produced by interethnic conﬂict and dependant on warfare; it was
+inevitable that it should eventually collapse when confronted by expanding
+European interests in southern Africa, in spite of ﬁelding an army of 20,000
+at the Battle of Ulundi. Assegais (short iron-tipped stabbing spears) and
+obsolete or captured ﬁrearms were no match for late-nineteenth-century
+European military technology. Although polities similar to that of the Zulu
+emerged or began to emerge amongst other people, they also were swept
+away in the sociopolitical maelstrom of nineteenth-century southern Africa.
+
+                                                                             343
+African Civilizations
+
+Population pressures
+The Mfecane appears to have been largely the consequence of population
+increase during agriculturally productive periods, followed by drought and
+food shortages leading to severe sociopolitical dislocation. The adoption of
+maize, more productive than sorghum or millet but more vulnerable to ﬂuctu-
+ations in rainfall (p. 331), is thought to have contributed to this crisis.
+Although competition for access to overseas trade was another cause of the
+violence that erupted, there seems little doubt that the Mfecane was itself an
+indication of population pressures in southern Africa during the nineteenth
+century. More people meant less food, a shortage that could be relieved only
+by taking other people’s food, by force if necessary. Archaeological evidence
+for population stress is present amongst Bokoni settlements of the Mpuma-
+langa Escarpment, dated to within the last 400 years. These settlements are
+remarkable because ‘not only are the homesteads preserved but there are also
+networks of linking roads and vast areas of agricultural terraces’ (Maggs
+2008: 173). It has been suggested that such developments represent ‘islands
+of agricultural intensiﬁcation’, capable of supporting larger populations
+(Maggs 2008: 178–9); part of the Lydenburg valley, for example, had a
+maximum population of perhaps 19,000 to 57,000 (Maggs 2008: 172–3).
+It seems that population pressures did contribute to the development of
+sociopolitical complexity in this part of southern Africa.
+
+
+Ideology
+Little appears to have been known of Sotho-Tswana religious beliefs and
+practices until the nineteenth century, when Christian missionary endeavour
+was already transforming traditional ideas as well as misunderstanding them.
+Shamanism, in which altered states of consciousness enabled interaction with
+the spirit world, with ancestors acting as intermediaries, seems to have been
+central to these ideas. Herbalist healers and diviners functioned as shamans,
+spiritual counsellors, and protectors against evil spirits and black magic. Polit-
+ical leaders were often expected to preside over rituals of fertility, rain making,
+and warfare that strengthened the people and the land. In many African
+societies, kingship was essentially divine kingship, in which ‘“ceremonies”
+and the importance of the “following of people” were at the core of the notion
+of power’ (de Maret 2012: 315). As de Maret stressed, it is necessary to
+recognize sacred power in the archaeological record, focussing on palaces,
+cities, burials, and regalia. In the case of the Sotho-Tswana occupants of the
+stone-walled settlements in south-eastern South Africa, aspects of such evidence
+do show religious ideology providing the basis of political control.
+
+344
+                                                                    South Africa
+
+Archaeological evidence of the role of ideology in the functioning of these
+societies is also present in the form of rain-making sites (Huffman 2007: 71–3).
+
+
+External trade
+By the nineteenth century, international maritime activity along South Africa’s
+eastern coast had stimulated a major expansion of its external trade. The Sotho-
+Tswana stone-walled settlements and adjacent areas, although inland, were
+within relatively easy reach of that coast, where Delagoa Bay (now Maputo)
+provided access to international markets and suppliers. The most important
+African export commodity was probably ivory, to satisfy a growing European
+demand for piano keys and a variety of other items, as well as for raw material to
+feed a long-standing tradition of ivory carving. Slaves were another export, along
+with rhinoceros horn, gold, tin, skins, and African exotica. In addition, visiting
+ships needed provisions, particularly meat, with European and American whalers
+calling at Delagoa Bay for that purpose. In exchange, glass beads, cloth, brass,
+ceramics, and other manufactured goods were imported, providing wealth that
+rulers and associated elite could use to accumulate more cattle and therefore
+strengthen their power base. Signiﬁcantly, the Zulu state, the most successful
+and aggressive polity in the coastal region, was adjacent to Delagoa Bay. As
+already stated, competition for access to overseas trade is thought to have been a
+contributory factor to the violence that erupted in the Mfecane, for which the
+Zulus have often been blamed. Another view is that the Zulu part in this was a
+defensive response by Shaka to slave raiding from Delagoa Bay and aggression
+from Cape Colony (Cobbing 1988; Gordon 2009), but this interpretation has
+been questioned (Mitchell 2002: 370). Whatever the case, it seems that external
+trade played a part in the sociopolitical developments that occurred.
+  As in other parts of Africa, however, the role of external trade must be seen
+in the context of indigenous African trading networks. Differential distribution
+of resources meant that there was a complex internal network of trade in iron,
+copper, salt, specularite, pigments, animal skins, feathers, ostrich eggshell
+beads, a variety of foodstuffs, and other things (Mitchell 2002). Any consider-
+ation of the part that trade played in the development of sociopolitical com-
+plexity in parts of southern Africa must consider internal trade as well as
+external trade and the interaction between the two.
+
+
+Conclusion
+The Highveld and associated areas of South Africa have large numbers of
+archaeological sites that constitute the remains of farming settlements dating
+to only the last few centuries. Drystone construction ensures the archaeological
+
+                                                                             345
+African Civilizations
+
+visibility of many of these sites, and both documentary records and oral
+traditions are informative. Consequently, we are provided with an opportunity
+to see the emergence of aspects of sociopolitical complexity actually in
+progress. Study of evidence from this recent past reveals examples of the
+beginnings of urbanization and of state formation. These nineteenth-century
+developments were inevitably hesitant, constrained as they were by indigenous
+political instability and growing colonial interference, but they do enable us to
+see the circumstances in which the changes took place.
+  To begin with, relatively good soil and pasture in some areas supported
+mixed farming, to which cereals and cattle herding were the main contributors
+and which in some instances involved intensive production. This resulted
+in both population increase and greater local population density, so that the
+number of settlements and their individual sizes became greater. Furthermore,
+some of the occupants of these settlements had technological skills, particu-
+larly in building with stone, mud, and organic materials, and in metal mining,
+smelting, and manufacture, resulting in a degree of functional specialization.
+However, population size and density contributed to the growth of a hierarch-
+ical social system that was based on subsistence farming, varying in scale from
+small chiefdoms to emergent states. Unfortunately, population pressures also
+caused social instability, a situation made worse by the introduction of maize,
+a cereal with a greater yield than sorghum or millet but vulnerable to the
+periodic droughts of the region. Religious ideology provided the basis of
+political control by rulers, but this was often weakened by severe competition
+for resources. In addition, access to commodities from external trade and to
+the means of paying for these brought on serious interethnic conﬂict. Added
+to the violence and disruption that resulted was the increasing pressure of
+colonial settlement. In the end, the South African evidence shows not only
+how sociopolitical complexity can develop but also how it can fail.
+
+
+
+
+346
+Chapter 12
+What are the common denominators?
+
+
+The examples of African precolonial urbanization and state formation dis-
+cussed in Chapters 2 to 11 come from a wide range of environments. These
+include river valley, such as Egypt and Nubia; mountain plateau, for example,
+Aksum and Zambezia; savanna plain, for instance, Kano; rainforest, such as
+Ife and Central Africa; maritime fringe, as with the Swahili coast; grassland,
+such as the South African Highveld; and desert margins, for example, North
+Africa. The geographical locations of these developments within the continent
+are equally diverse. Egypt and Nubia were so positioned that they had sub-
+stantial and long-standing contacts with the eastern Mediterranean. Aksum
+was situated beside a major trade route between the Mediterranean world and
+the lands of the Indian Ocean. Zambezia also had contact with Indian Ocean
+trade, although more remotely. The West African savanna, on the other hand,
+was separated from the outside world by one of the greatest deserts on earth,
+the traversal of which weakened external cultural inﬂuences. This was even
+more the case in the West African forest, situated far to the south of the desert
+margins and backed by the empty Atlantic Ocean that for many centuries was
+a more effective barrier than the Sahara. Different again were the cities and
+towns of the East African coast, which looked out on the Indian Ocean
+that provided links with distant but technologically sophisticated cultures.
+More remote from such contacts was Central Africa, which had relatively
+little contact with the outside world until quite late, as was also the case for the
+South African Highveld. North Africa looked north to the heart of the ancient
+world but also south into the Sahara, with some remarkable adaptations to its
+extreme environments. Such environmental and geographical diversity would
+suggest that we must look elsewhere for any common factors that might
+explain the appearance of social complexity in some parts of the African
+continent and, equally, its failure to appear in other parts.
+   Nevertheless, each area had its own characteristic environmental and
+geographical opportunities. In every case there were also environmental con-
+straints, but the ingenuity of human culture partly mitigated their impact.
+Nowhere is this more starkly illustrated than on the middle Nile; on the one
+hand, the river offered life, but on the other hand, parts of the surrounding
+environment were so dry as to be scarcely habitable. Yet by means of a
+combination of irrigation, rainfed cultivation, and pastoralism, human popu-
+lations were able to exploit both the river and the adjacent savanna and
+
+                                                                               347
+African Civilizations
+
+desert margins. So successfully were the environmental constraints overcome
+that this area was the scene of some of Africa’s earliest states and cities and a
+long succession of such developments. A similar interplay of environmental
+opportunity, environmental constraint, and human culture can be discerned
+(to varying extents) in each of the cases that have been considered. This
+interplay was a dynamic one, and its outcome in each case was normally in
+favour of the human inhabitants, except when episodic imbalance threatened
+collapse of the often delicately balanced system. However, this does not go
+very far in explaining the emergence of social complexity in Africa; obviously,
+human beings thrive better in some places than in others, but this is no reason
+why they should build cities or create states.
+  However, it is the numbers of people who thrived that might be signiﬁcant.
+Population sizes and densities in the relevant areas seem to have been higher
+than was usual in this generally thinly populated continent. As a result,
+localized population pressures probably developed, but all of the areas dis-
+cussed had a strong subsistence base with potential for a storable, transport-
+able surplus that could normally alleviate such pressures. Most people were
+agriculturalists, growing a range of food plants suited to local environments
+and keeping livestock, though the latter was limited by trypanosomiasis in the
+West African forest and in some other parts of Africa. The importance of
+pastoralism (Smith 1992) can hardly be overstated: herds of cattle and ﬂocks
+of sheep and goats converted grass into wealth during good years and could
+provide relief from starvation when crops failed in bad years. The farmers and
+the pastoralists were often different groups of people, interacting with one
+another, but from this symbiosis came strength, just as weakness resulted from
+their periodic conﬂicts. In addition, in some areas there was an intensiﬁcation
+of agricultural strategy, and this in a continent where agricultural systems have
+tended to be extensive rather than intensive. Thus, on the middle Nile more
+efﬁcient irrigation was achieved by introducing the ox-driven waterwheel; in
+the Inland Niger Delta of Mali recessional cultivation of rice was developed;
+and in the Ethiopian Highlands slopes were terraced and water-storage dams
+constructed. Developments of this sort would suggest that populations in such
+areas were indeed increasing, creating a demand for more food and for more
+labour to produce it. It is surely signiﬁcant that people became such an
+important trade commodity in some parts of Africa; slaves have a long history
+in the continent for both export and internal use. In Africa, as elsewhere in the
+world, one should remember George Orwell’s remark about ‘those hundreds
+of millions of slaves on whose backs civilization rested generation after
+generation’ (Orwell 1966: 238).
+  In each of the areas considered, the exploitation of resources included
+not only a mixed agricultural strategy but also a varied and sometimes
+
+348
+                                         What are the common denominators?
+
+sophisticated metallurgically based technology. Most of the relevant societies
+were proﬁcient in the working of iron; iron technology has been extremely
+important in Africa as an enabling and intensifying agent during the last two
+millennia or so. Without iron, the farmers of the West African forest could not
+have exploited their heavily vegetated environment as successfully as they did,
+nor could the occupants of Bigo in Uganda have dug such impressive rock-cut
+ditches. Iron provided both the tools to exploit available resources and the
+weapons to discourage others who coveted them. In addition to iron working
+and other metallurgical skills, the technology of the groups of people discussed
+in this book covered a range of abilities. Although engineering knowledge of
+the sort indicated by the Aksumite stelae seems to have been unusual, there
+was, nevertheless, a widespread understanding of building techniques, in
+stone, ﬁred brick, mud-brick, coursed mud, wood, grass, and in other organic
+materials. Building technology was both diverse and accomplished. Further-
+more, there appear to have been other crafts, including pottery making, wood
+working, textile production, and leather working. In some instances, there
+must also have been people with skills speciﬁc to the region, such as boat
+builders and sailors on the middle Nile or the East African coast, and scribes
+in Meroë or Aksum where indigenous alphabets were developed. When it
+is considered that a number of the cases studied also have evidence of religious
+functionaries, government ofﬁcials, and specialist traders, it becomes apparent
+that some degree of functional specialization was probably present in the areas
+examined.
+   Inevitably, some resources were more limited than others, and as Haas
+(1982: 151) claimed, it is control of resources that gives rulers their power
+(p. 7). All of the cases examined in this book show unmistakable signs of the
+emergence of an elite who told other people what to do. The question is, what
+were the vital resources that they controlled? Most commonly this has been
+answered by pointing to the existence of raw materials such as gold, ivory, and
+other things that commanded a high price on the world market. Control of
+these meant control of long-distance trade, and control of such trade provided
+prestige and wealth. Thus appeared the African elites; thus developed the cities
+and the states. The problem with this explanation is not that it is incorrect but
+that it is wrongly timed. Looking at the archaeological evidence in North
+Africa, on the middle Nile, in the Ethiopian Highlands, or along the East
+African coast, it is clear that external long-distance trade did sometimes play
+a major role in African urbanization and state formation, but it seems that this
+was as an intensiﬁer rather than as an originator. We now have evidence that
+suggests an indigenous origin for the development of social complexity on
+the East African coast; the earliest urbanization in the West African savanna
+pre-dates the growth of large-scale trans-Saharan trade; and in Central Africa
+
+                                                                            349
+African Civilizations
+
+there are signs of increasing social complexity at a time before there was
+any substantial long-distance trade with the outside world. Furthermore,
+neither Zambezia nor the West African forest has evidence for early long-
+distance trade on a large scale, and even in the middle Nile and the Ethiopian
+Highlands the origins of sociopolitical changes seem to have pre-dated such
+a development.
+   If external long-distance trade was merely an intensiﬁer of changes that had
+already commenced, then the question remains of what started them. There
+seem to be two possibilities. The ﬁrst is that extensive internal trading net-
+works preexisted external trading contacts and that African elites ﬁrst gained
+power by controlling resources within such internal exchange systems.
+Copper, iron, and salt are likely to have been amongst these resources, but
+there could have been many more, including the gold and ivory that subse-
+quently became so vital to the overseas trade. Indeed, the earliest commodities
+to be exchanged by internal trade were probably foodstuffs and other plant
+and animal resources. The ecological diversity of much of Africa makes this
+likely, and, in fact, the movement of such commodities has remained signiﬁ-
+cant down to modern times. For example, shea butter has been exported from
+northern Nigeria to the south of that country, whilst kola nuts travelled in the
+opposite direction (Shaw 1984: 156); Africa has many other, similar instances
+of resource exchange. Although archaeology tends to be silent on perishable
+goods, there is some indication that early internal trading networks did exist,
+particularly in Central Africa, West Africa, and Ethiopia. This being the case,
+it seems likely that external long-distance trade merely plugged into the extant
+circuitry of the internal networks.
+   A second possible explanation is that elite power was ﬁrst acquired by the
+control of land – not any land but land with an unusually high production
+potential. The role of this factor is seen as possibly complementary to that of
+internal trade, rather than as an alternative to it. Given the relatively poor
+quality of many African soils, together with their often moisture-stressed
+condition, and given expanding populations in some places, the greatest
+competition was likely to be around land which was more highly productive.
+In all of the case studies examined, it is possible to ﬁnd indications that such
+land might have existed. Thus, in an environment surrounded by desert, the
+lower Nile had seasonal ﬂoods carrying fertile silt, which beneﬁtted some
+places more than others. In the middle Nile area, fertile silts that could be
+reached by the available irrigation technology were limited, and the propor-
+tion of each year for which they could be watered varied with location. As a
+result, some areas of land must have been more productive than others. On the
+north-eastern Ethiopian plateau, some soils were more fertile than others and
+more suitable for plough cultivation of cereals, giving them a signiﬁcant role
+
+350
+                                         What are the common denominators?
+
+during episodes of famine. The generally water-stressed environment of the
+West African savanna gave the limited areas available for recessional cultiva-
+tion, such as parts of the Inland Niger Delta, a particular importance. In the
+West African forest, it seems to have been the upper interﬂuves and the forest–
+savanna ecotonal areas that provided the best farmlands, and these were
+limited. For the East African coast it was a matter of fertile soils and
+water availability, some areas being better provided for than others. On the
+Zimbabwe Plateau, it was again a matter of soils, where some soils were
+particularly fertile in an otherwise rocky area with granite-derived soils of
+poor fertility. For the Upemba Depression it was access to seasonally inun-
+dated fertile alluvium and to the most productive ﬁshing grounds. In the
+Interlacustrine Region, in areas of good rainfall it was control of the best
+soils for cultivation, and in drier areas it was control of the best grazing lands
+for cattle. In both North and South Africa there were also areas with more
+rainfall or better pasture.
+  So it is possible that the crucial common factor underlying the emergence of
+African elites was access to, and control of, more highly productive land. If this
+was the case, then we have an indigenous explanation for the origin of social
+complexity in some parts of Africa. Doubtless, local trading networks also
+played an important role, and, clearly, external long-distance trade eventually
+came to act as an intensifying agent of signiﬁcance. Nevertheless, this ‘pro-
+ductive land hypothesis’, as it might be called, does provide an originating
+agent, within each locality, of the developments that we are seeking to under-
+stand. It also provides an hypothesis that is testable, as ﬁeld research pro-
+gresses. Nevertheless, those who argue that control of people was more
+important than control of land have challenged this explanation (Edwards
+1994: 9; Peel 2000: 515). After all, they claim, in the past there was no
+shortage of land in an essentially underpopulated Africa, but their argument
+fails to allow for the extensive areas of the continent where land is of limited
+use due to low fertility, rocky surfaces, hard topsoils of laterite (clay high in
+iron oxides), and other factors. In reality, a combination of land and people
+as a controllable resource has greater explanatory value; land is needed to
+support increasing numbers of people, but increasing numbers of people are
+needed to make the land productive.
+  With the emergence of an elite, a social hierarchy also developed. All of the
+archaeological examples that have been examined show signs of such social
+differentiation to a greater or lesser degree. There were clearly those few who
+were in charge and those masses who did what they were told. Less easy to
+recognize are the people in the middle, who acted on behalf of the elite but
+were neither of their ranks nor of the labouring majority. Whatever the details
+of the hierarchy, however, in each of the cases reviewed in this book it was
+
+                                                                             351
+African Civilizations
+
+legitimized and reinforced by one form or another of religious ideology. In all
+instances, the earliest manifestations of this were indigenous, presumably
+animistic, religions, but in cases where there was prolonged contact with the
+outside world Christianity or Islam eventually replaced these. Whatever its
+form, however, it does seem that in each case the spiritual came to the aid of
+the material. That is to understate the importance of African indigenous
+religions, particularly during the earlier phases of the processes with which
+this book is concerned. Such religions were often a means of manipulating
+the forces believed to control fertility, in all senses of that word, and therefore
+gave power to those who were thought to be able to do this. In that case, the
+role of religion could have been much more than merely validating the author-
+ity of those who had acquired power by other means; African power holders
+were frequently priests themselves. As such, they could indeed have claimed
+control of the best land and of the people to work it, or of the internal
+exchange systems, or even, eventually, of their end of external long-distance
+trade networks, and who would have been prepared to deny them? As for
+the ordinary people, they needed to be assured that the sun would really rise
+tomorrow and the rain fall when needed, and in exchange they had no choice
+but to accept their condition.
+   This book has been more concerned with archaeological evidence than with
+theoretical matters, which often generate esoteric explanations incomprehen-
+sible to people in general and difﬁcult even for some anthropologists and
+sociologists to understand. Its objective has been to explain how we know
+what we think we know. Nevertheless, any attempt to identify the main factors
+that gave rise to the cities and states of precolonial Africa has theoretical
+implications. For example, it appears that the power theory of state formation
+advocated by Haas (p. 7) does help us to understand the African situation and
+therefore does have some explanatory value. Furthermore, it seems that Lons-
+dale (p. 7) was correct in concluding that state formation in Africa was a very
+slow process, involving the coercive centralization of power and resulting from
+local politics, not from external ideas. This being the case, one is inclined to
+agree with Renfrew (p. 7) that the division into ‘pristine’ and ‘secondary’
+states, which has so often been made, is a meaningless exercise. It was
+Renfrew’s insistence that ‘to understand the origins and development of any
+civilization’ it is necessary to look at its local conditions, which suggested an
+analytical framework for each chapter of this book, hence the repeated sub-
+sections examining those conditions.
+   What of the idea of heterarchy, instead of hierarchy, as a basis for socio-
+political organization? This has been advanced as an alternative model for the
+development of complexity (p. 160), a model in which society is most simply
+described as organized horizontally rather than vertically (McIntosh 2005: 187).
+
+352
+                                          What are the common denominators?
+
+It is an important idea but one that appears to depend on a lack of evidence
+for hierarchy rather than on the presence of positive evidence for heterarchy.
+Probably such evidence will become available only after there has been much
+more extensive excavation of relevant urban sites.
+   Unfortunately, all the attempted explanations for the origins of social com-
+plexity that have been discussed above are somewhat mechanistic; in terms
+of argument it is a case of A plus B plus C must equal D, but surely the reality is
+more complex than that. Inevitably there is a temptation to claim that the
+problem is insoluble, simply because it is so complex and involves so many
+interrelated factors whose associations are obscure. In the end it is perhaps
+Jared Diamond who has come nearest to an explanation that is both coherent
+and comprehensible. He argues that as the size of human groups increases,
+‘Considerations of conﬂict resolution, decision making, economics, and space
+thus converge in requiring large societies to be centralized’ (Diamond 1998:
+288). In short, increasing levels of social complexity become essential if larger
+and larger groups of people are to live together successfully. For sure, the
+other factors discussed in this book are important contributors to change –
+subsistence, technology, social system, population pressures, ideology, and
+external trade – they provide what Diamond calls ‘autocatalysis’ (Diamond
+1998: 285), a condition where the individual factors stimulate each other
+and collectively trigger the developments that we seek to understand but do
+not individually cause them (‘catalysis of a reaction by one of its products’,
+Concise Oxford English Dictionary 2011: 88).
+   Clearly the development of cities and the formation of states in Africa were
+not aspects of a single process; not all cities were capitals of signiﬁcant states
+and not all states had large, static centres of population. Nevertheless, they
+were both important manifestations of precolonial complex societies, and it is
+sometimes difﬁcult to discuss them in isolation. Centralization of power, social
+stratiﬁcation, functional specialization, and other related developments,
+together with population growth and population pressures, are phenomena
+that can be associated with both the appearance of cities and the emergence of
+states. Furthermore, their separate identiﬁcation in the archaeological record
+can be particularly difﬁcult. In some cases we do have physical evidence for
+the existence of settlements in which relatively large numbers of people were
+congregated; whether they are called large villages, towns, or even cities, the
+important point is that they were relatively dense aggregations of population,
+recalling Mabogunje’s straightforward deﬁnition of urbanization (p. 6). More
+ambiguous, however, are the instances of archaeological evidence that might
+suggest the extension of political authority, or at least some commonality of
+culture, over a substantial geographical area. Indeed, even in the minds of
+some of the African people involved, it seems that the ideas of city and state
+
+                                                                              353
+African Civilizations
+
+might at times have been inextricably associated. Thus, in 1893, Lugard found
+it necessary to emphasize the close association of state, ruler, and city in the
+case of Buganda: ‘The Waganda consider their country to be where the King is,
+and if no Kabaka of the Royal blood is installed in Mengo [the capital], the
+result would be a break-up of the people’ (Lugard 1893: 36). It is with
+the opposite process of the coming together of people in tropical Africa that
+this book has been concerned.
+   In the African case this coming together occurred in a diversity of forms.
+Varied in their indigenous origins, states were also variously inﬂuenced by
+Pharaonic Egypt, by the ancient Mediterranean, by the Christian world,
+by Islamic North Africa, by Indian Ocean traders, and by each other. Urban
+centres also showed considerable variety: some were densely occupied for long
+periods, some only brieﬂy occupied, some completely mobile, some with
+transient residence from season to season and year to year, and some with
+dispersed settlement covering enormous areas. Such diversity would suggest
+that the physical evidence for African social complexity would merit far more
+attention from archaeologists than it has yet had and that the African devel-
+opments might have a far greater role in the formation of global social theory
+than has yet been the case.
+
+
+
+
+354

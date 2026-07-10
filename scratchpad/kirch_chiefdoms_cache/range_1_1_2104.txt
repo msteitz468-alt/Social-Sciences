@@ -1,0 +1,2104 @@
+The evolution of
+the Polynesian
+chiefdoms
+PATRICK VINTON KIRCH
+ NUNC COCNOSCO EX PARTE
+
+
+
+
+THOMAS J. BATA LIBRARY
+  TRENT UNIVERSITY
+         Digitized by the Internet Archive
+            in 2019 with funding from
+            Kahle/Austin Foundation
+
+
+
+
+https://archive.org/details/evolutionofpolynOOOOkirc
+NEW STUDIES IN ARCHAEOLOGY
+
+
+
+
+The evolution of the Polynesian chiefdoms
+ NEW STUDIES IN ARCHAEOLOGY
+
+ Series editors
+
+ Colin Renfrew, University of Cambridge
+Jeremy Sabloff, University of Pittsburgh
+
+
+
+
+Other titles in the series
+
+Dean E. Arnold, Ceramic theory and cultural process
+Graeme Barker, Prehistoric farming in Europe
+Richard E. Blanton, Stephen A. Kowalewski, Gary Feinman and
+   Jill Appel, Ancient Mesoamerica
+Peter Bogucki, Forest farmers and stockherders
+Graham Connah, Three thousand years in Africa
+Geoffrey W. Conrad and Arthur A. Demarest, Religion and empire:
+   the dynamics of Aztec and Inca expansionism
+Olivier de Montmollin, The archaeology of political structure
+John Fox, Maya Postclassic state formation
+Bo Graslund, The birth of prehistoric chronology
+Ian Hodder, Symbols in action
+Ian Hodder and Clive Orton, Spatial analysis in archaeology
+Rosalind Hunter-Anderson, Prehistoric adaptation in the American
+   southwest
+Patrick Kirch, The evolution of the Polynesian chiefdoms
+Daniel Miller, Artefacts as categories
+Ian Morris, Burial and ancient society: the rise of the Greek city-state
+Keith Muckelroy, Maritime archaeology
+Stephen Plog, Stylistic variation in prehistoric ceramics
+Michael Shanks and Christopher Tilley, Re-constructing archaeology
+Joseph A. Tainter, The collapse of complex societies
+Robin Torrence, Production and exchange of stone tools
+Peter Wells, Culture contact and culture change
+Alasdair Whittle, Problems in Neolithic archaeology
+Frontispiece. The Tahitian fleet assembled at Opare‘e, as seen
+during Captain James Cook’s second voyage, 1774. (Lithograph
+based on original oil bv W. Hodges: photo courtesy Bishop
+Museum.)
+The evolution of the
+Polynesian chiefdoms
+
+
+
+
+PATRICK VINTON KIRCH
+
+
+
+
+                           lioni   UnivB/-sijy library
+                              PfiJiMBOi-ouaji* ot&t.
+
+
+
+
+CAMBRIDGE UNIVERSITY PRESS
+CAMBRIDGE
+NEW YORK    PORT CHESTER
+MELBOURNE    SYDNEY
+G POt-7 0 •                      Hr,6               (9<o9
+  Published by the Press Syndicate of the University of Cambridge
+  The Pitt Building, Trumpington Street, Cambridge CB2 1RP
+  40 West 20th Street, New York, NY 10011, USA
+  10 Stamford Road, Oakleigh, Melbourne 3166, Australia
+
+
+  © Cambridge University Press 1984
+
+  First published 1984
+  First paperback edition 1989
+
+  Printed in Great Britain at the University Press, Cambridge
+
+  Library of Congress catalogue card number: 84—3249
+
+  British Library Cataloguing in Publication Data
+
+  Kirch, Patrick Vinton
+  The evolution of the Polynesian chiefdoms. -
+  (New studies in archaeology)
+  1. Polynesia - Social conditions
+  I. Title II. Series
+  996 HN930.7.A8
+
+  ISBN 0 521 27316 1
+               CONTENTS
+
+
+
+
+     Preface                                             page ix
+
+
+ 1   Introduction                                              1
+     Methods, aims, and objectives                             5
+     Approaches to prehistoric change in Polynesia             8
+     Dominant trends in Polynesian prehistory                 13
+
+Part I: Foundation
+ 2   Polynesian societies and ecosystems                      17
+     The island ecosystems                                    17
+     Cultural and linguistic subgroups                       25
+     The material basis of Polynesian societies              28
+     Organizational principles of Polynesian societies       31
+     Overview                                                39
+
+ 3   Ancestral Polynesia                                     41
+     Origins                                                 41
+     The Lapita Cultural Complex                             44
+     The Eastern Lapita sequence                             48
+     Ancestral Polynesia: a reconstruction                   53
+     Overview                                                67
+
+Part II: Process
+ 4   Dispersal, colonization, and adaptation                 71
+     The Polynesian dispersal                                71
+     The challenge and strategy of colonization              79
+     Adaptation in new environments                          87
+     Overview                                                95
+
+5    The demographic factor                                  96
+     Models of population growth on islands                 101
+     Population growth: the Hawaiian case                   104
+     Palaeodemographv of Polynesian populations             111
+     Population regulation: the case of Tikopia             116
+     Overview                                               120
+viii           Contents
+
+ 6     Changing environments                                  123
+       Directional change in island environments              124
+       The significance of environmental hazards              127
+       Man’s transported landscapes                           135
+       Human impact on island ecosystems                      139
+       Overview                                               150
+
+ 7     Development and intensification of production          152
+       Development of production systems                      153
+       Production and the chieftainship                       160
+       Intensive production: the wet and the dry              168
+       Other aspects of production                            179
+       Intensification in West Hawai'i: a case study          181
+       Overview                                               192
+
+ 8     Competition and conflict                               195
+       Demographic and ecological correlates of competition   198
+       Warfare and political development                      204
+       Archaeological manifestations of warfare               207
+       Overview                                               216
+
+Part III: Transformation
+ 9     Tonga                                                  217
+       The archaeological sequence                            219
+       Environment, agriculture, and population               221
+       Rise of the dual paramountship                         223
+       Structure of the protohistoric chiefdom                230
+       Inter-island relations                                 232
+       Voyaging and tribute                                   237
+       Long-distance exchange                                 238
+
+10     Hawai'i                                                243
+       Colonization, adaptation, and expansion                244
+       Local sequences of development                         246
+       Traditional accounts of political development          253
+       Late prehistoric Hawaiian society                      257
+       Hawaifi and Tonga: a comparative note                  262
+
+11     Easter Island                                          264
+       Colonization and early developments                    266
+       The Ahu Moai Phase (AD 1000-1500)                      269
+       Decadent (Huri Ahu) Phase (AD 1500-1722)               274
+
+12     Epilogue                                               279
+
+       Glossary of Polynesian terms                           287
+
+       References                                             290
+
+       Index                                                  312
+             PREFACE
+
+
+
+
+There are probably few areas in the world where the potential for studying
+the growth and development of complex, stratified social and political
+systems is as great as among the islands of Polynesia. In part, the
+analytical advantages of Polynesia are due to the often-cited ‘laboratorv-
+like conditions that isolated islands naturallv provide. Equally import¬
+ant is the wealth of ethnohistorical and ethnographic materials
+pertaining to Polynesian societies as they existed and functioned at the
+time of initial European contact, and the decades following such con¬
+tact. The continuity from prehistory to ethnohistory allows for a more
+extensive and precise use of historical documents and ethnographic
+data in the interpretation of archaeological materials than is the case
+with the study of prehistoric chiefdoms in many other parts of the
+world.
+   Until quite recently, however, Polynesia was an archaeological back¬
+water, so that discussions of social and political change in the region
+(such as the work of Sahlins [1958] and Goldman [1970]) were based
+almost exclusively on synchronic ethnographic and ethnohistorical
+evidence. Fortunately, the increasing pace of archaeological investi¬
+gation throughout Polynesia over the past two to three decades has now
+provided a firm foundation for diachronic studies. We should not
+ignore the older ethnographic corpus, however, for, by using these data
+in conjunction with the temporal framework provided by archaeology,
+we are finally in a position to speak meaningfully about processes of
+change in the Polynesian islands.
+  My objective in this book is to dissect the several major processes that
+underlie the transformation of the various Polynesian societies from
+their common ancestor. To accomplish this, I have structured the
+volume into three parts. In the first, I marshal a range of evidence to
+reconstruct the broad outlines of Ancestral Polynesian Society, from
+which the various contact-period societies descended. In Part II, I
+dissect   in analytical   fashion   the major processes which       led   to
+technological,   environmental,     demographic,   social,   and   political
+change. My approach is comparative, using various data-rich case
+studies to exemplify general trends or processes common to many, if
+
+            IX
+X           Preface
+
+not all, islands. Finally, in Part III I consider three case studies (Tonga,
+Hawai‘i, and Easter Island), and outline in diachronic fashion the
+transformation of these societies from their ancestral forms. Similar
+studies could have been made of other island groups, such as the
+Marquesas or New Zealand, but limitations of space prevented this. In
+any event, it is not my aim to provide definitive statements on the evo¬
+lution of particular societies, but rather to use these case studies to
+exemplify processes of change in Polynesia.
+    This exploration into the Polynesian past mirrors a kind of personal
+research odyssey through several island groups over more than fifteen
+years. Since the book is, in part, an attempt to draw together the varied
+strands of my research, and since I draw heavily upon this research in
+my case studies, a few comments may be relevant. My interest in the
+development of socio-political complexity in Polynesia was first
+awakened during a study of the Halawa Valley, Molokah, carried out in
+1969-70. Applying an ecological, settlement pattern approach, my
+colleagues and I attempted in Halawa to unravel some of the complex
+linkages between environment, population, subsistence (particularly
+irrigation), and social organization in a w’indward Hawaiian valley.
+Soon after, in 1971, the opportunity arose to carry out archaeological
+work in one of the most remote, isolated, and traditional of Polynesian
+communities, the tinv outlier of Anuta in the south-eastern Solomon
+Islands. The experience of excavating a deeply stratified site spanning
+three millennia of south-western Pacific prehistory was combined in
+Anuta with the privilege of participating in a vibrant, functioning
+Polynesian society, where no European missionaries, no traders or
+trade stores, indeed verv little at all of Western influence had yet altered
+the dailv pulse of life. The Anutan experience established a certain
+direction to my research, for, once having experienced archaeology in
+the midst of a traditional       Polynesian community in which           the
+possibilities for ‘etlmoarchaeology’ were ubiquitous, it was difficult to
+imagine doing anything else.
+  In 1974, pursuing developing interests in ecology, intensive agri¬
+culture, and cultural adaptation, I spent half a vear in the West Polynesian
+islands of Futuna and ‘Uvea, excavating a variety of sites but also con¬
+ducting ethno-ecological studies of irrigation and other aspects of local
+etlmobotanv. Though Futuna and ‘Uvea are not so remote as Anuta,
+enough remains intact of their indigenous subsistence economies and
+socio-political organizations to      make studies     in   this area quite
+productive.
+  The Futuna—‘Uvea work was conducted on a veritable shoe-string
+budget under somewhat trving field conditions, leaving me with the
+desire to return again to West Polynesia to pursue further the study of
+cultural adaptation to island ecosystems. With the support of the
+ Bishop Museum, plans were laid for a second phase of extended work
+            Preface                                                      xi
+
+in Futuna. As political developments would have it, the fieldwork site
+had to be changed at the last minute, and in 1976 some seven months
+were spent on seldom-visited Niuatoputapu, one of the outlying Tongan
+islands. With some background in the related Futunan language, a
+working fuency in Tongan came quickly, and our studies of traditional
+agriculture and fishing immersed us in the economic and social fabric
+of the island. The archaeology, as well, proved to be rich and fascinating,
+and the geomorphic evidence of environmental change striking. The
+long months on Niuatoputapu were a period during which my ideas on
+Polynesian cultural evolution began to take definite form.
+  There was little time for reflection on the Tongan results after mv
+return to Honolulu at the end of 1976, however, since within three
+months I left again for an extended stay on anthropologically famous
+Tikopia, as part of the second phase of the South-east Solomons
+Culture History Programme. In 1977 with Doug Yen, and alone in
+1978, I spent more than eight months on Tikopia, which remains not
+greatly changed from what Firth described in 1929: a self-contained,
+traditional community of fiercely independent Polynesians, its local
+polity dominated by four hereditary chiefs. The archaeology of Tikopia
+proved rewarding beyond expectations, but the constant stimulus of
+life in a vibrant Polynesian society was even more compelling, if not
+always beneficial to the archaeological work. It was in Tikopia that the
+outline for this book was conceived, partly as a mental diversion during
+weekend sojourns through the betel and breadfruit orchards to the
+summit ofTumuaki, yielding views of the crater lake and the sacred dis¬
+trict of Uta. To have been set down in Tikopia, with the vast
+ethnography of Sir Raymond Firth as a guide, and the opportunity to
+explore a continuity of three thousand years of cultural change revealed
+in a panopoly of rich sites, was an intellectual stimulus which, I fear, I
+may never again enjoy.
+  The outline of this book was actually drafted during 1978 in Tikopia,
+though serious writing did not begin until 1980. A precis of mv ideas on
+Polynesian cultural evolution was published in 1980 (‘Polynesian pre¬
+history: cultural adaptation in island ecosystems’, American Scientist
+1980), originally attracting the editors of Cambridge University Press,
+and resulting in an offer to publish the extended work in their series.
+During the nearly three vears that the book has been in progress,
+additional stimulus has been provided bv the initiation of a major
+ethnohistorical and archaeological project in the Anahulu Valiev,
+O'ahu, in conjunction with Marshall Sahlins. This experience has
+shaped some of my views on the significance of structures of social re¬
+production in the evolution of Polvnesian chiefdoms.
+  A work that pulls together the varied strands of more than a decade of
+experiences, thoughts, and research efforts obviously owes much to a
+great many people, yet only a fewr can be singled out here for special
+xii           Preface
+
+thanks. Roger Green made possible my early work in the Halawa
+Valley, and has been a constant source of inspiration and a gentle men¬
+tor. Doug Yen not only encouraged my initial efforts, but provided the
+wonderful opportunity to         join    him   in Anuta.   Our subsequent
+collaborations, particularly in Tikopia, have been especially rewarding.
+For whatever insights I may hope to have provided on Oceanic ecology
+and production systems, Doug can take a healthy share of the credit
+(though, surely, no blame for any pitfalls). Yosihiko Sinoto has over
+many years provided not only the full institutional support of the
+Bishop Museum, but openly given of his deep knowledge of East
+Polynesian prehistory. In more recent years, my collaboration with
+Marshall Sahlins has influenced my approach to prehistory, tempering
+a long-standing commitment to ecology with the perspective of a
+strongly cultural orientation.
+   I would be remiss not to acknowledge the long-standing support of
+the National Science Foundation, which through a series of grants (SS-
+40294, BNS 76-04782, BNS 76-17672, BNS 82-05621) enabled my
+extensive fieldwork in the south-western Pacific and Hawai'i.
+      For specific assistance in the preparation of this volume I gratefully
+thank: Tom Dye for his exhaustive review of the entire draft; Matthew
+Spriggs for giving the final draft a critical reading; Debra Connelly-
+Kirch, Patrick McCoy, and Carl Christensen for reading one or more
+draft chapters; Eric Komori for his splendid drafting; Peter Gilpin for
+photographic work; and Patience Bacon for typing most of the final
+draft. For their courtesy in providing illustrations, or for granting per¬
+mission to use copyright materials, I thank Roger Green, Thor Heyerdahl,
+Yosihiko Sinoto, Matt McGlone, Tim Bayliss-Smith, Marshall Weisler,
+and the Bishop Museum Photo Archives. And finally, my greatest debt
+of thanks to my wife, Debra Connelly-Kirch, for her patience and con¬
+ stant urging that I ‘get on with it’.
+                                                                     P.V. K.
+               1
+               Introduction
+
+
+
+
+The first European explorers to pierce the sea barriers to Polynesia
+wondered at the vast distribution of the Polynesian ‘Nation’ - from
+Easter Island to New Zealand, thence to Hawaifi, enclosing a watery
+triangle of 20 million square miles. Since Europeans had themselves
+only recently‘discovered’ the Pacific Ocean, the idea that mere savages
+(however noble) had navigated a great ocean and colonized its remotest
+isles was astonishing. While at Easter Island in 1774 Captain James
+Cook wrote that ‘it is extraordinary that the same Nation should have
+spread themselves over all the isles in this vast Ocean from New
+Zealand to this island which is almost a fourth part of the circumference
+of the Globe’ (Beaglehole 1969:354). Despite their astonishment, the
+explorers could not miss the clear similarities in material culture, cus¬
+toms of behaviour, and in speech, which all bespoke a common origin
+for the Polynesians. As Lieutenant King of the Resolution astutely observed:
+‘The same language . . . hardly requires any other proof of those who
+speak it being the same people, and originating from the same country’
+(Beaglehole 1967:1392).
+  Ever since Cook’s and King’s observations, generations of scholars
+have puzzled at whence, when, and how these Oceanic ‘Vikings of the
+sunrise’ penetrated and colonized the vast Pacific. Sunken continents,
+multiple migration waves from both west and east, bizarre racial
+theories - all were invoked to explain the so-called ‘problem of Poly¬
+nesian origins’. A compelling explanation has emerged only in the past
+few decades, largely due to the advent of intensive sub-surface
+archaeology in the Pacific Islands. Bolstered by ancillary studies in
+historical linguistics, comparative ethnography, ethnobotany, and
+physical anthropology, archaeology has resolved the ‘problem of
+Polynesian origins’ thus: the Polynesians became Polynesians within
+their oceanic realm, their varied cultures the product of millennia of
+local evolution in island environments. Polynesian prehistory unfolds
+as an exceptional instance of evolution and diversification.
+  Having achieved this modern perspective on Polynesia’s myriad
+cultural and social variations as the product of differentiation and
+
+           1
+2             Introduction
+
+transformation from a common ancestor, a whole new array of analytical
+problems confronts the anthropologist and prehistorian. What par¬
+ticular conditions or processes propelled Polynesian societies along
+sometimes divergent, yet oft-times convergent evolutionary or develop¬
+mental pathways? How is it that elaborate, hierarchical, and at times
+oppressive political systems emerged in some islands while others
+appear to have maintained relatively egalitarian polities? How did varying
+environmental constraints affect particular pathways of technological
+and social change? Such are the questions that continually tease the
+student of Polynesian ethnography and prehistory, and that have
+inspired the present work.
+  At this point I must advise the reader as to what I mean (and, as
+importantly, do not mean) by evolution, a term the use of which carries a
+certain risk that one will be pigeon-holed with some particular school of
+anthropology. In this book, I intend the term to apply simply to
+technological and social change in the most general sense. Although we
+are not here concerned with biological evolution, Darwin’s classic
+phrase, ‘descent with modification’, is probably closest to a definition
+of evolution in the present context. Certainly, I wish to avoid any
+prejudice of association with particular theories of mechanisms for
+cultural or social evolution. I have my own biases, as the reader will dis¬
+cover, but it is upon the evidence for social and technological change in
+Polynesia that I want to focus, not upon some narrow theoretical argu¬
+ment. The reader should also be forewarned that although I use the
+term ‘chiefdom’ to characterize the socio-political organization of
+Polynesian societies at the contact-era endpoints, this does not mean
+that I regard them as exemplars of some evolutionary ‘stage’, or that I
+subscribe to the ‘neo-evolutionary’ schemes popular in American
+anthropology during the 1960s and 70s (e.g., Service 1967; Fried 1967).
+    Indeed, for reasons given in detail below, I believe that a stadial or
+    stagal approach to evolution in Polynesia is something of a ‘dead horse’,
+    entirely inadequate as an explanatory framework.
+      Polynesia is as exemplary a setting for such a study of technological
+    and social evolution as we may hope to find. It has been fashionable to
+    speak of Polynesia as a cultural ‘laboratory’ (Suggs 1961:194; Sahlins
+    1963; Kirk and Epling 1972; Clark and Terrell 1978; Kirch 1980a;
+    Friedman 1981:275) and the metaphor may well be appropriate, for the
+    region   offers   nearly   unique   possibilities   for   analytical   control
+    (Goodenough 1957). Islands and island societies by their very nature
+    provide microcosms for the study of ecological and evolutionary pro¬
+    cesses. As Loren Eiseley put it, islands are apt to open doorways to the
+    unexpected. The fifty ethnographically known societies that comprise
+    Polynesia were all demonstrably derived from a single ancestral society.
+    Each society presents an ecological and evolutionary isolate which
+    together can be likened to a set of historical, cultural ‘experiments’, in
+            Introduction                                                 3
+
+which the founding ancestor was identical, but where certain variables
+- ecological, demographic, technologic, and so on - differed from case
+to case. Sahlins (1958:ix) invoked a biological analogy when he stated
+that the Polynesian societies ‘are members of a single cultural genus
+that has filled in and adapted to a variety of local habitats’. The analogy
+is appropriate, and just as studies of island biology from the time of
+Darwin and Wallace have contributed enormously to an understanding
+of organic evolution, so island anthropology promises to open door¬
+ways regarding the nature of social and technological evolution.
+  Various aspects of analytical control are inherent in Polynesia. Not
+only does the region represent a spectrum of societies derived from a
+common ancestor, but isolation between many islands effectively
+reduces the thorny problem of diffusion and cultural contact following
+initial colonization (Goodenough 1957). More, the Polynesian islands
+contrast remarkably in their ecological settings, offering a multi¬
+dimensional spectrum of environmental challenges to which the
+founding populations variously responded. With climates ranging
+from tropical to temperate (indeed, sub-antarctic in the Chatham
+Islands), and with topography encompassing atolls, high islands, and
+near-continents, the ecological variability within Polynesia may be
+greater than that exhibited within any other culture area of the world.
+One additional aspect of control lies in the diverse population sizes of
+Polynesian societies at European contact, ranging from a few hundred
+to several hundred thousand persons. Population densities ranged
+from truly sparse (c. 0.02 persons/km2 in southern New Zealand
+[Anderson 1980a: 12]) to among the densest known for horticultural
+societies worldwide (432 persons/km2 in Anuta [Yen 1973b]). Surely
+here are tantalizing data for testing the role of population growth and
+‘pressure’ in relation to technological and social change .
+  To paraphrase G.E. Hutchinson, each Polynesian archipelago and
+island was an ecological theatre,      wherein was enacted its own
+evolutionary play. To make sense of Polynesia’s variability, we must
+ascertain the consistent and meaningful similarities, as well as any
+significant anomalies, in the developmental sequences represented by
+each island. Building on that framework, our ultimate aim is to isolate
+underlying mechanisms and processes of change or evolution. Clearly
+this goal extends beyond the geographic confines of Polynesia, and is
+relevant to the wider issue of social transformation, without regard to
+particular time or place.
+  Polynesian societies are of wide anthropological interest for another
+reason, owing to their socio-political structures. Chiefdoms, as an
+intermediate level of socio-political organization bridging the acephalous
+society with more complex state societies, hold a special fascination for
+anthropologists. Polynesian societies not only exemplify the ‘typical’
+chiefdom, they display the limits of variation in organizational struc-
+4              Introduction
+
+ture and complexity of such societies. Within Polynesia we find
+societies in which chiefs were inseparably linked as kinsmen to com¬
+moners, where redistribution was minimal, and production almost
+entirely a household matter. On the other hand were elaborate chief-
+doms such as Hawai'i, where the chiefly class claimed descent indepen¬
+dent from commoners, ranked themselves internally into seven or
+eight grades, practised sibling marriage to maintain those grades,
+mobilized corvee labour and organized production on a grand scale,
+and most notably, alienated land from ownership by commoners.
+These latter Polynesian chiefdoms, which ‘approached the formative
+levels of the old fertile crescent civilizations’, have been said to lie at a
+critical interface between the chiefdom and state (Sahlins 1963; Fried
+1967; Service 1975).
+  Polynesia offers an opportunity to address the development and
+elaboration of chiefdom socio-political organization, both from the
+perspective of comparative ethnography and through the evidence of
+archaeology. What was it that led some Polynesian societies in the
+direction of increasingly complex, stratified polities, while others
+remained relatively simple? How did this trend towards increased
+organizational complexity correlate with population growth, agricultural
+intensification, or level of inter-group conflict? Since the Polynesian
+spectrum of socio-political variability represents evolutionary divergence
+from a shared ancestor, the aspects of analytical control cited above
+should also permit the isolation of some of the processes that helped to
+mould each Polynesian chiefdom throughout the course of its historical
+development.
+      This task is not entirely novel, and several classic works of anthropology
+have addressed themselves to a nearly identical theme (of which the
+most widely read is probably Sahlins [1958]). However, whereas
+analysis of synchronic ethnographic materials characterized earlier com¬
+parative studies of Polynesian chiefdoms, we can employ now a large
+body of archaeological data with direct, diachronic relevance to the prob¬
+lems of Polynesian evolution. Alan Howard (1972:822) presaged the
+role of archaeology in a general synthesis of Polynesian society when he
+wrote that the ethnographic theorists had provided prehistorians ‘with
+a richer set of competing possibilities concerning social change around
+which to orient their [archaeological] efforts, and if they do their job
+well we may yet accumulate sufficient data to produce compelling
+    reconstructions’. Three decades of intensive work in Polynesian
+archaeology have now brought us to a point where the data, if not
+    totally satisfying, are at least sufficiently rich to demand an attempt at
+    synthesis that ranges beyond mere description. Archaeology, after all,
+    is privileged by the nature of its data to address problems of technological
+    and social change most directly. Polynesian archaeology must avail
+             Introduction                                                    5
+
+itself of the region’s analytical opportunities, and inherit the challenge
+left by the comparative ethnographers.
+
+
+Methods, aims, and objectives
+
+Fundamentally, this book is a study of the internal differentiation of
+Polynesian societies. Since these were non-literate societies, it is a study
+in prehistory, but by no means restricted to the use of strictly archaeological
+data or methods. Precisely because Polynesia as a region consists of a
+series of discrete, but historically related societies - all derived from a
+common ancestor - and because there was direct historical continuity
+between the ‘ethnographic present’ and the prehistoric past, we are in
+an excellent position to draw upon ethnohistoric, ethnographic, and
+linguistic data, as well as upon strictly archaeological evidence in an
+attempt to     understand    the   region’s   prehistory.   The   Polynesian
+ethnographic baseline does not provide mere analogies for the
+interpretation of archaeological data; it illuminates directly the endpoints
+of indigenous developmental sequences.
+  The method of this study can be clearly described with reference to a
+simple model of Polynesian differentiation (Fig. 1). In the diagram, the
+variety of island societies witnessed at European contact is represented
+by their ethnographic endpoints (shaded circles, e.g., X4, Y,). Each of
+these societies was the product of an internal sequence of development
+from the same historical ancestor, which I term Ancestral Polynesian
+Society (APS). Over time, the differentiation of Ancestral Polynesian
+Society resulted from colonization of a range of new and environ¬
+mentally contrastive islands, and from subsequent internal change,
+generally in isolation. In some cases, contact between island societies
+(as in the case ofW3 and X3 in the diagram) may have resulted in later
+cultural or linguistic borrowing (diffusion) which occurred after initial
+colonization and differentiation and can further confuse the picture.
+Despite these caveats, the use of lexical and ethnographic evidence
+does permit a fuller reconstruction of the ancestral baseline from which
+the differentiation of Polynesian societies proceeded, than that which
+archaeology alone can provide.
+  In and of themselves, however, ethnographic and linguistic methods
+cannot inform us of the particular sequences of development of island
+societies: they simply illuminate the point of origin (Ancestral Poly¬
+nesian Society) and the endpoints of indigenous change. To get at
+sequences of change requires properly diachronic data. Thus, as pre¬
+historians interested fundamentally in sequences of change- and in the
+processes underlying change — we must rely primarily on archaeological
+data, the material remains from which technological and social change
+may be inferred. Only such archaeological data can fill in the record of
+6            Introduction
+
+change from Ancestral Polynesian Society to the diversity of endpoints
+that were met by the eighteenth-century European explorers.
+    In our quest to understand the processes that underlay and initiated
+change and differentiation among Polynesian societies, there is yet
+another body of data with potential relevance. This is the corpus of
+indigenous oral traditions, of which Goldman writes, ‘at the very least
+they represent a Polynesian viewpoint on their own history, and in this
+important respect they reveal local historiography1 (1970:xii). Each
+Polynesian society possessed its own body of traditions, especially of
+the political events surrounding the ruling elites, and these traditions
+are invariably tied to* genealogies that provide a relative temporal
+
+
+       ISLAND A             ISLAND B          ISLAND C         ISLAND D
+
+
+
+
+                       RANGE OF ENVIRONMENTAL VARIATION
+
+
+
+
+    KEY:       ANCESTRAL POLYNESIAN SOCIETY               COLONIZATION EVENT
+
+
+
+
+               SOCIETY X AT TIME to                 -► LOCAL DEVELOPMENT
+
+
+
+               SOCIETY AT ETHNOGRAPHIC ENDPOINT           INTER-ISLAND
+               OF INDIGENOUS DEVELOPMENT                  CONTACT/EXCHANGE
+
+
+
+              1. The differentiation ol Polynesian societies from a common
+              ancestral society (see text for discussion).
+            Introduction                                                 7
+
+framework. There has been a cyclical debate among Polynesian
+scholars as to whether such traditions and genealogical records
+accurately reflect ‘real’ historical events (Suggs 1960b; E. Leach 1962;
+Firth 1961; Hooper 1981). My own view, based primarily on close
+analysis of traditional materials from Tonga, Tikopia and Hawai'i, is
+that the traditions pertaining to the last few hundred years of the
+developmental sequences (the past several generations prior to Euro¬
+pean intrusion), do indeed represent actual events and affairs of real
+people, although some distortion of fact, as well as use of metaphor and
+allegory are obviously problems to be dealt with (cf. Vansina 1965). The
+Tikopia case clearly shows      remarkable correspondence between
+indigenous oral traditions and archaeological evidence (Kirch and Yen
+1982:363-8). What really matters, however, is not whether such oral
+traditions are literally ‘true’ in any Western sense of history or pre¬
+history, but that they offer an alternative view of historical process and
+frequently illuminate the motives or inducements to change. They
+allow us to perceive change as the results of conscious actions on the
+part of knowledgeable members of society, and not merely as the pre¬
+cipitate of vaguely defined interaction between ‘system variables’ (cf.
+Giddens 1981:18). In short, they offer an indigenous perspective which
+at times may help in the analysis of our own ethnographic and
+archaeological formulations.
+  Using these several sources of data pertaining to Polynesian pre¬
+history, each of them serving to supplement and cross-check the others,
+the specific objectives of this study are three-fold. First, I attempt a
+reconstruction of the common baseline, Ancestral Polynesian Society.
+Sahlins (1976:23) has said that ‘history begins with a culture already
+there’, and, as Friedman pointed out, evolutionary models begin ‘with
+an . . . “original” structure in order to generate subsequent structures
+with the consequence that the initial form must remain temporarily
+unexplained’ (1979:32). For Polynesia this baseline is Ancestral Poly¬
+nesian Society, and Chapters 2 and 3 are devoted to a reconstruction of
+this society as it flourished in the West Polynesian archipelagos some
+thousand years before Christ. By combining forces with historical
+linguistics and comparative ethnography, archaeology can achieve a
+reasonably detailed outline of this ancestral baseline. The reader must
+understand that my primary aim is to analyse what happened to this
+ancestral society as its members were dispersed to the isolated islands
+of Polynesia, to adapt to, interact with, and modify a range of local con¬
+ditions. We shall not, however, be concerned with the origins of
+technological and social patterns alreadv in existence some three
+millennia ago. The ultimate origins of Ancestral Polynesian Society are
+another story that we must leave aside for now, a story that eventually
+must lead us back in space to island south-east Asia, and in time
+perhaps to the end of the Pleistocene.
+8            Introduction
+
+    My second objecdve, which forms the central and major portion of
+this volume, is an analysis of the dominant processes that resulted in
+the internal differentiation of Polynesian societies. Rather than treat the
+development of the Polynesian chiefdoms geographically, on an
+island-by-island basis, or chronologically, I have chosen to arrange my
+analysis and argument around the several major processes which
+appear to have dominated Polynesian developmental pathways. Thus,
+after an initial review of the region’s ecological diversity and constraints
+and the reconstruction of Ancestral Polynesian Society, I turn to a con¬
+sideration of the reassortment of technological and social systems, and
+adaptation    to   new      conditions    that   inevitably   accompanied   the
+colonization of new landfalls. Successive chapters each treat other
+significant processes,       namely      population   growth,    environmental
+change, development and intensification of production, and com¬
+petition and conflict. In each case I try to show how technological and
+social patterns already developed in Ancestral Polynesian Society were
+a dynamic part of the process of change.
+    The third and final objective is to examine three particular sequences
+of development, three case studies, and to compare and contrast their
+unique yet similar pathways of change. For this purpose, I have chosen
+Tonga, Hawai'i, and Easter Island, and the diachronic analysis of their
+sequences is the theme of the final third of the volume. In their often
+radical departure from Ancestral Polynesian Society, these three cases
+reveal the historical limits to structural transformation within the
+Polynesian chiefdoms.
+    In relation to these objectives, I would like to offer a brief comment
+on the idea of explanation in prehistory, borrowing some of the insights
+of a foremost student of evolution, Ernst Mayr (1961). This book is not
+so much an argument in favour of a particular explanation, as an
+attempt to specify some of the various causes, both proximate and
+ultimate, that lay behind Polynesian technological and social change,
+and to explore the often complex interrelations amongst these causes. I
+do not believe that any single paradigm will ever parsimoniously and
+sufficiently ‘explain’ the transformation of the Polynesian chiefdoms.
+What we can hope to achieve is a reasonably clear understanding of the
+major proximate causes for particular, observed changes in the
+archaeological record, and the major ultimate causes responsible for
+channelling evolution in certain general directions. Such an achieve¬
+ment is reward enough, and perhaps of more lasting value than trendy
+explanations tied to some particular theory of culture or society current
+at the moment.
+
+
+Approaches to prehistoric change in Polynesia
+
+Speculation regarding Polynesian origins and prehistory began with
+the eighteenth-century explorers and continued unabated throughout
+            Introduction                                                  9
+
+the nineteenth century (see Howard 1967 for a thorough review), but
+serious anthropological studies of the region began only about sixty
+years ago. The year 1920 saw ‘the problem of Polynesian origins’ pro¬
+claimed a major scientific issue (Gregory 1921), with the B.P. Bishop
+Museum initiating an exhaustive ethnographic and archaeological field
+survey eventually requiring two decades to complete. Among the
+young anthropologists enlisted in this programme was E.S.C. Handy,
+whose subsequent publications typify the strongly diffusionist view of
+Polynesian cultural origins and development, a view that held sway for
+several decades.
+  Handy’s theoretical perspective was actually anticipated, in tenor if
+not substance, by the formulations of earlier scholars such asj. Macmillian
+Brown, who explained the‘strangely varied web’ of Polynesian cultures
+as the result of ‘a singularly advanced barbaric woof crossing a
+palaeolithic warp’ (Brown 1907:xxx). In consort with the Boasian anti¬
+evolutionism of the times, Handy maintained that variability in Poly¬
+nesian societies was to be explained - not as the result of processes of
+cultural change and divergence within a local ecological setting- but as
+an amalgam of traits imported by successive movements of colonizing
+or conquering populations. Based upon field studies in the Society
+Islands, Handy (1930a; 1930b) proposed a‘two strata’ theory of origins,
+in which the multitude of traits comprisingTahitian society was divided
+into those of an ‘old Tahitian’ or manahune population, and those of a
+later, conqueringarii people. Such blatant diffusionist schemes appear
+naive in retrospect, yet it is well to consider that Handy’s viewpoint not
+only dominated Polynesian studies for nearly two decades, echoes of it
+linger on in some modern formulations.
+  Piddington (1939), in a concluding essay to Williamson’s classic
+works on Central Polynesia, attacked at length the ‘two strata’ theory of
+Polynesian origins. Piddington rightly criticized the lack of rigour in
+Handy’s diffusionist approach: ‘using a pair of compasses, and, taking a
+Polynesian institution as the centre, drawing gradually increasing con¬
+centric circles upon the map until the circumference of one of them
+passes through the venue of some extraneous institution bearing a
+superficial resemblance to its putative Polynesian offspring’ (1939:341).
+Piddington convincingly argued that Polynesian cultural variation
+could readily have resulted from local developmental processes, ‘that
+there was never more than one cultural “migration” into the area, and
+that the variations to be found there are due to spontaneous develop¬
+ment from a single original culture’ (1939:337). His argument freed
+Polynesian studies from the shackles of diffusionist logic, and opened
+the way for modern conceptions of prehistoric change.
+  In two papers published contemporaneously with Piddington’s
+critique, Burrows (1939a, b) advocated a parallel notion of internal
+process in the differentiation of Polynesian cultures. Based upon a
+detailed trait analysis, Burrows (1939a) proposed a four-fold partitioning
+10          Introduction
+
+of the region (into Western, Intermediate, Central, and Marginal sub¬
+groups). Cultural differentiation, Burrows argued, had been due to in
+situ historical process, not diffusion from outside Polynesia. Burrows
+(1939b) likewise examined variability in social organization, specifically
+addressing the presence within Polynesia of two kinds of social units:
+kinship-based groups (‘breed’), and those organized on territorial prin¬
+ciples (‘border’). Although diffusion was not entirely ruled out,
+Burrows righdy stressed ‘the role of purely local dynamic factors’ in giving
+each region ‘a pattern in some respects unique’ (1939b: 18). Among
+these dynamic factors he mentioned intermarriage, adoption, and
+migration, and ‘perhaps most powerful of all - warfare arising from
+rivalry over land or ambition for enhanced status’ (1939b:21).
+     In addition to stressing social factors, Burrows was aware of the
+potential role of environmental constraint and diversity in moulding
+characteristic aspects of each society. Burrows’s seldom-cited com-
+parison(1938) of Futuna and‘Uvea in Western Polynesia (both ofwhich
+he had studied during Bishop Museum’s ethnographic survey) dealt
+with the significant influence of topography and local ecology on social
+development and differentiation. Some of Burrows’s conclusions
+appear naive or deterministic in the light of a contemporary ecological
+perspective, but his attempt was seminal, foreshadowing later inno¬
+vations, including Sahlins’s concept of‘differentiation by adaptation’
+(1958).
+   By the 1940s the anthropological consensus on Polynesian cultural
+diversity had shifted from a Kulturkreise mentality to an emphasis on the
+role of internal processes. Peter Buck’s work (e.g., 1944), laying out a
+grand synthesis of Polynesian ‘culture stages’, exemplified this view¬
+point. The role of diffusion was not entirely abrogated, however, for
+Buck- who held that the original Polynesian ancestors had entered the
+region via the Micronesian atolls - believed that crop plants and
+domestic animals were added to the Polynesian cultural repertoire after
+initial colonization. It is significant, however, that Buck used the term
+‘evolution’, albeit a unilineal evolution synonymous with ‘progress’.
+For instance, in discussing the geographic movement from atolls to
+high islands, Buck wrote that: ‘The Society Islands provided an abun¬
+dance of basaltic rock, thus the shell age Polynesians had the raw
+material with which to rise again into the stone age’ (1944:474).
+     Under the influence of Leslie White, Julian Steward, and others,
+cultural evolution had become fashionable in American anthropology
+by the late 1940s and early 1950s. One of their students, Marshall
+Sahlins, saw in Polynesia the inherent advantages for a controlled study
+of what Steward had termed ‘multi-lineal evolution’. In a justly famous
+though much criticized monograph, Sahlins (1958; see also 1957)
+advanced the thesis that ‘Polynesian cultural differentiation was pro¬
+ duced by process of adaptation under varying technological and
+             Introduction                                             11
+
+environmental conditions. A single culture has filled in and adapted to
+a variety of ecological niches’ (1957:291). Sahlins reviewed the forms of
+Polynesian social organization, and argued that two basic structural
+types, ‘descent-line systems’ and ‘ramage systems’ were each the result
+of adaptation to particular ecological conditions, compaction of
+resources in the former case, and dispersed resources in the latter. In
+contrast to high islands, the unique constraints of atolls favoured ‘a
+multiplicity of socio-economic groups formed on different principles
+and connected with production and distribution of different goods or
+on different scales’ (1957:296). In all cases, stratification was to be
+accounted for vis-a-vis its role in spurring production and in organizing
+the distribution of strategic goods.
+  Unfortunately, the logical clarity ofSahlins’s argument was flawed by
+ethnographic and ecological inconsistencies. J.D. Freeman (1961,
+1964)   refuted the attribution of descent-line systems to Samoa,
+demonstrating instead the existence of ramage organization. Finney
+(1966) invoked Tahitian ecological data to reject Sahlins’s contention
+that high islands were characterized by widely distributed resources.
+Instead, the valley-centred, wedge-shaped Tahitian territorial units
+each contained all necessary resources, and thus could be effectively
+exploited by a minimal ramage. Despite such criticisms, Sahlins’s work
+had a tremendous impact, and not only within the field of Polynesian
+studies (see, for example, Flannery and Coe 1968; Sanders and Price
+1968; Peebles and Kus 1977). As FIoward( 1972:822) suggests, the lasting
+contribution of Sahlins’s monograph was to force anthropologists to
+‘focus our lenses on the relationship between ecological features,
+modes of production,        distribution and consumption, and social
+institutions’.
+  Whereas Sahlins saw Polynesian societies building upon an ecological
+foundation, Irving Goldman (1955,       1970) presented an opposite,
+though complementary perspective, that these societies were moulded
+by ‘status rivalry1 inherent in their aristocratic political structures.
+Goldman’s arguments also suffered criticism on the basis of inattention
+to ethnographic detail, logical tautology, and other grounds (Hawthorne
+and Belshaw 1957; Howard 1972), and his thesis received neither the
+acclaim nor notoriety of Sahlins’s. Nevertheless, as Howard (1972:822)
+asserts, Goldman made a substantial contribution in stressing the dis¬
+tinction between the ‘cultural concerns of high chiefs and persons of
+lower rank. . . . the former were primarily concerned with matters of
+honor, power, and prestige, while the latter were preoccupied with the
+pragmatics of making a living’. The ecological perspective of Sahlins
+and the structural orientation of Goldman together contribute ele¬
+ments for a more sophisticated and compelling theory of Polynesian
+evolution.
+  Those uninitiated in the history of Polynesian anthropology may
+12           Introduction
+
+wonder that in a review of theories of prehistoric change no reference
+has as yet been made to archaeology. Not until the 1950s did archaeology
+begin to plav a leading role in considerations of Polynesian origins and
+cultural differentiation, having ‘come of age’ only within the past two
+decades. Although limited excavations had been conducted in New
+Zealand (even as early as the 1870s), up until 1950 Polynesian archaeology
+was largely confined to surface surveys of the more impressive archi¬
+tectural sites, and to descriptive analyses of stone tools such as adzes.
+Archaeology was held to offer little more than ancillary, corroborative
+data to historical ethnography. Even the forward-looking Piddington,
+while admitting grudginglv that archaeological methods were ‘valid’ in
+Polynesia, questioned whether the ‘systematic exhumation of pre-
+European Polynesian artifacts is a profitable and urgent task for science
+today’ (1939:335).
+     The serendipitous results of a university class in archaeological field
+techniques, conducted at Kuli‘ou‘ou Rockshelter,           O'ahu by K.P.
+Emory in the spring of 1950, shattered the dogma that Polynesian
+archaeology was historical ethnography’s poor relation. Not only did
+the Kuli‘ou‘ou deposits yield an unanticipated range and abundance of
+prehistoric artifacts, but a radiocarbon age determination for charcoal
+from the shelter’s lowest level (the first l4C date for the Pacific Islands,
+946 ± 180 BP) pushed the initial settlement date of Hawai'i beyond
+expectations. At the same time Gifford’s (1951) excavations in Fiji, at
+the western gateway to Polynesia, and Spoehr’s (1957) work in the
+Marianas on the Asiatic fringe of Oceania, began to hint at the lengthy
+time depth of human settlement in the Pacific, and at the extent of local
+cultural development revealed by archaeological sequences. Amongst
+Polvnesianists, a furore of intellectual excitement was generated by the
+realization that archaeology could indeed provide a direct means of
+studying prehistoric change in Oceania.
+     Since Emory’s pioneering excavation, thirty years of increasingly
+intensive archaeological work has revealed the prehistoric sequences of
+almost every major Polynesian archipelago. Whereas scholarly consen¬
+sus of the late 1940s held that most of Polynesia had been settled for no
+more than 1,000 vears (e.g., Emory 1946), it is now evident that a time-
+scale in excess of three millennia is the case, at least in the western
+archipelagos. Ample time had therefore elapsed for significant local
+development. Furthermore, the archaeological evidence conclusively
+demonstrated a single, common origin for all Polynesian societies, and
+this ancestor was shown to have affinities with eastern Melanesian
+materials (Green 1968). Finally, even in the shorter sequences of East
+Polynesia, archaeological data were indicative of substantial and signifi¬
+cant change from the time of initial colonization to European contact-
+in technology, settlement pattern, subsistence systems, demographic
+patterns, and so forth. In situ prehistoric change was at last empirically
+            Introduction                                                 13
+
+
+demonstrated, rather than a matter of speculative reconstruction based
+solely upon synchronic comparisons.
+  A consequence of its pioneering status, Polynesian archaeology has
+focussed until recently upon descriptive, culture-historical endeavours.
+Basic archaeological sequences of all major archipelagos have been
+worked out in some detail, as attested in three recent regional syntheses
+(Bellwood 1978a, 1979; Jennings 1979). From this wealth of archae¬
+ological data, one may abstract several broad and widespread trends
+characteristic of many (if not all) local developmental sequences . A
+brief catalogue of these trends should aid in orienting the reader to the
+main outlines of Polynesian prehistory, and to the central problems
+addressed in this book.
+
+
+Dominant trends in Polynesian prehistory
+
+Given that all Polynesian chiefdoms were derived from the same ances¬
+tral stock, and that the challenges of island life (despite differences of
+scale and local constraint) tend to be similar in kind if not degree, it is
+reasonable to suppose that the evolutionary processes operating on
+Polynesian societies were parallel in many island groups. A comparison
+of the dominant trends in the sequences of the well-investigated islands
+(Samoa, Tonga,     Marquesas,    Hawai‘i,   Easter,   Societies, and   New
+Zealand) does, in fact, reveal remarkable consistency. I list here some
+nine trends, each of which will be the focus of considerable analysis and
+discussion in later chapters.
+  1. With colonizing populations relatively small in numbers, popu¬
+lation growth in the centuries following initial settlement was a fun¬
+damental trend in all Polynesian societies. Such growth was evidently
+rapid in many cases, for substantial population densities had built up in
+nearly all island groups by the time of European contact. In Chapter 5 I
+examine in full the proposition that population growth was a significant
+force (though not a ‘prime mover1) in the evolution of the Polynesian
+chiefdoms.
+  2. Extensive modification of island ecosystems by the colonizing
+populations was a continuing process, frequently resulting in reduced
+biotic diversity, and in creation and maintenance of artificial vegetation
+communities. In many cases, the modification of landscapes, including
+significant erosion, can only be classed as degradation. At the same
+time, environmental transformation may in some cases have led to the
+creation of micro-environments favourable to particular economic
+activities, such as irrigation.
+  3. Sequences of agricultural development in Polynesia reflect, as a
+general trend, increasing intensification. Such intensification can be
+measured archaeologically in terms of the scale and complexity of
+agronomic infrastructure and facilities, such as irrigation ditches and
+14           Introduction
+
+pondfields, walled garden plots, or dryfield systems. These develop¬
+ments are presumed to have been accompanied by the usual indices of
+intensification: increased labour per unit area, and decreased fallow
+periods. In certain islands, such as the Marquesas and Society groups,
+intensification took an alternative route to that of field cropping,
+namely arboriculture. The trend of intensification may in fact be said to
+apply to productive systems as a whole, and is reflected in such develop¬
+ments as Hawaiian fishpond aquaculture. Chapter 7 will explore these
+evolutionary pathways and their relationship to demographic and
+socio-political change.
+  4. A corollary of agricultural intensification is increased economic
+specialization over time. This trend is particularly evident in those
+societies that displayed the greatest degree of social stratification at
+European contact. In Hawaifi, for example, there is evidence for con¬
+siderable specialization in agriculture, adze production, canoe manu¬
+facture, fishing, and other activities. The ethnohistoric records for
+Tonga and the Societies indicate similar specialization.
+     5. Increased emphasis upon storage facilities for farinaceous staples
+is a trend characterizing certain tropical chiefdoms, as well as that of
+New Zealand. Hawaifi, in this regard, is an exception which proves
+especially enlightening as to the relationship between storage and
+chiefly power, a topic pursued further in Chapter 10.
+     6. The prehistoric sequences of several Polynesian archipelagos
+reflect changes over time in settlement pattern distribution, from
+nucleated hamlets in the early, colonization phase to dispersed
+household units later in time. This appears to be the case in Tonga,
+Samoa, the Societies, Marquesas, and Hawaii. It does not necessarily
+hold for New Zealand or Rapa, exceptions which again illuminate cer¬
+tain relations between settlement, socio-political organization, and
+resource use.
+  7. In all of the Polynesian chiefdoms, there is a dominant trend in the
+development of specialized, ceremonial or public architecture, even
+though different functional categories are emphasized in different
+island groups.      In Tonga,   for example,    architectural elaboration
+centred upon the tombs of apotheosized chiefs. In Hawaifi, Easter
+Island, and the Societies, a focus upon increased scale and complexity
+of temple architecture is evident, whereas in the Marquesas emphasis
+was placed upon massive tribal dancing and feasting centres.
+     8. The development of militarism is another dominant trend in
+ Polynesian cultural evolution, for which there appear to be no signifi¬
+ cant exceptions. Archaeologically, the trend is evidenced in increased
+ construction over time of a range of earthwork or stone fortifications,
+ the terraced hill forts of Rapa and thepa of New Zealand representing
+ apogees of technological development. Militarism and the socio¬
+ political competition it reflects are trulv fundamental trends to be
+ accounted for in anv model of evolution in Polynesia.
+           Introduction                                                15
+
+  9. Finally, there was the trend toward increased stratification and dif¬
+ferentiation in social status and rank, which was uneven throughout the
+region, and led to a range of societal complexity at the time of Euro¬
+pean contact. This trend was most significant in Tonga, the Societies,
+and Hawaifi, in which the hierarchical differentiation of society reached
+new heights. It is, however, also reflected to a lesser degree in other
+Polynesian groups.
+  The nine major trends summarized above constitute a catalogue of
+sorts for the technological and social changes that transformed Ances¬
+tral Polynesian Society into the chiefdoms witnessed at European con¬
+tact. Such a catalogue or inventory is a necessary starting-point for
+understanding evolution in Polynesia. To move beyond description
+and achieve some understanding of the processes of change leading to
+these trends is the primary aim of the analyses to follow.
+ PART I      FOUNDATION
+            We are not engaged in some kind of trick photography, which would produce a fuzzy con¬
+            ventional image, deceptively generalized; what we are looking for are characteristics
+            held in common, which will make whatever is original stand out by contrast.
+                                                                      Marc Bloch (1966:xxiv)
+
+
+
+            2
+            Polynesian societies
+            and ecosystems
+
+Descendants of a common ancestor, all Polynesian societies share cer¬
+tain basic features- for example- in subsistence and technology, social
+organization, land tenure, and religion. The delineation of these com¬
+monalities provides one baseline from which we may reconstruct
+Ancestral Polynesian Society and assess the varied transformations
+undergone by particular societies. This baseline, moreover, would be
+incomplete without some consideration of the environmental variability
+inherent in the spectrum of Polynesian island ecosystems. This chapter
+develops such a baseline, with an ecological overview of the region’s
+natural diversity, and with an ethnographic review of the material and
+social bases of Polynesian life.
+
+
+The island ecosystems
+
+In large measure, the Polynesian evolutionary drama reflects the
+region’s great ecological variability. The islands range in size and form
+from atolls and diminutive volcanic specks less than 1 km2, to near¬
+continental New Zealand, while the climatic continuum spans tropical,
+sub-tropical, temperate, and (this may come as a surprise to some),
+sub-antarctic zones. Island ecosystems vary as well in other physical
+and biotic characteristics - their isolation, elevation, age, geological
+structures, local weather patterns, natural resources, soils, and suscep¬
+tibility to natural disasters. As a consequence, Polynesian islands pro¬
+vided contrastive milieux for the development and growth of new
+societies, each created by the fission of colonizing parties from ances¬
+tral homes, each responding anew to the unique opportunities and
+constraints offered by a new landfall. The Lapita-pottery makers who
+first colonized the tropical western archipelagos of Samoa and Tonga
+about 1500 BC, and who would become the ‘first Polynesians’, could
+scarcely have imagined the environmental extremes that their descend¬
+ants would discover, explore, and successfully adapt to. Probably
+
+           17
+                                             HAWAII
+
+
+
+
+2. The Oceanic region, showing the Polynesian Triangle, the
+Polynesian Outliers, and the major islands and archipelagos
+discussed in the text.
+              Polynesian societies and ecosystems                               19
+
+Table 1. Principal islands and archipelagos of Polynesia
+
+
+ Island or group      Type and number of islands          Area (km2)   Estimated
+                                                                       population*
+
+West Polynesia
+Tonga                 Raised coral; atoll; high     160        647          40,000
+Samoa                 High                           10      3,134          80,000
+Futuna                High                            2         65           2,000
+‘Uvea                 High                            1         59           4,000
+Niue                  Raised coral                    1        259           4,500
+Tokelau               Atoll                           4          6           1,200
+
+East Polynesia
+Cook Is.              High; atolls                  15        240          15,000
+Society Is.           High; atolls                  11      1,536 ,        45,000
+Marquesas Is.         High                          10      1,057          35,000
+Hawaiian Is.          High                          10     16,692         200,000
+Equatorial Is.        Raised coral; atoll            5        702          n.o.**
+New Zealand           ‘Continental’                  2    501,776         115,000
+Chatham Is.           High                           2        713           2,000
+Kermadecs             High                           1         29             n.o.
+Tuamotu Is.           Atolls                        76        790           7,000
+Austral Is.           High                           5        132           5,000
+Mangareva             High; atolls                   8         15           4,000
+Pitcairn              High                           1          5             n.o.
+Easter                High                           1        160           7,000
+Henderson             Raised coral                   1         36             n.o.
+
+Outliers (Total 18)
+Anuta                 High                           1           0.4           150
+Tikopia               High                           1           4.6         1,250
+Bellona               Raised coral                   1          20             450
+Nukuoro               Atoll                          1           1.7           150
+
+
+“Estimate at time of initial European contact.
+ssn.o. = not occupied at European contact, but with archaeological evidence of
+former Polynesian inhabitants.
+
+
+
+nowhere else in the world has a single cultural group radiated over such
+a broad ecological spectrum.
+  Some thirty-eight major archipelagos and islands are inhabited by
+Polynesian peoples (Fig. 2). The majority of these lie within the Poly¬
+nesian Triangle, whose apices are formed by New Zealand, Hawai'i,
+and Easter Island. To the west, eighteen Polynesian ‘Outliers’ (Bavard
+1976) lie in a wide arc along the fringe of Melanesia. Together, more
+than 344 individual islands w7ere, at one or another time, colonized by
+Polynesians (Table 1).
+  Despite their diversity, island ecosystems share several intrinsic
+properties, with far-reaching implications for their inhabitants including
+20          Foundation
+
+man. Fosberg(l 963a:5-6), introducing a symposium on man’s place in
+the island ecosystem, enumerated several of these properties. Basic to
+insularity are isolation and limited size, with major consequences for both
+genetic and cultural evolution. Acting as barrief and filter, the isolation
+of islands accounts for much of the uniqueness of island life. Once past
+the hazards of overseas transport or dispersal, a colonizing propagule
+was likely to find on islands an environment free of predators and com¬
+peting species, with adaptive radiation a frequent occurrence. In the
+Hawaiian Islands, for instance, some 2,000 endemic higher plants
+evolved from as few as 275 ancestral immigrant stocks (Zimmerman
+1948). Limitation in island size has as well the effect of restricting avail¬
+able resources and micro-environments, and for certain groups of
+biota the size of an island will therefore index its organic diversity
+(MacArthur and Wilson 1967).
+  Isolation and size are, of course, relative. In parts of tropical
+Polynesia, some archipelagos form inter-visible chains with islands
+only a few kilometres apart. Other Polynesian islands are among the
+most isolated landfalls on earth; Hawai’i lies 3,862 km from its closest
+Polynesian neighbour, the Marquesas, and 3,800 km from the west
+coast of North America. Despite the developed seafaring and navigating
+abilities of Polynesian peoples, isolation was a major factor influencing
+technological and social evolution. The developmental pathway of the
+Tongan political system, for instance, was heavily influenced by the
+proximity of Fiji and Samoa, and by the relative ease of maintaining
+exchange systems of chiefly spouses and prestige goods between
+those archipelagos.
+  Island size exhibits even greater variability than degree of isolation.
+The miniature‘high’ island of Anuta, one of the Polynesian Outliers, is
+a scant 40 hectares in area, and supports a permanent population of
+about 160 persons (Yen and Gordon 1973). This is perhaps the smallest
+permanently inhabited Polynesian island, although many of the atolls
+have comparably restricted land areas. At the opposite extreme are the
+two near-continental islands of New Zealand, with a combined land
+surface of 501,776 km2, more than all the other Polynesian archipelagos
+put together. Clearly, the constraints imposed on a human population
+by circumscribed island resources vary tremendously, and must be
+assessed case by case.
+  Among other characteristics of island ecosystems of direct relevance
+to the study of Polynesia is the ‘extreme vulnerability’ of insular eco¬
+systems once isolation is broken down, and the ‘tendency toward rapid
+increase in entropy when change has set in’ (Fosberg 1963a:5). Though
+never completely stable, prior to man’s advent the older island eco¬
+systems had achieved some form of relative stability or effective
+equilibrium. The arrival of human populations, along with their inten¬
+tional and unintentioned biotic introductions, invariably upset this
+             Polynesian societies and ecosystems                           21
+
+dynamic equilibrium, often with dramatic and sometimes deleterious
+consequences.
+  Except for New Zealand - a pre-Mesozoic continental remnant con¬
+trasting in every aspect with the rest of Polynesia - the islands are
+volcanic in origin, constructed of successive flows of basalt and andesite
+lavas, and of pyroclastic ash, cinder, and tuff. As a result, the range of
+isotropic rocks available for stone tool production was restricted to
+fine-grained basalts, vesicular lavas, and volcanic glasses (on makatea
+islands and atolls, of course, no volcanic stone was available.) Erosion,
+submergence, and emergence of these igneous masses produced
+islands of three classic types: (1) high islands with volcanic soils; (2) low
+islands or atolls; and (3) raised coral or makatea islands (Thomas
+1963).
+  High volcanic islands, such as the Society and Hawaiian archipelagos,
+offered the least constraint and greatest opportunities for colonizing
+human populations. Sufficiently elevated to orographically induce pre¬
+cipitation, high islands tend to have permanent drainages (at least on
+windward sides), developed and fertile soils, and are thoroughly
+vegetated. Because of rainfall differences, windward-leeward contrasts
+are often considerable on high islands, and pose different environmental
+challenges to human populations. The marine environments of high
+islands vary greatly, ranging from the rock-bound coasts of the
+Marquesas (Chubb 1930), through islands like Rarotonga where a
+fringing reef forms a narrow integument around the island (Marshall
+1930), to the encircling barrier reefs and lagoons of the Society group,
+or of ‘Uvea (Fig. 3).
+  Atolls and raised coral (makatea) islands are actually coral caps on
+igneous cores. The greatest limitation of these is fresh water, although
+the largest atoll islets support a thin sub-surface aquifer (the Ghyben-
+Herzberg lens) floating on salt water, and many makatea islands have
+seeps or springs. Both lack permanent watercourses, and their floras
+are impoverished in comparison to the high islands. The larger and
+older raised coral islands do have thick, fertile soils capable of sustaining
+intensive agriculture (e.g., Tongatapu, enriched with volcanic ash fall).
+The terrestrial impoverishment of atolls, however, is offset by the high
+organic productivity of atoll reefs and lagoons (Wiens 1962; Salvat
+1970, 1972), the structure and complexity of which have been likened
+by Marston Bates to that of the tropical rainforest. This great marine
+productivity in large measure sustained human existence through the
+Tuamotu and other atoll habitats of Polynesia.
+  Some islands combine the classic volcanic-maAatea-atoll forms in
+various permutations. Mangaia, for instance, consists of a volcanic core
+with a rim of raised coral reef (Marshall           1930).   The island of
+Niuatoputapu in the Tongan archipelago exhibits a central volcanic
+ridge surrounded by an uplifted plain of coral reef and detritus, a
+22           Foundation
+
+windward fringing reef, and a leeward coast and lagoon protected by a
+barrier reef with offshore islets in typical atoll configuration (Fig. 4).
+     Cross-cutting the variability of Polynesian landforms is the climatic
+spectrum. Most islands are tropical, with fairly uniform and equable
+temperatures between about 70-80°F, and a mean annual range of 1-
+9°F (Freeman 1951:12). Some islands, such as Easter and the Australs,
+are sub-tropical, and in the higher elevations on Hawaifi and Maui
+Islands, true alpine conditions exist. New Zealand is temperate, and in
+the Foveaux Straits region of South Island, as well as in the Chatham
+Islands east of New Zealand, sub-antarctic conditions prevail (Sutton
+1980). Looking upon the vestiges of Archaic East Polynesian settlement
+in the Chathams, lashed by the ‘roaring forties’, one can only marvel at
+the adaptive propensities underlying the shift from tropical horti-
+culturalists to sub-antarctic hunters.
+
+
+
+
+              3. The major tvpes of Oceanic islands. Dark screening rep¬
+              resents volcanic land mass; light stipple represents coral reef or
+              reefal limestone (adapted from Thomas 1963).
+           Polynesian societies and ecosystems                         23
+
+  The Polynesian biota derives largely from Asia, particularly tropical
+South-east Asia, and as a general rule there is increasing biotic
+impoverishment as one moves from west to east through Oceania.
+Among the consequences of this depauperate biota for colonizing
+Polynesians was the near-total absence of food plants and of most edible
+land mammals or reptiles. The wild relatives of all the Oceanic crop
+plants do not occur eastwards of the Solomon Islands, and cultigens
+had to be purposely introduced throughout Polynesia. On certain of
+the more isolated islands, such as the Hawaiian group, adaptive radi¬
+ation produced extreme endemism in the local flora. The first Poly¬
+nesian settlers to Hawai'i were confronted with a 99 per cent endemic
+flora, the potential properties and uses of some 2,000 previously unen¬
+countered species having to be discovered through trial and error. New
+Zealand presented an equally challenging organic environment.
+  This is not to imply that the islands were totally lacking in vegetal
+resources, for most of the high, and even makatea-type islands were well
+forested at the time of initial human colonization. A range of soft and
+hard woods provided timber for construction and for firewood, and
+experimentation with native species led to their adaptation for dyes,
+medicines, and other household uses. In the process of pioneering new
+environments, the Polynesians frequently transferred their ethno-
+biological categories, or folk classifications, to the new biota. For
+instance, the Proto-Polynesian term for ironwood, *toa, was transferred
+
+
+
+
+           4. The island ot Niuatoputapu in Tonga displavs a central
+           volcanic ridge surrounded bv an apron of uplifted coral reef.
+           Note the broad lagoon, and the volcanic cone of Tafahi in the
+           distance.
+24           Foundation
+
+to an endemic hardwood [Acacia koa) in Hawai‘i, where the true iron-
+wood was absent.
+     The terrestrial fauna of Polynesia was on the whole impoverished.
+Abundant endemic insects and land molluscs were of little direct con¬
+sequence to humans. In the western islands several species of fruit bat
+(Pteropus spp.) were regularly taken for food. The only major, non¬
+marine source of wild animal protein, however, was that of the native
+land birds and migratory seabirds (Mayr 1945). Several species of
+seabirds, such as the frigates (.Fregata spp.). shearwaters, and the dark-
+rumped petrel (Procellariidae), were prized for their succulent flesh.
+Native land birds were taken either for their flesh, as with the Pacific
+pigeon (Ducula pacifica), and the purple swamp hen (Porphyrio porphyrio),
+or for their brilliant feathers, as with the Fijian parrots (Vini sp ,,Phigys
+sp.) and the Hawaiian honeycreepers (Drepaniididae). In New Zealand,
+some thirteen species of flightless moa birds (Dinornithiformes) pro¬
+vided a terrestrial resource unparalleled elsewhere in Polynesia.
+     The sea provided the dominant source of protein in Polynesian diets.
+Littoral and inshore habitats yielded a variety of seaweeds, molluscs,
+holothurians, sea urchins, octopus, squid, crustaceans, and small fish,
+while the deeper reefs, benthic, and pelagic zones produced larger fish,
+rays, sharks, turtles, and cetaceans. Diversity and productivity in the
+marine components of island ecosystems vary considerably. For the
+most part, the central, tropical islands support extensive barrier reef
+and lagoon ecosystems with high organic productivity. Many of the
+sub-tropical islands have much less extensive reef development, and a
+less diverse marine fauna. Easter Island, lacking a fringing reef and
+isolated in the east Pacific, has only 140 species of fish, compared with
+about 450 species in Hawaifi, and more than 1,000 species in Fiji.
+     Polynesia is clearly an ecologically varied region, each island imposing
+environmental constraints and opportunities in some respects different
+from those of any other. The above examples demonstrate the con¬
+straints imposed by resource limitation, climatic factors, island size,
+geological composition, and so forth. Equally significant are a range of
+natural perturbations, or‘environmental hazards’ (Vayda and McCay
+1975). The most pervasive of these hazards in Polynesia are drought,
+cyclone, volcanic eruptions, and tsunami. Even larger, well-forested
+high islands are subject to periodic drought, sometimes of severe pro¬
+portions. In the Marquesas, for example, drought is a major and
+recurrent phenomenon with considerable impact on the course of pre¬
+historic cultural development (Adamson 1936; Suggs 1961). Tropical
+cyclones usually devastate an island’s agricultural base, and constitute a
+major threat in the western archipelagos of Tonga and Samoa (Visher
+1925). Volcanic eruptions and tsunami are more limited in their
+occurrence, but may have had dramatic effects upon local populations.
+Polynesian adaptive response to recurrent environmental perturb-
+            Polynesian societies and ecosystems                       25
+
+ations, including forms of technological buffering, will be considered
+in Chapter 6.
+  The dynamic nature of Polynesian man-land relationships has
+become increasingly evident in the course of recent archaeological
+investigations. As Fosberg (1963a, b) observed, islands are fragile and
+vulnerable, and we are just now beginning to realize the extent to which
+prehistoric populations modified island ecosystems. The introduction
+of exotic biota, extensive burning and clearance of native vegetation,
+exploitation of marine and terrestrial fauna, erosion, siltation - all of
+these processes transformed insular landscapes. Adaptation of Poly¬
+nesian societies to their island world is thus not a simple problem of
+technological adjustment to a set of stable environmental conditions.
+Environmental constraints confronting a colonizing population in anv
+island were in most cases quite different from those which faced a
+descendant population generations later. The environmental con¬
+straints at the time of European contact were in many respects the
+product of human actions. Nor was the modification of island landscapes
+necessarily fortuitous; part of the success of Polynesian colonizing
+strategies must be attributed to their conscious and purposeful
+rearrangement of island environments. Indeed, the modification,
+manipulation, and all too frequently, the degradation of island eco¬
+systems is a dominant theme of Polynesian prehistory.
+
+
+Cultural and linguistic subgroups
+
+One may distinguish within Polynesia several major cultural sub¬
+groups, the delineation and relationships of which provide important
+clues for the Polynesian prehistorian. The basic cultural distinction
+separates West and East Polynesian groups. West Polynesia incorporates
+the major archipelagos of Tonga and Samoa, along with the isolated
+islands of Futuna, ‘Uvea, and Niue; the Ellice and Tokelau groups are
+sometimes included as well. In a major comparative study, E.G.
+Burrows (1939a) pointed to various uniquely shared traits - in material
+culture, kinship terms, ceremonial behaviour, food, and so forth -
+which distinguished West Polynesian societies from all others. As it
+turns out, the West Polynesian archipelagos were also the first to be
+colonized, and thus constitute the original Polynesian ‘hearth’ or
+homeland, from whence the rest of the Triangle was settled (see Chap¬
+ter 3).
+  East Polynesia is something of a misnomer, since one of its major
+members, New Zealand, is geographically among the most westerly of
+Polynesian islands. The term East Polynesia, however, is thoroughly
+ingrained in the regional literature. Included in this major subgroup
+are the Hawaiian, Society, Marquesas, Cook, Tuamotu, Austral, and
+Mangarevan archipelagos, as well as Easter Island. Again, these
+26           Foundation
+
+societies all share certain features or traits in common which dis¬
+tinguish them from the Western societies. Burrows (1939a) and Buck
+(1944) further divided East Polynesia into Central and Marginal sub¬
+groups, the former comprising the Society, Tuamotu, Austral, and
+Cook Island chains. These archipelagos, relatively less isolated than the
+Marginal groups, have had considerable inter-island contact, probably
+accounting for certain shared similarities in language, material culture,
+and socio-political organization.
+     The Outliers constitute a third primary subgroup, distributed along
+the eastern fringe of Melanesia. Neglected until recently by ethnologists,
+linguists, and archaeologists, these societies remain lacunae in our
+knowledge of Polynesian prehistory. Early opinions on Outlier culture-
+history ranged from Capell’s view that these societies represented rem¬
+nant or relict populations left behind in the course of easterly
+migrations, to the theory that they are recently derived from West
+Polynesia by a process of drift voyaging. Archaeological excavations on
+Anuta, Tikopia, Bellona, Nukuoro, and Taumako (Kirch and Rosendahl
+1973; 1976; Kirch and Yen 1982; Poulsen 1972; B.F. Leach personal
+communication), conducted within the past decade, have revealed
+occupation sequences spanning three millennia, sometimes with pos¬
+sible hiati or cultural replacements. Evidently, many Outliers have a
+lengthy and complex settlement history, and a great deal of intensive
+archaeological work must be carried out before this complexity can
+be unravelled.
+     Emory (1946) and Elbert (1953) were among the first to syste¬
+matically study the interrelations and subgrouping of the Polynesian
+languages. Later work by Pawley (1966), Green (1966), and others has
+resulted in a clear outline of the historical relationships amongst the
+Polynesian languages. The widely accepted genetic subgrouping of the
+Polynesian languages is diagrammed in Figure 5 (after Green 1966 and
+R. Clark 1979), and constitutes a model for the primary settlement of
+Polynesia, latent with implications for prehistorians.
+     To a significant degree, the linguistic subgrouping mirrors the
+cultural subdivisions recognized by comparative ethnologists. The
+linguistic unity of East Polynesia, for example, supports the delineation
+of that major subgroup on ethnologic criteria. On the other hand, the
+linguistic schema cross-cuts the cultural classification       in certain
+regions. A first-order linguistic division between Tongic and Nuclear
+Polynesian languages occurs within West Polynesia This not only re¬
+inforces the archaeological interpretation of West Polynesia as the area
+of original and most lengthy settlement, but suggests that many of the
+shared traits that are used to define the western subgroup resulted from
+continued contact and borrowing between the Samoan and Tongan
+archipelagos. The Outlier languages are most closely allied to the non-
+Tongic languages of West Polynesia, that is, Samoan, Futunan, ‘Uvean,
+and Ellicean.
+            Polynesian societies and ecosystems                               27
+
+  The cultural and linguistic subgrouping of Polynesian societies and
+languages furnishes an important basis for the reconstruction of Ances¬
+tral Polynesian Society to be developed in Chapter 3. The method of
+lexical reconstruction (Dven and Aberle 1974) can be applied to sets of
+cognate terms from several Polynesian languages to determine the
+proto-term and its semantic value in the Proto-Polynesian language.
+Clearly, a knowledge of subgrouping is essential for this process. For
+example, since reflexes of the term for chief appear in both the Tongic
+and Nuclear Polynesian branches (Tongan ‘eiki, Futunan aliki, Hawaiian
+alii), one may be confident that the term for chief (*‘ariki) was present in
+Proto-Polynesian, and more importantly, that a concept of chiefship
+existed in Ancestral Polynesian Society. The same method may also be
+applied to ethnographic data on social organization, religion, land
+tenure, and so forth. If a particular social institution is present in all, or
+a large number of Polynesian societies, then it was most likely present in
+the ancestral society from which these derived. (If, however, the insti¬
+tution is restricted to the societies of one particular branch, such as East
+Polynesia, then we are justified only in reconstructing the proto-form
+for the immediate ancestor of that branch, e.g., Archaic East Poly¬
+nesian.) With both lexical reconstruction and comparative ethnographic
+analysis one must also carefully consider the alternative possibilities,
+that borrowing (diffusion) or independent invention (innovation) were
+responsible for the observed similarities. Certainly, amongst geo¬
+graphically close islands (such as Tonga and Samoa) such borrowing is
+
+
+                 PROTO-POLYNESIAN
+
+
+
+
+PROTO-TONGIC                   PROTO-NUCLEAR POLYNESIAN
+
+
+
+
+               PROTO-SAMOIC OUTLIER               PROTO-EASTERN POLYNESIAN
+
+
+
+
+                                                  PROTO¬
+                                             CENTRAL EASTERN
+
+
+
+
+                                          PROTO-          PROTO-
+                                        MARQUESIC        TAHITIC
+
+
+
+
+                                                                         m
+                                                                         Q1
+
+
+
+
+                                                                QJ
+                                                                O
+
+
+
+
+           5. The subgrouping of the Polynesian languages, and their
+           putative sequence of divergence from Proto-Polvnesian.
+28           Foundation
+
+more likely. Cautiously applied, however, these methods provide a
+powerful tool for the reconstruction of the ancestral society from which
+all of the ethnographically known Polynesian groups descended.
+     In the following pages, I review some of the common features shared
+by most Polynesian societies, and point out some of the variations
+which arose following dispersal and colonization of the varied island
+groups. This overview thus provides a necessary ethnographic baseline
+for the reconstruction of Ancestral Polynesian Society, the subject of
+Chapter 3.
+
+
+The material basis of Polynesian societies
+
+Despite some regional diversity, Polynesian societies were all predi¬
+cated upon highly similar material bases. ‘Neolithic’ in the classic sense,
+Polynesians developed lithic technology to such peaks as the statues of
+Easter Island and the greenstone adzes and ornaments of the Maori.
+Subsistence was based on an advanced horticulture, intensified in some
+island societies into proper field agriculture, either irrigation or
+drvfield rotation. (The absence of cultivation in southern New Zealand,
+and in the Chathams, where environmental conditions were severely
+limiting, are exceptions that prove the rule.) Husbandry of pigs, dogs,
+and fowl, hunting, gathering of wild plant foods, and significant
+exploitation of the sea rounded out the indigenous production sys¬
+tems. A domestic mode of production (Sahlins 1972) based on an intri¬
+cate kinship logic dictated the production, distribution, exchange, and
+consumption of food and material goods. At the same time, however,
+Polynesian chiefdoms were aristocratic societies. The structural prin¬
+ciples of the chieftainship - genealogical rank, primogeniture, mana,
+and tapu - permeated the societal fabric, organizing production and
+mobilizing labour in ways that counteracted the centripetal tendencies
+of the elemental domestic units. A continual dialectic between a
+‘domestic’ and a ‘political’ economy constitutes a dominant theme run¬
+ning throughout the evolution of Polynesian societies.
+     Polynesian agricultural tools were simple and limited in number, yet
+effective and well suited to the tasks at hand. Stone adzes and fire served
+as the major instruments for forest clearance, while planting poles and
+digging sticks were the gardener’s main tools. Long-handled, fruit-
+plucking poles, carrying poles, and a variety of baskets aided in harvesting.
+The material culture associated with fishing and marine exploitation
+was more complex, and reflects considerable ingenuity. One-piece
+fishhooks for angling were made from wood, bone, shell, and stone in a
+wide range of sizes, and used in a variety of ways, along shorelines, with
+and without poles, from canoes, while swimming, and so on. Trolling
+lures of pearl shell were quite effective in landing the larger, prized
+pelagic fish such as bonito. In many islands, some form of benthic lure
+             Polynesian societies and ecosystems                           29
+
+ was used to capture octopus. Nets were manufactured in a wide range
+ of forms, from dip and scoop nets used by women foraging on reef flats
+ at low tide, to long-handled flying fish nets, to community-owned
+ semes up to several hundred feet long. Other sorts of nets, traps, weirs,
+ sweeps, floats, spears and so on are well described in the literature on
+ Polynesian material culture (e.g., Buck 1930, 1944).
+   Other areas of Polynesian material culture were reasonably well
+ developed and reflect successful adaptation to the constraints of
+ Oceanic environments. Primary manufacturing tools included the
+ ubiquitous adzes and chisels (generally of fine-grained basalt or
+andesite), files and abraders of coral, pumice, or scoriaceous lava, drill
+points of stone and shell, bone awls, and flake tools of obsidian or fine¬
+grained basalt. A wide range of culinary implements served to convert
+crops to cooked food, including wooden and stone food pounders,
+bowls, basins, scrapers, graters, and storage containers, as well as serving
+bowls and platters. The manufacture of barkcloth from a variety of
+plant sources (especially paper mulberry, but also breadfruit, Pipturus
+and other species), and the plaiting of mats and other woven items, was
+well developed. Various strengths and types of cordage were similarly
+produced. Nor was Polynesian material culture restricted to utilitarian
+items. Darts, pitching disks and other gaming devices were widespread,
+as were drums, dance paddles, nose flutes, and other musical instru¬
+ments. In the esoteric and ritual sphere, Polynesian religious images in
+stone, wood, ivory, wicker-and-feather, and so on are renowned
+worldwide.
+   Not all Polynesian societies possessed the same degree of elaborate
+and diverse material culture, nor did all attain equal levels of artistic
+expression. Among many societies - particularly those of the atolls and
+smaller, more isolated high islands - production of material goods was
+a largely domestic matter. Goods tended to be utilitarian in design, with
+certain items, especially Pandanus mats, playing a vital role in kinship-
+based exchanges. Among the larger archipelagos, with more complex
+and highly stratified chieftainships, a degree of craft specialization
+developed. In protohistoric Tonga, for instance, there were hereditary
+classes of canoe builders, navigators, stonemasons (who constructed
+the chiefly tombs), and tattooing experts (Martin 1818). The brilliant
+specimens of Polynesian art that grace museum cases - feathered cloaks
+and head-dresses, inlaid feather and sennit wands, temple images —
+were prerogatives and symbols of rank, produced by specialists who
+were supported by and for the chiefly classes.
+  The lives of all Polynesians, including the most sacred of chiefs,
+rotated around one central theme — the production, distribution, and
+consumption of food, of which starch staples were the essence. A con¬
+cern with food permeated Polynesian life at all levels of the social ladder,
+and in all social dimensions (Bell 1931). The role of food among the
+30           Foundation
+
+Tikopia of Outlier Polynesia, described so well by Raymond Firth, was
+approximated by all Polynesian groups:
+
+Food serves as a most important material manifestation of social relationship,
+and through it kinship ties, political loyalty, indemnity for wrong, and the
+canons of hospitality are expressed. It also provides a basis for the initiation of
+other social relations, such as bond-friendship, or pupil and teacher in the
+acquisition of traditional lore. Again, the major foodstuffs rest in totemic align¬
+ment with the major social groups; ritual appeals are made to the gods and the
+ancestors who are regarded as the sources of food. All such situations are
+expressed in a bodv of linguistic material, rich in metaphors and circum¬
+locutions (1939:38).
+
+This overriding concern with food formed a critical linkage between the
+material conditions of production - environment, technology, and
+demography - on the one hand, and the social relations that directed
+production and distribution on the other. It is a linkage of vital concern
+in our analysis of technological and social change in Polynesia.
+     Polynesian classifications of food, and the cultural values associated
+with various categories, are further clues to the structuring of pro¬
+duction and consumption. The most elemental food category, that
+which minimally constitutes a meal, is the starch staple, product of
+agricultural labour.      The Anutans classify food (kai)           into several
+categories of which the most basic is the marked term kai tao, ‘baked
+food’, usuallv taro, yam, or breadfruit. Two further categories of kai are
+ngaruenga, starch ‘puddings’, sweetened with coconut cream, and
+kanope, animal flesh (fish, seabirds, chicken, etc.). These are considered
+supplementary to kai tao, and a prerequisite for the entertainment of
+honoured guests, or for ritual purposes. This Anutan division of food is
+paradigmatic of Polynesian subsistence in general: a balance between
+the cultivation of the dominant and fundamental starch staple, and the
+procurement of the less abundant, but socially and ritually valued,
+specialities and animal flesh.
+  Five groups of staple-starch-producing cultigens dominated Poly¬
+nesian agriculture: aroids, yams, breadfruit, bananas, and (in East
+Polynesia) the sweet potato. Various cropping combinations were
+emphasized in each island setting, depending upon several historical
+factors including environment and the inevitable reassortment of
+agricultural svstems upon initial transfer (these are matters which will
+be taken up in detail in Chapter 7). The indigenous systems of culti¬
+vation - associations of crop plants, tools, and particular micro¬
+environments with discrete patterns of agricultural behaviour- were of
+two elemental tvpes: extensive and intensive. What appears as a
+dichotomy of svstems, however, in reality describes the extremes of a
+continuum. At the extensive endpoint was shifting cultivation in the
+characteristic Malavo-Oceanic pattern (Spencer 1966), where swidden
+garden plots are cleared, fired, cropped, and fallowed in a second-
+             Polynesian societies and ecosystems                        31
+
+ growth rotational cycle. On the other hand, intensive cultivation often
+ required the modification of hydrologic, topographic, and edaphic
+ conditions so as to favour certain cultigens, with the creation and main¬
+ tenance of a permanent infrastructure, such as irrigated pondfields.
+   Animal husbandry, terrestrial hunting, and marine exploitation
+ comprised the extra-agricultural component of Polynesian subsis¬
+ tence. A triad of domestic animals - pigs, dogs, and the jungle fowl -
+ was transported and introduced to most island groups upon initial
+ colonization. Production of these animals was intimately linked with
+ the cultivation systems. Excepting New Zealand (where the endemic
+ moa provided abundant game), hunting was an underdeveloped aspect
+ of Polynesian economies, although birds were regularly taken, and in
+ the case of remote and protein-deficient Easter Island became socially
+ and ritually significant. As in all island societies the sea provided the
+ major daily source of protein, and the structure and complexity of
+ indigenous folk classifications of fish and other marine life (Titcomb
+ 1952; Dye, in press) reflect an intense familiarity with the ocean, built
+ up over millennia.
+   In sum, Polynesian subsistence was dominated by horticulture and
+fishing, successfully promulgated by means of a developed ‘neolithic’
+technology. To understand the integration of this subsistence pattern
+into the larger societal fabric we must turn to a consideration of social
+groups, and of the political and ritual orders that validated the extant
+social relations of production.
+
+
+Organizational principles of Polynesian societies
+Social groups and land
+
+As is typical with chiefdoms, the organizational basis of Polynesian
+"societies wax the conical clan, an extensive group descended from a
+Common ancestor, ranked and segmented along genealogical lines
+(Rirchoff 1955; Sahlins 1968). Patrilineal in ideological basis, distinc¬
+tions amongst clan members were made on the basis of genealogical
+distance from the founding ancestor. Typically, the senior male in
+direct line of patrilineal succession from the group ancestor claims the
+position of highest rank in the conical clan. The pyramidal political
+geometry of Polynesia underlies the significant advances in political
+evolution   made by various societies within the region (Sahlins
+1963).
+  A proclivity to segmentation or ramification characterizes the conical
+clan. On islands, after initial settlement by founding groups, popu¬
+lation growth led to fissioning of local subgroups, or ramages (Firth
+1936; Earle 1978:10). The head of each ramage was its senior male, and
+the head of the original senior ramage remained as chief of the conical
+clan. Each local ramage was ranked in relation to the senior ramage.
+32          Foundation
+
+just as members of each ramage were ranked internally. This pattern of
+segmentation, and the resulting social structure, is diagrammed in
+Figure 6A.
+  The ramification or branching of the conical clan also corresponds
+with a characteristic territorial division, as shown in Figure 6 B. As local
+
+
+
+
+            6. A. Diagrammatic model of the conical clan. B. Geographical
+            distribution of clan segments on a hypothetical island.
+              Polynesian societies and ecosystems                                 33
+
+ groups fission, they expand to occupy new territory, so that a typical
+ high island came to be divided in radial fashion, with each local group
+ occupying a pie-shaped slice running from the island’s core out to the
+ reef. Such a territorial pattern has fundamental ecological implications
+ since (in theory, at least) the territorial units lie transversely across the
+ environmental      grain   of the land.       That   is,   since   island   micro¬
+ environments are in general concentrically arrayed, each local group’s
+ radial   segment    includes    all    major resources:      forested      uplands,
+ agricultural land, coastal plains, and marine resources. Of course, local
+variations in topography and distribution of particular resources (e.g.,
+ isotropic stone) dictate that such an ideal pattern is never fully realized.
+ Nevertheless, these territorial groups, such as the Futunan kainga, the
+ Rarotongan tapere,     and     the     Hawaiian ahupua'a      do    tend    toward
+economic self-sufficiency (Finney 1966). This tendency toward economic
+independence of local ramages is one of the centripetal forces of
+Polynesian society which were in opposition to those of the greater
+political economy.
+   Polynesian descent groups are not strictly unilineal, even though
+they have a patrilineal         bias.    As   Firth (1957)    and    others (e.g.,
+Goodenough 1955; Davenport 1959) recognized, Polynesian descent
+groups or ramages are, with few exceptions, ambilateral, that is, affili¬
+ation may be through either male or female links. Such affiliation is,
+however, heavily conditioned by residence. As Firth notes, ‘Residence
+by itself does not give title to descent-group membership, but land
+rights established by descent-group membership tend to remain
+operational only through residence’ (1957:7). In fact, as Goodenough
+(1955) astutely observed, the ambilateral nature of Polynesian descent
+groups is a highly flexible adaptive strategy in situations of land short¬
+age, such as pertain on Oceanic islands.
+  The classic Polynesian ramage organization may be illustrated
+briefly with the case of Futuna (Burrows 1936; Panoff 1970; Kirch
+1975). This high island incorporates two territorial districts, each the
+province of a major conical clan with its paramount chief. Within each
+clan are a series of ramages or kutunga, each presided over by its own
+chief, the launiu or aliki, with the highest-ranked kutunga serving as the
+line of the district paramount. Every Futunan is automatically a mem¬
+ber of the kutunga of both his father and mother. The kutunga, however,
+is not strictly speaking a land-holding corporate group, which is the
+function of the kainga. The term kainga denotes both a radial land seg¬
+ment, and a group of persons resident on it. Generally, several kainga
+make up the ancestral lands of a kutunga, and affiliation with a particular
+kainga is thus a matter both ofkutunga membership and of residence. In
+practice each kainga parcel is worked by its own residence group. Kainga
+are managed by the senior males of the minimal ramage, the pule kainga.
+The adaptive flexibility of this system of land tenure is obvious. Should
+34           Foundation
+
+the population of any kainga become too dense in relation to its land
+resources, the ambilateral nature of affiliation allows some of its mem¬
+bers to exercise alternative options and affiliate by means of residence
+with other kainga of lesser population density.
+
+
+Rank and stratification
+
+The conical clan is, at every level, a ranked structure. Older and
+younger siblings, chiefs and commoners, higher and lesser ramages -
+all are positioned on a continuous scale with the fundamental criterion
+of seniority of descent. This principle of genealogical seniority may be
+viewed as a set of structural equivalents:
+   father : son :: older brother : younger brother :: chief: commoner.
+Indeed, as Sahlins (1968:64) remarked, the ranked structure of Polynesian
+chiefdoms is mirrored within each household unit, ‘the little chiefdom
+within the chiefdom’.
+
+Like the great chief in his domain, the father is in his own house a sacred figure,
+a man of superior mana, his possessions, even his food, guarded by tabus
+against defilement bv lesser familial kinsmen. Polynesians know innately how
+to honor the chief, for chieftainship begins at home: the chief’s due is no more
+than elaborate filial respect (1968:64).
+
+Yet, the gradation of rank within the Polynesian chiefdoms is not a con¬
+tinuous progression. A qualitative disjunction exists between chief and
+people, a disjunction clearly marked by differential access to sump¬
+tuary items,     by prescribed behaviour,          and by distinctive ritual
+behaviour (cf. Peebles and Kus 1977:422).
+  There is a strong ideological bias in Polynesian societies toward patri-
+lineage and primogeniture in the hereditary succession to high rank.
+Nevertheless, just as ambilateral affiliation allows for flexibility in
+descent group membership, there is some flexibility in succession to
+high office. As noted earlier, maternal linkages may be used by persons
+of lower rank in order to associate themselves with those of higher rank.
+In some chiefdoms, such as Tonga, the female role in rank determi¬
+nation was to become extremely important, and pose potential con¬
+tradictions to the political structure.
+   A second option for manipulation of the usual rules for succession to
+ high office was that of usurpation. Sahlins observed that‘the contention
+ between older and younger brothers is a celebrated condition of
+ Hawaiian - indeed Polynesian - myth and practice’ (1981 a:56). In
+ Figure 6A the theoretical rank of individuals declines progressively
+ from left to right, with increasing genealogical distance from the founding
+ ancestor. The actual political rank of the individuals, however, does not
+ follow the same progression, since A1 and Cl are district paramounts,
+ and Al, Bl, Cl, and D1 are sub-district chiefs. Thus, A2 is politically
+ subordinate to Bl, Cl, and D1. Clearly, a junior brother can only look
+ forward to increased diminution of his offspring’s rank, as the conical
+              Polynesian societies and ecosystems                             35
+
+ clan continues to ramify. That junior brothers should seek to usurp the
+ power and positions of their elder siblings is therefore not surprising,
+ and the opposition between junior and senior is a ‘structure of
+ significance’ that underlies status rivalry as a major force in Polynesian
+ socio-political evolution.
+   Polynesian chiefdoms varied considerably in the degree to which dif¬
+ferences in rank were formalized as distinct social strata. Given the
+common ancestry of all Polynesian societies, this range in degree of
+social stratification bespeaks major differences in pathways of political
+evolution. As Sahlins (1958:250) correctly recognized, such differen¬
+tiation does not reflect regional cultural history, since the full range of
+minimal and elaborate stratification can be found in both West and
+East Polynesia.
+   A few ethnographic examples will illustrate the range in Polynesian
+systems of social stratification and political development. Represen¬
+tative of the least stratified chiefdoms is the atoll society of Pukapuka
+(Beaglehole and Beaglehole 1938). Pukapukans classified themselves
+into only two status levels, chiefs (aliki) and non-chiefs [te tama, lit. ‘the
+children’), and as the Beagleholes state, ‘status and rank grades. . . were
+not highly developed’ (1938:234). Although the chief was sacred, and
+represented the people (his ‘children’) in rituals to the gods, no
+elaborate tabus or symbols of office separated him from the com¬
+moners who were also his kinsmen. His house was of the same type as
+others, and only a special sitting place, and private doorway, were reserved
+for him. ‘ During youth and boyhood, he, like his siblings, was without
+tapu and mixed freely with the other young people of the island’
+(1938:236). While the chief’s word was not openly disputed, political
+control of economic production did not rest solelv in his hands. Rather,
+such decisions were reached in village meetings (wakapono lulu) attended
+by all adult males as well as the chiefs.
+  Futuna represents a more elaborate and status-conscious level of
+society (Burrows 1936; Panoff 1970) in which the social ranks are more
+clearly distinguished and elaborated. In this case, a clear paramount
+[sau) existed, as well as lineage chiefs (aliki), and each of these was attended
+by a ceremonial adjutant (mua). Symbols of rank (such as feather
+crowns) were more developed, and so was deference behaviour and
+ritual accorded chiefs. In pre-contact times the chief’s house was
+larger, and set off from those of commoners in a prominent position
+facing the malae or village plaza (Kirch 1975:365). A stylized kava
+ceremonial, still practised today, validated the relative rank of all chiefs
+to each other. Economic control, while still largely in the hands of the
+household heads (pule kainga), was impinged on considerably by the
+chiefs, especially in the mobilization of commoners for competitive
+feasts, clearing of communal gardens, or construction of large irri¬
+gation works.
+  Hawai'i represents an extreme of stratification in Polynesia, approxi-
+36          Foundation
+
+mated also by Tonga and the Society Islands. Here the chiefs had
+become a conical clan superimposed upon a truncated class of com¬
+moners. The chiefs (ali'i) were internally ranked into seven or eight
+grades, with a paramount [ali'i nui or mo'i) at the pinnacle, and they prac¬
+tised sibling or half-sibling marriage to assure the highest rank of off¬
+spring. The symbols of tapu and rank were elaborate, the most sacred of
+chiefs holding the kapu moe, prostrating tapu. Feather cloaks and
+helmets, special eating bowls and spittoons, and so on, were made of
+the chiefs by craft specialists. The birth of a chief was celebrated by
+elaborate temple ritual. In the economic sphere, the ali'i not only
+closely regulated production through their stewards (konohiki), but
+regularly mobilized corvee labour. Most significantly, the direct con¬
+trol of land had passed out of the hands of the commoners, so that it
+was the chief, not the ramage, that was directly responsible for a
+territorial unit.
+   The search for an explanation of this range of social stratification
+among Polynesian chiefdoms motivated both Sahlins (1958) and
+Goldman (1970) in their comparative ethnographic studies. Though
+arriving at disparate conclusions - the one stressing ecological deter¬
+minants, the other inherent status rivalry - both studies produced
+similar tripartite classifications of stratification. Table 2 lists the various
+societies treated bv Sahlins and Goldman, with their corresponding
+typological statuses. Goldman described the differences between his
+three ‘tvpes’ as follows:
+In the first, which I call ‘Traditional’, seniority is central. As the source of mana
+and sanctitv, senior descent establishes rank and allocates authority and power
+in an orderly manner. The Traditional is essentially a religious system headed
+by a sacred chief and given stability bv a religiously sanctioned gradation of
+worth. In the second system, which I call‘Open’, seniority has been modified to
+allow military and political effectiveness to govern status and political control.
+The Open system is more stronglv military and political than religious and
+stability in it must be maintained more directly bv the exercise of secular
+powers. In the Open, status differences are no longer regularly graded but tend
+to be sharply defined. Finally, the third system, which I call ‘Stratified’, is
+characterized by clearcut breaks in status that are fa reaching in their impact
+on everyday life. In the Stratified system, status differences are economic and
+political. High rank holds the rule and possesses the land title: commoners are
+subject and landless. The Stratified represents a synthesis of Traditional and
+Open, combining respect and reverence for hereditary rank via seniority with
+necessary concessions to political and economic power (1970:20).
+
+Since the spectrum summarized by Goldman encapsulates the full
+breadth of the chiefdom condition, Polynesia offers fertile terrain for
+the investigation of political evolution, with the most stratified of
+ Polynesian societies bordering on the true ‘state’. As Sahlins has written
+of Hawaiian society, the ‘threshold which it had reached but could not
+cross was the boundary of primitive society itself’ (1972:148).
+             Polynesian societies and ecosystems
+
+Table 2. Social stratification in Polynesian societies
+
+
+ Island group           Approx, population of            Degree ol stratification
+                         largest political unit
+                                                         Sahlins      Goldman
+
+Tonga                            40,000                     I         stratified
+Hawai'i                          30,000                     I        st ratified
+Society Is.                       9,000                     I        stratified
+Samoa                            25,000                     I        ()p(‘11
+Mangareva                         4,000                   11A        st ratified
+Easter Is.                        3,500                   11A        open
+Mangaia                           3,000                   IIA        open
+Marquesas Is.                     1,500                   IIB        open
+Niue                              4,500                    —
+                                                                     open
+‘Uvea                             4,000                   11A        traditional
+Maori (N.Z.)                      3,500                              traditional
+Tongareva                         2,000                    —
+                                                                     traditional
+Tikopia                           1,250                   IIP        traditional
+Futuna                            2,000                   11B        traditional
+Pukapuka                            500                   III        traditional
+Ontong-Java                       2,000                   III        traditional
+Tokelau                             500                   III        traditional
+
+
+
+
+Ritual, polity, and production
+
+The principle of seniority of descent which associates rank with prox¬
+imity to the founding ancestor also links Polynesian chiefs directly with
+the gods, themselves either deified ancestors or supernatural pro¬
+genitors. Polynesian political systems cannot be understood separately
+from cosmology and religion, nor for that matter can their economic-
+systems be divorced from their political and ritual contexts. As
+Goldman put it, ‘whether we start with politics to explain the economy
+or with economics to explain the polity, we are involved in the same
+equation’ (1970:509).
+  Closest to the gods, the chief is their earthly representative, the
+means by which supernatural efficacy, mana. is conveyed to the soi iety
+at large. The chief is mediator, receiving and transmitting the offerings
+of the people to the ancestral and tribal deities. It is he who, on behalf of
+his people, recites the appropriate ritual formulae for securing rain,
+bountiful harvests, success in fishing, or victory in war. And since it is
+through the chief that these things are conveyed, he is imbued with the
+corollary of mana, sanctity or tapu. Not only is the chief tabu, but
+through his edicts certain crops, fish, activities, or indeed the whole
+‘land’ may be made tabu in order that the gods shall grant his requests.
+(In certain societies, a class of priests developed, but never divorced the
+38           Foundation
+
+ritual apparatus from the chiefs. Indeed, the priests were usually mem¬
+bers of chiefly families.)
+     fust as the degree of social stratification varied in Polynesian chief-
+doms, so did the sanctity of the chief. All Polynesian chiefs were set
+apart from commoners by their mana, and by certain kinds of ritual
+deference. The most elaborate societies developed chieflv tabu to
+extreme levels. Consider the native historian Kamakau’s description of
+a Hawaiian chief ofpi'o rank (the offspring of a brother-sister union):
+‘The children born of these two were gods, fire, heat, and raging blazes,
+and they conversed with chiefs and retainers only at night’ (1964:4).
+‘The kapu of a god was superior to the kapu of a chief, but the kapu of
+the . . .pi’o chiefs were equal to the gods’ (1964:10). The elaboration of
+chieflv sanctity parallels that of social stratification, and is a critical
+aspect of Polynesian social transformation.
+     The wresting of food and material goods from nature was for Poly¬
+nesians a fundamentally religious process, precisely because the
+natural world was the realm of the gods. ‘When the native planted, tended
+his crops, and harvested, he did so psychically as well as physically,
+ritual including consecration, purification, prayers, charms, and offer¬
+ings, accompanying every phase of his physical husbandry’ (Handy
+1927:6). Production was intimately tied to ritual sanction and control.
+‘The Work of the Gods’, as the Tikopia called their annual religious
+cvcle (Firth 1967), was for example a ritual codification of the island’s
+production system. The chief, naturally, occupied the central role in
+this ritual regulation of production, and herein lies another vital clue to
+the evolutionary transformation of Polynesian societies. The chief, as
+Peebles and      Kus   maintain,   is a ‘ritually sanctioned      homeostat’
+(1977:430) for the production system. But, he is more than the main-
+tainer of a status quo, for it is precisely at the level of ritually controlled
+production that the political economy held sway over the domestic
+mode of production. Firth (1939:180) lucidly described the material
+advantage of ritual control: ‘the effect of ritual is to maintain the
+association of the major instruments of production with the group of
+persons of higher social status, especially the chiefs of the clans. It is a
+conservative force,       orienting the productive svstem       towards the
+interests of the privileged group.’ Thus, in Hawai‘i, political tribute
+received bv the chiefs from the people was rituailv conceived as offerings
+to the gods (.ho'okupu, literallv, ‘to cause to grow or multiply’), offerings
+which fell to the chiefs bv virtue of their status as mediators between the
+society and its deities. Such tribute not only assured the chiefdom of
+supernatural support, it formed the material basis upon which the
+political aspirations of the chieflv class were realized.
+     Throughout Polynesia, a regular, ritual offering of tribute to the
+ramage chief in the form of first fruits suggests that this was an anc ient
+pattern, which in the more developed chiefdoms reached elaborate
+            Polynesian societies and ecosystems                           39
+
+proportions. The Tongan ‘inasi (Gifford 1929), Society Islandspararaa
+matahiti (Oliver 1974:259), and Hawaiian makahiki (Handy and Handy
+1972) are major community-wide ritual presentations of first fruits and
+other products of the people to the ruling chiefs, which have their
+origins in a simpler first-fruits ritual.
+  We cannot close this discussion of the role of polity and ritual in pro¬
+duction without at least a brief consideration of redistribution, which
+most theorists (Service 1967; Sahlins 1958, 1968; Fried 1967) have
+regarded as a fundamental characteristic of the chiefdom level of
+society. The tribute presented regularly to the chief was redistributed to
+other members of society, but not necessarily in the more-or-less
+equable manner sometimes assumed. In the less stratified societies, in
+which chiefs were intimately bound to the people through direct ties of
+kinship, first-fruits offerings and contributions of food and valued
+goods for major ceremonials were generally redistributed back to the
+individual households. In the increasingly stratified societies, however,
+this was not the case, and the goods rendered to the chief tended to con¬
+centrate near the apex of the socio-political pyramid. As Oliver
+(1974:1007, 1071-2) has shown for Tahiti, and Earle (1977) argues for
+H awaifi, goods channelled into the redistributive network were used to
+support the chiefly hierarchy and to finance the political activities of the
+ruling elites. ‘In some measure, goods and services contributed by the
+people precipitated out as the grand houses, assembly places, and
+temple platforms of chiefly precincts’ (Sahlins 1963:299). The tribute
+given to the god in fact assured the glorification of the chiefly god-head.
+As it was said in a prayer of the Hawaiian makahiki harvest ritual,
+
+            O Ku! O Kane! O Lono! . . .
+            Here is an offering,
+            A swine sacrificed for this visible rite
+            The rite of hula for the alii.
+            For the house of the god. . . .
+            Life to the alii, life to the gods! (Handv and Handv 1972:365)
+
+
+Overview
+
+This review of the main features of Polynesian social, economic, and
+political life, while necessarily brief, provides us with an ethnographic
+baseline from which to approach the linguistic and archaeological data
+directly relevant to a reconstruction of the ancestral form of Polynesian
+culture. I have tried to convev something of the range of variation in
+particular features, such as social stratification, as seen at the develop¬
+mental endpoints represented bv European contact. From such a
+review of structural variation and underiving similarity, it is possible to
+pose several hypotheses about the nature of the Ancestral Polynesian
+Societv which gave birth to the region’s protean cultures. First, this
+ancient society was centred around the pvramidal geometry of the conical
+40           Foundation
+
+clan, with its segmentary, ramage structure and ambilateral rules of
+affiliation. That such groups were territorially defined as much on the
+basis of land rights as on descent also seems highly probable .Within
+the conical clan, rank was determined on the basis of proximity to the
+founding ancestor, with the senior/junior distinction critical (a male/
+female distinction less so). The inherent opposition between senior and
+junior is one that permeated the society, and was to form the basis for
+much of what transpired in the subsequent evolution of the varied
+daughter societies. The archaic society had for its titular head a
+hereditary chief, imbued with mana from the ancestral and primal
+deities, and who was tapu as a consequence. This person formed the
+critical linkage in the chain between gods and the earth and sea that
+provided sustenance. That the chief occupied the central role in the
+rituals of production seems to be significant to the later evolution of
+Polynesian polities, for in the rituallv sanctioned control of production
+lay the seeds of a political economy. The opposition between a domestic
+‘strategy' of underproduction’ (Sahlins 1972:41-100) and the centri¬
+fugal demands of the chieflv, status-conscious armature is a vital aspect
+of the evolutionary process in Polynesia. ‘The . . . potential of Poly¬
+nesian chieftainship is precisely the . . . pressure it could exert on
+household output, its capacity both to generate a surplus and to deploy
+it out of the household towards a broader division of labor, cooperative
+construction, and massive ceremonial and military action’ (Sahlins
+1963:303).
+     These basic structural elements, and the contradictions and oppo¬
+sitions inherent in them, were carried as part of the‘cultural baggage’ of
+everv canoe-load of Polynesian voyagers who searched the Pacific for
+new landfalls. How such vovagers would apply these social and political
+structures to build new societies depended in part on the constraints,
+challenges, and opportunities presented by the particular island or
+archipelago they succeeded in finding and colonizing. Whether the
+new land was too isolated to maintain contacts with the homeland,
+whether it was vast or small, high or low, endowed with permanent
+streams, and so on, were factors that were to channel evolutionary
+pathways in certain directions. But the driving force in Polynesian
+technological and social evolution lav in the people, and in their con¬
+cepts of themselves as members of a pyramidal society, as people of the
+chief, as descendants of the gods.

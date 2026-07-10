@@ -1,0 +1,1521 @@
+3467: Culture and Process
+3468: 
+3469: In the last two chapters, we have seen how different forms of
+3470: archaeological theory differ in their approach to questions of
+3471: epistemology (the nature of knowledge claims) and questions of testing
+3472: or evaluation (analogy and middlerange theory). We will now look at how
+3473: theories differ in their approach to cultural forms and social change.
+3474: 
+3475: How do human societies work? How do human beings relate to one another?
+3476: How can any human being have the power of command over a hundred, let
+3477: alone a thousand or a million, others? Were social groups in the past
+3478: formed through consent and cooperation, or through conflict and power?
+3479: Is social change a gradual, cumulative process, or does it arise
+3480: violently through the clash of ideas and groups, through conflict and
+3481: contradiction? How do the day-to-day actions of ordinary individuals
+3482: making pots or feeding children relate or add up to long-term,
+3483: large-scale changes like the origins of agriculture or the rise of
+3484: modern capitalism? These are some of the core questions within
+3485: disciplines that deal with humans and the relations between them, not
+3486: just archaeology but particularly sociology, cultural anthropology, and
+3487: history.
+3488: 
+3489: All these questions can arguably be re-phrased as: what is culture, and
+3490: how and why does it change? The definition of ‘culture’ was a core
+3491: concern of anthropology, most obviously in the achievement of Franz Boas
+3492: in making the idea of ‘culture’ the centrepiece of the fourfield
+3493: approach in North America at the end of the nineteenth century.
+3494: 
+3495: The word ‘culture’ appears simple at first sight, but it is desperately
+3496: complex and difficult to define. One group of meanings clusters around
+3497: what it means to be ‘cultured’ or ‘civilized’, and are value-laden; it
+3498: is an insult to call someone ‘uncultured’. This general use of the term
+3499: bleeds into much of humanistic archaeology – as we have seen, the
+3500: genesis of Classical archaeology depended on a notion of what it meant
+3501: to be cultured, and the term ‘civilization’ and adjective ‘civilized’
+3502: are also ambiguous in this respect.
+3503: 
+3504: Franz Boas rejected this view. For Boas, culture was not something which
+3505: one person or group had and others did not. He insisted that all human
+3506: groups have cultures, in the sense of systems of ideas and symbols,
+3507: cultures which make sense in themselves. Boas established what
+3508: anthropologists now regard as commonplace: that culture cannot be
+3509: equated to or directly derived from race, and nor can it be judged on an
+3510: ethnocentric yardstick. Further, ‘culture’ is not some kind of add-on to
+3511: human existence, something which humans only have time for once they
+3512: have satisfied their other needs such as subsistence.
+3513: 
+3514: Archaeologists try to talk about ancient cultures and societies, and
+3515: attempt to understand how and why they existed and changed as they did.
+3516: They are thus immediately locked into the sociological and
+3517: anthropological questions raised above. Yet again, we cannot choose to
+3518: avoid theory in this regard. ‘Atheoretical’ archaeologists, for example,
+3519: will not address such questions explicitly, but they do use metaphors
+3520: that imply a particular view of how societies work.
+3521: 
+3522: We have already seen one such metaphor in action: the aquatic view of
+3523: culture, in which ripples of diffusion spread across the cultural lake,
+3524: crosscutting one another. Another popular metaphor is that of society as
+3525: a body. For example, we might talk about societies or social stages
+3526: reaching ‘maturity’ or use other bodily metaphors, of social ‘sickness’
+3527: or ‘disease’. (Supposedly descriptive and atheoretical accounts of the
+3528: rise and fall of the Roman Empire are full of such metaphors.) The
+3529: bodily metaphor often involves organic rhythms of ‘youth’, ‘maturity’
+3530: and ‘decline’. Works of traditional history speak of ‘the birthpangs of
+3531: Protestantism’. Architectural metaphors are also popular: a society
+3532: ‘collapses from within’, or a particular archaeological phase or event
+3533: ‘lays the foundations for’ certain subsequent changes.
+3534: 
+3535: The different metaphors used by ‘atheoretical’ archaeologists to
+3536: characterize societies in this way are more than just words. Consciously
+3537: or unconsciously, they refer back to theoretical ideas that are part of
+3538: a common intellectual currency. Many relate, for example, to
+3539: nineteenth-century European conceptions of history and art history.
+3540: German Romantic philosophers, in particular Hegel, talked of a zeitgeist
+3541: or essential spirit. Such a spirit might be characteristic of a
+3542: historical period or stage of world history, or a people or race. Such a
+3543: spirit might then be used to explain a particular art style or aesthetic
+3544: preference; so for example Classical columns and proportions used in
+3545: Greek and Roman architecture were held to be expressions of some
+3546: underlying system of humanist rationality.
+3547: 
+3548: An underlying conception of zeitgeist profoundly influenced European art
+3549: and architectural history and its applications to archaeology, for
+3550: example of the Classical, medieval and Renaissance periods. Mediated by
+3551: this tradition, theoretical ideas of a culture being defined and
+3552: characterized by some essential or inner spirit were implicitly
+3553: translated into everyday words and phrases often used by archaeologists,
+3554: particularly in popular texts: ‘the spirit of the Bronze Age’, ‘the
+3555: ethic of Romanitas still held sway’, ‘the inner essence of the Celtic
+3556: peoples’, ‘the medieval mind’.
+3557: 
+3558: To repeat, all these ideas, whether implicit or explicit, and whether
+3559: right or wrong, are theoretical ideas and need to be examined and
+3560: criticized as such. The idea of zeitgeist in particular is morally
+3561: questionable (as well as intellectually unsustainable) when applied in
+3562: racial terms: it may sound innocent enough to talk of ‘the Celtic
+3563: spirit’, but reference to ‘the Indo-European spirit’ would rightly be
+3564: viewed with suspicion. These ideas continue nevertheless to stand in as
+3565: substitutes for more developed and explicitly theorized concepts in many
+3566: traditional narratives, and to be uncritically deployed in popular
+3567: debates over an ‘essence’ of cultural identity which often descend into
+3568: questionable stereotypes (‘typical English reserve’, ‘natural Latino
+3569: exuberance’, ‘Gallic flair’).
+3570: 
+3571: Culture History
+3572: 
+3573: You will recall from chapter 2 that more traditional forms of
+3574: archaeology have a normative view of culture in which a culture is
+3575: defined as a set of shared ideas. These ideas are imperfectly expressed
+3576: in material culture; the varied forms of artefacts imperfectly reflect
+3577: different norms (figure 5.1). In this view, one tends to stress the
+3578: particularity of cultures – why and how they are different from the
+3579: adjacent group. Culture history can also be seen as an idealist view, in
+3580: that it is ideas and norms that are seen as being important in the
+3581: definition of cultural identity.
+3582: 
+3583: There are two problems with the culture-historical view of how human
+3584: societies work. The first problem is that it tends to be mentalist. That
+3585: is, it explains why a culture is the way it is primarily by reference to
+3586: what people are thinking. The identification and criticism of mentalist
+3587: explanation can be found time and again in archaeology and the human
+3588: sciences generally. The fatal objection to a mentalist explanation is as
+3589: follows: a culture decorates its houses this way because of its cultural
+3590: norms. But why does it have these cultural norms? Why not a different
+3591: set of norms? Again, why is this pottery decorated in this way? Because
+3592: of the norms inside the potter’s head; the potter wanted it to look that
+3593: way. Why did the chicken cross the road? Because of what was inside its
+3594: head: it wanted to get to the other side.
+3595: 
+3596: Culture-historical archaeology is full of arguments that can be
+3597: criticized as being mentalist. They are especially prevalent and
+3598: pernicious where religion is involved, since here the author can
+3599: implicitly appeal to an unspecified inner spiritual need that the reader
+3600: is lulled into assuming is ‘natural’:
+3601: 
+3602: No system such as [the minster system], being designed to economise both
+3603: in buildings and clergy [why was it designed this way? Because clerics
+3604: wanted it to be this way?], could hope to meet the needs of every
+3605: Christian believer [why not? What are these needs? Are these needs
+3606: really self-evident if one is not a fundamentalist Christian?] And it
+3607: was inevitable that, alongside these centres, a network of private
+3608: chapels, or oratories, should very quickly have developed [why was it
+3609: inevitable?]. (Platt 1981: 1; comments mine)
+3610: 
+3611: The answers to the questions in italics can only follow if the ‘need’
+3612: for churches is taken as self-evident, in need of no further
+3613: explanation. Why did people have certain ideas inside their heads that
+3614: led them to ‘need’ more churches? Why were the old belief systems, pagan
+3615: or otherwise, now deemed inadequate? And who deemed them inadequate –
+3616: why did the religious élite assume that the common people ‘needed’ these
+3617: ideas? Were changing ‘needs’ of this kind anything to do with
+3618: contemporary socio-economic changes, and if so, what were those changes?
+3619: 
+3620: Figure 5.1 David Clarke’s (1976) diagram of the normative view of
+3621: culture. Members of a group produce handaxes. Each has an idea of what a
+3622: handaxe should look like; by observing others and communication this
+3623: idea approximates to the group idea or norm. Individual handaxes are
+3624: imperfect representations of this norm, being flawed, or made with more
+3625: or less skill
+3626: 
+3627: [c05_image001.jpg]
+3628: 
+3629: In short, to explain an archaeological feature or historical phenomenon
+3630: by reference to a untheorized need or intention in someone’s head is to
+3631: explain nothing at all. Mentalist arguments of this kind can be found
+3632: lurking implicitly within many traditional archaeological and historical
+3633: syntheses: they can even be built into the core of their assumptions.
+3634: 
+3635: The second objection raised by New Archaeologists to the normative
+3636: approach to culture is that culture is just treated as a rag-tag
+3637: assemblage of ideas. Why do ideas fit together in a certain way? What,
+3638: if anything, does the zigging versus the zagging on the pottery have to
+3639: do with varying settlement and house types? Why, in short, do certain
+3640: things fit together in the way they do?
+3641: 
+3642: The New Archaeology’s definition of culture was therefore very
+3643: different. For New Archaeology, culture was a system (figure 2.5). A
+3644: system was defined by David Clarke as ‘an intercommunicating network of
+3645: attributes or entities forming a complex whole’ (Clarke 1978: 495). For
+3646: Flannery and Marcus, systems were characterized by exchanges of matter,
+3647: energy and information among their components.
+3648: 
+3649: This is a very different view of culture. Instead of looking for shared
+3650: norms, systems thinkers looked for different elements or subsystems and
+3651: studied the relations between them. Instead of looking ‘inside’ at what
+3652: people thought, what was going on inside their heads, at centre stage,
+3653: they often prefer to look ‘outside’, at how their cultural system was
+3654: adapted, to an outside environment.
+3655: 
+3656: Cultural Systems: Summary
+3657: 
+3658: There are six aspects of thinking about cultural systems that it is
+3659: important to grasp.
+3660: 
+3661: (1) Cultures are, at least in part, the way they are because they are
+3662: adapted to an external environment, whether that is the surrounding
+3663: natural environment or that of neighbouring, competing social systems.
+3664: We have seen how Lewis Binford defined culture as ‘Man’s extrasomatic
+3665: means of adaptation’. Much thinking on cultural systems thus tends to
+3666: have close intellectual ties to Darwinian ideas of adaptation. Many
+3667: thinkers have moved away from this stress on adaptation to the external
+3668: environment in recent years, as we shall see.
+3669: 
+3670: (2) Elements of culture, in this view, are more or less observable.
+3671: Obviously you cannot dig a cultural system up directly – you will never
+3672: see a ‘trade’ or ‘subsistence’ subsystem in the archaeological record.
+3673: You can argue that they are observable, however, in the sense that they
+3674: depend on systems of energy and information flow rather than on thoughts
+3675: or norms.
+3676: 
+3677: To clarify: you can’t see ‘norms’ inside the mind of the potter; it’s
+3678: difficult to think of a way of ‘testing’ what was going on inside his or
+3679: her head, particularly if he or she has been dead for several thousands
+3680: of years. On the other hand, you can think of possible ways to measure
+3681: the incidence and importance of ‘trade’ for a given archaeological
+3682: group. You might, for example, look at the presence and proportion of
+3683: non-locally made pottery from excavated contexts. Again, you can’t dig
+3684: up ‘subsistence’, but you can measure and quantify the area of land
+3685: suitable for arable cultivation round a site, or the meat weight and
+3686: calorific value represented by the data gleaned from a faunal
+3687: assemblage. So one can see how an archaeologist might begin to construct
+3688: and measure a link between, in this example, subsistence economy and
+3689: trade – and might then ‘test’ this hypothesized link by reference to the
+3690: archaeological record.
+3691: 
+3692: (3) Such systems can be modelled and are amenable to being compared from
+3693: culture to culture. In this way, they can lead to comparative
+3694: observations and generalizations about cultural processes.
+3695: 
+3696: (4) Elements of cultural systems are interdependent; subsistence, trade,
+3697: ritual, social subsystems are related one to another. As a result,
+3698: change in one part of the system will affect the whole leading to
+3699: positive or negative feedback, homeostasis or transformation. What do
+3700: these terms mean?
+3701: 
+3702: Many systems thinkers have suggested that cultural systems can be seen
+3703: in fundamentally similar terms to other kinds of system in the natural
+3704: world. Natural systems in ecology, for example, tend towards a state of
+3705: balance. When they are affected by some external change, such as a
+3706: change in climate or the introduction of a new predator, the whole
+3707: system will, after a period of fluctuation, tend to reach a new state of
+3708: overall balance through modifications in the relations between the
+3709: subsystems.
+3710: 
+3711: So, by analogy, an environmental change (say an improvement of the
+3712: climate) will affect subsistence (making farming more productive). This
+3713: will enable farmers to produce more agricultural surplus, and to use
+3714: that surplus to engage in more trade in luxuries or prestige goods, thus
+3715: changing the trade subsystem. The new prestige goods may also affect the
+3716: social subsystem; accumulation of such prestige items might bolster the
+3717: position of élites, increasing the social distance between élites and
+3718: commoners. The changed social and trade subsystems will then of course
+3719: react back on subsistence – newly powerful élites might encourage or
+3720: insist on further agricultural intensification, or initiate large-scale
+3721: projects like irrigation. With negative feedback, the system reaches a
+3722: new balance; this tendency towards a new equilibrium is called
+3723: homeostasis. On the other hand, positive feedback might occur – for
+3724: example, the new flow of prestige goods produces a transformation in the
+3725: social system, new forms of ranking that are unstable, which reacts back
+3726: proportionally on trade and farming as new social groups demand more
+3727: surplus and trade goods.
+3728: 
+3729: (5) Different elements of cultural systems are linked to one another and
+3730: explained by function. For example, if you want to explain ritual
+3731: elaboration in a particular period, it might be explained in terms of
+3732: the function of religious systems in giving legitimization to social
+3733: ranking (‘we are of high status because only we have access to the
+3734: gods’). Again, an intensification in agricultural production (that is,
+3735: producing more food) might be linked to the need to produce a surplus
+3736: for prestige purposes – again one subsystem is explained by reference to
+3737: its function in terms of others.
+3738: 
+3739: This is important because it suggests that we can look at the
+3740: significance of certain practices in the archaeological record without
+3741: necessarily having to make assumptions about their symbolic meaning,
+3742: which for many taking this view, is untestable. In this case, we see
+3743: ritual elaboration, say through the size and form of temples and
+3744: religious paraphernalia, and interpret it as legitimating an élite. We
+3745: don’t need to worry about what this or that religious practice ‘meant’,
+3746: what the form of the temples symbolized.
+3747: 
+3748: (6) Archaeologists can examine the links between subsystems in terms of
+3749: correlation rather than simple causes. We might observe, for example,
+3750: that over time in a particular context intensification of subsistence
+3751: agriculture goes hand-in-hand with population rise. Arguing about which
+3752: ‘caused’ the other is pretty fruitless, being a chicken-and-egg
+3753: argument. In delineating a cultural system, however, one can note the
+3754: correlation between the two and build it in within a larger model of
+3755: systemic change or stability.
+3756: 
+3757: The Idea of Process
+3758: 
+3759: Closely related to the idea of culture as a system is the idea of
+3760: cultural process. We have seen that New Archaeology sought to replace
+3761: ‘culture history’ with ‘culture process’. Since that move, the idea of
+3762: process has remained central to much of archaeological thinking.
+3763: 
+3764: Like so many terms in archaeological thought, ‘process’ is important and
+3765: habitually used, but it remains a difficult term to define. It refers to
+3766: a cluster of interconnected propositions:
+3767: 
+3768: (a) Process is about the ‘why?’ questions – it is about explanation, not
+3769: simply narrative description. Archaeologists want to ask ‘why?’ rather
+3770: than merely ‘when?’ or ‘who?’. A traditional culture sequence such as
+3771: that of Childe’s (figure 2.3) may be valuable in describing a sequence,
+3772: but it tells us nothing about why one culture succeeded another, or why,
+3773: for example, innovations like agriculture or metallurgy spread quickly
+3774: or slowly. The idea of process, then, relates closely to ideas of
+3775: cultural evolution.
+3776: 
+3777: (b) Archaeologists want to look at the underlying process rather than
+3778: the ‘noise’ on top. Why pottery decoration zigs or zags is unimportant
+3779: in this view; instead, what is important is to look at pottery as one
+3780: artefact of trade or of craft specialization, and to chart the process
+3781: by which, for example, the long-term development of market networks
+3782: relates to such specialization. Particular phenomena will always vary:
+3783: as with economics or sociology, what may be important is the underlying
+3784: trend.
+3785: 
+3786: (c) Archaeologists want to look at change in the long term. Many
+3787: archaeologists would argue that if you want to do anthropology, the
+3788: obvious place to start is in the present. Archaeology’s great, possibly
+3789: its only, contribution to the wider study of human beings had to be
+3790: through its long-term perspective which cultural anthropologists,
+3791: working only in the present or recent past, do not have.
+3792: 
+3793: In this sense, processual thinking shares many of the concerns with the
+3794: rhythms of long-term history as discussed by Annales historians such as
+3795: Fernand Braudel, though at the time these parallels in thinking were
+3796: little noted and it fell to a later generation of theorists writing in
+3797: the 1980s to point out the similarities (see chapter 11).
+3798: 
+3799: Example: Cultural Process around the North Sea
+3800: 
+3801: In his book Dark Age Economics Richard Hodges developed a processual
+3802: interpretation of the rise of towns, trade and social complexity in
+3803: post-Roman northwest Europe. Again, Hodges’s arguments must be seen in
+3804: context. Hodges was working against a backdrop of traditional
+3805: archaeological thought that had spent a great deal of time excavating
+3806: early medieval trading sites and analysing documentary evidence. Much
+3807: ink had been spilt trying to determine the exact date of settlements,
+3808: very often in an attempt to prove that this or that settlement was ‘the
+3809: first’ and that urban life spread outwards from that centre. This work,
+3810: however, had done almost nothing in explaining the re-emergence of towns
+3811: and trade before ad 850, had treated the evidence in a particularistic
+3812: manner and in ways that were riddled with questionable mentalist and
+3813: essentialist arguments (reference to innate ‘rekindling of the spirit of
+3814: trade’ or ‘the trading spirit of the Frisian peoples’).
+3815: 
+3816: Hodges suggested that the whole of the North Sea area should be seen as
+3817: a cultural system, within which social complexity, the rise of urbanism
+3818: and the growth of trade were linked. Drawing on ethnographic parallels
+3819: such as the Kula exchange network, he suggested that as with chiefdom
+3820: societies in general, the position of the chief or king at the apex of
+3821: society depended on his ability to control the production and
+3822: circulation of luxury or ‘prestige’ goods. The more successful the chief
+3823: was at controlling this flow, the more he could reward his followers
+3824: with gifts that in turn created reciprocal obligations.
+3825: 
+3826: The rise of a limited number of towns in the seventh to ninth century ad
+3827: could be seen as an attempt to control this production and flow; Hodges
+3828: drew attention to the planned nature of these settlements, suggesting
+3829: that planning reflected central control and their royal origin. He also
+3830: pointed out their location: on estuarine or riverine sites suitable for
+3831: long-distance trade, away from existing centres of authority.
+3832: 
+3833: Note that this explanation generalizes. It puts early medieval Europe
+3834: within a general classification of ‘chiefdom societies’ and seeks to
+3835: understand them in that light. Now ‘chiefdom societies’ can be seen in
+3836: Polynesia, the Americas, the Bronze Age in the Aegean; that is, in a
+3837: variety of ethnographic, ethnohistoric and prehistoric situations
+3838: spanning the globe. In all these areas other scholars have drawn
+3839: attention to the importance of the flow of prestige goods, the links
+3840: between prestige and chiefly power, the processes leading to greater
+3841: social complexity. Citing this literature, Hodges criticized traditional
+3842: scholars who had emphasized the uniqueness of northwestern Europe,
+3843: suggesting memorably that we should not consider the underlying
+3844: processes of cultural change to be any different in this context just
+3845: because a few Northern European monks took it into their heads to write
+3846: down what they thought of current events.
+3847: 
+3848: Such an evolving social system is more or less observable in the
+3849: archaeological record. We cannot directly see trade or urbanism, but we
+3850: can develop archaeological indexes of trade through statistical studies
+3851: of artefacts. We cannot see social ranking directly, but we can develop
+3852: an index of it in terms of burial practices, the richness or paucity of
+3853: grave goods.
+3854: 
+3855: Cultural Process: Strengths
+3856: 
+3857: It has been argued by some writers that all archaeologists think in
+3858: terms of cultural systems and processes. We all think of societies as
+3859: functioning units, and as we have seen many ‘traditional’ writers use
+3860: the metaphor of bodily systems implicitly. Much thinking in these terms
+3861: is implicit within explanations, even if the writer does not use the
+3862: appropriate jargon or is even consciously aware of the intellectual
+3863: background to what he or she is doing.
+3864: 
+3865: There are three strengths of thinking in terms of systems and process
+3866: which are worth outlining:
+3867: 
+3868: (1) It avoids the problems of mentalism discussed above. Hodges tries to
+3869: explain the rise of towns and trade; he does not take the easy and
+3870: fallacious route of ascribing it in mentalistic fashion to some
+3871: indefinable ‘Viking spirit’; it is linked to other processes within a
+3872: total picture of an evolving social system.
+3873: 
+3874: (2) It avoids monocausal explanations, in other words explanations that
+3875: try to single out one or other cause for an event. In so doing
+3876: processual thinking can combine the strengths of such explanations and
+3877: avoid their weaknesses.
+3878: 
+3879: One example is the study of the collapse of civilizations. In studying
+3880: why civilizations suddenly collapse, much fruitless academic argument
+3881: has been spent in arguing over single, specific causes. The eruption of
+3882: Santorini and its relation to the collapse of the Minoan civilization,
+3883: the ‘Classic Maya collapse’, or the convenient attribution of collapses
+3884: to sudden invasions of vast hordes of barbarian peoples, are obvious
+3885: examples.
+3886: 
+3887: Processual thinking directs our attention back to ‘why?’ questions. It
+3888: points away from sudden invasions and disasters towards an understanding
+3889: of why certain stresses or events were or were not critical (figure
+3890: 5.2). For example:
+3891: 
+3892: (a) The fall of the Roman Empire. Traditional accounts are often
+3893: consumed in endless detail on this or that barbarian invasion. A
+3894: processual thinker asks: Why was this barbarian invasion a fatal blow
+3895: rather than easily repulsed? What internal factors lessened the ability
+3896: of the Empire to respond? Conversely, what systemic or structural
+3897: factors underlay the barbarian invasions – population rise, territorial
+3898: stress, changes in political structure?
+3899: 
+3900: (b) The collapse of the Minoan civilization. In the past, many looked to
+3901: specific causes, such as chance invasions of barbarians or the eruption
+3902: of the volcano of Santorini. In all these cases, practical arguments
+3903: raged back and forth – for example, Spyridon Marinatos’s suggestion that
+3904: the Santorini eruption was primarily responsible was brought into
+3905: question by new dating evidence. But thinking more broadly, pointing to
+3906: particular events does not help us understand the underlying process.
+3907: Why should particular events like invasion or natural disaster lead to
+3908: irrecoverable decline rather than rapid regeneration?
+3909: 
+3910: (c) The ‘Classic Maya collapse’. Many of the great monuments of the Maya
+3911: civilization of Central America were suddenly abandoned, apparently
+3912: almost overnight. Again, traditional explanations looked to specific
+3913: historical causes such as earthquake, invasion or natural catastrophe to
+3914: explain this ‘collapse’. Processual thinkers redirect attention to what
+3915: they saw as more fundamental underlying factors – the relationship
+3916: between population rise and agricultural productivity, for example. By
+3917: modelling the Maya civilization as a system, they draw attention to
+3918: relationships between changing ‘variables’. Analysis of these variables
+3919: makes an apparently sudden collapse explicable as the culmination of
+3920: certain long-term processes.
+3921: 
+3922: (3) Cultural process is a potential source of optimism for archaeology.
+3923: If all aspects of a culture are functionally linked one to another, we
+3924: need not be restricted in what we talk about as archaeologists. Indeed,
+3925: there is no reason why we cannot infer the rest of society from the
+3926: meagre archaeological record. This is what I call the fairycake argument
+3927: (with apologies to Douglas Adams): if all parts of the universe are
+3928: linked to one another, the argument goes, we can infer the entirety of
+3929: the universe from one small piece of fairycake. Binford used this
+3930: argument when he wrote: ‘granted we cannot excavate a kinship
+3931: terminology or a philosophy, but we can and do excavate the material
+3932: items which functioned together with these. … The formal structure of
+3933: artefact assemblages together with the between-element contextual
+3934: relationships should and do present a systematic and understandable
+3935: picture of the total extinct cultural system’ (Binford 1964; his
+3936: emphasis)
+3937: 
+3938: Figure 5.2 A systems model of the ‘rise of civilization’ in Mesopotamia.
+3939: After Redman (1978: figure 7.7)
+3940: 
+3941: [c05_image002.jpg]
+3942: 
+3943: The Context of Cultural Systems
+3944: 
+3945: So far I have described processual thinking in isolation. However, it is
+3946: important to place systems thinking in its context. As with so many
+3947: archaeological theories, a lot of the intellectual background to systems
+3948: thinking lies in associated disciplines sharing the same fundamental
+3949: intellectual issues.
+3950: 
+3951: As we saw earlier, the links between different cultural elements or
+3952: subsystems are functional ones. In functional explanation, culture is
+3953: seen as comparable to an organism such as the human body or any other
+3954: complex organism – there is an organic analogy, to use a common piece of
+3955: jargon. Biologists explain different parts of an organism by reference
+3956: to their function within the system as a whole. For example, the form of
+3957: the heart – a powerful pump – is explained by reference to its function
+3958: in pumping blood which takes oxygen around the body. Sociologists
+3959: explain subsystems within modern social systems by reference to their
+3960: functions. For example, the form of the modern state – an administrative
+3961: bureaucracy – is explained by reference to its economic, social and
+3962: political function(s). Processual thinkers similarly explain elements of
+3963: past cultures by reference to their function; for example, religious
+3964: practices and institutions are seen in terms of their function in
+3965: legitimating social hierarchies, or the presence of élites is explained
+3966: with reference to their function in managing complex activities such as
+3967: irrigation agriculture.
+3968: 
+3969: Functionalism, as a theory of culture, has been defined as the
+3970: proposition that cultures are like organisms, so that the part is
+3971: explained in terms of its function in relation to the whole. Cohen
+3972: defines it as ‘the notion that all of the institutions, beliefs and
+3973: morals of a society are interrelated as a whole, so that the method of
+3974: explaining the existence of any one item in the whole is to discover the
+3975: law which prescribes how this system coexists with all the others’
+3976: (Cohen 1968: 34). Functionalism developed in the later nineteenth
+3977: century with the rise of the human sciences as a whole. Different
+3978: versions were expounded by Auguste Comte, Herbert Spencer, Emile
+3979: Durkheim, Radcliffe-Brown and Malinowski (note that many of these
+3980: thinkers were also associated with early attempts to fashion
+3981: anthropology and sociology in a positivist mould).
+3982: 
+3983: We can understand functionalism better if we think about its
+3984: intellectual and social context. British social anthropology in
+3985: particular went hand-in-hand with the training of administrators for the
+3986: Empire. Thus the one very powerful implication of functional thought was
+3987: that the apparently irrational, weird and wonderful customs of ‘native’
+3988: peoples, such as belief in magic and witchcraft or elaborate rules
+3989: surrounding exchange systems, were functionally connected to the
+3990: workings of the group as a whole. Would-be administrators were taught to
+3991: think about the customs of their subjects in context and not to apply a
+3992: simplistic moral or evolutionary scale. Customs should not therefore be
+3993: thought of as simply irrational, relics from a previous stage of social
+3994: evolution, or as the perversions of ‘savage’ life.
+3995: 
+3996: If customs were not irrational, neither could they be satisfactorily
+3997: explained as relics of previous societies. Evolutionists had often
+3998: suggested that certain customs were ‘hangovers’ from previous stages of
+3999: the evolution of a society. Functional thinking was synchronic – that
+4000: is, it examined how different elements of society fitted together at one
+4001: particular slice of time. In other words, it said ‘Never mind about
+4002: historical origins. How does this or that institution or custom function
+4003: here and now, at this particular moment in time?’
+4004: 
+4005: Processual Thinking: Drawbacks
+4006: 
+4007: Thinking in terms of cultural processes therefore appears to be a very
+4008: strong way of thinking about cultures in the past. It avoids many
+4009: problems of traditional approaches, provides convincing explanations,
+4010: and allows us to develop generalizing and comparative arguments. Yet in
+4011: many theoretical circles, particularly in Britain, many of the ideas
+4012: outlined above have been either abandoned or at least heavily qualified.
+4013: Why?
+4014: 
+4015: First, there is a series of well-rehearsed criticisms of functionalism.
+4016: These criticisms, some argue, can equally be applied to theories of
+4017: cultural process. They include the following:
+4018: 
+4019: (1) There is, it is argued, a flaw at the heart of functional
+4020: explanation. If we explain something by reference to its function in
+4021: keeping a total system going, this does not explain where it came from
+4022: historically. An over-simplified example: we explain the rise of élites
+4023: in state societies by reference to their managerial functions in
+4024: coordinating agricultural activities. But where did these élites come
+4025: from?
+4026: 
+4027: One possible answer is that it was a conscious decision; but it is
+4028: difficult to see a cultural group sitting down round the hearth and
+4029: saying ‘OK, we’re having problems coordinating large-scale irrigation
+4030: agriculture, so we’ll invent an élite and believe in them as gods. They
+4031: will then function in the following ways to keep our system in
+4032: equilibrium …’
+4033: 
+4034: A more plausible answer is to link functional with adaptive
+4035: explanations; that is, to say that societies that happen to have
+4036: developed such élites, for example through historical accident, are
+4037: better adapted and compete more effectively within their environments.
+4038: In the long run therefore they tend to be ‘selected for’ in the
+4039: Darwinian sense, and in the long run they are the ones we will find in
+4040: the archaeological record. Processual arguments are therefore often
+4041: closely related to adaptive explanations, in terms of the way they are
+4042: expressed and the sort of archaeologists who put them forward. This is a
+4043: point to which we will return in chapter 10.
+4044: 
+4045: (2) Processual arguments depend on functional linkages. But these links
+4046: are always open to doubt in specific terms. There may be alternative
+4047: strategies available to individuals and cultures that are not
+4048: considered.
+4049: 
+4050: For example, one of the classic functional linkages is that made between
+4051: increasingly marginal environments and agricultural intensification. As
+4052: an environment becomes more difficult to live in, it is argued, human
+4053: groups will elaborate and intensify their efforts to cultivate food. At
+4054: Chaco Canyon in northwestern New Mexico, archaeologists have found that
+4055: in the period ad 700–800 there is an upsurge in the building of
+4056: ceremonial monuments, and a transition from pithouses to stone pueblos.
+4057: This activity is taken as indicative of the development of a higher
+4058: level of social complexity. This level of complexity often has been
+4059: understood in systemic terms. The environmental record suggests that at
+4060: this time the climate at Chaco was getting drier. A drier climate, it is
+4061: argued, meant that if agriculture was to be successful crops had to be
+4062: irrigated rather than rely on rainfall. The large-scale coordination of
+4063: labour needed to run such systems required a managerial élite.
+4064: 
+4065: However, alternative strategies were available: why not simply abandon
+4066: the area? Or adopt population control? Why adopt this form of
+4067: agriculture rather than that form? Why, specifically, does the
+4068: management of irrigation agriculture require an élite; can it not be run
+4069: through egalitarian cooperation between groups? It has recently been
+4070: argued that reorganization, rather than collapse, is the most common
+4071: human response to climatic or environmental change.
+4072: 
+4073: It is objected, then, that alternatives are always available: that the
+4074: forms of processual thinking outlined above fail to explore why this
+4075: particular strategy was adopted rather than that particular strategy.
+4076: Such choices between particular adaptive strategies may depend on the
+4077: particularity of cultural groups, or on cultural preferences.
+4078: 
+4079: (3) Functionalism cannot, it is objected, explain change adequately. A
+4080: functional or systemic model can explain why a system remains stable.
+4081: However, why do societies become increasingly complex?
+4082: 
+4083: For example, Kent Flannery wrote a classic early study of the origins of
+4084: agriculture in Mexico, explaining the transition from a hunting and
+4085: gathering way of life as part of a wider systemic change. He treated
+4086: ‘Man and the southern highlands of Mexico … as a single complex system,
+4087: composed of many subsystems, which mutually caused each other’. Culture
+4088: being adaptive in this view, change was seen in terms of ‘gradual change
+4089: in procurement mechanisms’, regulated by seasonality. The strengths of
+4090: this argument were (a) it directed attention away from the rather
+4091: tedious search for the earliest example of agriculture in the form of
+4092: ‘the first corncob’; (b) it thus tried to explain the origins of
+4093: agriculture merely than describe its diffusion; (c) it directed
+4094: attention to agriculture as part of a gradual change in culture rather
+4095: than a sudden invention; and (d) the important role of a changing
+4096: environment could be stressed. One weakness, however, was the assumption
+4097: that ‘without external change, [the development of agriculture] might
+4098: never have occurred’ (Flannery 1973a).
+4099: 
+4100: It can be argued, then, that models of cultural process often require an
+4101: external ‘kick’ to start them off. Again, this has led to an interest on
+4102: the part of many archaeologists, particularly those working on the
+4103: origins of early states, to explore how change and conflict might be
+4104: ‘built in’ to processual models. I will explore this interest further in
+4105: chapter 9 and below.
+4106: 
+4107: (4) The political implications of thinking about cultural systems can be
+4108: seen as objectionable. Suppose for a moment that systems thinking in its
+4109: more inflexible forms were ‘true’. What would its lessons be for us
+4110: today?
+4111: 
+4112: (a) That the nature of social stability and transformation is
+4113: inflexible, composed of long-term processes beyond the consciousness or
+4114: control of mere individuals, who are only pawns in the game. These
+4115: long-term processes are very complex and can only be understood with
+4116: lots of impenetrable jargon (mutual causal deviation amplifying
+4117: processes). However, such processes are scientifically understandable.
+4118: The only people, then, who really understand how society works and are
+4119: therefore in a position to make judgements on how we should organize it
+4120: are scientists, ‘men in white coats’. Ordinary people, it is further
+4121: implied, are not qualified to make critical comments on the judgements
+4122: of ‘experts’ who should therefore be left in sole charge of social
+4123: management.
+4124: 
+4125: (b) That history is about harmony rather than conflict. If each element
+4126: of culture is functionally related to the next, it is difficult to see
+4127: where conflict between groups might come from. In addition, if the moral
+4128: of functionalism is that all parts of the system are adapted to one
+4129: another and that there is a ‘natural’ tendency towards balance or
+4130: homeostasis, then by definition we live in a well-adapted system. Rather
+4131: than think in terms of class conflicts and contradictions between
+4132: groups, we are encouraged to treat social discord as something that can
+4133: be ‘managed away’ by the white-coated experts mentioned above. One
+4134: person’s systemic management problem is another’s revolution.
+4135: 
+4136: This is an over-simplified version of an argument developed by Jürgen
+4137: Habermas and others within the ‘critical theory’ school of social
+4138: philosophy, namely that systems theory is an ideology of control. In
+4139: this view, systems thinking is an authoritarian political statement
+4140: masquerading as neutral science. It must be opposed, in this view, on
+4141: basically political grounds.
+4142: 
+4143: (5) Processual thinking is an attempt to understand society from the
+4144: outside. Regardless of whether one is studying Neolithic Europe or
+4145: Formative Oaxaca, systemic thinkers still seem to divide up their
+4146: cultures into the same elements subsistence, trade, social, ritual …
+4147: Right or wrong, these are general categories imposed by the
+4148: archaeologist on to particular cultures. And, of course, they are (in
+4149: this argument) specifically Western, bourgeois categories.
+4150: 
+4151: Now it may be that we should be trying to understand culture from the
+4152: inside. To clarify, if we want to understand why cultures changed in the
+4153: past in may be necessary to understand something of ‘their’ worldview,
+4154: ‘their’ ideas of how the world works. Now their ideas may not have
+4155: divided the world up into such neat little blocks, or they may have
+4156: divided the world up into different blocks.
+4157: 
+4158: This distinction between ‘outside’ and ‘inside’ views of a culture is
+4159: one that is made time and time again in different areas of the social
+4160: sciences. The anthropologist Marvin Harris describes such a distinction
+4161: in terms of emic (inside) and etic (outside); sociologists talk of a
+4162: distinction between behaviour (what can be objectively observed) and
+4163: action (what the behaviour means to the participants). The argument that
+4164: it is necessary to look at ‘their’ view of ‘their’ world is one that is
+4165: central to ‘interpretive’ and ‘postprocessual’ views of archaeology.
+4166: 
+4167: Processual Thinking Modified
+4168: 
+4169: The force of the criticisms raised above was felt greatly by most
+4170: scholars, and has meant that more monolithic and hard-line forms of
+4171: systemic and processual thought held less and less popularity in
+4172: archaeology after the early 1980s. Most current versions of processual
+4173: thinking are rather modified, and have developed partly in response to
+4174: some of the issues raised above.
+4175: 
+4176: In practice, two responses can be taken:
+4177: 
+4178: 1 Some archaeologists claim to reject all models of culture process and
+4179: have tried to adopt entirely different ways of thinking about societies
+4180: (most obviously within ‘postprocessual’ approaches; see chapter 7). In
+4181: this attempt they have followed the lead of sociologists, most notably
+4182: Anthony Giddens. They have managed to distance themselves from thinking
+4183: in terms of cultural process with varying success.
+4184: 
+4185: 2 Others have tried to separate modified, looser versions of processual
+4186: thinking from much of the intellectual and historical ‘baggage’ of
+4187: functionalism. Several propositions are involved here:
+4188: 
+4189: (a) We can separate functional explanation from the sins of
+4190: functionalism as described above.
+4191: 
+4192: (b) Processual models of culture can incorporate conflict and
+4193: contradiction within their parameters.
+4194: 
+4195: (c) If (b) holds, then change from within the cultural system can be
+4196: understood and fruitfully explored in processual terms. We don’t need to
+4197: rely on an external ‘kick’ as Flannery did in his early work; we might,
+4198: for example, look for class or gender inequality within a culture, and
+4199: view that as a source of tension that leads to transformation.
+4200: Processual models can therefore, on this argument, develop
+4201: understandings of very sudden transformations, and are correspondingly
+4202: less dependent on ideas of adaptation to an external environment to
+4203: explain where change comes from.
+4204: 
+4205: (d) We can look at cognitive factors (‘their’ view of ‘their’ world)
+4206: within a processual model, either by modelling ‘cognition’ as a separate
+4207: subsystem or by some other means. ‘Cognitive archaeology’ will be
+4208: further discussed in the next chapter.
+4209: 
+4210: As a result, processual thinking in archaeology, particularly in North
+4211: America, has moved on from a view of cultural systems as purely or
+4212: primarily adaptive to an external environment, and as monolithic
+4213: entities that are characterized by harmony and homeostasis. Three more
+4214: contemporary trends can be distinguished.
+4215: 
+4216: (1) First, a move away from purely or primarily adaptive models, and an
+4217: exploration of conflict. Elizabeth Brumfiel expressed this move in
+4218: processual thinking well in the title of her review essay: ‘Breaking and
+4219: entering the ecosystem – gender, class and faction steal the show’
+4220: (1992).
+4221: 
+4222: In this view, culture process remains central as a way of thinking about
+4223: past cultural systems. However, there are many qualifications from
+4224: earlier versions. In particular, we can look at conflict and competition
+4225: between different elements within the cultural whole. The dimensions of
+4226: such conflict and competition include political and social faction,
+4227: class, gender, and other social groups. Conflict of this kind can lead
+4228: not to homeostasis but to social transformation. So instead of seeing
+4229: systems as monolithic, a stress on ideas such as heterarchy and
+4230: factional competition leads us towards a much more dynamic idea of
+4231: systemic change – and further, one that is much less dependent on ideas
+4232: of adaptation.
+4233: 
+4234: I will consider this work further in chapter 9, as it can also be
+4235: considered as a logical outgrowth of developments in thinking about
+4236: cultural evolution and early state societies. It also owes a great deal
+4237: to developments in Marxist thought, and particularly a Marxist view of
+4238: political economy.
+4239: 
+4240: (2) ‘World systems theory’ claims to unite elements of systemic and
+4241: Marxist thought. We shall discuss Marxism in the next chapter, but
+4242: Marxist models clearly involve many of the factors that early systems
+4243: thinking in archaeology had been criticized for ignoring: class
+4244: conflict, contradiction, inequality, exploitation.
+4245: 
+4246: World systems theory had its origins in the analysis of the origins of
+4247: modern capitalism; it is associated with the work of Emmanuel
+4248: Wallerstein. Wallerstein pointed out that capitalist social formations
+4249: involved more than the nation-states of Western Europe. Rather, if we
+4250: wanted to understand how capitalism emerged in the fifteenth, sixteenth
+4251: and seventeenth centuries, we had to look at the way different societies
+4252: across the globe were brought together into a single world system. Such
+4253: a system had a core, in this case of the nascent capitalist states of
+4254: early modern Europe, and a periphery, the other ends of the developing
+4255: trade routes with Africa, Asia and the Americas. Core and periphery were
+4256: related through trading networks that had social implications at each
+4257: end of the link: thus capitalist development in Europe was transformed
+4258: through the arrival of increased quantities of gold and of traded
+4259: commodities, while ‘native’ societies changed rapidly, often developing
+4260: new élites and nascent states, partly in response to the influx of
+4261: European goods. The entire globe, taken as a whole, could be modelled
+4262: systemically, with stress on the interdependence between core and
+4263: periphery, so that change in one could be seen to lead to change in the
+4264: other, often many thousands of miles away. The social systems of both
+4265: were understood by reference to functional linkages.
+4266: 
+4267: Archaeologists have suggested that we can use a world systems model to
+4268: explain a variety of ancient social networks. In particular, they have
+4269: looked at the interaction and networks of dependence between core state
+4270: societies and peripheral pre-state societies in a variety of contexts
+4271: (Bronze and Iron Age Europe, pre-Hispanic Central America, for example).
+4272: Santley and Alexander, for example, develop a generalizing typology of
+4273: units (the ‘dendritic political economy’, the ‘hegemonic empire’, the
+4274: ‘territorial empire’) and then a set of processes involved in
+4275: transformation (disenfranchisement, population redistribution, labour
+4276: organization and power).
+4277: 
+4278: (3) Simulation and mathematical modelling: from the late 1970s onwards
+4279: Renfrew and others argued that systems could be simulated on computers,
+4280: and that moreover we could build chance, historical contingency and
+4281: human decision-making into these models. This led in turn to an interest
+4282: in new models of the natural world being produced by natural scientists.
+4283: For example, chaos theory looks at how apparently random and small-scale
+4284: phenomena can trigger much larger patterns. By analogy, many systemic
+4285: thinkers have explored stochastic models (that is, models with elements
+4286: of chance or random variation built into them) and asked how systems
+4287: might be set off on different trajectories by contingent or chance
+4288: events.
+4289: 
+4290: These strands of thought are very different one from another, but what
+4291: is certain is that over the last 30 years there has been a ‘softening’
+4292: of processual thinking. Cultural systems are no longer seen as
+4293: monolithic structures, and contingency and historical accident is
+4294: allowed for; room has been made for cognition (see next chapter); and
+4295: heterarchy and conflict have become popular buzz-words.
+4296: 
+4297: However, I want to stress that an idea of process remains central and
+4298: even foundational to much academic archaeology, particularly in North
+4299: America; in later chapters, I shall argue that much of ‘postprocessual’
+4300: archaeology is much more dependent on concepts of culture process than
+4301: many of its proponents care to admit.
+4302: 
+4303: Culture, Process and the Individual
+4304: 
+4305: Stop – you’ve finished before discussing the most important criticism of
+4306: processual thinking of all. Human beings don’t act like this. They’re
+4307: not just pawns in a system. They are irrational and unpredictable.
+4308: Processual theory can never work because human actions are random. You
+4309: can’t fit human beings with all their idiosyncrasies and peculiarities
+4310: into a model.
+4311: 
+4312: Ironically, the one criticism of processual thinking that is most
+4313: popular is also the one that, in my view, is utterly misconceived.
+4314: 
+4315: Are human beings unpredictable? Almost certainly not, though we like to
+4316: think so. Cupid is supposed to be blind, but the vast majority of us
+4317: manage by some amazing coincidence to find partners of very similar
+4318: ethnic and social origins to ourselves.
+4319: 
+4320: In any case, unless you are a methodological individualist (see
+4321: Glossary), you cannot reduce the understanding of long-term social
+4322: processes to what we do as individuals. This is a classic debate not
+4323: just within archaeology, but within the human sciences as a whole.
+4324: 
+4325: Consider an example from the modern world, one examined by Emile
+4326: Durkheim in a classic pioneering study in the social sciences: the
+4327: suicide rate. The reasons why individuals commit suicide are as varied
+4328: as they are tragic, but the overall rate of suicides within society as a
+4329: whole rises and falls with other factors (such as the unemployment rate,
+4330: whether the country is at peace or at war). A social scientist cannot
+4331: predict individual suicides, but can, given sufficient data on
+4332: contemporary social trends, predict rises and falls in the suicide rate,
+4333: more often than not with a great deal of success. Consider also powerful
+4334: individuals. Scholars may seek to explain events in terms of powerful or
+4335: charismatic people – emperors or great leaders – but this always begs
+4336: the question of where their power comes from, what makes their power
+4337: possible.
+4338: 
+4339: If such a view works for the present, it is surely even stronger in
+4340: prehistory, where archaeologists manifestly have to deal with trends and
+4341: processes that span hundreds and even thousands of years, rhythms of
+4342: time than are beyond the compass of any individual.
+4343: 
+4344: Western thought has an emotional attachment to the idea of ‘the
+4345: individual’ that is simply not borne out by the reality of the world
+4346: around us, and still less is a valid basis for thinking about the past.
+4347: We can’t say in advance whether individuals were or were not important
+4348: in the past. Other cultures have had different ideas about individuality
+4349: and the importance of the individual versus the community. Westerners
+4350: may find some of these ideas strange, even disturbing or objectionable,
+4351: but this is no excuse for taking the modern Western ‘cult of the
+4352: individual’ as self-evident, or true for all times and all places.
+4353: 
+4354: There is a more sophisticated argument within much of contemporary
+4355: archaeology, namely that we have to understand social agency and the
+4356: individual subject. Pots are made by people, and I believe that the
+4357: archaeological record is as much about the detritus of individual
+4358: actions as it is about long-term aggregates or processes. There is also
+4359: a moral or philosophical argument that ‘freedom’ is a meaningful term to
+4360: use in historical analysis, but only in the presence of the absence of
+4361: freedom, for example in discussions of slavery. But before we can
+4362: consider such ideas, the Romantic notion of unqualified individual
+4363: freedom has to be firmly squashed. It may sell Hollywood blockbusters
+4364: (count the number of mentions the word ‘freedom’ gets in Braveheart) but
+4365: it is no basis for a serious analysis of past societies.
+4366: 
+4367: 6
+4368: 
+4369: Thoughts and Ideologies
+4370: 
+4371: The last chapter mentioned in passing the question of how we might
+4372: understand or account for the thoughts of people in the past. Looking at
+4373: thoughts in the minds of people long dead is obviously very difficult.
+4374: Is it necessary?
+4375: 
+4376: The question ‘do we have to look at thoughts in the past?’ is
+4377: deceptively simple. It is embedded in deeper questions, for example:
+4378: 
+4379: 1 What are ‘thoughts’, anyway? Are these conscious or unconscious? The
+4380: major influence of Carl Jung and Sigmund Freud on the human sciences was
+4381: to show that our conscious thoughts were only the tip of the iceberg;
+4382: human mental processes were much deeper, more complex and more difficult
+4383: to understand than the ‘rational’ surface. Should we take a ‘deep’ view
+4384: of thoughts or a ‘shallow’ view?
+4385: 
+4386: 2 Are all human beings united by the same cognitive systems, or are
+4387: these diverse? To use some common jargon, are we justified in making
+4388: essentialist claims about the nature of cognition, or is human knowledge
+4389: of the world socially constructed and therefore variable between
+4390: different societies? If it is variable, how can we be justified in
+4391: making assumptions about the individual or group psychology of
+4392: prehistoric cultures on the basis of studies of modern populations?
+4393: 
+4394: These are all very deep questions that are not exclusive to archaeology.
+4395: They are questions that all ‘human sciences’ have had to grapple with in
+4396: different forms.
+4397: 
+4398: In this chapter, I want to expand on this theme and look at some of the
+4399: ways theory in the human sciences at large has coped with this problem.
+4400: These themes are, first, the influence of the structuralist and semiotic
+4401: traditions of thought, second, the influence of Marxism, and third, the
+4402: move towards cognitive approaches.
+4403: 
+4404: Looking at Thoughts
+4405: 
+4406: Do we really have to look at cognition, at thoughts? Many would say
+4407: ‘No’. A large number of positivists both within archaeology and within
+4408: the human sciences in general argue that you can never test thoughts.
+4409: They give two reasons:
+4410: 
+4411: 1 You can never scientifically verify what is between someone’s ears; in
+4412: archaeology, we can never go back to talk to the long-dead people who
+4413: created the monuments and artefacts that we study. Thoughts are
+4414: therefore untestable. They are consequently beyond the domain of
+4415: Science. This is a common view of some though not all positivists.
+4416: 
+4417: 2 We don’t study human actions, we study the archaeological record – a
+4418: mute collection of stones and bones, matter arranged in time and space
+4419: (back to figure 2.1). We can explain what we see in terms of past
+4420: cultural systems; their dynamics of change, how they were adapted to
+4421: their environment. We do not need to do this with direct reference to
+4422: mental factors. Reference to mental factors would involve the error of
+4423: mentalist explanation in any case (see chapter 5). Forms of this
+4424: argument have been advanced by Binford and others.
+4425: 
+4426: Many traditional archaeologists also argue that it is difficult if not
+4427: impossible to use the archaeological record to recover past beliefs.
+4428: Archaeologists like Christopher Hawkes argued for seven levels of
+4429: archaeological inference ranging from the relatively straightforward to
+4430: the very difficult. Archaeological material, said Hawkes, could be used
+4431: with reasonable security to tell us about technology in the past.
+4432: Economic inferences were more difficult; inferences about cultural and
+4433: religious life were almost impossible except in exceptional
+4434: circumstances. This view of the limitations of archaeology was held with
+4435: fanaticism by some:
+4436: 
+4437: I was back in Devizes, along with a packed audience of several hundred
+4438: people, to hear the principal living authority on Stonehenge, Professor
+4439: Richard Atkinson, give a lecture… When this was done the chairman, the
+4440: equally authoritative Professor Stuart Piggott, called for questions.
+4441: There came some requests for various elucidations of technical points,
+4442: which were given. Then a young man stood up at the back.
+4443: 
+4444: ‘Would Professor Atkinson care to say anything about the peoples who
+4445: built the three main phases – their culture and religion?’
+4446: 
+4447: He might as well have asked a synod of Methodist ministers whether they
+4448: could consider publishing a new edition of De Sade’s 120 Days of Sodom …
+4449: All such speculation was futile, the wicked fellow was peremptorily
+4450: told. Such information was strictly dependent on written records, the
+4451: Stonehenge peoplesdid not have writing, we knew nothing, we would never
+4452: know anything; to speculate on such matters was not only totally
+4453: unscientific, but far worse, it encouraged the lunatic fringe. In the
+4454: slightly shocked silence that followed this icy douche … Professor
+4455: Piggott rose to announce that the lecture was at an end. No more
+4456: questions. (Fowles 1980: 9–10)
+4457: 
+4458: Whatever orientation one takes, there are clearly immense difficulties
+4459: in recovering thoughts. Behavioural psychologists argue that we can
+4460: never ‘know’ what someone else is thinking in the present; we can only
+4461: record their behaviour, which can be externally measured and observed.
+4462: How much more difficult to recover the minds of women and men not just
+4463: long dead, but members of an extinct culture, with an utterly different
+4464: view of the world! Such a task is difficult enough for archaeologists of
+4465: historic periods; prehistorians have to do so using material remains,
+4466: with no documentary records to assist.
+4467: 
+4468: Why, then, should we be trying to get at past thoughts and beliefs? In
+4469: my view, to argue about whether or not it is difficult to do so is to
+4470: miss the point. It is simply necessary. I suggest there are three
+4471: reasons for this.
+4472: 
+4473: (1) We all actually make assumptions about past thoughts whether we like
+4474: it or not. Take, for example, a dry, straightforward typology of pots.
+4475: When archaeologists classify decorations of a certain type together,
+4476: they generally do so on the assumption that shared design must have
+4477: something to do with shared meanings in the minds of the makers and the
+4478: users of the pots, for example ideas of zeitgeist mentioned in Chapter
+4479: 5.
+4480: 
+4481: What a lot of ‘atheoretical’ archaeologists do in practice is assert
+4482: that we can never recover past thoughts, but do so in practice by
+4483: slipping assumptions about mental attitudes back into their arguments as
+4484: ‘common sense’. Thus, for example, putting fireplaces and chimney-stacks
+4485: in houses rather than rely on open hearths is common sense because it
+4486: makes the house warmer, less full of smoke, more ‘comfortable’. The
+4487: problem with such arguments is that they depend on assumptions about
+4488: what is ‘natural’ or ‘normal’ in human beings: in this example, a desire
+4489: for domestic comfort is assumed as ‘natural’. It is ‘common sense’,
+4490: then, to satisfy those desires. These assumptions tend to fall apart
+4491: when closely examined, since one can always point to the diversity of
+4492: human practice; in particular, different ethnographic examples where the
+4493: practice is not ‘n ormal’ or ‘natural’.
+4494: 
+4495: The problem with common sense in this context is that what is ‘common
+4496: sense’ to ‘us’ may not have been common sense to ‘them’. Anthropologists
+4497: study other cultures in the present that have very different cultural
+4498: attitudes. For the Azande, when some unfortunate accident occurs, it is
+4499: common sense to go to a witch-doctor or diviner to find out who was
+4500: responsible for the magic behind it. It is logical to assume that other
+4501: cultures in the past may have had other common senses.
+4502: 
+4503: Lurking in the wings behind the common-sense argument are implicit
+4504: beliefs in essentialism and ethnocentrism. Essentialism is the belief
+4505: that there are certain attitudes or emotions (such as the desire for
+4506: privacy, for domestic comfort, or the sex drive) that are ‘natural’ or
+4507: biologically endowed, either to humans in general or to a specific sex.
+4508: Thus the statement ‘in prehistory, men must have been more warlike than
+4509: women as they lacked the mothering instinct’ is an essentialist
+4510: statement since it assumes that ‘the mothering instinct’ is endowed
+4511: naturally or biologically to all women. Now there may or may not be
+4512: certain ‘human universals’ of this kind; that is a matter for debate; I
+4513: am sceptical about most of the possible candidates. Whatever the case,
+4514: however, such essentialist statements need to be argued through rather
+4515: than simply assumed.
+4516: 
+4517: Ethnocentrism is the belief that the values and attitudes of one’s own
+4518: culture are normal and universal. Thus an assumption that, for example,
+4519: witchcraft belief is ‘irrational’ is ethnocentric, since it assumes that
+4520: Western logic is the only form of rationality around. Belief in
+4521: witchcraft must therefore be irrational since it fails to satisfy the
+4522: criteria of Western logic. (Of course, Western logic fails to satisfy
+4523: the criteria of Azande witch doctors.) Again, belief in the human desire
+4524: for privacy is ethnocentric, since it assumes that the high stress on
+4525: the individual and hence his or her right to privacy in Western society
+4526: is universally normal and natural.
+4527: 
+4528: (2) Any archaeologist working outside the deeper recesses of prehistory
+4529: (that is, before ethnohistorically attested, protoliterate or literate
+4530: societies) has to deal with evidence that is strictly ‘historical’ in
+4531: nature; that is, with documentary or textual evidence in some form. But
+4532: such documents are nothing if not statements of thoughts – however
+4533: mundane or ‘obvious’ those thoughts are. If we are therefore going to
+4534: relate archaeological to documentary evidence, then, some critical
+4535: attention must be given to the mental attitudes and ideas that played
+4536: their part in producing that evidence.
+4537: 
+4538: (3) There is a philosophical point to do with the way we study human
+4539: societies. As we explored in the last chapter, it is almost impossible
+4540: to describe human behaviour without referring to mental concepts.
+4541: Imagine trying to describe – to get a third person to ‘understand’ – the
+4542: actions of a woman withdrawing money from a bank solely with reference
+4543: to physical movements and actions. This is a point made most elegantly
+4544: by one of my favourite and most entertaining writers, the sociologist
+4545: Erving Goffman:
+4546: 
+4547: Take … an act which is tolerably clear: a man driving through a red
+4548: light. What is he doing? [Goffman lists 24 different reasons,
+4549: including] 1. Where he comes from they have signs, not lights. 2. The
+4550: daylight was bad and he couldn’t see. 3. He’s lately become
+4551: colour-blind. 4. He was late for work. 5. His wife is giving birth in
+4552: the back seat and he’d like to get to a hospital. 6. The bank robber in
+4553: the front seat is holding a gun on him and has told him to run the light
+4554: … 15. He’s an inspector testing the vigilance of the cops on duty … 22.
+4555: He was drunk, high. 23. His mother has a lamentable occupation, and he
+4556: has a psychiatrically certifiable compulsivity with regard to red lights
+4557: …’ [He concludes]: So our man has passed through a red light. But at his
+4558: hearing when the judge asks him what he was doing running a red light,
+4559: he will provide an argument as to what was really happening. Obviously,
+4560: what makes driving through a red light a discernible, isolable event is
+4561: that a rule stipulated in regard to the light was broken. The objective
+4562: ‘fact’, then, must be as variable as is the individual’s possible
+4563: relation to the rule. (Goffman 1971: 132; italics mine. Note in passing
+4564: that we understand the action by reference to its context, a point
+4565: developed in the next chapter.)
+4566: 
+4567: The belief that thoughts and ideas are more important than the material
+4568: world is called idealism. Historically, the idealist tradition of
+4569: philosophy is a long one, including the names of such philosophers as
+4570: Plato, Vico, Berkeley, Kant, Descartes and Hegel, through to the
+4571: linguist Ferdinand de Saussure and anthropologist Claude Lévi-Strauss.
+4572: Paradoxically, although it stresses the importance of thoughts and
+4573: concepts, a belief in idealism can lead to a very conservative
+4574: theoretical position. Because thoughts in the idealist view are very
+4575: important but also very difficult to get at, all the archaeologist can
+4576: legitimately do is describe and classify:
+4577: 
+4578: Do you wish to understand the true history of a Neolithic Ligurian or
+4579: Sicilian? Try, if you can, to become a Neolithic Ligurian or Sicilian in
+4580: your mind. If you cannot do that, or do not care to, content yourself
+4581: with describing and arranging in series the skulls, implements, and
+4582: drawings which have been found belonging to these peoples. (Benedotto
+4583: Croce, 1917, Theory and History of Historiography, trans. R.G.
+4584: Collingwood 1921: 135)
+4585: 
+4586: The idealist philosophical tradition has been profoundly influential in
+4587: continental Europe, particularly on traditions of French and Italian
+4588: archaeology. Postprocessual archaeology was not claimed to be an
+4589: idealist philosophy by its advocates, but it was profoundly influenced
+4590: by idealist notions.
+4591: 
+4592: The rest of this chapter will examine three bodies of thought that
+4593: archaeologists have used to approach the question of thoughts:
+4594: structuralism, Marxism, and ‘cognitive’ approaches.
+4595: 
+4596: Structuralism
+4597: 
+4598: One of the key ways in which idealism has affected archaeological
+4599: thought is via the school of thought termed structuralism. Like both
+4600: functionalism and Marxism, this theoretical current has developed and
+4601: changed as a critical tradition over the years. It has few adherents in
+4602: its original, classical form today, but (like systems theory) has had
+4603: such a profound influence on archaeological thought that it cannot be
+4604: ignored. Like Marxism also, structuralism is a term much misused and
+4605: abused, referring more to a vague impression of pretentious Paris
+4606: intellectuals sitting in cafes on the Rive Gauche than a given set of
+4607: ideas. I am going to go back to the roots of structuralism so that its
+4608: present influence can be more easily understood.
+4609: 
+4610: For functionalists, culture is like an organism, different parts of the
+4611: body/society performing different functions and the whole adapted to its
+4612: environment. For structuralists, culture is like language.
+4613: 
+4614: Structuralism was originally a body of thought developed in linguistics
+4615: by Ferdinand de Saussure. The most important point for our purposes is
+4616: to observe that for Saussure, language is composed of hidden rules that
+4617: we use but don’t articulate. As I write and you read this sentence, I
+4618: use a set of grammatical rules to compose my text. You know that set as
+4619: well. Your knowledge of that set of rules enables you to decode, to
+4620: ‘read’ what I write. You can do this even though each sentence that I
+4621: produce is unique; each sentence is one that has never been composed
+4622: before in the history of the English language. Indeed, I can generate a
+4623: theoretically infinite set of different statements or sentences from a
+4624: fairly simple set of grammatical rules.
+4625: 
+4626: Both of us, however, understands those rules at a deep, implicit rather
+4627: than surface, explicit level. We both have a pretty hazy idea of what a
+4628: gerund or a subjunctive clause is. Neither of us puts those rules ‘into
+4629: words’ though we ‘know’ and use them constantly and habitually, and in
+4630: general we both get them right. (Otherwise, if we did not get them
+4631: right, we would not be able to decode each other’s utterances and
+4632: understand each other.)
+4633: 
+4634: In short, the rules that govern language are hidden, deep inside the
+4635: human brain. If you want to explain the different forms of language,
+4636: then, you need to refer to the hidden (cognitive) rules that generate
+4637: sentences.
+4638: 
+4639: Archaeologists influenced by structuralism suggest that the same is true
+4640: of the material things that we find in the archaeological record. They
+4641: see artefacts as another expression of human culture in general. If you
+4642: want to explain human culture, then, you need to uncover the hidden
+4643: (cognitive) rules that generate cultural forms.
+4644: 
+4645: Structural models have been used to produce classifications of different
+4646: kinds of archaeological material. Henry Glassie, for example, used the
+4647: analogy of ‘grammar’ to examine the layout of ordinary houses in
+4648: eighteenthcentury Virginia. He proposed that ordinary people designed
+4649: these houses by taking a series of basic spatial units and applying a
+4650: system of grammatical rules to those units to produce different house
+4651: plans. He called this scheme a transformational grammar: that is, it
+4652: described the way in which units were transformed through a series of
+4653: cognitive stages into houses. Similar exercises have been performed for
+4654: other classes of material, for example Leroi-Gourhan’s work on
+4655: Palaeolithic cave art and schemes of pottery decoration.
+4656: 
+4657: But the implications of structuralism are deeper than simply offering
+4658: tools for fresh classifications. So whereas a processual thinker’s
+4659: immediate instinct might be to ask ‘How does this social practice
+4660: function within the culture as a whole? And how does this help the
+4661: cultural system to work, to be better adapted, within a wider
+4662: environment?’, the structuralist will ask ‘What are the underlying rules
+4663: governing this structure? And what do those rules tell us about the way
+4664: this culture sees the world?’ For functionalists, culture is
+4665: fundamentally adaptive, a coping device; for structuralists, culture is
+4666: fundamentally expressive, a system of (hidden, cognitive) meanings.
+4667: 
+4668: Marxism
+4669: 
+4670: It is impossible at the present time to write history without using a
+4671: whole range of concepts directly or indirectly linked to Marx’s thought
+4672: and situating oneself within a horizon of thought which has been defined
+4673: and described by Marx. One might even wonder what difference there could
+4674: ultimately be between being an historian and being a Marxist. (Foucault
+4675: 1980: 53)
+4676: 
+4677: A second school of thought that has had a profound effect on
+4678: archaeological thought is that of Marxism. Like structuralism, Marxism
+4679: has developed almost beyond recognition since its original formulation
+4680: and development by Karl Marx in the nineteenth century. I want to
+4681: highlight a very few aspects of Marxist thought that are of relevance to
+4682: archaeological theory.
+4683: 
+4684: In its original form, Marxism is a materialist philosophy. That is, it
+4685: proposes that material things are more important than ideas. If so, then
+4686: human history is about the growth of human productive power, the growing
+4687: human ability as history unfolds to produce material things: Gerry Cohen
+4688: suggests that ‘history is, fundamentally, the growth of human productive
+4689: power, and forms of society rise and fall accordingly as they enable or
+4690: impede that growth’ (Cohen 1978: x). In Karl Marx’s own phrase, humans
+4691: are what they do rather than what they think: ‘it is not the
+4692: consciousness of men that determines their being, but on the contrary,
+4693: their social being that determines their consciousness’ (cited in
+4694: McClellan 1977: 389).
+4695: 
+4696: At any time, Marxists argue, people produce things in a certain
+4697: distinctive way, which Marx calls the mode of production. Marxists have
+4698: spoken of ‘tribal’, Asiatic, Ancient, feudal and capitalist modes of
+4699: production among others. The ancient mode of production, to take one
+4700: example, is distinctive for Marx because it relies on slave labour at
+4701: its base, whereas feudalism depends on the labour of unfree peasants or
+4702: ‘serfs’ tied to the land. Each different mode of production results in a
+4703: different kind of class antagonism: in ancient societies between slave
+4704: and master, in feudalism between peasant and feudal landlord, in
+4705: capitalism between proletarian and bourgeois.
+4706: 
+4707: The mode of production, Marx argues, can be split into the forces of
+4708: production, that is the raw materials, apparatus, labour power, and the
+4709: social relations of production. For example, the forces of production in
+4710: capitalist society consist of the machines and hardware of the
+4711: factories, while the relations comprise the factory system – the
+4712: division into workforce and management.
+4713: 
+4714: For Marx, there will always be antagonism and conflict between these two
+4715: elements: ‘the forces of production, the state of society, and
+4716: consciousness, can and must come into contradiction with one another,
+4717: because the division of labour implies the … fact that intellectual and
+4718: moral activity – enjoyment and labour, production and consumption –
+4719: devolve on different individuals, and the only possibility of their not
+4720: coming into contradiction lies in the negation in its turn of the
+4721: division of labour’. For this and other reasons, there will always be
+4722: conflict at the heart of human societies. Contradictions and class
+4723: antagonisms will tear at the heart of any social formation, developing
+4724: slowly or quickly in different circumstances. Eventually, however, they
+4725: will bring the whole structure crashing down, and a new social formation
+4726: will rise on its ruins.
+4727: 
+4728: This ‘classical’ model has been much criticized; the road from classical
+4729: to modern Marxism is too long to pursue here. I do want to pick out two
+4730: key points that emerge from this account of classical Marxism, however,
+4731: that have direct relevance to the development of archaeological thought:
+4732: 
+4733: (1) Marx’s account, if it works, provides a scientific basis to
+4734: communism, or more loosely, in this later time, a scientific basis to
+4735: political assertions about a more just society. In this sense classical
+4736: Marxism shares many parallels with the belief in a positivistic basis to
+4737: Science that was discussed in chapter 3. Contrary to positivism,
+4738: however, Marx argues forcefully that intellectuals cannot divorce
+4739: academic thought from political action.
+4740: 
+4741: Archaeologists influenced by Marxism, then, have seen a close link
+4742: between archaeology and politics. They have seen archaeological practice
+4743: and interpretations as partly or wholly political in nature, and in turn
+4744: have often seen their own archaeological work as in part a wider
+4745: political exercise. And they argue that to try to deny this is to bury
+4746: one’s head in the sand.
+4747: 
+4748: (2) The process of historical change in the Marxist model is
+4749: dialectical. A dialectical model is one that depends on the development
+4750: of contradictions and conflict within an entire social formation or
+4751: totality. These contradictions can only be understood within that total
+4752: social formation. For example, the terms ‘peasant’ and ‘landlord’ do not
+4753: have the same meaning regardless of time and place. We can only define
+4754: and understand peasant and landlord classes within a total understanding
+4755: of the feudal social formation. When that formation breaks down, it
+4756: leads to a completely new formation and the development in their turn of
+4757: new conflicts.
+4758: 
+4759: A dialectical model of social process contrasts with other models of
+4760: change. In culture history, and earlier forms of systems thinking,
+4761: change is often presented as a smooth process of accretion and
+4762: adaptation. In place of this, a dialectical model stresses contradiction
+4763: and conflict – it was partly as a result of the influence of Marxist
+4764: concepts that systems thinking came to be modified as we traced in the
+4765: last chapter. The dialectical model also leads us to question social
+4766: categories and definitions that claim to be true for all times and all
+4767: places.
+4768: 
+4769: Marxism has thus led archaeologists to question either/or oppositions
+4770: such as subjectivity and objectivity. They point out that such terms
+4771: only oppose each other within a total framework, and it is that total
+4772: framework that they seek to question and transform.
+4773: 
+4774: As a result, Marxism has had a wide and pervasive influence on different
+4775: archaeological traditions around the world. ‘Latin American social
+4776: archaeology’ uses a Marxist analytical framework to understand social
+4777: formations, and insists on an engagement with social justice issues. It
+4778: will be considered in chapter 9.
+4779: 
+4780: In the old Soviet Russia and other areas of eastern Europe, Marxism was
+4781: an official orthodoxy until the break-up of the old Stalinist regimes at
+4782: the end of the 1980s. In many cases, the influence of Marxism was
+4783: shallow, being confined to ritualized acknowledgement in a Preface or
+4784: introduction before a more orthodox descriptive or culture-historical
+4785: approach being taken in the text. Ironically, since the fall of
+4786: Communism in eastern Europe, there has been more fruitful and sustained
+4787: examples of analyses informed by Marxist thought from these countries.
+4788: 
+4789: Marxism has also been a profound influence on Mediterranean archaeology,
+4790: though its influence is not always explicitly laid out in the
+4791: literature. For example, there is an ongoing debate over the origins of
+4792: Rome and its transformation from a small protohistoric village into an
+4793: Imperial city and the hub of the Roman Empire. A major figure in the
+4794: archaeology of Roman Italy has been Andrea Carandini, who developed an
+4795: interpretation of the rise of Rome that was directly influenced by
+4796: Marxist ideas. Subsequent debate over this interpretation was, in part,
+4797: an implicitly theoretical debate over the utility of these ideas and
+4798: their alternatives.
+4799: 
+4800: Ideology
+4801: 
+4802: Later Marxists (or ‘neo-Marxists’), particularly those from different
+4803: traditions in western Europe, have focused attention on the role of
+4804: ideology in this model. For Marx, the forces and relations of production
+4805: were the ‘infrastructure’, the heart of the system: the political and
+4806: legal system sat on top of this, along with a set of ideological
+4807: beliefs. In a simple view, while social foundations are creaking and
+4808: society becomes increasingly unequal and unjust, people’s beliefs act to
+4809: ‘paper over the cracks’, to make the existing system appear legitimate.
+4810: 
+4811: ‘Vulgar’ ideology is obvious: in our society, one might cite
+4812: flag-waving, advertising, appeals to patriotism, motherhood and apple
+4813: pie. But Marxists believe ideology also works on a far more subtle level
+4814: than this. In particular, ideology:
+4815: 
+4816: 1 naturalizes; that is, it makes the existing social order with all its
+4817: inequalities appear timeless, God-given, ‘just scientific fact’, or
+4818: without any conceivable alternative;
+4819: 
+4820: 2 makes interests that are sectional (for example, the economic
+4821: wellbeing of the upper classes) appear universal (of benefit to
+4822: everyone); and
+4823: 
+4824: 3 masks what is ‘really going on’, for example by denying that social or
+4825: economic inequalities exist.
+4826: 
+4827: To take a straightforward (and therefore overly simplistic, ‘vulgar’ and
+4828: easily decoded) example, a Marxist would argue that we only have to open
+4829: the pages of most newspapers to see ideology at work (‘competition and
+4830: the rules of the free market are not arbitrary human constructions that
+4831: can be changed, they are out there in nature; look at how cold, wet,
+4832: miserable life was in the Middle Ages, in other words, before the
+4833: benefits of capitalism’). Sectional interests are presented as universal
+4834: (wage rises are presented as ‘harming the nation’ rather than just
+4835: harming the profits accruing to the wealthy capitalists). An ideology of
+4836: equality (‘anyone can become President, everyone is equal under the law,
+4837: I want to build a classless society’) masks what Marxists see as very
+4838: real divisions and inequalities in gender and wealth.
+4839: 
+4840: This interest in ideology has led to the detailed exploration of how
+4841: ideology works, and a stress on the unmasking of the relations behind
+4842: ideology. Paradoxically, then, Marxism started as a materialist model,
+4843: but has ended up influencing Anglo-American archaeology through its
+4844: analysis of ideological beliefs and practices. This move away from
+4845: materialism is one of the key points behind the Frankfurt School of
+4846: critical theory. The Frankfurt School, most famously in the work of
+4847: Jürgen Habermas, sought to look behind the mask of ideology, to show how
+4848: modern Western systems of belief were not neutral or objective, but
+4849: actually ideological constructions that legitimated modern capitalism.
+4850: It aimed to emancipate ordinary people and promote democractic values by
+4851: heightening consciousness of the power and pervasiveness of ideology.
+4852: 
+4853: Of course, interest in ideology in archaeology has two aspects. One can
+4854: look at ideology in the past, how for example a particular belief system
+4855: legitimated the position of an élite in ancient societies. But one can
+4856: also look at the present – how archaeological writing is itself
+4857: ideological. For example, Bruce Trigger has written extensively on how
+4858: different interpretations of North American prehistory served to
+4859: ideologically portray Native American cultures as backward and
+4860: unchanging.
+4861: 
+4862: Cognitive Archaeology
+4863: 
+4864: A third body of thought, developed largely by archaeologists themselves,
+4865: has emerged in the last 20 years: that of ‘cognitive archaeology’.
+4866: Cognitive archaeology aims to ‘develop a secure methodology by which we
+4867: can hope to learn how the minds of the ancient communities in question
+4868: worked and the manner in which that working shaped their actions’
+4869: (Renfrew 2005: 41). Cognitive archaeologists often describe themselves
+4870: as working within the general assumptions and framework of
+4871: processualism. Consequently, much of this work describes itself as
+4872: cognitive-processualism by its advocates.
+4873: 
+4874: These authors look at ‘mind’ in two ways. First, cognitive
+4875: archaeologists are interested in human origins, and specifically the
+4876: role of cognitive development in the evolutionary origins and
+4877: development of hominids. For example, archaeologists have asked about
+4878: possible correlates in the archaeological record for the development of
+4879: language, such as the development of more complex chaines operatoires in
+4880: the production of stone tools. This work has close links with the
+4881: application of Darwinian models to archaeology, in that it deals with a
+4882: process that is at least in part about the biological development of
+4883: species, and uses insights and observations from evolutionary psychology
+4884: (see chapter 10).
+4885: 
+4886: The second interest is in cognitive processes in human societies after
+4887: the emergence of our own species, Homo sapiens sapiens. Renfrew and
+4888: Zubrow have argued that, for example, we can identify religious or cult
+4889: behaviour in the archaeological record. They have suggested that there
+4890: is no contradiction between a broadly scientific view of archaeological
+4891: theory and an insistence that we need to look at cognition. Kent
+4892: Flannery and Joyce Marcus, for example, have looked at functional
+4893: linkages between the ‘ideological subsystem’ and other areas of cultural
+4894: subsystems, and stressed the compatibility of their work with
+4895: subsistence and settlement analysis:
+4896: 
+4897: Our own first effort [in cognitive archaeology: Flannery and Marcus
+4898: 1976] was an attempt to understand the ancient Zapotec Indians more
+4899: fully by combining their cosmological beliefs with a more traditional
+4900: analysis of their subsistence and settlement. … We simply tried to show
+4901: that one could explain a higher proportion of ancient Zapotec
+4902: subsistence behaviour if, instead of restricting oneself to a study of
+4903: agricultural plants and irrigation canals, one took into account what
+4904: was known of Zapotec notions about the relationships of lightning, rain,
+4905: blood sacrifice, and the ‘satisfizing ethic’. We also stressed that we
+4906: could only do so because the 16th-century Spanish eyewitness accounts of
+4907: the Zapotec were so rich. (Flannery and Marcus 1993: 260)
+4908: 
+4909: Flannery and Marcus identify the study of cosmology, religion, ideology
+4910: and iconography as legitimate areas of cognitive analysis, stressing
+4911: that all such work must be empirically grounded. Again, Steven Mithen
+4912: has talked of ‘thoughtful foragers’ – looking at how we might model the
+4913: decision-making processes of hunters and gatherers within an adaptive
+4914: framework, yielding a range of cognitive inferences (Mithen 1990: see
+4915: also chapter 10, this volume).
+4916: 
+4917: The argument of all these authors is that we can look at thoughts while
+4918: retaining the essential components of a processual approach: belief in
+4919: scientific objectivity and ‘testing’. But other archaeologists have
+4920: claimed that the need to look at thoughts has led them to question the
+4921: very basis of processual archaeology, as we will see in the next
+4922: chapter.
+4923: 
+4924: All this is very interesting, but we’ve heard very little in this
+4925: chapter about archaeology. How, precisely, do the different views lead
+4926: to concretely different archaeological explanations?
+4927: 
+4928: I’ll be discussing some more practical examples in the next chapter, but
+4929: here is an ‘interim summary’ for the time being.
+4930: 
+4931: For many in the processual tradition, the artefacts we find are evidence
+4932: of different parts of a cultural system that existed in the past. For
+4933: some, artefacts form a fossil record of human behaviour. Many
+4934: processualists argue that as we cannot see thoughts scientifically, so
+4935: we can’t explain artefacts in terms of the ideas in the minds of the
+4936: makers – though following Flannery and Marcus, we can include ‘cognitive
+4937: variables’ in our analyses, if used with caution. Instead, we look at
+4938: different parts of past cultural systems and the links between them.
+4939: Processualists claim to have the ability to test between alternative
+4940: hypotheses about the way those systems worked through the development of
+4941: middle-range theory.
+4942: 
+4943: For structuralists, artefacts are evidence of systems of belief in the
+4944: broadest sense, evidence of ‘mind-sets’ or ‘worldviews’. Just as
+4945: language is structured by rules that remain hidden, so is material
+4946: culture. Structuralists look at oppositions in the particular form of
+4947: artefacts, the placing of artefacts within graves, for ideas about the
+4948: constitution of gender, oppositions between nature and culture, and so
+4949: on. Since we can never prove the existence of hidden rules, this
+4950: tradition suggests that we can never really ‘test’ any single
+4951: interpretation of the past; there is a tendency towards developing
+4952: multiple, complex interpretations rather than trying to reduce culture
+4953: to one single pattern.
+4954: 
+4955: Marxists look for contradictions and inequalities in culture. For
+4956: example, is burial practice legitimating or masking what happens in
+4957: life? Marxists ask: how does the belief or worldview expressed by this
+4958: piece of material culture relate to what is really going on? For
+4959: example, does an egalitarian burial practice mask inequalities in
+4960: society?
+4961: 
+4962: Conclusion
+4963: 
+4964: In the second part of this chapter, I have picked out developments
+4965: within three schools of thought within social theory as a whole –
+4966: Marxism, structuralism and cognitive archaeology. I could have looked at
+4967: other profoundly influential movements treated elsewhere in this book
+4968: (feminism, the reaction against unilinear social evolution). These three
+4969: movements, however, give some flavour of the intellectual currents that
+4970: came to influence archaeological theory in the 1980s.
+4971: 
+4972: Marxism gives us an interest in conflict and contradiction, a stress on
+4973: ideology, an insistence that academic discourse is fundamentally also
+4974: political discourse in the present, and a model of structure and agency.
+4975: Structuralism gives us an interest in the hidden workings of language,
+4976: an interest in cultural meanings and in culture as expressive. Cognitive
+4977: archaeology, though fully developed as a body of theory more recently
+4978: than the 1980s, originated in part as an insistence that looking at
+4979: thoughts is not just an admissible scholarly activity, but a central
+4980: part of the archaeological endeavour.
+4981: 
+4982: All these themes were taken up into a group of new theoretical strands
+4983: in the 1980s, that came to be known collectively as ‘postprocessual
+4984: archaeology’.
+4985: 
+4986: 7
+4987: 

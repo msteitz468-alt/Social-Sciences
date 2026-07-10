@@ -1,0 +1,2401 @@
+of growth within a morphogenetic ﬁeld, so the form of the artefact is not preﬁgured 4
+culturally but arises through the unfolding of a ﬁeld of forces that cuts across its devel- 5
+oping interface with the environment.
+Chapter Nineteen takes us back to the modern dichotomy between art and technology 7
+which, I argue, stands in the way of an appreciation of the true nature of technical skill. 118
+
+Introduction to Part III • 291 •
+
+To specify more precisely what I mean by skill, I highlight ﬁve critical dimensions of any
+kind of skilled practice. First, intentionality and functionality are immanent in the practice itself, rather than being prior properties, respectively, of an agent and an instrument.
+Secondly, skill is not an attribute of the individual body in isolation but of the whole
+system of relations constituted by the presence of the artisan in his or her environment.
+Thirdly, rather than representing the mere application of mechanical force, skill involves
+qualities of care, judgement and dexterity. Fourthly, it is not through the transmission of
+formulae that skills are passed from generation to generation, but through practical, ‘handson’ experience. Finally, skilled workmanship serves not to execute a pre-existing design,
+but actually to generate the forms of artefacts. Through a comparison of the looping skills
+involved in making string bags among Telefolmin people of Central New Guinea and the
+nest-building skills of the male weaverbird, I show that these dimensions of skill are equally
+evident in both cases. The conventional notion that the birds’ activity is due to instinct
+whereas humans are guided by the dictates of culture is therefore inadequate. In both
+cases, the pattern of regular movement generates the form. And in both, the ﬂuency and
+dexterity of this movement is a function of skills that are developmentally incorporated
+into the modus operandi of the body, through practice and experience in an environment.
+But this leaves us with a still unanswered question. How do the skills of human beings
+differ from those of non-human animals?
+In a famous footnote to Capital, Karl Marx compared the history of human technology
+to the history of organic adaptation as described by Darwin in The Origin of Species. The
+comparison suggests three further questions. First, how – if at all – can we distinguish
+the evolution of technology from its history? Secondly, is there anything inherently progressive about technical change? And thirdly, are there grounds for supposing that such change
+is governed by a mechanism analogous to that of variation under natural selection? In
+Chapter Twenty I address each of these three questions in turn. The ﬁrst takes us back
+to the problem of origins, already raised in Chapter Ten. Was there some take-off point
+in human evolution beyond which technology acquired a dynamic of its own, and could
+go on developing without any further change in human capacities? On the second question, I show that estimations of technological complexity are meaningless unless account
+is taken not just of material toolkits but also of the knowledge and skills required to
+operate them. Finally, while the analogies between technical change and organic evolution are suggestive, the way in which they are commonly drawn suggests that what changes
+is a design for the technical artefact, comparable to the organic genotype, rather than the
+form of the object itself. Our conclusion from Chapter Eighteen, however, is that the
+forms of artefacts, like those of organisms, arise through processes of growth within ﬁelds
+of relationships. To account for change in artefactual forms, therefore, we have to understand how these ﬁelds, and their generative potentials, are constituted and transformed
+over time.
+Now if the same logic is to be applied to organisms, then we have to think about
+organic evolution in general, and human evolution in particular, in a completely new way.
+I attempt such a rethinking in Chapter Twenty-one. It is conventional, in palaeoanthropology, to distinguish between the process of evolution, leading from ancestral pongid
+and hominid forms to ‘anatomically modern humans’, and the process of history, leading
+from the Palaeolithic hunter-gatherer past to modern science and civilisation. I argue that
+this distinction is untenable. Comparing walking and cycling, as modes of locomotion,
+and speech and writing, as modes of communication, I show that these capacities cannot
+be opposed as, respectively, biologically innate and culturally acquired. They are, in every
+
+Skill
+case, embodied skills, incorporated into the human organism through a process of devel- 1
+opment. Thus the differences we call cultural are themselves biological. The reasons for 2
+the separation of biology and culture in orthodox theory lie in the identiﬁcation of the 3
+former with a formal genetic ‘endowment’. But form, I argue, is not received by the 4
+organism-to-be at the point of conception, but generated within the dynamic functioning 5
+of developmental systems. And through contributing to the environmental conditions of 6
+development for successor generations, organisms – including human beings – actively 7
+participate in their own evolution.
+There can, then, be no speciﬁcation of the essential form of humanity independent of 9
+the relational contexts in which human beings become. The notion of the ‘anatomically 10
+modern human’ is an analytic ﬁction, derived through the retrojection, onto the Palaeo- 1
+lithic past, of a concept of recent historical provenance in the West. I suggest an alternative 2
+approach to human evolution, starting from the inescapable condition of human beings’ 3
+involvement in their diverse environments. This approach is taken one step further in 4
+Chapter Twenty-two, which focuses on the controversial issue of language origins. It has 5
+been customary, in discussions of this issue, to distinguish speech, as a universal human 6
+capacity, from the manifold languages of particular communities. It is supposed that the 7
+former is a product of evolution under natural selection, and is transmitted genetically, 8
+thereby establishing the cognitive foundations, in successive generations, for the acquisi- 9
+tion of the latter through a parallel process of cultural transmission. But this distinction 20
+between genetic and cultural transmission, I maintain, is a consequence of the attempt to 1
+treat both speech in general, and languages in particular, as formal, rule-governed systems. 2
+This, in turn, betrays the scriptist bias of modern linguistic theory: the tendency to 3
+assimilate the spoken utterance, in its pure or ideal form, to the sentence of writing.
+I propose a different view. Instead of regarding speech and language, respectively, as 5
+innate capacity and acquired competence, I maintain that speaking should be treated as 6
+a variety of skilled practice, with all the generic properties of skill outlined in Chapter 7
+Nineteen. Through a focus on skill as embodied knowledge we are able to dispense with 8
+the troublesome dichotomy between innate and acquired characters. But this also has the 9
+effect of dissolving the distinction between evolution and history, and with it, the point 30
+of origin constituted by their intersection. The notion of ‘language origins’ is thus shown 1
+to have itself originated within the current of modern thought, alongside the rationalisa- 2
+tion of language associated with print literacy. However this same current has also yielded 3
+the three key terms – namely ‘technology’, ‘language’ and ‘intelligence’ – which generally 4
+frame contemporary accounts of the evolution of human cognition. Of course, in all soci- 5
+eties people use tools and talk to one another, and these and other activities represent 6
+creative ways of coping in the world. But to say that everyday tool-using is a behavioural 7
+instantiation of technology, or that spoken dialogue is an instantiation of language, or 8
+even that creative activity is an instantiation of intelligence, is already to make certain 9
+rather problematic assumptions.
+I conclude, in Chapter Twenty-three, by spelling out what these assumptions are and 1
+by suggesting how we might construct an alternative account that would dispense with 2
+them. This we could do by examining the relation, in human evolution, not between 3
+technology, language and intelligence, but between craftsmanship, song and imagination. 4
+I argue that song, far from being put together from separate linguistic and musical compo- 5
+nents, is rather a performative unity that is decomposed into these components through 6
+the imposition of a concept of language of modern origin. In just the same way, the 7
+modern concept of technology decomposes craftsmanship into the separate components 118
+
+Introduction to Part III • 293 •
+
+of rational-technical operations and expressive art. To focus on song and craftsmanship
+rather than language and technology is to foreground the poetic and performative aspects
+of speech and tool-use that have been marginalised by rationalism. Neither speech nor
+tool-use can be understood as the mechanical output of a mental constructional or problemsolving device, such as a technological or linguistic ‘intelligence’. Both, however, involve
+imagination, understood as the activity of a being whose verbal creativity and puzzlesolving is carried on within the context of involvement in a real world of persons, objects
+and relations. I am, indeed, such a being, and one of the results of my activity is this
+book.
+
+Skill
+THE TECHNICAL AND THE MECHANICAL
+Do machines make history? In an article that takes this question as its title, Heilbroner 5
+(1967) identiﬁes it as ‘the problem of technological determinism’. That technology has 6
+to do with the construction and application of machinery may seem obvious to people 7
+in industrial societies. But what are we to make of history prior to the machine age? Were 8
+there machines about, shaping the course of history, in the days when virtually all tools 9
+were operated by hand, and when virtually all the power to operate them came from 20
+human muscles? What is the difference between tool use and machine performance, and 1
+how does it affect the involvement of the human subject in the act of making? Reﬂecting 2
+on these questions, one is bound to inquire into the nature of the machine, and into the 3
+broader applicability of the relatively modern concept of technology, particularly in analyses 4
+of pre-industrial or non-Western societies. Such an inquiry touches on important issues 5
+in the philosophy of technology, and has considerable historical and anthropological impli- 6
+cations. In our own age the concept of technology has become such an established part 7
+of thinking on humanity and the ‘human condition’ that we are inclined to use it as a 8
+window through which to view tool-assisted practices of all kinds, past and present, 9
+Western and non-Western, human and animal. Thus we imagine that where tools are 30
+being used there must exist a technology. But what, exactly, is entailed in this assumption? 1
+How does it affect our understanding of what it means to make things? And how might 2
+this understanding be changed if we were to regard the use of tools not as the operation 3
+of a technology but as an instance of skilled practice?
+Let me begin with a brief etymological prelude. The word ‘technology’ is a compound 5
+formed from two words of classical Greek provenance, namely tekhnē, which meant the 6
+kind of art or skill that we associate with craftsmanship; and logos, which meant roughly 7
+a framework of principles derived from the application of reason. Just occasionally, tekhnē 8
+and logos were combined in classical literature to denote the art of reason, or the skill 9
+involved in rhetorical debate. But in contemporary usage the meaning of technology is 40
+just the reverse: namely, the rational principles that govern the construction of artefacts 1
+– or more simply, the reason of art rather than the art of reason. In this sense, the term 2
+did not come into regular use until well into the seventeenth century (Mitcham 1979). 3
+And it is no accident that its coinage coincided with the radical transformation in Western 4
+cosmology ushered in by such ﬁgures as Galileo, Newton and Descartes. For the speciﬁc 5
+achievement of these pioneers of modern natural science was to establish the idea that the 6
+universe itself is a vast machine, and that through a rational scientiﬁc understanding of 7
+its principles of functioning, this machine could be harnessed to serve human interest and 118
+
+Chapter Fifteen
+
+Tools, minds and machines
+
+An excursion in the philosophy of technology
+
+Tools, minds and machines • 295 •
+
+purposes. Thus technology came to be seen as the application of the mechanics of nature,
+derived through scientiﬁc inquiry, to the ends of art.
+The shift from the classical concept of tekhnē to the modern concept of technology has
+brought about a profound change in the way we think about the relation between human
+beings and their activity. In its original, Aristotelian conception, tekhnē meant ‘a general
+ability to make things intelligently’ (Bruzina 1982: 167), an ability that depends upon
+the craftsman’s or artisan’s capacity to envision particular forms, and to bring his manual
+skills and perceptual acuity into the service of their implementation. But with the adoption of a mechanistic view of nature, the activity of making began to take on a quite
+different aspect. The image of the artisan, immersed with the whole of his being in a
+sensuous engagement with the material, was gradually supplanted by that of the operative whose job it is to set in motion an exterior system of productive forces, according to
+principles of mechanical functioning that are entirely indifferent to particular human aptitudes and sensibilities.
+The artisan, of course, knows what he is making, and works to clear standards of perfection. He may be less than clear, however, about the methods by which his results are
+achieved, and is often quite unable to specify these methods with any precision. The operative, on the other hand, is guided in his activity by formal and explicit rules of procedure
+whose validity is independent of the speciﬁc ends to which they are applied. These rules,
+grounded in the general principles of mechanics, furnish the logos of tekhnē, the rationalisation of the process of production that was lacking from the craftsman’s art (Mitcham
+1979: 182). The effect of this rationalisation, however, is to remove the creative part of
+making from the context of physical engagement between workman and material, and to
+place it antecedent to this engagement in the form of an intellectual process of design. A
+thoroughgoing distinction is thus introduced between the design of things and their
+construction. The thing, we say, is virtually ‘conceived’ in advance of its realisation in
+practice. According to one view, these phases of design and construction correspond to
+the separate provinces of engineering and technology respectively (Mitcham 1978: 230).
+The engineer, in Mitcham’s words, ‘is not so much one who actually makes or constructs
+an artifact, as one who directs, plans or designs’, whereas the technician or technologist
+has the knowledge and proﬁciency to execute designs rather than to conceive them.
+This dichotomy between conception and execution is institutionalised, however, in many
+other domains of modern society. It is apparent, for example, in the opposition between
+architecture and the building industry: the architect, classically a ‘master-builder’, is now
+a creator of structures that are left to the industry to put up. The architect designs the
+house, the builder implements the architect’s design. One creates but does not implement;
+the other implements but does not create (Coleman 1988: 15–16). An identical logic,
+incidentally, underwrites the distinction in natural science between theoretical conjecture
+and experimental observation. And signiﬁcantly, the process by which the architect or
+theoretical scientist arrives at novel ideas, as distinct from their subsequent implementation or testing, is often described as more akin to art – a term once synonymous with
+practical skill but now opposed to technology as the spontaneous work of the human
+imagination to the mechanical execution of predetermined operational sequences. Where
+excellence in the one ﬁeld is attributed to genius, in the other it is attributed to expertise. Thus, constituted by its opposition to design, technique is reduced to the ‘merely
+technical’, and ultimately to the mechanical.
+Now in the classical conception, tekhnē and mēkhanē were opposed as skills to the
+various mechanical devices which assist their application. In the modern view, by contrast,
+
+Skill
+Design
+: Architecture
+Engineering
+vs.
+Tekhne¯ = skilled making
+Execution : Construction
+Technology
+(‘purely technical’
+or ‘mechanical’)
+Mekhane¯ = manual devices
+¯
+Figure 15.1 A comparison of classical and modern conceptions of the
+technical.
+the technical has joined the mechanical, meaning ‘an instrumentality of a particular sort, 8
+namely, that which can be separated from the speciﬁc context of human experience and 9
+sensibility as operative in making’ (Bruzina 1982: 167). To borrow, with some modi- 20
+ﬁcation, a diagram from Bruzina, classical and modern understandings of the technical 1
+may be compared as shown in Figure 15.1. With this reduction of skilled making, tekhnē, 2
+to ‘purely technical’ execution, the performance is no longer seen to issue from the hand 3
+and eye of the concrete, experiencing human subject, and acquires a kind of objectivity 4
+and independence from human agency. For whereas the work of making originates with 5
+the craftsman or artisan, the operative is merely accessory to processes whose speciﬁcation 6
+has been laid down in advance. It is this separability of constructive work from the context 7
+of sensory experience that gives it the quality of being mechanical. With the machine, as 8
+Bruzina puts it, ‘the entire work-action becomes something that can be dealt with inde- 9
+pendently of human being in its properties and principles of function’ (1982: 170). 30
+Whether or not the work is actually powered by human muscles is beside the point. 1
+Whatever the motive force, where the movements of an instrumental apparatus in the 2
+execution of a given design are independently prescribed in its initial conditions, and 3
+follow a set course, we are dealing with a machine performance. And the prescriptions 4
+embodied in the machine, derived through the application of scientiﬁc law, are of course 5
+technological.
+THE DEFINITION OF TECHNOLOGY
+A cursory review of the literature in the history and philosophy of technology reveals a 40
+plethora of approaches to the deﬁnition of its subject matter, not unlike that in anthro- 1
+pology surrounding the deﬁnition of culture. Both disciplines have faced an uphill task 2
+in their search for a concept, whether of technology or culture, whose meaning transcends 3
+the very historical and ethnological variation they aim to document, and of which their 4
+own inquiries are a part. Thus deﬁnitions of technology differ widely, depending on 5
+whether the intent is to embrace the totality of human works, in all societies and during 6
+all epochs, or to mark the speciﬁc historical transformations that gave rise to the concept 7
+in the ﬁrst place. Bruzina exempliﬁes the latter approach, in advancing his thesis that ‘only 118
+CLASSICAL
+
+MODERN
+
+Tools, minds and machines • 297 •
+
+when making by way of the instrumental device becomes principally a machine performance, and the minding of it principally science, does tekhnē/ars become technology in the
+proper sense of the word’ (1982: 171). He is subsequently still more explicit about the
+term’s historical speciﬁcity: ‘technology is the action of making when the knowledge
+that guides it is explicit science as that has developed since the time of Galileo’ (1982:
+178). Cardwell is likewise careful to distinguish ‘technology’, as a neologism of the seventeenth century, from the previous, and more elementary ‘technics’. He associates the
+emergence of technology with a mechanistic ontology that led to the practice of technics
+‘becoming self-conscious and at the same time increasingly science-based’ (Cardwell 1973:
+360).
+This approach to the deﬁnition of technology leads inevitably to the problem of its
+relation with science. I do not intend to dwell at any length on this controversial issue.
+It sufﬁces to draw a broad distinction between those who would not credit technology
+with any autonomous knowledge base of its own but rather regard it as the practical application of knowledge that belongs essentially to science, and those for whom technology
+exists as a knowledge system in its own right, alongside science but no more dependent
+on it than is science on technology. An instance of the former position is the deﬁnition
+with which Singer, Hall and Holmyard preface their massive History of Technology. It is
+a history, they claim, of ‘how things are commonly done or made’ and ‘what things are
+done or made’ (1954–8, I: vii). The knowledge that underlies both the ‘how’ and the
+‘what’ is conspicuously absent from their deﬁnition. It is assumed that such knowledge
+pertains to science, not to technology. And yet the deﬁnition is intended to be applicable
+to the entire sweep of human history, beginning with the origins of language and the ﬁrst
+man-made tools. If technology is all toolmaking and tool-using, guided only during the
+modern era by scientiﬁc knowledge, we are left wondering – with Layton (1974) – what
+kind of knowledge could have informed the making activities of pre-modern societies.
+Layton’s own position accords with the second of the two approaches outlined above: he
+deﬁnes technology as ‘systematic knowledge of the industrial arts’ (1974: 3), both distinct
+from and complementary to science. More recently, Adams (1996) has taken a similar
+view, arguing that at no point in its history has technology ever been the mere implementation of scientiﬁc knowledge. Rather, Adams claims, scientists and technologists have
+distinctive ways of knowing and thinking, and have coexisted in a relationship that, though
+tense and awkward, has always been two-way.
+For other writers, technology is effectively equivalent to the ﬁeld of operation of human
+labour, together with the products to which it gives rise. Drucker, for example, deﬁnes
+technology ‘as human action on physical objects or as a set of physical objects characterised by serving human purposes. Either way the realm and subject matter of the study
+of technology would be human work’ (1970: 39). But to equate technology with work is
+to render it redundant as a conceptual category. It might make more sense to say
+that human work is the context for the study of technology. Mitcham’s suggestion that
+‘the term [technology] be stipulated to refer to the human making and using of material
+artefacts in all forms and aspects’ (1978: 232) suffers from the same problem of overgenerality, and the same unnecessary conﬂation of technology with the labour-process.
+There seems to be no way to prevent the concept of technology from spilling over from
+a narrow focus on tools and techniques to embrace the entire ﬁeld of human endeavour.
+Is there anything, the sceptic might ask, about human life and activity that is not technological? If not, what need have we for the concept of technology at all? Beyond stating
+the obvious, how does it help us to know that everything is technological?
+
+Skill
+Another family of deﬁnitions focus explicitly on the idea of technology as a corpus of 1
+knowledge, as distinct both from the productive activities in which it is put to use, and 2
+from the artiﬁcial products of such activity. Burns recognises that there is a major discrep- 3
+ancy between historical and sociological usages that link technology to the rise of science 4
+and mechanised industry in the modern Western world, and the much broader usage of 5
+anthropologists and archaeologists who would apply the concept to peoples of all times and 6
+places. In the former usage, technology is ‘the body of knowledge about (a) scientiﬁc 7
+principles and discoveries and (b) existing and previous industrial processes’; in the latter it 8
+is ‘the body of knowledge available for the fashioning of implements of all kinds, for the 9
+practice of crafts and manual skills . . ., and for the extraction and collection of materials 10
+of all kinds’ (Burns 1964: 716). In a classic anthropological statement, Firth deﬁnes the 1
+technological system as the ‘material equipment, and body of knowledge at command 2
+of the participants in the economy’ (1939: 78). And according to Merrill, technologies are 3
+‘bodies of skills, knowledge, and procedures for making, using and doing useful things’, or 4
+more broadly, ‘technology . . . connotes the practical arts’ (1968: 576).
+Now skills, knowledge and procedures could all be regarded as parts of human culture, 6
+leading Margolis to observe that ‘culture is both the context of technology and the genus 7
+of which the technological cannot be more than a determinate species’ (1978: 27). Non- 8
+human animals, of course, may be credited with both perceptual knowledge and practical 9
+intelligence; however it is widely believed that they lack the symbolic intelligence 20
+which is a prerequisite for the intentional design of novel forms (invention) and for their 1
+transmission by teaching rather than imitative learning. At the root of this capacity for 2
+symbolically mediated thought and instruction, according to Margolis, is language: thus 3
+for him, technology is ‘the practical capacity of a creature that has mastered language and 4
+that can consider alternative ways of acting and making’ (1978: 28). In this sense, far 5
+from being limited to certain societies and periods, technology might be considered a 6
+human universal, ‘roughly characterized as the intersection of practical knowledge and 7
+ideology’ (Margolis 1978: 34). I have myself argued, along rather similar lines, that while 8
+technology consists of knowledge encoded in symbols, it is knowledge only in a certain 9
+aspect, as models for rather than of (Geertz 1973: 93–4), and that knowledge becomes 30
+technology by virtue of a ‘practical orientation to the material world’ that simultaneously 1
+converts neutral objects into useful equipment (Ingold 1986a: 43).
+Perhaps the most comprehensive characterisation of technology in recent literature comes 3
+from McGinn: ‘it is’, he writes, ‘a form of activity that is fabricative, material product- 4
+Society
+Nature
+Man
+intellect (knowledge)
+making
+activity
+or
+artifacts or
+process
+objects
+use
+will (volition)
+Figure 15.2 Modes of technology
+After C. Mitcham, Types of technology, Research in Philosophy and Technology 1, 1978, p. 234.
+
+Tools, minds and machines • 299 •
+
+making or object-transforming, purposive (with the general purpose of expanding the
+realm of the humanly possible), knowledge-based, resource-employing, methodical,
+embedded in a sociocultural-environmental inﬂuence ﬁeld, and informed by its practitioners’ mental sets’ (1978: 190). As a deﬁnition this is hopelessly cumbersome; it does
+however have the advantage of providing a convenient checklist of factors that need to
+be considered in any complete account of the human labour-process as it is involved
+in the production of things. In order to resolve the deﬁnitional turmoil revealed in the
+foregoing discussion, a necessary ﬁrst-step is surely to separate out the components
+of purpose, knowledge, activity and artefacts that are implicated in productive work.
+Mitcham distinguishes between technology-as-objects, technology-as-process, technologyas-knowledge and technology-as-volition, linking them together in the form of a diagram
+reproduced here as Figure 15.2 (Mitcham 1978: 233–4). I ﬁnd this a helpful place from
+which to start.
+
+OBJECT, PROCESS, KNOWLEDGE AND VOLITION
+‘Technology-as-objects’ encompasses the entire range of fabricated items intended for some
+use or other, including – in Mumford’s classiﬁcation (1946: 11) – tools, utensils, utilities,
+apparatus and machines. Mumford brings all of these under his notion of ‘technics’, a term
+which we could well retain to denote the area of overlap between instruments and artefacts.
+An instrument, or ‘tool’ in the broadest possible sense, is any object that can be turned to
+account by an animal (not necessarily human) in the realisation of its project (Ingold 1986a:
+47). Many instruments, even human ones, are in no sense constructed for a purpose: I have
+one such beside me as I write, a stone recovered from a pebble beach which I use as a paperweight. The stone is a tool but not a technic. Likewise the earth is not a technic, even
+though Marx referred to it (not without a hint of absurdity) as ‘the most general instrument of labour . . . since it provides the worker with a platform for all his operations’ (1930:
+173). On the other hand there are artefacts which, though fabricated in accordance with
+an already existing design, are not designed to be used in any further project of fabrication.
+A piece of sculpture is an artefact, so is a cake, but neither of them is a technic.
+The second mode of technology in Mitcham’s scheme, ‘technology-as-process’, includes
+most importantly the activities we commonly denote as making and using. Of course in
+making one thing we commonly use another, though the reverse does not hold (Mitcham
+1978: 253, Ingold 1986a: 58). The key element here is that of skill, deﬁned by Feibleman
+as ‘proﬁciency in the use of artefacts’ (1966: 318). It is this element that makes tailoring
+and weaving, to use Marx’s example, ‘qualitatively different productive activities’, although
+both involve the expenditure of physical and mental effort, and ‘in this sense are both of
+them human labour’ (Marx 1930: 13). Note however that skilled activity does not necessarily result in the production of objects, nor need it involve their manipulation: the
+violinist performs on her instrument, but the dancer performs with her own body. Clearly,
+therefore, technique must be conceptually disengaged from technics. But we face a more
+difﬁcult problem when we come to the distinction – if one can be made – between skill
+and intelligence, or between technique and technology in the third of Mitcham’s modes,
+as knowledge.
+One possible formulation of this distinction is suggested by David Pye (1964: 55). He
+regards skill simply as a ‘particular application of dexterity’, in contrast to what he calls
+‘know-how’, which refers to the capacity of the craftsman to envision forms in advance
+of their implementation. I have suggested elsewhere that the priority of know-how over
+
+Skill
+skill could mark a critical threshold in the evolution of human constructive abilities, 1
+making possible the design of new forms and thus greatly speeding up the tempo of 2
+cultural change (Ingold 1986a: 31). Edwin Layton makes a rather similar distinction 3
+between skill and knowledge, while insisting that you cannot have one without the other: 4
+‘Technique means detailed procedures and skill and their application. But complex proce- 5
+dures can only come into being through knowledge. Skill is the “ability to use one’s 6
+knowledge effectively”. A common synonym for technology is “know-how”. But how can 7
+there be “know-how” without knowledge?’ (1974: 33–4). Layton identiﬁes the ‘central 8
+purpose of technology’ as design, ‘an adaptation of means to some preconceived end’. 9
+Originating as a conception in the designer’s mind, it is converted by degrees into detailed 10
+blueprints, which in turn are translated into tools and artefacts. Technology, Layton 1
+suggests, may be viewed as the entire spectrum from ideas, through blueprints and tech- 2
+niques, to things (1974: 37–8).
+The fourth of Mitcham’s ‘modes of technology’, as volition, is the least developed and 4
+most problematic. It expresses the crucial fact that human labour is, by and large, purpo- 5
+sive activity (Marx 1930: 170). Yet as we shall see, the will that instigates production is 6
+not necessarily the will of the producer. The craftsman of capitalist manufacture certainly 7
+knows what he is making, and handles his tools accordingly. In that sense he is person- 8
+ally involved in his work in a way that the machine operative is not (Feibleman 1966: 9
+321). But that capacity to envision and implement, depending as it does on acquired skills 20
+of perception and action, is not his to command, for along with his bodily energy it forms 1
+part of the labour power contracted to the employer. Thus the alienation of labour 2
+power under capitalist relations of production did not, at least prior to the introduction 3
+of industrial machinofacture, entail any split between the capacities of mind and body. 4
+Rather, the line of division lies between the capacities of the whole person, inseparably 5
+mind and body, and the agency that puts these capacities to work. In short, to say that 6
+a man works from his own knowledge is not the same as saying that he works of his own 7
+volition. This is a point to which I shall return, in the context of a comparison between 8
+the ‘subjective’ labour organisation of manufacture and the ‘objective’ organisation of 9
+machinofacture. But ﬁrst we have to look more closely at the distinction between machines 30
+and ordinary tools.
+ON THE DIFFERENCES BETWEEN MACHINES AND TOOLS
+To deﬁne the machine is no simple matter, since the term has undergone important 5
+changes in its meaning from antiquity to the present day. Originally connoting an ‘instru- 6
+ment for lifting heavy weights’, using the principles of wheel and axle, lever and inclined 7
+plane, but empowered by the human body through the hand, in its modern sense the 8
+machine is often distinguished from the tool on the grounds that it draws on a source of 9
+power outside the body, and is not manually operated (Mitcham 1978: 235–6, 271–2 40
+fn. 16). Thus the notion of the tool has come to be reserved for that aspect of a device 1
+that is activated by human agency, whereas ‘machine’, in Mitcham’s words, commonly 2
+‘denotes an instrument in its human independence, or at least that aspect of the device 3
+which is not dependent on man’ (1978: 236). This view is not far removed from 4
+Mumford’s earlier contention that ‘the essential distinction between a machine and a tool 5
+lies in the degree of independence in the operation from the skill and motive power of 6
+the operator: the tool lends itself to manipulation, the machine to automatic action’ 7
+(Mumford 1946: 10).
+
+Tools, minds and machines • 301 •
+
+Taking the ‘degree of independence’ as a variable, we could envisage a continuum whose
+poles are on the one hand the human body, performing operations unassisted by any
+extra-somatic aids whatever, and on the other hand the automaton, in which not only
+the motive power but also the operational constraints are packaged within the same artiﬁcial system. Just such a continuum was envisaged by André Leroi-Gourhan in his
+monumental work on Gesture and Speech. He divided the continuum into ﬁve stages,
+arranged in an evolutionary sequence, beginning with that of manipulative action, in which
+the practitioner works with bare hands. This is followed by the hand’s exerting a direct
+motor function, by moving the tool in its grasp. In the third stage the hand exercises an
+indirect motor function, by applying force to a device, such as a spring, crank, lever or
+pulley cable, that in turn moves the tool. In the fourth the hand works to harness the
+energy of a non-human power source, which in turn directly or indirectly moves the tool,
+as with animal traction, water-driven mills, and so on. Finally, in fully automatic action,
+there is nothing for the hand to do but to set off a programmed process by pushing a
+button or throwing a switch (Leroi-Gourhan 1993: 242–9). The whole process may be
+seen as a gradual displacement of technical operations from the human organism onto the
+artiﬁcial machine, a displacement that Leroi-Gourhan calls ‘exteriorisation’. For LeroiGourhan, however, the exteriorisation of technical operations did not fundamentally alter
+their nature. In the routine manipulation of hand tools, he believed, the body functions
+to all intents and purposes like a machine; or to put it the other way around, the workings of the machine effectively mimic those of the living body, of which it is but an
+‘improved artiﬁcial copy’ (1993: 269).
+Writing a century before Leroi-Gourhan, Karl Marx had also embarked upon a comparison between the human handling of tools and machine performance. But he had come
+to precisely the opposite conclusion. Crucial to handling, in Marx’s terms, is that the
+worker does not just apply motor force but actually guides the movement of the tool,
+watching as he works, and making continual adjustments in response both to environmental perturbations and to his perceptual monitoring of the developing form. In the
+machine, by contrast, responsibility for the movements of the tool – or what has now
+become the device’s ‘working point’ – is transferred from dextrous hands to a mechanism
+that is indifferent to its surroundings and answerable only to instructions that have been
+fed into it in advance. Once the guidance of the working point is relinquished to the
+machine, Marx argued, it is more or less incidental whether the motive power comes from
+human muscles, from non-human animals such as horses (whose substitution for humans
+in this capacity gave rise to the notion of ‘horse-power’), or from wind, water, steam,
+electricity or whatever (Marx 1930: 396–7). Thus a machine may still be hand-operated,
+but when the hand delivers only muscle-power and not skilled constraint – that is, when
+the technically effective gesture ceases to be coupled to immediate sensory perception –
+the tool or working point is no longer ‘handled’ in Marx’s sense. The essential distinction, as he put it, lies ‘between a man as a simple motor force and as a worker who
+actually handles tools’ (1930: 395).
+Bearing this distinction in mind, we may observe that the transition from hand tool
+to automatic machine can take two alternative courses, as shown schematically in Figure
+15.3. The diagram is constructed from three binary oppositions, between (1) human (–)
+and non-human (+) power; (2) skilled (–) and mechanical (+) constraint; and (3) somatic
+(–) and extra-somatic (+) working points. With the hand tool (a), the working point is
+a detached instrument, but the hand that holds it not only delivers a bodily power but
+also guides the motion of the tool. With the automaton (d), these human functions have
+
+Skill
+
+been entirely supplanted by the apparatus. Of 1
+the two intermediate cases, (b) and (c), the ﬁrst 2
++
+comprises what are often called ‘machine tools’, 3
+–
+(a)
+(d)
+which, though driven from an external power- 4
+source, still call for skilled manipulation by an 5
++
+(1) –
++
+operator. An example is the power-drill. But in 6
+(2) –
++
+the second case, of ‘man-powered machines’, 7
+(3) +
++
+–
+the opposite situation obtains, for the constraint 8
++
+is mechanical, while human beings merely 9
+supply the motive power, for example by 10
++
+working a treadle, turning a crank, or operating 1
+(c)
+a pump-handle. The line of distinction between 2
+manpower and skilled constraint thus places (c) 3
+on the side of the machine, but leaves (b) on 4
+Figure 15.3 Routes of transition from hand tool to
+the side of the tool.
+automaton.
+There are, it is true, certain devices that appear 6
+at ﬁrst glance to resist classiﬁcation in these 7
+terms. Consider for example the pedal-powered potter’s wheel. Not only does the potter 8
+provide the motive force, but he also shapes the pot using his ﬁngers, unaided 9
+by any other instruments whatever. The wheel is surely a detached device, yet the power, 20
+the skill and the working point are all supplied by the human operator. The paradox 1
+presented by this instance is resolved by recognising that in operating his wheel, the potter 2
+is really working two systems simultaneously. One, driven by the body via the feet, gener- 3
+ates the rotary motion of the pot, and requires no skill (barring perhaps a speed control). 4
+The other is a skilled system comprised by the intimate co-ordination of manual, visual 5
+and tactile functions. Technically, therefore, the wheel is a machine, operated in conjunc- 6
+tion with a somatic tool, the hand. The situation with regard to the woodworker’s lathe 7
+is similar, except that since wood is not pliable as is clay, the hand operates through the 8
+medium of a chiseling tool. It is important to recognise such compound systems for what 9
+they are, since even the total automation of one component need not in any way reduce 30
+the element of human ‘handling’ of the other component. This is a point to which I shall 1
+return.
+MOTORS, TRANSMITTERS AND WORKING PARTS
+A complete machine, according to Marx, ‘consists of three essentially distinct parts, the 6
+motor machine, the transmitting mechanism, and the mechanical tool or working machine’ 7
+(1930: 393). This was no new idea: when Marx was writing it was already part of the 8
+orthodoxy of French mechanical instruction, supported by the authority of the geometer- 9
+engineer, Jean-Victor Poncelet (1788–1867). ‘The science of machines’, as Poncelet had 40
+written, ‘consists of the science of tools, the science of motors, and the science of commu- 1
+nicators or modiﬁers of movement’ (Poncelet 1844, III 11, my translation). Besides noting 2
+the interchangeability of manpower and machine-power, Marx devoted some attention to 3
+the functional equivalence of manually-operated and machine-operated tools or working 4
+parts. The spindles of the spinning machine, the knives of the chopping machine and the 5
+saws of the sawing machine are all immediately recognisable as the counterparts of tools 6
+once manipulated by hand, albeit much modiﬁed to ﬁt in with the requirements of the 7
+apparatus. But emancipated from the bodily restrictions of manual operation, such tools 118
+(b)
+
+Tools, minds and machines • 303 •
+
+could increase in number or scale by several orders of magnitude. The spinner can operate
+only one wheel at a time, whereas the spinning jenny has up to eighteen spindles going
+simultaneously; the steam-hammer has a head just like the hammer of the blacksmith,
+but as Marx observed, ‘such a heavy one that Thor himself could not wield it’ (Marx
+1930: 408). Nevertheless, despite their gargantuan proportions, mechanised tools carry
+out ‘the same operations which the manual worker of former days carried out with tools
+of a like kind’ (1930: 394).
+Thus with regard to both motive power and working parts, the difference between tools
+and machines is one of degree rather than kind. For Marx the essential, qualitative difference, as we have seen, lies in the substitution of a mechanically determining system for
+a skilled system of constraint (on this distinction, see Pye 1964: 53–4). Curiously, however,
+the latter criterion does not enter into Marx’s initial speciﬁcation of the components of
+the complete machine, whereas the ‘transmitting mechanism’, which does appear as the
+third term of his speciﬁcation – alongside motive power and working parts – receives no
+further mention at all. This mechanism, corresponding to the ‘communicators’ and ‘modiﬁers’ of Poncelet, consists of pulleys, cog-wheels, belts, gears, etc., all of which impart
+motion to the tool. In the case of manually operated tools, the transmission function is
+of course performed by the links and joints of the human skeleton. Empowered by the
+muscles, its characteristic movements are of a reciprocating, back-and-forth nature, and
+these are transmitted directly – via the handle of the tool – to its working point. But
+machines, unlike tools, ‘typically achieve their effect by means of rotary rather than reciprocating motions’ (Mitcham 1978: 239, cf. Mumford 1946: 80). Now rotary movement
+does not come naturally to the body: it is acquired only with difﬁculty and is always
+discontinuous. As Lynn White observed: ‘continuous rotary motion is typical of inorganic
+matter, whereas reciprocating motion is the sole form of movement found in living things’
+(1962: 115). Hence a necessary step in the transition from hand tools to man-powered
+machines – from (a) to (c) in Figure 15.3 – was the incorporation of an artiﬁcial mechanism that would convert reciprocating to rotary motion. Such a mechanism is the crank,
+and its discovery represents one of the most important moments in the early development
+of machinery (White 1962: 103–17).
+Is there, then, any connection between the substitution – by means of a transmitting
+mechanism – of rotary for reciprocating motion, and the substitution of mechanical determination for skilled constraint? Or to put the question another way: can a tool or working
+point be handled if its motion is fundamentally distinct from the motion of the hand as
+an empowering agency (Bruzina 1982: 170)? The potter, working with bare hands, can
+feel the clay as he shapes it, but this is no less true of the woodcarver who – though he
+perforce must use a tool such as a knife or chisel – feels the wood through its contact
+with the tool more than he does the tool through its contact with the hand. It is not
+difﬁcult, moreover, to think of examples where the technically effective gesture remains
+closely coupled to sensory perception, even though the application of force is indirect.
+The sailor, hauling a rope through a pulley block, still feels the wind in the sails. But the
+hurdy-gurdy player differs from the violinist in that, whereas the latter feels the resistance
+offered to the bow by the vibrating string (rather than that offered to his hand by the
+chock of the bow), the former feels only the resistance of the handle of the wooden wheel
+that, as it is turned, rubs against the strings and causes them to vibrate.
+It is perhaps no accident, then, that most examples of devices in which a man acts, in
+Marx’s words, only as ‘a simple motor force’, work by rotary motion. It would seem that,
+in operating a crank, the intimate link between hand and tool – by virtue of which the
+
+Skill
+latter is experienced by the operator as an extension of the former – is severed. More 1
+generally, the conversion of reciprocating to rotary motion through a transmitting mech- 2
+anism decouples action from perception, divorcing technically effective operations from 3
+their context in the immediate sensory experience of practitioners. It is no longer possible, 4
+as the exercise of skilled constraint requires, to feel or to respond to the work of the tool 5
+upon the material. Indeed the device may be operated just as well, if not better, by foot 6
+as by hand, as in the the case of the aforementioned potter’s wheel. For while it lacks the 7
+dominant hand’s dexterity, the foot is probably a more efﬁcient deliverer of sustained 8
+muscle-power.
+That the transition from hand-tools to man-powered machines generally involved a 10
+conversion of reciprocating to rotary motion is also indicated by the modiﬁcations entailed 1
+in their working parts. For example, oars give way to rotating paddles, the straight saw 2
+becomes circular, and the rectangular surface of the whetstone gives way to the cylindrical 3
+surface of the grinding stone. Where, on the other hand, mechanisation involves the substi- 4
+tution of machine power for manpower, as in the development of so-called machine tools, 5
+the mechanism of transmission often has quite the opposite function: not of converting 6
+the reciprocating movement of the body into the rotary movement of the working part, 7
+but of converting the rotary movement of the mechanical motor into a reciprocating move- 8
+ment that imitates the original movement of the body in its operation of a working part 9
+which remains unchanged in form (if not in scale). One example is the mechanised pile- 20
+driver; another is the electric toothbrush.
+THE COMPLETE MACHINE
+Up to now we have kept within Poncelet’s conception, endorsed by Marx, of the complete 5
+machine as a combination of motor, transmitter and working parts or tools. Though at 6
+ﬁrst glance this makes a good deal of sense, it will not withstand closer scrutiny, as was 7
+shown by Reuleaux in his classic work of 1876, The Kinematics of Machinery. Considering 8
+ﬁrst the nature of the tool, Reuleaux observes that there is a large class of machines from 9
+which the tool is completely absent, namely those used for altering the positions of things, 30
+or ‘place-changing machines’. An example is the crane. It might be supposed that the rope 1
+is the transmitter and the hook the tool. But we could, if need be, reject the hook and 2
+lift a load by tying a loop in the rope. Do we say, then, that the loop has become the 3
+tool? What if the load is discarded and we wish to wind up the empty rope? The tool 4
+has apparently disappeared, while what we had thought to be the transmitter of motion 5
+(the rope) has now become the object moved. Yet the crane functions entirely as before. 6
+If the functioning of the machine is indifferent to the presence or absence of the tool, 7
+the latter cannot be essential to its completeness.
+Those machines that are equipped with tools, Reuleaux argued, have as their common 9
+object the alteration in form of some material: they are ‘form-changing machines’. Looking 40
+more closely at the relation, in such machines, between the tool and the object worked 1
+upon (the work-piece), Reuleaux comes to a rather remarkable conclusion: that the work- 2
+piece is in fact an integral part of the machine, regarded as a ‘closed kinematic chain’. 3
+The interface between tool and work-piece is just one of any number of points through 4
+which the chain continues without interruption. Indeed it is not always possible to draw 5
+the line at all between work-piece, tool and transmitter. In a spinning machine, for example, 6
+the thread is not only what is worked upon but also a transmitter of force, while every 7
+ﬁbre of the thread acts as a tool for twisting each and every other. This same observation 118
+
+Tools, minds and machines • 305 •
+
+resolves the paradox of the crane, where the rope may be regarded interchangeably as a
+transmitter, a lifting device and an object lifted. In all these capacities both the rope and
+anything that may be attached to it are simply parts of the whole machine.
+If the machine ‘ends’ in the work-piece rather than the tool, it likewise begins with the
+‘prime-mover’ rather than with the receptor of that motion. The prime-mover, or driver,
+could be a machine such as a steam-engine, or a living agent (human or animal). Reuleaux’s
+discussion of the mechanical employment of human muscle-power is especially revealing.
+Reproduced in Figure 15.4 is his diagram of a man operating a treadle grindstone. It
+shows that in operation, ‘the body of the worker becomes kinematically chained with the
+machine’ (1876: 500) – in other words the worker is as much a part of the machine as
+is the work-piece. Now if we disregard what the man is doing with his hands and arms,
+and the object he holds, the stone itself could be treated as the work-piece, and the whole
+machine as a place-changer designed to secure the rotation of the stone. From the diagram
+it can be seen that the machine operates through the kinematic conjunction of two lever
+cranks. One crank is formed by the links a, b and c, secured at points 1 and 4 by the
+ﬁxed frame d. The other crank, which drives the ﬁrst, is formed by the links a′, b′ and
+c′, secured at points 1′ and 4 by the ﬁxed frame d′. There is no difference, in principle,
+between the artiﬁcal coupler b and the shinbone b′, nor between the frame d, built into
+the structure of the device, and the frame d′, formed through the posture of the man. As
+this example demonstrates, the machine is not external to the worker, ‘receiving’ from
+him its motive force, for in reality ‘the worker makes a portion of his own body into a
+mechanism, which he brings into
+combination, that is chains kinematically, with the mechanism to be driven’
+(1876: 501).
+The deﬁnition of the machine that
+Reuleaux proposes (having discussed a
+whole catalogue of contemporary alternatives, see his footnote 7, pp. 587–90)
+runs as follows: ‘A machine is a combination of resistant bodies so arranged
+that by their means the mechanical
+forces of nature can be compelled to do
+work accompanied by certain determinate motions’ (1876: 35, 503).
+Mumford’s criticism (1946: 9) that
+this deﬁnition ‘leaves out the large class
+of machines operated by manpower’ is
+quite unfounded, since as we have
+seen, Reuleaux devotes some attention
+to the consideration of such machines,
+concluding that – insofar as the body
+delivers a purely physical effort – it is
+a ‘force of nature’ like any other, that
+can be harnessed to drive a kinematic
+chain. ‘So far . . . as machines driven Figure 15.4 Man working a treadle grindstone
+by muscular power are themselves From F. Reuleaux, The kinematics of machinery, published by
+closed kinematic chains, they may be Macmillan, 1876, p. 501.
+
+Skill
+SKILLED
+constraint
+SYSTEM
+vision
+OPERATOR
+WORK-PIECE
+muscle
+power
+motive force
+DETERMINING
+FOOT
+WHEEL
+crank
+(reciprocating
+(rotary motion)
+SYSTEM
+motion)
+Figure 15.5 Skilled and determining systems.
+regarded as complete machines, and do not themselves differ from machines driven by any 9
+other than muscular force’ (Reuleaux 1876: 508). However, Reuleaux does recognise that 20
+the employment of humans and animals to drive machinery introduces a ‘special compli- 1
+cation’ in that the movements of links in the organic part of the kinematic chain are nec- 2
+essarily constrained ‘by the action of forces commanded by the will’ (1876: 508). Returning 3
+to the man in the diagram (Figure 15.4), to the extent that the work performed by the 4
+lower part of his body is ‘purely physical . . . and not intellectual’, this complication may 5
+be safely ignored. But if we consider the upper part of the body, then it is apparent that he 6
+is linked into the machine in a quite different way: holding the work-piece in skilled hands, 7
+he is constantly adjusting its position and pressure against the stone, under a close and 8
+watchful gaze.
+Like the potter in our earlier example, we may say of the grinder – with Reuleaux – 30
+that he ‘is doubly connected to the machine at which he works’, or that ‘human agency 1
+has a twofold action in it’ (1876: 509). In both machines, potter’s wheel and grindstone, 2
+the work-piece stands at the point of intersection between the two systems: the one 3
+imparting ‘determinate motions’, the other skilled constraint. The fact that in the one 4
+case the work-piece is afﬁxed to the rotating wheel while worked upon by the hand, 5
+whereas in the other it is held in the hand while worked upon by the rotating stone, is 6
+immaterial. The important point is that by the twofold action of the human operator, 7
+skill has been dissociated from motive force, even though both are delivered by the same 8
+agent. In Figure 15.5 this point is illustrated diagrammatically. In the determining system, 9
+operated through the foot, all possible motions are ﬁxed in advance by the structure of 40
+the machine; in the skilled system, operating through the hand, motions may be varied 1
+at will, and the intended result is achieved through a continuous process of modiﬁcation 2
+and adjustment, requiring constant visual attention (cf. Pye 1964: 54).
+MACHINES AND ANIMALS
+Before pursuing further the implications of this distinction between skilled and deter- 7
+mining systems, I should like to make a brief detour to consider the human employment 118
+HAND
+
+Tools, minds and machines • 307 •
+
+of domestic animals. I have noted in passing that human muscle power may be replaced
+by the power not only of inanimate machines, but also of non-human animals. How,
+then, does the use of domestic animals differ from the use of tools and machinery? And
+to what extent can the relation between the animal and its human master (or mistress)
+be compared to man’s mastery over the machine?
+Marx, at one point, is quite prepared to treat domestic animals as ‘instruments of labour’,
+taking their place alongside the established repertoire of simple hand tools: ‘From the dawn
+of human history, man, in addition to making use of elaborated stones, pieces of wood,
+bones and shells, turned to account the services of domesticated animals as instruments of
+labour – these beasts, tamed, modiﬁed, bred by human labour, being among the chief
+of the primitive instruments of labour’ (1930: 171–2). But to regard the animal as a mere
+tool is to deny its capacity for autonomous movement (Reed 1988a); tools cannot ‘act back’
+or literally interact with their users, they only conduct the users’ action on the environment
+(Cohen 1978: 43–4). Evidently, therefore, the human ‘handling’ of animals is quite different from the handling of tools. If anything, it can be compared to the craftsman’s handling
+of raw material; but whereas the craftsman’s aim is to realise a particular form, the trainer
+aims to establish a particular pattern of skilled behavioural responses.
+In fact, animal domestication very often does involve the use of manual tools, but of
+a kind we have not so far encountered. They are tools of coercion, such as the whip
+or spur, designed to inﬂict physical force and very often acute pain (see Chapter Four,
+p. 73). Another class of tools consists of those attached to the animals themselves and
+operated as part of their performance. Thus the ‘handling’ of animals is really a two-stage
+operation in which the human master, through the use of the instruments of coercion,
+aims to control the skilled tool-using performance of his charges. Indeed there is an immediate and obvious parallel here with slave-driving: like human slaves, similarly compelled
+to work through the inﬂiction of pain, animals constitute labour itself rather than its
+instruments (Ingold 1980: 88). Both humans and animals can, however, be virtually
+
+Figure 15.6 Gin-horses.
+From F. Reuleaux, The kinematics of machinery, published by Macmillan, 1876, p. 501.
+
+Skill
+reduced to a machine existence through the systematic repression of their powers of 1
+autonomous action. Thus, Mumford dates the ‘ﬁrst complex, high-powered machines’ to 2
+some ﬁve thousand years ago; they were composed of thousands of human bodies regi- 3
+mented in ‘corpselike obedience’ to an absolute despotic authority. Such was the 4
+‘megamachine’ that constructed the Egyptian pyramids (Mumford 1966: 312). Moreover, 5
+there is little difference in principle between the oarsmen of the Roman slave-galley, 6
+chained to their benches so that they have no other possibility of movement, and the 7
+gin-horses depicted in Figure 15.6 (from Reuleaux 1876: 509).
+Reuleaux writes: ‘the locomotive has often been called a steam-horse – we may reverse 9
+the comparison and call the gin-horse . . . the locomotive of the machine which it drives’ 10
+(1876: 508). Perhaps in no other employment has an animal come closer to being 1
+converted into a pure machine, functioning simply as a prime-mover. Harnessed to the 2
+apparatus, the horses have become parts of a closed kinematic chain, whose motions – 3
+just like those of the grindstone in Figure 15.4 – are precisely predetermined. Yet if the 4
+beasts really were machines as Cartesian philosophy would have us believe, converting oats 5
+into tractive effort, it would not be necessary to shield them from extraneous sensory 6
+inputs, for example by covering their eyes with blinkers. After all, the difference between 7
+the horse and the locomotive is that, barring mechanical failure, locomotives do not bolt, 8
+take fright, or simply decide to stop. As Marx shrewdly notes, the great disadvantage of 9
+horses as a motive force for industry, quite apart from the high costs of maintenance, lies 20
+in the fact that ‘a horse has a head of its own’ (1930: 397). In short, the essential differ- 1
+ence between the human mastery over animals and over machines is that although both 2
+– in terms of Reuleaux’s deﬁnition – ‘can be compelled to do work’, the machine is 3
+compelled by the very nature of its construction whereas the animal is compelled by the 4
+external imposition of coercive force. The Cartesian equation of animals and machines 5
+may have served to justify their use as mechanical prime movers, but is belied by the 6
+repressive techniques that had to be applied in ﬁtting them to this role.
+MANUFACTURE AND MACHINOFACTURE
+We have seen how, in man- or animal-powered machines, the living body becomes an 1
+integral part of a complete determining system. Turning now to systems in which the 2
+prime-mover is an artiﬁcial motor mechanism, such as a steam-engine, what role is left 3
+to the human operator? Does he become, in Marx’s phrase (1930: 408,451), no more 4
+than a ‘living appendage’ of the machine? Not quite, for it is a fact that the best-constructed 5
+system of automatic machinofacture, even if provided with a continuous supply of fuel 6
+and raw materials, would soon grind to a standstill without human attention. This is 7
+simply because machines, unlike living organisms, are not self-maintaining systems, and 8
+are incapable of making up themselves for the effects of wear and tear. As Marx himself 9
+admits, machine repair and maintenance call for skilled craftsmanship, but the mechanics 40
+and engineers who ply this craft ‘comprise a superior class of workmen’, having a higher 1
+status (and higher pay) than the mass of the factory workforce whose principal task is to 2
+keep the machines supplied. Considering the latter alone Marx notes how – at the time 3
+he was writing, in the middle of the nineteenth century – machinofacture had led both 4
+to a prolongation of the working day and to the homogenisation of the workforce. The 5
+former was possible because, excepting breakdowns, machine power can be kept going 6
+indeﬁnitely, whereas man must have his food and rest. The latter was a result of the 7
+replacement of human skills by the determining motions of the machine. Moreover, once 118
+
+Tools, minds and machines • 309 •
+
+human motive force was dispensable, women and children – whose muscle power and
+endurance were deemed inferior to men’s – became equally employable.
+With regard to the relation between machines and their operators, it is vital to distinguish the inﬂuence of capitalist relations of production from the effects of mechanisation
+and automisation. Consider the following statements, which appear on the same page of
+Capital and which – on the face of it – seem directly contradictory:
+1 In manufacture and in handicrafts, the worker uses a tool; in the factory he serves
+a machine;
+2 In [all kinds of capitalist production] the worker does not use the instruments of
+labour, but the instruments of labour use the worker. However, it is only in machine
+production that this inversion acquires a technical and palpable reality.
+(Marx 1930: 451)
+By ‘manufacture’ Marx is referring to the largely pre-industrial phase of capitalist production, stretching roughly from the middle of the sixteenth century to the end of the
+eighteenth. The characteristic feature of such manufacture was the assembly, within a
+single workshop, of a large number of highly specialised, skilled artisans performing
+complementary tasks within a rigidly prescribed division of labour. These artisans, however,
+did not co-operate of their own accord, for their association was a result not of relations
+among themselves but of each having contracted to the same employer who commanded
+the sum total of their labour-power. In effect it was he who ‘co-operated’ the working
+capacities of his employees, much as in a later period, the factory-owner would ‘co-operate’
+the working machines that eventually took over each of the functions originally performed
+by hand (Marx 1930: 400–1).
+In this sense of co-operation, which appears equally applicable to both labour-power
+and machinery, we also ﬁnd the sense in which, according to statement 2 above, instruments ‘use’ their operators. What is meant is that the will or purpose that the instrument
+serves to realise is not that of the worker but that of the employer. The worker who operates the instrument acts under a form of compulsion, ultimately backed by the threat of
+withdrawal of the means of subsistence. From the employer’s point of view, tools are not
+made to be used by workers, rather workers are made to use tools. Moreover this ‘making’
+does not only exist in the element of compulsion. For unlike the craftsmen of earlier ages,
+who might apply their skills to a range of tasks or commissions, the detail worker of
+capitalist manufacture is rigidly trained to the performance of one limited operation within
+the overall production system. Through its endless repetition, he ‘converts his whole body
+into the automatic specialized instrument of that operation’ (Marx 1930: 356). Given that
+these bodily aptitudes are largely acquired by long and enforced training on the job, it
+might reasonably be said that instruments not only use their operators, but make them
+as well. Combined together on the workshop ﬂoor, the aggregate of technically specialised
+bodies constitutes what Marx calls ‘the living mechanism’ of manufacture. Naturally, it
+invites comparison with the ‘lifeless mechanism’ of machinofacture, constituted by the
+assemblage of machines in the industrial factory (1930: 356, 451).
+In this comparison, presented schematically in Figure 15.7, we regain the sense in which
+– according to the ﬁrst of the two statements cited above – the detail worker nevertheless uses his tool. In the employment of hand tools, ‘the movements of the instrument of
+labour proceed from the worker’ (Marx 1930: 451); the tool does not itself prescribe the
+envelope of it movement. Yet it is this envelope that determines the form of the product
+
+Skill
+raw
+products
+W 1 T1
+W 2 T2
+W3 T3
+W n Tn
+material
+MACHINOFACTURE
+W
+raw
+M1
+M2
+M3
+Mn
+products
+material
+PRIME
+MOVER
+Figure 15.7 The organisations of manufacture and machinofacture.
+W1 – Wn detail workers
+manual tools
+T1 – Tn
+M1 – Mn detail machines
+that will be passed on, as material, to the next worker down the line. Thus the worker 7
+must already have some conscious idea of the form he sets out to reproduce, and must 8
+be able to translate that idea – through acquired sensorimotor skills – into the movements 9
+of hand and tool. In machinofacture, however, the situation is quite otherwise, for the 30
+shape of the product is already ‘written in’ to the machine, the movements of which are 1
+predetermined. The consciousness of the machine operative is, so to speak, short-circuited. 2
+Though the worker probably knows, if only from prior observation, what the product 3
+will look like, he does not actually need to know, and the product’s materialisation is not 4
+at all dependent on such knowledge.
+The organisation of the labour-process in manufacture is thus an organisation at once 6
+of specialised bodies and of trained minds, and rests on technical knowledge and skills 7
+possessed by the workers themselves. As this knowledge and these skills are replaced by 8
+the machine, the co-operation of workers – no longer differentiated in their tasks and 9
+therefore freely interchangeable among successive stages of production – is reduced from 40
+a complex to a simple form. In ‘serving’ the machine, factory workers are made to feel 1
+their subordination to capital in a way that the detail worker of the manufacturing period 2
+did not. For whereas the productive organism in manufacture, composed of sentient and 3
+intelligent human beings, has an essential subjective component, this ‘no longer exists in 4
+the case of machine production. Here the whole process becomes objective, is considered 5
+in and by itself, analysed into its constituent phases; and the problem of carrying out each 6
+detail process, and of combining the various partial processes, is solved by the technical 7
+application of mechanics, chemistry, etc.’ (Marx 1930: 402). That is to say, technique has 118
+MANUFACTURE
+
+Tools, minds and machines • 311 •
+
+been replaced by technology, ‘rule-of-thumb methods by the purposive application of
+natural science’ (1930: 408).
+Marx’s point that mechanisation transforms the organisation of production from the
+‘purely subjective’ to the ‘purely objective’, thereby transferring human agency from the
+centre to the periphery of the fabricative process, brings us back to the question with
+which I began. Do machines make history?
+
+CONCLUSION
+The answer must surely be that they do not. The suggestion that they might derives from
+a particular reading of Marx’s theory of history, encapsulated in his summary statement
+that ‘in the social production of their existence, men inevitably enter into deﬁnite relations, which are independent of their will, namely relations of production appropriate to
+a given stage in the development of their material forces of production’ (1970: 20).
+Whether he actually meant by this, and other similar statements, ‘that the basic trajectory of human history is explained by the advance of the productive forces’ (Shaw 1979:
+171) is a moot point, but let us suppose for the sake of argument that this was his intention. What he certainly did not intend was the equation of productive forces with
+machinery, even allowing for the inclusion within the complete machine of human motive
+force and the raw material on which it operates. As Shaw points out, ‘the forces of production are, for Marx, thoroughly human’ (1979: 158), in the sense that they include not
+just muscle-power but every aspect of man’s capacity to work. In handicrafts and manufacture this capacity is founded, as we have seen, in the knowledge, skill and experience
+of human subjects. Thus, the forces of production, as Marx himself wrote, may be ‘subjective, appearing as qualities of individuals, as well as objective’ (1973: 495). And later he
+refers to the ‘degree of development of the material (and hence also the intellectual) forces
+of production’ (1973: 502). It is unlikely that he meant to exclude ‘intellectual’ forces
+from ‘material’ ones’, since his concept of the material was constituted by its opposition
+to the social rather than to the mental (Cohen 1978: 47).
+Once human consciousness is admitted as a force of production, we have to conclude
+that ‘people, as much as or more than the machine . . . make history’ (MacKenzie 1984:
+477). Indeed the burden of Marx’s argument is that this history has involved a progressive objectiﬁcation and externalisation of the productive forces, reaching its apotheosis in
+the industrial automaton. As the outcome of this process, machines have not so much
+made as been made by history, one in which human beings, to an ever increasing extent,
+have become the authors of their own dehumanisation.
+
+Skill
+INTRODUCTION: TECHNOLOGY AND SOCIETY
+For many centuries, Western thought has been dominated by the idea that the mission 5
+of mankind is to achieve mastery over nature. The world of nature is commonly charac- 6
+terised by its opposition to the essential condition of humanity, whose purest expression 7
+is taken to be civil society. My starting point in this chapter is the observation that the 8
+meaning of ‘technology’, as currently understood in the West, is ﬁrmly ﬁxed within this 9
+polarity of society and nature. It is important to recognise from the outset, however, that 20
+terms such as society, nature and technology are far from mere labels, in themselves 1
+harbouring no moral, political or evaluative commitment. Of the concept of society, it 2
+has been observed that to use it is not to denote a thing but to make a claim (Wolf 1988: 3
+757). Similarly, if we want to know what words like nature and technology mean, then 4
+rather than seeking some delimited set of phenomena in the world – as though one could 5
+point to them and say ‘There, that’s nature!’ or ‘that’s technology!’ – we should be trying 6
+to discover what sorts of claims are being made with these words, and whether they are 7
+justiﬁed. In the history of modern thought these claims have been concerned, above all, 8
+with the ultimate supremacy of human reason. Thus society is considered to be the mode 9
+of association of rational beings, nature the external world of things as it appears to the 30
+reasoning subject, and technology the means by which a rational understanding of that 1
+external world is turned to account for the beneﬁt of society.
+Now to the evolutionary anthropologists of the eighteenth and nineteenth centuries it 3
+appeared self-evident that societies differed in the degree of cultivation of their powers of 4
+reason, in the scope of their understanding of the natural world, and hence also in the 5
+extent to which they were able to bend the forces of nature to their own will. The more 6
+‘civilised’ the society, and the more complex its technology, the more complete was thought 7
+to be its mastery or control over nature; conversely in ‘primitive’ societies, with simple 8
+technologies, control over nature was thought to be weak or non-existent. The most prim- 9
+itive societies of all, of course, were those of so-called ‘savages’, hunter-gatherers who had 40
+yet to achieve that basic level of control marked by the domestication of animals and 1
+plants. Such people were supposed to live wholly at the mercy of the vicissitudes of nature, 2
+and thus to represent the absolute antithesis of Western industrial man who, through the 3
+rational application of scientiﬁc knowledge, had at last subjugated nature to his sovereign 4
+will. And for those who saw technology as the driving force of social development, the 5
+simplicity of technology among primitive hunter-gatherers accounted for the rudimentary 6
+nature of their social organisation, just as the advanced industrial technology of the West 7
+was supposed to underwrite a complex social structure.
+
+Chapter Sixteen
+
+Society, nature and the concept
+of technology
+
+Society, nature and the concept of technology • 313 •
+
+In contemporary anthropology, we have become used to treating such arguments with
+suspicion. We cite examples of societies in which an apparently simple technology is found
+side by side with systems of kinship and ritual of the utmost complexity. There is, we
+say, no single measure of social advancement; a society may score highly on one criterion
+but low on another. Technology is a Western preoccupation, but Australian Aborigines
+are preoccupied with kinship: neither kinship nor technology furnishes a universal scale
+of complexity. If Westerners belittle Aborigines on account of the simplicity of their technology, Aborigines are equally entitled to belittle Westerners on account of their primitive
+notions of kinship. As Franz Boas wrote long ago, ‘we have simple industries and complex
+organisation’, as well as ‘diverse industries and simple organisation’ (1940: 266–7). This
+denial of any necessary link between technology and society or culture has since become
+enshrined in the dominant relativistic credo of modern cultural anthropology (Pfaffenberger
+1988: 243).
+Yet despite the anthropological critique of the evolutionist doctrine of technologicallydriven progress, no-one seems to doubt that there is a sphere of capability in every human
+society that can be identiﬁed by the concept of technology, and that in primitive societies (and above all in societies of hunters and gatherers) it may be characterised by its
+relative simplicity. Indeed in their self-conscious and often contrived attempts to avoid
+the derogatory connotations of the notion of primitiveness, anthropologists are inclined
+to qualify their references to ‘simple societies’ with the rider that ‘simple’ denotes technological simplicity, and carries no immediate implications as regards social organisation and
+culture. Thus we are told that hunting and gathering is essentially a technological regime,
+and that we are not entitled to draw conclusions from the rudimentary nature of this
+technology about the form or elaboration of the social relations in which its practitioners
+are engaged. It is meaningless, it is said, even to speak of ‘hunting and gathering societies’ as a class, since these societies have nothing more in common than the purely
+contingent fact that their members hunt and gather for their subsistence, possessing neither
+domestic herds nor crops.
+Two views that are diametrically opposed often turn out to be so because they are
+based on common premises, and this is certainly the case with the opposition between
+evolutionism and relativism that I have sketched out above. On one side, in brief, are those
+who claim that the essential institutional forms of society are dictated by the requirements
+of operating a technological system of some given degree of complexity, and therefore that
+social change is driven by – and depends upon – technological change.1 On the other
+side are those who hold that technology exerts no inﬂuence upon the form of a society,
+beyond setting outer limits on the scope of human action. Within those limits, society and
+culture are said to follow their own historical course, irrespective of the nature or complexity
+of the technological system. Not only, however, do both sides suppose that technology can
+be scaled in terms of degrees of complexity; they also share the assumption that technology
+comprises an objective system of relations among things, that is wholly exterior to the social
+domain of relations among persons. The impact of technology on society may be afﬁrmative or neutral, its formulae prescriptive or permissive, but in itself technology has no part
+in society: it is simply given as an independent, external factor.
+Having thus been placed outside of society and culture, technology could – so far as
+most anthropologists were concerned – be safely ignored. It was considered to be just one
+of those things, like climate or ecology, that may or may not be a determining factor in
+human affairs, but whose study can be safely left to others. As climate is for meteorologists and ecology for ecologists, so technology is for engineers. The study of technological
+
+Skill
+processes was not seen as an integral part of the study of social relations, or of the study 1
+of those systems of meaning that go by the name of culture, and indeed anthropology 2
+lacked any framework of concepts or theoretical ideas in which to handle such processes. 3
+The result is that until very recently, insofar as technology appeared in anthropological 4
+accounts at all, it generally did so in the form of lists or inventories, catalogues of tools 5
+and techniques which – however valuable in themselves as documentary records – bore a 6
+purely descriptive purpose. Even today, and despite an upsurge of interest fuelled by the 7
+revolution in computing and telecommunications, the study of technology remains one 8
+of the least developed aspects of anthropological scholarship (a view shared, inter alia, by 9
+Lemmonier 1986, Pfaffenberger 1988, 1992, and Hornborg 1992).
+Now it is precisely the notion that society and technology are external to one another 1
+that I wish to challenge. In my view, far from being a timeless datum of the human 2
+condition, this externality is a product of history, and a relatively recent one at that. It 3
+has emerged in the West, in the last few centuries, hand in hand with what could be 4
+called a ‘machine-theoretical’ cosmology. We cannot, I think, retroject into history or 5
+prehistory the modern separation of society and technology, nor can we impose it on non- 6
+Western societies, without seriously distorting our understanding of them. My thesis, in 7
+a nutshell, is that in the societies we study – perhaps even including our own – technical 8
+relations are embedded in social relations, and can only be understood within this rela- 9
+tional matrix, as one aspect of human sociality. Two further claims follow: ﬁrst, that what 20
+is usually represented as a process of complexiﬁcation, a development of technology from 1
+the simple to the complex, would be better seen as a process of externalisation or of disem- 2
+bedding – that is, a progressive cutting out of technical from social relations. Secondly, 3
+the modern concept of technology, set up as it is in opposition to society, is a product 4
+of this historical process. If that is so, we cannot expect to ﬁnd a separate sphere of human 5
+endeavour corresponding to ‘technology’ wherever we choose to look.
+To put my case in the strongest possible terms: there is no such thing as technology in 7
+pre-modern societies. Let me add at once that I do not mean that people in such societies 8
+lack tools or technical skills. My point is that the concept of technology, at least in its 9
+contemporary Western usage, sets out to establish the epistemological conditions for 30
+society’s control over nature by maximising the distance between them. Focusing in partic- 1
+ular on societies of hunters and gatherers, I shall show that through their tools and 2
+techniques hunter-gatherers strive to minimise this distance, drawing nature into the nexus 3
+of social relations, or ‘humanising’ it. This ‘drawing in’ has as its object to establish the 4
+conditions not of control but of a kind of mutualism. In this, the tool delivers a force 5
+that is personal rather than mechanical. Hence technical relations, far from being set apart 6
+from social relations, are embedded in them.
+Before proceeding further, I should perhaps add that the critical strategy I am adopting 8
+is a well-tried one in anthropology. Substitute the term ‘economy’ for ‘technology’, and 9
+everything I have said would be well in tune with most recent thinking in economic anthro- 40
+pology. Over the last two or three decades, anthropologists have been at pains to show how 1
+‘economy’ and ‘society’ became institutionally separated in the history of Western capital- 2
+ism, how the category of the economic is itself a product of this history, how in pre- 3
+capitalist societies economic relations are embedded in social relations, and how – with the 4
+development of market-oriented capitalism – economic life was progressively disembedded 5
+from social life (Polanyi 1957, Sahlins 1969, Godelier 1972: 92–103, Dumont 1986: 6
+104–12). All that I am doing is to extend the same kind of argument to the concept of 7
+technology, which up to now has escaped the critical attention that has been devoted to the 118
+
+Society, nature and the concept of technology • 315 •
+
+concept of economy. I believe this critical work is an essential ﬁrst step in building a coherent and theoretically informed anthropology of technology, one that takes us beyond the
+mere cataloguing of tools and techniques from cultures around the world.
+
+TOOLS, TECHNIQUES AND TECHNOLOGY
+In the last chapter, I distinguished between technique and technology in terms of whether
+human powers of perception and action are either immanent in, or detached from, the
+processes by which things get made. In line with this distinction, in what follows I shall
+take technique to refer to skills, regarded as the capabilities of particular human subjects
+(see Layton 1974:3–4), and technology to mean a corpus of generalised, objective knowledge, insofar as it is capable of practical application. Both technique and technology must,
+of course, be distinguished from tools. A tool, in the most general sense, is an object that
+extends the capacity of an agent to operate within a given environment. But you do not
+necessarily have to use a tool to implement a technique. It is a fundamental mistake, as
+Marcel Mauss (1979; 104) recognised, to think that ‘there is technique only when there
+is an instrument’. In the hands of a hunter or warrior the spear may be a tool for bringing
+down game or wounding an adversary, but in the hands of the athlete the ﬂight of the
+javelin becomes an end in itself. He uses no instrument to augment his throw, yet he still
+has his technique.
+Why is it, then, that in both specialised anthropological and popular Western discourse,
+it tends to be assumed that technical activity is ipso facto tool-using activity? Consider,
+for example, Roy Ellen’s deﬁnition of subsistence technique: ‘a combination of material
+artefacts (tools and machines) and the knowledge required to make and use them’ (1982:
+128). Here, technique is regarded not as a property of skilled subjects, but as an inventory
+of instrumental objects together with their operational requirements. This view, I believe,
+results from a conﬂation of the technical with the mechanical, a conﬂation that lies at
+the very core of the modern concept of technology. For as we saw in the last chapter,
+what this concept does, in effect, is to treat the workman as an operative, putting into
+effect a set of mechanical principles that are both embodied in the construction of the
+instruments he uses, and entirely indifferent to his own subjective aptitudes and sensibilities. In other words, productive work is divorced from human agency and assigned to
+the functioning of a device. Thus, technique appears to be ‘given’ in the operational principles of the tools themselves, quite independently of the experience of their users. If all
+technical activity is tool-using activity, it is because the technique is seen to reside, outside
+the user, in the tool, and to come ‘packaged’ – like the instruction manual for a piece of
+modern machinery – along with the tool itself.
+My contention, to the contrary, is that technique is embedded in, and inseparable from,
+the experience of particular subjects in the shaping of particular things. In this respect it
+stands in sharp contrast to technology, which consists in a knowledge of objective principles of mechanical functioning, whose validity is completely independent both of the
+subjective identity of its human carriers and of the speciﬁc contexts of its application.
+Technique thus places the subject at the centre of activity, whereas technology afﬁrms the
+independence of production from human subjectivity. Drawing out the contrast, Carl
+Mitcham notes that
+. . . tools or hand instruments tend to engender techniques, machines technologies . . .
+Technique is more involved with the training of the human body and mind . . . , whereas
+
+Skill
+technology is concerned with exterior things and their rational manipulation . . . 1
+Techniques rely a lot on intuition, not so much on discursive thought. Technologies, on 2
+the other hand, are more tightly associated with the conscious articulation of rules and 3
+principles . . . At the core of technology there seems to be a desire to transform the heuris- 4
+tics of technique into algorithms of practice.
+(1978: 252) 6
+Now it is commonly supposed that where there are techniques there must be tech- 8
+nology, for if skill lies in the effective application of knowledge, there must be knowledge 9
+to apply (Layton 1974). I believe this view to be mistaken. For acting in the world is the 10
+skilled practitioner’s way of knowing it. It is in the direct contact with materials, whether 1
+or not mediated by tools – in the attentive touching, feeling, handling, looking and 2
+listening that is entailed in the very process of creative work – that technical knowledge 3
+is gained as well as applied. No separate corpus of rules and representations is required 4
+to organise perceptual data or to formulate instructions for action. Thus, skill is at once 5
+a form of knowledge and a form of practice, or – if you will – it is both practical know- 6
+ledge and knowledgeable practice. Moreover as a form of knowledge, skill (or technique) 7
+is different in kind from technology. The former is tacit, subjective, context-dependent, 8
+practical ‘knowledge how’, typically acquired through observation and imitation rather 9
+than formal verbal instruction. It does not therefore have to be articulated in systems of 20
+rules and symbols. Technological knowledge, by contrast, is explicit rather than tacit, 1
+objective rather than subjective, context-independent rather than context-dependent, 2
+discursive rather than practical, ‘knowledge that’ rather than ‘knowledge how’. It is, besides, 3
+encoded in words or artiﬁcial symbols, and can be transmitted by teaching in contexts 4
+outside those of its practical application.
+Historically, as the skilled manipulation of tools has given way to the operation of 6
+mechanically determined systems, knowledge of the ﬁrst kind has been gradually devalued, 7
+whilst knowledge of the second kind has come to be regarded as increasingly indispens- 8
+able. Far from complementing technique by providing it with a foundation in knowledge, 9
+technology has forced a division between knowledge and practice, elevating the former 30
+from the practical to the discursive, and reducing the latter from creative doing or making 1
+to mere execution. To see this, one has only to compare the classical, Aristotelian notion 2
+of tekhnē, with its connotation of skilled craftsmanship, with the modern idiom in which 3
+to say of practice that it is ‘purely technical’ is to intimate that it is merely mechanical. 4
+In the dichotomy between discursive knowledge and executive practice, no space remains 5
+for the practical knowledge (or knowledgeable practice) of the craftsman. Technology, in 6
+short, appears to erase technique, rather than to back it up.
+Moreover the transition from technique to technology, on the level of knowledge, has its 8
+precise counterpart, on the level of material instruments, in the transition from the tool to 9
+the machine. Recall that in the classical conception, tekhnē referred to the skilled making 40
+of the craftsman, while mēkhanē referred to the manually operated devices that assisted its 1
+application. But now, just as technology has been removed from the sphere of practitioners’ 2
+personal knowledge and experience, so the machine has come to signify the independence 3
+of technical operations from human sensibility. Overall, then, the evolution from the 4
+classical dualism of tekhnē/mēkhanē to the modern dualism of technology/machine has been 5
+one in which the human subject – both as an agent and as a repository of experience – has 6
+been drawn from the centre to the periphery of the labour process. In other words, as I have 7
+tried to show schematically in Figure 16.1, it has been a movement from the personal to 118
+
+Society, nature and the concept of technology • 317 •
+
+the impersonal. I now intend to demonstrate
+that this movement is tantamount to a disembedding of technical relations from their
+matrix in human sociality, leading to the
+modern opposition between technology and
+society.
+
+KNOWLEDGE: Tekhne¯ (skill)
+
+Technology
+
+DEVICES:
+
+Machines
+
+Mekhane¯ (tools)
+¯
+
+THE TECHNICAL AND THE SOCIAL
+It is commonplace in anthropology to draw
+Subject-central
+Subject-peripheral
+an absolute distinction between the domains
+of technical and social phenomena. This
+doubtless owes much to the inﬂuence of Figure 16.1 The transition in knowledge and devices from
+Emile Durkheim. The earliest anthropolog- the personal to the impersonal, associated with the substituical reference to the distinction that I know tion of the modern dichotomy of technology/machine for the
+classical dichotomy of tekhnē/mēkhanē.
+is to be found in a tantalising footnote to
+the conclusion of Durkheim and Mauss’s
+essay of 1903 on Primitive Classiﬁcation,
+where they write of what they call ‘technological classiﬁcations’ as vague and unsystematic constellations of ideas, quite unlike the systematically interconnected categories of
+scientiﬁc classiﬁcation which are grounded in the structure of social groups. Scientiﬁc classiﬁcations, Durkheim and Mauss write,
+are very clearly distinguished from what might be called technological classiﬁcations. It
+is probable that man has always classiﬁed, more or less clearly, the things on which he
+lived, according to the means he used to get them: for example animals living in the
+water, or in the air or on the ground. But at ﬁrst such groups were not connected with
+each other or systematized. They were divisions, distinctions of ideas, not schemes of
+classiﬁcation. Moreover, it is evident that these distinctions are closely linked to practical concerns, of which they merely express certain aspects.
+(1963: 81–2, fn. 1)2
+What is important for my present argument is the way technological classiﬁcation is linked
+here to the experience of individuals in practical activity, as opposed to the structuring
+force of society. From the start, technology was placed ﬁrmly on the individual side of a
+pervasive dichotomy between individual and society, while science was set apart on the
+social side.
+In the subsequent elaboration of the Durkheimian paradigm, the distinction between
+technology and science was referred back to that between magic and religion, the former
+issuing from the individual and pragmatic in intent, the latter issuing from society and
+fundamentally expressive. The same distinction was later taken up by Edmund Leach, in
+a series of attempts to force a division between technical and ritual types or aspects of
+behaviour. Leach deﬁnes technical behaviour in purely pragmatic, means–ends terms: it
+‘produces observable results in a strictly mechanical way’. Ritual behaviour, by contrast,
+is essentially communicative, and serves to convey information, in a symbolic code, about
+group membership or social identity (Leach 1966: 403: cf. 1954: 12, 1976: 9). The division, then, is between a mechanics of technical systems and a semiotics of social systems.
+All practical action is ‘fully mechanical’ in the sense that its effects are entirely predictable
+
+Skill
+from its initial conditions (1976: 23), whereas all social action, since it is designed to 1
+communicate a state of affairs but not to change it, is inherently non-practical.
+To illustrate the effects of applying this conceptual framework across the board of 3
+human societies, let me return to the case of hunters and gatherers. It comes as no surprise 4
+that the usual anthropological characterisation of the activities of hunting and gathering 5
+as ‘purely technical’ carries the implications that they are not only ‘fully mechanical’ but 6
+also residually non-social. Thus the work of subsistence production is effectively removed 7
+from the sphere of social action, becoming merely a ‘need-satisfying process of individual 8
+behaviour’ (Sahlins 1972: 186 fn. 1). When human beings hunt and gather, even when 9
+they do so in co-operation, they can act only in their ‘natural’ capacity as individuals, 10
+rather than as social persons. ‘Given such a distinction’, as Gísli Pálsson has shown, 1
+‘production must take place in nature. The appropriation of nature only becomes social 2
+when the resources extracted from nature enter relations of sharing or exchange among 3
+groups’ (Palsson 1991: 8). If, as Durkheim maintained, there are two parts to a man, the 4
+individual and the social being, it is apparently the individual who hunts and gathers, and 5
+the social being (as a member of a more inclusive group) who shares (Ingold 1988a: 275, 6
+cf. Durkheim 1976: 16). In Leach’s terms, every act of hunting and gathering would be 7
+a mechanical event, and every act of sharing a communicative or semiotic event.
+This view of the separation of production and distribution has been reinforced by a 9
+peculiarly Durkheimian reading of the distinction, taken from Marx, between social rela- 20
+tions and technical forces of production, according to which these constitute mutually 1
+exclusive domains. Representing a widely held position in Marxist anthropology, Jonathan 2
+Friedman has written that ‘the social relations of production are not, nor can they be, 3
+technical relations’ (1974: 447). Included in the latter are the forces mechanically exerted 4
+by human bodies, when set to work, whether singly or in conjunction. Relations of co- 5
+operation in the tasks of hunting and gathering are thus built into the operation of the 6
+technical system – they are technical relations, part of the organisation of work, as distinct 7
+from the social relations activated in the distributive practices of sharing. Yet as Marx 8
+surely recognised, the externalisation of the forces of production was a historical conse- 9
+quence of the development of the machine. Where, as in hunting and gathering, food 30
+production depends on the skilled handling of tools, and indeed of one’s own person, the 1
+productive forces appear as the embodied qualities of human subjects – as their technical 2
+skills. Such qualities cannot be generalised: whereas a technology is indifferent to the 3
+personhood of its operators, techniques are active ingredients of personal and social iden- 4
+tity. Thus the very practice of a technique is itself a statement about identity; there can 5
+be no separation of communicative from technical behaviour.
+Our conclusion must be that in hunting and gathering societies, the forces of produc- 7
+tion are deeply embedded in the matrix of social relations. That is to say, the 8
+‘correspondence’ between technical forces and social relations is not external but internal, 9
+or in other words, the technical is one aspect of the social. The modern semantic shift 40
+from technique to technology, associated with the ascendance of the machine, is itself 1
+symptomatic of the disembedding of the forces of production from their social matrix, 2
+transforming the correspondence between forces and relations of production from the 3
+internal to the external, and setting up the now familiar opposition between technology 4
+and society. For as I have already shown, the concept of technology signiﬁes the with- 5
+drawal of the person from production, which is consequently reduced to the operation of 6
+a quasi-mechanical system comprising human bodies, instruments and raw materials. If 7
+persons, human subjects, are external to production, then the sphere of social relations 118
+
+Society, nature and the concept of technology • 319 •
+
+(between persons) must be external to the sphere of technical relations which, if they
+involve human beings at all, involve them as the bearers of natural and not personal
+powers (on this distinction, see Shotter 1974: 225).
+The danger is that we are inclined to read back into history the modern separation of
+technology and society, identifying the forces of production with all that is external to
+the human subject. Hence we imagine the primitive precursors of the machine to have
+been such items of material culture as the hand-axe, spear and digging-stick. And this, in
+turn, leads us to view technical evolution as a process of complexiﬁcation, accompanied
+perhaps by a simpliﬁcation in the social spheres of kinship and ritual. However the machine
+is not simply a more advanced substitute for a tool, nor were hand-tools the original forces
+of production. For the development of the forces has transformed the entire system of
+relations between worker, tool and raw material, replacing subject-centred knowledge and
+skills with objective principles of mechanical functioning. In short, and to reiterate the
+conclusion of my argument from the last chapter, technical evolution describes a process
+not of complexiﬁcation but of objectiﬁcation of the productive forces.
+This result suggests a radical recasting of the relation between technology and kinship.
+Instead of seeing an evolution in parallel, in which the former becomes ever more dominant and elaborate as the latter declines in signiﬁcance, the view I have proposed suggests
+that the technical forces of production were originally consubstantial with the social relations
+of kinship. Only subsequently, as kinship was disengaged from the organisation of production, did the forces ‘split off ’ and acquire separate institutional identity as a technology.
+At the same time the objectives of production were themselves transformed from the
+constitution of persons to the manufacture of things. In short, to ﬁnd the antecedents of
+technology, we should look to the sphere of artiﬁce, contained in social relations, rather
+than to the artefacts of material culture (Ridington 1982: 470).
+
+WHAT TOOLS ARE FOR
+The next step in my argument is to show how this view of the embeddedness of technical
+in social relations affects our understanding of the nature and use of the tool. In itself, of
+course, the tool is nothing (Sigaut 1993: 383). ‘Being a tool’ is not at all the same as,
+say, ‘being a stone’ or ‘being a piece of wood’. For whereas the latter refers to intrinsic
+properties of the object itself, the former refers to what it affords for a user. An object – it
+could be a stone or a piece of wood – becomes a tool through becoming conjoined to a technique, and techniques, as we have seen, are the properties of skilled subjects. The presence
+of such a subject is already presupposed in our description of the object as a tool of a certain
+kind. Thus the tool is not a mere mechanical adjunct to the body, serving to deliver a set
+of commands issued to it by the mind; rather it extends the whole person. Indeed there is
+a certain parallel between the use of tools in production and the giving and receiving of
+gifts in exchange. The tool has an impact on raw material, as the gift has an impact on
+its recipient, only so long as it is animated by an intention that issues from the person of
+the user or donor. Divorced from the context of production, the tool reverts to its original
+condition as an inert object; likewise the gift is inert outside the social context of exchange
+(Mauss 1954[1925]: 10). Both tool and gift mediate an active, purposive engagement
+between persons and their environments.
+Returning to hunters and gatherers, we can ask how this mediation is effected in the
+context of their relations with their environments. As Robin Ridington (1982: 471) has
+pointed out, hunter-gatherers ‘typically view their world as imbued with human qualities
+
+Skill
+of will and purpose’. From their perspective, tools are like words: they mediate relations 1
+between human subjects and the equally purposive non-human agencies with which they 2
+perceive themselves to be surrounded. Thus the tool, as I showed in Chapter Four 3
+(p. 72), is a link in a chain of personal rather than mechanical causation, which serves to 4
+deliver intentional action and not merely physical or bodily force. Moreover, unlike 5
+herdsmen and farmers, whose tools are used to establish some degree of domination over 6
+their environments, hunters and gatherers do not regard their tools as instruments of 7
+control. Thus in hunting, it is commonly supposed that the animal gives itself to be killed 8
+by the hunter who, as a recipient, occupies the subordinate position in the transaction. 9
+The spear, arrow or trap serves here as a vehicle for opening or consummating a relation- 10
+ship. If the arrow misses its mark, or if the trap remains empty, it is inferred that the 1
+animal does not as yet intend to enter into a relationship with the hunter by allowing 2
+itself to be taken. In that way, the instruments of hunting serve a similar purpose to the 3
+tools of divination, revealing the otherwise hidden intentions of non-human agents in a 4
+world saturated with personal powers of one kind and another. In short, whereas for 5
+farmers and herdsmen, the tool is an instrument of control, for hunters and gatherers it 6
+would better be regarded as an instrument of revelation.
+This understanding that hunters and gatherers have of their relations with non-human 8
+components of their environments is fundamentally at odds with that basic premise of 9
+Western thought with which I began, that the destiny of humankind is to achieve domi- 20
+nation over nature. ‘In our traditional ways of thinking’, as Winner writes, ‘the concept of 1
+mastery and the master–slave metaphor are the dominant ways of describing man’s relation- 2
+ship to nature, as well as to the implements of technology’ (1977: 20). Viewed from this 3
+perspective, hunters and gatherers appear to be engaged in a struggle for existence which, 4
+on account of the simplicity of their material equipment, is not yet won. For them, nature 5
+remains untamed. Yet herein lies a paradox. For if technology implies the human control 6
+over nature, and if the condition of hunter-gatherers – or more generally of ‘primitive man’ 7
+– is the absence of such control, how can there be such a thing as ‘primitive technology’? 8
+Though the paradox is never stated so explicitly in the literature, the solution comes 9
+through clearly enough. It is to assume that hunter-gatherers are engaged in the operation 30
+of a system of forces which is none other than nature herself, viewed – characteristically, 1
+in Western eyes – as a vast, all-encompassing mechanism. Tied to the workings of this 2
+mechanism, they are regarded as subservient to nature in much the same way that, in 3
+the modern era, industrial workers are subservient to the artiﬁcially engineered machines 4
+of the factory. It follows that hunter-gatherer technology is seen to be grounded in the 5
+properties of the natural world just as Western technology is embodied in the artiﬁcial 6
+machine. Both delimit a set of production possibilities that are given prior to, and inde- 7
+pendently of, the persons of the producers. It is for this reason that the forces the 8
+hunter-gatherer operates are commonly denoted by the hybrid ‘techno-environmental’. 9
+Where for everyone else, technology is supposed to be on the side of Man against Nature, 40
+for hunters and gatherers it appears to be on the side of Nature against Man, revealing 1
+in its application the hegemony of natural law rather than the dominance of human society 2
+and its interests. This, incidentally, is a view shared equally by both advocates and oppo- 3
+nents of so-called ‘techno-environmental determinism’. Advocates argue that technology 4
+and environment together determine social form, opponents argue that social form is 5
+independent of techno-environmental constraint, but both take it for granted that ‘techno’ 6
+is something that is intrinsically linked to environmental conditions, rather than an 7
+imposition of society.
+
+Society, nature and the concept of technology • 321 •
+
+My solution to the problem of whether technology lies on the side of nature or human
+society is simply to dispense with the dichotomy, and with it the concept of technology
+that is predicated on this dichotomy. The paradox then promptly disappears. What we
+have in reality are human beings, living and working in environments that include other
+humans as well as a variety of non-human agencies and entities. Through their experiences of dealing with these various components of the environment, persons develop with
+speciﬁc aptitudes and sensibilities, that is as bearers of techniques. Reciprocally, through
+the deployment of their technical skills, people actively constitute their environments. But
+in this mutually constitutive interrelation between persons and environment there is no
+absolute dichotomy between human and non-human components. There are techniques
+for engaging with fellow humans just as there are techniques for engaging with the animals
+and plants on which life depends, or with materials such as wood, clay or stone in the
+making of equipment. Any or all of these techniques may involve the use of tools. However
+these tools, as I have shown, are intended not to control but to reveal. And they are used
+not in a failed attempt to achieve emancipation from an alien world of nature, but in a
+successful attempt to draw the inhabitants of that world into an unbounded sphere of
+intimate sociality.
+
+CONCLUSION
+Hunters and gatherers have secured their place in Western thought as the bearers of a
+simple technology, as representatives of the original baseline from which a gradual process
+of complexiﬁcation eventually culminated in the advanced technologies of the modern
+world. I have argued, to the contrary, that the concept of technology is itself a product
+of a modern machine-theoretical cosmology. One is inclined to see, in its indiscriminate
+extension to society at large, a particular instance of the more general anthropological
+fetishisation of culture, another Western concept which we have turned upon others as a
+mirror of our own superiority. People in ‘primitive’ or ‘traditional’ societies are made to
+appear as though their practical activities were entirely bound to the operation of technology, as their thought to the precepts of their culture, the one providing material support
+for the other. Technology and culture, twin pillars of the modern ideals of progress and
+enlightenment, conﬁne the rest of humanity to the monotonous execution of determining
+systems: as technology determines practice, so culture determines thought.
+Once the concept of technology is unpacked it is evident that its application distorts
+our understanding – above all of hunting and gathering societies – in the following ways:
+
+Technique is detached from the practical experience of human subjects and ascribed
+to the properties of an instrumental apparatus, of which people are but mechanical
+operators.
+Technical activity is partitioned off from social activity, and likewise production is
+separated from distribution as issuing from individuals and social persons respectively.
+Technical forces are grounded in an environment conceived as ‘nature’, an alien and
+dehumanised presence that seems to dictate the terms of accommodation.
+
+The principal conclusions of my argument are really two-fold. The ﬁrst, reinforcing my
+thesis in Chapter Fifteen, is that technical evolution has to be seen as a process not of
+complexiﬁcation but of objectiﬁcation and externalisation of the forces of production. The
+second, related conclusion is that in the course of this evolution, technical relations have
+
+Skill
+become progressively disembedded from social relations, leading eventually to the modern 1
+institutional separation of technology and society. The implications for anthropology are 2
+that we can no longer follow the Durkheimian precedent of taking this separation for 3
+granted, nor can the concept of technology remain immune from critical scrutiny. It is 4
+high time to restore technique to its rightful place alongside economy, politics, religion 5
+and kinship as a proper object of social anthropological inquiry.
+
+Tools, minds and machines • 323 •
+
+Chapter Seventeen
+
+Work, time and industry
+
+Much anthropological discussion is couched in terms of a pervasive opposition between
+‘Westerners’ and other, ‘non-Western’ people. Amongst other things, it is argued that
+Westerners have a speciﬁc attitude to time and work that is not shared by people in nonWestern societies. I want to propose here that while the concepts of time and work have
+indeed acquired speciﬁc meanings through their implication in such key historical transitions as the rise of capitalism and the growth of industrial manufacture, there is nevertheless
+a sense in which none of us are Westerners, and that the challenge that non-Western
+perspectives present to Western modes of apprehension exists at the very heart of our
+own society, in the mismatch between our shared experience of dwelling in the lived-in
+world and the demands placed on us by external structures of production and control
+that seem to leave only a residual space, divorced from culture and social life, where we
+can truly be ourselves.
+I shall proceed as follows. First, I consider the attitudes to work and time of people in
+‘traditional’ or pre-industrial societies who still retain a large measure of control over the
+rhythms of their working lives. For such people, I suggest, time is intrinsic to the array
+of speciﬁc tasks that make up the pattern of quotidian activity of a community. I go on
+to show how the formal logic of capitalist production undermines this task-orientation by
+establishing an absolute division, in principle, between the domains of work and social
+life. This division, however, does not naturally conform to experience but is rather enforced,
+to varying degrees, against a resistance founded in the inevitability of people’s mutual
+involvement in the concrete settings of practical activity. The very instruments – above
+all the industrial machine and the clock – that in theory serve to disengage the time and
+work of production from the current of social life, are in practice reappropriated by their
+operators in the process of production, not of commodities for the market, but of their
+own personal and social identities. To exemplify this point, I shall draw on some studies
+of one particular category of industrial workers, namely locomotive drivers. In conclusion,
+I argue that if we ﬁnd the time-awareness of people in societies other than our own hard
+to grasp, this is not because it is strange to our experience, but rather because the political, economic and ideological apparatus of the ‘West’, with its peculiar conjunction of
+individual freedom and clockwork necessity, has made us, in a sense, strangers to ourselves.
+
+TASK-ORIENTATION
+Speaking of people in so-called primitive societies, Cato Wadel has observed that what is
+characteristic of these societies ‘is not that activities we term as work are not conceptualised, but that these activities are conceptualised in association with social relations’ (Wadel
+
+Skill
+1979: 380). Or as Sahlins puts it, ‘a man works, produces, in his capacity as a social 1
+person, as a husband and father, brother and lineage mate, member of a clan, a village’ 2
+(1968: 80). To see an activity as thus embedded in a social relation is to regard it as what 3
+I shall call a task. And of all the manifold tasks that make up the total current of activity 4
+in a community, there are none that can be set aside as belonging to a separate category 5
+of ‘work’, nor is there any separate status of being a ‘worker’. For work is life, and any 6
+distinctions one might make within the course of life would be not between work and 7
+non-work, but between different ﬁelds of activity, such as farming, cooking, child-minding, 8
+weaving, and so on.
+The same point applies quite generally in the pre-industrial world (Godelier 1980). In 10
+Ancient Greece, for example, ‘we do not ﬁnd the idea of one great human function, work, 1
+encompassing all the trades, but rather that of a plurality of different ones, each consti- 2
+tuting a particular type of action with its own particular product’ (Vernant 1983: 272). 3
+Every artisan trade – with its speciﬁc instruments, raw materials and products, its tech- 4
+nical operations and the qualities required of its practitioners – was a separate system 5
+rather than part of an all-embracing division of labour. If there was any overarching divi- 6
+sion, it was not between work and leisure, but rather between the spheres of making and 7
+doing, poiesis and praxis, a division that subordinated the crafts of manufacture to the 8
+activities – including farming and warfare – of those who used the implements made.
+What holds for the generalised category of work holds also for that of time. It is 20
+commonly observed, in ethnographic accounts of non-industrial societies, that the people 1
+described lack any concept that would correspond exactly to the idea of time current in 2
+the West. Here, for example, is Evans-Pritchard, writing in a justly celebrated passage 3
+about Nuer pastoralists of southern Sudan:
+The Nuer have no expression equivalent to ‘time’ in our language, and they cannot, 6
+therefore, speak of time as though it were something which passes, can be wasted, saved, 7
+and so forth. I do not think that they ever experience the same feeling of ﬁghting 8
+against time or of having to co-ordinate activities with an abstract passage of time, 9
+because their points of reference are mainly the activities themselves, which are of a 30
+leisurely character. Events follow a logical order, but they are not controlled by an 1
+abstract system, there being no autonomous points of reference to which activities have 2
+to conform with precision. Nuer are fortunate.
+(Evans-Pritchard 1940: 103) 4
+Among the Nuer, then, as much more generally in the pre-industrial world, time is insep- 6
+arable from the everyday round of activities. It is not something objective and external, 7
+against which tasks may be measured or on which they can be located, since it has no 8
+existence apart from the tasks themselves. Thus for the Nuer, ‘the daily timepiece is the 9
+cattle clock, the round of pastoral tasks, and the time of day and the passage of time 40
+through a day are to a Nuer primarily the succession of these tasks and their relation to 1
+one another’ (pp. 101–2).
+We may speak, then, of a task-orientation in such societies, an orientation in which 3
+both work and time are intrinsic to the conduct of life itself, and cannot be separated or 4
+abstracted from it. If you want to say when something happened, you do so by relating 5
+it to another regular activity that took place concurrently – for example, ‘so-and-so arrived 6
+in the camp at milking time’. And if you want to say how long it took for something to 7
+happen, you do so by comparing it with how long something else takes. In a pioneering 118
+
+Work, time and industry • 325 •
+
+though now rather dated work on primitive time-reckoning, the Swedish anthropologist
+Martin Nilsson wrote that
+To indicate the duration of time, primitive peoples make use of other means, derived
+from their daily business, . . . in Madagascar, ‘rice-cooking’ often means half an hour,
+‘the frying of a locust’, a moment. The Cross River natives say: ‘The man died in less
+than the time in which maize is not yet completely roasted’, i.e. less than about ﬁfteen
+minutes; ‘the time in which one can cook a handful of vegetables’.
+(Nilsson 1920: 42)
+Likewise in a classic paper about which I shall have more to say presently, the historian
+E. P. Thompson notes that in Medieval England, duration could be expressed by how
+long it took to cook an egg, say a prayer, or (apparently) to have a pee – though this
+latter time-span, known as ‘pissing while’, does seem ‘a somewhat arbitrary measurement’
+(Thompson 1967: 58).
+I have spoken of tasks as socially embedded activities, but should pause to explain more
+precisely what I mean. First and foremost, tasks are activities carried out by persons, calling
+for greater or lesser degrees of technical skill. Machines do not perform tasks, but people
+do. Thus with a task-orientation the human subject, equipped with a competence acquired
+through practising alongside more experienced hands, is situated right at the centre of
+productive activity. Secondly, tasks are deﬁned primarily in terms of their objectives,
+without necessarily entailing any explicit codiﬁcation of the rules and procedures to be
+followed in realising them. And these objectives, far from being independently prescribed
+in the form of exercises in problem-solving (as in the entirely artiﬁcial tasks of ‘testing’
+in the school or psychological laboratory), themselves arise through the agent’s involvement within the current of social life. Thirdly, the particular kinds of tasks that a person
+performs are an index of his or her personal and social identity: the tasks you do depend
+on who you are, and in a sense the performance of certain tasks makes you the person
+who you are. And ﬁnally, tasks are never accomplished in isolation, but always within a
+setting that is itself constituted by the co-presence of others whose own performances
+necessarily have a bearing on one’s own. In other words, every task exists as part of what
+I have called a taskscape, understood as the totality of tasks making up the pattern of
+activity of a community (for an elaboration of this concept, see Chapter Eleven).
+Now if, in traditional societies, time is intrinsic to tasks, and if tasks are the technically skilled activities of particular persons with particular social identities, then it must
+follow that there can be no real distinction between work and social life, and moreover
+that time is the movement or ﬂow that inheres equally in both. What kind of time is
+this, that is thus inherent in the taskscape? Sociologists Pitrim Sorokin and Robert K.
+Merton, in a landmark paper dating from 1937, called it social time. I have already introduced this concept in Chapter Eleven (pp. 195–7), and will not elaborate further here
+save to stress again its inherent rhythmicity and its embeddedness in activities that are
+indexical of a person’s belonging to locality and community (Sorokin and Merton 1937:
+628). It is important to emphasise, too, that the rhythmic structure of social time emerges
+not only from the interweaving and mutual responsiveness of human movements, but also
+from the way these movements resonate to the cycles of the non-human environment.
+Traditionally, people had to fall in with the rhythms of their environment: with the winds,
+the tides, the needs of domestic animals, the alternations of day and night, of the seasons,
+and so on, in accordance with what the environment afforded for the conduct of their
+
+Skill
+daily tasks. As a song of the Kabyle peasant farmers of Algeria puts it: ‘It is useless to 1
+pursue the world, no-one ever overtakes it’ (Bourdieu 1963). Similarly in Ancient Greece, 2
+the work of farming was regarded as a form of participation in an order at once natural 3
+and divine, and the artisan who supplied the farmer with his tools worked to a design 4
+that was inscribed within this order, and that was revealed in the raw material rather than 5
+artiﬁcially superimposed upon it (Vernant 1983: 248–63). In short, the world opens itself 6
+out to the traditional artisan or farmer, in both its form and its temporal rhythms, through 7
+his or her action in it.
+The idea that human industry can run ahead of nature, and in so doing, transform it, 9
+belongs to the modern era of Western thought (Godelier 1980: 834). For the goal of 10
+modern technology has been to override the constraints of the natural world, to bring its 1
+forces under control, so that the rhythms of society can be brought into conformity with 2
+an imposed, artiﬁcially contrived schedule. Activities can now go on – as we say – ‘around 3
+the clock’. Developments in the ﬁelds of transport and communications have had a deci- 4
+sive impact in this regard, though probably no single innovation has been of greater 5
+consequence than the electric light. The effect was to instal a new kind of time as the 6
+dominant regulator of human activity. Corresponding to what Sorokin and Merton (1937: 7
+621) called astronomical or sidereal time, it is the time spun by the orbital motions of 8
+the planets, or by a perfectly functioning mechanical clock. As I shall now show, there is 9
+an intimate logical connection between this form of time and the estimation of work in 20
+terms of the generalised concept of labour.
+THE TEMPORAL LOGIC OF CAPITALIST PRODUCTION
+In 1967, E. P. Thompson published what has become a classic study of the effects of 5
+industrial capitalism on people’s attitudes to time and work. After reviewing a great deal 6
+of evidence, he concluded that ‘Mature industrial societies of all varieties are marked . . . 7
+by a clear demarcation between “work” and “life”’ (1967: 93). Of course he does not 8
+mean that workers are not alive when they work. The distinction being drawn here between 9
+living and working is really one between what we do, and what we are caused to do; 30
+between action that issues from ourselves as responsible social agents, and action that stems 1
+from the pressing of various trained capacities into the service of a project that is not ours 2
+but is subject to the dictates of an alien will. It is a corollary of this view that life in an 3
+industrial society is lived in the activities of consumption rather than production, in the 4
+ways in which people take possession of, and use, the goods acquired with the money 5
+they earn. This implies that to understand the processes of social life in such a society we 6
+have to focus above all on what people are doing in those periods of each day when they 7
+are not under contract to an employer – that is, ‘after business hours’ (Sahlins 1968: 80). 8
+The separation between the domains of ‘work’ and ‘social life’ is, in fact, a formal 9
+entailment of the logic of capitalist production. The deﬁning principle of capitalism is the 40
+alienation of labour-power – the need for a certain class of people, lacking direct access 1
+to the means to procure a livelihood, to sell or rent out their very capacity to work to 2
+an employer, who owns the means of production, in return for a money wage with which 3
+they can purchase the wherewithal for their subsistence. People who have thus sold their 4
+capacity to work, their labour-power, are conventionally identiﬁed (within this context of 5
+capitalist class relations) as ‘workers’, and the activities in which they engage during that 6
+period when their labour-power is under the command of an employer who has appro- 7
+priated it are likewise identiﬁed as ‘work’. In this situation, labour-power has become a 118
+
+Work, time and industry • 327 •
+
+commodity that, like other commodities, can be bought and sold. Moreover the worker,
+in person, is in principle divorced from the activity of production, since in that very
+activity his capacity to work is under the command not of himself but of an employer.
+It follows that the domain of work relations, in which the labour-powers of several workers
+are combined in the factory or on the shop ﬂoor, is quite distinct from the domain of
+social life, in which workers may relate to one another as persons: as members of communities and as occupants of social roles. This is not to say that there are no social relations
+in the workplace, or to deny that they may exist side by side with co-operation in the
+labour process. It is to claim, however, that social relations are not themselves constituted
+by such co-operation.
+How, following this formal logic, are we to understand the meanings of work and time
+in the context of industrial capitalism? Following the example of Marx (1930: 10–11),
+we might compare the work of the tailor with that of the weaver. Not only do they
+produce qualitatively different things (coats and linen), but also tailoring and weaving are
+activities of quite unlike kinds, calling for different skills, tools and materials. Yet as
+exchangeable commodities, we might neverthless ﬁnd that one coat is ‘worth’, say, twenty
+yards of linen. The value in which this worth consists cannot be in any way particular to
+coats, linen or anything else. It is rather value-in-general, a kind of worth that is common
+to all commodities but peculiar to none. Conventionally such value is expressed in terms
+of money, for money is a special kind of commodity that has no other use than as a
+medium of exchange. But by the same token, it should in principle be possible to compare
+tailoring and weaving, not as qualitatively different kinds of activity, but as varying amounts
+of ‘activity-in-general’. So what is this activity: the lowest common denominator of all
+productive tasks that is nevertheless particular to none?
+Marx, rather misleadingly, called it ‘abstract social labour’. That labour is an abstraction, of the same order as value-in-general, is not in doubt. Yet what are relegated in the
+abstraction are precisely those situationally speciﬁc features of the practical contexts of
+engagement, with persons and materials, in which skills are acquired and deployed. The
+work of the tailor can be considered substitutable for that of the weaver only by cutting
+it out from the matrix of social relations within which it takes on its speciﬁc form. That
+speciﬁc, socially embedded form is what I have called a task. Now I have already observed
+that tasks do not exist in isolation but only as part of an interlocking array, a taskscape.
+Like the array of useful things (or use-values) that ordinarily clutter any inhabited environment, the taskscape is qualitative and heterogeneous (see Chapter Eleven, pp. 194–5).
+Labour, by contrast, like value-in-general, is quantitative and homogeneous. And in the
+reduction of the one to the other, effected by the logic of capitalist relations, the sociality
+of work is dissolved.
+What, then, is the common measure by which different tasks may be reckoned to represent equivalent amounts of labour? The answer, of course, is time; but it is time of a
+particular sort – sidereal rather than social, to recall Sorokin and Merton’s (1937) distinction. Now a certain task, say in weaving, will lead to the production of a particular object
+or use-value, say a length of linen. But if the work of the weaver is regarded not as a
+speciﬁc kind of task but as a determinate amount of labour, it will be represented in
+hours. And likewise, if the linen is regarded not as a speciﬁc kind of object but as a determinate amount of value, it will be represented in currency. Consequently, a certain time
+of labour has produced a certain moneysworth of goods. Or in short, time is money.
+The phrase ‘time is money’, with its implication that time is something that can be
+spent or saved, used proﬁtably or wastefully, hoarded or squandered, is a product, then,
+
+Skill
+of the commodiﬁcation of labour that accompanied the rise of industrial capitalism (for 1
+some of its metaphorical ramiﬁcations, see Lakoff and Johnson 1980: 7–9). Among the 2
+ﬁrst to use the phrase was Benjamin Franklin, himself one of the major architects of the 3
+view of man as Homo faber, or nature-transformer. In 1751 he related the following story: 4
+Since our Time is reduced to a Standard, and the Bullion of the Day is minted out 6
+into Hours, the Industrious know how to employ every piece of Time to a real Advantage 7
+in their different Professions. And he that is prodigal of his Hours, is, in effect, a squan- 8
+derer of Money. I remember a notable Woman, who was fully sensible of the intrinsic 9
+Value of Time. Her husband was a shoemaker, and an excellent Craftsman, but never 10
+minded how the Minutes passed. In vain did she inculcate to him, That Time is Money. 1
+He had too much Wit to apprehend her, and it prov’d his ruin. When in the Alehouse 2
+among his idle Companions, if one remark’d that the Clock struck Eleven, What is 3
+that, says he, among us all? If she sent him Word by the Boy, that it had struck Twelve; 4
+Tell her to be easy, it can never be more. If, that it had struck One, Bid her be comforted, 5
+for it can never be less.
+(cited in Thompson 1967: 89) 7
+Let me recapitulate the argument in brief. With industrial capitalism, labour becomes 9
+a commodity measured out in units of time, goods become commodities measured out 20
+in units of money; since labour produces goods, so much time yields so much money, 1
+and time spent in idleness is equivalent to so much money lost. The result is not only a 2
+demarcation between work (time that yields money) and leisure (time that uses it up), 3
+but also a characteristic attitude to time as something to be husbanded. Thompson calls 4
+this attitude ‘time-thrift’ (1967: 83–4).
+TASKS, LABOUR AND LEISURE
+Thompson’s thesis is that with the rise and maturation of industrial capitalist society, the 9
+task-oriented time of pre-industrial rural and urban life was gradually replaced by a regu- 30
+lation of production governed by the clock. In Sorokin and Merton’s terms, this represents 1
+a transition from ‘social time’ (equivalent to Thompson’s task-oriented time) to ‘sidereal 2
+time’ (equivalent to Thompson’s clock time).
+Task-orientation, as I have already mentioned, is person-centred, so that the experience 4
+of time is intrinsic to the performance of skilled activity. But with the rise of capitalist 5
+industry, so the theory goes, the person is withdrawn from the core to the margins of the 6
+labour process, and hence also the time inherent in personal experience and social life is 7
+disembedded from the time of work or production. This latter kind of time thus appears 8
+objective and impersonal, extrinsic to social relations, and governed by laws of mechan- 9
+ical functioning that have no regard for human feeling. It is, of course, the time of 40
+the clock. For just that reason, Lewis Mumford famously claimed that the clock was the 1
+archetypal machine, and that it was the clock rather than the steam engine that heralded 2
+the birth of the machine age (Mumford 1967: 286). For the aim of the industrial 3
+employer, having appropriated the labour-power or capacities to work of his employees 4
+(for a given number of hours each day), is to put together these capacities – on the factory 5
+ﬂoor or assembly line – into an efﬁcient, working mechanism. And he does so by subjecting 6
+their operations to a precise and impersonal clockwork regimen. In many industries, such 7
+regimens of work were in place long before the advent of machine automation.
+
+Work, time and industry • 329 •
+
+But the identiﬁcation of the sphere
+‘Free time’
+of production with the ascendancy of
+clock time generates the expectation
+TIME:
+Task-oriented
+vs.
+that the alternate sphere of consumptime (social)
+tion should be identiﬁed with a quite
+different kind of time, precisely
+Clock time
+(sidereal)
+opposed to clock time as individual
+freedom is opposed to mechanical conLeisure
+straint. This is what is colloquially
+(private)
+called ‘free time’, and it is the time
+associated with what we call ‘leisure’
+ACTIVITY:
+Tasks
+vs.
+(work = life)
+when this is deﬁned by its contrast to
+work. Free time is the time we experiWork
+ence (or rather, think we experience)
+(public)
+when we turn inwards on ourselves in
+the hedonistic pursuit of purely indiArt (individual
+creativity)
+vidual satisfactions: it is the time of that
+archetypal creature of neoclassical eco¯
+PRODUCTION: Tekhne/Ars
+vs.
+nomics, the isolated consumer. In real(art = skilled
+practice)
+ity, of course, this creature is a ﬁgment
+Technology
+of the imagination, for no-one con(mass production)
+sumes in isolation. For the same reason,
+free time is not so much something we
+‘Pure gift’
+actually experience as a category by
+which our experience is discursively
+EXCHANGE:
+Prestation
+vs.
+represented, in contexts where we wish
+to draw attention to the space of our
+Market mechanism
+own private and subjective selfhood as
+against the regulative structures of
+DWELLING
+COMMODITY
+public life whose temporality is epitoPERSPECTIVE
+PERSPECTIVE
+mised by the clock.
+The individual, in this discourse, is
+supposedly caught in a perpetual oscil- Figure 17.1 The opposition between the dwelling perspective and
+lation between work in the public the commodity perspective in the spheres of time, activity, producdomain of production and leisure in tion and exchange.
+the private domain of consumption.
+Regulated by clock time in the former,
+he or she retreats into the sanctuary of free time in the latter. In a society dominated by
+the impersonal structures of the machine and the market, the sphere of leisure seems to
+offer a residual space for the spontaneous and purely individual expression of selfhood.
+Moreover the oppositions between work and leisure, and between clock time and free
+time, have exact homologues in other ﬁelds. There is a close connection, for example,
+between the ideally spontaneous expression of selfhood and the modern Western notion
+of artistic creativity, which is likewise opposed to the industrial technology of mass production as novelty is opposed to replication. And in the ﬁeld of exchange, the privacy and
+spontaneity of the self is closely linked to the ideology of the ‘pure gift’, as an expression
+of individual feeling, by contrast to the impersonal ‘market mechanism’ regulating the
+exchange of commodities. Thus gifts are to commodities as art is to technology, as leisure
+
+Skill
+is to work, as free time is to clock time. This series of oppositions is depicted in the right 1
+hand column of Figure 17.1.
+What, then, has been the fate of task-oriented time in industrial society? Has it given 3
+way to an exhaustive division between free time and clock time? Before beginning to 4
+answer this question, we should note that the task-orientation of traditional societies also 5
+has its homologues in other ﬁelds. Thus in the ﬁeld of production, the traditional notion 6
+of art as socially situated skilled practice, epitomised by the classical Greek tekhnē, and by 7
+its Latin equivalent ars, preceded the subsequent bifurcation into the opposed notions of 8
+art and technology, just as the classiﬁcation of activities by task preceded the division 9
+between leisure and work. And the prestations of traditional societies, about which Mauss 10
+wrote so eloquently in his Essay on the Gift (1990[1950]), are neither spontaneous expres- 1
+sions of individual generosity nor market-regulated contracts but have as their objective 2
+the production of social relations in community. It is possible, therefore, to argue for an 3
+evolutionary progression, from a traditional state of affairs in which work is inseparable 4
+from life, and characterised by task-orientation with its attendant socially situated skills 5
+and prestations, to a modern condition in which every aspect of human life is split by a 6
+master dichotomy between freedom and necessity, to yield the series of oppositions spelled 7
+out above. Figure 17.1 summarises this argument.
+I propose here to argue to the contrary. I do not believe that task-orientation has dis- 9
+appeared with the transition to industry: it persists, perhaps especially in those contexts 20
+in which we claim to be ‘at home’. Indeed, one way of delineating the meaning of ‘home’ 1
+in our society might be as a domain in which activities are thought of primarily in terms 2
+of tasks. But the very ambiguity of this concept suggests two possible approaches to the 3
+continuing signiﬁcance of task-orientation in industrial society. On the one hand, home 4
+may be thought of as a domain of activity that has remained relatively impervious to capi- 5
+talist relations of production – a relic of the householding economy of the pre-industrial 6
+era kept alive by capitalism for the purposes of reproducing the labour force. On the 7
+other hand, home may represent a certain perspective on the world, which I have called 8
+the perspective of dwelling. Its focus is on the process whereby features of the environ- 9
+ment take on speciﬁc local meanings through their incorporation into the pattern of 30
+everyday activity of its inhabitants. Home, in this sense, is that zone of familiarity which 1
+people know intimately, and in which they, too, are intimately known. As such, it encom- 2
+passes all the settings of everyday life: whether the house, street, neighbourhood, or place 3
+of work.
+Of the two approaches suggested by these alternative meanings of ‘home’, one entails 5
+a qualiﬁcation of the evolutionary argument, the other a more radical critique. I shall start 6
+with the ﬁrst and then move on to the second, with which I identify my own position. 7
+TIME AND EXPERIENCE IN THE HOUSEHOLD AND THE WORKPLACE
+The domain of householding, although by no means conﬁned within the four walls of 1
+the house or dwelling, was until quite recently (though less so today) centred upon the 2
+ﬁgure of the housewife, who certainly used to enjoy no division between work and leisure. 3
+For her, work was indeed life, and consisted in a multitude of tasks of child-rearing and 4
+domestic maintenance. Moreover unlike the industrial worker, the housewife remained 5
+formally in command of her own working capacity: although her work was necessary 6
+and unavoidable, often punishing in its demands of energy and endurance, it was not 7
+done under external imposition. Thus the housewife and her sense of time, as Thompson 118
+
+Work, time and industry • 331 •
+
+recognises, hold out as exceptions to his general thesis, which correlates the rise of industrial capitalism with a one-way transition from task-oriented to clock time:
+Despite schooltimes and television times, the rhythms of women’s work in the home
+are not wholly attuned to the measurement of the clock. The mother of young children has an imperfect sense of time and attends to other human tides. She has not yet
+altogether moved out of the conventions of ‘pre-industrial’ society.
+(1967: 79)
+Here, then, is the qualiﬁcation: notwithstanding industrialisation, task-orientation continues to thrive in the domestic domain, as a kind of survival from the pre-industrial age,
+albeit one that is destined to disappear in due course.
+If this qualiﬁcation is accepted, then so long as the household continues to be a focus
+for social reproduction, we need to consider the dialectical interplay between the taskoriented time of the home and the clock time of activities in the workplace. There are
+two points about this that we can note immediately. First, the distinction falls – or at
+least used to fall – to some extent along lines of gender and generation, with women and
+children more committed to task-oriented time and men more committed to clock time.
+In the past, an obvious indication of this was that men, and not women and children,
+carried clocks or watches. If a woman or child wanted to know what the time was by
+the clock, they had to ask a man. Secondly, there can be scheduling conﬂicts between the
+two kinds of time which can cause quite severe disruptions within the household. The
+routine of domestic and community tasks has to fall in with local environmental conditions, whereas industries and bureaucracies run to a universal clock time which can
+co-ordinate production, transport and commerce on a national or even international scale,
+but only at the expense of riding roughshod over local variations. Below, I shall present
+an example of the problems that can arise in this connection, concerning the family life
+of locomotive drivers.
+Is the incongruence between task-oriented and clock time, as the qualiﬁed evolutionary
+argument outlined above suggests, conﬁned to the household – or, more broadly, to the
+local community? Has task-orientation been banished by the inexorable logic of the capitalist mode of production from the workplace? Is it really so, as theory dictates, that
+workers lose touch with the rhythms of their own bodies as soon as their physical powers,
+placed in the service of capital, are subordinated to the imposed, mechanical regimen of
+the production line? In his discussion of the alienation of labour under capitalism, included
+in the Economic and Philosophic Manuscripts of 1844, Marx protested with all the rhetorical force he could muster that this is indeed the case. Having surrendered his capacity
+to work to an employer, the worker ‘only feels himself outside his work, and in his work
+feels outside himself. He is at home when he is not working, and when he is working he
+is not at home’ (1964: 110). Now by ‘home’, Marx clearly meant something more than
+a person’s place of abode. Setting off to work in the morning, a man not only leaves his
+dwelling but also, in a much stronger sense, ceases to dwell. He is not himself: as his
+activity no longer belongs to him, so too he is a stranger to the world whose forms and
+meanings are created through this activity.
+Viewed from the perspective of the factory owner, workers may indeed appear as no
+more than extensions of the total apparatus of production, and their activity as the mere
+operation of a set of mechanical principles – that is, a technology – embodied in the
+construction of the machinery employed. This, as we saw in Chapter Fifteen, was the
+
+Skill
+image that Marx invoked when he spoke of operatives as being treated like ‘living 1
+appendages’ of the ‘lifeless mechanism’ of the factory (Marx 1930: 451). The experience 2
+of the workers themselves, however, is a different one. For in their concrete presence, 3
+machines are substantial components of the immediate environment, and engaging with 4
+them is an inevitable part of the business of everyday coping in the world. Thus rather 5
+than simply operating a technology, the activity of industrial workers consists in coping 6
+with machines. And viewed in this light, such activity not only belongs to them, but also 7
+calls for a good measure of skill, of a kind that can only be acquired through experience 8
+on the job. Moreover it is through the development of skills of coping that workers are 9
+able to resist the impositions of a regime of command and control that would seek to 10
+reduce their activity to nothing more than the operation of an external system of produc- 1
+tive forces. It is true that the machinery that workers are required to operate may – on 2
+account of its noise, heat, vibration or whatever – strain the human body to its limits 3
+of tolerance. However, despite Marx’s claim to the contrary, the worker does not cease 4
+to dwell in the workplace. He is ‘at home’ there. But home is often a profoundly uncom- 5
+fortable place to be.
+I have already observed that machines do not perform tasks; only people do. The oper- 7
+ation of technology, with or without inputs of human labour-power, is a machine 8
+performance. Coping with machines, on the other hand, entails a multitude of tasks, 9
+calling for speciﬁc aptitudes and sensibilities, which occupy the attention of workers on 20
+the shop ﬂoor. It is as persons, not as units of labour-power, that they engage with the 1
+industrial equipment around them, and the meanings that this equipment holds for them 2
+arise within the context of that engagement. Here, then, we rediscover task-orientation at 3
+the very heart of industrial production, in the workplace. For this discovery, I am indebted 4
+to François Sigaut, who has pointed out that as fast as machines have been contrived to 5
+do what had previously been done by skilled hands, different skills have sprung up for 6
+handling the machines themselves. He calls this the ‘law of the irreducibility of skills’, in 7
+the light of which ‘the entire history of technics . . . might be interpreted as a constantly 8
+renewed attempt to build skills into machines by means of algorithms, an attempt 9
+constantly foiled because other skills always tend to develop around the new machines’ 30
+(Sigaut 1994: 446). For precisely the same reason, task-orientation is indestructible. And 1
+everything I have said about tasks in general applies more speciﬁcally to the skilled handling 2
+of industrial machines in the process of coping. It is person-centred, it follows implicit 3
+‘rules of thumb’ rather than explicitly codiﬁed procedures, its objectives are set within the 4
+current of activity among all those involved in the work situation rather than following 5
+directives laid down from above, it is continually responsive to the other activities that 6
+are going on around it, and – most importantly – it is constitutive of personal and social 7
+identity.
+In short, whereas the operation of technology produces commodities for the owner of 9
+capital, coping with machines is part of the process of producing the worker as a skilled 40
+social agent. The same activity may be viewed from both perspectives, but it is the latter, 1
+grounded in the lived experience of engagement with the material paraphernalia of industry, 2
+that is the perspective of dwelling. And in the incongruence between these perspectives, 3
+of dwelling and commodity production, lies also the tension between the time of tasks 4
+and of the clock. We are inclined to speak of workers on an assembly line as being 5
+subjected to the regimen of clock time, while forgetting that the mechanism of the clock 6
+drives only the hands on its face, not the hands of the workers whose routine it allegedly 7
+controls. The ability to co-ordinate one’s movements with the passage of time as measured 118
+
+Work, time and industry • 333 •
+
+by the clock is an acquired skill, and the co-ordination is itself a task that is carried on
+alongside all the other tasks of social life. Clocks are a ubiquitous feature of the environment of people in industrial society, who have to learn to cope with them, just as they
+must cope with other kinds of machines. But the time intrinsic to the experience of coping
+with clocks is not itself clock time. We may seek to attune our activity so that it resonates
+with the repetitions of the clock, or to gain an intuitive ‘feel’ for hours, minutes and
+seconds, but that does not turn our bodies into pieces of clockwork.
+Having recognised that task-orientation is no mere survival from the pre-industrial age,
+but that it ﬂourishes at the core of industrial production in workers’ activities of coping
+with machines, the way is open for an analysis of industrial society couched in terms of
+the concepts listed in the left hand column of Figure 17.1. In particular, we can note
+that exchanges in the workplace, involving mutual assistance or co-operation in the tasks
+of coping, are conducted between persons, and that as such – like the customary prestations of traditional societies – they are constitutive of social relations instead of distinct
+from them. One might even argue, following the lead of Mauss rather than Marx, that
+the relations among factory workers resemble those of gift exchange:
+When such employees transact with one another as part of their work, they are morally
+obligated to do so and are transacting not as individuals but as parts of a social web
+that identiﬁes them and their relationships and obligations to one another. Furthermore,
+the objects and services that employees transact with one another remain linked with
+the employees, because workers and what they transact have identities based on their
+places within the encompassing ﬁrm.
+(Carrier 1992: 202–3)
+The implication of my argument, however, is that the dynamic of industrial society can
+be understood neither from the dwelling perspective represented by the left-hand column
+of Figure 17.1, nor from the commodity perspective represented by the right-hand column.
+It lies instead in the dialectical relation between these two perspectives.
+In terms of the geometry of the ﬁgure, people in industrial society are caught in a ‘horizontal’ oscillation, not in a ‘vertical’ one, but it is an oscillation that incorporates the
+whole series of dichotomies in the right-hand column as one of its poles. From one
+perspective there is free time and clock time, from the other all time is task-oriented.
+From one perspective there is work and leisure, from the other all life consists of tasks.
+From one there is creative art and the operation of technology, from the other, skilled
+practices. And from one there are pure gifts and market contracts, from the other, socially
+situated prestations. But the move from left to right does not represent an evolutionary
+transition from tradition to modernity. The dwelling perspective has not been replaced by
+the commodity perspective. Indeed the whole thrust of my argument is to the contrary
+– namely that task orientation, with its attendant socially situated skills and prestations,
+is the primary condition of our being at home in the world. As such, it constitutes the
+baseline of sociality upon which the order of modernity has been built, and from which
+we have now to come to terms with it.
+
+THE LIFE AND TIMES OF LOCOMOTIVE DRIVERS
+I should like to exemplify some of the points made above by referring brieﬂy to studies
+of one particular category of industrial workers – namely, locomotive drivers. They were
+
+Skill
+the subject of a classic paper by the American sociologist W. F. Cottrell, published in 1
+1939 under the title ‘Of time and the railroader’. Cottrell paints a vivid picture of how 2
+the railroader is a slave to time. The railway system is, in effect, an extension of the 3
+assembly line of the factory; for example in automobile manufacture the various compo- 4
+nents may have to be brought from widely dispersed parts of the country, and if any one 5
+of these supply lines breaks down the entire operation founders. The stakes, then, are 6
+high, and everything depends on precise timing. Though at the time when Cottrell was 7
+writing, United States law stipulated that every engineer should have 8 hours’ rest out of 8
+every 24, for the remaining 16 hours of each day he was constantly on call. Wherever he 9
+went he carried a watch, which was required to be checked for accuracy twice a year. The 10
+result, Cottrell writes, was an ‘intense time-consciousness that marks the railroader in all 1
+his social relationships’ (1939: 195).
+But this very commitment made it difﬁcult for the railroader to engage in any social 3
+relationships beyond those of the immediate family. Being constantly on call, he could 4
+not time-plan for other relationships. Frederick Gamst, in a more recent study of American 5
+railroad engineers (‘hogheads’) that conﬁrms many of Cottrell’s ﬁndings, vividly depicts 6
+the uncertainties of one of his informants, Slim Rogers, about participation even in family 7
+events. Would he be able to watch his son in a crucial baseball game?
+As usual, the hoghead promised nothing but said he would have to see how close he 20
+would be to his call, if he were not already on the road . . . Regrettably he had already 1
+missed his oldest son’s graduation from junior high; maybe he would be able to make 2
+it for the graduation of the younger one. The only thing Slim could depend on was 3
+attending his own funeral, as he was once told by an old hoghead at the top of the 4
+seniority list. ‘Then you’ll have all the time in the world, Sonny,’ the old head remarked. 5
+(Gamst 1980: 113) 6
+By and large, then, the railroader’s leisure activities were limited to solitary, individual 8
+recreations that called for no collaboration with others. But precisely because the ﬁeld of 9
+his social relations was perforce so limited, the signiﬁcance of close family ties was for 30
+him exceptionally great, so that his home life – when he was at home – was lived with 1
+a peculiar intensity.
+Relations with the local community, partially mediated by the children of the family, 3
+were conducted almost entirely by the railroader’s wife. For her, the family represented 4
+not a domain of retreat into privacy and solitude, but a point of entry into a wider 5
+network of community ties. But she would frequently experience scheduling conﬂicts 6
+between the demands of the children and of community affairs on the one hand, and her 7
+obligations towards her husband on the other. They might, for example, call for quite 8
+different mealtimes.
+It would seem, in this example, that the railroader is oscillating between work and 40
+leisure, between the public clock time which regulates the railway system and the free 1
+time experienced in the privacy of his home or in the solitude of individual recreation. 2
+The housewife, on the other hand, perceives time as task-oriented and founded in the 3
+social relations of household and community. And the demands of the community do 4
+not necessarily coincide with those of the clock. All of this conforms rather neatly with 5
+the qualiﬁed evolutionary model, as elaborated in the previous section. The reality, 6
+however, may not be that simple. Two more recent studies of railway workers offer some 7
+clues as to why this should be so.
+
+Work, time and industry • 335 •
+
+The ﬁrst is by L. S. Kemnitzer, who speaks from his own experience as a railroad
+conductor in the mid-sixties, some 35 years after Cottrell was writing. He found that, by
+then, railroad workers no longer identiﬁed so closely with the temporal values of the work.
+That is, the importance of time-keeping for the operation of the railroad system was not
+matched by an ‘intense time-consciousness’ of the kind Cottrell had described. The reason
+for this lay in a general loss of identiﬁcation with the job, resulting from rationalisation
+and automation – including the use of diesel engines, computer programming and radio
+communication. Thus while the accuracy of timing continued to be as important as ever,
+most personnel were no longer required to carry watches, and these were less regularly
+checked. However Kemnitzer goes on to emphasise the continuing importance of quite
+another sense of time, one tied closely to speciﬁc tasks and the embodied skills necessary
+to carry them out. This, so-called ‘switching time’ lies in the ‘ability to integrate time,
+distance, and subjective estimates about weight, slope and speed in making decisions about
+the movement of cars and engines in switching’ (Kemnitzer 1977: 27). Birgitta Edelman’s
+study of shunters in a Swedish railway yard similarly stresses the importance of skilful
+estimations and perfect timing in allowing the work to ‘ﬂow’ without accident (Edelman
+1993). But here, rationalisation had proceeded still further. According to a new and controversial regime, the engines themselves were to be operated by remote control by a shunter
+standing beside the tracks!
+Now the kind of timing to which Kemnitzer and Edelman refer is clearly integral to
+the railway workers’ acquired skill of coping with heavy and potentially dangerous vehicles. Indeed ‘switching time’ sounds surprisingly similar to the Ancient Greek concept of
+kairos, the moment that must be seized, in the skilled work of the artisan, when ‘human
+action meets a natural process developing according to its own rhythm’ (Vernant 1983:
+291). According to Vernant:
+In intervening with his tools, the artisan must recognize and wait for the moment when
+the time is ripe and be able to adapt himself entirely to circumstances. He must never
+desert his post, . . . for if he does the kairos might pass and the work be spoiled.
+(1983: 291–2)
+Thus switching time, like the kairos, belongs to a task-orientation – we could almost say
+that it is part of the tekhnē of shunting. And as Edelman’s study reveals, it is threatened
+by the relentless march of automation. Yet according to Kemnitzer, the process of automation had already brought about the demise of the ‘intense time consciousness’ described
+by Cottrell. Was not this time consciousness, too, part of a task-orientation, part of the
+railroader’s ability to cope with the demands of his work?
+I believe we misunderstand the railroader’s sense of time if we equate it with the subjection of his movements, while on the job, to the mechanical determination of the clock.
+Were they so determined, he would have no need to carry a watch. What distinguished
+the experienced railroader was his practised ability to co-ordinate his movements with the
+indications of his timepiece. He had to be able to catch the right moment to accelerate
+or apply the brakes, or to judge his speed on a stretch of track, so as to arrive or depart
+safely and precisely on schedule. This was an acquired skill, and one moreover that was
+highly valued. The railroader’s peculiar capacity to ‘keep time’ with a precision unmatched
+by practitioners of other trades conferred on him an identity that, as Cottrell notes, singled
+him out in all his relationships, both within and beyond the ﬁeld of his employment.
+And the watch, as the symbol of this identity, was an object of lavish care and attention
+
+Skill
+(Cottrell 1939: 190). In the eyes of management, to be sure, the railroad system was 1
+conceived as a total technology which, in principle, should run with the predictability of 2
+clockwork, and employees were treated merely as means towards that end. But in the 3
+experience of the railroader, the watch and its temporal intervals were incorporated and 4
+accorded signiﬁcance within an essentially task-oriented approach to the practical business 5
+of driving trains. Time consciousness belonged to the railroader’s tekhnē.
+TIME AND THE OTHER IN INDUSTRIAL SOCIETY
+There exists, in the Western anthropological imagination, a speciﬁc category which is 10
+reserved for people whose form of life is considered to be most perfectly opposed to that 1
+of the inhabitants of modern industrial societies. This is the category of ‘hunter-gatherers’. 2
+According to one rather Arcadian vision of hunter-gatherer society, recently introduced 3
+into anthropology under the rubric of ‘the original afﬂuent society’ (Sahlins 1972: 1–39), 4
+their wants are few, and can be satisﬁed with little work, leaving ample time for leisure, 5
+rest and sleep. People work erratically, and on average for no more than three or four 6
+hours each day. Lacking foresight or any care for the future, hunters and gatherers consume 7
+whatever they have to hand, without trying to ration, save or store. They have, it would 8
+appear, made an institution out of indolence.
+Now Sahlins’s account of hunters and gatherers echoes, almost word for word, the senti- 20
+ments of the English gentry, in the early days of capitalism, towards the labouring classes 1
+– likewise notorious for their alleged indolence and proﬂigacy, their irregular hours, and 2
+their propensity to spend whatever they had on instant merriment, gambling or drunk- 3
+enness. What these two cases have in common – the twentieth-century American 4
+anthropologist regarding the hunter-gatherer and the eighteenth-century English gentleman 5
+regarding the labourer – is that in both, a way of life is being evaluated in terms of a 6
+standard that measures work in hours, and that imposes a clearcut division between work 7
+and leisure. On these criteria it is found to be wanting. Indeed to people who are accus- 8
+tomed, as many of us are, to labour timed by the clock, the attitudes to work and time 9
+of allegedly traditional or ‘primitive’ folk, who are not, are almost bound to appear ‘wasteful 30
+and lacking in urgency’ (Thompson 1967: 60).
+Yet contemporary captains of industry are still inclined to make surprisingly similar allega- 2
+tions about the incorrigible laziness and inefﬁciency of working people. To give just one 3
+illustration, I return to the ethnography of railway workers, in this case from Britain. I refer 4
+to Ken Starkey’s (1988) analysis of an industrial dispute between British Rail and ASLEF 5
+(the Association of Locomotive Engineers and Firemen). The dispute, which concerned 6
+ﬂexible rostering, was not about the duration of the working day – for in this regard there 7
+was no further scope for reduction – but about the intensity of work while on the job. The 8
+problem was that the Union was committed, by a time-honoured agreement, to the idea of 9
+a ﬁxed eight-hour day. British Rail, however, wanted to introduce some ﬂexibility in the 40
+length of the working day so that a man might be working more than eight hours on some 1
+days, less than eight on others – though with no more and probably fewer hours overall. 2
+The rationale for the proposed change was to try to reduce the ‘porosity’ of the working 3
+day, that is, the length of time during which a man might not, in fact, be doing anything 4
+but waiting around for the next train. Thus under existing arrangements, the average actual 5
+working time for an 8-hour shift was only 3 hours 20 minutes. Flexible rostering would 6
+increase the proportion of working time to waiting time within a shift, and by thus reduc- 7
+ing the porosity of the working day would raise productivity. Why, then, did ASLEF object? 118
+
+Work, time and industry • 337 •
+
+Quite apart from the fact that it would increase the intensity of work, ASLEF’s main
+objection was that ﬂexible rostering would leave men with much less control than before
+over the scheduling of their personal and social lives. Like the drivers described by Cottrell,
+who worked to a 16-hour limit but were liable to be called up at any time, ASLEF feared
+that ﬂexible rostering would undermine railwaymen’s ability to time-plan their own relationships outside work, and so would make their social life intolerable. At issue, then, was
+not the amount of time outside work, but control over the timing of this time.
+In effect, the dispute focused on two ways of looking at time which are by now familiar
+from my previous discussion. These are the dwelling and commodity perspectives. In the
+commodity perspective, epitomised by the phrase ‘time is money’ and represented by the
+right-hand column of Figure 17.1, time is seen as a quantity to be budgeted, with a
+clearcut demarcation between work and leisure. Not only did British Rail management
+hold to this view themselves, they also attributed it to their Union opponents, assuming
+that their strategy was devised to produce a deal which would give them either more
+leisure for the same pay, or more pay for the same number of hours of work. For ASLEF,
+to the contrary, what mattered was the qualitative aspect of time and its signiﬁcance for
+social life. Thus ASLEF’s objections to the intensiﬁcation of time use rested more on
+moral than on economic criteria. On the one hand they perceived the attempt to increase
+the intensity of time use during the working day as a threat to the traditional conception
+of locomotive driving as a skilled, almost craft-like activity which, by its very nature,
+involves a quality of time that is not uniform or homogeneous. On the other hand, they
+saw the attempt to introduce ﬂexible rostering as a threat to their own social and community lives. In short, theirs was an approach ﬁrmly located in the dwelling perspective,
+represented by the left-hand column of Figure 17.1.
+It would perhaps be a little far-fetched to conclude that ASLEF demonstrated a typically hunter-gatherer approach to work and time. Nevertheless, there is more than a passing
+similarity between Sahlins’s portrayal of the intermittent, stop-go pattern of work in
+hunter-gatherer communities, and British Rail’s view of its drivers, as spending the greater
+part of the working day waiting (chatting, resting, playing cards, drinking cups of tea)
+between trains. In terms of the actual number of hours worked – if any meaning can be
+given to such measurements – there is not much difference. It would seem, then, that
+the opposition between the ‘West’ and the ‘Other’ has its source rather closer to home
+than we might have imagined, and that we do not even have to leave the bounds of our
+own society in order to discover the challenge presented by supposedly non-Western
+perspectives to the dominant categories of Western thought. It would be fair to identify
+these latter categories – including the dichotomies between freedom and necessity, leisure
+and work, art and technology, the pure gift and the market mechanism, and free time
+and clock time – with the commodity perspective. However it would be quite wrong, as
+I have already shown, to conclude that life in modern industrial societies is conﬁned to
+an oscillation between the poles of these dichotomies – that is, to the right-hand column
+of Figure 17.1.
+An indication of this lies in our response to Evans-Pritchard’s depiction of Nuer time,
+which I cited at the outset. When he tells us that for Nuer, time inheres in the round of
+daily tasks and their relations to one another, we do not ﬁnd this strange or exotic. To
+the contrary, I am sure his words strike in most readers a deep chord of familiarity. We
+know exactly what he is talking about, because we have all experienced it ourselves,
+embedded in our memories of childhood, family, home and community. It is not only
+the basis of our sense of belonging, but also something we value very highly. ‘Nuer are
+
+Skill
+fortunate’, says Evans-Pritchard, and we are quick to agree, wishing that we, too, were 1
+not harried by the regimen of the clock. In a sense, clock time is as alien to us as it is 2
+to the Nuer; the only difference is that we have to contend with it. If we differ from the 3
+Nuer, then, it is not because they have a task-orientation and we do not. The difference 4
+is rather that we are forced to accommodate this orientation – so fundamental to our 5
+personal and social identity, to our knowledge of place and people, and to the practice 6
+of our everyday skills – within the straitjacket of a ‘Western’ or commodity-based insti- 7
+tutional and ideological framework that seeks at every turn to deny the reality of situated 8
+social experience. We are not Westerners, nor are we really non-Westerners; rather, we 9
+are human beings whose lives are caught up in the painful process of negotiation between 10
+these extremes, between the dwelling and commodity perspectives. In this process lies the 1
+temporal dynamic of industrial society, a dynamic which we – including anthropologists, 2
+in their writings – have merely displaced onto the relation between our society and the 3
+rest of the world.
+
+Tools, minds and machines • 339 •
+
+Chapter Eighteen
+
+On weaving a basket
+
+Artefacts are made, organisms grow: at ﬁrst glance the distinction seems obvious enough.
+But behind the distinction, as I aim to show in this chapter, lie a series of highly problematic assumptions concerning mind and nature, interiority and exteriority, and the
+genesis of form. We have only to consider the artefactual status of such an everyday object
+as a basket to realise that the difference between making and growing is by no means as
+obvious as we might have thought. I shall begin this chapter by showing that the reasons
+why the basket confounds our expectations of the nature of the artefact stem from the
+fact that it is woven. If the basket is an artefact, and if artefacts are made, then weaving
+must be a modality of making. I want to suggest, to the contrary, that we should understand making as a modality of weaving. This switch of emphasis, I believe, could open
+up a new perspective not just on basketry in particular, but on all kinds of skilled, formgenerating practices. But it would also have the effect of softening the distinction between
+artefacts and living things which, as it turns out, are not so very different after all.
+
+MAKING AND GROWING
+What is implied about artefacts by their characterisation as things that are made rather
+than things that grow? First of all, a division is assumed between form and substance,
+that is between the design speciﬁcations of the object and the raw materials of which it
+is composed. In the case of living things, it is supposed that the information specifying
+the design of an organism is carried in the materials of heredity, the genes, and thus that
+every new life-cycle is inaugurated with the injection of this speciﬁcation into a physical
+medium. But with artefacts, this relation between form and substance is inverted. Form
+is said to be applied from without, rather than unveiled from within. The very distinction between a within and a without of things, however, implies the existence of a surface,
+where solid substance meets the space of action of those forces that impinge upon it. Thus
+the world of substance – of brute matter – must present itself to the maker of artefacts
+as a surface to be transformed.
+In commonsense, practical terms, this is not hard to imagine. Many of our most familiar
+artefacts are (or were, before the days of synthetic materials) made of more or less solid
+stuff such as stone, metal, wood or clay. The very usefulness of these objects depends on
+their being relatively resistant to deformation. We ourselves, however, inhabit a gaseous
+medium – air – which, offering no such resistance, not only allows complete freedom of
+movement, but also transmits both light and sound. Quite apart from the obvious fact
+that we need air to breathe, and thus simply to stay alive, the possibilities of movement
+and perception (visual and aural) that air affords are crucial for any artefact-producing
+
+Skill
+activity. There is, then, a pretty clear distinction between the gaseous medium that 1
+surrounds us and the solid objects that clutter our environment; moreover the patterns of 2
+reﬂected light off the surfaces of these objects enable us to see them for what they are 3
+(Gibson 1979: 16–22).
+These practical considerations, however, all too easily become confused in our thinking 5
+with speculations of a more metaphysical kind. To show why this is so, consider the case 6
+of the beehive. Is this an artefact or not? Surely, hives don’t grow. Insofar as it results 7
+from the application of exterior force to raw material, the hive would appear to be as 8
+much ‘bee-made’ as the human house is ‘man-made’. Or is it? Musing on this question, 9
+Karl Marx famously came to the conclusion that ‘what from the very ﬁrst distinguishes 10
+the most incompetent architect from the best of bees, is that the architect has built a cell 1
+in his head before he constructs it in wax’. In other words, the criterion by which the 2
+house is truly artiﬁcial – and by comparison the beehive only ﬁguratively so – is that it 3
+issues from a representation or ‘mental model’ which has been fashioned in the imagina- 4
+tion of the practitioner prior to its execution in the material. We may assume that bees, 5
+by contrast, lack the powers of imagination, and have no more conception of their hives 6
+than they do of their own bodies, both of which are formed under genetic control (Ingold 7
+1983, cf. Marx 1930: 169–70)
+Here, the exteriority of the forces that shape artefacts is understood in quite another 9
+sense, in terms not of the physical separation of gaseous medium and solid substance but 20
+of the metaphysical separation of mind and nature. Unlike the forms of animals and plants, 1
+established through the evolutionary mechanism of natural selection and installed genet- 2
+ically at the heart of the organisms themselves (in the nucleus of every cell), the forms of 3
+artefacts are supposed to have their source within the human mind, as preconceived, intel- 4
+lectual solutions to particular design problems. And whereas organic growth is envisaged 5
+as a process that goes on within nature, and that serves to reveal its inbuilt architecture, 6
+in the making of artefacts the mind is understood to place its ideal forms upon nature. 7
+If making thus means the imposition of conceptual form on inert matter, then the surface 8
+of the artefact comes to represent much more than an interface between solid substance 9
+and gaseous medium; rather it becomes the very surface of the material world of nature 30
+as it confronts the creative human mind.
+This is precisely the kind of view that lies at the back of the minds of anthropologists 2
+and archaeologists when they speak of artefacts as items of so-called ‘material culture’. 3
+The last thing they mean to suggest, in resorting to this phrase, is that in the manufac- 4
+tured object the domains of culture and materiality somehow overlap or intermingle. For 5
+nothing about their substantive composition per se qualiﬁes artefacts for inclusion within 6
+culture. The materials from which they are made – wood, stone, clay or whatever – are 7
+in any case generally available in nature. Even with objects manufactured from synthetic 8
+materials for which no naturally occurring counterparts exist, their status as items of mate- 9
+rial culture is in no way conditional upon their ‘unnatural’ composition. A child’s toy 40
+made of plastic is no more cultural, on that account, than its wooden equivalent. It is 1
+the form of the artefact, not its substance, that is attributed to culture. This is why, in 2
+the extensive archaeological and anthropological literature on material culture, so little 3
+attention is paid to actual materials and their properties. The emphasis is almost entirely 4
+on issues of meaning and form – that is, on culture as opposed to materiality. Understood 5
+as a realm of discourse, meaning and value inhabiting the collective consciousness, culture 6
+is conceived to hover over the material world but not to permeate it. In this view, in 7
+short, culture and materials do not mix; rather, culture wraps itself around the universe 118
+
+On weaving a basket • 341 •
+
+of material things, shaping and transforming their outward surfaces without ever penetrating their interiority. Thus the particular surface of every artefact participates in the
+impenetrable surface of materiality itself as it is enveloped by the cultural imagination.
+
+SURFACE, FORCE AND THE GENERATION OF FORM
+Let us consider the most ordinary of everyday objects, one that crops up in a surprising
+range and variety of cultural settings around the world: a coiled basket. Has the basket
+been created through working on the surface of some raw material? Have the forces
+impacting on this surface been applied from without? Did they serve to impress onto the
+material a pre-existent, conceptual design? In every case, as I show below, the answer is
+‘Not exactly’. Thus the basket is not ‘made’ in the sense in which we normally understand the term. Nor, evidently, has it grown of its own accord. Thus neither of the
+available alternatives seem to work for the basket. It does not ﬁt our stereotype of the
+artefact, and it is not a life-form. Let us start instead from the simple observation that
+constructing a basket is a process of weaving. In what follows, I shall consider what weaving
+entails, respectively, with regard to the topology of surface, the application of force and
+the generation of form.
+We have seen that making, in what for convenience I shall henceforth call the ‘standard
+view’, implies the prior presence of a surface to be transformed. Thus the ﬂint knapper chips
+away at the surface of stone, the carpenter carves and chisels the surface of wood, the blacksmith hammers on the surface of molten metal, and the potter applies manual pressure to
+the surface of clay. But once it has been cut and prepared for weaving, the basket-maker
+does nothing to the surface of her
+ﬁbrous material. In the process of
+weaving, the surface of the basket
+is not so much transformed as
+built up. Moreover, there is no
+simple or straightforward correspondence between the surface of
+the basket and the surfaces of its
+constituent ﬁbres. For example,
+the two outer surfaces of the transverse wrapping ﬁbres that stitch
+successive loops of the coil are
+alternately ‘outside’ and ‘inside’ so
+far as the surface of the basket
+is concerned (see Figure 18.1).
+Indeed it is in the nature of weaving, as a technique, that it produces a peculiar kind of surface
+that does not, strictly speaking,
+have an inside and an outside at
+all.
+Figure 18.1 Patterns of wrapping in coiled basketry: (1) plain; (2) ﬁgureIn the special case of coiled bas- of-eight (‘Navajo’); (3) long and short (‘lazy squaw’); (4) Peruvian coil;
+ketry, there is a limited parallel (5) sewn coil.
+with the technique of coil-building From H. Hodges, Artifacts: an introduction to early materials and techin pottery. Here the clay is ﬁrst nology, published by Duckworth, 1964, p. 131.
+
+Skill
+rolled out into long, thin, worm-like strips, rather analogous to the lengths of bundled ﬁbres 1
+making up the basketry coil. These strips are then wound around and around to form the 2
+base and sides of the vessel. In this case too, a surface is built up. In the process, however, 3
+the original surfaces of the coiled strips congeal into a single mass, and the ﬁnal smoothing 4
+leaves no trace of the original mode of construction. But there is another difference, equally 5
+critical, which brings me to the issue of force. The potter may have to contend with the 6
+force of gravity (his material, being both heavy and pliable, is inclined to sag). But the clay 7
+does not exert any independent force. This is not the case with basketry, however, which 8
+involves the bending and interweaving of ﬁbres that may exert a considerable resistance of 9
+their own. Indeed the basket holds together, and assumes a rigid form, precisely because of 10
+its tensile structure.1 In short, the form of the basket is the result of a play of forces, both 1
+internal and external to the material that makes it up. One could say that the form unfolds 2
+within a kind of force ﬁeld, in which the weaver is caught up in a reciprocal and quite mus- 3
+cular dialogue with the material.
+This point leads me to the ﬁnal question concerning the generation of form. According 5
+to the standard view, the form pre-exists in the maker’s mind, and is simply impressed 6
+upon the material. Now I do not deny that the basket-maker may begin work with a 7
+pretty clear idea of the form she wishes to create. The actual, concrete form of the basket, 8
+however, does not issue from the idea. It rather comes into being through the gradual 9
+unfolding of that ﬁeld of forces set up through the active and sensuous engagement of 20
+practitioner and material. This ﬁeld is neither internal to the material nor internal to the 1
+practitioner (hence external to the material); rather, it cuts across the emergent interface 2
+between them. Effectively, the form of the basket emerges through a pattern of skilled 3
+movement, and it is the rhythmic repetition of that movement that gives rise to the 4
+regularity of form. This point was made long ago by Franz Boas, in his classic work on 5
+Primitive Art.
+The basketmaker who manufactures a coiled basket, handles the ﬁbres composing the 8
+coil in such a way that the greatest evenness of coil diameter results . . . In making her 9
+stitches the automatic control of the left hand that lays down the coil, and of the right 30
+that pulls the binding stitches over the coil brings it about that the distances between 1
+the stitches and the strength of the pull are absolutely even so that the surface will be 2
+smooth and evenly rounded and that the stitches show a perfectly regular pattern.
+(Boas 1955 [1927]: 20) 4
+SPIRALS IN NATURE AND ART
+Boas illustrates the point with a drawing, which I reproduce here (Figure 18.2A). Opposite, 8
+I have placed another drawing, this time taken from the work of the great biologist 9
+D’Arcy Wentworth Thompson, On Growth and Form (Figure 18.2B). It depicts the 40
+shell of a certain kind of gastropod. Although both the coiled basket and the shell have 1
+a characteristic spiral form, they are spirals of different kinds: the ﬁrst is an equable spiral, 2
+the second logarithmic (that is, the radius of each successive whorl increases arithmeti- 3
+cally in the one instance, and geometrically in the other). The equable spiral, as Thompson 4
+explains, is characteristic of artiﬁcial forms that have been produced by mechanically 5
+bending, coiling or rolling up a given length of material, whereas the logarithmic spiral 6
+is commonly produced in nature as a result of growth by deposition, where the material 7
+is cumulatively laid down at one end whilst maintaining an overall constancy of proportion 118
+
+On weaving a basket • 343 •
+
+(Thompson 1961 [1917]: 178–9).
+Either way, however, the form
+appears to emerge with a certain
+logical inevitability from the process
+itself, of rolling up in the former case
+and laying down in the latter.
+Now it is very often assumed, in the
+study of both organisms and artefacts,
+that to ask about the form of things is,
+in itself, to pose a question about
+design, as though the design contained
+a complete speciﬁcation that has only
+to be ‘written out’ in the material.
+This assumption is central to the stan- Figure 18.2 Artefactual and natural spirals: (A) Coiled basketry.
+dard view which, as we have already
+From F. Boas, Primitive art, published by Dover Publications, 1955
+seen, distinguishes between living and [1927], p. 20.
+artiﬁcial things on the criterion of the
+interiority or exteriority of the design (B) Gastropod shell. The angle ␣ is known as the ‘spiral angle’, which
+speciﬁcation governing their produc- in this case is large.
+tion without questioning the premise From D. W. Thompson, On growth and form, published by
+that the resultant forms are indeed Cambridge University Press, 1961 [1917], p. 192.
+speciﬁed independently and in advance of the processes of growth or
+manufacture wherein they are realised. Thus it is supposed that the basic architecture of the
+organism is already established, as a genetic ‘blueprint’, from the very moment of conception; likewise the artefact is supposed to pre-exist, fully represented as a ‘virtual object’ in
+the mind, even before a ﬁnger has been lifted in its construction. In both cases the actualisation of the form is reduced to a simple matter of mechanical transcription: all the creative work has already been done in advance, whether by natural selection or human reason.2
+How then, starting from this premise, might we set about accounting for the formation of spirals in nature and in art, in the shell of the gastropod and the coil of the basket?
+The account would likely run along the following lines: the form of the shell is internally
+speciﬁed in the gastropod’s genetic inheritance, and revealed in its growth; the form of
+the basket is externally speciﬁed in the mind of the weaver, as part of a received cultural
+heritage, and revealed in its manufacture. Now natural selection, according to Darwinian
+orthodoxy, designs organisms to be adapted to their particular conditions of life, and as
+many scholars have suggested, a somewhat analogous process of blind variation and selective retention, operating in the arena of cultural ideas, could do likewise in designing
+artefacts that are well suited to their purpose. The fact that we come across spirals in the
+growth of living things (as in gastropods) as well as in the making of artefacts (as in
+basketry) may be purely fortuitous, or it may be the outcome of some kind of adaptive
+convergence – of natural selection and the human intellect, operating quite independently,
+arriving at parallel solutions to what might be, in essence, a rather similar problem of
+engineering design. If, to be more precise, the solution calls for a spiral of the equable
+type, or alternatively of the logarithmic type, then this is what we will ﬁnd in the resultant forms, regardless of whether the design itself is encoded genetically or culturally.
+Hence by this account, the distinction between equable and logarithmic spirals would not,
+in itself, be relevant as an index of the organic or artefactual status of the objects concerned.
+
+Skill
+According to the standard view, as outlined above, form is fully explicable in terms of 3
+the design that gives rise to it. Once you have accounted for the genesis of the design 4
+you have, to all intents and purposes, explained the form. Or have you? Would it be 5
+possible, even in theory, for any design to specify the form of an organism or artefact 6
+completely? In his fascinating study of the design principles embodied in the construction 7
+of living organisms and manufactured artefacts, originally written as a textbook for students 8
+of engineering, Michael French (1988: 266–7) speculates on the question of just how 9
+much information would be needed to specify every aspect of the form of an organism. 10
+His conclusion is that the amount would be unimaginably large, far beyond what could 1
+be coded in the DNA of any known life-form. Nor is the situation any different with 2
+artefacts. True, even the greatest achievements of human engineering are no match for 3
+the most commonplace of organisms: thus the steam locomotive, as French wryly observes, 4
+‘is simplicity itself compared with the intricacies of the buttercup’ (1988: 1). But then, 5
+no human design could approach the DNA of the genome in its informational content. 6
+Once again, a complete speciﬁcation would apparently lie beyond the realms of possi- 7
+bility. In short, the forms of both organisms and artefacts seem to be signiﬁcantly 8
+underdetermined by their underlying blueprints. That being the case, French suggests, we 9
+may have to recognise that a great many features of organisms and artefacts are merely 20
+accidental, due to chance, revealing not the designs themselves but their limitations.
+Though intended to shore up the argument from design against the objection that no 2
+speciﬁcation can be exhaustive, this appeal to chance is a reductio ad absurdum that does 3

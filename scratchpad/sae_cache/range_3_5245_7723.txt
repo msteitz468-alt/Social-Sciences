@@ -1,0 +1,2479 @@
+THE DOMESTIC MODE OF PRODUCTION II
+
+system, is a primitive opposition between “the relations” and “the
+forces”: domestic control becomes an impediment to development
+of the productive means. But this contradiction is reduced by imposing upon it another: between the household economy and the society
+at large, the domestic system and the greater institutions in which
+it is inscribed. Kinship, chieftainship, even the ritual order, whatever
+else they may be, appear in the primitive societies as economic forces.
+The grand strategy of economic intensification enlists social structures
+beyond the family and cultural superstructures beyond the productive
+practice. In the event, the final material product of this hierarchy of
+contradictions, if still below the technological capacity, is above the
+domestic propensity.1
+The foregoing announces the overall theoretical line of our inquiry,
+the perspectives opened up by analysis of the DMP. At the same time,
+it suggests the course of further discussion: the play of kinship and
+politics on production. But to avoid a sustained discourse on generalities, to give some promise of applicability and verification, it is necessary first to attempt some measure of the impact of concrete social
+systems upon domestic production.
+ON A METHOD FOR INVESTIGATING THE SOCIAL
+INFLECTION OF DOMESTIC PRODUCTION
+Given a system of household production for use, theory says that
+the intensity of labor per worker will increase in direct relation
+to the domestic ratio of consumers to workers (Chayanov’s rule).2 The
+greater the relative number of consumers, the more each producer (on
+average) will have to work to provide an acceptable per capita output
+for the household as a whole. Fact, however, has already suggested
+certain violations of the rule, if only because domestic groups with
+relatively few workers are especially liable to falter. In these households, labor intensity falls below the theoretical expectation. Yet more
+important—because it accounts for some of the domestic default, or
+at least for its acceptability—the real and overall social structure of
+the community does not for its own part envision a Chayanov slope
+of intensity, if only because kin and political relations between households, and the interest in others’ welfare these relations entail, must
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+impel production above the norm in certain houses in a position to
+do so. That is to say, a social system has a specific structure and inflection of household labor intensity, deviating in a characteristic way and
+extent from the Chayanov line of normal intensity.
+I offer two extended illustrations, from two quite different societies, to suggest that the Chayanov deviation can be depicted graphically and calculated numerically. In principle, with a few statistical
+data not difficult to collect in the field, it should be possible to construct an intensity profile for the community of households, a profile
+that indicates notably the amount and distribution of surplus labor.
+In other words, by the variation in domestic production, it should
+be possible to determine the economic coefficient of a given social
+system.
+The first example returns to Thayer Scudder’s study of cereal production in the Valley Tonga village of Mazulu. This study was considered earlier in connection with domestic differences in subsistence
+production (Chapter 2). Table 3.1 presents the Mazulu materials in
+fuller form and in a different arrangement now including the number
+of consumers and gardeners by household and the domestic indices of
+labor composition (consumers/gardeners) and labor intensity (acres/
+gardener). The Mazulu data offer no direct measure of labor intensity,
+such as the actual hours people work; intensity has to be understood
+indirectly by the surface cultivated per worker. Immediately an error of
+some unknown degree is introduced, since the effort expended/acre
+is probably not the same for all gardeners. Moreover, in the attempt
+to account for the fractional dietary requirements and labor contributions of different sex and age classes, some estimates had to be made,
+as a detailed census is not available and the population breakdown in
+Scudder’s production tables (1962, Appendix B) is not entirely specific. Insofar as possible, I apply the following rough and apparently
+reasonable formula for assessing consumption requirements: taking
+the adult male as standard (1.00), preadolescent children are computed as 0.50 consumers and adult women as 0.80 consumers.3 (This
+is why the consumer column yields a figure less than the total household size, and usually not a whole number.) Finally, adjustments had
+to be made for calculation of the domestic labor force. A few very
+small plots appearing in Scudder’s table were evidently the work of
+
+93
+
+7.6
+9.4
+
+7
+
+10
+
+14
+
+5
+
+R
+
+G
+
+K†
+
+I
+
+4.1
+
+3.3
+
+5.1
+
+4.3
+
+6
+
+6
+
+H
+
+4.1
+
+M
+
+C
+
+1.3
+
+2
+
+6
+
+D*
+
+2.3
+6.6
+
+3
+
+2.3
+
+8
+
+B
+
+1.0
+4.3
+
+A
+
+3
+
+Q
+
+Number of
+Consumers
+
+S
+
+1
+
+5
+
+O
+
+Number of
+Members
+
+Household
+
+2.0
+
+6.0
+
+5.0
+
+3.5
+
+3.0
+
+3.0
+
+3.0
+
+1.0
+
+5.5
+
+2.0
+
+2.0
+
+4.0
+
+1.0
+
+Number of
+Gardeners
+
+4.33
+
+7.88
+
+10.11
+
+7.33
+
+5.87
+
+6.30
+
+7.21
+
+2.26
+
+12.17
+
+6.18
+
+2.58
+
+6.06
+
+1.71
+
+Total
+Acreage
+Cultivated
+
+1.65
+
+1.57
+
+1.52
+
+1.46
+
+1.43
+
+1.37
+
+1.37
+
+1.30
+
+1.20
+
+1.15
+
+1.15
+
+1.08
+
+1.00
+
+Ratio of
+Consumers/
+Gardener
+
+2.17
+
+1.31
+
+2.02
+
+2.09
+
+1.96
+
+2.10
+
+2.40
+
+2.26
+
+2.21
+
+3.09
+
+1.29
+
+1.52
+
+1.71
+
+Acres
+Cultivated/
+Gardener
+
+Table 3.1 Household variations in intensity of labor: Mazulu Village, Valley Tonga, 1956–57 (after Scudder, 1962, pp. 258–261)
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+6.1
+4.1
+
+9
+
+7
+
+4
+
+T
+
+L*
+
+J
+
+1.0
+
+2.0
+
+3.0
+
+3.0
+
+3.5
+
+2.0
+
+2.0
+
+Gardeners
+
+2.36
+
+5.46
+
+6.19
+
+9.11
+
+7.80
+
+4.81
+
+4.55
+
+Acreage
+Cultivated
+
+2.30
+
+2.05
+
+2.03
+
+1.87
+
+1.66
+
+1.65
+
+1.65
+
+Consumers/
+Gardener
+
+2.36
+
+2.73
+
+2.06
+
+3.04
+
+2.23
+
+2.41
+
+2.28
+
+Acres
+Cultivated/
+Gardener
+
+*
+
+In families D and L, the head of the house was absent in European employ during the entire period. He is not calculated in the household’s figures,
+although the money he brings back to the village will presumably contribute to the family’s subsistence.
+†
+The head of the house, K, worked part time in European employ. He also cultivated and figures in the computations for his household.
+
+2.3
+
+5.6
+
+5.8
+
+8
+
+9
+
+3.3
+
+3.3
+
+F
+
+5
+
+Consumers
+
+E
+
+5
+
+P
+
+Members
+
+Downloaded
+San Diego]Total
+at 20:29 03 May
+2017
+Number of by [University
+Number of of California,
+Number of
+Ratio of
+
+N
+
+Household
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+96
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+quite young persons; probably these were training plots in the charge
+of younger adolescents. Gardeners listed by Scudder as cultivating less
+than 0.50 acres and belonging to the youngest generation of the family are thus counted as 0.50 workers.
+Manifestly, I must insist on the illustrative character of the Mazulu
+example. In addition to the several errors potentially introduced by
+one’s own manipulations, the very small numbers involved—there are
+only 20 households in the community—cannot inspire a grand statistical confidence. But as the aim is merely to suggest a feasibility and
+not to prove a point, these several deficiencies, while surely regrettable, do not seem fatal.4
+What then do the Mazulu materials illustrate? For one, that
+Chayanov’s rule holds—in a general way. That the rule holds in
+general, although not in detail, is evident by inspection of the final
+columns of Table 3.1. The acreage cultivated/gardener mounts
+in rough relation to the domestic index of consumers/gardener.
+A procedure like Chayanov’s own would show the same, with a
+little more exactness. Following Chayanov’s methods, Table 3.2
+groups the variation in acreage/worker by regular intervals of the
+consumer/worker index:
+The results are fairly comparable to those Chayanov and his coworkers found for peasant Russia. Yet the Mazulu table also betrays the rule.
+Clearly the relation between labor intensity and the household ratio
+Table 3.2 Household variations in acreage/gardener: Mazulu*
+Consumers/Worker
+
+1.00–1.24
+
+1.25–1.49
+
+1.50–1.74
+
+1.75–1.99
+
+2.00+
+
+Average household
+acreage/gardener
+
+1.96
+
+2.16
+
+2.07
+
+3.04
+
+3.28
+
+(Number of cases)
+
+(5)
+
+(5)
+
+(6)
+
+(1)
+
+(3)
+
+*
+
+One further complication of the Mazulu data: in richer households able to provide beer
+for outside workers, some of the labor expended does not come immediately from the
+domestic group in question. On one hand, then, the figures for acreage cultivated/worker
+do not do justice to the actual force of the Chayanov principle—richer houses are working
+less than indicated, poorer more. On the other hand, some portion of the beer so provided
+may represent the congealed labor of the supplying household, so that over the longer run
+the slope of intensity/worker is closer again to the data reported. Clearly subtle corrections
+are necessary, or else direct estimates of hours worked per gardener—both beyond the
+prerogatives given by the present data.
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+of workers is neither consistent nor proportionate over the entire
+range. Individual houses deviate more or less radically, but not altogether randomly, from the general trend. And the trend itself does not
+develop evenly: it takes on an irregular curvature, a specific pattern of
+rise and fall.
+All this trend and variation can be plotted on a single graph. The
+scatter of points in Figure 3.1 represents the distribution of household differences in labor intensity. Each house is fixed relative to the
+horizontal (X) axis by its ratio of consumers/gardener, and along
+the vertical (Y) axis by the acreage cultivated/gardener (cf. Table 3.1).
+A midpoint to this variation, a kind of average household, can be
+determined at X = 1.52 (c/w), Y = 2.16 (a/w). The overall average tendency of household differences in intensity is then calculable
+by deviations from this mean, that is, as a linear regression computed according to standard formula.5 The result for Mazulu, the real
+intensity slope of the community, amounts to an increase of 0.52
+acres/worker (Y) for each additional 1.00 in the ratio of consumers
+to workers (X), but artificially so. The broken line (D) of Figure 3.1
+seeks out the truer course of variation, the important propensity to
+depart from a linear relation between intensity and composition.
+
+Figure 3.1 Mazulu: Trend and Variation in Household Labor Intensity
+
+97
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+98
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+This line, the real intensity curve, is constructed after the mean intensities (columnar means) of 0.20 intervals in the consumers/worker
+ratio. Note that the curve would have taken a somewhat different
+path if plotted from the values of Table 3.2. But with so few cases
+at hand, 20 households, it is difficult to say which version is more
+valid. Statistical intuition might hold that with more instances the
+curve), or perhaps conMazulu curve would be sigmoidal (an
+cave upward to the right in exponential fashion. Both of these patterns, and others besides, occur in Chayanov’s own tables. What
+seems more important, however, and consistent with accomplished
+understandings, is that the variation in labor intensity increases
+toward both extremes of the c/w range, disturbing or even reversing
+the more regular incline of the medial section. For at the extremes
+of household composition, Chayanov’s rule becomes vulnerable to
+contradiction. On one side are households weak in manpower and
+subject to one or another crippling malchance. (Household J in the
+Mazulu series, represented by the point furthest right, is an instance
+in question: a woman widowed at the beginning of the cultivation
+period and left to support three preadolescent children.) On the
+other side, the decline of the intensity curve to the left is arrested
+at some moment because certain domestic groups well endowed in
+workers are functioning beyond their own necessity. From that point
+of view (that is, of their own customary requirements), they are
+working at surplus intensities.
+But the surplus output is not exactly indicated by the foregoing procedure. For this it is necessary to construct a slope of normal intensity, drawn
+as much from theory as from reality: a slope describing the variation in
+labor that would be required to supply each household the customary
+livelihood, supposing each were left to provision itself. It is necessary,
+in other words, to project the domestic mode of production as if unimpeded by the larger structures of society. The performance to which the
+DMP as such is disposed, this line of normal intensity might also then
+be deemed the true Chayanov slope, for it represents the most rigorous
+statement of the Chayanov rule. Insofar as it is predicated on production to a definite and customary goal, Chayanov’s rule does not admit
+just any proportionate relation between intensity and relative working
+capacity. In principle it stipulates strictly the slope of this relation: the
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+domestic intensity of labor must increase by a factor of the customary
+consumption requirement for every increase of 1.00 in the domestic
+ratio of consumers to workers. Only in that event will the same (normal) output per capita be achieved by each household, regardless of its
+particular composition. This, then, is the intensity function that conforms to the theory of domestic production—as the deviation from it in
+actual practice conforms to the character of the larger society.
+How do we determine the true Chayanov slope for Mazulu? According to Scudder, 1.00 acres under cultivation per capita should yield an
+acceptable subsistence. But “per capita” here applies indiscriminately to
+men, women and children. As by our earlier computation the village
+population of 123 reduces to 86.20 full consumers (adult male standard), each consumer of account will demand 1.43 acres for a normal
+subsistence. The true Chayanov slope is therefore a straight line departing
+from the origin of both dimensions and rising 1.43 acres/gardener for
+every increase of 1.00 in the domestic ratio of consumers to workers.
+Before proceeding to measure real deviations from this slope, some
+decision has to be taken between alternative formulations of the
+Chayanov rule, as this has a practical bearing on the representation of
+normal intensity. Most of the preceding discussion has been content to
+refer to intensity rising with the relative number of consumers. Yet the
+law of Chayanov is just as well expressed as an inverse relation between
+domestic intensity and the relative number of producers; that is, the
+fewer the producers to consumers, the more each will have to work.
+Logically, the two propositions are symmetrical. But sociologically,
+perhaps not. The first seems to better express the operative constraints,
+the burdens imposed upon able-bodied producers by the dependents
+they must feed. Probably that is why Chayanov in effect preferred the
+direct formulation, and I shall continue to do so.6
+In Figure 3.2, then, the Chayanov line (C) rises upward to the right,
+intensity increasing with the relative number of consumers by the
+calculated factor of 1.43 a/w per 1.00 c/w. The line threads its way
+through a scatter of points. Once more these stand for the de facto
+household differences in labor intensity. But in juxtaposition to the
+true Chayanov slope, their meaning is transformed: They tell now
+of the modification imparted to domestic production by the greater
+organization of society. This modification is summarized also by the
+
+99
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+100
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+deviation of the real intensity slope (I) from the Chayanov, insofar as
+the former—0.52 a/w for each 1.00 c/w from the means of intensity
+and composition—represents a reduction of household production
+differences to their main drift. The positioning of these lines, their
+manner of intersection within the range of known domestic variations, makes a profile specific to that community of the societal transformation of domestic production (Figure 3.2).
+The Mazulu profile can be sharpened and certain of its configurations measured. The empirical production slope (I) passes upward to
+the left of the Chayanov intensity (C), to an important extent because
+certain households, among them many with favorable manpower
+resources, are cultivating above their own requirements. They are
+working at surplus intensities, not simply for their own use, because
+they are included in a social system of production, not simply a domestic system. They contribute to the larger system surplus domestic labor.
+Eight of the 20 Mazulu producing groups are so engaged in extraordinary efforts, as shown in Table 3.3. Their own average manpower
+structure is 1.36 consumers/worker, and their mean intensity 2.40
+acres/gardener. Let us mark this point of mean surplus labor, point S,
+on the Mazulu profile (Figure 3.2). Its coordinates express the Mazulu
+
+Figure 3.2 Mazulu: Empirical and Chayanov Slopes of Labor Intensity
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+strategy of economic intensification. The vertical distance of S over the
+slope of normal intensity (segment ES) constitutes the mean impulse
+to surplus labor among productive houses: 0.46 acres/worker or
+23.60 percent (as normal intensity at 1.36 c/w is 1.94 a/w). There
+are 20.50 effective producers in these houses, or 35.60 of the village labor force. Thus 40 percent of the domestic producing groups,
+comprising 35.60 percent of the working force, are functioning at a
+mean of 23.60 percent above the normal intensity of labor. So for the
+Y-value of S.
+The X coordinate of the surplus impulse (S) will by its relation to
+mean household composition (M) provide an indication of how the
+intensification tendency is distributed in the community (Figure 3.2).
+The further S falls to the left of the mean composition (X = 1.52 c/w),
+the more surplus labor is a function of higher proportions of workers in the domestic group. A position of S nearer the mean, however,
+indicates a more general participation in surplus labor: further still to
+the right, S would imply an unusual economic activity in households
+of lesser labor capacity. For Mazulu, the mean surplus impulse (S) is
+clearly left of the village mean. Six of the eight houses functioning
+at surplus intensities are below average in their ratios of consumers/
+worker. For all eight, the mean composition is lower than the community average by 0.16 c/w or 10.50 percent.
+Finally it is possible from the materials on hand (Tables 3.1 and 3.3)
+to compute the contribution of surplus (domestic) labor to the total
+village product. This is done by first calculating the sum of surplus
+acreage in the several houses producing above normal intensity (number of workers multiplied by the rate of surplus labor for the eight
+relevant cases). The output thus attributable to surplus labor is 9.21
+acres. The total cultivations of Mazulu amount to 120.24 acres. Hence,
+7.67 percent of the total village output is the product of surplus labor.
+It has to be emphasized that “surplus labor” applies strictly to the
+domestic groups, and that it is “surplus” in relation to their normal
+consumption quota. Mazulu village as a whole does not show a surplus
+expenditure of labor. It is testimony rather to the character and relative ineffectiveness of the existing social strategy that the total acreage
+cultivated falls slightly below village requirements. (Thus at the point
+of mean household composition [1.52 c/w],the empirical inflection
+
+101
+
+102
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+Table 3.3 Normal and empirical variations in domestic labor intensity: Mazulu
+House
+
+Consumers/
+Gardener
+(X)
+
+Acres/
+Gardener
+(Y)
+
+Chayanov
+Intensity Acres/
+Gardener (Cy)
+
+Deviation from
+True Chayanov
+Slope (Y-Cy)
+
+O
+
+1.00
+
+1.71
+
+1.43
+
++.28
+
+Q
+
+1.08
+
+1.52
+
+1.54
+
+–.02
+
+B
+
+1.15
+
+1.29
+
+1.65
+
+–.36
+
+S
+
+1.15
+
+3.09
+
+1.65
+
++1.44
+
+A
+
+1.20
+
+2.21
+
+1.72
+
++.49
+
+D
+
+1.30
+
+2.26
+
+1.86
+
++.40
+
+C
+
+1.37
+
+2.40
+
+1.96
+
++.44
+
+M
+
+1.37
+
+2.10
+
+1.96
+
++.14
+
+H
+
+1.43
+
+1.96
+
+2.04
+
+–.08
+
+R
+
+1.46
+
+2.09
+
+2.09
+
+0
+
+G
+
+1.52
+
+2.02
+
+2.17
+
+–.15
+
+K
+
+1.57
+
+1.31
+
+2.25
+
+–.94
+
+I
+
+1.65
+
+2.17
+
+2.36
+
+–.19
+
+N
+
+1.65
+
+2.28
+
+2.35
+
+–.08
+
+P
+
+1.65
+
+2.41
+
+2.36
+
++.05
+
+E
+
+1.66
+
+2.23
+
+2.37
+
+–.14
+
+F
+
+1.87
+
+3.04
+
+2.67
+
++.37
+
+T
+
+2.03
+
+2.06
+
+2.90
+
+–.84
+
+L
+
+2.05
+
+2.73
+
+2.93
+
+–.20
+
+J
+
+2.30
+
+2.36
+
+3.29
+
+–.93
+
+of production [I] passes under the true Chayanov slope [C].) A nonproductive class could not live on the output of the Mazulu villagers—
+at least not without substantial contradiction and potential conflict.
+The mathematical reason for village underproduction is obvious. If
+some domestic groups are functioning above normal intensity, others are working below, to the extent that village output is on balance slightly negative. But this distribution is not accidental. On the
+contrary, the entire production profile should be understood as an integrated
+social system in its projection of normal domestic intensity as well as its
+empirical labor slope, in its dimension of domestic underproduction
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+as well as domestic surplus. The subintensive output of some houses
+is not independent of the surplus labor of others. True that (as far as
+our information goes) household economic failures seem attributable
+to circumstances external to the organization of production: illness,
+death, European influence. Yet it would be misleading to contemplate
+these failures in isolation from the successes, as if certain families simply proved unable to make it for reasons entirely their own. Some may
+not have made it precisely because it was clear in advance they could
+depend on others. And even the underproduction due to unforeseen
+circumstances is acceptable to society, these vulnerable households tolerable, by virtue of a surplus intensity elsewhere, which in a sense had
+anticipated in its own dynamic a certain social incidence of domestic
+tragedy. In an intensity profile such as Figure 3.3, we have to deal with
+an interrelated distribution of household economic variations—that
+is, with a social system of domestic production.
+The Kapauku of western New Guinea have another system, very
+different in its pattern, much more pronounced in its strategy of
+intensification. But then, Kapauku is another political system, capable of harnessing domestic economic efforts to the accumulation of
+exchangeable products, pigs and sweet potatoes primarily, whose sale
+and distribution are main tactics of an open competition for status
+(Pospisil, 1963).
+Sweet potato cultivation is the key sector of production. The Kapauku
+to a very large extent, and their pigs to a lesser extent, live by sweet
+potato. It accounts for over 90 percent of the agricultural land use and
+seven-eighths of the agricultural labor. Yet the domestic differences in
+sweet potato production are extraordinary: a tenfold range of variation in output/household as recorded by Pospisil for the 16 houses of
+Botukebo village over an eight-month period (Table 3.4).
+Again for Kapauku we know the intensity of labor only by its product. The intensity column of Table 3.4 is presented as kilograms of
+sweet potato produced per worker—probably introducing an error
+analogous to the corresponding Mazulu figures, insofar as different
+workers expend unequal efforts per unit weight of output. I have taken
+the liberty, moreover, of revising the ethnographer’s household consumer counts, bringing them closer in line with other Melanesian societies by assessing adult women at 0.80 of the adult male requirement,
+
+103
+
+12
+
+†
+
+*
+
+16
+
+VI
+
+XIII
+
+6.4
+
+12.4
+
+9
+
+18
+
+15
+
+12
+
+5
+
+14
+
+V
+
+II
+
+XII
+
+IX
+
+X
+
+XI
+
+3.2
+
+9.1
+
+3.8
+
+9.5
+
+10.7
+
+14.6
+
+7.4
+
+5.4
+
+4.0
+
+13.8
+
+5.1
+
+9.5
+
+11.3
+
+5.6
+
+7.9
+
+11.6
+
+9.5
+
+Revised
+
+4.5
+
+2.5
+
+6.5
+
+7.5
+
+10.5
+
+5.5
+
+4.0
+
+3.0
+
+10.5
+
+4.0
+
+7.5
+
+9.0
+
+4.5
+
+6.5
+
+9.5
+
+8.0
+
+Number of
+Workers
+
+8 898
+
+4,224
+
+5,878
+
+7,267
+
+20,049
+
+9,482
+
+8,000
+
+1,557
+
+9,976
+
+2,607
+
+2,069
+
+6,920
+
+2,124
+
+7,654
+
+20,462
+
+16,000
+
+Kilograms/
+Household
+
+See text for discussion of "revised" consumer estimates.
+Calculated at adults (♀ and ♂) = 1.0 worker;adolescents and elders of both sexes at 0.50 worker.
+
+8.7
+
+3.6
+
+8.9
+
+9.5
+
+4.8
+
+5
+
+7
+
+III
+
+12.2
+
+5.1
+
+8.9
+
+7.3
+
+XVI
+
+6
+
+10.1
+
+7
+
+XV
+
+17
+
+4.8
+
+9
+
+I
+
+10.2
+
+16
+
+VII
+
+XIV
+
+VIII
+
+8.5
+
+13
+
+IV
+
+Pospisil
+
+Adjusted No. of
+Consumers*
+
+Number of
+Members
+
+Household
+(Ethnographer’s
+Code)
+
+2.02
+
+1.52
+
+1.46
+
+1.44
+
+1.39
+
+1.35
+
+1.35
+
+1.33
+
+1.31
+
+1.28
+
+1.27
+
+1.26
+
+1.25
+
+1.22
+
+1.22
+
+1.19
+
+Ratio of
+Consumers/Worker
+(Revised)
+
+1,978
+
+1,690
+
+904
+
+969
+
+1,909
+
+1,724
+
+2,000
+
+519
+
+950
+
+652
+
+276
+
+769
+
+472
+
+1,177
+
+2,154
+
+2,000
+
+Intensity
+(Kilograms/
+Worker)
+
+Table 3.4 Household variation in sweet potato cultivation: Botukebo village, Kapauku (New Guinea), 1955 (after Pospisil, 1963)
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+Figure 3.3 Botukebo Village, Kapauku: Domestic Variations in Labor Intensity
+(1955)
+
+rather than the 0.60 Pospisil had computed from a brief dietary study.
+(For the other members of the household, children were figured at
+0.50 consumers, adolescents at 1.00 and elders of both sexes at 0.80.)
+Adolescents were calculated at 0.50 workers, following the ethnographer’s usage.
+Domestic differences in labor intensity compose a very distinctive pattern. No clear Chayanov trend is evident on inspection of
+Table 3.4. But the apparent irregularity polarizes, or, rather, resolves
+itself into two regularities once the household variations are plotted in
+graph (Figure 3.3). Everything appears as if the Kapauku village were
+divided into two populations, each adhering singularly to its own
+economic inclination in one case, something of a Chayanov trend,
+intensity increasing with the relative number of consumers, yet in the
+other “population” just the reverse. And not only are houses of the
+latter series industrious in proportion to their working capacity, the
+group as a whole stands at a distinctly higher level than the households of the first series. But then the Kapauku have a big-man system
+of the Classic Melanesian type (see below, “The Economic Intensity of
+the Social Order”), a political organization that typically polarizes
+
+105
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+106
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+people’s relations to the productive process: grouping on one side the
+big-men or would-be big-men and their followers, whose production they are able to galvanize, and on the other side those content to
+praise and live off the ambition of others.7 The idea seems worth a prediction: that this bifurcate, “fish-tail” distribution of domestic labor
+intensity will be found generally in the Melanesian big-man systems.
+Although not evident to inspection, a light Chayanov trend does
+actually inhere in the scatter of household intensity variations. It has to
+be picked up mathematically (again as a linear regression of deviations
+from the means). On balance, the slope of domestic labor intensity
+moves upward to the right at the rate of 1,007 kilograms of sweet
+potato/gardener for each increase (from the mean) of 1.00 in the
+consumers/gardener ratio. Considered by their respective standard
+deviations, however, this Kapauku inflection is flatter than the Mazulu
+empirical slope. (In z-units, by'x' = 0.62 for Mazulu, 0.28 for Botukebo.)
+Yet more interesting, the Kapauku real inflection stands in an entirely
+different relation to its slope of normal intensity (Figure 3.4).
+I have plotted the slope of normal intensity (the true Chayanov
+cline) from Pospisil’s brief dietary study covering 20 people over
+six days. The average adult male ration was 2.89 kilograms of sweet
+potatoes/day—693.60 kilograms, then, for an eight-month period
+matching the duration of the production study. An inflection of 694
+kilograms/worker for each 1.00 in c/w passes substantially underneath the empirical intensity slope; indeed, it does not intersect the
+latter through the range of real variations in domestic production.
+The profile is altogether different from Mazulu, and as different in its
+indicative measures.8
+Nine of the 16 Botukebo households are operating at surplus intensities (Table 3.5 , p.108). These nine houses include 61.50 gardeners,
+or 59 percent of the total working force. Their average composition is 1.40 consumers/gardener, their mean labor intensity 1,731
+kilograms/gardener. Hence the point of mean surplus labor, S, falls
+slightly to the right of the average household composition—by two
+percent of the c/w ratio. In fact, six of the nine houses are below
+average composition, but not dramatically so. The impulse to surplus
+labor thus appears more generally distributed in Kapauku than in
+Mazulu. At the same time, the strength of this impulse is definitely
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+Figure 3.4 Botukebo, Kapauku: Social Deviation of Labor Intensity from the
+Chayanov Slope
+
+superior. As expressed by the Y coordinate of S, the mean tendency of
+surplus intensity, at 1,731 kilograms/worker, is 971 kilograms above
+the normal tendency (segment SE). In other words, 69 percent of the
+Kapauku domestic units, comprising 59 percent of the labor force, are
+working at an average of 82 percent above normal intensity.
+The collective surplus labor of these Kapauku units accounts for
+47,109 kilograms of sweet potato. Botukebo total village output is
+133,172 kilograms. Thus, 35.37 percent of the social product is the
+contribution of surplus domestic labor. Taken in comparison with
+Mazulu (7.67 percent), this figure makes us aware of something heretofore left out of account: the customary household structure is also
+part of the society’s intensification strategy. Botukebo’s advantage over
+Mazulu does not consist solely in a higher rate or more general distribution of surplus labor. Botukebo houses have on average more than
+twice as many workers, so multiply by that difference their superiority
+in rate of intensity.
+Finally, as the Kapauku intensity profile shows, the effect of surplus
+labor is to displace real domestic output upward by a sizable amount
+over the normal. At mean household composition, the empirical
+inflection of intensity is 309 kilograms/worker (29 percent) higher
+
+107
+
+108
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+Table 3.5 Botukebo, Kapauku: Domestic variation in relation to normal intensity
+of labor
+House
+
+C/W
+
+Kilos s.p./
+Worker
+
+Normal Y
+
+Deviation from
+Normal Intensity
+
+IV
+
+1.19
+
+2000
+
+825
+
++1175
+
+VII
+
+1.22
+
+2154
+
+846
+
++1308
+
+XIV
+
+1.22
+
+1177
+
+846
+
++331
+
+XV
+
+1.25
+
+472
+
+867
+
+–395
+
+VI
+
+1.26
+
+769
+
+874
+
+–105
+
+XIII
+
+1.27
+
+276
+
+881
+
+–605
+
+VIII
+
+1.28
+
+652
+
+888
+
+–236
+
+I
+
+1.31
+
+950
+
+909
+
++41
+
+XVI
+
+1.33
+
+519
+
+922
+
+–403
+
+III
+
+1.35
+
+2000
+
+936
+
++1064
+
+V
+
+1.35
+
+1724
+
+936
+
++788
+
+II
+
+1.39
+
+1909
+
+964
+
++945
+
+XII
+
+1.44
+
+969
+
+999
+
+–30
+
+IX
+
+1.46
+
+904
+
+1013
+
+–109
+
+X
+
+1.52
+
+1690
+
+1054
+
++636
+
+XI
+
+2.02
+
+1978
+
+1401
+
++577
+
+than the Chayanov slope (segment M–M' of Figure 3.4). In terms of the
+people’s own consumption requirements (pigs excluded), Botukebo
+village as a whole has a surplus output.9
+Table 3.6 summarizes the differences in production intensity
+between Mazulu and Botukebo. These differences are the measure of
+two different social organizations of domestic production.
+But clearly the task of research is not finished by the drawing of an
+intensity profile; it is only thus posed. Before us stretches a work of
+difficulty and complexity matched only by its promise of an anthropological economics, and consisting not merely in the accumulation
+of production profiles, but of their interpretation in social terms. For
+Mazulu and Botukebo this interpretation would dwell on political
+differences—on the contrast between the big-man system of the
+Kapauku and traditional political institutions described by the ethnographer of Tonga as “embryonic,” “largely egalitarian” and generally
+
+59.4
+
+35.6
+
+Percentage of
+Total Labor Force
+at Surplus
+Intensity
+
+Concerns households working at surplus intensity.
+
+69
+
+Botukebo
+
+*
+
+40
+
+Mazulu
+
+Percentage of
+Households at
+Surplus Intensity
+
+182.0
+
+123.6
+
+Average Production
+of Surplus in Relation
+to Normal Intensity
+
+Domestic Surplus Impulse *
+(Intensification Strategy)
+
+Table 3.6 Indices of domestic production: Mazulu and Botukebo
+
++32.9%
+
++2.2%
+
+Average Domestic
+Deviation from
+Chayanov Norm
+
+35.37
+
+7.67
+
+Percentage of Total
+Output Due to
+Surplus Domestic
+Labor
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+110
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+disengaged from the domestic economy (Colson, 1960, pp. 161 f ). It
+remains to specify such relations between political form and economic
+intensification; and also, the less dramatic economic impact of the kinship system, almost imperceptible for its prosaic, everyday character but
+perhaps not less powerful in the determination of everyday production.
+KINSHIP AND ECONOMIC INTENSITY
+The kinship relations prevailing between households must affect their
+economic behavior. Descent groups and marital alliances of different
+structure, even interpersonal kin networks of different pattern, should
+differentially encourage surplus domestic labor. And with varying
+success, too, kinship relations counter the centrifugal movement of
+the DMP, to determine a more or less intensive exploitation of local
+resources. Here then is an idea in some ways banal, in others outrageous, but nevertheless indicative of the kind of problem worth further research: all else being equal, Hawaiian kinship is a more intensive
+economic system than Eskimo kinship. Because, simply, the Hawaiian
+system has a greater degree of classification in the Morganian sense: a
+more extensive identification of collateral with lineal relatives.
+Where Eskimo kinship categorically isolates the immediate family,
+placing others in a social space definitely outside, Hawaiian extends
+familial relations indefinitely along collateral lines. The Hawaiian
+household economy risks an analogous integration in the community
+of households. Everything depends on the strength and spread of solidarity in the kinship system. Hawaiian kinship is in these respects
+superior to Eskimo. Specifying in this way a wider cooperation, the
+Hawaiian system should develop more social pressure on households
+of greater labor resources, especially those of the highest c/w ratios. All
+other things equal, then, Hawaiian kinship will generate a greater surplus tendency than Eskimo. It will be able also to sustain a higher norm
+of domestic welfare for the community as a whole. Finally, the same
+argument implies a greater variation in domestic per capita output for
+Hawaiian, and a smaller overall variation in intensity per worker.
+Besides, the Hawaiian system probably exploits a given territory at
+a higher level, closer to the technical capacity. For kinship is opposed
+to the underproduction of the DMP in another way, not just to the
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+centripetal domestic concern for livelihood but to the centrifugal
+tendency of household dispersion, hence not only to the domestic
+underuse of labor but to the collective underuse of territory. Against
+the constituted dispersion of the DMP the system of kinship erects a
+peace of greater or less effect; so, a corresponding concentration of
+households and exploitation of resources. The Fijians, who as we have
+seen conceive a nonrelative as a stranger, hence as a potential enemy
+and victim, understand by their term “to be acquainted” (veikilai) also
+the meaning “to be related” (veiweikani); and they have no more common word for “peace” than “to live as kinsmen” (tiko vakaveiweikani).
+Here is one of several primitive versions of that contract lacking in the
+DMP, a modus vivendi where the means of force and production remain
+segmentary and unalienated. But again different kinship systems,
+varying in their powers of attraction, must permit varying degrees of
+spatial concentration. They overcome the fragmentation of domestic
+production in different measure, and to that extent determine capacities of territorial occupation and exploitation.
+Still, the kinship solidarities of primitive societies cannot be undifferentiated, given the inherent cleavages of the domestic mode of production. Even Hawaiian kinship is only formally a universal familiarity; in
+practice it continually knows invidious distinctions of social distance.
+The household is never entirely submerged in the larger community,
+nor are domestic ties ever free from conflict with wider kin relationships. This is a permanent contradiction of primitive society and economy. But it is not an apparent contradiction. Normally it is obscured,
+repressed by sentiments of sociability that extend to the far reaches of
+kinship, mystified by an uncritical ideology of reciprocity, above all
+dissimulated by a continuity of social principles from the family to the
+larger community, a harmony of organization that makes the lineage
+seem the household writ large and the chief father to his people. The
+discovery of the contradiction in the normal course of primitive society
+therefore takes an act of ethnographic will. Only occasionally comes a
+crisis, a crise révélatrice, to lay bare the structural opposition beyond any
+possibility of mistaking it. In the absence of that rare chance—or of
+close observation of the nuances of “reciprocity” (see Chapter 5)—one
+has recourse at first to certain ethnographic curiosities, proverbs for
+
+111
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+112
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+example, whose elliptical sagesse may put a construction of paradoxes
+on what seems otherwise a broad sociability.
+Thus the same Bemba who define a relative as someone to whom
+you give food also define a witch as someone “who comes and sits
+in your house and says, ‘I expect you are going to cook soon. What a
+fine lot of meat you have today,’ or ‘I expect the beer will be ready this
+afternoon,’ or some such remark” (Richards, 1939, p. 202). Richards
+reports the artful dodges often employed by Bemba housewives to
+avoid obligations to share: the concealment of beer upon the appearance of an elderly visiting relative, then met with an, “Alas, Sir, we
+poor wretches. We have nothing to eat” (ibid.).10
+For the Maori, the conflict between the household and larger interests was current byword: a “squarely-faced opposition,” Firth wrote
+in an early article on the Maori proverbs, a “direct contradiction
+between sayings which inculcate hospitality and the reverse, liberality
+and its opposite” (1926, p. 252). On one hand, hospitality “was one
+of the highest virtues of the native . . . inculcated into all and gained
+the greatest approval. On the practice of it depended to a large extent
+reputation and prestige” (p. 247). But Firth was also quick to note a
+whole set of popular dicta to the contrary. Here were proverbs that
+privileged an enlightened self-interest over concern for others, the
+retention of food over its distribution. “Raw food is still possessed,”
+went the adage, “cooked it goes to another”—advising that food be
+eaten underdone on pain of being obliged to share it out. Or again,
+“Broil your rat [a favorite Maori dish] with its fur on, lest you be
+disturbed by someone.” One proverb recognizes in the noble act of
+sharing a large residue of discontent:
+
+Haere ana a Manawa yeka
+Noho ana a Manawa kuwa
+
+Glad heart went away,
+Bitter mind remained.
+
+Another says this of the irksome cadging of relatives:
+
+He huanga ki Matiti
+He tama ki Tokerau
+
+A relative in winter,
+A son in autumn.
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+—the man who during the winter planting season is only a distant
+relative suddenly becomes a son at the autumn harvest.
+These contradictions of the Maori proverbial wisdom translate a real
+conflict of society—“two diametrically opposed principals of conduct
+working side by side. . . .” Firth, however, did not pause to analyze
+them as such in their capacity as social facts. He adopted instead that
+kind of “naive anthropology”11 conventional to Economic Science: it
+was at base an opposition between human nature and culture, between
+the “impulse of the individual to seek his own advantage” and “the
+expressed morality of the social group.” Perhaps Lèvi-Strauss would say
+the model is after all the Maori’s own, for proverb does hold that raw
+is to cooked as possession is to sharing—that is, nature is to culture as
+the refusal to share is to reciprocity. In any event, Firth’s later detailed
+analysis of Maori economy (1959a) makes it clear why the opposition
+of principle was drawn specifically along the line distant relative/son. It
+was a conflict between extended kinship and the homebred self-interest
+of the whanau, the household, “the basic unit of the Maori economy”:
+The whanau held group-ownership of certain types of property, and
+also as a body exercised rights to land and its products. Tasks requiring a small body of workers and co-operation of a not very complex
+order were performed by the whanau, and the apportionment of food
+was largely managed on this basis. Each family group was a cohesive,
+self-contained unit, managing its own affairs, both social and economic, except as these affected village or tribal policy. Members of
+a whanau, on the whole, ate, and dwelt together in a distinct group.
+(Firth, 1959a, p. 139)12
+
+The position of the household in these primitive societies is one
+of constant dilemma and continuous maneuver, temporizing always
+between domestic welfare and broader obligations toward kinsmen in
+the hope of satisfying the latter without menacing the former. Apart
+from the paradoxes of the proverbial wisdom, this tug of war does
+receive one general expression: in the nuances of traditional “reciprocity.” For despite the connotation of equivalence, ordinary reciprocal exchanges are often unbalanced; that is, on the strictly material
+plane. Repayments are only more or less equal to the initial gifts, and
+they are only more or less direct in time. The variation is correlated
+
+113
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+114
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+notably with kinship distance. Balance is the material relation of distant kinship; closer to home, exchange becomes more disinterested;
+there is tolerance of delays or even of complete failure to reciprocate.
+To observe that kinship plays out in social force as it moves out in
+social distance is not a sufficient explanation or even a very logical one
+considering the wide extension of familial categories. More pertinent
+is the segmentary separation of economic interests. What gives this
+dissipation of kinship solidarity function and definition, makes meaningful such distinctions as “distant relative”/“son,” is the economic
+determination of home as the place where charity begins. The first
+premise of “kinship distance” is the DMP. Thus, all the discussion of
+Chapter 5 on the tactical play of reciprocity can be taken as a case in
+present point.
+Despite the constituted contradiction between the household and
+the larger kindred, instances of structural breakdown that reveal the
+conflict are few in the primitive societies. All the more valuable, then,
+Firth’s succeeding work on Tikopia, especially the restudy (with
+Spillius) of 1953–54, when he chanced upon this people celebrated
+for their hospitality during a trial of famine (Firth, 1959b). Nature
+had dealt Tikopia a double blow: hurricanes struck in January 1952
+and March 1953, doing great damage to houses, trees and standing
+crops. Food shortages followed, in severity varying from district to
+district and time to time; generally, the worst occurred between September and November 1953, a period the ethnographers describe as
+“famine.” Still, the people on the whole survived, as did the social system. Yet the first was not entirely due to the second. Kinship beyond
+the household held on in the formal code, but the code was being
+systematically honored in the breach, so that even as Tikopian society
+managed a kind of moral continuity it showed itself founded on a
+basic discontinuity. It was a revelatory crisis. Firth and Spillius speak of
+“atomization,” of the fragmentation of larger kin groups and “closer
+integration” of the household. “What the famine did,” Firth wrote,
+“was to reveal the solidarity of the elementary family” (1959b, p. 84;
+emphasis mine).
+Economic decomposition set in on several fronts, in property and
+distribution most notably. Even in planning for recovery after the first
+hurricane, it was (apart from the chiefs) every household for itself: “the
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+use of resources was nearly in every case intended to safeguard family
+interests. . . . The range of calculation rarely went beyond this” (p. 64).
+Attempts were made to abrogate traditional kinship privileges of access
+to family garden areas (p. 70). Land held in common by close kinsmen
+became a cause of proprietary contention, sometimes pitting brother
+against brother, sometimes resulting in a definitive division and precise
+bounding of fraternal claims (Firth, 1959b; Spillius, 1957, p. 13).
+The movement in the sphere of food distribution was more complicated. Exchange showed a predictable pulsation between an expansion
+of sociability and generosity under trial, and a reversion to domestic
+isolation as the trial turned into disaster.13 At those times and in the
+places food shortage was less severe, the household economy would
+even efface itself: closely related families suspended their separate existences to pool supplies in a collective oven. But as the crisis deepened,
+an opposed tendency set in, made up of two complementary trends:
+decrease in sharing and increase of theft.14 Firth estimated that theft
+reached a level fivefold higher than its incidence during his first visit
+twenty-five years earlier, and where formerly it was restricted mainly
+to “semi-luxuries” now it was largely theft of staples—nor were ritual crops immune, or members of chiefly houses guiltless. “Nearly
+­everyone was stealing and nearly everyone was robbed” (Spillius, 1957,
+p. 12). Meanwhile, after the initial wave of sociability, the frequency
+and social range of sharing progressively declined. Instead of food, visitors got only apologies, perhaps disingenuous. Supplies were hidden
+from kinsmen, even locked up in boxes and someone left in the house
+to guard them. Firth describes such un-Tikopian behavior as this:
+In some cases the kinsman would suspect there was food in his host’s
+house; he would sit and chat and wait, hoping that the host would
+give way and use it. But nearly always the host would hold out until
+the guest had gone before unlocking the box and taking out the food.
+(Firth, 1959b, p. 83)
+
+Not that there was a war of every family against every family. The
+Tikopians remained polite. As Firth wrote, manners continued if morals degenerated. But the crisis did test certain structural tolerances.
+It exposed the weakness of that celebrated “We, the Tikopia” by the
+
+115
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+116
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+strength of the private household. The household proved a fortress
+of self-interest which in the crisis cut itself apart, raised its social
+drawbridges—when it was not engaged in sallies against the gardens
+of kith and kin.
+The DMP has to be counteracted and transcended. This not simply
+for technical reasons of cooperation, but because the domestic economy is as unreliable as it is apparently functional, a private nuisance
+and a public menace. The greater kinship system is one important way
+it is counteracted. But the continuing hold of the domestic economy
+then leaves its mark on the whole society: a contradiction between the
+infrastructure and the superstructure of kinship that is never entirely
+suppressed but continues in subtle ways to influence the everyday
+disposition of goods, and under stress may surface to put the whole
+economy in a state of segmentary collapse.
+THE ECONOMIC INTENSITY OF THE POLITICAL ORDER
+Two words are used for feasts [among the Sa’a], ngäuhe and houlaa:
+the meaning of the first is “eating,” of the second “fame.”
+(Ivens, 1927, p. 60)
+“Without feasts” [a Wogeo man] said, “we would not collect all our
+chestnuts nor plant so many trees. We would perhaps have enough
+to eat, but we would never have any really big meals.”
+(Hogbin, 1938–39, p. 324)
+
+In the course of primitive social evolution, main control over the
+domestic economy seems to pass from the formal solidarity of
+the kinship structure to its political aspect. As the structure is politicized, especially as it is centralized in ruling chiefs, the household
+economy is mobilized in a larger social cause. This impulse transmitted
+by polity to production is often attested ethnographically. For although
+the primitive headman or chief may be himself driven by personal
+ambition, he incarnates the collective finalities; he personifies a public economic principle in opposition to the private ends and petty
+self-concerns of the household economy. Tribal powers that be and
+would-be powers encroach upon the domestic system to undermine
+its autonomy, curb its anarchy, and unleash its productivity. “The pace
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+of life in a given Manus village” Margaret Mead observed, “the amount
+of goods in circulation, and therefore the actual amount of goods in
+existence depend on the number of leaders in that village. It varies
+with their enterprise, intelligence, and aggressiveness, and the number
+of their kin whose cooperation they can enlist” (1937a, pp. 216–217).
+Conversely, but to the same rule, Mary Douglas introduces her
+major monograph on the Lele of Kasai as a study in the failure of
+authority. And she notes immediately the economic consequence:
+“Those who have had anything to do with the Lele must have noticed
+the absence of anyone who could give orders with a reasonable hope
+of being obeyed. . . . The lack of authority goes a long way to explain
+their poverty” (1963, p. 1). This negative effect we have seen before,
+especially in relation to underuse of subsistence resources. As Cameiro perceived it for the Kuikuru, and Izikowitz advances a similar
+appreciation of Lamet, the issue is between a chronic tendency to
+divide and disperse the community, and, on the other side, the development of political controls which would check this fission and
+effect an economic dynamic more appropriate to the society’s technical capacity.
+I discuss this aspect of the primitive political economy only briefly
+and schematically.
+Everything depends on the political negation of the centrifugal
+tendency to which the DMP is naturally inclined. Otherwise said (and
+other factors being equal), the approximation to productive capacity accomplished by any given society is a vector of two contending
+political principles: on one hand, the centrifugal dispersion inscribed
+in the DMP—already a kind of reflexive mechanism of peace; on the
+other hand, the accord that can be installed by prevailing institutions of hierarchy and alliance, whose success is measurable rather by
+the concentration of population. Of course, more than just the tribal
+authorities are at issue, and more than their intervention against
+the primitive reflex of fission. The regional intensity of occupation
+depends too on relations between communities, relations possibly carried on as much by marriages and lineages as by constituted
+authorities. My concern here is merely to indicate the problématique:
+each political organization harbors a coefficient of population density, thus in conjunction with the ecological givens, a determinate
+intensity of land use.
+
+117
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+118
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+The second aspect of the general problem, the effect of polity upon
+household labor, I discuss in greater detail. This in part because more
+ethnographic detail is available. It is even possible to isolate certain
+formal qualities of leadership structure that imply different degrees of
+domestic productivity, so hold out the hope of analysis in terms of a
+social intensity profile. Before these flights of typology, however, we
+should first consider the structural and ideological means by which
+power in the primitive societies is realized in production.
+The impact of the political system upon domestic production is
+not unlike the impact of the kinship system. But then, the organization of authority is not differentiated from the kinship order,
+and its economic effect is best understood as a radicalization of the
+kinship function. Even many of the greatest African chiefs, and all
+those of Polynesia, were not disengaged from the kinship nexus,
+and it is this which renders comprehensible the economics of their
+political acts— as well as the politics of their economics. Thus
+I specifically exclude from this discussion true kings and states, to
+speak only of societies where kinship is king and the “king” only a
+superior kinsman. At the most we have to deal with “chiefs” properly so-called, and chieftainship is a political differentiation of a
+kinship order—as kingship is usually a kinship differentiation of a
+political order (State). Moreover, what is true of the most advanced
+form, chieftainship, is à plus forte raison true of all other kinds of tribal
+leaders: they hold positions in and of a network of kinship. And
+as it is structurally, so ideologically and in practice the economic
+role of the headman is only a differentiation of kinship morality.
+Leadership is here a higher form of kinship, hence a higher form
+of reciprocity and liberality. This repeats itself in ethnographic
+descriptions from all over the primitive world, even to the dilemmas posed by chiefly obligations of generosity:
+The [Nambikwara] chief must not merely do well: he must try, and his
+group will expect him to try, to do better than the others. How does
+the chief fulfill these obligations? The first and main instrument of his
+power is his generosity. Generosity is among most primitive peoples,
+and above all in America, an essential attribute of power. It has a role
+to play even in those rudimentary cultures where the notion of property consists merely in a handful of rudely fashioned objects. Although
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+the chief does not seem to be in a privileged position, from the material point of view, he must have under his control surplus quantities
+of food, tools, weapons, and ornaments which, however trifling in
+themselves, are nonetheless considerable in relation to the prevailing
+poverty. When an individual, a family, or the band as a whole, wishes
+or needs something, it is to the chief that an appeal must be made.
+Generosity is, therefore, the first attribute to be expected of a new
+chief. It is a note which will be struck almost continuously; and from
+the nature, discordant or otherwise, of the sound which results the
+chief can judge of his standing with the band. His “subjects” make the
+most of all this. . . . The chiefs were my best informers; and as I knew
+the difficulties of their position I liked to reward them liberally. Rarely,
+however, did any of my presents remain in their hands for more than
+a day or two. And when I moved on, after sharing for several weeks
+the life of any particular band, its members rejoiced in the acquisition of axes, knives, pearls, and so forth from my stores. The chief,
+by contrast, was generally as poor, in material terms, as he had been
+when I arrived. His share, which was very much larger than the average allowance, had all been extorted from him.
+(Lévi-Strauss, 1961, p. 304)
+
+The same refrain appears in the complaint of the Tahitian priest-chief,
+Ha’amanimani, to the Duff missionaries:
+“You give me,” says he, “much parow [talk] and much prayers to the
+Eatora [God], but very few axes, knives, scissars, or cloth.” The case
+is, that whatever he receives he immediately distributes among his
+friends and dependents; so that for all the numerous presents he had
+received, he had nothing now to shew, except a glazed hat, a pair of
+breeches, and an old black coat, which he had fringed with red feathers. And this prodigal behaviour he excuses by saying that, were he
+not to do so, he should never be a king (sic), nor even remain a chief
+of any consequence.
+(Duff Missionaries, 1799, pp. 224–225)
+
+This benevolent interest of the headman in the process of distribution, and the political energy he accumulates therefrom, are generated by the field of kinship in which he moves. In one respect it is a
+matter of prestige. Insofar as the society is socially committed to kin
+
+119
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+120
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+relationships, morally it is commited to generosity; whoever, therefore, is liberal automatically merits the general esteem. Generous, the
+chief is a paragon among kinsmen. But more profoundly, his generosity is a kind of constraint. “Gifts make slaves,” the Eskimo say, “as
+whips make dogs.” Common in any society, this constraint gains in
+force where the norms of kinship are dominant. Because kinship is a
+social relation of reciprocity, of mutual aid; hence, generosity is a manifest imposition of debt, putting the recipient in a circumspect and
+responsive relation to the donor during all that period the gift is unrequited. The economic relation of giver-receiver is the political relation
+of leader-follower.15 This is the working principle. More exactly, it is
+the operative ideology.
+“Ideology” that is revealed as such from the beginning by its contradiction with the larger ideal in which it is fixed, that is, with reciprocity. Always the rank relation, faithful to the qualities of a society
+it would not abolish, is compensatory. It is conceived in terms of balance, a “mutual helpfulness,” a “continual reciprocity.”16 But in strictly
+material terms the relation cannot be both “reciprocal” and “generous,” the exchange at once equivalent and more so. “Ideology,” then,
+because “chiefly liberality” must ignore the contrary flow of goods
+from people to chief—perhaps by categorizing this as the chief’s
+due—on pain of canceling out the generosity; or else, or in addition,
+the relation conceals a material unbalance—perhaps rationalized by
+other kinds of compensation—on pain of negating the reciprocity. We
+shall find that material unbalances in fact exist; depending on the system, they are borne by one or the other side, headman or people. Yet
+the conjunction of a norm of reciprocity with a reality of exploitation
+would not distinguish the primitive political economy from any other:
+everywhere in the world the indigenous category for exploitation is
+“reciprocity.”17
+Considered at a more abstract level, the ideological ambiguity of
+the chiefly office, at once generous and reciprocal, expresses perfectly
+the contradiction of a primitive nobility: between power and kinship,
+inequality in a society of amicability. The only reconciliation, of course,
+is an inequality that is generally beneficial, the only justification of
+power its disinterestedness; which is to say, economically, a distribution
+of goods from the chiefs to the people that deepens at the same time
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+it offsets the latter’s dependence—and leaves no interpretation of the
+distribution from people to chiefs but as a moment in a cycle of reciprocity. The ideological ambiguity is functional. On the one hand, the
+ethic of chiefly generosity blesses the inequality; on the other, the ideal
+of reciprocity denies that it makes any difference.18
+However it is realized, one thing the ideology of headmanship
+does not admit: the economic introversion of the DMP. The “liberality” of the chief must stimulate production beyond the usual aims of
+domestic livelihood, if only in the chief’s own household; reciprocity
+between the ranks will do the same on a more or less general scale. The
+political economy cannot survive on that restrained use of resources
+which for the domestic economy is a satisfactory existence.
+We return thus to the original point: the political life is a stimulus to
+production. But it is so to varying degrees. The following paragraphs
+trace some of the variations in political form that seem to connote
+differing domestic productivities, beginning with the Melanesian bigman orders.
+Open systems of status competition, such as prevail in Melanesia,
+develop economic impact in the first place from the ambition of aspiring big-men. Intensification appears in their own work and the labors
+of their own household. The New Guinea Busama clubhouse leader, as
+Hogbin reports,
+has to work harder than anyone else to keep up his stocks of food.
+The aspirant for honours cannot rest on his laurels but must go on
+holding large feasts and piling up credits. It is acknowledged that he
+has to toil early and late—“His hands are never free from earth, and
+his forehead continually drips with sweat.”
+(Hogbin, 1951, p. 131)19
+
+To this end of accumulation and generosity, the Melanesian leader typically attempts to enlarge his domestic working force, perhaps by polygyny: “Another woman go garden, another woman go take firewood,
+another woman go catch fish, another woman cook him—husband he
+sing out plenty people come kaikai [eat]” (Landtman, 1927, p. 168).
+Clearly the Chayanov slope begins to suffer a political deviation; against
+the rule, certain of the most effective groups are working the most. But
+
+121
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+122
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+the big-man would quickly surpass the narrow base of autoexploitation.
+Deploying his resources carefully, the emerging leader uses wealth to
+place others in his debt. Moving beyond his household, he constructs
+a following whose production may be harnassed to his ambition. The
+process of intensification in production is thus coupled to reciprocity
+in exchange. So the Lakalai big-man, with a view toward sponsoring
+memorial festivals and participating successfully in external trade,
+must not only show personal industry but also be able to call on
+the industry of others. He must have a following. If he is blessed
+with many junior kinsmen whose labor he actually commands, he is
+under less pressure to build up a following. If he is not so blessed,
+he must acquire his following by assuming responsibility for the
+welfare of remoter kinsmen. By displaying all of the necessary attributes of a responsible leader, by dutifully sponsoring festivals on
+behalf of his children, by being ready with wealth to meet his obligations to his in-laws, by buying magic and dances for his children, by
+assuming whatever burdens he can feasibly carry, he makes himself
+attractive to older and younger kinsmen alike. . . . His younger kinsmen court his support by volunteering to help him in his undertakings, by cheerfully obeying his calls to work, and by catering to
+his wishes. They tend increasingly to entrust their wealth to him as
+trustee in preference to some senior relative.
+(Chowning and Goodenough, 1965–66, p. 457)
+
+Drawing then from a local group of followers economically engaged
+to his cause, the big-man opens the final and socially most expansive
+phase of his ambition. He sponsors or contributes heavily to great
+public feasts and distributions that reach outside his own circle to
+establish his dignity, “build his name” Melanesians say, in society at
+large. For
+the purpose in owning pigs and pig-wealth is not to store them nor to
+put them on recurrent display: it is to use them. The aggregate effect
+is a vast circulating flow of pigs, plumes and shells. The motive force
+of the flow is the reputation men can gain from ostentatious participation in it. . . . The Kuma “big men” or “men of strength” . . . who
+command much wealth, are entrepreneurs in the sense they control
+the flow of valuables between clans by making fresh presentations
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+on their own account and choosing whether or not to contribute to
+others. Their profit in these transactions is incremental reputation. . . .
+The aim is not simply to be wealthy, nor even to act as only the wealthy
+can act: it is to be known to be wealthy.
+(Reay, 1959, p. 96)
+
+The big-man’s personal career has a general political significance.
+The big-man and his consuming ambition are means whereby a segmentary society, “acephalous” and fragmented into small autonomous
+communities, overcomes these cleavages, at least provisionally, to fashion larger fields of relation and higher levels of cooperation. Through
+concern for his own reputation, the Melanesian big-man becomes a
+point of articulation in a tribal structure.
+It should not be supposed that the big-man of Melanesian type
+is a necessary condition of the segmentary societies. Chiefs of the
+Northwest Coast Indian villages achieve the same sort of articulation, and if in their potlatches it is by external feasting similar to
+the prestige quest of many Melanesian leaders, the chief has an
+entirely different relation to the internal economy. A Northwest
+Coast chieftain is a lineage head, and in this capacity is necessarily
+accorded a certain right to group resources. He is not obliged to
+establish a personal claim by the dynamic of an autoexploitation
+put at the others’ disposal. Of even greater contrast, a segmentary
+society may dispense with all but minimal ties between its constituent parts; or else, as in the celebrated case of the Nuer segmentary
+lineage system, the relations between local groups are fixed mainly
+and automatically by descent, without recourse to a differentiation
+among men.
+The Nuer pose an alternative to the segmentary politics of personal
+power and renown: the anonymous and silent government of structure. In classic segmentary lineage systems, headmen have to be content with a local importance at best, and perhaps proven by attributes
+other than their generosity. The interesting deduction is that the segmentary lineage system has a lower coefficient of intensity than the
+Melanesian polity.
+The Melanesian system can be put to another speculative purpose.
+Beyond the contrast it suggests between tribes with and without
+rulers, in its successive phases of generous autoexploitation and an
+
+123
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+124
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+accumulation funded by reciprocity, the career of the Melanesian bigman makes a transition between two forms of economic authority that
+elsewhere appear separately and appear to have an unequal economic
+potential. Autoexploitation is a kind of original and underdeveloped
+economics of respect. It is often encountered in the autonomous
+local groups of tribal societies—the Nambikwara “chief” is an example of the genre—and most commonly in the camps of hunters and
+gatherers:
+No Bushman wants prominence, but Toma went further than most
+in avoiding prominence; he had almost no possessions and gave
+away everything that came into his hands. He was diplomatic, for
+in exchange for his self-imposed impoverty he won the respect and
+following of all the people there.
+(Thomas, 1959, p. 183)
+
+Authority of this kind has obvious limitations, both economic and
+political—and the modesty of each sets limits to the other. Only the
+domestic labor immediately under the control of the headman is
+politically engaged. While his own household labor pool is expandable
+to a degree, as by polygyny, neither through structure nor gratitude
+does the headman gain significant command over the output of other
+domestic groups. The surplus of one house put to the benefit of others,
+this politique is closest to the ideal of noble liberality—and the weakest
+economics of leadership. Its principal force is attraction rather than
+compulsion, and the field of this force is principally restricted to people in direct personal contact with the leader. For under the simple and
+often capricious technical circumstances, with the labor of so few provisioning it, the headman’s “fund of power” (as Malinowski called it)
+is meagre and rapidly exhausted. Furthermore, it is necessarily diluted
+in political efficacy, the influence to be had by its distribution, as this
+distribution is stretched out in social space. The greatest dividends of
+influence, then, are accrued in the local cohort, and in the form of the
+respect due a self-effacing generosity. But no one is thereby rendered
+dependent, and this respect will have to compete with all the other
+kinds of deference that can be accorded in face-to-face relations. Hence
+the economic is not necessarily the dominant basis of authority in
+the simpler societies: by comparison with generational status, or with
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+personal attributes and capacities from the mystical to the oratorical, it
+may be politically negligible.
+At the other extreme is chieftainship properly so-called, as it developed, for example, in high islands of Polynesia, among nomads of
+interior Asia, and many central and southern African peoples. The
+contrast of economic and political form seems complete: from
+autoexploitation—by the sweat of the leader’s brow—to tribute,
+accompanied sometimes by the idea that even to shoulder a burden
+is beneath the chiefly dignity: for that matter, dignity may require
+that he be carried; from a respect personally accorded to a command
+structurally bestowed; and from a liberality something less than reciprocal to a reciprocity less than liberal. The difference is institutional.
+It lies in the formation of hierarchical relations within and between
+local groups, a regional political frame maintained by a system of
+chiefs, major and minor, holding sway over segments of greater and
+lesser order and subordinate all to the one paramount. The integration
+of parochial groups tenuously broached by Melanesian big-men, if
+unimaginable to prestigious hunters, is achieved in these pyramidal
+societies. They are still primitive. The political armature is provided by
+kinship groups. But these groups make positions of official authority
+a condition of their organization. Now men do not personally construct their power over others; they come to power. Power resides in
+the office, in an organized acquiesence to chiefly privileges and organized means of upholding them. Included is a specific control over
+the goods and the services of the underlying population. The people
+owe in advance their labor and their products. And with these funds
+of power, the chief indulges in grandiose gestures of generosity ranging from personal aid to massive support of collective ceremonial or
+economic enterprise. The flow of goods between chiefs and people
+then becomes cyclical and continual:
+The prestige of a [Maori] chief was bound up with his free use of
+wealth, particularly food. This in turn tended to secure for him a
+larger revenue from which to display his hospitality, since his followers and relatives brought him choice gifts. . . . Apart from lavish entertainment of strangers and visitors, the chief also disbursed
+wealth freely as presents among his followers. By this means their
+allegiance was secured and he repaid them for the gifts and personal
+
+125
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+126
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+services rendered to him. . . . There was thus a continual reciprocity
+between chief and people. . . . It was by his accumulation and possession of wealth, and his subsequent lavish distribution of it, that such
+a man was able to give the spur to . . . important tribal enterprises. He
+was a kind of channel through which wealth flowed, concentrating it
+only to pour it out freely again.
+(Firth, 1959a, p. 133)
+
+In advanced forms of chieftainship, of which the Maori is not
+particularly an illustration, this redistribution is not without material benefit to the chief. If an historical metaphor be permitted: what
+begins with the would-be headman putting his production to others’
+benefit, ends, to some degree, with others putting their production to
+the chief’s benefit.
+Eventually the ideals of reciprocity and chiefly liberality serve as
+mystification of the people’s dependence. Liberal, the chief only
+returns to the community what he has received from the community.
+Reciprocal then? Perhaps he did not return all of that. The cycle has all
+the reciprocity of the Christmas present the small child gives his father,
+bought with the money his father had given him. Still this familial
+exchange is effective socially, and so is chiefly redistribution. Besides,
+when the timing and diversity of the goods redistributed are taken
+into consideration, the people may appreciate concrete benefits otherwise unobtainable. In any case, the material residue that sometimes
+falls to the chief is not the main sense of the institution. The sense is
+the power residing with the chief from the wealth he has let fall to the
+people. And in a larger vantage, by thus supporting communal welfare
+and organizing communal activities, the chief creates a collective good
+beyond the conception and capacity of the society’s domestic groups
+taken separately. He institutes a public economy greater than the sum
+of its household parts.
+This collective good is also won at the expense of the household
+parts. Too frequently and mechanically anthropologists attribute the
+appearance of chieftainship to the production of surplus (for example,
+Sahlins, 1958). In the historic process, however, the relation has been
+at least mutual, and in the functioning of primitive society it is rather
+the other way around. Leadership continually generates domestic
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+surplus. The development of rank and chieftainship becomes, pari passu,
+development of the productive forces.
+In brief testimony, the remarkable ability of certain political orders
+distinguished by advanced ideas of chieftainship to augment and
+diversify production. Again I use Polynesian examples, partly for the
+reason that in earlier work I had argued the exceptional productivity
+of this polity by comparison with the Melanesian (Sahlins, 1963);
+partly also because a few of the Polynesian societies, Hawaii particularly, take the primitive contradiction between the domestic and
+public economies to an ultimate crisis—revelatory it seems not only
+of this disconformity but of the economic and political limits of kinship society.
+Comparison with Melanesia would not only compliment the
+Polynesian achievement in overall production, but for the occupation and improvement of once-marginal areas effected under the
+aegis of ruling chiefs. To this process the chronic struggles between
+neighboring chiefdoms often supplied decisive force. Competition
+probably accounts for a remarkable tendency to invert by culture
+the ecology of nature: many of the poorer regions of Polynesian
+high islands were the more intensively exploited. The contrast
+in this respect between the southeast peninsula of Tahiti and the
+fertile northwest moved one of Captain Cook’s officers, Anderson,
+to reflect positively Toynbeean: “It shows,” he said, “that even the
+defects of nature . . . have their use in promoting man to industry
+and art” (cited in Lewthwaite, 1964, p. 33). The Tahitian group is
+even better known for the integration of offshore atolls in mainland chiefdoms. Here was a political combination of economies so
+different as to constitute in Melanesia, and even other parts of Polynesia, the basis of entirely different cultural systems. Tetiaroa is the
+most celebrated example: “the Palm Beach of the South Seas,” a complex of thirteen “spit-of-land” coral islets 26 miles north of Tahiti,
+occupied for marine and coconut production by men of the Pau
+district chief and as a watering place of the Tahitian nobility. By forbidding all cultivation except coconut and taro on Tetiaroa, the Pau
+chief forced a continuous exchange with Tahiti. In a punitive action
+against the chief, Cook once seized 25 canoes en route from Tetiaroa
+with a cargo of cured fish. “Even in stormy weather, the missionaries
+
+127
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+128
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+[of the Duff] counted 100 canoes on the beach [of Tetiaroa], for
+there the aristocracy went to feast and fatten, and their flotillas
+returned ‘rich as a fleet of galleons’ ” (Lewthwaite, 1966, p. 49).
+Then again, one might consider the impressive development of taro
+cultivation in the Hawaiian Islands, notable for its extent, diversity and
+intensity: the 250–350 different varieties, often recognized for suitability in different microenvironments; the large irrigation networks
+(as in the Waipio Valley, island of Hawaii, site of a single complex
+three miles by three-fourths to one mile); irrigation remarkable for
+the complexity of ditching and protective works (a canal in Waimea,
+Kauai runs 400 feet around a cliff and up to 20 feet above level, while
+in the Kalalau Valley a sloping sea wall built of great boulders shelters
+a broad stretch of shoreward flats); irrigation remarkable again for the
+utilization of tiny pockets of soil interspersed through rocky lava, and
+for the terracing of narrow gorges deep into the mountains, “where
+the least available space has been won.” Nor is this to catalogue the
+manifold ecological specialization of agricultural techniques, the several types of forest as well as wet taro cultivation, and in the swamps a
+form of chinampa, the “muddyback method.”20
+The relationship between Polynesian chieftainship and the intensification of production can be given historic depth. In Hawaii, at least,
+the political transformation of marginal areas knows legendary depth:
+a chief who used his authority to squeeze water out of rocks. On the
+western side of the Keanae valley, Maui, is a peninsula that stands a
+mile out to sea and a much longer distance beyond ecological reason:
+fundamentally barren and rocky, without natural soil, but covered nevertheless with famous acres of taro. Tradition lays the miracle to an old
+chief, his name now forgotten,
+. . . who was constantly at war with the people of Wailua and determined that he must have more good land under cultivation, more
+food, and more people. So he set all his people to work (they were
+then living within the valley and going down to the peninsula only
+for fishing), carrying soil in baskets from the valley down to the lava
+point. The soil and the banks enclosing the patches were thus, in the
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+course of many years, all transplanted and packed into place. Thus
+did the watered flats of Keanae originate.
+(Handy, 1940, p. 110)
+
+Perhaps the Hawaiian tradition is not truly historical. Still it is the
+true history of Polynesia: a kind of paradigm of which the entire
+archaeological sequence of the Marquesas as presented by Suggs, for
+example, is only another version. All Marquesan prehistory recounts
+the same dialogue between intervalley competition, the exercise of
+chiefly power, and the occupation and development of marginal areas
+of the islands (Suggs, 1961).
+Is there evidence in Hawaii or Tahiti of political crises comparable to
+the episode Firth and Spillius described for Tikopia? Do we discover,
+that is to say, analogous crises révélatrices, here exposing the vertical contradiction between the household economy and the chieftainship, as
+the Tikopian exposed the horizontal contradiction between household
+and kindred? But then, the Tikopian famine is not irrelevant either
+to the first question, for the same hurricanes of 1953 and 1954 that
+shook the kinship structure also almost brought down the chiefs. As
+the supply of food diminished, economic relations between chiefs and
+people deteriorated. Customary dues to the clan leaders were neglected;
+while, to the contrary, stealing from chiefly gardens “became almost
+barefaced.” Said Pa Ngarumea: “When the land is firm people pay
+respect to the things of the chief, but when there is a famine people
+go and make sport of them” (Firth, 1959b, p. 92). Moreover, reciprocity in goods is only the concrete mode of the Tikopian political
+dialogue; its breakdown meant the whole system of political communication was in question. The Tikopian polity had begun to unhinge.
+An uncommon rift appeared between chiefs and the underlying population. Somber traditions were resurrected— “myths,” Spillius considers them—telling how certain chiefs of old, when pressure on the
+local food supply became unsupportable, drove the commoners en
+masse off the island. To the present chiefs the idea seemed fantastic, but one private meeting of notables unwittingly provoked a mass
+mobilization of the people of the Faea district, forewarned by a spirit
+medium and forearmed to resist a chiefly conspiracy to expel them
+(Firth, 1959b, p. 93; Spillius, 1957, pp. 16–17). Still the antagonism
+
+129
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+130
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+remained incomplete, the commoners in an undeveloped stage of
+political consciousness and the chiefs in command throughout. Battle
+was not given. Indeed, it was never even conceived by Tikopians in
+the classic form of a popular uprising against the powers that be. On
+the contrary, it was the chiefs who constituted the danger to the commoners. And to the last, everyone continued to concede the chiefs’
+traditional privilege of survival, whoever else might have to die—and
+however much food was being stolen from them. The Tikopian political crisis was thus aborted.21
+Let us then consider Hawaii, where one can follow conflicts of the
+same general type to the conclusion of a successful rebellion. Conflicts “of the same general type” in the sense they brought forth the
+opposition between the chieftainship and domestic interests, but
+the differences are also important. In Tikopia the political stress was
+externally induced. It did not unfold from the normal working of
+Tikopian society, which normally does work, but in the wake of a
+natural catastrophe. And it could have happened any structural time,
+at any phase in the development of the system. The political upset
+in Tikopia was exogenic, abnormal and historically indeterminate.
+But the rebellions with which Hawaiian traditional history fascinated
+itself, Hawaiian history had made. They were produced in the normal course of Hawaiian society, and more than endogenic, they were
+recurrent. These troubles, besides, seem incapable of realization at
+just any historic stage. They mark rather the maturity of the Polynesian system, the working through of its contradictions to the point of
+denouement. They reveal the structural limits.
+The paramount chiefs of old Hawaii reigned each and independently over a single island, a section of one of the larger islands,
+sometimes over districts of neighboring islands. The variation
+is already part of the problem: the tendency, on which traditions
+discourse at length, for chiefly domains to enlarge and contract,
+extended once by conquest only to be partitioned again by rebellion. And this cycle was geared to a second, such that the rotation
+of one would set off the other. Ruling chiefs showed a propensity to
+“eat the power of the government too much”; that is, to oppress the
+people economically, which the chiefs found themselves forced to
+do when the political domain was enlarged, despite their obligations
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+as kinsmen and chiefs to consider the people’s welfare, which they
+nevertheless found difficult to do even when the polity was reduced.
+For the administration of merely an ordinary domain would bite
+deeply into the labor and goods of the common people. The population was dispersed over a wide area; the means of transportation
+and communication were rudimentary. The chieftainship besides
+enjoyed no monopoly of force. It had to meet its diverse problems
+of rule organizationally then, by a certain administrative formation:
+a bloated political establishment that sought to cope with a proliferation of tasks by a multiplication of personnel, at the same time
+economizing its scarce real force by an awesome display of conspicuous consumption as intimidating to the people as it was glorifying
+to the chiefs. But the material weight of this chiefly retinue and the
+sumptuary airs it affected fell, of course, on the ordinary people. It fell
+especially on those nearest the paramount, within a range that made
+transport worthwhile and the threat of sanctions effective. Conscious,
+it seems, of the logistic burdens they were obliged to impose, the
+Hawaiian chiefs conceived several means to relieve the pressure, notably including a career of conquest with a view toward enlarging the
+tributary base. In the successful event, however, with the realm now
+stretched over distant and lately subdued hinterlands, the bureaucratic
+costs of rule apparently rose higher than the increases in revenue, so
+that the victorious chief merely succeeded in adding enemies abroad
+to a worse unrest at home. The cycles of centralization and exaction
+are now at their zenith.
+At this point, Hawaiian traditions will hint of intrigue and conspiracy mounted against the ruling chief by local followers, perhaps in
+collusion with distant subjects.22 The rebellion is launched always by
+important chiefs, who of course had their own reasons for challenging the paramount, but had their power to do so as personifications of
+a more general discontent. The revolt takes form as a court assassination, an armed struggle, or both. And then, as one ethnological bard
+said, the Hawaiians sat cross-legged upon the ground and told sad
+stories of the death of kings:
+Many kings have been put to death by the people because of their
+oppression of the makaainana [the commoners]. The following kings
+
+131
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+132
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+lost their lives on account of their cruel exactions on the commoners: Koihala was put to death in Kau, for which reason the district of
+Kau was called the Wier. Koka-i-ka-lani was an alii [chief ] who was
+violently put to death in Kau . . . Enu-nui-kai-malino was an alii who
+was secretly put out of the way by the fishermen in Keahuolu in Kona
+. . . King Hakau was put to death by the hand of Umi at Waipio valley
+in Hamakua, Hawaii.23 Lono-i-ka-makahiki was a king who was banished by the people of Kona. . . . It was for this reason that some of
+the ancient kings had a wholesome fear of the people.
+(Malo, 1951, p. 195)
+
+It is important that the death of tyrants was taken in charge by men
+of authority and chiefs themselves. The rebellion was not then a revolution; the chieftainship if overthrown was replaced by a chieftainship.
+Delivering itself of oppressive rulers, the system did not consequently
+rid itself of basic contradictions, transcend and transform itself, but
+continued instead to cycle within the confines of existing institutions.
+In the object of replacing a bad (exacting) chief by a good (generous)
+one, the rebellion would have a fair chance of success. In its aftermath,
+the enlarged political domain would probably fragment, as recalcitrant outdistricts regained their independence. The chieftainship thus
+decentralized, its economic weight was reduced. Power and oppression returned to the nadir—for the time being.
+The epic quality of Hawaiian traditions conceals a more mundane
+causality. Manifestly, the political cycle had an economic base. The great
+struggles between powerful chiefs and their respective districts were
+transposed forms of the more essential struggle over domestic labor:
+whether it was to be more modestly employed in household livelihood or more intensively deployed to political organization. That the
+chiefs had the right to levy the domestic economy was not contested.
+The problem was, on one hand, the customary limit to this right, as
+established by the existing structure, and on the other hand, the regular abuse of it set off by a structural exigency. Hawaiian chieftainship
+had distanced itself from the people, yet it had never definitively severed the kinship relation. This primitive bond between ruler and ruled
+remained in force, and with it the usual ethics of reciprocity and chiefly
+generosity.24 Malo says of the great storehouses maintained by ruling
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION II
+
+chiefs that they were “means of keeping the people contented, so they
+would not desert the king”—this in a passage otherwise remarkable for
+its political cynicism: “as the rat will not desert the pantry . . . where he
+thinks food is, so the people will not desert the king while they think
+there is food in his storehouse” (Malo, 1951, p. 195).
+In other words, the chiefly toll on the household economy had a
+moral limit consistent with the kinship configuration of the society.
+Up to a point it was the chief’s due, but beyond that, highhandedness.
+The organization set an acceptable proportion between the allocation
+of labor to the chiefly and domestic sectors. It set a fitting proportion
+also between retention of the people’s goods by the chief and redistribution to the people. It could tolerate only a certain unbalance in these
+matters. Besides, some propriety ought to be observed. Exaction by
+force is no customary gift, nor is pillage the chief’s due. The chiefs had
+their own lands, set aside for their support, and received many gifts
+regularly from the people. When a ruling chief’s men seized the people’s pigs and plundered their farms, the “makaainana were not pleased
+with this conduct on the part of the king”—it was “tyranny,” “abuse
+of authority” (Malo, 1951, p. 196). Chiefs were too much inclined to
+work the makaainana: “It was a life of weariness . . . they were compelled
+at frequent intervals to go here and there to do this and that work for
+the lord of the land” (p. 64). But then let the leader beware: “The people made war on bad kings in old times.” Thus did the system define
+and maintain a ceiling on the intensification of domestic production
+by political means and for public purposes.
+Malo, Kamakau and the other custodians of Hawaiian tradition refer
+habitually to the paramount chiefs as “kings.” But the trouble was precisely that they were not kings. They had not broken structurally with
+the people at large, so they might dishonor the kinship morality only
+on pain of a mass disaffection. And without a monopoly of force, the
+probability was that the general discontent would come down on their
+particular heads. In a comparative perspective, the great disadvantage
+of the Hawaiian organization was its primitiveness: it was not a state.
+Its further advance could only have been secured by an evolution in
+that direction. If Hawaiian society discovered limits to its ability to
+augment production and polity, this threshold which it had reached
+but could not cross was the boundary of primitive society itself.
+
+133
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+4

@@ -1,0 +1,101 @@
+The Rise of Anthropological Theory
+
+of valuable nomothetic essays among which the works of Murdock
+(1949), Whiting and Child (1953), and Whiting (1964) may be
+taken as representative.
+
+Murdock’s Social Structure, aspects of which we shall discuss in a
+moment, would alone probably justify the enterprise. But the creation
+of the files must be seen as ushering in a whole new era of the compara-
+tive method in which the search for nomothetic regularities has led
+to the development of a number of additional world samples. Most
+of these take the Human Relations Area Files as their starting point.
+Murdock himself (1957) has led the way here with the development
+of a “World Ethnographic Sample” and an Ethnographic Atlas of that
+sample in which some 6oo societies are described with respect to
+several dozen coded features. This atlas is being issued in serial form
+in the journal Ethnology, which Murdock founded in 1962.
+
+SIGNIFICANCE OF THE FILES
+
+The principle upon which all of this activity has proceeded
+seems unassailable and to be representative in large measure of the
+future course of ethnology. Ethnological statements which aspire to
+nomothetic status must be checked for their degree of correspondence
+to the ethnographic reality in as large a number of cases as possible.
+This requirement is imposed on us by virtue of our inability to
+perform laboratory tests on human history. Dependent as we are on
+the unfolding of the natural continuum of events, our generalizations
+must be couched in probabilistic terms derived from the observation
+of the frequencies with which predicted or retrodicted events occur.
+Synchronic and diachronic causal relations, so often hitherto expressed
+in terms of approximate trends or tendencies, can only benefit from
+more precise statements of operationally defined measures of proba-
+bility. Once the practice of stating causal relationships in terms of
+probabilities of association becomes firmly established, many problems
+which have plagued generations of determinists and antideterminists
+will dissolve themselves into a more profitable level of discourse.
+Furthermore, it is obvious that the social sciences are about to glut
+the conventional library channels of information storage and retrieval
+with indigestible quantities of raw data. We must welcome all at-
+tempts to enlarge the utility of the data on hand and to maximize
+the effectiveness of the yearly crop.
+
+To appreciate these information devices as technical assets implies,
+of course, that one is aware of their technical shortcomings. Problems
+~xist on many levels and manifest varying degrees of resistance to
+
+614
+
+v
+
+21. Statistical Survey and the Nomothetic Revival
+
+improvement. The Files, for example, are dependent upon ethno-
+graphic monographs whose scope, quality, and theoretical design are
+highly variable. Answers to many ethnographic questions simply can-
+not be extracted from the sample as it is now constituted. There is
+very little which the Files can do, for instance, by way of compensat-
+ing for the relative paucity of reliable quantitative information on all
+aspects of primitive economics and social organization (cf. kOBBEN
+1967:10). The need to overcome the unevenness of the monographic
+resources prevented Murdock from establishing a random sample of
+cultures, since cultures were included or rejected partially in accor-
+dance with the quality of the available literature. It may very well be
+that this factor biases the sample in unknown ways, as would happen,
+for example, if the best known and best reported groups were the
+most peaceful, or the most acculturated. This in turn places limitations
+on the kinds of statistical measures which can legitimately be applied
+to the typical correlation analysis end-product.
+
+DIFFUSION AND THE PROBLEM OF
+UNITS
+
+The Files and all similar ethnographic samples are plagued by
+difficulties in establishing the boundaries of discrete sociocultural
+systems. Some cultures in the sample may actually consist of several
+such systems, whereas others, counted separately, may actually de-
+serve to be lumped together.
+
+In addition, there is the notorious question, first raised by Sir
+Francis Galton, of how to distinguish correlations which arise from
+nomothetic influence from those which reflect diffusion (e.g., gasoline
+and aeroplanes as distinguished from bow ties and aeroplanes). It is
+interesting to note that it was this issue which discouraged Boas,
+despite an interest in statistics, from adopting Tylor's method, about
+which he was initially enthusiastic (LOWIE 1946:227).
+
+Since 1961 Raoul Naroll (1961; 1964) and Naroll and D’Andrade
+(1963) have proposed a total of five solutions to the problem which
+baffled Galton. These solutions involve the establishment of arcs of
+contiguous cultures extending over hundreds and preferably thou-
+sands of miles within which various mathematical devices are em-
+ployed to sift out the probable effects of contact.
+
+Murdock (1957:193) has argued persuasively on behalf of the point
+of view which minimizes the diffusionary effect, in conformity with
+the viewpoint generally adopted by Steward and other critics of the
+extreme diffusionists and historical particularists:
+
+615
+

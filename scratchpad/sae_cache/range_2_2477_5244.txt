@@ -1,0 +1,2768 @@
+THE DOMESTIC MODE OF
+PRODUCTION: THE STRUCTURE
+OF UNDERPRODUCTION
+This chapter is constructed on an observation in apparent contradiction to the pristine “affluence” I have just taken so much trouble to
+defend: the primitive economies are underproductive. The main run
+of them, agricultural as well as preagricultural, seem not to realize
+their own economic capacities. Labor power is underused, technological means are not fully engaged, natural resources are left untapped.
+This is not the simple point that the output of primitive societies is
+low: it is the complex problem that production is low relative to existing possibilities. So understood, “underproduction” is not necessarily
+inconsistent with a pristine “affluence.” All the people’s material wants
+might still be easily satisfied even though the economy is running
+below capacity. Indeed, the former is rather a condition of the latter:
+given the modest ideas of “satisfaction” locally prevailing, labor and
+resources need not be exploited to the full.
+In any event, there are indications of underproduction from many
+parts of the primitive world, and the first task of the essay is to give
+some sense of the evidence. Beyond any initial attempt at explanation, the discovery of this tendency—more precisely of several related
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+tendencies of the primitive economic performance—seems of greater
+importance. I raise the possibility that underproduction is in the nature
+of the economies at issue; that is, economies organized by domestic
+groups and kinship relations.
+DIMENSIONS OF UNDERPRODUCTION
+Underuse of Resources
+
+The major evidence for underexploitation of productive resources
+comes from agricultural societies, especially those practicing slashand-burn cultivation. Probably this is a function of research procedures rather than a dubious special privilege of the subsistence type.
+Similar observations have been made of hunting and of herding economies, but anecdotally for the most part, and without benefit of a
+practicable measure. Slash-and-burn agriculture, on the other hand,
+uniquely lends itself to quantified assessments of economic capacity.
+And in almost all the cases so far investigated, still not numerous but
+from many different parts of the globe, especially where the people
+have not been confined to “native reserves,” the actual production is
+substantially less than the possible.
+Slash-and-burn, an agriculture of neolithic origin, is widely practiced today in tropical forests. It is a technique for opening up and
+bringing under cultivation a patch of forest land. The standing growth
+is first cleared by axe or machete and, after a period of drying out, the
+accumulated debris is burned off—thus the inelegant name, siashand-burn. A cleared plot is cultivated for one or two seasons, rarely
+more, then abandoned for years, usually with a view toward restoration
+of fertility through reversion to forest. The area may then be opened
+again for another cycle of cultivation and fallow. Typically the period
+of fallow is several times the period of use; hence, the community of
+cultivators, if it is to remain stable, must always hold in reserve several
+times the area it has under production at any given moment. Measures
+of productive capacity must take this requirement into consideration;
+also the period of garden use, the period of fallow, the amount of land
+required per capita for subsistence, the amount of arable land within
+range of the community, and the like. So long as these measures are
+careful to respect the normal and customary practices of the people
+
+39
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+40
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+concerned, the final estimate of capacity will not be utopian—that is,
+what might be done with a free choice of techniques—but only what
+could be done by the agricultural regime as it stands.
+Nevertheless, there are inescapable uncertainties. Any “productive
+capacity” so estimated is partial and derivative: partial, because the
+investigation is restricted in advance to the cultivation of food, other
+dimensions of production left aside; derivative, because “capacity”
+takes the form of a population maximum. What research yields is the
+optimum number of people that can be supported by the existing
+means of production. “Capacity” appears as a determinate population
+size or density, a critical mass that cannot be surpassed without some
+change in agricultural practice or conception of livelihood. Beyond
+that point is a dangerous ground of speculation which daring ecologists, identifying the optimum population as the “critical carrying
+capacity” or “critical population density,” all the same do not hesitate
+to enter. “Critical carrying capacity” is the theoretical limit to which
+the population could be taken without degrading the land and compromising the agricultural future. But it is characteristically difficult
+to project from the existing “optimum” to the persisting “critical”;
+such questions of long-term adaptation are not decided by the shortterm data. We have to be content with a more limited, if possibly
+defective, understanding: what the agricultural system as constituted
+can do.
+W. Allan (1949, 1965) was the first to devise and apply a general
+index of population capacity for slash-and-burn agriculture. Several
+versions and variants of Allan’s formula1 have since appeared, notably those of Conklin (1959), Carneiro (1960), and a complicated
+refinement fashioned by Brown and Brookfield for the New Guinea
+Highlands (1963). These formulas have been applied to specific ethnographic sites and, with less precision, to broad cultural provinces
+dominated by slash-and-burn production. Outside of reservations, in
+traditional agricultural systems, the results, although highly variable,
+are highly consistent in one respect: the existing population is generally inferior to the calculable maximum, often remarkably so.2
+Table 2.1 summarizes a certain number of ethnographic studies of population capacity from several world areas of shifting agriculture. Two of
+these studies, those of the Chimbu and Kuikuru, merit special comment.
+
+11.7–14.4/km 2
+35–46m 2
+
+30/km 2
+(arable)
+2.9/km 2
+23/m (Sut
+Valley), 14/m 2
+(Baleh)
+
+New Guinea
+
+New Guinea
+
+Philippines
+
+Laos
+
+Borneo
+
+Brazil
+
+N. Rhodesia
+
+Tsembaga *
+(Maring)
+
+Yagaw
+Hanaoo
+
+Lamet †
+
+Iban
+
+Kuikuru
+
+Ndembu
+(Kanongesha
+Chiefdom)
+
+3.17/m 2
+
+145 (village)
+
+2
+
+204 (local
+pop.)
+
+288/m 2
+
+63
+
+48/km 2
+(arable)
+
+7
+8–19
+
+2041
+17–38/m 2
+
+50–66 (s), 30–40
+
+20–25
+
+55–65
+
+64
+
+Actual as
+Percentage
+of
+Potential
+
+313–373
+
+453/m 2
+
+Potential
+Maximum
+
+Naregu
+Chimbu
+
+Actual
+
+Population (Size or Density)
+
+Location
+
+Group
+
+Table 2.1 Relation of actual to potential population, swidden cultivators
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+(Continued)
+
+Turner 1957
+
+Carneiro 1960
+
+Freeman 1955
+
+Izikowitz 1951
+
+Conklin 1957
+
+Rappaport 1967
+
+Brown and
+Brookfield 1963
+
+Source
+
+25–50/m 2
+
+2
+
+50–60/m 2
+
+10+/m 2
+
+4/m 2
+
+42–100
+
+<40
+
+< 75
+
+Actual as
+Percentage
+of
+Potential
+
+Allan 1965: 240
+
+Allan 1965:
+122–123
+
+Allan 1965: 114
+
+Source
+
+†
+
+*
+
+Mean population capacity, between maximum and minimum pig-herd, here tabulated.
+The Lamet figures are calculated from Izikowitz’s rough estimates, with the further assumption that only five percent of the countryside is arable. The
+results are probably far from accurate. However, we have the ethnographer’s assurance that Lamet villages have considerably more land at their disposal than they need (use) (1951, p. 43).
+‡
+Allan presents data on several African populations, confined to reserves or otherwise subjected to disturbances of colonialism, that are over the capacity
+of the traditional system. These are excluded here. The Serenji Lala, however, may be an exception. (Most of Allan’s estimates seem more approximate
+than the other studies tabulated above.)
+
+Dogomba ‡
+
+Ghana
+
+< 4/m
+
+N. Rhodesia
+
+Swaka
+
+< 3/m 2
+
+N. Rhodesia
+
+‡
+
+W. Lala ‡
+
+Actual
+
+Potential
+Maximum
+
+Population (Size or Density)
+
+Location
+
+Group
+
+Table 2.1 (Continued)
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+The Chimbu example is indeed theoretically privileged, not only
+for the unusually sophisticated techniques developed by the investigators, but because these techniques were tested on a system of peak
+density in one of the most densely occupied areas of the primitive
+world. The Naregu section of Chimbu studied by Brown and Brookfield certainly upholds the New Guinea Highlands’ reputation: a mean
+density of 288 people/square mile. Yet this density is only 64 percent
+of the prevailing agricultural capacity. (The result of 64 percent is an
+average for 12 clan and subclan territories of Naregu; the range was
+from 22 to 97 percent of capacity; Table 2.2 on p.44 gives the breakdown by territory.) Brown and Brookfield also made wider but less
+precise estimates for the 26 tribal and subtribal sections of Chimbu as
+a whole, yielding conclusions of the same order: mean population at
+60 percent of capacity.3
+The Kuikuru, on the other hand, illustrate another kind of extreme:
+the scale of the disparity that may exist between potential and reality.
+The Kuikuru village of 145 persons is only seven percent of the calculable maximum population (Carneiro, 1960). Given the Kuikuru’s
+agricultural practices, their present population of 145 is supported
+from the cultivation of 947.25 acres. In fact, the community has a base
+of 13,350 acres (arable), sufficient for 2,041 persons.
+Although studies such as these remain few, the results they present do not appear to be exceptional nor limited to the instances in
+question. On the contrary, reputable and sober authorities have been
+tempted to generalize to the same effect about wide geographical
+areas with which they are familiar. Carneiro, for example (projecting
+from Kuikuru but in a way that presumes them unusually well off),
+considers that traditional agriculture in the South American Tropical
+Forest Zone was capable of sustaining village populations on the order
+of 450 people; whereas the modal community throughout this extensive area was only 51–150 (1960). The Congo forest of Africa, according to Allan, was likewise underpopulated over wide stretches—“well
+below the apparent carrying capacity of the land for the traditional
+systems of land use” (1965, p. 223). Again in West Africa, particularly
+Ghana before the cocoa boom, Allan reports that “population densities
+in the central forest zone were far below the critical levels” (p. 228; cf.
+pp. 229, 230, 240). J. E. Spencer frames a similar opinion of shifting
+
+43
+
+44
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+Table 2.2 Actual and maximum population capacities of Naregu Chimbu Groups*
+(from Brown and Brookfield, 1963, pp. 117, 119)
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+Group
+
+Total Population
+
+Population Density
+per Square Mile
+
+Actual
+
+Actual
+
+Maximum
+
+Proportion
+of Actual to
+Maximum
+Maximum
+Density
+
+Kingun-Sumbai
+
+279
+
+561
+
+300
+
+603
+
+0.49
+
+Bindegu
+
+262
+
+289
+
+524
+
+578
+
+0.91
+
+Togl-Konda
+
+250
+
+304
+
+373
+
+454
+
+0.82
+
+Kamaniambugo
+
+205
+
+211
+
+427
+
+439
+
+0.97
+
+Mondu-Ninga
+
+148
+
+191
+
+361
+
+466
+
+0.77
+
+Sunggwakani
+
+211
+
+320
+
+271
+
+410
+
+0.66
+
+Domkani
+
+130
+
+223
+
+220
+
+378
+
+0.58
+
+Buruk-Maima,
+Damagu
+Komu-Konda
+
+345
+
+433
+
+371
+
+466
+
+0.80
+
+111
+
+140
+
+347
+
+438
+
+0.79
+
+Bau-Aundugu
+
+346
+
+618
+
+262
+
+468
+
+0.56
+
+Yonggomakani
+
+73
+
+183
+
+166
+
+416
+
+0.40
+
+Wugukani
+
+83
+
+370
+
+77
+
+343
+
+0.22
+
+Σ 2443
+
+Σ 3843
+
+X̅ = 288
+
+X̅ = 453
+
+X̅ = 0.64
+
+*
+
+The capacities reported by Brown and Brookfield include a small allowance (0.03 acres/
+capita) for a cash crop, coffee, as well as an allowance for a tree crop, pandanus (0.02
+acres/capita). The food-crop requirement of 0.25 acres/capita also includes an amount
+for pig food and some food sold. The allowance for pigs, however, is not adjusted to
+maximum herd size.
+
+cultivation in Southeast Asia. Impressed by the unusually high densities
+of upland New Guinea, Spencer is inclined to believe “most shiftingcultivator societies are operating at less than maximum potential so far
+as their agricultural system is concerned” (1966, p. 16). His interpretation is of interest:
+Light areal density patterns of population are naturally associated
+with many groups following shifting cultivation because of their
+intrinsic social system. . . . This cultural tradition cannot be interpreted in terms of the carrying capacity of the land, so that the
+social phenomenon, rather than the literal carrying capacity of
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+the land itself, has assumed the dynamic role of controlling population density.
+(Spencer, 1966, pp. 15–16)
+
+Let us underline the point, at the same time reserving it for fuller
+discussion later. Spencer says that the social-cultural organization is
+not designed after the technical limits of production, to maximize
+output, but rather impedes development of the productive means. If
+this position runs counter to a certain ecological thinking, it is nevertheless repeated by several ethnographers of underproduction. For the
+Ndembu, in Turner’s view (1957), it is the contradictions of customary modes of residence and descent, coupled to an absence of political
+centralization, that set off village fission and population dispersal at
+a level inferior to the agricultural capacity. Izikowitz (1951), speaking of Lamet, and Cameiro of Amazonian Indians (1968) alike hold
+the weakness of the community polity responsible for an undue centrifugal segmentation. Quite generally among the tribal cultivators,
+the intensity of land use seems a specification of the social-political
+organization.
+To return to the technical facts and their distribution: slash-and-burn
+agriculture is a major form of production among extant primitive societies, perhaps the dominant form.4 Inquiries in a number of communities, from several different world areas, confirm that (outside native
+reserves) the agricultural system is running below its technical capacity.
+More broadly, extensive areas of Africa, Southeast Asia, and South
+American occupied by swidden cultivators are authoritatively judged
+underexploited. May we be permitted to conclude that the dominant
+form of primitive production is underproduction?5
+Much less can be said about the performance of other common production types. There are suggestions that hunting-gathering may be no
+more intensive than slash-and-burn agriculture. But the interpretation
+of resource underuse among hunters presents special difficulties, even
+apart from the lack of a practicable measure. It is usually not possible
+to determine whether an apparent underproduction of the moment
+nonetheless represents a long-term adaptation to recurrent shortages,
+bad years when it would be possible to support only a fraction of
+the present population. All the more pertinent, then, is the following
+remark of Richard Lee on !Kung Bushman subsistence, as the period of
+
+45
+
+46
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+field observation included the third year of a prolonged drought such
+as rarely visits even the Kalahari Desert:
+It is impossible to define “abundance” of resources absolutely. However, one index of relative abundance is whether or not a population
+exhausts all the food available from a given area. By this criterion, the
+habitat of the Dobe-area Bushmen is abundant in naturally occuring
+foods. By far the most important food is the Mongomongo (mangetti) nut. . . . Although tens of thousands of pounds of these nuts
+are harvested and eaten each year, thousands more rot on the ground
+each year for want of picking.
+(Lee, 1968, p. 33; see also pp. 33–35)
+
+Woodburn’s comments on Hadza hunting carry the same implication:
+I have already mentioned the exceptional abundance of game animals in this area. Although Hadza, in common probably with all
+other human societies, do not eat all the types of animals available
+to them—they reject civet, monitor lizard, snake, terrapin among
+others—they do eat an unusually wide range of animals. . . . In spite
+of the large number of species which they are both able to hunt and
+regard as edible, the Hadza do not kill very many animals and it is
+probable that even in the radically reduced area they occupied in
+1960 more animals could have been killed of every species without
+endangering the survival of any species in question.
+(Woodburn, 1968, p. 52)
+
+In a work primarily devoted to subsistence agriculture, Clark and
+Haswell (1964, p. 31) make a daring argument about preagricultural
+resource use that at least invites contemplation. Basing their calculations on certain data for East Africa summarized by Pirie (1962),6 and
+positing certain conservative assumptions about animal reproduction
+rates in the wild, Clark and Haswell estimate that the annual natural yield of meat is forty times greater than necessary to support a
+hunting population living at one person/20 square kilometers (1/7.7
+square miles) and exclusively on animal foods—that is to say, the animal reproduction fully utilized would support five persons per square
+mile. This without diminishing the natural supply. Whether hunters need such a margin of safety is another, unanswered question,
+although Clark and Haswell rather think they do.
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+A further implication of Pirie’s East African figures is that the wild
+animal yield per area of natural grazing land is higher than the output
+of pastoral nomadism in adjacent regions (cf. Worthington, 1961).
+Again, Clark and Haswell generalize to an interesting judgment of pastoralist land use:
+We should remind ourselves that the primitive pastoral communities, found where the land is not forested . . . live at a density of
+about 2 persons/sq. km. Though not so wasteful of the land and its
+resources as are the primitive hunting peoples, they nevertheless fall
+far short of fully exploiting the potential mean output of land, which
+Price estimates at 50 kg. liveweight gain/ha./year (5 tons liveweight
+gain/sq. km.). Even if we half this figure, as some would do, it seems
+clear that primitive pastoral peoples . . . are unable to exploit the full
+growth of grass in favourable seasons of the year.
+(1964)
+
+Without technical means of accumulating fodder, as the authors recognize, pastoralists are of course restricted to the livestock they can support in poorer rather than favorable seasons. Still, Clark and Haswell’s
+conclusion finds some support from Allan. As a rough conjecture, Allan
+supposes that East African pastoralists know a “critical population density” on the order of seven persons per square mile. But from a series
+of actual cases, “It would seem that population densities of surviving
+pastoral peoples are usually well below this figure, even in the more
+favourable of the regions they still occupy” (Allan, 1965, p. 309).7
+We seem perilously close to that characteristic failing of interdisciplinary study—an enterprise which often seems to merit definition as
+the process by which the unknowns of one’s own subject matter are
+multiplied by the uncertainties of some other science. But enough said
+at least to raise doubt about the efficiency of resource exploitation in
+the primitive economies.
+Underuse of Labor-Power
+
+That the labor forces of primitive communities are also underused is
+easier to document, thanks to a greater ethnographic attention. (Besides,
+this dimension of primitive underproduction conforms closely to
+European prejudices, so that many others besides anthropologists have
+
+47
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+48
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+noticed it, although the more appropriate deduction from the cultural
+differences might have been that Europeans are overworked.) It is only
+necessary to keep in mind that the manner by which labor-power is
+withheld from production is not everywhere the same. The institutional modalities vary considerably: from marked cultural abbreviations of the individual working-life span to immoderate standards of
+relaxation—or, what is probably a better understanding of the latter,
+very moderate standards of “sufficient work.”
+One of the main conclusions of Mary Douglas’s brilliant comparison of Lele and Bushong economies is that in some societies people
+work for a much greater part of their lifetime than in others. “Everything the Lele have or do,” Douglas wrote, “the Bushong have more
+and can do better. They produce more, live better as well as populating
+their region more densely than the Lele” (1962, p. 211). They produce more largely because they work more, as demonstrated along
+one dimension by the remarkable diagram Douglas presents of male
+working life span in the two societies (Figure 2.1). Beginning before
+age 20 and finishing after 60, a Bushong man is productively occupied
+almost twice as long as a Lele, the latter retiring comparatively early
+from a career that began well after physical maturity. Without intending to repeat Douglas’s detailed analysis, some of the reasons might
+be noted briefly for their pertinence to the present discussion. One is
+the Lele practice of polygyny, which as a privilege of the elders entails
+for younger men a considerable postponement of marriage, hence
+of adult responsibilities.8 Moving into the political domain, Douglas’s
+
+Figure 2.1 Male Working-Span: Lele and Bushong (after Douglas, 1962, p. 231)
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+more general explanations of the Lele-Bushong contrast strike a note
+already familiar. But Douglas carries the analysis to new dimensions.
+It is not only differences in political scale or morphology that make
+one or another system more effective economically, but the different
+relations they entail between the powers that be and the process of
+production.9
+Scant use of young adult labor, however, is not characteristic of the
+Lele alone. It is not even the exclusive privilege of agricultural societies. Hunting and gathering do not demand of !Kung Bushmen that
+famous “maximum effort of a maximum number of people.” They
+manage quite well without the full cooperation of younger men, who
+are fairly idle sometimes to the age of 25:
+Another significant feature of the composition of the [!Kung Bushmen] work force is the late assumption of adult responsibility by the
+adolescents. Young people are not expected to provide food regularly
+until they are married. Girls typically marry between the ages of 15 and
+20, and boys about five years later, so that it is not unusual to find
+healthy, active teenagers visiting from camp to camp while their older
+relatives provide food for them.
+(Lee, 1968, p. 36)
+
+This contrast between the indolence of youth and industry of elders
+may appear also in a developed political setting, as in centralized
+African chiefdoms such as Bemba. Now the Bemba are not markedly
+polygynous. Audrey Richards proposes yet another explanation, one
+that calls to anthropological mind still other examples:
+In pre-European days there was a complete change of ambition
+between . . . youth and age. The young boy, under the system of
+matrilocal marriage [entailing bride-service in the wife’s family], had
+no individual responsibility for gardening. He was expected to cut
+trees [for making gardens], but his main way of advance in life was
+to attach himself to a chief or to a man of rank and not to make large
+gardens or to collect material goods. He often went on border raids
+or foraging expeditions. He did not expect to work in earnest until
+middle age, when his children were “crying from hunger” and he had
+settled down. Nowadays we saw in concrete cases the immense difference between the regularity of work done by the old and young.10
+
+49
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+50
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+This is partly due to the new insubordination of the boys, but partly
+also to a perpetuation of an old tradition. In our society youths and
+adolescents have, roughly speaking, the same economic ambitions
+throughout youth and early manhood. . . . Among the Bemba this
+was not so, any more than it was among such warrior peoples as the
+Masai of East Africa with their regular age-sets.11 Each individual was
+expected to be first a fighter and later a cultivator and the father of a
+family.
+(Richards, 1961, p. 402)
+
+In sum, for a variety of cultural reasons, the lifetime working span
+may be seriously curtailed. Indeed, economic obligations can be totally
+unbalanced in relation to physical capacity, the younger and stronger
+adults largely disengaged from production, leaving the burden of society’s work to the older and weaker.
+An unbalance to the same effect may obtain in the division of labor
+by sex. Half the available labor power may be providing a disproportionately small fraction of the society’s output. Differences of this
+kind are common enough, at least in the subsistence sector, to have
+long lent credence to crude materialist explanations of the customary descent rule, matrilineal or patrilineal, by the specific economic
+weight of female versus male labor.
+I have myself had ethnographic occasion to observe a marked unbalance in the sexual division of labor. Excluded from agriculture, the
+women of the Fijian island of Moala show much slighter interest than
+do their men in main productive activities. True that the women, especially younger women, maintain the homes, cook, fish periodically,
+and are charged with certain crafts. Yet the ease they enjoy by comparison with their sisters elsewhere in Fiji, where women do cultivate, is
+enough to credit the local saying that “in this land, women rest.” One
+Moalan friend confided that all they really did was sit around all day
+and break wind. (This was a slander; gossip was the more consuming
+occupation.) The reverse emphasis, on female labor, is probably more
+widespread in primitive communities (exception made for pastoralists, where the women often—but sometimes many of the men too—
+are not concerned with the daily husbandry).12
+One example we have already noted is worth repeating, as it again
+concerns hunters, who less than anyone might be thought able to
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+afford the extravagance of one whole idle sex out of the two usually
+available. Yet such are the Hadza that the men pass six months a year
+(the dry season) in gambling—effectively inhibiting those who have
+lost their metal-tipped arrows from hunting big game the rest of the
+year (Woodbum, 1968, p. 54).
+It is impossible from these few instances to infer an extent, let alone
+attribute a universality, to the differential economic engagement by
+sex and age. Again I would merely raise a problem, which is also to
+cast a doubt on a common presupposition. The problem concerns
+the composition of the labor force. This composition is clearly a cultural and not simply a natural (physical) specification. Clearly too, the
+cultural and natural specifications need not correspond. By custom
+the individual working career is variously abbreviated or alleviated,
+and whole classes of the able-bodied, perhaps the most able-bodied,
+are exempted from economic concern. In the event, the disposable
+working force is something less than the available labor-power, and
+the remainder of the latter is otherwise spent or dissipated. That this
+diversion of manpower is sometimes necessary is not contested. It
+may well be functional, even inevitable, to the society and economy as
+organized. But that is the problem: we have to do with the organized
+withdrawal of important social energies from the economic process.
+Nor is it the only problem. Another is how much the others, the effective producers, actually do work.
+While no anthropologist today would concede the truth of the imperialist ideology that the natives are congenitally lazy, and many would
+testify rather that the people are capable of sustained labor, probably
+most would also observe that the motivation to do so is not constant,
+so that work is in fact irregular over the longer or shorter term. The
+work process is sensitive to interference of various kinds, vulnerable to
+suspension in favor of other activities as serious as ritual, as frivolous
+as repose. The customary working day is often short; if it is protracted,
+frequently it is interrupted; if it is both long and unremitting, usually
+this is only seasonal. Within the community, moreover, some people
+work much more than others. By the norms of the society, let alone of
+the stakhonovite, considerable labor-power remains underemployed. As
+Maurice Godelier writes, labor is not a scarce resource in most primitive societies (1969, p. 32).13
+
+51
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+52
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+In the subsistence sector, a man’s normal working day (in season)
+may be as short as four hours, as among the Bemba (Richards, 1961,
+pp. 398–399), the Hawaiians (Stewart, 1828, p. 111) or the Kuikuru
+(Carneiro, 1968, p. 134), or perhaps it is six hours, as for !Kung Bushmen (Lee, 1968, p. 37) or Kapauku (Pospisil, 1963, pp. 144–145).
+Then again, it may last from early to late:
+But let us follow a (Tikopian) working party as they leave home on a
+fine morning, bound for the cultivations. They are going to dig turmeric, for it is August, the season for the preparation of this highly
+valued sacred dye. The group sets off from the village of Matautu,
+straggles along the beach to Rofaea and then turning inland begins
+to ascend the path running up to the crest of the hills. The turmeric
+plant . . . grows on the mountain-side and to reach the orchard . . .
+involves a steep climb of several hundred feet . . . The party consists
+of Pa Nukunefu and his wife, their young daughter, and three older
+girls, these latter having been coopted from the households of friends
+and neighbors . . . Soon after these people arrive they are joined by
+Vaitere, a youth whose family owns the neighbouring orchard . . . The
+work is of very simple nature . . . Pa Nukunefu and the women share
+the work fairly among them, he doing most of the clearing of vegetation and the digging, they some of the digging and replanting, and
+nearly all the cleaning and sorting . . . the tempo of the work is an
+easy one. From time to time members of the party drop out for a rest,
+and to chew betel. To this end, Vaitere, who takes no very active part
+in the work itself, climbs a nearby tree to collect some leaves of pita,
+the betel plant. . . . About mid-morning the customary refreshment
+is provided in the shape of green coconuts, for which Vaitere is again
+sent to climb. . . . The whole atmosphere is one of labour diversified
+by recreation at will. . . . Vaitere, as the morning draws on, busies
+himself with the construction of a cap out of banana leaf, his own
+invention, and of no practical use So between work and leisure the
+time passes, until as the sun declines perceptibly from the zenith the
+task of the party is done, and bearing their baskets of turmeric roots
+they go off down the mountain-side to their homes.
+(Firth, 1936, pp. 92–93)
+
+On the other hand, the daily labors of Kapauku seem more sustained. Their workday begins about 7:30 a.m. and proceeds fairly
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+steadily until a late morning break for lunch. The men return to the
+village in the early afternoon, but the women continue on until four
+or five o’clock. Yet the Kapauku “have a conception of balance in life”:
+if they work strenuously one day, they rest the next.
+Since the Kapauku have a conception of balance in life, only every
+other day is supposed to be a working day. Such a day is followed by a
+day of rest in order to “regain the lost power and health.” This monotonous fluctuation of leisure and work is made more appealing to the
+Kapauku by inserting into their schedule periods of more prolonged
+holidays (spent in dancing, visiting, fishing, or hunting . . .). Consequently, we usually find only some of the people departing for their
+gardens in the morning, the others are taking their “day off.” However, many individuals do not rigidly conform to this ideal. The more
+conscientious cultivators often work intensively for several days in
+order to complete clearing a plot, making a fence, or digging a ditch.
+After such a task is accomplished, they relax for a period of several
+days, thus compensating for their “missed” days of rest.
+(Pospisil, 1963, p. 145)
+
+Following this course of moderation in all things, Kapauku over
+the long run allow an unextraordinary amount of time to agriculture.
+From records that he kept through an eight-month period (Kapauku
+cultivation is not seasonal) and on the assumption of a potential eighthour day, Pospisil estimates that Kapauku men spend approximately
+one-fourth their “working time” in gardening, the women about onefifth. More precisely, men average 2h18m/day in agricultural tasks,
+the women 1h42m. Pospisil writes: “These relatively small portions of
+total working time seem to cast serious doubt on the claim, so often
+made, that native cultivation methods are wasteful, time ­consuming
+and economically inadequate”(1963, p. 164). For the rest, aside
+from relaxation and “prolonged holidays,” Kapauku men are more
+concerned with politicking and exchange than with other areas of
+­production (crafts, hunting, house building).14
+In their studied habit of one day on, one day off, Kapauku are perhaps unusual for the regularity of their economic tempo,15 but not
+for its intermittency. A similar pattern was documented in Chapter 1
+for hunters: Australians, Bushmen, and other peoples—their labors
+
+53
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+54
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+chronically punctuated by days of slack, not to mention sleep. And
+notoriously among many agriculturalists of seasonal regime the same
+cadence recurs, although on a different time scale. Agricultural offseasons are given over as much to relaxation and diversion, to rest, ceremony and visiting, as they are to other works. Taken over the extended
+term, therefore, all these modes of livelihood reveal themselves unintensive: they make only fractional demands on the available labor-power.
+Fractional use of labor-power is detectable also in the individual work-diaries sometimes collected by ethnographers. Although
+these diaries typically account for only a very few people as well as
+a very brief time, they are usually extensive enough to show important domestic differences in economic effort. At least one of the six
+or seven people concerned turns out to be the village indolent (cf.
+Provinse, 1937; Titiev, 1944, p. 196). The diaries thus manage to convey a suggestion of unequal productive commitment, that is to say,
+a relative underemployment of some even within the unspectacular
+conscientiousness of all. A certain flavor of this pattern, if not an accurate measure, is provided in Table 2.3, a reproduction of F. Nadel’s
+journal for three Nupe farm families (1942, pp. 222–224).16 The two
+weeks of observation fall into different periods of the annual cycle. The
+second week is a time of peak intensity.
+Audrey Richard’s diaries for two Bemba villages lend themselves
+to quantitative assessment. The first and longer, from Kasaka village,
+is presented in Table 2.4: it covers the activities of 38 adults over 23
+days (September 13–October 5, 1934). This was a season of reduced
+agricultural labor, although not the Bemba hungry period. Men
+engaged in little or no work for approximately 45 percent of the
+time. Only half their days could be classed as productive or working
+days, of an average duration of 4.72 hours of labor (but see below,
+where the figure of 2.75 hours for a working day was apparently
+calculated on a base of all available days). Women’s time was more
+equally divided between working days (30.3 percent), days of parttime work (35.1 percent) and days of little or no work (31.7 percent). For both men and women, this unstrenuous program would
+be modified during the busier agricultural season.17 Table 2.5, representing the work of 33 adults of Kampamba village over seven to
+
+Table 2.3 Journal of three Nupe farm families (after Nadel 1942, pp. 222–224)
+N.
+Labor Group: Father
+and Three Sons
+
+M.
+Labor Group: Father
+and One Son
+
+K.
+Labor Group: One Man
+
+Goes out to farm
+together with N.,
+whose farm is close
+to his own. Also
+returns with him.
+
+Is away from Kutigi;
+went to a neighboring
+village for the funeral
+of his sister.
+
+As previous day.
+
+Returns in the evening.
+
+Stays at home, and
+visits N. in the
+evening.
+
+Goes out to farm about
+10 a . m ., and returns at
+4 p.m.
+
+Stays at home,
+works on garden
+plots round the
+house. Son goes
+out to farm.
+
+Stays at home; says
+he is tired from the
+journey.
+
+Goes out to farm at
+8 a . m ., returns after
+midday meal.
+
+Goes out to farm at
+8 a . m ., returns after
+midday meal.
+
+Stays at home.
+Visits N. in the
+evening.
+
+Stays at home. His
+brother, who lives in
+a hamlet, comes on a
+visit.
+
+Goes out to farm at
+8 a . m ., returns for
+midday meal.
+
+Goes out to farm at
+8 a . m ., returns for
+midday meal.
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+31.5.1936
+Goes out to farm
+about 8 a . m . Eats
+midday meal on the
+farm, and returns
+about 4 p . m .
+1.6.1936
+As previous day.
+2.6.1936
+Stays at home, together with sons.
+3.6.1936
+Stays at home. Sons
+go out to farm in
+the morning, but
+are back at 2 p . m . in
+time to attend the
+market, which is
+held today.
+4.6.1936
+Goes out to farm at
+8 a . m ., returns for
+midday meal; sons
+stay longer.
+5.6.1936 (Friday)
+Stays at home,
+together with sons.
+Attends mosque in
+the afternoon.
+6.6.1936
+Stays at home, says
+he is tired. Works
+on garden plots,
+but will go to farm
+tomorrow. Sons go
+out to farm.
+
+(Continued)
+
+Table 2.3 (Continued)
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+22.6.1936
+Goes out to farm at
+8 a . m ., returns at
+4 p . m . One son goes
+to Sakpe to attend
+wedding of a friend.
+
+Goes out to farm at
+7 a . m ., returns after
+4 p.m.
+
+Goes out to farm at
+8 a . m ., returns after
+4 p.m.
+
+Goes out to farm at
+8 a . m ., returns for
+midday meal.
+
+Goes out to farm at
+8 a . m ., returns after
+4 p.m.
+
+Goes out to farm
+at 7 a . m ., returns
+after 4 p . m .
+
+Stays at home as he is
+tired and has stomach
+trouble.
+
+Goes out to farm
+at 7 a . m ., returns
+after 4 p . m .
+
+Goes out to farm at
+7 a . m ., returns after
+5 p.m.
+
+Stays at home.
+
+Goes out to farm at
+8 a . m ., returns after
+4 p.m.
+
+Goes out to farm
+at 8 a . m ., returns
+after 4 p . m .
+
+Goes out to farm at
+7 a . m ., returns for
+midday meal.
+
+Stays at home for
+same reason as N.
+Son goes out to
+farm.
+
+Goes out to farm at
+7 a . m ., but returns
+early to meet the tax
+clerk.
+
+23.6.1936
+Goes out to farm at
+8 a . m ., returns for
+midday meal. He
+hurt his hand and
+cannot work properly. His sons stay
+on; one son still in
+Sakpe.
+24.6.1936
+Goes out to farm at
+8 a . m ., but returns
+early as his hand
+hurts. Son who went
+to Sakpe returns in
+the evening.
+25.6.1936
+Stays at home, his
+hand not yet well.
+Sons go out to farm.
+26.6.1936 (Friday)
+Stays at home.
+
+27.6.1936
+Goes out to farm at
+8 a . m ., returns at
+5 p.m.
+28.6.1936
+Stays at home
+because tax clerk
+of chief had summoned all elders.
+Sons go out to farm.
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+Table 2.4 Distribution of activities: Kasaka Village, Bemba (after Richards, 1962,
+Appendix E)*
+Men (n = 19)
+
+Women (n = 19)
+
+1. Days mainly
+working†
+
+garden work, hunting, fishing, crafts, housebuilding,
+work for Europeans . . .
+220 (50%)
+
+gardening, fishing, work
+for chiefs, work for Europeans, etc . . . 132
+(30.3%)
+
+Mean duration
+of full working
+day
+
+4.72 hrs/day
+
+4.42 hrs/day
+
+2. Days of parttime work‡
+
+“in village,” “away,” “at
+home” . . . 22 (5%)
+
+“in village,” “no garden
+work,” “away” . . . 153
+(35.19%)
+
+3. Days mainly
+not working
+
+“leisure,” visits to relatives,§ beer-drinks . . . 196
+(44.5%)
+
+“leisure,” visits to relatives, beer-drinks . . .
+138(31.7%)
+
+4. Illness
+
+carrying sick . . . 2
+(0.5%)
+
+confinement . . . 13
+(3%)
+
+n = 38; days tabulated = 23.
+The categories 1–4 and classification of data under these rubrics are my own.
+‡
+Richards specifies that even when remaining in the village, women do much domestic
+work; therefore, she rarely uses the category “leisure” to describe their days, preferring
+instead “no garden work.” “Leisure” on the other hand means “a day spent in sitting,
+talking, drinking, or doing handicrafts.” I have thus put “no garden work” (as well as “in
+village,” “at home” and, for want of further information, “away”) in a category of “parttime work,” while “leisure” is classed in the category “days mainly not working.” “Leisure”
+includes Christian Sundays.
+§
+Richards indicates that “walks” in her table mean “visits to relatives” unless otherwise
+specified; I include such “walks” here.
+*
+
+†
+
+ten days of January 1934, attests to the periodic intensification of
+productive tempo.18
+If these tables for the Bemba could be extended over a full year,
+they would probably yield results similar to those obtained by
+Guillard (1958) for the Toupouri of North Cameroon, shown in
+Table 2.6 on p.59.19
+And if such systems as the Bemba and Toupouri were plotted graphically over the year, they would probably resemble the diagrams de
+Schlippe accumulated for the Azande—one of these is presented in
+Figure 2.2 on p.61.
+
+57
+
+58
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+Table 2.5 Distribution of activities: Kampana Village, Bemba (after Richards,
+1962, Appendix E)*
+♂ (n = 16, 10 days)
+
+♀ (n = 17, 7 days)
+
+114 (70.8%)
+
+66 (62.9%)
+
+2. D ays of part-time
+work
+
+9 (5.6%)
+
+21 (20%)
+
+3. D ays mainly not
+working
+
+29 (18%)
+
+17 (16.2%)
+
+4. Illness
+
+9 (5.6%)
+
+1 (1%)
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+1. D ays mainly
+working
+
+*
+
+For explanation of the categories adopted, see Table 2.4.
+
+But work schedules such as these, with their generous reservations of
+time to fete and repose, should not be interpreted from the anxious vantage of European compulsions.20 The periodic deflection from “work”
+to “ritual” by peoples such as the Tikopians or Fijians must be made
+without prejudice, for their linguistic categories know no such distinction, but conceive both activities sufficiently serious as to merit a common term (so the “Work of the Gods”). And what are we to construe
+of those Australian Aborigines—the Yir Yiront—who do not discriminate between “work” and “play” (Sharp, 1958, p. 6)? Perhaps equally
+arbitrary are many cultural definitions of inclement weather, serving as
+pretext, it seems, for suspending production under conditions somewhere short of the human capacity for discomfort.Yet it would be insufficient simply to suppose that production is thus subject to arbitrary
+interference: to interruption by other obligations, themselves “noneconomic” but not by that character unworthy of people’s respect. These
+other claims—of ceremony, diversion, sociability and repose—are only
+the complement or, if you will, the super-structural counterpart of a
+dynamic proper to the economy. They are not simply imposed upon
+the economy from without, for there is within, in the way production
+is organized, an intrinsic discontinuity. The economy has its own cutoff
+principal: it is an economy of concrete and limited objectives.
+Consider the Siuai of Bougainville. Douglas Oliver describes in
+terms by now familiar how garden work submits to diverse cultural
+obstructions, leaving the real output clearly below the possible:
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+Table 2.6 Distribution of activities over year, Toupouri (after Guillard 1958)
+
+*
+
+Men (n = 11)
+
+Women (n = 18)
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+Average
+Man-Days
+per Year
+Number Percent
+Agriculture
+
+105.5
+
+28.7
+
+Average
+Man-Days
+per Year
+Range Number Percent
+66.5–155.5
+
+82.1
+
+22.5
+
+Range
+42–116.5
+
+Other work
+
+87.5
+
+23.5
+
+47–149
+
+106.6
+
+29.0
+
+83–134.5
+
+Rest and nonproductive †
+
+161.5
+
+44.4
+
+103.5–239
+
+164.4
+
+45.2
+
+151–192
+
+9.5
+
+2.6
+
+0–30
+
+3.0
+
+Illness
+*
+†
+
+0–40
+
+n = 29 working persons.
+Category includes marketing and visits (often indistinguishable), feasts and rituals, and
+repose. It is not absolutely clear that for men the time in hunting and fishing was excluded
+here. Women’s days in the village were calculated by Guillard as one-half “other work,”
+one-half rest.
+
+There is, of course no physical reason why this labor output could
+not be increased. There is no serious land-shortage, and a labor
+“stretch-out” could be and often is undertaken. Siuai women
+work hard at their gardens but not nearly so hard as some Papuan women; it is conceivable that they could work much longer
+and harder without doing themselves physical injury. That is to
+say, it is conceivable by other standards of work. Cultural rather
+than physical factors influence Siuai standards of “maximum
+working hours.” Garden work is taboo for long periods following
+upon death of a kinsman or friend. Nursing mothers may spend
+but a few hours daily away from their babies, who, because of ritual restrictions, often may not be carried into the gardens. And
+aside from these ritual restrictions upon continuous garden work,
+there are less spectacular limitations. It is conventional to cease
+working during even light showers; it is customary to start for the
+garden only after the sun is well up, and to leave for home in midafternoon. Now and then a married couple will remain in their garden site all night sleeping in a lean-to, but only the most ambitious
+and enterprising care to discomfort themselves thus.
+(Oliver, 1949 [3], p. 16)
+
+59
+
+60
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+But in another connection Oliver explains more fundamentally why
+Siuai working standards are so modest—because, except for politically
+ambitious people, they are sufficient:
+As a matter of fact, natives took pride in their ability to estimate
+their immediate personal consumption needs, and to produce
+just enough taro to satisfy them. I write “personal consumption
+needs” advisedly, because there is very little commercial or ritual
+exchange of taro. Nevertheless, personal consumption needs vary
+considerably: there is a lot of difference between the amount of taro
+consumed by an ordinary man with his one or two pigs, and an
+ambitious social-climber with his ten or twenty. The latter has to
+cultivate more and more land in order to feed his increasing number
+of pigs and to provide vegetable food for distribution among guests
+at his feasts.
+(Oliver, 1949 [4], p. 89)
+
+Production has its own constraints. If these are sometimes manifest as the deployment of labor to other ends, it should not be thus
+obscured to the analysis. Sometimes it is not even disguised to observation: as of certain hunters, for example, who once again become the
+revelatory case because they seem to need no excuse to stop working
+once they have enough to eat.21 All this can be phrased another way:
+from the point of view of the existing mode of production, a considerable proportion of the available labor-power is excess. And the system,
+having thus defined sufficiency, does not realize the surplus of which it
+is perfectly capable:
+There is no doubt at all that the Kuikuru could produce a surplus of
+food over the full productive cycle. At the present time a man spends
+only about 3–½ hours a day on subsistence—2 hours on horticulture,
+and 1–½ hours on fishing. Of the remaining 10 or 12 waking hours
+of the day the Kuikuru men spend a great deal of it dancing, wrestling, in some form of informal recreation, and in loafing. A good deal
+more of this time could easily be devoted to gardening. Even an extra
+half hour a day spent on agriculture would enable a man to produce
+a substantial surplus of manioc. However, as conditions stand now
+there is no reason for the Kuikuru to produce such a surplus, nor is
+there any indication that they will.
+(Cameiro, 1968, p. 134)
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+Figure 2.2 Annual Distribution of Activities, Azande [Green Belt] (after de
+Schlippe, 1956)
+
+1. Agricultural work.
+2.	Gathering of wild produce, including honey, chillies, mushrooms, caterpillars, berries,
+roots, salt grass, and diverse others.
+3. Hunting and fishing.
+4.	Processing at home of agricultural produce and of produce of gathering, including beer
+brewing, oil and salt making, and so on. These four items taken together could be called
+food production at or near home.
+5.	Marketing, including cotton markets, as well as weekly food markets, either selling or
+buying, and absences for the purpose of acquiring tools, clothes, and other goods in
+shops or elsewhere.
+6.	Other occupations at home, mainly housebuilding and craftsmanship, but also repairing, putting things in order, and such like.
+7.	Work outside home, including hunting and fishing expeditions, work for chief or district,
+salaried work for Government or E.P.B., and work for neighbors in beer parties.
+8.	No work for various reasons—including chiefs’ courts, ceremonies and rituals, sickness
+at home, in hospital or at the witchdoctor’s, childbirth, rest, and leisure.
+The graph does not represent man-days given to various tasks but the number of days (or
+percentage of days) the type of activity occurred.
+
+61
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+62
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+In brief, it is an economy of production for use, for the livelihood of
+the producers. Having come to this conclusion, our discussion links up
+with established theory in economic history. It also makes connection
+with understandings long established in anthropological economics.
+Firth had effectively made this point in 1929, when commenting on
+the discontinuity of Maori labor in comparison with European tempos and incentives (1959a, p. 192 f). In the 1940s Gluckman wrote
+as much about the Bantu in general and the Lozi in particular (1943,
+p. 36; cf. Leacock, 1954, p. 7).
+There will be much more to say theoretically about domestic
+production for use. For now I rest on the descriptive comment that
+in primitive communities an important fraction of existing labor
+resources may be rendered excessive by the mode of production.
+Household Failure
+
+A third dimension of primitive underproduction, the final one here
+considered, is perhaps the most dramatic; at least it is the most serious for the people concerned. A fair percentage of domestic groups
+persistently fail to produce their own livelihood, although organized
+to do so. They occupy the lower end of a very large range of variation
+in household production, variation in appearance uncontrolled, but
+consistently observed in primitive societies of different circumstance,
+tradition and location. Once more the evidence is not definitive. But
+coupled to the logic of the case, it seems enough to encourage the
+following theoretical suggestion: that this variation, notably including a substantial degree of domestic economic failure, is a constituted
+condition of primitive economy.22
+I was myself first struck by the magnitude of household production
+differences while working in Fiji, collecting estimates of food cultivation from the household heads in a number of Moalan villages. These
+were mainly estimates, so I cite the results merely as an example of the
+anecdotal comment to be found often in the monographic literature:
+Differences in production within any given village are even more
+critical than output differences between villages. At least no Moalan
+village seems to be starving, whereas it is apparent that some men
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+do not produce enough food for family needs. At the same time no
+village [with one possible exception] appears to have much surfeit,
+whereas some families are producing considerably more food than
+they can consume . . . familial differences in production of such . . .
+magnitude occur in every village and with respect to virtually every
+staple, secondary, and minor crop.
+(Sahlins, 1962a, p. 59)
+
+C. Daryll Forde’s investigation of yam staple cultivation among 97 families in the Yako village of Umor, shown in Figure 2.3 on p.64, is more
+precise, and certainly more graphic. Forde remarks that, although a representative Yako family of husband, one or two wives and three or four
+children will have one and one-half acres of yams under cultivation each
+year, 10 of the 97 he sampled were cultivating less than half an acre and
+40 percent between a half and one acre. The same kind of deficit occurs
+in the output curve: mean production per house was 2,400–2,500 yams
+(medium-sized units), but the mode was only 1,900; a large proportion
+of families fell toward the lower end of the scale. And some of those at the
+lower end were below the customary subsistence requirement:
+It would be . . . incorrect to assume that there are no substantial variations from household to household in yam consumption. Although
+there is probably no gross insufficiency of supply of this staple food,
+there are at opposite ends of the scale households which, through inefficiency, sickness or other misfortune secure much less than they need by
+local standards, and others in which the fufu bowl is always heaped full.
+(Forde, 1946, p. 59; cf. p. 64)
+
+The situation depicted in Derek Freeman’s classic study of rice
+production among the Iban is yet more serious (Freeman, 1955).
+But this example, covering the 25 families of Rumah Nyala village, carries two important reservations. First, the Iban maintain
+a considerable trade in their rice staple with mercantile centers of
+Sarawak—although in fact Iban families do not always produce
+enough for subsistence, let alone a surplus for export.23 Secondly,
+the period of observation, 1949–50, was an exceptionally bad year.
+By Freeman’s estimate—approximate, as he cautions—only eight of
+the 25 households were able to harvest a normal consumption quota
+
+63
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+64
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+Figure 2.3 Yam Production, Umor Village, Yakö (after Forde, 1964)
+
+(including rice for seed, animal feed, ritual expenses and beer).
+Table 2.7 summarizes yields in relation to consumption requirements for 1949–50. In ordinary years this distribution would probably be inverted, to show a normal rate of household failure on the
+order of 20 to 30 percent.
+At first sight, the fact that only about one third of bilek families managed to secure their normal requirements seems surprising, but it
+must be remembered that the 1949–50 season was an exceptionally
+bad one. . . . Nonetheless, it seems probable that even in normal
+years it is not uncommon for a minor percentage of households to fall
+below the ordinary level of subsistence as we have defined it. In the
+absence of reliable data we can do no more than make an informed
+guess. From my discussions with Iban informants, I would expect
+that in normal years from 70% to 80% of bilek families would attain
+their ordinary requirements, and that in favourable seasons virtually
+all would be successful. . . . There are probably few, if any, Iban families which have not, at some time or another, found themselves in
+straitened circumstances with insufficient padi for their barest needs.
+(Freeman, 1955, p. 104)
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+Table 2.7 Rice yields in relation to normal consumption requirements,
+25 families of Rumah Nyala (1949–50) (after Freeman, 1955, p. 104)
+Rice Yield as a
+Percentage of Normal
+Requirements
+
+Number of
+Households
+
+Percentage of
+Households in Total
+Community
+
+over 100%
+
+8
+
+32
+
+76–100%
+
+6
+
+24
+
+51–75%
+
+6
+
+24
+
+26–50%
+
+4
+
+16
+
+under 25%
+
+1
+
+4
+
+Another enthnographic example, to some degree making up
+by its precision for its modesty of scale, is Thayer Scudder’s study
+(1962) of cereal cultivation among the 25 families of Mazulu village, Gwembe Tonga (Northern Rhodesia). The region is plagued by
+famine, but the yield of Mazulu farms is not of present moment; the
+first question is whether the several households had planted sufficient
+acreage to assure their subsistence. Scudder adduces a figure of one
+acre/capita as normally sufficient.24 But as indicated in Table 2.8,
+presenting the results of Scudder’s field study, four of the Mazulu
+households come seriously short of this level, and altogether 10 of
+the 20 fail to reach it. The domestic differences seem distributed as
+a normal curve around the point of per capita subsistence.
+Enough said? Nothing is more tiresome than an anthropology
+“among-the” book: among the Arunta this, among the Kariera that.
+Nor is anything scientifically proven by the endless multiplication
+of examples—except that anthropology can be boring. But the last
+proposition does not need an elaborate demonstration, and neither
+does the one under discussion. For certain forms of production,
+notably hunting and fishing, the likelihood of differential success
+is known to common sense and experience. Besides and more generally, insofar as production is organized by domestic groups, it is
+established on a fragile and vulnerable base. The familial labor force
+is normally small and often sorely beset. In any “large enough community” the several households will show a considerable range in
+size and composition, range that may well leave some susceptible to
+
+65
+
+66
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+Table 2.8 Household variations in output/capita, Mazulu
+village, Valley Tonga, 1956–57 (after Scudder, 1962,
+pp. 258–261)*
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+House
+
+*
+
+Acreage Cultivated/
+Capita
+
+Relation to Estimated
+Subsistence Norm/
+Capita
+
+A
+
+1.52
+
++.52
+
+B
+
+0.86
+
+–.14
+
+C
+
+1.20
+
++.20
+
+D
+
+1.13
+
++.13
+
+E
+
+0.98
+
+–.02
+
+F
+
+1.01
+
++.01
+
+G
+
+1.01
+
++.01
+
+H
+
+0.98
+
+–.02
+
+I
+
+0.87
+
+–.13
+
+J
+
+0.59
+
+–.41
+
+K
+
+0.56
+
+–.44
+
+L
+
+0.78
+
+–.22
+
+M
+
+1.05
+
++.05
+
+N
+
+0.91
+
+–.09
+
+O
+
+1.71
+
++.71
+
+P
+
+0.96
+
+–.04
+
+Q
+
+1.21
+
++.21
+
+R
+
+1.05
+
++.05
+
+S
+
+2.06
+
++1.06
+
+T
+
+0.69
+
+–.31
+
+For further discussion of Mazulu production in relation to subsistence, including attempt at a more detailed analysis, see Chapter 4.
+
+disastrous mischance. For some must be unfavorably composed in
+the ratio of effective workers to dependent nonproducers (mostly
+children and the aged). Of course others are in this respect more
+fortunately balanced, even overbalanced, on the side of capable producers. Yet any given family is subject to this kind of variation over
+time and the domestic growth cycle, just as at any given time certain
+families must find themselves facing economic difficulties. Thus a
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+third apparent dimension of primitive underproduction: an interesting percentage of households chronically fail to provide their
+own customary livelihood.
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+ELEMENTS OF THE DOMESTIC MODE OF PRODUCTION
+The foregoing constitutes a first empirical experience of widespread
+and profound tendencies of underproduction in the primitive economies. The succeeding is a first attempt to explain these tendencies
+theoretically by reference to a widespread and profound structure of
+the economies in question, the domestic mode of production. Necessarily the analysis will be as generalized as the phenomena are broadly
+distributed and variably expressed, a procedure which demands as an
+initial task certain methodological apologies.
+Apologies For Generality
+
+In a confrontation with a particular ethnographic case of underproduction, no abstract explanation can be as satisfactory as an accounting
+of the specific forces in play: the existing social and political relations,
+rights of property, ritual impediments to the deployment of labor, and
+the like.25 But insofar as the several forms of underproduction noted
+earlier are generally discovered in the primitive economies, no particular analysis of them will satisfy either. For then they belong to the
+nature of the economies at issue, and in that capacity must be interpreted from equally general conditions of economic organization.
+Such is the analysis attempted here.
+Yet the general only exists in particular forms. So the well-known
+methodological reservation of a well-known social anthropologist
+remains pertinent: what is the use, he asked, of putting into comparison a society you have not first thoroughly understood? To this a
+colleague of mine once replied, as we walked along a dim academic
+corridor: “How can you understand a society you have not first compared?” This unhappy conjuncture of truths seems to leave anthropology in the position of a railroad engineer in the state of Connecticut,
+where (I am told) there is a law on the books to the effect that two
+trains moving in opposite directions along parallel tracks must, when
+
+67
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+68
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+they meet, come to a complete stop, and neither one may start up
+again until the other has passed out of sight. Undaunted anthropologists adopt cunning devices to break the impasse; for example, generalization by means of the “ideal type.” The “ideal type” is a logical
+construct founded at once on pretended knowledge and pretended
+ignorance of the real diversity in the world—with the mysterious
+power of rendering intelligible any particular case. The solution has a
+dignity equal to the problem. Perhaps then it will excuse this chapter,
+which is written in the genre.
+But how to justify certain other tactics even less respectable? From
+time to time the discussion will take clear leave of “reality,” ignoring
+the apparent facts for what it is pleased to consider “the permanent
+fact.” Penetrating beyond kinship, ritual, chieftainship—in sum, the
+main institutions of primitive society—it claims to see in the household system the first principles of economic performance. Yet the
+domestic economy cannot be “seen” in isolation, uncompromised by
+the greater institutions to which it is always subordinated. And even
+more reprehensible than this analytic arrogance, although in a way
+its inevitable result, the argument will be discovered on occasion in
+a scandalous flirtation with the state of nature—not exactly the latest
+anthropological approach. Philosophers who have examined the foundations of society, Rousseau said, have all felt the need to return to the
+state of nature, but none of them ever got there. The master thereupon
+proceeded to repeat the failure, but so magnificently this time as to
+leave the conviction that it really was useful to speak of things “that no
+longer exist, that perhaps never existed, that probably shall never exist,
+and yet of which it is necessary to have correct ideas in order to better
+judge our present condition.”
+But then, even to speak of “the economy” of a primitive society is an
+exercise in unreality. Structurally, “the economy” does not exist. Rather
+than a distinct and specialized organization, “economy” is something
+that generalized social groups and relations, notably kinship groups
+and relations, do. Economy is rather a function of the society than a
+structure, for the armature of the economic process is provided by
+groups classically conceived “noneconomic.” In particular, production
+is instituted by domestic groups, these ordinarily ordered as families
+of one kind or another. The household is to the tribal economy as
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+the manor to the medieval economy or the corporation to modern
+capitalism: each is the dominant production-institution of its time.
+Each represents, moreover, a determinate mode of production, with
+an appropriate technology and division of labor, a characteristic economic objective or finality, specific forms of property, definite social
+and exchange relations between producing units— and contradictions all its own.26 In brief, to explain the observed disposition toward
+underproduction in the primitive economies, I would reconstruct
+the “independent domestic economy” of Karl Bücher and earlier
+­writers—but relocated now somewhat chez Marx, and redecorated in a
+more fashionable ethnography.
+For the domestic groups of primitive society have not yet suffered
+demotion to a mere consumption status, their labor power detached
+from the familial circle and, employed in an external realm, made subject
+to an alien organization and purpose. The household is as such charged
+with production, with the deployment and use of labor-power, with
+the determination of the economic objective. Its own inner relations,
+as between husband and wife, parent and child, are the principal relations of production in society. The built-in etiquette of kinship statuses,
+the dominance and subordination of domestic life, the reciprocity and
+cooperation, here make the “economic” a modality of the intimate. How
+labor is to be expended, the terms and products of its activity, are in the
+main domestic decisions. And these decisions are taken primarily with a
+view toward domestic contentment. Production is geared to the family’s
+customary requirements. Production is for the benefit of the producers.
+I hasten to add two reservations, which are also two final apologies
+for generality.
+First, the convenient identification of “domestic group” with
+­“family” that I allow myself is too loose and imprecise. The domestic
+group in the primitive societies is usually a family system, but this is
+not always so, and where it is, the term “family” must cover a variety
+of specific forms. Households of a community are sometimes morphologically heterogenous: apart from families, they include other
+kinds of domestic units composed, for example, of persons of a given
+age-class. Again, although it is also comparatively rare, families may
+be completely submerged in domestic groups the dimensions and
+structure of a lineage. Where the household is a family system, still the
+
+69
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+70
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+forms vary from nuclear to extended, and within the latter category
+from polygynous through matrilocal, patrilocal, and a variety of other
+types. Finally, the domestic group is internally integrated in different manners and degrees, as may be judged by the patterns of daily
+cohabitation, commensality and cooperation. Although the essential
+qualities of production to be discussed—dominance of the sexual
+division of labor, segmentary production for use, autonomous access
+to productive means, centrifugal relations beween producing units—
+appear to hold across these formal variations, the proposition of a
+domestic mode of production is surely a highly ideal type. And if one
+is nevertheless permitted to speak of a domestic mode of production,
+it is always and only in summary of many different modes of domestic
+production.
+Secondly, I do not suggest that the household everywhere is an
+exclusive work group, and production merely a domestic activity. Local
+techniques demand more or less cooperation, so production may be
+organized in diverse social forms, and sometimes at levels higher than
+the household. Members of one family may regularly collaborate on
+an individual basis with kith and kin from other houses; certain projects are collectively undertaken by constituted groups such as lineages
+or village communities. But the issue is not the social composition
+of work. Larger working parties are in the main just so many ways
+the domestic mode of production realizes itself. Often the collective
+organization of work merely disguises by its massiveness its essential
+social simplicity. A series of persons or small groups act side by side
+on parallel and duplicate tasks, or they labor together for the benefit of each participant in turn. The collective effort thus momentarily
+compresses the segmentary structure of production without changing
+it permanently or fundamentally. Most decisive, cooperation does not
+institute a sui generis production-structure with its own finality, different
+from and greater than the livelihood of the several domestic groups
+and dominant in the production process of the society. Cooperation
+remains for the most part a technical fact, without independent social
+realization on the level of economic control. It does not compromise
+the autonomy of the household or its economic purpose, the domestic
+management of labor-power or the prevalence of domestic objectives
+across the social activities of work.
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+These apologies offered, I pass to the description of the principal
+aspects of the domestic mode of production (DMP), with a view fixed
+to the implications of this mode for the character of the economic
+performance.
+Division of Labor
+
+By its composition, the household makes up a kind of petite economy.
+In response to the technical scale and diversity of production, it is
+even expandable to a degree: the combination of nuclear elements
+in some form of extended family seems to make its debut as the
+social organization of an economic complexity. But more important
+than its size, familial control of production rests on another aspect
+of its composition. The family contains within itself the division of
+labor dominant in the society as a whole. A family—it is from the
+beginning and at the minimum a man and wife, an adult male and
+an adult female. Hence, from its inception a family combines the two
+essential social elements of production. Division of labor by sex is
+not the only economic specialization known to primitive societies.
+But it is the dominant form, transcending all other specialization in
+this sense: that the normal activities of any adult man, taken in conjunction with the normal activities of an adult woman, practically
+exhaust the customary works of society. Therefore marriage, among
+other things, establishes a generalized economic group constituted
+to produce the local conception of livelihood.
+The Primitive Relation Between Man and Tool
+
+Here is a second correlation, equally elementary: between the domestic mode, atomized and small scale, and a technology of similar
+dimensions. The basic apparatus can usually be handled by household
+groups; much of it can be wielded autonomously by individuals. Other
+technological limitations are likewise consistent with the supremacy
+of the domestic economy: implements are homespun, thus—as most
+skills—simple enough to be widely available; productive processes are
+unitary rather than decomposed by an elaborate division of labor, so
+
+71
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+72
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+that the same interested party can carry through the whole procedure
+from the extraction of the raw material to the fabrication of the finished good.
+But a technology is not comprehended by its physical properties
+alone. In use, tools are brought into specific relationships with their
+users. On the largest view, this relationship and not the tool itself is
+the determinate historic quality of a technology. No purely physical
+difference between the traps of certain spiders and those of certain
+(human) hunters, or between the bee’s hive and the Bantu’s, is historically as meaningful as the difference in the instrument-user relation. The tools themselves are not different in principle, or even in
+efficiency. Anthropologists are only satisfied by the extratechnological
+observation that in invention and use the human instrument expresses
+“conscious ingenuity” (symboling), the insect’s tool, inherited physiology (“instinct”)—“what distinguishes the worst architect from the
+best of bees is this, that the architect raises his structure in imagination
+before he erects it in reality” (Marx, 1967a, vol. 1, p. 178). Tools, even
+good tools, are prehuman. The great evolutionary divide is in the relationship: tool-organism.
+The human capacities once achieved, ingenuity in turn loses its
+differentiating power. The world’s most primitive peoples—judged
+as such on the plane of overall cultural complexity—create unparalled technical masterpieces. Dismantled and shipped to New York
+or London, Bushman traps lie now gathering dust in the basements
+of a hundred museums, powerless even to instruct because no one
+can figure out how to put them back together again. On a very
+broad view of cultural evolution, technical developments have accumulated not so much in ingenuity as along a different axis of the
+man-tool relationship. It is a question of the distribution of energy,
+skill, and intelligence between the two. In the primitive relation of
+man to tool, the balance of these is in favor of man; with the inception of a “machine age” the balance swings definitively in favor of
+the tool.27
+The primitive relation between man and tool is a condition of the
+domestic mode of production. Typically, the instrument is an artificial
+extension of the person, not simply designed for individual use, but
+as an attachment that increases the body’s mechanical advantage (for
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+example, a bow-drill or a spear thrower), or performs final operations
+(for example, cutting, digging) for which the body is not naturally
+well equipped. The tool thus delivers human energy and skill more
+than energy and skill of its own. But the latest technology would invert
+this relationship between man and tool. It becomes debatable which
+is the tool:
+The share of the operative workman in the machine industry is (typically) that of an attendant, an assistant, whose duty it is to keep pace
+with the machine process and to help out with workmanlike manipulation at points where the machine process engaged is incomplete.
+His work supplements the machine process, rather than makes
+use of it. On the contrary the machine process makes use of the
+workman.
+(Veblen, 1914, pp. 306–7)28
+
+The theoretical value placed by modern evolutionary anthropology
+on technology as such is historically contingent. Man is now dependent on machines, and the evolutionary future of culture seems to
+hinge on the progress of this hardware. At the same time, prehistory is
+by and large a record of instruments—as a well-known archaeologist
+is reputed to have said, “the people, they’re dead.” These banal truths
+I think help explain the analytical privilege often conceded to primitive technology, perhaps as mistaken however as it is entrenched for its
+exaggeration of the importance of tool over skill, and correlatively for
+its perception of the progress of man from ape to ancient empire as a
+series of petty industrial revolutions initiated by the development of
+new tools or new energy sources. For the greater part of human history, labor has been more significant than tools, the intelligent efforts
+of the producer more decisive than his simple equipment. The entire
+history of labor until very recently has been a history of skilled labor.
+Only an industrial system could survive on the proportion of unskilled
+workers as now exists; in a similar case, the paleolithic perishes. And
+the principal primitive “revolutions,” notably the neolithic domestication of food resources, were pure triumphs of human technique: new
+ways of relating to the existing energy sources (plants and animals)
+rather than new tools or new sources (see Chapter 1). The hardware of
+subsistence production may very well decline in the passage from the
+
+73
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+74
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+paleolithic to the neolithic—even as the output goes up. What is the
+Melanesian’s digging stick to the sealing gear of an Alaskan Eskimo?
+Up to the time of the true industrial revolution, the product of human
+labor probably increased much more in return to the worker’s skill
+than to the perfection of his tools.
+A discussion of the importance of human techniques is not as tangential as it might seem to this analysis of the DMP. It helps underwrite
+a major theoretical suggestion: that in the archaic societies, socialpolitical pressure must often present itself the most feasible strategy of
+economic development. People are the most malleable as well as the
+most important side of the primitive man-tool relationship. Take into
+consideration, besides, the ethnographic testimony of underexploitation: that resources are often not fully turned to account, but between
+the actual production and the possibility there remains considerable
+room for maneuver. The great challenge lies in the intensification of
+labor: getting people to work more, or more people to work. That is
+to say, the society’s economic destiny is played out in its relations of
+production, especially the political pressures that can be mounted on
+the household economy.
+But an intensification of labor will have to take a dialectical course,
+because many properties of the DMP make it refractory at once to the
+exercise of political power and the enlargement of production. Of first
+importance is the contentment of the household economy with its
+own self-appointed objective: livelihood. The DMP is intrinsically an
+anti-surplus system.
+Production For Livelihood
+
+The classic distinction between “production for use” (that is, for the
+producers) and “production for exchange” was, from the beginning of an economic anthropology, at least in the Anglo-Saxon
+countries, interred in the graveyard of prehistoric concepts. True
+that Thurnwald had adopted these concepts to set off the primitive from modern monetary economies (1932). And nothing could
+prevent their reincarnation in various ethnographic contexts (see
+“Underuse of Labor Power” above). But when Malinowski (1921)
+defined the “Tribal Economy” in opposition (partly) to Bucher’s
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+“Independent Domestic Economy” (1911), the notion of production for use was effectively put aside before its theoretical usefulness had been exhausted.
+Perhaps the problem was that “production for use” or “independent domestic economy” could be interpreted two different ways, one
+of which proved indefensible—so the other was generally ignored.
+These phrases suggest a condition of domestic autarky, untrue for
+the producing units of any real society. The households of primitive communities are not usually self-sufficient, producing all they
+need and needing all they produce. Certainly there is exchange. Even
+aside from the presents given and received under inescapable social
+obligations, the people may work for a frankly utilitarian trade, thus
+indirectly getting what they need.
+Still, it is “what they need”: the exchange, and the production for it,
+are oriented to livelihood, not to profits. This is a second rendering of
+the classic distinction, and the more fundamental; more fundamental
+than a certain exchange is the producer’s relation to the productive process. It
+is not merely “production for use” but production for use value, even
+through the acts of exchange, and as opposed to the quest for exchange
+value. On this reading, the DMP does find a place in the received categories of economic history. Even with exchange, the domestic mode
+is cousin to Marx’s “simple circulation of commodities,” thus to the
+celebrated formula C → M → C': the manufacture of commodities (C)
+for sale in the market in order to obtain wherewithal (M, money) for
+the purchase of other, specific commodities (C'). “Simple circulation”
+is of course more pertinent to peasant than to primitive economies.
+But like peasants, primitive peoples remain constant in their pursuit
+of use values, related always to exchange with an interest in consumption, so to production with an interest in provisioning. And in this
+respect the historical opposite of both is the bourgeois entrepreneur
+with an interest in exchange value.
+The capitalist process has a different starting point and another
+calculus. The “general formula for capital” is the transformation of a
+given money sum into more of the same by way of the commodity:
+M → C → M', the engagement of labor-power and physical means
+for the fabrication of a good whose sale realizes the highest possible
+return on an original capital. Livelihood and gain, “production for
+
+75
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+76
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+use” and “production for exchange” pose thus contrasting finalities of production—and, accordingly, contrasting intensities of
+production.
+For one is an economic system of determinate and finite objectives
+while the other holds out the indefinite goal of “as much as possible.” It is a difference of quality as well as quantity: in the first place
+of quality. Production for livelihood envisions not only a moderate
+quota of good things, but these of a specific useful character responding
+to the producers’ customary requirements. Yet where the domestic
+economy seeks merely to reproduce itself, production for exchange
+(value) would constantly exceed itself: in the accumulation of a generalized “wealth.” It is not the production of goods in particular but of
+an abstract “wealth.” And “the sky’s the limit.” By definition, M'≤ M is
+a failure of the practice M → C → M'; by competition, M → ∞ is the
+formula of success. How sublime, Marx wrote, seems the ancient conception that made man the objective of production, in comparison
+with a modern world where production is the objective of man—and
+wealth the objective of production (1967b, vol. 1, p. 450).
+To consider but one implication—of which we have already had
+ethnographic testimony: work in a system of production for use has
+unique possibilities of defining a term. Production is under no compulsion to proceed to the physical or gainful capacity, but inclined
+rather to break off for the time being when livelihood is assured for
+the time being. Production for use is discontinuous and irregular, and
+on the whole sparing of labor-power. Whereas, in production organized by and for exchange value:
+Le but de travail n’est plus, dès lors, tel produit spécifique ayant des
+rapports particuliers avec tel ou tel besoin de l’individu, c’est l’argent, richesse ayant une forme universelle, si bien que le zèle au travail de l’individu ne connaît plus de limites: indiffèrent à ses propres
+particularités, le travail revêt toutes les formes qui servent ce but.
+Le zèle se fait inventif et crée des objets nouveaux pour le besoin
+sociale. . . . .
+(Marx, 1967b, vol. 1, p. 165)
+
+It is regrettable that Economic Anthropology chose largely to
+ignore this distinction between production for use and production
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+for exchange. Recognition of the difference in productivity between
+them had served the study of economic history honorably and well.
+In a famous case Henri Pirenne thus explained the decline of agriculture in early medieval Europe, when the economy was left without
+outlets by the Arab seizure of the Mediterranean and lapsed at once
+from commercial exchange to local self-sufficiency and from higher
+to lower productivity:
+. . . the regression of agricultural methods is obvious. It was useless
+to make the soil yield more than was required to satisfy the needs of
+the cultivator, for since the surplus could not be exported it would
+neither improve the condition of the tiller of the soil nor increase
+the rental value of the land. The farmer was therefore satisfied with a
+minimum of care and effort, and agronomic science was allowed to
+fall into oblivion, until the possiblity of selling the crops should once
+more encourage the owners of the soil to adopt improved and more
+lucrative methods. But then the land would begin to be regarded as a
+value, and not as a means of subsistence.
+(Pirenne, 1955, p. 99)
+
+And now the classic opposition reappears as the “dual economy” of
+“underdeveloped” countries. Boeke, author of the principle, describes
+the contrast in performance this way:
+Another respect in which an Eastern differs from a Western society is
+the fact that needs are very limited. This is connected with the limited
+development of exchange, with the fact that most people have to provide for themselves, that families have to be content with what they
+are able to produce themselves, so that needs necessarily have to
+remain modest in quantity and quality. Another consequence of this
+is that the economic motive does not work continuously. Therefore
+. . . economic activity is also intermittent. Western economy tends in
+a diametrically opposite direction. . . .
+(Boeke, 1953, p. 39)
+
+But as witnesses to the colonial confrontation of the two economies,
+anthropologists have had the opportunity to experience the historic
+difference as an ethnographic event. In obdurate patterns of indigenous
+labor and “irrational” responses to prices, they have seen production
+
+77
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+78
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+for use—in crises, therefore in essence. For the traditional economy
+of finite objectives insists on asserting itself even as it is broken and
+harnessed to the market. Perhaps that helps explain how the rational
+West could live for a very long time with two contradictory prejudices about the “natives” capacity for work. On the one hand, a vulgar
+anthropology was contending the people had to labor constantly just
+to survive, given their technical incapacities; on the other hand, it was
+only too evident that “the natives are congenitally lazy.” If the first
+was a colonialist rationale, the second testifies to a certain deficiency
+of the ideology: for some reason it proved necessary to beat the people into shouldering the white man’s burden. Recruited as plantation
+hands, they frequently showed themselves unwilling to work steadily.
+Induced to raise a cash crop, they would not react “appropriately” to
+market changes: as they were interested mainly in acquiring specific
+items of consumption, they produced that much less when crop prices
+rose, and that much more when prices fell off. And the introduction
+of new tools or plants that increased the productivity of indigenous
+labor might only then shorten the period of necessary work, the gains
+absorbed rather by an expansion of rest than of output (cf. Sharp, 1952;
+Sahlins, 1962a). All these and similar responses express an enduring
+quality of traditional domestic production, that it is production of use
+values, definite in its aim, so discontinuous in its activity.
+In brief, by this characteristic of DMP—that it is a production of use
+values—we return to underproduction, the empirical observation of
+which was the beginning of inquiry. The domestic system entertains
+limited economic goals, qualitatively defined in the terms of a way of
+living rather than quantitatively as an abstract wealth. Work is accordingly unintensive: intermittent and susceptible to all manner of interruption by cultural alternatives and impediments ranging from heavy
+ritual to light rainfall. Economics is only a part-time activity of the
+primitive societies, or else it is an activity of only part of the society.
+Otherwise said, the DMP harbors an antisurplus principle. Geared to
+the production of livelihood, it is endowed with the tendency to come
+to a halt at that point. Hence if “surplus” is defined as output above
+the producers’ requirements, the household system is not organized
+for it. Nothing within the structure of production for use pushes it to
+transcend itself. The entire society is constructed on an obstinate economic base, therefore on a contradiction, because unless the domestic
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+economy is forced beyond itself the entire society does not survive.
+Economically, primitive society is founded on an anti-society.
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+Chayanov’s Rule
+
+There is a more exact way of appreciating this unintensive use of productive forces. I offer a mixed series of theoretical and statistical reflections mounting to the conclusion that the domestic system sets norms
+of livelihood limited not only absolutely but in relation to the society’s potential; that indeed, in the community of domestic producing
+groups, the greater the relative working capacity of the household the
+less its members work. The last is a capital discovery of A. V. Chayanov,
+here acknowledged by calling it “Chayanov’s rule.”
+A preliminary understanding is that the three elements of the DMP
+so far identified—small labor force differentiated essentially by sex,
+simple technology, and finite production objectives—are systematically
+interrelated. Not only is each in reciprocal bond with the others, but
+each by its own modesty of scale is adapted to the nature of the others.
+Let any one of these elements show an unusual inclination to develop,
+it meets from the others the increasing resistance of an incompatibility.
+The normal systematic resolution of this tension is restoration of the
+status quo (“negative feedback”). Only in the event of an historic
+conjuncture of additional and external contradictions (“overdetermination”) would the crisis pass over into destruction and transformation. Specifically, the norm of domestic livelihood tends to be inert.
+It cannot move above a certain level without testing the capacities of
+the domestic labor force, either directly or through the technological
+change required for a higher output. The standard of livelihood does
+not substantially increase without putting into question the existing
+family organization. And it has an ultimate ceiling set by the possibility
+of any household order to provide adequate forces and relations of
+production. So long, therefore, as the domestic mode prevails, the customary idea of livelihood will be suitably restrained.
+Moreover, if the internal contradictions set off by rising standards thus
+define an absolute limit, the external contradictions will determine an
+equilibrium which is low relative to the society’s economic capacities.
+Because, whatever the nature of social relations between households,
+from the anarchy of nature to the amity of kinship, the customary
+
+79
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+80
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+norm of welfare has to be fixed at a level attainable by the larger number of them, leaving underexploited the powers of the most efficient
+minority. Potentially, the several households of a community differ
+greatly in per capita output, if only because they are at different stages
+of the familial development cycle, so must vary in their ratio of effective producers to dependent children and elders. But suppose the
+conventions of domestic well-being were adapted to the households
+of greatest working capacity. Society is then faced with one of two
+intolerable conditions, depending on the proximity of existing interhousehold relations to the poles of anarchy and solidarity. No relations
+prevailing (or hostile relations), the success of only a few and the
+inevitable failure of the many is an economic invitation to violence.
+Or, given an extensive kinship, distribution by the happy few in favor
+of the many poor merely creates a general and permanent discrepancy
+between the convention of domestic welfare and the reality.
+Taking together then these abstract and preliminary reasonings: on
+pain of engaging internal and external contradictions, revolution and
+war, or at least continuous sedition, the customary economic targets
+of the DMP have to be held within certain limits, these inferior to the
+overall capacity of the society, and wasteful particularly of the laborpower of more effective households.
+“In the family farm,” writes A. V. Chayanov, “rates of labor intensity
+are considerably lower than if labor were fully utilized. In all areas
+investigated, farm families possess considerable stocks of unused
+time” (1966, pp. 75–76). This observation, summing up extensive
+research on Russian agriculture of the immediate prerevolutionary
+period, allows us to continue the argument in an entirely different
+register without missing an essential beat. True that Chayanov and his
+coworkers developed their theory of precapitalist domestic economy
+in the special context of simple commodity circulation.29 Yet, paradoxically, a fragmented peasant economy may more clearly than any
+primitive community present on the empirical level certain profound
+tendencies of the DMP. In the primitive case these tendencies are concealed and transfigured by general social relations of solidarity and
+authority. But the peasant domestic economy, articulated rather to the
+market by exchange than to other households by corporate kinship,
+without pretence manifests to inspection the deep structure of the
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+DMP. It manifests in particular an underuse of labor-power, as many of
+Chayanov’s tables testify. Table 2.9 (p.82) is typical.
+Chayanov moved beyond the mere observation of a general
+underuse of manpower. He investigated in detail the variation in
+intensity by household. Bringing to bear a study of his own among
+25 Volokolamsk farm families, he was able to show, first, that
+these differences are quite remarkable: a threefold range of variation from 78.8 working days/worker/year in the least industrious
+household to 216.0 working days per worker in the most industrious.30 Then, most revealing, Chayanov plotted the differences in
+intensity/household against variations in domestic composition
+figured in terms of number of consumers. A ratio of household size
+to effective manpower (dependency ratio), the last is essentially an
+index of household economic strength in relation to its appointed
+tasks of livelihood. The relative working capacity of the domestic
+group can be understood to increase as the index descends towards
+unity. Chayanov demonstrates (Table 2.10, p. 83) that the intensity
+of labor in the domestic group decreases accordingly.
+Chayanov’s demonstration might seem a superfluous refinement of the obvious, particularly if the domestic economy of finite
+objectives is taken for granted. All it says statistically is what one
+would then expect logically; namely, the smaller the relative proportion of workers the more they must work to assure a given
+state of domestic well-being, and the greater the proportion the
+less they work. Phrased more generally, however, and in a way that
+says nothing about the finality of the DMP except by the invitation
+to comparison with other economies, Chayanov’s rule suddenly
+seems magnified several theoretical powers: Intensity of labor in a system of domestic production for use varies inversely with the relative working capacity
+of the producing unit.
+Productive intensity is inversely related to productive capacity.
+The rule of Chayanov felicitously summarizes and supports several
+propositions we had made along the way. It confirms the deduction
+that the norm of livelihood does not adapt to maximum household
+efficiency but settles rather at a level within reach of the majority, so wasting a certain potential among the most effective. At the
+same time, this means that no compulsion to surplus output is
+
+81
+
+24.7
+
+28.6
+
+23.6
+
+Vologda Uezd
+(Vologda Guberniya)
+
+Volokolamsk Uezd
+(Moscow Guberniya)
+
+Starobel'sk Uezd
+(Khar’kov Guberniya)
+
+4.4
+
+8.2
+
+18.1
+
+Crafts and Trades
+
+28.0
+
+36.8
+
+42.8
+
+Total “Productive
+Labor”
+
+Housework
+
+Unused
+Time
+
+3.0
+
+4.4
+43.2
+
+42.0
+
+33.8
+
+27.0
+
+20.0
+
+19.8
+
+Festivals ‡
+
+†
+
+*
+
+n not given.
+It is regrettable that many of Chayanov’s statistical tables, fashioned in the main from reports of Czarist agricultural inspectors, lack the kinds of
+precision that modern study must consider indispensable, notably with regard to the character of the sample, operational definitions of categories
+employed, and the like.
+‡
+The figures of this column evoke Lafargue’s critique of the bourgeois revolution: “Under the Old Regime, the laws of the Church guaranteed the laborer
+ninety rest days, fifty-two Sundays and thirty-eight holidays, during which he was strictly forbidden to work. This was the great crime of Catholicism,
+the principal cause of the irreligion of the industrial and commercial bourgeoisie: under the revolution, when once it was in the saddle, it abolished all
+holidays and replaced the week of seven days by that of ten, in order that the people might no longer have more than one rest day out of ten. It emancipated the laborers from the yoke of the Church in order better to subjugate them under the yoke of work” (1909, p. 32 n).
+
+Agriculture
+
+District
+
+Percentage of Working Time in:
+
+Table 2.9 Distribution of peasant labor by sector in three areas of czarist Russia* (after Chayanov, 1966, p. 74)†
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+~~
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+Table 2.10 Intensity of work in relation to household composition: 25
+Volokolamsk families (after Chayanov, 1966, p. 78)*
+Index of
+consumers/worker
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+Working-days/worker/
+year (household average)
+*
+
+1.01–1.20
+
+1.21–1.40
+
+1.41–1.60
+
+1.61+
+
+98.8
+
+102.3
+
+157.2
+
+161.3
+
+The same relation between intensity of production and effectiveness of the domestic group
+is shown in another table, covering several peasant regions and using output/worker measured in rubles rather than intensity measured in workdays (p. 78). I excerpt part of that
+table:
+
+Consumer/
+Worker Ratio
+
+Output (Rubles) per Worker
+Starobel’sk
+Uezd
+
+Vologda
+Uezd
+
+Vel’sk
+Uezd
+
+1.00–1.15
+
+68.1
+
+63.9
+
+59.2
+
+1.16–1.30
+
+99.0
+
+106.95
+
+61.2
+
+1.31–1.45
+
+118.3
+
+122.64
+
+76.1
+
+1.46–1.60
+
+128.9
+
+91.7
+
+79.5
+
+1.61+
+
+156.4
+
+117.9
+
+95.5
+
+built into the DMP. But then, the plight of the least effective domestic groups, especially the substantial percentage that do not meet
+their own requirements, seems all the more serious. For the households of greater working capacity are not automatically extending
+themselves on behalf of the poorer. Nothing in the organization
+of production itself provides systematic compensation for its own
+systematic defects.
+Property
+
+On the contrary, rather than producing for others, a certain autonomy
+in the realm of property strengthens each household’s devotion to its
+own interests.
+We need not be so fascinated with “title” to property as with entitlement, nor with abstract claims of “ownership” so much as real privileges of use and disposition. A stockholder in A.T. &T. believed himself
+
+83
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+84
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+endowed by his five shares to chop down a telephone pole placed
+noxiously in front of his picture window. Anthropologists have likewise learned by experience to separate various rights of property—
+income, use, control—inasmuch as these may be divided among
+different holders in the same thing. Also we have proved tolerant
+enough to recognize separate rights that are not exclusive by nature
+but differ mainly in the power of one holder to override decisions
+of the other: ranked overrights, as between a chief and his followers; or segmentary overrights, as between a corporate lineage and its
+constituent households. The path of anthropological progress is now
+strewn with terminological corpses, the ghosts of most of which are
+better avoided. The issue of present concern is the privileged position
+of domestic groups, whatever the coexisting tenures.
+For these coexisting tenures are typically superposed to the family
+rather than interposed between the family and its means of production. In the event, the higher “owners” in the primitive societies—
+chiefs, lineages, clans—stand in a relation of the second degree
+to production, as mediated by the entrenched domestic groups.
+Chiefly ownership—“of the land, the sea and the people,” as the
+Fijians say—is a particularly revealing case. It is an “ownership”
+more inclusive than exclusive, and more political than economic:
+a derived claim on the product and productive means in virtue of
+an inscribed superiority over the producers. In this it differs from
+a bourgeois ownership that confers control over the producers by a
+claim upon productive means. Whatever the resemblances in ideology of “ownership,” the two systems of property work differently,
+the one (chieftainship) a right to things realized through a hold on
+persons, the other (bourgeois) a hold on persons realized through
+a right to things.31
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+The household in the tribal societies is usually not the exclusive
+owner of its resources: farmlands, pastures, hunting or fishing territories. But across the ownership of greater groups or higher authorities,
+even by means of such ownership, the household retains the primary
+relation to productive resources. Where these resources are undivided,
+the domestic group has unimpeded access; where the land is allotted,
+it has claim to an appropriate share. The family enjoys the usufruct, it
+is said, the use-right, but all the privileges entailed are not obvious
+from the term. The producers determine on a day-to-day basis how
+the land shall be used. And to them falls the priority of appropriation
+and disposition of the product; no claim of any supervening group
+or authority legitimately goes so far as to deprive the household of
+its livelihood. All this is undeniable and irreducible: the right of the
+family as a member of the proprietary group or community to directly
+and independently exploit for its own support a due share of the social
+resources.
+As an economic rule, there is no class of landless paupers in
+primitive society. If expropriation occurs it is accidental to the
+mode of production itself, a cruel fortune of war for instance, and
+not a systematic condition of the economic organization. Primitive
+peoples have invented many ways to elevate a man above his fellows. But the producers’ hold on their own economic means rules
+out the most compelling history has known: exclusive control of
+such means by some few, rendering dependent the many others.
+The political game has to be played on levels above production,
+with tokens such as food and other finished goods; then, usually
+the best move, as well as the most coveted right of property, is to
+give the stuff away.
+Pooling
+
+The domestic segregation constructed into production and property
+is completed by an inner-directed circulation of the household product. An inevitable consequence of production at once specialized by
+sex and oriented to collective use, this centripetal movement of goods
+differentiates the household economy from the world even as it reiterates the group’s internal solidarity. The effect is magnified where
+
+85
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+86
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+distribution takes the form of eating together, in a daily ritual of commensality that consecrates the group as a group. Usually the household is a consumption unit in this way. But at the least, householding
+demands some pooling of goods and services, placing at the disposition
+of its members what is indispensable to them. On one hand, then,
+the distribution transcends the reciprocity of functions, as between
+man and woman, upon which the household is established. Pooling
+abolishes the differentiation of the parts in favor of the coherence
+of the whole; it is the constituting activity of a group. On the other
+hand, the household is thereby distinguished forever from others of
+its kind. With these other houses, a given group might eventually
+entertain reciprocal relations. But reciprocity is always a “between”
+relation: however solidary, it can only perpetuate the separate
+economic identities of those who so exchange.
+Lewis Henry Morgan called the program of the domestic economy
+“communism in living.” The name seems apposite, for householding
+is the highest form of economic sociability: “from each according to
+his abilities and to each according to his needs”—from the adults that
+with which they are charged by the division of labor; to them, but
+also to the elders, the children, the incapacitated, regardless of their
+contributions, that which they require. The sociological precipitate is a
+group with an interest and destiny apart from those outside and a prior
+claim on the sentiments and resources of those within. Pooling closes
+the domestic circle; the circumference becomes a line of social and
+economic demarcation. Sociologists call it a “primary group”; people
+call it “home.”
+Anarchy and Dispersion
+
+Considered in its own terms, as a structure of production, the DMP is
+a species of anarchy.
+The domestic mode anticipates no social or material relations
+between households except that they are alike. It offers society only
+a constituted disorganization, a mechanical solidarity set across the
+grain of a segmentary decomposition. The social economy is fragmented into a thousand petty existences, each organized to proceed
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+independently of the others and each dedicated to the homebred principle of looking out for itself. The division of labor? Beyond the household it ceases to have organic force. Instead of unifying society by
+sacrificing the autonomy of its producing groups, the division of labor
+here, as it is principally a division of labor by sex, sacrifices the unity
+of society to the autonomy of its producing groups. Nor is any higher
+cause entertained by the household’s access to productive resources,
+or again by the economic priorities codified in domestic pooling.
+Viewed politically, the DMP is a kind of natural state. Nothing within
+this infrastructure of production obliges the several household groups
+to enter into compact and cede each one some part of its autonomy. As
+the domestic economy is in effect the tribal economy in miniature, so
+politically it underwrites the condition of primitive society—society
+without a Sovereign. In principle each house retains, as well as its own
+interests, all the powers that are wanted to satisfy them. Divided thus
+into so many units of self-concern, functionally uncoordinated, production by the domestic mode has all the organization of the so many
+potatoes in a certain famous sack of potatoes.
+That is in essence the primitive structure of production. But of course
+not in appearance. In appearance, primitive society is a poor likeness
+of primordial incoherence. Everywhere the petty anarchy of domestic
+production is counterposed by larger forces and greater organization,
+institutions of social-economic order that join one house to another
+and submit all to a general interest. Still, these grand forces of integration are not given in the dominant and immediate relations of production. On the contrary, precisely as they are negations of domestic
+anarchy, they owe part of their meaning and existence to the disorder
+they would suppress. And if in the end anarchy is banished from the
+surface of things, it is not definitively exiled. It continues, a persistent
+disarray lurking in the background, so long as the household remains
+in charge of production.
+Here, then, I appeal the apparent facts to the permanent fact. “In the
+background” is a discontinuity of power and interest, lending itself
+moreover to a dispersion of people. In the background is a state of nature.
+Interesting that almost all the philosophers who have felt the
+need to go back there—granted not one of them ever made it—
+saw in that condition a specific distribution of population. Almost all
+
+87
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+88
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+sensed some centrifugal tendency. Hobbes sent back ethnographic
+report that the life of man was solitary, poor, nasty, brutish and short.
+Underline (for once) the “solitary.” It was a life apart. And the same
+notion of original isolation appears ever and again, from Herodutus
+to K. Bucher, in the schemes of those who dared speculate on man
+in nature. Rousseau took several positions, the most pertinent to our
+purpose in the Essai sur l’origine des langues.32 In the earliest times the only
+society was the family, the only laws, of nature, and the only mediator
+between men, force—in other words, something like the domestic
+mode of production. And this “barbaric” epoch was, for Rousseau,
+the golden age,
+not because men were united, but because they were separated. Each
+one, it is said, considered himself master of everything; that could be:
+but no one knew of nor coveted more than he had in hand; his needs,
+far from bringing him nearer his fellows, drove him away. Men, if you
+will, attacked each other upon meeting, but they rarely met. Everywhere reigned the state of war, and all the earth was at peace.
+(translation mine)
+
+Maximum dispersion is the settlement pattern of the state of nature.
+To understand what conceivable significance this can promise the
+present analysis—that is, supposing the reader has not already abandoned the effort to its apparent folly—it is necessary to ask why
+the political philosophers thus rendered natural man far-flung and
+for the most part alone. The obvious answer is that the sages posited
+nature by a simple opposition to culture, stripped then of everything
+artificial, which is nothing less than society. The residue could only be
+man in isolation—or perhaps man in the family, that concord of natural lust, as Hobbes called it—even if the man in question was really the
+rugged individual become now so common in society that he claimed
+to be only natural. (“L’état de nature, c’est le bourgeois sans société.”)
+But beyond the obvious, this conception of a scattered distribution was
+also a logical and functionalist deduction, a reflection upon the necessary deployment of men supposing the natural rather than the political
+state were in effect. Where the right to proceed by force is held generally rather than monopolized politically, there discretion is the better
+part of valor and space the surest principle of security. Minimizing
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+conflict over resources, goods, and women, dispersal is the best protector of persons and possessions. In other words, this division of force
+that the philosophers imagined forced them also to imagine a humanity divided, putting the greatest distance between one another just as a
+kind of functional precaution.
+I am at the most abstract, the most hypothetical, in brief, the wildest point of speculation: that the deeper structure of the economy, the
+domestic mode of production, is like the state of nature, and the characteristic movement of the latter is also its own. Left to its own devices, the
+DMP is inclined toward a maximum dispersion of homesteads, because
+maximum dispersion is the absence of interdependence and a common
+authority, and these are by and large the way production is organized. If
+within the domestic circle the decisive motions are centripetal, between
+households they are centrifugal, spinning off into the thinnest probable
+distribution—an effect proceeding in reality to the extent it is not
+checked by greater institutions of order and equilibrium.
+This is so extreme that I must cite some possibility of its ethnographic
+relevance, even at the cost of recapitulating known facts and anticipating later arguments. Carneiro, as we had seen earlier, took some care to
+show that villages of the Amazon Tropical Forest are typically inferior
+to the 1,000 or even 2,000 inhabitants they might sustain on existing agricultural practices. He rejects, therefore, the usual explanation of
+small village size, to wit, that it is due to shifting cultivation:
+I would like to argue that a factor of greater importance has been
+the ease and frequency of village fissioning for reasons not related
+to subsistence [that is, to techniques of subsistence]. . . . The facility with which this phenomenon occurs suggests that villages may
+seldom get a chance to increase in population to the point at which
+they begin to press hard on the carrying capacity of the land. The
+centrifugal forces that cause villages to break apart seem to reach
+a critical point well before this happens. What the forces are that
+lead to village fission falls outside the present discussion. Suffice it
+to say that many things may give rise to factional disputes within a
+society, and that the larger the community the more frequent these
+disputes are likely to be. By the time a village in the Tropical Forest
+attains a population of 500 or 600 the stresses and strains within it
+are probably such that an open schism, leading to the hiving off of a
+
+89
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+90
+
+THE DOMESTIC MODE OF PRODUCTION I
+
+dissident faction, may easily occur. If internal political controls were
+strong, a large community might succeed in remaining intact despite
+factionalism. But chieftainship was notoriously weak among most
+Amazonian villages, so that the political mechanisms for holding a
+growing community together in the face of increasingly strong divisive forces were all but lacking.
+(Carneiro, 1968, p. 136)
+
+My point is that primitive society is founded on an economic disconformity, a segmentary fragility that lends itself to and reverberates
+particular local causes of dispute, and in the absence of “mechanisms
+for holding a growing community together” realizes and resolves
+the crisis by fission. We have noticed that the domestic mode of production is discontinuous in time; here we see it is also discontinuous in space. And as the former discontinuity accounts for a certain
+underuse of labor, the latter implies a persistent underexploitation of
+resources. Our very roundabout and theoretical tour of the domestic
+mode of production thus comes back to its empirical point of departure. Constituted on an uncertain household base, which is in any case
+restrained in material objectives, stinted in its use of labor power and
+cloistered in relation to other groups, the domestic mode of production is not organized to give a brilliant performance.
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+3
+THE DOMESTIC MODE
+OF PRODUCTION:
+INTENSIFICATION OF
+PRODUCTION
+Clearly the domestic mode of production can only be “a disarray lurking in the background,” always present and never happening. It never
+really happens that the household by itself manages the economy, for
+by itself the domestic stranglehold on production could only arrange
+for the expiration of society. Almost every family living solely by its
+own means sooner or later discovers it has not the means to live. And
+while the household is thus periodically failing to provision itself, it
+makes no provision (surplus) either for a public economy: for the
+support of social institutions beyond the family or of collective activities such as warfare, ceremony, or the construction of large technical
+apparatus—perhaps just as urgent for survival as the daily food supply.
+Besides, the inherent underproduction and underpopulation posed by
+the DMP can easily condemn the community to the role of victim in
+the political arena. The economic defects of the domestic system are
+overcome, or else the society is overcome.
+The total empirical process of production is organized then as a
+hierarchy of contradictions. At base, and internal to the domestic
+
+Downloaded by [University of California, San Diego] at 20:29 03 May 2017
+
+92
+

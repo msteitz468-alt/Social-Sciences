@@ -1,0 +1,46 @@
+# Established wiki page slugs extractors MAY link (do not invent new structural names outside claim titles)
+## Thinkers
+mintz-sidney-w
+wolf-eric-r
+steward-julian-h
+polanyi-karl
+## Theories
+anthropological-political-economy
+world-systems-analysis
+historical-materialism
+cultural-ecology
+cultural-materialism
+practice-theory
+## Methods
+historical-political-economy
+## Concepts (existing)
+commodity
+commodity-fetishism
+capitalist-world-economy
+labor-power
+habitus
+conspicuous-consumption
+fictitious-commodities
+longue-duree
+## Institutions
+market
+family
+## Phenomena
+globalization
+urbanization
+rationalization
+## Studies / sources (this ingest)
+mintz-sweetness-and-power-study
+mintz-sweetness-and-power-1985
+## Disciplines
+anthropology
+economic-anthropology
+## Planned new pages this ingest (use these exact slugs if material warrants)
+plantation
+inside-meaning-and-outside-meaning
+extensification-and-intensification
+intensifiers
+sweetness
+factory-in-the-field
+sugar-plantation-complex
+proletarian-hunger-and-drug-foods

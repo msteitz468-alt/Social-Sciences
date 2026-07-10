@@ -1,0 +1,1980 @@
+5
+
+NON-ARCHAEOLOGICAL
+ANSWERS TO
+ARCHAEOLOGICAL
+QUESTIONS
+
+“The hour has at last arrived,” Pliny Earle Goddard crowed the spring of
+1927, “for an extensive reorganization of our conception of the peopling
+of America.” About time, too. Goddard, a linguist, had just read Harold
+Cook's proclamation that the Lone Wolf Creek site (Chapter 3), with its
+artifacts and extinct bison, proved beyond “reasonable doubt” humans
+were here in the Pleistocene. Goddard had long suspected as much and was
+delighted by the news, for it meant Holmes and Hrdli[images]ka, whom he
+despised (the feeling was mutual), were finally proven wrong on their
+terms. Goddard scolded them for refusing to admit a deep human antiquity
+on this continent. People inclined to be critical and conservative, he
+sneered, should doubt that humans were recent, not the other way around.
+How else could one account for the time required for New World peoples
+to domesticate maize, develop the “higher civilizations of Peru, Mexico,
+and our own Southwest,” and allow for the divergence of some “fifty
+languages [families] so distinct from one another in their vocabularies,
+that no relationship can be traced”?¹
+
+Assuming the first Americans came as a single group, they must have
+spoken one language “as pure biology would require,” and had to have
+arrived “many millenniums”² ago in order for that single language to
+evolve into the hundreds now spoken. Goddard guessed 100,000 years or
+more was needed. Not a bad number, Cook supposed. He thought Lone Wolf
+Creek might be even three times older.
+
+Holmes and Hrdli[images]ka weren't buying: not Cook's Lone Wolf Creek
+claims (Chapter 3), nor the idea that the diversity of American Indians,
+whether cultural, linguistic, or physical, implied a lengthy period of
+divergence from a common ancestor. Not only were Native Americans not as
+diverse as they appeared—Hrdli[images]ka had long argued American
+Indians and Asians were so similar physically they could not be long
+separated—but such diversity as existed could be readily explained by
+processes other than divergence over time from a single ancestor. The
+many Native American languages, for example, could reflect successive
+migrations from Asia of different groups speaking “radically different
+tongues.”³
+
+It was a reasonable counterargument, so far as it went: cultural,
+linguistic, or physical diversity could result from either cause, so by
+itself was no measure of antiquity. That required independent evidence,
+such as a well-dated archaeological site. But the archaeological
+evidence in those days was equally unsettled. Even when Folsom came
+along a few months later, its antiquity was far from what Goddard deemed
+necessary. He wasn't alone. The giants of his day—like linguist Edward
+Sapir, who thought it “intrinsically highly probable” there had been
+multiple migrations, and even anthropologist Franz Boas who did
+not—nonetheless supposed that 10,000 years was “a hopelessly inadequate
+span of time” to account for American Indian language diversity.⁴
+
+Archaeologists, physical anthropologists, and linguists haven't stopped
+bickering over the origin, antiquity, and number of migrations of the
+first Americans. Yet, for a brief period in the 1980s, interdisciplinary
+peace threatened to break out. It began with a visit by Stanford
+University linguist Joseph Greenberg to the University of Arizona, where
+he presented his idea that American Indian languages could be grouped
+into three families, each a descendant of three independent groups that
+had separately migrated to America. In the audience was geneticist
+Stephen Zegura, and he was astonished. He'd heard that punch line
+before, only not from Greenberg but also from physical anthropologist
+Christy Turner, who studies teeth. Zegura wondered if the pattern
+evident in languages and teeth was also true of American Indian genes.
+He took a look: with a bit of prodding, the genetics might also support
+a model of three migrations to America.⁵
+
+In December 1986, Greenberg, Turner, and Zegura jointly announced the
+sweeping conclusion that independent linguistic, dental, and genetic
+evidence was converging on a single story of the identity, number,
+relative order, and antiquity of migrations to the Americas. Yet, with a
+speed and ferocity unusual even for the long history of controversy over
+the peopling of the Americas, their coalition was attacked. And unlike
+in years gone by, where disputes mostly raged between disciplines,
+strong opposition also came from behind their own disciplinary lines.
+The convergence was short-lived.
+
+So we're back to bickering. Although this debate has an almost
+NASCAR-like appeal (watching for the crashes), much is being learned
+from the non-archaeological evidence being brought to bear on these
+archaeological questions. This chapter explores what language, skeletal
+biology, and genetics can say and have said about the origin and
+antiquity of the first Americans. We'll postpone for Chapter 6 the more
+challenging question of how (or whether) these various lines—along with
+archaeology—converge on answers to the central questions of the peopling
+of the Americas.
+
+SPEAKING OF THE FIRST AMERICANS
+
+When Europeans arrived, American Indians spoke a bewildering number of
+languages. Just how many, no one knows. Linguists recognize over 1,000
+languages (out of about 6,000 spoken worldwide), but only about 600
+survived as of 1950 (see Table 3). The loss of approximately 40% of
+America's native languages resulted from several factors, the most
+important being the arrival of infectious epidemic diseases on the heels
+of European contact, which wiped out many groups of speakers, or forced
+survivors to amalgamate and adopt a common tongue. That cause, coupled
+with centuries of acculturation and the steady decline of native
+speakers (which has been precipitous since the 1950s—only about
+forty-five of North America's languages are still spoken), has meant
+that many languages are poorly known, some by no more than a single
+phrase or word. South America has suffered the greatest losses, where
+only 15% of surviving languages have been adequately documented.⁶ The
+losses, linguist Ives Goddard (no relation to Pliny Earle) grimly
+observes, are “a cultural tragedy of almost unimaginable dimensions.”⁷
+
+Given the loss of so many American Indian languages, what might we say
+about the historical relationships among them? The answer lies in
+classifying languages, though the aim is not just to bring order to
+Babel. Languages evolve. That process, as Charles Darwin long ago
+observed, parallels biological evolution: over time, languages change
+and diversify into new forms (try tackling Shakespeare as it was
+originally written just 400 years ago). There are, of course, language
+rules, but those are not strictly enforced by the community of speakers,
+though they might have been by your grade-school English teacher, nor
+are they even enforceable. As new words or pronunciations are invented
+by an individual (or individuals), new variants of semantics, syntax,
+and sound spread through the community. Most members adopt the new
+forms: speaking the same as your peers is a way of being part of a
+group.⁸
+
+TABLE 3 Counts of languages and language families in the Americas
+
+[images]
+
+NOTE: Data from Goddard 1996, Golla 2000, Greenberg 1987, and Kaufman
+and Golla 2000; given language losses, other estimates of American
+languages and language families naturally vary, but are within the same
+ballpark.
+
+But then, some of the speakers moved away—to America, say. Months pass,
+then years since these individuals (or their ancestors) were part of
+that original community. They may have maintained sporadic contact over
+that time, rendezvousing at intervals to exchange information,
+resources, or mates. But because contacts are limited, the inevitable
+changes taking place within each group's speech have led to the
+emergence of different dialects, or regional varieties of a language.
+Although no longer identical, the dialects are to a degree mutually
+intelligible. Were the splinter group to return to the ancestral
+homeland or meet their now-distant cousins, they would be able to make
+themselves understood.
+
+However, if the descendants are separated long enough so as to lose all
+contact, their speech will become mutually unintelligible, and their
+dialects different languages. At that point, you can't go home again—or
+more properly, make yourself understood if you do, for whether you
+remember the old language or not, the speech of those who stayed behind
+would have since changed as well.
+
+The time it takes for a new language to develop is not known precisely,
+largely because rates of language change vary owing to the size of the
+group, the degree of geographic and social isolation or contact, and as
+Daniel Nettle adds, circumstances such as speakers dispersing across a
+new and empty landscape (obviously relevant in this instance), which
+often leads to a proliferation of new languages.⁹ But as a very rough
+estimate, linguists suggest a new language can emerge after 600-1,000
+years.
+
+Repeat this process over time, such that many groups splinter off and
+move to distant regions, or otherwise become linguistically isolated,
+and a Babel of different tongues emerges. The descendant languages are
+considered part ofthe same language family, such as the Romance
+languages of Europe (including French, Spanish, Italian, Portuguese, and
+Rumanian, descended from Latin). In turn, the Romance and Germanic
+families, along with ancient Greek, Sanskrit, and dozens of others, are
+more distantly evolved from Indo-European, a mother tongue spoken
+sometime after about 9,000 years ago (since words for wheeled transport
+and domesticated animals are common) but before about 6,000 years ago
+(since words for metallurgy are not).
+
+Some languages, however, are not easily linked to any family. Euskara,
+spoken by the Basque inhabitants of the Pyrenees region between France
+and Spain, is an isolate, completely unrelated to its neighbor
+languages. Isolates in North America include Tonkawa, Tunica, Zuni, and
+(possibly) Haida. Assuming their uniqueness is not a function of
+inadequate documentation, any linguistic ancestors these share with
+other American languages may be very deep in time.
+
+In principle, then, separate languages sharing an ancestor retain
+vestiges of their common inheritance in words (meaning and form), syntax
+(grammatical structure), and sound (pronunciation). But how distant are
+the ancestral echoes we can hear? Can languages descended from a common
+form spoken in, say, Pleistocene times, retain traces of their shared
+ancestry? There are two camps on the issue. One argues the rate of
+language change is so rapid that within 8,000-10,000 years, all vestiges
+of once-common elements will be erased. The other believes they can
+detect in the world's languages subtle reverberations of words that were
+once spoken by the first modern humans 40,000-60,000 or more years ago.
+A few among them think they hear faint sounds of the first words spoken
+100,000 years ago (apparently one of those was tik [finger], according
+to Merritt Ruhlen).¹⁰ Not surprisingly, the two camps take very
+different routes in arriving at such divergent estimates (of which more
+below), but in both cases, finding like languages is the vital first
+step in recognizing their shared ancestry.
+
+The process of classifying American languages began in earnest in the
+late nineteenth century, when the BAE's John Wesley Powell—examining
+similarities across word lists—grouped North America's languages into
+fifty-eight broad families. Although he believed that these families
+could “not have sprung from a common source,” he supposed “future and
+more critical study will result in the fusion of some of these
+families.”¹¹ He was right. Linguists progressively lumped languages
+together until, by the 1920s, Sapir—who considered Powell's idea of
+nearly sixty genetically independent families “tantamount to a
+historical absurdity”—had whittled that number down to just 6 families,
+each presumably sharing elements and a common ancestor.¹² Powell was
+long dead by then, but Sapir still faced formidable opposition: his
+mentor, Franz Boas, who chided Sapir for assuming like languages had to
+be related. After all, Boas reminded him, languages (like other elements
+of culture) can be similar for other reasons, borrowing and chance,
+chief among them.
+
+Sapir understood that, but he possessed remarkable linguistic intuition
+and the cool nerve of a gambler. He was playing a hunch with his
+6-family scheme, sensing the similarities among these many languages
+meant they were related. As even his critics granted, Sapir's hunches
+were often better than most others’ evidence. Still, Sapir expected
+amendments to his scheme, friendly or otherwise, and he got them. One
+camp, the great majority, splintered his 6 families into 150, believing
+no fewer could be justified. The other camp, led by Joseph Greenberg,
+out-Sapired Sapir himself, grouping all American languages into just 3
+families. It was, Greenberg acknowledged, “a very bold thesis indeed.”¹³
+Could it also be right? It depends on the method one uses.
+
+THE TRADITIONAL METHOD
+
+Traditional historical linguists—and Greenberg is not one—identify
+language families from the bottom up, comparing two languages side by
+side, starting with a search for cognates (words alike in form and
+meaning). They recognize that shared words themselves may not indicate
+common ancestry. When speakers of different languages come into contact,
+words often jump from one language to another: the Norman Conquest in
+1066, for example, injected a heavy dose of Norman French (a Romance
+language)into Old English (a Germanic language), resulting in Middle
+English, which combined elements of both.¹⁴ Likewise, some words are
+similar across languages because of deep-rooted patterns in the
+evolution of human speech (the reason why certain consonant-vowel
+combinations such as “mama” recur), and some are similar just by chance.
+How then, to sort the historically meaningful cognates from ones that
+are merely accidental?
+
+A key answer for historical linguists lies in finding sound
+correspondences. As languages evolve, the words change, but so, too, do
+the sounds. And they do so, as Donald Ringe puts it, with “statistically
+overwhelming regularity.”¹⁵ Thus, Latin words with the consonant pairing
+ct (for example, octo and noctem) consistently shifted in Spanish to a
+ch sound pairing (as in ocho and noche), and so on (see Table 4). The
+phonetic expression of the sound change, Ringe explains, is irrelevant:
+what matters is the regularity of the pattern and the number of those
+changes. Where a sound change is broadly consistent, it provides strong
+and, importantly, statistically reliable proof the cognates result from
+common descent; borrowing, because it is more haphazard, will not be
+accompanied by regular, widespread sound correspondences.
+
+Traditional historical linguists take the analysis a step farther. If a
+number of different languages are part of the same family, they should
+be able to reconstruct the proto-language by identifying the core
+elements shared by the related languages, including words and
+grammatical forms. The hypothesized proto-language can then be put to
+the test, and this was done dramatically in the case of Indo-European,
+when archaeologists in the 1920s excavated a stone tablet in Turkey on
+which was carved the predicted consonant sets of the now-extinct
+Indo-European language of Anatolian.
+
+It took more than a century to work out the details of Indo-European,
+despite the fact that the number of languages under study was relatively
+few and well attested: approximately 100 Indo-European languages are
+still spoken by half the world's population. Understanding the history
+of American Indian languages is far more challenging, given the severity
+of language loss and the attendant difficulty of fully identifying
+cognates, sound correspondences, and the like. Nonetheless, based on the
+data at hand, traditional historical linguists sort North American
+languages (Figure 30) into about 33 separate families, and about as many
+isolates (for a hemisphere-wide total of approximately 170 families and
+isolates).
+
+TABLE 4 Cognates and sound correspondences among Romance languages
+
+[images]
+
+NOTE:. Data from Ringe 2000:144.
+
+[images]
+
+FIGURE 30.
+Map of Native North American language families and languages, based on
+traditional historical linguistics. The northern portions of the
+Eskimo-Aleut and Na-Dene regions are not shown (see Figure 31). Areas in
+gray are regions where data are inadequate or languages are
+unclassified.
+
+The 33 North American language families (keyed to map numbers): (1)
+Algic, (2) Alsean, (3) Atakapan, (4) Caddoan, (5) Chimakuan, (6)
+Chinookan, (7) Chumashan, (8) Cochimi-Yuman, (9) Comecrudan, (10)
+Coosan, (11) Eskimo-Aleut, (12) Iroquoian, (13) Keresan, (14)
+Kiowa-Tanoan, (15) Maiduan, (16) Muskogean, (17) Na-Dene, (18)
+Palaihnihan, (19) Salishan, (20) Salinan, (21) Pomoan, (22)
+Plateau-Penutian, (23) Shastan, (24) Siouan-Catawba, (25) Takelman, (26)
+Timucuan, (27) Tsimshianic, (28) Utian, (29) Uto-Aztecan, (30) Wakashan,
+(31) Wintuan, (32) Yokutsan, and (33) Yukian.
+
+There are as well some individual languages and language isolates
+identified, as follows: (34) Aranama, (35) Beothuk, (36) Calusa, (37)
+Coahuilteco, (38) Haida, (39) Karankawa, (40) Kootenai, (41) Natchez,
+(42) Seri, (43) Solano, (44) Tonkawa, (45) Tunica, (46) Washoe, (47)
+Yuchi, and (48) Zuni. (Adapted from Goddard 1996.)
+
+We are a long way from ascertaining precise historical relationships
+among them. Consider the Algic language family. It includes a couple
+dozen languages scattered from California (e.g., Yurok and Wiyot) to the
+Plains (Arapaho, Cheyenne), around the Great Lakes (Fox, Menominee), and
+along the eastern seaboard (Delaware, Micmac).¹⁶ Though demonstrably
+related, there are considerable differences among these languages,
+bespeaking a common ancestor deep in the distant past. How deep is a
+matter of speculation. So too, Lyle Campbell adds, is the question of
+where the ancestral language was first spoken, and how or why the
+languages became so geographically far-flung.
+
+It is assumed, and reasonably so, that additional and still deeper
+historical relationships exist between Algic and other American Indian
+languages and families. As Jane Hill says, “We can never prove that two
+languages are not related to each other.”¹⁷ However, the approximately
+thirty-three families currently identified are as far as traditional
+historical linguists care to go with the available data, which in many
+cases is the most data we'll ever have, given the continued, relentless
+loss of American languages.
+
+Traditional historical linguistics yields robust groupings. Yet, robust
+as the method might be, obtaining those groupings is also
+extraordinarily labor-intensive and, worse, “discouragingly slow.”¹⁸
+Others searched for an easier way.
+
+SEEKING A SHORTCUT
+
+Sapir, the godfather of the radical historical linguists, certainly
+thought there was; Joseph Greenberg is convinced he found it. Greenberg
+rejects the traditionalists’ approach and results, and thinks North
+American language families are not nearly so difficult to group as
+traditionalists portray them. He uses a technique he dubs multilateral
+or mass comparison, which works not from the bottom up but from the top
+down, by simultaneously comparing a relatively few words across as many
+different languages as possible.
+
+Doing so sacrifices linguistic details, but Greenberg thinks the cost is
+worth it. With so many American languages to examine, comparing only two
+or three at a time would make the process impossibly long. Besides, he
+argues, two distantly related languages may actually look different when
+compared only with each other, but their similarities would emerge when
+compared against many others simultaneously. As Greenberg explains,
+English and German, though related, have only vaguely similar words for
+tooth (zahn in German). Yet, alongside Dutch (also a Germanic language)
+the connections become more apparent (tand), as do their
+farther-reaching similarities to Italian (dente), Greek (dhondi), and
+the even more linguistically distant Lithuanian (dant-is) and Hindi
+(da:t).¹⁹ Hindi and English share an Indo-European ancestor, but perch
+on distant branches of the tree of its descendants.
+
+Of course, just because many languages have a similar word for tooth
+does not a shared ancestor make. Any single match can easily result from
+borrowing, onomatopoeia, or chance. To show common origin, Greenberg
+argues, play the odds: Compare a list of words. The more that are
+shared, the more likely they result from common ancestry and the closer
+their historical relationship. Family trees, even linguistic ones, are
+like that.
+
+[images]
+
+FIGURE 31.
+Map of Joseph Greenberg's three New World language families, based on
+his method of mass comparison. The Eskimo-Aleut and Na-Dene families are
+relatively uncontroversial; Amerind is not. (Adapted from Greenberg
+1987.)
+
+In applying his method of mass comparison to American languages,
+Greenberg checked all the languages against a word list of about 300
+personal pronouns, body parts, and common natural objects (e.g., I, you,
+mouth, tooth, leg, foot, hand, dead, blood, water). He selected these
+because they ought to be enduring, non-culture-specific words. From that
+investigation, he concluded, as presented in his 1987 book, Language in
+the Americas, that all American languages fell into just three families:
+Eskimo-Aleut, Na-Dene, and one vast family called Amerind (Figure 31).
+
+Eskimo-Aleut comprises ten languages, including Aleut, spoken on the
+Aleutian Islands; Yupik or western Eskimo, spoken on the Siberian and
+Alaskan coasts; and eastern Eskimo, Inuit-Inupiaq, spoken in the
+northern Arctic from Alaska to Greenland. These languages are striking
+in their homogeneity, Inuit-Inupiaq especially so: early European
+travelers learning a dialect at one end of the range were able, albeit
+with increasing difficulty, to converse with other Inuit-Inupiaq
+speakers as they made their way across their territory. The lack of more
+pronounced differences suggest all spoke a common language in the
+not-too-distant past, and dispersed across the far north from an Alaskan
+homeland relatively rapidly. The Eskimo-Aleut languages, Greenberg
+believes, show close affinities to Asian Pacific Rim languages such as
+Ainu and Chukchi-Kamchatkan.
+
+The thirty-eight Na-Dene or Athabascan languages are today spoken by
+three widely separated peoples: the majority, Northern Athabascans
+(including Koyukon, Dogrib, Chipewyan, Sarcee) inhabit a large area of
+interior subarctic Alaska and Canada; Pacific Coast Athabascans live in
+the large river valleys of Oregon and northern California; and Apachean,
+including the Navajo and Apache, inhabit the southwestern United States
+(the Apachean apparently separated from Northern Athabascan in just the
+last millennium). According to Greenberg, Na-Dene languages have distant
+links with a few Old World language families, notably Sino-Tibetan and
+Yeniseian.²⁰
+
+Greenberg's Amerind family embraces the remaining approximately 900
+indigenous languages of the New World, strikingly different tongues
+spoken across a vast region from Hudson's Bay to Tierra del Fuego by
+peoples surely separated by thousands of years of prehistory. Yet, by
+Greenberg's accounting, all share some words and a distinctive first
+person/second person pronoun pairing of n/m (in many Indo-European
+languages, the pattern is m/t as in me/thee, moi/tu, etc.). He believes
+the n/m pronoun pattern is so pervasive it should lead any “historically
+minded” linguist to conclude it marks a common ancestry.²¹
+
+Profound differences between Eskimo-Aleut, Na-Dene, and Amerind
+convinced Greenberg these were distinct families in Asia before they
+migrated to America, each at different times. But in what order? The
+greater the differentiation within a language family, and the greater
+its geographic extent, Sapir argued, the older the family (the
+underlying assumption being that over time, language families become
+more heterogeneous). And the older the family, Greenberg added, the
+fewer the links to Old World languages and the farther south its
+location: they left Siberia earliest, and traveled the farthest.
+
+By this reasoning, Amerind, the most heterogeneous and widespread, which
+lacks all but the slightest affinities with Old World languages, is the
+oldest. That Amerinds inhabit nearly the entire hemisphere and are far
+from Beringia suggests to Greenberg their ancestors arrived when no
+other humans were here to impede their travel. They were the first
+Americans.
+
+That was apparently not the case with the Na-Dene or Eskimo-Aleut, who
+today occupy lands north of Amerind speakers, and whose southward
+progress was presumably blocked by them. Ancestral Na-Dene speakers,
+whose language family is less internally differentiated (relative to
+Amerind), and still has attenuated ties to a few Old World languages,
+must have followed the ancestral Amerinds. The ancestral Eskimo-Aleuts
+must have come last, since their languages are the least differentiated
+and have the most conspicuous links to Siberian and Asian languages.
+
+Languages cannot be directly dated. But Greenberg hazarded a guess based
+on presumed rates of language change: the Eskimo-Aleut family was about
+4,000 years old, Na-Dene about 9,000 years old, and Amerind greater than
+11,000 years old. About as old as, say, Clovis.
+
+HARSH WORDS
+
+In the later decades of the twentieth century, Sapir-inspired lumping
+fell from grace in American linguistics, and hard-nosed, traditional
+historical linguists busily dismantled language families they believed
+had been sloppily pasted together. Languages in the Americas was bucking
+that trend, and Greenberg knew it, predicting 80%-90% of American
+linguists would receive his ideas with “something akin to outrage.”²² He
+was right. His claim that the vast majority of all New World languages
+were historically related within Amerind met with scorching criticism.
+The attack began even before Languages in the Americas appeared, when
+Lyle Campbell, one of the most outraged—and who was aware of Greenberg's
+forthcoming work—proclaimed it “should be shouted down.”²³
+
+Campbell and other critics did not dispute Greenberg's goals: they, too,
+sought historical relationships among languages. They also believed many
+of the current American language families and isolates might be
+historically related. And they accepted the Eskimo-Aleut family (but
+then this grouping had long been uncontroversial). Beyond that, common
+ground vanished. Greenberg's critics absolutely rejected the Amerind
+grouping, and were at best lukewarm about Na-Dene. They accused
+Greenberg of going too far, too fast, using bad evidence and a method
+that Ringe denounced as “antiscientific” and “crap.” Most critics
+privately shared this opinion; few were quite so publicly blunt about
+it.²⁴
+
+Cynics might dismiss the dispute as no more than an academic border war:
+Greenberg had made his reputation studying African languages, and only
+later came to work on American ones. Naturally, those who worked in the
+Americas would resent his presence. Maybe. But Greenberg's
+critics—experts in American languages—had legitimate complaints. They
+readily showed he had badly mishandled the American word lists, failing
+to recognize borrowed words (including Spanish ones), attributing words
+to one language (e.g., Quapaw) that actually came from another unrelated
+one (Biloxi), and including so many spurious words that one reviewer
+declared Greenberg's word matches were wrong more often than they were
+right. Nor were these harmless mistakes, since his criteria for spotting
+similarities between languages (never consistent, the critics snarled)
+sometimes involved a single consonant, making it all too easy for chance
+resemblances “masquerading as historical evidence” to occur.²⁵
+
+In tackling all the languages of America, Greenberg admitted there would
+be mistakes: “It would be miraculous,” he said, if there weren't.²⁶ But
+he also insisted errors were inconsequential. Comparing a few words
+broadly across hundreds of languages, he argued, reduced the statistical
+likelihood of having a match by chance alone. Yet, as Ringe and others
+quickly countered, the situation is just the opposite: Greenberg's
+method compounds the problem by multiplying opportunities for chance
+resemblances (since there are a limited number of consonant
+possibilities appearing in a vast number of languages).
+
+Errors in the word lists were a serious problem, given how little
+attention Greenberg paid to other aspects of language such as grammar,
+sound, and meaning. Greenberg insisted he was not neglecting those
+elements, pointing to the key role the “enormously widespread” n/m
+pattern played in grouping Amerind. That defense gained no traction
+either: the frequency of n/m in America, critics groused, was “grossly
+overstated” (oddly, neither side actually tallied n/m frequencies, nor
+could agree on whether counts at the level of languages or language
+families mattered more). More telling, critics argued this supposedly
+unique American form occurs elsewhere, while the ostensibly non-American
+pronoun pattern (m/t) occurs here.²⁷
+
+The indifference Greenberg showed to testing his language families by
+establishing sound correspondences, at times belittling their importance
+(even Sapir never did that), made his critics all the more dismissive of
+his results and, indeed, of mass comparison itself. In reply, Greenberg
+and his supporters played the Africa card: mass comparison worked
+there—despite, they added, initial hostility—without sound
+correspondences, etymologies, and reconstructions of proto-languages.
+Why shouldn't it ultimately triumph in America as well? The “African
+Fallacy,” Campbell shot back: not only were Greenberg's African language
+families still in dispute, but “posturing for the American Indian
+classification on the basis of an African classification is
+irrelevant.”²⁸
+
+Greenberg wanted Languages in the Americas judged as a whole. His
+critics did, and rejected it wholeheartedly. Realizing he would never
+convince his fellow linguists, Greenberg branded them timid souls
+unwilling to seek bold, broad patterns, prejudiced against his efforts
+to do so, and in the unkindest cut, not even well acquainted with their
+own data.
+
+“Megalocomparison,” James Matisoff dubbed Greenberg's method,
+contrasting it with the more traditional microcomparison of languages.
+Those who practiced micro-comparison Matisoff called “micromaniacs.” He
+didn't need to fill in the blank about who he thought practiced
+megalocomparison. He was right. Greenberg had no need of linguists’
+approval. Not when he saw vindication in an “almost exact match” of his
+language families with independently grouped teeth and genes, which he
+proclaimed “virtually confirms the validity of the Amerind family” and
+his three-migration model.²⁹
+
+TALES FROM TEETH
+
+In the 1920s, just as Sapir was reducing all American languages to six
+families, Hrdlicka was identifying physical traits common to all
+American Indians. One of the most significant was a distinctive “shovel
+shape” to the upper incisor (where extra ridges on the tongue side give
+the crown a shovel look). This inherited trait satisfied Hrdlicka that
+all Native Americans shared a common ancestor. That was important to him
+because their physical unity meant they hadn't been here long enough for
+evolutionary divergence to occur, proof that his staunch opposition to
+their Pleistocene arrival was correct. Several decades later, Christy
+Turner's extensive analysis of teeth both fortified and falsified that
+conclusion.
+
+Why study teeth? They are hard, dense parts of the skeleton, more
+resistant to weathering, and not an especially attractive target for
+carnivores or scavengers, or easily broken down by insects, fungi, or
+other agents. As a result, they invariably outlast the body's soft parts
+and often bones as well. Although all humans share the same general
+dentition (thirty-two adult teeth: incisors, canines, premolars,
+molars), we differ in secondary dental traits, such as tooth shape and
+size, the number of roots, crown geometry, and the like. Importantly,
+Turner notes, tooth anatomy is inherited and little modified by
+environment, use, health, or diet. If two groups have the same dental
+traits, he argues, they are almost certainly related to one another.
+Even better, because tooth structure changes slowly, it is possible to
+trace a dental lineage across space and through time. And teeth can be
+directly radiocarbon dated. We may never know what language prehistoric
+Americans spoke, but we can examine their teeth and group them by their
+similarities. Ethnic odontology Turner calls it.
+
+Turner examined over 200,000 teeth from more than 9,000 individuals in
+sites throughout the New World, and for comparison across many areas of
+the Old World, especially China, Siberia, and other regions of eastern
+Asia. He tallied the occurrence of twenty-eight crown and root traits,
+such as the occurrence of shoveling or winging of the upper incisors,
+the presence of Caribelli's trait or hypocone on the upper molars,
+groove and cusp patterns on lower molars, and the number of roots
+(either two or three) on some premolars and molars (some examples are
+shown in Table 5).
+
+These are traits that generally occur in all peoples, though in varying
+frequency in different populations. Incisor shoveling, as Hrdlicka first
+realized, is common among American Indians but rare elsewhere. On the
+other hand, a Y groove on the lower first molar occurs in nearly the
+same percentage (about i0%-20%) in populations around the globe. Hence,
+doing ethnic odontology is a statistical exercise in ascertaining how
+one sample of teeth differs from another based on a constellation of
+traits.
+
+Using such analyses, Turner distinguished Asian teeth from those of
+Africa and Europe, then broadly divided the Asian sample into two
+groups: Sundadonts and Sinodonts. He separates the two based on the
+higher incidence of shoveling and three-rooted molars in Sinodonts, but
+the division is not altogether a clean one, since on certain traits
+(such as winging on the upper incisors), Sinodonts and Sundadonts are
+indistinguishable. One can be hard-pressed to assign jaw fragments or
+individual teeth to the correct group if all that remain are teeth with
+traits common to many.
+
+Turner suggests the Sundadont pattern, widespread in Southeast Asia, is
+the older of the two and the root from which Sinodonty, characteristic
+of northern Asian and all American populations, evolved. Sundadonts, he
+believes, “had nothing to do with the peopling of the Americas.”³⁰
+
+TABLE 5 Dental morphology of Native Americans and other groups
+
+[images]
+
+NOTE: From Turner 1985: Table 1 and Turner 1986: Table 1. Values are
+expressed as percentage within the sample; sample sizes vary.
+
+Turner puts the earliest Asian appearance of Sinodonty in the jaws of
+early modern humans from the Upper Cave site at Zhoukoudian, China,
+although the ages of these specimens are uncertain (the dates on them
+range from 10,000 to 29,000 BP³¹). In America, the Sinodont pattern
+appears in teeth from the Cerro Sota and Palli Aike caves of
+southernmost Chile, dated to 9000-10,000 BP. As might be expected given
+the time elapsed since Northeast Asian and American Sinodonts diverged,
+Turner sees dental differences between the two. American Sinodonts have,
+for example, greater frequencies of Carabelli's trait, shoveling and
+double shoveling, and lower frequencies of three-rooted lower first
+molars and Y-groove patterns than their Northeast Asian counterparts
+(let's ignore for the moment that many of the trait frequencies for the
+populations in Table 5 are at odds with these general statements).
+
+Nor are all American Sinodonts alike. Turner subdivided them into three
+groups: Eskimo-Aleut, Greater Northwest Coast (which includes southwest
+Athabascan speakers), and all other American Indians. Eskimo-Aleut and
+American Indians are least like each other, the first having a lower
+incidence of shoveling and Carabelli's trait, but a higher frequency of
+three-rooted molars. Between these extremes the Greater Northwest Coast
+cluster perches, its dental traits betwixt the other two, yet showing
+less internal differentiation than either. Turner interprets that as
+evidence the ancestors of this group were present in Siberia, and were
+not more recently hybridized between Eskimo-Aleuts and American Indians.
+
+Like Greenberg, Turner explained his three groups as the result of three
+separate migrations from the Old World (he even uses Greenberg's group
+labels). All three are traceable back to the same northern Chinese late
+Pleistocene Sinodonts, but none have distributions that correspond to
+“natural areas” of the Americas, and so Turner believed each must have
+formed separately in China or Siberia sometime after the first
+appearance of Sinodonty, and then gone their separate ways, arriving in
+the New World at different times via different routes. He supposes
+ancestral Amerinds drifted initially to the west then north, through the
+Lena River basin and then along the Arctic shelf across northern
+Beringia. The Eskimo-Aleuts went east and north, down the Amur River to
+its mouth, then sidled over to Hokkaido, up the Sea of Okhotsk, and then
+skipped across the Aleutian Islands. The first Na-Dene traveled the gap
+between the two. However, no teeth have been found along these routes.
+
+Turner believes the Amerind dental group was the first to reach the New
+World (manifest archaeologically as Clovis). By his dental reckoning,
+Eskimo-Aleuts came second, and the Na-Dene were a distant third. That
+relative order differs, of course, from the one Greenberg arrived at
+based on languages, as they candidly admitted in their 1986 announcement
+of the convergence of their views.
+
+Their estimates of an absolute chronology for the migrations naturally
+differed as well. For want of sufficient radiocarbon dated teeth, Turner
+invented a quasi-absolute dating technique he called dentochronology
+(not to be confused with dendrochronology, or tree-ring dating). On the
+assumption teeth change at a constant rate, dental differences between
+groups—quantified using the mean measure of divergence (MMD)
+statistic—become a measure of the time elapsed since the groups split
+from one another (see Table 6).
+
+TABLE 6 Mean Measure of Divergence (MMD) between sample groups
+
+[images]
+
+NOTE: Data from Turner 1986: Table 2. Significance values not provided
+in original, but assume differences are significant if MMD > -.040.
+Smaller values indicate more similar groups.
+
+To calibrate the rate of change, Turner calculated the MMD between
+groups whose divergence times were independently dated, then divided the
+MMD by the total elapsed time, to derive and average global dental
+evolution rate of 0.01003 ± .004 MMD per 1,000 years.³² Multiplying that
+rate by the MMD between various Amerind and Northeast Asian populations
+suggested to Turner they split about 14,000 years ago, a time he thought
+nicely corresponded to when Clovis ancestors may have first emerged in
+Siberia.³³ Calculations for Eskimo-Aleut and Northeast Asian populations
+yielded an age at divergence of approximately 11,000 years ago. The
+numbers for Na-Dene were more elusive, but nearly all postdated the
+Eskimo divergence. Altogether, not too bad a fit with the archaeological
+evidence, Turner supposed. Given the vagaries of estimating antiquity
+from language, Greenberg deemed it not a bad fit with the linguistic
+evidence either.
+
+CAVITIES
+
+Indeed, much was made of the “independent” confirmation the teeth
+provided of Greenberg's language groups. It was “strong presumption,”
+Merritt Ruhlen argued, that Greenberg's groupings and the
+three-migration model were correct.³⁴ But as Greenberg, Turner, and
+Zegura candidly admitted, when an investigator in one field is aware of
+the conclusions proposed in another, “he or she may be influenced by
+this knowledge in developing a theory.” Thus, the “ultimate test”—as
+they saw it—was whether the data from the field itself could justify the
+conclusions drawn.³⁵ Did it in this case? And just how separate were the
+two lines of evidence?
+
+Ideally, analysis of the teeth ought to proceed independently of any
+preconceptions about the language group to which they might belong.
+Turner's analysis certainly began there, but soon thereafter, he spoke
+with Greenberg about his linguistic groupings. After that, Turner
+explicitly linked his dental clusters with Greenberg's language
+families, and the change was in more than name only: for analytical
+purposes, he pooled his tooth samples into “regional sets” by dental
+similarity and by their “known or presumed linguistic affiliation.”³⁶
+
+Now, teeth may chatter, but they don't talk. Not by themselves, anyway.
+How, then, can dental groups be assigned to “common culture and closely
+related languages”?³⁷ Turner did so by where the teeth were found: a
+sample of teeth from sites in regions now occupied by Eskimos or Aleuts
+are assigned to the Eskimo or Aleut group. It can be as simple as that,
+and can cause trouble just as easily. For doing so requires seeing what
+Goldilocks saw: that each group, like the Three Bears, has its own—and
+only its own—language, which co-occurs over time with a particular set
+of genes, artifacts, and teeth in a territory that does not change hands
+(or teeth).
+
+That might be true at certain times and places. Teeth and artifacts from
+a 900-year-old site on the northwestern shore of Hudson Bay, for
+example, are likely those of ancestral Eskimo speakers: there is good
+archaeological reason to think no one else was there in later
+prehistoric times. But 500 years earlier in the same place, the
+archaeological record looks very different. Whose teeth are those? What
+language did they help voice? The Goldilocks Standard, if it might be
+called that, is harder to achieve as one goes deeper into the past, and
+also in places that have long trafficked in human beings—like Alaska,
+the corridor for all American migrations (however many there were). What
+language was associated with 5,000-year-old teeth found there? Can one
+presume a linguistic affiliation of undated teeth? Not surprisingly,
+teeth from Alaska and the far north often stubbornly resist falling
+neatly into corresponding language groups.
+
+The dilemma is obvious: places and times where we might hope to come
+onto the dental trail of the first peoples are the very times and places
+where we have the least chance of figuring out who those people were or
+what language they spoke. Of course, if Turner found three dental groups
+in Alaska, one dated to 12,000 years ago, the other never occurring
+before 10,000 years ago, and the third always postdating 4,500 years
+ago, it would be powerful evidence of three migrations.
+
+But that's not happened. Nearly all the teeth in Turner's sample are
+less than a couple thousand years old, and their young age, tied to the
+undemonstrated (if not false) hope that inhabitants haven't changed over
+that time, makes it hard to do just that. To be sure, Turner's sample
+includes all known Paleoindian and Early Archaic specimens, but that
+amounts to teeth from no more than twenty sites, few of which are
+actually dated to the Pleistocene.
+
+The consequences of this complication are plain enough to see in MMD
+values: teeth that ought to cluster together are dissimilar, and those
+from unrelated groups overlap. For example, Aleut teeth, which ought to
+be most similar to Eskimo teeth by their linguistic affiliation, are
+statistically more like the Na-Dene teeth. For that matter, some Amerind
+groups are dentally closer to Na-Dene than to other Amerinds. These
+complications spill over into the dentochronological estimates, which
+have Eskimo-Aleuts departing Northeast Asia 8,000 years ago and Na-Dene
+groups 4,000 years ago, and yet by Turner's reckoning, the Na-Dene
+arrival is marked by the Paleoarctic archaeological tradition, which is
+radiocarbon dated to 10,000 BP (thus predating both the dental
+divergence age and the earliest Eskimo-Aleut sites) (see Table 7).
+
+Likewise, the time separating Sinodonts from Sundadonts (a
+dentochronological date of about 13,460 years ago) ought to be much
+greater than that separating Asian from American Sinodonts (which by
+dentochronology occurred about 20,400 years ago, making it curious, too,
+that Turner insists there is nothing in the dental evidence to suggest
+“entry much before Clovis”). Coincidentally, a recent study of eastern
+Asian teeth failed to support the validity of the Sinodont and Sundadont
+groups.³⁸
+
+In light of the messy overlap of the dental groups, physical
+anthropologist and geneticist Emoke Szathmary wondered whether Turner
+was forcing his results and interpretation to fit Greenberg's language
+families and three-migration model. A harsh accusation, but one easily
+put to the test by seeing how the teeth cluster when examined strictly
+by their dental attributes, without presuming what language they once
+voiced. Unfortunately, Turner has never done such a test nor published
+his raw data, making it impossible for others to do so.
+
+TABLE 7 Elapsed Time from Divergence with Northeast Asian Sinodonts
+
+[images]
+
+NOTE: Based on Mean Measure of Divergence values (from Table 6) and the
+global dentochronological rate (.01003 ± 004).
+
+How, then does the genetic evidence fit?
+
+A COMPLEX INHERITANCE
+
+When Zegura joined forces with Greenberg and Turner, he knew the genetic
+evidence was not as well developed. The basics were certainly known:
+packaged within the nucleus of cells are chromosomes, of which there are
+twenty-three pairs per cell. Within each pair are long strands of
+deoxyribonucleic acid (DNA) made of a sugar molecule (deoxyribose or D)
+attached to one of four chemical bases: guanine (G), cytosine (C),
+adenine (A), and thymine (T). These, in turn, are linked to phosphoric
+acid (P), the combination forming a nucleotide. A DNA molecule is a very
+long sequence of paired nucleotides joining A to T, and C to G in a
+double-stranded helical structure. There are approximately 100 million
+nucleotide pairs (or base pairs) per chromosome, and some 3 billion base
+pairs in the human genome. Segments along either DNA strand with
+specific functions (not all have them) are genes, and together these are
+responsible for the biology of an individual.
+
+The nucleus at fertilization joins twenty-three chromosomes from the
+mother and father: twenty-two of these chromosome pairs make up the
+autosomes, and the twenty-third pair are the sex chromosomes (either XX
+[female] or XY [male]). The vast majority of the DNA in the genome is
+inherited from both parents, joined in a process much like the shuffling
+of cards, making the offspring about a 50/50 mix of parental DNA. Since
+auto somes undergo recombination each generation, autosomal DNA is a
+highly complex skein derived from a geometrically expanding pool of
+ancestors (two parents, four grandparents, eight great-grandparents, and
+so on). Go back more than a few generations, and it becomes impossible
+to tell which specific ancestor contributed a particular piece of DNA to
+an individual, at least not without comparing the DNA of all.³⁹
+
+However, one can spot genetic differences between groups by measuring
+the frequency with which certain genes and mutations occur in
+populations that have been isolated for periods of time. The study of
+genetic distance between human populations began with serological
+markers—blood group antigens (A, B, and Rh blood groups), serum
+proteins, immunoglobulin (antibody molecules), and various enzymes.
+These were the classical genetic markers.
+
+Not all New World populations are genetically alike, but at the time
+Zegura was working with Greenberg and Turner, he faced a challenge in
+showing genetic differences among New World peoples. The classical
+markers then available were known to vary on the scale of continents:
+useful for separating, say, African, American, Asian, and Europeans.⁴⁰
+They were stubbornly irresolute, however, on whether there were
+identifiable genetic groups within Native Americans, let alone which
+matched Greenberg's Amerind, Na-Dene, and Eskimo-Aleut. The closest
+Zegura came were patterns in immunoglobulin Gm allotypes, but only
+because their distribution was “analyzed with respect to the
+three-migration hypothesis.”⁴¹ Had he not been looking for those three
+groups, he might not have seen them.
+
+The genetic evidence simply didn't match up with the languages and
+teeth, as Zegura admitted. Mostly, it produced a picture of “discordant
+variation,” the result of thousands of years of gene exchange,
+recombination, random flutters in gene frequencies, and mutation, all
+conspiring with natural selection to obscure what once may have been
+discernable genetic genealogies. Unraveling millennia of history from
+classical genetic markers was going to be a “challenging and highly
+speculative enterprise”—or so it appeared in 1986 (it is still mostly
+that way, though recently inroads have been made using genome-wide
+autosomal markers to detect signals of the peopling process⁴²). And so
+Greenberg, Turner, and Zegura relegated the genetic evidence to
+secondary status, unable to confirm their tripartite migration model.
+
+Ironically, within a decade, rapid advances in genetics in two separate
+corners of the human genome made it possible to reject that model and
+replace it with a very different picture of the peopling of the
+Americas. When that happened, Zegura “fully opted out” of the tripartite
+model, much to the dismay of his co-authors.⁴³
+
+ANCESTRAL GENES
+
+Those advances occurred when geneticists shifted their attention away
+from classical markers and began looking at DNA in mitochondria, the
+thousands of small, bean-shaped organelles in the cell responsible for
+the cell's energy metabolism (think of them as cell batteries).
+Mitochondrial DNA (mtDNA) and nuclear DNA fundamentally differ: both
+occur in males and females, but through a strange quirk of nature, the
+mtDNA from the sperm is discarded when an egg is fertilized, and hence
+mtDNA is inherited strictly from mother to child (male or female). The
+bane of human genetics—the recombination of genes in mating—does not
+occur in the passage of mtDNA down the maternal line. Conveniently
+enough, geneticists peering into another corner of the genome soon
+realized that uni-parental inheritance also took place down the paternal
+line, via the non-recombining portion of the Y chromosome (or NRY),
+which is inherited directly from father to son to son (Figure 32).⁴⁴
+
+With mtDNA and NRY, it is possible to identify the female and male
+descendants (respectively) of a particular lineage, for they will
+directly inherit the markers possessed by their common ancestor. But
+what makes these two inheritance pathways even more valuable for tracing
+ancestry is the fact that the DNA undergoes mutations, or changes over
+time.
+
+At reproduction the nucleotides in DNA are copied almost—but not
+entirely—without error, which is quite astonishing, given that about 3
+billion must be copied and in the same order in which they are found on
+the original chromosomes. Although this takes place with amazing
+accuracy each cell generation, mistakes or mutations occasionally
+occur.⁴⁵ These might include the replacement of one nucleotide by
+another (C→T, called a single nucleotide polymorphism, or SNP), or
+perhaps involve the insertion or deletion of a base pair(s) at a
+particular site. These become variants (alleles) of those 0 nucleotides.
+0
+
+Although we tend to think of mutations as trouble, particularly the ones
+that directly impact the function of a particular gene, many are trivial
+and indeed neutral with respect to our genes or our phenotype (outward
+appearance) and are not subject to the forces of natural selection.
+These neutral traits are sometimes uncharitably referred to as “junk
+DNA” because they do not encode proteins or regulatory information. Each
+of us carries about 100 new neutral mutations our parents did not have.
+
+These mutations in our junk DNA can be remarkably useful for tracing
+population history, since similarities among them can help trace common
+ancestry. Put simply, individuals or groups that share mtDNA and NRY
+markers are related; the more they share, the closer they are related,
+and the closer in time their common ancestor. Consider a very simplified
+example (Figure 33): the mtDNA molecule has 16,569 nucleotide base
+pairs. Let's say a SNP occurs in one of the women of a population at
+nucleotide pair (np) 16327 in the control region of the mtDNA molecule.
+Her several daughters inherit that marker. In one of them, another SNP
+occurs at np 16325. This woman and all her daughters (but neither her
+sisters nor their children) now have the same markers at np 16327 and
+16325. In a subsequent generation, another mutation occurs, this time in
+the coding region at np 493, so all members of this lineage now have
+identical markers at np 16327 and 16325 and 493. Through the
+generations, the SNP list will grow, including all the mutations that
+occurred previously—unless a new one happens to occur at the same site
+as a previous one, erasing an ancestral marker. Meanwhile, in the other
+branch of the family, the marker at np 16327 is also being passed down,
+but in those other lines of descent, mutations are also taking place,
+say at np 16356. All branches carry the original mutation at np 16327,
+but each will have added its own shared by daughters down those
+lineages, but not in other more distantly related lines.⁴⁶
+
+[images]
+
+FIGURE 32.
+Schematic illustration of the inheritance of mitochondrial, Y
+chromosome, and autosomal DNA through four generations of males (M) and
+females (F). The DNA on the twenty-two pairs of autosomes, represented
+by the two tall bars, combines each generation, and by the fourth
+generation, the son's autosomes are a complex mix of maternal and
+paternal DNA from all eight great grandparents (as illustrated by the
+different patterns). The Y chromosome (the short bar) and the mtDNA (the
+circle) are inherited uni-parentally, so each son carries the Y
+chromosome of his father, and each child the mtDNA of his or her
+mother—but only the daughter passes along mtDNA to the next generation.
+Hence, the son in the fourth generation traces his Y chromosome solely
+to his paternal great grandfather, and his mtDNA solely to his maternal
+great grandmother. (Adapted from Hammer and Zegura 1996.)
+
+[images]
+
+FIGURE 33.
+Schematic (and highly simplified) illustration of the descent with
+mutation of mtDNA in two maternal lineages. The mutations are not as
+rapid as depicted here, but the schematic is intended merely to convey
+the larger point that over time, mutations occur in the separate lines
+of maternal descendants, such that subsequent generations along those
+separate lines grow increasingly different from one another in their
+mtDNA. If both lines are descendants of a common founding lineage, they
+will share a set of markers in their mtDNA (unless later mutations have
+changed those as well). The analogous process also takes place down the
+paternal line.
+
+A brief vocabulary time out: all individuals who share an ancestral
+nucleotide signature (np 16327 in the example) are part of the same
+haplogroup, or genetic lineage, while the more specific markers within
+the branches of the haplogroup (np 16325 and np 16356) are known as
+haplotypes. Though one doesn't want to put too fine a point on the
+analogy, think of haplogroups as language families and haplotypes as
+specific languages.⁴⁷ A haplogroup is considered a founding lineage if
+it occurs in both Asian and Siberian populations, but is also widespread
+in America and one from which New World-specific haplotypes have
+diverged.⁴⁸
+
+As one might surmise, mtDNA and NRY founding lineages may not trace back
+to the same actual population, since male and female movements can
+differ significantly. In some cultures, males travel long distances to
+find geographically far-flung mates; in others, it is females who leave
+behind the group into which they were born.⁴⁹ By all indications, the
+first Americans were highly mobile, but it remains uncertain whether,
+once their descendants began to settle down, differences in male and
+female migration patterns emerged. Given the adaptive challenges of
+being in a vast new landscape, there's reason to think differences might
+emerge (Chapter 7). But whether these, or other gender-specific trends
+(higher male mortality, or more widespread polygyny) have confused the
+resulting picture of mtDNA and NRY diversity, is yet unknown.
+
+CLOCKING THE FIRST AMERICANS
+
+Changes in mtDNA and NRY accumulate rapidly (though not quite as rapidly
+as in the example above); by one estimate, mtDNA mutation rates are 6-17
+times faster than those in nuclear DNA. Thus, even after the roughly 400
+generations people have been in the Americas, we can expect significant
+differences to have accumulated between American Indians and their
+Northeast Asian relatives, as well as between American Indian lineages
+that went their separate ways once here.
+
+In principle, mutations in mtDNA and the NRY can serve as a molecular
+clock timing the splitting of genetic lineages. This is so because
+mutations also occur at a relatively steady rate: about 2.81-6.62
+mutations per 10,000 years on the mtDNA side (depending on where in the
+mtDNA molecule those changes are taking place), and over on the NRY, a
+slower 1.45 changes or so per 10,000 years (that's the SNP mutation
+rate; other mutations on the NRY, as noted below, are faster). By
+measuring the sequence diversity of mtDNA (or NRY) in a population, and
+knowing the mutation rate at whithose changes accumulated, we can in
+principle convert genetic distance into the time necessary to have
+generated that level of diversity (that's one method; another estimates
+time in a different manner).⁵⁰
+
+But molecular clocks must be used with caution, for they can run fast or
+slow owing to variation in mutation rates (which differ by mutation type
+and region in the mtDNA and NRY molecules), depending on whether
+mutations occur uniformly over time (for clock purposes, it is assumed
+they do), whether the mutations get “fixed” with the population or
+disappear (what geneticists refer to as the difference between mutation
+and substitution rates), how reliably the mutation rate has been
+calibrated,⁵¹ and whether the number of founding haplotypes within a
+haplogroup is known. A bit of elaboration on this last point: if all the
+diversity within a haplogroup accumulated in a single haplotype, then
+mutations must have occurred in a more or less serial fashion one after
+another, and that will yield an older age for the haplogroup. But if the
+diversity within a haplogroup is the result of mutations within multiple
+haplotypes, those could have arisen concurrently, and the molecular age
+for the haplogroup will be correspondingly younger. Without knowing the
+number of haplotypes in a founding haplogroup, one cannot know whether
+the molecular clock is telling the right time. Geneticists are aware of
+these problems and are rightly wary of ages based solely on molecular
+clocks.⁵² We should be, too.
+
+Those matters aside, what time is told by the ticking of the molecular
+clock? Unfortunately, it is not necessarily the moment when a group
+split from their Northeast Asian relatives and headed for America—though
+it could be. Rather, the clocks measure the time elapsed since two or
+more molecular lineages began to diverge. Molecular divergence can occur
+(and often does occur) in a population long before a part of them goes
+off to discover a new homeland, in which case the molecular age says
+nothing about when that divergence occurred. But if those genetic
+lineage and population splits coincide, genes become a handy clock
+indeed.
+
+MITOCHONDRIAL MEMENTOS
+
+All the nucleotide positions on the mtDNA molecule have been mapped, and
+it is known where SNPs are likely to occur. Accordingly, geneticists
+seeking clues to mtDNA history pay particular attention to the coding
+region, which directs the biochemical processes of the mtDNA (and which
+comprises approximately 94% of the mtDNA and contains thirty-seven
+genes), and especially to the smaller control region (CR), where mtDNA
+is initiated and regulated, and where changes occur at a faster rate
+(though mutations here also have the unfortunate tendency to be
+recurrent, and thus can partially obscure earlier, founding markers).⁵³
+
+In the mid-1980s, Douglas Wallace began looking at mtDNA in Arizona's
+Pima peoples. Their genes bespoke an ancestry of only a few mtDNA
+lineages. Later, casting the sampling net wider on the chance that the
+small number of haplogroups he identified were Pima specific, Wallace
+and his team examined mtDNA from the Yucatan Maya and South American
+Ticuna. To his surprise, these geographically separate groups showed
+high frequencies, but not the same high frequencies, of the same marker
+(which became haplogroup C), again bespeaking common ancestry. That all
+three were in Greenberg's Amerind group seemed no coincidence. And
+something else: this marker occurred among Native Americans in
+frequencies twenty times higher than in Asians. Here was the first
+indication that the ancestral population of these widely separate groups
+had been very small, likely having passed through a population
+bottleneck, as geneticists call it, and left Asia with only a tiny
+fraction of the genetic markers present in the parent population (this
+is the geneticists’ founder effect, which recognizes that a new
+population founded by a small number of individuals necessarily
+represents only a fraction of the diversity of the source population).⁵⁴
+Once here, those markers naturally came to dominate in the descendant
+populations.
+
+Within a few years of Wallace's study, three more haplogroups were
+identified among American Indians (haplogroups A, B, and D). Together,
+these were found in 98% of all Native Americans.⁵⁵ That's a large
+percentage, but the absolute number of individuals who have participated
+in such studies was small, and small samples (statistically speaking)
+are more likely to encounter the most common haplogroups first, and only
+later detect the rarer ones (a complicating factor to which we shall
+return).
+
+These four haplogroups vary in their frequency, and coincidentally do so
+in alphabetical order: haplogroups A, B, C, and D are present in
+(respectively) 40%, 32%, 17%, and 7% of American Indians.⁵⁶ Because they
+all occur widely (if unevenly) among Native Americans, they are thought
+to be founding lineages. Originally, geneticists sorted their results by
+Greenberg's language families (geneticist Antonio Torroni admits it was
+hard to avoid using that scheme⁵⁷), and doing so revealed certain
+patterns. All four haplogroups occurred in peoples identified by
+Greenberg as Amerind. Yet, Na-Dene speakers generally harbored only
+haplogroup A; it appeared they shared a deep Siberian ancestor with
+Amerinds, but because haplogroup A showed less internal variation in the
+Na-Dene, it seemed they split off from their common Siberian ancestor
+sometime after the Amerind split. Haplogroup B was virtually absent from
+both Na-Dene and Eskimo-Aleuts, and was not as old as haplogroups A, C,
+and D, suggesting it, too, was derived from a separate migration, but
+one sandwiched between an early (haplogroups A [in Amerinds], C, and D)
+and a later migration (dominated by haplogroup A [in Na-Dene]). For a
+time, it seemed the three-migration model might just be saved from
+scientific purgatory and Greenberg's language families vindicated.⁵⁸
+
+The moment didn't last. Once additional mtDNA samples were analyzed,
+Na-Dene and Eskimo-Aleuts proved to have all four haplogroups. Andrew
+Merriwether and others then began lobbying for a simpler scenario: a
+single migration to the Americas. The rationale was straightforward:
+given there were only four founding haplogroups found in all Native
+Americans, their ancestors must have arrived as part of the same
+migration.It seemed unlikely that different groups of people leaving
+Asia at different times from different places would all be members of
+the same genetic club.⁵⁹
+
+Most geneticists accepted the idea of a single migration, even after
+they realized there weren't just four mtDNA haplogroups. In the late
+1990s, a fifth, more-minor haplogroup (X) was spotted in very low
+frequencies (about 3%) among Native populations in the northeastern
+United States. Because X was known to occur in Europeans, its appearance
+among American Indians was initially written off as a case of post-1492
+admixture. But then a closer look revealed X was scattered across the
+Americas (even in pre-European contact burials from North and perhaps
+South America), never appeared alongside other European markers, and was
+sufficiently distinct from European X their shared ancestor must be deep
+in time. Clearly, X was a founding lineage that came to America. But
+from where?⁶⁰
+
+Haplogroup X was rare in Siberia and eastern Asia, and its presence in
+western Asia and Europe prompted a team of geneticists to make the
+breathtaking speculation that Pleistocene Europeans had crossed the
+Atlantic to colonize the Americas. But almost immediately the
+geneticists recanted, after X also turned up among the Siberian Altai
+and proved to be an extremely old, possibly central Asian lineage on a
+different branch of the haplogroup X tree, whose descendants went both
+west (to Europe) and east (to America). It was too late: by then several
+archaeologists and skeletal biologists had jumped on the bandwagon and
+were trumpeting the idea Europeans colonized the Americas (more on that
+below, and Chapter 6).⁶¹
+
+Five founding lineages,⁶² all from a single migration. Curiously,
+despite denying the three-migration model, geneticists continued to use
+Greenberg's three language families to classify their samples—testimony
+to the time it takes for knowledge from one discipline to fully
+penetrate another. And even though it was noticed by the late 1990s by
+Tatiana Karafet and colleagues that the linguistic-genetic fit was
+problematic,⁶³ it was not until 2004 that robust statistical tests were
+conducted to assess whether genetic haplogroups actually coincided with
+Amerind, Na-Dene, and Eskimo-Aleut.⁶⁴ They didn't. In fact, they missed
+badly, not just among groups assigned to Amerind, but even with
+Eskimo-Aleut, the one language family on which Greenberg and his
+linguist critics actually agreed. Aleuts did not cluster genetically
+with Eskimos, but instead were closer to several of Greenberg's Amerind
+tribes, as well as to the Navajo, a Na-Dene group.
+
+The mismatch between languages and genes testified there had been, as
+geneticists Keith Hunley and Jeffrey Long put it, a long “history of
+pervasive genetic exchange across linguistic boundaries.”⁶⁵ Or perhaps
+language sharing across genetic boundaries. Either way, the last hope
+for independent support of Greenberg's language families vanished. Lyle
+Campbell and Ives Goddard, Greenberg's longtime adversaries, took a
+victory lap: joining a pair of geneticists, they pronounced Amerind,
+abandoned in linguistics, could no longer be used in genetic analysis
+either.⁶⁶
+
+Although the distribution of the major mtDNA haplogroups did not neatly
+align with languages, they were not randomly scattered among tribes
+across the hemisphere either (see Table 8)—and that is a good thing, for
+it indicates the subsequent millennia of gene flow and genetic drift
+have not obscured the molecular signal. Haplogroup A is especially
+frequent in Arctic populations, common among Pacific Coast groups but
+otherwise rare in western North America, present in eastern North
+America and Central America, and infrequent throughout much of South
+America (and there are hints the northern groups possess a different,
+possibly later haplotype of A). Haplogroup B, on the other hand, is
+virtually absent in the far north (Siberia, too), though it, too,
+increases in abundance in more southern regions, especially in the
+American Southwest and Central America, only to diminish altogether in
+far South America. Haplogroup C is particularly abundant in South
+American populations, less so in Central and North American groups. The
+distribution of haplogroup D is a mix: common in far northern
+populations (especially among the Aleut), present but rare in North
+American populations, and quite frequent among South American groups
+(like C). Finally, haplogroup X is widely scattered but in very low
+frequencies across North America.⁶⁷
+
+What might these broad patterns reveal? One possibility: the original
+colonizers carried the full complement of founding lineages, but as they
+dispersed found themselves isolated for long periods of time. Strongly
+affected by genetic drift—random changes in gene frequency, which are
+often pronounced in small populations—certain markers diminished in
+frequency or were lost altogether. Alternatively, there was more than
+one migratory pulse, and groups with especially distinctive haplogroup
+and haplotype profiles (like many Eskimo-Aleuts, for example), represent
+separate migrations.⁶⁸
+
+Molecular ages may shed light on the matter (if one haplogroup, say, was
+much younger than the others). Early molecular ages ranged from 20,000
+to 41,000 years for haplogroups A, C, D, and X, and from 6,000 to 12,000
+years for haplogroup B.⁶⁹ These provided the first molecular indication
+ancestral American Indians left Siberia far earlier than the generally
+accepted Paleoindian ages, and hinted that haplogroup B might represent
+a later migration.
+
+In subsequent years, the molecular clock seemed to spin wildly around
+the dial, with estimated ages growing younger in some haplogroups, older
+in others, and in some in both directions simultaneously. The spinning
+has since slowed, and in general the molecular ages are younger, but
+there is still considerable scatter in them (and in the accompanying
+error estimates), the result, Jason Eshelman and colleagues explained,
+of varying haplotypes used to estimate diversity, and the methods
+employed to calculate molecular divergence.
+
+Change may be on the horizon, however: recent work by Erika Tamm and
+colleagues examining whole mtDNA sequences for haplotypes within
+haplogroups A through D put their ages generally younger than 20,000 BP,
+with haplogroup B now aligning in age with the others (indeed, it's now
+estimated to be slighter older).⁷⁰ This makes good sense, since
+haplogroup B is present in coprolite samples from Paisley Cave alongside
+haplogroup A (Chapter 4). Still, it remains uncertain just when the
+mtDNA clock started ticking relative to the population dispersal of the
+first Americans, and (naturally) whether that occurred at the same time
+for all haplogroups.⁷¹
+
+As to where they originated, haplogroups A, C, and D—or at least
+haplotypes within them—are present among eastern Siberians, though
+haplogroups B and X are virtually absent. Yet, all five markers occur
+elsewhere in Asian populations, from as far west as the Altai Mountains
+of Siberia, to as far east as Japan and Korea. If we simply use
+present-day occurrence to map Pleistocene distributions, then the
+potential home range was extensive.
+
+One region all haplogroups occur is Mongolia, which consequently has
+been identified as the source of ancestral American Indians.⁷² Of
+course, this claim is based on little more than the observation that
+haplogroups present in Native Americas are also present among Native
+Mongolians. Yet, people living in Mongolia today may not have been
+living there more than 20,000 years ago. They could have arrived there
+in recent times, just as their modern Native American counterparts
+arrived at their residences relatively recently. The most we can
+reliably say is that Native Mongolians and American Indians are
+descended from the same population; Mongolia cannot be confirmed as a
+molecular homeland until we find Pleistocene-age DNA in Mongolian
+skeletal remains that matches those founding lineages.⁷³
+
+TABLE 8 Founding mtDNA lineages in the Americas
+
+[images]
+
+NOTE: 2007 and Smith et al. 2006. Haplotype markers are ones widespread
+in the Americas but generally absent in Asia, suggesting a post-arrival
+appearance. Molecular ages, as noted in the text, vary widely depending
+on method and region; only two sets of estimates are provided here.
+Ancient DNA haplogroup assignments are unconfirmed: not all defining
+markers for all haplogroups were sequenced.
+
+^(a) Data from Schurr 2004a, ^(b) Data from Tamm et al. 2007, ^(c) Data
+from Malhi et al.
+
+AMERICAN ADAM (S)
+
+The Y is one of the smallest of the chromosomes, comprising
+approximately 51 mega-bases of DNA (a megabase is 1 million base
+pairs).⁷⁴ Although relatively small, most of it is non-recombining,
+making it the largest such block of the human genome. NRY mutations can
+occur in one of several forms, which include SNPs, insertions/deletions,
+and Short Tandem Repeats (STRs). STRs differ from the other mutations in
+that instead of being binary (e.g., a C→T change), they are
+characterized by multiple repeat states (e.g., CG→CGCGCG change), and
+their mutation rate is higher, making them more variable in human
+populations and more useful than SNPs for tracking more recent events in
+human history. In the NRY, haplogroups and founding lineages are
+generally defined by SNPs (the broader groups), and the haplotypes by
+STRs.
+
+Investigations of the NRY began in the mid-1990s, and owing to the small
+number of samples examined and the large regions to be mapped, there are
+fewer studies than of mtDNA. Complicating matters, different
+laboratories were not looking at the same segments of the NRY initially,
+and when they did, they were not using the same labels. Fortunately,
+such confusion has been straightened out, and there is a now
+standardized nomenclature for the eighteen NRY worldwide haplogroups
+(labeled A through R).⁷⁵
+
+Zegura and others have detected three major NRY lineages in America: C,
+Q, R (see Table 9). Together, these comprise over 95% of the Native
+American NRYs examined thus far. The remaining 5% are haplogroups E
+through G, and I through J, all of which are European markers and are
+attributed to recent genetic admixture.⁷⁶ Haplogroup R might also have
+arrived on these shores after 1492. Most American Indians who are
+members of haplogroup R are in lineage R-P25, one widely shared by
+Europeans and Native Americans, but not Asians. Either Europeans and
+American Indians have a common ancestor deep in time that left no
+descendants in Asia (akin to the situation with mtDNA haplogroup X),
+or—more likely given the strong similarity in the STRs between Europeans
+and American Indians—that shared ancestor is relatively recent (post
+1492).
+
+TABLE 9 NRY lineages in the Americans
+
+[images]
+
+NOTE: Data from Zegura et al. 2004.
+
+We are left then with NRY haplogroups C and Q, both of which appear to
+be founding lineages. Haplogroup Q occurs in 65%-75% of all individuals
+and in all American Indian tribes. Haplogroup C is less abundant and
+patchier in its distribution, being present primarily in Na-Dene groups,
+and sporadically in Eskimo and ostensibly Amerind groups. Both of these
+haplogroups thus crosscut Greenberg's three linguistic families
+(Eskimo-Aleut, Na-Dene, and Amerind), indicating those language families
+are once again “a poor predictor of paternal genetic affinities among
+Native American populations.”⁷⁷
+
+As was the case with mtDNA, Native American Y chromosome diversity is
+much lower than in Asia, showing that here, too, the ancestors left Asia
+with only a fraction of the genetic variability of the parent
+population. But did they come as one migration or two? Back to the
+molecular clock. The age of Q-P36, the marker defining the Q lineage, is
+estimated at 17,200-14,300 years ago but with a large margin of error.
+The estimated age for the C lineage is 13,900 years ago (± 4,000 years).
+These generally put the molecular split between 18,000 and 14,000 years
+ago; population expansion must have come later. It hasn't escaped notice
+these ages are generally younger than those based on mtDNA.⁷⁸
+
+Given that the molecular ages for haplogroups C and Q broadly overlap,
+they could be part of the same, single migration to the Americas. If so,
+they ought to have come from the same place and show similarities to the
+same Asian populations. Both, in fact, are present in relatively high
+frequencies in the Kets and Selkups of western Siberia, though this is
+where populations with those particular markers happen to live now. It
+is supposed by some historians that the “ancient homeland” of the Kets
+and Selkups was farther south in the Altai region (where haplogroups are
+also found in modern populations), though it is not clear on what actual
+evidence that is based.
+
+As it happens, mtDNA haplogroups A-D and X are also found among some
+Altai populations, but not the same populations that yielded the NRY
+haplogroups C and Q. Of course, that difference might mean little: mtDNA
+and NRY haplogroups could have been present in a single population
+living here in late Pleistocene times, and the fact they are scattered
+today only means their ancestors dispersed over time. We know that
+happens: after all, at least some of them went off to colonize the New
+World. Nor will we know, without ancient DNA from Pleistocene skeletal
+remains from this area, whether their ancestors lived in the Altai
+region at the time of migration to the Americas. It is reasonable to
+suppose present-day Altaians are descended from the same population as
+Native Americans, and that's why they have complementary mtDNA and NRY.
+Assuming, that is, a single population harbored all those haplogroups.
+
+DOES 5 + 2 = 1?
+
+Certainly, that's been the view for much of the last decade: one
+relatively small, presumably closely related founding population
+harbored five mtDNA and two NRY founding haplogroups. How small? Jody
+Hey has shown DNA diversity in the Americas could result from an initial
+effective population of around 70 individuals (the effective population
+is the number of individuals likely to contribute genes to the next
+generation; the actual on-the-ground size of the population is routinely
+about three to five times larger). Andrew Kitchen and colleagues have
+more recently pegged the initial effective population at about
+1,000-5,400 individuals (-5,000-27,500 people altogether). Hey's
+estimate seems an especially small number with which to found a New
+World (-200-350 individuals), but there's no anthropological or genetic
+reason to preclude the possibility. There are signs in all genetic
+systems (mtDNA, NRY, autosomal) of a population bottleneck, so whatever
+the absolute number, those who made it to the New World were some
+fraction of the Pleistocene population of East Asia and Siberia.⁷⁹
+
+But was it a single migration? Much of the support for that idea is the
+difficulty of imagining, as Merriwether and colleagues put it, that
+“these [founding] lineages were drawn from separate populations…or from
+the same population thousands of years apart.”⁸⁰ In part, our inability
+to conjure that image is rooted in the idea there are just a handful of
+founding lineages in the Americas, and all of them have been accounted
+for in studies of American Indian mtDNA and NRY. That may be the case.
+
+Yet, many New World groups have not participated in mtDNA or NRY
+studies, and among groups that have, the number of participants is often
+relatively small, on average fewer than thirty individuals. Small
+samples are the bane of scientific conclusions since (as noted) they
+typically detect only the most common haplogroups and haplotypes in a
+population. Recall that it took more than a decade before geneticists
+came across haplogroup X, which occurs in only about 3% of Native
+Americans. Such gaps in sampling, Ripan Malhi and colleagues argue,
+“make it likely that significant undocumented genetic structure still
+exists in the Americas.”⁸¹
+
+The National Geographic Society and IBM's five-year Genographic Project
+aims to rectify that situation by assembling the world's largest
+collection of mtDNA and NRY, with the lofty goal of mapping human
+genetic diversity and history.⁸² Shifting analytical attention from the
+mtDNA control region to the whole mtDNA molecule will help.
+
+So, too, will greater attention to genome-wide autosomal patterns. After
+all, mtDNA and NRY markers represent uni-parental descent in small
+corners of the human genome. Yet, each of us has two parents, four
+grandparents, eight great-grandparents, and so on; go back just twenty
+generations, for example, and each of us has more than 1 million
+ancestors. All of them were potential contributors of some piece,
+however tiny, of our autosomal DNA.⁸³ Thanks to ongoing advances in
+genetics and the statistical analysis of the genome, the “discordant
+variation” that stymied Zegura in the mid-1980s is being parsed, and as
+computational biologist Nick Patterson reports, the study of auto-somal
+(nuclear) DNA is likely to lead soon to a much richer genetic
+understanding.
+
+All of these efforts will show whether our current picture of Native
+American genetic diversity and the conclusions drawn from it about the
+number of founding lineages and the timing of their divergence are
+correct (I'll return to these issues but from another angle in the next
+chapter).
+
+But it still might not be enough. The genetic studies to date are
+primarily based on modern populations, which represent only the most
+recent time slice of the more than 12,500 years (and about 400
+generations) Native Americans have occupied the New World. There's long
+been reason to suspect that over that span, there were mtDNA and NRY
+lineages that once existed but have since vanished, and thus would never
+be detected in modern populations, even if those populations were
+adequately sampled. Recently, that suspicion was heightened.
+
+In January 2007, Malhi and colleagues announced that mtDNA haplogroup M,
+known from contemporary populations on other continents but heretofore
+unreported in the Americas, had been found in ancient DNA recovered from
+two skeletons (possibly brothers) from the China Lake site in British
+Columbia dating to about 5000 BP.Coincidentally, that same month saw the
+announcement by Brian Kemp and others that a bone sample from On Your
+Knees Cave, Alaska, dated to 10,300 BP had yielded a new founding
+haplotype within haplogroup D.⁸⁴
+
+Neither the discovery of a new haplotype, nor even the discovery of a
+previously undetected haplogroup, is surprising. But if these
+discoveries are any indication—and they need to be fully sequenced and
+confirmed⁸⁵—the recovery of ancient DNA (aDNA) has the potential to
+revolutionize our understanding of population history, since genetic
+data from contemporary populations may not be fully representative of
+the genetics of the earliest populations in the New World. It may not
+even fully represent pre-1492 populations. This is not to say, however,
+that modern groups are not descended from those early populations, only
+that certain specific markers in two corners of the vast human genome
+may have disappeared along the way (a matter taken up more fully in
+Chapter 6).
+
+Studies of aDNA are in their infancy, and present formidable analytical
+challenges.⁸⁶ aDNA recovered from teeth or bones routinely occurs in
+badly degraded fragments, and when amplified in the laboratory is highly
+prone to contamination, even from a researcher's stifled sneeze or lost
+split end. Laboratories working with aDNA must be extraordinarily
+vigilant, and maintain a file of the DNA of all who come through the
+lab, to ensure an unexpected haplogroup does not belong to anyone other
+than the ancient individual whose sample is under study.
+
+In the relatively few studies of aDNA (less than 1,000) to date, most on
+archaeological specimens fewer than 4,000 years old, traces of the mtDNA
+founding lineages seen in modern American Indians are present in varying
+frequency. In some cases, aDNA and modern mtDNA from the same region are
+alike, but in others not. Present and past mtDNA signatures tend to
+match if the aDNA is not very old: aDNA from the high Arctic that's
+fewer than 1,000 years old matches that of Eskimo populations, but aDNA
+from Windover, Florida (dated to 7400 BP), is mostly haplogroup X, in a
+part of the country where X has not been documented among American
+Indians. It is too soon to conclude that DNA continuity occurs only
+where there is a relatively shallow time depth, and that the further
+back in time, the more likely the DNA signal will flicker and then
+disappear. But this possibility has far-reaching implications for
+scientific and legal efforts to document the modern identity of ancient
+skeletal remains (as explored in Chapter 10).⁸⁷
+
+Of more immediate consequence, the newly discovered haplogroups and
+haplotypes in aDNA may imply that the diversity of the founding Native
+America population was larger than previously proposed (and will lead to
+different estimates of the effective population size of the founding
+group); that molecular estimates for the timing of the peopling of the
+Americas will have to be recalculated to reflect the greater number of
+haplotypes; and that we're still open for business on the possibility of
+multiple migrations, or at least the possibility of multiple sources
+contributing to a single founding population.⁸⁸ In this regard, it's
+better to think of Beringia as a funnel that was open to the west, with
+many genetic streams flowing in (from Siberia) but just one coming out
+(in Alaska), rather than as a pipeline (a single stream from Siberia to
+Alaska).
+
+That funnel might have been open for some time, for there are four
+haplotypes now known within haplogroup C. Of those, haplotype C1a is
+restricted to Asian populations, while haplotypes C1b, C1c, and C1d are
+widespread in the Americas—and only the Americas. Those haplotypes must
+have originally arisen in Asia, perhaps in the region of Beringia, apart
+from other populations harboring haplogroup C, but before heading to the
+New World. A Beringian “standstill” Tamm and colleagues call it,⁸⁹ one
+that possibly lasted 10,000-20,000 years (the time necessary to give
+rise to the separate haplotypes C1b-C1d). It is an intriguing, though as
+yet untested, hypothesis, not to mention one that sees little
+archaeological support of a long occupancy of Siberia and Beringia
+(though admittedly that might be the fault of the archaeological
+record).⁹⁰
+
+There's one more thing aDNA can do: help resolve a particularly
+contentious subplot over whether ancient and modern skeletal remains are
+related.
+
+TALKING HEADS
+
+Skeletal remains and particularly crania have long figured in this
+debate, though they carry a seedy legacy since the size and shape of the
+head—where, of course, the brain is housed—was typed and often
+stereotyped to fit prevailing notions of race, ethnicity, and
+intelligence. A soft-core racism persisted in physical anthropology well
+into the twentieth century. Harvard University's Earnest Hooton
+distinguished among a sample of the nearly 1,800 crania A. V. Kidder had
+excavated from Pecos Pueblo (New Mexico) seven distinct craniofacial
+types, including “Pseudo-Negroid,” “Pseudo-Australoid,” “Plains Indian,”
+and “Long-faced European.” Although Pecos had been occupied in Spanish
+colonial times, Hooton insisted all of his cranial types were found in
+prehistoric deposits. Like other “heriditarians” (his term), Hooton
+believed these affinities to Africans and Europeans were no coincidence,
+but rather physical testimony of a prehistoric melting pot, one that
+enabled him to shamelessly credit the American Indians’ development of
+agriculture and civilization to their partial European heritage. Hooton
+believed cranial form was permanent, and had no use for “fanatical
+environmentalists” who refused to accept that a skull could “withstand
+the moulding [sic] and modifying influence of physical environment
+and…endure through generations as a racial earmark.”⁹¹
+
+One of those so-called fanatics was Franz Boas, who (in addition to
+having a low opinion of Hooton) steadfastly challenged claims of cranial
+immutability, showing that the cephalic index, the ratio of maximum
+width to maximum length of the skull that was often used to sort races,
+varied widely among adults of a single group and even within the
+lifetime of a single individual. He later argued, based on a massive
+study he conducted of immigrants who passed through Ellis Island in the
+early twentieth century, that American-born children of immigrants had
+significantly different cephalic indices than their parents—a result of
+the healthier American environment in which they were raised. Partly as
+a result of Boas's efforts, and also of the development of intelligence
+testing (which moved the discussion of race onto even more slippery
+ground, craniometry had lost much its luster by mid-twentieth century.
+
+Now it's back, having been revived in a far more sophisticated form in
+the last decades of the twentieth century by practitioners armed with
+complex statistics and powerful computers for analyzing cranial
+variation. They take multiple measurements of a skull (as many as 60-75
+on a complete cranium, far fewer on fragmentary archaeological
+specimens), including the width of the skull at its maximum point, its
+distance from front to back, and the width and height of the eye
+sockets. The data are then analyzed using a variety of statistical
+techniques—principal components and discriminant function analysis are
+the tools of choice—that attempt to discern combinations of variables
+that best describe skull shape and size, and can reliably cluster like
+crania. They then compare specimens from other times and places to see
+how they resemble or differ from one another, and how much variation
+each group displays.⁹²
+
+The approach is advertised as “exciting and dynamic,” but in reality
+much of it is just old wine in new skins. Many steadfastly hold to
+Hooton's assumption that cranial form faithfully reveals group identity
+(some, in fact, still haven't forgiven Boas for claiming otherwise). In
+so doing, they hold to a deeper belief as well: that race is a natural
+category, and individuals can be assigned to one or another race on the
+basis of their skulls.⁹³ We'll come back to this point.
+
+TABLE 10 Late Pleistocene and Early Holocene (-pre-8ooo BP) skeletal
+remains from North America
+
+[images]
+
+[images]
+
+NOTE: Data from Chatters 2001, D. Steele 1998, and other sources. These
+are primarily specimens for which a significant portion of the skeleton
+has been recovered. A comparable number of far more fragmentary human
+fossils have been found, but are not included here since the information
+that can be derived from them is limited.
+
+They have set their analytical sights on early New World crania, or at
+least the few there are. Highly mobile peoples spread thinly on a vast
+landscape, as the first Americans were, rarely used cemeteries, and very
+few skeletal remains have survived the passage of time. Skulls are
+especially thin walled and easily broken (unnervingly so, given what
+they protect), and almost inevitably disintegrate over time,
+occasionally leaving behind the hard and dense teeth they once packed.
+In the whole of the New World, only a few crania predating 10,000 years
+ago survive. To bolster that tiny sample, osteologists often include
+Early Holocene remains (ones more than 8,000 years old) in their
+analyses (see Table 10). Even then, it's a total sample of just a few
+dozen.
+
+We will never know how many people were in America from 12,500 to 8,000
+years ago, but it was assuredly more than three dozen. That's a
+pitifully small number on which to draw sweeping conclusions about what
+these people looked like, how cranial size and shape varied, and why.
+Were that not enough of a challenge, the remains are rarely complete,
+making it difficult to collect the full suite of measurements. That
+complicates analyses since, as Gentry Steele and Joseph Powell explain,
+the form of a skull and its similarity to others can vary depending on
+how and how many measurements are used in the analysis.⁹⁴
+
+So if the remains are few, fragmentary, and unrepresentative, it's fair
+to ask, Why bother? One good reason: with these bones we come face to
+face—literally—with what early Americans actually looked like. But
+beyond being able to look them in the eye (sockets), what else? It gets
+complicated. Like teeth, skulls vary over time, but unlike teeth, skulls
+change easily and more readily. Cranial plasticity, it's called, and it
+happens (1) in response to changing environments, where natural
+selection confers an advantage to a particular facial shape or
+structure; (2) by virtue of isolation—genetic drift again, this time
+expressed phenotypically; (3) as a result of cultural practices, such as
+from diet or cooking methods; or (4) as a consequence of growth and
+development (including the
+
+effects of disease). Morphological change happens, and can even be more
+pronounced within a group than between groups.⁹⁵
+
+There are fierce debates over just how rapidly craniofacial form changes
+on an evolutionary time scale. A century ago Ales Hrdlicka, believing
+evolutionary change was gradual and unhappily facing the prospect of
+having Pleistocene peoples in America, emphasized the morphological
+similarity between the ostensibly ancient crania and those of modern
+American Indians. His was not a terribly sophisticated view: if a
+cranium was truly ancient, it ought to resemble a Neanderthal. If it was
+younger, but still thousands of years old, it should look modern. As far
+as he was concerned, all of them did. It was a conclusion for which he,
+like Boas, has not been forgiven.⁹⁶ Most specimens Hrdlicka deemed
+modern were not very old, so it's no surprise he came to the conclusion
+he did. Yet, he failed to appreciate that even at 10,000 years remove,
+archaeological crania can differ strikingly from modern ones. That has
+only become obvious in the last couple of decades as radiocarbon dated
+skeletal remains appeared.
+
+But can a 10,000-year-old cranium look different from one just a few
+thousand years younger, and yet both be members of the same historically
+related population? Physical anthropologists Charles Roseman and Timothy
+Weaver certainly think so, especially where population size was small
+and the likelihood of genetic drift was increased, or where populations
+migrated into regions that posed different environmental challenges than
+the one they left, a circumstance faced, for example, by the first
+Americans (this is akin to Nettle's argument for early language
+proliferation).⁹⁷
+
+Under such circumstances, would differences (or similarities) in skull
+form say anything about who's related to whom? Perhaps, but the
+challenge lies in determining whether those differences (or
+similarities) are historically significant, and can reliably distinguish
+members of different populations who do not share a common ancestor, or
+who may have come to America in different migrations (or, if similar,
+show they are a part of the same lineage); or result from structural
+changes wrought by natural selection, genetic drift, and/or genetic
+change over time acting on related groups (or whether their similarity
+results from adaptive convergence); or are a complex mix of history and
+structure.⁹⁸
+
+Here's what's been found. Loring Brace and colleagues see evidence of
+two major craniofacial “types.” The first links recent and
+archaeological American Indian specimens from across the hemisphere with
+ones from as far away as Europe (and Paleolithic Europe, at that), as
+well as from Bronze Age Mongolia and the Japanese archipelago (those of
+the Ainu and Jomon). The second group includes Eskimo-Aleut and
+Athabascan crania, along with those of East and Southeast Asians. The
+first group—of “Eurasian” origin—is thought to represent an earlier
+Pleistocene migration, and the second a later, Holocene-age expansion.
+By this analysis, East Asians, including recent Mongolians, made only
+“partial contributions” to the peopling of the Americas.⁹⁹
+
+Walter Neves likewise detects two broad craniofacial groups, which he
+attributes to two migrations, only they are not the same two groups
+Brace spotted. Instead, Neves sees in Late Pleistocene and Early
+Holocene crania in South America what he calls the “Paleoamerican” type,
+one strongly similar to present-day Australians, Melanesians, and
+sub-Saharan Africans. That type is very distinct, he says, from recent
+American Indians, whose crania are more akin to the “typical Mongoloid
+morphology” of northern Asians. The only modern Native American group
+that fell into Neves's Paleoamerican type was the Pericu, who live at
+the southern tip of California's Baja Peninsula. Neves suspects they are
+survivors of the ancient Paleoamerican migration, somehow having avoided
+mixing with other groups over their entire history in the New World.¹⁰⁰
+
+Like Neves (but unlike Brace), Richard Jantz and Douglas Owsley agree
+that early American crania are distinct from those of recent American
+Indians, who are said to be more typically “Mongoloid.” Yet, unlike the
+South American specimens Neves studied, the Late Pleistocene and Early
+Holocene North American crania Jantz and Owsley examined, ostensibly
+Paleoamericans as well, show no particular resemblance to southwest
+Pacific or African populations. In fact, they appear highly variable,
+half falling within the range of recent American Indians, the other half
+“reluctant members of any recent group.”¹⁰¹
+
+Finally, Steele and Powell report that the crania of South American
+Paleoindians are, as Neves suggested, closer in their size and shape to
+those of Australians and Africans than to those of any other group. Yet,
+unlike Jantz and Owsley, they find that some North American Paleoindian
+crania are also similar to those of Australians, Ainu, and Polynesians,
+while others are more like those of Africans and Southeast Asians. In
+general, however, Steele and Powell believe all Late Pleistocene and
+Early Holocene skeletal remains are highly variable (as Jantz and
+Owsley, but not Neves found), and are consistently more like those of
+southern Asians and Pacific Rim populations than northern Asians, and
+are like skeletons of Archaic age here in the Americas, but otherwise
+quite distinguishable from more recent Native American populations (they
+do not, however, automatically assume that the Americas were peopled by
+Polynesians, say, or the Ainu, only that these are forms with general,
+and perhaps historically meaningless, resemblances).¹⁰²
+
+Overall, it's a very confused picture. Depending on which analysis one
+accepts, the first American crania are either alike, or they are not.
+They either look like recent American Indian crania, or they do not.
+They either resemble African, Ainu, Australian, European, Melanesian, or
+Polynesian crania, or not. They originated in eastern Asia, or not.
+There's even disagreement about individual specimens: Jantz and Owsley
+liken the Wizards Beach cranium to those of modern Native Americans;
+Steele and Powell think it more similar to Polynesians and
+Australians.¹⁰³ All this is to say nothing of the vast gulf between the
+cranial results and the groups derived from teeth, language, and genes
+(a thorny problem to be confronted in the next chapter).
+
+What's going on here?
+
+COMPLICATING CRANIA
+
+There are several possibilities. For one, this could all be a prank of
+sampling error: with so few cranial remains, it may be impossible to
+detect any meaningful patterns, however powerful the statistics we
+apply. Steele and Powell—and Neves, too—doubt this, since they see
+widespread patterning in their analyses. But since their separate
+analyses often are looking at the very same specimens yet seeing very
+different patterns, their rebuttal loses much of its potency.
+
+Alternatively, put the craniofacial variability to use, as Jantz and
+Owsley do, and argue it testifies to separate and multiple migrations.
+Replace (or assimilate) more ancient immigrants with more recent ones,
+bring some from southern Asia and the Pacific Rim and others from
+Northeast Asia, and perhaps this craniofacial cacophony makes sense.
+Only, that assumes the specimens are representative of the populations
+from which they were derived (doubtful, given the time and space over
+which they are scattered), and that craniofacial morphology is slow to
+change, especially given the brief time the Americas were occupied, and
+thus is a meaningful indicator of historical (and historically
+unrelated) groups. If crania look alike, it is because they are related;
+if they look different, it is because they are unrelated, Boas be
+damned.
+
+AND THEN THERE WAS KENNEWICK
+
+Human skulls are—as no stone tool can be—a tangible connection of a
+people to their past, a connection that has powerful resonance. But
+which people, and whose past? And who makes the call?
+
+Traditionally, anthropologists in the United States rarely gave those
+questions much thought. Now, they can't afford to ignore them. It's the
+law: the Native American Graves Protection and Repatriation Act
+(NAGPRA), signed into law by President George Bush in 1990, stipulates
+that American Indians are entitled to the return, for burying, of the
+remains of their ancestors housed in museums and universities. This
+well-intentioned legislation was aimed at righting the wrongs of earlier
+generations of anthropologists, who too often indiscriminately collected
+the bones of American Indians for study and display. It was often little
+more than genteel grave robbing. Although it was not only Native
+American remains that received such treatment, theirs were gathered in
+lopsided numbers. To American Indians and many others, this was one more
+instance of mistreatment at the hands of Euroamericans. NAGPRA required
+institutions having Native American skeletons to inventory and
+repatriate (return) those remains and any associated artifacts at the
+request of a known “lineal descendant” or the tribe with the “closest
+cultural affiliation.”
+
+In NAGPRA's wake, thousands of skeletons and associated artifacts have
+been (or are being) repatriated. Many of those remains were only a few
+hundred years old or younger, and there was rarely much debate over who
+the lineal descendants or cultural affiliates were.
+
+Then Kennewick came along. Its story began in July 1996, when two
+twenty-somethings were trying to sneak into the annual hydroplane races
+on the Columbia River near Kennewick, Washington. They skirted the
+perimeter fence and were wading along the edge of the Columbia River
+when one of them spotted a skull in the shallow water. Thinking it might
+be a murder victim, they called the police, who collected the skull and
+turned it over to the county coroner. He, in turn, called James
+Chatters, a local archaeologist who'd also done forensic work. With a
+police escort, the coroner and Chatters returned to the site and
+collected what bones they could in the muddy bottom as it grew dark.
+Near the bones were some late nineteenth-century artifacts, which were
+also gathered.¹⁰⁴
+
+Chatters's initial diagnosis of Kennewick, based on characteristics of
+the skull and the associated artifacts, was that he was a middle-aged
+European. But then he noticed what appeared to be a projectile point
+embedded in the pelvis and was curious about “a white guy with a stone
+point in him,”¹⁰⁵ particularly since it was a point thought to have gone
+out of style thousands of years ago. Chatters sent a few bone fragments
+off for radiocarbon dating. Over the next few weeks, he revisited the
+site and collected more fragments; then in late August, he got the
+radiocarbon results: 8410 BP.
+
+A news conference was called a few days later, and the date was
+announced. Here is where everything started to go very wrong. Chatters
+described the skeleton as a “Caucasoid” similar to a “pre-modern
+European.”¹⁰⁶ Whether or not he inadvertently used the term “Caucasian”
+is disputed, but no matter. That's what some of the reporters heard, and
+that's what went out over the wires: 8,400 years ago a white man was
+stabbed on the banks of the Columbia River. That racial impression was
+certainly fueled by the reconstruction of Kennewick's face which, by
+Chatters’ own admission, took shape after watching Star Trek: The Next
+Generation one evening, and reckoning Captain Picard (actor Patrick
+Stewart) was a dead ringer—or, more properly, a live one—for
+Kennewick¹⁰⁷ (ironically, the fictional Picard was said to have had
+academic training in archaeology). After that, one didn't even have to
+say ‘Caucasian.” It was there for all to see. Naturally, no one read the
+fine print that putting flesh back on a skull is more art than science.
+
+The local tribes were enraged. They called the U.S. Army Corps of
+Engineers (the Columbia River and its shoreline are in their
+jurisdiction) and insisted on a meeting with Chatters and the Corps. The
+meeting by all accounts was extraordinarily tense. Chatters felt
+physically threatened: one of the tribal members accused him of calling
+Kennewick European just to dodge the law (NAGPRA). The tribes left to
+draft a legal document demanding Chatters immediately turn over all
+human remains in his possession, while Chatters hustled home to record
+as much as he could of the skeleton, fearful that marshals would arrive
+at any moment to collect it. He also began rounding up legal,
+scientific, and congressional support to gain more time to study the
+remains.¹⁰⁸
+
+It didn't work. On orders from Corps attorneys, the sheriff soon came to
+collect the bones. In mid-September the Corps gave thirty days’ notice
+of its intent to turn the remains over to a coalition of Northwest
+tribes for reburial under NAGPRA (five called Kennewick their own: the
+Colville, Nez Perce, Umatilla, Wanapum, and Yakima). They later buried
+the site beneath 600 tons of rock and sediment and planted trees. They
+called it site protection. Most everyone else called it a destructive
+and heavy-handed act to prevent further investigation. The Corps works
+on hundreds of projects across the country, many on tribal lands, and it
+was not unnoticed that it was in their best interest to get along with
+the tribes. If that meant fast-tracking the transfer of the Kennewick
+bones and shutting down the site, they would.¹⁰⁹ Unless there was a
+challenge to the validity of the tribes’ claim.
+
+Chatters intended there would be. He frantically worked the phones and
+e-mail, and found a receptive audience: skeletons of this age and
+completeness (about 90% of Kennewick's bones survive) are rare, and the
+study opportunity would be lost if the Corps followed through on their
+plan to repatriate. The Corps was bombarded with messages insisting
+Kennewick's very un-American Indian appearance demanded further
+investigation to determine who he was, and maintaining it was impossible
+for any tribe to assert biological or cultural affiliation with a
+skeleton of that antiquity. Soon, members of Washington's congressional
+delegation—some with seats on the Appropriations Committee (powerful
+adversaries for any federal agency)—weighed in on behalf of a study of
+the remains.
+
+Inevitably the media picked up the scent of battle, and the story hit
+the airwaves as nothing less than a conflict between science and the
+religious beliefs of Native Americans. Newsweek and the New York Times,
+among others, questioned the Corps’ intent to repatriate: after all, if
+it was a Caucasoid, how could it be American Indian? Kennewick
+catapulted from Early Holocene anonymity to high-profile appearances on
+60 Minutes and People magazine.
+
+Fearing that the Corps would hunker down, ignore the media firestorm and
+congressional probes, and proceed with the repatriation, eight
+archaeologists and physical anthropologists filed suit in federal court
+to block the transfer.¹¹⁰ They argued the Corps’ decision was arbitrary
+and capricious, that NAGPRA may not apply to remains this old, and that
+repatriation denied their First Amendment rights of access to knowledge
+and freedom from establishment of religion. Their suit lacerated the
+anthropological community (there was hardly unanimity behind the
+action), badly damaged relations with Native American groups—even ones
+who had historically welcomed the work of archaeologists—and triggered a
+divisive, long-running, and expensive legal tug-of-war, complete with
+carnival sideshow: members of the Asatru Folk Assembly, who worship Odin
+the Norse sky god, filed their own suit asking the remains be turned
+over to them since, as a white man, Kennewick must be one of their own.
+There's sometimes a fine line between tragedy and farce.
+
+The Department of the Interior took over for the Corps and brought in a
+team to examine Kennewick. They confirmed its age, and on the basis of
+Joseph Powell and Jerome Rose's analysis, deemed Kennewick no Caucasoid.
+Nor was he like any modern American Indian, but instead was similar
+morphologically to East Asian and Polynesian populations. Powell was
+well aware that “such a finding means very little, unless one presumes
+that all skeletal features are fixed and immutable over time.” He, for
+one, does not, so was hardly surprised Kennewick's cranium looked
+different.¹¹¹ In January 2000, the secretary of the interior ruled
+Kennewick was indeed Native American under NAGPRA, and in September of
+that year, decided to turn over the remains to the five tribes, based on
+their oral traditions of ancient times and on the fact that Kennewick
+was found on their ancestral land.
+
+The plaintiffs scrambled to have the federal judge (John Jelderks) stay
+any transfer; he did just that, and then followed with an Opinion and
+Order (in August 2002) that accused the Corps of Engineers of violating
+federal law and judged the Department of the Interior in error for
+determining Kennewick belonged to the tribes. He granted the plaintiffs
+the right to study the remains. Appeals were quickly filed by both the
+federal government and the tribes. But two years later, the Ninth
+Circuit Court of Appeals upheld Jelderks's ruling and ordered the study
+to proceed (more on this in Chapter 10).
+
+It has, yet in the end the affair proves a nonstarter. Kennewick is no
+European. Rare, interesting, and important he may be, but like many of
+his skeletal brethren, all we can securely say is that he appears
+distinctive. However, that may only be because he is so rare and was a
+member of a once-larger population poorly represented in the fossil
+record. His apparently unusual cranium could be readily explained by
+evolutionary processes of isolation and genetic drift, migration,
+population splits, and recurrent episodes of gene flow. Such
+evolutionary processes, of course, fail to account for why he would bear
+an uncanny resemblance to a Starfleet Commander.
+
+The myth of Kennewick as the “Great White Hope” for Caucasians
+colonizing America has died, at least in scientific circles, and a
+well-deserved death it was, though news of the specimen can still
+command the cover of Time magazine (as it did in March 2006). Yet, the
+claim the Americas were colonized by Caucasians has not gone away.
+Instead, it has seeped into the only place such foolishness passes as
+fact: the poisonous corners of the Internet where white supremacists
+continue to claim Kennewick as one of their own, to promote the idea
+that members of the Aryan race—whatever that is—were the real
+discoverers of America.
+
+Another possibility: there was but a single migration (perhaps from a
+fairly heterogeneous source), and the morphological differences are a
+result of generations of isolation, mutation, and genetic drift, mixed
+in with recurring episodes of gene flow. The variation in the early
+crania of the Americas is not beyond what one might expect of
+evolutionary change over that span. Indeed, change and variation, as
+Roseman and Weaver said, would be especially pronounced during the early
+period of colonization when human populations were small and spread
+thinly across the vast continent. There is a strong likelihood
+colonizers dispersed and were geographically isolated from one another
+for long periods of time, and only later, as populations increased and
+isolation broke down, was gene flow reestablished: hence the differences
+between ancient and modern crania.¹¹²
+
+Underpinning Roseman and Weaver's argument is the principle that we must
+understand crania not in terms of differences between individual
+specimens, but as part of larger populations that extended and varied
+over space and time. Physical anthropology's in-house critic, Jonathan
+Marks, makes the point more broadly and bluntly: “Today the
+anthropological community en masse rejects as pseudoscientific the
+notion of race as a natural category, and as equally bogus the
+assignment of individuals to such transcendent categories on the basis
+of their skulls. What exist are features and populations; sometimes one
+can map them onto one another, and sometimes one cannot.”¹¹³
+
+How, then, might we track whether there was a single or multiple
+migration, or whether such were drawn from the same or different
+anatomical well(s)? Not from crania, or at least not without a much
+larger sample of the populations of interest. That's unlikely to happen
+(it's never wise to bet against something turning up in the ground, but
+your money's probably safe on this one).
+
+Geneticists are only too happy to jump into the fray, confident their
+data provide a far more reliable indication of population histories. If
+aDNA is obtained from ancient skeletal remains, it might reveal whether
+an individual harbored any of the modern hap-logroups among Native
+American populations. That would certainly establish continuity within
+that single locus marker. Yet, suppose it's not one of the haplogroups
+present in modern populations (think haplogroup M here). That may not
+say much either, since it need not represent a separate population (or
+migration), but instead just an mtDNA or NRY lineage that went extinct,
+or one that simply has yet to be detected among more recent American
+Indians. And, of course, autosomal DNA could well give a very different
+picture.
+
+Even so, osteologists aren't ceding any ground. Jantz and Owsley have,
+instead, announced we may be entering a period when cranial morphology
+will emerge “as more informative than genetic data in elucidating the
+history of our species.”¹¹⁴ Hooton couldn't have said it better himself.
+
+But it's not going to be an easy battle for them to win. Even some of
+their fellow travelers, like Gerrit van Vark, a onetime believer in
+using craniofacial morphology to determine ancestor-descendant
+relationships, are rethinking their views in light of genetic evidence
+(in this case, from Europe) that indicates continuity where on
+craniofacial grounds none was previously thought to exist.¹¹⁵ And it is
+sure to be an intensely personal battle, for if cranial morphology does
+not prove to be a useful indicator of population relationships and
+history, it would make much of their work questionable and, far worse,
+irrelevant.¹¹⁶
+

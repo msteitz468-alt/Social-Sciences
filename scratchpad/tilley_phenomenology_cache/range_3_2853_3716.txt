@@ -1,0 +1,864 @@
+Part II
+Prehistoric Landscapes
+Introduction
+Human Space and Prehistoric
+Landscapes
+
+It was something like that. I take it as axiomatic that relationships
+between peoples and landscapes in prehistory were just as inti-
+mate and affective as those discussed in Chapter 2. The problem
+is, of course, to specify exactly in what that something might con-
+sist. It is neither possible, nor desirable, to try to directly model
+the significance of prehistoric landscapes explicitly in terms of
+any of the contemporary examples. We can be sure the situation
+was different. An examination of the range of modern examples
+simply provides a conceptual background for attempting to think
+through the archaeological evidence encountered in the field.
+    In this and the next three chapters I want to consider evidence
+from the Mesolithic and Neolithic in south Wales and southern
+England, attempting to demonstrate both long-term continuities
+and changes in the relationships between populations and the
+land. The character of the material evidence to hand is, of course,
+hardly ideal. For the Mesolithic it consists almost entirely of sur-
+face flint scatters representing various temporary and seasonally
+occupied locales and task-specific sites. Using map grid refer-
+ences to find these sites, there is nothing to be seen on the ground,
+nothing to indicate that you have even arrived, except, in a few
+cases, the scars of recent excavations. For the Neolithic settlement
+evidence is virtually absent, and the primary evidence consists of
+different types of upstanding monuments in the landscape. Here,
+at least, you are certain that you have actually arrived and the
+walk is over.
+    I have chosen to study three areas in detail: Pembrokeshire,
+south-west Wales, the Black Mountains area of south-east Wales
+and Cranborne Chase in southern England (Fig. 3. 0). These have
+the advantage of possessing Mesolithic find material; and the
+Neolithic monuments found in each region - portal dolmens and
+
+                                                                  71
+72                                       A Phenomenology of Landscape
+
+
+
+
+Figure 3.0. Location of the study areas. 1: South-west Wales; 2: The Black
+Mountains; 3: Cranborne Chase.
+
+chambered monuments, chambered long cairns of 'Cotswold-
+Severn' type and earthen long barrows, respectively - each repre-
+sent the main forms found in southern Britain as a whole. The
+'natural' landscapes in which these sites and monuments are
+found contrast dramatically, from the rock-strewn south Wales
+coastal peninsula to the inland sandstone massif of the Black
+Mountains to the rolling chalk downland of Dorset. My consider-
+ation of the earlier Neolithic in Dorset extends to include two
+other principal classes of monuments found elsewhere in south-
+ern England, but unknown in Wales, the Cursus and a cause-
+wayed enclosure complex on Hambledon Hill. My initial
+intention was to consider the long barrows on Cranborne Chase
+separately; but, like Richard Bradley before me (in Barrett et al.
+1991b: 36), I found it quite impossible to discuss them without
+considering the Cursus. This may in itself be to say something of
+Part II: Human Space and Prehistoric Landscapes                 73
+
+
+interest about the power of that monument, even when, today, it is
+scarcely visible on the ground.
+   Although focusing on landscape the discussions also address
+the 'problem' of the Mesolithic-Neolithic 'transition', one of the
+black holes of British prehistory, a chronological drawer in the
+traditional archaeological filing cabinet that remains almost
+empty. Previous attempts to discuss the relationship between the
+final postglacial hunter-fisher-gatherer populations of the
+Mesolithic and the early Neolithic peoples who, in the received
+wisdom, began to cultivate and garden, clear the land and keep
+domesticates, have concentrated on the built environment. The
+classic example has come not from Britain, but Brittany, where
+much has been made of adduced structural and depositional sim-
+ilarities between the graves in the Mesolithic cemeteries at
+Hoedic and Teviec and early Neolithic long mounds (e.g.
+Renfrew 1973a: 158; Sherratt 1990; Kirk 1993). Since, in Britain,
+there is no architectural evidence, and very few Mesolithic buri-
+als apart from remains in caves, such a linkage has not been pos-
+sible to make in these formal terms. Here I attempt to trace
+instead process rather than product, the means by which the land
+became encultured and ultimately transformed into architectural
+form during the Neolithic, when there arises a need to capture
+and control what the landscape is about through the medium of
+architectural morphology.
+    From a very contemporary perspective, visiting sites in a
+modern landscape, it is, of course, extremely difficult to attempt
+to envisage, in the mind's eye, the prehistoric settings of locales.
+Everything would appear to have changed; at first glance the task
+seems hopeless. It is simply impossible to know exactly where
+the trees and bushes were in relation to sites and monuments,
+where the flowers bloomed and the rushes sighed in the wind.
+ Even the greatest refinements in techniques such as pollen and
+ molluscan analysis can provide only a relatively coarse assess-
+ ment of these matters, and, concentrating on statistics and counts
+ of oak and lime, arboreal and non-arboreal pollen, they tell us all
+ too little of what the forests and open areas actually looked like
+ and how the plants grew. The skin of the land has gone for good,
+ and can only be partially recovered through the most diligent of
+ scientific analyses; but not its shape. The bones of the land - the
+ mountains, hills, rocks and valleys, escarpments and ridges -
+ have remained substantially the same since the Mesolithic, and
+74                                    A Phenomenology of Landscape
+
+
+can still be observed. Only the coastline has been radically
+altered. It is the bones of the land and their relationship to sites
+and monuments with which these archaeological studies are
+principally concerned.
+   As a contemporary subject observer interested in interpreting
+the meanings of prehistoric landscapes I make no claims to an
+empathetic understanding of their significance, to some incredi-
+ble feat of being able to find and recover meaning in prehistoric
+minds. To think that is either illusion or to act like God. However,
+I believe that the experience of place is of fundamental signifi-
+cance in the attempt to provide an account. There is one, all too
+contemporary, experience of place with which most people will
+be familiar. Locate a monument or site on a map. Drive for hours
+in a car, and attempt to arrive as close as possible to the place.
+Walk a shorter or longer distance, if necessary, and you are there.
+In the case of all but a few well-preserved chambered monu-
+ments the result is inevitably disappointing: a few overgrown
+stones or a low mound covered with rank vegetation in summer
+is hardly inspiring. You acquire little sense of the feel and charac-
+ter of the land. A monument or place encountered in the course of
+a walk between places is an altogether different matter.
+Approaching it slowly, from different directions, and anticipat-
+ing arriving, it is possible to observe in a much more subtle man-
+ner the way in which it is related to its physical surroundings, the
+lie of the land. Even a site which you cannot see, such as a
+Mesolithic flint scatter, acquires in this way a greater significance
+and interest. Even the most dilapidated monument becomes
+worth visiting. To make the point in a slightly different way, all
+places are in landscapes, but landscapes constitute the place.
+Walk from one place to another or approach it from a different
+direction and everything will change. Things that loomed large in
+your visual field may become small, or look different. What was
+at the centre may now be on the periphery; what could be seen
+has now disappeared, and new horizons have come into view.
+    This perpetually shifting human visual experience of place
+and landscape encountered in the walk has not altered since the
+Mesolithic. Things in front of or behind you, within reach or
+without, things to the left and right of your body, above and
+below, these most basic of personal spatial experiences, are
+ shared with prehistoric populations in our common biological
+ humanity. They provide tools with which to think and to work.
+Part II: Human Space and Prehistoric Landscapes                75
+
+
+   Looking at the two-dimensional plane of the modern topo-
+graphic map with sites and monuments plotted on it, it is quite
+impossible to envisage the landscape in which these places are
+embedded. The representation fails, and cannot substitute for
+being there, being in place. Similarly, an unfamiliar landscape
+remains invisible. You do not know where, or how, to look. This
+process of observation requires time and a feeling for the place.
+After being there, after making many visits to the same locales,
+the intensity of the experience heightens. Monuments that were
+initially hidden from view on a first visit to a place can now be
+seen, and patterned relationships between sites and their settings
+become apparent.
+Chapter 3
+An Affinity with the Coast: Places and
+Monuments in South-west Wales
+
+
+Introduction
+
+The geology of south-west Wales is particularly complex, consist-
+ing of a series of sedimentary and igneous rock formations of
+Pre-Cambrian to Carboniferous age. The landscape has been
+greatly eroded to create a series of relatively flat surfaces at
+approximately 60 m. intervals above sea level. Only small areas
+of the land surface are 200 m. or more above sea level. Despite the
+fact that this is a relatively low-lying area the coasts and some
+inland areas display some quite dramatic variations in relief. The
+greater part of north Pembrokeshire is made up of Ordovician
+rocks, sandstones, grits and shales broken up by igneous intru-
+sions. These igneous rocks are exposed in narrow strips, and
+commonly form the numerous headlands along the north-west
+coast where sheltered bays and inlets have been cut into the
+softer shales. Inland they form impressive weathered rock out-
+crops and ridges. Inland in the south of Pembrokeshire the land-
+scape is gentler and more undulating being made up
+predominantly of Devonian Old Red Sandstone and
+Carboniferous limestone formations, locally eroded to create low
+crags and rock outcrops. Along the coast great walls of impres-
+sive precipitous cliffs are broken up to form sweeping bays and
+dramatic headlands.
+   The coastline of south-west Wales has long generated consid-
+erable interest because of the presence of submerged early post-
+glacial landscapes, exposed within the intertidal zone at very low
+tides or when storms have eroded away more recent marine
+sediments. These are made up of peat deposits with fallen tree-
+trunks and stumps.
+
+76
+Affinity with the Coast: Places and Monuments, SW Wales            77
+
+
+Locales in the Earlier and Later Mesolithic
+In south-west Wales the Mesolithic evidence almost entirely con-
+sists of flint scatters, with a paucity of faunal collections associat-
+ed with human activities. The surface flint findspots are
+remarkably prolific, and have been documented and discussed
+by a number of authors (Cantrill 1915; Gordon-Williams 1926;
+Grimes 1932; Leach 1913; 1918; 1933; Wainwright 1963; Jacobi
+1980; David 1990). They are almost solely confined to the coast for
+both earlier and later Mesolithic assemblages. Earlier Mesolithic
+flint scatters are concentrated along the south coast of Pembroke,
+extending from Caldey island in the south-east to St David's
+Head in the north-west. Later Mesolithic sites occur in the same
+area, and also extend along the north coast as far east as Newport
+(Fig. 3.1). These assemblages vary in size from small, highly local-
+ized surface scatters, representing temporary occupations and
+resting-places, to quite massive concentrations of microliths,
+chipped flint, pebble tools, cores and lithic debris, suggesting fre-
+quently visted locales. This material is locally derived from beach
+shingles, and does not naturally occur on the cliff-tops bordering
+the beaches where the majority of the sites are located.
+    The dense concentration of the Mesolithic sites along the
+southern coast of Pembrokeshire indicates that it was an area that
+was extensively exploited throughout the Mesolithic. On the
+basis of a survey of 20 sites along the Pembrokeshire coasts from
+which there have been substantial lithic collections, as opposed to
+isolated finds of one or a few artefacts, five broad types of locale
+may be distinguished:
+    (i) Cave and rock shelters in the faces of limestone cliffs. Four
+of these are documented with Mesolithic material, three of which
+are on Caldey island.
+    (ii) Places on flat or undulating rather exposed ground high
+up, situated directly on the margins of the cliff-tops and head-
+lands, with extensive views along the coasts and across the sea,
+but with restricted visibility inland. The classic case of such a
+location is Nab Head, where the site is located on the heavily
+eroding neck of the headland, with precipitous cliffs to the north,
+west and east. Inland, to the south, the land rises up, and visibili-
+ty is reduced to a few hundred metres. From the site there are
+extensive views across the sea to locales where other Mesolithic
+sites are found, to the south and east extending as far as Skomer
+island and to the north and west to Ramsey island (Fig. 3.2).
+78                                     A Phenomenology of Landscape
+
+
+
+
+Figure 3.1. The distribution of earlier and later Mesolithic locales in
+south-west Wales. Places mentioned in the text:
+1. Caldey Island                    7. Freshwater West
+2. Nab Head                         8. Whitesands Bay
+3. Manorbier Bay                    9. Newport
+4. Swanlake Bay                    10. Frainslake
+5. Cwm Bach                        11. Freshwater East.
+6. Llanunwas
+Affinity with the Coast: Places and Monuments, SW Wales   79
+80                                     A Phenomenology of Landscape
+
+
+    (iii) Places somewhat withdrawn from the cliff edges, and usu-
+ally close to springs and streams. The land in most cases rises up
+gently away from the cliffs, so that visibility inland is restricted to
+a few hundred metres. From these sites there are more limited
+views along the coasts, as far as the headlands permit, and visi-
+bility across the open sea is restricted. Sites at Manorbier and
+Swanlake bays, Cwm Bach and Llanunwas are typical of this
+choice of location.
+    (iv) Places at short distances from the bases of the cliffs now
+exposed at low tide, as at Freshwater East (Leach 1913) and
+Whitesands Bay, sometimes found in association with sub-
+merged forests (Fig. 3.3).
+    (v) Places on flat land or sand-dune areas in river estuary loca-
+tions or localized marshy areas created by streams. Sites at
+Newport, Frainslake and Freshwater West (Wainwright 1959) are
+representative of such locations.
+    During the earlier Mesolithic sea levels would have been much
+lower than today, and locales now situated on cliff-tops would
+have been, at the time of occupation, inland sites situated on the
+tops of rock outcrops and steep hills overlooking an extensive
+forested coastal plain. Caldey island, with its caves and rock shel-
+ters, would have been linked to the present-day mainland. The
+cliffs of south Pembrokeshire (Fig. 3.4) would have been the first
+steep hills and crags encountered inland from the sea, visually
+dominating a belt of marshy coastal plain broken up topographi-
+cally by outcrops which now form offshore islands and rocks.
+The cliffs seen today have been, of course, considerably steep-
+ened by marine erosion. Sea levels rose throughout the
+Mesolithic, crossing modern coastlines and flooding the coastal
+and estuarine sites located below the cliffs at around 4700 BC. By
+the early Neolithic the isostatic recovery of the land was greater
+than eustatic sea level rise, and the relationship between land and
+sea stabilized (Taylor 1980:117-19).
+     Exploitation territories of the later Mesolithic sites would have
+included tidal strips more substantial than today, inland terrain,
+extensive marsh areas in some cases, and large areas of open sea,
+pointing to the significance of marine resources such as fish and
+seal. Evidence of faunal exploitation is limited to the eroding
+foreshore peats of Atlantic age exposed by sea erosion around the
+coasts of Pembrokeshire and mixed cave deposits, indicating
+ exploitation of Bos, pig, and red and roe deer (Jacobi 1980:179-83;
+Affinity with the Coast: Places and Monuments, SW Wales   81
+82   A Phenomenology of Landscape
+Affinity with the Coast: Places and Monuments, SW Wales           83
+
+
+Caseldine 1990: 40; Lewis 1990). Mollusc exploitation seems to
+have been limited, although one midden site from Nanna's cave
+on Caldey island has been claimed (Lacaille and Grimes 1955).
+   The main regional woodland reflected in pollen diagrams
+from south-west Wales appears to have been dominated by oak,
+hazel and alder, with some local pine woodland and alder carr
+and sedge fen plant communities developing in valley bottoms
+and low-lying coastal sites (Caseldine 1990; Lewis 1990). At
+Marros and Abermawr Lewis (1990) attributes increases in hazel
+counts in pollen diagrams to an opening out of woodlands dur-
+ing the middle Neolithic and the late Mesolithic to early Neolithic
+respectively. Clearance of the woodland on a large scale, princi-
+pally by burning, and the creation of a more open 'pastoral' land-
+scape does not seem to have occurred until the middle or later
+Neolithic onwards. During the earlier Neolithic, when the major-
+ity of the chambered monuments were built and used, clearances
+of the forest were of limited extent (Caseldine 1990; Lewis 1990).
+    Some writers on the Mesolithic of south-west Wales have
+stressed the great attractiveness of coastal areas as opposed to
+inland and upland areas with regard to both possibilities for
+resource exploitation and the availability of raw materials
+(Wainwright 1963: 126; ApSimon 1976: 41), while others have
+pointed to a correlation between the distribution of Mesolithic
+sites and areas of more frost-free days (Webley 1976: 20-1; Jacobi
+1980: 179; David 1990: 251). Important as factors of climate or
+resource availability may be, the choice of locales on, or beneath,
+or between, inland (in the earlier Mesolithic) or coastal (during the
+late Mesolithic) landmarks - precipitous ridges and rock out-
+crops that must have been dominant in the local environment -
+seems highly significant. These, no doubt named, natural topo-
+graphic features would have been invested with sets of local
+meanings and would have had the effect of pinpointing the posi-
+tions of camp sites and their inhabitants to populations moving
+around in the coastal flatlands or waters and marsh areas sur-
+rounding them. The lack of later Mesolithic inland sites may be
+partially attributable to a lack of intensive survey work, and sites
+ on the higher ground of the Preseli mountains and elsewhere
+might well be expected; but the evidence that these populations
+ had a special affinity with particular (now coastal) locales and
+ areas is overwhelming. The entire area along the coast was exten-
+ sively exploited. There is, on average, a findspot every four or
+84                                   A Phenomenology of Landscape
+
+
+five hundred metres along some stretches, notably between
+Angle Bay and Linney Head, south of Milford Haven (Fig. 3.5)
+and between Porthlyski bay and Newgale sands, with many
+more yet to be discovered.
+   Some locales, such as Nab Head (Jacobi 1980; David 1990) and
+rock shelters on the island of Caldey (Lacaille and Grimes 1955),
+have clear indications of successive occupation of precisely the
+same locality from the earlier to the later Mesolithic, despite the
+fact that local environmental conditions and, consequently, avail-
+ability of exploitable resources must have changed drastically
+throughout the Mesolithic. Clearly deciding to stop at a particu-
+lar place was much more than simply a matter of food acquisi-
+tion. At Nab Head a series of earlier and later Mesolithic
+industries have been documented from both surface finds and
+excavations (Gordon-Williams 1926; David 1990). The location of
+this site on the neck of a headland, whether we see it today, sur-
+rounded by the sea (Fig. 3.2), or envisage it jutting out into a
+wooded coastal plain, as in the early Mesolithic, is quite striking.
+The stone-tool industry is particularly extensive. From recent
+excavations at Nab Head II, dominated by later Mesolithic
+microliths, over 23,000 pieces of flaked flint and stone were
+recovered. The assemblage is dominated by backed bladelets, but
+also includes two pecked and groundstone axes of probable late
+Mesolithic date (David 1990: 248). Apart from the flint material
+recovered at Nab Head I a shale 'Venus' figurine was found, and
+a large quantity (690) of perforated shale beads are recorded both
+from surface finds and excavation (David 1990: 245). This was
+clearly a major manufacturing site for these beads. Single finds of
+shale beads are known from three other sites in Pembrokeshire,
+and as far away as Waun-Fingen-Felen in the Black Mountains,
+suggesting either their inclusion in exchange systems between
+Mesolithic communities or extensive population movements in a
+seasonal round. It is likely, as David remarks, that a cemetery
+may once have existed at Nab Head, although there is no trace of
+it now, and bones are not preserved in the acid soils. The pres-
+ence of the beads and figurine at Nab Head, its repeated occu-
+pancy through thousands of years, and the dramatic location of
+the site provide us with a tantalizing glimpse of the symbolic
+dimensions of social Being-in-the-landscape during the
+Mesolithic, the constitution of biographies in relation to place. As
+ Bradley notes, this period has too frequently been characterized
+Affinity with the Coast: Places and Monuments, SW Wales   85
+86                                       A Phenomenology of Landscape
+
+
+in the archaeological literature as one in which people simply had
+ecological relations with hazelnuts, as opposed to social relations
+with one another (Bradley 1984:11).
+   Proximity to marked changes in relief and jagged rock out-
+crops was clearly of great symbolic significance during the
+Mesolithic in Pembrokeshire, irrespective of the relative positions
+of land and sea during the earlier and later Mesolithic. Here it
+might be pertinent to note Chase's comments about coastal
+Aboriginal populations in Cape York peninsula, northern
+Australia:
+
+     Present-day beach people display a high degree of precision in delin-
+     eating estate boundaries along the beachline and major rivers.
+     Clumps of causarine trees, a rock formation, an intrusive finger of
+     dune scrub or a small watercourse provide exact boundary delin-
+     eation. Further inland, away from the intensive beach domus zone,
+     boundaries are less precise and are conceived in terms of sites or
+     unnamed environmental features (Chase 1984: 112).
+
+I want to suggest that it was precisely because the coast provided
+both rich economic resources and a wealth of named and distinc-
+tive natural topographic markers that it was so symbolically
+important to both Mesolithic and Neolithic populations. During
+the Mesolithic it seems highly likely that settlement locales repre-
+sent places on paths of movement, bound into the lie of the land
+at marked changes of relief with a cosmological significance,
+which were ordered sequentially in relation to each other.
+
+
+The Mesolithic-Neolithic 'Transition'
+It is becoming increasingly clear that the terms 'Mesolithic' and
+'Neolithic' as a means of characterizing different economies and
+social relations of production have outlived their usefulness in
+archaeological discourse. The apparent hiatus between the final
+Mesolithic and the early Neolithic is a product of these very
+terms. All kinds of 'transitions' now seem required to provide
+mediations between them (see for example Zvelebil 1986), from
+supposedly highly mobile 'simple' hunter-gatherers to 'complex'
+settled farmers. It is now generally accepted that Mesolithic com-
+munities in Britain and Europe were in no sense less 'complex'
+than those in the Neolithic, and the range of variation between
+Affinity with the Coast: Places and Monuments, SW Wales             87
+
+social groups - economic, social and ritual - was equally great
+(Price and Brown 1985; Gamble 1986). There is no necessary rea-
+son to link the building of monuments with the production of an
+agricultural surplus. And, indeed, it is important to remember
+that not all surpluses are agricultural. A pastoral surplus which
+does not require being 'settled' is perfectly possible, and some of
+the 'classic' surplus societies are, of course, the hunter-fisher-
+gatherers of the American North-West Coast. From the archaeo-
+logical evidence there is little to suggest that anything like a fully-
+fledged mixed farming economy existed in the earlier Neolithic
+of Britain (Kinnes 1988; Thomas 1991: Chapter 2). Thomas has
+cogently argued that wild food resources contributed a substan-
+tial proportion of food supplies, and that a seasonal cycle of
+movement lay at the heart of social and subsistence arrangements
+(1991: 28). I explore the question of an economic 'transition' more
+fully in Chapter 6.
+
+
+Monument Construction and the Significance of Place
+
+The coastal location of the Mesolithic sites is repeated in the over-
+all distribution of the chambered monuments of south-west
+Wales, which in the general absence of domestic sites are the
+primary evidence for the Neolithic in the area as elsewhere in
+Britain. The overall distribution of Mesolithic sites and Neolithic
+burial chambers is complementary rather than exclusive. Many of
+the monuments are situated in exactly the same general areas that
+must have been habitually exploited during the Mesolithic (Fig.
+3. 6). An inspection of the distribution map of Neolithic artefact
+finds from non-funerary contexts in Wales also reveals that they
+are particularly densely concentrated in those regions with
+Mesolithic findspots in Pembrokeshire (Savory 1980). Some
+specific site locales, such as the Caldey rock shelters, were
+utilized during both the Mesolithic and the Neolithic (Lacaille
+and Grimes 1955). Mesolithic locales and artefact findspots also
+occur in very close proximity to some of the individual cham-
+bered monuments, for example those at St David's, Manorbier,
+Angle, Newport (Carreg Coetan Arthur) and Longhouse (Carreg
+Samson).
+   The only Neolithic settlement site known is Clegyr Boia
+(Fig. 3.7). It may well have been a walled settlement, with
+88                                    A Phenomenology of Landscape
+
+
+
+
+Figure 3.6. The distribution of Neolithic monuments in south-west
+Wales
+1. Pentre Ifan                        14. Tresewig
+2. Bedd yr Afanc                      15. Coetan Arthur (St Davids)
+3. Llech y Dribedd                    16. Carn Llidi
+4. Trellyffaint                       17. St Elvies
+5. Carreg Coetan Arthur               18. Hanging Stone
+6. Cerrig y Gof                       19. Devil's Quoit
+7. Carn Wen                           20. Colston
+8. Penrhiw                            21. GarnTurne
+9. Garnwnda                           22. Parc y Llyn
+10. Garn Gilfach                      23. King's Quoit
+11. Ffyst Samson                      24. Morfa Bychan
+12. Carreg Samson/Longhouse           25. Gwal y Filiast
+13. Treffynnon                        26. Mountain.
+Monuments 1-6: Nevern group. C.I. : Cam Ingli peak; C.B. : Clegyr Boia
+settlement site.
+Affinity with the Coast: Places and Monuments, SW Wales   89
+90                                   A Phenomenology of Landscape
+
+
+ramparts encircling an area in which remains of two or three
+Neolithic huts, three hearths and a small midden were recovered
+(A. Williams 1953: 24 ff.). The excavator thought that the rampart
+was of Iron Age date because it overlay one of the Neolithic
+house areas; but the evidence could equally well suggest that
+there are multiple Neolithic phases present, in which case the site
+is quite comparable with enclosures from south-west England
+like Carn Brea and Helman Tor (Mercer 1981). The only identified
+faunal remains were of cattle. The presence of the midden with
+limpet shells indicates the continued importance of marine
+resources in the Neolithic. Importantly, the site is located on the
+summit of a rock outcrop, 1 km. from the coast, and commanding
+panoramic views in all directions. It is located less than 3 km.
+from the nearest burial chambers, situated on the coast to the
+north of St David's Head and beneath the prominent rock out-
+crop of Carn Llidi. The positions of these monuments are marked
+by the rock outcrops below which they are situated. The rock out-
+crops are prominent from the vantage point of Clegyr Boia,
+although it is impossible to see the burial chambers themselves
+(Fig. 3. 8). The major change occurring during the earlier Neolithic
+would appear not to be of an 'economic' character - there is
+virtually no evidence that plant or animal domesticates played
+any prominent role in south-west Wales - but was primarily
+ideological in nature; and a fundamental part of this changing
+ideology involved a different relationship between groups and
+the landscape.
+    The architectural morphology of the monuments is particular-
+ly diverse. This, taken together with the generally poor state of
+preservation of both the chambers and surrounding cairns and
+mounds, has defied attempts at classification. They do not fit into
+any neatly recognizable groups. Rather than considering this as a
+ 'problem' (cf. Grimes 1936a; Lynch 1975), I want to take the line
+that this is perhaps one of their most characteristic and important
+features. There are no two identical sites - difference is being
+asserted. It is important that the monuments make a contrasting
+visual impact. Claims have been made for a significant presence
+of 'classic' portal dolmens (Lynch 1972, 1975). Such monuments
+are characterized by the provision of a rectangular chamber with
+ a false high portal entrance fronted by two portal stones with a
+high blocking slab at right-angles to them. The capstone slopes
+ down to the rear of the chamber, where it is supported by a lower
+Affinity with the Coast: Places and Monuments, SW Wales   91
+92                                    A Phenomenology of Landscape
+
+
+upright. As Barker points out (1992: 73-6), only one site, Pentre
+Ifan, can be claimed to match such a description. Others possess
+sloping capstones, but without convincing evidence of a portal
+construction. No passage graves with a lengthy entrance passage
+have been documented. Four monuments do, however, appear to
+have been provided with very short passages leading to the
+chamber space (Grimes 1936a: 130-1; Lynch 1976: 75).
+   This study is based on a survey of 26 separate locations on
+which one or more burial chambers have been recorded (Fig. 3.6).
+The total number of monuments is 31, this being a complete sam-
+ple of all securely documented chambered monuments in
+Pembrokeshire and the western fringe of Carmarthenshire. All
+the certain sites identified by Barker in his recent catalogue (1992)
+are included, and two other monuments, Morfa Bychan C and
+Treswig, considered by him to be 'probable' sites only. These
+monuments are all relatively small in size and simple in construc-
+tion, with the exception of the two largest and most impressive
+sites, Pentre Ifan and Garn Turne, which possess elaborate
+entrance facades (Grimes 1936a: 123, 1948). Two unique and
+unusual sites, Cerrig y Gof and Bedd yr Afanc (Grimes 1939a;
+Lynch 1972: 81-2), the former with five rectangular cists arranged
+in a circle in a cairn and the latter a 9 m.-long wedge-shaped
+gallery construction, are probably late Neolithic in date.
+Maximum chamber length varies between 1.7 and 4 m. The
+chambers are usually rectangular or polygonal in form. The cap-
+stone, where it survives, is undoubtedly the most visually
+impressive architectural component of these monuments, and in
+all cases was almost certainly not originally covered by mound or
+cairn material. All the monuments with the exception of two or
+three sites originally possessed only one capstone covering the
+chamber, and capstone length provides a fairly reliable guide to
+relative monument size. At least seven of the monuments origi-
+nally possessed two small chambers. These were originally set in
+mounds or cairns; but for most sites their ruinous state makes the
+original shape and size impossible to determine by field survey
+alone. In three cases there is evidence for the construction of a
+rectangular cairn; and in a further nine cases the cairn appears to
+have been originally circular or oval in form. Two cemeteries at
+Carn Wen and Morfa Bychan, consisting respectively of three
+and four monuments separated by distances of 70 m. or less, are
+known. The other monuments are situated at distances ranging
+Affinity with the Coast: Places and Monuments, SW Wales            93
+
+
+between 0.6 and 18 km. from their nearest neighbours (mean:
+4.1 km.); but the majority of them are located within a few kilo-
+metres of each other.
+   While the architectural morphology of the monuments seems
+to involve a stress on difference, their location in relation to topo-
+graphic features of the landscape is highly structured and repeti-
+tive. The relationship to the coastline, especially in relation to
+bays, inlets and peninsulas, of many of the monuments is obvi-
+ous, and must have been as important a factor in monument
+placement as it was for settlements during the Mesolithic. The
+mean distance from the nearest coastline is only 3.6 km., and 14 of
+them are situated within 1 km. of the sea, three of which, includ-
+ing the cemeteries at Carn Wen and Morfa Bychan, occur direct-
+ly in cliff-top locations recalling the exact positions of many
+Mesolithic locales.
+    But this relationship to the coast is more complex than a casual
+glance at the distribution map might imply. Only eight of the
+monument locations were chosen so that standing by the monu-
+ment it is possible to overlook the sea directly. From 14 sites (54
+per cent) the nearest coastline to the monument is visible at vari-
+ous distances away; but there are some striking anomalies. Four
+monuments are located in such a position that a distant rather
+than the nearest section of coastline is visible. In the case of the
+monument at St Elvies, it is located only 300 m. from the nearest
+coast, yet the sea is completely invisible. Such sites might be
+described as being coastal, but with an inland visual field. This
+placement of some of the monuments so that they are hidden
+from the coastline nearest to them suggests that landscape fea-
+tures other than the coast itself began to play an increasingly
+important role for monument location during the Neolithic.
+    One possibility is that the monuments might be located so as
+to be intervisible with each other, rather than with features of the
+natural landscape; but, despite the closeness of the location of
+ many of the monuments, intervisibility between them is restricted
+ to a few sites in the northern area of their distribution. Only two
+ of the monuments are sited on the highest points in their imme-
+ diate vicinity, with extensive views in all cardinal directions. All
+ the others have restricted visibility in one or two directions, with
+ the land rising up immediately beyond the monument, which
+ may be sited on the midpoint of a slope, at the bottom of a slope,
+ or on a relatively high point, with rock outcrops or the land
+94                                   A Phenomenology of Landscape
+
+
+surface rising above it. The monuments, then, were clearly not
+sited for maximum visibility in the landscape. They were only
+meant to be seen, or approached, from certain directions.
+    One notable feature of the peninsulas of south-west Wales is
+the presence not only of dramatic cliffs but of inland outcrops of
+igneous and other rocks. Fourteen of the site locations (54 per
+cent) were chosen in a close or direct relationship to these. A fur-
+ther four sites in the Nevern valley, I will argue, are intimately
+related to one of the highest and most dramatic craggy outcrops
+of the Preseli mountains, Carn Ingli, providing a central symbolic
+focal point for this group of monuments.
+    Just to the west of Fishguard harbour a north-south row of
+three stone chambers is located on a high point with originally
+(the view is now blocked by houses) sweeping vistas over to the
+east, with Carn Ingli visible in the distance. Immediately to the
+west of the chambers a rock outcrop juts out and rises above
+them. These chambers are much ruined; but the capstones and
+their long axes seem to be orientated so that they face west-east,
+i.e. towards the harbour below and the rock outcrop above them.
+This location is duplicated in the only other case in south-west
+Wales where a row of burial chambers occurs - Morfa Bychan on
+the south coast. Here there is a north-south row of four burial
+chambers set high up on a sloping headland next to a long, low
+and linear rock outcrop blocking all views to the west, and over-
+looking a small bay to the east (Fig. 3. 9). The chambers here are
+surrounded by oval or circular cairn structures. These four mon-
+uments are situated on a slope rising from south to north, below
+the outcrop to the west. As one moves up the slope from south to
+north, the chambers get progressively closer to the outcrop itself,
+ so that the northern chamber is actually built up against it. This
+monument has an entrance which faces east towards the bay
+below. In entering the monument from the east one would be
+ approaching and 'entering' the rock outcrop behind it to the
+west. Moving up the slope from south to north, the third monu-
+ ment is situated directly below a natural stack of rock eroded
+ from the main escarpment, known as the 'Druid's Altar' (Figs.
+ 3.10 and 3.11). This sequence of monuments, progressively situat-
+ ed so as to be closer and closer to the rocks beyond in the course
+ of upward movement, must have been one which was integrated
+ and 'made sense of through persons moving closer to the rock as
+ they moved from monument to monument. Such a sequence
+Affinity with the Coast: Places and Monuments, SW Wales   95
+96                                     A Phenomenology of Landscape
+
+
+
+                                                  North
+
+
+
+
+                                       Druid's Altar
+
+
+
+
+                                       Steep slope to bay
+
+             Rock outcrop
+
+
+
+
+Figure 3.10. Plan of the Morfa Bychan cemetery.
+
+would act so as to connect the monuments systematically to the land
+as they became increasingly integrated with the parent rock itself.
+   Built of the same rock as the outcrop itself, and linearly aligned
+so as to run parallel to it, these monuments are completely invisi-
+ble from only a short distance away. The rock outcrop itself is
+clearly visible from Gilman point on the other side of the bay to
+the east at a distance of 500 m., but not the monuments them-
+selves. The rock outcrops thus simultaneously make the monu-
+ments visible and invisible. The natural rocks, such prominent
+features of the landscape, help to locate the monuments in space;
+but the monuments themselves cannot be seen.
+   Such a situation of monument visibility and invisibility in rela-
+tion to rock outcrops is duplicated elsewhere in relation to both
+coastal and inland monument sites. Two types of rock outcrops
+were chosen by which to site monuments: (i) 'linear' and (ii) 'cir-
+cular'. In the first case the monuments, as at Fishguard and Morfa
+Bychan, are built alongside and against the outcrop, so that the
+monument entrances in some cases resemble caves in the rock
+outcrop itself (Fig. 3.12), recalling the caves and rock shelters
+Affinity with the Coast: Places and Monuments, SW Wales   97
+98   A Phenomenology of Landscape
+Affinity with the Coast: Places and Monuments, SW Wales           99
+
+
+occupied during the Mesolithic on Caldey island. These rock
+outcrops may be in any cardinal direction in relation to the mon-
+ument, which can be situated to the west, east, south or north of
+them; and in one case on St David's Head the burial chamber is
+located between two low outcrops. In the second case the monu-
+ments are constructed at a short distance of no more than a few
+hundred metres away from a nearby circular outcrop to the west,
+east or north (Fig. 3.13). Those monuments situated next to the
+circular outcrops are usually at a greater distance from the coast.
+    These rock outcrops are clearly dominant focal points in the
+landscape in a way in which the monuments themselves are not
+(Fig. 3.14). I have already pointed out that intervisibility is very
+restricted, even for monuments located at short distances apart.
+Those located in or near the outcrops are completely invisible
+until one is next to them. By contrast, the outcrops by which they
+are located dominate vistas for considerable distances. They are
+far more visually impressive than the monuments themselves. I
+will refer to such rock outcrops as natural, non-cultural, or non-
+domesticated 'megaliths'. The outcrops key the monuments into
+the landscape, drawing attention to their location and making
+them special places. At a distance the outcrops indicate where to
+look for or expect to find a monument. They both mark out mon-
+ument locations and hide them from the eye. They are all in
+places up to which one has to climb from surrounding lower
+areas, suggesting their ritual liminality and removal from day-to-
+day existence (Fig. 3.15).
+    These rock outcrops would have served as important land-
+marks and orientation points, as they do today. Paths of move-
+ment might be expected to run between them and the
+monuments placed by or near to them (Fig. 3.16). For example,
+the monument at Longhouse, Carreg Samson (Fig. 3.17), is locat-
+ ed roughly equidistant between two low circular rock outcrops,
+with which it is intervisible, one 300 m. to the east and the other
+ to the west, with the coast a short distance away to the north. It is
+ not hard to suggest that these linearly related natural and cultur-
+ al locales served to act together as symbolically important places
+ on a path of movement along the coast.
+    None of the Nevern group of monuments (Fig. 3. 6) in the east
+ of the study area are immediately next to or built into rock out-
+ crops, although the largest and most visually impressive of them,
+ Pentre Ifan, is situated about 700 m. to the north-west of an
+A Phenomenology of Landscape
+Affinity with the Coast: Places and Monuments, SW Wales   101
+102   A Phenomenology of Landscape
+Affinity with the Coast: Places and Monuments, SW Wales   103
+104   A Phenomenology of Landscape
+Affinity with the Coast: Places and Monuments, SW Wales           105
+
+unusual row of four prominent circular outcrops (Fig. 3.18). It is
+interesting to note that, while none of the Nevern monuments are
+intervisible, they are all deliberately sited so as to command vis-
+tas of the landscape feature that completely dominates the visual
+field in this area, the high crag of Carn Ingli. The specific choice to
+locate some of these structures only a few hundred metres away
+from their present positions would make this impossible. The
+largest and most impressive monument in the group, Pentre Ifan,
+is located directly below Carn Ingli, which is 3.5 km. to the west.
+There are indications that the original entrance to the burial
+chamber at Pentre Ifan was on the eastern side (Barker 1992: 24),
+in which case one's vistas would be completely dominated by
+Carn Ingli while approaching and before entering the monument
+chamber. The rock outcrop of Carn Ingli dips roughly along a
+south to north axis, with the higher end at the south. The dip of
+the capstone of Pentre Ifan is also south to north, and the ritually
+important forecourt area is at the higher end. The long axis of the
+cairn which originally surrounded the chamber (probably built
+later) also runs from south to north (Fig. 3.19). Here important
+architectural features of the monument appear to duplicate the
+incline of the mountain outcrop. From the two northernmost
+monuments in the group, Llech y Dribedd (Fig. 3.20) and
+Trellyffaint, there are sweeping views across the Nevern valley to
+Carn Ingli; but the closest coastline immediately to the north of
+these monuments, only just over 1 km. to the north, is invisible.
+Only glimpses of sea, the Fishguard bay area to the west, are vis-
+ible in the distance. Neither monument is visible from the other.
+The location of these two monuments seems to have been delib-
+erately chosen with reference to Carn Ingli rather than to the
+coast, which is only about 1 km. to their north. The relationship of
+ the monuments to Carn Ingli in the Nevern valley seems to be a
+ generalized one, in so far as they are obviously preferentially
+ sited in such a manner that it should be visible from them; and
+ this contrasts with those other cases where monuments are very
+ close to or actually built up against a prominent rock outcrop.
+    There are only a few monuments whose placement cannot be
+ accounted for in relation to coastal cliffs, crags or rock outcrops;
+ and in these cases the symbolic geography influencing location
+ seems to be highly individualized. Location on natural paths and
+ trackways through the landscape appears to be an important fac-
+ tor here, as might be expected. For example, the monument at
+106   A Phenomenology of Landscape
+Affinity with the Coast: Places and Monuments, SW Wales   107
+108   A Phenomenology of Landscape
+Affinity with the Coast: Places and Monuments, SW Wales         109
+
+Mountain is on a saddle of a pass through the Preseli mountains.
+Gwal y Filiast (Fig. 3.21) is located on a forested slope falling
+steeply down to the river Taf. Isolated from other monuments
+and the furthest from the coast (17 km. away), it is situated
+towards the top of the steep slope running down to the river. The
+large capstone dips from west to east down towards the river,
+and the chamber entrance also faces east down the slope. Why
+this location on the river course rather than any other? Standing
+at the site, the roar of the water below may be heard. Just at the
+point where the monument is located the river descends with
+white water down a series of rapids. Upstream and downstream
+the water is calm. I want to suggest that the monument is located
+precisely here because of the presence of the rapids below. It is
+interesting to note in this connection the importance of rapids in
+rivers in many systems of mythological thought as constituting
+doors or openings to the underworld.
+
+Conclusion
+The finds from excavations of the megaliths of south-west Wales
+are meagre, even from recent and well-excavated examples
+(Grimes 1948; Lynch 1975; Barker 1992: 19-21). The acid soils
+have destroyed all but the remains of cremated human bones,
+which have been recovered from the chambers of four monu-
+ments. The only other finds are a few flint flakes and sherds of
+between one to three early to middle Neolithic vessels. This does
+not exactly suggest that the monuments were major foci for arte-
+fact deposition. The generally small size of the monument cham-
+bers indicates that these were very possibly places for the
+deposition of a few dedicatory ancestral remains, and were not
+used for successive interment. Their primary purpose, in fact,
+seems to have been neither for burial nor deposition. It is difficult
+to make out a case that they acted as central territorial markers.
+There is no evidence to suggest that they were marking the cen-
+tres of areas of land with a high arable component. They rather
+seem to have acted primarily as symbolic reference and ritually
+important ceremonial meeting-points on paths of movement,
+drawing attention to the relationship between local groups and
+the landscape - itself already a constructed symbolic form of
+named places, pathways and significant locales from the
+Mesolithic onwards. I argue in Chapter 6 that the nature of this
+relationship with the landscape was essentially transformative.
+110   A   Phenomenology   of   Landscape

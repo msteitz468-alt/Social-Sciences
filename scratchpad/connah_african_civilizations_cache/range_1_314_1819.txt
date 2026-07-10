@@ -1,0 +1,1506 @@
+Chapter 1
+The context
+
+
+Africa is huge; it is so big that you can put the United States and Australia into
+it and still have a bit left over. It extends from about 37 north to about 35
+south and has an altitudinal range from depressions that are below sea level
+to mountain peaks that exceed 5,000 metres. As a result it has an incredible
+diversity of environments. It contains some of the driest deserts in the world,
+and yet has three of the world’s major rivers: the Nile, the Niger, and the
+Congo. Some of the hottest places on earth are in Africa, and yet there
+are glaciers on its highest mountains. There are steaming rainforests and
+dry savanna grasslands, low-lying river valleys and high plateaux, extensive
+deserts and gigantic lakes, mangrove coasts and surf-pounded beaches. This
+is only an impressionistic picture of the very large number of differing environ-
+ments in the African continent. In reality the major zones merge into one
+another, resulting in an even greater variety of conditions that have been
+further complicated by climatic variation through time.
+   For at least 2 million years, human beings have been learning how to get the
+best out of the kaleidoscope of African environments. Those environments
+have not determined what men and women could do, nor could the latter
+ignore the environments in which they have lived. Instead there has been a
+dynamic relationship between the two, in which people have sought to turn
+to their advantage the opportunities offered by each environment and to come
+to terms with its constraints. First as hunters, gatherers, and ﬁshers who
+gradually intensiﬁed their exploitation of available resources, then as pastor-
+alists and cultivators, and eventually as city-dwellers, artisans, and traders,
+men and women have continued to interact with their environment, retaining a
+remarkable variety of strategies for doing so.
+   Archaeology is a major source of information about Africa’s past.
+Documentary sources for African history are limited: their coverage often
+chronologically patchy and geographically fragmented. For large areas of
+Africa, particularly tropical Africa, their time depth is restricted to the last
+century or two. A uniform divide between prehistory and history does not
+exist on the African continent: some peoples and places, such as Pharaonic
+Egypt and Aksumite Ethiopia, developed writing several millennia ago; others,
+such as Benin City and Zimbabwe, lacked a written record until recent times;
+still others, such as Borno and Kongo, had contemporary accounts for a short
+period in the past, after which there is virtual silence. In addition, many of the
+
+                                                                                1
+African Civilizations
+
+documentary sources that do exist are based on the observations of outsiders
+who did not always understand what they observed or were prejudiced in
+their assessments. Such documentary evidence that does exist is often invalu-
+able, but Africanist historians have also given considerable attention to oral
+sources of history. However, it seems unlikely that oral sources can throw
+much light on periods more than, say, 500 years ago. Indeed, Jan Vansina
+(1973: xiv) thought that 250 years was often the maximum. In these circum-
+stances, scholars interested in Africa’s past have turned to a variety of other
+information sources. Thus, art and architectural history (Garlake 2002)
+and linguistics (Blench 2006) have contributed useful information, as have
+ethnographic and anthropological investigations. In addition, other disciplines
+have been of assistance, such as investigations of animals and plants in the
+past, including genetics (van der Veen 1999; Blench and MacDonald 2000).
+Relevant research has also included ethnoarchaeological studies, in which
+archaeology is employed to examine contemporary societies in order to test
+interpretations applied to societies in the past.
+  Archaeologists have spent a lot of time over the last few decades arguing
+about the nature of archaeology (Renfrew and Bahn 2008). Basically the
+subject is concerned with the study of the physical evidence of past human
+activities, in order to reconstruct those activities or at least construct what we
+think they might have been. This, it is hoped, will enable us to understand
+the undocumented past or to increase our understanding of inadequately
+documented periods of the past. Archaeological evidence, however, has its
+own strengths and weaknesses, and we are still learning ways of gaining the
+maximum reliable information from it. Its greatest advantage is that it enables
+us to examine things that were actually made and used by people in the past
+and allows us to investigate the impact that those people had on their environ-
+ment. We can discover what human beings actually did, not merely what they
+or others said that they did. The main disadvantage of archaeological evidence
+is that it almost always reﬂects only part of the activities of past men and
+women. The differential effects of human behaviour, of climate and soil
+chemistry, and of subsequent disturbance by either natural or human agencies
+cause most archaeological evidence to be rather like a jigsaw puzzle from
+which two-thirds of the pieces are lost, whilst many of the rest have the picture
+worn off or corners missing. These strengths and weaknesses of archaeological
+evidence can be seen in this book. On the lower and middle Nile, in North
+Africa, and in the Ethiopian Highlands we have the remains of cities often
+built of stone or earth, which have clear indications of centralized authority,
+so that archaeological investigations have added greatly to what is known
+from documentary sources. In contrast, archaeology has contributed much less
+information for Central Africa, where urban settlements were constructed
+
+2
+                                                                      The context
+
+mainly of grass, wood, and other organic materials and occupied by people
+who did not express their identity in more permanent building materials and
+did not create written records. Unfortunately, however, archaeological
+evidence has another drawback: it results from human endeavour, and archae-
+ologists (just like other people) tend to vary in the effort that they expend
+on different problems. Thus it is easy to search for settlement sites in the
+open grasslands of the African savanna but difﬁcult to do so in the tangled
+undergrowth of the rainforest. Similarly, it is easier to locate the sites of stone
+ruins than those of timber buildings and it is easier to excavate mud-brick
+structures than those of pisé. As a result, African archaeological distribution
+maps tend to show the distribution of archaeological research, rather than that
+of archaeological evidence.
+   Despite these problems, archaeology has powerful research potential. No
+longer merely concerned with studying artefacts, archaeologists have turned
+their attention to the study of human behaviour and its change through time.
+This is as it should be, for over a long time scale it is probably they, increas-
+ingly along with geneticists, linguists, and others, who can throw much light
+on when and how and why human societies changed in the way that they did.
+This book, for instance, attempts to assess how much archaeology can tell us
+about two aspects of the development of social complexity in the African
+continent: the growth of cities and the appearance of states. The purpose
+is not to dispute with historians or social anthropologists or sociologists
+or geographers, who have their own ideas and have developed a number of
+explanatory theories, but to evaluate the archaeological data and to determine
+what it has to contribute to the debates on these issues. In doing this, it will
+also become apparent that future archaeological ﬁeldwork will need more
+sophisticated research designs than has sometimes been the case in the past.
+   For most of the time that human beings have been in Africa, they scavenged,
+collected, hunted, and ﬁshed for their food, and there were few of them,
+widely scattered across the landscape. Nevertheless, archaeological evidence
+(Phillipson 2005) suggests that from about 200,000 years ago people were
+adapting to virtually all the varied African environments. Subsequently, it is
+likely that the size of some groups increased and that overall population levels
+rose. This probably led to pressure on food resources, which during the period
+between about 18,000 and about 7,000 years ago caused intensiﬁed exploit-
+ation strategies, such as the harvesting of grass seeds, the use of specialized
+ﬁshing equipment, and possibly the management of wild animals. These
+changes occurred at various dates during this overall period, in parts of what
+is now the Sahara, in parts of the Nile Valley, and in some areas of the East
+African savanna. It seems likely that they then led to the development of food
+production, which occurred in the northern half of Africa by about the sixth
+
+                                                                                 3
+African Civilizations
+
+millennium BC. Thus Africans have been farmers for less than half of 1 percent
+of their history, but the development of farming has had a major accelerating
+effect on the evolution of human culture and on social organization. The
+domestication of sorghum, millet, teff, African rice, wheat, barley, yam, and
+a host of other plants, plus the domestication of cattle, sheep, and goats,
+resulted in larger human populations, greater densities of population, and a
+growth in human sedentism. The development of food production in Africa
+arose from both indigenous experimentation and inﬂuences from South-West
+Asia. The evidence indicates that much of the plant domestication was
+an African achievement and that some cattle were probably domesticated in
+Africa, unlike sheep and goats whose domestication apparently resulted
+from Asiatic initiatives. It is in the context of African farming that most
+subsequent cultural changes in the continent must be seen.
+  One of the most important of these changes was the adoption of iron
+metallurgy, which in most of Africa took place from about the middle of the
+ﬁrst millennium BC or somewhat earlier and greatly improved the efﬁciency
+of tools and weapons. Copper and copper-alloy metallurgy pre-dated iron
+metallurgy but was mainly practised in the lower and middle Nile Valley and
+North Africa. So great was the impact of the adoption of iron on both the
+means of production and the means of destruction during the last two millen-
+nia in Africa that archaeologists have tended to emphasize it and to overlook
+other matters. The period has been called ‘the African Iron Age’, terminology
+that is difﬁcult to apply chronologically and that distracts attention from other
+important changes that were occurring in some African societies. It seems that
+over the last 5,000 years or more there was a rapid growth of interaction
+between human groups. This was probably brought about by a combination
+of population growth, increasing sedentism, ecological diversity, and an
+uneven distribution of resources. Certain animal and plant products, salt,
+copper, iron, and other commodities were increasingly exchanged between
+different population centres, and it was into such exchange networks that
+long-distance trade, both within and outside Africa, was eventually able to
+tap. At the local level, such intergroup dependence encouraged a complex
+interaction between individual settlements, so that some became larger and
+more important than others and in time came to control other settlements in
+their immediate region. At the same time there was increasing specialization
+and social stratiﬁcation amongst the people living in the larger settlements. In
+certain instances, elite groups within hierarchical societies gained control of
+crucial resources, which became the basis of their political domination of the
+rest of the population in their region. It could have been in some such manner
+that there emerged in parts of Africa the cities and states that were the
+principal manifestations of social complexity and that form the subject of this
+
+4
+                                                                       The context
+
+book. These developments ﬁrst took place in the lower and middle Nile Valley
+and in Africa north of the Sahara, but they also occurred in tropical Africa,
+particularly during the last two millennia. This book is an archaeologist’s
+attempt to explain how and why this came to be the case.
+   In retrospect, many of the earlier attempts at such explanation now seem
+simplistic and even naïve, a range of theories from each of which its propon-
+ents claimed understanding could be gained. There was almost a competition
+to produce a theory that would explain everything. More recently this some-
+what mechanistic, formulaic approach has been replaced by treating the
+subject as one aspect of cultural evolution, seen not as a step-like series of
+changes, as was once thought, but as a process varying in tempo and pattern
+from region to region and characterized by socioeconomic multicausality
+(Feinman and Manzanilla 2000). Nevertheless, some scholars considering
+the origins of cities and states as global phenomena still saw them as compon-
+ents of what they called ‘the emergence of civilization’, generally concentrating
+on West Asia, Pakistan–India, China, and Central and South America, with
+Egypt the only part of Africa given attention (Daniel 1968). The reason for this
+was the essentially nineteenth-century concept of ‘civilization’, which to
+Gordon Childe and many of his generation, principally trained in Greek and
+Roman classical history, implied the existence of writing (Childe 1957: 37).
+This was a Eurocentric view, in which civilization was deﬁned by the extent to
+which other societies conformed to nineteenth- and early-twentieth-century
+European ideals. The use of the word ‘civilization’ in the title of this book is
+therefore intended to be provocative, to remind readers that Africa had its own
+‘civilizations’. However, after Childe the concept of civilization continued to
+attract prescriptive deﬁnition, although this became broader as time went on
+(e.g., Kluckhohn 1960: 400; Renfrew 1972: 11; Redman 1978: 218–20). In
+general it was thought that civilization implied cities, and vice versa, and this
+led to a debate about the deﬁnition of the word ‘city’, in which a list of ten
+criteria by Childe became inﬂuential (Childe 1950: 3, 9–16). The latter
+reﬂected the circumstances of city development and state formation in South-
+West Asia and, like Childe’s deﬁnition of civilization, were of limited value in
+other parts of the world. As with the word ‘civilization’, subsequent attempts
+to deﬁne the term ‘city’ became increasingly generalized (e.g., Sjoberg 1960;
+Mumford 1961: 85; Redman 1978: 215–16). Nigerian geographer Akin
+Mabogunje reviewed ‘the functional specialization theory of urbanization’,
+pointing out that it was essential that functional specialization take place under
+three ‘limiting conditions’: the existence of a food surplus to feed the specialists,
+the existence of a small group of people able to exercise power over the food
+producers and ensure peaceful conditions, and the existence of traders and
+merchants to provide raw materials for the specialists (Mabogunje 1968: 35).
+
+                                                                                   5
+African Civilizations
+
+He deﬁned urbanization as simply ‘the process whereby human beings congre-
+gate in relatively large number at one particular spot of the earth’s surface’
+(Mabogunje 1968: 33). The process of state formation, in his opinion, origin-
+ated in the necessity to defend urban centres against external aggression,
+resulting in the extension of control over neighbouring cities (Mabogunje
+1968: 37). However, by 1981 Adams would comment: ‘Urbanism, to be sure,
+denotes no set of precise, well understood additional characteristics for societies
+so described’ (R.McC. Adams 1981: 81).
+   Implicit in these attempts at deﬁnition was a concern with process, that is to
+say: how did cities develop, how did states emerge? It has been these questions
+that have increasingly attracted attention, resulting in a large literature. Inves-
+tigations have concentrated on what has been called ‘the rise of complex
+society’, and there has been a tendency to separate the study of urbanization
+from that of state formation. Indeed, the rise of the state has been seen as
+central to the emergence of ‘complex societies’, which some anthropologists
+would prefer to call ‘stratiﬁed societies’ or ‘pluralistic societies’. There has been
+much discussion of ‘the anthropology of political evolution’ (e.g., Claessen and
+Skalník 1978; Cohen and Service 1978; Claessen and van de Velde 1987;
+Eisenstadt et al. 1988; Claessen and Oosten 1996), but the emphasis has
+tended to be on theoretical considerations, and much of the evidence used
+has been drawn either from historical sources or from ethnographic and
+anthropological observations. For example, much attention had been given
+to the role of ‘chiefdoms’ and the ways in which they could have developed
+into states; Flannery (1999) drawing on ethnohistorical sources from Africa,
+Madagascar, Inner Asia, and Hawaii to examine the interaction of ‘process’
+and ‘agency’ in such changes. Nevertheless, it has been difﬁcult to relate such
+theories to archaeological evidence, although Jonathan Haas (1982) attempted
+to do this, and Roland Fletcher (1995) constructed a theory of urbanization on
+a similar basis. In addition, Trigger (2003), Maisels (2010), Lull and Micó
+(2011), and Smith (2012) have adopted a comparative approach in which
+more attention has been given to the archaeological aspects of complex
+societies.
+   Haas presented a state-formation theory that could be used in the interpret-
+ation of archaeological data. He deﬁned a ‘state’ as being ‘a society in which
+there is a centralized and specialized institution of government’ (Haas 1982: 3)
+and examined the ways in which scholars have attempted to explain the
+emergence of such societies. He grouped these explanations into two schools
+of thought (Haas 1982: 15): the ‘conﬂict’ school (e.g., Fried 1967) and the
+‘integration’ school (e.g., Service 1975). Instead, Haas suggested a theory
+‘introducing major integration elements into a broadened conﬂict model’
+(Haas 1982: 129). Examining the main theories for the emergence of state
+
+6
+                                                                      The context
+
+societies, he identiﬁed three groups (Haas 1982: 132–52): (1) warfare theories
+(e.g., Carneiro 1970); (2) trade theories, either interregional (e.g., Rathje 1971)
+or intraregional (e.g., Wright and Johnson 1975); and (3) an irrigation theory
+(Wittfogel 1957). Haas argued that in spite of differences between them,
+‘All the theories begin with stratiﬁcation and outline alternate ways by which
+certain members of a society may gain differential access to basic resources’.
+He observed, ‘This differential access is based on control over the production
+or procurement of the resources in question’ (Haas 1982: 150–1; emphasis in
+original). It is that control, according to Haas, that gives rulers power. Subse-
+quently, Flannery and Marcus (2012) have also emphasized the creation of
+inequality as an important factor in state formation. In addition, others have
+recognized the importance of power in the development of social complexity
+(e.g., Earle 1997; Maisels 2010). Haas understood power to be the capacity to
+oblige somebody else to do something that she or he would not otherwise do,
+through the application, threat, or promise of sanctions (Haas 1982: 157).
+He identiﬁed nine variables that could be used to measure power in social
+relationships and demonstrated how each of these could be recognized in the
+archaeological record (Haas 1982: 159–71). Redeﬁning the word ‘state’ in
+terms of power, Haas called it ‘a stratiﬁed society in which a governing body
+exercises control over the production or procurement of basic resources, and
+thus necessarily exercises coercive power over the remainder of the population’
+(Haas 1982: 172).
+   Although Haas attempted to relate some of the anthropological ideas about
+state formation to archaeological data, he made little mention of African
+states, drawing his archaeological evidence from Mesopotamia, China,
+Mesoamerica, and Peru. Like many anthropologists who have written about
+state formation theory, he restricted his discussion to what have been called
+‘pristine’ states. These are states that arose so early or in such isolation that
+there can be no question of their being inﬂuenced by other states, as might
+have been the case with what have been called ‘secondary’ states. Thus, Haas
+ignored the archaeological evidence from African states, presumably because
+he considered them to be ‘secondary’ in origin, even excluding the early
+Egyptian state on this basis. It seems strange that so much theoretical work
+has gone into attempting to understand ‘pristine’ state formation when most
+states were inevitably ‘secondary’ in their origins. Barbara Price (1978: 161)
+commented on the limited theoretical treatment of the secondary state, and
+Renfrew referred to the idea of a division into ‘pristine’ and ‘secondary’
+‘civilizations’ as ‘unacceptably diffusionist’ (Renfrew 1983: 17). Renfrew
+thought that ‘to understand the origins and development of any civilization’,
+it is necessary to look at its local conditions: at subsistence, technology, social
+system, population pressures, ideology, and external trade. Yoffee (2005) also
+
+                                                                                 7
+African Civilizations
+
+argued for a broader treatment of social change in the past. This is the
+approach adopted in this book, because although state formation theory and
+urbanization theory are important, it is also important to examine the arch-
+aeological evidence for the conditions that gave rise to states and cities, as
+Pauketat (2007) has insisted.
+   Anthropologists and historians have advanced various hypotheses to
+explain the development of states in Africa. Historian John Lonsdale reviewed
+the historiography of the subject (Lonsdale 1981) and identiﬁed the following
+hypotheses: (1) imposition by an autonomous will, (2) conquest, (3) demo-
+graphic pressure, (4) a managerial basis of power, (5) long-distance trade,
+and (6) drought. These hypotheses were not seen as mutually exclusive;
+Lonsdale accepted that combinations of them might be used in an explanatory
+role in particular instances. Nevertheless, he stressed that most of these
+hypotheses originated at a time when there was relatively little known about
+African state formation. Lonsdale thought that three things had subsequently
+become apparent. First, state formation was a very slow process: ‘frequently
+botched and started again’, so that ‘the decay and fall of kingdoms is as
+important a process as their rise’. Second, a great deal more had become
+known about the politics of state formation and state collapse (for the latter,
+Tainter 1988; Yoffee and Cowgill 1988). Power seems to have been decentral-
+ized in early kingdoms with their kings acting as mediators rather than
+autocrats. State emergence involved centralization of that power, and this
+was achieved by coercion, not by consensus. Third, it was more useful to
+explain the rise of particular states in terms of local politics, rather than
+to hypothesize about ‘the idea of the state’ and the diffusion of political ideas
+(Lonsdale 1981: 172–3).
+   Physical evidence is needed to test the theories concerning urbanization and
+state formation, but so limited is our knowledge of the later archaeology of
+Africa that ethnohistorical and historical evidence also need to be considered.
+The danger here is that we might ‘allow the ethnographic present and the
+historically constructed past to exercise tyranny over our perception of past
+human behaviour’ (Fletcher 1995: 212). Because of an uneven geographical
+distribution of excavations and other ﬁeld researches, there have been rela-
+tively few general archaeological studies concerned with the origins and devel-
+opment of cities and states in Africa, and older contributions are of limited
+value. However, an early contribution to the general archaeological literature
+was Peter Garlake’s The Kingdoms of Africa (Garlake 1978a), which was
+noteworthy for the author’s insistence on the indigenous evolution of African
+states, although he also stressed the importance of external trade, whereby a
+small group could monopolize not the resources but the outlets by which they
+could be converted into a useful surplus.
+
+8
+                                                                   The context
+
+  Although it gave little attention to archaeological evidence, there was also
+Richard Hull’s book African Cities and Towns before the European Conquest
+(1976). Relevant to the present discussion were parts of the book concerning
+the origins of cities and towns and their decline and disappearance. Hull
+identiﬁed ﬁve main urban types, assuming that major function explained
+origin but emphasizing that most cities and towns served a combination of
+such functions. The types were: spiritual and ceremonial centres, commercial
+centres, centres of governance, centres of refuge, and ‘cities of vision’ (Hull
+1976: 120–1). Hull also outlined what he saw as the prerequisites for the
+growth of cities and towns in Africa: government had to be sufﬁciently
+developed to exert control over the agricultural surplus; leaders had to have
+enough power to demand labour from their people for the construction of
+public works; specialist craftsmen had to be present; and government had to
+have an ideological power base (Hull 1976: 2). For decline and disappearance,
+Hull suggested four main causes: environmental deterioration, collapse of
+political superstructure, revolt of peripheral cities against the mother city,
+and external military invasion (Hull 1976: 114–16).
+  Other publications relevant to the archaeology of cities and states in Africa
+include: Augustin Holl, West African Early Towns (2006); David Phillipson,
+African Archaeology (2005); Thurstan Shaw et al., The Archaeology of Africa
+(1993); and Joseph Vogel, Encyclopedia of Precolonial Africa (1997). Another
+source is The Oxford Handbook of African Archaeology (2013), edited by
+Peter Mitchell and Paul Lane. Chapter 48 in that book, by J. Cameron Monroe
+(2013: 703–22), entitled ‘The archaeology of the precolonial state in Africa’,
+provides a useful summary. Parts of The Civilizations of Africa by Christopher
+Ehret (2002) are also relevant, as are some of the papers in African Archae-
+ology edited by Ann Brower Stahl (2005b). Furthermore, three essays of my
+own consider speciﬁc aspects of the subject (Connah 2000a; 2000b; 2008). In
+addition, there are historical studies: Roland Oliver, The African Experience
+(1993); John Iliffe, Africans (1995); John Reader, Africa (1997); and Anderson
+and Rathbone, Africa’s Urban Past (2000).
+  When examining the archaeological evidence, a discrepancy becomes appar-
+ent. According to historical sources, there was a greater number of cities and
+states in Africa than the archaeological literature indicates. Fage and Verity’s
+An Atlas of African History (1978) shows numerous cities and states in its
+maps of which little or nothing is known archaeologically. What about the
+early second-millennium AD state of Kanem east of Lake Chad, for instance,
+of which the capital Njimi has never been found? Or what about the sixteenth-
+century state of Kongo with its capital Mbanza Kongo, thought by Leo
+Africanus to have had a population of about 100,000 people (Africanus
+1896: vol. 1, 73)? Virtually nothing is known about its archaeology, either.
+
+                                                                              9
+African Civilizations
+
+These examples illustrate the two main reasons for the patchy state of arch-
+aeological knowledge on this subject. First, there is the problem of the
+archaeological visibility of the sites (Connah 2008). At the one extreme, a
+long-established, partly stone-built, commercial centre like Kilwa (Chittick
+1974), and at the other extreme, a short-lived, grass-built, centre of governance
+like the Bugandan capital at Rubaga, visited by Henry Morton Stanley in 1875
+(Stanley 1878: vol. 1, 199–202). The second of the main reasons for the patchy
+state of archaeological knowledge is the uneven distribution in space and time of
+archaeological ﬁeld research in Africa. Comparatively large amounts of excav-
+ation and ﬁeldwork have been carried out, for instance, on settlement sites
+of the last three millennia along the Sudanese Nile, but, in contrast, relatively
+little such work has been done, for example, on the Mozambique coast. These
+two problems of archaeological visibility and uneven ﬁeld research frequently
+compound one another. Clearly, only the most intensive ﬁeld investigations will
+reveal sites of low archaeological visibility.
+   A consequence of the patchy state of archaeological knowledge concerning
+cities and states in Africa is that any discussion of the relevant archaeological
+evidence might give a distorted picture. However, Chandler and Fox (1974)
+produced a series of maps of African cities at intervals between AD 1000 and
+1850 mainly based on historical sources. Although the distribution of cities
+does not necessarily indicate the distribution of states, these maps do reﬂect the
+geographical distribution of cities and states indicated by the archaeological
+evidence. Thus they show that the main areas of urban development were: in
+the Maghreb of North Africa, along the lower Nile in Egypt, on the middle
+Nile in the Sudan, in West Africa along the southern edge of the Sahara, in the
+West African rainforest west of the lower Niger River, and on the Ethiopian
+Plateau. They also record urban centres on the East African coast, on the
+Zimbabwe Plateau, around the lower Congo, and in the Lake Victoria area. So
+the archaeological evidence does produce a geographical pattern comparable
+to that derived from historical and ethnohistorical evidence. It is this that has
+prompted the choice of subject matter for most of the substantive chapters of
+this book.
+   Some of the implicit assumptions in this book require examination. For
+instance, how are the terms ‘city’ and ‘state’ to be understood in this speciﬁc
+context? Some authors have written of ‘cities’ in Africa (Hull 1976) and
+‘kingdoms’ (Garlake 1978a) or ‘states’ (Fage and Verity 1978). Others have
+accepted the existence of the West African ‘empires’ of Ghana, Mali, Songhay,
+and Kanem-Borno. The question is whether such terms accurately describe
+African realities or merely reﬂect the inﬂuence of European historiography.
+Studies of more recent African societies by anthropologists and ethnographers
+suggest that larger settlements in Africa occurred in a variety of forms,
+
+10
+                                                                     The context
+
+differing in character and scale, and that African polities tended to lack the
+autocratic, centralized, and bounded forms that the words ‘kingdom’ and
+‘empire’ suggest. Perhaps the use of such terms resulted partly from a post-
+colonial reaction by scholars seeking to legitimize the African past in a global
+context, attempting to show that in certain respects Africa was like Europe.
+Indeed, they might have had some justiﬁcation, for the cities and states
+of Medieval and Early Modern Europe were not always the autocratic,
+centralized, and bounded entities of popular Eurocentric imagination.
+   In an introductory essay to her edited book Beyond Chiefdoms (1999),
+Susan Keech McIntosh provided an important perspective on the subject of
+sociopolitical complexity in Africa. She pointed out: ‘The initial establishment
+of supralocal organization in sub-Saharan Africa more likely took the form of
+a central ritual authority, lacking any signiﬁcant political power or particular
+economic advantage’ (S.K. McIntosh 1999: 23). She also remarked: ‘It is quite
+common to ﬁnd in African segmentary states a pattern of power counterpoised
+between a king and either associations (such as secret societies or cults with
+titled elders) and/or a council of lineage heads’ (S.K. McIntosh 1999: 15).
+Other factors, such as religious afﬁliation, ethnic/linguistic identity, clan mem-
+bership, age-grades, craft guilds, and trade obligations, can also play a part in
+limiting an African ruler’s hierarchical authority implied by the term ‘state’.
+Indeed, on the subject of urban origins, Roderick McIntosh argued that in
+some cases a heterarchical, horizontal sociopolitical structure existed, rather
+than a hierarchical, vertical one with control of surplus, visible stratiﬁcation,
+and public monuments (R.J. McIntosh 1999; 2005). Also Ann Stahl ques-
+tioned the progressivist and evolutionist assumptions in much that has been
+written about the appearance of aspects of social complexity, such as urbanism
+and states, in Africa. She recommended ‘research strategies that can help us
+rethink how we perceive variability in time and space’ (Stahl 1999: 46). Terms
+less loaded with meaning than ‘city’ and ‘state’ are needed for examples of
+uncertain character; ‘large settlement’ and ‘polity’ might be preferable.
+Roderick McIntosh observed: ‘As archaeology matures we will look more
+inclusively at the full range of processes by which complex society emerged’
+(R.J. McIntosh 1999: 63).
+   One aspect of urban living, to which archaeologists need to give more
+attention, is sanitation. The informal disposal of human bodily waste becomes
+a serious problem as the density of settlements increases. Archaeological
+evidence of attempted solutions, in the form of latrines, drains, soakaways,
+and sometimes water supply, has been identiﬁed in some African regions and
+periods but is apparently absent from others. Inevitably, this raises the ques-
+tion of whether some excavators have failed to identify such evidence. Possibly
+the subject has been regarded by some scholars as not worth their attention,
+
+                                                                               11
+African Civilizations
+
+and yet the provision of such facilities, or the lack of them, is relevant to
+evaluating the technology of an urban society, as well as having signiﬁcant
+social and health implications. Nevertheless, archaeological evidence for
+African sanitation has not yet received the attention afforded to that of
+Mohenjo-Daro, for example, in Pakistan (Jansen 1989).
+  The chapters that follow are a series of case studies, whose choice has been
+dictated by the availability of archaeological evidence as well as historical
+and ethnohistorical evidence. Chapters 2–11 examine the main areas of arch-
+aeological evidence by grouping that evidence both geographically and
+chronologically (Fig. 1.1). Thus, Chapter 2 discusses the earliest instance of
+African social complexity: the Pharaonic state and its settlements along the
+lower Nile. The later states and settlements of North Africa are then examined
+in Chapter 3. In previous editions of this book, these regions were excluded,
+although it was acknowledged that they inﬂuenced to varying extents the
+developments that took place in the Sudanese Nile Valley, the Ethiopian
+Plateau, and the West African savanna. The intention was to look at the cities
+and states of tropical Africa, because they were regarded as comprising a
+logically coherent group. In contrast, North Africa and Egypt have long had
+such diverse connections with the Mediterranean and South-West Asia that it
+seemed legitimate to exclude them from a study of the African evidence. This
+reﬂected a long-standing tendency for Africanist scholars to focus on what
+they called ‘sub-Saharan Africa’, conveniently beheading the continent in the
+process. More recently it has been realized that discussions should be set in
+a continent-wide, and even global, context. Peter Mitchell’s book African
+Connections: An Archaeological Perspective on Africa and the Wider World
+(Mitchell 2005) has inﬂuenced this new orientation. Mitchell’s book is a timely
+reminder that although connections between different societies are sometimes
+not represented in their material cultures, they might still be indicated by
+‘shared ideas and beliefs’ (O’Connor and Reid 2003a: 3). The widespread
+dispersal of religious ideologies is a major example, but physical evidence for
+other aspects of culture such as the board game of mancala, played in both the
+Roman world and over much of Africa, is another example that is relevant
+here (Townshend 1979; de Voogt 2010).
+  However, most Africanist archaeologists have only limited knowledge of
+the archaeology of North Africa and Egypt, particularly of the latter with its
+enormous number of publications. Therefore, Chapters 2 and 3 in the present
+book are superﬁcial compared with other chapters, but they have an essential
+role as contextual material. Moving on, Chapter 4 discusses the evidence from
+the middle Nile for the cities and states of Kerma, Napata, and Meroë, perhaps
+the ﬁrst of such developments in tropical Africa, and also considers the
+evidence for the successor states of Christian Nubia. This is followed in
+
+12
+                                                                               The context
+
+
+
+
+Fig. 1.1 Location of the areas discussed in this book. 1: North Africa (Chapter 3);
+2: Lower Nile (Chapter 2); 3: West African savanna (Chapter 6); 4: Nubia (Chapter 4);
+5: Ethiopian Highlands (Chapter 5); 6: West African rainforest (Chapter 7); 7: Interlacustrine
+Region (Chapter 10); 8: Upemba Depression (Chapter 10); 9: The Far West of Central Africa
+(Chapter 10); 10: East African coast and islands (Chapter 8); 11: Great Zimbabwe and
+related sites (Chapter 9); 12: South African sites (Chapter 11). Drawn by Joe LeMonnier.
+
+
+
+
+                                                                                          13
+African Civilizations
+
+Chapter 5 by an examination of the evidence for Aksum and Christian
+Ethiopia. The scene is then changed to West Africa, and Chapters 6 and 7,
+respectively, look at what archaeology has to tell us of the cities and states of
+the West African savanna and of the West African rainforest and its fringes.
+Chapter 8 takes us across the continent again to examine the archaeological
+evidence for the cities of the East African coast and islands, including
+Madagascar. In contrast, Chapter 9 considers the evidence from the Zim-
+babwe Plateau and related areas in the interior, and Chapter 10 focuses on
+the Upemba Depression and the Interlacustrine Zone, in Central Africa, also
+discussing evidence from further west. Chapter 11, like Chapters 2 and 3,
+is new to this third edition. Both previous editions excluded the southern
+extremity of the continent, because the book was limited to tropical Africa.
+Chapter 11 considers the appearance of large settlements and centralized
+polities on the South African Highveld and in adjacent areas during the second
+millennium AD, particularly during its later part. Finally, Chapter 12 discusses
+possible common circumstances in the examples of social complexity that have
+been examined in the previous chapters.
+  The subject matter of this book is limited to the last ﬁve and a half millennia
+of Africa’s past (Fig. 1.2) but prior to colonialism and decolonization. For
+some parts of Africa the last two millennia or so have often been called ‘the
+African Iron Age’, but such technoepochal terminology has little explanatory
+value and obstructs rather than aids understanding (Connah 1998b: 5–6).
+Certainly the period concerned was one of substantial technological change,
+but there were also profound economic and social changes, which it is the
+purpose of this book to investigate. This investigation consists of the examin-
+ation of the relevant archaeological evidence for social complexity in Africa.
+That evidence consists of the material remains of larger settlements and of the
+culture of their occupants, together with inferences about the relationship of
+such settlements to the populations of their hinterlands and to the resources
+available in those hinterlands. In assessing this evidence, it is important to ask
+how we know that a particular archaeological site represents the remains of
+a city and how we are able to assume that the area around it constituted a state
+controlled either from that or from another city. We can also compare the
+picture that emerges from the archaeological evidence with the picture that
+can be reconstructed from ethnohistorical or historical evidence. At the very
+roots of our enquiry, however, are basic questions around which the whole
+discussion revolves: how and why did cities and states emerge in Africa?
+In particular, what factors led to their development in some parts of the
+continent but not in others? These questions allow us to assess, principally
+using archaeological evidence, both the theoretical explanations of anthro-
+pologists like Haas (1982) and the explanatory hypotheses advanced by
+
+14
+                                                                           The context
+
+
+
+
+Fig. 1.2 Approximate chronology of the areas of social complexity discussed in this book,
+arranged in the order of its chapters, numbers 2–11 at left margin. D., Danangombe
+(Dhlo Dhlo); F.W., Far West; G.Z., Great Zimbabwe; H.V.S., Highveld settlements;
+M., Mapungubwe. Note how the earliest examples are to the north, becoming progressively
+later to the south. Drawn by Andrew Stawowczyk Long.
+
+
+
+Africanist historians (Lonsdale 1981). In attempting such an assessment,
+the approach is based on that advocated by Renfrew (1983: 17), discussed
+above (p. 7). The archaeological evidence for each group of African cities
+and states is investigated from the point of view of geographical location,
+environmental conditions, subsistence, technology, social system, population
+pressures, ideology, and external trade. Whatever the weaknesses of the
+archaeological evidence for the emergence of cities and states in Africa, it
+can increase the time depth of our understanding of these processes and test
+
+                                                                                      15
+African Civilizations
+
+and ﬂesh out our historical sources, where such sources exist. The archaeo-
+logical evidence reveals a remarkable diversity of both urbanism and state
+formation in Africa’s past, suggesting that a world-wide reappraisal of these
+aspects of social complexity might be required – a reappraisal that should
+at last pay proper attention to the physical evidence from previous African
+civilizations.
+
+
+
+
+16
+Chapter 2
+Origins: social change on the lower Nile
+
+
+The earliest example of social complexity in Africa was along the lower valley
+of the River Nile. Some of the ﬁrst indications have been found at Hierakon-
+polis, on the west bank of the Nile in southern Egypt, where extensive habita-
+tion and cemetery sites date to the fourth millennium BC. This and other sites
+suggest that social changes were already taking place amongst the formerly
+dispersed agropastoral people of the region. Local elites were emerging, and by
+about 3000 BC there is evidence for the First Dynasty of Pharaonic rulers of
+‘Ancient Egypt’. This polity has long occupied a special place in Western
+consciousness, both scholarly and public. Pharaonic Egypt has been regarded
+as one of the great ‘civilizations’, as an almost mythical construct and treated
+as separate from the overall study of Africa’s past. However, archaeologists
+are now considering Egypt in its African context, for example, O’Connor and
+Reid (2003b) and Exell (2011), but for a long time this was not done. It was
+insisted that Egypt during the last three millennia BC demanded extensive
+archaeological investigations, but until the middle of the twentieth century
+the rest of the continent was given far less attention. Consequently, the
+capacity for Egyptology to shed light on the processes leading to social
+complexity, in Africa and elsewhere, has sometimes been overlooked. This is
+unfortunate because the Egyptian evidence has great comparative value.
+  That evidence is exceptional in three ways. First, the climate and environ-
+ment of the Nile Valley and its surrounding deserts have resulted in the
+survival of a range of organic materials rarely encountered in archaeological
+contexts elsewhere in Africa. Second, the monumental expression of social
+order by ancient Egyptians has left extensive physical evidence in the form of
+pyramids, tombs, temples, statues, and other structures that have dominated
+scholarly attention. Third, the development of writing, of which there was
+already an early form by about 3300 BC (Davies and Friedman 1999: 36–7;
+O’Connor 2011: 143–7), means that there are substantial documentary
+sources, particularly for later periods, as well as archaeological evidence.
+These factors have resulted in a massive quantity of data that has affected
+much of its interpretation. The Ancient Egyptians recorded their history in
+terms of the reigns and dynasties of their rulers, the latter numbered from one
+to thirty. This has been presented as a sequence lasting three millennia, a
+chronology originating from the work of a third-century BC Egyptian priest
+called Manetho. The sequence comprises the Early Dynastic Period, the Old
+
+                                                                             17
+African Civilizations
+
+Kingdom, the Middle Kingdom, the New Kingdom, and the Late Period, the
+second and subsequent of these being separated from each other by three
+Intermediate Periods of sociopolitical instability (Baines and Malek 2000;
+Shaw 2000). This sequence provides the longest and most detailed historical
+account in any part of Africa but has tended to encourage a conservative
+approach to the archaeological study of Ancient Egypt.
+  In contrast, during recent years there have been attempts to look at the
+evidence more objectively and to ask either new questions of it or old questions
+in new ways. We have a relatively detailed picture for much of the time
+occupied by the mature Pharaonic state, characterized by periods of central-
+ized power that alternated with periods of sociopolitical fragmentation, what
+Kent Flannery (after Henry Wright) called ‘cycling’ (Flannery 1999: 4–5).
+However, it is the earliest periods, generally referred to as the ‘Predynastic’,
+that have the greatest capacity to throw light on the processes that led to the
+emergence of social complexity in Egypt. Thus, Barry Kemp devoted a third of
+his book Ancient Egypt: Anatomy of a Civilization to the foundations of the
+state (Kemp 1991) and David Wengrow (2006) traced relevant social trans-
+formations from 10,000 to 2650 BC, ending his investigation near the point
+where studies of Ancient Egypt have often begun.
+
+
+Geographical location and environmental factors
+Without the River Nile, Ancient Egypt would have been desert. As now, in
+most places there was little rainfall, in some areas virtually none, with an
+average monthly maximum temperature in June and July of 34C (for Cairo,
+at present) and high evapotranspiration. However, the Nile, one of the world’s
+great rivers, was fed with water from the Ethiopian mountains and from deep
+in equatorial Africa. Once a year, usually without fail, it ﬂooded a narrow strip
+of land on each side as well as other nearby low-lying areas. This not only
+saturated the ground but also left fertile silt lying on top. Each year, after the
+ﬂoodwaters had receded, highly productive agriculture ﬂourished on the irri-
+gated land each side of the Nile and in the Nile Delta where the river entered
+the Mediterranean Sea. The main crops were emmer wheat and barley, plus
+lentils, chickpeas, vegetables, fruit, sesame, and ﬂax. Livestock included cattle,
+sheep, goats, pigs, pigeons, ducks, geese, and bees. During the Pharaonic
+period, as is still the case, Egypt was the gift of the Nile, and the Nile was
+the gift of Africa. The river supported agricultural production that yielded a
+large surplus, able to support a complex society with a dense population.
+It also abounded in ﬁsh, reeds that were used in construction and matting,
+and papyrus that provided writing materials. In addition, wild game beyond
+the valley margins remained a hunting resource for a long time. Furthermore,
+
+18
+                                     Origins: social change on the lower Nile
+
+the Nile provided transportation from one end of this long narrow country to
+the other. With the prevailing wind blowing from the north and the river
+ﬂowing from the south, boats could sail in one direction and drift or be rowed
+back. In this way bulky commodities and heavy raw materials could be moved
+and relatively easy communications could be maintained between different
+communities (Fig. 2.1).
+  With abundant food in most years, Ancient Egypt was a land of plenty with
+a good transportation system. Yet each side of the narrow occupied area,
+usually so close that it could be seen from the banks of the Nile itself, there
+was desert, appearing to shut off this land of plenty from the outside world.
+Also the Mediterranean Sea to the north and rocky cataracts in the Nile to
+the south seemed to enclose Egypt from those directions. However, Ancient
+Egyptians not only learnt to exploit the mineral and other resources of the
+surrounding deserts but also traded with their southern neighbours along
+the Nile in Nubia. In addition, trade was developed with people in the Levant
+and with others as far away as Mesopotamia with its emerging city-states. The
+Sinai Peninsula provided early contacts with those regions; by the late fourth
+millennium BC the domestication of the donkey and its use as a pack animal
+facilitated growing interaction with the southern Levant that acted as a funnel
+for commodities from further aﬁeld (Wengrow 2006: 36, 136). In the third
+millennium BC, maritime trade, particularly with Lebanon, became more
+important; Egypt was supplied with the timber that it lacked, mostly cedar
+that was used in boat construction (Wengrow 2006: 148). This combination of
+resources, from both the Nile Valley and further aﬁeld, continued to beneﬁt
+Egypt for many centuries, in spite of changes. After the Pharaonic period,
+Egypt’s geographical position and its environment remained advantageous, in
+turn under Persian, Ptolemaic, Roman, Byzantine, and Arab rule. To Imperial
+Rome it was an important source of grain; in the late ﬁrst millennium BC
+Alexandria became one of the world’s intellectual centres; by the early second
+millennium AD al-Fustat (under modern Cairo) was one of Africa’s wealthiest
+cities; and Egypt has continued to provide a link between Africa and the
+Mediterranean, South-West Asia, the Red Sea, and the Indian Ocean. It was
+not for nothing that Napoleon sought to occupy it at the end of the eighteenth
+century AD or that Germany made it a strategic objective during World War II.
+Post-Pharaonic Egypt can contribute to an understanding of subsequent state
+and urban development in the rest of Africa, just as Pharaonic Egypt helps
+us to understand their origins.
+  Geographical and environmental advantages relevant to the Nile are dis-
+cussed in greater detail in Chapter 4, on Nubia, although concerning the valley
+south of Egypt. However, there were also constraints on human occupation in
+both areas. In Egypt, a major problem was the very river that gave it life: not
+
+                                                                            19
+African Civilizations
+
+
+
+
+Fig. 2.1 Principal archaeological sites and places on the lower Nile mentioned in the text.
+Drawn by Joe LeMonnier.
+
+
+
+
+20
+                                      Origins: social change on the lower Nile
+
+only was it a perennial source of river-borne diseases but in some years its
+ﬂood could fail and in other years be so high that settlements and farmland
+were swept away. Crops and livestock could be lost and famine could threaten.
+Such events resulted from short-term climatic oscillations, but changes over
+longer periods were of greater signiﬁcance. Thus the increasingly dry condi-
+tions in much of the Sahara from about the fourth millennium BC (Hendrickx
+and Vermeersch 2000: 35) must have had an impact on the Egyptian Nile
+Valley, as people were forced out of the desert into its margins, including the
+Mediterranean coast to its north and the Sahel to its south. It is surely
+signiﬁcant that it was at about this time that signs of social complexity
+appeared in Egypt, as its resources and those of its margins and oases attracted
+more and more people (Hassan 2002: 323).
+
+
+Sources of information
+Historical evidence
+There is information on social and political organization in Egypt over the last
+six millennia, particularly for the Pharaonic period. Both documentary and
+archaeological sources throw light on the emergence and vicissitudes of the
+Ancient Egyptian state and on the character and role of its cities. A variety of
+written material exists, both in hieroglyphs used for formal purposes and in
+more rapidly written scripts such as hieratic and the later demotic (Baines and
+Malek 2000: 198–201). Much of this is on papyrus, which the dry environ-
+ment has often preserved, but there are also many inscriptions on other
+materials, particularly stone. In conjunction with large numbers of painted
+and/or carved depictions, these written sources show how the Ancient Egyp-
+tians saw themselves and how they represented their past. Inevitably such
+evidence requires critical interpretation, and this has generated a vast amount
+of scholarship. Consequently, the development of writing in Ancient Egypt has
+provided us with a picture of past society unparalleled in the rest of Africa for
+that period. We have the names of real people and descriptions of actual
+events; we are also provided with a detailed chronology of impressive length.
+   Surviving documentation includes monumental and funerary inscriptions;
+administrative records; correspondence; religious and ritual material; astro-
+nomical, medical and mathematical texts; narrative ﬁction; poetry; and writing
+for everyday purposes. Collectively, these sources provide valuable informa-
+tion on the character of Pharaonic society; concerning the New Kingdom, for
+example, even the details of private life can be reconstructed (Meskell 2002).
+The documentary sources indicate an abundant agricultural surplus in most
+years, supporting a complex society with a dense population, amongst whom a
+
+                                                                              21
+African Civilizations
+
+substantial number of people appear to have been at least partly literate. There
+is written evidence for government ofﬁcials, priests, craftsmen, artists, scribes,
+soldiers, merchants, and many others, as well as for the numerous farmers who
+produced the food. Documentation reveals a hierarchical state headed by an
+absolute monarch with both secular and sacred authority, the Pharaoh, and a
+government that became increasing bureaucratic as time passed. People lived
+in cities, towns, and villages and on estates. There was a complex religious
+ideology concerning both life and death; the central role of religion contributed
+to Ancient Egypt’s long survival, by encouraging social and political cohesion
+in spite of periods of instability and collapse. A concept of right order pro-
+duced a society that appears to have been conservative, although there were
+changes as time passed.
+
+
+Archaeological evidence
+Much can be learned from the extraordinary amount of archaeological evi-
+dence, particularly for Pharaonic Egypt. Famously, this includes massive
+public works such as pyramids, numerous temples, and statues and other
+stone sculptures of rulers and gods, often with associated texts. It has been
+suggested that the construction of the pyramids functioned as an ‘economic
+engine’ that drove the Pharaonic state. The sheer size of each of these monu-
+mental building projects involved the collection and redistribution of resources
+on a massive scale, in order to support the necessary workforce and specialists.
+Of the largest of the pyramids it has been claimed that, especially during the
+Old Kingdom, they served as ‘a major catalyst for . . . the development of
+Egypt as one of the world’s ﬁrst true states’ (Lehner 1997: 9). Building on such
+a scale would have required complex organization efﬁciently directed, indicat-
+ing the existence of a powerful centralized state. In addition to these monu-
+mental structures, there were many other tombs and burials whose level of
+sophistication reﬂected the hierarchical character of that state, as did the large
+number of informative wall paintings within some tombs. Inevitably, it has
+been pyramids, other tombs, and temples, often constructed in stone, and the
+numerous sculptures and paintings, which have attracted the greatest attention
+from archaeologists. As a result, the latter have usually been preoccupied with
+elites and state ritual, although there is now a growing interest in the rest of the
+Ancient Egyptian population. One consequence has been that until recently
+relatively little attention was given to the archaeology of Pharaonic settle-
+ments. Indeed, at one time it was thought that Ancient Egypt was a case of
+‘civilization without cities’ (Wilson 1960), a belief now ﬁrmly rejected (Trigger
+2003: 120). It was also presumed that most of the evidence for urbanization
+was buried beneath Nile sediments or covered by modern occupation and that
+
+22
+                                        Origins: social change on the lower Nile
+
+excavation would be difﬁcult because of ephemeral building materials, loose
+spatial organization, and royal residences that shifted periodically.
+   Nevertheless, there is archaeological evidence for the development of urbanism
+as well as for the emergence of the Egyptian state. Although the Predynastic
+period is principally known from burials, both the process of urbanization and
+the rise of the state can be traced in the character and location of the cemeteries
+(Wilkinson 1996: 86–8). In addition, there were villages clustered along the Nile,
+and by about 3500 BC there were large settlements at Hierakonpolis, Koptos,
+Naqada, and Abydos, all in Upper (southern) Egypt. These appear to have been
+sprawling, low-density settlements, in contrast to later walled, brick-built towns
+of higher population density. Subsequently, Ancient Egyptian towns and cities
+seem to have developed for various reasons: as administrative, cult, or craft
+centres; as military bases; or as a combination of several of these. Their ties with
+agriculture remained strong because it usually formed their main resource base.
+Inevitably, they competed with one another for assets, and during the Predynas-
+tic period this must have led to some centres and some individuals gaining more
+wealth and political power than others. By the late fourth millennium BC there
+were a number of such centres of power, controlling limited areas and headed by
+elite ﬁgures with both secular and sacred authority. It was out of their continuing
+and apparently violent rivalry that the Egyptian Dynastic state emerged about
+3100 BC (Kemp 1991). An indication of this centralizing process is provided by
+the so-called Cities Palette (Kemp 1991: 50; Wengrow 2006: 209), a fragment
+of a stone cosmetic palette that appears to depict seven walled cities under
+attack, presumably by a locally powerful early ruler (Fig. 2.2). A similar repre-
+sentation of a city under attack is present on the Narmer Palette from Hiera-
+konpolis; it also shows Narmer, wearing the crown of Lower Egypt, inspecting
+ten decapitated prisoners; on the other side of the palette, wearing the crown of
+Upper Egypt, he is about to strike a prisoner (Wengrow 2006: 42–3).
+   Archaeological investigations have provided information about the layout of
+Pharaonic cities and other settlements. An early example is the Old Kingdom
+mortuary-cult ‘town’, attached to the Valley Temple of King Sneferu of the
+Fourth Dynasty at Dahshur (Kemp 1991: 148). Possibly occupied by only a
+hundred people, already there are indications of planning in its layout. Indeed,
+the Middle Kingdom town of Kahun, also known as Lahun, attached to the
+pyramid of Senusret II, is evidence of orderly planning by central authority
+(Fig. 2.3) and has been estimated as capable of containing a population of
+about 5,000 (Kemp 1991: 149–57). Such state control is particularly evident in
+the case of the Middle Kingdom fortress of Buhen, just north of the Second
+Nile Cataract in Nubia, on what was then Pharaonic Egypt’s southern frontier
+(Kemp 1991: 168–72). Although military considerations were clearly of pri-
+mary importance in its plan, it was in effect a fortiﬁed town that probably had
+
+                                                                                 23
+African Civilizations
+
+
+
+
+Fig. 2.2 One side of the ‘Cities Palette’ fragment, depicting seven walled towns under attack
+by animals symbolizing the monarchy and wielding hoes. It is presumed that the palette,
+which dates to about 3000 BC, celebrated victories in the expansion of the kingdom of
+Hierakonpolis and that it provides evidence for early state development on the lower Nile.
+From Kemp 1991: 50, ﬁg. 16.
+
+
+a large population (Fig. 2.4). More important, however, was the New King-
+dom city of El-Amarna, constructed for ‘the heretic king’ Akhenaten and
+named Akhetaten, for which population estimates vary between 20,000 and
+50,000 (Kemp 1991: 269). This short-lived city has been extensively excavated
+over many years, providing information on both its layout and on the lives of
+its inhabitants (Fig. 2.5). The spread of house sizes indicates a society grading
+from poor to rich without any major gaps, the great gulf being between the
+residents as a whole and the ruler and his family (Kemp 1991: 298, 300). In
+contrast, layout details of the major cities of Memphis and Thebes are limited
+because of their lengthy occupation, although ironically the entire plan of the
+craftsmen’s village of Deir el-Medina (Fig. 2.6), near Thebes, has been revealed
+by excavation (Meskell 2002: 42). However, the layout of the later city of
+Alexandria, during the Ptolemaic and Roman periods, is known (Lloyd 2000:
+406). It demonstrates the continuity of urbanism in Egypt, as also do the even
+later Islamic cities of al-Fustat and al-Qahira (Fig. 2.7) from the seventh to
+twelfth century AD (Kubiak 1987; Raymond 2000).
+   Not only are the archaeological sites of Pharaonic and later Egypt informa-
+tive; they have also yielded enormous quantities of cultural material of a
+
+24
+                                           Origins: social change on the lower Nile
+
+
+
+
+Fig. 2.3 Plan of the Middle Kingdom town of Kahun, of which part has been lost to
+cultivation. An early example of orderly planning by central authority, it was attached to
+the pyramid of Senusret II (c. 1842–1837 BC) to house the workmen who built the pyramid
+and the priests and others responsible for maintaining the cult of the dead king. After Kemp
+1991: 150, ﬁg. 53.
+
+
+variety unmatched in many other parts of the world. This includes pottery,
+stone vessels, basketry, clothing, footwear, furniture, a great range of metal-
+work, tools, weapons, jewellery, cosmetic objects, children’s toys, board
+games, symbolic and religious items, and many other artefacts. There are also
+the remains of boats, including one that is 43.3 metres (142 feet) long, dated to
+
+                                                                                        25
+African Civilizations
+
+
+
+
+Fig. 2.4 Plan of the Middle Kingdom fortress of Buhen, an example of urban planning for
+the military. This was constructed by Senusret I (c. 1918–1875 BC) to protect Egypt’s
+southern border. From Kemp 1991: 170, ﬁg. 60.
+
+
+slightly before 2500 BC, found in a pit adjacent to Khufu’s pyramid at Giza
+(Lehner 1997: 119). Even earlier boats have been found in the boat-grave
+cemetery at Abydos, which has provided evidence of the world’s oldest sewn
+planked hulls by the fourth millennium BC (Ward 2006). Such boats not only
+were used on the Nile but could also be dismantled for overland transport to
+the Red Sea, where they enabled participation in maritime trade.
+
+26
+                                           Origins: social change on the lower Nile
+
+
+
+
+Fig. 2.5 Perspective reconstruction of part of a residential area in the New Kingdom city
+of El-Amarna. This was a new city, founded by Akhenaten (c. 1353–1336 BC) and
+abandoned soon after his death. It is one of the few Pharaonic Egyptian cities to have been
+extensively excavated. After Kemp 1991: 295, ﬁg. 98.
+
+
+
+   In addition there are the remains of food and plants. This great range of
+evidence has survived because of the dry climate but also because of Pharaonic
+Egyptians’ concern that their afterlife should be a continuation of their real
+life. Their tombs were frequently furnished with everything to achieve this; the
+Eighteenth Dynasty tomb of Tutankhamun is the most famous example.
+Amongst these items are models mainly of wood, which provide details of
+everyday life during some periods. These depict a wide range of individual
+activities, such as brewing beer, cooking, grinding grain, and milking a cow.
+They also show group activities, such as ploughing with oxen, butchering,
+workers in a granary, sailing and rowing boats, soldiers marching, and a cattle
+census being taken (Tooley 1995). Add to these a variety of other funerary and
+religious artefacts and it is apparent that a detailed picture of Pharaonic
+Egyptian life can be reconstructed, suggesting how much archaeological
+
+                                                                                       27
+Fig. 2.6 Plan of Deir el-Medina village near Thebes, in the Nineteenth and Twentieth
+Dynasties (c. 1292–1075 BC). This New Kingdom settlement housed scribes and workmen
+who constructed the royal tombs, and their families, close to the Valley of the Kings. The site
+has provided useful information about living conditions at the craftsman level of society.
+From Stead 1986: 8, ﬁg. 6. Egyptian life, The Trustees of the British Museum, London.
+                                           Origins: social change on the lower Nile
+
+
+
+
+Fig. 2.7 Plan of the Fatimid city of al-Qahira, founded in AD 969, showing three periods of
+city walls. This city was situated on the site of modern Cairo and excavations have shown
+that it was much larger than seen here. This plan is from a coloured original in which
+Gawhar’s Walls were yellow and do not show here; they enclosed a smaller area than the
+later walls. Badr al-Gamali’s Walls were red and can be seen mostly parallel to Salah ad-
+Din’s Walls, which were in black. Circled numbers 1, 2, 3, and 4 are the locations of
+archaeological excavations conducted from 2001 to 2014. After Pradines 2015.
+Reproduced by permission of Stephane Pradines.
+                                                                                       29
+African Civilizations
+
+evidence must have been lost from many contemporary societies in other parts
+of Africa. However, in the case of Ancient Egypt, perhaps it is human remains
+that provide the most signiﬁcant evidence, especially those preserved by mum-
+miﬁcation. Ideas about an existence after death resulted in great care being
+devoted to mummiﬁcation and burial, for many lesser people as well as for
+rulers and elites (Spencer 1982). This preservation of human tissues now
+provides medical research with unique information on diseases from the third
+millennium BC to the ﬁrst millennium AD (Lambert-Zazulak 2000). Even
+animals and birds were mummiﬁed at times, providing valuable research
+material for zoologists. The practice of human mummiﬁcation continued into
+the Roman period, and by then a realistic portrait of the more wealthy
+deceased was set into the head of the mummy case, probably painted during
+the prime of life (Peacock 2000: 433).
+  Because of the importance of Ancient Egypt for understanding state emer-
+gence and the development of urbanism during the last few millennia BC, the
+above discussion concentrates on that period, reﬂecting the major emphasis in
+archaeological research and publication over many years. However, documen-
+tary and archaeological evidence from Egypt during the ﬁrst and second
+millennium AD is also of signiﬁcance to the study of increasing social com-
+plexity in some other parts of the African continent.
+
+
+Subsistence economy
+Mixed agriculture provided the base of the Ancient Egyptian economy and of
+the economies of periods succeeding it (Baines and Malek 2000: 190–2). The
+main crops were wheat and barley, but a variety of vegetables, fruit, and other
+plants including vines were also grown. Not only were the seasonally inun-
+dated banks and basins of the Nile Valley highly productive in most years, but
+large parts of the Nile Delta also contributed to a food surplus, of which grain
+was routinely stored in silos, some controlled by the state. Ox-drawn ploughs
+were in use (Fig. 2.8), as well as hoes, and the shaduf, a human-powered,
+pivoted, weighted beam, was used to raise water to extend irrigated areas. In
+later times water was also lifted by the saqia, an ox-driven waterwheel, but this
+does not seem to have been introduced until early in the second millennium
+AD. Although arable agriculture provided the most important part of subsist-
+ence, particularly in the form of grain, large numbers of cattle, sheep, goats,
+pigs, and poultry were raised. Nevertheless, it is signiﬁcant that the staple diet
+for lower-status Egyptians consisted of bread and beer, the latter made from
+partially cooked barley bread mixed with water to produce a gruel or soup.
+This was not very alcoholic but it was highly nutritious, more of a food than a
+drink (Kemp 1991: 120). Cattle were milked and milk products contributed to
+
+30
+                                        Origins: social change on the lower Nile
+
+
+
+
+Fig. 2.8 Wooden model of a peasant ploughing with oxen, 43 centimetres long. From
+a Middle Kingdom (c. 1975–1640 BC) tomb. Drawn by John Pratt after Stead 1986,
+front cover. Egyptian life, The Trustees of the British Museum, London.
+
+some diets, but for most people meat was probably limited and from small
+stock, beef being mainly eaten by the elite. Fish from the Nile seem to have
+been widely consumed, but hunting in the desert margins gradually became
+limited to elite sport (Baines and Malek 2000: 193).
+  Agricultural production depended on the labour of large numbers of peasant
+farmers and remained so until the late second millennium AD. It provided the
+bulk of the revenue that supported the Pharaonic Egyptian state and the later
+polities of the Nile Valley. In Ancient Egypt, apart from oxen for ploughing,
+donkeys to help with transport, and some mechanical assistance for raising
+water, it was human sweat that underpinned subsistence, provided by a rural
+population that was subjugated by a divine monarchy and a controlling
+bureaucracy. Although horses were introduced to Egypt as a result of the
+Hyksos invasion and swiftly adopted during the early Eighteenth Dynasty
+(Wilkinson 2011: 257), they seem to have been restricted to elite sport and
+to military use for pulling chariots. Camels, although thought to have been
+present earlier, became important only during the ﬁrst millennium BC (Blench
+2000: 316). Chickens appear to have been introduced to Egypt by the second
+millennium BC (Dueppen 2011: 145), but the general impression of Pharaonic
+agriculture is one of conservatism. It seems that the subsistence economy
+of Ancient Egypt consisted of a highly productive arable and pastoral agricul-
+ture, whose very strength discouraged innovation. It was not until the ﬁrst
+
+                                                                                    31
+African Civilizations
+
+millennium AD, and particularly the early second millennium AD, that a range
+of new crops was introduced that broadened Egyptian agricultural practices
+(van der Veen 2011: 231).
+
+
+Technology
+Both documentary and archaeological evidence indicate an extraordinary
+diversity of technical skill in the Pharaonic state (Lucas and Harris 1962; Shaw
+2012). Extractive industries were amongst the most important, including
+quarrying for building stone, some of it very hard (Lehner 1997: 206–7),
+and mining for gold, copper, and semi-precious stones. Boats on the Nile
+and sledges on land were used to transport quarried stone (Lehner 1997:
+202–5), often in large and heavy pieces, to building sites, where the quality
+of masonry and construction was generally high. In addition, stone was much
+used for sculptures, particularly of pharaohs, gods, and historic events, and
+ﬁne work was produced, often on a massive scale. Inscription-cutters demon-
+strated their ability on many of the buildings, monuments, and sculptures.
+Mud bricks were made and used, especially in less important buildings. There
+was a very wide range of manufacturing (Stead 1986: 36–45; Baines and
+Malek 2000: 194), including metals, wood, pottery, textiles, boat-building,
+salt, jewellery, paint and varnish, papyrus and ink, glass (mainly during the
+New Kingdom), and many other materials. Surveying, engineering, and archi-
+tectural skills were highly developed, as were the mathematical and astronom-
+ical knowledge that underpinned them (Lehner 1997: 212–14). Medical
+knowledge was present (Majno 1975: 69–140) and an ability to write facili-
+tated both intellectual and practical endeavours, although the extent of literacy
+amongst society as a whole is uncertain (Baines 1983: 584). In addition,
+the technology of warfare was given considerable attention; in the second
+millennium BC, for instance, the Egyptian use of the horse-drawn chariot in
+battle was highly effective, as were bows and arrows for many centuries
+(Baines and Malek 2000: 202–3). Some domestic industries were organized
+on a semi-industrialized scale (Baines and Malek 2000: 195), such as bread
+and beer making, butchering, wine making, the production of honey, and the
+manufacture of cosmetics.
+  The range of technology in Egypt seems to have increased from the ﬁrst
+millennium BC onwards, including a greater use of iron in a metallurgy
+previously based on copper and later on bronze. Nevertheless, the diversity
+of technology that existed during the main periods of the Pharaonic state is
+most impressive. Clearly, functional specialization had attained a remarkable
+level, well able to support a complex society of both primary producers and
+urbanites that was normally controlled by a powerful, centralized, autocratic,
+
+32
+                                          Origins: social change on the lower Nile
+
+
+
+
+Fig. 2.9 Two of the Giza pyramids: Menkaure’s in the foreground, Khafre’s in the distance.
+Fourth Dynasty (c. 2520–2472 BC). Photograph by author, 1984.
+
+and bounded state. What is most remarkable, however, is that this apparent
+technological sophistication actually depended on simple technology. Indus-
+tries seem to have had relatively little mechanical assistance; for example,
+during earlier periods even wheeled vehicles were unknown. Instead, technol-
+ogy relied heavily on manual skill and sweated labourers whose willingness
+must at times have been doubtful. It is also apparent that an intellectual
+capacity for problem solving enabled many tasks to be successfully accom-
+plished that might otherwise have been impossible. The Giza pyramids are still
+impressive even today (Fig. 2.9), although they were the product of what, in
+modern terms, was a limited technology. They are notable examples of
+achievement by sheer human endeavour. Like the subsistence economy of
+Pharaonic Egypt, however, so successful was its technology that conservatism
+became deeply ingrained (but see Shaw 2012), and it is arguable that Ancient
+Egypt ultimately failed to keep pace with the changing world around it.
+
+
+Social system
+Pharaonic Egypt was an autocratic society in which the ultimate source of
+power was a ruler with both sacred and secular authority (Wilkinson 2011).
+Supporting that authority was a large priesthood, a literate bureaucracy, and
+an eventually professional army, all three of which gained increasing inﬂuence
+
+                                                                                       33
+African Civilizations
+
+within the state as time went on. During the three millennia that the Ancient
+Egyptian state existed, there were periods of political weakness and even of
+disintegration, but there were also periods when the central government was
+strong and when the state extended its control into adjacent territories in
+Nubia and the Levant. The Egyptian population was stratiﬁed into a hierarchy
+headed by the ruler and his family, with an elite consisting of priests, govern-
+ment ofﬁcials, and army ofﬁcers. Below them were craftsmen practising a wide
+range of skills, merchants who contributed importantly to the economy, and
+soldiers who later were professionals. At the bottom of society was a very large
+peasant class, mostly of subsistence farmers who supplied the state with food,
+in the form of taxes, and provided corvée labour on government mining,
+quarrying, and construction projects (Meskell 2002: 13). Government could
+demand such labour in lieu of taxes, because in theory all land belonged not to
+the farmers but to the pharaoh, although in practice much of it was actually
+the property of temples or of members of the elite. In addition, there were
+slaves, seemingly captives from foreign wars. Wilkinson (2011: 364) has
+painted a grim picture of life for the bulk of the Egyptian population, with a
+lifespan of about thirty-ﬁve years (Meskell 2002: 13 gives thirty-six years),
+afﬂicted by diseases, and kept ‘in a state of permanent penury’ by an oppres-
+sive government and upper class who expended enormous resources on
+making sure that they themselves lived and died luxuriously. It is hardly
+surprising that desperate peasants, determined to have a share of the country’s
+undoubted wealth, robbed many royal and elite tombs during the course of the
+state’s existence.
+   During the eighteenth century AD, Jean-Jacques Rousseau wrote about what
+he called ‘the social contract’, an unwritten agreement between government
+and the governed that beneﬁtted both (Rousseau 1966). In Pharaonic Egypt,
+this contract depended on the people’s fundamental beliefs in a range of gods
+with whom the pharaoh could commune on behalf of the country as a whole.
+This, it was believed, would ensure that the Nile ﬂooded at the right time and
+to the right level and that there was peace and stability within the country. In
+return, particularly the lower classes laboured to do the pharaoh’s will.
+Through the long course of Ancient Egyptian history, this situation varied
+considerably, but it is apparent that slowly the contract failed. Droughts,
+famines, succession problems, instances of weak leadership, political inﬁght-
+ing, and external attack all contributed to this failure, as did the poor treat-
+ment of many ordinary Egyptians by the state. Usually overtaxed and often
+underfed, any resistance by the lower classes to the state was likely to be met
+with violence: beatings, imprisonment, even death were the tools of a repres-
+sive system. As Maisels (2010: 173) has written: ‘State formation in Egypt was
+clearly a product of violence’, and violence was often a major element in
+
+34
+                                       Origins: social change on the lower Nile
+
+ensuring the state’s continuity. The Ancient Egyptian passion for written
+records has provided ample evidence that for the majority this was not the
+golden age that some have subsequently thought it. Yet those same records
+provide exceptions: although primogeniture within the royal family theoretic-
+ally determined Pharaonic succession, nevertheless some pharaohs had humble
+origins and achieved power partly by personal ability; there were even
+instances when women governed in their own right and others where they
+were highly inﬂuential within the state.
+   Overall, it is astonishing that the Pharaonic state survived so long and was so
+frequently able to remake itself after periods of failure. It was based on a
+society characterized by extreme inequality; particularly during its later
+periods it seems that its frequently corrupt and violent government neither
+knew nor cared about the plight of many of its people. There must always be a
+question of whether such a society can endure, but in the case of Ancient Egypt
+it managed to do so for a very long time.
+
+
+Population pressures
+For Pharaonic Egypt, Kemp (1991: 10) stated that by the time of the late
+New Kingdom the total population ‘had probably not exceeded 4 to 5
+million’. In Roman Egypt, for which documentation is much better, Peacock
+(2000: 444) estimated a total of 4.75 million, of which 1.75 million lived in
+towns. These ﬁgures are modest by modern standards, but living conditions
+were very different from those of the modern world. Given the limited
+cultivatable land in the Nile Valley, although augmented by that in the
+Nile Delta, and given a limited agricultural technology, it is possible that
+Ancient Egypt did near its maximum carrying capacity in years of low
+Nile levels when famine threatened. Nevertheless, it is apparent that com-
+pared with neighbouring regions in most years it offered both a bountiful
+environment and a strong economy that attracted migrants. The Asiatic
+Hyksos, the so-called Sea Peoples, Libyans, Persians, Greeks, Romans, and
+Arabs were amongst these. Eventually, migrant inﬂow led to both political
+change and ethnic change and very likely caused population pressure. Indeed,
+at a much earlier date, the origins of the Pharaonic state might be seen
+as partly the consequence of an increasingly crowded upper Nile Valley, as
+climatic deterioration drove in people from the fringing deserts (Hassan
+2002: 323). Lehner (1997: 7) gives an estimated population for Egypt when
+the Giza pyramids were built, in the third millennium BC, of 1.6 million,
+compared with 58 million in AD 1995. He is of the opinion that Khufu’s
+pyramid could have been built by teams of 25,000 men, each team working
+three-month stints for twenty years (1997: 224). That such workforces
+
+                                                                               35
+African Civilizations
+
+could have existed is indicative of a sizeable population. Another indication
+that this was probably the case for much of Ancient Egypt’s history is the
+treatment of those who transgressed: this was a totalitarian state very ready
+to use violence on its population, even death when thought appropriate.
+Life, it appears, was cheap, suggesting that the population was thought
+sufﬁciently large to accommodate such measures of control. Furthermore,
+an indication that life was expendable is the incidence of human sacriﬁce
+at an early date, particularly in the late fourth to early third millennium
+BC (Bard 2000: 71). Overall, it seems likely that population pressure was a
+characteristic of Ancient Egypt, given its limited area, but that relatively
+high productivity counterbalanced this in years when the Nile inundation
+was normal.
+
+
+Ideology
+Ancient Egyptian ideology centred on the unifying role of an absolute ruler,
+the pharaoh, as opposed to the chaos that could result from political and social
+division. It was the divine ruler’s obligation to see that the Egyptian concept of
+right order prevailed. So strongly held were these ideas that even during
+periods of internal dissension or external threat, as Wilkinson (2011: 405)
+has stated, ‘the sheer weight and antiquity of Pharaonic beliefs had a tendency
+to win through in the end’. These beliefs involved numerous gods and god-
+desses with a variety of functions, some of the deities local, some venerated
+throughout the country. Ra, Amun, Horus, Osiris, and Isis were amongst
+the more important, but there was great complexity in religious ideas, which
+also changed as time went on (Baines and Malek 2000: 212–14). Large
+numbers of temples and their priests ensured that appropriate religious cere-
+monies were observed, in the process gradually becoming a powerful element
+in state infrastructure. Thus religious ideology played a major role in the
+functioning of the Pharaonic state, as is evident from the virtual revolution
+that occurred when Amenhotep IV, Akhenaten, attempted to change the state
+religion during the later fourteenth century BC (Wilkinson 2011: 279–300).
+The power of tradition was such that, after his death, his successors speedily
+reverted to previous practices. Ancient Egyptian ideology was more than
+religion, however; there was also a fundamental conviction that Egypt was
+the world, that it was superior, different from the inferior places and peoples
+who lay beyond the deserts to east and west, beyond the Nile cataracts to the
+south, and beyond the sea to the north. As Egypt came to play a greater
+commercial and political role in the region around it, this idea inevitably
+weakened. Although lip service continued to be paid to long-held traditions,
+the desecration and plundering of the tombs of their predecessors by some
+
+36
+                                      Origins: social change on the lower Nile
+
+later rulers (Wilkinson 2011: 395–7) was indicative of a cynicism that would
+eventually contribute to the dissolution of the Pharaonic state. That state had
+depended on a powerful ideological base; when its constituent beliefs failed, so
+did the state.
+
+
+External trade
+Pharaonic Egypt’s location in a major alluvial valley, watered by the annual
+inundation of the Nile, provided food and some resources but lacked other
+raw materials, particularly minerals. However, as already discussed (p. 19),
+Egypt’s geographical position enabled it to obtain these by trade or intimi-
+dation from Nubia to its south and from the eastern Mediterranean and
+South-West Asia to its north. Its commercial activities also extended into
+the surrounding deserts and, by transporting dismantled boats across the
+desert (Ward 2006), also along the Red Sea perhaps as far as the region of
+modern Eritrea. The Nile provided access deep into the African interior,
+with both waterborne transportation and overland routes that cut across
+some of the bends in the river. Gold, ivory, ebony, animals and animal
+skins, incense, and other African exotica were the main attractions to the
+Egyptians. Sinai gave land access to the Levant, and Egyptian shipping
+enabled heavy commodities to be transported relatively easily by sea.
+Wood, copper, possibly tin, silver, precious stones, wine, and oil were
+obtained, in exchange for gold, linen, grain, and, particularly in later
+periods, even papyrus (Baines and Malek 2000: 20). Trade connections also
+introduced to Egypt new elements of material culture, especially during the
+Second Intermediate Period, such as bronze, new crops, the horse and
+chariot, composite bows, and new musical instruments. Although Ancient
+Egypt could provide many essentials, nevertheless trade with surrounding
+regions was vital to its economy; the increasing importance to Egypt of
+access to the resources of those regions partly explains its imperial ambi-
+tions during the New Kingdom. Pharaonic Egypt’s decline as an inter-
+national power during later periods occurred at the same time as a decline
+in its international trade.
+   Ancient Egypt was a nonmonetary economy; coinage was adopted only in
+the late ﬁfth century BC, when the Athenian currency was introduced as
+the monetary standard (Wilkinson 2011: 452–3). Therefore, for most of
+its earlier history, commercial transactions in Egypt used barter but, as
+Kemp (1991: 248, 250) explains, this was not as crude as it might seem.
+It depended on a system in which everything ‘had a value, expressed in
+various units which coincided with quantities of certain commodities’. This
+might appear an inefﬁcient method of exchange, but it was clearly adequate
+
+                                                                             37
+African Civilizations
+
+because it survived for a long time. However, by Ptolemaic, Roman, and
+Islamic times a more complex economic system had developed, which sup-
+ported a more extensive external trade.
+  Light has been shed on this by archaeological investigations at the Ptolem-
+aic and Roman port of Berenike (Fig. 2.10), of the third century BC to ﬁfth
+century AD, on the Egyptian Red Sea coast (Cappers 2006; Sidebotham and
+
+
+
+
+Fig. 2.10 Plan of the main part of the Graeco-Roman city of Berenike, a port on the
+Egyptian Red Sea coast. Darker features are building remains, lighter rectangles are
+excavation cuttings. Contours are at 0.5-metre intervals. After Cappers 2006: 52, ﬁg. 4.3.
+Reproduced with permission of the Cotsen Institute of Archaeology, University of
+California, Los Angeles.
+
+
+38
+                                      Origins: social change on the lower Nile
+
+Wendrich 2007). Archaeological evidence from the Roman (ﬁrst to third
+centuries AD) and Islamic (eleventh to ﬁfteenth centuries AD) ports at Quseir
+al-Qadim on the same coast is also highly informative (van der Veen 2011).
+Situated in a coastal desert, to which food had to be transported from the
+Nile Valley and water from possibly as far, the extremely dry conditions at
+these sites have preserved a wide range of archaeological materials, including
+botanical remains. From Quseir al-Qadim the latter included ninety-ﬁve
+plants important to the economy, providing direct evidence of long-distance
+seaborne commerce and of the introduction of South and South-East Asian
+crops into Egypt and neighbouring areas. Like Berenike, Quseir al-Qadim
+was a transit hub, situated at the Red Sea end of the shortest land route to the
+River Nile, down which imports were passed to Alexandria and on to the
+Mediterranean world and Western Europe. During the Roman period, black
+pepper from India was the most important of the traded commodities, and
+contemporary authors conﬁrm its frequent use in Rome. It continued to be
+important in Islamic times, but the evidence from Quseir al-Qadim shows
+that many other spices were also handled by then, including ginger, turmeric,
+cardamom, fagara (a medicinal fruit from China or the Indian subcontinent),
+and betel nut. In addition, the evidence for introduced crops amongst the
+remains from Islamic Quseir al-Qadim include citron, rice, cotton, lime,
+banana, aubergine, sugar cane, and taro. Huge potential proﬁts from the
+Indian Ocean trade were a major reason for the existence of these ports,
+although the risks involved were substantial. In Islamic times there was also
+the added incentive of an ability to supply food, sourced from the Nile
+Valley, to pilgrims going to or returning from Mecca across the Red Sea.
+Other archaeological evidence from Quseir al-Qadim includes Roman ship-
+rigging artefacts of wood and fragments of Islamic ship timbers, two of the
+former being of teak, which is likely to have come from India. Furthermore,
+participation in the Indian Ocean commerce during Islamic times is indicated
+by the presence of Indian resist-dye textiles, Chinese celadon, and Thai
+ceramics. In addition, details of that commerce during both periods are
+available from documentary evidence. As indicated by the botanical evi-
+dence, Egypt appears to have developed substantial trading contacts with
+both South and South-East Asia by Roman and Islamic times (Fig. 2.11).
+Indeed, maritime trade on the Red Sea and beyond was probably already
+active at an earlier date. At the end of the seventh century BC, the Saite ruler
+Nekau II (of the Twenty-sixth Dynasty) had started to dig a canal between
+the Nile and the Red Sea, which the Persian king Darius I completed in 497
+BC. Subsequently, it seems to have silted up, but this ﬁrst attempt at a Suez
+Canal indicates how important the Red Sea trade must already have been to
+Egypt (Wilkinson 2011: 451).
+
+                                                                             39
+40
+
+
+
+
+     Fig. 2.11 Main trade routes during the Roman period in the Indian Ocean and related regions. This map indicates the extent to which Northeast and
+     East Africa were in contact with other parts of the world. It is an important reminder that even the Africa of two millennia ago should not be
+     considered in isolation. From Cappers 2006: 12, ﬁg. 1.1. Reproduced with permission of the Cotsen Institute of Archaeology, University of
+     California, Los Angeles.
+                                        Origins: social change on the lower Nile
+
+Conclusion
+The archaeology of the Egyptian Nile Valley has frequently been studied
+divorced from the rest of Africa (Exell 2011). Similarly, the archaeology of
+the rest of Africa has usually been perceived as isolated from that of the lower
+Nile. This situation can impede an understanding of state formation and the
+emergence of urbanism in Africa as a whole. An opportunity is lost, not only to
+investigate the earliest example of these processes in Africa, but also to trace
+their vicissitudes over the course of many centuries. Pharaonic Egypt and
+subsequent polities are richly documented by both historical and archaeo-
+logical sources. They show how, in the long term, states and cities can emerge,
+ﬂourish, dwindle, collapse, and form again, in a sequence that can recur as
+political, economic, and social conditions change and as cultures and ideas
+change. These complicated processes are easier to trace in the Egyptian past
+than in that of much of the rest of Africa, where the available evidence is often
+limited and restricted to shorter periods. To write about ‘the rise and fall of
+Ancient Egypt’ (Wilkinson 2011) is surely to oversimplify a situation in which
+such complex societies do not actually ‘fall’ but change into something differ-
+ent as the world around them changes. In the case of Ancient Egypt, it is
+apparent that religious beliefs and cultural practices were so strongly held that
+they limited the capacity for change until the country came, in turn, under
+Persian, Ptolemaic, Roman, and Arab control. It is a ﬁtting reminder that
+culture is dynamic, not static, and that people who actively try to ‘preserve’
+their culture are in the end imperilling their future, a danger that still exists in
+the modern world.
+   The succession of polities in the lower Nile Valley also permits an analysis of
+the circumstances in which they developed, disintegrated, and formed again.
+The major factor in the case of Egypt seems to have been its strong agricultural
+base, capable of producing surplus food not only for local consumption but
+also for export to surrounding, less fortunate lands. A second factor was the
+extraordinarily versatile technology that is so richly documented in the arch-
+aeological evidence. Although limited by its dependence on manual energy and
+skill, with little mechanical input, its achievements are amongst the most
+impressive examples of functional specialization from the premodern age. To
+this should be added the third factor, a social system that provided an enduring
+element within the state and its settlements. Ancient Egypt was a dictatorship,
+a totalitarian state based on a stratiﬁed society in which the individual did
+what he or she was told, at the risk of physical punishment or even death.
+It seems likely that this situation was partly the product of the fourth factor,
+population pressure particularly during periods of low Nile level. Labour and
+life were cheap; the former could be expended extravagantly on public works
+
+
+                                                                                 41
+African Civilizations
+
+of monumental scale, and loss of the latter was part of the price of political and
+social stability and order. Of fundamental importance for the continued
+survival of such an autocratic society was the ﬁfth factor: a powerful state
+religion. In a situation where the ruler communed with the gods, or was even
+perceived as one of them, to disobey was not only treason, it was also sacrilege.
+Religious belief was only one element, however, although probably the most
+important, in an ideology that insisted that everything was for the best as it
+was and that it was vital that it continue. Literacy and education appear to
+have been socially limited, and for the mass of the population it was vital
+to believe that the sun would rise tomorrow and that the river would ﬂood at
+the right season and to a desirable level. Lastly, the sixth factor is that of
+external trade: it is clear that this was of great importance to Ancient Egypt.
+It provided raw materials not available in Egypt itself and, along with highly
+productive agriculture, formed a major part of the Egyptian economy.
+   This analysis of the circumstances of states and cities in the lower Nile Valley
+provides a template for understanding comparable phenomena in other parts
+of Africa. It also serves as a reminder that Africa was never isolated in the past
+and should not be studied as if it was. Egypt was a part of Africa, as it still is,
+and was positioned ‘at the bridge between Africa and Asia, the tropics and
+the temperate zone’ (Baines and Malek 2000: 20). It is vital to understand the
+implications of this if one is to understand Ancient Egypt. Equally, it is vital
+to understand Ancient Egypt if one is to understand Ancient Africa.
+
+
+
+
+42

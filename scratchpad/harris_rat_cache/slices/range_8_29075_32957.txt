@@ -1,0 +1,3883 @@
+===== PAGE 292 =====
+
+The Rise of Anthropological Theory
+
+part of a communication system, and that when our research program
+calls for “cracking” the code which the native communicators em-
+ploy, then that program incorporates the strategy of emic studies. In
+this enterprise it is of no epistemological importance that the native
+users of the system know how to formulate the rules of the code.
+Humans share with other organisms the ability to communicate
+information without being able to say just how the communication
+task gets done. This is a most interesting psychological fact, but it does
+not alter the emic nature of the phenomena under consideration.
+
+INNER PSYCHOLOGICAL STATES
+
+The second great domain of emic studies is concerned with
+the analysis of the behavior stream in terms of the intentions,
+purposes, motives, goals, attitudes, thoughts, and feelings of the
+culture carriers. Benjamin Colby (1966:3) has explicitly linked these
+phenomena with formal semantics by making them the object of
+“ethnographic semantics.” “The ultimate goal is the understanding
+of the evaluations, emotions, and beliefs that lie behind word usage.”
+Although not touched upon by Colby—he specifically rejects the
+suggestion that Morris Opler and Ruth Benedict are relevant (ibid.:
+28)—this is a universe regularly studied by psychologists as well as
+by social scientists.
+
+Two traditions within psychology diverge with respect to the treat-
+ment of these phenomena. The division corresponds roughly to
+the emic/etic distinction in the social sciences. On the one hand
+there is the approach which emphasizes the validity of introspective
+descriptions and verbal reports of inner psychological states. On the
+other, there is the approach, represented by the major neobehaviorist
+learning theory schools, which systematically avoids dependence upon
+states or dispositions which cannot be defined by means of opera-
+tions performed on the external parts and conditions of the be-
+having organism.
+
+In ethnography, an emic approach to purposes, goals, motivations,
+attitudes, etc., is premised on the assumption that between the
+actor and the observer, it is the actor who is better able to know his
+own inner state. Furthermore, it is assumed that access to informa-
+tion concerning the actor’s inner state is essential for an under-
+standing of his behavior and for a proper description of the behavior-
+stream events in which he participates. In most cases, this assumption
+is quite overt, and the postulation of the existence of inner states
+is carried out on such a lavish scale that there is no danger of mis-
+
+574
+
+Y—‘
+
+20. Emics, Ftics, and the New Ethnography
+
+taking the emic nature of the research. This is certainly true whenever
+the ethnographer takes the familiar Boasian position that if only he
+had been brought up as a member of X tribe then his descriptions of
+purposes, goals, motives, etc., would be so much richer by virtue of
+being able to think and feel like a member of that tribe.
+
+CONFOUNDING THE EMIC/ETIC
+DISTINCTION
+
+There are certain options which in their most subtle form
+defeat the emic/etic distinction. Thus it is a commonplace of
+psychoanalytical research and practice that the actor is regarded as
+a poor observer of his own inner state. The analyst’s task is to pene-
+trate behind the facades, symbols, and other defenses to the uncon-
+scious feelings and thoughts of which the actor is unaware. This much
+is etic: the analyst’s statements are not falsified even if it is shown
+that the contrasts which he draws are not significant, meaningful,
+real, or appropriate from the point of view of the actor. On the
+other hand, there also secems to be an assumption that if the actor
+accepts the analyst’s description as corresponding to his own “true”
+inner state, then verification has occurred. To that extent, psycho-
+analytic descriptions are emic. But it should be noted that this
+apparent defeat of the emic/ctic distinction suffers a penalty in the
+form of a low standard of verifiability and a dubious empirical status.
+This penalty is always suffered by those who indiscriminately shift
+back and forth from emic to etic strategies.
+
+DEFINITION OF ETICS
+
+Let us now turn to a provisional definition of etics. Etic
+statements depend upon phenomenal distinctions judged appropriate
+by the community of scientific observers. Etic statements cannot
+be falsified if they do not conform to the actor’s notion of what is
+significant, rcal, meaningful, or appropriate. Ftic statements are veri-
+fied when independent observers using similar operations agree that
+a given event has occurred. An ethnography carried out according
+to etic principles is thus a corpus of predictions about the behavior
+of classes of people. Predictive failures in that corpus require the
+reformulation of the probabilities or the description as a whole.
+
+The definitions set forth here will be best clarified by viewing them
+in the context of some of the major misconceptions which have at-
+tached themselves to the emic/etic distinction.
+
+575
+
+
+
+===== PAGE 293 =====
+
+The Rise of Anthropological Theory
+
+EMICS NOT NECESSARILY LESS
+EMPIRICAL THAN ETICS
+
+In theory, an emic ethnography need be neither more nor
+less empirical, scientific, or intersubjective than an etic ethnography.
+Historically, of course, emic imponderables have been more prevalent
+than etic ones, if for no other reason than that almost all traditional
+ethnography is heavily biased in favor of an emic approach. There is
+no reason, however, why emic statements cannot be operationalized
+to the point of achieving high standards of intersubjectivity, verifia-
+bility, and predictability. Presumably, it is the upgrading of such
+standards which animates the current concern with rigorous paradig-
+matic treatments of emic phenomena.
+
+INFORMANTS MAY SUPPLY EMIC OR
+ETIC INFORMATION
+
+The relationship between an etic perspective and the tradi-
+tional dependency upon native informants for ethnographic infor-
+mation deserves special comment. An ethnography of etic statements
+is not incompatible with operations involving recourse to the informa-
+tion to which an informant has access by means of verbal exchanges
+with him. The critical issue here is whether the information in
+question is etic or emic information. It is emic if the informant’s
+native distinctions, significances, and meanings provide the semantic
+ground for communication between him and the ethnographer. An
+example of the use of an informant to maximize the emic content of
+ethnography is Duane Metzger and Gerald Williams™ (1963a; 1963b)
+“eliciting heuristic.” This method involves a prolonged educational
+exposure during which the ethnographer teaches the informant how
+to teach the ethnographer to think in appropriate emic terms. An
+equivalent amount of effort can be (and often is) devoted to teach-
+ing the informant to think in the ethnographer’s terms, as for
+example, when native assistants learn to measure fields, weigh har-
+vests, take censuses, and describe past and present events in con-
+formity with the categories of significance which the ethnographer
+has brought to the task. When an informant is used etically, he joins
+the community of observers. He becomes the ethnographer’s as-
+sistant, part of a team which can produce more information in less
+time than one man working alone. If the behavior-stream events
+which he reports are scenes in which he himself is involved, then it
+
+576
+
+20. Emics, Etics, and the New Ethnography
+
+is expected that his report of his own behavior will be as close as
+possible to that which would have been obtained had the scene been
+recorded on film and tape.
+
+EMICS CANNOT BE TRANSMUTED INTO
+ETICS
+
+One of the categories of etic, “nonstructural” classifications
+foreseen by Pike allows for a mixture of emic and etic operations:
+
+The units of behavior, though classified without reference as such
+to the individual systems from which they were abstracted, may
+nevertheless be classified in reference to the fact that they were in
+fact abstracted from purposive human behavior, so that elements
+of meaning or purpose constitute one of the sets of criteria for
+such etic classification [1954:9].
+
+This type of etic description is an anomaly for which there can be
+no epistemological justification. By admitting units which are simul-
+taneously emic and etic, we reduce the distinction to the “anemic”
+status assigned to it by Gerald Berreman (1966).
+
+It is this misconception which led Sturtevant (1964) to make
+the historically misleading claim that Kroeber's 1gog treatment of
+the semantic dimensions of kinship was “the basic paper on the etics
+of kinship.” But as we have seen, (p. 321ff.), the whole point of Kroe-
+ber’s famous article was to replace Morgan’s sociological treatment
+of kinship with a linguistic treatment. The eight “principles or
+categories of relationship” proposed by Kroeber are categories alleged
+to underly “the hundreds or thousands of slightly varying relation-
+ships that are or can be expressed by the various languages of man”
+(KROEBER 1952:176). If a semantic distinction is found in more than
+one culture this does not mean that such distinctions cease to be
+semantic in nature. Concepts such as filiation, agnation, territoriality,
+9wnership, affinity, religion, unilineal descent group, etc., are applied
+in a wide variety of cross-cultural contexts. The test of whether these
+are ctic or emic concepts resides in their logico-empirical relationship
+to cognitive processes. If the verifiability of an ethnographic state-
+ment involves a confrontation with cognitive adequacy or appropri-
+ateness, then we are dealing with emic categories, no matter how
+many cultures contribute to that confrontation. Identification of
+similar emic categories merely establishes such categories as cross-
+culturally valid logico-empirical abstractions; it does not transform
+them into etically derived phenomena. As we have seen, the data
+
+577
+
+
+
+===== PAGE 294 =====
+
+The Rise of Anthropological Theory
+
+language of cultural and social anthropologists derives from a melange
+of emic and etic operations which it will undoubtedly take several
+generations to unscramble.
+
+KINSHIP AS A MIXED DOMAIN
+
+The domain of kinship has not escaped this confusion be-
+tween emic and etic phenomena. Floyd Lounsbury’s (1965:191)
+assertion that “kin types” are a composite of the semantic discrimina-
+tions made in many societies (cf. HAMMEL 1965:67-68) is historically
+inaccurate. Genealogical reckoning was mnot invented by anthro-
+pology. The apparent success of a mating, reproduction, and genealogy
+frame for eliciting categorizations which arc amenable to contrastive
+analysis has an etic basis: mating, reproduction, and genealogical
+relationships have a rather precise biological meaning. The ethno-
+graphic mating, reproduction, and genealogy frame, however, is a
+lethal mixture of emic and etic categories. For a biologist, all fertile
+matings are equally relevant for tracing genealogical connections;
+for the ethnosemantics of kinship, only those matings and genealogi-
+cal connections which occur in and through “marriage” are relevant.
+In order to elicit questions about kinship, the ethnographer must
+first discover an intercultural gloss for the particular kind of mating
+which in English goes by the name of “marriage.” Incidentally, in
+the search for the native equivalent, it must be remembered that
+the informant, if he has not already fallen victim to a standardized
+equivalence, is also straining to find the proper gloss for the ethnog-
+rapher’s concept. Murdock (1949:1) defines the family in such a
+way as to commit us to a consideration of whether there is a “socially
+approved scxual relationship between mated pair.” Having children
+and feeding and housing them is an etic phenomenon, but doing it in a
+socially approved manner puts the whole matter in an eminently
+emic frame.
+
+Lounsbury’s “kin types” are thus etic and emic composites, and
+Goodenough’s (1964b:10-11) claim that the analogue of phonetic
+notation has already been developed for kinship studies is true only
+for the biological frame. It does not apply to the emic aspects of
+kinship. How else do we explain the seemingly endless quest for
+the meaning of marriage and descent? A recent exchange between
+David Schneider (1964; 1965b) and John Beattie (1964b; 1965) rests
+on the conviction that there must be a cross-culturally valid emic
+definition of kinship distinct from a biological genealogy; but they
+are unable to agree on what it might be. Beattic solves the problem in
+a highly instructive fashion:
+
+578
+
+e
+
+20.
+
+Emics, Etics, and the New Ethnography
+
+What kinship as an anthropological concern is all about are those
+social relationships, whatever their social and cultural content,
+which the people who have them think about and talk about in
+the idiom of kinship [1965:123].
+
+Aside from the biological reproduction frame, the content of kin-
+types is emic and must always remain emic until the observers decide
+what bits of behavior (analogous to phones) will constitute the
+minimum etic definition of marriage and descent. It is an error of
+capital importance to supposc that the scrambling of the etic and
+emic components in the study of kinship will convert one into the
+other. Indeed, as far as American cultural anthropology is concerned,
+there is a strong presumption of cause and effect between this
+misconception and the fact that no consistent etic treatment of
+marriage and kinship has been attempted.
+
+CAN EMICS BE STUDIED ETICALLY?
+
+An etic approach, by definition, avoids the premises of the
+emic approach. From an etic point of view, the universe of meaning,
+purposes, goals, motivations, etc., is thus unapproachable. But to
+insist upon the separateness of emic and etic phenomena and research
+strategies is not to affirm a greater or lesser “reality” or a higher or
+lower scientific status for either of them.
+
+BOTH EMIC AND ETIC DATA CAN BE
+STUDIED CROSS-CULTURALLY
+
+It should be obvious that emic phenomena can be studied
+cross-culturally. The question of whether patrilineal descent rules or
+Omaha kinship terminology recurs in different societies has nothing
+to do with the emic/ctic distinction per se. Rather what is involved
+is the setting of intersubjective standards of similarity and difference.
+Both emic and etic phenomena may be defined with an abundance of
+detail sufficient to confound an attempt to find replicative instances
+anywhere in the behavior stream. The previous chapters demonstrate,
+however, that a conscious and overt commitment to the study of
+inner meaning and psychic complexities has usually been associated
+with a considerable amount of indifference toward the quest for the
+scientific explanation of sociocultural differences and similarities. In the
+case of the new cthnography, the prevailing research strategy frequently
+seems to be unconcerned with whether new insights into diachronic
+and synchronic regularities will result from the higher standards of
+emic descriptions that are being developed at heavy costs in research
+
+579
+
+
+
+===== PAGE 295 =====
+
+v—ﬁ
+
+20. Emics, Etics, and the New Ethnography
+
+The Rise of Anthropological Theory
+
+and publication resources. Harold Conklin (1964:26), for example,
+has listed (1) appropriateness of anticipation, (2z) replicability or
+testability, and (3) economy as the criteria by which ethnographic
+statements must be evaluated. A number of other ethnosemanticists
+have concerned themselves at length with the question of whether
+their models represent as closely as possible the way in which the na-
+tives actually think (A. F. c. WALLACE 1965; BURLING 1964; HYMES 1964a;
+ROMNEY and D'ANDRADE 1964). But few if any of the ethnosemanti-
+cists have considered the question of how to distinguish important
+from unimportant ethnographic descriptions. With all due regard to
+the need for the widest latitude of interests in a common scientific
+endeavor, it cannot be said that an important ethnographic descrip-
+tion is one which is merely accurate, elegant, and economical. Scientific
+ethnographic models pay their way to the extent that they link up
+with theories which explain diachronic and synchronic differences
+and similarities. Admittedly it is not always possible to know in
+advance when and how such a link-up will be achieved; but in the case
+of ethnosemantic studies there are a number of historically demon-
+strated adverse considerations, of which the practitioners seem un-
+aware.
+
+EMICS/ETICS VERSUS IDEAL/ACTUAL
+
+On superficial inspection the contrastive research strategies
+suggested by the well-worn phrases “ideal versus actual behavior” or
+“ideal versus actual culture” would scem to be aimed at the same
+distinction as that which is involved in emics versus etics. But the
+two sets of strategies do not share much in common; indeed they
+derive from very different epistemological positions. The ideal/
+actual distinction is not grounded in the consideration of how one
+can know that cultural things are what they are said to be by the
+ethnographer. Instead it merely assumes that there is ome set of
+patterned regularities consisting of what people say or believe about
+what they do or should do and another set of patterned regularities
+concerned with what they “actually” do. In the ideal/actual con-
+trast, the problem of specifying the operations by which one gets to
+know what people “actually do” is not even broached, whereas in the
+emic/etic frame this problem is fundamental. The entire weight of
+the latter dichotomy rests upon the epistemological significance of
+describing cultural things through categories and relations which are
+necessarily isomorphic with those appropriate or meaningful to
+the actors, as opposed to categories and relations which arise inde-
+pendently in the cthnographer’s data language. Thus, actual behavior
+
+580
+
+can be treated in both an emic and an etic fashion. An informant’s
+description of what is actually happening at a festival, during a work
+scene, or inside a household need not correspond to what the ethnog-
+rapher sees or would see in the same situations.
+
+Let us take as an example the ideal behavior by which captains of
+certain Bahian fishing boats are said to locate the ocean spots over
+which their boats anchor and the fishing lines are dropped. Identifi-
+cation of the proper spot, as small as a room, seven or eight miles
+out at sea, is supposed to depend upon the lining up of two or
+more pairs of landmarks. The memorization and sighting of these
+landmarks is the special responsibility of the captain, whose reputa-
+tion can be measured by the size of the catch, ability to attract and
+hold good crews, and keenness of memory and eyesight. Now it is
+quite possible to describe this whole complex as actual behavior in
+terms of the emically significant categories of spots, landmarks, eye-
+sight, and memory. Indeed, one can actually see and hear the captain
+look for the landmarks, mancuver the boat into position, order the
+sails down and the anchor dropped; and one can actually watch the
+fishing commence over the “spot.” Actual culture here corresponds
+to a large degree to ideal accounts of it. But both accounts are emic.
+There is another way to look at the performance in question. The
+clue to this additional perspective resides in the fact that when the
+captain locates the spot and the men start to fish, they not infre-
+quently fail to catch a single fish. On such occasions the captain
+explains that the fish are not home, that they have gone visiting else-
+where, and he orders the boat off to another spot. The etics of the
+matter do not commit us to a description of this behavior in terms
+of the captain’s emically appreciated skills. One also observes the
+constant use of a plumb linc, and there is a widespread knowledge of
+the relationship between type of bottom, water depth, and type of
+fish likely to be found in broad zones as opposed to “spots.” An etic
+account of the fishing complex includes a description of the patterns
+of behavior by which the captain maneuvers his craft, but the
+activity involved in his peering at the horizon does not carry the
+meaning it has in an emic account of actual behavior. Instead of
+accepting the emic version of actual culture as an adequate descrip-
+tion of what it takes to be a successful captain of a fishing boat, the
+ctic categorizations open quitc a different cthnographic trail. An
+analysis of the relationship between age of captain, size of catch, and
+stability of crew reveals that younger, more active and vigorous
+men who do not drink, who work hard, and who manifest a “protes-
+tant” kind of behavior (an eminently etic category since they are all
+“Catholics”) are the ones who are likely to be successful captains
+
+581
+
+
+
+===== PAGE 296 =====
+
+The Rise of Anthropological Theory
+
+around whom the reputation for keen landmark sighting and
+good “spot memory” will develop (xorTAK 1966:210 ff.).
+
+Cultural anthropology will not easily overcome its heritage of
+ethnographies of actual behavior carried out in a manner which per-
+mits slipping back and forth from an emic to an etic frame in an
+unconscious and unpredictable fashion. The effect of the lack of at-
+tention to the emic/etic distinction has been especially deleterious in
+the ethnography of primitive and peasant economic systems where
+descriptions of essential economic processes have been obscured and
+distorted by emic descriptions of actual behavior. Malinowski’s de-
+scription of the Kula (p. 563) is a classic instance, to which we have
+already referred.
+
+SHOULD ETICS REPLACE EMICS?
+
+One no sooner suggests that an etic research option de-
+serves special emphasis than he is represented as proposing that all
+studies of semantic domains, goals, and purposes should cease at
+once. Even if some advantage accrued to such a proposal, it is
+difficult to imagine a more unlikely development in the context of
+the research establishment’s vested interests in emic matters. But no
+advantage would accrue to a research strategy concerned exclusively
+with etic phenomena. The whole point of insisting upon etic studies
+is that one wishes to explain the emic universe to which as actors
+in our own culture we are ineluctably bound. Actually, the shoe is on
+the other foot. If there is danger of intradisciplinary imperialism
+whereby one strategy deliberately denies the validity of alternative
+rescarch options, it is the etic approach which has suffered the effects
+of sweeping programmatic manifestos. Let it be recalled that Sapir
+declared that it was “impossible” to describe behavior-stream events
+in an etic data language. The declarations of Frake (1964b) and
+Sturtevant (1964), which are discussed below, are simply the latest
+in a long series of strategically extreme proposals directing the
+attention of cultural anthropologists away from the etic substance of
+human behavior. Comparably exclusionist proposals have never been
+made against emic studies.
+
+AMBIGUITY AND THE LINGUISTIC
+MODEL
+
+The fundamental error of the new cthnography is that it is
+based upon a patently false analogy between vernacular codes on
+the levels of phoneme, morpheme, and syntax on the one hand,
+
+582
+
+e
+
+20. Emics, Etics, and the New Ethnography
+
+and on the other, the higher-order codes which are in some way
+related to the semantics of everyday speech behavior and the his-
+torical unfolding of nonverbal behavior-stream events. In linguistic
+analysis, it is assumed in theory and followed in practice that the
+phonemic, morphemic, and syntactic descriptions of a language can
+be achieved by working with a very small group of informants. This
+procedure is justified by the empirically established fact of the uni-
+formity of the sound discriminations which constitute the basis for
+verbal communication. Whatever clsc a speaker must accomplish, he
+must be able to convince his fellows that he has something to say
+that they could understand if they wanted to. The actor who speaks
+gibberish, who mumbles or garbles his words, who uses deviant
+pronunciations or otherwise fails to demonstrate that he is in a
+condition to deliver an intelligible message, is seldom accorded a
+serious audience (except for ceremonial or ritual performances in
+which paralinguistic codes bear the burden of the message). The
+lack of tolerance for such deviations emanates from the most pri-
+mordial functional conditions underlying the evolution of language,
+whereby viable ratios of signal to noise have become established.
+These linguistic features evidently enjoy a selective advantage of
+the highest magnitude.
+
+The theory and fact of vernacular communication on the level of
+pragmatics, however, point to another and opposite set of conditions.
+To be sure, many complex messages derive their functional signifi-
+cance from their high signal to noise ratio; however, there are also
+powerful psychological and sociocultural functions which are fulfilled
+by complex messages which are perfectly communicative on the
+phonemic, morphemic, and syntactic levels, but ambiguous or quite
+unintelligible in other respects. Such messages are demonstrably
+characteristic of whole cognitive domains. The semantic ambiguity
+characteristic of such activities as poetry, art and literary criticism,
+eschatology, traditional philosophy, and theology in our own cultural
+experience cannot be dismissed as epiphenomenal or as subcultural
+variations. There is no reason to suppose that uniformity of under-
+standing in such domains has a functional significance which out-
+weighs the obvious benefits of ambiguity, obfuscation, and individual
+variation. What our ethnoscientists scem to be unprepared for is
+the contingency that in human cultural repertoires there may ac-
+tually be more domains which derive their salient semantic order
+from ambiguity and variation than there are domains whose orderli-
+ness reflects consensus and uniformity.
+
+Brazilian racial categories, of which several hundred have been
+discovered, constitute an example of an eminently ambiguous and
+
+583
+
+
+
+===== PAGE 297 =====
+
+v‘
+
+The Rise of Anthropological Theory
+
+20. Emics, Etics, and the New Ethnography
+
+highly idiosyncratic semantic domain (HARRIS and XOTTAK 1963;
+HARRIS 1967). Precision and clarity in this domain would conflict with
+the main etic features of Brazilian social structure. A similar func-
+tional utility is associated with the emic definition of class in con-
+temporary United States stratification hierarchies (cf. vipicH and
+BENSMAN 1958). The functional nature of the ambiguity in caste
+and kindred in Ceylon has been impressively demonstrated by S. J.
+Tambiah (1965). Stanley Freed (1963) has measured the degree of con-
+sensus concerning caste ranking in Uttar Pradesh without considering
+the possible functional significance of the demonstrated lack of agree-
+ment. Yet such an interpretation is clearly warranted by Bernard
+Cohn’s (1955) description of caste mobility through litigation and
+violence. The structural significance of cognitive ambiguity is also
+implicit in Leach’s analysis of the “gumsa” ideology of Kachin social
+structure. As Leach (1965b:10) points out, “The ethically correct ac-
+tion for a Christian businessman is often equally ambiguous.” Leach’s
+conceptualization of matrilateral prescripticn involves a rigid dichoto-
+mization of wife-giving and wife-taking groups. According to William
+Wilder (1964:1370): “Granted the uniqueness and permanence of the
+mayu-dama relationship (the alliance set up by cross-cousin marriage),
+the whole kinship terminology falls into place as a consistent whole
+.. .; without that assumption the classifications are chaotic. It can be
+said with equal emphasis however that without the observed ambiguity
+in the mayu-dama ideology, Kachin social structure would be reduced
+to chaos.
+
+The vast and acrimonious debate which has centered on the
+attempt to distinguish prescriptive from preferential marriage rules
+(see Chap. 18) derives its monumental futility from the same error.
+Given the fact that 30 percent of the recorded Purum alliances are
+contrary to the rule of matrilateral prescription, it seems likely
+that the mental state of some of the Purum is not compatible with
+Rodney Needham’s splendid certainty regarding how they should
+behave.
+
+It is interesting to note that Pike’s (1954:80) advice on how to
+handle emic ambiguity has been largely ignored:
+
+A theory of the structure of behavior must leave room for variants
+in both form and meaning, but without being able to provide any
+absolute measure of just how much alike or just how different
+cither form or meaning or the form-meaning composite may be
+before one can no longer cquate two items. In our present theory
+we state that the indeterminacy lies in the data, within the struc-
+
+584
+
+ture, and that any arbitrary attempt to force a decision one way
+or another in certain instances does violence to the structure
+rather than clarifying it.
+
+In view of this admonition, the attempt to maximize the order in
+emic phenomena by regarding ambiguity as either inconsequential or
+as the result of error is a false strategy.
+
+Before a domain is subjected to formal analysis, we must be told
+something about the generality of the distinctions and contrasts in
+terms of specific historic events and people. It is remarkable how
+little attention has been paid to this issue especially when one con-
+siders the importance of statistical data-gathering techniques among
+the operations of contemporary social psychology. Indeed, much of
+the new ethnography appears to be social psychology shorn of its
+statistical base. At least one ethnosemanticist, Goodenough (1965b),
+appears to have settled down with the data obtained from only one
+informant. Although Conklin (1955:340) reports that he obtained
+color naming responses from “a large number of informants,” the
+relationship between individual responses and the four-way classifica-
+tion about which there is said to be “unanimous agreement” (ibid.:
+341) is not specified, despite the fact that this agreement exists side
+by side with “hundreds of specific color categories, many of which
+over-lap and inter-digitate” (ibid.).
+
+Charles Frake (1961:125) reports that “informants rarely disagree
+in their verbal descriptions of what makes one disease different from
+another.” It would seem important for us to know just what this
+“rarely” means. Did Frake’s informants represent all Subanum actor
+types? Given the fact that medical expertise is seldom uniformly
+distributed in a population, it would not be unexpected that “rare”
+disagrecment was frequent disagreement at least in certain sex and
+age categories.
+
+PROBLEM OF THE WELL-INFORMED
+INFORMANT
+
+Since much of the terminological data which provides the
+basis for the ethnosemantics of kinship derives from fieldwork that
+can no longer be repeated, there is little hope of correcting for
+overagreement in the formal accounts. All too often, the data have
+been obtained from a few “wellinformed informants” (Back 1960).
+My own encounter with individual variation and ambiguity in the
+terminology of the Bathonga of southern Mogambique may serve as
+an example. Convinced by my reading of Radcliffe Brown (1950:34)
+
+585
+
+
+
+===== PAGE 298 =====
+
+The Rise of Anthropological Theory 20. Emics, Etics, and the New Ethnography
+
+that I was dealing with an Omaha system, I shrugged off the re-
+sponses of a half dozen informants until I finally found someone
+who “really knew” the system. The justification for this was that
+the Bathonga were undergoing intensive acculturation, in an area where
+a considerable mixture of Zulu, Ronga, and Shangane “tribes” was
+taking place. It seemed best to work with someone who remembered
+the old system. But Henri Junfod (1913), who had studied the
+Bathonga sixty years ago, had already noted four alternate terms for
+mother’s brother’s son: makwabu (sibling); nwana (child) (1912:
+220); malume (mother’s brother); and kokwana (grandfather)
+(ibid.:229). What I encountered in some of my “ill-informed in-
+formants” was an even greater measure of confusion. Thus, while
+Junod attributed the substitution of the grandfather term (kokwana)
+for mother’s brother (malume) as a dialect difference, I kept running
+across people who insisted that both malume and kokwana were
+appropriate! Now these departures from the Omaha system are of
+the precise order of difference which Lounsbury (1964:354) regards
+as requiring the establishment of separate subtypes of Crow and
+Omaha terminology. It may be that these variations can be handled
+as subcultural or dialect differences taking place inside different
+heads. On the other hand, it is equally plausible that these variations
+take place inside the same head. Indeed, this is true for many Bath-
+onga in the modern situation. If that is the case, then an “adequate”
+cthnography must express the ambiguity of the system, and it must
+do so statistically.
+
+The way in which the emic formalists have handled this problem in
+the treatment of American kinship terminology is scarcely reassuring.
+Goodenough has referred to his “dialect” as a means of escaping the
+fact that his understanding of “correct” kin terminological usage
+does not correspond to mine. Several important foci of functionally
+important ambiguity in the American cognitive calculus of kinship
+probably get swept under the rug by this maneuver. One strongly
+doubts, for example, that Goodenough’s (1963a:206) lumping of Pa
+Pa Pa Sb Ch and Pa Sb Ch Ch Ch along with Pa Sb Ch as “my first
+cousin” is merely a matter of dialect or subcultural variation. Is it a
+valid cognitive principle of American kinship that “first cousin” need
+not be included in the basic corpus of kinship terms because it is not a
+lexeme? Goodenough proposes that he is representative of significant
+numbers of Americans in believing that we cannot say “No, he is
+my half brother” but that we can say “Yes, he is my half brother”
+(ibid.:265) in responsc to the question, “Is he your brother?” Such
+convictions mask the fact that many Americans have trouble applying
+kinship terms to relatives outside of a small span of kin types with
+
+586
+
+whom they have significant etic transactions. In this connection,
+Schneider (1965a), who uses a more generously functional approach
+to the question of American kinship, refers to the “fuzzy boundary
+and fadeout principles” (ibid.:291) but does not drive home the
+consequences of this fuzziness for a strategy which is inherently in-
+capable of accommodating ambiguity.
+
+Goodenough'’s assumptions need to be tested against sample popu-
+lation responses under standardized conditions. This is especially true
+of some of the basic themes which are taken as underlying the
+construction of a componential grid. For example, it is claimed that
+an American husband cannot disown his wife’s child and keep his
+wife (ibid.:287n). Yet it is common knowledge in welfare circles
+that such cases frequently show up in adoption courts; it cannot be
+left to intuition to decide the rules by which Americans in general
+cognize extramarital pregnancies in wedlock.
+
+A potentially important step has been taken by A. K. Romney
+and Roy D’'Andrade (1964) in their use of samples of public high
+school students to obtain lists of kinship terms and other relevant
+responses. Unfortunately, the implications of their findings are not
+developed out of deference to the task of finding the correct set of
+rules in conformity with the linguistic model. Thus, in one of Romney
+and D’Andrade’s samples, modifier terms which occurred with a
+frequency of less than 25 percent with a core term (e.g., great uncle)
+were excluded from consideration. Then, an additional simplification
+was achieved by excluding responses of subjects whose use of modifiers
+constituted a pattern found in less than 10 percent of the sample of 105
+(ibid.:156). By this sloughing off of “idiosyncratic or variant” answers,
+the conclusion is reached that “cousin” in our terminology takes only
+one modifier, “second” (ibid.:156, Table II).
+
+None of the attempts to define the basic cognitive features of
+American kinship terminology has thus far made concessions to
+the possibility that ambiguity is one of the salient characteristics of
+this domain. Wallace and Atkins (1960), Romney and D’Andrade
+(1964), and Goodenough (19635a) each operate with a different inven-
+tory of basic American kinship terms. Variant treatments by David
+Schneider (1965a) and Munroe Edmunson (1957) ought also to be
+considered in estimating the scope of the problem which has yet to
+be met head on. Conklin has suggested that American anthropologists
+who do not know their native terminology had better take steps
+to learn it. They are urged to consult:
+
+an explanatory note on “The Mathematics of American Cousin-
+ship” in a recent issue of the Kroeber Anthropological Socicty
+Papers (Roark, 1961). Therc, the purpose in providing such a dc-
+
+587
+
+
+
+===== PAGE 299 =====
+
+The Rise of Anthropological Theory
+
+vice is explicitly the resolution of a frequently met ambiguity
+and lack of common knowledge among American anthropologists
+as to the steps required in reckoning degrees of cousinship in
+English [1964:34]!
+
+This advice carries an implicit warning concerning the kinship
+terminologics of the natives in other cultures: If you don’t know
+your own minds, we'll teach you. In this vein, one is reluctant to
+share Dell Hymes's (1964a:34) nostalgic reverie over “The nights of
+beer drinking and brain wracking spent in the Rainbow Cafe at the
+edge of Warm Springs reservation” with Philip Kahclamet, “the
+most knowledgcable and fluent speaker of Wishram.” There is also
+the experience reported by Anthony Wallace (1965:237) with a
+Japanese informant who brought along a friend “to check the ac-
+curacy” of her kinship definitions: “The informant never completely
+accepted our view that her task was to give personal usage; she felt
+that she was a representative of Japan and should be ‘correct.””
+
+Among the ethnosemanticists, Hymes has cautioned against trans-
+ferring data-gathering techniques appropriate to phonemics and gram-
+mar to higher-order semantic phenomena. Hymes secs an “ethnogra-
+phy of speaking” as providing the antidote for the lack of information
+about the settings and variations in speech behavior which derive
+from “the implicitly normative stance long characteristic of linguistic
+theory in prescribing its object” (mymEs 1964a:41). He goes on to
+point out that other functions fulfilled by agreement about referential
+meaning are not always the prime function of speech behavior:
+
+(e) From the standpoint of a general theory of language and its
+functioning, it is simply the case that some of the functions of
+languages in communities do call for approximation to indepen-
+dence of context, simple uniformity, and primacy of organization
+about the function of reference, three assumptions so common to
+descriptive linguistic theory—and some do not [ibid.].
+
+It is to be hoped that Hymes’s suggestions for placing the study of
+speech behavior in a more realistic and more ample functional context
+will be given the attention they merit. In the meantime, the failure of
+American ethnologists to agree on the analysis of their own native
+terminology, the evident tendency among ethnosemanticists to ac-
+cept the cognitive expertise of the well-informed informant, and the
+failure to accommodate the possibility of functional ambiguity sug-
+gest that the ethnosemanticists must take a more critical look at
+their basic assumptions. The brilliant efforts lavished upon placing
+second cousin, half brother, and grand niece in a single paradigmatic
+semantic space may actually result in a serious distortion of emic
+
+588
+
+20.
+
+Emics, Etics, and the New Ethnography
+
+facts. At the very least, the difficulties and shortcomings of the treat-
+ment of American terminology provide a firm basis for skepticism
+regarding the attempt to push the study of major terminological
+systems into the numerous refinements which are possible if terms
+for kin types representing all shades of ambiguity and psychological
+and social significance are jammed into the same frame.
+
+EMICS AND ACTUAL VERBAL BEHAVIOR
+
+Consideration must be given to the prominence of operations
+involving artificial eliciting situations in the construction of the formal
+analyses of the new ethnography. This has meant that much of the
+basic data employed consists of verbal statements in which people say
+what they would say under given hypothetical circumstances. As Frake
+(1961:63) has put it: “Given a set of contrasting disease names, the
+problem remains of determining the rules which govern the assigning of
+one name rather than another in a particular diagnostic situation.” This
+is the problem of referential as distinct from abstract meaning
+(HARRIS 1964a:156). For example, most Brazilians verbally agree on
+the contrasts out of which rules for distinguishing between a “preto”
+(“black”) and a “branco” (“white”) can be constructed. Yet these
+rules are demonstrably inadequate for predicting when a specific
+individual will call another “preto” or “branco.” In real life a whole
+new set of factors enter which may involve calculi from domains far
+removed from “racial” categories. Thus as Hymes implies, there is an
+air of scholasticism or of arm chair detachment about much of
+the formal analysis of the new ethnography, even when we restrict
+ourselves to the question of the rules which govern verbal behavior-
+stream events. It is as if a generation of anthropologists had never
+observed hesitation, “change of mind,” “groping for the right word,”
+argument, lying, puzzlement, and many other ordinary speech phe-
+nomena.
+
+EMICS AND NONVERBAL BEHAVIOR
+
+But social and cultural anthropology enjoys a more ample
+scientific mandate than the study of what people say they will say.
+There remains the question of what they say they will do, and of the
+relationship between these sayings and the nonverbal happenings of
+history.
+
+Now whatever doubts may exist concerning the appropriateness of
+the linguistic model for verbal behavior, the application of that model
+
+589
+
+
+
+===== PAGE 300 =====
+
+The Rise of Anthropological Theory
+
+to nonverbal behavior is even more powerfully ill-advised. Evidence of
+both a logical and empirical nature from many different quarters and
+cultures indicates that emic rules of behavior are a poor guide to histori-
+cal events and etic regularities in economic, social, and political sub-
+systems. If permitted to develop unchecked, the tendency to write
+ethnographies in accord with the emic rules of behavior will result in an
+unintentional parody of the human condition. Applied to our own
+culture it would conjure up a way of life in which men tip their hats
+to ladies; youths defer to old people in public conveyances; unwed
+mothers are a rarity; citizens go to the aid of law enforcement officers;
+chewing gum is never stuck under tables and never dropped on the
+sidewalk; television repairmen fix television sets; children respect
+their aged parents; rich and poor get the same medical treatment;
+taxes are paid in full; all men are created equal; and our defense
+budget is used only for maintaining peace. Elsewhere it would turn
+the Chinese family into a Confucian fantasy (FrIED 1953); invent
+Hindu farmers who starve in order to avoid harming their sacred
+cows (HARRIS 1966a); spread the idea that the Portuguese have no
+racial prejudice (HARRIS 1964b; 1966b); and convince a whole genera-
+tion of introductory anthropology students that the Zufii never get
+drunk (see p. 406). If Jules Henry’s recent study of American
+culture is at all accurate, American anthropologists should be es-
+pecially skeptical of ethnographies in which the rules of behavior
+dominate the rules for breaking rules. Commenting upon the per-
+vasiveness of cheating amorg American school children, Henry (1963:
+205-6) writes: “An honest adolescent life could be a crippling
+preliminary for many phases of contemporary culture.” Granted that
+this may be a specialty of industrial civilization, it nonetheless poses
+an empirical question which cannot be left unanswered when Pangloss-
+ian grammars are attempted for other cultures.
+
+In attempting to demonstrate that the grammar of normative status
+and role behavior among the Trukese is not “an exercise in sterile
+formalism,” Goodenough (1965b:19-20) presents the case of a father
+who struck his married daughter. This act violated five of the six
+rules in Goodenough’s emic “Duty Scale”: Trukese fathers should
+crouch or crawl if a married daughter is seated; they should avoid
+initiating action; honor any request; avoid speaking harshly; and
+never assault the daughter “regardless of provocation” (ibid.:11-12).
+Instead of being dismayed by the discovery that all of these rules
+were flouted right before his eyes, Goodenough takes comfort from
+the fact that thc woman in question had in turn been breaking
+another series of rules! “Her petulant behavior had been getting on
+
+590
+
+20. Emics, Etics, and the New Ethnography
+
+her kinsmen’s nerves for some time . . .,” and she had indulged in
+“an early morning tirade against her husband whom she suspected of
+having just come from an amorous visit to her lineage sister next
+door.” Tt was therefore “poetic justice,” remarks Goodenough, for
+the woman’s father to hit her: “A good hard jolt was just what she
+deserved,” he says. It seems to me that Goodenough derives the
+wrong moral from this episode. So blatant a failurc of a set of rules
+to predict behavior requires a rewriting of the rules. Just how often
+do these good hard jolts get delivered? And do the injured ladies
+
+agree with the anthropologist that a good hard jolt is just what
+they need?
+
+EMICS AND THE SCIENCE OF TRIVIA
+
+Referring to the accomplishments of ethnosemantics listed by
+Frake (1964b:143), Berreman (1966:351) notes:
+
+None of these descriptions, whatever the virtues, can in them-
+selves be called very significant . . . they remind of Mills’ warn-
+ing that many sociologists have gotten to the point where they
+overlook what is important in their search for what is verifiable
+
+. many have worked so hard on what is trivial that it comes to
+appear important. . . .
+
+It is no accident that formal analysis has so often been taken
+to task for its involvement with trivia (KEESING 1966:23; SWEET
+1966:24-25). It is probably only with respect to statistically insignifi-
+cant or scientifically trivial performances that behaviorstream events
+can be predicted from a small set of emic rules. The insistence by
+Frake, Conklin, and Goodenough that “appropriateness or accepta-
+bility” be substituted for predictability among the canons of good
+ethnography is nothing so much as a tacit admission of this dilemma.
+The problem is not that behavior is not governed by cognitive plans,
+maps, rules, themes, ideologies, etc. Since these phenomena take
+place inside people’s heads in great abundance and on all sorts of
+conscious (WARD 1965), preconscious, and unconscious levels with
+all degrees of strength and persistence, and in all manner of logical
+or illogical, rational or irrational combination, it would be most un-
+likely that at some levels, in some degree, and in some combination,
+behavior-stream events were not based on or at least accompanied by
+some form of cognitive calculus. In all societies, concrete manifesta-
+tions of behavior, verbal or nonverbal, result from complicated inter-
+actions of specific personalities whose repertories of rules, especially
+when it comes to the rules for interpreting or breaking rules, oftcn
+seem to have little in common. Unless the new ethnographers are a
+
+591
+
+
+
+===== PAGE 301 =====
+
+s
+
+The Rise of Anthropological Theory 20. Emics, Etics, and the New Ethnography
+
+breed apart, they must surely have noted by this time that their lives
+have consisted largely of trying to figure out what rules one ought to
+live by or, what amounts to the same thing, what rules one ought
+to invoke in a particular situation. There is little indication that
+the normal condition of social life is one in which conformity to emic
+norms predominates. The judgment expressed by Hugo Nutini
+(1965:723) that “mechanical models” (i.e. models constructed out of
+ideal behavior) “are always superior to statistical models” (i.e. models
+constructed out of actual behavior) is dangerously detached from
+empirical foundations (see pp. 498-99). There is no evidence which
+indicates that under “the proper cultural conditions”—whatever these
+may be—“the overlapping of ideal and actual behavior would tend to
+the ideal limit” (ibid.). Instead, there is a vast literature in anthro-
+pology and related disciplines which indicates that emic norms and
+etic events never quite match and that not infrequently the main
+function of the norms is to obscure the etic reality. A case in point
+is Marshall Sahlins’ suggestion about how to resolve the “E.-P.
+(Evans-Pritchard) paradox” wherein, as among the Nuer, there is an
+inverted relation between commitment to agnation in principle and
+commitment to it in deed: “Then too, the agnatic dogma may only
+be strengthened by a deepening contradiction with kin group mem-
+bership, as ideology undertakes its Mannheimian function of keeping
+people from knowing what’s going on in the world” (saHLINS 1965:
+105).
+
+I hasten to acknowledge certain recent attempts to link formal
+analysis with social-structural or comparative generalizations. It would
+appear on balance, however, that the net contribution to substantive
+theory is less than what usually results from equivalent labor in-puts.
+For example, Conklin’s conclusion that the Hanunéo’s terminological
+specialization in cousin terms reflects payment of fines in accordance
+with degree of incest scarcely requires the elaborate descriptive ap-
+paratus with which it is juxtaposed (1964:48).
+
+THE CASE OF CROW TERMINOLOGY
+
+Among formal analysts, the most ambitious claim for so-
+ciological significance has been set forth by Floyd Lounsbury (1964;
+1965). Lounsbury suggests that Crow and Omaha kinship terminolo-
+gies and their variants, including Trobriand, are best understood as ex-
+pressions of the extension of nuclear family terminological categories
+outward to other kin types on the basis of what he calls “status suc-
+
+592
+
+cession.” It is the passing on of statuses such as “head of family, other
+positions in the domestic group, headship of lineage or kin-based
+corporation, hereditary political office, religious office, etc.” (1965:
+383) which accounts for the overriding of generational distinctions
+typical of Crow and Omaha terminologies. This principle is set forth
+in opposition to that endorsed by Leach (1958), derived from Rad-
+cliffe-Brown, subscribed to by Lowie, Murdock, and White, and ulti-
+mately traceable to Morgan that Crow and Omaha terminologies
+reflect first and foremost the alignment of people into unilinear
+groupings.
+
+In the first place, we should note that Lounsbury’s interpretation
+at no point contradicts the principle of lineage solidarity; instead
+his “status successions” might all be viewed as measures of the
+degree of lineage corporateness. But Lounsbury is really not interested
+in his analysis as a means of discovering the causal ingredients in the
+evolution of kinship systems. What he actually tries to show is that
+given the Crow-type terminologics it is possible to write rules for
+extending nuclear family kin terms which “account for” the system.
+These rules account for dll of the terminology, whereas the principle
+of lineage solidarity accounts for only the bulk of the terms, leaving
+certain residues which are anomalous (as when certain Crow-types call
+ego’s Fa Mo Br by a general grandfather term rather than Fa) (ibid.:
+355). The disparity in completeness, however, is not a legitimate test of
+theoretical adequacy. Lounsbury is privileged to keep adding trans-
+formation rules precisely until the point is reached at which all of
+the features of the particular case have been taken care of. In writing
+these rules, Lounsbury chose not to employ an extensional principle
+which explicitly incorporates or depends upon the principle of lineage
+solidarity. Instead he employs such principles as “skewing rules,”
+“half-sibling rule,” and “merging rule”” In rejecting the established
+lineage principle, Lounsbury makes no sustained attempt to evaluate
+the possibility that the terminological phenomena it does not account
+for are sociologically or statistically insignificant, or semantically am-
+biguous or that the principle could be made to account for them
+with minor addenda. As we have scen, the Bathonga’s Omaha termi-
+nology involves ambiguities at a number of points. Similar alternate
+manifestations are regarded by Lounsbury as having separate socio-
+logical significance. Furthermore, although admitting the general
+correlation between strong lineage principle and Crow-Omaha termi-
+nologies, Lounsbury chooses to emphasize the fact that there are five
+deviant cases in which Crow terminologies are associated with patri-
+
+593
+
+|
+|
+!
+|
+|
+
+
+
+===== PAGE 302 =====
+
+The Rise of Anthropological Theory
+
+lineal descent (ibid.:354-55). He does not elect to study these cases
+in the light of the special conditions which, had he done so, would,
+for at least three of the instances, permit an interpretation perfectly
+compatible with the lincage principle.
+
+THREE ETHNOGRAPIIC CASES
+
+These three cases deserve our attention because they are
+indicative of what happens when supersophisticated formal analyses
+are reared on a foundation of shoddy primary materials. Lounsbury
+(1964:388) cites Murdock (1949:168) as the source of three of his
+five cases in which Crow terms occur with patrilineal descent and
+patrilocal residence. These are the Bachama of Nigeria, the Koranko
+of Sierra Leone, and the Seniang of the Solomon Islands. First of all, it
+must be made perfectly plain that Murdock’s definition of a Crow
+terminology is scarcely the equivalent of what Lounsbury is interested
+in subjecting to formal analysis. For Murdock, the Crow form exists
+when cross cousins are distinguished from parallel cousins and siblings,
+while the Fa Si Da is classed with Fa Si and/or the Mo Br Da with
+Br Da (MURrpOCK 1949:224). This says nothing about the treatment
+of the uncle and aunt terms in relationship to each other and to Mo
+and Fa, and little about these uncle and aunt terms in relation to the
+sibling and cousin terms. Turning to the Bachama in the original
+source (MEEK 1931:18-20), we find not only that Fa Si and Mo Si
+are terminologically equated, but that Mo Bro, Fa, and Fa Bro are
+also terminologically equated. Worse, the terms for both kinds of grand-
+mothers and grandfathers are the same as those used for cross uncle
+and for father’s elder brother. As for the patrilineality of the Bachama,
+Meek (ibid.:15-17) makes it perfectly clear that a form of double
+descent is operating; that the sister’s son inherits horses, goats,
+clothes, cash, and cattle, and the mother’s brother's widow or her
+brideprice, his standing crops, and the contents of his granary; and
+that the system was in transition from an earlier form of still greater
+emphasis upon “mother right” in which: “The sense of kinship
+with the mother’s family was undoubtedly in former times greater
+than that with the father’s family” (ibid.:16).
+
+Turning to the Koranko (N. tHOMAS 1916) we find that the Fa Si
+Da is not equated with Fa Si although the rest of Murdock’s condi-
+tions are met. The system thus barely survives as Crow by virtue of
+invoking the and/or in the definition. It is incredible, however, to
+discover in the setting of the refined analysis presented by Louns-
+bury an appeal to this cthnographic case. The Koranko terminology
+
+594
+
+v
+
+20.
+
+Emics, Etics, and the New Ethnography
+
+appears as part of a foldout in which the terminological systems for
+eight Sierra Leone peoples are set forth in tabular fashion. The
+only statement specifically concerned with Koranko descent and
+locality is herewith reproduced: “Descent is reckoned in the male line,
+and there are no clear traces of the existence of matrilocal marriage,
+though some of the birth customs seem to suggest it” (ibid.:107).
+The ethnographic standard of Thomas’s account is unacceptable
+(except in a large sample), and any attempt to hinge an important
+theoretical issue on the Koranko is as good as resorting to scapulim-
+nancy.
+
+Finally, there is the Seniang division of Malekula, subtitled “A
+Vanishing People in the New Hebrides.” Tt is relevant to point out
+that not only had the Seniang been afflicted by the worst sort of bio-
+cultural collapse at the time of A. B. Deacon’s (1934) visit, but that
+the monograph in question was put together from Deacon’s field
+notes by Camilla Wedgwood, who comments:
+
+. it must be stressed here that, far from finding a living so-
+ciety, Deacon found at South-West Bay only relatively few sur-
+vivors of several districts. He was therefore unable here to study
+the social, economic, and religious life of a living community,
+but had to acquire his knowledge of what that life had once been
+by means of the tedious and not wholly reliable method of ques-
+tioning the older men [1934:xxxii].
+
+The Seniang satisfy Murdock’s criteria for Crow terminology. Fa Si
+Da is classed with Fa Si and Fa Si So with Fa, but there is no infor-
+mation concerning the terms for the children of these cross cousins.
+Because of this and other gaps it is difficult to assess the strength of
+the Crow pattern. There is at least one anomaly: Wedgewood directs
+special attention to the fact that Fa Fa Fa Fa is called by the term
+for elder brother and that So So So So is probably called by the
+term for younger brother. This is not the kind of terminology on
+the basis of which one would predict strong matrilineal or matri-
+local clans, although admittedly, it also is not at all suggestive of
+the reported rather strong patrilineal and patrilocal principles. Addi-
+tional reasons for rejecting Malekula as a negative case for the cor-
+relation in question arise on all sides. The neighboring Newun with
+whom the Seniang intermarry and who recognize descent from each
+other’s localized patrisibs classify Fa Si with Fa Si Da but the same
+root term is also used for Mo. The classification of Mo, Fa Si, and
+Fa Da under the same term is repeated among many of the other
+Malekulan groups, including the Lambumbu (pEACON 1934:98); Sen-
+
+595
+
+4
+
+
+===== PAGE 303 =====
+
+The Rise of Anthropological Theory
+
+barei (ibid.:121); Uripiv (ibid.:124); Nesan, Uerik, Bangasa, and Ni-
+viar (ibid.:125). This is a most un-Crow-like feature and is certainly
+not provided for by Lounsbury’s sub-types. It should be mentioned
+that definite traces of double descent crop up to the north among the
+Lambumbu (ibid.:101) and Lagalag (ibid.:110); although nothing
+like a reliable description is anywhere available concerning relations
+with matrilineal kinsmen. Both Deacon and Wedgewood were con-
+vinced that Malekula has been invaded by a succession of different
+cultures, the last of which were strongly patrilineal. To what extent
+this may have obscured the observation of de facto matrilineal group-
+ings among the Seniang is unclear. Similarly in doubt is Deacon’s
+ability to have salvaged information of such a nature from the cul-
+tural wreckage in which he was working, even if it had occurred to
+him that the Crow cousin terminology required special attention in
+the light of the heavy patri-bias which he attributed to the entire
+island. One point is clear, however, this is not a very convincing case
+of anything.
+
+THE QUEST FOR FORMAL ELEGANCE
+
+The critical test of Lounsbury’s thesis concerning the short-
+comings of the lineage solidarity principle hinges on the question of
+whether a set of emic rules can be written which build upon or in-
+corporate the lineage principle and which will be as productive and
+parsimonious as Lounsbury’s. Allan Coult (1968) claims to have
+done just that. Starting with a set of principles first proposed by Tax
+(1955a; orig. 1937), and adding the principle of lincage solidarity,
+Coult says that he “accounts for” all of the features which Lounsbury
+“accounts for,” and that he does it in a more simple and elegant
+fashion. Coult disposes of the anomalies in the relationship between
+lineage membership and terminological lumping by applying logical,
+as opposed to sociological, principles: “the terms applied to relatives
+outside of either own or M’s patriline are determined, given the
+terms applied within these two lines, and the operation of the princi-
+ples of uniform succession and uniform reciprocals” (court 1968:11).
+
+But the significance of Coult’s achievement is not to be judged by
+these purely formalistic criteria. As Coult himself expresses it, “A
+good theory should be phrased in such a way that not only can it
+predict empirical phenomena, but the reasons why it predicts should
+also be apparent” (ibid.:10). That is, as stated carlier, a good cthno-
+graphic description must link up with a corpus of explanatory theory.
+“Lounsbury in fact has no theory, he has merely a set of empirically
+observed relationships . . .” (ibid.:11).
+
+596
+
+20. Emics, Etics, and the New Ethnography
+
+THE NEW OLD ETHNOGRAPHY
+
+Formal analysis presents itself as a new and revitalizing
+movement, whereas, in fact, it is actually the latest in a series of
+cultural-idealist proposals for intensifying cultural anthropology’s
+commitment to emic rescarch strategies. The “new approach to
+ethnography,” what Sturtevant (1964:99) is tempted to call “the
+New Ethnography,” has a definite and highly compromised historical
+position of which its practitioners seem unaware. In one important
+sense, this is not the new ecthnography, but the new old ethnog-
+raphy. It is a better operationalized but narrower version of a re-
+search strategy which has already proved itself incapable of solving
+the major substantive issues of the social sciences.
+
+In evaluating ethnosemantics’ claim to newness, we must bear in
+mind the fact that almost every major theoretical school in anthro-
+pology has expended the bulk of its research effort in the pursuit of
+some form of emic analyses. The main historical lines of influence
+have been set forth in the previous chapter. Here it must suffice
+merely to recall the heritage of what Lowie (1956b:1007) has called
+the Southwest German school of philosophy—Windelband, Dilthey,
+Rickert—which transmitted eighteenth-century rationalism and ideal-
+ism through its Hegelian culmination into contemporary anthropology
+(see Chap. 12). In the twentieth century many prominent spokesmen
+representing a nominally wide variety of theoretical positions have
+exhorted anthropologists to give priority to emic analysis. Among the
+Boasians, Lowie’s opinion as previously quoted, was typical. The field-
+worker’s business is to understand the “true inwardness” of the beliefs
+and practices of the people he studies. The fieldworker does not simply
+record that there is infanticide or cannibalism. If he does not also record
+how his informants feel about these practices, “he has failed in his task”
+(see p. 365).
+
+Kluckhohn (1949:300) may be taken as representative of another
+broad spectrum of American anthropologists: “The first responsibility
+of the anthropologist is to set down events as seen by the people he
+is studying.” Malinowski, in the Argonauts, wrote of “the final goal, of
+which the ethnographer should never lose sight.”
+
+This goal is, bricfly, to grasp the native’s point of view, is relation
+to lifc, to realise his vision of his world. To study the institutions,
+customs, and codes or to study the behavior and mentality with-
+out the subjective desire of fecling by what these people live, of
+
+597
+
+
+
+===== PAGE 304 =====
+
+The Rise of Anthropological Theory
+
+20. Emics, Etics, and the New Ethnography
+
+realising the substance of their happiness—is, in my opinion, to
+miss the greatest reward which we can hope to obtain from the
+study of man [MALINOWSKI 1961:25].
+
+Furthermore, although David Schneider (1965¢:38) contrasts Rad-
+cliffe-Brown’s position on social structure with that of Needham,
+Lévi-Strauss, and Homans, the common heritage which the structural-
+ists and the structural-functionalists derive from Durkheim provides
+a common emic bias for both groups. The overwhelming commit-
+ment among contemporary British anthropologists to the analysis of
+descent, affinity, filiation, prescriptive and preferential alliance should
+suffice to establish the emic thrust of their research interests. On the
+other side, as we have seen, Lévi-Strauss and Needham have carried
+Durkheim’s notion of “collective representations” to the purest
+pinnacle of mentalism. As Schneider points out, even the question of
+social order is for Needham a question of underlying logical and
+symbolic congruence. Although Needham writes about “groups prag-
+matically distinguished,” “The word pragmatic can only make sense if
+it is taken to mean ‘conceptually,’ and this in turn can mean that
+some native will talk about it. A figment of a figment of a figment of
+a native’s imagination will do” (ibid.:39).
+
+CONVERGENCE TOWARD MENTALISM
+
+It is a fact of salient importance, however, that the emic bias
+of the new cthnography derives its vigor from an infusion of a men-
+talism which has more recent origins. The new ethnography repre-
+sents a confluence of the interests of the older empathetic, humanist,
+emic approach with a newer, narrower, and less humanistic mentalism
+arising out of linguistics. Hymes has traced this influence in terms
+of Sapir, the “Yale School: complementary distribution, and Jakobson-
+ian distinctive features, and Chomskyian generative grammar”
+(1964a:10). The linguistic model has also been influential among
+French and British anthropologists who have been led by a remark-
+able convergence toward an emic strategy in which logic and reason
+have taken the place of emotional meaning. In Europe, again specifi-
+cally influenced by Jakobson, it is Lévi-Strauss who has led the way to
+this new form of idealism (mymESs 1963; 1964a:15; 1964b). Although
+formal analysis is deeply committed to the image of “hard science,” it
+has its precise parallel in the structuralist position of Lévi-Strauss,
+whose essence is captured in the inspired phrase, “Zen Marxism”
+(see p. 512). For Lévi-Strauss as for the ethnosemanticists, a quasi-
+mathcmatical, linguistic model should be the model for all cultural
+
+598
+
+analysis: “language can be said to be a condition of culture because
+the material out of which language is built is of the same type out of
+which the whole culture is built: logical relations, oppositions, cor-
+relations and the like” (LEVESTRAUSS 19632:68-69). Frake’s image of
+ethnography precisely parallels this view:
+
+- . . descriptive linguistics is but a special case of ethnography
+since its domain of study, speech messages, is an integral part of
+a larger domain of socially interpretable acts and artifacts. It is
+this total domain of “messages” (including speech) that is the
+concern of the ethnographer. The ethnographer, like the linguist,
+seeks to describe an infinite set of variable messages as manifesta-
+tions of a finite shared code, the code being a set of rules for the
+socially appropriate construction and interpretation of messages
+
+[1964b:133].
+
+It will be seen that Lévi-Strauss’ “incredible ingenuity” (samLins
+1966) in discovering the hidden mental structures of society is the
+French analogue of Frake’s (1964b:133) invocation: “We must get
+inside our subjects’ heads.” When one takes into consideration the
+objections which have been raised concerning the lack of statistical
+validation of the mental structures which ethnosemantics has sought
+to discover, the gap between Lévi-Strauss and the new ethnography
+narrows still further. Lévi-Strauss’ (1953:528) justification of the so-
+called mechanical model parallels the arguments employed by ethno-
+semantics to justify a lack of concern with sampling and prediction.
+As T have already indicated, the mentalism of Lévi-Strauss and his
+American counterparts departs from previous emic approaches in
+laying stresses upon the logical functions of mind as opposed to the
+emotional and irrational components: “Lévi-Strauss emphatically re-
+jects recourse to affectivity or emotion. Emotion is vague, where
+structure is precise, merely sentimental where structure is logical”
+(saHLINS 1966:136). An implicit disdain for the emotional events
+which go on inside people’s heads is also a conspicuous hallmark
+of ethnosemantics. Emics for a previous generation of American
+anthropologists meant the discovery of the unconscious psychological
+complexes which were assumed to underly ideal and actual behavior.
+The linguistic model, however, has no means of accommodating the
+Freudian conflict between id, ego, and superego. One might as well
+try to squeeze blood from a stone as obtain from Hammel’s “algorith-
+mic” masterpiece on Comanche kinship, the kinds of emotions the
+Comanche experienced in the presence of their sisters and mothers.
+It is indeed a new experience for anthropologists to be exposed to
+
+599
+
+
+===== PAGE 305 =====
+
+The Rise of Anthropological Theory
+
+an analysis which “does not pretend to offer solutions which have
+sociological, psychological or historical relevance in any necessary
+sense . . .7 (HAMMEL 1965:104).
+
+BACK TO PLATO
+
+Another novel ingredient in the ethnosemantic approach is
+the exclusionist insistence that anthropology must be emic if it is to
+be anything at all. Although idealism and mentalism have always
+dominated our outlook, this was traditionally combined with an eclec-
+ticism by which at least one anthropological foot could touch the
+ground. In the past, emic commitments have seldom been so bla-
+tant, insistent, and parochial. Earlier idealist and mentalist programs
+were pragmatically capable of and interested in describing and ex-
+plaining techno-economic, social, and political systems on the basis
+of concrete historical events. In the new ethnography, however, cul-
+ture is a timeless system of logical categories. Hegel’s historicism,
+his only redeeming feature, has been dropped in favor of a synchronic
+idealist dialectic known as “distinctive feature analysis.” Although
+the ethnosemanticists enjoy the illusion that they are deriving nour-
+ishment from new springs of wisdom, even as idealists they may
+actually have taken a giant step backward. Thus, according to Good-
+enough:
+
+The great problem for a science of man is how to get from the
+objective world of materiality, with its infinite variability, to the
+subjective world of form as it exists in what, for lack of a better
+term, we must call the minds of our fellow man. . . . Structural
+linguistics has, I think, made us conscious, at last, of their nature,
+and has gone on to convert this consciousness into a systematic
+method [1964a:39].
+
+The notion that the objective world of materiality represents the
+shadowing forth of the forms which exist in the mind takes us all the
+way back to Plato’s cave. Goodenough fails to consider that although
+materiality is infinitely complex, this is a condition which has not
+inhibited the development of generalization in all the other sciences,
+none of which have had to search out subjective worlds of form.
+Furthermore, as I have already indicated, if the subjective world of
+form appears less infinitely variable, it is because the ethnosemanticists
+have ignored the variability which each of us knows exists. Good-
+enough’s rejection of the material world as too complex reflects an
+opinion which is widelv shared (more in conversation than in print)
+
+600
+
+20. Emics, Etics, and the New Ethnography
+
+that ethnography must be emic, and emic in the new linguistic sense,
+if it is to be anything at all. Indeed, there is the insistence by some
+of the ethnosemanticists that the cultural field of inquiry is only
+definable in emic terms: “Actually, I find it difficult to conceive of
+any act, object, or event which can be described as a cultural artifact,
+a manifestation of a code, without some reference to the way people
+talk about it” (FRAKE 1964b:133).
+
+CULTURES ARE MORE THAN CODES
+
+Are all cultural artifacts—acts, objects, or events—as Frake
+puts it, only conceivable as manifestations of a code? Referring to
+the earlier discussion of variation and ambiguity, let me rejoin that
+acts, objects, or events relevant to the human behavior stream
+seldom express one or a few simple code rules. Some examples will
+be helpful at this point. Among the Bathonga there is a strong ag-
+natic bias with a rule that brothers and sons rear their families
+within or immediately adjacent to their father’s compound. Many
+additional rules stress the order in which brothers and sons are to
+marry, the allocation of lineage brideprice resources, the treatment of
+co-wives and of junior sons. There are additional rules which refer to
+how to make witchcraft, how to make accusations of witchcraft, and
+how to react to such accusations. There are still more rules which
+indicate how a man is to become successful in life, the importance of
+plural marriage, the importance of having many children. All of these
+rules are in turn related to rules of treating the ancestors with proper
+respect and attention. Now it is a regular ctic feature of Bathonga
+life that the local lineage fissions when population exceeds 100 or
+200 people, that the break involves the establishment of new house-
+holds with a junior son and his mother at the core, and that the
+break is accompanied by all sorts of hostile expressions, including
+witcheraft accusations, which violate the rules of lincage solidarity,
+but which give the young man a chance to achieve a measure of
+success in life and marriage that he could not otherwise hope to
+achieve. To regard the fission event as a result of the intersection of
+all of the codes that might conceivably have influenced the behavior
+of the agnates, elder and younger brothers, junior and senior wives, as
+they wrestled each in their own way with the problem of which rule
+to invoke, or as the rules themselves intersected on some unconscious
+level in an untraceable skein of guilt and anxiety in each of the actors,
+is a hopeless task. The fission of the Bathonga homestead is a cultural
+event and is not conceivable in any operational sense as a manifesta-
+
+601
+
+
+
+===== PAGE 306 =====
+
+The Rise of Anthropological Theory
+
+tion of a code. On the contrary, it is simply and clearly and opera-
+tionally conceivable as an etic phenomenon in which the rate of fission
+expresses not a mental code, but the density and spacing of the
+animal and human population under the techno-environmental condi-
+tions of southern Mogambique (HARRIS 1959b).
+
+A similar but highly quantified example is found in Roy Rappa-
+port’s (1966) study of the relationship between secondary growth,
+sweet potato production, the pig and human populations, warfare,
+and major pig-slaughtering festivals among the Maring of New Guinea.
+Each of these activities has its emic rules, which cross each other
+at numerous points. Thus pigs are to be fed with inferior grades of
+sweet potatoes. But as the pig population goes up, the pigs consume
+more and more of the labor input that goes into the sweet potato
+crop. There is no rule among the Maring that pigs should multiply
+to the point of menacing the human calorie ration. Yet without
+specifying the cyclical etic regularities in the ratio, between pigs,
+people, and garden lands, the ethnography of Maring warfare and
+feasting behavior cannot be properly described, ie., it cannot be
+linked up with a corpus of diachronic and synchronic theory.
+
+Among the ethnosemanticists, Frake (1962b) has gone so far as to
+attempt to treat the interaction between a human group and its
+habitat primarily in emic terms. Noting that there is no explicit rule
+among the Subanum by which their settlement pattern can be ac-
+counted for, Frake proposes to derive the implicit rule from the
+intersection of a number of “quite explicit principles about the
+desirable relations among houses and fields” (ibid.:56). The analysis
+is presented largely as a methodological proposal and hence starts
+off with the major features of the agricultural system as given. But we
+are assured that these givens, for example, that new swiddens are
+started every year, can also be derived from a calculus of emically
+informed individual decisions. Three emic rules are offered by which
+an emic “accounting” of settlement pattern is to be achieved: mini-
+mum number of wild vegetation boundaries; minimum house to
+swidden distance; and maximum house to house distance (ibid.:56-
+57). These rules, even with the givens of no larger than nuclear
+family work groups and an annual shift in locus of the main swidden
+input, are obviously incapable of predicting (as distinguished from
+“accounting for”) the spatial distribution of Subanum households.
+Even if they all invoke the same rules at the same time in Subanum
+land, it cannot be that everyone gets the same result in terms of size
+of household, size of swidden, and productivity of swidden. Some-
+where the emic rules must confront the etic rcality of how much is
+
+602
+
+Y‘
+
+20.
+
+Emics, Etics, and the New Ethnography
+
+produced under the given techno-environmental conditions. Whatever
+else must be taken into consideration, it is obvious that the diminish-
+ing returns for labor input must figure prominently in the etic
+formula governing house site shifts among swidden farmers. It is
+symptomatic of the mentalism and formalism of the ethnosemanti-
+cists that Frake does not describe the actual pattern of dispersal of
+household sites. One description of such a pattern showing long-term
+stability or change in relationship to population size and production
+factors would be worth a thousand emic rules. Subanum scttlement
+pattern, a characteristic distribution of people across a portion of the
+earth and through a specific portion of the earth’s history, is a cultural
+artifact. It is not necessary, indeed, it is impossible to derive this
+pattern solely from the emic principles, explicit or implicit, by which
+the Subanum think they conduct their lives.
+
+In northeastern Brazil, peasant fathers accept the pan-Brazilian
+rules emphasizing the importance of the kindred and of compadrazco.
+Family size, both in terms of the number of kinsmen per household
+and total effective kinship network, varies from fifteen to twenty to
+several hundred, according to class. Within a given village, the most
+economically successful peasant has the largest circle of kinsmen.
+Unlike his upper-class metropolitan counterparts, however, the circle
+of kinsmen which surrounds him is associated with the siphoning off
+of his wealth rather than its consolidation. It is a cultural fact that
+the pressure upon the Brazilian peasant to expand his family size
+reduces his chances for upward mobility; yet T challenge the ethno-
+semanticists to find a mental locus for the rule which links large
+families to the maintenance of poverty. This problem may be viewed
+on a still broader scale: Is the poverty of the world’s peasant masses a
+cultural artifact? If so, and it is hard to imagine a negative answer,
+then are we to suppose that this poverty results from a set of emic
+rules to which the poor obstinately subscribe?
+
+ETHNOSEMANTICS AND ARCHAEOLOGY
+
+Finally, the relationship between ethnosemantics and the
+diachronic approach to sociocultural phenomena through ethnology,
+history, archaeology, and the comparative method deserves comment.
+Ethnoscmantics may be able to develop valid and, within limits,
+useful descriptions of contemporary social systems, but the linguistic
+model, even more strongly than the model employed by the British
+structuralfunctionalists, is inherently incapable of making discover-
+ies about the content of history and the nature of historical pro-
+
+603
+
+
+
+===== PAGE 307 =====
+
+The Rise of Anthropological Theory
+
+cesses. If anthropology is to have a diachronic component, that
+component cannot consist of an inventory of cognitive rules. The
+reason for this is that for most human history we have no operational
+basis for getting inside people’s heads in the manner proposed by
+Frake. But even if we did, we would still confront an insuperable
+difficulty. The archaeologically recoverable portion of most of human
+history consists of the environmental modifications which different
+varieties and expressions of energy quanta have brought into being.
+Binary oppositions, contrastive features, skewing rules, etc., have this
+in common: they have no measurable energy cost.
+
+604
+
+s
+
+Statistical Survey and
+the Nomothetic
+Revival o1
+
+S
+SO53
+
+Ihe Boasians themselves would occasionally remark upon the empti-
+ness of the anthropoligical landscape. Kroeber's (1920b:380) review
+of Lowie’s Primitive Society was one of the earliest expressions of
+misgiving:
+
+As long as we continue offering the world only reconstructions of
+
+specific detail, and consistently show a negative attitude toward
+broader conclusions, the world will find very little profit in ethnol-
+
+ogy.
+Noting that Lowie’s achievement is a great improvement over
+
+Morgan’s “brilliant illusions,” Kroeber nonetheless “sighs regretfully
+
+that the honesty” of Lowie’s method “is not stirred into quicker
+
+pulse by visions of more ultimate enterprise” (ibid.:380-81). Some |
+
+years later, Sapir, elsewhere opposed to Kroeber’s hankering after ulti- ]
+
+mate determinisms, came out with a similar expression of discomfort: h
+
+But anthropology cannot long continue to ignore such stupendous
+facts as the independent development of sibs in different parts of
+the world, the widespread tendency toward the rise of religious or
+
+605
+
+
+===== PAGE 308 =====
+
+v
+
+The Rise of Anthropological Theory 21. Statistical Survey and the Nomothetic Revival
+
+ceremonial societies, the rise of occupational castes, the attach-
+ment of differentiating symbols to social units, and a host of
+others. Such classes of phenomena are too persistent to be with-
+out deep significance [SAPIR 1927:204].
+
+But historical particularism continued to exercise its sway over an-
+thropological theory well into the middle of the century. If we in-
+clude not only those who are historical particularists, but the related
+viewpoints represented within culture and personality, the new eth-
+nography, and structural-functionalism, we must acknowledge the con-
+tinued dominance of idiographic currents right through to the present
+moment. Beginning with the mid-1930’s, however, currents of thought
+and practice associated with a recommitment to nomothetic inquiry
+have steadily gained strength and stature within the anthropological
+community. We have already entered a new era of creative theory in
+which once again a science of man based upon the comparative
+method boldly confronts the great questions of origins and causality.
+Although this renaissance has already transformed the research strate-
+gies and teaching practices at a number of major university and
+museumn departments, the effects seem not yet to have been noticed
+in sociology, political science, academic history, philosophy, and re-
+lated disciplines. But to paraphrase Sapir, the social sciences cannot
+continue to ignore the stupendous innovations of fact and theory
+which are associated with the end of the Boasian era.
+
+The mid-century collapse of historical particularism was brought
+about by the critique of two very different revivals of the comparative
+method. On the one hand, through the efforts of George Peter
+Murdock, the statistical form of the comparative approach, which
+had been originated by Tylor, reasserted itself, greatly strengthened
+by new techniques and enlarged facilities. Although deeply com-
+mitted to a physicalist model and nomothetic perspective, this
+school, as we shall see in the present chapter, has remained aloof
+from, or even antagonistic toward, cultural materialism. The second
+line of attack against the Boasians, led by Julian Steward and Leslic
+White, explicitly embraces the strategy of techno-environmental and
+techno-economic determinism, although it has for the most part either
+obfuscated or shied away from an acknowledgment of its debt to
+Marx, We shall leave the discussion of this manifestation of the nomo-
+thetic revival to the next chapter.
+
+Murdock has not only rejected Boas’ criticism of the comparative
+method, but he has gone far beyond any other figure in the nomothetic
+revival in utilizing statistical techniques to provide testable generali-
+
+606
+
+zations. Nonetheless, Murdock’s position remains heavily compromised
+by particularist residues. If we were to arrange White, Steward, and
+Murdock in order of furthest departure from the Boasian strategy,
+Murdock would fall closest to the Boasian extreme. The distance be-
+tween him and Steward is made up of the issue of relatively long-run
+versus relatively short-run evolutionary parallels. Although Murdock
+has devoted himself to proving that in the short run, the evolution of
+kinship terminologics, postmarital residence, and descent rules are
+obliged to follow a highly predictable sequence, he has denied that
+anything similar exists over an extended period of time. We find him
+offering therefore a strange counterpoint to both Steward and Boas.
+Murdock’s position in this respect is actually very similar to that of
+the synchronic functionalists for whom the laws of functional relation
+were to be expressed independently of long-range diachronic implica-
+tions. But in other respects, especially in the manner of treatment of
+data with regard to functional context, Murdock and the British
+functionalists have little in common.
+
+SPENCER, SUMNER, KELLER
+
+Murdock has long been an outstanding critic of historical
+particularism, charging, as we have seen, that Boas was “extravagantly
+overrated by his students” (see p. 315). But the sources of Mur-
+dock’s nomothetic interests are remote from the experiences of
+White and Steward. One set of influences represents, in large measure,
+a specialty confined in its effects, practically to Yale and to two men,
+William Graham Sumner and his intellectual executor, Albert Keller.
+These two figures accounted for a unique prolongation into the
+twenticth century of Spencerism. To understand Murdock’s position,
+we must revert briefly to Sumner and Keller.
+
+The vast, four-volume masterpiece, The Science of Society (1927),
+which Keller completed on the basis of Sumner’s notes, carried forward
+Spencer’s grandiose plan for a total picture of world evolution. Al-
+though not a typical Spencerian product by virtue of its cautions
+concerning the biological transmission of cultural patterns, it is heavily
+committed to analogy with bio-evolution. As explained in the “Note
+to Index” in the fourth volume, “the text of this treatise is adjustment,
+as resulting from the factors of variation, selection, and transmission”
+(1927:1269).
+
+It would be impossible in the space available to describe Sumner
+and Keller’s vast scheme of cultural evolution. It must suffice merely
+to indicate that no attempt to limit their perspective to one of
+
+607
+
+
+
+===== PAGE 309 =====
+
+The Rise of Anthropological Theory
+
+Steward’s three categories of evolutionism could be justified (see p.
+642). Although perfectly well aware of specific adjustments to local
+environmental and historical conditions, they experienced no diffi-
+culty in stepping back from the canvas for the general view. Pethaps a
+partial list of topics drawn from the tables of contents of the first
+three volumes may serve to convey some idea of the enormous scope
+of this extraordinary work: there are first the “maintenance systems”
+under which fall such items as subsistence, division of labor, speciali-
+zation and cooperation, the accumulation of capital, and advances in
+energy utilization; then the effects of domestication of plants and
+animals and of men as slaves, evolution of property ideas, and prop-
+erty types, evolution of war, associations, government, fraternities,
+classes, types of justice, antecedents of the state; and religion, ani-
+mism, “eidolism,” ghost-cult, “daimonism,” fetishism, totemism, sin,
+sacrifice, shamanism; also, marriage, endogamy and exogamy, purchase
+and dowry, status of women, divorce; and finally evolution of mar-
+riage forms, family forms, “transition to patriarchate,” and hundreds
+of subtopics.
+
+Volume 4 is wholly given over to cases linked to the other three
+volumes by an elaborate index system. This index provides a direct
+link between Murdock’s attempt to set up a universal file of ethno-
+graphic materials and the great compendia organized by Frazer, West-
+ermarck, Tylor, and, most important, by Spencer’s Descriptive Sociol-
+ogy. The actual evolutionary sequences in the various branches of
+sociocultural life tend toward a consensus drawn from Morgan, Tylor,
+and Spencer. Of paramount interest is the avowedly materialistic
+determinism upon which the overall argument is hung. Despite a
+conservative political position based on their Spencerian support of
+competition as the agent of evolutionary improvement, Sumner and
+Keller's acceptance of cultural materialism goes far beyond that of
+any of their non-Marxian predecessors.
+
+Our contention is briefly this: that if society is to endure, no
+considerations whatever can take precedence over success in self-
+maintenance, that is, in the food quest and in the provision of
+protection of all kinds to life. . . . Unless the earth provides suf-
+ficient sustenance, men may fail. They fail in any case if there
+are too many of them; they will succeed with a minimum of
+effort if they are few in comparison with resources; the sort of
+struggle they will be forced to make will vary according with the
+proportion of numbers to resources.
+
+What they can do in ranges outside of material self-mainte-
+nance cannot but vary, and will be seen to vary, with the type of
+
+608
+
+Y
+
+21. Statistical Survey and the Nomothetic Revival
+
+struggle they have to maintain in order to supply basic necessities.
+Ways outside of self-maintenance proper must take their general
+tone from self-maintenance ways [suMNER and KELLER 1927,
+
+I:42].
+
+MATERIALISM AT YALE
+
+Keller was perfectly aware of the resemblance between this
+point of view and that of Marx. If we are moved to wonder how he
+managed to survive at Yale, it must be remembered that Sumner’s
+and Keller's views were categorically opposed to socialism. They were
+convinced of the victory of capitalism on the grounds of superior
+maintenance institutions. Class competition would not dissolve into
+socialism but rather would lead to a superior form of adaptation. Their
+position confounds at once any attempt to equate evolutionism in a
+blanket fashion with leftist politics, as in White’s denunciation of the
+Boasians.
+
+If this is “economic determinism,” so be it.
+
+[The] objection to that theory seems to inhere in its application
+rather than in its own validity. Marx had a therapeutic plan,
+based upon his doctrine, for changing the maintenance mores, a
+plan of selection from which most men of perception would dis-
+sent. Doctrinaire socialists do not study to adjust to verities, but
+challenge them in utopian fashion. Their assumption that the
+mores must be changed wholesale gives many a student of society
+pause. It is possible, however, to believe in the basic nature of the
+economic life and then, when it comes to planning action, mod-
+estly try to help society adapt to the conditions of life as learned:
+it is not necessary to have in view the radical alteration of the
+whole social order, rejecting the experience of the race and testily
+sctting out to change human nature and other somewhat per-
+manent elements, rather than accommodate one’s self, even
+though it is not so easy, speedy, or grandiose, to actual life-condi-
+tions. Belief in some of the Marxian positions, together with
+entire distrust in the plan for their application, does not make
+one a socialist or a communist, any more than disbelief in the
+doctrine of absolute state power and control renders one an-
+archistic, with leanings towards bomb-throwing [KELLER 1931:
+
+249-50]-
+
+Murdock, as we shall see in a moment, has reflected Sumner and
+Keller's emphasis upon economic determinism but only in a highly
+evasive and cryptic fashion.
+
+609
+
+
+
+===== PAGE 310 =====
+
+The Rise of Anthropological Theory
+
+DARWIN AND SPENCER
+
+In Keller's (1931) summary of the evolutionary principles
+embodied in The Science of Society, we find an insistence upon the
+literal appropriateness of Darwin’s model, with “adjustment” changed
+to the more fashionable “adaptation”:
+
+It is clear enough that the idea of taking the issue up, as it is
+done here—of exploring the nature of social variation, social selec-
+tion, social transmission and social adaptation—was suggested by
+the Darwinian system . . . [KELLER 1931:18].
+
+But in The Science of Society the debt to Spencer is expressed no
+less emphatically. Speaking of the results which justify the possibility
+of such a science, Sumner and Keller accord Spencer the kind of
+praise of which he was seldom the object in the twentieth century:
+
+The credit of this demonstration of results belongs, above all,
+to Herbert Spencer, and can never be taken from him. It has
+worked out, in brief, to a conception of socicty as a unified whole
+—as a great entity, self-maintaining and self-perpetuating, some-
+thing more and greater than the sum of its parts, whose evolution
+and life are susceptible of investigation, whose forms pass from
+phase to phase, from the most primitive up to the most sophisti-
+cated, remaining yet constantly interdependent in the most inti-
+mate and intricate of relations. The local form of society is seen
+to be an adaptation to environment, and the phases of institutions
+are found to be due to mutual adjustments between them. De-
+mocracy did not simply happen, nor was it revealed; it is a char-
+acteristic form under certain conditions—and so were and are
+communalism, polygyny, fetishism. Property and marriage are
+seen to be closely interlocked; likewise property and religion, re-
+ligion and government, government and economic organization,
+economic organization and property. Fossil forms of institutions
+—survivals—exist, as in organic evolution, and afford links with
+phases of the evolutionary far past. In short, the conception of the
+nature of society and of the rise and decline of societal institu-
+tions has come to be a broader one, and it has entered into and
+vitally affected all subsequent study and thought along social
+lines [1927 I11:2194].
+
+THE SCIENCE OF SOCIETY
+
+One part of Murdock’s historic role appears to center on his
+transmission of Sumner and Keller’s interest in a “science of society,”
+especially in terms of the emphasis that cultural evolution is “orderly
+adaptive change” (MURDOCK 1949:xii). In his most significant book,
+
+610
+
+I
+
+21. Statistical Survey and the Nomothetic Revival
+
+Social Structure, Murdock acknowledges that the Sumner-Keller ap-
+proach is “perhaps the most influential single intellectual stimulus
+behind the present volume” (ibid.:xiii). This book is dominated by
+the promise that the study of sociocultural phenomena can be carried
+out in conformity with the strictest physicalist model of science:
+
+It scems clear that the clements of social organization, in their
+permutations and combinations, conform to natural laws of their
+own with an cxactitude scarcely less striking than that which
+characterizes the permutation and combination of atoms in chem-
+istry or genes in biology [MURDOCK 1949:183].
+
+It is to Sumner and Keller that Murdock owes his confidence on this
+issue. Yet he insists that The Science of Society is “permeated with
+survivals of nineteenth-century evolutionism which historical anthro-
+pologists have long since disproved” (ibid.:xiii).
+
+SCALING DOWN THE SCIENCE OF
+SOCIETY
+
+In response to historical-particularist currents, Murdock’s ap-
+proach to evolution and causality is heavily compromised by his
+adoption of a short timescale and by a failure to combine his
+comparative approach with the nomethetically relevant data of pre-
+history or, indeed, with any macro-temporal view of the human condi-
+tion. Murdock joins White, Steward, and Sumner-Keller in urging
+that evolution is the central concept in sociocultural studies. But
+the evolutionary model with which he works is so close to the end-
+lessly branching tree of life that there is actually little difference on
+this score between him and the historical particularists. Indeed, all of
+Murdock’s contributions are suffused with a painful paradox: While
+arguing persuasively for a nomothetic interpretation of the varieties
+of sex-regulating and kinship institutions, he has denied that whole
+sociocultural systems also exhibit diachronic regularities and that
+long-range parallel and convergent evolution are significant features of
+culture change.
+
+In Social Structure, this paradox is manifest in the studied failure
+to relate kinship structures and kinship ideologies to the development
+of political institutions; by the failure to treat the rise of caste and
+class hierarchies as a category of “social structure.” Murdock’s great
+predecessors at Yale treated these subjects in ways which deserved to
+be improved upon, rather than to be negated or ignored. We shall
+return anon to the basis of Murdock’s rejection of macro-evolutionary
+sequences.
+
+611
+
+
+
+===== PAGE 311 =====
+
+The Rise of Anthropological Theory
+
+THE ORIGIN OF THE HUMAN
+RELATIONS AREA FILES
+
+But first, we must credit Murdock with his historic contri-
+bution, the triple linking up of modern ethnography, modern statistics,
+and the statistical comparative cross-cultural survey method. His great
+achievement along this line was the creation of the Human Rela-
+tions Area Files (until 1949, the Cross-Cultural Survey), a catalogue
+of indexed ethnographic summaries collated under uniform headings.
+Begun in 1937, the files in 1967 contained the description of the
+relevant portions of more than 240 cultures. These files are the
+culmination of an unbroken line of statistically oriented enthusiasts
+extending back from Murdock to Tylor (1889), whose essay, “On a
+Method of Investigating the Development of Institutions; Applied to
+Laws of Marriage and Descent,” was the originating impulse (see
+p- 158).
+
+Tlsle)earliest sustained follow-up to Tylor’s suggestion was embarked
+upon by the founder of the Dutch School of inductive sociology,
+S. R. Steinmetz (1930; orig. 19oo). Like Spencer and other mass
+compilers of ethnographic data, Steinmetz set about establishing a
+catalogue of world tribes and cultures. He hoped eventually to have
+at his disposal coded information on 1000 to 1500 “peoples and
+phases” (ibid.:2z09-10n.). Although Steinmetz did not come close to
+completing his proposed catalogue, several of his students used
+samples and statistical correlations to explore important evolutionary
+issues. H. J. Nieboer's (1goc) Slavery as an Industrial System is one
+of the most important achievements of this school. Drawing upon
+Steinmetz’s tables, Nieboer investigated the distribution of slavery on
+an area basis and then attempted to discover the causes of this distri-
+bution. Assuming that economic factors are most potent in account-
+ing for slavery, he proceeded to a classification of his sample in terms
+of economic types (which are carefully distinguished from evolu-
+tionary stages). Nieboer’s tables are based on 65 hunting and fishing
+societies, 22 pastoral groups, and 219 agricultural groups.
+
+The next great book in this line is The Material Culture and Social
+Institutions of the Simpler Peoples by L. T. Hobhouse, G. C. Wheeler,
+and M. Ginsberg (1915). Although not students of Steinmetz, the
+authors of this “Essay in Correlation” built upon Nieboer’s techno-
+economic classification of societies to establish their major rubrics:
+lower, higher, and dependent hunters; three grades of agriculturalists;
+
+612
+
+.
+
+21
+
+. Statistical Survey and the Nomothetic Revival
+
+and two grades of pastoralists. Their main interest was to discover to
+what extent varieties of modes of food production were correlated
+with the evolution of other aspects of culture. Using an initial sample
+of about 640 ethnic units, they carried out simple correlation calcula-
+tions on five major categories, namely political and juridical organi-
+zation, family, warfare, social stratification, and control over property.
+They concluded that “upon the whole the variations accord with
+general probability, for the economic development may be taken as a
+rough index of the amount of intellect and organizing power available
+for the shaping of the life of a society” (ibid.:254).
+
+Hobhouse, Wheeler, and Ginsberg placed considerable empbhasis on
+the point that “economic development has no necessary connection
+with improvement in the relations between members of society”
+(ibid.). This issue of “improvement” loomed large in their overall
+approach to sociocultural studies, and its injection into the argument
+concerning the extent to which modes of food production influenced
+the other categories of cultural phenomena obscured the strong posi-
+tive correlation which most of their tables exhibit.
+
+Among several additional studies directly inspired by Steinmetz, we
+must mention especially J. H. Ronhaar’s (1931) neglected treatment
+of matrilineal societies, Jan Tijm’s (1933) study of the role of women
+in North American Indian culture, and T. S. Van Der Bij’s (1929)
+study of warfare.
+
+HUMAN RELATIONS AREA FILES
+
+Murdock’s development and utilization of the Human Rela-
+tions Area Files surpasses all precedents in several crucial respects.
+First, the files have been available on a subscriber basis in Xerox and
+microfilm form to large numbers of institutions and scholars, all of
+whom thus have or will have access to the same set of primary ma-
+terials. Second, the quality, quantity, and depth of information avail-
+able in the files go far beyond what had hitherto been possible. Over
+450,000 pages of source material already had been filed by 1967 (cf.
+MOORE 1961:335). Third, the growth of the files has been accompanied
+by a steady improvement in the capacity of anthropologists to make
+use of statistical expertise and thus to coax maximum significance
+from the techniques of correlation.
+
+Although it can scarcely be maintained that the files have suddenly
+made the results of ethnographic inquiry more secure, or more
+scientific, we must admit that they have helped to generate a number
+
+613
+
+
+
+===== PAGE 312 =====
+
+The Rise of Anthropological Theory
+
+of valuable nomothetic essays among which the works of Murdock
+(1949), Whiting and Child (1953), and Whiting (1964) may be
+taken as representative.
+
+Murdock’s Social Structure, aspects of which we shall discuss in a
+moment, would alone probably justify the enterprise. But the creation
+of the files must be seen as ushering in a whole new era of the compara-
+tive method in which the search for nomothetic regularities has led
+to the development of a number of additional world samples. Most
+of these take the Human Relations Area Files as their starting point.
+Murdock himself (1957) has led the way here with the development
+of a “World Ethnographic Sample” and an Ethnographic Atlas of that
+sample in which some 6oo societies are described with respect to
+several dozen coded features. This atlas is being issued in serial form
+in the journal Ethnology, which Murdock founded in 1962.
+
+SIGNIFICANCE OF THE FILES
+
+The principle upon which all of this activity has proceeded
+seems unassailable and to be representative in large measure of the
+future course of ethnology. Ethnological statements which aspire to
+nomothetic status must be checked for their degree of correspondence
+to the ethnographic reality in as large a number of cases as possible.
+This requirement is imposed on us by virtue of our inability to
+perform laboratory tests on human history. Dependent as we are on
+the unfolding of the natural continuum of events, our generalizations
+must be couched in probabilistic terms derived from the observation
+of the frequencies with which predicted or retrodicted events occur.
+Synchronic and diachronic causal relations, so often hitherto expressed
+in terms of approximate trends or tendencies, can only benefit from
+more precise statements of operationally defined measures of proba-
+bility. Once the practice of stating causal relationships in terms of
+probabilities of association becomes firmly established, many problems
+which have plagued generations of determinists and antideterminists
+will dissolve themselves into a more profitable level of discourse.
+Furthermore, it is obvious that the social sciences are about to glut
+the conventional library channels of information storage and retrieval
+with indigestible quantities of raw data. We must welcome all at-
+tempts to enlarge the utility of the data on hand and to maximize
+the effectiveness of the yearly crop.
+
+To appreciate these information devices as technical assets implies,
+of course, that one is aware of their technical shortcomings. Problems
+~xist on many levels and manifest varying degrees of resistance to
+
+614
+
+v
+
+21. Statistical Survey and the Nomothetic Revival
+
+improvement. The Files, for example, are dependent upon ethno-
+graphic monographs whose scope, quality, and theoretical design are
+highly variable. Answers to many ethnographic questions simply can-
+not be extracted from the sample as it is now constituted. There is
+very little which the Files can do, for instance, by way of compensat-
+ing for the relative paucity of reliable quantitative information on all
+aspects of primitive economics and social organization (cf. kOBBEN
+1967:10). The need to overcome the unevenness of the monographic
+resources prevented Murdock from establishing a random sample of
+cultures, since cultures were included or rejected partially in accor-
+dance with the quality of the available literature. It may very well be
+that this factor biases the sample in unknown ways, as would happen,
+for example, if the best known and best reported groups were the
+most peaceful, or the most acculturated. This in turn places limitations
+on the kinds of statistical measures which can legitimately be applied
+to the typical correlation analysis end-product.
+
+DIFFUSION AND THE PROBLEM OF
+UNITS
+
+The Files and all similar ethnographic samples are plagued by
+difficulties in establishing the boundaries of discrete sociocultural
+systems. Some cultures in the sample may actually consist of several
+such systems, whereas others, counted separately, may actually de-
+serve to be lumped together.
+
+In addition, there is the notorious question, first raised by Sir
+Francis Galton, of how to distinguish correlations which arise from
+nomothetic influence from those which reflect diffusion (e.g., gasoline
+and aeroplanes as distinguished from bow ties and aeroplanes). It is
+interesting to note that it was this issue which discouraged Boas,
+despite an interest in statistics, from adopting Tylor's method, about
+which he was initially enthusiastic (LOWIE 1946:227).
+
+Since 1961 Raoul Naroll (1961; 1964) and Naroll and D’Andrade
+(1963) have proposed a total of five solutions to the problem which
+baffled Galton. These solutions involve the establishment of arcs of
+contiguous cultures extending over hundreds and preferably thou-
+sands of miles within which various mathematical devices are em-
+ployed to sift out the probable effects of contact.
+
+Murdock (1957:193) has argued persuasively on behalf of the point
+of view which minimizes the diffusionary effect, in conformity with
+the viewpoint generally adopted by Steward and other critics of the
+extreme diffusionists and historical particularists:
+
+615
+
+
+
+===== PAGE 313 =====
+
+The Rise of Anthropological Theory
+
+The mere fact of historical relatedness does not disturb the au-
+thor, for the evidence now seems clear that societies borrow
+from one another, much as they invent for themselves, cultural
+elements for which they have a need and which are at least rea-
+sonably consistent with preexisting usages, and that borrowed like
+invented and traditional clements undergo a continual process
+of integrative modification leading to the emergence of new in-
+dependent configurations. Diffusion negates the independence of
+two cultures only if it has occurred too recently for the integrative
+process to have run its course.
+
+Additional study of this problem by Harold Driver (1966), J.
+Jorgensen (1966), and Driver and Sanday (1966) has failed to sustain
+Murdock’s optimism on this point. Analysis both of North American
+distributions and of world samples shows that at least one prob-
+lem, namely that of the explanation of mother-inlaw/son-in-law
+avoidance, cannot be solved by ignoring the possibility of diffu-
+sionary influences. (This is especially galling, if I may be permitted
+the pun, because it is the first trait which Tylor sought to explain in
+the article which provoked Galton’s critique.) The trouble is that
+higher correlations of association can be demonstrated for temporal
+and spatial propinquity than for any of the variables which are said to
+have a nomothetic causal relationship to the avoidance patterns (e.g.,
+kinship terminology, residence, descent). Driver’s suggestions for im-
+proving the reliability and significance of the statistical cross-cultural
+method go beyond Naroll’s solution to Galton’s challenge. In order to
+control for diffusion and at the same time to have a permanent sample
+adaptable to any number of problems, Driver advocates an initial
+group of 1,000 societies (1966:147). Jorgensen goes even further and
+suggests that “exhaustiveness of data should be sought” rather than
+sampling, implying that perhaps 2,000 cases may have to be con-
+sulted in order to overcome Galton’s objections. Jorgensen’s solution
+also calls for the collation of data from at least two time periods per
+culture (1966:168-69), a requirement which it would seem difficult
+to reconcile with the need for exhaustiveness.
+
+THE PROBLEM OF FUNCTIONAL
+CONTEXT
+
+One of the most persistent criticisms of Murdock’s strategy
+comes from those who are alarmed by the mechanical nature of the
+operations by which cross-cultural correlations are established. This is
+the point on whose behalf Boas sought to abandon the comparative
+
+616
+
+v——»
+
+21.
+
+Statistical Survey and the Nomothetic Revival
+
+method: items are wrenched out of context by coders unknown to
+the reader or to the original ethnographer. Items which should be
+treated separately are lumped together and those which should be
+lumped together are counted as examples of different traits. The
+British social anthropologists, as might be expected from their func-
+tionalist heritage, have been especially disturbed by this aspect of
+the comparative survey. A. J. F. Kobben’s (1952:142) critique in the
+Journal of the Royal Anthropological Institute may be taken as
+representative:
+
+A consequence of Murdock’s insufficiently functional approach
+is that his product often amounts to no more than mere classify-
+ing. Where he enters into the minutiae of a problem, as occa-
+sionally happens, his argument at once becomes more lively and
+interesting. More often, however, he simply formulates rules or
+produces columns of figures. A Dutch sociologist once called a
+certain book “a work without a heart,” and in reading Murdock’s
+Social Structure one is constantly reminded of this description.
+Of course, the author may well protest that what he writes has
+gained in exactness what it lacks from a functional point of view
+and that a functional treatment is hardly compatible with mathe-
+matical precision. Now every effort to be exact is welcome in our
+discipline, which certainly does not suffer from an overdose of this
+tonic, but it must be real and not quasi-exactness. Can quasi-ex-
+actness be denied if different phenomena are placed in the same
+category and treated as though strictly comparable when in fact
+they are not?
+
+The reply to this sort of criticism is best stated in its most general
+form. Does one object to the isolation, codification, and cross-cultural
+comparison of traits in general? Or is it that one objects to the mis-
+takes which are made in the name of this procedure? In the former
+instance, carried to its logical conclusion, we reach the impasse of
+Ruth Benedict’s Digger Indians, wherein cultures can be compared
+only as wholes and as such are really noncomparable. As Murdock
+has put it in his critique of cultural relativism:
+
+Benedict held, not only that cultures must be viewed in the con-
+text of the situations faced by the societies that bear them—a
+position with which few modern social scientists would quarrel
+—but also that they must be viewed as wholes. To her, every cul-
+ture is a unique configuration and can be understood only in its
+totality. She strongly implied that the abstraction of elements
+for comparison with those of other cultures is illegitimate. An
+element has no mcaning except in its context; in isolation it is
+meaningless. I submit that this is nonsense. Specific functions, of
+
+617
+
+
+
+===== PAGE 314 =====
+
+The Rise of Anthropological Theory
+
+course, are discoverable only in context. Scientific laws or proposi-
+tions, however, can be arrived at, in anthropology, as in any
+other science, only by abstracting and comparing features observa-
+ble in many phenomena as they occur in nature [1965:146].
+
+This defense of the comparative method, with which all who aspire
+to nomothetic expression must concur, does not eliminate the tech-
+nical difficulties associated with the statistical survey approach. Until
+such time as the method under consideration approaches more closely
+to the idcal model, there is one firm conclusion which must be kept
+in plain view of those who are working with the considerably less than
+perfect ones: Statistical cross-cultural surveys can, indeed must, be
+used to supplement other modes of generating and testing hypothe-
+ses, but they cannot be used alone or even as the primary sources of
+nomothetic statements.
+
+THE PROBLEM OF CAUSALITY
+
+That the technique as it now stands cannot be used in isola-
+tion is evident in one glaring defect which is characteristic of all of
+the statistical comparative studies carried out since Tylor’s pioneering
+essay. None of them have been capable of showing causal relations.
+The reason for this is that the samples consulted have all been
+synchronic. None of the studies have concerned themselves with time-
+structured data and as a result they merely show probabilities of asso-
+ciation between eclements which as far as the statistical methods are
+concerned may be indifferently regarded as either dependent or
+independent. As Jorgensen (1966:162) observed: “Statistics cannot
+validate functional hypotheses or hypotheses about origins when the
+data are synchronic.”
+
+THE CASE OF THE DETERMINANTS OF
+KINSHIP TERMINOLOGY
+
+One of the most illuminating examples of this limitation on
+synchronic correlations may be found at the very heart of Murdock’s
+Social Structure. In the chapter entitled “Determinants of Kinship
+Terminology,” twenty-seven theorems are put to the test of the
+statistical comparative method. These theorems are divided into three
+sets, each of which is characterized by a particular class of “determi-
+nant,” namely, (1) marriage form, (2) descent rule, and (3)
+postmarital residence. After validating all twenty-seven theorems by
+
+618
+
+.
+
+21.
+
+Statistical Survey and the Nomothetic Revival
+
+demonstrating various associations between the “determinants” and
+kinship terminology, Murdock turns to the question of the relative
+“efficacy” of these “determinants.”
+
+He notes first of all that the coefficients of association found in the
+tables used to confirm the theorems involving marriage form are
+generally lower than those found in the tables used to confirm de-
+scent. He interprets this to mean that marriage forms have less
+“efficacy” than descent. The same relative standing is suggested by a
+test in which marriage form is pitted against descent rule by enumer-
+ating cases in which they both occur in a fashion which theoretically
+should tend to produce contradictory results in the relationship
+terminology. For example, in societies in which there is patrilineal
+descent, bifurcate merging terminologies are very common. On the
+other hand, in societies with nonsororal polygyny, bifurcate collateral
+terminologies are very common. When both patrilineal descent and
+nonsororal polygyny are present, what happens? The descent-pro-
+duced tendency toward bifurcate merging terminology takes prece-
+dence over the “effect” of the marriage rule; bifurcate merging terms
+are more common than bifurcate collateral ones. By similar kinds of
+steps, Murdock (1949:182) concludes that “the efficacy of marriage
+forms is greater than that of residence rules.” Finally separate proof is
+offered that descent is also “a more effective factor” than residence.
+This leaves us with residence as the least “effective” of the three
+“determinants.”
+
+AND THE LEAST EFFECTIVE SHALL BE
+THE MOST POWERFUL
+
+It quickly becomes apparent, however, that the so-called de-
+terminants are misnomered and that none of the correlations per se
+prove the existence of causal relations. Were this not the case, the
+most important assumption in the entire book would be wrong. For
+it is central to Murdock’s explanation of varieties of descent and
+kinship terminology, as well as of the probable direction of the evolu-
+tion of “social structure,” that residence is the most powerful determi-
+nant of all the factors considered. “Powerful” here means that “the
+rule of residence is normally the first aspect of a social system to
+undergo modification in the process of change from one relatively
+stable equilibrium to another . . .” (ibid.:183). It means that “it is
+in respect to residence that changes in economy, technology, property,
+government, or religion first alter the structural relationships of
+related individuals to one another, giving an impetus to subsequent
+
+619
+
+
+
+===== PAGE 315 =====
+
+The Rise of Anthropological Theory
+
+modifications in forms of the family, in . . . kin groups, and in kin-
+ship terminology” (ibid.:202). It means also that “no place is allotted
+in this hypothesis for the influence of such factors as preferential
+marriage customs” (ibid.:222). That is, one does not ordinarily expect
+changes in marriage rules or descent rules to initiate changes in resi-
+dence, but one does expect changes in residence to initiate changes in
+marriage and descent rules. Some additional indication of the im-
+portance of this deterministic order can be gained from Murdock’s
+lavish praise of Lowie for having been the first anthropologist to
+demonstrate the causal significance of residence (actually Tylor long
+preceded Lowie on this point): “This is by far the most important
+contribution of any modern anthropologist to our knowledge of the
+evolution of social organization” (ibid.:202). It should be noted that
+the argument of about half of Social Structure is directly or in-
+directly contingent upon the validity of this appraisal. Before pursuing
+the question of the method which Murdock employs to validate the
+importance of residence, the negative significance of the positive cor-
+relations should be stressed.
+
+If residence is the most powerful determinant of kinship termi-
+nology, why does an analysis of the coefficients of association show
+that descent and marriage forms are more “cffective” in producing
+particular varieties of kinship terminologies? The answer is that they
+do nothing of the kind. They show nothing about one factor “pro-
+ducing” another; all they do is predict the frequency with which two
+factors will be found in association. They show nothing about the
+causes of kinship terminologies. They are not determinants; they are
+merely predictors.
+
+CAUSALITY IS ALIVE AND LIVING
+EVERYWHERE
+
+It is fashionable in contemporary social science to ignore the
+difference between a causal relationship and an associational one. This
+haughty attitude no doubt has its roots in Hume’s famous critique of
+the inductive method. When we say that x causes y we merely declare
+a regular relationship between the two. Thus, the notion of cause as
+a metaphysical property is superfluous. But in a causal statement, the
+association of x with y has a temporal component, namely that y
+follows x. A nomothetic statement which lacks a causal arrow is a
+contradiction in terms; its absence can be tolerated only as a token
+of work in progress. If mere statistical associations are offered in licu
+
+620
+
+T
+
+21. Statistical Survey and the Nomothetic Revival
+
+of statements of cause and effect, science is defeated, for it is knowl-
+edge and not ignorance which deserves to be counted.
+
+The difference between causal factors and mere predictive ones is
+not to be taken lightly. It is the difference in knowing whether
+wounds cause gunshots or gunshots cause wounds. Bullet holes are
+excellent predictors of gunshots. As all devotees of Hercule Poirot
+know, there is a high correlation between gunshots and bullet holes,
+but no murder has yet admitted of the possibility that it was the
+fatal wound which caused the gun to discharge its contents. Along
+the same lines, one might note how reliably rain predicts clouds, or
+how frequently fire engines are found near burning buildings. If any
+additional examples are needed, they are available to anyone who
+has a movie projector which can be run in reverse.
+
+I am tempted to elaborate further on the method by which the
+time relationship between two variables is utilized to separate cause
+from effect, since once again it is obviously not merely a matter of
+correlating any two variables which happen regularly to occur in se-
+quence (cf. BLALock 1961:19ff.). But it is sufficient for our present
+discussion that we realize why additional logico-empirical operations
+are necessary before synchronic cross-cultural statistical comparisons
+can be made to contribute to the advance of knowledge. Perhaps it is
+even more important that we realize that the mere multiplication of
+correlation studies, as in Robert Textor's (1967) 20,000 computer-
+calculated correlations, may actually be the equivalent of running a
+movie backwards and hence a source of ignorance and confusion as
+well as of correlations.
+
+THE PRIMARY IMPORTANCE OF
+MURDOCK S CAUSAL HYPOTHESES
+
+It would be unfair to attribute to Murdock a lack of interest
+in separating causal from predictive variables. Indeed, Murdock’s
+theory of the determinants of kinship groups and of kinship termi-
+nologies must be acknowledged as the most important nomothetic
+advance in the study of social organization since Morgan’s Systems
+of Consanguinity and Affinity of the Human Family (1870). But the
+methodological structure of Murdock’s achievement has been obscured
+by the razzle-dazzle of his statistical tables and by his ritualistic avoid-
+ance of the consequences of his own major causal premises.
+
+The manifest structure of Murdock’s presentation would have us
+believe that the twenty-seven theorems concerning the “determinants
+
+621
+
+
+
+===== PAGE 316 =====
+
+The Rise of Anthropological Theory
+
+of kinship terminology” are set forth in order to validate a single
+postulate which is given formal expression in the following terms:
+
+Postulate 1. The relatives of any two kin-types tend to be called
+by the same kinship terms, rather than by different terms, in in-
+verse proportion to the number and relative efficacy of (a) the in-
+herent distinctions between them and (b) the social differentials
+affecting them, and in direct proportion to the number and rela-
+tive efficacy of the social equalizers affecting them [1949:138].
+
+Although it sounds impressive, this postulate is rather trivial once the
+jargon is stripped away. In translation, what Murdock is really saying
+is that kinship terminologies are determined by all the factors that
+determine them. He himself practically admits as much in the very
+next paragraph:
+
+Rephrased in looser language, the postulate states that the exten-
+sion and differentiation of kinship terminology is the product of
+the joint interplay of all inherent and cultural factors which sig-
+nificantly affect the degree of similarity or dissimilarity between
+particular categories of relatives [ibid.].
+
+In order to understand the logico-empirical structure of Mur-
+dock’s magnum opus, we must go back to an earlier portion of the
+same chapter wherein Murdock undertakes to make explicit all as-
+sumptions upon which Postulate 1 is based. There are thirteen such
+assumptions, most of which are merely definitional and need not
+concern us here. There is one, however, namely the twelfth, which
+provides the key to Murdock’s theoretical position:
+
+Our twelfth assumption is that the forms of social structure
+are not determined by kinship patterns or terminology, or influ-
+enced in any major degree by them, but are created by forces
+external to social organization, especially by economic factors. It
+is assumed hercwith, for cxample, that the available sources of
+food and the techniques of procuring it affect the sex division of
+labor and the relative statuses of the sexes, predisposing peoples
+to particular rules of residence, which can eventuate in the forma-
+tion of extended families, clans, and sibs. It is further assumed
+that the prevailing types and distribution of property favor partic-
+ular rules of inheritance, that wealth or its lack affects marriage
+(e.g. encouraging or inhibiting polvgyny), and that these and
+other factors external to social structure can strongly influence
+rules of residence and marriage and through them the forms of
+social organization and kinship structure. This assumption is de-
+rived from the analysis by Lowie of the origin of sibs, from our
+own supportive cvidence as presented in Chapter 8, and from the
+
+622
+
+hall
+
+21.
+
+Statistical Survey and the Nomothetic Revival
+
+various theorists from Marx to Keller who have stressed the im-
+portance of economic factors in cultural change [ibid.:137].
+
+What is the relationship between this assumption and the 27 theorems
+which it is alleged to underly? None. If anything, as we have scen,
+the analysis of the theorem leads to contradictory conclusions con-
+cerning the “effectiveness” of residence. Indeed Murdock is forced to
+go through an extraordinary turnabout in order to make the two
+ends of his argument meet without the one destroying the other.
+
+Despite our tentative conclusion that rules of descent and the
+kin groups resulting from them rank highest in relative efficacy
+among the major groups of kinship determinants, followed by
+forms of marriage and the consequent family types, the influence
+of residence rules should not be too heavily discounted
+[ibid.:182].
+
+Note the remarkable understatement embodied in the phrase “the
+influence of residence rules should not be too heavily discounted.”
+How can we reconcile this hesitancy with the bold language of as-
+sumption 12 or the even bolder: “when any social system which has
+attained a comparatively stable equilibrium begins to undergo
+change, such change regularly begins with a modification in the rule
+of residence” (ibid.:221)?
+
+In terms of the larger theory with which Murdock approaches his
+subject, the relatively poor predictive value of residence is easily
+explained as a result of a lag in the responsiveness of terminology—
+precisely the same argument as that used by Morgan to justify the
+use of kinship terminology for the reconstruction of earlier phases of
+social organization:
+
+Hence in systems undergoing transition, of which any large and
+random sample of human socicties will necessarily include a
+considerable number, kinship terms will more often be consistent
+with the conservative rule of descent than with the progressive
+rule of residence [ibid.:183].
+
+THE LOST STRATEGY OF THE TWELFTH
+ASSUMPTION
+
+But what is of interest here is that “the adaptive changes”
+in kinship terminology described in the twenty-seven theorems are
+explicitly said to take place after the initiation of residence changes.
+And yet this supremely important causal statement remains through-
+out the book nothing but an “assumption” (ibid.:137, 221). What we
+
+623
+
+
+
+===== PAGE 317 =====
+
+The Rise of Anthropological Theory
+
+should like to know at once is why this assumption, upon which
+rests Murdock’s entire subsequent treatment of the “evolution of
+social organization,” is not the focus of intense inquiry.
+
+As Keller freely acknowledged (see p. 60g), this assumption com-
+mits one to the strategy of cultural materialism. Applied to kinship
+terminology and residence, it calls for the study of the techno-
+economic and techno-environmental causes of residence changes. But
+the strategy which Murdock actually pursues is highly ambiguous. On
+the one hand he establishes himself as the representative of the hard,
+statistical approach and on the other hand, he carefully detaches his
+deterministic assumptions from any deterministic theory of history.
+Although this would not seem possible in view of assumption 12
+and in view of other achievements associated with his study of kin-
+ship systems, it is accomplished by what I should like to describe as
+the “miracle” of the “principle of limited possibilities.” And it is to
+this extraordinary doctrine that we must now turn our attention.
+
+THE PRINCIPLE OF LIMITED
+POSSIBILITIES
+
+MurdocK’s first reference to limited possibilities occurs in his
+article “The Common Denominator of Cultures” (1945), where it is
+used to explain why the universal pattern exists. The nature of
+man, the world in which he lives, the physical and chemical properties
+of materials, the physical and behavioral characteristics of other ani-
+mals, set conditions for successful responses: “These conditions intro-
+duce into cultures the principle of limited possibilities, which is of
+extreme importance in determining the universal culture patterns”
+[1945:139]. In this form, the principle of limited possibilities is
+unobjectionable and merely states that cultural similarity is “not a
+mere artifact of classificatory ingenuity but rests upon some substan-
+tial foundation . . .,” namely, adaptive responses to the condi-
+tions of human existence. In this form it is merely a reaffirmation of
+Sumner and Keller’s belief in the lawfulness of the domain of history
+since it predicts that cultures will not diverge endlessly, but will be
+confined to a limited number of adaptations to the conditions of
+human life.
+
+Murdock’s next use of the principle, however, introduces a rather
+new emphasis. In Social Structure (1949:115) he calls it “the crucial
+criterion” for deciding whether a comparative or “sociological” as con-
+trasted with a “purely historical” approach is warranted:
+
+624
+
+21. Statistical Survey and the Nomothetic Revival
+
+Where there are no practical limits to the variety of responses
+which people can make in particular situations, cultural forms can
+vary endlessly with little comparability between those of unre-
+lated societies, with the result that satisfactory interpretation
+
+must depend very heavily upon historical investigation of local
+and regional influences [ibid.].
+
+Murdock here informs us that the principle of limited possibilities
+applies to some domains of culture but not to others. The list of
+domains to which it allegedly does not apply is staggering: language,
+ceremonial, folktales, art, technology, and “other aspects of culture.”
+“In all such cases, the overwhelming majority of cross-cultural similari-
+ties must necessarily be attributed to diffusion” (ibid.). The only ex-
+ceptions which Murdock admits are “kinship terms and their deter-
+minants.” He proceeds to demonstrate this by asserting that a
+group may either “recognize or ignore sex,” affinity, etc., may either
+be monogamous, polyandrous, or polygynous; recognize either levir-
+ate, sororate, or cross-cousin marriage; have either bilateral, matrilineal,
+or patrilineal rules of descent; practice either patrilocal, matrilocal,
+avunculocal, neolocal, or bilocal residence; and so on through family
+forms and types of kin groups (ibid.:116).
+
+Two problems which escape Murdock’s attention have now
+reached the crisis stage. First, it is obviously false that when parallels
+occur in the domains which Murdock singles out as being exempt
+from his principle, that they must be attributed to diffusion. He is
+wrong even in the best case, namely, linguistics, in which parallelisms
+and convergences in phonetics, phonemics, and syntax have been
+demonstrated by a long line of linguists, from Zipf (1935) to Green-
+berg (1963). But much more distressing is the promulgation of a point
+of view which asserts that technology is less subject to limitations
+than social structure! It was to explain technological parallels that
+the concept was originated.
+
+ONE OAR IS NOT AS GOOD AS ANOTHER
+
+The anthropologist who first introduced and elaborated the
+principle of limited possibilities—Alexander Goldenweiser—employed as
+his favorite examples sword handles, knives and other tcc]mol'ogical
+items. Goldenweiser’'s most cherished case, however, was the technology
+of nautical propulsion: )
+
+I? may be observed here incidentally that the operative condi-
+tions or use to which an article is to be put, often provide limiting
+
+625
+
+
+
+===== PAGE 318 =====
+
+21. Statistical Survey and the Nomothetic Revival
+
+The Rise of Anthropological Theory
+
+conditions which in a sense predetermine the technical solution,
+thus leading to comparable results whenever such a solution is
+reached. Take, for example, an oar. Abstractly speaking, an oar can
+be long or short, light or heavy, circular in cross section or flat,
+wide or narrow, of even width throughout its length or otherwise;
+it can also be made of more than one material. Now in accordance
+with local conditions or chance, most of these shapes and ma-
+terials may have been used for oars at one time or another, and a
+variety are still being used in a pinch. . . . But if you want a
+good oar—and this is what at length you do want—the end result
+is limited by conditions of use. . . . These limitations are so
+drastic that every oar is—emphatically—an oar, implying numer-
+ous points of similarity between all oars [1942:124-25].
+
+Let us translate Goldenweiser’s point about “a good oar” into less
+anthropocentric terminology: a good oar is an evolutionarily viable pro-
+pulsion device adapted to small boats in which energy is transmitted
+from the human arm to the water. And now we perceive the second
+crisis in Murdock’s version of nomothetic propriety: It is simply false
+that there are only nine possible ways to classify kinsmen, three ways
+to get married, three (or four) ways to reckon descent, and five ways
+to take up postmarital residence. What Murdock means to say is
+that there are only a limited number of ways under certain conditions
+(not specified by him) to make “a good oar,” or in less anthropocen-
+tric terms, only a limited number of evolutionarily viable terminological
+systems, marriage arrangements, descent rules, and residence practices.
+
+Early in the century Lowie (1912:37) had asked the rhetorical
+question, “How many ways of fastening a skin membrane to a drum
+are conceivable?” He actually thought there were only “limited possi-
+bilities.” But with Goldenweiser as a guide, it is clear that what Lowie
+had in mind was not how many kinds of drums are conceivable, but
+rather, how many kinds could be expected to survive the selective
+tests (durability, loudness, cost, etc.) to which drums are exposed
+under specific biocultural conditions.
+
+It is easy to imagine kinship terminologies which Murdock has
+not considered. (Actually, since his major types of “kinship organiza-
+tion” are based only on cousin terms, hundreds of variants are known
+from fact and not fancy.) Why, for example, is it a nonpossibility for
+a terminological system to recognize not two, but three or four sexes;
+for new marriages to take place after each pregnancy, the first monog-
+amous, the second polyandrous, the third polygynous; or why not
+descent which is patrilincal in the morning, matrilineal in the after-
+noon, bilateral in the evening, and double on Sundays? Shall we not
+ask, in other words, why elephants do not have two heads, why cab-
+
+626
+
+bages do not grow on clouds, and why the moon is not made of Swiss
+cheese? The limited possibilities of nature are none other than the
+forms which evolution has produced. The task of scicnce is to explain
+why they were produced. They cannot be explained by saying the other
+possibilities are illogical.
+
+EVOLUTION IS FORTUITOUS AND
+UNPREDICTABLE
+
+During a discussion commemorating the one hundredth an-
+niversary of the publication of Origin of Species, Murdock explicitly
+opposed the doctrine of limited possibilities to a nomothetic view of
+history. Objecting to Whitc’s version of evolutionism, he insisted
+that the true model of cultural evolution was, as in biology, an end-
+lessly diverging “tree.” He proposed:
+
+1. That evolution is an actual process of change, not a classifica-
+tory characterization of sequences.
+
+2. That evolution consists of real events, not of abstractions from
+events, so that evolutionary development is historical in the
+strictest and most literal sense.
+
+3. That the course of evolution is fundamentally divergent or
+multilinear. When parallel development occurs in more than
+one evolutionary line, the sequences and results are similar
+onlly in a typological sense, and are never in any respect identi-
+cal.
+
+4. That evolution operates by a purely fortuitous mechanism,
+and is neither predictable, predetermined, nor purposive
+
+[1959b:129].
+
+Murdock next proceeds to identify this model with Steward’s concept
+of multilinear evolution: “Unless I completely misread him,” he
+says of Steward, “he considers all cultural evolution to be basically
+multilinear and regards cases of parallel development as exceptions
+demanding special investigation” (ibid.:130-31). Murdock then con-
+cludes that multilinear evolution is really nothing but what anthro-
+pologists have all along been calling “cultural change”:
+
+The group of processes usually designated collectively as those
+of culture change, and on which we possess an immense literature,
+corresponds closely in practically every respect to the processes of
+organic change known to the biologist as evolution. Culture change
+meets exactly the criteria embedded in our four statements. It
+refers to actual processes of change, not to abstracted typological
+sequences. Its events are historical in the most literal sense, and
+in their totality constitute culture history. Its course or direction
+
+627
+
+
+===== PAGE 319 =====
+
+The Rise of Anthropological Theory
+
+is fundamentally multilinear. And it operates in a fortuitous, not
+in a predictable or predetermined manner. Moreover, it is adapt-
+ive, producing cultural adjustments to the geographical environ-
+ment and to the other basic conditions of life [ibid.:131].
+
+But if cultural evolution is “fundamentally multilinear,” “not pre-
+dictable” and “fortuitous,” how do we account for the fact that, as
+Murdock himself assures us, only “five major kinship systems” are
+found in “an analysis of 447 societies drawn from all parts of the
+world and from all levels of culture” (ibid.:135)? Murdock’s explana-
+tion is as follows:
+The resemblances are typological, not historical or necessarily
+even functional. They occur because only a certain limited num-
+ber of combinations of rules of descent, residence patterns, forms
+of family organization, and methods of classifying kinsmen con-
+stitute configurations whose elements are genuinely consistent
+with each other, so that they represent states of equilibrium to-
+ward which other combinations tend to gravitate over time [ibid.].
+
+Were it not for the stipulation in the first sentence that the con-
+sistency and equilibrium in question are not necessarily functional,
+but may merely be typological, the second sentence might pass
+muster as an assertion of evolutionary determinism in the realm of so-
+cial organization. But the two together constitute a classic case of
+eating cake and having it.
+
+Ordinarily one might suppose that the principle of limited possi-
+bilities was nothing more than an improvisation, like the “ether” or
+“phlogiston,” for dignifying a lack of knowledge about causal pro-
+cesses. But Murdock’s cryptic commitment to cultural materialism
+profoundly complicates the issue. This is not the usual case of theo-
+retical bafflement, but rather a highly original form of retrenchment:
+the causal theory is abandoned, not because it fails to give results, but
+because it shows signs of becoming too successful. That only five
+major kinship systems emerge from a study of a representative sample
+of 447 societies drawn, according to Murdock, “from all parts of the
+world and from all levels of culture,” suggests the existence of extraor-
+dinarily powerful, selective, deterministic, evolutionary forces.
+
+THE EVIDENCE FOR EVOLUTIONARY
+UNPREDICTABILITY
+
+To conclude in the face of his own lifework that evolution
+operates in a “fortuitous, not in a predictable or predetermined
+manner” (1959b:131) surely must imply an overpowering mass of
+
+628
+
+21. Statistical Survey and the Nomothetic Revival
+
+evidence in support of the historical-particularist view. And this is
+just what Murdock asserts in Social Structure: “The forms of social
+organization, indeed, appear to show a striking lack of correlation
+with levels or types of technology, cconomy, property rights, class
+structure, or political integration” [1949:187]. What kind of evidence
+is presented to justify this extravagant statement, so clearly refuted by
+Sumner and Keller; by Hobhouse, Wheeler, and Ginsberg; by Nie-
+boer; by Spencer, Tylor, Morgan, Marx, and Engels; not to mention
+White, Childe, Steward and Wittfogel?
+
+Since the methodological strength of Social Structure lies in the
+statistical cross-cultural survey technique, one might suppose that
+“the striking lack of correlation” refers to a set of relevant tables. But
+there are no such tables in the book. Not only are tables correlating
+technology, economy, property rights, class structure, and political
+organization absent from Social Structure, but the book lacks alto-
+gether anything remotely resembling a systematic treatment of these
+subjects. “Technology” does not even appear in the index! The
+“evidence” consists rather of the following taxonomic decision:
+
+As will appear below, an objective classification of societies in
+terms of their similarities in social structure results in grouping
+together under the same specific type and sub-type such dissimi.
+lar peoples as the New England Yankees and the forest-dwelling
+Negritoes of the Andaman Islands, the imperialistic Incas and the
+Vanimo Papuans of New Guinea, the Mayan Tzeltal of Yucatin
+and the backward Miwok of California, the civilized Nayars of
+India and the primitive nomadic Veddas of the interior of Cey-
+lon. Nowhere does even a revised evolutionism find a shred of
+support [ibid.].
+
+DO NEW ENGLANDERS AND
+ANDAMANESE HAVE THE SAME TYPE
+OF SOCIAL STRUCTURE?
+
+) The only reasonable conclusion which can be drawn from a
+classification which lumps the social structures of the New England
+Yankees with that of the Andaman Islanders is that the originator of
+th.e glassiﬁcation has made a singularly poor choice of taxonomic
+criteria. Let us examine the criteria employed by Murdock for bringing
+together into one category such unlikely bedfellows. There are nine
+traits which the Yankees and Andamanese share in common: (1) Bi-
+lateral descent, (2) Eskimo cousin terms, (3) Neolocal residence,
+(4) Absence of clans, (5) Incest prohibitions extended to ﬁrs';
+cousins, (6) Monogamy, (7) Nuclear family, (8) Lineal aunt
+
+629
+
+
+
+===== PAGE 320 =====
+
+The Rise of Anthropological Theory
+
+terms, and (9) Lincal niece terms (ibid.:228). Since three of these
+nine (2, 8, 9) refer to kinship terminology, we might very well argue
+that there are really only seven traits in common. But there is no
+need for pressing in this direction. Let us quickly mention some of
+the items of social structure which are present among the Yankees,
+absent among the Andamanese, and ignored by Murdock. Such a list
+might be expected to contain towns and cities, social classes, endoga-
+mous minorities, religious congregations, political partics, benevolent
+associations, universities, manufacturing companies, jails, state legisla-
+tures, municipal councils, law courts, and street corner groups. The
+Andamanese, for their part, have a few items which Murdock has not
+managed to squeeze into his check list: the levirate (RADCLIFFE-BROWN
+1933:73), infant betrothal (ibid.), communal ownership of land
+(ibid.:41), gerontocracy (ibid.:44), and the corporate hunting and
+gathering band. Especially interesting is their highly elaborated adop-
+tion system (ibid.:77). This institution reduces to a shambles Mur-
+dock’s claim that the forms of family organization among the Yankees
+and Andamanese are of the same nuclear family type:
+
+It is said to be of rare occurence to find any child above six
+or seven years of age residing with its parents, and this because it
+is considered a compliment and also a mark of friendship for a
+married man, after paying a visit, to ask his hosts to allow him to
+adopt one of their children. The request is usually complied with,
+and thenceforth the child’s home is with his (or her) foster-
+father; though the parents in their turn adopt the children of
+other friends, they nevertheless pay continual visits to their own
+child, and occasionally ask permission (!) to take him (or her)
+away with them for a few days [ibid.].
+
+Is this a way to run a Yankee household?
+
+THE CASE OF THE CHINESE CLAN
+
+The lumping together of Yankee and Andaman social struc-
+ture fulfills Boas' worst apprehensions concerning the comparative
+method. Murdock is betrayed into this error by his expectation (is it a
+hope?) that the blessings of the principle of limited possibilities are
+reserved only for residence, descent, and terminology. His conclusion
+strongly suggests the need for a revision of the categories upon which
+it is based. At the very least, one would expect that it not be paraded
+
+to and fro as a wholesome product of superior scientism.
+One additional example of violence to context must suffice for
+our rejoinder to Murdock’s denial of evolutionary regularities. Among
+
+630
+
+21. Statistical Survey and the Nomothetic Revival
+
+the allegedly false correlations of the discredited “evolutionists” is the
+belief_tha.t the sib and clan tend to disappear at the state level of
+organization. “That the sib disappears with the development of the
+state,” writes Murdock, “is negated by the Chinese and the Manchus.”
+(1949:187). This case has been taken up by Morton Fried (1957)
+whp has demonstrated the capricious nature of a taxonomic priuc)il/)le,
+which would lamp together the egalitarian, land-owning Iroquois or
+Tungus sib with the highly stratified Chinese descent groups:
+
+(;hinese social organization includes units which are clearly rccog-
+nizable as unilincal descent groups. These groups, houcvér, have
+a number of featurcs which distinguish them from apparently
+qnalogous groups. In China therc is rclative emphasis on familial
+independence, marked differences between the wealth and au-
+thority of the family units, and a formal emphasis on written
+genealogies. There is also a highly developed ancestor cult which
+stresses the importance of direct descent from influential pro-
+genitors [ibid.:16].
+) It is clear that Murdock can justify the inclusion of his state-level
+instances of sibs under the same rubric as that under which egalitar-
+1au‘51bs are placed only by ignoring the profound functional differences
+which pertain in the two classes of instances (cf. FREEDMAN 1958:
+138fF.). But even were he to insist on the residual similarities which
+characterize “sibs” under all conditions, he would yet remain very
+far fr(_)m sustaining his point about lack of correlation between state
+organization and the disappearance of the sib. To begin to make any
+headway in this enterprise, one would have to show correlation—
+use a sample—and that he has not done. Why do some theories require
+a I}undrcd statistical runs to be proven partially true, while others re-
+quire no statistics whatsoever to be proven entirely false?
+
+This issue is further complicated by Murdock’s admission that a
+statistical treatment of the sib-state relationship would confirm the
+generally accepted nineteenth-century position: “Political evolution
+from a gentile to a territorial state, for example, has frequently been
+followed in Africa, Asia, and Europe, by the disintegration of clans
+
+and the weakening of unilinear ties” (ibid.:203). But why are there
+no tables on this subject? ’
+
+TOWARD A BETTER KIND OF SAMPLE
+
+) Pulrt of the answer lies in the nature of the sample which is
+contained in the Human Relations Area Files. Murdock’s basic pre-
+
+occupation has always been to achieve representativity of world regions
+
+631
+
+
+
+===== PAGE 321 =====
+
+The Rise of Anthropological Theory
+
+and of culture areas within these regions. Although this concern is
+important and should be maintained, it leaves the question of the
+representativity of the sample with respect to major types of social
+structure entirely at the mercy of chance. It thus ignores Steward’s
+critique of the traditional culture area classification. As a result one
+can not approach the Files with questions involving the frequency
+with which state-level societies are associated with unilinear descent
+groups, nor can one inquire how frequently chiefdoms lack such
+groups, or how frequently band-organized societies practice polygyny.
+
+Nonetheless, it should be pointed out that in the construction of
+the World Ethnographic Sample, Murdock (1957) has made provi-
+sions- for overcoming this kind of problem by including at least one
+example of each basic type of economy represented in each of sixty
+culture areas. It may be taken as a further sign of Murdock’s retreat
+from the exposed position of Social Structure that his contribution to
+the Festschrift for Steward (Process and Pattern in Culture) contains
+the admission that “Levels of political integration, as many studies
+have shown, tend to be correlated with complexity in subsistence
+economy and technology and with demographic factors” (murpock
+1964:405). With the inclusion of column 38 in the World Ethno-
+graphic Sample (MURDPOCK 1962), it is now possible to choose a
+sample which will be approximately representative of different levels
+of sociocultural integration.
+
+THROW THE WALL AND
+
+SEE IF
+
+IT AGAINST
+IT STICKS
+
+A closer look at Social Structure thus reveals why the
+statistical cross-cultural survey method should never be the lone or
+primary instrument of nomothetic research. The correlations achieved
+by what has been called “the-throw-it-against-the-wall-and-see-if-it-
+sticks” technique are unlikely to build on their own toward macro-
+theory. Let us admit that positive correlations established in the face
+of the hazards of coding and the unreliability of the sources may
+nonetheless, barring systematic bias, merit our confidence (cf. . camp-
+BELL 1961; 1964; 1965). There remains, however, the problem of the
+noncorrelations which arise from poor ethnography, biased analysis,
+faulty coding, and improperly phrased hypotheses. It is quite pos-
+sible by the throw-it-against-the-wall method to write a hundred
+trivial equations none of which relate to the others, or all of which
+relate to each other indiscriminately, and at the same time to get a
+negative result on the theory which subsumes them all. If we wish to
+
+632
+
+e
+
+21.
+
+Statistical Survey and the Nomothetic Revival
+
+achieve an orderly picture of history, we must begin by assuming
+that there are certain orderly principles which are at work. And
+we must use these principles to order and classify the data. We
+cannot simply throw our data against the wall to see if it sticks
+according to the predicted pattern. Rather, we must process the
+data, question it, classify it, and code it, in relation to the expectations
+of our major premises. Then and only then can we accept a failure
+to stick to the wall as evidence against the major premise. At the same
+time, it is only from such a procedure that the particular correlation
+on each trial may be seen as connected and governed by the general
+principles of sociocultural evolution.
+
+A close look at Murdock’s Social Structure in other words reveals
+that there is no substitute for macro-theory founded on detailed dia-
+chronic and synchronic causal-functional analysis of specific cases. It
+is out of such studies, imperfect as they may have been, that a view
+of the macro-evolutionary tendencies of sociocultural systems was
+gradually built up during the past two centuries. The general frame-
+work of sociopolitical evolution from paleolithic bands to several
+different varieties of tribes, chiefdoms, and states is firmly established
+(cf. FrIED 1967). The relative fruitfulness of the techno-economic
+and techno-environmental explanations is also well established. Classi-
+fications which ignore the broad levels of sociocultural evolution
+and which evade the consequences of cultural materialist causality in
+the name of inductive purity pursue a false image of science. On the
+other hand, the utility of the statistical cross-cultural survey is beyond
+dispute and Tylor’s belief that “in statistical investigation the future
+of anthropology lies” still holds true when statistical investigation is
+used as a method for revealing unsuspected connections among
+institutions, for identifying exceptions to regularities, as a measure of
+probability, and as an indicator for research needs. But it holds true
+only if we accept the larger theoretical frame within which Tylor
+sought to encourage the use of his method of “adhesions.” It remains
+true only if we also acknowledge that the major “institutions of man
+are as distinctly stratified as the earth on which he lives” (1889:269).
+
+633
+
+
+
+===== PAGE 322 =====
+
+Cultural Materialism:
+
+General Evolution ’)
+
+22. Cultural Materialism: General Evolution
+
+S
+5003
+
+It is a misfortune, some of whose consequences have already been
+described, that the return to diachronic and synchronic generalization
+has acquired the name “neoevolutionism.” This label confounds our
+understanding of the developmental continuities within anthropology
+by its suggestion of a revival of a doctrine which is associated with
+the struggle to establish the fact of speciation. Historical particularism,
+culture and personality, and synchronic functionalism are all perfectly
+compatible with both biological transformism and cultural trans-
+formism. Even the Kulturkreis school, in which religious doctrine
+played a definite supporting role, experienced no difficulty in accepting
+the fact that cultures evolve and that an explanation for such trans-
+formations could be achieved independently of hypothesis of sus-
+tained animistic interference. It scarcely strains the canons of scientific
+respectability of emic and idealist schools to associate their researclh
+with causal and evolutionary relations. Mead has made this clear in
+her recent expression of interest in evolutionary problems. She is per-
+fectly correct in her obscrvation that “most of the interests of cultural
+anthropologists are embraced by this concept” (MEAD 1964:327). And
+
+634
+
+when she traces the causes of change in Manus society to an eclectic
+mixture of personalitics and cultural setting, she evidently intends more
+than a local lesson in evolutionary causality. Yet Mead’s theoretical
+position remains largely uninfluenced by the specific kind of causal and
+evolutionary formulations which are distinctive of the post-Boasian
+period.
+
+No one has ever denied that cultures evolve in the sense that
+sociocultural systems undergo cumulative changes roughly analogous
+to those which eventuate in speciation or stellar and galactic trans-
+formations. The point at issue has always been the nature of the
+process of cultural change. And this dispute has two principal facets:
+how much parallelism and convergence has there been in sociocultural
+evolution and what has caused both the observed differences and ob-
+served similarities in the evolutionary careers of sociocultural systems?
+
+Neither of the two most important figures associated with the no-
+mothetic revival, namely Leslie White and Julian Steward, has ade-
+quately described the shared, novel, and strategically decisive ingredi-
+ent in their approach. Although White has on occasion (e.g., 1949b)
+discussed the main issues in anthropological theory in terms of
+“spiritualistic, vitalistic, or idealistic” versus “mechanistic, materialis-
+tic” views, he has given much greater emphasis to, and has become
+almost exclusively identified with, the defense of evolution. An even
+more conspicuous avoidance of the discussion of the materialist and
+idealist options has been characteristic of Steward’s treatment of
+evolution and causality. Yet by objective standards it is the application
+of the cultural-materialist strategy to the understanding of history
+which distinguishes their point of view from that of their predecessors
+and contemporaries.
+
+THE INFLUENCE OF SPENCERISM ON
+LESLIE WHITE
+
+In order to evaluate the debate between Steward and White,
+it is necessary first of all to recall our previous discussion concerning
+the miniscule role of cultural materialism in the works of Tylor and
+Morgan, by whom White alleges himself to be directly inspired (see
+Chap. 5). Indeed, White has so adamantly insisted on the continuity
+of his theories with those of Morgan and Tylor that he has refused
+to accept the label “ncoevolutionist” on the grounds that his own
+role extends only to the resurrection and not to the remodeling of
+nineteenth-century anthropological evolutionary theory:
+
+635
+
+
+
+===== PAGE 323 =====
+
+The Rise of Anthropological Theory
+
+22. Cultural Materialism: General Evolution
+
+But let it be said, and with emphasis, that the theory set forth
+here cannot properly be called “neoevolutionism,” a term pro-
+posed by Lowie, Goldenweiser, Bennett, Nunomura (in Japan),
+and others. Neoevolutionism is a misleading term: it has been
+used to imply that the theory of evolution today is somehow dif-
+ferent from the theory of cighty years ago. We reject any such no-
+tion. The theory of evolution set forth in this work does not
+differ one whit in principle from that expressed in Tylor's An-
+thropology in 1881, although of course the development, expres-
+sion, and demonstration of the theory may—and does—differ at
+some points. “Neo-Lamarckism,” “neoplatonism,” etc. are valid
+terms, but “neoevolutionism,” “neogravitationism,” “neoerosion-
+ism,” etc., are not [WHITE 1959b:ix].
+
+Although White has repeatedly stressed his indebtedness to Tylor,
+Morgan, and Darwin, there are two fundamental discrepancies in
+this picture. First, insofar as materialism figures in the outlook of
+these founding fathers, it is the materialism of Spencerism—the expla-
+nation of sociocultural differences in terms of biological selection.
+White, on the other hand, has devoted a massive effort to the
+criticism of both psychological and biological reductionism. His
+refrain, “Culture must be explained in terms of culture” (1949a:141),
+is opposed not only to Steward’s admission of the importance of
+environmental factors but to the theories of Morgan and Tylor as
+well. Second, White’s “Basic Law of Evolution” has no precedent
+among the nineteenth-century evolutionists with whom he seeks to
+align his work. This law reads as follows:
+
+Other factors remaining constant, culture evolves as the amount
+of encrgy harncssed per capita per year is increased, or as the
+efficiency of the means of putting the energy to work is increased
+[ibid.:368-69; orig. 1943].
+White’s “law” sounds like a definition more than a statement of co-
+variance. From the actual context, however, it is clear that it is neither
+alaw nor a definition but rather a statement of research strategy.
+
+WHITE 'S BASIC STRATEGY
+
+This strategy is the strategy of cultural materialism, phrased
+in energy terms. It is employed by White as the point of departure
+for the analysis of major trends with respect to both local and world-
+wide evolutionary modifications. The linkage with cultural materialism
+and with Marx (and not with Morgan, Tylor, and Spencer) is made
+clear during the course of the application of the “law of evolution” to
+the explanation of the major outlines of world history. For White
+
+636
+
+proposes to regard sociocultural systems as consisting of three parts:
+techno-economic, social, and ideological; and he states the causal
+relationships among these divisions in unmistakable terms:
+
+Culture thus becomes primarily a mechanism for harnessing
+energy and of putting it to work in the service of man, and, scc-
+ondarily, of channelling and regulating his behavior not directly
+concerned with subsistence and offense and defense. Social sys-
+tems are therefore determined by technological systems, and
+philosophies and the arts express experience as it is defined by
+technology and refracted by social systems [ibid.:3g0-g1].
+
+UN-AMERICAN ANTHROPOLOGICAL
+ACTIVITIES
+
+In her contribution to the Festschrift for White (Essays in
+the Science of Culture), Betty Meggers (1960:302-3) wrote:
+
+The law of energy and cultural evolution was first set forth by
+White in 1943. . . . This law is based on the recognition that all
+cultures are composed of three general classes of phenomena:
+technology, social organization, and philosophy. Of these, tech-
+nology is primary and determines the content and form of the
+other two components.
+
+This provided the occasion for an illuminating exchange between
+Meggers and Morris Opler, one of the relatively few figures in anthro-
+pology who may be reckoned as well-acquainted with Marxist theory.
+Opler’s point was that it was Marx and the Marxists, especially Nikolai
+Bukharin (1925), who were the true authors of “White’s Law,” de-
+spite the failure of White and his followers to cite these sources.
+Opler was intent on making this point because he apparently sought
+to damage the scientific status of the cultural-materialist position by
+emphasizing its incorporation into Communist dogma: “Apparently
+the ‘practical tool kit" Dr. Meggers urges upon the field anthropolo-
+gists is not quite so new as she represents, and its main contents seem
+to be a somewhat shopworn hammer and sickle” (1961:13). The
+impropriety of this remark is made all the more noteworthy by
+Opler’s failure to point out the reasons why White’s ideas could not
+conceivably be embraced by Communist doctrine. With his knowledge
+of Marxist literature, Opler is in no need of being reminded that
+it takes more than cultural materialism to qualify for Communist
+approval. One must also accept the dialectic nature of evolutionary
+process, cspecially as related to the primacy of conflict in structural
+change. One must at least be a dialectical materialist, accepting the
+
+637
+
+
+
+===== PAGE 324 =====
+
+The Rise of Anthropological Theory
+
+Hegelian clement in Marx, in order to put the “hammer and sickle”
+in one’s tool kit. White, who has never indicated the slightest interest
+in dialectics, qualifies therefore for one of the worst epithets in the
+Communist arsenal of antiheretical verbiage: he is what Engels was
+the fisst to call a “mechanical materialist.”
+
+It would be pointless to claborate the aspects of White's views
+which falsify Opler’s innuendo. The question of whether or not
+cultural materialism is a sound strategy for social science cannot be
+left to depend on whether those who espouse it would or would not
+be acceptable to the House Un-American Activities Committee. Scien-
+tific facts and theories cannot be tested by loyalty oaths. That the
+Russian geneticists were ultimatcly triumphant over their govern-
+ment’s attempt to purge them of “bourgeois” Mendclian principles
+is an encouraging sign for all of the sciences. Although the pressure to
+purge Western social science of theories of cultural materialism
+has not been as direct (barring the McCarthy interlude), its palpable
+cffects are ubiquitous: Western social scientists confront a situation
+strictly analogous to the former plight of the Soviet Mendelian geneti-
+cists. It is as if merely by virtue of the fact that Communists have
+politicized the meaning of cultural materialism that it must therefore
+be rejected as a valid strategy for nomothetic inquiry. But we cannot
+permit ourselves to be cut off from the valid contributions of Marx
+simply because our national ideology is deeply committed to the sup-
+pression of Marxist thought in total. Just as our physicists, chemists,
+physiologists, and mathematicians have established for themselves the
+right to use the products of scientific discovery regardless of the politi-
+cal milieu in which these have originated, so, too, must cultural anthro-
+pology feel free to use the discoveries of social scientists wherever and
+whenever they help to answer the questions in which we are interested
+
+THE ANTHROPOLOGIST IS NOT FOR
+BURNING
+
+Opler expressed amazement that anyone discussing White’s
+variety of techno-economic determinism could have attributed its
+beginnings to the early 1940's (actually, all that Meggers intended to
+do was to give the date of White’s statement, not the origin of the
+law).
+
+It seems incredible that anyone sccking to place in time and in
+the history of theory a point of view which systematically subor-
+dinates the social and idcological to the technological should com-
+pletcly overlook Marx and Engels and their heirs. It is curious
+
+638
+
+'y
+
+22. Cultural Materialism: General Evolution
+
+that our neo-cvolutionists constantly acknowledge their debt to
+Darwin, Tylor, and Morgan and never have a word to say about
+the relation of their ideas to those of Marx, Engels, Bukharin,
+Plekhanov, Labriola, Suvorov, Lenin, Stalin, et al. Yet it is patent
+that their formulations are a great deal closer to those of Bu-
+kharin and, indeed, to thosc of any thoroughgoing historical ma-
+terialist than they can ever be to those of Tylor or Morgan. What
+they share with Tylor and Morgan is a conviction that cultural
+evolution has taken place. With Marx, Engels, Bukharin, Ple-
+khanov, Labriola, and the others they share, in addition, convic-
+tions concerning the elements and mechanisms through which
+the process occurs. This close correspondence may be an instance
+of parallelism. It may be the result of stimulus diffusion. There is
+the possibility of lincal or collateral descent. Tt could reflect still
+other dynamic forces. It might be helpful to know what is in-
+volved. At any rate, before it becomes a matter of total assimila-
+tion, anthropologists might well take a closer look at recent
+
+intellectual history and at some recent trends in American ethnol-
+ogy [ibid.:18).
+
+Yet Opler’s incredulity is misplaced; what is hard to believe is that
+Opler does not know from firsthand experience the real reason for
+the avoidance of Marxist references by anthropologists who have
+discovered, or rediscovered, Marx’s contribution to the strategy of
+cultural materialism. It is incredible, since Opler himself, with his
+political innuendo, reveals himself fully prepared to expose and jeopar-
+dize his colleagues before the political passions of the times.
+
+WHITE S CONVERSION
+
+Despite the almost complete lack of reference to Marx and
+the Marxist literature in White’s books and articles, White's involve-
+ment with cultural materialism need not be ferreted out by lengthy
+citations of Bukharin's treatment of energy and technology. In Harry
+E. Barnes’s “Foreword” to Whitc's Festschrift, the same volume in
+which Meggers provoked Opler's attack, there appears a clear-cut
+statement of the relationship between White’s conversion to evolu-
+tionism and his exposure to Marxist theories. During his graduate
+studies, White had acquired a strong Boasian outlook. At the New
+School in New York, he was taught by Alexander Goldenweiser;
+and at the University of Chicago, where he obtained his degree in
+1927, he was influenced by the Boasians, Fay-Cooper Cole and Edward
+Sapir. His first anthropological article (1925) was a typically Boasian
+plea for the importance of the cultural factor in the determination of
+
+639
+
+
+
+===== PAGE 325 =====
+
+The Rise of Anthropological Theory
+
+personality and was in many ways parallel to the program upon which
+Margaret Mead was about to embark. The beginning of White’s shift
+to an implacably anti-Boasian position took place during the two
+years that he taught at the University of Buffalo. Since this was Iro-
+quois territory, he was obliged to read Morgan for the first time. And
+he was shocked as anyone must be who had accepted Morgan as a
+worthless example of speculative philosophy on the basis of second-
+hand opinion. It was at this point that he discovered that Morgan was
+a “remarkable scholar, savant, and personality.” The step from Morgan
+to Marx via Engels was inevitable, and in 1929 White was deeply
+enough involved in Marxist matters to take time out for a trip to
+the Soviet Union.
+
+The final step in Dr. White’s conversion to enthusiastic evolu-
+tionism was a tour through Russia and Georgia in 1929, during
+which he first made his acquaintance in any thorough manner
+with the literature of Marx and Engels, particularly those portions
+dealing with the nature and development of civilization. In his
+treatment of the origins of the family, Engels had made especially
+wide use of the views of Morgan on social evolution and thus
+tended to impress Dr. White still further with the validity and
+importance of the evolutionary approach. The writings of Marx
+and Engels also helped to reveal the reasons that Morgan’s theory
+of the role of property in cultural development was so vigorously
+attacked by Catholic scholars and by capitalist historians and
+economists [H. E. BARNES 1960:Xxvi].
+
+There is no need to repeat here the arguments against White’s equa-
+tion of antievolutionism with the central theoretical and factual
+errors of the historical-particularist school. We may take this whole
+issue as evidence of the extraordinary trauma which social science in
+the United States had experienced as a result of its isolation from
+Marxist viewpoints. White returned from the Soviet Union to take
+up a teaching position at the University of Michigan, where he ulti-
+mately succeeded in building one of the country’s major centers of
+anthropology. Although White was uncompromisingly and outspok-
+enly hostile to historical particularism, to psychological reductionism,
+to doctrines of free will and theological teleology, and to almost every
+other shibboleth of the Midwestern milieu in which he operated, he
+managed to avoid placing his critique within the arena of Marxist
+disputation. Perhaps this was made possible because the level of
+anthropological theory had slipped back so far toward a prescientific
+condition that there was enough to do merely by way of recapturing
+the ground upon which Marx had built without going beyond or even
+
+640
+
+22. Cultural Materialism: General Evolution
+
+equaling Marx’s own contributions. Nonetheless, many themes in
+Whites publications were fully anticipated by Marx and Engels. This
+should be understood to include Marx and Engels’s reworking of Mor-
+gan, for when White speaks of himself as an evolutionist following in
+Morgan’s footsteps, it is the Morgan as reinterpreted by Engels in
+the Origin of the Family, Private Property, and the State of whom
+we must think.
+
+WHITE'S DEFENSE OF MORGAN AND
+TYLOR
+
+White’s crusade on behalf of the defeat of the “antievolu-
+tionists” in order to restore the theory of evolution to its former
+prominence has produced irrelevant polemics. Kroeber (1948c), Lowie
+(1946; 1957), and Steward (1955) joined with him in discussions
+which have obscured the basic simplicity of White’s point. The
+theory of evolution for White is “the old and simple concept so well
+expressed by Tylor: . . . the great principle that every scholar must
+lay firm hold of, if he intends to understand either the world he lives
+in or the history of the past” (WmiTE 1959b:125). Returning to the
+full context of this “great principle,” we find:
+
+On the whole, it appears that wherever there are found elabo-
+rate arts, abstruse knowledge, complex institutions, these are re-
+sults of gradual development from an earlier, simpler, and ruder
+state of life. No stage of civilization comes into existence spon-
+taneously, but grows or is developed out of the stage before it.
+This is the great principle which every scholar must lay firm hold
+of . . . [rYLOR 1881:20].
+
+The perfect acceptability of this kind of evolutionism to the Boasian
+stalwarts has already been discussed.
+
+As long as there is no claim to the effect that all cultures must
+pass through a specific set of stages, no Boasian would ever deny that
+a series of worldwide evolutionary stages can be identified. Yet White
+has insisted over and over again in his defense of his nineteenth-
+century evolutionist heroes that they never proposed that all cultures
+necessarily passed through the same set of stages, e.g., Savagery, Bar-
+lbansm, Civilization. To speak of the position of Morgan and Tylor
+in terms of such an impoverished antinomy is misleading. It was not
+an all or nothing question for them nor is it one for us. As Sahlins
+and Service (1960:12) have observed, Tylor “laid out the study of
+cultural evolution both stage by stage as well as along its many lines.”
+The only issue worth discussing is the frequency of convergence and
+
+641
+
+
+
+===== PAGE 326 =====
+
+The Rise of Anthropological Theory
+
+parallelism; not whether there are exceptions to the regularitics of
+history, but rather how frequently these occur.
+
+In the perspective of Tylor and Morgan, there is no doubt that the
+parallclism and convergence were often assumed to be far more fre-
+quent than the facts have subsequently justified. For example, it was
+because of Morgan’s faith in the uniformity of the historical exper-
+iences of widely separated cultures that he was led to argue, on the
+basis of fragmentary evidence, that the Aztec were in a stage of culture
+which was not significantly different from that of the Iroquois. It
+was a similar faith in the uniformity of history which led Morgan to
+suppose that his fragmentary data on archaic Greece was adequate for
+identifying the matrilineal stage.
+
+When Tylor spoke of the tendency of the experience of mankind to
+move through uniform channels, it was not to say that mankind in
+general as distinct from mankind in particular cultures shared these
+channels. Such a distinction is a refinement for which White’s heroes
+had no need. Tylor meant that most (not all) cultures unfolded
+along similar lines (see p. 171). The exceptions, recognized by both
+Tylor and Morgan, were explicable in terms of race, diffusion, and
+environmental specialties.
+
+White has used this recognition of diffusion and local perturbations
+in the evolutionary sequence to distort the theories of the nineteenth-
+century evolutionists into a shape convenient for the maintenance of
+“evolutionism” as the center of twentieth-century controversy. He
+has argued that their evolutionism was not one of particular times
+and places but rather of the world as a whole. It is clear, however,
+that their interests encompassed both levels of generalization.
+
+UNILINEAR, UNIVERSAL, AND
+MULTILINEAR EVOLUTION
+
+In an attempt to formalize the differences between himself
+and White on the issue of evolutionism, Steward (1955) has proposed
+a threefold classification of evolutionary approaches: unilinear, uni-
+versal, and multilinear. The unilinear, says Steward, was characteristic
+of the “classical” evolutionists who “dealt with particular cultures,
+placing them in stages of a universal sequence” (1955:14). Morgan
+and Tylor fit in this category. But every one of the “classical” evolu-
+tionists also fit in Steward’s second (“universal”) category: “a rather
+arbitrary label” to designate Whitc’s “revamping of unilinear evolu-
+tion” and which “is concerned with culture rather than cultures.”
+Steward’s third brand of evolutionism is called “multilinear evolu-
+tion.” This is dcfined as follows:
+
+642
+
+A
+
+22. Cultural Materialism: General Evolution
+
+. it is interested in particular cultures, but instead of finding
+local variations and diversity troublesome facts which force the
+frame of reference from the particular to the general, it deals
+only with those limited parallels of form, function, and sequence
+which have empirical validity [ibid.:19].
+
+The inadequacy of this classification is shown by the fact that
+the two anthropologists whom Steward nominates for universal
+evolutionism, namcly White and V. Gordon Childe, are equally
+good contenders for at least one of the other categories. White, as
+much as the classical evolutionists, has attempted to locate specific
+cultures in relationship to universal schemes (ie., unilinear evolu-
+tionism). And in his most sustained substantive treatment of evolu-
+tion, The Evolution of Culture (1959b), White not only attempts to
+trace the whole course of cultural development, from the transition of
+anthropoid to human society to the beginnings of the iron age, but
+he also reconstructs specific cultural sequences in the light of the
+general trends manifest in the universal sequence. In Australia, for
+example, the Arunta system of marriage classes is said to have
+evolved from the Kariera type of relationship to “a higher stage of
+cultural development and social evolution” when “the maximum
+effectiveness of the cooperative group formed by marriage could not
+be achieved by union between first cousins” (19359b:173). More
+con.imon}y, it is White’s practice to interpret the significance of
+vatious institutions in particular socicties on the assumption that
+the culture has reached a certain level of evolution. Thus, his treat-
+ment of social stratification in Polynesia and the Northwest Coast
+draws heavily on the universalistic generalization (first advanced by
+the Edinburgh School in the eighteenth century) that “it is not until
+kinship has ccased to be the basis of social systems and society has
+become organized on the basis of property relations and territorial
+distinctions that true classes of subordination and superordination
+come into being” (ibid.:203)
+
+WHITE AND CHILDE AS MULTILINEAR
+EVOLUTIONISTS
+
+In every respect, White’'s The Evolution of Culture is the
+modern equivalent of Morgan’s Ancient Society, the only difference
+being the updating of some of the cthnography and the greater
+consistency of the cultural-materialist thread. White has explicitly
+rejected Steward’s attempt to make the “house of evolutionism” . . .
+“falsely divided against itself” (1959a:125). Programmatically, at least,
+
+643
+
+
+
+===== PAGE 327 =====
+
+The Rise of Anthropological Theory
+
+he has embraced all of the varietics of evolution set forth by
+Steward:
+
+It follows from the foregoing that culture may be regarded as
+a one or as a many, as an all-inclusive system—the culture of man-
+kind as a whole—or as an indefinite number of subsystems of
+two different kinds: (1) the cultures of peoples or regions, and
+(2) subdivisions such as writing, mathematics, currency, nlle.ta]-
+lurgy, social organization, etc. Mathematics, lzmguagc,. writing,
+architecture, social organization, etc. may each be considered as
+a one or a many, also; one may work out the evolution of mathe-
+matics as a whole, or a number of lines of development may be
+distinguished. Evolutionist interpretations of culture will th(-:‘re»
+fore be both unilinear and multilinear. One type of interpretation
+is as valid as the other; each implies the other [wHITE 1959b:
+
+30-31].
+
+As for the universal evolutionism of V. Gordon Childe, there must
+be taken into consideration not only Childe’s adherence to Morgan’s
+universal stages of Savagery, Barbarism, and Civilization in the presen-
+tation of the Middle Eastern archaeological sequences, but also
+Childe’s highly particularistic treatment of the emergence of a fiis—
+tinctly European culture area (CHILDE 1946; 1958). In actual practice,
+Childe is even more inclined toward multilinear evolution than is
+Steward:
+
+So on the whole archaeology does not hold out much prospect of
+correlating social institutions with stages of cultural development
+as defined in economic terms. But, after all, we have seen that
+such stages, apart from the three main status, are themselves
+hard, if not impossible to define. For within the status of bar-
+barianism at least, the observable cultural sequences do not follow
+parallel lines [cHILDE 1951a:165-66].
+
+As a matter of fact, Childe goes on to compare the diversity of
+cultural evolution with the Darwinian model of a tree “with branches
+all up the trunk and each branch bristling with twigs” (ibid.:166),
+and this is none other than the extreme limiting case of multilinear
+evolution.
+
+EVOLUTIONARY MODES AND
+EPISTEMOLOGY
+
+It is evident that the three evolutionary modes defined b}/
+Steward are not mutually exclusive. It is also evident that the logic
+
+644
+
+22.
+
+Cultural Materialism: General Evolution
+
+of Steward’s categories rests on a continuum involving degrees of
+abstraction away from the description of specific cases.
+
+At one end of this continuum there is the evolutionary transforma-
+tion which is characterized by or known through one case. For
+example, onc might want to consider the development of a four-
+caste apartheid system (Africans, Europeans, Coloreds, and Asians)
+as an cvolutionary product peculiar to South Africa. Similarly, the
+Natchez system of exogamous castes is not reported elsewhere, yet it
+is obviously resultant of a process of transformation (whose stages are
+as yet unknown).
+
+On a slightly higher level of generality, we may note the evolutionary
+products characteristic of several societies within a single culture area.
+The peculiar Australian speciality involving eight marriage sections is
+an evolutionary product of the transformation of two- and four-
+section systems. Parallelisms involving one or two cultures in several
+different culture areas also occur, as in the case of matrisibs in the
+Eastern Woodlands, West Africa, and Melanesia.
+
+Finally, there are the universal evolutionary products such as the
+nuclear family incest taboos or the belief in animism.
+
+All of these categories can be expanded or contracted indefinitely
+in accordance with the amount of ethnographic detail which is re-
+quired before we are willing to grant that two instances are the
+“same” or different. Universal evolutionism merely represents an
+extreme expansion of the tolerated degree of abstraction. Distinctions
+otherwise relevant between patrilateral and matrilateral marriage
+exchange system are canceled out and the remainder scooped up
+under the rubric “kinship regulation of marriage”; or endogamous
+hierarchies in India, the United States, and South Africa are treated
+as “caste system.” By ignoring millions of trivial differences, in
+order to emphasize a few significant similarities, we arrive at such
+theoretically vital notions as cgalitarian societies, state organization,
+feudalism, capitalism, or oricntal despotism. Conversely, with a suffi-
+ciently intense historical-particularist mandate, we may prove to our
+satisfaction that the state of affairs in eleventh century France had no
+parallel anywhere else in Europe, much less in Japan or West Africa.
+The mutual failure of both White and Steward to grasp the epistemo-
+logical issues which underly our judgments concerning evolutionarily
+significant similarities and differences goes a long way toward explain-
+ing the prolongation of their controversy beyond useful limits. This
+failure is especially acute in relationship to White’s refusal to admit
+that certain transformations studied by Steward qualify as “evolu-
+tionary” phenomena.
+
+645
+
+
+
+===== PAGE 328 =====
+
+The Rise of Anthropological Theory
+
+WHEN IS CHANGE EVOLUTION?
+
+My intent here is not to arbitrate the controversy over what
+is or is not evolutionary. Nothing could be more fruitless. The point
+at which the accumulation of changes in an old form results in the
+identification of a new form—in a “temporal sequence of forms’—is
+not a matter for research. The predictable end result of the further
+discussion of this theme is that differences of opinion will be resolved
+by introducing a few new terms (how about “minor,” “major,” and
+“mega” cvolution?). The matter for research as distinct from philo-
+sophical disputation is: What causes the observed changes, be they
+small or large, “systems” or “mere aggregates”? Whatever causes small-
+scale changes must be important for an understanding of large-scale
+changes; conversely, whatever causes large-scale changes must be im-
+portant for an understanding of the small-scale ones. Thus we have
+the mutual relevance of genetics and natural selection in the theory of
+bio-evolution; and of the physical chemistry of stars and the evolution
+of galactic forms.
+
+WHITE'S CRITERIA OF EVOLUTION
+
+Phrasing the nomothetic revival in terms of evolutionism has
+meant that the search for the underlying causal processes responsible
+for cultural differences and similarities has become mired in scholastic
+dichotomies. White has attacked Steward for studying nonevolution-
+ary changes on the model of historical particularism, and Steward has
+attacked White for his grandiose generalizations. In reviewing Stew-
+ard’s Theory of Culture Change, White (1957:541) declares:
+
+Steward falls between the two poles of idiographic and nomo-
+thetic interpretation, between the particular and the general. He
+is not content with mere particulars, but he cannot go the whole
+hog of generalizations. He wants generalizations but, as he says re-
+peatedly, they must be of limited scope (Theory, p. 22 et passim).
+Try to imagine a law of falling bodies, or of gravitation, of limited
+scope. Steward resembles one who discovers that this river and
+that flow down hill but is unwilling to go so far as to assert that
+“rivers flow down hill.”
+
+The particular transformation which White rejects as an example
+of evolution concerns two American Indian groups, the horticultural
+Brazilian Mundurucu Indians and the Algonquin hunters and gath
+erers of Canada. In a convergent fashion these tribes responded to
+
+646
+
+22. Cultural Materialism: General Evolution
+
+Luropean contact by shifting to dependence upon the production of
+trade goods—furs in one case and rubber in the other. One group
+became “tappers,” the other, “trappers.” But the involvement with
+the trading post through debt obligations followed a similar line of
+development despite the different tcchno-environmental relationship
+(syurpHY and STEWARD 1955). For Steward these transformations
+represent convergent evolutionary sequences. White (1959a:122),
+however, demands to know, “What justification is there for calling
+them lines of evolution?”
+
+In other studies by Steward, such as the comparison of the de-
+velopment of civilization in Mesopotamia and Peru, White is willing
+
+to grant that we have examples of “true evolutionary processes.” But
+this
+
+- Is a fundamentally different kind of process than the simple
+like cause, like effect occurrences in Steward’s tappers and trap-
+pers example. Thus some, or at least one, of the “lines of evolu-
+tion” he describes (Steward, 1956) turns out to be a genuine
+evolutionary process; others are not evolutionist at all [ihid.}.
+
+But if evolution is “a temporal sequence of forms” (warTE 1959b:30),
+how is it possible to deny that the Mundurucu have undergone evolu-
+tionary change during their transformation from horticultural tribes-
+men to debt-bound rubber collectors? Perhaps an answer could be
+built around White’s declaration that “only systems can evolve; a
+mere aggregation of things without organic unity cannot undergo
+evolution” (ibid.). But he would have great difficulty in convincing
+the majority of anthropologists that the Mundurucu’s subsistence
+patterns are a “mere aggregation.” Or perhaps, in order for White to
+accept a cultural change as evolutionary, it must have produced a
+transformation on a certain scale, measured perhaps in energy quanta.
+If so, White has nowhere proposed what quantitative operations would
+be required.
+
+STEWARD' S CRITIQUE OF WHITE
+
+Steward, on his part, has condemned the universal evolu-
+tionist approach of White and Childe for its inability to come to
+grips with the question of specific cultural differences and similarities
+as distinct from the vague and unilluminating generalities of universal
+laws. Steward’s comments hark back to the Boasian response to
+highly generalized evolutionism:
+
+647
+
+
+
+===== PAGE 329 =====
+
+The Rise of Anthropological Theory 22. Cultural Materialism: General Evolution
+
+The postulated cultural sequences are so general that they are
+neither very arguable nor very useful. No one disputes that hun'E—
+ing and gathering, which is Childc’s diagnostic of “savagery,'
+preceded plant and animal domestication which is his criterion of
+“barbarism,” and that the latter was a precondition of large popu-
+lations, cities, internal social differentiation and specialization,
+and the development of writing and mathematics, which are
+characteristics of “civilization.” . . . It is certainly a worthy ob-
+jective to seek universal laws of cultural change. It must be
+stressed, however, that all universal laws thus far postulated are
+concerned with the fact that culture changes—that any culture
+changes—and thus cannot explain particular features of particular
+cultures [STEWARD 1955:17-18].
+
+In Steward’s (1960:146) review of White’s Evolution of Culture the
+same point is directed specifically at White’s own evolutionary formu-
+lations:
+
+Regarding the causal chain that begins with technology and con-
+trol of energy and runs through society to religion, there can be
+little disagrecment with the self-evident proposition that “as the
+amount of energy harnessed by sociocultural systems increases per
+capita per year, the systems not only increase in size, but become
+more highly evolved, ie. . .. morc differentiated structurally
+and more specialized functionally” (pp. 39-40). But this does not
+at all explain what kinds of social structures arise from the utili-
+zation of technologies in particular environments. White concedes
+(p. 41) that “technological and cnvironmental factors both oper-
+ate to produce cultural differences quite apart from the source
+and magnitude of energy harnessed,” but he is not interested in
+these differences and states (p. 51) that “if one . . . wishes to
+discover how cultural systems are structured and how they func-
+tion . . . then one does not need to consider the natural habit
+at dll,” for he is really concerned with “how and why the culture
+of mankind as a whole has grown” [italics Steward’s].
+
+WHITE'S DEFENSE
+
+White’s response to such criticism is singularly unconvincing.
+He argues that general laws are not supposed to explain particular
+events. The kinds of problems which Steward wishes to handle under
+multilinear evolution really belong in the historical-particularist tradi-
+tion. It is Steward’s training in the “atomistic, idiographic, there-is-
+no-thyme-or-reason-to-cultural-phenomena tradition of the Boas school”
+which is at fault:
+
+648
+
+The predicament in which we find Steward, suspended  be-
+tween the particular on the one hand and the general on the
+other, may also be illustrated by citing his objection to broad
+generalizations or “universal laws,” as he calls them: they “can-
+not explain particular features of particular cultures” (Theory,
+p- 18). Of course they cannot! This is precisely the characteristic
+of a generalization or law; particulars are subsumed under the
+universal. The law of gravitation cannot tell us whether the falling
+body is a rock or a feather, much less whether the one is sand-
+stone or the other a heron plume. And this is precisely why the
+law of gravitation—or any other scientific law—has value: because
+it is a universal, i.c., tells us nothing about particulars as particu-
+lars [WHITE 1957:541].
+
+Does the law of gravitation tell us nothing about particulars? When
+one predicts a particular eclipse on a particular planct of a particular
+sun by a particular moon, has this no relation to the general law?
+White undoubtedly means to say something else, to wit: no general
+law tells us everything about particulars. Hence our lack of information
+about whether falling bodies are rocks or feathers. But if a generaliza-
+tion tells us nothing about particulars, it can scarcely enjoy the status
+of an empirical proposition.
+
+THE NEED FOR STATEMENTS OF
+COVARIANCE
+
+A closer look at what White means by cultural “laws” or
+generalizations will help us overcome the muddle of evolutionism
+and antievolutionism. Two very different kinds of propositions are
+offered by White, only one of which might conceivably qualify for
+the status of lawful generalization. The kind which definitely does not
+
+qualify is that which sums up universal cultural evolution with obser
+vations like:
+
+As society evolved under the impetus of increased technological
+control over nature, the processes of exogamy and endogamy
+operated to increase the size of the cooperative group of kindred
+while at the same time maintaining its solidarity and effective-
+ness. The radius of kinship was extended until the boundaries of
+the community were reached; eventually the whole tribe became a
+unified, integrated group of kindred living togcther on terms of
+mutual aid.
+
+Custom in general and special codes of ctiquette and cthics
+served to integrate and regulate socictics. Classes were defined
+
+649
+
+
+

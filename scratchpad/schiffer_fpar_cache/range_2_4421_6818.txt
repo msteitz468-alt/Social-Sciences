@@ -1,0 +1,2398 @@
+Chapter 4
+
+Cultural Deposition
+
+
+
+
+
+Introduction
+
+
+
+
+
+Unlike the fictional space station of Chapter 3, all human societies regularly contribute recognizable materials to the natural environment. These tangible "outputs," often deliberately discarded as "trash," make possible the archaeology of past societies. Although responsible for depositing most artifacts in the archaeological record, refuse disposal itself consists of many diverse processes, varied combinations of which result in quite dissimilar deposits. Many additional processes, including loss, abandonment, disposal of the dead, and caching behavior, also contribute to accumulations of cultural materials. This large family of processes transforms artifacts from systemic context to archaeological context and is known as cultural deposition (see Willey and McGimsey 1954). The present chapter surveys the most important principles of cultural deposition as they pertain to artifacts. (Other processes, such as pothunting or leveling a construction site, create archaeological deposits irrespective of specific artifact contents; these processes are treated as sources of cultural deposits in Chapters 5 and 6.)
+
+
+
+
+
+Discard Processes
+
+
+
+
+
+What is Discarded
+
+
+
+
+
+As noted in Chapter 2, artifacts may have several functions. If an artifact cannot perform any of these functions (utilitarian or symbolic), and reuse does not occur, then it is usually transformed to archaeological context. This process, which may involve several storage and transportation steps, is called discard.
+
+
+
+
+
+Page 48
+
+
+
+
+
+Artifacts with important symbolic functions do sometimes become obsolete, and can be discarded. In some instances, items can no longer perform their symbolic functions, as in the case of a tie that is too wide or too narrow to conform with prevailing styles. In other instances, the symbolic function itself is replaced or becomes obsolete. For example, a household's reused furniture gives way to more stylish symbols of success (see Chapter 3). Symbolically obsolete items can be reused, discarded, or specially deposited with ceremonial fanfare. In societies with little social mobility or rigid sumptuary rules, symbolically obsolete items are most likely to be discarded or otherwise transformed to archaeological context.
+
+
+
+
+
+Barring reuse, discard is the usual fate of artifacts that cannot perform their techno-functions. The initiation of discard processes in such cases is often caused by an unrepairable change in the artifact's form that reduces its mechanical effectiveness: breakage, use-wear, and deterioration. Together, these factors influence the uselife of an artifact typethe average time spent by artifacts of that type in the use process. Uselife can also be represented as the average number of uses (Schiffer 1975c).
+
+
+
+
+
+Breakage is an abrupt mechanical failure of an artifact or one of its parts, and is the major cause of discard for ceramic and glass containers. Factors that influence breakage rates for any type of item are complex and depend on the nature of the activities and the strength properties of the materials. In monitoring the causes of pottery breakage among the Kalinga, Longacre (1981) also found variability from activity area to activity area. He discovered in the village of Dangtalan that about 10 percent of the pots were broken inside houses by dogs scavenging for food; considerable breakage of those very same types of pots also took place along paths to and from the spring where pots were cleaned (Longacre 1981:64).
+
+
+
+
+
+Wear is a universal process that gradually reduces the ability of artifacts or their parts to perform techno-functions. Wear is of two types: accretional and attritional. In accretional wear, a substance is added to the artifact during use, such as the soot acquired by cooking vessels. Attritional wear results in the removal of part of an artifact's surface. For example, a small amount of material is lost from milling stones during each use. Either accretional or attritional wear can be the cause of discard. The point at which wear was usually sufficient to bring about the end of an artifact's uselife can be determined empirically by quantifying the amount of wear on discarded artifacts.
+
+
+
+
+
+Agents of the natural environment interact with artifacts during use, leading to changes known as deterioration (Chapter 7). Although deterioration is usually regarded as a family of slow-acting processes, some kinds of deterioration, such as the rotting of food, can proceed rapidly and result in discard (Green 1961a).
+
+
+
+
+
+Use-wear and deterioration together often contribute to breakage; in
+
+
+
+
+
+Page 49
+
+
+
+
+
+general, breakage becomes increasingly likely as artifacts spend more time in use. For example, because of use-wear and deterioration, old radiator hoses and fan belts are more likely to rupture than new ones. The potential for complex interactions between use-wear and deterioration is considerable.
+
+
+
+
+
+Ethnoarchaeological studies have begun to furnish data on uselives of various common artifacts, and some interesting regularities are turning up. The most obvious conclusion is that uselives for artifact types in the systemic inventory of most societies have a large range, from several minutes to several generations. Lithic flake tools can be manufactured, used, and discardedall in a matter of minutes (e.g., Gould et al. 1971), whereas a large metate often has a uselife of several decades or more (Hayden and Cannon 1983:124; Pastron 1974:101). Ceramics also have a wide range of uselives. For example, pots employed in everyday cooking tend to last about six months to a year, whereas large jars used for water storage can endure for a decade or more (e.g., Longacre 1981). As new ethnoarchaeological data are integrated with those already available (e.g., Foster 1960; David and Henning 1972; DeBoer 1974, 1985; Gould 1978, 1980; Longacre 1985; Weigand 1969; Pastron 1974), archaeologists can expect additional regularities in uselives to emerge.
+
+
+
+
+
+Historical archaeologists are also furnishing information on uselives. In one study, Adams and Gaw (1977) showed that ceramic artifacts from early twentieth-century Silcott in Washington may have had a mean uselife of nearly two decades. Coin caches provide information on the uselives of these artifacts so important in dating at historic sites (see Crummy and Terry 1979).
+
+
+
+
+
+Other factors in addition to breakage, use-wear, and deterioration lead to the discard of artifacts and the termination of uselife. For example, ''disposable" items are designed for only one or a very few uses, after which they are discarded, regardless of physical condition. American household trash now consists mostly of disposables, principally packaging materials (Rathje 1978:74). Items with important socio-functions or ideo-functions may also be treated as disposables. For example, in the Jewish wedding ceremony a wine glass is used once; the bridegroom steps on it, then it is discarded.
+
+
+
+
+
+Still-serviceable objects can also be discarded if they are components of some larger entity that fails. Rubertone (1982:129) notes, for example, that nails irretrievably set in wood are discarded with the latter. Today, perfectly good transistors, resistors, and capacitorssoldered into circuit boards are thrown out with countless defunct radios and tape players. This type of discard is likely to be limited in preindustrial societies because faulty components are more often repairable.
+
+
+
+
+
+Some artifacts have no actual "use" but are produced as a waste product
+
+
+
+
+
+Page 50
+
+
+
+
+
+of an activity and discarded. For example, wood carving and the chipping of stone generate large amounts of debris, most of which is transformed quickly to archaeological context. Debris that remains in systemic context and is used should be considered as by-products. Rejects are artifacts judged defective during manufacture that are set aside for reuse or discard; familiar examples include overfired, misshapen pots and a biface with a serious flaw.
+
+
+
+
+
+The waste products and defects of artifact manufacture sometimes provide a reliable guide to the amount of manufacturing that took place, and are especially helpful when the finished products themselves have been removed in the past and are not present for study (see Callahan 1973:55). For example, one can estimate the total production of a ceramic type at a pottery-making location from wasters if the latter are produced at a constant rate (Orton 1970). The rate of waste production (Fw) is expressed as a function of the manufacture rate (FM) times a waste/defect production constant:
+
+
+
+
+
+where ki is the ratio of waste products to the number of manufactured items (adapted from Schiffer 1976a:63). Thus, for any period of production, the total number of waste products or defects is a simple function of the number of finished products times the waste/defect production constant: Tw = TM ki (adapted from Schiffer 1976a:63). This equation can be used for estimating manufactured quantities of items that have been either recycled or deposited at other loci. For example, Flenniken (1975) inferred the total number of dart points manufactured at an Ozark Bluff shelter site from the number of bifacial thinning flakes present. To facilitate this inference, he substituted for ki a value obtained from his experimental manufacture of dart points.
+
+
+
+
+
+The Pathway Model
+
+
+
+
+
+The perspective developed in the preceding section leads us to consider the regularly performed activities of a settlement as generators of materials subject to discard processes. Each instance of activity performance is defined as one use for all constituent artifacts. For example, the activity of shaving represents one use for the razor, razor blade, shaving cream, sink, mirror, and towel. The quantity of any artifact type ending its uselife during one instance of activity performance is expressed as follows (based on Schiffer 1975b, 1976a; Hildebrand 1978):
+
+
+
+
+
+Page 51
+
+
+
+
+
+where:
+
+
+
+
+
+Ci = the quantity of an artifact type exhausted during one instance of activity performance. This variable is termed the output fraction, and it can assume values that range from near 0 to 1.
+
+
+
+
+
+bi = the number of uses per uselife. This quantity, known as the use number, is a statistical average.
+
+
+
+
+
+Returning to the shaving example, if the use number of razor blades is 10, then one instance of activity performance exhausts 10 razor blades (see Hildebrand 1978).
+
+
+
+
+
+To make the Pathway Model more realistic, a term is introduced that takes account of reuse. The reuse rate is represented by ri; a value of 0 indicates no reuse, whereas 1 denotes complete reuse of all exhausted artifacts of that type (adapted from Schiffer 1975b, 1976a; Hildebrand 1978). As Hildebrand (1978:275) notes,
+
+
+
+
+
+''The following relation gives a transformation from the number of items exhausted to the number of items discarded per instance of activity performance.
+
+
+
+
+
+(2)
+
+
+
+
+
+where:
+
+
+
+
+
+Yi = the fraction of an i type item discarded per [instance of] activity performance. This is called the discard fraction.
+
+
+
+
+
+Ci = the fraction of an i type item exhausted per activity performance.
+
+
+
+
+
+ri = the coefficient of [reuse]."
+
+
+
+
+
+For a hypothetical application of this formula see Hildebrand (1978:275).
+
+
+
+
+
+Hildebrand (1978:276) also furnishes a useful equation for the rate of artifact discard:
+
+
+
+
+
+(3)
+
+
+
+
+
+where:
+
+
+
+
+
+Di = the number of i type items discarded per unit time.
+
+
+
+
+
+Yi = fraction of an i type item discarded per [instance of] activity performance.
+
+
+
+
+
+Fa = the activity rate. . . per unit time."
+
+
+
+
+
+This equation is readily modified to yield the number of artifacts discarded after a particular duration of activity performance. Thus:
+
+
+
+
+
+(4)
+
+
+
+
+
+Page 52
+
+
+
+
+
+where:
+
+
+
+
+
+Dt = the total quantity of an artifact type discarded.
+
+
+
+
+
+t = the duration of activity performance (expressed in the same temporal units as Fa).
+
+
+
+
+
+By equations 1 and 2, it can be seen that
+
+
+
+
+
+Substituting this expression for Yi in equation 3 produces:
+
+
+
+
+
+(5)
+
+
+
+
+
+Further substitution for Di in equation 4 yields:
+
+
+
+
+
+(6)
+
+
+
+
+
+This useful formula permits estimation of the quantity of an artifact type that will be discarded after a specified duration of activity performance (t). In the shaving example, let us add a reuse probability (ri) of .1, representing the occasional razor blade that makes its way into workshop activities. If shaving is carried out 30 times per month (Fa) for a period of 100 months (t), the predicted number of razor blades discarded (Dt) from the shaving activity is given by placing these values in equation 6:
+
+
+
+
+
+These equations refer to the discard of a particular artifact type during the performance of a single activity by a single person. Most artifact types, of course, are used by many people in many activities. In addition, an artifact type can be used in several kinds of activities, each of which leads to discard (razor blades used for shaving and scraping paint). Moreover, the performance of a single activity usually leads to discard of more than one type of artifact. For most applications, then, the Pathway
+
+
+
+
+
+Page 53
+
+
+
+
+
+Model is but a building block that must be elaborated by various summation expressions; these are not presented here (for some attempts, see Hildebrand 1978:276; Schiffer 1976a:54). It should be noted that such summations can be made with reference to (1) all activities in which a particular artifact type is used in a settlement, (2) all artifacts discarded by a single activity, (3) all artifacts discarded by the performance of the same activity by many people or social units, (4) all artifacts discarded by all activities performed in an activity area, (5) all artifacts discarded by all activities performed in all activity areas in a settlement, (6) all artifacts discarded by all activities performed by a society.
+
+
+
+
+
+The Pathway Model is a flexible device for quantifying aspects of discard processes from the standpoint of activities. By adding factors pertaining to the production of waste products and defects, one can generate predictions for quantities of artifacts discarded by any given set of activities, as long as values for the independent variables can be approximated.
+
+
+
+
+
+The Basic Discard Equation
+
+
+
+
+
+Archaeologists sometimes need to quantify the discard process from the standpoint of an artifact type in a settlement. Although the Pathway Model can be used for this purpose, it is cumbersome. If one is willing to make some simplifying assumptions, another family of equations can furnish estimates of discarded artifacts. The following presentation derives substantially from Schiffer (1976a:59-62).
+
+
+
+
+
+Since 1960, a handful of archaeologists have independently developed a basic equation for expressing discard rate as a function of several systemic variables (e.g., David 1971, 1972; Cook 1972a). The simplest version of this equation is:
+
+
+
+
+
+(7)
+
+
+
+
+
+where:
+
+
+
+
+
+FD = discard rate of an artifact type in a settlement.
+
+
+
+
+
+S = the average number of that artifact type normally in use. This quantity is the systemic number.
+
+
+
+
+
+L = This variable is the uselife, which should be given in temporal units commensurate with those used for FD.
+
+
+
+
+
+The operation of this equation can be illustrated by cooking pots in a farming village. If the settlement contains 100 cooking pots (S = 100),
+
+
+
+
+
+Page 54
+
+
+
+
+
+which have a uselife of about one-half-year (L = .5), then, by equation 7 one obtains:
+
+
+
+
+
+The total number of artifacts of a type discarded over some period of time, t, can be expressed as:
+
+
+
+
+
+(8)
+
+
+
+
+
+where:
+
+
+
+
+
+TD = total artifacts of a given type discarded by a settlement.
+
+
+
+
+
+For example, if cooking pots are used in the farming village for 15 years (t = 15), then a total of 3000 cooking pots would be discarded. By transposing terms, Schiffer (1976a:167) and Odell (1980), have employed Equation 8 for estimating the uselives of lithic tools recovered archaeologically.
+
+
+
+
+
+It should be evident that equations 7 and 8and those to followrest on several limiting assumptions: (1) reuse does not take place, (2) uselife (L) and the systemic number (S) remain reasonably constant throughout time t, (3) no instances of the artifact type are traded in or out of the settlement, (4) all use and discard of the artifact type takes place in the settlement, and (5) the artifact type is a functionally homogeneous class. It should be possible in the future to modify equation 8 so as to accommodate cases where one or more of these assumptions is not met. However, in actual archaeological applications, one encounters further difficulties in estimating TD from the recovered sample of artifacts.
+
+
+
+
+
+Another limitation of the discard equations stems from their statistical character and vulnerability to sample size problems. If the overall discard rate for an artifact type is low (owing to a long uselife, small use number, or both), then examples of that type might not be discarded, even over appreciable time intervals. On the other hand, by chance more than the expected number may be discarded in a short period. In general, these equations produce relatively inaccurate estimates when the expected number of discarded artifacts is small.
+
+
+
+
+
+These discussions bring us to the Clarke Effect (Schiffer 1975d; Rathje and Schiffer 1982:119). Let us consider a settlement where 100 artifact
+
+
+
+
+
+Page 55
+
+
+
+
+
+types are used; each artifact type has a particular discard rate, from .01 per year to 1000 per year. It is further assumed that the frequency distribution of discard rate is unimodal, with a mean of 10 per year. In the first year of occupation, we would expect few examples of artifacts having discard rates of less than 1.0 to be discarded. Thus, the inventory of discarded items falls somewhat short of the systemic inventory of artifacts. Clearly, as occupation span increases, a greater variety of artifact types will be included in the discard inventory. The Clarke Effect, then, describes the statistical tendency for the variety of discarded artifacts to increase directly with a settlement's occupation span.
+
+
+
+
+
+Pyszczyk (1984) carried out a test of the Clarke Effect using ceramic assemblages from 17 Hudson's Bay Company forts in western Canada, which ranged in occupation span from 3 to 81 years. He obtained a Pearson's r correlation coefficient of. 80 between occupation span and the number of different patterns of Spode-Copeland transfer-printed ceramics. Although Pyszczyk did not control for sample size in the analysis, other information in the report indicates that sample sizes from briefly occupied forts were sometimes large; this suggests that the Clarke Effectand not sample sizeis responsible for the observed relationship.
+
+
+
+
+
+The Clarke Effect has some disquieting implications for the analysis of intersite variability based on discarded items (see Pyszczyk 1984). The latter, it should be noted, in many cases make up the bulk of surface collections obtained on surveys. Because procedures for determining settlement function are sometimes based on artifact variety, settlements with identical functions could be placed into different classes simply because varying occupation spans gave rise to differences in the discard inventory. Moreover, variability in occupation spans can also mimic temporal differences. This arises because temporal inferences so often depend on presences and absences of artifact types with low discard rates. Regrettably, these fundamental problems are rarely recognized or dealt with systematically in regional studies.
+
+
+
+
+
+Variations on the Basic Discard Equation
+
+
+
+
+
+It is sometimes desirable to express S as a function of population size or the number of social units, such as households, in a settlement. This equation takes the following form:
+
+
+
+
+
+(9)
+
+
+
+
+
+where k is the average quantity of the artifact type in use per social unit, and c is the number of such social units. This expression for S can be
+
+
+
+
+
+Page 56
+
+
+
+
+
+inserted into equation 8 to yield a value of TD dependent on the number of social units:
+
+
+
+
+
+(10)
+
+
+
+
+
+Other important equations can be obtained by employing a discard rate that is specific to a particular social unit, such as a household. The settlement discard rate (FD) can then be expressed as a function of the more specific rate and the number of such social units present:
+
+
+
+
+
+(11)
+
+
+
+
+
+where fD is a social-unit specific discard rate. The term fDc may be substituted for settlement discard rate in any of the previous equations. For example, by replacing S/L in equation 8 with fDc, one obtains:
+
+
+
+
+
+(12)
+
+
+
+
+
+If a settlement consisted of 20 households (c), each of which discarded manos at a rate of .5 per year (fD) for a period of 5 years (t), a total of 50 manos would be discarded.
+
+
+
+
+
+Equation 12 has long been used by archaeologists, implicitly and explicitly, to estimate the number of households present in a settlementfrom which one can derive population estimates (for examples, see Hassan 1981:77-83). A noteworthy case study is Cook's (1972b) attempt to infer the population of Snaketown, a large Hohokam site in southern Arizona (for a critical evaluation of this work, see Schiffer and McGuire 1982a:225-226). Cook, it should be noted, was a pioneer in developing and using discard equations to estimate various systemic variables. Indeed, equations 8 and 10 should probably be called Cook's Laws.
+
+
+
+
+
+Equation 12 can also be employed for estimating the household discard rate of various artifact types. In one study, discard rates were estimated for chipped-stone materials at the Joint site, a 37-room pueblo in east-central Arizona (Schiffer 1976a:162-63). The use of probability sampling techniques made it possible to estimate values of TD for various artifact types. For example, the estimated total number of discarded cores of chert, quartzite, and chalcedony are, respectively, 8073, 1277, and 277. The occupation span of the pueblo, 50 years, was approximated using treering and radiocarbon dates. Finally, the average number of households
+
+
+
+
+
+Page 57
+
+
+
+
+
+present during occupation was estimated by a procedure that took into account both the construction and abandonment sequences of the pueblo rooms (Schiffer 1976a:152-157). Inserting these quantities into equation 12 yields the annual household discard rates for chert (14.4 cores), quartzite (2.3), and chalcedony (.5). Despite the use of probability sampling, the weak link in this example is TD. This arises because discarded artifacts predominate in highly clustered deposits that were only erratically discovered by the sampling techniques. On the other hand, the estimates of t and c are probably within 50 percent of their true values. Keeping in mind the uncertainties, these household discard rates do seem reasonable. The Joint site study suggests that discard equations are useful for making various quantitative inferences to the extent that archaeological parameters (i.e., TD) can be accurately estimated. Improvements in determining TD depend upon advances in techniques for intrasite sampling and parameter estimation.
+
+
+
+
+
+Still another potentially useful discard equation can be provided. Uselife is first expressed as a function of other use-related variables:
+
+
+
+
+
+(13)
+
+
+
+
+
+where bi is the use number for a given artifact type (as in the Pathway Model). Fu is the use rate of the artifact type; both use rate and uselife are expressed in the same temporal units. Substituting bi/Fu in equation 8 for L, one derives:
+
+
+
+
+
+(14)
+
+
+
+
+
+The operation of equation 14 is easily illustrated. Let there be a settlement that employs 10 adzes (S) for a period of 10 years (t). The adzes are used a total of 120 times per year (Fu), and have a use number (bi) of 200. Placing these values in equation 14 yields:
+
+
+
+
+
+Thus, 60 adzes will be discarded by that settlement.
+
+
+
+
+
+The overall settlement use rate (Fu) can be represented, like discard
+
+
+
+
+
+Page 58
+
+
+
+
+
+rate (see equation 11), as a product of the number of social units and the specific use rate of the artifact type:
+
+
+
+
+
+(15)
+
+
+
+
+
+Substitution of fuc for Fu in equation 14 produces:
+
+
+
+
+
+Other related equations are presented by Schiffer (1976a:62).
+
+
+
+
+
+The discard equations constitute a family of important mathematical laws (Salmon 1982) that can be employed fruitfully in several ways. They are the main principles that explain the quantitative aspects of discard processes, and so can generate multiple working hypotheses for explaining variability and change in quantities of discarded artifacts (for an example, see Schiffer 1976a:168-177). A related application is evaluating the plausibility of explanations offered for variability and change in the frequencies of discarded artifacts. In addition, these equations (as well as the Pathway Model) can be employed to generate simulated refuse data for a variety of methodological studies (Schiffer 1975b, 1975e, 1976a:6678). Finally, under very favorable conditions discard equations can be used to infer various systemic properties, such as mean settlement population, artifact uselife, and use rates. Inferential applications presently pose many difficulties, but such efforts must continue. In the future, experimental archaeology and ethnoarchaeology should furnish a better basis for estimating the systemic variables in the equations. The improvement of inference is most dependent on needed advances in methods of intrasite sampling and parameter estimation.
+
+
+
+
+
+Primary and Secondary Refuse
+
+
+
+
+
+For the archaeologist, the location of discard within a settlement is of great importance. Artifacts discarded at their locations of use are termed primary refuse; those discarded elsewhere are known as secondary refuse (Schiffer 1972). Even if the location of discard is adjacent to the activity area, the items should be regarded as secondary refuse. Nevertheless, it is sometimes helpful to broaden the concept of primary refuse to include instances where artifacts are discarded at activity-related locations but not locations of use. For example, worn-out tools can be discarded at refurbishing locations (Keeley 1982). Similarly, rejects and waste products
+
+
+
+
+
+Page 59
+
+
+
+
+
+have no use but can be discarded at their locations of manufacture. Such cases fall within the spirit of the concept of primary refuse.
+
+
+
+
+
+Although archaeologists are tempted in their analyses of ''occupation floors" to assume that they are dealing with primary refuse (Schiffer 1974), such an assumption is seldom justified. On the whole, large amounts of primary refuse are uncommon and produced under quite limited conditions; it is easy to appreciate why this must be so. In activity areas used repeatedly, the accumulation of discarded items would eventually interfere with continued activity performance. Thus, either the activity or the discarded items must be periodically moved. The clean-up of an activity area is called maintenance; discarded items are removed and deposited elsewhere as secondary refuse.
+
+
+
+
+
+One can readily envision the extremes of the maintenance process. For example, a procurement locus for wood or game used only once generates mostly primary refuse (Gould 1978:823); on the other extreme, the frequent maintenance of activity areas in an industrial city leads mainly to secondary refuse concentrated in a few specialized dumping locations. Recognition of this overarching pattern led to the hypothesis that "the larger the population of an activity area [e.g., a settlement], and the greater the intensity of occupation, the larger the ratio of secondary to primary refuse produced" (Schiffer 1976a:31; adapted from Schiffer 1972; see Anderson 1982 for ways to define "intensity"). One component of this hypothesis was tested on a cross-cultural sample of 79 societies by Murray (1980). In conformity with the hypothesis, she found that settlements occupied for longer periods of time generate more secondary refuse. Even in settlements occupied very briefly, on the order of several days or less, some secondary refuse is usually still produced. For example, at the Mask site, a specialized hunting stand used by the Nunamiut Eskimo, the male occupants discarded larger items in a "toss zone" adjacent to the principal activity area (Binford 1978a). Stevenson (1985) has recently furnished a three-zone model of discard for similar camps, emphasizing the informal nature of maintenance processes.
+
+
+
+
+
+In most of the societies archaeologists study, most activity areas are cleaned up periodically. In her cross-cultural study, Murray (1980) found that the hut areas of even mobile groups were regularly maintained. For example, among the !Kung San (Bushmen) and Australian Aborigines, activity areas near hut and hearth are kept reasonably free of debris (O'Connell 1979b; Yellen 1977a). Meehan (1982:14) furnishes a description of the maintenance process for home bases among the Gidjingali, an Australian Aborigine people still dependent to some extent on shellfish gathering:
+
+
+
+
+
+Food, including shellfish, is cooked in one of the hearths of each complex and
+
+
+
+
+
+Page 60
+
+
+
+
+
+the remains are usually left there for some time. At regular intervals, every week or two, the entire camp area is cleaned with rakes, sticks, or feet. The rubbish is dumped in various places around the periphery of the hearth complex, usually in areas that are unimportant for use and access. Eventually, quite large banks of debris form.
+
+
+
+
+
+Figure 4.1 shows a Gidjingali home base and the formation of secondary refuse areas.
+
+
+
+
+
+Although habitation settlements produce mainly secondary refuse, in some instances the latter may be closely associated with individual work areas or huts. Yellen (1977b:307) illustrates a San camp showing the distribution near huts of discarded bones from a shared gemsbok. Similarly, among the Shipibo-Conibo, an Amazonian agricultural group, secondary refuse apparently remains in the general vicinity of the household that produced it (DeBoer and Lathrap 1979). In American colonial settlements one frequently encounters secondary refuse areas within household yards or tofts (South 1977). This pattern can be termed yard or toft disposal (see Deal 1985).
+
+
+
+
+
+In village settlements occupied for many years, one finds the development of intensively used outdoor activity areas, such as plazas or courtyards. Such spaces occur at both household and community levels. Because of their intensity of repeated use, these outdoor areas are well maintained. DeBoer and Lathrap (1979:129), for example, describe the distribution of refuse in the vicinity of Shipibo-Conibo houses: "the house areas and plaza are virtually barren of refuse." This pattern of reasonably clean plazas and similar outdoor areas is very common (e.g., Hayden and Cannon 1983).
+
+
+
+
+
+In sedentary communities lacking sanitary landfills, disposal of secondary refuse typically takes place in many locations. Hayden and Cannon (1983) provide the most detailed account available on secondary refuse disposal by village farmers. In their study of three contemporary Maya villages, they found a wide range of disposal locations, including within the compound, in the street, in dumps, in a stream or ravine, and in the milpa (Hayden and Cannon 1983:127). Compound disposal was less frequent in Chanal, the village having larger compounds with larger garden areas (Hayden and Cannon 1983:149); apparently, gardeners desired to minimize the amount of large debris that would hinder their pursuits. They also discovered that "households using streams and ravines [tended]. . . to be located much closer to these natural features than households using streets or neighborhood dumps" (Hayden and Cannon 1983:150). Density of housing also has an effect on the use of street disposal; households in high-density areas deposited trash in the street less often (Hayden and Cannon 1983:152). Although Hayden and Cannon
+
+
+
+
+
+Page 61
+
+
+
+
+
+Fig. 4.1.
+
+A Gidjingali home base, Australia, showing the formation of secondary
+
+refuse areas. (Adapted from Meehan [1982:116]; reproduced with
+
+permission of the Australian Institute of Aboriginal Studies.)
+
+
+
+
+
+properly caution against premature generalization of this finding, it is likely that the presence of near neighbors whom one knows is apt to inhibit street disposal.
+
+
+
+
+
+Natural depressions, abandoned structures and pits, and borrow areas are irresistible disposal locations in all settlements. Indeed, most so-called trash pits, so ubiquitous in archaeological reports, probably had a previous use (Dickens 1985). Hayden and Cannon (1983) found that the Coxha
+
+
+
+
+
+Page 62
+
+
+
+
+
+Maya did use pits for trash disposal, but they were seldom dug for that purpose. In an Iranian village, Watson (1979:119) noted that quarry pits for construction earth quickly became dumps and latrines (for a West African example, see Agorsah 1985).
+
+
+
+
+
+An unmistakable characteristic of secondary refuse distributions in most settlements is clustering. People tend to dump trash where others have previously dumped trash; thus concentrations arise. The tendency of trash to attract more trash is known as the Arlo Guthrie trash-magnet effect (Wilk and Schiffer 1979). Once developed such locations often remain in use until filled (an abandoned room or quarry pit) or until more convenient alternatives are found. Before the institution of regular trash pick-ups, urban settlements constantly battled the inevitable growth of secondary refuse areas within settlements, often started by one or two dumping episodes; Staski (1984) furnishes an interesting case study of early El Paso, Texas, and its efforts to reduce littering.
+
+
+
+
+
+In settlements with large populations, such as cities, one sometimes finds specialized task groups that transport and dispose of refuse. Moreover, in the largest industrial cities, secondary refuse may become concentrated in just a few large disposal areas, such as the ''sanitary landfills" used by United States municipalities (Fig. 4.2). Nevertheless, in vacant lots and in peripheral areas of cities one often finds numerous ad hoc dumps (Wilk and Schiffer 1979; Rathje 1979). Although primary refuse is scarce in modern cities, a few kinds of activity areas are not regularly maintained. Abandoned buildings and vacant lots (Wilk and Schiffer 1979) are used on a sporadic basis for a variety of activities, including child's play, that result in primary refuse.
+
+
+
+
+
+Fortunately, there is considerable variation in the thoroughness with which activity areas are cleaned up. On the basis of a study on the campus of the University of Arizona in 1973, McKellar (1983) proposed that some smaller items will be left behind as primary refuse in regularly maintained activity areas. This hypothesis (first reported by Schiffer [1976a:188] and foreshadowed by Green [1961b:91]) has been confirmed in a variety of ethnoarchaeological settings and has achieved the standing of a general principle (for ethnoarchaeological cases that support the McKellar Principle, see DeBoer 1983; Murray and Chang 1981; Deal 1985; Binford 1978a:356; DeBoer and Lathrap 1979:129; Schiffer 1978a:244-245; O'Connell 1979b; South 1977:71, 1979:218-219). Small artifacts not removed by maintenance processes in activity areas are termed residual primary refuse. Even in the cleanest modern home, some residual primary refuse is visible to the fussy observer.
+
+
+
+
+
+The McKellar Principle directs archaeologists to seek small sherds, pieces of bone, and other items that may lie upon or be pressed into activity area surfaces (see Rosen 1985 for a case study). Obviously, earthen
+
+
+
+
+
+Page 63
+
+
+
+
+
+Fig. 4.2.
+
+Bulldozer rearranges garbage in a sanitary landfill, Navajo County, Arizona.
+
+
+
+
+
+floors should be excavated using flotation and fine-mesh screen. Even in heavily used interior areas, significant amounts of residual primary refuse may be found in and around features, in corners, and along walls. Indeed, the intensity or frequency of maintenance can vary over short distances, even within a single structure. At the Little Egypt site in Georgia, for example, Hally (1983) discerned a high density of residual primary refuse in the margins of three Mississippian houses, whereas areas near the hearths were quite clean.
+
+
+
+
+
+The size threshold of tolerable residual primary refuse is influenced by many factors, including the nature of the refuse, usage and maintenance patterns of the activity area, and the character of the substrate or surface of the activity area.
+
+
+
+
+
+Insofar as lithics are concerned, several ethnoarchaeological studies have shown that people strive to keep important, intensively used activity areas free of all but the very smallest chipping debris (Clark and Kurashino 1981; Clark 1984). For example, Gallagher (1977) describes how contemporary Ethiopian obsidian workers do their flaking over a basket or pot. The collected debris is then deposited in specially dug pits, natural depressions, or in piles. If lithic debris had been frequently treated in this
+
+
+
+
+
+Page 64
+
+
+
+
+
+manner, then, as Clark (1984) notes, most prehistoric "activity areas" previously identified on the basis of lithic artifacts probably were secondary refuse areas. On the other hand, Keeley (1982) suggests that the use of chipped stone tools results in small items, such as resharpening flakes and distal fragments, that are likely to be left in activity areas as residual primary refuse (for archaeological cases, see Hally 1983:171; Rice 1985).
+
+
+
+
+
+The size threshold also varies inversely with the degree of danger that items pose to users of the activity area. In American homes the breakage of a glass item occasions an intensive clean-up of the floor. Spills of hazardous chemicals today result in a flurry of expensive clean-up activities. Other items, such as organic waste, are not themselves threatening, but can attract vermin and usually have a low size threshold for residual primary refuse in important activity areas.
+
+
+
+
+
+In activity areas that are infrequently maintained, larger items of residual primary refuse tend to accumulate, especially outdoors. Paths and trails furnish examples of such activity areas. Wilk and Schiffer's (1979) investigation of vacant lots in Tucson disclosed that many artifacts, especially disposables, remain as primary refuse along the paths that cut across vacant lots. Such materials were termed in transit refuse. In addition, DeBoer and Lathrap (1979:129) report for the Shipibo-Conibo that "sherds resulting from the accidental breakage of water-carrying jars are frequently strewn along the trail which connects every household to a nearby river or lake." (For similar patterns, see Longacre [1981:64] and Deal [1985:264].) Refuse is also abundant along many well-used prehistoric trails in the Lower Colorado region of the American Southwest (Waters 1982a).
+
+
+
+
+
+The kind of surface in an activity area also influences the size threshold of residual primary refuse as well as the amounts that will be tolerated. In the Arctic, large itemsincluding seal bone fragmentscan become incorporated into an igloo's snow floor (Savelle 1984). Under such conditions, surprising amounts of residual primary refuse can accumulate (see data in Savelle 1984). Similarly, bark floors of Scandinavian houses trapped many artifacts (K. Kristiansen, personal communication, 1983). For a discussion of sandy floors and primary refuse in historic sites, see Tordoff (1979).
+
+
+
+
+
+Maintenance Processes and Waste Streams
+
+
+
+
+
+It is useful to distinguish between regular and ad hoc maintenance processes. The former are carried out on a predictable or scheduled basis: daily sweeping of the kitchen, "spring cleaning" of windows, weekly or monthly yard work. Other regular maintenance processes are linked to the completion of an activity, such as one that generates much refuse or
+
+
+
+
+
+Page 65
+
+
+
+
+
+a dangerous or noxious material. For example, after the building or refurbishing of a structure, a great quantity of debris may be removed and discarded (see Green 1961a:53). Ad hoc maintenance is an unscheduled clean-up, frequently in response to a breakage or spillage event. Natural and cultural disasters, ranging from wars to earthquakes, also occasion ad hoc maintenance and lead to distinctive debris deposits. In some cases, such ad hoc maintenance begins to take on a regular character. For example, during the Second World War in London, "25,000 civil and military personnel using 1,476 trucks" were employed to remove debris from German aerial bombardments (Gunnerson 1973:237). It should be noted that after clean-up (ad hoc or regular), refuse may still be stored as provisional refuse (Deal 1985:253; Hayden and Cannon 1983:131) for discard later.
+
+
+
+
+
+Factors that determine the frequency of regular maintenance of an activity area are poorly known at present, but some hypotheses are at hand (see Anderson 1982). It is tempting to link clean-up rates to overall rates of refuse generation in an activity area (Kent 1984; O'Connell 1979b). Although undoubtedly important, this variable is not always decisive. In some activity areas, especially workshops, a considerable amount of debris can accumulate as provisional refuse (e.g., Stark 1984). Another influential variable is the rate of activity area use. All other variables being held constant, more frequently used activity areas should be maintained more often. Another factor that has received little notice so far is the variety of regularly performed activities. This factor should have a large effect on maintenance rates because the wastes generated by one activity are likely to be incompatible with the performance of other activities in that area (see Gould 1980:196-197); the most multifunctional areas ought to be cleaned up most often, perhaps daily. Together, these three factorsrates of refuse generation, frequency of activity area use, and variety of activities performedshould explain much variability in regular maintenance rates. The interaction of these variables in specific cases needs to be examined closely by ethnoarchaeologists. (For an archaeological study of several Hohokam and Salado sites, emphasizing maintenance processes, see Rice [1985].)
+
+
+
+
+
+Some regular maintenance processes are synchronized with seasonal and ritual cycles in a society; our own "spring cleaning" is a handy example. Ritually prescribed clean-up sometimes leads to disposal of perfectly serviceable items. Ekholm (1984), for example, describes how the Aztec would celebrate the "new fire" ritual at a certain conjunction of calendar rounds by, among other things, ceremoniously cleaning house and disposing of virtually all clothing and household objects. The secondary refuse deposits produced by such ritual maintenance ought to be distinctive. Indeed, Ekholm (1984) has identified several probable ritual
+
+
+
+
+
+Page 66
+
+
+
+
+
+dumps archaeologically. On the basis of whole vessels carefully deposited in the fills of abandoned structures, Kobayashi (1974) suggests a scenario of seasonally timed ritual disposal of Jomon pottery.
+
+
+
+
+
+Regardless of their frequency, the maintenance processes of activity areas are the starting point of waste streams. These flows of refuse, which can combine in various ways and often involve provisional refuse areas or facilities, terminate in secondary refuse areas. For example, let us take a typical city in our society, beginning with household activity areas. Our dwellings, like those in most societies, contain many activity areas, each of which is the starting point of a waste stream. In a kitchen one might -find areas for food storage, food processing, cooking, and eating. The streams from each activity area (which may, of course, overlap spatially), produced by various mixes of ad hoc and regular maintenance processes, are combined and the materials are stored as provisional refuse in a waste basket. At varying intervals, waste baskets throughout the house are emptied into a few household garbage cans. In apartments, the waste streams of many households are merged in a few large communal trash bins. Periodically, household wastes are picked up and transported to sanitary landfills, where they join the waste streams of businesses, hospitals, factories, and other nonhabitation activity areas. Waste streams, of course, can lead to one or many secondary refuse areas.
+
+
+
+
+
+The waste-stream framework can be readily applied to any settlement. Hayden and Cannon (1983) implicitly used such a model to describe patterns of refuse disposal in Coxoh Maya communities (for a Oaxacan example, see Sutro 1984). For example, they note that daily maintenance of houses leads to a waste stream of "casual refuse," consisting largely of food preparation debris as well as small inorganic items, that is often deposited in gardens or milpas (Hayden and Cannon 1983:126). Extramural activity areas, less frequently maintained, contribute refuse to provisional discard areas along the periphery of each household's compound. Such areas are periodically cleaned up, and the refuse is transported to a dump. In the community of Chanal, people dump refuse often at nightin the street. The latter accumulations are cleaned up, apparently at irregular intervals, in advance of "important visits or processions"; the refuse is hauled "to the edge of town for dumping'' (Hayden and Cannon 1983:125).
+
+
+
+
+
+Hayden and Cannon (1983) also provide several hypotheses to explain differential treatment of refuse and the development of multiple waste streams. These investigators suggest that "hindrance" potential and "value" influence the treatment of refuse (Hayden and Cannon 1983:126; see also Sutro 1984). "Clutter refuse" constituted artifacts that had some value as materials, such as broken pots or axe heads; such items were kept handy for long periods, often in provisional discard areas, because
+
+
+
+
+
+Page 67
+
+
+
+
+
+of their potential for future use (Hayden and Cannon 1983:131). On the other hand, items of low value and high hindrance potential, such as broken glass, were cleaned up and disposed of quicklysometimes in pits. Hindrance potential is a catch-all concept that seems to include a number of different components, such as danger posed to human feet and simply impediments to foot traffic and the conduct of activities. Ethnoarchaeologically, the differentiation of waste streams, even in small settlements, is common. For example, Kent's (1984) maps indicate that contemporary Navajo dispose of ash, wood chips, organic wastes, and more durable items in separate refuse areas. Future ethnoarchaeological research should strive to identify the specific factors that influence the differentiation of waste streams.
+
+
+
+
+
+Within and between societies, activity areas vary greatly in how often regular maintenance is conducted, in their mix of ad hoc and regular maintenance processes, and in the length of time refuse is stored in provisional discard areas before transport. Although we shall eventually find that each of these variables has strong determinants, the latter will themselves vary somewhat independently; thus every settlement is apt to have an overall structure of waste streams that in some respects is unique. As a result, an appreciation for the specific structure of waste streams in a settlement is essential for understanding patterns of artifact distribution and association in secondary refuse. For example, as refuse storage time increases, so too will the probability of replacement and discard for artifacts used in that activity area (adapted from Schiffer 1972:162). As a result, the variety of artifacts in temporary storage should increase as a function of storage time (holding constant artifact replacement rates). (This, of course, is a special instance of the Clarke Effect.) An additional implication is that with longer storage times, greater numbers of artifacts from the same activity areaand more kinds of artifacts will enter secondary refuse deposits at the same time and in the same place (adapted from Schiffer 1972:162). Thus, one can find artifacts used in the same activity areaperhaps in the same activityassociated in the microstrata of some secondary refuse deposits.
+
+
+
+
+
+Regrettably, the dumping of trash itself can lead to the dissociation of activity-related artifacts in secondary refuse. For example, when materials are dropped on the steep slope of a refuse mound, some of the larger artifacts will roll down to the bottom.
+
+
+
+
+
+The basic question one asks in the waste-stream analysis of a settlement is, How have activity areas contributed, through time, to various secondary refuse deposits? Clearly, this modeling process goes hand-in-hand with the attempt to reconstruct the occupational history of the site, for they are mutually dependent (Rice 1985). For example, architectural analysis based on bonding and abutting patterns of adobe or masonry walls
+
+
+
+
+
+Page 68
+
+
+
+
+
+can sometime produce a sequence of building-construction events (see Wilcox 1975). Parts of that sequence may be validated by the demonstration that the earliest rooms were built upon native soil, whereas the latest rooms overlie refuse deposits. Thus, some refuse from early activity areas is to be found under later structures. Waste streams from the last occupied roomswhich are not always the last builtoften terminate in abandoned rooms and in extramural areas. Rubertone (1982) furnishes an example of diachronic waste-stream modeling.
+
+
+
+
+
+If basic activity organization remains relatively constant in a settlement, several simplified procedures may make it possible to derive waste streams from seemingly homogeneous secondary refuse deposits. For example, at the Joint site all secondary refuse deposits contained about the same inventory of chipped-stone artifact types (Schiffer 1976a), but the relative frequencies of artifact types differed from dump to dump. This pattern could arise if activity areassuch as habitation rooms, kivas, and roofscontributed refuse differentially to the dumps. A factor analysis of artifact counts in secondary refuse deposits produced behaviorally interpretable artifact groupings. The principal finding was that most waste streams seem to have contained many different chipped-stone artifacts. The final step of actually identifying the activity area(s) that was the source of each of the more limited artifact groupingsor waste streamswas not accomplished. Nonetheless, this analysis showed that behavioral information could be obtained from deposits that ordinarily would be regarded as homogeneous and devoid of behavioral information (for similar analyses, see Boone 1980; Halstead et al. 1978).
+
+
+
+
+
+A second implication of the waste stream framework, that refuse is temporarily stored as provisional refuse in many activity areas, suggests another source of variability in the deposits making up a site: activity areas can be abandoned at any stage in their regular maintenance cycle. An area abandoned just after a regular clean-up contains little primary refuse, whereas one about due for cleaning may be quite littered. In addition, provisional refuse can be primary or secondary and some deposits contain a mix of both. Artifacts in provisional refuse are also differentially susceptible to other cultural formation processes, such as scavenging and child's play. It is helpful to recognize that deposits of provisional refuse are traces of a settlement's waste-handling practices, and the latter can contribute appreciable variability to deposits within and between settlements.
+
+
+
+
+
+Third, activity areas that are cleaned up at long or irregular intervals can initiate waste streams with distinctive artifact groupings. Even in our own cleanliness-oriented society, many activity areasincluding those inside dwellingshave low maintenance rates. Medicine cabinets, where storage activities take place, furnish a nice example. Prescription medi-
+
+
+
+
+
+Page 69
+
+
+
+
+
+cines and special-purpose over-the-counter remedies are often used only once. Because these items still hold usable contents, and because one cannot predict when they will be needed next, they are usually retained in the medicine cabinet for long periods. When medicine cabinets are cleaned up, a cluster of drugs, ointments, and assorted appliances will be discarded at once. Likewise, clean-up of refrigerators, pantrys, cupboards, attics, basements, and other storage areas occasionally contributes unusual artifact groupings to the total household waste stream. People in simpler societies also hoard objects in anticipation of future use, sometimes as provisional refuse both inside and outside structures (e.g., Deal 1985; Hayden and Cannon 1983; Sutro 1984).
+
+
+
+
+
+In some kinds of activity area no regular maintenance is ever performed. In such cases, when the activity area is abandoned, a singular artifact grouping will be left in place (as de facto refusesee below) or will enter a settlement's waste stream and be deposited as secondary refuse.
+
+
+
+
+
+As noted above, some waste streams are very long, others are quite short. The effort to explain this variability is still in its infancy, but several hypotheses are at hand. Some activities, by their very nature, lead to the rapid production of noxious or bulky waste products. Transport of these useless materials can become a serious problem, especially within major settlements. As a result people often locate their activity areas and refuse disposal areas in ways that minimize the transport or "schlepping" of waste products. The !Kung, for example, roast the heads of game animals outside their circle of huts (Yellen 1977a), thereby keeping the waste stream short. The term Schlepp Effect was offered to describe a commonly observed phenomenon in faunal analysis: fewer bones of large animals were transported back to base camp and settlements (Daly 1969). The larger the game animal, the more preliminary processing will occur at the kill site; with more processing goes the discard of more waste products, often as primary refuse. Lithic quarry and workshop sites furnish another example of this principle at work.
+
+
+
+
+
+The Schlepp Effect is a quite general principle, and is widely appreciated in economic geography (see Zipf 1949); indeed, many industrial installations are sited in areas that permit waste disposal near the plants. For example, some coal-fired generating stations are located in rural areas, where disposal of fly ash takes place in close proximity to the generating station. Industrial and historical archaeologists have found much evidence for similar discard patterns. Ingle (1982), for example, documents a century-long pattern of discard of waste products, such as boiler room clinker and ash, in industrial activity areas in Paterson, New Jersey. These discard processes raised the grade considerably, sometimes creating deeply stratified deposits. The discard of kiln wasters at pottery-making
+
+
+
+
+
+Page 70
+
+
+
+
+
+locations, even in urban areas, is a process familiar to many historical archaeologists (see Faulkner 1982). It should be noted that such deposits are not primary refuse, but represent materials that have been removed by maintenance processes from the activity area itself (a factory, power plant, or kiln) and discarded elsewhere. Thus, although these deposits are in close proximity to activity areas, they are simply one variety of secondary refusethat produced by a very short and specialized waste stream (Fig. 4.3).
+
+
+
+
+
+After discard processes are initiated, refuse is sometimes subjected to various treatments, including compacting, burning, and use as construction material. In our own society, some households employ trash compactors, altering the formal properties of artifacts. Indeed, many garbage trucks are themselves compactors.
+
+
+
+
+
+Burning is a common refuse treatment. Binford (1978b:461) describes how the Nunamiut set fire to greasy gunk in order to reduce pesky insects in their camps (see also Meehan 1982:114). In many rural areas of the United States, where toft disposal is still practiced, steel barrels are often utilized for containing periodic trash burns. In such cases, burning may be an effort to eliminate nonreusable materials and paper items subject to wind transport; the resulting slag and ash are deposited nearby. Not long ago, many homes in urban areas burned their own refuse; even in Los Angeles, almost every residence boasted a backyard incinerator. These stately devices of concrete and steel, examples of which can still be found in older neighborhoods (Fig. 4.4), were used for regular burning of paper and some organic wastes until the smog problem caused them to be banned in the late 1950s. The sanitary landfills of Southern California surely reflect these changes in refuse treatment practices.
+
+
+
+
+
+In many societies, refuse is used as a filler material in various structures. For example, the Hohokam built platform mounds, the fills of which often contained refuse (see Chapter 6). The Maya are especially noted for treating refuse as a construction material for temples and housemounds. It is unlikely that refuse was used for these purposes "fresh." Household refuse generally contains a large component of organic wastes ("garbage"), the slow decay of which would cause much shrinkage of deposits. Most likely, refuse had aged somewhat or was burned before it was quarried for use in construction. On the other hand, if sizable quantities of organic materials decayed in place in structures, one should find evidence of shrinkage, slumping, and repair as well as chemical residues.
+
+
+
+
+
+Where dogs are kept as pets or at least tolerated, they will process animal bones and disperse refuse, a phenomenon that has been observed repeatedly in a variety of ethnoarchaeological settings (e.g., Kent 1981, 1984; Binford and Bertram 1977; Watson 1979; Brain 1969; Pastron 1974). The principal effect of dog action is the spatial rearrangement and dispersal
+
+
+
+
+
+Page 71
+
+
+
+
+
+Fig. 4.3.
+
+Mine tailings, such as those above, near Ouray, Colorado, typify short waste
+
+streams, where secondary refuse areas are located close to ore-processing facilities.
+
+
+
+
+
+of artifacts; in many instances, dogs also leave traces of gnawing on bones (see Chapter 7).
+
+
+
+
+
+Marked seasonal differences can arise in maintenance and discard practices of sedentary settlements. Such differences stem in part from seasonal variability in the patterns and placement of activities. In the
+
+
+
+
+
+Page 72
+
+
+
+
+
+Fig. 4.4.
+
+Backyard incinerators, such as this
+
+example from the Fairfax area (still
+
+standing in 1986), were once used by
+
+most households in Los Angeles for
+
+burning refuse prior to being banned
+
+in the late 1950s.
+
+
+
+
+
+higher latitudes, summer is a time when many activities, such as cooking, typically move outdoors. During winter, much food is removed from stores and prepared indoors. Because organic decay of garbage proceeds slowly, if at all, in the cooler temperatures of winter, one might expect lower maintenance rates of winter activity areas and perhaps greater accumulations of provisional refuse. Even in the tropics, one might expect to find seasonal differences in discard behavior, especially if there is much variation in rainfall. Knowledge of such patterns should permit one to infer the season at which some sites were occupied or abandoned. Dickens (1985) provides an intriguing study of prehistoric and historic pits in Southeastern sites, in which he examines the relationship between pit function, refuse composition, and probable season of abandonment.
+
+
+
+
+
+Influence of Social Stratification, Ethnicity, and Symbolic Factors on Discard Processes
+
+
+
+
+
+Before the modern era of the sanitary landfill used by an entire city, secondary refuse was often deposited in many locations in and near cities. In such cases, waste streams from different socioeconomic classes could terminate in different secondary refuse deposits (Hoffman 1974). At times, various social classes could have had unequal access to particular disposal
+
+
+
+
+
+Page 73
+
+
+
+
+
+locations. Cressey et al. (1982:158) furnish an intriguing example of this phenomenon from nineteenth-century Alexandria, Virginia. In the core of the town where the wealthy resided, most individual properties had expensive wells in the early nineteenth century. The poorer people, who lived on the periphery, apparently made use of a few communal wells. Public water systems were installed in the core area during the middle of the century; the wells fell into disuse and were often reused for disposal of household trash. In the periphery, however, such facilities were not available for refuse disposal, leading to more dispersed deposits. In the present-day United States, wealth-related differences in refuse disposal patterns can still be found, predominantly in small towns and rural areas. Even cities exhibit some differences in discard processes, resulting principally from variations in the use of provisional discard locations and in the intensity with which outdoor activity areas are maintained.
+
+
+
+
+
+Other social variables, such as ethnicity, can also influence aspects of discard practices. South (1978) has shown that British and German settlers in Colonial America set aside different areas for discard of secondary refuse (see also Carrillo 1977). Undoubtedly, additional evidence of between-group differences in discard practices will come to light (Sutro 1984). Although these behavioral differences exist, it is not clear that ethnicity, per se, is their ultimate cause. Other behavioral or environmental variables might be responsible for establishing ''ethnic" discard patterns (see Deagan 1983:260). In any event, archaeologists should be sensitive to differencesespecially in discard locationthat typify various ethnic groups.
+
+
+
+
+
+That aspects of refuse disposal practices vary from group to group is not a controversial claim. Hodder and other proponents of "symbolic" and "structural" archaeology, however, make a somewhat stronger claim, arguing that the treatment of refuse is actually dictated by ideological and symbolic factors. In criticizing "functionalist" generalizations that Binford and I have previously offered about discard processes, Hodder (1982:24) boldly lays down the gauntlet: "Attitudes to refuse vary from society to society, and from group to group within societies .... There can be no simple functional links between refuse and types of site, lengths of occupation or forms of society, because attitudes intervene." As an example, Hodder (1982:62-63), following Okely, argues that Gypsy refuse disposal practices are symbolically determined.
+
+
+
+
+
+The integrity of Gypsies as a group is continually threatened by their low-status position. To cope with this, Gypsies attempt to protect the inner self symbolically, by making a fundamental distinction between the inside of the body and the outside....
+
+
+
+
+
+Page 74
+
+
+
+
+
+Such attitudes form the archaeological record. The insides of Gypsy caravans are spotlessly clean, relating to the need to keep the inner body clean .... The outsides, the camps as seen by the Giorgios [non-Gypsies], are dirty, often covered by litter and faeces.
+
+
+
+
+
+Hodder has shown only that there is a correspondence between refuse disposal practices and belief systems; lacking is any demonstration of symbolic causality. To make such a case, one would have to show that the behavior pattern in question departs from expectations that arise from strictly utilitarian factors, as did the Aztec disposal of a perfectly good household inventory of material culture. The Gypsies as a highly mobile group can be expected to follow a discard pattern not unlike the Alyawara of Australia and the mobile societies in Murray's (1980) cross-cultural study: important activity areas associated with cooking (e.g., interior of caravans) are kept clean, whereas deposits of secondary refuse are laid down nearby (e.g., exterior of caravans). In no respect has Hodder shown that Gypsy refuse disposal behavior is aberrant. He would have a stronger case for symbolic causality if the Gypsies lived in dirty caravans and kept their environs immaculate.
+
+
+
+
+
+In another example of alleged symbolic causality, Hodder draws upon the work of Deetz (1977) in colonial sites of eastern North America. Deetz (1977) described a change in discard locations for secondary refuse: before 1750, refuse was simply tossed from the house with no specialized secondary refuse areas, whereas after 1750, refuse was placed into pits apparently dug for that purpose. Hodder (1982:61), following Deetz, attributes this change in discard practices to "an alteration in world view, or way of life, around 1750." It is curious that Hodder, who continually stresses the need to understand causality within specific cultural contexts, ignores the most obvious behavioral change that took place between those two periods: a dramatic increaseby at least an order of magnitudein the household discard rate of durable items, particularly pottery. Deetz (1973) himself documented this change, but imputes no causal significance to it. I suggest that the change in discard patterns is simply a consequence of having more things to discard. Why pit disposal of secondary refuse was chosen over other methods, of course, remains unexplainedby either symbolic or utilitarian considerations. Perhaps the pits were dug for other purposes and were reused as refuse receptacles (Hayden and Cannon 1983:143-144). In any event, the symbolic explanation for changes in discard behavior is not convincing, especially when alternative accounts based on general principles are available.
+
+
+
+
+
+Regrettably, structuralist manifestos seldom contain observations on
+
+
+
+
+
+Page 75
+
+
+
+
+
+artifacts and on behavior that would be relevant for testing nonstructuralist hypotheses. In order to demonstrate symbolic causality, one must show that the behaviors in question depart from expectations generated by utilitarian considerations. The discussions of Hodder and other structuralists usually fail to meet this essential criterion. As a result, their conclusions must be held in abeyance until the requisite behavioral data are provided.
+
+
+
+
+
+Even when symbolic factors were demonstrably at work, they provide only an incomplete explanation of the behavior(s) in question. Archaeologists also need to identify the role that such symbolically mandated behaviors played in the greater social system (see Gould 1980).
+
+
+
+
+
+Child's Play Refuse
+
+
+
+
+
+In many settlements that archaeologists excavate, children formed a major part of the social unit that was present. Indeed, in the habitation settlements of most pre- and nonindustrial peoples, childrenand their activitiesare ubiquitous. In view of this state of affairs, it is surprising that so few archaeologists have ever posited child's play as a source of archaeological deposits.
+
+
+
+
+
+This failure of traditional inferential procedures was highlighted by Bonnichsen's (1973) study of Millie's camp. Because the artifacts used in this recent Indian camp were mostly of industrial manufacture, Bonnichsen was able to identify some obvious toys and toy parts. Nevertheless, one of Bonnichsen's major recurrent errors was to attribute "adult" artifacts exclusively to adult activities. In many cases, various odds and ends of adult material culture were put to good use by children, creating peculiar associations and deposits (e.g., hair curler, plastic whistle, and buckskin scrapsBonnichsen 1973:286) quite susceptible to misinterpretation. Wilk and Schiffer (1979) and Hammond and Hammond (1981) also report the creation of features out of previously discarded artifacts by child's play. Hayden and Cannon (1983) emphasize the role of children as disturbance agents; dispersing the fragments of an artifact, enlarging scatters, and transporting artifacts from one refuse area to another (see also Watson 1979:39; Deal 1985). It is clear that children play a large role in reworking accessible deposits of discarded items and in depositingand constantly reworkingtheir own features; the latter are designated child's play refuse. Child's play refuse can be expected in any settlement where children were present and had access to refuse; that is, in most habitation settlements. Future ethnoarchaeological studies should be undertaken to discern age and sex patterning in child's play refuse.
+
+
+
+
+
+Page 76
+
+
+
+
+
+Loss Processes
+
+
+
+
+
+Loss, the unexpected ''dissociation of an object from its user" (Fehon and Scholtz 1978:271), is another depositional process that contributes artifacts to the archaeological record. The general determinants of loss have been identified (Schiffer 1977; Rathje and Schiffer 1982) and basic equations have been formulated that describe the process (Fehon and Scholtz 1978; Hildebrand 1978:277). Even so, little is known in detail about loss. Artifacts transformed to archaeological context by loss are termed loss refuse (South 1978:226).
+
+
+
+
+
+Fehon and Scholtz (1978) have called attention to two independent components of the loss process: (1) the probability that an artifact is lost in the first place and (2) the probability that the lost object is not retrieved by its user. Obviously, if the lost object is retrieved by someone else, then the process has the same effect as lateral cycling. If the artifact is retrieved by its user, then no transformation to archaeological context has occurred. The basic loss equation of Fehon and Scholtz (1978:271), which expresses loss as a conditional probability, is as follows:
+
+
+
+
+
+P (N, L) = P (N/L) P (L),
+
+
+
+
+
+where:
+
+
+
+
+
+P (N, L) = probability that an object will be lost and not retrieved
+
+
+
+
+
+P (N/L) = probability that an object is not retrieved, given that it is lost
+
+
+
+
+
+P (L) = probability that an object is lost.
+
+
+
+
+
+Fehon and Scholtz (1978:271) note, "For P (L) for any class of objects, the rate will be the ratio of the number of these objects that are lost to the number of the class of objects present in systemic context." However, as a rate, this formulation is problematic because it has no temporal unit.
+
+
+
+
+
+There are two principal ways to resolve this problem. The first is to add a temporal unit and eliminate the ratio interpretation from the concept of loss probability. For example, let P (L) be the probability that one instance of an artifact type will be lost per unit time (e.g., day, week, year). This formulation also requires specification of a spatial scale, for example, activity area, household dwelling, or settlement. The second approach is based on Hildebrand's (1978:277) loss equation. He has expressed loss rate as a function of activity performance:
+
+
+
+
+
+where:
+
+
+
+
+
+Page 77
+
+
+
+
+
+Li = the total number of i type items lost per unit time
+
+
+
+
+
+lia = the coefficient of loss. This is the probability that an i type item will be lost as a result of use in the a type activity.
+
+
+
+
+
+Fa = the rate of occurrence of the a type activity (Hildebrand 1978:277).
+
+
+
+
+
+It will be difficult to choose among these formalisms until additional empirical research on loss is carried out.
+
+
+
+
+
+A more expedient and intuitively satisfying solution is to disregard rate altogether, quantifying lost artifacts in relation to discarded artifacts. This may be termed the pragmatic loss ratio to distinguish it from the other interpretations. This way of expressing loss has the virtue of being readily quantified archaeologically. The pragmatic loss ratio (PLR) is calculated as follows:
+
+
+
+
+
+where:
+
+
+
+
+
+TL = total instances of an artifact type deposited by loss
+
+
+
+
+
+TD = total instances of an artifact type deposited by discard (as in the discard equations above).
+
+
+
+
+
+The PLR varies from 0 to 1. Higher values indicate that the ratio tips in favor of loss. The PLR, of course, must have a spatial referent such as a settlement or settlement system.
+
+
+
+
+
+The principal variables that influence loss rate and retrieval rates have been identified; and one of the most important is artifact size. Loss and retrieval rates vary inversely with object size or mass (Schiffer 1976a:32): one is more likely to loseand fail to retrievea small shell bead than a shell trumpet. Indeed, small artifacts with long uselives, such as beads, straight pins, coins, and marbles, should have a very high PLR.
+
+
+
+
+
+A second important factor is the nature of the surface or substrate where the artifact is used. The character of the substratee.g., loose or consolidated, presence or absence of vegetation, wet or dryaffects the probability that lost objects will be retrieved. Concrete or plastered floors make retrieval easy, whereas substrates of unconsolidated sand, vegetation, or deep water impede retrieval. For example, Ebert (1979:63) describes how the Basarwa in Botswana would occasionally lose an axe or knife in the deep sand where they were butchering game. Surfaces and loci where lost artifacts accumulate because of low retrieval probabilities can be considered "artifact traps" (Schiffer 1976a:32); privies and wells are notorious examples (as is the ocean floor surrounding long fishing piers). Certain artifacts spend much of their uselife in artifact traps, and so are frequently lost. Ocean-going boats and ships
+
+
+
+
+
+Page 78
+
+
+
+
+
+exemplify this case (Gould 1983; Muckelroy 1978); such macro-artifacts have a very high PLR (for a useful treatment of shipwrecks in a probabilistic loss framework, see Bascom 1971).
+
+
+
+
+
+The formal properties of the artifact itselfe.g., color, shape, and texturein relation to the use surface also affect loss and retrieval probabilities. Objects that blend in with the grounda tarnished copper coin on a brown substratehave a higher overall likelihood of loss.
+
+
+
+
+
+If enough effort and ingenuity are put into searching, retrieval is usually physically possible. The level of effort put into retrieval is a function of the artifact's value or replacement cost (Rathje and Schiffer 1982:115; DeBoer 1983:25); the latter can be assessed in many ways, including monetary cost and replacement effort. Generally, greater replacement costs call forth more thorough searches. Most people are familiar with the frantic activity occasioned by the loss of a wallet or purse containing identification and credit cardsitems whose loss can be costly indeed. Probably the most expensive retrieval effort in history was that mounted in the 1970s by the United States government to locate and raise a Soviet submarine lost in the north Pacific.
+
+
+
+
+
+Another variable that appears to affect loss processes is the artifact's mobility during use (Schiffer 1976a:32). Items that move around much during use have greater loss probabilities, especially if used in unfamiliar places. Umbrellas are a good example of an artifact type that suffers losses from high mobility; most umbrellas, however, are laterally cycled.
+
+
+
+
+
+South's (1978) study of the Public House/Tailor Shop in Brunswick Town, North Carolina, furnishes a fascinating case where loss refuse has been employed to illuminate the nature and distribution of activity areas in a structure. South (1978:226-227) describes the basis for his inferences:
+
+
+
+
+
+The high concentration of [pins and beads] ... inside the structure as "loss refuse," with few in the secondary refuse behind the ruin reflects the fact that these artifacts were not discarded, but were lost accidentally inside five of the six rooms, having fallen through cracks in the floorboards. The virtual absence of these artifacts in the sixth room reveals that a different function was involved here, probably that of an office or merchandising room. These pins and beads, plus a similar concentration of other tailoring objects inside the rooms, suggests this ruin functioned as a tailor shop.
+
+
+
+
+
+Ferguson (1977) performed an elegant analysis of artifacts, including lost bullets, at Fort Watson. By comparing the distributions of used and unused bullets, he was able to reveal battle details that had not been specified in historic accounts.
+
+
+
+
+
+Sometimes people hide or bury artifacts, especially valuables, for safekeeping, and these can become lost. Newspaper accounts of a discovered "lost treasure" underscore the pervasiveness of this process. Deposits of
+
+
+
+
+
+Page 79
+
+
+
+
+
+this type, termed banking caches (Rathje and Schiffer 1982:115), become lost for several reasons. Obviously, people can simply forget where they hid or buried the object. White and Modjeska (1978) report how the Duna farmers of highland New Guinea bury their axesused for clearing fieldsfor safekeeping. Some informants sorrowfully reported that they could not remember where they buried their axes, now loss refuse. In other cases, death may carry away the location of a secret storage location. In the American Southwest, one occasionally finds pots, buried and unburied, filled with exotic goods like shell or turquoise beads. Although these finds may represent a type of offering, it is also possible that a trader had hidden the items for safekeeping but never returned. Binford (1976, 1978b) documents how the Nunamiut Eskimo make extensive use of "insurance" caches, laying in supplies of food and equipment for emergencies throughout their territory; some of these will eventually become lost.
+
+
+
+
+
+Ritual Caches
+
+
+
+
+
+In most societies occasions arise when artifacts are ritually deposited as a cache. For such a deposit to be called a ritual cache by the archaeologist, it must be a reasonably discrete concentration of artifacts, usually not found in a secondary refuse deposit; in addition, ritual caches generally contain complete artifacts, sometimes unused, that are intact or easily restored. Ritual discard (see above) may or may not lead to cachetype deposits. The loss of buried valuables can also create cache-like deposits, and in common usage the term cache usually refers to such phenomena. Burial of the dead, of course, results in caches, but these are treated separately below as grave goods. To archaeologists, then, ritual cache is a residual category that labels a diverse set of deposits apparently produced in a ritual or ceremonial context (Bradley 1982). Other terms such as dedicatory cache must be employed to implicate a specific process.
+
+
+
+
+
+Archaeologically, it is often difficult to distinguish between banking caches (a loss process) and ritual caches. The Olmec, one of prehistory's most dedicated cachers, furnish an example of this problem. In their sites along the Gulf Coast of Mexico, between 1500 and 400 B.C. the Olmec cached thousands of tons of colored sands, serpentine blocks, and carved stones, including massive basalt heads (Coe 1968). Whether these materials were being banked for future use or they were ritually cached is not known, although the evidence seems more compatible with the ritual cache hypothesis.
+
+
+
+
+
+One of the most common caches encountered archaeologically is the dedicatory cache, an object or set of objects deposited ceremonially at the dedication of a construction site (Rathje and Schiffer 1982:114). Saile (1977)
+
+
+
+
+
+Page 80
+
+
+
+
+
+has noted the occurrence of dedicatory caches as a part of building ritual among Pueblo Indians in the American Southwest, and similar caches in prehistoric pueblos suggest considerable time depth for these rituals. Dedicatory caches, which included "pottery, copper tools, beads, bones and dried plant material," were found beneath walls of two Eighteenth Dynasty temples in Egypt (van Zeist 1983).
+
+
+
+
+
+Offertory or votive (Bradley 1982) caches are also known to the archaeologist. Such caches appear to represent the (often periodic) placement of artifacts in a special location, perhaps as an offering. One of the most famous assemblages of offertory caches is that contained in the Great Cenote of Sacrifice at Chichen Itza where, probably over a considerable time period, an enormous number of exquisite Maya artifactsand human remainsaccumulated. In Europe, many isolated caches of Bronze Age metal artifacts have been regarded as votive caches (Bradley 1982).
+
+
+
+
+
+Offertory caches also contribute to the formation of sites called shrines. In the Lower Colorado area of the American Southwest, "trail shrines" were apparently used by travelers, each adding a few rocks or artifacts (see Waters 1982b). It should be noted that whereas the individual deposits making up a shrine are in archaeological context, the shrine itselfas a location of ritual activitiesremains in systemic context as long as visits occur on a more-or-less regular basis (see Berenguer et al. 1984).
+
+
+
+
+
+Shrines merge imperceptibly with sacred places; the latter are ritual deposits of many sorts that accumulate as a result of magical or religious activities. Shawcross (1976) furnishes an intriguing example of such a site in New Zealand. Employing several traces of formation processes as well as ethnographic information on the Maori, he identified the Kauri Point Swamp site, which yielded intentionally broken combs, spears, and flutes, as a sacred spring used for ritual disposal. One wonders why archaeologists have identified sacred places and deposits so infrequently; in view of their prevalence in the ethnographic accounts of many groups, they should be more common archaeologically.
+
+
+
+
+
+Ritual caches are deposited even in industrial societies, with dedicatory caches and time capsules being perhaps the most common examples. More enigmatic caches are also created. For example, in the early 1980s, the proprietors of a Sacramento restaurant closed their disco dance floor and, chanting "dust to dust, disco was a bust" before whirring television cameras and curious onlookers, they buried their record player in a pine coffin on the grounds.
+
+
+
+
+
+Treatment of the Dead
+
+
+
+
+
+When a person dies, the mortal remains pose a problem for the survivors. Although it is convenient for archaeologists to assume that societies
+
+
+
+
+
+Page 81
+
+
+
+
+
+bury all their dead, this is seldom the case. Burials and their accompaniments are among the most sensational and fascinating archaeological deposits, but in many societieseven our ownburial is but one way to handle human remains. Among the common nonburial modes of treatment are placement in trees or on platforms. It is useful to regard human remains as being subject, just like other artifacts, to a variety of reuse and depositional processes (Alan Fuhrmann, personal communication, 1984).
+
+
+
+
+
+This chapter can neither catalog in detail the many ways that societies have devised for treating the dead nor explore in depth inferences of social organization and demography. Rather, the following discussions cursorily consider the range of variability in mortuary practices and review the most basic principles that govern treatment of the dead. For more detailed archaeological discussions of mortuary behavior and principles, the reader is referred to O'Shea (1984), Tainter (1978), Rothschild (1979), Chapman and Randsborg (1981), Bartel (1982), and Whittlesey (1978).
+
+
+
+
+
+Death Rates, Life Tables, and Burial Populations
+
+
+
+
+
+People, like artifacts in systemic context, have finite lives. Although we do not speak of a human uselife, consistency would permit it. Instead, on the basis of skeletal remains, paleodemographers calculate human life expectancies and mortality rates. The determinants of human life expectancy are complex and operate differentially on various segments of a population. In simpler societies, for example, infant mortality is high and average life expectancy is low, on the order of 15-40 years (Hassan 1981). In modern industrial societies, infant mortality is low and average life expectancy is around 65-75 years.
+
+
+
+
+
+The modeling of human mortality from archaeological skeletal populations has been a popular pursuit during the past several decades. The abbreviated treatment that follows has been abstracted from Hassan's (1981) synthesis (see also Ubelaker 1984).
+
+
+
+
+
+The major device used in paleodemographic reconstruction is the life table, a set of age- (or age- and sex-) specific mortality statistics based on the recovered skeletal series. In constructing a life table, one begins by determining, insofar as possible, the sex and age (at death) of each individual skeleton. Age groups are then formed, usually in five-year intervals. Table 4.1 presents an abridged life table for a skeletal series from the Neolithic site of Çatal Hüyük (Hassan 1981:113). The frequencies of individuals present in each age group (Dx) are the starting point for determining the values of other variables in the life table. For example,
+
+
+
+
+
+Page 82
+
+Table 4.1: Abridged Life Table for the Çatal Hüyük Neolithic Skeletal Series (from Hassan (1981:113).a
+
+
+
+
+
+x
+
+
+
+
+
+Ds
+
+
+
+
+
+ds
+
+
+
+
+
+Is
+
+
+
+
+
+qs
+
+
+
+
+
+0-4
+
+
+
+
+
+29
+
+
+
+
+
+10.25
+
+
+
+
+
+100.00
+
+
+
+
+
+.10
+
+
+
+
+
+5-9 24
+
+8.48
+
+89.75
+
+.09
+
+
+
+10-14 16
+
+5.65
+
+81.27
+
+.07
+
+
+
+15-19 18
+
+6.36
+
+75.62
+
+.08
+
+
+
+20-24 32
+
+11.31
+
+69.26
+
+.16
+
+
+
+25-29 45
+
+15.90
+
+57.95
+
+.27
+
+
+
+30-34 48
+
+16.96
+
+42.05
+
+.40
+
+
+
+35-39 29
+
+10.25
+
+25.09
+
+.41
+
+
+
+40-44 27
+
+9.54
+
+14.84
+
+.64
+
+
+
+45-49 9
+
+3.18
+
+5.30
+
+.60
+
+
+
+50-54 3
+
+1.06
+
+2.12
+
+.50
+
+
+
+55-59 0
+
+0
+
+1.06
+
+.00
+
+
+
+60-64 2
+
+.71
+
+1.06
+
+.67
+
+
+
+65+ 1
+
+.35
+
+.35
+
+1.00
+
+
+
+Total 283
+
+
+
+aSee text for an explanation of symbols.
+
+
+
+
+
+dx is simply the relative frequency of a particular age group and is calculated as follows (Hassan 1981:105):
+
+
+
+
+
+where x refers to a given age group. Similarly, lx is the number of survivors who reach age group x, assuming an initial population of 100. It is figured for any age group by subtracting dx from lx for the previous age group. The last variable in this abbreviated life table is qx, the probability of dying during age interval x; it is calculated as follows (Hassan 1981:105):
+
+
+
+
+
+Although they can be constructed from any skeletal sample, life tables
+
+
+
+
+
+Page 83
+
+
+
+
+
+are based on a number of assumptions that frequently are not met. Hassan (1981:107-108) notes that ''the assumption is made that the skeletal remains belong to a single population without any migration and with constant age-specific birth and death rates and therefore an unchanging age-sex distribution." The most severe limitation, of course, is enforced by the assumption that the recovered burials are a representative sample of all who died in a specific society (Ubelaker 1984). This limitation, however, can be turned around and used to advantage by employing model life tables to discern gaps in the burial sample.
+
+
+
+
+
+Paleodemographers have uncovered a number of reasonably consistent regularities pertaining to age-specific mortality patterns in several kinds of preindustrial societies. These regularities make it possible to use model life tables in comparable societies for assessing the representativeness of a specific burial sample, a chore that should precede other burial analyses. Hassan (1981:114-117) provides several model life tables, varying in average life expectancies, and refers to others in the literature. Because model life tables are derived from large samples, they can be compared to the age-specific mortalities of an archaeological sample in order to disclose anomalies. For example, if young adults are underrepresented in an archaeological population, then they may have been treated differentlyperhaps buried elsewhere or not at all. Lack of infants suggests differential treatment or differential preservation. In this application of life tables it is advantageous to construct separate tables for each sex.
+
+
+
+
+
+Variability in Treatment of the Dead
+
+
+
+
+
+Variability in treatment of the dead is manifest in many ways. The first concerns the handling of the body itself. From the standpoint of archaeological deposits, there are three principal burial modes: inhumation or primary burial (in the flesh), cremation, and secondary or bundle burial. In the latter type, the corpse is allowed to decay (on, above, or in the ground) and, after a time, the bones are gathered up and buried as a bundle. Many societies employ several modes of burial. For example, during pre-Classic periods, the Hohokam cremated almost all of their dead, interring the ashes with accompanying sherds or in pots (Haury 1976). The Classic Hohokam, however, incorporated primary inhumation within their repertoire of burial modes (Haury 1945). Prehistoric and early historic societies in the eastern United States are renowned for their variety of burial modes and for the extent that they processed bodies before final interment (Brown 1981). In industrial societies, the ratio of cremation to inhumation has risen in the past few decades, and the ashes of those cremated in the United States do not always end up in cemeteries. Relatives sometimes keep the asheson displayin a cremation urn,
+
+
+
+
+
+Page 84
+
+
+
+
+
+while other remains are scattered in accordance with the deceased's wishes. The ashes of famed Southwestern archaeologist Earl Morris were dispersed at the Aztec Ruin, where he had carried out extensive excavations.
+
+
+
+
+
+The reuse of human remains is a fairly common phenomenon. Cremation urns are only one way that human remains are retained in systemic context. Some societies dismember the deceased, saving choice bones for use in rituals. Among the Tifalmin, a horticultural society in New Guinea, human relics are used as charms and "after a period of exposure certain bones of particularly notable men would be recovered and kept in the court house or the men's house" (Cranstone 1971:138). The Andaman Islanders, a hunter-gatherer group, extensively reused human remains, as Service (1963:57) notes:
+
+
+
+
+
+The bones of the deceased are kept (after processing] for many years. The skull and jawbone are decorated with red and white bands and attached to a kind of necklace. On ceremonial occasions a husband or wife, or close relative of the deceased, may wear these bones suspended about the neck, either in front or behind. Limb bones are usually kept in the roof of the hut. Small bones are strung on a string by the female relatives of the deceased and given away as presents to be worn as preventives or cures of illnesses.
+
+
+
+
+
+In complex societies, some churches display "relics" of sacred persons. In Moscow, the body of V. I. Lenin has been reused to serve important ideological functions. School children (and tourists) can gaze upon the visage of this long-dead leader and be inspired to uphold the ideals of the communist revolution. In other instances, the human remains themselves are deposited, but the gravesite with its markers or monuments still serves ritual functions, as in periodic visits to a loved one's grave. In a similar vein, it is not unknown for people to return to an abandoned village or town to perform ceremonies and inter the deceased.
+
+
+
+
+
+A second kind of variability in treatment of the dead is the kind of grave used for burial. Graves range from simple pits excavated into the ground (or into earlier deposits) to elaborate tombs, such as the pyramids. Within individual societies, there is usually some variation in type of grave.
+
+
+
+
+
+A third kind of variability is the location of burial, which can differ markedly within the same society. For example, at Grasshopper, a large fourteenth-century Mogollon pueblo in east-central Arizona, adults were usually interred in extramural areas, whereas infants and small children were often buried under the floors of rooms (Whittlesey 1978). In addition, some individuals can be buried in special locations at some distance from the habitation settlement. Hawaiian chiefs, for example, were secretly interred away from the village.
+
+
+
+
+
+Page 85
+
+
+
+
+
+The fourth kind of variability is the one to which archaeologists accord the most attention (Whittlesey 1978): the goods or "furniture" that accompany the body. Grave goods are artifacts depositedafter ritual use with the human remains and include items of clothing, jewelry, and diverse offerings. Variability in the types and quantities of grave goods tends to be striking, even in relatively simple tribal societies. For example, at the Joint site, a small pueblo in east-central Arizona, sixteen burials were excavated; the grave goods ranged from none in four child and infant burials to 4 pots, 3 bone awls, 2 shell bracelets, 1 bead bracelet, and 10 chert flakes included with a female adult (Hanson and Schiffer 1975).
+
+
+
+
+
+For the archaeologist, study of mortuary behavior is almost exclusively limited to that subset of people whose treatment led, ultimately, to (cultural) burial. Individuals left in trees to decay or whose ashes were placed in a stream are not represented in archaeological mortuary samples. Moreover, individuals buried away from settlements and those buried in settlements but outside of cemeteries have a much reduced chance of being discovered. Regrettably, archaeologists often analyze the burial sample as a mortuary population, ignoring possible biases introduced by variability in mode of treatment.
+
+
+
+
+
+Remedies for these persistent problems are elusive, but little progress can be expected until the cultural formation processes of burial samples are rigorously addressed (Chapman and Randsborg 1981). At the very least, before carrying out an analysis of mortuary behavior, one should use model life tables in order to detect conspicuous absences. It is unlikely that such a procedure would identify the missing Hawaiian chief, but it might reveal that infants were treated differently than adults, as is commonly the case. The following discussion of principles presupposes that one has seriously attempted to assess the variability in disposal modes.
+
+
+
+
+
+Social Determinants of Variability in Mortuary Treatment
+
+
+
+
+
+Several general, interrelated principles underlie those archaeological analyses of mortuary remains that aim at social inference. The first and most fundamental, explored by Saxe and others, is that individuals treated differently in life are treated differently in death (Peebles 1971). Thus, the mortuary behavior surrounding the death of a chief is quite different from that of a commoner. Within a society, a number of bases are used for creating types of mortuary treatment in addition to the universal categories of age and sex, such as wealth, social position, prestige, occupation, kinship ties, club memberships, and cause of death (Whittlesey 1978). Category of treatment refers to observed variation in such features as handling of the corpse, place(s) of burial or disposal (if any), kinds and quantities of grave goods, nature of the grave, and markers and
+
+
+
+
+
+Page 86
+
+
+
+
+
+monuments. As Tainter (1978:121) stresses, ''mortuary ritual is a process of symbolizing," thus all features can convey social information. Indeed, Tainter found in a crosscultural study that grave goods themselves are seldom used to symbolize social variables (Tainter 1978:121).
+
+
+
+
+
+Although Saxe's general principle is certainly true, using it to study the mortuary remains of specific past societies is problematic (Whittlesey 1978). An obvious implication of this principle is that in more complex societiesthose having many social roles and differentiation criteriathere will be more bases for differentiation of mortuary treatment, and thus more variability in treatment categories. Binford (1971) tested this hypothesis with favorable results on a cross-cultural sample of societies. Unfortunately, he used subsistence mode as a surrogate measure of social complexity, and it is likely that one of his subsistence categories, "settled agriculturalists," encompassed most of the range of social complexity. In addition, Binford's sample contained no really complex societies. These problems suggest a need to repeat this study using a more direct and robust index of complexity in the sense of heterogeneity (see McGuire 1983) and a more varied sample of societies. That Binford's findings are plausible probably accounts for their widespread acceptance by archaeologists.
+
+
+
+
+
+A second important principle, a corollary of the first, is that the total allocation of goods and services in ritual, interment, and memorials varies with the social standing of the deceased (Tainter 1978:125). Social standing denotes the sum of an individual's social roles, which can be ranked from high to low (Rathje and Schiffer 1982:46). Saxe uses the term social significance in a similar way, stressing the greater variety of social relationships maintained by people of higher social significance (see Tainter 1978:118). In life, people of higher social standing generally have greater power and control over a community's resources; in death, this same differential is maintained. In a study of 103 ethnographic societies, Tainter (1978:126) found that rank of the deceased is invariably correlated with total energy expenditure in the mortuary process.
+
+
+
+
+
+It is important to stress the independence of particular features of the mortuary process, and the need to assess overall energy expenditure. For example, in ancient and modern states, leaders are of course accorded the highest energy expenditure, but the mix of investments differs. In ancient state societies, such as those in China, Egypt, and the Near East, the powerful were often buried with the trappings of power. Many of archaeology's most spectacular discoveries have been the rich tombs or burial places of kings and other people of high social standing. In modern societies, however, the investment of goods and services in the actual interment-grave and grave goodsis decreased relative to investment in ritual and monuments. Although distinctive, the grave of President
+
+
+
+
+
+Page 87
+
+
+
+
+
+John F. Kennedy in Arlington National Cemetery is hardly sumptuous; resources were invested instead in an elaborate funeral and in countless monuments, including the Kennedy Center for the Performing Arts in Washington, D. C.
+
+
+
+
+
+Tainter (1978:125) provides an operational version of this principle: "when sets of mortuary data cluster into distinctive levels of energy expenditure, this occurrence will signify distinctive levels of social involvement in the mortuary act, and will reflexively indicate distinctive grades or levels of ranking." As Tainter notes, calculation of energy expenditure makes it possible to include all features of the mortuary process in comparisons. He also furnishes a variety of quantitative measures, based on information theory and systems theory, for relating structural differentiation and organization to energy expenditures (Tainter 1978:131136). The distribution of energy expenditures in the mortuary process should also be a function of social inequality (McGuire 1983:124).
+
+
+
+
+
+In all quantitative analyses, it is usually assumed that comparable samples of interments have been obtained. This is not always the case, particularly where societies extensively processed the remains of the deceased. Brown (1981) and Chapman and Randsborg (1981:13) call attention to the possibility that some differences in burials actually represent sequent stages of a "compound" burial mode. Indeed, Brown's analyses of Spiro site mortuary practices established a link between social standing (i.e., rank) and degree of post-mortem processing:
+
+
+
+
+
+the lowest-ranking burial type is subjected to the least post-mortem handling and the highest burials to the greatest. The highest-ranking group is confined to the special mortuaries of the Craig Mound at Spiro and at other centres. The intermediate group is also found at Spiro and other centres, presumably wherever charnel houses were maintained. The least treated are found in grave plots of varying size in or near habitations (Brown 1981:31).
+
+
+
+
+
+Brown (1981:35-36) also identified various multistage "programs" for disposal of the dead by the Illinois Hopewell. Brown's work on this subject implies a good rule of thumb: whenever processed human remains are found (e.g., bundle burials, body parts), one should seek evidence for earlier (and later) stages of an interment "program."
+
+
+
+
+
+Saxe has also offered the proposition that societies having lineal descent groups will maintain formal cemeteries, whereas those lacking such groups will not (Tainter 1978:123). Goldstein (1976) tested Saxe's hypothesis with favorable results on a sample of 30 societies, but the association is not perfect: some societies with lineal descent groups lack formal cemeteries. In addition, industrial societies have cemeteries but few lineal descent groups. Clearly, this generalization should be applied to prehistoric societies with great care.
+
+
+
+
+
+Page 88
+
+
+
+
+
+Although the study of grave goods or grave furniture has received the lion's share of effort, very little is known about the factors influencing the deposition of artifacts in graves. For example, under what conditions are grave goods apt to be the possessions of the deceased or the contributions of the mourning group? Tainter (1978) and Chapman and Randsborg (1981) call attention to this source of variability, properly urging that more studies be undertaken.
+
+
+
+
+
+A related question concerns the relationship between grave goods and the systemic inventory of a society. Worsaae's Law (Rowe 1962) was the first principle of this sort, formulated in the mid-nineteenth century. It states that items in a grave were in use at the same time. Generally, archaeologists interpret Worsaae's principle broadly: grave goods were drawn from the systemic inventory and had uses prior to their employment in mortuary ritual. This expansive interpretation is probably not warranted.
+
+
+
+
+
+The degree to which artifacts were reused in mortuary ritual is, first, an empirical question that should be addressed in each case by means of several lines of evidence. A traditional line of evidence to pinpoint speciality grave goods is the number of discarded items of a type (e.g., in secondary refuse) in relation to those found in graves. Items rare in trash but abundant in graves are assumed to be specialized grave goods. This evidence can be misleading if the object in question, although widespread in systemic inventories, had a low discard rate. A more definitive line of evidence is use-wear analysis. For example, Bray (1982) discovered that Mimbres ceramic vessels found as grave goods exhibited wear, indicating reuse. In addition, one must investigate, generally, the factors promoting reuse versus those favoring manufacture of objects specifically for mortuary provisions.
+
+
+
+
+
+Together, the above principles (and others in Tainter 1978) lead to the expectation that variability in the mortuary treatments of any society will furnish evidence about the organization of that society. Regrettably, "decoding" the many dimensions of variability in mortuary treatments is fraught with difficulties. As Whittlesey (1978) notes, most previous burial analyses have focused on just one or a few dimensions of variability, linking theseusually by ad hoc correlatesto aspects of social organization. For example, "high status" burials, which denote formal leadership positions, are indicated by abundant and sometimes exotic grave goods.
+
+
+
+
+
+Whittlesey (1978) has identified in many past analyses of mortuary remains the potential for vastly inflated estimates of a society's social complexity. This state of affairs results in part from a failure by archaeologists to adopt robust measures and a comparative perspective. Archaeologists who use only mortuary evidence and do not employ cross-
+
+
+
+
+
+Page 89
+
+
+
+
+
+culturally valid comparative measures will almost inevitably find evidence for a ranked or stratified society (as defined by Fried 1967). Because every set of burials exhibits variability, there will always be relatively rich burials. However, by themselves the richest burialsexcept in extreme casesdo not provide sufficient evidence to indicate great social complexity. Elaborately appointed burials probably do represent persons of high social standing but, in a relatively simple society, such individuals may be old men or women who belonged to many ceremonial organizations. One cannot use a relative scale to make absolute statements.
+
+
+
+
+
+To resolve these and related interpretive problems, Whittlesey (1978) proposes a different approach, which she calls a "dimensional model." Her strategy is based on the argument that one must build a model that accounts for all, not just some, of the salient variability in burials. Thus, one attempts to assess the influence of variables such as age, sex, conditions of death, prestige, and kinship on the observed variability. Such models are constructed using previously and independently confirmed general principles and specific hypotheses to account for the burial variability and are rigorously tested using the burial data. This approach is generally sound because it focuses on the need to explain observed variability; some explanations will embody social variables of interest, others will not.
+
+
+
+
+
+Abandonment Processes
+
+
+
+
+
+Abandonment is the process whereby a placean activity area, structure, or entire settlementis transformed to archaeological context. Such transformations may be a normal occurrence, as in the abandonment of a decay-ravaged house in the tropics, or an unanticipated catastrophe, such as a mudslide that destroys a village. Richard Gould (personal communication, 1985) stresses that some abandonments are not so final. For example, at Kividhes, a Cypriot village abandoned several decades ago, I observed that the church is still maintained (Fig. 4.5), some nearby fields are cultivated, and pigs are penned in a structure. Although places can acquire new functions, it is important to isolate the abandonment process as an important source of archaeological variability.
+
+
+
+
+
+De Facto Refuse and Curate Behavior
+
+
+
+
+
+The abandonment of places sets in motion another set of processes that deposits artifacts; the most important of these is de facto refuse deposition. De facto refuse consists of the tools, facilities, structures, and other cultural materials that, although still usable (or reusable), are left behind when an activity area is abandoned (Schiffer 1972). Variability in de facto refuse is marked, both within and between settlements. Some sites, such as
+
+
+
+
+
+Page 90
+
+
+
+
+
+Fig. 4.5.
+
+Amidst the ruins of the abandoned Cypriot village
+
+of Kividhes, the church is still maintained.
+
+
+
+
+
+Pompeii, contain nearly complete systemic inventories as de facto refuse, whereas others have been stripped clean by the departing occupants. Curate behavior (Binford 1973, 1976, 1979) designates the process of removing and transporting still-usable or repairable items from the abandoned activity area for continued use elsewhere.
+
+
+
+
+
+Curate behavior affects formation processes at two localities: the donor and recipient activity areas or settlements. From the standpoint of the original location, the removal of artifacts produces the donor curate set (Schiffer 1975d:266). From the standpoint of the destination, one may speak of a founding curate set (Schiffer 1975d:266), or the items that in some cases form the nucleus of a new systemic inventory.
+
+
+
+
+
+Determinants of De Facto Refuse
+
+
+
+
+
+Although processes of de facto refuse production are still poorly understood, some tentative general principles have been formulated on the basis of recent work in ethnoarchaeology and historical archaeology. These studies have pinpointed the main variables that influence de facto refuse, particularly in the case where a settlement is abandoned. De facto refuse deposition is determined by rate of abandonment (e.g., rapid and unplanned versus slow and planned), means of available transport, sea-
+
+
+
+
+
+Page 91
+
+
+
+
+
+son of abandonment, distance to the next settlement, principal activities in the next settlement, size of emigrating population, and whether or not return is anticipated. In addition, variables pertaining to the artifacts themselves, including artifact size and weight, replacement cost, remnant uselife, and function(s), condition curate probabilities and thus influence de facto refuse deposition. Clearly, additional research will be needed to specify the complex manner in which these variables interact. It may be fruitful to model the process using a decision tree, where some variables are assigned primacy. For example, rate of abandonment may be the most important variable, for it influences the magnitude of effects produced by the others. Probably the next most significant variables are means of transportation and whether or not return is anticipated.
+
+
+
+
+
+An important and extensive study of de facto refuse production and curate behavior was undertaken by Stevenson (1982) in gold rush settlements in the Yukon. Historical records were available to provide independent evidence on the nature of the abandonment process, enabling Stevenson to test various hypotheses on the archaeological data. One hypothesis he examined is that
+
+
+
+
+
+few artifacts and features will be found in processes of manufacture, use, or maintenance on sites abandoned under normal or planned conditions.... Conversely, sites abandoned under more extreme or unplanned conditions are expected to produce significantly greater amounts of de facto refuse (Stevenson 1982:241).
+
+
+
+
+
+Stevenson was able to compare sites that differed dramatically in their mode of abandonment (gradual and planned versus rapid and unplanned), and he found corresponding differences in the de facto refuse. Two sites on Bullion Creek, where abandonment was rapid and unplanned, yielded many structures under construction at the time of abandonment. In contrast, little de facto refuse was present on Mush Creek, where abandonment was slow and planned.
+
+
+
+
+
+It should be noted that relative to many archaeological sites, Stevenson's cases of slow abandonment were still quite rapid. Thus, within a single site, one may find considerable variability in de facto refuse production. Many Southwestern pueblos, such as Grasshopper (Reid 1974; Reid and Shimada 1982), appear to have been gradually abandoned over a period of decades. The earliest-abandoned rooms contain scarcely any de facto refuse and were often reused as dumps. Because the people who abandoned the early rooms likely remained within the settlement, virtually all portable artifacts could be curated (or removed by other processes, as seen below). In contrast, late-abandoned rooms contain many restorable pots, grinding stones, and a host of other usable artifacts (Reid 1973, 1978, 1985).
+
+
+
+
+
+Page 92
+
+
+
+
+
+In addition, many abandonments are less planned than even Stevenson's cases of rapid departure. Examples of very rapid, unplanned abandonments are usually catastrophic abandonments that result from floods, fires, storms, eruptions of volcanos, and other natural disasters (see Chapters 8 and 9). Catastrophic abandonments can also have cultural causes. For example, at a major Mogollon pueblo in the Point of Pines area of east-central Arizona, the investigators found a group of rooms with large amounts of de facto refuse and burned human remains (Haury 1958). Haury suggests that the inhabitants of these rooms, whom he believes were Anasazi immigrants from the Kayenta area 200 miles away, were burned out by the indigenous residents of the pueblo.
+
+
+
+
+
+A closely related process is ritual abandonment of structures. Ethnographic accounts indicate that houses in some societies are abandoned with considerable de facto refuse, sometimes after burning, upon the death of an adult occupant (e.g., Deal 1985:269). Although such practices are seemingly common, archaeologists seldom consider this possibility. One exception is provided by Kent (1984:139-141), who found a burned Navajo hogan containing much de facto refuse, including basic cooking utensils near the hearth, and implicated ritual processes. Throughout the American Southwest, small numbers of burned pithouses are found but usually receive little attention. Recent experiments have shown that accidental burning of a pithouse is very unlikely (Glennie and Lipe 1984); most were probably torched. Thus, burned pithouses should be considered as possible cases of ritual abandonment, perhaps occasioned by the death of an occupant (for a Hohokam case, see Seymour and Schiffer 1987).
+
+
+
+
+
+Stevenson also discovered that curate behavior and de facto refuse deposition vary according to whether or not return was anticipated: "It is hypothesized that occupants of sites undergoing planned abandonment where return is anticipated would begin to store, cache, and prepare most functional and valuable items not required for immediate use in such a way that they might be reused on their return" (Stevenson 1982:252-253). De facto refuse from the gold rush sites strongly supports this hypothesis. In gradually abandoned sites with anticipated return, usable items were cached in a few locations, leaving occupation surfaces relatively bereft of de facto refuse. In contrast, where no return was anticipated, de facto refuse occurred in customary use and storage locations. Abandonment caches, then, are a specialized type of de facto refuse produced under conditions of gradual abandonment where return is anticipated (see Ward [1985] for a Southeastern U.S. example). As the archaeological record makes abundantly clear, returnalthough expecteddoes not always take place.
+
+
+
+
+
+The Apache wickiup reported by Longacre and Ayres (1968) contains
+
+
+
+
+
+Page 93
+
+
+
+
+
+many still-usable artifacts in apparent locations of use and storage, and none of these items seems to have great replacement cost. In many ways, Millie's camp (Bonnichsen 1973) is very similar. Regrettably, in neither case do the investigators supply information on the mode of abandonment.
+
+
+
+
+
+In highly mobile societies, people can reoccupy particular locations on a seasonal or sporadic basis. Under these conditions, abandonment caches may be deposited, but the composition of the systemic inventory itself is significantly influenced by the demands of mobility (Schiffer 1975d; Ebert 1979; Binford 1976, 1979; Rathje and Schiffer 1982). Obviously, highly mobile groups have streamlined inventories to minimize what must be transported (or cast off as de facto refuse). Moreover, many tools are multipurpose, are manufactured or procured at great cost, are kept deliberately small, and have relatively long uselives to facilitate curate behavior (Ebert 1979; Goodyear 1979; Binford 1979). Even housing is adapted to the lifestyle of highly mobile groups. Many mobile hunter-gatherers, for example, make minimal investments in structures (McGuire and Schiffer 1983), whereas other mobile groups, especially those having pack animals, utilize portable housing (e.g., the tipis of the Plains Indians and the tents of many Asian pastoralists).
+
+
+
+
+
+Because frequent abandonments are so thoroughly anticipated, highly mobile groups generally deposit small numbers of artifacts as de facto refuse (see Robbins 1973). The few items of de facto refuse are usually bulky or of low replacement cost; if return is anticipated, they might be deposited as abandonment caches. Binford (1979:264) refers to the latter itemsrelatively permanent fixtures such as grinding stonesas ''site furniture," whereas Gould (1980:71-72) terms them "appliances." Murray and Chang (1981) describe a modern herder's site in Greece, which was visited annually. Abandonments left behind troughs and other artifacts as site furniture, but these were not in abandonment caches. A similar herder's camp in Tulor Ayllu, Chile, is also used periodically; it contains animal paraphernalia as well as cooking utensils and facilities (Fig. 4.6).
+
+
+
+
+
+A good archaeological case for anticipated return is furnished by Baker (1975a). In a prehistoric novaculite quarry-workshop site in Arkansas were found caches of hammerstones which, Baker believes, represent toolkits used on occasional visits to the site, possibly by different groups. When the work was completed, the artisans simply buried the tools as an abandonment cache in anticipation of their use again during a future visit.
+
+
+
+
+
+As Binford (1976) has pointed out in some detail, the extensive practice of curate behavior by very mobile societies has additional consequences for the archaeological record, and these are quite predictable from the Clarke Effect. In settlements having a short occupation span, the curation of important tools like as axes, knives, and containers reduces their discard
+
+
+
+
+
+Page 94
+
+
+
+
+
+Fig. 4.6.
+
+A herder's camp in Tulor Ayllu, Chile, showing site furniture, 1985.
+
+
+
+
+
+rates to low levels (Gifford 1978:90). Thus, the probability that an example of such a tool will be discarded during the occupation of any one settlement is slight (B. Hayden 1976). In contrast, waste products of tool use and of food and fuel consumption, as well as expedient, uncurated tools have higher discard rates and will be represented in the refuse of such settlements. As a result, the most salient information about activities will often be derived, not from curated tools, but from the less glamorous debris and features (Binford 1973, 1976).
+
+
+
+
+
+It should also be noted that curate behavior can occur as a series of acts involving several trips to a new settlement. The prevalence of such delayed or intermittent curate behavior cannot presently be ascertained, but it may be expected when (1) the distance between settlements is not great or (2) the abandoned settlement is located along well traveled routes.
+
+
+
+
+
+In cases of noncatastrophic abandonment, variables pertaining to the artifacts themselves influence their curate probabilities, and thus their likelihood of becoming de facto refuse. For example, Lange and Rydberg (1972) studied a house site in Central America that had been recently abandoned in a gradual and planned way, with no return anticipated.
+
+
+
+
+
+Page 95
+
+
+
+
+
+Fig. 4.7.
+
+Large artifacts are more likely to be deposited as de facto refuse, as shown
+
+by these vessels inside a structure at the abandoned village of Kividhes, Cyprus.
+
+
+
+
+
+The de facto refuse contained few portable objects that were still usable. Thus, all other variables being constant, curate probabilities vary directly with artifact portability (Baker 1975a:11) and the fraction of uselife remaining (remnant uselifeDeBoer 1983:26). Most often, artifact size (volume or weight) is used as an index of portability (DeBoer 1983; Schiffer 1985). The influence of size on curate probability is illustrated at Kividhes. Although the abandonment to a new village only a few miles away was planned and made use of wheeled vehicles, intact ceramic vessels sometimes exceeding a meter in diameter were commonly left behind (Fig. 4.7).
+
+
+
+
+
+The anticipated utility of artifacts, dependent on their function(s), also affects curate probabilities. Stevenson (1982:244) reports that in one case of rapid abandonment, people curated utilitarian items in anticipation of immediate needs in the next gold rush camp. Baker (1975a:11) suggests that "tools which are activity-specific are likely to be abandoned." At very specialized sites, then, tools used exclusively for that activity may be abandoned there, especially if they are large and transport is difficult. For example, many mining sites of the American West were abandoned along with heavy ore-crushing equipment.
+
+
+
+
+
+Page 96
+
+
+
+
+
+Fig. 4.8.
+
+The remains of an old threshing machine, probably
+
+long in disuse, had been abandoned at the Cypriot
+
+village of Kividhes. Note flaked stones inset near center.
+
+
+
+
+
+In accord with the ''at rest effect" (Schiffer et al. 1981), the systemic artifact inventory of sedentary settlements contains items that are seldom if ever used, and these have low curate probabilities. Thus, in a gradual, planned abandonment of a long-inhabited house or settlement where transportation is not too constraining, de facto refuse will include items that were not being used prior to abandonment (Deal 1985; Hayden and Cannon 1983). In one structure at Kividhes, part of an ancient threshing machine incorporating chipped stone had been abandonedprobably after a long period of storage (Fig. 4.8).
+
+
+
+
+
+Another artifact property that affects curate probability is replacement cost. DeBoer (1983:26) suggests that "light useful objects with high replacement costs are likely to be curated." In many Southwestern sites, there is a paucity of worked shell and stone jewelry among even rich assemblages of de facto refuse. This suggests that these objects had high replacement costs and, in accordance with DeBoer's hypothesis, were meticulously curated. In contrast, Australian Aborigines readily abandon their "instant" lithic tools, which are unretouched flakes (Gould 1980:124).
+
+
+
+
+
+Other Factors Affecting the Composition of De Facto Refuse
+
+
+
+
+
+When archaeologists do find assemblages of apparent de facto refuse, usually on the floors of structures, they can seldom resist the temptation to treat such artifacts as systemic inventories. Previous discussions have
+
+
+
+
+
+Page 97
+
+
+
+
+
+already shown that, relative to systemic inventories, de facto refuse is somewhat depleted, except in a few cases of catastrophic or ritual abandonment. De facto refuse may also be enriched by stored items of little utility having low curate probabilities. In addition, a host of other processes affect the composition of de facto refuse, especially when abandonment is gradual, and need to be taken into account during analysis (for more detailed discussions of these processes, see Schiffer 1985; Seymour and Schiffer 1987).
+
+
+
+
+
+Lateral cycling is a common process that can deplete systemic inventories during the abandonment process. When people decide to abandon a structure, they may give or sell some artifacts to other inhabitants remaining in the settlement rather than curate them or deposit them (as de facto refuse).
+
+
+
+
+
+Systemic inventories may also be reduced during abandonment by a process called draw down. The drawing down of systemic inventories failing to replace items that reach the end of their uselifecan come about for several reasons. First, if a household has decided to leave a settlement, many items broken and worn out in the interim may not be replaced if they are merely reserves or if adequate substitutions can be made from the remaining inventory. Second, even if replacements were desired they might not be available (e.g., the village potter has already left). Third, as a settlement's population dwindles, a variety of activities, especially those contributing to social integration, may be performed less frequently or not at all. Fourth, with fewer people, there is less social differentiation and possibly lower social inequality among those who remain. As a result of this simplification of social organization, one would expect artifacts having important socio- and ideo-functions to diminish in systemic inventories. As items are drawn down, the systemic inventory and thus potential de facto refusegenerally shrinks. One might expect draw down to affect the composition of de facto refuse whenever the abandonment of a settlement is not sudden and when households anticipate that abandonment will likely come soon.
+
+
+
+
+
+Many postdepositional processes can also affect de facto refuse (and other deposits) but discussion of these is deferred until Chapters 5 and 6.
+
+
+
+
+
+Effects of Abandonment on Maintenance and Discard Processes
+
+
+
+
+
+When the abandonment of a structure or settlement is anticipated in the immediate future, the inhabitants may relax their standards of cleanliness and perform maintenance activities less frequently or not at all (Green 1961b). In addition, they may discard refuse in areas not previously used for that purpose. Stevenson (1982) provides an instance of this behavioral change in which discard occurred in areas of a structure
+
+
+
+
+
+Page 98
+
+
+
+
+
+normally kept clean during a planned abandonment. This refuse, which may be primary or secondary, represents abandonment stage refuse.
+
+
+
+
+
+Stevenson (1985) has recently called attention to the effects of abandonment behavior on a wider range of discard processes among highly mobile groups. With reference to stone tools, Stevenson (1985:67) expects "the final episodes of activity to be characterized by stone-tool replacement and manufacturing sequences in anticipation of projected needs and concerns at future locations." The refuse generated by these activities probably differs from that produced during earlier phases of occupation and remains relatively clustered. Stevenson (1985) found evidence for such an abandonment assemblage at the Peace Point site in northern Alberta, including a debitage distribution suggestive of a single knapping episode.
+
+
+
+
+
+Stevenson (personal communication, 1984) also suggests that constraints on child's play can be removed at abandonment, leading to child's play refuse where it would not ordinarily occur.
+
+
+
+
+
+Conclusion
+
+
+
+
+
+In 1972 I commented that
+
+
+
+
+
+archaeologists have gone from the one extreme of viewing a site as spatially and behaviorally undifferentiated rubbish to the other extreme of viewing remains as mostly reflecting their locations of use in activities. At this point it appears that neither extreme is often the actual case (Schiffer 1972:163).
+
+
+
+
+
+To remedy what I believed was the use of unwarranted assumptions about the nature of archaeological remains, I called for the development of a new branch of archaeological theory pertaining to cultural formation processes, and offered some provisional hypotheses for orienting inquiry on cultural deposition. Since then, more than a decade of vigorous ethnoarchaeological research and model building has provided genuine insights into these processes. Although much remains to be learned about cultural deposition, there is no longer any excuse for archaeologists to view the remains at a site as consisting entirely of either undifferentiated rubbish or primary refuse. The principles set forth in this chapter provide a basis for appreciating the many independent processes of cultural deposition that could have contributed to the formation of any site.
+
+
+
+
+
+Page 99
+
+
+
+
+

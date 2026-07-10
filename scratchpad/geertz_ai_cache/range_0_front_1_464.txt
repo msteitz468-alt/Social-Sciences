@@ -1,0 +1,464 @@
+AGRICULTURAL INVOLUTION
+             ASSOCIATION       OF   ASIAN   STUDIES
+
+             MONOGRAPHS        AND    PAPERS
+
+
+
+     XI. Agricultural Involution
+
+
+
+    Agricultural
+    Involution
+THE PROCESS OF ECOLOGICAL CHANGE
+
+    IN INDONESIA.            By Clifford Geertz
+
+
+
+
+    PUBLISHED FOR THE ASSOCIATION OF ASIAN STUDIES    BY
+
+
+    UNIVERSITY OF CALIFORNIA PRESS                         1966
+    Berkeley and Los Angeles
+        Publication of this volume has been made
+        possible by a generous grant to the Associa-
+        tion of Asian Studies by the Ford Foundation.
+
+
+
+
+        University of California Press
+        Berkeley and Los Angeles, California
+
+        Cambridge University Press
+        Cambridge, England
+
+© 1963 by The Regents of the University of California
+       Second Printing, 1966
+        Library of Congress Catalog Card Number 63-20356
+        Printed in the United States of America
+          Just as the progress of a disease shows
+          a doctor the secret life of a body, so
+          to the historian the progress of a great
+          calamity yields valuable information about
+          the nature of the society so stricken.
+         FOREWORD
+
+
+
+
+Interdisciplinary research is always a gamble. All too often it re-
+sults in a series of discrete articles or monographs with no very
+clear connecting theme. When the interdisciplinary research is
+applied to a political or geographic area such as Indonesia, the
+danger is that the spatial limits will be the only common feature
+of the products of the different disciplines. Accordingly, when the
+contributions from various disciplines to the study of a particular
+area produce genuine synthesis, the result is of unusual interest.
+Such a synthesis seems to have emerged from the work done
+on Indonesia under the auspices of the Massachusetts Institute of
+Technology Center for International Studies.
+  The Center's research on Indonesia fell into two broad cate-
+gories: the work of the Indonesia Project, under my direction,
+which was one of the four major undertakings of the Economic
+and Political Development Program; and the Indonesia Field
+Team, under the direction of Rufus Hendon, of which Clifford
+Geertz, author of the present study, was a member. The field
+work of both projects was undertaken in the period 1952-1959,
+and was concentrated mainly in the first half of this period.
+During the writing-up phase, starting in the second half of this
+vi/i                                                   FOREWORD
+
+period and only now nearing its end, there has been more or less
+continuous discussion between the two teams, and particularly
+between Dr. Geertz and myself.
+   T h e M. I. T . Indonesia project was in any case a loosely defined
+affair, the precise composition of which changed from year to
+year. It was more a "community of scholars" with a special interest
+in Indonesia than a tightly organized and centrally directed pro-
+gram of team research. Indeed, I was the only one to be continu-
+ously on the payroll throughout the five years of the project's
+official life. When, however, most of the people who had been
+associated with the project were gathered together for several days
+of discussion shortly before the official termination of the project,
+it became apparent that together we had arrived at an integrated
+view of Indonesia and its problems. As the various pieces of the
+picture were laid down, they fitted together like parts of a jig-saw
+puzzle. Each of us, using the methods of his own discipline—with
+some tendency in each case to stray over the borderlines of his
+field—had arrived at essentially the same broad analytical frame-
+work, and at the same general conception of the task that lies
+ahead of the Indonesian people if the high hopes of their revolu-
+tion are to be realized.
+  T h e anthropologist's version of this common picture is set forth
+more clearly in the present volume than in Dr. Geertz's two
+earlier works on Indonesia, the first of which deals with religion
+in Java, whereas the other compares entrepreneurship in Bali
+with that in east-central Java. T h e first of these stays closer to the
+traditional scope and method of anthropology, although the
+underlying interest in entrepreneurship and economic develop-
+ment is already apparent. This interest is more explicit in the
+second volume. T h e present work, however, is nothing less than
+a social-economic history of Java, that goes far to explain the
+difficulties that independent Indonesia is experiencing in launch-
+ing a takeoff into sustained economic growth, after three centuries
+of apparently static living levels under Dutch colonialism.
+  It may help the reader to put D r . Geertz's latest volume on
+FOREWORD                                                          ix
+
+
+Indonesia into its broader context if a brief outline of the common
+thesis—common to the economists, political scientists, historians,
+sociologists, anthropologists, and geographers associated with our
+Indonesian venture—is provided here by way of introduction.
+The language is my own, and I would not wish to commit any
+other member of the group to it; but I have tried to render as
+faithfully as possible the common viewpoint expressed on those
+occasions when we have met together.
+   In Indonesia a "big push" is needed, not only from the eco-
+nomic point of view, but from the sociological and political view-
+points as well. There seems to be in the history of each country an
+"optimal moment" for launching development, a short period of
+time when sociological, political, and economic factors coalesce
+to provide a climate unusually favorable for a take-off into eco-
+nomic growth. If such an optimal moment is missed, it may take
+several generations to reproduce a similar set of favorable condi-
+tions. In simplest form the thesis sounds a bit tautological: a
+take-off is most likely when the growth of an indigenous entre-
+preneurial class occurs simultaneously with the appearance of a
+political elite which has the power and the will to provide a policy
+framework favorable for the exercise of entrepreneurial talents—
+whether in the public or the private sector. Yet as a guide to
+historical analysis—and even for prognosis—the thesis seems to us
+a useful one.
+   The story of Java seems to be one of repeated nipping off of a
+budding entrepreneurial upsurge by a political elite essentially
+hostile to it. It may even be that Javanese trade was prevented
+from expanding by Portuguese enterprise. Certainly any hopes
+the Mataram Empire may have had of reuniting Indonesia—to
+the degree, say, that the country was united by the Madjapahit
+Empire two centuries earlier—were destroyed through use of main
+force by the Netherlands East India Company.
+   About 1850, under the impetus of the Culture System and the
+first wave of Dutch settlement and plantation enterprise, another
+incipient "take-off" emerged. The Dutch settlement also launched
+X                                                    FOREWORD
+
+
+a population explosion; but there is reason to believe that, had the
+new class of Javanese entrepreneurs been given their head, they
+would have brought increases in productivity and changes in so-
+cial structure and attitudes that would have permitted a continued
+rise in the per-capita income nonetheless. Unfortunately, the
+Dutch colonial administrators were the effective political elite at
+the time, and Dutch colonial policy was not directed toward the
+encouragement of any such form of development. There is some
+evidence—not too clear—that the great depression of the 1930's,
+by bringing Dutch enterprise to a standstill, provided a last in-
+jection of encouragement to Javanese industry and rubber ex-
+porters. On the other hand, the depression killed off whatever
+remained of Javanese enterprise in sugar. Such potential as
+Javanese society still had for generating the conjuncture of eco-
+nomic and political leadership needed for a take-off was subse-
+quently destroyed by the war, the Japanese occupation, the revo-
+lution, and the subsequent political chaos.
+  Meanwhile—for all their "hands-off" policy—the intensity of
+Dutch economic activity in Java detraditionalized Javanese society.
+When Javanese aristocrats, thwarted in their efforts to extend
+their leadership into the economic field, retreated into Javanese
+tradition—except for a handful with Western training who
+sought the political sphere as an outlet for their talents and am-
+bitions—they were pursuing a shibboleth. Traditional Javanese
+society no longer existed. It is for this reason that the only leader-
+ship capable of arousing a mass following in Java in recent years
+have been of persuasions—Communist or extreme nationalist—
+having little or nothing to do with Javanese tradition. But while
+Communists and nationalists provide political leadership, they do
+not at this stage provide economic leadership or entrepreneur-
+ship—if anything, their actions and attitudes are such as to dis-
+courage the growth of entrepreneurial activity.
+   In the rest of Indonesia the impact of the Dutch came much
+later, was limited to a few decades, and was neither so wide nor
+so deep in its effects as it was in Java. T h e societies of North
+FOREWORD                                                          xi
+
+Sumatra (Batak), Central Sumatra (Minangkebau), Bali, Sula-
+wesi, and Kalimantan (Dajak) were much less detraditionalized
+by contact with the Dutch. Consequently, they now have a chance
+to evolve in terms of their own cultural dynamics, stimulated by
+the liberating effect of the revolution. Each of these societies has
+developed a group of indigenous entrepreneurs, some of whom—
+especially Batak and Minangkebau—are providing economic
+leadership to Java as well as to their own regions. Moreover,
+these societies—again, especially Batak and Minangkebau—are
+providing political leadership far out of proportion to their num-
+bers, on the national scene as well as at home. In the Outer
+Islands there is still reason to hope for the kind of interaction of
+entrepreneur and elite that could give rise to sustained economic
+growth. It is not just that the Outer Islands have a much more
+favorable resource-population pattern than Java, although that is
+also true; it is the Outer Islands that constitute the "growing
+points and leading sectors" in sociological terms as well. Here is
+part of the explanation of the "dualism" so often noted in the
+Indonesian economy.
+   This "dualism" resulted in large measure from the special
+form of industrialization by foreign enterprise after the Napole-
+onic wars. Until about 1820 the entire country was given over to
+small holders' and peasant agriculture, with no marked difference
+in technique from one sector or region to another. The popula-
+tion of Indonesia was small—less than 10 percent of its present
+level, with less than 5 million people on Java and perhaps 3 mil-
+lion in the Outer Islands. Land was therefore relatively abundant.
+There was no serious population pressure anywhere in the coun-
+try and, while standards of living were not high, there was little
+real hardship. The Dutch were for the most part content to trade
+with the Indonesians (to a large extent through Chinese middle-
+men) and later to obtain forced deliveries of export products,
+without themselves settling in the country.
+ After the brief interlude of British rule during the Napoleonic
+wars, the Dutch colonial administration in Indonesia gradually
+xii                                                 FOREWORD
+
+shifted to plantation agriculture. Some decades later the develop-
+ment of the mining, petroleum, and processing industries began.
+This industrialization seems to have brought an initial increase
+in per capita incomes of Indonesians. However, instead of lead-
+ing to permanent improvement in Indonesian living standards,
+this initial increase in incomes was rapidly offset by accelerated
+population growth. The higher incomes afforded subsistence for
+greater numbers. Moreover, the shift in policy brought Indo-
+nesians in closer contact with Western civilization: industrializa-
+tion meant settlement by Europeans. Efforts were made to raise
+levels of health and to maintain peace and order among the In-
+donesians who were previously rather given to fighting each
+other. Death rates dropped. It may also be—although this is less
+clear—that improved health and nutrition raised fertility rates.
+The form of development, centered on plantations, mines, and
+oil fields, all of which produced raw materials for export, brought
+more industrialization than urbanization; the checks on family
+size brought by urban industrialization of Europe and the New
+World were therefore less effective in Indonesia. The net effect
+was that the total population increased more than fourfold in
+three generations.
+   The sector of the economy in which new investments were be-
+ing made was totally incapable of absorbing the increase in popu-
+lation which it generated, because the plantation, industry, oil and
+mining operations were land- and capital-intensive; technical co-
+efficients either were, or were assumed to be, relatively fixed. The
+increased numbers inevitably led to a return flow into peasant
+agriculture and small cottage industries, where technical coeffi-
+cients were relatively variable and opportunities for obtaining a
+living still existed within the village structure. With abundant
+labor and scarce capital—and in Java scarce land as well—pro-
+duction methods in this sector became highly labor-intensive.
+(Even in the Outer Islands, there is now no obvious superabun-
+dance of fertile, easily cleared, readily cultivatable land. And in
+recent decades population growth in the Outer Islands has been
+FOREWORD                                                         xiii
+
+
+nearly as rapid as it was in Java during the late nineteenth cen-
+tury.) Eventually labor became redundant in this sector (mar-
+ginal productivity fell to zero) and the growing population led
+merely to work spreading, underemployment and unemploy-
+ment. Per capita incomes in this sector returned to the subsistence
+level.
+   Technological progress was confined largely to the capital-in-
+tensive sector. In the labor-intensive sector, meanwhile, thif rate
+of population growth far exceeded capital accumulation. More
+recently, trade union activity and government policy have estab-
+lished industrial wage levels which, low as they are, are some-
+times high in relation to the marginal productivity of labor. This
+situation further aggravates the tendency to use labor-saving de-
+vices wherever possible in the industrial sector. On the other hand,
+there is no incentive for groups of individual farmers or small
+enterprises to introduce labor-saving but capital-absorbing innova-
+tions in the rural sector. A technology that will raise man-hour
+productivity without net investment has yet to be discovered.
+Nor is there any incentive for labor as a group to increase its
+efforts, since the labor supply is already redundant. Thus methods
+remain labor-intensive, and levels of technique, man-hour pro-
+ductivity, and economic and social welfare remain low in the
+peasant-agriculture and small-industry sector.
+  Both the economic and the political aspects of this problem are
+made more difficult of solution by the fact that the two sectors
+conform roughly to two regions: Java and the Outer Islands. The
+main development of plantations, mines, and oil fields took place
+on the Outer Islands, especially Sumatra, Kalimantan, and Sula-
+wesi. The big growth of population, however, took place where
+the soil was most fertile and best suited for growing foodstuffs,
+and where most of the people already were—Java. Employment
+in cottage and small industry is also highest in Java.
+  Here then is a country in which two-thirds of the population
+are crowded on one relatively small island, engaged mainly in the
+production of foodstuffs or simple handicrafts and small-scale
+x/V                                                  FOREWORD
+
+manufacturing for home consumption, and dependent on im-
+ports for textiles and other essential items of consumption; while
+the other third of the population is scattered through an enormous
+area, in which there are some highly efficient large-scale industries
+producing mainly for export. With such a discrepancy in current
+economic conditions, as well as in capacity for generating leader-
+ship for economic growth, it is small wonder that there are
+stresses and strains between Java and the Outer Islands.
+   The implications of this analysis are far-reaching indeed. For
+one thing, it means that President Sukarno was responding to a
+very real problem in demanding constitutional reform in the
+direction of "democracy with leadership." At this stage ordinary
+parliamentary democracy must mean essentially rule by Java,
+since Java has two-thirds of the electorate. The only way in which
+Java could now provide the required coalescence of entrepreneurs
+and elite would be through growth of the Communist party and
+the establishment of a Communist regime. Yet the leaders of the
+Revolutionary Government (P.R.R.I.) were also right; maximiz-
+ing the growth potential of the Indonesian economy means not
+only allocating more of the development budget to public or pri-
+vate projects in the Outer Islands, it also means allocating much
+more responsibility for financing and executing development to
+the regions.
+    The current Eight Year Plan falls short of requirements cast
+ in such terms. It seeks to crystallize the conception of Indonesian
+ democracy and to define the sort of society the plan is expected to
+produce. The spirit of the plan is well indicated by its division
+into 8 volumes, 17 parts, and 1,945 paragraphs, to symbolize the
+Proclamation of Independence on August 17, 1945. The Indo-
+nesian national identity, the plan states, is to be sought in the
+ traditional culture—the songs, the dance, the wayang, the litera-
+ ture. The goal must be "a just and prosperous society based on
+the Pantja Sila," the five pillars of Indonesian social and political
+philosophy—nationalism, humanitarianism, democracy, social jus-
+tice, and belief in God. It must also be a "family-like society,"
+FOREWORD                                                          xv
+
+
+reproducing at the national level the spirit of village organization.
+   T h e definition of "socialism a la Indonesia" is useful; but the
+plan does not really tackle the basic economic problem. It does
+not impose any " m i n i m u m effort" on the government. T h e plan
+for the central government—and there is no authorized and de-
+tailed plan for the regional and local governments or for private
+enterprise—is essentially a projection of programs already under
+way in the various departments. T h e plan does not require of the
+government anything essentially new, let alone bold or imagina-
+tive, in the way of developmental effort. It does not really bind
+the government to actions constituting a clean break from what
+they have been doing in the past. Consequently, it does not en-
+force on the government any of the basic decisions on economic
+policy that must be made before development can proceed. On
+the contrary, it permits the government to go on postponing
+really serious consideration of the development problem, while
+stating to themselves and to the people that they are "carrying out
+a development plan."
+  Indonesian development will be expensive. Yet the events of
+1957 and 1958, together with stagnation of real income and
+mounting inflation, m a k e it abundantly clear that if Indonesia is
+to become a genuinely unified and prosperous nation, a take-off
+into visible economic growth cannot be delayed much longer.
+  T h e more purely economic aspect of Indonesia's history and
+current problems will be analyzed in the final volume of the
+M . I. T . project. Dr. Geertz's present study provides the socio-
+cultural setting and makes the economist's task much easier.
+
+                                              BENJAMIN    HIGGINS
+Berkeley, California, May, 1963
+        ACKNOWLEDGMENTS
+
+
+
+
+This monograph is an expansion and comprehensive revision of
+the first section of my earlier programmatic essay, "The Devel-
+opment of the Javanese Economy: A Socio-Cultural Approach,"
+issued in dittoed form by the Center for International Studies of
+the Massachusetts Institute of Technology in 1956 as document
+C/56-1 in their Economic Development Program series. I am
+most grateful to the Center and to its director, Max Millikan, for
+supporting both the writing of that original report and the an-
+thropological fieldwork I carried out in Java, as part of the
+"Modjokuto Project," in 1952-1954, in the course of which most
+of the ideas and interpretations here worked out in historical
+terms were originally developed.
+  The writing of the present study has been made possible by
+the Committee for the Comparative Study of New Nations of
+the University of Chicago, and I am grateful to the Committee
+as a whole, to its chairman, Edward Shils, and to its individual
+members for providing this opportunity. Among those who have
+read and criticized various drafts of this work are: Robert M .
+Adams, Harold Conklin, Lloyd A. Fallers, Hildred Geertz,
+Benjamin Higgins, Robert Jay, Morris Janowitz, Kampto Utomo,
+xvi/7                                ACKNOWLEDGMENTS
+
+W . F. Wertheim, and Aram Yengoyan, and I wish to express my
+appreciation for their assistance. Messrs. Conklin, Higgins,
+Kampto Utomo, and Yengoyan, in particular, provided extensive
+and detailed comments and criticism, most of which I have in
+some way incorporated into the work, though they are, of course,
+not to be held responsible for my interpretations of their argu-
+ments. I am indebted to Donald McVicker for rendering the
+charts and maps.
+  In most general terms, this book is an attempt to apply to the
+interpretation of—in this case, economic—history some concepts
+and findings of social anthropology, to utilize the insights de-
+rived from microsociological analysis for understanding macro-
+sociological problems, and to establish a fruitful interaction
+between the biological, social, and historical sciences. However
+well or poorly this particular work effects such an integration of
+different scholarly perspectives, I am convinced that an adequate
+understanding of the new countries of the "third world" demands
+that one pursue scientific quarry across any fenced-off academic
+fields into which it may happen to wander. And whatever sub-
+stantive merits my analysis may have, I hope that my effort will
+at least suggest the profits to be gained in such poaching expedi-
+tions.
+                                                          C. G.
+Chicago, January, 1963.
+       CONTENTS
+
+
+
+
+I: STARTING POINTS, THEORETICAL AND FACTUAL
+
+     1. THE ECOLOGICAL APPROACH IN ANTHROPOLOGY
+         The Limitations of Traditional Approaches    1
+         Cultural Ecology                             6
+
+     2. TWO TYPES OF ECOSYSTEM                       12
+         Inner vs. Outer Indonesia                   12
+         Swidden                                     15
+         Sawah                                       28
+
+II: THE CRYSTALLIZATION OF THE PATTERN
+
+     3. THE CLASSICAL PERIOD                         38
+
+     4. THE COLONIAL PERIOD: FOUNDATIONS             47
+         The Company                                 47
+         The Culture System                          52
+
+     5. THE COLONIAL PERIOD: FLORESCENCE             83
+         The Corporate Plantation System             83
+         The Development of Outer Indonesia         103
+xx                                            CONTENTS
+
+III: THE OUTCOME
+
+     6. COMPARISONS AND PROSPECTS                    124
+         The Present Situation                       124
+         Java and Japan                              130
+         The Outline of the Future                   143
+
+     BIBLIOGRAPHY                                    157
+
+     INDEX                                           173
+      PART I
+
+Starting Points, Theoretical and Factual
+
+
+
+

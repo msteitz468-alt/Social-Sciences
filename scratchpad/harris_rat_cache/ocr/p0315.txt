@@ -1,0 +1,98 @@
+The Rise of Anthropological Theory
+
+modifications in forms of the family, in . . . kin groups, and in kin-
+ship terminology” (ibid.:202). It means also that “no place is allotted
+in this hypothesis for the influence of such factors as preferential
+marriage customs” (ibid.:222). That is, one does not ordinarily expect
+changes in marriage rules or descent rules to initiate changes in resi-
+dence, but one does expect changes in residence to initiate changes in
+marriage and descent rules. Some additional indication of the im-
+portance of this deterministic order can be gained from Murdock’s
+lavish praise of Lowie for having been the first anthropologist to
+demonstrate the causal significance of residence (actually Tylor long
+preceded Lowie on this point): “This is by far the most important
+contribution of any modern anthropologist to our knowledge of the
+evolution of social organization” (ibid.:202). It should be noted that
+the argument of about half of Social Structure is directly or in-
+directly contingent upon the validity of this appraisal. Before pursuing
+the question of the method which Murdock employs to validate the
+importance of residence, the negative significance of the positive cor-
+relations should be stressed.
+
+If residence is the most powerful determinant of kinship termi-
+nology, why does an analysis of the coefficients of association show
+that descent and marriage forms are more “cffective” in producing
+particular varieties of kinship terminologies? The answer is that they
+do nothing of the kind. They show nothing about one factor “pro-
+ducing” another; all they do is predict the frequency with which two
+factors will be found in association. They show nothing about the
+causes of kinship terminologies. They are not determinants; they are
+merely predictors.
+
+CAUSALITY IS ALIVE AND LIVING
+EVERYWHERE
+
+It is fashionable in contemporary social science to ignore the
+difference between a causal relationship and an associational one. This
+haughty attitude no doubt has its roots in Hume’s famous critique of
+the inductive method. When we say that x causes y we merely declare
+a regular relationship between the two. Thus, the notion of cause as
+a metaphysical property is superfluous. But in a causal statement, the
+association of x with y has a temporal component, namely that y
+follows x. A nomothetic statement which lacks a causal arrow is a
+contradiction in terms; its absence can be tolerated only as a token
+of work in progress. If mere statistical associations are offered in licu
+
+620
+
+T
+
+21. Statistical Survey and the Nomothetic Revival
+
+of statements of cause and effect, science is defeated, for it is knowl-
+edge and not ignorance which deserves to be counted.
+
+The difference between causal factors and mere predictive ones is
+not to be taken lightly. It is the difference in knowing whether
+wounds cause gunshots or gunshots cause wounds. Bullet holes are
+excellent predictors of gunshots. As all devotees of Hercule Poirot
+know, there is a high correlation between gunshots and bullet holes,
+but no murder has yet admitted of the possibility that it was the
+fatal wound which caused the gun to discharge its contents. Along
+the same lines, one might note how reliably rain predicts clouds, or
+how frequently fire engines are found near burning buildings. If any
+additional examples are needed, they are available to anyone who
+has a movie projector which can be run in reverse.
+
+I am tempted to elaborate further on the method by which the
+time relationship between two variables is utilized to separate cause
+from effect, since once again it is obviously not merely a matter of
+correlating any two variables which happen regularly to occur in se-
+quence (cf. BLALock 1961:19ff.). But it is sufficient for our present
+discussion that we realize why additional logico-empirical operations
+are necessary before synchronic cross-cultural statistical comparisons
+can be made to contribute to the advance of knowledge. Perhaps it is
+even more important that we realize that the mere multiplication of
+correlation studies, as in Robert Textor's (1967) 20,000 computer-
+calculated correlations, may actually be the equivalent of running a
+movie backwards and hence a source of ignorance and confusion as
+well as of correlations.
+
+THE PRIMARY IMPORTANCE OF
+MURDOCK S CAUSAL HYPOTHESES
+
+It would be unfair to attribute to Murdock a lack of interest
+in separating causal from predictive variables. Indeed, Murdock’s
+theory of the determinants of kinship groups and of kinship termi-
+nologies must be acknowledged as the most important nomothetic
+advance in the study of social organization since Morgan’s Systems
+of Consanguinity and Affinity of the Human Family (1870). But the
+methodological structure of Murdock’s achievement has been obscured
+by the razzle-dazzle of his statistical tables and by his ritualistic avoid-
+ance of the consequences of his own major causal premises.
+
+The manifest structure of Murdock’s presentation would have us
+believe that the twenty-seven theorems concerning the “determinants
+
+621
+

@@ -1,0 +1,35 @@
+---
+title: Express Train vs. Entangled Bank vs. Triple-I — Models of Lapita Origins
+dispute_type: theoretical
+disciplines: [archaeology, linguistics, biological-anthropology]
+era: [critical-turn, contemporary]
+positions: ["Express Train to Polynesia (Diamond; Bellwood's Out-of-Taiwan model)", "Entangled Bank (commonly attributed to Terrell)", "Triple-I / Slow Boat (Green 1991b; Kirch)"]
+key_texts: ["Diamond (coined \"Express Train to Polynesia\")", "Bellwood, Out-of-Taiwan model (synthesized in Kirch 1997a; Spriggs 1995/1997; Hung and Carson 2014)", "Green 1991b (Triple-I model)"]
+resolution_status: partially-resolved
+last_updated: 2026-07-10
+tags: [debate]
+---
+
+## Positions
+
+**"Express Train to Polynesia"** — term coined by Jared Diamond, and, in substance, [[bellwood-peter|Peter Bellwood]]'s Out-of-Taiwan model: a rapid, essentially unimpeded migration of Austronesian-speaking farmers from Taiwan through Island Southeast Asia into the Pacific, with minimal absorption or mixture with indigenous Papuan populations en route. On this model language, genes, and material culture move together as a single package. Archaeological support cited for the broad route includes ceramic-using peoples appearing on Taiwan circa 3000 BC (Dabenkeng/Ta-p'en-k'eng culture), a parallel horizon reaching the Philippines and Sulawesi circa 2200 BC, and near-identical red-slipped pottery at Kayoa Island (Uattamdi rockshelter) dated 1300–800 BC. This archaeological sequence is argued to be "remarkably consistent" (Kirch's assessment) with the independently derived Austronesian linguistic phylogeny (Robert Blust's "principle of least moves": Taiwan homeland → northern Philippines circa 5500 BP → Western/Central-Eastern Malayo-Polynesian split → Oceanic branch reaching the Bismarck Archipelago by at least 3600 BP).
+
+**"Entangled Bank"** — commonly attributed to Terrell as an alternative to migrationist models in the broader Lapita literature. On this framing, indigenous Near Oceanic populations played the dominant role in the formation of the [[lapita-cultural-complex|Lapita cultural complex]] through long, complex local interaction networks; language, pottery, and genes need not correlate, and the position is skeptical of large-scale migration as the primary driver of Lapita's emergence.
+
+**IMPORTANT SOURCING CAVEAT**: the Kirch (2017) chapter examined for this ingest does not quote Terrell directly or present the Entangled Bank position in his own words — the position above is stated "as commonly framed" in the wider literature, not as a direct citation from this source. This debate page should be treated as provisional on the Entangled Bank side pending verification against Terrell's own text or other ingested sources; it is flagged here rather than silently presented as fully sourced.
+
+**"Triple-I" / Slow Boat** ([[green-roger|Roger Green]], 1991b) — see [[triple-i-model]]. A synthesis position treating Intrusion, Innovation, and Integration as jointly necessary processes: (1) intrusion of Austronesian-speaking, pottery-making, horticulturalist immigrants ultimately from Taiwan/Island Southeast Asia into the Bismarck Archipelago circa 1400–1300 BC; (2) innovation of new traits within the Near Oceanic contact zone not present in either source population, most notably the dentate-stamped decorative style itself; (3) integration through fusion with indigenous Papuan-speaking populations already resident in Near Oceania — borrowing of the earth-oven concept, adoption of local tree-crop cultivation (Canarium almond), and genetic admixture evidenced by a shared α-thalassemia deletion. This is the position Kirch endorses and elaborates at length; supporting evidence includes Pacific rat (*Rattus exulans*) mtDNA haplogroup distribution "consistent with the Triple-I model" (Matisoo-Smith and Robins 2004).
+
+## Shared Factual Ground
+
+All parties agree that Lapita pottery and its associated economy appear suddenly in the Bismarck Archipelago and are not a purely in-situ local development. The disagreement concerns the relative weight of migration versus local synthesis, and the pace of integration between intrusive and indigenous populations.
+
+## Resolution Status
+
+Partially resolved: Kirch (2017) himself favors and elaborates a version of the Triple-I synthesis, reacting explicitly against both pure migrationist ("Express Train") models that treat Lapita as simply intrusive Austronesian culture without local admixture, and pure in-situ/indigenous-development models. This is recorded as Kirch's own attributed position, not an adjudicated wiki-voice verdict — a fuller, adjudication-neutral treatment of the Entangled Bank side specifically will require Terrell's own words from elsewhere in this source or from other ingested sources.
+
+## Evidence Base
+
+Genetic evidence bearing on the debate includes Teouma cemetery ancient DNA (Skoglund et al. 2016, n=4, "as of Skoglund et al. 2016"), showing affinity to indigenous Taiwanese and Philippine populations with no detectable Papuan ancestry at initial settlement — the Papuan genetic signature in Remote Oceania is argued to postdate initial colonization. Cranial morphology (Valentin et al. 2016, Teouma n=12) independently converges with the aDNA signal, though both rest on small samples and are flagged accordingly. Non-human genetic proxies (Pacific rat mtDNA; *Helicobacter pylori* bacterial lineage divergence, Moodley et al. 2009) are cited as indirect supporting evidence for the Triple-I model specifically.
+
+Per the wiki's four-way non-identity rule: "Lapita people," "Austronesian speakers," and the archaeological "Lapita culture" are three analytically distinct categories, and Kirch himself notes archaeologists' caution about equating pots with people even while arguing the equation is well supported for Lapita — recorded as his position, attributed, not asserted as wiki-voice identity.

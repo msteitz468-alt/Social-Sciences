@@ -1,0 +1,2715 @@
+Languages and Logic
+
+In English, the sentences ‘I pull the branch aside’ and ‘I have an extra
+toe on my foot’ have little similarity. Leaving out the subject pronoun
+and the sign of the present tense, which are common features from
+requirements of English syntax, we may say that no similarity exists.
+Common, and even scientific, parlance would say that the sentences are
+unlike because they are talking about things which are intrinsically
+unlike. So Mr. Everyman, the natural logician, would be inclined to
+argue. Formal logic of an older type would perhaps agree with him.
+
+If, moreover, we appeal to an impartial scientific English-speaking
+observer, asking him to make direct observations upon cases of the two
+phenomena to see if they may not have some element of similarity which
+we have overlooked, he will be more than likely to confirm the dicta of
+Mr. Everyman and the logician. The observer whom we have asked to make
+the test may not see quite eye to eye with the old-school logician and
+would not be disappointed to find him wrong. Still he is compelled sadly
+to confess failure. “I wish I could oblige you,” he says, “but try as I
+may, I cannot detect any similarity between these phenomena.”
+
+By this time our stubborn streak is aroused; we wonder if a being from
+Mars would also see no resemblance. But now a linguist points out that
+it is not necessary to go as far as Mars. We have not yet scouted around
+this earth to see if its many languages all classify these phenomena as
+disparately as our speech does. We find that in Shawnee these two
+statements are, respectively, ni-l’θawa-’ko-n-a and ni-l’θawa-’ko-θite
+(the θ here denotes th as in ‘thin’ and the apostrophe denotes a
+breath-catch). The sentences are closely similar; in fact, they differ
+only at the tail end. In Shawnee, moreover, the beginning of a
+construction is generally the important and emphatic part. Both
+sentences start with ni- (‘I’), which is a mere prefix. Then comes the
+really important key word, l’θawa, a common Shawnee term, denoting a
+forked outline, like Fig. 17.1, no. 1. The next element, -’ko, we cannot
+be sure of, but it agrees in form with a variant of the suffix -a’kw or
+-a’ko, denoting tree, bush, tree part, branch, or anything of that
+general shape. In the first sentence, -n- means ‘by hand action’ and may
+be either a causation of the basic condition (forked outline) manually,
+an increase of it, or both. The final -a means that the subject (‘I’)
+does this action to an appropriate object. Hence the first sentence
+means ‘I pull it (something like branch of tree) more open or apart
+where it forks.’ In the other sentence, the suffix -θite means
+‘pertaining to the toes,’ and the absence of further suffixes means that
+the subject manifests the condition in his own person. Therefore the
+sentence can mean only ‘I have an extra toe forking out like a branch
+from a normal toe.’
+
+[Figure 17.1]
+
+Figure 17.1
+
+Suggested above are certain linguistic concepts which, as explained in
+the text, are not easily definable.
+
+Shawnee logicians and observers would class the two phenomena as
+intrinsically similar. Our own observer, to whom we tell all this,
+focuses his instruments again upon the two phenomena and to his joy sees
+at once a manifest resemblance. Figure 17.2 illustrates a similar
+situation: ‘I push his head back’ and ‘I drop it in water and it
+floats,’ though very dissimilar sentences in English, are similar in
+Shawnee. The point of view of linguistic relativity changes Mr.
+Everyman’s dictum: Instead of saying, “Sentences are unlike because they
+tell about unlike facts,” he now reasons: “Facts are unlike to speakers
+whose language background provides for unlike formulation of them.”
+
+[Figure 17.2]
+
+Figure 17.2
+
+The English sentences ‘I push his head back’ and ‘I drop it in water and
+it floats’ are unlike. But in Shawnee the corresponding statements are
+closely similar, emphasizing the fact that analysis of nature and
+classification of events as like or in the same category (logic) are
+governed by grammar.
+
+Conversely, the English sentences, ‘The boat is grounded on the beach’
+and ‘The boat is manned by picked men,’ seem to us to be rather similar.
+Each is about a boat; each tells the relation of the boat to other
+objects—or that’s OUR story. The linguist would point out the
+parallelism in grammatical pattern thus: “The boat is xed preposition
+y.” The logician might turn the linguist’s analysis into “A is in the
+state x in relation to y,” and then perhaps into fA = xRy. Such symbolic
+methods lead to fruitful techniques of rational ordering, stimulate our
+thinking, and bring valuable insight. Yet we should realize that the
+similarities and contrasts in the original sentences, subsumed under the
+foregoing formula, are dependent on the choice of mother tongue and that
+the properties of the tongue are eventually reflected as peculiarities
+of structure in the fabric of logic or mathematics which we rear.
+
+In the Nootka language of Vancouver Island, the first “boat” statement
+is tlih-is-ma; the second, lash-tskwiq-ista-ma. The first is thus
+I-II-ma; the second, III-IV-V-ma; and they are quite unlike, for the
+final -ma is only the sign of the third-person indicative. Neither
+sentence contains any unit of meaning akin to our word ‘boat’ or even
+‘canoe.’ Part I, in the first sentence, means ‘moving pointwise,’ or
+moving in a way like the suggestion of the outline in Fig. 17.1, no. 2;
+hence ‘traveling in or as a canoe,’ or an event like one position of
+such motion. It is not a name for what we should call a “thing,” but is
+more like a vector in physics. Part II means ‘on the beach’; hence
+I-II-ma means ‘it is on the beach pointwise as an event of canoe
+motion,’ and would normally refer to a boat that has come to land. In
+the other sentence, part III means ‘select, pick,’ and IV means
+‘remainder, result,’ so that III-IV means ‘selected.’ Part V means ‘in a
+canoe (boat) as crew.’ The whole, III-IV-V-ma, means either ‘they are in
+the boat as a crew of picked men’ or ‘the boat has a crew of picked
+men.’ It means that the whole event involving picked ones and boat’s
+crew is in process.
+
+As a hang-over from my education in chemical engineering, I relish an
+occasional chemical simile. Perhaps readers will catch what I mean when
+I say that the way the constituents are put together in these sentences
+of Shawnee and Nootka suggests a chemical compound, whereas their
+combination in English is more like a mechanical mixture. A mixture,
+like the mountaineer’s potlicker, can be assembled out of almost
+anything and does not make any sweeping transformation of the overt
+appearance of the material. A chemical compound, on the other hand, can
+be put together only out of mutually suited ingredients, and the result
+may be not merely soup but a crop of crystals or a cloud of smoke.
+Likewise the typical Shawnee or Nootka combinations appear to work with
+a vocabulary of terms chosen with a view not so much to the utility of
+their immediate references as to the ability of the terms to combine
+suggestively with each other in manifold ways that elicit novel and
+useful images. This principle of terminology and way of analyzing events
+would seem to be unknown to the tongues with which we are familiar.
+
+It is the analysis of nature down to a basic vocabulary capable of this
+sort of evocative recombination which is most distinctive of
+polysynthetic languages, like Nootka and Shawnee. Their characteristic
+quality is not, as some linguists have thought, a matter of the
+tightness or indissolubility of the combinations. The Shawnee term
+l’θawa could probably be said alone but would then mean ‘it (or
+something) is forked,’ a statement which gives little hint of the novel
+meanings that arise out of its combinations—at least to our minds or our
+type of logic. Shawnee and Nootka do not use the chemical type of
+synthesis exclusively. They make large use of a more external kind of
+syntax, which, however, has no basic structural priority. Even our own
+Indo-European tongues are not wholly devoid of the chemical method, but
+they seldom make sentences by it, afford little inkling of its
+possibilities, and give structural priority to another method. It was
+quite natural, then, that Aristotle should found our traditional logic
+wholly on this other method.
+
+Let me make another analogy, not with chemistry but with art—art of the
+pictorial sort. We look at a good still-life painting and seem to see a
+lustrous porcelain bowl and a downy peach. Yet an analysis that screened
+out the totality of the picture—as if we were to go over it carefully,
+looking through a hole cut in a card—would reveal only oddly shaped
+patches of paint and would not evoke the bowl and fruit. The synthesis
+presented by the painting is perhaps akin to the chemical type of
+syntax, and it may point to psychological fundamentals that enter into
+both art and language. Now the mechanical method in art and language
+might be typified by no. 3A in Fig. 17.1. The first element, a field of
+spots, corresponds to the adjective ‘spotted,’ the second corresponds to
+the noun ‘cat.’ By putting them together, we get ‘spotted cat.’ Contrast
+the technique in Fig. 17.1, no. 3B. Here the figure corresponding to
+‘cat’ has only vague meaning by itself—“chevron-like,” we might
+say—while the first element is even vaguer. But, combined, these evoke a
+cylindrical object, like a shaft casting.
+
+The thing common to both techniques is a systematic synthetic use of
+pattern, and this is also common to all language techniques. I have put
+question marks below the elements in Fig. 17.1, no. 3B, to point out the
+difficulty of a parallel in English speech and the fact that the method
+probably has no standing in traditional logic. Yet examination of other
+languages and the possibility of new types of logic that has been
+advanced by modern logicians themselves suggest that this matter may be
+significant for modern science. New types of logic may help us
+eventually to understand how it is that electrons, the velocity of
+light, and other components of the subject matter of physics appear to
+behave illogically, or that phenomena which flout the sturdy common
+sense of yesteryear can nevertheless be true. Modern thinkers have long
+since pointed out that the so-called mechanistic way of thinking has
+come to an impasse before the great frontier problems of science. To rid
+ourselves of this way of thinking is exceedingly difficult when we have
+no linguistic experience of any other and when even our most advanced
+logicians and mathematicians do not provide any other—and obviously they
+cannot without the linguistic experience. For the mechanistic way of
+thinking is perhaps just a type of syntax natural to Mr. Everyman’s
+daily use of the western Indo-European languages, rigidified and
+intensified by Aristotle and the latter’s medieval and modern followers.
+
+As I said in an article, “Science and linguistics,” in the Review for
+April 1940, the effortlessness of speech and the subconscious way we
+picked up that activity in early childhood lead us to regard talking and
+thinking as wholly straightforward and transparent. We naturally feel
+that they embody self-evident laws of thought, the same for all men. We
+know all the answers! But, when scrutinized, they become dusty answers.
+We use speech for reaching agreements about subject matter: I say,
+“Please shut the door,” and my hearer and I agree that ‘the door’ refers
+to a certain part of our environment and that I want a certain result
+produced. Our explanations of how we reached this understanding, though
+quite satisfactory on the everyday social plane, are merely more
+agreements (statements) about the same subject matter (door, and so on),
+more and more amplified by statements about the social and personal
+needs that impel us to communicate. There are here no laws of thought.
+Yet the structural regularities of our sentences enable us to sense that
+laws are SOMEWHERE in the background. Clearly, explanations of
+understanding such as “And so I ups and says to him, says I; see here,
+why don’t you . . . !” evade the true process by which ‘he’ and ‘I’ are
+in communication. Likewise psychological-social descriptions of the
+social and emotional needs that impel people to communicate with their
+fellows tend to be learned versions of the same method and, while
+interesting, still evade the question. In similar case is evasion of the
+question by skipping from the speech sentence, via physiology and
+“stimuli” to the social situation.
+
+The WHY of understanding may remain for a long time mysterious; but the
+HOW or logic of understanding—its background of laws or regularities—is
+discoverable. It is the grammatical background of our mother tongue,
+which includes not only our way of constructing propositions but the way
+we dissect nature and break up the flux of experience into objects and
+entities to construct propositions about. This fact is important for
+science, because it means that science CAN have a rational or logical
+basis even though it be a relativistic one and not Mr. Everyman’s
+natural logic. Although it may vary with each tongue, and a planetary
+mapping of the dimensions of such variation may be necessitated, it is,
+nevertheless, a basis of logic with discoverable laws. Science is not
+compelled to see its thinking and reasoning procedures turned into
+processes merely subservient to social adjustments and emotional drives.
+
+Moreover, the tremendous importance of language cannot, in my opinion,
+be taken to mean necessarily that nothing is back of it of the nature of
+what has traditionally been called “mind.” My own studies suggest, to
+me, that language, for all its kingly role, is in some sense a
+superficial embroidery upon deeper processes of consciousness, which are
+necessary before any communication, signaling, or symbolism whatsoever
+can occur, and which also can, at a pinch, effect communication (though
+not true AGREEMENT) without language’s and without symbolism’s aid. I
+mean “superficial” in the sense that all processes of chemistry, for
+example, can be said to be superficial upon the deeper layer of physical
+existence, which we know variously as intra-atomic, electronic, or
+subelectronic. No one would take this statement to mean that chemistry
+is UNIMPORTANT—indeed the whole point is that the more superficial can
+mean the more important, in a definite operative sense. It may even be
+in the cards that there is no such thing as “Language” (with a capital
+L) at all! The statement that “thinking is a matter of LANGUAGE” is an
+incorrect generalization of the more nearly correct idea that “thinking
+is a matter of different tongues.” The different tongues are the real
+phenomena and may generalize down not to any such universal as
+“Language,” but to something better—called “sublinguistic” or
+“superlinguistic”—and NOT ALTOGETHER unlike, even if much unlike, what
+we now call “mental.” This generalization would not diminish, but would
+rather increase, the importance of intertongue study for investigation
+of this realm of truth.
+
+Botanists and zoologists, in order to understand the world of living
+species, found it necessary to describe the species in every part of the
+globe and to add a time perspective by including the fossils. Then they
+found it necessary to compare and contrast the species, to work out
+families and classes, evolutionary descent, morphology, and taxonomy. In
+linguistic science a similar attempt is under way. The far-off event
+toward which this attempt moves is a new technology of language and
+thought. Much progress has been made in classifying the languages of
+earth into genetic families, each having descent from a single
+precursor, and in tracing such developments through time. The result is
+called “comparative linguistics.” Of even greater importance for the
+future technology of thought is what might be called “contrastive
+linguistics.” This plots the outstanding differences among tongues—in
+grammar, logic, and general analysis of experience.
+
+As I said in the April 1940 Review, segmentation of nature is an aspect
+of grammar—one as yet little studied by grammarians. We cut up and
+organize the spread and flow of events as we do, largely because,
+through our mother tongue, we are parties to an agreement to do so, not
+because nature itself is segmented in exactly that way for all to see.
+Languages differ not only in how they build their sentences but also in
+how they break down nature to secure the elements to put in those
+sentences. This breakdown gives units of the lexicon. “Word” is not a
+very good “word” for them; “lexeme” has been suggested, and “term” will
+do for the present. By these more or less distinct terms we ascribe a
+semifictitious isolation to parts of experience. English terms, like
+‘sky, hill, swamp,’ persuade us to regard some elusive aspect of
+nature’s endless variety as a distinct THING, almost like a table or
+chair. Thus English and similar tongues lead us to think of the universe
+as a collection of rather distinct objects and events corresponding to
+words. Indeed this is the implicit picture of classical physics and
+astronomy—that the universe is essentially a collection of detached
+objects of different sizes.
+
+The examples used by older logicians in dealing with this point are
+usually unfortunately chosen. They tend to pick out tables and chairs
+and apples on tables as test objects to demonstrate the object-like
+nature of reality and its one-to-one correspondence with logic. Man’s
+artifacts and the agricultural products he severs from living plants
+have a unique degree of isolation; we may expect that languages will
+have fairly isolated terms for them. The real question is: What do
+different languages do, not with these artificially isolated objects but
+with the flowing face of nature in its motion, color, and changing form;
+with clouds, beaches, and yonder flight of birds? For, as goes our
+segmentation of the face of nature, so goes our physics of the Cosmos.
+
+Here we find differences in segmentation and selection of basic terms.
+We might isolate something in nature by saying ‘It is a dripping
+spring.’ Apache erects the statement on a verb ga: ‘be white (including
+clear, uncolored, and so on).’ With a prefix n[LATIN SMALL LETTER O WITH
+MACRON]- the meaning of downward motion enters: ‘whiteness moves
+downward.’ Then tó, meaning both ‘water’ and ‘spring’ is prefixed. The
+result corresponds to our ‘dripping spring,’ but synthetically it is ‘as
+water, or springs, whiteness moves downward.’ How utterly unlike our way
+of thinking! The same verb, ga, with a prefix that means ‘a place
+manifests the condition’ becomes gohlga: ‘the place is white, clear; a
+clearing, a plain.’ These examples show that some languages have means
+of expression—chemical combination, as I called it—in which the separate
+terms are not so separate as in English but flow together into plastic
+synthetic creations. Hence such languages, which do not paint the
+separate-object picture of the universe to the same degree as English
+and its sister tongues, point toward possible new types of logic and
+possible new cosmical pictures.
+
+The Indo-European languages and many others give great prominence to a
+type of sentence having two parts, each part built around a class of
+word—substantives and verbs—which those languages treat differently in
+grammar. As I showed in the April 1940 Review, this distinction is not
+drawn from nature; it is just a result of the fact that every tongue
+must have some kind of structure, and those tongues have made a go of
+exploiting this kind. The Greeks, especially Aristotle, built up this
+contrast and made it a law of reason. Since then, the contrast has been
+stated in logic in many different ways: subject and predicate, actor and
+action, things and relations between things, objects and their
+attributes, quantities and operations. And, pursuant again to grammar,
+the notion became ingrained that one of these classes of entities can
+exist in its own right but that the verb class cannot exist without an
+entity of the other class, the “thing” class, as a peg to hang on.
+“Embodiment is necessary,” the watchword of this ideology, is seldom
+strongly questioned. Yet the whole trend of modern physics, with its
+emphasis on “the field,” is an implicit questioning of the ideology.
+This contrast crops out in our mathematics as two kinds of symbols—the
+kind like 1, 2, 3, x, y, z and the kind like +, −, ÷, [square root
+symbol], log —, though, in view of 0, ½, ¾, π, and others, perhaps no
+strict two-group classification holds. The two-group notion, however, is
+always present at the back of the thinking, although often not overtly
+expressed.
+
+Our Indian languages show that with a suitable grammar we may have
+intelligent sentences that cannot be broken into subjects and
+predicates. Any attempted breakup is a breakup of some English
+translation or paraphrase of the sentence, not of the Indian sentence
+itself. We might as well try to decompose a certain synthetic resin into
+Celluloid and whiting because the resin can be imitated with Celluloid
+and whiting. The Algonkian language family, to which Shawnee belongs,
+does use a type of sentence like our subject and predicate but also
+gives prominence to the type shown by our examples in the text and in
+Fig. 17.1. To be sure, ni- is represented by a subject in the
+translation but means ‘my’ as well as ‘I,’ and the sentence could be
+translated thus: ‘My hand is pulling the branch aside.’ Or ni- might be
+absent; if so, we should be apt to manufacture a subject, like ‘he, it,
+somebody,’ or we could pick out for our English subject an idea
+corresponding to any one of the Shawnee elements.
+
+When we come to Nootka, the sentence without subject or predicate is the
+only type. The term “predication” is used, but it means “sentence.”
+Nootka has no parts of speech; the simplest utterance is a sentence,
+treating of some event or event-complex. Long sentences are sentences of
+sentences (complex sentences), not just sentences of words. In Fig. 17.3
+we have a simple, not a complex, Nootka sentence. The translation, ‘he
+invites people to a feast,’ splits into subject and predicate. Not so
+the native sentence. It begins with the event of ‘boiling or cooking,’
+tl’imsh; then comes -ya (‘result’) = ‘cooked’; then -’is ‘eating’ =
+‘eating cooked food’; then -ita (‘those who do’) = ‘eaters of cooked
+food’; then -’itl (‘going for’); then -ma, sign of third-person
+indicative, giving tl’imshya’isita’itlma, which answers to the crude
+paraphrase, ‘he, or somebody, goes for (invites) eaters of cooked food.’
+
+[Figure 17.3]
+
+Figure 17.3
+
+Here are shown the different ways in which English and Nootka formulate
+the same event. The English sentence is divisible into subject and
+predicate; the Nootka sentence is not, yet it is complete and logical.
+Furthermore, the Nootka sentence is just one word, consisting of the
+root tl’imsh with five suffixes.
+
+The English technique of talking depends on the contrast of two
+artificial classes, substantives and verbs, and on the bipartitioned
+ideology of nature, already discussed. Our normal sentence, unless
+imperative, must have some substantive before its verb, a requirement
+that corresponds to the philosophical and also naïve notion of an actor
+who produces an action. This last might not have been so if English had
+had thousands of verbs like ‘hold,’ denoting positions. But most of our
+verbs follow a type of segmentation that isolates from nature what we
+call “actions,” that is, moving outlines.
+
+Following majority rule, we therefore read action into every sentence,
+even into ‘I hold it.’ A moment’s reflection will show that ‘hold’ is no
+action but a state of relative positions. Yet we think of it and even
+see it as an action because language formulates it in the same way as it
+formulates more numerous expressions, like ‘I strike it,’ which deal
+with movements and changes.
+
+We are constantly reading into nature fictional acting entities, simply
+because our verbs must have substantives in front of them. We have to
+say ‘It flashed’ or ‘A light flashed,’ setting up an actor, ‘it’ or
+‘light,’ to perform what we call an action, “to flash.” Yet the flashing
+and the light are one and the same! The Hopi language reports the flash
+with a simple verb, rehpi: ‘flash (occurred).’ There is no division into
+subject and predicate, not even a suffix like -t of Latin tona-t ‘it
+thunders.’ Hopi can and does have verbs without subjects, a fact which
+may give that tongue potentialities, probably never to be developed, as
+a logical system for understanding some aspects of the universe.
+Undoubtedly modern science, strongly reflecting western Indo-European
+tongues, often does as we all do, sees actions and forces where it
+sometimes might be better to see states. On the other hand, ‘state’ is a
+noun, and as such it enjoys the superior prestige traditionally
+attaching to the subject or thing class; therefore science is
+exceedingly ready to speak of states if permitted to manipulate the
+concept like a noun. Perhaps, in place of the ‘states’ of an atom or a
+dividing cell, it would be better if we could manipulate as readily a
+more verblike concept but without the concealed premises of actor and
+action.
+
+I can sympathize with those who say, “Put it into plain, simple
+English,” especially when they protest against the empty formalism of
+loading discourse with pseudolearned words. But to restrict thinking to
+the patterns merely of English, and especially to those patterns which
+represent the acme of plainness in English, is to lose a power of
+thought which, once lost, can never be regained. It is the “plainest”
+English which contains the greatest number of unconscious assumptions
+about nature. This is the trouble with schemes like Basic English, in
+which an eviscerated British English, with its concealed premises
+working harder than ever, is to be fobbed off on an unsuspecting world
+as the substance of pure Reason itself. We handle even our plain English
+with much greater effect if we direct it from the vantage point of a
+multilingual awareness. For this reason I believe that those who
+envision a future world speaking only one tongue, whether English,
+German, Russian, or any other, hold a misguided ideal and would do the
+evolution of the human mind the greatest disservice. Western culture has
+made, through language, a provisional analysis of reality and, without
+correctives, holds resolutely to that analysis as final. The only
+correctives lie in all those other tongues which by aeons of independent
+evolution have arrived at different, but equally logical, provisional
+analyses.
+
+In a valuable paper, “Modern logic and the task of the natural
+sciences,” Harold N. Lee says: “Those sciences whose data are subject to
+quantitative measurement have been most successfully developed because
+we know so little about order systems other than those exemplified in
+mathematics. We can say with certainty, however, that there are other
+kinds, for the advance of logic in the last half century has clearly
+indicated it. We may look for advances in many lines in sciences at
+present well founded if the advance of logic furnishes adequate
+knowledge of other order types. We may also look for many subjects of
+inquiry whose methods are not strictly scientific at the present time to
+become so when new order systems are available.”¹ To which may be added
+that an important field for the working out of new order systems, akin
+to, yet not identical with, present mathematics, lies in more
+penetrating investigation than has yet been made of languages remote in
+type from our own.
+
+ 
+
+Reprinted from Technol. Rev., 43:250–252, 266, 268, 272 (April 1941).
+
+1. Sigma Xi Quart., 28:125 (Autumn 1940).
+
+18
+
+Language, Mind, and Reality
+
+I
+
+It needs but half an eye to see in these latter days that science, the
+Grand Revelator of modern Western culture, has reached, without having
+intended to, a frontier. Either it must bury its dead, close its ranks,
+and go forward into a landscape of increasing strangeness, replete with
+things shocking to a culture-trammeled understanding, or it must become,
+in Claude Houghton’s expressive phrase, the plagiarist of its own past.
+The frontier was foreseen in principle very long ago, and given a name
+that has descended to our day clouded with myth. That name is Babel. For
+science’s long and heroic effort to be strictly factual has at last
+brought it into entanglement with the unsuspected facts of the
+linguistic order. These facts the older classical science had never
+admitted, confronted, or understood as facts. Instead they had entered
+its house by the back door and had been taken for the substance of
+Reason itself.
+
+What we call “scientific thought” is a specialization of the western
+Indo-European type of language, which has developed not only a set of
+different dialectics, but actually a set of different dialects. THESE
+DIALECTS ARE NOW BECOMING MUTUALLY UNINTELLIGIBLE. The term ‘space,’ for
+instance, does not and cannot mean the same thing to a psychologist as
+to a physicist. Even if psychologists should firmly resolve, come hell
+or high water, to use “space” only with the physicist’s meaning, they
+could not do so, any more than Englishmen could use in English the word
+‘sentiment’ in the meanings which the similarly spelled but functionally
+different French utterance le sentiment has in its native French.
+
+Now this does not simply breed confusions of mere detail that an expert
+translator could perhaps resolve. It does something much more
+perplexing. Every language and every well-knit technical sublanguage
+incorporates certain points of view and certain patterned resistances to
+widely divergent points of view. This is especially so if language is
+not surveyed as a planetary phenomenon, but is as usual taken for
+granted, and the local, parochial species of it used by the individual
+thinker is taken to be its full sum. These resistances not only isolate
+artificially the particular sciences from each other; they also restrain
+the scientific spirit as a whole from taking the next great step in
+development—a step which entails viewpoints unprecedented in science and
+a complete severance from traditions. For certain linguistic patterns
+rigidified in the dialectics of the sciences—often also embedded in the
+matrix of European culture from which those sciences have sprung, and
+long worshipped as pure Reason per se—have been worked to death. Even
+science senses that they are somehow out of focus for observing what may
+be very significant aspects of reality, upon the due observation of
+which all further progress in understanding the universe may hinge.
+
+  
+
+Thus one of the important coming steps for Western knowledge is a
+re-examination of the linguistic backgrounds of its thinking, and for
+that matter of all thinking. My purpose in developing this subject
+before a Theosophical audience is not to confirm or affirm any
+Theosophical doctrines. It is rather that, of all groups of people with
+whom I have come in contact, Theosophical people seem the most capable
+of becoming excited about ideas—new ideas. And my task is to explain an
+idea to all those who, if Western culture survives the present welter of
+barbarism, may be pushed by events to leadership in reorganizing the
+whole human future.
+
+This idea is one too drastic to be penned up in a catch phrase. I would
+rather leave it unnamed. It is the view that a noumenal world—a world of
+hyperspace, of higher dimensions—awaits discovery by all the sciences,
+which it will unite and unify, awaits discovery under its first aspect
+of a realm of PATTERNED RELATIONS, inconceivably manifold and yet
+bearing a recognizable affinity to the rich and systematic organization
+of LANGUAGE, including au fond mathematics and music, which are
+ultimately of the same kindred as language. The idea is older than
+Plato, and at the same time as new as our most revolutionary thinkers.
+It is implied in Whitehead’s world of prehensive aspects, and in
+relativity physics with its four-dimensional continuum and its
+Riemann-Christoffel tensor that sums up the PROPERTIES OF THE WORLD at
+any point-moment; while one of the most thought-provoking of all modern
+presentations, and I think the most original, is the Tertium Organum of
+Ouspensky. All that I have to say on the subject that may be new is of
+the PREMONITION IN LANGUAGE of the unknown, vaster world—that world of
+which the physical is but a surface or skin, and yet which we ARE IN,
+and BELONG TO. For the approach to reality through mathematics, which
+modern knowledge is beginning to make, is merely the approach through
+one special case of this relation to language.
+
+This view implies that what I have called patterns are basic in a really
+cosmic sense, and that patterns form wholes, akin to the Gestalten of
+psychology, which are embraced in larger wholes in continual
+progression. Thus the cosmic picture has a serial or hierarchical
+character, that of a progression of planes or levels. Lacking
+recognition of such serial order, different sciences chop segments, as
+it were, out of the world, segments which perhaps cut across the
+direction of the natural levels, or stop short when, upon reaching a
+major change of level, the phenomena become of quite different type, or
+pass out of the ken of the older observational methods.
+
+But in the science of linguistics, the facts of the linguistic domain
+compel recognition of serial planes, each explicitly given by an order
+of patterning observed. It is as if, looking at a wall covered with fine
+tracery of lacelike design, we found that this tracery served as the
+ground for a bolder pattern, yet still delicate, of tiny flowers, and
+that upon becoming aware of this floral expanse we saw that multitudes
+of gaps in it made another pattern like scrollwork, and that groups of
+scrolls made letters, the letters if followed in a proper sequence made
+words, the words were aligned in columns which listed and classified
+entities, and so on in continual cross-patterning until we found this
+wall to be—a great book of wisdom!
+
+  
+
+First, the plane “below” the strictly linguistic phenomena is a
+physical, acoustic one, phenomena wrought of sound waves; then comes a
+level of patterning in rippling muscles and speech organs, the
+physiological-phonetic plane; then the phonemic plane, patterning that
+makes a systematic set of consonants, vowels, accents, tones, etc. for
+each language; then the morphophonemic plane in which the “phonemes” of
+the previous level appear combined into “morphemes” (words and subwords
+like suffixes, etc.); then the plane of morphology; then that of the
+intricate, largely unconscious patterning that goes by the meaningless
+name of syntax; then on to further planes still, the full import of
+which may some day strike and stagger us.
+
+Speech is the best show man puts on. It is his own “act” on the stage of
+evolution, in which he comes before the cosmic backdrop and really “does
+his stuff.” But we suspect the watching Gods perceive that the order in
+which his amazing set of tricks builds up to a great climax has been
+stolen—from the Universe!
+
+The idea, entirely unfamiliar to the modern world, that nature and
+language are inwardly akin, was for ages well known to various high
+cultures whose historical continuity on the earth has been enormously
+longer than that of Western European culture. In India, one aspect of it
+has been the idea of the MANTRAM and of a MANTRIC ART. On the simplest
+cultural level, a mantram is merely an incantation of primitive magic,
+such as the crudest cultures have. In the high culture it may have a
+different, a very intellectual meaning, dealing with the inner affinity
+of language and the cosmic order. At a still higher level, it becomes
+“Mantra Yoga.” Therein the mantram becomes a manifold of conscious
+patterns, contrived to assist the consciousness into the noumenal
+pattern world—whereupon it is “in the driver’s seat.” It can then set
+the human organism to transmit, control, and amplify a thousandfold
+forces which that organism normally transmits only at unobservably low
+intensities.
+
+Somewhat analogously, the mathematical formula that enables a physicist
+to adjust some coils of wire, tinfoil plates, diaphragms, and other
+quite inert and innocent gadgets into a configuration in which they can
+project music to a far country puts the physicist’s consciousness on to
+a level strange to the untrained man, and makes feasible an adjustment
+of matter to a very strategic configuration, one which makes possible an
+unusual manifestation of force. Other formulas make possible the
+strategic arrangement of magnets and wires in the powerhouse so that,
+when the magnets (or rather the field of subtle forces, in and around
+the magnets) are set in motion, force is manifested in the way we call
+an electric current. We do not think of the designing of a radio station
+or a power plant as a linguistic process, but it is one nonetheless. The
+necessary mathematics is a linguistic apparatus, and, without its
+correct specification of essential patterning, the assembled gadgets
+would be out of proportion and adjustment, and would remain inert. But
+the mathematics used in such a case is a SPECIALIZED formula-language,
+contrived for making available a specialized type of force manifestation
+through metallic bodies only, namely, ELECTRICITY as we today define
+what we call by that name. The mantric formula-language is specialized
+in a different way, in order to make available a different type of force
+manifestation, by repatterning states in the nervous system and
+glands—or again rather in the subtle “electronic” or “etheric” forces in
+and around those physical bodies. Those parts of the organism, until
+such strategic patterning has been effected, are merely “innocent
+gadgets,” as incapable of dynamic power as loose magnets and loose
+wires, but IN THE PROPER PATTERN they are something else again—not to be
+understood from the properties of the unpatterned parts, and able to
+amplify and activate latent forces.
+
+  
+
+In this way I would link the subtle Eastern ideas of the mantric and
+yogic use of language with the configurative or pattern aspect which is
+so basic in language. But this brings me to the most important part of
+my discussion. We must find out more about language! Already we know
+enough about it to know it is not what the great majority of men, lay or
+scientific, think it is. The fact that we talk almost effortlessly,
+unaware of the exceedingly complex mechanism we are using, creates an
+illusion. We think we know how it is done, that there is no mystery; we
+have all the answers. Alas, what wrong answers! It is like the way a
+man’s uncorrected sense impressions give him a picture of the universe
+that is simple, sensible, and satisfying, but very wide of the truth.
+
+Consider how the world appears to any man, however wise and experienced
+in human life, who has never heard one word of what science has
+discovered about the Cosmos. To him the earth is flat; the sun and moon
+are shining objects of small size that pop up daily above an eastern
+rim, move through the upper air, and sink below a western edge;
+obviously they spend the night somewhere underground. The sky is an
+inverted bowl made of some blue material. The stars, tiny and rather
+near objects, seem as if they might be alive, for they “come out” from
+the sky at evening like rabbits or rattlesnakes from their burrows, and
+slip back again at dawn. “Solar system” has no meaning to him, and the
+concept of a “law of gravitation” is quite unintelligible—nay, even
+nonsensical. For him bodies do not fall because of a law of gravitation,
+but rather “because there is nothing to hold them up”—i.e., because he
+cannot imagine their doing anything else. He cannot conceive space
+without an “up” and “down” or even without an “east” and “west” in it.
+For him the blood does not circulate; nor does the heart pump blood; he
+thinks it is a place where love, kindness, and thoughts are kept.
+Cooling is not a removal of heat but an addition of “cold”; leaves are
+green not from the chemical substance chlorophyll in them, but from the
+“greenness” in them. It will be impossible to reason him out of these
+beliefs. He will assert them as plain, hard-headed common sense; which
+means that they satisfy him because they are completely adequate as a
+SYSTEM OF COMMUNICATION between him and his fellow men. That is, they
+are adequate LINGUISTICALLY to his social needs, and will remain so
+until an additional group of needs is felt and is worked out in
+language.
+
+But as this man is in conception of the physical universe, of whose
+scope and order he has not the faintest inkling, so all of us, from rude
+savage to learned scholar, are in conception of language. Only the
+science of linguistics has begun to penetrate a little into this realm,
+its findings still largely unknown to the other disciplines. Natural
+man, whether simpleton or scientist, knows no more of the linguistic
+forces that bear upon him than the savage knows of gravitational forces.
+He supposes that talking is an activity in which he is free and
+untrammeled. He finds it a simple, transparent activity, for which he
+has the necessary explanations. But these explanations turn out to be
+nothing but statements of the NEEDS THAT IMPEL HIM TO COMMUNICATE. They
+are not germane to the process by which he communicates. Thus he will
+say that he thinks something, and supplies words for the thoughts “as
+they come.” But his explanation of why he should have such and such
+thoughts before he came to utter them again turns out to be merely the
+story of his social needs at that moment. It is a dusty answer that
+throws no light. But then he supposes that there need be no light thrown
+on this talking process, since he can manipulate it anyhow quite well
+for his social needs. Thus he implies, wrongly, that thinking is an
+obvious, straightforward activity, the same for all rational beings, of
+which language is the straightforward expression.
+
+ 
+
+Actually, thinking is most mysterious, and by far the greatest light
+upon it that we have is thrown by the study of language. This study
+shows that the forms of a person’s thoughts are controlled by inexorable
+laws of pattern of which he is unconscious. These patterns are the
+unperceived intricate systematizations of his own language—shown readily
+enough by a candid comparison and contrast with other languages,
+especially those of a different linguistic family. His thinking itself
+is in a language—in English, in Sanskrit, in Chinese.¹ And every
+language is a vast pattern-system, different from others, in which are
+culturally ordained the forms and categories by which the personality
+not only communicates, but also analyzes nature, notices or neglects
+types of relationship and phenomena, channels his reasoning, and builds
+the house of his consciousness.
+
+This doctrine is new to Western science, but it stands on unimpeachable
+evidence. Moreover, it is known, or something like it is known, to the
+philosophies of India and to modern Theosophy. This is masked by the
+fact that the philosophical Sanskrit terms do not supply the exact
+equivalent of my term “language” in the broad sense of the linguistic
+order. The linguistic order embraces all symbolism, all symbolic
+processes, all processes of reference and of logic. Terms like N[LATIN
+SMALL LETTER A WITH MACRON]ma refer rather to subgrades of this
+order—the lexical level, the phonetic level. The nearest equivalent is
+probably Manas, to which our vague word ‘mind’ hardly does justice.
+Manas in a broad sense is a major hierarchical grade in the
+world-structure—a “manasic plane” as it is indeed explicitly called.
+Here again “mental plane” is apt to be misleading to an English-speaking
+person. English “mental” is an unfortunate word, a word whose function
+in our culture is often only to stand in lieu of an intelligent
+explanation, and which connotes rather a foggy limbo than a cosmic
+structural order characterized by patterning. Sometimes Manas is used to
+mean, however, simply the personal psyche; this according to Mr. Fritz
+Kunz is the case in the famous saying of The Voice of the Silence: “The
+mind is the great slayer of the real.”
+
+It is said that in the plane of Manas there are two great levels, called
+the R[LATIN SMALL LETTER U WITH MACRON]pa and Ar[LATIN SMALL LETTER U
+WITH MACRON]pa levels. The lower is the realm of “name and form,”
+N[LATIN SMALL LETTER A WITH MACRON]ma and R[LATIN SMALL LETTER U WITH
+MACRON]pa. Here “form” means organization in space (“our”
+three-dimensional space). This is far from being coextensive with
+pattern in a universal sense. And N[LATIN SMALL LETTER A WITH MACRON]ma,
+‘name,’ is not language or the linguistic order, but only one level in
+it, the level of the process of “lexation” or of giving words (names) to
+parts of the whole manifold of experience, parts which are thereby made
+to stand out in a semi-fictitious isolation. Thus a word like ‘sky,’
+which in English can be treated like ‘board’ (the sky, a sky, skies,
+some skies, piece of sky, etc.), leads us to think of a mere optical
+apparition in ways appropriate only to relatively isolated solid bodies.
+‘Hill’ and ‘swamp’ persuade us to regard local variations in altitude or
+soil composition of the ground as distinct THINGS almost like tables and
+chairs. Each language performs this artificial chopping up of the
+continuous spread and flow of existence in a different way. Words and
+speech are not the same thing. As we shall see, the patterns of sentence
+structure that guide words are more important than the words.
+
+Thus the level of R[LATIN SMALL LETTER U WITH MACRON]pa and N[LATIN
+SMALL LETTER A WITH MACRON]ma—shape-segmentation and vocabulary—is part
+of the linguistic order, but a somewhat rudimentary and not
+self-sufficient part. It depends upon a higher level of organization,
+the level at which its COMBINATORY SCHEME appears. This is the Ar[LATIN
+SMALL LETTER U WITH MACRON]pa level—the pattern world par excellence.
+Ar[LATIN SMALL LETTER U WITH MACRON]pa, ‘formless,’ does not mean
+without linguistic form or organization, but without reference to
+spatial, visual shape, marking out in space, which as we saw with ‘hill’
+and ‘swamp’ is an important feature of reference on the lexical level.
+Ar[LATIN SMALL LETTER U WITH MACRON]pa is a realm of patterns that can
+be “actualized” in space and time in the materials of lower planes, but
+are themselves indifferent to space and time. Such patterns are not like
+the meanings of words, but they are somewhat like the way meaning
+appears in sentences. They are not like individual sentences but like
+SCHEMES of sentences and designs of sentence structure. Our personal
+conscious “minds” can understand such patterns in a limited way by using
+mathematical or grammatical FORMULAS into which words, values,
+quantities, etc., can be substituted. A rather simple instance will be
+given presently.
+
+It is within the possibilities of the “culture of consciousness” that
+the Ar[LATIN SMALL LETTER U WITH MACRON]pa level of the “mental” plane
+may be contacted directly in an expansion of consciousness. In
+Ouspensky’s book, A New Model of the Universe, there are arresting
+glimpses of extraordinary mental states which that philosopher attained
+—adumbrations only, for these completely “nonlexical” vistas cannot be
+well put into words. He speaks of realms of “moving hieroglyphs”
+composed entirely of “mathematical relations,” and of the expansion and
+ramification of such a “hieroglyph” till it covered a whole aspect of
+the universe. Ouspensky’s mathematical predilections and his study of
+such things as non-Euclidean geometries, hyperspace, and the relation
+between time and consciousness may have led him to stress mathematical
+analogies. Mathematics is a special kind of language, expanded out of
+special sentences containing the numeral words, 1, 2, 3, 4, . . . x, y,
+z, etc. But every other type of sentence of every language is also the
+potential nucleus of a far-reaching system. To very few is it granted to
+attain such consciousness as a durable state; yet many mathematicians
+and scientific linguists must have had the experience of “seeing,” in
+one fugitive flash, a whole system of relationships never before
+suspected of forming a unity. The harmony and scientific beauty in the
+whole vast system momently overwhelms one in a flood of aesthetic
+delight. To “see,” for instance, how all the English elementary sounds
+(“phonemes”) and their groupings are coordinated by an intricate yet
+systematic law into all possible forms of English monosyllabic words,
+meaningful or nonsensical, existent or still unthought of, excluding all
+other forms as inevitably as the chemical formula of a solution
+precludes all but certain shapes of crystals from emerging—this might be
+a distinct experience.
+
+ 
+
+To show the full formula for this law or pattern—a so-called
+“morphophonemic structural formula”—I should need a large piece of
+paper. I can however set up a condensed form of it as²
+
+O,C − ng,C₁C₂,C₃C₄, etc. . . .
+
+s ± C_(m)C_(n) + V + (V₁) O, ± (r, w, y);
+
+C − h, C′₁C′₂, C′₃C′₄, etc. . . .
+
+C′_(m)C′_(n) ± (t/d, s/z, st/zd).
+
+This formula requires that the English words be symbolized or “spelt”
+according to standard phonemic spelling of the type described by Leonard
+Bloomfield in his book Language. In this system the diphthongal vowels
+must be represented by a pure vowel (V) followed by w or y from the term
+(r, w, y), so that ‘note’ is symbolized nowt (or newt, depending on the
+dialect), ‘date’ is deyt, ‘ice’ is ays. That this is correct analysis on
+the physical or acoustic level is shown by the fact that, if we reverse
+a phonographic recording of ‘ice’ we get a sound like sya, and, if we
+say sya properly into the phonograph and reverse it, the machine will
+say ‘ice.’ For English this analysis happens to be exact also on the
+structural level two stages above the acoustic one, for the ys of ays
+(ice) is seen to be on the same line of pattern as the ls of els (else),
+the ns of sins (since), the ts of hats, etc.—it is part of a general
+architectonic scheme of having two consonants together.
+
+Now, by reading the commas in the formula as “or,” we see that the
+formula is equivalent to a large series of subsidiary formulas. One of
+the simplest of these is O + V + C – h (see how it is contained in the
+big formula) which means that the word can begin without a consonant and
+with any one vowel, followed by any one consonant except h—giving us
+words like ‘at, or, if.’ Changing the first term to the next symbol in
+the big formula, we get C – ng + V + C – h, which means that the word,
+ending as before, can begin with any single English consonant except the
+ng sound as in ‘sing’ (this sound ought to be written with ONE  symbol,
+but, in deference to the printer, I shall employ the usual digraph).
+This pattern gives us the long array of words like ‘hat, bed, dog, man,’
+and permits us to coin new ones like ‘tig, nem, zib’—but not, be it
+noted, ngib or zih.
+
+So far the patterns are simple. From now on they become intricate! The
+formula in this abbreviated form needs along with it a series of lists
+of assorted consonants, like so many laundry lists, each list being
+represented by one of the symbols C₁, C₂, etc. The formula C₁C₂ means
+that you can begin the word with any consonant out of list C₁ and follow
+it with any from list C₂, which happens to contain only r and l. Since
+C₁ contains p, b, f, for instance, we can have words like ‘pray, play,
+brew, blew, free, flee,’ and the nonsensical ‘frig, blosh,’ etc. But
+suppose we want a word beginning with sr, zr, tl, or dl. We go to our
+list C₁, but to our surprise there is no s, z, t, or d, on it. We appear
+to be stumped! We pick up our other lists, but are no better off. There
+is no way of combining our lists according to the formula to get these
+initial combinations. Evidently there just aren’t any such English
+words; and what is more, any budding Lewis Carrolls or Edward Lears will
+somehow mysteriously refuse to coin such words. This shows that
+word-coining is no act of unfettered imagination, even in the wildest
+flights of nonsense, but a strict use of already patterned materials. If
+asked to invent forms not already prefigured in the patternment of his
+language, the speaker is negative in the same manner as if asked to make
+fried eggs without the eggs!
+
+ 
+
+Thus the formula sums up every combination that English one-syllable
+words or wordlike forms have, and bars out every one they do not and
+cannot have. Contained in it is the mpst of ‘glimpsed,’ the ksths of
+‘sixths,’ the ftht of ‘he fifthed it,’ the nchst of the queer but
+possible ‘thou munchst it greedily,’ and multitudes of other “rugged
+sounds which to our mouths grow sleek,” but which would have “made
+Quintilian stare and gasp.” At the same time the formula bars out
+numerous smooth but to us difficult (because unpatterned) combinations,
+like litk, fpat, nwelng, dzogb, and a myriad more, all possible and easy
+to some languages, but not to English.
+
+It will be evident that implicit in our one-syllable words is an
+undreamed-of complexity of organization, and that the old gag, “say it
+in words of one syllable,” as a metaphor of simplicity, is from the
+standpoint of a more penetrative insight the most arrant nonsense! Yet
+to such insight this old cliché bears unconscious witness to the truth
+that those who easily and fluently use the intricate systems of language
+are utterly blind and deaf to the very existence of those systems, until
+the latter have been, not without some difficulty, pointed out.
+
+And the adage “as above, so below” applies strongly here. As below, on
+the phonological plane of language, significant behavior is ruled by
+pattern from outside the focus of personal consciousness, so is it on
+the higher planes of language that we call expression of the thought. As
+we shall see in Part II, thinking also follows a network of tracks laid
+down in the given language, an organization which may concentrate
+systematically upon certain phases of reality, certain aspects of
+intelligence, and may systematically discard others featured by other
+languages. The individual is utterly unaware of this organization and is
+constrained completely within its unbreakable bonds.
+
+II
+
+We saw in Part I that, in linguistic and mental phenomena, significant
+behavior (or what is the same, both behavior and significance, so far as
+interlinked) are ruled by a specific system or organization, a
+“geometry” of form principles characteristic of each language. This
+organization is imposed from outside the narrow circle of the personal
+consciousness, making of that consciousness a mere puppet whose
+linguistic maneuverings are held in unsensed and unbreakable bonds of
+pattern. It is as if the personal mind, which selects words but is
+largely oblivious to pattern, were in the grip of a higher, far more
+intellectual mind which has very little notion of houses and beds and
+soup kettles, but can systematize and mathematize on a scale and scope
+that no mathematician of the schools ever remotely approached.
+
+And now appears a great fact of human brotherhood—that human beings are
+all alike in this respect. So far as we can judge from the systematics
+of language, the higher mind or “unconscious” of a Papuan headhunter can
+mathematize quite as well as that of Einstein; and conversely, scientist
+and yokel, scholar and tribesman, all use their personal consciousness
+in the same dim-witted sort of way, and get into similar kinds of
+logical impasse. They are as unaware of the beautiful and inexorable
+systems that control them as a cowherd is of cosmic rays. Their
+understanding of the processes involved in their talk and ratiocination
+is a purely superficial, pragmatic one, comparable to little Sue Smith’s
+understanding of the radio, which she turns on in such a way as to evoke
+a bedtime story. Men even show a strong disposition to make a virtue of
+this ignorance, to condemn efforts at a better understanding of the
+mind’s workings as “impractical,” or as “theories” if the condemner
+happens to be a yokel, or as “metaphysics” or “mysticism” or
+“epistemology” if he happens to be wearing the traditionally correct
+turnout of a scientist. Western culture in particular reserves for the
+investigators of language its most grudging meed of recognition and its
+meagerest rewards, even though it has to counter the natural human
+tendency to find language, mysterious as it is, the most fascinating of
+subjects—one about which men love to talk and speculate
+unscientifically, to discuss endlessly the meaning of words, or the odd
+speech of the man from Boston as it appears to the man of Oshkosh, or
+vice versa.
+
+The higher mind would seem to be able to do any kind of purely
+intellectual feat, but not to “be conscious” on the personal level. That
+is, it does not focus on practical affairs and on the personal ego in
+its personal, immediate environment. Certain dreams and exceptional
+mental states may lead us to suppose it to be conscious on its own
+plane, and occasionally its consciousness may “come through” to the
+personality; but, barring techniques like Yoga, it ordinarily makes no
+nexus with the personal consciousness. We could call it a higher ego,
+bearing in mind a distinctive trait, appearing through every language,
+and its one striking resemblance to the personal self; namely, that it
+organizes its systems around a nucleus of three or more pronominal
+“person” categories, centered upon one we call the first-person
+singular. It can function in any linguistic system—a child can learn any
+language with the same readiness, from Chinese, with its separately
+toned and stressed monosyllables, to Nootka of Vancouver Island, with
+its frequent one-word sentences such as mamamamamahln’iqk’okmaqama—‘they
+each did so because of their characteristic of resembling white
+people.’³
+
+ 
+
+Because of the systematic, configurative nature of higher mind, the
+“patternment” aspect of language always overrides and controls the
+“lexation” (N[LATIN SMALL LETTER A WITH MACRON]ma) or name-giving
+aspect. Hence the meanings of specific words are less important than we
+fondly fancy. Sentences, not words, are the essence of speech, just as
+equations and functions, and not bare numbers, are the real meat of
+mathematics. We are all mistaken in our common belief that any word has
+an “exact meaning.” We have seen that the higher mind deals in symbols
+that have no fixed reference to anything, but are like blank checks, to
+be filled in as required, that stand for “any value” of a given
+variable, like the C’s and V’s in the formula cited in Part I, or the x,
+y, z of algebra. There is a queer Western notion that the ancients who
+invented algebra made a great discovery, though the human unconscious
+has been doing the same sort of thing for eons! For the same reason the
+ancient Mayas or the ancient Hindus, in their staggering cycles upon
+cycles of astronomical numbers, were simply being human. We should not
+however make the mistake of thinking that words, even as used by the
+lower personal mind, represent the opposite pole from these variable
+symbols, that a word DOES  have an exact meaning, stands for a given
+thing, is only ONE value of a variable.
+
+Even the lower mind has caught something of the algebraic nature of
+language; so that words are in between the variable symbols of pure
+patternment (Ar[LATIN SMALL LETTER U WITH MACRON]pa) and true fixed
+quantities. That part of meaning which is in words, and which we may
+call “reference,” is only relatively fixed. Reference of words is at the
+mercy of the sentences and grammatical patterns in which they occur. And
+it is surprising to what a minimal amount this element of reference may
+be reduced. The sentence “I went all the way down there just in order to
+see Jack” contains only one fixed concrete reference: namely, “Jack.”
+The rest is pattern attached to nothing specifically; even “see”
+obviously does not mean what one might suppose, namely, to receive a
+visual image.
+
+Or, again, in word reference we deal with size by breaking it into size
+classes—small, medium, large, immense, etc.—but size objectively is not
+divided into classes, but is a pure continuum of relativity. Yet we
+think of size constantly as a set of classes because language has
+segmented and named the experience in this way. Number words may refer
+not to number as counted, but to number classes with elastic boundaries.
+Thus English ‘few’ adjusts its range according to the size, importance
+or rarity of the reference. A ‘few’ kings, battleships, or diamonds
+might be only three or four, a ‘few’ peas, raindrops, or tea leaves
+might be thirty or forty.
+
+You may say, “Yes, of course this is true of words like large, small,
+and the like; they are obviously relative terms, but words like dog,
+tree, house, are different—each names a specific thing.” Not so; these
+terms are in the same boat as ‘large’ and ‘small.’ The word ‘Fido’ said
+by a certain person at a certain time may refer to a specific thing, but
+the word ‘dog’ refers to a class with elastic limits. The limits of such
+classes are different in different languages. You might think that
+‘tree’ means the same thing, everywhere and to everybody. Not at all.
+The Polish word that means ‘tree’ also includes the meaning ‘wood.’ The
+context or sentence pattern determines what sort of object the Polish
+word (or any word, in any language) refers to. In Hopi, an American
+Indian language of Arizona, the word for ‘dog,’ pohko, includes pet
+animal or domestic animal of any kind. Thus ‘pet eagle’ in Hopi is
+literally ‘eagle-dog’; and having thus fixed the context a Hopi might
+next refer to the same eagle as so-and-so’s pohko.
+
+ 
+
+But lest this be dismissed as the vagary of a “primitive” language (no
+language is “primitive”), let us take another peep at our own beloved
+English. Take the word “hand.” In ‘his hand’ it refers to a location on
+the human body, in ‘hour hand’ to a strikingly dissimilar object, in
+‘all hands on deck’ to another reference, in ‘a good hand at gardening’
+to another, in ‘he held a good hand (at cards)’ to another, whereas in
+‘he got the upper hand’ it refers to nothing but is dissolved into a
+pattern of orientation. Or consider the word ‘bar’ in the phrases: ‘iron
+bar, bar to progress, he should be behind bars, studied for the bar, let
+down all the bars, bar of music, sand bar, candy bar, mosquito bar, bar
+sinister, bar none, ordered drinks at the bar’!
+
+But, you may say, these are popular idioms, not scientific and logical
+use of language. Oh, indeed? “Electrical” is supposed to be a scientific
+word. Do you know what its referent is? Do you know that the
+“electrical” in “electrical apparatus” is not the same “electrical” as
+the one in “electrical expert”? In the first it refers to a current of
+electricity in the apparatus, but in the second it does not refer to a
+current of electricity in the expert. When a word like “group” can refer
+either to a sequence of phases in time or a pile of articles on the
+floor, its element of reference is minor. Referents of scientific words
+are often conveniently vague, markedly under the sway of the patterns in
+which they occur. It is very suggestive that this trait, so far from
+being a hallmark of Babbittry, is most marked in intellectual talk,
+and—mirabile dictu—in the language of poetry and love! And this needs
+must be so, for science, poetry, and love are alike in being “flights”
+above and away from the slave-world of literal reference and humdrum
+prosaic details, attempts to widen the petty narrowness of the personal
+self’s outlook, liftings toward Ar[LATIN SMALL LETTER U WITH MACRON]pa,
+toward that world of infinite harmony, sympathy and order, of unchanging
+truths and eternal things. And while all words are pitiful enough in
+their mere “letter that killeth,” it is certain that scientific terms
+like ‘force, average, sex, allergic, biological’ are not less pitiful,
+and in their own way no more certain in reference than ‘sweet, gorgeous,
+rapture, enchantment, heart and soul, star dust.’ You have probably
+heard of ‘star dust’—what is it? Is it a multitude of stars, a sparkling
+powder, the soil of the planet Mars, the Milky Way, a state of
+daydreaming, poetic fancy, pyrophoric iron, a spiral nebula, a suburb of
+Pittsburgh, or a popular song? You don’t know, and neither does anybody.
+The word—for it is one LEXATION, not two—has no reference of its own.
+Some words are like that.⁴ As we have seen, reference is the lesser part
+of meaning, patternment the greater. Science, the quest for truth, is a
+sort of divine madness like love. And music—is it not in the same
+category? Music is a quasilanguage based entirely on patternment,
+without having developed lexation.
+
+ 
+
+Sometimes the sway of pattern over reference produces amusing results,
+when a pattern engenders meanings utterly extraneous to the original
+lexation reference. The lower mind is thrown into bewilderment, cannot
+grasp that compelling formulas are at work upon it, and resorts wildly
+and with glad relief to its favorite obvious type of explanation, even
+“seeing things” and “hearing things” that help out such explanation. The
+word ‘asparagus,’ under the stress of purely phonetic English patterns
+of the type illustrated in the formula cited in Part I, rearranges to
+‘sparagras’; and then since ‘sparrer’ is a dialectical form of
+‘sparrow,’ we find ‘sparrow grass’ and then religiously accepted
+accounts of the relation of sparrows to this ‘grass.’ ‘Cole slaw’ came
+from German Kohlsalat, ‘cabbage salad,’ but the stress of the pattern
+tending to revamp it into ‘cold slaw’ has in some regions produced a new
+lexation ‘slaw,’ and a new dish ‘hot slaw’! Children of course are
+constantly repatterning, but the pressure of adult example eventually
+brings their language back to the norm; they learn that Mississippi is
+not Mrs. Sippy, and the equator is not a menagerie lion but an imaginary
+line. Sometimes the adult community does not possess the special
+knowledge needed for correction. In parts of New England, Persian cats
+of a certain type are called Coon cats, and this name has bred the
+notion that they are a hybrid between the cat and the ‘coon’ (raccoon).
+This is often firmly believed by persons ignorant of biology, since the
+stress of the linguistic pattern (animal-name 1 modifying animal-name 2)
+causes them to “see” (or as the psychologists say “project”) objective
+raccoon quality as located on the body of the cat—they point to its
+bushy tail, long hair, and so on. I knew of an actual case, a woman who
+owned a fine “Coon cat,” and who would protest to her friend: “Why, just
+LOOK at him—his tail, his funny eyes—can’t you see it?” “Don’t be
+silly!” quoth her more sophisticated friend. “Think of your natural
+history! Coons cannot breed with cats; they belong to a different
+family.” But the lady was so sure that she called on an eminent
+zoologist to confirm her. He is said to have remarked, with unwavering
+diplomacy, “If you like to think so, just think so.” “He was even more
+cruel than you!” she snapped at her friend, and remained convinced that
+her pet was the outcome of an encounter between a philandering raccoon
+and a wayward cat! In just such ways on a vaster scale is woven the web
+of M[LATIN SMALL LETTER A WITH MACRON]y[LATIN SMALL LETTER A WITH
+MACRON], illusion begotten of intrenched selfhood. I am told that Coon
+cats received their name from one Captain Coon, who brought the first of
+these Persian cats to the State of Maine in his ship.
+
+In more subtle matters we all, unknowingly, project the linguistic
+relationships of a particular language upon the universe, and SEE them
+there, as the good lady SAW a linguistic relation (Coon = raccoon) made
+visible in her cat. We say ‘see that wave’—the same pattern as ‘see that
+house.’ But without the projection of language no one ever saw a single
+wave. We see a surface in everchanging undulating motions. Some
+languages cannot say ‘a wave’; they are closer to reality in this
+respect. Hopi say walalata, ‘plural waving occurs,’ and can call
+attention to one place in the waving just as we can. But, since actually
+a wave cannot exist by itself, the form that corresponds to our
+singular, wala, is not the equivalent of English ‘a wave,’ but means ‘a
+slosh occurs,’ as when a vessel of liquid is suddenly jarred.
+
+English pattern treats ‘I hold it’ exactly like ‘I strike it,’ ‘I tear
+it,’ and myriads of other propositions that refer to actions effecting
+changes in matter. Yet ‘hold’ in plain fact is no action, but a state of
+relative positions. But we think of it, even see it, as an action,
+because language sets up the proposition in the same way as it sets up a
+much more common class of propositions dealing with movements and
+changes. We ASCRIBE action to what we call “hold” because the formula,
+substantive + verb = actor + his action, is fundamental in our
+sentences. Thus we are compelled in many cases to read into nature
+fictitious acting-entities simply because our sentence patterns require
+our verbs, when not imperative, to have substantives before them. We are
+obliged to say ‘it flashed’ or ‘a light flashed,’ setting up an actor
+IT, or A LIGHT, to perform what we call an action, FLASH. But the
+flashing and the light are the same; there is no thing which does
+something, and no doing. Hopi says only rehpi. Hopi can have verbs
+without subjects, and this gives to that language power as a logical
+system for understanding certain aspects of the cosmos. Scientific
+language, being founded on western Indo-European and not on Hopi, does
+as we do, sees sometimes actions and forces where there may be only
+states. For do you not conceive it possible that scientists as well as
+ladies with cats all unknowingly project the linguistic patterns of a
+particular type of language upon the universe, and SEE them there,
+rendered visible on the very face of nature? A change in language can
+transform our appreciation of the Cosmos.
+
+ 
+
+All this is typical of the way the lower personal mind, caught in a
+vaster world inscrutable to its methods, uses its strange gift of
+language to weave the web of M[LATIN SMALL LETTER A WITH MACRON]y[LATIN
+SMALL LETTER A WITH MACRON] or illusion, to make a provisional analysis
+of reality and then regard it as final. Western culture has gone
+farthest here, farthest in determined thoroughness of provisional
+analysis, and farthest in determination to regard it as final. The
+commitment to illusion has been sealed in western Indo-European
+language, and the road out of illusion for the West lies through a wider
+understanding of language than western Indo-European alone can give.
+This is the “Mantra Yoga” of the Western consciousness, the next great
+step, which it is now ready to take. It is probably the most suitable
+way for Western man to begin that “culture of consciousness” which will
+lead him to a great illumination.
+
+Again, through this sort of understanding of language is achieved a
+great phase of human brotherhood. For the scientific understanding of
+very diverse languages—not necessarily to speak them, but to analyze
+their structure—is a lesson in brotherhood which is brotherhood in the
+universal human principle—the brotherhood of the “Sons of Manas.” It
+causes us to transcend the boundaries of local cultures, nationalities,
+physical peculiarities dubbed “race,” and to find that in their
+linguistic systems, though these systems differ widely, yet in the
+order, harmony, and beauty of the systems, and in their respective
+subtleties and penetrating analysis of reality, all men are equal. This
+fact is independent of the state of evolution as regards material
+culture, savagery, civilization, moral or ethical development, etc., a
+thing most surprising to the cultured European, a thing shocking to him,
+indeed a bitter pill! But it is true; the crudest savage may
+unconsciously manipulate with effortless ease a linguistic system so
+intricate, manifoldly systematized, and intellectually difficult that it
+requires the lifetime study of our greatest scholars to describe its
+workings. The manasic plane and the “higher ego” have been given to all,
+and the evolution of human language was complete, and spread in its
+proud completeness up and down the earth, in a time far anterior to the
+oldest ruin that molders in the soil today.
+
+Linguistic knowledge entails understanding many different beautiful
+systems of logical analysis. Through it, the world as seen from the
+diverse viewpoints of other social groups, that we have thought of as
+alien, becomes intelligible in new terms. Alienness turns into a new and
+often clarifying way of looking at things. Consider Japanese. The view
+of the Japanese that we get outwardly from their governmental policy
+seems anything but conducive to brotherhood. But to approach the
+Japanese through an aesthetic and scientific appreciation of their
+language transforms the picture. that is to realize kinship on the
+cosmopolitan levels of the spirit. One lovely pattern of this language
+is that its sentence may have two differently ranked subjects. We are
+familiar with the idea of two ranks of OBJECTS for our verbs, an
+immediate and a more remote goal, or direct and indirect object as they
+are commonly called. We have probably never thought of the possibilities
+of a similar idea applied to SUBJECTS. This idea is put to work in
+Japanese. The two subjects—call them subject 1 and subject 2—are marked
+by the particles wa and ga, and a diagram might show them with a line
+drawn from each subject word, the two lines converging upon the same
+predication, whereas our English sentence could have only one subject
+with one line to the predicate. An example would be the way of saying
+“Japan is mountainous”: “Japan₁ mountain₂ (are) many”;⁵ or: “Japan, in
+regard to its mountains are many.” “John is long-legged” would be “John₁
+leg₂ (are) long.” This pattern gives great conciseness at the same time
+with great precision. Instead of the vagueness of our “mountainous,” the
+Japanese can, with equal compactness of formulation, distinguish
+“mountainous” meaning that mountains not always high are abundant, from
+“mountainous” meaning that mountains not abundant relative to the whole
+area are high. We see how the logical uses of this pattern would give to
+Japanese great power in concise scientific operations with ideas, could
+this power be properly developed.
+
+ 
+
+The moment we begin scientific, unbiased RESEARCH into language we find,
+in people and cultures with the most unprepossessing exteriors,
+beautiful, effective, and scientific devices of expression unknown to
+western Indo-European tongues or mentalities. The Algonkian languages
+are spoken by very simple people, hunting and fishing Indians, but they
+are marvels of analysis and synthesis. One piece of grammatical finesse
+peculiar to them is called the obviative. This means that their pronouns
+have four persons instead of three, or from our standpoint two third
+persons. This aids in compact description of complicated situations, for
+which we should have to resort to cumbersome phraseology. Let us
+symbolize their third and fourth persons by attaching the numerals 3 and
+4 to our written words. The Algonkians might tell the story of William
+Tell like this: “William Tell called his₃ son and told him₄ to bring
+him₃ his₃ bow and arrow, which₄ he₄ then brought to him₃. He₃ had him₄
+stand still and placed an apple on his₄ head, then took his₃ bow and
+arrow and told him₄ not to fear. Then he₃ shot it₄ off his₄ head without
+hurting him₄.” Such a device would greatly help in specifying our
+complex legal situations, getting rid of “the party of the first part”
+and “the aforesaid John Doe shall, on his part, etc.”
+
+Chichewa, a language related to Zulu, spoken by a tribe of unlettered
+Negroes in East Africa, has two past tenses, one for past events with
+present result or influence, one for past without present influence. A
+past as recorded in external situations is distinguished from a past
+recorded only in the psyche or memory; a new view of TIME opens before
+us. Let 1 represent the former and 2 the latter; then ponder these
+Chichewa nuances: I came₁ here; I went₂ there; he was₂ sick; he died₁;
+Christ died₂ on the cross; God created₁ the world. “I ate₁” means I am
+not hungry; “I ate₂” means I am hungry. If you were offered food and
+said: “No, I have eaten₁” it would be all right, but if you used the
+other past tense you would be uttering an insult. A Theosophical speaker
+of Chichewa might use tense 1 in speaking of the past involution of
+Monads, which has enabled the world to be in its present state, while he
+might use tense 2 for, say, long-past planetary systems now
+disintegrated and their evolution done. If he were talking about
+Reincarnation, he would use 2 for events of a past incarnation simply in
+their own frame of reference, but he would use 1 in referring to or
+implying their “Karma.” It may be that these primitive folk are equipped
+with a language which, if they were to become philosophers or
+mathematicians, could make them our foremost thinkers upon TIME.
+
+Or take the Coeur d’Alene language, spoken by the small Indian tribe of
+that name in Idaho. Instead of our simple concept of “cause,” founded on
+our simple “makes it (him) do so,” the Coeur d’Alene grammar requires
+its speakers to discriminate (which of course they do automatically)
+among three causal processes, denoted by three causal verb-forms: (1)
+growth, or maturation of an inherent cause, (2) addition or accretion
+from without, (3) secondary addition, i.e., of something affected by
+process 2. Thus, to say “it has been made sweet” they would use form 1
+for a plum sweetened by ripening, form 2 for a cup of coffee sweetened
+by dissolving sugar in it, and form 3 for griddle cakes sweetened by
+syrup made by dissolving sugar. If, given a more sophisticated culture,
+their thinkers erected these now unconscious discriminations into a
+theory of triadic causality, fitted to scientific observations, they
+might thereby produce a valuable intellectual tool for science. WE could
+imitate artificially such a theory, perhaps, but we could NOT apply it,
+for WE are not habituated to making such distinctions with effortless
+ease in daily life. Concepts have a basis in daily talk before
+scientific workers will attempt to use them in the laboratory. Even
+relativity has such a basis in the western Indo-European languages (and
+others)—the fact that these languages use many space words and patterns
+for dealing with time.
+
+ 
+
+Language has further significance in other psychological factors on a
+different level from modern linguistic approach but of importance in
+music, poetry, literary style, and Eastern mantram. What I have been
+speaking of thus far concerns the plane of Manas in the more
+philosophical sense, the “higher unconscious” or the “soul” (in the
+sense as used by Jung). What I am about to speak of concerns the
+“psyche” (in the sense as used by Freud), the “lower” unconscious, the
+Manas which is especially the “slayer of the real,” the plane of K[LATIN
+SMALL LETTER A WITH MACRON]ma, of emotion or rather feeling (Gefühl). In
+a serial relation containing the levels of N[LATIN SMALL LETTER A WITH
+MACRON]ma-R[LATIN SMALL LETTER U WITH MACRON]pa and Ar[LATIN SMALL
+LETTER U WITH MACRON]pa, this level of the unconscious psyche is on the
+other side of N[LATIN SMALL LETTER A WITH MACRON]ma-R[LATIN SMALL LETTER
+U WITH MACRON]pa from Ar[LATIN SMALL LETTER U WITH MACRON]pa, and
+N[LATIN SMALL LETTER A WITH MACRON]ma or lexation mediates in a sense
+between these extremes. Hence the psyche is the psychological
+correlative of the phonemic level in language, related to it not
+structurally as is N[LATIN SMALL LETTER A WITH MACRON]ma or lexation,
+not by using it as building blocks, as word-making uses the phonemes
+(vowels, consonants, accents, etc.), but related as the feeling-content
+of the phonemes. There is a universal, Gefühl-type way of linking
+experiences, which shows up in laboratory experiments and appears to be
+independent of language—basically alike for all persons.
+
+Without a serial or hierarchical order in the universe it would have to
+be said that these psychological experiments and linguistic experiments
+contradict each other. In the psychological experiments human subjects
+seem to associate the experiences of bright, cold, sharp, hard, high,
+light (in weight), quick, high-pitched, narrow, and so on in a long
+series, with each other; and conversely the experiences of dark, warm,
+yielding, soft, blunt, low, heavy, slow, low-pitched, wide, etc., in
+another long series. This occurs whether the words for such associated
+experiences resemble or not, but the ordinary person is likely to NOTICE
+a relation to words only when it is a relation of likeness to such a
+series in the vowels or consonants of the words, and when it is a
+relation of contrast or conflict it is passed unnoticed. The noticing of
+the relation of likeness is an element in sensitiveness to literary
+style or to what is often rather inaccurately called the “music” of
+words. The noticing of the relation of conflict is much more difficult,
+much more a freeing oneself from illusion, and though quite “unpoetical”
+it is really a movement toward Higher Manas, toward a higher symmetry
+than that of physical sound.
+
+What is significant for our thesis is that language, through lexation,
+has made the speaker more acutely conscious of certain dim psychic
+sensations; it has actually produced awareness on lower planes than its
+own: a power of the nature of magic. There is a yogic mastery in the
+power of language to remain independent of lower-psyche facts, to
+override them, now point them up, now toss them out of the picture, to
+mold the nuances of words to its own rule, whether the psychic ring of
+the sounds fits or not. If the sounds fit, the psychic quality of the
+sounds is increased, and this can be noticed by the layman. If the
+sounds do not fit, the psychic quality changes to accord with the
+linguistic meaning, no matter how incongruous with the sounds, and this
+is not noticed by the layman.
+
+Thus the vowels a (as in ‘father’), o, u, are associated in the
+laboratory tests with the dark-warm-soft series, and e (English a in
+‘date’), i (English e in ‘be’) with the bright-cold-sharp set.
+Consonants also are associated about as one might expect from ordinary
+naïve feeling in the matter. What happens is that, when a word has an
+acoustic similarity to its own meaning, we can notice it, as in English
+‘soft’ and German sanft. But, when the opposite occurs, nobody notices
+it. Thus German zart (tsart) ‘tender’ has such a “sharp” sound, in spite
+of its a, that to a person who does not know German it calls up the
+bright-sharp meanings, but to a German it “sounds” SOFT—and probably
+warm, dark, etc., also. An even better case is DEEP. Its acoustic
+association should be like that of PEEP or of such nonsense words as
+VEEP, TREEP, QUEEP, etc., i.e., as bright, sharp, quick. But its
+linguistic meaning in the English language happens to refer to the wrong
+sort of experience for such an association. This fact completely
+overrides its objective sound, causing it to “sound” subjectively quite
+as dark, warm, heavy, soft, etc., as though its sounds really were of
+that type. It takes illusion-freeing, if unpoetic, linguistic analysis
+to discover this clash between two “musics,” one more mental and one
+more psychic, in the word. Manas is able to disregard properties of the
+psychic plane, just as it can disregard whether an equational x refers
+to automobiles or sheep. It can project parts of its own patterns upon
+experience in such a way that they distort, and promote illusion, or
+again in such a way that they illuminate, and build up scientific
+theories and tools of research.
+
+ 
+
+Yoga is defined by Patanjali as the complete cessation of the activity
+of the versatile psychic nature.⁶ We have seen that this activity
+consists largely of personal-social reactions along unperceived tracks
+of pattern laid down from the Ar[LATIN SMALL LETTER U WITH MACRON]pa
+level functioning above or behind the focus of personal consciousness.
+The reason why the Ar[LATIN SMALL LETTER U WITH MACRON]pa level is
+beyond the ken of the consciousness is not because it is essentially
+different (as if it were, e.g., a passive network) but because the
+personality does focus, from evolution and habit, upon the aforesaid
+versatile activity. The stilling of this activity and the coming to rest
+of this focus, though difficult and requiring prolonged training, is by
+reliable accounts from widely diverse sources, both Eastern and Western,
+a tremendous expansion, brightening and clarifying of consciousness, in
+which the intellect functions with undreamed-of rapidity and sureness.
+The scientific study of languages and linguistic principles is at least
+a partial raising of the intellect toward this level. In the
+understanding of a large linguistic pattern there is involved a partial
+shift of focus away from the versatile psychic activity. Such
+understandings have even a therapeutic value. Many neuroses are simply
+the compulsive working over and over of word systems, from which the
+patient can be freed by showing him the process and pattern.
+
+All this leads back to the idea touched upon in part I of this essay,
+that the types of patterned relationship found in language may be but
+the wavering and distorted, pale, substanceless reflection of a CAUSAL
+WORLD. Just as language consists of discrete lexation-segmentation
+(N[LATIN SMALL LETTER A WITH MACRON]ma-R[LATIN SMALL LETTER U WITH
+MACRON]pa) and ordered patternment, of which the latter has the more
+background character, less obvious but more infrangible and universal,
+so the physical world may be an aggregate of quasidiscrete entities
+(atoms, crystals, living organisms, planets, stars, etc.) not fully
+understandable as such, but rather emergent from a field of causes that
+is itself a manifold of pattern and order. It is upon the bars of the
+fence, beyond which it would meet these CHARACTERS OF THE FIELD, that
+science is now poised. As physics explores into the intra-atomic
+phenomena, the discrete physical forms and forces are more and more
+dissolved into relations of pure patternment. The PLACE of an apparent
+entity, an electron for example, becomes indefinite, interrupted; the
+entity appears and disappears from one structural position to another
+structural position, like a phoneme or any other patterned linguistic
+entity, and may be said to be NOWHERE in between the positions. Its
+locus, first thought of and analyzed as a continuous variable, becomes
+on closer scrutiny a mere alternation; situations “actualize” it,
+structure beyond the probe of the measuring rod governs it;
+three-dimensional shape there is none, instead—“Ar[LATIN SMALL LETTER U
+WITH MACRON]pa.”
+
+ 
+
+Science cannot yet understand the transcendental logic of such a state
+of affairs, for it has not yet freed itself from the illusory
+necessities of common logic which are only at bottom necessities of
+grammatical pattern in Western Aryan grammar; necessities for substances
+which are only necessities for substantives in certain sentence
+positions, necessities for forces, attractions, etc. which are only
+necessities for verbs in certain other positions, and so on. Science, if
+it survives the impending darkness, will next take up the consideration
+of linguistic principles and divest itself of these illusory linguistic
+necessities, too long held to be the substance of Reason itself.
+
+ 
+
+Reprinted by permission of the Theosophical Society from Theosophist
+(Madras, India), January and April issues, 1942.
+
+1. To anticipate the text, “thinking in a language” does not necessarily
+have to use WORDS. An uncultivated Choctaw can as easily as the most
+skilled litterateur contrast the tenses or the genders of two
+experiences, though he has never heard of any words like “tense” or
+“gender” for such contrasts. Much thinking never brings in words at all,
+but manipulates whole paradigms, word-classes, and such grammatical
+orders “behind” or “above” the focus of personal consciousness.
+
+2. The full formula from which this is abbreviated is printed and
+explained in my paper “Linguistics as an exact science” in Technol.
+Rev., December 1940, Massachusetts Institute of Technology, Cambridge,
+Mass. (p. 285 in this volume).
+
+3. This word and sentence contains only one N[LATIN SMALL LETTER A WITH
+MACRON]ma or lexation, mamahl or ‘white-race person.’ The rest is all
+grammatical pattern which can refer to anything. The Nootka stem or
+N[LATIN SMALL LETTER A WITH MACRON]ma for ‘doll’ with the same
+operations done upon it would mean ‘they each did so because of their
+doll-like-ness.’
+
+4. Compare ‘kith’ and ‘throe,’ which give no meaning, and a bewildering
+effect, without the patterns ‘kith and kin’ and ‘in throes of.’
+
+5. “Are” is in parentheses because “be many” is expressed by a single
+verblike word. The Japanese ordinarily does not use a plural.
+
+6. Bragdon’s paraphrase of the Yoga S[LATIN SMALL LETTER U WITH
+MACRON]tras, An Introduction to Yoga, Claude Bragdon, New York, 1933.
+
+Appendix:
+
+The “Yale Report”:
+Report on Linguistic Research in the Department of Anthropology of Yale
+University for the Term September 1937–June 1938
+
+By B. L. Whorf and G. L. Trager¹
+
+Part 1  The Synchronic or Non-historical Aspect
+
+________________________
+
+Schematic Outline of Part 1
+
+Division A  Configurative Linguistics
+
+By B. L. Whorf and G. L. Trager
+
+1. Preliminary linguistic outline
+
+2. Phonemics
+
+3. Morphophonemics
+
+4. Configurations of grammar including grammatical classes
+
+5. Configurations of grammar as compared with experience interpreted
+non-linguistically
+
+Division B  Configurative Linguistics and Cultural World-Outlook—
+“Ethnolinguistics”
+
+By B. L. Whorf
+
+1. The configuration of experience as seen in language
+
+I. Segmentation of experience
+
+a. Segmentation in terms of grammatical classes
+
+b. Segmentation in terms of one language compared with another
+
+II. Implicit metaphysics of a language, and, more or less, of a culture
+
+III. So-called primitive mentality—the concept of cultural mentalities
+
+2. Interpretation of coordination and parallelism between language and
+culture (the non-historical aspect, historical aspect to be treated in
+Part II² of Report)
+
+a. General considerations
+
+b. Illustrative detail
+
+c. Simple versus complex terms
+
+d. Cultural attitudes and backgrounds
+
+e. Comparison of negativisms
+
+3. Behavior-patterns as correlated with language
+
+4. Study of the supra-linguistic and quasi-linguistic mentality³
+(collective or social) through the linguistic approach
+
+a. In general—spiritual emphases of a culture
+
+b. Kinds of translations—official, literal, and interpretative
+
+c. Understanding of symbolism
+
+d. Ideas not independently lexated
+
+The concepts of lexation and independent lexation
+
+Application to the grasping of subtle turns of meaning in the language
+of exotic cultures
+
+e. Correct recognition of the immaterial values of a culture
+
+____________________⁴
+
+Trager’s share in the present report is unavoidably very much curtailed
+by his absence in the European linguistic field. The compilation of the
+report was conceived and undertaken by the author, Whorf, not until the
+end of the second semester, long after Trager had sailed, and the author
+feels that it has not been possible for him to do justice by proxy to
+the large contributions made by his colleague. The important work in the
+subjects A2 and A3, the corner-stone of linguistics, is chiefly due to
+Trager. A1 and A5 represents mostly the work of Whorf; A4 represents
+mostly joint effort and collaboration. Division B represents the
+viewpoint of Whorf, who wishes to take full responsibility, but not full
+credit, for what is there expressed, for he acknowledges the
+contributions resulting from many discussions and consultations with
+Trager, particularly as relating to Trager’s work with the Taos Indians.
+A number of suggestions and ideas have been contributed by Charles C.
+Hockett and Norman A. McQuown,⁵ students at the Yale Graduate School in
+the classes of the authors, others have resulted from correspondence
+with Doctors⁶ Morris Swadesh, Mary Haas, and C. F. Voegelin. Five
+meetings for the reading of papers and discussion of linguistic work
+have been held jointly with Prof. Franz Boas and the group of linguistic
+workers associated with him at Columbia University, and we owe much to
+the stimulating points raised and ideas contributed by Prof. Boas and
+his co-workers, even where the fruits of those ideas may appear
+unrecognizable to them. We both acknowledge our great indebtedness to
+Prof. Sapir, especially for⁷ encouragement and for the stimulation given
+by his broad and penetrative outlook, at once scientific and sensitive,
+all of which he has given freely to us even while weighed down by
+illness. We unite in heartily wishing him a speedy return to health.
+
+An expanded outline form has been used for the report, which follows.
+The nature of the research has been that of a work of systematization
+and of recognition of significances, and its conclusions are largely
+expressed in the arrangement and statements of the whole body of the
+report.
+
+______________________⁸
+
+Division A  Configurative Linguistics
+
+By B. L. Whorf and G. L. Trager
+
+(Abbreviations: lge—language, lgs—languages, Eng—English)
+
+1. Preliminary linguistic outline
+
+As supplement to the extensive ethnographic outline prepared and
+published by the Dept. of Anthropology in 1937–1938, a tentative outline
+of the field of configurative linguistics as applied to any one language
+was made early in the term, and was entitled Language—Plan and
+Conception of Arrangement—as the name implies, a first and exploratory
+plan for the arrangement of linguistic information. It was not published
+in the ethnographic outline, but 5 or 6 typed carbon copies were
+distributed to persons interested, and a very condensed synopsis
+published in the ethnographic outline. It served somewhat as a basis for
+the further research, and work during the year has suggested much
+enlargement, some revision. The idea of such an outline is an important
+one for linguistic taxonomy, or the systematic view and classification
+of all known “linguistic species”, i.e. individual lgs, in order that
+science may obtain a comprehensive view of the human linguistic faculty
+as one large whole, much as zoology classifies and studies all animal
+species, not merely a few preferred ones. Long in advance of the
+ultimate possibility of such a linguistic world-picture it is desirable
+to compare many adequately comprehensive outlines and “trait-lists” of
+individual lgs to “see what we have got” world-wide and so make valid
+generalizations about the totality Language.
+
+2. Phonemics
+
+a. Distinction of phoneme vs. allophone (positional variant). The
+allophonic constellations, or groups of sounds which actualize or
+represent each phoneme or sound-type under definite sets of conditions
+stateable as formulae, have been worked out for Taos, Picurís, Hopi,
+modern Aztec (2 dialects), 2 or 3 dialects of American Eng. A certain
+basic system of allophonic constellations, as well as of phonemes, is
+characteristic of each language, and certain variations upon this basic
+system characterize each dialect of a language.
+
+b. Correlative phonemes, or correlative phonemic sets, e.g. (p, t, k,),
+(p^(c), t^(c) , k^(c),), (b, d, g). Features of correlation, e.g.
+voicing, aspiration, desonancy (the opposite of voicing, e.g. M, N, N),
+off-glides,⁹ on-glides, nasalization, etc. have been studied. It is
+important, and often difficult, in a newly studied lge, to distinguish
+between a correlative feature, e.g. aspiration, i-glide, and a phoneme,
+e.g. h, y. A certain correlative feature and a certain phoneme may have
+exactly the same sound and be the same thing on the physical or
+mechanistic level. They are different purely and simply as elements of
+Gestalt-wholes; this makes them immensely different perceptively to the
+native hearer but indistinguishable to the ear of the student until he
+has become adjusted to the phonemic system of the language. They can be
+distinguished only by configurative phonemic analysis, which is¹⁰
+obligatory and cannot be replaced by nicety of ear or acoustic
+instruments (not a new conclusion but worth reemphasizing). The denoting
+of affricates by such symbols as¹¹ ts, ta, t∫ offends against this
+principle because it denotes a feature of correlation by the symbol for
+a phoneme (t), and this soon leads to practical difficulties.
+Correlative features between allophonic constellations also exist (e.g.
+one particular positional variant of l may have a phonetic feature
+correlative with the corresponding or “homopositional” variant of m,
+although l and m as phonemes do not correlate). Of this type are
+cluster-glides, which sound like vowels, and are often lumped with
+certain vowels under the loose term “shwa”. Such glides appear in e.g.
+pris^(o)m, rhyth^(o)m, litt^(o)le, and are more widely distributed in
+colloquial dialects, e.g. ath^(o)letic, el^(o)m; their irregularity of
+distribution in “standard’ Eng may enable them to be considered as
+vowels (?), but Hopi -k^(o)n-, -k^(o)l-, -t^(o)n-, etc. are definitely
+allophonic correlatives (cluster-glides).
+
+c. Distinction of segmental phonemes (consonants, vowels) and prosodic
+phonemes, i.e. units of length, stress, accent (pitch-stress, pitch),
+clipping. Clipping or prosodic staccato (Trubetzkoy’s “Silbenschnitt”)
+was discovered in and worked out for Hopi; it occurs in Eng and German.
+
+3. Morphophonemics
+
+Morphophonemics is a configurative analysis which distinguishes phonetic
+configurative elements (called usually morphophonemes) characterized by
+homologous position in linguistic elements of constant meaning—a type of
+configuration not used in pure phonemics. Thus if threads connected all
+the c’s, l’s, i’s, f’s, in cliff, cliffs, cliffy, the same morphophoneme
+would be found repeated along each thread. The same would be true of
+leaf, leaves, leafy, for this type of analysis considers the v in one
+word morphophonemically equivalent to the f’s in the other two, because
+it lies on the same thread with them. Morphophonemics relates to the
+underlying model of a set of forms—when lexical this model is that
+linguistic entity which has traditionally received the name of “root”.
+We recommend that this very convenient term be retained, but also that
+the understanding of it be less loose, and clarified by the
+morphophonemic concept. The symbol √ is suggested not only for roots but
+to indicate morpho-phonemic symbolism in general. The roots of the
+“cliff” and “leaf” forms above might be denoted √klìf₁, √lif₂. All
+phonologic variation in a given lge may be divided into allophonic
+(coming under phonemics) and morphophonemic. The latter includes ablaut,
+sandhi, lenition, hardening, zeroing, e.g. Eng moisten (moisn) : √moist,
+Latin nox : √noct, cf. noctis, and various other types of phonologic
+phenomena. It is very important not to confuse morphophonemics with
+historical reconstruction. The (morphophonemic) root √klìf is purely a
+formula that correlates synchronic linguistic facts, and has nothing to
+do with the historical prototype (for which we use the customary
+marking * instead of √) of the set of forms in question. Trager has
+worked out the complicated and unusual consonantal changes (consonantal
+ablaut) in Taos verbs, Whorf the “vocal segments” of Hopi vowels treated
+as morphophonemes.
+
+4. Configurations of grammar including grammatical classes
+
+a. Overt and covert classes. Grammatical categories are¹² distinguished
+by grammatical markers, which may or may not appear with the form
+categorized. The test unit is the sentence, or sometimes small group of
+sentences (immediate field of discourse), not the word. For the marker
+to appear “with” the form means to appear in the same sentence (or
+sometimes, in the immediate field of discourse); e.g. in ‘he saw a small
+fish’, ‘a’ marks “fish” as of the category or class ‘singular number’,
+and appears “with” it. Grammatical classes which appear ordinarily
+“without” markers do have markers appearing with them under certain
+particular circumstances—such a class is “covert”, and its marker a
+“reactance”. Its grammatical meaning, if distinguishable, is a
+“cryptotype”. Grammatical classes are not to be set up in the absence of
+any markers at all; from a grammatical configurative standpoint an
+entirely unmarked class would be a fiction. Such fictitious categories
+have frequently been foisted upon exotic languages and modeled upon
+meanings of marked categories in the investigator’s or grammarian’s
+native European language. At the same time genuine categories of the
+exotic language have been ignored because they were marked only
+covertly. Covert marking is very definitely marking, and cannot be
+ignored. Markers include of course features of position and order in the
+sentence, and negative features—the significant absences of forms or
+patterns otherwise to be expected. Overt categories are accompanied by
+markers in all or nearly all sentences—e.g. verbs and nouns in Eng and
+French, gender in French. Their grammatical meanings are “phenotypes”.
+Covert categories have markers that ordinarily do not appear—they appear
+only in certain “test” types of sentence; e.g. Eng genders, where the
+markers (reactances) are the personal pronouns, but appear only when the
+sentence calls for such a pronoun. The pronouns mark linguistic classes,
+not “natural” orders of experience that could be discriminated by
+non-linguistic tests—this, in spite of the considerable degree of
+alignment with a sex distinction is true of Eng as well as French,
+Latin, Hebrew or Taos gender. Eng verbs belong to different covert
+classes of “resolution” marked by absence of nouns or pronouns after the
+verb and other patterns (‘I heard it’) but not (‘I listened it’) and
+(‘it was heard’) but not (‘it was listened’) etc., but in many types of
+sentence (‘I will hear’, ‘I will listen’, etc.) no markers appear.
+Covert classes have failed of sufficient recognition both in European
+and in American Indian lgs; they are often of the greatest importance,
+and failure to recognize them may baffle or delude the investigator of a
+lge. The covert classes may have a far-reaching connection with the type
+of thinking, the “philosophy” or “implicit metaphysics” of a lge (cf.
+the important “round”, “long”, etc. covert classes of objects, i.e. of
+nouns, in Navaho, reactance in form of certain verbs) and go to make up
+the number of those things that are responsible for the impression of a
+“primitive mentality” different from “civilized mentality” (see B1,
+III). The manifestations of these class-distinctions in thinking and the
+character of the sometimes rather deeply-hidden and seldom-appearing
+reactances suggest the phenomena associated with the unconscious,
+subconscious, or foreconscious in psychology, though on a more
+socialized and less purely personal plane, and may connect in a
+significant manner therewith.
+
+b. Selective and modulus classes. Observing now a different order of
+configuration, classes may be divided into two types through the type of
+applicability of their markers, according as they apply only to a
+selected group of the vocabulary (selective class) or to the¹³ whole
+vocabulary or the whole of a certain larger class, which may be
+selective (modulus class). Typical of selective classes are the “parts
+of speech”, nouns, verbs, etc., of modulus classes or moduli are case,
+number (applicable e.g. to all nouns), voice, aspect, tense (applicable
+e.g. to all verbs). In some lgs and lge families, e.g. Semitic,
+Wakashan, moduli take the place of “parts of speech”; this has not been
+sufficiently recognized. Eng is moving in the same direction, has indeed
+gone a long way towards such a condition. Esperanto has moved in the
+opposite direction; it was designed to have only modulus classes and
+roots, but selective classes of roots have appeared in actual usage, as
+Mr. McQuown has shown, modeled on similar classes in European lgs.
+Moduli are overt, selective classes either overt or covert. The markers
+of moduli are called by us “signatures”. One modulus (e.g. Eng
+noun-plural) may have more than one signature, e.g. for Eng noun-plural,
+-s, vowel change, -en, absence of articles, plural verb, suppletion
+(e.g. chicken : poultry signatures may be “bound” (a part of the word,
+including internally) or “free” (appearing separately in same sentence
+(including features of order and negativisms). “Inflection” is a term
+covering all bound markers, both signatures and selective markers.
+“Attached” is suggested as a broader variety of the type of “bound”,
+including markers attached to any word and not necessarily to the word
+categorized—e.g. in S. Paiute there are such markers that may be
+attached simply to any word that begins the sentence—these are usually
+not called “inflections” but “enclitics”.
+
+5. Configurations of grammar as compared with experience interpreted
+non-linguistically
+
+The task of formal grammar ends when the analysis of all linguistic
+configurations is completed, but the characteristics of a language are
+by no means fully accounted for then. It still remains to indicate the
+type of experience and kinds of referents referred to by different
+grammatical classes, for lgs may here differ widely. Our ordinary ways
+of classifying referents, as being “things”, “objects”, “actions”,
+“states”, etc. are quite unsuitable for this work, as they are
+themselves names for partitionings of experience resulting after it has
+been grammatically classed, and circular definitions or mere confusion
+will result from applying them as if they referred to the conformation
+of reality itself. Terms like “subject”, “predicate”, “actor”, “agent”,
+“function”, “cause”, “result”, are equally misleading or useless in any
+other than a strictly grammatical sense, defined for and by each
+particular lge and referring only to the patterns therein and not to
+external reality. It is, e.g. quite legitimate to talk about “the agent”
+in a given lge where the term has been defined or illustrated, but it is
+not to say that two different lgs of widely different type are alike in
+their treatment of the “agent”. In such a use it is not clear what
+“agent” means. It is impossible to break up the flow of events in a
+non-arbitrary manner into “subject”, “actor”, “predicate”, etc. as if
+there existed external realities of this sort. We, to be sure, may
+analyze a phenomenon as ‘boy runs’, but another lge is capable of
+analyzing it ‘run manifests as boy’. In describing differences between
+lgs in such respects we must have a way of describing phenomena by
+non-linguistic standards, and by terms that refer to experience as it
+must be to all human beings, irrespective of their languages or
+philosophies.¹⁴ This is possible, the way having been shown by Gestalt
+psychology. Visual perception is the standard, norm, and framework of
+all experience. The forms and laws of visual perceptions are the same
+for all individuals—even the most glaring abnormalities, like
+color-blindness, are relatively minor, and do not disturb the universal
+configurative principles of visual perception. We need not cite these
+laws here—see, e.g. Kurt Koffka, “Gestalt Psychology”. The basic
+principle is the contrast of figure and ground, involving the differing
+degrees of organization, stability, and fixity in figures or outlines of
+all sorts. A non-linguistic canon of describing the referents of
+linguistic forms, a canon which is understood in the same way by the
+speakers of any and all tongues, is provided by considering whether the
+referent has an outline or has not, and next, how much of an outline, a
+definite or a vague outline, a fluctuating or a stable outline, a
+quality of ground or field as more important than outline, and similar
+criteria which can and should be worked out and expressed in suitable
+terminology. The difference between the referents of the words (a) dog,
+chair, house, tree, and (b) run, stand, fall, smooth, stiff, etc. is not
+to be phrased as that (a) are things, and (b) actions or states; but as
+(a) with marked outlines, or outline as of primary importance, and (b)
+with outline-quality subordinate or lacking. Going further, and
+comparing (c) stand, sit, lie, fall, with each other and with (d) white,
+smooth, large, useful, we see that the (c) words also refer to
+experience with a degree of outline, though a very low degree, while the
+(d) words refer to experiences in which the quality of outline is
+lacking. Certain covert shape-classes of nouns in Navaho and other lgs
+seem to have a class meaning referring to generalized outlines like the
+(c) words. The lge which says ‘run manifests as boy’ has the
+characteristic of commonly expressing “first degree outlines” (e.g. boy)
+as “verbations”. In Eng, an experience of “liquid H₂O” must have a
+certain minimum degree of outline-quality before it is in common
+parlance referred to by the noun ‘water’—lacking this it is treated as
+ground or field, and referred to by adjectives—‘wet’, ‘damp’, ‘moist’.
+Hopi treats “liquid H₂O” rather differently—see B IIb below. Some lgs
+have highly figural (i.e. “outlinish”) verbs, e.g. ‘to be a hole in the
+ice’ (Potawotami), ‘to manifest as a fascicled bunch’ (an outline like a
+bouquet of flowers) (Hopi). Hopi is indeed rich in highly figural verbs,
+with no counterpart in Eng. If the experience is also momentary or
+fluctuating it must be a verb reference, no matter how outlinish, unlike
+Eng; hence our nouns ‘wave’, ‘flash’, ‘blow’ (striking), ‘splash’,
+‘lightning’, ‘meteor’ cannot be translated by nouns in Hopi, but the
+same experiences are there denoted by verbs. This pattern even prohibits
+the reifying or “nounizing” of such momentarily outlined experiences by
+roundabout linguistic devices such as participles: ‘shooting star’ is
+ruled out in favor of ‘star moves’, ‘sunset’ in favor of ‘sun sets’
+(literally, ‘sun interiorizes’), ‘running dog’¹⁵ is permissible only
+when used like a dependent relative clause, and ‘it is a running dog’ is
+ruled out in favor of ‘a dog runs’.
+
+Division B  Configurative Linguistics and Cultural World-Outlook
+
+By B. L. Whorf
+
+The term “Ethnolinguistics” is suggested for this type of study.
+
+1. The configuration of experience as seen in language
+
+I  Segmentation of Experience  The flux of experience may be classified
+and “chopped up” differently by different languages; this is most
+readily seen by going outside of Indo-European, American Indian lgs
+providing some of the greatest contrasts. These differences in
+“segmentation”—in what is treated as “one” aspect, phenomenon,
+substance, or quasi-whole, isolated out of the mass of presentation and
+fitted together with other such segmentation to make the mosaic
+representation of life which the language and culture takes for
+granted—these differences may apply not only in the large outlines of
+the cosmic picture (BI, II), where they are at their most subtle and
+hard to appreciate, but also in countless small matters of detail, where
+they are much more easily seen.
+
+   We say “a box of cigars”, Hopi says “cigars plurally put inside”,
+where ‘plurally put inside’ is a unitary term, unanalyzeable [sic]
+except for inflectional endings. The two expressions refer to the same
+bit of experience but segment it into different constituents. Eng
+presents an outlined bit of the world, a ‘box’—it carries the
+implication of contents, which the relater ‘of’ discloses to be cigars.
+In Hopi the cigars are the main idea, to which is referred a generalized
+configuration of interiorized multiplicity, but whether the enclosure
+that preserves this configuration be a box, barrel, bag, package, etc.
+does not require mention. We “unbutton” a coat, Hopi “causes
+inner-plural separation” of it (unit term ‘separate’ with inner-plural
+and causative inflections) without any allusion to such bits of
+experience as buttons. Where we have one term ‘snow’, another language
+has different words for snow everywhere on the ground, snow in patches,
+falling snow, etc. Words translated ‘war’, ‘clan’ etc. may carry a
+complex institutional meaning like our ‘the Church’, ‘the theater’, ‘the
+stage’, or again they may be rather on the plane of our ‘a church
+service’, ‘a play’, ‘a fight’.
+
+a. Segmentation in terms of grammatical classes Study in this field
+springs naturally out of A4 and A5. For what sort of segmentations of
+experience does the lge use its various parts of speech, its cases,
+numbers, aspects, voices, etc.? See A5 for ways of allocating types of
+experience to verbs or to nouns, contrasting Eng and Hopi. Eng uses
+nouns for ‘summer’, ‘winter’, ‘morning’ etc.; in Hopi these
+segmentations of experience are neither nouns nor verbs, according to
+the formal configuration of the Hopi noun and verb classes, but a class
+by themselves, a type of adverb (= when it is summer, when it is
+morning). The ideas of ‘waiting’, ‘remembering’, ‘inferring’ may be
+expressed in Hopi by adverbs; in Eng they require verbs. In Hopi
+“referential motion” or motion described simply by reference points and
+directions is not denoted by formal verbs—i.e. there are no verbs ‘go’
+and ‘come’. It is expressed by formally verbless sentences containing
+the necessary directional data as cases, postpositions, or adverbs.
+Then, in¹⁶ the absence of formal verbs, a special inflection at the end
+of the last word in the sentence adds “verbation”, or the characteristic
+of verbs which is necessary to complete sentences. Thus ‘he goes to the
+tree’ is ‘he to the tree (with verbation)’ or ‘to the tree he (with
+verbation)’. But ‘he runs¹⁷ to the tree’ requires a formal verb to
+express running. The adverb pay ‘now, then’ properly ‘in process of
+manifesting for the moment’, or ‘transition through a small segment of
+existence’¹⁸ when thus used with verbless verbation means ‘go’ in the
+sense ‘leave, depart’, i.e. not go anywhere or in any direction in
+particular but simply go out of the immediate scene. The province of a
+certain grammatical class in one language may be a mere unexpressed
+nuance in another, in a third it may be a nuance expressed entirely by
+prosodic features, stress, loudness-emphasis, intonation, etc. In Hopi
+definite words express what special stresses and intonations express in
+Eng, e.g. [Whorf_p358a] ‘if they are not quieted’, [Whorf_p358b] ‘if
+they are not quieted’, where the adverb pas corresponds to the Eng
+nuance given by special stress on ‘not’. Some languages have no special
+type of intonations for questions, interrogation being expressed only by
+a morpheme, sometimes an independent word.
+
+b. Segmentation in terms of one language compared with another Most
+generally the two lgs so compared will be an exotic lge being
+investigated and the investigator’s native tongue, e.g. Eng, French,
+German, Spanish, etc. Modern European lgs are enough alike to constitute
+a “standard average European” (SAE) for comparison with e.g. an Am. Ind.
+lge. A very simple case of segmenting experience differently is
+treatment of the human body and its division into named parts. Even
+within SAE are distinct differences: ‘finger’ and ‘toe’ have the same
+name in most Romance lgs, Eng uses ‘toe’ for both ‘foot-digit’ and
+‘point of foot’, Polish has one word for ‘hand-arm region’ and similarly
+‘foot-leg’. Hopi differs somewhat from SAE—a general hand-arm region,
+but foot and leg distinguished, no simple terms for hand, nipple,
+nostril, anus, vagina, buttock, cheek, which are expressed synthetically
+as the heads, holes, or mounds of certain regions,¹⁹ on the other hand
+simple terms for fold of groin, top of head, and lower back over
+buttocks, our ‘back’ being segmented as two regions instead of one.
+Verbs and words for general ideas may be related to the body-part
+analysis and vary accordingly. The Hopi verb [Whorf_p359a] refers to
+motion of entire hand-arm region with an external object included, hence
+is the translation to lift, pass, hand over an object already in the
+hand, but is not used when the action must begin with a grasping or
+picking up of the object.
+
+   The world of natural phenomena and substance may be variously
+segmented—see instances above of ‘snow’ and Eng (and SAE) ‘water’. Hopi
+segments liquid aqueous manifestation into [Whorf_p359b] ‘wild water’
+and [Whorf_p359c] ‘fixed water’ (water within a small fairly stable
+outline, as that of a container); it is the first that runs from taps
+and faucets and is in springs and rivers, the second which is in a glass
+or vessel or spilled therefrom on floor, etc. The second is the most
+general response to being asked the word for ‘water’, while the other is
+apt to be the reaction to ‘pond’ and is always so to ‘spring’. There is
+nothing quite corresponding to Eng ‘wet’—while ‘be dry’ is a formal²⁰
+verb (not a formal adjective as is e.g. ‘white’, ‘big’). There is
+neither adjective nor stative verb for wetness but only ‘to wet it’, a
+formal transitive verb, and ‘wet’ must be expressed as ‘wetted’ i.e.
+‘having had water applied’ or by a compound or phrase involving
+[Whorf_p359d].²¹ or [Whorf_p359e], whichever is the proper segmentation.
+This is no doubt in harmony with Hopi climatic conditions and cultural
+attitudes towards water.²² The phenomenon of light is segmented into
+ta·la ‘light diffused through space’ (also the word for ‘day’) and qö·hi
+‘luminous essence within an outline’ (also the word for ‘fire’). The
+light within a neon tube is qö·hi but the illumination spread of it is
+ta·la and the tube is said to be [Whorf_p360e] ‘be carrying or conveying
+ta·la’. [The]²³ Hopi term ‘rain’ [Whorf_p360g] is a much broader
+segmentation than Eng or SAE ‘rain’ and might be called ‘the
+rain-complex’ or even ‘the rain aspect of nature’; it includes all the
+powers and properties manifested in the rainstorm. In Hopi it is ‘the
+rain’ that ‘strikes’ (lit. ‘shoots’) the house or tree that with us is
+‘struck’ by ‘lightning’. ‘Lightning’ and ‘thunder’ are not the entities
+that they are in SAE but mere epiphenomena attending the power of rain,
+and in accordance with the principle mentioned in A5 are fleeting events
+to be referred to by verbs but not by nouns. Not only natural phenomena
+and body-parts but ordinary behavior and the most familiar human acts
+may be variously segmented for linguistic naming.²⁴ Segmentation of
+behavior in such a way that acts by individuals or dual pairs are given
+a different name from the performance of what is to us the same act by a
+group is common in the Great Basin and adjoining Mexico and is
+pronounced in Hopi; e.g. wari ‘run (sing.)’, [Whorf_p360a] ‘run (pl.)’,
+[Whorf_p360b] ‘stand (sing.)’, [Whorf_p360f] ‘stand (pl.)’,
+[Whorf_p360d] ‘sleep (sing.)’, to·ka ‘sleep (pl.)’. This is akin to the
+fact of highly figural verbs, for the experiences are different in
+outline; e.g. [Whorf_p360c] indicates a configuration l, [Whorf_p360f] a
+configuration like ll ll ll.
+
+II  Implicit Metaphysics  Every complex of a culture and a lge (or every
+‘culture’ in the broadest sense, as including lge) carries with it an
+implicit metaphysics; a model of the universe, composed of notions and
+assumptions organized into a harmonious system which is valid for
+framing statements about what goes on in the world as the carriers of
+the culture see it. There are certain words for large segmentations that
+sum up a great deal to the cultural metaphysics, e.g. in modern SAE
+‘time’, ‘space’, ‘cause’, ‘effect’, ‘progress’, ‘the past’, ‘the
+future’, ‘substance’, ‘matter’, but the total picture is never given
+explicitly, not even in grammar, but is a complex semi-conscious
+thought-form which is taken for granted, and acted upon without being
+brought into the front of consciousness for scrutiny. The grammar is
+harmonious with it and reflects it somewhat, but only in scattering way.
+Thus the implicit metaphysics of SAE culture presupposes a uniformly
+flowing 1-dimensional time-order, a 3-dimensional space-order distinct
+from it, a universe consisting of a void or ‘holes’ b substance or
+matter which has ‘properties’ and forms island-like ‘bodies’,²⁵ an
+absolute unbridgeable difference between the matter and the ‘holes’,
+events ‘caused’ by ‘preceding’ events, things happening to matter,
+nothing happening in the void. Many experiences do not quite fit the
+picture; it is inevitable that they will be overlooked or find but
+faltering expression, because of the nature of the grammar and
+terminology available. The somewhat different cosmic model of modern
+physics involving relativity and microcosmic (quantum) analysis has been
+forced upon physics by research but no language, except mathematics, has
+been developed in its terms. But further, American Indian and other
+culture-language complexes have implicit metaphysical systems of their
+own, differing both from SAE and from “science”. The SAE view is not
+naive nor grounded in universal experience, (nor is any other) except as
+it corresponds with the universal figural properties of visual
+perception—SAE “time” and “space” e.g. are not intuitions. The implicit
+metaphysical systems of exotic culture-languages can be worked out and
+understood to some degree, by following same methods by which cultural
+anthropologist obtains an integrated description of a whole culture (in
+its broad outlines at least)—necessary however to take thoroughly
+analyzed configurative descriptions of grammar into consideration along
+with what natives say about their attitudes and outlook; and at last,
+possibly after many years’ work, an integrated picture emerges, perhaps
+startling in its differences from what was first imagined. Many things
+in lge and grammar receive full explanation only in terms of the
+metaphysics. The Hopian metaphysics has no time and space orders like
+ours has a contrast of two realms; a the causal, or unmanifested which
+includes the future and the mentalpsychic and is dynamic and in a
+process the end of which is manifestation, and b the manifested, which
+includes the present, past, and physical or apparent, and does not act
+causally per se, but contributes to causality by helping as it were to
+maintain a general well-being that aids the cycle of events. Within
+realm b there is a contrast of two modes of existence and/or extension;
+punctual (outlined around a point-center) and tensive (extending more or
+less indefinitely), which contrast takes over much of the work of the
+SAE matter-void contrast and is worked out throughout grammar and
+vocabulary in literally thousands of ways; it is seen e.g. in the
+contrasts between [Whorf_p359e], and [Whorf_p359d], qö·hi and ta·la,
+[Whorf_p360c] and [Whorf_p360f], and in the use of different
+postpositions and demonstratives according as a location is specified
+punctually or tensively.
+
+III  So-called Primitive Mentality  The concept of a primitive
+mentality, originated by Lévy-Bruhl, is a far-reaching generalization in
+a very important field of inquiry, otherwise little touched by either
+anthropologists, linguists, or psychologists, though seemingly of
+fundamental importance for all three. To believe that Lévy-Bruhl’s
+concept must be either uncritically embraced or flatly denied seems
+equally unjustified. To deny it and throw the burden of all the apparent
+divergences on the back of the obvious cultural and linguistic
+distinctions is to gloss over the facts. The decided impressions of a
+different way of thinking among “primitives” obtained by L-B and others
+are based upon something, but something as yet insufficiently analyzed.
+In the light of our research, esp. A4a, B1I, B1II above, it would seem
+that much of the difference in²⁶ mentality may be understood through the
+differences of the kind there indicated—differences in grammatical
+categorization, especially of covert categories, in segmentation of
+experience and in the implicit metaphysics of the culture-language
+complex. To all these must be added a still more subtle mental
+atmosphere derived from a myriad inobvious but deep-rooted aspects and
+values of the culture outside the linguistic realm. All these factors,
+build up into a vast summation for which there seems to be no term as
+well suited as “mentality”. It is on one hand fused with each individual
+personality, and hence an individual factor, but also of a certain
+common type for all individuals, through its embodiment of a common
+basis in the culture, language, and metaphysics. Hence, for the concept
+of a “primitive mentality” we should substitute that of “cultural
+mentalities”. What has been mostly meant by the term “primitive
+mentality” is “any cultural mentality other than SAE cultural
+mentality”. The road to the understanding of any cultural mentality lies
+first through a good ethnographic understanding of the culture and
+thence proceeds through linguistic territory, and at length returns to
+the broad-cultural taking the following course from the grosser to the
+subtler: configurative linguistics in general—overt categories—covert
+categories—interpreted in non-linguistic Gestalt terms—segmentation of
+experience—implicit metaphysics—cultural mentality.
+
+2. Interpretation of Coordination and Parallelism between Language and
+(Non-Linguistic) Culture. (The non-historical aspect).
+
+a. General considerations  [The]²⁷ way in which lge interlocks with the
+culture is a fit subject for linguistics in its broader sense, although
+it may be held by some to fall outside of “straight” linguistics
+(configurational linguistics). Hitherto neglected, except by Sapir,
+partly because “straight” linguists have not been interested in cultural
+anthropology and cultural anthropologists have been the same with
+respect to linguistics. Moreover, field admittedly holds a certain
+fascination for the more fantastic and romantic theorizers, with
+“Volksgeist” ideas, notions of inherent superiority of certain lgs, of a
+lge molding the culture, of stages of cultural “evolution” and what not.
+This feature should no longer repel properly qualified investigators.
+The very persistence of such notions as Volksgeist may indicate certain
+bases of reality, or certain partial glimpses of truth never properly
+worked out or thought through. It is necessary, then, first to sound
+Sapir’s note of caution: “We shall do well to hold the drifts of lge and
+culture to be non-comparable and unrelated processes - - - - Attempts to
+connect linguistic morphology with certain states of cultural
+development are vain. Rightly understood, such correlations are
+rubbish.” There is no causal connection, in either direction, between
+language and (non-linguistic) cultural features. The plea for more
+correlated study of a given language and study of the culture of its
+community does not rest on any such consideration, but on the fact that
+lge itself is culture, and that lge and the rest of culture (with
+language extracted from it) belong together as really inseparable parts
+of great whole—the culture in a broad sense.²⁸
+
+b. Illustrative detail  Kinship systems obvious instance—kinship terms
+must be understood in terms of the kinship system as it configurates by
+itself, and also in terms of the language and its linguistic
+configurations. Moreover, the pattern of the kinship relation may serve
+as a model for conceiving other sorts of relations, and hence may be a
+factor in the “cultural mentality”, (q.v. B1, III) and may be reflected
+in linguistic forms. Kinship terms in Hopi form a covert grammatical
+class, lacking certain grammatical forms shown by all other nouns. This
+grammatical class includes only two non-kinship terms: ‘(one’s) hand-arm
+region’ and ‘(one’s) appointed helper or co-worker’, a term of great
+importance in the social culture; on the²⁹ other hand ‘husband’ and
+‘wife’ do not belong to this kin-term grammatical class. In Eng kin
+terms do not form any grammatical class either overt or covert—and yet
+the names of various kinds of animals, objects, and substances do form
+covert grammatical classes in Eng. Strong social or economic sub-groups
+within the whole community warp the lines of the language by the special
+jargons, “lingoes”, technicalities, passwords etc. they build up among
+themselves; these warpings may be taken up by entire community and may
+even reach status of grammatical classes especially covert ones. In Eng
+the traditional “racy” talk of fishermen is doubtless source of division
+of fish-name nouns into 2 covert classes with markers (reactances) in
+the plural formation: 1. ‘economic fish’ (fish sought by fishermen),
+plural without -s (trout, bass, cod, mackerel etc.), 2. ‘low-grade
+fish’, plural with -s (sharks, skates, rays, bullheads, shiners etc.)
+including “queer” fish, (may be fished for but are not typical prized
+fish e.g. eels, flounders). Origin doubtless reference to fish of the
+catch in large quantities:³⁰ with technical or jargon use of the
+quantized or mass-noun pattern³¹ instead of plural (like ‘grain’, ‘bush’
+vs. ‘grains’, bushes’), while low-graders intrusive in the catch are
+spoken of as individuals, not en mass). Incidentally, Hopi has no
+mass-noun patterns; the punctual-tensive metaphysics does the equivalent
+work. Names ending in -fish (goldfish, butterfish) are class 1 for a
+different reason. “Straight” configurative linguistics³² does not
+attempt these cultural interpretations, but simply maps the classes and
+their markers—e.g. -s, which “inflection” is a “reactance” as regards
+the (covert, selective) fish-class 2, and a “signature” as regards the
+(overt, modulus) class of noun-plural.³³ The native speaker of Eng will
+pluralize names of fish new to him in accordance with his sense of the
+cultural placement of the fish. Here appears the connection with the
+psychic unconscious mentioned in A1 4. The speaker is not aware that in
+his unthinking talk he classifies fish, still less that he does so on a
+cultural basis. Nevertheless he does so classify them!
+
+c. Simple vs. complex terms  Once the ability to analyze the language
+has been attained via configurative linguistics, it is possible to³⁴
+observe whether a cultural pattern or feature is denoted by a simple, or
+primary term (e.g. plough, church, money) or a complex analyzable or
+secondary one (e.g. typewriter, post office, be engaged). In the
+historical aspect this may correlate with time-perspective (    q.v.);³⁵
+from non-historical standpoint it may correlate with observable degree
+of integration, pervasiveness, or deep-rootedness of the cultural
+feature—due usually to historical age, although it is the integration
+that is first directly observed and the historical age may not be
+clearly indicated without further research directed to this point. In
+most European lgs war is denoted by a simple term (war, guerre, Krieg,
+bellum), and the warfare-pattern shows the signs of being deeply
+ingrained—large armies, elaborate equipment, high efficiency,
+professionalism, military prestige,³⁶ war psychology, belief that war is
+an inborn human or masculine trait, etc., all of which might be observed
+without knowing the long history of warfare in Europe. A companion
+linguistic trait is the host of warlike and military words, even in
+ordinary civilian life.³⁷ In Aztec, however, the word for war, yaoyotl,
+is analyzeable [sic], = ‘enmity, hostility’ from the simple term yaotl
+‘enemy’; Aztec culture showed indeed strong warlike traits, yet probably
+by no means so strong or deep-rooted as in Europe (Aztec warlike prowess
+would appear from historical indications to be a relatively late
+development). In Hopi the nearest thing to a term for ‘war’ is
+na·´qöYta, analyzeable, = ‘be plurally and reciprocally killing’ from
+simple term qöya ‘kill plurally’, with reflexive and durative
+signatures. This correlates with the relative unimportance of war in
+Hopi culture. In Navaho the term for war is simple. Of course there may
+be lack of correlation; there may be a simple term for some culture
+element which is not deep-rooted, though it probably once was, unless
+term has been borrowed, or is itself obsolescent. Vogue and slang terms
+like dude are often coined simple terms for cultural emphases that are
+not deep-rooted, and with alteration of the emphases the term³⁸ becomes
+obsolescent, or it may survive only in special uses (‘dude-ranch’).
+
+d. Cultural attitudes and backgrounds—e.g. The Hopi linguistic
+segmentations of experience with respect to the phenomena of water and
+rain pointed out in B1 Ib., (distinction between and usages of ‘wild
+water’ and ‘fixed water’, lack of our segmentation ‘wet’, importance of
+the segmentation ‘rain’ or ‘rain-aspect of nature’) are in harmony with
+Hopi climatic conditions, economic importance of and cultural attitudes
+towards water and rain. Plant-names in Hopi form a covert grammatical
+class, a “botanical gender”, with reactance a distinct way of forming
+plural; this correlates with deep-rooted agricultural and
+plant-utilizing nature of Hopi culture. Or we may observe negative
+correlation, or discrepancy with culture; e.g. SAE terminology and
+linguistic patterns, except for terminology in technological spheres,
+does not correlate well with the great importance of machinery and
+mechanical-electrical systems in modern life. Names refer too much to
+simple block-like outlines, machine-referents are segmented too much
+like “objects”, terms do not refer enough to ramified, cobwebby
+configurations,³⁹ designations of functions are too narrow, meanings too
+limited,⁴⁰ misleading analogies too current.
+
+e. Comparison of negativisms  Where a lge is relatively negative to
+another, say to SAE, i.e. it appears to lack both term and concept for a
+certain SAE word, the concept may be a cultural one peculiar to one lge
+(e.g. to SAE). This pointed out before, and in terms of very obvious
+cultural reference occasions no difficulty, but we continually lose
+sight of the cultural basis of common familiar words and ideas. Hopi has
+a linguistic pattern for indicating age in years or other units, of a
+person or anything else, but it has no word for ‘birthday’. Of course
+‘birthday’ is a cultural concept of SAE. The Hopi do not celebrate
+anniversaries of birth or attach special significance to one’s natal
+day. It might be too hastily deduced that lack of a word ‘birthday’
+indicated a lack of interest in age or as = haziness as to people’s
+ages, but this does not follow, for the question of reckoning age is a
+separate one from that of the cultural importance of birthday
+anniversaries.
+
+3. Behavior-Patterns as Correlated with Language
+
+Not only collective, group behavior, but personal behavior of
+individuals is largely conditioned and channeled by the ‘official’
+cultural meanings of the outlines (i.e. ‘objects’) in the environment
+wherein the behavior takes place. The ‘official’ cultural meanings are
+often deposited in language, sometimes in a simple term like ‘altar’,
+‘lamp’, ‘bridge’, sometimes in grammatical forms which express the
+‘official’ meaning or function, as in instrumentive terms, e.g.
+‘heater’, ‘conveyor’, ‘accelerator’,⁴¹ ‘sprinkler’, ‘defroster’. The
+coinage of terms by means of grammatical⁴² operations (moduli), e.g. the
+category of meanings indicated by the signature, suffixed -er, -or,
+actually determines much individual behavior by giving an ostensible cue
+to the meanings of situations and environments. Not only do such cues
+operate positively, but also negatively for often important properties
+of the environment are obscured by the usual way of speaking about it,
+and behavior which is deficient or misdirected as regards the actual
+needs of the situation results—including what is called “carelessness”,
+or “oversight”. Suppose the motive toward certain behavior is an
+interest in fire-prevention in a factory; then the usual linguistic
+forms will distribute this behavior in certain ways—the ‘heaters’ will
+all be safeguarded but the ‘conveyors’ will probably be overlooked,
+though they may convey hot cinders, start fires in bearings, etc. Whorf
+has drawn on his experience in fire underwriting for many instances of
+this kind. The same thinking occurs with individual “random” behavior
+(as well as patterned or group behavior) in exotic cultures, emphasizing
+the importance of understanding the culture-languages for insight into
+the forms of behavior. Grammatical configuration of terms or linguistic
+patterns referring to given situations may give information that could
+not be obtained from simple observation nor from questioning answered
+only in terms of the questioner’s language (this ties in with B4).
+Information of the latter sort may tell investigator that a certain Hopi
+object is a ‘prayer-pipe’, that it is smoked during a prayer-ritual,
+especially when praying for a good harvest, etc. This information is
+important, but it should be coupled with the Hopi linguistic situation.
+Whereas a pipe, as such, is called a [Whorf_p368a] this object is a
+na´twaNpi, lit. ‘fixed outline for mutual trying, endeavoring’ (on the
+pattern of e.g. [Whorf_p369a] ‘fixed outline for sleeping, bed’,
+[Whorf_p369b] ‘fixed outline for closing, door’ etc., [Whorf_p369c]
+‘try, endeavor, practise’). The informant’s explanation obtained in the
+context of these linguistic patterns brings out that smoking the pipe is
+treated as an adjunct and aid to ‘concentrating’ in the mind or ‘heart’,
+on a desired result, usually the harvest—‘concentrating being a focusing
+of the causal power of the Hopian (metaphysical) causal realm and the
+basic germinal form of ‘trying’,—‘mutual’ (na-) refers to the mutual or
+reflexive interaction between the tryer and the not-yet-manifested
+result being tried for, while na´twana ‘mutual trying and being tried
+for’, ‘precipitation out of endeavor-power into actuality’, means at the
+same time ‘harvest, crops’, as the goal and result par excellence of the
+collective Hopi will and endeavor.
+
+4. Study of the Supra-Linguistic and Semi-Linguistic⁴³ Mentality
+(Collective or Social) through the Linguistic Approach
+
+a. In general:  This aspect may also be described as the necessity for
+linguistic approaches to culture to concern themselves at some time in
+their career with avoiding the pitfalls of a trite superficiality. One
+of the neglected phases of (linguistic) cultural anthropology is study
+of the finer shades of meaning, the deeper intellectual and spiritual
+life, the values which are recognized as ideals—often too readily
+assumed to be lacking (see Radin in this connection, Primitive Man as
+Philosopher). Whorf’s conclusion from linguistics and cultural
+anthropology is that just as the traditional view that supposedly
+intuitively given intellectual concepts (of the type of space, time,
+causality etc.) are really cultural forms of SAE and some other cultures
+affiliated, in regard to spiritual values the traditional view is also
+reversed; it has proceeded as if spiritual values were a cultural
+product of SAE or “civilization”, whereas they are common, in different
+forms, to all men, and may represent a real intuitive level of
+experience. This level is admittedly very hard to⁴⁴ get at, for it is
+not only linguistic (and therefore one step ahead of the non-linguistic
+anthropologist) but supra-linguistic (and therefore one step ahead of
+even the linguistic anthropologist). It is, in a sense, the most subtle
+aspect of the cultural mentality (q.v., supra) and the last realm
+reached by boring through the entire linguistic-cultural world outlook.
+Religion in its inward aspect, not simply its forms and ceremonies but
+what it deeply means, both to the individual and in the collective life,
+comes in here, also the ethical and esthetic values of the culture. A
+culture, deeply understood, presents emphases on certain large
+totalities or integrations of very manifold experiences, which may be
+called the spiritual emphases of the culture. These emphases may be very
+little talked about, even in the native language, yet they may be the
+field of much unuttered brooding, wondering, and formulating which is
+not merely individual, for it comes out on rare occasions, or in
+esoteric initiations and kiva ceremonies, and there achieves a certain
+collective basis. Hence it is not non-linguistic, and the language is
+shot through with cues and hints toward it, though in too direct
+questioning on these points the informant, especially if he is a Pueblo
+Indian, may “shut up like a clam”. Cultures may differ widely on what is
+felt to be “private”, or “sacred”, or merely “nobody’s business”. One
+Hopi informant fuses the Eng. words “secret” and “sacred”, and there is
+perhaps no difference in Hopi thought. Any student would get the
+impression that Pueblo culture is intensely introspective for all its
+insistence on outward ceremonial. Hopi even has a pronoun⁴⁵ which is
+supposed to be merely thought, not spoken, except when quoting⁴⁶
+thoughts. This is han ‘I as thinker’ with certain differences in
+accompanying verb form (cf. Eng. ‘thinks I’, ‘says I to myself’, 1st
+person used as 3rd person with 3rd pers. verb). The Eng. form is however
+often said, not the Hopi. The Hopi thinks to himself⁴⁷ han 
+[Whorf_p360d] ‘I’ll sleep’, but if he intends to communicate this
+thought he says aloud [Whorf_p370a] ‘I’ll sleep’, while if he is talking
+of another’s thoughts, then⁴⁸ he will pronounce the word han, and say
+“that fellow is thinking [Whorf_p371a]”. If asked the meaning of han he
+says “I” and may add “the same as [Whorf_p371b]” and on questioning
+explains that it is used only in thinking or “talking to yourself”.
+There are very many ideas which (unlike han) are nowhere summed up in
+definite words (e.g. the ideas underlying Eng. gender or to take a
+simpler case of “cultural fish classes” are not), yet they exist as
+large wholes or massive configurations of linguistic-cultural
+organization. Here again, the road lies through the more overt patterns
+of language, thence through the more covert, but it need not stop there,
+it leads on to the deeper shades of meaning and the spiritual
+orientations of the culture and of personalities.
+
+b. Kinds of translations. In connection with the above, important to
+distinguish 3 kinds of translations of cultural terms and references;
+viz. “official” “literal” and “interpretative”. The first is what its
+name implies and is usually first given by the informant, the second is
+systematic and in terms of a knowledge of grammar and the analysis of
+the form, the third is psychological and cultural, and takes in the
+informant’s detailed explanations and the interpreter’s knowledge and
+insight into “ethnolinguistics”—native segmentations of experience,
+metaphysics, cultural mentality. For example Hopi paho off.
+‘prayer-stick’, lit. ‘wild-water arrow’, interp. cannot here be given as
+it would involve too much discussion of religious ideas, of the symbolic
+meaning of [Whorf_p359d] ‘wild water’ or ‘aqueous element’⁴⁹ subtle or
+fluid essence contrasted with⁵⁰ solid form, and of the “subtle arrow”
+which goes into the super-terrestrial world. For [Whorf_p371c] informant
+gives off. tr. ‘north-wind great spirit’ and⁵¹ less spontaneously
+‘north-wind chief’ (which he may realize is too literal, [Whorf_p371d];
+is lit. ‘chief’). Grammatical analysis gives us lit. tr. ‘from-the-north
+chief’ which in this case tells us very little. There is no explicit
+reference to ‘wind’ (no wind or stem for wind) in the form, yet the form
+conveys a certain idea which the native renders (officially) as ‘wind’.
+The interp. tr. then is obtained from informant’s explanation, which
+brings out that the idea is not “a wind that blows” but the influence of
+a certain one of the (cosmic) 6 directions (these “directional
+influences” have the subtle nature⁵² of winds, but need not be
+manifested as objective winds). A sentence with literal grammatically
+analyzed translation is e.g. na·v (by-himself) haqa´wat (any-obj.) sinot
+(person-obj.) [Whorf_p372a] (good-intentions-who-has-obj.) [Whorf_p372d]
+(by-him) [as personal agent]⁵³  [Whorf_p372e] (these) [Whorf_p372f]
+(all-directions-from) [Whorf_p372b] (chiefs, rulers) pεw (to-here)
+[Whorf_p372c] (to-us) yo´k^(w)nayani (they-will-cause-rain). A somewhat
+interp. tr. is ‘the collective directional spirits may bring us rain
+through the agency of any person who has sincere (na·v) good intentions
+in the matter’.
+
+c. Understanding of symbolism.⁵⁴  Symbolism, being a form of reference
+that plays upon subtle and supra-linguistic meanings, often eludes
+direct questioning. Yet it is so far linguistic that it influences
+profoundly the use of language and hence it may be studied through the
+language patterns it produces. In Aztec of the Conquest period there is
+very much symbolic allusion to flowers; study of the language patterns
+shows that the flower-symbolism is not that of SAE. Flowers do not
+symbolize delicacy and femininity so much as⁵⁵ all that is proud, fiery,
+aristocratic, and somewhat like flags, crests, or spearheads. The
+characterizing of flowers as sweet or fragrant need not alter this
+masculine symbology, and hence such ideas as fragrance and sweetness
+differ in connotation from with us. The idea of sweet flowerlike
+fragrance applied symbolically in the human sphere might suggest to us a
+gentle maiden, but to the Aztec a haughty cacique.⁵⁶ If this symbolism
+is not understood the frequent references to “beautiful, sweet flowers”
+in Aztec songs will have to us a delicate feminine ring which is foreign
+to the spirit of the original. So also with the symbolism of jewels or
+of birds among the Aztec or of corn and rain with the Hopi—it is never
+quite the same symbolism as with us, and to appreciate it we must not
+only know the culture but perform two operations of a linguistic nature:
+(1) disabuse ourselves of the effect of our own literary language in its
+allusions to e.g. corn and rain, (2) assimilate the native linguistic
+patterns, segmentations, and meanings that are tied in with the native
+employment of the symbolism.
+
+d.⁵⁷ Ideas not independently lexated.  “Lexation” and “lexated” (terms
+applying to the research in config. linguistics, grammar, A4 of report,
+not discussed therein) are terms used by the author for the status of a
+meaning or idea when it is connected with a lexeme (i.e. a word as item
+in the lexicon, not a word as element in a sentence). Thus the meaning
+of the words ‘feminine’ and ‘blueprint’ are lexations, the meaning of
+the Eng. feminine gender category is not a lexation but is linguistic,
+the meaning of a blueprint is neither a lexation nor linguistic. Many
+ideas, even though linguistic are never lexated, e.g. the meanings of
+grammatical categories are not (the idea lexated as “noun” is not the
+idea of the Eng. noun category itself, but rather a surrogate for it).
+Many ideas which are akin to lexations are never lexated independently,
+i.e. have no lexemic sign which is not, in the very nature of the case,
+also a sign for some other and perhaps much more obvious idea, so that
+the former idea may easily elude observation. A stranger to our culture
+would not at first find in the word radio any meaning but that of the
+common household article ‘box containing receiving set’. Such ideas as
+‘science of ether-wave transmission’ and ‘collectivity of performers in
+the public notice who broadcast’ (cf. similar meanings attached to
+stage, pulpit, prize-ring, turf) would not appear to him until he had
+steeped himself in the language. Or consider the noun press and the
+different meanings which are not lexated independently therefrom!
+Moreover non-lexated linguistic ideas may be attached not to single
+words but to phrases, to word groups or classes, patterns, “turns of
+phrase”, symbolisms and what not. Further, concepts which are basically
+not linguistic at all but derived from contemplation of visual symbols,
+(like a concept formed by pondering over a blueprint) may be secondarily
+attached to linguistic references.⁵⁸ Non-lexated meanings bulk
+especially large on the spiritual levels of a culture. They can be best
+approached by working through the more explicit linguistic element [sic]
+until the researcher not only knows⁵⁹ words but when the occasion calls
+for it can see through the disguise of words to meanings of a more
+subtle order. In Hopi kik^(w)së is the word for ‘breath’, but in certain
+contexts a fairly sophisticated informant feels it should be rendered
+‘spirit of the breath’; moÑ^(w)i ‘chief’ when denoting the being of a
+cosmic direction he renders ‘spirit’ or ‘great spirit’; these are cases
+somewhat like that of radio.⁶⁰ It follows that the lack of a certain
+type of idea cannot be argued from an apparent lack of a term for the
+idea. In Hopi the absence of a lexation corresponding either to our
+‘God’ or ‘(a) god’, does not mean that the Hopi do not have as part of
+their own culture the idea of a cosmic or universal being which is
+deeply and as it were religiously felt. Such an idea is definitely
+present; there is merely no lexation or no one lexation for it. It may
+be behind many different lexical allusions and circumlocutions, such as
+‘chief’, ‘person’, ‘persons’, (cf. the effect in Eng. of writing these
+words with a capital letter), ‘breath’, ‘from all the directions’, the
+phrase [Whorf_p375a] ‘Great Something’ or ‘Great What’, etc. So too the
+absence of any one lexation for that erstwhile favorite of ethnologists,
+‘mana’ does not mean that ideas of a subtle, indwelling, impersonal
+power are not present.
+
+e. Correct recognition of the immaterial values of a culture.  For
+example⁶¹ a non-linguistic approach to Hopi culture, or even a
+superficial type of linguistic approach could perhaps give the idea that
+the religion consists largely of external ceremonial and that inner
+realizations and inner states are not important. But Hopi religion
+learned about through the Hopi language gives a different picture.⁶² (It
+is believed that the testimony of Kennard on this point will be the same
+as Whorf’s). Like the whole Hopi view of life, it is seen to stress
+inner mental activity to a high degree, outward ceremonies being almost
+in the status of “symptoms” of inner states, though symptoms regarded as
+important assurances that the inner work of the religious community is
+being properly done, and as essential to effective mobilization of
+individuals⁶³ into a powerful, co-operating mental group. The language
+is rich in terms for ‘concentrating’ the mind, for various modes of
+mental action and existence etc., these terms and ideas appearing
+frequently in ritual and in public speeches of chiefs, etc. The
+terminology and phraseology also indicate that the emphasis is not on
+inner experiences of a receptive and passive type (inner perceptions,
+feelings, religious emotion, visions, messages, revelations) although
+there are some words having such reference, but on those of a projective
+and dynamic type (directing of will, good intent, wielding of “power”,
+concentrated thought as sufficient cause, thinking activity harnessed to
+the religious purpose, etc.). Through its emphasis on will and thought
+rather than receptivity, feeling, or sensation, the religion and in fact
+the whole immaterial culture might be called “thelistic” and
+intellectual—of course in its own intellectual terms, not ours. But this
+might be easily missed in a non-linguistic approach, and the abundance
+of ritual then contrasted with other religious cultures of a
+“vision-quest” character in such a way as to give the idea of a mere
+empty formalism. The “inner work” is not much talked about; it is
+thought in linguistic and quasi-linguistic thought forms, which come up
+readily in the innocent discussion of Hopi linguistic meanings when too
+pointed questions about what one thinks during ceremonies get nowhere.
+The investigator who uses only English often cannot get at what the
+native thinks without direct quizzing, and under quizzing the Hopi
+will-power can easily manifest in a form that about such things has been
+styled “won’t-power”.
+
+End—Reference to Part II The Historical Aspect⁶⁴
+
+This document was first published in Penny Lee’s The Whorf Theory
+Complex: A Critical Reconstruction (Amsterdam: John Benjamins, 1996),
+where it was referred to as “The Yale Report” and discussed in detail in
+chapter 3. The editors thank Edith Sjoerdsma for her help with minor
+corrections in preparation for this republication. The original
+seventeen-page handwritten draft document, together with nine finalized
+typed pages which comprise a little more than the first seven of the
+draft, is in the Yale University Library Manuscripts and Archives, and
+is available on microfilm as part of Benjamin Lee Whorf Papers (1979).
+It is published here with the permission of Yale University Library
+Manuscripts and Archives. The footnotes that follow are Lee’s
+annotations.
+
+1. The “Yale Report” is probably as important in theoretical and
+historical terms as the papers included in Carroll’s 1956 collection of
+Whorf’s writings entitled Language, Thought, and Reality. In reproducing
+the report I have used the more final, typed version as far as it goes
+and, with the exception of a few of the more interesting variations from
+the handwritten draft to which I have drawn attention in footnotes, have
+not attempted to make a detailed comparison of the two versions. From
+page eight I have worked from the handwritten copy, keeping to the
+format established in the typed part. In order to remain true to the
+style of the original I have not added omitted articles or altered other
+features characteristic of a draft. Where arrows into the place of
+insertion in the text indicate Whorf’s intentions regarding marginal or
+other additional comments I have included these as directed, noting the
+fact in footnotes where the passage consists of more than a word or
+phrase. These changes include transposing the penultimate and final
+sections of the report as directed by a marginal note. I have also noted
+the more interesting deletions where legible, ignoring smaller ones
+which consist of repeated words, etc.
+
+2. This part seems not to have been attempted, even in draft form, but
+see note 4 below.
+
+3. End of original typed page 1.
+
+4. In the handwritten draft there is a line across the page at this
+point and several additional sections are listed (see below) opposite
+the marginal note: “Part II The Historical Aspect”:
+
+“5. Time-Perspective as seen in one language (including both vocabulary
+and grammatical patterning) in correlation with culture.
+
+6. Adaptation of a language to New Conditions especially Cultural
+Influences
+
+a. Inventive adaptation
+
+b. Loan influences—loan words, loan translations, borrowed patterns
+
+C The Concept of Linguistic Taxonomy (This heading is circled and an
+arrow indicates that Whorf would have placed it after D).
+
+D Historical Comparative Linguistics
+
+1. Reconstructive Linguistics
+
+Azteco (spelled Azeteo?)-Tanoan
+
+2. Linguistic Map of North America
+
+3. Notes on theories of belts, areas, and substrata”
+
+Although materials relating to some of these sections may be found in
+the Whorf and Trager archival collections, the sections seem not to have
+been written, probably, I would hazard a guess, because of Trager’s lack
+of involvement in what report writing was done and also the apparent
+abandonment of the report itself as an activity which might be
+fruitfully completed.
+
+5. Names reversed in handwritten version.
+
+6. “Doctors” added to typed version.
+
+7. “his constant” omitted in typed version.
+
+8. End of original typed page 2.
+
+9. “(e.g. off-glide i in ai, ei, oi as diphthongal unit phonemes),” in
+original omitted.
+
+10. End of original typed page 3.
+
+11. With respect to Whorf’s rendering of Hopi words I have tried to
+reproduce the originals as closely as possible.
+
+12. End of original typed page 4.
+
+13. End of original typed page 5.
+
+14. End of original typed page 6.
+
+15. “(where ‘running’ is not long durative)” in margin of draft. P7 ends
+at end of this sentence.
+
+16. End of original typed page 8.
+
+17. “runs” underlined in draft.
+
+18. These two longer glosses of ‘pay’ are transposed in the draft. A
+marginal note not included in the typed version adds: “or in still
+different words ‘suddenly now and all over’ or ‘in process of being for
+the moment’”.
+
+19. In the draft this reads: “as the head (qötö), hole (höci), or mound
+(como) of a region.”
+
+20. End of original typed page 9. Whorf included a slash mark and noted
+“10” in the draft at this point which is several lines into handwritten
+page 8.
+
+21. Whorf differentiated between examples and the rest of his text by
+printing them rather than writing them in cursive script. I will
+continue to underline these words as he did in the typed part of the
+report.
+
+22. This sentence is encircled in the original.
+
+23. Written then deleted in original. An arrow through the text
+indicated that Whorf wanted to bring this sentence and the next three up
+to this point in the text from further down.
+
+24. An arrow moves this sentence below the previous section.
+
+25. End of original handwritten page 8.
+
+26. End of original handwritten page 9.
+
+27. Article written then deleted in original. A marginal note at this
+point reads “above the term “ethnolinguistics” is suggested for this
+type of study.”
+
+28. End of handwritten page 10.
+
+29. Marginal note: “refer to in d” at this point.
+
+30. “and” deleted.
+
+31. “for” deleted.
+
+32. “need not” deleted.
+
+33. The remainder of this section is written as a marginal note with an
+arrow to indicate point of insertion in the text.
+
+34. “tell” deleted.
+
+35. Space left in original.
+
+36. End of original handwritten page 11.
+
+37. This sentence was written as a marginal note.
+
+38. “[indecipherable word] vogue” deleted. This sentence was added
+later.
+
+39. “and organizations [indecipherable word]” deleted.
+
+40. “internal processes with machines too much scamped (?) over”
+deleted.
+
+41. “or ‘exhilarator’” deleted.
+
+42. End of original handwritten page 12.
+
+43. “Quasi-” inserted above “Semi-”.
+
+44. End of original handwritten page 13.
+
+45. Underlining of “pronoun” deleted.
+
+46. “another’s apparent” deleted.
+
+47. “only perhaps” deleted.
+
+48. “and only then” deleted.
+
+49. End of handwritten page 14.
+
+50. “distinguished” deleted.
+
+51. “somewhat” deleted.
+
+52. “or inner form” deleted.
+
+53. Whorf’s square brackets.
+
+54. Marginal notes at this point:
+
+“c. understanding of symbolism
+
+d. correct recognition of immaterial values of a culture
+
+e. ideas never independently lexified”
+
+55. The original sentence includes a number of deletions (underlined) as
+follows: “[ . . . ] as they [indecipherable] all that is proud, fiery,
+and warlike (“aristocratic” inserted above), they are thought of
+somewhat as like battle flags, martial crests or spearheads
+[indecipherable].”
+
+56. Marginal sentence with arrow showing point of insertion in text.
+
+57. Following the marginal note: “interchange d. and e.” at this point I
+have transposed the content of the original sections d. and e. The
+original unnumbered page between 14 and 15 ends seven lines from this
+point with the words “inner realizations and inner” from what is now
+section e. below. The original page 15 starts with the words “states are
+not important” and ends with the words “never lexated independently”
+from original section e. which is now section d. The final page
+(numbered 16 although it is the 17th page) begins with “i.e. have no
+lexemic sign” and finishes with a place for the authors’ signatures.
+
+58. This sentence inserted later.
+
+59. “all the” deleted.
+
+60. “with Hopian metaphysics also involved” deleted.
+
+61. “it might perhaps be supposed from” deleted.
+
+62. “[indecipherable] extensively studied the language knows it
+[indecipherable] is almost the reverse that is true” deleted.
+
+63. “minds” deleted.
+
+64. Following a space, provision was made for signatures as follows:
+
+“Date              Signatures”

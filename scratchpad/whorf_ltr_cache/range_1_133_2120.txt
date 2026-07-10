@@ -1,0 +1,1987 @@
+Foreword
+
+Stephen C. Levinson
+
+Whorf’s Claims and Their Reception
+
+This little book has had an extraordinary career.¹ Initially admired,
+then reviled, then rehabilitated, then once again attacked, it has
+proved unsinkable. This is all the more surprising given the contents: a
+handful of rather dated papers on Amerindian linguistics, a couple on
+ancient Mesoamerican writing systems (also now dated), four papers for a
+general audience about language differences, and some unfinished
+manuscripts found among the papers of the author after his premature
+death. This is not the kind of material that one would have expected to
+inflame the passions or rouse phlegmatic scholars of linguistics and
+psychology from their detailed and meticulous pursuits. How surprising,
+then, that Pinker (1994, 57) announces, “But it is wrong, all wrong,” or
+that Deutscher (2010, 21) calls Whorf “that most notorious of con men.”
+(For the other side of the story, see Lucy 1992a; Lee 1996, 2000.)
+
+Why has this book caused such a row, a flaming controversy that
+continues over a half century later? One reason is that the ideas
+sketched in the book suggest that the structuring of particular
+languages is altogether too interesting to be left to the plodding
+philologists, and specifically that the implicit patterning in languages
+might have something to do with how we think, whatever the psychologists
+tell us. Simple exposure to this message has turned on generation after
+generation of students; suddenly the arbitrary rules and conventional
+clothing of languages seem to have a new significance. Over a beer, many
+eminent researchers in the language sciences will confess that they were
+first drawn into the study of language through the ideas associated with
+Benjamin Lee Whorf. In short, a seductive, revolutionary set of ideas is
+buried in these pages, and they are in a form that permits enough
+latitude of interpretation to rekindle the flames of controversy at any
+point.
+
+Before we proceed, something should be said about how the book came
+about. Whorf’s combined career, as businessman and linguist, is outlined
+in the introduction by John B. Carroll. Whorf had died in 1941 at
+forty-four. A dozen years earlier, when just a boy, Carroll had fallen
+under Whorf’s spell, meeting him in the library where Whorf liked to
+work (Lee 1996, 8). When, after World War II, a number of conferences
+met to discuss ideas at the intersection of psychology and language—and
+thus inevitably Whorf’s own ideas—the need for such a volume became
+apparent, and Carroll, now a psychologist, was the natural editor. Whorf
+published some thirty papers in his lifetime, many of which were
+concerned with ancient Mesoamerica, including one of the first works
+(Whorf 1933, not republished here) to argue systematically for the
+phonetic character of the ancient Mayan script.² Whorf’s published
+oeuvre on the topical ideas about the connections between linguistics
+and psychology, including four popular papers, was thus relatively
+slight, and Carroll supplemented it with unpublished material (see Lee
+1996 for supplementary information, including what Lee calls the Yale
+Report, an important manuscript that clarifies Whorf’s position on many
+counts and is included in this second edition of his writings). The book
+we have consists of the fragments from the pen of a part-time academic
+whose life was cut tragically short. The fragments span some fourteen
+years, during the middle of which his work became much more
+sophisticated through personal contact with Edward Sapir, and the ideas
+are therefore not entirely consistent from beginning to end. This
+hampers both sympathetic exegesis and determined condemnation, since it
+is often possible to find an exclusion clause on the other side of the
+argument.
+
+Apart from the fragmentary picture presented by the papers reprinted
+here, our reading of Whorf is hindered not only because we inhabit a
+distant intellectual clime but also because Whorf was not a
+characteristic child of his times. For example, the psychology of the
+time was heavily behavioristic (as was Leonard Bloomfield’s linguistics,
+the leading theory of the day), and although Whorf admired Bloomfield
+and presumed the importance of conditioning (as in his emphasis on
+habitual language use and a kind of proto-connectionism he sketches), he
+drew more extensively on Gestalt psychology, as Lee (1996, 2000) shows
+in detail. Whorf, a chemical engineer by first training, was widely read
+and eclectic, and it is not easy to identify all the intellectual
+currents in his thought (for a review of the relevant contemporary
+thought, see Koerner 2002 and Levelt 2012).
+
+With these caveats, let us try to identify some of the central ideas
+surrounding the notion of “linguistic relativity” that have made this
+book so provocative. The doctrine has the following central tenets (with
+page references to the current volume):
+
+1. Thought and perception have a certain independence from language
+(207–208).
+
+2. Nevertheless some aspects of thinking are deeply interconnected with
+language and the concepts it provides (84–87).
+
+3. Some of these interconnections are backgrounded because the concepts
+are implicit in grammatical distinctions. Some grammatical concepts are
+especially covert in that they do not have direct exponents in surface
+forms. Such concepts may highlight specific percepts (e.g., number or
+shape of referents) and group them at the expense of others that may be
+prominent in other languages (116–119). They are recurrent categories
+that, given the structure of the language, we cannot fail to use
+(70–71).
+
+4. Nevertheless such grammatical concepts, especially when they are
+covert, exist beyond our conscious awareness and may influence our
+classifications and reactions (133–134, 174).
+
+5. These grammatical distinctions form an interconnecting web of
+concepts, which may represent in a partial and fragmented way (187–190)
+a particular take on the perceptual world associated with a language and
+culture.
+
+6. The ways in which languages offer different such takes make them
+invaluable correctives to our own commonsense views about the nature of
+human experience (313–314).
+
+From these premises, Whorf derives “‘the linguistic relativity
+principle,’ which means, in informal terms, that users of markedly
+different grammars are pointed by their grammars towards different types
+of observations and different evaluations of externally similar acts of
+observation” (282–283).
+
+This perspective on language has had the polarizing effect described
+earlier. It suggests that linguistic difference is fundamentally
+interesting and important; that formal difference tends to imply
+conceptual difference; that conceptual distinctions may cohere in a
+system; and that when we lose a minor language (as we are now doing at
+the rate of one a week), we lose a different protoscientific take on the
+world, something inestimably valuable.
+
+This contrasts markedly with Chomsky’s or Fodor’s view that what is
+centrally interesting about language is universal, that formal
+differences are superficial, lack conceptual resonance, and mask
+underlying conceptual uniformity. The loss of languages arguably has no
+substantial impact on the goals of linguistics, which are to unearth the
+innate, underlying machinery.
+
+These two diametrically opposed views account for much of the
+controversy surrounding this book. Is the diversity in our communication
+system, unique among animals, its essential hallmark or merely a smoke
+screen obscuring its essence (see Evans and Levinson 2009 for
+discussion)?
+
+The flames have been further fanned by a systematic misreading of Whorf
+as an extreme empiricist. Whorf’s language (“kaleidoscopic flux of
+impressions,” “flux of experience,” etc.) has suggested to many
+observers that he held that the “external world was essentially
+unstructured from the point of view of the speaker” (Lucy 1992a, 42).
+But Lee (1996, 89) shows that this is a serious misinterpretation, and
+indeed Whorf could hardly be clearer when he says that “the apprehension
+of space is given in substantially the same form by experience
+irrespective of language” (203) or “visual perception is basically the
+same for all normal persons past infancy, and conforms to definite laws”
+(209). His point was that the way in which percepts are organized
+conceptually, and thus given “meaning,” relies crucially on language.
+Whorf’s enthusiastic support for Gestalt principles shows clearly that
+he presupposed innate psychological principles (which led to muted
+reception of his ideas in the 1950s). An incomplete draft paper on
+cognitive universals unfortunately could not be completed before he died
+(Lee 1996, 220). The idea that Whorf claimed that “thought is the same
+thing as language” (Pinker 1994, 57) is not based on a careful reading
+of this book. For these reasons, Whorf never remotely subscribed to what
+has been called “the strong version” of linguistic relativity, under
+which a language exerts a wholly deterministic effect on thinking, so
+that we are all locked in the infernal grip of our languages.
+
+Part of the vituperation against Whorf is based on that crucial
+misreading. Part is also based on his analysis of Hopi, which he appeals
+to frequently in these pages as an example of a radically different
+organization of grammatical categories and their underlying
+conceptualizations, especially in the domain of time. Malotki (1983)
+published a long monograph on the temporal concepts encoded in Hopi
+grammar and lexis, in which he argued that Whorf’s claims about Hopi
+were empirically wrong in most details. Nearly every empirical scientist
+undergoes the discomfort of being proved wrong as science advances, and
+Whorf would undoubtedly have been pleased that Malotki had taken the
+trouble to get to the bottom of the facts. Whorf, it seems, was
+definitely wrong about the lack of spatial metaphors for time in Hopi
+(although we must remember that Whorf was working a half century
+earlier, when Hopi was less influenced by English). But Hopi does in
+fact use a highly unusual system of temporal reference, namely, a
+future–nonfuture tense system (Malotki 1983, 624). Now, as Lyons (1968,
+306–311) points out, it is often questionable whether a future tense is
+actually a tense as opposed to a modal marker of irrealis, especially in
+the absence of any other tense notions, and this is exactly what Whorf
+was getting at (he was completely clear that there were tenselike
+morphemes; the question hung on their proper interpretation). Many other
+of Whorf’s points were correct. The word for “day” is, Malotki (1983,
+241) admits, “quite remarkable” in being both nominal and verbal (thus,
+according to Whorf, belonging to a special word class) and co-occurs
+normally not with cardinal numbers but with ordinals, as Whorf
+suggested. Readers should thus not take either Pinker’s (1994, 63) or
+Deutscher’s (2010, 143) casual dismissals of Whorf’s claims to be well
+founded; they will find more careful treatment in the work of Lee (1991;
+1996,136–142).³
+
+Whorf was a complex, multistranded thinker, and critics who rush (often
+without reading this book) to demonize or defend him usually do so for
+ideological reasons of their own, motivated by the great divide between
+those who wish to see deep significance in the structure of the ancient
+languages we have inherited and those who view those languages as mere
+variant clothings on a universally innate conceptual structure. Readers
+would do well to approach this book from a more neutral perspective,
+bearing in mind that the final four chapters were written for a popular
+audience.
+
+Language and Thought: The Legacy
+
+As mentioned earlier, Whorf’s ideas provoked substantial discussion in
+the postwar years. Part of this discussion concerned the revival of
+ideas about “worldview” and possible correlations between language and
+culture (see Lucy 1992a, 69–95). These concerns play little role in
+debate today (though see Everett 2005 for a revival). A second strand of
+work has much more contemporary resonance, in which Whorfian ideas are
+put to experimental test. Brown and Lenneberg (1954) argued that to
+explore the relations between language and thought, the two must be
+independently assessed, and correlations demonstrated. They chose the
+color domain and showed that the ease of remembering color patches
+correlated with the ease of describing them in the language (English, in
+this case, but a follow-up study by Lenneberg and Roberts [1956]
+extended the demonstration to Zuni). Thus began a long tradition of work
+that explored language-specific coding in a domain and its effects on
+memory and recognition, to which we will return.
+
+As Lucy (1992a) and Lee (1996) pointed out, Brown and Lenneberg’s
+explorations of interrelations between language and thought do not draw
+in any detail on Whorf’s ideas, which focused on implicit categories in
+grammar. Carroll, the editor of this book, followed up directly with an
+experiment that exploited the shape specification in Navajo verbs:
+Navajo-speaking and English-speaking children on the Navajo reservation
+were tested in a triads task where shape was pitted against color, and
+yielded a result in the predicted direction (Carroll and Casagrande
+1958), although other nonlinguistic factors were also clearly at work.
+Only a thin strand of work on grammatical categories and their effects
+on cognition followed this until Lucy (1992b) systematically tested the
+effects of grammatical number in English versus Yucatec: he showed that
+true Whorfian effects could be found in memory; lack of plural coding
+correlates with failure to notice the numbers of entities.
+
+With the rise of the cognitive science movement in the late 1950s,
+interest in Whorfian ideas was more or less fully eclipsed for the
+reasons already sketched: mental life, it was argued, is built on a
+great foundation of innate cognitive machinery on which language
+difference could be expected to have only the most superficial impact.
+Our thoughts, indeed, are supposed to be couched in a universal
+mentalese (Fodor 1975). One specific study was thought to bury Whorf:
+Berlin and Kay (1969) showed that underlying the apparent “kaleidoscopic
+flux” of the color spectrum there seem to be clear universal perceptual
+attractors, which channel the possible color categories recognized by
+different languages. Actually, this study hardly engaged with Whorf’s
+position, since he recognized perceptual universals and downplayed the
+importance of lexical distinctions; but by now few were reading him
+carefully, and “Whorfianism” came to stand for an extreme empiricism and
+a view of unbounded linguistic variation that he never held. Whorf thus
+became a bogeyman and whipping boy, branded an incompetent amateur,
+mystic, or worse.⁴
+
+It was not until the 1990s that general interest revived in language
+difference and its possible effects on cognition, spearheaded by
+anthropological linguists, but running parallel with the growth of
+linguistic typology and a growing interest in mapping language
+variation. A Wenner-Gren conference in 1991 seriously reopened the
+issues (Gumperz and Levinson 1996), and Lucy’s (1992a,b) review of the
+issues and demonstration of the cognitive effects of grammatical coding
+showed the feasibility of such research, based on careful linguistic
+analysis and cross-cultural comparison. Brown and Levinson (1993) showed
+systematic effects of spatial language on memory and inference for
+spatial scenes, work that was taken seriously in psychology (Levinson
+1996). A long-running controversy began over the role of linguistic
+distinctions in spatial thinking (see Li and Gleitman 2002; Levinson et
+al. 2002; Levinson 2003a; Haun et al. 2011; Li et al. 2011).
+
+Meanwhile another strand of work was showing the impact of linguistic
+categories during child development (Bowerman 1996), as reflected in a
+broad conference in 1995 (Bowerman and Levinson 2001), in which the
+special role that language may play in connecting domains and forming
+concepts was explored from many different angles. Bowerman and Choi
+(2001), for example, summarize a series of studies showing that by as
+early as eighteen to twenty-one months, children learning English versus
+Korean become sensitive to cross-cutting spatial semantic distinctions:
+in versus on (containment versus support) for English and kkita versus
+nehta (tight fit versus loose fit) for Korean. Further work using
+nonlinguistic behavioral measures showed that while prelinguistic
+infants from both language backgrounds can discriminate between
+“tight-fit containment” and “loose-fit containment,” learners of English
+gradually lose sensitivity to this distinction, while learners of Korean
+retain it (Choi 2006; McDonough, Choi, and Mandler 2003). This suggests
+an early specialization toward the categories of the target language.
+
+This work fitted well with new considerations coming from
+psycholinguistic processing, where it was clear that online language
+production requires a regimentation of thinking in the categories
+specific to the language (Levelt 1989), so that cross-linguistic
+differences must exist in “thinking for speaking” (Slobin 1987, 1996).
+These ideas are quite close to Whorf’s, who (in an often-misunderstood
+passage [272–274]) emphasized the “obligatory” nature of grammatical
+coding, a point also made by Boas and others. Whorf went on to predict
+that we should be able to identify different patterns of gesturing
+according to the online categories required (198). We now know that
+different gestural patterns indeed correspond to the grammatical
+distinctions made in languages (Kita and Özyürek 2003). One theoretical
+argument also suggests that these language differences must have more
+than temporary, online effects during speaking; language use is our most
+practiced skill, and long-term repercussions are bound to arise from the
+need to code experience in language-specific ways (Levinson 1997,
+2003b).
+
+These developments served to reopen the discussion of possible relations
+between languages and thinking in productive ways. The subsequent
+strands of work are ongoing. One strand has focused on lexical
+difference, and in particular on color (Davidoff, Davies, and Robeson
+1999). Careful work has shown that speakers of languages that make
+different color distinctions perceptually warp the color space (Winawer
+et al. 2007), owing to participation of the left hemisphere of the
+brain, where language circuitry is predominant (Gilbert et al. 2005;
+Regier and Kay 2009). Further, this left-hemisphere effect kicks in only
+when infants acquire the relevant linguistic terms (Franklin et al.
+2008). Such work makes clear that even if language diversity is
+constrained by universal factors, the available differences are
+sufficient to generate cognitive diversity.
+
+Color categories make a remarkable parallel with the findings from sound
+systems. Here it is uncontroversial that learning a language changes
+one’s perceptual sensitivities in early childhood, so that it becomes
+increasingly hard to discriminate alien sound distinctions crucial to
+another language (Kuhl 2004). Whorf, the inventor of the concept of the
+allophone, was keenly aware of the relativity of speech sounds both
+across languages and within languages (Lee 1996, 46; 2000, 50), but as
+we saw, he insisted on a language-independent raw perception and so
+refrained from making the analogy between speech sounds and conceptual
+categories.
+
+The effects of language on cognition have now been reported from many
+different domains, as we have partially reviewed, including space and
+motion, time, number (both grammatical and lexical), gender, mass/count
+distinctions, color, and so forth (Boroditsky 2003; Wolff and Holmes
+2010; Gentner and Goldin-Meadow 2003), although the interpretations are
+by no means undisputed (Gleitman and Papafragou 2005).
+
+Still, Whorf might be disappointed that so much of the work on the
+relation of language to cognition has focused on lexical coding. He was
+more interested in the grammatical coding of concepts because he felt
+that it was especially here that the unseen hand of language could
+direct our thoughts, and because in this domain a single set of
+distinctions (as in gender, number, tense) might recur in different
+parts of the linguistic system. Here research remains relatively slight
+to this day (see though Bowerman 1982 on un-prefixation in English child
+language). The idea of covert categories with grammatical “reactances”
+is also little explored, although research with some resonance to
+Whorf’s ideas can be found in studies of the lexicon. For example,
+detailed work on the grammar of verbs reveals covert semantic
+distinctions at work (Levin and Rappaport Hovav 2005), and large-scale
+structures in the lexicon appear to show underlying implicit semantic
+oppositions that recur in different parts of the language (Levinson and
+Burenhult 2009).
+
+Whorf’s papers for general audiences had the specific aim of opening
+readers’ eyes to the wonders of alien tongues (cf. Evans 2010). Whorf
+believed passionately in the virtues of linguistic diversity for what it
+can teach us about the limitations of our selves. He would have deplored
+the accelerating loss of languages and been a powerful advocate for the
+documentation of endangered languages, now more urgent than ever.
+
+A Note on the Second Edition
+
+This book reissues all the Whorf papers of the first edition, the text
+of which has been rekeyed, the artwork rescanned, and the pages reset
+with a new interior design and new cover. It also includes the original
+introduction by John B. Carroll, which incorporates the core
+biographical details about Whorf’s life used as a starting point by most
+later commentators. In addition, this edition also contains the “Yale
+Report,” authored solely by Whorf, although George Trager, whose name
+appears as coauthor, was probably intended to revise it. Lee (1996, 130)
+argues that this report is a central document in Whorf’s mature oeuvre,
+even though it exists only in semi-draft form; her edited version of the
+manuscript first appeared in Lee 1996, 251–276. We thank Yale Library
+Manuscripts and Archives and John Benjamins Publishing Company for
+permission to reprint it here. Penny Lee also provided key words for the
+indexes, the first edition having none, and took responsibility for the
+expanded and updated list of publications relevant to Whorf and his
+ideas selected from bibliographic searches by Karin Kastens at the MPI
+for Psycholinguistics. She would like to extend her very sincere thanks
+to E. F. Konrad Koerner and John E. Joseph for their much-valued and
+timely assistance with the name index (which would have been a much
+sketchier thing without the depth and detail of their historical
+knowledge) and, more importantly, for their support and consistent
+interest over some fifteen years in the possibility of a new edition of
+Whorf’s writings.
+
+1. This foreword replaces the original by Stuart Chase, whom Whorf
+viewed as a dubious champion (Lee 1996, 16). I am grateful for
+suggestions from colleagues, especially Penelope Brown, Melissa
+Bowerman, Mark Dingemanse, Nick Enfield, Penny Lee, and Pim Levelt.
+
+2. Whorf was wrong about many details, but as Tozzer put it in the
+introduction to the monograph, “With great acumen and courage Whorf
+dares to re-open the phonetic question” against the received view of the
+time (Danien and Sharer 1992, 35). Moreover, “his assumption that Maya
+writing recorded a Mayan language proved to be crucial to decipherment”
+(Sharer and Traxler 2006, 141).
+
+3. Internal evidence makes it clear that, while accusing Whorf of
+unscholarly behavior (Pinker 1994, 63; Deutscher 2010, 142), neither
+Pinker nor Deutscher has actually read this book with any care.
+Deutscher (2010, 142), for example, claims that Whorf never visited the
+Hopi, whereas Carroll in his introduction (this vol., 21) makes it clear
+that he did; and Pinker (1994, 60–61) wrongly attributes some of Whorf’s
+examples to Apache, pointing out that Whorf “did not actually study any
+Apaches; it is not clear he ever met one” (the examples at the bottom of
+Pinker’s p. 60, in fact, come from Nootka [302, 310] and Shawnee
+[215–216, 267]). Detractors like Pinker often remark on Whorf’s amateur
+status, but amateurism is not the right gloss for a man who published
+three or more scholarly papers a year, often in the top journals of his
+profession, taught at Yale, enjoyed the regard of the leading scholars
+of his day, and contributed enduring terminology to the discipline. Like
+Darwin, Whorf simply preferred the comfort and independence of his own
+means.
+
+4. “No one is really sure how Whorf came up with his outlandish claims,
+but his limited, badly analyzed sample of Hopi speech and his long-time
+leanings toward mysticism must have contributed” (Pinker 1994, 63).
+
+References
+
+Berlin, B., and P. Kay. 1969. Basic Color Terms: Their Universality and
+Evolution. Berkeley: University of California Press.
+
+Boroditsky, L. 2003. Linguistic relativity. In Encyclopedia of Cognitive
+Science, ed. L. Nadel, 917–921. London: Macmillan.
+
+Bowerman, M. 1982. Reorganizational processes in lexical and syntactic
+development. In Language Acquisition: The State of the Art, ed. E.
+Wanner and L. R. Gleitman, 320–346. Cambridge: Cambridge University
+Press.
+
+Bowerman, M. 1996. The origins of children’s spatial semantic
+categories: Cognitive versus linguistic determinants. In Rethinking
+Linguistic Relativity, ed. J. J. Gumperz and S. C. Levinson, 145–176.
+Cambridge: Cambridge University Press.
+
+Bowerman, M., and S. Choi. 2001. Shaping meanings for language:
+Universal and language specific in the acquisition of spatial semantic
+categories. In Language Acquisition and Conceptual Development, ed. M.
+Bowerman and S. C. Levinson, 475–511. Cambridge: Cambridge University
+Press.
+
+Bowerman, M., and S. C. Levinson (eds.). 2001. Language Acquisition and
+Conceptual Development. Cambridge: Cambridge University Press.
+
+Brown, P., and S. C. Levinson. 1993. Explorations in Mayan cognition.
+Working Paper 24, Cognitive Anthropology Research Group, Max Planck
+Institute for Psycholinguistics, Nijmegen, Netherlands.
+
+Brown, R., and E. H. Lenneberg. 1954. A study in language and cognition.
+Journal of Abnormal and Social Psychology 49:454–462.
+
+Carroll, J., and J. Casagrande. 1958. The function of language
+classifications in behavior. In Readings in Social Psychology, ed. E.
+Maccoby, T. Newcomb, and E. Hartley, 18–31. New York: Henry Holt.
+
+Choi, S. 2006. Influence of language-specific input on spatial
+cognition: Categories of containment. First Language 26:207–232.
+
+Danien, E., and R. Sharer. 1992. New Theories on the Ancient Maya.
+Philadelphia: University Museum.
+
+Davidoff, J., I. Davies, and D. Robeson. 1999. Colour categories in a
+stone-age tribe. Nature 398:203–204.
+
+Deutscher, G. 2010. Through the Language Glass. New York: Metropolitan
+Books.
+
+Evans, N. 2010. Dying Words: Endangered Languages and What They Have to
+Tell Us. New York: Wiley-Blackwell.
+
+Evans, N., and S. C. Levinson. 2009. The myth of language universals:
+Language diversity and its importance for cognitive science. Behavioral
+and Brain Sciences 32 (5):429–492.
+
+Everett, D. 2005. Cultural constraints on grammar and cognition in
+Pirahã. Current Anthropology 46:621–646.
+
+Fodor, J. A. 1975. The Language of Thought. New York: Crowell.
+
+Franklin, A., G. Drivonikou, A. Clifford, P. Kay, T. Regier, and I.
+Davies. 2008. Lateralization of categorical perception of color changes
+with color term acquisition. Proceedings of the National Academy of
+Sciences of the United States of America 105:18221–18225.
+
+Gentner, D., and S. Goldin-Meadow, eds. 2003. Language in Mind: Advances
+in the Study of Language and Cognition. Cambridge, MA: MIT Press.
+
+Gilbert, A., T. Regier, P. Kay, and R. Ivry. 2005. Whorf hypothesis is
+supported in the right visual field but not the left. Proceedings of the
+National Academy of Sciences of the United States of America
+103:489–494.
+
+Gleitman, L., and A. Papafragou. 2005. Language and thought. In The
+Cambridge Handbook of Thinking and Reasoning, ed. K. Holyoak and B.
+Morrison, 633–661. Cambridge: Cambridge University Press.
+
+Gumperz, J. J., and S. C. Levinson, eds. 1996. Rethinking Linguistic
+Relativity. Cambridge: Cambridge University Press.
+
+Haun, D. B. M., C. Rapold, G. Janzen, and S. C. Levinson. 2011.
+Plasticity of human spatial cognition: Spatial language and cognition
+covary across cultures. Cognition 119:70–80.
+
+Kita, S., and A. Özyürek. 2003. What does cross-linguistic variation in
+semantic coordination of speech and gesture reveal? Evidence for an
+interface representation of spatial thinking and speaking. Journal of
+Memory and Language 48 (1):16–32.
+
+Koerner, E. F. K. 2002. Toward a History of American Linguistics.
+Routledge Studies in the History of Linguistics. London: Routledge.
+
+Kuhl, P. 2004. Early language acquisition: Cracking the speech code.
+Nature Neuroscience Reviews 5:832–843.
+
+Lee, P. 1991. Whorf’s Hopi tensors: Subtle articulators in the
+language/thought nexus? Cognitive Linguistics 2 (2):123–147.
+
+Lee, P. 1996. The Whorf Theory Complex: A Critical Reconstruction.
+Amsterdam: Benjamins.
+
+Lee, P. 2000. When is linguistic relativity Whorf’s linguistic
+relativity? In Explorations in Linguistic Relativity, ed. M. Pütz and M.
+J. Verspoor, 45–68. Amsterdam: Benjamins.
+
+Lenneberg, E. H., and J. Roberts. 1956. The language of experience: A
+study in methodology. Memoir 13 of International Journal of American
+Linguistics (suppl. to vol. 22).
+
+Levelt, W. J. M. 1989. Speaking: From Intention to Articulation.
+Cambridge, MA: MIT Press.
+
+Levelt, W. J. M. 2012. Historical Roots of Psycholinguistics. Oxford:
+Oxford University Press.
+
+Levin, B., and M. Rappaport Hovav. 2005. Argument Realization. Research
+Surveys in Linguistics Series. Cambridge: Cambridge University Press.
+
+Levinson, S. C. 1996. Frames of reference and Molyneux’s question:
+Cross-linguistic evidence. In Language and Space, ed. P. Bloom, M.
+Peterson, L. Nadel, and M. Garrett, 109–169. Cambridge, MA: MIT Press.
+
+Levinson, S. C. 1997. Language and cognition: The cognitive consequences
+of spatial description in Guugu Yimithirr. Journal of Linguistic
+Anthropology 7 (1):98–131.
+
+Levinson, S. C. 2003a. Language and cognition: Linguistic relativity in
+modern perspective. In International Encyclopedia of Linguistics, 2nd
+ed., ed. W. Frawley, 459–463. Oxford: Oxford University Press.
+
+Levinson, S. C. 2003b. Language and mind: Let’s get the issues straight!
+In Language in Mind: Advances in the Study of Language and Cognition,
+ed. D. Gentner and S. Goldin-Meadow, 25–46. Cambridge, MA: MIT Press.
+
+Levinson, S. C., and N. Burenhult. 2009. Semplates: A new concept in
+lexical semantics? Language 85:153–174.
+
+Levinson, S. C., S. Kita, D. B. M. Haun, and B. H. Rasch. 2002.
+Returning the tables: Language affects spatial reasoning. Cognition 84
+(2):155–188.
+
+Li, P., L. Abarbanell, L. Gleitman, and A. Papafragou. 2011. Spatial
+reasoning in Tenejapan Mayans. Cognition 120:33–53.
+
+Li, P., and L. Gleitman. 2002. Turning the tables: Language and spatial
+reasoning. Cognition 83:265–294.
+
+Lucy, J. 1992a. Language Diversity and Thought: A Reformulation of the
+Linguistic Relativity Hypothesis. Cambridge: Cambridge University Press.
+
+Lucy, J. 1992b. Grammatical Categories and Cognition: A Case Study of
+the Linguistic Relativity Hypothesis. Cambridge: Cambridge University
+Press.
+
+Lyons, J. 1968. Introduction to Theoretical Linguistics. Cambridge:
+Cambridge University Press.
+
+Malotki, E. 1983. Hopi Time: A Linguistic Analysis of the Temporal
+Categories in the Hopi Language. Berlin: Mouton.
+
+McDonough, L., S. Choi, and J. M. Mandler. 2003. Understanding spatial
+relations: Flexible infants, lexical adults. Cognitive Psychology
+46:229–259.
+
+Pinker, S. 1994. The Language Instinct. New York: William Morrow.
+
+Regier, T., and P. Kay. 2009. Language, thought, and color: Whorf was
+half right. Trends in Cognitive Sciences 13:439–446.
+
+Sharer, R., and L. Traxler. 2006. History and Maya Civilization.
+Stanford, CA: Stanford University Press.
+
+Slobin, D. I. 1987. Thinking for speaking. In Proceedings of the
+Thirteenth Annual Meeting of the Berkeley Linguistics Society, 435–444.
+
+Slobin, D. 1996. From “thought and language” to “thinking for speaking.”
+In Rethinking Linguistic Relativity, ed. J. J. Gumperz and S. C.
+Levinson, 70–96. Cambridge: Cambridge University Press.
+
+Whorf, B. 1933. The Phonetic Value of Certain Characters in Maya
+Writing. Papers of the Peabody Museum 13 (2). Cambridge, MA: Harvard
+University Press.
+
+Winawer, J., N. Witthoft, M. C. Frank, L. Wu, A. R. Wade, and L.
+Boroditsky. 2007. Russian blues reveal effects of language on color
+discrimination. Proceedings of the National Academy of Sciences of the
+United States of America 104 (19):7780–7785.
+
+Wolff, P., and K. J. Holmes. 2010. Linguistic relativity. Wiley
+Interdisciplinary Reviews: Cognitive Science. DOI 10.1002/wcs.104.
+
+Introduction
+
+John B. Carroll
+
+I
+
+The career of Benjamin Lee Whorf might, on the one hand, be described as
+that of a businessman of specialized talents—one of those individuals
+who by the application of out-of-the-ordinary training and knowledge
+together with devotion and insight can be so useful to any kind of
+business organization. On the other hand, his career could be described
+as that of an unusually competent and diligent research worker in
+several otherwise almost completely neglected fields of inquiry—the
+study of the lost writing system of the Mayas and the study of the
+languages of the Aztecs of Mexico and the Hopis of Arizona. Neither
+description, of itself, would mark him as a particularly engaging
+subject for biographical treatment. When it is realized, however, that
+he combined both these careers, achieving recognition in his business
+activities at the very same time that he advanced to high eminence in
+scholarly work—without even having undergone the usual preliminaries of
+formal academic study signalized by an advanced degree—and in addition
+injected into contemporary discussions on the study of man and his
+culture a challenging set of hypotheses concerning the relation of
+language to thinking and cognition, his biography becomes a matter of
+more than passing interest.
+
+He was born in Winthrop, Massachusetts, on April 24, 1897, the son of
+Harry Church and Sarah Edna (Lee) Whorf. He was a scion of an old
+American stock, his ancestors having come from England to settle in
+Provincetown and other parts of the Bay Colony soon after the landing of
+the Pilgrims. In England, the Whorf name had been found most frequently
+in West Riding, in Yorkshire, and there may be some obscure connection
+with the name of the Wharfe River in that locality.
+
+Benjamin was very much the child of his father, as were also his two
+younger brothers, each in his own way. Benjamin was the “intellectual,”
+the more bookish and idea-centered. John, born in 1903, became a
+well-known artist, particularly noted for his watercolors. Richard, born
+in 1906, has distinguished himself as an actor and director on the
+legitimate stage and in motion pictures.
+
+Intellectual, artist, dramatist—the father was all three. After a brief
+career as a rather indifferent student at Massachusetts Institute of
+Technology (it is said that he did not care to apply himself to his
+engineering studies), Harry Church Whorf drifted into commercial art, or
+what he liked to call “designing,” an occupation which drew upon his
+talents in draftsmanship as well as his fertile imagination. In this
+work he was very successful. Among his productions which survive even
+today is the chain of little Dutch girls which encircles each tin of a
+well-known brand of cleansing powder. He made himself a master of the
+then rapidly developing art of photolithography. But he was not content
+to remain within the confines of his occupation. He lent his artistic
+talents to numerous enterprises, stage designing being the foremost of
+these. He also wrote and directed plays for church groups and charitable
+organizations, and he wrote the libretto for Bobby Shaftoe, a musical
+comedy which was once given a performance in Boston. He enjoyed giving
+illustrated lectures on various subjects, and apparently had a knack of
+pleasing an audience. At the time of his death in 1934, he was at work
+on a manuscript concerning the Massachusetts littoral—its geology,
+history, fauna and flora, and so forth.
+
+Even before the birth of their first child, Harry Whorf and his wife had
+taken up residence in a modest house in Winthrop, a residential suburb
+situated on a peninsula which flanks Boston harbor on the north. With
+the collections of drawings, books, manuscripts, chemicals, photographic
+equipment, and odds and ends which the father had accumulated, the house
+provided a stimulating environment for three abnormally curious and
+inquisitive boys, all endowed with talents with which to take advantage
+of it. Like his brothers after him, Benjamin early acquired some
+considerable skill in drawing, but the chemicals, dyes, and photographic
+apparatus intrigued him most. He loved to perform such experiments as
+the one in which liquids of various colors are made to form different
+layers in a single vessel. It may have been his early experiences with
+chemicals which led Benjamin later to choose to study chemical
+engineering at the Massachusetts Institute of Technology.
+
+He went to the public schools of Winthrop, through the high school,
+where we are told he did well. We are further told that he developed his
+powers of concentration at this time—even to the extent of apparent
+absentmindedness. Once, on being sent to the cellar to fill the coal
+hod, he brought it, filled, all the way back to his room rather than to
+its place beside the kitchen stove. (Later in his life, friends
+occasionally complained that he passed them on the street without even a
+sign of recognition.) While not especially strong, he had sufficient
+confidence in his physical prowess to protect his younger brothers from
+neighborhood bullies. Particularly with John, who was six years his
+junior, he liked to play intellectual games. A favorite was the game of
+secret codes; Benjamin could nearly always solve even the most complex
+ciphers his brother could devise. In the meantime, while alone, Benjamin
+read voraciously and amused himself with composing humorous verse.
+
+After graduation from Winthrop High School in 1914, he entered the
+Massachusetts Institute of Technology, majoring in chemical engineering
+(Course X). His academic performance there appears to have been of only
+average quality; his record shows no marks in the highest category (H,
+corresponding to what is now ordinarily called A), even in English
+composition or in French. This is, of course, a commentary on the
+precarious relationship which exists between performance rated in
+college and performance in later life. In the fall term of his senior
+year, a mysterious illness acquired in an ROTC summer camp forced Whorf
+to be absent from classes; the necessity of making up deficiencies the
+following summer delayed his obtaining the degree of Bachelor of Science
+in Chemical Engineering until October 1918.
+
+We do not know what sort of professional career Whorf planned for
+himself while a student at M.I.T. Most probably, he hoped to find
+employment as an engineer in some type of chemical production plant or
+factory. His professional career was to prove most unusual, for he
+emerged as a specialist in a line of work which, as he once complained
+in a letter to his M.I.T. alumni organization, was at the time hardly
+recognized as a distinct field of engineering even by his alma mater. In
+1919, not long after his graduation from M.I.T., he was selected as a
+trainee in fire prevention engineering by the company which employed him
+for twenty-two years, up to the time of his death. According to an
+account prepared by C. S. Kremer, Chairman of the Board, Hartford Fire
+Insurance Company, “he was selected by an officer of the company, Mr. F.
+C. Moore, who was himself an M.I.T. graduate and had charge of the
+underwriting and handling of the insurance on buildings equipped with
+automatic sprinklers.” After graduating from the company school which
+Mr. Moore conducted for fire prevention engineers, Whorf was assigned to
+the home office of the company, in Hartford, to assist in fire
+prevention inspection of properties insured by the company in the
+northeastern part of the country. The company was starting to develop
+what was then a new idea in the business, namely, fire-prevention
+engineering inspections as a service to the property owner and policy
+holder. In this work, which necessitated constant travel, he became
+extremely skillful. “In no time at all,” writes Kremer, “he became in my
+opinion as thorough and fast a fire prevention inspector as there ever
+has been. . . . He was intensely practical and taught what he knew as
+facts to engineers and skillful men in various manufacturing
+businesses.” He specialized more and more in the inspection of plants
+which utilized chemical processes in manufacturing.
+
+On one occasion while inspecting a chemical plant he was refused
+admission to a certain building on the ground that it housed a secret
+process. Even the head of the plant, to whom he was referred, insisted
+that no outsider could inspect this building. Whorf said, “You are
+making such-and-such a product?” The answer was “Yes,” whereupon Whorf
+picked up a pad, quickly wrote down a chemical formula, and handed it to
+the head of the plant, saying, “I think this is what you are doing.” The
+surprised manufacturer replied, “How in the world did you know, Mr.
+Whorf?”, to which Whorf answered calmly, “You couldn’t do it in any
+other way.” Needless to say, he was admitted to the building which
+contained the secret process.
+
+He was so much respected among chemical manufacturers that his advice
+was eagerly sought. In an inspection of a very complicated chemical
+plant in Connecticut, he suggested to the management that a certain
+process be abandoned until it could be made safer, and indicated how
+this could be done. Some time later, after the suggested improvements
+had been made, the management delayed starting the process for several
+days until Whorf could return to the plant and approve going ahead.
+
+He was admired not only for his technical skill but also, strange as it
+may seem to anyone who may know only Whorf’s linguistic work, for his
+ability to attract business for his company. He was once asked to make a
+fire prevention inspection of some public schools on which the company
+had only a trifling amount of business. The recommendations which he
+submitted so impressed the school board that they decided to appoint
+Whorf’s company as the manager of their insurance account, quite to the
+surprise of the local agent, who had found this particular school board
+difficult to approach.
+
+The value put on Whorf’s services by his employer was signalized by his
+appointment in 1928 as Special Agent, and by his election in 1940 as
+Assistant Secretary of his company. It may have been that the company
+was proud of his accomplishments in linguistics and anthropology, and we
+know that it was liberal in granting him occasional leaves to carry on
+these activities,¹ but he was valued primarily for his actual services
+to his employer, which must have been of a high order, far beyond the
+ordinary. It is truly remarkable that he was able to achieve distinction
+in two entirely separate kinds of work. During certain periods of his
+life, his scholarly output was enough to equal that of many a full-time
+research professor; yet he must have been at the same time spending some
+eight hours every working day in his business pursuits. His friends
+often speculated on why he chose to remain in his occupation. Although
+several offers of academic or scholarly research positions were made to
+him during the latter years of his life, he consistently refused them,
+saying that his business situation afforded him a more comfortable
+living and a freer opportunity to develop his intellectual interests in
+his own way.
+
+As if his insurance work, his linguistic studies, and his extensive
+reading were not enough to occupy him, he found time for certain
+community activities, such as serving on a fire prevention committee of
+the Hartford Chamber of Commerce. From about 1928 on, he became
+increasingly popular as a lecturer before men’s clubs, historical
+societies, and the like.²
+
+In 1920 he married Celia Inez Peckham, by whom he had three children,
+Raymond Ben, Robert Peckham, and Celia Lee. In somewhat the same way
+that his father had done for him, he was able to arouse in his children,
+as if by magnetic induction, something like his delightful curiosity and
+his unhesitating imagination.
+
+By his own account, Whorf did not become interested in linguistics until
+1924, but one can trace a distinct succession of intellectual
+enthusiasms which led him to this. Even as a boy, along with his
+preoccupation with chemistry experiments, he was an avid reader. He
+became interested in Middle American prehistory through reading (several
+times, we are told) Prescott’s Conquest of Mexico. On one occasion his
+father was engaged in doing the stage designs for a play which he had
+written about a Maya princess, and in this connection assembled all
+manner of books about Maya archaeology. Young Ben was intrigued with the
+resulting display of stage designs, which doubtless portrayed ornate
+façades of Maya temples, and he may have begun to wonder about the
+meaning of Maya hieroglyphs. The interest in secret ciphers, mentioned
+earlier, may have reinforced this curiosity, but, if so, it lay dormant
+until a somewhat later period. Instead, he began to spend a good deal of
+time on a variety of scientific topics. He became interested in botany,
+and learned the English and Latin names for thousands of plants and
+trees. (This was a lasting interest; on his trip to Mexico in 1930 he
+took copious notes on Mexican flora, and as late as 1936 we find him
+filling several pages of one of his linguistic notebooks with a “quiz”
+on botanical terminology and curiosities.) As if to contrast with this,
+he was for a time intensely interested in astrology and amused himself
+with casting horoscopes for his friends. At some time in his adolescence
+he began to manifest what might seem an almost pathological graphomania,
+for at the age of 17 he began to keep a diary, a practice which he
+continued throughout his life. He contrived some sort of secret writing
+which he occasionally used to conceal some of the contents of his
+diaries, and which he also used to record his dreams in a series of
+“dreambooks.”
+
+Shortly after settling in Hartford, Whorf became increasingly concerned
+about the supposed conflict between science and religion. It seems that
+he had been deeply impressed by the fundamentalist shadings of his
+Methodist Episcopal religious background, which at times seemed to
+controvert the current doctrines in science. He became so deeply
+preoccupied with this issue that he wrote a 130,000-word manuscript on
+the subject, described as a book of religious philosophy in the form of
+a novel. This manuscript, completed in 1925, was submitted to several
+publishers and was promptly rejected by them, even over his protests.
+Another, briefer manuscript prepared about this time was entitled “Why I
+have discarded evolution.” An eminent geneticist to whom it was
+submitted for comment made a very courteous reply, starting with the
+admission that, although the manuscript at first appeared to be the work
+of a crank, its skill and perceptiveness soon marked it as otherwise,
+but continuing with a point-by-point rebuttal of Whorf’s arguments.
+
+In the meantime, Whorf’s reading led him to believe that the key to the
+apparent discrepancy between the Biblical and the scientific accounts of
+cosmogony and evolution might lie in a penetrating linguistic exegesis
+of the Old Testament. For this reason, in 1924 he turned his mind to the
+study of Hebrew.
+
+It may come as a surprise to some that Whorf’s interest in linguistics
+stemmed from one in religion. The reader may incidentally be reminded of
+the considerable connection which has long existed between linguistic
+and religious enterprises—the philological work represented in the
+Septuagint, in Ulfilas’s creation of the written Gothic into which he
+could translate the Bible, in the study of hundreds of non-European
+languages by missionaries in the seventeenth and eighteenth centuries,
+and in the thoroughly scientific investigations being carried out by
+contemporary linguistic missionaries. Whorf, however, was not interested
+in any translation of the Bible, at least not in any ordinary sense; he
+seriously believed that fundamental human and philosophical problems
+could be solved by taking a new sounding of the semantics of the Bible.
+Whether this conviction was independently reached by him we do not know.
+We do know that sometime during 1924 there came to his attention a book
+which could have buttressed his beliefs, and which at any rate drew him
+closer to linguistics. He himself gives testimony of this in a hitherto
+unpublished paper which appears in the present collection. This book,
+hardly known to contemporary scholars, was by a French dramatist,
+philologist, and mystic of the early nineteenth century, Antoine Fabre
+d’Olivet (1767–1825). It was entitled La langue hébraïque restituée, and
+was published in two volumes in Paris in 1815–16. Whorf most probably
+read an English translation of this scarce work published in 1921, for
+the name of the translator, Nayán Louise Redfield, appears in his
+notes.³
+
+According to the Grand dictionnaire universel du XIX^(e) siècle, Fabre
+d’Olivet died “avec le reputation d’un fou ou d’un visionnaire.” A
+rather indifferent dramatist, he retired in his later life to extensive
+philological lucubrations. In La langue hébraïque, his major work in
+this field, he attempted to show that the hidden meanings of the Book of
+Genesis could be elucidated by an analysis au fond of the structure of
+the triliteral Hebrew root. Each letter of the Hebrew alphabet,
+according to him, contained an inherent meaning; for example, the letter
+Aleph was to him “the sign of the power and stability of ideas, of unity
+and the principle which determines it.” The letter Yodh was a sign of
+“manifestation”; thus the partial root Aleph-Yodh “designates,” wrote
+Fabre d’Olivet, “the center towards which the will tends, the place
+where it enfixes itself, the sphere of activity in which it operates.”
+Since he concluded that the letter Tsadhe denoted “termination,” he was
+not surprised to find that the triliteral root Aleph-Yodh(or Waw)-Tsadhe
+meant “any desire tending toward an end.” The principle of the rootsign
+was applied to all parts of Hebrew grammar, and to the interpretation of
+several hundred Hebrew roots. The whole was offered as partly a
+linguistic study to illuminate the principles of language (he claimed
+having been hard put to choose whether Chinese, Sanskrit, or Hebrew
+would be the basis for his project), and partly as the fulfilment of his
+desire to discover the secret meaning of the cosmogony of Moses. In the
+English translation which Fabre d’Olivet himself obligingly provided,
+the first verse of the Bible comes out as follows:
+‘At-FIRST-IN-PRINCIPLE, he-created, Ælohim (he caused to be, he brought
+forth in principle, HE-the-Gods, the-Being-of-Beings),
+the-selfsameness-of-heavens, and-the-selfsameness-of-earth.’ He tosses
+off the comment that this is not a mere result of some system he has
+established on the basis of “more or less happy conjectures or
+probabilities,” but “the very language of Moses which I have interpreted
+according to its structural principles, which I have taken pains to
+develop to a satisfactory point.”
+
+Despite the dubiety of Fabre d’Olivet’s startling results, his book
+seems to have made a strong impression on Whorf, who later characterized
+him as having been “one of the most powerful linguistic intellects of
+any age.” Whorf maintained that, while the Biblical exegesis attempted
+by Fabre d’Olivet could not be taken seriously, his “root-sign” was
+really a foreshadowing of what is nowadays called the phoneme. What
+intrigued Whorf was Fabre d’Olivet’s method. For example, in arriving at
+his “meanings” of the letters of the Hebrew alphabet, Fabre d’Olivet had
+systematically compared and contrasted a wide variety of roots in which
+they occurred, much as one might attempt to obtain a “meaning” for the
+letter M in English by educing the common meaning in all English words
+beginning in M. We may permit ourselves to imagine that Fabre d’Olivet
+could have found a common element even in such opposite words as
+‘mother’ and ‘murder’! There are limits to which such a method can be
+pushed, which Fabre d’Olivet far exceeded; nevertheless, it remains true
+that such a technique of identifying isolates is in essence similar to
+the procedures of contemporary linguistics in identifying phonemes and
+morphemes. As we shall see, however, Whorf’s methods in certain spheres
+of his work closely paralleled those of Fabre d’Olivet. This is
+illustrated in his early efforts to read Maya hieroglyphs, as well as in
+some of his unpublished work on the structure of Aztec. Another and
+perhaps a more profound way in which his methods resembled Fabre
+d’Olivet’s is represented in his always bold and penetrating search for
+inner meanings. Just as Fabre d’Olivet pushed imagination to the limit
+in looking for an underlying significance in a segment of a Hebrew root,
+so Whorf persisted in the struggle to wrest from the bare linguistic
+fact its ultimate purport.
+
+The discovery of the work by Fabre d’Olivet stimulated Whorf to read
+more widely and deeply on the subject of language. He made use of the
+rich collections of the Watkinson Library, a scholarly research library
+in Hartford founded in 1857 under the provisions of the will of a
+wealthy English-born Hartford merchant who wanted the city to have a
+general library of reference. Visited chiefly by an occasional
+genealogist or art historian who sought access to its
+hundred-thousand-odd dusty volumes, the library was housed in the upper
+reaches of a fortress-like building known as the Wadsworth Atheneum,
+which also contained the Hartford Public Library and the collections of
+the Connecticut Historical Society.⁴ At least during the period that
+Whorf was in the habit of frequenting it after his business hours, its
+extreme stillness and bookish odor were conducive to deep concentration.
+Its first librarian had been James Hammond Trumbull, who was among other
+things a scholar in American Indian lore. During his service as
+librarian from 1863 to 1893, Trumbull had built up the library’s
+collections in American Indian ethnology, folklore, and language to an
+extent that would be considered unusual except for a large university
+library. This collection reawakened Whorf’s interest in Mexican
+antiquities and lore, and directed his attention especially to the Aztec
+(Nahuatl) language and, later, to Maya hieroglyphs. Just what prompted
+Whorf to study Aztec, in particular, we do not know. Conceivably he
+chanced upon an account of Nahuatl which reminded him of the ideas he
+had found in La langue hébraïque. Be that as it may, Whorf began
+studying Aztec in 1926; he probably did not work seriously on Maya until
+1928. He worked not only at the Watkinson Library, but also at any
+library he could profitably visit on his numerous business trips away
+from Hartford. He made rapid progress, and began corresponding with
+various scholars in Mexican archaeology and linguistics, including
+Herbert J. Spinden of the Brooklyn Museum and Alfred M. Tozzer of
+Harvard University. At Dr. Spinden’s suggestion he addressed himself to
+an attempt to work out a translation of a page of an old Mexican
+manuscript, a photographic reproduction of which was to be found in the
+Peabody Museum of Harvard University. The result was a paper read before
+the Twenty-Third International Congress of Americanists in September
+1928 and a corresponding first scholarly publication, “An Aztec account
+of the period of the Toltec decline” (1928),⁵ which shows an
+antiquarian’s interest in the details of Toltec history and chronology
+as well as a linguist’s pride in forcing a cranky Aztec word “to yield
+up its secret,” as Whorf himself put it. This paper, as read before the
+Congress, attracted a considerable amount of attention and publicity for
+the young insurance agent, who was hailed in newspaper reports for his
+having “unlocked mysteries” which had “baffled” other scholars. About
+the same time there was completed another Aztec translation, published
+in 1929 under the title “The reign of Huemac.”
+
+These publications were, however, only the first and easy fruits of a
+period of study in which Whorf was also delving into comparative
+linguistics, presumably without any tutoring other than the necessarily
+brief contacts he may have had with such men as Spinden and Tozzer, and,
+in addition, J. Alden Mason of the University of Pennsylvania, whom he
+met during a visit to the first Linguistic Institute, held in the summer
+of 1928. At the International Congress of Americanists, Whorf had read
+another paper besides the one on Toltec history. It attracted much less
+attention, but was closer to his true interests; entitled simply “Aztec
+linguistics,” it reported his assertion that Aztec was what he called an
+oligosynthetic language, that is, that all its words were built up out
+of a relatively few elements, perhaps as few as fifty basic monosyllabic
+roots, “each conveying a general notion capable of wide modulation
+without loss of the basic sense” (or so he wrote in the published
+abstract of the paper). On looking into whether the same roots he found
+in Aztec would show up also in languages related to Aztec, he was
+immediately gratified by the results. Toward the end of 1928 the work he
+had done on the familial relationships among Tepecano, Piman, and
+Aztec—all Mexican languages—appeared so promising to Tozzer and Spinden
+that they advised him to seek a research fellowship from the Social
+Science Research Council to enable him to obtain needed materials and
+work more intensively. Whorf countered with the proposal that he use
+such a fellowship to make a field trip to Mexico to locate old Aztec
+manuscripts for the Watkinson Library, one of the trustees of that
+library having expressed a desire to build up its collection of Aztec
+materials. Tozzer opined, however, that if he wanted to go to Mexico he
+would be better advised to investigate modern Nahuatl, a suggestion to
+which Whorf readily assented. In a letter to Mason dated December 6,
+1928, Whorf commented, in reference to the fellowship for which he was
+applying, “It is a question whether I get it, because these Fellowships
+are supposed to be for men with Ph.D. degrees, and while they sometimes
+make exceptions, these exceptions are rare and hard to get, requiring
+very good recommendations.” His application to the Social Science
+Research Council was accompanied, first, by a general statement of his
+scholarly plans, and second, by a nearly completed article entitled
+“Notes on the oligosynthetic comparison of Nahuatl and Piman, with
+special reference to Tepecano.” In the first of these documents, Whorf
+revealed himself as avowedly visionary, but he may have felt its content
+necessary to win the interest of the committee which reviewed his
+fellowship application:
+
+With the aid of this Research Fellowship if possible I plan to do and
+publish sufficient work on Mexican linguistics to make the principle of
+oligosynthesis a live topic and to interest other investigators in the
+basic substratum of language to which it belongs.
+
+After I have become better known in this way the next step will be to
+arouse interest in the phenomenon that I call binary grouping in Hebrew
+and the Semitic languages. I am of course still working on this and will
+continue right along to bring it to the attention of Semitic
+researchers.
+
+After binary grouping has also become a live topic I will begin to make
+a union between this principle and that of oligosynthesis and thereby
+reach the still deeper principle underlying the Hebrew and Semitic
+languages.
+
+The next step will be to use these principles in working out the
+primitive underlying basis of all speech behavior. This will amount to
+laying the foundations of a new science, and although this consummation
+lies some little time in the future I feel that it is quite distinctly
+in sight. Still further ahead are the possible applications of such a
+science restoring a possible original common language of the human race
+or in perfecting an ideal natural tongue constructed of the original
+psychological significance of sounds, perhaps a future common speech
+into which all our varied languages may be assimilated, or, putting it
+differently, to whose terms they may all be reduced. This may seem at
+the present time very visionary, but it would be no more remarkable than
+what science has already done in other fields when it has got hold of
+sound principles to point the way, and I believe my work is tending to
+unfold such principles. And with the ultimate development of these
+researches will come manifestation of the deeper psychological,
+symbolic, and philosophical sense contained in the cosmology of the
+Bible, the starting point and original inspiration of these studies.
+
+Oligosynthesis is explained further in the first few paragraphs of the
+second document which accompanied Whorf’s fellowship application:
+
+Oligosynthesis is a name for that type of language structure in which
+all or nearly all of the vocabulary may be reduced to a very small
+number of roots or significant elements, irrespective of whether these
+roots or elements are to be regarded as original, standing anterior to
+the language as we know it, or as never having had independent
+existence, theirs being an implicit existence as parts in words that
+were always undissociated wholes.
+
+Such a structure was recognized by the writer in the Nahuatl or Aztec
+language of Mexico, in which he has made numerous studies and the term
+oligosynthesis was thereupon proposed by him. . . . Briefly, the
+conclusions are that nearly all and probably quite all the present known
+native vocabulary of Nahuatl is derived from the varied combination and
+varied semantic development of no more than thirty-five roots, for which
+the writer prefers the name of “elements,” each of which elements stands
+for a certain general idea, including something of the surrounding field
+of related ideas into which this central idea insensibly shades off.
+These thirty-five elements (it now begins to seem very unlikely that
+their number will be increased) have been obtained by extensive
+stem-analysis and are listed . . . in the appendix of the present
+article. They explain the meaning of thousands of Nahuatl words,
+including great numbers of words learned recently, which have had the
+meaning that would be expected from their elements. Furthermore, it is
+becoming increasingly evident to me that these elements are to be
+regarded as original roots anterior and ancestral to the present
+language, and my previous view that they might be the result of
+assimilative back-formation is becoming less and less of a serious
+claimant for consideration. Obviously we have here a structure, a
+point-to-point correspondence between the path of ideation and the
+successions of lip, tongue, and glottal activities (i.e. consonants and
+vowels) that may be of great linguistic, glottogonic, and psychological
+significance.
+
+Binary grouping referred to a principle which Whorf believed to inhere
+in the structure of Hebrew roots, as may be seen in the following
+quotation from an unpublished manuscript: “A binary group is a group of
+Semitic roots having in common a certain sequence of two consonants,
+containing all the roots with this sequence in one language, and having
+these roots with but few exceptions allocated to a few certain kinds of
+meaning.”
+
+These quotations are of special interest when viewed in the light of
+Whorf’s early enthusiasm for Fabre d’Olivet. As a further note, it
+should be added that Whorf started to extend the application of the
+oligosynthetic principle to his first work with Maya, concerning which
+he read a paper before the Linguistic Society of America (of which he
+had just become a member) in December 1929, “Stem series in Maya.” In
+the abstract of this paper submitted to the program committee of the
+Linguistic Society, we find Whorf pointing out that the majority of Maya
+stems beginning QE- bear the meaning ‘turn.’ He writes further: “So
+other series, e.g. QI-, radiate, glow, burn, scatter; QO-, QU-, inward;
+BI-, move; TA-, connect; TZA-, come or bring together; MA-, pass. In
+other words, ‘ideology follows phoneticism.’”
+
+The response of the SSRC to his application for a research fellowship
+being favorable, Whorf set about making arrangements for his field trip
+to Mexico. He obtained a few weeks’ leave from his company and left for
+Mexico City with Mrs. Whorf and her mother in January 1930. En route he
+spent a few days researching in the library of the Department of Middle
+American Research at Tulane University of Louisiana. On arrival in
+Mexico City, he sought the assistance of several Mexican specialists in
+Aztec, especially Professor Mariano Rojas of the National Museum of
+Mexico. Partly with their aid, he gained access to several excellent
+informants who spoke a form of Aztec which was believed to approximate,
+as closely as one could expect over the years, the classical dialect of
+Aztec once spoken in Tenochtitlan (now Mexico City) at the time of
+Montezuma. These individuals lived in an outlying suburb in the Federal
+District, known as Milpa Alta, and it is their dialect of which Whorf
+made a detailed linguistic analysis, published posthumously in 1946 in
+Hoijer’s Linguistic structures of native America. In the meantime, Whorf
+poked around the Mexican countryside in search of suggestive
+archaeological material. In a ruined temple overlooking the village of
+Tepoztlan, where he conducted further linguistic studies, he came upon,
+apparently quite by chance, a band of sculptured figures which had
+previously escaped the close attention of scholars. His sharp
+observation and close familiarity with both Aztec and Maya graphic art
+enabled him to recognize almost immediately that these figures deviated
+from their usual forms as “day signs” of the Aztec calendar and showed
+certain resemblances to Mayan characters. This discovery of “a definite,
+clearly demonstrable rapport between Nahuatl hieroglyphs and early Maya
+ones,” as Whorf regarded it, was the basis of one of the papers
+reprinted in the present collection, “A central Mexican inscription
+combining Mexican and Maya day signs.” It furnishes an excellent example
+of Whorf’s methods of work, and is also his earliest publication
+pointing toward his later researches into Maya hieroglyphs.
+
+For several years after his return from Mexico, Whorf occupied himself
+with working up the data amassed during the Mexican sojourn. Not only
+was it necessary to sketch out the linguistic analysis of the Milpa Alta
+Nahuatl; it was also urgent to follow up the leads provided by the
+discoveries concerning Mexican and Maya day signs, which had had the
+effect of confirming or modifying certain hunches he had developed
+previously. A major series of publications concerning Maya hieroglyphs
+started about this time, first with a monograph published by the Peabody
+Museum of Harvard, “The phonetic value of certain characters in Maya
+writing” (1933) and later with an article, “Maya writing and its
+decipherment” (1935). In the earlier publication, which Professor Tozzer
+of Harvard urged him to prepare, he set forth in detail and with his
+evidence his thesis that Maya writing was at least partly phonetic, and
+he offered a specimen translation of a simple Maya text from one of the
+codices. Since the hypothesis of phoneticism in Maya writing had been
+all but abandoned by Maya scholars at least fifty years previously,
+Whorf’s materials must have been exceedingly impressive, at least at the
+time, to have gotten published at all. The later publication, “Maya
+writing and its decipherment,” was a reply to a critique published by
+Richard C. E. Long in the journal Maya Research. Besides taking issue
+with many points of detail raised by Mr. Long, Whorf attempted to
+explain why he regarded Long’s approach as fundamentally mistaken; he
+also offered another specimen translation of a Maya text. In this
+article, furthermore, he mentioned that he had been working on a
+manuscript, “First steps in the decipherment of Maya writing,” which he
+then hoped to publish within a short time. This manuscript, found among
+Whorf’s papers, has thus far remained unfinished and unpublished, though
+some parts of it are reflected in a paper which Whorf read before a
+scientific congress in 1940 and which is reprinted in the present
+collection, “Decipherment of the linguistic portion of the Maya
+hieroglyphs.” Whorf was bitterly disappointed by the rather cool
+reception generally accorded his work by Maya scholars after 1933; he
+was entirely confident that his linguistic approach held the key to the
+interpretation of Maya hieroglyphs. The paper he read in 1940 was
+apparently a last-ditch effort to win support for his approach.
+
+Up to the time of the Mexican trip, Whorf seems to have had very little
+contact, either face-to-face or by correspondence, with any of the
+persons who were later to be his close colleagues in the field of
+linguistics. His scholarly relations had been chiefly with a group of
+specialists in Mexican archaeology, none of whom were particularly well
+qualified in, or concerned with, general linguistics. In view of this,
+the competence that Whorf had achieved in general linguistics and
+linguistic field methods, purely on the strength of his own untutored
+study, was remarkable. Nevertheless, his talents might never have fully
+matured if he had not eventually met Edward Sapir (1884–1939), a
+foremost authority not only on American Indian languages but also on the
+general science of language. Whorf had, of course, been aware of Sapir’s
+work, and he had doubtless read Sapir’s book Language (New York, 1921)
+with intense interest. He first met Sapir, though only briefly, at the
+September 1928 International Congress of Americanists, and talked with
+him further at subsequent meetings of scientific societies in 1929 and
+1930. He could not, however, make any close contact with Sapir until the
+latter came from the University of Chicago in the fall of 1931 to take
+his post at Yale as Professor of Anthropology to teach linguistics.
+Whorf lost no time in enrolling in Sapir’s first course at Yale in
+American Indian linguistics; among the Whorf papers can be found a
+manuscript entitled “The structure of the Athabaskan languages,” a term
+paper which Sapir awarded a grade of A and much praise. Although Whorf
+nominally enrolled for a program of studies leading to the doctorate, he
+never sought or obtained any higher degree; he pursued his studies for
+pure intellectual ends. The effects of Whorf’s first formal studies in
+linguistics were noticeable and demonstrable. His early interests in
+“oligosynthesis,” “binary grouping,” and other unusual linguistic
+theories became tempered at least to the extent that he was brought to
+see them in the light of the accumulated experience of men like Sapir.
+(I can find no mention of the idea of oligosynthesis, as such, in any of
+Whorf’s writings after 1931.) More important, Whorf was put in close
+touch with the linguistic theories and techniques which were most
+advanced at that time, as well as with the problems which were currently
+considered the most essential to solve. Finally, his studies at Yale
+brought him into contact with a small but earnest band of Sapir’s
+students, including such individuals as Morris Swadesh, Stanley Newman,
+George Trager, Charles Voegelin, Mary Haas, and Walter Dyk, all of whom
+have since made important contributions to linguistics or anthropology.
+In 1937–38, Whorf was a Lecturer in Anthropology at Yale.
+
+Whorf’s association with Sapir thus served to intensify his desire to
+develop further the field of American Indian linguistics. In the
+monograph about Maya hieroglyphs published in 1933, we find Whorf
+crediting Sapir with certain suggestions about the interpretation of the
+zero sign. Sapir was probably more influential, however, in encouraging
+Whorf to expand his work on the Uto-Aztecan languages (a large stock of
+languages whose relationships Sapir had established), in particular to
+take up the study of the Hopi language, a distant relative of Aztec. In
+December 1932 Whorf read a paper entitled “The characteristics of the
+Uto-Aztecan stock” at the meeting of the Linguistic Society of America
+held at New Haven. His further work on Uto-Aztecan linguistics
+(exclusive of Hopi) is represented by a review (1935) of Kroeber’s
+Uto-Aztecan languages of Mexico, and several articles, “The comparative
+linguistics of Uto-Aztecan” (1935), “The origin of Aztec TL” (1937), and
+(with G. L. Trager) “The relationship of Uto-Aztecan and Tanoan” (1937).
+In these articles, Whorf recognized a superfamily language stock which
+he proposed to call Macro-Penutian, to include Penutian, Uto-Aztecan,
+Mayan, and Mixe-Zoque-Huave. Later, he used this structuring in
+preparing a revision of Sapir’s classification of American Indian
+languages.
+
+In linguistic work as such, Whorf was best known for his studies of
+Hopi. Perhaps through the good offices of Sapir, he made contact with a
+native speaker of Hopi, who then lived, conveniently enough, in New York
+City. Beginning in the spring of 1932 and with the support of a small
+research subvention obtained for him by Sapir, Whorf worked intensely on
+developing a linguistic analysis of Hopi, utilizing field research
+methods in which he had received instruction from Sapir. Whorf and his
+informant exchanged visits in New York and Wethersfield (where Whorf
+resided); in 1938 Whorf was able to spend a short time on the Hopi
+reservation in Arizona. By 1935 he had prepared a tentative grammar and
+dictionary of Hopi. Except for the brief sketch of Hopi grammar in
+Hoijer’s Linguistic structures of native America (1946)—a sketch
+prepared by Whorf in late 1939—the major outcomes of these studies
+remain unpublished. Nevertheless, one can be grateful for the two brief
+but very influential technical articles about Hopi which Whorf published
+during his lifetime: “The punctual and segmentative aspects of verbs in
+Hopi’’ (published in 1936, first read as a paper before the Linguistic
+Society of America in December 1935), and “Some verbal categories of
+Hopi” (1938). In these papers one can see how their author was beginning
+to be fired with the notion, developed more extensively in later
+popularized papers, that the strange grammar of Hopi might betoken a
+different mode of perceiving and conceiving things on the part of the
+native speaker of Hopi. In the first, he asserted that “the Hopi
+actually have a language better equipped to deal with . . . vibratile
+phenomena than is our latest scientific terminology.” This was followed
+by “An American Indian model of the universe” (probably written in 1936
+but not published until 1950), which explores the implications of the
+Hopi verb system with regard to the Hopi conception of space and time.
+The work with Hopi must have also influenced the writing, about this
+same time, of the paper entitled “A linguistic consideration of thinking
+in primitive communities” (published in the present collection for the
+first time). “Some verbal categories of Hopi” (1938) discusses several
+interesting distinctions which Hopi makes between kinds and modes of
+happening which English treats as the same, and “Linguistic factors in
+the terminology of Hopi architecture” (written in early 1940 and not
+published until 1953) contains the thesis that the Hopi mind
+automatically separates the “occupancy” or spot of ground or floor on
+which the occupancy occurs from the use to which the occupancy is put,
+whereas the speaker of English tends to merge these, as where “school”
+is thought of as both an institution and a building. (Indeed, do we not
+almost instinctively feel that an institution must of necessity be
+housed in some kind of building?) Whorf is probably best known for the
+article “The relation of habitual thought and behavior to language,”
+written in 1939, and for the three articles which were published in 1940
+and 1941 in the Technology Review—all based to a considerable extent
+upon his research in Hopi. What is important to note is that, first,
+these latter papers were grounded upon a solid foundation of linguistic
+analysis done much earlier, and, second, that the ideas of linguistic
+relativity expressed therein were by no means new in Whorf’s mind; on
+the contrary, the seeds of these ideas were already apparent in
+materials prepared as early as 1935, if not earlier.
+
+The three articles written for the Technology Review of M.I.T. and the
+article entitled “Language, mind, and reality” and published in an
+Indian journal of theosophy were addressed to lay audiences. Undoubtedly
+Whorf had it in mind to bring linguistics before the general public in a
+manner that had scarcely ever been attempted; in fact, he may be
+credited with being the first popularizer of modern linguistic science.
+He realized, however, that it would be impossible to popularize
+linguistics, and there would be little purpose in doing so, unless
+linguistics held a message of popular appeal. This message, Whorf
+believed, was that linguistics has much to say about how and what we
+think.
+
+It may be of interest to recount what led to the writing of the articles
+for the Technology Review. As early as 1932 there was an exchange of
+correspondence between Whorf and the editor of the Technology Review, J.
+R. Killian Jr. (now president of M.I.T.), to whose attention Whorf’s
+article on the Mexican day signs had come. Killian invited Whorf to
+write an account of his trip to Mexico, and asked whether he had
+unearthed any material relating to “the history of engineering,
+architecture, and the practical sciences.” Almost disdainfully Whorf
+replied that this trip had “no bearing on engineering, architecture, or
+the practical sciences”—that “the investigation was conducted thoroughly
+in the spirit of scientific research, but it was in the social sciences,
+not the physical sciences.” Nevertheless, he did eventually agree to
+prepare an article on his trip, but for some reason such an article does
+not seem to have been written. The next exchange was between Whorf and
+President Karl T. Compton, in late 1939. Whorf initiated this
+correspondence as a result of “a slight difficulty” he had had in
+filling out some sort of questionnaire sent him by the Register of
+Former Students—namely, that the questionnaire omitted any mention of
+insurance, insurance engineering, fire prevention, or the like, fields
+which Whorf felt ought to receive recognition as engineering
+professions. He wanted to bring this apparent omission to President
+Compton’s attention, and proceeded to describe in detail the nature of
+his own work. In this same letter, he took occasion to mention other
+activities of his which did not quite fit the list of rubrics on the
+questionnaire, to wit, his research on American Indian languages.
+President Compton’s reply, after explaining that the apparent omission
+on the questionnaire form was the result of abbreviation rather than
+deliberate exclusion, expressed interest in Whorf’s avocational work and
+asked permission to submit his letter for publication in the Technology
+Review. Permission was granted, and the letter (in much condensed form)
+is to be seen in the January 1940 issue of the Review. In the course of
+ensuing correspondence, the editor of the Review, then F. G. Fassett,
+Jr., wrote Whorf on November 14, 1939: “Your linguistic studies offer a
+very interesting and provocative possibility to anyone responsible for a
+magazine. ‘Inasmuch as the analysis of reality is a matter of language,
+and the relativity of such analyses can only be appreciated through
+studies that show the immense range of possible diversity in linguistic
+expression it will be seen that there is a connection here with the
+attempts of science to understand the universe and man’—I think it would
+be very interesting to see the ideas implicit in this statement from
+your October letter expanded in an article aimed at the Review group. Is
+this prospect of interest?” Evidently it was, for Whorf was able to
+submit the first article, “Science and linguistics,” as early as January
+30, 1940, and it was printed in the Review shortly thereafter. The
+exceedingly warm reception this article got, both from regular readers
+of the Review and from the recipients of reprints, pointed to the
+desirability of further articles. The second article, “Linguistics as an
+exact science,” was submitted on September 16, 1940, and the third and
+last, “Languages and logic,” on February 14, 1941, at a time when
+Whorf’s health was failing and his physical weakness was already
+apparent in his handwriting.
+
+Even in the year when he was writing these brilliant articles on
+linguistics and at the same time fighting off ill health, Whorf became
+consumed with still another interest. On account of a lecture which his
+oldest son attended and described to him, Whorf became acquainted with
+Fritz Kunz, a well-known speaker and writer, at present the executive
+vice-president of the Foundation for Integrated Education, Inc. Kunz and
+Whorf had many common interests, especially (as Mr. Kunz has written me)
+in the philosophy and metaphysics of India, and it was this that brought
+them to work together quite closely. One result of this friendship was
+Kunz’s suggestion that Whorf write an article about linguistics for a
+theosophical journal published at Madras, India; the article entitled
+“Language, mind, and reality” was the result. Kunz was on the point of
+founding a new journal, Main Currents in Modern Thought, and Whorf was
+of great help in putting out the first few issues, in late 1940 and
+early 1941. The journal (still published today, but in a different
+format) was of an interesting and unusual character; it was intended as
+a clearing house of ideas and information in all sorts of fields in
+natural science, social science, the humanities, mathematics, logic, and
+philosophy; it was to be written chiefly by its subscribers. Published
+in those days in mimeographed form, the varied colors of its pages were
+keyed to subject matter. Whorf wrote literally dozens of pages in the
+first volume, doing highly creative book reviews and contributing little
+abstracts on such diverse subjects as “The Hurrians of old Chaldea,”
+“Shrinking glass,” and “Notes on the demonstration of ‘wetter’ water.”
+One of his reviews is based on two books on the economics of primitive
+societies, and is provocatively titled “We may end the war that is
+within all wars that are waged to end all war.” “These books,” Whorf
+wrote, “are outstanding examples of a type of investigation that is
+gradually unsettling the old-style materialistic theory of economics.
+And since both Marxian communism and private capitalism are based on a
+stereotyped materialistic formulation of economics, such irrefutable
+scientific expositions of the fact that economic behavior is conditioned
+by culture, not by mechanistic reactions, may be the forerunner of a new
+era.” This quotation is only one of many that could be cited to show
+Whorf’s broad humanism and concern for the commonweal. Nor did Whorf
+neglect to bring the implications of linguistics to the attention of
+readers of Main Currents. Reporting several interesting facts which had
+appealed to his interest at a scientific meeting, he wrote, in a piece
+entitled “A brotherhood of thought”:
+
+There is no word for ‘word’ in Chinese. The nearest thing is the element
+tsz, which is translated ‘word’ but means rather ‘syllable’ or ‘syllabic
+element.’ Many such elements never occur free but only in a few
+combinations, like the ‘pyr-’ in ‘pyrometer.’ Words in the sense of
+vocabulary units exist as either of one or two syllables, a fact
+obscured by the traditional Chinese system of writing, which keeps every
+syllable separate. This was pointed out by Dr. Y. R. Chao of Yale in a
+paper “Word conceptions in Chinese” at the meeting of the Linguistic
+Society of America in Providence, R. I., 12/30/40. The nature of Chinese
+grammar is only just beginning to be understood; Dr. Chao and others
+have exploded the idea that Chinese is a monosyllabic language. At the
+same meeting Dr. G. A. Kennedy of Yale, analyzing “Complex attributive
+expressions in Chinese,” showed that Chinese has no relative clauses,
+and that a different kind of order-system rules the logic of such
+relationships. If the element te used in this logic be translated
+‘-ish,’ then “The House that Jack Built” would go in Chinese: ‘This is
+Jack-ish build-ish house; this is Jack-ish build-ish house-ish in-ish
+lie-ish malt,’ etc.
+
+It is not sufficiently realized that the ideal of worldwide fraternity
+and cooperation fails if it does not include ability to adjust
+intellectually as well as emotionally to our brethren of other
+countries. The West has attained some emotional understanding of the
+East through the esthetic and belles-lettres type of approach, but this
+has not bridged the intellectual gulf; we are no nearer to understanding
+the types of logical thinking which are reflected in truly Eastern forms
+of scientific thought or analysis of nature. This requires linguistic
+research into the logics of native languages, and realization that they
+have equal scientific validity with our own thinking habits.
+
+After a long and lingering illness, during which he valiantly struggled
+to keep up his study and his writing, Whorf succumbed on July 26, 1941,
+at the age of 44. He had accomplished more than he knew, yet only a
+small part of what he might have done. His passing was taken notice of
+by editorial obituaries not only in the local newspapers but also in
+such papers as the New York Times, and later, of course, in several
+scholarly journals.
+
+I cannot close this biographical memoir without a few remarks about
+Whorf’s personality and habits of work. Above all he was capable of
+extremely deep and steadfast concentration in everything he did. Nothing
+was treated lightly or carelessly. His penciled manuscripts, in
+beautifully neat and always legible handwriting, exemplify his
+meticulousness; it is also exceedingly rare to find an error in his
+typescripts (he nearly always did his own typing of scholarly
+manuscripts and correspondence). He was willing to work almost
+endlessly; his published writings represent but a small fraction of the
+manuscript material he produced, and his notebooks are truly voluminous.
+Without hesitation, he would if necessary go to the trouble of copying
+out, in longhand or script printing, page after page of detailed
+linguistic texts. In writing, he was able to express himself
+artistically, convincingly, and effortlessly; in many cases, his first
+draft—with a minimum of emendations—was final. Yet, he nearly always
+made a pencil draft preparatory to typing, even for correspondence. This
+tireless devotion to scholarship undoubtedly took its toll of Whorf’s
+strength and health, although he never appeared visibly fatigued. He
+habitually worked late into the night, relaxing himself only by taking
+short catnaps or by playing a few rolls of classical music on his
+mechanical grand piano. He was somewhat casual about his hours at the
+office, being dilatory in both arrival and departure on many occasions,
+but he accomplished much while there. For exercise, he enjoyed walking,
+often making the four- or five-mile trip from his office to his home in
+Wethersfield on foot, with perhaps a stop at the Watkinson Library en
+route.
+
+Social life held little significance for him except when it involved his
+linguistic colleagues, to whom he was always a delight. He maintained an
+air of cheerful curiosity, and continually had interesting and novel
+things to say. As I have recalled elsewhere, “Whorf was a quiet,
+contemplative teacher; he would not stop at remaining silent for a
+seemingly interminable time while searching his mind to recall something
+or to think through a problem. Yet, when he became prompted to tell me
+of some new insight he had reached, the smoothness and lucidity of his
+remarks were little short of awesome. His mode of behavior was that of
+neither the scholar nor the businessman—he gave only the impression of
+calm, unhurried, effortless inspiration. Self-seeking was entirely alien
+to him and it is a tribute to him that he was so generous in sharing his
+remarkable perspectives with others.”
+
+II
+
+The title of this volume, Language, thought, and reality, is the title
+of a book that Whorf hoped to write, and for which a brief outline is to
+be found among the papers left at his death. The book would have been
+dedicated to the memory of Edward Sapir and Antoine Fabre d’Olivet, and
+would have attempted to present the implications of linguistics for the
+clarification of our thinking about the external world of reality. The
+notes indicate that the book, designed as a college textbook and
+provided with suitable chapter-end quizzes, would have included in its
+appendix language sketches of Latin, Greek, Hebrew, Kota, Aztec, Hopi,
+Shawnee, Russian, Taos, Chinese, and Japanese. This book, of course, was
+never written, but I believe its title is a fitting one for the present
+edition, which includes nearly all of Whorf’s writings which are
+pertinent to what he called the principle of linguistic relativity,
+which states, at least as a hypothesis, that the structure of a human
+being’s language influences the manner in which he understands reality
+and behaves with respect to it. This edition also includes what are
+believed to be the most interesting and useful writings of Whorf in
+Middle American linguistics and in general linguistics.
+
+A study of the whole procession of Whorf’s writings discloses an
+underlying theme which had its roots in his very early thinking, perhaps
+concurrently with his first steps in linguistic work. We have already
+seen how Whorf tried, as early as 1925, to verify the theories of the
+French mystic and Hebrew scholar, Fabre d’Olivet—theories which proposed
+that certain Hebrew letters and combinations of letters contained
+mysterious, fundamental root-ideas. In order to verify these, Whorf
+found himself playing with subtle, below-the-surface similarities
+between seemingly unrelated ideas. This was the first step—to penetrate
+beneath the veneer of dry, brittle, isolated words which might conceal
+fundamental concepts. We see Whorf’s concern with basic mental
+operations, and his seeming discomfort with the straitjacket represented
+by language, in a short essay which I have entitled “On the connection
+of ideas.” This essay, printed here for the first time, was written in
+1927 as a letter to the psychologist Horace B. English, who had just
+authored a dictionary of psychological terms; Whorf was appealing to
+English to supply him with a term for a new kind of association of
+ideas. Whorf was groping toward concepts or terms of a more general or
+abstract nature than those provided by any language. None of the
+psychological schools on the contemporary scene were of any real help,
+as Whorf complained in a short unpublished note which, supplied with the
+wholly arbitrary title “On psychology,” is also printed here. Yet, much
+of Whorf’s work is extremely close to psychology. The search for
+root-ideas led Whorf on many a byway, even in his work with Aztec and
+Maya linguistics. The two papers on Maya hieroglyphs included here give
+only a glimpse of this fact, but it would have emerged very obviously if
+it had been thought desirable to print here, for example, the
+unpublished paper “Stem series in Maya and certain Maya hieroglyphs,” to
+which reference has already been made. Unfortunately, one has the
+suspicion that Whorf occasionally allowed himself too many liberties in
+arraying together ideas which to another would appear totally unrelated.
+For example, at one point in his “Stem series” paper, he cites a series
+of Maya roots which he believed contained “all sorts of ideas of
+dispersal: be dispersed, disappear, spread, radiate, shine.” Edward
+Sapir, to whom Whorf at one time submitted the manuscript, pinned this
+comment to it: “I am sorry, but I cannot honestly say I feel the
+cohesiveness of the sa-set as clearly as you do. ‘Sand,’ ‘white,’ ‘weave
+cloth,’ ‘much,’ and ‘dislocate,’ for instance, on the basis of
+fundamental ‘dispersal’ seems to be a purely subjective construction.”⁶
+Whorf became aware of the need for objectifying semantic inferences;
+there is to be found among his unpublished papers a brief proposal for
+an experiment in which an individual would be presented with a series of
+Aztec words, together with their English meanings, all involving the
+letters ZE-. The subject was to be asked to arrive at some sort of
+semantic grouping for these words; he was to be told that he might
+decide (1) that ZE- has a single meaning throughout, or (2) that there
+are two, three, or more ZE-’s with distinct and quite unconnected
+meanings, or (3) that ZE- has no connection with the meanings
+whatsoever. Apparently, Whorf never performed this experiment.
+
+It will also be recalled that Whorf early noticed, or believed he
+noticed, that Hebrew, Aztec, and Maya seemed to be built on a different
+plan from that of English and other languages which he later called
+“SAE” (standard average European) languages. He called them
+“oligosynthetic” languages, that is, languages whose vocabularies were
+built up out of a very small number of elements. “Each element,” he
+stated in a paper concerning Aztec linguistics read in 1928, “is, first,
+a very simple piece of articulation-behavior, and, second, a broad idea
+or complex of related ideas that goes with this piece of behavior.” He
+thought he had been able to analyze the Aztec vocabulary into no more
+than thirty-five such roots. “It should now be noted,” he continued,
+“that this oligosynthetic phenomenon opens up certain new territories in
+the little-explored field of language-psychology. In it we see the whole
+ideational field of a language partitioned out among or shared between
+some thirty-five elementary notions, so as to give us for the first time
+a map or plan of an actual realm of ideas. Previously when ideas have
+been distributed among a set of categories, those categories have been
+the result of some philosopher’s introspection, but not so this idea-map
+of a language—we come upon it as we do upon the facts of nature, and its
+as yet dimly seen configuration challenges us to investigate it by
+experimental and inductive methods.” In these somewhat daring ideas we
+may see, first, a certain appeal to the notion of phonetic symbolism,
+the notion that there may be inherent relations (over and above the
+arbitrary relations established in any given language) between sounds
+and meanings, and, second, the faint suggestion of a theory of
+linguistic relativity. The problem of phonetic symbolism has long
+challenged both linguists and psychologists. Edward Sapir, who was
+sympathetic to the notion, performed an experiment which pointed in a
+positive direction,⁷ and the problem is still alive among contemporary
+psychologists. With reference to the theory of linguistic relativity
+foreshadowed in Whorf’s theory of oligosynthesis, the key is the notion
+of a “broad idea or complex of related ideas” which might be associated
+with a linguistic element, for from this it is but a short step to the
+notion that languages with different collocations of semantic ideas
+might provide different “maps” of the realm of possible ideas, or, as
+Whorf put it much later, that different languages might provide
+different “segmentations of experience.”
+
+The idea of linguistic relativity did not emerge in a full-fledged form
+until after Whorf had started studying with Sapir. Not until he began to
+analyze Hopi, a language with a grammar much more complex and subtle
+than that of Aztec or even that of Maya, did he begin to appreciate that
+the notion of linguistic relativity could be developed in a much more
+telling and effective way by noticing differences not only in “lexation”
+but also in grammatical structure. The various papers on Hopi which are
+published in this collection will speak for themselves; in them Whorf
+tells of his provocative discoveries in the tense and aspect systems of
+the Hopi verb, in the Hopi treatment of noun classes, and so on.
+
+Whorf’s whole outlook in linguistics, apart from his early religious
+concerns, stemmed from his concern with fundamental problems of meaning,
+or, as I like to think, with fundamental intellectual operations. In the
+very interesting and revealing paper written about 1936 and printed for
+the first time in this volume, “A linguistic consideration of thinking
+in primitive communities,” Whorf insists that “linguistics is
+essentially the quest for MEANING.” The “real concern” of linguistics,
+he writes, “is to light up the thick darkness of the language, and
+thereby of much of the thought, the culture, and the outlook upon life
+of a given community with the light of this ‘golden something,’ as I
+have heard it called, this transmuting principle of meaning.” Whorf was
+concerned more with substance than with process. That is, he was more
+interested in what, in some abstract sense, was being thought about than
+with the mental processes by which one might think, and this outlook led
+him to linguistics, full of “content,” rather than to psychology,
+relatively “contentless” in its concern with generalized
+stimulus-response mechanisms. Whorf appeared to believe, indeed, that
+the content of thought influences the process of thought, or that
+differing contents produce differing species of process, so that
+generalization about process becomes impossible without content’s being
+taken into account. It was his belief that differences in thought
+content and their corresponding effects on thought processes and
+behavior in general would be spectacularly revealed by comparison of
+different language structures. He was extremely ingenious in ferreting
+out both the obvious and the subtle differences in language structures,
+and fully demonstrable differences they were, at least on the linguistic
+level. He did not stop there, however; he attempted also to adduce
+evidence of behavior variations associated with different language
+phenomena. While this attempt may not have been wholly successful, it
+was at any rate embodied in the article written in the summer of 1939
+for the Sapir volume, “The relation of habitual thought and behavior to
+language.” It was the last article he wrote on the subject which was
+addressed chiefly to his colleagues. The principle of linguistic
+relativity was stated in the most appealing terms, however, in the
+articles which appear as the last four of this collection; they were
+written primarily for lay audiences.
+
+Whorf’s principle of linguistic relativity, or, more strictly, the
+Sapir-Whorf hypothesis (since Sapir most certainly shared in the
+development of the idea) has, it goes without saying, attracted a great
+deal of attention. Through various reprintings of one or the other of
+the Technology Review articles, beginning as early as 1941 (in
+Hayakawa’s Language in action, a Book of the Month Club selection), the
+material has been brought to the notice of a wide public as well as of
+linguists, anthropologists, and psychologists. One wonders, indeed, what
+makes the notion of linguistic relativity so fascinating even to the
+nonspecialist. Perhaps it is the suggestion that all one’s life one has
+been tricked, all unaware, by the structure of language into a certain
+way of perceiving reality, with the implication that awareness of this
+trickery will enable one to see the world with fresh insight. Surely, at
+any rate, it would have been farthest from Whorf’s wishes to condone any
+easy appeal to linguistic relativity as a rationalization for a failure
+of communication between cultures or between nations. Rather, he would
+hope that a full awareness of linguistic relativity might lead to
+humbler attitudes about the supposed superiority of standard average
+European languages and to a greater disposition to accept a “brotherhood
+of thought” among men, as he wrote in the short article of that title
+quoted above. But, even if research in native languages is not for the
+purpose of helping to bridge intellectual gulfs between cultures, Whorf
+would nevertheless aver that the investigation of the “logics” of those
+languages will contribute to our understanding of our own thinking
+habits.
+
+In truth, the validity of the linguistic relativity principle has thus
+far not been sufficiently demonstrated; neither has it been flatly
+refuted. It seems to be agreed that languages differ in many strange and
+striking ways, but it is a moot point whether such differences in
+language structure are associated with actual differences in ways of
+perceiving and conceiving the world. Among the writers who are most
+impressed with the possibilities of such an association are Kluckhohn
+and Leighton (1946), Laura Thompson (1950), Hoijer (1953), and Kluckhohn
+(1954). Kluckhohn and Leighton, for example, state that the Navaho
+tongue is so radically different from ours that an understanding of
+Navaho linguistic structure is virtually a prerequisite to understanding
+the Navaho mind; they cite the tremendous translation difficulties
+existing between Navaho and English, and imply that the two languages
+almost literally operate in different worlds. Hoijer claims to have
+found a suggestion of a correlation between the world view implied by
+the Navaho verb system (that people only “participate” or “get involved”
+in acts rather than initiate them) and the passivity and general
+restlessness or fatefulness of Navaho mythology.
+
+Two sharp critics of Whorf’s methodology and conclusions, on the other
+hand, have been Lenneberg (1953) and Feuer (1953). Lenneberg attacks
+chiefly the methodology. First, he criticizes on several grounds the
+technique of translation which Whorf so often employed to demonstrate
+differences in languages; large differences in the linguistic handling
+of an event like cleaning of a gun do not necessarily imply
+corresponding differences in the perception of that event, and may
+merely result from metaphorical developments in the language, of which
+the speakers may not ordinarily be aware (just as we do not ordinarily
+think of “breakfast” as breaking a fast). Second, Lenneberg insists that
+linguistic and nonlinguistic events must be separately observed and
+described before they can be correlated, and that the usual canons of
+evidence must be applied in demonstrating any association between such
+events. Otherwise, the linguistic relativity principle becomes
+embarrassingly circular, or at least tautological, in that the only
+evidence for differences in “world view” turns out to be the linguistic
+differences. Feuer, a social philosopher, believes that on a priori
+grounds one would not expect cultures speaking different languages to
+have different ways of perceiving space, time, causation, and other
+fundamental elements of the physical world, because a correct perception
+of these elements is necessary to survival.
+
+Since these and other logical, methodological, and psychological
+difficulties have recently received a thorough discussion at the hands
+of a special conference of linguists, anthropologists, psychologists,
+and philosophers (Hoijer, 1954), it seems pointless to labor them here.
+It is perhaps desirable to counteract, however, the essentially
+negative, pessimistic tone which pervaded this conference, by pointing
+out that extremely little research of an appropriate character has thus
+far been conducted on the Sapir-Whorf hypothesis. Except for the
+experiment reported by Brown and Lenneberg (1954), which showed that
+differences in ability to recognize and remember colors were associated
+with availability of specific color names, there have been virtually no
+researches which have adequately tested the existence of correlations
+between linguistic structure and nonlinguistic behavior. Numerous
+suggestions pointing toward such research have been made in a monograph
+edited by Osgood and Sebeok (1954).
+
+There is a further consideration which has not been sufficiently
+stressed in the various discussions of the Sapir-Whorf hypothesis,
+namely, that the principle of linguistic relativity may not be so
+tautological as it has been made to appear. It has been said that one
+merely states a tautology when one appeals to differences in languages
+as showing differences in behavior, in “world view.” It has also been
+said that it is necessary to find nonlinguistic behaviors which are
+correlated with the linguistic differences. This would doubtless be
+desirable, but there is something to be said for being interested in
+linguistic differences as such, regardless of nonlinguistic behavioral
+correlates. If we assume that there is such a thing as covert, implicit
+behavior, consisting of mental states, sets, attitudes, “meditational
+processes,” and the like, we shall have to grant that such behavior is
+largely inaccessible to public observation save through the medium of
+verbal report. Whether or not, in fact, we assume any mental processes
+standing behind then, we are led to put a high value on verbal responses
+in their manifold forms as the chief data relating to perception and
+cognition.
+
+Suppose, now, we found that, by varying certain environmental
+conditions, we could produce corresponding changes in the verbal reports
+made by speakers of a given language. For example, we might be able to
+find that we could in this way control which of several words (each
+standing for one of several environmental stimuli) was used as the
+subject of a sentence reporting the situation. Suppose further that,
+upon experimenting with speakers of another language, we found it
+impossible to produce changes in sentence structure corresponding to the
+varying environmental conditions—that all speakers invariably used the
+linguistic expression for one of the several stimuli as the subject of a
+sentence reporting the situations, and that, upon being questioned, the
+speakers of this language stated that it would be “unnatural” or
+“nonsense” to use any other linguistic expression in subject position in
+the sentence. The difference between the language behaviors would then
+be of interest in itself; we would have to conclude that we must take
+language structure into account in describing the verbal behavior of
+speakers in selecting the subject component of sentences. If, further,
+we had some fundamental knowledge about the grammatical meaning of
+sentence subject, we might be able to make some comparisons of the
+cognitive processes of speakers of the two languages. For example,
+suppose that the grammatical meaning of sentence subject were to be
+“entity perceived as a potential agent,” then we might be permitted to
+conclude that the speakers of the second language in our illustration do
+not readily perceive certain stimuli as “potential agents.”
+
+This illustration has had to be somewhat far-fetched in several
+respects: partly that we do not yet know whether differences of the sort
+described could be found between speakers of different languages, and
+partly that we do not know very well how to specify behavioral
+correlates of grammatical categories. Yet, it is this kind of language
+difference which Whorf offers on an intuitive basis. He assumes that
+differences between languages would be found to correspond to
+differences in ways of reporting events, and that we can feel
+intuitively the grammatical and behavior forces underlying the
+linguistic phenomena which he describes. It must be granted that we have
+only begun to obtain detailed information about language differences and
+the behavioral pressures exerted by these differences, but, even when we
+get this information, much of it will be strictly in the realm of verbal
+behavior and the environmental stimulus complexes which evoke this
+verbal behavior.
+
+One caution that needs to be stated in connection with the linguistic
+relativity principle, regardless of whether it is valid or not, is that
+the interest it has aroused and will continue to arouse should not be
+allowed to distract attention from the importance of language
+universals. Language universals, phenomena found in all languages, would
+be of as much interest psychologically as language differences. Is it
+true that all languages have subject-predicate construction in
+sentences? Do all languages have some type of noun-verb contrast? What
+features of verb-tense system are common to all languages? Answers to
+such questions would assist in the development of a generalized
+psychology of cognitive functions.
+
+Because Whorf is chiefly known for his ideas on linguistic relativity,
+this volume features those of his writings which are most relevant to
+this problem. His studies in at least two other areas deserve
+recognition, however.
+
+Whorf’s early work in translating obscure Aztec documents was
+undoubtedly brilliant and made a distinctive contribution to a neglected
+corner of Middle American research. His interest in translating Aztec
+shortly gave way, however, to the quest for a means of reading the
+noncalendrical portions of Maya hieroglyphic writings. Here the validity
+of Whorf’s work is at least highly controversial. There is no gainsaying
+that his observations in this area were exceedingly acute, and his
+“detective work” searching and clever. It is not for a nonspecialist to
+say how much Whorf actually accomplished toward the interpretation of
+the Maya hieroglyphs. There is certainly a great deal of plausibility in
+the translation processes which he presents, as in the paper reprinted
+here (“Decipherment of the linguistic portion of the Maya hieroglyphs”),
+and Whorf was too objective and intelligent a scholar to present mere ad
+hoc constructions which could not be tested and generalized. Yet,
+objections have been raised by several Maya scholars—during Whorf’s
+lifetime by Long (1935, 1936) and Andrews (1938), and, most recently and
+also most severely, by J. Eric S. Thompson (1950). Nevertheless, the
+criticisms of Long and Andrews related chiefly to minor points, some of
+which Whorf was subsequently able to adjust, and Thompson does not seem
+to have answered fully the deeply rooted complaint of Whorf that the
+tradition in Maya hieroglyph research has been to ignore linguistic
+evidence. As late as 1939, Tozzer (1939) was willing to state his belief
+that there were considerable phonetic components of Maya hieroglyphs, as
+Whorf urged, and we are told that the eminent Maya scholar, Herbert J.
+Spinden, was enthusiastic about the paper which Whorf read at the Eighth
+American Scientific Congress in May 1940. This paper is included here
+because so little progress has been made in reading Maya hieroglyphs and
+because it so well presents Whorf’s notions about the problem and about
+writing systems in general.
+
+Finally, Whorf’s contributions to general linguistics should not be
+underestimated. His early theories of “oligosynthesis” and “binary
+grouping” were, to be sure, certainly overdrawn, and, except as might be
+implied by his continued admiration for the work of Fabre d’Olivet, he
+ceased to appeal to any such theories after he became a student of
+Sapir. Nevertheless, Whorf developed his theory of oligosynthesis with
+characteristic originality and acumen, and it is perhaps unfortunate
+that he never was able to bring himself to publish any full and mature
+description of the theory, for it is at least conceivable that there are
+languages, of which Aztec and Maya are possible examples, in which
+submorphemic elements are more productive throughout the whole of the
+vocabulary than the occasional “phonesthemes” which have been noted in
+English (such as the sp in ‘spit, splash, spray, spout, sputter,
+splatter,’ etc., which has seemed, to some, to carry the notion of
+“forceful outward motion”).
+
+Whorf was, at any rate, a master of straight linguistic description. His
+sketches of Milpa Alta Aztec and Mishongnovi Hopi as published by Hoijer
+(1946) are exemplary; they are characterized not only by the customary
+minute phonological and morphological descriptions but also by an
+unusual emphasis on seeking to find the meaning of grammatical
+categories. Some of this sort of approach can be seen in papers
+published in the present volume; for Hopi, in the paper “Some verbal
+categories of Hopi,” and for English, or for languages in general, in
+the paper “Grammatical categories,” in which he introduced a distinction
+between overt and covert grammatical categories, and first applied the
+term “cryptotype.” I believe it can fairly be said that contemporary
+linguists have only begun to explore the full implications of Whorf’s
+concept of cryptotype.
+
+Even when Whorf worked on purely phonetic and phonemic problems, he was
+highly original. He was apparently the first to propose the term
+“allophone,” now in common use among linguistic scientists. His model of
+the English monosyllable, as presented in his paper “Linguistics as an
+exact science,” was at the time an original synthesis of facts about
+English sound clusters. He wrote an interesting paper on the phonemics
+of his own (Boston) dialect of English, published posthumously in 1943.
+
+Whorf was everywhere an exceedingly acute observer of interesting and
+subtle phenomena in language structures. For example, in his hands a
+massive compilation of information about Shawnee, a language which he
+had not previously studied, was able to suggest several novel
+perspectives on figure-ground relationships as exemplified in Shawnee
+word formation; the reader is referred to the paper “Gestalt technique
+of stem composition in Shawnee,” printed in this volume. As if to roll
+up in one package all the bases of his insights into language structure,
+Whorf once had occasion to prepare an outline which he thought
+anthropological field workers could use in collecting information about
+new languages. The outline was referred to in a publication by Murdock,
+“Outlines of cultural materials” (1938), but it has never before been
+published. In the belief that it will still be useful, even though its
+publication is belated, I have included it in the present collection
+under Whorf’s title “Language: plan and conception of arrangement.” It
+will doubtless demand considerable linguistic sophistication on the part
+of the reader to catch the meanings which are often only vaguely
+suggested by its outline form and sketchy phraseology, but at least it
+may serve in this way to stimulate in the reader some of the productive
+imagination which was characteristic of Whorf in whatever he touched.
+
+* * *
+
+Special Note
+
+The reader is cautioned that the phonetic orthography for Hopi used in
+this volume varies according to the particular system employed in each
+individual paper. To have attempted to regularize this orthography would
+have required a major linguistic investigation, which the editor was not
+prepared to accomplish.
+
+* * *
+
+Acknowledgments
+
+Acknowledgment is here made for permission to include in this volume
+various writings of Whorf previously published elsewhere:
+
+To Dr. Sol Tax, editor, for “A central Mexican inscription combining
+Mexican and Maya day signs” from the American Anthropologist, vol. 34,
+no. 2.
+
+To Dr. Bernard Bloch, editor, for “The punctual and segmentative aspects
+of verbs in Hopi,” “Some verbal categories of Hopi,” and “Grammatical
+categories” from Language, vol. 12, no. 2; vol. 14, no. 4; and vol. 21,
+no. 1, respectively.
+
+To Dr. C. F. Voegelin, editor, for “An American Indian model of the
+universe” and “Linguistic factors in the terminology of Hopi
+architecture” from the International Journal of American Linguistics,
+vol. 16, no. 2, and vol. 19, no. 2.
+
+To Leslie Spier, editor, for “The relation of habitual thought and
+behavior to language” from Language, Culture, and Personality, pp. 75–93
+(Menasha, Wis.; Sapir Memorial Publication Fund, 1941).
+
+To Dr. Leonard Carmichael, secretary, Smithsonian Institution, for
+“Decipherment of the linguistic portion of the Maya hieroglyphs” from
+The Smithsonian Report for 1941, pp. 479–502.
+
+To Dr. N. Sri Ram, president, the Theosophical Society, for “Language,
+mind, and reality” from The Theosophist, January 1942.
+
+The illustrations for several of Whorf’s papers in this volume have been
+specially redrawn by J. Martin Rosse, who prepared illustrations for
+Whorf’s Technology Review papers in 1940 and 1941 from rough sketches
+which Whorf himself had supplied.
+
+I am indebted to several persons for furnishing information and
+documents which were necessary to the preparation of this edition. Dr.
+George L. Trager helped me decide which of Whorf’s writings should be
+included. Professor C. F. Voegelin supplied numerous scarce reprints,
+and a manuscript copy of “Language: plan and conception of arrangement”
+was lent by Professor Norman McQuown. Professor Herbert Hackett provided
+several bibliographical items which I might have otherwise missed.
+
+I am particularly grateful to several members of the Whorf family for
+their kindness in granting me interviews: to Whorf’s widow, Mrs. Celia
+Peckham Whorf, and to his brother, John Whorf of Provincetown,
+Massachusetts. Special thanks are due to Whorf’s son, Robert Peckham
+Whorf, for allowing me to spend several days at his home examining
+Whorf’s papers and correspondence, and for permitting me to borrow a
+number of his manuscripts, some of which are printed in this volume for
+the first time.
+
+Arlington, Massachusetts
+
+June, 1955
+
+ 
+
+1. Nevertheless, Whorf often combined business with science on these
+trips. In the course of the field trip to Mexico in 1930, he inspected
+the Mexico City agency of the company and wrote a comprehensive report
+of his findings and recommendations.
+
+2. My own acquaintance with Whorf developed as a consequence of my
+attending a lecture he gave at the Children’s Museum of Hartford,
+December 1, 1929. The title of the lecture, announced as a “chalk talk,”
+was “The Aztec and Maya Indians of Mexico.”
+
+3. Miss Redfield, for some years a resident of Hartford, also translated
+several other works by Fabre d’Olivet.
+
+4. In 1952 the Watkinson Library was removed to spacious and modern
+quarters at Trinity College in Hartford.
+
+5. See the bibliography of Whorf’s writings, pp. 377–383 in this volume.
+
+6. The material on the sa- group was considerably reworked before
+publication in the monograph “The phonetic value of certain characters
+in Maya writing” (1933), p. 11.
+
+7. Edward Sapir, “A study in phonetic symbolism,” J. exp. Psychol.,
+12:225–239 (1929).
+
+1

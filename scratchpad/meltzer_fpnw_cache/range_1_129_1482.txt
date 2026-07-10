@@ -1,0 +1,1354 @@
+PREFACE
+
+An Albuquerque Journal reporter was on the phone. “Have you heard of the
+recent discoveries at Pendejo Cave here in New Mexico?” he asked and
+then added, laughing, “Do you know what ’Pendejo’ means in Spanish? Our
+readers sure do!” I had heard. I did know. And what I said
+next—foolishly, in retrospect—nearly got me pummeled one night in a
+hotel bar in Brazil by Scotty MacNeish: excavator of Pendejo Cave, grand
+old man of archaeology…and former Golden Gloves boxing champion.
+
+The fight was about a discovery as profound—or trivial—as fingerprints.
+Not just any fingerprints: MacNeish came out of Pendejo Cave and
+announced he'd found human fingerprints that were upwards of 37,000
+years old, instantly tripling the then oldest accepted antiquity for the
+arrival of humans in the New World (the Clovis archaeological presence,
+dated to nearly 11,500 years ago). When the reporter asked what I
+thought of MacNeish's claim, I replied, “You're not going to convince me
+until you've fingerprinted the crew.”
+
+Granted, it was a flip response. But I thought the point reasonable. To
+persuade an extremely skeptical archaeological community to accept this
+unparalleled discovery, MacNeish would have to demonstrate those
+fingerprints were just as old as advertised, and not odd clay globs his
+excavators had inadvertently imprinted and later mistook for
+archaeological specimens. Extraordinary claims require extraordinary
+proof. I thought I was being helpful. MacNeish thought otherwise. It
+surely didn't help that my response led to his Pendejo Cave claim being
+named one of that year's Albuquerque Journal Cowchip Award winners (I
+don't think I need to explain why the Cowchip is not a coveted award).
+
+When we bumped into each other in that bar a year later—ironically, we'd
+both been invited to Brazil to examine another purportedly ancient
+site—MacNeish swore furiously at me for accusing his crew of faking
+evidence. Faking evidence!? Only after fifteen minutes of very fast
+talking, spent just beyond the distance I guessed he could still throw a
+punch at age seventy-five, was I able to convince him that wasn't my
+point at all. I am not sure he ever believed me. I know he never forgave
+me. But he did send me a reprint of the article he published on the
+Pendejo Cave fingerprints, and even autographed it: “Finally got it
+published,” he scrawled across the top, “in spite of you.”
+
+Fair enough.
+
+I framed the reprint, and it's prominently displayed in my
+office—perfect witness to the heat that's generated in the search for
+America's first peoples.
+
+Not that this is anything new. Questions about the origins, antiquity,
+and adaptations of the first Americans, although easily asked, have
+proven extraordinarily difficult to answer, and have been contentious
+since first posed in modern form in the 1860s. Those questions are still
+the focus of research today, albeit using vastly different theoretical,
+analytical, and archaeological tools; involving a far wider range of
+contributing disciplines; and producing a stream of publications that in
+the last several decades has become a raging academic torrent. The
+intervening century and a half has witnessed multiple site discoveries,
+conceptual breakthroughs, pivotal moments that have propelled and guided
+research, and cycles of bitter controversy and grudging, short-lived
+periods of peace. We've learned a great deal.
+
+Still, in just the last dozen years much of what we knew—or thought we
+knew—about the peopling of the Americas has been turned on its head by
+new discoveries, new analyses, and new controversies, all of which cut
+across multiple disciplinary lines. The biggest difference? Before, we
+spoke of the possibility of a pre-Clovis presence in the New World in
+hypothetical terms; now it is a reality, and it's a whole new
+archaeological world as a result. In the scramble to right ourselves,
+many ideas—some controversial, others outlandish—are being tried on for
+size. It's the natural course of affairs in scientific change, and no
+cause for alarm. Yet.
+
+So much has changed that my previous book on the topic, Search for the
+First Americans, published in 1993, is now woefully out of date (more
+embarrassing: used copies are now selling for one dollar on the Web, and
+the press that published it has folded; these two facts, I choose to
+believe, are unrelated). At the time I wrote Search for the First
+Americans, geneticists were only just beginning to peer into corners of
+the human genome to use DNA to trace our collective ancestry; the
+excavation and analysis of the Monte Verde site in Chile—then one of
+several candidates for great antiquity in the New World, and not the
+first among all—was just being wrapped up; Pleistocene geologists had
+only glimpsed the complexity of the causes as well as the climatic and
+ecological consequences of the Ice Age (Pleistocene), especially the
+frenetic changes at its end, which were occurring just as the first
+Americans were radiating out across the continent; and the now infamous
+Kennewick skeleton still lay buried in the banks of the Columbia River,
+yet to make its 60 Minutes debut with Leslie Stahl or become the
+centerpiece of a costly lawsuit that exposed deep rifts within the
+archaeological community, and especially between those who study the
+past and those—Native Americans—who are its living descendants. These
+and a gaggle of other developments have wrought a sea change in our
+approach to and understanding of the first Americans. It's time for a
+fresh look.
+
+This book was originally intended as a second edition of Search for the
+First Americans, but my attempt to gently insert new material, delete
+stale parts, and patch up original but still-serviceable bits proved
+impossible, and I soon gave up the effort. I had underestimated just how
+much had changed—including my own thinking on many of these matters. So
+I instead tore down each of the original chapters to their foundation
+timbers, discarded unwanted parts (and even one unwanted chapter), added
+several new chapters, and then rebuilt the whole from the ground up to
+reflect all the changes in evidence, emphasis, and thinking. The basic
+framework remains, and some of the load-bearing elements of a chapter,
+if judged sufficiently robust, were allowed to stay, along with stories
+that were just too good not to retell. Much of the new material is based
+on articles I've published in recent years in a variety of scholarly
+journals and books, and road tested in my classes, so it has been
+through the wringer of peer review from colleagues and—perhaps a more
+stringent test—has had to pass muster with my students, undergraduate
+and graduate alike. The result is the book before you: more than twice
+as long, far wider in range, more detailed in coverage than Search for
+the First Americans, and because it supersedes and replaces the earlier
+volume, deserving of a new title: First Peoples in a New World:
+Colonizing Ice Age America.
+
+WHAT THIS VOLUME IS…
+
+First Peoples in a New World is my effort to explain the twists and
+turns of the search for the first Americans, the controversy that has
+long enveloped it, and what we've learned of who they were, when and
+from where they came, and how they colonized what was then, truly, a New
+World. Although I am an archaeologist, I am by nature eclectic in my
+approach to scientific problems, and have spent a fair amount of time on
+search and seizure missions behind interdisciplinary lines looking for
+help from geneticists, geologists, linguists, and physical
+anthropologists in answering stubborn archaeological questions. And
+there are few questions more stubborn or that lend themselves so readily
+to an interdisciplinary solution as the peopling of the Americas. First
+Peoples in a New World is thus not just a synthesis of the intellectual
+history and current state of the archaeological understanding of the
+peopling of the Americas, it's also a close look at the evidence being
+brought to bear by non-archaeologists to this problem—and an effort to
+see whether we can all get along.
+
+In fact, this book centers around two interlocking themes. The first is
+what we know of the first Americans—about who they were, where they came
+from, when we think they arrived, how many early migratory pulses there
+may have been, and by which route(s) they came to the Americas. It's
+also about the climatic and ecological conditions of the Ice Age terrain
+they traveled and the diverse landscapes they encountered, their
+adaptive responses to the challenges of colonizing an uninhabited and
+unfamiliar world, the speed with which these pedestrian hunter-gatherers
+moved across their new world, their effect on the native animals of the
+Americas—and whether they had a hand in the extinction of some
+thirty-five genera of Pleistocene mammals. Finally, it is about the
+evolutionary processes and pathways they blazed, and the long-term
+consequences of their prehistory.
+
+The other theme is about how we know what we know about the first
+Americans. It is about the methods archaeologists, geologists,
+linguists, physical anthropologists, and geneticists are bringing to
+bear on the problem of origins, antiquity, and adaptations (my
+non-archaeological colleagues will, I hope, forgive my trespassing).
+Because these approaches yield very different kinds of evidence, they
+are not easily reconciled, nor do the practitioners in each field sing
+in harmony. Hence, it is important to understand how they (we) arrive at
+our conclusions, and just how reliable those conclusions might be.
+
+Admittedly, talking about how we know what we know is not nearly as
+satisfying as talking about what we know, but it's vital all the same,
+especially in light of how this topic is often portrayed in the popular
+media. Our contentiousness encourages journalists, science writers, and
+filmmakers to pitch a story of the peopling of the Americas around
+colorful characters, raging controversy, and outrageous theories—we
+don't lack for any of these—especially if it involves that hackneyed
+theme of an iconoclastic scholarly David fighting the establishment
+Goliath to prove the revolutionary idea that (fill in the blank) proves
+everything science has ever thought was wrong. The headlines fairly leap
+from page and screen: “American Indians were not the first ones here!”
+“Siberian hunter claims extinct Ice Age bears still alive!” And, for
+conspiracy buffs, “The suppressed story of the people who discovered the
+New World.” One doesn't have to make these up: the last is the subtitle
+of a just-released book.
+
+Those of us in the business are not without sin. We feed the beast,
+holding press conferences to announce the discovery of the (latest)
+oldest site in the Americas, make claims on camera that would never pass
+muster in the professional journals, or give flip comments to reporters
+about our colleagues’ discoveries (like, say, “Fingerprint the crew”)
+that stoke the fires of controversy. Indeed, as I was writing this book,
+a group of geologists and archaeologists launched a press campaign
+proclaiming that a comet blasted the earth in the late Pleistocene, an
+unwelcome ET that wreaked havoc on global climates, destroyed North
+America's megafauna, and devastated Paleoindian populations. They might
+be right, but it's customary in science to build the case and publish
+the evidence before issuing the press release about the conclusions.
+
+However entertaining the often-gossipy popular accounts of this
+controversy—especially when it's not your ox being gored—they rarely
+provide accurate or complete details of the science behind it all, or
+its results. Having long been a participant in the pre-Clovis
+controversy, and particularly its tipping point at Monte Verde, I can
+easily see that commentary on it by individuals who view it from the
+outside bears only a passing resemblance to what I saw actually
+happening. In fact, not only do these err on what happened publicly, but
+they also naturally miss much of what went on behind the scenes, and
+those who put dialogue in our mouths to recreate events are usually
+completely wrong.
+
+Moreover, there is the inescapable fact that beneath all the tabloid
+talk, there are legitimate scientific and substantive reasons why we
+disagree about issues, why the same archaeological (or linguistic, or
+genetic, or skeletal) evidence can and often is viewed very differently
+by different investigators, and why there is ambiguity and disputed
+interpretation. Challenging though it may be at times, to truly
+understand the peopling of the Americas requires probing deeply into how
+this knowledge is created, shaped, and put to use. Only with that
+understanding is it possible to appreciate, despite evidence converging
+from so many diverse fields, why questions about the first Americans are
+among the most contentious in anthropology, and may remain so.
+
+Finally, and though it may go without saying, I confess I am not without
+sin. My voice has long contributed to the din over the origins and
+antiquity and adaptations of the first Americans, and I have been
+directly involved in disputes over key pre-Clovis sites, in contesting
+the claim the Americas were colonized from Ice Age Europe, in debating
+the role of Paleoindians in the extinction of the Pleistocene megafauna,
+and in seeking to understand how hunter-gatherers met the challenges of
+moving across and adapting to the vast, unknown, diverse, and changing
+landscapes of Pleistocene North America
+
+I have had my own ox gored.
+
+I will nonetheless do my best to present the different sides of a
+disputed issue, but the reader is forewarned. Caveat lector.
+
+…AND WHAT THIS VOLUME IS NOT
+
+This book is not about the Ice Age peopling or Paleoindian archaeology
+of the entire New World: it's mostly about North America. This is so for
+several reasons, not least that Pleistocene glaciation, climates, and
+environments play out in very different ways in the Northern and
+Southern hemispheres, and so, too, the archaeological records are
+dissimilar. Even using the term pre-Clovis in South America is a
+misnomer since Clovis fluted points, strictly speaking, only reach as
+far south as Panama. Covering the entire hemisphere would double the
+size of an already large book, and is unnecessary in any case since
+there are several volumes that ably cover the South American ground,
+leaving me free to concentrate on North America, which is the region of
+my own archaeological field research and expertise.
+
+That said, the South American record is not ignored. I examine
+hemisphere-wide evidence from language, teeth, genes, and crania
+relevant to questions of the peopling of North America, as well as the
+South American sites that figure prominently in the pre-Clovis debate.
+The latter are archaeologically relevant since the ancestors of the
+first South Americans must have come via North America; we haven't a
+shred of evidence to indicate South America was peopled directly by
+ocean crossing. If the oldest accepted sites in the New World are in the
+Southern Hemisphere—as is the case at the moment—then there must be ones
+older still in the Northern Hemisphere. Only, we've not found them
+yet—or at least not agreed we've found them.
+
+I wrote this book for the general reader and not my archaeological
+colleagues, who've perhaps heard quite enough from me on this subject
+already. The difference is largely a matter of style rather than
+substance, but also of coverage. The constraints of space and the
+demands of the narrative forbade me from mentioning every important
+site, researcher, argument, or claim (sometimes, I confess, I was glad
+of it). Accordingly, rather than provide encyclopedic, site-by-site
+lists of what was found where—the sort of thing only an archaeologist
+could love—I instead highlight finds that help illustrate broad
+archaeological patterns and adaptive processes. I provide details as
+needed, but there's too good a story to be told here to become bogged
+down in archaeological minutiae. To further ease the narrative for my
+intended readers, I have gone against all my scholarly instincts and
+omitted citations from the text. But I cannot fully shed my obligation
+to give credit (or blame) for ideas and discoveries. Thus, I have
+embedded endnotes throughout the book that provide citations to source
+material, along with occasional follow-up comments.¹
+
+Many voices will be heard here, save for an obvious one: those of the
+descendants of the first peoples, American Indians. I do not omit
+discussion of their traditional origin narratives out of either
+disinterest or disdain, or because I think American Indians are
+unrelated to the first peoples in America. I don't. Rather, it is
+because my expertise lies elsewhere. Even so, I am acutely aware that
+questions of the Pleistocene peopling of the Americas bear on
+contemporary issues of Native American identity and ancestry, and of
+“ownership” of the past and present. It's not a rhetorical question to
+ask, as Vine Deloria has, if American Indians had “barely unpacked
+before Columbus came knocking on the door,” will people doubt their
+claims to the land and its resources? And I am sympathetic to the anger
+provoked among Native groups by speculations by some archaeologists and
+physical anthropologists that the Americas were originally peopled from
+Europe, or not by ancestral Native Americans. Such claims cannot be made
+lightly nor without unimpeachable evidence, though as will be seen, they
+have been.
+
+I also recognize that Native American views of their origins are not
+always consonant with those of archaeology. In some cases—as, for
+example, Deloria's piercing Red Earth, White Lies—they furiously condemn
+it. There are archaeologists who agree: we need to downplay “solid
+archaeological dogma such as the Bering Land Bridge migration route to
+the Americas,” they say.² Here's my view: the past is large enough to
+accommodate many different uses (as Robert McGhee put it), and I am
+content to co-exist.
+
+But more important, I won't be shy about casting a critical scientific
+eye on what archaeologists and anthropologists know and don't know about
+the peopling of the Americas. After all, it's only dogma if it's left
+unexamined. That won't happen here.
+
+Finally, a comment on my use of the terms colonization and New World. I
+well understand the baggage that comes with both: colonization conjures
+painful images of the displacement and destruction of indigenous peoples
+and culture in America after 1492. The word itself is rooted even
+deeper, in the settlements established in territories conquered by the
+legions of the Roman Empire (from the Latin coloniae³). However, in the
+2,000 years since the Romans, and in the centuries since European global
+expansion, “colonize” has acquired a much broader and more neutral
+meaning in the sciences to refer to the dispersal of a population or
+species, and its settlement in a different place. It is in this
+unencumbered ecological sense that the word is used here, and often
+interchangeably with peopling or migration.
+
+The term New World was, of course, one applied by Europeans to the
+Americas.⁴ At the tail end of the fifteenth century, the American
+continent was new. To them. It was hardly new to the Native Americans
+who were here to greet them, for they were the descendants of peoples
+who had been living here for millennia. Yet, to speak of the Ice Age
+colonization of the New World is unquestionably appropriate in this
+context, for when the first people reached America more than 12,500
+years ago, this truly was a New World. In fact, as we shall see, Ice Age
+America was new in more ways than just a world uninhabited.
+
+ACKNOWLEDGMENTS
+
+Blake Edgar, acquisitions editor for the University of California Press,
+has my thanks for asking—just as my previous volume with the University
+of California Press (Folsom, 2006) was rolling off the presses—whether I
+had another book in the offing. Here ’tis.
+
+Blake, as well as Wendy Ashmore, Tom Dillehay, Donald Grayson, Torrey
+Rick, and David Hurst Thomas read the entire manuscript, and provided
+detailed and helpful comments. Daniel Mann and Stephen Zegura, geologist
+and geneticist, respectively, provided constructive, detailed critiques
+of chapters 2 (Mann), and 5 and 6 (Zegura), thereby saving me possible
+embarrassment in venturing into disciplines not my own. I am extremely
+grateful for the help of all, and hereby absolve them of blame for any
+lingering errors.
+
+As with all my work, I've been able to rely on friends and colleagues
+who've kindly answered questions (or asked pointed ones), given advice,
+supplied references or unpublished manuscripts, or otherwise rendered
+aid along the way. For that I'd like to thank Michael Adler, Tony Baker,
+Douglas Bamforth, Lewis Binford, Deborah Bolnick, Michael Cannon, Tom
+Dillehay, Arthur Dyke, Sunday Eiselt, Michael Gramly, Donald Grayson,
+Michael Hammer, Vance Holliday, Karl Hutchings, Brian Kemp, Jeffrey
+Long, Dan Mann, Daniel Moermann, Connie Mulligan, James O'Connell, Nick
+Patterson, Torrey Rick, Theodore Schurr, Vin Steponaitis, Noreen Tuross,
+Richard Waitt, Cathy Whitlock, and Don Yeager.
+
+For providing photographs or help with other illustrations, I am
+grateful to Jim Adovasio, Tony Baker, Alex Barker, Charlotte Beck,
+Michael Collins, Deborah Confer, Judith Cooper, Joseph Dent, Tom
+Dillehay, Boyce Driskell, Steve Emslie, Michael Gramly, Eugene Hattori,
+Louis Jacobs, George Jones, David Kilby, Jason LaBelle, Anne Meltzer,
+Ethan Meltzer, Jeff Rasic, Richard Reanier, Torrey Rick, Richard Rose,
+Mark Stiger, Lawrence Straus, Renee Walker, Fred Wendorf, David Willers,
+David Wilson, Michael Wilson, Tom Wolff, and David Yesner. I am
+particularly indebted to Katherine Monigal, who put her considerable
+artistic and computer talents to work on many of the figures in the
+book, and thereby saved me from having to get over my loathing of Adobe
+Photoshop (Adobe Illustrator and I still remain on quite good terms).
+
+Several years ago I was fortunate to participate in a series of
+fascinating National Science Foundation-sponsored conferences organized
+by John Moore and Bill Durham that brought together archaeologists,
+geneticists, linguists, and social anthropologists to explore issues
+related to the colonization of new landscapes—and not just the Americas,
+but also Australia and the islands of Oceania. These sessions and my
+fellow participants contributed immeasurably to my thinking about these
+matters.
+
+This book was written in the spring of 2007 while I was on a Research
+Fellowship Leave from Southern Methodist University, for which I am most
+grateful. My archaeological fieldwork and historical research touched on
+here have been supported by grants from the National Science Foundation,
+the Potts and Sibley Foundation, and especially (over the last decade)
+by the Quest Archaeological Research Fund, generously established at SMU
+by Joseph and Ruth Cramer.
+
+In the fall of 1992, when I was writing Search for the First Americans,
+my children were four and six years old. And so I wrote at my university
+office to avoid the wonderful and welcome distractions of home. The
+children have since flown the nest for their own universities far away.
+And so I wrote First Peoples in my son's room—now converted to an
+office. But I miss those wonderful distractions that used to be home.
+Shadow the dog tried his best to fill the void, but it was just not the
+same.
+
+David J. Meltzer
+Dallas, Texas, January 2008
+
+1
+
+OVERTURE
+
+It was the final act in the prehistoric settlement of the earth. As we
+envision it, sometime before 12,500 years ago, a band of hardy Stone Age
+hunter-gatherers headed east across the vast steppe of northern Asia and
+Siberia, into the region of what is now the Bering Sea but was then
+grassy plain. Without realizing they were leaving one hemisphere for
+another, they slipped across the unmarked border separating the Old
+World from the New. From there they moved south, skirting past vast
+glaciers, and one day found themselves in a warmer, greener, and
+infinitely trackless land no human had ever seen before. It was a world
+rich in plants and animals that became ever more exotic as they moved
+south. It was a world where great beasts lumbered past on their way to
+extinction, where climates were frigidly cold and extraordinarily mild.
+In this New World, massive ice sheets extended to the far horizons, the
+Bering Sea was dry land, the Great Lakes had not yet been born, and the
+ancestral Great Salt Lake was about to die.
+
+They made prehistory, those latter-day Asians who, by jumping
+continents, became the first Americans. Theirs was a colonization the
+likes and scale of which was virtually unique in the lifetime of our
+species, and one that would never be repeated. But they were surely
+unaware of what they had achieved, at least initially: Alaska looked
+little different from their Siberian homeland, and there were hardly any
+barriers separating the two. Even so, that relatively unassuming event,
+the move eastward from Siberia into Alaska and the turn south that
+followed, was one of the colonizing triumphs of modern humans, and
+became one of the great questions and enduring controversies of American
+archaeology. Those first Americans could little imagine our intense
+interest in their accomplishment thousands of years later, and would
+almost certainly be puzzled—if not bemused—at how seemingly
+inconsequential details of their coming sparked a wide-ranging, bitter,
+and long-playing controversy, ranking among the greatest in anthropology
+and entangling many other sciences.
+
+[images]
+
+FIGURE 1.
+Map of the Western Hemisphere, showing the extent of glacial ice at the
+Last Glacial Maximum (LGM) 18,000 years ago, the approximate position of
+the coastline at the time, and some of the key early sites,
+archaeological and otherwise, hemisphere-wide.
+
+Here are the bare and (mostly) noncontroversial facts of the case. The
+first Americans came during the Pleistocene or Ice Age, a time when the
+earth appeared vastly different than it does today. Tilts and wobbles in
+the earth's spin, axis, and orbit had altered the amount of incoming
+solar radiation, cooling Northern Hemisphere climates and triggering
+cycles of worldwide glacial growth. Two immense ice sheets up to three
+kilometers high, the Laurentide and Cordilleran, expanded to blanket
+Canada and reach into the northern United States (while smaller glaciers
+capped the high mountains of western North America).
+
+As the vast ice sheets rose, global sea levels fell approximately 120
+meters, since much of the rain and snow that came down over the land
+froze into glacial ice and failed to return to the oceans. Rivers cut
+deep to meet seas that were then hundreds of kilometers beyond modern
+shorelines (Figure 1). Lower ocean levels exposed shallow continental
+shelf, including that beneath the Bering Sea, thereby forming a land
+bridge—Beringia—that connected Asia and America (which are today
+separated by at least ninety kilometers of cold and rough Arctic
+waters). When Beringia existed, it was possible to walk from Siberia to
+Alaska. Of course, once people made it to Alaska, those same glaciers
+presented a formidable barrier to movement further south—depending, that
+is, on precisely when they arrived in this far corner of the continent.
+
+These ice sheets changed North America's topography, climate, and
+environment in still more profound ways. It was colder, of course,
+during the Ice Age, but paradoxically winters across much of the land
+were warmer. And the jet stream, displaced southward by the continental
+ice sheets, brought rainfall and freshwater lakes to what is now western
+desert and plains, while today's Great Lakes were then mere soft spots
+in bedrock beneath millions of tons of glacial ice grinding slowly
+overhead.
+
+A whole zoo of giant mammals (megafauna, we call them) soon to become
+extinct roamed this land. There were multi-ton American
+elephants—several species of mammoth and the mastodon—ground sloths
+taller than giraffes and weighing nearly three tons, camels, horses, and
+two dozen more herbivores including the glyptodont, a slow-moving mammal
+encased in a turtle-like shell and bearing an uncanny resemblance to a
+1966 Volkswagen Beetle—or at least a submersible one with an armored
+tail. Feeding on these herbivores was a gang of formidable predators:
+huge lions, saber-toothed cats, and giant bears. All of these mammals
+were part of richly mixed animal communities of Arctic species that
+browsed and grazed alongside animals of the forests and plains.
+
+But this was no fixed stage. From 18,000 years ago, at the frigid depths
+of the most recent glacial episode—the Last Glacial Maximum (LGM) it's
+called—until 10,000 years ago when the Pleistocene came to an end (and
+the earth entered the Holocene or Recent geological period), the
+climate, environment, landscapes, and surrounding seascapes of North
+America were changing. Many changes happened so slowly as to be
+imperceptible on a human scale; others possibly were not. Certainly,
+however, the world of the first Americans was unlike anything
+experienced by any human being on this continent since.
+
+Once they got to America, these colonists and their descendants lived in
+utter isolation from their distant kin scattered across the planet. Over
+the next dozen or so millennia, in both the Old World and the New,
+agriculture was invented, human populations grew to the millions, cities
+and empires rose and fell, and yet no humans on either side of the
+Atlantic or Pacific oceans was aware of the others’ existence, let alone
+knew of their doings.
+
+It would not be until Europeans started venturing west across the
+Atlantic that humanity's global encircling was finally complete. Peoples
+of the Old World and the New first encountered one another in a remote
+corner of northeast Canada around AD 1000.¹ But that initial contact
+between Norse and American Indians was brief, often violent, and mostly
+served to thwart the Vikings’ colonizing dreams and drive them back to
+Greenland and Iceland. It had none of the profound, long-term
+consequences that followed Columbus's splashing ashore on a Caribbean
+island that October day of 1492.
+
+Europeans, of course, were profoundly puzzled by what they soon realized
+was far more than a series of islands, but instead a continent and
+peoples about whom the Bible—then the primary historical source for
+earth and human history—said absolutely nothing. We can presume Native
+Americans were just as perplexed by these strange-looking men, but their
+initial reactions went largely unrecorded by them or contemporary
+Europeans. Over the next several centuries, Europeans sought to answer
+questions about who the American Indians were, where they had come from,
+when they had arrived in the Americas, and by what route. The idea that
+they must be related to some historically known group—say, the Lost
+Tribes of Israel—held sway until the mid-nineteenth century, when it
+became clear that wherever their origins, they had arrived well before
+any historically recorded moment. The answer would have to be found in
+the ground in the artifacts, bones, and sites left behind from a far
+more ancient time.
+
+But how ancient would prove a matter of much dispute. In 1927, and after
+centuries of speculation and more than fifty years of intense
+archaeological debate, a discovery at the Folsom site in New Mexico
+finally demonstrated the first Americans had arrived at least by Ice Age
+times. The smoking gun?—a distinctive, fluted spear point found embedded
+between the ribs of an extinct Pleistocene bison. A hunter had killed
+that Ice Age beast (see Plate 1).
+
+A half-dozen years later, outside the town of Clovis (also in New
+Mexico), larger, less finely made, and apparently still older fluted
+spear points than those at Folsom were found—this time alongside the
+skeletal remains of mammoth. As best matters could then be determined,
+these were the traces of the most distant ancestors of Native Americans.
+Paleoindians, they were named, to recognize their great antiquity and
+their ancestry to American Indians.
+
+But were these the very first Americans, and if so, just when had they
+arrived? A more precise measure of their antiquity would have to wait on
+chemist Willard Libby's Nobel Prize-winning development of radiocarbon
+dating in the 1950s. By the early 1960s, that technique showed that the
+Folsom occupation was at least 10,800 years old, while Clovis dated to
+almost 11,500 radiocarbon years before the present (BP).² This was
+relatively new by Old World standards—humans had lived there for
+millions of years—but it was certainly old by New World standards.
+
+Better still, the Clovis radiocarbon ages apparently affirmed the
+suspicion this archaeological culture represented the first Americans,
+for the dates coincided beautifully with the retreat of North America's
+vast continental glaciers that, it was widely believed, had long
+obstructed travel to the south and forced any would-be first Americans
+to cool their heels in Alaska.
+
+As those glaciers retreated, an “ice-free” corridor opened between them
+(around 12,000 years ago) along the eastern flanks of the Rocky
+Mountains, forming a passageway for travel into unglaciated,
+lower-latitude North America. Emerging from the southern end of the
+corridor onto the northern plains fast on the heels of its opening, the
+first Americans radiated across the length and breadth of North
+
+America with apparently breathtaking speed, spreading Clovis and
+Clovis-like arti-facts across North America within a matter of
+centuries. Nor did they stop at the border: their descendants evidently
+continued racing south, arriving in Tierra del Fuego within 1,000 years
+of leaving Alaska (having developed en route artifacts that were no
+longer recognizably Clovis). It's an astonishing act of colonization,
+especially given it took our species more than 100,000 years just to
+reach the western edge of Beringia.
+
+Indeed, the possibility that Clovis groups traversed North America in
+what may have been barely 500 years is all the more striking given that
+North America was then in the midst of geologically rapid climatic and
+environmental change. Yet, Clovis groups seemingly handled the challenge
+of adapting to this unfamiliar, ecologically diverse, and changing
+landscape with ease. Their toolkit, including its signature fluted
+points, is remarkably uniform across the continent. That lack of
+variability is taken as testimony to the rapidity of their dispersal
+(that is, it happened so quickly there was hardly time for new point
+styles to emerge).
+
+That some of those points were found embedded in the skeletons of
+mammoth and bison suggested an answer to the question of how
+Paleoindians had moved so quickly and effortlessly: they were apparently
+big-game hunters, whose pursuit of now-extinct animals pulled them
+across the continent. Some took the argument a step further: it was
+their relentless slaughter that drove the Pleistocene megafauna to
+extinction.
+
+ON DATES AND DATING
+
+Throughout this book, time is denoted in years before present,
+abbreviated simply as BP. In regard to deep geological time, as with the
+onset of glaciation 2.5 million years ago, little need be said by way of
+qualification. Such ages are, at best, well-rounded estimates derived by
+a variety of geochemical dating methods, and are certainly accurate at
+the scale of hundreds of thousands of years, which is sufficient for our
+purposes. However, when attention turns to the last 50,000 years, the
+period of particular interest here, we seek more precise chronological
+control.
+
+For that span, radiocarbon dating is the method of choice. It works off
+a straightforward decay principle (illustrated in Figure 2): when cosmic
+ray neutrons bombard the earth's upper atmosphere, they react with
+nitrogen (¹⁴N) to drive off a proton to form radioactive carbon or
+radiocarbon (¹⁴C), one of several isotopes (isotope = same element,
+different mass) of carbon. Radiocarbon has the same chemical structure
+as elemental carbon (¹²C), but a heavier mass (maintaining nitrogen's
+atomic mass of 14). And like ¹²C, radiocarbon combines with oxygen to
+form carbon dioxide (CO₂), which is then absorbed by plants via
+photosynthesis, and which moves up the food chain into the animals that
+feed on those plants.
+
+[images]
+
+FIGURE 2.
+The radiocarbon process in schematic form (see text for a fuller
+explanation).
+
+When a plant or animal dies, its supply of ¹⁴C is no longer being
+replenished, and the resident ¹⁴C slowly begins to revert back to ¹⁴N,
+and in this decay process releases a radioactive emission (beta
+particle). Immediately after death, ¹⁴C decay produces roughly 15 beta
+emissions/gram/minute. After 5,730 years, half of the ¹⁴C is gone, and
+the decay process yields roughly 7.5 beta emissions/gram/minute. That
+lapsed period is called a half-life. After another 5,730 years have
+passed (that is, 11,460 years after the organism died), another half of
+the original ¹⁴C is now gone (we are down to 25% remaining), and the
+decay process yields roughly 3.75 beta emissions/gm/minute. And so on.
+
+Thus, by measuring the amount of radiocarbon still present in a sample,
+one can determine the approximate date that the organism died. By
+consensus, all radiocarbon ages are expressed as years before present,
+present being arbitrarily set at 1950, the year the first successful
+dates were reported by Willard Libby, the chemist who invented the
+technique (for which he received a Nobel Prize). We set all our
+radiocarbon clocks to years before 1950 to avoid the confusion that
+would follow when comparing the ages of different samples whose
+radioactivity was measured at different times (e.g., 1950 vs. 2000).
+
+Radioactivity is a statistically random process. When it's measured, the
+result is an estimate of the average amount of ¹⁴C in the sample, with
+an accompanying standard deviation to show the estimated error (the true
+value should fall within one standard deviation 68% of the time). A date
+of 10,130 ± 60 BP means that the estimated age of the sample based on
+the mean of the emissions was 10,130 years, and the chances are two out
+of three that the true age lies between 10,070 and 10,190 BP.
+
+Theoretically, radiocarbon decay takes place until all the ¹⁴C is gone
+from a sample—and that takes about ten half-lives. In principle we
+should be able to date material that old, but problems of preservation,
+the difficulty of detecting the tiniest amounts of ¹⁴C, and the
+potential for contamination of ancient samples, put the present reliable
+upper limit of radiocarbon dating at about 50,000 years.
+
+In terms of detection, measuring the amount of ¹⁴C in a sample can be
+done in one of two ways: the conventional decay-counting method is to
+prepare a sample as a liquid or a gas, put it in a radioactive counter,
+and wait for beta emissions to happen. Older samples with less ¹⁴C
+obviously have fewer and more widely spaced beta emissions, and
+obtaining a statistically reliable count of them can take days, weeks,
+and sometimes months.
+
+The alternative technique, Accelerator Mass Spectrometry (AMS) dating,
+uses particle accelerators to count ¹⁴C atoms directly by sending a
+sample at high speeds around a circular or oval particle accelerator.
+The lighter ¹²C atoms can take the tight turns; the heavier ¹⁴C atoms
+can't and fly off the molecular racetrack and crash into a strategically
+placed mass spectrometer, which counts the number of atoms. AMS dating
+takes only minutes or hours, not days or weeks, and standard errors are
+often less than fifty years. Best of all, because atoms are counted
+directly, large samples are no longer necessary. Prior to the advent of
+AMS dating, approximately 5 grams of carbon were required; now, it is on
+the order of 1 milligram. That's the difference between needing the
+entire limb bone of a bison, as opposed to the single tooth of a rodent.
+
+Since AMS dating became available in the 1980s, it has greatly expanded
+our ability to date sites. But radiocarbon dating is not without
+complications, especially because the amount of radiocarbon in the
+atmosphere and ocean has varied over time. In effect, we cannot assume
+that all plants and animals over time started with the same amount. That
+variation is driven by how much radiocarbon is produced in the upper
+atmosphere, which is largely a function of changing amounts of neutrons
+bombarding the atmosphere at a given time (blame the sun for that), and
+changes in the relative amount of CO₂ stored in the atmosphere versus
+the ocean. Speed up or slow down how much CO₂ is squirreled away in the
+deep ocean, and one's radiocarbon-dated sample might have higher (or
+lower) amounts of ¹⁴C—not because the sample is younger (or older), but
+because when it formed, the atmosphere had more (or less) ¹⁴C to absorb.
+
+To control for this variation, radiocarbon measurements are calibrated
+against objects whose ages are precisely known, such as the growth rings
+of a tree. Simplifying a bit: a tree adds one ring every year, and since
+most years differ from one to the next in rainfall and temperature, the
+rings are often different widths (wide and light colored if it's a good
+growth year, dark and narrow if not). The ring pattern becomes a
+fingerprint for a particular period in time. And like fingerprints, no
+two periods are exactly alike. By pushing the tree ring pattern back in
+time—thanks to some well-preserved and long-lived trees from the
+American Southwest, Ireland, and Germany (along with well-preserved wood
+specimens from archaeological sites)—a tree ring sequence has been
+compiled for the last 12,410 years.
+
+By radiocarbon dating a specific tree ring of known age, one can measure
+how far the radiocarbon age diverges from the true age, making it
+possible to calibrate the radiocarbon result to bring it into line with
+a calendar age. When one sees an age listed as “cal BP,” one is in the
+presence of a calibrated age.³
+
+Unfortunately, the period of greatest interest to the study of the first
+Americans—the late Pleistocene—was also a window of geological time
+during which there were unusually rapid changes in ocean circulation
+(for reasons explained in Chapter 2), causing atmospheric ¹⁴C to yo-yo.
+As a result, the radiocarbon clock at times ran too fast or too slow,
+and so a single radiocarbon age from this time period often corresponds
+to more than one calibrated age.⁴
+
+[images]
+
+Because calibrating radiocarbon ages for this time period is neither
+straightforward nor certain,⁵ calibrated ages are not used here;
+instead, all ages are given in radiocarbon years BP. Although this can
+mean a slight loss of chronological precision, that won't particularly
+matter since I am, for the most part, speaking of ages in general. At
+some point in the future, calibration of radiocarbon ages in this window
+of time will be more precise, and then we can make the switch. Until
+then, using radiocarbon years BP has the ancillary benefit of making
+them comparable to the vast bulk of the literature on the Pleistocene
+and on the first Americans, and so will cause less confusion for those
+who wish to look into that literature.
+
+One can, of course, convert the radiocarbon years given here to
+calibrated years. Readers can try this at home, either using web-based
+programs such as CALIB (http://calib.qub.ac.uk/calib/), or by
+downloading calibration share-ware such as OxCal
+(http://c14.arch.ox.ac.uk/oxcal.php). I provide in the accompanying
+table a set of radiocarbon-to-calendar age calibrations at 500-year
+intervals (with one exception) covering the period from 18,000-7400 BP.
+These were calculated using OxCal 3.10.⁶ These are just rough cuts and
+imply a more straightforward relationship between radiocarbon and
+calendar years than actually exists. Real calibration is a complicated
+and messy business, especially for the late Pleistocene.
+
+EARLIER THAN WE THOUGHT?
+
+The idea the first Americans were highly mobile, wide-ranging, big-game
+hunters, whose arrival was tied to the final rhythms of Pleistocene
+glaciation, made perfect sense. For a time. But there were always
+nagging doubts, not least the persistent claims of a pre-Clovis presence
+in the Americas. As more archaeologists took to the field in the 1960s
+and 1970s, perhaps driven (more than they might care to admit) by the
+chance of finding America's oldest site, every field season promised a
+pre-Clovis contender. Some were heralded with great fanfare: the
+legendary Louis Leakey, fresh from his triumph at Olduvai Gorge, flew to
+California to proclaim the Calico site to be middle Pleistocene in age
+(several hundred thousand years old). Unfortunately, its supposed
+artifacts—pulled from massive gravel mudflow deposits—proved
+indistinguishable from the millions of naturally broken stones the
+site's excavators burrowed through and tossed aside in great piles,
+still visible on final approach to Los Angeles International airport.
+
+Other pre-Clovis claims were made by lesser mortals, but in all cases
+the result was the same: a purportedly ancient site burst on the scene
+with great promise, only to quickly tumble down what I came to call the
+pre-Clovis credibility decay curve, wherein the more that was learned
+about a site—for example, that its supposed artifacts were likely
+naturally flaked stone, or that the dating technique was experimental
+and unreliable, or that its deposits were so hopelessly mixed that the
+allegedly ancient artifacts were found alongside discarded beer cans—the
+fewer the archaeologists there were willing to believe it.
+
+Dozens, even scores of sites failed to withstand critical scrutiny.
+There were so many false alarms archaeologists grew skeptical, even
+cynical, about the possibility of pre-Clovis. And we have long
+memories—it's part of our business, after all. The response may not have
+been commendable, but it was certainly understandable, particularly in
+light of the fact that once artifacts are out of the ground, they can
+never again be seen in their original context. In effect, we “destroy”
+aspects of our data in the process of recovering it, and because our
+sites cannot be grown in a petri dish in a lab, replication and
+confirmation of a controversial claim is no easy task and independent
+experiments to check results are nigh on impossible (archaeology may not
+be a ‘hard’ science, though it can be a difficult one all the same).
+
+Pre-Clovis proponents cried foul, claiming the demands made of their
+sites and evidence were unfair, their work chronically underfunded, and
+their task overdemanding. Critics replied with a sneer that those same
+demands were met easily enough at Africa's and Australia's earliest
+sites, and perhaps the proponents’ eagerness to find pre-Clovis sites
+marked a basic flaw in the motivational structure of American academia.
+Bystanders wisely kept their heads down and declared neutrality. Opinion
+quickly outran and outweighed the meager facts, and in science
+disagreement moves in quickly to fill the void between fact and opinion.
+So controversy grew.
+
+All of this was testimony, cynics smirked, that academic battles are so
+ferocious because the stakes are so low.
+
+The cynics are partly right. Knowing that the first Americans may have
+arrived 14,250 years ago, as suggested by artifacts deep within
+Meadowcroft Rockshelter, Pennsylvania, only tells us American prehistory
+is a couple of thousand years older than we used to think. In the grand
+scheme of the last 6 million years of human evolutionary history, that
+hardly matters. People could have arrived in the Americas tens of
+thousands of years earlier still, and it would not radically alter our
+understanding of human evolution (though if they came here hundreds of
+thousands of years ago, the ante is upped considerably—but the odds that
+happened are vanishingly small).
+
+Nonetheless, there is more here than an academic turf war. Hanging in
+the balance is an understanding of when, how, how fast, and under what
+conditions hunter-gatherers can colonize a rich and empty continent;
+insight into the population and biological history of New World peoples;
+a gauge of the speed with which the descendants of the first Americans
+domesticated a cornucopia of plants (some as early as 10,000 years ago)
+and became the builders of the complex civilizations here when Europeans
+arrived; a better and more precise calibration of the rates of genetic,
+linguistic, and skeletal change in populations over that time; and most
+unexpectedly, a deeper understanding of the often-tragic historical
+events that unfolded in the wake of the Europeans’ arrival on the shores
+of what they mistakenly, if self-righteously, proclaimed a New World.
+
+As the peopling controversy deepened, support for pre-Clovis got a boost
+from an unexpected quarter. Starting in the late 1980s, molecular
+biologists and human geneticists began to piece together histories of
+modern American Indians from their mitochondrial DNA (which is inherited
+mother to child) and from DNA in the non-recombining portion of the Y
+chromosome (inherited father to son). By determining the genetic
+distance between modern Asians and Native Americans, and assuming that
+distance marks the time elapsed since they were once part of the same
+gene pool, geneticists have a molecular clock by which they can reckon
+the moment the ancestors of these groups split from one another. By some
+estimates, it was upwards of 40,000 years ago.
+
+The linguists spoke up as well. There were an estimated 1,000 American
+Indian languages spoken in historic times. If all those evolved from a
+single ancestral tongue, they argued, then the time elapsed since those
+first speakers arrived in the New World might be as much as 50,000
+years. The Clovis chronology, one linguist proclaimed, was simply in
+“the wrong ballpark.” Although geneticists and linguists were happy to
+go where right-thinking archaeologists feared to tread, they could not
+prove the existence of pre-Clovis. Neither genes nor languages can be
+dated: only archaeological materials can.
+
+Then the site of Monte Verde, Chile, excavated and analyzed by Tom
+Dillehay, came along. Monte Verde is an extraordinary locality, and what
+makes it so is that soon after this creek-side spot was abandoned, the
+remains left behind were submerged and ultimately buried in waterlogged
+peat, thereby stalling the usual decay processes and preserving a
+stunning array of organic items rarely seen archaeologically. These
+included wooden artifacts; planks used in hut construction; burned,
+broken, and split mastodon bones and ivory, along with pieces of its
+meat and hide, some still stuck to the wood timbers, the apparent
+remnants of coverings that once draped over the huts; and Juncus reed
+string wrapped around wooden stakes (Figure 3). There were also human
+footprints; a wide range of plants, some exotic, others charred, still
+others apparently well chewed, as well as a complement of stone
+artifacts. All of which dated to 12,500 years ago.
+
+At Dillehay's invitation, a group of Paleoindian experts visited Monte
+Verde in January 1997, having studied in advance the 1,000 pages of his
+massive, soon-to-be-published second and final volume on the site. We
+came away convinced of its pre-Clovis antiquity. This was news even the
+New York Times deemed fit to print.
+
+Although just 1,000 years older than Clovis, Monte Verde's distance
+(approximately 16,000 km) from the Beringian entryway and its decidedly
+non-Clovis look, raises a flurry of questions about who the first
+Americans were, where they came from, what triggered their migration,
+when they crossed Beringia, how they came south from Alaska (given the
+ice-free corridor would not be open until after they had arrived in
+South America), whether Monte Verde and Clovis represent parts of the
+same colonizing pulse, how many migratory pulses there were to America
+in Pleistocene times, how and how fast the first Americans traversed the
+continent, and why (at the moment at least) the oldest site in the New
+World is about as far from Beringia as one can reach, with no sites in
+between as old or older.
+
+[images]
+
+FIGURE 3.
+Two of the more than eighty “tent stakes” found at the Monte Verde site.
+These stakes have flattened heads from being pounded into the ground,
+were set behind timbers hewn from a different kind of wood, and had
+wrappings of string made from a third type of plant (Juncus reed).
+(Photograph courtesy of Tom Dillehay.)
+
+The good news is we have plenty of answers to all these questions. The
+bad news is we cannot tell which answers are right. But I'll try to sift
+through what we know and don't, and what we can say or not.
+
+TRACING FIRST PEOPLES
+
+The chapters that follow explore the origins, antiquity, and adaptations
+of the first Americans. When they arrived, which at the very least was
+by 12,500 years ago, the world was still in the grip of an Ice Age, and
+North America was a vastly different place than it is today. Chapter 2
+sets that stage. It explores the causes of Ice Ages in the intricate
+links between changes in the earth's orbit, solar radiation, ocean
+circulation and salinity, and greenhouse gasses such as carbon dioxide
+(CO₂), and their consequences, not least of which were the immense ice
+sheets of higher-latitude North America (as well as at higher elevations
+in lower latitudes). These were glaciers large enough to have bulldozed
+landscapes, changed the course of rivers (including the Missouri and
+Mississippi), altered atmospheric circulation (creating the paradox of
+Ice Age winters that in places were no colder and possibly even warmer
+than those of the present), and frozen so much water on land that sea
+levels fell worldwide, creating land bridges across which people could
+walk from one hemisphere to another.
+
+South of the vast continental ice sheets and beyond their immediate
+refrigerating effects, North America experienced climates and
+environments unlike any at present, comprised of complex plant and
+animal communities that were changing dramatically, or in some cases
+heading toward extinction. The first Americans were there to witness and
+experience some of those changes, as well as the end of the Ice Age,
+which refused to die quietly but instead went out in a rush of
+floodwaters of Noachian proportions and one brief, if failed attempt to
+reassert its glacial dominance.
+
+But just when did the first Americans arrive? During the most recent
+glacial cycle, or earlier still? The next few chapters range widely over
+the efforts, historical and contemporary, archaeological and
+non-archaeological, to establish the origins and antiquity of the first
+Americans. This is a problem that's been around, as detailed in Chapter
+3, for well over a century, and has been disputed almost from the very
+moment it was first posed. The initial round of controversy was
+prolonged in part because archaeology itself was in its adolescence; it
+hadn't well-established methods and techniques for finding, evaluating,
+or reliably determining the age of ancient artifacts or sites; and it
+was being tugged in different directions by practitioners who wanted to
+craft the discipline in their own images.
+
+Demonstrating people had arrived in the Americas by Ice Age times came
+only after better chronological markers were established, and when a
+particular kind of site was discovered, namely a kill site—as at
+Folsom—in which the prey was an extinct Pleistocene animal. If the
+animal lived during the Ice Age, then so did the people who killed it.
+This enabled a site's antiquity to be assessed in the ground, a
+necessity in those pre-radiocarbon dating years. That demonstration at
+Folsom also taught archaeologists what to look for and how to look for
+Pleistocene-age sites. Soon dozens more such sites were found, including
+Clovis, which not only helped paint a picture of North American
+Paleoindians, but also had the more subtle consequence of creating
+expectations that guided much of the archaeological research into the
+Paleoindian period over the ensuing decades.
+
+One of those expectations—that Clovis sites were oldest and therefore
+represented the first Americans—quickly became fact, and as Chapter 4
+shows, sparked a decades-long effort to prove otherwise. The criteria
+for demonstrating a pre-Clovis presence were straightforward in
+principle—one needed unmistakable artifacts in a secure geological
+context with reliable ages from radiocarbon or some other dating
+technique—but they proved extraordinarily difficult to meet in practice.
+Nature was partly to blame: it has the mischievous ability to break
+stone and bone in ways that neatly mimic primitive human artifacts. But
+we archaeologists shoulder part of the blame for not recognizing
+nature's deviousness, or for using unproven dating techniques, or for
+misreading geological circumstances. Even so, much was learned in the
+decades of contentious debate over pre-Clovis and how best to meet the
+standards of proof—which were finally met at Monte Verde in 1997.
+
+How resolution came about was in some ways reminiscent of events that
+took place seventy years earlier at Folsom—including the venerable
+tradition of a site visit by outside experts—but in important ways, the
+events were very different, not least in the way that Monte Verde gave
+fewer clues of how to find sites like it. But it has certainly
+redirected where we look. In Monte Verde's wake, archaeological
+attention has shifted to the coast as a possible entry route, which was
+available for passage well before the ice-free corridor opened. It has
+also redoubled efforts to find sites of comparable age here in North
+America, but so far these have proven elusive. It leaves us wondering:
+why are pre-Clovis sites so hard to find, and how do they relate to
+Clovis? Are they different parts of the same colonizing pulse into the
+New World?
+
+Archaeology speaks directly to questions of when and where, and
+sometimes how, the first people came to the Americas, but struggles
+mightily with the question of who these people were, in tracing their
+population histories (forward or backward) or in ascertaining their
+relationship to contemporary American Indians. It is no easy task to
+measure the historical affinity between groups widely separated in space
+and time from the manner in which they crafted their stone tools.
+Accordingly, Chapter 5 turns to DNA, language, teeth, and skeletal
+remains to attempt to fill the gap between the most ancient and modern
+Native Americans. By grouping together similarities in the words and
+grammar of many hundreds of native languages, and by examining the
+diversity and patterning in mitochondrial and Y chromosome DNA, it
+should in principle be possible to unravel the complex relationships
+among American Indians, and then go the next step to infer the number
+and timing (using molecular clocks or inferences about rates of language
+change) of their ancestors’ migration(s) to the New World.
+
+Assuming, that is, there is an unbroken chain from the present back into
+the past, and that modern Native Americans are descendants of the first
+Americans, a matter that's now hotly disputed by some physical
+anthropologists. They see among rare ancient human skeletal remains
+skulls that do not resemble the crania of American Indians—the most
+famous (infamous) being Kennewick, which after its discovery was
+described at a press conference by the arcane term “Caucasoid,” which on
+the notepads of the assembled reporters quickly morphed into
+“Caucasian.” Could the Americas have originally been peopled by
+Europeans? Were ancestors of American Indians not the discoverers of
+America, but later arrivals? These are not innocent academic questions,
+but ones that inevitably take on a political character with real-life
+implications for modern-day American Indians. Even so, a couple of
+archaeologists blithely leaped on that bandwagon, and proclaimed that
+Solutreans from Stone Age Europe had paddled the iceberg-choked
+Pleistocene North Atlantic and landed on the east coast of North America
+several thousand years before Clovis. But are there traces of non-Asian
+ancestry in genes or language? How reliable are skulls for tracing the
+origins of populations? Just what do crania tell us about
+“race”—whatever that loaded term implies? That's why Chapter 5 aims to
+detail how all these methods work, what they can and cannot reveal, and
+the reliability of the conclusions drawn from them.
+
+That chapter also shows that compounding the evidence and methods being
+brought to bear on the peopling of the Americas has in no small measure
+compounded the controversy. Now, instead of archaeologists arguing with
+one another—as we still do, even in these post-Monte Verde
+days—linguists, physical anthropologists, and geneticists are haggling
+among themselves, and all of us with one another. There's a good reason
+for that, as explored in Chapter 6: linguists, physical anthropologists,
+and geneticists speak with no more unanimity on this question than
+archaeologists, nor is it easy to reconcile such radically different
+kinds of evidence. Each of these disciplines approaches the central
+questions from very different angles. Linguists and geneticists view the
+peopling of the Americas backward from the present, through the
+languages or DNA of living American Indians. Archaeologists and physical
+anthropologists, working with ancient sites and skeletal remains, come
+from the opposite direction.
+
+Naturally, there are advantages and disadvantages to each, and
+significant differences in data and method, such that linking modern
+languages or genes with Pleistocene archaeological or skeletal remains
+proves no easy task—not that we haven't tried. We have many scenarios
+for the number, relative timing, and antiquity of migrations to America.
+Although there is no consensus among them, we have begun to answer
+questions about who the first Americans were and where they came from,
+and can perhaps narrow down the window of time within which the
+migration (migrations?) occurred, and what our best chance is of more
+precisely resolving such questions. Even so, controversy remains.
+
+Of course, the search for the first Americans is not just about origins
+and antiquity—it's also about adaptations. Once here, they apparently
+colonized the length and breadth of the hemisphere in less than a
+millennium. That's a stunning achievement for any human group, but
+especially for hunter-gatherers in a novel and changing setting.
+Chapters 7 through 9 look into how it is they moved so far so fast, what
+life was like in Ice Age America for the new arrivals, and what adaptive
+strategies keyed their successful colonization of a continent as diverse
+and dynamic as late Pleistocene North America.
+
+Central to these issues is the matter of adapting to a new land,
+considered in detail in Chapter 7. As these bygone Siberians moved south
+into an ever-more-exotic New World, they surely possessed a general
+knowledge of animals and plants, but were increasingly encountering ones
+they had never seen before. Which would feed them, clothe them, cure
+them, or kill them? There was no one to greet them or provide helpful
+advice about, say, rattlesnakes or poisonous plants. Nor were there
+signposts at the gateway to America as there are today (tongue-in-cheek)
+in downtown Barrow, Alaska, pointing the way to New York City or
+Ayachucho, Peru.
+
+Colonists in new landscapes face great risks, especially early on when
+their numbers are low and they know little of the availability,
+abundance, and distribution of plant and animal foods, or of how severe
+local climates might be, or of where (and what) potential dangers might
+lurk. To reduce that risk, it would have been to their advantage to
+learn about their new world as quickly as possible, a strong incentive
+to range widely and rapidly. Yet, doing so would have meant moving away
+from other people.
+
+The first Americans are often stereotyped as manly hunters, Pleistocene
+versions of the mountain men and fur traders who boldly ventured across
+the American West in the eighteenth and nineteenth centuries. But if the
+goal was not merely to exploit but also to explore, adapt, and settle,
+“early man” would not get very far without early woman, and without
+producing early children. And when those children came of age, they
+needed spouses. Where were those to be found? Within their immediate
+band, or among distant kin who'd split off to find their own way? And
+how could or did groups maintain longdistance contacts with others with
+whom they could exchange information, resources, and mates, and do so
+over a vast and uncharted landscape with few known landmarks, across
+which they and others were possibly moving rapidly?
+
+We have only recently begun to model the processes of colonization.
+Central to seeing if those models work is an understanding of the
+archaeological record and what it reveals of Paleoindian adaptations,
+the subject of Chapter 8. The first Americans surely hunted more than
+gathered: their long Arctic traverse from Asia to America had few other
+options. Those habits continued as they moved south of the ice sheets,
+where Clovis Paleoindians took down mammoth, mastodon, and giant bison.
+
+But just how often were they out hunting big game, or better, how often
+were they successful at it? So successful they drove the Pleistocene
+megafauna to extinction? By 10,800 years BP, soon after Clovis groups
+appeared, that extraordinary assortment of large mammals (some
+thirty-five genera all together) had disappeared, vanishing in a
+geological instant from a world where they had thrived for tens and
+hundreds of thousands of years. Paleoindians are charged with killing—or
+more properly, overkilling—the Pleistocene megafauna, a wholesale
+slaughter routinely invoked today by conservationists as a grim homily
+of human destruction.
+
+Yet, if Paleoindians are guilty as charged, then they behaved unlike any
+other hunter-gatherer groups known before or since, and then artfully
+covered up virtually all evidence of their wrongdoing. It is possible,
+of course, that we've not found their kill sites, or that we do not know
+what members of our own species are wont to do on a rich, virgin
+landscape teeming with game never before hunted by wily human predators.
+Perhaps the rules that govern hunter-gatherers in other times and places
+do not apply here. The first Americans were unique in many ways; this
+may be another.
+
+Of course, those extinctions also coincided with the end of the
+Pleistocene. The sweeping climatic and ecological changes that marked
+that transition are just as likely (maybe even more likely) to be
+responsible for this massive extinction event. But if that's so, more
+questions remain: why did horses disappear from North America at the end
+of the Pleistocene, and yet flourish when reintroduced by the Spanish in
+the early 1500s? And isn't it odd that the plants that comprised the
+diet of the giant ground sloths are common today outside the very
+southwestern caves these now-extinct animals once frequented? These are
+good questions for which we have, as yet, no good answers.
+
+What is certain is that during Paleoindian times, climates were warming,
+glaciers worldwide were in full retreat, sea levels were rising, plants
+and animals were shifting their ranges (or going extinct), and the end
+of the Ice Age was just over the horizon. But around 11,000 years ago,
+the world's climates took a sharp turn. According to one prevailing
+theory, when the retreating Laurentide ice sheet uncovered the St.
+Lawrence seaway that apparently diverted glacial meltwater—which to that
+point mostly drained down the Mississippi River into the Gulf of
+Mexico—into the North Atlantic. Flushing very cold, very fresh water
+directly into the northern ocean upset circulation patterns in the
+Atlantic and triggered a nearly instantaneous climatic response: the
+Northern Hemisphere was plunged back into near-glacial conditions that
+lasted a thousand years. The Younger Dryas, as it's called, was no Ice
+Age rerun, since by then many of the conditions that had put the earth
+under Pleistocene ice had changed. Even so, the sudden polar freeze of
+the Younger Dryas is blamed for the “fragmentation of Clovis culture”
+and even the extinction of the Pleistocene megafauna: it wasn't
+Pleistocene Overkill. It was Pleistocene Overchill. Or not.
+
+Regardless, the Younger Dryas set the stage on which the final
+millennium of colonization was played out. It was during this time, as
+discussed in Chapter 9, that the Paleoindian descendants of wide-ranging
+and highly mobile Clovis groups began to settle in different regions. As
+they did, they developed distinctive adaptations: lifeways in the
+mountainous and semi-arid Great Basin soon became very different from
+those on the grasslands of the Great Plains, or in the rich forests of
+eastern North America.
+
+This settling in inevitably severed ties among populations, and over the
+next ten millennia, their descendants developed new dialects and
+languages, along with distinctive genetic lineages, cultures, and
+material culture. Evolutionary pathways diverged and converged as
+populations sporadically reconnected (peaceably or not) and exchanged
+genes, words, or artifacts. By the time Europeans arrived, some 400
+generations of intermittent isolation, migration, and gene flow had
+passed, and the descendants of what may have been a single band of
+colonists was now many hundreds of separate peoples, cultures, and
+languages, whose histories were hopelessly entangled in complex skeins.
+
+All shared, however, a Pleistocene ancestry, and it was nearly their
+undoing—as explored in Chapter 10. For when more than 12,000 years of
+isolation ended in 1492 and the peoples of the Old and New worlds came
+into contact, the consequences were profound, not least in the
+devastating impact of repeated waves of Old World epidemic disease on
+American Indians. The worst was smallpox, and against it—as well as
+against measles, influenza, plague, and other contagions—Native
+Americans had little, if any, immunity. Mortality rates may have spiked
+at over 90% in native populations and, in so doing, arguably altered the
+course of American history. But to understand why American Indians were
+so extraordinarily vulnerable to introduced infectious diseases, and
+harbored none of their own (which could have slowed the colonization of
+the Americas by Europeans), the answer must be sought deep in their
+prehistory.
+
+And something more: American archaeology has changed dramatically in the
+last decade, not least because of events well outside the shelter of
+academia where we've long cloistered ourselves. Federal legislation—the
+Native American Graves Protection and Repatriation Act (NAGPRA)—aimed at
+righting the often egregious wrongs of history, mandated that skeletal
+remains held in museums and universities receiving federal funding
+(that's just about all of them) must be returned if requested to the
+American Indian tribes that are biologically or culturally affiliated.
+It's easy enough to identify affiliation if the remains come from sites
+of no great antiquity, where there is clear continuity from past to
+present. The task is immeasurably harder when attempting to identify
+specific tribal descendants of the first Americans. That has sparked
+plenty of fights about how or even whether ancient skeletal remains can
+be linked with modern peoples. Legally they can be, ethically they
+should be, but scientifically they can't be (at the moment anyway). And
+so at times, as with Kennewick, it's gotten ugly.
+
+But there have been positive steps, too, often made far from the harsh
+partisan limelight: archaeologists and Native Americans have become
+increasingly more aware and appreciative of the other's perspectives.
+And all sides now recognize that questions about the peopling of the
+Americas matter, and can matter deeply—even if for very different
+reasons among different constituencies.
+
+Getting the answers to those questions is a long story, and to start the
+telling requires returning, ever so briefly, to where it all began.
+
+GETTING TO BERINGIA ON TIME
+
+The deep roots of human prehistory reach back to Africa, and a long
+evolutionary line of early hominids. When our very earliest hominid
+ancestors become recognizable about 6 million years ago (we cannot call
+them humans just yet), they were barely refined apes, and certainly were
+not in possession of the adaptive abilities necessary to venture into
+the far north, let alone make their way to Siberia and then on to
+America.
+
+The first groups to do that were members of the genus Homo, of which
+there are various species that first appeared nearly 2 million years
+ago. Within a few hundred thousand years of their emergence, they had
+mastered fire and learned to build shelters, which enabled them to
+establish beachheads in colder climes outside Africa, even with the
+astonishingly primitive stone tools that mark the Lower and Middle
+Paleolithic cultural periods. Homo erectus and its evolutionary kin
+ranged widely over temperate Eurasia and lived during glacial times, yet
+do not appear to have expanded in any significant numbers into northern
+latitudes, at least not until a few hundred thousand years ago when they
+and their descendants occupied Pleistocene Europe. By then they were
+clothed, revealed by the fact that body lice (which feed on the body but
+live in clothing) have made their evolutionary appearance.⁷ Still, there
+were limits to humanity's range. They spanned the distance from western
+Europe to China, yet few (if any) descendants of this first wave to
+leave Africa made it to the far northern or eastern regions of Asia or
+Siberia, nor were they ever within striking distance of the Americas.
+
+It was, instead, descendants of the second major wave out of Africa who,
+bearing a more sophisticated stone tool technology (not to mention
+increasingly elaborate artifacts of bone and ivory), pushed into Europe
+and all the way across Asia. These were our earliest direct ancestors,
+the first modern humans—Homo sapiens—that, based on genetic and
+archaeological evidence, arose in Africa nearly 200,000 years ago, and
+from which they subsequently dispersed.
+
+The degree to which these early moderns are related to the descendants
+of the first wave of humans who left Africa, such as Europe's
+Neanderthals, has for many years been hotly debated. Because they
+briefly co-existed on the same landscapes—the one using vintage Middle
+Paleolithic stone tools, the other the more elaborate Upper Paleolithic
+technology—some paleoanthropologists insist we are descended from a
+genetic mix of Neanderthals and early moderns. That claim has steadily
+lost adherents over the years, precipitously so after ancient DNA
+extracted from Neanderthal skeletal remains showed a genomic sequence
+very different from that of living humans. Based on the molecular clock,
+it is estimated Homo neanderthalensis and Homo sapiens went their
+separate ways over 500,000 years ago (which is to say, they are both
+descendants of a deep common ancestor, but we trace our evolution via
+the Homo sapiens line).⁸
+
+Once Homo sapiens struck out on their own, they scarcely stopped. It is
+this species that first traveled beyond temperate Eurasia to colonize
+the distant corners of the globe, including Australia and the Americas,
+the last of the habitable continents of prehistory. Although brainy,
+innovative, and highly adept hunter-gatherers, getting to America was no
+easy journey even for Homo sapiens, not with Siberia in between and
+especially not during harsh, full-glacial times. As archaeologist Ted
+Goebel observes, it appears no one was in Siberia (even southern
+Siberia) during the LGM, and understandably so. Climates were cold and
+harsh though, ironically, glacial ice was no barrier: virtually all of
+central and western Siberia was ice free, even during the LGM.⁹
+
+Not that there is evidence humans had reached Siberia much before then.
+There are only a few archaeological sites north of 55°N latitude and
+east of 80°E longitude (near present-day Novosibirsk) that possibly
+predate the LGM. And the oldest of these, Nepa I in central Siberia,
+which dates to 35,000 years ago, and Yana RHS in northern Siberia near
+the Laptev Sea, dated to 27,000 BP, are both still many thousand
+kilometers shy of the western edge of Beringia, the New World's entry
+point.
+
+Humans more or less permanently colonized far northeastern Asia only
+after 18,000 BP. By then, they had reoccupied the Lena and Aldan river
+basins and left behind a number of sites, including Dyuktai Cave,
+occupied as early as 14,000 years ago, where bifacial knives, blades,
+scrapers, and points were found with a range of animal remains,
+including mammoth, bison, musk ox, horse, reindeer, and moose. Even
+then, they were still several thousand kilometers away and well shy of
+the latitude of Beringia, which is mostly north of 60°N, about the
+latitude of Seward, Alaska (Figure 4).
+
+Over late Pleistocene time, humans moved further north and east, and
+finally approached the gateway to America. Archaeologist John Hoffecker
+and paleoecologist Scott Elias suggest that improved stone tool
+technology, more efficiently insulated clothing, and a post-glacial
+expansion of trees (to provide wood for hearth fires) likely aided that
+expansion. But humans were still sparse on the ground. Their presence is
+well documented and securely dated only at the sites of Berelekh on the
+Indigirka River close to the Arctic Coast (at 70°N latitude), and at
+Ushki in central Kamchatka. These two localities were relatively late in
+the grand scheme of prehistory: they are no more than about 14,000 and
+11,300 years old, respectively. Importantly, they contain artifact
+types—including the distinctive Chindadn point—we will soon see on the
+Alaskan side of Beringia.
+
+Otherwise, it has so far proven difficult to pinpoint archaeologically
+when and from where in Siberia the earliest Americans originated. Could
+it be that they did not come this way at all? More on this later
+(Chapter 6), when we confront a bold daylight attempt to rob Siberia of
+its role as the jumping off point for the colonization of the New World.
+
+Taken at face value, it appears that far northeastern Siberia and
+Beringia were not occupied by humans until as late as 14,000 years ago.
+But let's not leap to that conclusion just yet. The Siberian
+archaeological record on the whole is sparse, and gets even more so as
+one approaches the Bering Land Bridge. The timing of the peopling of
+Siberia will not be known until Siberia is peopled by more
+archaeologists. Given the archaeological near invisibility of what must
+have been small and highly mobile human populations, the vast area to be
+searched for their sites, and the relatively limited archaeological work
+that's been done to date, this negative evidence is sure not to endure.
+
+[images]
+
+FIGURE 4.
+Map of the extent of Beringia at the Last Glacial Maximum (LGM), showing
+the location of early Siberian and Alaskan archaeological sites
+discussed in the text.
+
+But prehistory in this region (or in the Americas) will likely not go
+too far back. No Neanderthals or any other earlier (non-sapiens) form of
+human has ever been found in far northeast Asia and Siberia, let alone
+in the New World. One should never say never in archaeology, but at this
+point, it seems exceedingly unlikely that premodern humans made it to
+the Americas, though that hasn't stopped speculation on this score—or
+claims from sites like Calico (California) or Old Crow (Canada) that the
+first Americans arrived some 200,000 to 350,000 or more years ago.
+
+Of course, if such claims of deep antiquity (or European ancestry) are
+right, then our hard-won understanding of human evolution is badly
+wrong. But there's no need to rush a textbook rewrite just yet. More
+likely, such claims are simply flawed. We have long assumed, and have no
+reason to doubt, the Americas were colonized by anatomically modern
+humans, coming by way of Asia and bearing an Upper Paleolithic artifact
+technology, and arriving at some time during the latter stages of the
+Ice Age.
+
+But what kind of place was this New World?
+

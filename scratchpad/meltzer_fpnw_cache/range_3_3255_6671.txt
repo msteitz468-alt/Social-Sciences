@@ -1,0 +1,3417 @@
+3
+
+FROM PALEOLITHS TO
+PALEOINDIANS
+
+In the fall of 1781, the governor of Virginia received a letter from the
+secretary of the French Legation, inquiring about the political
+institutions, natural history, and native peoples of his state. Times
+being what they were (hostile British forces were advancing on the
+governor's home) his answer was postponed until the following summer,
+after Cornwallis had surrendered at Yorktown and the governor had
+retired from office. “Great question has arisen,” Thomas Jefferson then
+replied in his now-classic Notes on the State of Virginia, “from whence
+came those aboriginal inhabitants of America.” For that matter, who were
+they, and when had they arrived?¹
+
+These questions were deeply unsettling to a nation that viewed the past
+through a biblical lens, and which well realized American Indians were
+not mentioned in the chronicles of Moses. Still, on the presumption of
+monogenesis, the idea that “all the varieties of the human race were
+descended from a single pair, and that after the flood the earth was
+indebted solely to the ark of Noah for the replenishment of man and
+beast,”² American Indian origins were sought among historically known or
+imagined groups, among them wandering Egyptians, Phoenicians, Mongols,
+Welsh, Hindus (those other Indians), survivors of the Lost Continents of
+Mu or Atlantis, and the Ten Lost Tribes of Israel. The possibility that
+American Indians were Israelites had two great virtues: it explained who
+the Indians were, and where the Israelites had been lost all those
+years.
+
+Yet few capable thinkers, and Jefferson was an extraordinarily capable
+thinker, paid these any mind. Diverse as the Native Americans were,
+Jefferson realized they shared a common ancestry. Judging by their
+appearance, he supposed their ancestral homeland must have been eastern
+Asia. That being the case, how had they reached the New World? The
+answer, anticipated in the late sixteenth century by the Jesuit Jose de
+Acosta, was that they came by land, possibly via northern Asia and
+northwestern North America. But it was not until 200 years later that
+Jefferson was able to report that “the late discoveries of Captain Cook,
+coasting from Kamchatka to California, have proved that, if the two
+continents of Asia and America be separated at all, it is only by a
+narrow streight [sic].”³
+
+Having found an easy migration route from the Old World to the New still
+left unsettled the question of when that migration had taken place.
+Jefferson had his suspicions. Native Americans spoke a Babel of
+languages (few of which were mutually intelligible or bore any
+resemblance to an ancestral Asian language), they did not all look
+alike—the usual stereotypes notwithstanding—and they had diverse
+cultural practices, all of which implied a long period of divergence
+from what was assumed to be a common ancestor. Could this variability
+have arisen in the biblically allotted 6,000 years? Jefferson was
+doubtful: such linguistic, physical, and cultural divergence from a
+common source seemingly required “an immense course of time; perhaps not
+less than many people give to the age of the earth.”⁴
+
+As old as the earth? Jefferson's political enemies howled, accused him
+of heresy, and branded him an atheist. The earth itself could turn out
+to be very old, perhaps tens of thousands of years old as astronomers
+and geologists were already insisting, but Jefferson's critics demanded
+human history go no earlier than the 6,000 years allotted in the
+scriptures. And it didn't.
+
+At least not for another seventy-two years.
+
+THE DISCOVERY OF DEEP TIME
+
+Before 1859, the Bible was history, chronology, and ethnography all
+rolled into one: it was a detailed and sacred account of human genealogy
+and lifeways from Adam and Eve on down. Compiled by people who had
+either been present or had access to a supernatural informant, it linked
+modern life back to the very creation of heaven and earth. Well, almost
+to the Creation.⁵
+
+By the late seventeenth century, scientists such as Isaac Newton began
+lobbying for more time, at least for earth history. They knew from
+physical evidence the earth had to be more than 6,000 years old, but not
+daring to reject Genesis entirely, they placated themselves by treating
+the first days of Creation as allegorical only, supposing that Moses was
+simply “accommodating his words to the gross conceptions of the vulgar,”
+as Newton put it, and that the Biblical chronology “relates only to the
+human race.” This was an argument easy to make. After all, as Edmund
+Halley (of comet fame) observed, if the sun was created only on the
+fourth day, how could the time before then be measured in “days” in the
+literal twenty-four-hour sense?⁶
+
+So geologists got busy. From the strange fossils brought to light by
+exploring expeditions and the rapacious mining that fueled the
+Industrial Revolution, Georges Cuvier and others revivified the
+wonderfully exotic plant and animal life of earlier periods of earth
+history. The most recent of those earlier periods was inhabited by
+fossil elephants, including North America's mastodon and mammoth. Cuvier
+had it on the good authority of American Indians—“nomadic peoples who
+move ceaselessly around the continent in all directions” and thus were
+in a good position to know—that these “creatures no longer existed.”⁷
+
+The “unconsolidated…layers of the earth” in which the fossils of these
+animals were found lay close to the surface, in what appeared to be sand
+and gravel laid down by water—Buckland's diluvium. It would be several
+decades before those deposits were recognized as the residue of
+once-vast continental ice sheets (Chapter 2) and, in turn, linked with
+Lyell's Pleistocene. Nonetheless, even by the early 1800s, Cuvier
+realized these were not truly ancient deposits, for there were still
+more primitive fossil elephants and other animals in deeper layers of
+the earth. He concluded that earth's history was one of multiple periods
+of creation of different kinds of animals, each of which came to a
+cataclysmic end. The animals of the diluvium represented merely “the
+last or one of the last catastrophes of the globe.” But if these animals
+were not old in geological time, they were assuredly from the pre-modern
+world. The Bible made no mention of mammoths.⁸
+
+Accordingly, no one was looking for human remains alongside mammoth
+fossils in Pleistocene deposits, nor expected to find any. This was a
+period unknown to human history, beyond range of the Mosaic chronicles,
+and thus a baseline against which human antiquity could be measured. The
+uncoupling of earth history from human history was a splendid compromise
+in a world fast becoming inconceivably old: humanity's best hope for
+divine origins and its own uniqueness in the animal kingdom lay in the
+affirmation of the Bible. Here, fortunately, Genesis and geology seemed
+to agree: humans were the most recent creation, or so it seemed on good
+authority.⁹
+
+Still, through the first half of the nineteenth century, human remains
+were found alongside Cuvier's extinct animals at an increasing number of
+sites. But why accept those finds at face value?¹⁰ Most came from
+continental Europe and especially France, and for this reason
+immediately lost credibility with the more theologically conservative
+British who, since the French Revolution, had suspected the French of
+atheism and harbored a lingering distrust of their latter-day
+Enlightenment notions. Much of the evidence came from excavations by
+provincial amateurs who were looked upon, in John Lubbock's charitable
+Victorian parlance, as mere “enthusiasts.”¹¹ They were hardly a
+trustworthy source of evidence on such a momentous question. No
+scientist was going to reject long-held beliefs on their say-so.
+
+Compounding resistance, the bulk of finds were made in caves, settings
+regularly churned by burrowing animals that mix deposits of different
+ages. Caves are ill suited to demonstrating whether artifacts found
+alongside animal bones were the same age, or just accidentally
+associated. When the “Red Lady” of Paviland, an ocher-covered human
+skeleton, was found in a cave with the remains of a mammoth, it was all
+too easy for the Reverend Buckland to explain (with a knowing wink) that
+a nearby Roman camp site threw “much light on the character and
+[antiquity] of the woman under consideration.” Ocher apparently wasn't
+the only reason Buckland supposed the Lady of Paviland was red (as it
+happens, she was no lady either, but an Upper Paleolithic male, now
+radiocarbon dated to slightly over 26,000 BP).¹²
+
+Finally, none of the evidence fit prevailing expectations of human
+history based on the Bible or geology, and thus there was no compelling
+reason to accept it. This isn't dogmatic; it's good science: one doesn't
+reject a long-established worldview without compelling reason. As Lyell
+later confessed, “I can only plead that a discovery which seems to
+contradict the general tenor of previous investigations is naturally
+received with much hesitation.”¹³ Only when the counterevidence becomes
+too weighty to ignore does the model of the world get reassessed and, if
+needed, rejected.
+
+That reassessment began in the summer of 1858 at Brixham Cave in
+southwestern England where, beneath a nearly impenetrable layer, a crack
+team of excavators under the supervision of Britain's finest geologists
+(Charles Lyell among them) had uncovered stone tools in direct
+association with Pleistocene fossils. Either the team had failed to
+observe that stone tools had been mixed in from higher, younger deposits
+and had botched the excavation (a conclusion no one was keen to admit),
+or the theologically disconcerting was true: humans had occupied Brixham
+Cave during the Pleistocene, alongside now-extinct animals, and thus had
+an ancestry that predated biblically recorded history.
+
+Brixham Cave's revelations prompted another look at the long-standing
+claims of Jacques Boucher de Perthes, who for decades had been
+collecting stone tools and Pleistocene fossils in the Somme Valley of
+northwest France. Until that moment, he'd been mostly ignored because
+many of the “artifacts” he illustrated were clearly not artifacts at
+all, and what genuine evidence he did have was embedded in arcane
+theories that had long since been rejected. Charles Darwin was hardly
+alone in reading Boucher de Perthes’ work and concluding “the whole was
+rubbish.”¹⁴
+
+Yet, some of the stone tools Boucher de Perthes illustrated looked a
+great deal like those from Brixham Cave and, better, had come from
+floodplain deposits, which are less prone to the mixing of deposits that
+occurs in caves. A procession of geologists and antiquarians made the
+pilgrimage to see Boucher de Perthes and his sites and collections,
+including Joseph Prestwich and John Evans, who in April 1859 witnessed
+and photographed a handaxe in situ at a locality in Amiens.
+
+At a meeting of London's Royal Society a few weeks after their return,
+Prestwich read a paper on the glacial age and stratigraphy of the Somme
+Valley gravels, and Evans spoke extemporaneously on the stone artifacts
+found in them. Listening to them, Evans recalled, “were a good many
+geological nobs…Sir C. Lyell, Murchison, Huxley…Faraday, Wheatstone,
+Babbage, etc. so [we] had a distinguished audience.” That's an
+understatement. The audience included not only the geological elite
+(Lyell, Thomas Henry Huxley, Roderick Murchison), but also one of the
+greatest experimental scientists of all time (Michael Faraday); the
+inventor of the stereoscope and a pioneer researcher in acoustics,
+electricity, and telegraphy (Charles Wheatstone); and one of the trio
+who revolutionized English mathematics in the nineteenth century and a
+dabbler in crypt-analysis, probability theory, geophysics, astronomy,
+and computing machines (Charles Babbage). It might not have been
+possible to gather in one place a more influential group of scientists
+in all of England. The question of a deep human antiquity was out of the
+closet and on center stage, and the favorable reception their audience
+accorded Prestwich and Evans (“Our assertions as to the findings of the
+weapons seemed to be believed”¹⁵) immeasurably helped the cause.
+
+In the summer of 1859, Charles Lyell himself, foremost among those who
+had long challenged all claims of great human antiquity, made the
+pilgrimage to Abbeville. He too returned from France a convert,
+announcing, “I am fully prepared to corroborate the conclusions which
+have been recently laid before the Royal Society…. I believe the
+antiquity of the Abbeville and Amiens flint instruments to be great
+indeed if compared to the times of history and tradition.”¹⁶ Humans had
+seen Agassiz's glaciers and preyed on Cuvier's fauna.
+
+Only months before, the idea of a deep human antiquity had been the
+dubious claim of provincial amateurs. Now, it was almost universally
+accepted fact. As one contemporary joked, people were no longer
+insisting “it was not true” or that “it was contrary to religion,” but
+that “it was all known before.”¹⁷
+
+The Paleolithic, or Stone Age, occupants of Brixham Cave and the Somme
+Valley predated history, and lived at a distant time “when man shared
+the possession of Europe with the Mammoth, the Cave bear, the
+Woolly-haired rhinoceros, and other extinct animals,” using “rude yet
+venerable weapons” of stone, as John Lubbock put it.¹⁸ This was a human
+past about which the Bible said absolutely nothing, and which suddenly
+rendered it obsolete as the story of humanity's past. The Paleolithic
+would be knowable only through its silent artifacts and skeletal
+remains. To investigate that past required a new discipline of
+prehistory, with its own body of theory and methods, kin to geology and
+not sacred history.
+
+As dozens more Paleolithic sites were found across Europe, humanity's
+roots were pushed back ever deeper in time: hundreds of thousands of
+years, some suggested, perhaps millions of years, others supposed. What
+had transpired over that span was poorly known, testament to the vast
+“chasm which separates the flint folks from ourselves.” Julia Wedgwood,
+Darwin's niece, saw “something dreary in the indefinite lengthening of a
+savage and blood-stained past,”¹⁹ but however dreary or theologically
+unnerving, those rude artifacts were nonetheless vivid testimony of the
+savage depths from which humanity had climbed. They became for many
+Victorians a triumphant demonstration of social progress.
+
+The demonstration of a deep human antiquity came at virtually the same
+moment as Darwin published his Origin of Species, which laid out the
+theory of evolution by natural selection. Although the two had
+independent origins, they soon and ever after were linked. The Origin
+had no more to say about the evolution of the human species from our
+animal forebears than the understated one-liner, “Light will be thrown
+on the origin of man and his history.” But everyone knew what that
+meant: ancient human ancestors and ultimately a pedigree shared with
+other primates. One could scarcely accept the implications of Darwin's
+views of human evolution without the deep past that prehistory provided.
+Darwin well recognized that, and a decade later when he finally tackled
+the topic of human evolution, he knew precisely where to start: “The
+high antiquity of man has recently been demonstrated by the labors of a
+host of eminent men, beginning with M. Boucher de Perthes; and this is
+the indispensable basis for understanding his origin. I shall,
+therefore, take this conclusion for granted.”²⁰ It was rubbish no more.
+
+And that's when the search began on the other side of the Atlantic.
+
+THE RISE AND FALL OF THE AMERICAN PALEOLITHIC
+
+The discovery of the European Paleolithic fired American scientific
+imaginations: why couldn't American prehistory be just as old? After
+all, the geology of the two continents seemed so very similar. But
+archaeologists quickly realized that here in America there were no
+deeply stratified river valleys or caves with human artifacts
+indiscriminately mixed with Pleistocene fauna.²¹
+
+No matter, they soon had another inspiration: if artifacts were ancient,
+they ought to look the part, so ones similar to the tools of Paleolithic
+Europe must be the same age. The catalyst for these studies was Charles
+Conrad Abbott, a New Jersey physician (and coincidentally, nephew of
+Timothy Abbott Conrad, who first found traces of the Ice Age in
+America). By all accounts—including his own—Abbott had a dreadful
+bedside manner and was unable to earn a living as a physician. But a
+living had to be made, for although he came from a prominent,
+land-holding family, his was not a wealthy branch of the family tree.
+Abbott made a half-hearted stab at farming and the occasional odd job to
+help support himself and his family, but his livelihood came to revolve
+around authoring popular books on the natural history and archaeology of
+the Trenton area. Abbott soon realized the artifacts he was finding near
+his Trenton home appeared to be as “rude” as those of the European
+Paleolithic (Figure 10). Better still, some came from geological
+deposits that hinted of considerable antiquity, and perhaps they were
+even Pleistocene in age.
+
+We now know, based on archaeological work done at the Abbott farm since,
+the artifacts he was finding were not very old at all, and certainly not
+glacial in age. But Abbott didn't know that, nor did most of his peers.
+In February 1877, Harvard University geologist Nathaniel Shaler studied
+the Trenton ground with Abbott and pronounced the artifact-bearing
+gravels to have been deposited during the Ice Age. In his diary that
+night, Abbott recorded his triumph: “I have discovered glacial man in
+America”²² (emphasis in the original).
+
+[images]
+
+FIGURE 10.
+Charles Abbott searching for paleoliths in the Trenton gravels, New
+Jersey, ca. 1880s. (Photograph courtesy of the Peabody Museum, Harvard
+University. © Harvard University, Peabody Museum 2004.24.31046.)
+
+Heady stuff, this, and it inspired Abbott's compatriots. Harvard
+archaeologist Frederic Ward Putnam hired a local man to walk the freshly
+dug railroad right-of-ways and sewer trenches of Trenton watching for
+more “Paleolithic” artifacts. As Abbott's work in the Delaware Valley
+gained prominence, so, too, did the American Paleolithic. Throughout the
+1880s, reports came in of other paleoliths from the eastern seaboard
+into the Upper Midwest. Some were found under geological circumstances
+that suggested a Pleistocene antiquity, but even in the absence of
+secure geological evidence, these artifacts so readily mimicked European
+paleoliths of undeniable antiquity, they must be as old. As Reverend
+George Frederick Wright, an Oberlin College theologian and geologist,
+put it, in Paleolithic times, as today, American fashions followed the
+Paris line.²³
+
+By the end of the 1880s, Abbott and his colleagues possessed the proof
+they needed that the first Americans had arrived thousands of years ago,
+when northern latitudes lay shrouded in glacial ice. The American
+Paleolithic spawned a formidable literature of symposia, feature
+articles, and books. Abbott was lionized here and abroad as “America's
+Boucher de Perthes.” Everyone believed the first Americans had arrived
+in the Pleistocene; the only question remaining was how much further
+back in time that prehistory extended. It had to be deep, Abbott
+insisted, for were it only 10,000 years old, he would be “compelled to
+crowd several momentous facts in American archaeology into a
+comparatively brief space of time.”²⁴
+
+But the consensus surrounding the American Paleolithic proved
+short-lived. Scarcely a year later, it was under withering fire from
+USGS geologists and archaeologists at the Smithsonian Institution's
+Bureau of Ethnology (later, the Bureau of American Ethnology, or BAE).
+By late 1889, the archaeological community was humming with rumors that
+BAE archaeologist William Henry Holmes's excavations at a prehistoric
+stone quarry along Piney Branch Creek in Washington, D.C. (Figure 11),
+were set to demolish the conceptual foundations of the American
+Paleolithic.
+
+[images]
+
+FIGURE 11.
+William Henry Holmes sitting in “an ocean of paleoliths” at the Piney
+Branch quarry, in Washington, D.C., ca. 1890. Holmes was only kidding
+about those being paleoliths. He used the cobbles and workshop debris
+from Piney Branch to show that the “primitive-looking” and supposedly
+ancient artifacts of the American Paleolithic were mere quarry refuse.
+(Photograph courtesy of the Smithsonian Institution Libraries,
+Washington, D.C.)
+
+At the Piney Branch site (which, astonishingly, remains intact just a
+few miles north of the White House), prehistoric groups found quartzite
+cobbles suitable for making their artifacts. Scattered across the site
+surface were the debris of tool manufacture, ranging from cobbles with
+just a few flakes struck from them, to nearly finished items that had
+broken or otherwise been rejected in the final stages of preparation.
+Many of the rejects bore an uncanny resemblance to Paleolithic
+artifacts. Holmes had an aha! moment: the manufacturing sequence at
+Piney Branch mimicked the long evolution of stone toolmaking from
+primitive to refined. Thus, just as the most ancient stone tools were
+little more than barely sharpened cobbles, so, too, were stone tools in
+the early stages of manufacture. That being the case, he reasoned, an
+artifact jettisoned prematurely during manufacture would naturally
+resemble a primitive stone tool, even if it was scarcely a few hundred
+years old.
+
+In late January 1890, Holmes hurled his opening salvo in the American
+Anthropologist: artifact form had no inherent chronological
+significance.²⁵ Proponents of an American Paleolithic were mistaking
+primitiveness for antiquity, failing to realize their artifacts were
+merely manufacturing failures. An artifact's age, he insisted, must be
+determined by its geological context—and not because it happened to look
+like one illustrated by Boucher de Perthes or John Evans. That included
+Abbott's Trenton paleoliths, which to Holmes's eye looked very much like
+manufacturing failures. Still, at that moment, he was feeling
+charitable, and he wasn't suggesting the Trenton specimens were recent
+in age. Not yet, anyway.
+
+Word soon reached Abbott of Holmes's paper, and he dashed off a letter
+to Henry Henshaw, editor of the American Anthropologist, requesting a
+copy. He got one, along with an invitation. Would Abbott like to come to
+Piney Branch, preferably immediately? “It seems to me,” Henshaw wrote,
+“that you would be particularly interested in the matter since you have
+done so much work at Trenton, and a visit here just now could not fail
+to prove instructive. Mr. Holmes would be very glad to see you, and we
+will all do what we can to make your visit pleasant and instructive.”²⁶
+
+“Instructive,” Henshaw said. Twice. But Abbott wasn't looking for
+instruction. He was looking for confirmation. But he went to Washington
+anyway, and toured Piney Branch with Holmes in early 1890. A smug Holmes
+later recalled that
+
+on parting Abbott said, “I have learned more arch[aeology] in three
+hours than ever before in three months.” This I was content to think of
+as a pleasant compliment but from my subsequent studies and increased
+wisdom I concluded that he probably meant what he said.²⁷
+
+If Abbott indeed said that, he hardly meant it, for he left Washington
+unswayed. As he later wrote, Holmes may well have been correct in his
+archaeological interpretation of Piney Branch, but Abbott failed to see
+that the story at Piney Branch had any relevance to either Trenton or
+the larger question of human antiquity in America. After all, Holmes's
+“so-called failures” were “not identical with the true American
+Paleolithic implements of the Delaware River Valley,” which were found
+in what Abbott deemed undisturbed Pleistocene glacial deposits. Even if
+geologists did quibble over their precise age, Abbott was sure “no
+verbal jugglery” could make the Trenton gravels that much younger.²⁸ If
+Holmes aimed to reject Trenton as a Paleolithic site, he would have to
+go to Trenton.
+
+The lines were drawn in the sand (and gravel). The Great Paleolithic War
+began.
+
+Holmes spent the next several years examining the alleged Paleolithic
+sites in eastern North America, including Trenton.²⁹ In each case,
+Holmes solemnly proclaimed that mistakes had been made. All alleged
+paleoliths were manufacturing failures having no appreciable antiquity,
+and were merely the debris of historically known Native Americans. None,
+in his view, were Pleistocene in age, and those allegedly found in
+glacial deposits must have fallen down rodent burrows or cracks in the
+earth, and fortuitously settled in those older deposits (Figure 12). And
+if the specimens were actually in situ in “Pleistocene” gravels, Holmes
+could say, on the supreme authority of the USGS's Thomas Chamberlin and
+WJ McGee, that those gravels were not Pleistocene age at all.
+
+[images]
+
+FIGURE 12.
+Two perspectives on the Newcomerstown, Ohio, “paleolith.” Left, G. F.
+Wright's (1890) composite of the Newcomerstown paleolith alongside a
+European paleolithic biface (reduced to one-half size) from Amiens,
+France. Right, Holmes's (1893b) depiction of the Newcomerstown specimen
+alongside “four ordinary rejects.” Holmes left it to the reader to
+decide which of the five specimens was from Newcomerstown, and which
+were quarry rejects.
+
+Abbott was furious. If the critics were correct, why were only
+primitive-looking specimens found in gravel deposits, and not the more
+refined artifacts of the American Indians? If these were quarry rejects,
+where was the flake debris resulting from their fashioning? And who were
+these self-styled “expert geologists” to lecture him about the Trenton
+gravels? None had spent a fraction of the time he had walking the banks
+of the Delaware, and assuredly could not have greater knowledge of its
+geology than he possessed. “I lay a claim to a smattering of
+gravel-ology,” Abbott declared in Science, and if “up pops some
+‘authority’ and declaims the possibility that the ground was washed from
+beneath the big stone and the implement slipped in. Well, we can go on
+supposing till the crack o'doom, but as to proof, that is another
+matter.”³⁰
+
+Perhaps. But as Holmes snorted in reply two weeks later, demonstrating
+that artifacts were truly found in glacial gravels required the skills
+of “competent and reputable observers of geological phenomena.” That
+Holmes believed no glacial-aged artifacts had yet been found made it
+quite clear he did not consider Abbott's claims to “gravel-ology” equal
+to competence. A testy Abbott immediately fired back with doggerel
+virtually guaranteed to offend the humorless Holmes:³¹
+
+The stone are inspected,
+
+And Holmes cries “rejected,
+
+They're nothing but Indian chips”
+
+He glanced at the ground,
+
+Truth, fancied he found,
+
+And homeward to Washington skips.
+
+They got there by
+
+chance He saw at a glance
+
+And turned up his nose at the series;
+
+“They've no other history,
+
+I've solved the whole mystery,
+
+And to argue the point only wearies.”
+
+But the gravel is old,
+
+At least so I'm told;
+
+“Halt, halt!” cries out WJ [McGee],
+
+“It may be very recent,
+
+And it isn't quite decent,
+
+For me not to have my own way.”
+
+So dear WJ
+
+There is no more to say,
+
+Because you will never agree
+
+That anything's truth
+
+But what issues, forsooth,
+
+From Holmes or the brain of McGee.
+
+Holmes was not amused (though the editor must have been, since it was
+highly unusual for Science to publish verse). The American Paleolithic,
+he snarled, was little more than the blunders and misconceptions of
+“amateurs” with little scientific understanding of stone toolmaking, let
+alone of geological age and context. If Abbott still didn't get the
+message, Holmes spelled it out in a lengthy, sharply pointed critique,
+which asked the decidedly nonrhetorical question, “Are there traces of
+man in the Trenton gravels?” Holmes's answer was “No.”³² And then the
+controversy turned ugly.
+
+In the fall of 1892, USGS and BAE scientists attacked George Frederick
+Wright's just-published Man and the Glacial Period. Wright's wrongs were
+obvious enough: he had spoken in favor of the American Paleolithic; he
+had challenged one of Chamberlin's (and by extension the entire USGS
+Glacial Division's) intellectual monuments—the demonstration there had
+been multiple glacial events; and, worst of all, he had put those
+heresies in a book written for a general audience. Wright's critics,
+orchestrated by Chamberlin, set out to destroy his credibility as a
+glacial geologist, as an archaeologist, and especially as a public
+spokesman for science. They launched a barrage of vicious reviews of Man
+and the Glacial Period, which were unprecedented in number and savagery.
+“No one,” Chamberlin thundered, “is entitled to speak on behalf of
+science who does not really command it.” WJ McGee, a one-time staunch
+supporter of the American Paleolithic but by now a zealous convert, was
+especially bloodthirsty, labeling Wright's work absurdly fallacious,
+unscientific, and an “offense to the nostrils,” then dismissing him as
+“a betinseled charlatan whose potions are poison. Would that science
+might be well rid of such harpies.”³³
+
+The maliciousness of the attacks appalled Wright's colleagues, as well
+as many who hardly knew him or his work. To Wright's allies, the
+near-simultaneous appearance of the reviews and their “sameness of tone”
+smelled of a conspiracy. They were right. It was. Yet, the assault on
+Wright was more than just personal. It was a thinly veiled proprietary
+dispute in which BAE and USGS scientists sought to impose their vision
+of archaeology and geology on those fields, and contrast their brand of
+science against those, such as Wright and Abbott, they deemed rank
+amateurs.
+
+Because the BAE and USGS scientists were richly funded and backed by the
+power of the federal government, at a time when the government dominated
+American science (the balance of scientific research and power would
+shift to universities only in the twentieth century), the atmosphere was
+charged with accusations that arrogant, heavy-handed federal scientists
+were conspiring to crush state and local practitioners. Those
+accusations reached Capitol Hill in 1893, when Congress was deciding the
+annual budgetary fate of the USGS and BAE. Neither agency could afford
+such bad press, since their appropriations were already threatened by
+the economic fallout from the Panic of 1893. Paleolithic proponents got
+a measure of revenge: the BAE and USGS budgets were slashed.
+
+After savaging each other in meetings and in print, the warring parties
+suspended hostilities in late 1893, though more from battle fatigue than
+by truce, for both sides had hardened beyond compromise or retreat. They
+met again in the summer of 1897 in Toronto at a joint meeting of the
+American and British Associations for the Advancement of Science. There,
+Paleolithic proponents suffered a devastating blow: Putnam handed Sir
+John Evans a set of Trenton artifacts. With barely a glance, the dean of
+Stone Age archaeology dismissed the lot as not Paleolithic at all.
+Putnam desperately tried to change Evans's mind and undo the damage, but
+failed. Critics gloated. Proponents were badly shaken. Only the faithful
+remained undaunted. A bitter Abbott blamed Putnam for the “unfortunate
+Toronto business.”³⁵
+
+A MAMMOTH FRAUD IN SCIENCE
+
+The boldface headlines of the September 8, 1894, Philadelphia Inquirer
+nearly screamed aloud: “DR. HILBORNE CRESSON TAKES HIS OWN LIFE.” As the
+paper indelicately put it, Cresson “blew his brains out in a park in New
+York City.” He had gone insane, the Inquirer reported, his mind
+disordered as a “result of scientific study” and the “too close
+application of esoteric principles.”
+
+Cresson was an archaeologist.
+
+He began his career an expatriate student of art and archaeology at the
+ficole des Beaux Arts and ficole d’Anthropologie in Paris in the 1870s.
+Apparently, he had a talent for recreating prehistoric art. He returned
+to the United States in 1880 and began collecting artifacts and
+excavating around Philadelphia. By 1887 he'd attracted the attention of
+Frederic Ward Putnam, who hired Cresson as an archaeological field
+assistant.
+
+In December 1889, Cresson appeared in Putnam's office bearing a whelk
+(Busycon) shell pendant, on which was engraved the figure ofa mammoth
+(Figure 13). Cresson reported he'd dug up the specimen as a schoolboy
+years earlier near Holly Oak, Delaware. Putnam, a staunch champion of
+the American Paleolithic, would have instantly understood the pendant's
+significance: if the mammoth had been engraved from life, it would be a
+tidy solution to the question of human antiquity in the New World, and
+would show that Paleolithic Americans had created works of art to rival
+in age and beauty those of Paleolithic Europe. How timely that Cresson
+should appear with a specimen that could tip the balance of the Great
+Paleolithic War, which Putnam knew was looming on the horizon.
+
+[images]
+
+FIGURE 13.
+The Holly Oak pendant (Delaware), and as drawn by W. C. Sturtevant. Note
+that there is ample room on the shell for feet; that they are not shown
+was one of the hints that the mammoth image was made from a book, and
+not from real life. (Adapted from Griffin et al. 1988.)
+
+Even so, one searches Putnam's papers in vain for the happy announcement
+his cherished beliefs had been vindicated by this remarkable evidence.
+At Cresson's request, Putnam showed the Holly Oak pendant at the
+February 1890 meeting of the Boston Society of Natural History, yet was
+ever after silent about it. But Putnam left behind a telling clue of his
+opinion: a photograph of the Holly Oak pendant alongside a drawing of
+the La Madeleine mammoth, which had been engraved on a segment of
+mammoth tusk that was discovered by Eduoard Lartet in 1865 in the
+Dordogne region of France.
+
+Any good archaeologist, and Putnam was a good archaeologist, would have
+instantly seen the similarities between the Holly Oak and La Madeleine
+engravings. To be sure, in Putnam's day there were few mammoth
+depictions known from Europe, and none from America. Possibly, he may
+have concluded the similarity between the two merely reflected the fact
+both depicted mammoths, as opposed to both depicting the same mammoth
+(nowadays we know of thousands of European Paleolithic depictions of
+mammoth—still none from America—and those depictions vary greatly, as
+one might expect).
+
+Putnam's suspicions might have been further aroused when Cresson
+reported his discovery had been made in 1864, conveniently predating La
+Madeleine's by a year, and claimed that his French tutor, allegedly
+involved in the Holly Oak discovery, had been a student of Lartet's.
+Cresson never satisfactorily explained why it took him twenty-five years
+to reveal the pendant's presence.
+
+Cresson suggested to Putnam that he look at Charles Rau's book, Early
+Man in Europe, to see how well the Holly Oak mammoth resembled the
+mammoth skeleton it illustrated. In doing so, Putnam would have seen
+that the book also provided an illustration of the La Madeleine
+engraving, one that differs from better reproductions of the original in
+ways strikingly similar to Holly Oak: the contours of the back and tusks
+and trunk can be overlaid; they have the same orientation and overall
+posture, especially the leg positions; they treat the feet in a similar
+way. Most mammoths are shown with bulbous feet, but the La Madeleine
+feet are cut off by a break in the original specimen, and the Holly Oak
+feet terminate in precisely the same way, despite the fact that there is
+ample room on the shell where feet could have been engraved. Putnam,
+almost certainly suspecting the Holly Oak pendant was a fraud, quietly
+ignored it.
+
+For that matter, there was hardly any mention of the pendant in the
+thousands of pages published during the Great Paleolithic War. That
+silence was more damning than even the rare voice condemning the
+pendant, that of archaeologist Henry Mercer who, busy peddling his own
+mastodon-engraved forgery, sneered that Holly Oak was a fraud and
+Cresson a liar. Since the archaeological community in those days was so
+very small, its members must have known of the pendant. One can safely
+surmise they doubted its authenticity, and were just too polite to say
+anything about it. And why bother? Everyone knew the story.
+
+Unfortunately, that story died with its participants, though the pendant
+itself survived in obscurity in a drawer at the Smithsonian Institution,
+only to emerge in 1976 on the cover of Science.³⁴ An accompanying
+article by John Kraft and Ronald Thomas reported that geological work in
+and around what is now Claymont, Delaware, revealed deposits that were
+at least 10,000-40,000 years old. They asserted, in the absence of any
+evidence that the pendant actually came from those deposits, it must be
+just as old, thereby making it “definite evidence of association of
+early American man with the woolly mammoth” and the only known example
+of North American Paleoindian art.
+
+The Science cover caught the eye of Bill Sturtevant, a curator at the
+Smithsonian, who was instantly reminded of the La Madeleine mammoth.
+When he read the pendant came from Delaware, not the Dordogne, he
+straightaway suspected fraud. Knowing of my interests in Paleoindians
+and the history of American archaeology, he asked me to help
+investigate.
+
+We quickly established there were concerns about unrelated but equally
+suspicious archaeological discoveries of Cresson's that, like Holly Oak,
+could never be field checked. We learned, too, Cresson was not trusted
+by his peers, and for good reason. In late 1891, Cresson was working in
+Ohio on Putnam's archaeological field crew when his supervisor, Warren
+Moorehead, caught him stealing artifacts from the excavations and
+shipping them to his home to Philadelphia. Cresson was fired on the
+spot.
+
+Reading the details of Cresson's pilfering in Moorehead's diary, I was
+reminded of a comment made to me a few months earlier by James B.
+Griffin, one of the deans of American archaeology. Griffin thought it
+odd that the Holly Oak pendant, ignoring its engraved mammoth, bore such
+a striking resemblance to shell pendants found in Fort Ancient period
+sites, which generally postdate AD 1000. In virtually the same moment, I
+remembered that prior to revealing the existence of the pendant in 1889,
+Cresson had worked for Putnam on Fort Ancient-age sites and museum
+collections. What better way to pass off a forgery than to carve a
+mammoth on a genuine archaeological specimen stolen from a collection
+that at least looked old, but in the late nineteenth century could not
+be independently dated?
+
+Of course, in the late twentieth century it could be, and when
+accelerator radiocarbon dating came on line, we submitted a tiny
+fragment of the pendant's shell. While we waited for the dating results,
+Smithsonian archaeologist Bruce Smith organized a pool to guess the
+pendant's age. The resulting radiocarbon age, when calibrated, came to
+approximately AD 875 (with a one standard deviation range of AD
+760-990). Our prediction of its age was off by just a couple of
+centuries, probably attributable to the margin of error in dating marine
+shell; more precise calibration would require knowing where the shell
+came from in order to account for the local carbon reservoir, but on
+this point the trail is cold.
+
+No matter. The Holly Oak pendant was engraved from looking at an image
+in a book, and not at a live mammoth. Bruce Smith won the pool.
+
+Archaeology, not being a hard science but a difficult one all the same,
+rarely yields the kind of unequivocal results obtained in the Holly Oak
+case. When it does, it is gratifying—regardless of whether one happens
+to be right or wrong. But let's be honest: most of us want to be right.
+Science is like that. After we published the radiocarbon date on the
+shell, many colleagues claimed they had known all along the Holly Oak
+pendant was a fake. Science is like that, too.
+
+Cresson had been desperate to place his name on the rolls of American
+science, and evidently believed that if he made a discovery so wonderful
+that it resolved the most bitter dispute then facing American
+archaeology, the archaeological world would beat a path to his door. The
+flaw in that strategy is that spectacular finds cannot be made on
+command, unless one is blindly ambitious and utterly dishonest. So it
+was that a stolen Fort Ancient shell pendant in the hands of a skilled
+artist schooled in French prehistory and with an illustration of the La
+Madeleine engraving in a book in front of him, became for a moment the
+first American Paleolithic art object. But only for a moment.
+
+Whether it was the disgrace of being summarily fired, or the dismissal
+of his pendant (more by stony silence than public censure), or some
+other event that started Cresson on his downward spiral into insanity,
+we will never know. But perhaps Cresson knew. Among the items in his
+pockets at the time of his suicide was a note in his handwriting that he
+feared he was “suspected of counterfeiting and that Secret Service
+detectives were continually on his track.”
+
+Nevertheless, the active search for the deep past continued, though
+following that pivotal summer, no more claims were made on behalf of
+American paleoliths. However, the new century brought a new kind of
+evidence to center stage.
+
+NEANDERTHALS IN AMERICA?
+
+In December 1899, Putnam's hired hand in Trenton found a human femur
+(upper leg bone) deep in what appeared to be Pleistocene-age gravels at
+Trenton. Hope for a Pleistocene human antiquity was renewed, but Putnam
+was worried. “We must not make any blunder about it,” he warned, and for
+good reason. Government critics quickly scorned the fast-traveling news
+of the find. Putnam turned the femur over to Ales Hrdlicka, a young
+physician turned physical anthropologist, whom he hoped would show that
+the bone had some antiquity. But Hrdlicka was none too impressed by the
+specimen, which looked no different from femurs of recent American
+Indians. Perhaps, he supposed, the geology of the site might shed light
+on its age. Wright had examined the geology, and thought the specimen's
+Pleistocene age was so clear that there was scarcely anything to
+discuss. Wright, however, was hopelessly optimistic. By then, the
+Trenton gravels had such geological notoriety that any agreement on
+their age was impossible.³⁶
+
+The Trenton femur proved to be the first of many human skeletal parts
+found over the next twenty-five years in apparent Pleistocene-age
+deposits. Over that period, Hrdlicka would emerge—after 1903 in the
+employ of Holmes at the Smithsonian—to challenge each and every claim,
+“like Horatio at the land bridge between Asia and North America, mowing
+down with deadly precision all would-be geologically ancient invaders of
+the New World,” as one of his contemporaries put it.³⁷
+
+Hrdlicka's position was this: if the earliest Americans had arrived in
+the Pleistocene, they should look like a Pleistocene-age fossil
+human—like Neanderthals, say, and not like the American Indians who
+inhabited the region. In structure this was no more than Abbott's
+argument (if it's old, it should look primitive) applied to skeletons.
+But there was one significant difference: the argument worked for
+Hrdlicka. He was fast becoming the premier physical anthropologist of
+his day, and few could challenge his considerable knowledge of human
+variability and evolution. To claim a human skeleton was Pleistocene in
+age, one had to play by Hrdlicka's rules. So were there Neanderthals in
+America?
+
+On a farm along the Missouri River just outside Lansing, Kansas, in
+February 1902, brothers Michael and Joseph Concannon were digging a
+tunnel to store fruit and vegetables on their father's farm. Seventy
+feet into the hillside and twenty feet beneath the surface, they
+shoveled into two human skeletons. The bones were pushed aside—there was
+a tunnel to be dug—but after a few months, word of their discovery
+reached the City Public Museum in nearby Kansas City.
+
+The museum's curator visited the Concannon farm, and seeing that the
+bones came from under a layer of apparent glacial loess, he alerted
+geologists Warren Upham and Newton Winchell of the Minnesota Historical
+Society, who rushed to Lansing. The two men were stunned by what they
+saw: Pleistocene loess atop the bones. Within days, Upham prepared a
+paper announcing that Lansing proved a human presence in the New World
+prior to the last episode of ice advance in North America: in round
+numbers, perhaps 30,000 years before the present.
+
+To his friend Wright, Upham happily chirped that Lansing vindicated the
+claims made in Man and the Glacial Period, then sent his hastily written
+paper to Chamberlin and Holmes, inviting “verification or correction of
+our view.”³⁸ Verification, naturally, was what Upham preferred and
+briefly thought he had. Chamberlin and Holmes (and later Hrdlicka)
+visited Lansing, and soon afterward Upham heard rumors they had endorsed
+the site's great antiquity—rumors Upham vigorously fanned.
+
+But the rumors were false. Unbeknownst to Upham, even before Chamberlin
+left for Lansing, he was already grousing about Upham's “fundamental
+untrustworthiness.” Chamberlin's mood hardly improved at the site, where
+he concluded Upham—his former USGS employee—had badly misread the
+stratigraphy and geology. Back in Chicago, Chamberlin blistered Upham in
+a string of letters, lecturing him on the attributes of loess,
+scientific ethics (like Wright, Upham had “gone public” with his claims
+about Lansing), and even ominously accused him of “direct
+falsification.”³⁹
+
+Battle lines were drawn once more: Upham, Winchell, and Wright fighting
+for a Pleistocene age for the loess overlying the skeleton, with
+Chamberlin and Bohumil Shimek, the Midwest's leading loess expert,
+dismissing the Lansing deposit as neither true loess nor Pleistocene in
+age. Holmes and Hrdlicka joined Chamberlin, chiming in that the Lansing
+skulls were no different than crania of American Indians of the region,
+and surely no more than a few hundred or a few thousand years old. To
+Abbott watching from the sidelines, it all recalled “the merry old days
+of earnest work…[and] the controversial days that embittered me.”⁴⁰ Just
+like in the old days, neither proponents nor critics backed down.
+
+Scarcely four years later and 195 kilometers up the Missouri River, the
+exercise was repeated. At the Gilder Mound, just outside Omaha,
+Nebraska, human crania—Neanderthal-looking to some—were plucked from
+apparent Pleistocene loess. Eight years later, attention shifted to the
+tar pits of Rancho La Brea, where a human skull was extracted from the
+asphalt ooze along with bones of an extinct (Pleistocene) condor. Two
+years after that (1916), it was Vero, Florida, where human remains
+rolled out of sand deposits yielding the bones of extinct mammoth and
+sloth. Nearly a decade later, it was a similar story at Melbourne,
+Florida.
+
+In each case, a swarm of archaeologists and geologists descended on the
+site to inspect the skeletal remains and their geological context,
+Hrdlicka usually leading the charge (Figure 14). Testifying to the
+duration of the dispute, there was now a second generation of
+participants. Literally, a second generation: geologist Rollin
+Chamberlin visited Vero in the place of his father, Thomas.
+
+[images]
+
+FIGURE 14.
+Aleš Hrdli[images]ka examining the stratigraphy in the Gilder Mound,
+Nebraska, January 1907. (Photograph by E. Barbour, courtesy of the
+Nebraska State Museum.)
+
+There were the usual disagreements over whether the human skeletal
+remains at each site were in primary context, or contemporary with the
+apparently ancient loess or extinct mammal-bearing deposits in which
+they were found. Hrdlicka took a cue from Holmes: since human beings
+bury their dead and because bone is so easily broken and moved in the
+earth, the odds were that any bone in ancient deposits came from later
+times. “Perhaps,” paleontologist Oliver Hay tartly replied, “we get a
+clue here to the reason why civilized people nail up their dead in good
+strong boxes.”⁴¹
+
+Besides, Hrdlicka continued, even granting human remains had not moved
+in the ground, what assurance was that of their great age? Geologists’
+opinions were utterly divided. The Lansing and Gilder Mound specimens
+were either in true loess or not in true loess, and thus either
+Pleistocene or post-Pleistocene in age, while the Vero and Melbourne
+fauna was either Pleistocene or post-Pleistocene in age—it all depended
+on which geologist one heeded.
+
+Hrdli[images]ka naturally followed the Chamberlins, but his true
+allegiance was to the bones. What did they have to say? Only if they
+spoke of an anatomically distinct pre-modern human could they be
+Pleistocene in age, never mind the geology. But they said no such thing.
+
+Chamberlin (senior) was disappointed in Hrdli[images]ka's low opinion of
+geological testimony, but no more so than in many of his geologist
+colleagues. In fact, the irreconcilability of interpretations soured
+relations all around. Anthropologists and archaeologists bickered among
+themselves over what a Pleistocene-aged human should look like, then
+argued with paleontologists about the timing of mammal extinctions.
+Paleontologists wrangled with geologists about where to draw the line
+between Pleistocene and post-Pleistocene formations. Geologists fought
+each other over the number, timing, and evidences of glacial history.
+Even linguists got in the act, clucking with disapproval at everyone's
+failure to provide them sufficient time to evolve the great diversity of
+native North American languages (Chapter 5).
+
+Once again, the situation reached an angry impasse. Holmes darkly
+pronounced the evidence from Vero “dangerous to the cause of science.”
+Journalist Robert Gilder, who had found the Nebraska “Neanderthals,”
+called Hrdli[images]ka a “liar.”⁴²
+
+So it went. Over the decades, scores of purportedly Pleistocene-age
+sites were championed, some with stone tools, others with human skeletal
+remains, but all were suspect, and all faced withering criticism from
+Holmes, Hrdli[images]ka, and others. In this wide-open field, there were
+few rules of engagement, and the dispute exposed deep rifts over what
+constituted legitimate proof of human antiquity. At its worst, Frank
+Roberts darkly admitted, “the question of early man in America [became]
+virtually taboo, and no anthropologist, or for that matter geologist or
+paleontologist, desirous of a successful career would tempt the fate of
+ostracism by intimating that he had discovered indications of a
+respectable antiquity for the Indian.” Archaeologist Nels Nelson advised
+his colleagues to “lie low for the present.” Shrewd advice and many,
+such as Alfred Kidder, followed it: we “comforted ourselves,” he later
+confessed, “by working in the satisfactorily clear atmosphere of the
+late periods.”⁴³ Ironically, the key to resolving the dispute had, since
+1908, quietly lain exposed in an arroyo in New Mexico.
+
+IN THE BELLY OF THE BEAST
+
+On August 27, 1908, torrential rains fell on Johnson Mesa in a remote
+corner of northeastern New Mexico. The thunderstorm broke in early
+evening, yielding a beautiful sunset, but then, unusually, fired up
+again. After dark, from a ranch just below the mesa, a frantic phone
+call went out to Sarah Rooke, the local telephone operator: the Dry
+Cimarron River was rising fast. Everyone downstream in the town of
+Folsom needed to head to higher ground. From her switchboard, Rooke
+began calling the townspeople. Many heeded the warning. Others could not
+be saved, including Sarah Rooke, who stayed at her post sounding the
+alarm until the floodwaters tore her small operator's shed from its
+foundations and washed it away. Her body was found in a field the next
+spring, buried in mud.⁴⁴ The flood forever changed the town of Folsom.
+So, too, American archaeology.
+
+Sometime after the flood, George McJunkin, the foreman on the Crowfoot
+Ranch below Johnson Mesa, went out to check his cattle and fences, and
+came across a new and deeply incised portion of Wild Horse Arroyo, a
+tributary of the Dry Cimarron. Looking down, he noticed bones jutting
+out near the base of the arroyo. Most cowboys would have passed them by:
+bones are hardly an uncommon sight in ranch country. But by all
+accounts, McJunkin was no ordinary cowboy. Born a slave in pre-Civil War
+Texas, he was befriended at an early age by his plantation owner (Jack
+McJunkin), who taught him to read and supplied him with books. In his
+teens, George moved to Midland, taking a ranching job using the McJunkin
+name. By the time he was in his twenties, he was working on the Crowfoot
+Ranch.
+
+Precisely what McJunkin, a self-taught naturalist, thought of the bones
+in the bottom of Wild Horse Arroyo is not known. But they obviously
+piqued his curiosity, for he told others about them. One was Carl
+Schwachheim, the blacksmith in nearby Raton, who had built a fountain in
+front of his home using the antler racks of two bull elk that had become
+entangled in a mortal contest. McJunkin had passed by the fountain, saw
+that its builder was a kindred spirit, and on trips to Raton would stop
+in to talk to Schwachheim—at some point, he must have described the
+bones in Wild Horse Arroyo.
+
+Schwachheim did not visit the Folsom site until December 1922 (after
+McJunkin died). He and Raton banker Fred Howarth collected a few of the
+bones, which they took to the then Colorado Museum of Natural History in
+Denver. Jesse Figgins, the director, turned the bones over to the
+museum's paleontologist, Harold Cook, who identified them as being from
+an extinct species of bison. Figgins and Cook visited the site in March
+1926 and decided to excavate, with the aim of acquiring a bison skeleton
+for museum display. They were not looking for, nor did they expect to
+find, any archaeological remains.
+
+Still, they were well aware of the human antiquity controversy. Cook was
+the discoverer and namesake of Hesperopithecus haroldcookii, a fossil he
+had found in the early 1920s near his family ranch in western Nebraska,
+which was identified as a pre-Pleistocene form said to resemble what was
+then the oldest-known human ancestor, Homo erectus (Java Man, as it was
+then known).⁴⁵ Sadly for Cook's hopes of taxonomic immortality (Cook
+Man?), Hesperopithecus proved on closer inspection to be a fossil pig
+that had become extinct millions of years before our ancestors appeared
+on the plains of Africa. But Cook paid that little mind—the tooth might
+well be from a fossil pig, but he was convinced some of the bones found
+with it had been broken by humans. Ever the optimist, Cook was sure
+humans had been in America a very long time.
+
+He saw further evidence of that at the site of Lone Wolf Creek, in
+Colorado City, Texas. Figgins had hired workers there in 1924 to extract
+the bones of an extinct bison for display (Figure 15). Unfortunately,
+they made a mess of the task, lopping off the ends of bones to make them
+fit packing crates, rather than just getting larger crates. Worse,
+Figgins learned only afterward that three artifacts had been found with
+the bison. The artifacts were neither left in place nor photographed;
+one was missing. The following spring, Figgins dispatched Cook to the
+site to assess the geology, and even though the evidence was long out of
+the ground (and badly mangled), Cook still confidently concluded that
+Lone Wolf Creek provided “good, dependable definite evidence of human
+artifacts in the Pleistocene in America,” perhaps as much as 350,000
+years old.⁴⁶
+
+That was a daring claim at a time when most were unwilling to push human
+antiquity in America back to 10,000 years ago. But because of the
+sloppiness of the discovery, there was little reason for confidence in
+Lone Wolf Creek, no matter how vigorously Cook tried to promote it. And
+he tried very hard indeed. But that hardly convinced skeptics like
+Holmes, who immediately asked about Cook's scientific reliability. The
+answer from Cook's old mentor was none too flattering: “Harold has a
+somewhat optimistic temperament, and I find it necessary to discount his
+geological conclusions more or less.” Holmes and Hrdli[images]ka did as
+well.⁴⁷
+
+[images]
+
+FIGURE 15.
+H. D. Boyes and Nelson Vaughn at their excavations at the Lone Wolf
+Creek site, Texas, 1924. Note the bison remains in place. (Photograph
+courtesy of the Heart of West Texas Museum.)
+
+Cook persisted. In a broadside attack on Hrdli[images]ka published the
+next year, Cook invoked Lone Wolf Creek and Hesperopithecus to bolster
+his claim of a Pleistocene or even earlier human presence in the New
+World. In Hrdli[images]ka's angry eyes, Cook's latest paper was just
+“another head of the hydra,”⁴⁸ and he moved swiftly to decapitate it.
+But like a hydra, new heads kept popping up.
+
+In early 1927, Cook was called to a gravel quarry in Frederick,
+Oklahoma, following a report of mammoth and other extinct mammal bones
+found alongside grinding stones in apparent Pleistocene gravels.
+“Strangely enough,” Cook remarked, “these implements show a degree of
+culture closely comparable with that of the nomadic modern Plains
+Indians.”⁴⁹ He assessed the geology and concluded the site was about
+365,000 years old. But as at Lone Wolf Creek, crucial details of what
+was found, and where, rested on the unreliable testimony of an
+inexperienced collector. Worse, an independent assessment of the site's
+geology concluded the deposits were “not necessarily more than 10,000
+years old, and might be somewhat younger.”⁵⁰ That was followed by a
+searing critique of the archaeology that ridiculed the absurdity of
+Pleistocene-age grinding stones (even today, such are rare).
+
+Yet, Cook and Figgins paid the skeptics little mind, writing that
+Hesperopithecus, Lone Wolf Creek, and now Frederick pushed human
+antiquity back “by hundreds of thousands of years.”⁵¹ By then, however,
+few were taking them or their sites very seriously. It was in this
+harshly skeptical climate that their Folsom work emerged.
+
+Schwachheim was hired by Figgins to excavate at Folsom, and began in May
+1926. By early July, he was down to the level of the bison bones, and in
+mid-July, an artifact was found. This was no “rude” paleolith, but a
+delicately made spear point with a distinctive central groove or flute.
+Unfortunately, the point was out of the ground before he spotted it, so
+whether it was associated with the bison bones was uncertain. Notified
+in Denver, Figgins instructed Schwachheim to watch “for human remains
+and then in no circumstances, remove them, but let me know at once.”⁵²
+He wanted to inspect the remains in place. The remainder of the summer,
+Figgins waited anxiously for word. None came.
+
+Nonetheless, he and Cook were convinced this was another Pleistocene
+archaeological site. That fall they wrote matching papers for Natural
+History magazine that, as Figgins boasted to Oliver Hay at the
+Smithsonian, were “a deliberate attempt to arouse Dr. Hrdli[images]ka
+and stir up all the venom there is in him.” As Figgins explained,
+“Everyone seems to think Hrdli[images]ka will attack [and if he] tears a
+chunk of hide off my back…there is nothing to prevent my removing three
+upper and two lower incisors, black one eye and gouge the other, after I
+have laid his hide across a barbed wire fence. I am daring the whole
+miserable caboodle of them.”⁵³
+
+Brave words, and they inspired Hay to march down the hall to
+Hrdli[images]ka's office to arrange “a showdown” with Figgins in
+Washington. When Hay reported what he'd done, Figgins backpedaled fast,
+declaring it would be much better if Cook went to Washington to “be the
+[sacrificial] goat.” In the end, Figgins checked his faltering bravado
+and boarded a train for Washington. By the time he arrived at
+Hrdli[images]ka's office, he was in a fearful lather. Yet, much to his
+astonishment and relief, Hrdli[images]ka was courteous, “extremely
+pleased” to see the Folsom point Figgins carried with him, and even
+offered some advice: if additional points appeared during the coming
+excavation season, they should be left in place and telegrams should be
+sent around the country inviting “outside scientists” to come and
+examine them in the ground.⁵⁴
+
+Good advice, Figgins thought, and he left with newfound respect for
+Hrdli[images]ka. What he didn't appreciate, however, were
+Hrdli[images]ka's motives for offering that advice. Hrdli[images]ka
+didn't trust Figgins or Cook for a moment, and would not be convinced by
+anything they said about Folsom's age, or any possible association of
+artifacts with extinct animals. He wanted others called in to judge the
+evidence.
+
+Schwachheim resumed excavating at Folsom in the spring of 1927. In late
+August, he uncovered a Folsom point, this time firmly in place between a
+pair of bison ribs. Figgins was alerted, and immediately broadcast
+telegrams around the country announcing, “Another arrowhead found in
+position with bison remains at Folsom, New Mexico. Can you personally
+examine find.” Schwachheim was commanded to guard the point night and
+day until the visiting dignitaries arrived. He dutifully awaited the
+parade of “Scientists, Anthropologists, Archaeologists, Zoologists, or
+other bugs.”⁵⁵
+
+It began a few days later with the arrival of Figgins, paleontologist
+Barnum Brown of the American Museum of Natural History, and
+archaeologists Alfred Kidder of the Carnegie Institution of Washington
+and Frank Roberts, a young colleague of Hrdli[images]ka's at the
+Smithsonian (Hrdli[images]ka was invited, but was in Alaska at the time;
+Holmes by then had retired) (Figure 16). All agreed this was no
+accidental association of artifact and bone: human hunters had killed
+this now-extinct Pleistocene bison. Here, finally, was proof in those
+pre-radiocarbon days of an Ice Age human presence.⁵⁶
+
+That certainty, however, gave way to uncertainty about the site's
+absolute age, since the taxonomy and timing of bison extinction were
+still not altogether clear. Even so, within weeks Kidder announced
+publicly what he'd always hoped for privately: the first Americans had
+arrived some 15,000-20,000 years ago (now he could rebut those who
+claimed the Americas hadn't been occupied long enough for its
+civilizations to have developed on their own). The announcement,
+subsequently elaborated by Brown and Roberts, electrified the scientific
+community.
+
+Brown, in fact, was so taken by what he saw that he returned to Folsom
+in 1928 to expand the excavation. That July, when fluted points were
+again found alongside bison remains, telegrams were once more broadcast
+across the country, and in response, the find was seen by several of
+“the best men in the country,”⁵⁷ including some of a new breed of USGS
+geologists who mapped the region, and who independently affirmed
+Folsom's late Pleistocene antiquity (based on my own investigations at
+Folsom seventy years later, which involved extensive radiocarbon dating,
+I can report their age estimates were off by only a couple thousand
+years: that's quite an achievement, given they had no techniques for
+absolute age dating⁵⁸).
+
+[images]
+
+FIGURE 16.
+Carl Schwachheim (left) and Barnum Brown posing with the first in situ
+Folsom point, September 4, 1927. The point is the one shown in close-up
+in Plate 1 of this book. (Photograph courtesy of American Museum of
+Natural History.)
+
+The decades spent searching for paleoliths or pre-sapiens fossils were
+over. In retrospect, that effort seemed strangely misguided. Folsom was
+late Pleistocene in age, but it looked nothing like what anyone expected
+a Pleistocene human occupation to look like.
+
+HISTORICAL HOMILIES
+
+Proponents of a great human antiquity in the Americas, recalling with
+fondness Holmes and Hrdli[images]ka apparently getting their comeuppance
+at Folsom, see in this history a vindication of their belief that
+critics hinder the recognition of bona fide early sites and retard the
+progress of science. That's a serious charge, but it needn't be taken
+too seriously. Historian of science David Hull observes that “the least
+productive scientists tend to behave the most admirably, while those who
+make the greatest contributions just as frequently behave the most
+deplorably.”⁵⁹ Without question, Chamberlin, Holmes, and Hrdli[images]ka
+often behaved deplorably: they were merciless in attack and engaged in
+no small amount of behind-the-scenes skullduggery.
+
+Nevertheless, far from hamstringing inquiry, these critics actually sped
+it along toward resolution. Their tough questions and criticisms
+crystallized debate on stone tool technology (the means of making
+tools), the relationship between tool form and age, human evolution,
+glacial geology, and dating techniques—critical issues all. Much was
+learned in the half century of dispute, not least what a solution to the
+human antiquity controversy had to look like. The swift acceptance of
+Folsom attests to that.
+
+Besides, look at the sites the critics rejected. Today, Trenton,
+Newcomerstown, Lansing, Gilder Mound, Vero, and all the other allegedly
+Pleistocene sites are significant because of the battles fought there,
+not because of the great age of their archaeological remains. None of
+them were what they were claimed to be. Skepticism about a Pleistocene
+human presence was not arbitrary, but rather forged in the face of
+repeated cases that failed to withstand critical scrutiny (circumstances
+that will arise again).
+
+The antiquity of the Folsom site, like that of Brixham Cave before it,
+was based on artifacts in close association with the remains of an
+extinct Pleistocene animal, the only secure means then available for
+telling time. That made Folsom unlike virtually every previous
+contender, where it had been impossible to demonstrate that the
+artifacts (or human skeletal remains) had been deposited at the same
+time as the Pleistocene-aged deposits or fauna with which they were
+found.
+
+Equally important, Folsom was a kill site that would ultimately yield
+the remains of nearly three dozen bison and almost as many points.
+Consequently, its excavation provided several opportunities for
+scientific visitors to witness newly discovered points in place. Site
+visits to evaluate claims of great antiquity had been common since the
+1890s. Yet, they were not always successful nor, for that matter,
+welcome. After a joint visit to Trenton in the late summer of 1897,
+Abbott griped, “I cannot say, looking back over the past four days, that
+I have enjoyed it. There is too much assumption of extra-carefulness, as
+they call it, which is simply a lot of childish twaddle. They cannot
+grasp the subject in its entirety and see the facts…. They may all be
+very eminent men, but it took me a good deal less time to learn that we
+had here evidences of man's antiquity.”⁶⁰
+
+Those earlier site visits were often exercises in incompatibility, never
+achieving consensus and serving largely to highlight differences in
+interpretation. This was hardly surprising: archaeological methods and
+techniques in those years were uneven, many discoveries were made under
+dubious conditions, training was spottier, more amateurs were in the
+mix, there was considerable disagreement about how to recognize
+Pleistocene-age deposits, the criteria for evaluating evidence were less
+explicit, and a site's age had to be assessed in the field after careful
+examination of the stratigraphy and geology, artifact context, and the
+nature of the associated remains. At Trenton, Lansing, Gilder, and Vero,
+proponents and critics visited the sites, looked at the very same
+evidence, but came away with radically different views of what it meant.
+The 1927 visit to Folsom, where everyone agreed on what they were
+seeing, was the exception far more than the rule. But then by 1927,
+archaeology, geology, and vertebrate paleontology had become more
+professional sciences.
+
+It was not inevitable that resolution of the human antiquity controversy
+would occur at Folsom, only that a site such as Folsom was needed, where
+the association of points and extinct animals was indisputable and could
+be repeatedly witnessed. That's critical, for the evidence at Folsom was
+seen—on Hrdli[images]ka's good advice—by members of the scientific
+elite.
+
+Historian of science Martin Rudwick has shown that controversy in
+science, or at least nontrivial controversy, is not resolved by
+consensus across the community.⁶¹ Rather, resolution is brought about by
+a core elite within the field who are recognized as experts, even if
+they are not particularly involved in the research within that area.
+These elite scientists regard themselves, and are regarded by others, as
+competent arbiters of the fundamental questions of a discipline: for
+example, the antiquity of people in America.
+
+That Kidder examined Folsom, then publicly announced his acceptance of
+the evidence, carried enormous weight, for in the 1920s, he was at the
+height of his considerable power and influence (like Lyell in the
+1860s). He was not being immodest when he explained to Figgins that “as
+an archaeologist, I am of course not competent to pass either upon the
+paleontological or the geological evidences of antiquity, but I have
+paid great attention for many years to questions of deposition and
+association. On these points I am able to judge, and I was entirely
+convinced of the contemporaneous association of the artifact which you
+so wisely had left ‘in situ’ and the bones of the bison.”⁶²
+
+Wise, indeed. Figgins, of course, had done so in order to convince two
+more members of the elite: Holmes and Hrdli[images]ka. We know their
+opinions mattered, and not just because they thought so. Cook and
+Figgins thought so, too. In every paper they wrote, they wrote for—or
+rather, against—the Smithsonian duo. They recognized, however much they
+disliked the idea, that it was only “right and proper [that Holmes and
+Hrdli[images]ka] should not take without question such basic evidence as
+may seem necessary to establish a given fact beyond reasonable
+question.”⁶³
+
+Holmes and Hrdli[images]ka did accept the evidence from Folsom, though
+on their own terms. When asked directly, the eight-one-year-old Holmes
+understandably replied he was finally content to leave judgment to
+others (the old lion passed away a half-dozen years later).
+Hrdli[images]ka quietly probed for weaknesses in the Folsom case, but
+did so more out of habit than hope, for he respected Kidder's authority
+in such matters. It was not true, as one paleontologist teased, that
+Hrdli[images]ka would not accept that the Folsom bison were speared by
+humans unless he had “fired the arrow himself.”⁶⁴ But Hrdli[images]ka
+did want to know who was there when the “arrow” was unearthed. When
+later confronted on the larger question of human antiquity in America
+some years later, Hrdli[images]ka stuck close to his original script:
+there was still no evidence of a pre-sapiens skeleton in America. In
+that, he was correct.
+
+Holmes and Hrdli[images]ka for decades had been the scourge of claims
+for a deep human antiquity. That they said nothing about Folsom spoke
+volumes. No mea culpa was offered, but then no one expected them to
+admit to being wrong for so long.
+
+But if Holmes and Hrdli[images]ka lost the war over a Pleistocene human
+antiquity in America, it was not because Cook and Figgins won the battle
+at Folsom. Much like the situation at Brixham Cave, there was a sharp
+divide between those who made the discoveries (Boucher de Perthes; Cook
+and Figgins), and those who were called upon to judge their significance
+(Evans, Lyell, and Prestwich; Brown, Kidder, and Roberts). In both
+instances, the opinions of the discoverers were largely ignored because
+of their propensity to make absurd claims about what they'd found.
+Figgins understood their place, privately admitting “our opinions are
+valueless.”⁶⁵ He was not being humble; he was being honest. At a time
+when virtually all archaeologists were skeptical of a Pleistocene
+presence in the Americas, he and Cook were campaigning for several
+spectacularly weak cases. Nelson lectured Figgins that if everything he
+and Cook said were true, “we shall have to revise our entire world view
+regarding the origin, the development, and the spread of human
+culture.”⁶⁶ Nelson was not ready to do that. Few were.
+
+Even worse, it wasn't obvious to Cook and Figgins, as it was to everyone
+else, that Folsom was the pick of the litter. In fact, Cook judged
+Folsom the “weakest and least conclusive of our localities,” and
+Frederick the strongest.⁶⁷ That they couldn't properly evaluate their
+own evidence destroyed any remaining shreds of their credibility.
+
+Cook and Figgins fell victim to what's been called the Matthew Effect:
+“for whosoever hath, to him shall be given…but whosoever hath not, from
+him shall be taken away even that he hath.” Hrdli[images]ka's reputation
+may have been roughed up by Folsom, but only slightly, and he continued
+to be a sought-after authority regarding human antiquity in the
+Americas. Not all scientists are created equal; some are more equal than
+others. And inequality is most visible during episodes of controversy,
+when the stakes are highest. In the end, and despite their crucial role
+in the discovery at Folsom, neither Cook nor Figgins was asked to
+interpret the meaning of what he had found, nor given the opportunity to
+participate in any of the half-dozen major symposia devoted to human
+antiquity that followed in the next decade, let alone receive the
+acclaim for his contributions. Unfair, perhaps, but at least there were
+these kind, albeit private words to Figgins from the ever-gracious
+Alfred Kidder: “Anthropology owes you a very great deal for having
+handled this material so carefully and so intelligently, and I think the
+researches of yourself and Dr. Cook will go far towards opening a new
+era in the study of the question of Pleistocene man in the New World.”⁶⁸
+They did.
+
+A MAMMOTH BARRIER
+
+The Folsom find did not result in an antiquity comparable to the remote
+ages of Paleolithic Europe. But by 1927, it was obvious American
+prehistory did not extend that far back. Nonetheless, Folsom did show
+that the first Americans arrived at least by the end of the Pleistocene.
+They were not Paleolithic peoples, but assuming them to be ancestors of
+modern American Indians, they came to be called Paleoindians.
+
+The Folsom find also taught archaeologists how to look for Paleoindian
+sites. The strategy was simple: look in arroyo channels or ancient lake
+beds, or track down reports of large and easily spotted bones of extinct
+Pleistocene mammals (Figure 17), then carefully comb those localities
+for any associated human artifacts. So it was that Clovis came to light.
+A road crew, mining gravel from an old pond near Clovis, New Mexico, had
+struck immense fossils bones. Word of their discovery reached Edgar B.
+Howard of Philadelphia's Academy of Natural Sciences, who began
+excavations there in the summer of 1933, and soon uncovered mammoth
+bones alongside fluted points that were longer, broader, and less finely
+made than Folsom points (Chapter 8). These “generalized Folsoms” soon
+became known as Clovis points.
+
+Naturally, how archaeologists looked for Paleoindian sites predisposed
+what they found: almost all of the nearly two dozen found in the decade
+after the Folsom discovery were kill sites with bones of extinct animals
+and artifacts. “Boneless” Paleoindian sites were rare.⁶⁹ Not fully
+realizing how much this pattern was biased by their search strategies,
+archaeologists saw in the many sites littered with bones of bison and
+mammoth the testimony that Paleoindians were top predators, who
+specialized in the killing of big game. An inspiring vision of gutsy
+hunters, holding a trumpeting and mortally wounded animal at bay, came
+to embody North American Paleoindians, and often established
+expectations of Paleoindian sites in areas environmentally and
+climatically different from the Great Plains, where virtually all the
+iconic kill sites had been found. Steven Simms, who works in the Great
+Basin, gives voice to many when he complains of “stereotypes of
+[Paleoindian] lifeways applied uncritically from the Plains.”⁷⁰ Big-game
+hunting makes for good copy, but the appearance masks a different
+reality (Chapter 8).
+
+[images]
+
+FIGURE 17.
+A bison tibia (the larger of the two lower leg bones) exposed on the
+wind-swept floor of a now dry Pleistocene lakebed in far west Texas.
+Spotting bones eroding out in this manner led to the discovery of many
+Paleoindian kill sites, particularly during the 1930s Dust Bowl.
+(Photograph by David J. Meltzer.)
+
+Sites with Folsom points soon proved to be limited in their distribution
+to the western plains, but Clovis points were more widespread—across the
+continent, in fact. They were also found in deposits below Folsom
+points, evidence the Clovis archaeological complex was older than
+Folsom. How much older would only be learned a couple of decades later,
+following the advent of radiocarbon dating (it would also become clear
+that by Folsom times, there were many other archaeological complexes in
+other parts of the continent, as detailed in Chapter 9).
+
+But were Clovis groups the first Americans, or had people arrived
+earlier still? In the aftermath of the Clovis discovery, archaeologists
+sought traces of more ancient Americans, and soon found themselves again
+at loggerheads over the question of antiquity. As early as 1953, Alex
+Krieger warned his colleagues that having overthrown the
+Holmes-Hrdli[images]ka “dogma,” they were now in danger of replacing it
+with another. The first Americans would be permitted a late Pleistocene
+entry, but he feared that 10,000 years was fast becoming the new
+“allowed antiquity.”⁷¹
+
+Yet, in 1953 he tallied a half-dozen sites that “may and probably do”
+break that barrier. In 1964 he upped the total to fifty sites in North
+and South America that he thought pointed to a human presence predating
+Clovis. Not all sites were likely genuine, as Krieger well appreciated.
+But what impressed him most was how many sites looked old. As he saw it,
+where there's smoke there's fire. The sites on his list included some
+with radiocarbon ages ranging from 21,000 to more than 38,000 BP. Others
+had bones of extinct animals that appeared split, burned, or broken by
+human hands. And then there were the Malakoff heads—giant sandstone
+boulders from deep in a Texas gravel quarry that had crude “faces”
+carved into them, looking like enormous versions of Mr. Potato Head
+toys. Krieger even tossed in several American Paleolithic sites, Trenton
+included, for they “cannot all be set aside as insignificant.”⁷²
+
+In fact, many of the sites on Krieger's list recalled the American
+Paleolithic, for they contained crude stone or bone artifacts. Krieger
+insisted he was not making Abbott's mistake of equating artifact form
+with age, merely raising the possibility of a “pre-projectile
+(pre-Clovis) point stage.” Perhaps. But few were eager to follow Krieger
+out on his speculative limb. Others were busy sawing it off behind him.
+
+The same year Krieger published his pre-Clovis compendium (1964), C.
+Vance Haynes reported the first secure radiocarbon ages for a half-dozen
+Clovis sites (including the type site). Their ages fell in a very narrow
+slice of time, between 11,500 and 11,000 BP.⁷³ None were more than
+12,000 years old, and none yielded evidence of a precursor or pre-Clovis
+population, despite having underlying sediments of the right age, and
+with ecological conditions that should have been favorable to
+occupation—had people been present in the area.
+
+But if there was no pre-Clovis, how might one explain the “apparently
+sudden appearance” of Clovis over much of North America 11,500 years
+ago? Geology provided a clue. By the late 1950s, there were a raft of
+radiocarbon ages available on the timing of deglaciation, and in them
+Haynes spotted a striking concordance between the geological and
+archaeological records. It appeared that 12,000 years ago the ice-free
+corridor had opened, linking Alaska with the rest of the continental
+United States for the first time in 15,000 years. Was it mere
+coincidence Clovis appeared south of the ice sheet at this moment?
+
+It all made perfect sense: the land bridge connecting Siberia and Alaska
+only emerged during glacial cycles, but once migrants reached Alaska,
+ice sheets had blocked their path south. Either the first Americans came
+before the Late Wisconsin ice advance, in which case they had to contend
+with crossing the open Bering Sea, or they came later and walked across
+the land bridge, then cooled their heels in Alaska waiting for the
+Cordilleran and Laurentide ice to retreat. The splendid chronological
+correlation between the disappearance of the ice and the appearance of
+Clovis surely favored the latter hypothesis.
+
+The way Haynes saw it, Clovis progenitors probably were in Alaska some
+12,500 years ago, moved out across the Arctic slope soon thereafter, and
+then down the ice-free corridor fast on the heels of its opening. The
+migration from Siberia into northwestern North America might have taken
+1,500 years altogether, but once south of the glaciers, Clovis groups
+could have spread rapidly east and west, colonizing the entire continent
+in fewer than 1,000 years.
+
+For Haynes the pieces were falling neatly into place. For Krieger, his
+worst fears were coming to pass (Figure 18). The notion that Clovis was
+one of the older occupations of North America was steadily losing ground
+to the idea that it was the oldest occupation in North America.
+
+Still, in 1964 Haynes saw “good indications” there were people in
+America before 12,000 years ago. He just didn't think they were related
+to Clovis, or perhaps there were just very few of them. But by 1969, he
+was losing enthusiasm for the idea of pre-Clovis.⁷⁴ His newly found
+skepticism was understandable. In the intervening years, he had learned
+the hard way that sites too good to be true often weren't.
+
+Tule Springs, located near Las Vegas, Nevada, had everything going for
+it: genuine artifacts, bones of Pleistocene megafauna seemingly broken
+by human hands, and a radiocarbon date of 28,000 BP. Anxious to learn
+more of this occupation, a team of archaeologists, paleoecologists, and
+geologists embarked on an ambitious excavation program, overseen by a
+blue-ribbon panel of scientists. Almost immediately Haynes, the site
+geologist, noticed that the “hearths” at Tule Springs were nothing more
+than organically blackened deposits. That was welcome news, solving as
+it did a longstanding puzzle: if these were hearths, why were they full
+of unburned snail shells? Then the curious fracturing of the megafaunal
+bones turned out to be restricted to remains found in the spring vents,
+and likely had been broken by the frantic trampling of animals trapped
+in those quicksand-like sediments, and not by human hands. Their
+“burning” was merely groundwater staining. The only indisputable
+artifacts at Tule Springs were from deposits much younger than 12,000
+years old.⁷⁵ Tule Springs was not pre-Clovis. Still, neither Haynes nor
+anyone else categorically rejected the possibility of an older human
+presence in the Americas. Just so, the seeds of skepticism were sown.
+
+[images]
+
+FIGURE 18.
+C. Vance Haynes and Alex Krieger examining specimens at the 1970 Calico
+Conference. (Photograph courtesy of David J. Wilson.)
+
+At the outset of the Great Paleolithic War, Charles Abbott had expressed
+the fervent hope that “the ‘doubting Thomases’ [would] be fewer by the
+year 2000.”⁷⁶ As it turns out, Abbott finally got something right. But
+it was no easy road getting there.
+
+4
+
+THE PRE-CLOVIS
+CONTROVERSY AND ITS
+RESOLUTION
+
+In the late 1980s, about the time the pre-Clovis dispute in America was
+nearing a boil, archaeologist Jack Harris visited my university,
+bringing with him the just-excavated artifacts from the Senga site in
+Zaire (now Democratic Republic of Congo). Judging by the animal bones
+found with them, he inferred the specimens were more than 2.3 million
+years old—making them nearly 100,000 years older than any previously
+known artifacts from Africa, and thus the earliest human tools ever
+found. At the end of a brief talk about his excavations at Senga, Harris
+laid the specimens on the table.
+
+It is surprisingly humbling to see a human culture starter set, even if
+it is several hundred shattered quartz flakes, most no more than 2
+centimeters long and all utterly nondescript, even by forgiving Lower
+Paleolithic standards. But what I really noticed was the silence. No one
+in that audience of mostly Old World archaeologists asked Jack how sure
+he was of the artifacts’ age, whether their geological context was
+secure, or why he was certain they were even artifacts—questions I was
+asking myself. After all, I'd been in rooms where artifacts on display
+from the pre-Clovis age sites of Monte Verde, Chile, and Meadowcroft
+Rockshelter, Pennsylvania, dated to 12,500 and 14,250 BP, respectively,
+triggered noisy debate.
+
+So why does Senga, plunging the birth of cultural behavior 100,000 years
+deeper into the past—almost to the doorstep of the Pliocene—scarcely
+elicit a murmur of skepticism, while sites just 1,000 years older than
+Clovis come under withering fire? Senga helps redefine what makes us
+human. Monte Verde and Meadowcroft only tell us American prehistory
+began slightly earlier than we thought.
+
+I asked my colleague, South African archaeologist Garth Sampson, why
+Senga was so readily accepted. He tried not to be condescending: “My
+dear fellow,” he said, “because it's obvious Senga is just what Jack
+says it is.”
+
+Yes. Well. That was helpful. But explain that to Tom Dillehay or James
+Adovasio, both highly competent archaeologists, each of whom had assured
+us that the pre-Clovis-age occupations at Monte Verde and Meadowcroft
+were just what they said they were. Why wouldn't we take their word for
+it?¹
+
+Why did controversy over antiquity persist in the face of mounting
+evidence from fields as diverse as linguistics, genetics, and physical
+anthropology—as well as archaeology? Why did it remain unresolved in the
+face of a regular crop of purportedly ancient assemblages and
+archaeological sites, and an almost annual harvest of books and papers
+on the topic? Why, indeed, all the fuss?
+
+Some blamed this state of affairs on critics either secretly envious or
+so hopelessly biased they attack even legitimate pre-Clovis claims—Niede
+Guidon believes that “when you are the first to discover something,
+people want to kill you because you disturbed the placid waters of the
+lake”. The result, Guidon claims, is a “Kafkaesque” situation in which
+there are good archaeologists (with Clovis sites), and bad ones (those,
+like herself, with pre-Clovis sites).²
+
+Yet, were I selecting Kafka metaphors, it would not be his dark classic
+The Trial, but his lesser-known Metamorphosis, in which a perfectly
+promising human being turns into a cockroach. Virtually every field
+season over the last several decades brought a new contender for the
+pre-Clovis crown. Each was initially heralded with great fanfare, but
+soon started rolling down the slippery slope of the pre-Clovis
+credibility decay curve.
+
+The problems varied, but the outcome was inevitably the same. Most
+pre-Clovis claims had a shelf-life of about a decade: better than fish
+and house guests, but ultimately they, too, began to stink.
+
+Recall that in 1964 Alex Krieger had identified fifty pre-Clovis sites
+in the New World. By 1976 Scotty MacNeish had tallied just thirty-five;
+in 1988 Richard Morlan had found only five.³ The sites on their lists
+are almost completely different. Supporters of pre-Clovis put a positive
+spin on these wholesale losses: by 1976, they say, MacNeish had at his
+disposal a wealth of new and improved sites unavailable to Krieger.
+Naturally, he would use these weapons in the battle over the antiquity
+of the first Americans. Maybe so. But then thirty-one of MacNeish's
+sites failed to make Morlan's list. Critics read a different message: if
+90% of what was considered the best pre-Clovis claims in 1964 failed to
+survive until 1976, and if nearly the identical percentage from 1976
+failed to make the 1988 list, why put much faith in any sites on any
+list?
+
+There is one very good reason: whether the first Americans came here
+before Clovis times and whether we have detected their traces are
+independent issues. The fact many sites have been proposed but none
+accepted only tells us none of those sites is acceptable. It does not
+prove humans were absent from the Americas in pre-Clovis times. And no
+matter how many sites fail, that does not reduce the odds of finding one
+that might pass. Still, and not surprisingly, that decades-long failure
+meant few archaeologists were willing to accept a pre-Clovis claim at
+face value. We grew skeptical, cynical, even insulting: Paul Martin (not
+an archaeologist, but with his own Clovis-first agenda to push⁴) likened
+the pre-Clovis search to the quest for Bigfoot, as though there were
+sound reasons why pre-Clovis could not exist. There aren't. But then
+there's no reason it has to either. Whether it does or not is strictly a
+question of evidence.
+
+PASSING THE TEST
+
+Although there has been considerable and largely fruitless speculation
+over what a pre-Clovis site ought to look like, just as there was a
+century earlier over how an American Paleolithic might appear, one
+conclusion seems inescapable: we are not looking for—and from what we
+know of human evolution do not expect to find—Senga-like artifacts here
+in the Americas. To be sure, in some places “primitive-looking”
+artifacts were made even in the recent past (it is often a sign of a
+dearth of suitable toolmaking stone), but overall we should see the
+relatively complex tools and features that characterize those of other
+sites produced by anatomically modern humans (Homo sapiens), who spanned
+the globe over the last 100,000 years. Beyond that, however, we cannot
+be much more specific predicting the look of a pre-Clovis toolkit.
+
+What we can expect—demand, even—of a pre-Clovis site are (1) undeniable
+traces of humans, either their artifacts or skeletal remains, in (2)
+undisturbed geological deposits in proper stratigraphic position, which
+are (3) accompanied by indisputable radiometric ages (speared bison no
+longer suffice). These are no more than evolved versions of criteria
+Ales Hrdlicka first proposed in 1907, and no less than what was finally
+met at Folsom in 1927.⁵ On their face, they are not difficult criteria
+to meet, nor any different than the ones used in Africa to identify the
+earliest (and often the most ambiguous) traces of human culture.
+
+Still, as the changes between Krieger, MacNeish, and Morlan's lists
+plainly show, these criteria have proven extraordinarily difficult to
+meet, so much so that pre-Clovis proponents have cried foul.⁶ The
+criteria, they charge, are unfairly applied and unduly rigid. They
+insist that if broadly applied, we would be left wondering whether
+anyone occupied North America in Clovis time. Are the criteria so
+perversely narrow they blind archaeologists from seeing legitimate
+evidence? A closer look is in order.
+
+The first criterion (and often the most troublesome), requires the
+presence of artifacts or human skeletal remains. The latter have not
+figured prominently in the pre-Clovis dispute, simply because few
+Pleistocene-age human remains have been found in North or South America,
+and none is significantly older than 11,500 BP (as we'll see in Chapter
+5, skeletal remains are central to the most controversial questions
+about who the first Americans were). Artifacts are another story.
+
+Artifacts come in a myriad of materials, but most commonly only those
+made of stone, and to a lesser degree bone, survive the rough passage of
+time. Almost certainly the earliest Americans fashioned artifacts of
+wood, antler, shell, and the like (but not ceramics—those came later),
+but those materials are quick to decompose, and are seldom preserved or
+recovered archaeologically.
+
+An artifact is an object made, modified, or otherwise used by humans.
+Oftentimes, fashioning an object for use renders it easy to spot as the
+product of human hands: turning a chert cobble into a finely crafted
+spear point, or carving a piece of mammoth rib into a socket wrench. No
+recognition problems here.
+
+But at other times, objects are hardly modified, and even after use show
+little sign of having been made by human hands—like a round river cobble
+employed briefly to smash open bone for marrow, but which left few
+traces of that action. And to complicate matters, nature can modify
+stone and bone in ways that mimic the action of human hands. Grinding
+glacial ice and roaring rivers, for example, can break stone or bone
+into forms that resemble rough-hewn artifacts, such as choppers or
+scrapers. Here it becomes much harder to tell whether an object was made
+or used by people.
+
+Such ambiguous cases require close scrutiny of context: where was the
+object found and with what? An otherwise nondescript, round river cobble
+found in a site high above a river, alongside charred and broken animal
+bones, a charcoal-laden hearth, and a dozen broken spear points all in
+fine-grained loess, is likely an artifact. Find that cobble in the river
+bed, amid millions like it, and even if it were an artifact, one would
+be hard-pressed to prove it. Worse, in that river bed there would be
+naturally broken cobbles that looked more like artifacts than that round
+cobble. Where artifact look-alikes grade imperceptibly into broken
+cobbles bearing no resemblance to artifacts, and then into unbroken
+cobbles, the context bespeaks a natural origin for all. Seems simple
+enough.
+
+TROUBLE IN THE HILLS
+
+The Calico Hills site is located in the hills high above Pleistocene
+pluvial Lake Manix, in what is now the Mojave Desert near Yermo,
+California. In the 1960s, Ruth “Dee” Simpson found stone artifacts
+scattered about its surface; some were obviously recent, others looked
+“Paleolithic” (shades of Charles Abbott).
+
+Louis Leakey, fresh from his triumphant discovery of 2-million-year-old
+hominids at Olduvai Gorge, in Tanzania, was invited to Calico in May
+1963. When he saw the site, and what appeared to be artifacts in place
+deep in a bulldozer pit, he was instantly convinced this was a spot to
+find ancient Americans. “Dee, dig here,” is what he said.⁷ “Here” turned
+out to be smack in the middle of a pre-Wisconsin-age alluvial fan, a
+dense mass of gravel and sand (Figure 19) originally deposited by moving
+water. Its age was initially estimated at more than 100,000 years old;
+it's now thought to be twice that old. Excavations plunged into the fan,
+and soon recovered “uniquely different” artifacts. Leakey returned in
+the spring of 1965, and in front of the anxious excavation crews,
+examined stones they had cherry-picked from the rubble. He judged at
+least twenty-five of the specimens to be humanly made. “Leakey's luck,”
+it seemed, had struck again.⁸
+
+[images]
+
+FIGURE 19.
+Excavations in Master Pit 2 at the Calico site, ca. 1968. The untold
+number of naturally broken rocks jutting from the sidewalls convey why
+it has proven impossible to demonstrate that humans were present at this
+site in early Pleistocene times. (Photograph courtesy of David J.
+Wilson.)
+
+That was enough to entice the National Geographic Society to fund
+fieldwork at Calico to the tune of $100,000 (no small change in those
+days), but with strings attached: they funded Vance Haynes and others to
+visit and evaluate the site's artifacts and geology. When the visitors
+saw that “artifacts” were being plucked from amid hundreds of thousands
+of broken stones occurring naturally in the fan, they urged all
+specimens be saved, whether thought to be artifacts or not. They were.
+
+Excavations continued at Calico, and as the pile of rocks tossed aside
+as non-artifacts grew to cover several acres, so did the number of
+Calico “artifacts” (at last count over 11,400 pieces). No surprise
+there: where nature breaks millions of rocks (as it can in a
+fast-flowing river), a small percentage will resemble crude artifacts.
+Were these found in an otherwise indisputable archaeological context,
+they might be accepted as artifacts. But found as these were in the
+Calico alluvial fan—a giant, natural gravel crusher—Haynes suspected
+none were humanly made, but instead were naturally produced geofacts,
+formed as the rocks tumbled downstream from sources in the Calico
+mountains.
+
+Haynes's criticisms sparked a lively discussion over the minutiae of
+flaked stone: did the Calico specimens possess attributes unequivocally
+made by human hands? Caliper-wielding critics compared known artifacts
+with naturally broken stones, identified the essential criteria that
+differentiate the two, and then applied those to the Calico specimens.
+The specimens proved to be more like naturally fractured stones than
+humanly fashioned ones.
+
+Proponents insisted that other attributes of the stones bespoke their
+human origin. Only, they reached that conclusion after discarding all
+the rocks that did not look like artifacts. Naturally, the ones they
+kept looked humanly made and had attributes of artifacts. But that only
+means they were consistent in their sorting criteria, and not that those
+specimens were flaked by people.
+
+Calico, in the words of Nicholas Toth—who studies Africa's earliest
+stone tools—represents a worst-case setting for documenting a human
+presence. Against a backdrop of all those naturally broken cobbles, is
+there reason to suppose any were artificially fractured?⁹ And if they
+were, how could they possibly be reliably identified?
+
+Leakey organized an international conference and site visit at Calico in
+1970, hoping it would be the American equivalent of the British
+geologists’ visits to examine Boucher de Perthes’ collections and sites
+in 1859 (naturally, the Cambridge-trained Leakey would think of the
+landmark European site visit rather than Folsom). Leakey had “no doubt,
+whatsoever!” about Calico's antiquity, but he failed to carry the day.
+His wife Mary—an accomplished archaeologist in her own right—later
+bluntly wrote that no one at the conference “really cared to get up and
+make a strong outright condemnation of the evidence, because it would
+have been equivalent to saying that Louis had lost his capacity to think
+scientifically—which, I fear, was perfectly true.”¹⁰ Indeed, there's
+reason to wonder whether Calico would have been taken seriously by
+anyone, were it not for his ringing endorsement.
+
+In the end, Calico's best hope for pre-Clovis legitimacy vanished when a
+semicircular “hearth,” found deep in the excavations, proved not to be
+one: the stones comprising the feature hadn't been subjected to heat in
+as much as 400,000 years, if ever. It was instead a natural rock scatter
+that, friend and foe admit, only looked hearthlike after surrounding
+gravel was removed. A small core of loyalists remain convinced of
+Calico's antiquity, but otherwise no one considers it an ancient
+archaeological site.
+
+“Leakey's luck” finally ran out in the California desert, a couple of
+hours down the road from Las Vegas, where dreams are daily made, and
+lost, on luck.
+
+STENO'S LEGACY
+
+No matter how sophisticated archaeological techniques have become, we
+still rely on one developed centuries earlier: stratigraphy. In 1669
+Niels Steensen (better known by his Latin pen name, Nicolaus Steno)
+formulated the first principle of stratigraphy: namely, that in an
+undisturbed deposit of strata or layers in the earth, the order of
+deposition is from bottom to top, and therefore the layers below (and
+any fossils or artifacts within them) are older than those above.
+Stratigraphy can be relatively uncomplicated, even where layers were cut
+through or are cross-bedded, but problems can arise.
+
+In an ideal stratigraphic circumstance artifacts found in, say, Late
+Wisconsin-age loess, would presumably be Late Wisconsin in age. Yet, in
+the real world, both natural processes (such as burrowing animals,
+shrinking and swelling of soils, erosion, and redeposition) and human
+action (our tendency to bury the dead) mix the deposits in which
+archaeological remains are found. Younger artifacts can easily intrude
+into older strata, falsely implying they are just as old. Sometimes the
+reverse occurs (Figure 20). Because of our very-human tendency to pick
+up curious fossils and even artifacts, older materials can be added to
+younger sites (fluted points and Paleozoic crinoids have been found in
+prehistoric Pueblos, but those sites are neither Pleistocene nor
+Paleozoic in age).
+
+[images]
+
+FIGURE 20.
+An example of the complications of stratigraphy, Dry Cimarron Valley,
+New Mexico. Deposit 1 was laid down gradually by river overflow. At
+times deposition slowed, vegetation grew on the land, and created soil
+horizons (for example, the horizontal black band under the Deposit 1
+label), which were subsequently buried by more overbank deposition. In
+turn, the top of Deposit 1 was eroded—how much was lost, we cannot
+say—which was then followed by the accumulation of Deposit 2 sediments.
+Deposits 1 and 2 were then both eroded and subsequently buried by
+Deposit 3. If stone artifacts were found on the uppermost surface of
+Deposit 1, it could mean they were contained in sediments originally
+part of Deposit 1, which had since eroded; or that they were deposited
+after erosion cut into Deposit 1 but before Deposit 2 was laid down; or
+if they were found where Deposit 3 sits atop Deposit 1, they could have
+been in or atop Deposit 1, or in or atop Deposit 2, or were dropped
+there just before Deposit 3 began to accumulate. Given what is known of
+the radiocarbon ages from this site (which range from 7800 to 2200 BP),
+incorrectly reading the stratigraphy could mean “misplacing” the
+artifacts in time by as much as 5,000 years. And that assumes the
+artifacts were dropped at this spot, but because this is a river valley,
+they could have been washed in from some distance away, and were older
+(or younger) than their position at this spot would indicate.
+(Photograph by David J. Meltzer.)
+
+Back in the pre-Folsom days, Holmes and Hrdlicka guarded against the
+possibility of stratigraphic mixing by automatically assuming that any
+artifact or human skeleton found in Pleistocene-aged deposits had
+arrived there at a later time. A site was strati-graphically guilty
+until proven innocent. Theirs was an extreme position, but in the
+sometimes complex stratigraphy of ancient valleys, terraces, and
+especially caves (recall the worries over Brixham Cave), where claims of
+great antiquity hang in the balance, stratigraphic caution is
+appropriate.
+
+A YOUNG CHILD ON OLDMAN RIVER
+
+In the early 1960s, in a modern gully draining into the Oldman River of
+southwestern Alberta (near Taber), Archie Stalker of Canada's Geological
+Survey came across the fragmentary skeleton of an infant. Little could
+be told of the child's heartrending story, but perhaps the tiny presence
+was a story in itself. The remains were in a block of calcium
+carbonate-cemented sands, apparently broken away from a layer of ancient
+stream alluvium exposed on the gully floor.¹¹
+
+The alluvium layer was deep below the surface, itself no great sign of
+age. More significant, it was sandwiched above one glacial till and
+beneath another. By Steno's law, the child predated the Late Wisconsin
+till; given how far beneath the till the skeleton was found, Stalker
+thought it might reach into the Middle Wisconsin.
+
+A geologist by training, Stalker was well aware of the necessity of
+guarding against possible stratigraphic mixing and intrusion, but he was
+certain that had not happened at Taber. There was no evidence for
+erosion older than the modern gully but younger than the alluvium, which
+might have carried the infant remains down from the surface. The bones
+were in place, he insisted, their age bracketed by the ages of the
+enclosing alluvium that had been radiocarbon dated at nearby sites. In
+round numbers, the remains were likely more than 18,000 years old, and
+perhaps as much as 60,000 years old. Unfortunately, there was not enough
+bone to be directly dated using radiocarbon techniques then available,
+and despite Stalker's almost annual visits to the site, no more bone was
+found.
+
+Stalker's confidence notwithstanding, few were completely satisfied with
+the antiquity of the Taber child. In the late 1970s, Michael Wilson and
+others returned to the site (Figure 21) to look for more remains and
+clarify its stratigraphic sequence. They had no better luck than Stalker
+finding skeletal remains, but did spot patches of bone-bearing,
+redeposited Holocene sands on the nearby slopes.
+
+[images]
+
+FIGURE 21.
+Excavations at the Taber Child site, Alberta. The folding and dipping of
+the deposits (which complicated the stratigraphic interpretation) show
+up nicely in the pit floor. (Photograph courtesy of Michael Wilson.)
+
+Those recent sands possessed many features thought to be unique to the
+Middle Wisconsin alluvium, but careful inspection revealed the two sands
+were quite different in texture, color, and chemistry. Fortunately, the
+sand adhering to the remains of the Taber child had been saved, and when
+it was analyzed, it proved to be like the Holocene sands, and not Middle
+Wisconsin sands. At some time in the recent past, the unfortunate
+child's bones had been redeposited alongside, but not in, a layer of
+genuine antiquity.
+
+In the 1980s, after AMS radiocarbon dating was developed, a tiny piece
+of the Taber skeleton was submitted: it dated to 3,550 ± 500 BP. Stalker
+rejected that result because of possible contamination of the bone.
+Perhaps. But if the date is off, the revised stratigraphy shows it is
+not off by much.
+
+THE DATING GAME
+
+Stratigraphy is a relative dating technique: the age of a layer (or
+items in it) is only known to be older or younger than some other layer.
+Knowing the actual age of an artifact or event requires using an
+absolute dating technique that yields ages in years (usually measured
+“before present”). There are many such techniques available nowadays,
+some of which can be used for specimens less than a thousand years old,
+others on materials more than a million years old.
+
+Many use the clock nature provides in the radioactive decay of elemental
+isotopes, such as radiocarbon (¹⁴C), Argon/Argon (⁴°Ar/³⁹Ar), and
+uranium series dating (²³°Th/²³⁴U). Others rely on incremental time
+markers such as dendrochronology (which uses the annual growth rings in
+trees), and luminescence dating (which measures the accumulation of
+electrons in crystal lattices within quartz grains). Still others rely
+on changes in the position of the earth's magnetic pole
+(archaeomagnetism and paleomagnetism). In order for a dating technique
+to be useful, certain conditions must obtain; among them are these:
+there must be a time-dependent signal (a natural clock) that is
+relatively constant over time; a means of calibrating the signal in
+years; a rate of chemical or physical change that matches the time span
+of interest (some short-lived isotopes disappear in a matter of
+minutes—those are not useful for dating events thousands of years old);
+and a means of linking the sample being dated, be it charcoal, quartz
+grains, or magnetized clay, with the event of interest—say, the
+occupation of an archaeological site.¹²
+
+Over the decades since its development by Willard Libby, radiocarbon
+dating has been the preferred method for dating the sites of the
+earliest Americans: its range reaches back to around 50,000 BP (Chapter
+1), which nicely covers the time period of interest. Its reliability is
+well attested, since we now know that the amount of radiocarbon in the
+atmosphere has changed over time but can account for the confounding
+effects of that through calibration (though as noted, the calibration of
+ages from the Younger Dryas period is still challenging). And, finally,
+the technique can be applied to any material that incorporates
+radiocarbon, such as charcoal and wood from plants, bone, teeth, ivory,
+keratin, hooves, horns, shell from animals, and even soils, by virtue of
+the organic acids that seep into them.
+
+Yet, not all these materials, including charcoal and bone from which
+radiocarbon ages are most often obtained, give results that are equally
+reliable (if we run the sample multiple times will we get the same
+result?) or valid (is the result correct?). Case in point: prior to our
+reopening excavations at the original Folsom site in the 1990s (Chapter
+9), the bison kill was thought to have dated to 10,890 ± 50 BP, based on
+radiocarbon ages of charcoal found with the bison bones. Yet, our
+subsequent radiocarbon dating of the bison bones themselves yielded an
+average age 400 years younger: 10,490 ± 20 BP. Why the discrepancy?
+
+Charcoal has the virtue of being relatively impervious to contamination
+and thus normally yields a reliable age. But the age may not be valid
+since the charcoal may not be the same age as the bison kill. If the
+charcoal came from, say, a lightning-strike forest fire, it will have no
+bearing on the age of the kill. Even if the charcoal was from wood that
+stoked the fires over which bison meat was cooked, it could still
+overestimate the age of the kill if the wood came from a long-lived
+tree, the inner rings of which could be decades or even centuries older
+than its outer rings. This is why, as we'll see, there is often a call
+in contentious cases for the radiocarbon dating of shortlived seeds.
+
+Conversely, radiocarbon dating of animal bones can more precisely pin
+down the age of a site, since animals live shorter lives than trees, but
+only if those bones occurred there as a result of human activity (which
+is certainly the case of the Folsom bison). But dating bone itself can
+be challenging, since it is made of multiple constituents, some of which
+are highly susceptible to contamination. The inorganic (apatite)
+portion, for example, readily absorbs ancient carbon via groundwater or
+other contaminants. Before that was realized, multiple radiocarbon ages
+on the same skeleton often gave wildly divergent results—in one case,
+for example, the oldest and youngest radiocarbon ages on the same
+mammoth were nearly 3,000 years apart. It was only in the 1980s, after
+laboratory advances enabled the extraction of protein and even
+individual amino acids from organic bone collagen, substances less
+susceptible to contamination, that it became possible to derive ages
+from bone that were more reliable. Hence, our conclusion the bone amino
+acid we obtained dates from Folsom better estimated when that kill
+occurred.
+
+But the handicap of radiocarbon dating, which will be felt if the first
+Americans prove to be far older than supposed, is that it does not
+provide reliable ages for any samples that might prove to be
+significantly more than 50,000 years old. For that, waiting in the wings
+are a number of dating methods that can go beyond radiocarbon's limits
+(or can be used where we lack material suitable for radiocarbon dating).
+Among those tried on pre-Clovis sites are amino acid racemization,
+cation-ratio dating, fission-track dating, electron spin resonance
+(ESR), uranium-series dating, and thermoluminescence (TL) and optically
+stimulated luminescence (OSL) dating (the difference between the TL and
+OSL techniques is in how the accumulated electrons in the lattice traps
+are released and measured). Sometimes the results of these applications
+have been good, sometimes not, and sometimes one can't tell, which is
+worse than getting bad results or no results at all. Thus far, no dating
+method has proven to be as tried and true as radiocarbon dating.
+
+FOOTPRINTS IN THE ASHES OF TIME
+
+Every year London's Royal Society puts on a summer exhibition to
+showcase some of the UK's latest scientific research. One of the
+exhibits in 2005 was an archaeological show-stopper: a report of more
+than 150 apparently human footprints in a volcanic ash (the Xalnene ash)
+at the Toluquilla site in central Mexico, which were possibly more than
+40,000 years old. Finding human footprints is unusual, though not
+unprecedented: 3.6-million-year-old tracks of early hominids were found
+at the site of Laetoli in northern Tanzania. But the Toluquilla site was
+rare enough and old enough by New World standards to be noticed,
+especially for the faint bell it rang in archaeological memory.
+
+Toluquilla, it turned out, was on the edges of the Valsequillo
+reservoir, which was constructed in the 1940s in the basin of a one-time
+Pleistocene lake. A 30-meter-thick gravel formation outcropping along
+the edges of the reservoir had yielded a zoo of Pleistocene fossils, and
+a slew of archaeological sites including a very controversial one:
+Hueyatlaco, the lower layer of which had flake tools and possible
+projectile points associated with the remains of a mastodon. Geologists
+had dated that lower layer at 250,000-600,000 years old, based on the
+then-experimental techniques of uranium-series, fission-track, and
+tephrahydration dating. However, the archaeologist excavating the site
+put that layer at just 9,000-22,000 years old, based on results from
+radiocarbon dating of mollusk shells contained within it.¹³
+
+Unfortunately, it proved impossible to close the huge gap separating the
+two sets of age estimates, and from the 1960s through the 1980s,
+Hueyatlaco was a poster child for problems that occur when different
+dating techniques, especially still-unproven ones, cannot be reconciled.
+Further efforts in the 1990s using the ages of the vertebrate fauna and
+of the diatoms from Hueyatlaco were equally at odds: the vertebrates
+pointed to an age less than 30,000 years ago, while diatoms in the
+deposits appeared to be more than 80,000 years old. “Conflicting and
+confusing” was the verdict handed down on the site's age.¹⁴
+
+Worse, many of the original Hueyatlaco artifacts, including mammoth bone
+ostensibly engraved with serpents and saber-toothed cats, had
+disappeared under puzzling circumstances. Ugly accusations surfaced that
+the artifacts at Hueyatlaco had been planted by unscrupulous laborers.
+The allegations were false. But the odor permeating the site's integrity
+and age was enough to knock it from the list of pre-Clovis contenders,
+though its claim to great antiquity lived on in the archaeology
+conspiracy literature (yes, there is one¹⁵) as one more site
+professional archaeologists suppressed ostensibly because it threatened
+our authority to dictate archaeological knowledge. Alas, the truth is
+far less sinister: we just didn't know what to make of this site.
+
+In the summer of 2003, a team led by archaeologist Sylvia Gonzalez
+returned to the Valsequillo region and spotted the footprints. They
+undertook an ambitious campaign to date the Xalnene ash in which the
+tracks were imprinted. OSL dating yielded an age of about 40,000 BP,
+older (as it should be) than radiocarbon and ESR ages from overlying
+deposits. Better still, since that ash occurs throughout the
+Valesequillo area, and at Hueyatlaco 2 kilometers away it lies beneath
+the gravels in which the site is situated, that meant (here's Steno
+again) the 250,000 years and older ages from this controversial locality
+must be wrong. After forty years, the age of Hueyatlaco was finally
+known to be younger than 40,000 years old. At least now we had a
+ballpark age.¹⁶ Or so it seemed.
+
+Within months of the Royal Society's summer exhibition, geochronologist
+Paul Renne and colleagues announced that ⁴°Ar/³⁹Ar and paleomagnetic
+dating of the Xalnene ash—for those keeping count, we're up to ten
+separate dating methods brought to bear on this chronologically stubborn
+region—had yielded startlingly different results: the ash was laid down
+1.3 million years ago. If those were indeed footprints, they must have
+been made by an ancestral hominid that was no Homo sapiens. Hardly
+plausible, they argued: more likely, those weren't human footprints at
+all, or if they were, they were not made when the ash was fresh. An
+expert on OSL chimed in as well: the Xalnene ash contained negligible
+amounts of quartz, making it “far from ideal” for luminescence dating,
+especially since over half the quartz grains analyzed had their electron
+traps completely emptied, others partially so, making age estimates
+unreliable. He would not be convinced that ash was 40,000 years old
+until additional OSL dates replicated the result.
+
+Gonzalez's group had already tried ⁴⁰Ar/³⁹Ar dating, but had no success
+because they spotted in the ash older mineral fragments that could skew
+age estimates, so they, in turn, were suspicious of the ages from
+Renne's group. Besides, if it were 1.3 million years old, why was there
+no stratigraphic hint of the vast time separating it from the late
+Pleistocene deposits directly atop it? Clearly, replication of the
+dating of the ash was in order, not just of the OSL results but of the
+⁴⁰Ar/³⁹Ar and paleomagnetic ages as well. Turnabout: it's fair play in
+science.¹⁷
+
+So the long-running debate over the age of the Valsequillo gravels is
+not over. Gonzalez's group has embarked on additional efforts to date
+the ash, and are optimistic they will eventually be able to nail down
+its age, and with it the age of the apparent footprints (their human
+origin is in question), and of the Valsequillo gravels that bury
+Hueyatlaco. They're optimistic, too, their results will make the
+Valsequillo Basin one of the oldest and most important regions for the
+study of the first Americans. On that, they may be correct. And they
+suggest that even if the Xalnene ash is 1.3 million years old, those
+could still be human footprints. But that's not a rabbit hole most
+archaeologists will be willing to follow them down, though conspiracy
+buffs might.
+
+SO MANY SITES, SO MANY PROBLEMS
+
+Ambiguous artifacts, scrambled stratigraphy, dubious dates. The problems
+at Calico, Taber, and Valsequillo are matched in a roll call of sites
+from Old Crow in Canada's Yukon Territory, to Lewisville in Texas, to
+Pikimachay in Peru. Could the search for pre-Clovis be doomed to failure
+simply because there is no pre-Clovis? Some skeptics suspect as much and
+point to Australia, where American archaeologists have long looked with
+interest and more than a touch of envy. We are interested because of
+similarities in the prehistory of the two continents. Both were
+colonized about the same time from Asia by highly mobile people
+possessing Stone Age technology, who found a new landscape teeming with
+a naive native fauna, and who—it seems—spread quickly through each
+continent.
+
+And we covet our neighbor's archaeological record because of our
+apparently very different archaeological histories. The search for the
+earliest sites in America has been suffused with ambiguity and
+controversy. But look at Australia, many a pre-Clovis critic has said:
+once serious archaeological work began there in the 1960s, its deep
+antiquity was “established quickly, definitively, and largely without
+rancor,” despite that continent having far fewer archaeologists.
+Perhaps, Paul Martin suggested, we just need to hire some “Aussies [who]
+seem to be capable of finding and agreeing on the existence of [ancient]
+sites…unclouded by controversy.” Were that only true.¹⁸
+
+As archaeologists James O'Connell and Jim Allen have recently recounted,
+in the early 1960s Australian prehistory was thought to extend back a
+mere 10,000 years. But within two decades, widespread excavations and
+radiocarbon dating had pushed the arrival of the earliest Australians to
+just over 40,000 years ago. That antiquity held for a brief time, but
+then a series of TL and OSL ages suddenly plunged its prehistory back to
+65,000 years ago, and then, astoundingly, to almost 176,000 years ago
+(at the site of Jinmium). That sparked a lively—and to American ears
+familiar—debate over the antiquity of the first Australians. Is the
+controversy over Down Under? Hardly. O'Connell and Allen make a
+compelling case for an antiquity no greater than 45,000 years old, but
+there are those who continue to push Australia's antiquity earlier
+still.¹⁹
+
+Pre-Clovis critics also point to the impoverishment of early American
+archaeological records compared to those of Europe, Africa, and Asia.
+Look around before 11,000 BP, Martin suggests, and everywhere but in
+America artifact quantities are “awesome.” If America were occupied at
+the same time, “why didn't they leave us some similar trophies?”²⁰ The
+answer, quite simply, is antiquity and demographics. The Old World was
+occupied much earlier than the New, no matter how old the New, and by
+late Pleistocene times, it had relatively large and archaeologically
+visible populations. Of course there are many more Old World
+Pleistocene-age sites.
+
+In contrast, as Fekri Hassan and others have shown, a small number of
+hunter-gatherers could have entered the New World 25,000-20,000 years
+ago, yet hovered below archaeological radar for a long time
+thereafter.²¹ We'll probe this matter further; for now, bear in mind
+that the search for pre-Clovis in the Americas may be a search for a
+very elusive quarry indeed.
+
+That being the case, should the criteria be relaxed? Is it true, as
+pre-Clovis proponents insist, that by the criteria, Clovis would not
+pass muster? Hardly. Clovis long ago met these criteria, and the process
+need not be repeated with each discovery of a new Clovis site, since a
+site's recognition—assuming it has diagnostic Clovis points—is
+straightforward (however, what is appropriate to ask are whether claims
+about, say, Clovis adaptations, can be supported by evidence from those
+sites, and such questions are being asked—as we'll see). That same
+privilege cannot be granted pre-Clovis until after a site is found that
+meets these criteria, and when we have learned how to recognize sites
+and distinctive artifacts of that age.
+
+That the criteria worked at Folsom, at a time when archaeological
+methods were less refined than they are today, is also testimony that
+the criteria are not too rigid. The fact so many pre-Clovis sites since
+have not measured up speaks more of problems with the sites than with
+the criteria.
+
+Those problems notwithstanding, there have been payoffs along the way.
+In the course of evaluating new kinds of evidence, applying new methods
+and techniques, or trying on new ideas, the field as a whole advances. A
+prime example: archaeologists working in the Old Crow Basin of the Yukon
+Territory found mammoth bones that appeared to have been flaked,
+fractured, and polished in ways that seemed “unnatural.” Could they be
+artifacts? The specimens were sent off for radiocarbon dating, and the
+results were surprising: some dated to 60,000 years ago. A paralithic
+industry, William Irving called these ostensible artifacts, and he and
+others showed experimentally they could have been made by humans. Fair
+enough. But then Irving threw down the gauntlet, insisting only humans
+could make those fractures. It was “difficult to imagine,” he said,
+nature breaking bones the same way.²² Upping the ante, he announced some
+of those broken bones were in 350,000 year old deposits, thereby
+plunging North American prehistory deeper into the Pleistocene, and even
+before the appearance of anatomically modern humans.
+
+That did it. The gauntlet was picked up by a gaggle of researchers who
+soon proved nature could fracture bone in ways identical to the Old Crow
+specimens with embarrassing ease, whether by carnivores gnawing, large
+animals trampling, rivers freezing and thawing, or even volcanoes
+exploding.²³ In the end, it raised the red flag of equifinality: if
+humans and nature can break bones the same way, then one must find
+independent evidence to prove the bones were artifacts (say, finding
+them in an undeniable archaeological site context). That hasn't
+happened. Instead, the paralithic specimens have come from stream
+deposits that are chock full of naturally broken bones (a sort of “bony”
+Calico).
+
+Nowadays few believe the Old Crow mammoth bones were humanly modified or
+attest to an ancient human presence. But credit Old Crow with igniting
+an explosion of studies that have helped us understand how geological
+processes, animals, and humans may have altered the bones that we find
+in archaeological sites. Because of it, we know a great deal more about
+the mechanics of bone breakage, and along the way, we forever lost our
+innocent notion that just because something could have been broken by
+people is somehow proof it was. Like other knowledge forged in this
+dispute, lessons learned here have rippled outward to benefit the
+archaeology of other places and times.
+
+In the end, it comes down to this: no matter how vigorously claims for a
+pre-Clovis site are promoted, they will never prove compelling unless
+the site's artifacts, stratigraphy, and ages are unimpeachable. And
+preaching to the choir will not do: they are already believers. Instead,
+the site has to convince the skeptics. And it has to be utterly
+unimpeachable in all respects: one that can withstand withering
+criticism and meet the criteria with room to spare. Call it the Jackie
+Robinson Rule, after the first African American to break the color
+barrier in major league baseball (in 1949 with the then Brooklyn
+Dodgers), who not only had to be a superb ballplayer, which he was, but
+also an exemplary human being (he was that, too) who could rise above
+the inevitable attacks he would bear for the color of his skin. In the
+last decade or so, archaeology has had a few sites come close, and one
+that made it over the bar.
+
+STORMY SHELTER
+
+Meadowcroft Rockshelter is 50 kilometers west of Pittsburgh,
+Pennsylvania, on a steep slope 15 meters above Cross Creek, a tributary
+of the Ohio River. James Adovasio and an interdisciplinary team of
+geologists, paleontologists, palynologists, and others began work in
+this large (15 m wide, 6 m deep, and 13 m high), sandstone overhang in
+1973. Intensive excavations continued at Meadowcroft for the next five
+years, and by all accounts—including those of the site's harshest
+critics—the work was superb. Adovasio has a well-earned reputation for
+employing cutting-edge field techniques, and for being a meticulous,
+demanding, highly skilled excavator, even in the stratigraphically
+challenging setting of a rockshelter.²⁴
+
+As a result, the excavations—sometimes done by razor blade to follow the
+thinnest deposits—went slowly, but ultimately the team dug through 4.6
+meters of sediment, divisible into eleven natural strata (Figure 22), in
+which were artifacts, charcoal, and various features of human
+occupation, mostly from later (Woodland) occupations (marked by pottery
+sherds and early cultivated plants such as squash and corn). In the
+deeper levels of Stratum II was a rich record of Archaic
+hunter-gatherers, and beneath that, remains from Paleoindian times. The
+stratigraphic sequence was anchored by fifty-two radiocarbon dates,
+analyzed by several different laboratories, which ranged in age from
+31,400 BP to the Historic period; the Declaration of Independence was
+signed on the opposite side of Pennsylvania about the time the last
+hearth at Meadowcroft was snuffed out. All but four dates are in proper
+stratigraphic order, and the ones out of order are minor flip-flops in
+upper, Holocene-age levels. Steno would have been proud.
+
+[images]
+
+FIGURE 22.
+Excavations and soil sampling in the deep pit at the Meadowcroft
+Rockshelter, Pennsylvania, ca. 1976. The white tags on the wall mark
+individual stratigraphic layers. (Photograph courtesy of James
+Adovasio.)
+
+The pre-Clovis action is down in middle Stratum IIa, bracketed between
+11,300 and 12,800 BP and which has produced an unfluted lanceolate
+projectile point, and lower Stratum IIa, which has six radiocarbon dates
+from 12,800 to 16,175 BP, along with associated artifacts (Figure 23).
+These are genuine artifacts, too (about 700 altogether), and include a
+broken bone punch, flake debris from stone tool making, small blades
+(long and narrow pieces of stone), unifacial (flaked on one side only)
+and bifacial knives, and gravers (pointed tools possibly used for bone
+or wood working). The stone for these artifacts came from distant (or
+exotic) sources in New York, Ohio, West Virginia, and Pennsylvania.
+
+The average of the lower Stratum IIa dates associated with these
+artifacts indicates a human presence at Meadowcroft around 14,250 years
+BP. This is Adovasio's “conservative interpretation.” It may, of course,
+be earlier still. But, skeptics say, consider the implications: 14,250
+years ago the Laurentide ice sheet was within 150 kilometers of
+Meadowcroft. At that close range, they say, Meadowcroft ought to have
+experienced near-glacial climatic and ecological conditions: permafrost
+and tundra, perhaps, or shy of that, a boreal setting with cold-loving
+flora and fauna. Yet, there is no evidence for either. Present instead
+in the Pleistocene levels at Meadowcroft are bits of wood and charcoal
+from deciduous trees (oak, hickory, and walnut), along with the bones of
+white-tailed deer, southern flying squirrel, and passenger pigeon. These
+speak of a temperate environment, seemingly anomalous for this time and
+place. Where are the bones of extinct Pleistocene fauna like mastodon or
+sloth, or the remains of displaced arctic or boreal plant and animal
+taxa?
+
+[images]
+
+FIGURE 23.
+Miller lanceolate projectile point in situ in Stratum IIa at Meadowcroft
+Rockshelter, Pennsylvania (Photograph courtesy of James Adovasio)
+
+Certainly not in the lowest levels at Meadowcroft, but then hardly any
+organic remains come from there. Nearly 1 million animal bones were
+recovered from the entire shelter excavations, but only 278 bones came
+from the lower reaches of Stratum IIa, and of those, just 11 could be
+identified. Same story with the plants: roughly 1.4 million fragments of
+wood, charcoal, seeds, and fruits were recovered. The grand total from
+the glacial-age levels was a pitiful 11.9 grams.
+
+That's a hopelessly inadequate basis to judge whether the anomaly is
+real, or a freak of sampling that netted only deciduous elements from
+local, complex boreal-deciduous forests (Chapter 2). Adovasio's team
+sees no anomaly, attributing the absence of boreal species to
+Meadowcroft's low-lying (260 m above sea level) and south-facing aspect.
+Still, without an adequate sample the Meadowcroft paleoenvironmental
+record cannot well support any interpretation.
+
+Or perhaps, critics add, the radiocarbon dates are simply wrong, and
+Stratum IIa is actually post-glacial in age? Meadowcroft is, after all,
+in western Pennsylvania coal country, and skeptics—Vance Haynes foremost
+among them—wondered whether ancient coal infiltrating the deposits as
+dust or via groundwater contaminated the Meadowcroft radiocarbon samples
+and inflated their actual ages.
+
+Adovasio and colleagues counter that the closest coal to the rockshelter
+is 800 meters away, and neither coal particles nor coal-associated
+spores were found in microscope scans of the radiocarbon samples.
+Besides, if there had been contamination, it surely would have been
+noticed by one of the several radiocarbon laboratories that analyzed the
+Meadowcroft samples—unless, Adovasio snarled sarcastically, one assumes
+“a witless incompetence of astronomical…dimensions” on their part, which
+he does not.²⁵ Moreover, if the samples were contaminated, the fifty-two
+dates would not have been in near-perfect stratigraphic order.
+
+Maybe, Haynes responded, only the charcoal from lower Stratum IIa sat in
+contaminated groundwater and got proportionately older as a result.
+Adovasio calls such a scenario “contorted, even fanciful,” since the
+geologists on his team showed that groundwater never got closer than 10
+meters below the deepest occupation surface at Meadowcroft. More
+important, geoarchaeologist Paul Goldberg conducted an independent
+microscopic inspection of Stratum IIa sediments searching for traces of
+groundwater saturation or coal particles, but found no evidence of
+either.
+
+Haynes, dismissing the Goldberg study (though without explaining why),
+said the chronological dispute could neatly be resolved if only some
+short-lived seeds or nuts from lower Stratum IIa were dated, believing
+they would be less susceptible to contamination. Only, he complains, his
+“repeated pleas for radiocarbon dating of nuts and seeds…have gone
+unheeded.”²⁶
+
+Not exactly unheeded, more like emphatically rejected: “I knew,”
+Adovasio writes, “that by Haynes's tortured reasoning, if I took a seed
+from Stratum IIa at Meadowcroft and the date came back just as old as
+the 16,000-year-old date from charcoal from a hearth, Haynes would say
+it had to have been tainted by some soluble contaminant—yet to be
+identified, of course. And if it came out younger than my older [16,000
+BP] dates, Haynes would deem [those older] dates discredited, although
+it is well known that seeds can migrate between horizons quite
+easily.”²⁷ Adovasio figures he cannot win for losing. He might be right.
+
+Round and round it goes. So far, Meadowcroft has cheated pre-Clovis
+actuarial tables, with more written about it than any other potential
+early site, save Trenton itself, an analogy Adovasio himself has drawn.
+They are both, arguably, the most controversial sites of their times.
+And like Abbott, Adovasio has aggressively carried the flag for
+Meadowcroft, branding his critics “gnats,”²⁸ and producing to date more
+than 100 published articles and papers pushing the pre-Clovis antiquity
+of the site.
+
+But there's one thing Adovasio hasn't done: issue a comprehensive, final
+report on Meadowcroft. One is needed, as even he admits, in order to lay
+out all the data in one place, including detailed descriptions of
+individual artifacts, precise information on their position relative to
+radiocarbon samples, and the context of those samples relative to the
+stratigraphy. Then the archaeological community will have the chance to
+evaluate it in detail. Until that moment, Meadowcroft may remain in
+archaeological limbo, the exception that proves the rule that if a site
+is not convincingly older than 11,500 BP before a pre-Clovis presence is
+generally accepted, then it will not be any more convincing afterward.
+
+EARLY AMERICAN ART?
+
+The prehistoric rock art of the remote, arid caatinga (“thorn forest”)
+of northeastern Brazil is rich, colorful, expressive, and in spots,
+downright racy (some Brazilian customs, it appears, have prehistoric
+precursors). It was rock art that drew Niede Guidon to Toca do Boqueirao
+da Pedra Furada (“hole in the wall,” after an erosional cavity in a
+nearby cliff), a rockshelter that covers a roughly semicircular area 70
+meters wide and nearly 18 meters deep. Seeking to determine the age of
+the art, Guidon began excavations in 1978 that continued until bedrock
+was reached in the late 1980s. Her team dug through nearly 5 meters—and
+as many strata—of sediment filling the shelter, now dated by more than
+fifty radiocarbon ages, the earliest of which is greater than 50,000
+years old. Two periods of prehistoric occupation were recognized: the
+Pedra Furada phase, all materials predating 14,300 BP, and the younger
+Serra Talhada phase, which began around 10,400 BP and lasted through
+much of the Holocene.
+
+The Serra Talhada phase is marked by distinctive, well-made bifacial and
+unifacial stone tools fashioned, in many cases, of exotic chert. It has
+extensive and complicated rock art, abundant ocher (a natural paint),
+well-defined hearths, and easily detected living surfaces that preserved
+animal bones and plant remains. Serra Talhada is unequivocally
+archaeological.
+
+[images]
+
+FIGURE 24.
+A quartzite cobble “chopper” from one of the deepest levels at the Pedra
+Furada site, Brazil. (Photograph by David J. Meltzer.)
+
+Less so the older Pedra Furada phase, which lacks bone, wood, or other
+organic remains, save for charcoal. Nor does it have the rock art,
+unmistakable hearths, or the obvious living floors of the younger phase.
+Instead, proof of its human presence rests largely on about 600 crudely
+fashioned quartz and quartzite cobble choppers (Figure 24), scrapers,
+and flake cutting tools, along with clusters of rock identified as
+hearths.
+
+Such wholesale differences between the two phases naturally make
+skeptics wonder whether the older material is truly archaeological, and
+not just rocks flaked and arranged by nature. Guidon dismissed such
+carping, however, and for seemingly good reason: a 1993 doctoral thesis
+by Fabio Parenti showed that the Pleistocene-age specimens possessed
+flaking patterns diagnostic of human manufacture (these included the
+removal of more than three flakes, edge angles less than 90°, and a
+“logic” to the flake removal pattern). No small triumph that, and even
+Nature, a journal that rarely notices doctoral theses, noticed this one.
+
+Of course, we know the pre-Clovis dispute is littered with sites that
+testify to nature's uncanny ability to mimic primitive human artifacts,
+and trap even the expert (think Louis Leakey). Pedra Furada might be
+such a setting. It is nestled beneath a sandstone cliff more than 100
+meters high (see Plate 5). Atop the cliff is a 20-meter-thick rock layer
+of densely packed quartz and quartzite pebbles and cobbles: a
+high-energy gravel bar, frozen in time. At both the east and west ends
+of the shelter are water-stained chutes down which rocks, dislodged from
+the cobble layer by weathering and erosion, plummeted to the shelter
+floor, occasionally swept along by “violent torrents of water” (Guidon's
+words²⁹). At the base of the eastern chute there is a large debris cone
+of shattered quartz and quartzite pieces, flaked by the impact of their
+100-meter free-fall; beneath the western chute are potholes scoured from
+the bedrock, one upwards of 3 meters in diameter, testimony to the
+erosive pounding of cascading water and debris. Filling the shelter are
+coarse sediments, pebbles, and hand-to head-sized cobbles, coming from
+directly overhead. Not surprisingly, the pebbles and cobbles are flaked
+to varying degrees. Clearly, nature's been dropping rocks into Pedra
+Furada over tens of thousands of years. But were people?
+
+As Nature said of Pedra Furada, seeing may be believing. And believing
+“meetings of specialists on site, and formal debates, should take place
+regularly if we are to establish an agreed basis for evaluating
+evidence,”³⁰ Guidon generously extended invitations to proponents and
+critics to visit Pedra Furada in December 1993. We accepted. The meeting
+was held in Sao Raimundo Nonato, a dot on the map in the northeastern
+Brazilian state of Piaui and the gateway to a beautiful ecological and
+archaeological preserve, of which Pedra Furada is the centerpiece. It
+was a landmark meeting: stimulating, intense, enlightening, and
+sometimes downright uncomfortable, simultaneously and in several
+languages.
+
+James Adovasio, Tom Dillehay, and I were among the conferees (Figure
+25), and we raised questions (later published), about the site
+stratigraphy, its supposed hearths, and the 600 Pedra Furada-phase
+artifacts.³¹ We were especially concerned about the artifacts. They had
+been identified as such during excavations, presumably because they
+looked the part, and then afterward were sent to Parenti for analysis to
+see if they could be artifacts. Yet, these were specimens already
+suspected to be of human manufacture. What was not at all apparent was
+how much these specimens, plucked from a dense deposit of naturally
+broken rocks, differed from those left behind.
+
+No matter. The supposed artifacts certainly looked the part, though were
+decidedly retro: more akin to stone tools hundreds of thousands of years
+old than to what was being used around the globe 50,000 years ago. Looks
+aren't everything, of course, and their crudeness might easily be
+explained by the indifference of those who did the flaking, or the mean
+quality of the raw material. Some of prehistory's most spectacularly
+ugly stone work was executed in quartz and quartzite.
+
+[images]
+
+FIGURE 25.
+James Adovasio (left) and Tom Dillehay (to Adovasio's right) examining
+the witness block left unexcavated at the Pedra Furada site, Brazil,
+during the international site visit in December 1993. Naturally broken
+cobbles are visible throughout the witness block. (Photograph by David
+J. Meltzer.)
+
+Even so, many bore a worrisome resemblance to the naturally flaked
+cobbles that today litter the surface beneath the chutes at the site.
+Just how guilty nature might be comes clear on a visit to Pedra Furada,
+as you crane the neck upward to catch a glimpse of the conglomerate
+layer high overhead. How long would it take for a dislodged cobble to
+make the Pedra Furada plunge, and how fast would it be traveling when it
+smashed onto the rock-strewn surface below? The questions aren't
+entirely academic: one instinctively steps back from the impact zone
+while calculating the physics of free-falling rocks. From that height,
+it would take a cobble just 4.51 seconds to hit bottom, impacting at a
+velocity of roughly 160 kilometers per hour (100 miles per hour). Give
+that rock a mass of 1-2 kilograms, and there's considerable force
+involved, far more than a person fashioning a stone tool normally
+musters. Cobbles would be flaked when they first hit, when they bounced
+into other rocks after impact, and again when they were struck by
+later-falling stones. Could such natural impacts produce the patterns
+seen on the Pedra Furada specimens?
+
+The conference hall in Sao Raimundo Nonato grew warm on this issue, even
+before an electrical failure knocked out the ceiling fans. A deep
+division emerged on the question of a Pleistocene human presence at
+Pedra Furada. The divide was partly, though not entirely, along national
+lines, but for reasons that have little to do with politics, and much to
+do with paradigms: the question of antiquity looks very different
+depending on the intellectual tradition from which one emerges. North
+Americans tend to be more skeptical than most, but then we brought
+Calico into the debate and have much for which to atone.
+
+For us, it's the usual rub: it is not enough to show a specimen could be
+cultural, one must also demonstrate it could not be natural. The Pedra
+Furada team was ready for that. Parenti had gathered 2,000 cobbles from
+the modern debris cones. All were obviously flaked by nature, fell in
+the last couple of decades, and were well above the archaeological
+levels at the site. He was pleased to report none exhibited the flake
+scars or patterns observed in the 600 specimens from the Pleistocene
+levels. Case closed?
+
+Not yet. The issue is one of probability. As stone tool expert Jacques
+Pelegrin admitted, nature can flake stones in ways that mimic the Pedra
+Furada specimens, though he thought the odds slim, less than 1 in 100,
+he supposed. For the sake of discussion, make them even more remote: 1
+in 1,000, or 1 in 10,000. Yet, no matter how rare the chances, given
+sufficient time and raw material (Pedra Furada had plenty of both),
+nature can magnify even the slimmest odds to the point where such
+geofacts occur in detectable frequencies. The shelter first opened more
+than 50,000 years ago, and has been bombarded by cobbles ever since: by
+conservative estimate, upwards of 10 million cobbles have taken the
+100-meter plunge. That's a potential yield, even with odds as slim as 1
+in 10,000, of roughly 1,000 geofacts. Nature, it appears, had ample
+opportunity to produce the 600 “artifacts” that occurred at the site—far
+better odds, in fact, than waiting for a monkey to type Shakespeare (the
+analogy Pedra Furada's defenders invoke).
+
+Guidon fired back, fiercely so, denouncing our assessment as
+“worthless,” pointing out several errors of fact in our statements about
+the site and their excavation methods (errors for which we were guilty),
+but otherwise largely ignoring the critical question of whether those
+were truly artifacts, except to say that “only one lithic flaked by man
+is enough to demonstrate his presence.”³² Alas, were it only so easy in
+a geological context such as this.
+
+Work has continued intermittently at Pedra Furada, and recently included
+one analytical surprise: thermoluminescence was used to date forty
+burned quartz pebbles thought to come from Pleistocene hearths. These
+results failed to confirm that the burning resulted from human activity.
+Moreover, the TL ages ranged so widely (to nearly 162,000 years ago)
+they raised the possibility the deposits had been disturbed and that the
+stratigraphy was “much more complex than suspected.”³³ One can only
+admire Guidon and colleagues’ candor. Clearly, more needs to be known of
+Pedra Furada, its artifacts/geofacts, features, and stratigraphy. On
+these, its pre-Clovis status will ultimately stand or fall.
+
+BANKING ON CHINCHIHUAPI CREEK
+
+Monte Verde is on the banks of Chinchihuapi Creek in southern Chile, 50
+kilometers up the Rio Maullin from the Pacific Ocean. It was found when
+local woodsmen, cutting back the creek bank to widen an oxcart trail,
+dislodged some buried wood, mastodon bone, and a stone artifact, all of
+which found their way to American archaeologist Tom Dillehay, then
+teaching at the Universidad Austral de Chile (Valdivia). From 1977 to
+1985, Dillehay and an international, interdisciplinary team of nearly
+eighty collaborators excavated and analyzed the material from the site.
+
+Monte Verde first leapt into archaeological consciousness one afternoon
+in the spring of 1989 when a couple hundred archaeologists assembled at
+the University of Maine for several days of wrangling over the origin
+and antiquity of the first Americans. It was a tough crowd. The evening
+before, it had sat quietly and largely unimpressed by a presentation on
+Pedra Furada. But ten minutes into Dillehay's talk on Monte Verde, the
+fellow sitting next to me (then, a hard-nosed skeptic—now, ironically,
+the purveyor of his own pre-Clovis site) whistled softly in astonishment
+and then said, to no one in particular, “What planet is this stuff
+from?” I was wondering that myself.
+
+The images Dillehay was showing of the well-preserved remains at Monte
+Verde—wooden artifacts and house planks, fruits, berries, seeds, leaves,
+and stems, as well as marine algae, crayfish, chunks of animal hide, and
+what appeared to be several human coprolites found in three small
+pits—were unlike anything most of us, who long ago had learned to be
+used to stone tools and grateful for occasional bits of bone, had ever
+seen. The site's unusual preservation resulted from a geological fluke.
+Very soon after the people who camped on the sandy banks of Chinchihuapi
+Creek departed, the creek was dammed, water backed up over the site, and
+a water-saturated, culturally sterile, grass-matted peat deposit formed
+atop the 600 m² area they once occupied—what Dillehay calls the MVII
+surface (there's a much older MVI surface, but let's put that aside for
+now). In that oxygen-starved setting, the normal decay processes
+stalled, preserving that astonishing array of organic materials.
+
+Excavating such remains is extremely challenging. They are saturated
+with water, extremely soft, and easily harmed; worse, once exposed to
+the air they rapidly dry, crack, and crumble to dust. In order to
+minimize the damage—especially of fragile wood and animal
+hide—Dillehay's team had to excavate slowly and without the usual metal
+tools of the trade, using instead fine-haired brushes, small air pumps,
+even their fingers. They had to minimize the exposure of these remains,
+then move quickly to keep them saturated for safe transport to the
+laboratory where, after 6-8 months in carefully controlled water and
+chemical baths, the items could be permanently stabilized.
+
+Those painstaking efforts were well worth it, for they revealed a site
+rich in plant remains: parts of some seventy-five species littered the
+MVII surface, many more than occur in a comparably sized natural
+deposit, which Dillehay knew because he had dug where the site was, and
+where it wasn't: he ventured 2 kilometers up and down Chinchihuapi Creek
+to examine naturally deposited, non-artifact bearing sediments. That
+preemptive shoveling helped muffle criticism that the site had formed
+naturally by highlighting differences between natural deposits and the
+archaeological ones.³⁴
+
+About a third of the plants at Monte Verde were charred from cooking; a
+quarter were exotic, imported to the site from the Pacific coast some 30
+kilometers distant (including seaweed, the residue of which adhered to
+many tools), from high Andean settings, or from arid grasslands up to
+600 kilometers away. Coincidence or not, more than half the plants are
+still used by the native Mapuche as food, drink, medicine, or
+construction materials. The archaeological list includes charred and
+uncharred skins of wild potato, along with burned and unburned juncus
+and scirpus seeds that were found mashed into the cracks of wooden
+basins. Among the most unusual of the MVII plant remains were a
+half-dozen plugs of chewed boldo leaves mixed with seaweed, forming a
+medicinal tea still used by the Mapuche to relieve stomach ills, colds,
+and congestion.
+
+Prehistoric chaw, we'd call that, and the plugs were found lying just
+outside a wishbone-shaped foundation (roughly 3.9 m by 3 m) of sand and
+gravel that appeared to be glued together by animal fat, and lined with
+vertical wood stubs and scraps of animal skin, the remnants of a
+hide-draped frame hut that once stood there. Inside the structure were
+three small hearths containing a variety of exotic plants and stone
+artifacts including quartz crystals. Fronting the structure were
+hearths; a small cache of salt brought from the coast; a litter of
+leaves and seeds; scraps of mastodon meat and bones; artifacts of stone,
+wood, and ivory; and a large (30 x 40 cm) cut and scraped block of red
+ocher. Monte Verdeans worked, ate, and took cures here.
+
+They lived about 35 meters away in a cluster of roughly rectangular
+huts, the wooden foundation timbers of which survived (Figure 26). The
+structure was about 20 meters long, arranged like a row house, and
+framed by log planks anchored by wooden stakes, which supported walls of
+wooden poles that had bits of animal skin still clinging to them,
+possibly the remains of mastodon or paleo-llama hide that once draped
+the structure. String fashioned of juncus reed was knotted around many
+of the wooden stakes, likely tent pegs for securing the hide cover.
+
+The hut floors were high in nitrogen and phosphate, a sure chemical sign
+of human waste, and littered with ash, grit, and flecks of animal skin.
+The huts surrounded two large communal hearths, and two dozen smaller
+ones, which were clay lined, contained ash and charcoal, and often had
+been heavily scorched. In the muddy sand and clay floor alongside one of
+the hearths was a child's footprint (one of three found) (Figure 27). In
+this area, too, were traces of meals: more plant parts, as well as the
+bones, tusks, teeth, and fractured ribs of mastodon; paleo-llama bones;
+and the remains of fish, shellfish, birds, and even seaweed, coastal
+algae, and egg shells.
+
+Most of the MVII artifacts are wooden (digging sticks, mortars, lances),
+while others are bone and ivory, and still others stone (some 715
+specimens), including bola stones, cores, a polished basalt perforator,
+grinding slabs, knives, unifacial scrapers, and spear points (Figure
+28). Not all the stone pieces, even the majority, are indisputably
+artifacts. Many are unmodified stones from the stream bed or distant
+coastal beaches. But because they were found amid sandy sediments (this
+was no Pedra Furada) and showed, as Michael Collins demonstrated, an
+unnatural sphericity, they are accorded human authorship. Most of the
+stone for the artifacts was locally derived, but over forty were made of
+material from distant sources. And from the coast came bitumen, a
+natural tar used to bind several of the stone tools to wooden and bone
+handles.
+
+[images]
+
+FIGURE 26.
+Timbers that served as the base of the hut remains in Area D of the
+Monte Verde site, Chile. (Photograph courtesy of Tom D. Dillehay.)
+
+[images]
+
+FIGURE 27.
+One of the three human footprints left in the muddy sand and clay in
+Area D of the Monte Verde site. By its size (13 cm long), the print was
+apparently left by a young person. (Photograph courtesy of Tom D.
+Dillehay.)
+
+[images]
+
+FIGURE 28.
+Two of the Monte Verde lanceolate projectile points. (Photograph by
+David J. Meltzer.)
+
+The assemblage from Monte Verde is extraordinary, all the more so
+because of its age. The preservation of organic material made it
+possible to obtain radiocarbon dates on wood, charcoal, tusk, and bone.
+The radiocarbon analyses were conducted by several different
+laboratories, a handy cross-check of the reliability of the results, and
+produced ages on the MVII surface and its artifacts that ranged from
+11,790 ± 200 to 13,565 ± 250 BP. The average was put at 12,500 BP.
+
+That's certainly old enough to establish Monte Verde's pre-Clovis
+credentials, but making matters more intriguing, Dillehay's excavations
+in a different area of the site encountered a couple dozen more stone
+specimens, along with three small, shallow, circular hearth-like basins,
+each containing charcoal specks that dated to more than 33,000 BP. These
+MVI deposits lack the spectacular organic preservation typical of the
+MVII occupation, and though some of the MVI artifacts are unequivocal,
+no one, least of all Dillehay, was quite sure what to make of this much
+older occupation, since it has not been fully excavated. Understandably,
+he concentrated his efforts and attention on MVII—as I shall here.
+
+FROM RESISTANCE TO RESOLUTION
+
+Monte Verde, like all pre-Clovis contenders, got no free ride: early on,
+it even failed to make Morlan's 1988 list of the five “best pre-Clovis
+sites,” wary as he was that the wooden timbers were naturally fallen
+trees and the stakes merely branches. It took Dillehay more than a
+decade of postexcavation analysis to fully compile the evidence, during
+which time he published a series of papers and—in 1989—the first of two
+books on the site. The volume presented the results of the
+paleoenvironmental and geological studies, and descriptions of the
+plant, animal, and other organic remains. Yet, it said very little about
+the site's artifacts and architecture. This was deliberate. Dillehay
+wanted to prove Monte Verde was an archaeological site by showing nature
+could not have deposited plant and animal remains in that variety and
+amount. It was a novel gambit, and one Dillehay admitted imposed “a
+burden on the reader to understand and accept results not yet
+presented.”³⁵ He was right, though the effort almost paid off. Almost.
+
+But the burden of proof, as always, had to wait on the archaeological
+testimony. Skeptics were willing to grant Monte Verde's
+non-archaeological remains were unusual, but was their “pervasive
+strangeness” (as skeptic Dena Dincauze put it) necessarily
+archaeological?³⁶ That was something only the artifacts—slated for
+description in the second volume—could resolve. Some were unwilling to
+wait. Thomas Lynch, who for many years had carefully patrolled the
+pre-Clovis border in South America, was not giving Monte Verde a pass
+based on its plant and animal remains, or its promise of artifacts.
+Indeed, what little he had seen of MVII's artifacts and features failed
+to convince him that MVII was an archaeological surface. The few
+artifacts that he deemed genuine might, he suspected, come from later
+(Archaic) occupations in the area, and even the biface associated with
+mastodon bones still dated to “essentially Clovis time.” Lynch dismissed
+the older MVI evidence outright: he doubted its specimens were
+artifacts, and thought it highly unlikely humans would camp twice in
+this “wet and boggy” creek bottom 20,000 years apart (in point of fact,
+MVI sits on the high terrace over a lagoon, not on the floor of the
+creek).³⁷
+
+Dillehay and Collins were quick to defend the site: Lynch was biased,
+ignorant of the Monte Verde artifacts, and misunderstood the site's
+geological and archaeological context. This was, they argued, an ideal
+place to camp, and the closest Archaic site was at least half a
+kilometer away, precluding any mixing of younger artifacts. Lynch didn't
+back down. The accusation of bias was “baseless,” and more to the point,
+he dismissed their rebuttal as disingenuous. After all, how could he
+(Lynch) be accused of ignorance or misunderstanding if the evidence
+itself remained “unpublished or inadequately illustrated”? (To which
+Dillehay asks, that being so, how could Lynch be so stringent in his
+judgment?³⁸). And to Dillehay's lament that only two archaeologists had
+responded to his invitation to visit Monte Verde during the excavations
+and see for themselves, Lynch growled: “If so many of us stayed away, it
+was in good part because we did not feel free to go and make our own
+observations.”³⁹
+
+Clearly, much was riding on the publication of the second Monte Verde
+volume, and what it would say of the site's artifacts, archaeological
+features, and architecture. When it finally appeared in early 1997,
+written by Dillehay and a team of thirty-two co-authors and weighing in
+at a whopping 1,000 pages, reviewers were awestruck. Nature hailed it as
+“one of the most persuasive and impressive interdisciplinary volumes of
+any kind of archaeology for a generation.”⁴⁰ That wasn't hyperbole: the
+volume bristled with meticulous details on everything from mastodon
+bones and wooden lances to eggshell fragments and finely made strings;
+it examined and analyzed evidence that could be seen with the naked eye,
+and that which could not, such as the sediment chemistry; residues
+adhering to stone, bone, and wooden artifacts; and the microscopic bits
+of animal tissue. The effort was analytical overkill. Yet, overkill was
+necessary, given the great skepticism facing this (or any) potentially
+early site and the doubts expressed about Monte Verde's antiquity by
+Lynch and others since the site's discovery. Jackie Robinson could not
+be baseball player of merely average skill.
+
+But would the second volume be enough to bring about consensus and—if
+judged positively—establish a pre-Clovis presence in the Americas? A few
+years before, following the appearance of the first Monte Verde volume,
+I had put that question to Vance Haynes, the dean of the skeptics: “No,”
+he said.
+
+“But why not?”
+
+“Have you ever visited a site,” he replied, “that looked just the way
+you thought it would, based on what you'd read of it beforehand?”
+
+I had to admit I hadn't. But was a site visit really necessary? Much has
+changed since the 1920s visit to Folsom. Nowadays, professional
+competence can usually be assumed, and archaeological fieldwork follows
+well-defined protocols. More significant, much of the crucial evidence
+emerges only in postexcavation laboratory analyses of radiocarbon
+samples, sediment chemistry, artifacts, the isotopic composition of
+organic remains, and the detailed spatial analyses of the artifact
+distribution maps. Fortunately, those results can be evaluated without
+having to look over the shoulders of those doing the analyses, and thank
+goodness for that: who has time for a six-month watch in a radiocarbon
+laboratory to insure dating samples are properly analyzed? A site visit
+might lead one to reject a claim of great antiquity, but cannot
+demonstrate one. Folsom was the first, and almost assuredly the last
+site in which a visit fully and without ambiguity resolved a claim of
+great antiquity. In the 1990s, a site visit could reasonably be viewed
+as an anachronism, even irrelevant.
+
+So why bother? One good reason: as Haynes said, what one reads of a site
+and what one sees are often very different. Unlike researchers in the
+experimental sciences, archaeologists cannot replicate a critical study
+in our own labs, nor fully recreate in words and pictures a site's
+setting and surroundings, the complexity of the sediments and
+stratigraphy, the artifacts in the ground (if you arrive in time), a
+measure of how difficult the sediment was to excavate, how easy it might
+have been to miss potentially mixed deposits, or what the back dirt
+piles look like (one sometimes learns an embarrassing amount about an
+excavation by looking through the backdirt at what was missed).
+
+“The next book's important,” Haynes said, “but one day on the site of
+Monte Verde would be worth all the words they could write.”
+Overstatement, perhaps, but no matter.
+
+Dillehay's response? “Fine. Let's go look at it.”
+
+And so Dillehay, Haynes, and I began organizing a visit to Monte Verde,
+which took place in January 1997. A group of pre-Clovis proponents and
+skeptics—including Dincauze and Haynes—armed with the proof pages to the
+forthcoming second Monte Verde volume, traveled to the site via the
+University of Kentucky (where Dillehay was then teaching) and the
+Universidad Austral de Chile (Valdivia), both of which housed the
+artifact collections from Monte Verde. Over a week-long, nearly
+continuous conversation and debate reaching from North to far South
+America, the Monte Verde evidence—detailed in the pages of Dillehay's
+book; visible in the specimens laid out on tables in Lexington and
+Valdivia; and seen in the geology, setting, and stratigraphy of the site
+itself—was thoroughly vetted.⁴¹
+
+The trip to Monte Verde was extremely interesting, educational, and
+mostly enjoyable, though it also had its share of tense and downright
+unpleasant moments. No one ever promised breaking the Clovis barrier was
+going to be easy. Awkward as it occasionally was, that was a sure sign
+the visit was doing what it was supposed to do: allow a careful
+inspection of the evidence and a frank exchange of views. The one thing
+the Monte Verde trip was not was a counterpart to the 1927 Folsom site
+visit, but then it wasn't intended to be. The excavations were
+long-since completed, and much of the site was gone. There were no
+artifacts to be witnessed in place.
+
+On the final evening of the trip at a quiet bar in the seaside town of
+Puerto Montt, Chile, we had a long and sometimes rancorous discussion
+that finally culminated in a consensus: all agreed Monte Verde was
+archaeological and 12,500 years old (Figure 29). Everyone around the
+table knew exactly what that meant.
+
+[images]
+
+FIGURE 29.
+The calm before the storm: at Monte Verde late in the afternoon, January
+1997, as the site visit was wrapping up (the author is on the far left).
+(Photograph courtesy of Alex Barker.)
+
+A couple months after our return, and after we'd had a chance to mull
+what had been seen and said, Donald Grayson and I drafted a summary
+report of our visit and assessment that was circulated for comment and
+signature by the participants—if they accepted its conclusions. Everyone
+had a chance to examine and reassess the Monte Verde case in the cold
+light of day and well after any bruised egos or perceived twisted arms
+had fully healed. To be sure, some of us had lingering questions about
+the character of the Monte Verde artifact assemblages and their
+interpretation (for example, does the MVII occupation represent, as
+Dillehay suspects, a nearly year-round encampment?), but that did not
+change our central conclusion about the site's age and archaeological
+status. Everyone signed.⁴⁷
+
+The statement was published in American Antiquity, the premier
+professional journal of American archaeology.⁴⁸ In it, we urged others
+to judge Monte Verde for themselves based on their own evaluation of the
+evidence in Dillehay's two volumes on the site. Many did just that, and
+the fact that a few (but only a few) reached different conclusions than
+we did is testimony our say-so did not carry the weight that Lyell's or
+Kidder's had 140 and 70 years earlier.
+
+So, too, is the fact that Haynes has since had second thoughts, claiming
+the site has only six unequivocal artifacts; those six, naturally, are
+the ones that most resemble the North American Paleoindian projectile
+points with which he (and I, for that matter) is most familiar.⁴⁹
+Frankly, I think that's a red herring, ignoring as it does the wooden
+artifacts, modified bones, ivory pieces, chunks of mastodon meat, the
+strings tied in overhand knots around the wooden stakes, the exotic
+plant remains, and so on. We can agree to disagree about those other
+remains, but it doesn't matter: even with just six artifacts, we are
+still left with an archaeological site that is 12,500 years old.
+Haynes's second thoughts have not reversed the archaeological tide of
+opinion on Monte Verde.
+
+A VISIT TO MONTE VERDE
+
+We came, we saw, we were convinced. And a few weeks after our return
+from Monte Verde in January 1997, the Dallas Museum of Natural History
+and the National Geographic Society (which co-sponsored our trip)
+organized a press conference to announce our conclusion that Tom
+Dillehay's work at Monte Verde had finally broken the Clovis barrier. It
+was a moment the New York Times ranked with “aviation's breaking of the
+sound barrier.”⁴² Heady stuff this—but The Right Stuff? I wasn't
+convinced. We'd long been open to the possibility of pre-Clovis; most
+thought the sound barrier unbreakable. However, part of the comparison
+rang true: as Chuck Yeager had discovered fifty years before, when
+approaching the sound barrier, a plane is badly buffeted. Now that I'd
+experienced.
+
+The visit to Monte Verde began in calm skies, when from across the
+United States and distant points in South America participants assembled
+at the University of Kentucky. That first evening Dillehay briefed us on
+South America late Pleistocene archaeology. To those of us who work in
+North America, it was an eye-opener: an archaeology with a scant
+bifacial technology, few formal tools, little in the way of “big-game”
+kills, and yet a gaggle of sites as old as Clovis—and a few possibly
+even older.
+
+The next morning we assembled in Dillehay's lab where many of Monte
+Verde's stone, bone, ivory, wood, and soft tissue specimens were neatly
+laid out. Dillehay and his colleagues explained their analyses and
+results, but the talks were no match for seeing Pleistocene string tied
+in overhand knots, a wooden lance with mastodon flesh adhering to it, or
+a log mortar with wild potato skins pounded into it (dinner was meat and
+potatoes?). There was give and take: in a room full of pros, there was
+no avoiding it—or so I thought. Deep into what I judged a riveting,
+statistics-studded debate over whether some rounded stones were
+artifacts, I glanced over at the National Geographic writer traveling
+with us. He was dozing. Maybe it wasn't so riveting.
+
+After several long plane rides, we repeated the process in Valdivia,
+Chile, with the Monte Verde collections housed there: more stunning
+specimens, more exchanges. Finally, to the site itself. It was a
+spectacular austral summer day. We examined the stratigraphy in the
+walls of Chinchihuapi Creek, studied the different MVII occupation
+areas, and visited off-site spots where Dillehay had tested the natural
+deposits. We peered into a trench in the MVI area, and wondered if
+people had also been on this spot 33,000 years ago. But no one wanted to
+go there just yet: we stayed focused on MVII. Vance Haynes, as is his
+custom, collected charcoal samples; Jim Adovasio, as is his custom, wove
+string from juncus reed.
+
+Since it was the last day of the trip and participants would scatter the
+next morning, we headed back to Puerto Montt looking for a restaurant
+where we could chew over dinner and all we'd seen. None were open that
+early, so we headed instead for a local bar: La Caverna. I had a sinking
+feeling. There'd been tense moments already. Dillehay was dealing as
+best he could with a nonstop barrage of questions from a dozen of his
+peers about a project to which he'd devoted twenty years of his
+professional life. None of us had ever experienced that kind of intense
+grilling. I thought it best if everyone was feeling satisfied from a
+meal before turning to what I suspected would be a hard conversation. It
+wasn't to be. Drinks were ordered, and the talk began.
+
+And it was tough talk, lasting over two hours. We probed Monte Verde for
+flaws, and hashed and rehashed alternative explanations. Maybe the dates
+were contaminated by local volcanic eruptions,⁴³ perhaps those wooden
+“lances” were natural, where exactly were the artifacts relative to the
+dated remains, were the deposits at all mixed, and on, and on. Dillehay,
+who'd spent years thinking about such matters and was unquestionably
+more familiar with the evidence than we ever could be, grew increasingly
+short-tempered, even insulting (which is not his personality). Tempers
+flared, and at a moment when the words grew especially heated, Alex
+Barker, the Dallas Museum's representative on the trip, gave an
+ear-piercing whistle. Stunned silence. The museum, he announced, had
+sponsored the trip with the proviso we'd seek some degree of closure
+over Monte Verde. He didn't want to have to report that we only learned
+“archaeologists don't play well together.” The tension broke, the
+discussion continued. Finally, Barker called for a vote on whether we
+believed Monte Verde was a pre-Clovis site. It was a theatrical ploy,
+but I was not entirely surprised by how it turned out—though I was
+intensely curious. Nor was I the only one. As I was furtively looking
+around the table to see whose hands were up, so was everyone else. But
+all hands were raised: everyone agreed MVII was archaeological and
+12,500 years old.
+
+Barker called for a toast, and then a dreadful slip of the tongue:
+Dennis Stanford, perhaps looking at Jim Adovasio sitting across the
+table, raised his glass and inadvertently toasted Meadowcroft, not Monte
+Verde (I knew we should have had food first). Stanford recovered as best
+as he could, saying we should all do this next year at Meadowcroft. Too
+late. Haynes innocently chimed in, suggesting that if Adovasio would
+date just one more seed from the deepest levels at Meadowcroft, he might
+believe in the antiquity of the site.
+
+By his own admission, Adovasio lost it: “I burst out in derisive
+laughter,” and he then spat that “never would I accede to any request
+[Haynes] made for further testing of the Meadowcroft site because if I
+did he would simply ask for something else in a never-ending spiral of
+problems…. Meadowcroft's antiquity was settled as far as most other
+professionals and I were concerned, and that if any remaining skeptics
+did not believe it, I could not care less. I then stormed out of the
+bar.”⁴⁴
+
+It was painful. Haynes looked like he'd been slapped. A pall settled
+over the room. We'd been so close to getting through without an
+explosion. The National Geographic writer sat intently witnessing it
+all. I wondered if he was trying to memorize everyone's lines. I headed
+for the restroom to wash my hands (it seemed the right thing to do). The
+restaurant was now open, so we drifted out of La Caverna, much more
+subdued than we'd been just five minutes earlier. The moment of triumph
+had passed.
+
+Ironically, Adovasio and Haynes were sharing a hotel room, and I hoped
+they would have the chance to smooth over matters (I can't help it: both
+are good friends of mine). But Adovasio got in late that night, and
+Haynes left early the next morning. He was not flying back to the States
+with us, but was headed to a conference in Cairo. He was gone before any
+of us saw him.
+
+In the weeks after we returned, Donald Grayson and I circulated to our
+colleagues drafts of the statement for American Antiquity; a press
+conference was held; we began to ponder the full implications of Monte
+Verde. There was much to ponder, but the one thing I thought was beyond
+pondering was the site's antiquity and archaeological status. I was
+wrong.
+
+After our American Antiquity statement appeared, archaeologist Stuart
+Fiedel took our advice and examined Dillehay's Monte Verde volume. He
+found errors, which mostly boiled down to discrepancies in artifact
+location, numbers, and mapping. I was not surprised: errors are
+inevitable in complex, multiyear, multidisciplinary research programs
+and the massive books they yield. All of us who do such projects live
+with that unfortunate reality, however much we attempt to prevent errors
+from happening. But were the errors in the Monte Verde volume trivial or
+profound? It was hard to say, and Fiedel's critique hard to swallow
+since he gave all his criticisms equal weight, and blanketed them in a
+patina of conspiratorial mistrust and accusations, layered with snide
+remarks. He did his critique no favors.
+
+Worse, instead of sending it to Dillehay prior to publication—it's
+professional courtesy, and would allow Dillehay to correct errors of
+fact—then submitting the piece to a rigorously peer-reviewed academic
+journal (the usual procedure), Fiedel instead sent it to Discovering
+Archaeology, a “popular” archaeology magazine (but not too popular: it's
+now defunct). Dillehay learned ofFiedel's attack only after returning
+from a long season of fieldwork. Discovering Archaeology's editor told
+him Fiedel's piece would be published, and if Dillehay wanted to
+respond, he had two weeks: the magazine was being hurried for
+distribution at the Clovis and Beyond conference that fall of 1999. As
+David Hurst Thomas observes, it looked like an ambush.⁴⁵ To those of us
+also asked to comment under this looming deadline, it certainly felt
+like an ambush. Fiedel claims this was not his doing: the editor assured
+him the piece would not be published if Dillehay chose not to respond.
+Right. The editor—knowing full well controversy sells magazines—failed
+to mention that option to Dillehay, who responded as best he could in
+the time allowed, then later produced a much lengthier reply for posting
+on the Web.⁴⁶
+
+So was this much ado about nothing? Fiedel's critique focused on the
+“unambiguous” artifacts (projectile points, mostly): Where were they
+found? How were they associated with dated samples? Why were there no
+photographs of them in place, as at Folsom? Dillehay and colleagues
+clarified their provenience and provided photographs. I could only shake
+my head. Could a picture of a point in place make that much difference?
+Adovasio had published pictures of a projectile point in pre-Clovis age
+levels at Meadowcroft (see Figure 23 in this book), but where was the
+groundswell of support for that site's claims to great antiquity?
+
+The Clovis and Beyond conference buzzed with talk of the Monte Verde
+critique, but it was clear what the 1,200 people in the hall listening
+to Dillehay's response to Fiedel thought of the whole matter: when he
+finished speaking, Dillehay was given a long, standing ovation. I was in
+the back of the hall with one of the conference organizers when he was
+approached by a furious Fiedel asking for “ten minutes on stage to
+respond to this crap.” “No, Stuart,” came the reply, “you can write a
+letter to the editor of Discovering Archaeology.”
+
+And, indeed, the tide keeps rolling in for this site: in early 2008
+Dillehay and colleagues reported further analysis of hearth sediment
+from Monte Verde yielded half a dozen previously unrecorded species of
+algae and seaweed (the latter still adhering to a stone tool), and
+radiocarbon dates neatly affirming the site's great age. These new
+results, as long-time skeptic Daniel Sandweiss graciously admitted,
+“remove any lingering doubts about the antiquity of human presence at
+that site.”⁵⁰ And as Dillehay observed, here was further testimony to
+the importance of coastal resources in the diet and health of early
+Americans.
+
+Although Monte Verde is just a thousand years older than Clovis, what a
+difference a millennium makes: to have reached southern South America by
+12,500 years ago, the first Americans must have left northeast Asia and
+crossed Beringia—16,000 kilometers distant—much earlier. But when, from
+where, and how? And why is the oldest acceptable site in the Americas
+about as far from Beringia as one can reach, with no sites in North
+America demonstrably as old or older? Monte Verde has forced a sea
+change in our thinking of the possible entry route(s) into the Americas,
+the timing and mode of that entry, how and where we look for ancient
+archaeological sites, and just who the first Americans were and from
+whence they came.
+
+COASTING TO AMERICA
+
+Current geological evidence has the Laurentide and Cordilleran
+obstructing the interior route into North America from before about
+28,000 until sometime after 12,000 years ago (Chapter 2). That being the
+case, no matter how fast one supposes the first Americans traveled south
+from Alaska, they could not have gone fast enough to arrive at Monte
+Verde 500 years before the ice-free corridor opened. This leaves a
+couple of interesting possibilities: either they departed Alaska before
+the interior corridor opened—that is, in pre-LGM times—or they traveled
+south ice via a coastal route.
+
+So far, no pre-Clovis sites have been found in the interior corridor
+region. A very few are Clovis age, but most are younger than 10,500 BP.
+And no sites here or, arguably, anywhere else in the New World, precede
+the LGM. That would seem to preclude entry through an interior route—for
+the moment (we have learned the hard way to be circumspect about such
+pronouncements, since new discoveries often surprise and contradict our
+received wisdom).
+
+In the meantime, and in the wake of Monte Verde, archaeological
+attention has turned to the Pacific Northwest coast to explore the
+timing and viability of a coastal entry route. Opinion is divided over
+whether in-migrating groups coming down the coast would have traveled on
+foot or by boat. Since we've not found any late Pleistocene watercraft,
+much of this debate rests on speculation and circumstantial
+evidence—both for and against the possibility.
+
+Pleistocene Australia, for example, even though joined during times of
+lowest sea level to New Guinea and Tasmania in a land mass known as
+Sahul, was throughout the Pleistocene separated from mainland Southeast
+Asia by at least 90 kilometers of open ocean. That the first Australians
+crossed open water over 40,000 years ago is taken as indirect testimony
+that the first Americans could also have paddled the coastal waters of
+Beringia and northwest North America. But the North and South Pacific
+are very different oceans, especially during glacial episodes. No early
+Australian on a raft had to contend with a northern ocean's dark skies
+and frozen seas of winter, the treacherous ice floes and squalls of
+summer, and year-round frigid water, where death by hypothermia would
+come quickly when capsizing or falling into those inhospitable waters
+(in any case, regular, planned, and repeated voyaging around the South
+Pacific began only 3,500 years ago).
+
+The first evidence watercraft were used in the North Pacific—the
+occupation of islands off the Pacific Northwest coast and the hunting of
+marine mammals—mostly postdates 10,000 BP, too late for initial
+colonizers skirting south around the ice sheets (Chapter 6). Early
+Americans made it onto a couple of California's Channel Islands, at the
+Arlington Springs site on Santa Rosa Island and Daisy Cave on San Miguel
+Island, as early as 10,960 BP.⁵¹ Even at the LGM, these islands were
+separated from the mainland by at least 10 kilometers and had to be
+reached by watercraft (see Plate 6). That said, they are too far south
+to be relevant to the question of whether the first Americans got from
+Alaska to unglaciated North America by boat.⁵² Nonetheless, based on
+such evidence, scenarios are conjured of early American seafarers who
+hunted and fished saltwater, and gathered shellfish and other intertidal
+resources, and thus could have made it down the coast in short order.
+That they may have, but whether they had boats to travel in remains
+unresolved.
+
+Walking (rather than rafting) down the Pleistocene coast became a viable
+option once the outer coast was free of glacial ice (Chapter 2).
+Although the terrain of the present-day Pacific coast is highly
+dissected and inhibits movement, the now-drowned Pleistocene coastline
+would not have presented such a challenge. For the moment, Occam's razor
+points to groups walking down the coast—if they came via that route.
+
+Forestalling the resolution of the by-foot vs. by-boat debate, and
+indeed the larger question of whether colonization proceeded via the
+coast, is the fact that much of that route is presently under water,
+drowned by rising post-glacial seas. Yet, as noted in Chapter 2, not all
+the Pleistocene coast was drowned: rapid isostatic rebound and tectonic
+activity has uplifted segments of the Pleistocene coastline in Alaska
+and British Columbia. Unfortunately for archaeology, dense temperate
+rainforest hinders surface visibility along much of that stretch. These
+challenges notwithstanding, in the last decade, Daryl Fedje and
+colleagues (among others) have sought early coastal sites on land and
+under sea, an effort enhanced by sophisticated geological and
+bathymetric mapping and seafloor coring, along with efforts to predict
+the most likely places to locate sites.⁵³ To date, none older than
+10,300 BP have been found, but it's still early in the search.
+
+IT'S ABOUT TIME
+
+Monte Verde implies an arrival in the New World much earlier than 12,500
+years ago, given how long it must have taken to travel from Beringia to
+southern Chile. The initial round of speculation, and it was little more
+than that, put the arrival at perhaps 20,000 years ago. It could have
+been later, of course, or even far earlier, if one had to reach Monte
+Verde in time to make the MVI occupation. But estimates of the timing
+depend on how long it would take for colonizers to traverse the
+continent. Chapter 7 looks into what we know or might infer about how
+fast the first Americans dispersed, in light of obstacles or challenges
+they may have met along the way, how readily they adapted to the diverse
+and increasingly exotic New World in which they found themselves, how
+easily they may have coped with novel pathogens and diseases, and how
+they might have maintained their population size and reproductive
+viability while living in relatively small numbers spread thinly over a
+vast and otherwise unpopulated continent.
+
+For now, consider this: hunter-gatherers can travel quickly within
+familiar environments (especially ones that are relatively homogenous)
+in which they know the plants that are edible and when they are
+available, how animal prey behave, where rock outcrops to replenish
+their stone supplies are located, where (or how) to find water, and so
+on. Such knowledge is usually hard won over lifetimes and generations.
+Yet, to the first Americans, this was a new, exotic, and utterly unknown
+landscape, which became ever more alien to their Beringian experience as
+they entered different habitats on their journey south. With every
+ecological boundary and geographic barrier they crossed, and there were
+many across late Pleistocene North and South America, the process of
+finding water, food, and critical materials began anew. This was not the
+Oklahoma Land Rush, with a known destination, wagons bulging with
+homesteading provisions, and a strict timetable to meet. The process
+took time: just how much, we don't know (more on this in Chapter 7).
+
+SEARCHING FOR THE VERY FIRST AMERICANS
+
+What we do know is that if people were in southern South America 12,500
+years ago, sites of equal or greater age should be found between there
+and the Beringian gateway. Some argue they already have been. In
+Venezuela, projectile points similar to those at Monte Verde were found
+with the skeleton of a young mastodon. Skeptics suspect the points sank
+through overlying wet sediment, and came to rest next to the bones. If
+so, nature is wonderfully perverse: one of the points rests snugly in
+the cavity of the mastodon's right innominate (pelvic) bone. The
+radiocarbon ages on the bone do not much help the case, ranging as they
+do from 12,980 to 14,200 BP, with some suggestion the site may be much
+younger. Taima-Taima's antiquity and association must stand on its own
+merit, but having artifacts similar to those from Monte Verde raises the
+possibility it is an expression of the same early archaeological
+presence. However, until the age of Taima-Taima is pinned down, it will
+remain in archaeological limbo.⁵⁴
+
+As for pre-Clovis age sites in North America, there's Meadowcroft, of
+course, though we still await its final report. In the wake of Monte
+Verde, a flurry of additional pre-Clovis contenders have appeared—almost
+twenty, by Adovasio's count—including the sites of Big Eddy (Missouri),
+Cactus Hill and Saltville (both in Virginia), the localities of the
+Chesrow complex (Wisconsin), Paisley Cave (Oregon), Pendejo Cave (New
+Mexico), and Topper (South Carolina). Most of these have only recently
+been discovered and/or reported, some are still undergoing excavation
+and analysis, but a few—like Paisley Cave, which has yielded ancient DNA
+from human coprolites that date to more than 12,000 BP—are nonetheless
+extremely promising: the ages of the coprolites were determined by two
+different radiocarbon laboratories, the DNA analysis was likewise
+cross-checked by independent laboratories, the investigators carefully
+guarded against the possibility of contamination (in the field and the
+laboratory), and the mitochondrial DNA haplogroups matched those seen in
+American Indians.⁵⁵
+
+So far, however, none of these sites has been fully accepted by the
+archaeological community in North America that, I think rightly, still
+maintains a healthy skepticism toward pre-Clovis claims. It is a point
+worth emphasizing: seventy years earlier when Folsom broke the
+Holmes-Hrdlickian log jam, Abbott's paleoliths got no older as a result.
+Merely because a barrier is breached does not mean it should be removed.
+Put another way, reason to expect a pre-Clovis site should never be
+mistaken for evidence a site is pre-Clovis. Each must stand on its own
+merits.
+
+All of which begs a question: do we need to find more than one site to
+prove a pre-Clovis presence? A few critics insist on it. But that
+insistence logically confounds the process of establishing
+antiquity—finding a site that meets the necessary criteria—with the
+process of discerning the broader cultural patterns of that period
+(which does require multiple sites). The initial establishment of a
+Pleistocene human presence in America required only one site (Folsom),
+and there is no reason why that should be any different today. Indeed,
+in 2004 V. V. Pitulko and colleagues announced the discovery of the Yana
+RHS site in northeastern Siberia, which at 71°N and dated to 27,000 BP
+was nearly twice as old as any previously recorded far northern site,
+and had artifacts startlingly like those found in Clovis assemblages
+(Chapter 6).⁵⁶ No one batted an eye, or insisted that Yana would be
+unacceptable until replicated.
+
+So why hasn't a pre-Clovis presence been better established in the
+decade since Monte Verde? Within a decade of the discoveries at Brixham
+Cave and Folsom, dozens of Paleolithic and Paleoindian sites
+(respectively) were found. But the circumstances then and now are very
+different. Both Brixham Cave and Folsom lent themselves to ready
+generalizations about how or where more sites like them would be found
+(Chapter 3). Equally important, the occupation at Brixham Cave was
+preceded by many hundreds of thousands of years of Paleolithic
+prehistory. Folsom, at the very least, came on the heels of a millennium
+or more of a well-established human presence in the Americas. Neither
+Brixham nor Folsom were the very oldest sites ever found in England or
+America, and that's no surprise: the very oldest archaeological sites
+are extraordinarily hard to find, and almost never the first ones
+discovered.
+
+Here's why: the number of sites produced in a given period or region is
+the sum of many things, not least the size of the contemporary
+population. Lots of people produce lots of debris and ample evidence of
+their presence; if there are fewer people on the landscape, and they are
+highly mobile and widely scattered, their traces are much rarer. And
+certainly in the earliest centuries and millennia of colonization, large
+areas of the American continent were thinly occupied, or simply
+unoccupied. This is why we know so much less about the first peoples of
+a continent than about a continent's first farmers: the latter were
+numerous, more firmly rooted in place, and produced heavier artifact
+“rains.”
+
+We do not know how large the first group(s) of colonizers in the
+Americas was, but it was almost certainly not large. We assume, in the
+absence of any evidence but in keeping with studies of modern
+hunter-gatherers, that minimally viable numbers for an initial
+population might have ranged between several score and several hundred.
+So one part of the answer to the question of why there were so few early
+sites is that there were few early people.
+
+The other part of the answer is that the odds of site preservation and
+discovery can be slim. The number of sites recovered archaeologically
+from a given period is determined by, among other factors, erosional and
+depositional processes that help erase or bury ancient sites and make
+them less visible; the antiquity of the period, older sites being rarer
+because time has had longer to erase them; the search techniques used to
+find sites, because if sites are deeply buried or, say, underwater on
+the now-drowned continental shelf, they will be more difficult to locate
+(of which, more below); and, finally, the number of sites relative to
+the size of the area being searched by archaeologists.
+
+The last point perhaps requires a bit of explanation, easily done by
+comparing the colonization of North America with the colonization of,
+say, any one of the scores of islands that dot the Pacific Ocean and
+were settled in just the last few thousand years. In those instances,
+the number of colonizers might well have been no larger than the group
+that came to the Americas. Yet, when these seafaring peoples arrived on
+an island, they had an immediate and devastating ecological impact: the
+native, flightless birds were driven to extinction, trees were felled
+for fuel and construction materials, and exotic plants and animals (such
+as yams and stowaway rats) were introduced. Ecosystems changed radically
+on the heels of human arrival, and given the small size of these
+islands, those changes were sweeping and are usually highly visible
+archaeologically (sediment cores, for example, show a sharp drop in the
+pollen of native trees and a sudden rise in the amount of charcoal,
+while the fossil record is marked by a precipitous decline and
+disappearance in the number of bird species). Moreover, the size of the
+area to be searched on islands is smaller than a continent by many
+orders of magnitude, and thus the likelihood of finding the
+archaeological “footprints” of the first colonists correspondingly
+greater.
+
+Not so in the Americas, where the area to be searched is a haystack of
+many millions of square kilometers, and the needle a tiny number of
+sites, left by people that could not have had a visible impact on the
+hemisphere's ecosystems (though as we'll see in Chapter 8, some have
+claimed as much⁵⁷).
+
+Archaeological geologist Karl Butzer has observed, further, that because
+of the converging circumstances of low population and destructive
+geological processes, “recoverable” sites dating to, say, 30,000 years
+ago, will be about ten to fifteen times less common than those dating to
+11,000 years ago.⁵⁸ All of which implies that
+
+ 
+
+•  people were likely present in the Americas long before their traces
+appear on our archaeological radar screen;
+
+•  the oldest archaeological site in the Americas that we currently know
+of—Monte Verde—represents an early presence in the New World, but
+assuredly not the earliest; and
+
+•  earlier or the earliest sites of the first peoples will be rare, hard
+to find, and may never be found.
+
+ 
+
+If Monte Verde is pushing the limits of antiquity in this hemisphere,
+then the likelihood of finding dozens or scores more as old or older
+diminishes.
+
+For that matter, and again unlike the circumstances of Brixham Cave and
+Folsom, the unusual geology and archaeology of Monte Verde do not
+readily lend themselves to easy generalizations about how or where more
+sites like it will be found. The absence of confirmed North American
+pre-Clovis sites raises the possibility that archaeologists haven't
+looked in the right places or in the right way for sites of this age
+(Albert Goodyear even admits he never used to excavate below the Clovis
+layer; once he started doing that, he discovered the Topper site). It
+is, for example, a curious but well-known fact of the archaeology of
+North America that Paleoindian traces are rarely found in rockshelters
+or caves, Meadowcroft being (once again) the obvious exception. Yet
+around the world, from Arago (France) to Zhuoukoudian (China), caves
+were used throughout prehistory.
+
+Various scenarios are conjured to explain why Paleoindians failed to
+inhabit North American caves, notably that they were moving through the
+Americas at such a fast clip they hadn't had time to find them (though,
+as we'll see later, they managed to find small and isolated stone
+sources). Archaeologist Michael Collins has another idea: North American
+archaeologists only excavate the younger (generally Holocene) deposits
+in caves, and routinely fail to peer beneath massive roof spalls—as
+Adovasio did at Meadowcroft—to see what traces may be found in older,
+Pleistocene sediments (more on this in Chapter 9).
+
+Indeed, there are many regions and settings yet to be searched
+systematically for evidence of the first Americans: deeply buried late
+Pleistocene surfaces, especially at the intersection of major rivers
+(which were likely corridors of travel); bogs and wetlands; now-drowned
+or uplifted coastlines; resource-rich forests; and especially the
+60-kilometer-wide Panama bottleneck connecting North and South America,
+through which the earliest South Americans must have passed. Searching
+those settings will require more than the usual archaeological field
+techniques: geological and geophysical remote sensing techniques will
+become increasingly in demand.⁵⁹
+
+WHO WERE THE FIRST AMERICANS?
+
+Whatever may ultimately prove to be the antiquity of the first
+Americans, Monte Verde has renewed discussion of who they were, and
+where they originated. The archaeological “footprints” of those who
+occupied Monte Verde cannot be followed back to North America, let alone
+across Beringia or into northeast Asia (Chapter 6). The absence of an
+obvious Siberian precursor has prompted some breathtaking speculations,
+among them that the first Americans came across the Pleistocene Atlantic
+from Europe, or sailed across the Pacific, possibly first setting foot
+in South America. Those scenarios are highly doubtful (of which, more
+later).
+
+Monte Verde's decidedly non-Clovis look raises further questions of the
+historical relationship between the people who occupied this site and
+later (and northern) Clovis groups. Were they related, and if so, how?
+Do they represent the same or different colonizing pulses? More broadly,
+how many early migrations were there to the Americas; was it a single
+event from which all subsequent groups were descended, or (as Hrdlicka
+supposed) did it involve a series of separate migratory pulses? And what
+might we say from this of the population history of contemporary Native
+American populations: are they descendants of the first Americans?
+
+These are not strictly archaeological questions, but ones to which
+geneticists, linguists, and physical anthropologists have offered
+answers. Indeed, few archaeological questions lend themselves more
+readily to an interdisciplinary solution than that of the peopling of
+the Americas.
+

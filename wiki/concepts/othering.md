@@ -1,0 +1,67 @@
+---
+title: "Othering"
+aliases: ["The Other", "Othering", "the Other"]
+concept_type: analytical
+coined_by: ["[[unknown]]"]
+date_coined: 1978
+disciplines: [cultural-anthropology, sociology, literary-studies, philosophy]
+emic_or_etic: etic
+operationalized_as: "not quantified; identified through analysis of representational discourse"
+contested: no
+related_concepts: ["[[orientalism]]", "[[imaginative-geography]]", "[[discourse-foucauldian]]"]
+sources_ingested: 1
+last_updated: 2026-07-09
+tags: [concept, postcolonial-studies]
+---
+
+# Othering
+
+**Othering** is the process of constituting a group as fundamentally different from,
+and inferior to, one's own — defining the self by contrast with an alien "Other." Though
+the philosophical notion of the Other has older roots (Hegel, de Beauvoir, Levinas),
+its use as a tool of colonial-discourse analysis is associated with Edward
+[[said-edward|Said]]'s *[[said-orientalism-1978|Orientalism]]* (1978) and
+[[postcolonialism]].
+
+## Definition as Coined
+
+In Said's analysis (attributed), European identity is constructed through the Orient as
+its "contrasting image, idea, personality, experience." The Oriental is made to embody
+what the European is not — irrational, sensual, despotic, static, childlike — so that, by
+opposition, the European appears rational, mature, and free. The Other is not encountered
+but produced, and the production serves domination.
+
+## Semantic History
+
+The term "the Other" carries a long philosophical lineage (self/other dialectics). Its
+postcolonial and feminist uses — "othering" as an active, power-laden verb — consolidated
+after Said and became standard vocabulary across the interpretive social sciences and
+humanities.
+
+## Operationalizations
+
+Identified through discourse analysis: the reading of texts for binary oppositions,
+essentialization, and the positional superiority of the representing subject.
+
+## Applications
+
+Central to [[orientalism]] and [[postcolonialism]]; widely applied in the study of racism,
+gender, nationalism, and the representation of migrants and minorities.
+
+## Critiques and Limitations
+
+Critics note that the concept can itself flatten the "othered" group into a passive
+object, reproducing the erasure of agency it diagnoses; and that "the West"/"the self" can
+be essentialized in turn.
+
+## Otherness as Historical, Not Essential (Rabinow)
+
+Within reflexive anthropology, [[rabinow-paul|Paul Rabinow]]'s
+*[[rabinow-reflections-morocco-1977|Reflections on Fieldwork in Morocco]]* (1977) offers a
+constructive counter-formulation: Otherness encountered in fieldwork is "not an ineffable
+essence, but rather the sum of different historical experiences." On this account the
+anthropologist and informant are separated not by fixed essences but by different
+[[webs-of-significance|webs of signification]] which, through the dialogue of
+[[reflexive-fieldwork|fieldwork]], can become "at least partially intertwined." Rabinow
+also rejects the cognate figure of "the primitive": "There is no 'primitive.' There are
+other men, living other lives."

@@ -1,0 +1,665 @@
+PATTERNS
+
+131. THE UNIVERSAL PATTERN            I32. SYSTEMATIC PATTERNS         I33. TOTAL-CULTURE PAT-
+
+TERNS     134.   EXEMPLIFICATIONS IN LANGUAGE             I35.    PSYCHOLOGICAL ASPECTS           I36.
+
+CLIMAXES OF WHOLE-CULTURE PATTERNS                I37.   STYLE PATTERNS       I38. BASIC   PATTERN
+AND STYLE VARIABILITY I39. THE CLUSTERING AND NATURE OF GENIUS                             I40.   THE
+MEANING OF SIMULTANEOUS INVENTIONS
+
+
+
+CULTURE PROCESSES
+
+141.CULTURE PROCESSES I42. PERSISTENCE I43. MOTOR HABITS I44. OTHER HABIT
+CHANNELINGS  I45. INVENTION  I46. NECESSITY I47. ACCIDENT I48. INVENTION AND
+
+PLAY 149. ANTECEDENTS I50. CUMULATIVE AND COMPLEX INVENTIONS I5I. SOCIAL
+ACCEPTANCE        I52.   SIMULTANEOUS INVENTIONS AGAIN              I53.   INVENTION OF INSTITU-
+TIONS     154. INVENTION BY STIMULUS DIFFUSION             I55.   INVENTION BY REDUCTION-SEG-
+REGATION     156.   CULTURAL LOSS       I57.   DISAPPEARANCE OF USEFUL ARTS         I58. EFFECTS
+
+OF isolation: Southampton and easter islands                 159. displacements        160.   kinds
+OF loss    161.   problem of the death of cultures
+
+
+
+CULTURE CHANGE
+
+162. TYPES   OF CULTURE CHANGE          163.   SUBSISTENCE AND POPULATION CHANGES                 164.
+
+FASHION CHANGE           165.   VARIABLE PATTERNS OF MOTIVATION FOR ANIMAL BREEDING
+166. LABILE SOCIAL               AFFECT IN CULTURE CHANGE 168. CULTURAL
+                         STRUCTURES     167.
+fatigue:     TABOO IN           CHANGE THROUGH ORGANIZED RELIGION I70.
+                           HAVl'AII   169.
+CHANGE BY REVOLUTION I7I. EXTERNAL CHANGE: DIFFUSION 172. RESISTANCE TO
+DIFFUSION 173. MARGINAL CULTURES I74. MARGINAL BIOTAS AS PARALLELS I75. IN-
+TERNAL MARGINALITY 176. ACCULTURATION I77. ACCULTURATION WITH AND WITH-
+OUT DOMINANCE AND ASSIMILATION 178. JEWISH AND CHRISTIAN MINORITIES IN ASIA
+179. VOLUNTARY OR SPONTANEOUS ACCULTURATION    180. NATIVISM, REVIVALS, AND
+
+MESSIAHS 181. ETHNIC REVIVALS 182. ASSIMILATION AND UNIFORMITY
+                             EDITOR'S NOTE
+This volume offers a selection of those chapters of Alfred L. Kroeber's classic
+work  ANTHROPOLOGY          that deal specifically with matters of Culture Pat-
+terns and Processes.
+
+Ifno selection can ever take the place of the complete work from which it is
+drawn, this holds doubly true of a work as closely integrated as Kroeber's
+
+ANTHROPOLOGY, which covers a vast area of knowledge, illumines each
+of its parts from a single fundamental point of view, and subjects an entire field
+of scholarship to the searching inquiry of one    mind of uncommon scope.
+
+The present selection (and its companion volumes, which contain other selec-
+tions) claims   no more than that it will serve the convenience of those readers
+who wish to study the narrower topic only. However, the section numbers, and
+with them the many cross references, that run throughout the parent volume
+                                 —
+have been retained unchanged to point up how much Kroeber's ANTHRO-
+POLOGY     is   a work that is of one piece, and indivisible.
+Anthropology:
+
+CULTURE
+PATTERNS
+     &
+PROCESSES
+           What Anthropology Is About
+
+I.   ANTHROPOLOGY, BIOLOGY, HISTORY         2.   ORGANIC AND SOCIOCULTURAL ELEMENTS
+3.    ORGANIC   OR   "physical"   ANTHROPOLOGY       4,   SOCIOCULTURAL    ANTHROPOLOGY
+5.   EVOLUTIONARY PROCESSES AND EVOLUTIONISTIC FANCIES          6.   SOCIETY AND CULTURE
+7. ANTHROPOLOGY      AND THE SOCIAL SCIENCES
+
+
+                     I.   ANTHROPOLOGY, BIOLOGY, HISTORY
+     A NTHROPOLOGY   is the Science of man. Of course, this literal, etymological
+
+     /\  meaning is too broad and general. More precise would be: "the science
+ J    \ of man and his works and behavior." But even this needs an addition to
+make it sufficiently specific, since no one means to claim sciences like physiology
+and psychology as parts of anthropology. Now physiology and psychology focus
+their attention on particular, men, whom they examine as individuals. This gives
+a clue to the additional limitation        we are seeking. Anthropology obviously is
+concerned not with particular men as such, but with men in groups, with races
+and peoples and their happenings and doings. So let us take as our provisional
+basic definition the following:"Anthropology is the science of groups of men
+and their behavior and productions." This will include any findings on the total
+human species, since this constitutes an aggregate of races or peoples, a sort of
+supergroup or total society.
+      However, man is an animal or organism and he is also a civilized being
+having a history and social qualities. Thus he is investigated         —different aspects
+of him are investigated    —both by the organic or biological or      life sciences and by
+
+what are sometimes called the historical and more generally the social sciences.
+True, this latter term, "the social sciences," though commonly used, is not easy
+to define satisfactorily. But we can leave this difficulty for the philosopher of
+science. In practice, anthropology    is   mostly classified as being both a biological
+science and a social science. Some universities recognize this fact by having cer-
+tain courses of anthropological study count as the one and certain as the other,
+or perhaps even the same course counting either way. Such a situation of double
+participation is unusual among the sciences. If anthropology is not concerned so
+predominantly with man as an animal, or with man as a social human having a
+history, that it can be set outright in either the life or the social-historical science
+2                         WHAT ANTHROPOLOGY IS ABOUT                              § 1
+
+category, both aspects are evidently represented significantly in its subject matter.
+Could it be that the specific subject of anthropology is the interrelation of what
+is biological in man and what is social and historical in him? The answer is Yes.
+
+Or, more broadly, anthropology docs at least concern itself with both organic
+and social factors in man, whereas nearly all other sciences and studies deal with
+one or the other. Anthropology concerns itself with both sets of factors because
+these come associated in human beings in nature. Often they are even inter-
+twined in one and the same phenomenon, as when a person is born with heredi-
+tary musical capacity and develops this further by study and training. They arc
+not always easy to disentangle; but they must be separated if the processes at
+work arc to be understood. That job is peculiarly the anthropologist's.
+
+
+                2.   ORGANIC AND SOCIOCULTURAL ELEMENTS
+    To the question why a Louisiana Negro is black and longheaded, the
+answer is ready. He was born so. As cows produce calves, and lions, cubs, so
+Negro springs from Negro and Caucasian from Caucasian. We call the force at
+work heredity. Our same Negro is reputed amiable and easy-going. Is this too
+an innate quality? Offhand most of us might reply Yes. He sings at his corn-
+hoeing more frequently than the white man across the fence. Is this also because
+of his heredity?   "Of course—he     made
+                                     is         might be a common answer,
+                                               so,"
+"Probably    —why not?" a more cautious one. But now our Negro singing the
+                                                                      is
+
+"Memphis Blues," which his great-grandfather in Africa assuredly did not sing
+As for the specific song, heredity can obviously no longer be the cause. Our
+Negro may have learned it from an uncle, or perhaps from his schoolmates;
+quite likely he acquired it from human beings who were not his ancestors, or
+over the radio, acquired it as part of his customs, like being a member of the
+Baptist Church and wearing overalls, and the thousand other things that come
+to   him from without instead of from within. At these points heredity is dis-
+placed by tradition, nature by nurture, to use a familiar jingle. The efficient
+forces now are quite different from those which made his skin black and his
+head long. They are causes of another order.
+      The particular song of the Negro and his complexion represent the clear-
+cut extremes of the matter. Between them lie the good nature and the inclination
+to melody. Obviously these traits may also be the result of human example, of
+"social   environment," of contemporary tradition. There are those who so be-
+lieve, as   well as those who see in them chiefly the effects of inborn biological
+impulse. Perhaps these intermediate dubious traits are the results of a blending
+of nature and nurture, the strength of each varying according to the trait or the
+individual examined. Clearly, at any rate, there is room here for investigation
+and weighing of evidence. A genuine problem exists. This problem cannot be
+solved by the historical or social sciences alone, because they do not concern
+themselves with heredity. Nor can it be solved by biology, which deals with
+^ 3                   ORGANIC OR "physical" ANTHROPOLOGY
+                                                                                        3
+heredity and allied factors but docs not go on to operate with the nonbiological
+principle of tradition or with         what is acquired by men when they         live   in
+societies.
+
+      Here, then, is one distinctive task for anthropology: the interpretation of
+those   phenomena into which both innate organic factors and "social" or ac-
+quired factors enter or may enter.
+    The word "social" is the customary untechnical one for the nonorganic or
+more-than-organic phenomena referred to. It is, however, an ambiguous word
+and therefore sometimes a confusing one. As will shortly be pointed out, "social"
+refers to both social and cultural phenomena. Until the distinction between
+them has been made, we shall either put "social" into quotation marks or use
+"sociocultural" instead.
+
+
+
+                3.   ORGANIC OR "physical" ANTHROPOLOGY
+
+      The organic sciences underlie the sociocultural ones. They are more imme-
+diately "natural," less    "humanized" in their concern. Anthropology therefore
+accepts and uses the general principles of biology: the laws of heredity and the
+doctrines of cell development and evolution, for instance, and        all   the findings
+of anatomy, physiology, embryology, zoology, palaeontology,         and the rest. Its
+business has been to ascertain         how far these principles apply to man, what
+forms they take in his particular case. This has meant a concentration of atten-
+tion, the devising of special    methods of inquiry. Many biological problems, in-
+cluding most physiological and hereditary ones, can be most profitably attacked
+in the laboratory, or at least under experimental conditions. The experimental
+method, however, is but rarely available for human beings living in groups.
+Sociocultural phenomena have to be taken as they come and laboriously sifted
+and resifted afterward, instead of being artificially simplified in advance, as is
+done in laboratory experimentation.
+      Then, too, since anthropology is operating biologically within the narrow
+limits of one species, it has sometimes been driven to concern itself with minute
+
+traits, such as the zoologist is rarely troubled   with the proportions of the length
+                                                       :
+
+
+
+
+and the breadth of the        skull   —the famous cephalic index—for instance; the
+number of degrees the arm bones are twisted, and the like. Also, as these data
+had to be used in the gross, unmodifiable by artificially varied conditions, it has
+been necessary to secure them from all possible varieties of men, different races,
+sexes, ages,   and their nearest brute analogues. The result is that biological or
+physical anthropology
+                          —"somatology" it is sometimes called in Anglo-Saxon
+countries, and sometimes simply "anthropology" in continental Europe           —has in
+part constituted a sort of specialization or sharpening of certain aspects of gen-
+eral biology. It has become absorbed to a considerable degree in certain particular
+
+phenomena, such as human species or subraces and methods of studying them,
+4                            WHAT ANTHROPOLOGY IS ABOUT                           S 4
+
+about which general biologists, physiologists, and students of medicine arc
+usually but vaguely informed.
+
+
+
+                        4.   SOCIOCULTURAL ANTHROPOLOGY
+
+      The sociocultural sciences, usually, but somewhat loosely, called the social
+sciences, overlie the organic sciences.    Men's bodies and inborn equipment are
+back of their deeds and accomphshments as shaped by tradition, and are primary
+to their culture or civilization as well as to their aggregations in societies. The
+relation of anthropology to sociocultural science has therefore      been in a sense
+the opposite of its relation to biological science. Instead of specializing, anthro-
+pology has been occupied with trying to generalize the findings of history. His-
+torians can never experiment; sociologists, economists, and other social scientists
+only rarely. Historians deal with the unique; for to a degree every historical or
+social or cultural     event has something unparalleled about it. They do not lay
+down laws, nor do they verify them by the artificial trials of experiment. But
+anthropology looks for such general and recurrent processes as may occur in the
+multifarious events of history and in the diverse societies, institutions, customs,
+and beliefs of mankind. So far as such processes can be extricated or formulated,
+they are generalizations.
+      It has sometimes been said that social and cultural anthropology    —that part
+of the subject which is concerned with the more-than-merely-organic aspects of
+human behavior— seems preoccupied with ancient and savage and exotic and
+              The cause is a desire to understand better all civilizations,
+extinct peoples.
+irrespective of time      and place, in the abstract, or as generalized principles if
+possible. It   is   not that cave men are more illuminating than Romans, or flint
+knives more interesting than fine porcelains or the art of printing, which has
+led anthropology to bear heavily on the former, but the fact that it wanted to
+know about cave men and flint knives, which no one else was studying, as well
+as about the Romans and printing presses that history tells us about so fully.
+
+It   would be arbitrary to prefer the exotic and remote to the familiar, and in
+principle anthropology has never accepted the adjudication sometimes tacitly
+rendered that its proper field should be restricted to the primitive as such. As
+well might zoology confine its interest to eggs or to protozoans. It is probably
+true that some researches into early and savage history, especially in the initial
+stages of anthropology, have sprung from an emotional predilection for the for-
+gotten or the neglected, the obscure and the strange, the unwonted and the
+mysterious. But such occasional personal aesthetic trends cannot delimit the
+range of a science or determine its aims and methods. Innumerable historians
+have been inveterate gossips, but one does not therefore insist that the only
+proper subject of history is backstairs intimacies.
+      This, then, is the reason for the special development of those subdivisions of
+anthropology known as archaeology, "the science of what is old" in the career
+5 5              EVOLUTIONARY PROCESSES AND EVOLUTIONISTIC FANCIES                            5
+
+of humanity, especially as revealed            by excavations of the      sites   of prehistoric
+occupation, and ethnology, "the science of peoples" and their cultures and life
+histories as groups, irrespective of their degree of advancement/
+
+
+
+          5.   EVOLUTIONARY PROCESSES AND EVOLUTIONISTIC FANCIES
+      In their more elementary aspects the two strands of the organic or heredi-
+tary and the sociocultural or "environmental" run through all human life. They
+are distinct as mechanisms, and their products are distinct. Thus a comparison
+of the acquisition of the power of flight respectively by birds in their organic
+development out of the ancestral reptile stem millions of years ago, and by men
+as a result of cultural progress in the field of invention during the past genera-
+tion, reveals at once the profound differences of process that inhere in the                am-
+biguous concept of "evolution." The bird gave up a pair of walking limbs to
+acquire wings. It added a new faculty by transforming part of an old one. The
+sum total of its parts or organs was not greater than before. The change was
+transmitted only to the blood descendants of the altered individuals. The reptile
+line went on as it had been before, or if it altered, did so for causes unconnected
+with the evolution of the birds. The airplane, on the contrary, gave men a new
+faculty without diminishing or even impairing any of those they had previously
+possessed. It led to no visible bodily changes, no alterations of mental capacity.
+The invention has been transmitted to individuals and groups not derived by
+descent from the inventors; in fact, it has already influenced the fortunes of all
+of us. Theoretically, the invention is transmissible to ancestors if they happen to
+be still living. In sum, it represents an accretion to the stock of existing civiliza-
+tion rather than a transformation.
+      Once the broad implications of the distinction which tiiis example illustrates
+have been grasped, many common errors are guarded against. The program of
+eugenics, for instance, loses much of its force. There is certainly much to be said
+in favor of intelligence        and discrimination in mating, as in everything else.
+There is need for the acquisition of more exact knowledge on human heredity.
+But, in the main, the claims sometimes made that eugenics is necessary to pre-
+serve civilization from dissolution, or to maintain the flourishing of this or that
+nationality, rest on the fallacy of recognizing only organic causes as operative,
+when sociocultural as well as organic ones are active — when indeed the super-
+hereditary factors may be much the more powerful ones. So, in what are mis-
+called race problems, the average thought of the               day still reasons confusedly
+between sociocultural and organic causes and effects.^ Anthropology is not yet
+      ^   Ethnography is sometimes separated, as more descriptive, from ethnology, as more
+theoretically or more historically inclined.
+      ^   An example is the still lingering fallacy that individual development of organs by use
+somehow gets incorporated into the heredity of descendants. This fallacy rests on the mis-
+application to organic situations of a valid sociocultural mechanism. An example in reverse
+D                             WHAT ANTHROPOLOGY IS ABOUT                                   § 5
+
+
+in a position always to state just           where the boundary Ues between the con-
+tributing organic causes and the superorganic or "sociocultural" causes of such
+phenomena. But it does hold to their fundamental distinctness and to the im-
+portance of their distinction,        if   true understanding    is   the aim.   Without sure
+grasp of this principle, many of the arguments and conclusions in the present
+volume will lose their significance.
+       Accordingly, a designation of anthropology as "the child of Darwin"                  is
+
+misleading. Darwin's essential achievement was that he imagined, and sub-
+stantiated by much indirect evidence, a mechanism through which organic evo-
+lution appeared to be taking place. The whole history of man, however, being
+much more than an organic matter, a merely or strictly Darwinian anthro-
+pology would be largely misapplied biology. One might almost as justly speak
+of a Copernican or a Newtonian anthropology.
+    What has greatly influenced some of the earlier anthropology, mainly to its
+damage, has been not Darwinism, but the vague idea of progress, to the organic
+aspect of which Darwin happened incidentally to give such support and ap-
+parent substance that the whole group of evolutionistic ideas, sound and unsound,
+has luxuriated rankly ever since. It became common practice in the older an-
+thropology to "explain" any part of human civilization by arranging its several
+forms in an evolutionary sequence from lowest to highest and allowing each
+successive stage to flow spontaneously, without specific cause, from the preceding
+one. At bottom this logical procedure was astonishingly naive. In these schemes
+we of our land and day stood at the summit of the ascent. Whatever seemed most
+different from our customs          was therefore reckoned as earhest, and other phe-
+nomena were disposed wherever they would best contribute to the straight even-
+ness of the climb upward. The relative occurrence of phenomena in time and
+space was disregarded in favor of their logical fitting into a plan. It was argued
+that since we hold to definitely monogamous marriage, the beginnings of human
+sexual union probably lay in the opposite condition of indiscriminate promis-
+           we accord precedence to descent from the father, and generally
+cuity. Since
+
+know him, early society must have reckoned descent from the mother and no
+one knew his own father. We abhor incest; therefore the most primitive men
+normally married their          sisters.   These are fair samples of the conclusions or
+assumptions of the classic evolutionistic school of anthropology of, say, i860 to
+1890, which     still   believed that primal origins or ultimate causes could be deter-
+mined, and that they could be discovered by speculative reasoning. The roster
+of this evolutionistic-speculative school         was graced by some illustrious names.
+Needless to say, these men tempered the basic crudity of their opinions by wide
+knowledge, acuity or charm of presentation, and frequent insight and sound
+sense in concrete particulars. In their day, two generations or three ago, under
+the spell of the concept of evolution in           its first flush,   and of the postulate of
+
+is   the ascription of environmentally or historically produced cultural backwardness to   or-
+
+ganic and hereditary inferiority.
+§ 6                                  SOCIETY AND CULTURE                                  7
+progress at    its   strongest, such     methods of reasoning were almost       inevitable.
+Today they are long since threadbare; they have descended to the level of news-
+paper science or have become matter for idle amateur guessing. They are evi-
+dence of a tendency toward the easy smugness of feeling oneself superior to all
+the past. These ways of thought are mentioned here only as an example of the
+beclouding that results from bad transference of biologically legitimate con-
+cepts into the realm of the history of human society and culture, or viewing these
+as unfolding according to a simple scheme of progress.
+
+
+
+                                6.   SOCIETY AND CULTURE
+
+      The relation between what is biological and what is sociocukural has just
+been said to be a sort of central pivot of anthropology, from which the range of
+the subject then extends outward on both sides, into the organic and into the
+more-than-organic. It is now necessary to consider the more precise relation of
+society and culture within the "organic-plus." In man, social           and cultural phe-
+nomena normally occur associated much as the joint sociocukural phenomena
+co-occur with the organic ones. Nevertheless, the social and the cultural aspects
+within the larger sociocukural field can nearly always be distinguished.
+      The Latin word socius denotes a companion or ally, and in their specific
+sense the words "society"            and "social" refer to associations of individuals, to
+group relations. When we speak of social structure, or the organization of
+society, it is clear what is meant: the way a mass of people is constituted into
+
+families, clans, tribes, states, classes, sets, clubs, communities, and the like. A
+society is a group of interrelated individuals.
+      But in a much wider sense the word "social" is also used, loosely, for what-
+ever transcends the biological individual for what we have so far designated as
+                                                  :
+
+
+
+
+more-than-organic or sociocukural. Thus popular usage and imiversity curricula
+recognize the physical, the biological, and the social sciences. The last-named
+usually comprise history, government, economics, sociology, anthropology, hu-
+man geography.' All these branches of study deal not only with man but with
+men. In fact they deal primarily with the interrelations of men, or groups of
+men.
+      It so happens that       man is an essentially unique animal in that he possesses
+speech faculty and the faculty of symbolizing, abstracting, or generalizing.
+Through these two associated faculties he is able to commimicate his acquired
+learning, his knowledge and accomplishments, to his fellows and his descendants
+—in   fact, even to his ancestors, if they happen to be still alive and are willing to
+
+listen to   him. So he transmits much of his ideas, habits, and achievements to
+succeeding generations of men. This is something that no other animal can do,
+at least    not to any significant degree. This special faculty is what was meant
+      * Psychology   is   sometimes also partly included, sometimes reckoned rather with the
+biological sciences.
+8                         WHAT ANTHROPOLOGY IS ABOUT                               § ^
+
+
+when someone called man the "time-binding" animal. He "binds" time by tran-
+scending it, through influencing other generations by his actions.
+    Now the mass of learned and transmitted motor reactions, habits, tech-
+niques, ideas,                                              —
+                  and values— and the behavior they induce is what constitutes
+culture. Culture is the special  and exclusive product of men, and is their dis-
+tinctive quality in the cosmos.
+    Not only is culture a unique phenomenon, but it can be said to have a large
+degree of influence. Of course culture can appear and go on only in and through
+men, men in some kind of societies; without these it could not come into being
+nor maintain itself. But, given a culture, the human beings that come under its
+influence behave and operate quite differently from the way they would behave
+under another culture, and still more diflferendy from the way they would act
+under no culture. In the latter case they would be merely animals in their be-
+havior. They are human beings precisely because they are animals plus a cul-
+ture. Somehow human beings began long ago to produce culture and have con-
+
+tinued ever since to produce it. In that sense culture derives wholly from men.
+But the other side of the picture is that every human being is influenced by
+other men who in turn have been influenced by still others in the direction of
+maintaining and developing certain ideas, institutions, and standards.         And a
+shorthand way of expressing this is to say that they are all influenced by the
+culture they grow up in; in fact, in a broad way, they are dependent on it for
+most of the specific things they do in their lives. Culture is therefore a powerful
+                            —
+force in human behavior in both individual and social behavior. Any given
+form of culture, whether of the Eskimo or of our contemporary Western civi-
+lization, has behind it a long history of other forms of culture by which it was
+conditioned and from which it derives. And in turn each culture is changing and
+shaping the forms of culture that will succeed it and which therefore more or
+less depend on it. Culture thus is a factor that produces enormous effects, and as
+
+such we study it.
+    To be concrete, the reason our Louisiana Negro of a few pages back sings
+the blues, goes to a Baptist church, and cultivates corn is that these things are
+parts of American culture. If he had been reared in the Africa of some of his
+forefathers, his dress, labor, food, religion, government, and amusements would
+have been quite different, as well as his language. Such is what culture does to
+men. And, as has been pointed out, the process of transmission, a process of
+acquisition by learning by      which culture is perpetuated and operates on new
+generations, is quite different from the process by which heredity    —another in-
+dubitable force  —operates on them. Equally distinct are the   results.   No religion,
+no tool, no idea was ever produced by heredity.
+    Culture, then, is all those things about man that are more than just bio-
+logical or organic, and are also more than merely psychological. It presupposes
+bodies and personalities, as it presupposes men associated in groups, and it rests
+upon them; but culture is something more than a sum of psychosomatic quali-
+S 6                               SOCIETY AND CULTURE                                        9
+ticsand actions. It is more than these in that its phenomena cannot be wholly
+understood in terms of biology and psychology. Neither of these sciences claims
+to be able to explain why there are axes and property laws and etiquettes and
+prayers in the world, why they function and perpetuate as they do, and least
+of all why these cultural things take the particular and highly variable forms or
+expressions under which they appear. Culture thus is at one and the same time
+the totality of products of social        men, and a tremendous force affecting all
+human beings, socially and individually. And in this special but broad sense,
+culture is universal for man.*       -'
+
+    This brings us back to the relation of society and culture. Logically, the two
+are separate, though they also coexist. Many animals are social. Ants and bees
+and termites are very highly socialized, so much so that they can survive only in
+societies. But they have no culture. There is no culture on the subhuman level.
+
+Ants get along without culture because they are born with many highly specific
+             men have only few and general instincts. Society without culture
+instincts; but
+
+exists on the subhuman level. But culture, which exists only through man,         who
+is    also a social animal, presupposes society.     The speech faculty makes possible
+the transmission and perpetuation of culture; and speech could evidently arise
+only in a somewhat socially inclined species, though the most socialized animals,
+the social insects, are held together by instinctive drives and do not need speech.
+In man, however, language helps bind his societies successfully together. And
+then culture, with its institutions and morals and values, binds each of them
+together more and helps them to achieve more successful functioning.
+        Human society and culture are thus perhaps best viewed as two intimately
+intertwined aspects of a complex of phenomena that regularly occur only in
+association;    whereas on the subhuman level,           societies    occur but there   is   no
+significant culture.
+
+        The occurrence of cultureless true societies among the insects makes it clear
+that,    much as living bodies and "minds" underlie societies and cultures, and
+precede them in evolution, so also, in turn, society precedes and underUes cul-
+ture,    though in man the two always happen to come associated. At any rate,
+society is a simpler and more obvious concept to grasp than is culture. That is
+apparently why sociocultural phenomena— the phenomena of man's total history
+in the broadest sense, which necessarily contain both social facts              and cultural
+facts   —usually have their social aspects recognized       first.   The result has been that
+       * Culture as dealt with by the anthropologist is obviously different from what is signi-
+
+fied by speaking of "a   man of culture," or "a cultured person," in the popular sense, when
+high culture, or special refinement of it, is meant. Similarly with the word "civilization."
+When we ordinarily, as laymen, speak of "civilized" and "uncivilized" peoples, we mean,
+more precisely, peoples of advanced and backward culture, respectively. By many anthro-
+pologists, ever since Tylor, the words "civilization" and "culture" are often used to denote
+the same thing; and always they denote only degrees of the same thing.
+10                                WHAT ANTHROPOLOGY IS ABOUT                                          § 6
+
+
+the social-plus<ultural combination  came at first to be called merely "social,"
+and in popular and general use still carries that ambiguous name.
+         For those who like their thinking concrete, it may help if they conceive the
+sociocultural total in         man as similar to a sheet of carbon paper, of which the
+fabric side represents society            and the coated side culture. It is obvious that to
+use carbon paper effectively, we must distinguish the sides. And yet the sheet is
+                                           when we are not concerned with
+also a unit. Moreover, in certain respects, as
+manifolding but only with some operation Uke sorting, counting, or packing, a
+sheet of carbon paper is comparable to and is handled like a sheet of uncoated
+paper      —
+           which in turn would correspond to the cultureless animal societies. But
+if    what we are interested in is the use of carbon paper, the impressions made by
+it,   or if we wish to understand how it makes them, then it is the specific carbon
+coating that we must examine, even though this comes only as a sort of dry-ink
+film carried by paper of more or less ordinary cellulose fabric and texture. Like
+all similes, this one has its limitations.          But it may be of help in extricating one-
+self from       the confusing difficulty that the word "social" has acquired a precise
+                              —
+and limited meaning society as distinguishable from culture—in anthropology
+                                                                  —
+and sociology, while still having a shifting double meaning society including
+or excluding culture         —in popular usage and in many general contexts.
+        There is a real difficulty in the confusion that results from the varying usage
+of the word "society." The difficulty is unfortunate; but it can be met by keeping
+it    constandy in mind. In the present book, the effort is made to be consistent in
+saying "culture" or "cultural" whenever anything cultural is referred to. "Social"
+or "society" are used only with specific reference to the organization of indi-
+viduals into a group and their resulting relations. Culture, on the contrary, what-
+ever else it may also be        —such as a tremendous influence on human behavior—                     is
+
+always first of all the product of men in groups: a set of ideas, attitudes, and
+      —
+habits "rules"         if   one will   —evolved by men to help them in their conduct of
+life."
+
+
+       *   A further complication arises from the fact that human societies are more than merely
+innate or instinctual associations like beehives or anthills, but are also culturally shaped and
+modeled. That is, the forms which human association takes             — into nations, tribes, sects, cult
+groups, classes, castes, clans, and the like    —   all   these forms of social structure are as   much
+the result of varying cultural influences as are the particular forms of economies, technol-
+ogies, ideologies, arts, manners,       and morals at different times and     places. In short, specific
+human societies arc more determined by culture than the reverse, even though some kind
+of social life is a precondition of culture. And therewith social forms become part of culture!
+This seemingly contradictory situation is intellectually diflBcult. It touches the heart of the
+most fundamental social theorizing. A good many anthropologists and sociologists still
+shrink from facing the problem or admitting the situation to be significant. The beginner
+is    therefore advised not to try to master the difficulty at this stage, but to wait till he has
+finished the book.      He will then presumably understand what the problem is and be in a
+position cither to accept the solution suggested here, or to give his own answer. And if not
+he will still be in the company of a lot of professional social scientists of good standing.
+5 7                    ANTHROPOLOGY AND THE SOCIAL SCIENCES                          II
+
+
+
+                7.   ANTHROPOLOGY AND THE SOCIAL SCIENCES
+      All the so-called social sciences deal with cultural as well as social data.
+Caesar's reform of the calendar was a cultural innovation. His defeat of the sena-
+torial party   was a social event, but it led to institutional and therefore cultural
+changes, just as      it   affected thousands of individual lives for better or worse.
+When a historian analyzes Caesar's character and motivation, he has in fact
+gone beyond both society and culture and is operating in the field of informal,
+biographical, individual psychology. In economics, a banking system, the gold
+standard,    commerce by credit or barter, are institutions, and hence cultural
+phenomena.
+      Of all the social sciences, anthropology is perhaps the most distinctively
+culture-conscious. It aims to investigate  human culture as such: at all times,
+everywhere, in all its parts and aspects and workings. It looks for generalized
+findings as to how culture operates     —         how human beings behave under
+                                            literally,
+
+given cultural conditions       —and for the major developments of the history of
+culture.
+
+      To this breadth of aim, one thing contributed. This was the early anthropo*
+logical preoccupation with the very ancient and primitive and remote, which we
+
+have already mentioned as a possible foible or drawback. Unlettered peoples
+leave no biographies of their great men to distract one with personalities,         no
+written histories of rulers and battles. The one thing we know about them is
+their customs;       and customs are culture. The earliest men in fact have left us
+evidence of just two things: parts of their organic bodies, as represented by their
+bones; and, more abundantly, their culture, as represented by those of their
+tools   and implements which happened to be of stone and imperishable, plus
+such of their customs as may be inferable from these tools.
+      Now while some of the interest of anthropology in its earlier stages was in
+the exotic and the out-of-the-way, yet even this antiquarian motivation ulti-
+mately contributed to a broader result. Anthropologists became aware of the
+diversity of culture. They began to see the         tremendous range of its variations.
+From that, they commenced to envisage it as a totality, as no historian of one
+period or of a single people was ever Hkely to do, nor any analyst of his own
+type of civilization alone. They became aware of culture as a "universe," or vast
+field, in   which we of today and our own civilization occupy only one place of
+many. The result was a widening of a fundamental point of view, a departure
+from unconscious ethnocentricity toward relativity. This shift from naive self-
+centeredness in one's own time and spot to a broader view based on objective
+comparison is somewhat like the change from the original geocentric assump-
+tion of astronomy to the Copernican interpretation of the solar system and the
+subsequent still greater widening to a universe of galaxies.
+12                           WHAT ANTHROPOLOGY IS ABOUT                              § 7
+
+
+      A considerable differentiation of anthropology occurred on this point. The
+other social sciences recognized culture in        its   specific manifestations as they
+                                                             —
+became aware of this or that fragment or aspect of it economic or juridical or
+political or social. Anthropologists became aware of culture as such. From that
+
+they went on to try to understand its generic features and processes and their
+results.
+
+      This is one of the few points that sets off from anthropology a science which
+in the main is        almost a twin sister: sociology. Sociologists began mainly with
+the analysis of our own civilization; they kept the exotic in its place. Therefore
+as regards culture they tended to remain autocentric somewhat longer. Also, in
+dealing with ourselves, they dealt mainly with the present, and from that they
+went on to deal with the future, immediate and ultimate. This inevitably gave
+to much of early sociology some reformist or ameliorative coloring, and often a
+
+program for action. On the contrary, the reproach used to be directed at anthro-
+pology that it did not concern itself with practical solutions, or aim at better-
+ment. So far as this was true, it had at least the virtue of helping anthropology
+to remain a general or fundamental science, undistracted by questions of appli-
+
+cation from its search for basic findings and meanings. One other distinction
+is that sociology has been more concerned with strictly social problems: the
+
+relations of classes, the organization of family and society, the competitions of
+individuals within a group. The names are indeed significant here: sociology
+tends to be concerned with society, anthropology with anthropos, man, and his
+specifically human product, culture.
+
+      All in   all,   however, these are only differences of emphasis. In principle,
+sociology and anthropology are hard to keep apart. Anthropologists rate Sumner
+as one of the great names in the history of the study of man; and they feel they
+
+stand on    common ground with American sociologists like Thomas, Ogburn,
+Chapin, Sorokin, Wirth, Maclver, Parsons, and Lynd, to name only a few, and
+with Britons and Frenchmen like Hobhouse, Ginsberg, Durkheim, and Mauss.
+Sociologists on their side have been if anything even more hospitable. Almost to
+a man they are culture-conscious, know anthropological literature well, and use
+it   constantly.
+      The relations of anthropology to psychology are obviously important. The
+nature of human personality        —                                       —
+                                or let us say simply human nature must enter
+                man's social and cultural activity. However, the relations of
+vitally into all of
+
+anthropology and psychology are not easy to deal with. Psychologists began
+by taking their own culture for granted, as if it were uniform and universal,
+and then studying psychic behavior within it. Reciprocally, anthropologists
+tend to take human nature for granted, as if it were uniform, and to study the
+diverse cultures which rest upon it. In technical language, we have two variables,

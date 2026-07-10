@@ -1,0 +1,1776 @@
+2171|2      Culture systems - the model
+2172|
+2173|       Culture is . . . the system of the total extrasomatic means of
+2174|       adaptation. Such a system involves complex sets of
+2175|       relationships among people, places, and things whose
+2176|       matrix may be understood in multivariate terms,
+2177|                              LEWIS    R. B I N F O R D . 1 9 6 5 , p . 20Q
+2178|
+2179|
+2180|
+2181|
+2182|I   Systems theory, an outline
+2183|Cybernetics, or systems theory, is a complex and rapidly expanding
+2184|discipline which it would be quite impossible to condense into this
+2185|short section. T h e excellent elementary textbooks by A s h b y ( 1 9 5 6 )
+2186|and by Wiener (1948) describe the basis which we need for our
+2187|purposes and this sketch amounts to no more than an imperfect
+2188|outline intended to acquaint the reader with this kind of approach. An
+2189|exhortation to go first to these and other primary sources (e.g.
+2190|Bertalanffy 1 9 5 0 , 1 9 6 9 ; Hall and Fagan 1 9 5 6 ; Miller 1 9 6 5 ; Buckley
+2191|1 9 6 7 , 1968) cannot be emphasized too strongly.
+2192|     Nevertheless, our intention is to use this developing and poten-
+2193|tially fundamental craft to help construct a model for archaeological
+2194|processes. T h i s will inevitably be an inadequate model but still one
+2195|which may summarize our information and promise some capacity for
+2196|further development.
+2197|     Briefly, the tentative general model that we are about to develop
+2198|arises from the assumption that cultural systems are integral whole
+2199|units. Material culture, economic structure, religious dogma, and
+2200|social organization are on this hypothesis merely subsystems arbi-
+2201|trarily extracted f r o m their coupled context by the specialist academic.
+2202|T h e sociocultural system is a unit system in which all the cultural
+2203|information is a stabilized but constantly changing network of inter-
+2204|communicating attributes forming a complex whole - a dynamic
+2205|system. An extension of this assumption would suggest that material
+2206|culture can only be properly studied if its former coupling within a
+2207|sociocultural system is taken into account.
+2208|                                   C u l t u r e s y s t e m s - the m o d e l   43
+2209|
+2210|    A general system model on this basis should be representative of
+2211|cultural processes at several levels within a sociocultural unit. T h e
+2212|designation 'general' model is thus intended to convey the erstwhile
+2213|hope that the model will relate the effect of change upon cultural
+2214|entities - processes, in fact - from the level of attributes within
+2215|artefacts to that of artefacts within cultures, or kinship attributes
+2216|within social structure, or religious tenets within a dogma system. T h e
+2217|immediate purpose is therefore to give an introductory outline of the
+2218|necessary procedure, to create a tentative general system model and to
+2219|develop the preliminary implications of the general model for cultural
+2220|data.
+2221|    It would perhaps be best to start by considering the great variety of
+2222|kinds of system that exist in the world and then to take a brief look at
+2223|some of their inherent properties or regularities. It is these inherent
+2224|properties of various kinds of system which are of particular interest to
+2225|us in our pursuit of a model that tells us something about the general
+2226|behaviour of particular classes of very complex systems, regardless of
+2227|the specific state of their particular attributes. These inherent charac-
+2228|teristics of systems of the same class arise from common features in the
+2229|structure of the individual systems, the aspect commonly referred to
+2230|as 'pattern' in static concepts and which is best transformed into
+2231|'system' in dynamic situations changing with space and time. T h e
+2232|term system is here taken to embrace any 'intercommunicating
+2233|network of attributes or entities forming a complex whole'. We are
+2234|thus constructing a mind-model in which we have systems of inter-
+2235|communicating attributes or entities such that the components' states
+2236|or values change sequentially with space, time, or both and
+2237|consequently the overall system state changes with their complex
+2238|integration. T h e component attributes or entities are said to be 'inter-
+2239|communicating' in that changes in the values or states of some of these
+2240|components can be shown to alter with the value or state of some of
+2241|their neighbours. Any such change in value or state is customarily
+2242|called a transformation and a sequence of transformations following a
+2243|particular course is then called a trajectory.
+2244|   It follows from this model that any particular system state can be
+2245|shown either to be a time or space transformation of another specific
+2246|and different system state, or it can be shown that the one sys-
+2247|tem cannot be a transformation of the other - however prolonged
+2248|the operation. Archaeology revolves about numbers of decisions
+2249|grouping some sets of systems - artefacts, assemblages, cultures - as
+2250|44   Analytical Archaeology
+2251|transformations one of another and differentiating them f r o m other
+2252|sets of systems which are claimed as quite separate but parallel trans-
+2253|formation sets. T h e problems of sensibly clustering related time and
+2254|space transformations and of aligning such clusters to those respective
+2255|axes are two of the main problems of archaeology.
+2256|     T o complete this elementary picture of a system we must then add
+2257|that most systems can be acted upon by various external conditions
+2258|and can themselves act upon such conditions. T h e varying external
+2259|conditions acting upon the system are called its input and the varying
+2260|actions of the system upon its environment are called the system's
+2261|output (which output is simultaneously the environment's input and
+2262|vice versa) (figs n , 23).
+2263|     T h e organic and inorganic objects of the world provide a very large
+2264|number, possibly an infinity of classes of system. It follows that in
+2265|calling attention to the system aspect of archaeological entities we are
+2266|only drawing attention to a single part of this infinity and in doing so
+2267|we gain very little new information about these entities. In order to
+2268|progress we must specify more and more closely what special cate-
+2269|gories of system we are considering and thus define their inherent
+2270|properties. Are archaeological entities open systems, closed systems,
+2271|plastic systems, determinate or indeterminate systems, 'Black Box'
+2272|systems, Markovian systems - and so on ? One answer is that we do not
+2273|yet know what sort of system we are dealing with, we know a little
+2274|about which kinds of system are not represented and we know little
+2275| bits of these archaeological systems' behaviour that we can roughly
+2276| match in other kinds of system. What we require is a carefully built
+2277|and fitted model integrating these bits of knowledge and closely
+2278| approaching our total knowledge of archaeological systems. A
+2279| comprehensive form of such a model, capable of generating each
+2280| parameter and property at any given moment and capable of generat-
+2281| ing its progressive sequences of transformations is called a canonical
+2282| model (Ashby 1956, p. 29). A canonical representation or model
+2283| embodies the transformation trajectories of a system and this makes it
+2284| a powerful and useful model.
+2285|    We have not the space in this preamble to attempt a comprehen-
+2286|sive survey of the main kinds of system but let us instead take a look
+2287|at an arbitrary set of properties commonly found in several classes
+2288|of system and possibly related to our search for a model. Perhaps
+2289|from these bits and pieces we can construct some temporary
+2290|framework.
+2291|                                     C u l t u r e systems - the model    45
+2292|
+2293|CONTINUITY
+2294|
+2295|First of all, we are certainly dealing with systems that change as some
+2296|c o m p l e x integration of their changing attribute or entity components.
+2297|T h i s characteristic capacity for change or transformation is most often
+2298|demonstrated as a process of continuous though not necessarily
+2299|regular change - overall change brought about by successive,
+2300|infinitesimal transformations, individually imperceptible but quite
+2301|apparent in cumulative result. T h e importance of conceptualizing our
+2302|archaeological systems as d y n a m i c and continuous systems lies in the
+2303|special properties of continuous systems.
+2304|      One might take an aircraft flying across the sky as an example of a
+2305|continuous system, in that its course can be expressed as a cumulative
+2306|sequence of successive positions. N o w , if we were intent on shooting
+2307|down this aircraft we w o u l d align our missile just ahead of the aircraft
+2308|on its present course, knowing that although certain deflecting evasive
+2309|action was possible on the part of the aircraft, nevertheless it could not
+2310|precipitately change its position in the sky without describing a
+2311|continuous course between its f o r m e r and future position. T h e gun-
+2312|layer is using the property of constraint which confines the variety of
+2313|activities of a continuous system and gives rise to a certain amount of
+2314|behavioural regularity, predictable within certain limits; in the case of
+2315|the radar tracked aircraft this may be a fatal regularity. Consequently,
+2316|the characterization of our archaeological systems as continuous
+2317|systems increases the expectation of detecting constraints and resul-
+2318|tant regularities in the trajectory of such systems. T h e power of this
+2319|constraint lies in the inability of a continuous function to change other
+2320|than from one state or value to an immediately neighbouring value
+2321|(Ashby 1956, p. 1 3 3 ) . O u r first proposition towards a general model
+2322|system is therefore: that the system is d y n a m i c and continuous, with
+2323|the attributes or entities having specific values or states which vary by
+2324|successive transformations.
+2325|
+2326|FEEDBACK
+2327|
+2328|We have described the kind of system that we are trying to model as an
+2329|'intercommunicating network of attributes or entities forming a
+2330|complex whole' so that changes in some of these components may give
+2331|rise to correlated changes in some of the other system components.
+2332|T h i s concept allows us to visualize the components as having com-
+2333|municating channels between them, even though these remain as
+2334|46         Analytical Archaeology
+2335|
+2336|intangible as the magnetic field linking a moving magnet with a
+2337|changing pattern of iron filings. T h i s connection can be symbolized by
+2338|a line joining the particular attributes or entities, with an arrow
+2339|representing the direction of connection, from the source of stimulus
+2340|to the receiving attribute or entity acted upon (fig. 4i).
+2341|
+2342|
+2343|
+2344|
+2345|                      1 IN i\ 1
+2346|                                                                       V     U
+2347|
+2348|                                                       1 1     D   1             \
+2349|
+2350|
+2351|
+2352|
+2353|                                                         /             S             Fig. 4 Simple
+2354|                                                                                     feedback
+2355|(/)               07)                    (/»)           (<V)           iv)           subsystems.
+2356|(1) single    channel,   no       feedback
+2357|(ii)-(v)     looped   channels,     feedback    subsystems
+2358|
+2359|    However, it is more frequently the case that the attribute or entity
+2360|values are coupled or connected in such a manner that a change or
+2361|transformation in either one may produce a corresponding trans-
+2362|formation in the value of the other. In such a case a connecting line
+2363|and arrow must be shown in both directions constituting a 'loop' line
+2364|which may run direct (fig. 41, ii) or it may run via another attribute,
+2365|entity, or a set of such components (fig. 4iv, v); in all these cases there
+2366|is a functional loop feeding back information from the recipient to the
+2367|stimulator. Such a connection or loop constitutes a 'feedback loop' and
+2368|the recycling of information in this way constitutes feedback in which
+2369|the stimulator may be modified by the return of some of its emitted
+2370|information. Any two-way arrow in a systems diagram constitutes a
+2371|feedback subsystem although it may take various forms (fig. 4i-v).
+2372|      Since feedback subsystems will operate wherever and whenever
+2373| such a connecting 'loop' can be traced through the connections of
+2374| networks of nodes in a system, then it follows that a richly networked
+2375| system will usually integrate many such local feedback subsystems.
+2376| T h e special characteristics of such subsystems will then immeasurably
+2377| enrich and complicate the properties of the system as a whole -
+2378| providing it with great flexibility of response. Even with only four
+2379| attributes or entities, each one affecting the other three, then twenty
+2380| separate circuits can be traced through them (fig. 5). Knowing the
+2381| properties of all the twenty circuits does not give complete informa-
+2382| tion about the system. 'Such complex systems cannot be treated as an
+2383| interlaced set of more or less independent feedback circuits, but only
+2384|                                                C u l t u r e systems - the model                47
+2385|
+2386|
+2387|
+2388|
+2389|                            Fig. 5 A simple example of a complex
+2390|                            system; twenty circuits may be traced through
+2391|                            this simple network.
+2392|                            Source: Ashby 1956, p. 54.
+2393|
+2394|as a w h o l e . What is i m p o r t a n t is that c o m p l e x s y s t e m s , richly cross-
+2395|connected internally, have c o m p l e x ' " b e h a v i o u r s " ,          and that       these
+2396|" b e h a v i o u r s " can b e goal-seeking in c o m p l e x patterns' ( A s h b y 1 9 5 6 , p.
+2397|54).
+2398|       F o r our p u r p o s e s it is sufficient to recognize that m a n y of the
+2399|special qualities that s o m e t i m e s a p p e a r to e n d o w c o m p l e x entities and
+2400|s y s t e m s with intelligence - goal-seeking, adaptation, response to stim-
+2401|ulus, behaviour, self-regulation, m e m o r y , f o r e s i g h t - s t e m f r o m an
+2402|a n t h r o p o m o r p h i c view of these kinds of f e e d b a c k s u b s y s t e m s and this
+2403|kind of richly n e t w o r k e d s y s t e m . O n e m u s t be c a r e f u l not to attribute
+2404|the individual h u m a n capacity f o r reasoned thought to the material
+2405|s y s t e m s generated by h u m a n societies - they share certain similar
+2406|properties by virtue of b e i n g c o m p l e x s y s t e m s , these properties are
+2407|inherent in all such kinds of s y s t e m .
+2408|       W e can conclude this brief glance at f e e d b a c k c o u p l i n g s by dis-
+2409|cussing the two alternative f o r m s of i n f o r m a t i o n f e e d b a c k - negative
+2410|f e e d b a c k and positive f e e d b a c k . Negative f e e d b a c k is said to be
+2411|operating if the o u t g o i n g i n f o r m a t i o n (fig. 4 A to Z ) c o m e s back round
+2412|the loop ( f r o m Z to A , fig. 4) to its s o u r c e , with a size or sign such as to
+2413|diminish the source's output. T h i s kind of f e e d b a c k m a y repeatedly
+2414|recycle around the f e e d b a c k loop and c u m u l a t i v e l y d i m i n i s h the
+2415|source output to zero. A l t e r n a t i v e l y , the f e e d b a c k i n f o r m a t i o n return-
+2416|ing d o w n the loop m a y add to the source's o u t p u t , c u m u l a t i v e l y
+2417|p u s h i n g it u p as it r e c y c l e s ; this is positive f e e d b a c k . Both kinds of
+2418|feedback are important in their respective capacities f o r b r i n g i n g
+2419|s y s t e m s u p to, or a w a y f r o m , states of equilibrium or stability.
+2420|
+2421|
+2422|E Q U I L I B R I U M OR    STABILITY
+2423|
+2424|T h e vague and u n d e f i n e d usages of the t e r m s ' s y s t e m ' and 'equilib-
+2425|r i u m ' are responsible f o r m o r e ' u n r e a l ' p r o b l e m s and h a v e o b s c u r e d
+2426|u s e f u l model b u i l d i n g m o r e than any other pair of a b u s e d terms.
+2427|H a v i n g said that an entity is a s y s t e m and that it has states of
+2428|48   Analytical Archaeology
+2429|equilibrium or stability w e have said nothing at all until w e define, or
+2430|try to define, precisely what kind of system and what kind of equilib-
+2431|rium we are considering. D o we mean stable, metastable, d y n a m i c ,
+2432|steady state, unstable or statistical equilibrium, some combination of
+2433|these, or some new f o r m of equilibrium special to the entities of our
+2434|study? It is easy to see that one of the keys to our problem lies in this
+2435|simple challenge, it is less easy to provide a simple answer. We must
+2436|try to be more specific about the f o r m s of equilibrium involved
+2437|although we are sure to be guilty of some ambiguity in so fundamental
+2438|a field.
+2439|
+2440|
+2441|(1) Stable equilibrium
+2442|
+2443|A system is said to be in stable equilibrium if a small displacement
+2444|f r o m the equilibrium state gives rise to a return to that state in due
+2445|course. If w e consider a large horizontal concave mirror with a ball-
+2446|bearing at rest in the depressed centre of the mirror - then a dis-
+2447|placement of the ball-bearing away f r o m the centre will only result in
+2448|the ball oscillating about the centre and gradually reassuming its
+2449|original state. T h e centre of the horizontal concave mirror is the stable
+2450|equilibrium point for this system. Since the state of stable equilibrium
+2451|is restored by cumulatively diminishing the disturbing displacement it
+2452|follows that such systems may frequently but not exclusively be
+2453|returned to stable equilibrium by means of the 'regulating' effect of a
+2454| negative feedback subsystem. T h i s capacity for feedback subsystems
+2455| to act as 'regulators' will be discussed at some length later in this
+2456| section.
+2457|
+2458|
+2459|(2) Unstable equilibrium
+2460|
+2461|A system is said to be in unstable equilibrium if a small displacement
+2462|from the equilibrium state gives rise to a cumulatively greater dis-
+2463|placement from that specific state - usually towards some alternative
+2464|and fresh equilibrium state. If we balanced our ball-bearing on the
+2465|domed centre of a convex mirror - then any slight displacement would
+2466|cause the ball-bearing to roll down the dome and away to some new
+2467|equilibrium point. Since the state of unstable equilibrium, when
+2468|displaced, gives rise to cumulatively greater displacement, it follows
+2469|that regulating subsystems may often but not exclusively incorporate
+2470|positive feedback outputs to produce this property.
+2471|                                   Culture systems - the model         49
+2472|(3) Metastable equilibrium
+2473|
+2474|A system is said to be in metastable equilibrium if its state is only
+2475|stable in the absence of a suitable catalyst, which if introduced into the
+2476|system would immediately initiate displacement away from the equi-
+2477|librium state. The potential energy of such a system although mini-
+2478|mum is not vanishingly small (Lotka 1925, p. 143). Examples of
+2479|metastable systems are super-saturated salt solutions prior to crystal
+2480|seeding or explosive mixtures before detonation. Such systems com-
+2481|monly involve cumulative change building up to a threshold beyond
+2482|which the system cannot continue unchanged. The thresholds can be
+2483|regarded as temporarily separating one system state from a successive
+2484|sequence of system states, each separated from the other by a
+2485|threshold requiring specific 'catalytic' states or values to be intro-
+2486|duced, possibly in a particular order, before the system's trajectory can
+2487|pass from one state to another. The number and order of the 'essential'
+2488|or 'catalytic' values that must be introduced into the system before a
+2489|particular transition will take place is some measure of the 'height' of
+2490|this threshold.
+2491|
+2492|
+2493|(4) Steady state equilibrium
+2494|A system is said to be in steady state equilibrium if its state is only
+2495|stable in the presence of certain constantly maintained variables,
+2496|attribute states, or values. If we imagine a system in which a vibra-
+2497|tionless helicopter hovers motionless at a fixed point in the air,
+2498|containing in its cabin the concave mirror with the ball-bearing
+2499|motionless at its central equilibrium point - then in this case the
+2500|ball-bearing is in a steady state equilibrium. The ball-bearing will
+2501|remain in equilibrium in this system only so long as the helicopter is
+2502|maintained 'motionless' by the vigorous expenditure of energy by its
+2503|engines and rotors.
+2504|
+2505|
+2506|(5) Dynamic equilibrium
+2507|A system is said to be in dynamic equilibrium if, in spite of the
+2508|continuously changing values of its components, at successive points
+2509|in time these components closely approximate to a stable state.
+2510|Coupled systems are often said to be in dynamic equilibrium one with
+2511|another and in such cases although each system is changing, they are
+2512|50   Analytical Archaeology
+2513|jointly changing in such a way as to trace a path through successive
+2514|equilibrium points. One may imagine a giant and a man playing a
+2515|game in which a pair of scales is continuously kept in balance although
+2516|the giant successively alters the weights on his side, causing
+2517|imbalance, and the man must quickly rebalance the scale by altering
+2518|the weights on his side; every day the scales are in equilibrium, but
+2519|every day the state of equilibrium is changed - thus we have a dynamic
+2520|equilibrium with a moving balance point or value. This allusion to a
+2521|giant and a man playing a game can be compared with the relationship
+2522|between culture systems and their coupled environment systems (for
+2523| Game Theory, see below pp. 66-72).
+2524|
+2525|
+2526|
+2527|(6) Statistical   equilibrium
+2528|
+2529|Systems are said to be in statistical equilibrium if the frequency of
+2530|occurrence of the component populations continues to remain pro-
+2531|portionately allocated according to certain probabilities, regardless of
+2532|the vagaries of individual elements. It might be the case, for example,
+2533|that the populations of the three Benelux countries remain distributed
+2534|in the relative proportions of 3 13! : 1 respectively, even though all the
+2535|populations are constantly changing in numbers and people are going
+2536|to and fro across the borders. In an archaeological context one might
+2537|say that the hunting sites of a certain culture over a certain time are
+2538|characterized by populations of artefacts distributed according to the
+2539|ratio of five arrowheads, to every three scrapers, for every single burin
+2540|- even though individual sites in the class have different absolute
+2541|numbers of these artefacts (cf. different Mousterian variants in South
+2542|West France). If such observations record very large numbers of
+2543|attributes or entities and their relative frequency of occurrence then
+2544|this kind of equilibrium may well be sought for.
+2545|
+2546|
+2547|
+2548|(7) Equilibrium    basin, area, or set
+2549|
+2550|A system is said to have an equilibrium basin, area, or a stable set of
+2551|states or values, when under a certain set of conditions the trans-
+2552|formations of these values continue to remain within a limited set
+2553|constituting the 'basin' or stable region. In the preceding examples of
+2554|different classes of equilibria each case referred to the maintenance of
+2555|equilibrium existing at any one of a limited set of states or values. It
+2556|                                             C u l t u r e systems - the model   51
+2557|
+2558|follows that an equilibrium basin or stable region can be formulated
+2559|for any class of equilibrium - stable, unstable, dynamic, and so on.
+2560|
+2561|     T h i s brief survey sketches some of the different meanings that can
+2562|lie behind the term equilibrium when applied to a system. It should be
+2563|apparent that the various f o r m s of equilibrium are not necessarily
+2564|mutually exclusive, so that a particular system may illustrate an equi-
+2565|librium that is both d y n a m i c and statistical in its properties.
+2566|Furthermore, we can see that any of these equilibria may refer to
+2567|attribute or entity values and states or they may refer to vectors,
+2568|sequences of values, or rates of change. T h i s flexibility of the equilib-
+2569|rium concept constitutes its greatest asset, since if it is possible to fit
+2570|some kind of equilibrium model to our changing entities' 'behaviour'
+2571|then it is usually possible to begin some f o r m of canonical or symbolic
+2572|representation. A final observation upon this topic might usefully
+2573|re-emphasize the need to specify the qualities of the particular breed
+2574|of equilibrium under consideration and for the realization that even
+2575|within a single system different kinds of equilibrium 'behaviour' may
+2576|be illustrated, possibly relevant to the different levels of the system
+2577|and its subsystems.
+2578|
+2579|G O A L - S E E K I N G OR H O M E O S T A S I S
+2580|
+2581|Many kinds of system, especially complex richly networked systems,
+2582|may appear to have the capacity for searching-out and converging
+2583|upon 'desirable' goals or states. T h e continually self-regulating gui-
+2584|dance system of a ballistic missile is an example of such a goal-seeking
+2585|system, another is the robot           fire-extinguisher which seeks out,
+2586|approaches and puts out fires. It is important to differentiate two
+2587|properties of these systems - first, that they converge upon some state
+2588|- secondly, that the state is customarily described as a 'desirable' one, a
+2589|goal. In humanly made systems the goal usually coincides with the end
+2590|desired by the manufacturer and can hardly imply 'desire' on the part
+2591|of the system especially w h e n , in such cases as the ballistic missile, the
+2592|system has a trajectory ending in the system's own destruction.
+2593|    It is apparent that goal-seeking 'behaviour' in systems is an
+2594|anthropomorphic interpretation of - first, that a system's trajectories
+2595|converge upon states of equilibrium - secondly, that some
+2596|components of such systems act as regulators and can restrict the
+2597|variety of possible outcomes. We will discuss the aspect of regulation
+2598|and control in the next section but simple regulation is quite apparent
+2599|52   Analytical Archaeology
+2600|in such systems as the guided missile, thermostats and mechanical
+2601|governors of various kinds. Goal-seeking 'behaviour' is largely an
+2602|extension of a human interpretation to systems running towards
+2603|equilibrium states or regions, states that may be desirable or undesir-
+2604|able according to the point of view. Such equilibrium-seeking is
+2605|characteristic of complex systems and it frequently arises from posi-
+2606|tive or negative feedback loops which occasion oscillating convergence
+2607|upon a stable state. These oscillations about an equilibrium state are
+2608|also anthropomorphized as 'searching', 'scanning the set of possi-
+2609|bilities for a suitable state', 'trial and error', or 'hunt and stick' (Ashby
+2610| 1956, p. 230).
+2611|    Whether a humanly made system, such as a cultural system or an
+2612|artefact system, has a time-trajectory running from equilibrium to
+2613|equilibrium, each preselected and preconceived by its makers, or
+2614|whether such systems are stochastically running to successive equilib-
+2615|ria poses an interesting question. However, what the use of such
+2616|anthropomorphic terms implies is that the appropriate model may be
+2617|the same - it does not matter that the multilinear transformations of
+2618|the handaxe system were not 'scanning' the variety of alternative forms
+2619|for successively more effective variants - the system behaves 'as if' this
+2620|did take place. T h e 'adaptation', 'regulation', 'goal-seeking', 'memory
+2621|capacity', 'foresight' and 'evolution' of such systems have comparable
+2622| results for the systems as the related human capacities have for human
+2623| beings.
+2624|
+2625|
+2626|R E G U L A T I O N AND C O N T R O L
+2627|
+2628|Another inherent capacity of certain kinds of complex system is the
+2629|capacity to act 'as if' capable of self-control by self-regulation. When a
+2630|cold draft blows upon a thermostatically controlled oven the tempera-
+2631|ture of the oven drops, the thermostat comes into operation and
+2632|increases the temperature, the oven gets too hot and the thermostat
+2633|cuts out allowing the temperature to fall. Here we have an error-
+2634|controlled regulator oscillating about a set temperature. There are
+2635|many different ways of constructing such a regulator and conversely
+2636|many different forms that the regulation can take in a system which is
+2637|manifestly controlling its own table of 'responses' to 'stimulus'. T h e
+2638|principle behind most of these regulators is the same category of
+2639|feedback loop responsible for such other 'behavioural' characteristics
+2640|as goal-seeking. We can understand that if such complex consequences
+2641|                                     C u l t u r e s y s t e m s - the model   53
+2642|follow upon so simple a kind of circuit connection as this 'loop', then
+2643|almost any complex system is going to manifest this kind of
+2644|'behaviour'.
+2645|    As a general example let us take a particular environmental dis-
+2646|turbance 'E' acting upon - and therefore coupled to - an entity
+2647|possessing as part of its system, a subsystem 'R', through which the
+2648|input disturbance from ' E ' must pass. T h e resulting state or 'response'
+2649|of the entity ' S ' is a limited set out of the total table of possible states
+2650|'T', as restricted or constrained by the necessity of being compatible
+2651|with the output from 'R'. T h e looped subsystem through ' R ' is acting
+2652|as a constraint which reduces the total possible number of outcomes to
+2653|a restricted set according to the conditions - ' R ' is acting as a control
+2654|and regulator to the system (fig. 6).
+2655|
+2656|
+2657|
+2658|
+2659|     T h e importance of regulating and controlling subsystems of this
+2660|kind is their capacity for acting as an 'insulating' medium between the
+2661|system and its environment or context. T h e regulator blocks and
+2662|filters the extreme range of external fluctuations by constraining their
+2663|variety and maintaining the essential system parameters within certain
+2664|limits. From the point of view of survival, systems integrating good
+2665|regulating subsystems are better able to survive unchanged than
+2666|similar systems with less efficient 'insulation'. Regulation controls the
+2667|54   Analytical Archaeology
+2668|flow of variety from the environment to the system coupled to it.
+2669|Much of social and material culture can be seen as in part exercising a
+2670|regulating control over the effect of external and internal variations
+2671|upon the system outcomes. T h e law of requisite variety suggests that
+2672|only variety can modulate or destroy variety (Ashby 1956, p. 207).
+2673|Only variety or sophistication in a culture system's components can
+2674|force down the variety in the system's final states and keep them
+2675|within tolerable limits. We will return to the role of culture as a
+2676|regulator on several occasions.
+2677|
+2678|
+2679|LIMITS AND     NETWORKS
+2680|
+2681|We have been repeatedly stating that certain propositions or certain
+2682|conditions are true, or are found to operate in a system, when certain
+2683|other conditions are fulfilled, or hold a certain range of values. T h i s
+2684|proposition, or that system, or attribute state, is said to remain valid
+2685|within certain limits. If the range of these limiting conditions shrinks
+2686|to a single point or state, then we say that the proposition is 'the case'
+2687|or the system state will be 'such and such' if this condition is operat-
+2688|ing. When the system or attribute state in such conditions has become
+2689|not a possible range of values but a single value - the system state is
+2690|determinate. Conversely, if the single point expands and the limits
+2691|become infinitely wide and the same proposition or state remains
+2692|valid, then the proposition or state is 'independent' of these particular
+2693|conditions, which may vary at will without necessarily altering the
+2694|state under consideration. We may then consider these conditions so
+2695|permissive in respect of this state or trajectory that they are not
+2696|'essential variables' in the sense that they provide no constraint to the
+2697|particular state - they tell us nothing about its possible changes. T h e
+2698|situation becomes more complex when we not only say that the
+2699|limiting conditions have such and such a range but that the accom-
+2700|panying state may also have a range of probable values within limits.
+2701|T h e system is no longer fully determinate but nevertheless its states
+2702|are limited in a way that can be expressed in terms of probabilities (fig.
+2703| 10). We will shortly consider the effect of this complication upon the
+2704|amount we can say about the 'behaviour' of such a system.
+2705|   T h e discovery of the limits which constrain the variety of states of
+2706|an attribute or system enables us to understand the regularity in the
+2707|'behaviour' of the system or attribute. Such limits are sometimes
+2708|observed in relation to human activities or their products but there is
+2709|                                          C u l t u r e s y s t e m s - the m o d e l       55
+2710|
+2711|o f t e n reticence about expressing these limits on the g r o u n d s that they
+2712|are 'hopelessly broad'. T h i s observation is generally an accurate
+2713|recognition of the large range of viable or acceptable states but the
+2714|epithet 'hopelessly' broad requires modification. T h e point here is that
+2715|although the limits brought about by any one condition may be b r o a d ,
+2716|nevertheless the final effect of c o m p o u n d i n g n u m b e r s or relevantly
+2717|operating broad limits may still constrain the o u t c o m e quite tightly -
+2718|as in fig. 7. We should not abandon a t t e m p t s to investigate and define
+2719|the limits operating in a certain study s i m p l y b e c a u s e each individual
+2720|set of limits is rather broad.
+2721|
+2722|
+2723|
+2724|
+2725|                                                                                        c
+2726|
+2727|
+2728|
+2729|
+2730|Fig. 7 Compounded constraints - although the limiting conditions of
+2731|each particular constraint may be broad a-a , b-b', c-c', d-d', or sets a, b,
+2732|c, d, nevertheless their joint operation narrowly constrains the stable area
+2733|illustrated by the hatched regions.
+2734|
+2735|    T h e diagram of constraint b r o u g h t about by c o m p o u n d e d limiting
+2736|conditions (fig. 7) also enables us to m a k e another o b s e r v a t i o n . If w e
+2737|think of our limits as operating at certain points on a linear scale of
+2738|values then we tend to draw the limits as t h o u g h they w e r e t w o parallel
+2739|lines d r a w n through the operating b o u n d a r i e s (fig. 7). H o w e v e r , w e
+2740|can also think of these same limits as d e f i n i n g the b o u n d a r y of a 'set' of
+2741|values, reflecting stable areas or regions w h o s e intersecting b o u n d a r i e s
+2742|define the constrained e q u i l i b r i u m area (fig. 7). T h i s latter
+2743|modification gives us a timely r e m i n d e r that w e are consciously or
+2744|unconsciously w o r k i n g within the field of set and g r o u p theory with its
+2745|well developed theorems about intersecting sets and subsets, and their
+2746|properties. O n c e again we catch a g l i m p s e of a potentially valuable
+2747|array of techniques with a s y m b o l i c calculus q u i t e relevant to o u r
+2748|ascent f r o m iconic, through analogue to s y m b o l i c m o d e l s (Green
+2749|1965)
+2750|56      Analytical Archaeology
+2751|
+2752|     S y s t e m s can b e v i s u a l i z e d and d e p i c t e d as i n t e r l i n k e d n e t w o r k s of
+2753|a t t r i b u t e s or entities f o r m i n g a c o m p l e x w h o l e , a c o n c e p t w h i c h g i v e s
+2754|rise to t h e static i m p r e s s i o n of s t r u c t u r e and p a t t e r n w i t h i n v a r i o u s
+2755|entities. O n e c o n s e q u e n c e of the n e t w o r k e d n a t u r e of s u c h c o m p l e x
+2756|s y s t e m s is the i n h e r e n t c a p a c i t y for the s y s t e m t o h a v e m o r e p r o p e r t i e s
+2757|t h a n s i m p l y the s u m of t h o s e of its c o m p o n e n t s (fig. 5).                    Another
+2758|property        worthy       of o u r attention i n v o l v e s t h e infinite n u m b e r                   of
+2759|system       c i r c u i t s that   can b e      recognized          as o p e r a t i n g   as   networks
+2760|t h r o u g h t h e a t t r i b u t e n o d e s of any c o m p l e x e n t i t y , f o r e x a m p l e t h e
+2761|t w e n t y alternative c i r c u i t s l i n k i n g the f o u r a t t r i b u t e s of the e n t i t y in
+2762|fig- 5-
+2763|     T h i s p r o p e r t y is s i m p l y e x p r e s s e d in fig. 8. T h i s illustration h e l p s
+2764|us to u n d e r s t a n d that any p e r s o n , a t t r i b u t e , or a c t i v i t y m a y b e a
+2765|
+2766|
+2767|
+2768|
+2769|       Entity A                      Entity A                    Entity A                     Entity A
+2770|     subsystem 1                    subsystem 2                subsystem 3                   subsystem 4
+2771|
+2772|  Fig. 8 A simple illustration of the vast number of network subsystems
+2773|  which may simultaneously or sequentially operate through the nodes of a
+2774|  system.
+2775|
+2776|
+2777|simultaneous            member          of    hundreds         of    'independent'            systems        or
+2778|s u b s y s t e m s , each o p e r a t i n g for q u i t e d i f f e r e n t p u r p o s e s a n d at q u i t e
+2779|d i f f e r e n t levels. O n e e x a m p l e w o u l d b e the m a n w h o at one a n d t h e
+2780|s a m e t i m e b e l o n g e d to a f o o t b a l l t e a m , a political p a r t y , a f a m i l y , a
+2781|m i l i t a r y unit, a w o r k i n g party and so on - the m a n is a single n o d e
+2782|t h r o u g h w h i c h m a n y d i f f e r e n t s y s t e m s o p e r a t e . A n o t h e r e x a m p l e is
+2783|that of       most h u m a n         a c t i o n s a n d activities.        An     archaeologist          may
+2784|a p p e a r o n t e l e v i s i o n b e c a u s e the act s i m u l t a n e o u s l y satisfies personal
+2785|s y s t e m s d e s i g n e d to earn m o n e y , to i n f o r m an a u d i e n c e , to satisfy a
+2786|p s y c h o l o g i c a l n e e d , for p r o p a g a n d a p u r p o s e s , to increase status a n d to
+2787|fulfil s o m e       obligation.        In these e x a m p l e s t h e           node       uniting      these
+2788|v a r i o u s s y s t e m s m a y also be u s e f u l l y t h o u g h t of as a v e c t o r of the
+2789|m a n y s y s t e m s a c t i n g t h r o u g h it.
+2790|      T h i s e x a m p l e h e l p s to p o i n t out that a c c o r d i n g to the particular
+2791|system and network under study                             s o m e n o d e s will be relevant                or
+2792|                                            C u l t u r e s y s t e m s - the m o d e l   57
+2793|
+2794|activated and others may not (fig. 8). T h i s is yet another way of looking
+2795|at the 'essential variables' taking part in some system trajectory and
+2796|differentiating them f r o m similar but inactive nodes loosely belonging
+2797|to the same entity but not actively involved in the particular system
+2798|development under investigation. T h e essential variables are the
+2799|attributes which are relevant to the frame of reference of the study -
+2800|they are the attributes connected within the system of interest. A point
+2801|which should recall the 'artificial' selection of attributes for study in
+2802|connection with particular problems.
+2803|
+2804|
+2805|A D A P T A T I O N AND D I R E C T I V E   CORRELATION
+2806|
+2807|In any coupled systems or subsystems, a change in attribute states in
+2808|one system may frequently occasion similar changes in the coupled
+2809|partner, especially if the systems are jointly in equilibrium. When an
+2810|observer notices that a change in an environment system is connected
+2811|with accompanying changes in a coupled culture system, then he
+2812|anthropomorphizes this change as an 'adaptation' by the one system to
+2813|changes in the other. We see that this adaptive response is merely a
+2814|particular case of jointly correlated transformations in coupled
+2815|systems, to be found in any such systems of more than a very simple
+2816|structure. T h e r e are scarcely any cases of coupled complex systems
+2817|that do not manifest such 'response' by one partner to 'stimulus' by the
+2818|other, or the successive sequence of 'adaptation' that follows series of
+2819|such changes. Adaptation is an anthropomorphic label for a com-
+2820|monplace property inherent in most coupled complex systems.
+2821|     Further consideration of adaptive changes with changing condi-
+2822|tions leads us to realize that only certain attributes in either system
+2823|need change in such situations. T h e attribute states or values that do
+2824|change are those 'essential variables' whose stability limits are
+2825|exceeded by the particular transitions under consideration. Other
+2826|attribute states or values will remain unchanged in the system because
+2827|their 'tolerance' is greater than that of the other 'essential variables';
+2828|that is to say the set of stable values within their threshold basin is
+2829|sufficient to contain the fresh disturbances without transformation.
+2830|T h e key 'essential variables' will consequently be different attributes
+2831|according to the nature and extent of the particular changes being
+2832|considered in the coupled system.
+2833|    In anthropology and archaeology it is usually the case that the
+2834|systems have a past condition, a present condition and a future
+2835|58   Analytical Archaeology
+2836|
+2837|condition, or overall state. In most of these systems the future condi-
+2838|tion or state is some function of not only the present condition of the
+2839|system but also of a whole sequence of 'essential' variables in past
+2840|states of the system. Whether Britain should declare war on Germany
+2841|over the Polish issue, in 1939, depended not only on the then condi-
+2842|tion of Britain but also upon the whole sequence of alliance conditions
+2843|leading up to that time. What happened in this case was some function
+2844|of those relevant past and contemporary conditions and the causally
+2845|relevant field conditions of the European environment at the time. In
+2846|every system changing or 'adapting' with time there is a certain limited
+2847|set of attributes or entities whose past and present variation is essen-
+2848|tially relevant to some future condition of the system - following
+2849|Sommerhoff we will call this limited set 'directively correlated'
+2850|towards this future condition (Sommerhoff 1950, pp. 3 7 - 1 1 0 ) .
+2851|      A specific future condition is attainable only if the system's attri-
+2852|bute states fall within a particular sequence of sets defining the variety
+2853|of possible trajectories to that future condition. T h e range of permis-
+2854|sible variation in the set of past and present states in order to attain the
+2855|future condition may be taken as a measure of the degree of the
+2856|directive correlation. T h e number of correlated variables involved in
+2857|any directive correlation may be taken as the order of the correlation.
+2858|T h i s concept, expressing the degree and order of directive correlation
+2859|within a systems time-trajectory, is closely connected with the concept
+2860|of the degree of 'coherence', the strength or degree of 'integral
+2861|definition' of a cultural tradition and we shall later attempt to use this
+2862|measure (chapter 5). We may hope to distinguish between those
+2863|attributes of a system which are directively correlated towards some
+2864|future condition, the essential variables framed in reference to the
+2865|future condition, and those attributes which are not correlated
+2866|towards this condition and which may thus vary within less con-
+2867|strained limits, with less regularity (fig. n ) . A distinction once again
+2868|reminiscent of that between 'information' and 'noise' in communica-
+2869|tion systems.
+2870|
+2871|
+2872|T H E P R O B L E M OF T H E I N C O M P L E T E A N D V E R Y   LARGE
+2873|BLACK    BOX
+2874|
+2875|T h i s analogy represents the archaeologist and anthropologist as
+2876|investigators attempting to analyse very complex and incompletely
+2877|observable systems whose internal mechanisms and subsystems are
+2878|                                    Culture systems - the model         59
+2879|
+2880|never fully available for inspection. T h e analogy stresses that the
+2881|approach to the problems of cultural analysis must be made in the
+2882|light of the nature of the data and the probes available to the analyst.
+2883|In particular the analogy raises the whole problem of how the analyst
+2884|can proceed when faced with such severe handicaps, what properties
+2885|are and are not discoverable in this context and what are the most
+2886|efficient methods to use? T h e terms of this analogy subsume the
+2887|classic systems problems of the Black Box, the Very Large Box and the
+2888|Incompletely Observable Box (Ashby 1956, pp. 8 6 - 1 1 7 ) .
+2889|    T h e problem of the Black Box arises in theoretical and practical
+2890|terms when the investigator is faced with a complex system,
+2891|completely concealed but for an input terminal and an output
+2892|terminal. T h e only information available about the system within the
+2893|box must come from observing the changing relationships between
+2894|varying values at the input and output terminals. Consequently the
+2895|investigation of Black Box systems depends upon the tabulation of as
+2896|many varied input states and sequences of states as is possible together
+2897|with a record of the corresponding output states. T h e investigator will
+2898|primarily look for any evidence for constraint in the variety of states
+2899|and for regularities in states or sequences of states, such regularities as
+2900|we can often observe in archaeological and anthropological data.
+2901|Above all, the investigator will be trying to make the system deter-
+2902|minate so that the consequences of a given input are known and can be
+2903|expressed as a limited set of output states. T h i s output set may be a
+2904|single state or a large number of states or values, the set may merely
+2905|encompass a variety of probabilities for outcomes - a stochastic table,
+2906|or a sequence of possible states, but essentially the set and the possible
+2907|variety of outcome is limited, however broad the limits, however
+2908|complex the limitation.
+2909|     On the basis of such observations the investigator should be able to
+2910|draw up a canonical model representing the transformation pattern of
+2911|the Black Box and capable of expression as an isomorphic system.
+2912|That is to say representation by a system 'with the same pattern' of
+2913|behaviour as far as the frame of reference of the observations go - the
+2914|greater the variety of observed data incorporated the closer the iso-
+2915|morphic model comes to the 'real' system within the box. In this sense
+2916|a map can be understood as an isomorphic model of the countryside
+2917|and most models may be conceived as diagrammatic, iconic, symbolic,
+2918|electrical or mechanical isomorphs of their particular problem 'boxes'.
+2919|T h e analog computer and the digital computer can act as precisely
+2920|60   Analytical Archaeology
+2921|such kinds of isomorphic models and their output may be made to
+2922|represent the 'behaviour of the problem box under investigation.
+2923|     These brief observations on Black Box problems show that it is
+2924|theoretically possible to produce a very accurate and powerful model
+2925|of such obscure systems in spite of their shroud, if the correct investi-
+2926|gating procedure is adopted. T h e crucial part of this procedure is the
+2927|attempt to organize, rewrite, rearrange or relabel the observed trans-
+2928|formations in such a way as to make them determinate. In this crucial
+2929|activity intelligent juggling and particularly the arbitrary choice of
+2930|variables play a central role.
+2931|     If we take our Black Box and make it a very large box, with room
+2932|for an enormously large and richly networked system then a new
+2933|aspect arises. We may have accumulated quite a set of data about the
+2934|properties of the individual components of the system before it was
+2935|assembled in the secrecy of the box, or conversely after it has been
+2936|excavated in fragments, and we may hope to integrate these obser-
+2937|vations in a comprehensive model of the new system. However, our
+2938|elementary study warned us that the properties of systems are not
+2939|simply the aggregate of the properties of their component subsystems.
+2940|It is an important property of such systems and populations that their
+2941|properties are more complex than the simple sum of the properties of
+2942|the components. T h e reason for this we have seen to be the exponen-
+2943|tially increasing number of alternative circuits and subsystems that
+2944|result from the introduction of just one new node and some channels
+2945| (fig. 5). T h e overall result is that when we test the 'behaviour' of the
+2946| newly assembled very large Black Box we will often find that unexpec-
+2947|ted and newly 'emergent' properties appear - sometimes very
+2948| important and surprising ones. A s an example one might take the
+2949| 'emergent' property of television pictures as a surprising result of
+2950| networking some valves, an amplifier and a tube in a certain way with
+2951| other components - none of which independently produces pictures.
+2952|    T h e cultural importance of very large box systems is that the
+2953|archaeologist and anthropologist ought not to be surprised when
+2954|systems networking the same components show discrepant properties.
+2955|Furthermore, it seems that the 'invention' or development of new
+2956|properties and 'behaviour', sometimes of a dramatically important
+2957|kind, frequently follows the insignificant rearrangement of otherwise
+2958|well-tested components.
+2959|    T h e last modification of the box in order to make it more like our
+2960|complex systems, has stipulated that it has been incompletely re-
+2961|                                   C u l t u r e s y s t e m s - the model   61
+2962|covered and therefore incompletely observed. T h e archaeologist has
+2963|only a fragmentary and partially studied segment of the real systems,
+2964|and even the anthropologist has a similarly biased and limited set of
+2965|information about his systems. It is important to note at this point that
+2966|a complex entity contains a great number of connected but separate
+2967|circuits of systems and specialists studying the same entity may often
+2968|be studying quite different circuit systems of the one entity (fig. 8).
+2969|T h e anthropologist looks at aspects of the social system of cultures,
+2970|archaeologists and ethnologists look at the material system of the same
+2971|cultures - the systems are not the same and yet neither are
+2972|they unconnected. Serious dangers await those who transfer observa-
+2973|tions about the one class of system to the other (Allen and Richardson
+2974|1 9 7 1 ) and yet it is important that the coupling between the different
+2975|systems and their attributes should be explored and made explicit
+2976|(chapter 9).
+2977|      T h e incompletely recovered or observed system can often be made
+2978|determinate by considering the sequences of attribute states or values
+2979|in the table of known variation and by expressing these sequences as
+2980|vectors. This assumes that any state of the system can be expressed 'in
+2981|the light of' its preceding sequences of states and their attribute
+2982|trajectories. This hindsight on the part of the investigator is the device
+2983|which enables him to talk of directive correlation towards future
+2984|conditions of the system and enables him to restore some predic-
+2985|tability. Nevertheless, this hindsight and the observer are alone
+2986|responsible for the system appearing to have 'a memory' and to be
+2987|moving towards a known 'goal', providing another anthropomorphic
+2988|view of a lifeless system.
+2989|      We can summarize by suggesting that archaeological and anthro-
+2990|pological systems present the classic problems of the Black Box, the
+2991|Very Large Box, and the Incompletely Observable Box. T h i s section
+2992|has described the special problems of these kinds of system and the
+2993|special measures necessary to get them into a determinate form. T h e
+2994|greatest difficulty resides in the selection and definition of the 'essen-
+2995|tial variables' among the vast numbers and levels of variables that
+2996|could be considered - especially since these 'essential variables' may
+2997|turn out to be such vectors as 'sequences of states' or 'rates of change'.
+2998|Many archaeologists and anthropologists would deny the possibility
+2999|of ever getting their systems into a determinate form but fortu-
+3000|nately, with the increasing acknowledgement of the complexity
+3001|of such systems there has come increasing success in their useful
+3002|02    Analytical Archaeology
+3003|
+3004|manipulation; initial oversimplification has always been the biggest
+3005|barrier to progressive research (Murdock 1949; Steward 1955).
+3006|
+3007|
+3008|C H A N G E IN T H E S I M P L E        SYSTEM
+3009|
+3010|T o conclude these observations on some of the inherent properties of
+3011|certain kinds of system we should consider the aspect of continuous
+3012|change. If we take a simple system with four attribute states or values
+3013|a, b, c, d, or similarly if we take four systems a, b, c, d, we may imagine
+3014|that there might be three alternative changes or transformations of
+3015|these states according to the specific conditions of the system at the
+3016|time - let us call these alternative conditions R i , R2, R3. Under
+3017|conditions R i the transformation functions so that a changes to c, b to
+3018|d, c to d, and d to b; this transformation would usually be written:
+3019|
+3020|                                                , a       b   c   d
+3021|                                            Ri: I
+3022|                                                  c      d    d   b
+3023|
+3024|with the arrow giving the direction of the transformation. Under other
+3025|conditions, R2, R3, other transformations would operate with
+3026|different results, let us say:
+3027|
+3028|                          , a       b       c       d              , a       b       c   d
+3029|                      R2:1                              and   R3 : 1
+3030|                            b     a     d       e                    d       c   d       b
+3031|
+3032|T h e point of this arbitrary example is that all of this cumbersome
+3033|information can be succintly expressed as a table or matrix of trans-
+3034|formations, thus:
+3035|
+3036|                                                                  i
+3037|                T r a n s f o r m a t i o n s of system(s)
+3038|                a, b, c, d, under conditions                      Ri     c       d       d   b
+3039|                                                                  Rz     b a d e
+3040|                                                                  R3
+3041|                                                                         d       c       d   b
+3042|
+3043|Archaeological and anthropological data is frequently of this cumber-
+3044|some form, with many alternative transformation values according to
+3045|the conditions and consequently this kind of table or matrix is a
+3046|convenient device for portraying these observations (fig. 16).
+3047|    T h e table just illustrated depicts only transformations that are
+3048|closed and single-valued. T h a t is to say, the results of the trans-
+3049|formations R i , R2, R3, do not create any new states, no x or y appear,
+3050|only combinations of a, b, c, d\ under such conditions the trans-
+3051|formations are said to be 'closed'. Similarly, the term 'single-valued'
+3052|                                  C u l t u r e systems - the model   63
+3053|restricts these observations to cases where the given transformation of
+3054|a particular state has only one possible result - thus, a -* b. Clearly,
+3055|there are many real cases where the transformation of a could give
+3056|either b, or c, or d, with equal probability, or with more sophistication
+3057|we can imagine a system in which the single transformations of a
+3058|might not only be a large number of alternative states but they might
+3059|well have varying probabilities according to the conditions. This latter
+3060|elaboration is only a moderate one and yet it will obviously produce a
+3061|bewildering degree of complication. Furthermore, experience would
+3062|seem to suggest that archaeological and anthropological trans-
+3063|formations are rarely closed and single-valued but, on the contrary,
+3064|they are usually many-valued on a probability basis dependent upon
+3065|the conditions. We have therefore developed a model transformation
+3066|table of the right general order but not of the right specific level.
+3067|     It would seem that archaeological systems are unlikely to involve
+3068|only closed or single-valued transformations and they are unlikely to
+3069|be simply 'determinate'. That is to say that the 'behaviour' of the
+3070|system is unlikely to be predictable on the basis of single chains or
+3071|trajectories of transformations. Nevertheless, we intuitively gather
+3072|that the frequencies or probabilities of a limited set of derivative
+3073|transformations might be susceptible to definition on the basis of the
+3074|acknowledged constraint and regularities in the observable data. A
+3075|culture and its artefacts are as incapable of immediate and complete
+3076|transformation as the example of the flying aeroplane or any other
+3077|continuous system. We appear to be looking for a system which may or
+3078|may not be determinate, single-valued, or closed and which operates
+3079|as if on a probability basis, with the transformations dependent upon
+3080|certain limiting conditions. Conveniently, Ross Ashby develops such a
+3081|model system - the Markovian system, which we can use as a basis for
+3082|further modifications (Ashby 1956, p. 225).
+3083|     Now any process which may be described in terms of probabilities
+3084|can be correctly called a 'stochastic process* (Cherry 1957, pp. 38-9,
+3085|306). It would seem that our desired canonical model might be a
+3086|system with transformations that can be summarized as a stochastic
+3087|table or matrix of probable outcomes. One example of such a stochas-
+3088|tic sequence or chain is called the Markov chain after its discoverer A.
+3089|A. Markov, who in 1 9 1 3 published a statistical study of Pushkin's
+3090|novel Eugene Onégin. The Markov chain originally implied any pro-
+3091|cess generating a stochastic series, the adjacent terms of which are
+3092|related by given transition probabilities. Ross Ashby develops his
+3093|64    Analytical Archaeology
+3094|Markovian system by considering a system whose 'behaviour' can be
+3095|summarized by a matrix or table of probabilities such that the pro-
+3096|babilities of transition from one value or state to another do not
+3097|depend on any earlier states of the attributes or systems. In other
+3098|words if a goes to b in 60 per cent of the cases then it must do so
+3099|regardless of whether it is an a transformed from a former state d or
+3100|an a that was formerly of state c; its present transformation must take
+3101|no account of the former trajectory of the state a. Such a system
+3102|constitutes a Markovian system which can then be expressed canonic-
+3103|ally as a matrix with entities expressing the frequency or probability of
+3104|that particular state or value being transformed to some other state,
+3105|under the conditions specified for that transformation, thus:
+3106|
+3107|                                        1   a     b         e         d
+3108|     Transformations of system(s)
+3109|     a, b, c, d, under conditions R i   a   o-o       01        00         10
+3110|                                        b   0-3       04        0-2       O-O
+3111|                                        c   o-6       0*2       o-i       o-o
+3112|                                        d   o-i       0-3       0-7       o-o
+3113|
+3114|
+3115|T h i s matrix, for example, expresses the observations that state d will
+3116|only change to state a, whereas state c may go with varying frequency
+3117|to states b, c, d and state c cannot be transformed into state a - given
+3118|conditions R i for this system.
+3119|      However, our real situations still differ from this strict Markov
+3120|system in that the transformations of our entities are likely to have
+3121|probabilities of transition that do depend on the previous states or
+3122|trajectory of the component attributes or systems. Furthermore, the
+3123|matrix of transition probabilities should ideally vary with varying
+3124|conditions and we cannot guarantee that the ratio expressing the
+3125|relative proportion of alternative transformations is exactly constant.
+3126|Our problem systems are apparently stochastic but not fully Marko-
+3127|vian in expression; let us therefore call them Semi-Markovian for the
+3128|moment.
+3129|       Now, fortunately it is possible to modify the strict Markovian
+3130| model to accommodate most of these peculiar requirements. In the
+3131|first place it is usually possible to re-code such a Semi-Markovian
+3132|system in a Markov form by treating each state not as a single value
+3133|but as a vector expressing that state's previous change trajectory.
+3134| Instead of individual states a, b, c, d, we can take the transition
+3135|sequences as our entities, thus: (a-b), (b-c), (c-d), etc., and providing
+3136|                                         C u l t u r e systems - the model   65
+3137|
+3138|the system is found to produce trajectories in which some transition
+3139|probabilities depend on what states preceded the present ones, then
+3140|although not Markovian in its original form it can often be re-written
+3141|in vector form as a Semi-Markovian system (Ashby 1956, p. 1 7 1 ) .
+3142|    When such Semi-Markovian systems have transformations linked
+3143|or limited by preceding sequences of transformations the whole
+3144|system appears to be acting 'in the light o f its previous history - such
+3145|systems are said to appear to have a 'memory' (fig. 9, left). T h i s again
+3146|amounts to an anthropomorphic view of systems. In order to express
+3147|this capacity of our systems to have modified outcomes according to
+3148|past trajectories we can integrate some of the observations scattered in
+3149|the preceding text. T h e matrix of possible transformations or
+3150|'responses' expresses the limits of the set of possible outcomes under
+3151|varying conditions (fig. 10) - it is a summary of observable data. T h i s
+3152|table is the same table of possible outcomes or responses that we
+3153|portrayed in the section on regulation and control as ' T ' (fig. 6). In
+3154|that section we saw how the actual outcome of the table could be
+3155|modified or controlled by subsystem ' R ' which regulated the eventual
+3156|state of the system ' S ' in the light of the operating conditions 'E'. If in
+3157|
+3158|
+3159|
+3160|
+3161|   Memory store                                                  Outcome
+3162|   of prior                                                      system
+3163|   trayectoria*                                                  state
+3164|   and states
+3165|
+3166|
+3167|
+3168|
+3169|                             system
+3170|
+3171|                                               t
+3172|                                        Environmental or
+3173|                                      context system state
+3174|
+3175|     Fig. 9 A simple system with a controlling 'R' and a controlling
+3176|     'memory' store '.Zs' - the future transformations of the system will
+3177|     be limited by the previous trajectory of the system.
+3178|66    Analytical Archaeology
+3179|
+3180|addition we now feed stored information on the systems' past tra-
+3181|jectory '.Zs' into the regulator then that aspect will also be expected to
+3182|further constrain the particular outcome from the table of possible
+3183|outcomes "T" (fig. 9).
+3184|
+3185|                                     I        a         b          c           d
+3186|     Transformations of
+3187|       system(s) a, b, c, d,         a       o-o       01         o-o         I -O
+3188|       under conditions              b                 0-4        0-2         o-o
+3189|                                     c      o-6        0-2        O- I        o-o
+3190|                                     d      o-1        0-3        0-7         o-o
+3191|                                     b       05        o-1        I 0         01
+3192|                               Rz
+3193|                                     c       03        03         o-o         0-5
+3194|                                     d       o-1       0-4        o-o         0-4
+3195|                                     e       o- I      0-2        o-o         o-o
+3196|                                     c       09        O- I       o-o         03
+3197|                                     d       o-o       0-4        0-2         o-7
+3198|                               R3    e       01        04         0-7         o-o
+3199|                                     i       o-o       o-i        O- I        o-o
+3200|                                     d       o-o       o-o        O-O         o-o
+3201|                                     e       0-2       0-3        0-4         o-o
+3202|                               R+                                             0-6
+3203|                                     f       0-3       0-4        0-5
+3204|                                     e       0-5       03         o- I        04
+3205|                                    Assume that the transformations of
+3206|                                    e, /, g, remain e, f , g, respectively.
+3207|
+3208|     Fig. 10 Table 'T' - expressing the probabilities or frequencies of
+3209|     alternative transitions for a simple system or systems a,b,c, d, under
+3210|     varying conditions. See 'T' in figs. 6, 9, 11.
+3211|
+3212|    T h i s table or canonical model (fig. 10) remains a lifeless lay-figure
+3213|since it refers to no particular real situation and it is still arbitrarily
+3214|simplified. Nevertheless we have introduced multi-value or multi-state
+3215|transformations according to varying conditions and with varying
+3216|probabilities. However, the conditions and the states are still limited
+3217|to a mere handful and we have not discussed the problem of defining
+3218|these continuously changing states, nor have we attempted to express
+3219|the a, b, c, d states as vectors. Despite these objections the grossly
+3220|simplified model can begin to help us understand some of the inherent
+3221|difficulties and properties of cultural systems.
+3222|
+3223|
+3224|GAME T H E O R Y
+3225|
+3226|One development of this model is that we can resume our analogy
+3227|between 'cultural systems' and their 'environmental context' as
+3228|                                    Culture systems - the model           67
+3229|
+3230|complex two-player games with various strategies and equilibrium
+3231|trajectories (Neumann and Morgenstern 1947). T h e table of trans-
+3232|formations (fig. 10), does not refer to a real system nor the conditions
+3233|R 1 - R 4 to real conditions - they have been constructed as a temporary
+3234|and simple analogue model. T a k e n in this light we can use the
+3235|canonical table as though it were the list of permitted moves in a game
+3236|between system or systems a, b, c, d, and changing conditions R i , R 2 ,
+3237|R 3 , R4 - conditions which we can either consider changing in geo-
+3238|graphical space, R i in this area, R 2 in that, or we can consider them
+3239|changing sequentially in time R i to R4. T h i s dimensionless approach
+3240|to system transformations helps to underline the characteristics of
+3241|system variation in space shared with system variation in time. We can
+3242|now play through a few transformations and consider the possible
+3243|outcome of real and more complex situations. In the next chapter game
+3244|theory will provide us with real and predictive models for real situa-
+3245|tions.
+3246|     Let us first of all play through the most probable and the least
+3247|probable outcomes starting in each case with two identical systems a,
+3248|b, c, d, and with conditions changing successively from R i to R 2 to R 3
+3249|to R4 as though these conditions were a time sequence, then according
+3250|to our model, fig. 1 0 :
+3251|                                    I    a   b   c   d   Initial system
+3252|    Example    (/)
+3253|                                                         state
+3254|    Most probable outcome system    Ri   c   b   d   a
+3255|    a, b, c, d, under conditions    Rz   b   d   c   b
+3256|                                    R3   d   d   e   d
+3257|                                    r4   f   i   e   (
+3258|
+3259|    Example    (2)
+3260|                                    1    a   b   c   d   Initial system
+3261|    Least probable outcome system                        state
+3262|    a, b, c, d, under conditions    Ri   d   a   c   a
+3263|                                    Rz   b   e   b   d
+3264|    From model                      R3   f   e   c   c
+3265|    table, fig. 10                  R4   f   e   g   e
+3266|
+3267|    These two examples show how very diverse are the multilinear
+3268|trajectories and system states that can develop from identical systems
+3269|changing under identical conditions. If left to these transformations all
+3270|examples of the system a, b, c, d would eventually yield systems
+3271|composed entirely of combinations of e, /, g, since we stipulated that
+3272|the transformation of these would give themselves (e to e, f to f , g to
+3273|g). T h e system would in this sense ultimately change into another
+3274|68    Analytical Archaeology
+3275|system or systems, from one formerly composed of a, b, c,ds to others
+3276|composed of e, f , gs - new states which successively and cumulatively
+3277|appear under the sequence of conditions. These systems of e, f , gs are
+3278|immutable under the rules stipulated here and therefore constitute
+3279|stable equilibria for this system. From an examination of just these
+3280|two possible trajectories of the changing system a, b, c, d we can
+3281|understand that the development of classes of such systems must
+3282|always be multilinear with some particular trajectories diverging
+3283|towards novel patterns and others converging upon stable equilibrium
+3284|basins, often by oscillating trajectories (column trajectories c-d-c-e and
+3285|c-b-c-g in each example under attribute c).
+3286|      The transformation of system a, b, c, d into another, e, f , g, also
+3287|draws our attention to the 'birth' and 'death' of systems. We see that
+3288|the cumulative and successive introduction of new states or attributes
+3289|can gradually transform the whole system. In our two examples the
+3290|first glimpse of the new e, f , g pattern appears under R2 with b, e, b, d
+3291|in trajectory (2) and under R3 with d, d, e, d in (1). Although this
+3292|so-called system 'death'/'birth' transition may be abrupt, nevertheless
+3293|in the majority of cases it will be gradually accomplished by the
+3294|cumulative and successive introduction of new states. A process which
+3295|illustrates the polythetic nature of this kind of system and its changing
+3296|forms - for example, the transition from a basically a, b, c, d system to
+3297|an e
+3298|      > /> i system may be judged to have occurred when more than 50
+3299|per cent (or some other percentage) of the elements have reached
+3300|values typical of the new system; this occurs in both examples in the
+3301|transformation R 3 to R4 but in other trajectories of this same system
+3302|could occur R2 to R 3 - multilinear change across a threshold is not
+3303|usually sudden or contemporaneous.
+3304|      Another aspect of this same polythetic process reproduces the
+3305|'threshold' phenomenon discussed earlier under kinds of equilibria.
+3306|The 50 per cent threshold separating system a, b, c, d from new
+3307|system e, f , g is approached under trajectory (1) by transition from
+3308| 0 - 2 5 - 1 0 0 per cent ( R 2 - R 3 - R 4 ) of new elements, and in trajectory (2)
+3309| by transition from 0—25-50-100 per cent ( R 1 - R 2 - R 3 - R 4 ) . Here we
+3310|are observing the cumulative and successive introduction of new states
+3311|which do not change the overall system network immediately and
+3312| independently but which build up by cumulative effect to a threshold
+3313| of metastable equilibrium. At this crucial point the introduction of a
+3314| single new element precipitates the system into a new pattern and in
+3315| this case a new stable equilibrium region. We can understand that
+3316|                                          Culture systems - the model                           69
+3317|cumulative effect building up to a threshold is especially characteristic
+3318|of our sorts of polythetic system. T h e 'death' and 'birth' of our systems
+3319|is no more than their reformation by cumulative transformation.
+3320|    In a final look at our canonical model (fig. 10) we might usefully
+3321|consider the three following trajectories of three a, b, c, d, systems,
+3322|leading from identical state (a, b, c, d) to another identical state (g, g, g,
+3323|g) under identical conditions ( R i , R2, R 3 , R4) but by very different
+3324|trajectories:
+3325|
+3326|                                                                Trajectories
+3327|Example nos                                         (3)             (4)                 (S)
+3328|                                      I     a   b     c d   i   a   b   c d     I   a   b   c   d
+3329|Various possible outcomes of system
+3330|a, b, c, d, under conditions          Ri    d a       c a       c   b d     a       b a     b a
+3331|                                      R2    d c       b c       b   d b     b       d c     d b
+3332|From model                            R3    c d       d d       d   d d     d       c d     c d
+3333|table, fig. 10                        R4    g   g     g g       g g     g   g       g   g   g g
+3334|
+3335|    These trajectories remind us that regularities in our changing
+3336|systems can be caused by correlated constraint in a variety of initial
+3337|states, terminal states, field conditions, or trajectories, and they can
+3338|arise from any one or any combination of these four classes of variety.
+3339|In this particular example we have a regularity involving the same
+3340|initial states (a, b, c, d), terminal states (g, g, g, g) and the same field
+3341|conditions ( R 1 - R 4 ) but brought about by differing individual tra-
+3342|jectories (Examples (3) (4) (5)). If we take the R i stage of these three
+3343|systems - (3) d, a, c, a (4) c, b, d, a (5) b, a, b, a and imagine that we
+3344|knew only these phases as the 'initial states' then the example equally
+3345|shows how three different systems can run to the same terminal state.
+3346|If, as we assert, regularities arise as the noticeable association of
+3347|constraint in one variety of attribute with constraint in another
+3348|variety, then with four classes of variety - initial state, terminal state,
+3349|field conditions, and trajectories (sequences) - we have in outline at
+3350|least eleven kinds of regularity linking correlated constraint in sets of:
+3351|
+3352|      (1) initial states/terminal states
+3353|      (2) initial states/field conditions
+3354|      (3) initial states/trajectories
+3355|      (4) terminal states/field conditions
+3356|      (5) terminal states/trajectories
+3357|      (6) field conditions/trajectories
+3358|      (7) initial states/terminal states/field conditions
+3359|      (8) initial states/terminal states/trajectories
+3360|70    Analytical Archaeology
+3361|        (9) terminal states/field conditions/trajectories
+3362|     (10) field conditions/trajectories/initial states
+3363|     ( 1 1 ) initial states/terminal states/field conditions/trajectories.
+3364|
+3365|     T h i s list emphasizes the number of different kinds of regularity
+3366|which might exist in data documenting systems of the kind under
+3367|investigation. T h e difficulties involved in isolating and defining
+3368|suitable 'essential variables' and their relevant states together with
+3369|the difficulty of deciding upon the class of regularity operating -
+3370|coincide with the difficulty of expressing cultural data in determinate
+3371|models.
+3372|     We have noted that the three system trajectories (3), (4), (5), in the
+3373|last examples share their initial states and their directive correlation
+3374|towards the stable equilibrium state g, g, g, g. T h e number of possible
+3375|trajectories taking systems a, b, c, d, to state g, g, g, g, is the measure of
+3376|this directive correlation and can be expressed as the number of routes
+3377|that can be traced from a, b, c, d, to g, g, g, g, through the lattice given
+3378|below, from our arbitrary table of possibilities (fig. 10).
+3379|     At each stage of the system trajectories a, b, c, d to g, g, g, g, the
+3380|states of the systems must fall within a limited set in order to reach
+3381|their ultimate 'goal' (fig. 10a). It is the size of these successive sets that
+3382|determines the degree of directive correlation and defines the essential
+3383|variables for the changes being studied. When such a set is closely
+3384|constrained, allowing very few routes through the set, then the set
+3385|amounts to a threshold which the various system states must approach
+3386|and enter before moving on into the stable region of the 'goal'. Such a
+3387|constrained set is Set 4 in the lattice (fig. 10a), with only two possible
+3388|states c and d admitting access to a final state of g - the most
+3389|constrained set may of course come at any point in the trajectory. This
+3390|form of constraint in the transformations of a set or of a single
+3391|attribute acts as a funnel - channelling and constricting the trajectories
+3392|of change. Such a constraint is illustrated not only by Set 4 in our
+3393|example but also by the effect of the single-value transformation of
+3394|state d under R i in which d can only go to a.
+3395|     These observations allow us to think of the attributes of the
+3396| changing systems as roughly belonging to three categories, according
+3397| to the frame of reference of the study:
+3398|
+3399|       (i) Inessential attributes (variables, parameters, etc.)
+3400|      (ii) Essential attributes (variables, parameters, etc.)
+3401|     (iii) Key attributes (variables, parameters, etc.)
+3402|                                        C u l t u r e systems - the model        71
+3403|                                                                     d   Set t
+3404|
+3405|
+3406|        RI
+3407|
+3408|
+3409|                                                                         Set 2
+3410|
+3411|
+3412|        R2
+3413|
+3414|
+3415|                                                                         Set 3
+3416|
+3417|
+3418|        R3
+3419|
+3420|
+3421|                                                                         Set 4
+3422|
+3423|
+3424|       R4
+3425|
+3426|
+3427|                                                                         Set 5
+3428|                         o, 6, c, d,g, — system ent ity states
+3429|                    R1, R 2 , R 3 , R4-successive field conditions
+3430|                                    Fig. 10a.
+3431|
+3432|Inessential attributes include those which are not relevant to the study
+3433|in hand and which consequently do not figure in the system as defined,
+3434|and those attributes which are constant throughout. T h e essential
+3435|attributes are those 'essential variables' which are part of the system
+3436|and whose values may change as part of the changing system. T h e s e
+3437|essential variables express the 'survival' or 'continuity' of the system as
+3438|the same system format rather than as a transmutation; it is these
+3439|essential variables which an efficient regulator R must protect f r o m
+3440|transformation by blocking the flow of variety f r o m disturbances E , if
+3441|the system is to survive in its present f o r m (fig. 9).
+3442|   Finally, the key attributes may be regarded as those essential attri-
+3443|butes in the system whose successive transformation values are
+3444|covarying in some specific relationship with successive values of other
+3445|similar attributes. T h e values or states of key attributes not only
+3446|change as part of the changing system but change in a correlated and
+3447|non-random fashion - either as successive transitions in a continuous
+3448|trend or covarying in specific correlation with a cluster of similar
+3449|attributes. T h e continued joint covariation of these key attributes
+3450|expresses the survival of a particular inner 'pattern' or 'structure'
+3451|peculiar to this system format and part of its identity. In contrast,
+3452|some essential attributes may vary quite independently of one another
+3453|72    Analytical Archaeology
+3454|
+3455|and in a random or spasmodic fashion, whilst the clusters of key
+3456|attributes are found correlated in a certain sort of relationship one to
+3457|another, whatever the transformation of their particular values.
+3458|Amongst the key attributes will usually be found those which
+3459|comprise the maximally constrained set in the system's trajectory
+3460|towards some specified state - the funnel through which all the
+3461|permissible trajectories must pass. In this set the attributes define the
+3462|threshold and the height of the threshold separating the system from
+3463|some alternative state.
+3464|
+3465|
+3466|II   A tentative general model
+3467|
+3468|In the concluding section of the preceding chapter we proposed three
+3469|general models or frameworks as potentially useful in developing
+3470|neglected archaeological theory (section VI):
+3471|
+3472|     (a) A model for archaeological procedure (fig. 2).
+3473|     (b) A polythetic model for archaeological entities (fig. 3).
+3474|     (c) A systems model for archaeological processes.
+3475|
+3476|    T h e systems model for archaeological processes was not further
+3477|developed in that chapter. T h e reasons for this rest upon the obser-
+3478|vation that such a model should preferably be of greater power than
+3479|merely another vague analogy of no predictive value, the model should
+3480|be a general model of cultural dynamics in an attempt to carry validity
+3481|at several cultural levels and as compatible with modern anthro-
+3482|pological thought as possible. In order to accommodate these ambi-
+3483|tious aims the construction of the model has been deferred so that this
+3484|preparatory outline sketch of systems theory could be attempted.
+3485|    We have now reached the state where a general model for analysing
+3486|archaeological processes on a systems framework can be diffidently
+3487|approached. It would be naive to pretend that the model that we are
+3488|going to develop fulfils our high intentions but, however inadequate it
+3489|may prove, in attempting the problem, it may make somewhat clearer
+3490|the areas of imprecision, as well as raising hope that such an approach
+3491|may one day be successfully accomplished.
+3492|    T h e model is expressed in two parts. One part, the diagram fig. 1 1 ,
+3493|is an endeavour to represent the organizational categories of 'essential
+3494|variables' coupled together both inside and outside our entities or
+3495|systems. It is important to realize that this is not yet an attempt to
+3496|analyse and express the internal components within a particular
+3497|                                    Culture systems - the model           73
+3498|
+3499|     ^                 S,               s,,             ^        s,.
+3500|
+3501|
+3502|          System
+3503|         trajectory
+3504|
+3505|
+3506|
+3507|
+3508|                                   system state
+3509|
+3510|    Fig. 11 General model (c) - A model for archaeological processes.
+3511|    A model suggesting that archaeological entities, at several levels,
+3512|    change as special kinds of dynamic systems coupled with environing
+3513|    or contextual systems.
+3514|
+3515|
+3516|system and their networked relationship. T h e sketch merely tries to
+3517|approach an isomorphic representation connecting some aspects of
+3518|some of the variables concerned, in order to explain some of the
+3519|relationships noted in the second part of the model. T h e structure of
+3520|the system in the figure can recognizably be seen to integrate as
+3521|components some of the various kinds of subsystem whose
+3522|'behaviour' has been sketched earlier (fig. 1 1 , compare figs 4, 5, 6, 9).
+3523|T h e second part of the model comprises a tentative summary of the
+3524|inherent 'behaviour' of the system in the diagram under a series of
+3525|condensed observations. T h e s e observations amount to very tentative
+3526|postulates on which depend some hypotheses of predictive value - at
+3527|74        Analytical Archaeology
+3528|least, that w o u l d be the case if our model were well devised. T h e s e
+3529|hypotheses, such as they are, will be considered under the discussion
+3530|and the chapters following the model.
+3531|
+3532|T h e elements in the model are:
+3533|     S       a continuous system,         with     a trajectory    whose     successive
+3534|             overall states are S^. . . S„ Sh, S , 2 . . .             where t0 . . . t, tu
+3535|             tz. . . tH are successive       and    infinitesimally      small    intervals
+3536|             along a time-trajectory (which can alternatively be considered
+3537|             as a geographical space territory at one given time - with the
+3538|             system v a r y i n g contemporaneously over an area).
+3539|     Sf,    then represents the state of system S at point f , ; S,2 at tz, etc.
+3540|     E       is the environmental system or external context coupled to
+3541|             and containing system S.
+3542|     Eu      is then the state of the environmental or context system at
+3543|             point 11; Eh   at tz, etc.
+3544|     T       is a matrix or table s u m m a r i z i n g the observed frequencies or
+3545|             probabilities of the possible set of outcomes or responses by
+3546|             S, under given conditions.
+3547|     T,,     is then the state of the table T         at point 11, giving the prob-
+3548|             abilities of certain states of S occurring.
+3549|     R       is the regulating subsystem            which     blocks and      filters   the
+3550|             extreme range of external         fluctuations    by constraining their
+3551|             variety and keeping the outcomes in table T                 within certain
+3552|             limits.
+3553|     J£s     expresses the set of past conditions or prior states of the
+3554|             essential variables, through w h i c h the trajectory of the system
+3555|             has passed, up to the point in question - the ' m e m o r y ' store.
+3556|
+3557|     The     diagram    (fig.   n)    is intended     to convey      the   relationship
+3558|between these organizational elements as it w o u l d operate in defining
+3559|the state of the system at point />, state S,2. T h e state of the system S,,
+3560|being the outcome of the elements operating on the table T,, at point
+3561|fi, an infinitely small time (or distance) antecedent to t?.
+3562|
+3563|
+3564|
+3565|THE TENTATIVE               G E N E R A L M O D E L (fig. I l )
+3566|
+3567|C o n s i d e r a class of S e m i - M a r k o v i a n system S (fig. 1 1 ) , comprising an
+3568|incompletely recorded and only partially observable network of attri-
+3569|butes or entities forming subsystems within a complex whole. T h i s
+3570|general      class of system         is coupled    to an    external    svstem     E    (an
+3571|                                                            C u l t u r e s y s t e m s - the m o d e l               75
+3572|
+3573|e n v i r o n m e n t or c o n t e x t ) so that t h e i n p u t of t h e g e n e r a l s y s t e m is t h e
+3574|o u t p u t of t h e e x t e r n a l s y s t e m a n d v i c e v e r s a .
+3575|
+3576|
+3577|POSTULATES
+3578|
+3579|( 1 ) Continuously             changing          system.        The     system         S    is d y n a m i c        and
+3580|c o n t i n u o u s , w i t h t h e a t t r i b u t e s or e n t i t i e s h a v i n g s p e c i f i c v a l u e s o r
+3581|states w h i c h c h a n g e b y infinitesimal transformations.
+3582|(2) Constraint           of variety        hence regularities.           T h e v a r i e t y of k n o w n s t a t e s
+3583|or v a l u e s of t h e s y s t e m ' s c o m p o n e n t s             is l i m i t e d    functionally            and
+3584|i d i o s y n c r a t i c a l l y . F u n c t i o n a l l y , b y t h e l i m i t e d set of s t a b l e or d y n a m i c
+3585|e q u i l i b r i u m states f o r t h e s y s t e m as a w h o l e . I d i o s y n c r a t i c a l l y ,             by
+3586|v i r t u e of t h e s e l e c t i v e c h o i c e of t h e s y s t e m ' s g e n e r a t o r s .
+3587|(3) Inessential,           essential,       and      key attributes          or components.             It is c o n -
+3588|venient to distinguish b e t w e e n inessential, essential and key attributes
+3589|or v a r i a b l e s w i t h i n the c h a n g i n g s y s t e m S :
+3590|      Inessential        a t t r i b u t e s or v a r i a b l e s - t h o s e w h i c h are not r e l e v a n t t o
+3591|      the s t u d y in h a n d a n d w h i c h c o n s e q u e n t l y d o not                      figure       in t h e
+3592|      s y s t e m as d e f i n e d , a n d t h o s e a t t r i b u t e s w h i c h r e m a i n u n c h a n g e d
+3593|      throughout.
+3594|      Essential        a t t r i b u t e s or v a r i a b l e s - t h o s e w h o s e v a l u e s or s t a t e s
+3595|      c h a n g e as p a r t of the c h a n g i n g s y s t e m .
+3596|      Key      a t t r i b u t e s or c o m p o n e n t s - t h o s e w h o s e v a l u e s or states n o t
+3597|      o n l y c h a n g e as part of t h e c h a n g i n g s y s t e m b u t w h i c h c h a n g e in a
+3598|      correlated and n o n - r a n d o m                   fashion -        e i t h e r as s u c c e s s i v e    tran-
+3599|      s i t i o n s in a c o n t i n u o u s t r e n d or c o v a r y i n g in s p e c i f i c c o r r e l a t i o n
+3600|      w i t h a c l u s t e r of s i m i l a r a t t r i b u t e s .
+3601|
+3602|      T h e i n e s s e n t i a l , essential a n d k e y a t t r i b u t e s or c o m p o n e n t s in a
+3603|c h a n g i n g s y s t e m d e p e n d u p o n t h e f r a m e of r e f e r e n c e of t h e s t u d y a n d
+3604|u p o n t h e t r a j e c t o r i e s of t h e a t t r i b u t e s w i t h i n t h e c h a n g i n g         system;
+3605|t h e y d o not n e c e s s a r i l y a p p l y to o t h e r s t u d i e s of t h e s a m e e n t i t y in
+3606|w h i c h t h e s a m e a t t r i b u t e s m a y b e n e t w o r k e d in a l t e r n a t i v e s y s t e m s
+3607|(fig. 8).
+3608|(4) Format          stability       - the state of equilibrium.                 T h i s p a r t i c u l a r class of
+3609|s y s t e m h a s a l i m i t e d b u t v e r y large set of e q u i l i b r i u m states (basins) in
+3610|w h i c h t h e state of t h e s y s t e m as a w h o l e m a y r e m a i n u n c h a n g e d in
+3611|s p i t e of s o m e t r a n s f o r m a t i o n s a f f e c t i n g s o m e c o m p o n e n t a t t r i b u t e s o r
+3612|entities.
+3613|(5) Dynamic             equilibrium.          Since the input f r o m the external                           coupled
+3614|s y s t e m , e n v i r o n m e n t or c o n t e x t E is c o n t i n u o u s l y c h a n g i n g , t h e n t h e
+3615|76   Analytical Archaeology
+3616|accompanying continuously changing, successively measurable states
+3617|of S will constitute a dynamic equilibrium.
+3618|(6) Adaptive response. Change in the coupled system E may lead to
+3619|new states in the component attributes or entities of system S, or
+3620|correspondingly modify the transition probabilities T of future trans-
+3621|formations or sequences of transformations (trajectories). Such a
+3622|change, in that it represents a system 'response' to an external stimulus,
+3623|may be designated an 'adaptive response' by the system S.
+3624|(7) Displacement of equilibrium. If the equilibrium of such a system S
+3625|is dislocated, it adapts itself to the stimulus which causes the dis-
+3626|location, in such a manner that the said stimulus continually
+3627|diminishes in effect until finally the original or a new equilibrium is
+3628|again established.
+3629|(8) Cumulative effect displacing metastable equilibrium at a threshold.
+3630|New states or values successively introduced into the system S may
+3631|cumulatively approach a threshold beyond which the system cannot
+3632|continue unchanged.
+3633|(9) Control and regulation based on feedback. The states of the
+3634|components in S, change not by single-valued closed transformations
+3635|alone, but by a limited matrix of transition probabilities T whose
+3636|values vary partly as a function of the past and present states of the
+3637|system, and its context E - thus constituting a feedback loop. Every
+3638|event in the system S is thus controlled by the whole previous state of
+3639| the system together with the causally relevant factors in the system's
+3640| environment or field E.
+3641| (10) Homeostasis - oscillation around and towards stable states (goals).
+3642| Since the feedback loop regulates the matrix of transition probabilities
+3643| T and controls future states of the system S, and since the set of stable
+3644| system states is limited - the system will tend to oscillate around
+3645| (hunt) and converge upon (seek) successive stable states.
+3646| ( 1 1 ) Oscillation. Oscillation is a common phenomenon in systems and
+3647| components of this class of system S. Oscillations may occur:
+3648|
+3649|     (a) as oscillations induced by oscillations in the coupled en-
+3650|         vironment or context system (lag and lead phenomena),
+3651|     (b) as oscillations towards or away from stable equilibria (hunt
+3652|         and seek),
+3653|     (c) as oscillations within the permissive boundaries of a stable set
+3654|         or basin, allowing many trajectories (multilinear stochastic
+3655|         development).
+3656|                                     C u l t u r e s y s t e m s - the m o d e l   77
+3657|
+3658|Furthermore, oscillations may occur at any or all of three network
+3659|levels:
+3660|        (i) between system S and containing environment or context E,
+3661|       (ii) Between system S and a component subsystem,
+3662|      (iii) between component subsystems within S.
+3663|
+3664|(12) Directive correlation. Such systems S have a sequence of past
+3665|states, a present state, and a future state; in that we believe the future
+3666|state to be a function of the past and present states and the causally
+3667|relevant external field conditions E, the system can be said to be
+3668|directively correlated in respect of a future state.
+3669|(13) Regularities due to constraint in possible trajectories. Given a present
+3670|state S, and a future state S,2 of the system S , there are a limited set of
+3671|field conditions E that will produce S,2 from state S,. T h e range or set
+3672|of field conditions will limit and constrain any particular causal chain
+3673|S, -* S,2 but several alternative trajectories or chains may link S, -> S,2,
+3674|each trajectory having its specific constraining conditions; although in
+3675|the limiting case there may be only one possible trajectory or sequence
+3676|of transformations leading S, -* S,2.
+3677|(14) Constrained sets and directive correlation. T h e future state S,2 of
+3678|system S is attainable only if some of the system's component attri-
+3679|bute or entity states fall within a particular set in the past, set tu, and in
+3680|the present set /, in which respect the sets at t0 and t can be said to be
+3681|directively correlated toward future state S,2.
+3682|(15) Degree and order of directive correlation. T h e range of permissible
+3683|variation in the set of past and present states set t0 and set t, to attain
+3684|the future state S,2 may be taken as a measure of the degree of the
+3685|directive correlation. T h e number of permissible trajectories or routes
+3686|through these sets may be taken as the order of that correlation.
+3687|(16) Correlated     regularities and predictive      capacity.   Regularities
+3688|consequent upon constraint in the variety in the system states and
+3689|trajectories should allow low-level predictive synthesis in which
+3690|observed correlations between constraints in initial states, terminal
+3691|states, field conditions, and trajectories can be expressed.
+3692|
+3693|
+3694|Ill    Discussion
+3695|
+3696|We have already observed that these tentative postulates amount to a
+3697|set of low-level predictive hypotheses about how systems of this
+3698|particular kind S can 'behave'. One could, if one wished, rewrite these
+3699|78   Analytical Archaeology
+3700|postulates as a list of hypotheses to be tested against the real
+3701|'behaviour' of real systems and certainly such a testing of the postu-
+3702|lates is highly desirable. H o w e v e r , some of the postulates are still so
+3703|general in scope as to tell us very little about how to tackle real systems
+3704|of this class. S o m e of the other more promising postulates are
+3705|correspondingly vague about the essential terms which give them
+3706|predictive power - such terms as equilibrium again fall within this
+3707|category. Rather than enumerate all the hypotheses with specific
+3708|instances it may be more useful to select and discuss the more prom-
+3709|ising postulates and develop their potential as hypotheses for practical
+3710|application.
+3711|     T h e first group of postulates we can consider are those that suggest
+3712|that cultural systems and their components are in dynamic equilib-
+3713|rium and will proceed from one equilibrium state to another. S u r e l y , if
+3714|we know a great deal about a system and its conditions we ought by
+3715|these means to be able to say which particular equilibrium state it will
+3716| next run to? T h e problem here is to define the relevant aspects of the
+3717|entity's systems - at which level one is working, and then to define
+3718|what is meant by equilibrium in terms of those kinds of attribute. H o w
+3719|does one define equilibrium amongst social, religious, economic or
+3720|psychological attributes? Clearly, w e have the old problem of there
+3721|being many sorts of subsystem, each with its own kind of equilibria,
+3722|each operating in different networks of the same overall system and
+3723| variously in equilibrium one with another (fig. 8). It is apparent that
+3724| this problem cannot be approached at so general a level, one must take
+3725| specific cases and explain what is meant. Consequently, all that we can
+3726| do at this stage is to reiterate these equilibrium postulates ((2), (4), (5),
+3727| (7), (10)) until we have elaborated the equilibrium concept and in the
+3728| meanwhile to speculate that our various kinds of equilibrium occur
+3729| when certain functions of the variable factors in the system are jointly
+3730| minimized. We have yet to define in each case which variable factors
+3731| are jointly minimized, how this is brought about, and how this
+3732| information can be used.
+3733|    Let us quickly move to some more easily developed postulates and
+3734|try and show some positive rewards for these efforts. We can perhaps
+3735|make some immediate progress with multiple causes and cumulative
+3736|effect (8) and in later chapters with directive correlation and essential
+3737|variables (14) and ( 1 5 ) , and with correlation between regularities (16).
+3738|    It appears that new states, or values, successively introduced into a
+3739|system of this kind ( S ) , may cumulatively approach a threshold be-
+3740|                                      C u l t u r e s y s t e m s - the model   79
+3741|
+3742|yond which the system cannot continue unchanged (consider tra-
+3743|jectory examples nos (1) (2) system a, b, c, d, to systems of e, /, g). T h i s
+3744|observation suggests that many cultural system changes cannot be
+3745|considered as the consequence of a single attribute or entity trans-
+3746|formation, or of a single environmental change; it does not rule out
+3747|that this may be so but makes it a limiting case. T h i s might lead us to
+3748|specify that 'neither too few, nor simply single factor causes are to be
+3749|assumed to be necessary to account for single cultural system trans-
+3750|formations'. T h i s hypothesis is deliberately phrased to point out that it
+3751|surprisingly appears to contradict William of Occam's famous axiom
+3752|that 'neither more, nor more complex, causes are to be assumed than
+3753|are necessary to account for the phenomena'. T h e more surprising
+3754|since Occam's Razor - 'entia non sunt multiplicanda praeter neces-
+3755|sitatem' is the foundation for many important systems of hypotheses
+3756|and his work as a whole, 1 2 8 0 - 1 3 4 9 , part of the kindling Renaissance.
+3757|    However, a brief consideration of the Occam and the Converse-
+3758|Occam axioms will show that they are not only compatible but jointly
+3759|powerful in a helpful way which sharpens the original postulate (8).
+3760|One can see that Occam's Razor encompasses both approaches by the
+3761|use of the word 'necessitatem' but the Razor is intent upon taking a
+3762|multiplicity of possible causes and whittling them down to the fewest
+3763|necessary, comprehensive, key components (fig. 12). However, with
+3764|situations in which a few key components may well outline 'most' of
+3765|the system behaviour it is still desirable to search for the minor but
+3766|essential components that specify the residual system characteristics.
+3767|Occam already assumes that more than enough factors have already
+3768|been cited and that reduction is the prime requirement.
+3769|    T h e Converse-Occam is developed here as a consequence of the
+3770|behaviour of the complex systems which we are investigating. It is
+3771|simply a control procedure to prevent the over-vigorous use of the
+3772|Razor. T h e Converse-Occam simply suggests that it is sometimes
+3773|useful as a procedure to take the suggested causes or factors, to think
+3774|hard and add to them any additional factors which might be operable
+3775|until a network of interacting factors has been devised which does
+3776|account for the situation under investigation. T h e Converse-Occam
+3777|suggests that large numbers of complex factors may well be involved
+3778|in changes in cultural Systems and that to invoke barely sufficient or
+3779|single causes may be mistaken.
+3780|    However, from the kinematic graph of these two procedures in
+3781|action (fig. 12) we can see that there will usually be a saddle-point at
+3782|80      Analytical Archaeology
+3783|
+3784|
+3785|
+3786|
+3787|<s>
+3788|tr
+3789|o                                                        Fig. 12 The
+3790|t-
+3791|u
+3792|<                                                        hypothesis of
+3793|                                                         multiple factors
+3794|                                                         and cumulative
+3795|a.
+3796|S                                                        effect for
+3797|                                                         changes in
+3798|                                                         complex
+3799|                                                         systems, as
+3800|                                                         controlled by
+3801|                                                         the Occam's
+3802|                                                         Razor and
+3803|                                                         Converse
+3804|                                                         Occam
+3805|     Too few                              Too many
+3806|     factors                                 factors     qualifications.
+3807|
+3808|
+3809|which both lines of argument are satisfied. It follows that we should
+3810|use these two approaches jointly to try and arrive at a more accurate
+3811|understanding of the nature of change in the kinds of system that we
+3812|are studying.
+3813|    Nevertheless, it is not sufficient to say simply that such an event
+3814|had 'many contributory causes' as a replacement for 'this factor caused
+3815|that event'. T h e point of jointly harnessing both approaches to the
+3816|saddle-point is to enumerate, define, test and assess the relevance,
+3817|power and range of the factors involved. T h i s having been done, the
+3818|network of cumulative interaction between these factors should be
+3819|made explicit and their joint trajectory towards the threshold carefully
+3820|defined in terms of the system as a whole.
+3821|    One of the purposes of a general model is to employ its predictive
+3822|framework to simulate developmental change at the many different
+3823|levels of cultural process. T h e system S that we have discussed in
+3824|abstract can be materialized as a system of attributes within a popu-
+3825|lation of artefacts, a system of artefacts within a changing cultural
+3826|assemblage, or a system of social attributes within a changing society
+3827|and so on. If the general model has any validity it is to these kinds of
+3828|system and their problems that hypotheses based on the model should
+3829|                                                   C u l t u r e s y s t e m s - the m o d e l         81
+3830|
+3831|be applied - such problems as the transformations which bring about
+3832|the 'birth' or 'death' of an artefact type, a cultural assemblage, a
+3833|social system, a kinship system, or an economic system. If we are
+3834|asked to account for the 'death' or transmutation of the Roman
+3835|Empire in the West in terms of climatic decline, increased barbarian
+3836|invasion, overstretched military commitments, monetary devaluation,
+3837|agricultural decline, decrease in birth-rate, over-taxation, waste,
+3838|shrinking resources, and so forth, one might usefully employ the
+3839|methods sketched above, which depend on general observations about
+3840|change in complex systems of this kind.
+3841|    If such a general model can be made substantially adequate, then
+3842|hypotheses developed from its postulates should be helpful. T h e first
+3843|tentative development from this basis is the hypothesis of multiple
+3844|factors and cumulative effect, as controlled by the Occam and Con-
+3845|verse-Occam qualifications.
+3846|
+3847|
+3848|H Y P O T H E S I S OF M U L T I P L E F A C T O R S , A N D C U M U L A T I V E              EFFECT
+3849|
+3850|(1) Single attributes or factors, successively introduced into a system,
+3851|may cumulatively approach a threshold beyond which the system
+3852|cannot survive unchanged.
+3853|(2) Neither more, nor more complex, attributes or factors are to be
+3854|assumed than are necessary to account for the phenomena.
+3855|(3) Neither too few, nor simply single-component, attributes or
+3856|factors are to be assumed than are necessary to account for the
+3857|phenomena.
+3858|    This hypothesis is intended for application in situations in which
+3859|many variables are, or are said to be operating, in order that the
+3860|essential variables directively correlated towards some event may be
+3861|defined and their cumulative interaction within the system evaluated.
+3862|
+3863|
+3864|
+3865|Notes
+3866|      ( 1 ) Regularities in distribution areas o c c u r at e v e r y level of archaeological
+3867|organization f r o m attribute to artefact-type, a s s e m b l a g e , culture, culture-
+3868|g r o u p and t e c h n o c o m p l e x . I n all these cases, the analyst is c o n c e r n e d w i t h an
+3869|entity area, apparently a solid natural unit, but in fact usually an area defined
+3870|by a polythetic array of intersecting sets, whilst it is itself a c o m p o s i t e mosaic
+3871|of principal c o m p o n e n t sets and their intersection (fig. 1 3 ) . T h e factors
+3872|defining these intersecting sets may be ecological, sociocultural, or indeed any
+3873|                                                                 /
+3874|
+3875|
+3876|(i) Vennland as an entity
+3877|
+3878|
+3879|
+3880|
+3881|                                                              (n) A s an entity defined by a polythetic array
+3882|                                                              of intersecting sets
+3883|
+3884|
+3885|
+3886|
+3887|(in) As an entity com-                       (it;) Lathe-form, an his-                     (t;) Quadrat-form,      an
+3888|posed   of   intersecting                    torical   subdivision   of                    historic subdivision of
+3889|sets in three principal                      Vennland       in    which                    Vennland in which dis-
+3890|components 1 , 2 , 3                         boundaries reflect the                        tribution 'B' was critical
+3891|                                             descending hierarchy of                       and in which sets 1 and 3
+3892|                                             sets 3, 2, 1 and wherein                      were     principal   com-
+3893|                                             distribution ' A ' was cri-                   ponents.
+3894|                                             tical.
+3895|
+3896|
+3897|
+3898|Fig. 13             V e n n l a n d - a s c h e m a t i c i l l u s t r a t i o n of a C u l t u r e A r e a as the p r o d u c t
+3899|of i n t e r s e c t i n g s e t s ( e c o l o g i c a l o r o t h e r w i s e ) a n d t h e i r fluctuating r e l a t i v e
+3900|s i g n i f i c a n c e f o r t h e C u l t u r e in o c c u p a t i o n - w h e r e t h e area w h o l e is b o t h an
+3901|i d i o s y n c r a t i c s u b s e t of l a r g e r sets a n d t h e s u m of s e l e c t e d p a r t s w i t h i n that
+3902|subset.
+3903|                                        Culture systems - the model               83
+3904|
+3905|combination of factors relevant to the system represented by the distribution
+3906|area vector for the particular entity. It is the persistence of these intersecting
+3907|sets of factors which provide the continuing, although modifying constraint
+3908|which gives rise to the sporadic reappearance of former territorial patterns.
+3909|    The mathematical study of sets and their intersection and partition
+3910|developments is clearly relevant to these practical problems (Green 1965;
+3911|Haggett 1965, pp. 243-4). This same approach is also pertinent to the
+3912|abstract problems of the kinds of archaeological entities defined by polythetic
+3913|sets of components (chapter i, vi; B and figs 67, 72) as well as to the
+3914|correlation and intersection of the various levels of the hierarchical sets
+3915|defining social, linguistic, racial and archaeological classifications (figs 75,76).
+3916|    The basic procedure in set theory uses symbolic models of the concepts
+3917|and distributions under investigation - these models are sometimes known as
+3918|Venn diagrams and are discussed in terms of an axiomatic and symbolic
+3919|calculus (Green 1965). In fig. i 3 i a n imaginary culture occupies an area which
+3920|we will call 'Vennland'. A close scrutiny of Vennlandish culture reveals that
+3921|the cultural assemblage is a polythetic set of elements with overlapping but
+3922|differently orientated distribution areas (fig. i3ii). At the same time it is noted
+3923|that although Vennland is a 'natural area' bounded by 'natural' boundaries, its
+3924|existence is really defined by the intersection pattern of a number of
+3925|environmental sets (fig. 13H) and by the identity given this intersect by its
+3926|own characteristic compound of yet smaller sets (fig. i3iii). By using a single
+3927|diagram to express both environmental and cultural polythetic sets, we are
+3928|also reminded that their distribution patterns may in fact be partly intercor-
+3929|related.
+3930|    Vennland is also compounded of three principal components represented
+3931|by the intersecting sets 1, 2, 3 (fig. 13iii), which may be either environmental
+3932|subdivisions or sociocultural subcultures, or a combination of both.
+3933|Apparently the history of Vennland over the last thousand years has shown a
+3934|tendency towards the reappearance of two modal kinds of pattern, the lathe-
+3935|form (fig. i3iv) and the quadrat-form (fig. 13V). This would have involved
+3936|various integrations and reintegrations of both macro- (fig. 13») and micro-
+3937|divisions (fig. i3iii) of Vennland. In these historical fluctuations it is likely
+3938|that the distributions of factor A (fig. 1 3 a , A is I plus IV) and factor B (ii, IV
+3939|plus III) were important elements, possibly representing certain resources or
+3940|sociocultural groups or both, whose significance was a variable through time.
+3941|The complexity of this oversimplified example reminds us that practical
+3942|complexity need not mean chaotic lack of order and that order and regularity
+3943|do not necessarily imply simplicity.
+3944|    Practical examples of the application of set theory to archaeological data
+3945|have been limited in number, but a good introduction is given by Litvak King
+3946|and Garcia Moll (1972) and a further study by Serra Puche (1976).

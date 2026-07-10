@@ -1,0 +1,2338 @@
+Cinq-Mars, Angela Close, Creswell Crags Heritage Trust, John Curtis,
+Rick Davis, Tom Dillehay, Martin Emele, Phil Geib, Ted Goebel, Jack
+Golson, Harald Hauptmann, Ian Hodder, Keiji Imamura, Sibel Kusimba,
+Bradley Lepper, Curtis Marean, Paul Mellars, David Meltzer, Andrew
+Moore, J. N. Pal, John Parkington, Vladimir Pitul’ko, John Rick,
+Lawrence Robbins, Gary Rollefson, Michael Rosenberg, Daniel Sandweiss,
+Mike Smith, Lawrence Straus, Paul Taçon, Kathy Tubb, François Valla, Lyn
+Wadly and João Zilhão.
+
+I thank my brother Richard Mithen for advice regarding agricultural
+practices, plant genetics and crop developments. I am immensely grateful
+to those who read and commented upon one or more of my chapters: Angela
+Close, Sue Colledge, Tom Dillehay, Kent Flannery, Alan James, Joyce
+Marcus, Naoko Matsumato, David Meltzer, James O’Connell, Anne Pirie, and
+Lyn Wadley. Two of these – Anne and Sue – need special thanks for
+reading more than their fair share and advising about the contents and
+style of the book in general. I would also like to thank Toby Mundy who
+commissioned this book when at Weidenfeld & Nicolson and to Tom Wharton
+who provided detailed editorial advice on the whole text to its immense
+benefit.
+
+Four further archaeologists need special mention: Robert Braidwood,
+Jacques Cauvin, Rhys Jones and Richard MacNeish. All were outstanding
+archaeologists and died while I was in the latter stages of writing.
+Their excavations and ideas are documented in After the Ice and I wish
+to acknowledge their seminal contribution to our understanding of the
+past.
+
+The completion of this book before the end of 2002 was made possible by
+the British Academy whose award of a Research Readership in October 2001
+provided the necessary relief from my normal academic duties. Before
+this, the vast majority of writing, however, was done in stolen time. It
+was stolen from my students when I should have been attending to their
+essays and preparing lectures, from my colleagues when I should have
+been more punctual for departmental meetings, from my field team in Wadi
+Faynan when I should have been digging. But most of all, it was stolen
+from my family.
+
+It is to them that I offer my apologies and greatest thanks. I
+especially thank Heather (now aged eight) for the afternoon that she
+came home fresh from a literacy hour at school and reminded me to ‘use
+verbs and nouns, as well as adjectives’ in my book. Also to Nicholas
+(twelve) for his suggested title of ‘Trudging Through Mud’ – which must
+sum up his unfortunate experience of archaeology. And to Hannah
+(fifteen) for being the first to recognise that ‘Dad’s book is really a
+family project’. Indeed it was, a project that could not have been
+completed without their support. It is to Sue, my wife, that I owe my
+greatest debt simply for being at the centre of my world. And it is with
+immense love and gratitude that I dedicate this book to my parents, Pat
+and Bill.
+
+THE BEGINNING
+
+1 The Birth of History
+
+Global warming, archaeological evidence and human history
+
+Human history began in 50,000 BC. Or thereabouts. Perhaps 100,000 BC,
+but certainly not before. Human evolution has a far longer pedigree – at
+least three billion years have passed since the origin of life, and six
+million since our lineage split from that of the chimpanzee. History,
+the cumulative development of events and knowledge, is a recent and
+remarkably brief affair. Little of significance happened until 20,000 BC
+– people simply continued living as hunter-gatherers, just as their
+ancestors had been doing for millions of years. They lived in small
+communities and never remained within one settlement for very long. A
+few cave walls were painted and some rather fine hunting weapons were
+made; but there were no events that influenced the course of future
+history, that which created the modern world.
+
+Then came an astonishing 15,000 years that saw the origin of farming,
+towns and civilisation.¹ By 5000 BC the foundations of the modern world
+had been laid and nothing that came after – classical Greece, the
+Industrial Revolution, the atomic age, the Internet – has ever matched
+the significance of those events. If 50,000 BC marked the birth of
+history, 20,000–5000 BC was its coming of age.²
+
+For history to begin, people required the modern mind – one quite
+different to that of any human ancestor or other species alive today. It
+is a mind with seemingly unlimited powers of imagination, curiosity and
+invention. The story of its origin is one that I have already told – or
+at least tried to tell – in my 1996 book, The Prehistory of the Mind.³
+Whether the theory I proposed – of how multiple specialised
+intelligences merged to create a ‘cognitively fluid’ mind – is entirely
+right, wrong or somewhere in between is not an issue for the history
+that I will now recount. All the reader must accept is that by 50,000
+years ago, a peculiarly creative mind had evolved. This book addresses a
+simple question: what happened next?
+
+The peak of the last ice age occurred at around 20,000 BC and is known
+as the last glacial maximum, or LGM.⁴ Before this date, people were thin
+on the ground and struggling with a deteriorating climate. Subtle
+changes in the planet’s orbit around the sun had caused massive ice
+sheets to expand across much of North America, northern Europe and
+Asia.⁵ The planet was inundated by drought; sea level had fallen to
+expose vast and often barren coastal plains. Human communities survived
+the harshest conditions by retreating to refugia where firewood and
+foodstuffs could still be found.
+
+Soon after 20,000 BC global warming began. Initially this was rather
+slow and uneven – many small ups and downs of temperature and rainfall.
+By 15,000 BC the great ice sheets had begun to melt; by 12,000 BC the
+climate had started to fluctuate, with dramatic surges of warmth and
+rain followed by sudden returns to cold and drought. Soon after 10,000
+BC there was an astonishing spurt of global warming that brought the ice
+age to its close and ushered in the Holocene world, that in which we
+live today. It was during these 10,000 years of global warming and its
+immediate aftermath that the course of human history changed.
+
+By 5000 BC many people throughout the world lived by farming. New types
+of animals and plants – domesticated species – had appeared; the farmers
+inhabited permanent villages and towns, and supported specialist
+craftsmen, priests and chiefs. Indeed, they were little different to us
+today: the Rubicon of history had been crossed – from a lifestyle of
+hunting and gathering to that of farming. Those who remained as
+hunter-gatherers were also now living in a manner quite different to
+that of their ancestors at the LGM. The remit of this history is to
+explore how and why such developments occurred – whether they led to
+farming or new types of hunting and gathering. It is a global history,
+the story of all people living upon planet earth between 20,000 and 5000
+BC.
+
+This was not the first time that the planet had undergone global
+warming. Our ancestors and relatives – the Homo erectus, H.
+heidelbergensis and H. neanderthalensis of human evolution – had lived
+through equivalent periods of climate change as the planet see-sawed
+from ice age and back every 100,000 years.⁶ They had responded by doing
+much the same as they had always done: their populations expanded and
+contracted, they adapted to changed environments and adjusted the tools
+they made. Rather than creating history, they simply engaged in an
+endless round of adaptation and readaptation to their changing world.
+
+Neither was it the last. In the early twentieth century ad, global
+warming began anew and continues apace today. Once again new types of
+plants and animals are being created, this time through intentional
+genetic engineering. Like these novel organisms, our modern-day global
+warming is a product of human activity alone – the burning of fossil
+fuels and mass deforestation.⁷ These have increased the extent of
+greenhouse gases in the atmosphere and may raise global temperatures far
+beyond that which nature alone can do.⁸ The future impacts of renewed
+global warming and genetically modified organisms on our environment and
+society are quite unknown. One day a history of our future times will be
+written to replace the multitude of speculations and forecasts with
+which we struggle today. But before that we must have a history of the
+past.
+
+The people who lived between 20,000 and 5000 BC have left no letters or
+diaries that describe their lives and the events they both made and
+witnessed. The towns, trade and craftsmen had to be in place before the
+invention of writing could occur. So rather than drawing on written
+records, this history examines the rubbish that people left behind –
+people whose names and identities will never be known. It relies on
+their stone tools, pottery vessels, fireplaces, food debris, deserted
+dwellings and many other objects of archaeological study, such as
+monuments, burials and rock art. It draws on evidence about past
+environmental change, such as pollen grains and beetle wings trapped in
+ancient sediments. Occasionally it gains some help from the modern world
+because the genes we carry and the languages we speak can tell us about
+the past.
+
+The risk in having to rely upon such evidence is that the resulting
+history may become little more than a catalogue of artefacts, a
+compendium of archaeological sites or a succession of spurious
+‘cultures’.⁹ A more accessible and appealing history is one that
+provides a narrative about people’s lives; one that addresses the
+experience of living in the past and recognises human action as a cause
+of social and economic change.¹⁰ To achieve such a history, this book
+sends someone from the modern day into prehistoric times: someone to see
+the stone tools being made, fires burning in the hearths and the
+dwellings occupied; someone to visit the landscapes of the ice-age world
+and to watch them change.
+
+I have chosen a young man by the name of John Lubbock for this task. He
+will visit each of the continents in turn, starting in western Asia and
+working his way round the world: Europe, the Americas, Australia, East
+Asia, South Asia and Africa. He will travel in the same manner as an
+archaeologist digs – seeing the most intimate details of people’s lives
+but being unable to ask any questions and with his presence quite
+unknown. I will provide a commentary to explain how the archaeological
+sites were discovered, excavated and studied; the ways in which they
+contribute to our understanding of how farming, towns and civilisation
+arose.
+
+Who is John Lubbock? He resides in my imagination as a young man with an
+interest in the past and fear for the future – not his own but that of
+planet earth. He shares his name with a Victorian polymath who, in 1865,
+published his own book about the past and called it Prehistoric Times.
+
+Victorian John Lubbock (1834–1913) was a neighbour, friend and follower
+of Charles Darwin.¹¹ He was a banker who instigated key financial
+reforms, a Liberal Member of Parliament who produced the first
+legislation for the protection of ancient monuments and bank (public)
+holidays, a botanist and entomologist with many scientific publications
+to his name. Prehistoric Times became a standard textbook and
+best-seller, with the seventh and final edition appearing in 1913. It
+was a pioneering work, one of the first to reject the biblical
+chronology that claimed the world to be a mere six thousand years old;
+it introduced the terms Palaeolithic and Neolithic, the Old and New
+Stone Ages, which are now recognised as the key periods of the
+prehistoric past.
+
+But Victorian John Lubbock’s insights were matched by an appalling
+ignorance. He knew little about the date and duration of the Stone Age;
+his evidence for ancient lifestyles and environments was scant; he had
+never heard of Lascaux, prehistoric Jericho and innumerable other sites
+that are known today as milestones of the human past. When planning this
+book I considered sending Victorian John Lubbock to such sites in
+gratitude for writing Prehistoric Times. But his time has gone; even
+with experience of Lascaux and Jericho I thought it unlikely that he
+would have abandoned the standard Victorian attitude that all
+hunter-gatherers were savages with child-like minds.
+
+A more appropriate beneficiary of prehistoric travel is one who is yet
+to make his mark upon the world. And so I will send a modern-day John
+Lubbock into prehistoric times, carrying a copy of his namesake’s book.
+By reading it in remote corners of the world he will appreciate both the
+achievements of Victorian John Lubbock and the remarkable progress that
+archaeologists have made since Prehistoric Times first appeared less
+than 150 years ago.
+
+I make use of John Lubbock to ensure that this history is about people’s
+lives rather than just the objects that archaeologists find. My own eyes
+cannot escape the present. I am unable to see beyond the discarded stone
+tools and food debris, the ruins of empty houses and the fireplaces that
+are cold to the touch. Although excavations provide doors to other
+cultures, such doors can only be forced ajar and never passed through. I
+can, however, use my imagination to squeeze John Lubbock through the
+gaps so that he can see what is denied to my own eyes, and become what
+the travel writer Paul Theroux has described as a ‘stranger in a strange
+land’.
+
+Theroux was writing about his own desire to experience ‘otherness to its
+limit’; how becoming a stranger allowed him to discover who he was and
+what he stood for.¹² This is what archaeology can do for all of us
+today. As globalisation leads to a bland cultural homogeneity throughout
+the world, imaginative travel to prehistoric times is perhaps the only
+way we can now acquire that extreme sense of otherness by which we
+recognise ourselves. And it is the only means that I have found to
+translate the archaeological evidence I know into the type of human
+history I wish to write.
+
+When I peer at the deserted dwellings uncovered by my own excavations I
+often share the thoughts of another great travel writer, Wilfred
+Thesiger. In 1951 he had lived with the Marsh Arabs of southern Iraq.
+When returning the following year he arrived at dawn and looked across
+the vast reed beds silhouetted against the sunrise. Thesiger recalled
+his first visit – the canoes on the waterways, the crying of geese, reed
+houses built upon water, the dripping buffalo, boys singing in the dark,
+the croaking of frogs. ‘Once again I experienced’, he later wrote, ‘the
+longing to share this life, and to be more than a mere spectator.’¹³
+
+The techniques of archaeology have enabled us all to become spectators
+of prehistoric life – albeit through a fuzzy lens. Like Thesiger, I long
+to go further: to experience prehistoric life itself and use such
+experience to write human history. Thesiger could depart in his canoe;
+all I have is my imagination, informed by a meticulous and exhaustive
+study of archaeological evidence. And so, within the pages of this book,
+John Lubbock fulfils my wish to become more than a mere spectator.
+Through him, I become like Theroux and Thesiger, a stranger travelling
+through strange lands – in my case, those of prehistoric times.
+
+2 The World at 20,000 BC
+
+Human evolution, the causes of climate change and radiocarbon dating
+
+The world at 20,000 BC is inhospitable, a cold, dry and windy planet
+with frequent storms and a dust-laden atmosphere. The lower sea level
+has joined some land masses together and created extensive coastal
+plains. Tasmania, Australia and New Guinea are one; so are Borneo, Java
+and Thailand which form mountain chains within the largest extent of
+rainforest on planet earth. The Sahara, Gobi and other sandy deserts are
+greatly expanded in extent. Britain is no more than a peninsula of
+Europe, its north buried below the ice, its south a polar desert. Much
+of North America is smothered by a giant dome of ice.
+
+Human communities have been forced to abandon many regions they had
+inhabited before the last glacial maximum, or LGM; others are amenable
+for settlement but remain unoccupied because any routes for colonisation
+have been blocked by dry desert and walls of ice. People survive
+wherever they can, struggling with freezing temperatures and persistent
+drought. Consider, for instance, those living at a location in
+modern-day Ukraine that will become known to archaeologists as Pushkari.
+
+At this period of time five dwellings form a rough circle on the tundra.
+They face south, away from the biting icy wind and close to the meander
+of a semi-frozen river.¹ The dwellings are igloo-like but built from
+mammoth bone and hide rather than blocks of ice. Each has an imposing
+entrance formed by two tusks, up-ended to form an arch. The walls use
+massive leg bones as vertical supports, between which jawbones have been
+stacked chin-down to create a thick barrier to the cold and wind.
+Further tusks are used on the roof to weigh down hides and sods of turf
+that are supported on a framework of bones and branches. Smoke seeps
+gently from the roof of one dwelling; the cries of a baby pierce the
+thick hide of another.
+
+Beyond the village a sledge loaded with massive bones is being hauled
+from the river. The faces of those working are misted in clouds of hot
+breath, behind which thick beards and long hair leave little flesh
+exposed. They are wrapped in fur-lined clothes. No simple draping of
+hides but artfully stitched clothing. It is the middle of winter and
+this village is no more than 250 kilometres south of the glaciers.
+Temperatures can fall to minus 30°C and there are nine months of it to
+endure. The river supplies building materials: bones from animals that
+have died in the north and had their carcasses washed downstream.
+
+Life is tough: hauling the bones, building and repairing dwellings,
+cutting and breaking tusks into sections so that the village craftsmen
+can make utensils, weapons and jewellery. Daylight is precious – just a
+few hours of it each day, and then long hours in the darkness, telling
+stories around their fires. A small fire is already burning between the
+huts, its flame provided by a single knotted log. This provides a focus
+for half a dozen men and women who sit close together, knees drawn up
+and arms folded, minimising their exposure to the wind while stitching
+new clothes.
+
+Near the fire an animal is being butchered and the air stinks of flesh
+and blood. It was a reindeer found wandering in isolation from its herd
+– a welcome surprise for a party who had gone to collect stone from a
+nearby outcrop. They killed it and can now eat meat without depleting
+that stored within their freezer – a hole in the ground. None of the
+carcass will be wasted. The meat will be shared between the five
+families who are living at Pushkari this winter. Knife handles and
+harpoons will be made from the antlers, clothing and bags from the hide,
+the ligaments and sinews will provide thread and cord. The heart, lungs,
+liver and other organs will be eaten as delicacies, the teeth drilled to
+make decorative pendants, the bone saved for fuel.
+
+One of the dwellings has its interior lit by the small flame of an
+animal-fat lamp. It is warm, stuffy and dingy inside. The floor is soft,
+carpeted with hides and furs that surround a central ash-filled hearth.
+Mammoth skulls and leg bones provide furniture; an assortment of leather
+bags, bone and wooden bowls, antler and stone tools are scattered by the
+walls and hung from the rafters – a scene of Stone Age domestic clutter.
+The flickering light exposes a man’s face. He looks old, but skin and
+bone must age rapidly in the ice-age world. This man wears his hair in
+plaits, has pendants of ivory and pierced teeth around his neck. His
+fingers work quickly with a needle and sinew thread.
+
+Outside the dwelling, a man and some women and children sit together
+while striking nodules of stone that rest upon their knees. Flakes of
+stone are detached, the largest carefully laid to one side; others are
+left where they fall or casually tossed into the scatter of surrounding
+flakes. There is chatter and occasional laughter; some cursing as a
+thumb rather than a stone is struck.
+
+The interior of another dwelling lacks any signs of domestic life. Its
+floor is covered in thick furs; a particularly large mammoth skull
+dominates the room, painted with red stripes. Adjacent to it are
+drumsticks and flutes made from bird bone. Two ivory figurines, each no
+more than a few centimetres long, rest upon a stone slab. Otherwise the
+dwelling is quite empty. This is where special gatherings take place;
+when visitors arrive, almost the entire village meets inside so that
+their news can be heard and gifts exchanged. It gets pretty hot and
+smelly; noisy too when they all begin to sing.
+
+But for now the only sound is that of daily life at the LGM: the crack
+of stone against stone, the gentle chatter of human voices, the huffing
+and puffing from hard labour. These are carried across the tundra by the
+icy, relentless wind, one that will gather strength with the howling of
+wolves as darkness descends. When it does so, the people of Pushkari are
+clustered around a fire. Roasted meat has been shared, stories have been
+told. The temperature falls by another fraction to cross an unspoken
+threshold and causes the people to disperse to their dwellings for the
+comfort of furs.
+
+Those living at Pushkari are Homo sapiens – modern humans, anatomically
+and mentally the same as you and me. By 20,000 BC all other human
+species had already become extinct so this is the only type that John
+Lubbock will encounter on his travels. A brief explanation of when and
+why this happened is thus a useful prelude to the history that is about
+to begin.
+
+The fossil record for human evolution begins seven million years ago
+with a specimen discovered in AD 2002 in Chad, in north central Africa,
+one of the most important discoveries of all time and designated as
+Sahelanthropus tchadensis.² After 4.5 million years ago, several species
+of ape-like creatures that walked on two legs and used stone tools are
+known from the fossil record in Africa. Soon after 2 million years ago
+the first human-like species appeared, one that archaeologists call Homo
+ergaster. This was the first of our ancestors that spread out of Africa.
+It did so with extraordinary speed, reaching Southeast Asia perhaps as
+long as 1.6 million years ago.³
+
+Homo ergaster had at least two evolutionary descendants, H. erectus in
+eastern Asia and H. heidelbergensis in Africa. The latter dispersed into
+Europe and gave rise to the Neanderthals – H. neanderthalensis – at
+about 250,000 years ago. The Neanderthals were an evolutionary dead-end,
+as was H. erectus in Asia. Nevertheless, both of these were extremely
+successful species that lived through great swings of climate.
+
+It was during one especially harsh glacial period at c. 130,000 years
+ago that H. sapiens evolved in Africa – the earliest specimen being
+found at Omo Kibish in Ethiopia. This new species behaved in quite a
+different way to those that had preceded them: the archaeological record
+begins to show traces of art, ritual and a new range of technology,
+reflecting a more creative mind. H. sapiens rapidly replaced all
+existing human species, pushing the Neanderthals and H. erectus into
+extinction.
+
+Soon after 30,000 BC H. sapiens was the only type of human left on the
+planet; it was found throughout Africa, Europe and across much of Asia.
+A remarkable thirst for travel took some of its members to the
+southernmost reaches of Australasia, which would become the future
+island of Tasmania. By then, however, the climate was heading to the
+depths of the last ice age: temperatures were plummeting; droughts were
+persisting; glaciers, ice sheets and deserts were expanding; sea level
+was falling. Plants, animals and people either had to adjust where and
+how they lived, or become extinct.
+
+How many people were alive on planet earth at the LGM? Taking into
+account the large areas of uninhabitable regions, the harsh climatic
+conditions that induced early mortality, and the fact that modern
+genetics has suggested that only 10,000 modern humans were alive 130,000
+years ago, we can guess at a figure of around one million. But this
+really is a guess; trying to estimate past population sizes is one of
+the most difficult tasks that archaeologists face.
+
+While the Pushkari hunters build their dwellings and chip their stone, a
+mammoth herd forages on the other side of the world in North America, in
+a vicinity that will become known as Hot Springs, South Dakota. It is a
+winter’s afternoon and the sunlight is fading while the great beasts
+rhythmically sweep the snow away with their tusks to find the grass
+below. They head towards longer grasses and small shrubs that surround
+the steaming waters of a nearby pond.⁴ At 20,000 BC the Americas remain
+quite devoid of human settlement, even though its landscapes are rich
+with game, so these animals have no fear of human hunters.
+
+The forthcoming global warming will not only condition the human history
+that John Lubbock will experience but that of all other species, some of
+which – such as the mammoths – will have become extinct before his
+travels are complete. Unlike the global warming we face today, that
+which came after 20,000 BC was entirely natural. It was just the most
+recent switch from a ‘warm and wet’ to a ‘cold and dry’ period in the
+earth’s history – from a ‘glacial’ to an ‘interglacial’ state. The
+ultimate cause of such climatic change lies in regular alterations in
+the earth’s orbit around the sun.⁵
+
+The Serbian scientist Milutin Milankovitch first appreciated the
+significance of such orbital change in the 1920s. By building on his
+theories, scientists have established that every 95,800 years the
+earth’s orbit changes from being roughly circular to elliptical. As this
+happens, the Northern Hemisphere develops greater seasonality, while the
+converse happens in the south. This sparks off the growth of northern
+ice sheets. When a circular orbit returns, the north–south contrasts in
+seasonality are reduced, global warming occurs and the ice sheets melt.
+
+Alterations in the earth’s tilt during its orbit also have climatic
+implications. Every 41,000 years, the inclination of the earth changes
+from 21.39 to 24.36 degrees and back. As this angle increases, the
+seasons become more intense: hotter summers, colder winters. The earth
+also has a regular wobble on its axis of rotation, which has its own
+cycle of 21,700 years. This influences the point on its orbit around the
+sun at which the earth is tilted with its Northern Hemisphere directed
+towards the sun. If this happens when the earth is relatively close to
+the sun, the winters will be short and warm; conversely, if the earth is
+relatively distant from the sun when tilted in this fashion, winters
+will be longer and colder.
+
+While these changes in the shape, the tilt and the wobble of the earth’s
+orbit will alter the earth’s climate, scientists think that they are
+insufficient in themselves to account for the immense magnitude and
+speed of past climate change. Processes happening on the planet itself
+must have substantially amplified the slight changes they induced.
+Several of these are known: changes in ocean and atmospheric currents,
+the build-up of greenhouse gases (principally carbon dioxide) and the
+growth of the ice sheets themselves (which reflect increasing amounts of
+solar radiation as they increase in size). The combined impact of
+orbital change and amplifying mechanisms has been the see-sawing of
+climate from glacial to interglacial and back every 100,000 years, often
+with an extraordinarily rapid switch from one state to another.⁶ One of
+the most dramatic of these switches came about in 9600 BC, following on
+from 10,000 years of ups and downs of rainfall and temperature since the
+climatic extreme of the LGM.
+
+[images]
+
+The jagged line in the above figure measures global temperature change
+between 20,000 BC and the present day. It is based on changes in the
+chemical composition of ice through a core taken from Greenland, this
+being a ‘proxy’ – an indirect measure – for global temperature.⁷ More
+specifically, ratios between two isotopes of oxygen, ¹⁶O and ¹⁸O, are
+recorded as relative deviations from a laboratory standard (δ18
+O[images]). When this value is high, the planet was relatively warm and
+wet, when low, it was cold and dry. As can be seen in the figure above,
+the line measuring this value gradually and irregularly increases from a
+low point at 20,000 BC until 12,700 BC is reached; at that date it
+shoots upward, marking the start of a period of relative warmth and
+wetness known as the late-glacial interstadial. There are several small
+peaks within this period, the first being known as the Bølling, and the
+second the Allerød, but it is only in Europe that these can be
+distinguished. The key feature to note is simply the general period of
+warmth between 12,700 and 10,800 BC.
+
+The big dip that follows is called the Younger Dryas. This plays a major
+role in human history in the Northern Hemisphere but once again may not
+be noticeable in the south. Its very cold and dry conditions come to a
+sudden end at 9600 BC when there is a second dramatic increase in
+temperature; that marks the true end of the last ice age. In fact, it
+marks the transition between two major periods in earth’s history, the
+Pleistocene and the Holocene. After that steep rise, the line continues
+to fluctuate while gradually climbing to a peak at 7000 BC and having a
+noticeable dip at 6200 BC. Otherwise the earth’s Holocene climate has
+been remarkably stable – although such stability may now have come to an
+end as a new period of human-made global warming has recently begun.
+
+The construction of mammoth-bone dwellings, stitching of clothes, making
+of stone tools and acquisition of food are not the only human activities
+under way on planet earth at the LGM. Artists are at work in the caves
+of Southwest Europe. A cluster of animal-fat lamps burn on the floor of
+the cave that will become known as Pech Merle in France. Another lamp is
+held aloft by a young boy to provide illumination for the quick
+movements of an artist’s hand. The artist is an old but sprightly man
+with long grey hair, naked but with painted flesh. He is part of a
+community who live by reindeer hunting on the tundra of southern France.
+Amidst the lamps are his paints. Lumps of red ochre have been crushed to
+powder and then mixed in a wooden bowl with water from puddles on the
+cave floor. Another bowl contains a black pigment; sticks of charcoal
+are scattered between them along with pieces of leather and fur, frayed
+sticks and hairbrushes. There is a sweet smell in the air: herbs are
+smouldering upon a fire. Every few moments the artist kneels and inhales
+deeply to refresh the vision within his mind.⁸
+
+On the wall two horses have been painted in profile, back to back with
+hindquarters overlapping. The artist is creating large spots within the
+outlines; he takes mouthfuls of paint and spits it through a leather
+stencil to make circles on the wall. His breath is the key ingredient to
+make the horses come alive. Then he returns to his herbs, changes the
+pigment and now places his hand against the wall to spit and leave its
+silhouette.
+
+The artist works hour after hour, pausing only to change his pigment or
+his stencil, to switch a brush or sponge, to replenish the fat within
+his lamps and intoxicate his mind. He talks and sings to the horses, he
+drops to all fours and then rears like a stallion. More spots and hand
+stencils are made. The horses’ heads and necks are painted black. As he
+comes to an end, the artist is physically exhausted and mentally
+drained.⁹
+
+Archaeologists have only learned the date at which the mammoth-bone
+dwellings were built at Pushkari and the paintings were made in Pech
+Merle by the use of their most precious scientific tool: radiocarbon
+dating. Without this technique, writing a human history of prehistoric
+times would be quite impossible, as archaeologists would be unable to
+place the sites they excavate – the living settlements that John Lubbock
+will visit – in the correct chronological order. And so, as a final
+prelude to the history that follows, it is appropriate to provide a
+brief summary of this most remarkable technique of archaeological
+science.
+
+The underlying principle is quite straightforward. The atmosphere
+contains three isotopes of carbon: ¹²C, ¹³C and ¹⁴C. These are carbon
+atoms with different numbers of neutrons (six, seven and eight
+respectively). Living things take the carbon isotopes into their bodies
+at the same ratio as they exist within the atmosphere. With death, the
+¹⁴C within the body begins to decay while the other carbon isotopes
+remain quite stable. The date at which death occurred can be established
+by measuring the ratio of ¹²C to ¹⁴C and by knowing the rate at which
+¹⁴C decays.¹⁰
+
+In order to be dated, an object must contain carbon, which means that it
+must have once been alive. Stone tools, the most ubiquitous find from
+prehistory, cannot be directly dated themselves, nor can walls or
+pottery vessels. Instead, archaeologists have to rely on finding items
+in close association with datable material such as animal bones or plant
+remains, ideally charcoal. Also, there must be sufficient ¹⁴C remaining
+in the sample. Unfortunately this is not the case for any sample earlier
+than 40,000 BC, which provides the chronological limit for radiocarbon
+dating.
+
+There are two further complications. The first is that a radiocarbon
+date is never an exact value but simply an estimate defined by a mean
+and a standard deviation, as in, for instance, 7500±100 BP. ‘BP’ is the
+term used by archaeologists to refer to ‘Before Present’ (with the
+present having been once agreed upon as 1950). In this example, the 7500
+provides the mean and the 100 the standard deviation for a distribution
+of dates within which the true date lies. This tells us that there is a
+68 per cent chance (i.e. two chances out of three) that the true date
+lies within one standard deviation of the mean, in this case between
+7400 and 7600, and a 95 per cent chance that it will lie within two
+standard deviations, i.e. between 7300 and 7700 BP. The smallest
+deviation possible is, of course, preferred. But as this is unlikely
+ever to fall below fifty years, the dates for past events will always
+remain approximate.
+
+The second complication is that radiocarbon years are not the same
+length as calendar years, and indeed they are not the same length as
+each other. An artefact with a radiocarbon date of 7500 BP is not 100
+calendar years older than an artefact with a date of 7400 BP. This is
+because the concentration of ¹⁴C in the atmosphere has decreased through
+time and that makes years appear longer. Fortunately this problem can be
+resolved by ‘calibrating’ the radiocarbon date through dendrochronology,
+otherwise known as tree-ring dating.
+
+With tree-rings, one can count individual calendar years back into the
+past. By linking up timbers of different ages, a continuous sequence of
+trees for the last 11,000 years has been established.¹¹ Wood from any
+one of those rings can be dated by radiocarbon methods and hence the
+deviation between the real calendar date and the radiocarbon date
+derived. So when a radiocarbon date is acquired from an archaeological
+site, that deviation can be taken into account and a date in calendar
+years established. When dates are calibrated they are also frequently
+converted from BP (before 1950) to BC (before Christ, i.e. ‘0’;
+sometimes this is expressed as BCE, ‘Before the Common Era’). So, after
+calibration, a radiocarbon date of 7500±100 BP indicates that the true
+date has a 68 per cent chance of lying between 6434 and 6329 BC. Tree
+rings are not available before 11,000 years ago but archaeologists have
+found other means to calibrate their dates. This has shown that the gap
+between ‘radiocarbon years’ and ‘calendar years’ gradually widens
+(although in an irregular fashion) as one goes back in time. By 13,000
+years ago there is more than a 2,000-year difference between a date
+given by the radiocarbon method and its true age in calendar years. All
+the dates that follow in this book are in calendar years BC; my endnotes
+provide the radiocarbon dates themselves along with their precise
+calibrated values at one standard deviation.¹²
+
+While the people of Pushkari stitch their clothes and the artist paints
+within Pech Merle, others are stalking wallabies on the grasslands of
+Tasmania, ambushing antelopes on East African savannahs, fishing in the
+Mediterranean and the Nile. This history will visit these and other
+hunter-gatherers, and then examine how global warming changed the lives
+of their descendants. It begins, however, in the Fertile Crescent – an
+arc of rolling hills, rivers valleys and lake basins that is today
+covered by Jordan, Israel, Palestine, Syria, southeast Turkey and Iraq.
+This is where the first farmers, towns and civilisations will arise.
+
+A hunter-gatherer campsite is flourishing on the western shore of Lake
+Tiberias, otherwise known as the Sea of Galilee. When excavated by
+archaeologists, the campsite will be called Ohalo and recognised as one
+of the best-preserved settlements from the LGM.¹³ Being located far from
+the ice sheets and tundra landscapes, oak woodland is not far away. Its
+dwellings are made from brushwood, its people wear garments of hide and
+vegetable fibres. A new hut is under construction: cut saplings have
+been forced into the ground and are being woven together to make a dome.
+Piles of leafy branches and animal skins have been prepared to use as
+material for the roof. Such building work involves far less effort than
+that required at Pushkari; indeed, life at Ohalo seems far more
+attractive in every way.
+
+There are many people scattered along the lakeshore: some sitting in
+groups chatting, children playing games, old men sleeping in the
+afternoon sun. A woman approaches the huts from the water’s edge bearing
+a basket of freshly caught fish, while others hang nets across coracles
+to dry. She beckons her children to follow her into their dwelling where
+the fish will be threaded on to twine and hung to dry.
+
+Two women emerge from the woodland draped with freshly killed fox and
+hare. Several men follow with a trussed-up gazelle supported on a pole.
+More women and then children appear with bags and baskets carried in
+every way imaginable – on their heads, hauled along the ground, slung
+across shoulders, tied around the waist. The carcasses are placed close
+to a hearth and the bags and baskets emptied on to hides. Piles of
+fruits, seeds, leaves, roots, bark and stems have tumbled forth. There
+will be a feast tonight. A young man stands amidst this busy village
+scene, quite unnoticed by those at work and play. This is John Lubbock
+and Ohala at 20,000 BC is where his travels through human history begin.
+
+WESTERN ASIA
+
+[images]
+
+3 Fires and Flowers
+
+Hunter-gatherers and the forest steppe, 20,000–12,300 BC
+
+Unable to sleep, John Lubbock sits by the lakeshore watching bats at
+work and enjoying a night-time breeze. Across the water, grazing deer
+are silhouetted in moonlight at the woodland edge. The Ohalo huts are
+behind him, a few metres from the shore and now quite empty as the
+people sleep below the stars and around a smouldering fire. The hut
+floors are left unclean – some scattered with flint flakes, others with
+the debris from a recent meal. Strings of fish and bouquets of herbs are
+hanging from rafters inside, wicker baskets and wooden bowls are stacked
+by the walls.
+
+Someone sighs and turns, a child cries out and receives comfort. Trees
+rustle as a stiff breeze blows between the Ohalo huts; the fire gives a
+crack and a glowing ember is wafted into the air. It spirals upwards and
+then floats back down, not to the fire but on to the dry grass that
+covers the roof of a brushwood hut.
+
+Wood smoke. Lubbock inhales it deeply, assuming that it comes as a wisp
+from the fading fire. But the smoke lingers and then grows; it becomes a
+pungent, visible cloud. Coughing and turning, he sees the hut ablaze.
+The people have woken and are pulling it apart, stamping out the flames
+and rushing for water. But the gentle breeze easily defeats such frantic
+efforts – it lifts a score of burning stems, leaves and twigs and
+scatters them all around. A second and then a third hut are now alight.
+The people retreat. Shielding their faces and holding their children
+tightly, they gather by the lake to watch their campsite burn.
+
+The fire at Ohalo may have taken no more than a few minutes to reduce a
+cluster of huts to circles of charred stumps. Whether it began in this
+fashion or by some other means is quite unknown – perhaps it was a
+deliberate firing of huts infested with fleas and lice. But what may
+have been tragic for the Ohalo people was a blessing for
+twentieth-century archaeologists. Within a few years, water from rising
+lake-levels had gently flooded the site, protecting it from decay. Ohalo
+became lost from sight and human memory until a drought in 1989 brought
+a 9-metre drop in the water level and exposed rings of charcoal where
+the brushwood dwellings had been.
+
+Dani Nadel of Haifa University began a meticulous excavation of a truly
+remarkable site; both he and archaeologists throughout the world were
+astonished at the diversity of plants and animals that had been used by
+the Ohalo people at the LGM.¹ After the immense excitement of that first
+season of excavation there was a ten-year wait until water levels were
+once again sufficiently low for Nadel to continue. By great good fortune
+I was there when he began to do so in 1999. His was the most idyllic
+excavation I have ever seen – hot sun, glistening blue water, shaded
+trenches revealing the debris of ancient lives.
+
+In the morning the Ohalo people rake through hot ashes and the still
+smouldering remnants of their settlement. They pick out a few treasured
+items – a bone-handled knife inset with flint blades, a woven mat that
+had escaped the flames, a burnt bow that could be repaired. With these
+they depart, heading westwards into the oak woodland to find another
+place to camp.
+
+Had they been farmers rather than hunter-gatherers, the fire would have
+destroyed more than brushwood huts: most likely timber-built dwellings,
+animal pens, fences, and stored grain; their flocks may have fled or
+even died in the flames. Rather than abandoning the site to nature,
+farmers would have had to remain and rebuild because of their investment
+in the surrounding land: woodland clearance, fence construction and the
+planting of crops. But the Ohalo people can simply disappear into the
+woodland, heading westwards towards the Mediterranean coastal plain.²
+Lubbock decides that the woodlands can wait and departs to encircle the
+lake and walk into the grasslands and among the trees on the gentle
+hills that lie to the east.
+
+The forest steppe – a landscape of grasses, shrubs and flowers growing
+lushly below thinly scattered trees – was critical to the course of
+human history. This is because the immense diversity of plant foods it
+offered to hunter-gatherers included the wild relatives of the first
+domesticated crops: wheat, barley, peas, lentils and flax. Comparable
+plant communities hardly exist today and are certainly no longer found
+within the Golan Heights, today’s name for the hills to the east of Lake
+Tiberias.
+
+Reconstruction of the vegetation cover of prehistoric landscapes is a
+requirement for understanding the past. It is often achieved by the
+analysis of pollen grains: the male reproductive cells, or gametes, of
+seed plants whose purpose is to reach the female part of the flower
+where fertilisation takes place. Fortunately, many do not make it and
+fall unused to the ground. If recovered by scientists, perhaps many
+thousands of years after the flowers have died, they can fulfil a
+different role – that of telling us what plants had once flourished in
+the evolving landscapes of the ice age world.³
+
+Pollen grains from different species of plants are quite distinct. They
+are tiny specks to the naked eye but appear unique when seen below a
+binocular microscope. The pollen grains of pine, for example, have two
+wing sacs, while that of oak looks granular with three slits around each
+edge. When magnified with an electron microscope they present an exotic
+range of 3D surreal spiky spheres and other wonderful forms.
+
+Pollen grains rain down from the flowers of grasses, shrubs and trees
+and often become embedded in the mud of a pond or lake. They become
+buried as further mud, with its own pollen, accumulates. More mud, more
+pollen, perhaps coming from a quite different set of plants that had
+begun to grow nearby. And so on, perhaps for many thousands of years
+until the lake has completely silted up.
+
+A ‘core’ can be extracted from those sediments, a thin column of the mud
+or peat, every inch of which takes us back through time. Palynologists –
+those who specialise in the study of pollen grains – slice up these
+cores like salami. They remove the pollen grains from each separate
+slice and discover which plants had been growing in the vicinity when
+that particular layer of mud had been at the surface. By comparing the
+pollen from successive slices, they reconstruct how the vegetation
+changed through time. And by gaining radiocarbon dates from fragments of
+stem, leaf or seeds trapped within the core, they can work out the
+history of vegetation change.⁴
+
+When Lubbock travels through Europe there will be many ‘pollen cores’
+for us to examine. These show how its tundras turned to woodland and
+back again. But western Asia has very few cores, and hardly any of these
+are very deep or have well-preserved pollen. One core, however, is of
+immense value, having been extracted from the sediments of the Hula
+basin 20 kilometres north of Lake Galilee.⁵ At 16.5 metres in length, it
+reaches back to the sediments laid down at the LGM when the Ohalo people
+were camping by the lake; it can tell us what pollen had been floating
+in the air.
+
+The pollen evidence makes clear that as the hunters moved eastwards away
+from the Mediterranean coastal lands, the woodland disappeared, leaving
+a mere scattering of trees within grasses, shrubs and herbs – a woodland
+steppe. As soon as the Jordan valley had been crossed trees would have
+become less abundant, although surviving on the slopes leading to the
+plateau; and as one moved further east, the grasses and shrubs
+themselves diminished until there was desert – just as there is today.
+But within that desert there were oases, notably at Azraq where inland
+lakes attracted not only many birds and animals, but also hunters and
+gatherers. And it is to Azraq that Lubbock is now heading after a rest
+amid an expanse of vibrant red poppies on the steppe.⁶
+
+Pollen evidence by itself is unable to provide an accurate picture of
+the ice-age steppe. Different species of grasses – including the wild
+cereals – cannot be easily distinguished by their pollen grains, while
+any insect-pollinated plants would be under-represented owing to the
+limited amount of pollen they produce. So archaeologists have examined
+the few remaining areas of steppe in western Asia, especially those that
+escape the heavy grazing of sheep and goat, such as nature reserves and
+military training grounds. These provide insights into ancient plant
+communities that cannot be garnered from the archaeological evidence
+alone.⁷
+
+Gordon Hillman, from the Institute of Archaeology in London, is one of
+the foremost ‘archaeo-botanists’ in the world. For more than thirty
+years he has been studying modern steppe communities, and has influenced
+a whole generation of students to do likewise. He has shown how the
+prehistoric steppe would have been composed of knee-high perennial
+shrubs with small fleshy leaves, known to botanists as wormwoods and
+chenopods (or members of the goosefoot family), and a rich mixture of
+grasses. Some of the grasses would have grown in small wiry tussocks,
+while the taller ‘feather’ grasses produced – in Hillman’s words – a sea
+of silvery plumes billowing in the wind. Each spring the steppe would
+have exploded with colour and erupted with scent – the blossoming of
+thistles, knapweeds, wild fennel and a myriad of other plants.
+
+Archaeo-botanists have studied not only the surviving steppe
+communities, but also how people from traditional societies, such as
+Native Americans and Australian Aborigines, have exploited these plants
+for food. They have shown that the steppe would have been brimming with
+both staples and delicacies for those with the botanical know-how of
+what to eat. Plants such as cranesbill, storksbill and wild parsnip
+could have provided thick, bulbous roots; the chenopods would have
+yielded abundant quantities of seeds; and wild grasses would have
+provided grain.
+
+An understanding of the nutritional value of such plants is vital to
+reconstructing prehistoric life on the steppe. Unfortunately, there is
+very limited evidence as to which specific plants were gathered. Unlike
+stone artefacts, plant remains decay almost instantly once discarded
+unless this is inhibited by extreme aridity, waterlogging or intense
+charring – as was the case at Ohalo. But even within that site’s burnt
+remains there were no traces of fleshy vegetables and leaves, both of
+which are most likely to have been collected.
+
+With the hindsight of history we know that wild cereals were the most
+important plants growing within the forest steppe. The key difference
+between the wild and domestic varieties lies within the ears of grain.
+In the wild forms these are very brittle, so that when ripe they
+spontaneously shatter and the grain is scattered on the ground.
+Domesticated forms do not do this; their ears remain intact and the
+grain needs to be removed by threshing. So without human management the
+domesticated forms cannot survive, as they are unable to reseed
+themselves.
+
+It is the same with peas, lentils, bitter vetch and chickpeas – the
+other early domesticates. As Daniel Zohary, a specialist on the genetics
+of wild and domesticated cereals from the Hebrew University in
+Jerusalem, once explained, the domesticated forms of cereals and pulses
+‘wait for the harvester’.⁸ He has revealed that the change from one to
+the other depends on the mutation of a single gene. Another consequence
+is a change in the pattern of germination. Different individuals within
+a stand of wild plants will germinate and ripen at slightly different
+times – this ensures that some of them at least will mature and provide
+seed for the next year in conditions of unpredictable rainfall.
+Domesticated varieties, however, all germinate and ripen at the same
+time; they not only wait for the harvester, but also make his – or
+probably her – life very much easier.
+
+The origin of agriculture is intimately tied up with the emergence of
+these domesticated varieties of cereals and legumes, as well as flax
+which was used to produce the first linen. As we will see, this could
+only have happened with human intervention in the life cycle of plants –
+people have been in the business of genetically modifying foods for a
+very long time indeed.
+
+But not the Ohalo people and their contemporaries. They would have
+harvested wild cereals by beating the plants with sticks so that the
+grain fell into baskets held below. This is the method used by many
+recent peoples, such as the North American Indians, when collecting seed
+from wild grass. To be effective, one must time the collection just
+right – if the cereals have not ripened, few of the grains will fall
+into the baskets; conversely, if the cereals are past their peak, much
+of the grain would have already fallen to the ground. Some would have
+entered into cracks, been kept warm and watered by the rain to provide
+new shoots in the spring; other grain – probably the vast majority –
+would have been eagerly eaten by birds and rodents.
+
+Plants were important to the Ohalo people; so, too, were the animals
+that lived in the woodland and steppe. Their favoured prey throughout
+the region was the gazelle, present as several different species, each
+adapted to a different habitat: the mountain gazelle in the
+Mediterranean zone, the dorcas gazelle in craggy regions, the Persian
+(or goitred) gazelle on the eastern steppe. Fallow deer browsed in the
+mountainous regions of Lebanon, wild ass grazed on the steppe and wild
+goat picked its way across the crags of the upland areas. Aurochs (wild
+cattle), hartebeest and wild boar would have been found within the
+woodlands, along with many smaller mammals, birds and reptiles.
+
+The animal bones excavated from Ohalo tell us that several of these
+species were hunted. Fish were caught in the Sea of Galilee, and perhaps
+in the Mediterranean. That coastline could have supplied many varieties,
+together with crabs, seaweed and shellfish. But whether these were
+collected we can but speculate: long before archaeologists could get to
+work the coastline was flooded and any coastal settlements washed away
+by rising sea level, caused by the melt waters of the great northern ice
+sheets.
+
+Azraq, the place T. E. Lawrence called the queen of oases,⁹ comes into
+view as John Lubbock climbs the last ridge of lava pebbles. He has
+travelled 100 kilometres from the Sea of Galilee, much of it across
+barren desert with freezing night-time temperatures. Now he looks across
+lake waters that glimmer in the first rays of the morning sun. Gazelle
+are delicately picking their way through the surrounding marsh; what had
+been a single purple blur beyond is turning into foliage, a rich
+selection of greens, yellows and browns as the trees gain their form;
+the new day is welcomed by sweetly singing birds and tiny wafts of smoke
+from fires in the many campsites that surround the lake.
+
+These are of hunters who have gathered at Azraq for the winter months,
+having spent the summer dispersed throughout the steppe and desert. Now
+they meet again to exchange their news, to renew friendships and perhaps
+to celebrate a marriage. They also bring items to trade: shells from the
+shores of the Red Sea and the Mediterranean, carved wooden bowls and
+furs.
+
+Lubbock spends the day exploring the marshes, watching the wading birds
+and swimming in the lake. When resting, he flicks through his
+leather-bound and rather tatty copy of Prehistoric Times, impressed by
+the elegant drawings of artefacts and burial tombs. Its full title is
+very telling: Prehistoric Times as Illustrated by Ancient Remains and
+the Manners and Customs of Modern Savages. Much of the book is devoted
+to the latter, with descriptions of tribal peoples such as the
+Australian Aborigines and the Esquimaux (Inuit) as living
+representatives of the Stone Age past. Lubbock picks a chapter to read
+at random, and finds that even though its Victorian author had thought
+prehistoric people possessed childlike minds, he had appreciated their
+tool-making skills, especially in working flint.
+
+In the late afternoon Lubbock arrives at a small campsite just below a
+basalt outcrop and beside a pool of fresh water that arises from a
+spring. It has a simple shelter: gazelle hides tied together with sinew
+and supported by a ridge-pole and stakes wedged upright with stones.
+Nothing of this shelter will be left for archaeologists to find, in
+contrast to the activities outside where a man and two women are
+generating a huge amount of flint flakes as they make stone tools. They
+sit cross-legged wearing necklaces made from tube-like shells known to
+us as dentalium. A child sits near them playing with stone nodules and
+unknowingly learning the arts of tool making. A much younger child
+sleeps in the shade of the shelter, where an old woman slowly grinds
+seeds upon a basalt mortar. A hare hangs from the ridge-pole.
+
+Another member of the group is undertaking a task crucial to human
+survival throughout the prehistoric world: making fire. A young woman
+squats upon the ground, holding a piece of softwood below her toes. She
+has a thin stick of a harder wood in her hands that she rotates very
+rapidly in a small nick in the softwood, having added a few grains of
+sand to increase the friction. Within a few moments a little pile of
+dust accumulates; and then it glows. She adds some wisps of dry grass
+and soon has a light for a nearby hearth. Lubbock will see this
+technique used repeatedly throughout the world; it is one that he
+himself will perfect. He will also see another: creating sparks from
+chipping brittle stones together. But for now, his interest lies in
+watching the manufacture of stone tools to see whether his Victorian
+namesake was correct about the amount of skill required.
+
+The nodules of stone – or cores – being worked come from the limestone
+outcrops close to Azraq that are peppered with blocks of flint. Using
+hammer-stones of basalt, the cores are shaped by detaching thick flakes
+of the limestone crust. Once these have been prepared long, thin slivers
+of flint are carefully removed from around the edges of the cores. These
+slivers, or blades, vary from five to ten centimetres in length; many
+are thrown away with the other waste but a few are put aside.
+
+Those working the stone chat as they work, sometimes cursing when a fine
+blade accidentally snaps, sometimes commenting upon a fossil shell that
+appears when a nodule breaks in half. Lubbock takes a nodule and hammer
+stone and tries to make a blade; but all he achieves is a couple of
+thick flakes and a bloody finger. He recalls a passage in Prehistoric
+Times about flint tools: ‘Easy as it may seem to make such flakes as
+these, a little practice will convince any one who attempts to do so,
+that a certain knack is required; and that it is also necessary to be
+careful in the selection of flint.’¹⁰
+
+The flint knappers shape their selected blades with immense skill, using
+pointed stones to chip off minuscule flakes and turning the blades into
+an assortment of tiny tools – some with thin points, others with curved
+backs or chisel-like ends.¹¹ More accurately they are tool-parts: these
+microliths – as archaeologists call them – are inserted into reeds used
+as arrow hafts and into bone handles to make knives. The broken points
+and blunted blades will already have been removed and discarded on to
+the pile of waste. Any new microliths that do not fit are also thrown
+away – the craftsmen prefer to spend a few moments making another rather
+than risk damaging the far more precious haft.
+
+The Ohalo people had made similar microliths; indeed, such artefacts
+have been made throughout western Asia ever since the LGM and will
+continue to be produced for many thousands of years. Collections of
+microliths – coming in a variety of shapes and sizes – and the waste
+from their manufacture dominate the archaeological record of this period
+in western Asia and are used to define the ‘Kebaran culture’.¹²
+
+The particular scatter of microliths and stone flakes that Lubbock
+watched being created was eventually excavated by Andy Garrard, now at
+the University of London. In the 1980s, as director of the British
+Institute in Amman, Jordan, Garrard undertook a major programme of
+excavations in the Azraq basin, documenting the presence of both
+hunter-gatherers and prehistoric farmers. In Wadi el-Uwaynid, 10
+kilometres from Azraq Lake, he found two dense scatters of flint flakes
+and microliths, along with a basalt grinding stone, a few dentalium
+beads, gazelle, tortoise and hare bones.¹³
+
+Garrard’s work exposed a great number of such sites, and demonstrated
+that some had been used repeatedly for many thousands of years,
+resulting in huge scatters of artefacts.¹⁴ The attraction of Azraq would
+have been the herds of gazelle which came to drink and graze on the
+lakeside vegetation; they most likely did so in great numbers and at
+predictable times of year and day. The hunter-gatherers would have known
+those times and arrived in large numbers to capture the vulnerable prey,
+probably returning to the campsite they had used the year before.
+Worn-out tools, and the waste from making new ones, were discarded on to
+the vast piles already present – contributing to what would one day be
+Andy Garrard’s excavation challenge.
+
+Almost 20,000 years before Garrard begins his work Lubbock watches two
+men arrive at the camping site in Wadi el-Uwaynid. They have been
+hunting with little success. As dusk descends, the hare is roasted on a
+spit and eaten with a thick porridge served in upturned tortoise
+shells.¹⁵ Visitors arrive from nearby camps, requiring more food to be
+prepared and more wood for the fire. Soon at least twenty people are
+gathered and their talk merges imperceptibly into quiet song. Lubbock
+climbs on to the nearby basalt crag and looks down upon the flimsy
+shelter, the fire and the seated crowd. Stars appear and the moon rises.
+It is a scene repeated not only throughout the Azraq basin but also
+across western Asia – a world of hunter-gatherers only known to
+archaeologists by the scatters of stone artefacts they left behind.
+
+Over the next four and a half thousand years, both the plants and the
+people in this region will become much thicker on the ground. What had
+been barren desert to the west of Azraq will be covered by grasses,
+shrubs and flowers by 14,500 BC. Trees will spread on to what had been
+the open steppe.
+
+As western Asia became warmer and wetter, its plants and animals became
+more abundant. Direct evidence for such environmental change comes from
+the Hula core which, from around 15,000 BC, shows a marked increase in
+thick woodland with oak, pistachio, almond and pear. This period of
+increasing warmth and wetness culminates at 12,500 BC – the late-glacial
+interstadial.
+
+These changes in vegetation lead to a vast increase in the availability
+of plant foods on the steppe.¹⁶ Plants with edible roots that had been
+rare are now abundant – wild turnips, crocuses and grape hyacinths. The
+wild grasses are flourishing, enjoying not only the more clement
+conditions but also an increase in seasonality – cooler, wetter winters
+and hotter, drier summers. We must envisage vast stands of wild wheat,
+barley and rye appearing across the steppe, surrounded by a scatter of
+trees. In effect, there was a massive increase in the availability of
+wild plant foods for the hunter-gatherers throughout the whole of the
+Fertile Crescent.
+
+Human population increased in this warmer and wetter world; with
+improved nutrition women could bear more children, and more of these
+survived infancy to reproduce themselves eventually. They dispersed into
+the new woodlands and steppe; they began to hunt in the uplands that had
+previously been too cold and dry.
+
+Although populations were greater, human lifestyles were little changed
+from those of the people who had camped at Ohalo and Azraq at the LGM.
+Nevertheless, archaeologists find a new uniformity in human culture.
+After 14,500 BC people from the Euphrates River to the Sinai Desert, and
+from the Mediterranean to Saudi Arabia, had adopted similarly shaped
+microliths and methods of manufacture. With increased numbers, more
+extensive travel and frequent gatherings of people, the old diverse
+traditions of tool manufacture had been eclipsed. People throughout this
+region chose to use rectangular- and trapeze-shaped microliths. These
+became favoured over all others for the next 2,000 years.
+
+The largest sites continue to be found within the Azraq basin and in the
+woodlands of the Mediterranean hills. New settlements appear, such as
+that of Neve David, established at the foot of the western slopes of
+Mount Carmel in Israel.¹⁷ Excavations by Daniel Kaufman from Haifa
+University revealed the remains of a small stone-built circular hut and
+wall, together with many stone tools, a basalt grinding stone and
+mortar, limestone bowls, beads made from seashells, and a human burial.
+The skeleton had been laid on its right side with the knees tightly bent
+up under the body. A flat grinding stone had been placed between the
+legs, a broken mortar over the skull, and a broken bowl behind the neck
+and shoulder. The placement of plant-grinding tools in the grave
+suggests the importance of this activity and food source to the people
+of Neve David. Kaufman thinks the fact that the mortar was broken is
+significant: as such it was ‘dead’, just as the person in the grave was
+dead.
+
+From Wadi el-Uwaynid, Lubbock has travelled through 150 kilometres and
+more than six millennia to arrive back in the thick woodlands of the
+Mediterranean region. The date is 12,300 BC and he stands on the west
+bank of the Hula Lake on an autumn afternoon, looking westwards towards
+the hills covered with oak, almond and pistachio. Nestled into the
+east-facing slope there is a settlement with the reds, russets and
+browns of hide and brush dwellings merging almost seamlessly with the
+surrounding woodland. It is much larger than any other settlement he has
+seen, one that truly deserves to be called a village.
+
+4 Village Life in the Oak Woodland
+
+Early Natufian hunter-gatherer communities, 12,300–10,800 BC
+
+Through gaps in the leafy trees John Lubbock sees five or six dwellings
+aligned along the woodland slope. They are cut into the earth itself,
+having subterranean floors and low drystone walls that support roofs of
+brushwood and hide. With such well-built and neatly ordered dwellings
+the village looks quite different to what now seem haphazardly planned
+and hastily built settlements at Ohalo and Azraq. People have evidently
+planned to live within this village all year round. It is ‘Ain Mallaha,
+a village of the new lifestyle that has emerged within the oak woodlands
+that grow across the Mediterranean hills.¹ More than a new lifestyle – a
+completely new culture, that which archaeologists call the Natufian.²
+Ofer Bar-Yosef, Professor of Archaeology at Harvard and doyen of west
+Asian archaeology, believes this culture to be the ‘point of no turning
+back’ on the road to farming.³
+
+As he stands on the threshold of the village, Lubbock watches its people
+at work. They are tall and healthy, dressed smartly in clothes made from
+hide, some wearing pendants of shell and bone beads. Just as at Ohalo,
+their main work is turning wild plants into food, plants that have been
+gathered in the woodland and on the forest steppe. But their undertaking
+is now quite different, far larger in scale and far harder work. The
+stone mortars they use are of boulder proportions. There are many hands
+at work – grinding, pounding, shelling and cutting. Baskets of acorns
+and almonds are waiting to be opened and then ground into flour and
+paste.
+
+Lubbock strolls between the workers, peering over their shoulders,
+stealing a little almond pulp to taste. Rich crushed-vegetable and
+wood-smoke aromas meld with the rhythmic pounding of mortars, the gentle
+chatter of adults and laughter of children. But not all the adults are
+at work; some sit idly in the afternoon sun, at least two women are
+heavily pregnant. Another leans against the wall of a dwelling with a
+dog asleep in her lap. Lubbock passes by, stepping between pits lined
+with plaster in which nuts are stored for future use, and enters her
+dwelling. Its remnants will eventually be excavated by the French
+archaeologist Jean Perrot in 1954 and become known unglamorously as no.
+131.⁴
+
+Dwelling 131 is a little larger than the others, perhaps 9 metres
+across, allowing five or six people to sit or sleep in comfort. Parts of
+the interior are dark and musty; elsewhere broken beams of afternoon sun
+enter through the brushwood roof, a roof supported by internal posts
+wedged upright and stabilised by rocks. The stone walls are draped with
+hides and rush mats cover the floor.
+
+Just inside the entrance there is a spread of ash where a fire had
+burned the previous night to keep the biting insects at bay. Another
+hearth now glows in the centre of the floor; a man squats alongside and
+plucks a brace of partridges. He cuts the birds into joints and places
+them to cook on hot stone slabs. Behind him a third fire is burning,
+providing a focus for a few young people who are repairing bows and
+arrows. Flat stones with deep parallel grooves are used to straighten
+thin branches to be used as the shafts; razor-sharp flakes of flint are
+attached using resin to form points and barbs.
+
+Stone pestles and mortars, wicker baskets and wooden bowls, are stacked
+around the walls. Hanging from the rafter is a group of tools quite
+unlike any that Lubbock has seen before – sickles. Their bone handles
+are either decorated with geometric patterns or have been carved into
+the form of a young gazelle.⁵ The blades are made from five or six flint
+flakes, set tightly into a groove using resin. As they dangle, spin and
+catch the sunlight the blades glisten, having been polished by the many
+thousands of plant stems they have cut.
+
+Jean Perrot found the remnants of this domestic scene when he excavated
+dwelling 131 at ‘Ain Mallaha – holes and clusters of stones where the
+roof supports had been, bird bones scattered around stone slabs within
+an ancient hearth, flint cores and flakes, grooved stones, basalt
+mortars, and flint blades. Many of the blades hold ‘sickle-gloss’,
+indicating that they had been used to cut a great number of plant stems,
+most likely of wild wheat and barley. Of course Perrot did not find the
+rush mats, the hides, wicker baskets and wooden bowls – we can only
+guess at the presence of these to provide some comfort, and to make the
+best use of the many materials available in the woodland.
+
+A short distance from dwelling 131 Lubbock finds another that has been
+abandoned – its roof and walls have long since collapsed, its stone
+foundations robbed for use elsewhere. In the absence of the living, this
+deserted and dilapidated dwelling has become a cemetery. The graves are
+unmarked but contain richly decorated bodies. Jean Perrot found eleven
+men, women and children, all from separate graves and probably members
+of one family. Four of them had worn necklaces and bracelets made from
+the toe bones of gazelle and seashells, notably the long, thin and
+naturally hollow dentalium shells, as already seen at Azraq. One woman
+had worn an elaborate bonnet on her head, made from row upon row of such
+shells.⁶
+
+Within a few years, dwelling 131 will also be abandoned and will house
+the dead of another ‘Ain Mallaha family. Twelve individuals will be
+buried there, five of whom will be decorated in a similar fashion. One
+of the dead will be an elderly woman; she will lie with a puppy, curled
+up as if asleep. Her hand will rest on its little body – much as it had
+done throughout the dog’s short life.⁷
+
+There is a large stone mortar carved into a protruding piece of bedrock
+close to the centre of the village, on which Lubbock sits to appreciate
+the scene. When I sat upon that same stone in 1999, ‘Ain Mallaha had
+just undergone renewed excavations by another French archaeologist,
+François Valla. It was deserted and silent other than the song of a
+woodland bird. But Lubbock sees large nodules of basalt being turned
+into pestles and mortars, the surface of one being decorated with an
+intricate geometric design.⁸ He listens to the chipping of stone, the
+chatter of voices and bark of dogs. He watches people making beads –
+cutting dentalium shells into segments and threading them on to twine.
+The wooden bowl from which the shells are taken also contains a bivalve
+that had originated in the waters of the Nile. Perhaps it had been
+traded from person to person, from settlement to settlement until it
+travelled at least 500 kilometres north; or perhaps it was the memento
+of a long journey made by one of the ‘Ain Mallaha villagers.⁹
+
+As was the case at Ohalo and Azraq, people are chipping stone nodules.
+At ‘Ain Mallaha a new design of microlith is being made: thin
+rectangular blades of flint are carefully chipped into crescents – or
+lunates as archaeologists call them. Some are used in sickles, others as
+barbs on arrows. Why this particular design of microlith gained such
+popularity remains unclear – probably for no reason other than that
+people are such compulsive followers of fashion.
+
+Lubbock leaves the village for the woodland as the light begins to fade.
+The pounding slows, the rhythm is lost, and then it stops, as does the
+chipping of stone. The ‘Ain Mallaha people return to their dwellings or
+congregate around fires. Gentle chatter turns to quiet song. Mice and
+rats come out to feed on the nuts and seeds that have been dropped; dogs
+come to chase them away.
+
+With the last of the light, Lubbock reads some more of Prehistoric
+Times. Although disappointed to find nothing about western Asia, two
+passages seem pertinent to ‘Ain Mallaha. In one, his Victorian namesake
+has drawn together tiny scraps of evidence to suggest that dogs had been
+the first domesticated species.¹⁰ But in another he seems to have been
+completely wrong:
+
+the true savage is neither free nor noble; he is a slave to his own
+wants, his own passions; imperfectly protected from the weather, he
+suffers from cold by night and the heat of the sun by day; ignorant of
+agriculture, living by the chase, and improvident in success, hunger
+always stares him in the face, and often drives him to the dreadful
+alternative of cannibalism or death.¹¹
+
+Modern John Lubbock wishes that he could show his namesake the
+substantial houses, the clothing and food now being eaten within the
+village – all made by people quite ignorant of agriculture but seeming
+to be both noble and free. He drifts to sleep as the Natufian singing
+merges imperceptibly with the hooting of owls and scratching of beetles.
+
+‘Ain Mallaha was just one of several Natufian villages established at
+around 12,500 BC in the woodlands of the Mediterranean hills. Another
+was 20 kilometres to the southwest at Hayonim Cave.¹² Ofer Bar-Yosef and
+his colleagues began excavating this cave in 1964, and continued for
+eleven seasons of fieldwork. Six circular structures were found within
+the cave, each about 2 metres in diameter, some with drystone walls
+still standing up to 70 centimetres high and paved floors. One had been
+used as a workshop rather than a dwelling, first as a limekiln and then
+for working bone. Close to the cave wall a cache of rib bones from wild
+cattle were found, some partially turned into sickles. Beads made from
+fox teeth and the leg bones of partridges were also recovered – material
+never used in this fashion by people at ‘Ain Mallaha. Conversely their
+favoured bones for jewellery, the toe bones of gazelle, were extremely
+rare at Hayonim.
+
+This difference in jewellery suggests that the Natufian people from each
+village were concerned with asserting their own identity. Marriage
+between people from ‘Ain Mallaha and Hayonim seems to have been rare, as
+the two populations were biologically distinct.¹³ As evident from their
+skeletal remains, those from Hayonim were significantly shorter and a
+large proportion of them had ‘agenesis’ of the third molar – which means
+that it simply never grew – a condition that was very uncommon at ‘Ain
+Mallaha. This inherited condition would have been equally present at
+both villages had there been regular marriages between their peoples.
+Yet it seems unlikely that either village contained sufficient
+inhabitants to have been a viable reproductive community in itself. The
+people at Hayonim may have been linked with those at another Natufian
+village, known today as Kebara. These two villages share decorated bone
+objects with almost identical, and complex, geometric designs.¹⁴
+
+Each village had its own cemetery, often containing richly decorated
+bodies. Some of the most spectacular burials were found in the cemetery
+at El-Wad, a site at Mount Carmel in Israel. Almost one hundred Natufian
+people were buried there, mainly as individuals, although some graves
+contained several bodies.
+
+El-Wad was one of the first Natufian sites ever found, excavated by
+Dorothy Garrod of Cambridge University during the 1930s. She was a
+remarkable figure – the first woman professor at Cambridge University
+and the leader of several major expeditions to the Near East. She
+discovered the Natufian culture when excavating in Shukbah Cave in the
+western flank of the Judaean hills¹⁵ and came to believe that the
+Natufian people were farmers – an idea now known to be incorrect. Within
+the El-Wad cemetery Garrod found some particularly ornate decorations on
+several of the bodies. One adult male alone had worn an elaborate
+head-dress, a necklace and a band or garter around one leg, all made
+with dentalium shells.
+
+Whether such jewellery was worn in life as well as in death remains
+unclear. The most elaborate jewellery adorned young adults, both men and
+women – although rather more men than women were buried. It may have
+denoted social identity, perhaps indicating wealth and power. Much of
+the jewellery was made from dentalium shells, which could have been
+gathered from the Mediterranean coast by the Natufian people themselves.
+But Donald Henry, an archaeologist from the University of Tulsa, USA,
+who has undertaken extensive studies in southern Jordan, suggests
+another possibility. He thinks that the shells may have been acquired
+from hunter-gatherers living in the open steppe of today’s Negev desert
+in return for cereals, nuts and meat.
+
+For the Natufians, it may well have been control of this trading
+relationship that provided individuals with wealth and power – and the
+key to maintaining these may have been to ensure that limited shells
+were in circulation within their village. The most effective way of
+doing that was the regular removal of large quantities by burying them
+with the dead. Those graves were like our gold-filled bank vaults today,
+designed to ensure that the small amount remaining in circulation –
+whether of gold or seashells – maintains its value so that it confers
+status or prestige on the few that have some to own.
+
+The first rays of sunlight through leafy branches dapple the ground;
+Lubbock wakes to hear footsteps and voices approaching from the woods.
+Four men and a couple of boys are returning to ‘Ain Mallaha after a
+hunting trip at dawn. They carry three gazelle carcasses, already gutted
+and partially butchered but dripping a trail of blood through the trees.
+
+In the village the carcasses are hung within a dwelling, away from the
+sun and the flies. When roasted, the meat will be assiduously shared
+between family and friends. The hunters are welcomed back and tell the
+tale of the kill – how the men had waited in ambush while the boys
+chased startled animals into a flurry of arrows. There is talk about the
+various tracks and trails of animals they had seen, and the women learn
+about any plant foods that appeared ready for collection. Two young
+women take a wicker basket and leave for a spread of mushrooms that had
+been seen, hoping to reach them before the deer. Lubbock decides to
+follow.
+
+All of the Natufian villages shared the same economic base as that of
+‘Ain Mallaha. Indeed, all the villages are found in very similar
+settings – at a juncture between thick woodland and forest steppe,
+localities likely to have had permanent water supplies, suitable for
+hunting gazelle and providing edible plants from the two contrasting
+habitats. Gazelle bones are abundant in excavations at Natufian sites.
+Other animals were also taken, such as deer and small game – foxes,
+lizards, fish and game birds. The gazelle bones reveal more than just
+the Natufian diet: they show that people probably lived in the villages
+all year round.
+
+We learn this from the gazelle teeth. Like those of all mammals, gazelle
+teeth are largely composed of cementum that grows slowly in discrete
+layers throughout the animal’s lifetime. During the spring and summer,
+when growth is most rapid, these bands are opaque. During the winter,
+when growth is restricted, they are black. So by taking a slice through
+a tooth and inspecting the last cementum band laid down, one can
+identify whether the animal had been killed in the summer or winter.
+
+Daniel Lieberman, an archaeo-zoologist from Rutgers University, New
+Jersey, USA, has used this technique to study gazelle teeth from
+Natufian sites throughout western Asia.¹⁶ At all those he examined, some
+animals had been killed in the spring/summer and some in the
+autumn/winter; he took this to mean permanent occupation – or
+‘sedentism’ as it is referred to by archaeologists. His findings on
+gazelle teeth from earlier sites showed that occupation had occurred
+either during the winter or the summer, reflecting the mobile lifestyle
+of these hunter-gatherers.
+
+Further lines of evidence support the idea of Natufian sedentism –
+although some archaeologists strongly believe that the Early Natufian
+people remained as mobile hunter-gatherers.¹⁷ It seems unlikely that so
+much effort would have been expended on the construction of stone houses
+if they were to be used for only a few weeks or months each year. The
+many rat, mouse and sparrow bones within the village rubbish are also
+telling; domestic strains appeared for the first time during the
+Natufian, and may have evolved to take advantage of the new niche
+created by permanent human settlement.¹⁸
+
+This may also have been the case with the dog. The burial of a puppy at
+‘Ain Mallaha is the most persuasive sign that wild wolves had evolved
+into domesticated dogs by the time of the Natufian. Another dog burial
+comes from Hayonim where three humans and two dogs were carefully
+arranged together in one grave.¹⁹ These animals were not simply tame
+wolves but truly domesticated dogs – they were much smaller than their
+wolf ancestors. All animal species become reduced in size when the
+domesticated variants arise, as we will see later with sheep, goats and
+cows.
+
+The first villages would have been attractive to wolves, coming to
+scavenge on the permanent supplies of waste and for the ready supplies
+of mice and rats. As such, they would have done a service to the
+Natufian people by keeping the vermin under control; some animals may
+have been tamed and used for hunting or as companions for the old and
+sick. Others may have been used as guard dogs to warn of approaching
+strangers. When isolated from the wild populations, these tame animals
+may have rapidly become genetically distinct as the Natufian people
+controlled their breeding to ensure the proliferation of some
+characteristics rather than others. The consequence was a new species
+entering the world: the domesticated dog.
+
+Not all the Natufian people lived in villages all year round – perhaps
+none of them did so. Several settlements on the east side of the Jordan
+valley, such as Tabqa and Beidha, appear to have been used only for
+brief periods. These have neither dwellings nor burials and seem most
+likely to be temporary hunting camps, perhaps little different from
+those that Lubbock saw at Azraq. The people at Beidha had hunted goat,
+ibex and gazelle, and had dentalium shells from the Red Sea.²⁰ Whether
+they spent part of the year in a proper village or lived an entirely
+transient lifestyle like that of the much earlier Kebaran people,
+remains unclear.
+
+A dog decides to follow the two young women. It bounds past Lubbock,
+looking very wolf-like, and soon disappears into the undergrowth. His
+attempt to follow is soon abandoned as the women walk quickly using a
+maze of tiny but well-trodden paths that wind between groves of oak and
+almond trees, past clusters of lupins and thickets of hawthorn. Lubbock
+loses their trail and finds himself in more open woodland close to
+marshes that border the lake of the Hula basin. The paths continue and
+patches of cultivated plants are found in the under-storey of the oak
+trees. These include tangled peas and wild wheat with heavy drooping
+ears of grain. Lubbock sits by one such stand to rest, hearing the dog
+barking from afar.
+
+Tame dogs, whether treated as pets or kept as working animals, are
+rather like children. They need to be cared for and can become the
+subject of intense relationships: dogs were as much ‘man’s best friend’
+in the Natufian as they are today. This caring attitude to animals may
+have spilled over on to the plants gathered by the Natufian people. We
+should not think of them collecting cereal grains, picking fruit and
+gathering nuts in bland economic terms – with no concern other than to
+maximise their immediate yields for the minimum of effort. No
+hunter-gatherer groups recorded by anthropologists have been like that,
+and there is no reason to think that they were so in prehistory
+
+The Bushmen of South Africa, the Aborigines of Australia and the Indians
+of Amazonia have all displayed immense and intimate knowledge about the
+plants around them, even those that have no economic value. Parts of
+roots and clusters of seed-heads are often left in the ground to ensure
+that there will be plants to gather at the same location in the
+following year. Fire has frequently been used to burn off old stems and
+encourage the growth of new shoots.
+
+Christine Hastorf, an archaeologist from Berkeley, California, stresses
+the significance of ‘plant nurturing’ in understanding the earliest
+stages of plant domestication.²¹ She reminds us that with very few
+exceptions plants have been gathered and cultivated by women who have
+often applied the same attitudes and care for the plants in their
+gardens as they do to the children within their houses. The Natufian
+women may have been like those of the Barasana people of northwest
+Colombia who maintain ‘kitchen gardens’ close to their dwellings. Most
+of their garden plants are wild species but are nevertheless nurtured
+for use as food, medicines, contraceptives and drugs. The Barasana
+frequently exchange cuttings with their friends and relatives so that
+each plant added to the garden comes with a story that serves to
+maintain social links. Moreover many plants have symbolic meanings
+associated with the origin myths of the Barasana people. In the words of
+Hastorf, ‘To walk through a [Barasana] woman’s garden is to view her
+daily life, her ancestral lineage and a history of her family’s social
+relations.’²²
+
+Any gardener today will understand this: in my own suburban garden, for
+instance, my wife has plants that have been given as gifts, plants that
+mark where our deceased pets have been buried, plants that we have
+uprooted and taken with us from garden to garden as we have moved during
+the last twenty years. Every year my wife meticulously collects marigold
+seeds to resow the next. Many years ago her grandmother had given her
+seeds from marigolds that she had herself collected and resown each year
+throughout her long life.
+
+We have no knowledge of how the Natufian people thought about the plants
+around them. But in light of the permanence of their settlements, the
+many mouths needing to be fed, and the abundance of grinding stones,
+pestles and mortars, wild plants appear to have been managed in a way
+that we would recognise as cultivation. I suspect that the stands of
+wild cereals, the groves of nut trees, the patches of lupins, wild peas,
+and lentils were treated as a wild garden, and that these were
+manipulated and managed, used in social relations and infused with
+symbolic meanings, just like the plants in the kitchen gardens of the
+Barasana. Dorothy Garrod may have been wrong to think of the Natufian
+people as farmers; but they were most certainly rather special
+gardeners.
+
+In this regard some artefacts from Natufian sites take on added
+significance because they may actually depict the gardens themselves. At
+Hayonim a rectangular slab of limestone, about 10 by 20 centimetres, was
+incised with lines that divide the surface into distinct areas. Ofer
+Bar-Yosef and Anna Belfer-Cohen, a specialist on Natufian art from the
+Hebrew University in Jerusalem, propose that this pattern ‘can be viewed
+as designating definite territories or “fields” of some kind,’²³ perhaps
+separated by tiny paths. This slab is not unique; others have similar
+designs and while they may not be spatially accurate maps of fields or
+gardens, they may represent these in some abstract form – just like the
+map of the London underground.
+
+John Lubbock spends the morning reading Prehistoric Times and
+bird-watching in the Natufian world of the Hula basin. After the sun had
+climbed to burn off the few wispy morning clouds a pair of vultures
+circled in the clear blue sky; a flight of geese arrived on the lake and
+then song-birds landed on the wild wheat to feed upon the grain. Just as
+Lubbock decides to return to ‘Ain Mallaha, a party of women arrive and
+stand right beside him to inspect the wheat. They curse a little as it
+has ripened more quickly than expected and they know that much will now
+be lost. Within minutes the women are at work, cutting the stalks with
+the flint-bladed sickles that Lubbock had seen dangling within dwelling
+131. They cut the stalks at their base to acquire straw as well as
+grain; just as they had feared, the ears shatter when touched,
+scattering many of the spikelets – the seed with its long spike attached
+– to the floor. Working quickly, they gather up the bundles of stalks
+and ears and tie them into sheaths.
+
+Back at the village, the ears are beaten into wooden bowls to release
+the remaining spikelets; red-hot stones are added and swilled around.
+Lubbock gathers that this parches the spikelets and turns them quite
+brittle. Next they are emptied into wooden mortars and crushed to
+release the grain; the mortars are emptied on to bark trays that are
+agitated to separate and discard the chaff.²⁴ The grain goes back into
+the mortars and is now finely ground into flour; after being mixed with
+water and made into dough, it is cooked as flat bread-pancakes upon the
+hot stones, no more than a few hours after growing within the wild
+gardens of ‘Ain Mallaha.
+
+We know that the Natufian people were cutting the wild cereals with
+sickles. In the light of their decorated handles, this might have been
+an activity infused with symbolic meaning, just as picking marigolds is
+for my wife. Cutting with sickles would have been much more efficient
+than beating the grain into baskets because it reduced the amount
+falling uncollected to the ground.²⁵ Another impact of this new
+harvesting method remained unknown to the Natufian people: cutting with
+sickles laid the foundations for the transition from the wild to the
+domesticated forms.
+
+Recall that the principal difference is the brittleness of the ear – the
+wild strains spontaneously fall apart when ripe, scattering their seed
+on the ground while the domestic strains remain intact, ‘waiting for the
+harvester’. Within the stands of wild cereals there would always have
+been a few plants that were relatively non-brittle – rare genetic
+mutants, estimated by Gordon Hillman as numbering one or two for every
+2–4 million brittle individuals.
+
+Those beating the stalks and catching the grain in baskets held below
+would not have collected it from such genetic mutants. Only when cut by
+sickles would the grain from these have been collected along with that
+from the normal brittle plants. Imagine a situation in which a small
+party of Natufians arrived to begin cutting a stand of wild cereals. If
+the wheat or barley was already ripe, then much of the grain from the
+brittle plants would already have been scattered. But the rare
+non-brittle plants would still be intact. So when the stalks were cut,
+the grain from those plants would have been relatively more abundant
+within the harvest than it had been in the woodlands or on the steppe.
+
+Now imagine what would have happened if the Natufian people began to
+reseed the wild stands of cereals by scattering grain saved from a
+previous harvest, or perhaps sowing it into holes made with a stick or
+even into tilled ground. That seed grain would have had a relatively
+high frequency of the non-brittle variants. When the new stand was cut
+with sickles, the non-brittle variants would have been favoured once
+again and hence gained an even higher presence within the harvested
+grain. If this process had been repeated many times, the non-brittle
+plants would gradually come to dominate. Eventually they would be the
+only type of plant present – the domestic variant that ‘waits for the
+harvester’ would have arisen. But if abandoned, the domestic strain
+would gradually disappear; being unable to seed itself new genetic
+mutants – those with brittle ears just like the original wild plants –
+would be the only ones able to reproduce and would rapidly come to
+dominate the stand once again.
+
+Gordon Hillman and Stuart Davies, a biologist from the University of
+Wales, have used their knowledge of plant genetics and ancient gathering
+techniques – much of it acquired by experimentation – to estimate how
+long the change from wild to domestic strains would take.²⁶ By using
+computer simulation they showed that in ideal circumstances as little as
+twenty cycles of harvesting and resowing in new patches could have
+transformed a wild, brittle type of wheat into the domesticated
+non-brittle variant. Under more realistic conditions, 200 to 250 years
+is the most likely period of transition.
+
+The archaeological evidence makes it clear that this transition did not
+happen during the Natufian. There are microscopic differences between
+the shape of the grain from domestic cereals and wild varieties, and
+although cereal grains are rare in the Natufian archaeological record
+all of those known are clearly from wild cereals. Not for another
+millennium at least do we encounter the first domesticated grains – from
+the settlements of Abu Hureyra and Tell Aswad in Syria, and Jericho in
+Palestine. So the Natufian people appear to have cut the wild cereal
+stands with their sickles for as much as 3,000 years without the
+evolutionary leap from brittle to non-brittle plants.
+
+There seems to be a very simple explanation for this, identified in some
+remarkable research by Romana Unger-Hamilton during the 1980s while she
+worked at the Institute of Archaeology in London.²⁷ Under the guidance
+of Gordon Hillman she spent many months replicating the Natufian style
+of harvesting wild cereals. Using identical sickles made with bone
+handles and flint blades, she cut stands of wild wheat and barley on the
+slopes of Mount Carmel, around the Sea of Galilee and in southern Turkey
+in a series of controlled experiments. The blades were then
+microscopically examined for signs of ‘sickle-gloss’ – the texture,
+location and intensity of gloss will vary with different types of
+cereals and at different stages of ripeness.
+
+Unger-Hamilton found that the sickle-gloss on the true Natufian blades
+was most similar to that on the blades she used to harvest cereals that
+were not yet ripe. In that state, the brittle plants would have shed
+only a little of their grain, so that it would be collected from the
+non-brittle variants in virtually the same minute proportion as from
+those plants within the stand. So even if the Natufian people were
+sowing seed to generate new stands of wild cereals, non-brittle variants
+were unable to become dominant. Harvesting the unripe ears was perfectly
+sensible as it avoided the loss of most of the grain from the brittle
+plants, which would have already been shed to the ground.
+
+Another factor probably prevented the emergence of domesticated cereals
+among the Natufians: their sedentary lifestyle. Patricia Anderson, of
+the Jalès Research Institute in Paris, undertook a similar programme of
+research to that of Romana Unger-Hamilton and confirmed many of her
+results.²⁸ She also found that when wild stands are cut with sickles,
+even when still in a ‘green’ stage, the grain that falls to the ground
+is quite sufficient to provide for the next year’s crop. So the
+Natufians would have only needed to sow if they were beginning a
+brand-new plot of cereals – otherwise they could have relied upon
+‘growback’ at the existing stands. Even if the grain collected by the
+Natufian people did have a higher proportion of the non-brittle
+variants, unless they were creating new plots of cereals in new places
+these variants would never have had the opportunity to become the
+dominant form. And as the Natufian people were sedentary, new plots were
+never made. The Natufians remained as cultivators of wild cereals within
+the wild gardens of the Mediterranean woodland.
+
+These arguments about the Natufian people, their wild gardens and their
+plant-gathering activities have one obvious weakness: very few botanical
+remains have been recovered from their settlements. This is partly due
+to poor preservation and partly because many excavations predated modern
+recovery techniques. For direct evidence of the nature of
+plant-gathering at 12,000 BC John Lubbock has to leave the Mediterranean
+woodland and the Natufian culture. He has to travel 500 kilometres to
+the northeast to another hunter-gatherer village, one found on the flood
+plain of the Euphrates: the astonishing site of Abu Hureyra.
+
+5 On the Banks of the Euphrates
+
+Abu Hureyra and the rise of hunter-gatherer sedentism, 12,300–10,800 BC
+
+The grass and flowers of the steppe are wet with dew as John Lubbock
+approaches the village of Abu Hureyra. It is dawn on a midsummer’s day
+in 11,500 BC. His journey from ‘Ain Mallaha took him from the dense oak
+forests of the Mediterranean hills, through open woodland and finally
+into the treeless steppe, into what is northwest Syria today. He passed
+several villages close to rivers or lakes, all unknown to the modern
+world. Now he pauses for the view – in the distance there is a plain,
+beyond which a line of trees borders a wide-flowing river, the
+Euphrates. Beyond that there are no more than shadowy horizons in the
+misty light of the breaking day.
+
+Another few minutes of walking brings the village into view; but it
+requires a double take. It blends into its sandstone terrace just as
+‘Ain Mallaha blended with its surrounding woods, seeming to have been
+grown by the sun and moulded by the wind rather than constructed by
+human hands. With every step the low and flat reed-covered roofs
+clustered by the rim of the flood plain become a little clearer. Even
+so, the boundary between nature and culture remains deeply obscure.¹
+
+The people of Abu Hureyra are sleeping. Dogs are sniffing each other and
+the ground, some scratching and some chewing at bones. The roofs are at
+waist-height, supported on the small wooden frames of dwellings cut into
+the soft stone.² Lubbock steps down into one and finds a small, cramped,
+circular room little more than 3 metres across. A man and a woman sleep
+on hides and a mattress of dry grass; a young girl does likewise upon a
+bundle of hides.
+
+The floor is littered with artefacts and rubbish – not pestles and
+mortars as at ‘Ain Mallaha but flat and concave grinding stones. Chipped
+stone artefacts are scattered across the floor, along with wicker
+baskets and stone bowls, and even a pile of animal bones crawling with
+flies. One small bowl contains tiny crescent-shaped microliths made of
+flint, much like those at ‘Ain Mallaha. One side of the dwelling
+contains a pile of dirt – the wall has crumbled and soil fallen in from
+outside. There is a nauseating smell of rotting meat and stale air.
+
+Much of village life occurs beyond these walls – they do not enclose
+houses as we think of them today. In the outside spaces there are
+cooking places, piles of sticks, bundles of reeds, sheets of bark, and
+clusters of grinding stones. Evidently many people work together in
+preparing the plants gathered from the wild gardens on the steppe and
+the marshy woodland by the river’s edge. Lubbock stoops and lets the
+multicoloured husks, stems, twigs and leaves that surround the stones
+filter through his fingers. These are the waste, left precisely where
+they fell from the grinding stones or were stripped from the gathered
+bundles of plants and flowers. Near by there are baskets and stone bowls
+brimming with nuts and seeds of assorted shapes and colours.
+
+Elsewhere in the village Lubbock comes across a further cluster of
+grinding stones; but these are surrounded by lumps of red stone and
+powder instead of seed husks and plant stems. The grinding stones are
+stained red from making pigment that is used for decorating human
+bodies. Close by, three gazelles have been gutted but have yet to be
+butchered; their carcasses are left hanging beyond the reach of dogs.
+The Abu Hureyra people are as dependent upon hunting gazelle as on
+gathering plants. But such animals are only principally hunted for
+little more than a few weeks each summer when vast herds pass by close
+to their village.³
+
+Daily life at Abu Hureyra begins. The gazelle do not appear and the
+hunters leave to search the river valley for wild pigs and wild ass. Few
+animals now live in the vicinity of the village so the hunters will be
+disappointed. The women and children work in the wild gardens, weeding,
+killing bugs and collecting whatever has ripened in the sun.
+
+Within days the herds arrive and the annual slaughter of gazelle begins.
+Visitors are welcomed to the village. They bring shiny black obsidian
+from southern Turkey as gifts and receive dentalium shells in return,
+shells that had once been collected on Mediterranean shores and were
+brought by previous visitors to Abu Hureyra.
+
+For more than a thousand years the hunter-gatherers at Abu Hureyra will
+continue to hunt the gazelle. The animals are so numerous that their
+slaughter has no impact on the size of the herds. The women and children
+will continue to tend their wild gardens and reap a rich harvest. The
+accumulation of dirt, sand, lost artefacts and other debris within the
+dwellings will become either unbearable or simply make access
+impossible. And then the Abu Hureyra people will build new dwellings,
+this time totally above the ground. But eventually hard times will
+arrive. The drought of the Younger Dryas will disrupt the gazelle and
+decimate the productivity of the steppe. The village will be abandoned,
+the people returning to a life on the move.
+
+At 9000 BC they will return, not as hunter-gatherers but as farmers.
+They will build mud-brick houses and grow wheat and barley on the
+alluvial plain. The gazelle herds will have resumed their migrations and
+be hunted for another thousand years until the Abu Hureyran people
+suddenly switch to herding sheep and goats. The houses will be
+repeatedly rebuilt so that a mound – or tell – is formed, half a
+kilometre across, 8 metres deep and containing more than one million
+cubic metres of deposits. The remnants of the first subterranean
+dwellings at Abu Hureyra will be deeply buried and lost from human
+memory.
+
+In 1972 the archaeologist Andrew Moore excavated part of the tell. As it
+was a salvage operation before dam construction, his work was limited to
+two seasons. Today the tell lies drowned beneath the waters of Lake
+Assad. In the small area that he could excavate, Moore found several
+dwellings and rubbish tips of the earliest inhabitants of Abu Hureyra.
+There was no sign of a cemetery or indeed of any burials. This left him
+in a quandary. What had they done with their dead, and were there the
+same differences in wealth as had been evident at ‘Ain Mallaha?
+
+Nevertheless, within those two seasons of work a wealth of information
+was acquired about the village. It was one of the first excavations to
+employ methods to ensure that even the tiniest and most fragile plant
+remains were recovered. These included ‘flotation’ in which charred
+seeds are literally made to float away from the sediment that encased
+them, and then scooped off and prepared for study. Gordon Hillman found
+that no less than 157 different species had been brought to the village,
+and suspected that at least another hundred species had been collected
+but left no archaeological trace.⁴
+
+He was able to pinpoint at least two seasons of collection: from spring
+to early summer and the autumn. But he thinks the people remained in
+their village all year round; where else would they have gone in the
+winter when conditions in the steppe and surrounding mountains would
+have been bleak? In the high summer the most critical resource was
+probably water from the valley. By staying at Abu Hureyra they could
+have enjoyed plant foods that reached their prime in the summer, such as
+the tubers from club-rush and nut-grass – although neither was found in
+the archaeological remains.
+
+Peter Rowley-Conwy and Tony Legge, two of the most prominent
+archaeo-zoologists in the United Kingdom, have studied the annual
+gazelle slaughter.⁵ From two tons of bone fragments, they showed that
+only adults, the newborn and yearlings had been killed. This pinpointed
+the slaughter as taking place during the early summer: only at that time
+of year would this specific range of ages have been present.
+
+This remarkable work by Moore, Hillman, Rowley-Conwy, Legge and many
+other archaeologists shows that the hunter-gatherers of Abu Hureyra
+enjoyed the most attractive environmental conditions that had existed
+for many thousands of years, since long before the LGM. At no other
+times had animals and plants been so abundant, so diverse and so
+predictable in their availability – just as they were for the Natufian
+inhabitants of the Mediterranean woodlands. This provided them with the
+opportunity to give up the mobile lifestyle that had served human
+society since its first appearance 3.5 million years ago on the African
+savannah. But why do it?
+
+Why create the social tensions that inevitably arise when one has
+permanent next-door neighbours within a village? Why expose oneself to
+human waste and garbage and the health risks that accompany a more
+sedentary lifestyle? Why risk the depletion of the animals and plants
+near one’s own village?
+
+We can be almost certain that people were not forced into this lifestyle
+by over-population. Natufian sites are no more abundant than those of
+the previous times; if there had been a time of population pressure it
+was at 14,500 BC when there is a dramatic increase in the number of
+Kebaran sites and the standardisation of microlith forms. There is no
+evidence for a population increase two millennia later when the first
+Natufian villages appear. Moreover, from the evidence of their bones,
+the Natufian people were reasonably healthy – quite unlike a people
+being forced into an undesirable lifestyle by shortage of food.⁶
+
+Anna Belfer-Cohen of the Hebrew University in Jerusalem has studied the
+skeletal evidence and found very few signs of trauma, such as healed
+fractures, nutritional deficiencies or infectious diseases. People under
+stress tend to develop thin lines in their tooth enamel – called
+hypoplasias. These indicate periods of food shortage, often immediately
+after weaning. The lines are less frequent in Natufian teeth than in
+those of farming people. But both Natufian teeth and those of early
+farmers are heavily worn down. This confirms the importance of plants in
+their diet: when seeds and nuts were ground down in the stone mortars,
+grit would have become incorporated in the resulting flour or paste. And
+when the food was eaten, this grit abraded the teeth, often leaving them
+with hardly any enamel at all.
+
+The Natufian people appear to have been quite peaceable as well as
+healthy. There are no signs of conflict between groups, such as embedded
+arrow points in human bones – unlike the situation that Lubbock will
+find on his European, Australian and African travels. The Natufian
+hunter-gatherer groups were good neighbours; there was plenty of land,
+gardens and animals for all.
+
+It is possible that the Natufian and Abu Hureyran people were prepared
+to suffer the downside of village life – the social tensions, the human
+waste, depletion of resources – to enjoy the benefits. François Valla,
+the excavator of ‘Ain Mallaha, believes that the Natufian villages
+simply emerged from the seasonal gatherings of the Kebaran people.⁷ He
+recalls the work of the social anthropologist Marcel Mauss who lived
+with hunter-gatherers in the Arctic at the turn of the century. Mauss
+recognised that periodic gatherings were characterised by intense
+communal life, by feasts and religious ceremonies, by intellectual
+discussion, and by lots of sex. In comparison, the rest of the year,
+when people lived in small far-flung groups, was rather dull.
+
+Valla suggests that the aggregation of mobile hunters and gatherers
+prior to the Natufian may have been similar, and the Natufian people
+simply had the opportunity to stretch out those periods of aggregation,
+until they effectively continued for the whole year. Indeed, all the key
+elements of the Natufian villages were already present at Neve David:
+stone dwellings, grinding stones, dentalium beads, human burials and
+gazelle bones. As the climate became warmer and wetter, plants and
+animals more diverse and abundant, people stayed longer and returned
+earlier to their winter aggregation sites until some people remained all
+year round.
+
+The sedentary hunter-gatherers at ‘Ain Mallaha, Abu Hureyra and indeed
+throughout western Asia between 12,500 and 11,000 BC were enjoying the
+good life. The wealth of the archaeological evidence and the excellence
+of the research allows us to capture in our minds some vivid images of
+that life. We can readily imagine the acorns being carried in baskets to
+‘Ain Mallaha, and then being pounded to a paste, the Abu Hureyran
+hunters catching their first sight of the approaching gazelle, and the
+dressing of a dead man with a dentalium shell head-dress, necklace and
+leg band at El-Wad ready for burial.
+
+But the image to remember is of a few families enjoying a day within the
+forest steppe – away from the barking dogs, the smelly rubbish heaps,
+the grumpy stay-behinds of their village. They are neither searching for
+game nor collecting plants. It is a day of rest and I see them sitting
+surrounded by a myriad of summer flowers. Children are making garlands
+while young lovers sneak off to the long grass. Some talk, others sleep.
+All enjoy the sun. They have full stomachs and no worries.
+
+John Lubbock sits with them, after a few days spent living and working
+at Abu Hureyra. He reads his book, discovering what his namesake had
+known about climate change – very little. Victorian John Lubbock
+appreciated that immense alterations of climate had occurred because he
+had visited caves packed with reindeer bones in sunny southern France,
+found oak trees within peat bogs and seen valleys cut by ancient rivers.
+But in 1865 there had been no awareness of the complexity of climate
+change, the idea of multiple glaciations only gaining favour in the
+early twentieth century, and key events such as the Younger Dryas
+remaining unknown until recent times. Nevertheless modern John Lubbock
+was impressed with his namesake’s book, especially when he read that the
+suggested causes of climatic change included variation in solar
+radiation, alteration in the earth’s axis and changes in ocean currents
+– all of which have since been proved and remain at the forefront of
+scientific study.⁸
+
+For a while Lubbock forgets his place in history; the butterflies, the
+flowers, the sun and the breeze are quite timeless. But the date is
+11,000 BC and a dramatic change in the climate is about to happen; the
+families sitting on the steppe unknowingly teeter on the edge of an
+environmental calamity: the Younger Dryas is about to arrive.
+
+For generation after generation since the LGM, life for the people of
+western Asia had been getting better and better. Ups and downs had
+occurred: years of relatively cold and dry weather when plant foods and
+game had been more difficult to find, years when these had been
+particularly abundant. But the trend was towards a warmer and wetter
+climate, a greater diversity of plants, increased yields of seeds,
+fruits, nuts and tubers, larger and more predictable animal herds, and a
+richer cultural and intellectual life. This had culminated in the
+village life that Lubbock has seen at ‘Ain Mallaha and on the banks of
+the Euphrates. The families from Abu Hureyra enjoying the summer
+sunshine on the steppe were certainly the lucky ones and they probably
+knew it. But they could not have known quite how lucky they were. For
+within a few generations the tide of climate change had turned and life
+was never quite so good again.
+
+6 One Thousand Years of Drought
+
+Economy and society during the Younger Dryas 10,800–9600 BC
+
+Once again John Lubbock stands on the west bank of Lake Hula and looks
+across to the village of ‘Ain Mallaha. Fifty generations, 1,500 years,
+have passed since he watched vibrant activity within the village amidst
+the oak, almond and pistachio. Times have changed. The woodland is
+sparse. The trees and undergrowth lack the luscious growth that had
+seemed to cosset the people of ‘Ain Mallaha with a promise of abundant
+food. Within the village, roofs and walls have collapsed and some
+dwellings are no more than piles of rubble. There are new circular
+structures, but these are small ramshackle affairs.
+
+Fifty kilometres to the southwest, the village of Hayonim has been
+abandoned altogether. After two hundred years of occupation, people left
+the cave to live on the terrace, using their previous dwellings for the
+burial of their dead. But even those new houses are now deserted.
+Brambles and weeds, snakes and lizards, lichens and moss are the only
+residents as nature begins to reclaim its stone, welcoming the limestone
+walls, the basalt mortars, and the flint blades back within the earth.
+Abu Hureyra is the same – the people gone, empty dwellings left to
+crumble, artefacts abandoned and forgotten.
+
+The date is 10,800 BC. Sedentary village life exists only in the
+stories, passed from generation to generation, of people who live in
+transient campsites scattered throughout the struggling woodland and the
+now desert-like steppe. The cultural achievement of the Natufian remains
+as no more than a faint echo in the artefacts, the dress and the social
+customs of these people – people whom archaeologists refer to as the
+Late Natufians. Many of them periodically meet together at ‘Ain Mallaha,
+El-Wad or Hayonim, bringing the bones of their dead to rebury alongside
+their ancestors at what have become sacred sites existing in that nether
+world between history and myth.
+
+The experiment of sedentary village life lasted for close on two
+thousand years but ultimately failed, forcing people to return to a more
+ancient peripatetic lifestyle. Before so doing, Natufian culture had
+spread far beyond the Mediterranean woodlands claimed by Ofer Bar-Yosef
+to have been its ‘homeland’. The signature of this culture – the
+crescent-shaped microliths – became widespread throughout western Asia,
+with Late Natufian settlements appearing all the way from the southern
+deserts of the Arabian peninsula to the banks of the Euphrates.
+
+The spread of Natufian culture suggests that the sedentary villages were
+partly victims of their own success. Their inhabitants are likely to
+have grown in number unremittingly. Mobile hunter-gatherers have a
+natural constraint on their numbers as they have to carry not only their
+possessions but also their youngest as they move from site to site.
+Childbirth must be spaced at three- to four-yearly intervals as it is
+not possible to carry more than one child at a time. The Natufian
+residents of ‘Ain Mallaha, Hayonim and other villages were able to
+reproduce more freely.
+
+It seems likely that the spread of Natufian culture arose partly from
+groups of people leaving their villages to establish new settlements.
+This may have been the only way that ambitious young men and women could
+gain power for themselves. But another reason for dispersal also
+presents itself: there was no longer enough food to go round. Late
+Natufians heading into the Negev desert to establish villages such as
+Rosh Horesha and Rosh Zin,¹ or those close to the Mediterranean coast as
+at Nahal Oren,² or at settlements such as Mureybet on the banks of the
+Euphrates,³ may have been some of the original economic migrants.
+
+The village people had begun to over-exploit the wild animals and plants
+on which they relied. The gazelle bones from their rubbish heaps provide
+a telling story about attempts to manage the herds that ultimately
+backfired and led to a shortage of food. Carol Cope, from the Hebrew
+University in Jerusalem, has made meticulous studies of the gazelle
+bones from Hayonim and ‘Ain Mallaha.⁴ The mountain gazelles hunted from
+these villages behaved quite differently to those hunted at Abu Hureyra.
+They remained in the vicinity of the Natufian settlements all year
+round, never forming the massive herds that were ambushed near the
+Euphrates.
+
+Cope found that the Natufian people preferred to kill the male animals.
+This was evident because the foot bones (the astragali) she studied were
+easily divided into two groups on the basis of size, with the larger
+bones outnumbering the smaller by four to one. Big feet imply big
+bodies, and for gazelle those bodies would have been male.
+
+When the Kebaran people had used Hayonim Cave, five thousand years
+before the Natufian became established, they killed male and female
+gazelles in equal proportion.⁵ By preferentially selecting the males,
+the Natufians were probably attempting to conserve the gazelle
+populations. Although both sexes were born in equal proportions, only a
+few male animals were actually needed to maintain the herds. Carol Cope
+thinks that the Natufian people decided that the males were expendable
+while recognising the need to ensure that as many females as possible
+gave birth to young.
+
+If this was their aim, it went horribly wrong. The Natufians made the
+mistake of not just hunting the males, but selecting the biggest that
+they could find to kill. So the female gazelles were left to breed with
+the smaller males – unlikely to have been their natural choice. As small
+fathers give rise to small offspring, and as the Natufians killed the
+largest offspring, the gazelles reduced in size with each generation.
+Hence the gazelle bones found in the rubbish dumps of Hayonim Cave were
+from animals much larger than those from the rubbish dumps on the
+terrace – the two being five hundred years apart.
+
+Smaller gazelles meant that there was less meat available to feed an
+ever-growing population. This shortage was compounded by
+over-exploitation of the ‘wild gardens’: too many stalks of the wild
+cereals had been cut and excessive quantities of acorns and almonds had
+been collected for natural replenishment to occur.
+
+The health of the Natufian people began to suffer, especially that of
+the children. This is evident from their teeth.⁶ Those from the Late
+Natufian people buried at Hayonim have a much higher frequency of
+hypoplasias than their Early Natufian predecessors. They also had fewer
+teeth remaining when they died, and those teeth that survived had caries
+– two further signs of poor health.
+
+Food shortages can also lead to poor physical growth – as is evident
+among famine victims today. This might explain why many of the Later
+Natufian people, such as those buried at Nahal Oren, were shorter than
+those who had first lived at ‘Ain Mallaha. Just as in the modern world,
+the men were affected more than the women, and so the Late Natufian
+sexes were more similar in body size than had once been the case.⁷
+
+Food shortages within the Natufian villages, leading to emigration and
+eventual abandonment, cannot be blamed solely on the Natufian people
+themselves, on their failure to control their own numbers. The problems
+of population growth are likely to have been eclipsed by something over
+which people had no control at all: climatic change.
+
+The Younger Dryas, one thousand years of cold and drought, was triggered
+by the massive influx of glacial melt waters into the North Atlantic
+when the North American ice sheets collapsed. Its impact on the
+landscapes of western Asia is readily seen in the pollen grains from the
+Hula core.⁸ The sediments laid down within that lake after 10,800 BC
+show a dramatic reduction in the quantity of tree pollen, indicating
+that much of the woodland had died through lack of rain and warmth.
+Indeed, within five hundred years conditions little different to those
+of the LGM had returned: a devastating collapse of food supplies just as
+population levels had reached an all-time high.
+
+With the double-whammy of population pressure and climatic
+deterioration, we should not be surprised at the collapse of Early
+Natufian village life. But people could not simply return to how their
+Kebaran forebears had lived. Not only were population numbers
+substantially greater but the Late Natufian people had a legacy of
+sedentary life: new technology, new social relationships, new attitudes
+to plants and animals, new concepts about land and dwellings, perhaps
+even those about ownership and property.
+
+There could be no turning back from such ideas, even though people had
+returned to the ancient lifestyle of transient campsites and weary feet.
+
+Before we follow the story of the Late Natufian people of the Jordan
+valley and return to Lubbock’s travels, we must make a brief visit 1,000
+kilometres to the east. This takes us beyond the now deserted village of
+Abu Hureyra, beyond the Euphrates and into the foothills of the Taurus
+and Zagros mountains. Here, rather than villages being abandoned during
+the Younger Dryas, they were created for the very first time.
+
+The Zagros region has ill-defined boundaries and is topographically
+diverse; it includes the upper part of the Mesopotamian plain, rolling
+hills, deep valleys, crags and mountain peaks. The changes in exposure
+and altitude created dramatic differences in the extent of rainfall and
+temperature, producing many localised pockets of lush vegetation even
+when the general conditions were cold and dry.
+
+Throughout the whole region temperatures fell and rainfall diminished,
+knocking out many of the trees that had recently spread from the
+Mediterranean coast. But the sheltered lowland valleys provided a refuge
+for copses of oak, pistachio and tamarisk, as well as for game animals
+forced down from the now bitterly cold higher slopes.
+
+The hunter-gatherers had to follow the plants and animals and settle
+within those valleys at much higher densities than when they roamed
+widely across the hills. Within these valleys they built some of the
+most elaborate architecture yet seen in the history of the world. Hallan
+Çemi Tepesi, found on the banks of a small river in the foothills of the
+Taurus Mountains, is the most intriguing of these new villages.⁹ In 1991
+the archaeological site was threatened by dam construction. A joint
+American and Turkish team undertook excavations, they found traces of
+structures with stone foundations and wattle-and-daub walls. Precisely
+when these had been built remains unclear; the few radiocarbon dates
+span more than two thousand years but the major period of occupation
+seems to have been around 10,000 BC. The people at Hallan Çemi Tepesi
+had gathered a wide variety of plant foods including almonds,
+pistachios, plums and pulses. They hunted wild goats, deer and wild
+boar.
+
+Some of the structures were domestic dwellings containing hearths,
+grinding stones and utilitarian artefacts. But others had figurines,
+decorated stone bowls and obsidian that had originated 100 kilometres to
+the north. Domestic tasks had been excluded from these structures,
+reserving them for social or ritual activity.
+
+Decorated stone bowls were made from fine sandstone; some had flat bases
+while others were rounded, with pierced sides for suspension across a
+fire. Many were decorated with incised hashes, zigzags and meanders.
+Some had animal images – a line of three dogs parades along the surface
+of one vessel. A number of the pestles had been highly polished; one had
+its handle carved into a stylised goat’s head. Many beads were found,
+coming in a variety of shapes and sizes and made from coloured stones.
+So-called figurines were made from the same white stone used for making
+bowls.
+
+Hallan Çemi Tepesi appears far too substantial for a seasonal
+hunter-gatherer camp; considerable labour had been invested in the
+buildings, and the larger stone vessels had evidently been made as
+fittings. The highly developed material culture and obsidian trade
+suggest a society as complex as that which had flourished at ‘Ain
+Mallaha – and perhaps one even more immersed in a world of symbols and
+ritual. John Lubbock will only discover the consequence of these
+developments much later in his travels – when he arrives in Mesopotamia
+in 11,000 BC after having journeyed almost entirely around the world.
+
+Archaeologists are still struggling to understand the new lifestyle that
+the Late Natufian people of the Jordan and Euphrates valleys adopted
+during the Younger Dryas. A telling source of evidence is their burial
+practice, and how this had changed from those of their village-based
+ancestors.¹⁰ Perhaps the most striking development is that people were
+no longer interred wearing elaborate head-dresses, necklaces, bracelets
+and pendants made from animal bones and seashells. The fact that about a
+quarter of the Early Natufians had been buried in this fashion suggested
+that some had been much more wealthy and powerful than others.
+
+Wealth and power had evidently been dependent on sedentary village life.
+This provided an élite with the opportunity to control the trade that
+brought seashells and other items to the villages. A return to mobile
+lifestyles swept away their power base and society became egalitarian
+once again, much as it had been in the Kebaran period. The absence of
+seashells adorning the dead was not because such shells were no longer
+available – they are found in abundance in Late Natufian settlements.
+Rather than being placed with the dead they were simply discarded with
+the domestic rubbish, along with bone beads and pendants. The shells had
+lost their value because there was no longer any control over their
+distribution – mobile hunter-gatherers were able to collect seashells
+for themselves and trade with whom they wished.
+
+Another sign of a return to a more egalitarian society was a switch from
+burying people predominantly in groups – probably as members of a single
+family or lineage – to individual interments. Evidently family
+membership no longer held the same significance – people were valued on
+the basis of their accomplishments and personality, rather than their
+blood ties. But it is a third change in burial practices that is the
+most telling about changing society during the Natufian. A large
+proportion of the Late Natufian burials are of jumbled collections of
+bones, or of a skeleton with parts missing – frequently the skull.
+
+These are known to archaeologists as secondary burials. They show that
+funeral rites were far more than the single event of placing a body into
+a grave and leaving it there. Instead there were at least two, perhaps
+several, stages to the burial ritual – most likely culminating when many
+groups gathered together for the final passing of the dead.
+
+It is an autumn day in 10,000 BC. Dusk falls across Lake Hula, seemingly
+announced by a flight of geese. John Lubbock settles down close to his
+small fire, happy to watch the darkness descend and for sleep to arrive.
+But within minutes he is disturbed by human voices coming from a
+travel-weary party who pass by on their way to ‘Ain Mallaha. Some are
+old and walk with sticks; some are young and carried by weary parents.
+Loud barks come from the dilapidated village, answered with little more
+than muted yelps by the dogs that travel with these people. To the dogs,
+‘Ain Mallaha will be just another of many settlements visited in the
+course of a year. But to the people it is a place with no equal – it is
+their ancestral home and this is their first visit for many years.
+
+Their journey has taken them to several of their temporary camps – sites
+abandoned when the local game and plants had become too depleted to
+sustain their presence. They visited places where people had died and
+been buried. At each grave, bones were exhumed and placed in baskets to
+be taken to ‘Ain Mallaha. From some, they took near-complete skeletons
+held together by dried skin and tendons; from others, just the skull.
+Whenever they rested on their journey, the old recalled the visits that
+their fathers and grandfathers had made to ‘Ain Mallaha, bringing the
+bones of their own dead for reburial. The young listened eagerly. They
+knew the stories by heart: how their ancestors had dwelt at ‘Ain Mallaha
+all year round; how there had been an abundance of food; how they had
+adorned their bodies with elaborate jewellery and clothes; how the wolf
+had become the dog.
+
+Lubbock joins the party and enters the village of ‘Ain Mallaha where
+respectful and formulaic greetings are made with the handful of people
+who live in the ramshackle dwellings and guard the site. The baskets and
+the few belongings they carry are laid to rest. A fire is lit and a
+little food shared before sleep claims them all.
+
+During the next few days three more groups arrive at ‘Ain Mallaha, each
+bringing baskets with the bones of their dead. Almost one hundred people
+have now gathered together, ready to relive the ancestral past. Two
+further days pass by while the woods are scoured for game and plant
+foods for the feasts. Stories are retold, and then retold again.
+
+Lubbock helps with the clearance of debris from one of the collapsed
+dwellings: boulders, brambles, rotting timbers and the earth. The
+ancient cemeteries of ‘Ain Mallaha are reopened. Amid singing and
+chanting, the bones of the new-dead are removed from their baskets and
+placed within the ground. By doing so, the past and present are joined
+as one. The act of reburial, the days of celebration that follow, the
+community life, story-telling and feasting recreate for the living the
+days of the ancestral past. The challenge of the present – the struggle
+for survival during the severity of the drought-ridden Younger Dryas –
+is momentarily forgotten.
+
+The people remain at ‘Ain Mallaha for as long their food supplies allow
+– ten days, perhaps two weeks at most. They talk endlessly about where
+they have been, who they have seen, and what the future might hold. They
+exchange gifts: stones, shells and, most intriguing of all, leather
+pouches of cereal grain, peas and lentils.
+
+Finally the groups depart and go their separate ways, each having gained
+some new members and lost others. They are all grateful for the return
+to their transient lifestyle within the arid landscapes of the
+Mediterranean hills, the Jordan valley and beyond. It is, after all, the
+only lifestyle they have known and it is the one that they love. Lubbock
+has grown to love it too, especially when in the company of these people
+who have a tale to tell about every valley and every hill, every pool of
+water and every grove of trees. He joins a party that sets off walking
+towards the southeast, heading for the Jordan valley. Bags of seed
+dangle from their waists and swing like pendulums, seemingly conscious
+of time itself, knowing that there is little left for those who hunt and
+gather for their food.
+
+There is no direct archaeological evidence that the Late Natufian people
+carried bags of cereal grain, lentils and peas. But if they had done so,
+and then scattered the seed when arriving at their autumn camps and
+gathered the summer harvest before moving on to live elsewhere, it would
+explain how domesticated wheat and barley evolved.
+
+Patricia Anderson’s experimental work has shown that the reseeding of
+existing stands – as the Early Natufians may have done – would have made
+little difference to the proportion of the non-brittle variants due to
+the amount of grain already in the soil.¹¹ What was needed for
+domestication to occur was that brand-new plots of cereals, peas and
+lentils were regularly sown and harvested, and this is just what many
+Late Natufian people are likely to have done. But what could have caused
+them to do so?
+
+We know that times were hard in the increasingly arid landscapes of the
+Younger Dryas, but quite how hard remains unclear. The droughts
+certainly caused many ponds and rivers to disappear completely, and the
+larger lakes to shrink in size. The people who lived in the south, in
+today’s deserts of the Negev and Sinai, were most likely hit the
+hardest. They returned to a completely transient hunter-gatherer way of
+life, one much like that of the Kebaran people. Survival required
+improved hunting weapons: game had become scarce and consequently
+success had become essential when a kill was possible. And so we see the
+invention of the Harif point – a rhombic-shaped arrow-head.¹²
+
+Further north, the impact of the Younger Dryas may have been less
+severe. Yet survival still required more than just a return to the
+ancient mobile hunter-gatherer lifestyle, especially as there were many
+more people now needing food than had been the case during the Kebaran
+period, before the Early Natufian experiment with permanent dwellings.
+One response was to hunt a much wider range of animals than before; and
+hence we find on Late Natufian settlements the bones of many small-game
+species as well as the ever-present gazelle.¹³
+
+Another response was to continue, and perhaps expand, the cultivation of
+plants. Wild cereals were particularly hard hit by the Younger Dryas
+owing to a decrease in the concentration of carbon dioxide (CO₂) in the
+atmosphere.¹⁴ This diminution, carefully documented from air bubbles
+trapped in the Antarctic ice, inhibited their photosynthesis and
+markedly reduced their yields. Consequently, whatever cultivation
+practices had begun during the Early Natufian – weeding, transplanting,
+watering, pest control – may have now become essential to secure
+sufficient food. And these may have created the first domesticated
+strains.
+
+This appears to be what occurred at Abu Hureyra just before its
+abandonment. When Gordon Hillman studied the cereal grains from the site
+he found a few grains of rye from plants that had undergone the
+transition into domestic forms. When dated, they were shown to lie
+between 11,000 and 10,500 BC – the oldest domesticated cereal grain from
+anywhere in the world. Along with these grains, Hillman found seeds from
+the weeds that typically grow in cultivated soil. And so it appears
+that, as the availability of wild plant foods declined due to the onset
+of the Younger Dryas, the Abu Hureyra people invested an ever greater
+amount of time and effort in caring for the wild rye, and by doing so
+unintentionally transformed it into a domestic crop.¹⁵ But even this
+could not support the village – it was abandoned as people were forced
+to return to a mobile lifestyle, perhaps carrying pouches of cereal
+grain. The domesticated rye of Abu Hureyra reverted to its wild state.
+
+With their increased interest in plant cultivation, the Late Natufians
+drifted away from the depleted woodlands where their forebears once
+flourished. They were drawn to the alluvial soils of the valleys, not
+only those of the River Jordan, but also those found by the great rivers
+of the Mesopotamian plain, and in the vicinity of lakes and rivers
+throughout the Near East. Large expanses of these rich, fertile soils
+became available as the rivers and lakes shrunk in size during the
+Younger Dryas. Wild, but cultivated, cereals grew well in such soil,
+especially when close to the meagre springs, ponds and streams that
+survived in the arid conditions.
+
+The few rye grains from Abu Hureya are the only existing evidence that
+such cultivation in the Late Natufian created a domesticated type of
+cereal – one that ‘waited for the harvester’. It is possible that wheat,
+barley, pulses and flax were similarly transformed by the planting and
+harvesting techniques employed during the arid Younger Dryas. The plain
+fact is that at present we simply do not know exactly when or where the
+very first domestic strains appeared, or whether these evolved just once
+for each species, or whether they evolved independently or as a package.
+A pioneering study in 1997 compared the genetics of wild wheat from
+surviving stands in the Fertile Crescent with those of modern
+domesticated wheat and claimed that the hills of southeast Turkey, known
+as the Karacadağ, is the likely location of domestication –
+approximately 200 kilometres north of Abu Hureyra¹⁶ – although this
+needs further verification. We shall shortly see that a remarkable
+archaeological site is found in the vicinity of those hills.
+
+It may have taken another thousand years or more for domestic wheat,
+barley and pulses to appear – possibly this did not happen until new
+villages and even towns had been established. But my guess is that
+somewhere in the Fertile Crescent, at some time during the Younger
+Dryas, one or more bands of mobile hunter-gatherer-cultivators had begun
+to carry new types of seed around. They may have noticed how much better
+their yields had become but they were surely quite unaware that those
+seeds were cultural dynamite. And their short fuse began to burn when
+the Younger Dryas came to its dramatic end.
+
+At 9600 BC global temperatures rose by 7°C in less than a decade. It was
+a phenomenal helter-skelter change in climate. There is a sudden upsurge
+in the quantity of tree pollen in the sediments of the Hula core,
+although woodland never returned to the density and lushness that had
+been enjoyed by the Early Natufian people of 12,500 BC.
+
+The impact upon the Late Natufian people was felt within a generation.
+Localities that had been able to sustain no more than a seasonal
+campsite, offered the possibility of a permanent home. Once again wild
+plant foods were abundant, closely followed by burgeoning animal
+populations. Streams and rivers flowed with renewed vigour; lakes
+reclaimed the soils they had for so long abandoned. Wild cereals
+benefited from increased CO₂ in the atmosphere.
+
+The tricks of cultivation, those that had provided no more than meagre
+supplements to the diet of wild foods during the drought-ridden Younger
+Dryas, now produced abundant quantities of grain, peas and lentils. So
+the opportunity arose for the Early Natufian experiment in village life
+to be undertaken once again – an experiment perhaps remembered by the
+stories passed from generation to generation, an almost mythical way of
+life that could again become a reality. The opportunity was grasped –
+and this time there really was no turning back.
+
+For the Early Natufians the key to village life had been the gazelle,
+the produce from the oak, almond and pistachio, and the wealth of plant
+foods gathered from the woodland undergrowth and the forest steppe. When
+salvation from the Younger Dryas arrived at 9600 BC a quite different
+environment was the key: it was on the alluvial valley soils that the
+new phase of human history began. Archaeologists call it the Neolithic –
+the New Stone Age.
+

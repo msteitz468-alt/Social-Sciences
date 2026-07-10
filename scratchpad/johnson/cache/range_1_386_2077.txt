@@ -1,0 +1,1692 @@
+386: Preface: The Contradictions of Theory
+387: 
+388: This book is an introductory essay on archaeological theory. It tries to
+389: explain something of what ‘theory’ is, its relationship to
+390: archaeological practice, how it has developed within archaeology over
+391: the last few decades, and how archaeological thought relates to theory
+392: in the human sciences and the intellectual world generally.
+393: 
+394: To many, ‘theory’ is a dirty word both within and outside archaeology.
+395: Prince Charles earned almost universal approbation when he condemned
+396: ‘trendy theorists’ in education; nobody however, including the Prince
+397: himself, seemed to be very clear precisely who he meant. When visiting
+398: an archaeological site a few years ago a suggestion of mine met with
+399: laughter and the response ‘that’s a typical suggestion of a theorist’. I
+400: don’t recall anyone telling me exactly why my suggestion was so absurd,
+401: and when I visited the site the following year the strategy had been
+402: adopted. For the meat-and-potatoes Anglo-Saxon world in particular,
+403: theory is an object of profound suspicion. It is a popular saying that
+404: for the English, to be called an intellectual is to be suspected of
+405: wanting to steal someone’s wife (sexism in the original). Theory,
+406: ‘political correctness’ and being ‘foreign’ stand together in the dock
+407: as traits to be regarded with hostility in the Englishspeaking world–and
+408: beyond; there is even a word for hostility to theory in
+409: German–Theorifeindlichkeit. I shall look at some of the reasons why this
+410: is so in chapter 1.
+411: 
+412: At the same time, however, theory is increasingly popular, and seen as
+413: increasingly important, both within and outside archaeology. Valentine
+414: Cunningham commented in The Times Higher Education Supplement that
+415: theorists in academia are ‘a surging band, cocky, confident in academic
+416: credentials, job security and intellectual prestige’, inspiring the
+417: columnist Laurie Taylor to write a memorable account of a bunch of
+418: theorists intellectually roughing up a more empirical colleague at a
+419: seminar before departing to the local bar. His account was fictitious
+420: but contained much truth.
+421: 
+422: ‘You’re a terrorist? Thank God. I understood Meg to say you were a
+423: theorist.’ From Culler (1997: 16)
+424: 
+425: [fpref_image001.jpg]
+426: 
+427: There are various indices of the ‘success’ of an explicitly defined
+428: archaeological theory; one might cite the frequency of ‘theoretical’
+429: symposia at major conferences such as the Society for American
+430: Archaeology or the European Association of Archaeology, or the incidence
+431: of ‘theory’ articles in the major journals. One particularly telling
+432: index is the rise and rise of the British Theoretical Archaeology Group
+433: conference (TAG). This was formed as a small talking-shop for British
+434: archaeological theorists in the late 1970s, but since then has become
+435: the largest annual archaeological conference in Britain with substantial
+436: participation from North America and Europe. There are now similar
+437: organizations in North America, Scandinavia (NordicTAG) and Germany
+438: (Arbeitsgemeinschaft Theorie).
+439: 
+440: It is true that a lot of papers delivered at TAG scarcely merit the term
+441: ‘theoretical’, and even more true that many only come for the infamous
+442: TAG party in any case. It must also be conceded that the degree of
+443: impact of TAGs and ‘theory’s’ influence on the ‘real world’ of
+444: archaeological practice, and the cultural and legislative framework of
+445: archaeology, is debatable. The theorist often feels like Cassandra,
+446: constantly giving what he or she sees as profound predictions and
+447: insight and constantly being ignored by the decision makers.
+448: 
+449: This book is written to give the student an introduction to a few of the
+450: strands of current thinking in archaeological theory. It is deliberately
+451: written as an introduction, in as clear and jargon-free a fashion as the
+452: author can manage (though as we shall see, criteria of clarity and of
+453: what constitutes jargon are riddled with problems).
+454: 
+455: It is intended as a ‘route map’ for the student. That is, it seeks to
+456: point out prominent landmarks on the terrain of theory, comment on
+457: relationships between different bodies of thought, and to clarify the
+458: intellectual underpinnings of certain views. As such, it is anything but
+459: an encyclopaedia; it is hardly one-tenth of a comprehensive guide to the
+460: field, if such a guide could be written. The text should be read with
+461: reference to the Further Reading and Glossary sections, and
+462: over-generalization, oversimplification and caricatures of viewpoints
+463: are necessary evils.
+464: 
+465: Above all, I remind all readers of the fourth word in the title of this
+466: book. I have tried to write an Introduction. The book, and its different
+467: chapters, are meant to be a starting-point for the student on a range of
+468: issues, which she or he can then explore in greater depth through the
+469: Further Reading sections. Many of the comments and criticisms made of
+470: the first edition of this book focused on an alleged over-or
+471: under-emphasis of a particular theoretical viewpoint, or lack of
+472: coverage. Many of these criticisms were valid, and I have tried to deal
+473: with them in this second edition; but many evaluated the text as a
+474: position statement with which they happened to agree or disagree, rather
+475: than on its pedagogical intention, that is as an introductory route-map
+476: to the issues. Additionally, students need to be reminded that this book
+477: should be the start, not the end, of their reading and thinking, a point
+478: I will return to in the Conclusion. A route-map is not an encyclopaedia.
+479: 
+480: To pursue the route map analogy, the route followed here is one of
+481: several that could be taken through the terrain of archaeological
+482: theory. I could have devoted a chapter each to different thematic areas:
+483: Landscape, The Household, Trade and Exchange, Cultures and Style,
+484: Agency, and so on. In each case, a variety of approaches to that theme
+485: could be given to show how different theories contradict or complement
+486: each other and produce different sorts of explanation of the
+487: archaeological record. Alternatively, a tour could be taken through
+488: different ‘isms’: positivism, functionalism, Marxism, structuralism,
+489: poststructuralism, feminism. These would be reasonable paths, and ones
+490: moreover that have been taken by other authors.
+491: 
+492: This book, however, tries above all to bring out the relationship
+493: between archaeological thought and wider strands of theory in
+494: intellectual and cultural life as a whole. It seeks to show how specific
+495: theoretical positions taken by individual archaeologists ‘make sense’
+496: within a wider context, cultural, social and political as well as
+497: academic. This book also seeks to bring out the relationship between
+498: archaeological theory and archaeological practice more clearly than has
+499: been done in the past. The structure adopted here, of a historical
+500: approach focusing initially on the New Archaeology and reactions to it
+501: before moving on to current debates, fitted this purpose best.
+502: 
+503: I have written above that this book is a guide for ‘the student’; I mean
+504: the student in the broadest sense. Many practising archaeologists
+505: employed outside the academic world have told me that they are
+506: interested in current theoretical debates, and see such debates as of
+507: potential relevance to their work. Nevertheless many feel alienated by
+508: what they see as the unnecessary obscurity and pretentiousness that is
+509: central to the theoretical scene. I don’t subscribe to such an analysis,
+510: but I have to acknowledge that it is widespread. Right or wrong, I hope
+511: that they may find that what follows is of some help.
+512: 
+513: In trying to survey many different theoretical strands, I have been torn
+514: between trying to write a ‘neutral’, ‘objective’ survey of different
+515: currents of thought on the one hand, and a committed polemic advancing
+516: my own views on the other. The end product lies, perhaps a little
+517: unhappily, somewhere between these extremes. On the one hand, the
+518: construction of a completely objective survey simply isn’t
+519: intellectually possible; the most biased and partial views on any
+520: academic subject consistently come from those who overtly proclaim that
+521: their own position is neutral, detached and valuefree. In addition, it
+522: would be disingenuous to claim that the book is written from a
+523: disinterested viewpoint–that it is a guide pure and simple. Obviously an
+524: interest in theory goes hand-in-hand with a passionate belief in its
+525: importance, and an attachment to certain more or less controversial
+526: views within the field.
+527: 
+528: On the other hand, if we want to understand why theory is where it is
+529: today, any account of a wide diversity of intellectual positions must
+530: endeavour to be reasonably sympathetic to all parties. A survey can
+531: never be neutral, but it can make some attempt to be fair. As R.G.
+532: Collingwood pointed out in relation to the history of philosophy, most
+533: theoretical positions arise out of the perceived importance of certain
+534: contexts or issues; that is, philosophical beliefs are in part responses
+535: to particular sets of problems, and have to be understood as such rather
+536: than given an intellectual mugging. One’s intellectual opponents are
+537: never all morons or charlatans to the last man and woman and one’s
+538: bedfellows are rarely all exciting, first-rate scholars. Before we get
+539: carried away with such piety it must be remembered that this does not
+540: mean that certain positions are not therefore immune from criticism. An
+541: intellectual relativism in which ‘all viewpoints are equally valid’ or
+542: in which ‘every theory is possible’ is not a rigorous or tenable
+543: position. We can see historically that some theoretical positions have
+544: been abandoned as dead ends, for example the extreme logical positivism
+545: of the 1970s.
+546: 
+547: I have also been torn between writing a historical account of the
+548: development of theory, and of giving a ‘snapshot’ of theory in the
+549: present. On the one hand, it might be held that my re-telling of the
+550: origins of the New Archaeology of the 1960s, and more arguably the
+551: processual/postprocessual ‘wars’ of the 1980s and 1990s, is now out of
+552: date. On the other hand, I feel that in order for the student to
+553: understand where theory is today, it is necessary to look at its
+554: development over the last few decades, and indeed to look at the deeper
+555: intellectual roots of many views and positions in the more remote past,
+556: for example in the thinking of figures like Charles Darwin and Karl
+557: Marx. Much of traditional cultural evolutionary theory, and much of the
+558: early postprocessual critique, may appear to be passé to some; but I do
+559: not think that the modern student can understand current thinking
+560: without reference back to this literature. Archaeology would be a
+561: strange field of study if it asserted that it could understand the way
+562: the discipline thinks in the present, without reference back to the way
+563: it thought in the past.
+564: 
+565: For this second edition of the book, I have made a number of changes. I
+566: give a more extended account of these and reflection on them in the
+567: Further Reading section, but two stand out. First, there has been an
+568: explosion in archaeological discussion of Darwinian evolution, and I
+569: have therefore divided the chapter on ‘Evolution’ into two. Second, the
+570: first edition concentrated on theory in the Anglo-American world, in
+571: part reflecting my own background and limitations. This concentration
+572: was rightly criticized by many non-Anglo scholars. I have tried in this
+573: second edition to write a more inclusive text, giving more attention to
+574: Indigenous and postcolonial perspectives as well as drawing more
+575: attention to theoretical contributions from across the world. I have
+576: nevertheless retained the original structure of the book, and have run
+577: the risk of ‘fitting in’ material around this organizing structure; but
+578: the alternatives, for example of having a separate chapter on non-Anglo
+579: theory, or of a country-by-country survey, seemed to me to be greater
+580: evils and to do greater violence to the very subtle texture of
+581: theoretical debate.
+582: 
+583: The adoption of an informal tone and omission of detailed referencing
+584: from the text is deliberate. It is to help, I hope, the clarity of its
+585: arguments and the ease with which it can be read. Many ‘academic’
+586: writers have often been taught to forsake the use of the ‘I’ word, to
+587: attempt to render our writing neutral and distant, to avoid a
+588: conversational or informal tone, all in the name of scientific or
+589: scholarly detachment. This may or may not be a valid project. The aim
+590: here however is educational rather than scholarly in the narrow sense.
+591: 
+592: One of my central points, particularly in the first chapter, is that all
+593: practising archaeologists use theory whether they like it or not. To
+594: make this point clear and to furnish examples I have often quoted
+595: passages from avowedly ‘atheoretical’ writers and commented upon them,
+596: to draw out the theories and assumptions that lie implicit within those
+597: passages. In most cases the passages come from the first suitable book
+598: to hand. I want to stress that critiques of these examples are not
+599: personal attacks on the writers concerned. Here, the need to use
+600: practical examples to make a theoretical point clear clashes with the
+601: desire to avoid a perception of unfair, personalized criticism.
+602: 
+603: The text is based in part on lecture notes for various undergraduate
+604: courses I have taught at Sheffield, Lampeter, Durham and Southampton.
+605: The students at all four institutions are thanked for their constructive
+606: and helpful responses. Some students may recognize themselves in the
+607: dialogues in some of the chapters, and I ask their forgiveness for this.
+608: The first edition of the book was partly conceived while I was a
+609: Research Fellow at the University of California at Berkeley in the
+610: spring of 1995. I would like to thank Meg Conkey, Christine Hastorf,
+611: Marcia Ann Dobres, Margot Winer and many others too numerous to mention
+612: for their hospitality during that time and for making my stay so
+613: enjoyable and profitable. I also thank Durham University for giving me
+614: study leave for that term. A number of reviewers, some anonymous, made a
+615: string of invaluable comments without which the book would have been
+616: much more opinionated and parochial and much less comprehensible. These
+617: include especially Randy McGuire, Jim Hill, Chris Tilley and Elizabeth
+618: Brumfiel. Robert Preucel and Ian Hodder reviewed the final draft
+619: extensively. Tim Earle, Clive Gamble and Cynthia Robin kindly corrected
+620: my misconceptions for the second edition. Dominic McNamara drew my
+621: attention to the Foucault quotation in chapter 6. Within the Department
+622: of Archaeology at Durham, Helena Hamerow, Colin Haselgrove, Anthony
+623: Harding, Simon James, Sam Lucy and Martin Millett read and made
+624: invaluable comments on the first draft. Brian Boyd, Zoe Crossland, Jim
+625: Brown and John McNabb helped with illustrations. William R. Iseminger
+626: kindly supplied figure 9.5 and Francis Wenban-Smith kindly supplied
+627: figure 10.4. Collaboration with staff of the History, Classics and
+628: Archaeology Subject Centre, particularly Annie Grant, Tom Dowson and
+629: Anthony Sinclair, influenced my thinking on the pedagogical framing and
+630: impact of the second edition. Conversations on the philosophy of science
+631: with my late father C. David Johnson clarified many points.
+632: 
+633: I moved to Southampton in 2004; I thank an outstanding group of
+634: colleagues and students there for their advice and support over the last
+635: five years. I prepared revisions for the second edition while a visiting
+636: scholar at the University of Pennsylvania in the autumn of 2008. I thank
+637: Bob Preucel and Richard Hodges for making that visit possible, and the
+638: students of Bob’s theory class for their input and hospitality. I also
+639: thank Clare Smith, Heather Burke and Matt Spriggs for organizing a
+640: stimulating visit to Australia in 2003/4, and Prof Joseph Maran, Ulrich
+641: Thaler and the staff and students of Heidelberg University for four
+642: wonderful months discussing theory and practice in spring 2005.
+643: 
+644: More broadly, can I thank everyone who has taken the time to speak or
+645: write to me over the last ten years to express their appreciation for
+646: this book. Students, teachers and practicing archaeologists have given
+647: me some very kind compliments, for which I am flattered and grateful,
+648: from the Berkeley feminist who said that I wrote like a woman to the
+649: Flinders student who sent me a picture of her Matthew Johnson Theory
+650: Action Doll.
+651: 
+652: Conversations with Chris Taylor, Paul Everson, Casper Johnson and David
+653: Stocker informed the discussion of Bodiam in chapter 10, though errors
+654: and misconceptions in this discussion remain my responsibility. John
+655: Davey, Tessa Harvey, Jane Huber, Rosalie Robertson and Julia Kirk at
+656: Blackwell were always patient, encouraging and ready with practical help
+657: when needed. My wife Becky made comments on successive drafts; proofread
+658: the final manuscript; and most importantly, provided emotional and
+659: intellectual support without which this book would never have been
+660: written. In return, I hope this book explains to her why archaeologists
+661: are such a peculiar bunch of human beings, though I know she has her own
+662: theories in this respect. My thanks to everybody.
+663: 
+664: 1
+665: 
+666: Common Sense is Not Enough
+667: 
+668: Archaeology can be very boring, distressing and physically
+669: uncomfortable. Every year we excavate thousands of sites, some with
+670: painstaking and mind-numbing patience, some in a great and undignified
+671: hurry. Every year we get chilled to the marrow or bitten half to death
+672: by mosquitoes while visiting some unprepossessing, grassy mound in the
+673: middle of nowhere. Miles from a decent restaurant or even a warm bath,
+674: we try to look interested while the rain comes down in sheets and some
+675: great professor whose best work was 20 years ago witters on in a
+676: monotone about what was found in Trench 4B. Every year we churn out
+677: thousands of interminable, stultifyingly dull site reports, fretting
+678: over the accuracy of plans and diagrams, collating lists of grubby
+679: artefacts to publish that few will ever consult or use again.
+680: 
+681: Why?
+682: 
+683: We could spend the money on hospitals. Alternatively we could quietly
+684: pocket the cash and write a much more entertaining, fictitious version
+685: of what the past was like while we sat on a sun-kissed terrace somewhere
+686: in southern California. If we were feeling ideologically sound we could
+687: raise an International Brigade for a liberation struggle somewhere. Each
+688: of these alternatives has its attractions, but we don’t do any of these
+689: things. We go on as we have done before.
+690: 
+691: One reason we don’t do these things is because archaeology is very
+692: important. The past is dead and gone, but it is also very powerful. It
+693: is so powerful that an entire nation (Zimbabwe) can name itself after an
+694: archaeological site. It is so powerful that archaeological sites are
+695: surrounded by police and are the subject of attempted occupations by New
+696: Age travellers. It is so powerful that even individual groups of
+697: artefacts like the Parthenon frieze are the subject of major
+698: international disputes.
+699: 
+700: The question ‘why do we do archaeology?’ is therefore bound up with the
+701: question ‘why is archaeology – the study of the past through its
+702: material remains – so important to us?’ And this again leads on to the
+703: question of ‘us’, of our identity – who are we? And these are all
+704: theoretical questions.
+705: 
+706: Definitions of Theory
+707: 
+708: ‘Theory’ is a very difficult word to define. Indeed, I shall return to
+709: this topic in the final chapter, since different theoretical views
+710: define ‘theory’ in different ways. Different definitions cannot
+711: therefore be fully explored without prior explanation of those views.
+712: 
+713: For the time being, I propose to define theory as follows: theory is the
+714: order we put facts in. I will go on to discuss the extent to which
+715: ‘facts’ exist independently of theory, and how we might define ‘facts’.
+716: We can also note that most archaeologists would include within the
+717: purview of theory why we do archaeology and the social and cultural
+718: context of archaeology. They would also refer to issues of
+719: interpretation. Most archaeologists would agree that the way we
+720: interpret the past has ‘theoretical’ aspects in the broad sense. For
+721: example, we could cite general theories such as cultural and biological
+722: evolution, issues of how we go about testing our ideas, debates over how
+723: we should think about stylistic or decorative change in artefacts.
+724: 
+725: There is disagreement over whether many concepts can be considered
+726: ‘theoretical’ or whether they are merely neutral techniques or methods
+727: outside the purview of theory. Stratigraphy, excavation and recording
+728: techniques, and the use of statistical methods are, for example, clearly
+729: all examples of putting facts in a certain order. However, they might be
+730: considered ‘theoretical’ by some but ‘just practical’ or ‘simply
+731: techniques’ by others. Theory and method are often confused by
+732: archaeologists. In this more restricted sense of theory, if theory
+733: covers the ‘why’ questions, method or methodology covers the ‘how’
+734: questions. So theory covers why we selected this site to dig, method how
+735: we dig it. However, theory and method are obviously closely related, and
+736: many archaeologists including myself regard such a straightforward
+737: division as too simple.
+738: 
+739: To give an example of the relationship between theory and method, we
+740: might consider different methods of investigating social inequality in
+741: the archaeological record. Thus the method archaeologists might use
+742: would be to compare graves ‘richly’ endowed with lots of grave goods
+743: with poorer, unadorned graves. It is evident in this exercise that
+744: certain ideas or theories about the nature of social inequality are
+745: being assumed (that social status will be reflected in treatment of the
+746: body at death, that material goods are unequally distributed through
+747: society and that this has a direct relationship to social inequality,
+748: and so on). These ideas are themselves theoretical in nature.
+749: 
+750: Perhaps theory and method are one and the same thing and cannot be
+751: separated; perhaps they have to be separated if archaeology is to be a
+752: rigorous discipline that is capable of testing its theories against its
+753: data. This is a debate we shall return to in chapter 4.
+754: 
+755: I’m sorry to butt in, but all this discussion of theory and method
+756: clearly demonstrates just how sterile and boring theory really is.
+757: You’re already lost in definitions and semantics, you haven’t mentioned
+758: a single fact about the past, and I’m beginning to wish I hadn’t
+759: bothered to start reading this and had turned my attention to that new
+760: book about the Hopewell culture instead. Theory is irrelevant to the
+761: practice of archaeology; we can just use our common sense.
+762: 
+763: Ah, Roger, the eternal empiricist. (Roger Beefy is an undergraduate
+764: student at Northern University, England, though women and men like Roger
+765: can be found in any archaeological institution. Roger fell in love with
+766: archaeology when he was a child, scrambling up and down the ruins of
+767: local castles, churches, burial mounds and other sites. Roger spent a
+768: year after school before coming to Northern University digging and
+769: working in museums. Roger loves handling archaeological material, and is
+770: happiest when drawing a section or talking about seriation techniques
+771: over a beer. Now, in his second year at Northern University, Roger has
+772: found himself in the middle of a compulsory ‘theory course’. Full of
+773: twaddle about middle-range theory, hermeneutics and postcoloniality, it
+774: seems to have nothing to do with the subject he loves.)
+775: 
+776: So, you want to know why theory is ‘relevant’ to archaeological
+777: practice. Perhaps you will bear with me while I discuss four possible
+778: reasons.
+779: 
+780: 1 We need to justify what we do
+781: 
+782: Our audience (other archaeologists, people in other disciplines, the
+783: ‘general public’ or ‘community’ however defined) needs to have a clear
+784: idea from archaeologists of why our research is important, why it is
+785: worth paying for, why we are worth listening to. There are a hundred
+786: possible answers to this challenge of justification, for example:
+787: 
+788: -   The past is intrinsically important, and we need to find out about
+789:     it for its own sake.
+790: -   We need to know where we came from to know where we’re going next.
+791:     Knowledge of the past leads to better judgements about the future.
+792: -   Only archaeology has the time depth of many thousands of years
+793:     needed to generate comparative observations about long-term culture
+794:     processes.
+795: -   Archaeology is one medium of cultural revolution that will
+796:     emancipate ordinary people from repressive ideologies.
+797: 
+798: The chances are that you disagree with at least one of these statements,
+799: and agree with at least one other. That doesn’t change the fact that
+800: each statement is a theoretical proposition that needs justifying,
+801: arguing through, and debating before it can be accepted or rejected.
+802: None of the statements given above is obvious, self-evident or
+803: common-sensical when examined closely. Indeed, very little in the world
+804: is obvious or self-evident when examined closely, though our political
+805: leaders would have us think otherwise.
+806: 
+807: 2 We need to evaluate one interpretation of the past against another, to
+808: decide which is the stronger
+809: 
+810: Archaeology relies in part for its intellectual credibility on being
+811: able to distinguish ‘good’ from ‘bad’ interpretations of the past. Were
+812: the people who lived on this site hunter-gatherers, or were they aliens
+813: from the planet Zog? Which is the stronger interpretation?
+814: 
+815: It’s impossible to decide what is a strong archaeological interpretation
+816: on the basis of ‘common sense’ alone. Common sense might suggest, for
+817: example, that we accept the explanation that covers the greatest number
+818: of facts. There may be thousands of sherds of pottery dating from the
+819: first millennium BC on a site, all factual in their own way, but one
+820: other fact – a treering date of ad 750, for example – may suggest that
+821: they might be all ‘residual’ or left over from an earlier period. In
+822: practice, every day of our working lives as archaeologists, we decide on
+823: which order to put our facts in, what degree of importance to place on
+824: different pieces of evidence. When we do this, we use theoretical
+825: criteria to decide which facts are important and which are not worth
+826: bothering with.
+827: 
+828: A good example of the inadequacy of common sense in deciding what is a
+829: strong or weak archaeological explanation is that of ley lines. Ley
+830: lines were ‘discovered’ by Alfred Watkins in the 1920s, when he noticed
+831: that many ancient archaeological sites in Britain could be linked up by
+832: straight lines. The idea that ancient sites lay on straight lines could
+833: be ‘proved’ easily by taking a map upon which such ancient monuments
+834: were marked and drawing such lines through them. Watkins suggested these
+835: lines represented prehistoric trackways. Nonsense, said the professional
+836: archaeological community. It was common sense that prehistoric peoples
+837: living thousands of years before literacy or formal geometry were far
+838: too primitive to lay out such geometrically sophisticated lines. Watkins
+839: had intended his book as a genuine contribution to archaeology, but his
+840: research, sincerely carried out, was laughed out of court and consigned
+841: to the ranks of lunatic ‘fringe archaeology’. Other writers took his
+842: thesis up in succeeding decades but extended it by suggesting that the
+843: lines were of sacred significance or mystical power.
+844: 
+845: Now it is quite clear today that prehistoric peoples would have been
+846: quite capable of laying out such lines. The original, common-sensical
+847: criteria used by archaeologists for rejecting Watkins’s thesis were
+848: completely invalid.
+849: 
+850: Ley lines do not exist. This was shown by Tom Williamson and Liz Bellamy
+851: in Ley Lines in Question, which analysed such lines statistically and
+852: showed that the density of archaeological sites in the British landscape
+853: is so great that a line drawn through virtually anywhere will ‘clip’ a
+854: number of sites. It took Williamson and Bellamy a book’s worth of effort
+855: and statistical sophistication to prove this, however.
+856: 
+857: The moral of the debate over ley lines is that what is considered to
+858: constitute a strong or a weak explanation is not simply a matter of
+859: ‘common sense’. I would argue that if we really want to understand what
+860: drove and continues to drive the ley line debate, we have to look, in
+861: part, at class divides in British archaeology. In his time Watkins was
+862: derided as a vulgar amateur, while today the tradition of ley line
+863: searchers continues strongly in ‘alternative’ or New Age circles. New
+864: Age travellers and others in their turn view middle-class professional
+865: archaeologists with suspicion. Others might dispute this social
+866: interpretation and suggest alternative reasons for the intellectual
+867: development of the issue. I might reply: we would then be having a
+868: theoretical debate.
+869: 
+870: 3 We must be explicit in what we do as archaeologists
+871: 
+872: In other words, we must be as open as possible about our reasons,
+873: approaches and biases, rather than trying to conceal them or pretend
+874: that they do not exist. This is a basic rule of academic discourse,
+875: though it is not always followed. Lewis Binford, a character we shall
+876: meet properly in the next chapter, made the point that all scientists of
+877: all disciplines need to be aware of the assumptions they are making if
+878: they wish to be productive.
+879: 
+880: It goes without saying that we can never be completely explicit about
+881: our biases and preconceptions. This should not stop us trying.
+882: 
+883: 4 We don’t ‘need’ theory, we all use theory whether we like it or not
+884: 
+885: Put another way, we are all theorists. This is the most important point
+886: of all. The most lowly troweller, the most bored washer of ceramics, the
+887: most alienated finds assistant or lab technician, are all theoreticians
+888: in the sense that they all use theories, concepts, ideas, assumptions in
+889: their work. (The theory may have been imposed on them by the project
+890: director or funding body, but it is theory nevertheless.) Put another
+891: way, the driest, most descriptive text or site report is already
+892: theoretical. Somebody wielding a WHS or Marshalltown trowel relies on
+893: theories of soil colour change and stratigraphy in his or her work;
+894: editorial judgements about the relative weighting and order given to
+895: pottery and artefact reports in a site monograph depend on a judgement
+896: on what is ‘significant’ about that particular site which in turn rests
+897: on theoretical criteria.
+898: 
+899: Any archaeologist who therefore tells you that their work is
+900: ‘atheoretical’, that they are ‘not interested in theory’, or that they
+901: are doing ‘real archaeology’ as opposed to those ‘trendy theorists’ is
+902: not telling the whole truth. They are as much theorists as anyone else,
+903: though they might choose to mask their theoretical preconceptions by
+904: labelling them ‘common sense’ or derived from the ‘real world’. In doing
+905: so, I would argue that they are bypassing their responsibility to make
+906: clear the intellectual basis of their work, trying to hide the
+907: theoretical assumptions and approaches that they are in fact using from
+908: critical scrutiny. They are indulging in an intellectual sleight of
+909: hand.
+910: 
+911: I would go further: pretending to be atheoretical is an attempt to
+912: impose a kind of machismo on to archaeological practice. As we shall see
+913: in chapter 8, archaeological practice is bound up with gendered notions
+914: of what is or is not valuable. There is, at least in the
+915: English-speaking world, always something vaguely effeminate (and
+916: therefore, it is implied, somehow secondary) about talking, reasoning,
+917: discussing, trying to think clearly and explicitly. It is difficult to
+918: see Vin Diesel at a philosophy discussion group. ‘Real men’ don’t do
+919: isms and ologies; they just dig – preferably with a really large, heavy
+920: pickaxe.
+921: 
+922: I’ve listened long enough to this; you’re descending into abuse now. I’m
+923: willing to concede that we all use theory in some sense, but at the end
+924: of the day it’s the facts, the raw data, that count.
+925: 
+926: I’m not going to argue now about whether ‘raw data’ really exist
+927: independently of theory – that will come later. Let’s suppose for now
+928: that raw data really do exist. Where does that get us? There is an
+929: infinity of archaeological facts. They are piled in their millions in
+930: museum and laboratory storerooms, in microfiche lists and in tables of
+931: data. Here are some pretty undeniable ‘facts’:
+932: 
+933: The pot I am holding is 600 years old.
+934: 
+935: Cuzco is an Inca site in Peru.
+936: 
+937: Lepenski Vir is a Mesolithic site in Serbia.
+938: 
+939: Colono Ware pottery has been found in Virginia.
+940: 
+941: A skeleton was excavated at Maiden Castle, Dorset, England, with an iron
+942: projectile lodged in its spine.
+943: 
+944: Great Basin projectile points come in different sizes.
+945: 
+946: The Bronze Age preceded the Iron Age.
+947: 
+948: Tikal was a major ceremonial centre for the Ancient Maya.
+949: 
+950: There are usually lots of clay pipe fragments on post-1500 sites. The
+951: Dordogne area of France is full of cave art.
+952: 
+953: The Great Wall of China is studded with towers.
+954: 
+955: In Chaco Canyon the ancient pueblos are built of stone.
+956: 
+957: Do the sentences above add up to a meaningful account of the past, a
+958: coherent archaeological narrative? No. Simply dredging up facts and
+959: waiting for them to cohere into an orderly account of the past is like
+960: putting a number of monkeys in front of typewriters and waiting for them
+961: to come up with the complete works of Shakespeare.
+962: 
+963: What makes us archaeologists as opposed to mindless collectors of old
+964: junk is the set of rules we use to translate those facts into meaningful
+965: accounts of the past, accounts that ‘make sense’ to us as archaeologists
+966: and (it is hoped) to those who read or engage with our work. And those
+967: rules, whether they are implicit or explicit, are theoretical in nature.
+968: Facts are important, but without theory they remain utterly silent.
+969: 
+970: Let’s take the example of a distinguished Professor of Archaeology who
+971: claims to be writing in an atheoretical, factual manner using ‘common
+972: sense’, and see what he is really doing. I have selected this text more
+973: or less at random:
+974: 
+975: It is worth stressing that Romano-British culture was based on a money
+976: economy. In south-eastern Britain coins were indeed in use before the
+977: conquest, but the Romans were responsible for spreading their
+978: circulation throughout the island. The extent to which currency
+979: permeated the whole commercial life of the country, down to the smallest
+980: transactions, may be gauged from the occurrence of coins on the humblest
+981: Romano-British sites and in the remotest part of the province. (Alcock
+982: 1976: 174)
+983: 
+984: One theoretical assumption being made here is that ideas like
+985: ‘transaction’ and ‘commercial life’, which only gain their modern
+986: meaning in the later eighteenth century and only arguably so even then,
+987: can easily be applied to Roman Britain without further explication. It
+988: follows that the writer must expect the reader to use his or her modern
+989: experience of transactions and commercial life – market oriented,
+990: largely unconnected with social relations, mediated by a common means of
+991: monetary exchange – to understand the meaning of the sentence. This and
+992: other assumptions may or may not be true, but they are theoretical in
+993: nature.
+994: 
+995: A second is a ‘middle-range’ assumption: that is, it connects particular
+996: facts on the one hand to general theories on the other (see chapter 4).
+997: Alcock assumes that the relative numbers of coins on different site
+998: types (note the use of an implicit site hierarchy that equates with a
+999: social hierarchy, assumed rather than demonstrated: ‘the humblest
+1000: sites’) will accurately reflect the level of what Alcock has termed
+1001: ‘commercial activity’. Of course, we have already acknowledged that
+1002: commercial activity is a much more theoretically complex beast. Again,
+1003: this is a theoretical proposition.
+1004: 
+1005: Alcock’s account may or may not be ‘true’, a ‘fair picture’ or ‘valid’;
+1006: that is a matter for debate among those specializing in this period. It
+1007: is certainly deeply theoretical. I could go on analysing the passage for
+1008: several more pages, but the point has been made that even the most
+1009: apparently straightforward, transparent, ‘clear’ prose conceals
+1010: theoretical depths.
+1011: 
+1012: All this is very plausible and convincing, but I still dislike theory
+1013: intensely. Theorists seem constantly to use incomprehensible jargon,
+1014: write in an impenetrable style, and never to get anywhere tangible. You
+1015: might persuade me there is a point to theory, but you can’t stop me
+1016: being irritated and alienated by what theorists write.
+1017: 
+1018: No, I can’t. I get irritated by a lot of theoretical writing, just as I
+1019: get irritated by all sorts of archaeological writing. But you’ve raised
+1020: a lot of points here that are worth taking in turn.
+1021: 
+1022: First, why the ‘jargon’? Long words with specialized meanings are not
+1023: confined to archaeological theory. Every area within archaeology has its
+1024: own specialist terms of reference; in this sense jargon is in the eye of
+1025: the beholder. My familiar terms as a theorist or as a specialist in
+1026: vernacular architecture may seem jargon to the environmental specialist,
+1027: and those of the environmental specialist may equally seem jargon to me.
+1028: 
+1029: There is a deeper problem with the accusation of jargon, however. There
+1030: seems to be an assumption behind such an accusation that we can always
+1031: express what we want to say in ‘clear, simple and easy’ language. If
+1032: only archaeology were so straightforward! If it were, we might have
+1033: concluded the archaeological project with a perfect understanding of the
+1034: past hundreds of years ago. Archaeology is, if nothing else, about new
+1035: ideas about the past. We express ideas in words, and it may be
+1036: appropriate to use new words to lead the reader to think in new ways.
+1037: 
+1038: Human societies were and are very complex things. As part of the natural
+1039: world they share its complexity, and also have a social and cultural
+1040: complexity all of their own. We don’t complain when the chemist or
+1041: biologist uses technical language incomprehensible to the lay person, so
+1042: why should we when the archaeologist does so?
+1043: 
+1044: The point I am making here is that archaeologists expect the finer
+1045: techniques of archaeological practice to be difficult to comprehend and
+1046: master; that is the nature of our discipline. We are prepared to put
+1047: effort into mastering the language and practice of stratigraphy, Harris
+1048: matrices, seriation, scientific dating techniques, even the
+1049: half-intuitive practical skill of differentiating between layers by the
+1050: feel of the soil under the trowel. But the ‘theory’ side of what we do –
+1051: using the tiny scraps of information thus gained to tell us about the
+1052: human past in all its richness and complexity – must be at least equally
+1053: difficult as these ‘practical’ tasks. It fact, it must be one of the
+1054: most intellectually demanding tasks we as a species have ever set
+1055: ourselves.
+1056: 
+1057: I think you’re missing the point. The suspicion is that jargon is being
+1058: used to mystify, to create a language of exclusion where the outsider is
+1059: made to feel small.
+1060: 
+1061: There is some justice in this charge. Certain forms of academic rhetoric
+1062: are used, intentionally or unintentionally, to set up in-groups and
+1063: out-groups. I do not defend such a practice. But again, one hears the
+1064: vague murmur of pots calling kettles black; all sectional interests
+1065: within and outside archaeology do this. Read any article in Vernacular
+1066: Architecture on the classification of scarf-joints with squinted and
+1067: pegged abutments, or a medieval historian on enfeoffments and
+1068: subinfeudation.
+1069: 
+1070: Finally, ‘writing clearly’ assumes that one is writing about something
+1071: else. In other words, that there is a real, external world out there
+1072: with certain essential, concrete features, features that language can
+1073: describe in a more or less clear and neutral manner. Now whether one is
+1074: describing the decoration on pots or suggesting what it might have been
+1075: like to live in the Bronze Age, this is a highly debatable assumption.
+1076: Certainly, in most traditions of Western thought, the past doesn’t exist
+1077: anywhere outside our own heads. I have never touched, kicked or felt the
+1078: past.
+1079: 
+1080: Theory is difficult. If one accepts that all archaeologists are
+1081: theorists, then logically it is no more or less difficult than any other
+1082: branch of archaeology. But archaeology itself is difficult. We have set
+1083: ourselves an incredibly daunting task. We want to understand human
+1084: societies that have been dead and gone for thousands of years, whose
+1085: customs, values and attitudes were almost certainly utterly different
+1086: from our own. We have to do this without talking to the people
+1087: themselves. What is more, we want to understand how and why they changed
+1088: in the way they did. And the only materials we have to achieve this
+1089: immense task are a few paltry scraps of rubbish they left behind on the
+1090: way, most of which have long since decayed into dust. Such a task is not
+1091: a simple one; the wish that, for all its practical discomforts and
+1092: difficulties, it be an intellectually easy one is quite understandable,
+1093: but very naïve.
+1094: 
+1095: Theory is also difficult for reasons that have less to do with jargon as
+1096: such and more to do with academic practice. Practitioners in theory will
+1097: often say one thing and do quite another. A theoretical article will
+1098: proclaim that it is tackling a problem from a new, exciting perspective
+1099: and just churn out the same old approach thinly disguised. Another
+1100: article will accuse a rival of a string of theoretical iniquities and
+1101: then do exactly the same things itself using different language.
+1102: 
+1103: Which leads to my final point: theory is difficult, in the last
+1104: analysis, because it requires one to think for oneself. When a student
+1105: writes a term paper or essay on southwestern Native American pottery, he
+1106: or she can churn out a series of ‘facts’ gleaned from the standard
+1107: textbooks. Such a list of facts, or more accurately a repetition of the
+1108: textbooks’ narratives, may not get a particularly good mark in the
+1109: absence of any critical analysis or independent thinking whatsoever, but
+1110: the student will get by. Such an approach comes unstuck, however, in
+1111: writing a theory essay. It’s more difficult to regurgitate things copied
+1112: out of books and not really deeply understood when one is dealing with
+1113: abstract ideas, particularly when one writer disagrees so clearly and
+1114: fundamentally with another. Though any crop of undergraduate essays will
+1115: demonstrate that it is not impossible.
+1116: 
+1117: The literary theorist Jonathan Culler (1997, 16–17) points out that:
+1118: 
+1119: theory makes you desire mastery: you hope that theoretical reading will
+1120: give you the concepts to organize and understand the phenomena that
+1121: concern you. But theory makes mastery impossible, not only because there
+1122: is always more to know, but, more specifically and more painfully,
+1123: because theory is itself the questioning of presumed results and the
+1124: assumptions on which they are based.
+1125: 
+1126: Theory, then, involves pain. It involves the deliberate placing of
+1127: oneself in a vulnerable position, where the need to think for oneself
+1128: makes one’s conclusions always provisional and always open to attack
+1129: from others.
+1130: 
+1131: Thinking for oneself, however, is something every student of archaeology
+1132: (or any other critical discipline for that matter) is (or should be) in
+1133: the business of doing. Ultimately, critical evaluation with reference to
+1134: evidence is the key-stone of a liberal education. In an age when
+1135: education is increasingly seen as a commodity, in which knowledge can,
+1136: it is implied, be bought and sold in the marketplace, the idea of an
+1137: education as learning the skills of thinking critically and of
+1138: evaluating the evidence for and against a particular view is more and
+1139: more under attack. Perhaps it is this cultural context that has led to
+1140: some of the sharpness of the ritualized denunciations of theory.
+1141: 
+1142: Understanding Theory
+1143: 
+1144: Well, I still feel pretty dubious about theory, but I’m prepared to go
+1145: along with you for a bit. Where do we go from here?
+1146: 
+1147: The rest of this book will try to illuminate some of the major trends in
+1148: archaeological theory, starting with the 1960s and moving on from there.
+1149: To try to make this book as clear as possible, I am going to adopt two
+1150: strategies.
+1151: 
+1152: First, from time to time I shall talk at length about developments in
+1153: associated disciplines and in intellectual thought as a whole. As a
+1154: result, long passages and even sub-sections of chapters may seem utterly
+1155: irrelevant to the practising archaeologist. The reason I do this is
+1156: because archaeology has had a habit of picking up ideas second-hand from
+1157: other disciplines. Ideas have been changed, even confused and distorted,
+1158: in the process. As a result, it is necessary to go back ‘to source’ to
+1159: explain them clearly and to understand precisely how they have been used
+1160: and abused by archaeologists. So please bear with the text, plod through
+1161: the ‘irrelevant’ material, and I will then try to explain its relevance
+1162: to archaeological thought.
+1163: 
+1164: Second, I shall look at the development of theory historically, looking
+1165: first at the origins of the New Archaeology, then at reactions to it. I
+1166: suggest that by understanding the historical context of a set of ideas
+1167: such as ‘New Archaeology’ or ‘postprocessual archaeology’, one may more
+1168: easily sympathize with its aims and grasp some of its underlying
+1169: principles and concerns. By understanding this context we can also put
+1170: many of the features of contemporary archaeology in their historical
+1171: surroundings rather than place them in a vacuum.
+1172: 
+1173: The next chapter will discuss the New Archaeology; the following three
+1174: will look at the questions of ‘science’ and ‘anthropology’ that it
+1175: raised. The New Archaeology is now over 40 years old, but the
+1176: intellectual questions raised by New Archaeologists are, I will suggest,
+1177: absolutely central to contemporary archaeological theory and practice.
+1178: 
+1179: 2
+1180: 
+1181: The ‘New Archaeology’
+1182: 
+1183: Most archaeologists fall in love with the subject by getting ‘hooked’ on
+1184: things. The things vary from case to case – castles, Roman baths, flint
+1185: or chert arrowheads, Neolithic pots, Maya temples – but in most cases
+1186: the immediate appeal is of mystery and romance, of the past calling to
+1187: us through its remains. This romantic appeal is often aesthetic and
+1188: sensual as well as intellectual. Archaeologists love clambering round
+1189: medieval ruins or handling pottery sherds. We try to persuade ourselves,
+1190: however, that these ruins or sherds are mere ‘data’. (One colleague told
+1191: me that as a result of the acute boredom of his researches he now
+1192: loathes Neolithic pottery to the depths of his soul, but I interpret
+1193: this as another, rather twisted form of love.) Artefacts, whether as
+1194: small as an arrowhead or as large as a royal palace, fascinate us.
+1195: 
+1196: This love of artefacts, in itself, has nothing to do with archaeology in
+1197: the strict sense as the study of the past. Artefacts tell us nothing
+1198: about the past in themselves. I have stood in the middle of countless
+1199: ruins of castles and ancient palaces and listened very carefully, and
+1200: not heard a single syllable. Colleagues tell me that they have had
+1201: similar distressing experiences with pottery, bones, bags of seeds. They
+1202: love handling and experiencing their material, but it remains silent. In
+1203: and of itself, it tells them precisely nothing.
+1204: 
+1205: Artefacts can’t tell us anything about the past because the past does
+1206: not exist. We cannot touch the past, see it or feel it; it is utterly
+1207: dead and gone. Our beloved artefacts actually belong to the present.
+1208: They exist in the here and now. They may or may not have been made and
+1209: used by real people thousands of years ago, but our assessment of the
+1210: date of their manufacture and use is itself an assessment that we make,
+1211: that is made in the present.
+1212: 
+1213: Until scientists invent a time machine, the past exists only in the
+1214: things we say about it. Archaeologists choose to ask certain questions
+1215: of our material: ‘How many beads were found in this grave?’ ‘Do we see a
+1216: shift to intensive exploitation of llamas in the Formative Period?’
+1217: ‘What was it like to live in the Bronze Age?’ ‘What degree of social
+1218: inequality do we see in this period?’ We make general or particular
+1219: statements about the past: ‘There was increased use of obsidian in Phase
+1220: 3B of this site’; ‘There were more elements of cultural continuity
+1221: between Mesolithic and Neolithic populations than have hitherto been
+1222: assumed’; ‘Gender relations became less equal through time’; ‘The Romans
+1223: were a cruel and vicious people’. These are all statements made here,
+1224: now, in the present, as I write and you read. They do not belong to the
+1225: past.
+1226: 
+1227: It is only in works of fiction, or if you believe in ghosts, that past
+1228: and present can really be made to collide and merge into each other. It
+1229: is striking that many writers have used this collision with great effect
+1230: to disturb and horrify the ‘rational’ Western mind (the novels of Peter
+1231: Ackroyd are excellent examples of this). More critically, this collision
+1232: of past and present is also possible within ‘non-Western’ schemes of
+1233: thought, where living cultural traditions may be held to be embodiments
+1234: of cultural memory and in which past and present are not so radically
+1235: divided; hence in part the conflicts between different cultures over,
+1236: for example, excavation and reburial of Native American human remains,
+1237: where the belief that time moves in a cycle rather than in a line makes
+1238: archaeological excavation a threat to the present through its
+1239: ‘desecration’ of the past. ‘Indigenous archaeology’ does not, then,
+1240: necessarily make this radical division between present and past, a point
+1241: we will return to in chapter 12.
+1242: 
+1243: Now it is the task of archaeologists to find out about the past. We want
+1244: to know what really happened back then. The source materials – stones,
+1245: bones, pots – are in the present, and the past that we create is also in
+1246: the present. We will never ‘know’ what the past was ‘really like’, but
+1247: we all can and do try to write the ‘best’ account we can, an account
+1248: that is informed by the evidence that we have and that tries to be
+1249: coherent and satisfying to us.
+1250: 
+1251: One of the basic problems of archaeology, then, is summarized in figure
+1252: 2.1. Somehow we have to take the archaeological materials that we have
+1253: and through our questioning get them to give us information about the
+1254: past. There is a gulf between past and present, a gulf that the
+1255: archaeologist has to bridge somehow even if it can never be bridged
+1256: securely or definitively. Otherwise we risk a descent into the mindless
+1257: activity of simply assembling and collating old objects for their own
+1258: sake, rather than as evidence for the past (an activity which has been
+1259: derided as ‘mere antiquarianism’, though such a term fails to do justice
+1260: to the methods of early antiquarians).
+1261: 
+1262: I am labouring this point because it is easy to fall into the trap of
+1263: believing that the very physicality of archaeological material will in
+1264: itself tell us what the past was like. It will not. Kick a megalith and
+1265: it hurts; stand in a castle chamber and you see nothing but medieval
+1266: fabric. But kicking the megalith or standing in that cold chamber will
+1267: tell you nothing about what the Neolithic or the Middle Ages were
+1268: ‘really like’, or what processes led to the construction and use of the
+1269: megalith or castle. Archaeologists only see megalith and castle in the
+1270: present, the here and now. This is a present that is framed by
+1271: contemporary ideas, attitudes and assumptions. We see megalith and
+1272: castle through our eyes, not the eyes of the prehistoric or medieval
+1273: observer.
+1274: 
+1275: Figure 2.1 The gulf between present and past
+1276: 
+1277: [c02_image001.jpg]
+1278: 
+1279: The idea that there is some direct link is closely allied to a belief in
+1280: ‘common sense’ discussed in the previous chapter and a naïve empiricism,
+1281: in which we do not need theory to translate between present and past.
+1282: Such a position, as we have seen, is simply not intellectually
+1283: sustainable, but is is nevertheless still widespread in areas of
+1284: archaeology that have yet to feel the full impact of explicit theory,
+1285: and we will return to it again and again in the chapters that follow.
+1286: 
+1287: I am also labouring this point because it can be seen as the point of
+1288: departure for very different views of archaeological theory. One of the
+1289: few areas of common ground for most archaeological theorists is that we
+1290: all want to talk about the past, and we all use archaeological material
+1291: in the present to do so. But how do we do this? One possible suggestion
+1292: is that we should use the methods of the natural sciences on our
+1293: material, to try to test alternative hypotheses about past events and
+1294: processes against that material and so expand and develop our
+1295: understanding. Another possibility is to view artefacts like literary
+1296: texts, to ‘read’ them as we would a piece of writing, and so begin to
+1297: uncover the rich complexity of past cultural meanings.
+1298: 
+1299: There are a multiplicity of other views; and the problem has been
+1300: perceived for some centuries. Indeed its origins can be traced directly
+1301: to the genesis of modern archaeology in the work of Renaissance
+1302: antiquarians. The English humanist Sir Thomas Browne centred his
+1303: wonderful mid-seventeenth century essay Hydriotaphia around the
+1304: discovery of cremation urns that we now believe to be of Anglo-Saxon
+1305: origin, fifth to seventh century ad in date. Browne contrasted the
+1306: physical solidity of the urns with the impossibility of understanding
+1307: the religious beliefs that they expressed, or even the impossibility of
+1308: assigning a date to them (he speculated that they might be Roman: figure
+1309: 2.2).
+1310: 
+1311: The question of how to link present and past, however, surfaced in its
+1312: most explicit form with the New Archaeology of the 1960s and 1970s.
+1313: Though now over 40 years old, the New Archaeology raised foundational
+1314: questions about the nature of archaeology that form the basis of many
+1315: theoretical views today.
+1316: 
+1317: Culture History
+1318: 
+1319: There is an ongoing debate about the nature of archaeological theory
+1320: before the New Archaeology. There is not space here to do this debate
+1321: justice.
+1322: 
+1323: Some historians of archaeology maintain that the century before 1960 was
+1324: the ‘long sleep’ of archaeological theory, in which very little explicit
+1325: discussion of theory took place. They argue that archaeologists
+1326: concentrated on collecting masses of archaeological material within an
+1327: unquestioned, generally assumed framework. Others deny this, maintaining
+1328: that this period did see lively theoretical debates of various kinds.
+1329: They further maintain that the importance of the New Archaeology for the
+1330: development of archaeological thought has been grossly overestimated. In
+1331: particular, they point to New Archaeology’s origins and impact in
+1332: Britain and North America, and its much more limited impact in many
+1333: other parts of the world.
+1334: 
+1335: I want to set this important historical debate aside, and stress here
+1336: that one of the starting points of the so-called ‘New Archaeology’ lay
+1337: in what I have discussed above, that is in the notion that mere data
+1338: collection – the acquisition of more stuff – does not in itself lead to
+1339: a better understanding of the past. David Clarke, one of the principal
+1340: proponents of the New Archaeology, started his classic book Analytical
+1341: Archaeology with a telling quote from Lewis Carroll:
+1342: 
+1343: Now here, you see, it takes all the running you can do, to keep in the
+1344: same place. (The Queen to Alice, Through the Looking-Glass, Chapter 2,
+1345: Lewis Carroll, 1832–98.)
+1346: 
+1347: Every year produces a fresh crop of archaeological excavations, a new
+1348: harvest of prehistoric artefacts. … The archaeologists come and go, new
+1349: names and sites outshine the old, while hundreds of years of collected
+1350: material overflows and submerges our museum storerooms. At the same time
+1351: a relentless current of articles and books describe and label the new
+1352: material so that the intrepid archaeologist, by dint of furious
+1353: activity, can just maintain his [sic] status quo against the constant
+1354: stream of data. However, the nebulous doubt arises in our minds that a
+1355: modern empirical discipline ought to be able to aim at more rewarding
+1356: results than the maintenance of a relative status quo and a steady flow
+1357: of counterfeit history books. (Clarke 1978: 3)
+1358: 
+1359: Clarke, then, was not at all sure that the methods of archaeologists
+1360: actually give us better and more reliable versions of the past. In his
+1361: view, archaeologists seem to dig up more and more things but stay in the
+1362: same place in terms of our ideas. Our knowledge of artefacts in the
+1363: present grows better and better, but because we do not bridge the gulf
+1364: with the past very well, progress in understanding that past does not
+1365: follow.
+1366: 
+1367: Figure 2.2 Illustration of burial urns from Sir Thomas Browne,
+1368: Hydriotaphia (1658). The Latin tag is from the Latin poet Propertius:
+1369: ‘See, I am a burden which is lifted by five fingers’
+1370: 
+1371: [c02_image002.jpg]
+1372: 
+1373: What were the theories Clarke was dissatisfied with? In other words, how
+1374: did archaeologists before the 1960s, and how do many archaeologists
+1375: continuing to work in culture-historical traditions today, translate
+1376: archaeological material into statements about the past? It is easy to
+1377: over-generalize here, and exceptions can always be found. One of the
+1378: basic building-blocks, however, was the idea of an archaeological
+1379: culture and what it meant in terms of past human populations. In the
+1380: words of Gordon Childe:
+1381: 
+1382: We find certain types of remains – pots, implements, ornaments, burial
+1383: rites, and house forms – constantly recurring together. Such a complex
+1384: of associated traits we shall term a ‘cultural group’ or just a
+1385: ‘culture’. We assume that such a complex is the material expression of
+1386: what today would be called a ‘people’. (Childe 1929: v–vi)
+1387: 
+1388: Such an idea of culture has been called normative. That is, it depends
+1389: on two assumptions: first, that artefacts are expressions of cultural
+1390: norms, ideas in people’s heads, and second, that those norms define what
+1391: ‘culture’ is. I will give two examples, one from the present and one
+1392: from the past.
+1393: 
+1394: 1 The English are the English because they drink tea, speak English,
+1395: don’t eat horse, and queue in an orderly fashion, often for hours
+1396: without complaint. This distinguishes them from the French who drink
+1397: coffee, speak French, eat horse and do not queue with such equanimity.
+1398: (These are, of course, all cultural norms, ideas about what is the right
+1399: way to behave, and one can easily see that they are in fact ideals (in
+1400: this case crude stereotypes) that don’t necessarily correspond to
+1401: reality in every case.)
+1402: 
+1403: 2 The Linearbandkeramik (LBK) archaeological culture differs from the
+1404: Trichterbandkeramik (TRB) in Neolithic Europe: in LBK areas we find
+1405: rectangular house forms, pottery decorated with linear designs, a
+1406: certain form of arable economy. In TRB areas house form, pottery
+1407: decoration and economy are all different. (Again, this is an ideal: not
+1408: every TRB or LBK site will share all the features of all the others.)
+1409: 
+1410: Such a concept of culture is also polythetic: that is, it depends on a
+1411: number of different traits occurring together rather than on one trait
+1412: alone. Drinking coffee does not make an English person French; a single
+1413: rectangular house does not turn a TRB settlement into an LBK village. It
+1414: is a number of traits occurring together, as Childe stressed, that
+1415: defines culture. In North America, lists of traits were tabulated and
+1416: added up from site to site.
+1417: 
+1418: So to summarize, in the traditional view we translate present into past
+1419: by collecting artefacts into groups, and naming those groups as
+1420: archaeological cultures. We then make the equation between an
+1421: archaeological culture and a human culture by making the assumption that
+1422: artefacts are expressions of cultural ideas or norms. (It is a tenable
+1423: position, sometimes taken, to only go half-way with this process: in
+1424: other words, to classify and name archaeological cultures, but to deny
+1425: an equation with human cultures.)
+1426: 
+1427: This approach, which was termed ‘culture history’ by many, has several
+1428: consequences. In the first place, it leads to a tendency to
+1429: particularize what archaeologists say about the past rather than
+1430: generalize. What this means is that instead of stressing the
+1431: similarities between things, one stressed the differences and
+1432: particularities between them.
+1433: 
+1434: One might, for example, want to generalize between the LBK and TRB, to
+1435: stress that these different groups were at the same ‘level’ of social or
+1436: economic development. They might both be classified as societies with a
+1437: certain level of social ranking, for example, or with certain similar
+1438: modes of subsistence economy, or exchange and trade. The
+1439: culture-oriented approach, however, tends to direct attention away from
+1440: such general features towards what makes the TRB and LBK distinctive,
+1441: both from each other and from other cultures. It encourages us to stress
+1442: their differences, their diagnostic and peculiar features, their
+1443: particular forms of house type and burial rite, the contrast between the
+1444: zigging of one form of pottery decoration and the zagging of another
+1445: form, rather than those they have in common.
+1446: 
+1447: The second consequence of a normative view of culture is that cultures
+1448: tend to be viewed as unchanging. To repeat, the normative approach sees
+1449: artefacts as expressions of shared ideas. If people in the LBK all
+1450: shared the same ideas on how to build houses, make pots and bury their
+1451: dead, where did change come from? The easiest way to explain change is
+1452: to suggest that it was brought in from outside, from another human
+1453: group. Such outside ‘influence’ can be of one of two forms: migration of
+1454: peoples, or of diffusion the spread of ideas through contact between
+1455: groups.
+1456: 
+1457: Figure 2.3 ‘Cultures’ in space and time, from Childe (1929)
+1458: 
+1459: [c02_image003.jpg]
+1460: 
+1461: Accounts of prehistory written using a culture-historical framework,
+1462: then, tend to consist of two elements. The first is a chronological
+1463: sequence of cultures, a sort of timetable with culture groups listed
+1464: instead of trains. The second is a map full of arrows to indicate the
+1465: migration and diffusion of ideas that marked change between cultures
+1466: (see for example figures 2.3 and 2.4).
+1467: 
+1468: The whole synthesis thus produced tends to be descriptive. That is, it
+1469: describes phases and areas of cultural change: this culture followed
+1470: that culture, this innovation spread or diffused at that rate. Much
+1471: traditional prehistory reads like much traditional history, that is like
+1472: a chronicle of events held together by a narrative. Often, there is
+1473: little explicit explanation of why this or that pottery style changed,
+1474: why this or that culture spread or changed.
+1475: 
+1476: Figure 2.4 Piggott’s (1968) view of culture. Piggott’s caption reads:
+1477: ‘Distribution of mature La Téne culture and influences; 2, Sword
+1478: scabbards in Swiss style; 3, British derivatives; 4, Many scabbards’
+1479: 
+1480: [c02_image004.jpg]
+1481: 
+1482: This descriptive emphasis is one reason why culture-historical
+1483: approaches continue to be popular in Classical, medieval and historical
+1484: archaeology: in these areas, underlying causes or reasons for change are
+1485: often implicitly invoked not from the archaeological material itself,
+1486: but from documents and wider historical narratives. Thus, a series of
+1487: pieces of art or examples of tombs or architectural features will be
+1488: described, with change then being ascribed to the ‘influence of Rome’ or
+1489: the ‘spread of Renaissance values’ (see chapter 5).
+1490: 
+1491: In some regional and national traditions, for example in much central
+1492: and eastern European work, a well-established and continuing approach is
+1493: to use typologies and distribution maps to sort artefacts into
+1494: archaeological groups and cultures in time and space, without then
+1495: making the step of moving outwards to statements about human cultures.
+1496: Rather, the archaeological entities thus defined can then be gathered
+1497: together and synthesized with evidence from historical linguistics and
+1498: historical ethnography to form an overarching discipline of
+1499: ‘prehistory’, within which archaeology is one of several contributing
+1500: techniques, alongside historical ethnography, historical linguistics and
+1501: other disciplines such as folklife studies. In North America, the
+1502: ‘direct historical method’ worked backwards from ‘known’ Native American
+1503: groups from ethnography and history, mapping them in terms of
+1504: archaeological cultures, and working backwards to a prehistoric origin
+1505: point.
+1506: 
+1507: Lewis Binford called the culture-historical view of change ‘an aquatic
+1508: view of culture’ (Binford 1964, 204). Binford’s image was a caricature,
+1509: but like all good caricatures it contained an essence of truth. What
+1510: Binford meant was that the traditional archaeologists of his time saw
+1511: the map of the prehistoric world as being a little like a large pool of
+1512: water. When an innovation was made for whatever reason in a given place,
+1513: it would tend to spread through the process of ‘influence’ or diffusion
+1514: in all directions, like the ripples from a stone dropped in the pool. In
+1515: any given location, then, one sees cross-cutting ‘ripples’ of influence.
+1516: 
+1517: I want to repeat that this characterization of culture-historical
+1518: archaeology is far too brief, over-simplified and over-generalized.
+1519: Suggestions for further accounts are given in the Further Reading
+1520: section. In particular, it leans too heavily on what New Archaeologists
+1521: such as David Clarke, Colin Renfrew and Lewis Binford said that
+1522: traditional archaeology was like. Many have complained that the New
+1523: Archaeology set up a distorted image of traditional thought for its own
+1524: polemical purposes, a ‘straw person’ that could easily be knocked down.
+1525: But if this is what New Archaeology thought traditional thinking was
+1526: like, this was what New Archaeology was reacting against.
+1527: 
+1528: Origins of the New Archaeology
+1529: 
+1530: What, then, was the ‘New Archaeology’? One thing is certain: it is no
+1531: longer new. The term ‘New Archaeology’ is applied to a school of thought
+1532: that swept through much of Anglo-American archaeology in the 1960s and
+1533: early 1970s. It must be seen in the contexts of similar currents of
+1534: thought in other disciplines – the New Geography in particular.
+1535: 
+1536: The ‘New Archaeology’ was also not a single set of beliefs or theories.
+1537: One does not expect all members of a political party to have identical
+1538: views on all policy matters; there are rather certain core ideas and
+1539: values that inform the approach of any one party. Similarly, under the
+1540: banner of the New Archaeology was a very diverse set of archaeologists
+1541: with different approaches and beliefs. What united them all was a sense
+1542: of dissatisfaction with the way archaeology was going, a sense that
+1543: things had to change and that they, as a thrusting new generation of
+1544: ‘young Turks’, were going to change it.
+1545: 
+1546: This dissatisfaction with traditional archaeology was crystallized in
+1547: the phrase: ‘we must be more scientific and more anthropological’. In
+1548: this one phrase can be seen New Archaeology’s source of disaffection
+1549: with what went before, the foundations of its rise, and in my view the
+1550: seeds of subsequent developments.
+1551: 
+1552: Why was culture history seen as unscientific? We must go back to David
+1553: Clarke’s comments on running harder and harder to stay in the same
+1554: place. More data do not automatically equate to better ideas about the
+1555: past. Archaeologists spend much of their time accumulating more and more
+1556: information and presenting that information in ever more detail – what
+1557: is sometimes called in German Materialschlacht, or literally ‘war of the
+1558: materials’. This does not automatically mean however a better and better
+1559: idea of what the past was like, for all the reasons discussed above.
+1560: Such studies simply fit more and more archaeological material into the
+1561: same existing classification, for example an endless sequence of
+1562: cultures. The end result is not necessarily a better or more accurate
+1563: picture of the past in any way.
+1564: 
+1565: ‘Science’, argued the New Archaeologists, uses its data to test
+1566: hypotheses about the way the world works, and generalizes from these
+1567: conclusions. ‘Science’ progresses; it does not simply collate its facts
+1568: into orderly patterns, rather it confronts theory and data in such a way
+1569: as to make larger and larger and deeper and deeper its understanding of
+1570: the world. The natural sciences, in this view, have a proven record of
+1571: developing better and better understandings of the world around us.
+1572: 
+1573: Why was culture history seen as not anthropological? Anthropology is the
+1574: study of humanity. Traditional archaeologists, in the basic process of
+1575: sorting artefacts into groups and cultures, often seemed to ignore human
+1576: beings: pottery styles seemed to get up and march around with no
+1577: reference to the humans that produced them. In this sense many forms of
+1578: culture history can be seen as fetishistic. A fetish is a thing that
+1579: comes to stand for something else such as a human or a human group:
+1580: traditional archaeologists often seem to spend their time describing the
+1581: movement of these things without thinking about the human beings, the
+1582: cultural systems, behind them. In the shorthand of culture history,
+1583: pottery styles and house types seem to develop little legs and run
+1584: around without any help from human beings.
+1585: 
+1586: At a deeper level, traditional archaeology was not anthropological in
+1587: the sense that there seemed to be no guarantee that the archaeological
+1588: ‘cultures’ so lovingly produced by culture historians had any
+1589: relationship to real human communities. Many New Archaeologists
+1590: questioned the link between archaeological cultures – Childe’s recurring
+1591: assemblages of traits – and past peoples. Childe himself had come to
+1592: doubt whether we really could equate archaeological cultures and past
+1593: peoples:
+1594: 
+1595: It would be rash to define precisely what sort of social group
+1596: corresponds to the archaeologist’s ‘culture’. … Culture and language
+1597: need not coincide. (Childe 1942: 26–7)
+1598: 
+1599: This is why many New Archaeologists moved away from the normative
+1600: conception of culture and looked for other ways to explain the things we
+1601: dug up. Clarke’s famous 1973 article claimed that archaeology
+1602: experienced a ‘loss of innocence’. The innocent equations archaeology
+1603: had made between artefacts, cultures and peoples, or between data and
+1604: interpretation more generally, had to be questioned.
+1605: 
+1606: To repeat, the New Archaeology must be understood as a movement or mood
+1607: of dissatisfaction rather than as a specific set of beliefs. David
+1608: Clarke called it ‘a set of questions rather than a set of answers’
+1609: (1973). It was certainly marked with revolutionary fervour. Lewis
+1610: Binford, its most famous figure, tells a story that sums up both this
+1611: fervour and its irritation with the particularism of traditional
+1612: methods:
+1613: 
+1614: I remember one day when one of the traditional Griffin students had
+1615: returned from a field trip to the Upper Illinois valley. He had burst
+1616: into the museum with the announcement that he had found a ‘unique’ item,
+1617: a negative-painted sherd from the site. Griffin was obviously
+1618: stimulated, and Papworth said, ‘Let me see’. He took the sherd, looked
+1619: at it and then threw it on the floor and ground it to pieces with the
+1620: heel of his shoe. ‘That’s what I think of your “unique” sherd’. Griffin
+1621: was in total shock, the student was practically in tears, and I was
+1622: laughing inside. (Binford 1972: 130–1)
+1623: 
+1624: New Archaeology: Key Points
+1625: 
+1626: As the New Archaeology developed, certain key themes came to be repeated
+1627: in the writings of its proponents. I will try to summarize these under
+1628: seven points. If the descriptions seem brief and over-simplified, many
+1629: of these themes will be discussed and developed further in future
+1630: chapters. The important thing here is to get an overall sense of the
+1631: spirit of the movement.
+1632: 
+1633: First, an emphasis on cultural evolution. The word ‘evolution’ has a
+1634: series of different though related meanings stretching back to the work
+1635: of Darwin in the nineteenth century (see chapters 9 and 10). For some
+1636: within New Archaeology, it meant in part that societies could be
+1637: classified on a scale from simple to complex. Cultures in this view
+1638: evolved from one state to another, for example from ‘band’ societies to
+1639: ‘tribal’ networks to ‘chiefdoms’. This stress was in part a rejection of
+1640: the aquatic view of culture, with its random ripples spreading across
+1641: the map. Instead New Archaeologists wanted to look at the internal
+1642: dynamics of a society, what was driving its general direction of social
+1643: development (the phrase often used was ‘cultural trajectory’).
+1644: 
+1645: Evolution was also part of a conscious stress on generalities rather
+1646: than particularities. Cultures might differ in their specific forms of
+1647: jewellery and house type, one pottery style might zig and the other zag.
+1648: But both societies might be comparable on the same level on an
+1649: evolutionary scale. So we could generalize about, say, the evolution of
+1650: state level societies from chiefdom level societies, without worrying
+1651: too much about the different art styles or pottery decoration in each
+1652: case.
+1653: 
+1654: Figure 2.5 David Clarke’s (1976) systemic view of culture. In language
+1655: characteristic of the New Archaeology, Clark’s caption reads: ‘A static
+1656: and schematic model of the dynamic equilibrium between the subsystem
+1657: networks of a single sociocultural system and its total environmental
+1658: system. S_(n) represents the summation of the effects of alien
+1659: sociocultural systems connected to S by cultural ‘coactions’ (dashed
+1660: lines) and to the environment by ‘interactions’ (solid lines). To set
+1661: the model in motion all the components must oscillate randomly along
+1662: intercorrelated trending trajectories’
+1663: 
+1664: [c02_image005.jpg]
+1665: 
+1666: Second, an emphasis on systems thinking (see figure 2.5 and chapter 5).
+1667: Culture wasn’t just a mixed bag of different randomly acquired norms, as
+1668: culture history had implied; rather it was a system. Lewis Binford
+1669: (1964) defined culture as ‘man’s extrasomatic means of adaptation’.
+1670: 
+1671: To clarify Binford’s point, other animals are adapted to their
+1672: environment through their bodies – the giraffe has a long neck to reach
+1673: to the tops of trees in the savannah, polar bears have lots of fur to
+1674: deal with the Arctic winter. Humans adapt through culture – the Inuit
+1675: wear furs and live in igloos, the !Kung San have an extensive range of
+1676: specialized hunting equipment. These cultural adaptations are all
+1677: outside (extra) the body (soma), hence ‘extrasomatic’.
+1678: 
+1679: So past cultures were:
+1680: 
+1681: (a) not just a bag of different, randomly acquired norms – the different
+1682: parts of the system were related one to another as part of a functioning
+1683: system;
+1684: 
+1685: (b) comparable to other kinds of system such as those found in the
+1686: physical and animal worlds.
+1687: 
+1688: I will talk more about systemic approaches in chapter 5. But note here
+1689: that it allowed New Archaeology to do two things. It firstly helped the
+1690: stress on generalization. Different cultures may have had different
+1691: pottery styles and burial rites, but the underlying social system could
+1692: be shown to have underlying similarities (they were both more or less
+1693: complex, practised similar systems of gift exchange even if the specific
+1694: goods traded were different, and so on).
+1695: 
+1696: It secondly helped New Archaeologists to be more optimistic about what
+1697: archaeology could achieve. One of the least attractive features of
+1698: traditional archaeology was its implied pessimism: we can never
+1699: reconstruct the religious or social life of past peoples, we can only
+1700: build chronologies. Christopher Hawkes famously wrote of seven levels of
+1701: inference in archaeology, ranging from technology and subsistence to the
+1702: almost unknowable areas of society and religion. James Deetz questioned
+1703: this:
+1704: 
+1705: Stress on the essential interrelatedness of cultural systems allows us
+1706: to reach understandings of many aspects from a relative few … this
+1707: certainty is at least a partial answer to the problems posed by the
+1708: incompleteness of the archaeological record. (Deetz 1972: 112)
+1709: 
+1710: Third, if culture was adaptive, it was adaptive to an external
+1711: environment. For the archaeologist Kent Flannery, we were not just
+1712: looking at objects and trying to learn about human cultures through
+1713: them; we were trying to reconstruct the whole ecological system behind
+1714: both ‘the Indian and the artefact’ (1973b). This theoretical stress on
+1715: the importance of the external environment led to interest in cultural
+1716: materialism (in which the material world is seen as more important than
+1717: the mental world), cultural ecology, and modelling of the subsistence
+1718: economy. Here, new theoretical attitudes went hand-in-hand with the new
+1719: scientific techniques that were developed in the postwar period: faunal
+1720: analysis, palaeoethnobotany, carbon-14 dating, dendrochronology, and so
+1721: on.
+1722: 
+1723: Fourth, there was stress on a scientific approach. New Archaeologists
+1724: saw traditional archaeology as modelling itself on the techniques of
+1725: traditional history, with cultures taking the place of historical actors
+1726: and the aim being the reconstruction of individual events in time. This
+1727: may not have been a fair characterization, either of what archaeologists
+1728: actually did or what traditional historians actually do, but it led New
+1729: Archaeologists in part to embrace Science as the way forward. According
+1730: to Watson, Redman and LeBlanc in their Explanation in Archaeology: An
+1731: Explicitly Scientific Approach (1971), one index of the progress of
+1732: archaeology is the extent to which hypotheses are scientifically tested.
+1733: 
+1734: Fifth, there was stress on the idea of culture process. The idea of
+1735: ‘process’ was central to New Archaeology and remains absolutely central
+1736: to much of archaeological theory, but it is a difficult idea to grasp.
+1737: It involves several related themes that have already been touched on: we
+1738: want to explain rather than be merely descriptive – to ask ‘why?’ rather
+1739: than merely ‘when?’; we want to look at the underlying process rather
+1740: than the ‘noise’ on top; we want to look at change in the long term. I
+1741: will examine the concept of process in more detail in chapter 5.
+1742: 
+1743: Many New Archaeologists contrasted culture process to culture history.
+1744: In this view, traditional history simply described a set of more or less
+1745: random political events such as battles and births and deaths of
+1746: monarchs without ever really explaining anything. By substituting
+1747: process for history, the long-term trends or processes beneath the
+1748: surface of such events became the important objects of study.
+1749: 
+1750: Sixth and more generally, there was a trend to attempt to become more
+1751: explicit about one’s biases. A good scientist, argued New
+1752: Archaeologists, does not use unspoken and implicit assumptions; he or
+1753: she makes clear their aims and interests. Much of the New Archaeology
+1754: was concerned with making what had been unspoken formally outlined. A
+1755: good example is the technique of typology, or the classification of
+1756: objects according to their changing form. It has long been accepted that
+1757: one could classify objects, and that this classification has something
+1758: to do with chronological order: archaeologists make statements like
+1759: ‘pottery vessels get baggier through time’, or ‘this jewellery style
+1760: goes out of fashion in this period’ as a matter of course. But the
+1761: criteria by which a typologist suggests one piece of jewellery or
+1762: architectural style is ‘early’ and another one is ‘late’ are rarely
+1763: clearly spelt out (in fact, they often tend to be implicitly derived
+1764: from ideas and concepts developed by nineteenth-century art historians).
+1765: 
+1766: In his book Analytical Archaeology, David Clarke used many of the
+1767: concepts of traditional archaeology – typology, assemblage and culture
+1768: for example – but discussed openly, explicitly and at length how they
+1769: should be defined. For Clarke, the need to be explicit and precise in
+1770: one’s terms to replace ‘the murky exhalation that passes for
+1771: “interpretative thinking” in archaeology’ was one of the main thrusts of
+1772: the New Archaeology.
+1773: 
+1774: A related aspect of making one’s biases explicit was problem
+1775: orientation, or the belief that one should survey and dig sites, or do
+1776: research more generally, with clear research questions in mind. Again,
+1777: this linked in with being scientific – the scientist tested specific
+1778: hypotheses, he or she brought specific questions to the data. In chapter
+1779: 3, we will see how asking specific questions or testing specific
+1780: hypotheses was central to the idea of archaeology as a science.
+1781: 
+1782: A seventh and final concern of New Archaeology was the understanding of
+1783: variability. What this meant was a basic understanding of our material
+1784: in statistical terms. Previous archaeologists had often concentrated on
+1785: the biggest and best sites, or the most beautiful artefacts. New
+1786: Archaeologists pointed out that we couldn’t understand, say, a major
+1787: urban civilization without looking at its rural infrastructure (the
+1788: importance of looking at the whole system again), and we couldn’t
+1789: understand the rural infrastructure without knowing just how many rural
+1790: sites there were on the ground. So to really get to grips with
+1791: understanding that civilization, the archaeologist might want to forgo
+1792: digging yet another elite site with lots of pretty, exotic artefacts and
+1793: instead concentrate on systematic survey of ordinary farmsteads. The
+1794: finds might be less spectacular, but the understanding of the settlement
+1795: system would be much greater.
+1796: 
+1797: To understand variability, New Archaeologists looked much more
+1798: critically at sampling theory and techniques. To be sure of variability,
+1799: at the very least we had to be sure we were looking at a representative
+1800: sample of sites. Kent Flannery told a memorable parable of a
+1801: Mesoamerican archaeologist who only stopped to record archaeological
+1802: sites if he was forced to put his Jeep into first gear to get over the
+1803: top of them. In response, New Archaeologists explored methods of
+1804: sampling randomly or at least systematically.
+1805: 
+1806: Many of the worst aspects of the traditional attitudes the New
+1807: Archaeology castigated still survive and indeed flourish today. A few
+1808: years ago I remember asking a prominent, senior scholar who had written
+1809: several influential books on traditional architecture how many houses of
+1810: a certain date and type there were in a certain county of England. ‘Oh’,
+1811: he said, ‘an awful lot’. Yes, but how many? Tens, hundreds, thousands?
+1812: ‘Well, a lot, but I really couldn’t put a figure to it’ came the reply.
+1813: And how many were there in an adjacent area? ‘Oh, not many at all …’.
+1814: And what, statistically, was the proportion of Type A houses to Type B
+1815: houses in the two areas? ‘Ah …’. And yet you are quite confident in
+1816: saying that Type A houses are more frequently found than Type B houses
+1817: in this area but not that, and we can indeed go on from this observation
+1818: to draw conclusions about relative levels of wealth in the two areas?
+1819: ‘Oh yes, that’s quite clear …’. One does not have to be a paid-up New
+1820: Archaeologist to see that such reasoning is an insecure foundation for
+1821: any understanding of the archaeological record.
+1822: 
+1823: I’m a bit sceptical about all this. In the first place, archaeologists
+1824: before New Archaeology were not the dry, traditional dullards that New
+1825: Archaeologists made out. They did many of these things already. Look,
+1826: for example, at Grahame Clark’s work at Star Carr, where environmental
+1827: analysis was used in the 1950s. Or Alfred Kidder’s work in Mesoamerica
+1828: and the American Southwest. And Gordon Childe can hardly be accused of
+1829: many of the sins the New Archaeology tried to pin on culture historians.
+1830: His books Man Makes Himself and What Happened in History are full of
+1831: dynamic pictures – they try to explain things, they deal with underlying
+1832: processes …
+1833: 
+1834: Your analysis contains a lot of truth. Traditional archaeology is not
+1835: necessarily the narrowly descriptive, sterile pursuit that New
+1836: Archaeology painted it. It can be argued, for example, that traditional
+1837: accounts of migration and diffusion do address ‘why?’ questions rather
+1838: than simply describe the data. There are ongoing debates within such
+1839: traditions on the concept of ethnogenesis and the nature of historical
+1840: change. Additionally, books like Childe’s The Prehistory of European
+1841: Society presented a model in which Indigenous cultures were seen as
+1842: creative and dynamic and in which modified diffusion played a key role
+1843: in explanation. Again, in North America the ‘culture history’ model was
+1844: in part caricatured by New Archaeology.
+1845: 
+1846: Nevertheless New Archaeology’s criticisms were pertinent. For our
+1847: purposes in trying to understand where theory is today, it isn’t of
+1848: primary importance to ascertain whether New Archaeology was accurate in
+1849: its criticisms; we want to understand why New Archaeology developed in
+1850: the way it did. Our all-too-brief sketch serves for this purpose.
+1851: 
+1852: It is equally true that much of New Archaeology was not really new. Like
+1853: so many theoretical movements in archaeology, it borrowed from other
+1854: disciplines. The work of the cultural anthropologist Leslie White was
+1855: especially influential. His 1949 book The Science of Culture stressed
+1856: the need for a scientific approach and the idea of culture as a system.
+1857: Again, another anthropologist, Julian Steward, had stressed cultural
+1858: ecology and adaptation in his work. Binford’s early work makes clear his
+1859: profound debt to both White and Steward. Finally, stress on systems
+1860: thinking owed much to Walter Taylor’s emphasis on what he called a
+1861: ‘conjunctive approach’ in his 1948 A Study of Archeology. But don’t
+1862: forget that White, Steward and Taylor were in a minority within their
+1863: own disciplines. White in particular was writing against the orthodox
+1864: cultural anthropology of his time when his thinking was adopted by
+1865: archaeologists.
+1866: 
+1867: The New Archaeology, particularly in its stress on anthropology, can be
+1868: particularly associated with the New World. In Britain New
+1869: Archaeologists such as Clarke and Renfrew had a great impact;
+1870: Kristiansen, Randsborg and others applied New Archaeology to
+1871: Scandinavian archaeology, and there was some take-up in other areas of
+1872: Europe, for example Spain. Overall, how ever, the impact of the New
+1873: Archaeology was not as revolutionary or as hard-hitting as in North
+1874: America. I suggest there were several reasons for this.
+1875: 
+1876: One is the institutional set-up of archaeology. In North America, there
+1877: are few Departments of Archaeology. The majority of academic
+1878: archaeologists have posts within Departments of Anthropology, and form a
+1879: ‘minority’ within those departments. Some archaeologists are hosted in
+1880: Classics departments, but (with exceptions) these archaeologists are not
+1881: always as engaged in theoretical discussion as their ‘anthropological’
+1882: counterparts. By contrast, in Britain Departments of Archaeology are
+1883: largely separate institutions, or are more closely linked to Departments
+1884: of History. In continental Europe, archaeologists again often find
+1885: themselves within Institutes of Pre- and Proto-History rather than
+1886: having primary links with anthropology, though links with ethnography
+1887: and folklife of European peoples are often found.
+1888: 
+1889: Hence, North American graduate students intending to do their PhDs on an
+1890: archaeological topic and go on to an academic career will generally be
+1891: expected to read extensively and take courses in anthropological theory,
+1892: where they will encounter many of the ideas of evolution and
+1893: cross-cultural comparison discussed above. By contrast, a European
+1894: graduate student will probably have less theoretical training in general
+1895: and often very little encounter with anthropological method.
+1896: 
+1897: Underlying this institutional difference are different perceptions of
+1898: the past. American archaeology is split between study of ‘native’ New
+1899: World cultures and the Old World and the ‘historical archaeology’ of its
+1900: colonies, to the extent that Native American archaeology is often spelt
+1901: differently – ‘archeology’. The anthropologist Franz Boas played a
+1902: pivotal role in keeping archaeology within the ambit of anthropology in
+1903: North America in the earlier twentieth century. Now anthropology has
+1904: traditionally been concerned with ‘other cultures’ rather than with
+1905: ‘us’. As relatively few Native Americans were employed within American
+1906: archaeology until very recently, New World cultures have been perceived
+1907: very much as ‘them’. In the past, archaeological remains such as burial
+1908: mounds and cliff dwellings had been interpreted as evidence for the Lost
+1909: Tribes of Israel or analogous groups, it being assumed that Native
+1910: Americans were too ‘primitive’ to have produced such cultures; but such
+1911: theories had been completely abandoned by the archaeological profession
+1912: by the 1960s. This situation is changing, for example with increased
+1913: recruitment and training of Native Americans as archaeologists and with
+1914: a changing political and cultural context (see chapter 12), but this
+1915: institutional and cultural history remains powerful in determining
+1916: archaeology’s position in North American cultural and intellectual life.
+1917: 
+1918: For British and other European archaeologists the situation is
+1919: different. The prehistoric site of Stonehenge is used as a symbol of
+1920: ‘English Heritage’, though it was built 2–3,000 years before the
+1921: ‘English’, according to traditional history, arrived on what is now the
+1922: English coast. The British, like Europeans generally, perceive
+1923: prehistoric archaeology as part of ‘their’ past, part of their
+1924: ‘heritage’. Right or wrong, this perception has meant that both past and
+1925: present archaeological interpretation has been thoroughly permeated with
+1926: nationalist concerns, often of a politically unpleasant variety. Also,
+1927: prehistory and history are seen as much more of a continuum: Neolithic
+1928: Greece leads to the Minoans and Myceneans, and Iron Age studies blend
+1929: into the Roman and early medieval periods. There is therefore not such a
+1930: radical divide between prehistoric and historical archaeology.
+1931: 
+1932: So British archaeologists tend not to worry so much about the need to
+1933: make explicitly theoretical generalizations in order to justify their
+1934: work, and are much more comfortable with the idea of archaeology as the
+1935: ‘handmaiden of history’. New Archaeology had even less impact in
+1936: continental Europe than it did in Britain, again for complex historical
+1937: reasons. It also had less influence on the study of later periods: ‘New
+1938: Archaeology’ had a major impact on the study of European prehistory,
+1939: arguably most of all on the Palaeolithic, but less on Roman, medieval
+1940: and post-medieval archaeology, to the extent that I would characterize
+1941: the majority of European medieval and later archaeology as remaining
+1942: culture-historical in method, tone and emphasis.
+1943: 
+1944: I think that there was also a practical element in the differential
+1945: impact of New Archaeology in different areas of the globe. Stand in the
+1946: middle of the Arizona desert and the need for sampling theory,
+1947: understanding of variability, and so on is all too clear. By contrast,
+1948: British and other European landscapes are cramped; they have been
+1949: intensively settled for millennia, and intensively studied for
+1950: centuries. Most of their basic units (administrative boundaries, patches
+1951: of woodland) are irregular in shape and are themselves hundreds if not
+1952: thousands of years old. As a result, many of the techniques of New
+1953: Archaeology such as sampling theory make clear sense as practical
+1954: strategy in the Arizona desert, but are counter-intuitive in the densely
+1955: settled palimpsest that is Wessex.
+1956: 
+1957: Anyway, what happened to all this youthful enthusiasm? I bet it didn’t
+1958: get very far.
+1959: 
+1960: Many of the ways in which New Archaeology developed will be picked up in
+1961: later chapters. One thing that inevitably happened is that New
+1962: Archaeologists got older. From being pushy young research students
+1963: intent on causing a fuss, they became tenured lecturers and professors
+1964: with job security, positions on powerful committees and funding bodies
+1965: and supervising pushy graduate students of their own. Indeed, many of
+1966: the key youthful figures in New Archaeology fostered groups of students
+1967: who are today’s generation of senior academics.
+1968: 
+1969: As New Archaeology got older and developed as a body of thought it
+1970: became known as processualism. Processualism is so called because of its
+1971: stress on culture process (point five above); the term will be discussed
+1972: further in chapter 5.
+1973: 
+1974: Case Study: The Enigma of the Megaliths
+1975: 
+1976: An excellent example of the way New Archaeology led to new ways of
+1977: thinking about the past was that of megalithic tombs in Western Europe.
+1978: These are burial monuments built with large stones, within which
+1979: collective burials often took place.
+1980: 
+1981: Traditional studies of megaliths had concentrated on dating, typology
+1982: and diffusion. Scholars such as Glyn Daniel and P. Bosch-Gimpera had
+1983: defined megaliths into sub-groups based on their position around the
+1984: Western Mediterranean and Atlantic seaboard (figure 2.6). They tried to
+1985: date these groups in the absence of scientific dating techniques such as
+1986: carbon-14; the only way of doing this was to look for similarities in
+1987: the form of the monuments and assume that similarities had been produced
+1988: through contact. Ultimately, then, megaliths could be dated by reference
+1989: to their presumed ancestors in the Mediterranean such as the Maltese
+1990: temples. These could then be cross-dated in turn with reference to the
+1991: literate civilizations of the Eastern Mediterranean. There was a clear
+1992: link here between theory (the importance of typology and the dominant
+1993: idea of diffusion) and archaeological practice (the need to set up a
+1994: working chronology, without which we couldn’t really say anything at
+1995: all).
+1996: 
+1997: Colin Renfrew questioned this work. He used the tree-ring calibration of
+1998: radiocarbon dates to show that the megaliths on the Atlantic seaboard
+1999: were in fact much older than their supposed ‘origins’ in the
+2000: Mediterranean. Some scholars responded by simply reversing the arrows so
+2001: that the ‘influence’ went in the opposite direction, but Renfrew
+2002: suggested that instead of trying to prove or disprove diffusionary
+2003: links, we should instead ask why the monuments were built in the first
+2004: place. In short, we should look less at chronology and diffusion and
+2005: more at the underlying process involved. Or to put it another way, we
+2006: should not be content with dating and describing; we should try to
+2007: explain the phenomenon of the megaliths.
+2008: 
+2009: Figure 2.6 Glyn Daniel’s (1941) view of megalith origins
+2010: 
+2011: [c02_image006.jpg]
+2012: 
+2013: Renfrew suggested that megaliths might be territorial markers. He
+2014: pointed out that whereas early agricultural communities moving from east
+2015: to west across Europe had plenty of land, being able to simply expand
+2016: westwards into new territory when things got cramped, when such peoples
+2017: reached the Atlantic coast there was nowhere left to go. Additionally,
+2018: these areas also had a high population level in the preceding Mesolithic
+2019: period, populations who would also be pressing for territory. In such a
+2020: situation he suggested that different communities would be competing for
+2021: land. The megalithic tombs, then, would mark out the land of particular
+2022: groups, by reference to the ancestors buried within them.
+2023: 
+2024: Figure 2.7 Renfrew’s megaliths on Rousay, Orkney Islands, showing
+2025: ‘distribution of chambered tombs in relation to modern arable land
+2026: (stippled), with hypothetical territorial boundaries’ (Renfrew 1973a)
+2027: 
+2028: [c02_image007.jpg]
+2029: 
+2030: So Renfrew’s arguments:
+2031: 
+2032: 1 explained rather than merely described the existence and distribution
+2033: of megaliths;
+2034: 
+2035: 2 used ethnographic analogies from societies assumed to be at a similar
+2036: level of social development to strengthen his argument – monumental
+2037: structures in Polynesia, linked to particular descent groups in
+2038: competition over land;
+2039: 
+2040: 3 stressed environmental factors and hence adaptation to the environment
+2041: – the shortage of land;
+2042: 
+2043: 4 saw megaliths not as one diagnostic trait to define cultures, but as
+2044: one functional element of a total cultural system;
+2045: 
+2046: 5 ‘tested’ his model – by drawing hypothetical divisions between
+2047: megaliths on the Scottish island of Orkney, Renfrew claimed to
+2048: demonstrate that the megaliths were spaced at the centre of possible
+2049: territories, each territory being of approximately equal size (figure
+2050: 2.7).
+2051: 
+2052: Conclusion
+2053: 
+2054: If the New Archaeology was a revolution, it suffered the same
+2055: fundamental problems of any revolution. New Archaeology had a double
+2056: slogan: science and anthropology. But like many revolutionary slogans,
+2057: discord and disagreement broke out when archaeologists tried to work out
+2058: in practice what those slogans really meant. In many ways, the ongoing
+2059: story of archaeological theory to the present day can be seen as the
+2060: attempt to deepen our understanding of these slogans, and to ‘roll out’
+2061: the concerns of New Archaeology beyond their original applications.
+2062: 
+2063: The next three chapters will deal with these questions and bring the
+2064: reader into the present. Chapter 3 will ask: What do we really mean by
+2065: the term ‘science’? Chapter 4 will ask: What do we really mean by the
+2066: word ‘testing’ how do we evaluate archaeological arguments? Chapter 5
+2067: will ask: How do societies work, what do we really mean by
+2068: ‘anthropology’?
+2069: 
+2070: We shall see in the process that debates within archaeological theory
+2071: mirror debates in the human sciences such as history, sociology,
+2072: cultural anthropology, politics and economics very closely. Questions of
+2073: science, testing and how societies really work are central to the human
+2074: sciences as a whole.
+2075: 
+2076: 3
+2077: 

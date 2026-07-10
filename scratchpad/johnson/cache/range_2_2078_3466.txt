@@ -1,0 +1,1389 @@
+2078: Archaeology as a Science
+2079: 
+2080: There are both positive and negative views of science. In the positive
+2081: view, science is wonderful. It has given us modern medicine, transport,
+2082: a level of material affluence few people would wish to give up. We know
+2083: the way the world is because scientists tell us so. Scientists are so
+2084: powerful, hold such a grip over our beliefs and sentiments, that we
+2085: believe them even when our strongest intuitions tell us otherwise, when
+2086: boarding an aeroplane for example. But in the negative view science can
+2087: be disturbing and alarming. It can be dangerous, it can offend human
+2088: sensibilities. Science has moral limits: look what happened to Doctor
+2089: Frankenstein (figure 3.1).
+2090: 
+2091: Both positive and negative views of science are culturally loaded. To
+2092: clarify, Science is viewed in a certain way within Western culture. The
+2093: sociologist Auguste Comte suggested that science is a central
+2094: institution of authority in the modern world, just as the Catholic
+2095: Church acted as an authority for the people of medieval Europe.
+2096: 
+2097: Modern Western society is partly based on the idea of Science with a
+2098: capital S. The term ‘scientific’ is used as a form of approbation, and
+2099: that of ‘unscientific’ as one of abuse. But Westerners are often less
+2100: sure what they actually mean by the term ‘Science’, which I have
+2101: dignified here with a capital S to distinguish the image from the
+2102: reality. What is Science, are there different forms of Science, and to
+2103: which forms (if any) can or should archaeology strive to approximate?
+2104: 
+2105: This was one of the problems that faced the New Archaeology as it
+2106: matured, and it is a problem which archaeology still faces today. As we
+2107: have seen, ‘we must be more scientific’ was a good slogan, and
+2108: concentrated (and continues to concentrate) appropriate criticism on
+2109: limitations in the approaches and methods of culture historians. But New
+2110: Archaeology found that deciding what it actually meant by its slogan was
+2111: more difficult.
+2112: 
+2113: One of the ways in which archaeology has become more ‘scientific’ in the
+2114: last 50 years is in its techniques. The period after the Second World
+2115: War saw an explosion in the number and range of ‘science-based’
+2116: techniques used in archaeology. These included the use of computers, the
+2117: study of environmental remains, pollen diagrams, dating techniques such
+2118: as carbon-14 and dendrochronology, soil geomorphology, paleopathology,
+2119: and so on. Though I did not discuss these at any length in the last
+2120: chapter, for many people, such as David Clarke, this development and
+2121: growth in use of scientific techniques was a central part of the New
+2122: Archaeology. In the last decade, advances in DNA research, chemical
+2123: analysis of human and animal bones, advanced geophysical techniques,
+2124: geographical information systems, virtual reality, and many other
+2125: developments have continued to unfold.
+2126: 
+2127: Figure 3.1 Lon Chaney, Jr (left) and Lionel Atwill in Man Made Monster
+2128: (1941, Universal): still from Everson, W. K. 1974 Classics of the Horror
+2129: Film (Secaucus, NJ, The Citadel Press), 152–3
+2130: 
+2131: [c03_image001.jpg]
+2132: 
+2133: This development of scientific techniques, and their place as an ever
+2134: more important part of the discipline, has led to a problem of technical
+2135: specialization. An archaeologist in 1950 had to have an understanding of
+2136: some statistics, and the principles of geology. Sixty years later, she
+2137: or he does not necessarily have to know the practical details of a
+2138: technique, but does have to know how to use a pollen diagram, how to
+2139: manipulate statistical packages on computers, how to interpret and
+2140: understand the significance of a radiocarbon determination or a
+2141: tree-ring date, and at the very least how to understand and use the
+2142: findings of a range of other very complex and specialized techniques. As
+2143: a result, it can be argued that archaeology is a much more fragmented
+2144: discipline, and less of a unified and homogenous community, than it was
+2145: 50 years ago.
+2146: 
+2147: In this sense the general atmosphere of the practice of archaeology has
+2148: become more ‘scientific’. Where archaeologists used to work in dusty
+2149: backrooms full of old junk, their offices are often now part of suites
+2150: of laboratories (often taken over second-hand from other, more
+2151: ‘respectable’ physicists, biologists or chemists who have moved into
+2152: newer, smarter accommodation). In many universities, particularly in
+2153: North America, smart white labcoats have succeeded frayed tweed jackets
+2154: with elbow-patches as the uniform of the academic archaeologist. Perhaps
+2155: more importantly, key career targets for many academics are now articles
+2156: in peer-reviewed scientific journals as much as the more traditional
+2157: synthetic monograph or site report.
+2158: 
+2159: The growth of ‘science’ has led to changes in the pattern of funding of
+2160: academic archaeology. In the USA, archaeology is funded under the aegis
+2161: of the National Science Foundation. In Britain and in much of the rest
+2162: of Europe, funding is often predominantly ‘humanistic’ (for example,
+2163: through the British Arts and Humanities Research Council) or tied to
+2164: ‘culture’ or ‘heritage’, though the situation varies widely in different
+2165: national contexts and is subject to rapid change.
+2166: 
+2167: In its essentials, however, the use of scientific techniques does not in
+2168: itself imply the use of ‘science’ as a distinctive approach to finding
+2169: out about the past. David Clarke wrote that the use of scientific
+2170: techniques ‘no more make archaeology into a science than a wooden leg
+2171: turns a man into a tree’ (Clarke, 1978: 465). For the traditional
+2172: archaeologist Jacquetta Hawkes, archaeology remains essentially a
+2173: humanistic, not a scientific, pursuit: ‘however scientific the methods
+2174: employed, the final aims are historical’ (Hawkes, 1968: 257).
+2175: 
+2176: To clarify, archaeologists use an increasing battery of techniques to
+2177: assist in dating, the environment, geophysical techniques, and so on.
+2178: These techniques have given us more and more data of potential use in
+2179: the study of the past. But we are still left with the gulf between
+2180: present and past discussed in chapter 2 and presented in figure 2.1.
+2181: ‘Science-based’ techniques accumulate even more data in the present. If
+2182: that gulf between present and past remains unbridgeable, then the
+2183: statements archaeologists make about the past remain ‘unscientific’
+2184: however clean their white coats are or how much money they spend on the
+2185: many machines that go ping! in laboratories. If, on the other hand, the
+2186: gulf can be bridged securely, using the methods of the natural sciences,
+2187: then archaeology really can be called scientific, regardless of whether
+2188: or not archaeologists wear white coats and use lots of expensive
+2189: equipment.
+2190: 
+2191: Definitions of Science
+2192: 
+2193: New Archaeology suggested the use of ‘science’ as the solution to the
+2194: problem of inference, discussed in the last chapter. If archaeologists
+2195: have no reliable means of assessing how valid their arguments really
+2196: were, it is only natural to look at how natural scientists do it. The
+2197: natural sciences of physics, chemistry, biology, after all, appear in
+2198: the view of many to have demonstrable and indeed spectacular success in
+2199: terms of their ability to accurately describe and explain the world when
+2200: compared for example to other forms of thought such as magic or
+2201: mysticism.
+2202: 
+2203: Such an argument is reinforced by the disciplinary success of science in
+2204: the ‘real world’. Whatever one’s views of science as a theory, there is
+2205: no disputing its long-term success as a discipline. Scientists are often
+2206: well funded compared to humanistic scholars, and often appear to have
+2207: the ear of government and an influential role in setting public policy.
+2208: 
+2209: In one sense there is no argument about whether archaeologists should be
+2210: scientific. If science is about the rational accumulation of knowledge,
+2211: assessed in rigorous, systematic ways, then all archaeologists would
+2212: consider themselves to be scientists. (At least, archaeologists would
+2213: all claim to be scientists, though our opponents always seem to be
+2214: lacking in rigour, system or method.) Science in this broad sense is
+2215: often referred to by the German term Wissenschaft. Even the most fervent
+2216: opponent of ‘archaeologyas-science’ would probably consider themselves
+2217: scientists in this sense.
+2218: 
+2219: Positivism
+2220: 
+2221: There are, however, more narrow definitions of what science is (figure
+2222: 3.2). One of these definitions is called positivism, which is another
+2223: word with several meanings. Theorists confusingly use the word
+2224: ‘positivism’ in different senses in different contexts. Here, I shall
+2225: isolate two.
+2226: 
+2227: 1 A set of beliefs about how we should conduct scientific enquiry
+2228: 
+2229: These beliefs include:
+2230: 
+2231: (a) The idea that scientists should separate theory from method, however
+2232: method is defined. If we have two or more competing theories to explain
+2233: a phenomenon, then we have to have some kind of independent and neutral
+2234: method to judge which theory is the better. It is no good trying to
+2235: conduct such an independent test if our method is not independent and
+2236: neutral, but is predicated on one of the theories being true. This is
+2237: why many archaeologists would vehemently oppose the very broad
+2238: definition of theory I adopted in chapter 1 as ‘the order you put facts
+2239: in’, as it does have the implication of making a clear and strict
+2240: separation of this kind difficult if not impossible.
+2241: 
+2242: Figure 3.2 A selective diagram showing some schools within the
+2243: philosophy of science
+2244: 
+2245: [c03_image002.jpg]
+2246: 
+2247: (b) The separation of the context of the discovery of an idea from the
+2248: context of its evaluation. It doesn’t matter whether the law of gravity
+2249: came to us sitting under an apple tree or in a book-lined office or in a
+2250: drugcrazed hallucination; what is important is that the existence of
+2251: such a law is evaluated scientifically separately from this context.
+2252: Again, we might get some perfectly good ideas about processes in the
+2253: prehistoric past from comparative ethnography or from a novel or a
+2254: dream; what is important, in this view, is that we then test the ideas
+2255: against the archaeological record to see whether they are valid or not.
+2256: 
+2257: Archaeologists will often claim, therefore, that they are using a
+2258: particular idea or model only for heuristic or learning purposes; that
+2259: is, they find the model of value in throwing up new hypotheses or
+2260: possible interpretations. They might well insist that such hypotheses or
+2261: interpretations need then to be formally tested or evaluated before they
+2262: can be considered to be of lasting value.
+2263: 
+2264: (c) A generalizing explanation is the only valid form. Here, generality
+2265: is closely linked to the importance of predictability and testability.
+2266: Results have to be predictable and repeated for scientific validity.
+2267: Scien tists can test the law of gravity by observing apples dropping
+2268: from trees again and again and again. The law of gravity is framed as a
+2269: general proposition that has predictable consequences, all other things
+2270: being equal.
+2271: 
+2272: If an explanation is not generalizing, if it cannot suggest a consistent
+2273: pattern of results, it will not be predictable and therefore will not be
+2274: amenable to testing again and again.
+2275: 
+2276: (d) Untestable statements are outside the domain of science. In less
+2277: extreme forms of positivism, this does not mean that untestable
+2278: statements are unimportant. For example, moral and metaphysical
+2279: questions may be untestable but central to our lives. Whether God exists
+2280: or whether slavery or child labour are morally wrong are clearly
+2281: important issues for individuals to discuss and act upon as human beings
+2282: and communities; but they are not scientifically testable one way or the
+2283: other. Science therefore, in this view, has nothing to say about them.
+2284: 
+2285: (e) It follows from (d) that scientific thought should be independent of
+2286: value judgements and political action. The threat to use nuclear weapons
+2287: or investment in countries with repressive regimes may or may not be
+2288: morally or politically wrong; we all, scientists or non-scientists, make
+2289: value judgements concerning these matters as human beings living in the
+2290: world today. But the scientist cannot bring these judgements into the
+2291: methods of his or her work. She or he might comment on them in other
+2292: spheres, even campaign against nuclear weapons or repressive regimes,
+2293: but must draw a clear line between (morally neutral) scientific
+2294: knowledge and moral judgement and action.
+2295: 
+2296: Positivism in this sense has tended to be linked with a specific method
+2297: of testing propositions, called the Hypothetico-deductive-nomological
+2298: model, or HDN for short. The HDN model suggests that one proceeds as a
+2299: scientist by taking a specific hypothesis and testing it. The deductions
+2300: one makes from the result of the test should then be used to produce
+2301: generalizing explanations (‘nomothetic’ or ‘nomological’ means
+2302: generalizing). The need to test specific hypotheses, rather than just
+2303: dig sites because we might find something interesting or because they
+2304: are particularly big or beautiful, was an issue discussed in the last
+2305: chapter.
+2306: 
+2307: But positivism also, confusingly, has a second set of meanings attached
+2308: to it.
+2309: 
+2310: 2 The belief that the social sciences, including archaeology, should try
+2311: to follow the historical path of development of the natural sciences
+2312: 
+2313: This argument was advanced for sociology by the nineteenth century
+2314: French social philosopher Auguste Comte, who was one of the key figures
+2315: in the development of the human sciences in general. Comte looked to the
+2316: example of biology. Before the eighteenth century, biology had, in
+2317: Comte’s view, been a speculative and unsystematic pursuit at a time when
+2318: the scientific techniques and methods of physics and chemistry were
+2319: already established. By modelling its disciplinary rules on the ‘hard
+2320: sciences’ of physics and chemistry, however, biology had freed itself
+2321: from the shackles of prescientific beliefs and become a rigorous
+2322: science. Comte suggested that social sciences like sociology could
+2323: follow a similar route, moving from their present unscientific state to
+2324: that of a natural science.
+2325: 
+2326: New and processual archaeology can clearly be identified with much of
+2327: the agenda outlined above. New Archaeology tried to generalize; it tried
+2328: to adopt a HDN model of testing; its whole project was that of Comte’s,
+2329: that of leading archaeology along an analogous path to that of the
+2330: natural sciences to a mature, rigorous, self-critical discipline. For
+2331: David Clarke (1973), this was part of archaeology’s ‘loss of innocence’.
+2332: 
+2333: Examples
+2334: 
+2335: For New Archaeology, then, and for much of ‘processual archaeology’
+2336: today, we should adopt a broadly positivist definition of what we do. We
+2337: should be trying to test or evaluate hypotheses about the past, and to
+2338: draw generalizations from those hypotheses.
+2339: 
+2340: Such a model might proceed as follows:
+2341: 
+2342: 1 Hypothesis: early states involve differential access to resources, in
+2343: other words that élites have greater access to basic goods (a hypothesis
+2344: suggested maybe by political anthropologists).
+2345: 
+2346: 2 Test: dig a cemetery from an early state society and chemically
+2347: analyse the human bones.
+2348: 
+2349: 3 Deduction: the élite ate more meat, so we deduce that they did indeed
+2350: have greater access to nutrition.
+2351: 
+2352: 4 Generalization: early states do have such differential access, subject
+2353: to further testing, other examples from other cultures at the same phase
+2354: of social development, etc.
+2355: 
+2356: Another example might be hunter-gatherers and social complexity:
+2357: 
+2358: 1 Hypothesis: that hunter-gatherer groups adapt to marginal environments
+2359: in part through greater economic specialization and social complexity
+2360: (suggested perhaps by study of modern ethnographies).
+2361: 
+2362: 2 Test: take a marginal environment such as Upper Palaeolithic Europe in
+2363: the last Ice Age, and look for different types of site suggesting task
+2364: differentiation, the presence or absence of trade goods suggesting
+2365: social alliances, etc.
+2366: 
+2367: 3 Deduction: that social alliance and logistical hunting strategies are
+2368: responses to harsher climates.
+2369: 
+2370: 4 Generalization: there is a positive correlation between increasingly
+2371: marginal environments and greater social complexity.
+2372: 
+2373: Note that in both these examples there is a tendency to generalize.
+2374: General statements tend to emerge from the discussion: for example, that
+2375: increasing complexity of trading networks tends to be linked to élites
+2376: and thus to development of social ranking, whether this is in late
+2377: prehistoric Europe, Mesoamerica or Polynesia. Look at the titles of some
+2378: typical edited volumes in the processual mould, in which different
+2379: articles often based on data sets from around the world and different
+2380: time periods focus on certain processes which are held to be general and
+2381: cross-cultural: Ranking, Resource and Exchange … Specialisation,
+2382: Exchange and Complex Societies … Heterarchy and the Analysis of Complex
+2383: Societies …
+2384: 
+2385: Such generalizations are what is meant by a ‘softer’ approach to
+2386: covering laws than that taken in other areas of the natural sciences. In
+2387: its first phases, some New Archaeologists searched for ‘laws’ of human
+2388: behaviour, on the model of the hard sciences. It has proven to be very
+2389: difficult to come up with ‘laws’ for past human behaviour akin to the
+2390: law of gravity (we will discuss the attempt to create a unified field
+2391: with biology, itself a ‘softer’ science than chemistry or physics,
+2392: through the application of Darwinian ideas in chapter 10). This does not
+2393: mean, however, that the production of generalizations about past human
+2394: behaviour is necessarily an invalid or an unimportant goal – indeed, for
+2395: the reasons discussed above, for a discipline that sees itself as a
+2396: science in which propositions are testable, generalization or general
+2397: theory has to be a central component of archaeology.
+2398: 
+2399: Objections to ‘Science’
+2400: 
+2401: We noted that if part of the appeal of ‘Science’ comes from its cultural
+2402: value in modern society, so opposition to ‘Science’ is similarly
+2403: culturally loaded. For some, archaeology can never be scientific;
+2404: rather, it is a humanistic discipline. Rather than being about white
+2405: labcoats and generalizations, it is about what it means to be a
+2406: civilized human being. Archaeology in this view is a noble, aesthetic,
+2407: romantic pursuit into the essence of humanity and civilization,
+2408: untainted by the vulgarities of labcoats and test-tubes. In some
+2409: conceptions of this view, human beings are special because they are
+2410: unique and unpredictable: they simply can not be generalized about or
+2411: subsumed in statistics. Further, many of the things that are most
+2412: ‘distinctively human’ and therefore most worthy of humanistic study
+2413: (great art and literature, for example) are precisely those that in this
+2414: view are least amenable to scientific enquiry.
+2415: 
+2416: Such a view is easy to ridicule, and it certainly does not stand up to
+2417: more than a few seconds of critical thought (if humans really were
+2418: unique and unpredictable, opinion polls would produce completely random
+2419: results and any attempt at social or economic policy by government
+2420: agencies would start and end in chaos), but is a very popular and
+2421: emotionally powerful one. Human beings often like to think that they are
+2422: unique, are beyond statistics; but wishing something does not make it
+2423: true.
+2424: 
+2425: Such a view, or a more sophisticated version of it, is nevertheless
+2426: foundational to many elements of modern archaeology. For example,
+2427: Classical archaeology was in its historical origins an outgrowth of the
+2428: study of the ‘Classics’. The texts, history and monuments of Greece and
+2429: Rome were studied because they were held to constitute the foundations
+2430: of civilized and humane behaviour, for example in the origins of the
+2431: idea of democracy in fifth century BC Athens. Further, for men of the
+2432: upper classes in the Renaissance, Classical texts provided role models –
+2433: how great men should act, what it meant to be civilized. Very few
+2434: Classical archaeologists would subscribe to such an unmodified view of
+2435: the rationale of their discipline today, but elements of such a view are
+2436: nevertheless still very powerful, in that they are inscribed into the
+2437: institutional set-up and identity of Classics and of Classical
+2438: archaeology, for instance in the separation between centres of ‘pre- and
+2439: proto-history’ and ‘Classical archaeology’ in many institutions in
+2440: continental Europe.
+2441: 
+2442: A series of more intellectually powerful objections to the positivist
+2443: conception of archaeology-as-science are commonly brought up. I shall
+2444: deal with them in turn.
+2445: 
+2446: 1 Science is based on testing and observation of results. The past,
+2447: however, is dead and gone. We will never be able to directly observe it.
+2448: Can we ever test propositions about the past as we can (it is argued) in
+2449: science? Possibly not; this is a question I shall address below and more
+2450: particularly in the next chapter. It is worth noting that archaeology in
+2451: this respect shares some of the interpretative problems with other
+2452: sciences that interpret phenomena observed now in terms of processes and
+2453: events that occurred in the very distant past. Geology interprets data
+2454: observed today (layers, sediments) in terms of processes that happened
+2455: millions of years ago; astronomy observes phenomena many light-years
+2456: away. In both cases, it is possible to argue that ‘direct’ observation
+2457: of phenomena is problematic.
+2458: 
+2459: 2 Atoms, chemicals and even biological organisms can be seen as objects,
+2460: insensate things that behave in predictable ways. Human behaviour,
+2461: however, can be seen as purposive or intentional. In other words, human
+2462: actions can only be fully explained by reference to the ideas and
+2463: intentions that humans have. Ideas and intentions do not have any
+2464: physical existence (except, arguably, as electronic traces in the
+2465: brain); they only exist as thoughts, between our ears. They can not be
+2466: directly observed or ‘measured’ by the archaeologist. Interpretation in
+2467: archaeology is therefore, in this view, always hermeneutic (about ideas,
+2468: meanings and symbols) in nature rather than scientific. This argument,
+2469: or variants thereof, is one of the central planks of interpretive
+2470: archaeology.
+2471: 
+2472: Kuhn and Feyerabend
+2473: 
+2474: The final and perhaps most serious objection to positivism is that it is
+2475: not a theory but a myth. In other words, positivism is an ideal model of
+2476: scientific philosophy, but is a bit of a fraud in practice: it gives a
+2477: false idea of what scientists actually do. To ask archaeology to follow
+2478: the rules of positivist science is therefore asking them to follow a
+2479: chimera.
+2480: 
+2481: There is much confusion here over whether positivism describes what
+2482: scientists actually do, or whether it is merely an ideal statement of
+2483: what they should do. Some philosophers claim that it is merely an ideal
+2484: statement. If positivism is only an ideal account, what do scientists
+2485: actually get up to in their laboratories?. Many have argued that what
+2486: counts as an ‘observation’ and ‘fact’ is decided at least in part by
+2487: social rules, not by purely objective enquiry however defined. Instead,
+2488: scientific debates are decided through processes that are thoroughly
+2489: enmeshed in social relations, not disengaged from society.
+2490: 
+2491: Two philosophers of science are often cited in non-positivist accounts
+2492: of science. The first is Thomas Kuhn. Kuhn argued that the history of
+2493: science is not just a simple progressively upward success story of
+2494: hypothesis testing leading to expanded knowledge. Rather, it is one of
+2495: successive paradigms. A paradigm is much deeper than a single theory or
+2496: proposition: it is a set of beliefs about the way the world works that
+2497: underlies the whole everyday process of science very deeply, so deeply
+2498: that it is rarely overtly put into words. During a period of ‘normal
+2499: science’ in Kuhn’s terms, one paradigm enjoys such undisputed sway over
+2500: science that its assumptions are rarely even stated explicitly, let
+2501: alone questioned or debated. Everyone just gets on with scientific
+2502: labour within the assumptions of the paradigm.
+2503: 
+2504: Kuhn suggested that a paradigm will break down eventually. When it does,
+2505: it is eventually replaced by a new paradigm in a ‘paradigm shift’. Such
+2506: a period of paradigm shift is intense, emotional, revolutionary, rather
+2507: than cool and detached; a spirit of revolutionary fervour militates
+2508: against ‘rational’ argument.
+2509: 
+2510: The story of science, then, is one of successive paradigms succeeding
+2511: one another via revolutionary upheavals rather than of steady
+2512: accumulation of better and better knowledge of the world around us.
+2513: Colin Renfrew and others argued in the 1960s and 1970s that the New
+2514: Archaeology represented a ‘paradigm shift’ and that we should therefore
+2515: expect processual archaeology to settle down to a new period of ‘normal
+2516: science’ (something that, as we shall see, has arguably not happened).
+2517: There was an irony here, in that Renfrew was citing with approval a
+2518: philosopher of science whose work actually tended to undermine many of
+2519: the positivist assumptions of New Archaeology.
+2520: 
+2521: Kuhn himself repudiated the idea that science didn’t progress; his view
+2522: was that paradigms broke down under the steadily increasing weight of
+2523: contradictory evidence, and that each paradigm was a successively better
+2524: and more accurate way of looking at the world. Renfrew and others agree
+2525: with him in this respect. Other scholars, however, took Kuhn’s ideas and
+2526: extended them in ways that Kuhn himself opposed. They drew different and
+2527: more wide-ranging morals from his work: in particular, that:
+2528: 
+2529: 1 What constituted valid ‘facts’ or ‘observations’ depended on the
+2530: prevailing paradigm. In other words, what was relevant evidence, and
+2531: what was ruled out of court, depended at least in part on one’s initial
+2532: paradigmatic assumptions. In this view, then, facts are therefore always
+2533: theorydependent.
+2534: 
+2535: 2 Social and political forces, not just disinterested scientific
+2536: enquiry, played a key part in prompting and shaping paradigm shifts.
+2537: 
+2538: Kuhn’s main influence on the philosophy of science, therefore, has been
+2539: in a move away from positivist assumptions about the nature of
+2540: scientific progress, a questioning of the use of a single positivist
+2541: method in scientific enquiry, and a scepticism towards the narrative of
+2542: science as an unqualified success story.
+2543: 
+2544: The second key figure is Paul Feyerabend, whose description of the way
+2545: science actually works is always popular since it consists of two words:
+2546: Anything Goes. Feyerabend questioned whether science had a single method
+2547: at all. He suggested that if we looked historically at the development
+2548: of science, change in scientific beliefs had always been marked by a
+2549: diversity of methods.
+2550: 
+2551: Feyerabend used the example of the astronomer Galileo, who, he argued,
+2552: moved science forward by breaking all the rules, using political
+2553: rhetoric and appeals to emotion and working within the social and
+2554: political context of seventeenth-century Italy: ‘Galileo prevails
+2555: because of his style and his clever techniques of persuasion, because he
+2556: writes in Italian rather than in Latin, and because he appeals to people
+2557: who are temperamentally opposed to the old ideas and the standards of
+2558: learning connected with them’ (Feyerabend 1988: 13).
+2559: 
+2560: For Feyerabend, the lesson of the history of scientific ideas was that
+2561: to achieve better results, scientists should reject the use of a single
+2562: method. Rather, we should encourage an unlimited diversity of methods
+2563: and groups within sciences, and to allow and even encourage
+2564: ‘unscientific’ strategies such as appeals to emotion. Feyerabend
+2565: stressed the social and political forces that, in his view, actively
+2566: shape scientific enquiry. He pointed out that the relative merits of
+2567: scientific ideas are not tested out on a level playing field. He
+2568: stressed what he saw as the enormously powerful nature of scientific
+2569: institutions and argued that they hid their partiality behind their
+2570: ‘objective’ façade. Positivism in the form of a single method, in
+2571: Feyerabend’s view, masks ‘institutional intimidation’ by pretending to
+2572: be neutral, hinders the development of science, and encourages scientism
+2573: (the belief that Science is not simply different, but superior) and the
+2574: ‘cult of the expert’.
+2575: 
+2576: Social Constructivism
+2577: 
+2578: It is important to stress that Kuhn and Feyerabend saw their work as
+2579: describing what scientists actually do, rather than as a prescription of
+2580: what they should do. Their work encouraged the development of
+2581: sociological studies of science – that is, ethnographic or historical
+2582: examinations of what actually happens in the scientific process. In the
+2583: 1990s, these studies coalesced into a school of thought calling itself
+2584: social constructivism or constructionism: the belief that scientific
+2585: knowledge is not purely objective, but is at least partly or entirely
+2586: socially constructed. (‘Weak social constructivism’ holds that it is
+2587: partly socially constructed; ‘strong social constructivism’ that it is
+2588: entirely so.)
+2589: 
+2590: Examples from the natural sciences include:
+2591: 
+2592: 1 Quarks. Andrew Pickering (1984) discussed the ‘discovery’ of this
+2593: subatomic particle. He stressed that rather than quarks ‘really
+2594: existing’ and waiting to be discovered, a full account of the scientific
+2595: activity leading to the definition of quarks must look at such things as
+2596: the decisions of funding bodies, personal and institutional
+2597: relationships, university and state politics, and so on. Quarks in this
+2598: view were not ‘discovered’; rather, they were actively ‘constructed’ by
+2599: the scientists involved. And this construction was a social one; it
+2600: depended on the interaction of scientists, politicians, funding
+2601: agencies, universities and the wider public.
+2602: 
+2603: 2 Races. Scientific definitions of different races in physical
+2604: anthropology are, it can be argued, impositions on a continuum of
+2605: physical types across the globe. Where, then, do classifications by
+2606: physical anthropologists into different races come from? It can be
+2607: argued that scientific classifications of ‘types’ are not neutral
+2608: devices for objective classification, but are in fact derived from the
+2609: end points of trade routes from Europe to and from the ‘colonies’ in the
+2610: nineteenth century, that is at precisely that time when the basic
+2611: classifications of physical anthropology were being formed: Northern
+2612: Europeans, West Africans, Hong Kong Chinese, American ‘Indians’… If
+2613: social constructivism is a correct analysis of science, then the
+2614: question ‘should archaeology be a science or a humanity?’ is rendered
+2615: meaningless. Constructivism questions the claim of science to be a
+2616: distinctive form of knowledge in the first place. It therefore denies
+2617: any basic, a priori differences between science and non-science. It
+2618: suggests that we should look at what human beings do in laboratories in
+2619: the same way as we look at what they do in other walks of life.
+2620: 
+2621: Social constructivism unleashed what was often a very angry and bitter
+2622: debate between different groups of scientists and others, often referred
+2623: to retrospectively as the ‘science wars’. ‘Strong’ social
+2624: constructivists were seen by their opponents as threatening the very
+2625: foundations of rationality and academic enquiry itself. Since the 1990s,
+2626: the intensity and ferocity of this debate has subsided on both sides,
+2627: though the issues at stake remain fundamental and we will return to them
+2628: in future chapters.
+2629: 
+2630: All this is fine, but I find it difficult to understand how this might
+2631: apply to archaeology. Which version of science do archaeologists
+2632: currently prefer? Do they come down on one side or the other of the
+2633: debate?
+2634: 
+2635: There is no one answer to your question; you will have to read the
+2636: literature, and then make up your own mind.
+2637: 
+2638: Different archaeologists advocate different forms of scientific
+2639: philosophy. Shanks and Tilley argued in the late 1980s that positivism’s
+2640: stress on separating method from theory is fraudulent, because theory
+2641: and method can never be separated. Like Feyerabend, they see positivism
+2642: as a covert, underhand way of controlling what we can and cannot say and
+2643: do in archaeology. Positivism for them is an archaeology of NO. They
+2644: wrote in a spirit of sarcasm:
+2645: 
+2646: It doesn’t matter what you say as long as you say it in the right way;
+2647: as long as you conform to the rules of positivist/empiricist discourse,
+2648: rational method; as long as what you say is reasonable, not fantasy or
+2649: extreme, is open to ‘testing’ against the data, is not overtly
+2650: political, is not subjective. And if you transgress these laws of
+2651: discourse, the epistemology … police are waiting. (Shanks and Tilley
+2652: 1992: 23)
+2653: 
+2654: For Shanks and Tilley, the way we write about the past is largely about
+2655: political rules. They want to unmask the political nature of these
+2656: rules.
+2657: 
+2658: Opponents replied: if we abandon positivist criteria, what alternatives
+2659: are there? If we accept such views, aren’t beliefs in magic or in
+2660: mystical forces just as ‘scientific’ as rational debate?
+2661: 
+2662: As a result of these debates spilling over into archaeology in the 1980s
+2663: and 1990s, there has been a growing interest in philosophies or
+2664: conceptions of scientific method that acknowledge that all
+2665: archaeological data are socially constructed in some sense, but which
+2666: try to move beyond a simppmple either/or position. The ‘science wars’
+2667: seemed to many to be based on a false choice, an unnecessary opposition
+2668: or polarity – either Science had to be absolutely objective and
+2669: untainted by cultural context, or it had to be nothing more than one
+2670: more discourse among many, including magical and superstitious beliefs.
+2671: Both of these views or positions are, in the view of many, including
+2672: myself, unsatisfactory. For archaeologists this translates into the
+2673: question: if we have to reject a crude or naïve positivism, can we
+2674: nevertheless salvage something from the wreckage – keep hold of some
+2675: idea of rigour and method?
+2676: 
+2677: For example, Alison Wylie has combined an insistence that science is
+2678: inevitably value-laden in different ways, with an exploration of ways in
+2679: which in practice, archaeologists do move back and forth in an
+2680: empirically informed manner between data and interpretation. More
+2681: broadly, there has I think been a subtle shift in the language and tone
+2682: of different strands of processual and postprocessual archaeology. Fewer
+2683: processualists talk of ‘testing’ their arguments, but they do insist on
+2684: proper and rigorous ‘evaluation’. Conversely, interpretive and
+2685: ‘postprocessual’ archaeologists acknowledge and affirm that arguments do
+2686: need to be evaluated with reference to the data, and that the data at
+2687: the very least form a network of resistance.
+2688: 
+2689: At the same time, this theoretical position has been complemented and
+2690: strengthened by practical developments. There has been a growing body of
+2691: work that has used ‘scientific’ techniques however defined to look at
+2692: interpretive questions. For example, archaeologists have used human
+2693: skeletal material to explore issues of gender, the body and identity.
+2694: Materials science has been deployed to examine the socially constrained
+2695: choices that craftspeople made in the production of pottery and other
+2696: artefacts. Techniques of archaeological computing such as geographical
+2697: information systems have been used to explore the experience of place.
+2698: These are all themes we will examine in later chapters.
+2699: 
+2700: But if you find the same range of views within archaeology, it is also
+2701: worth pointing out that the debate over scientific method in archaeology
+2702: is a re-run of a similar debate in virtually every other social science.
+2703: Behavioural psychologists claim that thoughts are beyond the domain of
+2704: science, so we should concentrate on people’s behaviour. In sociology,
+2705: Auguste Comte and Emile Durkheim laid out sociological method in a
+2706: positivistic framework; their aim was to construct a science of society
+2707: in which predictions and generalizations could be made about social
+2708: phenomena in the same way as natural phenomena. The sociologist Anthony
+2709: Giddens and others have, in opposition to Durkheim and Comte, argued for
+2710: the impossibility of a neutral, value-free science of society. Similar
+2711: debates occur within all those disciplines classified as social
+2712: sciences: history, linguistics, economics, politics. Many feminists
+2713: claim that Science is not merely political, but that it is moreover a
+2714: male construct: the rules of ‘rational method’ mask male bias behind a
+2715: cloak of objectivity.
+2716: 
+2717: Archaeologists can comfort themselves that their epistemological worries
+2718: are at least shared across the domain of the social sciences. Whether
+2719: this makes them easier to resolve is open to doubt.
+2720: 
+2721: 4
+2722: 
+2723: Middle-range Theory, Ethnoarchaeology and Material Culture Studies
+2724: 
+2725: In this chapter, we return to figure 2.1 and the gap between present and
+2726: past, ‘data’ and ‘interpretation’, but we take a rather different route
+2727: from chapter 3 in asking how archaeologists bridge this gap. We have all
+2728: this stuff, this archaeological material – pots, stones, bones. It
+2729: exists here in the present; how do we get it to tell us about the past?
+2730: 
+2731: If any statement about the past is unavoidably made in the present, it
+2732: is also unavoidably an analogy. An analogy is the use of information
+2733: derived from one context, in this case usually the present, to explain
+2734: data found in another context, in this case the past.
+2735: 
+2736: To clarify: all archaeologists of whatever theoretical stripe make a
+2737: link between present and past by using analogies. We always make an
+2738: assumption that things in the past were like – analogous to – the
+2739: present. Analogy underpins even the most mundane interpretation.
+2740: Consider, for example, the way archaeologists assign function to
+2741: objects: ‘this was a storage vessel’. We argue that it was a storage
+2742: vessel in the past because its form (large, sturdy, undecorated) would
+2743: make it seem ‘natural’ to us to use it in this way in the present.
+2744: Further, we strengthen our argument through other analogies. The object
+2745: was found with others of the same type in the room of an ancient palace
+2746: adjacent to a food preparation area, which we label a ‘kitchen’ –
+2747: another analogy with the present. Chemical analysis reveals the object
+2748: contained food remains – again, by analogy with the present, we infer
+2749: that the vessel was used to store food.
+2750: 
+2751: The more links we can make, the more we argue or assume that the two
+2752: situations are analogous. This mode of analogical thinking is perhaps
+2753: pretty obvious once it is spelt out in this manner, but nevertheless
+2754: absolutely central to the way we write about the past. And like other
+2755: such ‘obvious’ points, the issue of analogy needs further critical
+2756: examination.
+2757: 
+2758: Binford and Middle-range Theory
+2759: 
+2760: Lewis Binford addressed this issue with great force in the 1970s. While
+2761: the general arguments covered in the last chapter were raging over the
+2762: grand theoretical issues of epistemology and positivism, Binford
+2763: suggested that such debates were in many ways secondary to a more
+2764: central issue. Binford insisted that archaeology’s claim to be a science
+2765: rested or fell on this issue of analogy. His argument, in brief, ran
+2766: like this:
+2767: 
+2768: Archaeological data – stones, bones, potsherds – form a static record in
+2769: the present. We carefully record stones, bones, potsherds and their
+2770: position and arrangement in the ground in the here and now. But we are
+2771: not interested in the here and now, we are interested in the past: our
+2772: task is to ask questions of this material in the present, questions
+2773: about the past. Specifically we are interested in the dynamics of past
+2774: societies, that is the way past cultural systems functioned, developed,
+2775: were transformed.
+2776: 
+2777: Further, since science is a discipline which seeks to generalize for the
+2778: reasons discussed in the last chapter, we want to develop generalizing
+2779: theories about past dynamics (figure 4.1, which is a different version
+2780: of figure 2.1).
+2781: 
+2782: All archaeologists offer possible links between statics and dynamics,
+2783: every time they put forward an interpretation of archaeological
+2784: evidence. In practice, Binford argued, archaeologists do this by making
+2785: assumptions about the middle range, that is, the ‘space’ between statics
+2786: and dynamics. For example, we excavate a cemetery consisting of a few
+2787: graves with lots of grave-goods and many graves with very little (static
+2788: data); from this we infer a society characterized by wealth or social
+2789: inequality (past dynamics). We do so by assuming a middle-range link
+2790: between the number and/or value of grave goods and the social/economic
+2791: status of the person buried. A second example: we excavate a pueblo in
+2792: the American Southwest and discover that it increases in size and number
+2793: of rooms through time. We infer population increase from this. Again, we
+2794: make a middle-range assumption, namely that settlement size, measured in
+2795: terms of the number of rooms in a settlement, correlates positively with
+2796: population size.
+2797: 
+2798: Right or wrong (and however obvious they may look at first sight, the
+2799: assumptions in both of the examples above can be debated), these
+2800: statements can be called middle-range assumptions. Such middle-range
+2801: assumptions guide archaeologists from observation of the static
+2802: archaeological record (burials in excavated cemeteries, data on
+2803: settlements derived from surveys) to general statements and theories
+2804: about the past (social structure and ranking, population estimates,
+2805: possible links between these variables, generalizing propositions about
+2806: links between rank, population size, and social complexity: figure 4.1).
+2807: 
+2808: Figure 4.1 Present statics, past dynamics and middle-range theory
+2809: 
+2810: [c04_image001.jpg]
+2811: 
+2812: Such propositions are called middle-range by Binford because they link,
+2813: in his words, statics to dynamics, and particular observations of the
+2814: archaeological record to general theories about the past. In much of
+2815: ‘practical’ archaeology, Binford argues, many propositions are often not
+2816: theorized and remain implicit, as they have an apparently
+2817: common-sensical, banal or trivial nature: ‘the larger the settlement,
+2818: the more people are likely to have lived there’.
+2819: 
+2820: Now many middle-range propositions may be banal or trivial, but any good
+2821: scientist should make his or her disciplinary assumptions formal and
+2822: explicit however obvious or common-sensical they might be. Many of the
+2823: interpretive problems that arise within archaeological traditions that
+2824: do not consider themselves to be ‘theoretical’ can be traced to a lack
+2825: of clarity about middle-range assumptions, which are treated as ‘common
+2826: sense’. For example, villages in medieval Europe may be referred to as
+2827: ‘planned’ because they are identified as of regular design and are
+2828: further seen as evidence of ‘lordship’. The implicit assumption that
+2829: regularity (a static pattern, observable in the present) implies
+2830: planning (a dynamic process in the past) and further implies ‘lordship’
+2831: (a social institution) needs to be critically examined. Similar comments
+2832: might be made about the assignation of high or low status to buildings
+2833: on the basis of their size and decoration, or something so mundane as
+2834: the designation of features as ‘roads’ or ‘trackways’ on the basis of
+2835: their size and appearance.
+2836: 
+2837: If such assumptions remain implicit, untested, taken-for-granted, then
+2838: we can never do more than tell untestable stories about the past,
+2839: because the criteria for deciding that this argument is good and that
+2840: argument is bad are never made clear, let alone objective and rigorous.
+2841: One scholar can assert (as ‘atheoretical’ archaeologists frequently do)
+2842: that this argument is ‘plausible’ and that other argument ‘wild’,
+2843: ‘improbable’ or a ‘flight of fancy’ by reference to an implicit common
+2844: sense which is never evaluated. Binford therefore suggested that we
+2845: should consciously develop an explicit ‘middle-range theory’ (MRT) to
+2846: link present statics with past dynamics. (It is important to note in
+2847: passing that this archaeological definition of the middle-range is
+2848: subtly different from that used by sociologists such as Robert Merton,
+2849: who developed the term ‘theories of the middle range’ to delineate
+2850: theories that fell in the range between empirical generalizations and
+2851: ‘grand theory’.)
+2852: 
+2853: Now the only place that we can see a definite, certain, measurable link
+2854: between a set of activity patterns or dynamics and what they look like
+2855: archaeologically is in the present. We can never see a Neolithic farmer
+2856: making a flint arrowhead with the debris flying in all directions, or a
+2857: Palaeolithic hunter skinning and butchering an animal, leaving bones to
+2858: kick around in the dust, be gnawed by dogs and finally be buried and
+2859: enter the archaeological record. But what we can do is look at
+2860: comparable activities – manufacturing of stone tools, hunting and
+2861: butchering activities, the gathering, winnowing and sowing of seeds – in
+2862: the present.
+2863: 
+2864: In the present, archaeologists can make a detailed and accurate record
+2865: of how particular activities or systems of activities give rise to
+2866: particular patterns of archaeological debris. We can look at how modern
+2867: peasant societies prepare and process their grain and other foodstuffs,
+2868: or how modern huntergatherers butcher their kills. We can observe and
+2869: measure precisely what sort and how much debris then enters the
+2870: archaeological record as a result of these activities, and what then
+2871: happens to that debris as a result of attrition and decay.
+2872: Archaeologists must therefore look at the ethnographic present for the
+2873: source of an explicit middle-range theory. Binford wrote: ‘My aim was to
+2874: study the relation between statics and dynamics in a modern setting. If
+2875: understood in great detail, it would give us a kind of Rosetta Stone: a
+2876: way of “translating” the static, material stone tools found on an
+2877: archaeological site into the vibrant life of a group of people who in
+2878: fact left them there’ (Binford 1983a: 24). In other words, just as the
+2879: Rosetta Stone had the same inscription in three different ancient
+2880: languages enabling the modern linguist to use the stone to translate
+2881: from one language to another, so we should be trying to find things that
+2882: enable us to translate from the observed archaeological record to the
+2883: past.
+2884: 
+2885: Binford called such ethnographic studies actualistic; that is,
+2886: observation and recording by archaeologists of ethnographic situations
+2887: taking place in the actual, the here and now. He compared the
+2888: archaeological record to that of a footprint in the forest. One might,
+2889: seeing a particular size and shape of footprint, conjecture that it
+2890: belonged to a large, heavy animal without having any clear idea of the
+2891: animal concerned. Later, one observes a bear making that precise shape
+2892: and form of a footprint; from that observation in the present, one can
+2893: say with greater certainty that the previous footprint had been made by
+2894: such an animal in the past.
+2895: 
+2896: One form of actualistic study that remains an enduring element of
+2897: archaeological practice is experimental archaeology. For example,
+2898: experimental studies have eludicated the manufacture and use of flaked
+2899: and polished stone tools. The debris produced at each stage of
+2900: experimental manufacture could be compared with the debris in the
+2901: archaeological record; microscopic traces of wear on prehistoric tools
+2902: could be compared with those on modern tools that had been used
+2903: experimentally for butchering, scraping hides and so on. Actualistic
+2904: study can also take the form of ethnoarchaeology, or the study of
+2905: material culture in the present by archaeologists.
+2906: 
+2907: Archaeologists have always been interested in the study of modern
+2908: peoples and their material culture, and have used ethnographic material
+2909: as analogies for things they saw in the archaeological record. Long
+2910: before David Clarke wrote about the Iron Age lake village of
+2911: Glastonbury, the huts there had been compared to huts of ‘natives’ in
+2912: East Africa. Indeed, such parallels were at the heart of the emergence
+2913: of archaeology as a discipline. Nineteenth-century ideas of social
+2914: evolution, in which all societies went through the same fundamental
+2915: stages, carried the implication that we could use present day
+2916: ‘primitive’ societies as analogies for the prehistoric past. Thus, for
+2917: example, Lubbock’s famous 1865 book Prehistoric Times was subtitled As
+2918: illustrated by ancient remains, and the manners and customs of modern
+2919: savages. It contained illustrations of artefacts from both prehistory
+2920: and from contemporary groups such as the Inuit.
+2921: 
+2922: Binford and others, however, suggested that such ‘ethnoarchaeological’
+2923: work had to be done primarily not by ethnographers, but by
+2924: archaeologists with a specific eye to the analogies between present and
+2925: past. Archaeologists could not rely on ethnographers collecting relevant
+2926: material, since their aims and purposes were different – ethnographers
+2927: were concerned with a range of issues, and were not in Binford’s view
+2928: specifically interested in the link between human activities and
+2929: archaeological material.
+2930: 
+2931: For Binford, the development of ‘robust’ middle-range theory was far
+2932: more important than metaphysical debates about the status of archaeology
+2933: as a science. While colleagues were arguing about the finer points of
+2934: philosophy and epistemology, then, Binford set off for Alaska to study
+2935: the Nunamiut ‘Eskimo’ hunters.
+2936: 
+2937: Interpreting the Mousterian
+2938: 
+2939: Binford’s account of why he did so (related most accessibly in In
+2940: Pursuit of the Past) is instructive. Binford had been interested in the
+2941: ‘Mousterian Question’ for some time. The Mousterian period at the
+2942: junction of the Middle and Upper Palaeolithic could be found in
+2943: different contexts in the Old World, but had been most closely analysed
+2944: in southern France; it was named after the French cave site of Le
+2945: Moustier.
+2946: 
+2947: Figure 4.2 Bordes’ Mousterian assemblage types, as redrawn by Binford
+2948: (1983a)
+2949: 
+2950: [c04_image002.jpg]
+2951: 
+2952: The Mousterian was defined and characterized by certain distinctive
+2953: types of stone tools, which had been classified by the French
+2954: archaeologist François Bordes. Bordes had then looked at the different
+2955: proportions of different stone tool types in different layers, and shown
+2956: that these could be classified into different patterns or assemblages:
+2957: ‘typical Mousterian’, ‘Charentian’, ‘Mousterian of Acheulean tradition’,
+2958: ‘denticulate Mousterian’, and so on (figure 4.2).
+2959: 
+2960: How might we interpret this pattern found in the present in terms of
+2961: past processes? Bordes had assumed that different stone tool assemblages
+2962: reflected the presence of different cultural groups. That is, he
+2963: followed the assumptions of other traditional or culture-historical
+2964: archaeologists in assuming that certain artefact types and assemblages
+2965: represented distinctive ‘cultures’. Different stone tool types reflected
+2966: different cultural norms, and assemblage variability therefore reflected
+2967: cultural variability. Others disagreed in how this ‘interassemblage
+2968: variability’ might be interpreted. Binford, for example, suggested that
+2969: different assemblages were not the detritus of different cultures, but
+2970: should be seen within an adaptive framework – as different ‘tool-kits’.
+2971: 
+2972: Binford wanted to test his hypothesis. He collected huge numbers of
+2973: statistics from Mousterian assemblages in France and put them on to a
+2974: computer. (We see here the stress on grasping variability and on
+2975: quantitative methods characteristic of New Archaeology.) He expended a
+2976: huge amount of labour feeding the information in, and found that there
+2977: were some interesting patterns in the material he had collected. But
+2978: herein lay the central problem. Binford found that there was nothing he
+2979: could do with them.
+2980: 
+2981: Binford had no secure idea what activities or processes might have
+2982: created those patterns. Bordes’s suggestion that different proportions
+2983: of tool types were reflective of different cultural groups, Binford’s
+2984: argument that different groups of tools were different ‘tool-kits’, and
+2985: reflected different kinds of cultural adaptation, and other Palaeolithic
+2986: specialists’ interpretations might all be appropriate explanations, all
+2987: of which appeared to be ‘satisfactory’ explanations of the data, no
+2988: matter how many statistics the computer churned out.
+2989: 
+2990: Using Binford’s own terminology, he had lots of information about
+2991: statics in the present, but lacked the means – the middle-range theory –
+2992: to translate these into past dynamics. As a result his ideas of what his
+2993: patterns meant could be contrasted with the ideas of others such as
+2994: Bordes, without being able to test between the two. The arguments of
+2995: Binford and Bordes remained just different stories, with no clear way to
+2996: judge which was the more accurate.
+2997: 
+2998: Binford’s work with the Nunamiut, then, was animated by a desire to
+2999: produce middle-range information that would give him a ‘handle’ on this
+3000: question. The Nunamiut, as a group who practised hunting of deer in an
+3001: environment similar to that which pertained in southern France during
+3002: the Mousterian period, offered a chance to attack the question of what
+3003: these patterns might mean. Observation of the Nunamiut could answer the
+3004: question: ‘what kinds of hunter-gatherer activities give rise to what
+3005: kinds of archaeological assemblages?’
+3006: 
+3007: Before we can consider whether Binford’s Nunamiut work gave him this
+3008: secure handle, we must consider its underlying theory a little more.
+3009: 
+3010: Uniformitarian Assumptions
+3011: 
+3012: Binford lays down two conditions that middle-range theory must satisfy.
+3013: Middle-range theory must be:
+3014: 
+3015: 1 Formally independent from our development of general theory. Remember
+3016: that in the positivist view, science is about testing things, and the
+3017: importance of keeping method separate from theory. How can
+3018: archaeologists test between two general theories if our middle-range
+3019: theory is based on one of them? This would give rise to the danger of a
+3020: circular argument.
+3021: 
+3022: 2 Based on a uniformitarian assumption. In other words, archaeologists
+3023: have to assume that conditions in the past were like those in the
+3024: present. If conditions in the past varied, all bets are off; anything
+3025: could have happened; actualistic studies in the present offer no secure
+3026: guide to what might have happened in the past.
+3027: 
+3028: Consider this second assumption for a moment. Archaeologists can assume
+3029: that physical properties and processes (gravity, the structure of
+3030: molecules, geological processes such as soil formation and
+3031: sedimentation) were the same in the present as in the past. Indeed, it
+3032: was this assumption that was central to the development of modern
+3033: geology, and hence stratigraphy in archaeology, in the nineteenth
+3034: century. The nineteenth-century geologist Lyell had argued against
+3035: ascribing geological features such as layers of sedimentary rock to
+3036: catastrophes and cataclysmic events such as the biblical Flood, events
+3037: that had no parallel in the present. Instead, we had to assume that
+3038: features such as layers of rock were created by processes observable in
+3039: the present (such as marine sedimentation). Of course, a few physical
+3040: processes and conditions are demonstrably not uniform – the proportion
+3041: of carbon-14 in the atmosphere has varied over the millennia, for
+3042: example, which is why carbon-14 determinations have to be ‘calibrated’
+3043: against dendrochnology in order to turn determinations into dates.
+3044: 
+3045: Physical processes may have largely been the same in the past, but human
+3046: behaviour is much more diverse. Uniformitarian assumptions about human
+3047: behaviour are much more difficult to make. The law of gravity applies
+3048: regardless of time and place, but different human cultures do things in
+3049: very different ways. This difficulty is particularly apparent for the
+3050: Lower and Middle Palaeolithic periods where archaeologists are dealing
+3051: with extinct hominid species that are not Homo sapiens sapiens. We can
+3052: debate whether ‘human nature’ or ‘basic human needs’ are constant for
+3053: other periods, but at these early times we are dealing with hominid
+3054: species that are not our own. Archaeologists cannot therefore assume
+3055: that practices we might suppose common to all human groups were even
+3056: present at that time. Binford himself makes the point that practices
+3057: such as ‘home-base behaviour’ (regular return to a ‘home’ such as a
+3058: transitory camp) may be ‘natural’ or assumed for modern humans, but
+3059: cannot be assumed for the hominids of the Lower Palaeolithic.
+3060: 
+3061: Somewhere in the middle, between the physical and human worlds, are
+3062: assumptions about the behaviour of animals and plants, resting in the
+3063: domain of ecology. Plant and animal ecology is not quite as ‘hard’ and
+3064: invariate as the laws of physics and chemistry, but not as ‘soft’ and
+3065: variable as cultural behaviour. For example, modern sheep will herd when
+3066: threatened by a predator, whereas other species will scatter; in so far
+3067: as this behaviour has a genetic basis, this has obvious implications for
+3068: which species were easier to domesticate in the Neolithic (sheep being
+3069: amenable to being herded by humans and dogs).
+3070: 
+3071: It follows that the development of middle-range theory may be relatively
+3072: plausible for areas of the archaeological record that are governed by or
+3073: dependent on physical or biological processes, but less so in other
+3074: areas. Let’s consider some examples:
+3075: 
+3076: 1 The preparation of grain for human consumption can only be performed
+3077: in certain ways: harvesting can only take place during certain times of
+3078: the year, the wheat must be separated from the chaff, the grain must be
+3079: dried, and so on. The different processes involved in the harvesting and
+3080: processing of grain give rise to certain recognizable by-products like
+3081: chaff or charred remains. The processing of crops can readily be
+3082: explored through ethnoarchaeology and experimental archaeology (figure
+3083: 4.3).
+3084: 
+3085: 2 Ageing of animals. Archaeologists can assume that measures of animal
+3086: age such as tooth eruption sequences did not vary in the past, and
+3087: further assume that mating and breeding patterns took place in the same
+3088: seasonal rhythm. It is therefore possible to take a collection of bones
+3089: and determine not only age at death, but at what time in the year
+3090: animals were being killed. This in turn might lead to secure inferences
+3091: about whether animals were being bred for meat or dairy products, and so
+3092: on.
+3093: 
+3094: 3 As a more marginal example to explore the limits of the uniformitarian
+3095: assumption, we can differentiate between ‘kill sites’ and ‘residential
+3096: sites’ on the basis of the bones found at each site. Archaeologists can
+3097: safely make the uniformitarian assumption that the ratio of meat to bone
+3098: remains fairly constant for an animal’s body part, and therefore reason
+3099: that hunters will carry back the meat-bearing parts of the animal while
+3100: leaving behind less ‘meaty’ parts of the animal (something often
+3101: referred to as the ‘Schlepp effect’). Whether a site is a kill site or a
+3102: home base will therefore be reflected in the different kinds of bone
+3103: left on site, and much ethnoarchaeological research has gone into
+3104: establishing just how this might work. (But this might not work because
+3105: of ‘cultural’ factors. A group might have cultural taboos against
+3106: consuming a particular part of an animal, or conversely a part might be
+3107: prized for its ‘ritual’ properties. A high cultural value placed on part
+3108: of an animal that did not correspond to its calorific or protein value
+3109: might confuse these signatures. I shall explore this problem further
+3110: below.)
+3111: 
+3112: Figure 4.3 Part of Hillman’s (1984) ethnoarchaeological model of grain
+3113: processing, derived from ethnographic research in Turkey, with F
+3114: indicating those points at which products are exposed to fire and
+3115: therefore preservation by charring. After Hillman (1984: figure 2)
+3116: 
+3117: [c04_image003.jpg]
+3118: 
+3119: Many of these studies can be grouped under the heading of taphonomy.
+3120: Taphonomy is the study of how the archaeological record is created from
+3121: ‘cultural’ and ‘natural’ behaviour. It stresses how we cannot make easy
+3122: connections between what we find in the archaeological record and past
+3123: activities, and is most strongly developed in areas like botanical and
+3124: faunal remains and animal behaviour.
+3125: 
+3126: To take one small example: the gnawing of bones by dogs. Sebastian Payne
+3127: has shown how gnawed bones will more easily decay than complete bones.
+3128: Sites, therefore, on which dogs are present may have many fewer bones,
+3129: and perhaps different sorts of bones, than sites where no dogs are
+3130: present. The negative conclusion of this is that we may misinterpret the
+3131: very similar economy of sites whose only real difference is that dogs
+3132: are present at one of them.
+3133: 
+3134: Case Study: Bones at Olduvai
+3135: 
+3136: To be successful, then, middle-range theory must not only develop
+3137: propositions linking present statics and past dynamics. It must then
+3138: take those propositions and use them in a formal way to judge between
+3139: different interpretations of the same archaeological assemblage. Let us
+3140: look at a case study to see whether such a judgement actually happens.
+3141: 
+3142: In the last chapter of his book Bones: Ancient Men and Modern Myths,
+3143: Binford claims that ‘my analysis will represent the application of a
+3144: methodology developed from control information obtained in actualistic
+3145: studies’ (1981b: 253). In other words, he will use his
+3146: ethnoarchaeological work to help determine which process gave rise to
+3147: which pattern in the archaeological record. Does it?
+3148: 
+3149: Binford develops a series of propositions from his Nunamiut material,
+3150: thereby predicting the static results of certain dynamics. For example,
+3151: he proposes that if tool-using hominids were living in base camps,
+3152: hunting and killing animals and transporting some parts of the kill,
+3153: then one would expect a home-base assemblage similar to that of modern
+3154: hunter-gatherer residences. Among other things, one would expect the
+3155: hominids to be bringing back parts of the animal with lots of meat, and
+3156: leaving behind parts with little meat. If, on the other hand, the
+3157: hominids are only scavenging, other hunting animals will have taken off
+3158: the high meat-bearing parts, leaving only low-utility parts for the
+3159: hominids to pick over, resulting in an inverse situation.
+3160: 
+3161: Binford then looks at different sites, dividing them into sites where
+3162: the animal caracasses have also been scavenged by other animals and
+3163: sites where this has not happened (‘ravaged’ and ‘non-ravaged’). He
+3164: treats unravaged sites in detail, arguing against the association of
+3165: hominids with the animal remains. He concludes that there are some less
+3166: noticed assemblages ‘consistent with the removal of essentially
+3167: marrow-yielding bones from the already ravaged kills of other
+3168: predator-scavengers’, an interpretation reinforced by stone tool
+3169: evidence.
+3170: 
+3171: In my view, this is an interesting and logical argument, but not a
+3172: formal example of the application of middle-range theory. One would
+3173: expect a series of formal propositions correlating statics with
+3174: dynamics, then an observation of the statics, and finally a formal
+3175: analogy with the dynamics. (To pursue Binford’s own analogy, first we
+3176: propose that bears leave certain prints, then see a print, and conclude
+3177: that it was made by a bear.) But Binford does not do this. Instead, the
+3178: evidence is explored contextually, with the Nunamiut work serving in a
+3179: looser role than that of formal analogy. For example, the wolf-kill
+3180: parallel is not even mentioned in the initial set of formal
+3181: propositions. So Binford’s use of ethnoarchaeological data is
+3182: interesting and even rigorous, but not a formal use of middle-range
+3183: theory if we adopt the strict criteria that Binford himself laid down.
+3184: 
+3185: We might extend these observations to the Mousterian case study outlined
+3186: above. It might be expected after Binford’s work that secure inferences
+3187: could be drawn about how the Mousterian might be interpreted. But in
+3188: fact the debate has simply gone on, or one might argue in more positive
+3189: terms that it has progressed and expanded its terms of reference. The
+3190: conclusion we can draw from this is that while middle-range research can
+3191: help us think about the archaeological record in new and interesting
+3192: ways, it is difficult to see it working in practice to formally judge
+3193: between alternative hypotheses in a way that will ‘prove’ one theory and
+3194: ‘disprove’ another. Rather, as Binford himself came to insist in his
+3195: later work, middle-range research can act to expand and deepen our
+3196: explanations by identifying ambiguity in the archaeological record, and
+3197: by pointing towards avenues of further research to define and explore
+3198: that ambiguity. What other reasons are there to be sceptical about the
+3199: value of middle-range theory?
+3200: 
+3201: Middle-range Theory: Problems
+3202: 
+3203: In my view, Binford is quite accurate in suggesting that archaeology
+3204: stands or falls as a positivist ‘science’ as conceived in the last
+3205: chapter on the successful development of middle-range theory. If we can
+3206: reliably relate present statics to past dynamics through the use of
+3207: middle-range propositions, then we really can isolate archaeological
+3208: reasoning from its social and political context and stop just telling
+3209: stories about the past. If we cannot do so, then the aim of developing
+3210: archaeology as a neutral science in the narrowly positivist sense might
+3211: appear doomed.
+3212: 
+3213: Two issues can be raised with respect to the debate over analogy and
+3214: middle-range theory:
+3215: 
+3216: (1) An analogy, whether based on the rubric of middle-range theory or
+3217: not, doesn’t prove or test anything. We can never know whether the
+3218: uniformitarian asumption discussed above is in fact correct. If I
+3219: interpret an excavated feature as a storage pit, and show that the
+3220: feature shares 5, 10, 15 characteristics in common with ethnographically
+3221: ‘known’ storage pits, there is still a possibility that the feature
+3222: could be interpreted in some other way.
+3223: 
+3224: This criticism gets stronger the more sceptical one is about general
+3225: theories of cultural evolution. If human cultures really do all go
+3226: through the same stages, and cultures at each stage of cultural
+3227: evolution are basically similar to one another, it follows that features
+3228: from excavated, prehistoric contexts will probably be very like those
+3229: known from ethnography. A uniformitarian assumption based on cultural
+3230: similarity will therefore be very strong. To put it another way, if the
+3231: Inuit really are just like all hunter-gatherer groups, then the use of
+3232: their material culture and patterns of activity as an analogy for past
+3233: hunter-gatherer groups is very plausible.
+3234: 
+3235: If on the other hand one believes that all cultures are historically
+3236: unique, and cannot be compared one with another or lumped into
+3237: evolutionary stages, then there is no reason to accept that this feature
+3238: was a storage pit merely because it looks like one from another culture
+3239: 2000 years later, 3000 miles away and from a completely different
+3240: cultural context. Perhaps we should treat the Inuit as unique or at
+3241: least distinctive, and if so, be very cautious about arguing that any
+3242: patterns derived from their means of living can be used in any way as a
+3243: template for any other hunter-gatherer group past or present. We might
+3244: certainly point to the fact that groups such as the !Kung San are not
+3245: ‘pristine’ hunting and gathering groups, but have complex histories of
+3246: their own. Here is a case where it can be argued that middle-range
+3247: assumptions are not in fact independent of general theory; on this
+3248: argument, they are inextricably linked to general theories, in this case
+3249: views of cultural evolution.
+3250: 
+3251: Advocates of middle-range theory would reply, following from the last
+3252: chapter, that it does not matter where ideas come from – what matters is
+3253: how they are tested. Of course we shall never be absolutely sure that
+3254: this feature was a storage pit, but we can evaluate its plausibility
+3255: against alternative hypotheses.
+3256: 
+3257: In his later work, Binford suggests that we don’t absolutely test a
+3258: proposition one way or the other, but we can focus on where the
+3259: archaeological record is ambiguous. In other words, archaeologists
+3260: should focus on the lack of fit between the data and what they expected
+3261: to find, and the things in the archaeological record that we cannot
+3262: easily explain. These elements of ambiguity and lack of fit, he argues,
+3263: generate fresh research questions and prompt further research. Over
+3264: time, then, a scientific archaeology will never provide a full, final
+3265: explanation, but it can and does demonstrably move forward in its
+3266: understanding of past processes, as in the wolf-kill example discussed
+3267: above.
+3268: 
+3269: An analogy can be strengthened if some form of cultural continuity can
+3270: be demonstrated between two groups. It has been argued for example that
+3271: the modern Hopi tribe of the southwestern United States are the cultural
+3272: descendants of what archaeologists have called ‘Anasazi’ populations.
+3273: Now on ‘Anasazi’ sites archaeologists find semi-subterranean circular
+3274: chambers, very similar to the ones found on modern Hopi pueblos. It is,
+3275: therefore, plausible to refer to modern Hopi rituals in their own kivas.
+3276: Again, such a link does not conclusively ‘prove’ anything, but it does
+3277: derive interpretative strength from such a link because continuity in
+3278: cultural ideas and practices is probable.
+3279: 
+3280: An important element of traditional archaeology in North America was the
+3281: direct historical method, where one started by delineating groups of
+3282: Native Americans in the present and then tried to trace their cultural
+3283: antecedents to, effectively, prehistoric groups. Such a method has no
+3284: direct parallel in European archaeology, though Christopher Hawkes once
+3285: suggested we should write prehistory backwards, working from ‘known’
+3286: historical groups back to the Iron and Bronze Ages. Such an approach
+3287: also underlies recent European interest in ‘ethnogenesis’, or the study
+3288: of the creation of ethnic identities. Scholars work backwards from
+3289: ‘known’ cultural or ethnic groups in the historical or folklife records,
+3290: combining the evidence of linguistics, archaeology, and ethnography, to
+3291: examine the ‘genesis’ of these groups in prehistory.
+3292: 
+3293: Both Alison Wylie and Ian Hodder have stressed a distinction between
+3294: formal and relational analogies, suggesting that the latter are
+3295: stronger. Formal analogies rest simply on the notion that if some
+3296: elements of the two situations are similar, others must be also.
+3297: Obviously such analogies are weak, though they tend to be stronger the
+3298: more points of similarity that can be demonstrated between the two
+3299: contexts. Relational analogies rest on a cultural or natural connection
+3300: between the two contexts, as with the direct historical method, where
+3301: connections based on cultural continuity can be suggested.
+3302: 
+3303: For example, we might interpret pits on African prehistoric sites as
+3304: grain storage pits, citing a range of ethnographic examples. As it
+3305: stands, such an analogy is pretty weak, though it might be strengthened
+3306: with the number and range of parallels we might draw (are the pits of
+3307: the same size and shape? Do we consider past and present societies to be
+3308: at the ‘same level of social development’? Do the ethnographic examples
+3309: come from the same kind of environment, settlement type, economy?). An
+3310: understanding of the relations between different variables would make
+3311: the analogies still stronger. Do the ethnographic examples come from
+3312: African societies with direct historical links to the prehistoric
+3313: culture we are studying? Can we ask why grain is stored in this way,
+3314: citing ‘natural’ reasons (the most efficient way to keep grain dry in
+3315: this type of climate) or ‘cultural’ factors?
+3316: 
+3317: In practice, of course, formal and relational analogies are two ends of
+3318: a range of analogical arguments of lesser or greater strength.
+3319: 
+3320: (2) The issue of cultural continuity leads on to the second issue. It
+3321: can be argued that people are influenced by cultural ideas in their
+3322: behaviour. These ideas don’t just affect obviously ‘cultural’ things
+3323: like religious beliefs manifested in the manner of burial or other
+3324: ‘ritual’ practices. They also affect apparently mundane activities such
+3325: as the organization of household space and attitudes towards rubbish.
+3326: They therefore affect archaeological deposition, and must be taken into
+3327: account when considering the formation of the archaeological record.
+3328: 
+3329: Take for example Henrietta Moore’s ethnoarchaeological study of the
+3330: Marakwet in East Africa. Moore found that the way Marakwet houses and
+3331: compounds were laid out related to their ideas of gender – what it
+3332: meant, culturally, to be a man or to be a woman in Marakwet society.
+3333: Different areas of domestic compounds were thought of as ‘male’ and
+3334: ‘female’. This set of cultural ideas affected where individual
+3335: residences lay and how the compound was laid out. Again, Ian Hodder
+3336: looked at the distribution of pig and cattle bones in different
+3337: settlements of the Nuba. He found lots of pig bones in the compounds of
+3338: one tribe, but very few in another. Hodder suggested that this was due
+3339: to different cultural attitudes. In this culture, women were associated
+3340: with pigs – women were responsible for the pigs’ feeding and
+3341: maintenance. In one area, there was a strong (male) belief that women
+3342: were polluting: hence, by association, compounds were kept clean of pig
+3343: bones and other debris. In another area, such pollution beliefs were
+3344: weak, the people of that area seemed not to care that their compounds
+3345: were left covered in refuse. Hodder argued that an archaeologist
+3346: excavating different compounds would need to understand something of
+3347: Nuba beliefs in order to interpret the faunal remains ‘correctly’.
+3348: 
+3349: Much ethnoarchaeological and experimental work continues on the
+3350: relationship between statics and dynamics. A particularly strong area is
+3351: the taphonomy of bones, but other areas include the production of stone
+3352: tools, plant remains and site economy in general. Such work tends to
+3353: concentrate on problems raised by the archaeological record of the
+3354: Palaeolithic and early farming communities – in other words, relatively
+3355: early elements of the archaeological record. It tries to focus on quite
+3356: specific archaeological questions, often relating to subsistence
+3357: economy.
+3358: 
+3359: Behavioural Archaeology
+3360: 
+3361: Let’s return to figure 2.1, the gap between present and past, and the
+3362: issue of how to infer past processes from archaeological data in the
+3363: present.
+3364: 
+3365: A second method to bridge this gap was outlined by Michael Schiffer, who
+3366: coined the term behavioural archaeology. Behavioural archaeology began
+3367: in the 1970s as the study of site formation processes – how artefacts
+3368: move from their ‘systemic context’, that is, their use in actual human
+3369: behaviour, to their ‘archaeological context’ in which they are
+3370: excavated. Schiffer drew attention to the intervening factors between
+3371: these two contexts: for example, ‘depositional processes’, ‘reclamation
+3372: processes’, ‘disturbance processes’ and ‘reuse processes’. In seeking to
+3373: link up behaviour with patterning in the archaeological record, the
+3374: project of behavioural archaeology obviously shares common ground with
+3375: much of middle-range theory and taphonomy. Binford himself rejected this
+3376: term and chose to attack much of Schiffer’s philosophy in quite
+3377: outspoken terms; but behavioural archaeology, taphonomy and middle-range
+3378: theory can be considered as closely related bodies of thinking.
+3379: 
+3380: Behavioural archaeology, however, goes on from this point to encompass a
+3381: much broader set of interests, and to define itself as a distinctive
+3382: approach to archaeology as a whole. Skibo and Schiffer (2008, 6) have
+3383: stated:
+3384: 
+3385: the core component of this approach is the redefinition of archaeology
+3386: as a discipline that studies relationships between people and things in
+3387: all times and all places … The relationships between people and
+3388: artifacts are discussed in terms of regularities discerned in processes
+3389: of manufacture, use, and disposal that make up the life histories of
+3390: material things, as in flow models and behavioural chains.
+3391: 
+3392: The most famous example of behavioural archaeology is the Tucson Garbage
+3393: Project initiated by Bill Rathje, where the link between behaviour and
+3394: material debris is examined in the present through study of the garbage
+3395: the modern people of Tucson throw away.
+3396: 
+3397: In other words, behavioural archaeology looks for regularities in the
+3398: relations between people and objects in all times and places. In this
+3399: way, it brings together study of the prehistoric past with studies of
+3400: much more recent artefacts, including objects in the present. Some of
+3401: Schiffer’s most fascinating work has been on objects such as the early
+3402: electric car, the lighthouse, and the portable radio, which sits
+3403: alongside that of his and colleagues’ studies of more ‘traditional’
+3404: topics such as pottery manufacture and the discard and reuse of objects.
+3405: 
+3406: Material Culture Studies
+3407: 
+3408: Behavioural archaeology has also come to share a set of interests with
+3409: ‘material culture studies’ in general. Ethnoarchaeological work such as
+3410: Henrietta Moore’s and Ian Hodder’s, mentioned above, led to the
+3411: proposition that to understand material culture, one had to look at
+3412: cultural meanings. The way was thus laid open to a range of studies
+3413: which looked at material objects, buildings and landscapes in both the
+3414: prehistoric and recent past and present, in which the methods of
+3415: archaeology, ethnography and related areas were combined.
+3416: 
+3417: It is often difficult to see any distinction in this work between
+3418: archaeology and anthropology – whether, that is, scholars are looking
+3419: archaeologically at material culture in its social context, or
+3420: anthropologically at society with a theoretical emphasis on the
+3421: importance of materiality and material things. Indeed, an
+3422: interdisciplinary journal edited by this ‘school’ (the Journal of
+3423: Material Culture) brings together different disciplines in this very
+3424: way, and includes work by art and design historians, scholars from
+3425: cultural studies, archaeologists, cultural anthropologists, and many
+3426: other areas.
+3427: 
+3428: It can also be argued that these interests have very deep historical
+3429: roots they go back to the importance attached to the collection of
+3430: material culture by early ethnographers, giving rise to many of the
+3431: great collections of artefacts found in museums like the Pitt Rivers or
+3432: the great North American collections such as the Smithsonian. They also
+3433: go back to the origins of archaeology in early modern antiquarianism and
+3434: its emphasis on the close study and discussion of monuments and
+3435: artefacts from a wide range of areas and periods.
+3436: 
+3437: A particularly important element of recent work in material culture
+3438: studies has been the archaeology of the recent past. Scholars have
+3439: looked, for example, at the material traces of the Second World War and
+3440: of the Cold War, combining written history, the testimony of
+3441: participants, and archaeological study of surviving structures and
+3442: artefacts. Much of this work brings together interdisciplinary interests
+3443: such as a concern with how people’s memories and accounts of the past
+3444: are embedded in material objects and landscapes.
+3445: 
+3446: As a result of this convergence of approaches and interests, the study
+3447: of material culture in the present, allied to a recasting of archaeology
+3448: as not simply about the past but about the relationship of people and
+3449: things, is one of the most important and vibrant areas of archaeological
+3450: theory today. There are a diversity of approaches drawing theoretical
+3451: inspiration from a diversity of sources, from a continuing tradition of
+3452: middle-range research through to studies of modern material culture
+3453: informed by postmodern and interpretive theories. I will come back to
+3454: these approaches again and again in future chapters, and try to pull
+3455: them together at the end of the book under the general banner of
+3456: ‘materiality’.
+3457: 
+3458: Which approach to material objects offers the most convincing way
+3459: forward depends, in part, on the general theory of society that one
+3460: finds convincing. Can one generalize between societies? Are societies to
+3461: be seen as systems fundamentally adapted to their environment, or is
+3462: symbolic meaning important? These are questions we will examine in the
+3463: next chapter.
+3464: 
+3465: 5
+3466: 

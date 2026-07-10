@@ -1,0 +1,1959 @@
+339|    PREFACE TO THE SECOND EDITION
+340|
+341|Since the first edition of A History of Archaeological Thought was
+342|published in 1989, there has been a significant upsurge of interest
+343|in the history of archaeology and a vast increase in the publication
+344|of books and papers relating to this topic. As recently as the 1970s,
+345|one or two significant books and a handful of papers dealing with
+346|the history of archaeology were published each year. At the height
+347|of their influence in the 1970s, processual archaeologists proclaimed
+348|that the history of archaeology was irrelevant for understanding the
+349|development of the discipline, which they argued was shaped by the
+350|deployment of ever more rigorous forms of scientific method. This
+351|view reduced the history of archaeology to being little more than
+352|a form of entertainment or propaganda. Today, a growing number
+353|of archaeologists, who accept that what archaeologists believe influ-
+354|ences not only the questions they ask but also the answers they find
+355|acceptable, maintain that all archaeological interpretations must be
+356|evaluated in relation to their historical context. This growing interest
+357|has transformed the history of archaeology into being an established
+358|subdiscipline of archaeology with its own international bulletin, sym-
+359|posia, encyclopedias, textbooks, and publication series. An increasing
+360|number of studies, often based on painstaking archival research and
+361|oral histories, are examining the archaeology practiced at specific
+362|times and in specific places from a variety of analytical perspectives.
+363|These works have made a new edition of A History of Archaeological
+364|Thought essential.
+365|   Archaeological theory and practice have also changed radically
+366|since the 1980s. The last fifteen years have witnessed the grow-
+367|ing diversification of postprocessual archaeology and the spread of
+368|some of its key ideas throughout archaeology, as archaeologists have
+369|striven to understand better how human beliefs and behavior relate
+370|to material culture. At the same time, Darwinian and behavioral
+371|
+372|
+373|                                  xv
+374|
+375|                    Preface to the Second Edition
+376|
+377|archaeology have been challenging processual archaeology’s long-
+378|standing monopoly of materialist explanations of archaeological find-
+379|ings and there is growing interest in the possible constraints that
+380|psychological and biological factors exert on human behavior and
+381|beliefs. The collapse of the communist regimes of Eastern Europe
+382|and of the Soviet Union and the growing impact that an increas-
+383|ingly transnational economy has been having on regional, national,
+384|and supranational loyalties in various parts of the world have encour-
+385|aged a renewed interest in culture-historical archaeology and its key
+386|concept, ethnicity. Under these conditions, the inadequacies of the
+387|processual/postprocessual dichotomy that arose in the 1980s and
+388|early 1990s are becoming ever more evident. Theoretical diversity is
+389|increasingly being appreciated as a source of enhanced understanding
+390|rather than regarded as a threat to archaeology. As a result, efforts
+391|are being made to produce broader theoretical frameworks within
+392|which diverse approaches can be synthesized and assigned mutually
+393|supportive roles.
+394|   Archaeologists also are becoming more aware of what is known
+395|about the nature of scientific enquiry. In the 1960s, the naive empiri-
+396|cism of many American archaeologists was challenged by a dogmatic
+397|positivism that stressed the need to create knowledge by formulat-
+398|ing and testing deductive propositions about human behavior. More
+399|recently, a growing appreciation of relativism and a reviving interest
+400|in the role played by beliefs in influencing human behavior have pro-
+401|moted a growing appreciation of realist and idealist epistemologies.
+402|As a result, a growing number of archaeologists have come to view the
+403|positivism and ecological determinism of the 1960s as outmoded and
+404|erroneous. A second edition of A History of Archaeological Thought
+405|is needed not only to survey the theoretical developments of the last
+406|fifteen years but to take account of the important insights gained as
+407|a result of these developments as they relate to viewing the entire
+408|history of archaeological thought.
+409|   In this second edition, I also seek to rectify the shortcomings of
+410|my original work. In addition to correcting factual errors, I have
+411|tried to provide a more balanced coverage by paying more attention
+412|to classical and other forms of historical archaeology, as well as to
+413|prehistoric archaeology in continental Europe and other non-English
+414|speaking parts of the world. I also pay more attention to gender issues
+415|and discuss in some detail the work of R. G. Collingwood, André
+416|
+417|                                  xvi
+418|
+419|                    Preface to the Second Edition
+420|
+421|Leroi-Gourhan, and other archaeological theorists who received little
+422|or no attention in the first edition.
+423|   To keep this edition about the same length as the first one, I have
+424|had to condense or omit sections of the original work that seem less
+425|important in the early 2000s than they did in the late 1980s. The
+426|material that appeared in the chapter on “Soviet Archaeology” has
+427|been broken up and now appears, often in abbreviated form, in the
+428|chapters dealing with culture-historical, early functional-processual,
+429|and recent archaeology. The amount of coverage devoted to Gordon
+430|Childe also has been reduced, and hindsight has permitted the
+431|treatment of processual and postprocessual archaeology to be simul-
+432|taneously condensed and clarified.
+433|   The need for concision also has compelled me to recognize more
+434|clearly than I did in the first edition that I am writing an intellec-
+435|tual history of archaeology. The primary focus of this edition is on
+436|the development of the main ideas that have guided archaeologi-
+437|cal thought, not on great discoveries, the development of analytical
+438|techniques, or the accumulation of factual knowledge about the past,
+439|although I acknowledge that these are important and worthwhile
+440|topics. This book also does not attempt to provide a balanced cov-
+441|erage of archaeological research done in all countries or regions of
+442|the world, or to describe the networks of archaeological researchers
+443|that have played a key role in shaping archaeological thought. Like-
+444|wise, although I recognize that social, political, economic, and insti-
+445|tutional factors have played important roles in the development of
+446|archaeological thought, tracing these influences is not my primary
+447|goal. While these topics are discussed, insofar as they are neces-
+448|sary for understanding the development of archaeological theory,
+449|I have taken care that this book does not become primarily a social
+450|or institutional history. Finally, because I view archaeology from a
+451|world perspective, my primary emphasis is on comparison rather than
+452|providing detailed accounts of specific events, which are now being
+453|examined in a growing number of books and monographs.
+454|   After 1989, I spent twelve years researching and writing Under-
+455|standing Early Civilizations (2003a), the goal of which was to develop
+456|a better understanding of archaeological and anthropological the-
+457|ory. My findings have been applied in the present work. As a result,
+458|my critiques of various theoretical positions are more specific and
+459|detailed than they were in the first edition. I am also prepared to
+460|
+461|                                 xvii
+462|
+463|                    Preface to the Second Edition
+464|
+465|project certain trends into the future, subject to the understanding
+466|that these are extrapolations, not predictions, which I do not believe
+467|are possible in the social sciences.
+468|   The original edition of A History of Archaeological Thought was
+469|based to a considerable extent on my previous writings, as detailed
+470|in my Preface to that work. In many respects, that edition betrays its
+471|piecemeal origins. Although the second edition is based on the first,
+472|it is also grounded on considerable original research and has been
+473|rewritten and reshaped from beginning to end. Scarcely a sentence
+474|has not been altered and much new material has been substituted for
+475|the original text. I hope that careful planning and thorough revision
+476|have resulted in a more unified as well as an updated work.
+477|   In the first edition, I thanked for their help Rosemarie Bernard,
+478|Chen Chun, Margaret Deith, Brian Fagan, Norman Hammond,
+479|Fumiko Ikawa-Smith, Jane Kelley, Philip Kohl, Isabel McBryde,
+480|Mary Mason, Valerie Pinsky, Neil Silberman, Peter Timmins, Robert
+481|Vogel, Alexander von Gernet, Michael Woloch, and Alison Wylie,
+482|as well as other colleagues who sent me reprints of their papers.
+483|For help with the second edition, I wish to thank especially Wakoh
+484|Anazawa for generously sharing with me his perspectives on the his-
+485|tory of Japanese archaeology; Mario Bunge and Oscar Moro Abadı́a
+486|for their close reading of the first edition and their numerous helpful
+487|comments on it; Stephen Chrisomalis for his research on the concept
+488|of ethnicity and his summaries and evaluations of the many papers
+489|on the history of archaeology published between 1989 and 2002;
+490|Michael O’Brien and his coauthors for providing me in advance of
+491|publication with a copy of their trendsetting book Archaeology as a
+492|Process; and Peter Rowley-Conwy for sharing with me on an ongoing
+493|basis the findings of his important research on the development of
+494|prehistoric archaeology in Scandinavia from 1835 to 1843. I am most
+495|grateful to Randall McGuire for reading and commenting in detail
+496|on a preliminary draft of the entire book. I also thank for their help
+497|Brian Alters, Linda Beringhaus, André Costopoulos, Nicole Cou-
+498|ture, Marguerita Dı́az-Andreu, John Galaty, Heinrich Härke, Alice
+499|Kehoe, Kristian Kristiansen, Harry Lerner, Michael Lever, Tim Mur-
+500|ray, Nadezhda Platinova, Jonathan Reyman, Ulrike Sommer, George
+501|Stocking, Thomas Patterson, and numerous undergraduates who
+502|since the 1970s have taken my courses, “The History of Archaeologi-
+503|cal Theory” and “Current Issues in Archaeology,” as well as graduate
+504|
+505|                                 xviii
+506|
+507|                     Preface to the Second Edition
+508|
+509|students who have participated in various seminars. A detailed review
+510|of the original edition of my book by L. B. Vishnyatsky et al. (1992)
+511|was very helpful for revising my treatment of Soviet archaeology. It
+512|was translated for me from Russian by Natasha Pakhomova.
+513|   I further thank Petra Kalshoven for her skillful editorial work. She
+514|provided my manuscript with American spelling and grammar, as well
+515|as assiduously challenging how I expressed my ideas and not infre-
+516|quently the ideas themselves. Her knowledge of both classical archae-
+517|ology and sociocultural anthropology made her a most helpful and
+518|welcome critic and the result is a more accurate and reader-friendly
+519|book. I am also most grateful to Diane Mann for expertly turning my
+520|numerous index cards into a bibliography and for word-processing
+521|the final versions of the manuscript, Rose Marie Stano for keep-
+522|ing my accounts, and Cynthia Romanyk for her help with mailing
+523|and communications. Jenna Friedman and Rosalyn Trigger helped
+524|to verify the references and Rosalyn Trigger prepared the new illus-
+525|trative material for submission to the publisher. I also thank Cathy
+526|Felgar (Cambridge University Press) and Mary Paden (TechBooks)
+527|for overseeing production of this book, Lindsey Smith for securing
+528|permission to use illustrations, Susan Stevenson for expert proof-
+529|reading, and Catherine Fox for preparing the index. Last, but not
+530|least, I thank Frank Smith for his good advice at every stage in the
+531|production of this book.
+532|   As in the first edition, sources for specific facts and ideas are pro-
+533|vided between brackets in the text, whereas the Bibliographical Essay
+534|at the end of the book supplies a more general guide to the sources
+535|that are relevant for each chapter.
+536|   Research for the first edition was greatly assisted by a sabbatical
+537|leave from McGill University and a Canada Council Leave Fellowship
+538|in 1976–1977 and a second sabbatical leave and a Social Sciences and
+539|Humanities Research Council of Canada Leave Fellowship in 1983.
+540|The second edition was largely drafted during a sabbatical leave in
+541|2004 and work on it has been supported since 2002 by the stipend
+542|attached to my James McGill Professorship.
+543|   This book is written from the perspective of ontological mate-
+544|rialism and epistemological realism. These are positions that I am
+545|convinced any social scientist who believes in the evolutionary origin
+546|of the human species must adopt. I also appreciate the value of rela-
+547|tivist critiques of knowledge for promoting sound scientific practice.
+548|
+549|                                  xix
+550|
+551|                     Preface to the Second Edition
+552|
+553|I developed my understanding of relativism from traditional (mate-
+554|rialist) Marxist philosophy. Although I accept the importance of the-
+555|ories of culture for understanding human behavior, I reject cultural
+556|determinism, just as I reject ecological determinism and unilinear
+557|evolutionism. Inspired by the work of Gordon Childe, I have long
+558|sought to reconcile a materialist approach with efforts to account for
+559|the cultural and historical diversity that characterizes both human
+560|behavior and the archaeological record.
+561|   This book goes to press at a time that should see archaeology
+562|consolidate its position as a mature social science devoted to the study
+563|of past human behavior, culture, and history by means of material
+564|culture. Much of this development will come about as the result
+565|of fractious theoretical confrontations being balanced by a growing
+566|emphasis on theoretical accommodation and synthesis. Archaeology
+567|also will establish its credentials as the only social science with a broad
+568|enough temporal perspective that the historical significance of all the
+569|other social sciences has to be established in relation to it.
+570|   Last but not least, I rededicate this second edition to my wife
+571|Barbara, with love and gratitude for all the happiness and purpose
+572|she brings to my life. I also thank her for providing Fisherman’s
+573|Retreat, a haven where over three summers I was able to focus on
+574|this book. She also has read the entire manuscript and made valuable
+575|contributions to improving its clarity.
+576|
+577|
+578|
+579|
+580|                                    xx
+581|
+582|                                    chapter 1
+583|         Studying the History of Archaeology
+584|
+585|     Though there exists one major academic industry . . . telling the
+586|     social scientists . . . how they can turn themselves into genuine
+587|     scientists, there exists another, with at least as flourishing an
+588|     output, putatively establishing that the study of man and society
+589|     cannot be scientific.
+590|          e r n e s t g e l l n e r , Relativism and the Social Sciences (1985), p. 120
+591|
+592|
+593|
+594|Since the 1950s archaeology, especially in North America and western
+595|Europe, has shifted from a seemingly complacent culture-historical
+596|orthodoxy to ambitious theoretical innovations. These innovations
+597|have led to growing disagreements about the goals of the discipline
+598|and how these goals can be achieved. Increasing numbers of archae-
+599|ologists, following in the wake of historians and sociologists, have
+600|abandoned positivist certainty and begun to entertain doubts about
+601|the objectivity of their research. They see social factors as determining
+602|not only the questions they ask but also the answers they judge to be
+603|convincing. Extreme versions of this view deny that archaeologists
+604|can offer interpretations of their data that are other than a reflec-
+605|tion of the transient values of the societies in which they live. Yet, if
+606|archaeology cannot produce some kind of cumulative understanding
+607|of the past and a commentary that is at least partially independent of
+608|specific historical contexts, what scientific – as opposed to political,
+609|psychological, or aesthetic – justification can be offered for doing
+610|archaeological research?
+611|   These concerns have encouraged studying the history of archaeo-
+612|logical thought as a means by which problems of subjectivity, objec-
+613|tivity, and the gradual accumulation of knowledge can be assessed.
+614|A growing number of archaeologists have come to agree with the
+615|philosopher and archaeologist R. G. Collingwood (1939: 132) that
+616|“no historical problem should be studied without studying . . . the
+617|history of historical thought about it.” The clear implication of
+618|
+619|                                               1
+620|
+621|                A History of Archaeological Thought
+622|
+623|Collingwood’s position is that archaeological interpretation and the
+624|history of archaeology are closely aligned. In recent decades, histori-
+625|cal investigations of archaeological interpretation have multiplied and
+626|more advanced methodologies for carrying out such studies have
+627|been adopted from the history of science (Corbey and Roebroek
+628|2001). Christopher Gosden (1999: 34) has argued that to be effec-
+629|tive, disciplinary histories must not be purely intellectual or social
+630|but both.
+631|   This historical approach is not, however, without its critics.
+632|Michael Schiffer (1976: 193) once asserted that graduate courses
+633|should cease to be “histories of thought” and instead should system-
+634|atically expound and articulate current theories, as, in a general sort
+635|of way, K. R. Dark has since done in his book Theoretical Archaeology
+636|(1995). Schiffer’s position embodied the view that the truth or false-
+637|ness of theoretical formulations is independent of social influences
+638|and hence of history but can be determined by applying scientifically
+639|valid procedures of evaluation to adequate bodies of data. Taken
+640|to an extreme, this view implies that the history and philosophy of
+641|archaeology are totally unrelated to each other.
+642|   The primary goal of this book is to survey the intellectual his-
+643|tory of archaeology in an attempt to evaluate the claims of three
+644|alternative epistemologies that are currently being applied to archae-
+645|ology. Positivist epistemologists maintain that society and culture
+646|exert no significant influence on the development of archaeology,
+647|which is shaped by explanations based on explicit theories being
+648|tested in the light of adequate evidence and according to proper
+649|scientific methods. Extreme relativists argue that the interpretation
+650|of archaeological data is so influenced by the intellectual persua-
+651|sions, class interests, ethnic loyalties, gender prejudices, and per-
+652|sonal self-interest of archaeologists that objectivity is impossible.
+653|There is no such thing as objective knowledge, and, therefore, no
+654|one truth but many possibly antithetical truths. Moderate relativists
+655|concede that archaeological interpretations are influenced by society,
+656|culture, and self-interest but maintain that archaeological evidence
+657|constrains speculation. The term relativism, as used here, embraces
+658|both relativism, in the strict sense of phenomena being perceived,
+659|valued, and understood differently as a result of cultural variation,
+660|and subjectivism, which refers to how phenomena are perceived, val-
+661|ued, and understood differently as a result of variations in individual
+662|
+663|                                  2
+664|
+665|                 Studying the History of Archaeology
+666|
+667|comprehension. To address these questions, it is necessary to con-
+668|sider what archaeologists have learned about the past, how the meth-
+669|ods they use to study the past have changed, what ideas have guided
+670|the development of archaeology at different periods, how these ideas
+671|relate to broader social, cultural, and intellectual trends, whether
+672|different societies produce different kinds of archaeology and, if so,
+673|what are the differences, and finally whether there is long-term con-
+674|vergence or divergence in the development of archaeology. It also
+675|cannot be assumed that the same factors necessarily influence archae-
+676|ology to the same extent at every stage in its development.
+677|   Archaeology is not a universal or self-evident activity. In some
+678|countries, people debate whether foreign archaeologists are treasure
+679|hunters or spies. They cannot imagine that anyone would be inter-
+680|ested in going to so much trouble and expense to study the past for
+681|its own sake. In Western civilization, despite the popularity of the
+682|Indiana Jones stereotype, it is generally accepted that archaeology is
+683|an esoteric discipline that has no relevance for the needs or concerns
+684|of the present. Ernest Hooton (1938: 218) once described archae-
+685|ologists as “the senile playboys of science rooting in the rubbish
+686|heaps of antiquity.” Yet for almost 200 years a widespread concern
+687|for the broader implications of archaeological discoveries has con-
+688|tradicted this image of archaeology. No one would deny the roman-
+689|tic fascination aroused by spectacular archaeological finds, such as
+690|those by Austen Layard at Nimrud or Heinrich Schliemann at Troy
+691|in the nineteenth century, and the more recent discoveries of the
+692|tomb of Tutankhamen, the Palace of Minos at Knossos, the life-size
+693|ceramic army of the Chinese Emperor Qin Shihuangdi, and numer-
+694|ous several-million-years-old remains of hominids in East Africa. This
+695|does not, however, explain the intense public interest in the contro-
+696|versies that have surrounded the interpretation of many more routine
+697|archaeological finds, the attention that diverse political, social, and
+698|religious movements throughout the world have paid to archaeolog-
+699|ical research, and rigorous efforts by various totalitarian regimes to
+700|control the interpretation of archaeological data. During the second
+701|half of the nineteenth century, archaeology was looked to for sup-
+702|port by both sides in the debate about whether evolutionism or the
+703|book of Genesis provided a more reliable account of human origins.
+704|Later, W. M. F. Petrie, Leonard Woolley, and John Garstang claimed
+705|to have made finds in Egypt, Iraq, and Palestine that supported
+706|
+707|                                  3
+708|
+709|                 A History of Archaeological Thought
+710|
+711|historical accounts in the Hebrew Bible. Elsewhere German and
+712|Polish archaeologists engaged in polemics about whether the
+713|Lusatian culture had been created by prehistoric Germans or Slavs. As
+714|recently as the 1970s, Peter Garlake, a government-employed archae-
+715|ologist in Southern Rhodesia, found his position no longer tenable
+716|because he refused to cast doubt on conclusive archaeological evi-
+717|dence that stone ruins in that part of central Africa had been built
+718|by ancestors of the Bantu peoples who live in that region. Today,
+719|the findings of ecological archaeologists are being coopted both by
+720|conservationists and by those who are anxious to minimize legal
+721|restraints on environmental pollution and degradation.
+722|   My adoption of a historical perspective does not mean that I
+723|claim any privileged status with respect to objectivity for such an
+724|approach. Historical interpretations are notoriously conjectural and
+725|open-ended, to the extent that some historians have characterized
+726|them as merely expressions of personal opinion. It is also recognized
+727|that, because of the abundance of historical data, evidence can be
+728|selectively marshaled to “prove” almost anything. There may, how-
+729|ever, be some truth in William McNeill’s (1986: 164) argument that,
+730|even if historical interpretation is a form of myth-making, such myths
+731|help to guide public action and can be regarded as a human substitute
+732|for instinct. If this is so, it follows that they are subject to the opera-
+733|tion of the social equivalent of natural selection and hence may more
+734|closely approximate reality over long periods of time. This, however,
+735|is a tenuous basis on which to base hopes for the objectivity of his-
+736|torical interpretations.
+737|   I therefore do not claim that the historical study presented here
+738|is any more objective than are the interpretations of archaeologi-
+739|cal or ethnological data that it examines. I believe, however, as do
+740|many others who study the history of archaeology, that a histori-
+741|cal approach offers a special vantage point from which to examine
+742|the changing relations between archaeological interpretation and its
+743|social and cultural milieu. The time perspective provides a different
+744|basis for studying the ties between archaeology and society than do
+745|philosophical or sociological approaches. In particular, it permits the
+746|researcher to identify the influence of subjective factors by observing
+747|how and under what circumstances interpretations of the archaeo-
+748|logical record have changed. Although this does not eliminate the
+749|bias of the observer, or the possibility that this bias will influence
+750|
+751|                                    4
+752|
+753|                 Studying the History of Archaeology
+754|
+755|the interpretation of archaeological data, it increases the chances of
+756|gaining more rounded insights into what happened in the past.
+757|
+758|
+759|            Approaches to the History of Archaeology
+760|The need for a more systematic study of the history of archaeological
+761|interpretation is indicated by serious disagreements about the nature
+762|and significance of that history. Much of the controversy centers on
+763|the role played by explanation in the study of archaeological data
+764|over the last two centuries.
+765|   Some historians of archaeology believe that the discipline has
+766|evolved in a predetermined manner through a series of stages
+767|(Schwartz 1967; Fitting 1973). In A History of American Archaeology,
+768|G. R. Willey and J. A. Sabloff (1974, 1980) posited an initial Spec-
+769|ulative period (1492–1840) followed by Classificatory-Descriptive
+770|(1840–1914), Classificatory-Historical (1914–1960), and Explanatory
+771|(1960–) ones. This scheme was based in part on Douglas Schwartz’s
+772|(1967) previous division of the history of American archaeology into
+773|three stages: Speculative, Empirical, and Explanatory. Only in the
+774|1993 edition of A History of American Archaeology was the final
+775|period, which began in 1960, renamed the Modern one. Although
+776|this series of stages was applied only to New World archaeology,
+777|Willey and Sabloff (1974: 209–10) observed that their scheme was
+778|likely to apply everywhere. They proposed that over the course
+779|of 150 years archaeology had developed according to an inductive
+780|Baconian model of doing science, which involves first collecting data,
+781|then describing and classifying it, and finally trying to explain it. Yet
+782|this approach does not account for why archaeological findings were
+783|already highly controversial during the nineteenth century. Such
+784|debates were only possible because various conclusions about the
+785|past were already being drawn on the basis of available evidence and
+786|some of these conclusions were offending people. Also, if archaeolo-
+787|gists could not draw any conclusions, what motivated them to con-
+788|tinue to study the past or to collect artifacts? As the British historian
+789|E. H. Carr (1967: 3–35) has reminded us, the mere characterization
+790|of data as being relevant or irrelevant, that occurs even in the most
+791|descriptive historical studies, implies the existence of some kind of
+792|theoretical framework. It can further be argued in opposition to the
+793|idea of a neutral observational language that not even the simplest
+794|
+795|                                   5
+796|
+797|                 A History of Archaeological Thought
+798|
+799|archaeological fact can be established independently of a theoreti-
+800|cal context (Wylie 1982: 42). In the past, most of these frameworks
+801|were not formulated explicitly or even consciously by archaeologists.
+802|Today, especially in the context of American and British archaeology,
+803|many theoretical propositions are systematically elaborated. Explana-
+804|tion was an inherent aspect of archaeology from the beginning, even
+805|if much of the theory that was employed was left implicit rather than
+806|clearly spelled out.
+807|   David Clarke (1973) proposed a convergent model of archaeolog-
+808|ical development. He argued that until the 1960s archaeology had
+809|consisted of isolated regional traditions of research, each following its
+810|own idiosyncratic and largely uncritical practices and characterized
+811|by its own preferred forms of description, interpretation, and expla-
+812|nation. Because these sorts of archaeology were scientifically undis-
+813|ciplined, their modes of analysis tended to be highly subjective and
+814|produced the results that local archaeologists expected. According to
+815|Clarke, in the 1960s these prescientific approaches were replaced by
+816|a new, sophisticated, self-critical, universal, and objective scientific
+817|archaeology. This is a false, or at best partial, view of the history of
+818|archaeology. International contacts characterized archaeology from
+819|the earliest stages of its development. Therefore, if local forms of
+820|research have been radically different from one another, an explana-
+821|tion other than mutual isolation is required.
+822|   Many archaeologists have utilized the philosopher Thomas Kuhn’s
+823|(1962, 1970) more relativistic concept of scientific revolutions to try
+824|to understand the development of archaeology. Kuhn formulated
+825|his ideas to explain the development of the physical sciences and, in
+826|the first edition of The Structure of Scientific Revolutions (1962), he
+827|spoke of a preparadigmatic period to which his concept of scientific
+828|revolutions did not apply. He also appears to have believed that all
+829|social sciences remained in that category. However, in the second
+830|edition, he accepted that immature disciplines might be described
+831|as having multiple research paradigms (Kuhn 1970). Kuhn described
+832|a research paradigm as having an accepted canon of scientific prac-
+833|tice, including laws, theory, applications, and instrumentation, that
+834|provides a model for a “particular coherent tradition of scientific
+835|research.” Such a tradition is sustained by a “scientific community,”
+836|defined as a group of scholars working together in the same discipline.
+837|Kuhn argued that every scientific community develops a paradigm
+838|
+839|                                   6
+840|
+841|                 Studying the History of Archaeology
+842|
+843|that influences the types of questions thought to be worth asking,
+844|the theories that are used to explain data, and the procedures that
+845|are employed to collect and analyze evidence. Scientists promote
+846|such paradigms through their control of teaching, journals, research
+847|grants, professional accreditation, hiring, tenure, and promotion. In
+848|normal times, scientists conduct their research within the context of
+849|the dominant paradigm, which they seek to elaborate. Paradigms are
+850|thus not merely scientific theories but also belief systems that con-
+851|stitute the culture of scientific communities. In adopting this view,
+852|Kuhn was building on the work of Ludwik Fleck ([1935], English
+853|translation 1979), who maintained that science was a collective cre-
+854|ation within a social milieu.
+855|   According to Kuhn, paradigm shifts occur when an old paradigm is
+856|seen as not supported by accumulating data or when scientists work-
+857|ing within it grow interested in problems that the existing paradigm
+858|is not equipped to answer. Kuhn maintained that this leads to the
+859|old paradigm’s being replaced by a new one. He also argued that
+860|successive paradigms are incommensurate. This means that a scien-
+861|tist working in terms of one paradigm can never understand how
+862|matters are perceived by someone working in terms of an alternative
+863|one. Kuhn originally argued in extreme relativistic terms that a new
+864|paradigm was not necessarily more comprehensive or accurate than
+865|its predecessor. Eventually, he accepted that, at least in the physical
+866|sciences, later paradigms are more comprehensive and account for
+867|more than do antecedent ones (Kuhn 1970; Bird 2000). This repre-
+868|sented a shift from an extreme to a more moderate relativist posi-
+869|tion. He also argued late in his career that without debates among
+870|scientists who hold different views, incorrect assumptions would
+871|go unchecked and improved scientific insights would be impossible
+872|(Kuhn 1977).
+873|   Some archaeologists, especially processual ones seeking to enhance
+874|the innovativeness of their movement, combined Kuhn’s idea of
+875|scientific revolutions with a unilinear evolutionary view of the
+876|development of their discipline. They maintained that successive
+877|phases in the development of archaeological theory display enough
+878|internal consistency to qualify as paradigms and that the replace-
+879|ment of one paradigm by another constituted a scientific revolu-
+880|tion (Sterud 1973). According to this view, successive innovators,
+881|such as Christian Thomsen, Oscar Montelius, Gordon Childe, and
+882|
+883|                                  7
+884|
+885|                 A History of Archaeological Thought
+886|
+887|Lewis Binford, recognized major anomalies and inadequacies in con-
+888|ventional interpretations of archaeological data and created new
+889|paradigms that significantly changed the direction of archaeologi-
+890|cal research. These paradigms not only altered the significance that
+891|was accorded to archaeological data but also determined what kinds
+892|of problems were and were not regarded as important. Clarke, how-
+893|ever, regarded archaeology before 1960 as being in a preparadigmatic
+894|state.
+895|   Such unilinear views of the history of archaeology fail to account
+896|for why archaeologists or other social scientists, in part because of the
+897|emergent complexity of their subject matter, never agree about high-
+898|level theory. This disagreement has meant that several rival paradigms
+899|coexist at any one time. Currently, processual archaeology treats ideas
+900|as epiphenomenal, whereas postprocessual archaeology regards them
+901|as the principal determinants of behavior. Simultaneously, evolution-
+902|ary archaeology is seeking to create a new paradigm by combining ele-
+903|ments of culture-historical archaeology with a selectionist Darwinian
+904|explanation of changes in material culture. Although archaeologists
+905|often display considerable bias in their support for different schools,
+906|there is no evidence that they are trapped in noncommunicating
+907|discourses or that it is impossible for them to understand their oppo-
+908|nents. On the contrary, their arguments often display considerable
+909|knowledge of such positions. Robert Chapman (2003: 14) argues that
+910|in archaeology rival positions are not only not hermetically sealed
+911|but also internally highly variable. Thus, they are not incommensu-
+912|rate with one another in the Kuhnian sense. Both Michael Schiffer
+913|(1996: 659) and Todd and Christine VanPool (2003) maintain that
+914|regarding theoretical orientations as paradigms radicalizes positions
+915|and encourages exclusion and polemic rather than the systematic
+916|comparison, testing, and synthesis of ideas.
+917|   The relevance of Kuhn’s concept of revolutionary change also
+918|has been questioned. Most alterations in the theory and practice of
+919|archaeology appear to occur gradually and there are growing doubts
+920|that even what appear to be rapid shifts accord with his concept of
+921|revolutions. Kuhn also failed to account for the longevity of vari-
+922|ous positions and for why rival positions fluctuate in relative impor-
+923|tance, often repeatedly, rather than one position definitively replac-
+924|ing another, or for why few positions are ever totally abandoned.
+925|Thus, the new cultural anthropology and postprocessual archaeology
+926|
+927|                                   8
+928|
+929|                 Studying the History of Archaeology
+930|
+931|address many of the same issues that Boasian culture-historical
+932|anthropology and archaeology once did, and early neoevolutionary
+933|archaeology strongly resembled nineteenth-century unilinear archae-
+934|ology. To accommodate the concept of paradigm to these real-
+935|ities, Margaret Masterman (1970) differentiated three main types
+936|of paradigm: metaphysical, relating to the worldview of a group of
+937|scientists; sociological, that define what is accepted; and construct,
+938|that supply the tools and methods for solving problems. No one
+939|of these types alone constitutes “the” paradigm of a particular era.
+940|Despite such efforts to modify Kuhn’s ideas, there is a growing sense
+941|that the concept of paradigm may not be appropriate to describe
+942|changing trends in interpretation in archaeology or any of the social
+943|sciences, and perhaps not even in science in general (Gándara 1980,
+944|1981). Finally, Jean Molino (1992: 19) argues that nothing is more
+945|dangerous than the belief that a scientific revolution allows a sci-
+946|ence to start again. Old questions, methods, and answers frequently
+947|remain valid. Once the principle of stratigraphy was established as
+948|a reliable technique for inferring chronology, it continued to be
+949|used by archaeologists regardless of what other views they might
+950|espouse (Dunnell 2001: 1298). The same is true of Ian Hodder’s
+951|(1982b) demonstration that material culture can be used to dis-
+952|tort or invert as well as to reflect social reality. The development
+953|of such broad agreements is another factor reducing the incommen-
+954|surability of different bodies of theory. For all these reasons, I will
+955|avoid the term “paradigm” and speak simply of schools or theoretical
+956|positions.
+957|   Shaun Hides (1996) and, in a more nuanced and careful manner,
+958|Ian Morris (1994b) have attempted to understand the development
+959|of archaeology in relation to Michel Foucault’s (1970, 1972) concept
+960|of four successive but radically different and in his view discontinu-
+961|ous epistemes or modes of knowledge: Renaissance (ca. 1400–1650),
+962|Classical (ca. 1650–1800), Modern (ca. 1800–1950), and Postmodern
+963|(ca. 1950–). Foucault understands these epistemes as general modes
+964|of thought, each of which in turn influenced all fields of knowledge
+965|and dominated an era of modern Western civilization. Each episteme
+966|is radically different from any other. No one could escape the epis-
+967|teme of the time in which they lived, which imposed a particular set
+968|of norms and postulates on all thinking. Thus, epistemes, as dom-
+969|inant cultural patterns, are very different from Kuhn’s paradigms,
+970|
+971|                                  9
+972|
+973|                A History of Archaeological Thought
+974|
+975|although both have been used to characterize general stages in the
+976|development of scientific interpretation.
+977|   Although Foucault’s views about epistemes have potentially valu-
+978|able contributions to make to understanding the development of
+979|archaeological thought, they have been criticized because of his reluc-
+980|tance to study causation and how epistemes may have been influ-
+981|enced by changing social realities (Morris 1994b: 10; Gutting 1989).
+982|Foucault also appears to underestimate the extent to which epistemes
+983|have overlapped and mutually influenced people’s thinking. Epis-
+984|temes can contribute little to understanding the theoretical diversity
+985|that characterizes archaeology at any given point in time.
+986|   An alternative unilinear evolutionary view to those based on
+987|the ideas of Kuhn and Foucault, and that accords with Stephen
+988|Toulmin’s (1970) thesis that sciences do not experience revolutions
+989|but, rather, gradual changes or progressions, holds that the history of
+990|archaeology has been characterized by a cumulative growth of knowl-
+991|edge about the past from early times to the present (Casson 1939;
+992|Heizer 1962a; Meltzer 1979). It is maintained that, although various
+993|phases in this development may be delineated arbitrarily, in reality
+994|archaeology changes in a gradual fashion, with no radical breaks or
+995|sudden transformations. Some archaeologists view the development
+996|of their discipline as following a course that is inevitable. Jaroslav
+997|Malina and Zdenek Vašı́ček (1990) document how an expanding
+998|database, with evidence increasingly being derived from settlement
+999|data and ecofacts as well as from artifacts and monuments, together
+1000|with new theories from the other social sciences and biology has
+1001|shaped the development of archaeology. Like other unilinear views,
+1002|theirs does not take account of the variability of archaeological the-
+1003|ories at any one time. Nor does it explain the frequent failure of
+1004|archaeologists to develop their ideas in a systematic fashion. For
+1005|example, although nineteenth-century naturalists with archaeolog-
+1006|ical interests, such as Japetus Steenstrup (Morlot 1861: 300) and
+1007|William Buckland (Dawkins 1874: 281–4), carried out experiments
+1008|to determine how faunal remains were introduced into sites, research
+1009|of this sort did not become routine in archaeology until the 1970s
+1010|(Binford 1977, 1981).
+1011|   Other historians of archaeology have rejected unilinear interpreta-
+1012|tions in favor of cyclical ones. This view began with Stuart Piggott
+1013|(1935, 1950, 1968, 1976, 1985) and Glyn Daniel (1950). They argued
+1014|
+1015|                                  10
+1016|
+1017|                 Studying the History of Archaeology
+1018|
+1019|that archaeological interpretations were influenced by the varying
+1020|popularity of the opposing rationalist and romantic views of human
+1021|behavior that had been constructed in France during the eighteenth
+1022|century. The romantic view was seen as encouraging an interest
+1023|in culture-history, ethnicity, and idealism in archaeology, whereas
+1024|rationalism encouraged the adoption of evolutionary and material-
+1025|ist approaches. Piggott and Daniel assumed that human behavior
+1026|was too complex and unpredictable ever to be fully understood.
+1027|They believed that archaeological interpretations therefore tended to
+1028|reflect the dominant intellectual fashions of the time, which them-
+1029|selves changed in an unpredictable manner. It was therefore con-
+1030|cluded that little progress could be made in understanding the past
+1031|apart from that facilitated by a growing database. Archaeologists
+1032|often returned to studying the same problems after long gaps during
+1033|which what had been learned previously had been forgotten. Another
+1034|application of a cyclical view to studying the history of archaeology
+1035|is Kristian Kristiansen’s (2002) characterization of Danish archae-
+1036|ology as consisting of alternating phases of interest in ecological
+1037|and culture-historical problems. Although these shifts can be con-
+1038|strued as alternations of rationalist and romantic approaches, they
+1039|do not appear to have been produced by alterations in general intel-
+1040|lectual fashions but by processes internal to Danish archaeology and
+1041|society.
+1042|    Some archaeologists doubt that the basic interests and concepts
+1043|of their discipline change significantly from one period to another.
+1044|Bryony Orme (1973: 490) has maintained that the archaeological
+1045|interpretations offered in the past were more like those of the present
+1046|than is commonly believed and that archaeological preoccupations
+1047|have changed little. Jean-Claude Gardin (1980: 165–80) argues that
+1048|it is wrong to believe that there is a great gap between the present and
+1049|earlier times in the “small world” of archaeological interpretation. He
+1050|suggests that there has been little change in what archaeologists do
+1051|over time, that the same formulae have been used for site reports over
+1052|a long period, and that there is no gulf between processual and post-
+1053|processual approaches. Long-term continuities in interpretation have
+1054|been shown to occur in studies of human evolution (Landau 1991;
+1055|Stoczkowski 2002). A remarkable antiquity also can be demonstrated
+1056|for some ideas that are commonly believed to be modern. Archaeol-
+1057|ogists argued that growing population densities led to the adoption
+1058|
+1059|                                  11
+1060|
+1061|                A History of Archaeological Thought
+1062|
+1063|of more labor-intensive forms of food production long before they
+1064|rediscovered this idea in the work of the economist Ester Boserup
+1065|(Smith and Young 1972). As early as 1673, the British statesman
+1066|William Temple had adumbrated this theory with his observation that
+1067|high population densities force people to work hard (Slotkin 1965:
+1068|110–11). In 1843, the Swedish archaeologist Sven Nilsson (1868:
+1069|lxvii) argued that increasing population had brought about a shift
+1070|from pastoralism to agriculture in prehistoric Scandinavia. This con-
+1071|cept also was implicit in the “oasis” theory of the origin of food
+1072|production, as expounded by Raphael Pumpelly (1908: 65–6) and
+1073|adopted by Harold Peake and H. J. Fleure (1927) and then by
+1074|Gordon Childe (1928). They proposed that postglacial desiccation
+1075|in the Middle East had compelled people to cluster around surviving
+1076|sources of water, where they had to innovate in order to feed higher
+1077|population densities. Yet, although ideas persist and recur in the his-
+1078|tory of archaeology, this does not mean that there is nothing new in
+1079|the interpretation of archaeological data. Such ideas must be exam-
+1080|ined in relation to the different conceptual frameworks of which they
+1081|were a part at each period. It is from these frameworks that these con-
+1082|cepts derive their significance to the discipline and, as the frameworks
+1083|change, their significance does as well. According undue importance
+1084|to particular ideas and not paying enough attention to their chang-
+1085|ing context will lead archaeologists to underestimate the amount
+1086|of change that has characterized the development of archaeological
+1087|interpretation. It also has been argued that a major goal of the his-
+1088|tory of archaeology must be to study critically how archaeological
+1089|concepts and understandings have altered over time, so that they
+1090|are not accepted as natural and given in their current state (Trigger
+1091|1978b). Recent work along these lines has been inspired by Pierre
+1092|Bourdieu’s (1980) concept of the social history of the social sciences
+1093|(Moro Abadı́a and González Morales 2003).
+1094|   Many archaeologists note that one of the principal characteristics
+1095|of archaeological interpretation has been its enduring regional diver-
+1096|sity. Leo Klejn (1977, 1990) and Trigger and Glover (1981–1982)
+1097|have examined the history of archaeology as one of regional schools.
+1098|In her review of Japanese and North American studies of the Jomon
+1099|culture, Junko Habu (2004: 5) has demonstrated how assumptions,
+1100|goals, methods, and theoretical developments cannot be considered
+1101|apart from one another in a single tradition of archaeological practice
+1102|
+1103|                                  12
+1104|
+1105|                 Studying the History of Archaeology
+1106|
+1107|and hence the distinctive and often complementary findings of differ-
+1108|ent research traditions cannot be sucessfully synthesized without an
+1109|understanding of the specific circumstances in which these findings
+1110|were produced. Nadia Abu El-Haj (2001) argues that specific expres-
+1111|sions of archaeological practice must be examined independently in
+1112|order to understand how each of them articulated with, and both
+1113|transformed and was shaped by, local social and political conditions.
+1114|She implies that little is to be gained by comparing such situations
+1115|and trying to generalize about them. Yet, although Abu El-Haj is
+1116|correct that every practice of archaeology has unique features, this
+1117|does not mean that detailed comparisons may not help to understand
+1118|better archaeological practice and the history of archaeology.
+1119|   Robert Dunnell (2001: 1290–1) argues that the overall history of
+1120|archaeology displays both a lack of linear development and much
+1121|parochial diversity. This is because archaeology is not a science in the
+1122|sense that it systematically uses theory to explain evidence. Dunnell
+1123|regards archaeology as remaining in a preparadigmatic state. Only
+1124|occasionally has something resembling a paradigm arisen and these
+1125|have proved to be short-lived.
+1126|   It is clear that there have been, and still are, regional traditions
+1127|in archaeological interpretation and that each of them has its own
+1128|unique features (Daniel 1981b; Evans et al. 1981: 11–70). What has
+1129|not yet been studied adequately is the significance of their diver-
+1130|gences. To what degree do they represent irreconcilable differences
+1131|in the understanding of human behavior, differences in the questions
+1132|being asked, or the same basic ideas being studied under the guise
+1133|of different terminologies?
+1134|   Over the past few decades, archaeologists have identified vari-
+1135|ous types of approaches to doing archaeology, each of which is
+1136|represented by various examples in different parts of the world.
+1137|Although these began with geographical groupings, as the list has
+1138|expanded it has come to include other types of social differences.
+1139|Each type is distinguished by the cause whose interest it serves:
+1140|national archaeology (Fleury-Ilett 1996: 200–1), nationalist archaeol-
+1141|ogy, colonialist archaeology, imperialist archaeology (Trigger 1984a),
+1142|third-world archaeology (Chakrabarti 2001: 1191–3), continentalist
+1143|archaeology (Morris 1994b: 11), regional or proto-national archae-
+1144|ology (Dı́az-Andreu 1996b: 86), community archaeology (Moser
+1145|1995a; Marshall 2002), indigenous archaeology (Watkins 2000),
+1146|
+1147|                                  13
+1148|
+1149|                 A History of Archaeological Thought
+1150|
+1151|internalist archaeology (Yellowhorn 2002), working-class archaeol-
+1152|ogy (McGuire and Reckner 2003), touristic archaeology, and the
+1153|archaeologies of protest (Silberman 1995: 261), of the disenfran-
+1154|chised, and of cultural identity (Scham 2001). The list might tech-
+1155|nically include gender archaeology although this approach is differ-
+1156|ent because, instead of simply representing an alternative focus of
+1157|research, it has established itself as a necessary and integral part of all
+1158|other archaeologies. Although no two examples of any one of these
+1159|varied approaches to archaeology are identical, they share sufficient
+1160|features to identify each approach as a distinctive type, the develop-
+1161|ment and function of which are worthy of study.
+1162|   Yet ideas diffuse and convergent as well as independent develop-
+1163|ment characterize archaeology. Studies of archaeology, with a few
+1164|notable exceptions (I. Bernal 1980; Chakrabarti 1982), have failed
+1165|to take account of the vast intellectual exchange that characterized
+1166|the development of archaeology in all parts of the world during the
+1167|nineteenth and twentieth centuries. This is dramatically illustrated
+1168|by the early study of shell mounds. Reports of the pioneering studies
+1169|by Danish scholars, who began their work in the 1840s, stimulated
+1170|a large number of investigations of shell heaps along the Atlantic
+1171|and later the Pacific coasts of North America in the latter half of
+1172|the nineteenth century (Trigger 1986a). When the American zool-
+1173|ogist Edward Morse went to teach in Japan, after analyzing mate-
+1174|rial from shell mounds along the coast of Maine for the Harvard
+1175|University archaeologist Jeffries Wyman, he discovered and exca-
+1176|vated in 1877 a large Mesolithic shell deposit at Omori, near Tokyo.
+1177|Some of his students dug another shell mound by themselves and it
+1178|was not long before Japanese archaeologists who had been educated
+1179|in Europe established the study of the Mesolithic Jomon culture
+1180|on a professional basis (Ikawa-Smith 1982). The Scandinavian stud-
+1181|ies also stimulated the early investigation of shell mounds in Brazil
+1182|(Ihering 1895) and Southeast Asia (Earl 1863). Even the ideologi-
+1183|cally opposed archaeological traditions of Western Europe and the
+1184|Soviet Union significantly influenced each other, despite decades
+1185|when scientific contact of any sort was very difficult and politically
+1186|dangerous for scholars on both sides of the Iron Curtain. For all
+1187|these reasons it seems unwise to overestimate the historical inde-
+1188|pendence or theoretical distinctiveness of these regional archaeolo-
+1189|gies. One of the important tasks for historians of archaeology is to
+1190|
+1191|                                    14
+1192|
+1193|                 Studying the History of Archaeology
+1194|
+1195|determine to what extent developments in one region did or did not
+1196|influence developments elsewhere. For early times, this is hard to do
+1197|because archaeologists often failed to indicate the sources of their
+1198|ideas.
+1199|   Less attention has been paid to the effects of disciplinary special-
+1200|ization within archaeology on the ways in which archaeological data
+1201|are interpreted (Rouse 1972: 1–25). Yet differing orientations along
+1202|these lines may account for as many differences as do social and polit-
+1203|ical orientations. Classical archaeology, Egyptology, and Assyriology
+1204|have been strongly committed to studying epigraphy and art history
+1205|within a historical framework (Bietak 1979). Medieval archaeology
+1206|developed as an investigation of material remains that complements
+1207|research based on written records (M. Thompson 1967; D. M. Wilson
+1208|1976; Barley 1977; Andrén 1998). Palaeolithic archaeology developed
+1209|alongside historical geology and palaeontology and has maintained
+1210|close ties with these disciplines, whereas the study of later prehis-
+1211|toric periods frequently combines information from numerous other
+1212|disciplines, including linguistics, folklore, biological anthropology,
+1213|and comparative ethnology, with archaeological findings (D. McCall
+1214|1964; Trigger 1968a; Jennings 1979).
+1215|   Yet, although many of these types of archaeology have developed
+1216|in considerable intellectual isolation from each other over long peri-
+1217|ods and have been further estranged as a result of the balkanization of
+1218|their respective jargons, historical connections, sporadic interaction,
+1219|and common methodological interests have been sufficient for all of
+1220|them to share numerous interpretive concepts. Tim Murray (2001a:
+1221|xix–xx) points out that, despite archaeology’s great diversity, the
+1222|common questions and fundamental activities, such as classification,
+1223|that lie at the core of archaeology enable archaeologists to commu-
+1224|nicate with each other and exchange knowledge. Yet, although they
+1225|share a general commitment to making the human past intelligible
+1226|and to developing the intellectual tools required for this task, archae-
+1227|ologists have gone about doing their work in many different ways and
+1228|have sought to use archaeology to serve many different political and
+1229|cultural ends.
+1230|   More narrowly focused studies of the history of archaeology exam-
+1231|ine the role played by institutions, such as archaeological societies
+1232|and archaeological departments in museums or universities, in pro-
+1233|moting the development of archaeology. Michael O’Brien, R. Lee
+1234|
+1235|                                  15
+1236|
+1237|                A History of Archaeological Thought
+1238|
+1239|Lyman, and Michael Schiffer (2005) have traced the development of
+1240|New Archaeology in terms of the contributions of individual archae-
+1241|ologists and of clusters of cooperating or competing archaeologists.
+1242|Michael Balter (2005) has studied, again from the perspective of the
+1243|individual participants, the interactive team that has been excavating
+1244|at the early Neolithic site of Çatalhöyük, in Turkey, under the inno-
+1245|vative leadership of Ian Hodder. This fine-grained type of approach
+1246|reveals much about the social dynamics and academic strategies that
+1247|have shaped broader trends in the development of archaeology.
+1248|   Biography and autobiography have long been part of the history
+1249|of archaeology, but they have generally been viewed as a means
+1250|of celebrating or justifying the careers of individual archaeologists.
+1251|Today, there is growing interest in using a biographical approach
+1252|to investigate how archaeologists have interpreted the past. John
+1253|Chapman (1998) explains the role that the real-life experiences of the
+1254|Lithuanian-born archaeologist Marija Gimbutas played in shaping
+1255|her interpretations of European prehistory, especially the distinction
+1256|that she drew between what she believed had been a matriarchal and
+1257|peaceful Early Europe and the patriarchal and warlike Indo-European
+1258|societies that replaced it. Jean-Paul Sartre (1971–1972) explored in
+1259|detail the problems of this sort of approach in his innovative “total
+1260|biography” of the French novelist Gustave Flaubert. He showed how
+1261|Flaubert was shaped by the culture in which he lived and the social
+1262|class to which he belonged. He also demonstrated, however, that
+1263|many aspects of Flaubert’s life and writings could only be understood
+1264|by means of a detailed psychological analysis of his childhood and
+1265|family relations. Clearly, if we are to understand all aspects of what
+1266|archaeologists do, we have to study them as individuals. Sartre’s work
+1267|makes it clear that because of psychological factors even archaeolo-
+1268|gists who share similar ethnic and class backgrounds and the same
+1269|historical experiences are unlikely to interpret archaeological data in
+1270|precisely the same manner. By contrast, analogous social and cul-
+1271|tural contexts produce general similarities in the interpretation of
+1272|archaeological data that are deserving of consideration.
+1273|   Although biographical and sociopolitical perspectives on the his-
+1274|tory of archaeology are complementary, some of the specific ap-
+1275|proaches outlined above are contradictory and hence not all of them
+1276|can be valid. Because this study attempts to trace the development
+1277|of archaeological thought from a broad perspective, it is impossible
+1278|
+1279|                                  16
+1280|
+1281|                 Studying the History of Archaeology
+1282|
+1283|for it to examine the contributions of all archaeologists or even to
+1284|investigate systematically the developments that have taken place
+1285|in each country and each branch of archaeology (Schuyler 1971).
+1286|Instead, I will investigate a number of major interpretive trends in
+1287|roughly the chronological order in which they came into prominence.
+1288|These trends frequently overlapped and interacted with one another,
+1289|both temporally and geographically, and the work of individual
+1290|archaeologists often reflects several of these trends, either at differ-
+1291|ent stages of their careers or in some combination at a single point in
+1292|time. My thematic approach allows a historical study to take account
+1293|of changing styles of archaeological interpretation that cannot be
+1294|fitted into clearly defined chronological or geographical pigeon-
+1295|holes but that reflect waves of innovation that have transformed
+1296|archaeology.
+1297|
+1298|
+1299|                           Social Context
+1300|No one denies that archaeological research is influenced by many dif-
+1301|ferent kinds of factors. The most controversial of these is the social
+1302|context in which archaeologists live and work. Very few archae-
+1303|ologists, including those who favor a positivistic view of scientific
+1304|research, would reject the proposal that the questions archaeologists
+1305|ask are influenced at least to some degree by this milieu. Yet posi-
+1306|tivists maintain that, so long as adequate data are available and these
+1307|data are analyzed using proper scientific methods, the validity of the
+1308|resulting conclusions is independent of the prejudices or beliefs of
+1309|the investigator. Other archaeologists believe that, because their dis-
+1310|cipline’s findings concerning the past consciously or unconsciously
+1311|are perceived to have implications for the present or about human
+1312|nature generally, and because people easily accept what they want to
+1313|believe but demand overwhelming evidence before they accept ideas
+1314|that they find abhorrent, changing social conditions influence not
+1315|only the questions archaeologists ask but also the answers that they
+1316|are predisposed to find acceptable. Even statistical tests, because they
+1317|employ arbitrary levels of confidence, are open to subjective interpre-
+1318|tation. Strong positivists, who believe that a single exception invali-
+1319|dates a law, would theoretically have to examine all possible cases to
+1320|prove that they are dealing with a universal generalization. Because
+1321|such proof is normally impossible, faith is also involved there.
+1322|
+1323|                                  17
+1324|
+1325|                 A History of Archaeological Thought
+1326|
+1327|   David Clarke (1979: 85) had these subjective factors in mind when
+1328|he described archaeology as an adaptive system “related internally to
+1329|its changing content and externally to the spirit of the times.” Else-
+1330|where he wrote: “Through exposure to life in general, to educational
+1331|processes and to the changing contemporary systems of belief we
+1332|acquire a general philosophy and an archaeological philosophy in
+1333|particular – a partly conscious and partly subconscious system of
+1334|beliefs, concepts, values and principles, both realistic and metaphys-
+1335|ical” (Ibid.: 25). Still earlier, Collingwood (1939: 114) had observed
+1336|that every archaeological problem “ultimately arises out of ‘real’
+1337|life . . . we study history in order to see more clearly into the situ-
+1338|ation in which we are called upon to act.”
+1339|   In recent decades archaeology has been powerfully influenced by
+1340|the attacks that relativists have launched against the concept of sci-
+1341|ence as a rational and objective enterprise. These attacks have their
+1342|roots in the antipositivism of the para-Marxist Frankfurt School,
+1343|as represented in the writings of Walter Benjamin (1969), Jürgen
+1344|Habermas (1971), and Herbert Marcuse (1964). These philosophers
+1345|stressed that social conditions influence both what data are regarded
+1346|as important and how they are interpreted (Kolakowski 1978c: 341–
+1347|95). Their views have been strengthened by Kuhn’s paradigmatic
+1348|concept, by the arguments of the sociologist Barry Barnes (1974,
+1349|1977) that scientific knowledge is not different in kind from any other
+1350|forms of cultural belief, and by the anarchistic claims of the American
+1351|philosopher of science Paul Feyerabend (1975) that, because objec-
+1352|tive criteria for evaluating theories do not exist, science should not be
+1353|fettered by rigid rules and personal preferences and aesthetic tastes
+1354|may be relied on when evaluating rival theories. Ideas of this sort have
+1355|attracted a considerable following among self-styled critical archae-
+1356|ologists, especially in Britain and the United States.
+1357|   Although some relativists argue that, in the long run, greater
+1358|awareness of social biases will promote more objectivity (Leone
+1359|1982), others maintain that even basic archaeological data are men-
+1360|tal constructs and, hence, are not independent of the social milieu
+1361|in which they are created and utilized (Gallay 1986: 55–61). The
+1362|more extreme relativists ignore the qualifications of Habermas and
+1363|Barnes that “knowledge arises out of our encounters with reality
+1364|and is continually subject to feedback-correction from these encoun-
+1365|ters” (B. Barnes 1977: 10). Instead, they conclude that archaeological
+1366|
+1367|                                   18
+1368|
+1369|                 Studying the History of Archaeology
+1370|
+1371|interpretations are determined entirely by their social context rather
+1372|than by any objective evidence. Thus statements about the past can-
+1373|not be evaluated by any criteria other than the internal coherence of
+1374|a particular study “which can only be criticised in terms of internal
+1375|conceptual relations and not in terms of externally imposed standards
+1376|or criteria for ‘measuring’ or ‘determining’ truth or falsety” (Miller
+1377|and Tilley 1984b: 151). A broad spectrum of alternatives separates
+1378|those hyperpositivistic archaeologists who believe that only the qual-
+1379|ity of archaeological data and of analytical techniques determines the
+1380|value of archaeological interpretations and the hyperrelativists who
+1381|are inclined to accord archaeological data no role, but instead explain
+1382|archaeological interpretations entirely in terms of the social and cul-
+1383|tural loyalties of researchers. Despite its extremes and inconsistencies,
+1384|the relativist critique of science has played an important and on the
+1385|whole a beneficial role in making social scientists more aware of the
+1386|subjective biases that influence their findings.
+1387|   Although the influences that societies exert on archaeological
+1388|interpretations are potentially very diverse, the development of
+1389|archaeology has corresponded temporally with the rise to power
+1390|of the middle classes in Western society. Many of the early patrons
+1391|of classical archaeology belonged to the aristocracy, but ever since
+1392|the Italian trader Ciriaco de’ Pizzicolli in the fifteenth century,
+1393|those who have actively studied archaeological remains have come
+1394|predominantly from the middle classes. They have been civil
+1395|servants, clergymen, wealthy merchants, country squires, and, with
+1396|increasing professionalization, university teachers and museolo-
+1397|gists. In addition, much of the public interest in archaeological
+1398|findings has been associated with the educated members of the
+1399|bourgeoisie.
+1400|   All branches of scientific investigations that have developed since
+1401|the seventeenth century have done so under the aegis of the middle
+1402|classes. Because archaeology and history are readily intelligible disci-
+1403|plines, their findings have important implications for shaping views
+1404|of human nature and how and why modern societies have come
+1405|to be as they are (Levine 1986). This transparent relevance for cur-
+1406|rent political, economic, and social issues has made relations between
+1407|archaeology and society especially complex and important. It there-
+1408|fore seems reasonable to examine archaeology as an expression of the
+1409|ideology of the middle classes and to try to discover to what extent
+1410|
+1411|                                   19
+1412|
+1413|                A History of Archaeological Thought
+1414|
+1415|changes in archaeological interpretation reflect the altering fortunes
+1416|of that group. Yet, although it is reasonable to assume that archae-
+1417|ologists are always influenced by the circumstances in which they
+1418|live, it does not necessarily follow that, as archaeological data accu-
+1419|mulate and archaeology develops as a discipline, all archaeological
+1420|interpretations will be influenced to the same extent by contempo-
+1421|rary social biases.
+1422|   Moreover, the middle classes have not been a homogeneous phe-
+1423|nomenon, either over time or in any one society. Their interests
+1424|and degree of development have varied greatly from one country to
+1425|another and within each country they have been divided into various
+1426|strata, with individuals who prefer either more radical or more con-
+1427|servative political options being present in each stratum. The bour-
+1428|geoisie of the Ancien Régime in France, composed largely of clerics,
+1429|professionals, and royal administrators, has to be distinguished from
+1430|the entrepreneurial bourgeoisie and factory owners of the industrial
+1431|era (Darnton 1984: 113; E. Wood 2000). It is also evident that archae-
+1432|ology has not been of equal interest to the whole middle class, but
+1433|mainly to that part of it, largely composed of professionals, which
+1434|is inclined to be interested in scholarship (Kristiansen 1981; Levine
+1435|1986). Karl Marx noted rather condescendingly that in many ways
+1436|intellectuals were very different in outlook and interest from other
+1437|members of the middle class. He argued that what made them “rep-
+1438|resentatives of the lower-middle class is the fact that in their minds
+1439|they do not get beyond the limits which the lower-middle class do
+1440|not get beyond in life, and that they are consequently driven, theo-
+1441|retically, to the same problems and social positions to which material
+1442|interest and social position drive the latter in practice” (Marx [1852]
+1443|in Marx and Engels 1962, I: 275).
+1444|   Relations between interests and ideas are contextually mediated by
+1445|a large number of heterogeneous factors. Archaeologists therefore
+1446|cannot expect to establish a one-to-one correspondence between
+1447|specific archaeological interpretations and particular class interests.
+1448|Instead, they must analyze the ideas influencing archaeological inter-
+1449|pretations as tools with which social groups seek to achieve their
+1450|goals in particular situations. Among these goals are to enhance a
+1451|group’s self-confidence by making its success appear natural, pre-
+1452|destined, and inevitable; to inspire and justify collective action; and
+1453|to disguise collective interests as altruism (B. Barnes 1974: 16); in
+1454|
+1455|                                  20
+1456|
+1457|                 Studying the History of Archaeology
+1458|
+1459|short, to provide groups and whole societies with mythical charters
+1460|(McNeill 1986). Without denying the significance of individual psy-
+1461|chological traits and cultural traditions, such considerations provide
+1462|an important focus for examining the relations between archaeology
+1463|and society.
+1464|   Most professional archaeologists also believe archaeological inter-
+1465|pretation to be significantly influenced by a large number of other
+1466|factors. All but the most radical relativists agree that one of these is
+1467|the archaeological database. Archaeological data have been accumu-
+1468|lating continuously over several centuries and new data are held to
+1469|constitute a test of earlier interpretations. Yet what data are collected
+1470|and by what methods are influenced by every archaeologist’s sense of
+1471|what is significant, which in turn reflects his or her theoretical presup-
+1472|positions. This creates a reciprocal relation between data collection
+1473|and interpretation that leaves both open to social influences. More-
+1474|over, the data recovered in the past are often neither adequate nor
+1475|appropriate to solve the problems that are considered important at a
+1476|later time. This is not simply because archaeologists were unfamiliar
+1477|with techniques that became important later and therefore failed to
+1478|preserve charcoal for radiocarbon dating or soil samples for phytolith
+1479|analysis, although such gaps in documentation can be extremely lim-
+1480|iting. New perspectives frequently open up whole new lines of inves-
+1481|tigation. For example, Grahame Clark’s (1954) interest in the sub-
+1482|sistence economy of the Mesolithic period led him to ask questions
+1483|that could not be answered using data collected when the main inter-
+1484|est of Mesolithic studies was typological (Clark 1932). Likewise, the
+1485|development of an interest in settlement archaeology revolutionized
+1486|archaeological site surveys (Willey 1953) and provided a stronger
+1487|impetus for the recording and analysis of intrasite distributions of
+1488|features and artifacts (Millon et al. 1973). Hence, although archaeo-
+1489|logical data are collected continuously, the results are not necessarily
+1490|as cumulative as many archaeologists believe. Indeed, archaeologists
+1491|often seem to build more readily on what their predecessors con-
+1492|cluded about the past than on the actual evidence on which those
+1493|conclusions were based.
+1494|   What archaeologists can study is also influenced by the resources
+1495|that are made available for archaeological research, the institu-
+1496|tional and public contexts in which research is carried out, and the
+1497|kinds of investigations societies or governments are prepared to let
+1498|
+1499|                                   21
+1500|
+1501|                A History of Archaeological Thought
+1502|
+1503|archaeologists undertake. To obtain support archaeologists must
+1504|please their sponsors, whether these be wealthy patrons (Hinsley
+1505|1985), colleagues and politicians managing the allocation of pub-
+1506|lic funds (Patterson 1986a, 1999), or the general public. There also
+1507|may be social restrictions on excavating certain kinds of sites, such
+1508|as cemeteries or religious localities. To protect cultural resources,
+1509|governments frequently enact stringent controls over when and how
+1510|archaeologists excavate and how they record their findings. They
+1511|sometimes prevent archaeologists from sending even mundane finds,
+1512|such as soil samples, abroad for analysis. There is also a growing ten-
+1513|dency to assign responsibility for managing archaeological research
+1514|to local or ethnic groups on the grounds that such resources are part
+1515|of their heritage. Although many archaeologists accept these controls
+1516|as appropriate, they may impose major constraints on the research
+1517|archaeologists do and how they interpret their finds. Such constraints
+1518|have given rise to considerable tensions between archaeologists and
+1519|aboriginal resource managers (Moser 1995b; Nicholas and Andrews
+1520|1997; Swidler et al. 1997; D. Thomas 2000).
+1521|   Until the twentieth century, few archaeologists were educated in
+1522|the discipline. Instead they brought to archaeology a variety of skills
+1523|and viewpoints acquired in many different fields and avocations. All
+1524|of them had studied a general school curriculum in which classical
+1525|and biblical material was emphasized. Basic principles derived from
+1526|a widespread interest in numismatics played an important role in
+1527|the development of typology and seriation by Christian Thomsen,
+1528|John Evans, and other early archaeologists (McKay 1976). In the
+1529|nineteenth century, a growing number who took up the study of
+1530|archaeology had been further educated in the physical and biological
+1531|sciences. Even now, it is claimed that significant differences can be
+1532|noted between the work done by professional archaeologists whose
+1533|undergraduate studies were in the humanities and in the natural sci-
+1534|ences (R. Chapman 1979: 121). More recently, a large number of pre-
+1535|historic archaeologists have been educated in anthropology or history
+1536|departments, depending on local preferences. In general, archaeol-
+1537|ogists trained within the context of history remain interested in the
+1538|pasts of specific countries or peoples, whereas archaeologists trained
+1539|in anthropology are more likely to be interested in studying the past
+1540|from a comparative perspective.
+1541|
+1542|
+1543|                                  22
+1544|
+1545|                 Studying the History of Archaeology
+1546|
+1547|   The roles played by particularly successful or charismatic archae-
+1548|ologists as exemplars in shaping the practice of archaeology on a
+1549|national and an international scale also are significant, even if they
+1550|probably developed their ideas in contexts that were fertile to those
+1551|ideas. Younger archaeologists may strike off in new directions and
+1552|pioneer novel techniques of analysis or interpretation in order to try
+1553|to establish professional reputations for themselves.
+1554|   Archaeological interpretation also has been influenced by tech-
+1555|nical developments in the physical and biological sciences. Until
+1556|recent decades, when collaborative research involving archaeologists
+1557|and natural scientists became routine, with rare exceptions the flow
+1558|of information between these disciplines was unidirectional, with
+1559|archaeologists being the recipients. Hence, research in the natural
+1560|sciences was only fortuitously related to the needs of archaeolo-
+1561|gists, although from time to time discoveries were made that were of
+1562|tremendous importance for archaeology. The development of radio-
+1563|carbon and other geochronometric dating techniques after World
+1564|War II provided archaeologists for the first time with a universally
+1565|applicable chronology that allowed the approximate year as well
+1566|as the relative order of archaeological manifestations to be deter-
+1567|mined. These dating techniques also constituted an independent
+1568|test of chronologies that had been inferred by means of seriation
+1569|alone or were based on limited textual data. Pollen analysis provided
+1570|valuable new insights into prehistoric climatic and environmental
+1571|changes and trace-element analyses added an important dimension
+1572|to the study of the prehistoric movement of certain kinds of goods.
+1573|While there is considerable variation in how quickly and insightfully
+1574|archaeologists apply innovations derived from the physical and bio-
+1575|logical sciences to their work, once they have been incorporated into
+1576|archaeological research such innovations tend to spread throughout
+1577|the world rapidly and with little resistance. The main obstacle to
+1578|their spread is lack of funds and trained scientific personnel, factors
+1579|that probably create more disparity between the archaeology of rich
+1580|and poor nations than any other. Yet even now, when more physi-
+1581|cal and biological research is being undertaken specifically to solve
+1582|archaeological problems, discoveries in these fields remain among
+1583|the least predictable factors influencing archaeological interpretation
+1584|(Nash 2000a).
+1585|
+1586|
+1587|                                  23
+1588|
+1589|                A History of Archaeological Thought
+1590|
+1591|   The proliferation of electronic forms of data processing has revolu-
+1592|tionized archaeological analysis no less than did radiocarbon dating.
+1593|It is now possible to correlate in a routine fashion vast amounts of
+1594|data, which in the past only an exceptional archaeologist, such as
+1595|W. M. F. Petrie, would have attempted to analyze (Kendall 1969,
+1596|1971). This allows archaeologists to use the abundant data at their
+1597|disposal to search for more detailed patterning in the archaeological
+1598|record (Hodson et al. 1971; Doran and Hodson 1975; Hodder 1978b;
+1599|Orton 1980; Sabloff 1981) and to explore the test implications of ever
+1600|more complex hypotheses about human behavior so that these find-
+1601|ings can be compared with the archaeological record (Wobst 1974;
+1602|Mithen 1993; Costopoulos 2002). New theoretical orientations have
+1603|been encouraged by specific developments of a mathematical nature.
+1604|General systems theory (Flannery 1968; Steiger 1971; Laszlo 1972a;
+1605|Berlinski 1976) and catastrophe theory (Thom 1975; Renfrew 1978a;
+1606|Renfrew and Cooke 1979; Saunders 1980) are both mathematical
+1607|approaches to the study of change, even if their strictly mathematical
+1608|aspects have been emphasized less than the underlying concepts in
+1609|applying them to archaeological problems.
+1610|   The interpretation of archaeological data also has been significantly
+1611|affected by the changing theories of human behavior and cognition
+1612|espoused by the social sciences. It has been especially influenced by
+1613|concepts derived from ethnology and history, the two related dis-
+1614|ciplines with which archaeologists have maintained the closest ties.
+1615|Theoretical concepts derived from geography, sociology, economics,
+1616|and political science also have influenced archaeology, either directly
+1617|or through anthropology and history. Yet, because all these disci-
+1618|plines have been shaped by many of the same social movements that
+1619|have influenced archaeology, it is often difficult to distinguish social
+1620|science influences on archaeology from those of society at large.
+1621|   The interpretation of archaeological data is also influenced by
+1622|established beliefs about what has been learned from the archaeo-
+1623|logical record. Often specific interpretations of the past are uncriti-
+1624|cally accommodated to changing general views, rather than carefully
+1625|scrutinized and assessed, even when these interpretations were for-
+1626|mulated in accordance with a general view that has been rejected.
+1627|Because of this, specific views about the past can persist and influ-
+1628|ence archaeological interpretation long after the reasoning that led
+1629|to their formulation has been discredited and abandoned. In their
+1630|
+1631|                                  24
+1632|
+1633|                 Studying the History of Archaeology
+1634|
+1635|detailed study of research at the Neolithic site of Avebury in England,
+1636|Peter Ucko et al. (1991) demonstrated how the uncritical accep-
+1637|tance of older findings has constrained more recent research. Vari-
+1638|ous studies have traced how interpretive motifs derived from clas-
+1639|sical and medieval Europe have influenced the understanding of
+1640|early human behavior and how Marcelin Boule’s and Arthur Keith’s
+1641|contrasting portrayals of Neanderthals have continued to play a
+1642|central role in constructing knowledge about them (Moser 1992;
+1643|Trinkaus and Shipman 1993; Stringer and Gamble 1993). By con-
+1644|trast, David Wengrow (2003: 134) has argued that studying the his-
+1645|tory of archaeology can contribute to the better understanding of
+1646|the past and present through reengagement in a new context with
+1647|ideas long forgotten as a result of what Laura Nader (2001) calls the
+1648|“collective amnesia” associated with changing research programs. It
+1649|thus becomes obvious that, although archaeologists’ understandings
+1650|of the past are influenced by the social milieu in which they exist,
+1651|they also are influenced by many factors that relate to the ongoing
+1652|development of archaeology as a discipline or set of disciplines. A his-
+1653|tory of archaeological thought requires knowledge not only of the
+1654|social setting in which archaeological research is carried out but also
+1655|of the ongoing development of archaeology as a practice.
+1656|   Like other studies of the history of science, the history of archae-
+1657|ology is characterized by two broad approaches: internalist and
+1658|externalist or contextual (Kuhn 1977: 109–10; Bauer 1992: 110–14).
+1659|Internalist studies trace the discoveries and intellectual debates that
+1660|have shaped archaeological interpretation. An excellent example of
+1661|such an endeavor is Donald Grayson’s The Establishment of Human
+1662|Antiquity (1983). Internalist approaches continue to be preferred by
+1663|epistemological positivists and political conservatives. They also are
+1664|generally accepted as a valid way to study the history of archaeol-
+1665|ogy. Externalist approaches seek to relate changes in archaeologi-
+1666|cal understanding to changes in the social, economic, and political
+1667|milieus in which archaeology is practiced. Although there is growing
+1668|interest in such studies in both Western and ex-colonial countries
+1669|(Klindt-Jensen 1975; I. Bernal 1980; Robertshaw 1990; Patterson
+1670|1995; Marchand 1996), conservative archaeologists and historians of
+1671|science often criticize such interpretations on the grounds that they
+1672|are speculative and ideologically driven (Daniel and Renfrew 1988:
+1673|199). In recent years, however, this sort of approach has acquired
+1674|
+1675|                                  25
+1676|
+1677|                A History of Archaeological Thought
+1678|
+1679|new levels of respectability as a result of Adrian Desmond’s (1982,
+1680|1989; Desmond and Moore 1992) studies of the social and political
+1681|implications of biological evolutionism in Victorian England. More-
+1682|over, there is a large body of evidence that interpretations are influ-
+1683|enced by social milieus. Although it would seem ideal for studies to
+1684|combine both approaches, in practice few historians of archaeology
+1685|attempt to do this. I will, however, apply both approaches in this
+1686|book.
+1687|   Histories of science also are expected to avoid presentism, which
+1688|involves judging past developments in terms of the current prac-
+1689|tices and beliefs of the discipline. This sort of approach evaluates
+1690|what happened in the past in terms of present concerns and treats
+1691|the history of archaeology as a chronicle of its progress toward its
+1692|present state. Presentism is generally regarded by historians of sci-
+1693|ence as a common shortcoming of amateur historians, especially
+1694|scientists writing about their own disciplines. More sophisticated
+1695|studies are expected to try to understand past events on their own
+1696|terms and in relation to past social and political, as well as disci-
+1697|plinary, contexts. Yet Tim Murray (1999b) embraces an “avowedly
+1698|presentist” approach and Robert Dunnell (2001: 1291) objects that
+1699|by avoiding presentism historians of archaeology fail to distinguish
+1700|between scientific discoveries of lasting value and those that are of
+1701|no importance for the development of the discipline. To be relevant,
+1702|Dunnell argues, studies of the history of archaeology must be theo-
+1703|retically informed. Thus, his position appears to be an endorsement of
+1704|presentism.
+1705|
+1706|
+1707|                  Archaeological Interpretation
+1708|Archaeologists debate whether their discipline, or any social science,
+1709|can or should be scientific. In part, these debates arise from dis-
+1710|agreements about what constitutes science and scientific behavior.
+1711|Most historians and philosophers of science trace the origin of mod-
+1712|ern science back to the philosopher Francis Bacon and regard it as a
+1713|method of knowing rather than a body of knowledge. Bacon sought
+1714|to persuade scholars to cease relying on revealed or authoritative
+1715|knowledge to understand the world and instead to employ observa-
+1716|tion, classification, comparison, and where possible experimentation
+1717|to achieve this goal. In this way, scientific knowledge was made the
+1718|
+1719|                                  26
+1720|
+1721|                 Studying the History of Archaeology
+1722|
+1723|ever-developing product of communities of researchers (Zimmerman
+1724|2001: 117).
+1725|   It is a fundamental tenet of science that nothing is significant by
+1726|itself but only in relation to hypotheses; hence only theories can
+1727|explain phenomena (Dunnell 1982b; Bird 2000: 18). Scientists must
+1728|search for order, most often in the form of systemic properties,
+1729|that facilitates the construction of explanations, without subjecting
+1730|themselves to any a priori limiting presuppositions about the general
+1731|extent or nature of that order. Their goal is to discover mechanisms
+1732|that account for how things work and have come to be as they find
+1733|them (Bunge 1997).
+1734|   A scientific viewpoint treats the idea of absolute, unchanging truth
+1735|as a dangerous and absurd illusion. Although scientists seek the most
+1736|comprehensible and enduring understanding that their data permit,
+1737|they acknowledge that they are unable to transcend the limitations
+1738|of their data and what they are capable of perceiving at any particular
+1739|point in time. Hence, they expect that in due course every scientific
+1740|theory will be altered and probably become outmoded. Scientists are
+1741|professionally obligated to test every theory against new evidence and
+1742|to ensure that no theory logically contradicts any other accepted ones
+1743|(Klejn 2001a: 86). Contrary to Karl Popper’s (1959) argument that
+1744|theories can only be disproved rather than proved, the philosopher
+1745|of science Mario Bunge (1996: 180–3) argues that, because even the
+1746|refutation of a theory is not necessarily definitive, scientists are jus-
+1747|tified in supporting a likely theory until convincing evidence to the
+1748|contrary emerges. It is also now widely accepted that the processes
+1749|of recovering and analyzing data are generally no less biased than is
+1750|their explanation.
+1751|   There is no fundamental disagreement between this position and
+1752|relativist claims that science is an ensemble of social practices that seek
+1753|to make the world and human behavior meaningful and intelligible;
+1754|that science is embedded in society; and that its claims are at best par-
+1755|tial, negotiated, and contested positions about what is to be taken
+1756|for granted (Shanks 1996: 103), provided that it is also recognized
+1757|that archaeological data were created independently of archaeologists
+1758|and therefore have the capacity to resist their interpretations (Wylie
+1759|1982, 1989b, 2002; Trigger 1989b, 1998b). Kristiansen (2002) argues
+1760|that archaeologists must regard such observations not as invitations
+1761|to cultivate subjectivity but as a challenge to try hard to be objective.
+1762|
+1763|                                    27
+1764|
+1765|                A History of Archaeological Thought
+1766|
+1767|Science presupposes a commitment to use more than rhetoric, per-
+1768|suasion, and political power or academic authority to recruit support
+1769|for a position.
+1770|   Jean-Claude Gardin (1980: 4) identifies the goal of archaeology
+1771|as being to create intellectual constructions relating to the study of
+1772|objects of all sorts that originated in the past. Leo Klejn (2001a: 88)
+1773|defines archaeology as a discipline constructed by theories related to
+1774|the study of material culture and antiquity. Lynn Meskell (2002: 293)
+1775|observes that what sets archaeology apart from history and anthropol-
+1776|ogy is its materiality. Yet David Wengrow (2003: 134) identifies it with
+1777|an improved understanding of human behavior and history, whereas
+1778|others have suggested that its goal should be to generalize about pro-
+1779|cesses of cultural change (Binford 1962, 1983b). These perspectives
+1780|are not antithetical. Archaeology is based on recovering and study-
+1781|ing material culture but that does not prevent archaeologists from
+1782|trying to study past human behavior, any more than palaeontologists
+1783|are precluded from trying to understand the behavior of prehistoric
+1784|animals. Today, there is a growing tendency to view archaeologi-
+1785|cal theory as a subset of anthropological (or social science) theory
+1786|dealing with how human behavior and beliefs are related to material
+1787|culture and how material culture influences human behavior.
+1788|   Scientific theory is a form of generalization that addresses how
+1789|things work and change. Theories generally promote an understand-
+1790|ing of one realm or dimension of reality by ignoring others. They
+1791|do not seek to analyze the world as it is observed but through what
+1792|are judged to be appropriate categories (Hegmon 2003: 213). To
+1793|account for a specific situation, it is necessary to combine various
+1794|explanations of this sort to form an explanatory argument (Roberts
+1795|1996). As a result of increasing relativism, there is growing interest
+1796|in how knowledge is constructed, including how archaeologists eval-
+1797|uate knowledge claims and reach conclusions. This has produced a
+1798|growing concern with archaeological theory even if many archaeol-
+1799|ogists, including archaeological theorists, believe that the close rela-
+1800|tions between theories and practice cast doubt on the desirability of
+1801|establishing a separate subdiscipline of theoretical archaeology.
+1802|   Archaeology is a social science in the sense that it tries to explain
+1803|what has happened to specific groups of human beings in the past.
+1804|Yet, unlike ethnologists, geographers, sociologists, political scien-
+1805|tists, and economists, archaeologists cannot observe the behavior of
+1806|
+1807|                                  28
+1808|
+1809|                 Studying the History of Archaeology
+1810|
+1811|the people they are studying and, unlike historians, most of them do
+1812|not have direct access to the thoughts of these people as recorded in
+1813|written texts. Instead, archaeologists must conjecture human behav-
+1814|ior and ideas from the material remains of what human beings have
+1815|made and used and the lasting physical impact of their activities on
+1816|the environment. The interpretation of archaeological data depends
+1817|on an understanding of how human beings behave at the present time
+1818|and particularly of how this behavior is reflected in material culture.
+1819|Archaeologists also must invoke uniformitarian principles in order to
+1820|use an understanding of geological and biological processes going
+1821|on at the present time to infer how natural processes have helped to
+1822|shape the archaeological record. Yet they are far from agreed how
+1823|such understanding can be applied legitimately and comprehensively
+1824|to derive an understanding of past human behavior from their data
+1825|(Binford 1967a, 1981; Gibbon 1984; Gallay 1986).
+1826|   For a long time, most archaeologists were naive empiricists, offer-
+1827|ing what appeared to be plausible explanations for the evidence
+1828|they were recovering. Then, in the 1960s, processual archaeolo-
+1829|gists embraced a positivist epistemology that emphasized establish-
+1830|ing general regularities between observable phenomena and explain-
+1831|ing these regularities. They also treated explanation and prediction
+1832|as equivalent. This approach favored studying behavior, as it priv-
+1833|ileged what can be witnessed instead of dealing with more elusive
+1834|thoughts and motives. It also privileged methodological individual-
+1835|ism and because it doubted the epistemological validity of emergent
+1836|properties was reductionist. It therefore promoted a belief in a “uni-
+1837|fied science,” which sought to apply methodologies derived from
+1838|the physical sciences to study everything (Hempel and Oppenheim
+1839|1948; Hempel 1965). Postprocessualists, and still earlier archaeolo-
+1840|gists such as R. G. Collingwood, embraced an opposing idealist epis-
+1841|temology that maintains that perceptions only acquire meaning as a
+1842|result of discriminations that occur in the observer’s mind. Idealists
+1843|therefore believe that concepts play an important role in determin-
+1844|ing perception: humans do not adjust to the world as it really is but
+1845|to the world as they imagine it to be. Idealism thus emphasizes the
+1846|value of a cultural rather than a behavioral approach to understand-
+1847|ing human activities (Collingwood 1946; Barnes 1974; Laudan 1990).
+1848|Postprocessualists object that positivists ignore the cognitively medi-
+1849|ated nature of human behavior and hence downplay the importance
+1850|
+1851|                                  29
+1852|
+1853|                 A History of Archaeological Thought
+1854|
+1855|of culture. Positivists maintain that, because of its wholly subjec-
+1856|tive nature, the hermeneutic method does not provide a scientific
+1857|approach for the study of beliefs. Each of these approaches is the
+1858|formalization of a way of gaining a type of knowledge that is vital for
+1859|everyday human living. Positivism relates to the sort of knowledge
+1860|that is necessary to adapt to the natural world and idealism to what
+1861|is required to interact with other human beings.
+1862|   The inadequacies of both positivism and idealism as epistemologies
+1863|for the social sciences have promoted the popularity of a third option:
+1864|realism (Bhaskar 1978; Harré 1970, 1972; Harré and Madden 1975;
+1865|Bunge 2003). Mario Bunge (1996: 355–8) maintains that realism is
+1866|the epistemology that all reasonable and productive scientists actu-
+1867|ally follow, whatever epistemology they advocate. Realists identify
+1868|the object of scientific study as being not only what can be perceived
+1869|with the senses or conceptualized in the brain but all that exists and
+1870|happens. Thus, realists pay equal attention to all things, whether
+1871|they can observe them or only their effects. Ideas are viewed as pro-
+1872|cesses that occur in the human brain and hence can be studied from
+1873|a materialist perspective. Realists maintain that some imperceptible
+1874|entities are appropriate objects of study. Thus, they do not confine
+1875|themselves to appearances, as positivists do, but they also do not
+1876|make common cause with idealists in belittling the significance of
+1877|appearances. Often they begin with appearances and try to explain
+1878|them by postulating unobservable entities, as Gregor Mendel did
+1879|when he proposed that what are now called genes were necessary to
+1880|explain the results of his interbreeding of different varieties of garden
+1881|peas. Because it accepts the validity of studying structures as well as
+1882|entities, realism is antireductionist. As a result of acknowledging the
+1883|complexity of the real world, it also rejects the positivist equating of
+1884|explanation and prediction.
+1885|   Generalizations, which can concern both patterns and the mecha-
+1886|nisms that account for patterns, play a role in all scientific operations
+1887|relating to the collection, description, classification, and interpreta-
+1888|tion of data. Archaeologists follow the example of philosophers of
+1889|science (Nagel 1961) and other social science disciplines in classify-
+1890|ing their generalizations into high, middle, and low categories (Klejn
+1891|1977; Raab and Goodyear 1984) (Figure 1.1). Only middle- and high-
+1892|level generalizations count as hypotheses or theories, according to the
+1893|extent of their confirmation, because they alone propose mechanisms
+1894|
+1895|                                   30
+1896|
+1897|                        Studying the History of Archaeology
+1898|
+1899|Levels of
+1900|Theory
+1901|                Darwinian      cultural         cultural        Marxism
+1902|  High                                                                     idealism
+1903|                 theory        ecology         materialism
+1904|
+1905|
+1906|
+1907|
+1908|  Middle
+1909|
+1910|
+1911|
+1912|
+1913|  Low
+1914|
+1915|
+1916|
+1917|
+1918|                                          Archaeological Data
+1919|
+1920|
+1921|
+1922|            logical     factual
+1923|            coherence   correspondence
+1924|         (length of arrow indicates relative importance of relationship)
+1925|
+1926|                 Figure 1.1 Relations between levels of generalization
+1927|
+1928|
+1929|    that account for why things are as they are and change as they do in
+1930|    multiple instances.
+1931|       Low-level generalizations seek to discover patterns in archaeolog-
+1932|    ical data (Klejn 1977: 2). These patterns appear to be the same as
+1933|    Ernest Nagel’s (1961: 79–105) experimental laws, of which he offers
+1934|    as an example the proposition that all female whales suckle their
+1935|    young. Such generalizations are normally based on regularities that
+1936|    are repeatedly observed and can be refuted by the observation of
+1937|    contrary cases. The vast majority of generalizations on which higher-
+1938|    level archaeological interpretations are based are empirical ones of
+1939|    this sort. They include most typological classifications of artifacts;
+1940|    the delineation of specific archaeological cultures; the demonstration
+1941|    by means of stratification, seriation, or radiocarbon dating that one
+1942|    archaeological manifestation dates earlier, or later, than another; and
+1943|    the observation that in an individual culture all humans are buried in
+1944|
+1945|                                             31
+1946|
+1947|                 A History of Archaeological Thought
+1948|
+1949|a particular position accompanied by specific types of artifacts. These
+1950|generalizations are based on observations that specific attributes or
+1951|artifact types occur repeatedly in a particular association with each
+1952|other, correlate with a specific geographical locality, or date to a cer-
+1953|tain period. The dimensions of such generalizations are the classical
+1954|ones of space, time, and form (Spaulding 1960; Gardin 1980: 62–
+1955|97). Archaeologists also may assume that specific types of projectile
+1956|points served particular functions and that each archaeological cul-
+1957|ture was associated with a specific people. These inferences, which
+1958|refer to human behavior, differ substantially from generalizations that
+1959|are based on empirical observations of correlations between two or
+1960|more categories of archaeologically tangible data and do not con-
+1961|stitute examples of low-level generalizations. In many instances, the
+1962|behavioral assumptions turn out to be incorrect, unproved, or mis-
+1963|leading (Hodder and Hutson 2003: 173–5).
+1964|   Because of the nature of archaeological data, low-level gen-
+1965|eralizations never refer to human behavior. They only reveal
+1966|correlations between one sort of archaeological observation and
+1967|another, thus providing evidence of hitherto unnoticed patterning or
+1968|ordering in archaeological data. These empirical observations never
+1969|provide explanations but constitute patterns that require explanation.
+1970|Discovering generalizations of this sort is the most time-consuming
+1971|and arguably the most productive activity in which archaeologists
+1972|engage. Yet, from a theoretical perspective, it is the least studied of
+1973|archaeological activities. Most historical work of this sort has been
+1974|done by archaeologists interested in classification and seriation and
+1975|by logicists (Gardin 1980: 10; Malina and Vašı́ček 1990: 149–209).
+1976|   Middle-level theories have been defined as generalizations that
+1977|attempt to explain the regularities that occur between two or more
+1978|variables in multiple instances (Raab and Goodyear 1984). Such gen-
+1979|eralizations can be produced either by refining high-level theories
+1980|so that they are applicable to specific data sets (such as archaeolog-
+1981|ical data) or by seeking to provide an explanation for why certain
+1982|low-level generalizations occur in multiple instances. All social sci-
+1983|ence generalizations should have cross-cultural validity and also make
+1984|some reference to human behavior. In addition, they must be suffi-
+1985|ciently specific that they can be tested by applying them to particular
+1986|sets of data. An example of a middle-level anthropological general-
+1987|ization is Ester Boserup’s (1965) proposition that among agricultural
+1988|
+1989|                                   32
+1990|
+1991|                 Studying the History of Archaeology
+1992|
+1993|economies increasing population pressure leads to situations that
+1994|require more labor for each unit of food produced in order to derive
+1995|more food from each available unit of arable land. This theory would
+1996|be archaeologically testable if archaeologists could establish reliable
+1997|measures of absolute or relative changes in population, the labor-
+1998|intensiveness and productivity of specific agricultural regimes, and a
+1999|sufficiently precise chronology to specify the temporal relationship
+2000|between changes in population and food production. Doing this
+2001|would require elaborating what Lewis Binford (1981) calls middle-
+2002|range theory, which attempts to use ethnographic data to establish
+2003|reliable correlations between archaeologically observable phenom-
+2004|ena and archaeologically unobservable human behavior. Although
+2005|“middle-level” and “middle-range” theories are not identical, in that
+2006|middle-level theory can refer exclusively to human behavior, whereas
+2007|middle-range theory must by definition refer to both human behavior
+2008|and archaeologically observable traits, all Binford’s middle-range the-
+2009|ory can be regarded as a special type of middle-level theory. Middle-
+2010|range theory is vital for testing all middle-level theory relating to
+2011|archaeological data.
+2012|   High-level, or general theories, which Marvin Harris (1979: 26–
+2013|7) has called “research strategies” and David Clarke (1979: 25–30)
+2014|labeled “controlling models,” have been defined as abstract rules
+2015|that explain relations among the theoretical propositions that are
+2016|relevant for understanding a major field of knowledge. Darwinian
+2017|evolutionism and more recently the synthetic theory of biological
+2018|evolution, which combines Darwinian principles with genetics, are
+2019|examples of general theories relating to the biological sciences. In
+2020|the human domain, general theories exclusively relate propositions
+2021|about human behavior to one another; hence, there are no theoret-
+2022|ical formulations at this level that pertain specifically to archaeology
+2023|rather than to the social sciences in general. This is true even of theo-
+2024|ries that relate human behavior to material culture. Examples of rival
+2025|high-level theories that currently influence archaeological research
+2026|are selectionism, cultural ecology, cultural materialism, and histori-
+2027|cal materialism (Marxism). These are all materialist approaches and
+2028|overlap to varying degrees. In recent years, there has been a resur-
+2029|gence of interest in high-level theories that attempt to explain human
+2030|behavior in terms of cultural beliefs or underlying cultural structures.
+2031|Such theories share an idealist approach. Still other theories, such as
+2032|
+2033|                                   33
+2034|
+2035|                 A History of Archaeological Thought
+2036|
+2037|neo-Marxism, bridge the gap between materialist and idealist high-
+2038|level positions creating a broad spectrum of high-level social science
+2039|theories.
+2040|   Because high-level theories attempt to interrelate concepts about
+2041|human behavior rather than to account for specific observations, they
+2042|cannot be confirmed or falsified directly (M. Harris 1979: 76). In that
+2043|respect, they resemble religious dogmas. Their credibility can, how-
+2044|ever, be influenced by the repeated success or failure of middle-level
+2045|theories that are logically dependent on them. Yet such testing is
+2046|anything but straightforward. Although many middle-range theo-
+2047|ries may have significance for distinguishing between materialist and
+2048|idealist modes of explanation, the complexity of all human behav-
+2049|ior and its symbolically mediated nature create much opportunity
+2050|for obfuscation. Social scientists exhibit great ingenuity in dismiss-
+2051|ing results that do not agree with their presuppositions as excep-
+2052|tions or even reinterpreting them as likely confirmation of what they
+2053|believe. As the result of a growing appreciation of the role played
+2054|by ideas in influencing human behavior, many Marxists have shifted
+2055|from a purely materialist to a more idealist view of human behavior.
+2056|Sometimes this new position is distinguished as neo-Marxism,
+2057|sometimes it is not (McGuire 1993; Trigger 1993). Likewise, in recent
+2058|years, many cultural ecologists have shifted from a more deterministic
+2059|to a less deterministic position. The overlapping nature of high-level
+2060|theories of human behavior provides considerable opportunities for
+2061|such intellectual gymnastics. It is still more difficult for archaeolo-
+2062|gists to assess the relative utility of the various materialist positions
+2063|listed above. Tests of Boserup’s middle-level theory have implica-
+2064|tions for both cultural materialism and cultural ecology and hence
+2065|would be of little use for assessing the relative utility of one or the
+2066|other. The failure of middle-level theories to confirm preferred high-
+2067|level ones also can be dismissed as the result of inadequate or inap-
+2068|propriate data rather than accepted as casting doubt on high-level
+2069|propositions.
+2070|   Because of the indirectness of tests, the rise and fall in the popu-
+2071|larity of specific high-level theories seems to be influenced more by
+2072|social processes than by the scientific examination of logically related
+2073|middle-level theories. Between 1850 and 1945, a strong empha-
+2074|sis was placed on biological, and more specifically racial, explana-
+2075|tions of variation in human behavior. Scientific demonstrations that
+2076|
+2077|                                   34
+2078|
+2079|                 Studying the History of Archaeology
+2080|
+2081|explanations of this sort did not hold in specific instances were inad-
+2082|equate to undermine the faith that many scholars had in the general
+2083|validity of a racist approach (M. Harris 1968a: 80–107). Yet racial
+2084|and, for a time, almost all biologically based theories were aban-
+2085|doned as scientific explanations of human behavior following the
+2086|military defeat of Nazi Germany in 1945 and the consequent rev-
+2087|elation of the full extent of its racist-inspired atrocities. It often
+2088|has been observed that materialist theories tend to flourish in the
+2089|social sciences when middle-class intellectuals feel secure, whereas
+2090|idealist ones are espoused during periods when economic and social
+2091|upheaval create uncertainty (Engels [1868] in Marx and Engels 1964:
+2092|263–8).
+2093|   Archaeologists generally accept, mostly implicitly, that scientific
+2094|explanations are subject to two types of verification (Lowther 1962;
+2095|Kosso 2001). The first test is that of correspondence truth. This test
+2096|seeks to determine if an explanation corresponds to the facts. It is use-
+2097|less to suggest that a drought accounts for the collapse of centralized
+2098|political control in an early civilization if no evidence of a drought can
+2099|be produced. The second test is that of coherence truth: whether or
+2100|not an argument is logically consistent. Over two and a half millen-
+2101|nia, rationalist philosophers have developed logic as a powerful tool
+2102|for detecting flaws in explanations. Few archaeologists have studied
+2103|formal logic, but they enjoy discovering logical flaws in one another’s
+2104|arguments as a way of discrediting both unwelcome theories and aca-
+2105|demic rivals. Complex arguments are needed to cope with phenom-
+2106|ena relating to human behavior. Political collapse might result from
+2107|a severe famine but only if a society lacks stored surpluses or access
+2108|to alternative sources of food. Hence, monocausal explanations are
+2109|rarely, if ever, adequate in the social sciences. Moreover, the same
+2110|effect may result from a number of different causes: a breakdown in
+2111|normal patterns of succession to high leadership also might result in
+2112|political collapse. This is a situation known as equifinality.
+2113|   Ideally, it should be possible to establish a logically coherent rela-
+2114|tionship among high, middle, and low levels of theory and a factual
+2115|correspondence between middle- and low-level generalizations and
+2116|observable evidence. Because low-level generalizations are empirical
+2117|in nature, coherence tests do not apply to the relations between them
+2118|and evidence, whereas, as we have already noted, factual correspon-
+2119|dence rarely serves as a direct test of high-level theories. American
+2120|
+2121|                                   35
+2122|
+2123|                A History of Archaeological Thought
+2124|
+2125|archaeologists have fiercely debated whether middle-level theory
+2126|ought to be derived deductively as a coherent set of interrelated con-
+2127|cepts from high-level theories or whether it also can be constructed
+2128|inductively from evidence and low-level generalizations. Those who
+2129|support the deductive approach argue that explanations of human
+2130|behavior, as opposed to empirical generalizations about it, should be
+2131|based on covering laws stated as hypotheses and tested against inde-
+2132|pendent sets of data (Watson et al. 1971: 3–19; Binford 1972: 111).
+2133|They seek to establish explicit, logical connections between high- and
+2134|middle-level theory. Generally, however, they underestimate the ten-
+2135|uous, complex, and intractable nature of the relations between these
+2136|two levels. By contrast, because high-level theory is hard to verify,
+2137|highly susceptible to subjective influence, and not absolutely required
+2138|to create middle-level theories, many inductivists regard the creation
+2139|of high-level theories as an ultimate goal that archaeologists should
+2140|address only after they have established a large corpus of reliable
+2141|generalizations at the middle level (M. Salmon 1982: 33–4; Gibbon
+2142|1984: 35–70; Gallay 1986: 117–21). In keeping with what they regard
+2143|as the Baconian tradition of science, inductivists also maintain that,
+2144|although deductive research cannot go beyond confirming or dis-
+2145|proving existing theories, an inductive approach has the potential for
+2146|making genuinely new discoveries about aspects of human behavior.
+2147|They also believe that an inductive approach is superior because it
+2148|is grounded on evidence collected without presuppositions. Yet it
+2149|is evident that theories are not derived from evidence but imposed
+2150|on it.
+2151|   The debate whether explanations are better produced by induc-
+2152|tion or deduction poses a false dichotomy. Observations that Charles
+2153|Darwin made in the course of a five-year voyage around the world
+2154|led him to doubt whether creationism could best account for the
+2155|geographical distributions of various species of plants and animals.
+2156|For over two decades he collected vast amounts of information on
+2157|variations within and between different species. Yet, according to his
+2158|own account, the concept of natural selection occurred to him not
+2159|as a direct result of his research but as a consequence of his reading
+2160|the economist Thomas Malthus’s (1798) theory that the main cause
+2161|of human suffering is the natural tendency for human population
+2162|increase to outrun the available food supply. Once the theory of nat-
+2163|ural selection had occurred to Darwin, he was able to use the data
+2164|
+2165|                                  36
+2166|
+2167|                 Studying the History of Archaeology
+2168|
+2169|he had collected to present convincing arguments in support of his
+2170|idea. Both induction and deduction played significant roles in the
+2171|development of the theory of natural selection and continue to do
+2172|so in the creation of all scientific theories. The credibility of all sci-
+2173|entific theories depends on their maintaining logical coherence with
+2174|other relevant theories and satisfactory correspondence with relevant
+2175|evidence. Because numerous implicit assumptions about the nature
+2176|of human behavior color what is believed to be any sound explana-
+2177|tion of archaeological data, high-level concepts can be ignored only
+2178|at the risk that implicit ones will unwittingly distort archaeological
+2179|interpretations. Successful theory-building involves the combining
+2180|of both approaches.
+2181|   Archaeologists also disagree about the formal nature of the gen-
+2182|eralizations that they seek to elaborate. Processual archaeologists
+2183|assumed that all laws must be universal in nature. They also believed
+2184|these laws to be primarily ecological, although today archaeolo-
+2185|gists are deriving a growing number of such generalizations from
+2186|evolutionary psychology, neuroscience, and biology. Such laws
+2187|relate to variables that are assumed to hold true regardless of the
+2188|temporal period, region of the world, or specific cultures that are
+2189|being studied. These generalizations vary in scale from major assump-
+2190|tions about historical processes to regularities dealing with relatively
+2191|trivial aspects of human behavior (M. Salmon 1982: 8–30). A good
+2192|example of this sort of approach is formalist economics, which main-
+2193|tains that the rules used to explain the economic behavior of Western
+2194|societies explain the behavior of all human beings. Such an approach
+2195|accounts for significant variations in human behavior in different
+2196|societies by viewing them as the results of novel combinations and
+2197|permutations of a fixed set of interacting variables (Burling 1962;
+2198|Cancian 1966; Cook 1966). Universal generalizations are frequently
+2199|interpreted as reflecting an invariant human nature.
+2200|   Other archaeologists maintain that universal laws concerning
+2201|human nature are relatively few in number and that most cross-
+2202|cultural generalizations apply only to societies that share the same or
+2203|closely related modes of production. This position is similar in gen-
+2204|eral orientation to that of the economic substantivists. In contrast to
+2205|formalists, substantivists maintain that the rules, as well as the forms,
+2206|of economic behavior are fundamentally transformed by evolution-
+2207|ary processes (Polanyi 1944, 1966; Polanyi et al. 1957; Dalton 1961).
+2208|
+2209|                                   37
+2210|
+2211|                 A History of Archaeological Thought
+2212|
+2213|The substantivist approach implies that novel properties can and do
+2214|emerge as a result of sociocultural change (Childe 1947a). This dis-
+2215|tinction between universal generalizations and more restricted ones
+2216|may not be as far-reaching or absolute as its proponents maintain.
+2217|Generalizations that apply only to specific types of societies can be
+2218|rewritten in the form of universal generalizations, whereas univer-
+2219|sal ones may be reformulated, usually in greater detail, so that they
+2220|apply specifically to a particular class of society. Yet those who stress
+2221|the importance of restricted generalizations argue that all or most of
+2222|them cannot be transformed into universal generalizations without
+2223|a severe loss in content and significance (Trigger 1982a).
+2224|   The third type of generalization is specific to an individual culture
+2225|or to a single group of historically related cultures. Examples would
+2226|be the definitions of the canons that governed ancient Egyptian or
+2227|classical Greek art (Childe 1947: 43–9; Montané 1980: 130–6). Such
+2228|generalizations are potentially very important inasmuch as most cul-
+2229|tural patterning is probably of this sort. Yet, where no culturally
+2230|specific meanings can be applied to such patterns, they remain at the
+2231|level of empirical generalizations.
+2232|
+2233|
+2234|                              Challenge
+2235|A final question is whether a historical study can measure progress in
+2236|the interpretation of archaeological data. Are steady advances being
+2237|made toward a more objective and comprehensive understanding
+2238|of archaeological findings, as many archaeologists assume? Or is the
+2239|interpretation of such data largely a matter of fashion and the accom-
+2240|plishments of a later period not necessarily more comprehensive or
+2241|objective than those of an earlier one? Answering this question is
+2242|vital for considering whether the development of archaeology does
+2243|or does not promote greater objectivity in its findings.
+2244|   In examining the patterns that have characterized the interpre-
+2245|tation of archaeological data, I shall attempt to ascertain to what
+2246|extent archaeological techniques as well as a general understanding
+2247|of human history and behavior have been irreversibly altered as a
+2248|result of archaeological activity. There is evidence of some linearity
+2249|in the development of archaeology as, for example, with the continu-
+2250|ing relevance of the principle of stratigraphy, of frequency seriation,
+2251|and of Ian Hodder’s (1982b) demonstration that material culture
+2252|
+2253|                                   38
+2254|
+2255|                 Studying the History of Archaeology
+2256|
+2257|can play an active as well as an epiphenomenal role in social pro-
+2258|cesses. Yet there is no evidence that archaeologists at any one period
+2259|are less influenced by subjective beliefs and social circumstances than
+2260|they are at any other. In addition, contingent factors, personalities,
+2261|academic policies, sheer ignorance, professional biases, and funding
+2262|all influence the acceptance and application of new ideas and tech-
+2263|niques (Nash 2000b: 208). It is possible, however, that archaeolog-
+2264|ical interpretation, although initially highly subjective, becomes less
+2265|influenced by social biases and less susceptible to political manipu-
+2266|lation as the archaeological database becomes more abundant, and,
+2267|therefore, that an understanding of the past grows more objective as
+2268|more archaeological research is carried out. That trend would accord
+2269|with the claims of moderate relativists that archaeological evidence
+2270|has the capacity to limit speculation about the past. If archaeological
+2271|interpretations are wholly, or even largely, subjective, we should not
+2272|be able to discover many significant long-term patterns but only ran-
+2273|dom variations brought about by changes in the economic, social,
+2274|and intellectual milieu. If evidence plays a role in limiting speculation,
+2275|the development of archaeology should be increasingly constrained
+2276|by knowledge that belongs to the discipline, even if subjective factors
+2277|continue to influence significantly the answers to what are regarded
+2278|at any given time as interesting questions. If archaeological evidence
+2279|plays a significant role in shaping an understanding of the past, the
+2280|study of ontology, in particular of the factors that constrain human
+2281|behavior, will become as – if not more – important than learning
+2282|about epistemology, or the nature of understanding, for the future
+2283|development of our discipline. That would reverse a trend that has
+2284|prevailed since the 1960s or even the 1930s. By learning more about
+2285|how archaeological questions are answered over time, we may hope
+2286|to gain additional insights into the objectivity or subjectivity of
+2287|archaeological interpretations; to what extent archaeology can be
+2288|more than the past relived in the present, in the sense Collingwood
+2289|defined that process; and the degree to which any sort of understand-
+2290|ing can be communicated from one age or culture to another.
+2291|
+2292|
+2293|
+2294|
+2295|                                   39
+2296|
+2297|                                  chapter 2

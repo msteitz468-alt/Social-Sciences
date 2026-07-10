@@ -1,0 +1,46 @@
+---
+title: "Money and Silver in Early Mesopotamia"
+concept_type: analytical
+coined_by: ["[[unknown]]"]
+date_coined: "modern analytic category, applied to 3rd–2nd millennium BCE Mesopotamian evidence"
+disciplines: [archaeology, anthropology]
+emic_or_etic: etic
+operationalized_as: "Polanyi's three currency functions (standard of accounting / medium of exchange / means of payment), tracked across silver, barley, copper, and tin in administrative balance-sheets, loan and sale documents"
+contested: yes
+related_concepts: ["[[temple-economy]]", "[[mesopotamian-trade]]", "[[redistribution]]", "[[reciprocity]]"]
+sources_ingested: 1
+last_updated: 2026-07-10
+tags: [concept]
+---
+
+# Money and Silver in Early Mesopotamia
+
+## Definition as Coined
+
+There was no coinage in Mesopotamia in the period covered by this wiki (c. 3000–1500 BCE) — true coinage was invented in Lydia only in the first millennium BCE. "Money" here is an etic, modern analytic category applied to a pre-coinage economy that nonetheless used weighed silver, and to a lesser extent barley, copper, and tin, to perform functions modern economies assign to currency. [[postgate-early-mesopotamia-1994|Postgate (1994)]] adopts, citing Karl Polanyi, a three-function analytic distinction for currency that he treats as the essential tool for describing this system: (1) **standard of accounting** (a unit in which value is reckoned, whether or not it physically changes hands), (2) **medium of exchange** (something that actually passes between parties in a transaction), and (3) **means of payment** (something used to discharge an obligation, such as a debt or wage). Postgate, following Polanyi, insists these three roles be kept analytically distinct: "the existence of currency in one of them does not necessarily imply its existence in another" (attributed, Postgate 1994).
+
+## Semantic History
+
+Before Postgate's synthesis, Mesopotamian economic historians often assumed a generalized "redistributive" economy (see the temple-economy debate) in which market-style currency use was marginal. Postgate's use of Polanyi's typology instead documents silver functioning in **all three** currency roles by the Ur III period (late 3rd millennium BCE), while stressing that this coexisted with, rather than replaced, reciprocal and redistributive exchange (see [[redistribution]], [[reciprocity]]). The wiki treats the emergence of a fully monetized, coinage-based economy as a later development outside this period's scope; "money" in early Mesopotamia is therefore a bundle of separable functions distributed across several commodities, not a single instrument.
+
+## Operationalizations
+
+- **Standard of accounting**: Ur III merchants' periodic balance-sheets (e.g., the account of the merchant Ur-Dumuzida, Amar-Suen Year 7) assign every incoming good (wool, dates, etc.) a silver-weight value and total them, and price outgoing expenditures (cedar, juniper, cypress, myrtle, oil, bitumen, gypsum) in silver likewise, carrying a running balance forward (attributed, Postgate 1994). Only silver is attested as a full standard of accounting before the Amarna age, when gold begins to serve this role too, probably under Egyptian influence.
+- **Medium of exchange**: silver appears on the "income" side of merchant accounts as capital in its own right, not merely as an accounting fiction (attributed, Postgate 1994).
+- **Means of payment**: sale documents, loan contracts, and administrative texts record straightforward silver payments for goods, services, and laborers' wages (attributed, Postgate 1994).
+- **Conventionalized pre-coinage forms**: Ur III administrative texts attest silver "rings" of standard weights (1–10 shekels, most commonly 5 shekels — one Ur text records the manufacture of 240 five-shekel rings from 20 minas of silver). Archaeological silver spiral rings are attested from Akkad-Dynasty contexts (e.g., Tell Taya, in 1-mina and half-mina examples), coiled so a precise weight could be broken off for a transaction; larger sums may have circulated as ingots, though these are poorly attested archaeologically (attributed, Postgate 1994).
+- **Parallel "currencies"**: barley served much the same function as silver in Old Babylonian times; copper (attested from the Fara period) and tin (used by Old Assyrian merchants in Anatolia) also served as means of payment at conventional exchange ratios. Postgate notes grain is conspicuously absent from merchant "staples" transactions at Larsa and Babylon (unlike wool, dates, fish, sesame, and cattle), speculating this may be because barley was itself too currency-like to be treated as an ordinary marketable commodity, or because it was held back by the palace against famine — this remains undocumented and attributed as Postgate's inference (Postgate 1994). Comparatively, other early civilizations used symbolic currencies before precious-metal money displaced them (cowrie shells in Old Kingdom Egypt and pre-Han China; knives in early China); in northern Mesopotamia precious-metal "axes" and, in Old Assyrian texts, "cups" (kāsum) played a currency-like role that shades into elite reciprocal gift exchange rather than pure commercial currency, becoming more prominent moving away from the commercial south (attributed, Postgate 1994).
+
+## Applications
+
+- **Prices**: royal inscriptions occasionally preserve commodity "cost of living" price lists (e.g., the opening of the Ešnunna law code: 1 gur of barley = 1 shekel of silver; 3 minas of copper = 1 shekel of silver), though Postgate notes such royal proclamations tend to run lower than prices attested in ordinary contemporary documents, suggesting a propagandistic rather than strictly market-real function (attributed, Postgate 1994).
+- **Loans and interest**: standard Old Babylonian loan interest rates were 20% (one-fifth) per annum on silver loans and 33% (one-third) per annum on barley loans, probably codified as fair practice in the Code of Hammurabi. Private loans are not attested in writing before the Akkad Dynasty and are rare in Ur III sources, possibly a documentary-bias artifact rather than evidence of true absence (attributed, Postgate 1994).
+- **Debt-pledge and bondage**: loan security took the form of pledges of individual objects (garments, animals) or of persons and real estate (a debtor could pledge his own son). Defaulted debt-pledges could result in loss of land or self/family sale into servitude or debt-bondage, with the debtor becoming a dependent tenant on land he had formerly owned.
+- **Debt-release edicts**: periodic royal edicts (Akkadian *andurārum*, "freedom of movement"; Sumerian *ama-gi*, "return to mother") cancelled personal debt-enslavement and, later, distressed real-estate transactions. The earliest known attestation is Enmetena of Lagash (pre-Akkad Dynasty), whose edict freed debt-enslaved persons from neighboring city-states (Uruk, Larsa, Bad-tibira), implying cross-frontier debt relations. Ilušuma of Assur similarly claims to have established *andurārum* for "the Akkadians and their children" from Ur, Nippur, Awal, Kismar, and Der. The most fully preserved surviving edict is that of Ammi-ṣaduqa, who explicitly excluded business investments and merchant partnerships from debt cancellation, distinguishing ordinary consumption debt (cancellable) from commercial/investment capital (protected) (attributed, Postgate 1994). Postgate speculates, explicitly as a genealogical/diffusionist hypothesis rather than a demonstrated claim, that this Mesopotamian debt-release tradition — paralleled in the Levant and the Hebrew Bible — "can hardly have failed to influence" Solon's *seisachtheia* in early Classical Greece; this should be read as unproven analogy, not established influence.
+
+## Critiques and Limitations
+
+- **Not coinage.** Every use of "money" for this period is anachronistic shorthand; there is no minted, state-guaranteed, uniform-denomination coin token anywhere in this evidence base. Weighed silver rings and ingots required verification of weight and purity at each transaction.
+- **Functions are separable and should not be conflated.** Following Polanyi and Postgate, a commodity attested as a standard of accounting is not thereby shown to have circulated as a medium of exchange, and vice versa; the wiki should not silently promote one attested function to imply the others.
+- **The "pure redistribution" objection.** Postgate frames silver's monetary functions as evidence against treating the early Mesopotamian economy as governed solely by temple/palace redistribution (see the temple-economy debate on [[temple-economy]]) — reciprocal, redistributive, and commercial modes of exchange coexisted, and "one of the complexities of early Mesopotamian society is precisely the co-existence of these three modes and their variations" (attributed, Postgate 1994). This is Postgate's own calibrated position, not a resolved consensus.
+- **Sample and genre bias.** Most surviving quantitative price and interest data derive from institutional (temple/palace/merchant) archives and royal inscriptions, which may not represent ordinary household-level exchange; royal price proclamations are explicitly noted by Postgate as running below attested real prices.

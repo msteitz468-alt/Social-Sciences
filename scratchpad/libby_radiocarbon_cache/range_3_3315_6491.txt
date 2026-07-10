@@ -1,0 +1,3177 @@
+                       RADIOCARBON DATES”
+ he           dates obtained prior to the fall of 1954 by the radio-
+         carbon technique are listed below. The number of runs is
+         indicated by the number of dates listed. These runs were
+completely independent, involving separate portions of the original -
+semple from which the carbon had been extracted independently,
+unless the dates are linked together with a brace. In this case, the
+results are those obtained by remeasurement of a given sample,
+usually in a different counter, and frequently involving re-extraction
+of the sample with acid. The standard counting time for a given
+run has been limited to 48 hours in order to accommodate the num-
+ber of samples necessary to the over-all check of the method, which
+was the main purpose of this research. The errors given are standard
+deviations, consisting solely of the error of counting random events.
+   The archeological and geological significance of these results have
+been or will be discussed by the donors of the samples, collaborators,
+and the advisory committee in articles in appropriate journals.’ We
+wish to express our gratitude to Frederick Johnson, Donald Collier,
+Richard Foster Flint, and Froelich Rainey, the members of the
+Committee on Carbon 14 of the American Anthropological Associa-
+tion and the Geological Society of America, for their indispensable
+direction and assistance throughout this research.
+   The numbering of the samples and the names we have used (which
+appear in parentheses when two names are given) are entirely our
+own and not those of the donors or collaborators. In many instances
+more appropriate names assigned by Mr. Johnson are given before
+the parentheses. The records on the samples are so extensive and so
+intimately tied to the sample names as well as to the numbers that
+we feel obliged to include our name as well as the number, though
+it may be misleading in many cases. The carbon for each of the
+samples listed is on file and available for check measurements, to-
+gether in many instances with portions of the original materials.
+   * See Addendum to Chapter VI, p. x above.
+   1. See, e.g., Radiocarbon Dating, assembled by Frederick Johnson   (“Society for
+American Archaeology Memoir,” No. 8 [July, 1951).
+                                       76
+                           RADIOCARBON           DATES                             77
+
+                 I. MESOPOTAMIA           AND    WESTERN     ASIA
+           (Principal collaborators: R. J. BRAipwoop, T. JACOBSEN
+                 RIcHARD A. PARKER, AND SAUL WEINBERG)
+
+                                   A. EGYPT
+Our
+No.                              Sample                              Age (Years)
+ C-1    Zoser: Acacia wood beam in excellent state of preser-           3699 +770
+        vation from tomb of Zoser at Sakkara. Known age                 4234 + 600
+        4650 +75 years according to John Wilson. Submitted              3991 +500
+        by Ambrose Lansing, Metropolitan Museum.                    Av. 3979 +350
+ C-12   Sneferu: Cypress beam from tomb of Sneferu at Mey-              4721 +500
+        dum. Known age 4575 +75 according to John Wilson.               4186 +500
+        Submitted by Froelich Rainey, University of Penn-               5548 +500
+        sylvania Museum.                                                4817 +240
+                                                                    Av. 4802 +210
+ C-81   Sesostris: Wood from deck of funerary ship from tomb            3845 + 400
+        of Sesostris III. Known age 3750 according to John              3407 +500
+        Wilson. Submitted by Colonel C. C. Gregg, Chicago               3642 +310
+        Natural History Museum.                                     Av. 3621 + 180
+ C-62   Ptolemy: Wood from mummiform coffin from Egyp-                  2190 +450
+        tian Ptolemaic period. Known age 2280 according to
+        John Wilson. Submitted by John Wilson and Watson
+        Boyes, Oriental Institute, University of Chicago.
+C-267   Hemaka: Slab of wood from roof beam of tomb of                 14803 +260
+        Vizier Hemaka, contemporaneous with King Udimu,                 4961 +240
+        First Dynasty, at Sakkara. Accepted age 4700-5100            Av. 4883 +20
+        according to R. J. Braidwood. Sample submitted by
+        W. B. Emery, % British Embassy, Cairo.
+C-463   Middle    Predynastic   (Predynastic):   Charcoal   from        5256
+                                                                          + 230
+        point ‘‘A-15” of the house floors (fonds de cabanes) at
+        El Omari near Cairo, Egypt. A typological assess-
+        ment of the position of El Omari would be ca. mid-
+        way between the time of the Upper K pits of the Fa-
+        yum (Nos. C-457, C-550, and C-551) and Hemaka
+        (No. C-267). Submitted by Fernand de Bono, Service
+        des Antiquités de l’Egypte, Cairo.
+C-457   Fayum A (Upper K): Wheat and barley grain uncar-               16054 + 330
+        bonized with no preservatives added, from Upper K               6136 +320
+        Pit 13 of the Fayum A material as described in The          Av. 6095 +250
+        Desert Fayum by Gertrude Caton-Thompson. Sub-
+        mitted by Miss Caton-Thompson of Cambridge and
+        Mrs. Elise Baumgartel of the Museum of the Uni-
+        versity of Manchester.
+C-550   Fayum A (Upper K): Wheat and barley grain from                  6391 +180
+C-551   Upper K Pit 59, Jar 3, and another of the Upper K
+        pits (number lost) of the Fayum A material as de-
+78                       RADIOCARBON         DATING
+ Our
+ No.                           Sample                            Age (Years)
+        scribed in The Desert Fayum. Submitted by Miss
+        Caton-Thompson and Mrs. Elise Baumgartel.
+C-753   Shaheinab near Khartoum, Sudan: This ancient site
+C-754   may be the clue as to whether some elements in
+        Egyptian civilization came from Africa northward.
+        The site is about 1200 miles from the Egyptian Fa-
+        yum (Nos. C-457, C-550, C-551—the Egyptian gran-
+        aries, which dated 6240 years); and the archeological
+        connection with the Fayum Neolithic is close. Col-
+        lected in 1949 by A. J. Arkell, Department of Egyp-
+        tology, University College, London. Submitted by
+        R. J. Braidwood, Oriental Institute, University of
+        Chicago.
+        C-753      Shaheinab Charcoal: Two lots, one marked        5060 +450
+                   ‘N80, 20-40” and the other ‘‘066(5).”
+        C-754      Shaheinab Shell: Bivalve shells from Sha-       5446 + 380
+                   heinab, apparently in fairly unaltered con-
+                   dition,
+C-810   Nagada (Predynastic Hair I): Human hair weighing           5744 +300
+        about 3 ounces, found in a cemetery at Nagada in
+        southern Egypt in 1896. This material belongs to:
+        Predynastic Egypt, that is, is older than about 5000
+        years. The British archeologist W. Flinders Petrie
+        constructed a scheme of what he called “Sequence
+        Dates,” on the basis of changing pottery styles, di-
+        viding the Predynastic period of Egypt into eighty
+        Sequence Dates. This sample consisted about half of
+        material from Grave 1592 with a Sequence Date of
+        34; one-quarter from Grave 1487 with a Sequence
+        Date of 38; and the rest from Graves 1562 (Sequence
+        Date 35) and 1816 (Sequence Date 35). Submitted
+        by Miss Margaret Armit, Department of Archaeology
+        and Ethnology, Cambridge University, England.
+C-811   Nagada (Predynastic Hair IT): Human hair weighing          5619 +280
+        about 3 ounce found in a cemetery at Nagada in
+        southern Egypt in 1896. This material belongs to
+        Predynastic Egypt, and it is older than about 5000
+        years. The British archeologist W. Flinders Petrie
+        constructed a scheme of what he called “‘Sequence
+        Dates” on the basis of changing pottery styles,
+        dividing the Predynastic period into eighty Sequence
+        Dates. About one-third of this sample consisted of
+        material from Grave 1401 (Sequence Date 42), one-
+        third from Grave 1863 (Sequence Date 46), one-
+        third from Grave 1410 (Sequence Dates 36-44),
+        and a small amount (3 gram) from Grave 1729 (Se-
+                          RADIOCARBON          DATES                                79
+Our
+No.                           Sample                                Age (Years)
+        quence Date 40). These samples, as well as C-810,
+        C-812, C-813, and C-814, all came from Petrie’s
+        excavations at Nagada. They were taken from the
+        Flinders Petrie Collection at University College.
+        Submitted by Margaret Armit.
+C-812   Nagada II (Predynastic Hair ITI): Human hair and              5020 +290
+        skin from Grave T.56, dated by Elise Baumgartel
+        generally as ““Nagada IT.”’ Weight 45.5 grams, includ-
+        ing about 20 grams of human skin. Submitted by
+        Margaret Armit.
+C-813   Nagada IT (Predynastic-Hair IV): Twenty grams of              4720 +310
+        hair from Grave 733 (Sequence Dates 58-67) and 5
+        grams of hair from Grave 1349 (Sequence Dates 58-
+        67). Both portions were used. Submitted by Margaret
+        Armit.
+C-814   Nagada (Predynastic Skin): Human skin weighing                 wnn   77 He +300
+        about 2 ounces, found in a cemetery at Nagada in
+        southern Egypt in 1896, as in the case of No. C-810.
+        This material came from Grave 1609 (Sequence
+        Dates 34-38). Submitted by Margaret Armit.
+
+                                  B. TURKEY
+C-115   Alishar III (Alishar): Wood from the foundation                3650 +350
+        cribbing for a fortification wall in Square 0-10 in            2823+ 350
+        levels assigned to Period III, ‘““Early Bronze Age,”       Av. 3212 +250
+        in the mound at Alishar Huyuh by the excavator,
+        H. H. von der Osten. Reference: ‘‘Oriental Institute
+        Publications,” 28, 209-10; Figure 207. Submitted by
+        R. J. Braidwood.
+C-183   Alishar Chalcolithic: Wood from Level 14 in the cen-          4519 +250
+        tral depth cut Square L-14, Alishar Huyuh. The ex-
+        cavators counted Levels    19 through 13 as ‘“‘Chalco-
+        lithic.”” Reference: ‘‘Oriental Institute Publications,”
+        Vol. 28. Submitted by R. J. Braidwood.
+
+                                    (C., PIV      oR,
+C-113   Jarmo: Land-snail shells fairly well preserved from            6707 +320
+        the basal Levels 7 and 8 at Jarmo. Earliest village
+        material in western Asia. The basal levels are pre-
+        ceramic. Excavated and submitted by R. J. Braid-
+        wood.                                            :
+C-742   Jarmo, Irag (Jarmo II): Jarmo is an early village              6606 +330
+        site in the /iwa of Kirkuk, Iraq, midway between the
+        towns of Kirkuk and Sulimaniyah. This-site is early
+        Neolithic and exhibits the earliest traces of an es-
+        tablished food-producing village economy in the
+80                        RADIOCARBON          DATING
+ Our
+ No.                             Sample                              Age (Years)
+        “nuclear” Near East. Only the upper third of the
+        site yielded portable pottery, but there was a well-
+        established architectural manifestation throughout
+        the 7.10 meters of depth and traces of about a dozen
+        “floors”? or building renovations. An excavation la-
+        beled ‘‘T’’ was made clear to virgin soil near one edge
+        of the mound. Eight floors were found. A second exca-
+        vation, labeled “‘II,’’ was made at the highest point.
+        This went down 4 meters through the sixth floor,
+        which is still 3.2 meters above virgin soil. The sixth
+        floor of II is equivalent to the third floor of I, and the
+        second floor of II is equivalent to the first floor of I.
+        The earlier Jarmo sample (No. C-113), consisting of
+        shell, came from the seventh floor of I. It dated at
+        6707 +320 years. The present sample, consisting of
+        flecks of charcoal collected by the pickmen as they
+        cleared the levels, came from the same spot as the
+        earlier shell sample. Especially for the deep floors,
+        such as the seventh, the character of the fine-grained
+        touf debris and of the touf walls themselves was such
+        as to give absolute confidence in the undisturbed
+        nature of the locality. Collected and submitted by
+        R. J. Braidwood.
+C-743   Jarmo, Iraq (Jarmo III): Charcoal from the fifth                6695 +360
+        floor of excavation II (see Nos. C-742 and C-113).
+        Submitted by R. J. Braidwood.
+C-744   Jarmo (Jarmo IV): Jarmo isan early village site in the          5266 +450
+        liwa of Kirkuk, Iraq, midway between the towns of
+        Kirkuk and Sulimaniyah. This site is early Neolithic
+        and exhibits the earliest traces of an established food-
+        producing village economy in the “nuclear’’ Near
+        East. Only the upper third of the site yielded portable
+        pottery, but there was a well-established architectur-
+        al manifestation throughout the 7.10 meters of depth,
+        and there were traces of about a dozen ‘‘floors” or
+        building renovations. An excavation labeled “I” was
+        made clear to virgin soil near one edge of the mound.
+        A second excavation, labeled “‘II,’’ was made from
+        the highest point. This went down 4 meters through
+        the sixth floor, which is still 3.2 meters above virgin
+        soil. The sixth floor of II is equivalent to the third
+        floor of I, and the second floor of II is equivalent to
+        the first floor of I. The earlier Jarmo sample (No.
+        C-113), consisting of shell, came from the seventh
+        floor of I. It dated 6707+320 years. The present
+        sample, consisting of flecks of charcoal collected by
+        the pickmen as they cleared the levels, came from
+                           RADIOCARBON          DATES                               81
+ Our
+ No.                              Sample                              Age (Years)
+        J-II—2 and J-II—2d floor. This material was high
+        in the mound and near the surface. Collected and sub-
+        mitted by R. J. Braidwood.
+C-752   Nippur (Nippur I, II, ITT): In the case of this sample          3945 +106
+        a serious attempt was made to test the limit of sensi-
+        tivity of the radiocarbon dating method. An im-
+        portant subject, the time of Hammurabi of Babylon,
+        was selected, and the sample, which consisted of a
+        charcoal beam from the roof of a house definitely
+        fixed in the Hammurabian calendar, was divided into
+        three equal portions and each portion measured as a
+        separate   individual   for nearly   1 month    of steady
+        counting time. The total time of 3 months spent in
+        this investigation we hope has served to establish the
+        true limiting accuracy     of the method       as now   de-
+        veloped.
+           The dating of the time of Hammurabi of Babylon
+        is approached by dating the associated kings Ibi-Sin
+        and Shu-Sin, who lived about 250 years before Ham-
+        murabi, but at a time accurately known on the Baby-
+        lonian calendar. Hence a date for Ibi-Sin or Shu-
+        Sin correspondingly fixes the date of accession of
+        Hammurabi. The material used was charcoal which
+        was excavated in Nippur by Donald E. McCown,
+        of the Oriental Institute, University of Chicago,
+        in March, 1950, at Area TB, Locus 195, Level
+        IV, Floor 2. The charcoal came from a roof beam of
+        a house of Level IV, Floor 2. The archeological situa-
+        tion of dated tablets makes it highly probable that
+        this building was constructed not later than Year 3 of
+        Ibi-Sin or earlier than Year 1 of Shu-Sin (a range of
+        12 years).
+           The point at issue chronologically is that, while
+        the Mesopotamian king list on the Babylonian cal-
+        endar is internally reliable, it is in itself a floating
+        chronology, Hence, for example, the dates for the ac-
+        cession of Hammurabi of Babylon as currently given
+        by various authors cover a range of at least 350 years.
+        The date is thought to be important historically not
+        only for strictly Mesopotamian problems but for the
+        whole interwoven fabric of historic interrelationships
+        of western Asia and Egypt in the early part of the
+        second millennium B.c.
+           The results for the three portions of charcoal were
+        4.029 +0.05, 4.085 + 0.07, and 4.156 +0.13 counts per
+        minute. Modern wood gives 6.68 counts per minute.
+        The question one considers first is whether the three
+82                       RADIOCARBON         DATING
+ Our
+ No.                           Sample                             Age (Yeas)
+        determinations agree within the counting errors, for
+        the errors indicated above are calculated solely on
+        the basis of the square root of the total number of
+        counts taken, this being the standard deviation
+        within which the true value has a two-thirds proba-
+        bility of being found. It certainly is a minimum error.
+        These are the errors quoted above. It does seem that
+        the three determinations do agree within their indi-
+        vidual counting errors and that therefore the samples
+        are uncontaminated by extraneous radioactivity. If
+        one were certain that the errors lay principally in the
+        counting, the mean of the three determinations
+        should be taken by using the inverse square of the
+        counting errors as weighting factors. The weighted
+        average taken in this way is 4.060 +0.042, for an age
+        of 4004 years+106 years, or 2052+106 B.c. It is
+        probably better, however, to take the arithmetical
+        average, since there are undoubtedly other errors
+        than the counting errors. The arithmetical average
+        is 4.090 +0.04. In striking this average, we use the
+        same calculation for the error used for the weighted
+        average, since the errors quoted throughout are de-
+        termined solely by the counting error. The latter
+        mean corresponds to an age of 3945 +106 years, or
+        1993+106 B.c. The error 0.04 corresponds to 80
+        years in itself, but an estimated 0.54 per cent error
+        in the half-life of radiocarbon and 0.67 per cent in
+        the assay -of modern wood must be included. Com-
+        bining, we obtain 106 years. Our conclusion is that
+        this sample of charcoal came from wood which was
+        cut or ceased to live about 3945 years ago. More
+        definitely, we conclude that for two chances out of
+        three it died between 2100 and 1887 B.c. and that for
+        nineteen chances out of twenty it died between 2205
+        and 1781 B.c. Since the allowable range from other
+        evidence seems to be 2374-1975 B.c., we conclude that
+        the younger of the possible calendars is strongly
+        favored by the radiocarbon dating. The odds against
+        a result 130 years higher than the mean are about
+        nine to one. Sample submitted by Donald E. Mc-
+        Cown, Oriental Institute, University of Chicago.
+C-817   Tepe Gawra Ash (Tepe Gawra): The sample of ash               lei +350
+        was taken from the trench face of the Tepe Gawra              5100 + 800
+        site in the spring of 1951 at a level 2 meters above      Av. 5400+ 325
+        the apparent greatest depth in the low central opera-
+        tion. A fragmentary Ubaid painted jar was in con-
+        tact with the hearth which yielded this ash (cf.
+                            RADIOCARBON          DATES                                83
+~ Our
+  No.                            Sample                                 Age (Years)
+        Tobler,   Excavations   at Tepe   Gawra,    Vol.    2, Pls.
+        XVII-XIX). Level 19 is the deepest in the area; a
+        point 2 meters above this would fall above the floor
+        of Level 18, but certainly not higher than Level 17. It
+        is certain that the sample came from between Floors
+        17 and 18.
+           A date for this level would give the point at which
+        the Ubaid period took on its first flourish in northern
+        Iraq. This is of importance, because the change in-
+        volved was one from peasant villages to market towns
+        with temples; it would lead to new understanding of
+        the general rate of acceleration of cultural growth at
+        a critical point. Collected and submitted by Mr. and
+        Mrs. R. J. Braidwood.
+C-818   Hazer Merd: Charcoal ash sample from the ‘“‘Mous-                 Older than
+        terian”’ level of the Hazer Merd cave in Sulimaniyah,                  25,000
+        Iraq. This cave was excavated by Miss Dorothy Gar-
+        rod in 1928 (Bull. Am. School Prehist. Research, 6,
+        24-37. [1930]). The sample was collected by Mrs.
+        R. J. Braidwood and Bruce Howe in April, 1951,
+        from Layer C of the exposed trench face which still
+        showed the dark ash lines shown in Miss Garrod’s
+        published section. One of these ash lines was cleaned
+        and the sample taken from it. Submitted by R. J.
+        Braidwood.
+                                    D. Syria
+        Tayinat: Wood from the floor of a central room (I-J—               2696 +270
+        ist) ina large Hilani (‘‘palace”’) of the ““Syro-Hittite”          2648 +270
+        period in the city of Tayinat in northwest Syria.                  2239 +270
+        Known age 2625 + 50 years according to R. J. Braid-            Av. 2531 +150
+        wood. Submitted by R. J. Braidwood.
+
+                                     FE. IRAN
+C-492   Belt Cave (Ghar-i-Kamarband): Five miles west of
+C-547   Behshahr at the southeast corner of the Caspian Sea;
+C-525   stratified cultural deposit 4.05 meters thick contain-
+C-574   ing from, bottom to top, Mesolithic, late Mesolithic,
+C-524   Neolithic, late Neolithic, and Bronze Age materials.
+C-494   The samples were burned bone which were treated by
+C-495   dissolving in hydrochloric acid to separate the charred
+C-523   carbon, which was measured. This material was col-
+        lected and submitted by Carleton S. Coon, Univer-
+        sity of Pennsylvania Museum. Five samples were
+        measured:
+        C-492     Lowest   gray soil with Mesolithic       artifacts      8004+ 415
+        C-547     3.00-4.05 meters (Levels 21-28).
+84                        RADIOCARBON           DATING
+ Our
+ No.                             Sample                               Age (Years)
+        C-525    Supposedly from the same levels as No.                }1130 +300
+                 C-574. Comment: looks intrusive or altered.             1260 +430
+        C-574   Zone containing Upper Mesolithic artifacts,              8545 +500
+                1.25-2.15 meters deep (Layers 15 and 16).
+        C-524   Mesolithic-Neolithic      transition at 1.25-1.40      10,560 + 610
+                meters (Layer 10).
+        C-494   Zone containing flint blades of pottery sherds           8085 +720
+        C-495   of Neolithic type.
+        C-523
+                                F. PALESTINE
+C-576   Bible: Dead Sea scrolls. Book of Isaiah. Linen wrap-             1917 +200
+        pings used. Found in cave near Ain Fashkha in Pales-
+        tine by Pére de Vaux (OP) under supervision by G.
+        Lankester Harding, curator of Department of An-
+        tiquities of the Jordan Government. Thought to be
+        first or second century B.c. Brought for test by James
+        L. Kelso at suggestion of Ovid R. Sellers and with
+        permission af Mr. Harding. Submitted directly by
+        C. H. Kraeling, Oriental Institute, University of Chi-
+        cago.
+C-919   Beer-Sheba (Beer-Sheba): Charcoal from the lowest                7420 +520
+        of three strata of a ‘“‘chalcolithic”’ site at Khirbet el-
+        Bitar, near Beer-Sheba, in Israel. The two overlying
+        strata both contained architecture, and there is no
+        hint of intrusion. The sample was associated with
+        potsherds, and Ben-Dor writes that ‘‘this culture is
+        supposed to be akin to the so-called ‘Ghassulian’ cul-
+        ture of eastern Palestine.’”? The “‘Ghassulian”’ is an
+        assemblage for which dates have been assigned which
+        vary over several thousand years. It would be a use-
+        ful check point not only for our understanding of
+        Palestine but also in terms of the general comparative
+        archeology of the Near East. Submitted by R. J.
+        Braidwood.
+                               G. AFGHANISTAN
+C-815   Mundigak (Afghanistan Bronze Age): Charcoal from                 4720 +270
+        the prehistoric site of Mundigak in the province of              4439 + 280
+        Kandahar, excavated by the expedition headed by              Av. 4580 +200
+        M. J. M. Casal. Came from Layer 23, which is cer-
+        tainly at the very beginning of the Bronze Age and
+        possibly a little earlier. The Afghanistan chronology
+        is unknown prior to the Hellenistic contact (Alex-
+        ander the Great). The painted pottery of the basal
+        levels is similar to the late prehistoric pottery of Iran
+        in a general way. A date for this material would add
+                          RADIOCARBON          DATES                               85
+‘Our
+ No.                            Sample                               Age (Years)
+        to the general understanding of the area itself, which
+        is otherwise undatable, and to a better grasp of Near
+        East—Indus Valley relationships, which will probably
+        be cleared up best by understanding the intervening
+        regions of Baluchistan and Afghanistan. Submitted
+        by Daniel Schlumberger, director of the French
+        Archacological Expedition in Afghanistan, Kabul,
+        Afghanistan.
+                                 H. LEBANON
+C-819   Byblos: Wood from a house in the ancient Lebanese              5317 +300
+        city of Byblos. This sample comes from a level
+        identified as ‘‘First Urban Installation” of Byblos,
+        which is to be taken as being roughly equivalent
+        to what is called the ‘‘Early Bronze Age I” in Pales-
+        tine, which should be about the time of the late Pre-
+        dynastic-early Dynasty I of Egypt. The port of
+        Byblos was probably an important trading center
+        at that time. There is evidence of trade contact be-
+        tween Egypt and Syria. This material is expected to
+        be roughly contemporaneous with No. C-627, Hema-
+        ka, which dated 4883+200. Submitted by M. A.
+        Dunand, French Embassy, Beirut, Lebanan, through
+        R. J. Braidwood.
+
+                           Il. WESTERN       EUROPE
+        (Principal collaborators: H. L. Movtius, Jr., FE. S. DEEVEY, Jr.,
+                                  AND R. F. Frnt)
+
+                                  A. FRANCE
+C-406   Lascaux: Charcoal from the Lascaux cave near Mon-             15,516 +900
+        tignac northeast of Les Eyzies in the Dordogne. This
+        cave has the remarkable paintings. The charcoal was
+        taken from the occupation level in the northwestern
+        portion of the cave by Abbé H. Breuil and M. Severin
+        Blanc in 1949. Submitted by H. L. Movius, Jr., Har-
+        vard University.
+C-577   France: Material from a late Upper Paleolithic (Mag-          11,109 +480
+        dalenian) occupation layer overlain by 1.5—2.0 meters
+        of rock fall. Collected in and around a hearth which
+        measured 60 cm. in diameter and 10 cm. in thickness
+        at the center. Found at La Garenne, St.-Marcel (In-
+        dre), France. This sample consisted of 1500 grams of
+        burned bone from which sufficient organic material
+        was obtained by acid dissolution of the-bone. Sub-
+        mitted by Dr. J. Allain, 34, Avenue Thabaud-Bois-
+86                        RADIOCARBON         DATING
+ Our
+ No.                            Sample                               Age (Years)
+        lareine, Neuvy-St.-Sépulchre (Indre), France, through
+        H. L. Movius, Jr.
+C-578   France II: Same as No. C-577, except that it con-            15,847 + 1200
+        sisted of an ashy material with sand, charcoal, and
+        burned bones.
+C-579   France III: Same as Nos. C-577 and C-578, except              12,986 +560
+        found outside the hearth but in same horizon. Burned
+        bone.
+C-588   Lake Bourget: Lake Bourget wood and peat samples           At least 21,000
+        taken along road between Chambéry and Grenoble in
+        southeastern France. Should be interglacial or inter-
+        stadial. This sample was wood from 2 inches above
+        base of Level 3d, the lowest lignite bed in the exposure
+        between La Flachére and La Brussére (Isére). Do-
+        nor’s sample No. 1. Submitted by H. L. Movius, Jr.
+C-595   Geneva: Wood from peat bed in Dranse Valley east of        At least 19,000
+        Geneva and south of Lake Geneva in France rather
+        than Switzerland. Submitted by H. L. Movius, Jr.
+
+                                 B. GERMANY
+C-337   German Alleréd: Peat with birch remains from Pollen           11,044 +500
+        Zone IIb, the younger Alleréd, from Wallensen im
+        Hils, northwestern Germany. Submitted by F. Fir-
+        bas, Gottingen.
+C-450   Grenz Horiszant Peat (Overbeck Peat): Peat      (Grenz        11446 +250
+        Horizant)- from an accurately dated (1500-2700                 1452 +290
+        years) dry period extending throughout northern            Av. 1449 +200
+        Europe and associated with archeological remains.
+        This sample was taken carefully from 0 to 2 cm. below
+        the dry horizon at Melhack, Germany, Submitted by
+        F. Overbeck, University of Bonn.
+C-449   Grenz Horizant Peat (Overbeck Top): Peat from 0 to 2           11294115
+        cm. above the dry horizon described in No. C-450.
+        Submitted by F. Overbeck.
+
+                                C. DENMARK
+C-432   Danish Boreal (Danish Boreal IT): Pine cones from              7583 + 380
+        Denmark (Seeland, Aamosen; Ogaarde-K, P® 1949).
+        They are from Pollen Zone V thought to be 8500
+        years old. Submitted by J. Troels-Smith, National
+        Museum, Copenhagen,
+C-433   Danish Boreal (Boreal IV): Hazelnuts from Denmark             a +440
+        (Seeland, Aamosen; Kildegaard-K, Ul. @, House 1).              9927 +830
+        The nuts are from one single summer dwelling, be-          Av, 9931 +350
+                         RADIOCARBON        DATES                            87
+
+
+                              Sample                           Age (Years)
+        longing to the late boreal age, Pollen Zone VI,
+        thought to be about 8000 years old. Submitted by J.
+        Troels-Smith.
+C-434   Danish Boreal (Danish Boreal III): Charcoal from         8631 + 540
+        the same summer house as No. C-433. Expected age
+        about 8000 years. Submitted by J. Troels-Smith.
+C-435   Danish Boreal (Danish House): Birchwood from the         9425 +470
+        same area as Nos. C-433 and C-434. From House 2.
+        Probably a few years younger than House 1. Sub-
+        mitted by J. Troels-Smith. Comment: Seems to agree
+        with No. C-433 and possibly No. C-434, giving a
+        general mean of 9479 +280 years.
+
+                                D. [IRELAND
+C-358   Trish Boreal (Boreal IT): Peat from Clonsast, County     $824 + 300
+        Offaly, Ireland. Late Boreal Zone VIc. Should be
+        later than Danish No. C-432 and earlier than Eng-
+        lish No. C-343. Donor’s sample No. I-D. Submitted
+        by G. F. Mitchell, Trinity College, Dublin.
+C-355   Irish Mud: Lake mud from Knocknacran, County            11,310 +720
+        Monaghan, Ireland. Late Glacial, Pollen Zone II.
+        Donor’s sample No. I-A. Submitted by G. F. Mitch-
+        ell.
+C-356   Trish Postglacial: Lake mud, Lagore, County Meath.      11,787 + 700
+        Early Postglacial, Zone IV. Donor’s sample No. I-B.
+        Submitted by G. F. Mitchell.
+C-877   Trish Cooking Place (Irish I): Samples of oak wood       3506 + 230
+        (Quercus) from an ancient Irish cooking place at
+        Killeens, County Cork. This is site No. 1. Submitted
+        by M. J. O’Kelly, Cork Publick Museum, Fitzerald
+        Park, Cork, and Eamon de Valera, Dublin.
+C-878   Trish Cooking Place (Irish II): Oak wood as from an      3713 +270
+        ancient Irish cooking place at Killeens, site No. 2.
+        Submitted by M. J. O’Kelly and Eamon de Valera.
+
+                               E. ENGLAND
+C-461   Beeswax: Lump of beeswax associated with a smith’s        1712 +200
+        hoard of late Bronze Age objects of estimated 2500—        926 +230
+        3000 years age. Question is whether it is part of      Av. 819 +160
+        hoard or not. Submitted by J. W. Brailsford, British
+        Museum. Comment: Is not part of hoard; it is young-
+        er.
+C-347   Shapwick (Shapwick Peat): Modified humified peat          3099 + 250
+        (Sphagnum-Calluna) from mid-Iron Age to Romano-           3520 +300
+88                        RADIOCARBON          DATING
+ Our
+ No.                             Sample                  :            Age (Years)
+         British period from Shapwick Heath, Somerset. Pol-         Av. 3310 +200
+         len Zone VIII. Upper Oligotrophic layer; decay pool
+         wood; cf. S.H.6. Submitted by H. Godwin, Cam-
+         bridge, England.
+C-343    Shapwick (Shapwick Atlantic): Humified Sphagnum-               6044 + 380
+         Calluna peat of Neolithic age, early Pollen Zone VII,
+         taken from 6 feet 8 inches to 7 feet at base of old peat
+         at Dewar’s track excavation. Submitted by H. God-
+         win.
+C-462    English Neolithic (Mesolithic): Piece of charred wood          4964 + 300
+         from the lakeside settlement at Ehenside Tarn, Cum-
+         berland. Neolithic ‘“‘A’”’ materia]. Conventional dat-
+         ing is 4000 years (cf. Archaeologia, 44, 280). One
+         of rare cases in England where organic material has
+         been preserved in association with characteristic Ne-
+         olithic material. Submitted by J. W. Brailsford.
+C-353    Starr Carr: Wooden platform from Mesolithic site at           10,167 +560
+         Lake Pickering, Starr Carr, Yorkshire. Pollen Zone              8808 +490
+         IV. Submitted by H. Godwin.                                Ao. 9488 +350
+C-340    Postglacial (Postglacial I): Peat from Hawks Tor,             18011 +400
+         Cornwall. Pollen Zone IV, early Postglacial. Collect-          8540 +780
+         ed from 7 feet to 7 feet 4 inches at Site 1 at base of     Av, 8275 +350
+         upper peat. Submitted by H. Godwin.
+C-349    Hockham Mere, England (English Alleréd): Calcare-             be. +380
+         ous silty neckron mud from 790 to 825 cm. at D.B. 5,           6491 +420
+         Hockham Mere, Norfolk. Late Glacial, Pollen Zones          Av, 6555 +280
+         II and III. Submitted by H. Godwin.
+C-444    Neasham, England (Godwin): Lake mud from Nea-                10,851 +630
+         sham near Darlington in the Extreme north of Eng-
+         land. Pollen Zone II, correlated directly with last
+         glacial stage. Submitted by H. Godwin.
+C-341    Hawks Tor, England (Alleréd I): Peat from Hawks                9861 + 500
+         Tor, Cornwall. Late Glacial, Pollen Zone II, 9 feet to
+         9 feet 4 inches at Site 1, middle of lower peat. Sub-
+         mitted by H. Godwin.
+C-479    Ponders End: Plant debris from Lea Valley Arctic               Older than
+         Bed north of London at Ponders End. Glacial stage                   20,000
+         associated with mammoth, lemming, and arctic
+         plants. Submitted by H. Godwin.
+C-480    Cambridge, England (Cambridge Interglacial): Oak           At least 17,000
+         wood debris from Histon Road, Cambridge. Middle
+         of last interglacial, time of maximum extension of the
+         Eem Sea. Submitted by H. Godwin.           :
+ C-602   Stonehenge: Charcoal sample from Stonehenge, Wilt-             3798 +275
+         shire, England. Taken from Hole 32 of a series of
+                          RADIOCARBON          DATES                               89
+) Our
+                                Sample                               Age (Years)
+        holes that are believed to have been used for some
+        sort of ritual. These holes belong to the first phase of
+        the monument and are considered to be late Neo-
+        lithic. Submitted by Professor Stuart Piggott, Uni-
+        versity of Edinburgh.
+
+                              F, NETHERLANDS
+C-627   Dutch Prehistoric: Charcoal and wood samples cover-
+C-623   ing a considerable range in the chronologic column
+C-621   of the Netherlands beginning in the Mesolithic (No.
+        C-627). Submitted    by A. E. van     Giffen, director,
+        Biological-Archaeological Institute, Groningen.
+        C-627   Dutch I: Charcoal from Mesolithic site in the           7965 +370
+                Netherlands. Donor’s label: ‘‘Haule I Fr.
+                Mesolithic, Netherlands, ca. 5000 B.c.”’ Do-
+                nor’s sample No. A.
+        C-623   Dutch Bronze Age: Charcoal from Province of             2523 + 200
+                Drente, thought to be of Bronze Age. Do-                2602 +290
+                nor’s label: ‘“Oudemolen, Comm. Vries, Prov.       ‘Av. 2562 £175
+                Drenthe,     Tumulus     3. 2-period-barrow.
+                Bronze Age.’”’ Donor’s sample No. 15.
+        C-621   Groningen: Wood from round church at St.               2222 +200
+                Walburg in tower of Groningen. Piece of
+                wooden post. Earliest ecclesiastical con-
+                struction at St. Walburg can be dated to the
+                third century A.D. at the latest. Possibly some
+                buildings existed on this site as early as the
+                second century; it is important to know
+                whether such structural features are actually
+                associated with early churches in the Nether-
+                lands.
+
+                                  G. ICELAND.
+C-749   History of the Geomagnetic Field, Reykjavik, Iceland           5300 + 340
+        (Iceland Peat): The direction of the earth’s magnetic
+        field is recorded by solidifying lavas, as of the time
+        of solidification, by the permanent polarization of
+        the lava. Near Ellidhad Bridge, Reykjavik, a lava
+        flow occurs with polarization roughly parallel to the
+        present geomagnetic field. It happened to flow over
+        postglacial peat, which constitutes the sample. Its
+        date correlates directly with that of the flow. Sub-
+        mitted by B. C. Browne and J. Hospers, Department
+        of Geodesy and Geophysics, Cambridge ‘University,
+        England.
+90                         RADIOCARBON            DATING
+
+                      III. UNITED      STATES     AND        CANADA
+     (Principal collaborators: E. S. DEEVEY, Jr., R. F. Frrnt, J. B. Grrrrin
+        R. F. HE1zer, F. Jounson, F. H. H. RoBerts, anp W. S. WEBB)
+
+                       A. NEw     ENGLAND        AND     CANADA
+ Our
+ No.                              Sample                                Age (Years)
+C-417    Boylston Street Fishweir (Fishweir I): Peat from Boyl-            5717 +500
+         ston Street Fishweir site. Lower peat underlving the
+         fishweir. Presumably the fishweir should be younger
+         (cf. The Boylston Street Fishweir IT [‘‘Papers of the
+         Peabody Foundation,” Vol. 4, No. 1], pp. 60, 65,
+         68). Submitted by E. S. Barghoorn, Biological Labo-
+         ratories, Harvard University.
+C-418    Boylston Street Fishweir (Fishweir II): Fragment of               3851 +390
+         coniferous wood from marine silt overlying the lower
+         peat and the fishweir (cf. No..C-417). Submitted by
+         E. S. Barghoorn.
+ C-36    Upper Linsley Pond (Deevey Series): Pond mud sam-
+ C-37    ples from Upper Linsley Pond, Connecticut (cf.
+ C-38    E. S. Deevey, Jr., Am. J. Sct., 241, 717-52 [1943]).
+ C-39    Samples were taken by boring through ice in center of
+         pond. Collected and submitted by E. S. Deevey, Jr.,
+         Osborne Zoological Laboratory, Yale University.
+             Sample        Depth (Meters)       Pollen Zone
+              C-36              SS                  C3                      876 +250
+              C-37-             8.05                G2                     1800 + 500
+              C-38              9.15             C1-C2                     5159 +350
+              C-39            11.65               C1-B                     8323 + 400
+
+C-119    Upper Linsley Pond (Linsley Series): Pond mud sam-
+C-120    ples from Upper Linsley Pond, Connecticut. These
+C-121    were taken from the edge of the pond (cf. Nos. C-36-
+C-122    C-39). Collected and submitted by E. S. Deevey, Jr.
+
+             Sample        Depth (Meters)       Pollen Zone
+              C-119            4.65                C2                      2141 +250
+              C-120            6.65              C1-C2                     5305 + 250
+              C-121            8.65                Cl                 Heterogeneous:
+                                                                           6911 and
+                                                                           4088 + 250
+              C-122           10.15                 B                      6668 + 250
+
+         Comment: Appears mixing is involved.            _
+C-478    Upper Linsley Pond (Linsley V): Peat from Upper                   8794 +550
+         Linsley Pond, Connecticut. Taken at 10.55 meters
+         with large sampler. Pollen date is early to middle C-1.
+                          RADIOCARBON          DATES                              91
+
+
+                                Sample                              Age (Years)
+        Pine zone is at 11.90 meters. Collected and submitted
+        by E. S. Deevey, Jr.
+C-335   Maine Boreal (Boreal I): Peat from 6.0 meters         in       $962 +320
+        Plissey Pond, Maine. Very top of Pine Zone B. Sub-
+        mitted by E. S. Deevey, Jr.
+C-606   Waterton, Canada: Western Alberta, Canada, gla-                3261 +250
+        cial forest bed in northwest quarter, Sec. 8, T. 2 R. 29
+        at Waterton (cf. Waterton Lakes topographic map).
+        Stratigraphy: Top soil 1 foot; gravel 12 feet; lacus-
+        trine clay 0.5 foot; gravel 2 feet; sandy silt with in-
+        vertebrate fossils 2 feet; forest bed 2 feet; dark-brown
+        Kewatin drift 9 feet. This sample was wood. L. R.
+        Wilson, University of Massachusetts, says it is black
+        and white spruce. The ecology is similar to that at
+        edge of tundra now. Submitted by C. L. Horberg,
+        Department of Geology, University of Chicago.
+C-607   Waterton Peat: Same as No.        C-606,   except   peat       3327 +320
+        instead of spruce wood.
+C-608   Burley Site, Lake Huron: Charcoal from Occupational            2619 + 220
+        Horizon No. 1 from the Burley site, located on the
+        northern terrace, formerly mouth of the Ausable
+        River, about 1 mile from Lake Huron. This was an
+        old Indian dwelling site. The profile is: (a) sand be-
+        low the 12-foot level above the lake; (6) Occupational
+        Horizon No. 1, consisting of dark sand of the most
+        ancient occupational level (the charcoal, which was
+        taken from this level, lies between the 12- and 14-foot
+        elevations); (c) stratified alluvial sand with shells of
+        fresh-water snails up to 15-17 feet; (d) second occu-
+        pational level (No. 2), 6 inches to 1 foot thick; (e)
+        light-gray sand 6 inches to 1 foot thick; (f) dark sand
+        of the most recent occupational horizon (No. 3); (g)
+        top cover of windblown sand, 1-2 feet thick, 18-20
+        feet above the present lake level. It is believed that
+        this may date from the early one-outlet stage of the
+        Nipissing Great Lakes. Collected by W. Jury, 1950.
+        Submitted by A. Dreimanis, University of Western
+        Ontario, London.
+C-809   Titicut Site (Titicut): Charcoal from a hearth from           14139 + 260
+        the lowest level at the Titicut site, Bridgewater,             5750 +720
+        Massachusetts. This was a hearth from the lowest           Av. 4500 + 300
+        level, found 3 feet below the surface of the ground.
+        It is composed of pieces of charcoal, black sandy
+        soil, and pebbles. The hearth was covered by a
+        thin layer of brownish fine sand that was overlain
+        by a layer of gravel and fine white sand about 8
+92                        RADIOCARBON         DATING
+ Our
+ No.                             Sample                             Age (Years)
+        inches thick. Above this there was a layer of yel-
+        low soil about 18 inches thick. Humus, the upper-
+        most layer, covered the whole deposit. There was
+        no sign of disturbance or occupation in the layers
+        over the hearth. The distribution of the pebbles
+        and the soil indicated that the layers called “yellow
+        soil” and ‘‘gravel and fine white sand” had been de-
+        posited upon the hearth by natural movement of
+        materials. The building and use of the hearth ante-
+        dated this movement. The present hypothesis con-
+        cerning this situation is that the soil layers were
+        moved over the hearth by congeliturbation during a
+        period when the climate was colder than at present.
+        Continuing geologic investigations may modify this
+        hypothesis.
+           The hearth is covered by a deposit of natural ori-
+        gin. Various similar deposits found on this site and
+        also a number of artifacts excavated from analogous
+        locations are evidence of occupation previous to the
+        movement of the materials. A date on the charcoal
+        will contribute to our knowledge of the age of the
+        occupation and the time when the geologic event re-
+        sponsible for the movement of the materials took
+        place. It is known that root hairs penetrate the pores
+        of the charcoal. Collected October 16, 1949, by J.
+        Hartshorn, Kirk Bryan, and Frederick Johnson.
+        Submitted by Frederick Johnson, R. S. Peabody
+        Foundation, Andover, Massachusetts.
+
+                           B. New York STATE
+C-191   Frontenac Island (Frontenac): Charcoal from hearth            4930 +260
+        in deepest refuse levels (Trench 4, Section 4), Fronte-
+        nac Island site. Collected in 1939, Lamoka Focus,
+        Archaic Period (revised terminology 1950) (ef.
+        Ritchie, 1945). From collections of Rochester Muse-
+        um of Arts and Sciences. Submitted through W. A.
+        Ritchie, New York State Museum.
+C-192   Oberlander 2 (Point Peninsula); Charcoal from crema-         ae +270
+        tion (Burial 6) on the Oberlander component No. 2             3080 + 200
+        at Brewerton, Oswego County, New York. Col-               Av, 2948 + 170
+        lected, 1938. This is early Point Peninsula Focus (cf.
+        W. A. Ritchie, Rochester Museum of Arts and Sci-
+        ences, Memoir 1 [1944], pp. 152-60). Submitted by
+        W. A. Ritchie.
+C-288   Lamoka; Charcoal from hearth in subsoil under 5 feet          4395 +350
+        of undisturbed refuse at Lamoka Lake site, Schuyler           4344 +300
+        County, New York. Some rootlets were present in           Av. 4369 +200
+                            RADIOCARBON        DATES                             93
+ Our
+                                 Sample                            Age (Years)
+          this sample. They were segregated under a low-power
+          magnifying glass. This sample was less carefully col-
+          lected than No. C-367. Collected by A. Frank Bar-
+          ratt. Submitted by W. A. Ritchie. Comment: Doubt
+          that all rootlets were removed. In view of rootlets,
+        . perhaps the 5383 date for No. C-367 should be taken.
+C-367    Lamoka (Lamoka III): Charcoal from Lamoka Lake               5383 + 250
+         site, Schuyler County, New York. From earliest oc-
+         cupation level 5 feet below midden surface. Probably
+         this sample was more suitable than No. 288. Submit-
+         ted by W. A. Ritchie.
+C-794     Point Peninsula: Charcoal from the Hunter site on          4881 +400
+          Red Lake in Jefferson County, New York. This char-         3920 +300
+         coal represents a residue of a crematory fire. Small     Av. 4400 +260
+         bits of what appear to be burned leather shroud frag-
+         ments are included. The particular grave yielding the
+         samples submitted was one of several closely clus-
+         tered on a sand ridge adjacent to a group of stone
+         crematories. The cremated bones, charcoal, offerings,
+         etc., had been scooped from the crematories and
+         buried in graves ranging in depth from 30 to 74
+         inches. This sample occurred in burial No. 1 at
+         depths from about 25 to 30 inches from the surface,
+         in direct association with cremated bones and grave
+         goods, and was covered by clean, moist, undisturbed
+         sand. There is no doubt as to its source or proveni-
+         ence. The total assemblage in the light of diagnostic
+         grave goods is Point Peninsula 2 Focus, or classic
+         Point Peninsula in New York, Ontario, and else-
+         where in the Northeast (see W. A. Ritchie, Am.
+         Antiquity, 17, 130-36 [1951]). This material was col-
+         lected and submitted by W. A. Ritchie.
+C-943    Sunken Forest in Eastchester, New York (Pelham              2830 +220
+         Bay): At Throggs Neck, Eastchester, submerged
+         tree stumps occur. There is a sea wall on one end
+         behind a beach and a low rocky point terminating in
+         a short pier on the other. A small patch of original
+         Spartina salt-grass association some 30 feet long and
+         10 feet wide remains margined on one side by fill
+         brought for a road and breaking off on the bayward
+         side with a 2-foot bank of black peaty soil that is
+         eroded by high tides during winter storms. At the
+         foot of this perpendicular bank there are mussels
+         and other maritime denizens. The sunken forest
+         starts from about the mid-tide mark and extends out
+         into 8 or 10 feet of water. The outermost stumps
+94                         RADIOCARBON          DATING
+ Our
+ No.                            Sample                                   Age (Years)
+        are not exposed even in the lowest tides. This sample
+        came from a stump with cross-section diameters at
+        ground level of about 1.5 and 2.5 feet. It scarcely
+        protruded above the surface at low tide, and its radi-
+        ating roots had an over-all diameter of about 6 feet.
+        It was about 6 feet below the level of the Spartina
+        flat and about 4.5 feet below the high-tide mark.
+        Submitted by William J. Robbins, New York Bo-
+        tanical Garden.                        .
+
+        C. Itirwots, INDIANA, Iowa, KENTUCKY, MICHIGAN,
+                 OHIO, PENNSYLVANIA, AND KANSAS
+C-116   Annis Mound, Kentucky (Webb I): Annis Mound,                        5149 + 300
+        Kentucky. Archaic period, shell from the 6.5-foot
+        level. Shells powdery on surface but shiny and ap-
+        parently untouched underneath.      Submitted   by
+        W. S. Webb, University of Kentucky.
+C-180   Annis Mound, Kentucky (Webb IV): Annis Mound                        7374 + 500
+        shell from   the 3.0-foot level. Submitted        by W. S.
+        Webb.
+C-251   Annis Mound, Kentucky (Deer Antler): Annis Mound                    4900 + 250
+        deer antler from Archaic 6.5-foot level. Submitted by
+        W. S. Webb.
+C-254   Indian Knoll, Kentucky (Indian Knoll): Antler from                 15709 + 350
+        Indian Knoll Oh2 mound           at 1.0-foot   level.    Sub-       4894 + 560
+        mitted by W. S. Webb.                                           Av. 5302 + 300
+C-126   Adena, Kentucky (Adena I): Adena material from                      1168 +150
+        Drake Mound, Fayette County, Kentucky, Site 11,
+        Fragments of bark preserved by contact with copper
+        reel-shaped breastplate in association with Burial 7,
+        lying on bottom of pit, the central feature of this site.
+        Submitted by W. S. Webb.
+C-214   Adena, Ohio (Ohio Adena): Adena material from                       1509 + 250
+        Cowan Creek Mound, Ohio. Charcoal from subfloor
+        fireplace just outside house structure. Submitted by
+        R. S. Baby, Ohio State Museum.
+C-136   Hopewell, Ohio (Hopewell III): Charcoal from Altar                  1951 + 200
+        1, Section 3, Mound 25. Hopewell Mound Group,
+        Ross County, Ohio. Excavated in 1891. Specimen
+        56424,   Chicago   Natural    History    Museum.         Sub-
+        mitted   by G. Quimby,       Chicago    Natural       History
+        Museum,                                           5
+C-137   Hopewell, Ohio (Hopewell Shell): Conch shells associ-               2285 +210
+        ated with Skeletons 260 and 261, Section 3, almost
+        certainly from Mound 25, Hopewell Mound Group,
+                          RADIOCARBON          DATES                              95
+ Our
+ No.                            Sample                              Age (Years)
+        Ross County, Ohio. Specimens 56358 and 56606,
+        Chicago Natural History Museum. Submitted by
+        G. Quimby.
+C-139   Hopewell, Ohio (Hopewell I): Bark associated with             2044 +250
+        Skeleton 248, Section 2, Mound 25, Hopewell Mound
+        Group, Ross County, Ohio. Specimen 56094, Chicago
+        Natural History Museum. Submitted by G. Quimby.
+C-152   Hopewell, Illinois (Hopewell II): Wood from wood              2336 + 250
+        and bark capping, lower edge of primary mound,
+        Mound 9, Havana Group, Havana, Illinois. Sub-
+        mitted by Thorne Deuel, Illinois State Museum.
+C-465   Oxford, Ohio (Goldthwait): Large log from the Tazc-       At least 15,000
+        well or Cary drift near Oxford, Ohio; Hamilton,
+        Ohio, Quadrangle, Oxford Township, Section 26, just
+        north of the creek. Submitted by R. P. Goldthwait,
+        Ohio State University.
+C-364   Tolleston, Illinois (Tolleston): Wood from Tolleston          3469 + 230
+        level, Lake Chicago (may be Algonquin instead). Log
+        found at base of lake sand overlying till in clay pit
+        at Dalton, Illinois. Submitted by J Harlen Bretz,
+        University of Chicago.
+C-466   Till, Illinois (Illinoian): Wood found in till directly       Older than
+        below Illinoian gumbotil in Vermillion County, IlIli-              17,000
+        nois. Submitted by G. W. White, Department of Ge-
+        ology, University of Illinois.
+C-535   Wedron, Illinois (Tazewell): Early Tazewell Shelby-          13,842 +780
+        ville wood from Lake Kickapoo, Wedron, La Salle
+        County, Illinois. This is supposed to be our only
+        truly authentic Tazewell sample. Submitted by C. L.
+        Horberg and J Harlen Bretz. (Cf. No. C-575.)
+C-575   Wedron, Illinois (Wedron): Wood from Lake Kicka-              Older than
+        poo deposits at Wedron, Illinois. From dark peaty                  17,000
+        silt occurring in a bedrock valley in St. Peter sand-
+        stone in the same quarry and position as No. C-535.
+        The wood horizon is overlain by periglacially de-
+        formed sand and dark silt, which in turn underlie lami-
+        nated clay (Lake Kickapoo deposits). These lie under
+        a series of tills which have been regionally correlated
+        by C. L. Horberg and others. The lowest of these is
+        Bloomington, so the sediments must be early Taze-
+        well (either Bloomington or Shelbyville). This
+        sample was collected by J Harlen Bretz and trans-
+        mitted by Jerry Olson, University of Chicago. It was
+        taken as a check on No. C-535.
+96                          RADIOCARBON       DATING
+ Our
+ No.                            Sample                             Age (Years)
+C-510   Farm Creek, Illinois (Farmdale): Wood from Farm              Older than
+        Creek, Illinois, representing the earliest stages of the          20,000
+        Wisconsin glaciation. Found 3-4 feet below the sur-
+        face of the Farmdale loess. Submitted by Guy D.
+        Smith, Bureau of Plant Industry, Beltsville, Mary-
+        land.
+C-481   Skunk Creek, Towa (Skunk Creek): Wood found be-              Older than
+        neath a presumably Mankato till on north bank of                  17,000
+        Skunk Creek, NE. 4, Sec. 15, T. 80 N., R. 22 W.,
+        Polk County, Iowa. Submitted by W. H. Scholtes,
+        Towa State College, Ames, Iowa.
+C-528   Clear Creek, Iowa: Glacial wood collected in glacial       16,367 +1000
+        till in Story County, Iowa. Location south side of
+        Clear Creek in an exposed cut; N.E. 1; SW. 1; Sec. 5,
+        T. 83 N., R. 24 W. Till thought to be Mankato. The
+        wood was excavated by digging and found in loess
+        which underlies a recent till. Submitted by W. H.
+        Scholtes.
+C-438   Bridgeville, Pennsylvania (Bridgeville): Peat found be-      Older than
+        neath 17 feet of alluvial deposit just west of Bridge-            16,000
+        ville, Pennsylvania. Thought to be Tazewell or Cary.
+        Submitted by E. R. Eller, Carnegie Museum, Pitts-
+        burgh.
+C-526   Bellevue, Ohio (Lake Lundy): Wood from Bellevuc,             8513 +500
+        Ohio,? mile northwest of Castalia on the 620 contour.
+        This falls within the higher limit of Lake Lundy
+        (Grassmere) but above the Elkston limit. Lake War-
+        ren beaches are 50-60 feet higher. Submitted by
+        R. P. Goldthwait.
+C-508   Camden Moraine, Ohio (Camden): Wood from Cam-                Older than
+        den moraine, south of Dayton, Ohio. No. C-465 was                 17,000
+        from the outer limit of the drift of which the Camden
+        moraine is a recessional moraine. This may be Cary.
+        Submitted by R. P. Goldthwait.
+C-509   Farmdale, Illinois (Farmdale II): Wood found 0 to 1          Older than
+        foot below surface of the Farmdale loess at Farm                 19,000
+        Creek, Illinois. Same site as No. C-510. Submitted
+        by Guy D. Smith.
+C-500   Lake Cicott: Peat from Lake Cicott bog, Indiana. Col-        5625 +310
+        lected from 22- to 23-foot depth, combined Samples
+        B, G, H, I, L, M. Thought to be Zone C-1, Zone B
+        boundary. Collected by J. E. Potzger, Butler Uni-
+        versity, Indianapolis, Indiana. Submitted by E. S.
+        Deevey, Jr.
+C-596   Skunk River, Iowa (Cary IT): Glacial wood from             10,369 + 700
+        quarry near Ames. Found in the center of NW. }, Sec.       12,798 +660
+                        RADIOCARBON         DATES                                   97
+Our
+No.                             Sample                                Age (Years)
+        24, T. 84.N., R. 24 W., Story County, on east side of Av. 11,952 +500
+        Skunk River about 90 feet above the valley bottom.
+        Desiccated swell and swale upland bordering the
+        Skunk River; maximum relief of 120 feet reached
+        about 4 mile southeast of the river, now modified by
+        quarrying operations (see U.S.G.S. Topogr. Quadr.,
+        Ames, Iowa [1914]). The stratigraphy is Mankato
+        till about 30 feet thick above the Mississippian lime-
+        stone bedrock. The sample, which consisted of wood,
+        was found about 25 feet below the surface in the un-
+        oxidized zone, which was gray, dry, and very hard
+        and had to be blasted to remove the sample. The
+        layer consisted of fine clay, silt, and sand, most of it
+        with some pebbles present. The oxidized to unoxi-
+        dized gradational boundary occurred about 12 feet
+        below the surface, which was covered with timber.
+        The sample was about 3 inches in diameter and 2 feet
+        long before blasting to remove. Collected by Ronald
+        E. Wilcox, Department of Geology, Iowa State Col-
+        lege, Ames. Submitted by R. F. Flint, Yale Univer-
+        sity.
+C-653   Skunk River, Iowa (Ames): Glacial wood from the           12,161 +540
+        same quarry as No. C-596. It consisted of about                12,286 +800
+        twelve pieces up to 6 inches in length and 1 or 2 inches   Av. 12,200 +500
+        in diameter. They all came originally from one piece
+        of wood situated in a small pocket of sand in the
+        same till as No. C-596. The sand pocket was about 3
+        feet above and 12 feet west of the position of the
+        other piece of wood. Submitted by C. S. Gwynne,
+        Towa State College, Ames.
+C-664   Skunk River, Iowa (Ames Top Drift): Wood from                 14,042 + 1000
+        the Ames quarry (cf. Nos. C-596 and C-653, which
+        dated 11,952 +500 and 12,200 +500). This wood, un-
+        like the earlier samples, is not from the till but from
+        a zone about 1 foot thick of stratified sand and silt
+        lying between the upper and lower tills at a depth of
+        28 feet from the surface. The top of this stratified
+        zone contains occasional root fragments, seemingly
+        in place. This sample probably came from the stump
+        of a tree that grew where it was found. Collected by
+        Wayne Williams and Bob Tench. Submitted by C. S.
+        Gwynne.
+C-674   Lake Chicago Sands, Chicago (Tolleston): Wood from               8200 +480
+        Lake Chicago sands on University of Chicago cam-
+        pus, corner of Fifty-eighth Street and Ellis Avenue,
+        surface elevation 592 feet. Found in horizontal posi-
+        sition overlain by stratified sand at depth of 14 feet,
+98                       RADIOCARBON          DATING
+ Our
+ No.                            Sample                            Age (Years)
+        according to workman who found it. The section at
+        this locality is sand stratified with some silt layers,
+        0-19 feet; blue clay (till)with some sand and gravel,
+        19-57 feet. Professors Bretz and Horberg, of the Uni-
+        versity of Chicago, are of the opinion that this sand
+        represents a Tolleston and post-Tolleston lake depos-
+        it and that at a depth of 14 feet the sand is probably
+        Tolleston. Low beach ridges superposed. on the sand
+        at the location occupy the position of the Algoma
+        stage of the lake. Submitted by C. L. Horberg.
+C-675   Plum Creek, Dyer, Indiana (Calumet): Wood from               1850 +480
+        alluvial fill along Plum Creek near Dyer (SW. 3, SE.
+        z, Sec. 32, T. 35 N., R. 15 E.)! The specimen was
+        found at a depth of about 10 feet in the alluvial fill
+        and about 2 feet above the base, which was in con-
+        tact with glacial fill. Fill represents the Calumet and
+        post-Calumet deposit (Bretz, Illinois Geol. Suro.
+        Bull., 65, 117 [1939]), and the wood from near the
+        base of the fill is probably of Calumet age. Shells, a
+        mammoth tooth, and numerous fragments of deer
+        antlers are associated. The shells, identified by F. C.
+        Baker, differ from those found in definitely dated
+        Tolleston sediments. Collected by J Harlen Bretz
+        and C. L. Horberg. Submitted by C. L. Horberg.
+C-684   Wilson Hopewell Site, White County, Illinois (Wilson          710 +310
+        Hopewell): Charcoal from a fire pit in the corner of          736 +200
+        a log tomb in Mound Wh%6 in White County, Illinois        Av, 723 + 180
+        (Wilson site). This fire pit was in association with
+        seven burials, grave goods of positive Hopewellian
+        affiliation. There was evidence in the stratigraphic
+        profiles that there was no intrusion into the tomb in
+        recent times and that the charcoal is therefore of
+        definite Hopewellian origin. There were deposits of
+        reworked limestone throughout the fill of the
+        mound, and the log-roofing rafters over the tomb
+        were largely discernible because of this redeposited
+        limestone. Collected by Melvin Fowler, Illinois State
+        Museum, Springfield. Submitted by Fred Eggan,
+        University of Chicago.
+C-738   Archaic Kentucky Indian Sites: Submitted by W. S.
+C-739   Webb. Thedescriptions are as follows:
+C-740
+C-741
+        C-738   Annis Shell Mound, Butler County (Ken-              4289 + 300
+                tucky Archaic I): Deer antler from the 1.5-,
+                2.0-, and 2.5-foot levels at Site Bt 5, the
+                          RADIOCARBON         DATES                               99
+Our
+No.                            Sample                               Age (Years)
+                Annis shell mound. This sample was taken
+                entirely from a band 1.5 feet thick, the top of
+                which was within 1 foot of the mound sur-
+                face. It is to be correlated with Nos. C-116,
+                C-180, and C-251 from the same mound,
+                which gave 5149 +300, 7374 +500, and 4900
+                 +250, respectively. However, Nos. C-116 and
+                C-180 consisted of rather powdery shell,
+                which was somewhat dubious; No. C-251 was
+                deer antler from the 6.5-foot level.
+        C-739   Annis Shell    Mound, Butler County (Kentucky          4333 +450
+                Archaic II): Deer antler from the 5.5-, 6.0-,
+                6.5-, and 7.0-foot levels. This sample came
+                from a band 2 feet thick at the bottom of the
+                mound. Again this sample should correlate
+                with Nos. C-116, C-180, and C-251, as well
+                as with No. C-738. No. C-251 was from the
+                same level.
+        C-740   Indian Knoll Shell Mound, Ohio County                  4282 + 250
+                (Kentucky Archaic III): Deer antler from a
+                band 6 inches thick at the 1-foot level. This
+                material is similar to No. C-254, which gave
+                5302 +300.
+        C-741   Indian Knoll Shell Mound, Ohto County                  3963 +350
+                (Kentucky Archaic IV): Deer antler from the
+                4.5-foot level, from a band 6inches thick near
+                the bottom of the mound. The total depth of
+                of the mound is 7 feet. This is the same site
+                as Nos. C-254 and C-740.
+C-759   Kentucky Adena I; Charcoal from an Adena mound                 2650 +170
+        at Dover, Mason County, Kentucky, Site Ms 27.
+        The charcoal came from a large heavily burned area
+        near the top of the mound core. It bears the donor’s
+        sample No. 117 (V 42). Collected and submitted by
+        W. S. Webb.
+C-760   Kentucky Adena II; Charcoal associated with Burial             2260 +220
+        No. 55 in the Adena mound at Dover, Mason County,              2078 + 290
+        Kentucky, Site Ms 27. Burial 55 was a redeposited          Av. 2169 +175
+        cremation near the mound base outside the skirt of
+        the mound core and was entirely covered by a heavy
+        earth mantle. This sample bears the collector’s sam-
+        ple No. 148 (V 38). Collected and submitted by W.
+        S. Webb.
+C-801   Glenwood: Wood from beach deposits apparently                 10,661 +460
+        of the Glenwood stage of glacial Lake Chicago, found          11,284 +600
+        1 mile west of Dyer, Indiana, NE. }, Sec. 30, T. 35       Av. 10,972 +350
+100                      RADIOCARBON         DATING
+ Our
+ No.                           Sample                             Age (Years)
+        N., R. 15 E., Illinois. The specimens were found at a
+        depth of 8 feet in a deposit of beach ridge sand and
+        gravel containing associated lagoonal deposits. The
+        thickness of the deposit ranges from 6 to 18 feet and
+        has a composition dominantly of inclined beds of sand
+        and gravel with thin interbedded layers of silt and
+        fine sand. Following Bretz, the deposits of the Glen-
+        wood stage are considered to be late Cary age. Col-
+        lected and submitted by C. L. Horberg.
+C-846   Dune Buried Peat, South Haven, Michigan (South               6744 +530
+        Haven II): The peat layer described in No. C-848
+        was sampled at the bottom portion. Submitted by
+        J. H. Zumberge, University of Michigan, J Harlen
+        Bretz, and C, L. Horberg.
+C-848   Dune Buried Log, South Haven, Michigan (South               16232 310
+        Haven I): A white pine log taken from a layer of peat        6659 +350
+        on the eastern shore of Lake Michigan at South           Av. 6440 + 230
+        Haven. The layer is covered by sand dunes. There
+        was a 30-inch layer in which the bits of wood, the
+        pine log constituting this sample, were buried. Col-
+        lected and submitted by J. H. Zumberge, J Harlen
+        Bretz, and C. L. Horberg.
+C-849   Dune Buried Peat, South Haven, Michigan (South               4816 +290
+        Haven ITI): Peat from the uppermost portion of the
+        peat layer described in No, C-848. Submitted by
+        J. H. Zumberge, J Harlen Bretz, and C. L. Horberg.
+C-871   Glenwood (Glenwood II): Wood from woody layer at           18,500 +500
+        the bottom of a sand and gravel deposit at Dyer,
+        Indiana, NE. 4, Sec. 30, T. 35 N., R. 15 E., Illinois.
+        Taken at a depth of 12 feet below the top of the sand
+        spit from   the northernmost    of the sand pits now
+        opened. Same deposit as that from which No. C-801
+        was obtained. Collected September 15, 1953, and
+        submitted by J Harlen Bretz.
+C-872   Dyer, Indiana, Deposit (Glenwood III): Peat from            Older than
+        lagoon deposit buried beneath the Dyer spit where                21,000
+        No. C-871 was obtained. Original depth of burial
+        was about 15 feet. Collected and submitted Sep-
+        tember 15, 1953, by J Harlen Bretz.
+C-874   Florence Mound (Florence Mound): Charcoal from               1425 +250
+        an Adena mound known as the Florence Mound in
+        Pickaway County, near Fox, Ohio. This consisted of
+        charcoal from a ceremonial fireplace on the floor of
+        the mound. Collected and submitted by R. S. Baby.
+C-893   Tazewell (Tazewell): Log collected near Central Ohio       16,100 +850
+        in Licking County, 4.5 miles southwest of Newark,
+                               RADIOCARBON          DATES                          101
+
+                                     Sample                              Age (Years)
+             at a point 300 feet south of Ramp Creek and 500 feet
+             east of the New York Central Railroad. This piece
+             occurred 49 feet below the surface in an excavation
+             for a hydraulic press of the Kaiser Aluminum Plant
+             in 1952. At the surface are 5~15 feet of alluvial sand
+             and gravel; below this is somewhat more than 60 feet
+             of homogenous dark-gray till. Twigs and a few logs
+             were recovered from a depth of 45-60 feet,
+                This till fills the mid-Pleistocene (Yarmouth?)
+             buried Newark Valley known from wells 200-300
+             feet to bedrock. It is 5 miles west of the distinct outer
+             limit of silty Wisconsin drift. On the other hand, it
+             lies 5 miles east of (outside) a clay-rich drift believed
+             to be Cary (Johnstown moraine). All indications are
+             that the logs were swept up and deposited by the
+             Tazewell advance and that the surface was covered
+             with thin outwash from the Johnstown moraine in
+             Cary time. Excavated and submitted by R. P. Gold-
+             thwait.
+   o x=)So  Barbeau Creek Rock Shelter (Barbeau Creek I-IX):
+            The ancient Indian site located at Modoc near
+            Prairie du Rocher, Illinois, was investigated by a
+            new field methodology. The site itself has consider-
+
+   BeeEe    able intrinsic interest. It consists of a 25,5-foot-deep
+            midden deposit and is situated at the base of an 82-
+   <=)i=]23 foot sandstone bluff that projects over and protects
+LS’3
+LOLS
+ele)
+PLGS        the site. It obviously belongs to the Archaic period,
+            and from an analysis of the artifacts it is clear
+            that a great deal can be learned from this site about
+            cultural change and development during the Archaic
+            period. In addition, information about its age will be
+            useful in establishing geologic and climatologic
+            conditions in the area. The samples to be measured
+            were processed in the field by Frederick R. Matson,
+            of State College, Pennsylvania. The method used by
+            Matson was new and was designed to facilitate col-
+            lection of samples for dating from other sites. Four
+            procedures were used:
+               1. A hand-picked specimen, using a spatula and
+            shielding the palm of the hand with aluminum foil.—
+            This concentration of material from charcoal-rich
+            soil is contaminated only with a thin coating of
+            soil and possibly with rootlets that are prevalent
+             throughout the site. There are calcareous deposits
+            throughout the site to a slight extent. .
+               2. Material washed in water.—The charcoal that
+            floated on top of the bucket of water was collected on
+102                     RADIOCARBON          DATING
+ Our
+ No.                           Sample                             Age (Years)
+       a well-washed copper-wire screen (approximately
+       114 mesh) from a hardware store. After the sample
+       was dried, the charcoal was placed on a piece of
+       aluminum foil, and fragments of rock and as many
+       rootlets as possible were removed.
+          3. Material that passed through the copper screen
+       mentioned above but was retained on a 20-mesh and a
+       115-mesh sieve—This material was submitted only
+       because of its general interest; it is contaminated with
+       rootlets and rock fragments and may not be of prime
+       interest for measurement. The samples were saved,
+       however, because at some sites the charcoal frag-
+       ments may be no larger than these. It would be very
+       tedious to separate all the rock from the charcoal,
+       but slight agitation in water effectively increases the
+       charcoal content of the sample.
+          4. Samples collected in the field and untouched in
+       the field laboratory.—These jars have not been opened
+       since they were taken from the excavation. They
+       were submitted only to round out the possible series.
+        It was not suggested that they be tested. They are
+       charcoal-rich soils and are similar to the material
+        from which the samples obtained by procedure No. 1
+        were concentrated.
+           The site itself was divided into three stratigraphic
+       zones.
+          Series A: 178-186 inches in depth.—The charcoal
+       occurs in brown sandy soil within a few inches above
+       ash beds and red burned clay areas that may have
+       been hearths. This zone is particularly rich in flints
+       and flint chips. A copper awl and a fragment of a
+       ground and polished bannerstone were found. This
+       is an important and fairly broad occupation zone.
+          Series B: 250-262 inches in depth—This broad zone
+       of charcoal-flecked soil is again just above ash levels
+       and red-clay hearth areas. Several pits and a few
+       postholes reached from this level into the next lower
+       one, which is a charcoal-free band of yellow sandy
+       soil about 2 feet thick; it is practically free of cul-
+       tural material and was built up in a series of bands
+       which suggest varves. The zone just above this yel-
+       low soil from which the charcoal was collected was
+       quite rich in cultural material. Apparently this marks
+       the reoccupation of the site after a considerable
+       period of sandy soil deposition (by water?).
+          Series C: 280-307 inches in depth—This is the low-
+       est occupation level found at the site. Test drilling at
+       lower levels yielded no cultural debris. It is of course
+                           RADIOCARBON        DATES                        103
+Our
+No.                            Sample                            Age (Years)
+        possible that further excavation of more extended
+        areas would uncover occupation levels at greater
+        depths, but at present there is no indication of this.
+        Relatively few flint implements, but many flint chips,
+        some worked, occur in this zone.
+           The samples were furnished by H. D. Winters, of
+        the University of Chicago, and Frederick R. Matson.
+        The notations in parentheses after each sample num-
+        ber indicate the zone from which and the procedure
+        by which the sample was taken. For example, the
+        notation A-2 means that the sample was taken from
+        Zone A by procedure 2.
+          C-899    (A-1)                                            5955 +235
+          C-900    (A-2)                                            5268+230
+          C-903    (B-1)                                            8546 + 380
+          C-904    (B-2)                                          10,947 +900
+          C-904"   (B-2)                                            7800 +900
+          C-905    (B-3)                                          11,200 + 800
+          C-907    (C-1)                                          10,651 +650
+          C-908    (C-2)                                            9101 + 440
+C-912   Lizard Creek (Lizard Creek I): Wood presumably            12,120+530
+        either of early Mankato or early Cary age from a de-
+        posit in Webster County, Iowa, 2.5 miles northwest
+        of Ford Dodge (SE. corner, SW. 4, Sec. 10, T. 89 N.,
+        R. 29 W.). The stratigraphy is (i) 10 feet 4 inches
+        calcareous Mankato outwash; (ii) 7 feet 4 inches
+        calcareous Mankato till; (iii) 10 feet 0 inches cal-
+        careous outwash (early Mankato? or Cary?): wood
+        from oxidized calcareous bedded sand 6.5 feet below
+        top of this outwash horizon, same stratigraphic level
+        as No. C-913; (iv) 3 feet 7 inches calcareous till
+        (early Mankato? or Cary?): exposed. Submitted by
+        W. H. Scholtes and R. V. Ruhe, U.S. Department of
+        Agriculture Soil Conservation Service, Iowa State
+        College.
+C-913   Lizard Creek (Lizard Creek II): Wood from the same        13,300 +900
+        site as No. C-912 except it came from unoxidized
+        portion of the glacial drift bed. The stratigraphy is
+        (i) 10 feet 4 inches calcareous Mankato outwash; (ii)
+        7 feet 4 inches calcareous Mankato till; (iii) 10 feet
+        0 inches   calcareous   outwash   (early Mankato?   or
+        Cary?): wood from unoxidized calcareous bedded silt
+        5 feet 10 inches to 7 feet 0 inches below top of this
+        outwash horizon, same stratigraphic level as No. C-
+        912; (iv) 3 feet 7 inches calcareous till (early Man-
+        kato? or Cary?): exposed. Submitted by W. H
+        Scholtes and R. V. Ruhe.
+104                       RADIOCARBON         DATING
+ Our
+ No.                             Sample                            Age (Years)
+C-923   Toepjner Mound (Toepfner Mound I): Charred logs               2377 +150
+        from a tomb in a large Adena mound in Columbus,
+        Ohio, known as the Toepfner Mound. These logs
+        occurred 7.5 feet above the floor of the mound. The
+        sample was labeled “Feature II.’’ Submitted by R. S.
+        Baby.
+C-942   Toepfner Mound (Toepfner Mound II): Charcoal                 2780 +410
+        samples from the Toepfner Mound described in No.
+        C-923. This material came from 4.4 feet above the
+        floor of the mound. It was labeled “Feature VII.”
+        Submitted by R. S. Baby.
+C-928   Kansas Woodland (Kansas Woodland): Wood char-                1343 + 240
+        coal collected from the Missouri Basin in the course of
+        the River Basin Survey’s archeological excavation at
+        the site near Woodruff, Phillips County, Kansas.
+        This site is representative of the sites of one of the
+        early pottery-making groups that has been estimated
+        to have occupied the area somewhere between 1000
+        and 2000 years ago. No remains belonging to that
+        general period west of the Missouri River have been
+        dated.
+           The charcoal was found in a burial site attributed
+        to the Keith focus of the Woodland pattern. The site
+        has been reported by M. F. Kivett in a paper en-
+        titled ““The Woodruff Ossuary: A Prehistoric Burial
+        Site in Phillips County, Kansas” (U.S. Bur. Am.
+        Ethnol, Bull. 154, “River Basin Surveys,” Paper No.
+        3 [1953]). In Kivett’s opinion, “the Keith focus
+        probably represents one of the earliest Woodland
+        variants in this area,” perhaps preceding in time the
+        Hopewellian culture of the lower Missouri-Illinois val-
+        leys. The Woodland materials of the Central Plains
+        are not yet very well known. They evidently include
+        the earliest pottery yet found in the region, and in
+        part, at least, they may be prehorticultural. Unlike
+        some of the later archeological horizons of the region,
+        none none of the Woodland complexes so far investi-
+        gated has yielded any cross-finds of southwestern pot-
+        tery or other fairly good time indicators. In short, any
+        chronological leads to be obtained from the present
+        charcoal sample will probably throw much-needed
+        light on a prehistoric period for which we have no
+        good leads. Submitted by Frank H. H. Roberts,
+        Jr., and Waldo R. Wedel, Smithsonian Institution.
+C-935   Glacial Wood from Poag, Madison County, Illinois            Older than
+        (Edwardsville Well Wood): Wood from 70-foot depth                21,600
+        in Edwardsville city water well at Poag. Location:
+                          RADIOCARBON          DATES                        105
+ Our
+                                Sample                            Age (Years)
+        NE. + NE..4 SE. 4, Sec. 13, T. 4.N., R. 9 W. This
+        well is located on a terrace that is probably late Man-
+        kato in age. Submitted by M. M. Leighton, Illinois
+        Geological Survey.
+C-937   Glacial Wood from Hartford, Illinois (Hartford Well         Older than
+        Wood): Glacial wood thought to belong to the Man-               24,000
+        kato or to an older Ice Age found in a well at a depth
+        of 100-110 feet, at Hartford, Madison County. Loca-
+        tion: NE. + NE. + SW. 4, Sec. 33, T.5 N., R. 9 W.
+        The well, known as the Ranney Collector Well, was
+        dug at the Shell Oil Company loading dock at Hart-
+        ford. Submitted by M. M. Leighton.
+
+         D. ALABAMA, NorTH CAROLINA, SOUTH CAROLINA,
+                            AND WEST VIRGINIA
+C-336   West Virginia Boreal: Peat of Pollen Zone B (pine)          9434+ 840
+        from 12 feet 3 inches to 12 feet 9 inches in Cranberry
+        Glades, West Virginia. Submitted by H. C. Darling-
+        ton, Marshall College.
+C-474   Singletary Lake, North Carolina (Singletary Optimum) ;    10,224 +510
+        Peat from highest of the three organic horizons at Sin-
+        gletary Lake, North Carolina. Same site as No. C-475.
+        Submitted by David G. Frey, University of North
+        Carolina.
+C-475   Singletary Lake, North Carolina (Singletary Man-           Older than
+        kato): Peat and lake sediments from Singletary Lake,            20,000
+        North Carolina. The lake has three organic horizons.
+        This sample is the second which has been tentatively
+        identified from pollen as lying between the Mankato
+        and Cary substages. Submitted by David G., Frey.
+C-476   Singletary Lake, North Carolina (Singletary Cary):         Older than
+        Lowest of three layers in Singletary Lake (cf. No.              20,000
+        C-475). Submitted by David G. Frey.
+C-363   Santee, South Carolina (Santee): Cyprus wood from a        Older than
+        large stump buried under 30 feet of sand deposited by           17,000
+        the Santee River in South Carolina. Stump was 11
+        feet in diameter, larger than any now growing in the
+        region. Submitted by Stephen Taber, University of
+        South Carolina.
+C-105   Myrtle Beach, South Carolina (Myrtle Beach): Cyprus        Older than
+        wood from the Myrtle Beach area under the Pamlico               20,000
+        Terrace. Submitted by Stephen Taber.
+C-755   Perry Site Shell Mound, Lu°25, Tennessee: River, Ala-       4764 + 250
+C-756   bama (Alabama Archaic): Deer antler from the 4-
+        foot level (No, C-755) and the 3.5-foot level (No.
+                             RADIOCARBON     DATING
+
+                                 Sample                           Age (Years)
+        C-756), mixed about equally to afford sufficient carbon
+        for measurement. The Perry Site, Lu°25, Unit 1 (see
+        U.S. Bur. Am. Ethnol. Bull. 129 [1942], by W.S. Webb
+        and D. L. DeJarnette) was an ancient shell mound
+        about 500 yards from the upper end of Seven Mile
+        Island, which lies between the Wilson and Pickwick
+        dams on the Tennessee River in Alabama. It was
+        200 by 300 feet and about 10 feet thick at its
+        thickest point. The archeological stratigraphy indi-
+        cates that the Alabama shell mounds began earlier
+        than those in Kentucky (Annis and Indian Knoll;
+        Nos. C-116, C-180, C-251, C-254, C-738, C-739, C-740,
+        C-741). These samples, together with those from the
+        Archaic Kentucky mounds, indicate when Archaic
+        man ceased to build shell mounds in the southeastern
+        United States. Presumably this occurred when he
+        had developed an economy independent of shellfish
+        as a staple food supply. Submitted by W. S. Webb.
+
+                 FE. Lourstana, Mississippi, Missouri,
+                    NEBRASKA, GEORGIA, AND TEXAS
+C-143   Crooks Site, Louisiana (Quimby IV): Charcoal from            1158 +250
+        secondary mantle near junction with primary mantle
+        ef east slope Mound A, Crooks Site, La—3, La Salle
+        Parish, Marksville period in Louisiana. Submitted by
+        G. Quimby.
+C-150   Tchefuncte, Louisiana (Quimby II); Charcoal from              633 +150
+        top 6 inches, Tchefuncte Site ST 2, Midden A, in
+        Louisiana. Submitted by G. Quimby.
+C-151   Tchefuncte, Louisiana (Quimby ITI): Shell from               1233+ 250
+        top 6 inches of same Tchefuncte site as No. C-150.
+        Submitted by G. Quimby.
+C-154   Bynum Site, Mississippi (Bynum II): Bynum vege-              1276 +150
+        tal material from Site MCs-16, in Mississippi, base
+        Mound B. Submitted by John Cotter, National
+        Park Service.
+C-385   Bonfils, Missouri (Bonfils I): Wood from the Bonfils       12,148 +700
+        sand terrace near the mouth of the Missouri River.
+        This terrace is a remnant of the Festus Terrace, and
+        the date therefore should apply to the Festus Terrace.
+        Sample taken from 2 feet above top of the gravel.
+        Submitted by Louis C. Peltier, Washington Univer-
+        sity at St. Louis.                           i
+ C-65   Medicine Creek, Nebraska (Schultz I): Charcoal from         5256 +350
+        Medicine Creek Site Ft-50 in Nebraska. It is a mix-
+                           RADIOCARBON          DATES                          107
+
+                                 Sample                              Age (Years)
+        ture of soil bands A and B, which are 2 feet apart.
+        Submitted by C. B. Schultz, University of Nebraska.
+C-108a Medicine    Creek, Nebraska     (Schultz III): Charcoal          8274 +500
+        from Soil B at Ft-50 in Nebraska.         Submitted   by
+        C. B. Schultz.
+C-470   Medicine Creek, Nebraska (Schultz II): Charcoal from         10,493 +1500
+        Soil B at Ft-50, lower occupation Zone Feature 18,
+        N. 155/E. 45. Collected later and more carefully,
+        otherwise duplicate of No. C-108a. Submitted by
+        C. B. Schultz.
+C-471   Lime Creek: Lime Creek site charcoal, Ft-41, Frontier           9880 +670
+        County, Nebraska. Reference: Lime Creek Bulletin,               9167 + 600
+        page 34 (cf. Schultz, 1948, p. 34). Submitted by C.         Av. 9524+450
+        B. Schultz.
+C-558   Folsom Bone: Burned bison bone from Lubbock, Tex-               9883 +350
+        as, from the Folsom horizon. Submitted by E. H. Sel-
+        lards, Texas Memoria] Museum, Austin, Texas. Mr.
+        Sellards’ description: ‘This burned bone has been
+        collected by Glen Evans and Grayson Meade of our
+        staff. We are entirely satisfied that the horizon is Fol-
+        som. This conclusion that it is Folsom is based on two
+        principal observations. We have, as you know, a
+        thoroughly proven section at Clovis, New Mexico,
+        the succession being a gray sand containing elephant,
+        other fossils, and artifacts as the basal stratum of the
+        section, followed by a deposit containing a large per-
+        centage of diatomaceous earth as the second stratum.
+        The elephant is absent from this second stratum and
+        instead we have an abundance of bison. At the Lub-
+        bock locality exactly these conditions are repeated,
+        gray sand as the basal stratum with elephant as the
+        most common fossil, followed by the diatomaceous
+        material with the extinct bison as the abundant fos-
+        sil. Later units are present at both localities. At the
+        Clovis locality the Folsom culture is contained in and
+        confined to this second horizon. At the Lubbock lo-
+        cality Folsom culture is present as shown by the
+        fact that we have found Folsom points thrown out in
+        the course of dredging. We have not yet found them
+        in place in the diatomaceous deposit, but are fully
+        convinced that they will be found in place as excavat-
+        ing proceeds.”
+C-377   Secondary Channel, Folsom Site, New Mexico (‘‘Fol-              4575 +300
+        som’’): Charcoal from a hearth in fill of secondary             3923 + 400
+        channel which had cut through the original deposit of       Av. 4283 +250
+        bison bone and artifacts at the original Folsom site.
+108                      RADIOCARBON         DATING
+ Our
+ No.                            Sample                             Age (Years)
+        Collected July, 1933.   Submitted    by H. J. Cook,
+        Agate, Nebraska.
+C-469   Cedar Canyon:   Charcoal   from   Cedar   Canyon,   Ne-       1993 +190
+        braska, locality Sx-101. Found in buried hearth as            2379 +430
+        scribed in Figure 8, Am. Naturalist, 70, 359. Sub-        Av, 2147 + 150
+        mitted by C. B. Schultz.
+C-153   Davis: Corncobs from Davis site, in eastern Texas.            1553 +175
+        No. 5888, Jones 3497. Submitted by Alex Krieger,
+        University of Texas, through James Griffin, Univer-
+        sity of Michigan.
+C-645   Soil, Red Cloud, Nebraska: Buried soils from Schultz’s
+C-647   Terraces Nos. 1 and 2, south of Red Cloud. Terrace
+C-649   1 is thought to be 2000-3000 years old, although
+        several buried soils of rather weak profile develop-
+        ment exist here, and there could be a fairly wide
+        range of age. The soil actually taken on Terrace 1
+        was the lower part of a sort of double profile with a
+        very thin horizon of light-colored material separating
+        the layers. The Terrace 2 material should correlate
+        very closely to the charcoal date (i.e., 9000-10,000
+        years). A serious effort was made at all points to ex-
+        clude rootlets from the sample. Samples collected in
+        1949 by E. C. Reed, C. B. Schultz, H. Waite, and
+        James Thorp. The organic matter in the soils ana-
+        lyzed: No. C-645, 0.66 per cent carbon; No. C-647,
+        0.45 per cent carbon; No. C-649, 0.47 per cent carbon.
+        J. W. Borland, of the Beltsville Laboratories, Divi-
+        sion of Soil Survey, U.S. Department of Agricul-
+        ture, extracted these small amounts of carbon from
+        the soil samples, preparing barium carbonate, which
+        was submitted for analysis by James Thorp, De-
+        partment of Botany, Earlham College, Richmond,
+        Indiana.
+        C-645   Soil Terrace II: Soil sample from Terrace 2.         7809 + 400
+                Taken from a level about 30 feet below the
+                top of Terrace 2. Buried by loess, it came
+                from a dark grayish-brown and rust-mottled
+                buried soil about 18-24 inches thick. It lay
+                about 100 yards from No. C-647.
+        C-647   Nebraska Soil: Soil sample from Terrace 2.           7426 + 600
+                Taken from a level about 30 feet below the
+                top of Terrace 2 from a dark gray.ish-brown
+                and rust-mottled buried soil about 18-24
+                inches thick. It lay about 100 yards from
+                sample No. C-645.
+                          RADIOCARBON         DATES                         109
+ Our
+                                Sample                            Age (Years)
+        C-649    Soil Terrace I: Soil sample from Terrace 1.        4150 +350
+                 Following is a cross-section from the surface
+                down: 0-18 inches, dark grayish-brown,
+                crumb-structured, calcareous silt loam; 18-
+                 24 inches, calcareous loess; 24-36 inches,
+                black, granular, calcareous silt loam (a buried
+                soil); 36-48 inches, pale-brown, calcareous
+                loess with white line threads; 48-84 inches,
+                pale-brown calcareous laminated silt and
+                silty clay loam; 84-92 inches, light grayish-
+                brown, calcareous silt loam with prismatic
+                structure (a weakly developed buried soil
+                representing a short period of slow accumu-
+                lation); 92-110 inches, black granular cal-
+                careous silty clay loam (black when wet; a
+                buried soil); 110-120 inches, light grayish-
+                brown calcareous silt loam, either loess or
+                alluvial silt; 120-134 inches, dark-gray
+                granular calcareous silty clay loam (this is
+                the A horizon of the buried soil that was
+                sampled [No. C-649]; the buried soils above
+                this level have many modern grass and tree
+                roots); 134-156 inches, prismatic calcareous
+                heavy silt loam; 156-216 inches, coarse
+                prismatic calcareous loesslike silt loam. The
+                plain of Louisa Creek lies 27 feet below the
+                top of Terrace 1 at this point.
+C-698   Kincaid Shelter, Edwards Plateau, Texas (Kincaid):          1212 +300
+        Charcoal from the Kincaid Cave, Edwards Plateau,
+        Texas. The cave yielded a remarkably complete se-
+        quence of archeological and faunal stages, ranging
+        from early-man levels at the bottom to late prehis-
+        toric Indian horizons at the top. This sample is from
+        near the top, the deeper samples having had too little
+        charcoal to measure. This sample is from 20 feet
+        below the surface in a fire pit, Bed No. 6, dark-gray
+        zone of burned rock; Square G-H: B-9 (Square No. 4
+        near). Collected in 1951. Donor’s sample No. 4. Sub-
+        mitted by Glen L. Evans, Texas Memorial Museum,
+        Austin.
+C-822   Cedar Canyon: Charcoal from “soil” and hearth at           2049 + 180
+        the base of Terrace 1 fill from site Sx-107, Cedar
+        Canyon area, Sioux County, Nebraska. This char-
+        coal was collected in 1951 by Lloyd Tanner, Gilbert
+        C. Lueninghoener, and C. B. Schultz. It should fur-
+        nish a date for the basal part of the Terrace 1 fill.
+110                        RADIOCARBON           DATING
+ Our
+ No.                              Sample                                Age (Years)
+        The earlier No. C-469 from the same locality, which
+        dated 2379+ 430 and 1993 +190, was from the middle
+        of the Terrace 1 fill. The exact location from which the
+        charcoal was taken was near the center of Sec. 16,
+        T. 33 N., R. 53 W. (see Fig. 26, p. 186, and Pl. XV,
+        p. 192, of “Pleistocene and Postglacial Mammals of
+        Nebraska,” by E. H. Barbour and C. B. Schultz, in
+        Early Man     (Philadelphia: Lippincott,        1937]). Sub-
+        mitted by C. B. Schultz.                    A
+
+C-824   Medicine Creek Reservoir; Red Smoke Site (Red Smoke               ee +300
+        Site): Charcoal from the Red Smoke Site (Ft-42) in                 9153 +600
+        the Medicine Creek Reservoir Area, Frontier County,            Av. 8862 + 230
+        Nebraska.   The charcoal was from a hearth in the
+        middle portion of the Terrace 2A fill, located in Sec.
+        15,T. 5 N., R. 26 W. (see Schultz, Lueninghoener,
+        and Frankforter, ‘‘A Graphic Résumé of the Pleisto-
+        cene of Nebraska,” Bull. Univ. Nebraska State Muse-
+        um, 3, No. 6 [1951], and David, Am. Antiquity, 18,
+        No. 4 [1953]). This sample was collected in 1950 by
+        E. Mott Davis and associates. It bears the field
+        number ‘‘UNSM 859-50.” It would give a date which
+        would be near to what is probably the climax of the
+        Mankato. All the samples from Terrace 2A which
+        previously have been run are from lower levels. Sub-
+        mitted by C. B. Schultz.
+
+C-930   Cedar Canyon Charcoal (Cedar Canyon IT): Charcoal                  2675 +280
+        from Sx-101, Cedar Canyon, Sioux County, Nebras-
+        ka. In hearth associated with paleosol at base of Ter-
+        race 1 fill (15 feet below top of fill) in bottom of trench
+        dug by University of Nebraska State Museum field
+        party in 1936. This sample (collected in 1951 by
+        Lloyd Tanner, Gilbert C. Lueninghoener, C. B.
+        Schultz, and associates) gives an additional check
+        on the date of the basal part of Terrace 1 fill. The
+        charcoal is from a paleosol below the place where
+        No. C-469, which dated 2147 +150 years, was taken
+        in the same terrace fill and exposure. Submitted by
+        C. B. Schultz.
+
+C-931   Cedar Canyon Charcoal (Cedar Canyon III): Char-                   3100 +410
+        coal from Sx-101, Cedar Canyon, Sioux County, Ne-
+        braska. Sample associated with paleosol near top of
+        Terrace 1 fill (25 inches below top of fill). This sample
+        (collected in 1951 by Lloyd Tanner, Gilbert C.
+        Lueninghoener, C. B. Schultz, and associates) is
+        from a paleosol above the place where No. C-469 was
+                             RADIOCARBON         DATES                           111
+ Our
+ No.                              Sample                               Age (Years)
+          taken in the same terrace fill and exposure. Submitted
+          by C. B. Schultz.
+C-933     Booger Bottom Site (Booger Bottom): A site which is            2104 +140
+          an erosional remnant of an old natural levee in
+          Georgia. Indians had lived on the site, located in the
+          Buford Reservoir, between floods, throughout its
+          life. Cultural material is quite homogenous from bot-
+          tom to top. It represents a horizon found throughout
+          the Southeast. It shows some connections with the
+          Adena culture of Ohio and Kentucky. No dates are
+          available as yet on this horizon.
+             Donor sample No. 53-131. Charcoal, Field Speci-
+          men No. 121. Site 9HL64 (Booger Bottom), Hall
+          County, Georgia. Collected October 30, 1953. From
+          post molds, Feature 16, Section 0-110, surface depth
+          8.2-8.7 feet in old natural levee. Associated with
+          Cartersville Check Stamped pottery. Postholes origi-
+          nated in top of lowest occupation level. Material
+          should date pure Cartersville Check Stamped horizon
+          (Forsythe Period), and Wright Check Stamped hori-
+          zon, which is present in some Adena mounds. Sub-
+          mitted by Charles H. Fairbanks, Ocmulgee National
+          Monument.
+
+                   F. ARIZONA, CALIFORNIA, COLORADO,
+                            AND NEw Mexico
+C-165    Bat Cave: Corncobs and wood fragments from the de-
+C-173    bris in Bat Cave, New Mexico. The depth below the
+C-172    top correlates with the development of corn from a
+C-164    primitive form at the lowest layer of 6 feet to essen-
+C-171    tially modern corn at the top. Excavated by Herbert
+C-170     Dick. Submitted    by P. C. Mangelsdorf,           Harvard
+          University.
+
+                    Sample           Layer (Depth in Feet)
+
+               C-165 (cobs)             0-1                              1752 +250
+                C-173 (wood)            1-2                              1907 +250
+                C-172 (wood)            2-3                              2239 +250
+        C-164 and C-171 (corn and wood) 3-4                              2249 + 250
+               C-170 (wood)             4-5                              2862+ 250
+
+C-567    Bat Cave: Charcoal all from one area in Bat Cave.
+C-569    From levels from which there has been no vandalism
+C-570    and little opportunity for mixture by rodent activity.
+C-571    The development of the corn culture is presumably
+112                       RADIOCARBON           DATING
+
+ Our
+ No.                            Sample                               Age (Years)
+C-572    correlatable with the charcoal dates. Submitted by
+C-573   Paul C. Mangelsdorf.
+          Sample                     Location
+          C-567           Area III, Section Ic,                         1610 + 200
+                            Front, 11-15 inches depth
+          C-569           Area III, Section Ic,                         2816 + 200-
+                            Rear, 24-36 inches depth
+          C-570           Area III, Section Ic, ©                       2048 +170
+                            Front, 36-48 inches depth
+          C-571           Area III, Section Ic,                         5605 + 290
+                            Front, 48-60 inches depth
+          C-572           Area III, Section Ic,                   5000-7500 (poor
+                            Front, 54-66 inches depth                         run)
+          C-573           Area ITI, Section Ic,                         5931 +310
+                            Front, 60-66 inches depth
+
+C-584   Tularosa Cave I: Corncobs from Tularosa Cave,                   2223 + 200
+        New Mexico. This sample of cobs was from Square
+        2R2, Level 14, the lowest preceramic occupation level
+        resting on sandstone bedrock 9 feet 4 inches from the
+        surface of the dry midden. Submitted by Paul S.
+        Martin, Chicago Natural History Museum.
+C-585   Tularosa Cave II: Cobs and tree back from Tularosa             12112 +230
+        Cave, New Mexico. This sample was taken from                    2177 +225
+        Square 2R2, Level 10, 6 feet 8 inches below the sur-        Av. 2145+160
+        face. This layer is the Pine Lawn phase, the first pot-
+        tery-making period of the area. Submitted by Paul S.
+        Martin through Donald Collier, Chicago Natural
+        History Museum.
+C-612   Tularosa Cave   III: Corn and vegetable material from           2300 + 200
+        Tularosa Cave (cf. Nos. C-584 and C-585), Square
+        2R2, Level 13. Pre-pottery and associated with
+        Chiricahua-type implements. Submitted by Paul S.
+        Martin.
+C-186   San Francisco Bay Mound, California (California Ar-              633 +200
+        chaic): Charcoal from a San Francisco Bay shell                  911 +180
+        mound, Site 4-Mrn-115. Submitted by R. F. Heizer,            Av. 720+ 130
+        University of California, Berkeley.
+C-440   California Early Horizon: Charcoal from near Sacra-             4052 + 160
+C-522   mento, Site SJo—68, culture early Central California
+        Horizon as described in Robert F. Heizer, The
+        Archaeology of Central California. I. Early Horizon
+        (“Anthropological Records,” 12, No. 1 [University
+        of California Press, 1949]).
+C-216   Cochise, Arizona (Cochise): Charcoal-bearing dirt from          7756 +370
+        b' and 6? beds shown in Figure 13, page 47, The
+                          RADIOCARBON         DATES                          113
+ Our
+ No.                            Sample   ~                         Age (Years)
+        Cochise Culture (“Medallion Papers,” No. XXIX).
+        This is the Sulphur Springs stage of the culture.
+        Submitted by E. B. Sayles, Arizona State Museum,
+        Tucson.
+C-511   Cochise, Arizona (Sulphur Springs): Charcoal from            6210 +450
+        Cochise Site 6 North, Sulphur Springs stage. Sub-
+        mitted by E. B. Sayles.
+C-515   Cochise, Arizona (Chiricahua) : Charcoal from Cochise        4006 +270
+        Site 12, Chiricahua Stage. Submitted by E. B. Sayles.
+C-518   Cochise, Arizona (San Pedro II): Charcoal from Site           1762 +420
+        3, San Pedro stage. Sulphur Springs Valley, Arizona
+        (cf. Pearce 8:9, Fig. 4). Submitted by E. B. Sayles.
+C-556   Wet Leggett, New Mexico (Antevs I): Cochise charcoal         4508 + 680
+        collected by Ernst Antevs on the Wet Leggett,     New
+        Mexico, August 17, 1950. Found in wall of an arroyo
+        tributary to main Wet Leggett arroyo at a depth 9
+        feet 8 inches below the ground level in beds which
+        may be either Chiricahua or San Pedro. Submitted
+        by Ernst Antevs through G. Quimby.
+C-519   Cochise, Arizona (San Pedro): Charcoal from Cochise          2463 +310
+        Site, San Pedro stage (Benson 5:10), Figure 8, Bed 0.
+        Submitted by E. B. Sayles.
+C-615   Searles Lake: Searles Lake, California, organic matter   At least 16,000
+        from mud seam separating upper and lower salt de-
+        posits of Searles Lake, believed to have been de-
+        posited by flood waters during last glaciation. Or-
+        ganic matter was extracted with acetone, evaporated
+        to a thick syrup and the resinous material precipi-
+        tated by adding water. Donor’s sample No. 2. Sub-
+        mitted by W. A. Gale, American Potash and Chemi-
+        cal Corporation, Trona, California.
+C-628   Big Sur: Charcoal from shell midden on California            1879 +250
+        coast at mouth of Willow Creek about 30 miles south
+        of Big Sur on coast of Monterey County. Midden
+        overlain by 10 feet of gravels. Present beach gravels
+        submerge 4.5 feet of midden, indicating shore sub-
+        sidence. Submitted by R. F. Heizer.
+C-451   Lindenmeier Site, Colorado (Lindenmeier): Charcoal           5020 + 300
+        obtained from a hearth in the fill of a secondary
+        channel. Geologic evidence indicated that the age of
+        of the hearth should be approximately half that of
+        the occupational level from which the Folsom ma-
+        terial was taken. Submitted by Frank H. H. Roberts.
+C-616   Searles Lake: No. C-615 consisted of organic matter          Older than
+        from a mud seam separating the upper and lower salt               19,000
+114                      RADIOCARBON         DATING
+ Our
+ No.                            Sample                            Age (Years)
+        deposits of Searles Lake, California. It is believed
+        that the layer of organic matter was deposited by flood
+        waters during the recession of the glaciers. The or-
+        ganic matter was extracted with acetone and evapo-
+        rated to a thick syrup, and the resinous material
+        precipitated by adding distilled water. No. C-615
+        dated at least 16,000 years old. The present sample
+        was prepared in the same way, but from mud just
+        below the lower deposit of soluble salts and therefore,
+        of course, should be considerably older than No.
+        C-615. Collected and submitted by W. A. Gale.
+C-617   Deep Peat Bed, San Joaquin Valley, California (San          Older than
+        J oaguin): Peat from well dug by Bureau of Reclama-              17,800
+        tion near Tranquillity, California, in studying
+        ground-water conditions of the San Joaquin Valley
+        in connection with Central Valley Project. Peat
+        found at depth of about 550 feet. A silty clay overlaid
+        the peat, and a clay stone lay beneath it. The bed
+        itself was about 1 foot thick. The flecks of wood were
+        not replaced. The condition described prevails over
+        an area of three townships in this vicinity, and the
+        clay stone underlying the peat can be traced for at
+        least 50 miles along the central part of the San Joa-
+        quin Valley. Age was desired to fix rate of deposition
+        of the 500 feet of alluvial sediments    on the valley
+        floor. Donor’s sample No. 15-16-12B. Submitted by
+        E. F. Sullivan and Phil Dickinson, acting district
+        managers, Bureau of Reclamation, Region 2, Fresno,
+        California.
+C-631   California Crude I: Crude oil taken from depth of           Older than
+        1100 feet in the Tulare formation of Upper Pliocene              24,000
+        age at the South Belridge field in Kern County, Cali-
+        fornia. This oil, together with that of No. C-632, is
+        from the youngest productive horizons known to the
+        Shell Oil Company. Submited by M. E. Spaght,
+        Shell Development Company, Emeryville, California.
+C-632   California Crude II: Crude oil from the Upper or            Older than
+        Middle Pico formation of Upper Pliocene age, from                27,780
+        the Padre Canyon field in Ventura County, Cali-
+        fornia. The actual well was Hobson B 47-1 of the
+        Chanslor-Canfield Midway Oil Company. This,
+        together with No. C-631, constitutes the youngest
+        crude oil samples measured. Submitted by M. E.
+        Spaght.                                    ;
+C-659   Indian Midden Shell, Lower California (Lower Cali-           1063+ 160
+        fornia Shell): Shell from Indian middens at Punta             716+ 130
+                           RADIOCARBON           DATES                          115
+* Our
+                                   Sample                             Age (Years)
+        Clara and vicinity in Lower California. Shells were           Av, 889 + 100
+        cryptochiton. Harold C. Urey measured their tem-
+        perature of formation to be 15°C. and concluded
+        that no oxygen exchange of importance had occurred.
+        Submitted by Carl L. Hubbs, Scripps Institution of
+        Oceanography, La Jolla, California.
+C-673   Medicine Lake Highlands, California (Medicine                   11660+ 300
+        Lake): A variety of hard pine found buried under                 1107 +380
+        the youngest pumice deposits of the Medicine Lake            Av. 1360 +240
+        Highlands of northern California. This wood dates
+        the final volcanic eruptions in this country and gives
+        a maximum age for the huge flows of obsidian found
+        in the vicinity of Medicine Lake. Submitted by
+        Howel Williams, Department of Geology, University
+        of California, Berkeley.
+C-689   Hotchkiss Site, Contra Costa County, California                  1229 + 200
+        (Hotchkiss): Charcoal from the Hotchkiss mound in
+        Contra Costa County (CCo-138). This was Burial
+        18. This site, which falls in the late Horison, is an
+        important prehistoric village and figures prominently
+        in the archeological sequence. Collected and sub-
+        mitted by Robert F. Heizer.
+C-690   Coyote Hills: Charcoal from a refuse midden in the               2588 + 200
+        Coyote Hills site near Newark, Alameda County,                   2090 + 220
+        California. This was Site Ala—328, and the midden            Av. 2339 + 150
+        was located in Pit 5A at the base of the culture de-
+        posits at a depth of 11 feet from the surface. The
+        culture affiliation is middle Horizon, as defined by
+        R. K. Beardsley in an article in Am. Antiquity, 14,
+        1-28, 1948. Submitted by R. F. Heizer.
+C-691   Johnson Site: Charcoal from the Johnson Mound Site               2360 + 400
+        near Sacramento, California, Sac—6, Trench Z, Ex-                2460 +165
+        cavation Unit 8, depth 36-40 inches. The charcoal            Av. 2410 +200
+        sample actually came from a burned post imbedded
+        in the floor of a house. This site is a late Horizon site,
+        and the period covered by this culture has been as-
+        sumed to be included in the last 1500 years. Sub-
+        mitted by R. F. Heizer.
+C-695   Big Sur, Monterey County, California (Big Sur II):               1840 + 400
+        Charcoal from shell midden on California coast at
+        mouth of Willow Creek about 30 miles south of Big
+        Sur, Monterey County. Midden overlain by 10 feet of
+        gravels. Present beach gravels submerge 4.5 feet of
+        midden, indicating shore subsidence (cf. No. C-628
+        for another sample of charcoal from this midden; this
+        date was 1879+250). The charcoal in this sample
+116                      RADIOCARBON         DATING
+ Our
+ No.                           Sample                             Age (Years)
+        came from the base of the midden.       Submitted    by
+        R. F. Heizer.
+C-763   Rotten Modern Wood: The question of alteration of
+C-764   the radiocarbon assay by rotting and putrefaction
+C-771   processes was tested by measuring these samples, sub-
+C-777   mitted by Ernst Antevs, The Corrale, Globe, Ari-
+C-787   zona. The modern world-wide assay on our counters
+        is 6.68 counts per minute.
+                                                                      Assay
+        C-763   Dead branch from a live mesquite tree                6.73 +0.2
+                                                                          cpm
+        C-764   Same dead branch as No. C-763, but burned            6.39 +0.5
+                to charcoal
+        C-771   The decomposed interior of a Gambel         oak     6.76 +0.17
+                tree from Lakeside, Arizona
+        C-777   The decayed center of a ponderosa pine              6.83 + 0.12
+        C-787   Partly decomposed root of a ponderosa pine          6.73 +0.14
+C-823   Burnet Cave: Charcoal from Burnet Cave, Guadalupe           7432 +300
+        Mountains, Eddy County, New Mexico. The sample
+        came from the 8-9 foot level in the fill of this cave.
+        The sample should aid in determining the time of the
+        extinction of the horse, the bison, the camel, the
+        cave deer, the four-horned antelope, and the musk
+        oxen in the southwestern region of the Great Plains.
+        The animals found in this cave are northern forms
+        which had been driven south by the advance of
+        the Mankato ice sheet. The cave is described in
+        Schultz and Howard, “‘The Faunas of Burnet Cave,
+        Guadalupe Mountains, New Mexico,” Proc. Acad.
+        Nat. Sct. Phil., 87, 273 [1935]). The sample was
+        collected in 1937 by E. B. Howard, R. M. P. Burnet,
+        and Mr. and Mrs. C. Bertrand Schultz. Submitted
+        by C. B. Schultz.
+C-894   Searles Lake Mud (Searles Lake III, Searles Lake
+C-895   IV, Searles Lake V, Searles Lake VI): These ma-
+C-896   terials came from Searles Lake, California. They
+C-897   consisted of organic extract from the mud which
+        was obtained by extraction with acetone, evapora-
+        tion to a thick syrup, and the precipitation of the
+        resinous material by the addition of water. Submitted
+        by W. A. Gale. The descriptions are as follows:
+        C-894   Extract representing the first faot of the        10,494 +560
+                parting mud seam between the upper and
+                lower salt deposits of Searles Lake. This was
+                taken at an average depth of 73.7 feet (73.2-
+                          RADIOCARBON         DATES                            117
+ Our
+                               Sample                                Age (Years)
+                74.2 feet. This sample should represent ma-
+                terial deposited just prior to the last cessa-
+                tion of overflow of waters from the Owens
+                Valley at the close of the last substage of the
+                Ice Age (Tioga Age). Based on the accumu-
+                lation of salines in Owens    Lake since that
+                time, this was estimated by the late Hoyt S.
+                Gale (U.S. Geol. Surv. Bull. 580-L [1914]) to
+                be about 4000 years ago.
+        C-895   Material from the 3.5-foot level of the part-        15,089 + 1000
+                ing mud seam, 76.2—77.2 feet in depth.
+        C-896   Material from the 7-foot level of the parting         18,000 + 730
+                mud seam, 79.7—80.7 feet in depth.
+        C-897   Bottom 1 foot of the parting mud seam.              23,923 + 1800
+                Depth of 82.8-83.8 feet. This sample should
+                correspond approximately with No. C-615,
+                which represented the bottom 2 feet of
+                the parting mud seam in another location,
+                and which gave an age greater than 16,000
+                years.
+C-898   Guano from New Cave, Carlsbad Caverns (Carlsbad):              Older than
+        Guano material from the New Cave, Carlsbad Cav-                     17,800
+        erns National Park, New Mexico. It comes from a
+        compacted layer of guano occurring in the silt fill of
+        New Cave, Sec. 23, T. 25 S., R. 23 E., New Mexico
+        Bureau of Mines. The layer is about 2 feet below the
+        flowstone cap forming the present floor of the cave
+        about 300 feet within and 50 feet below the cave
+        entrance. The associated silt contains numerous
+        skeletal remains of an extinct species of three-tailed
+        bat, Tadarida. Dating affords a maximum age for the
+        beginning of the maximum dripstone and flowstone
+        development in New Cave. This is believed to
+        have been contemporaneous with the same stage
+        in adjacent Carlsbad Caverns 5 miles east. Sub-
+        mitted by Lloyd C. Pray, California Institute of
+        Technology.
+
+           G. NEVADA, OREGON, UTAH, AND WASHINGTON
+C-221   Gypsum Cave: Dung of giant sloth from Gypsum                  10,902 +440
+        Cave, Las Vegas, Nevada. Collected by M. R. Har-              10,075 +550
+        rington in 1931 from Room 1, dung layer 6 feet 4          Av. 10,455 +340
+        inches from surface. Submitted by M. R. Harrington
+        through Ruth Simpson, Southwest Museum, Los
+        Angeles.
+                        RADIOCARBON         DATING
+
+                              Sample                            Age (Years)
+        Gypsum Cave: Same from small room southwest of             8692 +500
+        Room 1. Taken 2 feet 6 inches from surface.                8051 +450
+                                                                   8838 + 430
+                                                               Av. 8527 +250
+C-281   Leonard Rock Shelter, Nevada (Leonard Rock): Un-           8443 + 510
+        burned guano from layer containing wooden artifacts        8820 + 400
+        in Leonard Rock Shelter, Nevada (LRS2). Submitted      Av. 8660 + 300 ©
+        by R. F. Heizer.
+C-298   Leonard Rock Shelter, Nevada    (Leonard Rock TI):         7038 + 350
+        Atlatl foreshafts of hardwood   (Sarcobatus, grease-
+        wood) from layer described in No. C-281. Submitted
+        by R. F. Heizer.
+C-554   Leonard Rock Shelter, Nevada (Leonard Rock III):           2736 + 500
+        Carbonized basketry from upper guano layer, Area
+        C. Associated with infant burial. Submitted by R. F.
+        Heizer.                          :
+C-554   Leonard Rock Shelter, Nevada (Leonard Rock Baskets):       5779 +400
+        Another portion of the carbonized basketry found in        5694 + 325
+        Leonard Rock Shelter cave and represented by No.       Av. 5737 +250
+        C-554, “Leonard Rock III,” which gave 2736 +500.
+        Submitted by R. F. Heizer. Comment: Earlier meas-
+        urement must have been in error.
+C-599   Leonard Rock Guano: Bat guano taken from immedi-         11,199 +570
+        ately above the Pleistocene gravels in the Leonard
+        Rock Shelter, Nevada. Submitted by R. F. Heizer.
+C-277   Lovelock Cave, Nevada (Lovelock I): Burned guano           4448 +250
+        from preoccupation level, Lovelock Cave, Nevada
+        (LC4A). Submitted by R. F. Heizer.
+C-278   Lovelock Cave, Nevada (Lovelock II): Unburned             16046 + 300
+        guano, preoccupation level; Lovelock Cave (LC4B).          5961 +400
+        Submitted by R. F. Heizer.                             Av. 6004 +250
+C-276   Lovelock Cave, Nevada (Lovelock III): Vegetal ma-          2452 +280
+        terial, earliest occupation level, Lovelock Cave           2517 +320
+        (LCB). Submitted by R. F. Heizer.                      Av. 2482 +260
+C-587   Humboldt Cave, Nevada (Humboldt): Basketry from            1953 £175
+        Humboldt Cave in Nevada, excavated in 1936. This
+        cave is some 10 or 12 miles west of Lovelock Cave.
+        Submitted by R. F. Heizer.
+C-247   Mazama: Charcoal from a tree burned by the glowing         6389 +320
+        pumice thrown out by the explosion of Mount Maza-          7318 +350
+        ma (this formed Crater Lake). This tree was.found in       5938 + 400
+        a road cut above the Rogue River on Oregon High-           6327 +400
+        way 230, about 10.5 miles toward Diamond Lake          Av, 6453 +250
+        from the junction of Oregon Highways 230 and 62.
+                          RADIOCARBON           DATES                        119
+ Our
+ No.                            Sample                             Age (Years)
+        The pumice is about 75 feet deep at this point, and
+        about 40 feet of pumice overlies the portion of the
+        tree from which these samples came. The impression
+        was that the tree was still in very nearly an upright
+        position. Collected and submitted by L. S. Cressman,
+        University of Oregon.
+C-609   Danger Cave, Utah (Danger Cave I): Charcoal, wood,          11,453 +60
+        and sheep dung from Danger Cave, near Wend-
+        over, Utah. Found on old beach of Lake Stans-
+        bury, consisting of 2 feet of sand deposited on ce-
+        mented ‘gravels. Both sheep dung and wood were
+        found in the sand layer. Above this several feet of
+        later deposits lie. This sample was sheep dung from
+        donor’s sample No. F 18 FS 535. Submitted by Jesse
+        D. Jennings, University of Utah.
+C-610   Danger Cave, Utah (Danger Cave IT): Wood only from          11,151 +570
+        same location as No. C-609.
+C-428   Fort Rock Cave, Oregon (Sandals): Several pairs of            9188 +480
+        woven ropes sandals found in Fort Rock Cave, which            8916 +540
+        was buried beneath the pumice from the Newberry           Av, 9053 + 350
+        eruption in Oregon. Though Cressman himself did
+        not dig the sandals, he feels certain that the person
+        who did gave the correct information. They are ex-
+        actly like ones Cressman had dug but unfortunately
+        had varnished, so that they could not be used for
+        radiocarbon measurement. Submitted by L. S. Cress-
+        man.
+C-430   Catlow Cave, Oregon: Organic debris from Catlow              11118 +190
+        Cave No. 1 in Oregon. Taken from 2.88-foot depth               798 +230
+        (No. 1-3025). Submitted by L. S. Cressman.                 Av. 959 +150
+C-611   Danger (Lamus) Cave, Utah: Samples from Danger
+C-640   Cave near Wendover, Utah. Floor of cave has beach
+C-635   sand 2 feet thick from Lake Stansbury. This was
+C-636   dated at 11,453+600 and 11,151+570 by sheep
+        dung and wood fragments, respectively, which were
+        found in the sand (Nos. C-609 and C-610). Submitted
+        by Jesse D. Jennings.
+        C-611   Danger Cave III: Charcoal from just above            9789 +630
+                the sand in the lowest layers of the 15-foot
+                deposit of garbage and debris found at
+                the cave mouth. Donor’s sample No. F 97
+                FS 515.
+        C-640   Danger Cave VI: Charred rat dung found on             8960 + 340
+                the sand. A thin layer of charred rat dung
+                and   ash was   found    at this level. Donor’s
+                sample No. FS 619 (Feature 18 or 19).
+120                      RADIOCARBON         DATING
+ Our
+ No.                            Sample                           Age (Years)
+        C-635   Danger Cave VII: Charred bat guano, plant           1930 +240
+                stems, and twigs from 18-24 feet below the
+                current surface of the pile of debris. Donor’s
+                sample No. FS 614 (Feature 17).
+        C-636   Danger Cave VIII: Charred bat guano,               3819
+                                                                      + 160
+                twigs, and plant fragments from 48-52 feet
+                below the surface of the debris pile. Donor’s
+                sample No. FS 615 (Feature.5).
+C-657   Newberry Crater, Oregon (Newberry): Charcoal from          2054 +230
+        Newberry Crater, Oregon. Dates the final eruption
+        of the volcano. The pumice covering the Fort Rock
+        Cave (sandals, No. C-428) came from one or the
+        other of the Newberry Crater cones. This shows
+        whether the Fort Rock pumice is coeval with Big
+        Pumice Cone and whether Newberry continued
+        active after the great Mount Mazama eruption,
+        which made Crater Lake. Charcoal from branches of
+        wood up to 1 foot in diameter lying prostrate under a
+        cover of 3—4 feet of rhyolytic pumice from the last
+        pumice explosion within Newberry Crater. Found at
+        new road cut between Paulina and East Lakes, 2.5
+        miles west of East Lakes Forest Camp and approxi-
+        mately 1.5 miles southwest of the vent of the Big
+        Pumice Cone between the lakes. The exact spot was
+        0.1 mile west of the turnoff to Paulina Lake Summer
+        Homes and the same distance east of the turnoff to
+        the IOOF Camp. Submitted by Howel Williams.
+C-728   Lovelock Cave Basketry (Lovelock V): Samples of            1686 +220
+C-729   basketry to check the cultural type found in the
+C-730   Lovelock Cave. Furnished by E. K. Burnett, Heye
+        Foundation. Samples collected by Loud and Harring-
+        ton and described in “Lovelock Cave” (Univ. Cali-
+        fornia Publ. Archeol. Ethnol., 25, No. 1 [1929]). Sub-
+        mitted by L. S. Cressman.
+        C-728   Matting fragment, 18-48 inches below the
+                surface.
+        C-729   Bulrush cud (Scirpus validus), 18-48 inches
+                the surface.
+        C-730   Basketry fragments, 18-48 inches below the
+                surface. These three samples were combined.
+C-735   Lovelock Cave Basketry (Lovelock II): Basketry frag-       3172 +260
+        ments from a depth of 96-126 inches below the
+        surface in the same cave as described in Nos. C-728,
+        C-729, and C-730. Submitted by L. S. Cressman.
+                          RADIOCARBON         DATES                           121
+ Our
+ No.                           Sample                               Age (Years)
+C-827   Lind Coulee, Washington (Lind Coulee): Charcoal               19400 +940
+        from an ancient occupation in site in the Lind Coulee.         8518 +460
+        In this site stone artifacts are found in association    - Av. 8700 +400
+        with animal bones in deposits that have been identi-
+        fied by geologists as late Pleistocene in age. Among
+        the bones from the site are those of bison. Because of
+        the scrappy nature of the bones it has not been pos-
+        sible to identify the particular species of bison. The
+        bones in general exhibit a fair degree of mineraliza-
+        tion. Submitted by Richard Daugherty, State Col-
+        lege of Washington.
+C-844   Indian House Pit in Oregon (Klamath House): Indian              430 +165
+        house pit on the Klamath Reservation, 18 meters
+        long on the north-south axis, 16 meters wide on the
+        east-west axis, and 2 meters in depth. A dead ponde-
+        rosa pine in the house pit, which started its growth
+        sometime after the abandonment of the house, seems
+        to have lived about 250 years. Samples were wood
+        taken from the house pit. Collected and submitted
+        by L. S. Cressman.
+C-914   Tule Springs Site, Tule Springs, Nevada (Tule                 Older than
+        Springs): Ancient occupation site at Tule Springs.                 23,800
+        Excavated by Fenley Hunter and M. R. Harrington,
+        Southwest Museum, Los Angeles. The sample con-
+        sisted of charcoal taken from beneath one of the ash
+        beds about 2 feet below the present surface and
+        about 14 feet below the surface of the lake-bed de-
+        posit which at one time covered it It is thought that
+        the charcoal is of human origin. Submitted by M. R.
+        Harrington.
+
+             H. MINNESOTA, WISCONSIN, AND WYOMING
+C-496   Bronson, Minnesota (Bronson Interglacial): Wood               Older than
+        from a well, Bronson Station 1, 88 feet below surface              19,000
+        in association with a wealth of plant material in a
+        Preglacial spruce-tamarack forest. Collected by C. O.
+        Rosendahl, Department of Botany, University of
+        Minnesota (cf. Ecology, 29, 291-96 [1948]). Sub-
+        mitted by W. S. Cooper, University of Minnesota.
+C-497   Moorhead, Minnesota (Moorhead Interglacial): Wood            11,283 +700
+        from Moorhead Station 2, Minnesota, late Pleisto-
+        cene. May be associated with early history of Lake
+        Agassiz (cf. Ecology, 29, 289-90 [1948]). Collected
+        by C. O. Rosendahl and submitted by W. S. Cooper.
+C-334   Minnesota   Boreal (Boreal III): Peat from Jackson            7586 +490
+        Camp, Minnesota. Taken from 8-foot depth in Pol-              6866 +350
+122                         RADIOCARBON       DATING
+ Our
+ No.                            Sample                                   Age (Years)
+        len Zone B (pine period) by J. E. Potzger, Butler              Av. 7128 +300
+        University, Indianapolis, Indiana. Submitted by
+        E. S. Deevey, Jr.
+C-332   Minnesota Boreal: Peat from 8.5-meter depth in                     7988 +420
+        Cedar Bog Lake, Minnesota. Pollen Zone B. Col-
+        lected by M. Buell. Submitted by E. S. Deevey, Jr.
+C-308   Two Creeks, Wisconsin: Wood and peat samples from
+C-365   Two Creeks forest bed, Manitowoc County. Forest
+C-366   bed underlies Valder’s Drift (Thwaites). Apparently
+C-536   the spruce forest was submerged, pushed over, and
+C-537   buried under glacial drift by the last advancing ice
+        sheet in this region. Thought to be Mankato in age.
+              Sample                       Collection
+        C-308 (spruce wood)     L. R. Wilson, University of               10,877 +740
+                                  Massachusetts
+        C-365 (tree root)       J Harlen Bretz, University of             11,437 +770
+                                  Chicago
+        C-366 (peat in which    J Harlen Bretz, University,               11,097 +600
+               root [C-365]       Chicago
+               was rooted)
+        C-536 (spruce wood)     J Harlen    Bretz       and   C. L.      12,168
+                                                                             + 1500
+                                  Horberg, University of Chi-
+                                  cago.    Collected    several
+                                  years later than Nos. C-308,
+                                  C-365, and C-366 in 1950
+        C-537 (peat)            J Harlen Bretz and C. L.                  11,442 +640
+                                  Horberg, University of Chi-
+                                  cago.    Collected    several
+                                  years later than Nos. C-308,
+                                  C-365, and C 366 in 1950            Av. 11,404 +350
+C-504   Sand Island, Wisconsin: Peat from Sand Island, Bay-                 3656 +640
+        field County. This unique peat dates the one outlet
+        stage of the Nipissing Great Lakes. Submitted by
+        L. R. Wilson, University of Massachusetts.
+C-419   Lake Butle, Wisconsin: Glacial wood (cf. Bull. Geol.               5938 + 300
+        Soc. Am., 54, 136 [1943]) found between Appleton                   6864 + 300
+        and Menasha, on the eastern shore of Little Lake               Av. 6401 + 230
+        Butte des Morts. Log protruded from a sloping bank
+        of varved clay, perhaps reworked but older than the
+        surface till of Valder’s Drift. Appears flattened by
+        pressure. Collected and submitted by F. T. Thwaites,
+        University of Wisconsin.
+C-302   Sage Creek, Wyoming (Yuma): Partially burned bison                 6619 +350
+        bone with high organic content, from Sage Creek,                   7132 +350
+        Wyoming. Yuma site of Eisely and Jepsen. Sub-                  Av. 6876 +250
+        mitted by G. L. Jepsen, Princeton University.
+                          RADIOCARBON         DATES                        123
+ Our
+ No.                            Sample                           Age (Years)
+C-630   Kimberly, Wisconsin (Neenah): Glacial wood from          10,676 +750
+        Kimberly, Wisconsin. This consisted of a tree stump
+        approximately 9 by 5 inches, found about 12 years
+        ago in an excavation at the Kimberly-Clark Paper
+        Mill by workmen of the Lampert Company, of Osh-
+        kosh. Mr. Lampert gave pieces of the wood to the
+        Oshkosh Museum. The mill is almost in a direct line
+        with the Pointe Beach site of Two Creeks, and it is
+        thought that it should be of Mankato age (cf. Nos.
+        C-308, C-365, C-366, C-536, C-537, C-444, C-355,
+        C-356, and C-337). James A. Lundsted, of the Osh-
+        kosh Public Museum, and Clifford Allen, of Kimber-
+        ly-Clark, described the sample. W. F. Read, of the
+        Department of Geology, Lawrence College, exam-
+        ined the site on May 2, 1952. He found that the
+        wood occurred at a depth of about 10 feet in a sec-
+        tion of varved clays 25 feet thick, which extends
+        from the surface down to the limestone bedrock. He
+        stated that the clay is ‘‘the youngest glacial deposit
+        of the area” and “‘was almost certainly deposited in
+        a temporarily ice-dammed lake formed against
+        the front of the retreating Valders Ice (Lake Osh-
+        kosh).”’ According to C. L. Horberg, of the Univer-
+        sity of Chicago, this strongly indicates that the wood
+        is of Mankato age and that it was deposited as drift-
+        wood in the Lake Oshkosh clays. Submitted by James
+        A. Lundsted.
+C-668   Keyhole Reservoir, Wyoming (Keyhole Reservoir I1):         2790
+                                                                     + 350
+        Charcoal found in a small rock shelter (Site 48CK-
+        204) that occupies the sloping shelf of the south side
+        of the sandstone bluff west of Mule Creek and south
+        of the Belle Fourche River. The rock shelter is known
+        as Excavation Unit 2 (XU2). The sample was com-
+        posed of seven small lumps of charcoal (Cat. Nos.
+        48CK 204-120, -298, -327, -338, -430, -432, -462) and
+        one Jump of charred wood (Cat. No. 48CK204-429),
+        taken from four basin-shaped, rock-filled hearths and
+        from the sand matrix enveloping these hearths, and
+        four similar hearths in squares N100E20 and
+        L110E40 (XU2). A preliminary study of the data
+        indicates that three components—two lithic and one
+        ceramic (‘‘Woodland”’)—are represented in XU2.
+        Segregation of these components is difficult because
+        the ‘‘floor” of the shelf is uneven, and the overlying
+        deposits of fine wind-blown sand have. been subject
+        to inflation as well as deflation and have been pro-
+        foundly disturbed by rodent action. Tentatively, two
+124                      RADIOCARBON          DATING
+Our
+No.                             Sample                              Age (Years)
+        hearth levels representing the earlier and later lithic
+        components have been recognized. The charcoal and
+        charred wood comprising this sample came from
+        hearths and matrices of the ‘“‘earlier’’ level. Four
+        “McKean lancelate’ fragments found below the
+        level of these hearths and probably associated with
+        them suggest that the earlier lithic components,
+        XU2 may be contemporaneous with Level 1 in Site
+        48CK4   (No. C-667). Estimated      age of the earlier
+        lithic component, XU2, about 4000 years. Collected
+        by Richard P. Wheeler and submitted by Paul L.
+        Cooper, field director, River Basin Surveys, Lincoln,
+        Nebraska.
+
+C-667   Keyhole Reservoir, Wyoming (Keyhole Reservoir 1):              1660 +250
+        Charcoal from a small rock shelter on the north side           1295 +400
+        of the Belle Fourche River, about { mile east of the       Av. 1478 +200
+        Keyhole Dam. Sample was obtained from the matrix               1813 +300
+        of Level 1, which was the lowest occupational stratum          Grand Av.
+        and lay directly on bedrock. It consisted of three small       1646 +200
+        lots of charcoal (Cat. Nos. 48CK4-81, -103, -111),
+        which were taken from squares numbered N100E15,
+        N100E20, and N100E25. The number of the site is
+        48CK4. Together with the charcoal, fragments of
+        small basally notched lancelate points (the “McKean
+        lancelate” point) and other artifacts were found.
+        These mostly resemble some material from Signal
+        Butte IA. Collected by Richard P. Wheeler and sub-
+        mitted by Paul L. Cooper.
+
+C-702   Muddy Creek: Charcoal from an ancient hearth in a              3540 +220
+        camp site found near the mouth of Muddy Creek, a
+        tributary of the Big Horn River just above Boyson
+        Dam, Wyoming. The material was found in Site
+        48Fr34 at the location NO37.3x EO36.6 in the
+        Lower Level. The site is in the Shoshoni Basin. Sub-
+        mitted by William Mulloy, University of Wyoming.
+
+C-711   Upper Muddy Creek II: Charcoal from an an-                     3350 +250
+        cient hearth found on Muddy Creek several miles
+        above Site 48Fr34 (cf. No. C-702). The number of
+        the hearth was 35, and the site is numbered 48Fr33.
+        Submitted by William Mulloy.
+C-712   Poison Creek: Charcoal from a hearth found in an an-           3506 + 220
+        cient camp site at the mouth of Poison Creek, a
+        tributary of the Big Horn River just above the
+        Boyson Dam in Wyoming. The hearth was No. 1
+        in Site 48Fr5. Submitted by William Mulloy.
+                             RADIOCARBON         DATES                         125
+
+  Our
+  No.                             Sample                             Age (Years)
+ C-715    Wind Creek: Charcoal from a hearth in an ancient              3287 +600
+          camp site found between Wind Creek and Mule
+          Creek near the mouth of Mule Creek, which is a
+          tributary of the Belle Fourche River just above
+          Keyhole Dam in Wyoming. The site was 48Ck7,
+          the hearth was No. 23, and the charcoal came from
+          the Upper Level. Submitted by William Mulloy.
+
+ C-790     Grasshoppers: Grasshoppers found frozen in Grass-              45 +150
+           hopper Glacier, Yellowstone National Park, Wyo-
+           ming. They occurred well down toward the central
+           and bottom portion and were removed and melted
+           out by Irving Friedman of the U.S. Geological Sur-
+           vey. These grasshoppers were first reported in 1898
+          by Kimball. They are identified as Melanoplus mexi-
+          canus mexicanus (Sauss.), which is widely distributed
+          and is the common grasshopper pest. In the 1870’s
+          and 1880’s this species was particularly destructive
+          on the Great Plains and in the northern Rocky Moun-
+          tain region. It was very conspicuous because of pro-
+          nounced migratory habits. In recent years it has mi-
+          grated very little, presumably due to changing agri-
+          cultural practices. The specimens preserved in the
+          glacier apparently are of the migratory sort. Sub-
+          mitted by Irving Friedman.
+
+C-795    Horner Site: Charcoal from the Horner Site (Sage              6151 +500
+         Creek Site), Park County, Wyoming (cf. No. C-302              7690 + 850
+         which dated 6876 +250 years). This sample was col-        Av. 6920 + 500
+         lected in a heavily burned area which probably repre-
+         sented a hearth or fireplace. It was located in Square
+         9L-D. The site number is 48PA29. The Horner Site
+         located near Cody, Wyoming, was a butchering site
+         of the ancient Indians. By August 1950 about 180
+         bison skeletons had been recovered. Apparently the
+         animals were slain in the fall of the year, The stone
+         projectile points found in this site were of the Scotts
+         Bluff and Eden types. Collected by the Princeton-
+         Smithsonian Expedition in the summer of 1952.
+         Submitted by Waldo R. Wedel.
+
+C-722    Red River Terrace I: Carbon from Red River terrace           2150 +400
+         located 1 mile northwest of Robbin, Kittson County,
+         Minnesota; SE. corner, S. 4, irregular Sec. 19, T.
+         159 N., R. 50 W. Horberg locality No. 1. Collected
+         by Lloyd G. Tanner and Cyril Harvey, September
+         10, 1951. Carbon collected from soil zone 20 feet 6
+         inches above water level. Submitted by C. B. Schultz.
+126                      RADIOCARBON        DATING
+ Our
+ No                            Sample                             Age (Years)
+C-723   Red River Terrace II: Carbon from Red River ter-             2684 + 200
+        race located 1 mile northwest of Robbin, Kittson
+        County, Minnesota; SE. corner, S. $, irregular Sec.
+        19, T. 159 N., R. 50 W. Horberg locality No. 1. Col-
+        lected by Lloyd G. Tanner and Cyril Harvey, Sep-
+        tember 10, 1951. Carbon collected from soil zone
+        18 feet 8 inches above water level. Submitted by
+        C. B. Schultz.
+C-800   Appleton: Pleistocene wood from Appleton, Wis-            11,471 +500
+        consin, SE. } Sec. 28, T. 21 N., R. 17 E., found be-      10,241 +650
+        low plain of glacial Lake Oshkosh, imbedded in a di-   A. 10,856 +410
+        agonal position in clayey red Valders till. The bark
+        still remained on some of the log. From this Profes-
+        sor Read of Lawrence College, who collected the ma-
+        terial, concluded that the wood could not have been
+        transported very far before burial. Associated de-
+        posits include preglacial lake silts and sand and
+        gravel. It was identified as spruce (Picea) by L. R.
+        Wilson, University of Massachusetts.   It was found
+        at a depth of 14 feet below the plain of Lake Osh-
+        kosh. Submitted by C. L. Horberg.
+C-836   Old Copper, Oconto, Wisconsin (Old Copper I):               5600 +600
+        Charred wood from the Old Copper culture site near
+        Oconto. The samples were directly associated with
+        Archaic burials. The Old Copper culture has never
+        been accuratelv dated. Charred wood from crematori-
+        um Feature 1, Area II. Submitted by Robert E.
+        Ritzenthaler, Milwaukee Public Museum.
+C-837   Old Copper, Oconto, Wisconsin (Old Copper II):              7510 +600
+C-839   Charred wood from Feature 3, Area I, constitutes
+        No. C-837, and charcoal from Feature 11, Area I,
+        constitutes No. C-839. Twelve grams of No. C-837
+        and 8 grams of No. C-839 were mixed and measured.
+        Submitted by Robert E. Ritzenthaler.
+
+                            I. South DaKoTA
+C-454   Angostura, South Dakota: Charcoal from site in the          7715 +740
+        Angostura Reservoir area. Horizontal zone 3.5 inches
+        thick mixed with clay (decomposed Pierre Shale).
+        Donor’s sample No. 39FA65—203 from Square N7E4,
+        Area B. Submitted by F. H. H. Roberts.
+        Long Site, South Dakota: Charcoal from the Long Site        7073 + 300
+        (39FA65) in the Angostura area of southwestern. The
+        charcoal was taken from an oval-shaped unprepared
+        hearth (Feature 14) 2.1 feet long and 1.5 feet wide
+        in the west center of Square N3E3. Part also was
+                          RADIOCARBON        DATES                         127
+ Our
+ No.                           Sample                            Age (Years)
+        taken from a small surrounding area. Donor’s
+        sample No. 39FA65-417. Collected by Richard P.
+        Wheeler in the summer of 1950 in the field party of
+        Paul L. Cooper, River Basin Surveys, University of
+        Nebraska. Submitted by Paul L. Cooper.
+
+
+                                 J. ALASKA
+C-101   Yukon, Canada (Johnson 1): Charcoal and charred-            1606 + 180
+C-102   wood samples from buried soil layer in the Yukon.           1460 +180
+C-112   Submitted by F. Johnson.                                Av. 1533 +150
+C-260   Ipiutak, Alaska (Ipiutak): Wood from the Ipiutak             973 +170
+        site at Deering, Seward Peninsula, Alaska. Third
+        level in debris. Estimated date a.p. 0-500. Excavated
+        by Helge Larsen, summer of 1949. Submitted by
+        F. Rainey.
+C-266   Tpiutak Alaska (Ipiutak IT): Wood from Grave 51 at           912 +170
+        Ipiutak. Described in Larsen and Rainey, [piutak
+        and the Arctic Whale Hunting Culture (“Archeological
+        Papers of the American Museum of Natural His-
+        tory,” Vol. 42). Submitted by Helge Larsen, Uni-
+        versity of Alaska, College, Alaska.
+C-409   Pre-Aleut, Aleutian Islands (Aleut I): Charcoal from       12920 +240
+        an Aleut village site near the village of Nikolski on       3407 +520
+        Uniak Island. This particular sample was taken from     Av. 3018 +230
+        a depth of 433 cm. and is a pre-Aleut in age. Sub-
+        mitted by W. F. Laughlin, University of Oregon.
+C-299   Fairbanks: Wood found under 80-100 feet of frozen          Older than
+        muck in the gold diggings near Eva Creek, Fairbanks,            20,000
+        Alaska. Submitted by Wendell Oswalt, University of
+        Alaska Museum, College, Alaska.
+C-506   Norton Bay, Alaska (Alaska IT): Charred wood from           1460 +200
+        middle levels, Iyatayet site, Norton Bay, Alaska.
+        Excavated   by Giddings in 1949. Submitted     by F.
+        Rainey.
+C-563   Denbigh, Alaska (Denbigh Log): Base log from Paleo-        2016 +250
+        Eskimo House 7-IYH7; Cape Denbigh, Iyatayet
+        site. Submitted by F. Rainey.
+C-505   St. Lawrence Island, Alaska (Alaska I): Spruce wood        2258 + 230
+        from Hillside (Okvik House), Gambell, St. Lawrence
+        Island, Alaska. Excavated by Giddings in 1939, Sub-
+        mitted by F. Rainey.
+C-560   Trail Creek: Willows and charcoal from 80-cm. depth        5993 + 280
+        in Cave 9 at Trail Creek, Alaska. Submitted by F.
+        Rainey.
+ 128                        RADIOCARBON         DATING
+  Our
+  No.                             Sample                                 Age (Years)
+ C-301    Fairbanks Creek: Wood from 30- to 60-foot depth on              12,622 +750
+          Fairbanks Creek, Fairbanks, Alaska. Associated with
+          extinct mammal bones. Submitted by Wendell Os-
+          walt.
+ C-696    Uyak Bay, Kodiak Island, Alaska (Kodiak Island):                  333 +280
+          Wood from refuse midden excavated by A. Hrdlicka
+          in 1935 on Uyak Bay, Kodiak Island. Came from the
+          permafrost ground in the midden. Submitted by
+          R. F. Heizer.                            i
+ C-792    Denbigh Flint I: Charcoal from the Denbigh Flint                 3477 +310
+          Complex in the site at Iyatayet, Alaska. The layer               3541 +315
+         from which the sample came was covered at the point           Av. 3509+230
+         of sampling by sterile sandy silt, a layer of peaty
+         material, and then by silt loam containing ‘‘palae-
+         Eskimo” and ‘‘neo-Eskimo” materials. The depth
+         of the layer in this section was between 6.5 and 7
+         feet. The sample was scraped from the complex in
+         place in Section TYZ-5B near the middle of the ter-
+         race. It was collected and submitted by J. L. Gid-
+         dings, University of Pennsylvania Museum.
+ C-793   Denbigh Flint II: Charcoal from the Denbigh Flint                4253 +290
+         Complex in the site at Iyatayet, Alaska (cf. No.                 5063 + 340
+         C-792). The layer at this point was covered by 4.5           Av. 4658+220
+         feet of soil including Eskimo materials above the
+         usual sterile layer. This section, labeled ‘‘Section
+         IYR,” is high on the terrace slope where later cul-
+         tural materials were thinly deposited. It is about
+         50 feet from the section in which No. C-792 was col-
+         lected. Collected and submitted by J. L. Giddings.
+
+                 IV. MEXICO       AND      CENTRAL     AMERICA
+                      (Principal collaborator: H. DE TERRA)
+C-199    Tlaltilco, Mexico (Mexico 1): Charcoal from various              3407 +250
+         burials at different depths at Tlaltilco. Early to mid-
+         dle Archaic period. Collected by H. de Terra. Sub-
+         mitted by D. F. R. de la Borbolla, Museo Nacional
+         de Antropologia, Mexico, D.F.
+C-196    Zacatenco I, Mexico (Mexico II): Charcoal from low-              3310 + 250
+         est sherd layer, associated with Zacatenco I pottery.
+         Early Archaic period, refuse heap at Zacatenco,
+         Mexico. Collected by H. de Terra. Submitted by
+         D. F. R. de la Borbolla.
+C-203    Teolihuacdn, Mexico (Mexico III): Charcoal from                  2434 + 500
+         core of Pyramid of Sun, Teotihuacin, Mexico. The                 1519 +200
+         sample was taken in an excavated tunnel 65-100            Av. heterogeneous
+                          RADIOCARBON           DATES                       129
+ Our
+ No.                            Sample                            Age (Years)
+        meters from entrance below main center staircase.
+        The core of pyramid contains late Archaic type of
+        pottery. Collected by H. de Terra. Submitted by
+        D. F. R. de la Borbolla.
+C-198   Tlaltilco, Mexico (Mexico IV): Charcoal from pre-            6904 + 450
+        ceramic level including ‘‘Chalco culture” artifacts in       6017 +320
+        Rio Hondo terrace gravels at Tlaltilco. Collected by     Av. 6390 + 300
+        H. de Terra. Submitted by D. F: R. de la Borbolla.
+C-200   Cuicuilco: Charcoal from pottery level below Ped-            2422 +250
+        regal lava near pyramid of Cuicuilco. Associated with
+        pottery and figurines of late Archaic (Qicoman
+        phase type). Collected by H. de Terra. Submitted by
+        D. F. R. de la Borbolla.
+C-202   Loma del Tepalcate, Mexico       (Loma): Charcoal from       2565 +200
+        floor of stone structure, Loma del Tepalcate, late
+        Archaic period. Collected by H. de Terra. Submitted
+        by D. F. R. de la Borbolla.
+C-207   Tamaulipas, Mexico (Pueblito): Charcoal from top              505 +165
+        level of Site T174, state of Tamaulipas. Excavated            990 + 220
+        from Square N25, La Perra or Pueblito culture. Col-       Av. 6514150
+        lected by R. S. MacNeish. Submitted by D. F. R, de
+        la Borbolla through H. de Terra.
+C-204   Becerra Wood, Mexico: Wood from Ciudad de los De-           Older than
+        portes near Mexico City, Armenta Horizon associated              16,000
+        with mammoth, horse, etc. Younger Becerra forma-
+        tion. Collected in 1944 by Arellano and H. de Terra.
+        Submitted by D. F. R. de la Borbolla.
+C-205   Becerra Peat, Mexico: Peat from same station as No.        11,003 +500
+        C-204 but 500 meters east. Also from the Armenta
+        Horizon. Collected in 1944 by Arellano and H. de
+        Terra. Submitted by D. F. R. de la Borbolla.
+C-421   Marl at Tepexpén, Mexico (Tepexpdn 1): Stems and             3800 +450
+        roots of aquatic plants extending from 48 to 70 inches       4430 + 350
+        from surface of marl into and through caliche layer      Av. 4118 + 300
+        beneath which fossil Tepexpan man was found. Col-
+        lected and submitted by H. de Terra, Wenner-Gren
+        Foundation, New York.
+C-422   Atetelco, Mexico (Sun Temple): Charcoal from debris         11878 +200
+        in south chamber of “painted patio,” 1.40 meters             2611 +330
+        above floor of patio. In association with Teotihuacan    Av. 2244 + 180
+        II style pottery. Submitted by H. de Terra.
+C-423   Teotihuacén, Mexico (Sun Temple): Wood from large            3424 +230
+        pillar on exhibit at Teotihuacan. Excavated 1921 in
+        “Ciudadela” at Teotihuacan, probably part of sup-
+                         RADIOCARBON        DATING
+
+                               Sample                             Age (Years)
+        port for younger temple of Quetzalcoatl superim-
+        posed on older structure. Submitted by H. de Terra.
+        Monte Negro, Mexico (Alban I): Charcoal from Tem-           12518 +250
+        ple X at Tilantongo, Oaxaca. Sample of collapsed roof        2680 + 200
+        beams of temple excavated with rubble from temple        Av. 2600 + 170
+        floor, Monte Alban I level. Submitted by Alfonso
+        Caso, Instituto Nacional Indigenista, Mexico, D.F.
+C-425   Monte Alban, Mexico     (Monte Alban FI): Charcoal           2223 +145
+        from Well of Offering No. 3, Mound II (Temporada
+        XII), Monte Alban, Monte        Alban   II level. Sub-
+        mitted by Alfonso Caso.
+C-426   Chachoapan, Mexico (Alban IIT): Wood from roof               1652 +185
+        beams in tomb at Chacoapan, District of Nochixtlan,
+        Oaxaca. “Corresponds with pottery of Monte Alban
+        IILA type.” Submitted by Alfonso Caso.
+C-687   Tamaulipas, Mexico (Le Perra): Vegetable material            4445 +280
+        from Cave Tm.c.174. This is from the same site as
+        No. C-207, which gave 651 +150 years, but this sam-
+        ple is well below the earlier charcoal sample. It was
+        associated with artifacts of the Le Perra culture—the
+        pre-pottery horizon—and should be uncontaminated
+        culturally and physically. It was taken from 16-22
+        feet below the surface in Square N10W5 at Level 6
+        by R. S. MacNeish, National Museum, Ottawa,
+        Canada. Submitted by Mr. MacNeish.
+C-799   Guatemala: Charcoal from a log at the base of a very        Older than
+        thick deposit of pumice laid down by glowing vol-                16,000
+        canic avalanches in Guatemala. The material was
+        collected by Edwin Shook, of the Carnegie Institu-
+        tion of Washington. It was found on the west edge of
+        the highway between Patzun and Godinez, Depart-
+        ment of Chimaltenango, above Rio Chocoyos at the
+        6000 foot level in Chocoyos Canon in Guatemala.
+        The sample was from a location near the bottom of a
+        deposit of fine to thumb-size white pumice. It was
+        15 cm. in diameter and 8 meters long. The impor-
+        tance of the specimen is that it serves to date the
+        colossal glowing avalanche deposit west of Lake
+        Atitlan. Similar deposits probably of about the same
+        age, to judge by their degree of erosion, are wide-
+        spread north of Lake Atitlan, also in the great valley
+        around Guatemala City, and in the valley extending
+        west from Totonicapan and in the valley north of
+        Quetzaltenango. In brief, many of the largest valleys
+        of Guatemala were inundated to a great depth by
+        these avalanches during post-Pleistocene times. It
+                           RADIOCARBON          DATES                      131
+ Our
+ No.                              Sample                           Age (Years)
+        is the opinion of Howel Williams that dating of the
+        sample will serve to date, if only approximately, all
+        the other valley fills. L. C. Stuart says the nonoccur-
+        rence of charcoal above this sample indicates that
+        no major eruptions have occurred there since. Sub-
+        mitted by Howel Williams.
+C-884   Pre-Classic   Miraflores,    Kaminaljuyu,    Guatemala     3142 +240
+        (Guatemala I): Charcoal from Str. 4, Md. E-III-3,
+        Kaminaljuyu. This belongs to the pre-Classic Mira-
+        flores phase in this area. Collected and submitted by
+        Edwin,   M. Shook, Carnegie Institution of Washing-
+        ton.
+
+C-886   Pre-Classic    Majadas,      Kaminaljuyu,    Guatemala     2970 + 200
+        (Guatemala IV): Charcoal from an intrusive cache of
+        jades, pottery, and sculpture in Md. C-III-6, Ka-
+        minaljuyi. This belongs to the pre-Classic Majadas
+        phase. Collected by Edwin M. Shook.
+C-887   Pre-Classic Miraflores, Kaminaljuyu,      Guatemala        2490 + 300
+        (Guatemala III): Charcoal from Str. 5, Md. E-III-3,
+        Kaminaljuyu. Sample from the fill of Str. 5, strati-
+        graphically slightly postdating No. C-884. Mira-
+        flores phase (formerly Verbena) of the pre-Classic.
+        Collected by Edwin M. Shook.
+C-891   Pre-Classic Eruption in El Salvador (El Salvador):         2993 + 360
+        Charcoal from San Salvador. Charcoal which serves
+        to date the last pumice explosions of El] Boqueron
+        volcano and the pre-Classic artifacts (cf. Nos. C-884,
+        C-886, and C-887) found in abundance in the same
+        stratum at many localities in and near San Sal-
+        vador. This charcoal comes from a well + mile north
+        of the Inter-American highway bridge over Rio
+        Acelhuate, approximately 1 mile east of San Sal-
+        vador. It occurs in a layer of humus-bearing weath-
+        ered pumice and is overlain by 31 meters of fluvia-
+        tile pumice. Collected and submitted by Howel
+        Williams.
+C-948   Mayan (Mayan I, II): In the case of these samples
+C-949   a second attempt to test the limit of sensitivity of the
+        radiocarbon dating method was made. The first,
+        published in the last date list (5), concerned samples
+        from Nippur fixing the Babylonian calendar. The
+        choice between the Spinden and Goodman-Thompson
+        correlations for the Mayan calendar is the point at
+        issue. In November, 1951, Kulp (Science, 114, 565)
+        published a single result on wood taken from a carved
+        Mayan lintel from structure 10, Tikal. The carved
+132                          RADIOCARBON         DATING
+ Our
+ No.                              Sample                                  Age (Years)
+        date on the lintel was 9.15.10.00 in the Mayan calen-
+        dar, which, according to the Goodman-Thompson
+        correlation, would be June 30, a.p. 741, and, accord-
+        ing to the Spinden correlation, would be October 30,
+        A.D. 481. Kulp’s result was A.D. 481 +120.
+           The present samples from carved lintels from
+        Tikal, Guatemala, were furnished from the Ethno-
+        graphical Museum at Basel, Switzerland. No. C-948
+        was taken from the famous lintel shown on Plate 42
+        of Morley’s The Ancient Mayan. It consisted of
+        sapodilla wood and bore the Mayan date 9.15.10.00,
+        the same as the sample tested at Columbia Univer-
+        sity. No. C-949 was taken from the glyphic of the
+        lintel shown on Plate 72 (Maudslay). It bore the
+        same date and also was sapodilla wood.
+          The samples were measured separately over a
+        period of about 6 weeks in each case, and the mean
+        results   calculated.   Within     the experimental    error
+        of about 1 per cent, the net count rate for both sam-
+        ples agreed. Combining these data with the half-life
+        of radiocarbon, which is estimated to involve an
+        error of 0.54 per cent, and the assay for modern wood,
+        which we take to have an error of 0.67 per cent, we
+        obtain the results given. The samples were submitted
+        by Hans Dietschy of the Ethnographical Museum,
+        Basel. Most of the measurements            were    taken     by
+        Delia Gonzalez Tudge.
+        C-948     Date, a.p. 469 +120.                                       1485 +120
+        C-949     Date, a.v. 433 +170                                        1521 +170
+        Weighted average: Date, a.p. 451 +110.                               1503 +110
+
+
+                                V. SOUTH      AMERICA
+                         (Principal collaborator: J. B. Brrp)
+C-321   Huaca Prieta, Peru (Chicama): A series of samples
+C-318   from Huaca Prieta Mound 3, which is preceramic.
+C-316   Collected and submitted by J. B. Bird, American
+C-315   Museum of Natural History, New York.
+C-313
+                    Sample          Level (Depth in Feet from Top)
+        C-321 (12) (plant material)           HP-D; 6                       2966 + 300
+        C-318a (9) (wood)                     HP3-J2; 22                    1989 + 196
+        C-318d (9) (wood)                                                   3550 + 600
+        C-316 (7) (wood)                      HP3-M;; 30                    4380 +270
+        C-315 (6) (shell)                     HP3-M; 30                     3572 +220
+        C-313 (4) (wood)                      HP3-Q1; 36                    4257 +250
+        Comment: First sample (No. C-318a) looks incorrect.
+                           RADIOCARBON          DATES                          133
+ Our
+ No.                             Sample                              Age (Years)
+C-362   Huaca Prieta, Peru (Chicama VII): Sample of cattail            4044 + 300
+        roots from Layer K-2 of Huaca Prieta Mound 3.
+        Should be between Nos. C-316 and C-318. Submitted
+        by J. B. Bird through H. C. Cutler, Chicago Natural
+        History Museum.
+C-598   Huaca Prieta: Charcoal from the lowest occupation              4298 + 230
+        level of Huaca Prieta Mound 2, found directly on
+        bedrock by Constante Larco, under the direction of
+        J. B. Bird. Submitted by J. B. Bird.
+C-75    Huaca Prieta, Peru (Peruvian): Algaroba wood from              2665 +200
+        roof beam section of subterranean house found in
+        Huaca Prieta Mound 5 at the level of first appearance
+        of maize and Cupisnique pottery, Chicama Valley,
+        Peru. Collected and submitted by J. B. Bird.
+C-322   Huaca Prieta, Peru (Chicama IV): Wooden digging                3278 +250
+        stick from House No. 2 of Huaca Prieta Mound 5.                3333 + 340
+        Should be more than 100 years older than Cupisnique        Av. 3310 +200
+        (No. C-75). Submitted by J. B. Bird.
+C-323   Huaca Prieta, Peru (Peruvian Rope): Rope in excel-             2632 +300
+        lent condition from cache in lowest layer (D) of
+        Huaca Prieta Mound 1. Associated with early Nega-
+        tive (Gallinazo) pottery. Submitted by J. B. Bird.
+C-382   Moche: Ash mixed with bone from Moche site at                  2823 + 500
+        Huaca de Sol, northern Peru. Taken from habitation
+        site, ground level, beneath pyramid on north face in
+        center. Associated with Mochica sherds. Collected
+        and submitted by G. Kubler, Yale University.
+C-619   Virt Valley, Peru (Mochica Rope): Rope from a late             1838 +190
+        Mochica burial at Huaca de la Cruz in the Vira Val-
+        ley. Associated pottery indicates it dates from the lat-
+        ter part of the Mochica period as recorded in the
+        Vird, the first valley south of Moche. Submitted by
+        W. D. Strong, Department of Anthropology, Colum-
+        bia University, through J. B. Bird.
+C-271   Paracas Necropolis, Peru (Paracas): Cotton cloth from          2190 +350
+        the mummy brought to New York in 1949 by Dr.                   2336 + 300
+        Rebecca Carrion, National Museum of Anthropology           Av. 2257 +200
+        and Archaeology, Peru. From Paracas Necropolis.
+        Submitted by J. B. Bird.
+C-460   Nazca Valley, Peru (Nazca 1): Sections of four darts,          1314 +250
+        distal ends painted black, three hard and whipping at
+        end. Cahuachi, Nazca Valley, Section Aj, Location A,
+        Grave 10, Nazca A Period. Excavated by A. L.
+        Kroeber. Specimen No. 171210, Chicago Natural
+        History Museum. Submitted by D. Collier.
+134                     RADIOCARBON         DATING
+ Our
+ No.                           Sample                              Age (Years)
+C-521   Nazca Valley, Peru (Nazca II): Wood fragments of            11681 +250
+        Atlatl shaft from Grave 12, Location A, Section Aj,           2477 +200
+        Cahuachi, Nazca Valley. Nazca A Period. Catalogue        Av, 2211+200
+        Nos. 171245 and 171246. Should be contemporaneous
+        with Paracas mummy. Collected by A. L. Kroeber
+        and submitted by D. Collier.                               Av. including
+                                                                      No. C-460_
+                                                                      1988 +200
+C-378   Chincha, Peru (Chincha): Guano from North Chincha            Older than
+        Island found beneath 3 feet 6 inches of wind-borne                19,000
+        sand at Quebrada del Panteon by G. Kubler. Sub-
+        mitted by Mr. Kubler.
+C-484   Mylodon Cave, Chile (Chilean Sloth): Dung of giant          10,800 +570
+        sloth from Mylodon Cave, Ultima Esperanza, Chile            10,864 +720
+        (51°35’S.). Not associated with human artifacts,        Av. 10,832 + 400
+        though sloth and man found together in three caves
+        125 miles distant (cf. No. C-485). There is an as yet
+        undetermined correlation with the last ice advance in
+        Patagonia. Submitted by J. B. Bird.
+C-485   Palli Aike Cave, Chile (Chilean Bone): Burned bone of         8639 +450
+        sloth, horse, and guanaco, associated with human
+        bones and artifacts. Valuable in determining time of
+        arrival of man at tip of South America. Material
+        found in Palli Aike Cave, 125 miles east of Mylodon.
+        Submitted by J. B. Bird.
+C-658   Nazca Valley, Peru (Nazca Wool): Dyed wool in the             1679 + 200
+        the form of a turban bandeau. Taken from Grave 13,
+        Cahuachi, Nazca Valley, Peru, by A. L. Kroeber. It
+        was at Location A and in Section Aj (cf. No. C-521).
+        Submitted by D. Collier.
+
+                        VI. TREE-RING SAMPLES
+C-103   Broken Flute Cave, New Mexico (Tree Ring): Douglas            973 +200
+        Fir wood excavated by Morris in 1931 from Red Rock           1070 + 100
+        Valley, Room 6, Broken Flute Cave. Inner ring A.D.       Av. 1042+ 80
+        530; outer ring A.D. 623. Submitted by T. L. Smiley,
+        Laboratory of Tree Ring Research, University of
+        Arizona, Tucson.
+C-159   Sequoia: Wood from the heart of the giant redwood            3045 +210
+        known as the “Centennial Stump”’ felled in 1874,             2817 +240
+        with 2905 rings between the innermost (and 2802              2404 +210
+        rings between the outermost) portion of the sample       Av. 2710 + 130
+        and the outside of the tree. Therefore known mean
+        age was 2928 +51 years. Submitted by E. Schulman,
+        Laboratory of Tree Ring Research, University of
+        Arizona, Tucson,
+                          RADIOCARBON        DATES                         135
+
+                            VII. OTHER     AREAS
+
+                                Sample                           Age (Years)
+        Ubayama Shell Mound, Japan (Japanese): Charcoal             4850 +270
+        from Ubayama shell mound, about 10 miles west of            3938 + 500
+        Tokyo, Japan. Charcoal was part of structural re-       Av, 4546 +220
+        mains in a house area in the bottom levels of the
+        mound, Found in fall of 1948. Thought to be oldest
+        house site in Japan. Submitted by Ralph D. Brown,
+        26 West Rustic Lodge Avenue, Minneapolis, Minne-
+        sota. Similar sample submitted by Lieutenant
+        Colonel H. G. Schenck. This sample was not meas-
+        ured.
+        Ubayama Shell Mound, Japan (Late Jomon): Char-              4513 +300
+        coal collected by Father Groot from the early Late
+        Jomon (Horinouchi Stage) horizon at the Ubayama
+        shell mound (cf. No. C-548) in Japan. Submitted
+        through H. L. Movius.
+C-580   West Africa: Carbonized wood from a late Upper            11,189 +490
+        Pleistocene deposit at Mufo, Angola, Portuguese
+        West Africa, associated with a Lupembian stone
+        blade (late Stone Age). Found on the eastern bank of
+        the Luembe River (7°38’ S.; 21°24’ E.). Stratigraphy
+        was gray-white sand at surface 2.50 meters thick. At
+        the base of this the Lupembian (late Stone Age)
+        backed blade was found in mint condition, unworn
+        and associated with the carbonized wood measured.
+        Next below the sand was a gravel layer 65 cm. thick;
+        next a ferritized gravel layer 5 cm. thick; then a
+        gravel layer identical with the second layer from the
+        surface. This was 10 cm. thick and rested on the bed-
+        rock of mica schist. Submitted by J. Janmart, Museo
+        do Dundo, Comparrhia de Diamantes de Angola,
+        Dundo-Lunda, Angola, through H. L. Movius.
+C-581   West Africa: Carbonized wood found 15 cm. down in         14,503 + 560
+        the gravel layer underlying No. C-580. Submitted by
+        J. Janmart through H. L. Movius.
+C-540   Hawaii: Charcoal from earliest Polynesian culture in         946 +180
+        Hawaii. Found in Kiliouou Bluff Shelter, Kuliauaw,
+        Oahu Island, by Kenneth P. Emory, Bernice P.
+        Bishop Museum, Honolulu 17, Hawaii. Submitted
+        by K. P. Emory.
+        Australia A: Aboriginal kitchen midden charcoal             1177 +175
+        from Australia, taken from Goose Lagoon, western
+        Victoria, on property called “Leura” east of Goose
+        Lagoon. The midden was on the north side of the
+        aeolianite region and toward its east end, about 15
+136                       RADIOCARBON           DATING
+ Our
+ No.                               Sample                            Age (Years)
+        feet above the alluvium flat. Collected by Edmund D
+        Gill, National Museum of Victoria, Melbourne. Sub-
+        mitted by H. L. Movius,
+C-601   Australia B: Aboriginal kitchen midden charcoal                  538 + 200
+        from Australia, taken from Koroit Beach at Arm-
+        strong’s Bay, northwest of Warrnambool, Victoria.
+        Collected by Edmund D. Gill, National Museum of
+        Victoria, Melbourne. Submitted by H. L. Movius.
+C-629   Manchuria (Seeds): Ancient Manchurian lotus seeds,              1040 +210
+        still fertile. Collected by Ichiro Ohga in the Pulantien
+        Basin of southern Manchuria in a peat layer pre-
+        sumably of Pleistocene age; uplift and erosion had
+        exposed the layer on the walls of the Pulantien River
+        Valley. Ohga germinated several hundred seeds,
+        either filing the thick outer shell or soaking in con-
+        centrated sulphuric acid for 1-5 hours. Genus Velum-
+        bo, similar to the Indian lotus N. nucifera. Sub-
+        mitted by R. W. Chaney, University of California,
+        Berkeley.
+C-613   Zimbabwe, Southern Rhodesia (Zimbabwe): Large log               1415 +160
+        from the famous prehistoric site of Zimbabwe in                }1344 + 160
+        Southern Rhodesia. Zimbabwe is a rather elaborate               1271 +260
+        town built by the ancestors of the modern Bantu             Av, 13614120
+        peoples of South Africa, Generally thought to date
+        from the fourteenth or fifteenth centuries A.D.; it
+        may date as early as the ninth century A.D., however.
+        It was to settle this controversy that this sample was
+        submitted by H. L. Movius.
+C-660   Lonze Forest, Barotseland, Northern Rhodesia (Lonze             3585 + 260
+        Forest): Charcoal from newly developed pit in the
+        Lonze Forest, Barotseland, taken at the 5-foot level
+        (4 feet 10 inches to 5 feet 3 inches). There was no
+        evidence of tree roots, and it is believed that the char-
+        coal was free from root contamination. Collected by
+        J. Desmond Clark, curator, Rhodes-Livingstone
+        Museum,     Livingstone,     Northern   Rhodesia.   Sub-
+        mitted by H. L. Movius.
+C-661   Barotseland: Charcoal from newly developed pit in               3210 +250
+        the Lonze Forest, Barotseland, taken at a depth of              4300 + 500
+        10 feet to 10 feet 4 inches at the site from which No.      Av, 3500 +225
+        C-660 was taken. No. C-660 dated 3585 +260. Col-
+        lected by J. Desmond Clark, Livingstone. Submitted
+        by H. L. Movius.                              '
+C-662   Situmpa Forest, Machili, Northern Rhodesia (Situmpa             4078 +300
+        Forest): Charcoal from pits dug in the Situmpa For-
+                           RADIOCARBON          DATES                         137
+ Our
+ No.                             Sample                             Age (Years)
+        est, taken at the 5-foot level, which is tied with an
+        archeological locality that represents the first defi-
+        nitely dated archeological horizon in this region. This
+        should prove a clue as to the age of the Bantu pene-
+        tration of Barotseland. Collected by J. Desmond
+        Clark. Submitted by H. L. Movius.
+C-663   Chifubwa Stream Shelter, Solwezi, Northern Rhodesia            6310 +250
+        (Rhodesian Nachikufan I): Charcoal from Chifubwa
+        Stream Shelter in Solwezi. From the lowest 18 inches
+        of an orange sand and the top 4-6 inches of a late
+        Stone Age occupation layer containing an industry
+        known as Nachikufan I. The sample is of consider-
+        able importance for establishing the absolute chro-
+        nology for prehistoric man in southern Africa. Col-
+        lected by J. Desmond Clark. Submitted by H. L.
+        Movius.
+C-669   Chalan Piao Site, Saipan Island (Saipan): Oyster               3479 + 200
+        shell found 1.5 feet below the surface at the Chalan
+        Piao Site, about 4 mile inland from the shore line in
+        the undisturbed, indurated sand beds that lie along
+        the west coast of Saipan Island. Potsherds occurred
+        at this level, and the deposition of the sherds and
+        shell appears to have taken place previous to a 6-foot
+        eustatic fall in sea level. Guess date, based on God-
+        win’s dating of this fall on the southern English
+        coast, is 3000-4000 years. The outer, slightly powdery
+        surface of the shell was removed to leave a trans-
+        lucent interior. H. C. Urey measured the tempera-
+        ture of deposition to be 27.5°C. by the oxygen 18
+        content, which is identical with present ocean tem-
+        peratures in this area. Since the shell would have
+        been washed by fresh water, alteration would have
+        drastically   changed   this apparent   temperature   by
+        changing the oxygen 18 content. Dr. Urey therefore
+        concludes that the oxygen had not been replaced in
+        the shell. Consequently, we believe that the carbon
+        has not been replaced, since each carbon atom is sur-
+        rounded by oxygens in the carbonate ions. Submitted
+        by Alexander Spoehr, Chicago Natural History
+        Museum.
+C-688   Chaney Seeds: Wood (Torreya nucifera) from a canoe             3052 + 200
+        found about 20 feet below the surface in Kemigawa              3277 + 360
+        in 1948. This site is 8 miles east of Tokyo. The in-       Av. 3075 + 180
+        terest in this wooden canoe stems largely from the
+        fact that Dr. Ichiro Ohga found three viable lotus
+        seeds (cf. No. C-629) associated with the remains of
+        the canoe. In addition to the viable seeds, he found
+138                      RADIOCARBON         DATING
+Our
+No.                             Sample                             Age (Years)
+        many lotus receptacles. Ohga’s discoveries were
+        made in April, 1951. Submitted by R. W. Chaney.
+C-697   Lonze Forest, Barotseland, Northern Rhodesia (Kala-          6098 + 300
+        hari): Charcoal from depth of 12 feet in the Kala-
+        hari Sand in a pit 8 feet in diameter in the Lonze
+        Forest. The sides of the pit were scraped at 12 feet
+        to expose the charcoal. It is not a continuous horizon.
+        The charcoal was found in seven places. Variation in
+        depth between the lowest and highest samples did
+        not exceed 8 inches. Collected by J. Desmond Clark.
+        Submitted by H. L. Movius.
+C-721   Blue Site, Tinian Island (Tinian Blue Site): Shell            1098 +145
+        (Tridacna) from the Blue Site on Tinian in the Mari-
+        anas Islands, from Test A at a depth of 1.9 feet. At
+        this site a skeleton was found that exhibited yaws,
+        according to T. Dale Stewart,of the United States
+        National Museum. Yaws and syphilis probably are
+        manifestations of related forms of spirochete. The
+        Marianas skeleton, as bearing on the existence of
+        yaws in the Pacific prior to the historic period, is
+        thus relevant to the larger problem of the develop-
+        ment and spread of both yaws and syphilis. In addi-
+        tion, the Blue Site is representative of the major
+        prehistoric cultural manifestation, the latte culture,
+        which persisted up to the sixteenth and seventeenth
+        centuries. How far back it goes is not known. Dating
+        the Blue Site should furnish evidence. The excava-
+        tion was conducted under the direction of Alexander
+        Spoehr as part of the Chicago Natural History’ Mu-
+        seum Expedition in 1949-50. Submitted by him for
+        dating.
+C-829   Situmpa Forest Station (Barotseland): Check pit               1854 +220
+        excavated in 1952 by J. Desmond Clark of the
+        Rhodes-Livingstone Museum, Livingstone, North-
+        ern Rhodesia. Charcoal from depth of 2 feet 10 inches
+        to 3 feet 4 inches in redeposited Kalahari sands.
+        Associated industry includes shards of Stamped
+        Ware pottery (Bambata variant), which is not be-
+        lieved to be as old as would be indicated by the
+        4078 +300 years (2126 B.c. + 300 years) obtained
+        for No. C-662. This pit was dug at some 5 yards dis-
+        tance from the first excavation to check the earlier
+        date. Submitted by H. L. Movius on behalf of
+        J. Desmond Clark.                          /
+C-830   Lusu Village, Zambezi River (Lusu Village): Char-            oe +230
+        coal collected in what appeared to be a large hearth          2353 +180
+        in Lusu Village, Zambezi River, Sesheke District,         Av, 2139 +150
+                           RADIOCARBON         DATES                         139
+ Our
+ No.                         Sample                                Age (Years)
+        Barotseland. Sample taken just above spot where
+        shards of Stamped Ware pottery of a believed
+        Rhodesian Wilton occupation were found. This is
+        overlain by 2 feet 7 inches of redeposited Kalahari
+        sands. The section is very clear; the charcoal layer
+        averages just over 1 inch in thickness and extends for
+        8 feet along the face of the section. Age believed to be
+        approximately the same as that of the 4- to 5-foot
+        horizon at the Situmpa Forest Station Pit, Machili
+        (No. C-829). Submitted by H. L. Movius on behalf
+        of J. Desmond Clark.
+C-831   Hawaii (Hawaii I and Hawaii II): Charcoal and
+C-832   wood from Bowl Cave on uninhabited Necker Island,
+        northwest Hawaiian Islands. Found in 1923 reported-
+        ly under 14 inches of sterile dust in association with
+        stone artifacts of ancient Hawaiian type and thought
+        to be contemporaneous with the ancient stone ruins
+        on the island (see Archeology of Nihoa and Necker
+        [Bishop Museum Bull. 53], p. 90).
+        C-831   1-g-ounce charcoal stored in museum in tin             166
+                                                                         + 200
+                can, 1923-51, in glass jar, 1951-53. Collected
+                by W. Anderson and submitted by Kenneth
+                P. Emory.
+        C-832   2,'s-ounce piece of wiltwili (cork) wood, kept           0+250
+                in cardboard box in museum.
+C-850    Fossil Skull, Florisbad, South Africa (Florisbad I):        Older than
+         Peat I from Florisbad site. The site lies approxi-              41,000
+        ‘mately 25 miles due north of Bloemfontein, Orange
+         Free State, Union of South Africa. The geologic
+         stratification of this site is very marked. At a depth
+         of 19 feet in the lowest peat layer, from which No.
+         C-850 was taken, the Florisbad skull, Homo (A/fri-
+         canthropus) helmei, was discovered in situ and in
+         association with many stone implements and numer-
+         ous extinct species of animals, for example, horse,
+         hippopotamus, pig, and antelope. Above the lower-
+         lying layer are three other layers of peat dated in
+        later samples. Submitted by H. L. Movius on behalf
+        of A. C. Hoffman, National Museum, Bloemfontein,
+        Union of South Africa.
+C-851   Florisbad Peat (Florisbad II): Peat II, lying 47 inches      9104 +420
+        above the lowest-lying peat (No. C-850), and itself
+        13 inches in thickness at the Florisbad site. Sub-
+        mitted by H. L. Movius on behalf of A. C. Hoffman.
+C-852   Florisbad Peat (Florisbad III): Peat III, lying 52          6700 + 5000
+        inches above Peat II, which in turn lies 47 inches
+140                       RADIOCARBON          DATING
+ Our
+ No.                             Sample                             Age (Years)
+        above the lowest-lying Peat I at the Florisbad site.
+        Submitted by H. L. Movius on behalf of A. C. Hoff-
+        man,
+
+C-911   Bushman Paintings, South Africa (Bushman Paint-               3368 + 200
+        ings): A very good sample of charcoal from South-
+        West Africa. It bears on a very important dating
+        problem, namely, the question of the age of certain
+        styles of the so-called Bushman paintings. The char-
+        coal was found stratified in a cave deposit in direct as-
+        sociation with ocher for making the frescos which fill
+        the cave walls. H. Breuil is convinced that a meas-
+        urement of these charcoals will provide a first direct
+        indication of when the main group of these painting
+        was executed. The sample was collected at a locality
+        known as the Phillip Cave, which is near Ameib,
+        southeast of the Erongo Mountains in the Windhoek
+        region of South-West Africa. Submitted        by H. L.
+        Movius on behalf of H. Breuil, Paris.
+C-917   Zimbabwe, South Africa (Zimbabwe IT): Wood from               1506 +305
+        an excavation in the “Temple” at Zimbabwe by K. R.
+        Robinson in 1951 (see plan opposite p. 23 in Zimbab-
+        we Guide). The specimen is cut from a second lintel,
+        the first having already been dated at 1361+120
+        years (No. C-613). Sample submitted by Hallam L.
+        Movius on behalf of Roger Summers, National
+        Museum, Bulawaya, Southern Rhodesia. This date
+        was averaged with the date for No. C-613 of 1361 +
+        120 to give a date of A.D. 574 +107 for the Zimbabwe
+        city on the Christian calendar.
+C-924   Cave of the Hearths, Potgietersrus, South Africa (South
+C-925   Africa I, South Africa II, South Africa III, South
+C-926   Africa IV): Organic material from the ashy sub-
+C-927   stance constituting the deposit in the Cave of the
+        Hearths, South Africa. Collected by R. J. Mason.
+        Submitted by K. P. Oakley, British Museum, Lon-
+        don.
+        C-924 Middle Stone Age III; 130 in. in column ‘“‘A”’        11,600 + 700
+        C-925 Middle Stone Age IV; 180 in. in column “‘B”           15,100 +730
+        C-926 Middle Stone Age II; 156 in. in column “‘A”’          16,811 +960
+        C-927 Middle Stone Age I; 288 in. in column “C”             11,700 + 610
+                                CHAPEL
+                                     E RY Vit
+

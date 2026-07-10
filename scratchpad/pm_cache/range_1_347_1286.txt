@@ -1,0 +1,940 @@
+Preface
+
+
+
+
+Like the writing of most professional archeologists, mine has been confined to so-called learned papers. Good, bad, or indifferent, these papers were in a jargon that only my colleagues and a few advanced students could understand. Hence, when I was asked to do this little book, I soon found it extremely difficult to say what I meant in simple fashion. The style is new to me, but I hope the reader will not find it forced or pedantic; at least I have done my very best to tell the story simply and clearly.
+
+Many friends have aided in the preparation of the book. The whimsical charm of Miss Susan Richert’s illustrations add enormously to the spirit I wanted. She gave freely of her own time on the drawings and in planning the book with me. My colleagues at the University of Chicago, especially Professor Wilton M. Krogman (now of the University of Pennsylvania), and also Mrs. Linda Braidwood, Associate of the Oriental Institute, and Professors Fay-Cooper Cole and Sol Tax, of the Department of Anthropology, gave me counsel in matters bearing on their special fields, and the Department of Anthropology bore some of the expense of the illustrations. From Mrs. Irma Hunter and Mr. Arnold Maremont, who are not archeologists at all and have only an intelligent layman’s notion of archeology, I had sound advice on how best to tell the story. I am deeply indebted to all these friends.
+
+While I was preparing the second edition, I had the great fortune to be able to rework the third chapter with Professor Sherwood L. Washburn, now of the Department of Anthropology of the University of California, and the fourth, fifth, and sixth chapters with Professor Hallum L. Movius, Jr., of the Peabody Museum, Harvard University. The book has gained greatly in accuracy thereby. In matters of dating, Professor Movius and the indications of Professor W. F. Libby’s Carbon 14 chronology project have both encouraged me to choose the lowest dates now current for the events of the Pleistocene Ice Age. There is still no certain way of fixing a direct chronology for most of the Pleistocene, but Professor Libby’s method appears very promising for its end range and for proto-historic dates. In any case, this book names “periods,” and new dates may be written in against mine, if new and better dating systems appear.
+
+I wish to thank Dr. Clifford C. Gregg, Director of Chicago Natural History Museum, for the opportunity to publish this book. My old friend, Dr. Paul S. Martin, Chief Curator in the Department of Anthropology, asked me to undertake the job and inspired me to complete it. I am also indebted to Miss Lillian A. Ross, Associate Editor of Scientific Publications, and to Mr. George I. Quimby, Curator of Exhibits in Anthropology, for all the time they have given me in getting the manuscript into proper shape.
+
+Robert J. Braidwood
+
+June 15, 1950
+
+Preface to the Third Edition
+
+In preparing the enlarged third edition, many of the above mentioned friends have again helped me. I have picked the brains of Professor F. Clark Howell of the Department of Anthropology of the University of Chicago in reworking the earlier chapters, and he was very patient in the matter, which I sincerely appreciate.
+
+All of Mrs. Susan Richert Allen’s original drawings appear, but a few necessary corrections have been made in some of the charts and some new drawings have been added by Mr. John Pfiffner, Staff Artist, Chicago Natural History Museum.
+
+Robert J. Braidwood
+
+March 1, 1959
+
+
+
+
+
+HOW WE LEARN about Prehistoric Men
+
+
+
+
+Prehistory means the time before written history began. Actually, more than 99 per cent of man’s story is prehistory. Man is at least half a million years old, but he did not begin to write history (or to write anything) until about 5,000 years ago.
+
+The men who lived in prehistoric times left us no history books, but they did unintentionally leave a record of their presence and their way of life. This record is studied and interpreted by different kinds of scientists.
+
+
+
+
+
+SCIENTISTS WHO FIND OUT ABOUT PREHISTORIC MEN
+
+
+The scientists who study the bones and teeth and any other parts they find of the bodies of prehistoric men, are called physical anthropologists. Physical anthropologists are trained, much like doctors, to know all about the human body. They study living people, too; they know more about the biological facts of human “races” than anybody else. If the police find a badly decayed body in a trunk, they ask a physical anthropologist to tell them what the person originally looked like. The physical anthropologists who specialize in prehistoric men work with fossils, so they are sometimes called human paleontologists.
+
+
+
+
+
+ARCHEOLOGISTS
+
+
+There is a kind of scientist who studies the things that prehistoric men made and did. Such a scientist is called an archeologist. It is the archeologist’s business to look for the stone and metal tools, the pottery, the graves, and the caves or huts of the men who lived before history began.
+
+But there is more to archeology than just looking for things. In Professor V. Gordon Childe’s words, archeology “furnishes a sort of history of human activity, provided always that the actions have produced concrete results and left recognizable material traces.” You will see that there are at least three points in what Childe says:
+
+1. The archeologists have to find the traces of things left behind by ancient man, and
+
+2. Only a few objects may be found, for most of these were probably too soft or too breakable to last through the years. However,
+
+3. The archeologist must use whatever he can find to tell a story—to make a “sort of history”—from the objects and living-places and graves that have escaped destruction.
+
+What I mean is this: Let us say you are walking through a dump yard, and you find a rusty old spark plug. If you want to think about what the spark plug means, you quickly remember that it is a part of an automobile motor. This tells you something about the man who threw the spark plug on the dump. He either had an automobile, or he knew or lived near someone who did. He can’t have lived so very long ago, you’ll remember, because spark plugs and automobiles are only about sixty years old.
+
+When you think about the old spark plug in this way you have just been making the beginnings of what we call an archeological interpretation ; you have been making the spark plug tell a story. It is the same way with the man-made things we archeologists find and put in museums. Usually, only a few of these objects are pretty to look at; but each of them has some sort of story to tell. Making the interpretation of his finds is the most important part of the archeologist’s job. It is the way he gets at the “sort of history of human activity” which is expected of archeology.
+
+
+
+
+
+SOME OTHER SCIENTISTS
+
+
+There are many other scientists who help the archeologist and the physical anthropologist find out about prehistoric men. The geologists help us tell the age of the rocks or caves or gravel beds in which human bones or man-made objects are found. There are other scientists with names which all begin with “paleo” (the Greek word for “old”). The paleontologists study fossil animals. There are also, for example, such scientists as paleobotanists and paleoclimatologists, who study ancient plants and climates. These scientists help us to know the kinds of animals and plants that were living in prehistoric times and so could be used for food by ancient man; what the weather was like; and whether there were glaciers. Also, when I tell you that prehistoric men did not appear until long after the great dinosaurs had disappeared, I go on the say-so of the paleontologists. They know that fossils of men and of dinosaurs are not found in the same geological period. The dinosaur fossils come in early periods, the fossils of men much later.
+
+Since World War II even the atomic scientists have been helping the archeologists. By testing the amount of radioactivity left in charcoal, wood, or other vegetable matter obtained from archeological sites, they have been able to date the sites. Shell has been used also, and even the hair of Egyptian mummies. The dates of geological and climatic events have also been discovered. Some of this work has been done from drillings taken from the bottom of the sea.
+
+This dating by radioactivity has considerably shortened the dates which the archeologists used to give. If you find that some of the dates I give here are more recent than the dates you see in other books on prehistory, it is because I am using one of the new lower dating systems.
+
+
+
+RADIOCARBON CHART
+
+The rate of disappearance of radioactivity as time passes.
+
+It is important that the limitations of the radioactive carbon “dating” system be held in mind. As the statistics involved in the system are used, there are two chances in three that the “date” of the sample falls within the range given as plus or minus an added number of years. For example, the “date” for the Jarmo village (see chart), given as 6750 ± 200 B.C., really means that there are only two chances in three that the real date of the charcoal sampled fell between 6950 and 6550 B.C. We have also begun to suspect that there are ways in which the samples themselves may have become “contaminated,” either on the early or on the late side. We now tend to be suspicious of single radioactive carbon determinations, or of determinations from one site alone. But as a fabric of consistent determinations for several or more sites of one archeological period, we gain confidence in the “dates.”
+
+
+
+
+
+HOW THE SCIENTISTS FIND OUT
+
+
+So far, this chapter has been mainly about the people who find out about prehistoric men. We also need a word about how they find out.
+
+All our finds came by accident until about a hundred years ago. Men digging wells, or digging in caves for fertilizer, often turned up ancient swords or pots or stone arrowheads. People also found some odd pieces of stone that didn’t look like natural forms, but they also didn’t look like any known tool. As a result, the people who found them gave them queer names; for example, “thunderbolts.” The people thought the strange stones came to earth as bolts of lightning. We know now that these strange stones were prehistoric stone tools.
+
+Many important finds still come to us by accident. In 1935, a British dentist, A. T. Marston, found the first of two fragments of a very important fossil human skull, in a gravel pit at Swanscombe, on the River Thames, England. He had to wait nine months, until the face of the gravel pit had been dug eight yards farther back, before the second fragment appeared. They fitted! Then, twenty years later, still another piece appeared. In 1928 workmen who were blasting out rock for the breakwater in the port of Haifa began to notice flint tools. Thus the story of cave men on Mount Carmel, in Palestine, began to be known.
+
+Planned archeological digging is only about a century old. Even before this, however, a few men realized the significance of objects they dug from the ground; one of these early archeologists was our own Thomas Jefferson. The first real mound-digger was a German grocer’s clerk, Heinrich Schliemann. Schliemann made a fortune as a merchant, first in Europe and then in the California gold-rush of 1849. He became an American citizen. Then he retired and had both money and time to test an old idea of his. He believed that the heroes of ancient Troy and Mycenae were once real Trojans and Greeks. He proved it by going to Turkey and Greece and digging up the remains of both cities.
+
+Schliemann had the great good fortune to find rich and spectacular treasures, and he also had the common sense to keep notes and make descriptions of what he found. He proved beyond doubt that many ancient city mounds can be stratified. This means that there may be the remains of many towns in a mound, one above another, like layers in a cake.
+
+You might like to have an idea of how mounds come to be in layers. The original settlers may have chosen the spot because it had a good spring and there were good fertile lands nearby, or perhaps because it was close to some road or river or harbor. These settlers probably built their town of stone and mud-brick. Finally, something would have happened to the town—a flood, or a burning, or a raid by enemies—and the walls of the houses would have fallen in or would have melted down as mud in the rain. Nothing would have remained but the mud and debris of a low mound of one layer.
+
+The second settlers would have wanted the spot for the same reasons the first settlers did—good water, land, and roads. Also, the second settlers would have found a nice low mound to build their houses on, a protection from floods. But again, something would finally have happened to the second town, and the walls of its houses would have come tumbling down. This makes the second layer. And so on....
+
+In Syria I once had the good fortune to dig on a large mound that had no less than fifteen layers. Also, most of the layers were thick, and there were signs of rebuilding and repairs within each layer. The mound was more than a hundred feet high. In each layer, the building material used had been a soft, unbaked mud-brick, and most of the debris consisted of fallen or rain-melted mud from these mud-bricks.
+
+This idea of stratification, like the cake layers, was already a familiar one to the geologists by Schliemann’s time. They could show that their lowest layer of rock was oldest or earliest, and that the overlying layers became more recent as one moved upward. Schliemann’s digging proved the same thing at Troy. His first (lowest and earliest) city had at least nine layers above it; he thought that the second layer contained the remains of Homer’s Troy. We now know that Homeric Troy was layer VIIa from the bottom; also, we count eleven layers or sub-layers in total.
+
+Schliemann’s work marks the beginnings of modern archeology. Scholars soon set out to dig on ancient sites, from Egypt to Central America.
+
+
+
+
+
+ARCHEOLOGICAL INFORMATION
+
+
+As time went on, the study of archeological materials—found either by accident or by digging on purpose—began to show certain things. Archeologists began to get ideas as to the kinds of objects that belonged together. If you compared a mail-order catalogue of 1890 with one of today, you would see a lot of differences. If you really studied the two catalogues hard, you would also begin to see that certain objects “go together.” Horseshoes and metal buggy tires and pieces of harness would begin to fit into a picture with certain kinds of coal stoves and furniture and china dishes and kerosene lamps. Our friend the spark plug, and radios and electric refrigerators and light bulbs would fit into a picture with different kinds of furniture and dishes and tools. You won’t be old enough to remember the kind of hats that women wore in 1890, but you’ve probably seen pictures of them, and you know very well they couldn’t be worn with the fashions of today.
+
+This is one of the ways that archeologists study their materials. The various tools and weapons and jewelry, the pottery, the kinds of houses, and even the ways of burying the dead tend to fit into pictures. Some archeologists call all of the things that go together to make such a picture an assemblage. The assemblage of the first layer of Schliemann’s Troy was as different from that of the seventh layer as our 1900 mail-order catalogue is from the one of today.
+
+The archeologists who came after Schliemann began to notice other things and to compare them with occurrences in modern times. The idea that people will buy better mousetraps goes back into very ancient times. Today, if we make good automobiles or radios, we can sell some of them in Turkey or even in Timbuktu. This means that a few present-day types of American automobiles and radios form part of present-day “assemblages” in both Turkey and Timbuktu. The total present-day “assemblage” of Turkey is quite different from that of Timbuktu or that of America, but they have at least some automobiles and some radios in common.
+
+Now these automobiles and radios will eventually wear out. Let us suppose we could go to some remote part of Turkey or to Timbuktu in a dream. We don’t know what the date is, in our dream, but we see all sorts of strange things and ways of living in both places. Nobody tells us what the date is. But suddenly we see a 1936 Ford; so we know that in our dream it has to be at least the year 1936, and only as many years after that as we could reasonably expect a Ford to keep in running order. The Ford would probably break down in twenty years’ time, so the Turkish or Timbuktu “assemblage” we’re seeing in our dream has to date at about A.D. 1936–56.
+
+Archeologists not only “date” their ancient materials in this way; they also see over what distances and between which peoples trading was done. It turns out that there was a good deal of trading in ancient times, probably all on a barter and exchange basis.
+
+
+
+
+
+EVERYTHING BEGINS TO FIT TOGETHER
+
+
+Now we need to pull these ideas all together and see the complicated structure the archeologists can build with their materials.
+
+Even the earliest archeologists soon found that there was a very long range of prehistoric time which would yield only very simple things. For this very long early part of prehistory, there was little to be found but the flint tools which wandering, hunting and gathering people made, and the bones of the wild animals they ate. Toward the end of prehistoric time there was a general settling down with the coming of agriculture, and all sorts of new things began to be made. Archeologists soon got a general notion of what ought to appear with what. Thus, it would upset a French prehistorian digging at the bottom of a very early cave if he found a fine bronze sword, just as much as it would upset him if he found a beer bottle. The people of his very early cave layer simply could not have made bronze swords, which came later, just as do beer bottles. Some accidental disturbance of the layers of his cave must have happened.
+
+With any luck, archeologists do their digging in a layered, stratified site. They find the remains of everything that would last through time, in several different layers. They know that the assemblage in the bottom layer was laid down earlier than the assemblage in the next layer above, and so on up to the topmost layer, which is the latest. They look at the results of other “digs” and find that some other archeologist 900 miles away has found ax-heads in his lowest layer, exactly like the ax-heads of their fifth layer. This means that their fifth layer must have been lived in at about the same time as was the first layer in the site 200 miles away. It also may mean that the people who lived in the two layers knew and traded with each other. Or it could mean that they didn’t necessarily know each other, but simply that both traded with a third group at about the same time.
+
+You can see that the more we dig and find, the more clearly the main facts begin to stand out. We begin to be more sure of which people lived at the same time, which earlier and which later. We begin to know who traded with whom, and which peoples seemed to live off by themselves. We begin to find enough skeletons in burials so that the physical anthropologists can tell us what the people looked like. We get animal bones, and a paleontologist may tell us they are all bones of wild animals; or he may tell us that some or most of the bones are those of domesticated animals, for instance, sheep or cattle, and therefore the people must have kept herds.
+
+More important than anything else—as our structure grows more complicated and our materials increase—is the fact that “a sort of history of human activity” does begin to appear. The habits or traditions that men formed in the making of their tools and in the ways they did things, begin to stand out for us. How characteristic were these habits and traditions? What areas did they spread over? How long did they last? We watch the different tools and the traces of the way things were done—how the burials were arranged, what the living-places were like, and so on. We wonder about the people themselves, for the traces of habits and traditions are useful to us only as clues to the men who once had them. So we ask the physical anthropologists about the skeletons that we found in the burials. The physical anthropologists tell us about the anatomy and the similarities and differences which the skeletons show when compared with other skeletons. The physical anthropologists are even working on a method—chemical tests of the bones—that will enable them to discover what the blood-type may have been. One thing is sure. We have never found a group of skeletons so absolutely similar among themselves—so cast from a single mould, so to speak—that we could claim to have a “pure” race. I am sure we never shall.
+
+We become particularly interested in any signs of change—when new materials and tool types and ways of doing things replace old ones. We watch for signs of social change and progress in one way or another.
+
+We must do all this without one word of written history to aid us. Everything we are concerned with goes back to the time before men learned to write. That is the prehistorian’s job—to find out what happened before history began.
+
+
+
+
+
+THE CHANGING WORLD in which Prehistoric Men Lived
+
+
+
+
+Mankind, we’ll say, is at least a half million years old. It is very hard to understand how long a time half a million years really is. If we were to compare this whole length of time to one day, we’d get something like this: The present time is midnight, and Jesus was born just five minutes and thirty-six seconds ago. Earliest history began less than fifteen minutes ago. Everything before 11:45 was in prehistoric time.
+
+Or maybe we can grasp the length of time better in terms of generations. As you know, primitive peoples tend to marry and have children rather early in life. So suppose we say that twenty years will make an average generation. At this rate there would be 25,000 generations in a half-million years. But our United States is much less than ten generations old, twenty-five generations take us back before the time of Columbus, Julius Caesar was alive just 100 generations ago, David was king of Israel less than 150 generations ago, 250 generations take us back to the beginning of written history. And there were 24,750 generations of men before written history began!
+
+I should probably tell you that there is a new method of prehistoric dating which would cut the earliest dates in my reckoning almost in half. Dr. Cesare Emiliani, combining radioactive (C14) and chemical (oxygen isotope) methods in the study of deep-sea borings, has developed a system which would lower the total range of human prehistory to about 300,000 years. The system is still too new to have had general examination and testing. Hence, I have not used it in this book; it would mainly affect the dates earlier than 25,000 years ago.
+
+
+
+
+
+CHANGES IN ENVIRONMENT
+
+
+The earth probably hasn’t changed much in the last 5,000 years (250 generations). Men have built things on its surface and dug into it and drawn boundaries on maps of it, but the places where rivers, lakes, seas, and mountains now stand have changed very little.
+
+In earlier times the earth looked very different. Geologists call the last great geological period the Pleistocene. It began somewhere between a half million and a million years ago, and was a time of great changes. Sometimes we call it the Ice Age, for in the Pleistocene there were at least three or four times when large areas of earth were covered with glaciers. The reason for my uncertainty is that while there seem to have been four major mountain or alpine phases of glaciation, there may only have been three general continental phases in the Old World.
+
+This is a complicated affair and I do not want to bother you with its details. Both the alpine and the continental ice sheets seem to have had minor fluctuations during their main phases, and the advances of the later phases destroyed many of the traces of the earlier phases. The general textbooks have tended to follow the names and numbers established for the Alps early in this century by two German geologists. I will not bother you with the names, but there were four major phases. It is the second of these alpine phases which seems to fit the traces of the earliest of the great continental glaciations. In this book, I will use the four-part system, since it is the most familiar, but will add the word alpine so you may remember to make the transition to the continental system if you wish to do so.
+
+Glaciers are great sheets of ice, sometimes over a thousand feet thick, which are now known only in Greenland and Antarctica and in high mountains. During several of the glacial periods in the Ice Age, the glaciers covered most of Canada and the northern United States and reached down to southern England and France in Europe. Smaller ice sheets sat like caps on the Rockies, the Alps, and the Himalayas. The continental glaciation only happened north of the equator, however, so remember that “Ice Age” is only half true.
+
+As you know, the amount of water on and about the earth does not vary. These large glaciers contained millions of tons of water frozen into ice. Because so much water was frozen and contained in the glaciers, the water level of lakes and oceans was lowered. Flooded areas were drained and appeared as dry land. There were times in the Ice Age when there was no English Channel, so that England was not an island, and a land bridge at the Dardanelles probably divided the Mediterranean from the Black Sea.
+
+A very important thing for people living during the time of a glaciation was the region adjacent to the glacier. They could not, of course, live on the ice itself. The questions would be how close could they live to it, and how would they have had to change their way of life to do so.
+
+
+
+
+
+GLACIERS CHANGE THE WEATHER
+
+
+Great sheets of ice change the weather. When the front of a glacier stood at Milwaukee, the weather must have been bitterly cold in Chicago. The climate of the whole world would have been different, and you can see how animals and men would have been forced to move from one place to another in search of food and warmth.
+
+On the other hand, it looks as if only a minor proportion of the whole Ice Age was really taken up by times of glaciation. In between came the interglacial periods. During these times the climate around Chicago was as warm as it is now, and sometimes even warmer. It may interest you to know that the last great glacier melted away less than 10,000 years ago. Professor Ernst Antevs thinks we may be living in an interglacial period and that the Ice Age may not be over yet. So if you want to make a killing in real estate for your several hundred times great-grandchildren, you might buy some land in the Arizona desert or the Sahara.
+
+We do not yet know just why the glaciers appeared and disappeared, as they did. It surely had something to do with an increase in rainfall and a fall in temperature. It probably also had to do with a general tendency for the land to rise at the beginning of the Pleistocene. We know there was some mountain-building at that time. Hence, rain-bearing winds nourished the rising and cooler uplands with snow. An increase in all three of these factors—if they came together—would only have needed to be slight. But exactly why this happened we do not know.
+
+The reason I tell you about the glaciers is simply to remind you of the changing world in which prehistoric men lived. Their surroundings—the animals and plants they used for food, and the weather they had to protect themselves from—were always changing. On the other hand, this change happened over so long a period of time and was so slow that individual people could not have noticed it. Glaciers, about which they probably knew nothing, moved in hundreds of miles to the north of them. The people must simply have wandered ever more southward in search of the plants and animals on which they lived. Or some men may have stayed where they were and learned to hunt different animals and eat different foods. Prehistoric men had to keep adapting themselves to new environments and those who were most adaptive were most successful.
+
+
+
+
+
+OTHER CHANGES
+
+
+Changes took place in the men themselves as well as in the ways they lived. As time went on, they made better tools and weapons. Then, too, we begin to find signs of how they started thinking of other things than food and the tools to get it with. We find that they painted on the walls of caves, and decorated their tools; we find that they buried their dead.
+
+At about the time when the last great glacier was finally melting away, men in the Near East made the first basic change in human economy. They began to plant grain, and they learned to raise and herd certain animals. This meant that they could store food in granaries and “on the hoof” against the bad times of the year. This first really basic change in man’s way of living has been called the “food-producing revolution.” By the time it happened, a modern kind of climate was beginning. Men had already grown to look as they do now. Know-how in ways of living had developed and progressed, slowly but surely, up to a point. It was impossible for men to go beyond that point if they only hunted and fished and gathered wild foods. Once the basic change was made—once the food-producing revolution became effective—technology leaped ahead and civilization and written history soon began.
+
+
+
+
+
+Prehistoric Men THEMSELVES
+
+
+
+
+
+DO WE KNOW WHERE MAN ORIGINATED?
+
+
+For a long time some scientists thought the “cradle of mankind” was in central Asia. Other scientists insisted it was in Africa, and still others said it might have been in Europe. Actually, we don’t know where it was. We don’t even know that there was only one “cradle.” If we had to choose a “cradle” at this moment, we would probably say Africa. But the southern portions of Asia and Europe may also have been included in the general area. The scene of the early development of mankind was certainly the Old World. It is pretty certain men didn’t reach North or South America until almost the end of the Ice Age—had they done so earlier we would certainly have found some trace of them by now.
+
+The earliest tools we have yet found come from central and south Africa. By the dating system I’m using, these tools must be over 500,000 years old. There are now reports that a few such early tools have been found—at the Sterkfontein cave in South Africa—along with the bones of small fossil men called “australopithecines.”
+
+Not all scientists would agree that the australopithecines were “men,” or would agree that the tools were made by the australopithecines themselves. For these sticklers, the earliest bones of men come from the island of Java. The date would be about 450,000 years ago. So far, we have not yet found the tools which we suppose these earliest men in the Far East must have made.
+
+Let me say it another way. How old are the earliest traces of men we now have? Over half a million years. This was a time when the first alpine glaciation was happening in the north. What has been found so far? The tools which the men of those times made, in different parts of Africa. It is now fairly generally agreed that the “men” who made the tools were the australopithecines. There is also a more “man-like” jawbone at Kanam in Kenya, but its find-spot has been questioned. The next earliest bones we have were found in Java, and they may be almost a hundred thousand years younger than the earliest African finds. We haven’t yet found the tools of these early Javanese. Our knowledge of tool-using in Africa spreads quickly as time goes on: soon after the appearance of tools in the south we shall have them from as far north as Algeria.
+
+Very soon after the earliest Javanese come the bones of slightly more developed people in Java, and the jawbone of a man who once lived in what is now Germany. The same general glacial beds which yielded the later Javanese bones and the German jawbone also include tools. These finds come from the time of the second alpine glaciation.
+
+So this is the situation. By the time of the end of the second alpine or first continental glaciation (say 400,000 years ago) we have traces of men from the extremes of the more southerly portions of the Old World—South Africa, eastern Asia, and western Europe. There are also some traces of men in the middle ground. In fact, Professor Franz Weidenreich believed that creatures who were the immediate ancestors of men had already spread over Europe, Africa, and Asia by the time the Ice Age began. We certainly have no reason to disbelieve this, but fortunate accidents of discovery have not yet given us the evidence to prove it.
+
+
+
+
+
+MEN AND APES
+
+
+Many people used to get extremely upset at the ill-formed notion that “man descended from the apes.” Such words were much more likely to start fights or “monkey trials” than the correct notion that all living animals, including man, ascended or evolved from a single-celled organism which lived in the primeval seas hundreds of millions of years ago. Men are mammals, of the order called Primates, and man’s living relatives are the great apes. Men didn’t “descend” from the apes or apes from men, and mankind must have had much closer relatives who have since become extinct.
+
+Men stand erect. They also walk and run on their two feet. Apes are happiest in trees, swinging with their arms from branch to branch. Few branches of trees will hold the mighty gorilla, although he still manages to sleep in trees. Apes can’t stand really erect in our sense, and when they have to run on the ground, they use the knuckles of their hands as well as their feet.
+
+A key group of fossil bones here are the south African australopithecines. These are called the Australopithecinae or “man-apes” or sometimes even “ape-men.” We do not know that they were directly ancestral to men but they can hardly have been so to apes. Presently I’ll describe them a bit more. The reason I mention them here is that while they had brains no larger than those of apes, their hipbones were enough like ours so that they must have stood erect. There is no good reason to think they couldn’t have walked as we do.
+
+
+
+
+
+BRAINS, HANDS, AND TOOLS
+
+
+Whether the australopithecines were our ancestors or not, the proper ancestors of men must have been able to stand erect and to walk on their two feet. Three further important things probably were involved, next, before they could become men proper. These are:
+
+1. The increasing size and development of the brain.
+
+2. The increasing usefulness (specialization) of the thumb and hand.
+
+3. The use of tools.
+
+Nobody knows which of these three is most important, or which came first. Most probably the growth of all three things was very much blended together. If you think about each of the things, you will see what I mean. Unless your hand is more flexible than a paw, and your thumb will work against (or oppose) your fingers, you can’t hold a tool very well. But you wouldn’t get the idea of using a tool unless you had enough brain to help you see cause and effect. And it is rather hard to see how your hand and brain would develop unless they had something to practice on—like using tools. In Professor Krogman’s words, “the hand must become the obedient servant of the eye and the brain.” It is the co-ordination of these things that counts.
+
+Many other things must have been happening to the bodies of the creatures who were the ancestors of men. Our ancestors had to develop organs of speech. More than that, they had to get the idea of letting certain sounds made with these speech organs have certain meanings.
+
+All this must have gone very slowly. Probably everything was developing little by little, all together. Men became men very slowly.
+
+
+
+
+
+WHEN SHALL WE CALL MEN MEN?
+
+
+What do I mean when I say “men”? People who looked pretty much as we do, and who used different tools to do different things, are men to me. We’ll probably never know whether the earliest ones talked or not. They probably had vocal cords, so they could make sounds, but did they know how to make sounds work as symbols to carry meanings? But if the fossil bones look like our skeletons, and if we find tools which we’ll agree couldn’t have been made by nature or by animals, then I’d say we had traces of men.
+
+The australopithecine finds of the Transvaal and Bechuanaland, in south Africa, are bound to come into the discussion here. I’ve already told you that the australopithecines could have stood upright and walked on their two hind legs. They come from the very base of the Pleistocene or Ice Age, and a few coarse stone tools have been found with the australopithecine fossils. But there are three varieties of the australopithecines and they last on until a time equal to that of the second alpine glaciation. They are the best suggestion we have yet as to what the ancestors of men may have looked like. They were certainly closer to men than to apes. Although their brain size was no larger than the brains of modern apes their body size and stature were quite small; hence, relative to their small size, their brains were large. We have not been able to prove without doubt that the australopithecines were tool-making creatures, even though the recent news has it that tools have been found with australopithecine bones. The doubt as to whether the australopithecines used the tools themselves goes like this—just suppose some man-like creature (whose bones we have not yet found) made the tools and used them to kill and butcher australopithecines. Hence a few experts tend to let australopithecines still hang in limbo as “man-apes.”
+
+
+
+
+
+THE EARLIEST MEN WE KNOW
+
+
+I’ll postpone talking about the tools of early men until the next chapter. The men whose bones were the earliest of the Java lot have been given the name Meganthropus. The bones are very fragmentary. We would not understand them very well unless we had the somewhat later Javanese lot—the more commonly known Pithecanthropus or “Java man”—against which to refer them for study. One of the less well-known and earliest fragments, a piece of lower jaw and some teeth, rather strongly resembles the lower jaws and teeth of the australopithecine type. Was Meganthropus a sort of half-way point between the australopithecines and Pithecanthropus? It is still too early to say. We shall need more finds before we can be definite one way or the other.
+
+Java man, Pithecanthropus, comes from geological beds equal in age to the latter part of the second alpine glaciation; the Meganthropus finds refer to beds of the beginning of this glaciation. The first finds of Java man were made in 1891–92 by Dr. Eugene Dubois, a Dutch doctor in the colonial service. Finds have continued to be made. There are now bones enough to account for four skulls. There are also four jaws and some odd teeth and thigh bones. Java man, generally speaking, was about five feet six inches tall, and didn’t hold his head very erect. His skull was very thick and heavy and had room for little more than two-thirds as large a brain as we have. He had big teeth and a big jaw and enormous eyebrow ridges.
+
+No tools were found in the geological deposits where bones of Java man appeared. There are some tools in the same general area, but they come a bit later in time. One reason we accept the Java man as man—aside from his general anatomical appearance—is that these tools probably belonged to his near descendants.
+
+Remember that there are several varieties of men in the whole early Java lot, at least two of which are earlier than the Pithecanthropus, “Java man.” Some of the earlier ones seem to have gone in for bigness, in tooth-size at least. Meganthropus is one of these earlier varieties. As we said, he may turn out to be a link to the australopithecines, who may or may not be ancestral to men. Meganthropus is best understandable in terms of Pithecanthropus, who appeared later in the same general area. Pithecanthropus is pretty well understandable from the bones he left us, and also because of his strong resemblance to the fully tool-using cave-dwelling “Peking man,” Sinanthropus, about whom we shall talk next. But you can see that the physical anthropologists and prehistoric archeologists still have a lot of work to do on the problem of earliest men.
+
+
+
+
+
+PEKING MEN AND SOME EARLY WESTERNERS
+
+
+The earliest known Chinese are called Sinanthropus, or “Peking man,” because the finds were made near that city. In World War II, the United States Marine guard at our Embassy in Peking tried to help get the bones out of the city before the Japanese attack. Nobody knows where these bones are now. The Red Chinese accuse us of having stolen them. They were last seen on a dock-side at a Chinese port. But should you catch a Marine with a sack of old bones, perhaps we could achieve peace in Asia by returning them! Fortunately, there is a complete set of casts of the bones.
+
+Peking man lived in a cave in a limestone hill, made tools, cracked animal bones to get the marrow out, and used fire. Incidentally, the bones of Peking man were found because Chinese dig for what they call “dragon bones” and “dragon teeth.” Uneducated Chinese buy these things in their drug stores and grind them into powder for medicine. The “dragon teeth” and “bones” are really fossils of ancient animals, and sometimes of men. The people who supply the drug stores have learned where to dig for strange bones and teeth. Paleontologists who get to China go to the drug stores to buy fossils. In a roundabout way, this is how the fallen-in cave of Peking man at Choukoutien was discovered.
+
+Peking man was not quite as tall as Java man but he probably stood straighter. His skull looked very much like that of the Java skull except that it had room for a slightly larger brain. His face was less brutish than was Java man’s face, but this isn’t saying much.
+
+Peking man dates from early in the interglacial period following the second alpine glaciation. He probably lived close to 350,000 years ago. There are several finds to account for in Europe by about this time, and one from northwest Africa. The very large jawbone found near Heidelberg in Germany is doubtless even earlier than Peking man. The beds where it was found are of second alpine glacial times, and recently some tools have been said to have come from the same beds. There is not much I need tell you about the Heidelberg jaw save that it seems certainly to have belonged to an early man, and that it is very big.
+
+Another find in Germany was made at Steinheim. It consists of the fragmentary skull of a man. It is very important because of its relative completeness, but it has not yet been fully studied. The bone is thick, but the back of the head is neither very low nor primitive, and the face is also not primitive. The forehead does, however, have big ridges over the eyes. The more fragmentary skull from Swanscombe in England (p. 11) has been much more carefully studied. Only the top and back of that skull have been found. Since the skull rounds up nicely, it has been assumed that the face and forehead must have been quite “modern.” Careful comparison with Steinheim shows that this was not necessarily so. This is important because it bears on the question of how early truly “modern” man appeared.
+
+Recently two fragmentary jaws were found at Ternafine in Algeria, northwest Africa. They look like the jaws of Peking man. Tools were found with them. Since no jaws have yet been found at Steinheim or Swanscombe, but the time is the same, one wonders if these people had jaws like those of Ternafine.
+
+
+
+
+
+WHAT HAPPENED TO JAVA AND PEKING MEN
+
+
+Professor Weidenreich thought that there were at least a dozen ways in which the Peking man resembled the modern Mongoloids. This would seem to indicate that Peking man was really just a very early Chinese.
+
+Several later fossil men have been found in the Java-Australian area. The best known of these is the so-called Solo man. There are some finds from Australia itself which we now know to be quite late. But it looks as if we may assume a line of evolution from Java man down to the modern Australian natives. During parts of the Ice Age there was a land bridge all the way from Java to Australia.
+
+
+
+
+
+TWO ENGLISHMEN WHO WEREN’T OLD
+
+
+The older textbooks contain descriptions of two English finds which were thought to be very old. These were called Piltdown ( Eoanthropus dawsoni ) and Galley Hill. The skulls were very modern in appearance. In 1948–49, British scientists began making chemical tests which proved that neither of these finds is very old. It is now known that both “Piltdown man” and the tools which were said to have been found with him were part of an elaborate fake!
+
+
+
+
+
+TYPICAL “CAVE MEN”
+
+
+The next men we have to talk about are all members of a related group. These are the Neanderthal group. “Neanderthal man” himself was found in the Neander Valley, near Düsseldorf, Germany, in 1856. He was the first human fossil to be recognized as such.
+
+
+
+
+
+PRINCIPAL KNOWN TYPES OF FOSSIL MEN
+
+CRO-MAGNON
+
+NEANDERTHAL
+
+MODERN SKULL
+
+COMBE-CAPELLE
+
+SINANTHROPUS
+
+PITHECANTHROPUS
+
+Some of us think that the neanderthaloids proper are only those people of western Europe who didn’t get out before the beginning of the last great glaciation, and who found themselves hemmed in by the glaciers in the Alps and northern Europe. Being hemmed in, they intermarried a bit too much and developed into a special type. Professor F. Clark Howell sees it this way. In Europe, the earliest trace of men we now know is the Heidelberg jaw. Evolution continued in Europe, from Heidelberg through the Swanscombe and Steinheim types to a group of pre-neanderthaloids. There are traces of these pre-neanderthaloids pretty much throughout Europe during the third interglacial period—say 100,000 years ago. The pre-neanderthaloids are represented by such finds as the ones at Ehringsdorf in Germany and Saccopastore in Italy. I won’t describe them for you, since they are simply less extreme than the neanderthaloids proper—about half way between Steinheim and the classic Neanderthal people.
+
+Professor Howell believes that the pre-neanderthaloids who happened to get caught in the pocket of the southwest corner of Europe at the onset of the last great glaciation became the classic Neanderthalers. Out in the Near East, Howell thinks, it is possible to see traces of people evolving from the pre-neanderthaloid type toward that of fully modern man. Certainly, we don’t see such extreme cases of “neanderthaloidism” outside of western Europe.
+
+There are at least a dozen good examples in the main or classic Neanderthal group in Europe. They date to just before and in the earlier part of the last great glaciation (85,000 to 40,000 years ago). Many of the finds have been made in caves. The “cave men” the movies and the cartoonists show you are probably meant to be Neanderthalers. I’m not at all sure they dragged their women by the hair; the women were probably pretty tough, too!
+
+Neanderthal men had large bony heads, but plenty of room for brains. Some had brain cases even larger than the average for modern man. Their faces were heavy, and they had eyebrow ridges of bone, but the ridges were not as big as those of Java man. Their foreheads were very low, and they didn’t have much chin. They were about five feet three inches tall, but were heavy and barrel-chested. But the Neanderthalers didn’t slouch as much as they’ve been blamed for, either.
+
+One important thing about the Neanderthal group is that there is a fair number of them to study. Just as important is the fact that we know something about how they lived, and about some of the tools they made.
+
+
+
+
+
+OTHER MEN CONTEMPORARY WITH THE NEANDERTHALOIDS
+
+
+We have seen that the neanderthaloids seem to be a specialization in a corner of Europe. What was going on elsewhere? We think that the pre-neanderthaloid type was a generally widespread form of men. From this type evolved other more or less extreme although generally related men. The Solo finds in Java form one such case. Another was the Rhodesian man of Africa, and the more recent Hopefield finds show more of the general Rhodesian type. It is more confusing than it needs to be if these cases outside western Europe are called neanderthaloids. They lived during the same approximate time range but they were all somewhat different-looking people.
+
+
+
+
+
+EARLY MODERN MEN
+
+
+How early is modern man ( Homo sapiens ), the “wise man”? Some people have thought that he was very early, a few still think so. Piltdown and Galley Hill, which were quite modern in anatomical appearance and supposedly very early in date, were the best “evidence” for very early modern men. Now that Piltdown has been liquidated and Galley Hill is known to be very late, what is left of the idea?
+
+The backs of the skulls of the Swanscombe and Steinheim finds look rather modern. Unless you pay attention to the face and forehead of the Steinheim find—which not many people have—and perhaps also consider the Ternafine jaws, you might come to the conclusion that the crown of the Swanscombe head was that of a modern-like man.
+
+Two more skulls, again without faces, are available from a French cave site, Fontéchevade. They come from the time of the last great interglacial, as did the pre-neanderthaloids. The crowns of the Fontéchevade skulls also look quite modern. There is a bit of the forehead preserved on one of these skulls and the brow-ridge is not heavy. Nevertheless, there is a suggestion that the bones belonged to an immature individual. In this case, his (or even more so, if her ) brow-ridges would have been weak anyway. The case for the Fontéchevade fossils, as modern type men, is little stronger than that for Swanscombe, although Professor Vallois believes it a good case.
+
+It seems to add up to the fact that there were people living in Europe—before the classic neanderthaloids—who looked more modern, in some features, than the classic western neanderthaloids did. Our best suggestion of what men looked like—just before they became fully modern—comes from a cave on Mount Carmel in Palestine.
+
+
+
+
+
+THE FIRST MODERNS
+
+
+Professor T. D. McCown and the late Sir Arthur Keith, who studied the Mount Carmel bones, figured out that one of the two groups involved was as much as 70 per cent modern. There were, in fact, two groups or varieties of men in the Mount Carmel caves and in at least two other Palestinian caves of about the same time. The time would be about that of the onset of colder weather, when the last glaciation was beginning in the north—say 75,000 years ago.
+
+The 70 per cent modern group came from only one cave, Mugharet es-Skhul (“cave of the kids”). The other group, from several caves, had bones of men of the type we’ve been calling pre-neanderthaloid which we noted were widespread in Europe and beyond. The tools which came with each of these finds were generally similar, and McCown and Keith, and other scholars since their study, have tended to assume that both the Skhul group and the pre-neanderthaloid group came from exactly the same time. The conclusion was quite natural: here was a population of men in the act of evolving in two different directions. But the time may not be exactly the same. It is very difficult to be precise, within say 10,000 years, for a time some 75,000 years ago. If the Skhul men are in fact later than the pre-neanderthaloid group of Palestine, as some of us think, then they show how relatively modern some men were—men who lived at the same time as the classic Neanderthalers of the European pocket.
+
+Soon after the first extremely cold phase of the last glaciation, we begin to get a number of bones of completely modern men in Europe. We also get great numbers of the tools they made, and their living places in caves. Completely modern skeletons begin turning up in caves dating back to toward 40,000 years ago. The time is about that of the beginning of the second phase of the last glaciation. These skeletons belonged to people no different from many people we see today. Like people today, not everybody looked alike. (The positions of the more important fossil men of later Europe are shown in the chart on page 72.)
+
+
+
+
+
+DIFFERENCES IN THE EARLY MODERNS
+
+
+The main early European moderns have been divided into two groups, the Cro-Magnon group and the Combe Capelle-Brünn group. Cro-Magnon people were tall and big-boned, with large, long, and rugged heads. They must have been built like many present-day Scandinavians. The Combe Capelle-Brünn people were shorter; they had narrow heads and faces, and big eyebrow-ridges. Of course we don’t find the skin or hair of these people. But there is little doubt they were Caucasoids (“Whites”).
+
+Another important find came in the Italian Riviera, near Monte Carlo. Here, in a cave near Grimaldi, there was a grave containing a woman and a young boy, buried together. The two skeletons were first called “Negroid” because some features of their bones were thought to resemble certain features of modern African Negro bones. But more recently, Professor E. A. Hooton and other experts questioned the use of the word “Negroid” in describing the Grimaldi skeletons. It is true that nothing is known of the skin color, hair form, or any other fleshy feature of the Grimaldi people, so that the word “Negroid” in its usual meaning is not proper here. It is also not clear whether the features of the bones claimed to be “Negroid” are really so at all.
+
+From a place called Wadjak, in Java, we have “proto-Australoid” skulls which closely resemble those of modern Australian natives. Some of the skulls found in South Africa, especially the Boskop skull, look like those of modern Bushmen, but are much bigger. The ancestors of the Bushmen seem to have once been very widespread south of the Sahara Desert. True African Negroes were forest people who apparently expanded out of the west central African area only in the last several thousand years. Although dark in skin color, neither the Australians nor the Bushmen are Negroes; neither the Wadjak nor the Boskop skulls are “Negroid.”
+
+As we’ve already mentioned, Professor Weidenreich believed that Peking man was already on the way to becoming a Mongoloid. Anyway, the Mongoloids would seem to have been present by the time of the “Upper Cave” at Choukoutien, the Sinanthropus find-spot.
+
+
+
+
+
+WHAT THE DIFFERENCES MEAN
+
+
+What does all this difference mean? It means that, at one moment in time, within each different area, men tended to look somewhat alike. From area to area, men tended to look somewhat different, just as they do today. This is all quite natural. People tended to mate near home; in the anthropological jargon, they made up geographically localized breeding populations. The simple continental division of “stocks”—black = Africa, yellow = Asia, white = Europe—is too simple a picture to fit the facts. People became accustomed to life in some particular area within a continent (we might call it a “natural area”). As they went on living there, they evolved towards some particular physical variety. It would, of course, have been difficult to draw a clear boundary between two adjacent areas. There must always have been some mating across the boundaries in every case. One thing human beings don’t do, and never have done, is to mate for “purity.” It is self-righteous nonsense when we try to kid ourselves into thinking that they do.
+
+I am not going to struggle with the whole business of modern stocks and races. This is a book about prehistoric men, not recent historic or modern men. My physical anthropologist friends have been very patient in helping me to write and rewrite this chapter—I am not going to break their patience completely. Races are their business, not mine, and they must do the writing about races. I shall, however, give two modern definitions of race, and then make one comment.
+
+Dr. William G. Boyd, professor of Immunochemistry, School of Medicine, Boston University: “We may define a human race as a population which differs significantly from other human populations in regard to the frequency of one or more of the genes it possesses.”
+
+
+
+Professor Sherwood L. Washburn, professor of Physical Anthropology, Department of Anthropology, the University of California: “A ‘race’ is a group of genetically similar populations, and races intergrade because there are always intermediate populations.”
+
+My comment is that the ideas involved here are all biological: they concern groups, not individuals. Boyd and Washburn may differ a bit on what they want to consider a “population,” but a population is a group nevertheless, and genetics is biology to the hilt. Now a lot of people still think of race in terms of how people dress or fix their food or of other habits or customs they have. The next step is to talk about racial “purity.” None of this has anything whatever to do with race proper, which is a matter of the biology of groups.
+
+Incidentally, I’m told that if man very carefully controls the breeding of certain animals over generations—dogs, cattle, chickens—he might achieve a “pure” race of animals. But he doesn’t do it. Some unfortunate genetic trait soon turns up, so this has just as carefully to be bred out again, and so on.
+
+
+
+
+
+SUMMARY OF PRESENT KNOWLEDGE OF FOSSIL MEN
+
+
+The earliest bones of men we now have—upon which all the experts would probably agree—are those of Meganthropus, from Java, of about 450,000 years ago. The earlier australopithecines of Africa were possibly not tool-users and may not have been ancestral to men at all. But there is an alternate and evidently increasingly stronger chance that some of them may have been. The Kanam jaw from Kenya, another early possibility, is not only very incomplete but its find-spot is very questionable.
+
+Java man proper, Pithecanthropus, comes next, at about 400,000 years ago, and the big Heidelberg jaw in Germany must be of about the same date. Next comes Swanscombe in England, Steinheim in Germany, the Ternafine jaws in Algeria, and Peking man, Sinanthropus. They all date to the second great interglacial period, about 350,000 years ago.
+
+Piltdown and Galley Hill are out, and with them, much of the starch in the old idea that there were two distinct lines of development in human evolution: (1) a line of “paleoanthropic” development from Heidelberg to the Neanderthalers where it became extinct, and (2) a very early “modern” line, through Piltdown, Galley Hill, Swanscombe, to us. Swanscombe, Steinheim, and Ternafine are just as easily cases of very early pre-neanderthaloids.
+
+The pre-neanderthaloids were very widespread during the third interglacial: Ehringsdorf, Saccopastore, some of the Mount Carmel people, and probably Fontéchevade are cases in point. A variety of their descendants can be seen, from Java (Solo), Africa (Rhodesian man), and about the Mediterranean and in western Europe. As the acute cold of the last glaciation set in, the western Europeans found themselves surrounded by water, ice, or bitter cold tundra. To vastly over-simplify it, they “bred in” and became classic neanderthaloids. But on Mount Carmel, the Skhul cave-find with its 70 per cent modern features shows what could happen elsewhere at the same time.
+
+Lastly, from about 40,000 or 35,000 years ago—the time of the onset of the second phase of the last glaciation—we begin to find the fully modern skeletons of men. The modern skeletons differ from place to place, just as different groups of men living in different places still look different.
+
+What became of the Neanderthalers? Nobody can tell me for sure. I’ve a hunch they were simply “bred out” again when the cold weather was over. Many Americans, as the years go by, are no longer ashamed to claim they have “Indian blood in their veins.” Give us a few more generations and there will not be very many other Americans left to whom we can brag about it. It certainly isn’t inconceivable to me to imagine a little Cro-Magnon boy bragging to his friends about his tough, strong, Neanderthaler great-great-great-great-grandfather!
+
+
+
+
+
+Cultural BEGINNINGS
+
+
+
+
+Men, unlike the lower animals, are made up of much more than flesh and blood and bones; for men have “culture.”
+
+
+
+
+
+WHAT IS CULTURE?
+
+
+“Culture” is a word with many meanings. The doctors speak of making a “culture” of a certain kind of bacteria, and ants are said to have a “culture.” Then there is the Emily Post kind of “culture”—you say a person is “cultured,” or that he isn’t, depending on such things as whether or not he eats peas with his knife.
+
+The anthropologists use the word too, and argue heatedly over its finer meanings; but they all agree that every human being is part of or has some kind of culture. Each particular human group has a particular culture; that is one of the ways in which we can tell one group of men from another. In this sense, a CULTURE means the way the members of a group of people think and believe and live, the tools they make, and the way they do things. Professor Robert Redfield says a culture is an organized or formalized body of conventional understandings. “Conventional understandings” means the whole set of rules, beliefs, and standards which a group of people lives by. These understandings show themselves in art, and in the other things a people may make and do. The understandings continue to last, through tradition, from one generation to another. They are what really characterize different human groups.
+
+
+
+
+
+SOME CHARACTERISTICS OF CULTURE
+
+
+A culture lasts, although individual men in the group die off. On the other hand, a culture changes as the different conventions and understandings change. You could almost say that a culture lives in the minds of the men who have it. But people are not born with it; they get it as they grow up. Suppose a day-old Hungarian baby is adopted by a family in Oshkosh, Wisconsin, and the child is not told that he is Hungarian. He will grow up with no more idea of Hungarian culture than anyone else in Oshkosh.
+
+So when I speak of ancient Egyptian culture, I mean the whole body of understandings and beliefs and knowledge possessed by the ancient Egyptians. I mean their beliefs as to why grain grew, as well as their ability to make tools with which to reap the grain. I mean their beliefs about life after death. What I am thinking about as culture is a thing which lasted in time. If any one Egyptian, even the Pharaoh, died, it didn’t affect the Egyptian culture of that particular moment.
+
+
+
+
+
+PREHISTORIC CULTURES
+
+
+For that long period of man’s history that is all prehistory, we have no written descriptions of cultures. We find only the tools men made, the places where they lived, the graves in which they buried their dead. Fortunately for us, these tools and living places and graves all tell us something about the ways these men lived and the things they believed. But the story we learn of the very early cultures must be only a very small part of the whole, for we find so few things. The rest of the story is gone forever. We have to do what we can with what we find.
+
+For all of the time up to about 75,000 years ago, which was the time of the classic European Neanderthal group of men, we have found few cave-dwelling places of very early prehistoric men. First, there is the fallen-in cave where Peking man was found, near Peking. Then there are two or three other early, but not very early, possibilities. The finds at the base of the French cave of Fontéchevade, those in one of the Makapan caves in South Africa, and several open sites such as Dr. L. S. B. Leakey’s Olorgesailie in Kenya doubtless all lie earlier than the time of the main European Neanderthal group, but none are so early as the Peking finds.
+
+You can see that we know very little about the home life of earlier prehistoric men. We find different kinds of early stone tools, but we can’t even be really sure which tools may have been used together.
+
+
+
+
+
+WHY LITTLE HAS LASTED FROM EARLY TIMES
+
+
+Except for the rare find-spots mentioned above, all our very early finds come from geological deposits, or from the wind-blown surfaces of deserts. Here is what the business of geological deposits really means. Let us say that a group of people was living in England about 300,000 years ago. They made the tools they needed, lived in some sort of camp, almost certainly built fires, and perhaps buried their dead. While the climate was still warm, many generations may have lived in the same place, hunting, and gathering nuts and berries; but after some few thousand years, the weather began very gradually to grow colder. These early Englishmen would not have known that a glacier was forming over northern Europe. They would only have noticed that the animals they hunted seemed to be moving south, and that the berries grew larger toward the south. So they would have moved south, too.
+
+The camp site they left is the place we archeologists would really have liked to find. All of the different tools the people used would have been there together—many broken, some whole. The graves, and traces of fire, and the tools would have been there. But the glacier got there first! The front of this enormous sheet of ice moved down over the country, crushing and breaking and plowing up everything, like a gigantic bulldozer. You can see what happened to our camp site.
+
+Everything the glacier couldn’t break, it pushed along in front of it or plowed beneath it. Rocks were ground to gravel, and soil was caught into the ice, which afterwards melted and ran off as muddy water. Hard tools of flint sometimes remained whole. Human bones weren’t so hard; it’s a wonder any of them lasted. Gushing streams of melt water flushed out the debris from underneath the glacier, and water flowed off the surface and through great crevasses. The hard materials these waters carried were even more rolled and ground up. Finally, such materials were dropped by the rushing waters as gravels, miles from the front of the glacier. At last the glacier reached its greatest extent; then it melted backward toward the north. Debris held in the ice was dropped where the ice melted, or was flushed off by more melt water. When the glacier, leaving the land, had withdrawn to the sea, great hunks of ice were broken off as icebergs. These icebergs probably dropped the materials held in their ice wherever they floated and melted. There must be many tools and fragmentary bones of prehistoric men on the bottom of the Atlantic Ocean and the North Sea.
+
+Remember, too, that these glaciers came and went at least three or four times during the Ice Age. Then you will realize why the earlier things we find are all mixed up. Stone tools from one camp site got mixed up with stone tools from many other camp sites—tools which may have been made tens of thousands or more years apart. The glaciers mixed them all up, and so we cannot say which particular sets of tools belonged together in the first place.
+
+
+
+
+
+“EOLITHS”
+
+
+But what sort of tools do we find earliest? For almost a century, people have been picking up odd bits of flint and other stone in the oldest Ice Age gravels in England and France. It is now thought these odd bits of stone weren’t actually worked by prehistoric men. The stones were given a name, eoliths, or “dawn stones.” You can see them in many museums; but you can be pretty sure that very few of them were actually fashioned by men.
+
+It is impossible to pick out “eoliths” that seem to be made in any one tradition. By “tradition” I mean a set of habits for making one kind of tool for some particular job. No two “eoliths” look very much alike: tools made as part of some one tradition all look much alike. Now it’s easy to suppose that the very earliest prehistoric men picked up and used almost any sort of stone. This wouldn’t be surprising; you and I do it when we go camping. In other words, some of these “eoliths” may actually have been used by prehistoric men. They must have used anything that might be handy when they needed it. We could have figured that out without the “eoliths.”
+
+
+
+
+
+THE ROAD TO STANDARDIZATION
+
+
+Reasoning from what we know or can easily imagine, there should have been three major steps in the prehistory of tool-making. The first step would have been simple utilization of what was at hand. This is the step into which the “eoliths” would fall. The second step would have been fashioning —the haphazard preparation of a tool when there was a need for it. Probably many of the earlier pebble tools, which I shall describe next, fall into this group. The third step would have been standardization. Here, men began to make tools according to certain set traditions. Counting the better-made pebble tools, there are four such traditions or sets of habits for the production of stone tools in earliest prehistoric times. Toward the end of the Pleistocene, a fifth tradition appears.
+
+
+
+
+
+PEBBLE TOOLS
+
+
+At the beginning of the last chapter, you’ll remember that I said there were tools from very early geological beds. The earliest bones of men have not yet been found in such early beds although the Sterkfontein australopithecine cave approaches this early date. The earliest tools come from Africa. They date back to the time of the first great alpine glaciation and are at least 500,000 years old. The earliest ones are made of split pebbles, about the size of your fist or a bit bigger. They go under the name of pebble tools. There are many natural exposures of early Pleistocene geological beds in Africa, and the prehistoric archeologists of south and central Africa have concentrated on searching for early tools. Other finds of early pebble tools have recently been made in Algeria and Morocco.
+
+
+
+SOUTH AFRICAN PEBBLE TOOL
+
+There are probably early pebble tools to be found in areas of the Old World besides Africa; in fact, some prehistorians already claim to have identified a few. Since the forms and the distinct ways of making the earlier pebble tools had not yet sufficiently jelled into a set tradition, they are difficult for us to recognize. It is not so difficult, however, if there are great numbers of “possibles” available. A little later in time the tradition becomes more clearly set, and pebble tools are easier to recognize. So far, really large collections of pebble tools have only been found and examined in Africa.
+
+
+
+
+
+CORE-BIFACE TOOLS
+
+
+The next tradition we’ll look at is the core or biface one. The tools are large pear-shaped pieces of stone trimmed flat on the two opposite sides or “faces.” Hence “biface” has been used to describe these tools. The front view is like that of a pear with a rather pointed top, and the back view looks almost exactly the same. Look at them side on, and you can see that the front and back faces are the same and have been trimmed to a thin tip. The real purpose in trimming down the two faces was to get a good cutting edge all around. You can see all this in the illustration.
+
+
+
+ABBEVILLIAN BIFACE
+
+We have very little idea of the way in which these core-bifaces were used. They have been called “hand axes,” but this probably gives the wrong idea, for an ax, to us, is not a pointed tool. All of these early tools must have been used for a number of jobs—chopping, scraping, cutting, hitting, picking, and prying. Since the core-bifaces tend to be pointed, it seems likely that they were used for hitting, picking, and prying. But they have rough cutting edges, so they could have been used for chopping, scraping, and cutting.
+
+
+
+
+
+FLAKE TOOLS
+
+
+The third tradition is the flake tradition. The idea was to get a tool with a good cutting edge by simply knocking a nice large flake off a big block of stone. You had to break off the flake in such a way that it was broad and thin, and also had a good sharp cutting edge. Once you really got on to the trick of doing it, this was probably a simpler way to make a good cutting tool than preparing a biface. You have to know how, though; I’ve tried it and have mashed my fingers more than once.
+
+The flake tools look as if they were meant mainly for chopping, scraping, and cutting jobs. When one made a flake tool, the idea seems to have been to produce a broad, sharp, cutting edge.
+
+
+
+CLACTONIAN FLAKE
+
+The core-biface and the flake traditions were spread, from earliest times, over much of Europe, Africa, and western Asia. The map on page 52 shows the general area. Over much of this great region there was flint. Both of these traditions seem well adapted to flint, although good core-bifaces and flakes were made from other kinds of stone, especially in Africa south of the Sahara.
+
+
+
+
+
+CHOPPERS AND ADZE-LIKE TOOLS
+
+
+The fourth early tradition is found in southern and eastern Asia, from northwestern India through Java and Burma into China. Father Maringer recently reported an early group of tools in Japan, which most resemble those of Java, called Patjitanian. The prehistoric men in this general area mostly used quartz and tuff and even petrified wood for their stone tools.
+
+This fourth early tradition is called the chopper-chopping tool tradition. It probably has its earliest roots in the pebble tool tradition of African type. There are several kinds of tools in this tradition, but all differ from the western core-bifaces and flakes. There are broad, heavy scrapers or cleavers, and tools with an adze-like cutting edge. These last-named tools are called “hand adzes,” just as the core-bifaces of the west have often been called “hand axes.” The section of an adze cutting edge is ∠ shaped; the section of an ax is < shaped.
+
+
+
+ANYATHIAN ADZE-LIKE TOOL
+
+There are also pointed pebble tools. Thus the tool kit of these early south and east Asiatic peoples seems to have included tools for doing as many different jobs as did the tools of the Western traditions.
+
+Dr. H. L. Movius has emphasized that the tools which were found in the Peking cave with Peking man belong to the chopper-tool tradition. This is the only case as yet where the tools and the man have been found together from very earliest times—if we except Sterkfontein.
+
+
+
+
+
+DIFFERENCES WITHIN THE TOOL-MAKING TRADITIONS
+
+
+The latter three great traditions in the manufacture of stone tools—and the less clear-cut pebble tools before them—are all we have to show of the cultures of the men of those times. Changes happened in each of the traditions. As time went on, the tools in each tradition were better made. There could also be slight regional differences in the tools within one tradition. Thus, tools with small differences, but all belonging to one tradition, can be given special group (facies) names.
+
+This naming of special groups has been going on for some time. Here are some of these names, since you may see them used in museum displays of flint tools, or in books. Within each tradition of tool-making (save the chopper tools), the earliest tool type is at the bottom of the list, just as it appears in the lowest beds of a geological stratification.
+
+Archeologists usually make their charts and lists with the earliest materials at the bottom and the latest on top, since this is the way they find them in the ground.
+
+Chopper tool (all about equally early):
+
+Anyathian (Burma)
+
+Choukoutienian (China)
+
+Patjitanian (Java)
+
+Soan (India)
+
+Flake:
+
+“Typical Mousterian”
+
+Levalloiso-Mousterian
+
+Levalloisian
+
+Tayacian
+
+Clactonian (localized in England)
+
+Core-biface:
+
+Some blended elements in “Mousterian”
+
+Micoquian (= Acheulean 6 and 7)
+
+Acheulean
+
+Abbevillian (once called “Chellean”)
+
+Pebble tool:
+
+Oldowan
+
+Ain Hanech
+
+pre-Stellenbosch
+
+Kafuan
+
+The core-biface and the flake traditions appear in the chart.
+
+The early archeologists had many of the tool groups named before they ever realized that there were broader tool preparation traditions. This was understandable, for in dealing with the mixture of things that come out of glacial gravels the easiest thing to do first is to isolate individual types of tools into groups. First you put a bushel-basketful of tools on a table and begin matching up types. Then you give names to the groups of each type. The groups and the types are really matters of the archeologists’ choice; in real life, they were probably less exact than the archeologists’ lists of them. We now know pretty well in which of the early traditions the various early groups belong.
+
+
+
+
+
+THE MEANING OF THE DIFFERENT TRADITIONS
+
+
+What do the traditions really mean? I see them as the standardization of ways to make tools for particular jobs. We may not know exactly what job the maker of a particular core-biface or flake tool had in mind. We can easily see, however, that he already enjoyed a know-how, a set of persistent habits of tool preparation, which would always give him the same type of tool when he wanted to make it. Therefore, the traditions show us that persistent habits already existed for the preparation of one type of tool or another.
+
+This tells us that one of the characteristic aspects of human culture was already present. There must have been, in the minds of these early men, a notion of the ideal type of tool for a particular job. Furthermore, since we find so many thousands upon thousands of tools of one type or another, the notion of the ideal types of tools and the know-how for the making of each type must have been held in common by many men. The notions of the ideal types and the know-how for their production must have been passed on from one generation to another.
+
+I could even guess that the notions of the ideal type of one or the other of these tools stood out in the minds of men of those times somewhat like a symbol of “perfect tool for good job.” If this were so—remember it’s only a wild guess of mine—then men were already symbol users. Now let’s go on a further step to the fact that the words men speak are simply sounds, each different sound being a symbol for a different meaning. If standardized tool-making suggests symbol-making, is it also possible that crude word-symbols were also being made? I suppose that it is not impossible.
+
+There may, of course, be a real question whether tool-utilizing creatures—our first step, —were actually men. Other animals utilize things at hand as tools. The tool-fashioning creature of our second step is more suggestive, although we may not yet feel sure that many of the earlier pebble tools were man-made products. But with the step to standardization and the appearance of the traditions, I believe we must surely be dealing with the traces of culture-bearing men. The “conventional understandings” which Professor Redfield’s definition of culture suggests are now evidenced for us in the persistent habits for the preparation of stone tools. Were we able to see the other things these prehistoric men must have made—in materials no longer preserved for the archeologist to find—I believe there would be clear signs of further conventional understandings. The men may have been physically primitive and pretty shaggy in appearance, but I think we must surely call them men.
+
+
+
+
+
+AN OLDER INTERPRETATION OF THE WESTERN TRADITIONS
+
+
+In the last chapter, I told you that many of the older archeologists and human paleontologists used to think that modern man was very old. The supposed ages of Piltdown and Galley Hill were given as evidence of the great age of anatomically modern man, and some interpretations of the Swanscombe and Fontéchevade fossils were taken to support this view. The conclusion was that there were two parallel lines or “phyla” of men already present well back in the Pleistocene. The first of these, the more primitive or “paleoanthropic” line, was said to include Heidelberg, the proto-neanderthaloids and classic Neanderthal. The more anatomically modern or “neanthropic” line was thought to consist of Piltdown and the others mentioned above. The Neanderthaler or paleoanthropic line was thought to have become extinct after the first phase of the last great glaciation. Of course, the modern or neanthropic line was believed to have persisted into the present, as the basis for the world’s population today. But with Piltdown liquidated, Galley Hill known to be very late, and Swanscombe and Fontéchevade otherwise interpreted, there is little left of the so-called parallel phyla theory.
+
+While the theory was in vogue, however, and as long as the European archeological evidence was looked at in one short-sighted way, the archeological materials seemed to fit the parallel phyla theory. It was simply necessary to believe that the flake tools were made only by the paleoanthropic Neanderthaler line, and that the more handsome core-biface tools were the product of the neanthropic modern-man line.
+
+Remember that almost all of the early prehistoric European tools came only from the redeposited gravel beds. This means that the tools were not normally found in the remains of camp sites or work shops where they had actually been dropped by the men who made and used them. The tools came, rather, from the secondary hodge-podge of the glacial gravels. I tried to give you a picture of the bulldozing action of glaciers and of the erosion and weathering that were side-effects of a glacially conditioned climate on the earth’s surface. As we said above, if one simply plucks tools out of the redeposited gravels, his natural tendency is to “type” the tools by groups, and to think that the groups stand for something on their own.
+
+In 1906, M. Victor Commont actually made a rare find of what seems to have been a kind of workshop site, on a terrace above the Somme river in France. Here, Commont realized, flake tools appeared clearly in direct association with core-biface tools. Few prehistorians paid attention to Commont or his site, however. It was easier to believe that flake tools represented a distinct “culture” and that this “culture” was that of the Neanderthaler or paleoanthropic line, and that the core-bifaces stood for another “culture” which was that of the supposed early modern or neanthropic line. Of course, I am obviously skipping many details here. Some later sites with Neanderthal fossils do seem to have only flake tools, but other such sites have both types of tools. The flake tools which appeared with the core-bifaces in the Swanscombe gravels were never made much of, although it was embarrassing for the parallel phyla people that Fontéchevade ran heavily to flake tools. All in all, the parallel phyla theory flourished because it seemed so neat and easy to understand.
+
+
+
+
+
+TRADITIONS ARE TOOL-MAKING HABITS, NOT CULTURES
+
+
+In case you think I simply enjoy beating a dead horse, look in any standard book on prehistory written twenty (or even ten) years ago, or in most encyclopedias. You’ll find that each of the individual tool types, of the West, at least, was supposed to represent a “culture.” The “cultures” were believed to correspond to parallel lines of human evolution.
+
+In 1937, Mr. Harper Kelley strongly re-emphasized the importance of Commont’s workshop site and the presence of flake tools with core-bifaces. Next followed Dr. Movius’ clear delineation of the chopper-chopping tool tradition of the Far East. This spoiled the nice symmetry of the flake-tool = paleoanthropic, core-biface = neanthropic equations. Then came increasing understanding of the importance of the pebble tools in Africa, and the location of several more workshop sites there, especially at Olorgesailie in Kenya. Finally came the liquidation of Piltdown and the deflation of Galley Hill’s date. So it is at last possible to picture an individual prehistoric man making a flake tool to do one job and a core-biface tool to do another. Commont showed us this picture in 1906, but few believed him.
+
+
+
+DISTRIBUTION OF TOOL-PREPARATION TRADITIONS
+
+Time approximately 100,000 years ago
+
+There are certainly a few cases in which flake tools did appear with few or no core-bifaces. The flake-tool group called Clactonian in England is such a case. Another good, but certainly later case is that of the cave on Mount Carmel in Palestine, where the blended pre-neanderthaloid, 70 per cent modern-type skulls were found. Here, in the same level with the skulls, were 9,784 flint tools. Of these, only three—doubtless strays—were core-bifaces; all the rest were flake tools or flake chips. We noted above how the Fontéchevade cave ran to flake tools. The only conclusion I would draw from this is that times and circumstances did exist in which prehistoric men needed only flake tools. So they only made flake tools for those particular times and circumstances.
+
+
+
+
+
+LIFE IN EARLIEST TIMES
+
+
+What do we actually know of life in these earliest times? In the glacial gravels, or in the terrace gravels of rivers once swollen by floods of melt water or heavy rains, or on the windswept deserts, we find stone tools. The earliest and coarsest of these are the pebble tools. We do not yet know what the men who made them looked like, although the Sterkfontein australopithecines probably give us a good hint. Then begin the more formal tool preparation traditions of the west—the core-bifaces and the flake tools—and the chopper-chopping tool series of the farther east. There is an occasional roughly worked piece of bone. From the gravels which yield the Clactonian flakes of England comes the fire-hardened point of a wooden spear. There are also the chance finds of the fossil human bones themselves, of which we spoke in the last chapter. Aside from the cave of Peking man, none of the earliest tools have been found in caves. Open air or “workshop” sites which do not seem to have been disturbed later by some geological agency are very rare.
+
+The chart shows graphically what the situation in west-central Europe seems to have been. It is not yet certain whether there were pebble tools there or not. The Fontéchevade cave comes into the picture about 100,000 years ago or more. But for the earlier hundreds of thousands of years—below the red-dotted line on the chart—the tools we find come almost entirely from the haphazard mixture within the geological contexts.
+
+The stone tools of each of the earlier traditions are the simplest kinds of all-purpose tools. Almost any one of them could be used for hacking, chopping, cutting, and scraping; so the men who used them must have been living in a rough and ready sort of way. They found or hunted their food wherever they could. In the anthropological jargon, they were “food-gatherers,” pure and simple.
+
+Because of the mixture in the gravels and in the materials they carried, we can’t be sure which animals these men hunted. Bones of the larger animals turn up in the gravels, but they could just as well belong to the animals who hunted the men, rather than the other way about. We don’t know. This is why camp sites like Commont’s and Olorgesailie in Kenya are so important when we do find them. The animal bones at Olorgesailie belonged to various mammals of extremely large size. Probably they were taken in pit-traps, but there are a number of groups of three round stones on the site which suggest that the people used bolas. The South American Indians used three-ball bolas, with the stones in separate leather bags connected by thongs. These were whirled and then thrown through the air so as to entangle the feet of a fleeing animal.
+
+Professor F. Clark Howell recently returned from excavating another important open air site at Isimila in Tanganyika. The site yielded the bones of many fossil animals and also thousands of core-bifaces, flakes, and choppers. But Howell’s reconstruction of the food-getting habits of the Isimila people certainly suggests that the word “hunting” is too dignified for what they did; “scavenging” would be much nearer the mark.
+
+During a great part of this time the climate was warm and pleasant. The second interglacial period (the time between the second and third great alpine glaciations) lasted a long time, and during much of this time the climate may have been even better than ours is now. We don’t know that earlier prehistoric men in Europe or Africa lived in caves. They may not have needed to; much of the weather may have been so nice that they lived in the open. Perhaps they didn’t wear clothes, either.
+
+
+
+
+
+WHAT THE PEKING CAVE-FINDS TELL US
+
+
+The one early cave-dwelling we have found is that of Peking man, in China. Peking man had fire. He probably cooked his meat, or used the fire to keep dangerous animals away from his den. In the cave were bones of dangerous animals, members of the wolf, bear, and cat families. Some of the cat bones belonged to beasts larger than tigers. There were also bones of other wild animals: buffalo, camel, deer, elephants, horses, sheep, and even ostriches. Seventy per cent of the animals Peking man killed were fallow deer. It’s much too cold and dry in north China for all these animals to live there today. So this list helps us know that the weather was reasonably warm, and that there was enough rain to grow grass for the grazing animals. The list also helps the paleontologists to date the find.
+
+Peking man also seems to have eaten plant food, for there are hackberry seeds in the debris of the cave. His tools were made of sandstone and quartz and sometimes of a rather bad flint. As we’ve already seen, they belong in the chopper-tool tradition. It seems fairly clear that some of the edges were chipped by right-handed people. There are also many split pieces of heavy bone. Peking man probably split them so he could eat the bone marrow, but he may have used some of them as tools.
+
+Many of these split bones were the bones of Peking men. Each one of the skulls had already had the base broken out of it. In no case were any of the bones resting together in their natural relation to one another. There is nothing like a burial; all of the bones are scattered. Now it’s true that animals could have scattered bodies that were not cared for or buried. But splitting bones lengthwise and carefully removing the base of a skull call for both the tools and the people to use them. It’s pretty clear who the people were. Peking man was a cannibal.
+
+* * * * *
+
+This rounds out about all we can say of the life and times of early prehistoric men. In those days life was rough. You evidently had to watch out not only for dangerous animals but also for your fellow men. You ate whatever you could catch or find growing. But you had sense enough to build fires, and you had already formed certain habits for making the kinds of stone tools you needed. That’s about all we know. But I think we’ll have to admit that cultural beginnings had been made, and that these early people were really men.
+
+
+
+
+
+MORE EVIDENCE of Culture
+
+
+
+While the dating is not yet sure, the material that we get from caves in Europe must go back to about 100,000 years ago; the time of the classic Neanderthal group followed soon afterwards. We don’t know why there is no earlier material in the caves; apparently they were not used before the last interglacial phase (the period just before the last great glaciation). We know that men of the classic Neanderthal group were living in caves from about 75,000 to 45,000 years ago. New radioactive carbon dates even suggest that some of the traces of culture we’ll describe in this chapter may have lasted to about 35,000 years ago. Probably some of the pre-neanderthaloid types of men had also lived in caves. But we have so far found their bones in caves only in Palestine and at Fontéchevade.
+
+
+
+
+
+THE CAVE LAYERS
+
+
+In parts of France, some peasants still live in caves. In prehistoric time, many generations of people lived in them. As a result, many caves have deep layers of debris. The first people moved in and lived on the rock floor. They threw on the floor whatever they didn’t want, and they tracked in mud; nobody bothered to clean house in those days. Their debris—junk and mud and garbage and what not—became packed into a layer. As time went on, and generations passed, the layer grew thicker. Then there might have been a break in the occupation of the cave for a while. Perhaps the game animals got scarce and the people moved away; or maybe the cave became flooded. Later on, other people moved in and began making a new layer of their own on top of the first layer. Perhaps this process of layering went on in the same cave for a hundred thousand years; you can see what happened. The drawing on this page shows a section through such a cave. The earliest layer is on the bottom, the latest one on top. They go in order from bottom to top, earliest to latest. This is the stratification we talked about ( p. 12 ).
+
+
+
+SECTION OF SHELTER ON LOWER TERRACE, LE MOUSTIER
+
+While we may find a mix-up in caves, it’s not nearly as bad as the mixing up that was done by glaciers. The animal bones and shells, the fireplaces, the bones of men, and the tools the men made all belong together, if they come from one layer. That’s the reason why the cave of Peking man is so important. It is also the reason why the caves in Europe and the Near East are so important. We can get an idea of which things belong together and which lot came earliest and which latest.
+
+In most cases, prehistoric men lived only in the mouths of caves. They didn’t like the dark inner chambers as places to live in. They preferred rock-shelters, at the bases of overhanging cliffs, if there was enough overhang to give shelter. When the weather was good, they no doubt lived in the open air as well. I’ll go on using the term “cave” since it’s more familiar, but remember that I really mean rock-shelter, as a place in which people actually lived.
+
+The most important European cave sites are in Spain, France, and central Europe; there are also sites in England and Italy. A few caves are known in the Near East and Africa, and no doubt more sites will be found when the out-of-the-way parts of Europe, Africa, and Asia are studied.
+
+
+
+
+
+AN “INDUSTRY” DEFINED
+
+
+We have already seen that the earliest European cave materials are those from the cave of Fontéchevade. Movius feels certain that the lowest materials here date back well into the third interglacial stage, that which lay between the Riss (next to the last) and the Würm I (first stage of the last) alpine glaciations. This material consists of an industry of stone tools, apparently all made in the flake tradition. This is the first time we have used the word “industry.” It is useful to call all of the different tools found together in one layer and made of one kind of material an industry; that is, the tools must be found together as men left them. Tools taken from the glacial gravels (or from windswept desert surfaces or river gravels or any geological deposit) are not “together” in this sense. We might say the latter have only “geological,” not “archeological” context. Archeological context means finding things just as men left them. We can tell what tools go together in an “industrial” sense only if we have archeological context.
+
+Up to now, the only things we could have called “industries” were the worked stone industry and perhaps the worked (?) bone industry of the Peking cave. We could add some of the very clear cases of open air sites, like Olorgesailie. We couldn’t use the term for the stone tools from the glacial gravels, because we do not know which tools belonged together. But when the cave materials begin to appear in Europe, we can begin to speak of industries. Most of the European caves of this time contain industries of flint tools alone.
+
+
+
+
+
+THE EARLIEST EUROPEAN CAVE LAYERS
+
+
+We’ve just mentioned the industry from what is said to be the oldest inhabited cave in Europe; that is, the industry from the deepest layer of the site at Fontéchevade. Apparently it doesn’t amount to much. The tools are made of stone, in the flake tradition, and are very poorly worked. This industry is called Tayacian. Its type tool seems to be a smallish flake tool, but there are also larger flakes which seem to have been fashioned for hacking. In fact, the type tool seems to be simply a smaller edition of the Clactonian tool (pictured on p. 45 ).
+
+None of the Fontéchevade tools are really good. There are scrapers, and more or less pointed tools, and tools that may have been used for hacking and chopping. Many of the tools from the earlier glacial gravels are better made than those of this first industry we see in a European cave. There is so little of this material available that we do not know which is really typical and which is not. You would probably find it hard to see much difference between this industry and a collection of tools of the type called Clactonian, taken from the glacial gravels, especially if the Clactonian tools were small-sized.
+
+The stone industry of the bottommost layer of the Mount Carmel cave, in Palestine, where somewhat similar tools were found, has also been called Tayacian.
+
+I shall have to bring in many unfamiliar words for the names of the industries. The industries are usually named after the places where they were first found, and since these were in most cases in France, most of the names which follow will be of French origin. However, the names have simply become handles and are in use far beyond the boundaries of France. It would be better if we had a non-place-name terminology, but archeologists have not yet been able to agree on such a terminology.
+
+
+
+
+
+THE ACHEULEAN INDUSTRY
+
+
+Both in France and in Palestine, as well as in some African cave sites, the next layers in the deep caves have an industry in both the core-biface and the flake traditions. The core-biface tools usually make up less than half of all the tools in the industry. However, the name of the biface type of tool is generally given to the whole industry. It is called the Acheulean, actually a late form of it, as “Acheulean” is also used for earlier core-biface tools taken from the glacial gravels. In western Europe, the name used is Upper Acheulean or Micoquian. The same terms have been borrowed to name layers E and F in the Tabun cave, on Mount Carmel in Palestine.
+
+The Acheulean core-biface type of tool is worked on two faces so as to give a cutting edge all around. The outline of its front view may be oval, or egg-shaped, or a quite pointed pear shape. The large chip-scars of the Acheulean core-bifaces are shallow and flat. It is suspected that this resulted from the removal of the chips with a wooden club; the deep chip-scars of the earlier Abbevillian core-biface came from beating the tool against a stone anvil. These tools are really the best and also the final products of the core-biface tradition. We first noticed the tradition in the early glacial gravels ( p. 43 ); now we see its end, but also its finest examples, in the deeper cave levels.
+
+The flake tools, which really make up the greater bulk of this industry, are simple scrapers and chips with sharp cutting edges. The habits used to prepare them must have been pretty much the same as those used for at least one of the flake industries we shall mention presently.
+
+There is very little else in these early cave layers. We do not have a proper “industry” of bone tools. There are traces of fire, and of animal bones, and a few shells. In Palestine, there are many more bones of deer than of gazelle in these layers; the deer lives in a wetter climate than does the gazelle. In the European cave layers, the animal bones are those of beasts that live in a warm climate. They belonged in the last interglacial period. We have not yet found the bones of fossil men definitely in place with this industry.
+
+
+
+ACHEULEAN BIFACE
+
+
+
+
+
+FLAKE INDUSTRIES FROM THE CAVES
+
+
+Two more stone industries—the Levalloisian and the “ Mousterian ”—turn up at approximately the same time in the European cave layers. Their tools seem to be mainly in the flake tradition, but according to some of the authorities their preparation also shows some combination with the habits by which the core-biface tools were prepared.
+
+Now notice that I don’t tell you the Levalloisian and the “Mousterian” layers are both above the late Acheulean layers. Look at the cave section ( p. 57 ) and you’ll find that some “Mousterian of Acheulean tradition” appears above some “typical Mousterian.” This means that there may be some kinds of Acheulean industries that are later than some kinds of “Mousterian.” The same is true of the Levalloisian.
+
+There were now several different kinds of habits that men used in making stone tools. These habits were based on either one or the other of the two traditions—core-biface or flake—or on combinations of the habits used in the preparation techniques of both traditions. All were popular at about the same time. So we find that people who made one kind of stone tool industry lived in a cave for a while. Then they gave up the cave for some reason, and people with another industry moved in. Then the first people came back—or at least somebody with the same tool-making habits as the first people. Or maybe a third group of tool-makers moved in. The people who had these different habits for making their stone tools seem to have moved around a good deal. They no doubt borrowed and exchanged tricks of the trade with each other. There were no patent laws in those days.
+
+The extremely complicated interrelationships of the different habits used by the tool-makers of this range of time are at last being systematically studied. M. François Bordes has developed a statistical method of great importance for understanding these tool preparation habits.
+
+
+
+
+
+THE LEVALLOISIAN AND MOUSTERIAN
+
+
+The easiest Levalloisian tool to spot is a big flake tool. The trick in making it was to fashion carefully a big chunk of stone (called the Levalloisian “tortoise core,” because it resembles the shape of a turtle-shell) and then to whack this in such a way that a large flake flew off. This large thin flake, with sharp cutting edges, is the finished Levalloisian tool. There were various other tools in a Levalloisian industry, but this is the characteristic Levalloisian tool.
+
+There are several “typical Mousterian” stone tools. Different from the tools of the Levalloisian type, these were made from “disc-like cores.” There are medium-sized flake “side scrapers.” There are also some small pointed tools and some small “hand axes.” The last of these tool types is often a flake worked on both of the flat sides (that is, bifacially). There are also pieces of flint worked into the form of crude balls. The pointed tools may have been fixed on shafts to make short jabbing spears; the round flint balls may have been used as bolas. Actually, we don’t know what either tool was used for. The points and side scrapers are illustrated (pp. 64 and 66 ).
+
+
+
+LEVALLOIS FLAKE
+
+
+
+
+
+THE MIXING OF TRADITIONS
+
+
+Nowadays the archeologists are less and less sure of the importance of any one specific tool type and name. Twenty years ago, they used to speak simply of Acheulean or Levalloisian or Mousterian tools. Now, more and more, all of the tools from some one layer in a cave are called an “industry,” which is given a mixed name. Thus we have “Levalloiso-Mousterian,” and “Acheuleo-Levalloisian,” and even “Acheuleo-Mousterian” (or “Mousterian of Acheulean tradition”). Bordes’ systematic work is beginning to clear up some of our confusion.
+
+The time of these late Acheuleo-Levalloiso-Mousterioid industries is from perhaps as early as 100,000 years ago. It may have lasted until well past 50,000 years ago. This was the time of the first phase of the last great glaciation. It was also the time that the classic group of Neanderthal men was living in Europe. A number of the Neanderthal fossil finds come from these cave layers. Before the different habits of tool preparation were understood it used to be popular to say Neanderthal man was “Mousterian man.” I think this is wrong. What used to be called “Mousterian” is now known to be a variety of industries with tools of both core-biface and flake habits, and so mixed that the word “Mousterian” used alone really doesn’t mean anything. The Neanderthalers doubtless understood the tool preparation habits by means of which Acheulean, Levalloisian and Mousterian type tools were produced. We also have the more modern-like Mount Carmel people, found in a cave layer of Palestine with tools almost entirely in the flake tradition, called “Levalloiso-Mousterian,” and the Fontéchevade-Tayacian ( p. 59 ).
+
+
+
+MOUSTERIAN POINT
+
+
+
+
+
+OTHER SUGGESTIONS OF LIFE IN THE EARLY CAVE LAYERS
+
+
+Except for the stone tools, what do we know of the way men lived in the time range after 100,000 to perhaps 40,000 years ago or even later? We know that in the area from Europe to Palestine, at least some of the people (some of the time) lived in the fronts of caves and warmed themselves over fires. In Europe, in the cave layers of these times, we find the bones of different animals; the bones in the lowest layers belong to animals that lived in a warm climate; above them are the bones of those who could stand the cold, like the reindeer and mammoth. Thus, the meat diet must have been changing, as the glacier crept farther south. Shells and possibly fish bones have lasted in these cave layers, but there is not a trace of the vegetable foods and the nuts and berries and other wild fruits that must have been eaten when they could be found.
+
+
+
+CHART SHOWING PRESENT UNDERSTANDING OF RELATIONSHIPS AND SUCCESSION OF TOOL-PREPARATION TRADITIONS, INDUSTRIES, AND ASSEMBLAGES OF WEST-CENTRAL EUROPE
+
+Wavy lines indicate transitions in industrial habits. These transitions are not yet understood in detail. The glacial and climatic scheme shown is the alpine one.
+
+Bone tools have also been found from this period. Some are called scrapers, and there are also long chisel-like leg-bone fragments believed to have been used for skinning animals. Larger hunks of bone, which seem to have served as anvils or chopping blocks, are fairly common.
+
+Bits of mineral, used as coloring matter, have also been found. We don’t know what the color was used for.
+
+
+
+MOUSTERIAN SIDE SCRAPER
+
+There is a small but certain number of cases of intentional burials. These burials have been found on the floors of the caves; in other words, the people dug graves in the places where they lived. The holes made for the graves were small. For this reason (or perhaps for some other?) the bodies were in a curled-up or contracted position. Flint or bone tools or pieces of meat seem to have been put in with some of the bodies. In several cases, flat stones had been laid over the graves.
+
+
+
+
+
+TOOLS FROM AFRICA AND ASIA ABOUT 100,000 YEARS AGO
+
+
+Professor Movius characterizes early prehistoric Africa as a continent showing a variety of stone industries. Some of these industries were purely local developments and some were practically identical with industries found in Europe at the same time. From northwest Africa to Capetown—excepting the tropical rain forest region of the west center—tools of developed Acheulean, Levalloisian, and Mousterian types have been recognized. Often they are named after African place names.
+
+In east and south Africa lived people whose industries show a development of the Levalloisian technique. Such industries are called Stillbay. Another industry, developed on the basis of the Acheulean technique, is called Fauresmith. From the northwest comes an industry with tanged points and flake-blades; this is called the Aterian. The tropical rain forest region contained people whose stone tools apparently show adjustment to this peculiar environment; the so-called Sangoan industry includes stone picks, adzes, core-bifaces of specialized Acheulean type, and bifacial points which were probably spearheads.
+
+In western Asia, even as far as the east coast of India, the tools of the Eurafrican core-biface and flake tool traditions continued to be used. But in the Far East, as we noted in the last chapter, men had developed characteristic stone chopper and chopping tools. This tool preparation tradition—basically a pebble tool tradition—lasted to the very end of the Ice Age.
+
+When more intact open air sites such as that of an earlier time at Olorgesailie, and more stratified cave sites are found and excavated in Asia and Africa, we shall be able to get a more complete picture. So far, our picture of the general cultural level of the Old World at about 100,000 years ago—and soon afterwards—is best from Europe, but it is still far from complete there, too.
+
+
+
+
+
+CULTURE AT THE BEGINNING OF THE LAST GREAT GLACIAL PERIOD
+
+
+The few things we have found must indicate only a very small part of the total activities of the people who lived at the time. All of the things they made of wood and bark, of skins, of anything soft, are gone. The fact that burials were made, at least in Europe and Palestine, is pretty clear proof that the people had some notion of a life after death. But what this notion really was, or what gods (if any) men believed in, we cannot know. Dr. Movius has also reminded me of the so-called bear cults—cases in which caves have been found which contain the skulls of bears in apparently purposeful arrangement. This might suggest some notion of hoarding up the spirits or the strength of bears killed in the hunt. Probably the people lived in small groups, as hunting and food-gathering seldom provide enough food for large groups of people. These groups probably had some kind of leader or “chief.” Very likely the rude beginnings of rules for community life and politics, and even law, were being made. But what these were, we do not know. We can only guess about such things, as we can only guess about many others; for example, how the idea of a family must have been growing, and how there may have been witch doctors who made beginnings in medicine or in art, in the materials they gathered for their trade.
+
+The stone tools help us most. They have lasted, and we can find them. As they come to us, from this cave or that, and from this layer or that, the tool industries show a variety of combinations of the different basic habits or traditions of tool preparation. This seems only natural, as the groups of people must have been very small. The mixtures and blendings of the habits used in making stone tools must mean that there were also mixtures and blends in many of the other ideas and beliefs of these small groups. And what this probably means is that there was no one culture of the time. It is certainly unlikely that there were simply three cultures, “Acheulean,” “Levalloisian,” and “Mousterian,” as has been thought in the past. Rather there must have been a great variety of loosely related cultures at about the same stage of advancement. We could say, too, that here we really begin to see, for the first time, that remarkable ability of men to adapt themselves to a variety of conditions. We shall see this adaptive ability even more clearly as time goes on and the record becomes more complete.
+
+Over how great an area did these loosely related cultures reach in the time 75,000 to 45,000 or even as late as 35,000 years ago? We have described stone tools made in one or another of the flake and core-biface habits, for an enormous area. It covers all of Europe, all of Africa, the Near East, and parts of India. It is perfectly possible that the flake and core-biface habits lasted on after 35,000 years ago, in some places outside of Europe. In northern Africa, for example, we are certain that they did (see chart, p. 72 ).
+
+On the other hand, in the Far East (China, Burma, Java) and in northern India, the tools of the old chopper-tool tradition were still being made. Out there, we must assume, there was a different set of loosely related cultures. At least, there was a different set of loosely related habits for the making of tools. But the men who made them must have looked much like the men of the West. Their tools were different, but just as useful.
+
+As to what the men of the West looked like, I’ve already hinted at all we know so far ( pp. 29 ff.). The Neanderthalers were present at the time. Some more modern-like men must have been about, too, since fossils of them have turned up at Mount Carmel in Palestine, and at Teshik Tash, in Trans-caspian Russia. It is still too soon to know whether certain combinations of tools within industries were made only by certain physical types of men. But since tools of both the core-biface and the flake traditions, and their blends, turn up from South Africa to England to India, it is most unlikely that only one type of man used only one particular habit in the preparation of tools. What seems perfectly clear is that men in Africa and men in India were making just as good tools as the men who lived in western Europe.
+
+
+
+
+

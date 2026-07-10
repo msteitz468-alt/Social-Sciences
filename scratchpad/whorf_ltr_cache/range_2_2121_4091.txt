@@ -1,0 +1,1970 @@
+On the Connection of Ideas
+
+320 Wolcott Hill Road
+
+Wethersfield, Conn.
+
+July 12, 1927
+
+Dear Dr. English:
+
+I have been intending to write you in regard to your little dictionary
+and especially to ask you for a name by which to denote a certain
+psychological concept, but I have not found a chance until the present,
+and I don’t know whether this season will find you at your Middletown
+address. I must say that I appreciate that dictionary; it is not only
+actually interesting—a rare thing for a dictionary—but valuable as well.
+But I have not been able to find in it or in any other source a
+recognized term for one of the phenomena in which I am interested and
+would like to know if you know of such a term or could suggest one.
+
+I have not been able to find a term that I need to denote a kind of
+connection or relation, approximation, closeness, allied character,
+between ideas. The only psychological term I know of that expresses
+connection between ideas is “association,” but this has quite a definite
+meaning and one that will not do for the meaning I have in mind. The
+“connection” of ideas, as I call it in the absence of any other term, is
+quite another thing from the “association” of ideas. In making
+experiments on the connecting of ideas, it is necessary to eliminate the
+“associations,” which have an accidental character not possessed by the
+“connections.” The subject must not jump at the first idea that comes to
+mind as in a “free association” experiment; hence the experiment might
+be considered a form of “controlled association”; yet it may be quite
+“free” in its own sphere, for any connection may be permitted.
+
+“Connection” is important from a linguistic standpoint because it is
+bound up with the communication of ideas. One of the necessary criteria
+of a connection is that it be intelligible to others, and therefore the
+individuality of the subject cannot enter to the extent that it does in
+free association, while a correspondingly greater part is played by the
+stock of conceptions common to people. The very existence of such a
+common stock of conceptions, possibly possessing a yet unstudied
+arrangement of its own, does not yet seem to be greatly appreciated; yet
+to me it seems to be a necessary concomitant of the communicability of
+ideas by language; it holds the principle of this communicability, and
+is in a sense the universal language, to which the various specific
+languages give entrance.
+
+For an example of connection, consider first the idea ‘down,’ and then
+the following ideas: ‘set, sink, drag, drop, fall, hollow, depress,
+lie.’ I will call these group A. It is clear that there is a
+“connection” between ‘down’ and each of the ideas in group A. Consider
+now group C, consisting of the ideas: ‘upright, heave, hoist, tall, air,
+uphold, swell.’ There is a “connection” between these ideas and the idea
+‘up.’ Now in a connection experiment the subject, on receiving the idea
+‘down’ would be free to connect with any of the ideas in group A or
+others like them but could not give any of the ideas in group C or the
+like. Yet, if it were a question of ASSOCIATIONS only, he might
+associate an idea in group C with ‘down.’ He might for instance have had
+an unpleasant experience in a boat when there was a heavy ‘swell’ on,
+from which he retained a vivid impression of continually going down. But
+this association would not be a connection. It would pertain to his own
+personal experience rather than to the social or collective experience
+which is embodied in the common linguistic stock of concepts, and the
+reason for the association would not be intelligible immediately without
+explanation; it would require an explanation bringing in his personal
+experience. In this sense of immediate intelligibility, ‘swell’ is
+connected with ‘up’ or the like, and is distinctly removed from ‘down.’
+So, in further definition of this concept of connection, it may be said
+that connections must be intelligible without reference to individual
+experiences and must be immediate in their relationship. Mediate
+connections, i.e., connections through the medium of other connections,
+are to be called rather chains or paths of connection, or possibly
+“communications.”
+
+It is possible to formulate another group of ideas, group B, which
+mediate between A and C, so that we can pass, by means of various chains
+or paths of connective communication, from A to C and hence from ‘down’
+to ‘up’ entirely in a connective way and without the aid of association.
+For instance:
+
+[Whorf_001_fig_001]
+
+Subjects feeling their own way through the congeries of ideas between
+‘down’ and ‘up’ do not always follow these paths but often find others.
+For instance, subject M. F. went as follows: ‘set—heavy—swell—up.’ Asked
+to explain the connection ‘set—heavy,’ it appeared that ‘set’ entailed a
+strong notion of fixation or fixity, and suggested ‘rigidification,
+congelation, stiffening, thickening,’ as in the setting of jelly, while
+‘heavy’ implied to the subject not merely ‘weight’ but ‘body, density,
+viscosity,’ an idea closely similar to the preceding ‘set.’ This is a
+true connection, although it was not instantly intelligible to the
+experimenter, but it was quickly understood without reference to any
+personal experience. The connection ‘heavy—swell’ also was not instantly
+perceived, but it developed that ‘heavy’ conveyed essentially the idea
+of quantity or mass, including ‘massiveness, size, increase’: hence
+‘enlarge, expand, swell.’ This again is a true connection. The same
+subject starting with ‘up’ traversed the path ‘up—hoist—pull—drag—down.’
+Subject W. W. gave ‘down—drop—heavy—hoist—up.’ Asked to explain the
+connection ‘heavy—hoist,’ it appeared that heavy suggested the feeling
+or bearing of weight, the ‘hefting’ of a thing, essentially as lifting
+action. If the word ‘heave’ had been more familiar to the subject, he
+might have chosen it in preference to ‘hoist.’
+
+But a different and nonconnective process appeared when a young man
+having reached an idea ‘past’ took as the next step ‘hiding,’
+overlooking an obvious ‘before’ in the same group. This still might be a
+connection if it yielded a satisfactory explanation, but the best
+explanation he could give was that one’s past was usually unpleasant and
+so one would prefer not to remember it; hence it was in hiding. This
+might perhaps be only an awkward way of expressing the connection, but
+it appeared not. He did not respond to the suggestions that ‘past’ meant
+‘receded, withdrawn, retired, concealed,’ or that it meant ‘gone,
+vanished, invisible, concealed,’ or that it meant ‘existent (in memory)’
+but not ‘apparent, stored up, hoarded,’ etc., but persisted in this
+quite extraneous idea of the unpleasantness of the past. Hence I
+concluded either that an unpleasant past really had colored his way of
+thinking, or that he wished to pose as somewhat of a misanthrope or
+cynic, or that he had been reading psychoanalysis: that in any case we
+had to do here with something personal, which was indeed an ASSOCIATION
+yet not a CONNECTION. In telling him that I wanted connections that had
+nothing to do with personal experiences, he admitted that this might not
+apply to his association, and then chose ‘before.’
+
+Sometimes a subject will jump to a true connection by association and
+then get the connection later; e.g., W. W., a college freshman with
+intelligence distinctly above the average, said he thought the
+connection between ‘drag’ and ‘down’ was like this: ‘drag’ meant ‘pull’
+and things went ‘down’ because PULLED by the ATTRACTION of gravity. He
+had just taken an examination in physics. I asked him whether he could
+have recognized a connection if he had never heard of gravity and he
+supposed not. I suggested that gravity might prove to be a compacting
+together due to a kind of external pressure, and then what would become
+of the connection? A mere hint was sufficient to lead him to the true
+connection, which is simply one of linguistic meaning, i.e., ‘drag’ =
+‘trail, dangle’; what is ‘dragging’ is in general ‘down,’ not ‘up.’ This
+is an interesting commentary on the inability to distinguish theory from
+fact in what is learned, even in an exceptionally intelligent student.
+(Or perhaps especially in such a one? That is, if intelligent means
+quick to learn, perhaps it also means receptive and hence too
+credulous?)
+
+Can you suggest any better term for this sort of affinity than
+“connection”? I might say that my mental image of the relation is not at
+all one of ideas hitched together by bonds of attachment which they
+possess like miniature hooks and eyes. It is more a concept of
+continuity, with the ideas as relative locations in a continuous medium.
+Take an idea like “up,” and say it corresponds to a certain location
+where we are. Now I can conceive that something like motion may happen
+to us. The idea “up” is a sort of neighborhood, and we are leaving that
+neighborhood. We cannot tell exactly where any neighborhood leaves off.
+We know that the idea UP is assuming a different nuance: it is growing
+to be like the idea RISE. But, after a certain amount of this change or
+“motion” has taken place, we know that we are in a different spot; the
+idea is now definitely ‘rise,’ not ‘up.’ Motion continues, and ‘rise’
+becomes ‘left.’ ‘Left’ insensibly becomes ‘carry,’ and this becomes
+‘sustain.’ We are now definitely out of the vicinity of ‘up.’ Any one of
+these ideas might have become something else by varying the “direction”
+of motion. ‘Sustain’ might become ‘nourish,’ or it might become
+‘continue.’ ‘Nourish’ might become ‘feed,’ and ‘continue’ might become
+‘long.’
+
+ 
+
+This unpublished essay was found by me among Whorf’s papers as a partly
+typewritten, partly handwritten draft of a letter, dated July 12, 1927,
+to the psychologist Dr. Horace B. English, then of Wesleyan University,
+who had just published a dictionary of psychological terms. There is
+some question whether the letter was ever finished and sent, but Dr.
+English, now at The Ohio State University, has a vague recollection of
+receiving something like it. I have made minor editorial emendations and
+alterations where necessary.
+
+2
+
+On Psychology
+
+Psychology has developed a field of research that may no doubt be useful
+or valuable in itself, but it throws little or no light on problems of
+the normal human mind or soul. The person who wishes to understand more
+fully the laws and, so to speak, topography, of the inner or mental life
+is as much thrown back on his own difficultly acquired store of wisdom
+and his native judgments, intuitions, sympathies, and common sense as
+though the science of psychology did not exist. Such a one, for
+instance, is the teacher, educator, sociologist, anthropologist,
+trainer, coach, salesman, preacher, manager, diplomat, executive: anyone
+who must deal with human intangibles, especially the man concerned in
+leadership of any sort. If he seeks aid from books, he will get far more
+information about this field from literature not intended to be
+scientific, that is, from the best works of the novelists, playwrights,
+and poets, than he will from any textbook of psychology. There are
+certain courses that psychology has elected to follow that have
+estranged it, perhaps permanently, from the truly mental field.
+
+First, the “old school” of experimental laboratory psychology has rather
+definitely assumed the character of a branch of physiology. Its findings
+and their value all redound back to physiology. It is undoubtedly
+valuable to the student of mental phenomena to know the mechanisms of
+the body, but rather in the character of auxiliary information than
+anything else; and knowledge about the oxidation of the blood and the
+details of brain and nerve responses, sense perceptions, and association
+times are equally of this character. Moreover, one is impressed (and
+depressed) by the appalling sterility of the vast mass of minutiae that
+this science accumulates, and the dearth of integrating principles.
+
+Second, the school of behaviorism has begun to appear in its true
+character as simply the old experimental psychology over again in a more
+pick-and-shovel aspect. That it is in many ways an improvement on the
+old school and has enlarged our understanding in certain fields I
+personally believe. It has been of service by teaching us to think more
+in terms of behavior, but, when all is said and done, it can teach us
+little that is new. It has shown us how behavior may be conditioned by
+physical means, but along much the same lines that we already knew
+although they have been more systematically explained. It has become
+apparent that we may “condition” either with or against the cooperation
+of truly psychic considerations. This we already knew, but we are
+particularly interested in “conditioning” with the cooperation of and in
+accordance with the particular laws of the psychic. No doubt the same
+process of stimulus and response “conditions” a man into being a
+scientist or a maniac, a leader of men or a nervous wreck, a good
+workman or one who cannot hold a job, an inspiring helper or a resentful
+cog in the machine; but behaviorism does not show us which lines to work
+upon in order to be really in accord with human intangibles, except by
+way of announcing in behavioristic terms things already obvious to
+common sense.
+
+Gestalt psychology does seem to me to have discovered an important truth
+about mind, the importance of configurations in the mental domain. At
+the same time the Gestalt psychologists have their hands full with the
+manifold mechanical, experimental, and personal data required to develop
+this large subject, most of which data are chiefly valid on the animal
+level. When we attempt to apply the configurative principle to the
+understanding of human life, we immediately strike the cultural and the
+linguistic (part of the cultural), especially the latter, as the great
+field par excellence of the configurative on the human level. Here the
+Gestalt psychologists let the matter drop. They have neither the time
+nor the linguistic training required to penetrate this field; moreover
+their ideas and terminology inherited from the old laboratory psychology
+are a liability rather than an asset.
+
+Psychoanalysis is the one school that really deals with mental material,
+and it sometimes gets results, but it works only in the sphere of the
+abnormal and the deranged, and it is becoming evident that the abnormal
+is not the key to the normal. Moreover, it is so resolute in its
+determination to deal with intangibles that it shows almost a contempt
+for the external world and strays continually into the realms of
+phantasm. It is too heavily stamped with the signature of its founder,
+Freud, an erratic genius with a faculty of apperceiving deep but obscure
+truths, and is notion-obsessed and cluttered with weird dogma. As an
+empirical tool for the clinic it may serve for a while, but I do not see
+how it can possibly be a means for the careful scientific scrutiny of
+the normal mind.
+
+All the schools then have been surveyed and found wanting, and the
+seeker for knowledge about the human mind is forced to fall back on the
+long-collected mass of empirical observations sometimes called “the
+wisdom of the ages,” on the works of keenly intuitive authors, on his
+own insight, and on what few general truths he can cull here and there
+from all the above schools.
+
+One fact that stands out to a detached viewpoint, but is not stressed by
+any of the schools, is the great and perhaps basic importance of the
+principle we denote by the word “meaning.” Meaning will be found to be
+intimately connected with the linguistic: its principle is symbolism,
+but language is the great symbolism from which other symbolisms take
+their cue.
+
+ 
+
+This hitherto unpublished note was found by me among Whorf’s papers as a
+rough handwritten manuscript. The date of its composition is unknown,
+although I would hazard a guess that it was written about the same time
+as the letter to English, that is, about 1927. The latter part of the
+note is extremely sketchy; perhaps this is only the outline of a longer
+paper which Whorf contemplated writing. I have supplied a title and made
+extremely minor editorial changes.
+
+3
+
+A Central Mexican Inscription Combining Mexican and Maya Day Signs
+
+When in Mexico during the winter of 1930, engaged in Nahuatl linguistic
+research, I visited the village of Tepoztlan in the state of Morelos and
+while there made the accompanying sketch (Figure 3.1) of a band of
+sculptured figures in the ruined temple of the Tepoztecatl, the ancient
+tutelary deity, which stands on a great rock pinnacle overlooking the
+town.
+
+[Figure 3.1]
+
+Figure 3.1
+
+Inscription in the Temple of the Tepoztecatl, Tepoztlan, Morelos,
+Mexico.
+
+The temple has been described by Saville,¹ Seler,² and Novelo,³ but
+nowhere do any of them discuss the figures dealt with herein. The
+structure bears indications⁴ of dating from the reign of the Aztec king
+Ahuitzotl, who died in 1502; but, as the figures in question show
+likenesses to forms known to be over a thousand years more ancient than
+this, it may be that in the building of the temple they were carved in
+obedience to artistic traditions, or copied from older architectural
+work of this region. They form a band extending along the top of a much
+more conspicuous frieze of larger carvings on the inner walls of the
+inner room or court. My sketch and remarks apply only to a clearly
+preserved portion of the band in the southern half of the court.
+
+Stylistically and on the basis of general probabilities, the figures
+would, I think, strike any student as a band of the day signs of the
+tonalamatl, such as one sees continued interminably along with the
+successions of pictures in the Mexican codices. But many of the signs
+bear little resemblance to their Mexican form, the form corresponding to
+the Aztec names Cipactli, Ehecatl, Calli, etc. Nevertheless, as we shall
+presently see, the signs Acatl, Malinalli, and Atl are in practically
+their regular Mexican forms, and to clinch the matter are precisely the
+correct number of signs apart. But moreover, and here the unusual
+enters, some of the signs bear an unmistakable likeness to the quite
+un-Mexican-looking Maya forms, corresponding to the Maya names Imix, Ik,
+Akbal, etc., and these signs, too, are in exactly their proper places.
+The ruin is of course far removed from historical Maya territory, being
+only about forty miles from Mexico City in a region of Toltec and
+post-Toltec influence.
+
+As I sketched the figures, their general un-Aztec look quickly struck
+me, but the first clear impression that I was drawing a MAYA HIEROGLYPH
+came when I began to copy the sign Figure 3.1, no. 10. Comparison with a
+very common Maya hieroglyph, whose most usual form is that shown in
+Figure 3.2, no. 10, indicates the similarity. The Maya sign is a hand
+having the distinctive characteristics of a prominent thumb more or less
+opposed toward the fingers, and having invariably on the wrist a circle
+usually with a central dot and a small taglike projection from the rim.
+The fingers are usually bent toward the thumb, but there are forms on
+the Maya monuments in which they are extended straight as in the
+Tepoztlan figure. This sign is a hieroglyphic element of wide and varied
+use, but it is especially a grapheme⁵ that stands for the day sign
+Manik. In the Mexican day-sign system there is no grapheme even remotely
+resembling a hand. The sign corresponding to Manik is called Mazatl, and
+its grapheme is a deer’s head (Figure 3.2, no. 9).
+
+[Figure 3.2]
+
+Figure 3.2
+
+The Mexican and Maya day signs from Coatl–Chicchan to Cozcaquauhtli–Cib
+in their order. Bibliographic references: 1, 9, 11, 15, 17, 19, 23, and
+26 from Sahagun manuscript; 2 and 5 from Zouche Codex; 12 and 31 from
+Fejervary-Mayer manuscript; 14 from Codex Telleriano-Remensis; 21, 24,
+and 29 from Seler’s Caractère des inscriptions; 3, 4, 6, 13, 16, 18, 20,
+22, 25, 27, 28, 30, 33 from Morley’s Introduction to Maya hieroglyphs
+(3, 18, and 28 inscription forms from p. 38, 33 an inscription form from
+p. 95, the others codex forms from p. 39); 7, hieroglyph of death god,
+from Dresden Codex, p. 15; 8, representation of human skeleton from
+Uxmal, from Spinden’s Maya art, and 32, Codex Peresianus, from Spinden’s
+Maya art, p. 94; 10, from Codex Tro-Cortesianus; 18a, Maya hieroglyph
+based on dog’s head and related to Oc (18), from Dresden Codex.
+
+Can it be that this Tepoztlan hand figure represents Manik–Mazatl? Do
+the other signs fall into the proper places required by such an
+assumption? Let us see. In both day-sign systems the sign before
+Manik–Mazatl is called by a similar name, Cimi in Maya and Miquiztli in
+Aztec, both meaning “death.” The grapheme in both systems is a death’s
+head or head of the death god, stylistically different, however, in the
+two systems. Figure 3.2, no. 5 shows the Aztec type of grapheme, a
+fleshless skull; Figure 3.2, no. 6, the Maya type; and Figure 3.2, no.
+7, the hieroglyph of the Maya death god as it appears in the Maya
+codices. Now the direction of Aztec and Maya writing is like our own,
+from left to right. The figure to the left of the hand (Figure 3.1, no.
+9) bears no resemblance to Miquiztli or Cimi. But the figure to the
+right of the hand (Figure 3.1, no. 11), strange to say, shows a most
+curious likeness to the hieroglyph of the Maya death god. The two
+prefixes attached to the head are especially characteristic of this
+grapheme, indeed are found nowhere else. The Tepoztlan glyph however has
+a suffix that is not found in the death-god grapheme, but is an element
+in other Maya hieroglyphs. It is particularly characteristic of the
+month sign Kankin, and according to Seler represents a human skeleton.
+It seems to be related to the skeletal representation shown in Figure
+3.2, no. 8, taken from Figure 115, page 86 of Spinden’s Maya Art, where
+Spinden treats of the artistic symbolism of bones and death among the
+Maya.
+
+The fact is, as will soon be proved, that we have here an inscription
+which for some unknown reason is written in reverse order, from right to
+left, and this death-god sign stands for Cimi–Miquiztli. Once this is
+realized, the student of the subject will soon notice another
+out-and-out Maya sign, namely the ninth figure to the left of the hand,
+Figure 3.1, no. 1. In the Mexican system the ninth sign after Mazatl is
+called Cozcaquauhtli, and its grapheme is the head of a vulture (Figure
+3.2, no. 31) or of an eagle wearing a collar. In the Maya system the
+ninth sign after Manik is called Cib, and its grapheme (Figure 3.2, nos.
+32 and 33) is a curved line like a question mark or sometimes rather
+like a letter C turned over or turned backward. This last is the form of
+the Tepoztlan figure.
+
+The two dots beside the curve are not found in the Maya Cib, but they
+nevertheless confirm the identification. Seler, from the fact that the
+sign Cib was often represented on liquor vessels, connected it with a
+similar sign placed by the Aztec on their drinking vessels and called
+ometoch, from the god of intoxication Ome Tochtli, literally ‘Two
+Rabbit.’ This god is often represented (e.g., Sahagun Madrid Manuscript,
+under his name Totochtin) carrying a shield with a sign very similar to
+the Tepoztlan figure. An Aztec note on the Sahagun picture says that the
+god bears an ometoch-chimalli, that is, ‘shield with the device Two
+Rabbit.’ In our present case the two dots are merely the usual
+expression of the number part of such a name as Two Rabbit. Ome Tochtli
+and Tepoztecatl are considered to be the same or related deities, so
+that their especial cult in Tepoztlan might perhaps employ their emblem
+as a day-sign grapheme when it would not be so employed elsewhere. The
+point is that they should have employed it, not for Tochtli or ‘Rabbit,’
+but for Cozcaquauhtli or ‘Vulture,’ of all signs the one corresponding
+in position to Maya Cib.
+
+Let us check the positions of the other signs proceeding from no. 10, or
+Manik, toward Cib. Number 9 is too worn to be distinctly recognizable as
+anything; yet, by comparison with the form of the Mexican sign Tochtli,
+shown in Figure 3.2, no. 12, it will be seen to resemble a worn-down
+carving of this form.
+
+The next sign, no. 8, is crowded against the following sign no. 7 and is
+placed in an angle where the band turns the corner of the wall. If it is
+compared with the grapheme of the Aztec sign Atl (‘Water’) shown in
+Figure 3.2, no. 14, the likeness will be evident.
+
+Number 7, the next figure, occupies the place of the Aztec Itzcuintli
+(‘Dog’) and the Maya Oc. It shows a head that looks more like a toucan
+or some such bird than a dog. It certainly shows little resemblance to
+the naturalistic dog’s head (Figure 3.2, no. 17), the grapheme for this
+day sign in the Mexican system. Now a toucan-like conventional head,
+shown in Figure 3.2, no. 18a, is one of the commonest hieroglyphic
+elements in the Maya codices, and Beyer⁶ has shown that this
+conventionalized head is derived from that of the dog. The Maya day sign
+corresponding to Itzcuintli is called Oc, and has two distinct forms of
+grapheme. The form of the codices has no resemblance to the Tepoztlan.
+The form of the Maya inscriptions, shown in Figure 3.2, no. 18, may be
+compared with the Tepoztlan form. The dog hieroglyph may be further
+compared in that it always bears a suffix containing a two-lobed figure,
+while the Tepoztlan glyph shows suffixed to the head a square frame
+containing a two-lobed figure.
+
+Sign 6 shows a certain resemblance to the Maya Chuen, Figure 3.2, no.
+20, and is quite unlike the naturalistic monkey head of the Aztec
+Ozomatli (Fig. 3.2, no. 19).
+
+Sign 5 agrees with the Aztec grapheme for the same position. Although it
+is much worn and a cavity in the stone seems to have been scooped out of
+a part of it, the brush of tonguelike streamers characteristic of
+Malinalli is recognizable (cf. the form of Malinalli shown in Fig. 3.2,
+no. 21). Here there is no trace of the Maya form (Eb, Fig. 3.2, no. 22).
+
+Sign 4 shows in proper position the distinctive features of certain
+forms of the Mexican Acatl. (Cf. especially the form shown in Fig. 3.2,
+no. 24.) The Maya Ben, Figure 3.2, no. 25, is quite different.
+
+Sign 3 however is a very strange one. It is certainly nothing like the
+Mexican Ocelotl, a jaguar head, Figure 3.2, no. 26. Nor is there any
+external resemblance to the Maya Ix, Figure 3.2, nos. 27 and 28. And yet
+it contains in a curious way two elements of the Ix grapheme. The really
+essential element of the grapheme is the three dots, and the Tepoztlan
+figure displays very prominently three large dots on the left and three
+smaller dots on the right. Distinctive of the codex form of Ix are the
+two converging dotted lines, and the Tepoztlan sign bears a
+shield-shaped figure on which are two similarly placed lines.
+
+Sign 2 bears no resemblance to the Maya Men (Fig. 3.2, no. 30) nor to
+the ordinary form of the Aztec Quauhtli, an eagle’s head. But Seler⁷
+pictures a form of Quauhtli (Fig. 3.2, no. 29) in which the eagle wears
+a headdress that compares interestingly in its main features with the
+Tepoztlan figure. This brings us to sign 1, or Cib, which we have
+already discussed. There is a sign beyond this which I have not shown,
+as it is worn and hard to make out, and I did not secure a good drawing.
+It shows no likeness to the unmistakable Aztec Olin or to the Maya
+Caban.
+
+What does the band show to the right of sign 11, or Cimi? A blank space
+where the stone has been broken away. Beyond this space appears one more
+sign, no. 12. Of course we do not know whether any signs were inscribed
+in this space, or if so how many, though I should say the space would
+contain only two. Allowing two signs for the space would make no. 12
+become no. 14, the position of the Aztec Calli or the Maya Akbal,
+neither of which has any resemblance to it. It is a conventionalized
+serpent jaw, a common Middle American art motive. Therefore I think that
+no signs need be allotted to the broken space and that we have here the
+day sign before Cimi–Miquiztli, which is the Maya Chicchan (Fig. 3.2,
+nos. 3 and 4), the Aztec Coatl (Serpent) (Fig. 3.2, nos. 1 and 2). The
+common Aztec form is not conventionalized to the degree of this figure.
+
+It is perhaps these figures to which Novelo refers in his words:
+
+——hay otros jeroglíficos cuya interpretacion no ha sido posible de
+hacer, alguno de los cuales tienen cierta semejanza con los mayas.
+
+Moreover he refers to the Maya influence in these terms:
+
+——parece existir en los relieves de origen tlahuica (Tepoztlan y
+Xochicalco) cierta influencia maya cuya cultura floreció en Mexico, como
+se sabe, en los primeros siglos de la Era Cristiana.
+
+He also tells us that pilgrims from far-away Chiapas and Guatemala,
+regions once of Maya culture, were accustomed to visit the sanctuary of
+Tepoztlan.
+
+Yet it is certainly unexpected to encounter here, not far from Mexico
+City, definite day signs denoted by graphemes which, like Cib and Manik,
+were being carved on the structures of the old Maya Empire in distant
+Central America a millennium and more before the date of the Aztec
+temple on which they appear interchangeably with ordinary Aztec forms.
+And why was the sign series recorded backward? Here again the only
+comparable thing that I can think of is a Maya one, the fact that the
+Maya inscriptions record a number series in reverse order when it is
+counting back into the past: that is, when its total is to be subtracted
+from, and not added to, a beginning date, in order to reach a second
+date. Does this Tepoztlan inscription seek to show the tonalamatl
+receding into the past?
+
+We have here for the first time evidence of a definite, clearly
+demonstrable rapport between Nahuatl hieroglyphs and early Maya ones.
+The whole subject of the relation of Mexican and Maya graphemes, as it
+reveals itself in other places, is something of which I hope to treat
+extensively and from a linguistic viewpoint at another time.
+
+ 
+
+Reprinted from Amer. Anthrop., 34:296–302 (1932).
+
+1. Bull. Amer. Mus. Nat. Hist. (1896); also Monum. Records, February
+1898.
+
+2. Bull. 28, Bur. Amer. Ethnol., 347; “Die Wandskulpturen im Tempel des
+Pulquegottes von Tepoztlan,” Gesamm. Abh., 3:487.
+
+3. “Guia para visitar las principales ruinas arqueologicas del estado de
+Morelos,” Pub. Sec. Educacion, Publica, 3 (1929).
+
+4. See Seler, Bull. 28, Bur. Amer. Ethnol.
+
+5. Grapheme is a word formed on the analogy of morpheme, semanteme, to
+denote any written symbol, especially as a linguistic factor, in place
+of “ideogram,” “pictograph,” or the ambiguous “character.” In discussing
+hieroglyphs it is desirable to have a term that does not presuppose
+anything about the nature of the denotative process employed.
+
+6. Amer. Anthrop., 31 (1929).
+
+7. Caractère des inscriptions Aztèques et Mayas.
+
+4
+
+The Punctual and Segmentative Aspects of Verbs in Hopi
+
+Verbs in the Hopi language are noteworthy for their very rich and
+expressive development of verbal aspects and voices. I shall say nothing
+in this paper of the nine voices (intransitive, transitive, reflexive,
+passive, semipassive, resultative, extended passive, possessive, and
+cessative); and of the nine aspects (punctual, durative, segmentative,
+punctual–segmentative, inceptive, progressional, spatial, projective,
+and continuative) I shall deal with only two. It may be noted that there
+are no perfective and imperfective aspects; in fact Hopi does not in any
+way formalize as such the contrast between completion and incompletion
+of action. Its aspects formalize different varieties of the contrast
+between point-locus and extent-locus of phenomena, indifferently in time
+or space, or in both. Hopi also has three tenses: factual or
+present–past, future, and generalized or usitative. Hopi verbs belong to
+seven classes or conjugations having slightly different inflectional
+systems. Class 1, the largest and most creative class, contains a few
+categories not found in the other classes, among them the segmentative
+aspect.
+
+The simplex of the class-1 verb is a bare root of the form CVCV, and is
+in the third person singular intransitive voice, punctual aspect, and
+present–past tense. The segmentative aspect is formed by final
+reduplication of this root plus the durative suffix -ta, and produces a
+change in the meaning of the simplex of the following character: the
+phenomenon denoted by the root, shown in the punctual aspect as
+manifested about a point, becomes manifested as a series of repeated
+interconnected segments of one large phenomenon of a stretched-out
+segmental character, its extension usually being predominantly in one
+dimension, indifferently of space or time or both. The nature of the
+change can best be shown by examples.
+
+[image]
+
+In these and similar examples, the phenomenon is such that it requires a
+rigid or semirigid substance for its field of manifestation. When this
+is the case the punctual intransitive has somewhat the character of a
+passive,¹ and the segmentative shows the phenomenon multiplied along one
+dimension of space, like a candle flame between mirrors. In both
+aspects, the phenomenon shows up as an effect established and thereafter
+retained in the rigid substance, so that we are presented with a static
+tableau of this effect as it is disposed in space.
+
+Suppose, however, that the phenomenon denoted by the verb root is such
+as to require a nonrigid or mobile substance for its field of
+manifestation, for example a liquid or a swarm of mobile particles. In
+that case a deformation of substance such as is denoted by the root will
+not be a permanent deformation but will result in a vibrative or
+pulsative agitation of the substance. The intransitive will no longer
+seem like a passive from our English-speaking viewpoint but will be
+decidedly active, and the punctual will denote one pulse of the
+deformation or disturbance, while the segmentative will refer to the
+entire train or field of the vibrations, both as extending in space and
+as continuing in time. Thus, for instance:
+
+[image]
+
+Note that with mobile-substance phenomena the segmentative is both
+durative in time, in contrast to the momentaneous punctual, and extended
+in space, in contrast to the definitely “spotted” location of the
+punctual. Some phenomena are capable of manifestation in both mobile and
+rigid substances, especially those defined in terms of a certain type of
+contour; e.g. ta′ho ‘it exhibits one wavelike curve, or makes one
+undulation’; taho′hota referring to a mobile substance means ‘it is
+undulating’ (for example a liquid surface, a snake, a shaken rope), to a
+nonmobile substance ‘it is scalloped’ or ‘it forms a wave pattern.’
+
+But suppose again that the phenomenon denoted by the stem is one
+resulting from the type of force known in physics as torque (tendency to
+produce rotation), which in order for any effect to be apparent requires
+that the substance be a body with at least a certain degree of rigidity
+and yet capable of certain degrees of motion relative to other bodies.
+In this case a single deformation or displacement as denoted by the
+punctual will be either a single oscillation or a single turning of this
+body according to the degree of freedom implied in the root-meaning;
+while, if the effect continues, it will continue as a train of
+oscillations or a continued rotation and may or may not involve an
+advance through space at the same time: this, then, will be the meaning
+of the segmentative. Examples of this type of meaning are:
+
+  ------------------------------ -----------------------------------------------------------------
+  wa′ya                          makes a waving shake (like a small tree shaken)
+  [LATIN SMALL LETTER ENG]a′ya   makes a sway from one side to the other
+  pï·′ya                         makes a flap like a pair of wings
+  ta′ya                          makes a racking shake
+  [LATIN SMALL LETTER ENG]ö′ya   makes a circuit (axial turning combined with advance in an arc)
+  ro′ya                          makes a turn or twist
+  ri′ya                          makes a quick spin
+  ------------------------------ -----------------------------------------------------------------
+
+It is interesting to note that a great many (though not all) of these
+torque movements are denoted by stems ending in -ya. The segmentatives
+of this type correspond to English durative forms denoting vibrative or
+rotative motion, e.g.:
+
+[image]
+
+In the case of mï′ma ‘rolls over,’ where necessarily a lateral motion
+accompanies the turning, we get this phase of the action necessarily
+extended in mïma′mata ‘it is rolling along.’
+
+Another type of this general class of phenomena is one which manifests
+punctually as a shock, jar, or other sudden disturbance necessarily
+momentary in nature, and is related to a pulsative phenomenon also
+occurring in the natural world as a rapid succession of such shocks.
+Here English generally employs two different stems, but Hopi simply uses
+the punctual and segmentative of the same stem. An example from
+inanimate nature is ti′li ‘it receives a slight jar,’ tili′lita ‘it is
+vibrating’ (like an engine, a wagon, an automobile). But Hopi also
+discerns a great many such phenomena in the animate world, for example:
+
+[image]
+
+Often, again, such verb forms are applied to rhythmical movements of the
+body and limbs:
+
+[image]
+
+Again, the phenomenon may be one of disturbance at a point in a subtle
+medium, that is one that would be scientifically classed as gaseous or
+etheric. Such a medium gives little or no evidence of either motion or
+extension in space, and the segmentative in these cases denotes only
+pulsation in time:
+
+[image]
+
+Finally, there is one class of events to which the segmentative is not
+applied. It is not applied to “mental,” “emotional,” or other “inner” or
+“psychological” experiences. It concerns only the world of external
+observation.
+
+All this has a wider interest than the mere illustration of an
+aspect-form. It is an illustration of how language produces an
+organization of experience. We are inclined to think of language simply
+as a technique of expression, and not to realize that language first of
+all is a classification and arrangement of the stream of sensory
+experience which results in a certain world-order, a certain segment of
+the world that is easily expressible by the type of symbolic means that
+language employs. In other words, language does in a cruder but also in
+a broader and more versatile way the same thing that science does. We
+have just seen how the Hopi language maps out a certain terrain of what
+might be termed primitive physics. We have observed how, with very
+thorough consistency and not a little true scientific precision, all
+sorts of vibratile phenomena in nature are classified by being referred
+to various elementary types of deformation process. The analysis of a
+certain field of nature which results is freely extensible, and
+all-in-all so harmonious with actual physics that such extension could
+be made with great appropriateness to a multiplicity of phenomena
+belonging entirely to the modern scientific and technical
+world—movements of machinery and mechanism, wave processes and
+vibrations, electrical and chemical phenomena—things that the Hopi have
+never known or imagined, and for which we ourselves lack definite names.
+The Hopi actually have a language better equipped to deal with such
+vibratile phenomena than is our latest scientific terminology. This is
+simply because their language establishes a general contrast between two
+types of experience, which contrast corresponds to a contrast that, as
+our science has discovered, is all-pervading and fundamental in nature.
+According to the conceptions of modern physics, the contrast of particle
+and field of vibrations is more fundamental in the world of nature than
+such contrasts as space and time, or past, present, and future, which
+are the sort of contrasts that our own language imposes upon us. The
+Hopi aspect-contrast which we have observed, being obligatory upon their
+verb forms, practically forces the Hopi to notice and observe vibratory
+phenomena, and furthermore encourages them to find names for and to
+classify such phenomena. As a matter of fact the language is
+extraordinarily rich in terms for vibratory phenomena and for the
+punctual events to which they are related.
+
+ 
+
+Reprinted from Language 12:127–131 (1936). The paper was read before the
+Linguistic Society of America in December 1935.
+
+1. It is not a true passive because it does not imply any external
+agent; it is not a static (at least not in the ordinary sense) because
+it does not imply duration in time; it is not a true active because
+activity and result are presented as one.
+
+5
+
+An American Indian Model of the Universe
+
+I find it gratuitous to assume that a Hopi who knows only the Hopi
+language and the cultural ideas of his own society has the same notions,
+often supposed to be intuitions, of time and space that we have, and
+that are generally assumed to be universal. In particular, he has no
+general notion or intuition of time as a smooth flowing continuum in
+which everything in the universe proceeds at an equal rate, out of a
+future, through a present, into a past; or, in which, to reverse the
+picture, the observer is being carried in the stream of duration
+continuously away from a past and into a future.
+
+After long and careful study and analysis, the Hopi language is seen to
+contain no words, grammatical forms, constructions or expressions that
+refer directly to what we call “time,” or to past, present, or future,
+or to enduring or lasting, or to motion as kinematic rather than dynamic
+(i.e. as a continuous translation in space and time rather than as an
+exhibition of dynamic effort in a certain process), or that even refer
+to space in such a way as to exclude that element of extension or
+existence that we call “time,” and so by implication leave a residue
+that could be referred to as “time.” Hence, the Hopi language contains
+no reference to “time,” either explicit or implicit.
+
+At the same time, the Hopi language is capable of accounting for and
+describing correctly, in a pragmatic or operational sense, all
+observable phenomena of the universe. Hence, I find it gratuitous to
+assume that Hopi thinking contains any such notion as the supposed
+intuitively felt flowing of “time,” or that the intuition of a Hopi
+gives him this as one of its data. Just as it is possible to have any
+number of geometries other than the Euclidean which give an equally
+perfect account of space configurations, so it is possible to have
+descriptions of the universe, all equally valid, that do not contain our
+familiar contrasts of time and space. The relativity viewpoint of modern
+physics is one such view, conceived in mathematical terms, and the Hopi
+Weltanschauung is another and quite different one, nonmathematical and
+linguistic.
+
+Thus, the Hopi language and culture conceals a metaphysics, such as our
+so-called naïve view of space and time does, or as the relativity theory
+does; yet it is a different metaphysics from either. In order to
+describe the structure of the universe according to the Hopi, it is
+necessary to attempt—insofar as it is possible—to make explicit this
+metaphysics, properly describable only in the Hopi language, by means of
+an approximation expressed in our own language, somewhat inadequately it
+is true, yet by availing ourselves of such concepts as we have worked up
+into relative consonance with the system underlying the Hopi view of the
+universe.
+
+In this Hopi view, time disappears and space is altered, so that it is
+no longer the homogeneous and instantaneous timeless space of our
+supposed intuition or of classical Newtonian mechanics. At the same
+time, new concepts and abstractions flow into the picture, taking up the
+task of describing the universe without reference to such time or
+space–abstractions for which our language lacks adequate terms. These
+abstractions, by approximations of which we attempt to reconstruct for
+ourselves the metaphysics of the Hopi, will undoubtedly appear to us as
+psychological or even mystical in character. They are ideas which we are
+accustomed to consider as part and parcel either of so-called animistic
+or vitalistic beliefs, or of those transcendental unifications of
+experience and intuitions of things unseen that are felt by the
+consciousness of the mystic, or which are given out in mystical and (or)
+so-called occult systems of thought. These abstractions are definitely
+given either explicitly in words—psychological or metaphysical terms—in
+the Hopi language, or, even more, are implicit in the very structure and
+grammar of that language, as well as being observable in Hopi culture
+and behavior. They are not, so far as I can consciously avoid it,
+projections of other systems upon the Hopi language and culture made by
+me in my attempt at an objective analysis. Yet, if MYSTICAL be perchance
+a term of abuse in the eyes of a modern Western scientist, it must be
+emphasized that these underlying abstractions and postulates of the
+Hopian metaphysics are, from a detached viewpoint, equally (or to the
+Hopi, more) justified pragmatically and experientially, as compared to
+the flowing time and static space of our own metaphysics, which are au
+fond equally mystical. The Hopi postulates equally account for all
+phenomena and their interrelations, and lend themselves even better to
+the integration of Hopi culture in all its phases.
+
+The metaphysics underlying our own language, thinking, and modern
+culture (I speak not of the recent and quite different relativity
+metaphysics of modern science) imposes upon the universe two grand
+COSMIC FORMS, space and time; static three-dimensional infinite space,
+and kinetic one-dimensional uniformly and perpetually flowing time—two
+utterly separate and unconnected aspects of reality (according to this
+familiar way of thinking). The flowing realm of time is, in turn, the
+subject of a threefold division: past, present, and future.
+
+The Hopi metaphysics also has its cosmic forms comparable to these in
+scale and scope. What are they? It imposes upon the universe two grand
+cosmic forms, which as a first approximation in terminology we may call
+MANIFESTED and MANIFESTING  (or, UNMANIFEST) or, again, OBJECTIVE and
+SUBJECTIVE. The objective or manifested comprises all that is or has
+been accessible to the senses, the historical physical universe, in
+fact, with no attempt to distinguish between present and past, but
+excluding everything that we call future. The subjective or manifesting
+comprises all that we call future, BUT NOT MERELY THIS; it includes
+equally and indistinguishably all that we call mental—everything that
+appears or exists in the mind, or, as the Hopi would prefer to say, in
+the HEART, not only the heart of man, but the heart of animals, plants,
+and things, and behind and within all the forms and appearances of
+nature in the heart of nature, and by an implication and extension which
+has been felt by more than one anthropologist, yet would hardly ever be
+spoken of by a Hopi himself, so charged is the idea with religious and
+magical awesomeness, in the very heart of the Cosmos, itself.¹ The
+subjective realm (subjective from our viewpoint, but intensely real and
+quivering with life, power, and potency to the Hopi) embraces not only
+our FUTURE, much of which the Hopi regards as more or less predestined
+in essence if not in exact form, but also all mentality, intellection,
+and emotion, the essence and typical form of which is the striving of
+purposeful desire, intelligent in character, toward manifestation—a
+manifestation which is much resisted and delayed, but in some form or
+other is inevitable. It is the realm of expectancy, of desire and
+purpose, of vitalizing life, of efficient causes, of thought thinking
+itself out from an inner realm (the Hopian HEART) into manifestation. It
+is in a dynamic state, yet not a state of motion—it is not advancing
+toward us out of a future, but ALREADY WITH US in vital and mental form,
+and its dynamism is at work in the field of eventuating or manifesting,
+i.e. evolving without motion from the subjective by degrees to a result
+which is the objective. In translating into English, the Hopi will say
+that these entities in process of causation ‘will come’ or that they—the
+Hopi—‘will come to’ them, but, in their own language, there are no verbs
+corresponding to our ‘come’ and ‘go’ that mean simple and abstract
+motion, our purely kinematic concept. The words in this case translated
+‘come’ refer to the process of eventuating without calling it
+motion—they are ‘eventuates to here’ (pew’i) or ‘eventuates from it’
+(angqö) or ‘arrived’ (pitu, pl. öki) which refers only to the terminal
+manifestation, the actual arrival at a given point, not to any motion
+preceding it.
+
+This realm of the subjective or of the process of manifestation, as
+distinguished from the objective, the result of this universal process,
+includes also—on its border but still pertaining to its own realm—an
+aspect of existence that we include in our present time. It is that
+which is beginning to emerge into manifestation; that is, something
+which is beginning to be done, like going to sleep or starting to write,
+but is not yet in full operation. This can be and usually is referred to
+by the same verb form (the EXPECTIVE form in my terminology of Hopi
+grammar) that refers to our future, or to wishing, wanting, intending,
+etc. Thus, this nearer edge of the subjective cuts across and includes a
+part of our present time, viz. the moment of inception, but most of our
+present belongs in the Hopi scheme to the objective realm and so is
+indistinguishable from our past. There is also a verb form, the
+INCEPTIVE which refers to this edge of emergent manifestation in the
+reverse way—as belonging to the objective, as the edge at which
+objectivity is attained; this is used to indicate beginning or starting,
+and in most cases there is no difference apparent in the translation
+from the similar use of the expective. But, at certain crucial points,
+significant and fundamental differences appear. The inceptive, referring
+to the objective and result side, and not like the expective to the
+subjective and causal side, implies the ending of the work of causation
+in the same breath that it states the beginning of manifestation. If the
+verb has a suffix which answers somewhat to our passive, but really
+means that causation impinges upon a subject to effect a certain
+result—i.e. ‘the food is being eaten,’ then addition of the INCEPTIVE
+suffix in such a way as to refer to the basic action produces a meaning
+of causal cessation. The basic action is in the inceptive state; hence
+whatever causation is behind it is ceasing; the causation explicitly
+referred to by the causal suffix is hence such as WE would call past
+time, and the verb includes this and the incepting and the decausating
+of the final state (a state of partial or total eatenness) in one
+statement. The translation is ‘it stops getting eaten.’ Without knowing
+the underlying Hopian metaphysics, it would be impossible to understand
+how the same suffix may denote starting or stopping.
+
+If we were to approximate our metaphysical terminology more closely to
+Hopian terms, we should probably speak of the subjective realm as the
+realm of HOPE or HOPING. Every language contains terms that have come to
+attain cosmic scope of reference, that crystallize in themselves the
+basic postulates of an unformulated philosophy, in which is couched the
+thought of a people, a culture, a civilization, even of an era. Such are
+our words ‘reality, substance, matter, cause,’ and as we have seen
+‘space, time, past, present, future.’ Such a term in Hopi is the word
+most often translated ‘hope’—tunátya—‘it is in the action of hoping, it
+hopes, it is hoped for, it thinks or is thought of with hope,’ etc. Most
+metaphysical words in Hopi are verbs, not nouns as in European
+languages. The verb tunátya contains in its idea of hope something of
+our words ‘thought,’ ‘desire,’ and ‘cause,’ which sometimes must be used
+to translate it. The word is really a term which crystallizes the Hopi
+philosophy of the universe in respect to its grand dualism of objective
+and subjective; it is the Hopi term for SUBJECTIVE. It refers to the
+state of the subjective, unmanifest, vital and causal aspect of the
+Cosmos, and the fermenting activity toward fruition and manifestation
+with which it seethes—an action of HOPING; i.e. mental-causal activity,
+which is forever pressing upon and into the manifested realm. As anyone
+acquainted with Hopi society knows, the Hopi see this burgeoning
+activity in the growing of plants, the forming of clouds and their
+condensation in rain, the careful planning out of the communal
+activities of agriculture and architecture, and in all human hoping,
+wishing, striving, and taking thought; and as most especially
+concentrated in prayer, the constant hopeful praying of the Hopi
+community, assisted by their exoteric communal ceremonies and their
+secret, esoteric rituals in the underground kivas—prayer which conducts
+the pressure of the collective Hopi thought and will out of the
+subjective into the objective. The inceptive form of tunátya, which is
+tunátyava, does not mean ‘begins to hope,’ but rather ‘comes true, being
+hoped for.’ Why it must logically have this meaning will be clear from
+what has already been said. The inceptive denotes the first appearance
+of the objective, but the basic meaning of tunátya is subjective
+activity or force; the inceptive is then the terminus of such activity.
+It might then be said that tunátya ‘coming true’ is the Hopi term for
+objective, as contrasted with subjective, the two terms being simply two
+different inflectional nuances of the same verbal root, as the two
+cosmic forms are the two aspects of one reality.
+
+As far as space is concerned, the subjective is a mental realm, a realm
+of no space in the objective sense, but it seems to be symbolically
+related to the vertical dimension and its poles the zenith and the
+underground, as well as to the ‘heart’ of things, which corresponds to
+our word ‘inner’ in the metaphorical sense. Corresponding to each point
+in the objective world is such a vertical and vitally INNER axis which
+is what we call the wellspring of the future. But to the Hopi there is
+no temporal future; there is nothing in the subjective state
+corresponding to the sequences and successions conjoined with distances
+and changing physical configurations that we find in the objective
+state. From each subjective axis, which may be thought of as more or
+less vertical and like the growth-axis of a plant, extends the objective
+realm in every physical direction, though these directions are typified
+more especially by the horizontal plane and its four cardinal points.
+The objective is the great cosmic form of extension; it takes in all the
+strictly extensional aspects of existence, and it includes all intervals
+and distances, all seriations and number. Its DISTANCE includes what we
+call time in the sense of the temporal relation between events which
+have already happened. The Hopi conceive time and motion in the
+objective realm in a purely operational sense—a matter of the complexity
+and magnitude of operations connecting events—so that the element of
+time is not separated from whatever element of space enters into the
+operations. Two events in the past occurred a long ‘time’ apart (the
+Hopi language has no word quite equivalent to our ‘time’) when many
+periodic physical motions have occurred between them in such a way as to
+traverse much distance or accumulate magnitude of physical display in
+other ways. The Hopi metaphysics does not raise the question whether the
+things in a distant village exist at the same present moment as those in
+one’s own village, for it is frankly pragmatic on this score and says
+that any ‘events’ in the distant village can be compared to any events
+in one’s own village only by an interval of magnitude that has both time
+and space forms in it. Events at a distance from the observer can only
+be known objectively when they are ‘past’ (i.e. posited in the
+objective) and the more distant, the more ‘past’ (the more worked upon
+from the subjective side). Hopi, with its preference for verbs, as
+contrasted to our own liking for nouns, perpetually turns our
+propositions about things into propositions about events. What happens
+at a distant village, if actual (objective) and not a conjecture
+(subjective) can be known ‘here’ only later. If it does not happen ‘at
+this place,’ it does not happen ‘at this time’; it happens at ‘that’
+place and at ‘that’ time. Both the ‘here’ happening and the ‘there’
+happening are in the objective, corresponding in general to our past,
+but the ‘there’ happening is the more objectively distant, meaning, from
+our standpoint, that it is further away in the past just as it is
+further away from us in space than the ‘here’ happening.
+
+As the objective realm displaying its characteristic attribute of
+extension stretches away from the observer toward that unfathomable
+remoteness which is both far away in space and long past in time, there
+comes a point where extension in detail ceases to be knowable and is
+lost in the vast distance, and where the subjective, creeping behind the
+scenes as it were, merges into the objective, so that at this
+inconceivable distance from the observer—from all observers—there is an
+all-encircling end and beginning of things where it might be said that
+existence, itself, swallows up the objective and the subjective. The
+borderland of this realm is as much subjective as objective. It is the
+abysm of antiquity, the time and place told about in the myths, which is
+known only subjectively or mentally—the Hopi realize and even express in
+their grammar that the things told in myths or stories do not have the
+same kind of reality or validity as things of the present day, the
+things of practical concern. As for the far distances of the sky and
+stars, what is known and said about them is supposititious,
+inferential—hence, in a way subjective—reached more through the inner
+vertical axis and the pole of the zenith than through the objective
+distances and the objective processes of vision and locomotion. So the
+dim past of myths is that corresponding distance on earth (rather than
+in the heavens) which is reached subjectively as myth through the
+vertical axis of reality via the pole of the nadir—hence it is placed
+BELOW the present surface of the earth, though this does not mean that
+the nadir-land of the origin myths is a hole or cavern as we should
+understand it. It is Palátkwapi ‘At the Red Mountains,’ a land like our
+present earth, but to which our earth bears the relation of a distant
+sky—and similarly the sky of our earth is penetrated by the heroes of
+tales, who find another earthlike realm above it.
+
+It may now be seen how the Hopi do not need to use terms that refer to
+space or time as such. Such terms in our language are recast into
+expressions of extension, operation, and cyclic process provided they
+refer to the solid objective realm. They are recast into expressions of
+subjectivity if they refer to the subjective realm—the future, the
+psychic-mental, the mythical period, and the invisibly distant and
+conjectural generally. Thus, the Hopi language gets along perfectly
+without tenses for its verbs.
+
+ 
+
+The manuscript of this article, together with pertinent linguistic
+notes, was among the papers left by Whorf at his death and turned over
+to George L. Trager. Dr. Trager and Dr. E. A. Kennard edited the
+manuscript for publication, making no substantial changes, and the paper
+is presented here in the form in which it appeared in the Int. J. Amer.
+Linguistics, 16:67–72 (1950). Internal evidence and certain comments
+found in Whorf’s correspondence suggest that the paper was written in
+about 1936.
+
+1. This idea is sometimes alluded to as the ‘spirit of the Breath’
+(hikwsu) and as the ‘Mighty Something’ [Whorf_p76n1] although these
+terms may have lower and less cosmic though always awesome connotations.
+
+6
+
+A Linguistic Consideration of Thinking in Primitive Communities
+
+I
+
+The ethnologist engaged in studying a living primitive culture must
+often have wondered: “What do these people think? How do they think? Are
+their intellectual and rational processes akin to ours or radically
+different?” But thereupon he has probably dismissed the idea as a
+psychological enigma and has sharply turned his attention back to more
+readily observable matters. And yet the problem of thought and thinking
+in the native community is not purely and simply a psychological
+problem. It is quite largely cultural. It is moreover largely a matter
+of one especially cohesive aggregate of cultural phenomena that we call
+a language. It is approachable through linguistics, and, as I hope to
+show, the approach requires a rather new type of emphasis in
+linguistics, now beginning to emerge through the work of Sapir, Leonard
+Bloomfield, and others, though Boas enunciated it decades ago in his
+introduction to the Handbook of American Indian languages.
+
+One of the clearest characterizations of thinking is that of Carl Jung,
+who distinguishes four basic psychic functions: sensation, feeling
+(Gefühl), thinking, and intuition.¹ It is evident to a linguist that
+thinking, as defined by Jung, contains a large linguistic element of a
+strictly patterned nature, while feeling is mainly nonlinguistic, though
+it may use the vehicle of language, albeit in a way quite different from
+thinking. Thinking may be said to be language’s own ground, whereas
+feeling deals in feeling values which language indeed possesses but
+which lie rather on its borderland. These are Jung’s two rational
+functions, and by contrast his two irrational functions, sensation and
+intuition, may fairly be termed nonlinguistic. They are, it is true,
+involved in the processes of talking, hearing, and understanding, but
+only in an infinitesimal part of their entire range. We are thus able to
+distinguish thinking as the function which is to a large extent
+linguistic.²
+
+The linguistic side of SILENT thinking, thinking without speaking, is of
+a nature as yet little appreciated. Silent thinking is basically not
+suppressed talking or inaudibly mumbled words or silent laryngeal
+agitations as some have supposed.³ Such an explanation merely appears
+plausible to the linguistically unsophisticated “common sense” view.
+“Common sense” is unaware that talking itself means using a complex
+cultural organization, just as it is unaware of cultural organizations
+in general. Sense or meaning does not result from words or morphemes but
+from patterned relations between words or morphemes. Isolations of a
+morpheme, like “John!” or “Come!” are themselves patterns or formulas of
+a highly specialized type, not bare units.⁴ Words and morphemes are
+motor reactions, but the factors of linkage between words and morphemes,
+which make the categories and patterns in which linguistic meaning
+dwells, are not motor reactions; they correspond to neural processes and
+linkages of a nonmotor type, silent, invisible, and individually
+unobservable.⁵ It is not words mumbled, but rapport between words, which
+enables them to work together at all to any semantic result. It is this
+rapport that constitutes the real essence of thought insofar as it is
+linguistic, and that in the last resort renders the mumbling, laryngeal
+quiverings, etc., semantically de trop. The nonmotor processes that are
+the essential thing are, of their nature, in a state of linkage
+according to the structure of a particular language, and activations of
+these processes and linkages in any way, with, without, or aside from
+laryngeal behavior, in the forefront of consciousness, or in what has
+been called “the deep well of unconscious cerebration,” are all
+linguistic patterning operations, and all entitled to be called
+thinking.
+
+Moreover, an analysis of silent thinking into motor quiverings
+corresponding to suppressed words and morphemes would no more be a real
+analysis of thinking than the analysis of a language into actual words
+and morphemes would be a real analysis of the language. The crudest and
+most amateurish grammar analyzes more effectively than that, and any
+scientific grammar is necessarily a deep analysis into relations.
+
+For example, gender in English is a system of relations that has an
+almost minimal outward representation in morphemes. Its only motor
+reactions are the two pronouns ‘he’ and ‘she.’⁶ The motor processes
+which actualize the gender-linked nouns are undifferentiated in gender,
+but the linkage between such a motor process and another motor process
+actualizing the proper pronoun, ‘he’ or ‘she,’ is (1) differentiated in
+gender, (2) a nonmotor process, since the two motor processes are
+discrete and may even be separated by a prolonged period of rest. The
+gender nouns, such as boy, girl, father, wife, uncle, woman, lady,
+including thousands of given names like George, Fred, Mary, Charlie,
+Isabel, Isadore, Jane, John, Alice, Aloysius, Esther, Lester bear no
+distinguishing mark of gender like the Latin -us or -a within each motor
+process; but nevertheless each of these thousands of words has an
+invariable linkage-bond connecting it with absolute precision either to
+the word ‘he’ or the word ‘she,’ which however does not come into the
+overt-behavior picture until and unless special situations of discourse
+require it.⁷ These thousands of linkage processes rallying around the
+common point of the pronoun and ramifying to all the thousands of nouns
+of one gender form a sort of psychic complex belonging to (1) the
+nonmotor and nonactualized realm, (2) the thinking function in Jung’s
+definition, (3) the linguistic and cultural order.
+
+There is no evident reason why such a complex should not enter into
+various functional relations with other material of thought without
+necessarily requiring the activation of any of the individual words or
+class marks with which it is connected. We can be thinking of, say, the
+division of labor between the sexes in a certain culture without having
+to think of the rather bookish words ‘female’ and ‘male’ and to refer
+continually to them in our meditations upon such a subject. What we more
+probably do as we run over such a question in our minds is sift the
+facts in terms of a sort of habitual consciousness of two sex classes as
+a standing classificatory fact in our thought-world, something which is
+quite different from sex as a concept or sex as a feeling-value. The
+basis of this shadowy, abstract, and wordless adumbration of a sex
+classification is not a word like ‘sex’ or ‘female’ or ‘women’; it is a
+linguistic RAPPORT as distinguished from a linguistic UTTERANCE. In
+English it is probably a rising toward fuller consciousness of the two
+great complexes of linkage bonds pertaining to the linguistic sex-gender
+system. It is, one might say, the total pronominal-linkage pressure of
+the George, Dick, and William class of words, or of the Jane, Sue, and
+Betty class, that functions in the meditation and not a VERBAL concept
+like ‘male’ or ‘female.’ But in a language without sex gender, like
+Chinese or Hopi, any thinking in terms of a sex classification could not
+be of this nature; it would presumably operate around a word, or a
+feeling, or a sexual image, or a symbol, or something else.
+
+A linguistic classification like English gender, which has no overt mark
+actualized along with the words of the class but which operates through
+an invisible “central exchange” of linkage bonds in such a way as to
+determine certain other words which mark the class, I call a COVERT
+class, in contrast to an OVERT class, such as gender in Latin. Navaho
+has a covert classification of the whole world of objects based partly
+on animation and partly on shape. Inanimate bodies fall into two classes
+which linguists have styled “round objects” and “long objects.”⁸ These
+names, of course, misrepresent; they attempt to depict the subtle in
+terms of the gross, and fail. Navaho itself has no terms which
+adequately depict the classes. A covert concept like a covert gender is
+as definable and in its way as definite as a verbal concept like
+‘female’ or feminine, but is of a very different kind; it is not the
+analog of a word but of a rapport-system, and awareness of it has an
+intuitive quality; we say that it is sensed rather than comprehended. It
+is possibly the kind of concept or idea which in Hindu philosophy is
+called ar[LATIN SMALL LETTER U WITH MACRON]pa, formless. The Navaho
+so-called “round” and “long” nouns are not marked in themselves nor by
+any pronouns. They are marked only in the use of certain very important
+verb stems, in that a different stem is required for a “round” or a
+“long” subject or object. Many other verb stems are indifferent to the
+distinction. A new object, for which the Navaho has no name, will be put
+into one or the other class by analogy, not analogy as it would seem to
+us, but as guided by the contents of the two Navaho complexes.
+
+A covert linguistic class may not deal with any grand dichotomy of
+objects, it may have a very subtle meaning, and it may have no overt
+mark other than certain distinctive “reactances” with certain overtly
+marked forms. It is then what I call a CRYPTOTYPE. It is a submerged,
+subtle, and elusive meaning, corresponding to no actual word, yet shown
+by linguistic analysis to be functionally important in the grammar. For
+example, the English particle UP meaning ‘completely, to a finish,’ as
+in ‘break it up, cover it up, eat it up, twist it up, open it up’ can be
+applied to any verb of one or two syllables initially accented,
+EXCEPTING verbs belonging to four special cryptotypes. One is the
+cryptotype of dispersion without boundary; hence one does not say
+‘spread it up, waste it up, spend it up, scatter it up, drain it up, or
+filter it up.’⁹ Another is the cryptotype of oscillation without
+agitation of parts; we don’t say ‘rock up a cradle, wave up a flag,
+wiggle up a finger, nod up one’s head,’ etc.¹⁰ The third is the
+cryptotype of nondurative impact which also includes psychological
+reaction: kill, fight, etc., hence we don’t say ‘whack it up, tap it up,
+stab it up, slam it up, wrestle him up, hate him up.’¹¹ The fourth is
+the verbs of directed motion, move, lift, pull, push, put, etc., with
+which UP has the directional sense, ‘upward,’ or derived senses, even
+though this sense may be contradicted by the verb and hence produce an
+effect of absurdity, as in ‘drip it up.’ Outside this set of
+cryptotypes, UP may be freely used with transitives in the
+completive-intensive sense.
+
+Another English cryptotype is that of the transitive verbs of a
+covering, enclosing, and surface-attaching meaning, the reactance of
+which is that UN- may be prefixed to denote the opposite. Hence we say
+‘uncover, uncoil, undress, unfasten, unfold, unlock, unroll, untangle,
+untie, unwind,’ but not ‘unbreak, undry, unhang, unheat, unlift, unmelt,
+unopen, unpress, unspill.’ With the exception of a few words mostly
+semiarchaic, e.g., ‘unsay, unthink, unmake,’ the use of UN- as a
+reversive prefix in true verbs coincides with the centripetal enclosing
+and attaching meaning.¹² We have no single word in the language which
+can give us a proper clue to this meaning or into which we can compress
+this meaning; hence the meaning is subtle, intangible, as is typical of
+cryptotypic meanings. Nevertheless this formless idea delimits a quite
+definite class of words and grammatical forms, and may be dredged up
+from its own plane of thought formations and grasped in a semi-intuitive
+way. To do this, one needs only meditate on the meaning of the
+cryptotype, e.g. of the typical verbs which take un-, or to use methods
+of free-analogizing akin to the “free-association” methods of Freud and
+Jung. Thus I can imagine a newly coined verb flimmick. If flimmick
+means, let us say, ‘tie a tin can to,’ then it falls into the cryptotype
+and I can say, e.g., ‘he unflimmicked the dog.’ But, if it means ‘to
+take apart,’ there will be no tendency for anyone to make a form
+unflimmick meaning ‘put together’; e.g., ‘he unflimmicked the set of
+radio parts.’ Such a form will appear strange and unacceptable.
+Similarly a knowledge of this cryptotype previous to the adoption of the
+new words ‘camouflage’ and ‘wangle’ would have enabled us to predict
+that it would be possible to say ‘uncamouflage it,’ but not ‘unwangle
+it.’
+
+In contrast to the cryptotype I give the name PHENOTYPE to the
+linguistic category with a clearly apparent class meaning and a formal
+mark or morpheme which accompanies it; i.e., the phenotype is the
+“classical” morphological category. The meanings of ‘up’ and ‘un-’ are
+phenotypes, and so are the various tenses, aspects, voices, modes, and
+other marked forms which all grammars study. Grammatical research up to
+the present time has been concerned chiefly with study of phenotypes. A
+certain type of grammar proceeds as if linguistic meaning dwelt wholly
+in them. The anthropologist should not be satisfied with such a grammar,
+any more than with an ethnology that described only positive behavior
+and ignored the patterning of taboos and avoidances. It can be shown
+that, in some languages at least, linguistic meaning results from the
+interplay of phenotypes and cryptotypes, not from phenotypes alone.
+
+Thus in Hopi the use of the aspect and tense forms is often governed by
+cryptotypes. They govern, for instance, the way of expressing the
+beginning of an action or state, the English ‘begins to do,’ or ‘begins
+to be’ form. First, a different form (phenotype) is used, depending on
+whether the verb is active or inactive (either passive or static), and
+this is a cryptotypic distinction, for the formal apparatus of Hopi
+grammar does not set up any active-versus-inactive contrast. Hopi,
+moreover, classes being ‘in, at, over,’ or in some other spatial
+relationship as ACTIVE, but being ‘red, long, little, pretty, turned
+around, shot,’ as INACTIVE. Causal and incausal are really better terms
+here than active and passive. Next, if the verb is active, the phenotype
+for beginning depends on which of three active cryptotypes is involved.
+With most verbs one can use either the inceptive aspect or the future
+tense. Analysis seems to indicate that Hopi regards the subject of these
+verbs as working into and through the action by a process of dynamic
+adjustment. The subject progressively adjusts himself into the action,
+and throughout the action is maintaining this adjustment either to
+develop or to stabilize and continue the effect. Hopi includes here¹³
+sleeping, dying, laughing, eating, as well as most organic functions and
+most alterative operations, e.g., cutting, bending, covering, placing,
+and thousands of others. The second cryptotype uses only future tense to
+express beginning, and includes verbs of straight-line uniform motion,
+running, fleeing, going, coming, being in or at a place or in any
+spatial relationship, opening, closing, and certain others. Analysis
+indicates that here the subject is classed as instantly assuming a
+full-fledged new status, not as dynamically working into and through a
+process. The third cryptotype expresses beginning by means of the
+projective aspect, a phenotype which used elsewhere means ‘does with a
+forward movement.’ This cryptotype implies that the subject is seized
+and assimilated by a field of influence, carried away by it, as it were;
+and it consists of gravitational and moving-inertia phenomena; ‘falling,
+tumbling, spilling, jumping, whirling,’ and also, strange though it
+seems to us, ‘going out’ and ‘going in.’ According to the logic of Hopi
+linguistics, a person about to enter a house or go outdoors launches off
+and yields himself to a new influence like one who falls or leaps.
+
+What needs to be clearly seen by anthropologists, who to a large extent
+may have gotten the idea that linguistics is merely a highly specialized
+and tediously technical pigeonhole in a far corner of the
+anthropological workshop, is that linguistics is essentially the quest
+of MEANING. It may seem to the outsider to be inordinately absorbed in
+recording hair-splitting distinctions of sound, performing phonetic
+gymnastics, and writing complex grammars which only grammarians read.
+But the simple fact is that its real concern is to light up the thick
+darkness of the language, and thereby of much of the thought, the
+culture, and the outlook upon life of a given community, with the light
+of this “golden something,” as I have heard it called, this transmuting
+principle of meaning. As I have tried to show, this amounts to far more
+than learning to speak and understand the language as the practical
+language teacher conceives these ends. The investigator of culture
+should hold an ideal of linguistics as that of a heuristic approach to
+problems of psychology which hitherto he may have shrunk from
+considering—a glass through which, when correctly focused, will appear
+the TRUE SHAPES of many of those forces which hitherto have been to him
+but the inscrutable blank of invisible and bodiless thought.
+
+II
+
+Awareness of psychological undercurrents is the last thing to arrive in
+the conquest of linguistic understanding, both in the individual and in
+history. The attempt to teach one’s language to a foreigner results in
+some awareness of OVERT formal patterns: paradigms and inflected stems.
+The earliest grammars known are cuneiform wordlists of this kind, giving
+equivalents as between Sumerian and the Semitic Akkadian. A further step
+did not occur until philosophy, in both Greece and India, discovered a
+relation between reasoning and linguistic patterns; this resulted for
+philosophy in a formal logic, and for grammar in the discovery of at
+least the more outstanding categories in the classical Indo-European
+tongues. In the Semitic world, grammar remained largely formal, the
+classical Hebrew and Arabic grammars consisting mostly of paradigms,
+known by code names which made no attempt even to characterize, much
+less penetrate, the meanings of these linguistic classes. Even Latin
+grammar, with its terms like indicative, subjunctive, passive, etc., was
+psychological by comparison. The discovery of ancient Hindu grammar by
+Western scholars in the early nineteenth century impressed these
+scholars chiefly by its formal perfection. But it also revealed certain
+psychological subtleties, such as the recognition of different covert
+ideas within word-compounding technique, and the classification of
+compounds as tatpurusha, dvandva, bahuvrihi, and so on.¹⁴
+
+Even the greatest European grammarians of the nineteenth century did not
+go much beyond formal and overt structures except for riding the
+classical grammatical and philosophical concepts to the limits of travel
+in the languages they studied. To this statement there is one grand
+exception—one of those amazing geniuses who baffle their contemporaries
+and leave no successors. The real originator of such ideas as
+rapport-systems, covert classes, cryptotypes, psycholinguistic
+patterning, and language as part and parcel of a culture was, so far as
+I can learn, a French grammarian of the early nineteenth century,
+Antoine Fabre d’Olivet (1768–1825),¹⁵ who investigated Semitic languages
+and particularly Hebrew, though his work, like that of Mendel in
+genetics, made no impress whatsoever on the thought of his time.
+Unfortunately for its comprehension either then or now, its author was a
+mystical and religious metaphysician who mingled this side of his nature
+with the workings of one of the most powerful linguistic intellects of
+any age. The result was to produce a mystical and gnostic “translation”
+of Genesis, or rather, an Upanishadic paraphrase that was like some
+shocking vision of cosmic space alive with terrific hieroglyphs—that got
+itself promptly placed on the Index. Nor did this repudiation by
+orthodoxy win any encomiums from what was then the radical left, for his
+Biblical views were at the same time too iconoclastic and too
+transcendental to satisfy any possible school of exegesis. But the
+strictly linguistic part of Fabre d’Olivet’s work, embodied in La langue
+hébraïque restituée, which appeared in 1815–16,¹⁶ when separated from
+his extraordinary Upanishad upon Genesis, can be seen today to be based
+on purely linguistic criteria and to show great psychological
+penetration, and ideas far in advance of his time. It must be added
+that, although mystical almost to the point of a Jacob Boehme or a
+William Blake, Fabre d’Olivet steered absolutely clear of the cabalistic
+and numerological hocus-pocus with which the old Jewish tradition of
+Hebrew was laden. And, while he threw overboard the whole formalistic
+Hiphil-Hophal conception of grammar, he also declined to foist Latin and
+Greek patterns upon Hebrew. His Hebrew stands on its own feet as
+completely as does Boas’s Chinook. He reorganized the treatment of verb
+conjugations on a psycholinguistic basis, considered individual prefixes
+and suffixes from the standpoint of their meaning and function, went
+into the semantics of vowel patterns and the semantic coloring of
+vowels, and showed how many Hebrew stems can be resolved into meaningful
+fractions, as, e.g., such English words as ‘flash, flicker, clash,
+click, clack, crack, crash, lick, lash’ can be so resolved. Refusing to
+identify the letters of Hebrew writing with the actual phonetic elements
+and yet perceiving that these elements are not mere sounds, but
+stereotyped, codified, and patterned semantic sounds, he advanced to a
+conception of the phoneme, which he called the “sign” or the “vocal
+sign”—struggling with terminology but showing real insight into
+linguistic actualities. He stressed the fact of a complex rapport
+between signs and between words. A phoneme may assume definite semantic
+duties as part of its rapport. In English the phoneme [Latin small
+letter eth] (the voiced sound of th) occurs initially only in the
+cryptotype of demonstrative particles (the, this, there, than, etc.).
+Hence there is a psychic pressure against accepting the voiced sound of
+th in new or imaginary words: thig, thag, thob, thuzzle, etc. not having
+demonstrative meanings. Encountering such a new word (e.g. thob) on a
+page, we will “instinctively” give it the voiceless sound θ of th in
+“think.” But it is no “instinct.” Just our old friend linguistic rapport
+again. Assign a demonstrative meaning, let thag equal ‘over the fence,’
+for instance, and we will substitute the voiced phoneme [Latin small
+letter eth] of “there.” Fabre d’Olivet knew all about such things.
+
+Moreover, Fabre d’Olivet thought in an anthropological and not simply a
+grammatical way; to him, speech was not a “faculty” exalted on its own
+perch, but something to be understood in the light of human behavior and
+culture, of which it was a part, specialized but involving no different
+principle from the rest. The vocal sign (phoneme) was a highly
+specialized gesture or symbolic act, language a development of total
+somatic behavior becoming symbolic and then diverting its symbolism more
+and more into the vocal channel—such is his teaching put into the modern
+idiom.
+
+No figure so significant for the linguistic approach to thinking again
+appears until we come to the Irish linguist James Byrne (1820–97). His
+studies were based on the exceedingly valuable idea of a worldwide
+survey of grammatical structures in all languages known. His great
+work—it at least deserves to be called great in conception, even though
+perhaps not in execution—in two volumes, called General principles of
+structure of language, appeared in 1885.¹⁷ It had the remarkable feature
+of presenting condensed grammatical sketches of languages all over the
+globe, from Chinese to Hottentot. Almost every linguistic stock outside
+of America is represented, and a good number of American ones. On this
+survey Byrne based his psychological theory. And it seems to me at least
+rather significant that Byrne found, on the basis of language structure,
+a similar contrast of two fundamental psychological types to that which
+Jung much later found from psychiatry and called the types of
+extraversion and introversion. Jung also showed how, all down through
+history, the irreconcilable opposition of two such types has resulted in
+fundamental controversies and schisms in successive philosophies and
+religions. Byrne independently found, or thought he found, a correlation
+between language structure and two types of mentality, one
+quick-reacting, quick-thinking, and volatile, the other slow-reacting,
+slow-thinking, but more profound and phlegmatic. His slow-thinking
+mentality, suggestive of Jung’s introvert, he thought went, on the
+whole, with languages of a synthetic type having a complex overt
+morphology and much derivation and word-building, the extreme of the
+type being polysynthesis. His quick-thinking (extraverted) type went, on
+the whole, with a simpler morphology, lack of synthesis, an analytic or
+in the extreme an isolating type of language.
+
+But, while I am sympathetic to the possibility of such a finding, which
+would indeed be a mighty achievement, and also impressed by Byrne’s
+anticipation of Jung, I find Byrne’s general thesis unconvincing,
+chiefly because I can see how Byrne was working with utterly inadequate
+materials. It is of the greatest importance to man’s knowledge of his
+own intellectual makeup, especially in future times, that the really
+colossal task that Byrne so rashly attempted be done as well as
+possible. This would require not only a survey of many more languages,
+particularly American ones, than Byrne used, but a grammar of each
+language worked out scientifically and on the basis of the language’s
+own patterns and classes, and as free as possible from any general
+presuppositions about grammatical logic. Byrne got his materials from
+old-fashioned grammars, formal and even “classical” in cut. These
+grammars might at any juncture quarter a regiment of alien patterns and
+ideas on the unfortunate tongue. Not one of these grammarians, nor Byrne
+himself, could have made a sui generis configurative report on a
+language as Fabre d’Olivet had done; that ability had died. But until it
+again lives as a well-developed scientific technique and is applied to
+another world survey and comparison, man will remain ignorant of the
+roots of his intellectual life. He will be debarred from any
+consideration of human thought on a planetary scale, of what it is in
+respect to the species.
+
+That ability began to live again with and after the attack made by Boas
+on the American Indian languages, and especially his statement of
+principles, and ideals of method, in his justly celebrated introduction
+to the Handbook.¹⁸ And, with Boas, it reappeared in a modern scientific
+form, and in terms of the acceptable science CULTUS, not as before in
+terms of an exuberant mystically disposed creative imagination. Boas
+showed for the second time in history, but for the first in a scientific
+manner, how a language could be analyzed sui generis and without forcing
+the categories of “classical” tradition upon it. The development of an
+adequate technique for this new outlook had to come haltingly. When
+under Boas the American languages first began to reveal the unparalleled
+complexity and subtlety of their thought categories, the phonemic
+calculus was still unborn. The American field linguist could not, like
+Fabre, intuit the phoneme and morphophoneme in a brilliant tour de force
+of imaginative insight. He had to wait for these concepts to be
+developed by specialized phoneticians, working at first in the
+modern-language field, and at first he lacked in psychological
+penetration.
+
+The new era passes into a second phase, into the truly modern linguistic
+point of view, with the appearance on the scene of Sapir, and
+particularly with the publication of his Language in 1921.¹⁹ Sapir has
+done more than any other person to inaugurate the linguistic approach to
+thinking and make it of scientific consequence, and moreover to
+demonstrate the importance of linguistics to anthropology and
+psychology. From this point on it would be a task to mention individual
+contributors to this dawning realization and growing idea that
+linguistics is fundamental to the theory of thinking and in the last
+analysis to ALL HUMAN SCIENCES. The interested reader is referred to the
+partial and very incomplete bibliography appended.
+
+III
+
+This linguistic consideration of thinking as applied to primitive
+communities is of significance for anthropology in two ways. First, the
+ethnological and the psychological-linguistic insights into the same
+primitive community, especially if made by the same investigator, can be
+reasonably expected to have a very fertilizing effect upon each other.
+We have the testimony and the enlightening teaching of Sapir and others
+that this is so. The very essence of linguistics is the quest for
+meaning, and, as the science refines its procedure, it inevitably
+becomes, as a matter of this quest, more psychological and cultural,
+while retaining that almost mathematical precision of statement which it
+gets from the highly systematic nature of the linguistic realm of fact.
+
+Let us suppose that an ethnologist discovers that the Hopi speak about
+clouds in their rain prayers, etc., as though clouds were alive. He
+would like to know whether this is some metaphor or special religious or
+ceremonial figure of speech, or whether it is the ordinary and usual way
+of thinking about clouds. Here is the sort of problem to which language
+might be able to give a very meaningful answer, and we immediately turn
+to it to see if it has a gender system that distinguishes living from
+nonliving things, and, if so, how it classes a cloud. We find that Hopi
+has no gender at all. The traditional grammar of the pre-Boas period
+would stop at this point and think it had given an answer. But the
+correct answer can only be given by a grammar that analyzes covert as
+well as overt structure and meaning. For Hopi does distinguish an
+animate class of nouns AS A CRYPTOTYPE and only as a cryptotype. The
+crucial reactance is in the way of forming the plural. When members of
+the Flute Society, e.g., are spoken of as Flutes, this (covertly)
+inanimate noun is pluralized in the animate way. But the word
+[Whorf_p102] ‘cloud,’ is always pluralized in the animate way; it has no
+other plural; it definitely belongs to the cryptotype of animateness.
+And so the question whether the animation of clouds is a figure or
+formality of speech or whether it stems from some more deep and subtly
+pervasive undercurrent of thought is answered, or at the least given a
+flood of new meaning.
+
+Language thus should be able to analyze some, if probably not all, of
+the differences, real or assumed, between the mentality of so-called
+primitive peoples and modern civilized man. Whether the primitives
+constitute a unit class of mentality over against modern man, apart from
+the differences between their cultures and his, as is implied in
+Lévy-Bruhl’s concept of PARTICIPATION MYSTIQUE²⁰ and in the equation of
+“primitive” to “infantile” used by Freud and Jung; or whether (again
+apart from general culture) the CIVILIZED MODERN is the unit class of
+mentality because of the great structural similarity of all the modern
+civilized Western languages, while over against it are many diverse
+types of mentality reflecting a rich diversity of speech structure: This
+is only one of the great psychological world-questions that fall into
+the domain of linguistics and await the impersonal and positive type of
+answer that linguistic research can give. We are accustomed to think of
+such a mentality as is implied by PARTICIPATION MYSTIQUE as less of a
+thinking mentality, as less rational, than ours. Yet many American
+Indian and African languages abound in finely wrought, beautifully
+logical discriminations about causation, action, result, dynamic or
+energic quality, directness of experience, etc., all matters of the
+function of thinking, indeed the quintessence of the rational. In this
+respect they far outdistance the European languages.²¹ The most
+impressively penetrating distinctions of this kind often are those
+revealed by analyzing to the covert and even cryptotypic levels. Indeed,
+covert categories are quite apt to be more rational than overt ones.
+English unmarked gender is more rational, closer to natural fact, than
+the marked genders of Latin or German. As outward marks become few, the
+class tends to crystallize around an idea—to become more dependent on
+whatever synthetizing principle there may be in the meanings of its
+members. It may even be true that many abstract ideas arise in this way;
+some rather formal and not very meaningful linguistic group, marked by
+some overt feature, may happen to coincide very roughly with some
+concatenation of phenomena in such a way as to suggest a rationalization
+of this parallelism. In the course of phonetic change, the
+distinguishing mark, ending, or what not is lost, and the class passes
+from a formal to a semantic one. Its reactance is now what distinguishes
+it as a class, and its idea is what unifies it. As time and use go on,
+it becomes increasingly organized around a rationale, it attracts
+semantically suitable words and loses former members that now are
+semantically inappropriate. Logic is now what holds it together, and its
+logic becomes a semantic associate of that unity of which the
+CONFIGURATIVE aspect is a bundle of nonmotor linkages mooring the whole
+fleet of words to their common reactance. Semantically it has become a
+deep persuasion of a principle behind phenomena, like the ideas of
+inanimation, of “substance,” of abstract sex, of abstract personality,
+of force, of causation—not the overt concept (lexation) corresponding to
+the WORD causation but the covert idea, the “sensing,” or, as it is
+often called (but wrongly, according to Jung), the “feeling” that there
+must be a principle of causation. Later this covert idea may be more or
+less duplicated in a word and a lexical concept invented by a
+philosopher: e.g., CAUSATION. From this point of view many preliterate
+(“primitive”) communities, far from being subrational, may show the
+human mind functioning on a higher and more complex plane of rationality
+than among civilized men. We do not know that civilization is synonymous
+with rationality. These primitive tribes may simply have lacked
+philosophers, the existence of whom may depend on an economic prosperity
+that few cultures in the course of history have reached. Or perhaps too
+much rationality may defeat itself, or arouse some strong compensatory
+principle. These are all questions, essentially anthropological, to
+which a liaison between ethnology and psychological linguistics would
+seem to offer the soundest approach.
+
+The second way in which linguistic consideration of thinking is
+significant for anthropology has more reference to the future, and
+perhaps most of all to the far distant future of the human species when
+it will have developed into something other, and let us hope far higher,
+than present-day man. Turning first to the nearer future, it is
+desirable that anthropology collaborate in preparation for the time,
+which cannot be too far postponed, when it will be both possible and
+urgently necessary to make the cultural and psychological world-survey
+of languages that is envisioned in the work of James Byrne—this time in
+a way which will enrich our science with the prodigal wealth of new
+truth that lies in that field waiting to be discovered.
+
+As time goes on, the type of knowledge that such a survey would unlock
+becomes more and more a matter of concern and interest outside the world
+of scholarly pursuits—for it may play a very important part in world
+history that is now in the making. The problems of achieving mutual
+understanding, of language barriers, of propaganda and advertising, of
+education, of the technique of managing human affairs without undue
+friction, of an intelligence in human relations that can keep pace with
+the changes brought about by the physical sciences, all run afoul of
+this matter of language and thought. Everyone is naturally interested in
+questions of language, although they either do not know it, or know it
+and think they know all about it. There is for example a movement for
+the extended use of Ogden’s ingenious artificial language called Basic
+English, which has met with much sympathy among businessmen, educators,
+people interested in international affairs, and social prophets like H.
+G. Wells. There is no use sitting aloof and loftily condemning such
+linguistic movements as unscientific. Unscientific or not, they are
+linguistic phenomena of today, and why should linguistic science, which
+alone can handle the vital underlying principles of such movements,
+stand by in sequestered unconcern and let them blunder along, exercising
+their crude but vast power to change the thinking of tomorrow? Basic
+English appeals to people because it seems simple. But those to whom it
+seems simple either know or think they know English—there’s the rub!
+Every language of course seems simple to its own speakers because they
+are unconscious of structure. But English is anything but simple—it is a
+bafflingly complex organization, abounding in covert classes,
+cryptotypes, taxemes of selection, taxemes of order,²² significant
+stress patterns and intonation patterns of considerable intricacy.
+English is indeed almost in a class by itself as regards prosodic
+complexity, being one of the most complex languages on earth in this
+respect; on the whole, it is as complicated as most polysynthetic
+languages of America, which fact most of us are blissfully unaware of.
+The complex structure of English is largely covert, which makes it all
+the harder to analyze. Foreigners learning English have to absorb it
+unconsciously—a process requiring years—by dint of constant exposure to
+bombardment by spoken English in large chunks; there exists at this
+moment no grammar that can teach it. As with Basic English, so with
+other artificial languages—underlying structures and categories of a few
+culturally predominant European tongues are taken for granted; their
+complex web of presuppositions is made the basis of a false simplicity.
+We say ‘a large black and white hunting dog’ and assume that in Basic
+English one will do the same. How is the speaker of a radically
+different mother tongue supposed to know that he cannot say ‘hunting
+white black large a dog’? The English adjectives belong to cryptotypes
+having definite position assignments, and their formula is a definite
+and complex one, but lo, the poor Indian organizes his thinking quite
+differently. The person who would use Basic English must first know or
+learn the immensely intricate covert structure of actual “English as she
+is spoke.”
+
+We see here the error made by most people who attempt to deal with such
+social questions of language—they naïvely suppose that speech is nothing
+but a piling up of LEXATIONS, and that this is all one needs in order to
+do any and every kind of rational thinking; the far more important
+thought materials provided by structure and configurative rapport are
+beyond their horizons. It may turn out that the simpler a language
+becomes overtly, the more it becomes dependent upon cryptotypes and
+other covert formations, the more it conceals unconscious
+presuppositions, and the more its lexations become variable and
+indefinable. Wouldn’t this be a pretty kettle of fish for the would-be
+advocates of a “simple” international tongue to have had a hand in
+stewing up! For sound thinking in such fields we greatly need a
+competent world-survey of languages.
+
+IV
+
+And now, turning to the more distant future, one may perhaps be
+permitted to essay a broader view, to look at the subject of linguistics
+and its bearing upon thinking from the standpoint of the whole human
+species. In order to do this we must not be afraid to begin with a
+platitude. Man is distinguished from other animals by language, and by
+his great development of thinking. So far as we can envision his future,
+we must envision it in terms of mental growth. We cannot but suppose
+that the future developments of thinking are of primary importance to
+the human species. They may even determine the duration of human
+existence on the planet earth or in the universe. The possibilities open
+to thinking are the possibilities of recognizing relationships and the
+discovery of techniques of operating with relationships on the mental or
+intellectual plane, such as will in turn lead to ever wider and more
+penetratingly significant systems of relationships. These possibilities
+are inescapably bound up with systems of linguistic expression. The
+story of their evolution in man is the story of man’s linguistic
+development—of the long evolution of thousands of very different systems
+of discerning, selecting, organizing, and operating with relationships.
+Of the early stages of this evolutionary process, the REALLY PRIMITIVE
+ROOTS of language, we know nothing. What we are at least in a position
+to find out is the results of this evolution as they exist broadcast
+about the planet in our present day. Only the beginnings of such a
+knowledge of worldwide linguistic taxonomy are in evidence. In our
+armchair generalizations about grammar, and the related fields of logic
+and thought-psychology, we are in the same position as pre-Linnaean
+botany. We have not yet got anything like a description of existing
+linguistic species, to use a biological metaphor.
+
+Fortunately for biology, a worldwide systematic taxonomy preceded and
+laid a foundation for the historical and evolutionary approach. In
+linguistics as in other cultural studies, we have had unfortunately the
+reverse situation. The evolutionary concept, having been dumped upon
+modern man while his notions of language and thought were based on
+knowledge of only a few types out of the hundreds of very diverse
+linguistic types existing, has abetted his provincial linguistic
+prejudices and fostered the grandiose hokum that his type of thinking
+and the few European tongues on which it is based represent the
+culmination and flower of the evolution of language! This is as if a
+pre-Linnaean botanist who had conceived the idea of evolution should
+suppose that our cultivated wheat and oats represent a higher
+evolutionary stage than a rare aster restricted to a few sites in the
+Himalayas. From the standpoint of a matured biology, it is precisely the
+rare aster which has the better claim to high evolutionary eminence; the
+wheat owes its ubiquity and prestige merely to human economics and
+history.
+
+The eminence of our European tongues and thinking habits proceeds from
+nothing more. The relatively few languages of the cultures which have
+attained to modern civilization promise to overspread the globe and
+cause the extinction of the hundreds of diverse exotic linguistic
+species, but it is idle to pretend that they represent any superiority
+of type. On the contrary, it takes but little real scientific study of
+preliterate languages, especially those of America, to show how much
+more precise and finely elaborated is the system of relationships in
+many such tongues than is ours.²³ By comparison with many American
+languages, the formal systematization of ideas in English, German,
+French, or Italian seems poor and jejune. Why, for instance, do we not,
+like the Hopi, use a different way of expressing the relation of channel
+of sensation (seeing) to result in consciousness, as between ‘I see that
+it is red’ and ‘I see that it is new’? We fuse the two quite different
+types of relationship into a vague sort of connection expressed by
+‘that,’ whereas the Hopi indicates that in the first case seeing
+presents a sensation ‘red,’ and in the second that seeing presents
+unspecified evidence from which is drawn the inference of newness. If we
+change the form to ‘I hear that it is red’ or ‘I hear that it is new,’
+we European speakers still cling to our lame ‘that,’ but the Hopi now
+uses still another relater and makes no distinction between ‘red and
+‘new,’ since, in either case, the significant presentation to
+consciousness is that of a verbal report, and neither a sensation per se
+nor inferential evidence. Does the Hopi language show here a higher
+plane of thinking, a more rational analysis of situations, than our
+vaunted English? Of course it does. In this field and in various others,
+English compared to Hopi is like a bludgeon compared to a rapier. We
+even have to think and boggle over the question for some time, or have
+it explained to us, before we can see the difference in the
+relationships expressed by ‘that’ in the above examples, whereas the
+Hopi discriminates these relationships with effortless ease, for the
+forms of his speech have accustomed him to doing so.
+
+Bibliography
+
+[At the end of the manuscript appears a section entitled “Bibliography
+(Notes)” which is merely a skeleton of a bibliography; it consists
+chiefly of names. I have already given footnote references for the
+following names: Bloomfield, Boas, Byrne, Fabre d’Olivet, Jung, Sapir,
+Watkins, and Watson. Below I give the citations that Whorf most probably
+had in mind for the other names; in several cases he was explicit.—JBC]
+
+ 
+
+De Angulo, Jaime. “Tone patterns and verb forms in a dialect of
+Zapotek.” Language 2:238–250 (1926).
+
+Flournoy, Théodore. Métaphysique et psychologie. Geneva, 1890. [? This
+may not be the relevant work.]
+
+Haas, Mary. [Whorf probably referred to unpublished material which he
+had seen. See her sketch of Tunica, an American Indian language, in H.
+Hoijer, Linguistic structures of native America. New York, 1946. —JBC]
+
+Jones, William, and Truman Michelson. “Algonquian (Fox).” Pp. 735–873 in
+Boas, F. (editor), Handbook of American Indian languages, Part 1.
+Washington: Government Printing Office, 1911.
+
+Koffka, K. Principles of Gestalt Psychology. New York: Harcourt, Brace &
+Co, 1935.
+
+Lowes, John Livingston. Road to Xanadu. Harvard University Press, 1927.
+[Whorf misremembered the author’s name as Dickinson. He comments,
+“Interesting for illustrations of the dredging up of linguistic material
+from the unconscious.”]
+
+Murdock, George P. Our Primitive Contemporaries. New York: Macmillan,
+1934.
+
+Newman, Stanley S. A grammar of Yokuts, an American Indian language of
+California. Unpublished Ph.D. dissertation, Yale Univ. 1932. Also,
+Yokuts language of California. New York, 1944. (Viking Fund Publication
+in Anthropology, no. 2.)
+
+Morice, Adrian C. The Carrier language (Dene family); a grammar and
+dictionary combined. St. Gabriel-Modling near Vienna, Austria, 1932.
+
+Ogden, Charles K. Basic English: a general introduction with rules and
+grammar. London: K. Paul, Trench, Trubner, 1930. [Whorf’s citation is to
+Ogden and Richards, but I believe he meant to refer to this book about
+Basic English.]
+
+Swadesh, Morris. [Whorf probably referred to unpublished material which
+he had seen. See Swadesh’s sketch of South Greenland Eskimo in H.
+Hoijer, Linguistic structures of native America. New York, 1946.—JBC]
+
+Trager, George L. “The phonemes of Russian.” Language 10:334–344 (1934).
+
+ 
+
+This paper was found by me [JBC] in handwritten manuscript form,
+undated, among the papers left by Whorf to his wife and recently turned
+over to his son, Robert Whorf. The manuscript appeared to be complete
+(except for certain footnotes), but it was generally in a somewhat
+unfinished state, necessitating some editorial work on my part. Notes on
+the manuscript indicate that Whorf intended to prepare it for
+publication. He even listed individuals to whom he planned to send
+reprints including Jung, N(ayán) L(ouise) Redfield, Sapir, Carroll,
+Wayne Dennis, (Claude) Bragdon, H. G. Wells, and H. L. Mencken. We may
+date the writing of this article as taking place about late 1936, from
+two facts: first, it must have occurred after the publication, in early
+1936, of his article, “The punctual and segmentative aspects of verbs in
+Hopi,” to which he refers, and, second, it probably preceded the writing
+(in late 1937) of his article, “Grammatical categories,” which gives a
+somewhat more fully developed notion of cryptotype than occurs in the
+present paper.
+
+1. To the reader who may not be prepared to accept all of Jung’s views,
+I might say that his conception of these functions is essentially that
+of earlier psychologists such as Wundt, to which, however, he adds his
+own penetrative insight and clarification of fundamentals. A distinctive
+feature in Jung’s viewpoint is that his four functions are distinguished
+not merely qualitatively but as separate energy systems of operation of
+an energic principle, the Jungian libido, which feature contrasts them
+with mere processes and complexes. (They are relatively closed systems.)
+In other words, if I understand Jung rightly, none of the libido or
+energy available for thinking can pass over into the form of feeling or
+sensation and vice versa, except by going into the unconscious and
+receding so far therein that it reaches the primitive undifferentiated
+state. This libido concept has proved itself of psychiatric value, and
+it may also have significance for the “linguistics of thinking” if it is
+true that the psychic energy available for linguistic processes
+(included in the thinking function) is a differentiated energy,
+entrained in a closed system and not transferable between such systems.
+However, such a Jungian viewpoint is by no means necessary for the
+linguistic approach to thinking which I am here dealing with. [These
+views of Jung will be found in his Psychological types (trans. by
+Baynes, New York and London, 1923).—JBC]
+
+2. Some have supposed thinking to be entirely linguistic. Watson, I
+believe, holds or held this view, and the great merit of Watson in this
+regard is that he was one of the first to point out and teach the very
+large and unrecognized linguistic element in silent thinking. His error
+lies in going the whole hog; also, perhaps, in not realizing or at least
+not emphasizing that the linguistic aspect of thinking is not a
+biologically organized process, “speech” or “language,” but a cultural
+organization, i.e., a language. Some linguists may also hold the idea
+that thinking is entirely linguistic.
+
+3. [No text is available for this footnote. Whorf may have intended to
+refer again to Watson, who identified thought with subvocal movements of
+the speech musculature. See his article, “Is thinking merely the action
+of language mechanisms? (V),” Brit. J. Psychol., 11:87–104 (1920).—JBC]
+
+4. Apparent isolations of words in a vocabulary list also derive what
+meaning they have from the patterned “potentials of linkage,” which
+ramify from them and connect them with complex patterns of linguistic
+formulation.
+
+5. The pronounced materialist may still be granted leave to regard this
+matrix of relations as consisting of paths and chains of brain cells or
+what-not which link and relate themselves by physicochemical processes,
+but no clue to the nature of the RAPPORT, the structure of the matrix
+relations, can be obtained in this way, any more than the social
+organization of a tribe could be worked out from the blood groups of its
+individuals. It can only be determined by a penetrating study of the
+LANGUAGE spoken by the individual whose thinking process we are
+concerned with, and it will be found to be FUNDAMENTALLY DIFFERENT for
+individuals whose languages are of fundamentally different types. Just
+as cultural facts are only culturally determined, not biologically
+determined, so linguistic facts, which are likewise cultural, and
+include the linguistic element of thought, are only linguistically
+determined. They are determined not merely by language, but by
+languages. If the thinkers who are being studied speak our own language
+(let us say English), then the necessary penetrating study of the
+English language which is required can be made only by an investigator
+who has studied and is able to contrast widely differing types of
+language from English, for only in this way can there be brought into
+the forefront of consciousness an awareness of the existence of mere
+bare RELATIONS that do not correspond to any verbalized concepts but
+nevertheless govern absolutely the linkages of morphemes and shape the
+channels of thinking. [This footnote is extracted from a preliminary
+draft, and appears to represent what Whorf intended at this point.—JBC]
+
+6. Including, of course, their inflections ‘his, him, her, hers.’
+
+7. [A marginal note in the MS shows that Whorf intended to point out, in
+a footnote, that use of gender-linked nouns is not dependent upon
+knowing any particular individual to which they may refer, although it
+inevitably classifies such individuals as to sex.—JBC]
+
+8. [Actually, the Navaho verb system provides for MORE than two classes
+of inanimate bodies, a fact which makes Whorf’s point, if anything, more
+valid.—JBC]
+
+9. ‘Burst’ belongs to this cryptotype; the colloquial ‘bust’ does not.
+
+10. [In a marginal note, Whorf cites ‘shake up,’ apparently to point out
+that this verb implies agitation of parts. The reader should note,
+incidentally, that this whole discussion concerns only transitive verbs,
+as is made explicit at the end of the paragraph.—JBC]
+
+11. [In a marginal note, Whorf alludes to such expressions as ‘strike up
+(a band),’ ‘hit it up,’ but states that they are not true transitives
+and are not considered. He also refers to verbs such as ‘sing, shout,
+cry’ in the same way.—JBC]
+
+12. [From a marginal note, it is evident that Whorf intended to consider
+the words ‘unstart,’ ‘unbalance,’ and ‘undo’ in a footnote. Whorf might
+also have cautioned the reader against being misled by participial or
+adjectival forms such as ‘unbroken, unheated, unopened,’ etc. in which
+the prefix ‘un-’ does not denote the reverse of an action, but of an
+adjectivally expressed condition. It is interesting to speculate on the
+possibility that the reason that words such as ‘unsay, unthink, unmake’
+are now obsolete may be precisely the fact that they had to yield to the
+pressure of the cryptotype represented by such words as ‘uncover,
+uncoil, undress,’ etc.—JBC]
+
+13. [Marginally, Whorf notes that this is “strange at first, but
+illuminating.”]
+
+14. [The tatpurusha compounds are those in which one member modifies the
+other, as in such English words as ‘self-made, footsoldier,’ etc.; the
+dvandva compounds are those containing coordinate members, the nearest
+English example being a phrase like ‘bread and butter,’ which would have
+been rendered in Sanskrit by a single compound word; the bahuvrihi
+compounds are adjectival compounds implying a possessive meaning, and
+may be exemplified by a Sanskrit word which means ‘possessing the
+brightness of the sun.’ See William Dwight Whitney, Sanskrit grammar
+(Harvard University Press, 1931, Chapter XVIII).—JBC]
+
+15. [I have supplied the dates, which Whorf intended to fill in. They
+are as given in the Grand dictionnaire universal du XIX^(e) siècle. Note
+that the surname is Fabre d’Olivet, not d’Olivet.—JBC]
+
+16. [I have supplied the dates, which Whorf left blank in the
+manuscript. The full title of this scarce work is La langue hébraïque
+restituée, et le véritable sens des mots hébreux rétabli et prouvé par
+leur analyse radicale. Copies are to be seen in the Library of Congress,
+the Cornell University Library, and perhaps a few other libraries in the
+United States. It is probable that Whorf knew the work chiefly from the
+translation into English by Nayán Louise Redfield, The Hebraic tongue
+restored (New York and London, G. P. Putnam’s Sons, 1921).—JBC]
+
+17. [I have supplied the date, as also the dates of Byrne’s life. Here
+and later in the manuscript Whorf gives the name as Thomas Byrne, but
+this must have been due to a lapse of memory.—JBC]
+
+18. [Boas, Franz (ed.). Handbook of American Indian languages (Parts 1
+and 2). Washington, D.C.: Government Printing Office, 1911–22. (Bull.
+40, Bur. Amer. Ethnol., Smithsonian Institution.)—JBC]
+
+19. [I have supplied the date. The full reference is: Sapir, Edward.
+Language; an introduction to the study of speech. New York: Harcourt
+Brace Co., 1921, vii, 238 pp.—JBC]
+
+20. [Lévy-Bruhl, Lucien. Les fonctions mentales dans les sociétés
+inférieures, Paris 1912. “Participation mystique” refers to a special
+kind of psychological relationship with the object, in which the
+individual cannot clearly perceive a separation between himself and the
+object.—JBC]
+
+21. See for example the Hopi treatment of repetitive and vibrational
+phenomena in my paper, “The punctual and segmentative aspects of verbs
+in Hopi,” or the instances of [lacuna] in Watkins’ Chichewa. [Probably
+Whorf intended to allude to the Chichewa verb system, which is extremely
+sensitive to the causative aspects of acts. For example, there are
+several past tenses, use of which depends not only on the remoteness of
+the past time being referred to (before or since last night) but also on
+whether the act continues to have an influence on the present. There are
+also seven “voices,” which express different kinds of relations among
+subject, verb, and predicate (including object). See pp. 49–57, 72–81 in
+A grammar of Chichewa, a Bantu language of British Central Africa, by
+Mark Hanna Watkins, Language Dissertation no. 24, 1937. See also Whorf’s
+later discussion in his article, “Language, mind, and reality” (p. 265
+f.). —JBC]
+
+22. [The marginal notation appears: “memberships in covert categories of
+a certain type,” and there is a reference to Leonard Bloomfield,
+Language (New York, 1933) where the subject of taxemes is taken up in
+Chapters 10, 12, and elsewhere.—JBC]
+
+23. [At this point in the manuscript appears a marginal notation:
+“Conclusion—error supposing function of language to be only the
+COMMUNICATION of thought.” By emphasizing the word communication, Whorf
+apparently meant to convey the implication that language not only
+communicates thought but functions in its very inception, a conclusion
+to which we are forced if we accept the main thesis of this
+article.—JBC]
+
+7

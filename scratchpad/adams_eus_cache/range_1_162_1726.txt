@@ -1,0 +1,1565 @@
+      by Professor Adams under the title, "Regularities in
+livered
+Urban Origins: A Comparative Study," on April 6-22, 1965.
+
+                                     Alfred Harris
+                                     Department of Anthropology
+                                     The University of Rochester
+
+                                                 PREFACE
+
+THE SUBSTANCE OF THIS STUDY WAS PRESENTED IN APRIL, 1965, AS
+a third annual series of lectures at the University of Rochester
+in honor of    Lewis Henry Morgan. I am indebted to a number
+of colleagues     at   Rochester, including especially           Edward      E.
+Calnek, Alfred Harris, and Rene Millon, for critical comments
+at the    time they were delivered, which subsequently were in-
+corporated in the revised      text.   Further suggestions and com-
+ments, which also have served as a basis for revision, were
+made by many of the participants at a Burg Wartenstein con-
+ference on "The        Evolutionist    Interpretation       of   Culture" in
+August, 1965. Particularly to be thanked for advice on that
+occasion are S. N. Eisenstadt, Friedrich Katz, and the confer-
+ence chairman, Eric R. Wolf. Since other, less direct contribu-
+tions to the final     form of the manuscript must have stemmed
+from the plenary discussions of the conference, it is appropriate
+also to express    my gratitude to the Wenner-Gren Foundation
+for Anthropological Research,          under whose sponsorship              this
+
+unusually fertile gathering of diverse specialists was convened.
+Among my colleagues at Chicago, I have benefited from com-
+ments made by Lloyd A. Fallers and Pedro Armillas. Finally,
+I   am much indebted to Miguel Civil for a number of illuminat-
+ing suggestions on  how some of the Sumerological materials
+utilized in this study might be more solidly           and imaginatively
+interpreted.
+     It   was a singular pleasure       to   lecture   on    this   theme    in
+
+                                  Vll
+
+viii                                Preface
+
+
+L. H. Morgan's city and in his name. Surely we are all victims
+to     some degree of the narrowing professionalism and increas-
+ing timidity that accompanies the development of a mature
+field,   but anthropology   still    represents not so   much an aca-
+demic discipline in the prevailing sense as a broadly general-
+izing    and comparative tradition of empirical inquiry. And one
+of the most significant parts of that tradition began with       Mor-
+gan, as did the recognition of the immediate subject of these
+lectures as    an enduring problem. However reoriented or           di-
+
+luted the line of descent at times may be, I hope that the main
+course and conclusions of this study justifiably can be said to
+continue in the direction he led          us.
+
+                                                Robert McC. Adams
+
+                                       CONTENTS
+
+CHAPTER I.       The Problem and the Evidence                 1
+
+CHAPTER H.       Subsistence and Settlement     .            38
+
+CHAPTER HI.      Kin and Class        ....                   79
+
+CHAPTER rV.      Parish and Polity    ....                  120
+
+CHAPTER V.       Conclusion                                 170
+
+                 References Cited     ....                  176
+
+                 Index                                      185
+
+
+
+                  LIST OF FIGURES
+Figure 1.     Comparative chronologies for early
+        Mesopotamia, and reconstructed network          .    25
+
+Figure 2.     Early Dynastic settlements in southern
+        Mesopotamia, and reconstructed network
+        of contemporary watercourses            ...          70
+
+Figure 3.     Late prehispanic settlements in
+        central Mexico, largely from Aztec
+        documentary sources                                  73
+
+Figure 4.    Paradigms of early urban growth        .   .   171
+
+
+
+                                 IX
+
+
+THE EVOLUTION
+          OF
+URB.4X SOCIETY
+
+
+           I
+
+                   THE PROBLEM AND
+                       THE EVIDENCE
+THE GENERALIZING, COMPARATIVE STUDY OF THE ORIGINS OF EARLY
+states has been an important research theme since before the
+emergence of anthropology as a conscious, distinctive intel-
+lectual approach. Indeed, the view that "savagery," "barba-
+rism," and "civilization" form stages in a universal evolutionary
+sequence lay very close to the core of thought and speculation
+out of which anthropology arose. With the subsequent, in-
+creasingly conscious and refined, acquisition and analysis of
+both historical and ethnographic data, the deficiencies of this
+view became so strikingly apparent that for a long time the
+diversity of cultures received greater stress than their similari-
+ties. If   today the tide has begun again to run in the opposite
+direction,     perhaps at least a part of the explanation lies in the
+persuasiveness and vigor with which            it   has continued to be
+affirmed over the years that the early civilizations provide a
+significant     example of broad   regularities in        human behavior.
+      This volume is concerned with the presentation and analy-
+sis   of regularities in our    two best-documented examples of
+early,   independent urban societies. It seeks to provide as            sys-
+tematic a comparison as the data permits of institutional forms
+and trends of growth that are to be found in both of them.
+Emphasizing basic similarities in structure rather than the
+many acknowledged formal features by which each culture is
+rendered distinguishable from        all   others,   it   seeks to   demon-
+strate that     both the societies in question can usefully be re-
+garded as variants of a single processual pattern.
+
+2                     The Evolution of Urban Society
+
+   The independent emergence of stratified, politically organ-
+ized societies based upon a new and more complex division of
+labor clearly is one of those great transformations            which have
+punctuated the human career only rarely, at long intervals. Ob-
+viously it deserves study as a crucial part of mankind's cumu-
+lative   achievement. Yet surely it is also an untidy problem, on
+whose component elements closure can be achieved only slowly
+and painfully by marshalling every technique, every potential
+source of insight and evidence in the arsenal of scholarship.
+Herein, perhaps, lies the major reason for the durability and
+attractiveness of the problem as a specifically anthropological
+focus of interest.
+     The available evidence in the form of written sources, to
+begin with,  is too circumscribed in purpose and too limited
+
+in amount to permit us to advance very far with the unaided
+approach of the documentary historian. Hence we fall back
+on other sources, which all too often are incommensurate with
+whatever contemporary documentary data there may be. In
+particular, archeology becomes a primary means of investiga-
+tion,    although the conclusions that archeological data permit
+often    seem to support an edifice of inferences different from
+that erected on the basis of the documents.            Still   another line
+of inquiry leads back through later materials of a literary or
+mythical genre, relying on the attractive but always somewhat
+hazardous assumption that usable accounts of preliterate events
+and institutions have survived thus in traditional, encapsulated
+form.
+     With sources     as inconclusive as these, the only         approach
+that can retain even a vision of the central, crucial problem of
+the emergence through time of a whole new set of institutional
+relationships   is   one that   is   "contextual" rather than "textual"
+in   emphasis— that proceeds by offering, testing, and refining or
+replacing as necessary a scries of structured summaries or syn-
+theses rather than confining analysis to fragmentary, isolated
+cultural components.      With some rare but notable exceptions,
+
+               THE PROBLEM AND THE EVIDENCE                                     3
+
+on the whole            it   would appear that few but anthropologists
+combine a sense of the importance of the pivotal episodes of
+man's cultural evolution, a necessarily reconstructive or syn-
+              and a tolerance for ambiguity— all of which are
+thetic outlook,
+required to work effectively on so elusive and yet intriguing
+a problem.
+    One other aspect of the origin of the earliest urbanized
+societies may be mentioned, which, arising from the character
+both of the data and of the transformation itself, has made it
+a special concern of scholarship within an anthropological tra-
+dition.      Given the present limits to our detailed understanding
+of the process of change in            any one area, we have a problem
+for which the comparative             approach our discipline always has
+been identified with is highly suitable or perhaps even impera-
+tive.   Given, further, the essentially independent internal se-
+quences of cause and              effect leading to           statehood in widely
+different areas and epochs— whatever the precise role of ex-
+ternal stimuli may have been— we have a problem that is pe-
+culiarly amenable to comparative treatment.
+    While the emergence of states has been a long-standing
+focus of anthropological discussion,                it   is    impossible to deal
+more than very briefly here with the historical succession of
+views and issues that have characterized its development as a
+problem. The balanced appraisal of this development is a prob-
+lem in intellectual history, a discipline with its own demanding
+methodology.           A researcher in one generation, in attempting
+to     trace     the    genealogy    of     the   assumptions       and concerns
+most     vital    to    him, tends systematically to distort the issues
+that    commanded the attention of his predecessors.                    Ideas, of
+course, are transmitted upward through time,                      from generation
+to generation, but they             emerge and are periodically           reinter-
+preted in a context of discussions and unspoken understandings
+that    is   continually changing and that is never confined to the
+bounds of a            single discipline.
+     To cite an example pertinent to our own theme, what are
+
+4                       The Evolution of Urban Society
+
+we to conclude from Lewis Henry Morgan's concluding in-
+sistence in Ancient Society            on the transcendental role of a
+Supreme Intelligence in propelling along the evolution of civil-
+ization out of savagery and barbarism? To some, this insistence
+is part of a ringing refutation of the view that Morgan properly
+
+may be regarded as a progenitor of materialist conceptions,
+which he stimulated in others. To others, including myself,
+such an interpretation misconstrues both Morgan's major aims
+and his most enduring contributions. 1 But the more important
+point   is   that the issue of intellectual parentage, insofar as             it
+
+rests   on essentially post hoc evaluations, has as many answers
+as there are articulate,         self-professed children.       Only a quite
+different kind of study than we have yet seen, resting on all the
+technical apparatus of the competent intellectual historian with
+highly developed sensitivities to             modes   of thought      and   dis-
+
+course of the Victorian era, may convincingly tell us how much
+of Morgan's deism         was a formal concession to the temper of
+his times     and how much a deeply held conviction that shaped
+his views of society.
+    In an even broader sense, the controversy over Morgan's
+formal relationship to ( a variety of ) idealistic and materialistic
+positions    is   irrelevant to the problems of cultural evolution as
+he understood them. These positions have assumed a detailed
+signficance— both stemming from and ramifying into spheres of
+political allegiance      and action— unknown in Morgan's time. At
+least to     judge from the variety of causal factors he adduced
+for successive evolutionary stages, Morgan's            approach is better
+characterized by its flexibility than by any insistence on a philo-
+sophical     position    that   is   internally   consistent    by   latter-day
+standards.
+    The problem         of   tracing    the   genealogy    of    evolutionary
+thinking with reference to the emergence of early states                      is
+
+further obscured by the changing context in which that thought
+
+    1. Cf. the exchange between M. E. Opler, T. G. Harding, and E. B.
+Leacock in Cur. Anthrop. 3 (1962), 478-79, and 5 (1964), 109-14.
+
+              THE PROBLEM AND THE EVIDENCE                           5
+
+has occurred. Since ancient history, ethnohistory, and arche-
+ology have essentially emerged as disciplines during the past
+century or so, the empirical base upon which reconstructions
+and theories have been formulated has been subject to radical
+and cumulative changes. In the later decades of the nineteenth
+century, Morgan and his colleagues knew little of the civiliza-
+tions of the New World save an essentially synchronic picture
+that could be drawn from Spanish contact sources, and for the
+Old World had little to draw upon save the immediate ante-
+cedents of classical Greece and Rome and the testimony of the
+Old Testament. Within these limitations, the failure to perceive
+important developmental trends in late pre-Conquest nuclear
+American societies, for example, is hardly surprising. Even the
+reliance on extrapolations from putative "survivals," so often
+criticized    now, may have been regarded      at     the time as an
+inadequate but inescapable and heuristically valid           way     in
+which to make a beginning with the data at hand. Of course,
+what contributed most to transforming this situation was the
+development of archeology to the point      at    which long, well-
+founded sequences of change and interrelationship            in   time
+and space could be formulated even in the absence of written
+records.But progress was almost equally marked in the re-
+covery and decipherment of early documents.
+     In addition to the   immense increase       in   the depth    and
+breadth of available data over the past century or          so,   there
+have   also   been broad qualitative changes     in the context of
+
+inquiry. Consider Morgan's classic formulation of the problem
+as   he saw it:
+
+    As we re-ascend along the several lines of progress toward the
+primitive ages of mankind,    and eliminate one after the other, in
+the order in which they appeared, inventions and discoveries on
+the one hand, and institutions on the other, we are enabled to per-
+ceive that the former stand to each other in progressive, and the
+latter in unfolding relations. While the former class have had a
+connection, more or less direct, the latter have been developed
+
+6                     The Evolution of Urban Society
+
+from a few primary germs of thought. Modern institutions plant
+                                          which their germs were
+their roots in the period of barbarism, into
+transmitted from the previous period of savagery. They have had
+a lineal descent through the ages, with the streams of the blood,
+as well as a logical development.
+      Two independent lines of investigations thus invite our atten-
+tion. The one leads through inventions and discoveries, and the
+other  through primary institutions. With the knowledge gained
+therefrom, we may hope to indicate the principal stages of human
+development. [1963:4]
+
+      If   my object were merely to insist anew on the authenticity
+of a viable scholarly tradition that descends to us from Morgan,
+it   would be enough to perceive in this and similar passages
+an astonishingly modern emphasis on empirical exposition of
+the course of cultural evolution, a primary commitment, as
+Eleanor Leacock puts it, "to the rationality of historical law"
+(in     Morgan 1963 :vii). But the apparent anachronisms are as
+striking as this continuity of emphasis, and they shed a greater
+light      on the changing context of study.
+      Morgan's tendency, in the first place, was to counterpose
+the     cumulative growth of technology and related cultural
+items,      on the one hand, with institutional developments that
+were visualized      as the unfolding of potentialities already in-
+herent in the germ. Thus he saw the idea of government, in a
+sense apparently not really distinguishable from the developed
+institutions of his own day, as having existed far back into the
+stage of savagery.     What is missing, in our terms, is the world
+of thought succinctly      summarized in Julian Steward's seminal
+expression, "levels     of sociocultural complexity"— aframework
+of functionally interconnected institutions forming the struc-
+tural core of a distinctive set of social systems.
+      Apparently not having known of the sharply discontinuous
+character of evolutionary advance generally, Morgan, in his
+conception of the course of cultural evolution, tended at times
+to assume that it had an "orthogenetic," preordained character.
+Moreover, rather than seeing the ordered sequence of small
+
+            THE PROBLEM AND THE EVIDENCE                                   7
+
+increments of change as a continuously adaptive process mov-
+ing through time, he was content to chart the fortuitous pres-
+ence of innovations in technique as convenient symbols of
+arbitrarily   demarcated stages, without devoting much thought
+either to the character of the transitions               between them or to
+the interplay of factors propelling the change. And, even where
+innovations of a societal rather than a technical character were
+brought forward, as in the case of the emphasis Morgan                    at-
+
+tached to the advent of private property, it is noteworthy that
+this   was formulated not as the appearance of a new and pro-
+foundly important set of organized social relationships— a strati-
+fied    grouping of classes— but only as a discrete            new idea or
+feature.
+       In comparison with Morgan's usage, there has emerged not
+merely a difference in terminology but a significant conceptual
+advance beyond his demarcation in terms of convenient, easily
+recognizable        traits   of successive stages in      what he seems   to
+have regarded as a preordained path of progress leading up-
+ward to civilization. The more recent view is one that, instead,
+focuses attention on the disjunctive processes of transformation
+connecting one qualitatively distinctive level of sociocultural
+complexity with another. In fact, for purposes of systematically
+comparing the seemingly              parallel    and largely independent
+processes of growth leading to the formation of early urbanized
+polities   or states, the concept of major, successive organiza-
+tional levels   now seems perhaps the single most indispensable
+one. Such levels may be regarded as broadly integrative pat-
+terns whose basic functional relationships tend to remain fixed
+(or,    at least,    tend to occur in fixed sequences), while their
+formal, superficial features vary widely from example to ex-
+ample. Given the             much greater variability in the occurrence
+of individual features associated with the                 Urban Revolution
+than Morgan was aware               of,    including even such seemingly
+basic attributes as the degree of urbanism in settlement pat-
+terns    and the invention of             writing, the   employment   of the
+
+8                     The Evolution of Urban Society
+
+concept of levels permits us still to proceed beyond the ac-
+knowledgment of diversity to the recognition of genuine evo-
+lutionary parallelisms.
+     While the unearthing of new data on the history of cultural
+development undoubtedly played a part in changing the ways
+in   which we formulate the course of cultural development, in
+the main the comparatively rapid, widespread, and unopposed
+acceptance of a view stressing the disjunctive aspects of evo-
+lutionary change probably          is   to   be attributed to the broad
+shift   toward similar views for biological evolution as a whole.
+After all, the stress that cultural evolutionists place on the
+
+expanded potentialities for adaptation conferred by new levels
+of cultural complexity surely has the Darwinian insistence on
+the central role of natural selection as           its   prototype. Just as
+ecological studies have         become a major facet of research in
+modern biology,       so   we find a closely related growth in the
+emphasis given to studies in cultural ecology. Even the concept
+of levels of sociocultural integration itself is operationally very
+similar to the idea of organizational grades as the major units
+of evolutionary          in the biological world. At a more
+                   advance
+                  main course of cultural evolution increas-
+abstract level, the
+ingly has come to be viewed as a succession of adaptive
+patterns, each new cultural type tending to spread and dif-
+ferentiate at the expense of less efficient precursors.
+     There is an interesting further parallelism between studies
+in evolutionary biology, on the one hand,           and those in cultural
+evolution,   on the    other.    Perhaps the most profound change
+in the    former during recent decades has come through the
+recognition of the population as the unit within which adapta-
+tion takes place   and upon which selective pressures act. The
+concept of a population as the unit of evolutionary potential,
+variable in the behavior of its constituents as well as in their
+genetic constitution,      encourages the corresponding study of
+human societies rather than individuals as the adaptive units,
+even though corporate human behavior is mediated by the
+
+                                                                     "
+
+
+
+                THE PROBLEM AND THE EVIDENCE                                      9
+
+unique factor of culture. Perhaps           also,   although   this      remains
+more a matter of future possibility than of present performance,
+recognition of the importance of biological                 variability         may
+encourage fuller study of cultural heterogeneity and dissonance
+as basic features of both adaptation          and change.
+       There is no need to dwell        at length    on definitions of the
+entities     with which this study deals. The major characteristics
+of early states have been repeatedly described,                 and       in    any
+case    I    am more concerned with the process of their growth
+than with a detailed discussion of their characteristics. There
+is   no more adequate term evoking this process than that intro-
+duced by V. Gordon Childe, the "Urban Revolution. 2 Among
+its important advantages are that it places stress on the trans-
+
+formative character of the change, that               it   suggests at least
+relative rapidity,      and that it specifies a restricted, urban locus
+within which the process was concentrated.
+       Yet it must be admitted that there are potential distortions
+involved in the use of the term as well as advantages, quite
+apart from the specific attributes Childe attaches to                     it.   The
+more common usage of the word "revolution/' for example, im-
+plies aspects of conscious struggle. Possibly there were over-
+
+tones of consciousness about certain stages or aspects of the
+Urban Revolution, although the issue is unsettled. Any implica-
+tion that such        was generally the case, however,          is       certainly
+
+false. Again, the term perhaps implies a uniform emphasis on
+
+the growth of the city as the core of the process. At least as
+a form of settlement, however, urbanism seems to have been
+much less important to the emergence of the state, and even
+to the      development of civilization in the broadest sense, than
+
+
+       2.   Childe 1950. For a more substantive presentation of his views in
+the specific case of Mesopotamia see Childe 1952, esp. chap. 7. Both works
+emphasize archeological rather than textual findings, leading to a corres-
+ponding interpretive stress on technological aspects of change. No attempt
+has been made in this essay to duplicate or replace Childe's treatment of
+this   theme.
+
+10                       The Evolution of Urban Society
+
+social stratification      and the institutionalization of political au-
+thority.
+
+      Still   a further possible drawback is that uncritical use of the
+term may invoke an implicit, and therefore dangerous, assump-
+tion of the unity of all         urban phenomena. This        is   at best a
+proposition that applies at so gross a level as to be hardly
+more than trivial, and yet it sometimes has served to divert
+attention toward misleading analogies with other cultural set-
+tings sharing only          the fact of settlement in dense, "urban"
+clusters rather than        toward the empirical investigation of the
+phenomena in hand. In short, the purpose of this study em-
+phatically      is    not to generalize about the nature of        cities   but
+rather to discuss the processes by which, at least in some cases,
+they seem first to have come into existence. And as will become
+apparent, the achievement of these first steps in urban growth
+leads to a distinctive constellation of features that cannot be
+regarded simply as progressively approximating contemporary
+urbanism more and more closely.
+      In balance, the insights engendered by the term seem to
+outweigh        its   drawbacks. But the characteristics with which
+Childe sought to describe and associate it are less satisfactory.
+His criteria were the following: (1) increase in settlement size
+toward "urban" proportions; (2) centralized accumulation of
+capital resulting from the imposition of tribute or taxation;
+
+(3) monumental public works; (4) the invention of writing;
+(5) advances toward exact and predictive sciences; (6) the
+appearance and growth of long-distance trade in luxuries; (7)
+the emergence of a class-stratified society; (8) the freeing of
+a part of the population from subsistence tasks for full-time
+craft    specialization;     (9) the substitution of a politically or-
+ganized society based on           territorial principles,   the state, for
+one based on kin ties; and (10) the appearance of naturalistic
+—or perhaps better, representational— art.
+      One objection to such a listing is that it gives us a mixed
+bag of characteristics. Some, like monumental architecture, can
+
+                THE PROBLEM AND THE EVIDENCE                                           11
+
+be unequivocally documented from archeological evidence but
+also are known to have been associated occasionally with non-
+civilized       peoples.   Others, like exact and predictive sciences,
+are largely matters of interpretation from evidence that                          is   at
+best fragmentary and ambiguous.              And still others, if not most
+of Childe's criteria, obviously           must have emerged through a
+gradual, cumulative process not easily permitting distinctions
+in kind to       be kept apart from those merely in degree. More-
+over,     these characteristics differ radically from one another
+in their    importance as causes, or even as indices, of the Urban
+Revolution as a whole. The significance of the reappearance
+of representational art— indeed,           its   initial   appearance, insofar
+as   it   deals with the human figure— for example,                  is   at least not
+
+immediately apparent.
+     A more basic objection to any such listing is that its eclec-
+ticism      embraces fundamental contradictions                 as        to   purpose.
+Childe echoes Morgan in seeking to identify the Urban Revo-
+lution     by    a series of traits   whose      vestiges the specialist can
+conveniently recognize. This was a reasonable procedure for
+Morgan's purpose, the           initial   delineation of a succession of
+stages,     but with Childe, on the other hand, we enter an era
+in which the emphasis shifted toward providing accounts                           with
+explanatory power as well.
+     The term "Urban Revolution" implies a focus on ordered,
+systematic processes of change through time. Hence the identi-
+fying characteristics of the Urban Revolution need to be more
+than loosely associated features (no matter how conveniently
+recognizable),  whose functional role is merely assumed and
+which are defined in terms of simple presence or absence.
+Usefully to speak of an Urban Revolution, we must describe
+a functionally related core of institutions as they interacted and
+evolved through time. From this viewpoint, the characteristics
+Childe adduces can be divided into a group of primary vari-
+ables,     on the one hand, and a larger group of secondary, de-
+pendent variables, on the other. And                 it    clearly    was Childe's
+
+12                          The Evolution of Urban Society
+
+view that the primary motivating forces for the transformation
+lay in the rise of new technological              and subsistence patterns.
+The accumulative growth                of technology        and the increasing
+availability of food surpluses as deployable capital,
+                                               he argued,
+were the central causative agencies underlying the Urban
+Revolution.
+     This study        is    somewhat    differently      oriented;    it   tends to
+stress "societal" variables rather           than "cultural" ones. Perhaps
+in part, such an approach is merely an outgrowth of limitations
+
+of space; social institutions lend themselves more easily to the
+construction of a brief paradigm than do the tool types or pot-
+tery styles with which the archeologist traditionally works.                     But
+I also   believe that the available evidence supports the conclu-
+sion that the transformation at the core of the                  Urban Revolu-
+tion lay in the realm of social organization.                   And, while the
+onset of the transformation obviously cannot be understood
+apart from its cultural and ecological context, it seems to have
+been primarily changes in social institutions that precipitated
+changes in technology, subsistence, and other aspects of the
+wider cultural realm, such as religion, rather than vice versa.
+     Perhaps     it   is    for this reason that I shall largely avoid the
+word "civilization" in this            discussion.   It    refers inclusively to
+the totality of an expansive and long-lived cultural manifesta-
+tion,   and hence reduces the possibility of erecting meaningful
+paradigmatic    models— "cores"— for purposes of comparison.
+Consider the use of the word by A. L. Kroeber,                        its   most dis-
+tinguished exponent:
+
+    To the historian, civilizations are large, somewhat vague seg-
+ments of the totality of historical events which it may sometimes be
+convenient or useful to segregate off from the remainder of his-
+tory, and which tend to evince certain dubiously definable qualities
+when     so   segregated.      To   the student of culture, civilizations         are
+segments of the totality of human history when this is viewed less
+for its events, and less as behavior and acts, than as the more en-
+during products, forms, and influences of the actions of human
+         To the student of culture, civilizations are segregated or
+societies.
+
+               THE PROBLEM AND THE EVIDENCE                                 13
+
+delimited from one another by no single criterion: partly by geog-
+raphy, partly by period;         partly   by speech,   religion,   government,
+less by   technology; most of all, probably, by those activities of civi-
+lization that are especially     concerned with values and the manifest
+qualities of style. [1953:275].
+
+
+To be sure, Kroeber goes on to observe that "the form and
+structure possessed         by civilizations invite a comparative mor-
+phology." But, in practice, the forms upon which he concen-
+trates are indefinitely inclusive and distinctive for each civiliza-
+
+tion, as reflected in the fact that          they find their most succinct
+expression in stylistic terms rather than in analytical terms that
+are potentially expressive of genuine regularities.
+      This is not to deny that the term "civilization" has advan-
+tages for other purposes,         and in particular for characterizing
+state societies as they are distinguished from societies of lesser
+degrees of complexity. As Morgan already saw, civilizations are
+associated with qualitatively             greater scale   and internal    dif-
+
+ferentiation than other societies or cultures,            and it is entirely
+proper to set them aside as a class under this term even if the
+terms for his other equally inclusive categories, "savagery"
+and "barbarism," will seem to most anthropologists excessively
+ethnocentric and pejorative.
+   The cultural referent of the term "civilization" confers still
+other advantages when the objective is not processual explana-
+tion of       growth but the synchronic analysis of a wide range of
+potentially interacting variables.           A distinction between great
+and little civilization al traditions as posited by Robert Redfield
+(   1953 ) for example, encourages us to look for creative patterns
+          ,
+
+
+
+
+of interaction       between    different social constituencies— on the
+one hand, the conscious, literate (generally), syncretistic, phil-
+osophical, mythopoeic expression of the urbanized elite and,
+on the other, the little traditions of the rural peasantry, more
+limited in scope,         more variable in both space and time. But,
+without denying that important insights             may flow from this
+line of analysis,     I   would only insist that it has little to do with
+
+14                       The Evolution of Urban Society
+
+an attempt to account for the genesis of civilized               society.
+Like the idea of a folk-urban continuum, which Redfield also
+posited, its value is more heuristic than truly explanatory.
+
+     The term "state" on the other hand, is useful for this dis-
+cussion in that         it   centers on the political order, one of our
+major subjects of inquiry. For all the acrimonious debate about
+the essential features of state societies, they may reasonably be
+defined as hierarchically organized on political and territorial
+lines   rather than on kinship or other ascriptive groups            and
+relationships. Internally, at least,        even primitive states tended
+to   monopolize the use of force for the preservation of order,
+while externally they exercised a degree of sovereignty. Like
+the state     itself,                       emerged at varying
+                        these root characteristics
+rates during the course of the    Urban Revolution. While our
+recognition of them is often rendered dubious and never pre-
+cise by the nature of the data, they clearly serve to distinguish
+
+a new, qualitatively more complex and extensive, mode of
+social integration.
+     References     made earlier to the "core" of the Urban Revo-
+lution as a changing, functionally related group of social in-
+stitutions prompt a comparison of this usage with that of
+Julian Steward, from whom I have borrowed the term in
+slightly altered form. For Steward, the "core" of a culture is
+
+a nexus of basic institutions and relationships, a statement of
+the "functional interdependency of features in a structural re-
+lationship"     (1955:94).       The   recognition of culture "cores" as
+distinct    from "secondary" features provides the basis          for   a
+typology of cultures stressing their most essential, invariant
+characteristics and, hence, for a study of processual regularities
+common to the appearance of a given cultural type. That far
+I would agree fully with him. However, while he concedes
+that social, political, and even religious patterns may be em-
+pirically    determined to fall within the limits of the core as an
+operational concept, for him the concept centers on "the con-
+stellation of features         which are most    closely related to sub-
+
+            THE PROBLEM AND THE EVIDENCE                           15
+
+sistence activities    and economic arrangements"      (p. 37). Here,
+at least   with respect to his emphasis upon ecological adapta-
+tion as the primary source of change— "the extracultural factor
+in    the fruitless assumption that culture comes from culture"
+(p.    36)— and upon the separation of economic forms          of be-
+havior from the social and political institutions that generally
+mediated them, it seems necessary to part company with him.
+      Steward himself concedes that "the simpler cultures are
+more directly conditioned by their environment than advanced
+ones" (p. 40), so at least for the latter we are entitled to doubt
+whether his view is correct that the only (or even the major)
+effective locus of     change is to be found outside culture rather
+than within it. The effect of regarding ecological response as
+the primary creative process,      it   may be pointed out, is to en-
+courage the search for misleadingly self-generating extracul-
+tural factors,     such as population pressure or the managerial
+requirements of irrigation systems, as the effectively independent
+causes of cultural development. Particularly in these two in-
+stances, the evidence for the period of the         emergence of the
+early states strongly suggests that they were neither independent
+causal agencies "outside" culture nor of sufficient overall im-
+portance even to be viewed as among the major, closely inter-
+acting factors precipitating cultural change.
+      No matter how defined, the distinction between a cultural
+core and secondary features is one that is operationally imposed
+on, not inductively derived from, the empirical data of history
+and archeology. It is applied a posteriori as an explanatory tool,
+both to focus attention on certain apparently strategic aspects
+of    change and to elucidate a plausible cause-and-effect        se-
+
+quence.    It   involves discrimination as to the significant aspects
+of reality— significance in this case being associated with the
+achievement of the major features that we associate with the
+Urban Revolution. As such, it concentrates on the cluster of in-
+stitutions whose development characterizes the full achieve-
+
+ment of the Urban Revolution. It emphasizes those features
+
+16                 The Evolution of Urban Society
+
+which exhibit a rapid, qualitative advance rather than those
+which change more slowly or which, in spite of internal changes,
+maintain a relatively high degree of continuity as to both form
+and function. In a word, any meaningful use of the concept of
+a culture core in the study of change involves special stress on
+emergent phenomena. But,        at   least,   any explanatory, causal
+orientation to the study of history— and ultimately there       is   no
+other that justifies the effort— involves a precisely similar proc-
+ess of selection of what constitute the significant trends, institu-
+
+tions,   and events from the point       of view of understanding
+change.
+     There are also dangers of teleology in the employment of
+the concept of a culture core as an analytic device. Almost cer-
+tainly the core trends   we associate with the Urban Revolution
+—social stratification, urbanization, political differentiation, mil-
+itarization, craft specialization,   and the like— were subject re-
+peatedly to brakings and reversals along the way, even though
+we generally remain ignorant of these irregularities and can
+perceive only the cumulative transformation that the           Urban
+Revolution brought about. But, just as evolutionary biologists
+have done, we must continue to speak of trends for as long as
+our evidence points to them, while recognizing that change           is
+
+a continuously adaptive process in which the ends are never
+immanent.
+   The concept of a culture core implies the less obvious, and
+hence perhaps more dangerous, connotations of interdepend-
+ency and compactness. These connotations may create no dis-
+tortions for earlier, simpler stages of cultural development, to
+which the fully integrated, seamless web of classical functional-
+ism applies as a reasonably close approximation of reality. But,
+in the case of complex state societies, their rise is accompanied
+
+by the progressive dissociation of major institutional spheres
+from one another, the differentiation of what S. N. Eisenstadt
+(1964: 376) describes as "relatively specific and autonomous
+symbolic and organizational frameworks within the confines of
+
+              THE PROBLEM AND THE EVIDENCE                                      17
+
+the     same       institutionalized   system."    Ifenee    the     functionalist
+model may become progressively                 less      Urban
+                                                      relevant as the
+Revolution proeeeds. To take our speeifie ease, the employment
+of the concept of a culture core should not be taken to imply
+that social stratification and the growth of autonomous political
+organs      proceeded       in   continuous,      intimate    interdependency
+throughout the period of the Urban Revolution and beyond.
+At least at times, they seem to have been, as Eisenstadt (1963:
+93)     insists,    "two analytically distinct and independent               vari-
+ables."
+      A basic question relating to the possibility of discontinuities
+in the causally interrelated web of changes that constitutes the
+
+Urban Revolution concerns the rate and duration of the trans-
+formation      itself.   To the degree that we visualize it as really
+abrupt or rapid— rapid in absolute terms and not merely in rela-
+tion to the long antecedent period of sedentary village farming,
+which was characterized at most by few and limited structural
+changes— to that degree, the possibility that                 it   had internally
+distinctive subphases or changes of direction                 assumes less im-
+portance.      To that degree also, the process as a whole can be
+regarded as an abrupt "step" upward to new levels of sociocul-
+tural complexity, in contrast with the "ramp" that is implied                   if
+
+the process continued over many generations or even centuries.
+      These terms "step" and "ramp" were recently introduced by
+Robert J. Braidwood and Gordon R. Willey (1962:351) espe-
+cially to characterize an apparent difference between the course
+
+of development in Mesopotamia and Mesoamerica, respectively.
+The metaphor of the ramp introduces                    a source of potential
+teleological distortion, for it suggests a smooth upward progres-
+sion,                                        whose common
+         a uniformly unfolding series of trends
+direction was somehow fixed from the outset. The step meta-
+phor, on the other hand, tends to compress                   all   aspects of the
+Urban Revolution into the same brief, inexplicably creative
+period. Since our knowledge becomes progressively fuller with
+the later phases of the archeological and historical sequences
+
+18                     The Evolution of Urban Society
+
+leading to all the early states, a corollary of the step metaphor
+is   the assumption that we can infer all the essential part of the
+transformation at the earliest point in the archeological record
+at which there is any evidence of rapidly increasing differentia-
+tion or complexity. It      would follow, to continue with the step
+metaphor, that most or all of the crucial directions of change
+somehow were fixed inconveniently far back in prehistory and
+that our written and ethnohistorical records can tell us only
+about minor cyclical fluctuations superimposed on sociocultural
+systems that were already fully stabilized.
+      My own bias is to rely, insofar as possible, on the ramp
+metaphor, at least for purposes of this discussion. The advan-
+tages of doing so are primarily heuristic. First,              it   forces us to
+come to grips with the Urban Revolution as an intelligible se-
+quence of change rather than simply accepting it as an almost
+mystically sudden impulse. Second, the ramp metaphor brings
+at least the later phases of the transformation in              both the Old
+and the New World down into the range of the rich source of
+questions and insights available only in written documents.
+Recognizing that the future tide of discoveries may compel us
+to  abandon all the documentary sources as primary, contem-
+porary accounts of the initial Urban Revolution and, hence, to
+fall back on the step metaphor and consequently on archeo-
+
+logical evidence alone, to do so as an a priori position seems
+self-defeating.
+
+     Just as    we may isolate for analytical purposes a strategic
+institutional locus of change, a culture core,             and a temporal
+locus during   which fundamental changes proceeded at least
+relatively rapidly, the Urban Revolution, so we must specify
+a geographical locus. It has already been noted that the term
+"Urban Revolution" focuses our attention on the city as both
+the consequence and the chief locus of the Urban Revolu-
+tion.   But, of course, the formation of a city can be under-
+stood    only    in   relation   to   its   hinterland,   in   spite    of   how
+seemingly resistant to change the peasantry in that hinterland
+
+                    THE PROBLEM AND THE EVIDENCE                                                  19
+
+sometimes                may be. Moreover, both the individual early city
+and      its        hinterland rarely      if    ever must have occurred except
+as   parts of an interacting network                        composed          of   many such
+entities.           Particularly appropriate for the                 description of such
+networks             is    the recently introduced concept                    of   a    key area
+and       its        surrounding        symbiotic        region      (Palerm           and     Wolf
+1957:29;             Sanders 1956:115).          As the use            of   this   concept to
+understand the cultural primacy of areas                               like    the Valley of
+Mexico over long periods implies, key areas must be con-
+sidered             not in    isolation   but in close interaction with their
+often      highly variable              surroundings.        While obvious              in     prin-
+ciple,     in        practice    this    point     often     tends     to     be overlooked.
+There          is    a    perhaps unavoidable tendency, for example, for
+archeologists to              become preoccupied with the major                              centers
+in   which monumental construction and creative activity were
+concentrated at the expense of depressed, dependent outlying
+settlements               whose specialized resources and "surpluses" may
+have been indispensable for the former. Or. again, there are
+pitfalls that are            not often recognized in regarding urban states
+as   based on agriculture, and agriculture                           as     implying an ex-
+clusively sedentary               way of life. On this basis, the symbiotic
+region within which early states arose might be defined too
+narrowly in terms of the limits of sedentary agriculture. But,
+in so doing, at least in             some cases we would ignore what may
+have been vital,               causal elements in the Urban Revolution. It
+will     be argued presently               that,    at    least   in    Mesopotamia, no-
+madism was one of the strategic disequilibrating factors that
+may have set the core processes of the Urban Revolution into
+motion and, further, that the                     earliest    durable patterns of po-
+litical    organization to extend beyond the confines of the indi-
+vidual city-state received their                     impetus from semitribalized
+entities        whose recent nomadic background can be assumed.
+     I   propose to contrast and compare only two from among
+the considerable                number     of    examples of the Urban Revolu-
+tion for which evidence might be adduced. In part, the choice
+
+20                       The Evolution of Urban Society
+
+of    Mesopotamia and central Mexico reflects the special limi-
+tations ofmy own knowledge. But, to a degree at least, the
+opposite   also true, for my own specialized interest in the
+              is
+
+two areas developed with, not before, my preoccupation with
+the growth and functioning of patrimonial societies and primi-
+tive states as a theoretical        problem. Hence        it    may be useful
+more     fully     to   develop the arguments      in   favor of selecting
+these two examples.
+  To begin with, the advantages of selecting an Old World
+and a New World example of early states as the major bases
+for comparison          seem plain. By doing so we tend to minimize
+the possibility that similarities reflect genetic interconnection,
+that    is,   the operation of cultural diffusion,             rather than in-
+dependently occurring           (and therefore presumably "lawful,"
+cause-and-effect ) regularities. For        all   Old World civilizations
+save that in Mesopotamia, it is at least a matter of continuing
+debate whether the course of development may not have been
+                       by a neighboring civilizational nucleus
+significantly influenced
+of earlier date. This problem is by no means entirely elimi-
+nated by including a New World example as well as an Old
+World one, as currently intensifying interest in the possibilities
+of early trans-Pacific interconnections shows, but                  it   is   at least
+held to a minimum.
+      Julian Steward, to be sure, has rightly insisted that even
+a considerable degree of diffusion may not seriously distort the
+regularities of change. Decrying the tendency to treat diffusion
+as "a    mechanical and unintelligible, though universal, cause,"
+he believes that "one may fairly ask whether each time a society
+accepts diffused culture, it is not an independent recurrence of
+cause and effect" (1955:182). But, at any rate, the problem of
+how extensive the external factors in the formation of a primi-
+tive state must have been before having a significant effect on
+its   basic course and patterns of development            is    a   problem for
+empirical study rather than a priori theorizing. Therefore                          it
+
+surely is desirable to base systematic comparisons primarily on
+
+               THE PROBLEM AND THE EVIDENCE                                     21
+
+a selection of the most divergent             and nearly independent of
+the existing examples.
+       In a recent paper Morton Fried has proposed the distinc-
+tion    between     "pristine"   and "secondary"       states,    arguing that
+the latter followed a distinctive course of development based
+on the superimposition of a conqueror stratum over the bulk
+of the local population, while the former "developed sui generis
+out of purely local conditions" (1960:729).                  I   tend to agree
+with his decision to group          all   the major civilizational nuclei
+(Mesopotamia, Egypt, Indus Valley, North China, Mesoamer-
+ica,    and Peru)    as "pristine" examples, in contrast to all other
+possible cases. But the important point is that Fried acknowl-
+edges the validity of the distinction between voluntary states
+and externally imposed or inspired ones, so that the question
+of whether all the Old World examples belong in this category
+must again be an empirical one. And, since our primary in-
+terest    is   with the "pristine" case      (or,   we may hope, cases),
+again    it    seems best to work with but a single example from
+within the Old World oikoumene and to contrast it with one
+from the New World.
+       In the Old World, Mesopotamia offers certain obvious ad-
+vantages quite apart from          its    apparent temporal priority;           or,
+
+perhaps, if we phrase the matter more honestly,                   it   offers rela-
+
+tively fewer and less serious disadvantages.            At least in contrast
+with Egypt, the Indus Valley, and China, a more ample, diversi-
+fied,    and continuous archeological record            is   available of the
+antecedent stages leading up to the achievement of an "urban"
+level    of sociocultural    complexity.      In Egypt, to be sure, Sir
+Flinders Petrie's sequence dating scheme, although derived ex-
+clusively from seriation studies, has stood the test of time                   and
+corroborative radiocarbon-dating analyses as reflecting continu-
+ity of occurrence.       But exposures continue to be limited very
+largely to graves, and a processual understanding of changing
+patterns of social organization will never be obtained from the
+mortuary cult alone. Precivilizational              levels of settlements in
+
+22                  The Evolution of Urban Society
+
+the alluvial plain of the Indus still remain as poorly known as
+those in the Nile Valley; and developments leading to that
+civilization are not likely to be well represented in excavations
+of small-scale village settlements of marginal hill-folk in neigh-
+boring Baluchistan. For China, later          and hence exposed
+                                          still
+
+for a still longer time to a variety of direct and indirect influ-
+ences from civilization farther west, the problem of the incom-
+pleteness of the archeological record during the course of the
+Urban Revolution is equally acute.
+     There are further valid reasons for the selection of Meso-
+potamia if we consider the evidence available just after each
+nuclear area had crossed the threshold of "urban" complexity.
+In spite of the many problems involved in interpreting the early
+Sumerian cuneiform texts, at any rate a considerable degree of
+understanding is possible for the greater number that fall into
+non-"literary" categories. Further, the archeological sequence
+has been worked out with considerable precision and can be
+linked not only with the usual succession of temples but also
+with palaces, city walls, private houses, tombs, and "royal"
+graves, and even with individuals whose names appear as kings
+in reliable later records of the dynastic succession.   By contrast,
+our information on Egypt continues to come virtually entirely
+from tombs.
+     With respect to a few aspects      of social organization— for
+example, careers of individual rulers, nobles, and members of
+the administrative elite— Egyptian mortuary practices inform
+us much more fully than do their Mesopotamian counterparts.
+But, in general, and particularly with respect to quantitative
+aspects of economic behavior for which both the mass of Meso-
+potamian texts and the relatively wide extent of Early Dynas-
+tic Mesopotamian excavations in settlement debris are pertinent,
+
+nothing is possible in Egypt that approaches the breadth and
+depth of reconstruction of functioning Mesopotamian political,
+social,   and economic institutions that the cuneiform texts make
+possible.
+
+            THE PROBLEM AND THE EVIDENCE                             23
+
+      For the Indus Valley, the problem is not one of the scale of
+archeological exposure but of the relatively poor stratigraphic,
+and hence chronological, control that was characteristic of
+most of the early, large-scale work there. Furthermore, only a
+very limited body of inscriptional materials       is   yet available,
+and it is still untranslated. Only China remains as an instance
+of civilizational   development that    is   comparable to Mesopo-
+tamia in quantity and quality of the available evidence. In that
+case, its relatively late development increases the likelihood that
+it   may be "secondary" rather than "pristine" in significant ways
+and also increases the possibility that any observed similarities
+with the prehispanic civilizations of the New World may reflect
+cultural influences rather than evolutionary parallelisms.
+      For the New World, the case is more simply stated. Archeo-
+logical work in Mesoamerica has been much more extensive and
+has continued for longer, with earlier attention to secure strati-
+graphic control, a geographically wider and much fuller knowl-
+edge of regional developmental sequences than in the central
+Andean area. A large and important body of Spanish ethno-
+historical material   is   available on both these areas, but only
+from Mesoamerica are a number of prehispanic written docu-
+ments also available.
+      An additional drawback to the Andean area is that archeo-
+logical knowledge is much fuller from coastal areas, which were
+overwhelmed, destroyed as independent political entities, and
+partly depopulated during the final generations of Inca expan-
+sionism before the Spanish Conquest. As a result, the body of
+Spanish ethnohistorical material for those areas         is   extremely
+limited. On the other hand, the antecedents of the Inca Empire
+in the highlands, in the area     where the Inca had their origins
+and where Spanish descriptions of the floruit of their empire are
+more adequate, still remain only fitfully illuminated by small-
+scale excavations that are widely scattered in space and time.
+In short, the utility of the already limited data is further reduced
+by the fact that the area whose prehistoric sequence is best
+
+24                      The Evolution of Urban Society
+
+known archeologically differs ecologically and culturally from
+the area where the imperial organization that            is   described in
+the ethnographical sources first arose and became characteristic.
+   Thus a persuasive case can be made, based on the extent
+and type of the available evidence, for concentrating upon
+Mesoamerica in outlining comparisons with the course of the
+Urban Revolution in the Old World. Within Mesoamerica, how-
+ever, a further narrowing of geographical focus is indicated by
+striking differences in ecological potential        and cultural tradi-
+tion   from region to region. Maya civilization, centered in the
+lowland rain forests of Guatemala, is virtually as distinctive and
+autonomous in relation to Mesoamerican civilization as a total-
+ity as   Egyptian civilization is within the general rubric of early
+Near Eastern civilization. Only the development of the study
+of Mesoamerica within the bounds of a unified and intercom-
+municating anthropological discipline, in contrast to the growth
+in the        Old World of entirely separate philological specializa-
+tions,    has obscured this similarity in geographic and cultural
+scale between Mesoamerica and the Near East as a whole.
+     For the special purposes of a comparative study the Maya
+area     is    not an especially suitable one.     The   disruption   and
+termination of many of its major cultural patterns at about the
+end of the Classic period (ca. 900 a.d. ), and the undeniable
+
+Mexican influence on later phases of development that con-
+tinued only in previously marginal regions like northern Yuca-
+tan, create special problems that seriously deter a consideration
+of possible parallelisms.
+     The most useful unit equivalent to southern Mesopotamia
+as a civilizational nucleus      is   central Mexico. Although in large
+part a rugged highland region that is strikingly different from
+the alluvial plains adjoining the lower Tigris and Euphrates
+Rivers, the two regions are closely comparable in terms of pop-
+ulation potential, degree of political centralization          and urban-
+ization.      Moreover, while continuous, uninterrupted patterns of
+settlement do not seem to have been characteristic of central
+
+                   THE PROBLEM AND THE EVIDENCE                                       21
+
+
+ MESOPOTAMIAN ALLUVIUM                                    CENTRAL MEXICO
+                                 B.C.                   AD.
+                   Agade        2300-    CONQUEST      -1500
+ Dynasty      of
+                                          STATES                                  E
+
+                                2500-                  -1300       Aztec
+                                        MILITARISTIC
+                           m                                                      n
+ Early   Dynastic                         POLITIES
+
+                                2700-                  -1100                      i
+                           n
+
+                           — — 2900-                   -900
+                                                                   Coyotlatelco
+
+
+
+                            d
+
+                                3100-                  -700        Metepec
+                            c
+                                         THEOCRATIC
+ Protoliterate                            POLITIES                 Xolalpan
+                                3300-                  -500
+                            b
+
+
+                                                                   Tlamimilolpa
+                            a   3500-                  -300
+                                                                   Miccaotli
+
+_Warka                          3700-                  -100
+                                                                   Tzacualli
+                                                        A.D.
+ Late    Ubaid
+                                                       ~B.C.       Patlachique
+                                3900-                  -100    -
+
+
+                                                                   Cuicuilco
+
+
+
+
+   Figure          1.   Comparative chronologies for early Mesopotamia
+                           and prehispanic central Mexico
+
+
+
+Mexico, at least the region as a whole provides a relatively con-
+tinuous sequence when a succession of different religious and
+political centers are taken into account.                Having constituted the
+core of the Aztec realm at the time of the arrival of the Span-
+iards,   it    furnishes us also with that special wealth of recorded
+observational detail which the Spaniards accorded to their prin-
+cipal Mesoamerican adversaries.
+    A chronological framework for the comparison of Mesopo-
+
+26                   The Evolution of Urban Society
+
+tamia with central Mexico is outlined in Figure 1. Having speci-
+fied these examples of the rise of early states as the         ones upon
+which it seems best to concentrate, we must consider more fully
+the quality and quantity of available empirical data. It is hardly
+necessary to discuss the potentialities and limitations of archeo-
+logical data in abstract terms for dealing with historical or socio-
+logical problems; surely they are now commonplaces.            But what
+are some of the effects of the changing character of documenta-
+tion,    both at different time periods and as the Old World is
+differentiated    from the New, upon the prevailing assumptions
+and emphases of study? Before contrasting Mesopotamian with
+central Mexican societies in an effort to elicit developmental
+regularities, a   problem must be introduced to which we shall
+return repeatedly:     To what degree may the observed similar-
+ities   or differences between these two widely separated regions
+possibly be only artifacts of accidental differences in the data
+or in the dominant directions that studies in each of them have
+followed?
+      One set of conditions applies to the Early Village horizon
+in both areas, that is, to the time of consolidation and expansion
+of a sedentary, agricultural way of life organized around small-
+scale,    relatively undifferentiated   settlements.   First   and most
+important, the available material for that horizon             is   almost
+exclusively    archeological.   Particularly in   Mesopotamia, most
+exposures are limited to deep pits in massive later sites, limiting
+the scale of excavations and often preventing the recovery of
+complete building plans.        An increasingly serious problem in
+both areas is the disproportionately greater share of attention
+that the earliest agricultural origins are receiving than subse-
+quent phases in the consolidation of a sedentary way of life.
+Late prehistoric villages are virtually unrepresented by excava-
+tions carried out according to       modern (post-World War II)
+standards. As a result, changes in ecological adaptations or sub-
+sistence patterns that    might have contributed to the onset of
+the     Urban Revolution remain on the whole hypothetical. Re-
+
+                THE PROBLEM AND THE EVIDENCE                             27
+
+constructions      of   individual   settlements   based    on   large-scale
+clearance, to say nothing of regional patterns, are still virtually
+unknown. What makes this more serious is that non-archeologi-
+cal    information, whether from         documentary, ethnohistorical,
+or ethnographic sources, is of very limited importance, since it
+stems from so much later a time that its applicability is highly
+questionable.
+   In comparison with the more three-dimensional picture that
+complementary sources of data for later periods permit, the
+prehistoric village record imposes marked limitations or biases.
+An obvious technological emphasis or even preoccupation, for
+example, is engendered by the imperishable artif actual materials
+with which the archeologist generally deals. With the relative
+paucity of modern excavations in this late preurban time range,
+the word "artifactual" is an especially appropriate one; on the
+whole, published illustrations and discussion of wastes of manu-
+facture (e.g., chipping debris), non-artifactual traces of sub-
+sistence patterns,      and even quantitative data on behavior pat-
+terns associated with mass-produced artifactual categories are
+simply unavailable. Disproportionate emphasis also is given to
+individual objects rather than to complex in situ groupings of
+features in their architectural context. While archeological pro-
+cedures for stratigraphic-temporal placement of objects gener-
+ally    have been followed (except in the case of looting, which
+begins as a significant factor with the later prehistoric time
+periods ) in the absence of quantitative studies the time periods
+            ,
+
+
+
+
+that are assigned tend to be excessively long              and impression-
+istically defined.
+
+       From data subject to these limitations, the main outlines of
+dominant socioeconomic          institutions   (to say nothing of less
+tangible aspects of culture)          often at best can be only very
+crudely and conjecturally sketched. In fact, interpretive recon-
+structions of any kind frequently seem so tenuous that the bulk
+of what passes for archeological interpretation tends to remain
+at the level of refinements in time-space systematics— resting
+
+28                    The Evolution of Urban Society
+
+upon the implicit and altogether unwarranted assumption that
+the latter are directly equatable with culture process          (e.g.,   the
+stale and misleading "diffusion" versus "independent invention''
+
+controversy).     Even with all the precision that quantitative ar-
+cheological techniques of analysis permit under optimal circum-
+stances, of course, chronological controls of the order of two or
+three generations remain exceptional. Moreover, work is seldom
+possible on a sufficient scale to provide fully equivalent bodies
+of material for successive levels.
+     Under such conditions, accidents of discovery continue to
+exercise a decisive influence. This in turn not only supports a
+tendency to extreme cautiousness in interpretation but also en-
+hances the tendency to "lump" data into larger chronological
+categories. As a result, sequences of change are uniformly— and
+perhaps quite wrongly— regarded as relatively slow and smoothly
+developing rather than rapid and disjunctive. The milieu of re-
+search being a largely anthropological one, and archeological
+exposures being obviously concentrated on the more important
+and long-lived sites, the further tendency has been to interpret
+such changes as do appear in the context of community studies
+with a strongly localized and integrative focus. Emphasis                 is
+
+given to objects and institutions evoking consensual patterns of
+behavior— art     styles, cult objects, rituals— rather    than to those
+which might suggest incipient patterns of differentiation and
+stratification.   For all these reasons, the contrast with the po-
+litically   organized societies of later periods tends to be drawn
+as   an excessively sharp one, and the onset of the processes of
+change comprising the Urban Revolution, as well as the Urban
+Revolution itself, tends to be interpreted as more abrupt and
+disjunctive than was in fact the case.
+     There is a broad change in the character of the data with
+the onset of the Urban Revolution. Individual settlements char-
+acteristically increased in    both size and complexity, raising a
+host of problems concerned with the representativeness of ar-
+cheological samples that, at least      it   is   assumed, are distinctly
+
+             THE PROBLEM AND THE EVIDENCE                                29
+
+less    important for earlier periods. Monumental buildings, for
+example, represent at best a small fraction of the spectrum of
+activities associated with an urban center, but it is equally clear
+
+that an archeological reconstruction of urbanism that does not
+pay them close attention neglects one of the primary symbols,
+or even a central component, of the Urban Revolution itself.
+The problem of properly balancing work on monumental struc-
+tures with other types of excavation, it might be pointed out, is
+an especially thorny one because of the attraction that temples
+and palaces have always had for archeologists with individual
+reputations to establish and museums to fill.
+       Other sampling problems arise from the trend toward social
+differentiation.    New crafts appeared, each with its own increas-
+ingly     autonomous and complex techniques and traditions, ex-
+tending both the material inventory and the range of specialties
+for which adequate documentation         somehow must be supplied
+from the incomplete and badly preserved record. With increas-
+ing social stratification, too, the problem arises whether an
+individual house or       tomb is properly representative of a par-
+ticular class or status group, so only a vastly expanded number
+of such features can hope to provide as representative a pic-
+ture as we assume is available for early villages from more or
+less    random, small-scale exposures.
+       Finally,   urban societies are involved in an unprecedented
+geographical range of cultural-ecological interactions. Hence,
+problems of sampling also arise in assessing the role of raw ma-
+terials    brought from great distances or in seeking to evaluate
+the complementarity of a variety of specialized subsistence
+sources serving the urban center.
+       The   notorious   archeological preoccupation with temples,
+tombs, and palaces sets its stamp on the interpretation of all
+later developments that the Urban Revolution inspired. The ap-
+
+proach to the study of        civilizations   characteristically   is   con-
+ducted with big picks and large, inadequately supervised work
+groups rather than with trowels and paintbrushes primarily
+
+30                    The Evolution of Urban Society
+
+in the    hands of students and specialists. As the ratio of spe-
+cialists to    work force and excavated area falls, there is neces-
+sarily   a radical reduction, on the basis of dubious aesthetic
+criteria, in   the excavated data that ever are preserved, studied,
+and published. And as this reduction implies, there is an in-
+creasing preoccupation with narrow,              elitist   political    and   cul-
+tural traditions in their monumental repositories.
+      In short, the increasing urgency of the sampling problems
+occasioned by the progress of the Urban Revolution is met with
+some increase in the scale of exposures but otherwise is only
+reinforced by an increasingly arbitrary selectivity.                   Were we
+confined to archeological data of the earlier type alone for the
+study of early cities, we would have to acknowledge that there
+are increasing sources of distortion           whose cumulative           effects
+
+upon our capacity        to   reconstruct      cumulative sequences            of
+change are difficult to estimate but certainly large.
+      This dismal prognosis     fails   to materialize       because of two
+new features: the appearance of writing and the advent of rep-
+resentational art. The latter is much the less important, but it
+is   also more uniform in its effects upon interpretation and hence
+may be considered first. Whether it takes the form of murals or
+sculpture, glyptic or ceramics,         its   content, formal symbolism,
+and style in both Mesopotamia and Mesoamerica combine to
+suggest for most of it a genesis in myth and ritual rather than
+an objective, secular orientation. As such, even though much of
+the art portrays individual       human protagonists,            it    reinforces
+previously existing biases toward religious institutions and cere-
+monies.
+      To be sure, secondary inferences may permit an enhanced
+understanding of other social institutions as well— for example,
+uniformity and refinement of craftsmanship                 may suggest the
+degree to which full-time specialists were available to be as-
+signed to this aspect of ritual activity, or differences in costume
+and other details of portraiture may suggest aspects of the pre-
+vailing system of social stratification.         But even when that is
+
+              THE PROBLEM AND THE EVIDENCE                               31
+
+possible, art focused      on myth and ritual creates special prob-
+lems of distortion in the study of sociocultural change. It tends
+to deal      mainly with traditiOnalized, symbolic themes, which
+probably always were most resistant to change. In so doing, it
+avoids representation of other activities, particularly in the po-
+liticaland economic sectors, which we might expect to find
+most sensitive to the trends at the core of the Urban Revolution.
+Useful and important as representations in art are, therefore,
+their primary contribution      is   not to the interpretation of broad
+institutional patterns      but to the    fuller   understanding of the
+same limited range of ritualized activities that the remainder
+of the archeological record already tends to overemphasize.
+      What saves the situation— indeed, transforms it— is the avail-
+ability of written evidence.         Let us briefly consider   its   effects
+
+for each area. In      Mesopotamia, the so-called Protoliterate texts
+of the terminal fourth millennium b.c.         embody a still-primitive
+system of communication; some of them can be identified as to
+general subject matter, and individual signs can be identified
+on the basis of later developments, but translation in the full
+sense is not possible. With progressive refinements in the cunei-
+form      script   during the Early Dynastic period,     it   emerges by
+about the middle of the third millennium as a versatile and rea-
+sonably unambiguous writing system, however incomplete and
+imperfect present understandings of it still may be. Hence there
+was a corresponding expansion in the range of uses to which it
+is   put. By soon after the middle of the third millennium it still
+consisted, in the main, of massive numbers of briefly noted eco-
+nomic accounts and transactions, but now there also were myths,
+epics, dynastic lists, syllabaries, land deeds, and royal records
+
+which, if not themselves historical in intent, nevertheless pro-
+vide the basis for reconstructions of political history.
+      By the later Early Dynastic period of Mesopotamia, the
+written evidence has immeasurably enlarged and enriched the
+available archeological record. Phrased differently, archeological
+evidence begins to serve mainly as loose corroboration for basic
+
+32                   The Evolution of Urban Society
+
+patterns of social organization         (e.g.,        social stratification)    in-
+
+ferred from texts that take the societal context completely for
+granted and hence that present           it    to us only in a very frag-
+mentary fashion. But the opposite approach would not be
+possible;   the unfolding world of social interaction that the
+documents reveal, even if only fragmentarily as yet, would be
+forever lost if we had only the archeological record.
+     Alongside these rich potentialities for interpretation provided
+by the cuneiform documents, and                    less    often recognized, are
+distortions that are inherent in the incompleteness of the re-
+covered archives and in the narrowly specialized activities they
+record. In the first place, the extent of controlled excavations is
+still   minute in relation to even the most important ancient
+cities.   Therefore the written evidence                  is   always fragmentary
+and tends to be limited to brief chronological intervals at scat-
+tered sites, between which synchronisms and direct comparisons
+are difficult to establish. Also, there is considerable danger that
+what are interpreted as general conditions                      in fact   may have
+been of strictly local or temporary application.
+     There is a second source of error or uncertainty of equal
+importance. Not merely the literary texts but also those of an
+economic or administrative character concentrate upon the ac-
+tivities of elite   groups and undoubtedly fail to provide a bal-
+anced representation even of those. Insofar as the activities of
+a general public can be perceived at all in such records, they
+are obviously activities that       somehow were important in rela-
+tion to state institutions;   it   follows that an accurate assessment
+of the real importance of such institutions in the lives of ordinary
+persons is extremely difficult or impossible. Further to obscure
+the tasks of reconstruction, there            is   no necessary relationship
+between the scale or importance of activities and the extent to
+which it was felt necessary to record them. Not a single account
+has come to light, for example, of the obviously large and thriv-
+ing pottery industry that has provided so large a proportion of
+the grist for all the mills of the archeologists. Or, again, there
+
+              THE PROBLEM AND THE EVIDENCE                              33
+
+are virtually innumerable accounts of the receipt or disburse-
+ment of grain and animals, but administrative documents deal-
+ing with fresh, non-storable vegetables arc noteworthy by their
+absence. 3 What we have, in short,          is   highly fruitful and often
+tantalizingly detailed, but        we must recognize also that it is
+highly selective. And, regrettably but not suprisingly, the small
+class of ancient scribes were not sufficiently detached from their
+
+social setting to     have left us a description of the principles by
+which that selection was made.
+     In Mesoamerica the situation is different.         The earliest sub-
+stantial corpus consists of the inscriptions of the Maya "Classic"
+
+period, roughly a.d. 300-900.          Thus far only their calendrical
+aspects      have been unequivocally deciphered,              although the
+earlier view that on the whole they were purely of a ritual char-
+
+acter is giving way to the belief that they record a substantial
+amount of political information as well. Pending decipherment,
+however, they will remain at best a minor resource that is mainly
+useful in establishing a secure and accurate chronological basis
+for archeological research in the         lowland Maya area.
+     For the entire remainder of the prehispanic period in Meso-
+america, only a score or so of indigenous documents are known
+to   have survived the destruction— planned            as well as   merely
+thoughtless— of the Spanish Conquest. As the accidents of dis-
+covery would have it, these are primarily concerned with reli-
+gion, calendrics,      and divination. Of the four large Aztec and
+three Maya codices known to have been preserved, for example,
+only one of the former and none of the latter treats historical
+events.  With an acute consciousness of what may have been
+lost, in other words, we must turn away from indigenous pre-
+
+hispanic sources as a substantial basis for societal interpretation.
+   What is left are the post-Conquest sources. While internal
+contradictions and lacunae may abound to the eye of the spe-
+cialist,    the summary impression is of a richness and variety far
+
+
+     3. I   am indebted to Miguel Civil for these examples.
+
+34                   The Evolution of Urban Society
+
+surpassing anything available in the Near East. In such ac-
+counts of the Conquest        itself,   for example, as that of Bernal
+Diaz or of Cortes in his letters to Charles V, we learn not only
+                         Mexican state but also much of its
+of the death throes of the
+mode of organization in full flower just prior to that time.
+Through sixteenth-century Spanish eyes— not the eyes of mod-
+erns, to be sure, but far closer to our own time and point of view
+
+than anyone who ever reported on the city-states of early Meso-
+potamia—we learn of at least the external appearance of an in-
+tegrated social system functioning over a wide area.
+     Essentially complementary to this are the encyclopedic com-
+pilations of indigenous customs          and beliefs compiled by mem-
+bers of Spanish ecclesiastical orders. The great work of Sahagun,
+for example, not only sets forth in richly           documented         detail
+the day-to-day life of a wide variety of social strata and spe-
+cialized groups but also deals          comprehensively— if not without
+obvious bias— with belief systems and the world of speculative
+thought. As an effort at integration and synthesis that is almost
+"ethnographic" in scope and intent, again there                is   absolutely
+nothing that remotely approaches it in the entire body of cunei-
+form literature.
+     A third major category consists of quasi-historical accounts,
+complied and plagiarized, not always              critically    or   disinter-
+
+estedly, by native authors after the Conquest. In these conven-
+tionalized and often contradictory accounts of dynastic succes-
+sion and tribal wanderings the student of Mesopotamian society
+would find himself on more familiar ground. Particularly for
+periods earlier than the century or less immediately preceding
+the Conquest, there     is   the   same problem of separating myth
+from history as arises in connection with the early Sumerian
+city-states.   There is a very similar problem in interdigitating
+dynastic lists for separate towns and areas into an intelligible
+overall chronology. Still a further          common limitation within
+which the historian must work in both Mesopotamia and Meso-
+america is the narrowness and somewhat arbitrary quality of
+
+               THE PROBLEM AND THE EVIDENCE                              35
+
+what Leo Oppenheim (1960) has termed the recorded "stream
+of tradition." Finally, the beginning of the recorded flow is tan-
+talizingly late, particularly in central          Mexico where even the
+immense urban center of Teotihuacan is altogether prehistoric.
+Given the limited         intelligibility   of the   Protoliterate   tablets
+from Mesopotamia, this situation, too, is relatively similar.
+       In spite of the similarities of this last category of "historical"
+writings to those of Mesopotamia,           it   must be emphasized that
+the effects of the entire corpus of documentary sources upon an
+understanding of Mesoamerican society differ sharply from its
+effects in     Mesopotamia. For the synthetic reconstruction of in-
+digenous patterns of political and economic organization in the
+period immediately prior to the Conquest, we are incomparably
+better equipped in       Mesoamerica than for any period in Meso-
+potamia.       On the other hand, for certain types of quantitative
+studies, particularly of specialized    economic relationships, we
+are at least potentially in a better position in Mesopotamia.
+And, more important, the Mesopotamian data permit the study
+of longer-term developmental trends (at least insofar as they
+are dependent on documentary sources ) than do those in Meso-
+america.
+       Thus it appears, in summary, that there are real and im-
+portant factors limiting the comparability of data on the Urban
+Revolution in Mesopotamia and Mesoamerica.                A "contextual"
+account, as opposed to a more narrowly focused "textual" one,
+is   possible for Mesoamerica during the relatively short span of
+years immediately preceding the Spanish Conquest. Perhaps
+the especially full elaboration of the structure and functioning
+of late prehispanic society       owes something also to the anthro-
+pological tradition within which        much of the data has been
+studied. But, important as the Spanish sources are, their short
+time perspective imposes severe limits on interpretation. Above
+all,   it   leaves us without an adequate basis on which to assess
+the rate at which the society was increasing in complexity or
+coming to be dominated by new institutional patterns. Hence
+
+36                        The Evolution of Urban Society
+
+the fundamental cleavage between characterizations of Aztec
+society as primitive         and tribal or advanced and monarchical,
+dating from the days of Morgan and Bandelier, on the one hand,
+and Prescott and Bancroft, on the other, remains not fully re-
+solved today.
+      Was Tenochtitlan the center of a chiefdom or the capital of
+a    still    primitively organized but increasingly formidable           em-
+pire? Surely in the early to mid-fifteenth century the former
+description       is   correct, but   how extensive and basic were the
+changes during the intervening century before the decapitation
+of the society at the hands of the Spaniards? Partly, of course,
+it   may be a matter of definitions, but partly also it reflects the
+ambiguity that          arises   from the projection of trends across so
+short        and poorly known a period. In any case, for the much
+longer span of development leading up to the founding of Tula
+in the tenth century we must depend almost exclusively on the
+
+unaided data of archeology, from which developments in the
+crucial sociopolitical sphere can           be inferred only with much
+effort       and considerable uncertainty.
+      In Mesopotamia, on the other hand, it is the "textual" point
+of    view that predominates           in all historical periods.   At   least
+
+partly because of problems inherent in the study of the early

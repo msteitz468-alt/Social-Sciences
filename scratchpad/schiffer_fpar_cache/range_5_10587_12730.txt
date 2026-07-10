@@ -1,0 +1,2144 @@
+Chapter 8
+
+Environmental Formation Processes: The Site
+
+
+
+
+
+Introduction
+
+
+
+
+
+Like artifacts, sites (and settlements) interact with and are affected by processes of the natural environment. Because the site is such an important unit of data recording and often analysis, an understanding of the environmental formation processes having major effects on sites is a prerequisite for most behavioral inferences. In treating site-level environmental processes, one asks three basic questions: (1) What noncultural processes contributed materials, as ecofacts, to the deposits? (2) What noncultural processes modified the deposits? and (3) How did noncultural processes affect behavior at a settlement, especially maintenance and depositional processes? In order to help answer these questions, this chapter sets forth basic principles governing the environmental formation processes of sites.
+
+
+
+
+
+Primary and Secondary Deposition
+
+
+
+
+
+An appreciation for large-scale effects of site-level processes has long been present in the discipline. This concern is reflected in the venerable distinction between primary and secondary deposits or sites. Primary deposits were formed by cultural deposition at that place, whereas secondary deposits contain materials redeposited by environmental processes, usually flowing water. Many Paleolithic sites, for example, are secondary deposits consisting of artifacts that have been abraded and sorted by stream action (Shackley 1978).
+
+
+
+
+
+The distinction between primary and secondary sites is useful, but one must be wary of the temptation to assume that all artifacts in primary
+
+
+
+
+
+Page 200
+
+
+
+
+
+sites are at their locations of cultural deposition. Investigators who make this assumption are not apt to seek or recognize evidence for the occurrence of more subtle environmental disturbances, such as the action of roots, tree falls, and burrowing animals on all shallow sites in forests. Needless to say, few artifacts in such a site would be found at their precise loci of cultural deposition. In the present work, then, a primary site is a place that could have experienced many environmental disturbances but where overall artifact movements are small on a regional scale.
+
+
+
+
+
+Soils and Sediments
+
+
+
+
+
+To the field archaeologist the most obviousand often the most abundantconstituent of a site is dirt (Renfrew 1976:4). Dirt, properly called soil or sediment, is the subject matter of sedimentology. Although archaeologists use the terms soil and sediment synonymously, it is important to distinguish between them (Butzer 1971). Following Whittlesey et al. (1982:28), ''soils are deposits physically and chemically altered in situ,'' whereas sediments "are collections of mineral particles that have been weathered from an original source and redeposited." Pedogenetic (soil-forming) processesmainly biological and chemicalare responsible for transforming sediments into soils. When there is any doubt, archaeological dirt should be called sediment.
+
+
+
+
+
+There is a substantial and rapidly growing literature that treats soils and sediments in archaeology. Hassan (1978) and Stein (n.d.) furnish useful article-length introductions to the subject, whereas case studies are found in Stein and Farrand (1985), Davidson and Shackley (1976), and Rapp and Gifford (1985). In addition, Limbrey (1975) surveys sediments in a lengthy book that focuses on processes prevalent in Great Britain. Information on traditional analytic techniques is supplied by Shackley (1975), and geochemical perspectives are provided by Wildesen (1973), Eidt (1984), and Carr (1982). Other volumes of interest include Butzer (1971, 1982) and Pyddoke (1961). Recent emphases in geoarchaeology strive to integrate both cultural and environmental processes in explanations for the characteristics of archaeological sediments (Bullard 1985; Whittlesey et al. 1982; Stein 1985).
+
+
+
+
+
+The first human activities at any site were carried out on a surface of natural sediments or substrate. Substrate materials may have weathered in place from underlying bedrock or they may have been moved from their place of origin by wind, water, or other processes (Bullard 1970). Hassan (1978:199) lists sediments formed by a variety of natural processes, including pyroclastics (e.g., volcanic ash), evaporites (e.g., salts), precipitates (e.g., travertine), and clastic sediments (e.g., clay, silt, sand, and gravel). Although the latter category of sediments is the most abundant
+
+
+
+
+
+Page 201
+
+
+
+
+
+in nearly all environments, archaeologists do encounter specialized sediment types of a more limited distribution. For example, many small islands in Polynesia and Micronesia are composed entirely of sediments derived from coral reefs.
+
+
+
+
+
+If a sediment (parent material) was in place for centuries or longer, a true soil has probably formed, which can be identified on the basis of distinct horizontal zones or horizons. Three basic soil horizons are recognized. The A horizon is the uppermost zone, where plants contribute decaying organic matter and where there is a great deal of microbiological and chemical activity; this horizon is generally dark because of a high organic content. The B horizon is next, composed of the smaller particles and chemicals moved downward from the A horizon by the percolation of water. It is likely to be lighter in color, more compact, and less organic than the A horizon. The C horizon is the zone of parent sediment that has been little altered by those chemical and biological processes active on and near the surface. In some extreme environments, such as the Atacama desert of northern Chile, soils do not form because there is no biological activity adding humic material to the surface and no water to move it downward.
+
+
+
+
+
+Attributes of sediments such as texture and color furnish evidence on the nature of the environment at the time of sediment deposition and soil formation. Early studies of archaeological sediments, relying upon these characteristics, were directed toward paleoenvironmental reconstruction (Stein 1985). The specific constituents of a sediment, such as mineral types, also furnish information about its origin(s).
+
+
+
+
+
+After the abandonment of a settlement, additional sediments are deposited by cultural and noncultural processes. Indeed, a frequent question posed by lay people to the field archaeologist is, Where did the dirt come from? This is a good question, and one that the archaeologist should strive to answer for specific deposits (Bullard 1970). Wind and water, abetted by gravity, are the two principal noncultural agents responsible for depositing sediments in archaeological sites (see also Chapter 9). In arid lands, the wind supplies vast amounts of silts and sands to sites, especially those that contain the remains of structures. On much of the Colorado Plateau, for example, the noncultural sediment in pueblo room fills is predominantly eolian sand. During the excavation of the Joint site (Hanson and Schiffer 1975), 5 cm of eolian sand would sometimes accumulate in the corners of open rooms after just a weekend. Rainwater and floods can also supply sediments to sites. Gifford (1978) and Gifford and Behrensmeyer (1977), for example, describe the deposition of floodwater sediments on a Dassanetch camp site in East Africa that had been recorded ethnoarchaeologically. Fluvial processes are also agents of transport and disturbance.
+
+
+
+
+
+Page 202
+
+
+
+
+
+Certain cultural constructions, employed to control the flow of water, inevitably alter natural patterns of sediment deposition in sites (and regions). For example, the artificial lakes behind dams experience massive sediment accumulations. In addition, vast amounts of sediments can be diverted by canals, especially in arid lands. For example, Dart (1986) has shown that certain mapped soil types in the Salt-Gila basin of southern Arizona, closely associated with canals, resulted from Hohokam irrigation and canal-maintenance practices.
+
+
+
+
+
+In addition to water and wind, Butzer (1982:80) lists several additional agencies responsible for bringing mineral sediments into sites: human feet, hide and fur of game animals, feces, mud wasps, and nesting birds. To these can be added burrowing animals and detritus from the weathering of roofs in caves and rockshelters (see, e.g., Laville et al. 1980). Some of these agents, it should be noted, can also remove or erode sediments. Processes of cultural deposition, reclamation, and disturbance also contribute substantially to the sediments in sites (Chapters 5 and 6). The immediate sources of such sediments are nearby alluvium brought in for construction (Davidson 1976; Stein 1985) and previously deposited materials from other portions of the site, including "floor sweepings" (Green 1961a) and displaced refuse or subsoil (South 1977).
+
+
+
+
+
+Another major source of sediments is the deterioration of artifacts, including structures. In every case of decay (Chapter 7), there are decay products: humus from wood and other organic materials (e.g., post-molds); oxides, sulfates, and carbonates from the corrosion of metals; and detritus from the rotting of rock and ceramics. In addition, the deterioration of many structures (see below) leads to the formation of mineral-rich sedimentary deposits both within and beyond their original walls. For example, stone building materials susceptible to freeze-thaw damage will exfoliate, creating distinctive sediments adjacent to the walls. Figure 8.1 shows a deposit of sandstone detritus from the wall of an occupied building in Ouray, Colorado. The deterioration of adobe and other mudwall structures, of course, is responsible for impressive sediment accumulations, as in Near Eastern tells (Fig. 5.1). One can see in Figure 8.2, for example, how material eroding from adobe bricks has been deposited on the floor of an abandoned structure. The collapse of an adobe wall has formed a distinctive deposit outside the structure in Figure 8.3. Deterioration processes, it must be stressed, contribute significantly to the formation of archaeological sediments.
+
+
+
+
+
+Once deposited, sediments can also be transported and redeposited by noncultural processes within sites, depending on the local topography, nature of the sediments, and prevalence of flowing water. In most regions, rainfall provides a source of water that can be a potent force in removing
+
+
+
+
+
+Page 203
+
+
+
+
+
+Fig. 8.1.
+
+Freeze-thaw deterioration of sandstone blocks has formed a sedimentary
+
+deposit on the sidewalk adjacent to an occupied building in Ouray, Colorado.
+
+
+
+
+
+finer particles, including cultural materials, from higher ground and redepositing them elsewhere, even off the site. Whittlesey et al. (1982) describe the processes of erosion and deposition that contributed to the distinctive character of plaza deposits at the Grasshopper site in east-central Arizona. Open pits, quarry areas, and other low spots are filled by water-lain sediments; after a rain, one can find areas of standing water in most sites where deposits of silts and clays are forming (Fig. 8.4). Close study of the microtopography of a site and its changes through time furnishes evidence on the sources of particular sediments (Whittlesey et al. 1982). It should always be kept in mind, however, that one of the most significant agents of sediment transport within sites is human behavior.
+
+
+
+
+
+Pyddoke (1961:112) outlines perhaps the simplest and most important principle concerning the cultural transport and deposition of sediments: "Earth dug from a grave or ditch, when thrown back, will always be found to be more than will fill the hole from which it camebut, partly under its own weight, partly as a result of the washing in of rain, and partly as a result of trampling, it will slowly settle." This principle can be generalized as follows: most culturally deposited sediments, whether lacking
+
+
+
+
+
+Page 204
+
+
+
+
+
+Fig. 8.2.
+
+Erosion of adobe bricks has created a sedimentary deposit
+
+on the floor of this structure at Concho, Arizona.
+
+
+
+
+
+artifacts (the "displaced subsoil" of South [1977]) or containing artifacts, will gradually become more compact. This occurs because, in contrast to water-lain sediments in nature, most culturally deposited sediments are poorly sorted (and very porous), and so can settle if pressure or water is applied. In addition, many cultural sediments contain organic matter whose decay leads to further compaction. The gradual loss in volume of cultural sediments is dramatically shown by the experimental earthwork at Wareham, England, where sections drawn at intervals from 1 to 9 years after construction indicate substantial shrinkage (Evans and Limbrey 1974).
+
+
+
+
+
+When modern contractors build on fill or "made ground" (Pyddoke 1961:112), they spread out the fill material in thin layers, water it down, then compact it with heavy machinery to minimize any future slumping. Although preindustrial societies may have sometimes exercised similar precautions when erecting structures on fill, many times they did not. The frequent result seen by the archaeologist is slumped and cracked architecture as well as "repair deposits" where fill has been added later.
+
+
+
+
+
+Another relevant principle, implied by the Pyddoke quotation and
+
+
+
+
+
+Page 205
+
+
+
+
+
+Fig. 8.3.
+
+The collapse of an adobe wall created a large sedimentary
+
+deposit outside this structure at Concho, Arizona.
+
+
+
+
+
+known to every field worker, is that trampling by a settlement's occupants greatly compacts most sediments, leading to recognizable occupation surfaces that can form on some cultural or noncultural deposits (see Chapter 6).
+
+
+
+
+
+After deposition by cultural or noncultural processes, sediments can undergo still more drastic changes that affect the nature of a site. One process, regrettably common in caves, is the formation of a chemical binder that solidifies the deposits. Shackley (1981:30) describes the workings of this process for the Devil's Lair site: "precipitation of calcium carbonate from dripping water had percolated into the quartz sands, forming a knobbly rind around the individual grains. These rough surfaces interlocked, giving stability to the whole series, and eventually the grains
+
+
+
+
+
+Page 206
+
+
+
+
+
+Fig. 8.4.
+
+Erosion of a steep artificial bank (upper) by
+
+rainwater in Chinle, Arizona, has created two
+
+distinctive sedimentary deposits: (1) coarse
+
+slopewash of sands and gravels (middle) and
+
+(2) a bed of fines with a high silt
+
+and clay content (lower).
+
+
+
+
+
+were bound together both chemically and physically." In effect, the induration of deposits by calcareous material can transform an archaeological deposit into rockbreccia or conglomerate. For example, the South African deposits that yielded and continue to yield australopithecine remains are limestone breccia (Brain 1981). Hominid fossils were originally discovered there as a by-product of stone-quarrying activities, which employed explosives. Additional examples of lithified sites are furnished by Hughes and Lampert (1972), Jelinek et al. (1973), and Shackley (1981). On the other hand, many noncultural processes (see below) can decrease the compaction of sediments. For example, shallow sites may experience reduced compaction as the A horizon forms (Julie Stein, personal communication, 1986).
+
+
+
+
+
+Pedoturbation
+
+
+
+
+
+Regardless of their mode of deposition or specific composition, sediments and soils are subjected to a host of disturbance processes that alter horizons and move particlesincluding artifacts of various sizes. This large family of processes is known as pedoturbation, which means mixing of soils and sediments (Wood and Johnson 1978:317). The following discussion draws extensively on Wood and Johnson's (1978) synthesis of pedoturbation. Although "disturbance" is ordinarily regarded as mixing, additional effects of these processes are also considered in the following
+
+
+
+
+
+Page 207
+
+
+
+
+
+discussion, such as the introduction of ecofacts and the rearrangement of surface materials.
+
+
+
+
+
+Faunalturbation
+
+
+
+
+
+A host of animals spend all or part of their life in the soil, and so can profoundly affect cultural deposits. Each species of animalwhether gopher, squirrel, or earthwormsurvives under specific environmental conditions, and their presence can be expected whenever those conditions are met (Stein 1983). For example, "The number of earthworms in an area depends on several factors: temperature, moisture, soil reaction (pH), and vegetation" (Wood and Johnson 1978:327). Statewide and regional summaries of fauna provide guidance regarding the animals that can impinge on sites, and these sources can be supplemented with field observations.
+
+
+
+
+
+Most archaeologists are somewhat familiar with the disturbances caused by burrowing animals, but few have developed a thorough understanding of their impacts on specific sites. Fortunately, this situation is beginning to change. In recent works, Stein (1983) studied earthworm behavior and its effects on the Carlston Annis shell mound in Kentucky; Bocek (1986) and Erlandson (1984) investigated effects of rodents on sites in coastal California; and Szuter (1984) looked into rodent behavior in relation to Hohokam sites in southern Arizona. These and similar studies have shown that each species of burrowing animal has characteristic behavior patterns relating to size and depth of burrows, rate of burrowing, density in the region, and materials brought into burrows, and so may have relatively distinctive effects on archaeological deposits (Rolfsen 1980).
+
+
+
+
+
+For archaeological purposes it is convenient to distinguish between burrowing animals that forage on the surface versus those that forage in the subsurface. Although the specific behavior patterns differ among species, these overarching types do represent animals having grossly different kinds of impacts on archaeological deposits (see Bocek 1986).
+
+
+
+
+
+Subsurface foragers such as gophers and some kinds of earthworms spend most of their life in the soil, obtaining nutrition entirely from underground sources like roots, decaying organic matter, and other burrowing animals. Subsurface foragers have a number of major effects on sites, of which the most far-reaching is the vertical movement of the sediment constituents (see Erlandson 1984), especially the smaller particles. These animals tunnel for food incessantly, churning the soil at a high rate. For example, in areas where worms are abundant, "soil material is passed time and again through their systems every few years" (Wood and Johnson 1978:325). Sites that have been affected for substantial periods by subsurface foragers will exhibit severely disturbed deposits ex-
+
+
+
+
+
+Page 208
+
+
+
+
+
+tending from the surface to a depth of 40 cm or more. The ability of earthworms to utterly blur boundaries of shallow pit features and various strata is, of course, well known. In addition, as the tunnels of larger, deep-burrowing animals fill in or collapse, some artifacts will move downward, below the original base of the cultural deposit. As Bocek (1986) notes, these various effects are complicated by diverse rates of cultural and noncultural deposition.
+
+
+
+
+
+Another major effect is that many subsurface foragers constantly deposit spoil dirt or casts on the surface, which eventually leads to vertical zonation as larger particles sink or are buried. Various sources report that earthworms can deposit annually 1-25 tons of casts per acre on the surface (Wood and Johnson 1978:325-327). Gophers place soil and even small artifacts on the surface (Bocek 1986). After sustained action by subsurface foragers, pavements of larger particlesthose not deposited on the surfacewill form near the bottom of their activity zones. The cobble features created by gophers, for example, strikingly mimic cultural constructions (Bocek 1986). Animals that live exclusively underground will probably die there as well (unless removed by predators); in one site, patterning in gopher bone is consistent with a noncultural origin (Bocek 1986).
+
+
+
+
+
+In contrast, surface foragers, which include prairie dogs, rabbits, foxes, ants, termites, and many rodents, build a relatively small number of tunnels that contain nests. Such tunnels may extend to great depths; ants and termites, for example, can burrow as deep as 2 m (Wood and Johnson 1978:321). Nevertheless, most mammals do not burrow below about 1 m (Szuter 1984:153). Although tunneling by surface foragers can sometimes cause damage approaching that of subsurface foragers, the effectsat least in the short runare somewhat different. Because overall tunneling rates are reduced, surface foragers do not completely churn the deposit. Instead, they leave behind peculiar features, or filled-in burrows known as krotovina. The distinctive fill of krotovinas, which derives from surface materials and adjacent parts of the deposit, is introduced by wind, water, and other depositional processes, and permits the recognition of these features in archaeological profiles (Fig. 8.5). Krotovinas are also produced by subsurface foragers, but these are rapidly obliterated by further tunneling. Ironically, the traces of burrowing animalskrotovinamay be more obvious where damage overall is somewhat less. Nevertheless, in both cases, unmistakable traces of burrowers at work are portals and backdirt piles on the surface (Fig. 8.6). It should also be noted that because surface foragers are subject to predation above ground, their bones should seldom occur in burrows (Szuter 1984).
+
+
+
+
+
+Some surface foragers build tunnels at prodigious rates and their effects more closely resemble those of subsurface foragers. For example, when excavating sites in the forests of east-central Arizona, one encounters
+
+
+
+
+
+Page 209
+
+
+
+
+
+Fig. 8.5.
+
+Krotovina in the section of Mound 40
+
+at Snaketown, Arizona. (Photo by Helga
+
+Teiwes, reproduced with permission
+
+of the Arizona State Museum)
+
+
+
+
+
+large numbers of insects in their burrows, and it is clear that their activities have contributed to the homogenization of soil horizons to a depth of 2040 cm. In addition, over long spans of time, the surface feeders may also create pavements. For example, Wood and Johnson (1978:324-325) call attention to buried "stonelines" in some tropical areas that are believed to be the result of termite action on a geological time scale.
+
+
+
+
+
+Still other animals, although not regarded as burrowers, nonetheless disturb the surface of the ground and can collect or rearrange surface materials. Fernanda Falabella (personal communication, 1985) has called attention to birds as disturbance agents, and I have made some observations of bird behavior in Tucson relevant to this issue. Birds that dig in search of grubs can cause surface disturbances. In a two-minute period I observed a thresher excavate with beak and foot a pit 3.5 cm deep and 6 cm wide in unconsolidated sediment next to a tree. In the process two large pebbles were displaced. Some birds also take dust baths to remove excess oil, creating sizable "wallows" (Fig. 8.7). Other kinds of birds (as well as packrats and porcupines) remove artifacts for use elsewhere as nesting material. For example, sparrow nests in Tucson often contain hair, string, textile fragments, and even cellophane. Because birds nest in abandoned structures, they can introduce both ecofacts and artifacts.
+
+
+
+
+
+Nash and Petraglia (1984) recently inaugurated an experiment to study the effects of natural processes, including faunalturbation, on surface artifact distributions in a pinyon-juniper woodland environment in New
+
+
+
+
+
+Page 210
+
+
+
+
+
+Fig. 8.6.
+
+Dipodomys sp. colony with some evidence of badger burrowing at
+
+an Archaic site in the Picacho Reservoir study area, southern
+
+Arizona (Bayham et al. 1983). (Photo by Frank Bayham)
+
+
+
+
+
+Mexico. By monitoring their artificial lithic sites weekly, the investigators have been able to pinpoint some of the agents responsible for specific artifact disturbances. During the first four months of observation, animal disturbances accounted for the most frequent and most significant impacts. As examples, Nash and Petraglia noted that a packrat moved two flakes 23 m to its nest, ants appreciably dispersed microflakes, and bobcats and other animals moved artifacts by trampling. Their study suggests that nonburrowing animals will be implicated in a wide range of surficial disturbance processes.
+
+
+
+
+
+Floralturbation
+
+
+
+
+
+The principal pedoturbatory action of living plants is root action (Pyddoke 1961). As is well known, tree roots can crack and tilt modern sidewalks; growing tree roots also exert inexorable pressure on buried artifacts, moving them aside. Such movements are probably small but nonetheless contribute to overall disturbances. If a root decays in place after the death of a tree, it will leave a krotovina-like feature known as a root cast.
+
+
+
+
+
+Page 211
+
+
+
+
+
+Fig. 8.7.
+
+Bird wallows in Tucson, Arizona.
+
+
+
+
+
+One of the most striking effects of tree growth is to obscure sites completely, as leaf litter and other organic matter accumulate (see Chapter 9). Needless to say, such processes make the determination of site boundaries without excavation quite difficult. In the Maya area, very large sites, even those with monumental architecture, have been ''lost'' to jungle growth and must be reclaimed by archaeologists wielding machetes and axes. Coping with vegetation, especially tree roots, is a common occurrence in many excavations. In wooded sites excavation units are often placed so as to avoid large trees or their roots. The influence of vegetation patterns on surface-collection techniques and intrasite sampling designs is a topic worthy of much more study.
+
+
+
+
+
+Trees exert their greatest influence on sites after death (Strauss 1978). When trees are toppled, usually by wind, the network of roots that rigidly embraces cultural materials is pried upward and those materials are deposited gradually on the surface. There are several reasonably predict-
+
+
+
+
+
+Page 212
+
+
+
+
+
+ably consequences of "tree throw" on site topography and on artifact distributions. Wood and Johnson (1978:328) describe the formation of cradle-knoll topography, which is a microrelief common in many forested areas: "The natural falling of dead trees may leave shallow depressions where roots and adhering rock and soil are torn up. . . as the trees decompose, adhering soil and regolith settles to form mounds of low relief." Over long spans of time, tree fall may be responsible for moving vasts amounts of sediment. Moreover, tree-fall features could be mistaken for cultural constructions, as Pyddoke (1961:85) cautions:
+
+
+
+
+
+Such hollows with the earth-filled root-fan to act as a windbreak would present an inviting spot for a flint-knapper to squat: those who investigate discoveries of Mesolithic flints in what are claimed to be irregular huts with floors scraped out below the level of the surrounding ground should recall this fact and consider whether some 'post-holes' may not, in fact, be root-holes.
+
+
+
+
+
+Tree-fall processes also contribute to artifact movement; their principal effect is that of redepositing on the surface of a site materials that adhered to the roots. This process leads not only to mixing and instances of inverted horizons, but also to the accumulation of both larger artifacts and unmodified stone, sometimes forming pavements on the surface. If earthworms or other subterranean foragers are also active in such areas, larger artifacts and stones can cycle up and down over long time periods. For a useful discussion of tree throw and its effects on sites in the Northeast, see Strauss (1978).
+
+
+
+
+
+Growth of vegetation also contributes to soil formation and the deposition of ecofacts in sites. As is well known, weedy plants colonize activity areas and become dominant after such places have been abandoned. Indeed, distinctive floral assemblages tend to characterize site locations in many environments, persisting sometimes for millennia. These weedy plants add pollen and seeds to the soil as well as decaying organic matter that becomes the humus of A horizons. Obviously, ecofacts such as pollen and seeds should not be used uncritically as indicators of regional environmental formation processes. Pollen spectra from sites may reflect only very localized cultural microenvironments or the differential sampling of complex successional processes going on at the sites themselves (Fish 1984; Fall et al. 1981; Schoenwetter 1976). In addition, plant growth is an important agent in the accumulation of sediments, slowing downand thus causing the deposition ofwind- and water-borne particles. One can also expect vegetation at times to stabilize sediments that might otherwise be transported by various agents.
+
+
+
+
+
+Page 213
+
+
+
+
+
+Cryoturbation
+
+
+
+
+
+Cryoturbation refers to a family of disturbance processes caused by freeze-thaw action, which are found in environments where the ground freezes seasonally to varying depths (Wood and Johnson 1978:334). Cryoturbation is widespread, affecting regions of higher latitudes and higher altitudes, including much of the land area of the United States (Wood and Johnson 1978:336). The precise mechanisms of freeze-thaw action on sediments and clasts are complex and will not be discussed here (for introductions, see Wood and Johnson 1978:333-346; Bowers et al. 1983). Of most concern are the main effects of cryoturbation: frost heave and thrust, involutions, and patterned ground.
+
+
+
+
+
+Frost Heave and Thrust
+
+
+
+
+
+Freeze-thaw action is a potent mover of artifacts and other clasts. The direction of vertical movement (heaving) of buried objects is uniformly upward, but the rate of movement varies according to many factors, including soil texture, soil moisture, thermal conductivity of the artifact in relation to the surrounding matrix, shape and orientation of the artifact, and rate of freezing (Wood and Johnson 1978:339-341). For example, objects with greater "effective heights"those oriented verticallywill undergo more upward displacement. Frost heave also causes artifacts to gradually assume a vertical orientation, and so, "the longer an object is buried, the greater will be its upward displacement" (Wood and Johnson 1978:340). Laboratory experiments have shown that frost heave can act relatively rapidly; in one case a 10-cm wooden peg moved upward 7.6 cm after only seven freeze-thaw cycles. In the course of centuries and millennia, artifact movements in sites could be somewhat greater. Evidently, sites subjected to freeze-thaw cycles over long spans of time will contain artifacts whose vertical locations and dips have been appreciably influenced by frost heave.
+
+
+
+
+
+The identification of frost heave is not always easy, but, as Schweger (1985:128) notes, "A northern or alpine site with large-sized artifacts nearest the surface or with their long axes oriented vertically suggests frost heave." Reid (1984:68) used artifact orientation at the Nebo Hill site near Kansas City to suggest that considerable frost heave took place. Soil-fabric analysis can also aid in the identification of frost heave (Schweger 1985:128).
+
+
+
+
+
+Although most artifacts travel upward as a result of frost heave, there is some evidence that smaller soil particles move downward in wetter soils (Wood and Johnson 1978:343). Microartifacts and ecofacts, including pollen, could also be affected by this process.
+
+
+
+
+
+In a recent experiment, Bowers et al. (1983) examined the horizontal
+
+
+
+
+
+Page 214
+
+
+
+
+
+Fig. 8.8.
+
+Cryoturbation at the Onion Portage site,
+
+Alaska. (Photo by Charles Schweger)
+
+
+
+
+
+effects (thrust) of frost movement on an artificial-surface lithic scatter in Alaska. After several years, both large and small flakes had been displaced, some by as much as 10 cm, with the majority migrating uphill. The differential melting of needle ice was suggested as the specific agent of surface movement. This finding contradicts the widespread belief that frost heave and thrust gradually contribute to downslope artifact movementsi.e., frost creep (Wood and Johnson 1978:347). However, the experimental slope was only 6.5 degrees, and the investigators did not rule out the action of other processes.
+
+
+
+
+
+Involutions
+
+
+
+
+
+One of the most striking effects of freeze-thaw actionand the most distinctive trace of the process in an archaeological siteis the "contortion, deformation, and displacement of soil and sediments" (Wood and Johnson 1978:341). In this case, one picture (Fig. 8.8) is worth a thousand words. Schweger (1985) discusses involutions and other frost features at the Onion Portage site in northwest Alaska, showing how their study can contribute to paleoenvironmental reconstruction. For an Old World example, see Laville et al. (1980).
+
+
+
+
+
+Patterned Ground
+
+
+
+
+
+Through various poorly understood processes, frost-heaved stones can assume regular geometric patterns on the surface, the cells of which can
+
+
+
+
+
+Page 215
+
+
+
+
+
+Fig. 8.9.
+
+Patterned ground can disturb sites as well as mimic cultural features.
+
+(Adapted from Wood and Johnson 1978: Figs. 9.14 and 9.16)
+
+
+
+
+
+be many meters across (Fig. 8.9). As Wood and Johnson (1978:344) note, "Five basic geometric forms are recognized: circles, polygons, nets, steps, and stripes. Each form may be sorted or unsorted, thus giving ten principal categories of patterned ground." Polygons, circles, and nets originate on level ground, whereas the elongated featuressteps and stripesdevelop on slopes (Wood and Johnson 1978:344). If patterned ground forms on a cultural deposit, the latter will be greatly disturbed. In both site and offsite areas, the "patterns" of patterned ground can mimic cultural features and mislead inexperienced workers.
+
+
+
+
+
+Page 216
+
+
+
+
+
+Graviturbation
+
+
+
+
+
+Graviturbation designates a large set of processes that lead to downslope movement and mixing of sediments "principally under the influence of gravity, without the aid of the flowing medium of transport such as air, water, or glacier ice" (Wood and Johnson 1978:346). As Wood and Johnson (1978:346) note, graviturbation includes diverse processes that create both slow and rapid downslope movement. Quick-acting processes, such as earthflows, mudflows, landslides, and rockfalls, primarily obscure sites (see Chapter 9). In contrast, many slow-acting processes greatly disturb sites over long time periods and are discussed here.
+
+
+
+
+
+Solifluction is "the slow downslope flowing of water-saturated soil and regolith" (Wood and Johnson 1978:346). It is a widespread process, especially in periglacial regions, but it can occur in all environments. One important variety of solifluction is gelifluction, the soil movement that occurs in permafrost regions; this process wreaks havoc on archaeological deposits. For example, at the Iatayet site in Alaska, "Not only is the Denbigh flint layer folded upon itself, but there are gaps in the layer where they have been entirely moved downslope" (Wood and Johnson 1978:348).
+
+
+
+
+
+Soil creep designates the results of other, poorly understood processes that lead to downslope movements not caused by frost action or other known processes (for an example from the Kalahari, see Moeyersons [1978]). Wood and Johnson (1978:349) implicate "wetting and drying, biotic activity, and erosion of fine particles by sheetwash and rills" as possible agents of soil creep. Evidence of soil creepe.g., tilted gravestones and fenceposts and trees with curved trunkshas been observed in many regions (Wood and Johnson 1978:349).
+
+
+
+
+
+Argilliturbation
+
+
+
+
+
+In soils with a high clay content one finds a distinctive type of soil mixing caused by swelling and shrinking of clay in response to seasonal changes in soil moisture. In dry seasonsand there must be a marked dry season (Limbrey 1975:220), the clay shrinks, forming large vertical cracks; in wet seasons, the clay absorbs water and expands, closing the cracks. The opening and closing of cracks creates strong soil pressures that move larger particles, such as artifacts and stones, upward. At the same time, artifacts, windblown materials, and crumbly parts of the surface fall into the cracks. Where argilliturbation occurs, there is a constant vertical flux of particles that, over long periods, leaves a pavement on the surface consisting of artifacts and stones too large to reenter the cracks. Argilliturbation can also create surface features known as gilgai, consisting of patterns of small mounds or ridges and flat areas (Limbrey
+
+
+
+
+
+Page 217
+
+
+
+
+
+1975:220) that can be mistaken for cultural constructions. Argilliturbation is a common process found in many tropical, subtropical, and temperate zones (Wood and Johnson 1978:354; Limbrey 1975).
+
+
+
+
+
+Aeroturbation
+
+
+
+
+
+Wood and Johnson (1978:358) recognize two major processes whereby disturbances are created by the action of air: "Aeroturbation occurs when soil gas disturbs the fabric of the soil, or when the wind winnows fines from the soil, leaving coarse particles behind as a mixed lag deposit. Both forms of aeroturbation occur most commonly in, but are not limited, to deserts." In the first instance, rainwater percolating into a soil may cause air bubbles in that soil to move upward, thereby displacing soil particles and moving large particles upward. There is some evidence that such processes may be responsible for forming desert pavement (Fig. 9.2). The latter consists of cobbles and pebbles on the surface, sometimes overlying a finer-textured, vesicular layer (Wood and Johnson 1978:358). The usual explanation of desert pavement formation is deflation, the removal of fine particles by wind. Indeed, wind deflation is a potent force in deserts, which results in many a site that contains artifacts only on the surface (Fig. 9.5a).
+
+
+
+
+
+Other Processes
+
+
+
+
+
+Wood and Johnson (1978) list several additional processes of pedoturbation, including artesian aquaturbation (water pressure creating involutions in boggy sites and those near springs) and crystalturbation (soil movements resulting from growth and wasting of crystals in soils) that, because of their rarity, are not discussed further here. One can also expect that new processes will be found in the years ahead, especially as experiments lead to the discovery of "turbations" whose cause cannot be readily ascertained, such as the downslope artifact movements identified by Rick (1976) in Peru. More experiments need to be carried out on sites and in laboratory settings that simulate sites. So far, much knowledge of pedoturbation comes from soil science where research interests are somewhat different. As geoarchaeologists take a greater interest in site-level disturbance processes, we can expect a great expansion of archaeologically relevant knowledge.
+
+
+
+
+
+Transformations of Pits and Structures
+
+
+
+
+
+Complex artifacts such as pits and houses are a major constituent of many sites and furnish evidence for a wide variety of inferences. In systemic context, features and structures are generally placed upon or excavated into the substrate, and deterioration processes usually lead to
+
+
+
+
+
+Page 218
+
+
+
+
+
+the deposition of sediments. Thus, the preceding discussions of sediments and pedoturbation lay a foundation for understanding the transformations wrought by environmental processes on features and structures. Additional principles, including those pertaining to artifact decay (Chapter 7), are also required for explanation.
+
+
+
+
+
+Pits
+
+
+
+
+
+Pits had diverse functions, from storage of foodstuffs to protection of cached artifacts. Many of the same processes that contribute to the transformation of pits also alter other "negative" constructions such as canals and ditches. Indeed, several principles for interpreting noncultural pit fills have been obtained from experimental studies of ditches such as Overton Down (Jewell and Dimbleby 1966) and Wareham (Evans and Limbrey 1974). Most experiments on pit and ditch-filling processes have been carried out in England, and so one must exercise caution when generalizing their findings to other environments. Nevertheless, such studies provide good cases and should inspire archaeologists elsewhere to carry out similar experiments. (For a general treatment of pit formation processes, see Schroedl 1983.)
+
+
+
+
+
+In areas that have cold winters and abundant precipitation, a two-stage process seems to characterize the natural infilling of pits (adapted from Limbrey 1975:290-299). The first stage is the most rapid and involves the deposition of "primary fill," sediments derived from the weathering of the sides of the pit. If the pit has relatively steep sides, frost action and flowing water will rapidly erode the uppermost part of the pit, working back some distance into the original substrate (Jewell and Dimbleby 1966). The sediments in primary fill may be sorted somewhat, but both coarse and fine particles will be present, reflecting the makeup of the surrounding matrix at the top of the pit. Erosion eventually reduces the slope of the pit walls to the point where the rate of sediment transport and deposition decreases markedly.
+
+
+
+
+
+The second stage of infilling, responsible for "secondary fill," primarily involves the accumulation of fine particles, often of eolian derivation. As Limbrey (1975) emphasizes, a partly filled pit is a favorable microenvironment for the growth of weedy plants (and for the activities of various animals). The vegetation creates a trap for wind-borne particles, which can then accumulatealbeit slowlyin the pit (Fig. 8.10). Sediments will be also added in this stage by the continued action of water and animals. The secondary fill usually has a high organic content, and so becomes a favorable habitat for earthworms.
+
+
+
+
+
+In arid lands, the stages of natural pit infilling are apt to be somewhat different, owing to the prevalence of eolian processes. A common pattern
+
+
+
+
+
+Page 219
+
+
+
+
+
+Fig. 8.10.
+
+Vegetation growing in abandoned Moari storage pits, North
+
+Island, New Zealand, helps to trap sedimentary particles.
+
+
+
+
+
+is the alternation of eolian sands and silts with laminae of water-transported materials.
+
+
+
+
+
+Artifacts found in pit fills are usually used as evidence for dating the events of pit construction or abandonment as well as for inferring the function of the pit. Emphasis is often placed on the artifacts near the bottom of the pit, in the belief that they might represent primary refuse. As Jewell and Dimbleby (1966:341) note, however, artifacts found in those locations could have been deposited by erosion of the upper portion of the pit and thus may not provide reliable evidence for chronological or functional inferences. An appreciation for the natural processes of pit infilling sensitizes the archaeologist to the possible sources of artifacts in pits.
+
+
+
+
+
+Patterns of cultural deposition also influence processes of pit deterioration. Thus, even in a given environment, one can find much variability in the condition of pits. Many pits, especially storage pits, were secondarily used as refuse receptacles or were rapidly filledculturallywith displaced refuse or subsoil (for innovative studies on the cultural forma-
+
+
+
+
+
+Page 220
+
+
+
+
+
+tion processes of trash-filled pits, see Dickens 1985; Wilson 1985). Culturally filled pits tend to be protected from the action of some agents of deterioration such as erosion. Nevertheless, because the contents of such pits gradually settle, their uppermost portion can erode. Pits that fill slowly through alternating episodes of cultural and noncultural deposition will probably undergo considerable deterioration.
+
+
+
+
+
+A pit's immediate environment, which can be culturally produced, also affects the likelihood that particular agents of deterioration will have the opportunity to work. For example, a pit that was filled culturally after use and buried deeply will be well protected against most agents. In contrast, an identical pit exposed on the surface of the same site could be badly eroded. In general, pits that were originally placed through the floors of structures are less exposed to most deterioration processes, a protection that can continue beyond the structure's abandonment. For example, a large bell-shaped pit, filled with trash, was found in pristine condition sealed below the floor of Room 5 at the Joint site in Arizona (Hanson and Schiffer 1975; Schiffer 1976a). More than a meter of trash fill, eolian deposits, and wall fall had insolated the pit from the actions of burrowing animals, erosion, and even tree roots.
+
+
+
+
+
+The degree of deterioration is also a function of how long a pit was exposed to a particular agent or process. For example, holding other variables constant, older pits are more damaged by earthworm activity than younger pits (South 1977:281-282).
+
+
+
+
+
+As noted above, pits exposed in different environments are subjected to different agents and sequences of deterioration. For example, in most temperate, nondesert regions, where conditions are usually favorable for earthworm activity, the edges of pits near the surface will be quite indistinct. (If a deeply buried pit has these characteristics, one possible explanation is that formerly it had been more exposed.) Similarly, exposed pits in colder climates will suffer from frost action.
+
+
+
+
+
+In the excavation of pits it is desirable to cut a section that reveals the pit outline and its contents. Such an exposure permits the archaeologist to infer from the observed sediments the mode of filling, extent of deterioration, and any subsequent disturbance processes (South 1977; Wilson 1985).
+
+
+
+
+
+Structures
+
+
+
+
+
+A great many important inferences rest upon evidence derived from structures and, especially, the artifacts they contain. An understanding of how structures deteriorate contributes to identifying the formation processes of artifact-containing deposits, which establishes a credible basis for inference. The unraveling of deterioration processes also goes hand in hand with the reconstruction of buildings (Agorsah 1985). In
+
+
+
+
+
+Page 221
+
+
+
+
+
+addition, an understanding of natural deterioration processes can also furnish a baseline for inferring cultural involvement in structural decay. For example, sediments deposited by natural processes on the floors of structures can vary according to whether or not materials in the roof had been previously scavenged or curated. Finally, an understanding of structural decay illuminates the maintenance problems faced by homeowners of the past.
+
+
+
+
+
+Structures are often composite artifacts made of more than one kind of material, like the earthen floors and wooden roofs of masonry houses. Each kind of material is susceptible to a different set of deterioration agents. Because the response of structures to specific agents is not uniform, an understanding of structural deterioration requires consideration of the way in which each component interacts with the environment and contributes to the overall decay sequence. For example, in the aforementioned masonry structure, the wooden roof is vulnerable to fungal rot and other agents, and thus deterioration usually begins with the roof (in suitable environments). As the roof decays and collapses, it pries up wall stones and exposes the tops of walls to other agents of deterioration, such as wind and freeze-thaw cycles.
+
+
+
+
+
+Even if structures were built entirely of one material, they would still exhibit variability in the deterioration process because the structure itself provides vastly different microenvironmentshazard zones, each of which can hasten or retard the action of specific agents in given environments. For example, with respect to fungal decay, wooden structures in most environments have two major zones: (1) in and near the ground is a zone of rapid decay (where moisture content is high) and (2) beginning one to two feet above the ground and extending upward is a zone of slow (or no) decay. Depending on construction techniques and the specific design, wooden structures may have more than two fungal decay zones. For example, structures with flat roofs can contain poorly drained pockets where water collects, providing favorable conditions for local fungal growth. One can also enumerate hazard zones for other agents that attack wooden structures. For example, weathering by sunlight contributes to the decay of wood, and so walls with southern and western exposures experience higher rates of weathering than do other walls.
+
+
+
+
+
+By constructing agent-specific hazard zones for the various materials that make up a structure, one can arrive at some general expectations regarding where the deterioration process will begin in a specific environment. For example, in a wooden structure exposed to sufficient moisture, serious deterioration starts in the zone of rapid fungal decay. The archaeologist must then project the effect of the earliest stage of decay on the next stage of the process. For example, after the wood in the zone of rapid fungal decay has rotted, the structure will collapse, bringing much
+
+
+
+
+
+Page 222
+
+
+
+
+
+Fig. 8.11.
+
+Adobe walls at the Tulor Aldea site in northern Chile (after excavation)
+
+were well preserved to a height of 1.5 m by deposits of wind-blown sand.
+
+
+
+
+
+of the surviving wood into that zone. Thus, early stages of decay alter the microenvironments of structural components, markedly influencing the course of the decay process. In some cases, the early stages improve the conditions of preservation for the remaining components. In adobe or mud-brick construction in arid lands, for example, erosion from upper parts of the walls can eventually produce a relatively stable mound of sediment that protects the wall stubs unless salt erosion (Chapter 7) is very rapid. Eolian sediments, if deposited quickly, can also help to preserve earthen walls. For example, at the site of Tulor Aldea in the San Pedro de Atacama of northern Chile, adobe walls were preserved to a height of about 1.5 m by wind-blown sand (Fig. 8.11).
+
+
+
+
+
+As deterioration proceeds, the rate of alteration tends to drop off rapidly. Some processes are self-limiting, as in the decay of wood, which stops when all wood has been consumed, or erosion of mud walls, when relatively stable microlandforms have been reached (Rosen 1985). As another example, archaeologists encounter earthworms churning the sediments in structures, but the boundaries between depositional units were blurred long ago. Despite this overarching pattern, one should not assume
+
+
+
+
+
+Page 223
+
+
+
+
+
+Fig. 8.12.
+
+At Wupatki National Monument near Flagstaff, Arizona, the standing
+
+walls of pueblos, unprotected by eolian fill, slowly continue to deteriorate.
+
+
+
+
+
+that an equilibrium has always been achieved; some processes simply act on a very long time scale. For example, at Wupatki National Monument near Flagstaff, Arizona, open-air pueblo ruins still contain standing walls, sometimes several meters in height (Fig. 8.12). The near absence of eolian deposition in these pueblos has prevented the formation of a protective mound, and so these exposed walls continue to deteriorate at a very slow rate, possibly through wind and freeze-thaw cycles.
+
+
+
+
+
+The influences of site and regional formation processes on the course of decay are highly variable and often poorly understood. As just one example, consider vegetation. In tropical rainforests, the destructive effects of vegetation, especially tree roots, are well known. But does vegetation also play a role in the deterioration of masonry pueblos in more arid lands? For example, did weedy plants take root on the roofs of earthloaded structures, helping to trap eolian sediments? When the heavy roof did finally collapse, did a mesh of roots contribute to a greater collapse of the walls than might otherwise have been the case?
+
+
+
+
+
+Several approaches can lead to an improved understanding of the deterioration processes of structures. First of all, evidence on these pro-
+
+
+
+
+
+Page 224
+
+
+
+
+
+Fig. 8.13.
+
+The 14th century Casa Grande, near Coolidge, Arizona, as it appeared
+
+in 1891 (a) and 1941 after ''stabilization'' (b). Note the loss of a large plug of
+
+materia near lower left. (Early photo by Cosmos Mindeleff, copy by Natt N.
+
+Dodge; later photo by Natt N. Dodge. Both photos furnished by the National
+
+Park Service, Western Archeological and Conservation Center, Tucson)
+
+
+
+
+
+Page 225
+
+
+
+
+
+cesses can be sought in the remains of archaeological structures themselves. Wilcox (1975), for one, has called attention to the information on deterioration stages present in the fills of structures. Obtaining such information requires that the traces of formation processes (see Chapter 10) be recorded in the field, especially the nature of the sediments and their relationships to wall debris.
+
+
+
+
+
+A second approach is to build experimental structures and periodically observe ongoing deterioration processes. This tack can provide valuable information, especially on the earliest stages of deterioration. Moreover, one can readily determine the kinds of maintenance problems that particular structures would have posed in a specific environment. Although experiments are useful, they present difficulties when it comes to the observation of long-term processes or the later stages of decay. This problem is highlighted by the Overton Down experiment, in which deterioration of an earthen mound and ditch is to be observed over a period of 128 years. Although such an experimental design bespeaks great optimism about the durability of research interests and the longevity of archaeological institutions, it is doubtful that many archaeologists will be willing to wait that long for final results; perhaps they need not.
+
+
+
+
+
+Historical records and photographs of the same structure over long time periods can sometimes supply insights into deterioration processes. One example is furnished by Casa Grande, a four-story adobe-caliche building constructed about A.D. 1350 by the Hohokam along the Gila River in southern Arizona (Fig. 8.13). Because this structure has been the object of intensive preservation efforts for the past century, historical mentions of Casa Grande, going back to Father Kino's visit in the seventeenth century, have been mined for nuggets that implicate the agents and rates of deterioration (Wilcox and Shenk 1977). Even in this very arid environment, the most serious threat to Casa Grande has been the undercutting of walls by salt erosion (see Fig. 8.13a). Another example, documented photographically, is Poncho House, a masonry cliff dwelling in southeastern Utah (Gaede and Gaede 1977). Early photographs of this ruin were taken by Jackson in 1875 and by Guernsey in 1923. Gaede and Gaede (1977) note that in the nearly five decades separating those photographs, the ruin did not change discernibly. By 1962, however, major changes including collapse of the three-story tower, roof cave-ins, and new wall falls, had taken place. Drawing on other lines of evidence, Gaede and Gaede (1977:45) hold vandalism and pothunting responsible for Poncho House's increased rate of deterioration. It is likely that future investigations will implicate human activitiesespecially vandalism and reclamation processesin the deterioration of many structures. For some still-inhabited structures, such as the White House in Washington, D.C.
+
+
+
+
+
+Page 226
+
+
+
+
+
+or Walpi, a Hopi pueblo, one can use photographs that span more than a century. Historical sources and photographs are apt to become more important in the years ahead as archaeologists come to appreciate that they can furnish a relatively inexpensive source of information on deterioration processes.
+
+
+
+
+
+Another important approach that needs to be more widely employed is ethnoarchaeology (Agorsah 1985). In ongoing communities having considerable time depth or in recently abandoned sites, one can sometimes find abandoned structures built with similar materials and methods in various stages of deterioration. In some cases, such cross-sectional data can be a good substitute for diachronic data (McIntosh 1974). Throughout the American South, for example, many wooden barns have been abandoned during the past century, and so one can encounter the remains of similar barns in various stages of decay. My casual observation of these structures indicates the general outline of the deterioration process. Because of conditions favorable for rapid fungal growth (annual rainfall of about 125 cm), decay proceeds speedily in the high-hazard zone near the ground. In a matter of decades, the structure becomes greatly weakened and collapses, perhaps from its own weight, sometimes folding like a parallelogram. Collapse may result in damage to nonwooden components, such as window glass, and any metal framing or roofing material. The next stage is marked by rapid decay of the remaining wood, all of which is now in the high-hazard zone for fungal action. In addition, plant growth and other kinds of bioturbation become increasingly important at this stage. After the wood has been completely consumed and the area thoroughly colonized by vegetation, the remains of the barn are scarcely visible.
+
+
+
+
+
+Ethnoarchaeological studies of mud-wall structures have been undertaken in West Africa, and aspects of the deterioration process are becoming clarified (Agorsah 1985; McIntosh 1974, 1977). McIntosh (1974) presents valuable observations on the decay of puddled mud (or terra pisé)and wattle-and-daub structures. Puddled mud structures are built of a lateritic loam soil, quarried near the construction site; previously deposited artifacts are usually scooped up along with the soil and incorporated into the structure walls. The soil is mixed with water and piled in courses, with the first set directly on the ground, until the requisite height is reached. Finally, a thatch roof is placed over a wooden framework. The greatest hazard zone of a mud structure in most environments is the area closest to the ground. There, several processes lead to a severe loss of material. Foremost among these is capillary action, which draws moisture from the subsoil into the wall (i.e., rising damp), leading to expansion and contraction of clays, and exfoliation of the surface. The same process,
+
+
+
+
+
+Page 227
+
+
+
+
+
+Fig. 8.14.
+
+A crack is visible in this adobe structure at
+
+Concho, Arizona. Having been undercut by
+
+rising damp, the walls will soon collapse.
+
+
+
+
+
+of course, contributes to salt erosion near the base of the wall (Fig. 8.14). Wind and driving rains (Agorsah 1985) are also eroding materials from upper parts of the wall, and these are deposited as sediment. In a period of just a few years, the walls are significantly weakened by undercutting, and outward collapse eventually takes place. Further erosion and plant growth produce a low mound from the remains of the structure. These ethnoarchaeological studies led to the development of excavation methods that could identify structural remains where formerly such identification had been impossible (McIntosh 1977).
+
+
+
+
+
+Older ethnographies sometimes contain valuable information, as in Wilson's (1934:372) description of the deterioration process of Hidatsa earthlodges on the Great Plains:
+
+
+
+
+
+With reasonable care, an earthlodge ordinarily lasted, according to various informants, from seven to ten years. . . the lodge showed its first signs of wear at the posts which always rotted at the base, or rather, the section in the ground, and owing to the weight of the structure above it, the posts settled down into the ground. This settling down of the lodge indicated that the posts were rotting. Once this occurred, it was useless to attempt to replace the rotted posts.
+
+
+
+
+
+Rather than permit the structure to continue deteriorating, the Hidatsa
+
+
+
+
+
+Page 228
+
+
+
+
+
+disassembled it, dividing up the reusable wood. The fate of the abandoned pit is not noted, but one can expect that it probably filled with sediments and trash. This case underscores the need to recognize that debilitated structures are frequently subjected to reuse and reclamation processes. Thus, the remains observed by the archaeologist may have achieved their present form as a result of both cultural and noncultural processes. Varied mixes of these processes may help to account for the diverse patterns of fill observed in archaeological pit structures. For example, if the roofs and walls of a structure have been removed, then the upper parts of the pit will suffer greater deterioration than might have otherwise been the case, leading to different sediment accumulations on the floor. (See Finnigan [1983] for the use of ethnographic data in modeling the life history of Plains tipis.)
+
+
+
+
+
+I recently observed masonry structures with sod roofs in early stages of deterioration at the abandoned village of Kividhes in Cyprus. The roofs usually consist of beams socketed in the masonry walls, overlain by branches, brush, and reused materials. Finally, a 10-20 cm layer of sodcapped earth, sometimes containing artifacts, was added (Fig. 8.15a). In a Mediterranean climate such structures are vulnerable to two major deterioration processes: erosion and wood decay. As the roof becomes saturated during winter storms, sediments are carried into the structure in weak spots (Fig. 8.15b). When unrepaired, such places will enlarge rapidly by various erosive processes, leading to sediment accumulations on the floor (Fig. 8.15c). Before, during, and after this process, organic roof materials are decaying. Eventually beams give way at the ends or middle, bringing down parts of the roof and tipping over some wall stones (Fig. 8.15d). Both erosion and organic decay are accelerated on the collapsed roof material. Throughout the entire process, plaster from the walls slowly deteriorates, being deposited first on the floor (Fig. 8.15e), later in and on roof debris. Plants also grow on the collapsed roof and wall material, hosting animals and adding ecofacts to the deposits (Fig. 8.15f). By understanding this deterioration process, one can readily explain how artifacts could come to rest on a structure's floor that were never used on that occupation surface.
+
+
+
+
+
+The possibility that structures burned (without being rebuilt) at some time in their life history is another source of variability in the deterioration process. A few experiments on structure burning are scattered in the literature (e.g., Bankoff and Winter 1979; Bibby 1970; Friede and Steel 1980; Shaffer 1981), but as yet there is little basis for generalization. The major concern has been with the effects of fires per se, and not their influence on the overall process of deterioration. Suffice it to say that when a structure burns at or near its time of abandonment, the sequence of deterioration processes is apt to be altered.
+
+
+
+
+
+Page 229
+
+
+
+
+
+Fig. 8.15.
+
+Early stages in the deterioration of sod-covered masonry structures in the
+
+abandoned village of Kividhes, Cyprus. a, structures with relatively intact
+
+roofs. b, interior view of roof showing the development of weak spots.
+
+
+
+
+
+Page 230
+
+
+
+
+
+Fig. 8.15.
+
+c, roof debris forms a deposit on a structure's floor. d, roof begins to give way;
+
+
+
+
+
+Page 231
+
+
+
+
+
+Fig. 8.15.
+
+e, deterioration of wall plaster contributes to floor deposits; f, much
+
+of the roof has collapsed, and vegetation is gaining a foothold.
+
+
+
+
+
+Effects of Regional-Scale Processes
+
+
+
+
+
+Many processes whose effects occur primarily on a regional scale (Chapter 9), such as deposition of sediments by wind and water, also have important site-level effects and are discussed briefly here. When they impact occupied settlements, many of these processes are regarded as "natural disasters"
+
+
+
+
+
+Earthquakes
+
+
+
+
+
+Earthquakes are a common phenomenon in many parts of the world and can contribute importantly to the formation of the archaeological record. One effect of seismic action is faulting through an archaeological site. Faults may involve displacements ranging from several centimeters to several meters (Wood and Johnson 1978:306) and are readily identifiable because the fill material, usually deposited by wind or water, is considerably lighter in color than the surrounding cultural matrix. Earthquake faults have been found archaeologically in Alaska, Missouri, and Arkansas (Wood and Johnson 1978:366-367). Recently, another has been reported from an early Archaic site in northern Chile (Niemeyer et al. 1984).
+
+
+
+
+
+Page 232
+
+
+
+
+
+Fig. 8.16.
+
+Earthquake damage to an adobe structure in Tulor Ayllu, Chile.
+
+
+
+
+
+Another trace of earthquakes consists of damage caused by the passage of seismic waves. Recently seismologist Rene Rodriguez has used evidence from Maya adobe structures to confirm the existence of these "visible waves": "A wall parallel to the direction of seismic wave travel has been imprinted with a wavelike pattern on the top, where adobe crumbled, while walls lying perpendicular to wave motion remained unscathed" (Weisburd 1985:281). Traces of seismic waves are also present in architecture at the Roman site of Kourion on Cyprus, which was destroyed by an earthquake in the fourth century A.D. (Soren 1985).
+
+
+
+
+
+Views of the havoc wrought by earthquakes on occupied settlements are constantly featured in newspapers and on the evening news. When settlements are rebuilt, as is often the case, one might expect the razing of wrecked structures to lead to the formation of distinctive debris-laden deposits.
+
+
+
+
+
+Structures vary greatly in their susceptibility to earthquake damage. Those having a high degree of integrity or resiliency are most likely to survive a moderate earthquake. Wooden structures and some concrete and steel buildings are resistant, whereas masonry, brick, and adobe construction are usually vulnerable to earthquake damage (Fig. 8.16). When earthquake destruction is severe, only total demolition and recon-
+
+
+
+
+
+Page 233
+
+
+
+
+
+struction is feasible. Today, earthquake debris is usually hauled to a dump or sanitary landfill; in ancient cities rebuildingif it occurredmay have taken place upon the rubble of fallen structures.
+
+
+
+
+
+Earthquake rates have been calculated for most regions, and these figures can be used to assess the likelihood that serious earthquakes struck during a particular period in the past. When earthquake probabilities are high, the archaeologist should be especially alert for evidence of repair, rebuilding, and deposits of earthquake debris.
+
+
+
+
+
+Archaeologists occasionally invoke earthquakes as a cause of abandonment. One colorful case is provided by Frank Hamilton Cushing, the first person to excavate an archaeological site in Arizona (Haury 1945:viii). In 1887, at the extensive Hohokam site of Los Muertos, Cushing was asked by a group of visitors why this vast town of adobe buildings had been abandoned. Pointing to collapsed walls, he replied that Los Muertos had been destroyed by an earthquake. At the time, the Sonoran Desert was not regarded as having much earthquake activity, and Cushing's speculations were no doubt received with skepticism. Almost immediately thereafter, however, the area was jolted by the Great Sonoran Earthquake of 1887, causingone suspectsmore than the usual amount of trembling among the visitors. Although no one since Cushing has held earthquakes responsible for the fifteenth-century collapse of the Hohokam, earthquakes do sometimes cause settlements, such as Kourion, to be abandoned (Soren 1985).
+
+
+
+
+
+Storms
+
+
+
+
+
+Hurricanes and other treacherous storms, including tornadoes, have drastic impacts on ongoing communities and are, unfortunately, recurrent phenomena in particular regions. Storms of less impressive intensity are a constant feature of most regions and also impact sites and settlements. In most cases, the effects of storms are brought about by the action of wind and water. These agents work similarly in that their potential to damage structures and to move materials is a function of their velocity. The strong winds of a tornado ravage wooden structures and can even transport cars, and swiftly flowing flood waters can remove part of a site or settlement. In contrast, weak winds and sluggish water displace only small and light-weight particles. Examples of the erosive forces of strong winds and flood water are commonplace in the daily news and scarcely require additional comment. Nevertheless, more information is still needed on the long-term effects of the less destructive processes. For example, little is known about the role of wind in the deterioration of structures in archaeological context or the cumulative impacts of ordinary rainfall on the distribution of surface artifacts.
+
+
+
+
+
+Turnbaugh (1978) furnishes a description of the effects of a major flood
+
+
+
+
+
+Page 234
+
+
+
+
+
+on archaeological sites in Susquehanna River drainage of Pennsylvania. He found that scouring had created ''potholes'' in some sites, in one case reaching an area 15 m x 23 m and a depth of 1.5 m. Other effects were even more drastic:
+
+
+
+
+
+[some sites] were swept clean, while thousands of their pebbles, including hundreds of modified flakes and artifacts among them, were left in windrows beyond the downriver ends of the sites.... [at one site], a cluster of 7 aboriginal fire or refuse pits resisted removaland remained in high relief on the otherwise smooth surface below a vanished cornfield! (Turnbaugh 1978:597)
+
+
+
+
+
+Materials moved by both wind and water are eventually redeposited. Windblown sand piles up next to buildings, and as floodwaters recede they leave in their wake assorted sediments. Damage and erosion of settlements have several predictable effects. Abandonment is one possible outcome of such a natural disaster, but it is probably not common. In modern times, for example, although repeated inundation of a settlement by a flooding river can sometimes lead to abandonment and relocation (usually nearby), the usual response is the construction of dikes and levees or the strengthening of structures. If occupation continues, the most common effect is the occurrence of ad hoc maintenance processes (Chapter 4), which clean up debris and sediments, depositing the latter as quite distinctive deposits. It is estimated, for example, that Hurricane Camille, which affected an area of about 100 km2 in Mississippi in 1969, created debris deposits in excess of 1,000,000 m3 (Gunnerson 1973).
+
+
+
+
+
+Concluding Remarks
+
+
+
+
+
+Archaeologists have long been aware that environmental processes can alter culturally created patterns. More recently, it has been learned that a host of environmental processes form patterns of their own that can be easily mistaken for traces of human behavior. In the years ahead, analytical and inferential techniques must be adapted to the realities of the archaeological record of sites.
+
+
+
+
+
+Page 235
+
+
+
+
+
+Chapter 9
+
+Environmental Formation Processes: The Region
+
+
+
+
+
+On a regional scale artifacts and sites interact with the environment. The effects of the environment on the remnants of myriad activities and settlement systems can be swift and dramatic or slow and subtle: a site buried at once in the volcanic ash of a cataclysmic eruption, or another gradually obscured over millennia by the gentle fall of pine needles. Regardless of the specific processes involved, the interaction of archaeological remains with the regional environment poses challenges and opportunities for the archaeologist; sites and portions of them are destroyed and become less visible, to be sure, but these processes also reveal long-buried sites and lay down evidence of past environmental processes crucial for understanding cultural adaptations (Butzer 1971, 1982; Evans 1978; Gladfelter 1981; Shackley 1981).
+
+
+
+
+
+Dunnell and Dancey (1983:272) define the regional archaeological record "as a more or less continuous distribution of artifacts over the land surface with highly variable density characteristics" (emphasis in original). This is a useful conception so long as one specifies that the regional archaeological record also includes artifacts not visible on the ground's surfacethose obscured by sediments, water, vegetation, and later occupations (see Foley 1981b). The environmental processes involved in forming the (three-dimensional) regional archaeological record have to be considered in the design of archaeological surveys (Foley 1981b; Schiffer et al. 1978; Lewarch and O'Brien 1981a; Schiffer and Wells 1982) and in the making of inferences from survey data.
+
+
+
+
+
+Regional formation processes are effected principally by physical and biological agents stemming, ultimately, from climatic and geological factors. For present purposes, climate is regarded as mainly consisting of temperature, precipitation, and wind patterns; geology includes the min-
+
+
+
+
+
+Page 236
+
+
+
+
+
+erals, rocks, and landforms of a region as well as some of the purely geological processes shaping them (Evans 1978:2). Together, climate and geology determine specific precipitation regimes, types of storms and prevailing winds, erosion and sedimentation patterns, and influence vegetation and faunal associations in ecosystems. A discussion of the complex determinants of specific agents and processes is beyond the scope of this chapter (for an introduction, see Butzer 1971). Rather, emphasis is placed here on the mode of operation and effects of the more common processes.
+
+
+
+
+
+Although regional environmental processes have myriad effects on cultural behavior and on archaeological sites, these processes especially affect the accessibility and visibility of artifacts and sites in the regional archaeological record. Visibility is "the extent to which an observer can detect the presence of archaeological materials at or below a given place" (Schiffer et al. 1978:6); sediments and vegetation are among the factors that alter visibility. Regional environmental processes also constrain the movement of observers within the study area, thus affecting accessibility; the latter involves the amount of "effort required to reach any particular place" (Schiffer et al. 1978:8), and is determined by terrain, biota, climate, extent of roads, and land-holding patterns.
+
+
+
+
+
+Visibility and accessibility, along with the obtrusiveness of archaeological materials and survey techniques, influence what is found on archaeological survey. Survey data, of course, are the basis for inference of settlement systems and regional and interregional cultural processes. If such reconstructions are to be well founded, they must be rooted in a thorough understanding of how environmental processes affect the regional archaeological record. Too often, however, elaborate models of cultural processes have been built on a base of biased evidence; the discovery of new evidencethe existence of which could have been foreseen if regional processes had been consideredoverturns these models and new ones must be built. Reconstructions can be made less vulnerable to "hidden evidence" by properly designing new regional investigations and by taking into account regional formation processes when using data from previous studies (see Chapter 13). The most useful introductions to regional processes are Pyddoke (1961), Vita-Finzi (1978), and Butzer (1971).
+
+
+
+
+
+Volcanism
+
+
+
+
+
+Many landforms, including the high islands of Polynesia, owe their entire structure to volcanic eruptions. Eruptions are generally manifest as (1) flows of molten rock or magma which harden into lava, such as Kilauea in Hawaii, or (2) an explosion that results in the widespread deposition of wind-borne pyroclasts (see Butzer 1971:201), such as Mount St. Helens. Both types of eruption have occurred in the past few years,
+
+
+
+
+
+Page 237
+
+
+
+
+
+providing unparalleled opportunities for scientific observation and, at times, unanticipated experiments in environmental formation processes.
+
+
+
+
+
+Pyroclasts are divided into breccias and tuffs. Breccias are large particles, including "bombs," whereas tuffs (Butzer 1971:201)which form from volcanic ashare composed of silt- and sand-sized particles. As small particles, tuffs can be carried many hundreds of miles by the wind, laying down, finally, an enormous horizon marker for that eruption (Steen-McIntyre 1985). A tuff deposit is responsible for buryingand thus preservingone of the most fascinating finds of early hominid evolution. In the Laetolil area of Tanzania, not far from Olduvai Gorge, Andrew Hill discovered footprints of extinct animalsincluding hominidsmore than 3.6 million years old (Leakey and Lewin 1978:70-71; Leakey 1979). An ashfall filled the footprints, originally made in soft mud, preserving them when the deposits hardened to rock. A more familiar example of volcanic effects on the regional archaeological record is the Roman city of Pompeii, which was buried by pyroclasts from the eruption in A.D. 79 of Mt. Vesuvius (see Jashemski 1979; L. Richardson 1978; Will 1979). The good "preservation" afforded by catastrophic abandonment and burial at Pompeii has become a yardstick of legendary proportions for assessing the evidence surviving elsewhere (see Binford 1981a; Schiffer 1985).
+
+
+
+
+
+A salient characteristic of most volcanic eruptions is their rarity within the timeframe of the human life span. This almost guarantees that, despite the danger, people will resettle localities affected by previous eruptions (Sheets 1983a). For example, Sheets (1983a) studied the effects of four explosive eruptions of Ilopango on cultural evolution and the archaeological record in the Zapotitán valley of El Salvador. In one case, the devastation was so severe that the local system did not recover, and the area was colonized later from the outside. After the other three eruptions, however, people resettled "the devastated areas relatively quickly, and in all cases the material culture, economy, and society after the eruption are much the same as they were before the eruption occurred" (Sheets 1983a:292). Sheets also calls attention to the contributions archaeologists can make to understanding long-term behavioral responses to natural disasters. Evidently, in areas of volcanism, cycles of settlement, eruption, abandonment, and resettlement are to be expected. For interesting case studies in archaeology and volcanism, see Sheets and Grayson (1979), Sheets (1983b), and Steen-McIntyre (1985).
+
+
+
+
+
+By drawing upon geological information, archaeologists can usually pinpoint areas where sites probably lie buried under volcanic deposits. In the Ilopango case, Sheets succeeded in finding and excavating buried sites. When the eruption deposits a thick layer of lava, archaeologists can do little more than attempt to model what kinds of sites might be buried. In Hawaii, for example, magma flows have rendered parts of the archae-
+
+
+
+
+
+Page 238
+
+
+
+
+
+Fig. 9.1.
+
+At Waiahukini, South Point, Island of Hawaii, lava has probably buried sites,
+
+making them inaccessible to archaeological survey. (Photo by H. David Tuggle)
+
+
+
+
+
+ological record totally inaccessible. At Waiahukini, South Point, on the island of Hawaii, sites have been found in areas between the lobes of a nineteenth-century flow (Fig. 9.1), indicating that otherperhaps similarsites are covered by lava (Kelly 1969; H. David Tuggle, personal communication, 1985).
+
+
+
+
+
+Eolian Processes
+
+
+
+
+
+The wind blows even on the dead planet Mars, where dust storms deposit fine sediments on the Viking lander. On Earth eolian processes contribute significantly to the formation of the regional archaeological record, causing erosion and deposition of sediments.
+
+
+
+
+
+Particles transported by windsometimes over hundreds of miles are mostly in the size range of fine sand (under 0.2 mm), silt, and clay; however, larger sand particles are moved by wind-driven saltation (Reineck and Singh 1980:212). Artifacts of substantial size, including cars and mobile homes, can also be moved by the winds of tornadoes and hurricanes. Erosion occurs where dry, unconsolidated sedimentsun-
+
+
+
+
+
+Page 239
+
+
+
+
+
+protected by vegetationare exposed to the scouring action of wind (Butzer 1971:192). Today eolian processes are prevalent mainly in seashore areas (Evans 1978:86-89) and deserts; however, the dust-bowl phenomena of the 1930s should underscore that these processes occur wherever people or nature have created largely barren land surfaces (Pyddoke 1961:28). Sand dunes and other eolian features are rather common; for example, there are widespread Holocene eolian horizons in the eastern United States (see, e.g., Stewart 1983), and stabilized sand dunes occur in Nebraska and South Dakota (Butzer 1971:363).
+
+
+
+
+
+The distinctive landforms created by the erosive and depositional effects of eolian processes appreciably influence the regional archaeological record. One such landform is desert pavement (Fig. 9.2), an area where small soil particles are absent from the surface; the remaining gravel (i.e., pebbles and cobbles) forms the pavement. Wind erosion in the absence of most other processes is thought by some to be the major factor at work in the formation of desert pavement (J. Hayden 1976; Butzer 1971; Reineck and Singh 1980). In the Lower Colorado River region, desert pavement surfaces are many thousands of years old, and Archaic artifacts deposited on desert pavement lie there today for the surveyor to find. Even in this environment, however, the distribution of desert pavement is patchy, alternating over short distances with other landforms, such as bajadas and the Colorado River floodplain, where deposition has taken place (Fig. 9.2). In view of this variability in archaeological visibility, it should come as no surprise that the heavily patinated artifacts that serve as evidence for the pre-Clovis occupationknown as Malpais (J. Hayden 1976) derive almost entirely from desert pavements. The enigmatic intaglios of the Lower Colorado River region (Fig. 9.2) are also confined to desert pavement (Solari and Johnson 1982).
+
+
+
+
+
+Archaeologists sometimes find "surface sites" that mimic desert pavement, but the formation processes are far less benign. Erosion is responsible for removing the lighter particles from such sites, thereby "deflating" the cultural deposits. In deserts and other regions with large areas of exposed, dry ground, wind deflation can lead to palimpsests of debris from many occupations that are difficult to interpret. In the Great Sand Sea of the eastern Sahara, Haynes (1982) reports the discovery of Neolithic and Acheulian artifacts on the deflated floor of a playa. Even adobe architecture can be deflated by eolian action (Fig. 9.3).
+
+
+
+
+
+In some heavily vegetated areas, the scouring action of wind provides exposures that facilitate site discovery. For example, in the Outer Hebridean Islands of Scotland, the turf is occasionally broken by the wind, deflating and revealing cultural materials (Pyddoke 1961:30).
+
+
+
+
+
+The wind is also an active agent of deposition, especially in deserts and lightly vegetated regions, and is responsible for several major kinds of
+
+
+
+
+
+Page 240
+
+
+
+
+
+Fig. 9.2.
+
+Desert pavement (darker, elevated area) in close proximity to more
+
+active surfaces near Blythe, California. Note ground figures, upper
+
+right. (Courtesy of the late Arthur Woodward)
+
+
+
+
+
+deposits. Particles picked up and transported by the wind eventually are redeposited; as wind velocity decreases, larger particlesmostly sand drop out. Both natural and cultural features of the landscape present barriers that reduce wind velocity and promote deposition. This type of deposition, known as sand drifts, usually takes place behind obstacles (Reineck and Singh 1980:221), including the walls of structures. On the basis of excavations at the Joint site, Hanson and Schiffer (1975; see also Schiffer and Rathje 1973) suggest that the height of the remnant walls provides a guide to the extent of sand accumulation in the vicinity of a pueblo; the higher the wall, the greater the distance from it that sand drifts reach. The latter, they also note, cover artifacts deposited near the walls. Although eolian deposition obscures architecture and nearby arti-
+
+
+
+
+
+Page 241
+
+
+
+
+
+Fig. 9.3.
+
+Adobe structures in a Spanish Colonial site in northern Chile undergo
+
+deflation by strong winds. Note the artifacts that have eroded out of the walls.
+
+
+
+
+
+facts alike, loss of visibility is offset by the greater obtrusiveness of the mound itself, which clearly promotes site discovery on survey (Fig. 9.4). Unfortunately, when eolian deposition fills in depressions left by the decay of the brush and wooden structures that preceded pueblos, the result is often near-total loss of visibility for the resultant sites. Small wonder that Archaic structures are so rare, and that Paleoindian shelters are as yet unknown.
+
+
+
+
+
+Sand dunes are a prominent feature in many landscapes, and their formation and movement involve both eolian deposition and erosion. In deserts and along seashores most dunes are active, constantly changing landforms. When the wind is blowing hard, sand is transported from one portion of a dune and deposited on another, leading to the movement or creeping of dunes. The mechanism of dune movement is of interest because of its effects on cultural materials: "On the windward slope sand grains move upward by the processes of saltation and surface creep and are deposited on the upper part of the slip face, from which they avalanche. This process. . . causes forward migration of sand dunes" (Reineck and Singh 1980:223). Archaeological remains deposited on or near dunes can be altered in several ways. If the cultural materials were laid down on a dune, then subsequent movement can lead to deflation,
+
+
+
+
+
+Page 242
+
+
+
+
+
+Fig. 9.4.
+
+Both room blocks at the Joint site, upon which the archaeologists are
+
+standing, were visible prior to excavation as low mounds. (Southwestern
+
+Expedition photo, Field Museum of Natural History)
+
+
+
+
+
+complete burial, or both. Artifacts deposited on the lee slope of a slowmoving dune might become partly or completely covered by the avalanching process. If the dune continues to advance, then the cultural materials will be exposed and deflated on the windward slope. Similarly, sites formed initially on the windward slope are immediately subject to deflation. (See Wandsnider [1985] and Shelley and Nials [1983] for experiments on artifact movement in active dune fields.) On the other hand, artifacts deposited near an active dune can be well preserved if covered by the encroaching sand. For example, excavations in a sand dune near Kayenta in northern Arizona uncovered a Basketmaker site consisting of well-preserved pithouses (Paul Fish, personal communication, 1984). Although good preservation can be promoted, the inevitable consequence of active dunes is the reduction of both visibility and accessibility of sites in a region.
+
+
+
+
+
+As noted above, the conditions for eolian deposition have often been present in areas that today are quite unlike deserts. For example, in periglacial areas of Europe and Asia, enormous deposits of wind-blown silts were laid down during periods of glacial advance (Pyddoke 1961:32).
+
+
+
+
+
+Page 243
+
+
+
+
+
+Even in Britain, a period of greater warmth and aridity between the Neolithic period and the Bronze Age resulted in the deposition of windblown sediment; possibly this episode was aggravated by ground clearance for agriculture (Pyddoke 1961:32).
+
+
+
+
+
+Because they contribute to the differential obtrusiveness and visibility of different kinds of archaeological remains, eolian processes, particularly deposition, are among the important factors responsible for biasing the regional archaeological record. For example, Gould (1974:32) describes the effects of sand dune deposition on the regional archaeological record of the Tolowa Indians of California: "Smelting camps, in particular, were occupied only for a short time in late summer, and these sites were located in sand dunes near the shore, where wind erosion is severe. Stratigraphic and cultural associations of Tolowa smelting camps are virtually nonexistent."
+
+
+
+
+
+Recent work in northern Chile by Ana Maria Barón (personal communication, 1985) underscores the diverse effects that eolian processes have on the regional archaeological record. Tulor, the study area, is situated in the San Pedro de Atacama, an upland oasis in the world's driest desert. Over much of the region the sparsely vegetated surface is exposed to erosion by strong westerly winds. As a result, one part of the region is covered by artifact scatters, including human bone from burials, that lie directly upon old alluvial deposits; these sites have been thoroughly deflated, and the artifacts in them continue to undergo sandblasting (Fig. 9.5a). Immediately to the east (downwind) is an immense active sand dune which, as it moves eastward, exposes sitessometimes long buriedthat have not yet been badly deflated (Fig. 9.5b), including the important early agricultural village of Tulor Aldea (Fig. 8.11; Llagostera et al. n.d.). At the same time, however, the dune is encroaching upon the historic settlement of Tulor Ayllu, now almost completely abandoned (Fig. 9.5c). Barón's appreciation for these eolian processes during her surveys established a basis for understanding variability in the archaeological record of the Tulor region.
+
+
+
+
+
+Hydrological Processes
+
+
+
+
+
+When at last it reaches the ground, rainwater ends one phase of its endless journey and begins another of signal importance for understanding regional formation processes. Rainwater (as rain or snowmelt) has several places to go: it may evaporate, seep into the ground, or run off. In almost all environments, rainwater pursues these different courses to varying degrees, depending on precipitation patterns, evaporation rates, vegetation, and the nature of the terrain and substrate (e.g., slope, permeability).
+
+
+
+
+
+Page 244
+
+
+
+
+
+Fig. 9.5.|
+
+The effects of eolian processes on the regional archaeological record,
+
+Tulor area, San Pedro de Atacama, Chile. a, completely deflated site;
+
+b, a ruin recently exposed by sand dune movement; c, sand dune
+
+threatens agricultural fields in Tulor Ayllu.
+
+
+
+
+
+Page 245
+
+
+
+
+
+Ground Water
+
+
+
+
+
+Water that is absorbed by the ground contributes to the water table. In some areas, a high water table presents problems for the excavator, especially if it has risen above the lowest cultural deposits. Mohenjo-daro, in the Indus River valley, is a case in point. During the several millennia since the site was abandoned, floods of the Indus River laid down alluvial deposits. As the land surface rose, so did the water table, eventually penetrating the deeper strata at Mohenjo-daro (Pyddoke 1961:66). Clearly, a high water table makes sites in a region differentially accessible for large-scale excavations.
+
+
+
+
+
+Cultural behavior can have dramatic effects on the water table and on hydrological processes. For example, the use of wells in arid lands depresses the water table, which can disrupt ecosystems. Excessive mechanized pumping in Tucson has lowered the water table, killing off entire mesquite bosques. By affecting vegetation, extensive groundwater pumping alters the visibility of archaeological remains. In contrast to pumping, canal irrigation raises water tables, often causing salinization, waterlogging of sediments, and overbank deposition. Not a few investigators have attributed instances of cultural collapse to these often unforeseen, longterm consequences of canal irrigation (Dart 1986).
+
+
+
+
+
+In regions of high rainfall, hillsides can become saturated with water
+
+
+
+
+
+Page 246
+
+
+
+
+
+and collapse, spilling mud and debris on sites and hapless settlements below. This process is prevalent in the Pacific Northwest, where archaeological sites and living settlements have occasionally been buried under countless tons of sediment. The well-known site of Ozette on the Olympic Peninsula in Washington is a case in point, where mudslides during late prehistoric and early historic periods buriedand thereby preserved wooden houses containing impressive arrays of de facto refuse (Gleeson and Grosso 1976). In cold regions, especially during the Pleistocene, a number of additional processes, such as solifluction, cause deposition of sediments that can obscure archaeological remains (see Chapter 8).
+
+
+
+
+
+The flow of underground water can contribute to the development of unique natural features of great archaeological interest. In karst topographies, for example, water flows underground through limestone bedrock, sometimes forming great cavities. When the ground above these chambers collapses, as happened frequently in Yucatan and Florida, sinkholes are created that invite cultural deposition. In Florida, these wet receptacles often preserve wooden artifacts not usually privileged to survive in most parts of the Southeast where sinkholes (and rockshelters) are absent. In Yucatan, some of the most spectacular finds of Maya art came from the Cenote of Sacrifice at Chichen Itza, a sinkhole used for ceremonial deposition. The ''caves'' that have yielded australopithecine fossils in southern Africa are similar to sinkholes in their mode of formation (Brain 1981).
+
+
+
+
+
+The action of waterdirect and indirectis responsible for forming most caves and many rockshelters. Such places have long been favorite stopping places, for prehistoric peoples as well as archaeologists. The latter seek out caves to find well-preserved organic remains and deeply stratified depositsthe stuff of sequence building. Because caves and rockshelters develop only under a limited number of favorable conditions, when present they have a disproportionate effect on the prehistory of regions. For example, mention of the Upper Paleolithic in Europe still conjures up visions of "cave-dwellers." In the American Southwest, the first finds of Basketmaker II materials came from rockshelters; only in the past few decades have excavations at open air sites redressed the imbalance in our view of Basketmaker lifeways. Caves and rockshelters are obtrusive and highly visible sites, and thus are easily discovered; but in most regions, they played a smalland changingrole in regional settlement systems.
+
+
+
+
+
+In areas of high rainfall where drainage is very slow, bogs and swamps often develop. These environmental features are noteworthy, not only for the obstacles they place in the way of archaeological surveyors, but also for the unparalleled preservation they afford any organic items, including ecofacts, that may have been deposited in them. In Denmark, bogs have disgorged some of the most celebrated archaeological personages of an-
+
+
+
+
+
+Page 247
+
+
+
+
+
+tiquity, such as Tollund Man. The grotesque faces of these preserved human bodies grace the pages of almost every introductory textbook on archaeology; one never forgets the first encounter with a bog man.
+
+
+
+
+
+Lakes
+
+
+
+
+
+Water that flows on the surface contributes to the formation of many important topographic features, and profoundly affects the regional archaeological record. When drainage of an area is closed, as in a valley surrounded entirely by mountains, lakes are formed which can be either relatively permanent or evanescent. Lakes receive periodic discharges of sediment from their catchment area, the amounts varying annually according to rainfall patterns, topography, and other factors. Lake sediments are known as lacustrine deposits (for a discussion of various types of lacustrine deposit, see Butzer 1971:186-187; Reineck and Singh 1980).
+
+
+
+
+
+Streams or arroyos that feed large lakes deposit much of their sediment load at their point of entry (Pyddoke 1961:54), sometimes as a delta. The smaller particles, especially clays, as well as pollen and fine organic detritus are carried greater distances into the lake. If there is a pronounced seasonal variation in sedimentation rates, distinct annual layers of the fine particles, known as varves, will form. These layers vary in thickness from year to year, not unlike tree-rings, and can thus be placed into long sequences for dating. The most reliable work in this area is de Geer's 15,000-year sequence of varves from Scandinavian lakes fed by melting glaciers (Butzer 1971:187-189). The pollen in varves also furnishes important evidence for paleoenvironmental reconstruction.
+
+
+
+
+
+The margins of lakes have always been a popular place for human settlements. Proximity to lakes is a mixed blessing, for lakes fall and, all too often it seems, rise. During the late nineteenth century, a series of droughts in Switzerland exposed well-preserved remains of wooden structures of Neolithic age. For years, archaeologists referred to these houses as "lake dwellings," speculating that they had been built on wooden pilings above water. Now it is known that the structures were actually erected adjacent to the lakes, and were covered and preserved for millennia when the lakes rose (Pyddoke 1961:54). In the Lake Turkana area, Gifford (1978) recorded the burial of a recent Dassanetch site by lake flood sediments. She noted that whereas the site would disappear from view, the bone it contained would be preserved far better than if it had been deposited in upland surface sites, where weathering, erosion, and other processes are more active. Larsen (1985) has shown that fluctuating levels of the Great Lakes in the American Midwest may be responsible for burying sites near river mouths. He also makes the case that the Middle Archaic occupational "hiatus" may be caused primarily by deep burial of those sites in the lakeshore area.
+
+
+
+
+
+Page 248
+
+
+
+
+
+Because lakesnatural and artificialare confined to the lowest elevations of their immediate drainage basin, they can sometimes make large and very significant parts of the regional archaeological record inaccessible. When the present-day Salton Sea was formed early in this century by a culturally induced (accidental) change in the course of the Colorado River, large portions of the archaeological record literally disappeared. Inundation is only part of the problem, of course. In bodies of water, sedimentation and erosion (in the zone of wave action) are also occurring (Garrison 1977).
+
+
+
+
+
+Lakes in deserts are often ephemeral, leaving behind ancient shorelines that become favored areas for archaeological surveyand unscientific collecting. Many extinct lakes or playas are found in the deserts of southern California. Lake Cahuilla, for example, periodically filled large portions of the Salton Trough; ceramic artifacts littering its former shorelines furnished Malcolm Rogers with important evidence for erecting the Patayan culture sequence (Waters 1982a). Even in desert lakes such as Cahuilla, which go through cycles of expansion and contraction, deposition of lacustine sediments on cultural materials can occur.
+
+
+
+
+
+Glaciation
+
+
+
+
+
+In very cold environments, as in the arctic or antarctic, precipitationas snowfallmay exceed melting and evaporation for long periods of time. The result is the growth of massive accumulations of iceglaciers that actually move over the landscape. Glaciers covered massive parts of North America, Europe, and other continents during the Pleistocene, advancing and retreating over time, and shaping the topography (Fig. 9.6). Indeed, during its Pleistocene maximum, glaciation covered 32 percent of Earth's land surface (Butzer 1971:104). Even today, active glaciers can be found in a few spots in otherwise temperate areas, such as the slopes of Mt. Rainier in Washington. In all, glaciers now extend over 10 percent of the land surface (Butzer 1971:104).
+
+
+
+
+
+Glacial processes are associated with unique types of erosion and deposition that affected the regional archaeological record, especially in the Old World where hominids were present during much of the Pleistocene. The inexorable movement of a large glacier causes transport of sediments, including large rocks and boulders, on an enormous scale. Pyddoke (1961:47) vividly describes the process:
+
+
+
+
+
+As they [glaciers] thus pass through valleys they tear fragments and boulders of rock from the valley flanks and at the same time frost-loosened material falls onto their surfaces. Meanwhile, the base of the glacier is plucking at and incorporating in itself material from whatever surface may be crossed.
+
+
+
+
+
+When the glacier retreats (by melting), the material incorporated into the
+
+
+
+
+
+Page 249
+
+
+
+
+
+Fig. 9.6.
+
+Many landforms, including those of Yosemite National Park,
+
+California (pictured here), have been shaped by glaciation.
+
+
+
+
+
+glacier is deposited as a ground moraine. These widespread deposits are unstratified and usually contain gravels of diverse origins in a clay matrix (Pyddoke 1961:49). In England ground moraines sometimes contain stones from Scandinavia. Materials are also moved by the pushing action of the glaciers, forming side and end moraines (Butzer 1971:105-106), which are long chains of low hills that today mark the greatest extent of the glacier.
+
+
+
+
+
+During interglacial periods, regions once covered by 1000 m of ice could be inhabited again. When those areas were reglaciated, however, the hominid sites were quite thoroughly removed, with the artifacts being damaged and redeposited elsewhere. Under very favorable circumstances, such as a cave above the valley floor, glaciers could leave behind a ground moraine deposit to cover a site (see Pyddoke 1961:49). Obviously, the regional archaeological record of glaciated regions is badly biased against Pleistocene sites of primary deposition.
+
+
+
+
+
+Colluvial and Alluvial Processes
+
+
+
+
+
+The usual drainage pattern of water in a river valley is open: streams and other tributaries feed a river that empties, ultimately, into the sea. Flows of surface water contribute to processes of erosion and deposition,
+
+
+
+
+
+Page 250
+
+
+
+
+
+both of which profoundly affect the regional archaeological record. Many of these processes, of course, are also present in closed drainage basins.
+
+
+
+
+
+Several major types of deposit form in river valleys. Runoff on hillsides is responsible for laying down colluvialor slopewashdeposits. In areas subject to slopewash, cultural deposits can be covered under many meters of sediment. Koster, a site in Illinois, illustrates the alternation of cultural deposition and colluviation; over a period of 10 millennia, about 10 m of deposits accumulated (Struever and Holton 1979). In a recent study of the Little Platte drainage of Missouri, Gardner and Donahue (1985) stressed the need to identify geomorphic surfaces of different ages in order to determine where erosion (and thus site destruction) occurred and where sites probably lie buried. They suggested that colluvial surfaceslandforms receiving continuous depositionmight contain buried sites; backhoe testing confirmed the prediction with the discovery of cultural remains.
+
+
+
+
+
+Even in the most arid environments, slopewash can be sufficient to obscure cultural materials. For example, in the vicinity of the Mohawk Mountains of southwestern Arizona, annual rainfall is less than five inches (Sellers and Hill 1974). On the basis of this sparse precipitation, few would have predicted the potential for much colluvial deposition. Nevertheless, excavations by Doelle (1980) at MAV-4, marked on the surface by a few large stone artifacts, disclosed a multicomponent site containing artifacts, ecofacts, and featuresmost of which rested under about 10 cm of deposition. Even more ephemeral sites probably lie totally buried in similar depositional environments.
+
+
+
+
+
+When watercourses emerge from foothills or mountains into flatter land, their velocity decreases, and so they deposit large amounts of sediment in landforms known as alluvial fans. These landforms commonly develop in arid or semi-arid areas where rainfall is intermittent (Reineck and Singh 1980). An alluvial fan in the Mohave Desert of southern California boasts one of the most controversial "Early Man" sites in the New World-Calico. Excavations in this natural feature have yielded stones claimed by the excavators to be human handiwork of great antiquity (Simpson 1972). Others who have examined the collection find no evidence for cultural behavior; instead, the rocks display characteristics that superficially mimic chipping behavior, which is not unexpected for lithic materials subject to high-velocity fluvial transport (Haynes 1973). Attribute analysis of the Calico lithics also indicates a natural origin for these objects (Taylor and Payen 1979:273). Another obstacle to acceptance of the Calico "site" is its great age: geoarchaeologists estimate that the alluvial fan is anywhere from 50,000 to more than 1,000,000 years old (Haynes 1973), and a few radiocarbon dates are greater than 40,000 years (Taylor and Payen 1979:263). These dates would imply that the New World was
+
+
+
+
+
+Page 251
+
+
+
+
+
+settled by human populations that were not anatomically modern, a position even the most ardent champions of a pre-Clovis horizon find difficult to support.
+
+
+
+
+
+Because of alluvial deposition, conditions for the discovery of buried cultural deposits are favorable in locales where there is a sharp reduction in the grade of a stream. Throughout the southeastern United States, one finds major rivers flowing from an upland, heavily dissected zone (the piedmont) into a broad coastal plain. Joffre Coe (1964), in North Carolina, used his intimate knowledge of these regional processes and of cultural behavior to predict that buried sites would be found adjacent to rivers at the fall line. Coe's discovery of Archaic sites in predicted locales contributed important information for constructing Archaic sequences in the Southeast, and demonstrated the value of deliberately seeking buried sites. Following the work of Coe, several investigators have sought to identify other places of alluvial deposition where buried sites could be expected. One of the most successful projects of this kind took place in the 1970s in the Lower Little Tennessee River Valley (Chapman 1985). A principal aim of the Tellico Archaeological project was to find stratified Archaic sites in an area thought to be devoid of Archaic remains. Using backhoe testing, and drawing inspiration from Coe's successes, the investigators discovered more than 60 buried sites, some beneath 7 m of alluvium, that furnished evidence of a rich Archaic occupation. Excavations at some of these sites vastly increased our understanding of Archaic lifeways in the Southeast (Chapman 1985).
+
+
+
+
+
+Watercourses are sometimes used for refuse deposition. For example, the Coxoh Maya (Hayden and Cannon 1983) make use of nearby arroyos to dispose of certain kinds of trash (for a Oaxacan case, see Sutro 1984). Such deposits are subject to both transport by periodic water flows or burial by sediments; in neither case is the archaeologist apt to seek or find the refuse deposits. If settlements in a region had unequal access to water-disposal of trash, then differences will arise in artifact frequencies among sites.
+
+
+
+
+
+Erosion
+
+
+
+
+
+Every deposit of sediment has a source; thus, erosion is ultimately responsible for supplying the materials laid down by fluvial (and many other) processes. In practical terms, erosion can be expected where water moves quickly over barren and loosely consolidated sediment. On steep, unprotected slopes, rainwater constantly removes the smaller particles, and brisk flows transport larger ones as well. Any site located on a slopegentle or otherwiseis subject to erosion. In addition, sites in river floodplains can also be eroded (Turnbaugh 1978). Like wind, erosion can remove enough of the smaller soil particles to deflate a site. If the process
+
+
+
+
+
+Page 252
+
+
+
+
+
+continues for long time periods, only the larger artifacts will remain, resting on bedrock. Obviously, sites located on landforms susceptible to erosion will undergo more damage than others in the region. Conceivably, large numbers of upland sherd-and-lithic scatters werebefore erosion more substantial sites, perhaps exhibiting far more variability in feature content than is now the case. Conversely, artifacts removed by erosion may end up on the surface in downstream areas. Although the recording of isolated artifacts on survey projects is now widely practiced (Dunnell and Dancey 1983), it should be kept in mind that some of those artifacts could have been deposited by alluvial, not cultural, processes. For example, using traces of fluvial abrasion on sherds as well as locational patterning, Skibo (n.d.) was able to show that isolated surface sherds in the Ruelas drainage of southern Arizona, formerly thought to have resulted from in-place agricultural activities, had actually been transported by water, probably many kilometers. Clearly, the effects of erosion on a regional scale must be taken into account when settlement models are built.
+
+
+
+
+
+Cultural behavior makes no small contribution to much of the erosion occurring today. Overgrazing, deforestation, excessive pumping of groundwater, and plowing practices are among the factors involved in the widespread erosion that has taken place over large tracts of the United States during the late nineteenth and twentieth centuries (Fig. 9.7). One of the most devastating and thoroughly documented cases of culturally induced erosion comes from the upland, piedmont areas of the American Southeast (Goodyear et al. 1979). Decades of poor soil conservation practices led to massive soil losses and severely reduced agricultural productivity, which eventually resulted in the abandonment of many elegant plantations. The archaeological record of the piedmont is characterized today by prehistoric sites exhibiting varying degrees of deflation and dissection. Nevertheless, as House and Wogaman (1978) have shown, such eroded sites still have considerable research potential. Erosion cycles in antiquity have also been related to cultural behavior (Butzer 1974; Kraft et al. 1975).
+
+
+
+
+
+For the archaeologist, it must be admitted, erosion is not without its beneficial effects. A high energy storm in the desert can create in a few hours new arroyos 2 m deep that provide glimpses into earlier deposits where cultural materials might lie buried. Rivers and streams can also erode their banks and change course, exposing new sediments to archaeological scrutiny. Such natural exposures have been instrumental in the discovery and characterization of Paleoindian and Archaic assemblages in the American Southwest. Sites discovered in this manner, however, pose significant interpretive problems, as shown by an example from the Cochise culture.
+
+
+
+
+
+Page 253
+
+
+
+
+
+Fig. 9.7.
+
+The Salt River in Arizona, shown here in the Salt River Canyon, carries
+
+a heavy load of sediment, supplied in part by run-off from overgrazed areas.
+
+
+
+
+
+In the 1930s, Sayles and Antevs (1941) found buried along dry watercourses in southeastern Arizona the first sites of the Cochise culture, a discovery that filled the conspicuous temporal gap between the Paleoindian finds and the later pottery-making societies of the Southwest (Sayles 1983). Some Cochise sites have been found under more than 3 m of alluvium (Fig. 9.8).
+
+
+
+
+
+The original Cochise sequence was divided into three stages: Sulfur Spring, Chiricahua, and San Pedro (Sayles and Antevs 1941). A puzzling aspect of this sequence is the absence of projectile points in the earliest (Sulfur Spring) stage. This notable anomaly has no parallel elsewhere in the early Archaic of North America. Sayles returned to the Sulfur Spring valley, where he found an early facies containing projectile points. On the basis of these finds, Sayles (1983) defined a new stage, Cazador, which he placed between Sulfur Spring and Chiricahua. Whalen (1971), noting that Cazador materials were found in the same geological units that had yielded the Sulfur Spring remains, argued that in one case Sulfur Spring and Cazador materials derived from the same site, which had been bisected by the channel. New geoarchaeological fieldwork in 1982-1983 by Waters (1983) has finally resolved the controversy. His meticulous study
+
+
+
+
+
+Page 254
+
+
+
+
+
+Fig. 9.8.
+
+Excavations by Sayles and Antevs at a buried
+
+Cochise site, southeastern Arizona. (Reproduced
+
+with permission of the Arizona State Museum)
+
+
+
+
+
+of existing exposures and those furnished by backhoe trenching yielded strong evidence that Cazador is not a distinct entity, but represents different samples of Sulfur Spring and Chiricahua remains. The Early Archaic in southern Arizona does have projectile points.
+
+
+
+
+
+Buried sites of lesser antiquity are also frequently encountered in the Southwest. In the Santa Cruz drainage of southern Arizona, for example, Classic period Hohokam remains, dating to the thirteenth through fifteenth centuries, are sometimes found in arroyos or man-made cuts under more than 1 m of sedimentaltogether without surface indications. Malcolm Rogers (1945) reported a Patayan structure buried under 2.5 m of sediment along the Lower Colorado River. In view of the great impacts that buried sites have had on Southwestern archaeology, one wonders how so many regional reconstructions of prehistory can be offered in their absence.
+
+
+
+
+
+Whenever one is dealing with materials exposed by erosion, new and challenging questions of sampling arise. These pertain to (1) the nature of the site sample itself, (2) the relation of the sample of discovered sites to those in the landform yielding exposures, and (3) the representativeness of discovered sites in relation to the region.
+
+
+
+
+
+It is evident that watercourses expose problematic samples of individual sites. Indeed, just what does one exposure at one site represent? The arroyo or stream may have cut the site at its widest point or just grazed an edge. The opportunistic window into sites afforded by natural cuts should be considered as no more definitive than a sample that would be provided by one randomly placed trench. The best remedy for this sam-
+
+
+
+
+
+Page 255
+
+
+
+
+
+pling uncertainty is to put excavation units in the remaining buried portions of the sites, following the example of Sayles and Antevs (1941).
+
+
+
+
+
+The second sampling question is, to what extent do exposed sites accurately represent those present in the floodplain or other landform that has been sampled by erosion? Obviously, sample sizethe number of exposed sitesis the most influential determinant of how representative such site samples will be. The pattern of natural exposures in relation to the actual distribution of sites also constrains the representativeness of samples. Rare types of sites have a much reduced chance of being exposed, especially if they are present in less active areas of the floodplain. Even today, one cannot be confident that known Cochise sites adequately represent the range of sites in the floodplain.
+
+
+
+
+
+Finally, the most obvious sampling question is the extent that discovered sites represent the entire regional archaeological record. For more than three decades, archaeologists referred to the Cochise "culture" and speculated on that lifeway, relying largely on evidence from a handful of sites exposed in arroyos and described in the 1940s. In 1971 Whalen reported the analysis of numerous nonriverine Cochise sites, which he attempted to integrate into models of regional adaptation. Without question, earlier models of Cochise lifeways were based on a remarkably biased sample of the regional archaeological record.
+
+
+
+
+
+Despite the many sampling difficulties, inspection of natural exposures leads to site discovery and to information about the regional archaeological record that can be obtained in no other way. Moreover, investigators are becoming more sensitive to the difficulties of interpreting such finds.
+
+
+
+
+
+Coastal Processes
+
+
+
+
+
+Major rivers eventually wend their way to the seaitself a source of processes that affect archaeological remains. Those who live near the shore are aware of the fury of waves unleashed by storms; the pounding of waves can reduce even modern buildings to rubble as well as damage and erode buried and exposed archaeological sites. Over long spans of time, glacial processes may leave former seashores high and dry or cause the sea to encroach upon and inundate abandoned settlements (Vita-Finzi 1978). Glaciers lock up large amounts of water, reducing the level of the oceans; conversely, in interglacial periods, the ice sheets melt and sea levels rise. Thus, some old shorelines come about because present-day sea levels are lower than sea levels reached during earlier interglacial periods. In addition, when glaciers retreat, the landrelieved of the considerable weight of the ice sometimes thousands of feet thickrises somewhat by a process known as isostatic recovery. Sea level in any coastal region is a product of the interaction of these two forces, as well as other geomorphological processes (Butzer 1971; Kraft et al. 1985).
+
+
+
+
+
+Page 256
+
+
+
+
+
+Coastlines elevated since the retreat of the last glaciation can sometimes reach surprising heights. Evans (1978:82-84) notes that ''In Scandinavia the centre point of recovery after the Last Glaciation was the head of the Gulf of Bothnia, where the highest Flandrian shoreline is at 295 m above sea-level and where a rate of one centimetre per year is still recorded.'' Such extreme isostatic elevations of ancient shorelines arise only in the immediate vicinity of glacial action; in areas distant from glacial processes, shorelines are apt to be inundated. For example, many early Holocene coastlines and the lower portions of river valleys now lie under water (Kraft 1985). Investigators in the eastern United States are beginning to ponder the effects of inundated sites on Paleoindian and Archaic settlement models, and efforts to reconstruct ancient coastlines and discover underwater sites are now under way (e.g., Masters and Flemming 1983).
+
+
+
+
+
+In some regions, old beaches can be found today on land quite a distance from the present shore (Pyddoke 1961). Sites along the beaches are, of course, valuable archaeological resources. One example of an ancient shoreline with deposits of archaeological interest comes from "Slindon near the south coast of England, where beach shingle and sand occur at some 135 feet above the present sea, and here have been found flint handaxes of Middle Acheulian types" (Pyddoke 1961:61). For exemplary studies of coastal processes and the archaeological record, see Kraft et al. (1975) and Kraft (1977).
+
+
+
+
+
+The Geoarchaeological Mandate
+
+
+
+
+
+In attempting to employ knowledge of the natural depositional history of a region, one runs the risk of relying on inaccurate geological studies. Geomorphologists are skilled at identifying the processes contributing to the formation of a landscape, and can often furnish a temporal ordering of depositional units, but they are not always successful in assigning chronometric dates to specific depositional events, particularly those of the Holocene.
+
+
+
+
+
+One especially intriguing case comes from the Lower Mississippi Valley. In 1944 Fisk furnished an alluvial chronology in which he claimed that all land surfaces in the region were very recent, with none predating the late Holocene. In part because of Fisk's pronouncements, the rich Archaic and Paleoindian manifestations of the Lower Mississippi Valley were ignored by archaeologists for more than a decade. Indeed, as late as 1961 Haag published an article in American Antiquity in which the alleged dearth of Paleoindian and Archaic sites in the Lower Mississippi Valley was again asserted. On a survey carried out at about the same time, however, James Ford (1961b) did discover abundant evidence of early sites in Arkansas, decisively overturning the Fisk chronology. As Morse
+
+
+
+
+
+Page 257
+
+
+
+
+
+(1975:135) recounts, Roger Saucier was a student who worked with Ford on this survey; later, as a U.S. Army Corps of Engineers geologist, Saucier produced a considerably revised alluvial chronology that reflected his archaeological experience (Saucier 1974). Today, the Lower Mississippi Valley is well known for its abundant and important evidence of Paleoindian and Archaic occupation (Morse and Morse 1983). This example demonstrates why geoarchaeology, with its special expertise in integrating archaeological evidence with geological processes, has developed so rapidly in the past few decades.
+
+
+
+
+
+For maximum success, field projects should secure the services of a geoarchaeologist at the earliest stages of work. The geoarchaeologist can influence the overall research design and can furnish invaluable information for making tactical decisions (Gladfelter 1981; Rapp 1975). Regrettably, in far too few cases has geoarchaeological expertise been integrated into the design of archaeological surveys. This lack of input is indefensible because of the large amount of variability that geologicalespecially hydrologicalprocesses introduce into regional archaeological records.
+
+
+
+
+
+From the standpoint of survey design, the archaeologist needs to know where deposition and erosion are occurring and where they have occurred during the period of human occupation of the region (Butzer 1982). Obviously, detailed information on these processes may be lacking, but a first approximation should be helpful in survey design. Early stages of the survey can in fact test predictions based on the geoarchaeological model. Later stages of researchsurvey and excavationshould also be devoted to testing the models and securing new evidence on erosion and deposition and other relevant formation processes. An example of such a geoarchaeological model for the Texas High Plains is furnished by Stafford (1981).
+
+
+
+
+
+Vegetation
+
+
+
+
+
+The major effect of vegetationnatural and culturalon the regional archaeological record is to obscure the surface of the ground, thereby decreasing visibility. In mature pine forests, for example, falling needles form a mat many centimeters thick, called pine duff, that effectively obscures all but the most obtrusive sites. In the Pacific Northwest and Southeast, early stages of forest growth are marked by dense, nearly impenetrable vegetation that utterly hides the surface of the ground. Pedestrian survey in forests is likely to discover large petroglyphs, rockshelters, agricultural terraces, and sites with mounds or masonry architecture, leaving the majority of the archaeological recordsherd and lithic scatters and unobtrusive villagesundiscovered. Traditionally, archaeologists avoided pedestrian-tactic surveys in heavy forest; the obvious
+
+
+
+
+
+Page 258
+
+
+
+
+
+Fig. 9.9.
+
+Vegetation, as in this conifer forest in Yosemite Valley,
+
+can reduce both visibility and accessibility on surveys.
+
+
+
+
+
+difficulty of knowing one's exact location when surrounded by trees was a sufficient deterrent to most investigators (Fig. 9.9). Archaeologists learned of sites in these areas by interacting with landowners or by inspecting places where natural processes or modern activities improved visibility and accessibility. In the American Southwest, for example, archaeologists have "discovered" over the decades a respectable number of sites in ponderosa pine forests, especially large pueblos, by relying on informants. Most large Mogollon pueblos, such as Grasshopper, were found in this manner.
+
+
+
+
+
+In recent years research interests, advances in electronic locating devices (Weymouth 1986), and the practical need to inventory sites in forests for management purposes have led to progress in survey techniques (McManamon 1984). In the Southwest, for example, forest tracts have been surveyed recently by the pedestrian tactic in a sampling framework. The result has been the discovery of a wealth of very small pueblos and sherd-and-lithic scatters. As these new finds are assimilated, archaeologists will no doubt have to reviseoften considerablytheir settlement-subsistence models. For example, to account for the many small sites in the ponderosa pine foresta biome with very few edible resourcesin the Grasshopper region of east-central Arizona, Sullivan (1982) proposed that a variant of slash-and-burn agriculture was practiced by the Mogol-
+
+
+
+
+
+Page 259
+
+
+
+
+
+lon. This provocative hypothesis is causing a reevaluation of long-cherished assumptions about Mogollon adaptations.
+
+
+
+
+
+In other regions, sites covered by vegetation have been found with artificial exposures, such as systematically placed test pits (McManamon 1984). Although these sometimes heroic techniques have increased the absolute numbers of discovered sites, it must be admitted that our ability to use these data to make inferences about regional cultural processes is still strictly limited (Wobst 1983). A few artifacts found in a shovel test are scarcely adequate to characterize the occupational history of a site. More work needs to be directed at solving the problems associated with using these precious small samples.
+
+
+
+
+
+Throughout much of the American Southeast, agriculture has replaced forests, thereby furnishing vast exposures for enhanced site discovery. It should be noted, however, that tree farms are also becoming more prevalent in that region. Farmers are not always willing to grant archaeologists permission to tramp through fields, and so agricultural areas usually present problems of varying accessibility as well as visibility. These problems are aggravated by seasonal changes in vegetation and moisture content, which also influence visibility. Sites can disappear and reappear, depending on season and on time elapsed since last plowing or rainfall. It should also be kept in mind that many areas now in forest or pasture, especially in the eastern United States, were cultivated in historic times.
+
+
+
+
+
+Most regions of any size contain a mix of vegetation types, each posing particular visibility and accessibility problems. As a result, the variability in reported sites is partly determined by variability in visibility and accessibility. Regrettably, many regional settlement studies have not attempted to assess the effects of these factors on the known archaeological records, thereby adversely affecting their reconstructions to an unknown extent (see Chapter 13).
+
+
+
+
+
+Although the problems of survey in forested environments are widely understood, the impacts of more open vegetation patterns on the archaeological record are only now becoming apparent. For example, in regions where vegetation does not hinder site discovery, it can still affect the characterization of (and surface collecting at) sites, introducing additional variability unrelated to past cultural behavior. In particular, intersite and intrasite differences in vegetation affect the completeness with which surface recovery units can be inspected and collected (Neal Ackerly, personal communication, 1983).
+
+
+
+
+
+Fauna
+
+
+
+
+
+The normal life cycles and behaviors of animals create problems of site discovery quite unlike those presented by other environmental processes that act on a regional scale. Animals contribute to the formation of a
+
+
+
+
+
+Page 260
+
+
+
+
+
+paleontological record of "background" faunal remains that can coincide with or mimic archaeological sites.
+
+
+
+
+
+Animals live and die in all environments, and so their bones come to rest in and on sediments. The background fauna are further affected by animals such as porcupines and packrats that collect bones from the surface and concentrate them in dens or nests. The branch of science that studies the natural transformations of living animals (and plants) to the paleontological record is known as taphonomy. This field is quite vigorous and enjoys contributions from several disciplines, including archaeology (Shipman 1981; Behrensmeyer and Hill 1981; Brain 1981; Binford 1981b). This paleontological record (a part of the overall environmental record) can intersect the archaeological record at sitese.g., caves utilized by both people and animalsand it can even produce pseudosites.
+
+
+
+
+
+The principal strategies for investigating taphonomic processes are field studies of animal behavior (ethology), observations of naturally deposited bone in the environment, and laboratory simulations. So far, these studies have documented the behavior of particular bone-accumulating agents as well as the processes to which bones are subjected. Taphonomic processes appear to be regular in their operation. For example, carnivore action on ungulate skeletons involves selective destruction of elements and element parts. Although taphonomic processes are regular, different processes may have similar effects. For example, sorting of bones by stream action can create faunal assemblages that in some cases may appear to have been processed by carnivores. These uncertainties may be resolved as additional actualistic studies are completed (see Lyman 1984). Studies of burrowing animals (Chapter 8) also provide information on the background levels of various species likely to die in their burrows or on the surface (Bocek 1986).
+
+
+
+
+
+Another helpful strategy for understanding noncultural deposition of bone in a region is to scrutinize landforms or microenvironments, comparable to site locations, that lack cultural materials. By making observations in such "control" areas, the archaeologist can come to appreciate the prevalence of specific bone-depositing processes and can assess their likely effects on archaeological locations. For example, in the Chevelon area of east-central Arizona, Brieur (1977) excavated samples of similar rockshelters, those with and without cultural remains. Such studies should eventually lead to rigorous criteria for analytically partitioning the contributions of cultural and noncultural deposition to archaeological deposits or apparent archaeological deposits.
+
+
+
+
+
+Some of the most celebrated controversies in recent archaeology concern the role of hominids versus other animals in the creation of certain "archaeological" deposits. In South Africa, Brain (1981) has carried out a
+
+
+
+
+
+Page 261
+
+
+
+
+
+host of ethological studies investigating the bone accumulating and depositing behavior of several species, from hyenas to porcupines. On the basis of these studies, he disputed Raymond Dart's claim that australopithecines had been responsible for depositing the animal bones recovered from the South African cave breccias, arguing instead that the bonesincluding those of hominidshad accumulated through various noncultural processes, especially carnivore behavior. In Brain's view, these early hominids were not the great hunters of Dart's claim, but were instead one species of prey. Other taphonomic studies support Brain's view (e.g., Shipman and Phillips-Conroy 1977). Brain's recent excavations at Swartkrans have produced a small number of apparent bone tools that could have been used for diggingnot hunting (Brain 1984).
+
+
+
+
+
+In an analogous study, Binford (1981b) argues that the so-called living floors in early hominid sites of East Africa were the scene of both cultural and noncultural deposition and that most of the animal bone was deposited by noncultural processes. He further suggests that the early hominids did not hunt big game but scavenged meat and processed bone, including that left by other carnivores. Although Binford's scavenging hypothesis has been questioned on a variety of grounds (see Toth and Schick 1986), as well as supportedat least for Bed I of Olduvai (Shipman 1984)his central argument remains sound: one cannot assume a priori that stone tools and animal bones were deposited in East African sites by the same process. Additional ethological studies will probably be needed to identify patterns of bone deposition and modification in those environments by noncultural agencies.
+
+
+
+
+
+Animals can also introduce plant materials into archaeological sites. For example, rodents such as packrats and hamsters collect seeds and other objects, bringing them back to their nests (which may be on or within an archaeological deposit). Paleoethnobotanists caution that unburned seeds found in open-air sites should be viewed with suspicion, for they could have been deposited by burrowing animals (Matthews 1984; Miksicek n.d.).
+
+
+
+
+
+Concluding Remarks
+
+
+
+
+
+During human occupation of regions, natural processes, influenced by cultural behavior, have created an ever-changing landscape that the investigator perceives at just one point in time. The contemporary region is a complex, three-dimensional mosaic consisting of natural sediments, vegetation, modern artifacts and settlements, and archaeological remains. In order to find sites and, especially, to understand how settlements functioned in regional systems, one must endeavor to infer or reconstruct changes in the landscape. Moreover, understanding of the present-day
+
+
+
+
+
+Page 262
+
+
+
+
+
+landscape and its origins is essential for designing cost-effective and fruitful surveys. It is inevitable that much of the archaeological variability reported within and between regions is a consequence, not of past human behavior, but of differences in the environmental processes that today influence the archaeologist's ability to find and interpret artifacts and sites.
+
+
+
+
+
+Page 263
+
+
+
+
+

@@ -1,0 +1,881 @@
+                                 PREFACE
+
+
+
+
+THIS BOOK grew out of a sense of puzzlement: the fact that for many years the
+industrialized nations of North America and Europe were supposed to be
+the indubitable models for the societies of Asia, Africa, and Latin America,
+the so-called Third World, and that these societies must catch up with the
+industrialized countries, perhaps even become like them. This belief is still
+held today in many quarters. Development was and continues to be—
+although less convincingly so as the years go by and its promises go unful-
+filled—the magic formula. The presumed ineluctability of this notion—and,
+for the most part, its unquestioned desirability—was most puzzling to me.
+This work arose out of the need to explain this situation, namely, the crea-
+tion of a Third World and the dream of development, both of which have
+been an integral part of the socioeconomic, cultural, and political life of the
+post–World War II period.
+    The overall approach taken in the book can be described as poststruc-
+turalist. More precisely, the approach is discursive, in the sense that it stems
+from the recognition of the importance of the dynamics of discourse and
+power to any study of culture. But there is much more than an analysis of
+discourse and practice; I also attempt to contribute to the development of a
+framework for the cultural critique of economics as a foundational structure
+of modernity, including the formulation of a culture-based political econ-
+omy. In addition, I include a detailed examination of the emergence of peas-
+ants, women, and the environment as clients of the development apparatus
+in the 1970s and 1980s. Finally, I incorporate throughout the text accounts
+of Third World scholars, many of whom tell stories that are less mediated by
+the needs of the U.S. and European academy.
+    The approach is also anthropological. As Stuart Hall said, “If culture hap-
+pens to be what seizes your soul, you will have to recognize that you will
+always be working in an area of displacement.” The analysis in this book is
+cultural in the anthropological sense but also in the sense of cultural studies.
+It may be situated among current attempts to advance anthropology and
+cultural studies as critical, intellectual, and political projects.
+    As the title of the book suggests, development and even the Third World
+may be in the process of being unmade. This is happening not so much
+because the Second World (the socialist economies of Europe) is gone and
+the Holy Trinity of the post–World War II era is finally collapsing on its own
+but because of development’s failure and the increasing opposition to it by
+popular groups in the Third World. The voices that are calling for an end to
+viii                                 PREFACE
+
+development are becoming more numerous and audible. This book can be
+seen as part of this effort; I also hope that it will be part of the task of imagin-
+ing and fostering alternatives.
+
+I would like to thank the following people: Sheldon Margen, Paul Rabinow,
+and C. West Churchman of the University of California, Berkeley; Jacque-
+line Urla and Sonia E. Alvarez, special friends and co-workers in anthro-
+pology and social movements research, respectively; Tracey Tsugawa, Jen-
+nifer Terry, Orin Starn, Miguel Díaz-Barriga, Deborah Gordon, and Ron
+Balderrama, also good friends and interlocutors; Michael Taussig, James
+O’Connor, Lourdes Benería, Adele Mueller, Stephen Gudeman, and James
+Clifford, important sources of insights and support.
+   Scholars working on related approaches to development whose writings,
+discussions, and active support I appreciate include Majid Rahnema, Ashis
+Nandy, Vandana Shiva, Shiv Visvanathan, Stephen and Frédérique Marglin,
+and the group gathered around Wolfgang Sachs, Ivan Illich, and Barbara
+Duden; James Ferguson and Stacy Leigh Pigg, fellow anthropologists; and
+María Cristina Rojas de Ferro, also studying Colombian regimes of repre-
+sentation. Donald Lowe and John Borrego read and offered suggestions on
+my doctoral dissertation in Berkeley.
+   Several people in Colombia have been extremely important to this book.
+I want to thank especially Alvaro Pedrosa, Orlando Fals Borda, María
+Cristina Salazar, and Magdalena León de Leal for providing intellectual ex-
+change and friendship. My research on food, nutrition, and rural develop-
+ment was made easier and more interesting by Darío Fajardo, Patricia Pri-
+eto, Sofía Valencia, and Beatriz Hernandez. In the United States, I thank
+Leonard Joy, Michael Latham, Alain de Janvry, and Nola Reinhardt, also for
+their work on food and nutrition, on which I draw. The Latin American
+dimension of the book received vital impetus from the following friends and
+colleagues: Fernando Calderón and Alejandro Piscitelli (Buenos Aires);
+Margarita López Maya, Luis Gómez, María Pilar García, and Edgardo and
+Luis Lander (Caracas); Edmundo Fuenzalida (Santiago); Heloisa Boarque
+de Hollanda (Rio de Janeiro); Aníbal Quijano (Lima); and Fernando Flores
+in Berkeley, who was instrumental in helping me obtain financial support for
+a year of writing at Berkeley. Funding for fifteen months of fieldwork in
+Colombia (1981–1982; 1983) was provided by the United Nations Univer-
+sity.
+   More often than not, my undergraduate students at the University of Cal-
+ifornia, Santa Cruz, and Smith College responded enthusiastically and criti-
+cally to many of the ideas presented in this book. I want to thank particularly
+Ned Bade, and Granis Stewart and Beth Bessinger, my research assistants at
+Santa Cruz and Smith College, respectively.
+   On a more personal note (although in the case of many of those already
+                                 PREFACE                                   ix
+mentioned the line between the personal and the professional is blurred at
+best), I would like to thank friends in the San Francisco Bay Area, particu-
+lary Celso Alvarez, Cathryn Teasley, Zé Araújo, Ignacio Valero, Guillermo
+Padilla, Marcio Cámara, Judit Moschkovich, Isabel de Sena, Ron Levaco,
+Rosselyn Lash, Rafael Coto, Tina Rotenberg, Clementina Acedo, Lorena
+Martos, Inés Gómez, Jorge Myers, and Richard Harris; Marta Morello-
+Frosch, Julianne Burton, and David Sweet at the Latin American Studies
+program at the University of California at Santa Cruz, where I taught for
+three years; Nancy Gutman and Richard Lim in Northampton, Massachu-
+setts; and my colleagues in the anthropology department at Smith College—
+Elizabeth Hopkins, Frédérique Apffel-Marglin, and Donald Joralemon. In
+Colombia, a similar group of friends includes Consuelo Moreno, Jaime Fer-
+nando Valencia, Mercedes Franco, and their children, and Yolanda Arango
+and Alvaro Bedoya. Finally, I want to thank especially my family—Yadira,
+María Victoria, Chepe, Tracey, and María Elena. I also want to remember
+my father, Gustavo, who died in 1990 still dreaming of his small hometown
+while trying (without great success in terms of conventional economic and
+development indicators) to make it in the big city so that his children could
+“get ahead” and become modern.
+   The suggestions of Mary Murrell, my editor at Princeton University
+Press, were an important catalyst in bringing the book to completion in its
+present form. I am grateful to her for her trust in the project. Finally, I
+would like to acknowledge two other sources of inspiration: Michel Fou-
+cault, whose work provided insights in many forms and at many levels, and
+the vibrant sounds of many Third World musicians—Caribbean, West Afri-
+can, and Latin American—particularly when I lived in the San Francisco
+Bay Area. It is not a coincidence that Third World music is becoming in-
+creasingly important in the cultural productions of the West. This brief men-
+tion is meant as a reminder that perhaps many books—this one included—
+would be quite different without it.
+Encountering Development
+                                    Chapter 1
+
+      INTRODUCTION: DEVELOPMENT AND THE
+          ANTHROPOLOGY OF MODERNITY
+
+              There is a sense in which rapid economic progress is
+                 impossible without painful adjustments. Ancient
+             philosophies have to be scrapped; old social institutions
+            have to disintegrate; bonds of caste, creed and race have to
+            burst; and large numbers of persons who cannot keep up
+                with progress have to have their expectations of a
+              comfortable life frustrated. Very few communities are
+                willing to pay the full price of economic progress.
+                                 —United Nations,
+                   Department of Social and Economic Affairs,
+                    Measures for the Economic Development of
+                         Underdeveloped Countries, 1951
+
+
+
+
+IN HIS inaugural address as president of the United States on January 20,
+1949, Harry Truman announced his concept of a “fair deal” for the entire
+world. An essential component of this concept was his appeal to the United
+States and the world to solve the problems of the “underdeveloped areas” of
+the globe.
+  More than half the people of the world are living in conditions approaching
+  misery. Their food is inadequate, they are victims of disease. Their economic
+  life is primitive and stagnant. Their poverty is a handicap and a threat both to
+  them and to more prosperous areas. For the first time in history humanity
+  possesses the knowledge and the skill to relieve the suffering of these peo-
+  ple. . . . I believe that we should make available to peace-loving peoples the
+  benefits of our store of technical knowledge in order to help them realize their
+  aspirations for a better life. . . . What we envisage is a program of development
+  based on the concepts of democractic fair dealing. . . . Greater production is the
+  key to prosperity and peace. And the key to greater production is a wider and
+  more vigorous application of modern scientific and technical knowledge. (Tru-
+  man [1949] 1964)
+
+The Truman doctrine initiated a new era in the understanding and manage-
+ment of world affairs, particularly those concerning the less economically
+accomplished countries of the world. The intent was quite ambitious: to
+4                                    CHAPTER 1
+
+bring about the conditions necessary to replicating the world over the fea-
+tures that characterized the “advanced” societies of the time—high levels of
+industrialization and urbanization, technicalization of agriculture, rapid
+growth of material production and living standards, and the widespread
+adoption of modern education and cultural values. In Truman’s vision, capi-
+tal, science, and technology were the main ingredients that would make this
+massive revolution possible. Only in this way could the American dream of
+peace and abundance be extended to all the peoples of the planet.
+   This dream was not solely the creation of the United States but the result
+of the specific historical conjuncture at the end of the Second World War.
+Within a few years, the dream was universally embraced by those in power.
+The dream was not seen as an easy process, however; predictably perhaps,
+the obstacles perceived ahead contributed to consolidating the mission. One
+of the most influential documents of the period, prepared by a group of
+experts convened by the United Nations with the objective of designing
+concrete policies and measures “for the economic development of underde-
+veloped countries,” put it thus:
+    There is a sense in which rapid economic progress is impossible without painful
+    adjustments. Ancient philosophies have to be scrapped; old social institutions
+    have to disintegrate; bonds of cast, creed and race have to burst; and large
+    numbers of persons who cannot keep up with progress have to have their ex-
+    pectations of a comfortable life frustrated. Very few communities are willing to
+    pay the full price of economic progress. (United Nations, Department of Social
+    and Economic Affairs [1951], 15)1
+
+The report suggested no less than a total restructuring of “underdeveloped”
+societies. The statement quoted earlier might seem to us today amazingly
+ethnocentric and arrogant, at best naive; yet what has to be explained is
+precisely the fact that it was uttered and that it made perfect sense. The
+statement exemplified a growing will to transform drastically two-thirds of
+the world in the pursuit of the goal of material prosperity and economic
+progress. By the early 1950s, such a will had become hegemonic at the level
+of the circles of power.
+   This book tells the story of this dream and how it progressively turned into
+a nightmare. For instead of the kingdom of abundance promised by theorists
+and politicians in the 1950s, the discourse and strategy of development pro-
+duced its opposite: massive underdevelopment and impoverishment, untold
+exploitation and oppression. The debt crisis, the Sahelian famine, increasing
+poverty, malnutrition, and violence are only the most pathetic signs of the
+failure of forty years of development. In this way, this book can be read as
+the history of the loss of an illusion, in which many genuinely believed.
+Above all, however, it is about how the “Third World” has been produced by
+the discourses and practices of development since their inception in the
+early post–World War II period.
+                               INTRODUCTION                                  5
+
+           ORIENTALISM, AFRICANISM, AND DEVELOPMENTALISM
+Until the late 1970s, the central stake in discussions on Asia, Africa, and
+Latin America was the nature of development. As we will see, from the
+economic development theories of the 1950s to the “basic human needs
+approach” of the 1970s—which emphasized not only economic growth per
+se as in earlier decades but also the distribution of the benefits of growth—
+the main preoccupation of theorists and politicians was the kinds of develop-
+ment that needed to be pursued to solve the social and economic problems
+of these parts of the world. Even those who opposed the prevailing capitalist
+strategies were obliged to couch their critique in terms of the need for devel-
+opment, through concepts such as “another development,” “participatory
+development,” “socialist development,” and the like. In short, one could
+criticize a given approach and propose modifications or improvements ac-
+cordingly, but the fact of development itself, and the need for it, could not
+be doubted. Development had achieved the status of a certainty in the social
+imaginary.
+   Indeed, it seemed impossible to conceptualize social reality in other
+terms. Wherever one looked, one found the repetitive and omnipresent real-
+ity of development: governments designing and implementing ambitious
+development plans, institutions carrying out development programs in city
+and countryside alike, experts of all kinds studying underdevelopment and
+producing theories ad nauseam. The fact that most people’s conditions not
+only did not improve but deteriorated with the passing of time did not seem
+to bother most experts. Reality, in sum, had been colonized by the develop-
+ment discourse, and those who were dissatisfied with this state of affairs had
+to struggle for bits and pieces of freedom within it, in the hope that in the
+process a different reality could be constructed.2
+   More recently, however, the development of new tools of analysis, in ges-
+tation since the late 1960s but the application of which became widespread
+only during the 1980s, has made possible analyses of this type of “coloniza-
+tion of reality” which seek to account for this very fact: how certain repre-
+sentations become dominant and shape indelibly the ways in which reality
+is imagined and acted upon. Foucault’s work on the dynamics of discourse
+and power in the representation of social reality, in particular, has been
+instrumental in unveiling the mechanisms by which a certain order of dis-
+course produces permissible modes of being and thinking while disqualify-
+ing and even making others impossible. Extensions of Foucault’s insights
+to colonial and postcolonial situations by authors such as Edward Said,
+V. Y. Mudimbe, Chandra Mohanty, and Homi Bhabha, among others, have
+opened up new ways of thinking about representations of the Third World.
+Anthropology’s self-critique and renewal during the 1980s have also been
+important in this regard.
+   Thinking of development in terms of discourse makes it possible to main-
+6                                       CHAPTER 1
+
+tain the focus on domination—as earlier Marxist analyses, for instance,
+did—and at the same time to explore more fruitfully the conditions of possi-
+bility and the most pervasive effects of development. Discourse analysis cre-
+ates the possibility of “stand[ing] detached from [the development dis-
+course], bracketing its familiarity, in order to analyze the theoretical and
+practical context with which it has been associated” (Foucault 1986, 3). It
+gives us the possibility of singling out “development” as an encompassing
+cultural space and at the same time of separating ourselves from it by per-
+ceiving it in a totally new form. This is the task the present book sets out to
+accomplish.
+   To see development as a historically produced discourse entails an exam-
+ination of why so many countries started to see themselves as underdevel-
+oped in the early post–World War II period, how “to develop” became a
+fundamental problem for them, and how, finally, they embarked upon the
+task of “un-underdeveloping” themselves by subjecting their societies to
+increasingly systematic, detailed, and comprehensive interventions. As
+Western experts and politicians started to see certain conditions in Asia,
+Africa, and Latin America as a problem—mostly what was perceived as pov-
+erty and backwardness—a new domain of thought and experience, namely,
+development, came into being, resulting in a new strategy for dealing with
+the alleged problems. Initiated in the United States and Western Europe,
+this strategy became in a few years a powerful force in the Third World.
+   The study of development as discourse is akin to Said’s study of the dis-
+courses on the Orient. “Orientalism,” writes Said,
+    can be discussed and analyzed as the corporate institution for dealing with the
+    Orient—dealing with it by making statements about it, authorizing views of it,
+    describing it, by teaching it, settling it, ruling over it: in short, Orientalism as a
+    Western style for dominating, restructuring, and having authority over the Ori-
+    ent. . . . My contention is that without examining Orientalism as a discourse we
+    cannot possibly understand the enormously systematic discipline by which Eu-
+    ropean culture was able to manage—and even produce—the Orient politically,
+    sociologically, ideologically, scientifically, and imaginatively during the post-
+    Enlightenment period. (1979, 3)
+
+Since its publication, Orientalism has sparked a number of creative studies
+and inquiries about representations of the Third World in various contexts,
+although few have dealt explicitly with the question of development. Never-
+theless, the general questions some of these works raised serve as markers
+for the analysis of development as a regime of representation. In his excel-
+lent book The Invention of Africa, the African philosopher V. Y. Mudimbe,
+for example, states his objective thus: “To study the theme of the founda-
+tions of discourse about Africa . . . [how] African worlds have been estab-
+lished as realities for knowledge” (1988, xi) in Western discourse. His con-
+                               INTRODUCTION                                  7
+cern, moreover, goes beyond “the ‘invention’ of Africanism as a scientific
+discipline” (9), particularly in anthropology and philosophy, in order to in-
+vestigate the “amplification” by African scholars of the work of critical Euro-
+pean thinkers, particularly Foucault and Lévi-Strauss. Although Mudimbe
+finds that even in the most Afrocentric perspectives the Western epistemo-
+logical order continues to be both context and referent, he nevertheless finds
+some works in which critical European insights are being carried even fur-
+ther than those works themselves anticipated. What is at stake for these
+latter works, Mudimbe explains, is a critical reinterpretation of African his-
+tory as it has been seen from Africa’s (epistemological, historical, and geo-
+graphical) exteriority, indeed, a weakening of the very notion of Africa. This,
+for Mudimbe, implies a radical break in African anthropology, history, and
+ideology.
+   Critical work of this kind, Mudimbe believes, may open the way for “the
+process of refounding and reassuming an interrupted historicity within rep-
+resentations” (183), in other words, the process by which Africans can have
+greater autonomy over how they are represented and how they can con-
+struct their own social and cultural models in ways not so mediated by a
+Western episteme and historicity—albeit in an increasingly transnational
+context. This notion can be extended to the Third World as a whole, for what
+is at stake is the process by which, in the history of the modern West, non-
+European areas have been systematically organized into, and transformed
+according to, European constructs. Representations of Asia, Africa, and
+Latin America as Third World and underdeveloped are the heirs of an illus-
+trious genealogy of Western conceptions about those parts of the world.3
+   Timothy Mitchell unveils another important mechanism at work in Euro-
+pean representations of other societies. Like Mudimbe, Mitchell’s goal is to
+explore “the peculiar methods of order and truth that characterise the mod-
+ern West” (1988, ix) and their impact on nineteenth-century Egypt. The
+setting up of the world as a picture, in the model of the world exhibitions of
+the last century, Mitchell suggests, is at the core of these methods and their
+political expediency. For the modern (European) subject, this entailed that
+s/he would experience life as if s/he were set apart from the physical world,
+as if s/he were a visitor at an exhibition. The observer inevitably “enframed”
+external reality in order to make sense of it; this enframing took place ac-
+cording to European categories. What emerged was a regime of objectivism
+in which Europeans were subjected to a double demand: to be detached and
+objective, and yet to immerse themselves in local life.
+   This experience as participant observer was made possible by a curious
+trick, that of eliminating from the picture the presence of the European
+observer (see also Clifford 1988, 145); in more concrete terms, observing the
+(colonial) world as object “from a position that is invisible and set apart”
+(Mitchell 1988, 28). The West had come to live “as though the world were
+8                                       CHAPTER 1
+
+divided in this way into two: into a realm of mere representations and a
+realm of the ‘real’; into exhibitions and an external reality; into an order of
+mere models, descriptions or copies, and an order of the original” (32). This
+regime of order and truth is a quintessential aspect of modernity and has
+been deepened by economics and development. It is reflected in an objec-
+tivist and empiricist stand that dictates that the Third World and its peoples
+exist “out there,” to be known through theories and intervened upon from
+the outside.
+   The consequences of this feature of modernity have been enormous.
+Chandra Mohanty, for example, refers to the same feature when raising the
+questions of who produces knowledge about Third World women and from
+what spaces; she discovered that women in the Third World are represented
+in most feminist literature on development as having “needs” and “prob-
+lems” but few choices and no freedom to act. What emerges from such
+modes of analysis is the image of an average Third World woman, con-
+structed through the use of statistics and certain categories:
+    This average third world woman leads an essentially truncated life based on her
+    feminine gender (read: sexually constrained) and her being “third world” (read:
+    ignorant, poor, uneducated, tradition-bound, domestic, family-oriented, victim-
+    ized, etc.). This, I suggest, is in contrast to the (implicit) self-representation of
+    Western women as educated, as modern, as having control over their own bod-
+    ies and sexualities, and the freedom to make their own decisions. (1991b, 56)
+
+These representations implicitly assume Western standards as the bench-
+mark against which to measure the situation of Third World women. The
+result, Mohanty believes, is a paternalistic attitude on the part of Western
+women toward their Third World counterparts and, more generally, the
+perpetuation of the hegemonic idea of the West’s superiority. Within this
+discursive regime, works about Third World women develop a certain co-
+herence of effects that reinforces that hegemony. “It is in this process of
+discursive homogenization and systematization of the oppression of women
+in the third world,” Mohanty concludes, “that power is exercised in much of
+recent Western feminist discourse, and this power needs to be defined and
+named” (54).4
+   Needless to say, Mohanty’s critique applies with greater pertinence to
+mainstream development literature, in which there exists a veritable under-
+developed subjectivity endowed with features such as powerlessness, pas-
+sivity, poverty, and ignorance, usually dark and lacking in historical agency,
+as if waiting for the (white) Western hand to help subjects along and not
+infrequently hungry, illiterate, needy, and oppressed by its own stubborn-
+ness, lack of initiative, and traditions. This image also universalizes and ho-
+mogenizes Third World cultures in an ahistorical fashion. Only from a cer-
+tain Western perspective does this description make sense; that it exists at
+                                  INTRODUCTION                                           9
+all is more a sign of power over the Third World than a truth about it. It is
+important to highlight for now that the deployment of this discourse in a
+world system in which the West has a certain dominance over the Third
+World has profound political, economic, and cultural effects that have to be
+explored.
+   The production of discourse under conditions of unequal power is what
+Mohanty and others refer to as “the colonialist move.” This move entails
+specific constructions of the colonial / Third World subject in/through dis-
+course in ways that allow the exercise of power over it. Colonial discourse,
+although “the most theoretically underdeveloped form of discourse,” ac-
+cording to Homi Bhabha, is “crucial to the binding of a range of differences
+and discriminations that inform the discursive and political practices of ra-
+cial and cultural hierarchization” (1990, 72). Bhabha’s definition of colonial
+discourse, although complex, is illuminating:
+  [Colonial discourse] is an apparatus that turns on the recognition and disavowal
+  of racial/cultural/historical differences. Its predominant strategic function is the
+  creation of a space for a “subject peoples” through the production of knowl-
+  edges in terms of which surveillance is exercised and a complex form of plea-
+  sure/unpleasure is incited. . . . The objective of colonial discourse is to construe
+  the colonized as a population of degenerate types on the basis of racial origin,
+  in order to justify conquest and to establish systems of administration and in-
+  struction. . . . I am referring to a form of governmentality that in marking out a
+  “subject nation,” appropriates, directs and dominates its various spheres of ac-
+  tivity. (1990, 75)
+
+Although some of the terms of this definition might be more applicable to
+the colonial context strictly speaking, the development discourse is gov-
+erned by the same principles; it has created an extremely efficient apparatus
+for producing knowledge about, and the exercise of power over, the Third
+World. This apparatus came into existence roughly in the period 1945 to
+1955 and has not since ceased to produce new arrangements of knowledge
+and power, new practices, theories, strategies, and so on. In sum, it has
+successfully deployed a regime of government over the Third World, a
+“space for ‘subject peoples’ ” that ensures certain control over it.
+   This space is also a geopolitical space, a series of imaginative geographies,
+to use Said’s (1979) term. The development discourse inevitably contained
+a geopolitical imagination that has shaped the meaning of development for
+more than four decades. For some, this will to spatial power is one of the
+most essential features of development (Slater 1993). It is implicit in expres-
+sions such as First and Third World, North and South, center and periphery.
+The social production of space implicit in these terms is bound with the
+production of differences, subjectivities, and social orders. Despite the cor-
+rectives introduced to this geopolitics—the decentering of the world, the
+10                                CHAPTER 1
+
+demise of the Second World, the emergence of a network of world cities, the
+globalization of cultural production, and so on—they continue to function
+imaginatively in powerful ways. There is a relation among history, geogra-
+phy, and modernity that resists disintegration as far as the Third World is
+concerned, despite the important changes that have given rise to postmod-
+ern geographies (Soja 1989).
+
+To sum up, I propose to speak of development as a historically singular
+experience, the creation of a domain of thought and action, by analyzing the
+characteristics and interrelations of the three axes that define it: the forms of
+knowledge that refer to it and through which it comes into being and is
+elaborated into objects, concepts, theories, and the like; the system of power
+that regulates its practice; and the forms of subjectivity fostered by this dis-
+course, those through which people come to recognize themselves as devel-
+oped or underdeveloped. The ensemble of forms found along these axes
+constitutes development as a discursive formation, giving rise to an efficient
+apparatus that systematically relates forms of knowledge and techiques of
+power.5
+   The analysis will thus be couched in terms of regimes of discourse and
+representation. Regimes of representation can be analyzed as places of en-
+counter where identities are constructed and also where violence is origi-
+nated, symbolized, and managed. This useful hypothesis, developed by a
+Colombian scholar to explain nineteenth-century violence in her country,
+building particularly on the works of Bakhtin, Foucault, and Girard, con-
+ceives of regimes of representation as places of encounter of languages of the
+past and languages of the present (such as the languages of “civilization” and
+“barbarism” in postindependence Latin America), internal and external lan-
+guages, and languages of self and other (Rojas de Ferro 1994). A similar
+encounter of regimes of representation took place in the late 1940s with the
+emergence of development, also accompanied by specific forms of modern-
+ized violence.6
+   The notion of regimes of representation is a final theoretical and method-
+ological principle for examining the mechanisms for, and consequences of,
+the construction of the Third World in/through representation. Charting
+regimes of representation of the Third World brought about by the develop-
+ment discourse represents an attempt to draw the “cartographies” (Deleuze
+1988) or maps of the configurations of knowledge and power that define the
+post–World War II period. These are also cartographies of struggle, as Mo-
+hanty (1991a) adds. Although they are geared toward an understanding of
+the conceptual maps that are used to locate and chart Third World people’s
+experience, they also reveal—even if indirectly at times—the categories
+with which people have to struggle. This book provides a general map for
+orienting oneself in the discourses and practices that account for today’s
+                               INTRODUCTION                                 11
+dominant forms of sociocultural and economic production of the Third
+World.
+   The goals of this book are precisely to examine the establishment and
+consolidation of this discourse and apparatus from the early post–World
+War II period to the present (chapter 2); analyze the construction of a notion
+of underdevelopment in post–World War II economic development theo-
+ries (chapter 3); and demonstrate the way in which the apparatus functions
+through the systematic production of knowldege and power in specific
+fields—such as rural development, sustainable development, and women
+and development (chapters 4 and 5). Finally, the conclusion deals with the
+important question of how to imagine a postdevelopment regime of repre-
+sentation and how to investigate and pursue alternative practices in the con-
+text of today’s social movements in the Third World.
+   This, one might say, is a study of developmentalism as a discursive field.
+Unlike Said’s study of Orientalism, however, I pay closer attention to the
+deployment of the discourse through practices. I want to show that this
+discourse results in concrete practices of thinking and acting through which
+the Third World is produced. The example I chose for this closer investi-
+gation is the implementation of rural development, health, and nutrition
+programs in Latin America in the 1970s and 1980s. Another difference in
+relation to Orientalism originates in Homi Bhabha’s caution that “there is
+always, in Said, the suggestion that colonial power is possessed entirely by
+the colonizer, given its intentionality and unidirectionality” (1990, 77). This
+is a danger I seek to avoid by considering the variety of forms with which
+Third World people resist development interventions and how they struggle
+to create alternative ways of being and doing.
+   Like Mudimbe’s study of Africanism, I also want to unveil the foundations
+of an order of knowledge and a discourse about the Third World as underde-
+veloped. I want to map, so to say, the invention of development. Instead of
+focusing on anthropology and philosophy, however, I contextualize the era
+of development within the overall space of modernity, particularly modern
+economic practices. From this perspective, development can be seen as a
+chapter of what can be called an anthropology of modernity, that is, a general
+investigation of Western modernity as a culturally and historically specific
+phenomenon. If it is true that there is an “anthropological structure” (Fou-
+cault 1975, 198) that sustains the modern order and its human sciences, it
+must be investigated to what extent this structure has also given rise to the
+regime of development, perhaps as a specific mutation of modernity. A gen-
+eral direction for this anthropology of modernity has already been sug-
+gested, in the sense of rendering “exotic” the West’s cultural products in
+order to see them for what they are: “We need to anthropologize the West:
+show how exotic its constitution of reality has been; emphasize those do-
+mains most taken for granted as universal (this includes epistemology and
+12                                CHAPTER 1
+
+economics); make them seem as historically peculiar as possible; show how
+their claims to truth are linked to social practices and have hence become
+effective forces in the social world” (Rabinow 1986, 241).
+   The anthropology of modernity would rely on ethnographic approaches
+that look at social forms as produced by historical practices combining
+knowledge and power; it would seek to examine how truth claims are related
+to practices and symbols that produce and regulate social life. As we will see,
+the production of the Third World through the articulation of knowledge
+and power is essential to the development discourse. This does not preclude
+the fact that from many Third World spaces, even the most reasonable
+among the West’s social and cultural practices might look quite peculiar,
+even strange. Nevertheless, even today most people in the West (and many
+parts of the Third World) have great difficulty thinking about Third World
+situations and people in terms other than those provided by the develop-
+ment discourse. These terms—such as overpopulation, the permanent
+threat of famine, poverty, illiteracy, and the like—operate as the most com-
+mon signifiers, already stereotyped and burdened with development signi-
+fieds. Media images of the Third World are the clearest example of develop-
+mentalist representations. These images just do not seem to go away. This is
+why it is necessary to examine development in relation to the modern expe-
+riences of knowing, seeing, counting, economizing, and the like.
+
+
+                      DECONSTRUCTING DEVELOPMENT
+The discursive analysis of development started in the late 1980s and will
+most likely continue into the 1990s, coupled with attempts at articulating
+alternative regimes of representation and practice. Few works, however,
+have undertaken the deconstruction of the development discourse.7 James
+Ferguson’s recent book on development in Lesotho (1990) is a sophisticated
+example of the deconstructionist approach. Ferguson provides an in-depth
+analysis of rural development programs implemented in the country under
+World Bank sponsorship. Further entrenchment of the state, the restructur-
+ing of rural social relations, the deepening of Western modernizing influ-
+ences, and the depoliticization of problems are among the most important
+effects of the deployment of rural development in Lesotho, despite the ap-
+parent failure of the programs in terms of their stated objectives. It is at the
+level of these effects, Ferguson concludes, that the productivity of the appa-
+ratus has to be assessed.
+   Another deconstructionist approach (Sachs 1992) analyzes the central
+constructs or key words of the development discourse, such as market, plan-
+ning, population, environment, production, equality, participation, needs,
+poverty, and the like. After briefly tracing the origin of each concept in Eu-
+ropean civilization, each chapter examines the uses and transformation of
+                               INTRODUCTION                                  13
+the concept in the development discourse from the 1950s to the present.
+The intent of the book is to expose the arbitrary character of the concepts,
+their cultural and historical specificity, and the dangers that their use repre-
+sents in the context of the Third World.8 A related, group project is con-
+ceived in terms of a “systems of knowledge” approach. Cultures, this group
+believes, are characterized not only by rules and values but also by ways of
+knowing. Development has relied exclusively on one knowledge system,
+namely, the modern Western one. The dominance of this knowledge system
+has dictated the marginalization and disqualification of non-Western knowl-
+edge systems. In these latter knowledge systems, the authors conclude, re-
+searchers and activists might find alternative rationalities to guide social
+action away from economistic and reductionistic ways of thinking.9
+   In the 1970s, women were discovered to have been “bypassed” by devel-
+opment interventions. This “discovery” resulted in the growth during the
+late 1970s and 1980s of a whole new field, women in development (WID),
+which has been analyzed by several feminist researchers as a regime of rep-
+resentation, most notably Adele Mueller (1986, 1987a, 1991) and Chandra
+Mohanty. At the core of these works is an insightful analysis of the practices
+of dominant development institutions in creating and managing their client
+populations. Similar analyses of particular development subfields—such as
+economics and the environment, for example—are a needed contribution to
+the understanding of the function of development as a discourse and will
+continue to appear.10
+   A group of Swedish anthropologists focus their work on how the concepts
+of development and modernity are used, interpreted, questioned, and re-
+produced in various social contexts in different parts of the world. An entire
+constellation of usages, modes of operation, and effects associated with these
+terms, which are profoundly local, is beginning to surface. Whether in a
+Papua New Guinean village or in a small town of Kenya or Ethiopia, local
+versions of development and modernity are formulated according to com-
+plex processes that include traditional cultural practices, histories of coloni-
+alism, and contemporary location within the global economy of goods and
+symbols (Dahl and Rabo 1992). These much-needed local ethnographies of
+development and modernity are also being pioneered by Pigg (1992) in her
+work on the introduction of health practices in Nepal. More on these works
+in the next chapter.
+   Finally, it is important to mention a few works that focus on the role of
+conventional disciplines within the development discourse. Irene Gendzier
+(1985) examines the role political science played in the conformation of the-
+ories of modernization, particularly in the 1950s, and its relation to issues of
+the moment such as national security and economic imperatives. Also within
+political science, Kathryn Sikkink (1991) has more recently taken on the
+emergence of developmentalism in Brazil and Argentina in the 1950s and
+14                                CHAPTER 1
+
+1960s. Her chief interest is the role of ideas in the adoption, implementa-
+tion, and consolidation of developmentalism as an economic development
+model.11 The Chilean Pedro Morandé (1984) analyzes how the adoption and
+dominance of North American sociology in the 1950s and 1960s in Latin
+America set the stage for a purely functional conception of development,
+conceived of as the transformation of “traditional” into a “modern” society
+and devoid of any cultural considerations. Kate Manzo (1991) makes a some-
+what similar case in her analysis of the shortcomings of modernist ap-
+proaches to development, such as dependency theory, and in her call for
+paying attention to “countermodernist” alternatives that are grounded in the
+practices of Third World grassroots actors. The call for a return of culture in
+the critical analysis of development, particularly local cultures, is also cen-
+tral to this book.
+   As this short review shows, there are already a small but relatively coher-
+ent number of works that contribute to articulating a discursive critique of
+development. The present work makes the most general case in this regard;
+it seeks to provide a general view of the historical construction of develop-
+ment and the Third World as a whole and exemplifies the way the discourse
+functions in one particular case. The goal of the analysis is to contribute to
+the liberation of the discursive field so that the task of imagining alternatives
+can be commenced (or perceived by researchers in a new light) in those
+spaces where the production of scholarly and expert knowledge for develop-
+ment purposes continues to take place. The local-level ethnographies of de-
+velopment mentioned earlier provide useful elements toward this end. In
+the conclusion, I extend the insights these works afford and attempt to elab-
+orate a view of “the alternative” as a research question and a social practice.
+
+
+            ANTHROPOLOGY AND THE DEVELOPMENT ENCOUNTER
+In the introduction to his well-known collection on anthropology’s relation
+to colonialism, Anthropology and the Colonial Encounter (1973), Talal Asad
+raised the question of whether there was not still “a strange reluctance on
+the part of most professional anthropologists to consider seriously the power
+structure within which their discipline has taken shape” (5), namely, the
+whole problematic of colonialism and neocolonialism, their political econ-
+omy and institutions. Does not development today, as colonialism did in a
+former epoch, make possible “the kind of human intimacy on which anthro-
+pological fieldwork is based, but insure[s] that intimacy should be one-sided
+and provisional” (17), even if the contemporary subjects move and talk back?
+In addition, if during the colonial period “the general drift of anthropological
+understanding did not constitute a basic challenge to the unequal world
+represented by the colonial system” (18), is this not also the case with the
+                               INTRODUCTION                                  15
+development system? In sum, can we not speak with equal pertinence of
+“anthropology and the development encounter”?
+   It is generally true that anthropology as a whole has not dealt explicitly
+with the fact that it takes place within the post–World War II encounter
+between rich and poor nations established by the development discourse.
+Although a number of anthropologists have opposed development interven-
+tions, particularly on behalf of indigenous people,12 large numbers of anthro-
+pologists have been involved with development organizations such as the
+World Bank and the United States Agency for International Development
+(U.S. AID). This problematic involvement was particularly noticeable in the
+decade 1975–1985 and has been analyzed elsewhere (Escobar 1991). As
+Stacy Leigh Pigg (1992) rightly points out, anthropologists have been for the
+most part either inside development, as applied anthropologists, or outside
+development, as the champions of the authentically indigenous and “the
+native’s point of view.” Thus they overlook the ways in which development
+operates as an arena of cultural contestation and identity construction. A
+small number of anthropologists, however, have studied forms and pro-
+cesses of resistance to development interventions (Taussig 1980; Fals Borda
+1984; Scott 1985; Ong 1987; see also Comaroff 1985 and Comaroff and Co-
+maroff 1991 for resistance in the colonial context).
+   The absence of anthropologists from discussions of development as a re-
+gime of representation is regrettable because, if it is true that many aspects
+of colonialism have been superseded, representations of the Third World
+through development are no less pervasive and effective than their colonial
+counterparts. Perhaps even more so. It is also disturbing, as Said has pointed
+out, that in recent anthropological literature “there is an almost total absence
+of any reference to American imperial intervention as a factor affecting the
+theoretical discussion” (1989, 214; see also Friedman 1987; Ulin 1991). This
+imperial intervention takes place at many levels—economic, military, politi-
+cal, and cultural—which are woven together by development representa-
+tions. Also disturbing, as Said proceeds to argue, is the lack of attention on
+the part of Western scholars to the sizable and impassioned critical literature
+by Third World intellectuals on colonialism, history, tradition, and domi-
+nation—and, one might add, development. The number of Third World
+voices calling for a dismantling of the entire discourse of development is fast
+increasing.
+   The deep changes experienced in anthropology during the 1980s opened
+the way for examining how anthropology is bound up with “Western ways of
+creating the world,” as Strathern (1988, 4) advises, and potentially with
+other possible ways of representing the interests of Third World peoples.
+This critical examination of anthropology’s practices led to the realization
+that “no one can write about others any longer as if they were discrete ob-
+16                                CHAPTER 1
+
+jects or texts.” A new task thus insinuated itself: that of coming up with
+“more subtle, concrete ways of writing and reading . . . new conceptions of
+culture as interactive and historical” (Clifford 1986, 25). Innovation in an-
+thropological writing within this context was seen as “moving [ethnography]
+toward an unprecedentedly acute political and historical sensibility that is
+transforming the way cultural diversity is portrayed” (Marcus and Fischer
+1986, 16).
+   This reimagining of anthropology, launched in the mid-1980s, has be-
+come the object of various critiques, qualifications, and extensions from
+within its own ranks and by feminists, political economists, Third World
+scholars, Third World feminists, and anti-postmodernists. Some of these cri-
+tiques are more or less pointed and constructive than others, and it is not
+necessary to analyze them in this introduction.13 To this extent, “the experi-
+mental moment” of the 1980s has been very fruitful and relatively rich in
+applications. The process of reimagining anthropology, however, is clearly
+still under way and will have to be deepened, perhaps by taking the debates
+to other arenas and in other directions. Anthropology, it is now argued, has
+to “reenter” the real world, after the moment of textualist critique. To do
+this, it has to rehistoricize its own practice and acknowledge that this prac-
+tice is shaped by many forces that are well beyond the control of the eth-
+nographer. Moreover, it must be willing to subject its most cherished no-
+tions, such as ethnography, culture, and science, to a more radical scrutiny
+(Fox 1991).
+   Strathern’s call that this questioning be advanced in the context of West-
+ern social science practices and their “endorsement of certain interests in
+the description of social life” is of fundamental importance. At the core of
+this recentering of the debates within the disciplines are the limits that exist
+to the Western project of deconstruction and self-critique. It is becoming
+increasingly evident, at least for those who are struggling for different ways
+of having a voice, that the process of deconstructing and dismantling has to
+be accompanied by that of constructing new ways of seeing and acting.
+Needless to say, this aspect is crucial in discussions about development,
+because people’s survival is at stake. As Mohanty (1991a) insists, both proj-
+ects—deconstruction and reconstruction—have to be carried out simulta-
+neously. As I discuss in the final chapter, this simultaneous project could
+focus strategically on the collective action of social movements: they struggle
+not only for goods and services but also for the very definition of life, econ-
+omy, nature, and society. They are, in short, cultural struggles.
+   As Bhabha wants us to acknowledge, deconstruction and other types of
+critiques do not lead automatically to “an unproblematic reading of other
+cultural and discursive systems.” They might be necessary to combat ethno-
+centrism, “but they cannot, of themselves, unreconstructed, represent that
+                               INTRODUCTION                                  17
+otherness” (Bhabha 1990, 75). Moreover, there is the tendency in these cri-
+tiques to discuss otherness principally in terms of the limits of Western
+logocentricity, thus denying that cultural otherness is “implicated in specific
+historical and discursive conditions, requiring constructions in different
+practices of reading” (Bhabha 1990, 73). There is a similar insistence in Latin
+America that the proposals of postmodernism, to be fruitful there, have to
+make clear their commitment to justice and to the construction of alterna-
+tive social orders.14 These Third World correctives indicate the need for
+alternative questions and strategies for the construction of anticolonialist
+discourses (and the reconstruction of Third World societies in/through rep-
+resentations that can develop into alternative practices). Calling into ques-
+tion the limitations of the West’s self-critique, as currently practiced in
+much of contemporary theory, they make it possible to visualize the “discur-
+sive insurrection” by Third World people proposed by Mudimbe in relation
+to the “sovereignty of the very European thought from which we wish to
+disentangle ourselves” (quoted in Diawara 1990, 79).
+    The needed liberation of anthropology from the space mapped by the
+development encounter (and, more generally, modernity), to be achieved
+through a close examination of the ways in which it has been implicated in
+it, is an important step in the direction of more autonomous regimes of rep-
+resentation; this is so to the extent that it might motivate anthropologists and
+others to delve into the strategies people in the Third World pursue to resig-
+nify and transform their reality through their collective political practice.
+This challenge may provide paths toward the radicalization of the disci-
+pline’s reimagining started with enthusiasm during the 1980s.
+
+
+                           OVERVIEW OF THE BOOK
+The following chapter studies the emergence and consolidation of the dis-
+course and strategy of development in the early post–World War II period,
+as a result of the problematization of poverty that took place during those
+years. It presents the major historical conditions that made such a process
+possible and identifies the principal mechanisms through which develop-
+ment has been deployed, namely, the professionalization of development
+knowledge and the institutionalization of development practices. An impor-
+tant aspect of this chapter is to illustrate the nature and dynamics of the
+discourse, its archaeology, and its modes of operation. Central to this aspect
+is the identification of the basic set of elements and relations that hold to-
+gether the discourse. To speak development, one must adhere to certain
+rules of statement that go back to the basic system of categories and rela-
+tions. This system defines the hegemonic worldview of development, a
+worldview that increasingly permeates and transforms the economic, social,
+18                                CHAPTER 1
+
+and cultural fabric of Third World cities and villages, even if the languages
+of development are always adapted and reworked significantly at the local
+level.
+   Chapter 3 is intended to articulate a cultural critique of economics by
+taking on the single most influential force shaping the development field:
+the discourse of development economics. To understand this discourse, one
+has to analyze the conditions of its coming into being: how it emerged, build-
+ing upon the already existing Western economy and the economic doctrine
+generated by it (classical, neoclassical, Keynesian, and growth economic the-
+ories); how development economists constructed “the underdeveloped
+economy,” embodying in their theories features of the advanced capitalist
+societies and culture; the political economy of the capitalist world economy
+linked to this construction; and finally, the planning practices that inevitably
+came with development economics and that became a powerful force in the
+production and management of development. From this privileged space,
+economics pervaded the entire practice of development. As the last part of
+the chapter shows, there is no indication that economists might consider a
+redefinition of their tenets and forms of analysis, although some hopeful
+insights for this redefinition can be found in recent works in economic an-
+thropology. The notion of “communities of modellers” (Gudeman and Ri-
+vera 1990) is examined as a possible method to construct a cultural politics
+for engaging critically, and I hope neutralizing partly, the dominant eco-
+nomic discourse.
+   Chapters 4 and 5 are intended to show in detail how development works.
+The goal of chapter 4 is to show how a corpus of rational techniques—plan-
+ning, methods of measurement and assessment, professional knowledges,
+institutional practices, and the like—organizes both forms of knowledge and
+types of power, relating one to the other, in the construction and treatment
+of one specific problem: malnutrition and hunger. The chapter examines the
+birth, rise, and decline of a set of disciplines (forms of knowledge) and strat-
+egies in nutrition, health, and rural development. Outlined initially in the
+early 1970s by a handful of experts in North American and British universi-
+ties, the World Bank, and the United Nations, the strategy of national plan-
+ning for nutrition and rural development resulted in the implementation of
+massive programs in Third World countries throughout the 1970s and
+1980s, funded primarily by the World Bank and Third World governments.
+A case study of these plans in Colombia, based on my fieldwork with a group
+of government planners in charge of their design and implementation, is
+presented as an illustration of the functioning of the development apparatus.
+By paying close attention to the political economy of food and hunger and
+the discursive constructions linked to it, this chapter and the next contribute
+to the development of a poststructuralist-oriented political economy.
+                                INTRODUCTION                                  19
+   Chapter 5 extends the analysis of chapter 4 by focusing on the regimes of
+representation that underlie constructions of peasants, women, and the en-
+vironment. In particular, the chapter exposes the links between representa-
+tion and power at work in the practices of the World Bank. This institution
+is presented as an exemplar of development discourse, a blueprint of devel-
+opment. Particular attention is paid to representations of peasants, women,
+and the environment in recent development literature, and the contradic-
+tions and possibilities inherent in the tasks of integrated rural development,
+incorporating women into development, and sustainable development. The
+mapping of visibilities by development through the representations plan-
+ners and experts utilize as they design and carry out their programs is ana-
+lyzed in detail in order to show the connection between the creation of
+visibility in discourse, particularly through modern techniques of visuality,
+and the exercise of power. This chapter also contributes to theorizing the
+question of discursive change and transformation by explaining how dis-
+courses on peasants, women, and the environment emerge and function in
+similar ways within the overall space of development.
+   The concluding chapter tackles the question of the transformation of the
+development regime of representation and the articulation of alternatives.
+The call by a growing number of Third and First World voices to signal the
+end of development is reviewed and assessed. Similarly, recent work in
+Latin American social science, on “hybrid cultures” as a mode of cultural
+affirmation in the face of modernity’s crisis, is used as a basis for theorizing
+the formulation of alternatives as a research question and a social practice.
+I argue that instead of searching for grand alternative models or strategies,
+what is needed is the investigation of alternative representations and prac-
+tices in concrete local settings, particularly as they exist in contexts of hy-
+bridization, collective action, and political mobilization. This proposal is de-
+veloped in the context of the ecological phase of capital and the struggles
+over the world’s biological diversity. These struggles—between global capi-
+tal and biotechnology interests, on the one hand, and local communities and
+organizations, on the other—constitute the most advanced stage in which
+the meanings of development and postdevelopment are being fought over.
+The fact that the struggles usually involve minority cultures in the tropical
+regions of the world raises unprecedented questions concerning the cultural
+politics around the design of social orders, technology, nature, and life itself.
+   The fact that the analysis, finally, is conducted in terms of tales is not
+meant to indicate that the said tales are mere fictions. As Donna Haraway
+says in her analysis of the narratives of biology (1989a, 1991), narratives are
+neither fictions nor opposed to “facts.” Narratives are, indeed, historical tex-
+tures woven of fact and fiction. Even the most neutral scientific domains are
+narratives in this sense. To treat science as narrative, Haraway insists, is not
+20                               CHAPTER 1
+
+to be dismissive. On the contrary, it is to treat it in the most serious way,
+without succumbing to its mystification as “the truth” or to the ironic skepti-
+cism common to many critiques. Science and expert discourses such as de-
+velopment produce powerful truths, ways of creating and intervening in the
+world, including ourselves; they are instances “where possible worlds are
+constantly reinvented in the contest for very real, present worlds” (Haraway
+1989a, 5). Narratives, such as the tales in this book, are always inmmersed in
+history and never innocent. Whether we can unmake development and per-
+haps even bid farewell to the Third World will equally depend on the social
+invention of new narratives, new ways of thinking and doing.15

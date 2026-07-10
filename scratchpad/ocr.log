@@ -1,0 +1,459 @@
+This PDF contains structural markup (it is a Tagged PDF or carries a logical structure tree). This often indicates that the PDF was generated from an office document or is otherwise born digital, and does not need OCR. OCRmyPDF cannot rebuild this structure to match new text, so any page it re-OCRs with --force-ocr or --redo-ocr will have its structural markup discarded.
+Starting processing with 12 workers concurrently
+    2 page already has text! - rasterizing text and running OCR anyway
+    3 page already has text! - rasterizing text and running OCR anyway
+    4 page already has text! - rasterizing text and running OCR anyway
+    5 page already has text! - rasterizing text and running OCR anyway
+    6 page already has text! - rasterizing text and running OCR anyway
+    8 page already has text! - rasterizing text and running OCR anyway
+    8 Weighted average image DPI is 150.1, max DPI is 196.0. The discrepancy may indicate a high detail region on this page, but could also indicate a problem with the input PDF file. Page image will be rendered at 400.0 DPI.
+   10 page already has text! - rasterizing text and running OCR anyway
+    9 page already has text! - rasterizing text and running OCR anyway
+    9 Weighted average image DPI is 150.0, max DPI is 199.0. The discrepancy may indicate a high detail region on this page, but could also indicate a problem with the input PDF file. Page image will be rendered at 400.0 DPI.
+   12 page already has text! - rasterizing text and running OCR anyway
+   12 Weighted average image DPI is 150.0, max DPI is 194.0. The discrepancy may indicate a high detail region on this page, but could also indicate a problem with the input PDF file. Page image will be rendered at 400.0 DPI.
+   13 page already has text! - rasterizing text and running OCR anyway
+   13 Weighted average image DPI is 150.0, max DPI is 205.0. The discrepancy may indicate a high detail region on this page, but could also indicate a problem with the input PDF file. Page image will be rendered at 400.0 DPI.
+   14 page already has text! - rasterizing text and running OCR anyway
+   15 page already has text! - rasterizing text and running OCR anyway
+   16 page already has text! - rasterizing text and running OCR anyway
+   17 page already has text! - rasterizing text and running OCR anyway
+   17 Weighted average image DPI is 150.0, max DPI is 206.0. The discrepancy may indicate a high detail region on this page, but could also indicate a problem with the input PDF file. Page image will be rendered at 400.0 DPI.
+   18 page already has text! - rasterizing text and running OCR anyway
+   19 page already has text! - rasterizing text and running OCR anyway
+   19 Weighted average image DPI is 150.0, max DPI is 202.0. The discrepancy may indicate a high detail region on this page, but could also indicate a problem with the input PDF file. Page image will be rendered at 400.0 DPI.
+   20 page already has text! - rasterizing text and running OCR anyway
+    1 [tesseract] lots of diacritics - possibly poor OCR
+   21 page already has text! - rasterizing text and running OCR anyway
+   22 page already has text! - rasterizing text and running OCR anyway
+   24 page already has text! - rasterizing text and running OCR anyway
+   26 page already has text! - rasterizing text and running OCR anyway
+   27 page already has text! - rasterizing text and running OCR anyway
+   28 page already has text! - rasterizing text and running OCR anyway
+   29 page already has text! - rasterizing text and running OCR anyway
+   30 page already has text! - rasterizing text and running OCR anyway
+   31 page already has text! - rasterizing text and running OCR anyway
+   32 page already has text! - rasterizing text and running OCR anyway
+   33 page already has text! - rasterizing text and running OCR anyway
+   34 page already has text! - rasterizing text and running OCR anyway
+   35 page already has text! - rasterizing text and running OCR anyway
+   36 page already has text! - rasterizing text and running OCR anyway
+   26 [tesseract] lots of diacritics - possibly poor OCR
+   37 page already has text! - rasterizing text and running OCR anyway
+   38 page already has text! - rasterizing text and running OCR anyway
+   27 [tesseract] lots of diacritics - possibly poor OCR
+   39 page already has text! - rasterizing text and running OCR anyway
+   28 [tesseract] lots of diacritics - possibly poor OCR
+   40 page already has text! - rasterizing text and running OCR anyway
+   32 [tesseract] lots of diacritics - possibly poor OCR
+   41 page already has text! - rasterizing text and running OCR anyway
+   31 [tesseract] lots of diacritics - possibly poor OCR
+   42 page already has text! - rasterizing text and running OCR anyway
+   30 [tesseract] lots of diacritics - possibly poor OCR
+   43 page already has text! - rasterizing text and running OCR anyway
+   33 [tesseract] lots of diacritics - possibly poor OCR
+   44 page already has text! - rasterizing text and running OCR anyway
+   45 page already has text! - rasterizing text and running OCR anyway
+   34 [tesseract] lots of diacritics - possibly poor OCR
+   46 page already has text! - rasterizing text and running OCR anyway
+   35 [tesseract] lots of diacritics - possibly poor OCR
+   47 page already has text! - rasterizing text and running OCR anyway
+   36 [tesseract] lots of diacritics - possibly poor OCR
+   48 page already has text! - rasterizing text and running OCR anyway
+   37 [tesseract] lots of diacritics - possibly poor OCR
+   49 page already has text! - rasterizing text and running OCR anyway
+   38 [tesseract] lots of diacritics - possibly poor OCR
+   50 page already has text! - rasterizing text and running OCR anyway
+   51 page already has text! - rasterizing text and running OCR anyway
+   39 [tesseract] lots of diacritics - possibly poor OCR
+   52 page already has text! - rasterizing text and running OCR anyway
+   43 [tesseract] lots of diacritics - possibly poor OCR
+   53 page already has text! - rasterizing text and running OCR anyway
+   54 page already has text! - rasterizing text and running OCR anyway
+   55 page already has text! - rasterizing text and running OCR anyway
+   45 [tesseract] lots of diacritics - possibly poor OCR
+   56 page already has text! - rasterizing text and running OCR anyway
+   46 [tesseract] lots of diacritics - possibly poor OCR
+   57 page already has text! - rasterizing text and running OCR anyway
+   42 [tesseract] lots of diacritics - possibly poor OCR
+   58 page already has text! - rasterizing text and running OCR anyway
+   59 page already has text! - rasterizing text and running OCR anyway
+   50 [tesseract] lots of diacritics - possibly poor OCR
+   60 page already has text! - rasterizing text and running OCR anyway
+   61 page already has text! - rasterizing text and running OCR anyway
+   48 [tesseract] lots of diacritics - possibly poor OCR
+   62 page already has text! - rasterizing text and running OCR anyway
+   63 page already has text! - rasterizing text and running OCR anyway
+   64 page already has text! - rasterizing text and running OCR anyway
+   65 page already has text! - rasterizing text and running OCR anyway
+   66 page already has text! - rasterizing text and running OCR anyway
+   67 page already has text! - rasterizing text and running OCR anyway
+   68 page already has text! - rasterizing text and running OCR anyway
+   69 page already has text! - rasterizing text and running OCR anyway
+   70 page already has text! - rasterizing text and running OCR anyway
+   71 page already has text! - rasterizing text and running OCR anyway
+   72 page already has text! - rasterizing text and running OCR anyway
+   61 [tesseract] lots of diacritics - possibly poor OCR
+   73 page already has text! - rasterizing text and running OCR anyway
+   74 page already has text! - rasterizing text and running OCR anyway
+   75 page already has text! - rasterizing text and running OCR anyway
+   76 page already has text! - rasterizing text and running OCR anyway
+   77 page already has text! - rasterizing text and running OCR anyway
+   65 [tesseract] lots of diacritics - possibly poor OCR
+   78 page already has text! - rasterizing text and running OCR anyway
+   67 [tesseract] lots of diacritics - possibly poor OCR
+   79 page already has text! - rasterizing text and running OCR anyway
+   66 [tesseract] lots of diacritics - possibly poor OCR
+   80 page already has text! - rasterizing text and running OCR anyway
+   68 [tesseract] lots of diacritics - possibly poor OCR
+   81 page already has text! - rasterizing text and running OCR anyway
+   69 [tesseract] lots of diacritics - possibly poor OCR
+   82 page already has text! - rasterizing text and running OCR anyway
+   83 page already has text! - rasterizing text and running OCR anyway
+   72 [tesseract] lots of diacritics - possibly poor OCR
+   84 page already has text! - rasterizing text and running OCR anyway
+   71 [tesseract] lots of diacritics - possibly poor OCR
+   85 page already has text! - rasterizing text and running OCR anyway
+   73 [tesseract] lots of diacritics - possibly poor OCR
+   86 page already has text! - rasterizing text and running OCR anyway
+   87 page already has text! - rasterizing text and running OCR anyway
+   76 [tesseract] lots of diacritics - possibly poor OCR
+   88 page already has text! - rasterizing text and running OCR anyway
+   89 page already has text! - rasterizing text and running OCR anyway
+   78 [tesseract] lots of diacritics - possibly poor OCR
+   90 page already has text! - rasterizing text and running OCR anyway
+   91 page already has text! - rasterizing text and running OCR anyway
+   81 [tesseract] lots of diacritics - possibly poor OCR
+   92 page already has text! - rasterizing text and running OCR anyway
+   93 page already has text! - rasterizing text and running OCR anyway
+   79 [tesseract] lots of diacritics - possibly poor OCR
+   94 page already has text! - rasterizing text and running OCR anyway
+   83 [tesseract] lots of diacritics - possibly poor OCR
+   95 page already has text! - rasterizing text and running OCR anyway
+   84 [tesseract] lots of diacritics - possibly poor OCR
+   96 page already has text! - rasterizing text and running OCR anyway
+   85 [tesseract] lots of diacritics - possibly poor OCR
+   97 page already has text! - rasterizing text and running OCR anyway
+   98 page already has text! - rasterizing text and running OCR anyway
+   99 page already has text! - rasterizing text and running OCR anyway
+  100 page already has text! - rasterizing text and running OCR anyway
+   93 [tesseract] lots of diacritics - possibly poor OCR
+  102 page already has text! - rasterizing text and running OCR anyway
+  101 page already has text! - rasterizing text and running OCR anyway
+   89 [tesseract] lots of diacritics - possibly poor OCR
+  103 page already has text! - rasterizing text and running OCR anyway
+   94 [tesseract] lots of diacritics - possibly poor OCR
+  104 page already has text! - rasterizing text and running OCR anyway
+   91 [tesseract] lots of diacritics - possibly poor OCR
+  105 page already has text! - rasterizing text and running OCR anyway
+  106 page already has text! - rasterizing text and running OCR anyway
+   95 [tesseract] lots of diacritics - possibly poor OCR
+  107 page already has text! - rasterizing text and running OCR anyway
+  108 page already has text! - rasterizing text and running OCR anyway
+   98 [tesseract] lots of diacritics - possibly poor OCR
+  109 page already has text! - rasterizing text and running OCR anyway
+  101 [tesseract] lots of diacritics - possibly poor OCR
+  110 page already has text! - rasterizing text and running OCR anyway
+  102 [tesseract] lots of diacritics - possibly poor OCR
+  111 page already has text! - rasterizing text and running OCR anyway
+  112 page already has text! - rasterizing text and running OCR anyway
+  113 page already has text! - rasterizing text and running OCR anyway
+  114 page already has text! - rasterizing text and running OCR anyway
+  106 [tesseract] lots of diacritics - possibly poor OCR
+  115 page already has text! - rasterizing text and running OCR anyway
+  105 [tesseract] lots of diacritics - possibly poor OCR
+  116 page already has text! - rasterizing text and running OCR anyway
+  117 page already has text! - rasterizing text and running OCR anyway
+  118 page already has text! - rasterizing text and running OCR anyway
+  108 [tesseract] lots of diacritics - possibly poor OCR
+  119 page already has text! - rasterizing text and running OCR anyway
+  107 [tesseract] lots of diacritics - possibly poor OCR
+  120 page already has text! - rasterizing text and running OCR anyway
+  121 page already has text! - rasterizing text and running OCR anyway
+  109 [tesseract] lots of diacritics - possibly poor OCR
+  122 page already has text! - rasterizing text and running OCR anyway
+  123 page already has text! - rasterizing text and running OCR anyway
+  124 page already has text! - rasterizing text and running OCR anyway
+  111 [tesseract] lots of diacritics - possibly poor OCR
+  125 page already has text! - rasterizing text and running OCR anyway
+  116 [tesseract] lots of diacritics - possibly poor OCR
+  126 page already has text! - rasterizing text and running OCR anyway
+  117 [tesseract] lots of diacritics - possibly poor OCR
+  127 page already has text! - rasterizing text and running OCR anyway
+  113 [tesseract] lots of diacritics - possibly poor OCR
+  128 page already has text! - rasterizing text and running OCR anyway
+  129 page already has text! - rasterizing text and running OCR anyway
+  130 page already has text! - rasterizing text and running OCR anyway
+  114 [tesseract] lots of diacritics - possibly poor OCR
+  131 page already has text! - rasterizing text and running OCR anyway
+  120 [tesseract] lots of diacritics - possibly poor OCR
+  132 page already has text! - rasterizing text and running OCR anyway
+  133 page already has text! - rasterizing text and running OCR anyway
+  134 page already has text! - rasterizing text and running OCR anyway
+  135 page already has text! - rasterizing text and running OCR anyway
+  125 [tesseract] lots of diacritics - possibly poor OCR
+  136 page already has text! - rasterizing text and running OCR anyway
+  137 page already has text! - rasterizing text and running OCR anyway
+  123 [tesseract] lots of diacritics - possibly poor OCR
+  138 page already has text! - rasterizing text and running OCR anyway
+  122 [tesseract] lots of diacritics - possibly poor OCR
+  139 page already has text! - rasterizing text and running OCR anyway
+  140 page already has text! - rasterizing text and running OCR anyway
+  141 page already has text! - rasterizing text and running OCR anyway
+  142 page already has text! - rasterizing text and running OCR anyway
+  143 page already has text! - rasterizing text and running OCR anyway
+  144 page already has text! - rasterizing text and running OCR anyway
+  145 page already has text! - rasterizing text and running OCR anyway
+  146 page already has text! - rasterizing text and running OCR anyway
+  147 page already has text! - rasterizing text and running OCR anyway
+  148 page already has text! - rasterizing text and running OCR anyway
+  149 page already has text! - rasterizing text and running OCR anyway
+  150 page already has text! - rasterizing text and running OCR anyway
+  151 page already has text! - rasterizing text and running OCR anyway
+  152 page already has text! - rasterizing text and running OCR anyway
+  153 page already has text! - rasterizing text and running OCR anyway
+  154 page already has text! - rasterizing text and running OCR anyway
+  155 page already has text! - rasterizing text and running OCR anyway
+  156 page already has text! - rasterizing text and running OCR anyway
+  157 page already has text! - rasterizing text and running OCR anyway
+  158 page already has text! - rasterizing text and running OCR anyway
+  159 page already has text! - rasterizing text and running OCR anyway
+  160 page already has text! - rasterizing text and running OCR anyway
+  147 [tesseract] lots of diacritics - possibly poor OCR
+  161 page already has text! - rasterizing text and running OCR anyway
+  162 page already has text! - rasterizing text and running OCR anyway
+  163 page already has text! - rasterizing text and running OCR anyway
+  164 page already has text! - rasterizing text and running OCR anyway
+  165 page already has text! - rasterizing text and running OCR anyway
+  166 page already has text! - rasterizing text and running OCR anyway
+  167 page already has text! - rasterizing text and running OCR anyway
+  168 page already has text! - rasterizing text and running OCR anyway
+  169 page already has text! - rasterizing text and running OCR anyway
+  170 page already has text! - rasterizing text and running OCR anyway
+  171 page already has text! - rasterizing text and running OCR anyway
+  172 page already has text! - rasterizing text and running OCR anyway
+  173 page already has text! - rasterizing text and running OCR anyway
+  174 page already has text! - rasterizing text and running OCR anyway
+  175 page already has text! - rasterizing text and running OCR anyway
+  176 page already has text! - rasterizing text and running OCR anyway
+  177 page already has text! - rasterizing text and running OCR anyway
+  178 page already has text! - rasterizing text and running OCR anyway
+  179 page already has text! - rasterizing text and running OCR anyway
+  180 page already has text! - rasterizing text and running OCR anyway
+  181 page already has text! - rasterizing text and running OCR anyway
+  182 page already has text! - rasterizing text and running OCR anyway
+  183 page already has text! - rasterizing text and running OCR anyway
+  184 page already has text! - rasterizing text and running OCR anyway
+  185 page already has text! - rasterizing text and running OCR anyway
+  186 page already has text! - rasterizing text and running OCR anyway
+  187 page already has text! - rasterizing text and running OCR anyway
+  188 page already has text! - rasterizing text and running OCR anyway
+  189 page already has text! - rasterizing text and running OCR anyway
+  190 page already has text! - rasterizing text and running OCR anyway
+  192 page already has text! - rasterizing text and running OCR anyway
+  193 page already has text! - rasterizing text and running OCR anyway
+  194 page already has text! - rasterizing text and running OCR anyway
+  195 page already has text! - rasterizing text and running OCR anyway
+  196 page already has text! - rasterizing text and running OCR anyway
+  197 page already has text! - rasterizing text and running OCR anyway
+  198 page already has text! - rasterizing text and running OCR anyway
+  199 page already has text! - rasterizing text and running OCR anyway
+  200 page already has text! - rasterizing text and running OCR anyway
+  201 page already has text! - rasterizing text and running OCR anyway
+  202 page already has text! - rasterizing text and running OCR anyway
+  203 page already has text! - rasterizing text and running OCR anyway
+  192 [tesseract] lots of diacritics - possibly poor OCR
+  204 page already has text! - rasterizing text and running OCR anyway
+  205 page already has text! - rasterizing text and running OCR anyway
+  206 page already has text! - rasterizing text and running OCR anyway
+  207 page already has text! - rasterizing text and running OCR anyway
+  208 page already has text! - rasterizing text and running OCR anyway
+  209 page already has text! - rasterizing text and running OCR anyway
+  210 page already has text! - rasterizing text and running OCR anyway
+  211 page already has text! - rasterizing text and running OCR anyway
+  212 page already has text! - rasterizing text and running OCR anyway
+  213 page already has text! - rasterizing text and running OCR anyway
+  214 page already has text! - rasterizing text and running OCR anyway
+  215 page already has text! - rasterizing text and running OCR anyway
+  216 page already has text! - rasterizing text and running OCR anyway
+  217 page already has text! - rasterizing text and running OCR anyway
+  218 page already has text! - rasterizing text and running OCR anyway
+  219 page already has text! - rasterizing text and running OCR anyway
+  220 page already has text! - rasterizing text and running OCR anyway
+  221 page already has text! - rasterizing text and running OCR anyway
+  222 page already has text! - rasterizing text and running OCR anyway
+  223 page already has text! - rasterizing text and running OCR anyway
+  224 page already has text! - rasterizing text and running OCR anyway
+  225 page already has text! - rasterizing text and running OCR anyway
+  226 page already has text! - rasterizing text and running OCR anyway
+  227 page already has text! - rasterizing text and running OCR anyway
+  228 page already has text! - rasterizing text and running OCR anyway
+  229 page already has text! - rasterizing text and running OCR anyway
+  230 page already has text! - rasterizing text and running OCR anyway
+  231 page already has text! - rasterizing text and running OCR anyway
+  232 page already has text! - rasterizing text and running OCR anyway
+  233 page already has text! - rasterizing text and running OCR anyway
+  234 page already has text! - rasterizing text and running OCR anyway
+  235 page already has text! - rasterizing text and running OCR anyway
+  236 page already has text! - rasterizing text and running OCR anyway
+  237 page already has text! - rasterizing text and running OCR anyway
+  238 page already has text! - rasterizing text and running OCR anyway
+  239 page already has text! - rasterizing text and running OCR anyway
+  240 page already has text! - rasterizing text and running OCR anyway
+  241 page already has text! - rasterizing text and running OCR anyway
+  242 page already has text! - rasterizing text and running OCR anyway
+  243 page already has text! - rasterizing text and running OCR anyway
+  244 page already has text! - rasterizing text and running OCR anyway
+  245 page already has text! - rasterizing text and running OCR anyway
+  246 page already has text! - rasterizing text and running OCR anyway
+  247 page already has text! - rasterizing text and running OCR anyway
+  248 page already has text! - rasterizing text and running OCR anyway
+  249 page already has text! - rasterizing text and running OCR anyway
+  250 page already has text! - rasterizing text and running OCR anyway
+  251 page already has text! - rasterizing text and running OCR anyway
+  252 page already has text! - rasterizing text and running OCR anyway
+  253 page already has text! - rasterizing text and running OCR anyway
+  254 page already has text! - rasterizing text and running OCR anyway
+  255 page already has text! - rasterizing text and running OCR anyway
+  256 page already has text! - rasterizing text and running OCR anyway
+  257 page already has text! - rasterizing text and running OCR anyway
+  258 page already has text! - rasterizing text and running OCR anyway
+  259 page already has text! - rasterizing text and running OCR anyway
+  260 page already has text! - rasterizing text and running OCR anyway
+  261 page already has text! - rasterizing text and running OCR anyway
+  262 page already has text! - rasterizing text and running OCR anyway
+  263 page already has text! - rasterizing text and running OCR anyway
+  264 page already has text! - rasterizing text and running OCR anyway
+  265 page already has text! - rasterizing text and running OCR anyway
+  266 page already has text! - rasterizing text and running OCR anyway
+  267 page already has text! - rasterizing text and running OCR anyway
+  268 page already has text! - rasterizing text and running OCR anyway
+  269 page already has text! - rasterizing text and running OCR anyway
+  270 page already has text! - rasterizing text and running OCR anyway
+  271 page already has text! - rasterizing text and running OCR anyway
+  272 page already has text! - rasterizing text and running OCR anyway
+  273 page already has text! - rasterizing text and running OCR anyway
+  274 page already has text! - rasterizing text and running OCR anyway
+  275 page already has text! - rasterizing text and running OCR anyway
+  276 page already has text! - rasterizing text and running OCR anyway
+  277 page already has text! - rasterizing text and running OCR anyway
+  278 page already has text! - rasterizing text and running OCR anyway
+  279 page already has text! - rasterizing text and running OCR anyway
+  280 page already has text! - rasterizing text and running OCR anyway
+  281 page already has text! - rasterizing text and running OCR anyway
+  282 page already has text! - rasterizing text and running OCR anyway
+  283 page already has text! - rasterizing text and running OCR anyway
+  284 page already has text! - rasterizing text and running OCR anyway
+  285 page already has text! - rasterizing text and running OCR anyway
+  286 page already has text! - rasterizing text and running OCR anyway
+  287 page already has text! - rasterizing text and running OCR anyway
+  288 page already has text! - rasterizing text and running OCR anyway
+  289 page already has text! - rasterizing text and running OCR anyway
+  290 page already has text! - rasterizing text and running OCR anyway
+  291 page already has text! - rasterizing text and running OCR anyway
+  292 page already has text! - rasterizing text and running OCR anyway
+  293 page already has text! - rasterizing text and running OCR anyway
+  294 page already has text! - rasterizing text and running OCR anyway
+  295 page already has text! - rasterizing text and running OCR anyway
+  296 page already has text! - rasterizing text and running OCR anyway
+  297 page already has text! - rasterizing text and running OCR anyway
+  298 page already has text! - rasterizing text and running OCR anyway
+  299 page already has text! - rasterizing text and running OCR anyway
+  300 page already has text! - rasterizing text and running OCR anyway
+  301 page already has text! - rasterizing text and running OCR anyway
+  302 page already has text! - rasterizing text and running OCR anyway
+  303 page already has text! - rasterizing text and running OCR anyway
+  304 page already has text! - rasterizing text and running OCR anyway
+  305 page already has text! - rasterizing text and running OCR anyway
+  306 page already has text! - rasterizing text and running OCR anyway
+  307 page already has text! - rasterizing text and running OCR anyway
+  308 page already has text! - rasterizing text and running OCR anyway
+  309 page already has text! - rasterizing text and running OCR anyway
+  310 page already has text! - rasterizing text and running OCR anyway
+  311 page already has text! - rasterizing text and running OCR anyway
+  312 page already has text! - rasterizing text and running OCR anyway
+  313 page already has text! - rasterizing text and running OCR anyway
+  314 page already has text! - rasterizing text and running OCR anyway
+  315 page already has text! - rasterizing text and running OCR anyway
+  316 page already has text! - rasterizing text and running OCR anyway
+  317 page already has text! - rasterizing text and running OCR anyway
+  318 page already has text! - rasterizing text and running OCR anyway
+  319 page already has text! - rasterizing text and running OCR anyway
+  320 page already has text! - rasterizing text and running OCR anyway
+  321 page already has text! - rasterizing text and running OCR anyway
+  322 page already has text! - rasterizing text and running OCR anyway
+  323 page already has text! - rasterizing text and running OCR anyway
+  324 page already has text! - rasterizing text and running OCR anyway
+  325 page already has text! - rasterizing text and running OCR anyway
+  326 page already has text! - rasterizing text and running OCR anyway
+  327 page already has text! - rasterizing text and running OCR anyway
+  328 page already has text! - rasterizing text and running OCR anyway
+  329 page already has text! - rasterizing text and running OCR anyway
+  330 page already has text! - rasterizing text and running OCR anyway
+  331 page already has text! - rasterizing text and running OCR anyway
+  332 page already has text! - rasterizing text and running OCR anyway
+  333 page has no images - all vector content will be rasterized at 400 DPI, losing some resolution and likely increasing file size. Use --oversample to adjust the DPI.
+  334 page already has text! - rasterizing text and running OCR anyway
+  335 page already has text! - rasterizing text and running OCR anyway
+  336 page already has text! - rasterizing text and running OCR anyway
+  337 page already has text! - rasterizing text and running OCR anyway
+  338 page already has text! - rasterizing text and running OCR anyway
+  339 page already has text! - rasterizing text and running OCR anyway
+  340 page already has text! - rasterizing text and running OCR anyway
+  341 page already has text! - rasterizing text and running OCR anyway
+  342 page already has text! - rasterizing text and running OCR anyway
+  343 page already has text! - rasterizing text and running OCR anyway
+  344 page already has text! - rasterizing text and running OCR anyway
+  345 page already has text! - rasterizing text and running OCR anyway
+  346 page already has text! - rasterizing text and running OCR anyway
+  347 page already has text! - rasterizing text and running OCR anyway
+  348 page already has text! - rasterizing text and running OCR anyway
+  349 page already has text! - rasterizing text and running OCR anyway
+  350 page already has text! - rasterizing text and running OCR anyway
+  351 page already has text! - rasterizing text and running OCR anyway
+  352 page already has text! - rasterizing text and running OCR anyway
+  353 page already has text! - rasterizing text and running OCR anyway
+  354 page already has text! - rasterizing text and running OCR anyway
+  355 page already has text! - rasterizing text and running OCR anyway
+  356 page already has text! - rasterizing text and running OCR anyway
+  357 page already has text! - rasterizing text and running OCR anyway
+  358 page already has text! - rasterizing text and running OCR anyway
+  359 page already has text! - rasterizing text and running OCR anyway
+  360 page already has text! - rasterizing text and running OCR anyway
+  361 page already has text! - rasterizing text and running OCR anyway
+  362 page already has text! - rasterizing text and running OCR anyway
+  363 page already has text! - rasterizing text and running OCR anyway
+  364 page already has text! - rasterizing text and running OCR anyway
+  365 page already has text! - rasterizing text and running OCR anyway
+  366 page already has text! - rasterizing text and running OCR anyway
+  367 page already has text! - rasterizing text and running OCR anyway
+  368 page already has text! - rasterizing text and running OCR anyway
+  369 page already has text! - rasterizing text and running OCR anyway
+  370 page already has text! - rasterizing text and running OCR anyway
+  371 page already has text! - rasterizing text and running OCR anyway
+  372 page already has text! - rasterizing text and running OCR anyway
+  373 page already has text! - rasterizing text and running OCR anyway
+  374 page already has text! - rasterizing text and running OCR anyway
+  375 page already has text! - rasterizing text and running OCR anyway
+  376 page already has text! - rasterizing text and running OCR anyway
+  377 page already has text! - rasterizing text and running OCR anyway
+  378 page already has text! - rasterizing text and running OCR anyway
+  379 page already has text! - rasterizing text and running OCR anyway
+  380 page already has text! - rasterizing text and running OCR anyway
+  381 page already has text! - rasterizing text and running OCR anyway
+  382 page already has text! - rasterizing text and running OCR anyway
+  383 page already has text! - rasterizing text and running OCR anyway
+  384 page already has text! - rasterizing text and running OCR anyway
+  385 page has no images - all vector content will be rasterized at 400 DPI, losing some resolution and likely increasing file size. Use --oversample to adjust the DPI.
+  377 [tesseract] lots of diacritics - possibly poor OCR
+  386 [tesseract] lots of diacritics - possibly poor OCR
+Parsing 386 pages with HocrParser
+Postprocessing...
+Image optimization ratio: 1.04 savings: 4.1%
+Total file size ratio: 0.13 savings: -699.3%
+The output file size is 7.90× larger than the input file.
+Possible reasons for this include:
+--force-ocr (or --mode force) was issued, causing transcoding.
+The optional dependency 'jbig2' was not found, so some image optimizations could not be attempted.
+
+OCR_DONE words=130565

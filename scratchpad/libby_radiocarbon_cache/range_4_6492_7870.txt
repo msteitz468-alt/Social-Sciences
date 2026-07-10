@@ -1,0 +1,1379 @@
+         REFLECTIONS UPON THE SIGNIFICANCE
+                OF RADIOCARBON DATES
+                             By FREDERICK           JOHNSON
+
+
+   ARCHEOLOGISTS, geologists, and pollen analysts are con-
+          tinually searching for the means of improving methods of
+          counting time. The commonly available relative chronolo-
+gies lack precision, and it is impossible to correlate them with the
+calendar, except when they may be checked with written records or
+with more definite methods of counting time; for example, the
+calendar based on tree-ring counts. The latter methods, how-
+ever, have regional and temporal limitations. Despite such diffi-
+culties, dates of varying reliability can be assigned to all major
+events and a large proportion of minor ones included in the subject
+matter of the several fields. The error in these dates varies from
+ +150 years or less, as those of the Near or Middle Eastern civiliza-
+tions, where written records supplement archeological data, to geo-
+logical estimates of Pleistocene events the errors of which are often
+ + 30 per cent or more.
+   When first developed by Dr. Libby, the radiocarbon method
+promised to become a valuable research tool, improving our knowl-
+edge of chronology. This promise has been amply fulfilled. About
+two thousand determinations have been listed in the dozen or more
+publications from Dr. Libby’s and other laboratories.1 The ages
+range from a few hundred years to more than thirty thousand years.
+The dated samples have come from several parts of Europe and
+Africa, the Near East, Oceania, and North, Middle, and South
+America. Samples from the Arctic and the tropics as well as those
+from a wide variety of intervening environmental zones have been
+     1, In addition to the preliminary list published by Libby in 1950 and the five lists in
+Science which are given in chapter vi, the following lists have been published: Anderson
+et al., 1953; Griffin, 1952; Johnson, 1951;; Kulp, 1953) Kulp et al., 1951; Kulp e¢ al., 1952;
+Ralph, 1955; and Suess, 1954.
+                                             141
+142                   RADIOCARBON       DATING
+
+dated. It is apparent that there is in existence the basis for a chro-
+nology which is world wide in scope. Perhaps the unique usefulness
+of this chronology, in addition to its scope, is the fact that the dates
+have been determined by a single method, and, without exception,
+they are directly comparable. Of great significance also is the ability
+to collate chronologies in several fields. The determination of the
+dates is independent of hypothetical geological, archeological, or
+analogous interpretations. Chronological problems which are inter-
+disciplinary in nature can be solved by a direct approach.
+   The preliminary lists of dates distributed by Libby previous
+to 1952 raised a number of questions because the indicated ages
+of some significant events were of an appreciably different magni-
+tude than the current ideas concerning them. In fact, the periods
+covered by several sequences were not at all concordant with
+opinions concerning chronology. These circumstances were re-
+sponsible for a discussion of the validity of the results of the method,
+and, significantly, much re-examination of the basis for archeologi-
+cal and geological chronological opinions. Out of this has come gen-
+eral recognition, occasionally qualified, of the validity of the meth-
+od. The body of data contributing to the proof of validity of the
+method is now large and convincing in spite of instances where
+claims for inaccuracy have been made. Though not always pub-
+lished, the data.continue to accumulate because, in addition to the
+investigation of specific problems, it is necessary to measure and
+remeasure contemporary samples and those of known age in order
+to test and calibrate equipment. The correspondence of predicted
+to observed radioactivities in a number of samples of known age
+(Fig. 1) is a primary indication of validity. Supplementary to this
+are measurements by two laboratories on sections of sequoia trees.
+The results are comparable to the dates determined by tree rings.
+Significant, though indirect, evidence is the overwhelmingly large
+proportion of dates which are accepted as accurate. One may also
+refer to the number of dates which, though they are in the order
+established by stratigraphy, do not correspond with some present
+ideas of magnitude. Consistency is also significant. It may be clearly
+seen, for example, in measurements made by different laboratories
+on identical samples. The results are identical; in fact, we are not
+aware of a single significant disagreement. There have been a num-
+         THE   SIGNIFICANCE     OF RADIOCARBON        DATES         143
+
+ber of experiments to test various questions and to allay certain
+doubts concerning accuracy. As an example we note one of these,
+the testing of rotten wood at the suggestion of Dr. Ernst Antevs
+(Nos. C-763, C-764, C-771, C-777, and C-787). The results varied
+from 6.39 + 0.5 to 6.83 + 0.12 counts per minute. These are to be
+compared with 6.88 counts for modern world-wide assay.
+   It has been customary procedure to compare historical, geological,
+and archeological measurements of .time with the radiocarbon meas-
+urements for the purpose of judging validity of any measurement
+but with particular emphasis upon radiocarbon results. Broadly,
+the procedure is justifiable, but there are significant objections to
+most conclusions which have been drawn from comparisons of de-
+tails. The problem is to find a basis for comparison. Historical data,
+that is, measurements of time based upon a calendrical system
+and dependable written ethnohistoric record, appear to be directly
+comparable with the results of the radiocarbon method as ex-
+pressed in number of years before the present. In other words, dates
+in both systems are referable to a single method of counting time.
+This is not true of geological and archeological measurements, except
+in relatively rare instances. Measurements of time in these fields
+are inferred from processes, the rates of change or progress of which
+are not constant and which are, as yet, quite unpredictable. There
+is no known standard rate for any one of these processes, and meas-
+urements of time for one process are invariably relative to rates of
+progress in other processes. It should be quite clear that inferred or
+relative dates of this kind and chronological frameworks made up
+of them are not standards of sufficient precision for judging in detail
+the validity of the radiocarbon dates. It is a matter of historical
+record that archeological sequences which have not been controlled
+by some method of counting time, such as tree-ring dating, have
+been assigned longer or shorter periods of time as various opinions
+waxed and waned in popularity or as new data were presented.
+Similarly, in geology several different chronologies for the Pleisto-
+cene are variously based and have reputable proponents who are
+fully cognizant of both the strength and the weakness of their posi-
+tion. In view of this it is obvious that conclusions regarding the
+validity or error in a single date or a sequence of radiocarbon dates
+must be drawn with extreme care.
+144                               RADIOCARBON   DATING
+
+   There are a few geologists and archeologists who are skeptical of
+the validity of all or a large portion of the results. The larger group
+of scientists which question specific dates, or sections of sequences
+of them, are probably closer to the actual fact. That is, some radio-
+carbon dates do not indicate the age of the phenomena described
+for the samples, even though such dates represent true determina-
+tions of the quantities of radiocarbon in the samples. In such cases,
+judgment concerning accuracy of dates is not a simple task in which
+currently held hypotheses of a single field or of several fields can be
+used as proof. There are several factors which require careful con-
+sideration before a truly sound judgment can be made.
+    The physicists and chemists involved in the laboratory research
+are fully aware of certain constant errors in the method. Dr. Libby
+and others have discussed the character and size of these internal
+errors in some detail in earlier chapters.” In view of this we may
+base our present remarks upon the virtual certainty that errors in the
+method are not of an order which affects the accuracy or seriously
+limits the use of the dates.
+   An important source of error can be described as curatorial.
+Experience has shown that it is essential to exercise great care in
+cataloguing and storing samples for measurement. A perusal of the
+lists of dates also shows that controversy is likely to arise over
+dates on samples which were not specially collected for radio-
+carbon measurement, particularly samples which have been stored
+in museums or laboratories for several years or more. Perhaps the
+most extreme examples of this are the dates on Tchefuncte and
+Hopewell samples (Nos. C-126, C-237, C-239, C-150, and C-151).
+In the light of present knowledge such samples would probably not
+now be measured. Another curatorial problem is prevention of
+contamination by noncontemporaneous C4. For example, steriliza-
+tion to prevent fungal action is advisable, if not sometimes essential.
+Prevention of mixture with other samples and exposure to dust or
+other contaminants are obvious precautions, but they are really
+important if an accurate measurement is to be made.
+   An analysis of so-called “invalid” dates reveals that a very large
+proportion of them have been determinations on samples the source
+of which is questionable. An important source of errors of this kind
+      2. See chaps. ii and iii.
+           THE    SIGNIFICANCE      OF RADIOCARBON    DATES         145
+
+ is contamination by noncontemporaneous root hairs, fungal action,
+ or some analogous process. That such contamination is present in a
+ sample is due either to unknown or to unsuspected factors which are
+ not observed by the collector. As an example of this kind of error, we
+ have the temerity to mention the dates on the Denbigh Flint Com-
+ plex of Alaska, Nos. C-792 (3509 + 230 years) and C-793 (4658 +
+ 220 years). For reasons which are as yet impossible to explain, many
+ dates on archeological samples from Alaska are questionable. The
+ same factors may also affect the Denbigh samples; nevertheless,
+archeological correlations indicate that the Denbigh Flint Complex
+ is older than the material at Trail Creek, No. C-560 (5992 + 280
+ years), and also other material presumably of similar age. Geo-
+ logical correlations in Alaska permit two estimates of age for the
+ Denbigh Complex: “More than 12,000 years (earlier than 10,000
+ B.c.)” and the favored one, “‘8500 years (6500 B.c.).’’? Added to this
+ is the fact that, should the present radiocarbon dates be correct,
+ adjustments in the timing of many events in much of northern
+ North America will be necessary. While there is nothing precise
+ or even stable about the archeological correlations and the geo-
+ logical estimates, the evidence that the radiocarbon dates on the
+ Denbigh Complex are erroneous is strong. The reason for the error
+ can probably be traced to the character of the deposit. Illustrations
+ and descriptions indicate that the layer was very thin and that it
+ had been covered and folded during a cold period subsequent to its
+ occupation. The charcoal comprising the sample was scraped from
+ the thin layer through which noncontemporary, possibly even
+ modern, roots had grown. Such circumstances render the dates
+ extremely unreliable indicators of the age of the Denbigh charcoal.
+ This is not due to the method of dating. It is possible that satis-
+ factory dates might have been determined had the samples been
+ collected with extraordinarily meticulous care and subjected to
+ specialized cleaning and testing in the laboratory.
+    In some instances, certain dates have been declared invalid, and,
+ more rarely, whole sequences have been repudiated because they
+ are not in agreement with hypotheses concerning chronology based
+ on other kinds of evidence. In such cases, it is necessary to examine
+ closely the character and the degree of reliability of the evidence
+   3. Hopkins and Giddings, 1953.
+146                  RADIOCARBON      DATING
+
+before the radiocarbon dates may be rejected. This is difficult to
+do because it sometimes involves questioning the basic tenets of a
+field of investigation.
+    The time scales used by geologists, pollen analysts, and archeolo-
+gists are, with rare exceptions, based upon stratigraphic sequences.
+Dates given in numbers of years for levels in a stratification can be
+misleading. With some exceptions, such dates are but convenient
+ways to indicate the estimated age, and a relatively large probable ~
+error is implied if not stated. Actually a date from one level indi-
+ cates only its relationship to those above and below. The location
+of samples in a series of levels in the ground or distributed over
+historically identifiable surfaces of the earth establishes chrono-
+logical relationships among samples. Knowledge of the extent of
+this relationship varies with the character of subsidiary informa-
+tion which may be derived from’a study of the characteristics of
+several levels. As has been said so often, materials from the lowest
+strata are older than the materials from higher ones, provided of
+course that the whole deposit has not been overturned or otherwise
+disturbed. It may be added that, where superimposition is not
+directly observable, it may often be accurately deduced, thus placing
+in sequence nonoverlapping strata which may even be located in
+areas widely separated horizontally. Although general principles
+governing such. deductions are commonly known, there are in-
+stances, often due to lack of fact, where chronologies based upon
+series of strata vary in degree of accuracy.
+   An adequately documented relative chronology of a sequence of
+geological or archeological events can be relied upon at the very
+least to indicate the order of events. Frequently reliable infer-
+ences concerning relative time intervals between events may also
+be made. However, when it is necessary to correlate events in
+one such sequence with those of another, inferences of contem-
+poraneity or succession must be made with care. Such are not
+dependable unless supporting evidence indicates strong proba-
+bility. In the earth sciences (archeology, etc.) such inferences are
+frequently made, and at times they are highly useful when properly
+considered. Regardless of these difficulties with relative chro-
+nologies, provable and in large measure, inferred sequences supply
+a background for the determination of chronology even though
+         THE   SIGNIFICANCE     OF RADIOCARBON        DATES         147
+
+the results are not precise in terms of a limited number of years
+in the Christian calendar.
+   There are at least several kinds of problems in archeology. One
+involves especially the older remains of man where archeological
+materials can be assigned relative dates of varying degrees of re-
+liability through collaboration with geology, pollen analysis, and
+other overlapping fields. The second is more frequently concerned
+with later cultural material found in situations having physical
+characteristics which are almost wholly due to the fact of human
+occupation. In such locations stratification is present, but it is fre-
+quently impossible to identify it. Consequently, archeologists aug-
+ment scarce, definite stratigraphic data with inferences from in-
+ternal evidence, such as the evolution of styles of pottery, changes
+in the form of tools, the shape of houses, etc. The resulting chrono-
+logical framework is of course very insecure and is recognized as
+such by any reputable archeologist. The use of such must strain
+the credulity of investigators in allied fields, especially those in
+possession of more precise data. Be all this as it may, certain points
+in the relative time scale for recent human development in North
+America have become rather firmly established, not perhaps by logi-
+cal proof, as in exact science, but by the sheer weight of confirmatory
+evidence. In other words, the probability of their accuracy is so
+strong that the possibility of error is slight indeed. Unfortunately,
+no suitable statistical expression of this can be made. Other dates,
+“‘suess dates” they are called in archeological jargon, are subject
+to controversies. These cannot be resolved at the present time, but
+they may be reduced by a process of elimination so that either ranges
+of error of these dates or hypothetical and sometimes multiple
+locations upon a time scale may be postulated. It is inevitable that
+further archeological research will bring to light evidence which will
+remove much of the uncertainties from these estimates.
+   It must be emphasized that, in spite of the lack of precision in
+all cases, many dates derived from purely archeological or geological
+phenomena are based upon evidence the validity of which is at
+present impossible to refute. It may be observed that, in instances
+where various types of evidence lead to real conclusions concerning
+chronology, the radiocarbon dates are in general agreement. Where
+the major difficulty actually appears is in situations where geologists
+148                   RADIOCARBON      DATING
+
+or archeologists do not agree among themsélves. In view of the
+nature of the data and the character of the material with which
+scientists dependent upon stratigraphy have to work, such dis-
+agreements are inevitable, and only meticulous, continuing analysis
+can reduce them. Nevertheless, basing statements concerning the
+accuracy of radiocarbon dates upon data which are in themselves
+controversial gives rise to incorrect and misleading conclusions or.
+opinions. For example, in both archeology and geology it has been
+held that several sequences of radiocarbon dates.do not allow enough
+time for specific series of events to take place. The actual expression
+of the idea is often obscured by complicated cross-reference to
+specific details and the couching of arguments in the current jargon.
+In geology, some but by no means all criticisms of the radiocarbon
+dates are based upon inferences concerning the behavior of a pres-
+ently nonexistent ice sheet. There is no way of proving or dis-
+proving assumptions concerning the speed of advance or retreat of
+the ice, the degree of precision of a varve record and its correlation
+with the calendar, or the significance of the modifications in the
+vegetation. In various ways, these factors have provided useful
+opinions concerning the passage of time, such being based upon the
+weight of the evidence rather than upon observable fact. Similarly
+in archeology, opinions concerning time, when not based upon
+geological observations, are based largely upon assumptions con-
+cerning the rate of change in cultural processes. These are deduced
+from many sources, such as study of contemporary primitives, com-
+plicated comparisons and collations of sequences of events, etc.
+These opinions have varied greatly through the years, and no way
+of stabilizing them has yet been devised. Certainly a minimum of
+cogitation of the basis of some criticism of radiocarbon dates
+reveals the absurdity of it.
+   This leads us to observe that in many instances the location of
+samples providing unsatisfactory dates is incorrectly interpreted.
+The sample does not represent the event which the description says
+it does. This is quite frequent and understandable in situations
+where stratigraphy must be inferred from deposits widely sepa-
+rated horizontally. Another source of confusion is the incorporation
+in the deposit, in any one of several ways, of materials which are
+not contemporaneous with its development. Such sources of dis-
+            THE      SIGNIFICANCE   OF RADIOCARBON    DATES         149
+
+  agreement between radiocarbon and other dates are now being
+  recognized. Revisions of opinion concerning the assignment of the
+  sample is of course justifiable, and certainly the radiocarbon date
+  may figure importantly in the modification of these opinions. How-
+ ever, it is equally certain that such modifications of opinion must be
+ based upon stratigraphic or other sequential information.
+     The preceding comments outline a conviction that, within known
+ limits, the method determines the age of samples which have been
+ properly collected. However, it is necessary to subject all dates to
+ critical interdisciplinary evaluation before they can be fully accept-
+ ed. This involves meticulous examination of the process of collection
+ and description of the sample and the standards upon which judg-
+ ment is based. Gordon R. Willey has compiled a critique of archeo-
+ logical problems and radiocarbon dates in South and Middle America
+ which is an excellent example of evaluation of a wide range of
+ dates, including opinions concerning the significance of the chrono-
+ logical information.‘ A brief of the salient points and comments
+ hardly does the work justice. Willey’s essay is concerned with four
+ obvious and basic problems. First, when did man enter Middle and
+ South America? And how do the dates of his entry compare with his
+ first appearances in North America? Second, when and where are
+ the beginnings of American agriculture? And, as a corollary to this,
+what was the effect of domesticated food plants upon the growth of
+ culture? Third, at what time and when did American cultures
+ attain what might be called a Neolithic—or Formative—threshold,
+ this threshold being characterized by stable village life based upon
+agricultural food production? Fourth, when did the Classic cultures
+—the “high” civilizations of Middle America and Peru—assume
+definite forms? And what was the duration of their existence?
+    Of the very few dates on ‘Early Man” in Latin America, the one
+of greatest significance comes from the Straits of Magellan. This
+date, 6688 + 450 B.c. (No. C-485), is only 1000 years later than
+the Lubbock Folsom date (7932 + 350 B.c. [No. C-558]) and implies
+man’s early dispersal throughout the two American continents. In
+the valley of Mexico, the Younger Becerra geological formation
+dates from 9000 to at least 14,000 B.c. (Nos. C-204 and C-205). A
+lithic industry known as the San Juan has been associated with this
+  4. Willey, 1954.
+150                       RADIOCARBON   DATING
+
+formation. However, the above dates do not pertain to the cultural
+material. The Chalco lithic complex is found in a stratum overlying
+ the Becerra, and a date on the complex, 4440 + 300 B.c. (No.
+ C-198), is consistent with the local stratigraphy. The few early
+radiocarbon dates available indicate that man entered Middle and
+ South America not long after he became established in North
+America. This is expectable and does no violence to recent archeo-
+logical conceptions.
+    Early and primitive races of maize from the simple La Perra cul-
+ture in Tamaulipas, Mexico, have been dated at 2494 + 280 B.c.
+ (No. C-687). At Bat Cave,     New Mexico, six levels have been dated,
+the earliest being 3981 + 310 B.c. (No. C-573). Races of maize, as
+primitive as the La Perra maize, are probably not so old as the above
+but date from a middle-level reading about 2500 B.c. The great
+importance of these dates is that they are associated with the
+appearance of a domesticated food plant on an otherwise “early
+Lithic”’ stage of development and that they demonstrate the pas
+ sage of a good many centuries without appreciable culture change.
+Undoubtedly, maize was a dynamic force in the rise of New World
+civilizations, as has been thought. However, contrary to the idea
+that it caused a sudden change in rate of development, maize ap-
+pears to have played its role apparently without dramatic sud
+denness.
+    From Peru, a series of dates on the great refuse heap at Huaca
+Prieta have been discussed in detail by Bird.® Willey points out that
+the beginnings of an economy based on marine foods, gathering, and
+domesticated plants may be seen about 2348 + 330 B.c. (No.
+C-598). This is roughly equivalent to La Perra. However, Peruvian
+agriculture of this time lacked maize; only domesticated roots and a
+local bean were cultivated. The other dates at Huaca Prieta are
+reasonably consistent with the stratigraphy. They indicate the
+first appearance of plain pottery between 1200 and 1000 B.c. In the
+near-by Virii Valley the radiocarbon dates for the early Guafape
+culture, characterized by plain pottery, is slightly earlier, 1149 +
+200 B.c. and 1849 + 150 B.c. (L-122c, L-122f).° It is important to
+note that the above dates are determined from charcoal. Dates on
+  5. Bird, 1951.
+  6. Kulp e/ al., 1952.
+              THE   SIGNIFICANCE    OF RADIOCARBON    DATES          151
+
+shell appear to be uniformly too early. A well-developed ceramic
+complex and domesticated maize is found in the following middle
+Guafiape of Vird and is dated 1199 + 90 B.c. (L-122a).’ In view
+of various archeological correlations, this date is rather too early.
+The equivalent of this in the coast Chavin complex, called “Cupis-
+nique,” is dated 715 + 200 B.c. (C-75). It should be noted that
+the Cupisnique pottery and stylistic complex appears fully de-
+veloped; its arrival, coincident with maize, suggests outside influ-
+ences with a long previous history elsewhere.
+   As was the case with Middle America, the Peruvian radiocarbon
+dates on agricultural beginnings were earlier than had been antici-
+pated, but their acceptance necessitated no major revisions in chron-
+ological alignments. In both areas domesticated plants are recorded
+as far back as 2500 B.c., or earlier, and these plants are products of
+rather simple, preceramic cultures which undergo relatively little
+change for several centuries. There is another parallel in the abrupt
+appearance of a full-fledged Formative type culture—Cupisnique
+on the Peruvian coasts—and the Pueblito pottery-agricultural
+period in the Tamaulipas Highlands. The significant difference
+between early agriculture in Peru and Middle America is the much
+greater age of maize in the latter area.
+   About ten dates on samples from various levels of the Formative,
+or ‘“‘American Neolithic,” culture are not out of line with tenable
+ideas concerning correlation of materials in the valley of Mexico
+and the Guatemalan Highlands. At this stage, say, from about
+1500 B.c. on to the younger dates determined, changes and de-
+velopments in the highly organized groups were rapid. Variations
+or lack of precision perhaps, amounting to 100 years more or less in
+the dates, to say nothing of large counting errors, are sometimes diffi-
+cult to accommodate in the short space of time available. In the
+present instance, however, adjustments because of the ranges are
+remarkably few.
+   As Willey observes, the dates indicate that a fully developed
+Formative culture was under way as early as 1500 B.c. in the valley
+of Mexico and, probably, elsewhere. A terminal horizon for the
+Formative is established by the various proto-Classic dates which
+fall between 700 and 200 B.c. (e.g., Nos. C-422, C-426, L-113,°
+   7. [bid.                   8. Kulp e/ al., 1951.
+152                   RADIOCARBON      DATING
+
+C-948, C-949, C-460, C-531, and C-685). Formative cultures have
+been pushed back some 1500 years earlier than estimates of a decade
+ago. This lengthening of the Formative time span downward
+agrees, of course, with the early dates for American agriculture in
+the preceding incipient agricultural or Preformative stage. At the
+other end of the scale, however, the Middle American archeologist
+runs into his first real difficulty with radiocarbon—the surprisingly
+early termination of the Formative cultures and the corresponding
+lowering of the beginnings of Classic civilizations. In Peru, in gen-
+eral, the range of dates for the Formative is consistent within itself,
+although there are some surprises. Notable among these is the
+relatively early date for the very late Formative Gallinazo culture
+ (682 + 300 B.c. [No. C-323]) and Paracas Necropolis (307 + 200
+B.c. to A.D. 250 + 250 [Nos. C-271 and L-115]).® Gallinazo is known
+to be not only later than Cupisnique (ca. 700 B.c.) but to be separat-
+ed from it by another substantial period, the Salinar.
+    For the most part the Peruvian dates are appreciably later than
+those of the Middle American early Formative and suggest that
+the formative threshold was significantly earlier in Middle America
+than in Peru and that Middle American culture between the cen-
+turies of 1000 and 600 B.c. may have been the source for maize,
+developed ceramics, and temple-mound construction in Peru.
+    Classic civilization in central Mexico and Oaxaca has two radio-
+carbon dates which.are consistent with previous archeological
+chronology as well as with the dates in the Formative in these
+regions. The dates 294 + 180 B.c. (No. C-422) for Teotihuacén II
+is a little far from but not irreconcilable with the date a.p. 298 +
+185 (No. C-426) for Monte Alban III-A. The archeological cul-
+tures are assumed to be contemporaneous and are considered to be
+early Classic. Another Teotihuacan date, 1474 + 230 B.c. (No.
+C-423) is, obviously, in error. Of extreme interest are dates on
+lintels of temple doorways from the late Classic Maya site of Tikal.
+The lintels have Maya dates which in the Spinden correlation are
+translated as A.D. 481 and in the Goodman-Thompson correlation
+as A.D. 741. The radiocarbon dates are amazingly close to the
+Spinden correlation, being A.p. 481 + 120 (L-113),!° 469 + 120
+B.c. (No. C-948), 433 + 170 (No. C-949). The continuation of
+  9. Ibid.              10. Ibid.
+         THE   SIGNIFICANCE     OF RADIOCARBON        DATES         153
+
+the Classic Maya to a terminal date of about a.p. 650 may be ac-
+complished by employing the Maya calendar. Thus there may be
+suggested a range of the Middle American Classic from the last
+centuries B.C. to A.D. 650 or a few hundred years earlier, as is indi-
+cated by archeology, in areas outside the lowland Maya area. Dates
+on Classic Mochica on the north coast of Peru and on Classic
+Nasca from the south coast create an over-all impression that
+Peruvian Classic cultures were, roughly, contemporaneous with those
+of Middle America; that is, beginning in the late centuries B.c.
+and continuing up through the first half of the first millennium a.pD.
+    It is this time span of the Classic civilizations, as indicated by
+radiocarbon dates from both Middle America and Peru, that has
+come as the greatest surprise to most archeologists. Pushing back
+the beginning of the Classic and the relatively early termination of
+the Classic, at least in Middle America, produced the greatest shock.
+Acceptance of the radiocarbon dates requires acceptance of the
+Spinden correlation, and this creates a gap between A.D. 650 and 900.
+Such an interval can be filled by drastic rearrangement of existing
+ideas. It would be necessary to believe that the final centuries of the
+Maya civilization witnessed a prolonged and drab decline. Otherwise
+it is necessary to assume that a cultural horizon, the Tula-Toltec,
+persisted for some 400 years, twice as long as previously believed.
+This latter also requires a compensating drop back in time of the late
+post-Classic cultures. The dilemma in Peru is quite similar, except
+that there is no indigenous system of dating, and it is not so difficult
+ to stretch out the Classic to cover the long span of years from late
+B.C. times to about A.D. 1000. This latter is the usual estimate for the
+ beginning of the Tiahuanaco horizon.
+    These considerations form a basis for concluding, even in the
+face of controversy, that the results of the radiocarbon dating meth-
+od are, in general, sound. The examination and comparison of sev-
+eral sequences in Middle and South America serve to segregate dates
+on samples which are unsatisfactory or wrong and to indicate in-
+compatibilities between some sequences. Importantly, however,
+ the dates have contributed to ideas concerning the chronology of
+ culture development in a large part of the New World. In some cases
+ adjustments of archeological ideas to correspond with time determi-
+ nations by radiocarbon require no drastic modification. Otherwise,
+154                   RADIOCARBON       DATING
+
+as in the question of the age of the Classic cultures, particularly
+the Maya, necessary adjustments can be made, but they are far from
+satisfactory to an impressive body of scholars. In view of the really
+small number of dates and the character of some of the samples from
+this Classic period, one can only record that full agreement between
+archeology and radiocarbon results is not possible. Without much
+question a clarification of this incompatibility involving the Classic
+cultures of America is one of the most urgent matters requiring
+the attention of both archeologists and physicists. Examination of
+some above-mentioned dates which are obviously wrong gives rise
+to questions concerning the assignment of the samples to specific
+strata. As an example, one chooses, for Classic Mochica of the north
+coast of Peru, the date a.p. 112 + 190 (No. C-619), which came from
+a late Mochica burial with clearly identifiable pottery. Another date,
+873 + 500 B.c. (No. C-382), is discarded, at least as a Mochica
+date, for it is much too early. The latter sample is described as ash
+mixed with bone. It was located on the habitation site, ground level,
+beneath the pyramid Huaca del Sol at Moche, a pyramid considered
+to be Mochica. This location is rather difficult to assign precisley,
+and, in view of the date and its conflict with the Formative, one
+can hazard a guess that, owing to difficulties of collection, the sample
+does not correspond to its description. In contrast to the preceding
+there are a few dates from the region which are not correct, but the
+source of the error cannot be determined from available records. A
+type of question also arises in considering data such as the earliest
+date at Bat Cave. The date 3981 + 310 B.c. (No. C-573) was de-
+termined on charcoal from a lower level in the cave. Whether or not
+this actually dates the occurrence of maize is not certain, for a full
+account of the excavation has not yet been published. On the basis
+of other data it has been guessed that the date on corn will be
+about 2500 B.c. These figures are most tenuous; possibly they should
+not be published. Another error is an example of probable curatorial
+problems. The date 1475 + 230 (No. C-423) for Teotihuacan III
+is obviously wrong, and one needs only to read that the sample was
+collected in 1921 in order to assume that it has become contaminated
+in some fashion.                                 !
+    The evaluation employed for the Middle and South American
+ material could be expanded if space permitted. Sequences of dates on
+          THE     SIGNIFICANCE    OF RADIOCARBON          DATES      155
+
+strata in southwestern North America and on samples from caves and
+other deposits in the Great Basin and the West Coast region provide
+a chronological framework, particularly for the “early Lithic”’ and
+“Archaic” cultures." Here we see, for example, a sequence of dates
+on the stages of the Cochise culture of Arizona (Nos. C-511, C-515,
+C-518, C-519, and C-556). These ages are now generally accepted
+and appear to be compatible with most geological opinion as well
+as with contributing archeological evidence. Similarly dates from
+Nevada, Oregon, and California indicate that man was well estab-
+lished in the region previous to 7000 B.c. This series of radiocarbon
+dates has contributed to the steadily growing opinion that cultures
+other than those of the Folsom-Yuma tradition were contemporane-
+ous with it. One reads also of the opinion that Folsom may have
+developed in the region east of the Rocky Mountains to move north-
+ward during the latter part of its existence.
+   Dates on eastern archeological complexes are as yet far too few to
+permit any general regional interpretations. The initial attempts to
+date Adena and Hopewell cultures and some phases of the Archaic
+cultures in the Southeast were far from satisfactory, largely because
+many of the samples were unsuitable for this purpose. Determina-
+tions since 1952 confirm the general opinion that Adena preceded
+Hopewell. In addition, the dates indicate that the two cultures
+overlapped in time. Many more dates are needed, and additional
+archeological analysis such as that recently published by Fowler’?
+must be completed before this problem, one of many in the East,
+may be solved.
+   Of specific interest are two dates on the “Old Copper” culture
+apparently centered in Wisconsin. Three samples produced two
+dates, 3650 + 600 years (No. C-836) and 5560 + 600 years (Nos.
+C-837 and C-839). The full significance of these dates is uncertain
+at this writing. The culture has long been recognized as an old one.
+The indicated ages are, however, a little surprising. It is possibly not
+significant to comment that these are the earliest dates known for a
+copper industry, at least in the New World.
+   The significance to archeology of eight dates from Barbeau Creek
+Rock Shelter (Nos. C-899, C-900, C-903, C-904, C-905, C-907, and
+C-908) is not known, for a report on the excavation has not
+  11, Willey and Phillips, n.d.       12. Fowler, 1955.
+156                   RADIOCARBON      DATING
+
+been issued. However, the dates from the lowest levels, ranging
+from about 7100 B.c. to 8600 B.c., are the earliest recorded for
+the presence of man in the East. Some of these are obviously of the
+order of ‘‘early Lithic’’ dates, but the culture may be classifiable as
+Archaic. The site ‘“‘consists of a 25.5-foot-deep midden deposit and is
+situated at the base of an 82-foot sandstone bluff that projects over
+and protects the site” (cf. p. 101 above). The method of collecting
+the samples by ‘hand picking,” washing in water, screening, and
+so on, as described in the listing of the dates, should be of particular
+interest to collectors. There is considerable variation in some of the
+dates, but it isnot possible to assess the significance of these, and we
+await with interest the analysis and conclusions of the excavators of
+the site.
+    The situation in regard to dates on geological events is analogous
+to that in archeology. That is, there exists, particularly for North
+America, a basic but incomplete chronological framework to
+which additions are being constantly made. In this, there are dates
+which are either obviously wrong or subject to controversy. There
+ are geologists, too, who seriously question the validity of some se-
+ quences of dates. As far as it is possible for a student outside the
+ field to judge, the reasons for these difficulties are quite similar to
+ those mentioned for archeology. Aside from contaminated samples,
+ the reason for which may or may not be discoverable, the major
+ source of disagreement can be traced to the process of selection and
+ collection of samples. It does appear that a large proportion of the
+ controversy concerning accuracy of dates or sequences of them is
+ based actually upon disagreement. concerning interpretation of the
+ stratigraphy. The foregoing statement does not suggest or imply in
+ any way adverse criticism, for such would be most unrealistic, if not
+ illogical. At the present stage of geological knowledge there are
+ numerous stratigraphic situations which are open to varying inter-
+ pretation. However, it may be suggested that, given a truly repre-
+ sentative sample, or preferably a series of them from a stratigraphic
+ sequence, the radiocarbon dates can be of major assistance in de-
+ termining the order and timing of geological events. In order to do
+  this, however, it is sometimes necessary to revise a number of deeply
+  intrenched and unprovable opinions concerning time required by
+  geological processes, such as the advance and retreat of glacial ice.
+           THE   SIGNIFICANCE        OF RADIOCARBON          DATES            157
+
+   Of all phenomena which have been dated by radiocarbon, the
+age of the Two Creeks Forest Bed in Wisconsin is the most certain.
+At least seven concordant determinations have been made by two
+laboratories (Nos. C-380, C-365, C-366, C-536, C-537, W-42, and
+W-83).13 The age of the forest bed averages about 11,400 + 350
+years (9400 B.c.). This and a number of other dates, for example,
+Nos. C-674 and C-630, establishes the maximum of the Mankato
+advance of the Wisconsin ice at about 10,000 years ago. It is pos-
+sible to correlate a number of succeeding dates with various stages
+of development of the Great Lakes and propose, as Flint has done,
+a very tentative but nonetheless important and interesting account
+of late Wisconsin substage and events in the northeastern United
+States and southeastern Canada." In spite of uncertainties concern-
+ing some details, there is considerable background supporting the
+major contentions. Although these are promising as far as geology
+in the East and within the boundary of the glaciated area is con-
+cerned, correlations with deposits and other phenomena in un-
+glaciated regions poses a number of complicated problems which
+have not been solved at this writing. The dates in Danger Cave,
+Utah (Nos. C-609, C-610, C-611, C-635, C-636, and C-640), chal-
+lenge some previous correlations and inferred chronologies of the
+various shorelines established during the history of Lake Bonneville.
+By implication, this also involved interpretations of the signif-
+icance of moraines and analogous deposits in the Rocky Mountains.
+These are major problems which are the subject of continuing
+research.
+   Another series of dates contributing to closely related problems
+has been published since 1952. The progress of the development of
+the gas counting method has made possible the refinement of dates
+which were somewhat beyond the reach of the solid-carbon method
+employed by Libby. Combined with these remeasurements, addi-
+tional dates on older materials begin to point to possible correla-
+tions of Tazewell, Cary, and earlier stages of the Wisconsin Age.
+The chronology of pre-Mankato advance and retreat of glacial ice
+across Pennsylvania, Ohio, Illinois, Indiana, and Iowa can be out-
+lined. There is some disagreement as to how the dates should be
+    13. Suess, 1954.                14. Flint, 1953.                  i
+    15. Andover Conference on Radiocarbon Dating. Discussions of presentations by
+Flint and Horberg served to outline several points of view.
+158                           RADIOCARBON           DATING
+
+labeled and which ones are incompatible, but névertheless a reason-
+able scheme can be postulated. Comparison of these dates with the
+dates from layers in Searles Lake (Nos. C-894, C-895, C-896, and
+C-897) supports the suspicion that dates in the East are of the
+correct magnitude and that various phenomena outside the glaciated
+region may be correlated with them. Such an idea is subject to con-
+troversy, to say the least.!® The series of interlocking problems are
+the subject of several investigations being carried out by R. F. Flint
+in collaboration with M. Rubin, W. A. Gale, and others.!7
+   The preceding discussions have been based entirely upon informa-
+tion from the    New World, largely because the greatest number of
+age determinations are from this hemisphere. A glance at the meas-
+urements from the Old World reveals the fact that the status of
+the method is closely parallel to that in the Americas. There are
+dates of unquestioned validity; there are dates which present prob-
+lems in interpretation; and there are dates which undoubtedly are
+wrong for reasons which have already been explained.
+   One series of dates is of great interest. The age of the Allerdd
+period in Europe established initially by Libby’s measurements,
+and especially as a result of research by the Carbon-14 Dating
+Laboratory at Copenhagen,"* has proved that the Alleréd in Europe
+was contemporaneous with the Two Creeks Forest Bed in Wisconsin.
+This suggests the probability that Pleistocene events in the Old
+World and the New World were synchronous. Additional but less
+certain evidence of contemporaneity of events may be inferred from
+the date from Poggenwisch, Holstein, Germany. The age is 15,150 +
+350 years (No. W-93),!® and it is-a date for an Upper Paleolithic
+reindeer-hunting culture. Also it belongs in the ‘Older Dryas’”’ level
+according to pollen analysts. The sample was associated with the
+drift of the Pomeranian glacier, which may, by collation of other
+sequential information, be tentatively correlated with the Cary
+glaciation in North America.
+   The various dates from the Near East are of equal interest. Those
+from samples of known age have been mentioned. Samples from
+      16. See, e.g., Antevs, 1953, 1954.
+      17. Personal communication, January, 1955.
+      18. Flint and Deevey, 1951, p. 266; Anderson et al., 1953; Iverson, 1953.
+      19. Suess, 1954.
+          THE    SIGNIFICANCE          OF RADIOCARBON            DATES            159
+
+Nippur (No. C-752) were used to test the limit of sensitivity of the
+method. As a result of 1 month of steady counting time for each of
+three samples the date 1993 + 106 B.c. strongly favors the younger
+of the possible calendars derived from the Mesopotamian king lists.
+This date serves to fix a point in “the whole interwoven fabric of
+historic interrelationships of western Asia and Egypt in the early
+part of the second millennium B.c.’’ Other dates from the Near East
+of interest and importance are the dates on the early Neolithic site
+at Jarmo in Iraq (Nos. C-113, C-742, C-743, and C-744). The dates
+from the lower levels indicate the general age of the beginning of
+village life at a preceramic stage of culture development in the Fer-
+tile Crescent.
+   To terminate here comments on the radiocarbon dates which
+have been published is to provide an account having significant
+lacunae. Much has been omitted concerning the Old World, but it
+is expected that the development of laboratories now progressing in
+Cambridge and London, Copenhagen, Goteborg, Heidelberg,
+Rome, Stockholm, and Trondheim will result in reports and dis-
+cussions which will fill the gap. Also, little has been said specifically
+concerning the relationship between some dates and pollen chro-
+nology. This has been the subject of some valuable comments,” and,
+of course, some of the discussion of geological problems includes by
+implication information from pollen analysis from both the Old
+World and the New. Also omitted have been comments on oceano-
+graphic problems,” for these are far beyond the competence of the
+present author. It is to be hoped that these omissions are not
+serious, since a study of world-wide radiocarbon chronology was
+not the purpose of this essay. The intent was to indicate the scope
+of the method and its general usefulness as a tool to be employed
+by any field which was concerned with appropriate subject matter.
+Dates and sequences in American archeology and geology were
+briefly Jisted and discussed as examples of the usefulness of a
+method having the attributes of the one under consideration. Be-
+cause of the recency of the method, cogitation over the validity
+of the results was inevitably a subject of much of the discussion. It
+is our contention that the magnitude of the error inherent in the
+  20. Deevey and Potzger, 1951; Flint and Deevey, 1951.
+  21. Kulp, 1952, has a short outline of the problems in oceanography at that time.
+160                         RADIOCARBON        DATING
+
+method is not so large as the number of years quoted for the purpose
+of invalidating it. It is also our opinion that, barring mistakes by
+collectors and laboratory workers, the very large majority of the
+errors are traceable to the process of selection and collection of
+samples. Such range all the way from faulty observation of condi-
+tions in the ground to controversy over the significance of a given
+stratum. More than anything else the record of success is ample
+proof that the superlative research of Libby and his associates have
+provided science with a valuable and uniquely useful tool.
+
+
+                                 BIBLIOGRAPHY
+ANDERSON, E. C., Levi, HitpE, and TauBEr, H. 1953. ‘‘Copenhagen Natural
+   Radiocarbon Measurements I,’’ Science, 118, 4-6.
+ANDOVER CONFERENCE ON RADIOCARBON DATING, OCTOBER 21-23, 1954,
+   Puittres ACADEMY, ANDOVER, MASSACHUSETTS. An unpublished steno-
+   graphic record of the discussions.
+ANTEVS, ERNST. 1953. “‘Geochronology of the Deglacial and Neothermal
+   Ages,” J. Geol., 61, 195-230.
+        . 1954. “Geochronology of the Deglacial and Neothermal Ages: A
+   Reply,” bid., 62, 516-21.
+Birp, Juntus. 1951. “South American Radiocarbon Dates,” in FREDERICK
+   Jounson (ed.), Radiocarbon Dating: A Report on the Program to Aid in
+   Development of the Method of Dating (‘Society for American Archaeology
+   Memoirs,” No. 8 [Salt Lake City, 1951]), pp. 37-49.
+DEEVEY, Epwarp S., JR., and Porzcrr, JoHN E. 1951. “Peat Samples for
+   Radiocarbon Analysis: Problems in Pollen Statistics,” Am. J. Sci., 249,
+   473-511.
+DEEVEY, EDwarp S., Jr., Gross, Marsua S., Hurcutnson, G. E., and Kray-
+   BILL, Henry L. 1954. ‘“The Natural C-14 Contents of Materials from Hard-
+      Water Lakes,” Proc. Nat. Acad. Sci., 40, 285-88.
+FLiint, RIcHARD Foster. 1953. ‘“‘Probable Wisconsin Substages and Late-Wis-
+   consin Events in Northeastern United States and Southeastern Canada,”
+   Bull. Geol. Soc. Am., 64, 897-919.
+Frint, RicHarp Foster, and DEEVEy, Epwarp S., Jr. 1951. “Radiocarbon
+   Dating of Late-Pleistocene Events,” Am. J. Sci., 249, 257-300.
+Fowter, Metvin L. 1955. “Ware Grouping and Decorations of Woodland
+      Ceramics in Illinois,” Am. Antiguity, 20, 213-25.
+GRIFFIN, JAMES B. 1952. ‘‘Radiocarbon Dates for the Eastern United States,”
+   in James B. GrirrFin (ed.), Archaeology of the Eastern United States (Chicago,
+   1952), pp. 365-70. (This chapter lists, among others, a number of dates de-
+   termined by the University of Michigan Memorial—Phoenix Project Radio-
+   carbon Laboratory.)                                 :
+Hopxins, B. M., and Gippines, J. L., Jr. 1953. Geological Background of the
+      Iyatayet Archaeological Site, Cape Denbigh, Alaska. (‘Smithsonian     Mis-
+      cellaneous Collections,” Vol. 121, No. 11.) Washington, D.C.
+           THE    SIGNIFICANCE    OF RADIOCARBON         DATES          161
+Iverson, Jous. 1953. “Radiocarbon Dating of the Alleréd Period,” Science,
+   118, 4-11.
+JOHNSON, FREDERICK (ed.). 1951. Radiocarbon Dating: A Report on the Program
+   To Aid in Development of the Method of Dating. (‘Society for American
+   Archaeology Memoirs,” No. 8.) Salt Lake City.
+Kup, J. LAuRENCcE. 1952. “The Carbon-14 Method of Age Determination,”
+   Scientific Monthly, '75, 259-67.
+Kutp, J. LAURENCE, FEELEY, HERBERT W., and Tryon, Lansinc E. 1951.
+   “Lamont Natural Radiocarbon Measurements I,” Science, 114, 565-68.
+Kutp, J. LAURENCE, Tryon, Lansinc E., ECKELMAN, WALTER R., and SNAIL,
+   Witttam A. 1952. “Lamont Natural Radiocarbon Measurements II.’ Sci-
+   ence, 116, 409-14.
+RALPH, ELIZABETH. 1955. “‘University of Pennsylvania Radiocarbon Dates I,”
+   Science, 121, 149-51.
+Suess, Hans E. 1954. “U.S. Geological Survey Radiocarbon Dates I,” Science,
+   120, 467-73.
+WILLEY, Gorpon R. 1954. “Archaeological Problems and Radiocarbon Dates
+   in South and Middle America.”’ (Manuscript of paper presented to the An-
+  dover Conference on Radiocarbon Dating, October 21-23,°1954.)
+WILLEY, Gorpon R., and Puitiips, Pururp. n.d. “Methods and Theory in
+   American Archaeology. II. Historical Developmental Interpretation.”
+   (Manuscript.)
+4                                   }                                 ,                                -
+                                                                                                         : "’                                               :           7 4                            —
+
+
+                  ny                               20K)                                    Seta AEAee mane
+
+                                                                                                                                             '             aa
+                                                                                                                               a                                    (eataa ma
+                                                             Pr            i                       wi              pe           ty Las                             <i a.                                           ‘
+
+                                                                                                                                y meds                          es ee a
+                                                                                                                                                                      ce                               Mgt
+                    (yan                           ayeabd seh Nestea,                                                                        haat                      Ll     Smead                                             ay
+                                                                                   i                           #s             ws   Pz.                                     “ey i ahi kes Me Dee
+                                                                                                                                                                                                                                re
+                                                                                                                                                                                                                                 A
+                                                                  at                           ?                              oe ont   yer                             heVx or eS         (at
+                    6          Ga enti                  he7 | least t nds                                                                                       Oe                                 (aA Woot
+                  ayit        4 Ags                    +>         ay-                      yet             ~        ver       TEN   at               We     al    sitly. aor              t, creer                                    i    af
+                              “tt
+                                             ok?
+                                             Ie
+                                                              aia te                                           ,              aLivens
+                                                                                                                                                           jill f §dhompt,’ ryCOTE
+                                                                                                                                                      Lastpae                 ey f2
+                                                                                                                                                                                                                                diy   re
+
+                  "))         Cid            CRG                                       AM                  wv             riteho                     Io yigtes                ve          ow) Pip Oe               eae a
+                                                                                                                                                                                           re)
+                                                                                                                                                                                            5k               Ahi
+                  mine                       “\l.cabets                        =                               vidio                             ae                             £OP               eo aaea
+
+              wd                Pode                                                               2                  hte                De wale A” “ 9                                                “iAse ;
+                    RE              eR ort                                         87 eh Tay                                   eens                                    iA                         hd         hiwae
+                         ‘               4                                                                     bins Cn                               prarmriatree ry eri)
+                  nerd                             Une                     ate ch                                  OO               ee                      A               7        if           SF eae
+                        VRRP                       at                     Se) aia                                             iT Loerh                                           ge wp nA
+                                                                                                                                                                                       inh
+    i                                                                                                                                                                                                                  '
+7                                                                 A                    io                                                                                                                   _
+
+
+                                                                                                                                    rt               Vye)        ar:            sat               Ny        ef eel          a
+
+iG                      iy
+|             i          ,                         *                                       :                                                     ‘          Veet                      2s                      ia       F
+                        1d          Gog            OO.                                 j                                  a              ,             a          Mepee!        gs         fa          Cr      )
+                    yw              ae                                    yo                                                        Pe                            ad                      hy,                          AN
+a:                      “52             7"                   of
+                                                            mim
+                                                                                                                                    mh               1h]           ee            e
+             ~Yhangnn                   «Meme 02                                                                              2 Puevene,                         Toei,                     ely:        ieee Rade
+     oe.                pS                                            ous                              «*             \/ eae +6 fake Tee”                                                              oF
+                                                                                                                   ‘wat                                                 PA      Wie                TN        Ee
+        <           ay?                                                    is                                        iiliait. ia lesa
+        Pee    aa
+          7 Push aan                                                  Ae te
+                                                                                       a Na“aFRIGPigdks
+                                                                                                    alitypolesaBe Mian
+            Fat 2s Mimine "38.                                                                                                           UilhegRises wht Mae
+
+
+
+
+                                         oidVl                                                             y~. i"
+                                            ‘aioe >
+                                                   ars
+                           fei ed Gh)A a Bl      ea
+SPECIAL EQUIPMENT AND CHEMICALS FOR THE
+     C4 SAMPLE PREPARATION APPARATUS
+
+                   Item                                   Source
+Vycor combustion tubes; 25 mm. I.D.,          Corning Glass Works
+  31 mm. O.D., 750 mm.
+Iron tube; 30 inches, 14 O.D., 0.035 wall     Central Steel and Wire Company
+Copper oxide; wire form                       Merck and Company
+Hydrochloric acid, CP                         Baker and Adamson Company
+Ammonia CP                                    Baker and Adamson Company
+Calcium chloride, dihydrate, AR               Mallinckrodt Chemical Company
+Magnesium turnings, CP                        Merck and Company
+Cadmium metal                                 See Dr. Bergman (Institute for
+                                                 the Study of Metals)
+Furnace tubes, alumdum; 4cm. I.D., 9-inch     Norton Company
+  lengths or longer
+Nichrome wire, Nos. 20 and 28                 Driver-Harris Company
+Pyrex fritted disks; medium; No. 39570-10     Sargent Company
+Drierite; mesh No. 4                          Sargent Company
+
+
+
+
+                                     163
+                          ACP PEN          DHEXS B
+
+             SPECIAL      MATERIALS FOR               SCREEN-
+                          WALL COUNTER
+
+          Item                     Source                       Type
+Unleaded brass tubing      American Brass, 1327
+  (direct from mill,         West Washington
+  $51.70 per 100 lb.)        Street, Chicago, Illi-
+                             nois (Mr. Baker)
+Stainless Steel            Steel Sales                  18-8; Type 304, 302
+Copper (Commercial         Chas. Besley, Chicago
+  Copper)
+Spool copper-clad iron-    Sylvania Electric Com-
+  core wire, Nos. 28         pany
+  (0.012) and 30
+
+
+
+
+                                     164
+                                                                                                                                                                                a                                                     i
+
+
+                                                                                                                                                                                                                     ue
+
+
+
+                                                                                                                                                                                                                                  i
+
+                                                                                                                                                                                                                                      7
+
+
+
+
+                                                                                                                                                                  a                         ~                                                                                   y
+                                                                                                                                                                                        3                                                                             ee
+
+
+
+                                                                                                                                                                holt                                                                                             1
+
+
+
+                                                                                                                                                                       ’                                                      *
+                                                                                                                                                                   .                            t
+
+                                                                                                                                                                      1
+
+
+
+
+           q                                                                                                                                                      »                                 1                                                                      es
+       4                >    toed!                                                                                                                                                                                                                                                  ¢r
+
+
+       ie
+       :
+       Ca’            ree
+                               Lt
+                                    w}
+                                              3                      ole
+                                                                                            )
+                                                                                                                                       hire             a
+                                                                                                                                                                            oe  ‘vor.
+                                                                                                                                                                                 mK
+                                                                                                                                                                                                             ;
+                                                                                                                                                                                                                 ’                        ;
+                                                                                                                                                                                                                                                  ce
+(sue           f a id        bg Hi [ eye:                      Ss          !   .                Nis“_                                                  ihe de               1       ‘                                                 ‘2               }         ey
+                                                                                                                                                                                                                                                                  oy
+| Ee TL                     Oe           le                         ee             heal                           me                          i         ie                  ]                                                                               yA                      fi:
+Nah gSSe                                 ee                                            ae                                                                                                                                                                             ff
+oll
+7
+      ie                                 oe ee                                                                                  Pye               56            + Aree                                  en                        Tie                                |
+ ence,
+ ‘                                                We           #                                                                  ng he es                                 14                                                     bo                   Wi : A
+                                                                                                                                 Abgt  ey,                                            ee                              }                                 me
+ c              ry                            v
+               rs           xp            i               ;                        y                         v1            :          : rf P              vt                                                                                  t                      te
+
+
+
+
+  eos ty fear           15      eee               ;                 ih
+                                                                                                 ;
+                                                                                                         i                     Wa
+                                                                                                                                 renee | |
+                                                                                                                                        At
+                                                                                                                                                       4 ‘
+                                                                                                                                                         oe      ‘be
+                                                                                                                                                                       ae
+                                                                                                                                                                                                                          )                   i            wer
+
+                  } hw
+                  : }
+                                    ee
+                                     Tal                      : v
+                                                                         ee, a ee                                                     pe»; cA pla? RnLt} SAN hr
+                                                                                                                                                              7
+                                                                                                                                                                                                                 als
+                                                                                                                                                                                                                  c                       ’
+                                                                                                                                                                                                                                                  1h hie
+                                                                                                                                                                                                                                                      :                    :
+                            etek                      %             ey                               I                 ah             ‘ bets                    i, iP ur                        ie                    Yon             ia ny
+
+
+
+
+                                                                                                                       ;       yy aun?
+
+
+
+                                                                                                                               Wottix ei y
+Tie)           ad                             f,
+                                             anf       *9°. oye
+                                                             eae                      i. oe
+       ie                                     He            ae                        oa
+       ar) |                        .                            a
+                                             <q                          .
+
+
+  ar                            i
+  5                                                                                       i
+
+
+                                                                             =)
+
+                                                                *                             j
+
+
+                                                        :   4        7
+                                                  yl    i       “ie                   }
+
+                                                                                      :
+
+
+
+                                        ad
+                        7   7            ee                                       “
+                                    as    ADM
+                    y                   i,   *v                                       ‘
+
+
+
+
+                                                                         ark Se (hs a oe
+                                                                                      tw          Fe   ify
+                           INDEX          OF      SUBJECTS
+Air, effects of, in counters, 70                  Dating by radiocarbon
+Alcohol absorption by sample, effect of,            checks on, by materials of known age,
+     on counting efficiency, 69                        10 (Fig. 1)
+Anticoincidence shielding, 66-68                    immutability of decay rate for C'4, 9
+                                                    principles of, 1-11
+Background rates                                _ “Drag-in” voltage, effect of varying, 58
+  cross-averaging of, 70, 71
+  magnitude of, 68                                Error in age, method for calculating, 32
+Biosphere       \
+                                                    evidence for correctness of counting
+                                                       error, 71
+  radiocarbon content of, 14, 15
+  total carbon in, 21, 22, 24
+                                                    limit in principle of, 71
+                                                  Exchange reservoir
+                                                    effect of Ice Age on size of, 31
+Cleaning of counter, 71                             temporal variation of, 31
+Cosmic-ray neutrons
+   average intensity of, 4, 28-30                 Gas counters
+   constancy of, over last several thousand         absolute efficiency of, 39
+      years, 7                                      end loss of, 37, 40
+   cross-section of, for C14 formation, 2           wall loss of, 40
+   effect of variation in intensity of, on
+      C' content, 7                               Half-life of radiocarbon, 34, 42
+   energies of, 2
+   formation of tritium from, 2, 3                Isotopic fractionation, and relative spe-
+  intensity variation of, with altitude, 1             cific activities of organic and inor-
+  intensity variation of, with latitude, 4, 6          ganic carbon, 8
+  interaction of, with atmosphere, 1, 2, 3
+  secondary character of, 1                       Mean life of radiocarbon, 33
+   12-minute half-life of, 1                      Mixing in exchange reservoir
+Counter                                             of atmosphere, 24
+  construction of, 65                               of biosphere, 24
+   effects of air in filling on, 70                 of ocean, 25-28
+   effects of pulse multiplicity on, 64           Mounting of sample, 60
+  effects of reversing leads of, 69
+  effects of varying screen bias voltage          Neutrons
+      on, 58                                        formation of C*4 from, 2
+  efficiency, measurements of, 60                   intensities of, from cosmic rays, 1-6,
+  ethyl alcohol quenching gas, 69                      28-30
+  ethylene quenching gas, 69                        radioactivity of, 1
+  filling of, 64
+  pulse testing of, 64                            Ocean carbonate, 18-21
+  pumping of, 64
+Counter shielding                                 Quenching gases, 69
+  anticoincidence shielding, 66, 67, 68
+  steel shield for, 66, 67, 68                    Radiocarbon
+  theory of, 66, 67                                 amount of, in atmosphere, 7, 8
+Counting efficiency                                 amount of, in biosphere, 7, 8
+  effect of quantity of sample on, 61               amount of, in carbonate in sea, 7, 8
+  for samples, 59, 60                               amount of, in organic matter in sea, 7
+Counting error                                      distribution of, in nature, 4, 5, 6, 12-33
+  agreement of, with scatter of results             effect of variation in cosmic rays on, 7, 8
+      ay several portions of same sample,           formation of, from cosmic-ray neutrons,
+       1                                               2, 3,4
+  standard deviation of, 71                         half-life of, 2
+Counting techniques, 72-75                          rate of formation of, 4
+                                            167
+168                        RADIOCARBON         DATING
+Radiocarbon—Continued                       Sample cylinder
+  relative abundance of, in carbonate and     cleaning of, 71
+     organic matter, 8                        evidence for cleanliness of, 71
+  site of formation of, 2, 4, 5             Sample preparation, details of, 45-53
+  specific activity found for, 6, 7         Sample thickness, effect of, on counter
+  specific activity predicted for, 6, 7          efficiency, 61
+  total amount of, on earth, 4              Samples, acceptable, 44
+  total annual production of, 24, 25        Screen-wall counter, 57
+Rate of mixing of deep ocean water, 25-27   Sedimentary loss of radiocarbon, 24
+Replacement of carbon, 44                   Steel shield, 66-68
+Reservoir exchange, 31
+                                            Thermal. mixing of great oceanic depths,
+Sample                                           26, 27
+  acid extraction after reduction of, 49
+                                            Tritium
+  combustion of, 46
+                                              formation of, from cosmic-ray neu-
+  mounting procedure for, 61-63
+                                                 trons, 3, 4
+  preparation of final carbon for mount-
+                                              total amount on earth of, 4
+     ing of, 51
+  reduction of, 49
+Sample alteration, 44                       Wax, deKhotinsky, preparation of, 65
+                                INDEX       OF NAMES
+Agnew, H. M., 1                                       Carrion, Rebecca, 133
+Aldrich, L. T., 3                                     Casal, M. J. M., 84
+Allain, J., 85                                        Caso, Alfonso, 140
+Allen, Clifford, 123                                  Caton-Thompson, Gertrude, 77, 78
+Allen, E. C., 20                                 _ Chaney, R. W., 136, 138
+Anderson, E. C., v, 4, 7, 12, 28, 30, 42, 45,         Clark, J. Desmond, 136, 137, 138, 139
+  47, 72,141, 158                                     Collier, Donald, v, 15, 76, 112, 133, 134
+Anderson, W., 139                                     Cook, H. J., 108
+Antevs, Ernst, 31, 113, 116, 143, 158                 Coon, Carleton S., 83
+Arellano, A. R. V., 129                               Cooper, Paul L., 124, 127
+Arkell, A. J., 78                                     Cooper, W. S., 121
+Armit, Margaret, 78, 79                               Cornog, R., 3
+Arnold, J. R., v, 42, 45, 72                          Cotter, John, 106
+                                                      Cowan, C. L., 69
+                                                      Craig, H., 8, 17
+Baby, R.S., 94, 100, 104                              Crane, H. R., 54, 72, 74, 75
+Baker, F. C., 98                                      Crathorn, A. R., 73
+Ballentine, R., 5, 34, 35, 36                         Cressman, L. S., 119, 120, 121
+Barbour, E. H., 110                                   Curtis, L. F., 35
+Barendsen, G. W., 54, 73, 74                          Cutler, Hi, .G:, 133
+Barghoorn, E. S., 90
+Barratt, A. Frank, 93                                 Daly, R. A., 31
+Barschall, H. H., 2, 29, 30                           Darlington, H. C., 105
+Battat, M. E., 29                                     Daugherty, Richard, 121
+Baumgartel, Elise, 77, 78                             Davis, E. Mott, 110
+Beardsley, R. K., 115                                 Deason, H. J., 15
+Bernstein, W., 5, 34, 35, 36                          deBono, Fernand, 77
+Bethe, H. A., 29                                      Deevey, Edward S., Jr., 11, 15, 45, 85, 90,
+Bird, J. B., 15, 132, 133, 134, 150                     91, 96, 122, 158, 159
+Blanc, M. Severin, 85                                 DeJarnette, D. L., 106
+Blau, M., 15                                          Deuel, Thorne, 95
+Borbolla, D. F. R. de la, 128, 129                    deVries, Hl., 54, 73, 74
+Boyes, Watson, 77                                     Dick, Herbert, 111
+Braidwood, R. J., 77, 78, 79, 80, 81, 83, 84,         Dickinson, Phil, 114
+   85                                                 Dietschy, Hans, 132
+Braidwood, Mrs. R. J., 83                             Dreimanis, A., 91
+Brailsford, J. W., 87, 88                             Dunand, M. A., 85
+Brannon, H. R., 54, 73, 74                            Dunning, J. R., 35
+Bretz, J Harlen, 95, 98, 99, 100, 122
+Breuil, Abbé H., 85, 140                              Eckelman, W. R., 15
+Bright, W. C., 1                                      Eggan, Fred, 98
+Brown, H. S., 24                                      Eisely, L. C., 122
+Brown, Ralph D., 135                                  Eller, E. R., 96
+Brown, S. C., 34, 35                                  Emery, W. B., 77
+Browne, B. C., 89                                     Emory, Kenneth P., 135, 139
+Bryan, Kirk, 92                                       Engelkemeir, A. G., 5, 34, 35, 36, 39, 41,
+Buch, K., 19, 20, 23                                     59
+Buchsbaum, R., 32                                     Epstein, S., 32, 44
+Buell, M., 122                                        Evans, Glen L., 107, 109
+Bullard, E. C., 26                                    Evans, R. D., 5, 34, 35, 36
+Burnet, R. M. P., 116
+Burnett, E. K., 120                                   Fairbanks, Charles H., 111
+Byers, H. R., 25                                      Feely, H. W., 15, 17
+
+                                                169
+170                            RADIOCARBON          DATING
+Fejos, P., v.                                   Jepsen, G. L., 122
+Fergusson, o J., 54, 73, 74                     Johnson, C. H., 2, 30
+Firbas, F.,                                     Johnson, Frederick, v, vii, 15, 76, 90, 82,
+Femie RiL, 19                                      127, 141
+Flint, R. F., v, se 76, 85, 90, 97, 157, 158,   Johnson, M. W., 19
+   150                                          Johnston, W. H, 4
+Fowler, Melvin L., 98, 155                      Jones, W. M., 5, "35, 36, 42
+Frey, David G., 105                             Jury, W., 91
+Friedman, Irving, 125
+Friedman, L., 5, 34, 35, 36                     Kamen, M. D., 35
+Froman, D., 1                                   Karns, G. M., 47
+Fryxell, R., 15                                 Kelso, James L., 84
+                                                Kirshenbaum, A. D., 4
+Gale, Hoyt S., 117                              Kivett, M. F., 104
+Gale, W. A., 113, 114, 116, 158                 Kolnitz, H. van, 47
+Garrod, Dorothy, 83                             Korff, S. A., 29
+Gassner, F. X., 47                              Kouts, H. J., 30
+Giddings,
+     J. L., Jr., 127, 128, 145                  Kraeling, C. H., 84
+Giffen, A. E. van, 89                            Kraybill, H. L., 11, 45
+Gill, Edmund D., 136                             Krieger, Alex, 108
+Godwin, H., 45, 88                               Kroeber, A. L., 133, 134
+Goldthwait, R. P., 95, 96, 101                   Kubler, G., 133, ee
+Greenberg, D. M., 20                            ‘Kuiper, G. P., 23,2
+Gregg, C. C., 77                                 Kulp,J. L., 15, 17, 9, 131, 132, 141, 150,
+Greisen, K., 37                                     151, 159°
+Griffin, J. B., 90, 108, 141
+Gross, Marsha S., 11, 15, 45                    Ladenburg, R., 1, 12, 28, 30
+Grosse, A. V., v. 4, 35                         Langsdorf, A. S., Jr., 35
+Grunlund, J., 35                                Lansing, Ambrose, 77
+Gulbranson, E. A., 8, 17                        Larsen, Helge, 127
+Gwynne, C. A., 97                               Laughlin, W. F., 127
+                                                Rees D2 Ds 56
+Hamill, W. H., 5, 34, 35, 59                    Leighton, M. M., 105
+Harding, G. Lankester, 84                       Levi, Hilde, 72
+Harrington, M. R., 117, 121                     Lowenstam, H. A., 32
+Hartshorn, J., 92                               Lueninghoener, Gilbert C., 109, 110
+Harvey, Cyril, 125, 126                         Lundsted, James A., 123
+Hawkings, R. ‘om 35
+Haxel, O., 73, 74,                              McCown, Donald E., 81, 82
+Heizer, R. F590, 112) 113, 115) 116, 118;       McCrea, J. M., 32, 44
+   128                                          McDaniel, E. W., 72
+Hess, V. F.,. 1                                 McKinney, C. R., 32
+Hessaby, M., 15                                 MacNeish, R. S., 129, 130
+Hoffman, A. C., 139, 140                        Mangelsdorf, P. C., 111, 112
+Hopkins, B. M., 145                             Mann, W. B., 35
+Horberg, C. L., 91, 95, 98, 100, 122, 123,      Manov, G. G., 35
+  126                                           Martin, Paul S., 112
+Hospers, J., 89                                 Mason, R. J., 140
+Howard, E. B., 116                              Matson, Frederick R., 101, 103
+Howe, Bruce, 83                                 Meade, Grayson, 107
+Hrdlicka, A., 128                               Melkonian, E., 29
+Hubbs, Carl L., 115                             Miller, W. W., 5, 34, 35, 36, 42
+Hughes, E. L., 69                               Mitchell, G. F., 87
+Hunter, Fenley, 121                             Moberg, E. G., 20
+Hunter, R. F., 35                               Morgenstern, K. H., 69
+Hutchinson, G, E., 11, 45                       Movius, H. L., Jr., '85, 86, 135, 136, 137,
+                                                   138, 139, 140
+Inghram, M. G., 5, 34, 35, 59                   Mulloy, a          vey 125
+Iverson, J., 158                                Murphy, B. F.,
+Jacobsen, T., 77                                Nereson, N., 37
+Janmart, J., 135                                Nier, A. O., 3, 5, 8, 17, 34, 35, 36
+Jennings, Jesse D., 119                         Norris, L. D., 35
+                                         INDEX                                         171
+Oakley, K. P., 140                              Simpson, Ruth, 117
+Ohga, Ichiro, 136, 137, 138                     Smiley, T. L., 134
+O'Kelly, M. J., 87                              Smith, Guy D., 96
+Olson, Jerry, 95                                Snell, W. E., 15
+Oswalt, Wendell, 127, 128                       Spaght, M. E., 114
+Overbeck, F., 86                                Spitzer, L., Jr., 25
+                                                Spoehr, Alexander, 137, 138
+Paneth, F., 23                                  Stevens, W. H., 35
+Parker, Richard A., 77                          Stewart, T. Dale, 138
+Peltier, Louis C., 106                          Strong, W. D., 133
+Perry, ©. H.,.15                                Stuart, D.C., 131
+Petrie, W. Flinders, 78                       » Suess, H. E., 15,53, 72, 73, 141, 157, 158
+Phillips, P., 155                               Sullivan, E. F., 114
+Piggott, Stuart, 89                             Sverdrup, H. U., 19, 20, 21, 25, 27
+Placzek, G., 29.
+Potzger, J. E., 96, 122, 159              ;    Taber, Stephen, 105
+Pray, Lloyd C., 117                            Taggart, M. S., 54, 73, 74
+Purbrick, R. L., 35                            Tanner, Lloyd, 109, 110, 125, 126
+   i                                           Tauber, H., 72
+Quimby, G., 94, 95, 106, 113                   Tench, Robert, 97
+    ae                                         Terra, H. de, 128, 129, 130
+Rabinowitch, E., 22                            Thorp, James, 108
+Rafter, T. A., 72                              Thwaites, F. T., 122
+Rainey, Froelich, v, 76, 77, 127               Troels-Smith, J., 86, 87
+Ralph, Elizabeth, 141                          Tryon, L. E., 15, 17, 72
+Read, W. F., 123, 126                          Tudge, Delia G., 132
+Reed, E. C., 108
+ely AEA, 32
+Remington, R. E., 47
+                                               Urey, Harold C., 32, 44, 115, 137
+Revelle, R., 20, 26
+Riley, G. A., 22                               Valera, Eamon de, 87
+Ritchie, W. A., 92, 93                         Vaux, Pére de, 84 x
+Ritzenthaler, Robert E., 126                   Vernadsky, W. J., 2 , 23
+Robbins, William J., 94                            ‘
+Roberts, F. H. H., 90, 104, 113, 126           Waite, H., 108
+Robinson, Rooke, 140                           Webb, W. S., 90, 94, 98, 99, 106
+Rosendahl, (@ 0, 121                           Wedel, Waldo R., 104, 125
+Rossby C..-G., 28                              Weinberg, Saul, 77
+Ruben, S., 35.                                 Weinhouse, S., 4, 35
+Rubey, W. W., 28                               Wheeler, Richard P., 124, 127
+Rubin, M., 158                                 White, G. W., 95
+Ruhe, R. V., 103                               Wilcox, Ronald E., 97
+     ;       :                                 Willey, G. R., 149, 150, 151, 155
+Sayles, E. B., 113                             Williams, Howel, 115, 120, 131
+Schenck, EIGS 135                              Williams, M., 54, 73, 74
+Schlumberger, Daniel, 85                       Williams, Wayne, 97
+Scholtes, W. H., 96, 103                       Wilson, John, 77
+Schroeder, G., 22                              Wilson, L. R., 91, 122, 126
+Schulman, E., 134                              Winters, H. D., 103
+Schultz, C. B., 107, 108, 109, 110, 111,       Wolfgang, R. L.,4
+  116, 125, 126
+Schultz, Mrs. C. B., 116                       Yaffe, L., 35
+Sellards, E. H., 107                           Yuan, L. C. L., 1, 4, 6, 12, 28, 30
+Shook, Edwin M., 130, 131
+Simpson, TEAS, Jr, alt 4, 6,127 13,175,730)     Zumberge,, J... 100
+                                  INDEX             OF SAMPLES
+A. SAMPLE NUMBER:                                                A. SAMPLE NuMBER—Continued:
+                                                 PAGE                                                            PAGE
+
+       1                                             77             204) V8 hs Singtelene                        129
+     1D CAs          We See        piece mes aes 77                 205 SMG Noe AS            cot tae eee        129
+     SOs.    faa aa ak.                              90             2OT 8 oui           soe oe ee                129
+     CHAD Pe dhs hsdette eRe atesSue                 90             PAC eae MEE goer wakes a |                     94
+     Stone ararc ly Okan qe Mee Reh                  90             216       5 Me tk ke                         112
+     SO eS                        ode ake            90             221 baka: Asie: i cee                        117
+     GO wee            ne seca ot aeaston ae         77             D224,     BY ie Saudash ae Lt ee             118
+     OS      eta ee <. cigaree, Coma                106             DAT” Bias a) Ory eee ie                      118
+     De Ce         ERE ET: Se            Re Fh       83             D514 = RS AEN 5 age Sogo                       94
+     15 Soe                 he OEE BEL,             133             254)     4 ee a                                94
+     CE ethan               Seen          ee AL 3 77                260 cai Vie          eee a      ae           127
+   LO Tica ONE eo)                 See | 127                        2O6h.0.,       2 ean Bee se ome              127
+   LODGE OR [an ee her ee                    ee     127             261      TL aASs < diye            oe eee      77
+   103. SREY cobiy ccd, oR yeas be 134                              Og RUS sit Nene eaceaertins, Pen S40         133
+   105,       Sos         eecali     de bee         105             276.2 thet ea             Weeee              118
+   OSes                        Oe ey la ee 107                      Did Baca ba ye Nantr oe ayeCe                118
+   LDDis center MOA ayia cen twee ect’ 2 127                        LIS      wriggle    n  peas One ae           118
+   LDS RS         as. 2 Me                 A      ©  79             281, te Path             en eae              118
+   CLS SES                  8. us 9)Fak we eke 79                   288.     carat      Cth      aEe gee           98
+   L1G Reena                dS AL) oeae              94             DOB      ees       8   by.” coke ae et       118
+   VAMC CRG aT a                is ae eee a          90             DOG TNE BR)           ar ao iecag            127
+   PAU. Se           SE          ae        os ea 90                 BOL Mere ede 5) oa                  eee      128
+   WDA ee            Sk SR             ee a2         90.            SO2K fs fy 5-3) oat Soe ee ee                122
+   DDL al|:Set hore te Agee OR ee ee                 90             B08 aoe lis vies aot ioe cares               122
+   12GF    Ree          ei     Teg.                  94             STS E bac cs Sice 5 ag Cee                   132
+   TSG      er      ee          et     Matin es      94              SA        tyne tari’ alae cag cece          132
+   Ueto)              ote aed ee ee ee               94             STON ern ties tear:                          132
+   139: et          ROR RI Co og               kh    95              SUS) Pee Al lard pt - eee                   132
+   14S SRN                   a, OP Waal.      beak 106              Sod eae ceded Lae ee, OR                     132
+   ASOD Reem ee                  is So ae           106             S2oa cr come A           ee oo               133
+   AST. Soe                  et AY «ssaaceeghh Gem! 106             O23) bo ules vas os          ie ace      e   133
+   152.    geben           es)     oe       ee a 95                 SOLU ens Det anaes kane Ahoy Coe             122
+   153%    Aken:          ©   XO Fy:5 baanee ow 108                 SOE Pe ee hee cues Ee ee ee                  121
+   USA      wae BS: Bae aan. Ate bo                 106             CRE      eeni aaa           OTe ar hot         91
+   159 eee eras eis br. Exaate Sages 134                            S36       ase 2 eeee ee                      105
+   16S         eee               Bee. AS tae 111                    OST         Oe         ae       ee             86
+   DO564:      ake       ets, eae eae 111                           SAO: nn Uc aanoh hak ee aa                     88
+   U7) Ce           eet ol4 ae            eed       111             SE          igh      aly cine ee eee           88
+   i       ese We Oe ce eerie a. ef 111                             GAS ba Se              Ge dans Shee            88
+   L120 Opens.               sapere cL aes 111                      S47 MRP            Le     nee      ee          87
+   17:Se ene                 Ssh. oein Gre talons 111               B49 Tc mbk v Sabie (eeye csab4 RT              88
+   USOC        emma          8   Ss eee              94             SoS         ee aor, karo een                   88
+   ee.             So es ose B 79                                   355. ¢ oh a a pe gee                 ee        87
+   TSG MeW REMY <a. ch vy oh itm ane 112                            SOO" -A ot won a a. tenga                      87
+   LOLS           aeee) senware 92                                   O68       A ed buat’ et ieee                   87
+   ODT                ater hs dant easaeas 92                       S02 Ghee kt             zr ckes Pa           133

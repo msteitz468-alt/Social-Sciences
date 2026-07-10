@@ -1,0 +1,2220 @@
+Chapter 7
+
+Environmental Formation Processes: The Artifact
+
+
+
+
+
+Introduction
+
+
+
+
+
+From the artifact's standpoint the environment is filled with hostile forces. Chemical, biological, and physical agents singly and in combination reduce artifacts to simpler and more stable forms. Although the archaeologist is intimately familiar with the products of the interaction of artifacts and the environment, often the processes are not well understood. This chapter sets forth the basic principles of deterioration and identifies topics for further research.
+
+
+
+
+
+The terms deterioration, decay, alteration, and modification are used interchangeably here and refer to the effects of environmental processes on artifacts. These effects involve a change in any physical or chemical property, including color, surface texture, weight, shape, chemical composition, and even hardness or tensile strength. Weathering designates the set of processes and their effects that are experienced primarily by items or portions of items that are unburied; this somewhat narrow concept of weathering is useful because it calls attention to the preburial deterioration of excavated artifacts, especially in systemic context.
+
+
+
+
+
+Artifact deterioration is a topic of research in many disciplines, such as engineering. Some industries, such as wood products and pest control, also investigate the prevention and amelioration of deterioration. Yet, despite widespread interest, no unified science of material deterioration in systemic context has emerged.
+
+
+
+
+
+Although some studies in engineering-oriented fields are based on observations of specimens that deteriorate under natural conditions, much of the work is experimental, such as accelerated weathering tests (see Greathouse et al. 1954:164). For example, susceptibility of different
+
+
+
+
+
+Page 144
+
+
+
+
+
+wood species to fungal attack is tested in the laboratory by inoculating small blocks of wood with pure cultures of the most destructive fungi (see, e.g., Da Costa 1975). Although laboratory experiments help to elucidate the specific mechanisms involved, the study of deterioration also must rely heavily on actual instances of decay produced under natural conditions.
+
+
+
+
+
+Architectural preservationists and museum conservators have generated extensive literatures on the actual deterioration of materials in both systemic and archaeological contexts. The most recent book-length syntheses are Plenderleith and Werner (1971), Dowman (1970), and Timmons (1976). These sources are extremely helpful to the archaeologist because they deal in part with the analysis of archaeological finds in various states of deterioration.
+
+
+
+
+
+Archaeologists, too, have contributed substantially to the understanding of decay processes. Not only do archaeologists furnish objects for conservators to study and stabilize, but they also unearth examples of preservationboth good and badthat influence the formulation of decay principles in many disciplines. Indeed, one commonly finds that nonarchaeologists writing about deterioration pepper their books and papers with interesting archaeological cases (e.g., Findlay 1975:102).
+
+
+
+
+
+Archaeologists have also erected experimental structures and earthworks to gain more insight into modes and rates of deterioration of particular items and configurations (for examples, see Coles 1979). Experiments such as Overton Down in England (Jewell and Dimbleby 1966) permit one to monitor actual rates of decay in specified natural conditions that more or less mimic realistic situations of deterioration. Additional archaeological contributions can come from the use of excavated sites of known age and deposition conditions to calibrate decay rates (see Schiffer and Rathje 1973). The potential of historic sites in this regard is vast but, as yet, little tapped. Recently, however, Tylecote (1983) used archaeologically recovered lead artifacts to advise nuclear engineers about long-term corrosion rates of lead in various depositional environments.
+
+
+
+
+
+Nature of the Environment
+
+
+
+
+
+Throughout their existence, artifacts affect and are affected by their immediate surroundings: their environment. In systemic context, an artifact's environment may be the atmosphere within a structure, the heat of an open fire, or even damp earth. Of course, not all interactions in systemic context are of interest in the present discussion. Those conditions involving direct human action fall outside the province of environmental formation processes, and are not treated here. For example, damage to the rim of a ceramic vessel caused by a careless act is considered
+
+
+
+
+
+Page 145
+
+
+
+
+
+Fig. 7.1.
+
+Atmospheric pollutants have formed industrial patina on the stone of this
+
+building, London.
+
+
+
+
+
+use-wear as is the passive accumulation of soot from a hearth on an exposed, interior roof beam. In some cases, however, human action is indirectly responsible for deterioration, and such instances are usefully regarded as environmental formation processes. The inclusion of some culturally induced conditions as part of an artifact's environment is far from elegant, but it is essential for a thorough understanding of the archaeological and historical records.
+
+
+
+
+
+The pervasive influence of human behavior on the environment of artifacts is nowhere better illustrated than in the industrial city. Artificial materials such as brick, concrete, and asphalt provide urban surfaces that support little natural flora and fauna, and so insect attack on wood is generally reduced in comparison to rural areas (Atkinson 1970:2). The urban atmosphere is composed of combustion products, such as sulfur dioxide, which accelerate the corrosion of many metals (Atkinson 1970:2; Plenderleith and Werner 1971:12-13) and lead to ''industrial patina" on stone (Fig. 71). The topography of a city and the placement of artificial drainages influence the probabilities that any given spot will be eroded or will receive deposits of water- or wind-borne sediments.
+
+
+
+
+
+To a certain extent, in any settled community, artificial surfaces and
+
+
+
+
+
+Page 146
+
+
+
+
+
+pollutants modify the environment which, in turn, affects artifacts. Moreover, the built environment itself provides unique conditions that influence the evolution of biological decay agents. Indeed, some biological agents of decay are inadvertent domesticates (Wieser 1982). For example, a common wood-rot fungus, Merculius lacrymans, "has never been recorded as occurring in nature and appears to be associated only with man-made structures" (B. Richardson 1978:12). The granary weevil has "lost the ability to fly and [relies] on man for its distribution" (Wieser 1982:42).
+
+
+
+
+
+When artifacts leave systemic context, they are at the mercy of an even greater number of (usually noncultural) processes, ranging from infestation of wood by insects to the corrosion of iron by moisture and oxygen. Here, too, one cannot ignore culturally produced environments because the depositional environment of most artifacts contains other artifacts or residues. For example, some middens have a high concentration of wood ash, which tends to create alkaline conditions, thus affecting soil organisms and rates of corrosion. Decay of organic matter usually creates a more acidic environment (Krauskopf 1979:45). Clearly, a complete understanding of the transformations taking place in archaeological context involves reference to both natural processes and cultural materials, for both are part of the environment of artifacts.
+
+
+
+
+
+Environment versus Artifact Perspectives
+
+
+
+
+
+Two extreme perspectives dominate discussions of "preservation" and hinder understanding of deterioration processes. One view is that the natural environment itself is largely responsible for the fate of artifacts. This perspective, typified by statements such as "in the tropics artifact preservation is poor whereas in deserts it is good," ignores not only artifact characteristics, but also microenvironmental variation of cultural and natural origins. It must be stressed that the mode and rate of interaction between an artifact and its environment are determined by artifact composition and by the nature of the immediate environment. Within a settlement or site, one finds microenvironments with decay potentials vastly different from each other and from noncultural areas. For example, ordinarily the Arctic is too cold to sustain the growth of fungi. Nevertheless, fungal sporescarried hundreds of miles by the windwill flourish in warmer, culturally created habitats, attacking wood and other organic matter. Although gross environmental parameters furnish a set of useful expectations about general patterns of preservation, they do not adequately account for the vast variability in preservation that archaeologists routinely discovereven in the same environmental zone or site.
+
+
+
+
+
+Page 147
+
+
+
+
+
+The other extreme view places the burden of artifact preservation on the artifact itself. The literature is filled with statements to the effect that "perishable" artifacts were or were not found, or that only "nonperishables" survived. It must be stressed that the properties of artifacts alone do not determine the way in which they will interact with the environment. The most "perishable" artifacts, such as paper or textiles, can survive millennia under the right conditions. Similiarly, "nonperishables," such as iron and steel tools, deteriorate in a matter of decades if deposited in certain microenvironments. It is desirable to do away entirely with labels such as ''perishable'' and "nonperishable" in order to focus inquiry on the properties of artifacts and on the characteristics of the depositional environment that together govern the manner and rates of artifact deterioration.
+
+
+
+
+
+The present perspective has implications for traditional discussions of "freaks" of preservation. A freak of preservation is the survival of a normally "perishable" object in a normally "adverse environment." The concept of "freak," which is used to account for the many anomalies created by artifact- and environment-centered treatments of deterioration, has outlived its usefulness. Every instance of survival or its lack is explainable by the same set of general principles that govern all artifact-environment interactions (Schiffer and Rathje 1973). A few examples help to underscore this point.
+
+
+
+
+
+A common class of freaks is composed of unburned organic artifacts that survive in sites with generally unfavorable conditions of preservation. These survivals may be explained in many ways. For example, if the agents of decay are bacteria and fungi, deep and rapid burial of an object may effectively remove it from the near-surface zones where these agents are most active. Historic wells and privies that were filled rapidly with trash sometimes provide such islands of good preservation. Generally, in any environment, large wooden artifacts decay more slowly than small ones. Thus, at the time of excavation, some of the largest wooden items may still have some integrity. The chemical environment, too, may inhibit the growth of decay organisms. For example, "pickled" people have been found in ancient salt mines. In short, in no case of a preservation "freak" do we lack suitable explanatory hypotheses, based on general principles, that make reference to specific conditions of the depositional environment. There are no freaks of preservation, only incomplete explanations of preserved items.
+
+
+
+
+
+Agents of Deterioration
+
+
+
+
+
+The environmental agents of deterioration are traditionally grouped by their mode of action on materials: chemical, physical, or biological (Dowman 1970:5; Rathje and Schiffer 1982:130). The following discussion is in
+
+
+
+
+
+Page 148
+
+
+
+
+
+no way exhaustive; its purpose is merely to specify the most important agents of deterioration and their general effects. More extensive introductions to the basic agents are found elsewhere (chemical and physical, Greathouse et al. 1954; biological, St. George et al. 1954).
+
+
+
+
+
+Chemical Agents
+
+
+
+
+
+Chemical agents are pervasive in both systemic and archaeological contexts. The atmosphere contains water and oxygen, which are sufficient to initiate many chemical reactions, including oxidation of organic materials and the corrosion of some metals. Temperatures affect the rates of chemical reactions, especially those involving water; a good rule of thumb is that reaction rates double for every 10° C rise (Wessel and Thom 1954:61). In accord with this principle, rates of chemical deterioration generally increase as temperature goes up.
+
+
+
+
+
+The irradiation of materials by sunlight induces photochemical reactions. Ultraviolet light in particular breaks chemical bonds in polymerized compounds, such as cellulose, that make up organic substances. Sunlight also heats objects, causing more rapid reaction rates (Wessel and Thom 1954:61).
+
+
+
+
+
+Atmospheric pollutants react chemically with materials, from metals to paper, leading to corrosion and other chemical modifications. Rainwater contains dissolved carbon dioxide and sometimes the oxides of nitrogen and sulfur. These gaseous oxides react with water to form acids, which corrode metals and contribute to breakdown processes in other materials. Acid rain, of course, is one of the most extreme and visible results of this process in our own society. Near the sea the atmosphere contains dissolved salts that hasten deterioration of many materials.
+
+
+
+
+
+The environment of buried objects frequently favors rapid chemical changes. The soil is often damp, thus facilitating chemical reactions. In addition, the soil contains reactive compounds, such as acids and bases, that participate in many deterioration processes (Greathouse et al. 1954:109-110). Acidic soils, for example, dissolve bone; whereas highly basic soils degrade pollen. Many archaeological deposits also contain a high concentration of salts, which can be contributed by wood ash, urine, and by the neutralization of acids and bases. Soils with a heavy salt content retard some biological agents of decay, but they lead, eventually, to severe corrosion of metals such as iron, silver, and copper as well as to deterioration of stone and ceramics.
+
+
+
+
+
+Physical Agents
+
+
+
+
+
+Physical agents of deterioration are ubiquitous in most environments. Indeed, the processes that affect sites and deposits (Chapter 8) usually also modify the formal properties of artifacts. Thus, volcanos, hurricanes,
+
+
+
+
+
+Page 149
+
+
+
+
+
+earthquakes, landslides, and other natural disasters alter artifacts, especially structures, both in systemic and archaeological context.
+
+
+
+
+
+Waterespecially moving wateris also a potent physical agent of deterioration. In streams and at the seashore artifacts are tumbled and abraded, and natural rocks and shells are fractured in ways that sometimes resemble cultural modification. Drainage of rainwater in settlements and sites leads to erosion of walls and streets; in poorly drained areas, of course, moisture promotes all manner of other decay processes. Water also causes physical changes in porous and hygroscopic materials. For example, alternate wetting and drying of wood causes cracking along the grain. Freezing water is a powerful physical agent; it can elongate cracks in rocks and concrete, erode the surface of porous rock and brick, and bring about a wide range of more subtle effects on diverse materials in archaeological and systemic context.
+
+
+
+
+
+Wind, too, modifies artifacts, especially when transporting particles. In deserts, for example, wind-borne particles contribute to normal weathering processes of natural and cultural materials. On the surface of archaeological sites, artifacts are sometimes found that appear to have been "sandblasted" (see Figs. 10.3 and 10.4b).
+
+
+
+
+
+Sunlight is also an agent of physical deterioration because it causes short-term cycles of thermal expansion and contraction in surface artifacts. Over long time periods the effects of thermal cycling can be appreciable, as in the cracking of exposed concrete slabs and long walls.
+
+
+
+
+
+Biological Agents
+
+
+
+
+
+Living organisms are the principal agents of biological decay and also have effects on other artifacts. Bacteria are ubiquitous, and as a group can tolerate more extreme conditions than any other kind of organism. Bacteria are usually the first to colonize dead organic matter and initiate the processes of decay; they are also responsible for certain corrosion processes, especially in the sea.
+
+
+
+
+
+Fungi are the main consumers of dead plant materials in both systemic and archaeological contexts; most damage referred to as "rot" is caused by fungal attack. Fungi are nearly as widespread in nature as bacteria, but they are considerably more destructive to wood and other plant remains. Fungi require a fairly high level of moisture and temperatures above freezing.
+
+
+
+
+
+Animal consumers of dead organic matter include beetles, ants, flies, and termites. When inhabiting occupied structures in our own society, these creatures are termed "pests" and are dealt with using chemical poisons. On materials in archaeological context, however, these animals ply their trade undisturbed. Beetles, especially, inhabit middens and infest dead wood. Insects such as flies lay eggs in organic matter like fruit
+
+
+
+
+
+Page 150
+
+
+
+
+
+and meat; after hatching, the larvae feed, producing in the affected materials a putrid and generally unpleasant state.
+
+
+
+
+
+Plant roots have well known disturbance effects on structures and sites (Chapter 8), but they also damage artifacts chemically. Roots, for example, secrete humic acids that etch susceptible artifacts, such as bone, with which they are in contact.
+
+
+
+
+
+In addition to their disturbance effects (Chapter 8), burrowing animals like gophers modify the remains of earthern structures. Animals that frequently scavenge, such as dogs and hyenas, process culturally deposited bone left on the surface of sites. To properly maintain their ever-growing incisors, many rodents gnaw hard substances; artifacts, such as bone, are suitable.
+
+
+
+
+
+The tripartite division into chemical, physical, and biological agents is convenient but highly artificial. Many agents, such as sunlight, have more than one kind of effect. And, although biological agents have distinctive effects, those effects are produced chemically and physically (Dowman 1970:5). Nevertheless, the divisions are helpful in isolating the most important agents of deterioration and in calling attention to their causes and major effects.
+
+
+
+
+
+Rates and Cycles of Deterioration
+
+
+
+
+
+Although it is tempting to view decay processes in a binary fashioneither present or absent, a more useful conception is to regard any specific process as occurring at a particular rate under given environmental conditions. When these conditions are altered, the rate of the process also changes. Similarly, as conditions change, they will favor the operation of some processes and preclude others entirely (i.e., rate of zero). The act of archaeological excavation itself illustrates this perspective. In the ground, a particular set of conditionse.g., moisture content, degree of aeration, temperaturehas determined the rate at which any specific process proceeds; excavation modifies those conditions, thus changing the rate. For example, when an obsidian artifact is removed from its depositional matrix, it is exposed to a newusually warmertemperature regime, and so the hydration rate increases (Michels and Tsong 1980). In the ground, conditionsand thus rates of various processeschange through time. Prior deterioration itself modifies the depositional environment (e.g., the dissolving of bone in acidic soils), and some processes, such as carnivore processing of bone, are eventually self-limiting.
+
+
+
+
+
+Because the rates of a number of processes decrease markedly, sometimes to zero, a number of investigators have argued that artifacts reach an equilibrium or steady state with the environment, and are not undergoing changes at the time of recovery (Dowman 1970:4). This is not an accurate or useful portrayal. Even in the most ancient sites, geochem-
+
+
+
+
+
+Page 151
+
+
+
+
+
+ical changes are taking place on lithic artifacts, not unlike the processes affecting unmodified stone in the natural environment (Krauskopf 1979). That these processes proceed at a snail's pace is granted; however, it is important to recognize that all sites are open systems in which many processes are operating.
+
+
+
+
+
+It is a commonplace in the literature of deterioration that alternating conditions can be more destructive than a constant environment (e.g., Greathouse et al. 1954:74-75). For example, organic remains subjected to an alternating wet and dry environment deteriorate more rapidly than those kept constantly wet or constantly dry. The reasons for these patterns of decay are better understood if one applies the perspective developed above, that of varying decay rates under different conditions. Organic materials are not attacked by fungi in underwater, anaerobic environments; nor are fungi active in the absence of moisture. Between the extremes of total immersion and total aridity lies a range of conditions where fungal attack proceeds, and only during those intervals is fungal deterioration occurring at a measurable rate. Thus, alternating conditions, per se, do not cause more rapid deterioration unless they produce intervals of time when favorable conditions are established for a process to occur at a reasonable rate.
+
+
+
+
+
+In a very few processes, the cycles themselves are necessary conditions for bringing about artifact deterioration. Freeze-thaw cycleswhere artifact deterioration is caused by the mechanical stresses of freezing water in cracked, porous, or hygroscopic artifactsare the most conspicuous example of this genuinely cyclical process. Some genuine cyclical processes involve changes of statefrom a liquid to solid, from solute to precipitatewhere the transition induces mechanical stresses. Others, such as diurnal thermal cycling, may directly create damaging changes in stress.
+
+
+
+
+
+It is important to know the exact nature of the process in order to devise the most appropriate methods for study. Processes that are pseudocyclical cannot be simulated in the laboratory by speeding up the cycling, whereas true cyclical processes are profitably investigated in an accelerated mode.
+
+
+
+
+
+All deterioration processes proceed at varying rates, depending on the environmental conditions present at a given spot. Those conditions undergo short-term cycles as well as long-term trends. Appreciation for how such variations lead to varying rates of deterioration will result in a better understanding of artifact morphology and may lead to development of new dating techniques.
+
+
+
+
+
+Stone
+
+
+
+
+
+Although we tend to regard stone as the quintessentially durable raw material, many deterioration processes affect this large and diverse class of substances (Fig. 7.2). Moreover, various minerals and rocks differ
+
+
+
+
+
+Page 152
+
+
+
+
+
+Fig. 7.2.
+
+Even the massive stones of Stonehenge exhibit considerable deterioration.
+
+
+
+
+
+greatly in chemical composition, isotropy, porosity, grain size, thermal conductivity, and other properties that influence their susceptibility to specific agents of decay. Although one cannot generalize to all stone artifacts as a group, a number of common processes affect many types of stone in many environments. It is these common processes and the agents responsible for them that constitute the bulk of the following discussion. For a general introduction to the properties and decay processes of stone, see Winkler (1975).
+
+
+
+
+
+Patina is a generic term used to describe the chemically altered surface of stone (and other artifact materials). Patinas, which usually differ in chemical composition, color, surface texture, and light reflectance from pristine surfaces, are produced by many deterioration processes, some of which can be simulated in the laboratory (Rottländer 1975).
+
+
+
+
+
+Although generally slow-acting, some decay processes of stone yield
+
+
+
+
+
+Page 153
+
+
+
+
+
+macroscopic modifications over periods as short as one year (Hudec 1978a). Indeed, archaeologists readily attribute a recent (postexcavation) origin to flake scars on chipped-stone artifacts that are unpatinated relative to the remaining surface. And, of course, cortical flakes are those having an ancient surface that is very different from most prehistoric flake scars.
+
+
+
+
+
+Chemical, physical, and biological agents all affect stone, with chemical weathering being the most widespread set of processes. A general treatment of chemical weathering, which makes reference to decay processes of some specific rock and mineral types, is furnished by Krauskopf (1979). Water is an essential ingredient in chemical decay processes, serving as a medium for chemical reactions (Krauskopf 1979:85). Various gases from the atmosphere dissolve in water, forming dilute acids: carbonic acid (H2CO3) is created by carbon dioxide and water; nitrous and nitric acids (HNO2 and HNO3) are formed by dissolved nitrous and nitric oxides; and, especially in urban-industrial environments, sulfurous and sulfuric acids (H2SO3 and H2SO4) are produced by dissolved sulfur dioxide (SO2). As a result of these common chemical reactions, most water in nature is slightly acidic, with a pH around 5.7 (Krauskopf 1979:85). Organic decay also contributes CO2 and simple organic acids that reduce the pH even lower, sometimes below 4.0 (Krauskopf 1979:85). Water can also contain dissolved oxygen as well as ions contributed by previous decay processes.
+
+
+
+
+
+The chemical composition of rock and the makeup of the aqueous solutions that bathe it determine the nature and rates of chemical decay. The principal outcome of the fundamental reactions (ionic dissociation, hydrolysis, and oxidationKrauskopf 1979:80) is that ions, usually metal cations such as sodium, calcium, and magnesium, are removed from the rock's surface. Because different ions react at different rates (Krauskopf 1979:83), the elemental composition of a rock's surface could potentially be used as a dating tool (Clark and Purdy 1979; Bard et al. 1978; Purdy and Clark n.d.). Porous rocks contain an enormous internal surface, and so experience overall greater rates of chemical weathering.
+
+
+
+
+
+One of the most active areas of research in stone deterioration concerns the chemical effects of the urban-industrial atmosphere on masonry (Winkler 1978a). These attacks are caused by acids, especially those produced by reactions of sulfur dioxide and water (Plenderleith and Werner 1971:303; Greathouse et al. 1954:105-106). Calcareous stone, such as limestone, marble, and sandstone with a calcareous cement, is apt to deteriorate before industrial patina forms. Carbonic acid, normally present in rainwater, has this effect in all environments.
+
+
+
+
+
+In archaeological sites, the processes of chemical decay are more complex and remain very poorly understood. Nevertheless, chemical decay can proceed rapidly, even in a relatively short time frame, as is shown by
+
+
+
+
+
+Page 154
+
+
+
+
+
+the badly deteriorated surface of the once-buried Olmec heads of basalt (Winkler 1978b). Various cultural constituents of the depositional environment contribute ions to the moisture bath that may surround stone artifacts, and thus affect the nature and rates of deterioration reactions. For example, deterioration is expected to proceed briskly in middens where much organic residue is also decaying. On the other hand, different reactions can be promoted in moist depositional environments containing ash. Remains from archaeological sites as well as controlled experiments will probably provide evidence for achieving better understanding of these complex interactive processes. Possible similarities between chemical processes of weathering and polish formation on utilized tools should be investigated (Kamminga 1979:149-151). For a discussion of chemical deterioration of stone in marine environments, see Weier (1974).
+
+
+
+
+
+One of the most fascinating processes of deterioration is hydration, particularly of obsidian. By processes of diffusion, water from the depositional environment slowly infiltrates obsidian. The thickness of the hydration rind produced on a freshly fractured surface depends on (1) time elapsed since formation of the surface, (2) temperature of the depositional environment, and (3) chemical composition of the obsidian (Michels and Tsong 1980). Recent breakthroughs, which permit the experimental determination of hydration rates for specific obsidian sources, have increased the accuracy and applicability of obsidian hydration dating as a chronometric technique.
+
+
+
+
+
+Physical agents also wreak havoc on stone artifacts. Freeze-thaw cycles are a widespread and destructive process that especially afflicts cracked and porous rocks. Moisture from the atmosphere or ground infiltrates the pores and expands upon freezing, thereby creating tensile stresses that enlarge cracks and rupture the surface of the stone (Torraca 1976:148). Freeze-thaw cycles contribute éboulis to rockshelter deposits, the spalledoff fragments of roof. Most rocks, even granite and basalt, are susceptible to freeze-thaw cycles. This process is prevalent in temperate zones, where there is sufficient moisture and diurnal temperature variation.
+
+
+
+
+
+Thermal shock, created by expansion and contraction of stone under the influence of sunlight, can produce cracks in large blocks, which also makes them vulnerable to freeze-thaw cycles and other processes (Torraca 1976:148). Thermal shock occurs because the outside surface is heated and thus expands first, creating tensile stresses. There is also evidence that moisture plays a role in the flaking and bursting of thermally shocked stone (Winkler 1975:111). In addition, thermal cycling causes an increase in porosity of limestone and perhaps other rocks, which hastens additional deterioration processes (Amoroso and Fassina 1983:12).
+
+
+
+
+
+The effects of weathering processes on stone are readily observed in historic structures and features. For example, old gravestones that had
+
+
+
+
+
+Page 155
+
+
+
+
+
+smooth, polished surfaces originally, can today show great weathering effects. Indeed, grave markers have been used for more than a century to quantify rates of weathering processes for different stone types in particular environments (Winkler 1978a).
+
+
+
+
+
+Since the recognition of early flint artifacts in river gravels, archaeologists have appreciated that moving water has dramatic effects on stone (and artifacts of all other materials). In high-energy environments, such as streams and the seashore, natural rocks impact artifacts, removing flakes and causing battering on the more prominent surfaces (e.g., ridges). In any moving water, smaller particles abrade stone artifacts, leading to striations and, finally, to a considerable degree of rounding on edges and ridges (Wymer 1976; Shackley 1974; Keeley 1980). Also, as Borden (1971) has shown, sandblasting in deserts alters the exposed surface of lithic artifacts in predictable ways, smoothing ridges and rounding edges (Fig. 10.3).
+
+
+
+
+
+Even in the ground, stone is not immune to mechanical processes. Keeley (1980:31) identifies a poorly known phenomenon, "soil movement effects." He suggests that various particles and other artifacts in a deposit, when moved by disturbance processes, can produce striations on chipped-stone tools. The conditions leading to soil movement effects would presumably include those processes, such as cryoturbation (see Chapter 8), that cause moderate pressure and contact between artifacts in the ground. Cryoturbation can lead to considerable edge rounding, even of flint artifacts (Laville et al. 1980).
+
+
+
+
+
+A number of other agents are best considered as chemical-physical, for their effects are not readily categorized. A sometimes serious problem, known as "rising damp" (Torraca 1976:148), affects all masonry made of very porous materials, such as sandstone. Rising damp is caused by capillary action; groundwater or water in contact with the bottom of a masonry wall rises. This effect, which can be pronounced (8-10 m rises have been reportedTorraca 1976:146), contributes to two other forms of deterioration: freeze-thaw cycles and salt erosion (sometimes called salt crystallization). Rising damp obviously furnishes moisture that, in an environment where hard freezes occur regularly, leads to considerable deterioration of porous stone. Figure 7.3 shows a sandstone-block building in Durango, Colorado, that has been damaged by freeze-thaw action. Deterioration is most visible in three areas of the building: (1) near the sidewalk at the base, (2) just below the roof at the top, and (3) on the long slabs immediately under the windows.
+
+
+
+
+
+Salt erosion progressively destroys exterior surfaces, producing damage resembling that of freeze-thaw cycling (J. Hayden 1945; Torraca 1976; Winkler 1975). For salt erosion to occur, there must be a source of saline water and a surface subject to periodic evaporation (West 1970:115). Salts
+
+
+
+
+
+Page 156
+
+
+
+
+
+Fig. 7.3.
+
+Sandstone-block building in Durango, Colorado,
+
+displays extensive freeze-thaw damage.
+
+
+
+
+
+may be contained in the stone or in groundwater, be deposited by sea spray, or be provided by ash in adjacent deposits. Evaporation occurs on the wall's surface near the top of the waterline, in the gradient between wet and dry (Lewin 1976:171). The result is the precipitation of the salts, which expand, thereby creating strong stresses that cause exfoliation in the affected areas (Fig. 74).
+
+
+
+
+
+The precise mechanisms by which freeze-thaw cycles and salt erosion damage rock are areas of active research (Hudec 1978a). In both processes, hydraulic or hydrostatic pressures exerted by adsorbed water near the sites of crystallization (of water or salts) contribute appreciably to deterioration (Hudec 1978a, b; Amoroso and Fassina 1983). Moreover, wet-dry cycles in the absence of freezing cause deterioration of porous stone, probably as a result of stresses produced by adsorbed water or changes in volume (Winkler 1975:111). It appears that susceptibility to these processes is influenced not only by porosity but also by internal surface area (Harvey et al. 1978).
+
+
+
+
+
+Most building stone in urban-industrial environments takes on an unsightly black coating (Fig. 7.1) termed "industrial patina." This coating is produced by condensation, which lays down on the cold stone "all suspended dirt or gaseous pollutants" (Torraca 1976:147). The chemical composition of this deposit should vary with the available pollutants;
+
+
+
+
+
+Page 157
+
+
+
+
+
+Fig. 7.4.
+
+Salt erosion, promoted by sea spray, has caused severe deterioration
+
+in the limestone blocks of this medieval castle at Paphos, Cyprus.
+
+
+
+
+
+carbon black and iron oxides are among the substances that have been identified (Torraca 1976:147). For a technical discussion of pollutants, see Amoroso and Fassina (1983). Although industrial patina was not seemingly prevalent in preindustrial cities, exposed monuments from those times are now being coated.
+
+
+
+
+
+Biological agents modify stone artifacts, especially their color. Bacteria, molds, fungi, algae, lichens, and mosses are among the organisms that colonize the surface of stone (Torraca 1976:149). It is generally believed that such infestations cause little damage, except in those instances where the organisms generate acids, such as bacteria dependent on the sulfur cycle (Torraca 1976:149). Nonetheless, some studies are showing that biological agents play an important role in the deterioration of stone in archaeological and systemic contexts (e.g., Winkler 1978a; Weier 1974). (Recently, Wilson [1983] used lichen diameters for relative dating of stone circle sites in the northern Plains.)
+
+
+
+
+
+As archaeology's most ubiquitous material, stone will always furnish a fertile ground for new research on deterioration processes. There is, after
+
+
+
+
+
+Page 158
+
+
+
+
+
+all, the ever-present hope that a deterioration-based technique of chronometric dating, comparable to obsidian hydration, will be found for flint and chert.
+
+
+
+
+
+Ceramic Artifacts
+
+
+
+
+
+The heating of shaped clay into ceramic artifactsthe creation of artificial stoneis an old and versatile technology that even today is undergoing rapid development. From the heat-shield tiles of the space shuttle to our favorite coffee mug, ceramic artifacts carry out diverse and important functions in industrial societies. In many preindustrial societies, fired clay objects were used for a variety of purposes, including storage and cooking containers, roof tiles, as well as ornamental and sacred objects. Given the broad range of studies archaeologists carry out on ceramic items, it is surprising that so little is known about how they deteriorate. Indeed, it is tempting to view pottery, at least chemically, as ''an inert substance'' (Dowman 1970:5). Nevertheless, many agents of decay operate on ceramic artifacts.
+
+
+
+
+
+In the present discussion, high-fired ceramics (e.g., porcelain, stoneware)which behave in most instances like stone of low porosityand true glazeswhich react with their environments like glass (Plenderleith and Werner 1971:338)are not treated; the reader is referred to those sections on stone and glass for the requisite information. What remains is all porous ceramic artifacts, including most bricks.
+
+
+
+
+
+Because chemical analyses of potsherds, such as X-ray fluorescence and neutron activation, recently have become very important, attention must be focused on agents of chemical deterioration that can effect the results of these studies (Franklin and Vitali 1985). Owing to its porosity, chemical changes in most preindustrial pottery should proceed at a relatively brisk pace:
+
+
+
+
+
+In addition to its external surface, a porous solid has a large internal surface.... Because a surface collects intruding atoms, some of which are in an excited state and react chemically with other intruders or with the solid material of the surface, a porous material is far more reactive than a compact one (Torraca 1976:144).
+
+
+
+
+
+As porous solids, ceramic artifacts are affected by the many chemical agents active in most depositional environments. For example, leaching of reactive ions, such as sodium, potassium, magnesium, and calcium, occurs not only in acidic conditions (Bishop et al. 1982:295-296), but also as a result of wet-dry cycles with de-ionized water (Murphy 1981). Carbonates in pottery, such as limestone or shell temper, are especially vulnerable to acid attack (Dowman 1970:22). In addition, ions from the
+
+
+
+
+
+Document
+
+
+
+
+
+Page 159
+
+
+
+
+
+Fig. 7.5.
+
+Salt erosion of ceramic brick in wall, San Diego, California.
+
+
+
+
+
+surrounding environment, especially those provided by salts in solution, will be brought into the clay body where they may be adsorbed or absorbed, react, or be deposited as crystals (Franklin and Vitali 1985; Torraca 1976:144; Rye 1981:120; Plenderleith and Werner 1971:335). The occurrence of salt erosion in bricks (Fig. 7.5) and pottery (Fig. 10.4c) testifies to this process. Needless to say, chemical changes in pottery can also affect the results of refiring studies (Rye 1981:119), and more experiments are needed to gauge the extent of such effects. It should also be kept in mind that much archaeological pottery has a carbon core, and carbon has an unsurpassed ability to adsorb chemicals.
+
+
+
+
+
+Bishop et al. (1982:296) claim that "most of the trace elements r
+
+
+
+
+
+Page 160
+
+
+
+
+
+organic material. To what extent trace elements infiltrate sherds in such environments remains to be investigated. It might be worth examining the possibility that porous pottery, like bone, undergoes time-dependent element substitutions. Hedges and McLellan (1976) demonstrated that fired clays retain a cation exchange capacity, and they note that postdepositional changes can affect trace element concentrations in pottery. Although investigators of the Wareham experimental earthwork found no "significant" chemical change in their pottery, no information on analytical techniques was presented; they also stress that the acid-sand environment would more likely cause leaching (Evans and Limbrey 1974:195).
+
+
+
+
+
+In a recent set of experiments, Franklin and Vitali (1985) immersed test briquettes in a variety of aqueous solutions and monitored changes in pH, weight, and crystal deposition. They concluded that "new pottery, when in contact with liquids of a very broad range of pH values, builds up quickly protective surface layers that inhibit further chemical reactions" (Franklin and Vitali 1985:14). Regrettably, it is doubtful that these findings can be generalized to all archaeological ceramics. In the first place, the briquettes were fired at 950° C, a temperature that produces a ceramic of low porosity relative to most preindustrial pottery. Second, with the exception of 10 percent lime (CaO), the briquettes apparently were untempered and so were more chemically homogeneous than archaeological ceramics. Third, the specimens were subjected to constant conditions of moisture and temperature, which in most depositional environments is unlikely. The investigators do acknowledge, however, that physical changes, such as those promoted by freeze-thaw cycles, can create fresh surfaces vulnerable to chemical alteration (Franklin and Vitali 1985:14). Although laboratory experiments such as these are valuable, more realistic studies are also needed. For example, one could subject to neutron activation analysis the sherds of a single vessel recovered from different depositional environments at the same site.
+
+
+
+
+
+Chemical deterioration also leads to changes in color (Ware and Rayl 1981). For example, some brick contains ferrous oxide, which is soluble in the low acidity of rainwater. As the brick dries out, a dark iron deposit forms on the surface (West 1970:116). Iron is also found in many clays used for pottery, and one can expect similar effects, especially in surface sherds. Under conditions of prolonged burial, iron in pottery may be totally leached out by acidic conditions, leading to sherds that are lighter in color (Rye 1981:120). A great many other chemical (and probably biological processes) in the depositional environment affect sherd color (Rye 1981:120), as anyone can testify who has restored a pot from sherds disseminated among many different proveniences.
+
+
+
+
+
+Like stone, ceramic artifacts are colonized by microorganisms that may
+
+
+
+
+
+Page 161
+
+
+
+
+
+Fig. 76.
+
+Freeze-thaw processes have caused these construction bricks in
+
+Ouray, Colorado, to exfoliate.
+
+
+
+
+
+alter their chemical and mechanical properties. As a porous medium, ceramics will be invaded by bacteria in wet depositional environments.
+
+
+
+
+
+Other agents, especially physical agents, change the mechanical properties of ceramics. As shown in Figure 7.6, freeze-thaw cycles in colder climates cause the surface of bricks in masonry to exfoliate (see West 1970:107-109). In environments where hard freezes are prevalent, porous sherds on and near the surface should also suffer frost damage. Reid (1984:56) suggests that the early fiber-tempered pottery of the American Southeast "represents a preservational enclave where porous ceramics are less vulnerable to decompositional processes typical of temperate zones." Thermal cycling may adversely affect mechanical properties of surface ceramics as well as brick masonry exposed to the sun. The porosity and permeability of sherds are reduced by deposits, especially carbonates, from environmental sources (Rye 1981:122).
+
+
+
+
+
+When wet, porous pottery expands and undergoes a reduction in various strength properties (Keel 1963:9). For example, wet sherds are more liable to suffer damage from trampling and other abrasive processes (Skibo and Schiffer n.d.); and prolonged submersion causes a reduction
+
+
+
+
+
+Page 162
+
+
+
+
+
+in tensile strength (Ware and Rayl 1981). Pressures in the depositional environment can also warp wet sherds (Keel 1963:9). In addition, wet-dry cycles increase ceramic porosity and, presumably, reduce strength properties (Murphy 1981). More blatant damage is caused by flowing water. As Skibo (n.d.) has demonstrated, sherds are abraded, their edges rounded, and their size reduced by the tumbling action of streams and rivers (Fig. 10.4a). In deserts, wind-borne particles abrade the exposed surface of sherds (Fig. 10.4b).
+
+
+
+
+
+Glass
+
+
+
+
+
+Glass is another artificial material that has been used for the manufacture of diverse artifacts for millennia. The production of crude glass may go back as far as 9000 years ago; industrial production began around 3000 B.C. (Goffer 1980:137).
+
+
+
+
+
+Glass is an amorphous solid formed by the fusion and rapid cooling of a mixture of silica and various metal oxides (Goffer 1980:137-139). Although the composition of glass is variable, generally it consists of three main constituents: (1) a former, usually silica (SiO2) supplied by quartz sand, which often makes up 60-70 percent of the glass; (2) a modifier, such as soda (Na2O) or potash (K20), which serves to lower the melting point of the glass (to around 700-900° C); and (3) stabilizers, such as lime (CaO) or magnesia (MgO), which improve the durability of glass by reducing its solubility in water (Goffer 1980:139-140). In many traditional technologies, wood ash, which contains lime and the requisite alkaline oxides, was fused with sand to produce glass (Plenderleith and Werner 1971:334). By itself, glass is transparent (Goffer 1980:142); colors and varying degrees of opacity are obtained by adding impurities to the melt, usually oxides of metals such as cobalt (blue), manganese (violet or black), copper (blue or red), and iron (green or blue) (Goffer 1980:142; Plenderleith and Werner 1971). Glass formed on the surface of pottery is known as glaze; enamel is a layer of glass on metal (Goffer 1980:136).
+
+
+
+
+
+In general, deterioration processes of glass are not well understood, and the literature is marked by unresolved controversies (e.g., Newton 1971; Weier 1974). Moisture, of course, must be present for glass to decay. Both acidic and alkaline environments apparently promote deterioration (Weier 1974), although alkaline conditions are more commonly invoked (Dowman 1970:21). When present in large amounts the modifiers, which improve the workability of glass, also hasten its decay; in the presence of moisture, the sodium and potassium ions slowly leach out, a process that is accelerated by alkaline conditions (Dowman 1970:21). Most glasses contain insufficient stabilizers, and the products of decay are very commonly observed on archaeological specimens. Moreover, it is doubtful
+
+
+
+
+
+Page 163
+
+
+
+
+
+that any glass can be made totally resistant to chemical attack. Under very unfavorable conditions, deterioration of low-durability glasses can occur rapidly. Greathouse et al. (1954:127) report that "exposure in a tropical warehouse during the rainy season was found to convert the least durable compositions from transparent to translucent within a month." Deterioration of some glasses in the Wareham experimental earthwork was visible after five years of burial (Evans and Limbrey 1974). Under very poor conditions of preservation, glass can become quite friable and crumble upon recovery.
+
+
+
+
+
+The deterioration of glass in archaeological context is marked, usually, by the formation of porous layers of hydrated silica, which vary in thickness from .3-15 microns (Goffer 1980:162). Interference effects from these layers are responsible for the colorful displays or iridescence on the surface of decayed glass (Goffer 1980:161). In recent years, attempts have been made to develop dating techniques based on counts of the deterioration rings (Goffer 1980:162-163), on the presumption that the rings would form seasonally, during moist times when decay rates should be at their peak. Using a series of five glass specimens, Goffer (1980:162) showed that decay-layer counts compare very favorably with dates based on other lines of archaeological evidence (see also Newton 1971; Weier 1974). It is important to emphasize that the target date for such a technique is the number of years since deposition, not manufacture, of the glass item. This promising technique should undergo testing on glass from recent historic sites.
+
+
+
+
+
+Organic Materials
+
+
+
+
+
+A fundamental role is played in all ecosystems by decomposers, organisms that secure nourishment from dead plants and animals. Without them, forests would become choked with debris from fallen trees, ponds would be utterly fouled by wastes, and tropical ecosystems would perish almost immediately for lack of nutrient recycling. Ironically, without decomposers, life as we know it could not continue. Although bacteria, fungi, and insects are the principal decomposers, scavenging lifeways are not unique to these phyla; many birds and rodents scavenge, and even higher vertebrates, such as hyena and lion, feed on carcasses. Some investigators argue that the earliest hominid lifeway included a scavenging component (Binford 1981b).
+
+
+
+
+
+It is of no concern to decomposers that dead organic matter happens to be in systemic context. Mold will attack food as readily as leaves on the ground. Because decomposers are ubiquitous in most environments, human societies have developed techniques for preventing or, more usually, slowing down their predations on food, fuel, tools, and shelter. For
+
+
+
+
+
+Page 164
+
+
+
+
+
+example, methods for preserving meat, such as salting, smoking, drying, and freezing, are widespread and function to inhibit the growth of bacteria. In archaeological context, of course, only under certain conditions does organic matter survive in any recognizable form. Because the conditions for decay are so prevalent, it is essential that archaeologists understand these processes so that the organic items that are recovered can be properly interpreted (Miksicek n.d.).
+
+
+
+
+
+Charred organic matter consists mainly of elemental carbon, inorganic compounds, and substances that have been absorbed from the depositional environment. In this form, organic materials are immune to the agents of biological decay (Dowman 1970:33). Being extremely porous and brittle, however, charcoal is easily damaged by physical agents.
+
+
+
+
+
+Biological agentsthe decomposersare in the main responsible for organic decay, but other agents play a role. For example, sunlight leads to chemical weathering. Also, because organic compounds are not especially stable, over long time periods they oxidize and, if kept oxygen-free, decompose into simpler substances (Krauskopf 1979:23). Chemical and biological agents behave differently, depending on the availability of oxygenan extremely reactive element, especially in the presence of water. Aerobic decay occurs when there is ample oxygen, and follows many complex steps to produce carbon dioxide and water (Krauskopf 1979:241). Anaerobic decay, which is often accompanied by bacteria, takes place when oxygen is scarce or absent (Krauskopf 1979:241). In general, purely chemical processes of decay are both complex and poorly understood. Nevertheless, it is possible to rank various substances in terms of their overall rates of decomposition (holding agents constant); from most to least rapid they are sugars, starches, simple proteins, crude proteins, hemicellulose, cellulose, lignins, fats, and waxes (Carr 1982:117).
+
+
+
+
+
+Processes of chemical and biological decay of organic materials in archaeological sites contribute to elevated levels of specific elements in the soils. The effects of organic breakdown on soil chemistry of sites have been treated by Carr (1982), who notes that these processes lead to higher concentrations of N, Ca, organic and inorganic P, exchangeable Ca, Mg, K, and PO4, as well as total organic carbon content (Carr 1982:110). Mechanical agents, such as freeze-thaw and wet-dry cycles also affect organic materials, especially wood.
+
+
+
+
+
+The following discussion of the deterioration of organic materials begins with and concentrates on wood. Not only have decay processes of wood been intensively studied by many disciplines, ranging from architecture to forestry, but the principles of decay are broadly applicable to other plant materials. Moreover, wood is the organic substance used most often for radiocarbon dating; an understanding of wood decay processes indicates why this practice should cease (see Chapter 11; Schiffer 1986). For a good, short introduction to wood decay see Tarkow (1976).
+
+
+
+
+
+Page 165
+
+
+
+
+
+Wood
+
+
+
+
+
+Wood is a complex polymer formed by the chaining together of glucose molecules manufactured by photosynthesis (Coggins 1980:12). Structurally, wood is composed of three major constituents: cellulose, hemicellulose, and lignin (Hall 1970).
+
+
+
+
+
+Cellulose is a long-chain polymer that, organized in bundles, confers on wood most of its desirable mechanical properties, such as toughness and elasticity (Hall 1970:136); wood generally consists of about 50 percent cellulose by weight (Hall 1970:136; B. Richardson 1978:33). Many wood-decay organisms break down the cellulose chemically, feeding on the constituent glucose molecules (Coggins 1980:21). This chemical activity occurs at the site of attack as in fungal decay, or in the gut of animals such as insects (Coggins 1980:21). Hemicelluloses are closely associated with the cellulose bundles and are similarly affected by decay agents.
+
+
+
+
+
+Lignin, comprising about 25 percent of wood by weight, is a more complex organic molecule which, in effect, cements the cells together. Slow to decay, lignin often remains long after cellulose and hemicelluloses have decomposed, contributing substantially to the humus in soils (Findlay 1975:55). Because of its complex polymeric composition, wood tends to be more resistant to attacks of microorganisms than other organic substances (Scheffer and Cowling 1966:162).
+
+
+
+
+
+Wood is permeated by a set of species-specific chemicals, called extractives, that can be withdrawn by solvents such as water or alcohol (Hall 1970:139). Extractives confer aromas on wood and, more importantly, affect its "water-resistance and shrinking and swelling properties" (Hall 1970:139). These properties in part determine the susceptibility of wood to chemical and physical weathering processes. Of even greater significance is the effect of extractives on the resistance of wood to attacks by biological agents (Findlay 1975). Differences in decay resistance are caused by chemically different extractives that are toxic to decay organisms, particularly fungi (DeGroot and Esenther 1982; Scheffer and Cowling 1966). Extractives tend to be concentrated in the heartwood, the darker core of inner rings. The sapwood of all species, with its dearth of toxic extractives and high moisture content, is extremely vulnerable to biological decay (DeGroot and Esenther 1982:229; Findlay 1975:83, 88). Unfortunately, even within one species, decay resistance can vary from tree to tree; and within a single tree, there are gradients of decay resistance. For example, as trees age, the innermost heartwood-the oldest wood-may lose its decay resistance through deterioration of the extractives (Da Costa 1975:11). Natural decay resistance can also be reduced if wood is treated in hot water or immersed in organic solvents (Scheffer and Cowling 1966:154).
+
+
+
+
+
+Table 7.1 lists a number of woods according to three categories of natural resistance to (mostly fungal) decay. These data confirm the role
+
+
+
+
+
+Page 166
+
+Table 7.1. Various Woods Grouped According to Decay Resistance of Heartwoods (adapted from Scheffer and Cowling [1966:151], Findley [1975:89], and Richardson [1978:192-195])
+
+
+
+
+
+Resistant or very
+
+
+
+
+
+resistant Moderately resistant Slightly or nonresistant
+
+Baldcypress (old Baldcypress (young Alder
+
+
+
+
+
+growth)
+
+
+
+
+
+growth)
+
+
+
+
+
+Ashes
+
+Cedars Douglas Fir (old Aspens
+
+Cherry, black
+
+
+
+growth)
+
+
+
+
+
+Beech
+
+Chestnut Honeylocust Birches
+
+Iroko Larch, western Buckeye
+
+Junipers Mahogany, African Butternut
+
+Locust, black Oak, swamp chestnut Cottonwood
+
+Mulberry, red Pine, eastern white Elms
+
+Oak, bur Pine, longleaf Hackberry
+
+Oak, chestnut Pine, slash Hemlocks
+
+Oak, Gambel Rimu Hickories
+
+Oak, Oregon white Tamarack Magnolia
+
+Oak, post Walnut, European Maples
+
+Oak, white Oak (red and black
+
+Redwood
+
+
+
+species)
+
+
+
+
+
+Walnut, black Pines (most other
+
+Teak
+
+
+
+species)
+
+
+
+
+
+Yew Poplar
+
+Sweetgum
+
+Sycamore
+
+Willows
+
+
+
+
+
+of species-specific extractives in establishing decay resistance: there is no invariant association of decay resistance with wood density or with the hardwood-softwood division. As a rule of thumb (frequently contradicted in practice), however, "species with darker coloured and denser wood are usually most durable" (B. Richardson 1978:60).
+
+
+
+
+
+Compendia of natural resistance of wood types can be useful, but often species important in aboriginal construction that have little or no commerical value today are omitted; ironwood (Olneya tesota)is but one conspicuous Southwestern example. Additional experiments that closely simulate archaeological conditions are needed to establish the decay resistance of many species. When conducting such experiments the inves-
+
+
+
+
+
+Page 167
+
+
+
+
+
+tigator should take care to use heartwood. Production of heartwood is a function of a tree's longevity. In very aged trees, much of the wood is heartwood; most trees harvested today, however, grew so fast that they have very little heartwood (DeGroot 1972:85), and are thus utterly without decay resistance.
+
+
+
+
+
+The presence of water is an essential condition for the occurrence of most processes of wood deterioration. The water content of wood is measured in relation to its dry weight. When the moisture level reaches 100 percent of dry weight, it achieves the state known as the fiber saturation point; no more water can be taken up by the wood substance (Hickin 1963:22-23). But interstices in the wood provide additional water-absorbing capacity; thus, when wood is in direct contact with water, as in moist ground, its water content often greatly exceeds the fiber saturation point. It should also be noted that up to the fiber saturation point, wood expands as it takes up water, and shrinks when moisture is lost.
+
+
+
+
+
+In air that is completely saturated with water, most species of wood will absorb an amount of water equal to about 30 percent of their dry weight (Hickin 1963:22). The moisture content of a living tree is much higher than this, so that "when a tree is felled, the water content in the sapwood is about 100 percent of the dry weight of wood" (Hickin 1963:23); the heartwood contains somewhat less. Clearly, the sapwood of freshly cut wood, which is very susceptible to decay, gradually loses water, establishing an equilibrium with its environment. An essential step in preparing wood for use is seasoning, slow drying to reduce susceptibility to decay and to ensure controlled shrinkage. Dry timber contains about 15 to 20 percent water, whereas "furniture in a heated room has a water content usually about 8 percent" (Hickin 1963:23).
+
+
+
+
+
+Prolonged immersion of wood in water also causes deterioration (Lenihan et al. 1981:155). The cellulose slowly undergoes hydrolysis; in addition, the wood substance actually absorbs water beyond the original fiber saturation point, thus swelling and weakening (B. Richardson 1978:32). Richardson (1978:32) notes that upon microscopic examination waterlogged archaeological wood displays mechanical damage caused by excessive swelling. The role of water in other nonbiological processes is discussed below.
+
+
+
+
+
+Water content, as influenced by moisture in the immediate environment, is by far the most important determinant of the biological decay processes of wood. As wood specialists are fond of pointing out, kept dry (and protected from sunlight) wood will last indefinitely. Conversely, wood will also survive if it is under water. Most other moisture conditions promote the activity of destructive organisms. The oldest preserved wooden artifacts, which come from the Lower Paleolithic period, are tips of spears or digging sticks that had been at least partially burned (Clark
+
+
+
+
+
+Page 168
+
+
+
+
+
+1967:30-31). Unburned wooden stakes of early Neolithic age have been recovered from peat bogs in Great Britain (Taylor 1981). Wet sites in the Pacific Northwest have preserved a remarkable array of wooden artifacts (see, e.g., Croes 1976).
+
+
+
+
+
+Although moisture content is by far the most important determinant of biological decay, the chemical composition of the depositional environment also influences deterioration processes. For example, in a highly alkaline environment fungal deterioration is retarded, and acidic conditions can reduce bacterial action. In addition, the corrosion products of many metal artifacts can inhibit deterioration. For example, it is well known that copper salts produced by corrosion are quite toxic to decay organisms. It is less widely appreciated that wood and other organic materials in contact with iron can also be preserved. For example, at the Roman site of Kourion on Cyprus, small flecks of identifiable wood were found adhering to corroded iron nails (Charles Miksicek, personal communication, 1985). As Taylor (1981:7) properly advises, ''The corrosion products associated with any metal object should be examined closely for organic remains.''
+
+
+
+
+
+Bacterial Decay
+
+
+
+
+
+Bacteria are microscopic, usually unicellular organisms, and are present in most environments. Because their digestive processes are external, bacteria must live in a nutrient medium. In terms of water requirements, then, bacteria are the most demanding agents, requiring free water; thus, wood must be at or above its fiber saturation point to sustain bacteria (DeGroot and Esenther 1982:220). Clearly, wood that is freshly cut, immersed in water, or buried in the ground provides favorable conditions for colonization by bacteria. It is sometimes said that waterlogged wood has not undergone bacterial (and fungal) attack (see, e.g., Goodyear 1971:141), thus accounting for its relatively good state of preservation. It is more likely that bacteria are at work under these conditions but, for presently unknown reasons, the process of decay does not proceed very far. The precise mechanisms of bacterial deterioration have not been studied extensively (Liese and Greaves 1975:74).
+
+
+
+
+
+It is known from laboratory experiments that bacteria thoroughly colonize wood in moist soil within a matter of weeks (Levy 1975). Nevertheless, there is also evidence that the destructive effects on the cell wall occur very slowly (Liese and Greaves 1975:74). In logs stored in water, bacterial action was most pronounced during the first several months (DeGroot and Esenther 1982:220-221). Because bacteria are usually associated with fungi in the ground, (Liese and Greaves 1975:74-75), the contribution of the former to the overall decay process is difficult to assess.
+
+
+
+
+
+Page 169
+
+
+
+
+
+Future research will probably establish a large role for bacterial action in the decay of buried wood.
+
+
+
+
+
+Some effects of bacterial deterioration are well known. Bacterial attack increases the permeability of wood (Scheffer and Cowling 1966:149; DeGroot and Esenther 1982:220), thus facilitating fungal invasion (Coggins 1980:30), and, over the long term, substantially reduces most of its mechanical strength properties, such as bending strength, compressive strength, and elasticity (DeGroot and Esenther 1982). Even so, bacterially rotted wood is still suitable for fuel, and in industrial societies it is used in construction.
+
+
+
+
+
+In archaeological context, the conditions for bacterial colonization of woodmoisture at or above the fiber saturation pointare quite prevalent. Except in constantly dry or freezing environments, most archaeological wood has been sufficiently wet for long time periods to have suffered bacterial attack. As a result, such wood has become more permeable and mechanically weakened. Further research is needed to ascertain if bacteria are capable, like fungi, of completely destroying the substance of wood.
+
+
+
+
+
+Fungal Decay
+
+
+
+
+
+Fungi, including molds, are members of the plant kingdom and are the greatest cause of serious wood decay. In the presence of free water, fungi secrete enzymes, such as cellulase, that break down cellulose into glucose molecules, which are then absorbed (Coggins 1980:21). The minimum moisture content needed to permit fungal attack is variously estimated at 20 to 30 percent (DeGroot and Esenther 1982:22; Findlay 1975:102; Coggins 1980:23; Hall 1970:147; Scheffer and Cowling 1966:164-165). Coggins (1980:23) suggests that the optimal moisture content for fungal infestation ranges from 30 to 50 percent. However, a few staining fungi and molds, which are largely harmless, can colonize wood at lower moisture levels (see Scheffer and Cowling 1966:164-165). Under the condition of complete saturation, which is favorable to bacteria, wood is apparently protected from serious faunal rot because "most fungi require oxygen for growth" (St. George et al. 1954:186; see also Dowman 1970:33; Findlay 1967:43). Similarly, deeply buried wood may lack sufficient oxygen to support fungi.
+
+
+
+
+
+As a group, fungi have a somewhat narrower tolerance of temperature extremes than bacteria. Below freezing, fungi stop growing but are not killed; however, most fungi do perish after prolonged exposure to temperatures above their maximum, usually less than 110° F (Findlay 1967:4546). Generally, "fungi grow twice as fast for every 20° F rise in temperature" (Findlay 1967:46). As a result (holding constant other factors), fungal growth is more rapid during the summerunless it gets too hot. As to
+
+
+
+
+
+Page 170
+
+
+
+
+
+light, most fungi grow better in its absence; however, a few species do require light for reproduction (Findlay 1967:46). For fungi to flourish, conditions must be at least slightly acidic; an alkaline environment will prevent growth of most fungi (Findlay 1967:47-48). Fungal growth is stimulated by the presence of nitrogen-containing materials (Findlay 1967:48); in middens where urine or other appropriate substances may be found, fungal decay is usually rapid. Differences in soil pH and available nitrogen may have contributed to the different rates of wood decay observed in the British experimental earthworks (Evans and Limbrey 1974; Jewell and Dimbleby 1966).
+
+
+
+
+
+Fungi reproduce prodigiously, sloughing off millions of spores per hour; the latter are carried by air currents to every spot on earth. Clearly, when sufficient (acidic) moisture is present, when temperatures are within the growth limits, and when direct sunlight is lacking, the attack of wood and other cellulose-containing substances is almost inevitable (Findlay 1967:37-38).
+
+
+
+
+
+The fiber-saturation point in wooden structures is usually exceeded just above and in the ground (Hall 1970:147). In humid and rainy environments, this zone of rapid fungal decay may extend somewhat above the ground, whereas in deserts only wood in immediate contact with the ground is seriously affected. In most environments, poorly designed structuresthose where water collects or condenses or where wood is in contact with sediments at the surfacewill experience lush fungal growth (Fig. 77).
+
+
+
+
+
+Several major types of wood-rotting fungi have been defined according to their mode of attack and gross effects (Coggins 1980; DeGroot and Esenther 1982; Scheffer 1971; Wilcox 1973). Those secreting only cellulase are known as brown rot fungi. Their attacks, which remove cellulose, cause the wood to shrink severely, producing cracks (parallel to the grain) and checks (at right angles to the grain), and leaving brown, crumbling cuboidal pieces (Fig. 7.8). White rot fungi secrete cellulase and ligninase, thus totally breaking down the structure of wood; the remaining substance contracts into whitish, powdery splinters. Soft rot fungi, which in mode of action are similar in some respects to both white rot and brown rot fungi, are generally confined to the surface of wood (Scheffer and Cowling 1966:149). A number of other fungiwood-staining fungi and molds-take up residence on wood and other substrates (DeGroot and Esenther 1982). Although these types of fungi feed on wood substance, their attack is very superficial and leads mostly to color changes (Scheffer and Cowling 1966:149).
+
+
+
+
+
+Fungal decay causes a great reduction in the strength properties of wood (Findlay 1975:84), often long before decay is visibly detectable (Wilcox and Rosenberg 1982:248). For example, experiments in the decay of
+
+
+
+
+
+Page 171
+
+
+
+
+
+Fig. 7.7.
+
+Fungal rot has attacked this wooden barn at ground level, Ouray, Colorado.
+
+
+
+
+
+softwoods by brown rot fungi have disclosed that, in the early stages of attack, the infected wood suffers a reduction in hardness and impact-bending strength (Wilcox and Rosenberg 1982: Table 17.1). Another predictable effect is the decrease in density (Findlay 1967:51). Wood also becomes more permeable and is able to absorb greater amounts of water, which leads to even more favorable conditions for decay (Findlay 1975:86). Although soft rot, by itself, degrades only the surface of wood, its presence favors "the establishment of several groups of wood-boring animals" (Hickin 1972:12). Other types of fungal decay are necessary for attacks by several types of beetle (Hickin 1972).
+
+
+
+
+
+These physical changes have been observed in wooden structures in systemic context, where decay is sometimes halted before the structure is severely weakened. As fungal deterioration goes to completion, especially in archaeological context, the recognizable characteristics of wood are totally lost. Frequently the residues are readily dispersed by other processes, leaving little trace. Archaeologically, the most obtrusive evidence of decayed wood is the postmold.
+
+
+
+
+
+The speed with which fungi can, under optimal conditions, attack wood
+
+
+
+
+
+Page 172
+
+
+
+
+
+Fig. 7.8.
+
+Severe brown rot on log bench, Cortez, Colorado.
+
+
+
+
+
+is impressive. One particularly virulent brown rot fungus of temperate environments, Serula lacrymans, can progress indoors at the rate of about one meter per year (Coggins 1980:37). During World War II, when wood, paper, and leather goods were brought to the tropics by American soldiers, those items in contact with the ground showed signs of vigorous fungal growth within days (St. George et al. 1954).
+
+
+
+
+
+On the other hand, where moisture is scarce and temperatures sometimes very high, as in the Sonoran Desert of southwestern Arizona and northwestern Mexico, rates of fungal decay, especially of naturally resistant species of wood, can be remarkably slow (see Chapter 12). Radiocarbon assays of four ironwood (Olneya tesota)specimens collected from the modem surface of the Sonoran desert yielded a mean date of 759 B.P., with the oldest being 1536 B.P. (Schiffer 1982:325). In the Atacama Desert of northern Chile, the driest area in the world, fungal decay is altogether absent.
+
+
+
+
+
+Wood used for constructing dwellings and other buildings generally decays at rates that fall between the extremes noted above. Because the longevity of a structure is strictly limited by the durability of any wooden members placed in the ground, it is useful to review some actual numbers on decay rates. Probably the most comparable data are those obtained
+
+
+
+
+
+Page 173
+
+
+
+
+
+from fence post experiments and observations. Morgan (cited in Barker 1977:86) reports the time needed for the decay of 50 mm by 50 mm stakes of various species placed in the ground. The least durable species lasted fewer than 5 years, whereas the most durable lasted 15-20 years. The setting for the test was a temperate environment; one could expect that resistant species in a desert environment would last much longer, whereas vulnerable species in tropical settings would decay more quickly. An inescapable conclusion from these data is that a wooden house with timbers set in the ground in a temperate environment would rarely last more than a generation, and probably much lessunless methods were used for improving its durability. Morgan (cited in Barker 1977:85) also found that "the life of buried stakes is roughly proportional to their narrowest dimension." That being so, one can readily appreciate the need to use round posts.
+
+
+
+
+
+In view of the many microenvironmental factors that influence rates of decay by wood-rotting fungi (and other organisms), archaeologists must reevaluate their assumptions about the suitability of wood for radiocarbon dating. Traditionally, textbooks advise that bits of wood charcoal are most appropriate for yielding reliable radiocarbon dates. However, in some environments dead wood of resistant species survives on the ground for millennia; and in systemic context wood that is kept dry will last indefinitely. Even in archaeological context, wood can survive for long periods. Unfortunately, the archaeologist has no obvious way of knowing how much time elapsed between the death of the tree (the "target" event of radiocarbon dating-Dean 1978), and its procurement, use, and eventual deposition by cultural behavior. An understanding of the conditions that affect rates of fungal decay underscores the considerable potential for variation in those rateseven within the same regionor site. Chapter 12 provides further implications of the use of wood for radiocarbon dating.
+
+
+
+
+
+Scheffer (1971) has produced a climate index of fungal decay hazard, which varies from 0 to 100, and a coarse-grained map of hazard zones for the United States. Such maps, which serve as a gross guide to general conditions of preservation, indicate how long wood might have survived on the surface (holding constant natural decay resistance).
+
+
+
+
+
+Insect Decay
+
+
+
+
+
+As wood moisture drops to very low levels, only insects are capable of utilizing wood for food. The notorious death-watch beetle, for example, besets quite dry indoor furniture. Because most insects do require wetter conditions, however, wood is most seriously at risk of insect attack when freshly cut; the moist sapwood is often immediately invaded by beetles. A general introduction to insect attack of wood is furnished by St. George et al. (1954:197-211).
+
+
+
+
+
+Page 174
+
+
+
+
+
+The paramount insect consumer of wood and the most economically destructive insect pest in the United States (DeGroot and Esenther 1982:224) is the termite. Termites are more prevalent in tropical areas, thoroughly blanketing Africa and most of South America (B. Richardson 1978:212-213), but they are also found in warmer portions of North America and southern Europe (Snyder 1935:7-8). They are infrequent in France and Germany and altogether absent from Scandinavia and the British Isles (B. Richardson 1978:44-45, 212-213). Termites are traditionally divided into two types: "the earth-dwelling termites, which always maintain a connection with the soil; and wood-dwelling termites, which spend their lives in wood" (Findlay 1975:99). Ground-dwelling termites often build tubes of cemented soil particles that snake their way over the terrain. Through these protected passages termites can approach above-ground food sources while remaining out of the reach of predators and sunlight (Findlay 1975:99). DeGroot and Esenther (1982:228) furnish a map showing hazard zones for subterranean termites in the United States. Other subterranean termites build huge mounds, but these species are not present in the United States or Europe, being confined principally to the tropics (Snyder 1935:65). The feeding activity of some subterranean termites is strongly influenced by rainfall and temperature (La Fage et al. 1976).
+
+
+
+
+
+Moisture requirements for termites vary considerably from species to species (DeGroot and Esenther 1982:224). Some types of wood dwellers, such as dry-wood and powder-post termites, pose a significant hazard to wood in systemic context, for they can subsist on dry wood that has a moisture content below 12-15 percent (Snyder 1935:67). Subterranean termites need more moisture, "but as long as they have access to a source of water (in the ground), they can attack very dry wood" (DeGroot and Esenther 1982:224). A few species are only capable of attacking wood that is already infested by fungi (B. Richardson 1978:45).
+
+
+
+
+
+Given their capacity to make use of moist or dry wood, and the prevalence of wood in nature and in human settlements, one might expect termites to be somewhat more destructive than in fact they are. However, along with moisture availability, food supply, and other requirements, predators limit the increase of termite populations. Termites also vary in dietary preference; some are generalists, whereas others are very specializedpreferring wood of just one species. In addition, a number of woods by virtue of their extractives are naturally resistant to termite infestation. For lists of such species, see Roonwal (1979:57, 125-127), Coulson and Lund (1973:303-304), and Findlay (1967:125-126); the best known resistant woods are teak, redwood, and species of juniper (DeGroot and Esenther 1982:231; Findlay 1975:100). Although laboratory experiments have shown that harder woods are more termite resistant (DeGroot and
+
+
+
+
+
+Page 175
+
+
+
+
+
+Esenther 1982:231), this holds only for heartwood (Roonwal 1979:58). Moreover, some termites cannot infest wood unless it has first been attacked by fungi (B. Richardson 1978:45).
+
+
+
+
+
+In the tropics, of course, termites are a serious scourge. But in temperate zones their predations are not so certain, and most destruction of wood is caused by fungi.
+
+
+
+
+
+Termite attack can proceed at a rapid pace, leaving many timbers in a weakened state. Roonwal (1979:47) reports that, in India, the underground portion of untreated posts will be attacked within a year, and replacement is necessary within three years. The most obvious effect of termite infestation is the characteristic hollowing and furrowing where wood substance has been removed (Hickin 1971).
+
+
+
+
+
+One can expect that termite infestations afflicted prehistoric as well as modern builders. Because the distribution of termites, especially in more temperate environments, tends to be patchy, it would be difficult to predict the severity of infestation for any small settlement. Probably the most conclusive evidence that termites had been present, especially in systemic context, is to seek in burned structures the traces of termite activity on the wood and, by flotation, the remains of carbonized termites themselves (Shackley 1981:139-140; Adams 1984).
+
+
+
+
+
+Beetles are perhaps the most widespread insect agent of wood destruction. Many species of beetle attack wood, each differing slightly in their living requirements, behavior, and susceptibility to various predators (Hickin 1972; Findlay 1975:92-98). Generally speaking, the nature of attack is as follows. The cycle begins when adult beetles lay eggs in dead wood; after the eggs mature, the larvae, resembling grubs or worms, emerge. For periods that may last a year or as long as decades-depending on speciesthe larvae consume wood, creating a network of tunnels. When the larvae mature, they become stationary in their tunnels and form a pupil case. The adult that emerges from the pupil case bites its way out of the wood, leaving an "exit" or "flight" hole characteristic of that species (Fig. 7.9). For example, the common furniture beetle (Anobium punctatum), a serious pest in England, has an adult length of about 2-4 mm and leaves a flight hole almost 2 mm in diameter (Hickin 1972:23, 26). Adult beetles soon mate, and the cycle begins anew.
+
+
+
+
+
+As Findlay (1975:92) points out, beetles attack wood under a variety of different conditions: (1) as standing trees (longhorn beetles-Cerambycidae), (2) newly cut logs (pinhole borers-Scolytidae and Platypodidae), (3) logs and timber that have been seasoned or partly seasoned (powderpost beetles-Bostrychidae and Lyctidae), and (4) wood used in structures and furniture (furniture beetles-Anobiidae). Some varieties, such as those attacking freshly cut wood, require considerable moisture and may con-
+
+
+
+
+
+Page 176
+
+
+
+
+
+Fig. 7.9.
+
+Beetle exit holes on a juniper fencepost, near St. John's, Arizona.
+
+
+
+
+
+fine their activities to the sapwood. The powder-post beetles, on the other hand, require moisture content of merely 8-30 percent. Conditions other than water content must be met before some species will attack. For example, the death watch beetle (Xestobium rufovillosum)only colonizes hardwood that has been previously infested by fungi (Bletchly 1967:23; Coggins 1980:81). These conditions are in the main met only by "wood in its first few seasons after felling" (Hickin 1972:46). Bletchly (1967) furnishes additional discussions on the conditions necessary for attack by particular types of beetle.
+
+
+
+
+
+Beetle infestations, like those of termites, are spotty, at least for wood in systemic context (Hickin 1972:16-21). In many cases, the conditions for attack are present, but the beetles are absent. Predators, such as wasps, mites, and even other beetles (Hickin 1972:33-35), have an important influence on beetle populations. Some species of tree have good natural resistance to beetles. For example, Central American mahogany, from
+
+
+
+
+
+Page 177
+
+
+
+
+
+which much Victorian furniture was made, is moderately immune to the predations of the common furniture beetle (Hickin 1972:32).
+
+
+
+
+
+Although beetles can on occasion reduce wood mass by a considerable degree (see the illustrations in Bletchly 1967), usually their damage leaves the wood in a weakened but recognizable (and often still-usable) form. Thus, if only beetle attack affected archaeological wood, there would be a great deal more material for archaeologists to study. Regrettably, thorough fungal decay makes the issue of prior beetle attack quite moot. In the cases where conditions were unfavorable for fungal decay, however, one can examine the preserved wood for holes and other traces in order to learn if beetle attack took place, perhaps in systemic context, and if so, which species might be responsible. Hickin (1972:70-72; see also Bletchly 1967:66-67) lists for major beetle species (1) types of wood they infest, (2) heartwood or sapwood preference, (3) shape and paths of larval galleries, (4) type of frass (granules in and near the galleries), and (5) shape and size of exit holes.
+
+
+
+
+
+Other Animal Agents
+
+
+
+
+
+After termites and beetles, one can list many other animals that attack wood, most of which tend to require very specialized conditions and are not abundant in nature. A few of the more important examples are mentioned briefly. Wooden ships, pilings, and wharves are subject to degradation by several animals collectively termed "marine borers" (Richards 1982; Hochman 1973; St. George et al. 1954:217-224). The most notorious of these is Teredo, a bivalve mollusc known as the shipworm, a severe infestation of which caused Christopher Columbus to land in haste on Cuba in 1503 (Richards 1982:265). Teredo can strike with amazing rapidity, causing enormous loss of mass and strength in the affected wood.
+
+
+
+
+
+There is also an animal called the "wharf borer"; the latter, however, is a species of beetle (Nacerdes melanura)that attacks fungally rotted softwoods and hardwoods, mainly in freshwater settings above the water line (Coggins 1980:84; Hickin 1972:56; Bletchly 1967:53-54). Hickin (1972:56) notes that in recent years the wharf borer has expanded its habitat in England to include buried wood. Thus, in historic sites, a new agent is reducing more quickly the inventory of surviving wood in archaeological context.
+
+
+
+
+
+Decay Prevention
+
+
+
+
+
+To this point, discussions have concerned the susceptibility of untreated wood to the actions of biological agents. The trend in industrial societies is toward injecting wood with chemicals to ward off biological
+
+
+
+
+
+Page 178
+
+
+
+
+
+agents. The question is, did preindustrial builders also develop techniques for retarding wood decay? The answer is yes. B. Richardson (1978:11-21) furnishes a brief but fascinating history of efforts to preserve wood. Referring to the writings of Herodotus, he notes that the resins, tars, and oils extracted from various materials were applied by the Greeks as preservatives. The Chinese, in the first centuries B.C., ''immersed their wood in sea water or the water of salt lakes'' (B. Richardson 1978:11) to promote the longevity of construction materials. The Romans used assorted preparations to preserve wood, including olive oil and oil of cedar, and also resorted to charring of wood. In Western societies, few advances in techniques of wood preservation took place until the eighteenth century. From that time to the present, especially in England, many successful treatments, including immersion in dissolved salts of copper, mercury, and zinc, have been devised. It should be noted that some of the early wood treatments are based on organic materials, such as creosote, the presence of which can affect the results of radiocarbon dating.
+
+
+
+
+
+It is also likely that builders in traditional, nonliterate societies also found ways to extend the uselife of wood artifacts. In many areas, including the eastern United States, one finds post molds containing flecks of charcoalapparently from the post, yet no other trace of a conflagration is evident in the remains of the structure. Perhaps these bits of charcoal are the residue, not of burned houses, but of posts that have been fire treated to reduce deterioration. At the very least, fire treatment should lower surface moisture, making colonization by fungi less likely, and alter the surface to the point where egg laying by beetles becomes impossible. In a series of experiments Morgan (cited in Barker 1977:87) found that charred fenceposts of softwood survived longer than uncharred posts; but charring had no effect on the durability of hardwood. Further experiments are needed on additional species under varying conditions and using other approaches to charring.
+
+
+
+
+
+Another technique for extending the uselife of structural members in contact with the ground is "overbuilding," the use of timbers of a size much greater than that required by mechanical stresses (the larger mass of wood takes longer to deteriorate). Other possible decay-retarding treatments, including painting, should be sought in ethnographic wood-use practices. Clearly, a great deal more research is needed on strategies for preserving wood in nonindustrial societies.
+
+
+
+
+
+It is fascinating to speculate on whether or not prehistoric builders understood the conditions that led to beetle infestations, and, if so, whether or not they sought to manipulate those conditions to reduce the chances of attack. Populations that occupy structures and settlements for many decades can resort to various techniques for reducing insect predations, such as peeling the bark and seasoning the wood well in advance
+
+
+
+
+
+Page 179
+
+
+
+
+
+of construction. Dean (1969, 1978) documents how the people of Betatakin Pueblo in northeastern Arizona cut down trees in A.D. 1269 and 1272, but did not use them in construction until 1275. One wonders if this advance planning was intended to reduce beetle infestations.
+
+
+
+
+
+Weathering
+
+
+
+
+
+A number of processes in addition to organic decay adversely affect wood. Foremost among these, particularly in systemic context, is weathering. Water and sunlight are the two principal agents of weathering, and these can act singly or in synergistic combinations.
+
+
+
+
+
+The exterior of wooden structures is periodically exposed to rain and dew. Wood that is unprotected by paint or varnish will absorb water by capillary action (Feist 1982:158). Because the permeability of many species of wood to the flow of water is relatively low (Hall 1970:142), moisture mainly penetrates the surface layers. Water also enters through cracks, and proceeds much more quickly along transverse surfaces (cut ends) (DeGroot and Esenther 1982:227; B. Richardson 1978:48). As water is adsorbed by the cell walls, the wood swells, producing stresses between the wet and dry parts of the wood (Feist 1982:159). Additional stresses are created because wood expands less along the grain than across the grain (Hall 1970:141). In addition, summer wood and spring wood swell and shrink differentially in the surface layer (Feist 1982:159). Gradually, wet-dry cycles cause marked changes in the structure of wood (Fig. 7.10). Not only does the grain become raised (which can be produced by just one wetting), but the wood develops cracks and checks; in the form of thin planks, wood will cup and warp (Feist 1982:158). On the whole, this mechanical breakdown seems to be a slow process, at least in temperate environments (see below).
+
+
+
+
+
+Sunlight, especially the ultraviolet portion of the spectrum, is a potent agent of weathering. Photochemical reactions break down most organic materials, especially the lignin in wood (Feist 1982:159-160). This deterioration extends to a depth of 0.05-0.5 mm (Feist 1982:159). Sunlight also makes many of the extractives soluble in water, and these are washed away (Hall 1970:141). With the loss of extractives and much of the lignin, wood uniformly turns a silver-grey color. When moisture is present, however, the grey color is caused by the presence of blue-staining fungi (Feist 1982:161). Roughening and splintering of the surface may also occur, but such effects are difficult to separate from those of wet-dry cycles.
+
+
+
+
+
+Although one can find in the literature various empirically based rates for weathering, individual rates for the effects of water and sunlight are not available. Nonetheless, overall weathering rates are instructive. Western red cedar yielded a rate of 13 mm loss per century in an eight-year trial, whereas, on the basis of accelerated weathering tests, redwood,
+
+
+
+
+
+Page 180
+
+
+
+
+
+Fig. 7.10.
+
+Weathered wood on the surface of a secondary refuse deposit, Showlow, Arizona.
+
+
+
+
+
+Douglas fir, Engelmann spruce and ponderosa pine were estimated to lose about 6 mm per century (Feist 1982:162). An identical weathering rate was obtained from the study of exterior unpainted wood in colonial houses in the eastern United States (Hall 1970:142). The causes of variations in weathering rates are not well understood, but apparently relate to factors of inherent resistance and differential exposure to weathering agents.
+
+
+
+
+
+The archaeologist can be reasonably certain that all exposed wood did experience some weathering. The duration of that exposure might be indicated by the rounding of beam ends (Feist 1982:163) as well as the extent of cracking and checking (if not caused by fungi). Because of the many uncontrolled factors, one can probably say only that a badly weathered piece of wood had been exposed for some time; slight weathering could occur in a protected area of the same structure.
+
+
+
+
+
+Grains and Other Plant Products
+
+
+
+
+
+A major archaeological hallmark for an agricultural lifeway is the presence of storage facilities (Wieser 1982; Rafferty 1985). The first farmers, and most gatherers as well, knew the dire consequences of leaving their harvests within reach of moisture, insects, birds, and rodents. The devel-
+
+
+
+
+
+Document
+
+
+
+
+
+Page 181
+
+
+
+
+
+opment of ceramic containers, subterranean pits, and robust architecture in many areas was stimulated by the need to protect grain and other stored plant products from the ravages of the environment. In addition, a plethora of biological agents, including fungi, nematodes, mites, insects, viruses, birds, lagomorphs, and rodents, infest cultigens even before harvest (see, e.g., Thresh 1981; David and Kumaraswami 1975).
+
+
+
+
+
+Plant products used for food, especially the seeds of annuals or perennials, when moist or wet are subject to bacterial and fungal decay. In addition, insects of many kinds, including ants, cockroaches, and beetles, will exploit the edible stored resources to which they have access; St. George et al. (1954:215) note that "more than 50 kinds of beetles and moths. . . commonly attack stored grain and cereal foods." In addition, birds and rodents, many of which feed on seeds, help themselves at will to unprotected grainsin fields and storage areasand establish their nests near food sources (Murton 1972).
+
+
+
+
+
+Shackley (1981:148-149) notes that insect pests of stored grains have been recovered archaeologically. In one instance, excavations at a Roman warehouse in York yielded unprecedented numbers of grain pests. It is surmised that the 400 mm clay capping of the warehouse remains was "a deliberate attempt to ensure that no pests survived the dismantling to jeopardize the new structure" (Shackley 1981:150).
+
+
+
+
+
+In archaeological contexts abandoned stored foods and uncharred organic trash are exceedingly vulnerable to the actions of biological agents. It is no wonder that the survival of seeds and other plant parts, in other than a carbonized form, is an event archaeologists celebrate with great enthusiasm. Such preservation, however, is extremely rare except in waterlogged sites or those kept very dry (Miksicek n.d.). Even when unburned materials are preserved, as in an arid site, one must recognize the likelihood that insects and rodents played a part in forming the assemblage. Gasser and Adams (1981) have provided evidence of rodent grawing on otherwise well-preserved seeds at Walpi Pueblo. In addition, one may also anticipate that some seed "caches" in dry sites are of rodent, not human origin. Under certain conditions, seeds can be preserved by mineralization (Green 1979).
+
+
+
+
+
+Given that most reconstructions of human diet are based on charred plant remains, one must address in detail the cooking practices and relevant cultural formation processes that lead to charring and the incorporation of such materials into the archaeological record (Hally 1981; Miksicek n.d.; Schiffer and McGuire 1982a:231-232).
+
+
+
+
+
+Page 182
+
+
+
+
+
+Because vegetable fibers consist mainly of cellulose (Plenderleith and Werner 1971:100), they are susceptible to the already familiar biological agents that deteriorate wood and paper: bacteria, fungi, and insects. In addition, cotton and other plant fibers are especially subject to photochemical deterioration and oxidation (Greathouse et al. 1954:87-92). Not only does ultraviolet light break down the cellulosic structure of the textile fibers, but it also attacks and fades any dyes that might be present.
+
+
+
+
+
+Plant textiles can decay very rapidly (Wessel 1954; Jewell and Dimbleby 1966; Evans and Limbrey 1974). Under optimal conditions for fungal growth in the laboratory, cloth textiles can lose most of their strength properties in a matter of weeks (Wessel 1954:414). It is no wonder that the vast majority of preserved textiles in archaeological context occur in conditions of "extreme desiccation, immersion in fluid; in permafrost; or in contact with [metals]" (King 1978:89). Textile fragments sometimes are found preserved by the corrosion products of copper or iron (Plenderleith and Werner 1971:100; Evans and Limbrey 1974:188). In many areas where conditions of preservation are almost uniformly poor, such as the eastern United States, textile study is confined to materials from dry rockshelters and impressions on pottery (King 1978). The oldest preserved textiles are from Neolithic contexts in the Near East (Jakes and Sibley 1983).
+
+
+
+
+
+Animal fibers, including feathers, hair (such as wool), and silk, contain the substance keratin, which is principally protein. As is well known, in systemic context moths (actually their larvae) consume textiles of animal origin. In addition, a number of beetles feed on keratinous textiles as well as on other animal substance. Some animal materials, such as wool, seem resistantat least in the laboratoryto a wide variety of microorganisms; however, in the ground they do slowly decay (St. George et al. 1954:181). Wessel (1954:451) suggests that "Wool and other hair fibers may be more susceptible to bacterial than to fungal attack," a hypothesis that has received experimental support (Evans and Limbrey 1974:187). Presumably chemical and bacterial attack are involved in the decay of animal fibers in the ground, but the processes are not presently well understood.
+
+
+
+
+
+Synthetic fibers, such as nylon, rayon, orlon, and dacron, are as plastics more resistant than natural fibers to all organic agents of decay (Wessel 1954:452). Nevertheless, they are often quite susceptible to weathering and, on an archaeological timeframe, synthetics are likely to be degraded; historic archaeologists should assemble data on decay rates of these materials in various depositional environments.
+
+
+
+
+
+Bone
+
+
+
+
+
+Bone is one of the most remarkable materials produced by nature. It is a combination of protein and mineral that has properties of both brittle
+
+
+
+
+
+Page 183
+
+
+
+
+
+and elastic solids, and is stronger overall than either of its constituents (Johnson 1985:166). As such, it provides a strong yet resilient framework capable of self-repair. Once separated from an animal, however, the strengths of bone become its weaknesses; its diverse components invite a number of different kinds of environmental attack. Although all archaeologically recovered bone has been modified by some natural processes, the conditions that promote survival of bone in a recognizable form are widespread.
+
+
+
+
+
+Microscopically, bone consists of collagen fibers, which are protein, bound with the mineral hydroxyapatite. The organic portion, which is about 90 percent collagen, constitutes about 20-25 percent of the dry weight of bone (Hare 1980:209). Osteons are the basic structural unit and are responsible for the formation and resorption of bone (Hare 1980). The orientation of osteons, which are about 0.1 mm in size (Hare 1980:208), influences some mechanical properties of bone (Johnson 1985).
+
+
+
+
+
+Many types of mammalian bone are made of two basic tissues; cancellous bone, found mainly at the epiphyseal ends, is spongy and of low density; compact bone, which makes up the diaphysis of long bones, is much denser and has no macroscopic pores. These varieties of bone are differentially subject to particular kinds of deterioration processes, such as gnawing by carnivores.
+
+
+
+
+
+Because of its importance to studies of Early Man in the Old and New Worlds, the deterioration processes of bone are currently a research area of great activity. This section can do little more than recount a few basic principles; for more detail the reader is advised to consult major works in vertebrate taphonomy (e.g., Binford 1981b; Behrensmeyer and Hill 1980; Shipman 1981; Brain 1981; Johnson 1985; Gifford 1981). The findings of such studies are already beginning to make their way into procedural manuals for faunal analysis (e.g., Hesse and Wapnish 1985; Klein and Cruz-Uribe 1984), and influences on traditional categories of inference, such as butchering (Lyman n.d.), are also evident.
+
+
+
+
+
+Chemical agents of bone deterioration are widespread, with the best known process being dissolution by acid (Gordon and Buikstra 1981). The mineral fraction in particular is especially vulnerable to acidic conditions present in many moist sediments (Dowman 1970; White and Hannus 1983). For example, in forests decaying organic matter lowers the pH and thus reduces the survival probabilities for bone near the surface. White and Hannus (1983) propose that in the presence of water and oxygen, microbial decay of collagen contributes organic and carbonic acids that, in turn, dissolve the hydroxyapatite; this reaction can be mediated by ions like Ca and H present in the depositional environment (White and Hannus 1983:322). In addition to pH other soil characteristics, such as texture,
+
+
+
+
+
+Page 184
+
+
+
+
+
+affect decay rates (Dowman 1970:21). Empirically determined decay rates are scarce, although historical archaeologists could provide such information. At the Wareham experimental earthwork (Evans and Limbrey 1974), some bone had deteriorated completely after nine years of burial in acidic conditions. Presently, the exact modes and rates of chemical dissolution of bone under varying conditions are not well known.
+
+
+
+
+
+Fossilization is another chemical process familiar to most archaeologists, if the precise mechanisms are not. Fossilization is usefully viewed as the transformation of an organic material, such as wood or bone, into a harder, stone-like substance. Fossilization occurs when, usually over long spans of time (e.g., millennia), mineral matter such as silica carried by groundwater is deposited in the bone (Hare 1980). Because of weathering processes (see below), unburied bone is likely to disappear before it can fossilize. Rapid burial by water-lain sediments promotes fossilization, and that process is responsible for the survival of most early hominid remains.
+
+
+
+
+
+At the same time that some mineral substances are being incorporated into bone, others are being lost. Elements such as potassium, sodium, chlorine, and magnesium, for example, are leached from the bone, sometimes to be replaced by others, like fluorine, from groundwater. Parker and Toots (1980) present several methods for estimating the amount of a leached element that was originally present in the bone in order to infer diet and other systemic phenomena.
+
+
+
+
+
+The absorption of elements and ions from the depositional environment is the basis of a family of techniques used for relative dating of bone. These techniques are founded on the usually reasonable assumption that fossil bones laid down at about the same time in the same deposit will have absorbed similar amounts of elements, such as fluorine and uranium. Percentages of fluorine and uranium in bone have proved useful in establishing the rough contemporaneity of fossils having a disputed provenance. In one well known application, the ape-like jaw and progressive skull of Piltdown Man were both shown to be essentially modern in age, having very low fluorine and uranium percentages relative to demonstrable fossils from the Piltdown deposit (Weiner 1955).
+
+
+
+
+
+Another important chemical change in bone, influenced by temperature, moisture content, and other conditions of the depositional environment, is the progressive loss of organic compounds. In brief, "the older the fossil bone the less organic matrix it contains and consequently the fewer total amino acid residues per gram of bone" (Hare 1980:209-210; see also Hedges and Wallace 1978). This comes about because the amino acids that make up the collagen and other proteins undergo hydrolysis (Hare 1980:212); if sufficient water is present, the free amino acids will be leached from the bone. The total loss of organic material is conveniently indicated by the percentage of nitrogen; the Overton Down experiment
+
+
+
+
+
+Page 185
+
+
+
+
+
+showed that buried bone can lose nitrogen in fewer than four years (Jewell and Dimbleby 1966:333).
+
+
+
+
+
+In addition to hydrolysis and leaching, amino acids undergo racemization, which is the basis of a controversial technique for chronometric dating of fossil bone (Bada 1985a). Amino acids in bone, excepting glycine, exist in two mirror-image isomers: D- and L-amino acids (Hare 1980:210). Abetted by leaching, the ratio of D to L amino acids increases through time (Hare 1980). The rates of racemization are affected by temperature as well as moisture content, and also differ among amino acids. Aspartic acid with the highest racemization rate has been used extensively by Bada and his associates (Bada et al. 1974) for dating human remains of purportedly great age in southern California. These dates reach back as far as 70,000 years ago on the Sunnyvale skeleton (Bada and Helfman 1975), and seemingly indicate that humans were present in the New World during the last interglacial. In order to "calibrate" racemization dates for temperature history, a bone from the same site or area is dated, usually by C-14, and an empirical racemization rate is derived (Taylor and Payen 1979). Recently, C-14 dating of the organic fractions of various "early" skeletal specimens has shown the aspartic acid dates and some earlier C14 dates (including calibration specimens) to be incorrect, sometimes by an order of magnitude (Taylor 1983; Taylor et al. 1985). Bada (1985b) acknowledges that the previous dates were inflated, but counters that the recalibrated racemization dates provide a good fit to the correct (C14) ages. Nevertheless, because the error terms are huge, it is difficult to assess Bada's claim that the technique is still viable. Until ways are found for taking into account the varying moisture histories of bone and the apparent nonlinearity of racemization (Hare 1980), amino acid racemization dates should not be expected to produce reliable results (Taylor and Payen 1979; Hare 1980).
+
+
+
+
+
+The pressures of overlying sediments during fossilization sometimes deform bone, and many fossil hominidsincluding Lucyhave become distorted during and after fossilization (see Shipman 1981:181; Brain 1981:134-137). One wonders why the sometimes extensive morphological changes experienced by these important specimens receive relatively little attention in the literature of human evolution (e.g., Clark and Campbell 1978; Brace et al. 1979).
+
+
+
+
+
+Like other materials, bone left on the surface of the ground weathers through the combined actions of chemical and physical agents, undergoing a series of regular morphological changes (Behrensmeyer 1978). Initially, longitudinal cracks appear, followed by deeper cracking, exfoliation and, eventually, total disintegration (Fig. 7.11). Although the exact mechanisms of bone weathering are not fully understood, in large part it may be a photochemical or photomechanical process. Bones protected from
+
+
+
+
+
+Page 186
+
+
+
+
+
+Fig. 7.11.
+
+Surface bone in an advanced state of weathering, Showlow, Arizona.
+
+
+
+
+
+sunlighte.g., in carnivore lairs or buried in archaeological sitesdo not weather or weather only slowly in comparison to exposed bones in the same environment (Gifford 1981:416). It is also believed that cycles of hot-cold, wet-dry, and freeze-thaw contribute to weathering. For example, Miller (1975) has shown experimentally that freeze-thaw and wet-dry cycles can produce longitudinal cracks similar to those occurring in early stages of weathering (see also Murphy 1981). Johnson (1985:184-189) stresses the role of desiccation in the weathering process, and presents a testable model.
+
+
+
+
+
+Because weathering is affected by so many factors, empirically determined rates of bone weathering are highly variable. In East Africa, where much recent work on weathering has been done, the process is found to take place over a span of 15 years or more (Gifford 1981:417). In the Colorado desert in southern California, weathering appears to be more protracted; many specimens, although appreciably weathered, remain reasonably intact after three decades, and some traces of bone can even be found after a century of exposure (Miller 1975). In the Arctic, the surfaces of Dorset and Thule Eskimo sites yield large amounts of weathered-but largely intact-whale bones that are many hundreds of years old (McCartney 1979).
+
+
+
+
+
+Page 187
+
+
+
+
+
+Microenvironmental differences, usually related to moisture, also affect weathering rates (Shipman 1981; Brain 1981), as do species and element differences (Shipman 1981; Gifford 1981). In particular, bones "with high ratios of surface area to volume naturally break down faster than those with lower ratios" (Gifford 1981:417). Holding size constant, bones of fish and reptiles appear to weather more quickly than those of mammals (Gifford 1981:417). These highly variable weathering rates highlight the complex joint effects of sunlight, temperature, and moisture, and underscore the need for additional experiments. It is clear, nonetheless, that bone left on the surface and exposed to the sun will inevitably weather, following a fairly predictable sequence of deterioration stages. Thus, unless bone has been covered by refuse or other sediments, in most environments it will weather and eventually disappear.
+
+
+
+
+
+By means of acidic secretions, roots can etch the surface of any bone in direct contact. Binford (1981b:50) furnishes excellent photographs of an etched sheep jaw showing the characteristic meandering pattern of root etching, a process familiar to archaeologists working in nearly every environment. Bones can also be etched while in the stomachs of carnivores.
+
+
+
+
+
+Water transport, sandblasting by wind, and other mechanical processes affect bone in much the same manner as they alter pottery and stone (Shipman 1981:113-115; Gifford 1981:418-419; Johnson 1985). To wit, "edges of breaks and anatomical crests or ridges become rounded and are eventually obliterated" (Shipman 1981:113). Shipman and Rose (1983a:77-79) simulated water transport by tumbling bone with water and sand; they found that this abrasive process can obliterate traces of butchering and "will occasionally produce marks that mimic carnivore tooth scratches" (Shipman and Rose 1983a:79).
+
+
+
+
+
+The vast majority of recent work on bone deterioration has treated the mechanical actions of other animals on bone, especially carnivores and scavengers. These studies help archaeologists to ascertain the relative contributions of hominids and natural processes to various bone accumulations (Chapter 9; Johnson 1985; Binford 1981b; Brain 1981).
+
+
+
+
+
+Johnson (1985:176) properly calls attention to well-documented differences in the mechanical properties of wet (fresh) and dry bone: dry bone is harder but more brittle than wet bone, and their failure modes under heavy loading also vary. The normal failure mode of a wet long bone, which can be produced by a variety of stresses, is the spiral fracture. Myers et al. (1980:487) note, however, that "slightly weathered bones break quite easily but still exhibit the characteristic spiral breakage pattern of fresh 'green' bone." In contrast, failure of dry bones results in fractures that are perpendicular, parallel, or diagonal to the surface plane (Johnson 1985:176). Insofar as breakage is concerned, fossilized bone follows the
+
+
+
+
+
+Page 188
+
+
+
+
+
+dry bone pattern; however, it may be more useful to regard fossilized bone, like petrified wood, as a peculiar type of rock that frequently fractures along well-developed cleavage planes.
+
+
+
+
+
+In the past, a number of investigators have argued, incorrectly, that spiral fractures are caused uniquely by hominid behavior. It must be emphasized that because of the typical fresh-bone fracture pattern, many different processes, including gnawing by carnivores and trampling by animals, can produce spiral fractures Johnson 1985). Indeed, spirally fractured bone as well as bone pseudotools are not uncommon in Miocene and Pliocene paleontological sites (Myers et al. 1980).
+
+
+
+
+
+Various effects of bone-processing and bone-accumulating animals have been documented in the past decade. Large carnivores, including dogs, wolves, leopards, and hyenas, can wreak considerable havoc on the bones of their prey, as shown by observations at kill sites and lairs, in zoos, and on feces (Brain 1981; Crader 1974). Spotted hyenas are especially adept at crushing bones, even those of rhinocerus. An artiodactyl skull is typically broken into several pieces, and the margins worked (Brain 1981:70). Long bones are splintered or cracked, resulting in the production of bone ''flakes'' (Brain 1981:70). The marrow-rich part of a mandible will be crushed and splintered, leaving a very jagged edge (Brain 1981:70). Hyenas also eat the epiphyseal ends of long bones. Processing of bone by carnivores and scavenging animals results in characteristic scratches or furrows, pitting, polishing, punctures, and crenulated or "chipped back" edges (Binford 1981b; Johnson 1985). Binford (1981b:44-80) copiously illustrates these features on an element-by-element basis (see also Brain 1981). Shipman and Rose (1983a) discuss and illustrate the microscopic characteristics of carnivore tooth marks on bones.
+
+
+
+
+
+It has been noted that carnivores preferentially transport limb bones back to their dens and lairs (Gifford 1981:412). In addition, various elements are differentially chewed and eaten at both kill sites and home bases (Binford 1981b); for example, marrow-rich proximal humeri are often totally devoured (Binford 1981b:71-73). These consumption and processing patterns clearly affect the frequencies with which particular skeletal elements are deposited; nevertheless, Gifford (1981:412-413) cautions that these gross patterns of element representation are not necessarily exclusive to carnivores. Brain (1981:21), for example, has shown that the survival probability of an element or element part subjected to chewing by dogs and Hottentots is directly related to its density (see also Binford and Bertram 1977); less dense parts, of course, are composed mainly of marrow-rich cancellous tissue (Miller 1975).
+
+
+
+
+
+Data are beginning to appear on the prevalence of carnivore action on bone in "archaeological" sites. For example, in Ventana Cave, Bayham (1982:326) reports that "The percentage of artiodactyl parts exhibiting
+
+
+
+
+
+Page 189
+
+
+
+
+
+chew marks varied from 14.7 percent in Level 1 to 43.5 percent in Level 5." He suggests dogs and coyotes as the likely agents.
+
+
+
+
+
+A host of other animals affect bone. Rodent gnawing is a very common process, and can be expected in archaeological sites wherever rodents abound. According to Gifford (1981:414), "Rodents favor bone that is somewhat weathered and free from fat and sinew." Shipman and Rose (1983a:81-85) identify and illustrate the distinctive features of rodent gnawing (see also Johnson 1985:181), and emphasize that it is possible to distinguish rodent activity from butchering marks and other processes.
+
+
+
+
+
+In some areas deficient in salts and minerals needed for animal nutrition, ungulates such as red deer and caribou chew and sometimes consume bone (Gifford 1981:414). Miller (1975:213) has even observed the desert tortoise gnawing on bones.
+
+
+
+
+
+Animals such as ungulates also trample bones. Gifford (1981:414) reports that structurally weak elements are very susceptible to breakage, but after weathering for a few years, even more robust bones can be broken by trampling. Myers et al. (1980) implicate trampling as a major cause of spirally fractured bone in paleontological sites. Clearly, surface bones in archaeological sites located near trails and waterholes will suffer considerable trampling damage.
+
+
+
+
+
+Because of the many and sometimes quite striking effects animals can have on bones, the archaeologist needs to carefully distinguish the effects of such processes from human behavior in the assemblages being studied. Familiarity with the behavior patterns of local bone-modifying fauna is a helpful guide to some of the agents potentially responsible for bone damage patterns. There are precious few sites where the conditions that favor modification of bone by animals are totally lacking. Indeed, as Binford (1981b) and Brain (1981) have shown, some of our most cherished inferences about the behavior of Early Man are based largely on faunal remains deposited by carnivores and scavenging animals (Chapter 9).
+
+
+
+
+
+Metals
+
+
+
+
+
+General Principles
+
+
+
+
+
+The deterioration of metals is a familiar process in everyday life. Most people have on occasion left an iron or steel object outdoors and found it weeks or months later covered with rust. A considerable amount of research is done today for the purpose of improving the corrosion resistance of metals, especially those used in industrial and military applications. Nevertheless, despite the barrage of advertising accompanying every trivial design change, razor blades used for shaving still corrode badly in a matter of weeks.
+
+
+
+
+
+Page 190
+
+
+
+
+
+Corrosion is the process or, more properly, family of processes mainly responsible for the deterioration of metals in systemic and archaeological context. A chemical process, corrosion occurs because most metals are unstable and react with various ions, particularly in moist depositional environments. Corrosion products is the generic term applied to the resultant chemical compounds, in preference to "patina" or "rust" (France-Lanord 1976).
+
+
+
+
+
+In nature, most metals occur as stable compounds in rocks called ores. When ores are processed to create elemental metals, chemical stability is lost. As many investigators have noted (e.g., Plenderleith and Werner 1971; Organ 1976; Hoff 1970), metals strive constantly to return to the stable compounds of ores, such as oxides and sulfides. Plenderleith and Werner (1971:191) even suggest that corrosion resistance is related to processing energy: "other things being equal, the more easily a metal is won from its ores, the greater is its stability." Aluminum is a conspicuous exception to this generalization.
+
+
+
+
+
+Corrosion of metals is primarily an electrochemical process, and is facilitated by the presence of a solution containing ionsan electrolyte (Hoff 1970:187). Although some corrosion processes are not electrochemical (Bakhvalov and Turkovskaya 1965), those of most interest to archaeologists are. The general process is described in vastly simplified fashion by Hoff (1970:187): "When a metal is placed in an electrolyte it tends to dissolve according to a reaction of the form M Mn++ ne-. Thus the metal atoms go into solution as positively charged metallic ions leaving an excess of negatively charged electrons in the metal." Although pure water is not a good electrolyte (there are not very many hydrogen and hydroxide ions), dissolved substances in most natural sources of water are sufficient to produce corrosion reactions. Rainwater, for example, contains acids that are a source of ions. Salts are a potent source of ions and a major cause of deterioration in the ground. Chlorides, nitrates, sulfates, and phosphates are abundant in nature, and foster corrosion (Greathouse et al. 1954:111). The sea, of course, is a very favorable environment for corrosion (Weier 1974).
+
+
+
+
+
+Some corrosion processes are facilitated by biological agents, and the role of bacteria and other microorganisms in mineral genesis is presently a very active area of investigation in geology. Sulfate-reducing bacteria contribute importantly to the corrosion of buried iron objects. Promisel and Mustin (1954:249) briefly describe the process: "water very low in oxygen but carrying sulfates and organic matter is sometimes invaded by sulfate-reducing bacteria. In that case, hydrogen sulfide results as a byproduct of bacterial reduction. In contact with iron the hydrogen sulfide
+
+
+
+
+
+Page 191
+
+
+
+
+
+forms ferrous sulfide." Future research will probably assign a greater responsibility to biological agents in corrosion processes (see Weier 1974).
+
+
+
+
+
+Corrosion starts with the formation of a thin film on the surface of the metal, and may eventually penetrate the entire object. The rapidity with which corrosion can proceed is astounding; most metals undergo some oxidation in less than a minute of exposure to the air (Promisel and Mustin 1954:239). The nature of the initial corrosion productswhich vary depending on the metal and on the species of ions presentis said to determine to a significant degree the nature of subsequent corrosion processes (Bakhvalov and Turkovskaya 1965). The corrosion products of some metals, aluminum for example, are insoluble, nonporous minerals that severely retard the penetration of water, ions, and oxygen (Hoff 1970:186; Waite 1976:215; Promisel and Mustin 1954:239). In other cases, especially iron and many steels, the corrosion products are soluble or porous, thus maintaining continuous exposure of the underlying metal to corrosion.
+
+
+
+
+
+In archaeological contexts, protective films of corrosion products can become somewhat less protective, especially if they are breached by otherespecially mechanicalprocesses. For example, if there is a large difference in the coefficients of thermal expansion of the metal and its corrosion products, then thermal cycling will crack the protective film, and corrosion will proceed inward. Indeed, Smith (1976:267) cautions that short-term studies of corrosion do not capture the full range of processes occurring archaeologically:
+
+
+
+
+
+Although the initial rate of corrosion is soon diminished by the formation of a layer of protective products of the action, corrosion does not entirely cease thereafter, but continues by intergranular capillary penetration and diffusion of electrolytes. For this reason, corrosion produces effects in objects from archaeological times that are quite different from what would be expected on the basis of short-range tests.
+
+
+
+
+
+Chemical changes that occur during long spans of time in the depositional environment also contribute to the variability and distinctiveness of archaeological corrosion processes and products. For example, France-Lanord (1976) notes that changes in urban fuels over the past several centuries caused changes in the urban atmosphere, leading in turn to altered corrosion patterns in exposed metals (as in architecture). For these reasons, studies of actual corrosion products on archaeological specimens are preferred over other sources of information (e.g., short-term laboratory experiments) for understanding corrosion processes in archaeological context.
+
+
+
+
+
+Page 192
+
+
+
+
+
+Because corrosion progresses over time, it should be possible, in principle, to develop techniques of relative dating on the basis of the thickness or composition of corrosion products on artifacts. Corrosion rates for various metals (expressed as weight loss or weight gain) have been determined under a number of exposure conditions (Hoff 1970). Exploration of these dating possibilities might be profitably undertaken in historical archaeology.
+
+
+
+
+
+A host of factors, in addition to the nature of the metal itself, are known to affect corrosion rates. Like other chemical reactions, corrosion tends to increase as temperature rises (Waite 1976:216). For example, in the frigid antarctic where liquid water is rare, corrosion "is practically unknown" (Promisel and Mustin 1954:251). Greater humidity also accelerates the rate of corrosion (Waite 1976:216; Greathouse et al. 1954). Even in deserts, dew condensing on metal artifacts at night leads to corrosion. According to Greathouse et al. (1954:121), conditions that alternate between wet and dry are conducive to rapid corrosion; this may be a true cyclical process in which drier periods furnish additional oxygen necessary to complete the reactions.
+
+
+
+
+
+The availability of oxygen regulates some reactions. For example, corrosion of susceptible metals may not proceed in deep water for lack of oxygen (Greathouse et al. 1954:121). In some oxygen-deprived circumstances, however, conditions may be favorable for rapid corrosion by sulfate-reducing bacteria (Weier 1974).
+
+
+
+
+
+In most corrosion reactions, the concentration of appropriate ions in the electrolyte influences reaction rates. Thus, the higher the acidity, the faster the corrosion (with some exceptions, see Bakhvalov and Turkovskaya 1965:5). The air in some places has high concentrations of corrosion-promoting salts. Salt spray in seashore areas has a devasting effect upon metals (Waite 1976:216), especially iron. In industrial areas various acid-forming oxides hasten the corrosion of copper, iron, and steel (Greathouse et al. 1954:106). In the ground, there are many sources of ions, including natural salts, rotting vegetation, and previously deposited cultural materials. Wood ash is a potent source of salts, and even decaying organic matter of cultural origin often furnishes highly corrosive acids and salts (Waite 1976:217; Dowman 1970:34). Generally, metals corrode faster if buried in the ground; the precise rate, of course, depends on manyusually unknownfactors (Plenderleith and Werner 1971:191). Other corrosion processes are initiated by contact of metals with cement or damp wood (Waite 1976).
+
+
+
+
+
+When two dissimilar metals are in contact in the presence of an electrolyte, the "nobler" one will survive at the expense of the other, "baser" metal (Bakhvalov and Turkovskaya 1965). For example, if iron and zinc are
+
+
+
+
+
+Page 193
+
+
+
+
+
+in contact, then the zincthe more electronegative metalwill corrode, leaving the iron in good condition. This phenomenon, of course, is the basis for the corrosion resistance of galvanized steel (a zinc-plated steel). Many artifactsancient and modernare fashioned of several joined metals. When the conditions are favorable for the formation of an electrolytic cell, as in ocean-going ships or exterior constructions, the baser metal will corrode.
+
+
+
+
+
+The electromotive series (see, e.g., Bakhvalov and Turkovskaya 1965:23) can help archaeologists to understand apparently anomalous instances of differential corrosion, such as a well-preserved silver bowl from Ur that survived at the expense of several copper bowls with which it was in contact (Plenderleith and Werner 1971:193). It should be emphasized, however, that the electromotive series cannot be used to predict overall corrosion resistance of individual metals.
+
+
+
+
+
+Alloys, which are mixtures of two or more metals, are often very susceptible to corrosionparticularly at grain boundaries (Promisel and Mustin 1954:244-245).
+
+
+
+
+
+I now turn to a brief discussion of the corrosion susceptibilities of several metals encountered archaeologically.
+
+
+
+
+
+Gold
+
+
+
+
+
+Gold is a very soft metal that often occurs in nature in an elemental state ready for use. "Native" gold persists unaltered because it does not react with any normal constituents of the natural environment; this total resistance to corrosion may be one reason why gold has been so valued throughout recorded history. Although pure gold is for the most part chemically inert, alloys with more reactive metals, such as silver, copper, and iron, are vulnerable to some corrosion. Archaeological gold that appears discolored or pitted is without doubt an alloy.
+
+
+
+
+
+Silver
+
+
+
+
+
+Silver is generally considered to have high corrosion resistance (Bakhvalov and Turkovskaya 1965:86). Unlike gold, however, silver is a reasonably reactive metal, and survives by virtue of a protective film of corrosion products. Indeed, in systemic context, films of silver sulfide or silver chloride readily form (Plenderleith and Werner 1971:220). Anyone who has allowed a shiny silver spoon to repose in a plate of scrambled eggs knows just how quickly the sulfide layer develops. In especially adverse depositional environments, over long spans of time, corrosion eventually claims all the metallic silver, leaving a bloated mass of corrosion products (Plenderleith and Werner 1971:22; Dowman 1970:32; Weier 1974).
+
+
+
+
+
+Page 194
+
+
+
+
+
+Silver was frequently alloyed with other metals, especially copper. In such cases, the baser metal copper will preferentially corrode, protecting the silver (Dowman 1970:32).
+
+
+
+
+
+Copper
+
+
+
+
+
+Like gold, copper can occur naturally in the metallic state. For this reason, copper was sometimes worked by neolithic-level societies, such as the Old Copper culture of the Great Lakes region, that utterly lacked any smelting or alloying technology.
+
+
+
+
+
+Although copper is used extensively in its elemental form, it also has a number of major alloys. Bronze is an alloy of copper and tin, the latter generally comprising 10-20 percent (Bakhvalov and Turkovskaya 1965:73); it was a favored metal for the production of fine art in Peru, China, the Mediterranean, and the Near East. Because of its good to excellent corrosion resistance, many exquisite examples of ancient bronze survive. When zinc is added to copper, in amounts ranging from 10 to 50 percent, brass is produced (Bakhvalov and Turkovskaya 1965:71); brass has good corrosion resistance but it is not as durable as bronze.
+
+
+
+
+
+Pure copper exposed to the atmosphere generally acquires a brownish oxide film within a few months (Hoff 1970:221). The transformation of a new penny from pink to the more familiar brown illustrates this process. In this oxidized form, copper is protected reasonably well. Indeed, in a clean, cool atmosphere, such as one finds in Sweden, oxidized copper will persist without apparent change for centuries (Hoff 1970:212). In most other environments, atmospheric pollutants, such as sulfurous gases, createusually in a matter of years or decadesthe blue-green corrosion that so often typifies aged copper (Hoff 1970; Waite 1976). The chemical composition of these corrosion products varies, depending on the chemistry of the atmosphere (Organ 1976:247-248).
+
+
+
+
+
+Other copper minerals are created under different environmental conditions. In the ground, malachite and azurite sometimes develop, which tend to be quite stable in the absence of chlorides (Plenderleith and Werner 1971:246); other minerals form in marine environments (Weier 1974). Chlorides do pose serious problems for copper and its alloys, causing in the presence of moisture the dreaded affliction known as "bronze disease" (Dowman 1970:31; Plenderleith and Werner 1971:247; Keck 1976). One source of chlorides is decomposing bodies: "Bronze objects found near skeletons will be more mineralized on the side which has touched the body for the emanations of chlorides from the decaying flesh will speed up the process of corrosion" (Dowman 1970:31). Dowman (1970:23) also notes that the presence of organic acids in the depositional environment
+
+
+
+
+
+Page 195
+
+
+
+
+
+can lead to the formation of copper acetate (verdigris). Under anaerobic conditions, corrosion of copper and its alloys can be caused by sulfate-reducing bacteria.
+
+
+
+
+
+Tin
+
+
+
+
+
+In its unalloyed state tin is a soft white metal and is very corrosion resistant, even more so than copper, owing to the development of stannous oxide (Bakhvalov and Turkovskaya 1965:76; Organ 1976:245). This film "resists corrosion by oxygen, moisture, sulfur dioxide and hydrogen sulfide. However, tin is attacked by acids and acid salts in the presence of oxygen, marine atmospheres and certain alkalis" (Waite 1976:226). Over long time periods, however, the film thickens, becoming more porous and cracking (Organ 1976:245).
+
+
+
+
+
+Because it is very weak, tin is found mostly as plating or in alloys. The most common alloy, known as pewter, contains lead or copper and is much more corrosion prone than pure tin (Organ 1976:245).
+
+
+
+
+
+Lead
+
+
+
+
+
+Lead is a very soft, corrosion-resistant metal that is common in recent historic sites. It has been used for centuries in munitions, and contributed to earlier forms of pewter. The Romans employed lead for coffins and pipe (Tylecote 1983). Lead was also commonly used in sheet form as a roofing material in Europe, and "a number of lead roofs dating from the 15th and 16th centuries still exist" (Waite 1976:224). In addition, lead was a favorite metal of alchemists.
+
+
+
+
+
+Lead is quickly oxidized in the atmosphere, attaining its distinctive blue-grey color (Organ 1976:253). Hoff (1970:217) reports that protective films of lead carbonates and sulfates are formed over long time periods. In some depositional environments, especially those with vapors of organic acids, the corrosion products are less stable, permitting a deeper penetration (Organ 1976:253). Empirically determined corrosion rates for lead are very low (see, e.g., Tylecote 1983; Hoff 1970:217).
+
+
+
+
+
+Zinc
+
+
+
+
+
+Zinc has generally good corrosion resistance in a clean, dry atmosphere, but corrodes rapidly in the presence of acids and persistent moisture (Bakhvalov and Turkovskaya 1965:76). For example, if rainwater is allowed to stand on zinc sheeting, it will corrode through in just weeks (Hoff 1970:208). The basic corrosion product of zinc, a white oxide powder, confers little corrosion resistance in polluted atmospheres or in the ground (Hoff 1970:208). Zinc is found in some nineteenth- and twentieth-century historic sites as the exterior of dry cells (see, e.g., Teague 1980:113).
+
+
+
+
+
+Page 196
+
+
+
+
+
+Iron
+
+
+
+
+
+Ironically iron, the metal thatmore than any otherfacilitated the industrial revolution, is notoriously vulnerable to corrosion. Iron is fashioned in hundreds of different varieties; for present purposes, cast iron, wrought iron, steel, and stainless steel will represent iron and iron products.
+
+
+
+
+
+According to Waite (1976:228), "cast iron is an iron-carbon alloy with a high carbon content (more than 1.7 percent) and varying amounts of silicon, sulfur, manganese and phosphorus." This type of iron is very hard and brittle, and cannot be readily shaped by mechanical means when solified (Waite 1976:228). Wrought iron is a low carbon steel (less than 1 percent) that contains about 2.5 percent slag (Waite 1976:228). In contrast to cast iron, wrought iron is very malleable. Steel, also a malleable metal, contains carbon but usually less than 2 percent (Waite 1976:228).
+
+
+
+
+
+Many other elements are added to steel to create desirable combinations of properties. One particularly important alloy is stainless steel, which consists of between 12 and 20 percent chromium and, owing to the formation of a self-repairing protective film, is extraordinarily corrosion resistant (Waite 1976:229; Bakhvalov and Turkovskaya 1965:62; Hoff 1970:224). Bakhvalov and Turkovskaya (1965:62) also note that iron-copper alloys, which can be manufactured in nonindustrial settings, enhance the durability of iron.
+
+
+
+
+
+Iron objects can last millennia in a dry environment, but when exposed to moisture (at least 50-60 percent relative humidity-Organ 1976:251; Plenderleith and Werner 1971:288), iron and steel (excepting stainless steel) corrode, forming a variety of porous and unprotective corrosion products. In the early stages of corrosion, ferrous and ferric hydroxides are produced; later corrosion products include hydrated ferric oxide and carbonates (Plenderleith and Werner 1971:281). These reactions, of course, are accelerated in the presence of salts, particularly chlorides (Waite 1976; Dowman 1970:30). Corrosion rates also increase in acidic environments, especially if the pH is below 3 (Dowman 1970:22).
+
+
+
+
+
+As is well known, corrosion of iron is a speedy process. Even in twentieth-century historic sites, many iron objects are represented by scarcely more than a cast of corrosion products or a reddish brown stain. Both iron and steel can be quickly corroded in anaerobic environments by sulfate-reducing bacteria (Plenderleith and Werner 1971:282; Weier 1974); and in the sea, an iron object can be speedily transformed into a bloated mass of corrosion products (Fig. 7.12).
+
+
+
+
+
+Of the many forms of basic iron, cast iron has the best resistance to corrosion (Waite 1976:232). Indeed, the Coalbrookdale bridge in England, one of the first built of cast iron (in 1779), still stands (France-Lanord 1976:261). Unpainted nineteenth-century iron bridges can still be found
+
+
+
+
+
+Page 197
+
+
+
+
+
+Fig. 7.12.
+
+An unrecognizable iron object has been
+
+transformed entirely into corrosion products,
+
+4 cm long, in a marine environment.
+
+
+
+
+
+in the United States (Sande 1976), but, because of advanced corrosion, they are often structurally weak. Unprotected steel rusts very quickly, and "it must be admitted that most of man's steel monuments have disappeared" (France-Lanord 1976:263).
+
+
+
+
+
+In a few depositional environments, corrosion products form more protective films on iron. Decomposing leather and bark yield tannates, whereas bone generates phosphates; both combine with iron to produce surfaces that are relatively corrosion resistant (Plenderleith and Werner 1971:288).
+
+
+
+
+
+Discussion
+
+
+
+
+
+In all societies the breakdown of artifacts in use is accelerated by environmental processes. In nonindustrial societies, artisans constantly experimented with materials, learning their properties in a variety of use conditions and environments. Generally, greater longevity of artifacts can be "designed in" by (1) using different, more durable materials, (2) changing forms to make the same materials more durable, (3) using of oversized materials, (4) using preservatives or protective layers, (5) regular maintenance processes (e.g., replacing a rotted beam in a house), and (6) altering the environmental conditions of use. In the tropics, for example, reasonably sedentary peoples face extraordinarily rapid rates of organic decay. It is no accident that in such areas structures built of organic materials are well ventilated and frequently placed on platforms, reducing
+
+
+
+
+
+Page 198
+
+
+
+
+
+the overall incidence of fungal attack. It would appear that in many instances knowledge about deterioration processes is applied in the design of artifacts, particularly structures (McGuire and Schiffer 1983).
+
+
+
+
+
+Greater investments in manufacture are usually needed to increase the resistance of artifacts to the onslaught of destructive agents. In societies with much social inequality, wealthy individuals and institutions can import more durable materials, devote more energy to manufacture, put more effort into maintenance, and afford to replace deteriorating artifacts at higher rates. The use of exotic materials and construction methods are preferred choices, especially for architecture, because their contrast with ordinary artifacts also furnishes symbols for reinforcing social differences.
+
+
+
+
+
+The diachronic perspective afforded by archaeology makes it possible to investigate whether or not particular design changes (e.g., wooden pithouse to masonry pueblo in the American Southwest) were the result of decisions made with respect to knowledge of deterioration processes (McGuire and Schiffer 1983). This promises to be a very active and fruitful area of inquiry in the decades ahead.
+
+
+
+
+
+Page 199
+
+
+
+
+

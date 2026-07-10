@@ -1,0 +1,880 @@
+Preface:
+
+
+
+What Song the Sirens Sang
+
+
+	Language is the most remarkable and the most characteristic of all human creations. It may be that our species did not become fully human until the abilities of reasoning, as well as speaking, which accompany the use of language were fully developed. Certainly there are many archaeologists today who would argue that this moment must have been associated with the emergence of fully-modern man, Homo sapiens sapiens.
+
+	Yet it is notable that archaeologists of late have, in general, had very little to say about the origins of the languages which are used in the world today, or of the others, now extinct, of which we have written records. During the early days of archaeology this was a major topic of interest, and there were many who endeavoured to trace the origins of the Celts, or the Greeks, or some of the tribes of North America, by examining the archaeological record for indications of their supposed migrations. Often their conclusions took a very simplistic form, with a particular kind of pottery, or perhaps a specific form of burial, regarded as the clear indicator of a recognizable early tribe whose members were hailed as the original speakers of this or that language. The prehistoric map of the area in question was soon filled with bold arrows marking the supposed paths of these peoples, often identified there only by the name of the language in question, so that to the casual eye it looked as if the languages themselves had paraded from place to place across the map.
+
+	Now it must be admitted — and this is an inescapable limitation of the present book just as much as it is of those which it seeks to criticize — that we can, by definition, never speak with certainty about a ‘prehistoric’ language. We have direct experience of living languages, and of those earlier ones which were either set down in writing by their speakers or recorded in some written form by others who came in touch with them. For prehistoric languages the evidence is generally very much less direct. But this does not mean that we have absolutely no ways of approaching such matters. In the words of Sir Thomas Browne:1
+
+	What Song the Syrens sang, or what name Achilles assumed when he hid himself among women, although puzzling Questions, are not beyond all conjecture.
+
+	The term ‘prehistoric’ means ‘prior to the use of writing’ (for whichever region is in question) and it implies that there are stringent limitations upon what it is possible for us to know today. But that does not mean that we have to assume complete ignorance. It is well attested that certain languages are closely related — such as French and Spanish, or several of the languages of Polynesia. In some cases these relationships have historical causes which can be documented — for instance the role of the Romans in carrying the Latin language across the wide extent of their empire. In others an explanation for the relationships can be put forward, and supported by other classes of evidence in a perfectly convincing way. Thus the archaeology of Polynesia now indicates the approximate date at which some of the islands were first occupied by humans. In many cases the archaeological evidence and the linguistic evidence harmonizes well to indicate clear patterns of colonization which satisfactorily account for the linguistic relationships observed. No one can now prove precisely which languages were spoken in different parts of the Pacific in, say, ad 1500 since direct evidence for them does not exist, but some outline, supported by different lines of evidence, can be offered.
+
+	You may ask, who cares? What on earth does it matter what language was spoken by long-dead people? As Hamlet asked of the player:2 ‘What’s Hecuba to him, or he to Hecuba, that he should weep for her?’ So at first one might think. But language and identity are closely linked and there are few things more personal than the language one speaks. Indeed language and national identity are today very widely equated. One’s ‘ethnic’ affinity is often determined much more by language than by any identifiable physical characteristics, and elections are won or lost by Flemish and Walloons, bombs detonated by Welsh nationalists and Basque separatists, and massacres perpetrated in many parts of the world — most recently in Sri Lanka — on the basis of distinctions which are linguistic and cultural more than anything else. Often the differences are religious too, since religion as well as language is frequently a fundamental component of national or ethnic identity. So if we are interested in the origins of the modern world, we must understand the nature of past societies; this includes the social organization of these ancient peoples and their sense of self-identity, which brings us to the questions of ethnicity and language.
+
+	Over the past two decades, archaeology has looked with considerable disfavour on the work of those earlier generations of scholars who sought to explain the changes observed to have taken place in the archaeological record in terms mainly of migrations. We see now that the particular kinds of pottery so meticulously studied in the past are not necessarily secure indicators of particular groups of people — the pots themselves may have been traded, or a fashion in pot-making adopted, without any change in population. We see more clearly that social groups are not necessarily precisely the same thing as linguistic groups, and we are much more willing to accept changes in the archaeological record as the result of locally-occurring developments within the societies concerned rather than as the result of outside influences, or immigration.
+
+	All this has made unfashionable the kind of work prevalent fifty years ago, when the leading scholars of the day would write books with such titles as The Coming of the Greeks, or Prehistoric Migrations in Europe.3 We are now aware that major developments in human history, such as the emergence of early urban society in the East Mediterranean, were the products of the interplay of social and economic factors, and are not usually explained adequately simply by documenting the migrations of groups of people.
+
+	But have we thrown the baby out with the bathwater? For while we are surely right in looking to social and economic causes for most of the major developments, are not questions of national or ethnic identity (and hence of linguistic identity) often an important element in the social reality?
+
+	This book sets out to argue that this is indeed the case, and that archaeologists have, with a few notable exceptions, failed in recent years to take adequate account of the linguistic evidence in building up our picture of the past. Of course there are sound reasons for that. Along with the enlightened interest in early Europe which led the great Australian archaeologist, V. Gordon Childe, to publish his book4 The Aryans in 1926, arose a much more tendentious inclination to use (and sometimes to distort) the historical evidence for partisan political ends. Hitler and the National Socialist movement in Germany exploited to the full, in their unwarranted claim for a Germanic ‘master race’, the rather simplistic account of prehistoric linguistic origins in Europe which scholars such as Gustav Kossinna5 had set out. Most archaeologists of the time were appalled to see what were no more than plausible theories about prehistoric languages and cultures converted into military propaganda about racial superiority and brought to a nightmarish reductio ad absurdum in the destruction of millions of people, supposedly belonging to other ‘races’, in the holocaust. Small wonder, then, that archaeologists have avoided so emotive a topic. Childe subsequently avoided all mention of his book The Aryans, although in fact it offered no evidence in favour of the delusion of racial superiority and was very careful to distinguish between language and culture and supposed racial classifications.
+
+	Racial explanations have, however, receded in archaeology, since most of the earlier work on supposed racial types, based largely on the measurement of skulls, has been shown to be inaccurate and lacking in statistical validity. Craniometry, the study and measurement of human skulls, has in recent years enjoyed about as much prestige in scientific circles as phrenology. There are still a few physical anthropologists who feel able to make comments about the racial affinities of prehistoric individuals on the basis of their skeletal remains, but such work is now being superseded by much more complicated, computer-aided taxonomic studies, where whole populations are compared, using an entire series of different measurements on each individual. I personally remain to be convinced that any clear historical conclusions can be drawn from such work, although it is theoretically possible that they might. In the same way, the study of the blood groups of ancient populations may prove informative, since in some cases they can be determined using the preserved skeletal remains. These are research programmes for the future. At the moment it is safe to look on any supposed claims about ‘racial’ groups or ‘racial affinities’, based on a study of skeletal materials over the past 10,000 years, with the gravest suspicion. Racial anthropology — Rassenkunde to use the German term — has been convincingly discredited. This does not mean that modern biological anthropology will not develop methods by which the physical relationships and affinities of past populations may be studied. It implies only that the groundwork for such studies is now being laid, and that there are at present few conclusions that can be relied upon.
+
+	Linguistic archaeology earned itself a bad name, then, from some of the writings of the 1920s and 1930s. In many ways that was unfortunate, for while many of the approaches and conclusions of that time are not now convincing, the questions asked were legitimate and some of the insights entirely sound. Re-reading today Gordon Childe’s The Aryans, one can see that some of the questions which he posed remain entirely valid, and in most cases unanswered. So it is time, I feel, to return to some of those old questions, as well as to several new ones, without incurring the opprobrium which such discussions understandably, and perhaps rightly, earned at the end of the Second World War.
+
+	Archaeology has moved on from its preoccupation with races, ethnic groups and prehistoric migrations. It has learnt to speak with greater authority and accuracy about the ecology of past societies, their technology, their economic basis and their social organization. Now it is beginning to interest itself in the ideology of early communities: their religions, the way they expressed rank, status and group identity. The question of language is important here, and we can approach it anew, abandoning some of the old preconceptions. Because we have rejected as inadequate the evidence which was often put forward in the past to document the movement of a group of people, we can ask afresh just what indications we expect to find when a group of people did in fact move. The arguments of the processual school in archaeology (as we should now term the successors of the New Archaeologists of the 1960s and 1970s, now that the latter are no longer new) have sometimes been misunderstood. No one is asserting that migrations do not occur or have not occurred. The point is rather that the evidence which was formerly put forward to document supposed migrations was in many cases inappropriate to the task. It is not so much the reality as the methodology which is under criticism. I think this is the right time for a reconsideration of these issues, taking into account the lessons of the New Archaeology, and trying to work in harmony with the processual school.
+
+	I shall try here to develop some of the principles which seem relevant if we are to understand the archaeological evidence relating to the question of language change. My area of special interest will be the languages of Europe and parts of Western Asia, but I hope that the general issues will be relevant to those studying the early development of languages in other areas — for instance the Bantu languages of Africa.
+
+	The solution which I propose for the languages of Europe is in many ways a surprising one, and it has its implications for the modern world. Today, for instance, many people believe that the first Celtic inhabitants of Britain and Ireland arrived in these areas somewhere around 2000 bc from a homeland elsewhere in Europe. Others would prefer a date fifteen hundred years later. I shall argue that there is no evidence whatever for that, and the Celtic languages may have much longer antecedents in the areas where they are now spoken. Such an argument has the effect of removing the hiatus between the British and Irish neolithic periods — the time of the megalith builders and of the art of the Irish passage graves — and the succeeding phases of prehistory. It means, if we accept it, that our origins — and in general this is claimed here for other parts of Europe too — go very much deeper. These lands have been our lands, and those of our forefathers, for thousands of years longer than is widely thought. Many of the features, then, which define the Irishness of the Irish, or the Spanishness of the Spanish, or the Britishness of the British, go back very much deeper. Sir John Myres, many years ago, answered the question posed in the title of his book Who were the Greeks? with the very wise answer that they ‘were ever in process of becoming’.6 We can begin to see that something of this is true for many of the lands in Europe. This, I think, is a fundamental change in perspective, and one which carries many interesting implications with it.
+
+	In the introductory chapter which follows I shall outline the early development of the discipline dealing with the formation and evolution of languages — historical linguistics (or comparative philology, which is much the same thing) — by looking at the first European languages. We see that the first answers offered were essentially linguistic, based on the evidence derived from the languages themselves. Around the beginning of this century, the archaeological evidence was energetically studied, and the information which it might offer for migrations of peoples was seriously assessed. Basically these are the two approaches still widely practised today: the traditional linguistic (based on studies of vocabulary, grammar and sound changes) and the traditional archaeological (based on the equation of particular artefact forms and other classes of finds with supposed ethnic groups).
+
+	In the following chapters it will be argued that modern linguistics and current processual archaeology offer the opportunity for a new synthesis. The development of linguistic studies over the past two decades allows a much less simplistic view of linguistic origins, which is applicable to the Indo-European languages as much as to others. And contemporary archaeology is no longer content to equate specific groups of artefacts (or ‘cultures’ in traditional parlance) with particular groups of people supposedly speaking different languages. We can now consider the conditions in which demographic change and linguistic change may be associated, and the other reasons why the language spoken within a given region may change. Archaeology today is better equipped to consider such questions as population density and the dynamics of culture change than it was a couple of decades ago. Although it is too early yet to offer a convincing synthesis between the new linguistic and archaeological approaches, some of the directions which they may follow can certainly be indicated. The examples chosen for discussion here nearly all come from the field of Indo-European studies, but the principles governing the relationship between language and archaeology ought to be universal. In Chapters 5 and 6 I discuss these principles in fairly general terms, before settling down to suggest their application to a proposed new solution of the Indo-European problem in Chapter 7.
+
+	Since that solution proposes a much earlier common origin (and subsequent separation) for most of the Indo-European languages than is generally accepted, it has some significant implications for the now-fashionable concept of ‘Proto-Indo-European society’, which has been further developed recently by the distinguished French scholar, Georges Dumézil, and his followers. It can be shown archaeologically that many of the features of the different societies in question, features hailed by Dumézil as essentially Indo-European, only emerged in those societies after the date which I would suggest for the early movement of people speaking early Indo-European languages into the relevant lands. I shall argue that today many of the supposed equivalences in social structure often claimed as fundamentally Indo-European are, in fact, the product of parallel evolution. The same social forms can indeed be seen in other societies of the time whose languages did not belong to the Indo-European family. So the implication must be that a good part of the claimed ‘Indo-European’ basis for the structure and organization of the societies in question is a modern myth. This conclusion, if accepted, would be of great significance for our understanding of the early literatures and religions of the different regions of Europe as well as for the comprehension of their languages and archaeology.
+
+	These are immense questions, to which it is certainly not yet possible to supply wholly satisfactory answers. What I believe one can do is to show that most of the answers currently on offer are seriously deficient. However in order to suggest a new approach, a different methodology will be needed before significant progress can be made. I have attempted here to begin this task.
+
+
+
+
+
+1.
+
+
+
+The Indo-European Problem in Outline
+
+
+	In the year 1786, an English judge, serving in India at the High Court in Calcutta, made a quite extraordinary discovery. He was Sir William Jones, who had trained as an oriental scholar before reading law. On arrival in Calcutta, three years earlier, he had taken up the study of Sanskrit, the language in which the earliest literary and religious texts of India are written, many of them from the fourth to the sixth centuries ad, by which time Sanskrit was no longer spoken but served as the language of scholarship and literature; much as Latin was used in the west in Renaissance times. In his ‘Third Anniversary Discourse’ to the Asiatic Society of Bengal he briefly mentioned an observation he had made which can be taken as a starting point for the whole study of historical linguistics, and certainly for the field of Indo-European studies:7
+
+	The Sanskrit language, whatever may be its antiquity, is of a wonderful structure; more perfect than the Greek, more copious than the Latin, and more exquisitely refined than either, yet bearing to both of them a stronger affinity, both in the roots of verbs and in the forms of grammar, than could possibly have been produced by accident; so strong indeed that no philologer could examine them all three, without believing them to have sprung from some common source, which, perhaps no longer exists; there is a similar reason, though not quite so forcible, for supposing that both the Gothic and the Celtic, though blended with a very different idiom, had the same origin with the Sanskrit; and the old Persian might be added to the same family, if this were the place for discussing any question concerning the antiquities of Persia.
+
+	This brilliant observation has been further developed and analysed by generations of scholars in many major works, and there is little doubt that Sir William Jones was right. He saw that in comparing two languages, points of resemblance in the grammatical structure are as important as similarity between the words of the vocabularies. He appropriately compared Sanskrit, Latin and Ancient Greek, all by then dead languages, which had flourished at about the same time, and he drew into the discussion two of the languages of northern Europe — Gothic (the ancestor of German) and Celtic — and rightly compared these with the Old Iranian (Persian) language in which the hymns of the Avesta, the ancient Iranian scriptures,8 are written.
+
+	Sir William Jones saw that these resemblances were so striking as to be more than fortuitous. These different languages are all related in some way to one another. The most obvious explanation (although, as we shall see, not the only possible one) is that they are all descended from some common source.
+
+	The idea of languages being related to one another was not a new one. It had long been realized that many of the languages of contemporary Europe — for instance Italian, French, Spanish and Portuguese — were related, both in vocabulary and in grammatical structure. Indeed in this case the explanation was not far to seek. The ‘common source’ in this case was Latin, which of course exists today in written form, and at the time of Sir William Jones was still actively used in some scholarly writings as well as in the litany of the Roman Catholic Church. Resemblances between Latin and Sanskrit had already been recognized by a few scholars, but to link these various languages together in this way was a bold stroke. Gothic was readily seen to be the ‘common source’ of several languages, such as German and Dutch, which today we would call ‘Germanic’. And Sanskrit was already understood to be the ancestor of Hindi (with Urdu) and many of the other languages of India, including Sindi, Nepali, Bengali and Sinhalese.
+
+	The sort of comparison which Jones had been making might be set out by more recent scholars in Table I,9 using the present tense of the verb ‘to bear’ or ‘to carry’. This table indicates the remarkably close forms in the conjugation of the verb, as well as in the word form itself. It also reflects one of the fundamental principles of linguistics, that of sound shift, where the consonants (and vowels) of one language differ in a consistent way from those of another. Thus the f sound in many Latin words corresponds to the b in Germanic languages — for instance in the Latin frater and the English brother.
+
+
+
+	 Table I – Comparisons of the verb ‘to bear’
+
+	 		 			 English
+
+			 Sanskrit
+
+			 Greek
+
+(Doric)
+
+			 Latin
+
+			 Old High
+
+German
+
+			 Old
+
+Slavonic
+
+
+
+		 			 I bear
+
+			 bharami
+
+			 phero
+
+			 fero
+
+			 biru
+
+			 bera
+
+
+
+		 			 (thou bearest)
+
+			 bharasi
+
+			 phereis
+
+			 fers
+
+			 biris
+
+			 berasi
+
+
+
+		 			 he bears
+
+			 bharati
+
+			 pherei
+
+			 fert
+
+			 birit
+
+			 beretu
+
+
+
+		 			 we bear
+
+			 bharamas
+
+			 pheromes
+
+			 ferimus
+
+			 berames
+
+			 beremu
+
+
+
+		 			 you bear
+
+			 bharata
+
+			 pherete
+
+			 fertis
+
+			 beret
+
+			 berete
+
+
+
+		 			 they bear
+
+			 bharanti
+
+			 pheronti
+
+			 ferunt
+
+			 berant
+
+			 beratu
+
+
+
+
+
+	This really is an extraordinary state of affairs. That several languages of Europe should be derived from Latin is not very surprising. We can fairly readily accept that other European languages (what we would today call the Slav languages) might be related to these and to the Germanic languages also, as well as to Ancient Greek, but that these should be all closely related to many of the languages of India and Iran is something which our knowledge of the history of Europe and Western Asia would simply not lead us to predict. For between Europe and Iran and India lies a great tract of land where very different languages are spoken. So how and why should these five languages, and indeed many others, be related? In 1813 the English scholar Thomas Young10 coined the term ‘Indo-European’ for this widely spread group of related languages, and ‘Indo-Germanic’ is occasionally used in the same sense. But what is the historical reality underlying this relationship? Where did these languages come from? Did they derive from a single group of people who migrated? Or is there an entirely different explanation? This is the Indo-European problem, and the enigma which has still not found a satisfactory answer. It is the central question of this book, and it is also, of course, a central question for European and Asian prehistory. If there were indeed major movements of early populations, which might have been responsible for this language distribution, then they should be reflected in the archaeological record, and they should be part of the story which the archaeologist tells. If, on the other hand, folk movements are not the explanation, and the resemblances between the languages are the result of contacts between the various areas — perhaps through trade, and exchange of marriage partners — then the archaeological record, properly interpreted, should also reflect this. There is very little in the early histories or literature of the languages concerned to explain the links between them. Here, then, is one of the most notable and enduring problems in the prehistory of the Old World.
+
+	The question is not just limited in its interest to the inhabitants of Europe and India. Today most of the inhabitants of North America speak English, and much of South America speaks Spanish or Portuguese. Indo-European languages are spoken wherever the empires of the European colonial powers held sway. We can, of course, give a satisfactory description of the mechanisms for the dispersal of these languages around the globe in colonial times; to account for their original distribution in Europe and other parts of the Old World is much more difficult.
+
+	There is just one possible exception to the lack of historical information. It comes from a remarkable source, once again in India — the Hymns of the Rigveda.11 These religious texts were apparently first set in writing as late as the fourteenth century ad, but they are written in what is agreed to be a much earlier form of language, generally termed Vedic Sanskrit or simply Vedic, than the classical Sanskrit literature of the sixth century ad. They may have been collected and arranged before 1000 bc and were preserved orally, with remarkable accuracy, by being passed on from Brahmin teacher to pupil, until they were set in writing at a time when Vedic was no longer well understood, and indeed when even Sanskrit was no longer spoken. The topographical references in the Rigveda are generally taken to relate to the Punjab, and several of the hymns invoke the support of the gods in supporting the warlike Arya in defeating their enemy the Dasya. There is much talk of horses and of chariots, and many commentators have concluded that some of these passages refer to the initial conquest of the land by heroic, nomadic tribesmen, the Arya. But this interpretation assumes that the Arya, to whom the hymns refer, were intrusive to north India or Pakistan, and there is nothing in the Vedic hymns themselves which makes such a conclusion necessary.
+
+	The early observations of Sir William Jones were soon followed by the much more systematic linguistic researches of scholars such as Friedrich von Schlegel12 and Franz Bopp,13 so that within fifty years the foundations of comparative linguistics were securely laid.
+
+	The same certainly cannot be said of the historical interpretation. When Sir William Jones was writing, it was still widely assumed that the account (and the chronology) of the Creation, given in the Bible, should be literally followed. On the interpretation of Archbishop Ussher, the world was created in the year 4004 bc. This did not, of course, allow very much time for the development of human language or culture. An evolutionary view, with a chronology for human development extending over millions of years only became possible in the year 1859 with the publication of Charles Darwin’s The Origin of Species.14
+
+	Until that time, some of the explanations on offer for the origin of the languages of Western Asia were based on little more than biblical myth. Thus the story15 in the book of Genesis of the three sons of Noah, Ham, Shem and Japheth was taken as a perfectly acceptable explanation for the divergence of early languages. The languages of Africa were thus termed Hamitic, those of the Levant Semitic, and those of the lands to the north Japhetic. This absurd and simplistic terminology to some extent survives today in the usual designation for the ‘Semitic’ group of languages. Arabic is, of course, the principal language of the Near East today, and it can be shown to be related to earlier languages of the area including Aramaic (the language there at the time of Christ), Hebrew and Akkadian (the language of the Assyrian empire), forming together the Semitic languages.
+
+	In the early days of the study, in the aftermath of Sir William Jones’s great discovery, the energies of linguistic scholars were devoted primarily to studying the comparative grammar and the vocabulary of the different Indo-European languages then known. The explanations offered for the distribution of the languages remained at a much more superficial level.
+
+	That this should have been so was perhaps inevitable, since archaeology, especially prehistoric archaeology, did not develop as a discipline until about the middle of the nineteenth century. Most Near Eastern archaeologists were quite naturally preoccupied by the remains of the great civilizations then beginning to come to light. They devoted little time to the more scanty prehistoric remains until well into the present century — although there were notable exceptions, such as the highly original work of Sir Flinders Petrie in Egypt. In Europe in the nineteenth century, much of the best work was very properly devoted to the development of local cultural sequences, and so hypothetical a matter as the supposed relationship between prehistoric archaeology and linguistic reconstruction was not pursued at any very detailed level.
+
+	Around the middle of the nineteenth century the whole study of the subject entered a new phase, which was again linguistic rather than archaeological, but linguistic in a different way. It was by now generally assumed that the similarities in the different Indo-European languages were to be explained by their derivation from a single ancestral language, older than Greek or Latin or Sanskrit, older even than the Rigveda. This Ursprache as German scholars termed it (i.e. early or original language), which we might term Proto-Indo-European, could (they believed) be reconstructed by studying what was common to specific cognate (i.e. related) words in the different languages. For instance a comparison of the English word birch, the German birke, the Lithuanian berzas, the Old Slavonic breža and the Sanskrit bhurja would seem to indicate that there was a parent word for birch in Proto-Indo-European. Through the understanding of the rules governing sound changes, this might be reconstructed as *bhergh — the asterisk being used by convention to indicate reconstructed parent words which were not directly attested in any actual language known.
+
+	What the linguists now suggested was that by building up the vocabulary of Proto-Indo-European in this way — the protolexicon, as it has sometimes been called — it should be possible to construct some sort of picture of the world of these people and of their environment before their supposed dispersal from their hypothetical homeland, the Urheimat, as German scholars termed it.
+
+	This method was lucidly set out in 1859 by Adolphe Pictet.16 Using an analogy with the branch of natural history where early and now-extinct life forms are studied, he called this approach ‘linguistic palaeontology’. Soon scholars were building up a picture of the supposed Urheimat, noting for instance the common Indo-European words for various trees. The common terms for various animals (e.g. sheep, goat, ox, cow and horse) were listed, from which it was sometimes inferred that the economy in the homeland had been one based on pastoralism rather than agriculture. By arguments such as these a whole series of possible homelands was suggested, amongst which Central Asia and Northern Europe were among the favourites. In 1890 Otto Schrader17 put forward the influential suggestion that the appropriate homeland for the Proto-Indo-Europeans might be the South Russian steppe, from the Carpathians to Central Asia, where nomad pastoralism was known to have been practised, at least from the time of the Scythians onward. But he was not yet able to refer to any body of archaeological evidence. Up to this time essentially all the arguments put forward depended on the linguistic evidence alone.
+
+	It was in the later nineteenth century also that the idea of the racial superiority of the Indo-Europeans began. It was generally associated with the notion of blue-eyed, blond Aryans, whose homeland was invariably located somewhere in northern Europe — whether in Germany, in Scandinavia or in Lithuania. This theory grew in popularity in some quarters until after the Second World War, and has been argued in some quarters even subsequently.
+
+	Until the turn of the century, then, the question of the origins of the Indo-European languages had been treated as one to be resolved primarily on linguistic evidence, although of course the Proto-Indo-European language itself must have been spoken in prehistoric times. With the development of prehistoric archaeology it was, however, inevitable that the material evidence surviving from the prehistoric period should be scrutinized for any light it might shed on the question. The first scholar to do this systematically was Gustav Kossinna,18 whose article ‘Die indoeuropäische Frage archäologisch beantwortet’ (‘The Indo-European question answered archaeologically’) was published in 1902. He considered the available prehistoric material, and concluded that the expansion of a group of people, supposedly indicated by the characteristic pottery termed Corded Ware, and by other associated artefacts, indicated the wide dispersal of Indo-Europeans in Germany. He thus proposed a north German homeland for the Indo-European languages. Kossinna was effectively the first to equate prehistoric peoples (and hence languages) with pottery types, and he founded thereby a school of thought which survives to this day.
+
+	The most influential exponent of this approach was V. Gordon Childe, whose first paper,19 ‘On the date and origin of Minyan Ware’, was published in 1915. He argued that this characteristic pottery of the Greek middle bronze age (c. 1900 bc) might be recognized as the indicator of the arrival for the first time of Greek-speaking people in Greece. Childe was a philologist by training, although he later turned to archaeology, and in 1925 produced his great synthesis of European prehistory,20 The Dawn of European Civilization. He combined the two approaches the following year with his book The Aryans,21 where he surveyed each of the four major contestants for the status of the original homeland. He reviewed in turn the archaeological arguments for Asia, Central Europe, North Europe and South Russia, opting firmly for the last of these. In fact Childe’s treatment of the archaeological evidence is much slighter in The Aryans than in The Dawn, and I suspect that The Aryans was in essence the text of the dissertation22 which he wrote in Oxford in 1916 for the degree of Bachelor of Letters.
+
+	As mentioned earlier, the excesses of racialist thought which later defiled European scholarship did not emerge in their most virulent form until rather later, and Childe should not be judged too harshly for the quite limited reliance which in that book he placed on the physical anthropology of the time. Later he regretted expressing the views which he had set out in the very last paragraph of the book:23
+
+	At the same time the fact that the first Aryans were Nordics was not without importance. The physical qualities of that stock did enable them by the bare fact of superior strength to conquer even more advanced peoples and so to impose their language on areas from which their bodily type has almost completely vanished. This is the truth underlying the panegyrics of the Germanists: the Nordics’ superiority in physique fitted them to be the vehicles of a superior language.
+
+	Although Childe later repudiated the approach which he took in The Aryans, he remained deeply preoccupied with the question of Indo-European origins. In a work written just after the war,24 Prehistoric Migrations in Europe, he returned again to the problem, and deployed in doing so all his remarkable command of the archaeological evidence. This time he no longer advocated a homeland in the steppes of South Russia. And although now entirely rejecting any inferences drawn from measurements of skulls, he continued to accept that the approach of linguistic palaeontology, with its reliance on the terms found in Proto-Indo-European, could give useful indications about the homeland. He now favoured an Anatolian origin, seeing the Indo-European languages reaching central and north Europe as late as the late bronze age.
+
+	In the years that followed there were several more important syntheses25 based largely on the archaeological evidence, among them those of Pedro Bosch-Gimpera, Giacomo Devoto and Hugh Hencken. The most influential recent archaeological treatment has undoubtedly been that of Marija Gimbutas, of the University of California at Los Angeles, who since 1970 has published a series of papers26 in which she locates the Indo-European homeland in the steppes of South Russia, very much as Childe did earlier. She, of course, has much more archaeological material with which to work. She uses the term Kurgan culture (i.e. the Barrow culture, referring to the prehistoric burial mounds used in the area) to designate the material assemblage of these Proto-Indo-European speakers. As she wrote in 1970:27
+
+	Constantly accumulating archaeological discoveries have effectively eliminated the earlier theories of Indo-European homelands in central or northern Europe and in the Balkans. The Kurgan culture seems the only remaining candidate for being Proto-Indo-European: there was no other culture in the Neolithic and Chalcolithic periods which would correspond with the hypothetical mother culture of the Indo-Europeans as reconstructed with the help of common words, and there were no other great expansions and conquests affecting whole territories where earliest historic sources and a cultural continuum prove the existence of Indo-European speakers.
+
+	Gimbutas, building on the work of Childe and before him of Schrader, thus lays considerable stress upon the arguments from linguistic palaeontology — the ‘common words’ to which she refers. In the further development of her theory, great weight is placed on especially significant features — for instance the kurgans (burial mounds) themselves, and the Corded Ware which, since the early paper by Kossinna, had attracted the attention of archaeologists. Her work displays full control of the recent archaeological material and of the literature of several east European languages and she may be acknowledged as the leading exponent of the direct archaeological approach today.
+
+	In my view, however, there should be a fundamental re-examination of the foundations of this theory. One important question is the extent to which it is legitimate to reconstruct a Proto-Indo-European language, drawing upon the cognate forms of the words in the various Indo-European languages that are known. Certainly it is questionable whether the nouns (for linguistic palaeontologists make little use of verbs or adjectives) can legitimately be used in the way advocated by Pictet and by Schrader to create an inventory, as it were, of the Urheimat, the original homeland of these Proto-Indo-Europeans. Nor does modern archaeology so readily accept that the appearance of a new pottery style over a wide area necessarily betokens the migration of a whole people or conquest by warrior nomads. The whole assumption that in speaking of early Indo-Europeans we are necessarily dealing with nomads certainly merits re-examination. These issues lead on to more general and fundamental questions. How are we to explain, in linguistic terms, the emergence of languages which are clearly related to each other, and which we can classify into language groups? And in what historical circumstances do we expect to find one language replaced by another in a particular area? Until we have clarified these points, we can hardly go on to consider what trace these processes may leave upon the archaeological record.
+
+	There is a very real risk that in searching for the homeland of the Indo-Europeans, we are founding our arguments upon a circularity. In the passage quoted above, Professor Gimbutas spoke of the ‘hypothetical mother culture of the Indo-Europeans as reconstructed with the help of common words’, and Childe in Prehistoric Migrations used a similar starting point, but we should not overlook the extent to which the linguistic palaeontologists rely upon the archaeologists in reaching their own conclusions. Thus Paul Friedrich, in a consideration of ‘Proto-Indo-European trees’ which is certainly one of the most thorough treatments to date in the field of linguistic palaeontology, actually begins his discussion as follows:28
+
+	This short study treats one small portion of the language and culture system of the speakers of Proto-Indo-European dialects, who are assumed to have been scattered in a broad band over the steppe, forests and foot-hills between the western Caspian and the Carpathians, during roughly the fourth millennium and the first centuries of the third millennium bc.
+
+	His assumption is highly questionable. So complete an adoption of one specific solution to the question of Indo-European origins is bound to have a considerable impact upon his analysis of the origins of the tree-names, and the historical conclusions he reaches. It is scarcely surprising if this theory harmonizes with the historical reconstruction upon which it is based. It is perhaps reasonable that the historical linguistics should be based upon the archaeology, but that the archaeological interpretation should simultaneously be based upon the linguistic analysis gives serious cause for concern. Each discipline assumes that the other can offer conclusions based upon sound independent evidence, but in reality one begins where the other ends. They are both relying on each other to prop up their mutual thesis.
+
+
+
+
+
+2.
+
+
+
+Archaeology and the Indo-Europeans
+
+
+	Anyone setting out to investigate the early origins of a language, or of a group of languages, in whatever part of the world they are working, is faced with an obvious and very substantial problem. It is almost inevitable that no adequate records will survive of the very early forms of the language or languages. We can only have direct knowledge of a language used in the past if it was, at times, employed in the composition of written documents. The existence of writing is indispensable to the adequate study of any past language. But the practice of writing, and the development of a coherent system of signs, a script, is something which is seen only in complex societies, which are also usually urban societies with a centralized government characteristic of the state. Writing, in other words, is a feature of civilizations. In nearly every case these very early written documents were set down by the scribes (or sometimes the priests) working within societies with, what the anthropologist would call, a state level of organization — indeed an urban civilization.
+
+	There are, however, several ways in which it is possible for us to obtain glimpses of fragments of early languages, even when these were not in fact set down in writing by their speakers at the time. For instance the historians and geographers in literate lands did sometimes record something of the customs and vocabulary of their illiterate neighbours. In this way we know a little of the languages of the unlettered communities on the fringe of the Greek and Roman worlds — the people the Greeks called ‘barbarians’. The natural starting point for the Celtic languages is the picture offered by Greek and Roman writers, although it turns out that their view of the Celts was sometimes rather an imaginative one. Those early accounts do contain the authentic names of people and of places in Celtic lands as well as a few words of their vocabulary (see Chapter 9). Our slight knowledge of the language of the Scythians, the nomadic inhabitants of the south Russian steppes in classical times, has come to us in a similar way.
+
+	It is also the case that place names, including river names, do continue to be used in a given area long after their original meaning has been forgotten, so that words belonging to a much earlier and pre-literate form of a language can be preserved by spoken tradition, and first set down in writing long after the original language form has otherwise disappeared.
+
+	On occasion, very much larger nuggets of an earlier language form can be kept through oral traditions. To the modern reader, used to employing written notes as an aide-mémoire, it is almost inconceivable that earlier generations relied exclusively upon their memories to preserve large tracts of literature. But it is now generally agreed that this is precisely how the epics of Homer were preserved, for some centuries after their composition, before they were written down, and the Irish epics were preserved in much the same way. Recent studies of the oral transmission of literature — which generally took the form of songs sung by specialist bards or priests — have shown, in Yugoslavia, Africa and elsewhere, how effectively both the spoken texts and the language in which they were composed can be passed on in this way.29 The Vedic Hymns of India are the most remarkable example of this. They were sung and handed down over the centuries, until the meanings of individual words which had passed out of use, and even of entire passages, became obscure. Only centuries later were they written down for the first time, thus recording a whole literature, and an entire early language form, which would otherwise have been lost completely.
+
+	Oral tradition, however, strengthened in this case by the sanctity of the texts which made accurate transmission a serious obligation, can only occasionally preserve important evidence of an otherwise lost language. It cannot conceal from us that central dilemma facing the study of the early origins of any language: that there is little direct linguistic evidence to go by until the language was first set down in writing. That, almost by definition, will not have happened until the society, after a long period of development, reached the point of formulating a system of writing.
+
+	Early scholars faced this problem, just as we do today. But it was not until the middle of the nineteenth century that an alternative emerged to the sheer fanciful and unbridled speculation which reigned until that time. When the antiquity of man was established,30 it became clear that humankind has a very long prehistory, running back many thousands of years before that nominal date of 4004 bc which some biblical scholars had established for the Creation, and with the development by the Danish antiquaries of the Three Age system, by which the prehistoric past of Europe and the Near East was divided into periods of stone-using, bronze working and then iron production, it became possible to make meaningful statements about that remote past, and the discipline of prehistory was born. Prehistory sets out, of course, to inform us about past human societies dating from a time when writing was not available — and deals mainly with illiterate or (more politely) non-literate societies. By studying their material remains, using the techniques of this newly developing discipline, it was hoped it would be possible to find out about the peoples who first occupied Europe and other lands, to study their origins, and understand how their societies developed into those later societies about which we are better informed, through the availability of written records. As early monuments were recognized, studied and dated, early tombs and cemeteries discovered, and prehistoric settlements unearthed, the realization dawned that it might be possible to know about the subsistence and the settlement and the trade, and perhaps also too the social organization and religion of prehistoric communities.
+
+	If this rich archaeological record, which during the last century was being increasingly well understood, could be interpreted also to yield information about prehistoric peoples, and perhaps also their movements and interactions, should this not make possible certain inferences about the languages which they spoke? That is the central question of this book, and the answer which we shall reach, although critical of much earlier work, is not an entirely negative one.
+
+	There is, of course, nothing much to be learnt of linguistic significance from an assemblage of artefacts belonging to a prehistoric community, when these are taken in isolation. There is no possible way that we can make the ‘rude stones speak’ unless they carry with them some written information. When dealing with an unwritten language it is essential to move back from what is known and understood, towards the unknown. To what extent we can do this, and by precisely which methods, constitutes the nub of the question. First, however, it may be useful to cast an eye over the raw archaeological material and to review the way in which it has been used by succeeding generations of scholars.
+
+
+
+
+
+Patterns of the Past
+
+
+	The whole subject of prehistoric archaeology depends upon the observation that there is patterning in the archaeological record of the past. To say this, of course, is to make the very simple observation that human communities at a specific time and place have their own way of life, which is related to the technological abilities available then. This way of life is reflected in the artefacts, the house remains, the monuments and all the other aspects of material culture which the archaeologist finds. In the early days of prehistoric archaeology the focus of study was upon the chronological aspects of this patterning: that in the Old Stone Age chipped stone tools were used, that with the development of farming a new range of equipment including pottery was developed, and so forth.
+
+	In the early years of this century,31 however, it was realized that there was significant spatial patterning as well as temporal patterning. It was noted that at a given time different assemblages of equipment, for instance different kinds of pottery, were consistently found in adjacent areas. Sometimes these reflected different ways of life in the economic sense: one assemblage of equipment could be ascribed to settled farmers, another perhaps to mobile nomadic groups. But it was also realized that some assemblages in adjacent areas did not reflect the same adaptation to the environment: for instance two very different material assemblages, both belonging to early settled farmers, might be found in the same area. Geographers and anthropologists, especially those belonging to the German ‘Kulturkreis’ school, pointed out the modern parallel with tribal groups in the non-urban areas of Africa, America and the Pacific, and indeed elsewhere, where different tribal groups, with notably different ranges of artefacts, live in close proximity.
+
+	It was natural, therefore, to make a comparable equation for the assemblages of finds on archaeological sites, and to see these as the material possessions of different peoples. This line of inference was developed by such scholars as Gustav Kossinna from around the turn of the century, and it was set upon a much clearer methodological base in 1929 by Gordon Childe.32 He applied the term ‘culture’ to a recurrently occurring assemblage of artefacts from archaeological sites in a region and went on to identify these different archaeological cultures with different ‘peoples’ in the ethnographic sense. At first sight, it looks like an excellent idea, and for Childe it opened up the way to discussing the origins and movements of these ‘peoples’,33 and hence perhaps also of the languages which they spoke, even though there could be no direct evidence for these.
+
+	This rather obvious-looking first step in fact hides quite a complex and problematical process of reasoning. We shall see that the concept of ‘people’ is far from a simple one in many cases, linking as it does with the whole question of ethnicity. The equation of different languages with different ‘peoples’ as reconstructed in this way is even more hazardous. Later we shall come to reject the solutions which Childe and others have proposed for the Indo-European problem and do so largely out of dissatisfaction with the methods of reasoning used about these issues.
+
+
+
+
+
+The Raw Material: Europe in the First Millennium bc
+
+
+	The first literate communities in Europe were the Greeks and Romans. It thus makes excellent sense for any investigation into European language origins to start with the Greek and Latin languages and with their European contemporaries. For here at least we can study, in conjunction, the languages on the one hand and the archaeological remains on the other. This was the starting point for most scholars in this field. It was only in the present century that still earlier Indo-European languages became known from Europe and Western Asia.
+
+	The material works of the Greeks and Romans had, of course, been well known and well studied since the Renaissance. These researches were at first limited mainly to the standing monuments, to major works of sculpture and to the handsome, red and black painted vases of which so many were found in the tombs of Etruria in Italy that they were initially called ‘Etruscan’. Only later was it realized that the finest of these were in fact of Greek manufacture, exported to Italy, and buried by the Etruscans in their tombs.
+
+
+
+
+
+		 			 FIG. 2.1 Geometric vase from Thera c. 750 bc. Height 77 cm (after Finley).
+
+
+
+
+
+	The German excavations at Olympia in the later part of the nineteenth century effectively initiated the study of the early, pre-classical Greeks.34 With the development of Greek archaeology, however, it soon became clear that before the heyday of Greek civilization in the fifth and fourth centuries bc there was an earlier Archaic period contemporary with the earliest known Greek inscriptions, and that before this again was a formative period, characterized by pottery largely lacking in figured decoration, yet profusely ornamented in rectilinear style. For this reason it was termed Geometric pottery. This, and its predecessor, Proto-geometric pottery, is the dominant ceramic find for the tenth to eighth centuries bc in Greece, and with it, from cemeteries and settlements, comes a wealth of other finds illustrative of the formative phase of Greek civilization.35
+
+	Before the Proto-geometric period, in the eleventh century bc came what was for long regarded as the ‘Dark Age’ of Greek civilization, which archaeological research is only now beginning to clarify. Before that was the Mycenaean civilization, whose scribes, as we now know, wrote an early form of Greek.
+
+	The Romans were, of course, the other great early literate civilization of Europe. The characteristic pottery and other finds of the Roman empire had been familiar for centuries, but again it was only during the last century that archaeology began to reveal something of early Rome itself.36 Archaeologically its origins go back to the early iron age of Latium, just as those of its rival civilization the Etruscans to the north, soon to be eclipsed by Rome, go back to the iron age of Etruria. The processes by which these complex societies of the Italian iron age emerged from the background of the Apennine bronze age are currently the focus of active research.37
+
+	To the north and west of the Alps at the time of early Greece and Rome were those tribal groups which the classical authors call Gauls or Celts. The task of the archaeologist thus seemed a relatively straightforward one in identifying the material culture used by the inhabitants of the time, and hence the artefacts of these Celts.
+
+
+
+
+
+		 			 FIG. 2.2 Sword scabbard from La Tène, with incised decoration (c. 300 bc). The finds from La Tène gave their name both to a culture and an art style generally associated with the Celts (after Vouga).
+
+
+
+
+
+	It was in 1872 that the Swedish archaeologist Hildebrand used the archaeological finds from the north Alpine area to divide the pre-Roman iron age there into two phases, which he named Hallstatt and La Tène, after sites of important archaeological discoveries in Austria and Switzerland. Together these phases cover most of the first millennium bc. The finds from La Tène included iron swords, some of them with splendidly decorated scabbards, whose art style could be compared with finds from chieftains’ graves in France and Germany. It was the British scholar Sir Augustus Franks38 who was the first to realize the geographical extent of the La Tène culture, and to identify it with the Celts, described by classical writers such as Caesar and the geographer Strabo. Then in 1871, the French scholar Gabriel de Mortillet indicated the resemblance between swords, spear-heads and brooches found in north Italy and those from the Marne area of France. He suggested that the north Italian finds were the equipment of the Celtic invaders of Italy, about whom a number of classical writers including Livy had written. The Celts as they appear in the classical writers had thus been identified archaeologically, and a distinctive art style, generally designated after the site of La Tène, had been recognized as special to the Celts. The languages spoken by the Celts and Gauls described by the classical writers also came to be classified as ‘Celtic’. This was perfectly reasonable, but we should note that the term ‘Celtic’ was by now being used in four different ways: to refer to the people so called by the Greeks and Romans, to designate a group of languages, to name an archaeological culture, and to indicate an art style. (The substantial problems caused by the equation of these overlapping, but in reality rather different, concepts are discussed in Chapter 9.)
+
+	The origin of these ‘Celts’ was naturally sought, and the assumption was rarely explicitly questioned, that the origin for the ethnic group, the language group, for the culture and for the art style would be one and the same. The prevailing model for culture change at the time was essentially a migrationist one. So it was almost inevitable that archaeologists should speak of ‘waves’ of migrating Celts. It was generally agreed that the Hallstatt culture which preceded La Tène also represented Celtic-speaking peoples. The question then arose as to whether its late bronze age predecessor, generally termed the Urnfield culture, was an immigrant one, bringing the first Celtic speakers to western Europe, or whether much earlier archaeological cultures should instead be regarded in this way.
+
+	The other name used by the classical authors to designate tribal groups of central and northern Europe, and specifically those in lands to the east of the Celts and Gauls, was ‘German’. The finds from these areas, broadly occupying modern Germany and parts of Scandinavia, are in many ways similar to those from their contemporaries to the west, but the striking ‘Celtic’ La Tène art style is less common and there are not such splendidly rich, princely graves as are found further to the south and west, where contacts with the classical world were stronger. Further east on the other hand, the Thracians (in what is today Bulgaria) and the Scythians north of the Black Sea buried their princes under richly furnished mounds. The golden objects within them were often decorated in a lively animal style which is related to, and may indeed originally have influenced, the La Tène style of the Celtic areas.
+
+	These then are some of the elements of the archaeology of the first millennium bc, the European iron age,39 which scholars were able to discuss and sometimes to associate with the earliest securely documented Indo-European speaking groups in these areas.
+
+	It should be noticed that throughout much of Europe, iron age society was a warlike society. Princes and chiefs were buried with richly decorated swords and other weapons and chariots were widely used in battle in the later iron age. It is easy then to see in these remains, especially in the richer burials, the sort of heroic society which we encounter in the epics of Homer, or in the early Celtic literature of Ireland, or indeed in Caesar’s narrative of his conquest of Gaul.
+
+	Where did these people come from, and what was the source of the underlying community of language which these various Indo-European speakers shared? To answer this, scholars naturally turned to earlier periods.
+
+
+
+
+
+The Raw Material: The Earlier Prehistory of Europe
+
+
+	Before the first millennium bc, the time of the Greeks, Romans and Etruscans, the Celts and the Germans, stretch the long, non-literate ages of European prehistory. It is from the interpretation of the material remains of that time, as recovered by archaeology, that some solution to the Indo-European problem must come, if any is to be found. Earlier archaeologists saw that prehistory in terms of migrating tribes of people, whose movements would explain the changes in the material culture which may be observed in different areas. Today we are less inclined to think in migrationist or diffusionist terms; but there are certainly changes in the material record, reflecting major transformations in the way of life, which remain to be accounted for. It is scarcely possible here to give a systematic account of European prehistory,40 but it is appropriate to mention some of those changes which, either because they do indeed seem to have been of profound significance, or because they have been seized upon by scholars in this field, are of possible relevance. At the same time it is pertinent to indicate some of the problems prehistorians are now studying.
+
+	To go deep into the past, the earliest hominids for which we have evidence in Europe came into the area around 850,000 years ago. The earliest of them made simple chopper tools, for instance those from Vertesszöllös in Hungary. They resemble tools of some of the early hominids found in the Olduvai Gorge in Tanzania, where hominid origins have a much longer prehistory. Later in Europe those handsome implements known as ‘hand-axes’ came to be used. The fossil remains of their makers were formerly classified as Pithecanthropus erectus (‘the upright ape man’), now termed Homo erectus. Around 85,000 years ago a rather different tool kit, or series of tool kits, was made, with less emphasis on hand-axes and more upon flakes: it is termed Mousterian, and its maker was Neanderthal man, now classified as Homo sapiens neanderthalensis. It is not until around 33000 bc that fully modern man, Homo sapiens sapiens, makes his appearance in western Europe along with a different industry of stone tools, laying more emphasis upon blades than on flakes.
+
+	Quite how this fundamental change took place — the establishment of modern man upon European soil — is not yet clear. It may be that our species arrived here by a simple process of migration, whether from Africa or the Near East, with the resultant gradual displacement of the pre-existing Neanderthal population. Or it may be that Homo sapiens sapiens emerged as a consequence of a process taking place over a much wider area, so that Europe may have been part of that initial area of emergence. This is one of the most interesting questions under investigation at the present time. Certainly during the warmer spells in the latter part of the last glaciation, much of Europe, including south Britain, came to be occupied by such hunter-gatherer groups, physically indistinguishable from modern man.
+
+	With the end of the last glaciation around 8000 bc and the retreat of the ice sheets northwards, north Europe presented a very different landscape, which necessitated a different mode of exploitation by the various human groups. Collectively these are sometimes termed ‘mesolithic’, with an economy based on the exploitation of marine and riverine resources as well as hunting and gathering. Characteristically the tool kits of these hunter-gatherers included numerous small bladelets termed ‘microliths’. The material assemblage differs quite clearly in its details from area to area, so that it is quite possible to speak of different ‘cultures’ in Europe at that time in the sense employed by Gordon Childe. One of the most interesting questions in current research is precisely when in the course of human development such culturally distinct groups with different assemblages of artefacts emerged, and precisely how they should be interpreted. At present it seems that such differentiation may have made its appearance during the Upper Palaeolithic, that is to say shortly after the appearance of anatomically modern man.
+
+	In all of these areas a profoundly important transition took place, rather earlier in the south than the north: the development of farming, based largely upon cereal agriculture and the raising of livestock.
+
+	The development of farming in Europe is a matter for discussion. The earliest farming settlements in Europe are seen by 6500 bc in Greece, and very soon after in the western Mediterranean. By 3000 bc nearly all of Europe except the extreme north was occupied by a great diversity of communities, all of them relying on farming to a significant extent. (Whether the new economy, which was partly based on domestic plants and animals not native to Europe, was the result of an influx of new human population, or was rather the consequence of a process of adaptation by the existing populations of the area is further considered in Chapter 7.) These communities did differ considerably from each other in their farming practice, social organization, monuments (if any), pottery and equipment. Moreover in south-east Europe copper metallurgy had developed by this time, and it was beginning in Iberia too. Quite how copper metallurgy began in Europe has been a matter for debate. I have argued that this was a local and independent development, which took place before 4000 bc. It was not until after 2500 bc that tin was used as an alloying agent to make bronze. This specific technical advance does seem significant, since major trading networks then emerged across Europe, in which copper, bronze and by inference tin played a major role.
+
+
+
+
+
+		 			 FIG. 2.3 Corded ware from northern and eastern Europe (after Childe).
+
+
+
+
+
+	In a brief synopsis of European prehistory it is possible only to refer to some of the more obvious and widespread developments. One of these, especially notable in parts of western and north-western Europe onwards, was the practice of constructing impressive collective burial monuments of large stones, the megalithic tombs. These are bound to have a place in our discussions because their distribution was initially explained in terms of a migration or influx of people, the ‘megalith builders’. Later their development was ascribed instead to a process of the diffusion of culture — that is to say to influences from more civilized lands in the Near East — but the calibration of radiocarbon dating has made this explanation untenable, since the earliest examples of such tombs up to now investigated have been found in Brittany. A local European origin for them is now generally preferred. However, this does not really explain why these burial monuments are found along the Atlantic coasts from Iberia to Britain and Denmark, yet not in central or eastern Europe. Although the hypothesis of independent origin seems well established, there are still puzzling features to this process, and much to explain.
+
+	Towards the end of the neolithic period in Europe, which is simply to say around the time that bronze was beginning to come into use shortly after 3000 bc, new ceramic forms associated with new burial customs are widely seen. In northern and eastern Europe, single burials (in contrast to the earlier collective burials) are found under low earth mounds or tumuli, accompanied by new kinds of pottery and often by a handsome stone axe provided with a shaft hole, and often termed a battle axe. The pottery is often decorated by means of impressions of fibre cord, and so is termed ‘corded ware’. In central and western Europe, from around 2600 bc, a rather different burial assemblage is found, also with single inhumations covered by a round tumulus. The characteristic grave goods are a deep, handleless pottery drinking cup or ‘beaker’, a copper dagger, generally of a type with a hafting tang, and other characteristic forms.
+
+
+
+
+
+		 			 FIG. 2.4 Beaker assemblages from Britain and Hungary showing Beaker pottery, copper dagger with tang and archer’s wrist-guard (after Shennan).
+
+
+
+
+
+	This beaker assemblage was in the past, and is still today, often regarded as the indication of immigrant groups of people. A more recent and alternative view is that the distribution of these burials, with their prestigious gravegoods, is due to the establishment of networks of social contacts, sometimes serving also as trading networks, where prominent individuals displayed their high status through the ownership and use of such objects. Certainly in the succeeding early bronze age, still richer burials are commonly found, and it is clear that a new social principle of ranking has emerged, displayed in the ostentatious use of costly objects. This process of the emergence of ranking is currently one of the most actively discussed in the field of European prehistory, and different approaches are taken by those with different theoretical standpoints. To my mind the most persuasive arguments suggest an explanation in terms of the internal workings of the societies themselves, but even within these terms very different scenarios have been offered.
+
+	These developments in burial and artefact use are indicated here because they have often been discussed in considerations of the Indo-European language problem, and it was natural to look in the archaeological record for some correspondingly widespread phenomenon. If that could be equated with a possible influx of new people into the area, then the ready ingredients of some sort of explanation were there.
+
+	At about the same time that these developments were taking place in central and northern Europe, striking but very different changes were underway in the Aegean. In Crete, around 2000 bc, a palace-based society emerged, showing the literate bureaucracy which we associate with state societies: the Minoan civilization. It was followed, after some four or five centuries, by the Mycenaean civilization of Greece. These were the first European civilizations, and from that time onwards, apart from a brief interlude, the Aegean was the home of societies that were at least in part both literate and urban.
+
+	These days, the development of the full European bronze age is generally seen as representing a continuity with the preceding beaker phase and its contemporaries, but in the later bronze age a new burial custom is seen over much of central Europe and indeed beyond. This is the practice of cremation, with the burial of the ashes and some gravegoods in a large pot or urn. Communities displaying this burial form have often been collectively designated as Urnfield Cultures, just as the predecessor was sometimes termed the Tumulus Culture. Certainly an outside source has at times been sought for the bearers of the Urnfield Culture; but many observers agree that to say this puts too much emphasis upon the burial custom, and that the continuities with preceding periods should not be overlooked. Once again it is the task of the prehistorian to seek to understand and in a sense to explain these changes. It is often easier to see what was wrong with earlier explanatory frameworks, with their emphasis on migration and diffusion, than it is to develop consistent and compelling alternative explanations.
+
+	Around 1000 bc iron working is first seen on a significant scale in Greece and in south-east Europe, and shortly thereafter in much of the rest of Europe, and this was the time of the emergence of chiefdom societies in south France and Germany during the Hallstatt iron age, with prominent individuals being given a princely burial. By about 600 bc the first Greek colony was founded on the south French coast at Massalia (Marseilles) and from then on greater quantities of imported goods are found in these rich burials. Indeed it may well be that the early Celtic chieftains and their precursors achieved wealth and prominence by controlling the flow of imported goods to their own territories. Be that as it may, this contact represents the sort of interaction between the literate Mediterranean world and the chiefdom societies of the ‘barbarians’ to the north, referred to by the various classical writers. It was this interaction and these records which brought them within the light of history, and which therefore is responsible for the direct knowledge which we have of their languages.
+
+	From this time onwards literacy spread in Europe and, despite some recession at the fall of the Roman empire, it survived to the extent that we have at least some knowledge of nearly all the European languages spoken since that time down to the present day.
+
+
+
+
+
+Archaeology and the Indo-Europeans: Earlier Syntheses
+
+
+	Nearly all scholars who have considered the Indo-European problem have felt able to propose a specific place of origin, a homeland, for those early speakers of a Proto-Indo-European language, postulated as ancestral to these languages which were later recorded and therefore known to us. One exception was the Russian scholar, N. S. Trubetskoy, who questioned the whole notion of an ancestral Indo-European language. A similar position has been taken up much more recently by Jean-Paul Demoule. Such critical examination of our assumptions is necessary if a solution to the problem is ever to be found. With these notable exceptions, however, the various theories currently available differ primarily in the location of the Urheimat, the area where the Proto-Indo-Europeans supposedly lived before splitting and setting off in their different ways. They differ also about the date, or dates, at which this supposed split occurred.
+
+	The case for a homeland in the eastern part of the area of the modern distribution of the languages had not been argued recently with any conviction until the paper by the Soviet scholars, Gamkrelidze and Ivanov, was published in 1983.41 In 1927, A. H. Sayce, who was the first to recognize the extent of the Hittite empire in Anatolia (see Chapter 3), suggested that42 ‘It was in Asia Minor that the Indo-European languages developed’. However this was not backed up by the detailed archaeological evidence found in Europe, and was a simple but rather shaky exercise in linguistic geography. The same may be said of the arguments of Lachmi Dhar in 1930 for an Indian origin.43 Probably the most interesting arguments for an Asian source were those of Wilhelm Koppers44 in favour of an origin in west Turkestan, in view of the supposed similarities of the Indo-European languages to those of the Altaic peoples. But again this was not followed up with any detailed analysis as to how and when the supposed dispersal occurred. Such arguments, with an emphasis on the importance of the horse, were followed up by Wilhelm Schmidt in 1949.45 He envisaged two ‘waves’ of colonization reaching Europe from the east. Despite the interest of his ideas, he was not very precise about when these movements occurred, nor indeed where they began. No detailed case, with a consideration of the archaeological evidence, has ever been set out for an Asian homeland.
+
+	Western Europe has never been considered as a homeland, nor has southern Europe often seriously been put forward until the very interesting, recent paper by Diakonov.46 Indeed it is fair to say that most subsequent arguments have followed either the lines first set out by Kossinna for north-central Europe, or by Schrader, followed by Childe, for east Europe and the margins of the steppe lands. Just one or two scholars have in fact opted for northern Europe (e.g. Lithuania), but the arguments are close to those for north-central Europe, and they can be taken together.
+
+	Before considering these two main contenders, however, it is worth mentioning the interesting suggestion of Herbert Kühn,47 made in 1932, and followed up by Gustav Schwantes48 in 1958, that it was necessary to go right back to the palaeolithic period, and specifically to the Magdelenian culture, well before 10000 bc, in order to find the necessary cultural unity for a suitable homeland. He suggested that the original roots of the Proto-Indo-European cultures should be sought right back in the Aurignacian culture, which can today be set around 30000 bc. Kühn did not, however, offer any explanation for the existence of the eastern group of Indo-European languages, and restricted his consideration to Europe.
+
+	The north central European option, as proposed by Kossinna in 190249 and subsequently elaborated by him, was the first to take specific bodies of archaeological material and to treat them in detail, using the supposed spread of particular pottery forms as indicators of the movements of groups of people. He drew attention to the Linear Pottery (decorated with curved lines incised into the surface before firing) which is today regarded as the earliest pottery from the first farmers of Germany and Holland. This, in his more elaborate theories, he saw as having a northern origin, and as being displaced southwards under Indo-European pressure from the north, and as ultimately moving east so that the Linear Pottery people would also be ancestral to those speaking the eastern Indo-European languages, such as Persian and Indian. Among the groups whose expansion from northern Europe supposedly formed the impetus for the further process of dispersion were the people making the cord-decorated pottery known as Corded Ware.
+
+
+
+
+
+		 			 FIG. 2.5 Linear-decorated pottery (after Kilian and Kahlke).
+
+
+
+
+
+	Kossinna’s approach in many ways seems a very unsatisfactory one today, but no one could deny that he had a very thorough grasp of the prehistoric material. He was the first to treat a particular artefact type — a pottery form, or even a style of decoration — to trace what he thought were the migrations of groups of people and the displacement of languages. This general approach was closely followed by Gordon Childe, and it is still widely found today.
+
+	The main alternative theory, and the one now favoured among many linguists, is that of the south Russian homeland. The case for it was first made on linguistic grounds by Schrader,50 and in 1926 by Gordon Childe in The Aryans. Childe had no hesitation in defining the south Russian steppes as the homeland of the early Indo-Europeans.51
+
+	Having surveyed all other regions of Europe we turn to the South Russian steppes. The climate and physiographical features thereof, as Otto Schrader so convincingly argued, correspond admirably to the characters of the Aryan cradle as deduced by linguistic palaeontology. And the earliest connected remains of post-glacial man there likewise reveal a culture which harmonizes to a remarkable degree with the proto-Aryan culture described by the philologists. The remains in question are derived almost exclusively from graves containing contracted skeletons covered with red ochre (ochre-graves) and surmounted by a mound or kurgan. The people here interred were generally tall, dolichocephalic, orthognathic and leptorhine, in a word Nordics. There was however, at least a small minority of brachycephals present in the population.
+
+The material from the poorest kurgans is poor and rude, yet is relatively uniform over the whole area from the Caspian to the Dniepr. . . . In the first place these Nordics of the steppe were pastoralists, since the bones of animals are found in the kurgans. The remains include not only sheep and cattle but also the bones of that peculiarly Aryan quadruped the horse. . . . The ochre grave folk further possessed wheeled vehicles like the Aryans, since a clay model of a wagon has been found in one such grave. . . .
+
+We have seen in the preceding chapters that the characteristic attribute and symbol of the Nordic cultures which we now recognize as Aryan was the perforated battle-axe. Now the genesis of this very peculiar weapon can be explained in South Russia better than anywhere else.
+
+	He went on to discuss ‘The Migrations of the Aryans’:52
+
+	One such expansion will be admitted even by the Germanists. It led the battle-axe folk to Troy and the east Balkans. . . . But the most compact and ruthless body of invaders would have been those who used cord-ornamented pottery. Their starting point would be near the Donetz valley where such pottery is found in the oldest class of barrows and whence their kinsmen would have set out for Transylvania. . . . Thus Kossinna’s migrations would be reversed.
+
+	With that last, telling phrase, Childe described very accurately what he had done — for much of Kossinna’s reasoning was taken over by Childe. The further process of the spread of the Indo-European languages westward and southward from central and northern Europe could follow some of the outlines which Kossinna had proposed. The essential difference was that Childe had Single Grave/ Corded Ware/ Battle-Axe peoples moving westward from the steppes of south Russia rather than eastward, as Kossinna had done. In this way, also, Childe’s early Indo-Europeans had more easy access, so to speak, to Anatolia, Iran and India. Kossinna’s notions on this point were very hazy and were seen as weak right at the outset. Moreover Childe could emphasize the role of the horse in some of the migrations, and could link the economy of pastoralism with the early Indo-European dispersal.
+
+	Childe’s theory has been developed and elaborated by various other workers. In 1933 the Polish scholar Tadeusz Sulimirski supported the idea of a steppe homeland for the Corded Ware culture.53 Childe returned to the question in 1949 in his Prehistoric Migrations in Europe,54 and there inclined more towards an arrival of Indo-Europeans during the late bronze age of Europe, aided by the horse-drawn chariot and the war horse. He identified the ‘Urnfield’ groups of the late bronze age as the principal agents of the migration process. He was by now much less definite about the location of the original homeland.
+
+	By far the most influential recent exponent of the steppe homeland theory has been Marija Gimbutas. Her ‘Kurgan’ theory, like Childe’s, rests on the view that the Proto-Indo-European culture predicted by linguistic palaeontology and by other arguments may be equated with the rather homogenous Kurgan culture found in the Pontic and Volga steppes. She argues that distinct features of this Kurgan culture were widespread in east Europe at the end of the copper age there. She first set out her views in 1956, and in successive papers in 1968, 1970, 1973 and 1979 filled in the details, using a very full knowledge of the Russian material as well as that of eastern Europe.55 In the 1970 paper she illustrated the Kurgan expansion with the map reproduced in Fig. 2.6. A succession of Kurgan ‘waves’ of expansion was set out, the fourth influencing the Vučedol culture of Yugoslavia. This was significant for the further ‘Kurganization’ of Europe by the Bell Beaker people:56
+
+	The Bell Beaker complex, an offshoot of the Vučedol bloc, continued Kurgan characteristics. The Bell Beaker people of the second half of the third millennium bc were vagabondic horse riders and archers in much the same way as their uncles and cousins, the Corded people of northern Europe and Catacomb-grave people of the North Pontic region. Their spread over central and western Europe to the British Islands and Spain as well as the Mediterranean islands terminates the period of expansion and destruction.
+
+
+
+
+
+		 			 FIG. 2.6 The homeland area of the Kurgan culture (shaded), identified by Gimbutas as the earliest Indo-European speakers. The dotted area represents ‘the area infiltrated not later than 4000–3500 bc’; arrows show tentative movements after c. 2500 bc (after Gimbutas).
+
+
+
+
+
+	In her 1973 paper she goes further, to link the development of the bronze age with the Kurgan peoples:57
+
+	The rapid spread of bronze metallurgy over the European continent was due to the mobility of the Indo-Europeans. The appearance of bronze weapons — daggers and halberds together with thin and sharp axes of bronze and mace-heads and battle-axes of semi-precious stone and flint arrowheads, coincides with the routes of dispersal of the Kurgan people. The name ‘Kurgan’ is a blanket name for a cultural complex that caused a dramatic change in Europe as is assumed by this author to represent the Indo-European culture of the 5th, 4th and 3rd millennia bc.
+
+	This view of the problem has been followed by a number of further scholars such as Stuart Piggott in his Ancient Europe.58
+
+	Although the central-north Europe position of Kossinna, and especially the south Russian view of Childe and Gimbutas, represent the two most influential positions today, there are certainly others of note. P. Bosch-Gimpera in 196059 argued for a central European area of formation of the Indo-European peoples, back in the early neolithic period, so that the differentiation of the various Danubian cultures in the later neolithic would correspond to the dispersal of the Indo-European peoples. The other major study of recent years is that of Giacomo Devoto, published in 1962,60 although he reaches no such clear-cut conclusions about an original homeland.
+
+	Most of these studies, while based on a very thorough knowledge of the archaeological material from Europe, like the review undertaken by Hencken61 (for few could claim to equal the encyclopaedic grasp of a Gordon Childe or a Marija Gimbutas), rest almost without exception on a series of assumptions going back to the time of Otto Schrader and Gustav Kossinna. It is now necessary to question these. If they are rejected, it soon follows that the conclusions that have been drawn from them are to a large extent erroneous. This in turn has a number of serious consequences for our understanding of European prehistory and of the origins of the peoples of Europe. Before undertaking this critical re-examination, however, it is appropriate to take a closer look at the evidence now available for the earliest documented Indo-European languages.
+
+
+
+
+
+3.
+
+
+
+Lost Languages and Forgotten Scripts: The Indo-European Languages, Old and New
+
+
+	The Indo-European (or Indo-Germanic) languages, spoken in countries as far removed as Ireland or Brittany in the west and India and Pakistan in the east, are generally supposed to owe their affinity to some common descent. This conclusion derives from the idea of a family tree, although it does not deny that languages can converge, as the ‘wave’ idea predicts, with the acquisition of loan-words and other features from one language to another. Few scholars today would go so far as Trubetskoy in suggesting that there is no genetic or family-tree relationship at all among the Indo-European languages, and that they just came to resemble each other through the effects of prolonged contact. And very few indeed would agree with the French archaeologist, Jean-Paul Demoule,62 that there really is no Indo-European language group at all, or that the similarities observed are unimportant, insignificant and fortuitous.
+
+	If we are to criticize recent attempts to explain the origins of these languages, and then to offer some alternative, and hopefully better-based, explanation in their place, we need to look more closely at the similarities between them, in particular the languages which are documented from early times.
+
+	Here we are aided by some remarkable discoveries which, along with the study of the early religious hymns of India (the Rigveda) and their counterpart in early Iran (the Avesta) have transformed our perception of the problem.63 Each was in its way highly romantic, and they show how the discoveries of archaeology can advance our knowledge in altogether unexpected ways. Nothing is more mysterious or more intriguing than the discovery of a hitherto unknown language in an unreadable script, and few advances in scholarship are more dramatic than the decipherment of such a script and the subsequent translation of the language in which it was written.
+
+
+
+
+
+1 The Language of the Persian Kings
+
+
+	When the early European travellers first systematically explored Iran in the seventeenth century, the great Persian Empire which Alexander the Great had conquered was known only through the writings of the Classical writers, principally of Herodotus.64 He had reported in detail the Persian Wars, some 260 years before Alexander’s conquest, when Darius the Great King, and then his successor, Xerxes, had twice come close to destroying the growing power of Athens and of Greece.
+
+	The history of the Persian empire was well documented through these Greek sources, but on the ground nothing was known or understood. It was not until 1621 that the Spanish ambassador to Persia correctly identified the site of Persepolis, the great Persian palatial centre. He commented on the relief sculptures, which offer such a vivid picture of life and clothing as they were in the early fifth century bc, and he went on to describe an inscription in the language of the Persian Empire — an Indo-European language then unknown to scholarship:65
+
+	There is a remarkable inscription carved on black jasper. Its characters are still clear and sparkling, astonishingly free from damage or deterioration despite their very great age. The letters themselves are neither Chaldean nor Hebrew nor Greek or Arabic nor of any people that can be discovered now or to have ever existed. They are triangular, in the shape of a pyramid or miniature obelisk and are all identical except in position and arrangement. But the resulting composite characters are extraordinarily decisive and distinct.
+
+	This is the script which later scholars have come to call ‘cuneiform’ — meaning literally ‘wedge-shaped’. It was a system of writing which we now know was invented by the Sumerians, the people of the first civilization of the Near East, shortly after 3000 bc. In modified forms it was used in many of the Near Eastern languages, several of which belonged to the Semitic language group. It was first illustrated by the Italian, Pietro della Valle, after his own visit to Persepolis in a letter published in 1658. Splendid inscriptions from the royal palaces at Persepolis and from other sites were published by later scholars. It was an enterprising officer of the British East India Company, Henry Rawlinson, who completed the task of its decipherment. Already in 1835–7, while on posting to Persia, he accomplished the considerable feat of copying the great rock inscription of King Darius on the cliff at Behistun. Then, relying on the start with the decipherment which earlier scholars had made, and on his knowledge of the languages of the Avesta, the sacred books of the Zoroastrian religion (which were set down in writing many centuries after the Old Persian inscriptions were carved) he was able, by 1839, to unlock the system. Later workers have improved on his decipherment, but by 1846 Persian cuneiform had effectively been deciphered and translated. This was in its way almost as great an achievement as the decipherment by the Frenchman, Jean-François Champollion, some twenty-four years earlier of the famous Rosetta Stone, by which the hieroglyphic script of the Ancient Egyptians was first read by modern scholars. As Champollion’s decipherment opened the way to the literature of Ancient Egypt and made possible the discipline of Egyptology, so Rawlinson’s decipherment was the first major step in Cuneiform studies, and led to the reading of the earliest texts of the Near East.66
+
+
+
+
+
+		 			 FIG. 3.1 Old Persian inscription in cuneiform script as recorded in the eighteenth century at Persepolis (after Niebuhr).
+
+
+
+
+
+	Rawlinson was working with inscriptions carved on rock in a form of cuneiform script which was used to record the Old Persian language, the language of the court of King Darius. However his decipherment held a far greater significance than this, for at this time, great quantities of clay tablets were being found in the course of excavations in the Near East. These were the archives of the palaces and temples of the early cities of the first civilizations of Mesopotamia. They were written in a variety of languages, but most of them were set in writing in some form of cuneiform script. Moreover, some of the great rock-cut inscriptions which Rawlinson had studied reproduced the same text in three languages. At Behistun in 520 bc Darius the Great recorded the official version of the controversial events surrounding his accession to the throne, in three different types of cuneiform script. A relief, showing the king triumphant over rebels, is flanked on the viewer’s right by the text in Elamite; on the left is the version in Babylonian (i.e. Akkadian); below is the text in the Old Persian language written in a new type of cuneiform script, of which Darius writes: ‘I have made the writing of a different sort in Aryan, which did not exist before.’ When an extension to the relief in 518 bc damaged the Elamite text, a second identical Elamite version was added. This was the language of Susa in south-west Iran. It is a language which, like Basque in modern Europe, is unrelated to its neighbours, and is unlike any other language known. Babylonian, on the other hand, belongs to the well-known Semitic group of languages, and with the aid of the understanding offered by other Semitic languages (including Hebrew) and the great trilingual inscriptions, the Babylonian cuneiform script could soon be read and its language translated.
+
+	Rawlinson’s decipherment of Old Persian cuneiform thus opened the way to the reading of Babylonian, and the related Assyrian languages, so that much of the literature of the early Near East was unlocked. Two further languages of interest to us were also written in cuneiform scripts: Hittite and Hurrian. The development of the various cuneiform scripts has been set out by Maurice Pope (see Table II).67
+
+
+
+
+
+		 			 Table II – The descent of the cuneiform scripts
+
+
+
+
+
+	It should be noted here that the family tree shows how the different scripts are related to each other: it does not indicate relationships between the languages themselves. Similar tables have been made to indicate the descent of the alphabetic scripts which we ourselves use, following the Greeks and Romans. The Greeks developed the alphabet from the Phoenicians, who spoke a language which does not belong to the Indo-European group, but rather to the Semitic group, along with Hebrew, Babylonian and Assyrian.
+
+	From the point of view of the Indo-European languages, Rawlinson’s achievement was to bring to light the Old Persian language. This was the ancestor of modern Persian, in much the same way that Latin was the ancestor of French and Italian. And somewhere between the two, between Old Persian and modern Persian, come the languages of Middle Persian, including those of the Parthian and Sassanian kings who ruled Persia at the time of the Romans. The language of the books of the Avesta is a sister language of Old Persian, and these sacred hymns may go back as far as the time of the Persian kings, including Darius, although they were not set down in writing until very much later. As with the sacred hymns of India, the Rigveda, they were preserved orally for many centuries first.
+
+	Several of the known Indo-European languages, like Ancient Greek and Latin, the Old Celtic tongue of the epics, the Vedic Sanskrit of the Rigveda and the Old Persian of the Avesta, had all become dead languages — that is to say they were no longer spoken actively as a first language by any living group of people. But they were nonetheless all remembered, in their different ways, by scholars or by priests. They have never been entirely lost. The decipherment of Persian cuneiform brought to light the first ‘lost’ Indo-European language. Yet, despite its importance for Near Eastern studies this was not an altogether unexpected result. What had been brought to light was the ancestor of modern Persian and of the Middle Persian languages, and the sister language of the Old Persian language of the Avesta. Moreover, before the decipherment a good deal was already known about the Persian Empire, including the names of its kings, from Greek sources. The next decipherment was far more extraordinary in its revelations.
+
+	We can use this discussion of the Iranian languages to introduce again the notion of the Indo-Iranian group of the Indo-European languages. The term Old Iranian includes both the language of the hymns of the Avesta and of the cuneiform inscriptions. The other side of the family is represented by the Vedic language of the Rigveda from which Sanskrit developed, and through it the modern Indic languages.68
+
+
+
+
+
+		 			 Table III – Hypothetical development of the Indo-Iranian languages
+
+
+
+
+
+2 The Discovery of Hittite and the Anatolian Languages
+
+
+	The next step in the story of the Indo-European languages takes us to an unexpected area, Anatolia, now Turkey, and to a whole vanished civilization, that of the Hittites. The Hittites had long been known as a rather obscure tribe, mentioned in several places in the Bible, living in north Syria, while the Assyrians flourished in northern Mesopotamia, around the eighth century bc. In the later years of the nineteenth century ad, a number of carved reliefs and inscriptions in a hitherto unknown hieroglyphic script began to turn up not only in North Syria but in Anatolia. And in 1880 the young British scholar, Archibald Henry Sayce, gave a lecture69 before the Society for Biblical Archaeology in London in which he made the remarkably bold claim that these remains, including the inscriptions, belonged to a now-forgotten empire in Anatolia, that of the Hittites. It was pointed out that the hieroglyphic inscriptions of the Ancient Egyptians referred quite often to battles with the ‘Heta’, which is how the Biblical ‘land of Hatti’ would read in Egyptian. The pharaoh Thutmosis III had in the fifteenth century bc been forced to pay tribute to the Hittite people and Rameses II claimed to have won a great battle against the Hittites at Kadesh, in what is now Syria. At first the claims by Sayce for a Hittite empire did not seem altogether convincing, and these supposed links did not win universal assent; but again archaeology intervened with some striking new discoveries.
+
+
+
+
+
+		 			 FIG. 3.2 Copy of a hieroglyphic Hittite inscription from the site of Carchemish (after Akurgal).
+
+
+
+
+
+	In the year 1891 the British archaeologist, Sir Flinders Petrie, began his excavations at the capital city of the oddest and most individual of the rulers of Ancient Egypt, the pharaoh Amenophis IV, the heretic king, better known by the name which he adopted: Akhnaten. The pharaoh set aside the traditional gods of Ancient Egypt, and worshipped instead the Sun God. As part of his programme of innovation, he built himself a new capital at Amarna. Petrie was led there by the chance discovery in 1887 by local villagers of the royal archive, a great collection of clay tablets. They dated mainly between 1370 and 1350 bc, during the short period when Amarna was occupied (for the city was abandoned when Akhnaton’s successor returned to the religion of his forefathers).
+
+	The archive contained the pharaoh’s diplomatic correspondence, and the tablets were written in the cuneiform script. The language was Babylonian (Akkadian) — one of the three languages on the great Persian inscription at Behistun, which Rawlinson had deciphered — for this was the language of diplomacy in the Ancient Near East. Amongst them were many accounts of raids by Hittite warriors across the northern borders of the very extensive Egyptian empire, into what is now Syria. One tablet had been sent to Akhnaton to congratulate him on ascending to the throne by a ‘King of Hatti’, Suppiluliumas. The various tablets in the archive showed clearly that Sayce had been right, and that the Hittites had indeed been a great force in Anatolia as well as in Syria. Indeed it later emerged that they became influential in Syria long after they had established power in Anatolia.
+
+	Two letters amongst the Amarna tablets were particularly intriguing since they were written in an unknown and altogether unintelligible language. The script was cuneiform, and so it was readable, but it could not yet be interpreted. These letters were addressed to a king in the unknown land of Arzawa. In 1893, a French archaeologist discovered fragments of clay tablets clearly written in the same unknown ‘Arzawa’ language at the impressive site of Boghazköy located on the Halys river in north-central Anatolia. The German archaeologist, Hugo Winckler, began excavations at Boghazköy in 1906, and he was soon rewarded with the discovery of a great archive of some 10,000 clay tablets.70 Some of these were written in Akkadian (Babylonian) and could be read at once. They made it clear that at Boghazköy Winckler had discovered the capital city of the empire which Sayce had so perceptively suggested, and the seat of the kings who had corresponded with the Egyptian pharaohs. The archive, and with it the destruction of Boghazköy, was later dated to around 1200 bc, and the occupation of the site had spanned some 400 years. Akkadian was only one of the languages of the archive, there were several others. One of them, in which many of the tablets were written, was the incomprehensible ‘Arzawa language’, which the scholars soon renamed Hittite.
+
+	In 1915 a volume of the Communications of the German Orient Society contained a remarkable paper entitled ‘The solution of the Hittite problem’ by the Czech scholar, Dr Bedřich Hrozný.71 It was odd that, during the First World War, he was able to work upon such problems at all, since he was a serving officer in the army of the Austrian empire. It was only through the genial attitude of his commanding officer, who exempted him from military duties, that Hrozný was able to bring about one of the most remarkable feats in the history of philology. His decipherment of this hitherto unknown language was published in book form in 1917, and the first sentence of the preface stated.72
+
+	The present work undertakes to establish the nature and structure of the hitherto mysterious language of the Hittites and to decipher this language. . . . It will be shown that Hittite is in the main an Indo-European language.
+
+	This claim was at first met with astonishment and incredulity in the scholarly world. But Hrozný’s work was well-founded, and his decipherment and interpretation of the language, although it has naturally been improved by later scholars, has won universal recognition.
+
+	Some words in Hittite are very readily recognized as Indo-European: watar is the Hittite for ‘water’, genu for ‘knee’ (like the Latin genu), and kwis for ‘who’ (like the Latin quis). But in fact the greater part of the Hittite vocabulary is non-Indo-European. The relationship is clearer in aspects of the grammatical structure, for instance in the inflexion of the noun: the case endings relate very closely to those of Greek and Latin, and the conjugation of some verbs is very close to that of Greek.
+
+	It was soon noticed that Hittite does not share the most obvious features of the so-called ‘satem’ group of Indo-European languages (which included Persian and Indian), and so the conclusion was proposed that it belonged to the ‘centum’ group, along with Latin, Greek, Celtic and the German languages. However, this classification is over-simplified, and Hittite is now generally recognized as representing a distinct branch of the Indo-European family. With the discovery of the archive, and then the decipherment of the cuneiform Hittite language, it was possible to elucidate much of the history of the Hittite empire, and one of the major civilizations of the Ancient World was brought into the light of history.
+
+	The Boghazköy archive contained texts utilizing eight73 different languages altogether. We have already spoken of (1) Akkadian and (2) of cuneiform Hittite. There were also texts in (3) Sumerian, the very ancient language of the Sumerian civilization and the first to develop the cuneiform script, which although by this time (i.e. 1200 bc) a dead language, was still studied. Another language represented was (4) Hurrian, which is not an Indo-European language, nor a Semitic one. It was the language of the Land of Mitanni, to the east of the Hittite empire, in what is today north Syria and north Iraq.
+
+	The hieroglyphic Hittite language seen on the stone monuments which Sayce had identified as Hittite was not represented in the archive at Boghazköy, although it occurs there on seals and seal impressions. The hieroglyphs were distinctive symbols in their own right, and comparison with Egyptian hieroglyphic writing offered no real help. Indeed it was not until the year 1947 that a good bilingual inscription was found at the site of Karatepe, written in Phoenician (a well-known Semitic language) as well as in hieroglyphic Hittite, so that real progress could be made with it. Hieroglyphic Hittite was a script occurring mainly on rock-carvings and on stone monuments, as well as on seals and on seven letters found on strips of lead during excavations at Assur. The decipherment has shown that the language in question is a dialect of language (5) which is seen on the Boghazköy tablets: Luwian. This is closely related to Hittite, and was probably spoken in western Anatolia. Indeed it seems to be ancestral to one of the languages spoken there during the classical period, and known as Lycian. Language (6) of which traces occur in the tablets is known as Palaic. Again, like Hittite and Luwian, it belongs to the Indo-European language family. The three languages, Hittite, Palaic and Luwian (along with hieroglyphic Hittite) are generally classed together as the Anatolian group74 of the Indo-European family.
+
+
+
+
+
+		 			 FIG. 3.3 The principal Indo-European language groups of Europe and Asia indicated by shading. Some extinct Indo-European languages (Hittite, Tocharian) are also marked.
+
+
+
+
+
+	All of this seems at first sight complicated, but it simply reflects the power and importance of the Hittite capital at Boghazköy, which went under the name of Hattusas. It is not surprising that there were tablets in Akkadian, which as noted earlier was the main diplomatic language of the Ancient Near East, just as Sumerian was a language of scholarship. And Hurrian was a language already known to scholars from an important letter found in the Amarna archive, written by the King of Mitanni to the Egyptian pharaoh Amenophis III in around 1400 bc. What was really important for Indo-European studies was the discovery of a whole new, undreamt-of language group within the Indo-European family. Moreover Hittite represents the earliest instance which we have of a preserved Indo-European language: our earliest Indo-European inscription. The discoveries at Boghazköy, with Hrozný’s decipherment, have transformed Indo-European studies, but they did not much alter the prevailing view about the Indo-European homeland, which was already set out by Kossinna75 in 1902, before the Hittite language was understood.
+
+	For this reason, language (7) of the Hattusas archive is particularly interesting. This language, termed today Hattic, or Hattian, or Proto-Hittite, raises several interesting historical problems. It is not an Indo-European language. It occurs mainly in ritual texts, and the Hittite text sometimes states that the reciter will now speak hattili: ‘in the language of Hatti’, and sentences in the language now called Hattic then follow. This is the same procedure followed for the other languages of the tablets. The language which we today call Luwian is preceded in the same way by the adverb luwili, and Hurrian by the adverb hurlili. But, significantly, the language which we today call Hittite is preceded, when clarification is necessary, by the adverb nesili or nasili.
+
+
+
+
+
+		 			 FIG. 3.4 Map of Anatolia and adjoining areas in the second millennium bc (after Mellaart).
+
+
+
+
+
+	There is a real modern confusion here: the Hittites (as we term them) called their capital Hattusas, and their kingdom is referred to in correspondence with the Egyptian pharaoh as ‘the Land of Hatti’. Moreover the successors of the Hittite empire, who carved their ‘hieroglyphic Hittite’ inscriptions in what is now north Syria in the tenth to the eighth centuries bc, were termed ‘Hittites’ in the Bible. Of course ‘Hittite’ and ‘Hattic’ are essentially the same term, although we may choose today to use these two minor variants of it to refer to two entirely different languages.
+
+	The explanation generally offered for all of this is that the Hittites (as we term them) were an Indo-European-speaking people and therefore immigrants into Anatolia from some Indo-European homeland to the north. There are alternative sets of theories as to whether they reached Anatolia from the north-west, across the Bosporus, or from the north-east, across the Caucasus. On this theory, the people with the non-Indo-European language which we call Hattic would have been the original inhabitants of the area. Then supposedly came the Indo-European immigration, which would also have brought with it (so it is argued) the Hittite, Luwian and Palaic languages. I think that much of this argument is based on the assumption that the (Indo-European) Hittite language was introduced into Anatolia just a few centuries before the date of the Boghazköy/ Hattusas archive (see Chapter 8).
+
+	Another relevant point which is often made is that the Hittite rulers have names which are not Indo-European, and that many of the deities in their pantheon have names which cannot be recognized as Indo-European either. But when a new language is introduced into an area by the process of élite dominance (see Chapter 5) it is normally the language of the new élite which is the introduced language, and that of the greater mass of the people which is indigenous. Then, depending upon circumstances, one or other language will probably survive. There is nothing in the tablets themselves which tells us whether terms in Hittite (i.e. nesili) or those in Hattic (i.e. hattili) are the earlier, nor indeed is it necessary to give chronological priority to either, except at Hattusas itself, where the language of Nesa (i.e. Hittite, in our terms) does apparently displace the language of Hatti (i.e. Hattic). These could equally be local movements, the result of minor conquests by neighbouring principalities, and they do not in themselves necessitate any theory of long-distance language displacements or migrations.
+
+	We should note also the interesting suggestion that the location, Nesa, where the language in question would be considered by its speakers originally to belong, has been equated by some scholars76 with the site of Kanesh, the modern Kültepe near Kayseri, the classical Caesarea, in Cappadocia. At this site a major archive of the records of a trading station set up from Assur in north Mesopotamia has been found, dating mainly to the nineteenth century bc. The records are in the cuneiform script, and in the Assyrian language (a Semitic language). Various scholars have claimed to recognize several names occurring in the tablets which may be regarded as of Hittite origin. It is not yet clear how much weight to put on this observation, but it suggests that the Indo-European Hittite language was already spoken in Anatolia at least as early as 1900 bc.
+
+	All this seems rather complicated precisely because it is indeed rather complicated! But the broad outlines are clear, and we can indicate the Anatolian language group as follows:77
+
+
+
+
+
+		 			 Table IV – The Anatolian language group
+
+
+
+
+
+3 Before the Greeks
+
+
+	‘Who were the Greeks?’ has for many years been one of the burning questions78 of classical scholarship. The epics of Homer, being the earliest surviving writings in any European language, were the obvious place to begin to look for an answer. They, and other early Greek writings, gave a clear picture of a heroic age, the time of Agamemnon, Lord of Mycenae and of the War of Troy. After this brilliant period, there seemed to be a Dark Age around 1000 bc of which little was known, from which the iron age civilization of Classical Greece gradually emerged. There were stories in the classical authors of the movements of tribes during the early years of this period of emergence, and it was possible to equate the different dialects of the Greek language, and the different areas where these were spoken, with these supposed movements. The Dorian invasion was the first, bringing the Dorians into southern Greece, and later came the Ionian Greek dispersal, with the peopling of the islands of the Aegean, especially the eastern ones, by Greeks speaking a different dialect. These at any rate were some of the ideas current, and it was widely supposed that the Greeks, who were of course recognized as one branch of the Indo-European family, entered Greece shortly before 1000 bc.
+
+	Archaeology took a hand in the story with the exciting discoveries of Heinrich Schliemann at Mycenae, the legendary home of Agamemnon. There, in 1874, following indications given by the classical geographer and travel writer Pausanias, he dug inside the Lion Gate, and discovered the now famous Grave Circle. Inside were six shaft graves, containing the remains of nineteen individuals, and with them a wealth of equipment; swords and other weapons, drinking vessels, gold jewellery and fine, gold, face masks. These may well have been death masks: certainly it could be reasonably inferred that they represented the rulers of Mycenae. He named the finest of them the Mask of Agamemnon.
+
+
+
+
+
+		 			 FIG. 3.5 Map of the Aegean, with Minoan and Mycenaean sites.
+
+
+
+
+
+	Schliemann’s findings created a stir. There was great controversy about the date of all these things. He himself claimed that they were prehistoric, before the Greeks, and he named the civilization which he had discovered ‘Mycenaean’. Although there were doubters — some thought they belonged to the post-classical, Byzantine period, others that they were fakes — Schliemann’s view prevailed in the end, and the shaft graves which he discovered, whose treasures can be seen today in the National Museum of Athens, are now dated to around 1600 bc. But what were the origins of this civilization? And how did it relate to that of the Greeks which followed it after the Dark Ages? Many writers assumed that it was pre-Greek, probably pre-Indo-European. Others were not so sure.
+
+	The next stage in the story takes place in the Aegean island of Crete. It was there that the English archaeologist, Sir Arthur Evans, decided to dig. He had for several years been studying the intriguing indications that in the prehistoric Aegean there had been a writing system which antedated the alphabet of the classical Greeks. So far the indications came mainly from signs and short inscriptions found on the seal-stones (engraved stones which could be impressed on moist clay to give a personal seal) of Crete and the mainland. In 1895 he published his paper ‘Cretan pictographs and the prae-Phoenician script’, and in 1901 he began his excavations at the site of Knossos in north Crete.
+
+	Evans was at once rewarded with remarkable success. In the first weeks of his excavation he found an archive of clay tablets which clearly recorded the administration of a palace organization, in the same way as many of the archives of clay tablets of the Near East, but these tablets were in a script differing entirely from those of the Near East, although related to what he had been studying in his earlier paper. In fact there was not one script but three, or perhaps more.79 It soon became clear that some time shortly after 2000 bc there had evolved a script composed of signs, or pictographs. This is usually termed the Cretan hieroglyphic script. Then, from around 1600 bc this was gradually replaced by a different script which probably evolved from it. Evans called this Linear A. This in turn was replaced by a different, although quite similar, script after about 1450 bc. Evans called this Linear B. The important archive which he discovered in the very early days of his dig was written in Linear B. Evans, remembering the early Greek legends of King Minos, the ruler of Crete and his palace at Knossos, called the prehistoric Cretan civilization which he had discovered ‘Minoan’, and the script of the late Knossos archive is generally termed Minoan Linear B.
+
+	To decipher these scripts was not going to be an easy task, and progress was hampered by Evans’s failure to publish promptly the necessary transcriptions of the tablets which he had discovered. More tablets in the Minoan Linear A script were discovered in other Minoan palaces of Crete, but for a long time nothing more was found in Minoan Linear B.
+
+	Then fragments of tablets in Minoan Linear B began to turn up in excavations at sites on the Greek mainland, notably at Mycenae. In 1939, the American archaeologist, Carl Blegen, beginning his excavations at the supposed palace of Agamemnon’s fellow prince Nestor at the site of the legendary Pylos in west Greece had the good fortune to find another archive of Linear B tablets, dating from around 1200 bc. These were published after the Second World War, and a number of scholars began to make good progress with their analysis; seeing that they were palace accounts, working out the system of numerals, and studying the way word endings varied (as they do in inflected languages), even before they had any idea of how the script should be read, let alone the nature of the language itself. It was clear because of the number of signs, some eighty-seven in all, that this was certainly not an alphabetic script like that of the classical Greeks. Nor was it a script where each word can have a different sign and thus made up of very many signs, like the Chinese pictographic script, and indeed like most hieroglyphic scripts. Instead it would have to be a ‘syllabic’ script, like most of the more developed scripts of the world (including cuneiform) where each sign represents a sound.
+
+	It was the brilliant achievement of the English architect and amateur classical scholar, Michael Ventris, to decipher the Linear B script. His friend and collaborator John Chadwick80 has told the story well in his book The Decipherment of Linear B. Ventris employed some of the techniques of analysis which code breakers use in their own attempted decipherments of signal traffic. Having made some progress, as so often in decipherments starting with proper names, in this case the name for Knossos itself, he tried out his emerging words on Etruscan and then on the Greek language. To his astonishment, the words which he was beginning to obtain from his decipherment made good sense if they were regarded as being in Greek. Progress was rapid, and by 1952 Ventris soon accomplished the decipherment of the whole syllabary of signs and, with the collaboration of John Chadwick, was able to make sense of many of the Pylos and Knossos tablets.
+
+
+
+
+
+		 			 FIG. 3.6 Mycenaean Greek: text of a clay tablet from Pylos in the Minoan Linear B script, with transcription following the decipherment by Michael Ventris (after Hooker).
+
+
+
+
+
+	As so often happens, the decipherment was followed by controversy, and some scholars declined to accept that the language of the Linear B tablets was an early form of Greek, as Ventris had claimed. More and more studies were made in which the Greek interpretation seemed to make good sense, and this has now been widely accepted. Many of the entries of the tablets do indeed make excellent sense as an early form of Greek. One of the earliest to be transliterated read as follows:81
+
+	pu-ro i-je-re-ja do-e-ra e-ne-ka ku-ru-so-jo i-je-ro-jo women 14
+
+	which could be transliterated as follows (the women 14 entry is given by a pictograph, interpreted as meaning ‘women’ and the numeral 14):
+
+	pylo(s) iereias doulae eneka chrusoio ieroio (‘women’ 14)
+
+	At Pylos: slaves of the priestess on account of sacred gold: 14 women
+
+	Other readings followed, and soon it was possible not only to study the grammar and syntax of Mycenaean Greek, but to proceed further with the analysis of the social organization of Knossos and Pylos on the basis of the readings.
+
+	It was altogether surprising that the language written at Knossos during the time of the late use of the palace was an early form of Greek. It would have come as a great shock to Sir Arthur Evans (who died in 1940). He had always claimed that the Mycenaean civilization of the Greek mainland was just an offshoot of the Minoan civilization of Crete. How could it be then that the Minoans were writing in Greek, which was the language of the successors of the Mycenaeans, and thus one could now infer of the Mycenaeans themselves?
+
+	The answer must lie with the Minoan Linear A script, which was used in the earlier palace of Crete, up to about 1450 bc, but not to any significant extent on the mainland, although there are indications that it was used on the Greek islands which were under Minoan influence at the time. Linear A could not be read successfully as Greek, and so far it has not been read at all, although the signs of the syllabary are sufficiently close to those of Linear B that one may guess what sounds they represent. But the inscriptions thus revealed do not make sense in any known language. Some writers, notably Cyrus Gordon,82 have tried to advance the claim that the Minoan language — i.e. the language of Linear A — belongs to the Semitic group, but these claims so far carry little conviction.
+
+	At present it seems likely that the Minoans did indeed develop their own writing systems for their own language: first the hieroglyphic script, then Linear A. And it also seems likely that Crete may have been conquered by groups from the mainland sometime around 1450 bc, and the island administered from the palace at Knossos. On this view, the new élite of Mycenaeans would have adapted the existing Linear A script to their own Mycenaean Greek language, producing the new Linear B script. The system of writing, and the new script with it, would then have been adopted on the mainland too, for archives such as that found at Pylos.
+
+	All of this has important implications for Indo-European studies. It is now clear that the Mycenaeans were indeed speaking Greek, which was already well-differentiated as a language, within the Indo-European family, by 1400 bc. The search for the origins of the Indo-European speech of Greece is thus linked with the understanding of the origins of the Mycenaean civilization and its antecedents.
+
+	In constructing the hypothetical family tree for the Indo-Europeans, the Hellenic branch will thus simply be the direct descent:
+
+
+
+
+
+		 			 Table V – The Hellenic languages
+
+
+
+
+
+	The Greek language of the classical period continued in use during the Middle Ages, and survived as a court language at the Byzantine capital of Constantinople, and as a language of cult in the Greek Orthodox church. The modern Greek language is the direct descendent of these. Although it has dialects, some of them spoken in parts of Anatolia until the exchange of population between Greece and Turkey in 1922, it has never subdivided into a separate family of languages in the way that Latin did. It began to do so in the aftermath of the empire of Alexander the Great, but in most areas Greek was ultimately replaced by other local tongues. A version of Greek is, however, still spoken in parts of southern Italy — a last remnant there of the colonies of the classical period.
+
+
+
+
+
+4 In the Great Desert of Chinese Asia
+
+
+	The discovery of the fourth lost Indo-European language was even more unexpected than the revelation of Hittite. It was certainly much odder than the decipherment of Old Persian or of Mycenaean Greek, since both of these were languages with well-known and living successors, which they do to some extent resemble, and in the light of which they could be interpreted. That was certainly not the case with ‘Tocharian’.
+
+	It was not until the later years of the nineteenth century that travellers and explorers began to investigate what was then, and still remains, one of the least-investigated areas of the earth.83 This is the region way to the east of Iran and Turkmenia, east of the Kara Kum desert and the river Oxus, east of Samarkand and Soviet Turkestan, east of the Altai Mountains and the Pamirs, and on to the last stations of the Silk Road before China itself, into Chinese Turkestan, the modern province of Sinkiang. There, to the north of Tibet, and to the south of Mongolia and the Gobi desert, lie a series of oases which for a while were able to support a remarkable urban civilization, while to the north and indeed all round were the arid steppe lands peopled only by nomads.
+
+
+
+
+
+		 			 FIG. 3.7 Map of the Old Silk Road, indicating the Taklamakan desert (marked T) in Chinese Turkestan, with sites (notably Kucha, Khotan and Tun-huang) where inscriptions in Tocharian have been found (after Hopkirk).
+
+
+
+
+
+	In and near these oases lie forgotten cities, half obscured by sand, where wood and other organic materials are remarkably well preserved in the arid conditions of the desert. This is one of the very few areas of the world where paper and wood and textiles, centuries old, have been preserved in great quantities — only on the borders of other large deserts, especially in Egypt, have comparable archives on perishable materials been preserved.
+
+	It was into this region, notably into the Tarim depression and various nearby oases, that a number of scholars ventured at the very beginning of this century. The most remarkable of these travellers was the Hungarian-born Aurel Stein, although he was not the first to come upon the script and language which interests us here. After an education in Budapest and a number of universities he worked in the British Museum for a while, and was then posted in 1886 to the position of Principal of the Oriental College at Lahore. From there he began the series of Asian explorations for which he is remembered, and for which he was later knighted. His most remarkable triumph was at the location of the ‘Caves of the Thousand Buddhas’ at the oasis town of Tun-huang, which, when he first visited it in 1907, was a thriving town on China’s western frontier.84 Although the Buddhist community was small, the caves were still tended by a number of priests and monks. One of these was a Taoist priest, Wang Tao-shih, who, when cleaning the painted decoration of one of the walls of a cave in 1900, had found a crack in the plaster which revealed a secret chamber, walled up, containing a whole library full of ancient documents. Concerned at the magnitude of this discovery he had walled it up again, but Aurel Stein persuaded him to open it and to sell him a number of the documents. These included Buddhist religious texts dating back to the fifth century, written in Chinese and other languages, Tibetan manuscripts, and other works in a whole variety of scripts and languages, mainly from the seventh and eighth centuries ad. The site was later visited by the French scholar, Paul Pelliot, who was a distinguished orientalist well able to judge rapidly the likely significance of any document, and he was also able to obtain a large quantity of manuscripts.
+
+	From these sources, and from discoveries on a smaller scale made a few years earlier in towns lying a few miles to the west, it became clear that, amongst all the mass of written material in a variety of known scripts and languages, there were documents in two related languages of which no trace had previously been recognized.
+
+	It is one of the unfortunate conventions of archaeology that each culture and each language must have a name, and it often turns out that the name first given to important new discoveries is not at all appropriate. It is particularly unfortunate when languages are given names before they are fully understood, for decipherment can produce embarrassing evidence to show that the name was not well chosen. We have already seen this was the case with ‘Hittite’ — the Hittites themselves applied the name ‘Hittite’ to a different language which we are now forced to term ‘Hattic’. In much the same way, scholars at first identified the writers of the newly discovered languages of Chinese Turkestan with a tribe which the classical writer, Strabo,85 mentioned as defeating one of the local Greek rulers of Bactria (eastern Iran) in the second century bc. These were the Tocharoi, and with their arbitrarily chosen, and probably quite inappropriate name, the languages of the Tarim depression are now known as ‘Tocharian’.
+
+	The great mass of written material from the Turfan expeditions of Grünwedel and von le Coq,86 as well as that recovered by Aurel Stein, was quickly understood. The Tocharian manuscripts87 were largely written in a north Indian alphabet of the Brahmi type, and it was soon realized that much of the material consisted of translations of Sanskrit originals. Some of it was actually bilingual. The records are from the seventh and eighth centuries ad, and they include monastery correspondence and accounts. The texts are written on palm leaves, occasionally on Chinese paper, and there are also caravan permits written in ink on wooden tablets.
+
+	Of the two Tocharian languages,88 the first, often termed Tocharian A, was also known from finds of texts at the towns of Karashahr and Turfan: it is sometimes termed Turfanian. The other, Tocharian B, is known largely from texts found at Koucha: it is thus generally termed Kouchean. Some of the records which Stein recovered from Tun-huang were in this language.
+
+	These languages have several grammatical features which link them with the Indo-European group.89 As a language so geographically remote from its congeners, the vocabulary does not show many links with other branches of the family, but some links are there. They are seen in the numbers, which (in Turfanian and Kouchean respectively) are as follows:
+
+	1: sas, se; 2: wu, wi; 3: tre, trai;
+
+4: stwar, stwer, 5: pan, pis; 6: sak, skas;
+
+7: spat, sukt; 8: okat, okt; 9: nu, nu;
+
+10: sak, sak; 100: kant, kante.
+
+	The word for 100 reminds us that these languages do not fall within the satem language group, as the eastern Indo-European languages were supposed to do, but rather within the centum group, along with most of the European languages. This has undermined confidence in the satem/ centum distinction, which like most very simple typological distinctions is now felt to be too simplistic to carry much weight.
+
+	The people who spoke these languages were certainly in contact with the Chinese, and the records in question were written at the time of the Tang dynasty of China. Chinese records, already from the fourth century bc, mention a troublesome group of nomads on their western frontier, called the Hsiung-nu, and these are identified by many scholars with the groups which later in the west are termed the Huns. These Hsiung-nu in the second century bc displaced, according to the Chinese, another group, the Yü-chi, who moved westwards. These are equated by some scholars90 with the people who were speaking the Indo-European Tocharian languages. That remains hypothetical, but it reminds us that there is still the hope that the Chinese historical records may one day be used to cast more light on the people who spoke these two languages. Most scholars dealing with Indo-European languages tend to place little weight on the evidence of Tocharian, regarding these languages as lying on the extreme eastern fringe of the distribution of the Indo-European languages. This in a sense is true. It is only because there were oasis cities in this vast area of steppe land which had an urban and literate culture that we have any knowledge whatever of this long-forgotten language. It is very possible, indeed likely, that there were other groups in the intervening territories speaking Indo-European languages which have less evident traces.
+
+	The Tocharian languages are generally regarded as constituting a further sub-group of the Indo-European language family.
+
+
+
+
+
+5 The Languages of Europe
+
+
+	Family tree diagrams for the main European language groups are given below.
+
+
+
+
+
+(a) The Italic languages91
+
+
+	The early languages of Italy have been particularly well studied by a series of distinguished scholars.92 In addition to Latin, there is the Umbrian language with its fascinating and extensive text inscribed on the bronze Tablets of Gubbio.93 The Etruscan94 language is also a topic of particular fascination, since it appears to be non-Indo-European and hence, on the theory developed here, probably of longer standing in Italy than its Indo-European neighbours. Then there is a whole series of further languages, including those of Sicily, known at present only from shorter inscriptions.
+
+	The Romance languages are all descended from Latin. There are also several other languages descended from Latin, including Swiss Romansch, Catalan and Sardinian. The relationship of Oscan and Umbrian to Latin is a matter for discussion, as indeed is that of the Venetic language of north-east Italy. All of these succumbed to Latin by the first or second century ad.
+
+
+
+
+
+		 			 Table VI – The Italic languages
+
+
+
+
+
+(b) The Celtic languages
+
+
+	The main Celtic languages can be set out in the following series of relationships, some of which are open to debate.
+
+
+
+
+
+		 			 Table VII – The Celtic languages
+
+
+
+
+
+(c) The Germanic languages
+
+
+	The Germanic languages form a complex group.95 The earliest known Germanic language is a translation into Gothic of the Bible, made in the fourth century ad, parts of which still survive.
+
+
+
+
+
+		 			 Table VIII – The Germanic languages
+
+
+
+
+
+(d) The Slavonic languages
+
+
+	The division may be set out schematically as follows.96 Church Slavonic was first written in the ninth century ad.
+
+
+
+
+
+		 			 Table IX – The Slavonic languages
+
+
+
+
+
+(e) The Baltic languages
+
+
+	The earliest known document in Lithuanian is dated to about 1515, and the origins of the Baltic languages are poorly documented. (Estonian belongs to the quite different Finno-Ugrian language group, see g. below).
+
+
+
+
+
+		 			 Table X – The Baltic languages
+
+
+
+
+
+(f) Illyrian
+
+
+	The principal remaining Indo-European languages of Europe can be classed under this heading (although Thracian and Dacian are dealt with below). There are no texts surviving from the Illyrian language in classical times, although Greek references do mention the Illyrians in what is now Yugoslavia and Albania. Modern Albanian may be descended from the ancient Illyrian language, or possibly from Thracian.
+
+
+
+
+
+(g) The Non-Indo-European languages of Europe
+
+
+	It may well be that the key to the understanding of the origins of the Indo-European languages of Europe is to be found in the early non-Indo-European languages with which they came into contact. Two ancient and well-known languages fall into this category, although there are several others, less well-known, which some scholars would also place here.
+
+	Etruscan is an ancient language of central Italy, which flourished there as an early contemporary of Latin. Latin was the language of Latium, and Etruscan that of Etruria, although Latin became dominant by the first century bc. Etruscan has always seemed a mysterious language because it is apparently unrelated to the other languages of Europe. The script presents no problems: it is just a version of the same alphabet, derived originally from the Phoenicians, which was used by the Greeks and the Romans. The language is still only partly understood, since there are few texts preserved (and very few bilingual texts) to allow a full decipherment. There are of course many theories97 about the origins of the Etruscan language. The two most popular are either that it is indigenous (as many modern scholars think), or that, as the Greek historian Herodotus suggested, it was carried to Italy by emigrants from Lydia in west Anatolia early in the first millennium bc, which would imply an Indo-European origin for it.
+
+	Basque is the language of northern Spain, and it is still a living, indeed flourishing, tongue. It appears to be a language without close affinities,98 and as such it has given rise to much speculation.
+
+	Iberian is another non-Indo-European language of Spain, although (like Etruscan in Italy) it did not survive the classical period.
+
+	The Estonian language is closely related to Finnish, and both are related to Hungarian, forming the Finno-Ugrian branch of the Uralic family of languages. The arrival of the Magyars, speaking Hungarian, into the Hungarian Plain at the end of the ninth century ad is historically documented (see Chapter 8). Etruscan, Basque and Iberian have antecedents in their own areas going back into prehistoric times, but Hungarian is a language which has displaced its predecessor, and for that reason it is in many ways less relevant to a discussion of the early languages of Europe.
+
+
+
+
+
+6 Between Europe and Asia
+
+
+	The one remaining major Indo-European language which constitutes a branch of the family in itself (in the same manner as does Greek) is Armenian. This is sometimes classed as a Thraco-Phrygian language,99 but this very term is an unsatisfactory one for it purports to form a link with the language of Thrace, in the south-east corner of Europe and with the western part of Anatolia. The Thrace of classical times is today divided between the eastern nomos (province) of Greece in the north Aegean area, and Bulgaria, to which must be added that small part of the modern Turkey which lies within Europe. The surviving records of the Thracian language, which cover a period from the time of Homer to the Middle Ages amount to little more than about twenty-five words altogether. It is no doubt related to the language which was spoken in what is today Romania before that area was occupied by the Romans. The area became the Roman province of Dacia, and its early language is therefore Dacian.
+
+	The Phrygian language100 — the language which survived in the Anatolian province of Phrygia in Greek times — is known from some twenty-five inscriptions from about the sixth century bc, and another hundred or so from the first three centuries ad. They are written in the Greek alphabet. Philologically the status of Phrygian is obscure, and it is far from clear that it should be classed together with Thracian and Dacian: recent work suggests that it is closer to Greek.
+
+	Armenian, of course, is spoken in the Armenian Soviet Socialist Republic of the Soviet Union as well as in the neighbouring Georgia, in north-west Iran, and in the north-eastern vilayets (provinces) of Turkey. It is thus at the eastern end of Anatolia, and there is no clear reason to link it with Phrygian, let alone Dacian or Thracian. However, works on the Indo-European languages, with their propensity to talk in terms of migrations, make statements like the following:101
+
+	The Armenians made their way from south eastern Europe across the Hellespont and into Asia Minor in company with the Phrygians (Homer’s Trojans) to reach their present homeland at the eastern end of the Black Sea, between the eighth and the sixth centuries bc.
+
+	In reality there is no very clear reason to link the Armenian language with western Anatolia or Thrace. One point plausibly suggested by several writers is that some features of Armenian may descend from the non-Indo-European language spoken in the area in the first millennium bc, the language of the civilization of Urartu, centred upon the Lake Van area of eastern Anatolia, and sometimes called Urartian. This in turn is thought to be the descendent of one of the non-Indo-European languages which is used in some of the Boghazköy tablets nearly a millennium earlier: Hurrian. Just as the tablets preface some texts by the term hattili, ‘in Hattic’, so some are prefaced by hurlili, ‘in Hurrian’.
+
+	While referring to the Hurrian language, which at the time of its maximal expansion, during the second millennium bc, was spoken deep into central Anatolia, Syria, Palestine and Mesopotamia, and perhaps also into western Iran, it is very interesting to note that there is some evidence that it contained some Indo-European words. Indeed several scholars have pointed out that some of the names of the leaders of the Land of Mitanni, where the Hurrian language was spoken, appear to have had Indo-European names — that is to say that the names have coherent meaning when interpreted in terms of the early Indo-Iranian languages. For some of the rulers of Mitanni in the fifteenth and fourteenth centuries bc, with Indo-European names, are known from letters from the rulers of Mitanni to Amenophis III and his son Akhnaten, found in their foreign office archives at Tell el-Amarna. But the most tantalizing piece of evidence occurs on a tablet found at Boghazköy and gives indications of the eighth language to be found in the archive there. The tablet is written in the Indo-European language which we call Hittite. It is a splendid text, dating from the fourteenth century bc, and deals with the training of chariot horses.102 It is described as being written by a man called Kikkuli, a Hurrian from the state of Mitanni. The text contains several technical terms which scholars infer to have been borrowed from the Hurrian language. Some of these are clearly derived from a language related to Indo-Iranian. For example the term nawartanni wasannasya meaning ‘for nine turns of the course’ may be compared with the reconstructed Sanskrit form navartane vasanasya. The numerals aika- (‘one’), tera- (‘three’), panza- (‘five’), satta- (‘seven’) and na- (‘nine’) occur in this way.
+
+	It does seem plausible to assume that these terms were indeed used in the Hurrian language (although I believe that it could be argued, since they are from a Hittite text found at Boghazköy, that they were in fact in use in the land of the Hittites, and were therefore not derived from Hurrian terminology at all). If we accept the evidence of the half-dozen or so special words in this treatise on horsemanship together with the Indo-European names for the Mitanni kings103 in the Amarna letters, significant historical inferences may be drawn.104 For scholars agree that linguistically the resemblances of these words are with the Indo-Iranian languages rather than with Hittite itself — that is to say with the Vedic Sanskrit of the Rigveda of north India, and with the Old Persian of the Avesta of western Iran — but the Boghazköy tablets are many centuries earlier than any direct evidence which we have for these. If we follow the case that has been widely made by scholars, the Hurrians of the land of Mitanni must already have been in close contact with groups speaking the language from which these various terms were drawn.105 Indeed some writers go so far as to suggest that the Hurrians had indeed been subjugated by a group of people speaking that language. This would supposedly account for the names of the rulers. And if the hypothesis is followed that this new élite achieved its conquest with the use of the war chariot, which was then a very new innovation, it is not surprising that some of their terms for horse-training should occur on a tablet written for the Hittite rulers by a Hurrian from the land of Mitanni. Perhaps that suggestion is just too easy, and it is certainly based on a very restricted group of words, but any hint that we may have evidence of another very early Indo-European language, actually as early as 1460 bc, is an important one.
+
+
+
+
+
+7 The Indo-European ‘Family’
+
+
+	It is now possible to put together the evidence which we have reviewed in this chapter and to produce a diagram106 (Table XI) of possible relationships, on the family tree model. The existence of the various ‘branches’ of sub-groups is in most cases quite plausibly argued by the rather close similarities, both in grammar and in vocabulary, among the languages within them. Between the branches it is much more difficult to say anything of significance, although their general affinity, justifying their linkage together as ‘Indo-European’ has, as we saw earlier, been widely accepted. As usual an asterisk implies that the particular language in question is inferred or reconstructed, rather than being documented by actual texts. The supposed language of the rulers of Mitanni has not been shown since its existence is an inference based only on a few personal names and on a handful of further words.
+
+
+
+
+
+		 			 Table XI – The Indo-European family
+
+
+
+
+
+	It should be noted, however, that this diagram is only one interpretative summary of the available evidence. It is open to criticism on several counts, but it does remind us of some of the main headings under which more detailed evidence can be discussed.
+
+
+
+
+
+4.
+
+
+

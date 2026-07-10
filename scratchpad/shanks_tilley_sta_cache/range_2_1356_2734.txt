@@ -1,0 +1,1379 @@
+            Social Archaeology
+
+
+Archaeologists have long realized the necessity of going beyond
+antiquarianism, the collection and study of artefacts for their own
+sake, and have attempted various forms of historical narrative and
+social reconstruction, setting artefacts in their context. This has
+predominantly involved relating material culture to units which
+subsume the individual - cultures, societies, culture systems: social
+totalities. This is because archaeology's data have been thought to
+require a conceptual occlusion of the agents who were originally
+responsible for producing the past. Before considering this striking
+absence of the individual social actor in archaeological theory we
+will examine the project of a social archaeology as it has developed
+in Britain by examining a series of texts.
+
+
+    SOCIAL ARCHAEOLOGY: A TEXTUAL CRITIQUE
+
+          The social narrative of traditional archaeology
+A synopsis of prehistory from the first farmers to the Roman
+empire, Piggott's Ancient Europe (1965) is a chronological
+narrative of archaeological material, selected as outstanding or
+exemplary. For Piggott the narrative is one of a contrast to Western
+civilization: aggression and violence, barbarism and brutality, the
+less endearing attributes of humanity (p. 14ff). And the narrative is
+the traditional one of change explained by invasions, folk
+movements, cultural diffusion and warfare.
+   Piggott's account of the societies acting out this narrative is
+entirely descriptive, rooted in common-sense categories of the
+social. He proclaims (p. 7) that prehistorians 'move in a world of
+anonymous societies, defined by their distinctive traditions in the
+
+30                           SOCIAL ARCHAEOLOGY
+
+style and manufacture of everyday objects'. So the book outlines
+the ways of life: early farmers' house design (invariably peasant),
+economy, and when evidence is available, clothing and hairstyles.
+Examples are given of craft skills and workmanship, and artistic
+achievement is suitably appreciated:
+
+     In Celtic art, 'man is a stranger'. . . attractive and repellent; it is far
+     from primitiveness and simplicity . . . is refined in thought and
+     technique; elaborate and clever: full of paradoxes, restless,
+     puzzlingly ambiguous.
+                                                                       (P. 243)
+
+Temples, henges, cursus monuments, ritual accoutrements - all
+attest to the limitations of archaeological inference: 'we have no
+information on the beliefs which prompted the construction of
+these sacred places, nor of the rites performed within them'
+(p. 116). Such material expressions of religious or ritual
+phenomena are shrouded in mystery; they can only be described
+Occasionally, however, from evidence such as 'the presumed cult-
+figures of obese women' in Malta (p. 115), a guess may be made of
+the existence of some divinity.
+   In the terms of Piggott's empiricism the structure of society can-
+not be directly perceived, although inference from a diversity in the
+quality and richness of artefacts and burials may lead to a
+conception of a ranked society. Social hierarchy is consistently and
+simply seen in terms of princes or chieftains: this is the extent of
+Piggott's analyses of social ranking. For example, the rich round
+barrow burials in Wessex, England are described in terms of princely
+panoply: ' "they are assuredly the single sepulchres of kings and
+great personages . . . " wrote William Stukeley in the eighteenth
+century of the barrows on Salisbury plain, and he was right'
+(P. 129).
+   A repeated stress on the limitations of archaeological evidence is
+accompanied by its literary elaboration and enlivenment. Here is
+Piggott on the Celtic chieftain:
+
+     The panoply and equipment of the battle-drunk, screaming tribal
+     chieftain, in his chariot hung with the decapitated heads of his foes,
+     the air raucous with the sound of the baritus and the carnyx . . .
+                                                                       (p. 243)
+
+   The values, aspirations and theoretical outlook of such works
+(for Hawkes (1968) the distillation of history from disparate facts,
+'writing of quality and humanity' (p. 256)) are still held today by
+
+                       SOCIAL ARCHAEOLOGY
+
+many archaeologists. Burgess's work, The Age of Stonehenge
+(1980), aspires to such an example. The first 130 pages of this 330
+page book are an artefact-centred chronicle of British prehistory
+(3200 - 1200 BC) interspersed with rudimentary social sketching,
+again rooted in common-sense categories. So Burgess comments
+that far-reaching social, ideological and spiritual upheavals are
+indicated by important changes in material Culture, in burial
+practices, and in the fate of the great public centres of the third
+millennium (p. 79). Artefact change means social change. And,
+somewhat earlier, 'the bewildering variety of burial customs which
+emerged in the Meldon Bridge period in part reflects the very
+complex structure of society at that time' (p. 61). After the
+chronicle, Burgess presents a description of society in this 'Age of
+Stonehenge': what the people were like, what they wore, what sort
+of settlements they lived in, the agriculture, crafts and industries
+they practised, their means of transport and communication, their
+burial ritual and ceremony are all featured. For Burgess, such
+description represents society as available to the archaeologist.
+Simple statements about social stratification (chiefdoms,
+paramount chiefs and superchiefs) are elaborated by reference to
+later literary sources (particularly Irish sagas). This, along with
+discussion of Celtic origins, amounts to the full extent of Burgess's
+social analysis.
+   In this index card (already a floppy disc?) archaeology, the
+particularity of the past is preserved in descriptive detail:
+description of hair styles, inventories of cinerary urns, discussions
+of post hole patterning. The sort of speculation as to the meaning
+of such variety is, perhaps, encapsulated in Burgess's comments
+on the reason for increasing deposition of bronzes in rivers, lakes
+and springs at the end of his period: 'with the increased precipi-
+tation and waterlogging after 1500 BC a development of water-
+cults makes good sense' (p. 351). People were fed up with the
+
+
+                         Systems theory
+Renfrew's Emergence of Civilisation (1972) was the first major
+application of systems theory in British archaeology. Following
+Clarke's general programmatic statement of a systems-based
+archaeology (1968), Renfrew set out to explicitly theorize the
+workings of Aegean society in the third millennium BC and trace
+an explanation for the emergence of the 'civilized' palace
+economies of Crete and mainland Greece.
+
+                           SOCIAL ARCHAEOLOGY
+
+   Society is conceived as a system, 'an intercommunicating network
+of attributes or entities forming a complex whole' (Clarke, 1968,
+p. 42). These entities are subsystems which amount to regularized
+patterns of social behaviours (figure 2.1). The interconnections are
+mechanisms of negative feedback maintaining balance or
+equilibrium. Each subsystem, and the system itself, are kept within
+assigned limits or maintained in a stable state by homoeostatic
+mechanisms which counteract any disturbance. So, for example,
+poor fishing means less fish to eat; negative feedback results in
+more fishing or use of food other than fish. Relations of positive
+feedback involve the amplification of an initial deviation,
+extending and increasing processes already present. Renfrew
+defines a particular variant of positive feedback as the 'multiplier
+
+
+                               POPULATION
+
+
+               SUBSISTENCE                     METALLURGY
+
+
+
+
+ COMMUNI-                                                          CRAFTS
+  CATION
+
+
+
+
+                 PROJECTIVE                        SOCIAL
+                 SUBSYSTEM                       SUBSYSTEM
+
+
+                                POPULATION
+
+
+                FIGURE 2.1 Renfrew's'Culture system'
+ Notes: All the subsystems are linked with each other and the external system
+          environment with relations of positive or negative feedback.
+Source: From C. Renfrew (1972). Reprinted by permission of Methuen & Co.
+
+                         SOCIAL ARCHAEOLOGY
+
+effect, where a deviation in one subsystem has the effect of
+bringing about innovation in another:
+  Changes or innovations occurring in one field of human activity (in
+  one subsystem of a culture) sometimes act so as to favour changes in
+  other fields (in other subsystems). The multiplier effect is said to
+  operate when these induced changes in one or more subsystems them-
+  selves act so as to enhance the original changes in the first subsystem.
+                                                                   (p. 37)
+
+The multiplier effect is Renfrew's explanation of the emergence of
+Aegean civilization. In what he claims as a 'necessary preliminary'
+(p. 17) Renfrew produces 160 pages of traditional archaeological
+discourse specifying and describing details of cultural sequences.
+This is followed by a description of 'culture process' - a chapter is
+devoted to the parameters of his system (environment, population
+and settlement pattern), and individual chapters to the various
+subsystems (subsistence, metallurgy, crafts, social, the symbolic,
+trade and communication). For each he summarizes the general
+patterns and trends: for example, the development of craft
+specialization and metal working enabling new tools and new
+weapons and new forms of wealth; transformation of tribe into
+chiefdom, into principality or state. In the final chapter Renfrew
+presents two multiplier effects: 'the decisive factor for the
+development of Aegean civilization was the development of a
+redistributive system for subsistence commodities. This emerged as
+a consequence of the intensive exploitation of a new spectrum of
+food plants/notably tree crops, yielding a new diversity in produce'
+(p. 480). The second: 'the decisive factor . . . is the emergence of a
+stratified society, where high status correlates with material wealth
+and military prowess. These features arose largely as a consequence
+of the development of metallurgy and of maritime trade' (p. 483).
+Both are taken as models offering explanation for the emergence of
+civilization.
+   Renfrew's systems framework offered many advantages over
+traditional archaeologies:
+1 it required explicit theorization of the social.
+2 It directed attention to social process as lying behind material
+  culture patterning.
+3 In focusing on social process it involved considering
+  explanation and causality rather than simple documentation of
+  variety in space and time.
+4 It involved a stress on complex causality: 'no single factor,
+  however striking its growth, can of itself produce changes in the
+  structure of culture' (p. 39).
+
+34                         SOCIAL ARCHAEOLOGY
+
+.    It necessitated a consideration of subsystem interaction within a
+     cultural whole, rather than permitting concentration on any
+     single cultural phenomenon, such as subsistence or ceramic
+     design.
+
+However, in common with other uses of systems theory in
+archaeology, culture is conceived as man's extrasomatic means
+of adaptation (p. 13). The social logic of Renfrew's systems theory
+is that of function. Each subsystem is 'explained' in terms of its
+function in maintaining the existence of the whole cultural system,
+while the system itself is conceived as a mediatory entity,
+biologically adapting a population to its natural environment.
+Civilization, Renfrew's ultimate theme, thus becomes a socio-
+cultural form of adaptation to nature: 'civilisation is the complex
+artificial environment of man; it is the insulation created by man,
+an artefact which mediates between himself and the world of
+nature. Since man's environment is multi-dimensional so too is
+civilisation' (p. 13). This logic of adaptation and functionalist
+explanation has long been questioned in the social sciences, and
+criticism within archaeology is also well established (e.g. Hodder,
+1982; Tilley, 1981a, 1981b). Theorizing a cultural entity as adaptive
+or functional simply affirms its existence and provides little
+comprehension of its specific form of articulation. To say that
+institutions and regularized customs of society are artefacts and can
+be regarded to fulfil functions broadly analogous to those of
+material artefacts which mediate between people and the natural
+environment, as Renfrew does, is to say nothing about why the
+institutions and customs take the specific form they do.
+  To conceive culture as adaptive means that societies are regarded
+as primarily conservative - maintaining equilibrium within their
+environment through homoeostatic negative feedback devices.
+Change becomes a problem:
+
+     This conservative nature of culture cannot too strongly be stressed.
+     In terms of our model it is the natural tendency of culture to persist
+     unchanged... it is change, any change, which demands explanation.
+                                                                   (p. 487)
+
+Stability, apparently, just happens - it does not require explanation.
+For Renfrew the multiplier effect is 'needed to overcome this innate
+conservative homoeostasis of culture' (p. 487). The problem of
+change is solved by reference to a mechanistic relation between
+subsystems, and the notion of 'relation' becomes reified. The
+mechanism is conceptualized as existing separately from the entities
+
+                        SOCIAL ARCHAEOLOGY
+
+it unites: subsystems can be defined independently of their relations
+with other subsystems. This begs the question of the ontology of
+both subsystem and relation: what is negative feedback? what
+exactly is a subsystem? do subsystems and systems exist? how are
+they to be defined? Patterns of interactions, activities and artefacts
+would seem to be Renfrew's answer (pp. 19-23). Renfrew accepts
+that these regularized patterns are arbitrary categories imposed in
+analysis (p. 20). This throws the burden of their specification on to
+theory but Renfrew gives no justification for specifying sub-
+systems as 'subsistence', 'technological', 'social', 'symbolic' and
+'communicative', other than convenience. Why are they convenient,
+and for what purpose? Renfrew does not confront the meaning or
+significance of such categories. He accepts that boundaries are
+difficult to define: 'Criteria of different degrees of uniformity will
+lead to the definition of larger or smaller units' (p. 21). But what is
+to specify the application of different criteria? Intuition?
+Usefulness? Obviousness? Again, this is not theorized. In
+Renfrew's book the categories of system and subsystem are
+descriptive, referring to empirical patterning. The entire procedure
+of systems analysis is heuristic, its usefulness being its stress on
+complexity and interaction. Renfrew has realized this (p. 495) and
+his later work with catastrophe theory (1978, 1979) may be seen as
+an attempted solution, a solution involving the quantification of
+culture and the specification of a mathematized social process.
+   The interactions of negative and positive feedback are, as we
+have said, reified mechanisms between arbitrary analytical
+categories, mechanisms derived from cybernetic theory. They are
+not a social logic but based on analogies with machines, analogies
+which take no account of human agency and praxis (cf. below).
+   In that subsystems and interactions are defined independently,
+the synchronic is separated from the diachronic, static analysis
+from the explanation of change. This relates to society being
+conceived as naturally conservative, denying change, being
+naturally timeless, and change being problematic, that which is to
+be explained (see chapter 5 below).
+   Renfrew's systems analysis proceeds by successive reduction of
+empirical detail to categories, a process of simplification. So
+culture sequence is transformed into systemic categories, sub-
+systems, whose general patterning and trends are isolated. These
+general trends are then encapsulated in a dual model of emergence
+of complex society - 'civilization'. The result is an extraordinary
+redundancy of detail (the redundancy already noted in chapter 1).
+The relation between the culture sequence of part I and the
+
+                        SOCIAL ARCHAEOLOGY
+
+processual analyses in part II of Renfrew's book seems to be that
+the first is chronicle - neutral exposition - while part II is theory
+applied to this data as an explanation. Archaeological remains
+from over a thousand years of Aegean prehistory are reduced to
+some 24 pages of multiplier effect (pp. 480-504). Now, of course,
+simplification and generalization are essential to any analytical or
+theoretical practice but it is as essential to pose the question of the
+meaning, significance and character of this generalization. We
+argue that Renfrew's study is an application, an imposition of pre-
+defined categories of system and subsystem on to the 'data'. It
+lacks self-reflexiveness. The categories of system, subsystem, feed-
+back, exist in no 'real' or 'theoretical' relation to the object of
+study. The only relation is that of application (p. 18); it is purely
+methodological - theory is held to exist separately from data. This
+is the corollary to the arbitrary definition of subsystem and the non-
+social cybernetic logic of the mechanisms of interaction. The con-
+comitant of this is that any complexity claimed for the explanation is
+entirely a function (sic) of the model of system (the applied theory)
+and does not necessarily apply to the data which are meant to be
+explained. This imposition throws into focus the politics of
+Renfrew's theory - the stress on the conservative nature of society,
+and the adopted model of homo oeconomicus (see esp. pp. 497ff).
+   Renfrew's Emergence of Civilisation prefigures many of the
+major aspects and developments in the social archaeology of the
+1970s and early 1980s:
+1 Procedures of applying social theories to archaeological data.
+2 Processual explanation based on an identification of patterned
+   behaviours from archaeological remains and specification of
+   their complex interaction.
+3 Theoretical use of social typologies: evolutionary sequences of
+   bands, tribes, chiefdoms, etc.
+4 A related focus on the identification of social ranking.
+5 An emphasis, often economistic, on the general importance of
+   social control of material resources.
+6 A focus on the analysis of mortuary remains from a structural-
+   functionalist and role-model perspective.
+ ' The development of models of trade and exchange.
+8 Use of the notion of prestige goods economies.
+9 Use of cross-cultural generalizations.
+
+In the following sections we analyse some of these developments in
+archaeological theorizations of the social.
+
+                        SOCIAL ARCHAEOLOGY                         37
+
+                          Social typologies
+The social typology, band, tribe, chiefdom and state (Sahlins,
+ 1968; Service, 1962) has had tremendous influence on social
+archaeology. While forming the basis of various forms of
+evolutionary thinking in archaeology it has also, more generally,
+provided a vocabulary for social archaeology. The static and
+descriptive nature of the categories has meant that change from one
+category to another is problematical and has led to the claim that
+identification of a particular 'type' of society somehow constitutes
+an explanation. This is clear from Renfrew's 'recognition' of
+chiefdoms in neolithic Wessex, southern England (1973). He first
+specifies 20 features of chiefdoms (following Sahlins and Service),
+including ranking, the distribution of surplus by chiefs, 'clearly
+defined territorial boundaries', 'frequent ceremonies and rituals
+serving wide social purposes' (p. 543). There is no discussion of
+social process, of the working of a chiefdom social system.
+Renfrew proceeds to identify territorial divisions on the basis of
+ceremonial monuments - causewayed camps - in the earlier
+neolithic. He thinks these were emerging chiefdoms coalescing in
+the later neolithic into one greater chiefdom with constituent tribes.
+The archaeological evidence is considered to fit into this social
+categorization: mobilization of humanpower; craft specialization;
+religious specialization. For example, the Stonehenge area with
+major ceremonial monuments is considered evidence of the
+existence of a paramount chief. This checklist archaeology, and the
+social typologies on which it is based, although much criticized
+(e.g. Tainter, 1978) for its reductive subsumption of variability,
+nevertheless remains in use (e.g. Collis, 1984; and see chapter 6
+below).
+
+
+                 Ranking, resource and exchange
+The volume Ranking, Resource and Exchange (Renfrew and
+Shennan (eds), 1982) in many respects represents the culmination
+of the programme of functionalist social archaeology in Britain,
+covering almost all of the elements of what is now a virtual
+theoretical hegemony standing opposed to traditional archaeology.
+The fifteen essays exemplify three routes for exploring ranking:
+settlement ranking and political structures involving ideas of co-
+ordinating political centres and core-periphery relations; the
+mobilization and organization of surplus labour especially in
+ceremonial monument construction; ranking and status of
+
+                        SOCIAL ARCHAEOLOGY
+
+individual social personae identified particularly in the analysis of
+mortuary remains.
+   The predominant focus is on resources and their control and
+management. Sherratt considers agricultural wealth in the
+Carpathian basin from the sixth millennium BC, proposing
+regional exchange networks linking nodal lowland areas and
+highland hinterlands involving domestic cattle. He argues this is a
+primary feature in emerging social hierarchy. Shennan and S.
+Champion consider the role of rare exchanged items, amber and
+coral respectively, in the earlier Bronze and Iron Ages of central and
+western Europe. Both propose prestige goods ranking systems,
+hierarchical societies where social position depended on
+consumption of prestige goods. Haselgrove has an elaborated
+prestige goods system in the late pre-Roman Iron Age centralized
+polities of south-east England, elaborated in its incorporation at
+the periphery of an expansive Roman empire, the core polity and
+source of prestige goods. Thus one process in social hierarchization
+is identified as relating to trade, exchange and societal interaction.
+Another process relates to the intensification and specialization of
+production of agriculture and crafts and subsequent management
+and control. Chapman considers control of critical resources -
+land, water, copper and interregional traded items - as a deter-
+minant factor in the development of social ranking in Iberia,
+4000-1000 BC. The Rhine Main basin, 1500-500 BC, is con-
+sidered by T. Champion who derives the pattern of settlement
+relocation, subsistence innovation, enhanced social ranking,
+technological development and ritual activities ('Urnfield'
+phenomena) from an imbalance between subsistence resources
+and population.
+   This social logic of giving priority to relations between
+population, subsistence and environment is frequent in such
+'processual' studies. So Halstead and O'Shea present a self-styled
+'adaptive model' for the emergence of redistributive economies and
+apply it to the 'palaces' of Bronze Age Crete. Accumulation of
+tokens of value which may be exchanged for foodstuffs in times of
+shortage is termed social storage - an adaptive response to periodic
+failure in food supply. The tokens used in social storage -craft
+items, durable and convertible - 'would have permitted the sustained
+accumulation and manipulation of wealth and power and so have
+facilitated the emergence of institutionalised social inequality'
+(p. 98) - the Cretan palace civilization. Gamble relates settlement
+nucleation and political developments in the Bronze Age Aegean
+(Melos) to agricultural intensification and control.
+
+                        SOCIAL ARCHAEOLOGY                                39
+
+   There is no doubt that this volume of studies represents a
+considerable advance over traditional archaeology in its concen-
+tration on the patterning of social process. But this is conceived in
+purely descriptive terms (cf. Whallon, 1982). The relations between
+a limited number of cross-cultural variables are described in their
+various combinations (figure 2.2). These variables amount to
+resources and the mechanisms of their control as is indicated by the
+reduction of social ranking to the effects of two processes: those of
+exchange and societal interaction, and intensification of
+production.
+   The functionalist logic of such processes is very apparent in
+many of the studies. So, for example, T. Champion talks of the
+strain on subsistence resources in late second-millennium BC
+Germany:
+
+  The particular strategy adopted to meet this strain was to minimise
+  risk and provide a buffer against subsistence failure. This required
+  increased levels of managerial control internally and of exchange
+  relations externally, and had an inbuilt predisposition towards
+  growth.
+                                                                (P. 65)
+
+
+So the different parts of the system - production, ranking,
+exchange, ritual - interact coherently in a whole adapted to its
+particular environment. The task of archaeological explanation has
+become that of describing the workings of such systems which are
+held to account for patterning in the archaeological record.
+Analysis of ranking is reduced to tracing the development of
+complexity.
+   This emphasis on descriptive process is in accordance with the
+structure of the whole book - the attempt to develop a coherent
+narrative of the emergence of hierarchical structure: appearance of
+salient ranking; discussion of the resource base of early states and
+post-collapse resurgence, the first millennium BC and post-Roman
+dark ages. This background narrative to the individual studies is
+foregrounded in the editorial introductions to each section. The
+relations of this project to neo-evolutionary theory are also clear in
+the functionalist frame of reference adopted and the use of cross-
+cultural comparison associated with the identification of particular
+instances of general processes claimed to have universal relevance
+(Halstead and O'Shea, p. 98; Renfrew, p. 91). Hence it is possible
+to reduce several thousand years of prehistory essentially to the
+particular manifestations of the two processes outlined above.
+
+                       SOCIAL ARCHAEOLOGY
+
+
+
+
+FIGURE 2.2 Sherratt's social model for the Great Hungarian Plain
+                            6OOO-35OOBC
+              Notes: Rectangles represent external factors.
+Source: From Renfrew and Shennan (eds), (1982). Reprinted by permission of
+                      Cambridge University Press.
+
+                        SOCIAL ARCHAEOLOGY                          41
+
+   The separation of process and its manifestation in the.
+archaeological record relates to the separation of theory and data,
+the general and the particular, a separation which is frequently
+duplicated in the structure of the essays themselves: general points
+followed by empirical illustration. However, a more serious
+criticism must be the lack of theorization of archaeology's primary
+data - material culture. Identified patterning in material culture is
+conceived as an immediate expression of social process; it is not
+(see chapter 4).
+
+                      Peer Polity Interaction
+The effects of the simple descriptive basis of much processual
+archaeology are very evident in the recent volume, Peer Polity
+Interaction and Socio-Political Change (Renfrew and Cherry (eds),
+1986). The concept of peer polity interaction refers to a series of
+empirical observations which have been noted to occur together in
+several instances. They are: (1) polities occur in regional clusters;
+(2) organizational changes occur not singly within these clusters but
+in more than one polity at about the same time; (3) changes in, for
+example, conceptual systems for the communication of
+information in artefacts associated with high status and in ritual
+activities occur together and seem to be attributable to no single
+locus of innovation (Renfrew, pp. 7-8). It is proposed that the
+changes are the result of interaction between autonomous polities
+within a single geographical region. These interactions include
+competition; warfare and competitive emulation; symbolic entrain-
+ment (adoption of a more developed symbolic system upon contact
+with a less developed one); transmission of information; and
+exchange of goods. The book consists of a series of illustrations of
+these generalizations and processes in Aegean city-states, Minoan
+palaces, complex chiefdoms in the European Iron age, Classic
+Mayan centres, the Midwestern Hopewell, USA.
+   The concept of peer polity interaction usefully emphasizes
+societal interaction and complex processes of transformation rather
+than synchronic analyses of the workings of a single polity.
+Attention is also drawn to interactions which might be termed
+symbolic or stylistic. However, as with the systems approach, there
+is the very real problem of defining the units of interest - here peer
+polities. Such a concept is clearly much easier to apply to early
+civilizations with literary evidence available (Cherry and Renfrew,
+pp. 150-1; Champion and Champion, p. 63). Elsewhere there is the
+usual reliance on social typologies. Again the descriptive nature of
+
+                          SOCIAL ARCHAEOLOGY
+
+the concept is evident, leaving untheorized so much of the social
+logic of the phenomenon, in particular the role of material culture.
+Renfrew and Cherry clearly think that peer polity interaction
+allows consideration of the symbolic and the stylistic as well as the
+economic and technological in a processual rather than an 'idealist'
+context (p. viii). But the recurring assumption is that symbolic
+entrainment, symbolic interaction, would be manifested as stylistic
+similarity or homogeneity. We have already commented that the
+relation of material culture to the social is not such a simple matter.
+We might agree with Sabloff: 'we must be able to tie the
+interactions of the hypothesized peers to specific features of the
+archaeological record' (p. 116).
+
+                   Analysis of mortuary practices
+The pioneering work of Saxe (1970) and Binford (1972a) opened up
+the analysis of mortuary practices as a primary means of
+investigating past social systems. They developed the general
+argument that mortuary practices need to be analysed in the
+context of variations in types of society and social complexity. In
+his paper Binford argued that:
+
+  We would expect that other things being equal, the heterogeneity in
+  mortuary practice which is characteristic of a single sociocultural
+  unit would vary directly with the complexity of the status hierarchy,
+  as well as with the complexity of the overall organization of the
+  society with regard to membership units and other forms of
+  sodalities.
+                                                         (1972a, pp. 221-2)
+
+
+
+
+  It is proposed that there are two general components of the social
+  situation to be evaluated . . . First is what we may call, with
+  Goodenough (1965, p. 7) the social persona of the deceased. This is a
+  composite of the social identities maintained in life and recognized as
+  appropriate for consideration at death. Second is the composition
+  and size of the social unit recognizing status responsibilities to the
+  deceased. We would expect direct correlations between the relative
+  rank of the social position held by the deceased and the number of
+  persons having duty-status relationships vis-a-vis the deceased.
+                                                         (Ibid., pp. 225-6)
+
+According to Binford, the main features which archaeologists may
+be able to detect with regard to prehistoric social organization from
+
+                        SOCIAL ARCHAEOLOGY                         43
+
+an analysis of mortuary practices are: (1) the type of organization
+present, whether or not it was essentially egalitarian or stratified,
+whether or not the presence of distinct and/or competing corporate
+groups is indicated; (2) the complexity of past social systems or, in
+other words, how much structural differentiation there appears to
+be. The main dimensions of social persona or roles which might be
+recognized are age, sex, social affiliation and position as well as, in
+certain cases, the conditions and locations of death.
+   The volume, The Archaeology of Death (Chapman, Kinnes and
+Randsborg (eds), 1981), fleshes out this position and succinctly
+summarizes the theoretical position developed in the archaeological
+literature at the outset of the 1980s. As Chapman, Randsborg and
+Brown comment, effort has predominantly gone into analysing the
+variety within the mortuary practices of a particular social unit in
+attempting to identify social ranking. Attention has thus focused
+on the range of artefacts deposited with the dead, assuming that
+certain artefacts will symbolize social status (e.g. S. E. Shennan,
+1975). Effort expenditure on the treatment of the deceased has also
+been proposed as a key variable: greater expenditure correlating
+with higher rank (e.g. Tainter, 1975, 1977, 1978). Other analyses
+have considered the demographic structure of skeletal populations
+searching for physical indications of social difference (e.g.
+Buikstra, 1981). Analyses of mortuary practices have relied heavily
+on the utilization of a range of statistical techniques, many
+computer based, ranging from simple tests of statistical
+significance to multivariate techniques such as cluster analysis and
+principal components analysis.
+   The general strategy in such studies is the identification of
+pattern and its correlation with social complexity. Questions asked
+of the data include: do certain artefacts regularly occur with others
+in individual graves, or with sex or a particular age set of the
+burial population; are certain burials orientated in a particular
+direction as opposed to others; to what extent is the arrangement of
+burials in a cemetery random or regularly patterned; how does the
+spatial organization of burials differ within and between cemeteries;
+what are the demographic parameters of deceased populations and
+what symbolic dimensions (e.g. use of burial monuments as
+territorial markers) might be inferred. Attention has also centred
+on the arrangement of artefacts in graves and attempts to calculate
+measures of effort expenditure. Such work has drawn heavily on
+cross-cultural ethnographic 'tests' or surveys, with attempts being
+made to set up more or less directly deterministic links, or
+'behavioural correlates' between people, resources, and mortuary
+
+                        SOCIAL ARCHAEOLOGY
+
+practices. These surveys are of dubious value and can hardly be
+considered to vindicate the overall approach. A correlation is a very
+different thing from an explanation, and there is no reason to
+suppose that ethnographically documented cases of mortuary
+practices provide a representative sample of forms of prehistoric
+social organization.
+   There has been increasing awareness of the complexity that
+might be encountered and a call has been made for investigation of
+processes of the formation of the archaeological record, processes
+which may complicate the expression of social organization in
+mortuary practices (O'Shea, 1981, 1984). In his study of 5 Plains
+Indian cemeteries O'Shea reaffirms the direct expression of social
+organization in burial practices but focuses on the additional
+relationship between the practices and their archaeological
+observation. It has also been noted that status need not be directly
+reflected in burial but may be suppressed as a form of ideology
+(Chapman and Randsborg, 1981, p. 14). However, rather than
+directing attention to the need to theorize such aspects of material
+culture they have been conceived primarily as just adding further
+complexity, distortion to be counteracted in the derivation of social
+pattern from the patterning of mortuary practices: 'what matters
+here is that the archaeologist evaluates the degree to which the
+mortuary data do reflect the social structure by means of
+complementary data (e.g. settlements and settlement patterns,
+metal hoards etc.)' (Chapman and Randsborg, 1981, p. 14).
+   The entire theoretical perspective on which this work is based
+draws heavily on structural-functionalist and role theory, as
+developed in anthropology and sociology (Firth, 1971;
+Dahrendorf, 1968; Merton, 1957; Nadel, 1957; Radcliffe-Brown,
+1952). However, the theoretical basis of this work remains scantily
+discussed. In the Archaeology of Death volume discussion of the
+theoretical basis underlying the archaeological approaches and
+analyses is virtually absent, apart from a few passing references to
+the work of Goodenough. Within the perspective offered in this
+book the notion of social structure implicitly employed is more or
+less equivalent to pattern. Significantly, the concept does not even
+appear in the index. Social structure (referred to in processual
+archaeology predominantly in terms of ranking) is considered to
+reside in the network of patterns of interactions between individual
+agents, arising either from an analysis of empirically given realities
+in social life, or abstractions based on these, such as the notion of
+social persona or role. Such a conception is directly analogous to
+that of anatomical pattern in biology, where the skeleton and
+
+                       SOCIAL ARCHAEOLOGY                        45
+
+organs may be held to provide a physical support for the body.
+Radcliffe-Brown considered social structures in terms of three basic
+problems: What kinds of structures are there and how best may we
+categorize them? How do they function and maintain themselves?
+How are the structures of different form constituted? For him, the
+basic unit of structure was the 'elementary family' from which other
+structural relations or kin ties could be deduced (1952, pp. 178-80).
+In role theory a number of different roles forming an actor's
+social persona are held to be enacted in different situations,
+with the roles changing according to whether they have been
+ascribed or achieved, and in terms of temporal enactment and
+context. Various roles may be acted out by any one person (e.g. a bank
+manager may also be a father and a Conservative Party official).
+   In any role system there may be various degrees of role
+summation, coherence, dependence or independence, within
+society or with regard to other roles. Such a theory provides an
+implausible and deterministic model of the relationships between
+individuals and groups. As Giddens notes, 'the actors only perform
+according to scripts which have already been written out for them'
+(1976, p. 16). A person's role is regarded as given rather than
+negotiated and renegotiated in practice. Actors merely slot into a
+number of prescribed roles and act in conformity with them. But it
+is people and not roles that actually constitute society. A serious
+debilitating effect of this conception of social structure adopted in
+processual archaeology is that it lacks any explanatory significance.
+Conceptions of role, social persona, or social structure only have
+significance as redescriptions of the archaeological evidence, they
+are not explanatory. Function, rather than structure, plays the
+explanatory role as human society can exist only in its activity; but
+as we have argued, the specification of function is yet another form
+of redescription of social practices and similarly remains non-
+explanatory. The possibility that underlying principles of social
+conduct exist in social forms, not directly discernible in terms of
+perceived social relationships or roles, does not exist within the
+framework of processual archaeology (cf. the consideration of
+social structure below and in chapter 3). This lack may go some
+way to affording an understanding of its predominantly descriptive
+emphasis and lack of explanatory content.
+
+
+                       Marxist archaeologies
+From an explicitly Marxist outlook, Rowlands in his later work
+(1982, 1984a) has outlined an alternative programme for a social
+
+  46             SOCIAL            ARCHAEOLOGY
+
+archaeology. With Gledhill (Gledhill and Rowlands, 1982, pp.
+162-4) he has proposed a conception of the social totality which
+differs markedly from the mechanical interactions of a systemic
+perspective, or the largely untheorized concepts of 'society' used in
+traditional archaeological narrative. Avoiding the formalism of
+Althusser's conception of the social formation with its determinate
+levels of economic base and superstructure and ultimate economic
+determinism and functionalism (see chapter 6), Rowlands has
+emphasized the necessity of theorizing total social systems with no
+implied hierarchy of determination:
+
+   theorising about long term socio-economic change in prehistory
+   involves us in the construction of models of total social systems in
+   which ideological, political and economic processes are linked to
+   each other in a dialectical interplay rather than as determinate levels
+   in a social formation.
+                                       (Gledhill and Rowlands, 1982, p. 145)
+
+But rather than an indeterminate interplay of relations Rowlands
+gives weight to the political:
+
+  History, in a concrete sense, emerges as the resolution of continuous
+  antagonisms existing between social subjects. What defines the social
+  whole, therefore, is the form of political articulation that constitutes
+  the totality of social relations . . . it has no particular locus (in the
+  state, for example)... It follows that politics is not definable in any
+  institutional form but refers more generally to power struggle and to
+  the idioms, symbols, and other means used to define relative status
+  and position.
+                                                   (Rowlands, 1982, p. 167)
+
+We shall take up these points in more detail below (pp. 57-60;
+7 2 - 8 ) . Rowlands has also raised the issue of the boundaries of
+units of analysis. First, in advocating world systems analysis, inter-
+societal exchange and interdependency, involving especially the
+development of core and periphery areas (e.g. Frankenstein and
+Rowlands, 1978). So,
+
+  The distinction between 'internal' and 'external' relationships is
+  therefore only a viable one in a limited sense. At given moments of
+  time, existing societies can be linked together in new ways, and the
+  results of this linking are not predictable without understanding how
+  this change in external conditions of reproduction bears on internal
+  structures.
+                                      (Gledhill and Rowlands, 1982, p. 148)
+
+                          SOCIAL ARCHAEOLOGY
+
+Secondly, Rowlands points to the analytical process of
+classification and categorization. So the notion of society 'forms a
+category only because archaeologists classify it as such, as part of
+the taxonomic space within which they operate and as part of the
+definition of their own discipline' (Rowlands, 1982, p. 164).
+Ultimately notions of society relate to the emergence of nation-
+states in Western Europe in recent times (ibid.) He also emphasizes
+the importance of analysis of contradiction within social forms or
+totalities - the internal generation of processes of transformation.
+This is associated with a call for a genuine theory of history
+'centred on social dynamics and transformation processes'
+(Gledhill and Rowlands, 1982, p. 14S), a denial of the opposition
+between the synchronic and the diachronic found in systems theory
+and functionalist archaeology more generally.
+   Rowlands stresses the materiality of the political and the
+ideological and, therefore, that both are written into the archae-
+ological record. The dialectical conception of social relations and
+social totalities advanced (as opposed to mechanical articulation)
+means, for example, that the economic and socio-political cannot
+be separated. It also means that the conception of totality is
+inseparable from its place in analysis. In Rowlands' words:
+
+  Analysis proceeds from the abstraction of the whole to that of its
+  parts and back to the whole again and from the abstract to the
+  concrete at each of these levels. Such a view is always partial in the
+  sense that some things are always left out, and the whole may or may
+  not correspond to what may be isolated empirically as a concrete
+  'society'. The totality is therefore a conceptual entity that has reality
+  only in the sense that it forms a mental appropriation of a real world
+  that exists separate from thought process. In this sense, population,
+  society, or a mode of subsistence could all be totalities and
+  abstractions at the same moment, the validity of their application
+  depending on how they relate to each other in the analysis of
+  concrete situations.
+                                                  (Rowlands, 1982, p. 163)
+
+This forms part of Rowlands' rejection of the categorical
+opposition between materialism and idealism, facts and values, the
+objective and the subjective, and the concept of reality (Rowlands,
+1984a), replacing these with a recognition of the active intellectual
+production of the past, with a critical awareness of the insertion of
+archaeological categorization and theorization within a Western
+political and intellectual context. This is, of course, in accordance
+with his conception of the political.
+
+                       SOCIAL ARCHAEOLOGY
+
+   It will be clear from the discussions which follow in this book,
+and elsewhere (Tilley, 1982; Shanks and Tilley, 1982; Miller and
+Tilley, 1984a, 1984b; Tilley, 1984, 1985; Shanks and Tilley, 1987),
+that we fully endorse Rowlands' programmatic statements
+concerning a true 'social archaeology'. However, we must reserve
+criticism for the specific form of the development of models of
+general processes of social transformation (Friedman and
+Rowlands, 1978) (see chapter 6).
+   Those archaeologists drawing inspiration in particular from
+recent Marxist anthropology (see Spriggs (ed.), 1984, for a
+bibliography) have made significant advances over competing
+social archaeologies. They have produced more sophisticated
+conceptualization of social totalities, extending consideration of
+the political and ideological issues of legitimation from a narrower
+focus on subsistence adaptation and interactions between
+technologies, environment and population found in processual
+functionalist archaeology (see above). However, most of
+Rowlands' aims for a Marxist social archaeology have unfortu-
+nately not yet been achieved.
+   Consider, for example, Parker Pearson's work on the early Iron
+Age of Denmark (1984a, 1984b); He makes a series of reasonable
+abstract statements about the implications of a Marxist
+archaeology:
+
+1 Marxist theory has practical (political) implications.
+2 Central to social analysis are conceptions of contradiction and
+   conflict.
+3 The role of ideology of articulating action and belief is another
+   key concept requiring theorization and analysis (1984,
+   pp. 60-3).
+4 This last point implies that artefacts cannot simply be categorized
+   according to economic, social or ideological criteria: a hoe may
+   be as ideological as a law code.
+5 Institutions may embody the social, economic and ideological;
+   the economy conversely may be considered religious or ideo-
+   logical practice. (1984b, p. 71)
+
+However, this theorizing appears quite separate from its
+application to the Iron Age of Denmark. In fact, what is 'applied'
+to the data is Friedman's model of social change among the Kachin
+of Burma (Friedman, 1975, based on Leach, 1954). Parker Pearson
+correlates and compares patterning in conventional classes of data
+in prehistoric Denmark (burial, votive and settlement evidence),
+
+                        SOCIAL ARCHAEOLOGY
+
+tracing the supposed expressions of Friedman's transformational
+cycles leading to the emergence of states. He claims that his study
+has attempted to outline one way of transforming material remains
+into social insights (1984a, p. 69). This involves a consideration
+of legitimation - conspicuous consumption, manipulation of
+ancestors and consciousness of social identity in ritual practices. So
+Parker Pearson produces some interesting comments on the
+possible relations between the living, the dead, ancestors, gods,
+tradition and spiritual sanctioning (1984a, p. 64). But the relation
+of material culture to practice is predominantly, for him, one of
+exemplification or expression. The particularity and detail of votive
+deposits, grave goods, bronze forms, pot designs, are simply
+absorbed into the general model.
+   Parker Pearson fits together a coherent social logic of transform-
+ation, one of competitive aristocracies, inflationary spirals,
+appropriation of surplus production and its legitimation (1984,
+p. 89). The only significant difference between this and the
+processual archaeologies outlined above is its emphasis on relations
+of production, their structuring effects on the social totality, and
+their ideological legitimation. However, this consideration of
+ideology needs to be taken much further (see chapter 3 below).
+   The reduction of vital insights and principles of Marxist theory
+to the status, of just another approach to be applied to
+archaeological data is even more clear in Kristiansen's work on
+prehistoric Denmark (1984). Marxist theory is to supply an
+evolutionary and systemic explanatory superstructure able to cope
+with all forms of archaeological data (1984, pp. 74-5). For
+Kristiansen, in effect, Marxism simply provides different boxes and
+connecting arrows (figure 2.3). The real strength of approaches
+derived from structural Marxist anthropology lies in the attempt to
+overcome a functionalist separation and reification of religion,
+politics, economics etc. as separate interacting subsystems.
+However, in practice, in the process of writing an account of the
+past, this seems to have made very little difference, hence the
+frequently adopted economistic models and 'applications'.
+Kristiansen places great emphasis On the distinction between
+cultural form and material function. Basically this amounts to say-
+ing that it is necessary to consider the material function of cultural
+manifestations: so Kristiansen regards megalithic monuments as an
+extension of the organization of production; this is their material
+function (pp. 80-1). Religion may have an economic role (p. 76).
+This highlights ideological legitimation: cultural form may have a
+legitimating (ideological) material function. This, of course, gives
+
+FIGURE 2.3 Kristiansen's 'Basic theoretical concepts' for the analysis of
+                        the social formation
+  Notes: The solid lines represent selective pressure; the broken lines represent
+                                adaptive response.
+ Source: From K. Kristiansen (1984). Reprinted by permission of Cambridge
+                               University Press.
+
+
+primacy to the social relations of production - that which needs
+legitimation. For Kristiansen ideology thus becomes a 'subjective'
+representation of the 'objective' - that which pertains to the social
+relations of production (settlement, subsistence, technology) (p. 78).
+  A functionalist logic and economism are quite evident here.
+Kristiansen proceeds to apply his general social model to the data,
+assuming the well-worn distinction between territorial megalithic
+chiefdoms and segmentary tribes of the Battle-Axe culture (social
+typologies again) (p. 77). It turns out that these represent an
+'agricultural' as opposed to a 'pastoral' tribal economy (p. 85).
+This, apparently, is the essence of 1,200 years of Danish prehistory.
+The different categories of data are mobilized around this
+distinction, described as 'very different cultural manifestations of
+
+                        SOCIAL ARCHAEOLOGY
+
+rather similar material functions of production' (p. 77); that is both
+belong to the category of tribal economy.
+  As with the processual social archaeologies, Parker Pearson and
+Kristiansen present us with a complex and often ingenious and
+imaginative interplay of social process involving more or fewer
+institutional categories such as economy, ritual, technology,
+ideology. This interplay is held to account for patterning identified
+in the archaeological record.
+
+
+           SOCIAL ARCHAEOLOGY: A SUMMARY
+
+While we acknowledge that the developments in conceptions of the
+social advances in archaeology since the early 1960s represent an
+immense theoretical improvement vis a vis traditional archaeology,
+we wish to follow Hodder (1982a, 1982b, 1985, 1986) in his
+summary critique of social archaeology. Hodder draws the
+fundamental distinction between social system and structure.
+System refers to the patterning and organization of social relation-
+ships; structure refers to the rules and concepts which give meaning
+to system. He argues that social archaeologies have been almost
+entirely concerned with the workings of social systems. This focus
+on system has several aspects and implications:
+
+   1 The concept of system emphasizes relations of power
+(dependence and authority and hierarchy, the movement and
+control of resources), exchange and trade, the character and
+control of subsistence, and in Marxist-influenced work strategies of
+ideological legitimation.
+  2 This conception of the social has been mobilized in archaeology
+as research strategies of the recognition and description of pattern.
+This has involved classification and ordering of artefacts according
+to their attributes, definition of types and styles, and correlation
+with other features of system; analysis of artefact distributions for
+possible correlations with social groups, activities, exchange
+networks; site locational analysis, searching for site hierarchies;
+analysis of the patterning of mortuary remains for correlation with
+original social context; societal categorization - the description of
+the past in terms of bands, tribes etc., its degrees of complexity; the
+description of subsistence strategies. These research aims have
+provided justification for the utilization of a wide range of
+statistical and mathematical techniques (e.g. Hodder and Orton,
+1976; Doran and Hodson, 1975).
+
+  .                     SOCIAL ARCHAEOLOGY
+
+   3 In its descriptive emphasis the focus is on what people do
+(although Marxist archaeologists may also focus on the structuring
+effects of social relations of production). The recognition of system
+(not necessarily implying the explicit adoption of a systems theory
+framework) is the recognition of regularized patterns of
+behaviours. There is little or no theorizing of social action, the
+intentional and meaningful practice of knowledgeable social
+actors.
+   4 The focus on behaviour rather than social action reduces
+material culture to an epiphenomenon of the social relations within
+which it is inserted - a product of social behaviour; a material
+resource to be controlled, exchanged; a sign of social interaction or
+difference; or a technology mediating population and environment.
+Hence the relative lack of theorization of material culture.
+   5 The descriptive emphasis involving behaviours rather than
+social action and reduction of material culture to epiphenomenon
+allows the fragmentation of theory. Economy may be theorized
+separately from ritual because it refers to different sets of
+behaviours (compare the outline of archaeological theory at the
+beginning of chapter 1).
+   6 The reduction of material culture to epiphenomenon also
+allows the development of levels of theory. Binford's 'middle-range
+theory' (1977, 1983, chs 17, 23-5, 28), as opposed to high-level
+social theory, depends on it being possible to predict artefact
+deposition without reference to social process.
+   7 The aim of processual archaeology is the specification of
+relations between variables such as subsistence, environment,
+technology, social ranking. These variables are the regularized
+patterns of behaviours just mentioned. Hence such social
+archaeologies can often be reduced to synoptic diagrams of social
+process: boxes and arrows, flow diagrams such as those illustrated
+above. A function of the emphasis on description, this reifies the
+variables and relations. There is little questioning of the meaning of
+the variables which remain essentially arbitrary: why subsistence,
+technology, ideology, rather than another categorization? There is
+a lack of theorization of the location of these variables in the
+practice of archaeological analysis. Usually their choice depends
+simply On the acceptance that the variables are analytical.
+   8 These variables are defined prior to analysis and, as just
+mentioned, are reified categories. This permits and encourages
+cross-cultural comparison and generalization. But historical
+particularity then becomes a problem: why any particular
+subsistence strategy?
+
+                        SOCIAL ARCHAEOLOGY                         53
+
+   9 The emphasis on description of system as relations between
+variables of patterned behaviours results in a radical occlusion
+of the individual. The individual social actor is reduced to a
+support (theoretically absent) for the patterns of behaviours or
+becomes aggregated into just another variable - population.
+   10 A specification of the relations between variables, the
+working of the system, and its correlation with, or identification in,
+archaeological data is held to constitute an explanation. This is
+often implicitly or explicitly functionalist: a variable is held to be
+explained if it functions in the working of a whole. But this
+singularly fails to explain anything about the particularity of any
+variable. Again: why this subsistence strategy, this form of burial
+rather than another? Function is not an explanatory concept when
+applied to the social; it remains descriptive. Function also tends to
+be separated out from style which then becomes a problem: why
+this pot design rather than another? (See chapter 4.)
+   11 The other problems of functionalism are also present; concepts
+such as homoeostatis or adaptation mean that change becomes a
+problem originating necessarily in dysfunction or alteration of
+parameters external to the system, in the society-environment
+relation. This separates statics and dynamics: specification of the
+workings of a system is separated from processes of change.
+   12 Processual social archaeologies have treated the theorization
+of social totality as an issue of definition or specification. The
+problem of social units and their boundaries and interaction has
+been recognized with the development of concepts of world system
+and peer polity interaction. However, there has been little
+theorization of the structuring of the totality: what structures the
+whole; what is the meaning of the particular relations between the
+constituent variables and the wider question of the meaning of
+categories such as band, chiefdom; and theorization of societal
+boundaries.
+   13 Social change tends to be conceived purely descriptively as
+the empirical rearrangement of the variables of patterned
+behaviours. In that these variables are reified and defined prior to
+analysis, neo-evolutionary cross-cultural frameworks of cultural
+change are facilitated. These are extensively criticized in chapter 6.
+We simply comment here that the particularity of the historical
+event and context becomes a problem, occluded in the description
+of social process.
+   Hodder has stressed the necessity of considering social structure
+- the context of meanings of any social act; the generative rules
+
+                        SOCIAL ARCHAEOLOGY
+
+which form structured sets. A question such as why one subsistence
+strategy existed in a particular social totality rather than another,
+equally 'adaptive', can only be answered by considering the
+meaningful context of the subsistence strategy, the rules which
+generate any particular social action - this is the question of
+structure (cf. the notion of structure adopted in processual
+archaeology in the analysis of mortuary practices discussed above).
+It is necessary to consider the meaning context and structure of, for
+example, a particular system of ranking or a particular subsistence
+strategy, not least because 'behind the social system is a structure of
+meaning which determines the relationship between material
+culture and society' (Hodder, 1982b, p. 153). As archaeologists we
+are concerned with how social system extends into material culture;
+this requires a theorization of material culture which must take
+structure into account. We take up the concept of structure in more
+detail in chapter 3 and consider it in relation to material culture in
+chapter 4.
+
+
+
+ SOCIAL ARCHAEOLOGY AND A LOGIC OF NECESSITY
+
+In extending our critique of social archaeology we now take up
+some ideas developed by Laclau and Mouffe (1985) and consider
+two assumptions which lie behind most social archaeology:
+
+1 That the social constitutes an intelligible totality, conceptually
+  explicable and definable (in whatever senses).
+2 That the history of society has a rational substratum (this is, of
+  course, the rationale for evolutionary archaeology of whatever
+  sort).
+We argue that both of these assumptions involve a logic of
+necessity. Key elements of 'society' or the social totality are defined
+in the abstract and related by some form of social logic: descriptive,
+cybernetic, economistic, functionalist etc. These elements become
+the metasubject of History. The concrete, the particular is subsumed
+beneath the abstract categories; the mass of data is brought to
+order, classified, reduced to its essentials.
+   There are two basic arguments in this process:
+
+1    An argument from appearance: surface appearances, differ-
+    ences can be reduced to identity.
+
+                         SOCIAL ARCHAEOLOGY
+
+2 An argument from contingency: if surface data or differences
+  cannot be easily incorporated into a category, they do not
+  matter, or at the very least are irrelevant, contingent to the
+  social model being used.
+
+   A logic of necessity defines the necessary categories, the
+necessary character and relations of elements of the social. It
+specifies which things are necessary for society to be society. A
+logic of necessity involves a research strategy of recognition
+- recognizing pattern in the data which relates to elements or
+categories or concepts defined and related in the assumed social
+model. Pattern becomes an emanation of the pre-defined and
+eternal essential: what necessarily constitutes the social totality.
+History and the social totality are conceived as having essences,
+essential features, which operate as their principle of unity. They
+have something in common: the essential, the necessary. History
+itself is ordered according to processes of selection (of that which
+supposedly pertains to its essential meaning), incorporation into
+general abstract and necessary categories, and exclusion of that
+which is deemed irrelevant. History is brought to order. Everything
+is to be accounted for, whether in terms of incorporation or
+exclusion, conceived as representing the necessary or the
+contingent. So the telos of a logic of necessity is totality: everything
+in its place. Selection, incorporation and exclusion thus become a
+legal system behind the order; they represent reason's pretension to
+legislate and control history, bringing order to an anarchy of
+dispersed particularity and difference.
+   Consider Bradley's book, The Social Foundations of Prehistoric
+Britain (1984). This is a thematic synopsis. It brings the mass of
+data to order through the literal application of models drawn from
+anthropology and anthropologically informed archaeology. Each
+chapter takes a theme as a means of explaining a particular stretch
+of chronology. Hence in chapter 2, entitled 'Constructions of the
+dead', scenarios are sketched for the period 3500-2500 BC
+involving the possible relation of farming communities to economic
+resources and ancestors and focusing on the construction of
+communal tombs. Test implications are drawn (how to recognize
+each scenario or model); then the patterning in the data is assessed
+against the model. It is, again, a search for empirical patterning
+directly representing social process. But there is a remainder to
+Bradley's effort: variety. He comments: 'within the general
+framework suggested here [chapter 7: a general synthesis], there are
+numerous variants... I doubt whether this book has come to terms
+
+  •                     SOCIAL ARCHAEOLOGY
+
+with the sheer complexity of the evidence' (p. 166). The range of
+explanatory models appearing in the book are very limited: prestige
+goods economies (some with core/periphery distinction); ritual in
+agricultural society; conspicuous consumption. Bradley ends up
+with three cycles of prestige goods economies explaining 4,500
+years of prehistory in Britain.
+   But what happens to all the detail? It is all subsumed? Does it
+simply support the models? Will there always be this remainder?
+This contingency? The irrelevancy of so much detail? One answer
+offered to this problem is that of pluralism. It is accepted that
+different archaeological approaches emphasize or select different
+aspects of the data base. So subsistence studies supplement social
+evolutionary work supplemented by palaeoenvironmental studies
+(e.g. Rowley-Conwy, 1986, p. 28). Such pluralism is considered
+healthy, fostering debate, adding to the richness of archaeology as
+a discipline (Renfrew, 1982, 1983) and covering a wide variety of
+aspects of the archaeological past.
+   However, the different approaches may well imply different
+totalities conceived as explanatory context for archaeological data:
+for example, the ecosystem for palaeoeconomy as opposed to social
+formation for Marxist archaeologists. How are these different
+totalities to be reconciled? One answer has been the search for a
+metasystem, a totality, theoretical or substantive, which can
+incorporate all approaches. Clarke's project of an analytical
+archaeology (1968; cf. 1973) can be viewed as such a totalizing
+systematics. More recently, Kristiansen (1984, p. 74) has claimed
+that Marxism (or, at least, his version of it) provides an integrative
+framework which supposedly incorporates all archaeological
+aspirations (for him a systemic and evolutionary outlook). On the
+other hand, we have already argued that any approach may be
+deemed to be acceptable so long as it conforms to the canons of
+what is presupposed to be rational method (see chapter 1). Hence
+different approaches are simply irreconcilable; their sole unity is
+simply that they have been used by those individuals who label
+themselves archaeologists.
+   None of these answers challenge a logic of necessity. The result is
+as we described in chapter 1: archaeology labouring under an
+extraordinary redundancy of detail, so much apparently irrelevant
+particularity, theoretically fragmented, a labyrinth of borrowed
+approaches and levels of theory.
+   We have described a logic of necessity as involving a set of
+categorical oppositions:
+
+                          SOCIAL ARCHAEOLOGY
+
+             Totality                        Fragment
+             Necessity                       Contingency
+             Essence                         Appearance
+             General                         Particular
+             Abstract                        Concrete
+             Identity                        Difference
+             Incorporation                   Dispersal
+             Legality                        Anarchy
+
+The left hand column is given priority over the right. Ultimately
+this relates to the general conception of the archaeological record
+(mentioned at the beginning of this chapter) which involves an
+occlusion of the individual; social actors are conceived as
+essentially lost in comparison to the social unit or whole of which
+they were a part. The social whole is thus split, theoretically and
+substantively, from the individual. As in chapter 1, we shall use the
+strategy of mediation as a way forward. First, we shall outline a
+logic of contingency, and then in the next chapter present a theory
+of the individual and social practice.
+
+
+                  A LOGIC OF CONTINGENCY
+
+We argue that 'Society', in the sense of the social totality of a logic
+of necessity, doesn't exist. There can be no general and abstract
+categories nor systems of logic which coherently represent social
+totalities or history. Nothing exists in itself, self-identical, a full
+presence to itself in a relationship of total interiority. Such
+existence is by definition transcendental; so involving a
+metaphysical assumption, an appeal to foundational legislative
+authority, substantia, the Cartesian cogito, a legal system (such as
+rational method), a logic of essences. There is no ultimate literality,
+literal existence, objective substance, 'society', from which
+artefacts, social relations etc. can be derived; there are no identities
+fixed for all time. It is therefore not possible to specify society as the
+object of archaeology (Rowlands had made this point in advocating
+'world systems', stressing the problem of the edges of 'society'; cf.
+also Giddens, 1981, pp, 23, 82-3, on societal space-time edges).
+Instead, we wish to stress internal relations (relations which have no
+existence separate from the entities they relate, being part of those
+entities). On the question of identity - the identity of anything does
+not consist of a list of attributes (to what would they belong?), but
+
+                        SOCIAL ARCHAEOLOGY
+
+must be referred to a relational order. As we argued in chapter 1,
+identity presupposes a relation of difference to something else.
+Identity is differential, depending on systems of difference,
+relational sequences. Identity is always incomplete, never final
+because of the potential infinity of relations of difference. There is
+always a surplus of meaning because the presence or trace of some
+things in others (their internal relations) prevents total fixation,
+prevents meaning being pinned precisely down. And that identity is
+regularity in a relational system presupposes a practice of
+establishing order. Identities are established in practice. All this
+means that every identity - social, conceptual or material - is
+negotiated in practice. This act of negotiation is a political practice.
+   To adopt such a position is to assert that the social is open. Social
+order is an achievement of practice, it is a domestication of
+difference, a political project of creating order, fixing identity,
+cutting down the surplus of meaning. 'Society' is not a datum, an
+abstract given, but a construction. Hence 'necessity', as we have
+used the term, doesn't refer to underlying principles or essences
+(that which is necessary for 'society' to be 'society'), but refers to a
+practice of fixing contingency. This is also to accept over-
+determination (Althusser's use of the term) of entities - the
+'economic' may be overdetermined by the 'religious' because the
+economic has no essential identity, no automatic necessity, its
+meaning is established in social practice.
+   At this point it is instructive to consider another 'remainder' in
+Bradley's book (1984): the series of epigraphs heading the chapters.
+What is their purpose? Entertainment? They appear unnecessary,
+contingent; some seem to be held to convey eternal truths about the
+human lot, but none are discussed or taken up in detail. The
+epigraphs punctuate the text, punctuate history. As literary devices,
+they are a presence of textuality. They draw attention to the book
+as text; but textuality, discourse, is an absent theoretical presence in
+Bradley's synopsis. Bradley's discourse is one of plenitude
+- compilation, the filling out of a theme, a position. The text fills a
+gap. Its presence presents the past; it conveys the past more or less
+transparently; language is conceived as a neutral vehicle to present
+the past. That discourse itself is an event is eclipsed (existing only in
+the gaps, at the margins - in Bradley's epigraphs). But, as we have
+stressed, we write archaeology now. Discourse is not identical with
+the past; concepts are not identical with the past. It is essential to
+realize this. There is no necessity about doing archaeology or
+writing archaeological texts; archaeological discourse is a contem-
+porary event, not abstract plenitude. Knowledge is not a
+
+                         SOCIAL ARCHAEOLOGY                          59
+
+recognition of the eternal (as implied in a logic of necessity) but is
+fundamentally part of contemporary social practice, rooted
+therefore in political relations of power.
+  We can now draw some points together:
+
+   1 We argue against social archaeologies which are reductionist
+or essentialist, reducing the particular to an abstract social logic, to
+a priori categories, defining and searching for essential features of
+society and history.
+   2 This means there can be no hierarchy of determination: for
+example, that the economic, or more general relations between
+population and environment, determine the general form and
+trajectory of society as opposed to other institutional forms such as
+the 'political' or the 'religious'.
+   3 Concomitantly, there are no universal series of social units,
+such as band, tribe, lineage, mode of production, available for use
+in archaeological analysis. Such over-generalised concepts need to
+be abandoned.
+   4 We wish to stress not a better definition of 'society' as a layer
+cake or flow diagram, but rather the construction and constitution
+of social order in social practice. The social is an overdetermined
+relational whole, an open field of relations, an indeterminate
+articulation. Social order is constituted in the practice of individual
+social actors which relates to historical context, not an abstract
+universal pattern. This is to stress the primacy of the political:
+practical negotiation, strategy and power in the structuring of
+social reality.
+   5 A corollary of the fourth point is the need to stress the prac-
+tical constitution of the past in the discipline of archaeology.
+Archaeology is a discursive event; its practice is a mediation of
+archaeological subject and object, present and past. Neither can be
+reduced to the other. The archaeological object cannot be precisely
+and conceptually captured. Past and present can only be held
+together in their difference, in their non-identity in the event of
+interpretation. Rather than a totalizing systematics of precise self-
+contained concepts, this requires a different and critical set of con-
+cepts themselves rooted in the event of interpretation. For example,
+'totality' is not to be regarded as an affirmative, but as a critical
+category - the idea of critique finds its roots in the Greek krinein:
+to separate, distinguish, judge, condemn, contend, struggle. This is
+to affirm the importance of polemic; only polemically, we might
+also say politically and rhetorically, does reason present itself as a
+total reality. Hence a total system is a political project of fixing
+
+ 60            SOCIAL          ARCHAEOLOGY
+everything in place, a legal system of control. In this sense we need
+to convict totality of non-identity with itself, to deny a totalizing
+systematics, the final solution to all archaeological ills. But at the
+same time material culture can only be understood through teasing
+out its relations with other entities, setting it within a relational
+whole, tracing its dispersal, its meaning within social practice.
+   6 We need also to appreciate the materiality of'the archaeological
+object. The artefact is a material fragment, a riddle neither directly
+revealing nor concealing 'the past', 'society' or whatever category.
+Artefacts do not represent the past, they are not a property of
+the past. Artefacts signify. Signification requires reading, inter-
+pretation, not an application of 'method' which produces its
+object in advance. Consequently, there are no progressive stages
+through which analysis must pass, for example moving from the
+more general to the particular, or incorporating data in wider and
+wider scales of categories. We conceive interpretation as an act
+renouncing finality, as a denial of universal history, the idea of
+coherent unity and completed development. Interpretation is
+associated with a strategic knowledge (Shanks and Tilley, 1987,
+ch. 5), not abstracted from its social conditions of production, but
+polemically responding to specific conditions, attending to historical
+and political circumstances, a knowledge rooted in contemporary
+structures of power.
+   In the chapter that follows we present a set of concepts which we
+intend as a contribution to this programme of a critical social
+archaeology, beginning with the concept of the individual or the

@@ -1,0 +1,2473 @@
+                                  CHAPTER           4
+              A CONCEPT OF CULTURE               FOR ARCHEOLOGY
+       LTHOUGH much was said in the pages of Part I about “cultural contexts”
+         and although the terms culture and cultural were freely used, these con-
+  cepts were not defined. But some agreement as to a concept of culture is ab-
+  solutely vital to a conceptual scheme for any discipline, such as archeology,
+  which identifies its subject matter as cultural. Thus it is a necessary and integral
+_ first step in the conjunctive approach to) establish a concept of culture. In the
+  present study, the definition of this concept will be specifically oriented toward
+  archeological materials and serviceability to archeologists. Although I believe
+  that the concept will be found useful for other disciplines dealing with cultural
+  studies, it is not to the present point to argue this belief. If the concept proves
+  of value for archeology, that will be justification enough, and the course of the
+  conjunctive approach can be charted forward from there.
+       There have been many definitions of the concept culture. Some of them have
+  been complex and a few have been overly simple. My only excuse for offering
+ another, somewhat modified version is that none of the current examples appears
+ to fulfill the needs of archeological study, and some of them seem to be actually
+ misconceived. But above all, there is one point, consistently encountered in
+ statements about culture, with which I find I must take particular issue. To
+ anticipate briefly: the word culture denotes not one concept, but two. This fact
+ is regularly overlooked by the culture-definers. The two concepts are related, but
+ they are distinct and on two different levels of abstraction. This ambivalence is
+ the source of basic misconceptions and will be the first point taken up in develop-
+ ing a concept of culture for archeology.
+     In the following discussion, I have made an especial attempt to keep down
+ the number of quotations and references in the text. For those who might be
+ interested in pursuing the topic, a bibliography is included in the Notes. But
+ it has seemed conducive to a clearer presentation of my own point of view not
+ to interrupt the train of argument too often with corroborative or antithetical
+ documentation. I wish to thank the authors in the cited bibliography for their
+ stimulating ideas and to draw attention to the obvious fact that, without their
+ thoughts acting as a back-board against which to bat my own, it would have been
+ impossible to develop the concept offered here. I admit to having made extensive
+ use of their ideas and do not mean in any way to slight or plagiarize those who
+ have fed my mental processes. Nevertheless, in these days of expediency, I
+ hope my manifestly great debt will be forgiven without more specific credit for the
+ sake of easier reading and more concise argumentation.*°°
+     The development of a concept of culture for archeology may be inaugurated
+                                          97
+   98
+
+    by making three fundamental points. First and most basic is that, as it is now
+  ~ commonly used, the word culture designates two concepts: (1) a concept which
+    is holistic/and used to distinguish phenomena that are “cultural” from those
+    that are “natural,” i.e., organic and inorganic: biological, geological, chemical,
+    etcy, and (2) a concept which is on a secondary level of abstraction, which is
+   partitive, ‘which denotes a segment of the holistic concept, i.e.,)a@ culture. |The
+Y  “second point is that culture is a mental phenomenon, consisting of the contents of
+    minds, not of material objects or observable behavior. And the third point is that
+    a “trait” or unit of culture can be either shared or idiosyncratic, i.e., it can be _
+    common to many individual minds or to the mind of a single individual. These_~
+    three points will be taken up in order, and their substantiation will constitute a
+    reasoned development of a concept of culture.
+          The archeologist who finds an oddly shaped stone during the progress of his
+    excavations will ask himself whether that stone is “natural” or “cultural.” By
+     this question, he means to inquire whether it is a product of human activity or
+    merely a peculiar formation caused by some geologic or meteorologic force. A
+     recent article in American Antiquity (Goldsmith, 1945) is at great pains to dis-
+     tinguish between skulls exhibiting a pathologic anomaly called the ‘‘Catlin Mark”
+     and skulls which have been modified through the act of trephining. In other
+     words, the article desires to distinguish between the “cultural” and the “biologi-
+    cal.” Lowie has said that “ethnology is simply science grappling with the
+     phenomena segregated from the remainder of the universe as ‘cultural’ ” (1936a,
+     p. 320). In effect, this is saying that there must be categorization on the basis of
+     cultural as opposed to non-cultural phenomena before ethnological study can
+     begin. Strong said that the major aim of anthropology is to elucidate the rela-
+     tionship between “man and culture” (1936, p. 364), and Kroeber said the aim
+     is to interpret those phenomena into which both “organic and social causes enter”’
+      (1923, p. 3). For problems involving two factors, the primary procedure must
+     be to differentiate between those factors. Thus both Kroeber and Strong imply
+     that the prerequisite for anthropological study is to distinguish the cultural or
+     the social from the organic and then to examine their interrelationships and
+     mutual products.
+          If, as seems to be the case, the cultural is to be segregated from other cate-
+     gories in the problems set for themselves by the archeologists, ethnologists, and
+      other students of the so-called social. sciences, then it is an absolute necessity
+      that the primary breakdown of their data be made upon exactly that basis: the
+      cultural and the non-cultural. The fact that non-cultural factors often impinge
+      upon and influence phenomena which are considered cultural does not alter
+      this requirement. The fact that culture is not literally “super-organic’”’ means
+      only that there actually is a relationship between what can be defined as cultural
+      and what can be defined as organic. But the crucial point is that the two sets of
+  TAYLOR                     A STUDY    OF ARCHEOLOGY                               99
+
+    phenomena have to be defined, if only for the sake of study. If two factors are
+    so hopelessly mixed that they cannot be separated, there are no means of study-
+    ing their interrelationships or their individual effects upon tertiary phenomena
+    into which they both enter as factors or “causes.”
+         Thus it is that for all the so-called social sciences the primary breakdown of
+ _ data, the first level of’ abstraction, hinges upon a concept of culture set against
+    concepts of the same level, such as the organic, the inorganic, the geologic, the
+  _chemical, etc. Culture must first be defined so as to discriminate between it and
+    those other concepts which are on the same level of abstraction.
+         The second concept of culture is on a secondary level of abstraction and
+    serves to denote a culture. Whereas the first was holistic, the second is partitive.
+    It designates a more or less cohesive and separable segment of that whole which
+   was denoted by culture in the first sense. The first concept serves to designate what
+    is cultural from what is not; the second serves to distinguish between the unitary ‘
+   segments of the whole that is culture. For example, we identify Western
+   European culture, Eskimo culture, or the culture of second generation Swedes
+   in Minnesota. But we would be unable to partition the whole into segments
+   unless we had already determined what made up that whole, i.e., what was cul-
+   tural and what was not. The logical order of procedure is first to determine what.
+   is cultural and then to determine whether certain of these cultural phenomena
+> are such that they can acceptably be grouped into a culture.
+        It may appear that discriminating between these two meanings of the word
+   culture is splitting hairs, that actually we are faced with a single concept and
+   its constituent parts rather than two concepts. This would be a justifiable criti-
+   cism if all those particular individual cultures denoted by concept No. 2 added
+   up to the whole denoted by concept No. 1. But this is not the case. The holistic
+   concept is in a manner of speaking an emergent. It includes more than the sum
+   of those separable segments denoted by concept No. 2. The whole that is culture
+   is greater than the sum of all the particular cultures which are part of it. This
+   assertion will not be defended at this time because the entire third section of
+   this chapter, i.e., the one devoted to the point that culture “traits” can be
+   either shared or idiosyncratic, is nothing more than such a defense. Here, only
+   two aspects of a corroborative nature will be presented.
+        In the first place, as far as the need to distinguish between the two concepts
+   is concerned, it makes little difference whether the whole is, or is not, greater
+   than the sum of its parts. The need is still present. It has been shown that we
+   are dealing with two levels of abstraction when we talk of cudtwre and a culture.
+   This fact alone is sufficient to make a separation worth while. This is distinctly
+   so, if only in order to avoid theoretical confusion and guard against falling into
+   the Fallacy of Misplaced Concreteness (Whitehead, 1927, pp. 73-86). In the
+   second place, this quasi emergent quality of culture should not be difficult to
+ 100
+
+
+ visualize, for the case here is no different from that in, say, zoology. For example,
+ a sport or drastic mutation in an ornithological species may be unassignable to
+ any one particular species. It may be taxonomically isolated and unclassifiable on
+ a specific level, but it nevertheless must still be regarded as a bird. Thus the
+ Class Aves is greater than the sum of all the members of all the identifiable
+ avian species. For another example, let us imagine the offspring of a mating
+ between an Eskimo and a Hottentot. This ““Hotteneskimo” could not be pigeon-
+ holed with either of these “pure” biological categories. As the only one of his
+ kind, he would not fall into any “racial” group. Yet, our Hotteneskimo would
+ surely have to be classified as Homo sapiens, and thus he would increase by one
+ the number of the whole, i.e. Mankind, while altering the statistics for the
+ “races” not a whit. That this same set of circumstances is operative in the realm
+ of the cultural will be shown later in this chapter.
+
+      It should be most clearly stated that, in the following discussion, I shall be
+ defining culture only as a holistic concept. The relation of the partitive to the
+ holistic concept will perforce have to follow the establishment of the latter.
+       The second point in this definition of the concept culture is that culture is a
+_mental construct, having to do with the contents of minds and not with material
+ objects or observable behavior. This contention is based on deductions from two
+  premises which have assumed axiomatic character in the literature of cultural
+  studies. The first is that “the prolonged infancy of man is regarded universally
+  as one of the necessary conditions of culture” (Powdermaker, 1945, p. 310). As
+  Linton has said (1936b, p. 72), the importance of this long period of parental
+  dependency is that it permits and insures learning on the part of the infany That
+_is to say, it facilitates the acquisition of mental constructs.
+                                                               /Its value for culture
+  most certainly does not lie in the acquisition of material objects or the accumu-
+  lation of behavioral acts divorced from their mental residue. The advantages
+ of a lengthy infancy are not in the collection of innumerable old shoes, building
+  blocks, parts of internal combustion engines, and radio tubes. Nor is it of any
+  advantage to the child to perform whole constellations of behavior without retain-
+  ing in his mind a residue of ideas pertaining thereto. By themselves, neither ob-
+ jects nor behavior will be of value to the infant or to culture. The important
+ factor is obviously the one which remains in the mind to be carried on, modified,
+ transmitted. The premise that prolonged infancy is important for culture implies
+ and is based on the fact that culture is a mental phenomenon.
+     The second premise is “the fact that the cultural content is a heritage of the
+ past and that it is cumulative” (Goldenweiser, 1929, p. 566 fn.). The culture-
+ whole existing today owes its form and at least the majority of its content to
+ what is called the cultural heritage. Students of culture seem to be agreed on this.
+ point. The reason we are able to progress the way we do (they say) is because
+  TAYLOR                     A STUDY   OF ARCHEOLOGY                             101
+
+
+  we are able to build on pre-existing culture foundations. The reason that certain
+  civilizations have flourished more than some others (they say) is because they
+  have received more, or more elaborate, “culture streams.” The deductions from
+ this premise are the same as from the first: culture is a mental construct and does
+ not consist of material objects or observable behavior.
+     The test of this contention is in an examination of the transmission of
+ culture. The reason that the culture corpus is more elaborate today than
+ formerly is not because of the transmission down through the ages of a lot of old
+ Roman chariots or Chinese firecrackers, or because the actual acts of early
+ Teutonic, Slavic, or Arabic behavior have survived, or because the actual sounds
+ produced by bygone Africans have been preserved to the expansion of modern
+ music. These objects and acts of the empirical world have long since passed
+ away and become as nothing. What has remained to fertilize present-day culture
+ are the mental components of these phenomena. The modern steamboat is based
+ on Fulton’s ideas, not on physical additions to the structure of the original Cler-
+ mont. Once a dance pattern has been stepped out upon the ground of some tribal
+ plaza, it has gone. What remains to be passed on as a culture heritage, to be
+ added to and taken from, are the mental constructs pertinent to that pattern
+ and from which that pattern was derived.
+     Malinowski has several times made this point (e.g., 1931). Mere physical
+ form is extraneous as far as culture is concerned, being a property of the world
+ of physics and not of culture. But in one place Malinowski has also maintained
+ that culture “is nothing but the organized behavior of man” (1936, p. 440)
+ and in another that culture is “the integral whole consisting of implements and
+ consumers’ goods, of constitutional charters for the various social groupings, of
+ human ideas and crafts, beliefs and customs” (1944, p. 36). These statements
+ seem to encompass a large range and to controvert the limited view expressed in
+ the present study. There arises the question, therefore, of the relations between
+ behavior, implements, and the concept of culture as a mental phenomenon.
+     According to the concept of culture being developed here, culture is a
+‘Tmental construct consisting of ideas. Under the termi idea; for present purposes,
+  are subsumed such categories as’attitudes, meanings, sentiments, feelings, values,
+  goals, purposes, interests, knowledge, beliefs, relationships, associations,/These
+  ideas are not themselves observable. They are objectified and made observable
+_ through the action-systems of the body, being activated in the form of behavior
+  that is observable both visually and audibly. In turn, this behavior results in
+“material objects such as axes and automobiles, and non-material manifestations
+ “such as dance patterns, musical tones and rhythms, styles of graphic and fictile
+  representation, etc. For example, there is present in an Indian’s mind the idea
+  of a dance. This is the trait of culture. This idea influences his body so that he
+  behaves in a certain way. The result of this behavioral activity is the pattern of
+102
+
+
+the dance, the sequence of body motions, etc. Both the behavior itself and the
+resulting patterns are observable, but for this very reason they are fleeting. The
+culture idea is not observable but endures in the Indian’s mind to be repeated
+again.                                                                         :
+    Both behavior and the results of behavior, if they stem from ideas, pertain to
+culture. They are not culture, but they are|“‘cultural! “Thus we are dealing with
+three orders of phenomena, two of which pertain to mate and are thus cultural,
+but only one of which is culture~A stone axe, a song, a dance performance are
+not culture traits. They are objectifications of culture traits. The elements or
+traits of culture are unobservable and must be inferred from their objectifica-
+tions, from behavior or the results of behavior. This is true whether we are
+dealing with data that are ethnographical, archeological, archival, verbal, ob-
+servational, or whatever.
+     It also follows from this that the concept of “material culture” is fallacious.
+Culture is unobservable and non-material. Even behavior, although observable,
+is non-material. It is only when we come down to the third order, the results of
+behavior, that thereis a problem of material and non-material categories. But
+this order consists only of objectifications of culture and does not constitute
+culture itself. Therefore, the term material culture is a misnomer         and the
+dichotomy between material and non-material relates only to observable results
+of cultural behavior, not to culture itself.
+    Thus it is that culture itself is completely inferential and non-experiential
+from the observer’s or objective point of view. The primary data of all culture
+studies, therefore, are found in categories of the second and third orders, in
+cultural behavior and the material and non-material results of cultural behavior.
+The implications of this fact for archeology are easily envisioned. A detailed dis-
+cussion of this point, however, will be postponed until the next chapter.
+
+     The third point in this definition of the concept of culture is that culture
+traits may be either shared or idiosyncratic, belonging either to one mind or to
+several individual minds. It follows that an object or a bit of behavior may be
+cultural even if it is the only example of its kind in existence or ever to have
+been in existence. These assertions are in contrast to the stated or implied beliefs
+of the majority of those who have written on the subject of culture. Variously,
+it has been said that culture is “social behavior” (Sapir, 1927, p. 117; 1938, p.
+9), “social heredity” (Linton, 1936b, p. 80), or that one indispensable factor
+of a trait of culture is its quality of being shared (Kluckhohn and Kelly, 1944,
+pp. 4-6, 32). These views, I believe, are the result of shifting between culture
+concepts No. 1 and No. 2 without making due allowance for the change in level
+of abstraction. They are the result of starting to talk about culture and ending
+by talking of a culture, or vice versa. For example, Linton says:
+TAYLOR                        A STUDY     OF ARCHEOLOGY                                 103
+
+Any item of behavior, and so on, which is peculiar to a single individual in a@ society
+is not to be considered as a part of the society’s culture. ... Thus a new technique
+for weaving baskets would not be classed as a part of culture as long as it was
+known only to one person. (1945a, p. 35, italics mine)
+
+I would be in agreement with his first sentence: an individual peculiarity is not
+part of a society’s culture, part of a particular culture. But on the holistic level,
+where the anthropologist must distinguish between what pertains to culture and
+what pertains to the organic and inorganic realms, just how is this weaving
+technique to be classified? It seems to make more sense to categorize it as cultural
+than to say that it is biological or chemical. Whatever the decision, it is very
+apparent that Linton has slipped from talking about the culture of a society,
+or a culture, to talking about what is part of culture. Perhaps this is a literary
+slip, but that fact in itself might be significant. It becomes more so, and one
+begins to wonder if after all it was purely literary, when one finds him virtually
+repeating himself by saying that “culture as a whole consists of the sum total of
+a society’s patterned responses to its needs” (1936b, p. 411, italics mine). The
+case begins to look even more conceptual when we find Kluckhohn and Kelly
+saying:
+ But culture is like a map. Just as the map isn’t the territory but an abstract representa-
+ tion of the territory so also a culture is an abstract description of trends toward
+ uniformity in the words, acts, and artifacts of human groups. (1944, p. 26, italics
+ mine)
+
+     For another, Murdock lists the seven basic assumptions of culture by starting
+ with ‘‘culture is learned,” “culture is inculcated,” and then for his third assump-
+ tion saying:
+Habits of the cultural order are not only inculcated and then transmitted over time;
+they are also social, that is, shared by human beings living in organized aggregates
+or societies and kept relatively uniform by social pressure. They are, in short, group
+habits. (1940, p. 365, italics mine)
+
+ And again, Dollard says that “ ‘culture’ is the name given to these abstracted
+  (from men) intercorrelated customs of a social group.” (1939, p. 50, italics mine)
+      I believe that there is shifting from one level of abstraction to another in these
+ examples, and I also have two other beliefs concerning the statements themselves:
+ first, that demanding the shared or “social” criterion before archeological data
+_can be considered cultural is an unworkable and impractical requirement; and
+ second, that when the ethnologists and sociologists demand it for their own data,
+ they are confused between the discrimination of one culture from another and
+the discrimination of what is cultural from what is non-cultural. I believe that,
+if they were taxed with this conceptual ambivalence, they themselves would
+deny the criterion of sharing as a requisite for the holistic concept. As I will
+104
+
+
+attempt to show somewhat later, it is a logically untenable position and is not
+held even in their own writings. First, however, I shall argue a more immediate
+claim: that the requirement is unworkable and impractical for archeology.
+    Let us return to the archeologist who dug up the oddly shaped stone and
+wished to know whether that object pertained to his research as a student of
+cultural phenomena or whether it belonged to the investigations of his colleagues
+the geologists, the students of “natural” rock formations. Let us suppose that
+the archeologist found (as we did in Coahuila, Mexico) the surface of the stone
+to be covered with tool marks, its present shape obviously the result of carving,
+and its color due to an application of red paint. And let us suppose that only
+one specimen was found at the site and that no other examples were known in
+archeological literature. In what category would the archeologist be justified in
+classifying this specimen? According to those who would restrict the terms
+culture and cultural to shared or “social” ideas and objectifications, this single
+specimen could not be classified as cultural and therefore would fall outside of
+the range of cultural studies. It would be foreign to the investigations of the
+archeologist as a student of culture. Is this what the culture-definers have
+intended? Is this stone to be rejected from consideration by ‘“‘social scientists”
+and turned over to... but to whom? Does it fit more readily into the researches
+of the physicists? Or is it more significant to geological studies or chemical
+studies?
+    Perhaps we should demand that the archeologist find another similar stone
+before we permit either example to be the subject of study by students of culture.
+Here the problem arises as to just how exact the likeness must be before the
+two stones can be adjudged the results of a shared idea and thus attain the
+status of cultural objects. Let us suppose that the archeologist does find another
+similar stone. How is it to be told whether the second is the work of the same
+or a different artisan? If both stones were the product of one man, they represent
+but a single, unshared idea and would consequently fall into a non-cultural
+category. On what grounds is the archeologist to tell whether two worked
+stones were made by two individuals? Does the closeness of similarity indicate
+a single artisan or a single idea shared by two craftsmen? Does a difference
+indicate a change in one man’s idea or skill, or does it signify a single idea in the
+minds of two men but subject to variations in skill? These questions must receive
+an answer if we are to determine whether an idea is shared and whether material
+objects are indicative of a shared idea. It is rare or impossible that the, inferences
+necessary to such answers can be made from archeological materials without an
+unconditional surrender to purely subjective, unsupported, and non-testable
+hypotheses. In ethnology, sociology, and other disciplines working on living socie-
+ties and with living informants, such hypotheses can be checked and validated,
+but with archeological materials this is out of the question.
+TAYLOR                       A STUDY    OF ARCHEOLOGY                               105
+
+      In other words, whatever the case may be for living societies, the requirement
+ that an idea must be shared to be cultural is not a practical criterion for arche-
+ ology. It serves no purpose for the ethnologists to insist that archeologists cry
+ for the moon or that the archeologists themselves should seek it. Archeological
+ materials at best are meager and, having run an almost mortal gauntlet between
+ the ranks of preservation and excavation techniques, they are in no condition
+ to be attacked from what should be a friendly flank. If the archeologist is pre-
+ vented from treating as cultural all those finds of which he has been unfortunate
+ —or fortunate—enough to discover only one example, he is being further and
+ probably disastrously handicapped. If, beyond this, he must disregard, as non-
+ cultural, even those multiple specimens for which a shared idea cannot ac-
+ ceptably be inferred from the archeological data, the archeologist might as well
+ shut up shop. He will better employ his efforts merely collecting pots and other
+ objets dart. As a discipline deaiing with cultural phenomena, archeology is
+ finished; in fact it never started!
+     Some may argue that this is exactly the present status of archeology. Perhaps
+many would say that archeology can serve the “social sciences” by developing
+the time and space coordinates of the past irrespective of cultural content, but
+that as a student of culture the archeologist is out of the running. I believe
+that this would be an unfair judgment. I believe that archeology can provide some
+very important data for the study of culture. If it can be demonstrated to the
+general satisfaction that this criterion of sharing is an unwarranted restriction,
+even in non-archeological researches such as ethnology and sociology, then
+much of the foundation for this derogation of archeology will be shorn away. If
+the demand that a culture trait be a shared trait can be assigned to a confusion
+between concepts of culture No. 1 and No. 2, between concepts of culture as a
+whole and a culture, then the argument will fail, and the archeologist may pro-
+ceed with his work as a student of culture and things cultural.
+     In not a few anthropological and sociological monographs, we find statements
+which, in effect, say that ‘“‘culture always, and necessarily, satisfies basic biologi-
+cal needs and secondary needs derived therefrom” (Murdock, 1940, p. 366).
+This same thesis has been expounded many times by Malinowski (e.g., 1931;
+1944, Chaps. 9-13). If culture is in any way responsive to biological needs and
+if we must accept the “social” or sharing criterion, how is it that an idea which
+is common to, and caters to the biological needs of, several individuals is culture,
+while an idea which caters to the needs of one individual is not? Are we to
+imagine a Group Biology which creates culture and an Individual Biology which
+creates something else? Is this not perilously near to the repudiated “Group
+Mind” type of thinking? I do not think that the culture-definers intend this
+conclusion to be drawn from their work. There is some misunderstanding here,
+and I suggest that it lies in a failure to recognize a holistic concept of culture.
+106
+
+
+     To take another example, we note that La Barre (1938, pp. 111ff) says
+that the Kiowa appear to have obtained the peyote cult from the Mescalero
+Apache, that in 1868 or 1870 Big Horse was the only Kiowa using the narcotic,
+and that by 1886 Mooney found the Kiowa as a group embracing the cult.
+How do these facts throw light on the present discussion? Taking the sharing
+criterion as our standard for the moment, we find that peyotism was shared
+by the Mescalero as a group and was, therefore, a “trait of culture.” By 1886,
+it was also shared among the Kiowa and was thus a “trait of culture.” But what
+was the situation between those dates? To an investigator of the Kiowa in 1868,
+there was but a single individual using peyote. Peyote represented an unshared,
+idiosyncratic idea. If that investigator did not happen to have the Mescalero
+data at hand, he would have been forced into the position of saying: “Peyotism
+belongs only to Big Horse; it is idiosyncratic and therefore non-cultural; I am a
+student of culture and should investigate only what pertains to culture; there-
+fore, this peyote business is no concern of mine; I will forget about it.”
+     I believe that there would be general agreement that when Big Horse alone
+practiced it, peyotism was not a part of Kiowa culture. But was peyotism, there-
+fore, noncultural? Was the ethnologist justified in rejecting the evidence of
+peyotism as impertinent to his studies? If he had rejected it, would he not have
+been losing important evidence which did, in fact, pertain to cultural studies,
+even if at that time, and to him, it did not show signs of being shared? Can a
+single idea be alternately cultural and non-cultural in a holistic sense? If so,
+what does it become when it is no longer cultural?
+      Suppose for a moment that by 1868 the peyote cult had disappeared from
+ Mescalero life and that Big Horse was the only living practitioner. Would it
+ then have no importance or significance to ethnologists? Can an idea, whose
+ antecedents and whose descendants both are admitted to be traits of culture,
+ suddenly change and require classification in some other category on the same
+ level of abstraction? While Big Horse’s idea cannot be considered a part of
+ Kiowa culture in 1868, I maintain that his idea was even at that time a trait
+ of culture in the holistic sense. Yet the culture-definers say that “to be cultural,
+ it must be shared.” What they really mean is: “to be part of a culture, it must
+ be shared.” They fail to recognize that some phenomena, which may be cultural
+ in the sense that they are not organic or geological or some such, at the same
+ time may not be a part of some particular, separable segment of the whole that
+ is culture.
+      All individual instances of a shared trait are usually not experienced by the
+ investigator simultaneously. The normative or shared character of these instances
+ must be pieced together from many multiple observations over what is possibly
+ a long period of time or a considerable range of space. The individual cases,
+ therefore, although they may appear idiosyncratic for the time being, must be
+TAYLOR                      A STUDY    OF ARCHEOLOGY                               107
+
+recorded in order even to ascertain any shared or normative characteristics.
+The ethnologists do this very thing and thus admit, if only tacitly, that
+individual cases are grist to their mill. By doing this, they further admit that
+single instances are cultural in the holistic sense, whether or not they are
+eventually found to be cultural with respect to the particular segment of the
+culture-whole that is béing investigated.
+    In short, it does not seem that the idiosyncratic can be overlooked in studies
+of culture. It is the basis for the development of the normative or shared.
+Linton, it seems to me, assumes an untenable position when he says:
+Individual Peculiarities cannot be classed as a part of culture, in the sense in which
+the term is ordinarily used, since they are not shared by any of a society’s members.
+At the same time they are of extreme importance in cultural dynamics since they
+are the starting point of everything which later becomes incorporated into culture.
+(1936b, p. 274, italics mine)
+
+His shifting from one level of abstraction to another is very clear in this state-
+ment. It is also apparent that what he means by culture ‘‘in the sense in which
+the term is ordinarily used” is a culture, not culture as opposed to the “natural,”
+the “biological,” etc. How something which is “the starting point of everything
+which later becomes incorporated into culture” is not to be considered as cultural,
+pertaining to culture, is difficult to understand. What is it then? If it is not
+pertinent, if it is not cultural in some sense or other, may we be permitted to dis-
+regard it in our cultural studies? For one who has written that:
+Except in the most superficial terms, the workings of society and culture cannot be
+understood without constant reference to the needs and capacities of the individual.
+(1945d, p. v)
+
+this refusal to admit that Individual Peculiarities constitute culture, at least in
+some sense, is indeed a paradox. Further, Linton says:
+Individual Peculiarities occupy somewhat the same position with regard to culture
+that individual mutations occupy with regard to a biological species. (1936b, p. 274)
+
+In the first place, he equates culture as a whole with a species, whereas the
+equation should have been between a culture and a species. Furthermore, while
+mutations may have little importance as far as species or other particular taxo-
+nomic categories are concerned, they are still classifiable and of importance to
+more generalized taxonomic groupings. To cite but one simple example, a muta-
+tion produced by parents of the species Falco sparverius sparverius (the Spar-
+rowhawk) might not be assignable on a rigid taxonomic basis to that species.
+But it might very well be assignable to the genus Falco or to the family Fat-
+CONIDAE, and the very fact that a species of Falco had a tendency to produce
+mutations might be of considerable interest and significance to ornithologists
+108
+
+
+studying the genus or the family. The range and number of mutations within
+the species of the genus, the direction of the variation, the geographic and eco-
+logical relationships and signficance, all are factors of importance to a student
+of the genus Falco—whether or not the individual bird can be assigned to the
+species sparverius or not.
+    Similarly, just because some idea or man-made object is not shared and can-
+not, therefore, be assigned to a particular culture, we are not justified in saying
+that it has no significance for the study of culture, in short, that it is not cultural.
+Are we to believe that the range of individual variation from a shared or norma-
+tive trait is of no significance in cultural studies? And if it is of significance in
+actual fact, then is not the individual variation cultural? Logically, for one
+phenomenon    to have significance for another within a particular field of study,
+both phenomena must lie within a single frame of reference, at least for the
+purpose of that study. Some common denominator is required before comparisons
+and relationships can have significance. When a mouse is compared with the
+Empire State building, some common ground for pertinence must be established,
+weight, cubic content, location, etc. It would be useless to compare them on
+the basis of whiskers or eye color. Thus, if idiosyncratic ideas or objects have
+significance for other ideas or objects within the framework of culture studies,
+it must be assumed that both the idiosyncratic and the normative are within the
+realm of culture. Therefore, traits of culture and objectifications of culture
+traits may be either idiosyncratic or shared.
+     In point of actual fact, as it is used today by the ethnologists, this criterion
+of sharing is based on the implicit premise that the sharing be within a culture,
+a society. Although they do not specifically make the point, they obviously do
+not mean that any idea which is the possession of more than a single mind is
+“social” and to be designated as a culture trait in their terms. It is assumed that
+the sharing will be within the confines of one of those separable segments which
+they have identified as societies or cultures. This was the conclusion reached by
+the analysis of Kiowa peyotism above (p. 106). I will give another, brief ex-
+ample, part fictional and part factual.
+     During the recent war I had occasion to teach the disassembly and assembly
+of the Colt .45 caliber pistol. During the course of this teaching I worked out
+two minor short-cuts in the operation. Among my students were a Gurkha from
+India, a Frenchman from Marseilles, a Navaho from New Mexico. Let us suppose
+either that these men were the only ones to whom I taught the short-cuts or
+that they were the only survivors of those who received this special instruction.
+When they returned home and once more took up the life and culture of their
+own people, what would be the status of the idea concerning the two short-cuts? It
+would be a shared idea. But would this fact of itself be enough to make the
+idea ‘“‘social”? Would similar handling of the Colt .45 by single individuals in
+France, India, and the United States be enough to satisfy the criterion of “social
+  TAYLOR                      A STUDY    OF ARCHEOLOGY                                109
+
+  behavior” or shared behavior? I believe not. If, on the other hand, once the
+  Gurkha got home he taught the tricks to his fellows, and the short-cuts spread
+  to many thousands of Gurkha soldiers, what then would be the status? I believe
+  that then the idea would be considered to be part of Gurkha (military) culture,
+  a socially shared idea and thus a part of culture according to the culture-definers.
+  But this example has shown that a critical factor is not sharing per se, but rather
+  the sharing by a culture, @ society. In other words, the criterion of sharing is
+  itself premised on sharing within a separable, unitary segment of culture. The
+  criterion of sharing operates on a lower, partitive level of abstraction. It pertains
+  to culture concept No. 2.
+       If the anthropologists, sociologists, and other culture-definers insist that the
+  term culture be reserved for those phenomena which are shared and “social,”
+  they will have to do one of two things. They will either have to recognize the
+  difference between the holistic and partitive usages of the term and make the
+  distinction clear in their thinking and writing, or they will have to find another
+  name by which to refer to the holistic concept. The property of being shared
+  must not implicitly and erroneously be demanded of phenomena which are
+  cultural in the holistic sense. If it is realized, as Bidney has done, that
+       . a particular cultural trait may be either individual or social; . . . [and that]
+   cultural behavior may be socially acquired by man as a member of society without
+_ being social or common to all members of his group. (1944, p. 35)
+
+  there will probably be no need to burden the literature with another term. Never-
+  theless, it is of the utmost importance for archeology and other disciplines deal-
+  ing with cultural matters to make, and keep clear, the distinction in levels of
+  thinking between the holistic and the partitive concepts of culture.
+
+     The three points have now been made: (1) the term culture stands for two
+ concepts, one holistic and the other partitive; (2) a trait of culture in the holistic
+ sense may be either shared or idiosyncratic, but in the partitive sense it must
+ be shared; (3) the concept of culture designates a mental construct consisting
+ of ideas. These are but three factors in the definition I propose to develop for
+ archeology.
+     From this juncture onward, however, I shall be following, with merely
+ minor modifications, the arguments brought forward by Kluckhohn and Kelly
+ (1944). I shall, in part, use their terminology and shall imply by this procedure
+ that their arguments express my views and may be used to justify the present
+ definition. And as I have already said, the concept defined will be the holistic one
+ unless otherwise stated.
+     A “descriptive” concept of x tells what x “consists of.” By culture as a
+|descriptive concept,|I mean all those mental constructs or ideas which have been
+learned or created after birth by an individual. As I said above, for the present
+110
+
+
+purposes the term idea! includes such categories as attitudes, meanings, senti-
+ments, feelings, values, goals, purposes, interests, knowledge, beliefs, relationships,
+associations. I have not used Kluckhohn’s and Kelly’s factor of “designs” be-
+cause, whether they meant it so or not, the word has overtones of the sharing
+criterion which has been repudiated as a factor in the holistic concept ofculture.
+    An “explanatory” concept of « tells what « “does.” By culture as an explana-
+tory concept I mean all those mental constructs which are used to understand,
+and to react to, the experiential world of internal and external stimuli. In this,
+I have rejected Kluckhohn’s and Kelly’s use of the word men because it begs
+the question, not yet settled to the general satisfaction, of whether non-human
+animals can be said to have culture. Also I have not used their factor of “proc-
+ esses” since I believe that processes such as diffusion, culture contact, and
+ acculturation (which they name) do not constitute culture. They are sometimes
+ cultural in that they pertain to culture, but they are by no means confined only
+ to that category. Diffusion, for example, is a concept which denotes either a
+ dynamic force or the state resulting from a dynamic force. It may mean the act
+ of diffusing or the results of having diffused, and the concept may refer to culture,
+ to plants, to animals, or even to such objects as glacial erratics. The concept of
+ diffusion is merely the designation for a set of relationships existing between
+ certain phenomena which may be ideas, objectifications of ideas, rocks, elephants,
+ or whatever. Culture itself consists of ideas, not processes. In the same way, an en-
+ gine consists of pistons and spark plugs, not of combustion or electrical energy.
+      By a culture, i.e., by culture as atpartitive concept, I mean a historically de-
+ rived system of culture traits which is a more or less separable and cohesive Seg-
+ ment of the-whole-that-is-culture and whose separate traits tend to be shared by all
+ or by specially designated individuals of a group or “society.” This concept must
+ be distinguished from the holistic concepts which were defined in the first two
+ definitions above. Except for word changes which I believe to be minor, there
+ is no difference between this and the definition given by Kluckhohn and Kelly.
+      To summarize: culture consists of the increments which have accrued to
+individual minds after birth—when the increments of a sufficient number of
+ minds are enough alike, we say we are dealing with a culture. Culture traits are
+ manifested by cultural agents through the medium of vehicles; to borrow Soro-
+ kin’s terms (1943, pp. 4ff). In the case of human culture, these agents are human
+ beings; the cultural vehicles are the objectifications of culture, i.e., the observa-
+ ble behavior and the results of behavior. Cultural processes are the dynamic fac-
+  tors involving culture traits; they do not constitute culture but comprise the
+ relationships between culture traits.
+
+     Culture, consisting as it does of mental constructs, is not directly observable.
+ It cannot, therefore, constitute the empirical data of any discipline. Culture can
+ be studied only through the instrumentality of observable phenomena, through
+ TAYLOR                       A STUDY    OF ARCHEOLOGY                               111
+
+_what have been called the objectifications of culture: cultural behavior and the
+ material and non-material results of such behavior. A tribal dance, the avoidance
+ of a woman by her son-in-law, the identical appellation used between a small
+ child and an old man, the designs of a Navaho sandpainting, a stone axe, all
+ these are observable phenomena. The culture ideas behind them can only be
+ inferred. Even the statéments of a living informant do not empirically demon-
+ strate and establish the ideas they allege to reproduce. Checking and cross-
+ checking of informants is a common practice and a vital requirement. Its purpose
+ is to attain by progressive stages an ever closer approximation to the actual idea
+ held in the informant’s mind. But whether or not the idea is ever exactly repro-
+ duced cannot be a matter of certain demonstration. It remains always in the
+ realm of plausible inference. If the inference explains other phenomena satis-
+ factorily and if it serves as a practical and trustworthy premise for logical
+ reasoning and the explanation of observable fact, then it may be accepted as an
+ approximation of a culture idea. It is only to this extent that any culture trait
+ may be ascertained.
+      The method is one of successively nearer approximations. Conclusive assur-
+ ance or exact knowledge is forever out of reach. It develops into a question of
+ continued testing and modification in order to reduce error and attain a closer
+ correspondence between inference and actual idea. It is for this reason, if for no
+ other, tha context |is of such tremendous importance in all culture studies. If it
+ were possible empirically to test inferences about culture ideas merely by some
+ laboratory experiment which would produce a definitive answer, context would
+ be of much less value. For example, the mineral cobalt, when subjected to blow-
+ pipe analysis involving borax and sodium metaphosphate beads, invariably gives
+ a blue flame in either oxidizing or reducing atmosphere. This is a very delicate
+ and sure test. If by some such empirical procedure we could obtain as conclusive
+ knowledge about the ideas which gave rise to a certain Navaho sandpainting, the
+ constant checking and modification, the continual recourse to cultural context
+ would be eliminated or, at least, much curtailed. But we have no such open-
+ and-shut tests for mental constructs. We must turn to other procedures. In effect,
+ we must say: “A set of observed facts leads us to make a given inference. How does
+ this inference fit and explain other related observations: not at all, exactly, or
+ askew? If askew, in what direction and what modification can be made to bring it
+  more in line? How does the modified inference fit yet other empirical data imping-
+  ing upon the current frame of reference? If exactly or not at all, is this coincidental
+  or can we assume actual correspondence? We shall need to check other aspects of
+  the context.” And so it goes. The testing and alterations require an ever increasing
+  circle of context.
+       This context consists of two sets of data: first, the objectifications of culture
+   (behavior and results of behavior) ;second, those culture traits which have been
+, accepted as plausible or which are assumed as plausible for the sake of the im-
+ 112
+
+
+   mediate investigation. In addition, the relationships between objectifications and
+   traits, between objectifications themselves, and between traits themselves are of
+   intrinsic concern in the development of a cultural context. By the term relation-
+   ships is meant, for example, such factors as the connection between ideas of eco-
+   nomic value and the behavior of parents in giving and receiving wedding ex-
+   changes, the relation of designs on Pueblo pottery to Pueblo kiva paintings, the
+   concordance between concepts of the supernatural and empirical knowledge of
+   the natural environment, the relative quantitative utilization of stone and bone
+   or of animal and vegetal foods, the relative care displayed in the manufacture of
+   ceremonial and utilitarian goods, etc. In other words, in addition to the de-
+   scription of cultural behavior and its results, a cultural context consists of the
+_ associations and relations of these elements, of the balance between them, of their
+   relative quantitative and qualitative positions within the whole.
+       It is not being too pedantic to point out that there is a difference, in the
+   conceptual scheme proposed here, between a cultural context and a/culture con-
+   text. \The former has just been described. The latter consists of a context of
+   inferred ideas, of configurations of mental constructs. Historiographies, whether
+ derived from documentary, ethnographic, or archeological materials, when they
+ attain the level of context, are cultural, and not culture, contexts. To be sure,
+ ideas and their relationships are often part of such writings. They serve many
+ times to tie together and give integration and balance to the recorded acts of
+ behavior and results of behavior. But they are secondary to the primary purpose
+ of a historiography, which is to elucidate, not the ideas which structure the par-
+ ticular culture, but rather the observable and recorded phenomena, to offer
+ some explanation for their actuality, to integrate the cultural picture which the
+ investigator wishes to paint. The difference between historiographies and culture
+ studies is one of the degree to which emphasis is placed on objectifications of
+ culture traits or on the traits themselves. The difference lies in the purposes and
+ end-results of research. Here, we come back once more to the points raised in
+ Chapter 2 above. Many historians use culture traits, i.e., inferred mental con-
+ structs, to help them interpret and fill out their cultural picture of past actuality.
+ Likewise cultural anthropologists use cultural contexts, and they develop their
+ inferences about the culture of the particular people and about culture in general
+ therefrom. The two disciplines use the same range of materials but have different
+ emphases and aims.
+                                 CH ARAERS 5
+      THE NATURE        OF ARCHEOLOGICAL DATA:             TYPOLOGY       AND
+                              CLASSIFICATION
+                        Sd
+
+
+
+  flBeas materials upon which the archeologist must work are restricted. Never-
+        theless, while the cultural contexts of ethnography, sociology, and his-
+  toriography may thus be fuller and broader, it should be pointed out that they
+  are not to be considered ciwture-contexts any more than those of archeology.
+_ Students of written documents and of the living, as well as the archeologists,
+_must rely on inferences from cultural contexts to construct a culture-context or
+  to attain understanding of culture and its workings. Therefore, the difference |
+_between archeology and the other disciplines lies in the fullness of their re-
+  spective materials and in the number, and potential corroboration, of the infer-
+  ences derived therefrom, not in the inability of archeology and the ability of
+  the others to obtain immediate knowledge of culture itself. The difference is
+  thus one of degree and not of kind.*°*
+      The archeological materials are restricted both as to quantity and range of
+ representation. In the first place, as in all cultural studies, the archeologist can
+ empirically deal only with objectifications of culture. But his data are further
+ reduced because behavior is transitory and does not “‘fossilize.’’ Therefore the
+archeologist is dependent upon the results of behavior. Even here there is re-
+ striction. The non-material results of behavior, i.e., the forms of dances, the
+ cadences and rhythms of song, the patterns of religious ritual do not endure.
+ There remain for the archeologist’s study only the material results of behavior,
+ and only such of these as have withstood the inroads of man and the elements.
+      However, there is one source of archeological data, not mentioned above and,
+ oddly enough, rarely mentioned or fully utilized in archeological literature. I
+ refer to what may be called the affinities existing between the material remains:
+ between individual cultural objects, between groups of objects, between objects
+ and the natural environment. These affinities are as much facts and as much
+ integral parts of the archeological data as are the material objects themselves.
+ For example, the fact that a particular bone tool has been found within a
+ certain coiled basket is to be dealt with in a manner exactly comparable to the
+ fact that there existed at the site a bone tool and a basket. That there is a three-
+ to-one ratio between axes and celts.in a site or region is just as much a bit of
+archeological data as that axes and celts were present. The circumstance that a
+shell came from the Pacific Ocean is to be reckoned with just as much as that
+ the shell formed part of a necklace. If the archeologist does not specifically
+search for, and consciously make use of, these affinities, he is overlooking a great
+                                         113
+ 114
+
+
+ proportion of his already meager data. Often they lie hidden to the casual eye
+ within the cultural and natural contents of an archeological site. But without
+ them there is possible only description and superficial quantification of material
+ objects; interpretations must depend on only a fraction of the potential evi-
+ dence; and the result is a flat and shallow picture which foreswears even those
+ few integrating factors which have survived the swath of time. The general
+ neglect of these affinities seems to be the greatest failing of Americanist arche-
+ ology in the United States. Evidence for this viewpoint has been presented in
+ Cha
+   napter 3 of the present study.
+   | Archeological _ data, then, consist of ther material results of cultural be-
+ havior) and the affinities—quantitative, qualitative, spatial, etc——which can be
+found to exist among them, and between them and the natural environment.
+But mere description of these phenomena cannot satisfy the requirements of
+ archeological study—if the archeologist is bent upon writing history or studying
+ culture. Description must be made, to be sure; but there is also the need for
+ interpretation and synthesis. The empirical facts which have been produced by
+ a archeologist’s spade and the affinities between them must be interpreted in
+   “cultural sense” and combined into a cultural context. The significance of the
+ een             facts for the life and custom of the site must be drawn by,~infer-
+ ence. ‘This is the work of ¢onstruction which falls to the archeologist.
+     An archeological cultural context} therefore, is based upon material results of
+ cultural behavior and their affinities. On the other hand, it consists of a presenta-
+ tion, in narrative or synoptic form, of the life-ways characteristic of the former
+ occupants of the site, component, area under investigation. It should be most
+ emphatically stated that it does not consist of a series of descriptions and
+ quantifications under what may be termed empirical categories.
+     There is a most definite and important distinction to be made between
+ empirical and cultural categories. The former include such rubrics as Stone, Bone,
+ Objects of Copper, Environment. The latter include Food, Dress, Hunting, Textile
+ Industry, Utilization of Environment, Containers, Transportation. In fact, one
+ may make a very trenchant comparison between the empirical categories of
+ almost any standard archeological monograph and the cultural headings found
+ in such a work as the Outline of Cultural Materials (Murdock et al., 1945).
+ “Cultural headings” may, in some ways, be equated with the “trait complexes”
+ or “activities” as described by Linton (1936b, p. 397ff).
+      Empirical categories have their very specific place in archeological studies
+ and reports, but they do not comprise, either singly or in the aggregate, what
+ may properly be called a cultural context. This point will be treated at some
+ length later in this chapter. Here it is sufficient to indicate that an archeological
+ cultural context, by the very nature of the basic materials, is constructed by
+ inference to a greater extent, perhaps, than contexts based on written or living
+TAYLOR                      A STUDY   OF ARCHEOLOGY                               115
+
+sources. But there is no other means to construct them, and without contexts there
+is no way either to write history or to study culture. Therefore it behooves the
+archeologist not to maintain the untenable position of “sticking to the facts,”
+meaning the renunciation of inference, hypothesis, and testing. It rather is
+incumbent upon him to derive his observational data as objectively as possible,
+to differentiate between observed fact and derived inference, to make explicitly
+labeled interpretations of as detailed and full a nature as possible, and then to
+look, either in the ground or among the data at hand, for evidence by which
+his hypotheses may be tested. Thus, more interpretation is called for, not less!
+If his readers find fault with his conclusions, they have but to examine the
+observational data and make their own inferences or set about producing, from
+the ground or elsewhere, more empirical evidence upon which to base alternative
+interpretations.
+
+     The question of the difference between empirical and cultural categories
+brings us face to face with the problems of archeological typology, classification,
+and so-called culture classification. But before it will be possible to enter upon
+a discussion of these problems, it will first be necessary to make a somewhat
+arbitrary distinction between the concept of type and the concept of class, be-
+tween typology and classification. The purpose of this discrimination is, once
+more, to offer a conceptual scheme whereby the processing of archeological data
+will be clarified. Once the steps of procedure are known for what they are,
+their validity and pertinence can more easily be tested. By establishing concepts
+and showing their mutual relationships, even if the concepts are thought to be
+overly precise, the muddied waters of archeological theory will be settled, and
+the light, whatever it is, will have more chance of penetrating. “Hair-splitting”’
+seems to be anathema to some archeologists but, even more, an implicit and
+confused conceptual scheme is anathema to straight thinking and acceptable
+results.
+     As used in the present conceptual scheme, type and class are concepts of dif-
+ferent orders, and each may be empirical or cultural depending on the nature
+of the criteria used. The accompanying tabular presentation will serve to make
+this clear and also to bring out graphically the other points which will be discussed
+below. (See Table 1)
+     In this table, the borrowing of concepts from Linton (form, item, use, func-
+tion, meaning), Kluckhohn (configuration), and Rouse (designs, techniques,
+specifications, group and modal types, mode) has been adaptive in nature and
+not precisely exact. Therefore considerable explanation is called for in order
+to justify their use in the present scheme.
+     Linton’s concepts of form, use, function, and meaning (1936b, pp. 402ff)
+were originally developed with specific regard to trait complexes and not to
+                                                                                                                                                                                                                   116
+
+
+
+
+                                IVOIMIdny       SAIMOOALVD                               TVANLITAD     SdTaOOaLV,)                                             AANITAD                        SIMOOALVD
+                                                                               ATaVvie
+                                                                               VT
+                                            (jeuoreaAtesqg)                                      (Iewerazuy)                                                               (TetUarajUT)
+
+                      [eENPIAIpPUT     ‘SUOT}e}SajIUeUI
+                                             ITY} “Wd
+                 jeotid     satjiuyye
+                                 pue Ilay}        yusn}1}suod                   padioyut                                                            ‘Bapl-ainjjNnd   9y}
+                                                                     pue                      Jo/pue                                                   ay}
+WaOT         ‘syed              SUBUIIA,,
+                                  «¢            S99NqU}IB,,
+                                                  «     -9Pp,,                                   ue                                                        94}                                      “EJSOPURU
+                                                                                                                                                                                                 -qO UL
+                                                                         Jo                         JAed                                               UL
+               ,,“SUBIS                suoeoyioeds,,
+                                          ;                          ,.asn,,                                                                               OS[e
+             ‘                          ‘                                anbruyseq               Jo                                                    payryol
+                    «¢
+                 SUISYL,, O39                                                                                                                                                                           JsaflUPI
+                                                                                se
+                                                                             [eNpTA                     oy}
+                                                                                              ,uoljoUny,,
+                                                                                                 aInjovJnueU                                        ayy fu0T]               [ENPIAIPUL
+                                                                                                    10)                                   9POul,,
+                                                                                                                                          V«¢
+                                                                                                                                           40                                                    ‘Jie1}-91N}[Nd
+                                                              Byep   ay,        /(jo                                                                                            ,.SUTURIT,,
+       y         dnoi3
+                     Jo                suolze}sayiuew
+                                              yotqM-sod y        dnois
+                                                                    jo                  suoneysasiueu
+                                                                                             yey} -sod     dyy,     9y} -Ipul [eourduia
+                                                                                                                           -a104}
+                                                                                                                       vapt-ain}jno ‘payioaf{qo
+                                                                                                                                             Jo/pue
+                                                                                                        Woy)
+                                                                                                    UoVeysoytueUI
+           ssas        urejis0    payioeds                 ssas
+                                                   ur)soryirepimts   urez199    peyloods       Soles94}
+                                                                                                     U.              ,SUTUPOU,, YsoftueW
+                                                                                                                                   UI B@     g[suls
+AdAL
+   |        i0yq}          Sarjtuyye 410/pue                                 )     (73          uorjoung,,
+                                                                                                   ¢
+                                                   Juanzysu0d
+                                                            I13y}       polioyur ‘asn,,          C
+                                                                                                            dh oyyto           I0
+                                                                                                                            peourdars “TeIn}[Nd
+                                                                                                                                             uy
+              ‘sj1ed
+                  Jo           [eeprjue” paypeysqy -9194}       10/pue      anbruyse}
+                                                                               jo               ‘ginqorynueul   OdAJIYIIL,,
+                                                                                                                  ¢,
+             WO} Jay}1a ‘uvoul ‘Tepour    Jo       ‘ueIpaul
+
+       y          dnoi3
+                     jo           yeoutdura
+                                         sad4}10)    sadA4jy       dnois
+                                                                      yo     sad4q10)    sodA}pue     (sui1oy ayy,          vapt-ainqynd ‘payisefqo  Jo/pue
+           pue       (SuIO}jey}      ssassod ure}199 -1oads     194310      yeotidura
+                                                                                Jo         ‘yeinqjno
+                                                                                                 ey} -sod dt}             ,SUTUROUT,, qsojtuRU
+                                                                                                                                           UT &      ‘ssejo
+           poy                   Ul
+                            satjuepMts Itsy}         SalyIUyessas       urez190      paywods       solyeyIUs 19y}10
+                                                                                                      UL                     Jo
+                                                                                                                          yeotdu9 [eInq[Nd   UY      -aYyoie,,
+ssvIg
+  |              10/pue         IYsouseIp “ellay1Ia            Il9y}       Polayul .{asn,,            «
+                                                                                                     UOIUNY,, ,,’SSPTO Woyoy}          sassep>d JapunSTy}
+                      jo
+                   surdnoi3 ‘sdnoiz                               10/pue      onbruyse}
+                                                                                  jo              ‘oInjovynurw Suiprayoie    peroiq     ‘ysnous
+                                                                                                                                            31 st    -qoid
+                                                                                                              ATqe ysaq0}         9JVUSISap
+                                                                                                                                       JY}           SULNJONIS
+                                                                                                              BPI BSB                UOTRINSYUOS,,
+                                                                                                                                      ;
+  TAYLOR                      A STUDY   OF ARCHEOLOGY                               117
+
+  individual manifestations. Nevertheiess, there seems to be no reason why they
+  cannot be applied to single objectifications. Linton was concerned with “func-
+  tional studies” of whole cultures and was speaking from the viewpoint of the
+  society itself and not of the ethnographer. But the definitions he has given may
+  be paraphrased, with equally applicable results, into an archeological frame of
+  reference. For example, he says:
+  The form of a trait complex will be taken to mean the sum and arrangement of its
+  component behavior patterns; in other words that aspect of the complex whose
+  expressions can be observed directly and which can, therefore be transmitted from
+  one society to another. (1936b, p. 403)
+
+   Converting this concept into one serviceable for archeology, we find the defini-
+   tion to read something as follows: The: lempirical form of an archeological mani-
+   festation will be taken to mean the sum and arrangement of its component
+   chemico-physical parts taken together with its empirical affinities ; im other words
+_ that aspect of the phenomenon, whose expression can belobserved directlLy | ‘and
+   which, therefore, can be utilized as empirical data by the archeologist. Thus the
+   form of any archeological representation includes not only its “design,” “tech-
+  nique,” and “specifications” as Rouse has indicated (1939, p. 11) but_also its
+   associations and position relative to other cultural and natural phenomena, i.e.,
+yits affinities. )
+—      "When fe concept form is understood as a cultural rather than an empirical
+   category, the following definition may be used: The (cultural form of an
+   archeological phenomenon will be taken to mean its technique of manufacture
+   and its|use
+            useand function |within the body of cultural activities of the particular
+ human {group under investigation, as inferred from its empirical form.   The em-
+ ployment of Linton’s concepts use and function is more exact than in the case of
+ form. He says:
+ The use of any culture element is an expression of its relation to things external
+ to the social-cultural configuration; its function is an expression of its relation to
+ things within that configuration. Thus an axe has a use or uses with respect to ihe
+ natural environment of the group, i.e., to chop wood. It has functions with respect
+ both to the needs of the group and the operation of other elements within the culture
+ configuration. It helps to satisfy the need for wood and makes possible a whole
+ series of woodworking patterns. (1936b, p. 404)
+
+ Other than changing the word culture to cultural and making a reservation as
+ to his use of the term configuration, we may apply Linton’s concepts to archeo-
+ logical data without modification. The use and function of any empirical form
+ as well as the technique by which it was made/must depend upon inference. /
+ Therefore, cultural forms are inferential in archeological studies. The same is not.
+ true in ethnographical investigations, for in these the investigator may directly
+ 118
+
+
+ observe the use, function, and making of at least a good number of the empirical
+ forms.
+     Rouse’s concept) ‘mode hhas been adapted to the present scheme and denotes
+ “form” as a culture- -category or a mental construct. Rouse himself appears to use
+ the term to denote both the actual attributes observed by the archeologist (1939,
+ p. 11) as well as “ccconcéptual patterns set up by the archeologist to represent
+“ideas )possibly held by the artisan” (1939, p. 15, italics mine). I have chosen
+ to have the term mode stand for Tdeas rather ee for physical attributes or
+ both, because I believe that in this way an important point is clarified and
+ emphasized, namely, the mental nature of culture itself as opposed to the
+ chemico-physical and behavioral nature of the objectifications of culture. Also
+ by this means, the chances of falling into the fallacy of misplaced concreteness,
+ of confusing between two levels of abstraction, are reduced.
+     The concept meaning was also defined by Linton in connection with his trait
+ complexes. He said:
+ The meaning of a trait complex consists of the associations which any society attaches
+ to it. Such associations are subjective and frequently unconscious. They find only
+ indirect expression in behavior and therefore cannot be established by purely objective
+ methods. (1936b, pp. 403-404)
+
+     It is, perhaps, a debatable question whether or not archeologists can derive
+ “meanings” from their data. Although, in the final chapter of the present study,
+ I shall attempt to demonstrate that this is indeed possible, here the question is
+ not of immediate concern. It is enough to say that, if the derivations are possible,
+ then Linton’s concept is usable for archeology. It need only be pointed out that
+ “expression in behavior” in archeological terms means “expression in results of
+ behavior.” These results are themselves empirical, but inferences are required to
+ derive meanings. Hence Linton’s last statement is perfectly applicable.
+     The concept type as defined in the above table represents very closely the
+ concept which A. D. Krieger advocated in his paper The Typological Concept.
+ He says:
+ Any group which may be labeled a “type” must embrace material which can be
+ shown to consist of individual variations in the execution of a definite constructional
+ idea; likewise, the dividing lines between a series of types must be based upon
+ demonstrable historical factors, not, as is often the case, upon the inclinations of
+ the analyst or the niceties of descriptive orderliness. (1944, p, 272)
+
+ When he argues the importance of “demonstrable historical factors” he is advo-
+ cating, in the terms of the present conceptual scheme, the study of those affinities
+ which were said above to comprise archeological data equal in importance with
+ purely chemico-physical characteristics. In other words, Krieger has obviously
+ felt the need both to regard archeological specimens as objectifications of ideas
+  TAYLOR                      A STUDY     OF ARCHEOLOGY                                119
+
+
+_ and to demand      that their Foe ahar       and relationships be included in any
+ _typological treatment. af
+      The distinction between an ideal or modal type and one which is composed
+  of the actual objects has been made by Rouse. It seems a valid and important
+  one and is, therefore, included in the present scheme. He says:
+  In current anthropological literature, the term “type” seems to have been applied
+  to at least two different concepts, a group of artifacts or an abstract kind of artifact
+  which symbolizes the group. .. . [The latter concept] refers to the attributes which
+  artifacts of a given kind have in common, not to the artifacts themselves. (1939, p. 11)
+
+  A type which is, in effect, the abstract least-common-denominator, median, mode,
+    or mean of a series of empirically similar and associated artifacts has much
+   value in the course of archeological study (see Osgood, 1942, p. 24, fn. 8).
+    For example, it is only through the medium of such abstractions that we can
+    hope to infer the ideas which lay in the minds of the former artisans and thus
+    attain an insight into their culture. It is those attributes which a group of
+    specimens have in common that provide data for an interpretation of the maker’s
+   ideas and conceptualizations. A single specimen or a group of specimens, however
+    well described in their heterogeneity and variability, cannot provide these data.
+    Even the use and function, i.e., the basis for the cultural type, often cannot be
+    interpreted mithout the a oeeriam of an ideal type. By an analysis of the
+  [central tendency |Wwithin a series of artifacts, it is frequently possible to obtain
+__an insight into their basic and requisite features and thus to make a hypothesis
+a~~ as to the ideas, the purposes, aims, beliefs, etc., which influenced the original
+  makers.
+       Also it is possible from such ideal types to note the range of variation
+ _and the dispersal around the central concept. From this it may be possible to
+   make some inferences as to the integration of the particular type within the
+  culture. For example, the hypothesis may be made that a type which shows
+   great homogeneity in all its elements and associations is better integrated into
+   the culture than one which shows considerable variation and dispersal. Such a
+   hypothesis will call for testing, and this in turn will lead to ramifying investiga-
+   tions which carry the expectation of further understanding of the culture and
+   of culture in general: are there any inferable reasons why this particular type
+   should vary so; are there outside sources which could account for it, or are
+   local origins to be hypothesized; does this type vary more than others, and if
+   so in what ways and why; is the range of variation equal on both sides of the
+  central tendency or is there skewing; is similar variation found in other types,
+  and if so, in what types and what might be the relation between them; is the
+  degree of homogeneity, i.e., integration, due to the length of its existence within
+  the culture, to its intrinsic nature which permits or demands that particular
+ 120
+
+
+ degree, or to what? These and other questions can be profitably investigated, but
+ only after an ideal or abstract type has been established.
+      On the other hand, the concept of type as a group of actual objects also has
+ its uses. In not a few instances it will be impossible to establish any ideal ab-
+ straction: the variability of the phenomena may be too great and too general
+ to permit of being represented by a single set of elements and associations. This
+ in itself might be culturally significant, and the only way of making use of the
+ data is to describe the artifacts themselves. The success of Southwestern pottery
+ study, is ample proof of the practicality and applicability of such types, based
+ as the study is upon the concept of type as a group of objects.
+     The concept archetype has been evolved in order to provide a convenient
+ term for the handling of inferences as to culture ideas. The term pattern has not
+ been used because, in the first place, it is too useful a word to be restricted and,
+ in the second, the limitation of its meaning to mental constructs would require
+ tedious and rather unconvincing argument in the face of other more inclusive
+ definitions such as Kluckhohn’s (1941). In the present conceptual scheme,
+ observable patterns, as for example the patterns stepped out by the feet of
+ dancing men, the patterns of painted design found on pottery vessels, the
+ regularities of city plan, the consistent avoidance of a mother-in-law, are con-
+ sidered to be results of behavior and therefore the empirical data of culture
+ studies.{ Patterns in this sense are not behavior, nor are they culture traits. They
+ are the results of behavior which has been performed by human agents under
+_the influence of ideas (culture traits). Thus they are overt, behavioral, action
+patterns. The covert, ideal, and idea patterns of which Kluckhohn wrote (1941,
+ pp. 114ff) are not included. It seems best, therefore, not to make further modi-
+ fications of the concept of pattern but to offer another term which will cover
+ the so-called covert segment of the broader concept. Webster’s dictionary defines
+ archetype as
+
+ The original pattern or model of a work, or the model from which a thing is made
+ or formed. . . . Metaph. In Platonism, one of the pure ideas or realities of which
+ existent things are imitations.
+
+ Under the heading of prototype, the dictionary further defines archetype as
+ “. . an original, often ideal, pattern or model.” The word has been chosen in
+ preference to prototype because the latter is the more common word and is
+ already in general use for a number of valuable concepts, and because in
+archetype \there is conveyed an implication of mental constructs, which is con-
+ genial to its use in the present conceptual scheme.
+     The concept configuration, used in connection with the archeclass compart-
+ ment, has been adapted from Kluckhohn (1941, pp. 114, 124). Here there is no
+ need for modification, as in the case of archetype, because Kluckhohn’s concept
+  TAYLOR                      A STUDY    OF ARCHEOLOGY                               121
+
+  is stated to be concerned with so-called covert or mental constructs and to have
+  no overt segment. He says:
+ —_
+
+‘(Configuration |‘looks to an inner coherence in terms of the large structuralizing
+ ke.          which prevail in the covert culture. Patterns are forms; configurations
+   are, so to speak, interrglationships between forms. (1941, p. 126)
+
+   Thus if an idea, conscious or unconscious, be inferred to structure several types
+   or classes of culture objectifications, that idea may rightly be designated as a
+   configuration. If a single idea, simple or complex in nature, appears to be one
+   of the principles underlying, say, the decoration of pottery, the performance
+   of religious rites, the construction of dwelling units, it may be termed a con-
+   figuration. In the final chapter of the present study, an example of just such
+   a configuration will be given.
+        In summing up this explanation of Table 1, we may examine the relationships
+   first between the vertical compartments and then between the horizontal ones.
+   The concepts of form, type, and class may be explained by adapting an example
+   presented by C. C. Zimmerman (1938, pp. 75-78). In describing a certain com-
+   munity, he says: “Littleville is parasitic, good natured, negroid, rural and
+   urbanistic.” These adjectives are the descriptive units which together comprise
+   the “form” of Littleville in so far as Zimmerman is presently concerned. They
+   constitute the basic, observational data from which both the type and class
+   will eventually be derived. According to the present scheme, a type is a primary
+   grouping which brings together certain individual forms which have specified
+   descriptive attributes in common, exactly which depending upon the needs or
+   whims of the investigator. Thus, Littleville might be included with other
+   hamlets within a type whose sole criterion is a parasitic nature; or the type
+   might include all hamlets which are parasitic and good natured; or it might
+   include all towns that are parasitic, good natured, have a population of exactly
+   503 souls, and contain a water tower painted green. In other words, a |type} may
+   be characterized by specific similarities of any number, degree of “detail, or
+  intrinsic character.
+        The concept class designates a secondary grouping. It consists of types which
+   manifest ‘specified similarities in some, but not all, of their type characteristics.
+- Thus let us say that Littleville belongs in a type which is parasitic and good
+   natured, that Bigville belongs in one which is parasitic and ill natured, and that
+   Mediumville belongs in one which is good natured and has green water-towers.
+   When it comes to classifying these types, we may class Littleville and its co-
+  members with Bigville and its co-members on the basis of their parasitic charac-
+   ter; or we may class the Littleville type with the Mediumville type on the
+   basis of their good nature. In both instances, there has been a grouping of groups,
+  a classifying or classing of types, not of individual hamlets. It is not the number,
+  122
+
+
+   the nature, or the detail of the specified criteria that distinguishes a type from a
+   class in the present scheme, but rather it is the difference between a primary
+   and a secondary grouping. It is perfectly possible for identically the same
+   criteria at one time to designate a type and at another to designate a class. Type
+   and class are concepts of different relative, not absolute, magnitude based upon
+   the same range of data, and this holds true whether we are dealing with
+   empirical, cultural, or culture categories.
+       We may now examine the relationships between the horizontal compart-
+   ments of the above tabulation, between the empirical, cultural, and culture
+   categories. Although all three are creations of the archeologist, it is important to
+   note that they pertain to different realms of phenomena, that they are established
+   by different means, and that, unless the archeologist is aware of these differences,
+   he is apt to go astray when it comes to drawing conclusions from his data. The
+__ differences to be noted are those that obtain between (a) the empirical categories
+   and (b) the cultural and culture categories: (1) the former relate to the world
+   of the archeologist; the latter relate to the world of bygone people; (2) the
+   former are based on chemico-physical attributes and their affinities; the latter are
+   based upon criteria pertaining to cultural or culture attributes, such as tech-
+   niques of manufacture, use, function, meaning, and culture idea; and (3) from
+   the archeologist’s standpoint, the former are the only ones having wholly observa-
+   ble criteria and thus the only empirical ones; cultural and culture categories,
+   although they may be partially or wholly based on observable data, are estab-
+   lished by means of interpretation and hypothesis and are thus inferential. Thus
+   when investigations lead into the latter realms, they advance by inference
+   from the empirical, and the results are to be viewed as hypotheses to be tested.
+   For the archeologist, the empirical or purely observational has only a mediate
+   function, forming merely the basis, not the goal, of his studies. By definition,
+   he is interested in cultural contexts or in culture itself, and the categories which
+   obviously he should seek are those pertaining to those fields. Also, and for the
+   same reasons, his interests lie, not in the phenomena of his own world, but in
+   the world of the original makers, users, or possessors, individually or as groups.
+   In other words, the pertinent question to be asked is, ‘“What may be inferred
+__today from present evidence as to those things that were relevant, significant,
+   meaningful to the bygone individuals and societies under investigation?”
+        As long as these differences are fully realized by the archeologist, he is
+   forewarned and forearmed and will be able to act accordingly. But if they are
+   overlooked to the extent that he regards the empirical categories of his own
+  making as if they were, axiomatically, the same as the cultural or culture cate-
+  gories of a bygone people, he is making an assumption which may lead him into
+  serious error. From the standpoint of theory and method, it is not permissible to
+  transmute an empirical category into a cultural or culture category except as a
+  working hypothesis explicitly stated or as a conclusion drawn from a reasoned
+  TAYLOR                       A STUDY   OF ARCHEOLOGY                               123
+
+   argument. To do otherwise is to beg the cultural question. There is no auto-
+__Imatic, axiomatic assurance that the forms, types, and classes established today /
+   by the archeologist are coextensive with any separable entities that existed in||
+ _ the minds or life ways of a bygone people. At best, the declaration of any such |
+   correspondence is a matter for explicit hypothesis and testing, not implicit
+   assumption. It constitutes one of the archeologist’s greatest problems, not one
+   of his self-evident truths.
+       This fact lies at the foundation of the theory of archeological typology pro-
+   posed by the present study (in the following, only typology will be mentioned,
+   although the same things could be said with regard to classification). For when
+__an archeologist says that the presence of Type A at both Site 1 and Site 2
+__indicates some sort of direct cultural relationship between them, he is really
+ _ Saying one or both of two things: either (1) that actual specimens of Type A
+ _had come from one site to the other by some means, however direct or devious,
+__or (2) that the idea of Type A or how to make Type A had been transmitted
+  _from one site to the other with the recipient proceeding to manufacture one or
+     more examples. In either case, the archeologist is forced to assume that the idea
+ _ behind Type A or the idea behind the technique which produced Type A was a
+__consistent factor, conscious or unconscious, in the mind(s) of a bygone individual
+ _or group. In order to be applicable to interpretations concerning cultural rela-
+ _ tionships, the typological similarities which the archeologist recognizes must
+     be proved, or assumed, to be based on an actual idea and on one consistent
+   _enough to have produced, at a minimum, two similar specimens.
+         Since such ideas are not among the archeologist’s empirical data, it further
+     follows that the seeking for, and the demanding of, “objectivity” in archeologi-
+     cal studies is only partially a valid point of issue. In fact, the concept of ob-
+     jectivity should be clarified before we even discuss this point at all. It is some-
+     times said that an individual is thinking “objectively” or that a certain group
+    of phenomena is an “objective” category. And it is often implied that “objective”
+     thinking is concerned with “objective” categories. Now this may be so, but is
+    not necessarily so. According to the way one uses the terms, one can do a lot of
+    objective thinking about highly non-objective categories, and vice versa. The
+    crux of the matter lies in the difference between a procedure or method and the
+    data to which this procedure is applied. It would perhaps be better if we reserved
+    the terms objective and subjective to describe the nature of thinking and used
+    some terms such as empirical and inferential to refer, respectively, to the
+    observational and non-observational nature of the phenomena thought about.
+    Thus it would be that one could think either subjectively or objectively about
+    phenomena that were either empirical or inferential. To make these distinctions
+   would help to keep our own thinking clear, and this is, after all, the purpose
+    of this or any other conceptual scheme.
+     Returning to the question of “objectivity” in archeological studies, it appears
+124
+
+
+in most instances that when the archeologists use this term they mean what I
+am here calling “empirical.” This can be seen from the fact that they use it in
+connection with the criteria basic to their typologies and hence in connection
+with the nature of their data and not of their thinking. This being so, it may
+be categorically stated that their insistence upon “objective” criteria for their
+so-called culture classifications reflects a misconception as to the nature of
+archeological analysis as applied to cultural studies. I have been at some pains
+to show that empirical types and classes (and this applies especially to those that
+are founded on chemico-physical attributes alone) are only mediary to cultural
+studies. This is true for the plain and simple reason that, of themselves, they
+have nothing to do with the cultural world of the people under investigation.
+It is only by inference from them that the archeologist can reach the realms of
+past actuality. He may transmute his empirical categories into cultural ones
+if he is willing to make explicit hypotheses or to present his evidence and argue
+his views. In fact, this is the only way which is open to him! But by this very
+procedure he leaves the empirical and embarks upon the tide of inference.
+    And so it is not for the archeologist to cry blindly for “objectivity.” Rather
+let him realize that his empirical studies are but mediate and that, if he aspires
+to historiography or anthropology, he is required to deal with the inferential
+as much as with the empirical. But let him deal with all categories of data as
+explicitly (objectively) as possible, eschewing the emotional and implicit (sub-
+jective) approach. And above all, let him analyze whatever in fact he does do,
+so that he may bring into the open the procedures and premises upon which
+his results are based. Perhaps, if he accepts these admonitions, he will also
+come to realize that empirical typologies based on chemico-physical specifica-
+tions alone are not satisfactory for cultural studies because they fail to take
+into account many data that are vital as foundations for the necessary inferences.
+And perhaps he will come also to realize that we have returned to the point which
+I have stressed from the start} criteria for the empirical designation of form,
+type, and class include provenience, association, qualitative and quantitative
+facts and relationships, etc., in addition to the chemico-physical specifications. eS
+
+    After this glimpse into the theoretical aspects of archeological typology, it
+might be profitable to examine hurriedly some of the typologies and classifica-
+tions appearing in the literature of Americanist archeology.
+    W. D. Strong says of his version of Thomas Wilson’s chipped-stone-point
+classification that
+For the purpose of describing and comparing types of chipped arrowpoints, spear
+heads, and knives, a Classification based entirely upon form [read “shape”] rather
+than assumed function has been employed. . . . These outlines [of shapes] are
+entirely irrespective of size. (1935, p. 87)
+  TAYLOR                     A STUDY    OF ARCHEOLOGY                             125
+
+  The obvious intent of this denial of “assumed function” in favor of shape is the
+ _usual one of wishing to be “objective,” i.e., to deal with empirical rather than
+  inferential attributes of the points. With this desire there can be no quarrel—
+  as far as handling the specimens on an empirical level is concerned. But when
+  later (pp. 279, 281, 282) Strong uses these types for the purpose of ascertaining
+  cultural and temporal relationships between sites, he forfeits his purely empirical
+position and, albeit implicitly, assumes that his groupings are coextensive with
+ cultural groupings developed consciously or unconsciously by the bygone people
+ _who made them.       __ :
+       In other words, ‘he is taking for granted that those people saw the same
+  shapes as he does and grouped them in the same way. Any conclusions which
+  Strong might base upon the presence or absence of “parallel-sided stemmed”
+  points would be vitiated if the former people were completely indifferent as to
+  whether their points had parallel-sided or contracting stems or if it made no
+  difference to them whether their points had stems at all. Furthermore, if the
+  ancient people viewed “side notches” as functional equivalents of the indenta-
+  tions produced by an “expanding stem,” and if they thus classed them together
+  and made them interchangeably as a means of securing binding sinews, the
+  separation of these two shapes because of “the niceties of descriptive orderliness”
+  in a modern empirical classification would most probably warp the archeologist’s
+  conclusions. On the other hand, if the people classed together all points which
+  were developed from a triangular-shaped blank as against those developed from
+  an oval blank, an empirical classification which separated side-notched points
+  from those with expanding stems might be in accord with the cultural facts.
+  The crucial aspects of the matter, of course, lie in data over and above mere
+  physical shape. They lie in the interpretation of associations, in making infer-
+  ences and interpretations, and in following an “‘if-then” method until the
+  archeologist can satisfy himself (and eventually his colleagues also) that his
+ answer fits best with other data and has the most chance of being correct. Mere
+ “objectivity” is of little value by itself.
+     As the facts actually stand, Strong himself cites documentary and archeologi-
+ cal evidence to the effect that the significant functional difference between the
+ various chipped points is size and not shape (pp. 260, 267). Yet in his mono-
+ graph we find no following up of this lead, no analysis of the provenience and
+ distribution of large and small points within the pre-Pawnee sites in Nebraska.
+ In the face of an apparently significant cultural dichotomy, he has continued to
+ manipulate a purely empirical classification as an entity discrete from other
+ data. He has not analyzed the associations in which the points were found nor
+ given cross-references between the descriptions of specimens and the account
+ of their finding within the sites. In short, to summarize the issues brought up
+ in the preceding paragraphs, a classification such as Strong’s permits comparisons
+126
+
+
+with specimens from other sites only on the basis of shape. If to the criterion of
+shape were added other attributes and the empirical affinities, the classification
+might expectably be more precise and valuable; but it would, of itself, be no
+more applicable to cultural comparisons. It would still remain purely empirical.
+     Indeed, there is other, possibly even more conclusive evidence to support this
+contention. How can it be maintained that Strong’s classification represents the
+cultural categories or culture ideas of the former inhabitants of Nebraska, when
+the same classification has been used for central California (Gifford and
+Schenck, 1926; Schenck, 1926; Schenck and Dawson, 1929), and the Columbia
+River region of Oregon-Washington (Strong, Schenck, Steward, 1930), and
+southern California (Wedel, 1941a), unless it is further argued that all these
+groups were culturally identical with regard to chipped stone points? It is even
+more obvious that such classifications are purely descriptive or empirical, when
+a classification of stone work developed for a late pueblo in New Mexico
+(Kidder, 1932a) is used to group specimens at Uaxactun, Guatemala (Ricket-
+son and Ricketson, 1937), and specimens found in the La Plata district of
+northern New Mexico and Colorado with dates ranging from Basket-Maker III
+to Pueblo III (Morris, 1939). The classification of bone work, developed for
+artifacts dating from around A.D. 1300 onward at Pecos (Kidder, 1932a), is
+likewise used irrespective of time and location: Wedel uses it for his Kern Lake,
+California, specimens (1941a), and Cressman finds it applicable to specimens
+taken from Oregon caves minimally dated at 5000 years ago. The latter even
+goes so far as to say that:
+Kidder’s system of classification of bone awls (1932) is followed as far as possible,
+not intimating that there is any connection between our area and Pecos, but because
+his system has great utility and provides a convenient frame of reference. (1942, p. 63)
+
+It is hardly to be thought that the archeologists themselves believe that one
+classification of stone and one of bone reproduces the cultural groupings and
+ideas of American aborigines ranging from the State of Washington to Guate-
+mala and from 3000 B.C. to around A.D, 1800. Their use of the Pecos systems
+is primarily for descriptive convenience and not for cultural elucidation. But
+they sometimes make the mistake of employing the categories as if they were
+actually cultural ones. Unless the archeologist is willing explicitly to assume,
+or to argue, that his empirical types and classes are coextensive with the cate-
+gories characteristic of a bygone culture, he is wrong to use them to draw
+cultural conclusions.
+    The same can be said of typology within the field of Southwestern ceramics.
+In fact, if the difference between empirical types and cultural types had been
+clearly envisioned, the great proliferation of pottery types, which has aroused so
+much criticism, would have been seen in its proper light and the long-standing
+TAYLOR                     A STUDY    OF ARCHEOLOGY                              127
+
+argument between the “splitters” and the “lumpers,” recognized in print by
+Brew (1946, p. 55), Judd (1940, p. 430), Kidder (1936b, pp. xxv, Xxvil, 626),
+Martin and Rinaldo (1941, p. 655), and Reiter (1938, pp. 489, 490), would not
+have been inflicted upon the literature and discussion of Southwestern arch-
+eology. Both parties to this quarrel seem to be off the mark: the “splitters,”
+proceeding from their Starting point of descriptive analysis, make the mistake of
+assuming without demonstration that their empirical types represent cultural
+types; the “lumpers,” viewing pottery primarily from a cultural angle, refuse
+to believe that the minute differences recognized by the other faction have any
+real cultural significance either as indicators of relationships between sites or as
+separable entities within the aboriginal ceramic complexes. If it had been
+realized by both sides that empirical categories are one thing and cultural
+categories another, much needless misunderstanding would have been avoided.
+The “splitters” would not have attempted, without discussion or explicit assump-
+tion, to use their empirical types as cultural entities, and the “lumpers” would
+have seen that the fine discriminations made by the other faction were potentially
+basic to, but not identical with, the cultural discriminations in which they them-
+selves were particularly interested. Both would have realized that the reconcilia-
+tion of their differences lay, not in an agreement as to the degree of refinement
+acceptable in descriptive analysis, but in the correlation to be inferred between
+empirical and cultural types. Both would have seen that the support of either
+position required field and laboratory research, not polemics or ex cathedra
+pronouncements as to the number of pottery types acceptable or unacceptable
+for the Southwestern area and fractions thereof.
+    Arguments against a multiplicity of types, if by this is meant empirical or
+descriptive types, will not hold water. In the first place, from the viewpoint of
+archeological reporting, it is of the utmost importance to grant the archeologist |
+freedom to recognize and record all those similarities and differences which,
+within his experience and a cultural frame of reference, seem significant to him. —
+The publication of his empirical descriptions, named for convenience of handling
+and usually called types, serve to acquaint his colleagues of his findings, to elicit
+from them the antithetic or corroborative information urgently required, and to
+provide the general literature with comparative material with which to lend
+depth and significance to other finds from other sites.
+    For the archeologist to sit on his ceramic eggs with no attempt to bring them
+forth into the light of day through publication is recognized as bad practice. If this
+is true, then the only limits are those set by the potential cultural significance
+of the descriptive minutiae. But who can determine these limits? The archeolo-
+gist is never sure, nor will he ever be, just what detail may turn out to be of
+importance to his own studies or to those of his associates. If the limits are un-
+definable because, in all probability, there are no limits, then the archeologist
+128
+
+
+himself is the only possible judge of the extent and detail to which his descrip-
+tions should break down the material. His particular judgments may be adversely
+criticized by specific argument, but his right and duty to make as detailed
+judgments as he sees fit cannot with justice be denied.
+    Furthermore, the often intimated criticism that such atomizing typology
+produces too many names and descriptions and “clogs” the literature will not
+hold water either. Surely the critics do not mean to imply that they are able
+now, and plan to be able in the future, to memorize and retain in the mind the
+names and descriptions of even the generally accepted types within the South-
+west. If this is not implied and they will admit the necessity of recourse to
+published descriptions   for their comparative    studies, the addition   of more
+names is of no import, providing only that the names and descriptions can be
+systemized for easy reference as, for instance, in a key like the one developed in
+the Handbook of Northern Arizona Pottery Wares (Colton and Hargrave, 1937).
+Taxonomists of other disciplines make no such effort to keep in mind their
+entire typology or to work from memory when comparing specimens. There is
+no reason for Southwesternists to restrict the scope and refinement of their
+descriptive typology merely for the sake of a primitively simple system which
+might safely be retained in the mind. To do so would be to fly in the face of
+scientific progress, which has consistently advanced by way of more detailed
+analysis as the basis for more far-reaching synthesis.
+    Also there have been depreciations of the practice of defining a pottery type
+on the basis of a single potsherd. Strictly speaking, according to the system
+proposed by the present study, this is indeed an impossibility because any single
+manifestation is by definition a “form” and cannot be a “type.’’ However, two
+sherds of the same form can and do constitute a type and, although I may be
+mistaken here, such a two-sherd type would probably be subjected to the same
+criticisms as have been directed at a single-sherd category. By way of example,
+let us suppose that from some definitely pre-Spanish ruin in the Southwest an
+archeologist has excavated two small sherds which exhibit a bright orange glaze
+upon which flowers had been painted in blue. For the purposes of the example,
+let us further suppose that it could not be conclusively demonstrated one way
+or the other whether the two sherds originally belonged to the same or to different
+vessels. Such unique and unprecedented specimens would surely warrant descrip-
+tion, and when   they were discovered    to be significantly alike they would be
+thrown together in a common account. What else would this be but an empirical
+type? Whether or not the description was dignified with a name for the sake of
+ease in reference is of no theoretical consequence. It is to be very much doubted
+whether any archeologist would suppress the data concerning these two sherds,
+and if he did so it would be a glaring example of malpractice. The description of
+a single sherd thus constitutes an empirical form, and the description of two or
+ TAYLOR                     A STUDY    OF ARCHEOLOGY                             129
+
+  more sherds with specified similarities comprises an empirical type. If this is an
+  acceptable procedure in the case of unique sherds, it is also possible and ac-
+  ceptable with sherds which display a lesser degree of unusualness. As before, the
+  dividing line between the non-conformities which warrant type differentiation
+  and those that do not is not “given.” It is safe to say that no one is qualified
+  to lay down the law in this regard, and so each archeologist must be his own
+  judge, letting both his conscience and his experience be his guide. If, at some
+  later date, other data indicate that the archeologist was in error, then let his
+  statements be revised and corrected. This is the way of any scientific discipline,
+  and it is perfectly properly the way of archeology. (See below, Chapter 6, pp.
+  157f)
+       Up to this point I have been talking of empirical types. The correspondence
+  between these and cultural or culture types is an additional matter which calls
+  for further study, assumption, and argument. Types which have been established e
+  on the basis of descriptive analysis are not, ipso facto, cultural types. Often they
+  will be found to have no inferable cultural significance. Often they will have
+  to be regrouped or subdivided in order to satisfy the cultural implications of the
+  data. Differences which, from an empirical point of view, had been thought of
+  no significance and which had not been used to separate types, might later be
+  found to distinguish important cultural categories and would thus require more
+  minute break-downs. The reverse might also be the case: several categories,
+  which had been distinguished on empirical grounds, might be discovered to have
+  identical cultural significance and thus to call for amalgamation into a single
+  cultural type. These eventualities in no way adversely affect the validity of
+  empirical types or complicate the cultural issue. All that is required is for the
+  archeologist to be aware of the difference and use the categories with regard for
+  their limitations and potentialities. In doing this, he should find a welcome free-
+  dom of research procedure and a considerable clarification in his archeological
+  thinking.
+       This brings us to another point which has been the cause of some confusion
+  among the archeologists. In a recent publication, J. O. Brew has made much
+  of the fact that typologies (and classifications, to use the present terms) are
+  arbitrary, that such systems are made by the student, and that types are not
+  discovered but rather created and put in a system (1946, pp. 44-66). This
+  appears to be a perfectly true statement as far as it goes. The archeologists,
+  as well as students of other disciplines, can and do build their categories on
+_ the basis of criteria of their own choosing, depending on the requirements of
+  their current._problems. It is possible to type automobiles on the basis of the
+  length of the scratches in their paint, to classify sand-tempered potsherds on the
+  number of sand grains in each, or to group together all chipped stone points
+  which have side notches. It would be possible, but the pertinent question is
+ 130
+
+
+ “So what?” And the answer to this is, of course, “So that the results will be
+ of help in pursuing the investigations in which I am currently engaged.” Now the
+ alleged aim of archeological research is to obtain a knowledge of the culture of
+ the people of some presently uninhabited site. Therefore it is wrong to say, as
+   Brew does, that “No typological system is actually inherent in the material”
+   (1946, p. 46). In cultural material, as it is found by the archeologist, there are
+  inherent systems, namely, the ones developed by the people who made, used, or
+  possessed that material. Brew says, ‘Systematic classifications are simplifications
+  of and generalizations of the natural situation” (1946, p. 46), but a cultural
+  situation is not a “natural” situation! Those bygone people imposed their own
+  particular system upon nature and their own products, they had their own
+  way of thinking about things, and it is their, and not our, system(s) which the
+_ archeologist should attempt to discover. He should try to make his systematic
+  creations (and his typologies are just that) conform to those of the former
+  culture. How else can he hope to understand it? Inherent in cultural products is
+ the systematics of the people who produced them, 2and Brew’s biological analogy
+  has but led him astray. (See also McKern, 1939, p. 312)
+       It is probably true that culture—the whole of culture, i.e., in the holistic
+  sense defined in the preceding chapter—is a continuum and that any attempt
+  to break it up into segments on a purely cultural basis is arbitrary. This fact
+  accounts for some of the difficulties in applying the culture-area concept. But
+  when the term is used in its partitive sense, meaning a culture or a socio-political
+  grouping, where we are dealing with a well-defined segment possessing a charac-
+  teristic culture, culture is not a continuum, except in time. Individual ideas,
+  patterns, types are often adhered to consciously; and even to those that are
+  unconscious, there is a more or less consistent adherence which produces recog-
+  nizable aspects of the particular culture. Brew himself, while insisting upon the
+  arbitrary character of typology, commends the Beals-Brainerd-Smith analysis
+  of pottery decoration styles (1945) which is nothing more nor less than an
+  attempt to arrive at an understanding of the decorative concepts of bygone
+  potters. Their analysis is their own construction, but it aims to discover the
+  ancient concepts inherent in the material. The extent to which they have been
+  successful in this is the extent of their attainment, and I hasten to add that I
+  heartily concur in Brew’s enthusiasm for their results. Therefore, while the
+  distinction between what is called Plains Culture and what is called Eastern
+ Woodland Culture may be purely arbitrary, the distinctions which do exist be-
+ tween the designs on Hopi ceramics and those executed by Acoma potters,
+ beween spiral-grooved Pecos axes and the three-quarter-grooved axes of Snake-
+ town, between the moccasin patterns of various Plains tribes, are the results of
+ ideas held by the Indians themselves and are inherent in the results of their
+ culture-influenced behavior.
+ene                       A STUDY OF ARCHEOLOGY                                131
+    Following this line further, some light may be thrown on a problem which
+seems to have vexed the archeological taxonomists for a considerable time. Many
+of them have found difficulty in deciding just what attributes should be recog-
+nized in making their types and classes. They have been uncertain as to the
+degree of refinement which their analysis should encompass and have been look-
+ing for some mechanical means of determination. They have been worried about
+the proliferation of recognized ceramic attributes as opposed to the paucity of
+those within some category such as chipped stone points or bone “awls” (e.g.,
+McKern, 1939, pp. 306f). But I believe that there would have been much less
+of this uncertainty if the archeologists had viewed their material in some such
+light as that proposed in the present study, if they had viewed culture traits as
+ideas and not as material objects, if they had envisioned cultural behavior as
+mediate between ideas and material objects, in short if they had recognized the
+difference between their own empirical, descriptive groupings and the cultural
+and culture categories pertinent to the peoples they were studying.
+    For example, let us take the attribute of hardness so common in the pottery
+typologies and classifications in both the Southwest and Midwest. Here we
+have a physical property, an empirical specification which is useful in describing
+the objects. But culturally speaking what is it? Is the archeologist willing to
+contend that the Indians recognized hardness or had an idea as to the appro-
+priate hardness of their pottery in terms of the modern mineralogical scale? If
+he is unwilling so to argue, then hardness is an empirical specification only and
+does not belong in cultural and culture typologies. Even if the archeologist
+argues that hardness is the result of some technique of manufacture which was
+indeed recognized by the Indians, hardness itself is not cultural but only a
+sign of some cultural attribute, an indication of the existence of a certain
+technique. Thus, while hardness remains empirically valid, the really significant
+attribute from any cultural point of view is the technique of manufacture, say
+the firing temperature or the paste composition, which were the products of
+consistent ideas, i.e., culture traits.
+     From this, a test may be established for the inclusion or exclusion of any
+specified attribute. In his empirical descriptions, the archeologist is free to
+include any specification that he wishes. In his cultural categorizations, he may |
+include any specification which he is willing to assume is the material embodi-
+ment of a consistent idea in the mind(s) of the former maker, user, or possessor.
+Such a test permits great freedom to the archeologist but, at the same time,
+makes him explicitly responsible for the cultural implications of the systematics
+which he uses. If he is willing to assume that the side notches which he has
+empirically described under a classification such as Strong’s were also recognized
+by the Indians, then he is free to incorporate the attribute of side notches in
+any cultural classification he might create and to make use of them in cross-
+132
+
+
+culture comparisons. The testing of his working hypothesis will be his responsi-
+bility or that of his critics, and it will depend upon the marshalling of evidence
+pro or con. In other words, so long as the archeologist is willing to make an
+explicit assumption and to look upon it as a working hypothesis, he is free
+to make his cultural and culture groupings in whatever manner he sees fit.
+
+     This brings us to the final point in this discussion. The theoretical problems
+of the so-called culture classifications of the Southwest and Midwest have
+ received considerable attention. The similarity of these systems to the Linnaean
+ classification of biology has been attacked on a number of occasions (e.g.,
+ Brew, 1946, pp. 44-66; Steward, 1941) and not without some justice, although
+I shall have something to say about this later. However, two of the most basic
+points of misconception seem to have escaped the critics, with the result that
+their arguments are somewhat beside the point.
+     The first of these is the use of presence-and-absence “trait” lists as the
+foundation of classification. This usage is based on the assumption that the
+important factor about archeological discoveries is their presence or absence
+within a given site. And although the fact will probably be vehemently denied
+by the taxonomists, this assumption is accompanied by its corollary, namely,
+that the location, association, quantitative and qualitative relation to the cul-
+tural and natural environment is of no, or at least of secondary, importance.
+But actually, and contrary to McKern’s statement (1940, p. 19), a list showing
+the presence and absence of “‘traits” does not represent the former inhabitants
+of a site, at least in any cultural sense; nor do cultures, archeological or other-
+wise, consist of lists of typological tags as Griffin implies (1935). Surely there
+is more to “a culture” than this.
+     But the taxonomists, in their preoccupation with such lists, have gone so
+far as to modify an anthropological concept of long and respected standing and
+to involve themselves thereby in not a little confusion. I refer to their use of
+the term culture complex or, as it sometimes is written, trait complex. In the
+bulk of anthropological literature this concept is defined, as Linton put it
+ (1936b, p. 397), as “a larger functional unit,” the traits within which “are all
+more or less interrelated and interdependent from the point of view of both
+function and use.” But the taxonomists applying the Midwestern system have
+adopted the term in the sense of a mere assemblage or congeries of “traits” or
+descriptive items which they have seen fit to isolate, name, and list. McKern
+says:
+If substantially the same traits are found to occur repeatedly at site after site, one
+can be quite sure that this persistently grouped lot of traits is characteristic of a
+single culture. Such a repeatedly recurring series of traits is called a culture complex.
+(1940, p. 19)
+ TAYLOR                       A STUDY    OF ARCHEOLOGY                                133
+
+  Earlier he had said:
+  The more simple and direct method is that of analyzing materials from a site or
+  community as such, comparing the list of traits so determined with similarly determined
+  trait complexes from other sites or communities, and classifying on a basis of
+  similarity or dissimilarity to establish foci. (1938, p. 370, italics mine)
+
+ Throughout his work he seems to use complex in this, rather than in the in-
+ tegrative, sense. Cole and Deuel, on the other hand, in their Rediscovering
+ Illinois use it sometimes to signify a mere assemblage (1937, pp. 34; 207, fn 4)
+ and sometimes as it was defined by Linton (1937, pp. 36-39, 209). Ritchie
+ makes the same shift (1940b, p. 100; 1944, pp. 52, 325). Fairbanks (1941,
+ p. 12) uses complex and activity, following Linton, and Griffin (1943, pp. 328,
+ 330) follows McKern.
+     With regard to ethnographical data, Opler has pointed out the dangers of
+ dependence upon trait lists. Specifically, he says:
+_ The difficulty in placing these traits and deciding whether or not they belong on
+  our list involves a critique of a statistical approach to anthropological data which
+ assumes that a trait in one culture is the counterpart or equivalent of a formally
+ _similar or comparable trait in another culture. (1935, p. 705)
+
+ The same warnings apply to archeological materials and even more so, because
+ the qualifications which Kluckhohn has apparently rightfully made pertain
+ much less to archeology than to ethnology. He says:
+   . . what he [Opler] seems to me to demonstrate is that formal similarity can some-
+ times mislead us. So far as I am aware no one has given an inductive demonstration
+ that in the greater number of cases (or in any number sufficient to disturb statistical
+ results) highly specific similarities (within a not too great geographical area) do not
+ indicate some sort of historical connection past or present, direct or indirect. Granted
+ freely that the same trait is by no means always the same behavior, it does not
+ follow that detailed parallelisms are without historical significance. (1939, pp. 351-
+ 352)
+ In the first place, the archeological classifications which are based on “formal
+ similarities” use, for the most part, very simple and not “highly specific” simi-
+ larities. An ax is an ax, and an awl an awl. Even within the more elaborate
+ complexes such as ceramics, the whole is broken down to such a degree that the
+ items which are compared on a one-to-one basis are, of themselves, very simple.
+ Secondly, at least within the Midwestern system, the comparisons are often
+ made irrespective of time and space, so that Kluckhohn’s strictures about “a
+ not too great geographical area” do not hold. Finally, Kluckhohn is talking of
+ the value of formal similarities for comparative purposes, for the connections
+ and cross-culture relationships which they imply. He is not talking from the
+ standpoint of constructing a cultural context. To be sure, a list of typological
+134
+
+
+tags will give some idea as to the nature of the culture, but is “some idea” what
+the archeologist is looking for? Is it enough to take the place of the fuller
+contexts available to the ethnologist and historian? Can the archeologist depend
+on his comparative studies if they are based on no more than “some idea’’?
+I think not, and an example will show why.
+     Let us take the textile industries as reported from two cave sites: Lovelock
+Cave, central Nevada (Loud and Harrington, 1929), and Frightful Cave, central
+Coahuila, Mexico, as excavated by the U. S. National Museum’s 1940-41
+Coahuila Expedition.1°’ Tabulating these industries on a presence-and-absence
+basis, we find the following results (Table 2). Looking at the two industries as
+wholes, we certainly see a “highly specific” similarity. It is hardly to be doubted
+that any of the archeological taxonomists would hesitate to equate the textile
+industries of the two sites or, if other industries showed a like similarity, would
+fail to classify the sites together.
+     When quantitative information is added, the results are as shown in Table 3.
+The picture has changed radically. The quantitative data indicate a decided
+ difference rather than a similarity between the sites. The frequency order of
+the categories is different, pointing to a different orientation of cultural needs.
+ The frequency order within the categories (in five out of six where it exists)
+ shows a reversal as between the two sites. The differential number of ‘“‘miscel-
+laneous artifacts,” absolutely and relative to the total textile category, points to
+ a haphazard versatility among the Coahuila cave people which was not char-
+ acteristic of the inhabitants of Lovelock, and it also marks a definite cleavage
+ between the two sites. These and many other implications can be derived even
+ from the few data and slight manipulation presented here. For instance, it is
+ much more significant that wicker basketry is present in Lovelock Cave and is
+ the dominant type while it is absent in the Mexican site, than that it is merely
+ present in one and absent in the other. A presence-and-absence table would
+ tend to smooth the line of what is really a sharp peak in the graph of basketry
+ difference. A presence-and-absence table would show absolutely no variation in
+ the knot complex, while in actual fact the variation is noteworthy, both within
+ the category and within the textile industry as a whole. The vast quantitative
+ difference in the sandal category provides another lead for hypothesis and
+ investigation, Can it be accounted for by the former presence and subsequent
+ decay of leather footgear at Lovelock? The finding of a few leather moccasins
+ suggest such a possibility. Does the disparity indicate considerable travel, even
+  nomadism, over the jagged limestone rocks of Coahuila and a more or less
+  sedentary existence near the tule marshes of the Nevada lake? What other
+  evidence can be adduced to the support or contradiction of these hypotheses?
+  Or assuming their correctness for the moment, what light do they shed on
+  other facts of the respective cultures?
+TAYLOR                                   A STUDY      OF ARCHEOLOGY                                         135
+
+
+
+
+                                                      TABLE       2
+                                                                                LovELock       FRIGHTFUL
+
+          Basketry
+            Wl CRETE          SPAR    arenas  COA EA Cog                               x            —
+            SONe Rn, Met            At! ee          eee       ae                       x             Xx
+               BENE SUECH Seer to hk ak cron Bee «                                     x               x
+            {NAL OCSLG HRS weyRtn arn ee CeRe ORE ex ina cP bhai                       x               x
+            DIAILOG cree eich sare 8 ays AM ee           a oc                      —                   aR
+
+         Matting
+              CWLOEG      tee      Poet         red    ae    ay       Nace ee       x               x
+              Dlaitede    6)        as    eh    ee           eS           iy                        x
+
+         Netting
+                  aIrere Metspaycht Mhy's, ONE oe
+             [eGTO}                               PacE 2                            x               x
+             cn GELESS pene tee ee MRARETE Gas ee gus ee                           —                Xe
+
+         Knots
+           Sheet Dendua mts      ote ee ne    ne he et                             x                x
+           GVETHANC i Se     eRe se oe a eee See toe nee                           x                x
+           PTAUNVE wok save eo ree Pere Peeies bere ayers eg c -                   x                x
+             Fe       eo eit ck NR Sk ee   Cee    a                                a                x
+             wentatiem ees cae UMP ae SLES de areas Ss                             x                x
+
+         Cloth
+           TOALNCESS eee ce RR PON        Se coon COTES os                         x               —
+           HORE) pape OR COME, Sete SEIS eC       ED, era                          x                x
+           tw]CL Moeenet ei Cea te Gi          ieaeas er Te Ge                    —                 x
+
+         BraiGeeaee      Shs     Renee          TE are” NIRS. o ORR                ie               x
+
+         Sandals
+           EWITCC        EIN       etek. + tadetts ache Gita          krRes        x               —
+             TINO        ne     ee Pee    een   en Kee       ik GyeWe             —                 x
+
+         (ADrOlion     ett cone     rt nee et Moore kc omen       oe oe    RS      x                x
+
+                 otal stemsiirom) DOthsIteS.                       obs
+                                                            ee weeds              21
+                 Items/cammon to both sites 7.77.5. <0.                           13 or 62%
+                 Lovelock items common to both sites.....                         13 out of 16 or 81%
+                 Frightful items common to both sites.....                        13 out of 18 or 72%
+136
+
+
+                                                          TABLE 3
+                                                                                           FREQUENCY
+                                                                                             ORDER
+                                              LovELock               FRIGHTFUL              WITHIN
+                                                                                           CATEGORY
+
+      Basketry
+        MVICKED Mee tsaie eee                  1115                     0
+        Coiled)! sta        eet                 309                   112
+          SPS tic hiaen neta                   typical               rare                     same (?)
+        twined eset          meee               104                    10
+        plaited 4a. eee       ee    ee            0                     6
+
+                                                          1528 (1)              128 (4)
+      Matting
+        ‘twined taper           are rae        1418                    24
+        plaited 2.2./-cya serenity a:              0                   76                     reversed
+                                                          1418 (2)              100 (5)
+      Netting
+        knotted:.a.ee eee                      1016                    10
+        knotless: cee ee                           0                   70                     reversed
+
+                                                          1016 (3)                80 (6)
+      Knots
+        sheetbend= seen
+                      soe er                     185 (1)                5 (5)
+        OMAVGING. oocccocsce                      83 (2)              294 (2)
+        Prana                                     22 (3)               17 (4)                 reversed
+        Slipias ae ae oe ee ee                    14 (4)               28 (3)
+        Scared eps ee:                             4 (5)              379 (1)
+                                                           308 (4)               723 (3)
+      Cloth
+        feather,     Sanat vga:                  203                    0
+        hALb eae Aaa nse sia oro                  40                   12                     reversed
+        twihed asncsnees Seen:                     0                   15
+
+                                                           243 (5)                27 (7)
+      Braid soporte
+                 eee ee                          142                   26                     (none)
+
+                                                           142 (6)                26 (8)
+      Sandals
+        TWIN                 tc eee               87                    ()
+        plaited PRG    St   yore Cn te   an        0                  912                     reversed
+
+
+                                                            87 (7)               912 (2)
+      Misc.   artifacts      (exclusive
+        Ol cordage) mewacerane                                       3540                     (none)
+                                                            64 (8)              3540 (1)
+      IADTONS i       tinct crete                     9                     S                 (none)
+
+                                                             9 (9)                 5 (9)
+              TOTAL nrayerenteee               4815                  5541
+TAYLOR                        A STUDY    OF ARCHEOLOGY                                  137
+
+    Without the weighting and balance given by, among other things, the
+quantitative data, the cultural context is the loser. But is not the comparative
+study also? It has been shown above that even the not inconsiderable presence-
+and-absence similarities to be found in a broad complex such as the textile
+industry can be very misleading as the basis for cross-culture comparisons and
+taxonomy.
+     Before proceeding, it should be emphatically stated that the example given
+above is not a rigged case. It was discovered in the course of routine compara-
+tive study in connection with the writing of an archeological report. The only
+crucial assumption that has been made is that there was not too much difference
+in the efficiency of the two excavations. Granting a representative sample from
+each cave and a conscientious effort to save and report the evidence of human
+handiwork, there is no bar to full and detailed comparisons. The first of these
+provisions is, of course, a limiting one with respect to some archeological
+material. Where there is no assurance that the complete site has been excavated
+or a representative sample secured, as for example in much of the data used
+by Griffin for his study of the Fort Ancient Aspect (1943), quantitative infor-
+mation is unreliable and would be misleading to use without qualification. But
+such extenuating circumstances are not the rule, fortunately, and most of the
+so-called culture classifications have been built on the basis of sites recently
+excavated where, if not the actuality, at least the possibility of a representative
+sample was present. When this is the case and when the archeologist fails to
+give his comparisons the depth afforded by quantification, he is in grave danger
+of error. And even if his presence-and-absence tabulations are eventually shown
+to depict actual conditions, the demonstration of this fact must rest on just such
+added information as provided by quantification, association, provenience, etc.
+The tabulations themselves are but one part of the evidence, and of doubtful
+reliability at that!
+    Thus it is that when Steward criticizes Colton’s taxonomic attempts by
+attacking the smallness of percentage differences between the various groupings
+(1941), he is hitting at a secondary phenomenon. Instead of analyzing the
+value of the lists themselves, he seems content to accept them. In fact, he says:
+Were percentage tables [based on presence-and-absence lists] given for all classifications,
+the reader could ignore the formal classification and observe for himself the true
+relationships. (1941, p. 367)1°
+The reader might be able so to observe, but I doubt it. The real weakness lies,
+not in obfuscating the percentages, but in the source from which the percentages
+were derived.
+    Likewise, the dichotomy which Phillips sets up between “the stratigraphic
+and the analytic (McKern) methods” seems to hit beside the point. He says:
+138
+
+
+[the faults of Webb’s Pickwick Basin report] lie almost wholly in the domain         of
+interpretation and are the result of mixing the stratigraphic and the analytic (McKern)
+methods. In spite of all that has been said to the contrary, I believe that the two
+methods cannot be harmonized, one must give way before the other. . . . For once
+stratigraphy speaks so plainly it must be heard. No classifier could be happy in the
+contemplation of a mere focus which comprehends everything from a culture lacking
+even flint to one dominated by pottery. This is the focus to end all foci. Yet in all
+conscience what else could the authors do? The stratigraphy plainly offered no
+opportunity for a break-down that could be expressed by trait lists. This is the
+important point. Your archaeologist unhampered by a classificatory bias, would find
+no trouble at all in breaking the series down into sequent periods, each marked by
+the appearance of a new type of material. Persistence of the older types would not
+bother him at all. (1942, pp. 197, 198)
+
+He seems unable to get away from the idea of “trait” lists. Why is it necessary
+even to have “a new type of material” before a series can be broken down?
+Why would it not be possible, and culturally significant, to recognize a break
+when the quantitative or qualitative relationships change? The cultura! roster
+could remain exactly the same so far as presence-and-absence was concerned,
+but would it not be significant if, for example, the ratio of harpoons to fishhooks
+went from 75:25 in the lowest deposits to 25:75 in the upper levels? Would
+not that point at which it passed the 50:50 mark represent a possible point
+of division? What about a case wherein the quality of twined-woven sandals
+obviously improved from bottom to top within an archeological deposit? If the
+Midwestern taxonomists cry that this is not enough, that we are probably
+dealing with the evolution of a technique within a single human group, then
+let them not maintain that they deal only with “cultural factors.” It is only
+by the assumption of a socio-political or “tribal” unit that this example can
+fail to call forth a division. Formally, the end-points are considerably different
+and should be so classified, if ‘cultural’ factors alone weigh in the balance.
+According to the Southwestern system, if only it would recognize qualitative
+data, there would be no difficulty in separating the two end-points, because the
+space-time factor is not denied. The crux of this particular matter would, of
+course, be whether further evidence or the archeologist’s explicit judgment
+seemed to warrant the break-down. Potentially and ideally it should be possible,
+but it is not so under the rigid tenets of a presence-and-absence system.
+    Therefore it does not seem probable that there is any unresolved conflict
+between the stratigraphic and the taxonomic methods. The trouble lies in the
+manner in which these tools are used by the archeologists. It is likely that much
+of the fault found, here and in other places, with the Gladwin-Colton and
+McKern systems would be eliminated if quantitative, qualitative, and other
+relational data were applied throughout the analytical procedure. In this fashion,
+cultural rosters made up of cultural and culture forms, types, classes, could be
+TAYLOR                     A STUDY    OF ARCHEOLOGY                              139
+
+utilized for constructional and comparative purposes, and sequent groups of
+material could be assigned to different classificatory units, even though the
+actual cultural roster proved to be identical from bottom to top.
+    All this business of the objectivity of “trait” lists, and the adding and
+percentaging of “traits,” is a fine instance of what Professor Sapir used to call
+“spurious accuracy.” He made the point that because we feel we “must be
+accurate,” we often limit ourselves in our analyses to those phenomena which
+are amenable to finite accuracy. This leads to an overemphasis of certain aspects
+and the neglect of others. The taxonomists are as aware as anyone that all
+culturally important data do not lie in the chemico-physical properties of the
+material nor in the mere presence or absence of objects at archeological sites.
+Yet because such things as quality, ratio, association do not readily lend them-
+selves to tabular presentation and simple statements, they have been neglected,
+even shunned. The result is a warped picture of the culture and the cross-
+cultural relationships.
+    Furthermore, even the “trait” lists which have been established are suspect
+from the viewpoint of “objectivity.” At the risk of seeming overly to dwell
+on one archeologist, I shall again turn to Griffin for illustrative material because
+his monumental work The Fort Ancient Aspect (1943) contains within its ample
+pages not only a classic example of the taxonomic method but also much
+detailed exposition to which specific reference can be simply made. He often
+speaks of the “objectivity” of the method which he employs (e.g., pp. 3, 303,
+334, 335, 340). But, making the distinction between objective-subjective on the
+one hand and empirical-inferential on the other (see p. 123 above), we find that
+his method does not insure either objectivity or empiricism. To be sure, there
+is much which is of these orders, but also there is much which is no more
+objective or empirical than is to be found in the works of others following other
+methods. Intrinsically and of itself, the taxonomic method is no more objective
+nor based upon more empirical data than non-taxonomic methods.
+    In the table of non-pottery “traits” given following page 376, Griffin lists
+Plain bone beads, long and Plain bone beads, short. Empirically, it probably
+is a fact that there are some bone beads which are longer than others, but the
+decision as to the dividing line between what are to be designated as long and
+what as short is definitely not empirical. It is a matter of Griffin’s judgment
+with regard to the significance of bead length within the cultural setting. The
+same can be said for his decision to make two categories instead of many.
+And finally, it has been his judgment which has brought about a subdividing
+of the bone-bead category and not of such categories as bone tubes, stemmed
+stone points, antler handles, etc. He has seen fit to give bone beads double
+weighting in his tabular lists, and this could have been done only on the basis
+of an inference as to the significance of the length of bone beads and the
+insignificance of length within other categories. As for his objectivity in so
+140
+
+
+dividing the beads, one is in the dark because there is nothing in the text which
+will indicate the grounds on which he determined the significance of bead length
+or what actual lengths are designated as long or short. For this reason the
+division must be considered not only inferential but subjective. This lack of
+observational and explicit criteria makes it impossible for the reader to repro-
+duce Griffin’s results or to know on what basis they were achieved.
+    The same applies to the creation of others of his categories. He has distin-
+guished between side or corner notched knives, side notched points, and corner
+notched points, in other words, between “‘points” and “knives” which display
+the same notching. Again the segregation is inferential and subjective. Thus,
+no matter how objective are the procedures applied to these categories, the
+results will still retain a strong subjective and inferential element. Basically,
+they will still be founded upon what the archeologist thought was important
+and significant. This point seems to have escaped Griffin because he says that
+he has used arbitrary divisions based on material of manufacture in order to
+“eliminate the use of subjective groupings based upon such terms as ‘art’ and
+‘ceremonial’” (p. 3). At the same time he tabulates specimens under such
+headings as bone hair-spreader, whetstones, shell knives and scrapers, musical
+rasp, etc., which beg no less interpretative questions than the terms art and
+ceremonial.
+    It is not conducive to a strong belief in the “objectivity” of his method,
+when we analyze some of his judgments upon which we can make a check after
+a fashion. For example, in Table XIV he lists the bell-shaped pestle from seven
+of the possible nineteen Fort Ancient sites, and in the text he says that
+“although the evidence is not clear, it seems likely that the Fort Ancient
+peoples may have had the bell-shaped pestle” (p. 231) and that ‘‘in spite of
+the fact that the bell-shaped pestle is listed as an aspect trait, its place in this
+culture is uncertain” (p. 197). In other words, seven out of a possible nineteen
+site-records is not enough to establish bell-shaped pestles within the aspect. On
+the other hand he lists stone hoes from eight of the nineteen sites and says:
+The Iroquois used the wooden digging stick or more rarely an antler hoe instead
+of the stone hoe or shell hoe, as the Fort Ancient people did [sic]. (p. 231)
+Here the stone hoe is credited with being a Fort Ancient implement on the basis
+of eight occurrences, while there was evidently considerable doubt as to the
+bell-shaped pestle on the basis of seven. I wish to emphasize that I am not
+holding in suspicion Griffin’s judgments on these topics. What I am doing is
+trying to show that they are in fact judgments and that, therefore, his method
+is not the “objective” one he claims. Of itself, his method does not make his
+results any more objective or empirical (and it probably does not make it any
+less so). The mere putting of archeological data into lists instead of paragraphs
+does not make it more “objective,” nor is this accomplished by the operations
+of adding, percentaging, or other mathematical manipulation.
+TAYLOR                       A STUDY     OF ARCHEOLOGY                                 141
+
+    The second point I wish to make, and one which is possibly even more basic
+than the last, is that the so-called culture classifications of the Southwest and
+Midwest are classifications neither of separable cultural entities nor of archeo-
+logical materials in any cultural sense. Except by the odd chance of coincidence,
+there can be no connection between the groupings which result from taxonomic
+manipulations according to these systems and the aboriginal “tribal” or cultural
+groupings. Although the general tenor of explanatory statements (e.g., Colton,
+1939, pp. 6-16; McKern, 1939) has been to the effect that, actually or poten-
+tially, the taxonomic units are equivalent to pre-existing socio-political or cul-
+tural units, there is no justification to be found for such a contention within
+the systems themselves. This is due to one fact: the taxonomic units, entirely
+or with but rare exception, are constructed from empirical types and classes,
+not cultural or culture ones. The attributes of quantity and quality, of
+provenience and association, and of their respective affinities have not been
+utilized in creating categories. Segregation has been accomplished on the basis
+of empirical attributes of a very restricted range and of significance more to
+the archeologist than to the bygone peoples. For example, Cole and Deuel say:
+To test this conviction [that both Woodland and Mississippi Patterns occur in Fulton
+County, Illinois], also to obtain a purely objective view [sic] of all materials recorded,
+the larger cultural complexes, such as pottery and projectile points, were spread out
+and separated into types without regard to place of occurrence or association with
+other objects. (1937, p. 39, italics mine)
+And, although it was apparently not of his own doing, Griffin’s analysis of
+Webb’s Norris Basin pottery “was conducted without any knowledge of the
+other material found at the sites.”’ (Griffin, 1938, p. 253)
+     How can it be expected that types, created with so little regard for cultural
+data, will, when classified, yield a picture of the cultural relationships that once
+existed? The mere fact that some types come from a single site or geographic
+locality is, of itself, no proof that they should be grouped together culturally.
+Camp sites and cave sites and other stopping places of more or less transient
+peoples can conceivably preserve within a very limited space the products of
+not a few separate cultural and political entities. Distinct strata, with or without
+interspersed sterile layers, will help the archeologist to discriminate in many
+cases, but what is to help him if there are no such aids and the deposits are
+found to be without a break from top to bottom? How can he be sure as to just
+what cultural entities he is dealing with, unless he analyzes the provenience and
+associations of his material for consistent and significant cohesions and separa-
+tions? At some sites, such as small pueblos or individual pithouses, cohesion is
+quite apparent; but at a great many, as for instance the camp sites and shell
+heaps upon which much of the Midwestern classification has been built, there
+is the strong possibility that contiguity is due to historical accident rather than
+cultural relationship. To have reasonable assurance of the latter there is required
+142
+
+
+more than formal similarity coupled with gross spatial propinquity. These may
+be profitable leads, but they cannot be expected to tell the whole story either
+from the point of view of cultural comparisons or cultural contexts.
+     In short, what the taxonomists are doing, for the most part at least, is
+grouping their material on the basis of purely chemico-physical similarities and
+saying that the resulting categories represent “cultural divisions,” i.e., separable
+cultural entities which actually existed as such in past times. The Gladwin-
+Colton system avowedly uses the added criterion of space-time and, in Colton’s
+case at least, identifies one of its categorical levels with former tribes (Colton,
+1939, pp. 12, 71; 1942, p. 39). The McKern system professes to use only cultural
+criteria, but its advocates obviously believe that its categories are potentially
+representative of formerly existing units, cultural, linguistic, “tribal,” ethno-
+geographic, etc. (Griffin, 1937a, 1937b, 1943, pp. 337-338, 1945a; McKern,
+1943, pp. 314-315; 1944, pp. 445-446). Here I believe the Southwestern system
+has the greater possibility of attaining its goal, because the added factor of
+space-time reduces the likelihood of identifying chance aggregates as cultural
+or socio-political entities. Nevertheless, what the archeologists are really doing
+is putting together what seems to them to be similar in appearance, instead of
+combining what they have explicitly inferred was culturally cohesive in those
+bygone days from which their material derives.
+
+    In closing this chapter, I wish to bring up the often repeated criticisms of
+the similarities between Americanist taxonomies and the Linnaean classification
+of biology. Granting that the archeologists have for the most part applied their
+systems too rigidly and apparently often without a full awareness of the impli-
+cations of their procedures, still it seems to me that a great deal of the criticism
+which I have heard and read has been beside the point and shows an almost
+equal inflexibility and a comparable misunderstanding.
+    For example, Brew has elaborated at some length the fact that cultural
+phenomena do not reproduce sexually and, therefore, are not susceptible of a
+genetic or biological classification in any literal sense (1946, pp. 46-57; see also
+Steward 1941, p. 366). To add weight to this attack, he makes much of the fact
+that, even in biology, the species concept which is the basis of the system is ill-
+defined and open to serious criticism. These arguments are definitely beside
+the point and add nothing to the force of his denunciation of archeological
+taxonomy. If, as Brew maintains, the relationships of cultural phenomena are
+incomparable to those of biology, if the two spheres are so distinct as to make
+the classificatory generalities of one impertinent to those of the other, then by
+the same token the classificatory deficiencies of one are not pertinent to those of
+the other! If it is held, for example, that the classification of European hedgehogs
+is completely separate from that of Anasazi pottery, it affects the latter not
+TAYLOR                     A STUDY    OF ARCHEOLOGY                             143
+
+one whit to demonstrate, however conclusively, that the classification of the
+former is grossly in error. A case must be tried on its own merits, not on those
+of another jurisdiction. It behooves us then to examine the problems of arche-
+ological classification on the basis of archeological materials themselves.
+    It is a fact which can hardly be rightly disputed that culture relationships
+exist between cultural materials. If the word genetic, when applied to these
+relationships, bothers the archeologists and brings before their eyes bisexual
+images which are not warranted by the data, then by all means let us use other
+terms, say, affinal, correlative, or legatary.*°® But it cannot be denied that 1947
+Ford cars owe many of their characteristics to ideas obtained from the appear-
+ance and performance of the Fords (and even Chevrolets) of previous years,
+or that the saddles of the Plains Indians are related to the saddles of the Spanish
+horsemen who came to America many years ago, or that the atomic bomb is
+an assemblage of many modes (culture ideas) and many cultural forms.
+     The significance of the above examples lies in the word idea and in the
+human factor. The culture relationships which do exist have been brought
+ about through the minds of living beings, in the present examples through
+human agency. Inanimate products themselves do not reproduce, modify, copy,
+or influence one another culturally. It is the mediate agency of a mind that
+brings about the culture relationships between cultural products. Therefore,
+any classification which attempts to portray the relationships of human cultural
+materials must do so in terms of the people who made, used, or possessed those
+materials. We cannot say that Plains saddles are related to Spanish saddles
+unless we are willing to define what we mean by Plains Indians and Spanish
+people and unless we can prove or reasonably infer some connection, direct or
+indirect, between these human groups. In other words, we must be prepared
+to define, however crudely or exactly, the groups or individuals that acted as
+agents for the culture relationship. Since it will be a rare case in archeological
+research when a single individual can be identified as the agent, it follows that
+in our discipline a more general designation will usually have to be made, i.e.,
+by groups of individuals.
+     Now, both in anthropology as a whole and in historiography, the human
+groups which seem to have given the most satisfactory returns to investigation
+are those based on one or more of the following criteria: biological heredity
+(“race,” etc.), socio-political coherence (“nation,” “tribe,” village, “clan,”
+family, etc.), cultural or linguistic heritage (Norse, Indo-European, etc.), and
+geographic propinquity (“European,” “Midwestern,” “Danubian,” etc.). There-
+fore, either as a historian or an anthropologist, the archeologist has the criteria
+for several possible and demonstrably significant groups of people already set
+forth. He has at least one series of classificatory goals staked out for him:
+namely, to classify together in one unit all those cultural materials which can
+144
+
+be shown or reasonably inferred to have pertained to such groups of people.
+This is to say that the cultural contexts which will have the more important
+results, if we may judge from current historiographic and anthropologic practice,
+will be those characteristic of biological, socio-political, cultural, linguistic,
+and/or local groups.
+     And these classificatory units are inherent in the archeological material, a
+contention which is at variance with the expressed views of several arche-
+ologists who have essayed theoretical discussions (e.g., Brew, 1946, p. 46;
+McKern, 1939, p. 312). The objects and other manifestations with which the
+archeologist deals were made, used, or possessed by individuals belonging to
+groups that had definite biological heredity, lived with more or less socio-
+political cohesion (unless the archeologist has discovered a hermit’s den), had a
+specific cultural heritage, spoke as a mother tongue a particular language, and
+occupied a determinate geographic range. And whether or not these groups can
+be defined by archeological research does not alter the fact of their existence.
+For example, the fact that Berlioz, the composer, was of French nationality lies
+immanent in his musical compositions and provides, therefore, one way of
+classifying them. The fact that from a musical point of view, i.e., culturally,
+he was influenced by Beethoven is also inherent in his music and permits us to
+classify it among those culturally related to Beethoven or to the “German
+school.” The facts that Berlioz spoke French and lived and studied in Paris give
+us other inherent ways of classifying his work. Thus, although it is the classifier
+ who actually constructs the classification, as Brew has said (1946, p. 46), this
+ does not controvert the fact that there are classifications which are inherent in
+ the data. In archeological research, the student may or may not wish to seek
+ and use them, but they are there. Although he is at perfect liberty to make his
+categories arbitrary, there are inherent ones if he wishes, and is able, to
+ discover them.
+     Thus, as in the case of the typology and classification of objects and other
+ individual manifestations, classifications of cultural contexts lie immanent in
+ themselves and pertain to bygone people, not to the immediate world of the
+ archeologist. The latter should realize that, potentially at least, he works on
+ two levels. Empirically and “descriptively,” he may group his findings to his
+ own tastes and as “arbitrarily” as he wishes. But when he either professes or
+ attempts to group them “culturally,” ie., with significance for the bygone
+ culture under investigation, then he should try to group them according to the
+ relationships pertinent to that culture, not to his own. It is a fact, as Brew
+ states (1946, p. 46), that the data do not “fall into” types or classifications:
+ they must be put there by the archeologist. But this does not mean that there
+ are not inherent groupings which, with luck and conscious effort and by the
+ use of reasoned but free interpretation, the archeologist may succeed in repro-
+ ducing or approximating, The closeness with which his groupings fit past
+ TAYLOR                       A STUDY   OF ARCHEOLOGY                             145
+
+ actuality will be one      prime measure   of his service   to anthropological   and
+ historiographic studies.
+      This brings up another point which was mentioned at the beginning of this
+  chapter and which is vital to an understanding of archeological theory,/The
+ empirical data with which the archeologist has to work consist of the material
+ objectifications of culture traits and their empirical attributes. The archeologist
+ who works in undocumented cultures has only three sets of “these attributes
+_upon which to base all his studies. They are (1) spatial relationships, (2)
+_quantity, and (3) chemico-physical specifications. For example, most of his
+  temporal relationships are inferences drawn from vertical or horizontal space,
+  the associations of his material are purely spatial, his conceptions of cultural
+  values are taken largely from relative quantity and from chemico-physical
+ attributes leading to judgments of quality, his inferences as to use and function
+  are taken either from,spatial association or from the physical properties of
+  shape, material, etc,/His work is entirely a pyramiding of inferences based on
+  these foundations, and there is no remedy for this situation. It is in the nature
+  of the archeological materials, and the student might as well face it! The only
+  recourse for him is to make his multitude of required inferences congenial to the
+  empirical facts and as acceptable as possible to his own reasoned opinion and
+  that of his colleagues.
+      Therefore the problem resolves itself into how, on the basis of these empirical
+  data and with only an acceptable amount of inference, the archeologist is to
+  construct classifications of archeological materials which will reflect cultural
+  relationships as they existed among actual, pre-existing human groups. Since
+  the broader and fuller experience of historiography and the anthropology of
+  the living appears to have concentrated with advantage upon groups based on
+  common biological, socio-political, linguistic, cultural, and geographic factors,
+  it would seem best to follow suit, if only for the sake of the comparability of
+  results and at least until the systems are proved impracticable for archeological
+  research.
+       However, even a superficial check will show that some of the group criteria
+  are, in fact, impracticable. In the first place, “racial” and other groups based
+  on purely biological factors, as currently defined by the physical anthropologists,
+  have proved too broad and inclusive to satisfy the requirements of “culture
+  classification.”’ Also, because Americanist archeology deals, for the most part,
+  with non-literate and undocumented groups, there is little if any possibility of
+  using linguistic criteria for classificatory purposes. Unwritten language does not
+  “fossilize,” i.e., it does not produce material objectifications to be preserved.
+  Only in the case of the “direct historical approach,” when the archeologist starts
+  with a documented group, or in the case of a literate society such as the Maya
+  hierarchy is linguistic evidence available. Statements as to specific linguistic
+  affiliations of an undocumented people are inferences, usually of a highly
+146
+
+
+unsupportable sort, and are based on cultural factors other than linguistic.
+Although it is perhaps legitimate to assume that a culturally homogeneous site,
+and one which appears to hold the remains of a relatively small social group,
+say a single house structure, formerly held people who spoke a single tongue,
+nevertheless when it comes to relating this site linguistically to some other site,
+the archeologist is on very insecure grounds. And this is true even if the sites
+seem to be culturally identical or very similar. In short and in general, neither
+biological nor linguistic classifications are satisfactory for Americanist archeology.
+    There seems to be at least some likelihood of correctly identifying the social
+character of individual groups, as for example the family connections of single
+house sites or the “clan” connections of Southwestern ‘unit dwellings.” But
+here again, when it comes to projecting social inferences between such units,
+the procedure is precarious. Social or political organization is not objectified
+materially except through secondary phenomena such as house- and village-plan,
+“clan” devices and symbols. Therefore, as with language, the relating of
+bygone peoples socially or politically depends for any validity it might have
+upon the similarity of predominantly, if not wholly, non-social and non-
+political phenomena, i.e., a general cultural likeness in so far as it can be
+inferred from material manifestations.
+    Thus, whatever the case may be with regard to the characteristics of indi-
+vidual undocumented groups, whenever relationships are sought between them,
+the major dependence has to be placed upon cultural factors other than linguistic
+and socio-political. Similarities in the material objectifications of culture are
+taken to indicate cultural relationships, and the latter are often interpreted to
+include socio-political or linguistic, and sometimes even biological, relationships.
+But as McKern has said, “The only taxonomic basis for dealing with all cultural
+manifestations, regardless of occasional direct historical tie-ups, is that of
+culture type.” (1939, p. 302)
+    Therefore it is the archeologist’s task to abstract his empirical data (the
+spatial and quantitative attributes and relationships of his finds plus their
+chemico-physical specifications) and to construct from them a picture or defini-
+tion of the “culture type” of the group of people whose remains he has found
+and aims to classify. The procedure by which this is to be done is more or less
+laid out for him by the nature of the archeological materials. In the first place,
+the archeologist is empirically given nothing more than a series of cultural
+remains grouped, i.e., localized, in space. The cultural materials at one geographic
+location, usually called a site, pertain to the people who occupied or utilized
+that location and can be so classified empirically without recourse to inference.
+Exceptions occur when, for example, the remains have been moved from their
+original locus by non-human action, as of water, glaciers, rodents, but such
+instances do not appreciably alter the generalization. Cultural materials “un-
+disturbed” and in situ, represent the local group that made, used, or possessed
+ TAYLOR                      A STUDY    OF ARCHEOLOGY                               147
+
+  them in the past. Since the local human groups represented by these localized
+  finds are the only empirical ones with which the archeologist of non-literate
+  and undocumented cultures deals, they are basic and constitute the starting point
+  of all archeological taxonomy. On purely empirical grounds they may be
+  marshalled into larger units based on geographic propinquity: all cultural
+  materials within a certain valley or on a certain mesa or within a designated
+  radius of a certain spot may be thrown together as representing the people who
+  once were in that particular geographic region.
+       But for the delineation of cultural relationships such geographic taxonomy,
+  although empirical, is often misleading and of little value. The archeologist who,
+  because he finds Mousterian and Magdalenian remains in a single cave, would
+  lump them together and seek cultural comparisons for this whole undifferen-
+  tiated mass of material, would find himself in serious difficulties. To be sure, he
+  might find another such series of material and thus make telling comparisons,
+  but would not his conclusions as to bygone cultural groups and their relation-
+  ships be mistaken? In other words, it is necessary for the archeologist to analyze
+  the data from his individual locations or sites and to make a judgment as to
+  what remains, if any, represent a human group which actually existed as a
+  cultural unit in the past. This is to say that his primary obligation is to interpret
+  his site in terms of the human group or groups which used it. This is nothing
+  more or less than the construction of a cultural context for the site or its
+  separable components. When this has been done and, if necessary, some defini-
+  tion made of the “‘culture type,” then will come the time when comparative
+  and taxonomic studies can profitably be initiated.
+       To put it most simply, the archeologist first separates his material empiri-
+  cally on the basis of space, defining a local human group; then he separates
+Lit inferentially on the basis of cultural cohesiveness, defining a cultural group;
+  then he constructs a cultural context for this cultural group; and finally he
+  compares this context with others similarly derived, typing and classifying
+  them in order to bring out what he considers to have been their cultural
+  relationships. In these procedures, two things should be emphasized again: first,
+  that the primary concern of the archeologist should be directed toward a depic-
+_tion of the culture of a human group represented at a single site or fraction
+  thereof, not toward the placement of certain cultural manifestations in a broad
+  panorama of archeological sites; second, that presence-and-absence trait lists,
+  while they may prove useful tools, are neither the primary goals nor the
+  vital factors in the present method that they are in the current taxonomic
+ ‘systems of the Southwest and Midwest.
+      As many others have pointed out, the criteria upon which taxonomic
+  systems may be made (once the contexts have been constructed) can be
+  widely variant depending upon the wishes, knowledge, compulsions of the
+  archeologist. Furthermore, it is obvious that the criterion upon which the
+  148
+
+
+  primary break-down is made will be of signal importance to the results (see
+  Kluckhohn and Reiter, 1939, p. 152). But granting the premises of the present
+> study, the purpose of all such systematization is to depict as exactly as possible
+  the cultural relationships of culturally cohesive groups of people. Therefore, if
+  any classification, no matter what its primary or other criteria, seems satis-
+  factorily to reflect these relationships, then its use is justified. The particular
+  system is but a means to an end and if, for example, one based on a primary
+  break-down along ceramic lines appears to fill requirements, there is no cause
+  to attack it because it is based on only one criterion. What the archeologist is
+  trying to do is to find some classification which will correspond most fully to
+  what actually were the cultural relationships of human groups in the past. If he
+  comes to the conclusion that the similarities of even some “inconsequential”
+  category, say stone axes, follows most closely what this and other evidence
+  indicates were the actual relationships, then he would be vindicated in using
+  a classification of stone axes to express broader cultural relationships. By doing
+  this he is not saying that the most important cultural category is that of axes
+  or that he is classifying cultural wholes. He is merely saying that a primary
+  break-down on this basis seems to make the most sense, serves to provide him
+  with the most productive leads, is congruent with the most empirical and
+  inferential details, and depicts most exactly his opinion of what the cultural
+  relationships actually were.
+        _Nor is there any reason to believe that a classification which has proved
+  valuable in one area or for one temporal period will prove equally practicable
+  in another area or at another time. It is conceivable that at one time sandals
+  will be found most sensitive, while at another they will become stable and
+  apparently indifferent to cultural connections. It is possible that in one region
+  the paste of ceramic products will be the conservative element, against which
+  design will vary with foreign influence; in another area the reverse might prove
+  to be the case. Therefore I do not believe that McKern is to be followed when
+   he advocates thel*Standardization”\ of classificatory determinants for systems
+  as broad as that which he proposes (1939, pp. 306-307). The archeologists, like
+  other students of culture, must be prepared to assess their data and change their
+  tenets accordingly. The formation of a rigid system and its mechanical prosecu-
+  tion is hardly warranted in view of what we already know of the nature and
+  workings of culture.
+      Thus, with relationships which actually obtained to be depicted and human
+  groups which actually existed to be categorized, the archeologist is faced with
+  the problem of developing some method for the presentation of his hypotheses.
+  To date, the most satisfactory way in which relationships in general have been
+  depicted has been that of( binomial classification\such as is used in biology.
+  But it is important to note that this method can be used to present only those
+  relationships which have already been hypothesized by the classifier. Of itself
+ TAYLOR                      A STUDY   OF ARCHEOLOGY                              149
+
+  it does not establish relationships. It serves merely as a tool, a filing system
+  into which already classified data can be put for ready reference and as an aid
+  to future study.
+       Therefore it is illogical for students of culture to belabor the binomial
+  system because it was developed in the field of biology where sexual and bi-
+  parental relationships are the rule. There is no reason to look upon it as the
+  exclusive property of biology or to assume biological connotations when it is
+  used. If viewed as a tool, the only problem is whether it can be of service in
+  the exposition of cultural relationships and whether its mechanisms for showing
+  ever widening circles of affinity can be of advantage to cultural studies. It be-
+  comes a question of whether the lineages which range from ‘“‘mono-parental” to
+  “multi-parental” and the asexual relationships characteristic of culture can be
+  handled profitably with such a tool.
+       But actually, if we examine the way in which the Midwestern and South-
+  western taxonomists apply the binomial system, we will find that it is quite
+  different from the way the biologists use it. This rather important fact seems
+  to have escaped both the taxonomists, who have failed to use it to defend their
+  position, and the critics, who have thus been arguing largely at cross purposes.
+  But what is more to the present point, it provides a means of adaptation whereby
+  the binomial system can be, and has been, applied to cultural matters. First,
+  however, it will be well to show just how the two applications differ.
+      In)biology, the name of the lowest classificatory order; the species, is truly
+ /binomial,| having two terms which cannot stand apart. Thess terms represent
+  not only ‘the specific characters but also the generic characteristics and affilia-
+_ tions as well. Thus the specific name canadensis when appearing alone may be
+  indicative of many different groupings: the bighorn sheep (Ovis c.), the elk
+  (Cervus c.), the Canadian goose (Branta c.), the columbine (Aquilegia c.). Only
+  when the generic term is understood does the specific term have meaning. This
+  brings about a considerable rigidity in nomenclature, because, before a species
+  can be identified at all, it is already burdened with more or less definite and
+  broad relationships. Should the hypotheses concerning these generic relationships
+  be changed, the resulting disruption in terminology, as well as in the student’s
+ _thinking, is proportionately great.
+      In archeology, on the other hand, the nomenclature is not binomial at all
+ in any Linnaean or biological sense. Although the name of the lowest classificatory
+ order consists of two terms as in biology, e.g., Orr Focus, only one of these
+ terms stands for the characters of the specific group and neither represents the
+ characteristics or affiliations of a higher order. The word Focus merely identifies
+ the magnitude of the category and Orr designates the set of determinants. It is
+ the same as if the biologists were to say “canadensis species.” There are no
+ automatic ties to a higher category, and when the system is expanded and the
+ Orr Focus is affiliated with the Oneota Aspect, it is only by juxtaposition and
+    150
+
+    is not inherent within the name Orr Focus itself. Therefore the archeolopical
+    nomenclature is flexible, the units of classification being “free swimming”
+“entities which can be attached and unattached |
+|                                              ‘to larger units,‘without changing
+    their given names or definitive characters.
+        I believe that it is this very flexibility which makes practicable the binomial
+    system for cultural manifestations in archeology. It permits the classificatory
+    assignments to be changed without changing names and without an undue
+    amount of confusion to plague the archeologist. If one day he decides that the
+    Orr Focus belongs in the Oneota Aspect and the next that it belongs in the
+    Fort Ancient Aspect, he is not required to change his nomenclature or to re-
+    arrange other units whose relationships to the Orr Focus are proclaimed by
+    their names. All he has to do is to shift the Orr Focus bodily into another
+    pigeonhole and take care of the resultant gymnastics in his thinking when he
+    deals with it. Taxonomy in archeology should be viewed as a system of working
+    hypotheses which may be changed as the evidence warrants and opinion changes.
+    It is illogical to cry with one breath that cultural taxonomy is incomparable to
+    that of other fields, yet with the next to condemn it because it is not equally
+    steadfast and sure! It is very possible, if not highly probable, that the very
+    incomparability lies in its uncertainty and more tentative character, which in
+    turn is due to the nature of its materials and the procedures required to handle
+    them.
+        These same factors contrive to make archeological taxonomy a matter of
+    judgment and not the automatic and “objective” outcome of manipulating
+    cultural abstractions. The cultural contexts and their constituent elements have
+    been established on the basis of large amounts of interpretation and hypothesis,
+    and it is hardly to be expected that suddenly on the comparative level there
+    will be a reversal so that mechanically applied systems will solve the problems.
+    We can agree with Steward that
+      . . strict adherence to a method drawn from biology inevitably fails to take into
+    account the distinctively cultural and unbiological fact of blends or crosses between
+    essentially unlike types. (1941, p. 366)
+
+    But the archeological method, whether drawn from biology or not, at the
+    present time does not resemble the biological method except in so far as it
+    attempts to depict the branching quality of relationships by the use of a
+    dendritic or tree-like pattern. Brew has taken exception to this usage because
+    of its biological overtones (1946, pp. 52ff), but it is not too much to point
+    out that a dendritic pattern is not the exclusive property of biology, e.g., it is a
+    characteristic of river drainages and the deposition of minerals upon stone. That
+    it is also a characteristic of cultural relationships can be easily seen if one takes
+    the trouble to analyze graphically such a body of data as given by Kroeber on
+    the spread of the alphabet. (1923, pp. 263ff)
+         It is true that cultural derivations are often multiple and the dendritic
+TAYLOR                     A STUDY   OF ARCHEOLOGY                             151
+
+ pattern thus complicated. But this means nothing more than that the archeolo-
+ gist who would set a given manifestation upon some one “branch” or “stem”
+ must decide which, if any, are the most fundamental and significant influences,
+ either for his present problem or the cultural context as a whole. In a compar-
+ able instance, Leslie Spier found no difficulty in identifying Havasupai culture
+ as fundamentally Basin, although it has obviously received strong influences
+ from several other sources (1929, p. 219). Spier analyzed the data, made his
+ decision, and assigned the culture to the category with which it seemed to him
+ to display the most basic connections. The same can be done with archeological
+ data, providing only that the bases for the decision are made plain for the
+ evaluation of the reader. Trait lists and mathematical treatment may well be of
+ service in clarifying the material, but alone they cannot be expected to solve
+ the problem for the very reason that these relationships ave multiple and an
+ assessment of their relative importance is in the majority of cases a question of
+ judgment, not of mathematics.
+     To me there seems no barrier to classifying a given cultural manifestation
+ as a whole in one category and, either for other purposes or for a more detailed
+ accounting, to classify its component parts with completely different units. For
+ example, the cultural context of Component A as a whole might appear to have
+ its most basic relationships with Component B, while at the same time its
+ ceramic complex shows overwhelming influence from Component C. As long as
+ the evidence is given, I can see no trouble in grouping Components A and B
+ together when the intent is to show over-all relations. When, however, detailed
+ceramic studies are in order, Component A could be grouped with Component C.
+ The same procedure can extend down the scale: when the data require, the
+ ceramic complex as a whole might be grouped one way while some of its seg-
+ments are grouped otherwise.
+     In short, as Brew has said (1946, pp. 46, 65), we need more, not fewer
+classifications. But there is little reason to expect that any rigidly applied,
+mathematical, ‘‘standardized” system will of itself be satisfactory for the
+presentation of cultural relationships. The archeologist and his system need to
+be flexible and able to change with the changing demands of his complicated
+and disconnected material. If so many judgments must be made throughout the
+process it comes to a question, not of denying and shunning them, but of
+seeing how explicitly and how soundly the necessary ones can be made, pre-
+sented, and supported. On these grounds, then, there seem to be no substantial
+arguments against using a binomial system to depict cultural relationships as
+they are envisioned by the archeologist. If he will not apply it after the fashion
+of biology and then decry it because it brings biological connotations, but if
+he will adapt it to his own needs and at the same time keep it flexible, he may
+feel free to use it as a means. Let it carry him as far as it will, and then let
+him leave it. In a burning desert, let us not throw away our parasol because
+it is marked “Made in Japan.”

@@ -1,0 +1,2063 @@
+                                    Chapter 3
+
+                   ECONOMICS AND THE
+                 SPACE OF DEVELOPMENT:
+              TALES OF GROWTH AND CAPITAL
+
+                All types of societies are limited by economic factors.
+             Nineteenth century civilization alone was economic in a
+            different and distinctive sense, for it chose to base itself in
+              a motive rarely acknowledged as valid in the history of
+             human societies, and certainly never before raised to the
+             level of a justification of action and behavior in everyday
+             life, namely, gain. The self-regulating market system was
+               uniquely derived from this principle. The mechanism
+            which the motive of gain set in motion was comparable in
+            effectiveness only to the most violent outburst of religious
+            fervor in history. Within a generation the whole human
+                    world was subjected to its undiluted influence.
+                   —Karl Polanyi, The Great Transformation, 1944
+
+
+
+
+                 THE ARRIVAL OF DEVELOPMENT ECONOMICS
+LAUCHLIN CURRIE, a former Harvard economist and official in the Roosevelt
+administration, evoked in the following way, at a testimonial dinner party in
+Bogotá in 1979, the first World Bank mission, which thirty years earlier had
+taken him to that same country:
+  I don’t know where in my conservative Canadian background I acquired a
+  reformer’s zeal, but I must admit that I had it. I just happen to be one of those
+  tiresome people who can’t encounter a problem without wanting to do some-
+  thing about it. So you can imagine how Colombia affected me. Such a marvel-
+  ous number of practically insoluble problems! Truly an economic missionary’s
+  paradise. I had no idea before I came what the problems were but that did not
+  dull for a moment my enthusiasm nor shake my conviction that if only the Bank
+  and the country would listen to me I could come up with a solution of sorts to
+  most. I had my baptism of fire in the Great Depression. I had played some role
+  in working out the economic recovery program in the New Deal for the worst
+  depression the United States had ever experienced. I had been very active in
+  government during the Second World War. (Quoted in Meier 1984, 130)
+56                                      CHAPTER 3
+
+   This candid recollection reveals a number of features that are at the root
+of many enterprises undertaken by North Americans in colonial and post-
+colonial contexts: the “reformer’s zeal” and the drive toward reform and
+pedagogy; the utopian posture that finds a “missionary’s paradise” in those
+lands riddled with “a marvelous number of practically insoluble problems”;
+the belief that all wrongs can be corrected and all manifestations of human
+conflict eradicated. In Currie’s case, these traits had been rekindled by the
+recovery from the Great Depression and the reconstruction of Europe; the
+same traits were shared by many of the “pioneers of development”—econo-
+mists like Currie, who later became a leading figure in the field—who dis-
+embarked in the Third World some time after the war full of good intentions,
+armed with the tools of their profession, sometimes even with a progressive
+agenda, and invigorated by the fact that their science had just been sub-
+jected to the fine-tuning of the Keynesian mind.
+   But we are getting somewhat ahead in the story, for at the time of Currie’s
+arrival in Colombia, there was nothing resembling development economics.
+Let us listen to an earlier recollection of his, again referring to the Colombia
+mission discussed in chapter 2:
+     When, in 1949, I was asked to organize and direct the first study mission of the
+     World Bank there were no precedents for a mission of this sort and indeed
+     nothing called development economics. I just assumed that it was a case of
+     applying various branches of economics to the problems of a specific country,
+     and accordingly I recruited a group of specialists in public finance, foreign
+     exchange, transport, agriculture, and so on. I did, however, include some engi-
+     neers and public health technicians. What emerged was a series of recommen-
+     dations in a variety of fields. I was at pains to entitle it “the basis of a program”
+     rather than a socioeconomic plan. (Currie 1967, 31; quoted in Meier 1984, 131)
+
+   Currie’s remembrance also reminds us of one of the quintessential aspects
+of modernity: the need to compose the world as a picture. If upon his arrival
+in Colombia all he could perceive was problems, darkness, and chaos, it was
+because Colombia refused to compose itself as a picture he could read. De-
+velopment relies on setting up the world as a picture, so that the whole can
+be grasped in some orderly fashion as forming a structure or system. In the
+case of the economist, the picture is provided by economic theory. Currie’s
+ensemble of experts needed to compose Colombia as a picture; paradoxi-
+cally, all they were left with was another representation, Colombia’s “under-
+developed” economy, while the “real” Colombia forever receded into the
+background. The need to compose the world as a picture is central to all
+theories of economic development.1
+   The lack of economic theories specific to development commented on by
+Currie gave way to a proliferation of theories in the 1950s. Writing in 1979,
+John Kenneth Galbraith captured well the remarkable character of this
+                         THE SPACE OF DEVELOPMENT                                 57
+transformation. When, in 1949, he began instruction “in the economics of
+poverty and economic development” at Harvard University, he was con-
+fronted with the fact that
+  as a different field of study, the special economics of the poor countries was
+  held not to exist. In the next fifteen years in the United States these attitudes
+  were decisively reversed. . . . Over a somewhat longer period, the Ford Foun-
+  dation contributed well over a billion dollars between 1950 and 1975, and the
+  Rockefeller, Carnegie, and some CIA-supported foundations added smaller
+  amounts. . . . Intellectual interest in the problem of mass poverty had also
+  greatly expanded. Seminars and courses on economic development had prolif-
+  erated in universities and colleges across the land. . . . No economic subject
+  more quickly captured the attention of so many as the rescue of the poor coun-
+  tries from their poverty. . . . To be involved with the poor countries provided
+  the scholar with a foothold in the field of study that would assuredly expand and
+  endure. (1979, 26, 30; emphasis added).
+
+   As we will see, the 1980s saw a number of encompassing analyses on the
+origins and evolution of development economics by its leading pioneer fig-
+ures, who, almost forty years later, looked at their record with a critical eye.
+From their entrenched positions in prestigious institutions, these now-sen-
+ior economists declared the demise of the old field. “Development econom-
+ics is dead. May it rest in peace. It was quite exciting while it lasted, and—in
+spite of the many serious problems that remain to be solved—it fared rea-
+sonably well in the real world. Let us now be more realistic about our expec-
+tations, recognize the limits of our discipline, and leave behind the naive
+dreams of solving the world’s problems once and for all. Let us turn to the
+theory that we already know well.” These are the sentences that like a nos-
+talgic epitaph seem to emerge from the recent books of the pioneers of the
+field.
+   The death and recasting of development economics are undoubtedly
+linked to the demise of neo-Keynesianism and the rise of neoliberalism.
+At issue are the draconian economic reforms introduced in the Third World
+during the 1980s under pressure from the International Monetary Fund,
+particularly monetary and exchange controls, privatization of public en-
+terprises and government services, reduction of imports, and opening to
+world markets. The same approach underwrites the strategy of “market
+friendly development” hailed by the World Bank in its 1991 World De-
+velopment Report as the leading theme for the 1990s. This occurrence sym-
+bolizes the return of neoliberal orthodoxy in development economics, par-
+alleling the advance of the free market in Eastern Europe. Never mind that
+as a supposedly temporary casualty of the necessary adjustment people’s
+living standards have fallen to unprecedented levels. “The essential is to
+press on with structural reforms,” or so the litany goes. People’s welfare
+58                                CHAPTER 3
+
+can be bracketed for a while, even if hundreds of thousands might die. Hail
+the market.
+   The discourse of development economics gave us successive promises of
+affluence for the Third World through active intervention in the economy in
+the 1950s and 1960s, planning throughout the development era, stabiliza-
+tion and adjustment policies in the 1980s, and anti-interventionist “market
+friendly development” for the 1990s. This chapter examines how this dis-
+course could have taken place within the order of economic discourse as
+a whole; how it was articulated upon a domain of institutions, economic
+processes, and social relations; how the historical problematization of pov-
+erty gave rise to this peculiar discourse, which developed its own kind of
+historicity; how, finally, development economics effected development
+through the techniques of planning to which it gave rise. The aim of the
+chapter is not to decide whether the early development economists were
+right or wrong, but to develop a historical, epistemological, and cultural
+awareness of the conditions under which they made their choices. Even if
+the economists operated in a domain of discourse that had been created not
+as a result of individual acts of cognition but through the active participation
+of many in a historical context, the choices they made embodied commit-
+ments that had social and cultural consequences.
+   The first part of the chapter suggests an approach to examining both the
+economy and its science as cultural constructions, a task for which few
+guideposts exist at this time.2 The second part looks at some of the notions
+central to the articulation of classical and neoclassical economic discourse
+before the advent of development, particularly those notions which pro-
+vided the building blocks of development economics. The third section ana-
+lyzes in detail the elaboration of economic development theories in the
+1940s, 1950s, and 1960s; it also addresses the rise of planning as the practi-
+cal side of development economics. The fourth section builds upon recent
+literature on economic anthropology that posits the existence of marginal
+models of the economy harbored in the practice of popular groups in the
+Third World today; it discusses the need for a cultural politics that takes
+seriously the existence of both mainstream economics as a dominant dis-
+course and the manifold local models implicitly maintained by Third World
+groups. The chapter concludes by suggesting ways of shifting economic dis-
+course within the context of global political economy as a strategy to pursue
+alternatives to economics and development.
+
+
+                           ECONOMICS AS CULTURE
+Needless to say, economists do not see their science as a cultural discourse.
+In their long and illustrious realist tradition, their knowledge is taken to be
+a neutral representation of the world and a truth about it. Theirs is not, as
+                         THE SPACE OF DEVELOPMENT                                 59
+Patricia Williams writes referring to the law in ways that are equally applica-
+ble to economics, “an imposition of an order—the ironclad imposition of a
+world view” (1991, 28). “At issue,” Williams continues, “is a structure in
+which a cultural code has been inscribed” (1991, 19; my emphasis). This
+inscription of the economic onto the cultural took a long time to develop, as
+the philosopher Charles Taylor explains:
+  There are certain regularities which attend our economic behaviour, and which
+  change only very slowly. . . . But it took a vast development of civilization be-
+  fore the culture developed in which people do so behave, in which it became a
+  cultural possibility to act like this; and in which the discipline involved in so
+  acting became widespread enough for this behaviour to be generalized. . . .
+  Economics can aspire to the status of a science, and sometimes appear to ap-
+  proach it, because there has developed a culture in which a certain form of
+  rationality is a (if not the) dominant value. (Taylor 1985, 103).
+
+   What is the cultural code that has been inscribed into the structure of
+economics? What vast development of civilization resulted in the present
+conception and practice of the economy? The answer to this question is
+complex and can only be hinted at here. Indeed, the development and con-
+solidation of a dominant view and practice of the economy in European
+history is one of the most fundamental chapters in the history of modernity.
+An anthropology of modernity centered on the economy leads us to question
+the tales of the market, production, and labor which are at the root of what
+might be called the Western economy. These tales are rarely questioned;
+they are taken as normal and natural ways of seeing life, “the way things
+are.” Yet the notions of economy, market, and production are historical con-
+tingencies. Their histories can be traced, their genealogies demarcated, and
+their mechanisms of truth and power revealed. In short, the Western econ-
+omy can be anthropologized and shown to be made up of a peculiar set of
+discourses and practices—very peculiar at that in the history of cultures.
+   The Western economy is generally thought of as a production system.
+From the perspective of the anthropology of modernity, however, the West-
+ern economy must be seen as an institution composed of systems of produc-
+tion, power, and signification. The three systems, which coalesced at the end
+of the eighteenth century, are inextricably linked to the development of
+capitalism and modernity. They should be seen as cultural forms through
+which human beings are made into producing subjects. The economy is not
+only, or even principally, a material entity. It is above all a cultural produc-
+tion, a way of producing human subjects and social orders of a certain kind.
+Although at the level of production the history of the Western economy is
+well known—the rise of the market, changes in the productive forces and
+the social relations of production, demographic changes, the transformation
+of everyday material life, and the commodification of land, labor, and
+60                                CHAPTER 3
+
+money—analyses of power and signification have been incorporated much
+less into the cultural history of the Western economy.
+   How does power enter into the history of the economy? Very briefly, the
+institutionalization of the market system in the eigtheenth and nineteenth
+centuries also required a transformation at the level of the individual—the
+production of what Foucault (1979) has called docile bodies—and the regu-
+lation of populations in ways consistent with the movements of capital. Peo-
+ple did not go into the factories gladly and of their own accord; an entire
+regime of discipline and normalization was necessary. Besides the expulsion
+of peasants and serfs from the land and the creation of a proletarian class, the
+modern economy necessitated a profound restructuring of bodies, individu-
+als, and social forms. This restructuring of the individual and society was
+achieved through manifold forms of discipline, on the one hand, and
+through the set of interventions that made up the domain of the social, to
+which I have alluded, on the other. The result of this process—Homo oecon-
+omicus—was a normalized subject that produces under certain physical and
+cultural conditions. To accumulate capital, spread education and health, and
+regulate the movement of people and wealth required no less than the estab-
+lishment of a disciplinary society (Foucault 1979).3
+   At the level of signification, the first important historical aspect to con-
+sider is the invention of the economy as an autonomous domain. It is well
+known that one of the quintessential aspects of modernity is the separation
+of social life into functional spheres (the economy, the polity, society, cul-
+ture, and the like), each with laws of its own. This is, strictly speaking, a
+modern development. As a separate domain, the economy had to be given
+expression by a proper science; this science, which emerged at the end of
+the eighteenth century, was called political economy. In its classical formu-
+lation by Smith, Ricardo, and Marx, political economy was structured
+around the notions of production and labor. In addition to rationalizing cap-
+italist production, however, political economy succeeded in imposing pro-
+duction and labor as a code of signification on social life as a whole. Simply
+put, modern people came to see life in general through the lens of produc-
+tion. Many aspects of life became increasingly economized, including
+human biology, the nonhuman natural world, relations among people, and
+relations between people and nature. The languages of everyday life became
+entirely pervaded by the discourses of production and the market.
+   The fact that Marx borrowed the language of political economy he was
+criticizing, some argue (Reddy 1987; Baudrillard 1975), defeated his ulti-
+mate purpose of doing away with it. Yet the achievements of historical mate-
+rialism cannot be overlooked: the formulation of an anthropology of use
+value in lieu of the abstraction of exchange value; the displacement of the
+notion of absolute surplus by that of surplus value and, consequently, the
+                        THE SPACE OF DEVELOPMENT                             61
+replacement of the notion of progress based on the increase of surplus by
+that based on the appropriation of surplus value by the bourgeoisie (exploi-
+tation); the emphasis on the social character of knowledge, as opposed to the
+dominant epistemology, which placed truth on the side of the individual’s
+mind; the contrast between a unilinear conception of history, in which the
+individual is the all-powerful actor, and a materialist one, in which social
+classes appear as the motor of history; a denunciation of the natural charac-
+ter of the market economy and a conceptualization, instead, of the capitalist
+mode of production, in which the market appears as the product of history;
+and finally the crucial insight of commodity fetishism as a paradigmatic fea-
+ture of capitalist society.
+   Marx’s philosophy, however, faced limits at the level of the code.4 The
+hegemony of the code of signification of political economy is the under-
+side of the hegemony of the market as a social model and a model of thought.
+Market culture elicits commitments not only from economists but also
+from all those living with prices and commodities. “Economic” men and
+women are positioned in civil societes in ways that are inevitably mediated,
+at the symbolic level, by the constructs of markets, production, and com-
+modities. People and nature are separated into parts (individuals and re-
+sources), to be recombined into market commodities and objects of ex-
+change and knowledge. Hence the call by critical analysts of market culture
+to remove political economy from the centrality that it has been accorded in
+the history of modernity and to supersede the market as a generalized frame
+of reference by developing a wider frame of reference to which the market
+itself might be referred (Polanyi 1957b, 270; Procacci 1991, 151; Reddy
+1987).5 I suggest that this wider frame of reference should be the anthropol-
+ogy of modernity.
+   Anthropologists have been complicit with the rationalization of modern
+economics, to the extent that they have contributed to naturalizing the con-
+structs of economy, politics, religion, kinship, and the like as the fundamen-
+tal building blocks of all societies. The existence of these domains as preso-
+cial and universal must be rejected. Instead, “we must ask what symbolic
+and social processes make these domains appear self-evident, and perhaps
+even ‘natural,’ fields of activity in any society” (Yanagisako and Collier 1989,
+41). The analysis of economics as culture must thus start by subjecting to
+scrutiny the apparent organization of societies into seemingly natural do-
+mains. It must reverse the “spontaneous impulse to look in every society for
+‘economic’ institutions and relations separate from other social relations,
+comparable to those of Western capitalist society” (Godelier 1986, 18).
+   This task of cultural critique must begin with the clear recognition that
+economics is a discourse that constructs a particular picture of the economy.
+To use Stephen Gudeman’s metaphor (1986; Gudeman and Rivera 1990),
+62                                      CHAPTER 3
+
+what we usually recognize as economics is only one “conversation” among
+many regarding the economy; this conversation became dominant through-
+out the centuries, thanks to the historical processes already sketched. Gude-
+man’s unveiling of the use in anthropology of allegedly universal economic
+models is instructive:
+     Those who construct universal models . . . propose that within ethnographic
+     data there exists an objectively given reality which may be captured and ex-
+     plained by an observer’s formal model. They utilize a “reconstructive” method-
+     ology by which observed economic practices and beliefs are first restated in the
+     formal language and then deduced or assessed with respect to core criteria such
+     as utility, labor or exploitation. Although the particular theories used in eco-
+     nomic anthropology are quite diverse, they share the assumption that one or
+     another universal model exists and can be used to explain a given field data.
+     According to this perspective, a local model usually is a rationalization, mystifi-
+     cation or ideology; at most, it only represents the underlying reality to which
+     the observer has privileged access. (1986, 28)
+
+   Any model, however, whether local or universal, is a construction of the
+world and not an indisputable, objective truth about it. This is the basic
+insight guiding the analysis of economics as culture. The coming into domi-
+nance of modern economics meant that many other existing conversations or
+models were appropriated, suppressed, or overlooked. At the margins of the
+capitalist world economy, Gudeman and Rivera insist, there existed and
+continue to exist other models of the economy, other conversations, no less
+scientific because they are not couched in equations or produced by Nobel
+laureates. In the Latin American countryside, for instance, these models are
+still alive, the result of overlapping conversations that have been carried out
+for a long time. I will come back to the notion of local models in the last
+section of the chapter.
+   There is, then, an orientalism in economics that has to be unveiled—that
+is, a hegemonic effect achieved through representations that enshrine one
+view of the economy while suppressing others. The critique of economics as
+culture, finally, must be distinguished from the better-known analysis of
+economics as “rhetoric” advocated by McCloskey (1985). McCloskey’s work
+is intended to show the literary character of economic science and the price
+economics has paid for its blind adherence to the scientistic attitude of mod-
+ernism. This author shows how literary devices systematically and inevitably
+pervade the science of economics. His aim is to improve economics by
+bringing it into the realm of rhetoric. The aim of this chapter is quite differ-
+ent. Although some rhetorical analysis is used, particularly in the reading of
+the economic development theories of the 1950s and 1960s, the analysis of
+economics as culture goes well beyond the formal aspect of the rethoric of
+                         THE SPACE OF DEVELOPMENT                                  63
+economics. How did particular constructions of the economy come to exist?
+How do they operate as cultural forces? What practices do these construc-
+tions create, and what are the resulting cultural orders? What are the conse-
+quences of seeing life in terms of such constructions?
+
+
+         THE WORLD OF ECONOMICS AND THE ECONOMICS OF THE
+           WORLD: THEORETICAL AND PRACTICAL ANTECEDENTS
+                    OF DEVELOPMENT ECONOMICS
+             “The Static Interlude” and the World of Economics
+The opening paragraph of what was perhaps the most celebrated article on
+economic development, written in 1954, entitled “Economic Development
+with Unlimited Supplies of Labour,” and authored by W. Arthur Lewis,
+reads as follows:
+  This essay is written in the classical tradition, making the classical assumption,
+  and asking the classical question. The classics, from Smith to Marx, all assumed,
+  or argued, that an unlimited supply of labour was available at subsistence
+  wages. They then enquired how production grows through time. They found
+  the answer in capital accumulation, which they explained in terms of their
+  analysis of the distribution of income. Classical systems thus determined simul-
+  taneously income distribution and income growth, with the relative prices of
+  commodities as a minor by-product. (Lewis [1954] 1958 , 400)
+
+   Let us pause for a moment to recall some of the pertinent aspects of the
+“classical tradition.” The cornerstone of the classical theory of growth was
+capital accumulation (understood in its “bourgeois” sense, that is, not as a
+dialectical process), associated with an increasingly specialized labor force.
+Changes in capital and labor productivity were considered of paramount
+importance, whereas natural resources and institutions were regarded as
+constant and technical change as an exogenous variable (treated as such by
+all classical economists except Marx). Classical economists also believed that
+natural resources are limited; scarcity became an inescapable imperative.
+The corollaries of this premise were progressive impoverishment, the stunt-
+ing of growth (the theory of diminishing returns), and the possibility of
+reaching a stationary state.6 This retarding effect could be offset only by
+technical progress. According to the classical theory, the economy would
+reach a point at which wages would rise above the subsistence minimum,
+thus squeezing profits down to a point where investment would stop; aver-
+age wages would then drop again, technological progress would make labor
+more productive, and growth would resume, only to be once again subjected
+to forces that pulled it toward a stationary state, and so forth.7
+64                                CHAPTER 3
+
+   For Ricardo, the laws that regulate the distribution of the national product
+among rents, profits, and wages was the main problem of political economy.
+The level of profits was crucial, because it determined the level of capital
+accumulation and economic growth. His economic theory thus consisted of
+a theory of rent, a subsistence theory of wages, an explanation of the impact
+of diminishing returns in agriculture on the profit rate, and a labor theory of
+value. One of the most important contributions of the Ricardian formulation
+was precisely this theory of value. Labor became a unit common to all mer-
+chandise and the source of value because it embodied the producing activity
+(Dobb 1973). Labor, in fact, appeared as a transcendental that made possible
+the objective knowledge of the laws of production. The economy became a
+system of successive productions based on labor (the product of labor of one
+process went into another). This economic concept fostered a view of accu-
+mulation according to temporal sequences and, generally speaking, made
+possible the articulation of economics with history. Production and accumu-
+lation began to shape indelibly the modern notion and experience of history
+(Foucault 1973).8
+   The notion that labor is the basis of all value did not survive for long. The
+“marginal revolution” of the 1870s sought to debunk the Ricardian formula-
+tion by introducing a different theory of value and distribution. Interest-
+ingly, the search for an absolute determinant of value was abandoned. “Pre-
+vailing opinions make labor rather than utility the origin of value,”wrote
+Jevons, the father of the conceptual revolution. “Repeated reflection and
+inquiry have led me to the somewhat novel opinion, that value depends
+entirely upon utility” (quoted in Dobb 1973, 168). Jevons defined utility as
+“the abstract quality whereby an object serves our purposes, and becomes
+entitled to rank as a commodity,” and the problem of the economy as the
+satisfaction of “our wants to the utmost with the least effort . . . to maximize
+comfort and pleasure.” As the supply of a given commodity is increased, its
+utility starts to decrease until “satisfaction or satiety” is approached (Dobb
+1973, 166–210).9
+   A whole new sphere of economic analysis—usually referred to as neoclas-
+sical economics—was built on this peculiar law. The idea that the economy
+could reach a state of general equilibrium became the centerpiece of eco-
+nomic theory. This idea was originally postulated by the French economist
+Leon Walras as a series of simultaneous equations relating a number of eco-
+nomic variables (prices and quantities of goods and services, either products
+or factors of production to be bought by households and firms). According to
+this theory, the free play of forces of supply and demand would tend to
+establish, under competitive conditions, an equilibrium pattern in the prices
+of commodities in such a way that all markets would be “cleared.” This is so
+because there is a “concatenation and mutual dependence” of economic acts
+                         THE SPACE OF DEVELOPMENT                                 65
+among all producers and consumers, a certain “circular flow of economic
+life.” Schumpeter (1934, 8) defines this circular flow of the self-regulating
+market in a revealing manner:
+  Hence it follows that somewhere in the economic system a demand is, so to say,
+  ready awaiting every supply, and nowhere in the system are there commodities
+  without complements, that is other commodities in the possession of people
+  who will exchange them under empirically determined conditions for the for-
+  mer goods. It follows, again from the fact that all goods find a market, that the
+  circular flow of economic life is closed, in other words that the sellers of all
+  commodities appear again as buyers in sufficient measure to acquire those
+  goods which will maintain their consumption and their productive equipment
+  in the next economic period at the level so far attained, and vice versa.10
+
+   It was an extremely harmonious view of the economy, without politics,
+power, or history; an utterly rational world, made even more abstract with
+the passing of time by the increasing use of mathematical tools. Why did the
+neoclassical economists abandon classical concerns such as growth and dis-
+tribution? A commonsense explanation is usually put forward: Because capi-
+talism became consolidated in the second half of the nineteenth century—
+having achieved remarkable rates of economic growth, elevated the living
+standards of the masses, and dispelled the old fears of getting to a point
+where growth would no longer be possible—the analytical preoccupation
+with growth seemed superfluous. The turn in analysis toward static and
+short-term theoretical interests, such as the optimization of resource alloca-
+tion and the decision behavior of individuals and firms, was a logical step to
+follow.11 Once capitalism was decidedly working, the interest of economists
+shifted to the fine-tuning of the operations of the system, including the ra-
+tionalization of decisions and the coordinated performance of markets to-
+ward an optimum equilibrium. The dynamic aspects of the economy thus
+gave way to static considerations. It was what a development economist
+aptly called the static interlude (Meier 1984, 125–28).
+   Progress had not been without vicissitudes, especially toward the end of
+the century (falling prices, unemployment, business losses, class struggles,
+and workers’ organizations); but these problems would fade away as the
+process of continued growth was not in doubt. And in spite of the fact that
+by the end of the century the faith in the virtues of laissez-faire had been
+shaken (especially in relation to the need to control business monopoly), in
+1870 most observers believed that universal and perfect trade would reign
+unhindered. It was as if, the economy having achieved some degree of ap-
+parent stability, economists busied themselves with the more mundane but
+theoretically exciting realm of the quotidian. This confidence was to be torn
+to pieces with the Great Depression. But by the time this happened, the
+66                                CHAPTER 3
+
+great “neoclassical edifice,” built in the 1870s and furnished with impecca-
+ble precision in the next one hundred years, was firmly in place, shaping the
+discursive firmament of the discipline.
+   For Schumpeter (1954, 891–909), however, the neoclassical revolution
+left untouched many of the elements of the classical theory, including “its
+sociological framework.” The general vision of the economic process was
+still pretty much the same as in Mill’s time. In short, despite its rejection of
+the labor theory of value, neoclassical economics inherited, and functioned
+within, the basic discursive organization laid down during the classical pe-
+riod. The emphasis on individual satisfaction reinforced the atomistic bias of
+the discipline; more than in classical thought, the economic system was irre-
+mediably identified with the market, and economic inquiry with market con-
+ditions (especially prices) under which exchange takes place. The problem
+of distribution was removed completely from the sphere of politics and so-
+cial relations and reduced to the pricing of inputs and outputs (the marginal
+productivity theory of distribution). By further isolating the economic sys-
+tem, questions of class and property relations fell outside the scope of eco-
+nomic analysis; analytical efforts were directed instead to the question of
+optimization (Dobb 1973, 172–83). The focus on particular static equilibri-
+ums, finally, militated against the analysis of macro relations and questions
+of economic development from a more holistic (for example, Marxist or
+Schumpeterian) perspective.
+   The great “neoclassical edifice” rested on two basic assumptions: perfect
+competition and perfect rationality. Perfect and universal knowledge en-
+sured that existing resources would be optimally utilized, guaranteeing full
+employment. “Economic man” could go about his business in peace because
+he could be confident that there was a corpus of theory, namely, marginal
+utility and general equilibrium, which, because it had recourse to a perfect
+knowledge of things, would provide him with the information he needed to
+maximize the use of his scarce resources. The underlying picture of the
+neoclassical world was that of order and tranquillity, of a self-regulating,
+self-optimizing economic system, a view undoubtedly related to the pom-
+posity of the Pax Britannica then prevailing.
+   This was, then, the neoclassical world at the turn of the century. A world,
+it was believed, where theory resembled the real economy as a clock re-
+sembles time; where the fundamental “niggardliness of nature” was held
+at bay by those rugged individuals who were able to extract from nature
+the most precious products; where the invisible hand that ensured the
+smooth operation of the economy and the welfare of the majority had not
+yet been burdened with the cumbersome strings of protectionism. The cri-
+sis that hit the capitalist world economy from 1914 to about 1948 was to
+add a number of important components to that edifice. Among them was a
+new interest in growth. It might be worth recalling these events in some
+                       THE SPACE OF DEVELOPMENT                            67
+detail, because it was this situation that development economists found at
+their doorstep when, with great excitement, they decided to build a home
+for themselves.
+
+
+       “The Years of High Theory” and the Economics of the World
+We have seen how classical political economy underwent a significant
+change with the marginalist revolution. After almost one century of Pax Bri-
+tannica, the capitalist world economy entered a period of deep crisis, which
+motivated a second important transformation in economic discourse. Let us
+summarize the argument to be developed in this regard. Between the First
+and Second World wars, a new social system began to take shape. It rested
+on the dissolution of the old distinction between the state and the economy
+(so dear to the neoclassical economists), the development of unprecedented
+institutional arrangements, and an important reformulation of the neoclassi-
+cal understanding of the economy. Historians argue that in the 1920s there
+occurred a recasting of bourgeois Europe through the development of cor-
+poratist forms of control of the polity and the economy and a restructuring
+of the relationship between private and public power. A recentering of the
+world economy also took place, shifting the center of the capitalist system to
+the United States. The styles and forms of intervention in the economy de-
+veloped during this period were retained and extended during the 1930s,
+1940s, and 1950s, before blossoming during the development era.
+   Keynesianism and a revitalized growth economics provided the under-
+standing and rationalization of these processes. All these changes not only
+prepared the ground for a new scale of integration of the peripheral coun-
+tries (those parts of the world later known as the Third World) under Pax
+Americana but provided the building blocks of a theory of economic devel-
+opment which guided and justified such integration. Classical theories of
+growth, improved upon by a new macroeconomics and a new mathematics
+of growth, were ready to provide the fundamental elements of the new dis-
+course. So were the new forms of management and planning developed in
+the 1920s. After 1945, the underdeveloped world acquired a position of im-
+portance in the capitalist world economy it had never had before. Neither
+had there ever existed a discourse so refined to deal with it.
+   The depth of the economic and social transformation that started to take
+place in the first decade of the twentieth century—which saw not only the
+collapse of nineteenth-century economic organization but also unprece-
+dented wars and fascism—has been most forcefully and insightfully
+discussed by Karl Polanyi (1957a). Polanyi finds the origins of this transfor-
+mation “in the utopian endeavor of economic liberalism to set up a self-
+regulating system” (1957a, 29). The demise of the assumption of the self-
+regulating market was thus the first victim of the changes. The First World
+68                                      CHAPTER 3
+
+War opened the way for new methods of management and planning of eco-
+nomic and social affairs. Out of the smoke and destruction of the battlefield
+emerged forms of organization of industry and labor that provided the foun-
+dations for a new economy after the war. This new economy was based on
+the belief that the economic process could not be left to the private market
+alone; the division between economic and political power became blurred.
+As the state’s influence on the control of prices, labor, and resources became
+greater, new mechanisms of administration and bargaining were developed.
+In some countries (France, Germany, and Italy) the various interests (indus-
+try, agriculture, labor, and the military) became organized into corporate
+forms (Maier 1975)
+   A technocratic vision of the economy emerged out of the offices of the
+new engineers and professional businessmen. Taylorism, Americanism, and
+Fordism took deeper roots as scientific management extended its reach in its
+attempt to make the use of labor and capital ever more efficient. The intro-
+duction of all of these techniques cannot be underestimated. Gramsci char-
+acterized the transformation that Americanism and Fordism fostered “the
+biggest collective effort to date to create, with unprecedented speed, and
+with a consciousness of purpose unmatched in history, a new type of worker
+and a new type of man” (quoted in Harvey 1989, 126). This was achieved in
+the span of several decades, despite resistance by workers to Fordist and
+Taylorist work practices in the early years. The Left’s demands for democra-
+tization in the factory became entangled with the Right’s emphasis on ra-
+tionalization through scientific management. In sum, the twilight of the
+nineteenth-century order saw, after the dark night of the war, the birth of a
+new order in which, despite many a great transformation, the old one still
+breathed at ease. “Rescuing bourgeois Europe meant recasting bourgeois
+Europe: dealing with unions (or creating pseudo-unions as in Italy), giving
+state agencies control over the market, building interest-group spokesmen
+into the structure of the state” (Maier 1975, 594).12
+   With the demise of the self-regulating market, the assumption of perfect
+knowledge was also discarded, especially in the late 1920s and early 1930s,
+when economic theory “had to come to terms with the restless anarchy of
+the world of fact.” “Until the 1930s,” wrote a student of the economic theory
+of the period, “economics was the science of coping with basic scarcity. After
+the 1930s, it was the account of how men cope with scarcity and uncertainty.
+This was by far the greatest of the achievements of the 1930s in economic
+theory” (Shackle 1967, 7). Pax Britannica had instilled in many people the
+sense of a natural, irrefutable order. To continue with Shackle’s account:
+     “There was,” as John Maynard Keynes says, “nothing to be afraid of.” . . . The
+     most essential and powerful difference between this world and the world of the
+     1930s was the loss of tranquility itself. Problems of “the price of a cup of tea” as
+     Professor Joan Robinson put it, no longer counted much against the problem of
+                        THE SPACE OF DEVELOPMENT                                69
+  unemployment arising, so Keynes explained, from the failure of the incentive to
+  invest, which failure itself was due to the sudden oppression of business minds
+  by the world’s incalculable uncertainties. There was no longer equilibrium in
+  fact, and there could no longer be equilibrium in theory. (1967, 289)
+
+   Keynes was the hero of the new revolution. He demonstrated that there
+could be equilibrium at levels lower than full employment—indeed, at any
+level of output and employment. The theories of employment and growth
+produced during “the years of high theory” (1926 to 1939, by economists
+such as Keynes, Kahn, Robinson, Harrod, Myrdal, Hicks, Kalecky, Samuel-
+son, and Kaldor) arose from the realization of the fundamental lack of infor-
+mation that decision makers had to confront. Perfect competition became
+imperfect (writing in 1926, Piero Sraffa demonstrated the existence of fac-
+tors internal to the firm, called economies of scale, which made the assump-
+tion of perfect competition illusory); perfect knowledge became muddled,
+giving way to uncertainty; and the empty space left by the disappearance of
+the concern with static conditions was soon filled by inquiry into the dynam-
+ics of growth, now enshrined in the altar of theory. Because of the limitations
+of knowledge, the tools to manage reality had to be sharpened; hence a new
+emphasis on public policy and planning arose to fill the need for mecha-
+nisms of order and control.
+   The innovations in question reflected closely the events of the period:
+deflation, wage reductions, and unemployment in the 1920s, economic crisis
+and aggravated unemployment in the 1930s. Keynes’s prescription was for
+government to propend for full employment through appropriate state
+spending and through investment, fiscal, and budgetary policy. Economists
+consider the theoretical achievements of this period extremely important.
+For Dobb (1973, 211–27), however, the new theory did not challenge the
+neoclassical theory of value; it moved within its general framework (Keynes
+considered the neoclassical theory a “special case” of his General Theory).
+Its radical challenge to existing views was restricted to the assumption of a
+unique position of static equilibrium, which in turn entailed full employ-
+ment of resources. Yet it must be admitted that Keynes’s disruption of the
+terribly rational and smooth neoclassical world was important. Keynes’s suc-
+cessors, however, soon summoned to their aid rationality and the mathema-
+tization of economics, thus overlooking what could have been the most radi-
+cal lessons of Keynes’s work (Gutman 1994).13
+   Growth economics lent credence to this mode of theory construction ac-
+cording to conventional rationality and model building. In the late 1930s,
+and in the wake of Keynes’s General Theory, a number of economists (Har-
+rod in 1939 and Domar in 1946) focused their attention on the rates of
+growth of output (national production) and income as the fundamental vari-
+ables to be explained by a truly dynamic theory. The mood set in for elabo-
+rating a theory of growth that was as abstract and general in application as
+70                               CHAPTER 3
+
+that of general equilibrium. The key to such a theory was the relation be-
+tween investment and general output—how the pace of investment governs
+the level of general output, and how the acceleration of general output in
+turn affects the pace of investment. Investment, it was noted, not only accel-
+erates income but also generates increased productive capacity. A net addi-
+tion to the capital stock brings about a corresponding increase in national
+output (gross national product, or GNP); this correspondence is expressed
+by what economists of the period called the capital-output ratio, which Har-
+rod defined as the value of capital goods required for the production of a unit
+increment of output.
+   Capital for new investment must come from somewhere, and the answer
+was savings. Part of the national income must be saved to replace worn-out
+capital goods (equipment, buildings, materials, and so on) and to create new
+ones. What mattered then was to establish the necessary “savings ratio”
+(proportion of national output to be saved), which, coupled with a given
+capital-output ratio, would produce the desired rate of growth of GNP.
+Every economy would have a “natural rate of growth,” defined as the maxi-
+mum rate allowed by the increase of population, capital accumulation, and
+technological progress; because these variables could not be controlled ac-
+curately, the process of growth was seen as necessarily unstable. This theory
+was thus clearly consistent not only with the “classical question” and “the
+classical assumption” but also with the Keynesian innovation, which related
+the expansion or contraction of the economy to savings and investment. Al-
+though significant variations were introduced to the original Harrod-Domar
+theory, this formulation shaped the nascent development economics. The
+consequences of the adoption of this theory, as we will see in the next sec-
+tion, were enormous.
+   Let us return for a moment to the economics of the world. The stability
+allegedly achieved in the most powerful countries in the late 1920s and,
+again, in the late 1930s was not without its contradictions. As a distinctive
+regime of accumulation, Fordism did not reach maturity until after 1945,
+when it became the basis for the postwar boom that lasted until the early
+1970s. By the time Fordism started to decline, it had already become “less
+a mere system of mass production and more a total way of life” (Harvey 1989,
+135). It had introduced not only a new culture of work and consumption but
+a new aesthetic, which built upon and contributed to the aesthetic of mod-
+ernism, with its concern with functionality and efficiency.
+   Let us see how Marxist-inspired political economists explain the capitalist
+dynamics of the period. Fordist accumulation determined the incorporation
+of the periphery in novel ways.14 The horizontal (geographic) integration of
+the capitalist world economy had been largely completed by 1910, and a
+process of vertical integration—for the periphery, an increase in the rate of
+extraction of surplus value through means other than geographic expan-
+                       THE SPACE OF DEVELOPMENT                            71
+sion—began to take place. By 1913, the major core nations (England, the
+United States, France, and Germany) owned about 85 percent of all capital
+invested in the semiperiphery (at that point composed of Spain, Portugal,
+Russia, Japan, Australia, and parts of Eastern Europe) and the periphery
+(most of Latin America, Asia, and Africa). However, certain factors created
+instability: increased competition from the semiperiphery (especially Russia
+and Japan); increased anticore ideologies and social movements in the pe-
+riphery (as the pace of foreign investment and direct military intervention
+augmented); internal changes in the class structure of the core nations; and
+competition among the core nations for control of the increasingly important
+natural resources of the periphery.15
+   The growing importance of the United States in the capitalist world econ-
+omy had important repercussions for the periphery. In the case of Latin
+America, trade with the United States increased dramatically, and so did
+direct U.S. investment. A large borrowing program, mainly from U.S. bank-
+ers, was initiated, especially during the 1920s. The 1920s marked the first
+decade of “modernization” of the Latin American continent, and the period
+in general (1910–1930) saw an important transition in the social and eco-
+nomic structure of the larger countries of the region. The Great Depression
+hit hard the Latin American economies. Imports by core nations from Latin
+America were severely reduced. The large debt obligations that many coun-
+tries contracted during the 1920s became an unbearable burden (a situation
+not unlike that of the 1980s) and, indeed, by 1935 most of the debt was in
+default. The euphoric mood the boom of the 1920s created turned somber,
+out of which came the need either to adapt to depressed international condi-
+tions in the best possible way (the course of action most countries of the
+region took) or to proceed with the industrialization process through a strat-
+egy of import substitution—that is, to produce at home what was previously
+imported (the larger countries, such as Brazil, Argentina, Mexico, and Co-
+lombia, took this route). The countries of the periphery were obliged to
+abandon the old liberalism and implement active state policies to protect
+and develop their national economies.16
+   The free enterprise system was in peril after the Second World War. To
+save such a system, the United States was faced with various imperatives:
+to keep the existing core nations of the capitalist system together and going,
+which required continuous expansion and efforts to avoid the spread of
+communism; to find ways to invest U.S. surplus capital that had accumu-
+lated during the war (particularly abroad, where the largest profits could
+be made); to find markets overseas for American goods, given that the pro-
+ductive capacity of American industry had doubled during the war; to se-
+cure control over the sources of raw materials in order to meet world com-
+petition; and to establish a global network of unchallenged military power as
+a way to secure access to raw materials, markets, and consumers (Amin 1976;
+72                               CHAPTER 3
+
+Borrego 1981; Murphy and Augelli 1993). The pact signed at Bretton
+Woods, establishing the International Monetary Fund and the World Bank,
+inaugurated the new era. Keynesian theory provided guidelines to
+strengthen the private sector, expand domestic and foreign markets, and
+revitalize international trade under the aegis of multinational corporations.
+The production process of the core states was thus newly integrated with
+their political apparatuses as well as with the emerging international finan-
+cial organizations.
+   “The Great Transformation,” so admirably described by Polanyi, thus
+marked the collapse of some of the most cherished economic principles of
+the nineteenth century. Laissez-faire and old-fashioned liberalism gave way
+to more efficient ways of managing economies and populations, more perva-
+sive perhaps if only because they were carried out under the legitimizing
+wing of science and increasingly (especially with the development of welfare
+economics in the 1950s) for the “good of the people.” The “static interlude”
+was over, but the new economics did little to alter the boundaries of classical
+and neoclassical discourse. Theoretical refinements and sophisticated math-
+ematical techniques—such as Leontieff ’s input-ouput analysis, in gestation
+since the 1930s—were developed, but they did not depart significantly from
+the basic discursive organization of classical economics. The imperatives the
+United States faced at the end of the war placed Latin America and the rest
+of the periphery in a well-demarcated space within the capitalist world
+economy.
+   To conclude this section, let us return to the introduction of the chapter.
+I referred to a certain reformist ethos in the attitude of the pioneers of de-
+velopment. This ethos was partly linked to the experience of the Great
+Depression. Indeed, as the progressive Harvard economist Stephen Marglin
+maintains, this experience changed economics for a generation, both in
+terms of the people it attracted and the problems it sought to address. Be-
+tween 1935 and 1960, some economists even thought that the end of capital-
+ism was a possibility. Scholars such as Galbraith, Kuznets, Currie, and, at
+the tail end of the period, Marglin acquired a political disposition toward
+their subject matter and the problems they wished to confront. (One also
+thinks of Latin American economists such as Raúl Prebisch, Antonio García,
+Celso Furtado, and Fernando Henrique Cardoso in a similar way). Macro-
+economic theory of the period also arose in the context of decolonization,
+which for these economists meant the final destruction of empires. Although
+the needs of empire were to bring the colonized into the market, the well-
+being of the people suggested that they would be better off if left alone.17
+   For a moment then there was a contradiction in the mind of some econo-
+mists between the welfare of the people and interventionist policies. Only
+after the Second World War would welfare and development join ranks as
+compatible goals. But, Marglin insists, many of the early development econ-
+                        THE SPACE OF DEVELOPMENT                             73
+omists espoused a progressive agenda in the beginning years of their work.
+Without disputing this perception, it is important to emphasize, as this sec-
+tion has shown, that it was the whole movement of many decades that pre-
+pared the ground for the final arrival of development economics. Fueled by
+this momentum, development economists arrived in the Third World full of
+hopes and aspirations, eager to apply the best of their knowledge to a com-
+plex but exciting task. Their discourse, discussed in the next section, was
+extremely influential; it continues to be an important chapter in the cultural
+history of the Third World.
+
+
+             THE DEVELOPMENT OF DEVELOPMENT ECONOMICS
+               The Early Theories: Structuring the Discourse
+The ten years between 1948 and 1958 saw the rise and consolidation of
+development economics as a practice concerned with certain questions, per-
+formed by particular individuals, and entrusted with given social tasks. Dur-
+ing those years, development economics constructed its object, the “un-
+derdeveloped economy,” out of the historical and theoretical processes
+reviewed in the previous section. How this construction actually happened
+needs to be analyzed in detail for our analysis of the politics of discourse and
+regimes of representation.
+   There were important precursors to the post–World War II concept of
+economic development. As Arndt (1978, 1981) has noted, when the term
+development was used before the 1930s, it was usually understood in a natu-
+ralistic sense, as the emergence of something over time. Two exceptions
+were Schumpeter, whose work on economic development, to be discussed
+later, was published in German in 1911, and a number of historians of the
+British Empire. A third exception was Marx, who derived his concept of
+development from the inexorable Hegelian dialectics. The clearest forerun-
+ner of the current use, mentioned in chapter 2, was the 1929 British Colonial
+Development Act. In the colonial context, economic development was
+not an inevitable historical process but an activity that had to be fostered by
+the government. The economic system did not develop; resources had to
+be developed. “Economic development in Marx’s sense derives from the
+intransitive verb, in [the colonial] sense from the transitive verb” (Arndt
+1981, 460).
+   Arndt traces the use of economic development in the transitive sense to
+Australia and to a lesser extent Canada, where economic development did
+not happen spontaneously. He also mentions in passing a 1922 study by Sun
+Yat-sen, a Chinese nationalist leader, proposing a massive program for the
+economic development of China. But not until the middle of the 1940s was
+the term applied to the economic development of “underdeveloped areas.”
+74                               CHAPTER 3
+
+The Depression and World War II had brought to the fore the questions of
+full employment and growth. There was, as Arndt (1978) put it in his study
+of the rise and fall of the concept of economic growth, a “return to scarcity”
+and to the “general problem of poverty.” Growth started to be seen as a
+remedy for poverty and unemployment rather than as an end in itself.
+   The classical concern with capital accumulation became central, via con-
+temporary growth theories, to the first attempts at applying known tools of
+economic analysis to poor countries. The emphasis on investment implied a
+focus on savings and opened the way for foreign aid and foreign investment,
+because it was soon recognized that poor countries seldom possessed suffi-
+cient amounts of capital to meet the investment required for rapid growth.
+This conclusion was reinforced by the consideration that the growth of GNP
+had to be greater than the growth of population, which was relatively high
+in most countries. Moreover, a privileged arena for investment, one in which
+the benefits of capital accumulation would be larger than in any other realm,
+was discovered: industrialization. Industrialization would pave the way for
+the modernization of the backward economies and for spreading among the
+natives the proper rationality—“training labour and accustoming it to fac-
+tory discipline,” as W. Arthur Lewis wrote in 1946 referring to Jamaica’s
+industrialization (quoted in Meier 1984, 143); it would also be the most effi-
+cient way of putting to productive use the large pool of the unemployed and
+underemployed who inhabited the countryside.
+   Similarly, industrialization would be the only way in which the poor coun-
+tries could undo the structural disadvantage that they faced in the domain of
+international trade as predominantly primary producers confronted with the
+higher prices and productivity of goods coming from industrialized coun-
+tries. Through industrialization, poor countries would stop producing “the
+wrong things” and start producing items with a higher exchange value. That
+industrialization was the key to development was as “clear as daylight,” to
+quote again from Lewis’s report on Jamaica (in Meier 1984, 143). The actual
+way in which industrialization was to take place constituted the core of most
+development models of the 1950s. It was clear that industrialization was not
+going to happen spontaneously. Deliberate efforts were required if the per-
+ceived obstacles to industrialization were going to be overcome. This called
+for a type of planning that ensured the right allocation of scarce resources,
+corrected market prices, maximized savings, oriented foreign investment in
+the right direction, and in general orchestrated the economy in terms of a
+well-balanced program. Development planning was thus from the outset the
+twin of development economics; this was already clear at the time of the
+1949 World Bank mission to Colombia.
+   In sum, the major ingredients of the economic development strategy com-
+monly advocated in the 1950s were these: (1) capital accumulation; (2) delib-
+erate industrialization; (3) development planning; and (4) external aid. The
+underdeveloped economies, however, were thought to be characterized by
+                       THE SPACE OF DEVELOPMENT                             75
+a number of features that set them apart from the economies studied by
+orthodox economics, which then called for modifying existing theory—what
+Hirschman calls the rejection of the “monoeconomic claim” (1981). Among
+these features were high levels of rural underemployment, a low level of
+industrialization, a set of obstacles to industrial development, and a disad-
+vantage in international trade. The first three of these captured the attention
+of most theorists building their models. Initially, attention focused on the
+“obstacles” that lay in the way of development, as well as in the “missing
+components” that would have to be supplied to make the models work. The
+models proposed characterized the effort that would have to be made to
+remove obstacles and provide missing components in such a manner that
+industrialization would take off with vigor and celerity.18
+   Classical and neoclassical theories of growth provided the building blocks
+for these models. The milestones of classical growth theory, let us remem-
+ber, were capital accumulation, greater division of labor, technological prog-
+ress, and trade. As we saw, postwar growth theory was influenced as well by
+Keynes’s analysis of the interaction of savings and investments. It is useful
+to recall the thrust of the growth argument as postulated by Harrod and
+Domar. In order to grow, economies must save and invest a certain propor-
+tion of their gross national product. Given a specific level of savings and
+investment, the actual rate of growth will depend on how productive the
+new investment is; and the productivity of investment can be measured by
+the capital-output ratio. Investment creates new capacity to produce, which
+must be matched, in turn, by new demand. Income thus must rise by an
+equivalent proportion to ensure no idle capacity of capital goods.
+   The model assumed a number of features that held reasonably well for
+industrialized countries but not for underdeveloped economies. It assumed
+a constant capital-output ratio, did not analyze the effect of price changes
+(they were models in real terms), and presupposed constant terms of trade.
+But the underdeveloped economies were found to be characterized by dete-
+riorating terms of trade for their primary products (vis-à-vis manufactured
+products from the industrialized countries), they were seen in need of rapid
+technological change, and their prices changed continually due to the infla-
+tionary bias of their economies. They also had a much lower level of savings.
+The main obstacle to development was thus low capital availability; more-
+over, although domestic savings could be increased, there would still be a
+“savings gap,” which had to be filled with foreign aid, loans, or private for-
+eign investment. Despite these differences, growth theories that had devel-
+oped in the context of industrialized economies shaped economic develop-
+ment models to a significant extent.
+   Let us look in detail at some of the most important models. Rosenstein-
+Rodan, coming from his experience with relatively depressed Eastern Euro-
+pean economies in the 1920s and 1930s, argued for a “big push” in invest-
+ment to mobilize the rural underemployed for the task of industrialization.
+76                                       CHAPTER 3
+
+For this author, industrialization required a large, carefully planned initial
+effort in order to be successful; small, isolated efforts were very likely to
+fail.19 Other models had the same thrust: either a “critical minimum effort”
+was needed (Liebenstein 1957), or countries were seen as caught in a “low-
+level equilibrium trap,” out which only an effort of a certain magnitude
+would get them (Richard Nelson). Rostow’s historicoeconomic model (1960,
+1952), which assumed that all countries went through a linear path of stages
+in their transition to modernity, with one of these stages being the “take-off”
+into self-sustained growth, became well known in the late 1950s and early
+1960s. So did Nurkse’s “balanced growth” conception—which predicted
+that a country would escape the “vicious circle of poverty” only through a
+concerted application of capital to a wide range of industries—and Hirsch-
+man’s (1958) notion of “backward and forward linkages” for rationalizing the
+industrialization process. All of these conceptions soon found their way into
+the voluminous literature coming out of the United Nations and interna-
+tional lending organizations, and in the poor countries themselves, either
+because theorists visited the Third World—often for long periods of time—
+or through the education of Third World students in North American and
+British universities, a practice that became widespread in the 1960s.20
+   The models Nurkse and Lewis developed in the early 1950s were among
+the most influential, and it is appropriate to examine them briefly, not from
+the point of view of their economic rationality, but as cultural constructs and
+central pieces in the politics of the development discourse. Nurkse’s book
+(1953), written in 1952 and based on a series of lectures delivered by the
+author in Rio de Janeiro a year earlier, is dedicated to analyzing the factors
+associated with “the vicious circle of poverty” and the possible ways to
+“break the deadlock” of such a circle. In his conception, poverty is produced
+by a circular constellation of forces that links lack of food and ill health with
+low work capacity, low income, and back to lack of food. This vicious circle
+is paralleled by a circular relationship in the realm of the economy.
+     A circular relationship exists on both sides of the problems of capital formation
+     in the poverty-ridden areas of the world. On the supply side, there is the small
+     capacity to save, resulting from the low level of real income. The low real in-
+     come is a reflection of low productivity, which in turn is due largely to the lack
+     of capital. The lack of capital is a result of the small capacity to save, and so the
+     circle is complete. On the demand side, the inducement to invest may be low
+     because of the small buying power of the people, which is due to their small real
+     income, which again is due to low productivity. The low level of productivity,
+     however, is a result of the small amount of capital used in production, which in
+     its turn may be caused at least partly by the small inducement to invest. (Nurkse
+     1953, 5)
+
+   Behind this “vicious” economic circle lies implicitly the “proper” circular
+view that was held to underlie a sound economy. The goal of balanced
+                       THE SPACE OF DEVELOPMENT                            77
+growth was innocuously stated as “enlarging the size of the market and cre-
+ating inducements to invest,” for which capital was obviously essential. To
+increase production of one commodity (shoes is the example Nurkse uses)
+was not enough; the increase had to take place simultaneously in a wide
+range of consumer goods if demand was to be sufficiently augmented. Com-
+mercial policy should then seek to direct properly the additional savings and
+external sources of capital in order to expand the domestic market to the
+degree needed for the takeoff into self-sustained development.
+   Interestingly, for Nurkse the problem of capital formation was not re-
+stricted to low savings capacity; it was also due to small inducement to in-
+vest. In this he was closer to Schumpeter, whom he explicitly invoked. But
+neither Nurkse nor any other development economist adopted a Schumpe-
+terian view; the reasons for this are revealing in terms of the politics of
+discourse. Schumpeter’s Theory of Economic Development had been avail-
+able in English since 1934. This book, as most of Schumpeter’s works, is
+tight and unifying, with an emphasis on processual aspects. (“The argument
+of the book forms one connected whole,” he writes in the introduction.) The
+surprisingly small influence of this book on postwar development thinking
+may have been due to several factors. To begin with, Western economists
+saw this book as a theory of business cycles, not as a theory of development;
+moreover, Schumpeter’s emphasis on the role of the private entrepreneur
+seemed to rule out its application to poor countries, where entrepreneur-
+ship was thought to be almost nonexistent, in spite of some allegations to the
+contrary (Bauer and Yamey 1957). The alleged lack of entrepreneurship was
+influenced by the perception of Third World people as backward and even
+lazy.
+   Schumpeter’s theory seemed pertinent to the concerns of the early devel-
+opment economists. He was concerned not with small changes in economic
+life but precisely with those revolutionary changes cherished by devel-
+opment economists with their “big push” and “takeoff” theories. To ad-
+here to Schumpeter’s framework, however, would have required taking seri-
+ously a number of aspects that would have posed uncomfortable problems to
+most economists of the period—for instance, the fact that for Schumpeter
+mere growth was not development but just “changes in data,” or that “the
+economic state of a people does not emerge simply from the preceding eco-
+nomic conditions, but only from the preceding total situation” (Schumpeter
+1934, 58). How could these views be translated into manageable models
+and planning schemes?21
+    W. Arthur Lewis’s model of the dual economy, as influential as Nurkse’s
+model, if not more so, was originally published in 1954. The pivotal discur-
+sive operation of this model was the division of a country’s economy and
+social life into two sectors: one modern, the other traditional. Development
+would consist of the progressive encroachment of the modern upon the tra-
+ditional, the steady extension of the money economy on the vast world of
+78                                     CHAPTER 3
+
+subsistence or near subsistence. This assumption pervaded the develop-
+ment view of most economists and international organizations for several
+decades (witness, for instance, the quotation that opens the first chapter of
+this book, excerpted from a report prepared by a committee of which Lewis
+was one of five participants). From the point of view of a discursive econ-
+omy, the consequences of such a dualistic construction are enormous. To
+begin with, Lewis’s construction equates tradition with backwardness, a
+burden to be disposed of as quickly as possible and a part of the economy
+with nothing to contribute to the process of development. Had a nondualis-
+tic view of the underdeveloped economy been adopted (Braudelian,
+Schumpeterian, or Marxist, not to mention one based on non-Western tradi-
+tions), the consequences would have been quite different, for development
+would have had to involve all sectors of social life.
+   There is another mechanism at work in the modern-traditional dichot-
+omy. This split distances one pole from the other, making remote the second
+term of the division. This feature of discourse is by no means restricted
+to economics. It is deeply embedded in the social sciences and in West-
+ern culture in general. In his analysis of the use of time in anthropology,
+Johannes Fabian (1983) found this feature, which he calls denial of coeval-
+ness, to be central to the writings about other cultures. In spite of the fact
+that the ethnographer or researcher/economist is mandated to share the
+time of the other—the “native,” the “underdeveloped”—in the fieldwork
+experiences or in the economists’ missions, this other is nevertheless repre-
+sented as belonging to another time period (even to the Stone Age in some
+texts); thus time is used to construct the object of anthropology, or econom-
+ics, in such a way that a specific power relation is created. By constructing
+the other as living in another time period, these scientists avoid having to
+take into account the other seriously; a monologue from the height of power
+results. These features are borne in Lewis’s depiction of the dual economy:
+     We find a few industries highly capitalized, such as mining or electric power,
+     side by side with the most primitive techniques. . . . We find the same contrast
+     also outside their economic life. There are one or two modern towns, with the
+     finest architecture, water supplies, communications, and the like, into which
+     people drift from other towns and villages which might almost belong to an-
+     other planet. There is the same contrast even within people; between the few
+     highly westernized, trousered, natives, educated in western universities, speak-
+     ing western languages, and glorifying Beethoven, Mills, Marx or Einstein, and
+     the great mass of their countrymen which live in quite other worlds. . . . Inevi-
+     tably what one gets are very heavily developed patches of the economy, sur-
+     rounded by economic darkness. (Lewis [1954] 1958, 408)
+
+  In this discourse, the traditional segment is a world of economic darkness,
+where new ideas are impossible, architecture is inadequate (despite the fact
+                          THE SPACE OF DEVELOPMENT                                    79
+that it seems adequate for its dwellers), and there are no communications
+(because only the airplane, the automobile, and television count as commu-
+nications)—in short, another planet. It does not matter that those aliens are
+human beings as well (although those who belong to the modern sector are
+apparently more human, because they speak prestigious languages, listen to
+Beethoven, have memorized Einstein’s equations, and have mastered
+Samuelson, Friedman, or Marx) or that they constitute about 80 percent of
+the world. Their existence can be brushed aside, because they live in quite
+another age bound to be swept away by the fruits of the Enlightenment and
+the travails of economists. The rightness of the actions of the harbingers of
+modernity is corroborated by the fact that the native elite cherishes the
+modern world—even if their native side might pop up from time to time, for
+instance, when they become “corrupt” or “uncooperative.”
+   The economic development conception that comes out of this view is its
+logical extension. “The central problem in the theory of economic develop-
+ment,” writes Lewis, “is how to understand the process by which a commu-
+nity which was previously saving and investing 4 or 5 per cent of its national
+income or less, converts itself into an economy where voluntary saving is
+running at about 12 to 15% of national income or more” (Lewis [1954] 1958,
+416). “This is the central problem because the central fact of economic de-
+velopment is rapid capital accumulation (including knowledge and skills
+with capital),” he adds (416). The means to achieve this feat also follows: to
+use the traditional sector to fuel the modern one. This would require moving
+“the rural underemployed,” who, because of their large numbers, can be
+removed from the countryside without reducing agricultural output (in the
+economist’s jargon, this can be done because the marginal productivity of
+labor in agriculture is negligible or zero). This “surplus labor” would be
+hired at near-subsistence wages by the new industries set up with additional
+savings and foreign capital. Both the historical “record,” as well as economic
+rationality, attests to the fact that people will move as long as they can be
+secured higher wages in the modern sector.
+   What happened to rural people (never mind what they thought) did not
+matter. From an economic perspective, these people simply did not count.
+  We are interested not in the people in general, but only say in the 10 per cent
+  of them with the largest incomes, who in countries with surplus labor receive
+  up to 40 per cent of the national income. . . . The remaining 90 per cent of the
+  people never manage to save a significant fraction of their income. The impor-
+  tant question is why does the top 10 per cent save more? . . . The explanation
+  is . . . likely to be that saving increases relatively to national income because the
+  incomes of the savers increase relatively to the national income. The central fact
+  of economic development is that the distribution of incomes is altered in favour
+  of the saving class. (Lewis [1954] 1958, 416, 417)
+80                                CHAPTER 3
+
+   Not surprisingly, theories of this type led to regressive distributions of
+income that reached embarrassing proportions. Not until the early 1970s did
+economists fully realize this fact, especially with Albert Fishlow’s empirical
+findings that the “Brazilian miracle” of the late 1960s and early 1970s
+(growth rates of more than 10 percent per year maintained for a number of
+years) had not only produced a more unequal distribution of income but left
+low-income groups worse off in absolute terms. The second important as-
+pect that should be noted is that unemployment was not eased in most cases,
+nor did wages and living standards rise significantly, as theory predicted;
+instead a permanent condition of surplus labor was produced, which fitted
+nicely the needs of multinational corporations. Poverty and unemployment
+inevitably increased, parallel to increases in the growth of GNP. These “un-
+desirable” consequences, these “painful realizations”—as economists often
+euphemistically call them when they look at the “development record”—
+were by no means peripheral to the models used but belonged to their inner
+architecture.22
+   A third model of economic development, which achieved significant in-
+fluence, especially in Latin America, was propounded in the late 1940s and
+1950s by a group of Latin American economists working within the newly
+established Economic Commission for Latin America (CEPAL) in Santiago.
+CEPAL economists based their approach on the empirical demonstration of
+the historical deterioration of the terms of trade against primary goods from
+the countries of the periphery. The terms center and periphery (radicalized
+into a theory of dependency in the 1960s) were coined by CEPAL as ele-
+ments of their explanation for this phenomenon. The deterioration of the
+terms of trade was seen as a reflection of the fact that the advances in techni-
+cal progress were concentrated in the industrialized center. CEPAL’s doc-
+trine was not unrelated to Lewis’s. Because output per worker was lower in
+the periphery, and given surplus labor, the conclusion for CEPAL econo-
+mists was lower capacity for capital accumulation in the periphery. Ergo, a
+specific industrialization policy was needed. The lack of industrialization
+severely curtailed access to foreign exchange—the crucial component for
+economic growth because it determined the capacity to import capital
+goods. The answer thus lay in programs of domestic industrialization that
+would allow countries to manufacture at home goods that were previously
+imported. Hence the name given to this strategy, “import substitution in-
+dustrialization,” one of CEPAL’s trademarks.23
+   CEPAL theorists also paid attention to other salient issues, such as infla-
+tion, and to structural obstacles to development, particularly the sluggish-
+ness of the agricultural sector and the lack of coordination among sectors of
+the economy. The assessment of CEPAL theories remains a matter of con-
+troversy in Latin America to this date.24 Albert Fishlow (1985), for instance,
+has rightly observed the paradoxical fact that CEPAL’s strategy of import
+                       THE SPACE OF DEVELOPMENT                             81
+substitution industrialization aggravated precisely those factors it sought to
+correct: it increased the foreign-exchange vulnerability, magnified certain
+aspects of sectoral disequilibriums, and exacerbated the inflationary bias of
+the growth process. Yet it is undeniable that CEPAL economists challenged
+a number of tenets of orthodox economic theory (particularly the theory of
+international trade), provided a more complex view of development, which
+included structural considerations, and showed greater concern for the stan-
+dard of living of the masses. Despite these differences, economic develop-
+ment remained in essence, in the eyes of these economists, a process of
+capital accumulation and technical progress. In short, as Cardoso (1977)
+pointedly put it, CEPAL thinking constituted “the originality of a copy.”
+   This is to say that CEPAL’s proposals were easily assimilated into the
+established views, to the extent that they lent themselves to a modernization
+process that international experts and national elites were eager to under-
+take. Its fate was to be absorbed into the power grid of the dominant dis-
+course. One may say generally that at the level of discursive regularities, the
+CEPAL doctrine did not constitute a radical challenge. This does not mean,
+however, that it did not have important effects. From the point of view of the
+history of ideas, one should acknowledge, with Sikkink (1991), the impres-
+sive contribution of the Latin American economists who articulated a partic-
+ular view of developmentalism as a model in the 1940s and 1950s. The fact
+that CEPAL-type developmentalism was adopted among several possible
+models reflects, for Sikkink, the resourcefulness of Latin American econo-
+mists and policymakers of the period in the face of rapidly changing interna-
+tional and domestic opportunities and constraints.
+   Marxist or neo-Marxist theories of development, finally, did not achieve
+significant visibility until the 1960s, through theories of dependency, pe-
+ripheral capitalism, and unequal exchange (Cardoso and Faletto 1979; Amin
+1976; Emmanuel 1972). Paul Baran’s influential article of 1952 and canon-
+setting book of 1957 was the starting point for most Marxist formulations.
+His 1952 article (see Baran 1958), entitled “On the Political Economy of
+Backwardness,” contained a diatribe against Western capitalism and the
+middle and upper classes of the backward countries for having failed to
+develop these countries. For Baran, the eradication of the feudal order of
+backward countries and its replacement with market rationality would have
+been an indication of progress. At this level he was close to the dominant
+discourse. Nevertheless, his dialectical approach gave him the foresight to
+denounce the inappropriateness of the policies then being proposed and to
+pinpoint the need for structural changes in the political framework and the
+prevailing class alliances.
+   To what extent did Marxist or neo-Marxist views become circumvented,
+appropriated, or subverted by the dominant discourse? Many of the con-
+cepts these theories used can be described according to the conceptual basis
+82                                 CHAPTER 3
+
+of classical political economy. Even if concepts such as dependency and
+unequal exchange were new, the discursive space in which they operated
+was not. Nevertheless, because they functioned within a system that had a
+different set of rules (that of Marxist political economy, in which concepts
+such as profit and capital establish a different discursive practice), they
+are—at the level of discursive strategies—a challenge to the dominant
+frameworks. In sum, although they did not constitute an alternative to de-
+velopment, they amounted to a different view of development and an impor-
+tant critique of bourgeois development economics.25
+   Cheryl Payer (1991) has offered a powerful indictment of the early theo-
+ries of development economics from a contemporary angle, the debt crisis.
+Payer finds the origins of the debt crisis precisely in these early models. The
+early theories assumed that developing countries were “natural importers of
+capital” and that only a flow of external capital could guarantee their devel-
+opment. This myth was based on a number of fallacious assumptions: (1) that
+foreign capital would always be an addition to domestic savings (in many
+instances this was not the case: it made more sense to use grants and low-
+interest loans for investment and divert domestic savings to politically ori-
+ented social programs); (2) that external markets would always be available,
+so that Third World countries could use the foreign exchange earned from
+exports to pay off loans (more often than not, center countries levied high
+tariffs against Third World products); (3) that the industrialization that
+would occur due to added investment would reduce the need for imports
+(this was hardly the case: countries became more dependent on imports of
+capital goods—machinery—to produce locally what they previously im-
+ported, thus worsening balance-of-payment problems); and (4) that foreign
+capital would necessarily activate growth (as the historical experience of
+countries like Norway and Australia shows, the opposite can be the case).
+   The main factor economists forgot, Payer strongly states, was that loans
+have to be repaid. The way they solved this predicament was to assume that
+loans would always be available to pay past debt, ad infinitum, or to overlook
+completely the problem of servicing the debt. Payer refers to this as the
+Ponzi scheme, a scheme in which original investors are paid off with money
+supplied by later investors. The underlying premise was that loans would be
+invested properly and have high rates of return, thus making payment possi-
+ble. This did not happen in many cases, for reasons such as those cited
+earlier. It was also assumed that there were balance-of-payments stages—
+again, as read from the economic history of the U.S. and the U.K.: nations
+would move from being young debtors (like Third World countries in the
+1950s) to mature debtors (when aid is no longer required, countries having
+developed the capacity to use efficiently commercial loans) to new creditors
+to, finally, mature creditors (net exporters of capital). For this theory to work,
+mature creditors would have had to accept imports from debtors at a scale
+they never did, thus worsening the debt problem.
+                         THE SPACE OF DEVELOPMENT                                  83
+   The main factor these models overlooked, however, was that the historical
+context of the Third World after World War II and that of the U.S. and
+England a century earlier were completely different. Although countries of
+the center became industrialized at a time when they could dictate the rules
+of the game and extract surpluses from their colonies (albeit not always and
+not in every colonial possession), Third World countries in the postwar pe-
+riod had to borrow under the opposite conditions: deterioration of the terms
+of trade against the periphery, extraction of surplus by center countries, and
+a position of subordination in terms of policy formulation. Said bluntly,
+whereas Europe was feeding off its colonies in the nineteenth century, the
+First World today feeds off the Third World, as attested by the fact that
+Latin America in the 1980s paid an average of $30 billion more each year
+than it received in new lending.
+
+To sum up: The pioneers of development economics conceived of develop-
+ment as something to be achieved by the more or less straightforward appli-
+cation of savings, investment, and productivity increases. Their notion of
+development was not, for the most part, structural or dialectical—not one in
+which development could be seen as the result of the dialectical interaction
+of socioeconomic, cultural, and political factors seen as a totality. As Antonio
+García, a prominent Latin American economist, pointed out, the notion of
+underdevelopment that these economists assumed was necessarily mecha-
+nistic and fragmentary:
+  It is mechanistic because it is based on the theoretical assumption that develop-
+  ment is an effect induced by certain technological innovations and by certain
+  mechanisms that accelerate the equation savings/investment. It is compart-
+  mentalizing because it is built on a view of social life as the arithmetic sum of
+  compartments (economic, political, cultural, ethical) that can be isolated at will
+  and treated accordingly. (1972, 16, 17)
+
+   The early models had an implicit standard (the prosperous, developed
+countries), and development was to be measured by the yardstick of West-
+ern progress. Their notion of underdevelopment occupied the discursive
+space in such a manner that it precluded the possibility of alternative dis-
+courses. By constructing the underdeveloped economy as characterized by
+a vicious circle of low productivity, lack of capital, and inadequate industrial-
+ization, development economists contributed to a view of reality in which
+the only things that counted were increased savings, growth rates, attracting
+foreign capital, developing industrial capacity, and so on. This excluded the
+possibility of articulating a view of social change as a project that could
+be conceived of not only in economic terms but as a whole life project, in
+which the material aspects would be not the goal and the limit but a space
+of possibilities for broader individual and collective endeavors, culturally
+defined.
+84                               CHAPTER 3
+
+   It has often been said that classical political economy was the rationaliza-
+tion of certain hegemonic class interests: those of a capitalist world economy
+centered in England and its bourgeoisie. The same can be said of develop-
+ment economics in relation to the project of capitalist modernization
+launched by the core nations after the Second World War. Indeed, the set
+of imperatives the United States faced after the war—the five imperatives
+mentioned earlier: to consolidate the core, find higher rates of profit abroad,
+secure control of raw materials, expand overseas markets for American prod-
+ucts, and deploy a system of military tutelage—shaped the constitution of
+development economics. Yet development economics should not be seen as
+the ideological or superstructural reflection of this set of imperatives. This
+interpretation would only relate a certain descriptive discourse (a set of as-
+sertions about a given economy: the five imperatives) to another discourse
+enunciated in the form of theoretical propositions (namely, development
+economics). That is, one should avoid falling back into the division between
+the “ideal” (the theory) and the “real” (the economy); instead one should
+investigate the epistemological and cultural conditions of the production of
+discourses that command the power of truth, and the specific mode of artic-
+ulation of these discourses upon a given historical situation.
+   From this perspective, the emergence of development economics was not
+due to theoretical, institutional, or methodological advances. It was due to
+the fact that a certain historical conjuncture transformed the mode of exis-
+tence of economic discourse, thus making possible the elaboration of new
+objects, concepts, and methodologies. Economics was called upon to reform
+societies perceived as underdeveloped, based on a new grid for theoretical
+interpretation (Keynesian and growth economics) and new technologies for
+social management (planning and programming). Said differently, the fact
+that the economic, political, and institutional changes of the period shaped
+the consciousness and perceptions of the economists was true in a number
+of ways—for instance, the need for economic expansion influenced the
+economists’ concern with growth; the rising tide of multinational corpora-
+tions influenced the economists’ attention to capital accumulation via indus-
+trialization; and so on. Those changes, however, exerted their effect on eco-
+nomic discourse through other mechanisms as well: by opening new fields
+for the construction of economic objects; by conferring a new status on econ-
+omists and their science; and by multiplying the sites from which the dis-
+course could be produced and from which its associated practices could be
+set into motion.
+   Development economics made possible the elaboration of historical
+events into objects of economic discourse. What we called the economics
+of the world (the 1914–1948 crisis, the ensuing post–World War II situa-
+tion, and the imperatives of the world economy) influenced the making
+up of the world of economics. The interests and struggles that made up
+those events found their way into the discourse and deployed their strategy
+                       THE SPACE OF DEVELOPMENT                            85
+in it. Throughout this period, then, a fundamental structure was laid down
+which united a theoretical corpus, forms of diffusing it and controlling it, a
+body of practices—such as planning, discussed in the next section—inter-
+national organizations (in whose ambit negotiations were conducted for the
+establishment of a new relation between international capital and the pe-
+ripheral economies), and decision-making centers in the Third World eager
+to drink from the cup of economic knowledge so that they could elevate their
+peoples, once and for all, to the surface of civilization. Beyond the models
+themselves, it is this system that can be properly called development
+economics.
+   The development economist played a special role in this new universe of
+discourse. To him (he was almost invariably a male)26 belonged the expertise
+that was most avidly sought; it was he who knew what was needed, he who
+decided on the most efficient way to allocate scarce resources, he who pre-
+sided over the table at which—as if they were his personal entourage—
+demographers, educators, urban planners, nutritionists, agricultural experts,
+and so many other development practitioners sat in order to mend the
+world. Within this configuration, the economist retained for himself the less
+mundane role of giving overall directions, because it was his truth that cir-
+cumscribed the task and gave it legitimacy in the name of science, progress,
+and freedom. To the latter were reserved the daily chores of social supervi-
+sion and intervention, the detailed programs and projects through which
+development was carried out. The system as a whole rested on the econo-
+mist’s shoulders; sooner or latter, the Third World would yield its secrets to
+the gaze of the economist; and this gaze, in keeping with the best Cartesian
+tradition, was undeniably objective and unprejudiced.
+   As the discourse of development economics became consolidated, so did
+its associated institutions and practices: economic institutes and faculties
+and, more important, the planning institutions. The next section introduces
+briefly the discusion of planning, although a more detailed analysis of its
+functioning as a field of knowledge and technique of power must await sub-
+sequent chapters.
+
+
+                        Managing Social Change:
+                 The Constitution of Development Planning
+During the 1960s, economic-growth theories occupied “an exalted position”
+(Arndt 1978, 55). The challenge that growth not be equated with develop-
+ment was still a decade away. The widespread belief that growth could be
+planned for contributed to solidifying the growth approach. Planning had
+ceased to be an affair of the socialist Left and the Soviet world. Even in
+countries like England and France the need for some sort of long-term plan-
+ning to orchestrate economic growth was recognized. But planning was not
+just the application of theoretical knowledge; it was the instrument through
+86                                     CHAPTER 3
+
+which economics became useful, linked in a direct fashion to policy and the
+state. At the practical level of planning, truth spoke for itself, because it had
+been previously summoned by the discourse of the economist. What for the
+planner was a field of application and experimentation, for the economist
+was the locus of a systematic truth he was obliged to find and bring to every-
+body’s attention.
+   The first loan the World Bank made to an underdeveloped country was to
+Chile, in 1948. A World Bank official called Chile’s initial loan application,
+a seven-page proposal, “a completely undigested list of projects.” For World
+Bank economists, this was a clear indication of how far they would have to
+go to bring Latin American social scientists and government officials to the
+point where they could prepare a satisfactory project proposal. One of the
+early World Bank economists put it thus:
+     We began to discover the problem with our first mission which went to Chile
+     in 1947 to examine a proposal that we finance a power project there. The pre-
+     sentation of this proposal had been made in a book handsomely bound in black
+     Morocco leather. . . . But when we opened the book, we found that what we had
+     really was more of an idea about a project, not a project sufficiently prepared
+     that its needs for finance, equipment, and manpower resources could be accu-
+     rately forecast. . . . Before the loan was finally made, members of the Bank staff
+     had made suggestions about the financial plan, had contributed to the economic
+     analysis of the scheme, had advised on changes of engineering, and had helped
+     study measures for improving the organization of the company which was to
+     carry out the scheme. When we finally made the loan, the project had been
+     modified and improved, the borrowing organization had been strengthened,
+     and the foundation had been laid for a power expansion program in Chile which
+     has been proceeding steadily ever since. (Quoted in Meier 1984, 25)
+
+   This telling anecdote, which Meier cites as an example of the evolving
+“efforts” of the World Bank and other agencies, reveals “a power expansion
+program,” although not primarily of electric power. It reveals the pressures
+that Latin American social scientists and government officials faced to trans-
+form radically the style and scope of their activities to fit the needs of the
+development apparatus. Latin American social scientists did not know what
+World Bank officials meant by project, nor were they conversant with the
+new techniques (such as surveys and statistical analyses) that were becom-
+ing part of the empirical social sciences in vogue in the United States. The
+anecdote also highlights the importance of project preparation and planning
+in general in the expansion of the development apparatus. More important,
+it calls attention to the need to form cadres of social technicians who could
+invent and manage the discourses, practices, and symbols of modernity
+(Rabinow 1989), this time in the context of the development apparatus.
+   The case of Colombia exemplifies the route followed by those countries
+which embraced planning without much reservation. The Basis of a Devel-
+                       THE SPACE OF DEVELOPMENT                             87
+opment Program for Colombia, the report of the World Bank mission to Co-
+lombia headed by Lauchlin Currie in 1949, was the first of a long list of plans
+produced in the country during the last forty years. Since the late 1950s,
+every national administration has formulated a development plan for the
+country. The constitutional reform of 1945 introduced for the first time the
+notion of planning, making possible its institutional development. With the
+Currie mission, the nascent preoccupation with planning became more vis-
+ible, and technical organisms for planning were established. The chronology
+of planning institutions includes the Consejo Nacional de Planeación and
+the Comité de Desarrollo Económico, established in 1950; the Oficina de
+Planeación (1951); the Comité Nacional de Planeación (1954); the Consejo
+Nacional de Política Económica y Planeación and the Departamento Ad-
+ministrativo de Planeación y Servicios Técnicos (1958); the Consejo
+Nacional de Política Económica y Social and the Departamento Nacional de
+Planeación (1966). It also includes the creation of a Ministerio de Desarrollo
+and of planning units within most of the other ministries (agriculture, health,
+education, and so on).27
+   Planning activities during the 1950s, however, were modest, due to a se-
+ries of social and political factors that affected the country during that de-
+cade and that ended with the signing of the National Front Pact in 1958. The
+task of the Comité de Desarrollo Económico (September 1950–September
+1951), for instance, was to advise the government regarding the recommen-
+dations of the Currie report, including provisions for external financing. The
+lack of qualified Colombian personnel was reflected in the fact that the first
+development plan was prepared by a foreign mission and that foreign ex-
+perts advised the planning organisms of the country during the first two
+decades of the “age of planning,” the 1950s and 1960s (L. Currie and
+A. Hirschman in the early 1950s; Lebret in 1957, 1958; Watterson, from
+the World Bank, in 1963–1964; a Harvard mission, 1960–1970; a CEPAL
+mission, 1959–1962; a World Bank mission, 1970; and an International
+Labour Organization mission, 1970). Besides the resort to foreign experts
+and advice, Colombian students were sent to university centers, especially
+in the United States, where they could develop the knowledge of the new
+planning techniques and the spirit and frame of mind required for the new
+enterprise.
+   Short-term external assistance was also regularly practiced beginning in
+the early 1950s, sometimes financed by external sources. This type of as-
+sistance was not always restricted to national planning advice but often
+involved the design of specific projects. One such instance was the devel-
+opment of the Autonomous Regional Development Corporation of the
+Cauca Valley (Corporación Regional Autónoma del Cauca, CVC). An ex-
+amination of the role that external assistance played in this case reveals a
+number of practices of advising and planning introduced in the context of
+development.
+88                               CHAPTER 3
+
+   In October 1954 the government of Colombia approved the creation of
+the CVC, following a set of initiatives taken by local industrialists and agri-
+cultural entrepreneurs of the Cauca Valley region. The Departmental Plan-
+ning Commission had been set up a year earlier with the objective of formu-
+lating a development plan for the region. In early 1954, David Lilienthal,
+former chairman of the Tennessee Valley Authority (TVA), visited Colombia
+on an official invitation. His report of the visit, which reflected closely the
+TVA’s experience, was instrumental in shaping the conception of the CVC,
+the statutes of which were finally approved in July 1955. In addition, the
+CVC requested the assistance of the International Bank for Reconstruction
+and Development (IBRD, better known as the World Bank) in defining the
+corporation’s tasks and in delineating the technical and financial procedures
+for their implementation.
+   The IBRD mission, composed of six members, arrived in Colombia in
+February 1955 and remained there for two months. The chief of the mission
+returned to Colombia in September of the same year to discuss with CVC
+officials the contents of the report drafted in Washington. The report (In-
+ternational Bank for Reconstruction and Development 1955) addressed a
+whole range of technical issues (flood control, electric power, irrigation,
+present and potential agricultural activities, agricultural programs, transpor-
+tation, minerals, industry, financial considerations, and so on). It also in-
+cluded provisions for future external technical assistance. Ever since, the
+CVC became the most important factor in the capitalist transformation of the
+fertile Cauca River Valley region, to such an extent that it became an inter-
+national showcase of regional development planning.
+   The establishment of the CVC exemplifies well the interests and practices
+of the World Bank and other international lending organizations during the
+1950s. The overall goal was dictated by development economics: to promote
+growth through certain types of investment projects, resorting to foreign
+financing when possible or necessary. This goal required the rationalization
+of the productive apparatus, according to the methods developed in indus-
+trialized nations—the well-reputed TVA in this case, which served as a
+model for similar programs in various parts of the Third World, often, as in
+Colombia, with Lilienthal’s direct involvement. This could be done only
+through new practices concerning the everyday actions of an ever larger
+number of development technicians and institutions. The importance of
+these micro practices—replicated by hundreds of technicians at all levels—
+cannot be overemphasized, because it is through them that development is
+constituted and advanced.
+   The new practices concerned many activities and domains, including,
+among others, technical assessments; institutional arrangements; forms of
+advice; the generation, transmission, and diffusion of knowledge; the train-
+ing of personnel; the routine preparation of reports; and the structuring of
+                        THE SPACE OF DEVELOPMENT                              89
+bureaucracies. It is through these practices that development is effected, as
+I will show in the detailed discussion of food and nutrition planning that
+follows this chapter. Although the state plays a crucial role in this process, it
+is not through a uniform form of intervention but through a multiplicity of
+sites of intervention in the economy (economic planning, planning in agri-
+culture, health, education, family planning, and project design and imple-
+mentation in many arenas). Nevertheless, the progressive encroachment of
+what was to become the great edifice of planning in the late 1960s cannot be
+divorced from the emergence of a politics of development as a national prob-
+lem. Once the basic organization of the discourses of planning and develop-
+ment economics was in place in the early 1950s, it increasingly determined
+the nature of social policy and thinking—even if it did not become consoli-
+dated until a decade later, especially with most Latin American govern-
+ments’ commitment to planning, agrarian reform, and the Alliance for Prog-
+ress at the Punta del Este meeting in 1961.
+   Older styles of knowledge and assistance progressively disappeared as
+development economics and planning became consolidated. Pre–World
+War II economic inquiry could not fulfill the demands for model building
+and empirical research placed by the new science (Escobar 1989). Politi-
+cally, what was at stake was a way of treating poverty and underdevelopment
+in a new fashion. After 1945, the task of governments was to make poverty
+useful by fixing it to the apparatus of production that planning sought to
+deploy. A completely utilitarian and functional conception of poverty
+emerged, linked inextricably to questions of labor and production. The new
+institutions of planning were replicated at the level of cities, departments,
+towns, and rural areas in relation to minute economic and welfare concerns.
+Through this network of power, the “poor,” the “underdeveloped,” the “mal-
+nourished,” and the “illiterate” were brought into the domain of develop-
+ment; it was in them that the political technologies of development were
+inscribed. Beyond the requirements of capital, development technologies
+became a mechanism of social production of unprecedented reach. As we
+will see, the development apparatus succeeded only partly in this task.
+
+
+                    SHIFTING ECONOMIC DISCOURSE:
+                LOCAL MODELS AND THE GLOBAL ECONOMY
+          The 1980s: The Lost Decade and the Return to Realism
+The intellectual and political climate that saw the birth of development eco-
+nomics started to change in the 1960s. A number of important changes have
+taken place within the discipline since then—the abandonment of the early
+dirigisme and the overconcern with growth, and the successive appearance,
+within the non-Marxist camp, of “growth-plus-distribution” strategies, ex-
+90                               CHAPTER 3
+
+port-led growth, international monetarism, neostructuralism, and neoliber-
+alism. A certain degree of innovation and structural mutations has occurred,
+although always within the confines of established economic discourse,
+whose laws of formation have not changed. In the mid-1980s, a prominent
+analyst saw Latin American economics as dominated by pragmatic adapta-
+tions: neither a return to laissez-faire nor an invigoration of dirigisme but a
+sort of eclectic practice dictated by the consideration of special problems—
+particularly the debt, inflation, and the role of the state—which recombined
+rather than reinvented theoretical perspectives (Fishlow 1985).
+   The most drastic contextual changes took place in the 1980s, when large
+parts of Asia, Africa, and Latin America saw, according to observers of many
+persuasions, their worst crisis in the century. In Latin America, the 1980s
+are known as the lost decade. In 1982, Mexico’s announcement that it could
+not meet its debt service obligations unleashed the infamous debt crisis.
+What followed is well known by now: repeated attempts at economic stabili-
+zation and adjustment; austerity measures that translated into rapidly de-
+clining living standards for the popular and middle classes; industrial
+decline in many countries in the wake of strong neoliberal and free market
+economic policies, even negative growth rates in some countries; in sum, a
+reversal of development (Portes and Kincaid 1989; Dietz and James 1990).
+The social and political implications of these changes were equally onerous
+and menacing. Social exclusion and violence increased significantly. What
+were perceived as transitions to democracy during the first half of the de-
+cade became difficult to consolidate as the decade progressed. Even nature
+seemed to take issue with the region, as tornadoes, erupting volcanoes,
+earthquakes, and, more recently, the resurgence of cholera brought to the
+region more than its usual share of nature-related but socially aggravated
+hardships.
+   These changes fostered a significant reassessment of development eco-
+nomics. In the first half of the decade, a number of articles by leading devel-
+opment economists appeared which tried to assess the experience of the last
+four decades in the field.28 “Few subject areas,”read the opening paragraph
+of one of them, “have undergone so many twists and transformations as has
+development economics during the past thirty years” (Livingstone 1982, 3).
+Although a number of initial errors were recognized, the 1980s’ assessments
+emphasized considerable learning at the level of types of empirical research,
+concreteness and specificity, and theoretical advances in a number of sub-
+fields. Moreover, a number of competing paradigms (neoclassical, structu-
+ralist, and neo-Marxist) were thought to have come into existence.
+   Trenchant critiques, however, also appeared. One of the most poignant
+was penned by Raúl Prebisch, CEPAL’s first director and originator of the
+center-periphery conception, in referring to the application of the neoclassi-
+cal economic theories to the Third World:
+                          THE SPACE OF DEVELOPMENT                                     91
+  In their striving after rigorous consistency . . . these [neoclassical] theories
+  shelved important aspects of social, political and cultural reality, as well as of
+  the historical background of collectivities. In making a tenacious effort at doc-
+  trinal asepsis, they evolved their arguments in the void, outside time and
+  space. . . . If the neoclassical economists were to confine themselves with build-
+  ing their castles in the air, without claiming that they represent reality, that
+  would be a respectable intellectual pastime, apt at times to arouse admiration
+  for the virtuosity of some of its eminent exponents overseas. But the position is
+  very different when an attempt is made in these peripheral countries to explain
+  development without taking account of the social structure, of the time-lag in
+  peripheral development, of the surplus, and of all the characteristics of periph-
+  eral capitalism. . . . It is worth while to recall this at the present time, when such
+  vigorous offshoots are springing up in some of the Latin American countries.
+  (Prebisch 1979, 168)
+
+   It must be borne in mind that those “vigorous offshoots” to which
+Prebisch referred in 1979 were the neoliberal experiments of the authoritar-
+ian regimes of the Southern Cone countries (particularly Chile and Argen-
+tina), which were to become the standard approach all over Latin America
+by the end of the 1980s.29 A similar critique was put forth by P. T. Bauer
+from an entirely different position. For Bauer, the development economists
+of the early 1950s completely misread a number of factors that characterized
+the economies of the less developed countries (the problem of trade, the
+alleged lack of capital and entrepreneurship, the vicious circle of poverty,
+and stagnation). Based on these misreadings, a series of ideas developed
+which became the core of economic development literature. “Even when
+some of the elements of the core have disappeared from most academic
+writings,” he concluded, “they have continued to dominate political and
+public discourse, an instance of the lingering effect of discarded ideas”
+(1984, 1).
+   For Dudley Seers, the fact that the early theories allowed economists and
+policymakers to concentrate on technical issues, leaving aside important so-
+cial and political questions, contributed to their rapid adoption. An addi-
+tional factor in this regard were “the professional convenience and career
+interests especially in the ‘developed’ countries, where most of the theoreti-
+cal advances in the field originated” (1979, 709). Albert Hirschman (1981)
+analyzed the early years of the discipline from a different angle. In its initial
+stages, according to him, development economics was fueled with “unrea-
+sonable hopes,” a reflection of the ethnocentric behavior that has character-
+ized Western societies’ attempts to deal with other cultures. In his words,
+  The Western economists who looked at [Asia, Africa, and Latin America] at the
+  end of World War II were convinced that these countries were not at all that
+  complicated: their major problems would be solved if only their income per
+92                                    CHAPTER 3
+
+     capita could be raised adequately. . . . With the new doctrine of economic
+     growth, contempt took a more sophisticated form: suddenly it was taken for
+     granted that progress of these countries would be smoothly linear if only they
+     adopted the right kind of integrated development program! Given what was
+     seen as their overwhelming problem of poverty, the underdeveloped countries
+     were expected to perform as wind-up toys and to “lumber through” the various
+     stages of development single-mindedly. (1981, 24)
+
+   These reflections were accompanied by concrete proposals in some cases.
+Seers (1979), for instance, advocated the incorporation of development eco-
+nomics into a broader field of development studies so that it could deal
+seriously with social, political, and cultural aspects of development. For
+Meier, development economics needed to move “beyond neo-classical eco-
+nomics.” It is difficult to see what he meant by this, because he—as most
+economists—continued to uphold the belief that “the laws of logic are the
+same in Malawi as anywhere else. But the economic problems of Malawi
+may still be quite different in empirical content from those in another coun-
+try” (Meier 1984, 208). This same “logic” led him to assert that “the popula-
+tion problem arouses more alarm than any other aspect of development”
+(211). One might be tempted to read these assertions in the following man-
+ner: “The laws of logic that must rule for the type of capitalist development
+embodied in neoclassical economics have to be the same in Malawi as in the
+United States. Only then would the problems of population, unemployment,
+and so on, be solved.” Logic, for Meier, is an ahistorical fact. This is why in
+his discourse the economist is much more “the guardian of rationality” than
+“the trustee of the poor”; he argues that economists have to balance both
+roles.
+   Hollis Chenery, a leading development economist at the World Bank,
+held that development economics could be recast without significant refor-
+mulation. For him, “the neo-classical model has proven to be a useful start-
+ing point even though it seems to require more extensive adaptation to fit
+the developing countries” (1983, 859). His prescription was to adapt the
+model better by conducting more empirical studies and constructing “com-
+putable general equilibrium models” and more complex algorithms (859).
+Chenery’s call for more empirical studies was mandated by the theoretical
+framework within which such studies would be conducted; they could only
+reinforce that framework. The hope was that by conducting more empirical
+studies, economists would finally get it right, avoiding the question of
+whether the framework itself was adequate. After all, economists such as
+Prebisch, Seers, and some neo-Marxists had shown that neoclassical eco-
+nomics was an inadequate theoretical apparatus for understanding the situa-
+tion of poor countries.
+                       THE SPACE OF DEVELOPMENT                             93
+   A fundamental assumption that persisted in all of these proposals was that
+there is a reality of underdevelopment that a carefully conducted economic
+science can grasp progressively, pretty much following the model of the
+natural sciences. In this view, economic theory was built out of a vast bloc of
+preexisting reality that is independent of the theorist’s observations. This
+assumption has fueled the sense of progression and growth of economic
+theory in general and of development economics in particular. In economic
+theory, this sense has been further legitimized by the canonization of the
+most important developments—such as the innovations of the 1870s and
+1930s—as veritable scientific revolutions. As a prominent economic histo-
+rian put it, “Appeal to paradigmatic reasoning has quickly become a regular
+feature in controversies in economics and ‘paradigm’ is now the by-word of
+every historian of economic thought” (Blaug 1976, 149; see Hunt 1986 for
+paradigms in development economics).30
+   In Latin America and most of the Third World (as in the United States and
+the United Kingdom), a mixture of approaches under the overall label neo-
+liberal economics became dominant at the level of the elite as the 1980s
+unfolded. Statist and redistributive approaches gave way to the liberaliza-
+tion of trade and investment regimes, the privatization of state-owned enter-
+prises, and policies of restructuring and stabilizing under the control of the
+ominous International Monetary Fund (IMF). There was, indeed, a notice-
+able policy reversal. Reagan’s “magic of the market” speech, delivered at the
+North-South conference in Cancún in 1981, publicly announced this turn.
+A certain reading of the experience of the “newly industrializing countries”
+of East Asia in terms of the advantages of liberal exchange regimes (opening
+up to the world economy), as well as the influential Berg Report for Africa
+(World Bank 1981), plus rational choice critiques of the distortional effects
+of government intervention, all contributed to the dismantling of the eco-
+nomic development approaches that prevailed until the 1970s (Biersteker
+1991). The World Bank’s “market friendly development” (1991), the institu-
+tion’s strategy for the 1990s, was the final crystallization of the return of
+neoliberalism. Most economists see these changes as a return to realism.
+   Within economics, even the approaches to sustainable development have
+been permeated by the neoliberal turn. As the 1991 World Bank Annual
+Conference on Development Economics put it (Summers and Shah 1991),
+the achievement of “sustainable economic growth” is seen as dependent on
+the existence of “an undistorted, competitive, and well-functioning market”
+(358). As before, the allegedly improved economic theory is produced by a
+small elite of economists entrenched in prestigious universities and backed
+by the World Bank and the IMF. In Latin America, timid attempts at pro-
+posing a certain “neo-structuralism” (Sunkel 1990) have not found much
+support, even if a number of countries (such as Colombia) continued to make
+94                              CHAPTER 3
+
+efforts throughout the 1980s to maintain a type of mixed economic policy,
+only partly committed to neoliberalism and the free market. In the Colom-
+bian case, as in most of Latin America, any resistence to neoliberalism that
+could have existed had disappeared by the beginning of the 1990s. The total
+opening of the economy—coupled with a new round of privatization of ser-
+vices and the so-called modernization of the state—has become the order of
+the day. The policies of apertura económica, as the new approach is anachro-
+nistically known, is opposed from a number of fronts; yet for now the global
+elites seem committed to it.31
+   The assessments of development economics conducted during the 1980s,
+in short, did not lead to a significant recasting of the discipline. What we
+seem to be witnessing is its progressive dissolution. A break in economic
+development theory may come not, as the authors of the assessments re-
+viewed here assumed, from the field of economics (for example, from the
+introduction of new concepts, better models, and algorithms) but from a
+wider critique of the field of development. Conversely, any strategy to mod-
+ify development theory and practice will have to consider current economic
+thought and practices. This process of critique is yet to be done. Recent
+works in anthropology and political economy provide elements toward a
+more creative reformulation of economic inquiry than the recasting at-
+tempted in the 1980s.
+
+               The Cultural Politics of Economic Discourse:
+                    Local Models in Global Contexts
+It should be clear by now that development economics, far from being the
+objective universal science its practitioners assumed it was, is, as “any
+model, local or universal, a construction of the world” (Gudeman 1986, 28).
+This chapter has shown in detail the nature of this construction. It is now
+time to explore the consequences of this analysis in terms of its relation to
+other possible constructions. If there are other constructions, how are these
+to be made visible? What is their relation to dominant models? How can this
+relation be modified, given the global political economy of discourses and
+power that rules the interaction between the various models and their so-
+ciocultural matrices?
+   Economic historians and anthropologists have investigated different eco-
+nomic models, either in antiquity or in “primitive” societies. Frequently,
+these efforts have been marred by the epistemological traps and ethno-
+centricity denounced by Polanyi, Godelier, Gudeman, and others with
+which we started our discussion of economics as culture. Succinctly stated,
+universal models—whether neoclassical, substantivist, or Marxist—“con-
+tinuously reproduce and discover their own assumptions in the exotic mate-
+rials” (Gudeman 1986, 34). In the process, they deny the capacity of people
+                          THE SPACE OF DEVELOPMENT                                  95
+to model their own behavior and reproduce forms of discourse that con-
+tribute to the social and cultural domination effected through forms of
+representation.
+   One way to detect and investigate local constructions is to focus on popu-
+lar groups’ forms of resistance to the introduction of capitalist practices. This
+was the route followed by the ethnographies of resistance of the 1980s, such
+as those by Nash (1979), Taussig (1980), Scott (1985), and Ong (1987). One
+of the most unambiguous expressions of the cultural basis of resistance was
+given by Taussig in his analysis of the spread of capitalist agriculture in the
+Cauca River Valley in southwest Colombia. The spread of sugarcane was
+met by fierce opposition by the mostly Afro-Colombian peasants of the re-
+gion. There was much more at stake than material resistance. In Taussig’s
+words,
+  Peasants represent as vividly unnatural, even as evil, practices that most of us
+  in commodity-based societies have come to accept as natural in the everyday
+  workings of our economy, and therefore of the world in general. This represen-
+  tation occurs only when they are proletarianized and refers only to the way of
+  life that is organized by capitalist relations of production. It neither occurs nor
+  refers to peasant ways of life. (1980, 3).
+
+   Taussig invites us to see in this type of resistance a response by people “to
+what they see as an evil and destructive way of ordering economic life” (17).
+Other authors in disparate contexts derive similar lessons—for instance,
+Fals Borda (1984) in his analysis of the introduction of barbed wire and other
+technologies in northern Colombia at the turn of the century; and Scott
+(1985) in his study of the fate of green revolution technologies in Malaysia.
+The works of the 1980s, however, used resistance to illuminate practices of
+power more than the logic of the subaltern. Several authors have paid more
+attention to this latter aspect in recent years, introducing new ways of think-
+ing about it (Guha 1988; Scott 1990; Comaroff and Comaroff 1991). In their
+discussion of the colonial encounter in southern Africa, for example, Coma-
+roff and Comaroff emphatically assert that the colonized “did not equate
+exchange with incorporation, or the learning of new techniques with subor-
+dination” (1991, 309); instead, they read their own significance into the colo-
+nizers’ practices and sought to neutralize their disciplines. Although Afri-
+cans were certainly transformed by the encounter, the lesson derived by this
+more subaltern actor–oriented view of resistance is that hegemony is more
+unstable, vulnerable, and contested than previously thought.
+   Ranajit Guha has also called on historians to see the history of the subal-
+tern “from another and historicaly antagonistic universe” (1989, 220). There
+is a counterappropriation of history by the subaltern that cannot be reduced
+to something else, such as the logic of capital or modernity. It has to be
+explained in its own terms. Turning back to local models of the economy, do
+96                                    CHAPTER 3
+
+they exist in “another and historically antagonistic universe”? One thing is
+certain in this regard: local models exist not in a pure state but in complex
+hybridizations with dominant models. This is not to deny, however, that
+people do model their realities in specific ways; local models are constitutive
+of a people’s world, which means that they cannot be readily observed by
+objectifying positivist science.
+   I already introduced Gudeman and Rivera’s (1990) notion of local models
+as conversations that take place in the context of dominant conversations.
+Indeed, what counts most from the perspective of these authors is to in-
+vestigate the articulation of local and “centric” (dominant) conversations,
+including the relationship between inscriptions from the past and practices
+of the present, between centric text and marginal voices, between the “cor-
+poration” in the center and the “house” in the margins. Center and periph-
+ery thus emerge not as fixed points in space, external to each other, but as a
+continuously moving zone in which practices of doing conversations and
+economies get intermingled, always shifting their relative position. Mar-
+ginality becomes an effect of this dynamic. Gudeman’s earlier work (see
+especially 1986) provides a view of the importance and coherence of local
+models of the economy in Panama, a view further refined through work in
+Colombia. For these anthropologists, the peasant model that exists today in
+the Colombian Andes “is the outcome of an extensive conversation”—from
+Aristotle to Smith and Marx—“that occurred over several thousand years
+and continues to take place in many lands” (1990, 14). These conversations
+are incorporated into local social practice, producing a local model of the
+economy.32
+   At the basis of the peasant model is the notion that the Earth “gives” based
+on its “strength.” Humans, however, must “help” the land to give its prod-
+ucts through work. There is a relation of give and take between humans and
+the earth, modeled in terms of reciprocity and ultimately validated by Prov-
+idence (God). The land may produce abundance or scarcity; most people
+agree that the land gives less now, and that there is more scarcity. Scarcity
+is thus not given a metaphysical character (the way things are) but linked to
+what happens to the land, the house, and the market. If scarcity persists, it
+is because the Earth needs more help, although peasants know that chemi-
+cal products—as opposed to organic manure—“burn the earth” and “take
+away” its force. Food crops draw their strength from the land; humans, in
+turn, gain their energy and force from food crops and animal products, and
+this strength, when applied as work on the land, yields more force. Work,
+construed as concrete physical activity, is the final “using up” of the land’s
+strength.
+     This construction brings the model full circle. There is a flow of strength from
+     the land to crops to food to humans to work that helps the land give more force.
+                         THE SPACE OF DEVELOPMENT                                 97
+  Strength is secured from the earth and used up as humans gather more. Control
+  over this process is established through the house, for by using resources of the
+  house to sustain their work the people gain control over the results of their
+  efforts. (Gudeman and Rivera 1990, 30)
+
+   The house has two main purposes: to reproduce itself and to increase its
+“base” (its stock of land, savings, and implements). The house is not purely
+a market participant; indeed, peasants in this part of the world try to mini-
+mize their interaction with the market, which they see as a concrete place
+rather than as an abstract mechanism. Peasants, however, are aware that
+they are being increasingly pushed into the market; they interpret this fact
+as a diminishing margin for maneuvering. The house model persists at the
+margins, where the model of the corporation (which epitomizes the market
+economy) has not become dominant. House and corporation are in a contra-
+puntal relation, the latter always trying to incorporate the contents of the
+former.33 The house economy is based on livelihood; the corporation’s, on
+acquisition. Peasants are aware that they participate in both types of econ-
+omy. They also have a theory of how they are being drained by those who
+control the market.
+   The local model thus includes a view of the circularity and equilibrium of
+economic life, albeit very different from the classical and neoclassical view.
+The peasant model can be seen as closer to the land-based model of the
+Physiocrats, and the use of “force” can be related to the Marxist notion of
+labor force, although “force” is applied equally to work, land, and food. Be-
+yond these differences, there is a crucial distinction between both models,
+arising from the fact that the house model is based on daily practice. Local
+models are experiments in living; the house model “is developed through
+use . . . it has to do with land, foodstuffs, and everyday life” (Gudeman and
+Rivera 1990, 14, 15). This does not contradict the assertion that the peasant
+model is the product of past and present conversations and their adaptation
+through practice.
+   More than the house model, in Latin America what one increasingly finds
+is the house business. As the site of conjunction of forms, “dynamic and
+multicultural yet fragile and unstable in identity” (Gudeman 1992, 144), the
+house business can be interpreted in terms of metaphors of “bricolage” (de
+Certeau 1984; Comaroff and Comaroff 1991) or hybridization (García
+Canclini 1990). It is composed of partly overlapping domains of practices
+that must be studied ethnographically. Gudeman and Rivera believe that
+this general dynamic also marked the development of modern economics,
+even if the latter became more and more technical with the development of
+capitalism.34 The implications of this view are enormous. Not only does the
+idea of a universal model of the economy have to be abandoned, it becomes
+necessary to recognize that forms of production are not independent from
+98                                CHAPTER 3
+
+the representations (the “models”) of social life in which they exist. The
+remaking of development must thus start by examining local constructions,
+to the extent that they are the life and history of a people, that is, the condi-
+tions of and for change. This brings into consideration the relation between
+models and power. Gudeman and Rivera advocate a process based on “com-
+munities of modelers,” in which local and dominant models are accorded a
+say. But who is to belong to and organize these communities of modelers?
+Again, what we have here is a confrontation of local and global power, popu-
+lar and scientific knowledge. At issue is the distribution of global power and
+its relation to the economy of discourses.
+   There are then two levels, two vectors, that must be considered in re-
+thinking development from the perspective of the economy. The first refers
+to the need to make explicit the existence of a plurality of models of the
+economy. This entails placing oneself in the space of local constructions. But
+this by itself will not make it. Even if communities of modelers are brought
+into existence as part of the process of designing development (not incon-
+ceivably by the World Bank itself!), the process of inscription will not stop.
+A second level of concern must be added. One must have a theory of the
+forces that drive this inscription and that keep the inscribing systems in
+place. What needs to be studied at these levels is the mechanisms by which
+local cultural knowledge and economic resources are appropriated by larger
+forces (mechanisms such as unequal exchange and surplus extraction be-
+tween center and periphery, country and city, classes, genders, and ethnic
+groups) and, conversely, the ways in which local innovations and gains can
+be preserved as part of local economic and cultural power.
+   Part of this inquiry has been advanced within political economy—particu-
+larly theories of imperialism, unequal exchange, world systems, and periph-
+eral capitalism. Yet these theories fall short of the task, especially because
+they do not deal with the cultural dynamics of the incorporation of local
+forms by a global system of economic and cultural production. A more ade-
+quate political economy must bring to the fore the mediations effected by
+local cultures on translocal forms of capital. Seen from the local perspective,
+this means investigating how external forces—capital and modernity, gener-
+ally speaking—are processed, expressed, and refashioned by local commu-
+nities. Local-level ethnographies of development (such as those discussed in
+chapter 1) and theories of hybrid cultures (analyzed in the conclusion) are a
+step in this direction, although they tend to fall short in their analysis of the
+capitalist dynamics that circumscribe the local cultural constructions.
+   A political economy of global economic and cultural production must thus
+explain both the new forms of capital accumulation and the local discourses
+and practices through which the global forms are necessarily deployed; it
+must explain, briefly put, “the production of cultural difference within a
+structured system of global political economy” (Pred and Watts 1992, 18).
+                        THE SPACE OF DEVELOPMENT                              99
+Local communities bring their material and cultural resources to bear in
+their encounter with development and modernity. The persistence of local
+and hybrid models of the economy, for instance, reflects cultural contesta-
+tions that take place as capital attempts to transform the life of communities.
+Cultural difference partly becomes, indeed, an effect of forms of connected-
+ness that are structured by global systems of economic, cultural, and politi-
+cal production. They are part of what Arjun Appadurai (1991) calls global
+ethnoscapes.
+   In fact, global capital—as a global machine, a “worldwide axiomatic” (De-
+leuze and Guattari 1987)—relies today not so much on homogenization of an
+exterior Third World as on its ability to consolidate diverse, heterogenous
+social forms. According to these authors, in the post-Fordist age capital re-
+quires a certain “peripheral polymorphy” (436) because it actively repeals its
+own limit. Here we find an expression of Gudeman and Rivera’s dialectic of
+folk voice and centric text. Although the centric texts of the global economy
+steadily exert their influence on manifold folk voices, the latter do not neces-
+sarily join in a harmonious Western polyphony. Some of the peripheral
+forms take on this dissonant role because of their inadequacy in relation to
+their own national markets. This does not mean that they are less organized
+by capital. At this level, capital’s task is different: to organize “conjunctions
+of decoded flows as such” (451). The minority social organizations of the
+tropical rain-forest areas, for instance, are not entirely coded or territorial-
+ized by capital (as are the formal urban economies). Yet to the extent that the
+economy constitutes a worldwide axiomatic, even these minor forms are the
+target of social subjections. The global economy must thus be understood as
+a decentered system with manifold apparatuses of capture—symbolic, eco-
+nomic, and political. It matters to investigate the particular ways in which
+each local group participates in this complex machinelike process, and how
+it can avoid the most exploitative mechanisms of capture of the capitalist
+megamachines.
+   Let us now see if the contributions of the political economy of develop-
+ment can still provide useful criteria for the two-edged process we envision,
+that of making visible local constructions side by side with an analysis of
+global forces. Samir Amin (1976, 1985, 1990), perhaps more eloquently than
+others, has sought to provide general criteria for constructing alternative
+development orders within the capitalist world economy. For Amin, the pri-
+mary criterion for reaching this goal is to encourage autocentric accumula-
+tion, defined as an economic model in which external relations to the world
+markets are subordinated to the needs of internal capital accumulation. Au-
+tocentric development supposes a radically different economic, social, and
+political order. It has a series of requirements which is not the point to
+analyze here—such as the equalization of income between rural and urban
+areas and between modern and traditional sectors; priority for agriculture in
+100                               CHAPTER 3
+
+many countries; control of production by popular organizations and social
+movements; a new role for the state; innovations in technology to meet a
+new demand structure; and significant restrictions or partial delinking in
+relation to international markets. The obstacles to this type of restructuring
+of peripheral countries into autocentric economies are, needless to say,
+enormous. In Amin’s vision, some of them might be overcome through new
+forms of South-South cooperation, including the formation of regional blocs
+of several countries along socialist lines.35
+   Amin’s notions of polycentrism and autocentric accumulation can serve
+as useful principles for guiding action at the macroeconomic and political
+levels. It is necessary to emphasize, however, that Amin’s prescriptions are
+written in a universalistic mode and a realist epistemology, precisely the
+kinds of thinking criticized here. Nevertheless, as a description of the world
+that seeks to explain a hegemonic order and that relies on a dominant lan-
+guage, realist political economy cannot be overlooked in the imagining
+of alternatives to that world and that language. Yet it is necessary to insist
+that if the analysis in terms of political economy needs to be summoned in
+this context, it must also be continuously destabilized. It has to be ac-
+companied by a strategic repositioning in the domain of representation.
+Forms of production and forms of representation can be distinguished only
+for analytical purposes. Modifying political economies involves both mate-
+rial and semiotic resistance, and material and semiotic strengthening of local
+systems.
+   To be sure, although the social projection of subaltern languages rests
+largely with social movements, it calls for strategies to modify local, regional,
+and international political economies. The primary goal of this modification,
+however, should be not healthier regimes of accumulation and develop-
+ment, as in Amin’s case,but to provide conditions that are more conducive to
+local and regional experiments based on autonomous (hybrid) models.
+Moreover, the analysis of political economy must be conducted from the
+perspective of its integration with local forms, as discussed earlier. It should
+also contribute to shifting the political economy of discourse production and
+the multiplication of the centers of discourse. From the classical political
+economists to today’s neoliberals at the World Bank, economists have mo-
+nopolized the power of speech. The effects of this hegemony and the damag-
+ing centrality of economics need to be exposed in novel ways. Making other
+models visible is a way of advancing this task. “Mediating this communica-
+tion [among modelers] or formulating a conversational community across
+cultures is an important project of anthropology” (Gudeman 1992, 152). It is,
+indeed,one must add,a political project of importance.
+   The suggestion that we take into account people’s own models is not only
+a politically correct position. On the contrary, it constitutes a sound philo-
+sophical and political alternative. Philosophically, it follows the mandate of
+                        THE SPACE OF DEVELOPMENT                             101
+interpretive social science (Rabinow and Sullivan 1987; Taylor 1985) that we
+take subjects as agents of self-definition whose practice is shaped by their
+self-understanding. This self-understanding may be grasped by the re-
+searcher or activist through ethnographic methods. This does not mean that
+the researcher or activist has to adopt the subjects’ view or that the subjects’
+view is always right. Cultural relativists have often fallen into this double
+trap. It means that the interpretive social scientist has to take into account
+people’s own descriptions as the starting point of theory, that is, of what has
+to be explained.36
+
+What I have been talking about in this chapter is a kind of social power
+linked to the economy of goods and discourses. At the level of regimes of
+representation, this power goes on for the most part unchallenged explicitly,
+although it is often resisted at various levels. Social power of this kind has an
+insidious way of encroaching upon the most recondite corners of social life,
+even if in inconspicuous ways. This is no less true in those arenas in which
+life itself is at stake, such as in the arena of food and hunger, as the next
+chapter will show. I will examine in detail how today’s practices in nutrition,
+rural development, and health care came into existence not as a result of
+improved consciousness, scientific progress, or technological refinements
+but rather as effects of power brought about by the problematization of hun-
+ger in the context of the pervasive economization of subsistence.

@@ -1,0 +1,39 @@
+---
+title: "Myth of Matriarchy"
+concept_type: analytical
+coined_by: ["Joan Bamberger (analytic frame popularized in feminist anthropology, 1974)"]
+date_coined: 1974
+disciplines: [anthropology]
+emic_or_etic: etic
+operationalized_as: "Myths of a prior age of female rule that, in Bamberger's reading, legitimate present male dominance by narrating women's failure or excess as rulers"
+contested: yes
+related_concepts: ["[[female-subordination]]", "[[matrifocality]]", "[[domestic-public-dichotomy]]"]
+sources_ingested: 1
+last_updated: 2026-07-09
+tags: [concept]
+---
+
+# Myth of Matriarchy
+
+## Definition as Coined
+
+Joan Bamberger's essay "The Myth of Matriarchy: Why Men Rule in Primitive Society" in *[[rosaldo-lamphere-woman-culture-society-1974|Woman, Culture, and Society]]* (1974) treats stories of ancient female rule — especially Tierra del Fuego and Amazonian cases — not as historical evidence of a matriarchal stage (Bachofen, Morgan, some second-wave feminist writers) but as **cultural charters that explain and justify why men now rule**. In the typical structure Bamberger reconstructs: women once controlled sacred objects or political order → women abused power, failed morally, or lost the sacred things → men seized and monopolize ritual/political authority thereafter.
+
+## Semantic History
+
+Nineteenth-century evolutionism (Bachofen *Mutterrecht*, Morgan *Ancient Society*) treated matriarchy / mother-right as a real early stage; mid-century anthropology largely rejected that history. 1970s feminist writers sometimes revived matriarchy as usable past or utopian image (Davis, E. Morgan). The 1974 volume's editors ([[rosaldo-michelle|Rosaldo]] & [[lamphere-louise|Lamphere]]) dismiss matriarchy as documented social form while allowing its value as "useful myth" for present politics — a tension Bamberger's analysis complicates: the same myths often *highlight women's failure as rulers* and thereby legitimize male order. Rosaldo also prefers reading myths of men "stealing" cultural artifacts as reflections of tenuous male authority claims rather than as history (citing Bamberger and Murphy).
+
+## Operationalizations
+
+Comparative structural reading of origin myths for the sequence: prior female control → moral or practical failure → male takeover → ongoing male monopoly of ritual power. Bamberger's principal cases include Fuegian *Kina* / *Hain* ceremonies and Juruparí-type Amazonian narratives (and related Yamana materials). The operational unit is the *myth as charter*, not archaeological proof of prior female rule.
+
+## Applications
+
+- Feminist anthropology's critique of matriarchal origin theories (Bachofen revival).
+- Myth analysis in South American ethnology.
+- Broader debate over whether origin stories encode history or ideology.
+- Paired in the 1974 volume with the editors' anti-matriarchy-as-history stance and with [[female-subordination]] as the *explanandum* myths rationalize.
+
+## Critiques and Limitations
+
+Does not by itself settle whether any historical matriarchy existed; treats a class of myths as functionally homogeneous; later work may re-read the same narratives under different interpretive programs (performance, gender fluidity, colonial mediation of the ethnographic record). Distinguish **myth of matriarchy** (charter analysis) from **matrifocality** (domestic organization) and from historical claims about mother-right.

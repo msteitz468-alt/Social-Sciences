@@ -1,0 +1,756 @@
+Polynesian Chiefdoms and Archaic States
+
+
+
+As to why in ancient times a certain class of people were ennobled and made into ali‘i [chiefs], and another class into subjects (kanaka), why a separation was made between chiefs and commoners, has never been explained. Perhaps in the earliest time all the people were ali‘i and it was only after the lapse of several generations that a division was made into commoners and chiefs.
+
+D. MALO, Hawiian Antiquities (1951)
+
+
+
+
+
+ESCORTED BY PERHAPS THREE thousand canoes, His Britannic Majesty’s ships Resolution and Discovery, Captain James Cook commanding, came to anchor in a fine broad bay, “in 13 fathom water over a Sandy bottom” at 11:00 o’clock on Sunday, January 17, 1779.1 The reception accorded them by the Hawaiians was enthusiastic. “They express’d the greatest Joy & satisfaction, by Singg & Jumping, of our coming to Anchor,” wrote Lieutenant King (Beaglehole, ed., 1967:503). Never before in his three Pacific expeditions had the veteran navigator Cook witnessed such a welcome. In addition to the thousands of canoes, “all the Shore of the bay was covered with people and hundreds were swimming about the Ships like shoals of fish” (1967:490–91).
+
+A delegation of priests and chiefs boarded the flagship. Draping a red cloth—symbol of divinity and kingship—over Cook’s shoulders, the aged priest Koa “kept repeating a pretty long oration or prayer” (Beaglehole, ed., 1967:504). When Cook later arrived on the beach the large multitude fell prostrate on their faces, while the priests “who held wands tipt with dogs hair” kept repeating a phase that included the word Erono (Lono). Cook was conducted to the summit of a temple platform, whereupon he was accorded the ceremony of hānaipū, the “feeding of the god,” part of the annual Makahiki fertility rituals.2
+
+On that day in the sacred bay of Ke-ala-ke-[a]kua, “The Path of the God,” the Hawaiian priests moved to incorporate (and presumably neutralize) these strange new beings into their mytho-praxis. Only later would the reigning Hawaiian paramount, Kalani‘ōpu‘u, return from his battles against his archrival Kahekili, paramount of neighboring Maui Island (fig. 8.1), to greet Cook in Kealakekua. Within a few short weeks, however, Cook and Kalani‘ōpu‘u came to a cultural collision resulting in Cook’s death and his subsequent deification among the pantheon of Hawaiian gods. For some time afterward, Cook’s sennit casket–bound bones would be paraded around the island of Hawai‘i annually during the Makahiki rites of Lono.3
+
+
+
+
+FIGURE 8.1 The paramount chief of Hawai‘i Island, Kalani‘ōpu‘u, arrives in Kealakekua Bay to greet Captain James Cook in 1779. Engraving after drawing by John Webber for the atlas of Cook’s third voyage. (Collection of the author.)
+
+
+
+
+
+Kalani‘ōpu‘u ruled a kingdom numbering between 120,000 and 150,000 persons, which was arguably the most complex of any indigenous polity ever to develop within Oceania. But other Polynesian islands and archipelagoes had also evolved hierarchical sociopolitical structures, ranging from smaller chiefdoms to the archaic states of Hawai‘i and Tonga. This chapter explores some key findings of modern archaeology with regard to the development of the Polynesian chiefdoms and archaic states.
+
+
+
+
+
+POLYNESIAN CHIEFDOMS: ETHNOGRAPHIC BACKGROUND AND ANTHROPOLOGICAL SIGNIFICANCE
+
+
+Anthropologists have classically looked to Polynesia for the “type” examples of ranked societies, or what are more commonly known as chiefdoms.4 Chiefdom societies, typically made up of a few thousand to a few tens of thousands of people, are headed by chiefs who come to the chiefship by virtue of birth; that is, they inherit the chiefly title because their genealogies link them directly to eponymous ancestors, and above them to the gods. Chiefs control the power to organize labor and receive tribute. With chiefdoms, human organization moved from a strictly “domestic mode of production,” inherently anti-surplus, to a political economy in which surplus is extracted from the society’s producers to finance and support the activities and political aspirations of its elite.5 Larger chiefdoms often display functional differentiation of farmers, fishermen, craftspersons, and warriors and have intensified production systems.
+
+Although they are all chiefdoms, Polynesian societies exhibit a great range of variation. In the simplest Polynesian societies, particularly those of the atolls and some of the smaller high islands, such as Tikopia, distinctions between chief and commoner were minimal. Tribute was limited to ritual “first fruits” offerings, while production was only rarely organized on a supra-household level (usually in response to a communitywide disaster). In striking contrast, in the Hawaiian society that Cook witnessed in the late eighteenth century, the chiefly class regarded themselves as descended directly from the gods, and they were internally ranked in seven or eight different grades. The highest-ranked Hawaiian chiefs practiced sibling or half-sibling marriage to concentrate the bloodline, and controlled corvée labor on a massive scale, building temples and irrigation works. They wore feathered cloaks and ate from finely carved wooden bowls. Between these extremes lay a range of intermediate societies, so that in the Polynesian region virtually the entire range of variation possible within a chiefdom social formation is evidenced.
+
+In a now-classic work of comparative ethnography, Marshall Sahlins (1958) classified Polynesian societies according to their degree of hierarchy or stratification. The smallest-scale chiefdoms were represented by the atolls societies, with populations of a few hundred up to perhaps 2,000 persons. In the midrange were societies with a paramount chief and subchiefs, generally situated on midsized high islands, such as Futuna, ‘Uvea, Mangaia, and Mangareva. At the pinnacle were Tonga, Hawai‘i, the Society Islands, and Samoa, all with polities encompassing from 10,000 to 40,000 (or more) individuals, with marked indices of stratification. Sahlins (1958:249) argued that these differences in social stratification were directly related to economic productivity: “the greater the productivity, the greater the differentiation between distributors (chiefs) and producers (nonchiefs).”
+
+Irving Goldman (1970) offered an alternative classification of Polynesian societies based on a comparative study of “status rivalry.” He divided the Polynesian chiefdoms into Traditional, Open, and Stratified categories. The Traditional chiefdoms (which included Tokelau, Tikopia, and Tongareva) were conservative, retaining an older style of organization in which the chief combined both secular and sacred duties (Goldman 1970:20). In the Open societies, the “system is more strongly military and political than religious and stability in it must be maintained more directly by the exercise of secular powers.” Open chiefdoms included Samoa, Rapa Nui, Mangaia, and the Marquesas. Finally, the Stratified chiefdoms (Tonga, Hawai‘i, the Society Islands, and Mangareva) were “characterized by clearcut breaks in status that are far-reaching in their impact on everyday life” (20). In these latter social formations, “high rank holds the rule and possesses the land title: commoners are subject and landless” (20). While Goldman’s neo-evolutionary theory may be outdated, his three classes of Polynesian chiefdoms are based on real ethnographic insights; they remain useful categories for structuring a discussion of sociopolitical change in these island societies.
+
+Timothy Earle (1997) added to our understanding of chiefdoms by drawing attention to the different sources of power that chiefly elites draw on to enforce their authority. In Polynesia, authority was inherent in the Ancestral Polynesian status category of *qariki, the hereditary leader of a *kainanga descent group, by virtue of birth order and hence access to spiritual power, or mana (see chap. 7). As Polynesian chiefdoms became larger and more hierarchical in structure, mere ties of kinship were not a sufficient basis on which to build the power relations necessary to command labor and tribute, or to exercise—as was the case in some societies—the right of life and death over others. Earle (1997:6) identifies three “primary sources of power—economic, military, and ideological.” All three sources played significant roles among Polynesian chiefdoms, but the emphasis given to any of these, or whether one or more were employed, varied with local circumstances and the contingencies of history.
+
+
+
+
+
+THE “TRADITIONAL” ATOLL SOCIETIES
+
+
+Although most of the best-known Polynesian societies are situated on high, volcanic islands, there are also nearly one hundred atolls dispersed over a wide sector of the tropical core of the Polynesian Triangle. The largest cluster of atolls, about eighty in all, constitute the Tuamotu Islands of French Polynesia, forming a 1,600-kilometer-long arc from just east of Tahiti extending southeast as far as Mangareva (map 12). Several other atolls comprise the Northern Cook Islands (including Manihiki, Tongareva, Pukapuka, and Rakahanga), while a third cluster located just north and south of the equator (Fanning, Malden, Christmas, and others) is known as the Line or Equatorial Islands. Both the Tuamotu and the Northern Cook islands have flourishing Polynesian cultures. The Line Islands have archaeological vestiges of former Polynesian habitation (Emory 1934a) but were all abandoned by the time of European contact. All of the ethnographically documented atoll societies were classified by Goldman (1970) as falling within his “Traditional” category. With limited land area, these societies never exceeded about two thousand people within a single polity, and the degree of social stratification and hierarchy was minimal.
+
+
+
+
+MAP 12 The central Eastern Polynesian archipelagoes and islands. Insets show the Society Islands and the Marquesas Islands, with the location of key archaeological sites.
+
+
+
+
+
+Despite its geographic extent and number of islands, the Tuamotu Archipelago remains underexplored archaeologically. Emory (1934a, 1947) surveyed marae, or ritual, structures, which are the most ubiquitous archaeological feature on these atolls. Although there is considerable variation in form (Molle 2014), Tuamotu marae typically consist of a rectangular court defined by low enclosing walls or alignments of coral slabs, with an elevated altar platform (ahu) at one end. These structures were constructed entirely of coral or beachrock and did not achieve the large proportions of marae in the Society Islands. Conte and Dennison (1995, 2005) excavated at a marae on Tepoto Atoll, revealing thirty-two burials laid out within the court. Another important aspect of the archaeological landscape is the presence of extensive pits excavated down to the freshwater lens and used to cultivate taro (Chazine 1977).
+
+Emory (1934a) made archaeological surveys of several of the Equatorial Islands, finding marae structures and Polynesian artifacts on Fanning and Malden Islands in particular. “The large number of maraes on Malden Island,” he wrote, “indicate that the people lived on the island for several generations. In the end, however, they were overcome or forced out by the inhospitable environment” (1934a:40). Emory pointed to the extreme drought conditions that frequently beset the Equatorial Islands as the likely cause “for the disappearance of its marae builders” (1934:38). Surveys and excavations on Kirimati (Christmas) Island by Anderson, Martinsson-Wallin, and Wallin (2002) revealed a number of sites, including simple marae structures, radiocarbon dated to between A.D. 1250 and 1450. Di Piazza and Pearthree (2004) explored the Phoenix Islands, which again display a variety of marae structures. In a limited excavation on Manra Island, they exposed an earth oven and trash pit with several basalt flakes (clearly imported from a high island source), with an associated radiocarbon date of A.D. 1175–1405 (2004:91). The dates from both Kirimati and Manra suggest that many of the Equatorial Islands were occupied by Polynesians around the thirteenth to fourteenth centuries but were abandoned soon after. The harsh environmental conditions—especially the lack of rainfall—was the most likely reason for their abandonment.
+
+
+
+
+
+SOCIOPOLITICAL TRANSFORMATION IN THE OPEN SOCIETIES
+
+
+The Open societies, in Goldman’s original conception, lay midway on an evolutionary continuum from Traditional to Stratified. But it is more productive to envisage them as headed not toward increased hierarchy but toward a more “fluid” social structure in which there was intense competition between different social groups and categories. All of the Open societies share certain environmental features and ecological conditions, which, it appears, influenced their histories. These societies all arose on midsized islands,6 where populations in the low thousands could develop but also where resources were restricted. Ecologically fragile, these islands were prime for intensive resource competition once a “full-land” population density had been achieved. Rather than attempt to theorize them further, let us review their individual histories as revealed by archaeology. (Selected archaeological sites are listed in table 8.1.)
+
+
+TABLE 8.1
+
+Selected Later Prehistoric Sites in Eastern Polynesia
+
+
+
+
+
+TABLE 8.1 (continued)
+
+
+
+
+
+MANGAIA (SOUTHERN COOK ISLANDS)Mangaia, southernmost of the Cook Islands (map 12), is a smallish island of 52 square kilometers, with a deeply weathered volcanic core surrounded by a rampart of elevated makatea limestone, up to 2 kilometers wide (fig. 8.2). Narrow streams incised in the volcanic hillsides pond against the sheer limestone wall of the makatea, creating deep sedimentary archives of environmental events that transformed this landscape over the millennia. The potential for decoding this sedimentary record, and for intensive archaeological study, enticed David Steadman and me to bring an interdisciplinary team of researchers to Mangaia in 1989 and 1991.7
+
+
+
+
+FIGURE 8.2 The island of Mangaia was traditionally subdivided into six districts, following the natural stream drainages. This settlement pattern map shows archaeological sites mapped in 1989 and 1991. (Map by P. V. Kirch.)
+
+
+
+
+
+At the time of European contact, Mangaia’s population (estimated to have been at least three thousand) was organized into six districts (see fig. 8.2), each under the control of a chief and corresponding to one of the main valleys. The entire island was controlled by a paramount chief named Te Mangaia.8 Rather than being hereditary as in many Polynesian societies, the title of Te Mangaia was achieved through war and legitimated by human sacrifice offered at the principal temple of Orongo. This sacrifice was directed to Rongo, god of both war and agriculture. Oral histories recount the succession of forty-two Te Mangaia prior to European contact. A triad of priest-chiefs called ariki (the Inland High Priest, the Shore High Priest, and the Ruler of Food) assisted these paramount war leaders and enforced the religious ideology that legitimated the rule of Te Mangaia.
+
+This fluid sociopolitical system was based on a highly intensive production system. The swampy valley bottoms, modified by terracing and canalization of streams into a reticulated network of pondfields, produced the island’s staple crop, taro. The pondfields were also an important source of freshwater fish and eels. War victors seized control of these puna lands, along with hillside orchards of breadfruit, Tahitian chestnut, and coconuts. Defeated groups struggled to make a living in soil pockets on the karst makatea, cultivating yams and sweet potatoes. The severe limitation of prime agricultural land was critical: only 2 percent of the landscape could be irrigated, and dryland agriculture could be practiced on perhaps another 18 percent.
+
+But the island was not always so environmentally impoverished. Deep cores extracted from the valley bottoms yielded a 7,000-year history of vegetation and geomorphological changes. When Polynesians first set foot on Mangaia—around A.D. 1000—they found the central volcanic hills well forested, probably ideal for shifting cultivation. But a lack of soil nutrients in the deeply weathered laterite inhibited forest regrowth. Tropical storms washed the exposed, thin organic soil layer blanketing the hillslopes down into the valley bottoms. Within a relatively short time the hills, deprived of their soil cover, became worthless for agriculture, a kind of no-man’s-land. Meanwhile, the narrow valleys were converted through terracing into the main centers of agricultural production.
+
+In a spacious rockshelter called Tangatatau (site MAN-44) along the makatea escarpment in the Veitatei District, our excavations uncovered a rich archaeological record of adzes, fishhooks, and other artifacts, along with abundant faunal and floral assemblages, that spans most of the island’s prehistory (fig. 8.3). Based on the finds from Tangatatau and other sites, a four-phase sequence can be outlined for Mangaia (Kirch, ed., 2017). The initial Vairorongo Phase (A.D. 1000–1300) is represented by a coastal midden with artifacts typical of Early Eastern Polynesian assemblages (Katayama and Shibata, eds., 1999). By the succeeding Tangatatau Phase (A.D. 1300–1400), people had moved inland, living around the swampy wetlands and establishing the island’s horticultural production system. They cultivated Colocasia taro, giant swamp taro (Cyrtosperma chammissonis), bananas, sugarcane, coconut, Tahitian chestnut, and breadfruit; raised substantial numbers of pigs; and also kept dogs and chickens.
+
+
+
+
+FIGURE 8.3 The large Tangatatau rockshelter in Veitatei District, Mangaia, contains a well-stratified sequence of occupation deposits. (Photo by P. V. Kirch.)
+
+
+
+
+
+Tangatatau Phase material culture is similar to that from other early central Eastern Polynesian sites. Basalt adzes included untanged quadrangular forms but also quadrangular tanged adzes, and others with triangular cross sections. The fishhooks were made mostly from pearl shell, which does not occur locally on Mangaia and had to be imported, most likely from other islands in the Southern Cooks (see fig. 7.10). The adzes were imported from Samoa, the Marquesas, and Rurutu (Austral Is.), indicating that the small community on Mangaia was connected to a wider network via interarchipelago voyaging (Weisler et al. 2016).
+
+The Ngaaitutaki Phase (A.D. 1400–1600) is represented by four sites in different parts of the island, attesting to the expansion of settlement over the island’s interior. Mangaia may have achieved a population peak by the early 1400s, supported by the irrigated taro pondfields in the valley bottoms. Evidence from the swamp cores and pollen analysis reveals that the indigenous forest of the volcanic hillsides had been replaced by fire-resistant fernlands and scrub Pandanus. Production of pigs declined but—at Tangatatau at least—was offset by increases in marine mollusk and fish exploitation. The indigenous fruit bat (Ptero-pus tonganus) had become extirpated, along with many species of rails, doves, pigeons, and lorikeets, by human predation combined with the indirect impacts of forest clearance and habitat alteration. Whereas 19 species of land birds and 12 species of seabirds were present on the island in A.D. 1000, only 5 and 6 of these species, respectively, survived into the historic period (Steadman 2006). Dogs dropped out of the archaeological record by the end of the Ngaaitutaki Phase. The bones of rats, however, are abundant in the Tangatatau strata for this phase, having become a regular part of the diet.
+
+During the Ngaaitutaki Phase, fishhooks, which previously had been manufactured mostly from the imported pearl shell, were now made almost entirely from the locally available Turbo setosus shell. This suggests a decline in external contacts with other islands, hinting that Mangaia was beginning to close in on itself socially. The basalt adze complex also exhibits major changes, with the untanged quadrangular adzes that were so prevalent in the preceding phase being replaced by highly distinctive tanged adzes with either quadrangular or, more often, triangular cross sections (fig. 8.4).
+
+
+
+
+FIGURE 8.4 Selected artifacts from the Tangatatau rockshelter site, Mangaia: top row, bone awls, coral abraders, sea urchin spine abrader, bone plaque; second row, basalt coconut grater head, basalt awl; third row, coral gaming disk, coral abrader; bottom row, basalt adz sections. (Drawings by Judith Ogden.)
+
+
+
+
+
+The Ngaaitutaki Phase was also a time of heightened interpersonal violence, warfare, and possibly cannibalism. The strongest evidence for this comes from the Ana Manuku rockshelter (site MAN-84), where forty-one human bodies, including both sexes and ranging in age from newborns to adults, were cooked in earth ovens and their bones disposed of in a midden context (Steadman, Antón, and Kirch 2000).
+
+The final phase of the Mangaia sequence—the Tautua Phase (A.D. 1600–1830)—takes up the last two centuries preceding contact with Europeans and missionization (beginning in 1824). Key evidence for the Tautua Phase comes from a large refuge cave (site MAN-54, Tautua Cave) and from several open habitation terraces (Endicott 2000). In Mangaia’s late prehistoric settlement pattern, habitations were concentrated in clusters of artificial terraces on ridges adjacent to irrigated taro fields, with marae or lineage temples as central foci. These simple marae consisted of earthen terraces paved with coral gravel, and with upright speleothems (stalactites and stalagmites) removed from makatea caverns placed as godstones. During warfare, groups took refuge in caves in the makatea. The large Tautua refuge cave studied by our team contained stone house foundations and cooking areas (fig. 8.5).
+
+
+
+
+FIGURE 8.5 The interior of Tautua refuge cave in Tamarua district, Mangaia, with platforms constructed of speleothems. (Photo by P. V. Kirch.)
+
+
+
+
+
+Pigs had been eliminated from the island’s subsistence system by the end of the Tautua Phase. With dogs and fruit bats already extirpated in earlier times, this left the diminutive Pacific rat as the only mammal (other than, potentially, humans) available as a protein source. As we know from the ethnohistoric records, rats had indeed become a major food item. Most land birds had been extirpated, but interestingly the faunal record at Tangatatau exhibits a late phase of targeting nesting or roosting seabirds in remote parts of the makatea. The exploitation of marine shellfish and fish declined in intensity during this phase, with evidence for resource depression both in the marine mollusk Turbo setosus and in certain reef fish.
+
+Rather than evolving toward ever-increasing hierarchy, Mangaian society had followed its own distinctive trajectory, constrained by the cumulative actions of previous generations. The Mangaian polity had moved away from a rigid hierarchy based on hereditary power to one in which overt military power was to the fore. The Mangaian elites used ideological control, to be sure, as in the mytho-praxis that put the Janus-like god of war and taro, Rongo, at the center of the principal cult (fig. 8.6). But there was little “materialization” of ideology (e.g., monumental temples or sculpture) as seen in other Polynesian societies. Perhaps the Mangaians could not afford such a luxury; their backs were up against a wall, with a severely resource-limited environment in which—lacking sufficient cultural controls on population growth—the only outlet appeared to be intense competition for land. Late precontact Mangaian society had become, to a pervasive degree, a society controlled by warriors and based on terror (see Kirch 1997b).
+
+
+
+
+FIGURE 8.6 A complex set of ideological relationships linked the paramount chief of Mangaia (Te Mangaia) to the god Rongo in proto-historic Mangaian society. (From Kirch 1997c.)
+
+
+
+
+
+THE MARQUESAS, TE FENUA ‘ENATA“Land of men” is the name given by the Polynesians to the Marquesas Islands (map 12), seven midsized high islands lying northeast of Tahiti and the Tuamotus, with a land area of 1,048 square kilometers (330 square kilometers are taken up by the largest island, Nuku Hiva). The cold Humboldt Current sweeping up on the islands from Peru inhibits coral growth, leaving the Marquesas bereft of reefs or lagoons. Valleys descend to deep bays, with rocky headlands separating one valley from another (fig. 8.7). Most Polynesian crops thrive in the fertile volcanic terrain, but periodic droughts beset the archipelago, sometimes lasting years.
+
+
+
+
+FIGURE 8.7 The Marquesas Islands lack developed reefs and have amphitheater-headed valleys with deep bays, as seen in this view of Ua Pou Island. (Photo by P. V. Kirch.)
+
+
+
+
+
+Although its people share a common language and culture, the archipelago was never politically unified. The occupants of particular valleys typically formed independent polities, which were frequently at war with one other. As in Mangaia, the proto-historic social structure was fluid, but there was no paramount chief comparable to the Te Mangaia.9 Power was shared, uneasily, among three main status groups: the hereditary chiefs (haka‘iki), the inspirational priests (tau‘a), and the warriors (toa). The toa frequently raided neighboring valleys, seeking human sacrificial victims for the memorial feasts of deceased chiefs and priests; if the accounts are accurate, their flesh was frequently consumed in cannibalistic rites (Handy 1923:218–21). Breadfruit was the main orchard crop, and the Marquesans elaborated pit storage and fermentation of breadfruit to a greater level than anywhere else in Remote Oceania, digging subterranean silos with capacities of up to 200 cubic meters. Located in the deep recesses of valleys or on fortified ridges, these ma pits provided food reserves in times of drought and famine.
+
+The Marquesan archaeological record is among the most thoroughly investigated in Eastern Polynesia.10 Robert Suggs (1961) first divided Marquesan prehistory into four periods; his basic sequence, with modification and amplification over the years, remains a useful framework. However, advances in radiocarbon dating have compressed the sequence to about one-half of the time span originally proposed by Suggs (fig. 8.8).
+
+
+
+
+FIGURE 8.8 Chart showing how redating of Marquesas settlement has greatly shortened the length of the cultural sequence. (Courtesy of Melinda Allen.)
+
+
+
+
+
+The Marquesas archipelago was first settled around A.D. 850–1000 (M.S. Allen 2014; Anderson et al. 1994; Conte and Molle 2014), with a few coastal hamlets at the mouths of the larger and more fertile valleys. The earliest sites reveal a typical Eastern Polynesian material culture, with one-piece fishhooks of pearl shell, plano-convex and incipiently tanged basalt adzes, abraders of Porites coral, and other objects. A handful of sherds of plain ware pottery have been found at four sites, including Ha‘atuatua and Hane (Allen, Dickinson, and Huebert 2012). The sherds at Ha‘atuatua were imports from Fiji; the other sherds may also be from imported vessels, although local manufacture has not been entirely ruled out.11
+
+The Developmental Period, from A.D. 1100 to 1300, continued the cultural pattern set in the preceding Settlement Period. Rolett (1998) sees little evidence of artifactual change between the Settlement and Developmental Periods in the Hanamiai site on Tahuata (fig. 8.9). There were, however, changes in resource exploitation. Endemic and indigenous land bird and seabird populations were greatly reduced (Steadman 2006). A sharp decline in sea mammal and turtle bones between the Settlement and Developmental contexts and later deposits is also evident.12 At the same time, pig bones appear in some quantity in late Developmental Period sites, reflecting efforts at establishing more intensive agricultural production systems, including pig husbandry. At the Hanamiai site, a succession in the land snail assemblages from endemic and indigenous species to introduced species reflects the Polynesian establishment of a “transported landscape” (Rolett 1992). The Hanamiai faunal record amply documents bird extinctions and extirpations, with the greatest impact occurring within the first three hundred years following human settlement (ca. A.D. 1025–1300) (Steadman and Rolett 1996). Rolett comments on these changes as follows:
+
+Local increases in the density of human populations occurred rapidly, and simultaneously with the local depletion of wild species originally abundant in newly settled valleys. In the absence of a well developed food production system based on agriculture and domestic animals, the declining availability of wild species presumably stimulated human populations to seek out new resources. Population shifts to previously unsettled valleys would have alleviated pressure on subsistence systems in both old and new communities, prolonging the viability of a broad spectrum subsistence strategy. The initial settlement of Hanamiai, around A.D. 1000–1100, apparently represents one such population movement in this process of range expansion. (1996:538)
+
+
+
+
+FIGURE 8.9 The Hanamiai dune site on Tahuata Island yielded important information on the early phases of the Marquesan cultural sequence. Note the exposed stone pavement. (Photo courtesy Barry Rolett.)
+
+
+
+
+
+The Expansion Period (A.D. 1300–1600) witnessed the greatest transformation in Marquesan society, setting the stage for the Open society documented in the proto-historic era. Suggs (1961:182) wrote that “the population of Nuku Hiva, which had been increasing in the large verdant valleys on the south and east coasts, suddenly broke out,” with sites now appearing even in the most marginal areas. Rolett (1989:108) concurs that the “settlement pattern of this period reflects rapid population growth.” In material culture, basalt adzes distinctive to the Marquesas now appear in quantity, as well as the jabbing form of pearl-shell fishhook, replacing a wider diversity of hook forms in earlier periods. New kinds of architecture make their appearance in the Expansion Period, such as ridgetop fortifications (often with breadfruit storage pits), stone house platforms (paepae), temple foundations (me‘ae), and dance or feast centers (tohua). The tohua are rectangular courts (fig. 8.10), often constructed as leveled terraces, surrounded by house platforms and other structures (and sometimes incorporating me‘ae). As Suggs (1961:183) observed, “The construction of such ceremonial centers by subtribes marks the beginning of the intergroup rivalry that was so marked in the Historic period.”
+
+
+
+
+FIGURE 8.10 Plan map of the Vahangeku‘a tohua site in Taipivai Valley, Nuku Hiva, Marquesas. (After Suggs 1961.)
+
+
+
+
+
+Suggs (1961:183) had little doubt that the causes of the “sudden appearance and proliferation of settlements in the marginal areas” were fundamentally linked with the population explosion of this phase. This demographic transition coincided with the depletion of wild faunal resources; no doubt food stress was periodically exacerbated by the archipelago’s droughts. Certainly the Marquesan population was making substantial efforts to intensify and augment agricultural production by constructing irrigated terraces (Addison 2001) and food storage pits. During the Expansion Period, Marquesans also intensified their pig husbandry and engaged in competitive pig feasting (West 2007). However, the appearance of fortifications signals territorial aggression and raiding, the dark side of a society that increasingly pushed the ability of its island ecosystem to sustain a burgeoning population.
+
+During the Classic Period (A.D. 1600–1790), patterns that arose during the Expansion Period came to florescence. Settlement distribution remained widespread and dispersed, with one exception: “the beaches were generally shunned, and the entire population seemed to gravitate inland, moving up high into the valley heads for protection from increased raiding from the sea” (Suggs 1961:185). Classic Period architecture was elaborated further, reflecting the power of chiefs, inspirational priests, and warriors to command the labor of their followers. Tohua platforms reached truly massive proportions, as in the Vahangeku‘a site in Taipivai Valley on Nuku Hiva or at Ta‘a‘oa on Hiva Oa (fig. 8.11). On some tohua, or on me‘ae temples where the inspirational priests officiated, large anthropomorphic statues were erected (fig. 8.12). House platforms of the elites reached “megalithic” proportions. Associated with these constructions were many breadfruit storage pits, some with cavernous capacities. The material arts of the Classic Period attest to a florescence of craft specialization by experts (tohunga) under elite patronage (fig. 8.13). Chiefs and warriors sported finely carved bone ear plugs and hair spools, while anthropomorphic designs graced the heads of food (popoi) pounders. Early European accounts and drawings attest to the artistic apogee achieved by Marquesan tattooing during the Classic Period.
+
+
+
+
+FIGURE 8.11 A view of the central ceremonial plaza on the Ta‘a‘oa tohua site on Hiva Oa Island, Marquesas. (Photo by P. V. Kirch.)
+
+
+
+
+
+FIGURE 8.12 A large anthropomorphic statue, carved from red volcanic tuff, at Puamau, Hiva Oa Island, Marquesas. (Photo by P. V. Kirch.)
+
+
+
+
+
+FIGURE 8.13 A small tiki, or human figure, carved in the late Classic style, in the Hane Valley of Ua Huka, Marquesas. (Photo by P. V. Kirch.)
+
+
+
+
+
+The historical trajectory of the Marquesas reflects the limiting constraints of the environment (including the effects of human-induced resource reduction), combined with population growth to a high density level, spurring intense competition for land and other resources. In the social arena of everyday life, this competition played itself out in continuous prestige rivalry between the hereditary elite and the achieved-status elite of warriors and inspirational priests. Suggs (1961:186), nonetheless, reminds us that there was a deeper level of causation: “The cause of the intense prestige rivalry may be seen in the relation of the population to the habitable land. As the population increased beyond the point at which all possible ecological niches became filled, intergroup conflicts over land would have increased. . . . The need to acquire and hold the land necessary for existence and to increase the areas held to accommodate population increases intensified to an extreme the rivalry apparently present in most Polynesian societies.”13 In an analysis of the Marquesan sequence, I described what transpired in the later prehistoric periods as a kind of “competitive involution,” in which “a dynamic context of rapid population growth, pervasive environmental hazards (especially drought), ecological degradation, and acute competition over productive resources fostered rivalry between inherently contradictory hereditary and achieved status positions. The result was an involuted cycle of prestige rivalry and competition that led as often to the destruction of the very means of production which were the objects of competition” (Kirch 1991a:144).
+
+Comparing the archaeological records of Mangaia and the Marquesas, both of them Open societies in Goldman’s conception, similarities as well as striking differences are evident. In both cases, initial human actions led to resource depletion, partially offset by intensification of agricultural production. Population growth and, eventually, high density levels unquestionably played an important role in the transformation of both societies. In both cases, military power, exercised by a warrior class (toa), came to challenge the traditional authority of the hereditary chiefly elite as warriors and chiefs vied with the spiritual authority of priests. In Mangaia, however, while a unifying polity—if always a fragile and temporary one—was achieved through conquest, there was little of the material elaboration of visual power displays, whether in personal ornamentation (including tattooing as well as mobiliary art) or in standing architecture, that characterizes the Marquesas. This may be primarily a matter of scale and of the available resource base. During hard times of drought and famine, the Marquesans found themselves in difficult straits, yet at other times their economy was able to support a level of craft specialization, as well as labor investment in monumental public works, that was never present in Mangaia. Parallels, yet differences: such contrasts offer clues to the essentials of Polynesian history.
+
+
+MANGAREVA AND THE PITCAIRN GROUPMangareva (also known as the Gambier Islands) consists of an “almost-atoll” of ten small volcanic islands contained within a vast barrier reef and lagoon. The largest island, Mangareva (which lent its name to the group), was the seat of the most powerful chiefdom and location of the sacred marae Te Kehika at Rikitea. The Mangareva islands are severely deforested, although coastal sediments containing the shells of now-extinct endemic land snails indicate the former presence of forest cover. Small taro patches in the narrow valley bottoms and breadfruit groves along the coastal plains provided the main food supply. The ethnographically described society was characterized by food scarcity, endemic warfare, and occasional cannibalism (Hiroa 1938a).
+
+Emory (1939) reported that almost all of the Mangarevan marae had been destroyed by nineteenth-century Catholic missionaries, with the exception of the abandoned, nearby atoll of Temoe, where these religious structures remained intact. Roger Green initiated modern archaeology in 1959, excavating rockshelters on Kamaka and Aukena Islands, but his results remained unpublished for many years.14 Since 2001, renewed investigations under the direction of Eric Conte and Kirch have greatly increased our understanding of Mangarevan prehistory (Conte and Kirch, eds., 2004; Kirch, Conte, et al. 2010; Kirch, Molle, et al. 2015).
+
+The Onemea site on Taravai Island (site TAR-6), a fishing camp situated atop a sand dune, was utilized from A.D. 950–1000 until about A.D. 1400 (Kirch, Conte, et al. 2010). In addition to pearl-shell fishhooks of Early Eastern Polynesian style (fig. 8.14), the Onemea deposits yielded numerous bones of the Tahiti petrel (Pseudobulweria sp.) and other species of shearwaters and petrels, suggesting that Mangareva was a significant seabird rookery at the time of early Polynesian colonization. The Nenega-Iti rockshelter (site AGA-3) on Agakauitai Island was occupied from A.D. 1300 up to European contact (Kirch, Molle, et al. 2015). Here again, seabird bones decline dramatically from the early to later deposits, matched by a sequence of vegetation change from indigenous forest to a landscape dominated by Polynesian introduced plants. The deep, stratified deposits of Kitchen Cave (site KAM-1), a rockshelter on Kamaka islet reexcavated by Kirch in 2012 and 2014, yielded more than sixty pearl-shell fishhooks, along with a faunal sequence showing a major decline in seabirds and heavy reliance through time on fish and shellfish resources.
+
+
+
+
+FIGURE 8.14 Pearl-shell fishhooks from the early Onemea dune site on Taravai Island, Mangareva (Gambier) Islands. (Photo by P. V. Kirch.)
+
+
+
+
+
+The faunal assemblages from the Onemea, Nenega-Iti, and Kitchen Cave sites document a dramatic reduction in populations of nesting and roosting seabirds on the Mangareva islands. This decimation of seabirds had serious consequences for Mangareva’s terrestrial ecosystem, as the birds played a keystone role in bringing a steady flow of nutrients to the islands through deposition of their guano. Stable isotope analysis of rat bones from these sites shows a decline in nitrogen levels correlated with the extirpation of the bird populations (Swift, Miller, and Kirch 2016). The near-total deforestation of Mangareva in late prehistory was at least in part a consequence of this interruption of seabird nutrient cycling.
+
+Although the late precontact settlement landscape of Mangareva was heavily affected by missionary activity such as the destruction of marae, some vestiges of these settlement patterns remain intact, such as the Atituiti area on Mangareva Island, with a complex of habitation sites and agricultural terraces (Conte and Kirch, eds., 2004:47–60). At Atituiti, on a plateau overlooking the lagoon, a large square paepae about 23 meters long and wide, paved on top and with a massive basalt “seat” in the center (fig. 8.15), matches a description by the Catholic priest Laval of an “observatory” for marking the winter solstice. According to Laval, the Mangarevans annually calibrated their lunar calendar by observing the solstices (Kirch 2004).
+
+
+
+
+FIGURE 8.15. Large stone seat atop a stone platform, or paepae, at Atituiti, Mangareva. This site served as an observation point for the winter solstice, which determined the Mangarevan year. (Photo by P. V. Kirch.)
+
+
+
+
+
+Some 400 kilometers farther east from Mangareva lie Pitcairn Island (of Bounty mutineer fame) and Henderson, both of which were unoccupied at the time of early European exploration.15 The most complete data come from Henderson, where Weisler (1994, 1995, 1996b, 1998b) carried out archaeological surveys and excavations in 1990–92. An upraised makatea block with limited reef (much of the coast consists of sea cliffs), Henderson has almost no soil and surface water is entirely lacking. Despite these limitations, well-stratified deposits in rockshelters and one beach site testify to a continuous Polynesian presence on the island from A.D. 900 until perhaps 1500. Throughout most of this period, the occupants imported pearl shell for fishhook manufacture, basalt and pitchstone for adzes and flake tools, and volcanic oven stones. The volcanic imports came from nearby Pitcairn and from distant Mangareva. Around A.D. 1450, these imported items disappear from the stratigraphic sequence on Henderson. The uppermost strata instead contain distinctive artifacts utilizing locally available materials (inferior Isognomon shell for fishhooks, fossilized Tridacna shell for adzes), reflecting an effort to adapt to strictly local resources. But the sites were soon abandoned; the island was devoid of people when first sighted by Europeans.
+
+What happened on Henderson—or for that matter on Pitcairn, an island somewhat larger and better endowed with soil and water, but which was also unoccupied when, in 1790, the Bounty mutineers came ashore to seek refuge from the long arm of the British Admiralty? The answer appears to lie in Mangareva, to which these outposts were for several centuries vitally linked. As Weisler (1996b:627) argues, these “so-called ‘mystery islands’ with their marginal ecological conditions and isolation taxed the capabilities of Polynesian colonization strategies to the physical and social limits.” Only through continued interaction with larger Mangareva—source not only of oven stone, but presumably also of continuing economic, demographic, and social support that has left no direct material traces—could human existence on these isolated specks of land be long sustained. Internal strife, combined with deforestation and a lack of timber to build voyaging canoes, probably led the Mangarevans to abandon their long-distance voyaging to remote Pitcairn and Henderson. When that lifeline was severed, the human populations on Pitcairn and Henderson soon perished or abandoned the struggle.
+
+
+THE AUSTRAL ISLANDSThe Austral Islands, an age-progressive archipelago of five high islands strung out over 1,000 kilometers, define the southern fringe of central Eastern Polynesia (map 12). The youngest island, Rapa, lacks a coral reef, while the next oldest, Ra‘ivavae, is a high island surrounded by an extensive barrier reef and lagoon. The oldest islands (10 million to 20 million years old), Rurutu and Rimatara, have volcanic interiors encircled with aprons of uplifted makatea. Although never politically unified, Tubuai, Rurutu, and Rimatara had regular contact with each other and with Mangaia and other islands in the Southern Cooks, sharing aspects of their cultures. Ra‘ivavae, and especially Rapa, being much more isolated, developed distinctive cultural and linguistic traits that set them apart.
+
+The Australs have been among the most archaeologically neglected islands of Eastern Polynesia.16 Vérin (1969) investigated the Classic Period of Rurutu with a study of the Vitaria site complex whose numerous large, oval-ended house foundations and associated marae (fig. 8.16) were associated with the island’s paramount chief. The Peva sand dune site on the east coast, excavated by Bollt (2008), takes the archaeological record back to the Archaic Period between A.D. 1280 and 1410, characterized by an adze kit dominated by untanged, quadrangular forms. The following Classic Period (A.D. 1410–1821) was marked by population growth, agricultural intensification, and internal struggles for political hegemony. The rise to power of the Vitaria group was probably aided by their control over the major basalt adze quarry; Rolett et al. (2015) have shown that Vitaria adzes were at one time exported well beyond the Austral Islands.
+
+
+
+
+FIGURE 8.16. Large round-ended chief’s house and associated pavement at Vitaria, Rurutu, Austral Islands. (Photo courtesy Barry Rolett.)
+
+
+
+
+
+Tubuai and Rimatara in the western Australs have been less intensively studied. On Rimatara, Eddowes (2004) recorded numerous marae, whose forms resemble those of Mangaia and other Southern Cook Islands temples. On Tubuai, an important, well-stratified coastal site at Atiahara, dated to the settlement period (A.D. 1215–1390) and containing Early Eastern Polynesian artifacts, has been excavated repeatedly, yet remains incompletely reported (Hermann, Bollt, and Conte 2015). The Tanataetea adze quarry was the source of many adzes finished at Atiahara (Hermann 2013). When fully analyzed and published, the Atiahara site will doubtless expand our understanding of Tubuai’s early history. The large high island of Ra‘ivavae boasts distinctive marae, some of which were outfitted with impressive anthropomorphic statues reminiscent of Marquesan tiki (Edwards 2003). Until excavations are undertaken, however, the precontact history of Ra‘ivavae will remain enigmatic.
+
+Rapa Island lies far to the southeast and hence has a subtropical to temperate climate in which Polynesian crops such as coconut or breadfruit will not grow or bear fruit. Lacking a coral reef, the marine biodiversity is also limited. The alluvial valley bottoms, converted into intensive taro irrigation systems, were thus the central focus of the subsistence economy. Overlooking the irrigated lands, the several tribes occupied fortified ridgetop villages (called pare, the Rapan variant of fare, the ubiquitous Polynesian word for “house”). Twenty-five hill forts sit atop defensive positions on the island’s circular volcanic crater rim. The Norwegian Archaeological Expedition in 1956 excavated the Morongo Uta hill fort (fig. 8.17), radiocarbon dated to the proto-historic period (A.D. 1640–1740). The fortified peak has a central tower surrounded by tiers of stone-faced habitation terraces extending outward on three ridges (Heyerdahl and Ferdon, eds., 1965).
+
+
+
+
+FIGURE 8.17 The fortified ridgetop village site of Morongo Uta, Rapa Island, after the completion of excavations by the Norwegian Archaeological Expedition in 1956. Note the stone-faced terraces and the central tower. (From Heyerdahl and Ferdon, eds., 1965; courtesy Kon Tiki Museum, Oslo.)
+
+
+
+
+
+In 2002, Anderson and Kennett (2012) obtained new data on Rapa, including extensive radiocarbon dates from the fortified village sites. Excavations in Tangarutu Cave, combined with coring and pollen analysis of the coastal taro swamps, indicate initial colonization of Rapa between A.D. 1100 and 1200 (Anderson and Kennett, eds., 2012:196). Taro irrigation began almost immediately. Given the lack of suitable large pearl shell or even Turbo shell to make fishhooks, Rapan fishermen innovated by carving small angling hooks out of hard candlenut shells (2012:figs. 9.1, 9.2). Nonetheless, with subsistence heavily dependent on the narrow, irrigated valley bottom, competition and conflict over land did not take long to develop. The first two fortified hilltop settlements (Noogurupe and Ruatara) were constructed between A.D. 1300 and 1400, followed by more forts between 1400 and 1650, and then even more rapid expansion of fortified redoubts during the 1700s (2012:201). Much like Mangaia, then, the history of Rapa was one of intense competition in the face of environmental constraints and limited resources:
+
+It can be hypothesized the levels of competition for resources had reached quite extreme levels by late prehistory. On Rapa, there may have been 10 competing polities, each the proud lords of, on average, fewer than 4 km2 of land, nearly all of it steep and largely barren. Perhaps only such a level of competition can have made the labour and inconvenience of building and living in the skyline forts seem at all worthwhile (Anderson and Kennett, eds., 2012:254–55).
+
+
+RAPA NUI: “NAVEL OF THE WORLD”The Dutch voyager Jacob Roggeveen bestowed the appellation “Easter” on this remote speck of land on Easter Day, 1722 (map 13). More evocative is the islanders’ own name, Te Pito-te-Henua, deriving from the Polynesian words for “land” (henua) and “navel” (pito). Although often translated as “Navel of the World,” pito also means “end,” hence a rendering as “Land’s End” might be more appropriate (Métraux 1940:34–35; Routledge 1919:209–10). Rapa Nui, the name commonly used today, probably arose in the nineteenth century in order to distinguish Easter Island from Rapa Iti in the Austral chain. (To make matters more confusing, the name of the language spoken by the Polynesian inhabitants of Rapa Nui is typically spelled Rapanui.)
+
+
+
+
+MAP 13 Rapa Nui (Easter Island), showing the location of key archaeological sites.
+
+
+
+
+
+The early work of Katherine Scoresby Routledge (1919) in 1914–15 (see chap. 1) was followed by the valuable salvage ethnography of Alfred Métraux (1940) and Père Sabastian Englert (1948, 1970),17 but not until the Norwegian Archaeological Expedition of 1955–56 were modern stratigraphic excavation techniques brought to bear on the enigmas of Rapa Nui history. A great deal of intensive work has followed, providing the outline of a precontact sequence for the island.18 Intensive archaeological survey, commenced by Patrick McCoy, was continued by Claudio Cristino and Patricia Vargas of the University of Chile, and more recently by other teams, resulting in a record of more than twenty thousand sites.19 The island’s famous stone statues were studied by Van Tilburg (1986, 1987, 1988) and Vargas (1988). Paleoecological research, including sediment coring of the island’s crater lakes to obtain a record of vegetation change through pollen analysis, provides a critical history of human-induced environmental change.20
+
+Over the past quarter century Rapa Nui has occupied center stage in a debate over the role of humans in changing the earth’s ecosystems. Paul Bahn and John Flenley, in Easter Island, Earth Island (1992; see also Flenley and Bahn 2002), first launched the idea that Rapa Nui’s history might stand as a parable for the planet at large. Jared Diamond, in his widely read Collapse (2005), invoked Rapa Nui as an ultimate case of “ecocide”—“a society that destroyed itself by overexploiting its own resources” (118). But there has been substantial pushback to the “collapse” scenario. The archaeologists Terry Hunt and Carl Lipo, in The Statues That Walked (2011), invoke an almost diametrically opposed history, in which the island’s population never exceeded three thousand persons, practiced highly productive horticulture, and was mostly peaceable. According to Hunt and Lipo, “collapse” came only after European contact, with disease and slave raiding.21 In my view, “what really happened” on Rapa Nui lies somewhere between these extreme scenarios.22
+
+Excavations at Anakena Bay (Steadman, Vargas, and Cristino 1994:table 2)—according to oral traditions the site of the first landing by the navigator-chief Hotu Matua—yielded radiocarbon dates between A.D. 980 and 1280, consistent with recent evidence for initial Polynesian settlement early in the second millennium A.D. in the Marquesas and Mangareva.23 The deep layers at Anakena contain abundant seabird bones of at least twenty-five species, of which only a single species survives. Pollen cores obtained from the crater lakes, as well as macrofossil seeds, testify to an island originally cloaked in a palm forest (with the dominant palm [Paschalococos disperta] being related to the large, erect Chilean oil palm), completely unlike the treeless landscape that greets modern visitors. As in Mangareva, the seabirds surely played an important ecological role by depositing nutrient-rich guano that fertilized and sustained the original forest; when the bird populations were decimated following human settlement, the nutrient content of the island’s old soils gradually declined.24
+
+During the course of Polynesian occupation, the original forest cover was virtually eliminated, with consequences that are only partly understood. While clearance for gardening, using stone adzes and fire, was undoubtedly a major cause of deforestation, the Polynesian introduced Pacific rat (Rattus exulans) may also have fed on palm seeds and seedlings, hindering forest regrowth.25 The removal of the palm forest had negative repercussions for fuel and construction needs, and certainly also for timber with which to transport the statues.26 More critical may have been the exposure of the island’s landscape to erosion by wind and sheet wash, reducing soil fertility and agricultural productivity. The Anakena deposits revealed a substantial reduction in seabirds over time. Given that Rapa Nui has almost no true coral reef and an impoverished marine fauna, birds were probably a key protein source in the early years of human colonization, one that was virtually eliminated by later prehistory.
+
+Rapa Nui, at 160 square kilometers, is more than three times the size of Mangaia, and virtually all of its land surface (except the crater lakes) is arable. Thus, whereas a maximal population of perhaps three thousand struggled to produce sufficient food on Mangaia, the population of Rapa Nui at its peak certainly was much larger.27 There is no agreed-upon estimate for the island’s precontact population, but given the density of archaeological remains that literally cover the island’s surface, a figure of ten thousand persons (a density of 62.5 per square kilometer) or possibly more is in my view reasonable. Indeed, it is difficult to conceive of the scale of monumental public construction works undertaken on the island as feasible without a labor force of less than that magnitude.28
+
+Just when statue carving first began is not certain, but by A.D. 1100 small statues were already being quarried from the soft tuff of Rano Raraku volcano (fig. 8.18) and transported to and erected on temple platforms (ahu), ushering in what has been called the Ahu Moai Period (A.D. 1100–1500). The earliest ahu were small and utilized mostly natural stone in their construction, while later temples (at many ahu there is a stratified construction sequence) were larger and more elaborate, incorporating cut and dressed basalt and red scoria in their facings. At the apogee of this local sequence of architectural development stand such magnificent constructions as Ahu Tongariki (fig. 8.19) and the famous Ahu Vinapu, whose closely fitted slabs have sometimes erroneously been compared with Inca stonework. Ultimately some 245 ahu were constructed, primarily on the coast around the island’s perimeter (although there are a few inland ahu); 324 statues were erected on them (another 200-odd statues remain unfinished in the Rano Raraku quarry).
+
+
+
+
+FIGURE 8.18 Excavation by Jo Anne Van Tilburg and Cristián Arévalo Pakarati of an unfinished moai (6.6 meters high) at the interior quarry of Rano Raraku, Rapa Nui, in 2011. The moai base is inserted in prepared bedrock, and the upper dorsal side is embellished with petroglyphs. (Courtesy of Jo Anne Van Tilburg and the Easter Island Statue Project).
+
+
+
+
+
+FIGURE 8.19 The restored ahu of Tongariki, the largest statue temple ever constructed on Rapa Nui. The temple platform supports 14 moai, or statues. (Photo by P. V. Kirch.)
+
+
+
+
+
+The oldest ahu—those that through continued rebuilding gradually became the largest, with the greatest number of statues—are found at the best embayments around the island. Each of these marked the center of a territorial unit (kainga) constituting the estate of a “tribe” or descent group (Métraux 1940, 1957). As these social groups splintered, subsidiary temples were built at distances to either side flanking the coast, marking subgroup territories. The statues represented deified ancestors. The chiefly elite constructed their houses with foundations of cut and dressed basalt immediately inland of the ahu plazas, and thus literally under the gaze of the ancestors.29
+
+Stretching inland from these elite centers—dominating the bays and visually “controlling” access to the limited marine resources—were the habitations and gardens of the common people. These were clusters of small round, oval, or rectangular houses with rough stone foundations, a cooking facility marked by a stone-outlined oven, and cultivation features such as manavai, walled pits that protected bananas or other plants from incessant winds (Yen 1988). The most important crop was the sweet potato (Ipomoea batatas), which had been introduced into Eastern Polynesia from South America (see chap. 7). Sweet potatoes thrived in the relatively dry and subtropical conditions of Rapa Nui. Joan Wozniak, Chris Stevenson, and others have shown that the Rapa Nui farmers developed innovative methods of “rock mulching” to enhance the nutrient properties of the island’s otherwise relatively poor soils.30
+
+Statue quarrying seems to have ceased as intertribal raiding and warfare became pervasive, during what has been called the Huri Moai Period,31 from about A.D. 1500 to 1722. In all likelihood, this transition was not abrupt, for the incorporation of older statues into the foundations of more recent temples suggests that raiding and overthrowing of the ancestral figures began even while the carving of new and ever larger statues continued. However, the rise of endemic warfare is clear from the late precontact archaeological record. The finely worked basalt foundation slabs of elite houses were pulled apart and used to fortify subterranean lava tubes and caves. Late-period sites are replete with obsidian spear heads (mata‘a); lashed to short sticks, these could lacerate an enemy in close combat (fig. 8.20).32 Whatever economic power the hereditary elite once commanded, inducing their people to erect ideologically legitimating symbols of their and their ancestors’ glory, became thoroughly eroded. Power increasingly fell to the warrior class, the matatoa, or as they were figuratively called, tangata rima toto, the “men with bloody hands.”
+
+
+
+
+FIGURE 8.20 Mata‘a, obsidian spearheads, were used in the frequent intertribal conflicts of late prehistoric Rapa Nui. (After Métraux 1957.)
+
+
+
+
+
+Nonetheless, the popular notion that Rapa Nui society experienced a total “collapse” is not supported by the archaeological record. Rather, a series of economic, social, political, and religious transformations drastically changed the island’s culture in the last couple of centuries prior to European contact (Mulrooney 2012, 2013). By the proto-historic period, quarrying and the erection of new statues had come to a halt, although some statues were still standing when the first Europeans arrived. The ahu continued to hold some importance, with the dead now buried in crude stone-faced crypts erected under and between fallen statues. But the island’s ritual focus shifted to a narrow ridge on the crater rim of Rano Kau volcano, high above the sea, overlooking the offshore islets of Motu Iti and Motu Nui, the last refugia of the island’s once vast seabird populations. A bizarre cult of the manutara (sooty tern, Sterna fuscata) arose, with its ceremonial center at Orongo on the crater rim. There, in a cluster of subterranean stone houses, the representatives of the island’s tribes would gather annually to await the arrival and first egg-laying of the manutara on the offshore islets. The first contestant to retrieve such an egg and return with it to Orongo was proclaimed the tangata manu, “bird man,” bringing prestige and privilege to his people. The “bird man” himself would be secluded for one year in a special house at the now-silent statue quarry of Rano Raraku. Grant McCall has summarized this remarkable religious transformation:
+
+It is not surprising that the Rapanui, faced with an ecological crisis that threatened their entire social order, if not their very lives, should take the initiative to fashion a new religion more suited to their precarious times. Instead of a king for life, they opted for one elected by ordeal. Instead of many ancestors who descended from many ancestors, they propounded a single god [Makemake], whose image they carved in deserted rocks, on the bases of feud-toppled figures, and even around water-holes. (1980:38–39)
+
+One final aspect of Rapa Nui culture is the enigmatic rongorongo script, preserved primarily on wooden boards but appearing on other objects as well, such as staffs, pectorals, and statuettes (Barthel 1974; Fischer 1997). Given that the script does not appear on precontact stonework, it is likely to have been a proto-historic invention, possibly inspired by Rapa Nui elite being “made to witness, in pen and ink, the Spaniards’ deed of cession on 20 November 1770” (Fischer 1997:552). The script, nonetheless, is strictly an indigenous invention, with the individual glyphs probably originating in the “inventory of the island’s rock art” (Fischer 1997:553). The rongorongo texts, which were presented in a singing voice, encapsulated ritual or sacred recitations, including procreation chants. It is telling that the word rongorongo has cognates in other Eastern Polynesian languages, such as those of Mangareva and the Marquesas, where the related terms refer to genealogical chants (Kirch 1984a:273–74).
+
+
+SOUTHERN POLYNESIA: NEW ZEALANDIn 1642, the Dutch explorer Abel Tasman came upon a great “continental” land, which he took to be an extension of Australia, naming it Staten Land, later changed to Zeelandia Nova, or New Zealand (map 14). Its Polynesian inhabitants, the Maori, called the land Aotearoa, the “Long White Cloud.”33 Not until Cook’s navigations, almost a century and a half after Tasman, would the West learn that New Zealand consisted of two great islands, encompassing between them 501,776 square kilometers. Truly continental in their geography, North and South Islands are partly made up of fragments of the ancient Gondwanaland that broke apart from Australia millions of years ago and gradually migrated eastward (see chap. 2). What the Polynesians who ventured south in their exploring canoes must have thought upon first reaching these shores we can never know, but this new land—this whenua hou—confronted them and their descendants with wondrous surprises as well as formidable challenges.
+
+
+
+
+MAP 14 New Zealand, or Aotearoa, showing the location of key archaeological sites.
+
+
+
+
+
+As Anderson, Binney, and Harris (2014:76) aver, the huge islands of New Zealand were “an altogether different proposition for early settlement than any encountered previously by Polynesians.” The islands are temperate, the only part of Polynesia lying outside the tropical-subtropical zone in which Ancestral Polynesian culture developed. While the climate of the northern part of North Island is relatively mild—frosts, for example, are rare except in the central areas—climatic conditions become increasingly harsh as one moves south. For Polynesians with a tropical horticultural economy, this temperate climate posed a tremendous agronomic challenge, one successfully met only in parts of North Island and marginally in the northern part of South Island. Most Polynesian crops did not survive transplantation to New Zealand, and those that did (taro, Dioscorea yam, bottle gourd, paper mulberry, Cordyline fruticosum, and sweet potato) were confined to the milder regions of North Island, with one great exception: the sweet potato. A South American domesticate introduced prehistorically into central Eastern Polynesia (see chap. 7), the sweet potato was “preadapted” to a temperate climate, in part due to its seasonal growth habit and the annual dormancy of its tuber, permitting over-winter storage. The sweet potato became the staple basis of Maori economy where horticulture was feasible. Of the Polynesian domestic animals, only the dog was transferred to New Zealand.
+
+The colonizing Polynesians did not confine themselves to those parts of New Zealand where cultivation was feasible. Certain groups settled areas lying beyond the limits of sweet potato farming and occupied even the harshest parts of South Island, such as the magnificent fjord country. In a reversal of the general cultural evolutionary trend from hunting and gathering to agriculture, these Polynesians gave up an agricultural existence for a life based on hunting and intensive collecting, particularly of rich maritime resources. What made this economic shift possible in the first place was the presence of a remarkable food resource: several species of flightless birds known collectively as moa (see chap. 2). Another group split off from New Zealand around A.D. 1300 to sail 860 kilometers eastward and settle the Chatham Islands (Sutton 1980), where they developed a unique adaptation to a “cold water atoll.” Evidence from the mtDNA of Polynesian rats on the Chathams (Matisoo-Smith et al. 1998) suggests that there was but a single colonization of these remote islands, which were thereafter isolated until European contact. The indigenous Chatham Islanders, called Moriori, were largely exterminated by their Maori cousins in a devastating raid in 1835.
+
+This story of Polynesian migration from a tropical homeland to a challenging temperate landscape, filled with giant birds and strange plants, has gradually unfolded through a history of archaeological research that is one of the longest in Oceania. As early as 1848, W.B. Mantell observed the co-occurrence of moa bones and artifacts at Awamoa in South Island. In the 1870s, Sir Julius Von Haast (1872) investigated sites around Canterbury, developing a theory that the “Moahunters” had been a Paleolithic people responsible for exterminating the moa who were replaced much later by the Neolithic Maori. Twentieth-century ethnologists (who also undertook archaeological excavations) such as H.D. Skinner (1923–24) and David Teviotdale demonstrated that the “Moahunter” phase culture was actually of Polynesian origin and that there was no break between the Moahunters and the later Classic Maori.
+
+While there was much unsystematic digging in New Zealand prior to the 1950s, Jack Golson and Roger Green revolutionized the study of Maori archaeology, in terms of both field methods and conceptual frameworks (e.g., Golson 1959; Green 1963a; see chap. 1).34 With strong academic programs at the University of Auckland and the University of Otago, augmented by research at museums in Dunedin, Wellington, Canterbury, and Auckland, a prodigious amount of primary field and laboratory work has been carried out, far more than can be discussed here. And, as in Hawai‘i, a vigorous program of cultural resource management, or “contract” archaeology, has been added to the academic research program, largely funded by the Department of Conservation.35
+
+Early efforts to outline culture-historical sequences for New Zealand prehistory included Green’s influential synthesis (1963a) for the Auckland Province and that proposed by Leach (1981) for the southern Wairarapa. Recently, Anderson, Binney, and Harris (2014:73) put forward a simple, three-phase sequence for the entire archipelago: Colonization Phase (A.D. 1200–1400); Transitional Phase (A.D. 1300–1600); and Traditional Phase (A.D. 1500–1800). The temporal overlap between phases reflects some degree of regional variation over these vast islands.
+
+Artifact assemblages of the Colonization Phase are Early Eastern Polynesian in style, including tanged adzes, one- and two-piece fishhooks, bone reels, tooth pendants, and tattooing needles. These point to an immediate homeland for New Zealand’s colonizing population somewhere in central Eastern Polynesia, possibly the Southern Cook Islands, the Society Islands, or even the Australs (Green 1975; Sutton, ed., 1994). As noted in chapter 7, initial Polynesian arrival was not earlier than about A.D. 1200, making Aotearoa one of the last places on earth to be settled by preindustrialized humans.
+
+The Colonization Phase is especially well documented in South Island, where Polynesians arriving from the tropical islands made a rapid transition from a horticultural to a hunting and gathering economy. With this new economic base, population size and density in South Island remained relatively small, but sizable multifunction base villages were established at the mouths of river valleys, such as at Shag River Mouth, Wairau Bar, Murdering Beach, Papatowai, and Little Papanui.36 From these permanent base settlements, some of which covered several hectares, the interior regions were seasonally exploited for moa and other resources (including stone from nephrite and silcrete quarries). The moa, primary targets of this hunting strategy, comprised about thirteen species ranging in size from smallish birds about the size of a brush turkey up to Dinornis giganteus, which stood perhaps 3 meters tall (fig. 8.21).
+
+
+
+
+FIGURE 8.21 The largest moa towered over their Polynesian hunters. (After Cumberland 1962.)
+
+
+
+
+
+Among the Colonization Phase sites, Wairau Bar stands out as especially notable, in part because it may be a true founding settlement (Anderson, Binney, and Harris 2014:77). Originally excavated by Roger Duff (1942, 1950), this settlement covering more than 7 hectares included three discrete burial areas. One group of seven individuals, interred with an unusually rich array of grave goods including stone adzes, bone ornaments, and perforated moa eggs, may be original colonists who spent their childhoods elsewhere, based on recent analysis of stable isotopes in their bones (Kinaston et al. 2013). The Wairau Bar midden also underscores the immense quantity of moa exploited: 33 tons of bone representing possibly as many as 12,000 birds, along with 2,400 eggs (Anderson, Binney, and Harris 2014:77).
+
+Within a few centuries, the moa had been virtually exterminated through direct predation combined with extensive habitat disturbance. Fire was a main cause of habitat change, and fires were probably lit as a hunting strategy. Vast tracts of the South Island landscape were transformed from forest to grassland, as revealed in many pollen sequences.37 South Island settlement patterns changed in response, with a shift from the permanent village settlements to a more transient settlement pattern (Anderson and Smith 1996). But climate change is also likely to have played a role in driving cultural shifts beginning in the Transitional Phase. As Anderson, Binney, and Harris (2014:84) write, “Climate change probably played a significant role through declining temperatures in the fifteenth and sixteenth centuries in the southern hemisphere analogue of the Little Ice Age.”
+
+Over most of South Island, human population never reached high densities, with a total overall population on the order of 3,000 to 10,000, all that its hunting and gathering economy could sustain. In North Island, which had a horticultural economy based on sweet potato production, the situation was entirely different, and there was significant population growth. North Island’s maximal population prior to Tasman’s visit is still controversial. Davidson (1984:58) favors a figure of 125,000, but authorities such as Lewthwaite (1950) have argued for as many as 250,000 people. Archaeological surveys in the more agriculturally favorable parts of North Island reveal an amazing density of sites, and locally it would seem that population densities of 60 persons or more per square kilometer were frequently achieved (Jones and Law 1987).
+
+North Island’s larger population was directly related to the development of a horticultural economy, fueled by the sweet potato. Prehistoric Maori gardening systems, such as those at Palliser Bay and in the Auckland region,38 were frequently intensive, involving permanent stone and earthen field boundaries, mounds, and various kinds of mulch (including artificial gravel mulches). The sweet potato growing season lasted 6 to 7 months, dictating that the harvested tubers be stored for 5 to 6 months. The Maori stored their crop in subterranean pits of various shapes and sizes, often with internal drains and covered with thatched roofs supported by wooden posts.
+
+This horticultural economy, combined with dense settlement and the need to store key food resources during the winter months, led to a unique settlement pattern dominated by fortified hamlets or villages, known as pa.39 Displaying great variation in size and specifics of construction, pa were situated on naturally defensible hills, ridges, or headlands, modified by the excavation of ditches and other earthworks and by the erection of palisades (fig. 8.22). Such defense works typically enclosed a complex of storage pits, dwelling houses, cooking areas, and other activity spaces (fig. 8.23). There were also undefended settlements, however, as well as defensive positions enclosing clusters of storage pits (such as Taniwha Pa; see Kirch 1984a:fig. 66).40
+
+
+
+
+FIGURE 8.22 View of a hilltop pa site in the Pouto region of North Island, New Zealand. (From Irwin 1985b, courtesy of G. Irwin.)
+
+
+
+
+
+FIGURE 8.23 Plan of Tiromoana pa site, New Zealand, showing the defensive earthworks and numerous storage pits for sweet potatoes. (Courtesy of Roger C. Green.)
+
+
+
+
+
+The temporal development of pa has long been a focus of archaeological research in New Zealand.41 Anderson, Binney, and Harris (2014:89) date the origins of large storage pits to the Transitional Phase, but the main period of pa construction was certainly during the Traditional Phase, the sixteenth to seventeenth centuries. At several sites, unfortified hilltop settlements incorporating storage pits preceded the construction of earthworks and palisades. Irwin’s study of the Pouto region provides data on the temporal development of pa and their relationship to environmental resources. As Irwin (1985b:77) observes, “In the Pouto study area pa are dense; there is approximately one per square kilometer.” Based on the excavation and radiocarbon dating of twelve pa, Irwin found “the clear possibility that a majority of them were occupied at once,” between about A.D. 1650 and 1800 (1985b:fig. 47). He suggests that “at some point late in the prehistory of Pouto, the settlement system passed through some kind of stress threshold which resulted in a spate of pa building” (1985b:98). Such a threshold could have been the advent of a “full-land” situation (Kirch 1988a), based on Robert Carneiro’s general model of “social circumscription” in chiefdom-level polities.42 Schmidt (1996), based on a review of all radiocarbon dates then available from pa sites, argued for a shorter chronology of pa construction, commencing around A.D. 1500.
+
+North Island settlement patterns, dominated by defensive settlements distributed through an intensified horticultural landscape, correlate with ethnographic descriptions of proto-historic Maori warfare in which raiding frequently escalated to full-scale wars of territorial conquest. Vayda (1960, 1961) interpreted such warfare as a response to population pressure and competition for the best agricultural lands, a process that intensified once a region was fully occupied and territorially claimed by contending social groups. Roger Duff (1967:116), a longtime scholar of Maori prehistory and ethnography, viewed the critical causal linkages this way: “If we have to assign a specific reason for the evolution of warfare in the North Island rather than in the South or the Chathams, we can find it in the buildup of population which followed the adaptation of kumara [sweet potato] growing to a still marginal environment. If we have to explain the distinctively chronic nature of Classic Maori warfare, we may seek it in the inherent competition for good kumara land and in the one-crop season.” Yet as Mark W. Allen (1996) rightly argued, there was also a sociopolitical and economic aspect to pa development, not just a demographic and ecological context. Allen (1996:178) believes that “participation in regional polity formation, pa construction, and increased investment in horticulture and storage” consisted of “a negotiated partnership between ambitious leaders and wary but worried groups of followers.”
+
+Despite the sizable population of North Island in late prehistory, the Maori never amalgamated into large polities, nor did they undergo a sociopolitical transformation from a simple chiefdom level of organization to a complex, hierarchical social formation, as seen in Hawai‘i or the Society Islands. The main social group above the level of the extended family was the hapu (“clan” or “subtribe,” actually a cognatic descent group), usually numbering a few hundred individuals. The higher-level iwi (“tribe”) rarely if ever acted as a unified political entity, although limited regional alliances sometimes formed. Thus Goldman (1970) classified Maori society as another instance of an Open chiefdom in which social relations were fluid and marked by intense competition between status groups. Davidson writes:
+
+Maori society in the eighteenth century was small-scale and fragmented, and there is no reason to suppose that it was different in earlier times. . . . In later times, particularly in northern regions, groups of up to several hundred people sometimes lived and worked together, at least for a time, and built and maintained fortifications for their own protection. However, the society was inherently unstable, and closely related groups quarreled among themselves when they were not united against a more distant enemy. (1984:178)
+
+New Zealand adds yet another variant in the range of Polynesian societies, one in which ecological constraints were posed not by island size but by a marginal climate that challenged traditional Oceanic horticulture. In these vast southern islands, the convergence of high population density, intensive agricultural production, and social competition and conflict (especially over arable land) led not to an evolutionary process favoring increased hierarchy and the development of large polities but to an inherently dynamic and oscillating social formation.
+
+
+FUTUNA AND ALOFIAll of the societies discussed thus far are situated in Eastern Polynesia, but the smaller twin Western Polynesian islands of Futuna and Alofi (also known as the Hoorne Islands) were also classified by Goldman (1970) as being of the Open type. These were among the first Polynesian islands visited by Europeans, with the arrival of the Dutch explorers Schouten and LeMaire in 1606. The Dutch found both islands heavily populated, each controlled by a rival chief. By 1837, when the Catholic missionary Père Chanel arrived, the population of Alofi Island had been decimated by warfare and the island was abandoned.
+
+My pioneering archaeological research in Futuna and Alofi in 1974 was later augmented by Daniel Frimigacci and his team.43 The islands were settled early in the first millennium B.C. by Lapita colonists, with the Tavai site on Futuna representing a later stage of Ancestral Polynesian culture (see chap. 7). By around A.D. 700, extensive taro pondfield irrigation systems had been constructed in the valleys and coastal plains of the Sigave District on Futuna, taking advantage of alluvium that had been deposited following forest clearance and erosion of the steep hillsides. In Alo District and on Alofi Island, which consist mostly of upraised limestone karst terrain lacking streams, intensive walled field systems for dryland yam cultivation covered large tracts.44 Fortifications were emplaced on defended hillslopes and ridges, such as the site of Mauga and another redoubt overlooking the Sausau Valley. The rise of powerful chiefs is indicated by monumental architecture such as the Loka village complex on Alofi Island, which includes a malae plaza with an alignment of cut and dressed limestone backrest slabs, a large chiefly house foundation, and several elite tombs (fig. 8.24). In my analysis of “the wet and the dry” in Polynesian agro-ecosystems, I argued that it was the constraints and limitations of intensive dryland cultivation on Alofi and in Alo that led the chiefs of those areas to attempt territorial conquest of the irrigation chiefdom of Sigave (Kirch 1994). While the Alofi chiefdom was defeated, in the end neither Alo nor Sigave was victorious; the two polities remain independent although closely linked to this day, each headed by its own sau, or paramount chief.
+
+
+
+
+FIGURE 8.24 The ceremonial plaza (malae) of the late prehistoric village site at Loka on Alofi Island is lined along one side with quarried limestone slabs, which served as backrests for the high chiefs during kava ceremonies. (Photo by P. V. Kirch.)
+
+
+
+
+
+THE EMERGENCE OF STRATIFIED CHIEFDOMS
+
+
+Whereas in the Open societies of Polynesia hierarchy tended to be fluid, spurring competition between status groups (hereditary elite, priests, warriors) for control of resources and the exercise of power, in the Stratified societies elite power became ever more concentrated, with the distinctions and distance between elites and commoners increasingly pronounced. These Stratified Polynesian societies exemplify what anthropologists call “complex chiefdoms,” and in the case of late precontact Hawai‘i and Tonga, “archaic states.” Whereas the Open societies arose in settings where there were ecological constraints such as limited land area, lack of reef and lagoon habitats, or subtropical to temperate climates, the Stratified societies were all located in large, resource-rich archipelagoes. This does not mean that the rise of stratification was in some crude way “environmentally determined,” but it does suggest that abundant arable land and other resources were a necessary precondition to the emergence of the most hierarchical societies.
+
+
+TAHITI AND THE SOCIETY ISLANDSTahiti, with its coalescing twin volcanoes and land area of 1,040 square kilometers, dominates the Society Islands archipelago (map 12), which total eleven islands with a combined land area of 1,628 square kilometers. Tahiti, along with Mo‘orea and the smaller islands of Me‘etia, Maiao, and the atoll of Tetiaroa, comprise the windward isles. The leeward isles, Ra‘iatea, Taha‘a, Huahine, Porapora, Tupai, and Maupiti, are drought-prone but enjoy expansive barrier reef–lagoon systems. The size of the archipelago’s population at European contact—prior to the ravages of disease that such contact inevitably wrought—has been the subject of considerable debate. Oliver (1974) suggests a population for Tahiti of 35,000, but given the density of archaeological remains revealed by recent surveys (Hamilton and Kahn 2007; Orliac 1997), this figure is clearly too low. Forster’s original 1774 estimate of 120,000 may be closer to the mark. The population of the entire archipelago might then have approached 200,000.
+
+No island society was more influential in forming eighteenth-century European conceptions of Polynesia and the “noble savage” than “Otaheite.” Oliver’s masterful ethnohistoric synthesis (1974) reveals a rigidly hierarchical society with three classes: ari‘i, or principal chiefs; ra‘atira, or lesser chiefs, who were the titleholders to estates; and manahune, or commoners, many of whom were landless. Chiefs received obligatory tribute payments of food, barkcloth, and other materials or artifacts from the manahune. Maohi chiefs also exercised military and ideological power, manifest in the cult of the war god ‘Oro, to whom regular human sacrifices were made. Tahiti, although the largest island in the archipelago, was not the center of political or religious power. That was Ra‘iatea, where ‘Oro was said to have been born of the god Ta‘aroa (the Tahitian variant of Tangaroa) and where the most sacred temple (marae), Taputapuātea, was located (fig. 8.25).
+
+
+
+
+FIGURE 8.25 A view of part of the Taputapuātea temple (marae) complex on the island of Ra‘iatea, seat of the ‘Oro cult. (Photo by P. V. Kirch.)
+
+
+
+
+
+Kenneth Emory (1933) pioneered archaeological survey in the Society Islands, focusing on marae temple foundations. Modern archaeology commenced in the early 1960s but has been quite uneven across the archipelago. The most research has been carried out on Mo‘orea, the second largest island, especially in the large ‘Opunohu Valley, where Roger Green introduced settlement pattern archaeology to Polynesia in 1960 (Green 1961; Green et al. 1967). Subsequent work on Mo‘orea has addressed coastal deposits (Kahn 2012; Kahn, Nickelsen, et al. 2015; Kahn and Sinoto 2017), inland agricultural systems (Lepofsky 1994, 1995), residential sites and landscapes (Kahn 2005, 2007; Kahn and Kirch 2004, 2013), and marae (Kahn 2010, 2011; Kahn and Kirch 2011, 2014; Sharp et al. 2010). Huahine and Maupiti Islands in the leeward group have also enjoyed some attention (Kahn, Dotte-Sarout et al., 2015; Sinoto 1979a, 1996a; Sinoto and Han 1981; Sinoto and McCoy 1975; Wallin and Solsvik 2010).45 Nonetheless, the archipelago’s archaeological record remains less well documented than that of many other Polynesian islands.
+
+With some modifications, the cultural sequence outlined by Green (1996b) for the ‘Opunohu Valley encapsulates many of the cultural changes that took place throughout the archipelago. Early Polynesian presence on Mo‘orea beginning around A.D. 900–1000 is indicated by anthropogenic changes, including charcoal influxes and vegetation clearance in sediment cores taken from Lake Temae (Parkes 1997; J. Stevenson et al. 2017). Occupation deposits dating from the eleventh to the thirteenth century A.D. are known from two coastal localities (sites GS-1 and ScMf-5) and from the base of Ana Paia rockshelter (Kahn and Sinoto 2017). As the population expanded, shifting cultivation on the island’s ridges and inland slopes led to erosion and deposition of sediments on the coastal plains and in the ‘Opunohu Valley floor by A.D. 1400 (Kahn, Nickelsen et al. 2015; Lepofsky, Kirch, and Lertzman 1996). In the later part of Green’s Atiro‘o Phase (A.D. 1000–1650) stone structures appear the valley interior, including streamside agricultural terraces and associated simple marae in the Tupa‘uru‘uru area (e.g., site OPU-159). The existence of both rectangular and round-ended houses in the ‘Amehiti sector of the valley suggests “a well-established community with status individuals” toward the later part of the Atiro‘o Phase (Green 1996b:218). It was also during this period that an arboricultural complex including large orchard stands of Tahitian chestnut (Inocarpus fagifer) and breadfruit, along with extensive dryland and irrigated terracing for root crops, was developed (Lepofsky 1994, 1995; Lepofsky and Kahn 2011).
+
+The onset of the Marama Phase (A.D. 1650–1788) correlates with the conquest of the ‘Opunohu Valley, as described in oral traditions, by the Marama line of coastal-dwelling chiefs. By this time, the valley was politically divided into the Tupa‘uru‘uru and ‘Amehiti sectors, with the Marama elite centering their attention on Tupa‘uru‘uru. Elaborate marae were constructed (fig. 8.26), along with numerous smaller household marae and round-ended houses (with associated storage pits), which were the residences of the elite. The presence of a high-ranking titleholder in the valley is indicated by marae with stepped ahu, or altars. The final Pomare Phase (A.D. 1788–1812) reflects the tumultuous events of the early contact period, during which ‘Opunohu became a refuge for chiefs who resisted European intrusion, ending with the conversion of King Pomare II to Christianity in 1812.
+
+
+
+
+FIGURE 8.26 Plan of sites ScMo-124 I and J, two adjacent marae in the ‘Opunohu Valley, Mo‘orea Island. (Plan by P. V. Kirch.)
+
+
+
+
+
+The ‘Opunohu Valley sequence suggests that increased hierarchization of society went hand in hand with intensification of the agricultural production system. Lepofsky (1995) dates the onset of agricultural terracing to around A.D. 1200. Over time, a highly intensive system of land use, combined with orchard gardens focused on breadfruit and Tahitian chestnut, came to replace an earlier emphasis on shifting cultivation. An additional aspect of economic intensification was the emphasis on breadfruit storage pits associated with elite residences.
+
+Enhancement and control of economic production was not the social elite’s only strategy for gaining power. Ideological control is manifest in the proliferation of temples, the architectonic elaboration of marae serving as a material index of the increasing role of religion. Emory (1933) posited a temporal sequence for marae, from simple terraces with upright stones to enclosures with a simple altar platform (ahu) to the most elaborate forms with stepped ahu but lacked the means to develop an “absolute” chronology. Using high-precision U/Th dating on coral blocks incorporated into the facades of ahu on twenty-two marae on Mo‘orea, Sharp et al. (2010) showed that the elaboration of marae architecture took place over a period of about one and a half centuries prior to European contact. The earliest temples, dated to A.D. 1620, are relatively small enclosures with simple, low platform ahu. By the 1760s, impressive marae with massive, multistepped ahu had been constructed at several places along the Mo‘orea coast. A similar sequence of marae elaboration has been documented for Huahine Island, although the radiocarbon dating sequence there has less chronological precision (Wallin and Solsvik 2010).
+
+Maric’s (2012) study of three valleys on Tahiti adds a perspective on sociopolitical developments from the fourteenth century on. The Teva chiefdom, which had just constructed the huge marae at Maha‘iatea prior to Captain Cook’s arrival (fig. 8.27), controlled the fertile coastal plains from the Papara to Papeari Districts at the time of early European contact. In contrast to the massive chiefly marae of the Papara coast, the inland Taharu‘u Valley had only smaller marae, reflecting its commoner, or manahune, population. A similar pattern is evident for Punaauia, where the monumental coastal marae contrast with the interior, less architecturally elaborated temples. The Papeno‘o Valley, a vast amphitheater that occupies much of the interior of Tahiti Nui, seems to have been divided into zones with particular economic specializations: basalt extraction and tool making in the Ahiopoahi sector and horticultural activities in other areas.
+
+
+
+
+FIGURE 8.27 Engraving of Marae Mahiatea on Tahiti Island, as seen on the voyage of the Duff in 1797. (Collection of the author.)
+
+
+
+
+
+Based on oral traditions, Maric (2012) dates the spread of the ‘Oro cult from its origin place at ‘Opoa on Ra‘iatea to Tahiti and Mo‘orea at between A.D. 1650 and 1750. The cult was adopted by the ranking chiefly lines and was associated with the arioi social phenomenon (see Oliver 1974). Archaeologically, these transformations are manifested in changes in marae architecture, such as the use of pecked basalt stones (symbolizing turtle heads) in marae walls and cut-and-dressed coral blocks in ahu facades. Typically thought to be associated with the ‘Oro cult, these architectural features, Maric argues, might equally be related to competition between chiefs for status. Indeed, various important marae on several islands, all taking the proper name Taputapuātea, seem to be linked to the expansion of the ‘Oro cult.
+
+In addition to economic and ideological power, warfare and territorial conquest played a key role in the transformation of Society Islands polities. Emory (1933:45) mentions fortifications, but these were not elaborated as in some Open societies such as Rapa or the Marquesas. But we know from oral traditions and early ethnohistoric sources that interdistrict and interisland rivalries and wars of conquest were prominent (fig. 8.28). Tellingly, the aggressive war cult of ‘Oro arose not in the larger, resource-rich and populous islands of Tahiti or Mo‘orea, but in the leeward group, especially on Porapora and Ra‘iatea (Oliver 1974, 2:890–912). Oliver remarks that “the low productivity of Porapora seems to have predisposed its inhabitants to the foreign conquests which led to their chiefs’ political superiority over nearby lands” (1974, 2:1131). The Society Islands provide an important instance of a fundamental tension between “wet” and “dry” production systems (Kirch 1994), the former emphasizing landesque capital intensification (primarily taro irrigation) and the latter the labor-intensive cultivation of dryland crops, such as yams and sweet potatoes.
+
+
+
+
+FIGURE 8.28 The Tahitian war fleet assembled at Opare‘e, Tahiti, as seen on Captain James Cook’s second voyage in 1774. The engraving is by William Woollett after a painting by William Hodges, artist on Cook’s second expedition. (Collection of the author.)
+
+
+
+
+
+THE SAMOA ISLANDSAlthough Goldman (1970) placed Samoa in his Open category of Polynesian chiefdoms, Samoan sociopolitical organization was in fact more similar to that of the Society Islands, as Sahlins (1958) recognized; it is therefore properly regarded as another example of a Stratified society. Among the chiefly class, there were two main kinds of titles, chiefs (ali‘i) and “talking chiefs” (tulafale). The relative rank of chiefs depended on their genealogies, with the highest ranked, such as the Tu‘i Manu‘a, being regarded as descended from the gods, enjoying privileges similar to those of the high-ranked chiefs of the Society Islands or Hawai‘i (Sahlins 1958:36–37; Mead 1930).
+
+As discussed in chapter 7, Samoa was first settled as part of the Lapita expansion into Remote Oceania. Settlement pattern surveys have shown that the ethnographically documented pattern of coastal villages was a post-1830s adaptation to European contact, following major depopulation, abandonment of interior settlements, and missionization.46 Prior to European contact, many inland areas were densely inhabited, such as in the Falefa Valley or in the Mount Olo tract on ‘Upolu. In these late prehistoric settlements, individual household units are delineated by elevated stone or earthen foundation mounds, often separated by walls and joined by raised causeways or pathways. Houses were paved with floors of rounded river or beach gravel (‘ili‘ili); excavations at Folasa-a-Lalo revealed repeated occupations with successive pavings. In these settlements, relative rank of households was indexed by the size and height of house mounds. Such densely settled landscapes included intensive agricultural production systems, as in the drained garden-island taro cultivation features on the swampy floor of the Falefa Valley. Recent work by Quintus and colleagues on the islands of Ofu and Olosega in the Manu‘a group shows that even on these small islands, settlement patterns were complexly structured, with intensive dryland terracing, ditches, star mounds, and other features covering the steep mountain slopes (Quintus 2012, 2015; Quintus and Clark 2012, 2016)
+
+Associated with these dense habitation landscapes are large mounds having a specialized function, signals of heightened social stratification. Many have a “star” plan, with spokes radiating out from a central platform (Herdrich 1991) (fig. 8.29). Some star mounds were the foundations for god houses; others were used for the chiefly sport of pigeon snaring, as in Tonga. One of the most impressive sites is the great rectangular mound of Pulemelei on Savai‘i Island, incorporating 30,000 cubic meters of stone (fig. 8.30) and rising to a height of 10 meters above the surrounding terrain. The site is linked by a causeway to a smaller but nonetheless substantial mound to the north. Detailed survey and excavations by Martinsson-Wallin (2016; Martinsson-Wallin, ed., 2007) indicates that Pulemelei was first constructed between A.D. 1100 and 1400, further elaborated between 1400 and 1600, and abandoned between 1700 and 1800. The function of this huge monument, which must have required control over a substantial labor force to construct, is not entirely clear. It most likely served as a residential platform for a high-ranked and powerful chief, possibly a high chief of the Lilomaiava lineage or a holder of the Tafa‘ita title (Martinsson-Wallin 2016:21).
+
+
+
+
+FIGURE 8.29 Perspective sketch of a Samoan star mound at Vaito‘omuli, Savai‘i Island. (Courtesy of Roger C. Green.)
+
+
+
+
+
+FIGURE 8.30 View of the massive stone mound named Pulemelei on Savai‘i Island, one of the largest monumental structures in Western Polynesia. (Photo courtesy Helene Martinsson-Wallin.)
+
+
+
+
+
+The importance of warfare in later Samoan prehistory is indicated by the presence of fortifications, typically ridges protected by transverse trenches (fosses) or other earthworks (fig. 8.31). Other than Luatuan‘u, few forts have been excavated or dated, but the Tatangamatau site on Tutuila, incorporating fortified habitation terraces and adz-quarrying facilities, had been in use for at least two millennia (Leach and Witter 1987, 1990).
+
+
+
+
+FIGURE 8.31 Perspective sketch of a walled fortification at Uliamoa, Savai‘i Island. (Courtesy Roger C. Green.)
+
+
+
+
+
+FROM CHIEFDOM TO ARCHAIC STATE: TONGA AND HAWAI‘I
+
+
+While most of the societies of Polynesia are regarded as chiefdoms, two of the most hierarchical and complex—those of Tonga and Hawai‘i—arguably crossed a threshold to become what anthropologists call “archaic states.” Marcus and Feinman, who have compared archaic states in various parts of the world, describe some of the main characteristics of these societies as follows:
+
+In contrast to modern nation states, archaic states were societies with (minimally) two class-endogamous strata (a professional ruling class and a commoner class) and a government that was both highly centralized and internally specialized. Ancient states were regarded as having more power than the rank societies that preceded them, particularly in the areas of waging war, exacting tribute, controlling information, drafting soldiers, and regulating manpower and labor. . . . For some well-known states where texts are available, one could add to this stipulation that archaic states were ruled by kings rather than chiefs, had standardized temples implying a state religion, had full-time priests rather than shamans or part-time priests, and could hold on to conquered territory in ways no rank society could. (1998:4–5)
+
+In recent years, archaeologists working in both Tonga and Hawai‘i have advanced cogent arguments that these two societies stand out within the Polynesian spectrum, exhibiting a range of features that justify classifying them as archaic states rather than complex chiefdoms. In a study of Hawaiian archaic states (Kirch 2010), I set out the following characteristics of such sociopolitical formations: (1) they had well-developed class endogamy; (2) they were ruled by kings who traced their origins directly to the gods, and who were often regarded as instantiations of deities on earth; (3) their political economies were to a large degree centrally controlled by the king’s bureaucracy; (4) the king’s status and power were legitimated by state cults involving a formalized temple system, overseen by full-time priests; (5) the king’s power was maintained by a monopoly of force, involving a full-time warrior cadre or standing army; and (6) the king and his court occupied special residential quarters (palaces) and enjoyed various privileges and material luxuries supplied by a cadre of full-time specialists and craftspersons. In the following two sections, I discuss how Tonga and Hawai‘i were transformed from complex chiefdoms to archaic states. Although both societies became states, the processes underlying state development and the configurations of these hierarchical societies exhibit interesting differences.
+
+
+THE TONGAN “MARITIME EMPIRE”The late prehistoric period in Tonga is characterized by monumental architecture, although the forms differ from those in Samoa (Burley 1998). Several kinds of mounds were constructed, some, called sia heu lupe, for use by chiefs in their sport of snaring pigeons, others as sitting places or for elite burial. Davidson (1969) excavated two burial mounds at ‘Atele on Tongatapu and showed that these had grown in size and elevation over several periods of use. Recent survey of the Tongatapu landscape using LiDAR (Freeland et al. 2016) shows that the terrain is densely covered in such mounds (fig. 8.32). Yet another class of burial mound was reserved for the interment of chiefs; typically rectangular in plan, these burial mounds were faced with cut-and-dressed slabs of coral limestone. Quarrying and transporting the facing slabs required substantial labor, especially for the largest mounds, in which the highest-ranking elite were buried, including the Tu‘i Tonga, or sacred paramount.
+
+
+
+
+FIGURE 8.32 LiDAR image of a portion of Tongatapu Island, showing the density of mound sites. (Image produced by Travis Freeland, used with permission of the Government of Australia and the Government of Tonga.)
+
+
+
+
+
+Political power in proto-historic Tonga centered on the large island of Tongatapu, 257 square kilometers in area. In spite of its makatea geology, Tongatapu has fertile soils enriched by volcanic ashfalls and organic nutrients, as well as an extensive lagoon-reef ecosystem on its northern coast. Tongatapu’s terrestrial resources, although not as rich as those of some other high islands, were sufficient to permit the growth of a prehistoric population numbering at least 40,000. Tongan oral traditions, augmented by archaeology, indicate that three or more independent and competing chiefdoms on the island gradually amalgamated into a single polity, largely through territorial conquest.
+
+By proto-historic times, there were at least two distinct levels of chiefs: the hou‘eiki, or lesser chiefs, who were in charge of managing local estates; and the Tu‘i Tonga, or sacred paramount lord of Tonga and his immediate household. As in Hawai‘i, the commoner population had become alienated from direct control of the land, holding usufruct rights by virtue of regular tribute payments to the hou‘eiki and through them to the Tu‘i Tonga.
+
+Tongan oral traditions describe how the chiefship was elaborated in the final centuries prior to European contact: following the reign of the twenty-third Tu‘i Tonga (Takalaua), his senior son, Kau‘ulufonuafekai (later the twenty-fourth Tu‘i Tonga), initiated a campaign of territorial conquest extending beyond Tongatapu to encompass the Ha‘apai and Vava‘u groups, as well as farther-flung Niuatoputapu and even ‘Uvea. Sites on Niuatoputapu and ‘Uvea (Frimigacci and Hardy 1997; Kirch 1988c; Sand 1993c, 1998b; Sand and Valentin 1991) reveal extensive evidence of a Tongan intrusion around A.D. 1500–1600, in the form of elaborate Tongan-style burial mounds, pigeon-snaring mounds, and fortifications. According to the oral histories, Kau‘ulufonuafekai implemented a significant structural change in the chiefship, reserving for himself (and subsequent Tu‘i Tonga titleholders) the sacred kingship while creating the office of the hau, or secular paramount, who became known as the Tu‘i Ha‘a Takalaua. The first titleholder of the hau-ship was Kau‘ulufonuafekai’s younger brother Moungamotu‘a. This diarchy of sacred and secular leaders came to an end with the thirty-ninth and final Tu‘i Tonga, Laufilitonga, who died in 1865.
+
+The residential and ritual center of these political elites was at Mu‘a, fronting the Tongatapu lagoon, where the dual paramounts occupied separate residential compounds, surrounded by earthen moats (fig. 8.33). This extensive complex was mapped and described by the pioneering archaeologist W.C. McKern in 1920 and recently has been the subject of renewed investigations directed by Geoff Clark (Clark 2016; Clark, Burley, and Murray 2008; Clark et al. 2014; Clark, Reepmeyer, and Melekiola 2016). At Mu‘a, successive generations of Tu‘i Tonga were interred in massive burial mounds (langi) faced with slabs hewn from coral limestone (fig. 8.34). Lapaha, the residential compound of the Tu‘i Tonga line, includes twenty-six langi mounds, the largest fronting a great ceremonial plaza. In 1777, Captain James Cook and his crew witnessed the annual rites of tribute called ‘inasi taking place at this plaza, a scene illustrated by the expedition’s artist (fig. 8.35). A stone pier or dock projected 200 meters into the lagoon, a symbol of the external power base that the Tongan elite had achieved through their wars of interisland conquest. Each year double-hulled canoes brought tribute to Mu‘a from these outlying islands, to be offered up to the Tu‘i Tonga at the ‘inasi ceremony.
+
+
+
+
+FIGURE 8.33 Archaeological plan of the Mu‘a site, Tongatapu Island, seat of the Tu‘i Tonga in prehistoric and proto-historic times. (After McKern 1929.)
+
+
+
+
+
+FIGURE 8.34 Tomb J9, known as Tauatonga, at Mu‘a, Tongatapu. This classic langi structure has four tiers of cut-and-dressed limestone facings. (Photo courtesy Geoff Clark.)
+
+
+
+
+
+FIGURE 8.35 In 1777, Captain James Cook and his crew arrived at Tongatapu in time to witness the annual tribute presentations on the great plaza fronting the burial mounds of the Tu‘i Tonga at Mu‘a. Engraving after drawing by John Webber for the atlas of Cook’s third voyage. (Collection of the author.)
+
+
+
+
+
+Archaeological research by Geoff Clark and colleagues has established a firm chronology for the rise of the Tongan archaic state. The origins of the Tu‘i Tonga archaic state can be traced to an even older complex on Tongatapu, the site of Heketa, long noted for the presence of a massive “trilithon” called the Ha‘amonga a Maui (fig. 8.36), which was probably the gateway to the royal compound (Clark and Reepmeyer 2014). This monument incorporates three blocks of quarried limestone with a combined total weight of 55 tons. Radiocarbon dates indicate that the stone architecture at Heketa, which includes the first known langi, dates to between A.D. 1320 and 1390. Oral traditions state that Heketa was occupied by the tenth through twelfth Tu‘i Tonga, after which the royal seat was moved to Lapaha at Mu‘a.
+
+
+
+
+FIGURE 8.36 The trilithon known as Ha‘amonga-a-Maui at Heketa, Tongatapu. This structure probably served as a gateway to the royal compound. (Photo courtesy Geoff Clark.)
+
+
+
+
+
+Soon after the move to Lapaha, one of the largest langi, a tomb measuring 28 by 41.5 meters with three tiers of cut-and-dressed limestone slabs weighing an estimated 700 tons, was constructed on reclaimed land extending into the Tongatapu lagoon (Clark, Reepmeyer, and Melekiola 2016). Radiocarbon dates put the construction of this langi, known as Paepaeotelea, at between A.D. 1300 and 1400. The Tongan archaic state achieved its height between 1400 and 1650, during which numerous other langi were constructed as burial monuments for successive Tu‘i Tonga. It is estimated that more than 2,500 tons of limestone blocks were quarried and hauled to Mu‘a to construct the tombs. Geochemical analysis of stone tools recovered from excavations at Lapaha also reveal the extent of the Tongan state’s external exchange relationships, with 66 percent of the tools coming from locations beyond Tonga, including Fiji, Samoa, and even the Society Islands (Clark et al. 2014).
+
+According to Aswani and Graves (1998:155), the evolution of precontact Tongan society resulted from the “dialectical interaction” of “two integral and inflationary processes: intra- and intergroup competition.” The proto-historic Tongan chiefdom had evolved into a kind of “maritime empire,” maintained by emplacing junior-ranking members of the Tongatapu elite on outlying, conquered islands.47 These junior chiefs, removed from Mu‘a where they might threaten or subvert the power of the Tu‘i Tonga or of the hau, married local chiefly women of the islands they governed, enforcing the authority of Tongatapu. This elite system established connections ranging far beyond the Tongan archipelago, to Fiji in the west and Samoa in the east (Kaeppler 1978; Kirch 1984a). Regular long-distance voyaging to these foreign islands—along with carefully arranged chiefly marriages—assured a flow of prestige goods (fine mats, feathers, sandalwood, barkcloth, canoes, pottery) into Tongatapu, providing “wealth finance” that underwrote the political strategies of the Tongan elite (see Earle 1997:73).
+
+Two isolated islands that came under the sway of the Tongan “maritime empire” in later prehistory were Niuatoputapu and ‘Uvea; both have provided archaeological evidence of their integration into the Tonga state. In 1976 I mapped the settlement pattern of Niuatoputapu (Kirch 1988), which had an independent polity prior to about A.D. 1550 but then came under Tongan political hegemony. During this late period, mounds and monuments of various kinds were constructed throughout the island, as shown in figure 8.37. The distribution of these monuments suggests that the island was subdivided into several territories, each with its own elite burial facilities, pigeon-snaring mounds, and chiefly sitting mounds. With permission of local Tongan authorities, I excavated a large stone-faced burial mound at Houmafakalele, dating its construction to the fifteenth century A.D. (fig. 8.38). This mound contained the extended skeletons of at least four adults, buried without grave goods. Black stains surrounded the skeletons, suggesting burial in charcoal-blackened mats, a practice known ethnographically.
+
+
+
+
+FIGURE 8.37 The settlement pattern map of Niuatoputapu Island shows a distribution of burial mounds and other monuments, suggesting that the island was subdivided into several territorial units. (After Kirch 1988a.)
+
+
+
+
+
+FIGURE 8.38 The Houmafakalele burial mound site on Niuatoputapu Island, a chiefly burial mound in Tongan style with cut-and-dressed facing stones of quarried limestone, contained several extended burials. (Photo by P. V. Kirch.)
+
+
+
+
+
+‘Uvea Island was also an independent polity in its earlier history, but like Niuatoputapu it fell under the hegemonic expansion of the Tongan chiefs in late prehistory (Sand 1998b). Tongan domination is reflected linguistically, because ‘Uvean is a Nuclear Polynesian language with heavy borrowing from Tongan. Archaeological evidence corroborates the oral traditions of Tongan conquest, with various monumental sites including Tongan-style chiefly burial mounds and large fortifications. One of the most remarkable is the Petania burial mound, measuring 18.5 by 16 meters, with a central coral slab–lined vault. Surrounding this vault, which held one or more chiefly burials, were no fewer than 150 other individuals, “buried in six successive stratigraphic levels, placed in circles around the burial vault. . . . Most of them had been placed one body partially over another, that is, the head of one person was placed over the femora of the skeleton behind and below” (Sand and Valentin 1991:239–41). Most, if not all, of the individuals were interred at the same time, possibly as a mass sacrificial offering to the high-ranking individual in the central vault.
+
+Daniel Frimigacci (Frimigacci and Hardy 1997) studied fortifications in the southern part of ‘Uvea, including Lanutavake (which encloses a crater lake), Makahu, Atuvalu, and the remarkable site of Kolonui. Kolonui, “Great Fort,” has defensive walls of stacked basalt boulders up to 15 meters wide and 4 meters high enclosing a large area, with a chiefly residential complex (Talietumu) in the southwest corner. These sites reveal that the proto-historic ‘Uvean society was strongly hierarchical, with chiefs who could command the labor of large numbers of subordinates and, at times, exert absolute power over life and death.
+
+In sum, while the makatea environment of Tonga might seem insufficient to underwrite a strongly hierarchical, centralized polity, through the military integration of an entire archipelago and the careful manipulation of external sources of prestige goods, the Tongan chiefs transformed their society into one of Polynesia’s archaic states.
+
+
+THE ARCHAIC STATES OF HAWAI‘IAnthropologists have long regarded proto-historic Hawai‘i as the most highly stratified of all Polynesian chiefdoms. Summarizing his lengthy research into Hawaiian society and economy at the period of initial European contact, Sahlins writes:
+
+Everything looks as if Hawaiian society had been through a history in which the concepts of lineage—of a classic Polynesian sort, organizing the relations of persons and tenure of land by seniority of descent—had latterly been eroded by the development of chiefship. Intruding on the land and people from outside, like a foreign element, the chiefship usurps the collective rights of land control and in the process reduces the lineage order in scale, function, and coherence. (Sahlins, in Kirch and Sahlins 1992, 1:192)
+
+In most Polynesian societies, land and resources were classically controlled by structures of kinship, especially lineage groups. In Hawai‘i, however, a structure of kingship had emerged in late prehistory (Hommon 2013; Kirch 2010, 2012). As Goldman (1970:200) summed it up, “Polynesian social evolution reached its greatest development in the Hawaiian Islands, where all changes in direction or further elaborations of traditional forms under way elsewhere finally came to fruition.” Ethnographers such as Sahlins and Goldman could only speculate on how such a transformation from kinship to kingship occurred in Hawai‘i. Rich oral traditions of chiefly marriages and alliances, wars and conquests, and other political events assembled by nineteenth-century Hawaiian scholars provide important clues from an “insider” perspective (Cachola-Abad 2000; Kamakau 1961; Malo 1951). But only archaeology provides direct historical evidence to track such fundamental changes through time, even though the processes underlying change must be inferred from the material correlates of social action.
+
+Hawai‘i boasts the richest archaeological record for any Pacific archipelago.48 Pre–World War II surface surveys focused on monumental stone architecture, especially the numerous and structurally varied heiau, or temple sites.49 During the 1950s and 1960s, major excavation programs of the Bishop Museum and the University of Hawai‘i outlined a material culture sequence,50 later augmented by settlement pattern studies and increased attention to sociopolitical, economic, and demographic changes.51 Aggressive economic development in Hawai‘i, spurred by statehood in 1959, has led to thousands of CRM projects; while variable in quality and research orientation, these have resulted in masses of new data.52 The archaeological record from Hawai‘i is so extensive that the following overview merely touches on some highlights.
+
+Excepting temperate New Zealand, the Hawaiian Islands, with 16,692 square kilometers of land area, constitute the largest archipelago in Polynesia (map 15). With a subtropical climate and fertile volcanic soils, the Hawaiian Islands were ideal for growing most of the Oceanic root, tuber, and tree crops. This environment posed none of the constraints to the rise of large, complex societies that we see in other Polynesian islands. And indeed, the precontact population of Hawai‘i is likely to have numbered a half million or more when Cook arrived in 1778–79.53
+
+
+
+
+MAP 15 The Hawaiian Islands, showing the location of key archaeological sites.
+
+
+
+
+
+Because the archipelago has a linear age progression (owing to its hot-spot origin; see chap. 2), the older islands, Kaua‘i, O‘ahu, and Moloka‘i, along with the western half of Maui, display deeply weathered and dissected landforms, with valleys and permanent streams well suited to irrigated pondfield agriculture. These older islands have more developed coastal reefs, with better fishing and the potential to construct large fishponds for aquaculture. In striking contrast, geologically younger east Maui and Hawai‘i—while they account for 74 percent of the total land area—mostly lack permanent streams and have large tracts of young lava flows (Kirch 2014). On those younger landscapes only dryland, rainfed cultivation was possible, and the cliff-bound coastlines lacking reef flats were not conducive to fishpond construction.
+
+Kirch (1985a) proposed a cultural sequence for Hawai‘i, with four periods (Colonization, Developmental, Expansion, and Proto-Historic), beginning with initial Polynesian settlement around A.D. 300.54 For reasons explained in chapter 7, we now know that this date is too early; the first arrival of Polynesians occurred considerably later, around A.D. 1000.55 This has required a reevaluation of the Hawaiian sequence (table 8.2), with a collapsing of the original Colonization and Developmental Periods into a revised Foundation Period, followed by Early Expansion, Late Expansion, and Proto-Historic Periods (Kirch and McCoy 2007). The Marquesas Islands have long been posited as the immediate source for the first Hawaiian colonizers, both on the evidence of material culture (fishhooks, adz forms) and on linguistic grounds (Green 1966; Marck 1999). However, Hawai‘i did not become immediately isolated from central Eastern Polynesia. Hawaiian oral traditions speak of a “voyaging period” during which great navigator-chiefs such as Mo‘ikeha, La‘amaikahiki, and Pā‘ao made voyages to “Kahiki” (i.e., Tahiti) and back.56 Long-distance voyaging ceased after about A.D. 1400, after which the Hawaiian Islands became completely isolated from the rest of Polynesia. “Kahiki” became a distantly remembered homeland from which the great anthropomorphic god Lono returned each year during the Makahiki season to ritually fertilize and renew the land.
+
+
+TABLE 8.2
+
+The revised Hawaiian cultural sequence.
+
+
+
+
+
+Sites of the Foundation and Early Expansion Periods, such as the Bellows Beach (O18) site at Waimānalo on O‘ahu Island, the Hālawa Valley dune site (Mo-A1–3) on Moloka‘i, and sites at Waiahukini, on Hawai‘i Island,57 have yielded fishhooks, basalt adzes, ornaments, and other artifacts that exhibit local stylistic elements (fig. 8.39), differentiating them from styles in central Eastern Polynesia. Settlements typically were nucleated hamlets in coastal settings. The Hālawa dune site contains round-ended house foundations quite different from later prehistoric Hawaiian dwellings, which were characteristically rectangular in form (fig. 8.40). At Waimānalo the dead were interred under house pavements, a practice that ceased in later times. Pigs, dogs, and chickens were all present from the earliest period. Pollen and micro-charcoal evidence from sediment cores on O‘ahu indicate extensive forest clearance for agriculture by A.D. 1200.58
+
+
+
+
+FIGURE 8.39 Artifacts from the early Bellows Beach sand dune site (O18) at Waimānalo, O‘ahu Island, included pearl-shell fishhooks, coral and sea urchin spine abraders, ornaments, a coconut grater, a bracelet of pig tusks, basalt adzes, and a basalt awl. (Photo by P. V. Kirch.)
+
+
+
+
+
+FIGURE 8.40 The early Mo-A1–3 dune site at the mouth of Hālawa Valley, Moloka‘i, contained small round-ended house structures of a form not seen in later Hawaiian settlements. (Photo by P. V. Kirch.)
+
+
+
+
+
+The Late Expansion Period (A.D. 1400–1650) was a time of exponential growth when the archipelago’s population expanded out of the most ecologically favorable areas (what Hommon [1986] called the “salubrious cores”) into the drier, leeward, and more marginal regions. During this dynamic period, production systems were intensified, ritual architecture was elaborated, and a system of hierarchical territorial land units was formalized. In tandem, these changes radically transformed Hawaiian society.
+
+The demographic transition in Hawai‘i is better attested through archaeological evidence than for almost any other Polynesian group. Early attempts to trace the trajectory of Hawaiian population, such as Hommon’s (1986) influential model of “inland expansion,” were based on house count data. These pointed to rapid, exponential population growth beginning after A.D. 1200, possibly peaking or even declining prior to European contact.59 An alternative approach used the curves generated from the cumulative probability distributions of radiocarbon dates as a proxy for population growth.60 This also showed an exponential increase in population after A.D. 1200 but with a peak at around A.D. 1450 and a decline thereafter. Kirch (2010:135, fig. 4.3) assembled a suite of 1,036 radiocarbon dates from four of the main Hawaiian islands, which shows the dramatic increase in numbers of dates—and by inference, in overall population—that begins around A.D. 1200 and continues up through the final century prior to European contact. These data all support an interpretation of exponential population increase, although the rate of growth may have slowed in some regions prior to European contact. Finer-grained studies of population trends have focused on local regions, such as Kirch’s (2007b, 2014) reconstruction of population trends in Kahikinui, Maui, based on radiocarbon-dated habitations, and Field et al.’s (2011) investigation of population trends in leeward Kohala, Hawai‘i Island. For Kohala, a maximum population density seems to have been achieved within the core of the leeward Kohala Field System by around A.D. 1650, with subsequent population increases being absorbed by the southern margins of this vast dryland agricultural system.
+
+Intensification of production went hand in glove with the demographic transition, beginning during the Early Expansion Period and continuing throughout later periods; indeed, population growth and agricultural intensification were arguably linked processes (see Kirch 1994:310–12). Hawaiian agro-ecosystems were of two major kinds: irrigated and dryland (rain-fed). In the western islands—where topography and hydrology permitted—valley floors and lower hillsides were converted to ranks of terraced pondfields, irrigated by diverting streamflow into stone-lined canals (fig. 8.41). On both O‘ahu and Moloka‘i, irrigated terrace construction was well under way by A.D. 1200–1300.61 In the geologically younger eastern islands, irrigation was feasible only in limited areas, but where rainfall and substrate age were conducive to cultivation, extensive leeward slopes were converted into intensive agricultural landscapes dominated by field systems with reticulate grids of stone walls and embankments that broke up the terrain into individual garden plots. Extensive dryland field systems have been archaeologically documented for Kohala and Kona on Hawai‘i Island, for Kahikinui and Kaupō on Maui, and for the Kalaupapa Peninsula on Moloka‘i.62 The leeward Kohala Field System (fig. 8.42), which has been the most intensively studied by archaeologists, began with widely spaced field boundaries around A.D. 1300, becoming increasingly intensified after A.D. 1450 (Ladefoged and Graves 2008). The Late Expansion Period also witnessed the construction of large fishponds for aquacultural production of mullet and milkfish (Kikuchi 1976; Summers 1964) wherever coastal conditions permitted, such as along the protected southern coast of Moloka‘i (fig. 8.43).
+
+
+
+
+FIGURE 8.41 Hawaiian valley floors became intensively cultivated through the construction of pondfield irrigation systems, such as the one depicted in this archaeological plan from the Anahulu Valley, O‘ahu. (After Kirch and Sahlins 1992.)
+
+
+
+
+
+FIGURE 8.42 LiDAR imagery of a small section of the leeward Kohala Field System on Hawai‘i Island, showing the recticulate grid of north-south trending field embankments, intersected by east-west trending territorial boundary walls and trails. Several walled house compounds are also visible. (Photo from Hawai‘i Biocomplexity Project, courtesy of P. V. Kirch.)
+
+
+
+
+
+FIGURE 8.43 Another form of landesque capital intensification in later Hawaiian prehistory was the construction of large fishponds on reef flats, such as this pond on the southern shore of Moloka‘i Island. (Photo by Thérèse Babineau.)
+
+
+
+
+
+Both irrigation works in the western isles and dryland field systems in the eastern group constitute forms of landesque capital intensification but with rather different socioeconomic outcomes due to their different labor input-to-yield ratios and their abilities to produce a surplus above individual household requirements. Irrigation permitted higher yields per unit of labor, hence greater surpluses that could be extracted by the chiefs. In the dryland field systems, higher labor inputs were required, and the limits to intensification were more quickly approached, making the extraction of a surplus that could be put to political purposes more contentious. Two contrasting pathways to political (and ideological) transformation emerged.63 The chiefly elite of the western islands invested heavily in irrigation, and their religious system emphasized Kāne, god of flowing waters and procreation. On Maui and Hawai‘i Islands, in contrast, the chiefs oversaw the development of vast field systems in which the primary crop was sweet potato, augmented by dryland taro in the higher elevations. In these dryland regions, moreover, there was frequent war and efforts at territorial conquest, promulgating a legitimating ideology based on the cult of Kū, a human sacrifice–demanding god of war, who seasonally alternated with Lono, god of rain and thunder (Valeri 1985).
+
+Major advances in our understanding of the dryland field systems of Hawai‘i and Maui—how they operated in relation to the “biogeochemical gradients” of these geologically youthful islands and the chronology of their development—have come from the work of the Hawai‘i Biocomplexity Project (Kirch, ed., 2011; Vitousek et al. 2004). This interdisciplinary team of archaeologists, ecologists, soil scientists, and quantitative modelers demonstrated that the dryland field systems were positioned to take advantage of a “sweet spot” running in a continuous band along the leeward volcanic slopes of these islands, a zone in which rainfall was sufficient but not too high to have leached out essential soil nutrients. In essence, the Hawaiians had learned how to “farm the rock” so as to extract high yields of sweet potato in closely spaced plots, divided by low embankments planted with rows of sugarcane.
+
+Increased hierarchization of the Hawaiian chiefly class, combined with the use of religious ideology to legitimate chiefly dominance over the common people (the maka‘āinana), is reflected in the archaeological record through the temple (heiau) system, which became greatly elaborated during the Late Expansion and Proto-Historic Periods. Diachronic studies of heiau are less common than surface surveys, but excavations document successive rebuildings of heiau over time, incorporating increasingly elaborate architecture and greater size (both area and volume of stone).64 High-precision U/Th dating of branch coral offerings from heiau in the Kahikinui District of Maui shows a dramatic increase in the number of temples constructed from the late sixteenth century and continuing for the next 150 to 200 years (Kirch and Sharp 2005; Kirch, Mertz-Kraus, and Sharp 2015). This phase of temple building correlates with the consolidation of Maui Island as a single kingdom under the Pi‘ilani dynasty of rulers, as described in the oral traditions (Kirch 2010, 2014). Most of the temples functioned as heiau ho‘o ‘ulu‘ai, or agricultural temples, important both in the ritual regulation of cultivation and in the annual collection of tribute (fig. 8.44). The largest heiau, such as Pi‘ilanihale in the Hāna District, covering an area of 12,126 square meters, or Lo‘alo‘a in Kaupo (4,160 square meters), incorporated massive volumes of stone fill. These impressive structures were luakini, temples associated with paramount chiefs and the cult of war, at which human sacrifices were offered to the god Kū (fig. 8.45).
+
+
+
+
+FIGURE 8.44 An aerial view of a midsized temple (heiau) in the ahupua‘a of Kipapa, Kahikinui, Maui. (Photo by P. V. Kirch.)
+
+
+
+
+
+FIGURE 8.45 The massive luakini war temple of Pu‘ukoholāat Kawaihae, Hawai‘i Island. The Hawai‘i Island king Kamehameha I had this temple constructed to ensure success in his intended conquest of the Hawaiian archipelago. (Photo by Thérèse Babineau.)
+
+
+
+
+
+It was probably during the Early Expansion Period that the distinctive Hawaiian system of land tenure—the ahupua‘a system—first developed. Ahupua‘a (literally, “pig altars”) were territorial units that ran from the mountain ridges down to the sea, cross-cutting the ecological grain of an island to include all of its main resource zones. Whereas in other Eastern Polynesian islands such radial land sections were typically controlled by descent groups or lineages, in Hawai’i ahupua‘a were under the control of lesser chiefs (ali‘i ‘ai ahupu‘a), who in turn held these territories at the pleasure of the king (ali‘i ‘ai moku) to whom the chiefs owed material support, especially in times of war. All of the ahupua‘a under a paramount chief constituted the kingdom at large, called in Hawaiian the moku, derived from the old Polynesian word for “island.” The commoners, for their part, held rights to work lands within an ahupua‘a in return for tributary payments of produce and labor to the chief. Thus land became alienable and the entire system one of enfeudation, tied together by reciprocal rights of tribute and protection (Hommon 2014; Kirch 2010; Kirch and Sahlins 1992).
+
+Another distinctive transformation in Hawai’i was the elaboration of the kapu system, a complex set of prohibitions and cultural practices that differentiated Hawaiians by gender and by rank. The highest-ranking chiefs, for example, were accorded the kapu moe, “prostrating taboo,” by the commoners. Women were forbidden to eat certain foods, such as pig, bananas, and some fish, and were obligated to prepare their food in separate earth ovens. Late precontact habitation sites in the Kahikinui region of Maui exhibit evidence of such separate cooking facilities (Kirch 2014). Precontact Hawaiian houses, household clusters, and chiefly heiau all display certain structural similarities in their spatial layout, reflecting pervasive “organizational principles predicated upon notions of ritual offerings and the observance of the kapu system” (Ladefoged 1998:70).
+
+By the Proto-Historic Period (A.D. 1650–1778) the ahupua‘a and kapu systems had become increasingly entrenched and elaborated. Thanks to the rich body of indigenous oral traditions relating to these final centuries before European contact, as well as the material evidence of archaeology, a great deal is known of the political history of this period, including the economic, military, and religious forms of power employed by the chiefly class (Cachola-Abad 2000; Kirch 2010, 2012). Social stratification reached a level at which the chiefs (ali‘i) distinguished themselves as a class from the commoners (maka‘āinana); although endogamy was not absolute, it was strongly encouraged. Chiefs claimed descent from the gods and internally differentiated among themselves through elaborate genealogies and a ranked gradation of levels. In addition to controlling the land and material apparatus of production, the chiefs encouraged and supported craft specialists who produced sumptuary items that visually reinforced their status.65 Most remarkable among these material symbols were finely executed feathered girdles, helmets, capes, and cloaks.
+
+Wars of territorial aggression between competing chiefdoms and a progressive amalgamation of formerly independent chiefdoms into ever larger polities mark the political history of the Late Expansion and Proto-Historic Periods. By the late seventeenth century, four separate polities had emerged, focused on the main islands of Kaua‘i, O‘ahu, Maui, and Hawai‘i; the contested smaller islands were incorporated into one or another of the main units. However, the political dynamism of Hawai‘i in late prehistoric and early historic times emanated primarily from the two largest and youngest islands, Maui and Hawai‘i. Sahlins (1985:20) put this in social terms in Islands of History, when he observed that “the oldest and most senior [chiefly] lines are in the western islands, Kaua‘i and O‘ahu, whence originate also the highest tabus. But then, the historical dynamism of the system is in the east, among Maui and Hawai‘i chiefs, who are able to differentiate themselves from local competitors, or even from their own dynastic predecessors, by appropriating ancestry from the ancient western sources of legitimacy.” The Maui and Hawai‘i chiefs coveted the generously endowed irrigation systems that these western islands offered. Not long before Cook’s fateful visit in 1778–79, the Maui paramount Kahekili expanded his polity to encompass all of the islands to the west and was engaged in a fierce succession of wars with his archrival Kalani‘ōpu‘u of Hawai‘i. After the fateful encounter with the West, Kalani‘ōpu‘u’s successor—the famous Kamehameha I—made shrewd use of Western arms to bring the entire archipelago under his hegemony.
+
+Various explanations have been offered for the rise of sociopolitical complexity and eventual transformation from complex chiefdoms to archaic state in Hawai‘i. Hommon (2013) puts emphasis on what he terms the “hard times” hypothesis. He sees the archaeological evidence from regions such as Kohala on Hawai‘i Island as indicating that the development and intensification of the dryland field systems “resulted in hard times comprised of increased workloads for men and women, rapid population growth, and diminished productivity due to a loss of soil fertility, and that by the late eighteenth century the limits of high-potential land had been reached or exceeded” (2013:259). This condition provided opportunities for chiefly elites that “resulted in escalated coercive development that contributed to the emergence of the Hawai‘i Island state” during the period from A.D. 1680 to 1790. Kirch (2010) suggests that the factors contributing to state formation in Hawai‘i included both “ultimate” and “proximate” forms of causation. Ultimate causes included exponential population growth and the pressure this put on resources (as well as the labor supply thus created), the intensification of wet and dryland agro-ecosystems, and the creation of significant surplus that could be extracted to fuel the political economy. Proximate causes—what is often referred to as “agency” in anthropological theory—included the status rivalry deeply ingrained in Polynesian social structures, as well as the strategies of marriage alliance and conquest warfare used by the elites to gain hegemony over their populations.
+
+
+
+
+
+POLYNESIAN HISTORY: A CONCLUDING NOTE
+
+
+In a classic early effort to compare the varied social and political structures of Polynesia, the pioneering ethnologist R.W. Williamson expressed his regret that it would not be possible to ever trace out “what actually had been the history” of these Polynesian societies (Williamson 1924:428). Writing in an era when archaeology had scarcely commenced in the Pacific—it was restricted in its methods to surface surveys with no temporal controls—Williamson believed that it would be impossible to obtain direct evidence of the history of Polynesian social transformations. He was wrong. Williamson could not envisage that the material remains of those societies themselves encapsulated a historical “text,” which in time would be accessible with improved methods and with more sophisticated theoretical paradigms enabling its interpretation. While we still have much to learn of the sociopolitical histories of the Polynesian chiefdoms and archaic states, we have traveled a great distance from Williamson’s speculative “history” based solely on comparative ethnography.
+
+What makes the historical study of the Polynesian chiefdoms so intellectually engaging, in part, is the opportunity to compare both the varied outcomes—the specific social formations, whether Traditional, Open, or Stratified—and the underlying processes and trajectories responsible for those outcomes, all of which derived from a common Ancestral Polynesian culture over the course of two and a half millennia. Because Polynesia constitutes a well-defined phyletic unit (see chap. 7), it offers possibilities for comparative analysis not often found elsewhere. I have sketched some of the historical sequences of sociopolitical transformation that archaeology has begun to reveal and pointed to a few of the fundamental contexts, constraints, and processes that have influenced such changes. I have also endeavored to show how specific elite social groups used alternative forms of power—economic, military, and ideological—in their attempts to exercise authority and control over society at large. There is much scope for alternative—one hopes mutually enlightening rather than competitive—models of social change in Polynesia. After a half century of study, the search is becoming truly exciting.
+
+
+
+
+
+NINE
+
+

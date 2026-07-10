@@ -1,0 +1,2051 @@
+"mind" and culture, and each science assumes that it can go ahead by treating
+the other variable as if it were constant. All psychologists and anthropologists
+now know that such constancy is not actual. But to deal with two variables, each
+§ 7                ANTHROPOLOGY AND THE SOCIAL SCIENCES                          I3
+
+highly complex, is difficult; and as for specific findings, only beginnings have
+as yet been made. This whole set of problems of cultural psychology is taken up
+in one of the later chapters of this book.
+      The foregoing will make clear why anthropology is sometimes still regarded
+as one of the newer subjects of study. As a distinct science, with a program of
+its own, it is relatively recent, because it could hardly become well organized
+until the biological  and the social sciences had both attained enough develop-
+ment to specialize and become aware of the gap between themselves, and until
+culture was recognized as a specific and distinctive field of inquiry.
+     But as an unmethodical body of knowledge, as an interest, anthropology is
+plainly one of the oldest of the sisterhood of sciences. It could not well be other-
+wise than that men were at least as much interested in each other as in stars
+and mountains and plants and animals. Every savage is a bit of an ethnolo-
+gist about neighboring tribes and knows a legend of the origin of mankind.
+Herodotus, the "father of history," devoted half of his nine books to pure
+ethnology. Lucretius, a few centuries later, tried to solve by philosophical de-
+duction and poetical imagination     many of the same problems that modern
+anthropology is more cautiously attacking with concrete methods. Until nearly
+two thousand years after these ancients, in neither chemistry nor geology noi
+biology was so serious an interest developed as in anthropology.
+                            CHAPTER SIX
+
+                                   Language
+
+
+93. LINGUISTIC   relationship: the speech family        94. CRITERIA     OF RELATIONSHIP
+95. SOUND EQUIVALENCES    AND PHONETIC LAWS      96. THE PRINCIPAL SPEECH          FAMILIES
+
+97. CLASSIFICATION OF LANGUAGES BY TYPES     98. PERMANENCE OF LANGUAGE AND RACE
+
+99. THE BIOLOGICAL AND HISTORICAL NATURES OF LANGUAGE                100. PROBLEMS OF THE
+
+RELATION OF LANGUAGE AND CULTURE          lOI. PERIOD     OF THE ORIGIN OF LANGUAGE
+102.   SPEECH, CULTURE, AND NATIONALITY       IO3. RELATIVE          WORTH OF LANGUAGES
+104. SIZE OF VOCABULARY     IO5.   QUALITY OF SPEECH SOUNDS          I06. RAPIDITY   OF LIN-
+GUISTIC CHANGE     107. SPEAKING AND WRITING     I08. DIFFUSION AND PARALLELISM IN
+
+LANGUAGE AND CULTURE       IO9. CONVERGENT LANGUAGES         1 10.   UNCONSCIOUS FACTORS
+IN LANGUAGE AND CULTURE CHANGE          III. LINGUISTIC   AND CULTURAL STANDARDS
+
+
+           93. LINGUISTIC    relationship: the speech family
+
+
+THE          QUESTION that the historian and the anthropologist most frequently
+          ask of the philologist is whether this and that language are or are not
+         related. Relationship in such connection means descent from a             common
+source, as two brothers are descended from the same father, or two cousins from
+a common grandfather. If languages can be demonstrated to possess such com-
+mon source, it is clear that the peoples who spoke them must at one time have
+been in close contact, or perhaps have constituted a single people. If, on the other
+hand, the languages of two peoples prove wholly dissimilar, though their racial
+types and cultures be virtually identical, as indeed is sometimes found to be the
+case   —witness the Hungarians and their neighbors—       it is   evident that an element
+of discontinuous development must somewhere be reckoned with. Perhaps one
+part of an originally single racial group gradually modified            its   speech beyond
+recognition; or under the shock of conquest, migration, or other historical acci-
+dent it may have entirely discarded its language in favor of a new and foreign
+tongue. Or the opposite may be true: The two groups were originally wholly
+separate   and distinct in many respects, but, being brought into contact, their
+cultures interpenetrated, intermarriage followed,   and the two physical types
+became assimilated into one while the languages remained dissimilar. In short,
+if   one wishes full understanding of a people, one must take its language into
+§94                          CRITERIA OF RELATIONSHIP                              I5
+
+consideration. This means that the language must be classified. If a classification
+is   to be more than merely logical or theoretical, if it is to be pragmatic and his-
+torically significant, it must   have reference to relationship, development, origin.
+In a word, it must be a genetic classification.
+       The term used to indicate that two or more languages have a common
+source but are unrelated to certain others, or seem so in the present state of
+knowledge, is "linguistic family." "Linguistic stock" is frequendy used as a
+synonym. This is the fundamental concept in the historical classification of
+languages. Without a clear idea of its meaning one involves oneself in con-
+fusion on attempting to use philology as an aid to other branches of          human
+history.
+       There is no abstract reason against referrring to a group of unrelated lan-
+guages as a "family" because they are all spoken in one area, nor against de-
+nominating as "families," as has sometimes been done, the major subdivisions
+of a group of languages admittedly of common origin. Again, languages that
+show certain similarities of type or structure, such as inflection, might con-
+ceivably be put into one "family." But there is this objection to all such usages:
+They do not commit themselves on the point of genetic relationship, or they
+contradict it, or only partially exhaust it. Yet commonness of origin is so im-
+portant in many connections that it is indispensable to have one term that de-
+notes its ascertainable presence.    And for this quality there happens to be no
+generally understood designation other than "linguistic family," or its synonym,
+"linguistic stock." This phrase will therefore be used here strictly in the sense
+of the whole of a group of languages sprung from a single source, and only in
+that sense. Other groupings will be indicated by phrases like "languages of such
+and such an area," "subfamily," "division of a family," or "unrelated languages
+of similar type."
+
+
+
+                        94. CRITERIA      OF RELATIONSHIP
+
+      The question that first arises in regard to linguistic families is how the
+relationship of their constituent idioms     is   determined. In brief, the method is
+one of comparison. If a considerable proportion of the words and the gram-
+matical forms of two languages are reasonably similar, similar         enough to in-
+dicate that the resemblances cannot be due to mere accident, these similar words
+and forms must go back to a common source; and if this source is not borrow-
+ing by one language from another, the two tongues are related by descent from
+a    common ancestor. If comparison fails to bring out any such degree of re-
+semblance, the languages are classed in distinct families.
+      Of course it is possible that the reason two languages seem unrelated is
+not that they are really so, but that they have in the lapse of ages become so
+much differentiated that one cannot any longer find resemblance between their
+1                                      LANGUAGE                                 § 94
+
+
+forms. In that event true relationship would be obscured by remoteness. Theo-
+retically, there is   high probability that many families of languages customarily
+regarded as totally distinct do go back in the far past to a common origin, and
+that our ignorance of their history, or inability to analyze them deeply, prevents
+recognition of their relationship. From time to time it happens that groups of
+languages which at first seemed unrelated are shown by more intensive study
+to possess     elements enough in     common to compel the recognition of their
+original unity. In that case what were supposed to be several "families" become
+merged in one. The scope of a particular family may be thus enlarged; but the
+scope of the generic concept of "family" is not altered.
+     Whether there is any hope that comparative philology may ultimately be
+prosecuted with sufficient success to lead all the varied forms of human speech
+back to a single origin is an interesting speculation. A fair statement is that such
+a possibility, like any future event, cannot be absolutely denied, but that science
+is still   extremely far from such a realization. Of more immediate concern is an
+ordering and summarizing of the knowledge in hand with a view to such posi-
+tive inferences as    can be drawn.
+     In an estimate of the similarity of languages, items that count as evidence
+must meet two requirements they must be alike, or traceably similar, or regu-
+                                 :
+
+
+
+
+larly   correspondent in sound; and they must be alike or similar or related in
+meaning. This double requirement holds equally whether full words or sepa-
+rable parts of words, roots, or grammatical       forms are compared. The English
+word eel and the French ile, meaning island, are pronounced almost exactly
+alike, yet their meaning is so different that no sane person would regard them
+
+as sprung from the same origin. As a matter of fact ile is derived from Latin
+insula, and is the source of the English isle, whereas eel has a cognate in German
+
+aal. These prototypes insula and aal being as different in sound as they are in
+
+meaning, any possibility that eel and ile might be related is easily disposed of.
+Yet if the Latin and German cognates were lost, if nothing were known of the
+history of the English and French languages, and if ile meant not island but, say,
+fish or water sna\e, then it might be reasonable to think of a connection.
+
+     Such doubtful cases, of which a certain proportion are likely to be adjudged
+wrongly, are bound to come up in regard to the less well investigated languages,
+particularly those of nations without writing, the earlier stages of whose speech
+have perished without trace. In proportion as more is known of the history of
+a language, or as careful analysis can reconstructmore of its past stages, the
+number of such border-line cases obviously becomes fewer.
+        Before genetic connection between two languages can be thought of, the
+number of their elements similar in sound and sense must be reasonably large. An
+isolated handful of resemblances obviously are either importations   —loan words
+or the result of coincidence. Thus in the native Californian language known as
+Yuki, \o means go, and l{om means come. Yet examination of Yuki reveals no
+3 95                  SOUND EQUIVALENCES AND PHONETIC LAWS                           V]
+
+further similarities. It would therefore be absurd to dream of a connection: one
+swallow does not make a summer. This lone pair of resemblances means noth-
+ing except that the mathematical law of probability has operated. Among the
+thousands of words in one language, a number are likely to be similar in sound
+to words of another language;       and of this number again a small fraction, per-
+haps one or two or five in all, will happen to bear some resemblance in meaning
+also.    In short, the similarities upon which a verdict of genetic relationship      is
+
+based must be sufficiently numerous to fall well beyond the possibility of mere
+coincidence; and it must also be possible to prove with reasonable certainty that
+they are not the result of one language's borrowing words from another,              as,
+
+for instance, EngHsh has borrowed from French and Latin.
+        At the same time it is not necessary that the similarities extend to the point
+of identity. In fact, too close a resemblance between part of the stock of        two
+languages immediately raises a presumption of borrowing. For every language
+is   continually changing, and once a mother tongue has split into several daugh-
+ters, each of these goes on modifying its sounds, and gradually shifting the
+meaning of its words, generation after generation. In short, where connection is
+real, it must be veiled by a certain degree of change or distortion.
+
+     Take the English word joot and the Latin word of the same meaning, pes.
+To offhand inspection the sounds or forms of the two words do not seem similar.
+The resemblance becomes more definite in other forms of pes, for instance the
+genitive case ped-is or the accusative ped-em. Obviously the stem or elementary
+portion of the Latin word is not pes but ped-; and the d is closer to the English
+t of ^oot    than is the s of pes. The probability of relationship is increased by the
+Greek word for foot, pons, whose stem proves to be pod-, with vowel closer to
+that of English. Meanwhile, it would be recognized that there are English words
+beginning with ped-, such as pedal, pedestrian, pedestal, all of which have a clear
+association with the idea of foot. All these words however possess almost exact
+equivalents in Latin. One would therefore be justified in concluding from these
+facts what indeed the history of the languages proves     :   namely, that pedal, pedes-
+trian, and pedestal are Latin words      taken over into English; whereas ]oot and
+pes and pous, and for that matter German juss, are derivatives from a common
+form that once existed in the now extinct mother tongue from which Greek and
+Latin and English and German are derived.
+
+
+
+               95.   SOUND EQUIVALENCES AND PHONETIC LAWS
+        The question next arises whether it is possible to account for the distortions
+that have modified the original word into joot, ped-, and so on. What has caused
+the initial sound of this ancient word to become p in Latin and / in English,
+and its last consonant to be d in Latin and Greek, t in English, and ss in Ger-
+man? To answer this seemingly innocent question with accuracy for this one
+1                                            LANGUAGE                                  § 95
+
+
+word alone would involve a treatise on the whole group of languages in ques-
+tion; and even then the causes, as causes, could hardly be set down with cer-
+tainty. But it has proved possible to assemble a large number of instances of
+parallel "distortion" in which Latin p corresponds to English /, or d to /. Evi-
+dently philology has got hold of a generalized phenomenon here. Since father
+corresponds to pater, full to pl-enus, for to pro, fish to piscis, and so on in case
+after case, we are evidently face to face with a happening that has occurred with
+regularity and to which the name "law" is therefore applicable.
+        The / of foot and the p of pes are both lip sounds. They differ pre-emi-
+nently in that / can be prolonged indefinitely, whereas     p is produced by a
+momentary closure of the lips with stoppage of the breath. It is customary to
+speak of sounds produced by a process like that for p as "stops." F, on the other
+hand, is a "continuant," and more specifically a "fricative" or rubbing sound.
+     The English word three begins with a sound which, although convention-
+ally represented by the two letters M, is a simple sound and in a class with / in
+being fricative. Th is formed by putting the tongue lightly across the teeth, just
+as / is made by placing the lower lip against the edge of the upper teeth. In both
+cases the breath is expelled with friction through a narrow passage.           Now if the
+fricative / is represented in Latin          by the stop p, then, if regularity holds good,
+the English fricative th ought to be represented in Latin by the stop sound in
+the corresponding dental position; namely, /.             The Latin word for three is in
+fact tres; for thin, ten-uis; for mother, mater; for thou, tu, and so on. The regu-
+
+larity therefore     extends beyond the limits of the single labial class of sounds,
+and applies with equal force to the dentals; and, it may be added, to the palatals
+and gutturals as well.
+        As one passes from English and Latin to German, one finds the initial sound
+of the word meaning three, drei, to be somewhat different from th                and / but
+still   clearly allied, since it also is   made by the tongue against the teeth. D is a
+stop like t, but the vocal cords vibrate while it is being pronounced, whereas
+in / the vocal cords are silent.    D   is   "voiced" or "sonant," t "unvoiced" or "surd."
+Hence the formulation: Latin, surd stop; German, sonant stop; English, frica-
+tive. This triple    equivalence can be substantiated in other words. For instance,
+ten-uis, diinn, thin; tu, du, thou.
+
+        If it is the English word that contains a surd stop, what will be the      equiva-
+lent in Latin      and German? Compare ten, Latin decern, German zehn, pro-
+nounced tsehn. Again the three classes of sounds run parallel; but the place of
+their appearance in the three languages has shifted.
+    The third possible placing of the three sounds in the three languages is
+when English has the sonant stop d. By exclusion it might be predicted that
+Latin should then show the fricative th and the German the surd stop /. The
+word daughter confirms this. The German is tochter. Latin in this case fails us,
+the original corresponding stem having gone out of use and been replaced by
+§ 95                    SOUND EQUIVALENCES AND PHONETIC LAWS                             I9
+
+the word filia. Hut CIrcek, whose sounds tend to             aHgn with those of Latin as
+opposed to Enghsh and German, provides the th as expected: thygater.
+       Let us bring together these results so that the eye may grasp them:
+
+
+                                  SOUND EQUIVALENCES
+              Latin, Greek       surd stop       sonant stop          fricative
+              German             sonant stop     fricative            surd stop
+              English            fricative       surd stop            sonant stop
+
+              Latin, Greek       tres            duo                  thygater
+              German             drci            zwei                 tochter
+              English            three           two                  daughter
+
+
+These relations apply not only to the dentals d, t, th          {s,   z),   which have been
+chosen for illustration, but also to the labials p, b, f, and to the palatals ^, g,
+h{gh,ch).
+       It is evident   that most of the sounds occur in all three groups of languages,
+but not in the same words. The sound t is common to English, Latin, and Ger-
+man, but when it appears in a particular word in one of these languages it is
+replaced by d and th in the two other languages. This replacing is known as a
+"sound shift." The sound shifts just enumerated constitute the famous Grimm's
+Law. This was the first important phonetic law or system of sound substitutions
+discovered in any family. Yet it is only one of a number of shifts that have been
+worked out for the Indo-European family of languages to which English, Ger-
+man, and Latin belong. So far, only stopped and fricative consonants have been
+reviewed here, and no vowels have been considered. Other languages, in the
+Indo-European family and in other families, also show shifts, but often different
+ones, as between / and «, or / and \, or p and ^.
+       The significance of a shift lies in the fact that its regularity cannot easily be
+explained on any other ground than that the words in which the law is operative
+must originally have been the same. That is, Latin duo, German zwei, English
+ttvo are all only variants of a word that meant "two" in the mother tongue from
+which these three languages are descended. This example alone is of course
+insufficient evidence for the existence of such a common mother tongue. But
+
+that each of the shifts discussed     is substantiated by hundreds or thousands of
+
+                                        —
+words in which it holds true this fact puts the shift beyond possibihty of
+mere accident: the explanation of coincidence is ruled out. The resemblances
+therefore are both genuine and genetic. The conclusion becomes inevitable that
+the languages thus linked are later modifications of a former single speech.
+     It is in this way that linguistic relationship is determined. Where an ancient
+
+sound shift, a law of phonetic change, can be established by a sufficient number
+of cases, argument ceases. It is true that when most of a language has perished,
+or when an unwritten language has been but fragmentarily recorded or its
+analysis not carried far, a strong presumption of genetic unity may crowd in
+20                                            LANGUAGE                                     § 95
+
+
+on the investigator who is not yet in a position to present the evidence o£ laws.
+The indications may be strong enough to warrant a tentative assumption of
+relationship.       But the final   test is   always the establishment of laws of sound
+equivalence that hold good with regularity
+                                                      —part-for-part correspondence, the
+biologist would say.
+
+
+
+                        90.   THE PRINCIPAL SPEECH FAMILIES
+     The number of linguistic families or stocks is not a matter of much theo-
+                                                           ^
+
+
+
+retical import.From what has already been said it appears that the number can
+perhaps never be determined with absolute accuracy. As knowledge accumu-
+lates and dissection is carried to greater refinements, new similarities will be
+
+uncovered and will serve to unite what now seem to be separate stocks. Yet for
+the practical purpose of classifying           and relating peoples the linguistic family
+will       remain an indispensable     historical tool.   A rapid survey of the principal
+families will therefore be given.
+       In Asia and Europe, which must be considered a unit in this connection,
+the number of linguistic stocks, according to conservative reckoning, does not
+exceed twenty-five, and may be fewer. The most important of these, in point of
+number of speakers, is the Indo-European or Indo-Germanic or Aryan family,
+whose territory for several thousand years has comprised southwestern Asia and
+the greater part, but by no means all, of Europe. The most populous branches
+of the Indo-European family are the Indie, Slavic, Germanic, and Romance or
+Latin. Others are Persian or Iranic, Armenian, Greek, Albanian, Baltic or
+Lithuanian, and Keltic. From Europe various Indo-European languages, such
+as English, Spanish,          French, Russian, have in recent centuries been carried to
+other continents, until in some, such as the Americas and Australia, much the
+greater area is now inhabited by peoples speaking Indo-European. (As the ac-
+companying maps are intended to depict the historical or native distribution of
+languages, they omit this recent diffusion, important as it is.)           It   will be noted
+that the home distribution of Indo-European has the form of a long belt stretch-
+ing from western Europe to northeastern India, with an interruption only in
+Asia Minor (Fig. 14). Turkish peoples displaced Indo-Europeans there about a
+thousand years ago, thus breaking the territorial continuity. It is probable that
+another link between the western and eastern Indo-Europeans once stretched
+around the north and east of the Caspian Sea. Here also there are Turks now.
+       Almost equaling Indo-European in the number of its speakers is the Sinitic
+family, which is generally held to include Chinese proper with its dialects; the
+Tibeto-Burman branch; the T'ai or Shan-Siamese branch; and probably some
+minor divisions.
+       ^   "Linguistic family" and "linguistic stock" are used as synonyms in this book.   The
+criterion of both is not the degree of similarity of the included languages, but the fact (or
+presumptive fact) of relationship through common descent.
+                 FIG. 14.         LINGUISTIC FAMILIES OF ASIA AND EUROPE
+       Basque. 2, Indo-European. 3, Caucasian (perhaps two families). 4, Ural-Altaic (a,
+      I,
+
+Finno-Ugric; B, Samoyed; c, Turkish; d, Mongol; e, Tungus-Manchu) 5, Semitic. 6,                         .
+
+
+
+
+Dravidian.        7,   Kolarian.       8,    Sinitic   (a,   Chinese;    b,   Shan-Siamese;   c,    Tibeto-Burman;      d,
+
+Miao, Lolo, Moso,             etc.).    (9,   Khasi, belongs to 11.)           10,   Annamese.     11,   Mon-Khmer.    12,
+
+Sakai.     13,    Semang.      14,     Andaman.        15,   Malayo-Polynesian or Austronesian.              16,   Korean.
+17,   Japanese.        18,   Ainu.     19,    Ket or Yeniseian.         20,   Yukaghir. 21, Chukchi-Koryak-Kam-
+chadal. 22, Eskimo.
+22                                   LANGUAGE                                     § 9^
+
+
+     In extent of territory occupied the Altaic stock rivals the Indo-European. Its
+three main divisions, Turkish, Mongolian, and Tungus-Manchu, cover most of
+northern and central Asia and some tracts in Europe. The Turks, as just noted,
+are the only linguistic group that within the period of history has gained ap-
+preciable territory at Indo-European expense. The Uralic or Finno-Ugric family
+has eastern Europe and northwestern Asia as its home, with the Finns and the
+Hungarian Magyars      as the   longest-civilized   and best-known   representatives.
+This is a geographically scattered stock. Most scholars unite the three Altaic
+divisions with Finno-Ugric and Samoyed into an even larger Ural-Altaic family
+characterized by certain structural similarities; but some deny the reaUty of such
+a Ural-Altaic family   on the ground that the       similarities are not original or
+
+genetic.
+   Of the Semitic family, Arabic is the chief living representative, with
+Amharic and Tigre in Ethiopia as little-known African half-sisters. Arabic is
+one of the most widely diffused of all languages, and as the orthodox vehicle of
+Mohammedanism has served an important function as a culture-carrier. Several
+great nations of ancient times also spoke Semitic tongues: Babylonians, As-
+syrians, Phoenicians, Carthaginians, and    Hebrews.
+     Southern India is Dravidian. While people of this family enter little into
+our customary thoughts, they number over fifty millions. Japanese and Korean
+also merit   mention as important stock tongues. Annamese, by some regarded
+as a Sinitic offshoot, may constitute a separate stock. Several minor famiHes will
+
+be found on the Asiatic map, most of them consisting of uncivilized peoples or
+of those limited in their territory or the number of their speakers. Yet, so far
+as can be judged from present knowledge, they form units of the same order of
+independence as the great Indo-European, Semitic, and Ural-Altaic stocks.
+     Language distributions in Africa are in the main simple         (Fig. 15).   The
+whole of northern Africa this side of latitude 10° N., and parts of East Africa to
+and beyond the equator, were at one time Hamitic. This is the family to which
+the language of ancient Egypt belonged. Hamitic and Semitic, named after sons
+of Noah, probably derive from a common source, in which case there would be
+only the Hamitic-Semitic family to be reckoned with. Also, in that eventuality
+the separation of the common mother tongue into the African Hamitic and the
+Asiatic Semitic divisions must have occurred in very ancient times. In the past
+thousand years Hamitic has yielded ground before Semitic, owing to the spread
+of Arabic in Mohammedan Africa.
+     Africa south of the equator is the home of the great Bantu family, except
+in the extreme southwest of the continent.     There a tract of considerable area,
+though of small populational density, was in the possession of the backward
+Bushmen and Hottentots, distinctive in their physical types as well as their
+languages.
+     Between the equator and latitude 10° N., in the belt known as the Sudan,
+there is much greater speech diversity than elsewhere in Africa. The languages
+ ^9^                                THE PRINCIPAL SPEECH FAMILIES                                        23
+ of the     Sudan     fall   into several families, perhaps into a fairly large                    number.
+ Opinion conflicts or is unsettled as to their classification. They are, at
+                                                                                                   least in
+ the main, non-Hamitic and non-Bantu; but this negative fact
+                                                                                  does not preclude
+ their having had either a single or a dozen origins. It has
+                                                             usually been easier to
+ throw them all into a vague group designated as non-Hamitic and
+                                                                         non-Bantu
+ than to compare them in detail.
+      In Oceania conditions are similar to those of Africa, in that
+                                                                    there are a few
+ great, widely branching stocks and one rather
+                                                    small area, New Guinea, of
+ astounding speech diversity. Indeed, superficially this variety is
+                                                                                      the outstancling
+
+
+
+
+                      FIG. 15-        LINGUISTIC FAMILIES OF AFRICA
+    I,   Hamiuc. 2, Semitic (a, old; b, Arabic, intrusive in former Hamitic territory since
+Mohammed).       3,   Bantu.   4,   Hottentot.   5,   Bushman, perhaps   related to   last.   6,   Malayo
+Polynesian. X,   The Sudan, not consistently classified.
+24                                     LANGUAGE                                        § 96
+
+
+linguistic feature of   New Guinea. The hundreds of Papuan dialects of the island
+look as if they might require twenty or more families to accommodate them.
+However, it is inconceivable that so small a population should time and again
+have evolved totally new forms of speech. It is much more likely that some-
+thing in the mode of life or the habits of mind of the Papuans has favored the
+breaking-up of their speech into local dialects and an unusually rapid modifi-
+cation of these into markedly differentiated languages. What the circumstances
+were that favored this tendency to segregation and change can be only conjec-
+                New Guinea ranks with the Sudan, western North America,
+tured. At any rate,
+and the Amazonian region of South America as one of the areas of greatest
+linguistic multiplicity.
+     All the remainder of Oceania is either Australian or Malayo-Polynesian in
+speech.The Australian idioms have been imperfectly recorded. They were
+numerous and locally varied, but may derive from a single mother tongue.
+   All the East Indies, including part of the Malay Peninsula, and all of the
+island world of the Pacific    —Polynesia, Micronesia, and Melanesia, always            ex-
+cepting interior New Guinea     —are the habitat of the closely knit Malayo-Poly-
+nesian or Austronesian family, whose unity was early recognized by philolo-
+gists.   From Madagascar to Easter Island this speech stretches more than half-
+way around our planet.
+     North and South America, according to the usual reckoning, contain more
+native families of speech than all the remainder of the world. The conventional
+conservative classification allots forty or more families each to North and South
+America. These families varied greatly in size at the time of discovery, some
+being confined to a few hundred souls, whereas others stretched through tribe
+after tribe over enormous areas. Their distribution is so irregular and their areas
+
+so disproportionate as to be impossible of vivid representation except on a large-
+scale    map in colors. The most important in extent of territory, number of
+speakers, or the cultural importance of the nations adhering to them, in North
+America are: Eskimo, Athabascan, Algonkin, Iroquoian, Muskogean, Siouan,"
+Uto-Aztecan, Maya; and in South America: Chibcha, Quechua, Aymara, Arau-
+canian, Arawak, Carib, Tupi, Ge. It will be seen on the maps (Figs. 16 and 17)
+that these sixteen groups held much the greater part of the area of the double
+continent, the remaining smaller areas being crowded with perhaps four times
+as many stocks. Obviously, as in      New Guinea, such a multiplicity cannot well
+have been original; in fact, recent studies are tending to consolidate the New
+World families into fewer and fewer groups. But the evidence for such reduc-
+tions is necessarily difficult to find and much of it is still incomplete. The large
+stocks named above have been long determined an-d are universally accepted.
+
+                                            4, 5, 6 of map 16) are often united with Hokan,
+    2 Iroquoian, Siouan, Muskogean (nos.
+
+                                                           —
+Caddoan, and others into a Hokan-Siouan "superfamily" something like Ural-Altaic
+which seems a probable historical unit in origin, but remains unproved as such.
+            FIG. l6.         LINGUISTIC FAMILIES OF NORTH AMERICA
+    I,   Eskimo.    2,   Athabascan.   3,   Algonkin.   4,                5, Siouan. 6, Muskogean. 7,
+                                                                 Iroquoian.
+Uto-Aztecan.   8,    Mayan. SAi, Arawak = No.                i    and SA8, Chibcha = No. 8 of South
+American map        (Fig. 17).   The white areas are occupied by a greater number of smaller
+families, according to the usual classification.
+               FIG. 17.     LINGUISTIC FAMILIES OF SOUTH AMERICA
+      I,   Arawak. 2, Carib. 3, Ge. 4, Tupi. 5, Araucanian. 6, Aymara.   7,   Quechua   (Inca).
+8,   Chibcha. 9; Tucano.   10,   Pano.          Guaycuru. 13, Puelche. 14, Tehuelche.
+                                         11, Diaguita.   12,
+Smaller families in unnumbered areas. Nos. i and 2 extend into the West Indies, No. 8
+into Central America. (After Chamberlain and Jimenez Moreno)
+§ 97                    CLASSIFICATION OF LANGUAGES BY TYPES                                   27
+
+     About a third of humanity today speaks some form of Indo-European.
+Nearly a quarter talks some dialect of Sinitic stock. Semitic, Dravidian, Ural-
+Altaic, Japanese, Malayo-Polynesian, Bantu have each from about 50 to 100
+million speakers. The languages included in these eight families form the speech
+of approximately 90 per cent of living human beings.
+
+
+
+                   97. CLASSIFICATION OF            LANGUAGES BY TYPES
+
+       A customary nongenetic classification groups languages or families accord-
+ing to their structure into four main types: inflective, agglutinating, isolating,
+and polysynthetic or incorporating. These classes are not logically co-ordinate.
+    An inflecting or fusional language expresses relations or grammatical form
+by adding prefixes or suffixes that cannot stand alone, or if they stood alone
+would mean nothing, and which therefore can be considered as fused into the
+word; or it expresses relations by internal modification of the stem. The -ing of
+frilling is such an inflection; so are the vowel changes and the ending -en in the
+
+conjugation write, wrote, written.
+       An isolating language expresses relations by separate words or isolated
+particles.   Words are always unexpanded, unaltered stems or radicals. English
+heart of     man is isolating, where man's heart and Latin cor homin-is are in-
+flective.
+
+       An agglutinative language "glues together" into solid words, or juxtaposes,
+elements for which a definite, exclusive, regular meaning of their own can be
+traced or felt. English does not use this mechanism for purposes that are ordi-
+narily reckoned as strictly grammatical, but does employ it for the related pur-
+pose of derivation.           Under-ta\e,   rest-less,   fore-go,   moon-like,    are   examples;
+qtiic\-ly, for quickjlike, is a border-line case.
+
+       Polysynthetic languages are agglutinative ones carried to a high pitch, or
+those which can unite words into equivalents of fair-sized sentences. Steam-boat-
+propeller-blade might be called a polysynthetic form if we spoke or wrote it in
+one word as modern German might. Incorporating languages are generally in-
+cluded in polysynthetic ones: they embody the object noun, or the pronoun rep-
+resenting    it,   into the   word that contains the verb stem. This construction is
+totally foreign to English.^
+
+       Each of these classes evidently defines one or more distinctive linguistic
+processes. The mechanisms at work are different. But no one language operates
+wholly with one process. The instances given show that English employs most
+of them. Obviously, therefore, it would be arbitrary to classify English as being
+outright of one type. This is also the situation for most other languages. There
+
+    ^ Noun incorporation seems mostly to form compounds of nouns with verbs, or verbs
+
+with verbs, to form verbs: "to rabbit-kill," "to run-kill," and so on. This construction
+happens to be so alien to the genius of Indo-European that            it   has been singled out as
+notable. Pronominal incorporation is discussed below, in § 108.
+28                                         LANGUAGE                                         § 97
+
+
+are in fact dozens and dozens of mechanisms by which languages operate, and
+the combinations of these in particular languages are indefinitely numerous.
+To force these many different actual structures into four classes may be con-
+venient, but is logically roughshod.
+      There are other difficulties. English, for instance, was mainly inflecting
+fifteen  hundred years ago, but today more largely uses isolating processes. We
+still say John's house, but we use heart of man perhaps more often than man's
+
+heart; and house's top would strike a listener as so odd that he might think he
+had misheard. Camest thou? for Did you come? would still be intelligible as
+poetry, but in conversation it would be construed as a stilted attempt at a joke.
+Which pigeonhole, inflecting or isolating, does modern English go into? And
+how valid are compartments when languages can wriggle themselves like this
+from one into another compartment in a fairly short span of their history.''
+       Any classification into types is basically logical; whereas a genetic classi-
+fication that reflects  development and relationship must be empirical. And the
+only genetic classification yet devised for languages is based on the kind of com-
+parisons described, and yields speech families              —   certain, probable, or possible
+families, according as the data are more or less full, exact, and carefully analyzed.
+       Also, the type classification started with the idea that Latin, Sanskrit, and
+Hebrew were both inflecting and superior in kind. Chinese, whose literature is
+also ancient, made the isolating class respectable; but the other types were con-
+sidered inferior. These implications of better and worse have tended to remain
+attached to the classification; and         it   is   obvious that such judgments have no
+place in scientific analysis or description.*
+
+
+
+                     98.   PERMANENCE OF LANGUAGE AND RACE
+       It   is   sometimes thought that because a           new speech is readily learned,
+especially in youth,        language is a relatively unstable factor in human history,
+less   permanent than race. It is necessary to guard against two fallacies in this
+connection. The first is to argue from individuals to societies; the second, to
+believe that because change is possible, it normally takes place.
+       As a matter of fact, languages often preserve their existence, and even their
+territory,       with surprising tenacity in the face of conquest, new religions and
+culture,     and the economic disadvantages of unintelligibility. Today, Breton, a
+Keltic dialect, maintains itself in France as the everyday language of the people
+in the isolated province of Brittany         —a sort of philological      fossil. It   has with-
+stood the influence of two thousand years of contact with Latin, with Saxon and
+
+       * Sapir   has proposed a structural type classification into Pure-relational and Mixed-
+relational languages, each subdivided into Deriving or Complex and Nonderiving or Simple,
+and then qualified by the concepts here discussed. But the scheme seems never to have been
+applied in actual description; perhaps because the scale from concrete to relational values on
+which the classification is based is sliding, and not easily defined objectively.
+^   98                  l^ERMANtNCt Oh LANCUA(;E AND RACE                         29
+Frankisli Cicriiian, with French. Its Welsh sister tongue flourishes in s[)ite of the
+Anglo-Saxon speech of the remainder of Great Britain. Ancient Egypt was con-
+quered by the Hyksos, the Assyrian, the Persian, the Macedonian, and the
+Roman, but whatever the official speech of the ruling class, the people continued
+to speak Egyptian. Finally, the     Arab came and brought with him a new re-
+ligion,     which favored use of the Arabic language. After four thousand years,
+Egypt at last became Arabic-speaking; but until a century or two ago the Coptic
+language, the daughter of the ancient Egyptian tongue of five thousand years
+ago, was kept alive by the native Christians along the Nile, and even today        it
+
+survives in ritual. The boundary between French on the one side and German,
+Dutch, and Flemish on the other has been accurately known for over six hun-
+dred years. With all the wars and conquests back and forth across the speech
+line,                            and cultural influences, this Hne has scarcely
+          endless political changes
+shifted     anywhere more than a few dozen miles, and in places has not moved
+the distance of a comfortable afternoon's stroll.
+         While populations can learn and unlearn languages, they tend to do so
+with reluctance and infinite slowness, especially while they remain in their
+inherited territories. Speech tends to be one of the most persistent populational
+characters; and "ethnic" boundaries are most often speech boundaries.
+         In general, where two populations mingle, the speech of the more numerous
+most often prevails, even if it be that of the subject nationality. A wide gap in
+culture may overcome the influence of the majority; yet the speech of even a
+culturallymore active and advanced population ordinarily wrests permanent
+                                    where there is an actual crowding-out or
+territory to itself only slowly, except
+
+numerical swamping of the natives. This explains the numerous survivals and
+"islands" of speech: Keltic, Albanian, Basque, Caucasian, in Europe; Dravidian
+and Kolarian in India; Nahuatl and Maya and many others in modern Mexico;
+Quechua in Peru; Aymara in Bolivia; Tupi in Brazil. There are cases to the
+contrary, like the rapid spread of Latin in most of Gaul after Caesar's conquest,
+but they seem exceptional.
+         As to the relative permanence of race and speech, everything depends on
+the side     from which the question is approached. From the point of view of
+hereditary strains, race  must be the more conservative, because it can change
+rapidly only through admixture with another race, whereas a language may be
+completely exchanged in a short time. From the point of view of history, how-
+ever, which regards human actions within given territories, speech is often more
+stable. Wars or trade or     migration may bring one racial element after another
+into an area until the type has become altered or diluted, and yet the original
+language, or one directly descended from it, remains. The introduction of the
+Negro from Africa to America illustrates this distinction. From the point of
+view of biology, the Negro has at least partially preserved his type, although
+he has taken on a wholly new language. As a matter of history, the reverse is
+30                                      LANGUAGE                                       § 9^
+
+
+true: pure English continues to be the speech of the southern                United States,
+whereas the population now consists of two races instead of one, and the Negro
+element has been altered by the infusion of white blood. It is a fallacy to think
+that because an individual can learn French or become a Christian and yet is
+powerless to change his eye color or head shape, therefore the language or the
+culture of large populations      is   necessarily less stable than race. Speech       and
+culture have an existence and a continuity of their own, whose integrity does
+not depend on hereditary integrity. The two may move together or separately.
+
+
+
+     99.   THE BIOLOGICAL AND HISTORICAL NATURES OF LANGUAGE
+     It is a truism, but one   important never to forget in the study of man, that
+the faculty of speech is innate, but that every language is wholly acquired. More-
+over, the environment of which languages are the product is not a natural one
+that is, geographic or climatic —but        All words and speech forms that are
+                                         social.
+
+learned    —and they constitute almost the complete mass of language—are imi-
+tated directly from other human beings. Those new forms which from time to
+time come into use rest on existing speech material, and are shaped according
+to tendencies already operative although perhaps more or less hidden. The new
+or changed forms cannot generally be attributed, as regards origin, to particular
+individuals; in short, they present a history similar to that of inventions and
+new institutions. Language thus is a superorganic product, which fact of course
+does not contradict   —indeed implies—that         it   rests   on an organic basis.
+    The "speech" of the animals other than man has something in common
+with human languages. It consists of sounds produced by the body, accompanied
+by certain mental activities or conditions, and capable of arousing certain definite
+responses in other individuals of the species (§ 20). It differs from human speech
+in several fundamental particulars. First of all, the cries and calls and murmurs
+of the brutes appear to be wholly instinctive.      A fowl raised alone in an incubator
+will peep and crow or cluck as it will scratch and peck.      A dog reared by a foster
+cat will bark, or growl, or whine, or yelp         when he has attained the requisite
+age and on application of the proper stimulus, as he will wag or crouch or hunt
+or dig, and no differently from the dog brought up in association with other
+dogs. By contrast, the Japanese infant turned over to American foster parents
+never utters or knows a single Japanese word, learns only English, and learns
+that as well as do his Caucasian stepbrothers. Evidently, then, animal speech is
+to all intents wholly organic and not at all "social" in the sense of being super-
+organic. If this summary is not absolutely exact, it departs from the truth only
+infinitesimally.
+     Further, animal speech has no "meaning," does not serve as a vehicle of
+"communication."      The opposite is often assumed popularly, because we an-
+thropomorphize. If it is said that a dog's growl "means" anger, and that his
+§   100         PROBLEMS OF RELATION OF LANGUAGE AND CULTURE                     3I
+
+bark "communicates" suspicion or excitement to his fellows, the words are used
+in a sense different from their significance when we say that the term red
+"means" the color at one end of the spectrum, or that a message of departure
+"communicates" information. The animal sounds convey knowledge only of
+subjective states. They "impart" the fact that the utterer feels anger, excitement,
+fear, pain,    contentment, or some other affect. These are immediate reflex     re-
+
+sponses to a feeling.  They may be "understood" in the sense that a sympa-
+thetic feeling is evoked, or at any rate mobilized; and thereby they may lead
+or tend to lead to action by the hearers. In the same way, any man instinctively
+"understands" the moan of a fellow human being. But the moan does not tell
+whether the pain is of a second's or a week's duration, caused by a blow or by
+gas in the bowel, by an ulcerated tooth or by mental anguish. There        is no
+
+communication of anything objective, of facts or ideas as distinct from feelings,
+as when we say red or breal{ or up or water. Not one of these simple concepts
+can be communicated as such by any brute speech.
+      One consequence is the "arbitrariness" of human speech. Why should the
+sound cluster red denote that particular color rather than green ? Why does the
+same word often designate quite distinct ideas in different languages the ap-—
+proximate sound combination lay meaning "milk" in French; lass "a girl" in
+English, "tired" in French, "allow" in German? Such facts are physiologically
+arbitrary; just as it is physiologically arbitrary and organically meaningless that
+Americans live in a republic and Britons under a monarchy, or that they drive
+respectively to the right   and the left on the road. Phenomena like these have
+other cultural or superorganic phenomena as their immediate antecedents and
+preconditions. In the light of these antecedents, viewed on the level of history,
+they are intelligible:   we know why the United States is a republic, we can
+trace the development of words like lay and lass. It is only    from the biological
+plane that such facts seem nonsignificant or arbitrary.
+
+
+    100.   PROBLEMS OF THE RELATION OF LANGUAGE AND CULTURE
+      This association of language and civilization    —or   better, us say the
+                                                                       let
+
+linguistic    and nonlinguistic constituents of culture —brings up the problem
+whether it would be possible for one to exist without the other. Actually, of
+course,    no such case is known. Speculatively, different conclusions might be
+reached. It is difficult to imagine any generalized thinking taking place without
+words or symbols derived from words. Religious beliefs and certain phases of
+social organization also seem dependent on speech: caste ranking, marriage regu-
+
+lations, kinship recognition, law, and the like.   On the other hand, it is conceiv-
+able that a considerable series of simple inventions      might be made, and the
+applied arts might be developed in a fair measure by imitation, even among a
+speechless people. Finally there seems no reason why certain elements of culture,
+32                                    LANGUAGE                                      ^ 100
+
+
+such as music, should not flourish as successfully in a society without as with
+language.
+    For the converse, a cultureless species of animal might conceivably develop
+and use a form of true speech. Such communications as "The river is rising,"
+"Bite it off," "What do you find inside.''" would be within the range of thought
+of such a species. But the significant fact in this connection is that no non-
+human animal possesses even traces of such power of communication. Why?
+Possibly because such a language would lack survival value for the species, in
+the absence of accompanying culture.
+       On the whole, however, it would seem that language and culture rest, in a
+way that is not yet fully understood, on the same set of faculties, and that these,
+for some reason that is still more obscure, developed in the ancestors of man
+while remaining in abeyance in other species. Even the anthropoid apes seem
+virtually devoid of the impulse to communicate, as we have seen earUer (§29),
+in spite of freely expressing their affective states of mind by voice, facial gesture,
+and bodily movement. The most responsive to man of all species, the dog, learns
+to accept a considerable stock of culture in the sense of fitting himself to it      :   he
+develops conscience and manners, for example. Yet, however highly bred, he
+does not hand on his accomplishments to his progeny, who again depend on
+their human masters for what they acquire.    A group of the best-reared dogs left
+to themselves for a    few years would lose all their politeness and revert to the
+predomestic habits of their species. In short, the culture impulse is lacking in
+the dog except so far as it is instilled by man and kept instilled by him; and in
+most animals it can notoriously be instilled only to a very limited degree. In the
+same way, the impulse toward communication can be said to be wanting. A
+dog may understand a hundred words of command and express in his behavior
+fifty shades of emotion; only rarely does he even seem to try to communicate
+
+information of objective fact. Very likely we are only attributing to him in these
+rare cases the impulse we should feel in the same situation. In the event of a
+member of the family being injured or lost, it is certain that a good dog ex-
+presses his agitation, uneasiness, disturbed attachment; but it is        much less cer-
+tain that he intends to summon help, as we spontaneously incline to believe be-
+cause such summoning would be our own reaction to the situation.
+       The history and the causes of the development in incipient man of the group
+of traits that may be called the faculties for speech and civihzation remain one
+of the darkest areas in the field of knowledge. It        is   plain that these faculties
+lie   essentially in the sphere of personality,   and therefore of the body. Yet men
+and the apes are far more similar in their general physiques than they are in
+the degree of their ability to use their physiques for superphysiological purposes.
+Or, if the antithesis of physical and mental seems unfortunate, it might be said
+that the growth of the faculties for speech and culture is connected more with
+special developments of the central nervous system than           with those of the re-
+mainder of the body.
+§   102                     SPEECH, CULTURE, AND NATIONALITY
+                                                                                    33
+
+                      101. PERIOD OF     THE ORIGIN OF LANGUAGE
+        Is, human language as old as culture? It is difficult to be positive,
+              then,
+because words perish like beliefs and institutions, whereas stone tools may
+endure as direct evidence. On the whole, however, it would appear that the first
+rudiments of what deserves to be called language are about as ancient as the
+first   culture manifestations, mainly because of the theoretically close association
+of the two.         The skull interiors of fossil men, which conform fairly closely to
+the brain surface, have been construed by          some authorities as indicating that
+the speech areas of the cortex were sufficiently developed, even in forms as old
+as Sinanthropus, to suggest that these races talked.
+        Such findings may be accepted as highly tentative. What is more to the
+point, however, is that anthropologists are in general         agreement that language
+grew up in correlation with culture, if indeed it was not its necessary antecedent.
+Cultural activity, even of the siniplest kind, inevitably rests on ideas or gen-
+eralizations; and such or any ideas, in turn, human minds seem to be able to
+formulate and operate with and transmit only through speech. Nature consists
+of an endless array of particular phenomena. To combine these particulars into
+a generaUzation or an abstraction, such as passing from potential awareness of
+the thousands of stones along a river bed into the idea of stone as a distinctive
+material      —   this synthesis appears to require the   production of some kind of a
+symbol, perhaps as a sort of psychological catalyzing agent or point of crystalli-
+zation: a symbol such as the sounds that          make up the word stone. In short,
+culture can probably function only          on the basis of abstractions, and these in
+turn seem to be possible only through speech, or through a secondary substitute
+for   spoken language such as writing, numeration, mathematical and chemical
+notation, and the like. Culture, then, began when speech was present; and from
+then on, the enrichment of either meant the further development of the other.
+        This view is hardly demonstrable; but it seems pretty much to represent the
+belief of such anthropologists as have grappled with the problem.
+
+
+
+                      102. SPEECH,    CULTURE, AND NATIONALITY
+
+    This assumption as to the rise of culture raises the question whether one
+ought to speak of language and culture or rather of language as a part of culture.
+So far as the process of their transmission is concerned, and the type of mech-
+anism of their development, it is clear that language and culture are one. For
+practical purposes it is generally convenient to keep them distinct. There is no
+doubt that two peoples can share in what is substantially the same culture and
+yet speak fundamentally different idioms          and therefore feel themselves to be
+separate nationalities; for instance, the Finno-Ugric          Magyars or Hungarians
+among the adjacent Slavs, Germans, and Latins of central Europe, who are all
+34                                           LANGUAGE                                          5 I**^
+
+
+Indo-Europeans. British and Americans speak the same standard language; they
+are closely related, in fact derived, in culture;           and yet their geographical sepa-
+ration has been followed by enough divergence of institutions and habits to have
+led to political separation, which in turn induces both populations to feel them-
+selves as distinct nationalities. In fact, nationality         is   essentially a feeling of dis-
+
+tinctness or unity, of sense of demarcation              between in-group and out-group.
+Thus the concept "nationality" is fundamentally subjective, whereas both lan-
+guages and cultures are objectively alike or unlike, unitary or distinct.
+       It is   therefore logically inadmissible and risky in practice to infer from na-
+tionality to language or culture, or vice versa. It            is   unsound much as it is un-
+sound to assume an identity of race, language, and culture for a given area, or to
+argue from the prevalence of one to the other (§80).
+    Nevertheless, speech and culture do tend to form something of a unit as
+opposed to race. It is possible for a population to substitute a wholly new lan-
+guage and type of civilization for the old ones, as the American Negro has done,
+and yet to remain relatively unmodified racially, or at least to carry on its former
+physical type unchanged in a large proportion of its members. On the other
+hand, a decisive change of speech without some change of culture seems im-
+possible. Certainly wherever Sumerian, Greek, Latin, Spanish, English, Arabic,
+Sanskrit, Pali, and Chinese have penetrated as carriers of a religion, literacy, or
+an associated culture, there have also been established new forms of civilization
+(§ 169). In a lower degree, the same principle probably holds true of every gain
+of one language at the expense of another, even                when the spreading idiom is
+not associated with a great or an active culture.
+       The linkage of speech and culture is further perceptible in the degree to
+which they both tend to contribute, ultimately, to the formation of the idea of
+nationality; and this in turn may contribute to a desire for a politically inde-
+pendent state or nation. What chiefly marks off the French from the Italians,
+the Dutch from the Germans, the Swedes from the Norwegians their respec-         —
+tive       customs and ideals, or the language gap, or their political autonomy?                   It
+
+would be difficult to say. The cultural differences tend to crystallize around
+language differences, and then in turn are reinforced by language, so that the
+two factors interact complexly.
+    It is also important to recognize that nationality and nation are not neces-
+
+sarily the same, although they sometimes coincide. Usually we think of a nation
+
+as the population of a           wholly autonomous and supreme political unit                —what
+Europeans used to call "the state." Politically, state and nation are one            :
+                                                                                         ®   as when
+
+       ^   While a political nation or body politic means a state in its most general and ordinary
+sense, a special historical accident of our manner of growth has brought it about that in the
+United States of America we call "national" whatever pertains to the total people and
+government, and by "state" designate constituted parts thereof. This is an anomaly in
+Western civilization. In our American term "Department of State," the word still has it?
+original sense of referring to the whole body politic.
+§   102                     SPEECH, CULTURE, AND NATIONALITY                               35
+wc speak of the United Nations. But an essentially single nationality can com-
+prise several states that in modern political terminology are called nations: such
+as Australians,        New Zealandcrs, Canadians, and British. Or again a century ago
+Germans formed as definite a nationality as they do now, with distinctive speech,
+customs, temperament, and ideals, but were broken up into some thirty self-
+governing units or wholly independent states or, technically in the political sense,
+nations.      On the contrary, most large states, and especially empires, have com-
+prised a variety of nationalities. Thus the mediaeval              Holy Roman Empire in-
+cluded French, Dutch, Czechs, Slovenes, and Italians as well as Germans; and
+the original Roman Empire, particularly in the times of its greatness and peace,
+included still more nationalities, who became equal before its law in spite of their
+diversity. The reason for this variability of usage          is   the ambiguity of the word
+"nation." Its dictionary definition is double. First, nation denotes a people or-
+ganized under one government, a "body politic." Second, a nation is a people
+of common origin, tradition, and language.            Now the latter is just what a nation-
+ality is, by universal consent; and it would be fine if everyone would always use
+
+the   word "nationality" when that was the meaning, and if "nation" on the
+contrary were restricted to denoting politically organized peoples.
+    Here are some contemporary cases of political nations that include two or
+more nationalities. Belgium is almost equally divided between Walloons speak-
+ing a French dialect in their homes and Flemings speaking a variant of Dutch.
+Switzerland       is   72 per cent German-speaking, 21 per cent French, 6 per cent
+Italian, i per cent Romansh. Canada is one-third French, in origin and in speech.
+
+The Union of South Africa has a white population that is part English-speaking
+and part Afrikaans- or Dutch-speaking, plus the racially distinct Bantu Negro
+natives. India in 1947 set up housekeeping on its own, as two independent politi-
+cal nations, with dozens of nationalities and languages. Similarly in the Philip-
+pines there are seven major and many minor tongues. In the U.S.S.R. there are
+78 per cent Russians (Great, White, and Ukrainian), plus forty-six other recog-
+nized nationalities. Some of these nationalities, such as Georgians, Armenians,
+Uzbeks, Kazaks, Moldavians, and Lithuanians, as well                   as the three   Russian
+groups, have union republics of their own. Formally, therefore, these constitute
+          autonomous nations as well as centers of nationality, and three of
+politically
+
+them have been so recognized in the United Nations organization; whereas
+the United States is reckoned as a single political nation, with its "states" mere
+subsidiary divisions.
+      It is   evident from these examples what diverse things "nation" and "na-
+tionality" can         and do mean.   It   is   certainly clearest always to use the    term
+"nationality" when the reference is ethnic, and to add the epithet "political" to
+"nation," or to substitute "government," when that is the sense, unless the con-
+text leaves no doubt as to meaning. Also it is clear that of the several objective
+factors which operate to produce nationalities, language is on the             whole much
+the most important. Without the free intercommunication that common speech
+36                                    LANGUAGE                                     §   102
+
+provides, it is very difficult for the "consciousness of kind" that is the subjective
+or psychological precondition of nationality to arise. Cultural conditions can
+either reinforce or thwart the effects of linguistic segregations, or be neutral.
+Thus the French of Quebec are further set apart by their Catholicism in Protes-
+tant Canada. In Switzerland, the Germans of some cantons are Catholics, of
+others Lutheran Protestants; the French are mainly Calvinist Protestants; the
+Italians, Catholics. There is a general understanding among the Swiss citizenry
+
+that neither religion nor linguistic consideration is to serve as a basis for political
+crystallization. In India, on the contrary, religious cleavage has proved a strong
+obstacle to political unity in the formative period. Language diversity        was felt
+to be much less of a bar, perhaps because of the          wide availability of English
+speech on upper educational      levels.   Should    political intransigeance drive out
+English, the diversity of nationalities kept separate by speech might become a
+greater threat to the political cohesiveness of India.
+     All in all, anthropology is more immediately concerned with nationaUties
+than with nations, with ethnic than with political groupings. And in nationali-
+ties and ethnic units, language is   always a factor, and often the basic one.
+
+
+                  103.   RELATIVE WORTH OF LANGUAGES
+
+     One respect in which languages differ from cultures is that they cannot, like
+the latter, be rated as higher and lower. Of course, even as regards culture, such
+rating is often a dubious procedure, meaning little more than that the person
+making the comparison assumes his own culture to be the highest and estimates
+other cultures low in proportion as they vary. Although this is a subjective and
+uncritical procedure, nevertheless certain objective         comparisons are possible.
+Some cultures surpass others in their quantitative content: they possess more
+different arts, abilities, and items of knowledge. Also, some culture traits may
+be considered intrinsically superior to others   :   metal tools against stone ones, for
+instance, since metal is adopted by all stone-culture peoples       who can secure it,
+whereas the reverse is not true. Further, in most cases a new addition does not
+wholly obliterate an older element, this retaining a subsidiary place, or perhaps
+serving some more special function than before. In this way some cultures be-
+come richer and more differentiated. The old art may even attain a higher
+degree of perfection than it had previously, as the finest polish was given to
+stone implements in northern Europe after bronze was known. In general, ac-
+cretion is the process typical of culture growth. Older elements come to function
+in a more limited sphere as new ones are added, but are not extirpated by them.
+Oars and sails remain as constituent parts of the stock of civilization after it has
+added steamboats and motorboats. In the senses, then, that a culture has a larger
+content of elements, that these elements are  more differentiated, and that a
+greater proportion of these elements are of the kind that inherently tend to
+supersede related elements, the culture may be considered superior.
+§   '03                    RELATIVE WORTH OF LANGUAGES                           37
+     As regards languages, there are also quantitative difTercnccs. Some contain
+several times as many words as others. But vocabulary is largely a cultural
+matter. A people that uses more materials, manufactures more objects, possesses
+knowledge of a larger array of facts, and makes finer discriminations in thought,
+must inevitably have more words. Yet even notable increases in size of speech
+content appear not to be accompanied by appreciable changes in form. A larger
+vocabulary does not mean a different type of structure. Grammar seems to be
+little    influenced by culture status. No clear correspondence has yet been traced
+between type or degree of civilization and structural type of language. Neither
+the presence nor the absence of particular features of tense,      number, case, re-
+duplication, or the like seems ever to have been of demonstrable advantage
+toward the attainment of higher culture. The speech of the earlier and the
+modern nations most active in the propagation of culture has been of quite
+diverse types.    The languages of the Egyptians (Hamitic)     ;   Sumerians; Baby-
+lonians  and Arabs (Semitic); Hindus and Greeks (ancient Indo-European);
+Anglo-Saxons (modern Indo-European); Chinese; and Mayas are about as
+different as any that exist. The Sumerian type of civilization was taken over
+bodily and successfully by the Semitic Babylonians. The bulk of Japanese culture
+is Chinese; yet Japanese speech is built on wholly different principles.
+
+     Then, it is impossible to rate one speech trait or type as inherently or ob-
+jectively superior to another on any basis like that which justifies the placing of
+a   metal culture above a stone culture. If wealth of grammatical apparatus is a
+criterion of superiority, Latinis a higher language than French, and Anglo-
+
+Saxon than English. But if lack of declensions and conjugations is a virtue, then
+Chinese surpasses English almost as much as English surpasses Latin. There is
+no reason favoring one of these possible judgments rather than its opposite.
+Amabo is no better or worse than / shall or will love as a means of expressing
+the same idea. The one is more compact, the other more plastic. There are times
+when compactness is a virtue, occasions when plasticity has advantages. By the
+Latin or synthetic standard, the English expression is loose-jointed, lacking in
+structure; by the English or analytic standard, the Latin form is overcondensed,
+adhering unnecessarily to form. One cannot similarly balance the merits of a
+steel and a flint knife, of a medical and a   shamanistic phase of society. The one
+does really cut or cure better than does the other.
+    So, from the point of view of civilization, language does not matter. Lan-
+guage will always keep up with whatever pace culture sets it. If a new object is
+invented or a new distinction of thought made, a word is coined or imported
+or modified in meaning to express the new concept. If a thousand or ten thou-
+sand new words are required, they get developed. When it desires to express
+abstractions like futurity or plurality, any language is capable of doing so, even
+if it    does not habitually express them. If a language is unprovided with formal
+means for the purpose, such as a grammatical suffix, it falls back on content and
+uses a word or a circumlocution. If the life of a people changes and comes to be
+38                                     LANGUAGE                                  §   103
+
+conducted along lines that render it frequently important to express an idea like
+futurity to which previously little attention has been paid, the appropriate cir-
+cumlocution soon becomes standardized, conveniently brief, and unambiguous,
+like will in    He will come. In general, every language is capable of indefinite
+modification and expansion and thereby         is   enabled to meet cultural demands
+almost at once. This is shown by the fact that virtually anything spoken or
+written can be translated into almost every other language without serious im-
+pairment of substance. The aesthetic charm of the original may be lost in the
+translation; the    new forms coined in the receiving language are likely at first
+to seem awkward; but the meaning, the business of speech, gets expressed.
+
+
+
+                             104. SIZE   OF VOCABULARY
+
+        The tendency is so instinctive in us to presuppose and therefore to find
+qualities of inferiority, poverty, or incompleteness in the speech of populations
+of more backward culture than our own, that a widespread, though unfounded,
+belief has grown up that the languages of savages and barbarians are extremely
+limited quantitatively   — in the range of their vocabulary. Similar misconceptions
+are current as to the      number of words actually used by single individuals of
+civilized communities. It is true that no one, not even the most learned and pro-
+lific   writer, uses all the words of the English language as they are found in      an
+unabridged dictionary. All of us understand many words that we habitually
+encounter in reading and may even hear frequently spoken, but of which our
+utterance faculties for some reason have not made us master. In short, a lan-
+guage, being the property and the product of a community, possesses more
+words than can ever be used by a single individual, the sum total of whose ideas
+is necessarily less than   that of his group. Added to this are a certain mental slug-
+gishness, which restricts most of us to a greater or less degree, and the force of
+habit. Having spoken a certain word a number of times, our brain becomes ac-
+customed to it and we are likely to employ it to the exclusion of its synonyms or
+in place of words of related but distinguishable meaning.
+        The degree to which all this affects the speech of the normal man has, how-
+ever, been greatly exaggerated.      Because there are, all told, including technical
+terms, some hundred thousands of words in our dictionaries, and because Shake-
+speare in his writings is said to have used 24,000 different words, Milton in his
+poems 17,000, and the English Bible contains 7200, it has been concluded that
+the average man, whose range of thought and power of expression are so much
+less, must use an enormously smaller vocabulary. It has been stated that many
+
+a peasant goes through life without using more than 300 or 400 words, that the
+vocabulary of Italian grand opera is about 600, and that he is a person above the
+average who employs more than 3000 to 4000 words. If such were the case it
+would be natural that uncivilized men, whose life is simpler, and whose knowl-
+edge is more confined, should be content with an exceedingly small vocabulary.
+§   '05                           QUALITY OF SPEECH SOUNDS
+                                                                                           39
+      But it    is   certain that the figures just cited arc erroneous. If       anyone who
+considers himself an average person will take the trouble to make a list of his
+speaking vocabulary, he will quickly discover that he knows, and on occasion
+uses, the names of at least 1000 to 2000 different things. That           is,   his vocabulary
+contains so many concrete nouns. To these must be added the abstract nouns,
+the verbs, adjectives, pronouns, and the other parts of speech, the short and
+familiar words that are indispensable to communication in any language. It may
+thus be safely estimated that it is an exceptionally ignorant and stupid person
+in a civilized country who has not at his command a vocabulary of several thou-
+sand words.
+     Test counts based on dictionaries show, for people of bookish tastes, a
+knowledge of about 30,000 to 35,000 words. Most of these would perhaps never
+be spoken by the individuals tested, would not be at their actual command, but
+it seems that at least 10,000 would be so controlled. The carefully counted vo-
+
+cabulary of a five-and-a-half-year-old American boy comprised 1528 understand-
+ingly used words, besides participles and other inflected forms. Two boys be-
+tween two and three years used 642 and 677 different words.
+      It is   therefore likely that statements as to the paucity of the speech of un-
+lettered peoples are equally exaggerated.           He who professes to declare on the
+strength of his observation that a native language consists of only a few hundred
+terms displays chiefly his ignorance.          He has either not taken the trouble to
+exhaust the vocabulary or has not known,              how to do so. It is true that the
+traveler or the settler can usually converse with natives to the satisfaction of
+his own needs with a few hundred words. Even the missionary can do a great
+deal with this stock, if it is properly chosen. But it does not follow that because
+a civilized person has not learned more of a language, there is no more.              On this
+point the testimony of the student is the evidence to be considered.
+     Dictionaries compiled by missionaries or philologists of languages previ-
+ously unwritten run to surprising figures. Thus, the number of words recorded
+in Klamath, the speech of a culturally rude American Indian tribe, is 7000; in
+Navaho, 11,000; in Zulu, 17,000; in Dakota, 19,000; in Maya, 20,000; in Nahuad,
+27,000. It may safely be estimated that every existing language, no matter               how
+backward its speakers are in their general civilization, possesses a vocabulary of
+at least 5000 to 10,000 words.^
+
+
+
+                           105.   QUALITY OF SPEECH SOUNDS
+     Another mistaken assumption which is frequently made is that the speech
+of nonliterary peoples is harsh, its pronunciation more difficult than ours. This
+belief is purely subjective.      When one has heard and uttered a language all one's
+     ^ Jespersen,    who allows 20,000 words to Shakespeare and 8000 'to Milton, cites 26,000
+as the vocabulary of Swedish peasants.
+40                                    LANGUAGE                                     §   105
+
+life, its   sounds come to one's mouth with a minimum of effort; but unfamiliar
+vowels and consonants are formed awkwardly and inaccurately.                  No adult
+reared in an Anglo-Saxon community finds th difficult. Nor does a French or a
+German child, whose speech habits are still plastic, find long difficulty in master-
+ing the particular tongue control necessary to the production of the th sound.
+But the adult Frenchman or German, whose muscular habits have settled in
+other lines, tries and tries and falls back on s or t.   h Castilian, however, would
+agree with the Anglo-Saxon as to the ease and "naturalness" of th. Conversely,
+the "rough" ch flows spontaneously out of the mouth of a German or a Scotch-
+man, whereas English, French, and Italians have to struggle long to master it,
+and are tempted to substitute ^. German 6 and French u trouble us; our "short"
+u is equally resistant to Continental tongues.
+     Even a novel position can make a familiar sound strange and forbidding.
+Most Anglo-Saxons fail on the first try to say ngis; many give up and declare
+it beyond their capacity to learn. Yet it is only sing pronounced backward.
+
+English uses ng finally and medially in words, not initially. Any English
+speaker can quickly acquire its use in the new position if, to keep from being
+disconcerted, he foUowings some such sequence as sing, singing, stinging, ring-
+ing, inging, nging, ngis.
+     So with surd /   —Welsh —which
+                               //          is   ordinary / minus the accompaniment
+of vocal-cord vibrations.   A little practice makes possible the throwing on or off
+                                 and "unvoicing" of speech, for any sound,
+of these vibrations, the "voicing"
+with as much ease as one would turn a faucet on or off. Surd / thereupon flows
+with the same readiness as sonant /. As a matter of fact we often pronounce it
+unconsciously at the end of words like little. When it comes at the beginning,
+however, as in the tribal name usually written Tlingit, Americans tend to sub-
+stitute   something more habitual, such as \l, which is familiar from clip, clean,
+clear, close, clam, and many other words. The        simple surd / has even been re-
+peatedly described quite inappropriately as a "click," which          is   about as far
+from picturing it with correctness as calling it a thump or a sigh; all because
+its "unvoicing" comes in an unaccustomed position.
+
+     Combinations of sounds, especially of consonants, are indeed of variable
+difficulty for anatomical reasons. Some, like nd and ts and pf, have their com-
+
+ponents telescope or join naturally through being formed in the same part of
+the mouth. Others, like }{w {qu), have the two elements articulated widely
+apart, but for that reason the elements can easily be formed simultaneously.
+Still others, like kt and ths, are intrinsically difficult, because the elements differ
+
+in place of production but are alike in method, and therefore come under the
+operation of the generic rule that similar sounds require more effort to join and
+yet discriminate than dissimilar ones, for much the same reason that it is on
+the whole easier to acquire the pronunciation of a wholly new type of sound
+than of one that differs subtly from one already known. Yet in these matters
+too, habit rather than anatomical    functioning determines the reaction. German
+§   lo6                       RAPIDITY OF LINGUISTIC CHANGE                                4I
+
+pf comes hard to adult Anglo-Saxons, English l{tv and ths to Germans. So far
+as degree of accumulation of consonants             is   concerned, English   is   one of the
+cxtremcst of      all    languages. Monosyllables like tract, stripped (stripd), sixths
+(si/^^sths),   must seem irremediably hard to most speakers of other idioms.
+      Children's speech in all languages shows that certain sounds are, as a rule,
+learned earlier than others, and are therefore presumably                somewhat       easier
+
+physiologically.        Sounds like p and t, which are formed with the mobile lips
+and the front of the tongue, normally precede back-tongue sounds like ^. B, d,
+                                                                          mo-
+g, which are voiced like vowels, tend to precede voiceless p, t, ^. Stops or
+mentary sounds, such as b, d, g, p, t, {, generally come earlier than the fricative
+continuants /, v, th, s, z, which require a delicate adjustment of lip or tongue
+close proximity         without firm contact   — whereas the stops involve only making
+and breaking a jerky contact. But so slight are the differences of effort or skill
+in all these cases that as a rule only a few months separate the learning of the
+easier from that of the more difficult sounds; and adults no longer feel the
+differences.
+
+                        106. RAPIDITY     OF LINGUISTIC CHANGE
+
+      The rate of change in language remains a somewhat obscure subject.                  The
+opinion often held that unwritten languages necessarily alter faster than written
+ones, or that those of savages are less stable than the tongues of civilized men, is
+mainly a naive reflection of our sense of superiority. It contravenes the principles
+just referred to        and is not supported by evidence. Occasional          stories   that a
+primitive tribe after a generation or two was found speaking an almost made-
+over language are unconscious fabrications due to preconception and supported
+by hasty acquaintance, faulty records, misunderstanding, or perhaps change of
+inhabitants. Nahuatl, the language of the Aztecs, has probably changed less in
+four hundred years than Spanish; Quechua, that of the Incas, no more. English
+has apparently altered more than any of the three in the same period. Dozens
+of native tongues, some of them from wholly rude peoples, were written down
+in the sixteenth and seventeenth centuries by Spanish            and other priests, and in
+most instances the grammars and dictionaries are usable today.
+    Cultural alteration would appear to work toward speech change chiefly in
+the following way:         New things need new names; new acts mean new thoughts
+and new ideas require new words. These may be imported; or they may be
+made out of elements already in the language; or old words may undergo a
+shift of meaning. In any event, the change is mainly            on the side of vocabulary.
+The sounds of a language are generally much less affected, its plan of structure
+least of all. The introduction of a new religion or the development of a new
+
+form of government among a people need not be accompanied by changes in
+the grammar of their speech, and usually are not, as abundant historical
+examples prove.
+42                                   LANGUAGE                                     §   lo6
+
+     While the causes of grammatical innovation are far from clear, contact with
+alien tongues is certainly a factor in some degree. An isolated offshoot of a
+linguistic group is generally more specialized, and therefore presumably more
+altered, than the main body of dialects of the family. The reason is that the
+latter, maintaining abundant reciprocal contact, tend to steady one another, or
+
+if they swerve, to do so in the same direction. The speakers of the branch that
+
+is geographically detached, however, come to know quite different grammars so
+
+far as they learn languages other than their native one, and such knowledge
+seems to act as an unconscious stimulus toward the growth of new forms and
+uses. It is not that grammatical concepts are often imitated outright or gram-
+matical elements borrowed. Acquaintance with a language of different type
+seems rather to act as a ferment that sets new processes going.
+     It is in the nature of the case that direct specific evidence   of changes of this
+character is hard to secure. But comparison of related languages or dialects with
+reference to their location frequently shows that the dialects         which are geo-
+graphically situated among strange languages are the most differentiated. This
+holds of Amharic in the Semitic family, of Singhalese in the Indie branch of
+Indo-European, of Hopi in Shoshonean, of Arapaho in Algonkin, of Huastec in
+Mayan.
+     But it is also likely that languages differ among each other in their suscepti-
+bility to change, and that the same    language differs in successive periods of its
+history. It is rather to be anticipated that a language may be in a phase now of
+rapid and then of retarded metabolism, so to speak; that at one stage its tendency
+may be toward breaking-down and absorption, at another toward a more rigid
+setting of its forms. Similarly, there is reason to believe that languages of certain
+types of structure are inherently   more plastic than others. At any rate, actual
+differences in rate ofchange are known. The Indo-European languages, for
+instance, have perhaps without exception altered more in the three thousand
+years of historical record than the Semitic ones. And so in native America, while
+contemporary documentary record is of course wanting, the degree of differ-
+entiation within the two stocks suggests strongly that Athabascan is more tena-
+ciously conservative than Siouan.
+     There are also notable differences in the readiness to borrow words ready-
+made. English is distinctly more hospitable in this regard than German, which
+tends rather to express a new concept by a new formation of old elements. Cer-
+tain South American languages appear to have borrowed more words from one
+another than have any of those of North America. In this matter the type of
+language is probably of some influence, yet on the whole cultural factors perhaps
+predominate. The direction and degree of cultural absorption seem to deter-
+mine the absorption of words to a considerable measure. Here writing is cer-
+tainly potent. The Latin and French elements in English, the Sanskrit and
+Arabic elements in the Malaysian languages, were brought in to a large extent
+by writing, and were fixed by being written. They would probably have re-
+§    107                             SPEAKING AND WRITING                                    43
+mained smaller     if   the historical contacts had been wholly oral. This          is   perhaps
+an important way         in   which writing exerts influence on     the   development of
+spoken language, an influence that in other respects is often overestimated.
+
+
+                              107.   SPEAKING AND WRITING
+
+       Learning our mother tongue is a largely unconscious process which goes
+on     until control has      become automatic. The process or     act of acquisition         is
+
+imitative, and it fades quickly from our memories. Learning to read and write,
+on the contrary, is at least started by teaching, comes later in life, and is a con-
+scious process. Writing of course is a secondary symbol system serving as a
+surrogate for the primary symbol system of spoken language;                    it   has certain
+special    purposes such as distant or anonymous communication, permanent
+record,    and the like. By one method or another, and more or less accurately,
+the visible symbols stand for the audible ones. Their reconversion into audible
+symbols, or into actually silent but potentially audible ones,            is   what we call
+reading. This writing-reading process comes so much later than speech-learning
+in the life histories of each of us      —as well as in the history of the species—that
+itremains much less automatic and much more in our awareness. Consequently
+we tend often to think and express ourselves in terms of writing-reading when
+we mean speaking. The common term "word" is ambiguous: it denotes both an
+element of audible utterance that we feel as having a certain isolable identity,
+and an element of writing or printing to which we give a formal identity by
+spacing it apart from others. But a "letter" is merely a visible silent sign for an
+audible sound.     It   belongs to a writing system, as sounds belong to a speech
+system.    To say therefore that such and such a language lacks the letter / i5
+undiscriminating nonsense, especially if the language is an unwritten one. Such
+a language does lack the sound which in writing English             we represent by the
+character /. It is not so long ago that even writers of grammars made this con-
+fusion.    Some educated and intelligent people who have never given much
+thought to linguistics still make it. If we are not on intellectual guard, this preva-
+lent nondiscrimination tends to color all our thinking            on   linguistic matters.
+
+Popularly, we "speak" English spontaneously, but "language" is something for-
+eign we are taught after we can read and write. Most language instructors still
+misplace the emphasis on writing and reading of, for example, French, instead
+of on hearing and pronouncing             it   and remembering it kinaesthetically with
+ear and tongue.
+   That the basic component always is the actually spoken or "living" speech is
+shown by the fact that spoken languages change in essentially the same way
+and at about the same jate, apparently, whether they are also written or un-
+written. Speech alters; writingmay or may not conform for a while. If the
+writing, through blind habit persistence or prestige of the past, refuses to
+44                                                 LANGUAGE                                           §   1
+                                                                                                              07
+
+change, the actual speech may alter and alter until it has become really a new
+and distinct language before an adjustment is made.
+          After Caesar's conquest, the Gauls of France rapidly gave up their Keltic
+speech and learned Latin instead. This was not the highbrow Latin that Cicero
+wrote and perhaps actually spoke in his orations, but the "vulgar Latin" which
+legionaries and nonliterary people spoke in their daily                   life.   With the centuries
+this Latin progressively changed. In part it altered provincially, with the growth
+
+of Gallic peculiarities; in part, through the development of new features com-
+mon to all late local Latins, in Italy and Spain as well as in France, such as the
+well-attested growth of articles alongside the shrinkage of inflections (§108).
+Also, with the centuries sliding into the Dark Ages, fewer and fewer people
+learned to write; but those who did spelled words as they used to be spelled in
+hterary Latin, not as rewritten to conform to the contemporary pronunciation.
+Gradually the spoken language changed so much that it, and the Latin used to
+represent it in writing, had only very partial similarity. People probably still
+thought that they were dealing with only one language when they were really
+already speaking French but still writing Latin. Then suddenly the two pulled
+apart with a jerk. In the Strasbourg Oaths of the grandsons of Charlemagne in
+842, we have the actual spoken French of the time written as French                        —very Old
+French, to be sure, but indubitable French, and no longer spelled at all as the
+Latin originals of the words were spelled. The document marks the birth of the
+French daughter of the Latin mother— as a written language. But for spoken
+French, who can set a birthday? It had been changing continuously through the
+nine hundred years since Caesar. This typical continuity of change                               is   what
+characterizes        spoken languages              as   being natural,   spontaneous,      underlying
+growths, in contrast with their superimposed and more                             "artificial"   writing
+systems, which quickly tend to crystallize. The difficulty with any spo\en lan-
+guage is to keep it the same; with its written expression, it is to keep it plastic.
+The writing will set and finally break in a sort of revolution, but it has great
+difficulty in conforming and adapting. Written languages that have survived for
+
+millennia, like Latin and Sanskrit, are dead as spoken languages.''
+          This relation results in revivals of dead or dying languages, such as the
+attempted revival of Gaelic and Hebrew (§ 181), which seem somewhat uncer-
+tain as regards successful outcome, though of extraordinary theoretical interest.
+These present revivals are highly original and conscious experiments, if senti-
+mental ones, being made in the laboratory of history. Whatever the final results,
+they will illuminate our understanding of the nature of language, by establish-
+ing new principles or confirming old ones.
+    It would be going too far to say that writing is unable to react on speech
+
+and to influence it. For instance, we have taken from French the word niche,
+      ^   Classical Arabic is a thousand years younger than Latin and Sanskrit, but the relation
+to   it   of its living provincial dialects   is   beginning to approach the relation of French and
+Spanish to Latin around 800.
+§   107                            SPEAKING AND WRITING                          45
+and pronounce it cither "necsh" if we follow the original sound or "nich" i{
+we follow spelling. Those who know French, and that the word is French, are
+likely to say the former; those who do not, the latter. That dictionaries "allow"
+us choice in such cases means only that there is not yet a decisive majority of
+quantity or quality lined up on either side. More recent but probably more often
+used in English is the French chic, which those who know French, or who asso-
+ciate with those that have heard how the magic word is pronounced in France,
+pronounce as "shick" (or "sheek," if very ultra), while the unilinguals, who
+perhaps learned the word from reading clothing advertisements in the news-
+papers, say "chick." Here the issue is between the socially more and less ad-
+vantaged; between prestige and numbers. Silo comes to us from Spanish, where
+of course it is spoken "seelo," just as our pronunciation of it would be "sailo"
+in   Mexican or Spanish. Interlanguage transfers are perhaps the most common
+cause of changes of this type. The written form of a word penetrates farther, is
+learned first by the majority, and its pronunciation is then adapted to the spell-
+ing as if this were native. The slightly varying pronunciations current for the
+names Illinois, Chicago, St. Louis, Des Moines, reflect greater or smaller degrees
+of attempted adhesion to the original French pronunciation, though they all
+deviate from it.
+    These examples suggest minutiae, or special points. And that is what on
+the whole the influence of writing on speech is a very partial reaction. This we
+                                                      :
+
+
+
+
+might expect from the fact that speech comes first, is spontaneous and auto-
+matic, and has less of the conventional about it, less of the arbitrarily agreed
+upon (§ 204), than writing.
+    The strength and independence of writing are at their maximum where
+                                                           —
+the system is primarily ideographic by word units "logographic" and is     —
+phonetic only in supplementary degree. Chinese is the important living example.
+Here writing is essentially a self-sufficient code rather than a script of spoken
+and heard sounds. In consequence, North and South Chinese will read off the
+same passage of writing with so much dialect difference of utterance as to be
+mutually unintelligible. In fact, an old-fashioned Chinese scholar wants to read
+his classic poetry      by himself. If he listens to it read aloud, even by a fellow
+scholar,      he is disturbed by the possible ambiguities in the   many homonyms.
+This is because in the historical development of the Chinese language many
+words that were once spoken differently are now spoken alike, so that there
+»emain far fewer distinct sound words than there are distinct word characters.
+The apparatus of the written language has remained rich, though the spoken
+language has shrunk.
+      Still   more different are the pronunciations of Chinese® taken over along
+with the system of written characters centuries ago by Koreans, Japanese, and
+Annamese. These were somewhat mispronounced by the foreign learners to
+      * Called   Sino-Japanese. Sino-Annamese, etc.
+46                                    LANGUAGE                                  § 1 07
+
+
+begin with, and are more so now. In fact, wholly different-sounding words of
+pure Japanese origin, often polysyllabic, can be spoken for some of the written
+characters, which also have their imported imitation-Chinese "pronunciation."
+This is as if we used both the English word five and the French word cinq as
+alternative-choice words expressing the number and visible symbol 5.
+       All this development in the Sinitic sphere is obviously an illustration of the
+degree to which writing can become autonomous of spoken language            —rather
+than being an example of its normal reflex action on speech. Indeed, as has been
+said, the actualpronunciations of all the East Asiatic languages have altered
+through the centuries while the script system maintained its crystallized iden-
+tity   or even grew. For that matter, it would be theoretically possible to divorce
+the Chinese writing     from Chinese speech, marry it to a new set of English
+words, and have it function with reasonable adequacy. Or, going still farther,
+it could be successfully used, with certain extensions, as the ready-made core of
+
+an international or universal code "translatable" into any spoken language.
+
+
+  108.    DIFFUSION AND PARALLELISM IN LANGUAGE AND CULTURE
+
+     A phenomenon that language shows more conspicuously than culture, or
+which is more readily demonstrated in it, is parallel or convergent development,
+the repeated, independent growth of a trait (§ 223).
+     Thus sex gender is an old part of Indo-European structure. In English, by
+the way, it has wholly disappeared, so far as formal expression goes, from
+noun, adjective, and demonstrative and interrogative pronoun. It lingers only
+in the personal pronoun of the third person singular he, she, it. A grammar of
+living English that was genuinely practical and unbound by tradition would
+never mention gender except in discussing these three little words. That our
+grammars specify man as a masculine and woman as a feminine noun is due
+merely to the fact that in Latin the corresponding words vir and jemina possess
+endings that are recognized as generally masculine and feminine, and that an
+adjective associated with ends respectively in masculine -us        and feminine -a.
+These are distinctions of form for which English possesses no equivalents. The
+survival of distinction between he, she, and it, while this and that and which
+have become alike irrespective of the sex of the person or thing they denote, is
+therefore historically significant. It points back to the past and to surviving Indo-
+European languages.
+     Besides, Indo-European, Semitic and Hamitic also express sex by gram-
+matical forms, although like French and Spanish and Italian, they know only
+two genders, the neuter being unrepresented. These three are the only large
+language stocks in which sex gender finds expression. Ural-Altaic, Chinese, Japa-
+nese, Dravidian, Malayo-Polynesian, Bantu, and in general the language families
+of Asia, Africa, and the Americas do without, although a number of languages
+make other "gender" classifications, as of animate and inanimate, personal and
+§   Io8      DIFFUSION AND PARALLELISM IN LANGUAGE AND CULTURE                          47
+impersonal, superior and inferior, intelligent and unintelligent. Sex gender how-
+ever reapjKars in Hottentot of South Africa and in the             Chinook and Coast
+Salish and Porno languages of the Pacific coast of North America.
+        How is this distribution to be accounted for? Indo-European, Semitic, and
+Hamitic occupy contiguous territory, in fact surround the Mediterranean over
+a tract largely coextensive with the Caucasian area. Could they in the remote
+past have influenced one another? That is, could grammatical sex gender have
+been invented, so to speak, by one of them, and borrowed by the others, as we
+know that cultural inventions are constantly diffused? Not many philologists
+would grant this to be Hkely: there are relatively few authenticated cases of
+formal elements or concepts having been disseminated between unrelated lan-
+guages (though see § 109). Is it then possible that our three stocks are at bottom
+related and one? Sex gender in that case would be part of their common in-
+heritance. For Semitic and Hamitic, a number of specialists have accepted a
+common origin on other grounds. But for Semitic and Indo-European, many
+linguists remain dubious: positive evidence is still scant. Nevertheless, the terri-
+torial continuity of the three   speech groups possessing the trait       is   difficult to
+
+accept as mere coincidence. In a parallel case in the realm of culture history a
+common source would be accepted as probable. Even Hottentot has been con-
+sidered a remote Semitic-Hamitic of?shoot, largely,      it   is   true, because of the
+
+very fact that it expresses gender. Linguists, accordingly, may consider the case
+still   open; but it is at least conceivable that the phenomenon goes back to a
+single origin in these four Old World stocks.
+        Yet no stretch will account for sex gender in the three native American
+languages as due to contact influence or diffusion, nor relate these tongues to
+the Old     World ones. Clearly, here is a case of independent origin or parallel
+"invention." Chinook and Coast Salish, indeed, are in contiguity, and one may
+therefore have taken up the trait in imitation of the other. But Pomo lies well
+to the south    and its affiliations run still farther south. Here sex gender is ob-
+viously an independent, secondary, and presumably rather recent growth in the
+grammar. The application of the category in Pomo is limited as narrowly ai
+possible: to human beings; whereas in Chinook, as in older Indo-European, alJ
+nouns are given a gender, usually "artificial."
+    In short, it remains doubtful whether sex gender originated three or four
+or five or six times among these seven language stocks; but it evidently did
+originate repeatedly.
+    Other traits crop out the world over in much the same manner. A dual
+number, for instance, is found in Indo-European, Malayo-Polynesian, Eskimo,
+and several American languages. The distinction between inclusive and exclu-
+sive we   —between yoii-and-l and he-and-l— made in Malayo-Polynesian, Hot-
+                                               is
+
+tentot, Iroquois, Uto-Aztecan.
+
+        A true nominative case-ending, such as Latin and other early varieties of
+Indo-European evince, is an exceedingly specialized and rare formation; yet is
+                                        LANGUAGE                                        §IC
+
+found in the Maidu language of California. Articles, in regard to which Indo-
+European varies, Latin for instance being without while its Romance daughter
+tongues have developed them, recur in Semitic, in Polynesian, and in several
+groups of American languages, such as Siouan and Hokan. The growth in
+Romance is significant because of its historicity. That is, French developed its
+articles   independently and secondarily, a fact which makes            it   probable that
+many languages in other parts of the world, whose history we do not know, also
+developed theirs instead of inheriting them
+                                                 —"invented" them, in short, although
+unconsciously.
+     A trait found in a considerable proportion of the American languages is
+the so-called incorporation of the object pronoun (§ 97). The objective pronoun,
+or an element representing it, is prefixed or suffixed to the verb, is made a part
+of it. The process is familiar enough to us        from Indo-European so far as the
+subject is concerned: in the Latin ama-s, ama-t, ama-nt, the suffixes express "you,
+he, they," and independent pronouns comparable to the English ones are usually
+omitted. The -s in he loves is the sole survival of this same process in modern
+English.    None of the older Indo-European tongues however showed an in-
+clination to affix similar elements to the verb for its object, although there are
+some approaches in a few recent languages of the family Spanish diga-me, "tell
+                                                                 :
+
+
+
+me," and mata-le, "kill him," for instance; or French je le vols, "I see him," pro-
+nounced as one word, "zhlvwa." Semitic, on the other hand, and Basque, do
+"incorporate" objective elements, whereas most Asiatic and some American lan-
+guages do not. Many other instances of parallel or convergent traits could be
+cited.
+
+    That frequency of parallel developments is greater in language than in
+culture is perhaps in part due to easier demonstrability in the field of speech.
+But in the main the high frequency seems real. Two reasons for the higher fre-
+quency of parallel developments in language suggest themselves.
+    First, the   number of possibilities is small in language, so far as form or
+structure is concerned. The categories or concepts used for classifying and for
+the indication of relations are limited, and so are the means of expression. The
+distinctions expressed   by gender, for instance, may refer to sex, animateness,
+personality, worth, shape, position, or possibly two or three other qualities; but
+there they end. If a language recognizes gender at all, it must have gender of
+one of these few types. Consequently there is some probability of several un-
+connected languages sooner or later happening upon the same type of gender.
+Similarly for the kinds of number (singular, dual, trial, plural, collective, dis-
+tributive), or of case, or of person expressed.         And these categories, such as
+gender and number and case, are themselves not numerous. Then too, the means
+of expressing the categories are limited. Of such mechanisms there are           :   position
+or relative order of words;       compounding of them; accretions of elements to
+stems    —namely, prefixes,   infixes, and suffixes; reduplication, the repetition of part
+^   1   08     DIIKUSION AND PARALLKLISM IN LANGUAGE AND CULTURE                           49
+or the       whole of words; iiucrnal changes by     shift of   vowel or accent within
+words; and therewith the types of grammatical means are about exhausted.
+Again the number of possible choices is so small that accidental probability
+must cause some languages to hit upon the same devices.
+         A second reason for the greater frequency of parallelism or independent
+reinvention in language is that structural traits     —that     is,   grammars   —appear to
+resist diffusion by imitation to a considerable degree.    Words are borrowed, some-
+times freely, almost always to some degree, between contiguous languages;
+sounds considerably       less so;   grammar least of all. That is, linguistic content
+lends itself to diffusion readily, linguistic pattern with more difficulty.
+         At bottom, it is true, the same holds of culture in some degree. Specific
+elements of culture, or groups of such elements, diffuse very widely                at   times
+and may be said to be always tending to diffuse the wheel, for instance, smelt-
+                                                       :
+
+
+
+
+ing of metals, the crown as a symbol of royalty, battleships, Buddhism. The
+relations of elements among themselves, on the other hand, tend to change by
+internal growth rather than by external imitation. Of this sort are the relations
+of the classes and members of societies, the fervor with which religion is felt, the
+esteem accorded to learning or wealth or tradition, the inclination toward this
+or that avenue of subsistence or economic development. By conquest or peaceful
+pressure or penetration one people may shatter the political structure or social
+fabric of another,      may undermine its conservatism, may swerve its economic
+habits.But it is more difficult to find cases of one people voluntarily adopting
+such tendencies or schemes of cultural organization in mere imitation of the ex-
+                                                                        —
+ample of another than of its adopting specific culture content the wheel or the
+                         —
+crown or Buddhism from outside. The result is that culture relations or pat-
+terns develop spontaneously or from within probably more frequently than as
+a result of direct taking-over. Also, the types of culture forms            being limited in
+number, the same type is frequently evolved independently. Thus monarchical
+and democratic societies, feudal or caste-divided ones, priest-ridden and rela-
+tively irreligious ones,     expansive and mercantile or    self-sufficient     and agricul-
+tural nations, evolve over and over again.       On the whole, therefore, actual com-
+parative culture history more often deals with the specific contents of civiliza-
+tion. In part, also, this is true because events like the spread of an invention
+
+can usually be traced more exactly than the complex evolutions of, say, two
+feudal systems can be compared. The result, at any rate, is that specific diffusions
+seem to outnumber precise and sure parallels in culture, as is set forth in several
+of the chapters that follow(Twelve to Fourteen).
+         In general linguistics, on the contrary, interest inclines to the side of pat-
+tern rather than content; hence it is the parallelisms or convergences, the inde-
+pendent similarities, that stand out conspicuously. If as much attention were
+generally given to words and their meanings as to grammar, and if they could
+be traced in their prehistoric or unrecorded wanderings as reliably as many cul-
+5°                                        LANGUAGE                                      §    Io8
+
+ture traits have been,      it is   probable that diffusion would loom larger than            it
+
+now does as a principle shaping human speech. There are words that have
+traveled almost as far as the objects they denote: tobacco and maize, for example.
+And the absorption of words of Latin origin into English was as extensive as
+the absorption for over a thousand years of Latin, Christian, and Mediterranean
+culture by the English people       —in   fact, went on as its accompaniment and result.
+
+
+
+
+                            109.    CONVERGENT LANGUAGES
+       Parallel   development in speech      is   not restricted to special   traits like sex
+
+gender and object incorporation. It may affect whole languages in their types.
+Chinese a long time ago became an extremely analytical or "isolating" language.
+That is, it lost all affixes and internal change. Each word element or item became
+an unalterable unit. Sentences are built up by putting together these atoms.
+Grammatical relations are expressed by the order of words: the subject precedes
+the predicate, for instance. Other ideas that in many languages are treated
+formally, such as the plural or person, are expressed by content elements; that
+is,   by other words: many for the plural, separate pronouns instead of affixes for
+person, and so on. The now uniformly monosyllabic stems of Chinese accen-
+tuate this isolating character, which however does not depend intrinsically upon
+monosyllabism. In the Indo-European family, as already mentioned, for over
+two thousand years there has been a drift toward something of the Chinese
+type of structure. This drift toward loss of formal mechanisms and toward the
+expression of grammar by material elements, or by their position only, has been
+evident in all branches of Indo-European, but has been most marked in English.
+The chief remnants of the older inflectional processes in spoken English today
+are four verb endings, -s, -ed, -ing, -en; three          noun endings, the possessive -s
+and the plurals -s and -en, the latter rare; the case ending -m in whom, them;
+a few vowel changes for plurals, as in man            —             —
+                                                 men, goose geese; and perhaps
+two hundred vowel changes in verbs, such as sing, sang, sung. Compared with
+Latin, Sanskrit, or even primitive Germanic, this brief Hst represents a survival
+of possibly a tenth of the original synthetic inflectional apparatus. That is, Eng-
+lish has gone approximately nine-tenths of the way toward attaining a grammar
+
+of the Chinese type.       A third language of independent origin, Polynesian, has
+traveled about the       same distance in the same direction. Superficially it is less
+like    Chinese in that it remains prevailingly polysyllabic, but more like             it    in
+
+having undergone heavy phonetic attrition. This then is a clear case of entire
+languages converging toward a similar type.
+       It is   further remarkable that this change, from a complex, close-knit, "syn-
+thetic" type of structure to a simple, loose -jointed, "analytic" one, occurs through-
+out Indo-European, though it has been carried somewhat the farthest in Eng-
+lish. The same kind of form reduction took place in Latin as it transformed into
+ §   109                       CONVERGENT LANGUAGES                             5I
+
+ French or Spanish; between classical and contemporary Greek; between ancient
+and modern Persian; between Sanskrit and Hindi: it can be traced in every
+Indo-European branch language of which our historical record is long enough.
+Most of these languages have not been in contact with each other for the one
+to three thousand years that the change has been going on. Change by influence
+
+of one on the other, leading to imitation, is therefore excluded. In the first edi-
+tion of this book, the phenomenon was called "secondary parallelism"; that is.
+parallelism of change of type in the same direction, persisting subsequent to and
+during the increasing diversification of the languages in content and      specific
+form. Sapir has made the situation famous by citing it as "linguistic drift," a
+sort of "slope" or long-range secular trend;   but he has not been able to put his
+finger on a cause. Possibly the change toward looser structure got under      way
+                 Indo-European, before this stock had branched out into its
+early, in original
+
+daughter languages, and the impulse persisted in the latter in greater or less
+strength. That would make the process carry on by momentum from the past.
+Whatever the cause, the breadth of the continuous drift or trend over thousands
+of miles and thousands of years makes the phenomenon impressive.
+    Another instance of convergence or superficial secondary assimilation of
+form in originally wholly separate and diverse languages is found in the re-
+markable resemblances in plan of structure of Indo-European, especially in its
+older forms, and the Penutian group of languages in native California. Common
+to these two families are an apparatus of similar cases, including accusative,
+
+genitive, locative, ablative, instrumental,   sometimes even a true nominative;
+plural by suffix; vowel changes in the verb according to tense      and mode; a
+passive and several participles and modal forms expressed by suffixes;  and pro-
+nouns either separate or expressed by endings fused with the tense-modal suf-
+fixes.     Thus, the processes that make English sing, sang, sung, song, or bind,
+bound, band, bond, are formally similar to those which have produced            in
+Penutian Yokuts such forms as sho\ud, pierce, shukid-p, pierced, sho\od, per-
+foration or hole, shikjd, piercer or arrow. In short, many of the traits usually
+thought to characterize Indo-European as typically inflectional reappear in
+Penutian; and of course they appear there quite independently as regards their
+origin and history.
+      These are linguistic phenomena comparable in kind to the growth of feudal-
+ism in China more than a thousand years earlier than in Europe, or the ap-
+pearance of a great centrally governed empire in Peru similar to the ancient
+monarchies of the Orient.
+      We have seen that while words can diffuse freely from one language to
+another when social pressures are set in that direction, grammars have much
+greater difficulty in diffusing. Forms and relations as such are not easily taken
+over by the stranger. Either he keeps his own, or he accepts the whole of the
+impinging other language, word content along with grammar. There are in-
+52                                       LANGUAGE                                 § 1 09
+
+
+numerable cases of one language replacing another in a given society; but there
+is   very   little   evidence of a population accepting any considerable part of the
+grammar of another language to embody in their own. That is why we can
+speak so confidently of linguistic parallels, convergences, and joint         drifts.   If
+there were free imitation, borrowing, and diffusion of structural form, the cases
+we have discussed might just as well be attributable to that process.
+    Yet to a limited extent, alien influence on structural form can now and then
+be established, as distinct from word-borrowing. There      is a Balkan instance
+
+where several Slavic, Albanian, and Latin languages have taken over a series
+of grammatical and idiomatic traits from Greek, which as the old language of
+religion and higher civilization long enjoyed a prestige priority. Some of these
+features due to Greek influence are articles, which the Slavic and Latin tongues
+                                          :
+
+
+
+
+did not originally have; disuse of the infinitive: give me that I drin\ instead of
+give me to drin\; genitive case including the dative; suffixion of an unaccented
+pronoun, like daughter-mine; double pronoun on the plan of me-seems to me;
+similar tautology of pronoun and clause, as she believed him that he was her
+brother; substitution of co-ordinate for subordinate conjunction: hardly I escape
+and I meet another; and idioms like he was of twenty years (that is, old), and
+he saw how fifty (for about fifty). These Greek idioms and structure features
+recur in Latin-derived Rumanian and with equal frequency in Slavic Bul-
+garian; Serbian, which is also Slavic but more distant, has adopted about half
+of them. Most of the same features have been accepted also in Albanian, but
+more in the nearer southern dialect than in remoter North Albanian.
+     Herewith the principle is established that structural form can be taken ovei
+by one language from another. However, the dozen formal traits involved here
+constitute only a minute fraction of the total grammar and idiom of the Balkan
+languages. The amount or degree of grammatical imitation or diffusion in
+fluence is therefore small. This limitation seems to hold in other instances also
+A general "wave theory" evolved by certain Indo-Europeanists maintains that
+a trait —even a new sound—which originates in one          dialect^ language, or group
+
+of languages tends to be propagated to other related ones, or at least to be
+diffusible. In proportion as this       wave theory holds true, it tends logically to
+vitiate the evidence of phonetic law      and comparability on which linguists have
+built their family trees       and classifications of relationship during the past cen-
+tury and a half of study. This is because genetic descent is intrinsically a process
+of diversification, whereas wave influence leads to assimilation. The wave theory
+must unquestionably be accepted as true to some extent; but the extent is minor.
+Internal change of related languages away from one another appears to be much
+the more prevalent process. Assimilation by imitation in waves, convergent re-
+semblances developing independent of relationship, are occasional secondary
+crosscutting influences. The wave principle has a certain theoretical interest be-
+cause it establishes to some extent for language a factor or force which as dif-
+fusion by imitation is extremely influential in the development of culture.
+SIIO            UNCONSCIOUS FACTORS IN LANGUACt ANU CULTURE CHANCE                     53
+
+
+     I   10.   UNCONSCIOUS FACTORS IN LANGUAGE AND CULTURE CHANGE
+
+          The unceasing processes of change in language are mainly unconscious or
+covert, or at least implicit. The results of the change may come to be recognized
+by speakers of the changing language; the gradual act of change, and especially
+the causes, mostly happen without the speakers' being aware of them. This prin-
+ciple holds for all departments of language: the sounds, the structural form, even
+the meaning of words. When a change has begun to creep in, it may be tacitly
+accepted or it may be observed and consciously resisted on the ground of being
+incorrect or vulgar or foreign. But the underlying motives of the objectors and
+the impulses of the innovator are likely to be equally unknown to themselves.
+          If this view seem extreme, it can easily be   shown that the great bulk of any
+language as it is, apart from any question of change, is employed unconsciously.
+An illiterate person will use such forms as child, child's, children, children's with
+the same "correctness" as a philologist, yet without being able to give an explana-
+tion of the involved grammatical ideas of singularity and plurality, absoluteness
+and possession, or to lay down rules as to the manner of expression of these
+ideas in English. Grammar, in short, exists before grammarians, whose legiti-
+mate business is to uncover such rules as are already there. It is an obviously
+hasty thought that because grammar happens to be taught in schools, speech
+can be grammatical only through schooling. The Sanskrit and Greek and Latin
+languages had their declensions and conjugations before Hindu and Greek and
+Roman scholars first analyzed and described them. The languages of primitive
+peoples frequently        abound with complicated forms and mechanisms that are
+used consistently and are applied without suspicion of their existence. It is much
+as the blood went round in our bodies quite healthily before Harvey's discovery
+of its circulation.
+          The quality of unconsciousness seems to be a trait not specifically limited to
+linguistic causes and processes, but to       hold in principle of culture generally. It
+is   only that the unconsciousness pervades speech farther.A custom, a belief, an
+art, however deep down its springs, sooner or later rises into social conscious-
+ness. It then seems deliberate, planned, willed, and is construed as arising from
+
+conscious motives and developing through conscious channels. But many social
+phenomena can be led back only to nonrational and obscure motives            :   the wear-
+ing of silk hats, for instance. The whole class of changes in dress styles springs
+from unconscious causes. Sleeves and skirts lengthen or shorten, trousers flare
+or tighten, and who can say why It is perhaps possible to trace a new fashion
+                                        .''
+
+
+
+
+to Paris or London, and to a particular stratum of society there. But what is it
+                                                                    —
+that in the winter of a particular year makes every woman or man of a cer-   —
+tain social group wear, let us say, a high-collared coat, or a shoe that does not
+come above the ankle, and the next year, or the tenth after, the reverse.'' It is
+insufficient to say that this is imitation of a leader of fashion, of a professional
+54                                         LANGUAGE                                  §110
+
+creator of style.    Why does the group follow him, and think the innovation
+attractive   and correct? A decade earlier the same innovation would have ap-
+peared senseless or extravagant to the same group. A decade after, it appeals as
+belated and ridiculous, and everyone wonders that style was so tasteless so short
+a time ago.
+      Evidently the aesthetic emotions evoked by fashions are largely beyond the
+control of both individuals and groups. It is difficult to say where the creative
+                                                    —
+and imitative impulses of fashion come from which, inasmuch as the impulses
+obviously reside somewhere in human minds, means that they spring from the
+unconscious portions of the mind. Evidently, then, our justification of the dress
+styles we happen at any time to be following, our pronouncing them artistic or
+
+comfortable or sensible or what not, is secondary. A low shoe may be more con-
+venient   —or inconvenient—than a high one, a brown one more or              less practical
+
+than a black or a white one. That that is not the reason which determines the
+wearing of low brown shoes when they are customarily worn is shown by the
+fact that at other times high black ones are put on by everyone. The reasons that
+can be and are given are so changeable and inconsistent that they evidently are
+not the real reasons, but are the false secondary reasons which are best distin-
+guished as rationahzations. Excuses,          we should call them with reference to
+individual conduct.
+    What applies to fashion holds also of manners, of morals, and of many
+                     Why we defer to women by rising in their presence and
+religious observances.
+passing through a door behind them; why we refrain from eating fish with a
+knife or drinking soup out of a two-handled cup, though drinking it from a
+single-handled one is legitimate; why we do not marry close kin;
+                                                               why we re-
+move our hats in the presence of the deity or his emblems but would feel it
+impious to pull off our shoes    —   all   the thousands of prescriptions and taboos of
+which these are examples possess an unconscious motivation.
+    Such cases are also illustrations of what is known as the relativity of morals
+(§ ii6). The Jew sets his hat on to worship, the Oriental punctiliously slips out
+of his shoes. Some people forbid the marriage of the most remote relatives, others
+encourage that of first cousins, still others permit the union of uncle and niece.
+It   would seem that all sociocultural phenomena which can be brought under
+this principle of relativity of standard are unconsciously grounded. This in turn
+
+implies the unconscious causation of the mores, those products of the social en-
+vironment in which one is reared and which one accepts as the ultimate au-
+thority of conduct. As mores are those folkways or customs to    which an emo-
+tional coloring has     become attached, so that adherence to the custom or de-
+parture from    it   arouses a feeling respectively of approval of disapproval,       it   is
+
+evident that the origin of folkways generally           is   also unconscious, since there
+seems no reason why the emotions or the ethical affect enveloping a customary
+action should incline more than the custom itself to spring up unconsciously.
+§   I'O     UNCONSCIOUS FACTORS IN LANGUAGE AND CULTURE CHANGE                       55
+      It   has long since been recognized that the average man's convictions on
+social matters remote    from him are not developed through examination of evi-
+dence and exercise of reason, but are taken over, by means of what used to be
+denominated tlie herd instinct and is now called social suggestion, from the
+society or period in which he happens to have been born and nurtured. His
+belief in democracy, in monotheism, in his right to charge profit and his freedom
+to change residence or occupation, have such origin. In many instances it is easy
+to render striking proof of the proposition     —as in the problems of high   tariff, or
+
+the Athanasian creed, or vitamin deficiencies, which are so technical as to their
+evidence or so intricate in their argument as to be impossible of independent
+solution by the majority of men. Time alone         would forbid; we should starve
+while making the necessary research. And the difference between the average
+man's attitude on such difficult points and the highly gifted individual's attitude
+toward them, or even toward simpler problems, would seem to be one of degree
+only.
+      Even on the material sides of culture, undesigned motivation plays a part.
+In the propulsion of ships, oars and sails fluctuate as the prevalent means down
+almost to the period of steam vessels. It would be impossible to say that one
+method was logically superior to the other, that it was recognized as such and
+then rationally adhered to. The history of warfare shows similar changes be-
+tween throwing and thrusting spears, stabbing and hewing swords, light and
+heavy armor. The Greeks and the Macedonians in the days of their military
+superiority lengthened their lances and held them. It no doubt seemed for a
+time that a definitive superiority had been proved for this type of weapon over
+the shorter, hurled javelin. Then the Romans, as part of their legionary tactics,
+reverted to the javelin and broke the Macedonian phalanx with their pilum. By
+the end of the Roman Empire, the infantry legion had yielded to heavy cavalry
+as the most effective military     arm. After about nine centuries, around 1300, in-
+fantry began once more to     come into its own, and then to dominate. Armor
+reached its perfection after gunpowder had begun to come into use; but firearms
+finally crowded armor out altogether. Yet the last few decades have brought the
+
+rebirth of che helmet.
+   These fashions in tools and practical appliances do not alter as fast as
+modern dress styles, and some of their causes can often be recognized. Yet as
+regards consciousness or intent there seems no essential difference between the
+fluctuation of fashions in      weapons   —or in navigation or cooking or travel or
+house-building   —and,   let   us say, the fluctuation of mode between soft and stiff
+hats or high and low shoes. It may have been the open array of the legion that
+led to the pilum, ever more rapidly fired bullets that induced the abandonment
+of the breastplate, shrapnel and the machine gun that caused the reintroduction
+of the helmet.    But these initiating factors were not deliberate as regards the
+effects that came in their train; and in their turn they themselves were the
+effects of more remote causes, such as improvements in general metallurgical
+56                                      LANGUAGE                                      §110
+
+arts.The whole chain of development in such cases is intricate and branching,
+unforeseen, mainly unforeseeable. At most there is recognition of what is hap-
+pening; in general the recognition seems to become full only after the change in
+tool or weapon or industrial process has become complete and is perhaps already
+being undermined once more.
+        Of course purely stylistic alterations   —and linguistic Innovations—also pos-
+sess their causes.      When the derby hat or the pronoun thou becomes obsolete,
+there is a reason; only, we generally cannot cite a really convincing specific cause.
+        The common causal element in all these changes may be called a shift in
+social values, in attitudes, or in the configuration of the total culture; often
+perhaps a change in some other and remote part of the culture             —or language.
+Perhaps practical chemical experience has grown, and gunpowder explodes more
+satisfactorily; or an economic readjustment has made it possible to equip            more
+soldiers with guns. The first result is a greater frequency of bullet penetrations
+in battle; the next, the abandonment of the breastplate as          hampering and use-
+less.   Increasing wealth or schooling or city residence or class differentiation
+makes indiscriminate familiarity        of   manners seem less     desirable than at an
+earlier period: brusque thou begins to yield to indirect plural you. Or again, new
+verbs, all of regular conjugation like love, loved, are formed in English, or im-
+ported from French, until their number outweighs that of the ancient irregular
+ones like sing, sang.      A standardizing tendency     thereby
+                                                       is
+                                                                        —
+                                                                  going "analogiz-
+                                                                   set
+
+ing"     is   the technical term of the philologist  —which begins to turn irregular
+verbs into regular ones: shaped replaces shopen, just as lenger becomes longer
+and toon becomes toes. Or, conversely, the analogy of write-wrote, drive-drove,
+ride-rode, causes dived to tend to be replaced by "colloquial" dove.      There is
+much the same sort of causality in one of these phenomena as in another. The
+individual or community that leaves off the breastplate or the stiff hat may more
+likely be aware that it is making the change than the one that leaves off saying
+toon or thou. But there does not seem to be an essential difference of process.
+Linguistic and aesthetic changes may be most fully unconscious, social ones next,
+material and economic ones perhaps least so. But normally, change or innova-
+tion is       accompanied by a shift of values that are broader than the single phe-
+nomenon in question, and that are held to impulsively far more often than they
+are deliberately planned.       That is why all social creations   —institutions,   beliefs,
+
+codes, styles, grammars      —prove on impartial analysis to be    full of inconsistencies
+
+and irrationalities. They have sprung not from a premeditated system of weighed
+or reasoned choices but from impulsive desires, from emotionally colored habits,
+or from "accidents" happening in some other part of the culture.
+
+
+   The foregoing discussion may be summarized as follows. Linguistic phe-
+nomena and processes are on the whole less conscious than cultural ones, with-
+out however differing in principle. In both language and culture, content                 is
+
+more readily imparted and assimilated than form, and it enters farther into
+§   "I                    LINGUISTIC AND CULTURAL STANDARDS
+                                                                                         57
+consciousness. Organization or structure in both cases takes place according to
+unconscious or covert or implicit patterns, such as grammatical categories, social
+standards, political or economic points of view, religious or intellectual assump-
+tions.      These patterns tend to attain recognition only in a last or sophisticated
+stage of their development, and even then continue to alter further even without
+the exercise of conscious control. The number of such linguistic and social pat-
+terns or forms being limited, there        is   some tendency for them to repeat in dif-
+ferent cultures with a degree of similarity, though without historical connection
+or without attaining actual identity. Partially similar combinations of such pat-
+terns sometimes recur, producing languages or cultures of roughly similar type.
+But established patterns of form, and still more their combinations, replace each
+other with difficulty. Their spread therefore takes place mostly though the
+integral substitution of one language or culture for another, rather than                by
+piecemeal absorption. This        is   in contrast to the specific content elements of
+which language and culture consist         —individual words, mechanical devices, in-
+stitutional symbols, particular religious ideas or actions, and the like. These ele-
+ments absorb and diffuse readily. They are therefore imitated and imported
+more often than they are reinvented. But, as if in compensation, Hnguistic and
+cultural patterns or structures growing up spontaneously           may acquire, through
+the accidents of convergence, considerable resemblance of general form that is
+not dependent on historical connection or spread.
+
+
+
+                   III. LINGUISTIC       AND CULTURAL STANDARDS
+       It   does not follow that because social usages largely     fail   to spring   out of
+purposive and deliberate reasoning, they are therefore unworthy of being fol-
+lowed, or that standards of conduct need be renounced because they are rela-
+  —that is, unconsciously founded and changing. The natural incHnation of
+tive
+
+men being to regard their standards of taste, behavior, and social arrangement
+as reasonable, perfect, and fixed, there follows a first inclination to regard these
+standards as devalued as soon as their emotionality and variability have been
+recognized. Such a negative reaction is disappointing: it is a further result of
+the illusion. Once the fundamental and automatic assumption of fixity and in-
+herent value of social patterns has been given up, and it is recognized that the
+chief motive power of behavior in man as in the other animals is afifective and
+unconscious, there is nothing in institutions and codes to quarrel with. They
+are neither despicable nor glorious;       no more deserving, in virtue of their exist-
+ence, to be uprooted and demolished than to be defended as absolute and eternal.
+In some form or other, they are inevitable; and the particular form they take at
+thistime or that place is always tolerably well founded, in the sense of being
+adapted with fair success, or having been but recently well adapted, to the con-
+ditions of the natural       and social environment of the group which holds the
+institution, code, or standard.
+    That this is a sane attitude is sometimes more easily shown in the field of
+language than of culture. This is because language is primarily a mechanism
+or means, whereas in culture ends or purposes obtrude more. It             is   thus easier
+to view linguistic   phenomena dispassionately. Grammars and dictionaries, for
+instance, are evidently the result of self-consciousness arising about speech which
+has previously been mainly unconscious.       They may be roughly compared to
+social formulations like law codes or written constitutions or philosophical sys-
+
+tems or religious dogmas, which typically begin also as representations of usages
+or beliefs already in existence.    When moralists about language stigmatize ex-
+pressions like ain't or them   cows or he don't as "wrong," they are judging an
+innovation, or one of several established but conflicting usages, by a standard of

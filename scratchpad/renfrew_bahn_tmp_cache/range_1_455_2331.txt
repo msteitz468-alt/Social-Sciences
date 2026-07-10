@@ -1,0 +1,1840 @@
+12    Introduction: The Nature and Aims of Archaeology
+
+
+
+
+     Introduction
+     The Nature and Aims of Archaeology
+
+
+     Archaeology is partly the discovery of the treasures of the      culture” has a specific and somewhat different meaning,
+     past, partly the meticulous work of the scientific analyst,      as explained in Chapter 3.) Anthropology is thus a broad
+     partly the exercise of the creative imagination. It is toiling   discipline – so broad that it is generally broken down into
+     in the sun on an excavation in the deserts of Central Asia,      three smaller disciplines: biological anthropology, cultural
+     it is working with living Inuit in the snows of Alaska. It is    anthropology, and archaeology.
+     diving down to Spanish wrecks off the coast of Florida, and         Biological anthropology, or physical anthropology as it
+     it is investigating the sewers of Roman York. But it is also     used to be called, concerns the study of human biological or
+     the painstaking task of interpretation so that we come to        physical characteristics and how they evolved.
+     understand what these things mean for the human story.              Cultural anthropology – or social anthropology – analyzes
+     And it is the conservation of the world’s cultural heritage –    human culture and society. Two of its branches are ethnog-
+     against looting and against careless destruction.                raphy (the study at first hand of individual living cultures)
+        Archaeology, then, is both a physical activity out in the     and ethnology (which sets out to compare cultures using
+     field, and an intellectual pursuit in the study or labora-       ethnographic evidence to derive general principles about
+     tory. That is part of its great attraction. The rich mixture     human society).
+     of danger and detective work has also made it the perfect           Archaeology is the “past tense of cultural anthropol-
+     vehicle for fiction writers and film-makers, from Agatha         ogy.” Whereas cultural anthropologists will often base
+     Christie with Murder in Mesopotamia to Steven Spielberg          their conclusions on the experience of actually living
+     with Indiana Jones. However far from reality such portray-       within contemporary communities, archaeologists study
+     als may be, they capture the essential truth that archaeology    past humans and societies primarily through their material
+     is an exciting quest – the quest for knowledge about our-        remains – the buildings, tools, and other artifacts that con-
+     selves and our past.                                             stitute what is known as the material culture left over from
+        But how does archaeology relate to disciplines such as        former societies.
+     anthropology and history that are also concerned with the           Nevertheless, one of the most challenging tasks for the
+     human story? Is archaeology itself a science? And what are       archaeologist today is to know how to interpret material
+     the responsibilities of the archaeologist in today’s world,      culture in human terms. How were those pots used? Why
+     where the past is manipulated for political ends and “ethnic     are some dwellings round and others square? Here the
+     cleansing” is accompanied by the deliberate destruction of       methods of archaeology and ethnography overlap. Archae-
+     the cultural heritage?                                           ologists in recent decades have developed ethnoarchaeology,
+                                                                      where like ethnographers they live among contemporary
+                                                                      communities, but with the specific purpose of understand-
+     Archaeology as Anthropology                                      ing how such societies use material culture – how they
+     Anthropology at its broadest is the study of humanity – our      make their tools and weapons, why they build their settle-
+     physical characteristics as animals, and our unique non-         ments where they do, and so on.
+     biological characteristics that we call culture. Culture in         Moreover, archaeology has an active role to play in the
+     this sense includes what the anthropologist Edward Tylor         field of conservation. Heritage studies constitute a devel-
+     usefully summarized in 1871 as “knowledge, belief, art,          oping field, where it is realized that the world’s cultural
+     morals, law, custom and any other capabilities and habits        heritage is a diminishing resource, and one which holds
+     acquired by man as a member of society.” Anthropologists         different meanings for different people. The presentation
+     also use the term culture in a more restricted sense when        of the findings of archaeology to the public cannot avoid
+     they refer to the culture of a particular society, meaning the   difficult political issues, and the museum curator and the
+     non-biological characteristics unique to that society which      popularizer today have responsibilities which some can be
+     distinguish it from other societies. (An “archaeological         seen to have failed.
+                                                                                                                Introduction: The Nature and Aims of Archaeology               13
+
+
+                                                                                                           writing, the distinction between history and prehistory
+Archaeology as History                                                                                     is a convenient dividing line that simply recognizes the
+If, then, archaeology deals with the past, in what way does it                                             importance of the written word in the modern world, but
+differ from history? In the broadest sense, just as archaeol-                                              in no way denigrates the useful information contained in
+ogy is an aspect of anthropology, so too is it a part of history                                           oral histories.
+– where we mean the whole history of humankind from                                                           As will become abundantly clear in this book, archae-
+its beginnings over 3 million years ago. Indeed for more                                                   ology can also contribute a great deal to the understanding
+than 99 percent of that huge span of time archaeology –                                                    even of those periods and places where documents, inscrip-
+the study of past material culture – is the only significant                                               tions, and other literary evidence do exist. Quite often, it
+source of information, if one sets aside physical anthropol-                                               is the archaeologist who unearths such evidence in the
+ogy, which focuses on our biological rather than cultural                                                  first place.
+progress. Conventional historical sources begin only with
+the introduction of written records around 3000 BC in
+western Asia, and much later in most other parts of the                                                    Archaeology as a Science
+world (not until AD 1788 in Australia, for example). A com-                                                Since the aim of archaeology is the understanding of
+monly drawn distinction is between prehistory – the period                                                 humankind, it is a humanistic discipline, a humane study.
+before written records – and history in the narrow sense,                                                  And since it deals with the human past it is a historical
+meaning the study of the past using written evidence. In                                                   discipline. But it differs from the study of written history
+some countries, “prehistory” is now considered a patron-                                                   – although it uses written history – in a fundamental way.
+izing and derogatory term which implies that written texts                                                 The material the archaeologist finds does not tell us directly
+are more valuable than oral histories, and which classifies                                                what to think. Historical records make statements, offer
+their cultures as inferior until the arrival of Western ways                                               opinions, pass judgments (even if those statements and
+of recording information. To archaeology, however, which                                                   judgments themselves need to be interpreted). The objects
+studies all cultures and periods, whether with or without                                                  that archaeologists discover, on the other hand, tell us
+                                                                                                           nothing directly in themselves. It is we today who have to
+The vast timespan of prehistory compared with the relatively                                               make sense of these things. In this respect the practice of
+short period for which we have written records (“history”).
+                                                                                                           archaeology is rather like that of the scientist. The scientist
+Before c. 3000 BC, material remains are our only evidence.
+                                                                                                           collects data (evidence), conducts experiments, formulates
+         o          n
+                                    n
+                                   io              n
+                                                                    n
+                                                                   io              n
+                                                                                                           a hypothesis (a proposition to account for the data), tests
+     ag
+                                                                                                           the hypothesis against more data, and then in conclusion
+                   io             ill             io              ill             io        00 0
+ ar  s            ill         m                  ill          m                  ill        0,
+              m              5               m                5              m          50
+Ye            3              2.              2             1.                1
+                                                                                                           devises a model (a description that seems best to summa-
+                                                                                                           rize the pattern observed in the data). The archaeologist has
+Human
+                                                  PREHISTORY
+                                                                                                           to develop a picture of the past, just as the scientist has to
+origins
+                                                                                                           develop a coherent view of the natural world. It is not found
+                                                                                                           ready made.
+                                                                                                              Archaeology, in short, is a science as well as a human-
+                                                                                                           ity. That is one of its fascinations as a discipline: it reflects
+                                                                                                           the ingenuity of the modern scientist as well as the
+                                                                                                           modern historian. The technical methods of archaeologi-
+                                                                                                           cal science are the most obvious, from radiocarbon dating
+                                                                                                           to studies of food residues in pots. Equally important are
+                                                                                                           scientific methods of analysis, of inference. Some writers
+                                                                                                           have spoken of the need to define a separate “Middle
+                                                                                                           Range Theory,” referring to a distinct body of ideas to
+      BC
+        /AD
+                                                                                                           bridge the gap between raw archaeological evidence and
+                        BC              BC               BC                             10          20
+ ar
+Ye
+     s
+              30
+                 00
+                                  20
+                                     00
+                                                   10
+                                                      00
+                                                                         1
+                                                                        AD             AD
+                                                                                          00
+                                                                                                   AD
+                                                                                                      00   the general observations and conclusions to be derived
+                                                                                                            from it. That is one way of looking at the matter. But we
+                                                                                                           see no need to make a sharp distinction between theory
+PREHISTORY
+                                                                                            Australia      and method. Our aim is to describe clearly the methods
+                                                                                             (1788)        and techniques used by archaeologists in investigating
+   Origins
+ of writing                                            HISTORY                                             the past. The analytical concepts of the archaeologist are
+  (W.Asia)                                                                                                 as much a part of that battery of approaches as are the
+                                                                                                           instruments in the laboratory.
+14    Introduction: The Nature and Aims of Archaeology
+
+
+     The diversity of modern archaeology
+
+     This page: (Right) Urban archaeology:
+     excavation of a Roman site in the heart
+     of London. (Below left) Working in the
+     on-site archaeobotanical laboratory
+     on finds from Çatalhöyük in Turkey
+     (see pp. 46–47). (Below right) An
+     ethnoarchaeologist in the field in
+     Siberia, sharing and studying the lives
+     of modern Orochen people, here making
+     blood sausages from the intestines of a
+     recently butchered reindeer.
+
+     Opposite page: (Above right) Underwater
+     archaeology: a huge Egyptian statue
+     found in the now-submerged ruins of an
+     ancient city near Alexandria. (Below left)
+     An Inca “mummy,” now known as the “Ice
+     Maiden,” is lifted from her resting place
+     high up on the Ampato volcano in Peru
+     (see p.67). (Center right) Piecing together
+     fragments of an elaborate mural from
+     the early Maya site of San Bartolo in
+     Guatemala (see p. 414). (Below right)
+     Salvaged in advance of development:
+     a 2000-year-old Western Han Dynasty
+     tomb is excavated at a construction site
+     in Guangzhou, China.
+Introduction: The Nature and Aims of Archaeology   15
+16    Introduction: The Nature and Aims of Archaeology
+
+
+     The Variety and Scope of Archaeology                              ingly used in the investigation of war crimes and atrocities,
+                                                                       whether in Bosnia, West Africa, or Iraq. Actualistic studies
+     Today archaeology is a broad church, encompassing a               in archaeology were pioneered in the Garbage Project set
+     number of different “archaeologies” which are never-              up by William L. Rathje, who studied the refuse of differ-
+     theless united by the methods and approaches outlined             ent sectors of the city of Tucson, Arizona, to give insights
+     in this book. We have already highlighted the distinction         into the patterns of consumption of the modern urban
+     between the archaeology of the long prehistoric period            population. Sites such as airfields and gun emplacements
+     and that of historic times. This chronological division is        dating from World War II (1939–45) are now preserved as
+     accentuated by further subdivisions so that archaeologists        ancient monuments, as are telecommunication facilities
+     specialize in, say, the earliest periods (the Old Stone Age or    from the era of the Cold War, and surviving fragments of the
+     Paleolithic, before 10,000 years ago) or the later ones (the      Berlin Wall which once divided East from West Germany
+     great civilizations of the Americas and China; Egyptology;        but which was opened and torn down in 1989. The Nevada
+     the Classical archaeology of Greece and Rome). A major
+     development in the last two or three decades has been             Today the conventions, idioms, and findings of archaeology
+     the realization that archaeology has much to contribute           are increasingly referenced in contemporary society, including
+     also to the more recent historic periods. In North America        contemporary art. Antony Gormley’s Field for the British Isles is
+     and Australia historical archaeology – the archaeological         made up of thousands of terracotta figures resembling prehistoric
+     study of colonial and postcolonial settlement – has expanded      figurines from excavations in Mesoamerica or southeast Europe.
+                                                                       For the viewer in front of them the effect is overpowering.
+     greatly, as has medieval and post-medieval archaeology in
+     Europe. So whether we are speaking of colonial Jamestown in
+     the United States, or medieval London, Paris, and Hamburg
+     in Europe, archaeology is a prime source of evidence.
+        Cutting across these chronological subdivisions are
+     specializations that can contribute to many different archae-
+     ological periods. Environmental archaeology is one such
+     field, where archaeologists and specialists from other sci-
+     ences study the human use of plants and animals, and how
+     past societies adapted to the ever-changing environment.
+     Underwater archaeology is another such field, demand-
+     ing great courage as well as skill. In the last 40 years it has
+     become a highly scientific exercise, yielding time capsules
+     from the past in the form of shipwrecks that shed new light
+     on ancient life on land as well as at sea.
+        Ethnoarchaeology, too, as we discussed briefly above, is a
+     major specialization in modern archaeology. We now realize
+     that we can only understand the archaeological record – that
+     is to say, what we find – if we understand in much greater
+     detail how it came about, how it was formed. Formation
+     processes are now a focus of intensive study. It is here that
+     ethnoarchaeology has come into its own: the study of living
+     peoples and of their material culture undertaken with the
+     aim of improving our understanding of the archaeological
+     record. For instance, the study of butchery practices among
+     living hunter-gatherers undertaken by Lewis Binford among
+     the Nunamiut Eskimo of Alaska gave him many new ideas
+     about the way the archaeological record may have been
+     formed, allowing him to re-evaluate the bone remains of
+     animals eaten by very early humans elsewhere in the world.
+        Nor are these studies confined to simpler communities
+     or small groups. Contemporary material culture has now
+     become a focus of study in its own right. The archaeology of
+     the 21st century already ranges from the design of Coca-Cola
+     bottles and beer cans to the forensic pathology increas-
+                                                                      Introduction: The Nature and Aims of Archaeology           17
+
+
+Test Site, established in 1950 as a continental location for     monument in south Britain, and the failure of the UK gov-
+United States weapons testing, is similarly now the subject      ernment to do anything effective about the situation over
+of archaeological research and conservation.                     many decades has brought general condemnation. Most
+   The archaeology of the 20th century even had its looters:     serious of all, perhaps, is the connivance of major museums
+artifacts raised from the wreck of the Titanic have been sold    in the looting of the world’s archaeological heritage through
+for large sums to private collectors. And the archaeology        the purchase of illicit and unprovenienced antiquities. The
+of the 21st century had a grim start with the recovery work      settlement of the restitution claims made by the Italian
+following the catastrophic destruction of the twin towers of     government against the Metropolitan Museum of Art in
+the World Trade Center in New York on 11 September 2001.         New York, the Getty Museum in Malibu, and the Cleveland
+Ground Zero, the conserved and protected site where the          Museum of Art and the return to Italy of looted antiquities
+twin towers once stood, has taken its place as one of the most   raise questions about the integrity of some museum direc-
+notable of the commemorative monuments of New York.              tors and trustees – well-informed people whom one would
+   Archaeology today continues to develop new specialisms        expect to be the guardians and defenders of the past, not
+and sub-disciplines. Out of the environmental approach           participants in the commercial processes which lead to
+widely emphasized at the end of the 20th century bio-            its destruction.
+archaeology has emerged: the study of plants and animals
+(and other living things) in the human environment and
+diet. So too geoarchaeology: the application to archaeology      Aims and Questions
+of the geological sciences, for the reconstruction of early      If our aim is to learn about the human past, there remains
+environments and the study of lithic materials. Archaeo-         the major issue of what we hope to learn. Traditional
+genetics, the study of the human past using the techniques       approaches tended to regard the objective of archaeology
+of molecular genetics, is a rapidly expanding field. These,      mainly as reconstruction: piecing together the jigsaw.
+and other emerging areas, such as forensic anthropology,         But today it is not enough simply to recreate the material
+are the product both of developments in the sciences and of      culture of remote periods, or to complete the picture for
+increasing awareness among archaeologists as to how such         more recent ones.
+developments can be exploited in the study of the past.             A further objective has been termed “the reconstruction
+                                                                 of the lifeways of the people responsible for the archaeolog-
+                                                                 ical remains.” We are certainly interested in having a clear
+The Ethics of Archaeology                                        picture of how people lived, and how they exploited their
+Increasingly it is realized that the practice of archaeology     environment. But we also seek to understand why they lived
+raises many ethical problems, and that the uses of archae-       that way: why they had those patterns of behavior, and how
+ology, politically and commercially, nearly always raise         their lifeways and material culture came to take the form
+questions with a moral or ethical dimension (see Chapters        they did. We are interested, in short, in explaining change.
+14 and 15). It is easy to see that the deliberate destruction    This interest in the processes of cultural change came to
+of archaeological remains, such as the demolition of the         define what is known as processual archaeology. Processual
+Bamiyan Buddhas in Afghanistan or the destruction of             archaeology moves forward by asking a series of questions,
+the historic bridge at Mostar in Bosnia, are essentially evil    just as any scientific study proceeds by defining aims of
+acts, judged by most moral standards. Comparable in its          study – formulating questions – and then proceeding to
+damaging consequences was the deplorable failure of the          answer them.
+coalition forces that invaded Iraq to safeguard the archaeo-        The symbolic and cognitive aspects of societies are also
+logical treasures and sites of that country. But other issues    important areas emphasized by recent approaches, often
+are less obvious. In what circumstances should the exis-         grouped together under the term postprocessual or inter-
+tence of archaeological sites be allowed to impede the           pretive archaeology, although the apparent unity of this
+progress of important construction projects, such as new         perspective has now diversified into a variety of concerns.
+roads or new dams? During the Chinese Cultural Revolu-           It is persuasively argued that in the “postmodern” world
+tion, Chairman Mao coined the slogan “Let the past serve         different communities and social groups have their own
+the present,” but that was sometimes used as an excuse for       interests and preoccupations, that each may have its voice
+the deliberate destruction of ancient things.                    and its own distinctive construction of the past, and that in
+   The commercial exploitation of the past also raises many      this sense there are many archaeologies. This becomes par-
+problems. Many archaeological sites are today over-visited,      ticularly clear when one looks at the newly formed nations
+and the large numbers of well-meaning tourists pose real         of the Third World where different and sometimes compet-
+problems for their conservation. This has been a long-           ing ethnic groups have their own traditions and interests,
+standing problem at Stonehenge, the major prehistoric            and in some senses their own archaeologies.
+18     Introduction: The Nature and Aims of Archaeology
+
+
+        There are many big questions that preoccupy us today.                 wish to have answers and we list them briefly again here. It
+     We want to understand the circumstances in which our                     could be argued that the whole philosophy of archaeology is
+     human ancestors first emerged. Was this in Africa and                    implied in the questions we ask and the form in which we
+     only in Africa, as currently seems the case? Were these                  frame them.
+     early humans proper hunters or merely scavengers? What                      Part I reviews the whole field of archaeology, looking first
+     were the circumstances in which our own species Homo                     at the history of the subject, and then asking three specific
+     sapiens evolved? How do we explain the emergence of Paleo-               questions: how are materials preserved, how are they
+     lithic art? How did the shift from hunting and gathering                 found, and how are they dated?
+     to farming come about in western Asia, in Mesoamerica,                      Part II sets out further and more searching questions –
+     and in other parts of the world? Why did this happen in the              about social organization, about environment, and about
+     course of just a few millennia? How do we explain the rise               subsistence; about technology and trade, and about the way
+     of cities, apparently quite independently in different parts             people thought and communicated. We then ask what they
+     of the world? How are identities formed, both of individu-               were like physically. And finally the interesting question is
+     als and of groups? How do we decide which aspects of the                 posed: why things changed.
+     cultural heritage of a region or nation are worth conserving?               Part III is a review of archaeology in practice, showing
+        The list of questions goes on, and after these general                how the different ideas and techniques can be brought
+     questions there are more specific ones. We wish to know                  together in field projects. Five such projects are chosen as
+     why a particular culture took the form it did: how its                   case studies: from southern Mexico, Florida in the south of
+     particularities emerged, and how they influenced develop-                the United States, southeastern Australia, Thailand, and
+     ments. This book does not set out to review the provisional              urban York in England.
+     answers to all these questions – although many of the                       In conclusion there are two chapters on the subject of
+     impressive results of archaeology will emerge in the follow-             public archaeology, discussing the uses and abuses of
+     ing pages. In this book we examine rather the methods by                 archaeology in the modern world, and the obligations
+     which such questions can be answered.                                    these things have placed on the archaeologist and on all
+                                                                              those who exploit the past for gain or for political purposes.
+                                                                              Finally, our last chapter gives the personal stories of five
+     Plan of the Book                                                         archaeologists working in different areas of the world and
+     The methods of archaeology could be surveyed in many dif-                in various fields. In this way we plan that the book should
+     ferent ways. As mentioned in the Preface, we have chosen                 give a good overview of the whole range of methods and
+     to think in terms of the many kinds of questions to which we             ideas of archaeological investigation.
+
+
+
+      FURTHER READING
+     The following books give an indication of the rich variety of            Forte, M. & Siliotti, A. (eds.). 1997. Virtual Archaeology. Thames &
+     archaeology today. Most of them have good illustrations:                   Hudson: London; Abrams: New York.
+                                                                              Scarre, C. (ed.). 1999. The Seventy Wonders of the Ancient World. The
+     Bahn, P.G. (ed.). 2000. The World Atlas of Archaeology. Facts on File:     Great Monuments and How they were Built. Thames & Hudson:
+       New York.                                                                London & New York.
+     Bahn, P.G. (ed.). 2001. The Penguin Archaeology Guide. Penguin:          Scarre, C. (ed.). 2009. The Human Past. World Prehistory and the
+       London.                                                                  Development of Human Societies. (2nd ed.) Thames & Hudson:
+     Cunliffe, B., Davies, W., & Renfrew, C. (eds.). 2002. Archaeology, the     London & New York.
+       Widening Debate. British Academy: London.                              Schofield, J. (ed.). 1998. Monuments of War: The Evaluation,
+     Fagan, B.M. (ed.). 2007. Discovery! Unearthing the New Treasures of        Recording and Management of Twentieth-Century Military Sites.
+       Archaeology. Thames & Hudson: London & New York.                         English Heritage: London.
+           PART I
+   The Framework of Archaeology
+
+Archaeology is concerned with the full range of past human expe-
+rience – how people organized themselves into social groups and
+exploited their surroundings; what they ate, made, and believed;
+how they communicated and why their societies changed. These
+are the engrossing questions we address later in the book. First,
+however, we need a framework in space and time. It is little use
+beginning our pursuit of ideas and methods concerning the past
+without knowing what materials archaeologists study, or where
+these might be found and how they are dated. Indeed, we also
+want to know how far previous generations of archaeologists have
+traveled and along which roads before setting off on our own jour-
+ney of discovery.
+   Part I therefore focuses on the fundamental framework of
+archaeology. The first chapter looks at the history of the discipline,
+showing in particular how successive workers have redefined and
+enlarged the questions we ask about the past. Then we pose the
+first question: “What?” – what is preserved, and what is the range
+of archaeological materials that have come down to us? The sec-
+ond question, “Where?,” addresses methods for finding and sur-
+veying sites, and principles of excavation and preliminary analysis.
+Our third question, “When?,” considers the human experience of
+time and its measurement, and assesses the huge battery of tech-
+niques now available to help the archaeologist date the past. On
+this basis we are able to set out a chronology summarizing the
+human story, as a conclusion to Part I and a prelude to Part II.
+                                                                                                                        1
+                                                                                The Searchers
+                                                                    The History of Archaeology
+
+
+The history of archaeology is commonly seen as the history          the prehistoric past (before the invention of writing). The
+of great discoveries: the tomb of Tutankhamun in Egypt,             history of archaeology is therefore in the first instance a
+the lost Maya cities of Mexico, the painted caves of the Old        history of ideas, of theory, of ways of looking at the past.
+Stone Age, such as Lascaux in France, or the remains of our         Next it is a history of developing research methods, employ-
+human ancestors buried deep in the Olduvai Gorge in Tan-            ing those ideas and investigating those questions. And only
+zania. But even more than that it is the story of how we have       thirdly is it a history of actual discoveries.
+come to look with fresh eyes at the material evidence for the          We can illustrate the relationship between these aspects
+human past, and with new methods to aid us in our task.             of our knowledge of the past with a simple diagram:
+   It is important to remember that just a century and
+a half ago, most well-read people in the Western world
+– where archaeology as we know it today was first devel-
+oped – believed that the world had been created only a few                                 Questions/
+thousand years earlier (in the year 4004 BC according to the                                 Ideas/
+then-standard interpretation of the Bible), and that all that                               Theory
+could be known of the remote past had to be gleaned from
+the surviving pages of the earliest historians, notably those
+of the ancient Near East, Egypt, and Greece. There was no
+awareness that any kind of coherent history of the periods
+before the development of writing was possible at all. In the
+words of the Danish scholar Rasmus Nyerup (1759–1829):
+
+  Everything which has come down to us from
+  heathendom is wrapped in a thick fog; it belongs to a
+  space of time which we cannot measure. We know that
+  it is older than Christendom, but whether by a couple
+  of years or a couple of centuries, or even by more than
+                                                                          Research                            Discoveries
+  a millennium, we can do no more than guess.
+                                                                          Methods                             in the Field
+Today we can indeed penetrate that “thick fog” of the
+remote past. This is not simply because new discoveries are
+being made all the time. It is because we have learnt to ask
+some of the right questions, and have developed some of the            In this chapter and in this book it is the development
+right methods for answering them. The material evidence of          of the questions and ideas that we shall emphasize, and
+the archaeological record has been lying around for a long          the application of new research methods. The main thing
+time. What is new is our awareness that the methods of              to remember is that every view of the past is a product of
+archaeology can give us information about the past, even            its own time: ideas and theories are constantly evolving,
+                                                                    and so are methods. When we describe the archaeologi-
+The Roman city of Pompeii lies in the shadow of Mount Vesuvius
+                                                                    cal research methods of today we are simply speaking of
+in Italy. When the volcano erupted in AD 79, the entire city was    one point on a trajectory of evolution. In a few decades or
+buried, all but forgotten until excavations began in the mid-18th   even a few years’ time these methods will certainly look
+century. Spectacular discoveries generated huge interest in the     old-fashioned and out of date. That is the dynamic nature of
+past, and greatly influenced the arts (see box, pp. 24–25).         archaeology as a discipline.
+22    PART I: The Framework of Archaeology
+
+
+
+       THE SPECULATIVE PHASE
+     Humans have always speculated about their past, and most             discovered the foundation stone which had been laid some
+     cultures have their own foundation myths to explain why              2200 years before. He housed many of his finds in a kind of
+     society is how it is. The Greek writer Hesiod, for instance,         museum at Babylon.
+     who lived around 800 BC, in his epic poem Works and Days                During the revival of learning in Europe known as the
+     envisaged the human past as falling into five stages: the            Renaissance (14th to 17th centuries), princes and people
+     Age of Gold and the Immortals, who “dwelt in ease and                of refinement began to form “cabinets of curiosities” in
+     peace upon their lands with many good things”; the Age of            which curios and ancient artifacts were displayed with
+     Silver, when humans were less noble; the Age of Bronze;              exotic minerals and all manner of specimens illustrative
+     the Age of Epic Heroes; and lastly his own time, the Age of          of what was called “natural history.” During the Renais-
+     Iron and Dread Sorrow, when “men never rest from labor               sance also scholars began to study and collect the relics of
+     and sorrow by day and from perishing by night.”                      Classical antiquity. And they began too in more northern
+        Most cultures, too, have been fascinated by the societ-           lands, far from the civilized centers of ancient Greece and
+     ies that preceded them. The Aztecs exaggerated their                 Rome, to study the local relics of their own remote past. At
+     Toltec ancestry, and were so interested in Teotihuacan, the          this time these were mainly the field monuments – those
+     huge Mexican city abandoned hundreds of years earlier                conspicuous sites, often made of stone, which immedi-
+     which they mistakenly linked with the Toltecs, that they             ately attracted attention, such as the great stone tombs of
+     incorporated ceremonial stone masks from that site in                northwestern Europe, and such impressive sites as Stone-
+     the foundation deposits of their own Great Temple (see               henge, or Carnac in Brittany. Careful scholars, such as the
+     box, pp. 554–55). A rather more detached curiosity about             Englishman William Stukeley (1687–1765), made system-
+     the relics of bygone ages developed in several early civi-           atic studies of some of these monuments, with accurate
+     lizations, where scholars and even rulers collected and              plans which are still useful today. Stukeley and his col-
+     studied objects from the past. Nabonidus, last native king           leagues successfully demonstrated that these monuments
+     of Babylon (reigned 555–539 BC), took a keen interest in             had not been constructed by giants or devils, as suggested
+     antiquities. In one important temple he dug down and                 by local names such as the Devil’s Arrows, but by people in
+
+     A page from the commonplace book of William Stukeley, with a sketch plan of the prehistoric monuments at Avebury, southern England.
+                                                                                 1 The Searchers: The History of Archaeology            23
+
+
+antiquity. He was also successful in phasing field monu-               Native Americans, but by a mythical and vanished race of
+ments, showing that, since Roman roads cut barrows, the                Moundbuilders. Jefferson adopted what today we should
+former must be later than the latter. In the same period,              call a scientific approach, that is, he tested ideas about the
+around 1675, the first archaeological excavation of the New            mounds against hard evidence – by excavating one of them.
+World – a tunnel dug into Teotihuacan’s Pyramid of the                 His methods were careful enough to allow him to recog-
+Moon – was carried out by Carlos de Sigüenza y Góngora.                nize different layers in his trench, and to see that the many
+                                                                       human bones present were less well preserved in the lower
+                                                                       layers. From this he deduced that the mound had been
+The First Excavations                                                  reused as a place of burial on many separate occasions.
+In the 18th century more adventurous researchers initiated             Although Jefferson admitted, rightly, that more evidence
+excavation of some of the most prominent sites. Pompeii in             was needed to resolve the Moundbuilder question, he saw
+Italy was one of the first of these, with its striking Roman           no reason why ancestors of the present-day Native Ameri-
+finds, although proper excavation did not begin there until            cans themselves could not have raised the mounds.
+the 19th century (see box overleaf). And in 1765, at the                  Jefferson was ahead of his time. His sound approach
+Huaca de Tantalluc on the coast of Peru, a mound was exca-             – logical deduction from carefully excavated evidence, in
+vated and an offering discovered in a hollow; the mound’s              many ways the basis of modern archaeology – was not taken
+stratigraphy was well described. Nevertheless, the credit              up by any of his immediate successors in North America. In
+for conducting what has been called “the first scientific              Europe, meanwhile, extensive excavations were being con-
+excavation in the history of archaeology” traditionally goes           ducted, for instance by the Englishman Richard Colt Hoare
+to Thomas Jefferson (1743–1826), later in his career third             (1758–1838), who dug into hundreds of burial mounds in
+President of the United States, who in 1784 dug a trench or            southern Britain during the first decade of the 19th century.
+section across a burial mound on his property in Virginia.             He successfully divided field monuments into different
+Jefferson’s work marks the beginning of the end of the                 categories, such as bell barrow, which are still in use today.
+Speculative Phase.                                                     None of these excavations, however, did much to advance
+   In Jefferson’s time people were speculating that the                the cause of knowledge about the distant past, since their
+hundreds of unexplained mounds known east of the                       interpretation was still within the biblical framework, which
+Mississippi river had been built not by the indigenous                 insisted on a short span for human existence.
+
+Early excavations: Richard Colt Hoare and William Cunnington direct a dig north of Stonehenge in 1805.
+  24            PART I: The Framework of Archaeology
+                                                                                                                              IT
+                                                                                                                                 Y
+                                                                                                                               AL
+                                                                                                                           Pompeii 
+                 DIGGING POMPEII: PAST AND PRESENT
+
+                                                                                                                          The first catalogue of the royal
+                                                                          N       Dates of Excavation:    1748–1798
+  Herculaneum Gate                    Gate
+                                                                                                                        collection was published in 1757.
+                                                                                                          1806–1815     Five years later the German scholar
+                                                                                     0       600ft
+                                                                                     0        200m
+                                                                                                          1815–1860     Johann Joachim Winckelmann, often
+                                              UNEXCAVATED                                                 1860–1870     regarded as the father of Classical
+                                                                                                          1879–1923     archaeology, published his first Letter
+                                                                                             Gate
+                                                                                                          1924–1961     on the discoveries at Herculaneum.
+                                                                                                                        From that time onward the finds
+                                                                                                          1961–2011
+  T. of Augustan Fortune                                                                                                from both cities attracted enormous
+                                                        Central Baths
+                                                                                                                        international attention, influencing
+                               Provision Market
+                                                                       UNEXCAVATED                                      styles of furniture and interior
+  Forum Baths
+                                                                                                                 Gate   decoration, and inspiring several
+T. of Jupiter
+                                      T. of Lares                                                                       pieces of romantic fiction.
+                                                                                                     Amphitheater
+                                                                                                                          Not until 1860, however, when
+                       Forum
+                                     T. of Vespasian
+                                                       Stabian Baths
+     T. of Apollo
+                                                                                                                        Giuseppe Fiorelli was put in charge of
+                                 Eumachia              T. of Jupiter Meilichios                                         the work at Pompeii, did well-recorded
+                                          T. of Isis
+                                 Building                                                                               excavations begin. In 1864 Fiorelli
+                                                                         House of Menander
+                                                                                                                        devised a brilliant way of dealing with
+Marine
+                Basilica                                   Small Theater                                                the cavities in the ash within which
+Gate
+                                                                                                          Large         skeletons were found: he simply filled
+  T. of Venus              Triangular Forum                Large Theater                                  Palaestra
+                                                                                             Gate                       them with plaster of Paris. The ash
+                               Gladiatorial Barracks    Gate                                             Tombs          around the cavity acted as a mold, and
+                                                                                                                        the plaster took the accurate shape of
+                 Sketch plan of Pompeii, showing the excavated areas.                                                   the decayed body. (In a more recent
+                                                                                                                        technique, the excavators pour in
+                 In the history of archaeology, the sites                  what we now know to be the site of           transparent glass fiber. This allows
+                 of Pompeii and Herculaneum, lying at                      Herculaneum. He had the good luck            bones and artifacts to be visible.)
+                 the foot of Mount Vesuvius in the Bay                     to discover the ancient theater – the          During the 20th century, Amedeo
+                 of Naples, Italy, hold a very special                     first complete Roman example ever            Maiuri excavated at Pompeii between
+                 place. Even today, when so many                           found – but he was mainly interested
+                 major sites have been systematically                      in works of art for his collection.          How a body shape is retrieved.
+                 excavated, it is a moving experience                      These he removed without any kind
+                 to visit these wonderfully preserved                      of record of their location.                   1 Pumice and
+                 Roman cities.                                                Following Elboeuf, clearance                ash bury a victim
+                   Pompeii’s fate was sealed on the                        resumed in a slightly more                     in AD 79.
+                 momentous day in August AD 79                             systematic way in 1738 at
+                 when Vesuvius erupted, a cataclysmic                      Herculaneum, and in 1748 Pompeii
+                 event described by the Roman writer,                      was discovered. Work proceeded
+                                                                                                                          2 The body
+                 the younger Pliny. The city was buried                    under the patronage of the King
+                                                                                                                          gradually decays,
+                 under several meters of volcanic                          and Queen of Naples, but they                  leaving a hollow.
+                 ash, many of the inhabitants being                        did little more than quarry ancient
+                 asphyxiated as they tried to flee.                        masterpieces to embellish their
+                 Herculaneum nearby was buried                             royal palace. Shortly afterwards, on
+                 to an even greater depth. There the                       the outskirts of Herculaneum, the              3 Archaeologists find
+                                                                                                                          the hollow, and pour
+                 complete cities lay, known only from                      remains of a splendid villa were
+                                                                                                                          in wet plaster.
+                 occasional chance discoveries, until                      revealed, with statues and an entire
+                 the advent of antiquarian curiosity in                    library of carbonized papyri that have
+                 the early 18th century.                                   given the complex its name: the Villa
+                   In 1709 the Prince of Elboeuf,                          of the Papyri. The villa’s dimensions          4 The plaster hardens,
+                 learning of the discovery of worked                       were closely followed by J. Paul Getty         allowing the pumice
+                                                                                                                          and ash to be
+                 marble in the vicinity, proceeded to                      in the construction of his museum at
+                                                                                                                          chipped away.
+                 investigate by shafts and tunnels                         Malibu, California.
+                                                            1 The Searchers: The History of Archaeology   25
+
+
+
+
+1924 and 1961, and for the first time
+systematic excavations were carried
+out beneath the AD 79 ground level,
+revealing remains of earlier phases
+of the town. In recent years his work
+has been supplemented by targeted
+excavations by many international
+teams of archaeologists. This work
+has uncovered a complex history of
+changing property boundaries and
+land use, revealing how Pompeii
+grew from a small rural settlement
+into a sophisticated Roman town and
+throwing much new light on its social
+and economic development.
+  Pompeii remains the most complete
+urban excavation ever undertaken.
+The town plan is clear in its essentials,
+and most of the public buildings
+have been investigated, along with
+innumerable shops and private
+houses. Yet the potential for further
+study and interpretation is enormous.
+  Today it is not difficult for the visitor
+to Pompeii to echo the words of
+Shelley in his Ode to Naples, written
+more than a century and a half ago:
+  “I stood within the City
+disinterred;/And heard the autumnal
+leaves like light footfalls/Of spirits
+passing through the streets; and
+heard/The Mountain’s slumberous
+voice at intervals/Thrill through those
+roofless halls.”
+
+                                              Early 20th-century
+                                              excavations of the Via dell’
+                                              Abbondanza, Pompeii’s
+                                              main thoroughfare (top).
+                                              In this wall painting from
+                                              the House of the Chaste
+                                              Lovers (above), a slave-
+                                              girl watches two semi-
+                                              naked couples enjoying a
+                                              banquet. Plaster, poured
+                                              into the cavity left by the
+                                              body (left), recreates the
+                                              shape of a Pompeian
+                                              struck down in flight.
+                                              Conditions of preservation
+                                              at Pompeii are remarkable:
+                                              for example, many
+                                              carbonized eggs (right)
+                                              have survived.
+26    PART I: The Framework of Archaeology
+
+
+
+      THE BEGINNINGS OF MODERN ARCHAEOLOGY
+
+     It was not until the middle of the 19th century that the dis-
+     cipline of archaeology became truly established. Already in
+     the background there were the significant achievements
+     of the newly developed science of geology. The Scottish
+     geologist James Hutton (1726–1797), in his Theory of the
+     Earth (1785), had studied the stratification of rocks (their
+     arrangement in superimposed layers or strata), establish-
+     ing principles which were to be the basis of archaeological
+     excavation, as foreshadowed by Jefferson. Hutton showed
+     that the stratification of rocks was due to processes which
+     were still going on in seas, rivers, and lakes. This was the
+     principle of “uniformitarianism.” It was argued again by
+     Charles Lyell (1797–1875) in his Principles of Geology (1833)
+     that geologically ancient conditions were in essence similar
+     to, or “uniform with,” those of our own time. This idea could                                                 The title page of
+     be applied to the human past also, and it marks one of the                                                    Darwin’s book;
+     fundamental notions of modern archaeology: that in many                                                       his ideas about
+     ways the past was much like the present.                                                                      evolution proved
+                                                                                                                   highly influential,
+                                                                                                                   not least in
+     The Antiquity of Humankind                                                                                    archaeology.
+
+     These ideas did much to lay the groundwork for what was
+     one of the significant events in the intellectual history of the   published in 1859, established the concept of evolution as
+     19th century (and an indispensable one for the discipline of       the best explanation for the origin and development of all
+     archaeology): the establishment of the antiquity of human-         plants and animals. The idea of evolution itself was not new
+     kind. It was a French customs inspector, Jacques Boucher de        – earlier scholars had suggested that living things must
+     Perthes (1788–1868), working in the gravel quarries of the         have changed or evolved through the ages. What Darwin
+     Somme river, who in 1841 published convincing evidence             demonstrated was how this change occurred. The key
+     for the association there of human artifacts (of chipped           mechanism was, in Darwin’s words, “natural selection,”
+     stone, what we would today call “hand-axes” or “bifaces”)          or the survival of the fittest. In the struggle for existence,
+     and the bones of extinct animals. Boucher de Perthes argued        environmentally better-adapted individuals of a particular
+     that this indicated human existence for a long time before         species would survive (or be “naturally selected”) whereas
+     the biblical Flood. His view did not at first win wide accep-      less well-adapted ones would die. The surviving individu-
+     tance, but in 1859 two leading British scholars, John Evans        als would pass on their advantageous traits by heredity to
+     (1823–1908) and Joseph Prestwich (1812–1896), visited him          their offspring and gradually the characteristics of a species
+     in France and were persuaded of the validity of his findings.      would change to such an extent that a new species emerged.
+        It was now widely agreed that human origins extended far        This was the process of evolution. Darwin’s other great
+     back into a remote past, so that the biblical notion of the cre-   work, The Descent of Man, was not published until 1871, but
+     ation of the world just a few thousand years before our own        already the implications were clear: that the human species
+     time could no longer be accepted. The possibility of a prehis-     had emerged as part of this same process. The search for
+     tory of humankind, indeed the need for one, was established        human origins in the material record, by the techniques of
+     (the term “prehistory” itself came into general use after the      archaeology, could begin.
+     publication of John Lubbock’s (1834–1913) book Prehistoric
+     Times in 1865, which went on to become a bestseller).
+                                                                        The Three Age System
+                                                                        As we have noted, some of these techniques, notably in the
+     The Concept of Evolution                                           field of excavation, were already being developed. So too
+     These ideas harmonized well with the findings of another           was another conceptual device which proved very useful for
+     great scholar of the 19th century, Charles Darwin (1809–           the progress of European prehistory: the Three Age System.
+     1882), whose fundamental work, On the Origin of Species,           As early as 1808, Colt Hoare had recognized a sequence
+                                                                              1 The Searchers: The History of Archaeology         27
+
+
+
+EVOLUTION: DARWIN’S GREAT IDEA
+The idea of evolution has been            the 19th century away from                      explanations for long-term change.
+of central significance in the            the broad generalizations of Lewis              White was for many years the only
+development of archaeological             Henry Morgan and Edward Tylor                   protagonist of what may be termed
+thinking. In the first place it is        in favor of a much more detailed,               cultural evolutionism, with books
+associated with the name of Charles       descriptive approach, often termed              such as The Evolution of Culture
+Darwin, whose On the Origin of            “historical particularism,” and                 (1959). White and Steward strongly
+Species (1859) effectively explained      associated with the name of the                 influenced the New Archaeologists
+the problem of the origin and             anthropologist Franz Boas.                      of the 1960s and 1970s, in particular
+development of the plant and animal                                                       Lewis Binford, Kent Flannery, and
+species, including humankind. It did                                                      D.L. Clarke.
+so by insisting that within a species
+there is variation (one individual                                                        Recent Approaches
+differs from another), that the                                                           Evolutionary thinking has naturally
+transmission of physical traits is                                                        continued to play a major role in
+by heredity alone, and that natural                                                       the consideration of human origins.
+selection determines survival. Darwin                                                     It has been appreciated that the
+certainly had precursors, among                                                           process of evolution does not need
+whom Thomas Malthus (1766–1834)                                                           to be gradual; there the concept of
+was influential with his notion of                                                        “punctuated equilibrium” has come
+competition through population                                                            into play. Nor need it be simple: the
+pressure, and the geologist Charles                                                       role of self-organizing systems and
+Lyell with his insistence upon                                                            catastrophe theory are discussed
+gradual change.                                                                           in Chapter 12. Nor does the recent
+                                                                                          debate in the United States on
+The Impact on Archaeology                                                                 “intelligent design” seem helpful:
+Darwin’s work had an immediate                                                            it is no more than an update of
+effect on archaeologists such as                                                          traditional arguments for the
+Pitt-Rivers, John Evans, and Oscar                                                        existence of God, modified to avoid
+Montelius, laying the foundations for                                                     the identity of the designer – it is
+the study of the typology of artifacts.                                                   not science. But increasingly it is
+His influence on social thinkers                                                          realized that Darwinian evolutionary
+and anthropologists was even more                                                         thought has not yet produced
+significant: among them was Karl                                                          mechanisms which adequately
+Marx (Marx was also influenced by                                                         describe the processes involved
+the American anthropologist, Lewis                                                        in human cultural development.
+Henry Morgan – see p. 29).                                                                Richard Dawkins’ notion of the
+  The application of the principles                                                       “meme,” supposedly a specific
+of evolution to social organization                                                       and transmissable agent for change
+does not always follow the                                                                based on the concept of the “gene,”
+detailed mechanisms of hereditary                                                         has not proved useful in practice.
+transmission which apply to the                                                           Nor has the application of
+biologically defined species. For                                                         evolutionary psychology yet solved
+                                          Charles Darwin caricatured as an ape,
+culture can be learned, and passed        published in 1874. The drawing was captioned
+                                                                                          many problems. There is no
+on between generations more               with a line from William Shakespeare’s Love’s   suggestion here that the application
+widely than between parents and           Labour’s Lost: “This is the ape of form.”       of Darwinian evolutionary theory
+their children. Often, indeed, the                                                        is incorrect or inappropriate. And
+term “evolutionary” applied to an         In the years before and after World             there are indications now that
+argument or an explanation simply         War II American anthropologists like            computer-aided simulation studies
+means “generalizing.” Here it is          Leslie White and Julian Steward were            and approaches to diversification
+important to be aware of the great        therefore innovators in rejecting Boas          (phylogenetic studies) are opening
+swing in anthropology at the end of       and seeking to generalize, to find              new avenues to its application.
+28    PART I: The Framework of Archaeology
+
+
+
+
+                                                                    The influence of Darwin is evident in these early typologies.
+                                                                    (Left) John Evans sought to derive the Celtic British coinage,
+                                                                    bottom, from the gold stater of Philip of Macedon, top.
+     C.J. Thomsen shows visitors around the Danish National         (Right) Montelius’ arrangement of Iron Age fibulae (cloak pins),
+     Museum, arranged according to his Three Age System.            showing their evolution.
+
+     of stone, brass, and iron artifacts within the barrows he         These three great conceptual advances – the antiquity of
+     excavated, but this was first systematically studied when,     humankind, Darwin’s principle of evolution, and the Three Age
+     in 1836, the Danish scholar C.J. Thomsen (1788–1865)           System – at last offered a framework for studying the past,
+     published his guidebook to the National Museum of              and for asking intelligent questions about it. Darwin’s ideas
+     Copenhagen. This appeared in English in 1848 with the          were influential also in another way. They suggested that
+     title, Guide to Northern Archaeology. In it he proposed that   human cultures might have evolved in a manner analogous
+     the collections could be divided into those coming from a      to plant and animal species. Soon after 1859, British schol-
+     Stone Age, a Bronze Age, and an Iron Age, and this clas-       ars such as General Pitt-Rivers (whom we shall meet again
+     sification was soon found useful by scholars throughout        below) and John Evans were devising schemes for the evolu-
+     Europe. Later a division in the Stone Age was established      tion of artifact forms which gave rise to the whole method
+     between the Paleolithic or Old Stone Age and the Neolithic     of “typology” – the arrangement of artifacts in chronological
+     or New Stone Age. These terms were less applicable to          or developmental sequence – later greatly elaborated by the
+     Africa, where bronze was not used south of the Sahara, or      Swedish scholar Oscar Montelius (1843–1921).
+     to the Americas, where bronze was less important and iron
+     was not in use before the European conquest. But it was
+     conceptually significant. The Three Age System established     Ethnography and Archaeology
+     the principle that by studying and classifying prehistoric     Another important strand in the thought of the time was
+     artifacts one could produce a chronological ordering, and      the realization that the study by ethnographers of living
+     say something of the periods in question. Archaeology          communities in different parts of the world could be a
+     was moving beyond mere speculation about the past, and         useful starting point for archaeologists seeking to under-
+     becoming instead a discipline involving careful excava-        stand something of the lifestyles of their own early native
+     tion and the systematic study of the artifacts unearthed.      inhabitants who clearly had comparably simple tools and
+     Although superseded by chronometric dating methods (see        crafts. For example, contact with indigenous communities
+     Chapter 4), the Three Age System remains one of the fun-       in North America provided antiquarians and historians
+     damental divisions of archaeological materials today.          with models for tattooed images of Celts and Britons, and
+                                                                            1 The Searchers: The History of Archaeology                   29
+
+
+scholars such as Daniel Wilson and John Lubbock made                Egypt and the Near East also held a fascination for
+systematic use of such an ethnographic approach.                 the American lawyer and diplomat John Lloyd Stephens
+   And at the same time ethnographers and anthropol-             (1805–1852), but it was in the New World that he was to make
+ogists were themselves producing schemes of human                his name. His travels in Yucatan, Mexico, with the English
+progress. Strongly influenced by Darwin’s ideas about            artist Frederick Catherwood (1799–1854), and the superbly
+evolution, the British anthropologist Edward Tylor (1832–        illustrated books they produced together in the early 1840s,
+1917), and his American counterpart Lewis Henry Morgan           revealed for the first time to an enthusiastic public the ruined
+(1818–1881), both published important works in the 1870s         cities of the ancient Maya. Unlike contemporary researchers
+arguing that human societies had evolved from a state of         in North America, who continued to argue for a vanished
+savagery (primitive hunting) through barbarism (simple           white race of Moundbuilders as the architects of the earth-
+farming) to civilization (the highest form of society). Mor-     works there (see box overleaf), Stephens rightly believed that
+gan’s book, Ancient Society (1877), was partly based on his      the Maya monuments were, in his own words, “the creation
+great knowledge of living Native Americans. His ideas            of the same races who inhabited the country at the time of
+– particularly the notion that people had once lived in a        the Spanish conquest.” Stephens also noted that there were
+state of primitive communism, sharing resources equally
+– strongly influenced Karl Marx and Friedrich Engels, who        Frederick Catherwood’s accurate, if somewhat romantic, drawing
+                                                                 of a stela at Copan; at the time of his visit to the site in 1840 Maya
+drew on them in their writings about pre-capitalist societ-
+                                                                 glyphs had not been deciphered.
+ies, thus influencing many later Marxist archaeologists.
+
+
+Discovering the Early Civilizations
+By the 1880s, then, many of the ideas underlying
+modern archaeology had been developed. But these ideas
+themselves took shape against a background of major 19th-
+century discoveries of ancient civilizations in the Old World
+and the New.
+   The splendors of ancient Egyptian civilization had already
+been brought to the attention of an avid public after Napo-
+leon’s military expedition there of 1798–1800. It was the
+discovery by one of his soldiers of the Rosetta Stone that
+eventually provided the key to understanding Egyptian
+hieroglyphic writing. Inscribed on the stone were identi-
+cal texts written in both Egyptian and Greek scripts. The
+Frenchman Jean-François Champollion (1790–1832) used
+this bilingual inscription to decipher the hieroglyphs in
+1822, after 14 years’ work. A similar piece of brilliant
+scholarly detection helped unlock the secrets of cuneiform
+writing, the script used for many languages in ancient
+Mesopotamia. In the 1840s the French and British, under
+Paul Emile Botta (1802–1870) and Austen Henry Layard
+(1817–1894) respectively, had vied with one another using
+crude “excavations” to see which side could obtain from the
+Mesopotamian ruins the “largest number of works of art
+with the least possible outlay of time and money.” Layard
+became famous for his discoveries, which included huge
+Assyrian sculptures of winged bulls, and a great library of
+cuneiform tablets from the site of Küyünjik. But it was only
+the final decipherment of cuneiform by Henry Rawlinson
+(1810–1895) in the 1850s, building on the work of others,
+that proved that Küyünjik was biblical Nineveh. Rawlinson
+spent 20 years copying and studying a 6th-century BC trilin-
+gual inscription located on an inaccessible cliff-face between
+Baghdad and Tehran before cracking the code of cuneiform.
+30   PART I: The Framework of Archaeology
+
+
+      NORTH AMERICAN ARCHAEOLOGICAL PIONEERS
+
+
+
+
+      Squier              Haven              Powell                 Thomas              Putnam              Holmes
+
+
+      Two themes dominate the study of       (1820), contained a paper by Atwater,        Like most of their contemporaries,
+      North American archaeology in the      a local postmaster, on burial mounds       Squier and Davis considered the
+      19th century: the enduring belief in   and earthworks around Circleville,         mounds to be beyond the capabilities
+      a vanished race of Moundbuilders;      Ohio. His survey work is valuable          of any Native Americans, who were
+      and the search for “glacial man” –     since the mounds he studied were           “hunters averse to labor,” and so they
+      the idea, sparked off by Boucher de    already disappearing fast, and are         maintained the myth of the intrusive
+      Perthes’ Somme river discoveries       now gone. But he took little interest in   race of Moundbuilders.
+      in mid-century, that human fossils     their contents, and his interpretations
+      and Stone Age tools would be found     were idiosyncratic. Atwater divided        Samuel Haven (1806–1881)
+      in the Americas in association with    the mounds into three periods –            As Librarian of the American
+      extinct animals, as they had been      modern European, modern Native             Antiquarian Society, Haven built
+      in Europe. One way to gain insight     American, and those built by the           up an encyclopedic knowledge
+      into these issues is to view them      original Moundbuilder people whom          of publications on American
+      through the work of some of the main   he believed to have been Hindus from       archaeology. From this wealth of
+      protagonists.                          India who later moved on to Mexico.        reading he produced a remarkable
+                                                                                        synthesis in 1856, The Archaeology
+      Caleb Atwater (1778–1867)              Ephraim Squier (1821–1888)                 of the United States, published by
+      The newly formed American              Squier was an Ohio newspaperman            the Smithsonian Institution, which
+      Antiquarian Society’s first            who later became a diplomat. He            is considered a foundation stone of
+      Transactions, Archaeologia Americana   is best known for his work on the          modern American archaeology.
+                                             prehistoric mounds with Edwin Davis           In it, Haven argued persuasively
+                                             (1811–1888), an Ohio physician.            that the Native Americans were of
+                                             Between 1845 and 1847 they excavated       great antiquity, and, through cranial
+                                             over 200 mounds, and accurately            and other physical characteristics, he
+                                             surveyed many other earthworks.            pointed to their probable links with
+                                             Their landmark volume of 1848,             Asiatic races. Disagreeing strongly
+                                             Ancient Monuments of the Mississippi       with Atwater and Squier, he concluded
+                                             Valley, was the first publication of       that the mysterious mounds had
+                                             the newly founded Smithsonian              been built by the ancestors of living
+                                             Institution, and is still useful. It       Native Americans. The controversy
+                                             recorded hundreds of mounds,               continued to rage, but Haven’s
+                                             including many being destroyed as          rigorous approach paved the way for
+                                             settlers moved westward, gave cross-       the resolution of the issue by John
+                                             sections and plans, and adopted a          Wesley Powell and Cyrus Thomas.
+                                             simple classification system which
+                                             inferred function in a general way         John Wesley Powell (1834–1902)
+                                             (burial places, building platforms,        Raised in the Midwest, Powell spent
+                                             effigies, fortifications/defense, etc.).   much of his youth digging into
+                                                                                        mounds and learning geology. He
+                                                                                        became famous for canoeing down
+                                             Plan of Serpent Mound, Ohio, as prepared
+                                             by Squier and Davis in 1846.
+                                                                                        the Colorado and shooting the rapids.
+                                                                           1 The Searchers: The History of Archaeology            31
+
+Eventually Powell was appointed           Jersey physician named Charles
+director of the US Geographical           Abbott showed his collection of flaked
+and Geological Survey of the Rocky        stone tools to Harvard archaeologist
+Mountain region. He published a wide      Frederic Putnam, who thought they
+range of information on the rapidly       must be Paleolithic specimens,
+dwindling Native American cultures.       resembling as they did Stone Age
+Moving to Washington, this energetic      tools found in France. The issue of the
+scholar headed not only the Geological    “paleoliths” was brought to a head
+Survey but also his own brainchild,       in 1887 when another archaeologist,       Putnam mistakenly compared prehistoric
+                                                                                    stone axes from France (left) with Charles
+the Bureau of American Ethnology,         Thomas Wilson, fresh from a period
+                                                                                    Abbott’s “paleoliths” (right), which Holmes
+an agency set up to study the             in France, embarked on a campaign         subsequently proved to be of recent date.
+Native North Americans. A fearless        to prove there had been Stone Age
+campaigner for Native American            occupation of North America. Powell       had been deceived into making false
+rights, he recommended the setting        hired William Henry Holmes to look        comparisons with the French stone
+up of reservations, and also began the    into the question.                        tools by superficial similarities.
+recording of tribal oral histories.                                                    Holmes’ systematic methods also
+   In 1881 Powell recruited Cyrus         William Henry Holmes (1846–1933)          helped him to produce brilliant survey
+Thomas to head the Bureau’s               Holmes began his career as a              classifications of aboriginal pottery of
+archaeology program, and to settle        geological illustrator, a training        the eastern United States, and studies
+the Moundbuilder question once            that stood him in good stead when         of ruins in the Southwest and Mexico.
+and for all. After 7 years of fieldwork   he later turned to archaeology. At        He eventually succeeded Powell
+and the investigation of thousands        Powell’s request he spent five years      as head of the Bureau of American
+of mounds, Thomas proved that the         studying the “paleolith” question.        Ethnology. But his obsession with
+Moundbuilder race had never existed:      He collected innumerable specimens        facts rather than theories made
+the monuments had been erected            and proved that they were not             it difficult for him to accept the
+by the ancestors of modern Native         Stone Age tools at all but simply         possibility that humans had after all
+Americans.                                “the refuse of Indian implement           reached North America in the Old
+   But that was not the only              making” from recent times. He even        Stone Age, as new discoveries at the
+controversial issue confronting           manufactured identical “paleoliths”       end of his career in the 1920s began
+Powell’s Bureau. In 1876, a New           himself. Abbott, Putnam, and Wilson       to suggest.
+
+
+
+Part of a 348-ft long painting
+used by lecturer Munro Dickeson
+in the 19th century to illustrate
+his mound excavations.
+32    PART I: The Framework of Archaeology
+
+
+     similar hieroglyphic inscriptions at the different sites, which    to reconstruct the remote past. Nevertheless it fell to the next
+     led him to argue for Maya cultural unity – but no Champol-         generation of archaeologists, led by General Pitt-Rivers and
+     lion or Rawlinson was to emerge to decipher the glyphs until       William Flinders Petrie, to establish the true basis of modern
+     the 1960s (see box, pp. 402–03).                                   field techniques (see box opposite).
+        If the Bible was one of the main inspirations behind the           It is somewhat ironic that the piecemeal approach towards
+     search for lost civilizations in Egypt and the Near East, it was   the investigation of the past in Europe was to be surpassed
+     Homer’s account of the Trojan Wars in his narrative poem           by the creation of the Archaeological Survey of India in 1862.
+     the Iliad that fired the imagination of the German banker          This body was funded by the Government of India because,
+     Heinrich Schliemann (1822–1890), and sent him on a quest           in the words of Lord Canning, the Governor General, “It will
+     for the city of Troy. With remarkable luck and good judgment       not be to our credit, as an enlightened ruling power, if we
+     he successfully identified it in a series of field campaigns       continue to allow such fields of investigation … to remain
+     at Hissarlik, western Turkey, in the 1870s and 1880s. Not          without more examination.” In 1922, Sir John Marshall
+     content with that achievement, he then also dug at Mycenae         (1876–1958), the Director General of the Survey, was to dis-
+     in Greece and revealed – as he had at Troy – a hitherto            cover the last of the great Old World civilizations, that of the
+     unknown prehistoric civilization. Schliemann’s methods of          Indus. Such was the quality of his enormous excavations at
+     excavation have been criticized as crude and cavalier, but few     both Bronze Age Mohenjodaro (where 8 ha (2 acres) of the
+     were very rigorous in his day, and he demonstrated how inter-      city were exposed) and historic Taxila that his reports are still
+     pretation of the stratigraphy of a mound site could be used        used today for spatial reanalyses at these sites.
+
+
+      CLASSIFICATION AND CONSOLIDATION
+
+     Thus, well before the end of the 19th century, many of             some of the most significant contributions during the
+     the principal features of modern archaeology had been              first half of the 20th century. Gordon Childe (1892–1957),
+     established and many of the early civilizations had been           a brilliant Australian based in Britain, was the leading
+     discovered. There now ensued a period, which lasted                thinker and writer about European prehistory and Old
+     until about 1960, which Gordon Willey (1913–2002) and              World history in general. In the United States there was
+     Jeremy Sabloff in their A History of American Archaeology          a close link between anthropologists and archaeologists
+     have described as the “classificatory-historical period.” Its      studying the Native Americans. The anthropologist Franz
+     central concern, as they rightly characterize it, was chronol-     Boas (1858–1942) reacted against the broad evolution-
+     ogy. Much effort went into the establishment of regional           ary schemes of his predecessors Morgan and Tylor and
+     chronological systems, and the description of the develop-         demanded much greater attention to the collection and
+     ment of culture in each area.                                      classification of information in the field. Huge inventories
+        In regions where early civilizations had flourished             of cultural traits, such as pot and basket designs or types
+     new research and discoveries filled out the chronological          of moccasins, were built up. This tied in with the so-called
+     sequences. Alfred Maudslay (1850–1931) laid the real sci-          “direct historical approach” of the archaeologists, who
+     entific foundations of Maya archaeology, while the German          attempted to trace modern Native American pottery and
+     scholar Max Uhle (1856–1944) began to establish a sound            other styles “directly” back into the distant past. The work of
+     chronology for Peruvian civilization with his excavation           Cyrus Thomas and later W.H. Holmes (see box, pp. 30–31)
+     in the 1890s at the coastal site of Pachacamac, Peru. The          in the east was complemented by that of Alfred Kidder
+     meticulous work of Flinders Petrie (1853–1942) in Egypt            (1885–1963), whose excavations at Pecos Pueblo in the
+     was followed up by the spectacular discovery in the 1920s          Southwest from 1915 to 1929 established a chronological
+     of Tutankhamun’s tomb by Howard Carter (1874–1939)                 framework for that region (see box, p. 35). James A. Ford
+     (see box, pp. 64–65). In the Aegean area, Arthur Evans             (1911–1968) later developed the first major framework
+     (1851–1941) revealed a previously unknown civilization,            for the Southeast. By the 1930s the number of separate
+     that he called Minoan, on the island of Crete; the Minoans         regional sequences was so great that a group of scholars led
+     proved to be even earlier than Schliemann’s Mycenaeans.            by W.C. McKern devised what became known as the “Mid-
+     And in Mesopotamia Leonard Woolley (1880–1960) exca-               western Taxonomic System,” which correlated sequences
+     vated at Ur, the biblical city of Abraham’s birth, and put the     in the Midwest by identifying similarities between artifact
+     Sumerians on the map of the ancient world.                         collections. This was applied to other areas.
+        It was, however, scholars studying primarily the pre-              Gordon Childe, meanwhile, had almost single-handedly
+     historic societies of Europe and North America who made            been making comparisons of this sort between prehistoric
+                                                                       1 The 1 The Searchers: The History of Archaeology             33
+
+
+THE DEVELOPMENT OF FIELD TECHNIQUES
+                                        It was only in the late 19th century             organized excavations on his
+                                        that a sound methodology of                      estates in southern England.
+                                        scientific excavation began to be                Plans, sections, and even models
+                                        generally adopted. From that time,               were made, and the exact position
+                                        and during the 20th century, major               of every object was recorded. He
+                                        figures stand out who in their various           was not concerned with retrieving
+                                        ways have helped create the modern               beautiful treasures, but with
+                                        field methods we use today.                      recovering all objects, no matter
+                                                                                         how mundane. He was a pioneer in
+                                        General Augustus Lane-Fox                        his insistence on total recording, and
+                                        Pitt-Rivers (1827–1900)                          his four privately printed volumes,
+                                        For much of his life a professional              describing his excavations on
+                                        soldier, Pitt-Rivers brought long                Cranborne Chase from 1887 to 1898,
+                                        experience of military methods,                  represent the highest standards of
+General Pitt-Rivers                     survey, and precision to impeccably              archaeological publication.
+
+
+
+
+Excavation in progress at Wor Barrow,    A view (below) of the Wor Barrow ditch          An example (below) of Pitt-Rivers’
+Cranborne Chase (above). The barrow      during Pitt-Rivers’ excavation at the site in   meticulous records: his plan of Barrow 27
+was eventually removed.                  the mid-1890s.                                  at Cranborne Chase.
+34   PART I: The Framework of Archaeology
+
+
+       Sir William Flinders Petrie
+       (1853–1942)
+       A younger contemporary of Pitt-
+       Rivers, Petrie was likewise noted
+       for his meticulous excavations and
+       his insistence on the collection and
+       description of everything found, not
+       just the fine objects, as well as on
+       full publication. He employed these
+       methods in his exemplary excavations
+       in Egypt, and later in Palestine, from
+       the 1880s until his death. Petrie
+       also devised his own technique of
+       seriation or “sequence dating,” which
+       he used to bring chronological order
+       to the 2200 pit graves of the Naqada     Flinders Petrie (above) outside the tomb in which he lived in Giza, Egypt, in the early 1880s.
+       cemetery in Upper Egypt
+       (see Chapter 4).                                                                             Dorothy Garrod (1892–1968)
+                                                                                                    In 1937 Dorothy Garrod became the
+       Sir Mortimer Wheeler (1890–1976)                                                             first woman professor in any subject
+       Wheeler fought in the British army                                                           at Cambridge, and probably the
+       in both world wars and, like Pitt-                                                           first woman prehistorian to achieve
+       Rivers, brought military precision                                                           professorial status anywhere in the
+       to his excavations, notably through                                                          world. Her excavations at Zarzi in
+       techniques such as the grid-square                                                           Iraq and Mount Carmel in Palestine
+       method (Chapter 3). He is particularly                                                       provided the key to a large section
+       well known for his work at British                                                           of the Near East, from the Middle
+       hillforts, notably Maiden Castle.                                                            Paleolithic to the Mesolithic, and
+          Equally outstanding, however, was                                                         found fossil human remains crucial
+       his achievement from 1944 to                                                                 to our knowledge of the relationship
+       1948 as Director-General of                                                                  between Neanderthals and Homo
+       Archaeology in India, where he                                                               sapiens. With her discovery of the
+       held training schools in modern                                                              Natufian culture, the predecessor of
+       field methods, and excavated at the      Sir Mortimer Wheeler (above), and his               the world’s first farming societies, she
+       important sites of Harappa, Taxila,      excavation (below) at Arikamedu, India, 1945.       posed a series of new problems still
+       Charsadda, and Arikamedu, one                                                                not fully resolved today.
+       of his most famous excavations.          and Charsadda have inevitably
+       However, subsequent excavations          caused many of his fundamental                      Dorothy Garrod (below), one of the first to
+       at Maiden Castle, Arikamedu,             assumptions to be refuted.                          study the prehistoric Near East systematically.
+                                                                                      1 The Searchers: The History of Archaeology                  35
+
+Julio Tello (1880–1947)                     its entirety on the sea bed. Bass and               by recording and excavation prior to
+Tello, “America’s first indigenous          his team invented or developed many                 destruction (see box, p. 557).
+archaeologist,” was born and worked         now standard underwater techniques                    In Europe, the redevelopment of
+in Peru, began his career with studies      (see boxes, p. 107 and pp. 370–71).                 historic city centers led to highly
+in Peruvian linguistics, and qualified         On dry land, the economic boom of                complex excavations spanning
+as a medical doctor before taking up        the 1960s led to the construction of                many periods and demanding new
+anthropology. He did much to awaken         roads and buildings, which threatened               techniques of analysis. Finally, in
+an awareness of the archaeological          and destroyed many archaeological                   recent years, the application of
+heritage of Peru, and was the first         sites and led to a new emphasis                     computerization in fieldwork has
+to recognize the importance of the          on managing the cultural heritage                   offered powerful new tools to help us
+key site of Chavín de Huantar and           (Cultural Resource Management,                      recover and understand the remains
+indeed of such other major sites as         or CRM), either by preservation, or                 left by past societies.
+Sechín Alto, Cerro Sechín, and Wari.        Julio Tello (below left), arguably the greatest Native American social scientist of the 20th century
+He was one of the first to stress           – he was a Quechua Indian – and the father of Peruvian archaeology. Alfred Kidder (below right)
+the autonomous rise of civilization         and his cross-sectional drawing (bottom) of the stratigraphy at the Pecos Pueblo site.
+in Peru, and he also founded the
+Peruvian National Museum of
+Archaeology.
+
+Alfred Kidder (1885–1963)
+Kidder was the leading Americanist
+of his time. As well as being a major
+figure in Maya archaeology, he was
+largely responsible for putting the
+Southwest on the archaeological map
+with his excavations at Pecos Ruin, a
+large pueblo in northern New Mexico,
+from 1915 to 1929. His survey of the
+region, An Introduction to the Study of
+Southwestern Archaeology (1924), has
+become a classic.
+   Kidder was one of the first
+archaeologists to use a team of
+specialists to help analyze artifacts
+and human remains. He is also
+important for his “blueprint” for a
+regional strategy: (1) reconnaissance;
+(2) selection of criteria for ranking the
+remains of sites chronologically; (3)
+seriation into a probable sequence;
+(4) stratigraphic excavation to
+elucidate specific problems; followed
+by (5) more detailed regional survey
+and dating.
+
+Fieldwork after 1980
+Since 1980, archaeological fieldwork
+has developed in several new
+directions. One of these is underwater
+archaeology, which began as a serious
+method of research in 1960 with the
+work of George Bass at the Bronze
+Age Gelidonya shipwreck off the
+south coast of Turkey. This was the
+first ancient vessel ever excavated in
+36    PART I: The Framework of Archaeology
+
+
+                                                                          metal weapons, had spread or “diffused” to Europe from
+                                                                          the Near East by trade or migration of people. With the
+                                                                          much greater range of evidence available to him, Childe
+                                                                          modified this extreme diffusionist approach and argued
+                                                                          that Europe had undergone some indigenous develop-
+                                                                          ment – but he nevertheless attributed the major cultural
+                                                                          changes to Near Eastern influences.
+                                                                            In his later books, such as Man Makes Himself (1936),
+                                                                          Childe went on to try and answer the much more difficult
+                                                                          question: Why had civilization arisen in the Near East?
+                                                                          Himself influenced by Marxist ideas and the relatively
+                                                                          recent Marxist revolution in Russia, he proposed that there
+                                                                          had been a Neolithic Revolution which gave rise to the
+                                                                          development of farming, and later an Urban Revolution
+                                                                          which led to the first towns and cities. Childe was one of
+                                                                          the few archaeologists of his generation bold enough to
+                                                                          address this whole broad issue of why things happened
+                                                                          or changed in the past. Most of his contemporaries were
+                                                                          more concerned with establishing chronologies and cul-
+                                                                          tural sequences. But after World War II scholars with new
+                                                                          ideas began to challenge conventional approaches.
+
+
+                                                                          The Ecological Approach
+                                                                          One of the most influential new thinkers in North
+                                                                          America was the anthropologist Julian Steward (1902–
+     Professor Gordon Childe at the site of the Neolithic settlement at   1972). Like Childe he was interested in explaining cultural
+     Skara Brae, Orkney, in 1930.                                         change, but he brought to the question an anthropologist’s
+                                                                          understanding of how living cultures work. Moreover he
+     sequences in Europe. Both his methods and the Mid-                   highlighted the fact that cultures do not interact simply
+     western Taxonomic System were designed to order the                  with one another but with the environment as well. The
+     material: to answer the question: To what period do these            study of ways in which adaptation to the environment
+     artifacts date? and also: With which other materials do              could cause cultural change Steward christened “cul-
+     they belong? This latter question usually carried with it            tural ecology.” Perhaps the most direct archaeological
+     an assumption which Gordon Childe made explicit: that                impact of these ideas can be seen in the work of Gordon
+     a constantly recurring collection or “assemblage” of arti-           Willey (1913–2002), one of Steward’s graduate associates,
+     facts (a “culture” in his terminology, or an “aspect” in that        who carried out a pioneering investigation in the Virú
+     of McKern) could be taken as the material equipment of a             Valley, Peru, in the late 1940s. This study of 1500 years
+     particular group of people. This approach thus offered the           of pre-Columbian occupation involved a combination of
+     hope of answering, in a very general sense, the question:            observations from detailed maps and aerial photographs
+     Who did these artifacts belong to? The answer would be in            (see box, pp. 80–81), survey at ground level, and excava-
+     terms of a named people, even if the name for a prehistoric          tion and surface potsherd collection to establish dates for
+     people would be a modern one, not the original name.                 the hundreds of prehistoric sites identified. Willey then
+     (There are now seen to be dangers in this approach, as we            plotted the geographical distribution of these sites in the
+     shall discuss in Chapter 12.)                                        valley at different periods – one of the first settlement
+        But in his great works of synthesis, such as The Dawn of          pattern studies in archaeology (see Chapters 3 and 5) – and
+     European Civilization (1925) and The Danube in Prehistory            set them against the changing local environment.
+     (1929), Childe went beyond merely describing and corre-                 Quite independently of Steward, however, the Brit-
+     lating the culture sequences and attempted to account for            ish archaeologist Grahame Clark (1907–1995) developed
+     their origin. In the late 19th century scholars such as Mon-         an ecological approach with even more direct relevance
+     telius had looked at the richness of the early civilizations         for archaeological fieldwork. Breaking away from the
+     then being uncovered in the Near East, and argued that               artifact-dominated culture-historical approach of his con-
+     all the attributes of civilization, from stone architecture to       temporaries, he argued that by studying how human
+                                                                          1 The Searchers: The History of Archaeology             37
+
+
+                                                                   The greatest breakthrough came in the field of dating.
+                                                                In 1949 the American chemist Willard Libby (1908–
+                                                                1980) announced his invention of radiocarbon (C14)
+                                                                dating. It was not until well over a decade later that the full
+                                                                impact of this momentous technical achievement began
+                                                                to be felt (see below), but the implications were clear: here
+                                                                at last archaeologists might have a means of directly deter-
+                                                                mining the age of undated sites and finds anywhere in the
+                                                                world without recourse to complicated cross-cultural com-
+                                                                parisons with areas already dated by historical methods
+                                                                (usually written records).
+                                                                   Thus, traditionally, prehistoric Europe had been dated
+                                                                by virtue of supposed contacts with early Greece and hence
+                                                                (indirectly) with ancient Egypt, which could itself be dated
+                                                                historically. The radiocarbon method now held the pros-
+                                                                pect of providing a completely independent chronology
+                                                                for ancient Europe. Chapter 4 discusses dating methods in
+Gordon Willey in a test pit at Barton Ramie during the Belize   general, and radiocarbon in particular.
+Valley project studying Maya settlement patterns, 1953–60.         The growth in archaeological applications for scientific
+                                                                techniques was such that by 1963 a volume entitled Science
+populations adapted to their environments we can under-         in Archaeology, edited by Don Brothwell and Eric Higgs
+stand many aspects of ancient society. Collaboration with       (1908–1976), could be published which ran to nearly 600
+new kinds of specialists was essential: specialists who         pages, with contributions from 55 experts, not merely
+could identify animal bones or plant remains in the             on dating techniques and plant and animal studies, but
+archaeological record to help build up a picture not only of    methods for analyzing human remains (see Chapter 11)
+what prehistoric environments were like, but what foods         and artifacts (Chapters 8 and 9).
+prehistoric peoples ate. Clark’s landmark excavation at            Artifact studies, for instance, could contribute to an
+Star Carr in northeast Britain in the early 1950s demon-        understanding of early trade: it proved possible to iden-
+strated just how much information could be gleaned from         tify the raw materials of certain artifacts and the sources
+what appeared to be an unpromising site without stone           from which they had come through the technique of
+structures and dating to just after the end of the Ice Age.     trace-element analysis (the measurement of elements
+Careful environmental analysis and recovery of organic          present in the material only in very small amounts; see pp.
+remains showed that this had been a camp on the edge of         356–60). As with many of the new methods, research in
+a lake, where people had hunted red deer and eaten a wide       this field stretched back to the 1930s, when the Austrian
+variety of wild plant foods. Nor need the insights from         archaeologist Richard Pittioni (1906–1985) had begun to
+an ecological approach be confined to individual sites or       apply trace-element analysis to early copper and bronze
+groups of sites: in a remarkable work of synthesis, Prehis-     artifacts. Nevertheless it was not until the post-war years
+toric Europe: the Economic Basis (1952), Clark provided a       that this and a number of other newly developed scientific
+panoramic view of the varying human adaptations to the          techniques really began to make an impact on archaeology,
+European landscape over thousands of years.                     and the increasing power of computers and software, for
+   Out of this early ecological research has grown the          example, has made them indispensable for many aspects
+whole field of environmental and dietary reconstruction         of data handling.
+discussed in Chapters 6 and 7.                                     Over the past decade developments in biochemistry and
+                                                                molecular genetics have led to the emergence of the new
+                                                                disciplines of molecular archaeology and archaeogenetics.
+The Rise of Archaeological Science                              Sensitive techniques in the field of organic chemistry are
+The other striking development of the period immediately        beginning to allow the precise identification of organic res-
+after World War II was the rapid development of scientific      idues, while isotopic studies are giving fresh insights into
+aids for archaeology. We have already seen how pioneers of      both diet and nutrition. The study of DNA, both modern
+the ecological approach forged an alliance with specialists     and ancient, has offered novel approaches to the study of
+from the environmental sciences. Even more important,           human evolution, and is now also beginning to set the
+however, was the application to archaeology of the physical     study of plant and animal domestication on a systematic,
+and chemical sciences.                                          molecular basis.
+38   PART I: The Framework of Archaeology
+
+
+
+      WOMEN PIONEERS OF ARCHAEOLOGY
+      The story of many early women                 a lavishly illustrated report that is still
+      archaeologists was one of exclusion           consulted today. It is noteworthy for
+      and lack of recognition or promotion          its classification of artifacts according
+      – or even employment. Furthermore,            to potential function, drawing on
+      many brilliant academic women                 ethnographic parallels from Cretan
+      accepted that, after marriage, their          rural life of the time.
+      career would no longer be a
+      professional one, and supported the           Gertrude Caton-Thompson
+      academic work of their husband with           (1888–1985)
+      little public recognition.                    A wealthy British researcher who
+          This has remained so until the            followed courses in prehistory and
+      present time, so the achievements             anthropology at Cambridge, Caton-
+      of the following pioneers stand out           Thompson subsequently became
+      all the more.                                 well known for her pioneering
+                                                    interdisciplinary project of survey and
+                                                    excavation in the Fayum of Egypt; and
+                                                    later, perhaps most famously, at Great        Anna O. Shepard was an acknowledged expert
+                                                                                                  in the ceramics of the American Southwest and
+                                                    Zimbabwe, where her excavations in
+                                                                                                  Mesoamerica.
+                                                    1929 unearthed datable artifacts from
+                                                    a stratified context, and confirmed           Southwestern archaeology. She was
+                                                    that the site represented a major             one of the pioneers of petrographic
+                                                    culture of African origin (see box,           analysis of archaeological pottery (see
+                                                    pp. 466–67). The violent reaction             pp. 355–56), focusing on sherd paste,
+                                                    from the white community in                   paint, and temper. She published
+                                                    Rhodesia (as Zimbabwe was then                extensively on the technology of New
+                                                    called) to her findings so upset her          World pottery, and wrote a standard
+                                                    that she refused to undertake further         work, Ceramics for the Archaeologist.
+                                                    work in southern Africa and returned          She carried out most of her work
+                                                    to Egypt and Arabia.                          in a laboratory at home, in relative
+                                                                                                  isolation, rarely going into the field,
+                                                    Anna O. Shepard (1903–1973)                   but nevertheless carved out a unique
+                                                    An American who studied                       niche for herself in the profession.
+                                                    archaeology as well as a wide range of
+                                                    hard sciences, Shepard subsequently           Kathleen Kenyon (1906–1978)
+      Harriet Boyd Hawes (in 1892), discoverer of   became a specialist in ceramics,              A formidable British archaeologist,
+      the Minoan town site of Gournia, Crete.       as well as Mesoamerican and                   daughter of a director of the British
+                                                                                                  Museum, Kenyon trained on Roman
+      Harriet Boyd Hawes (1871–1945)                                                              sites in Britain under Mortimer
+      This well-educated American majored                                                         Wheeler (see box, p. 34), and adopted
+      in Classics and was fluent in Greek.                                                        his method, with its close control
+      Just after graduating, in her early                                                         over stratigraphy. She subsequently
+      twenties, she spent several seasons                                                         applied this approach in the Near East
+      riding around Crete on muleback,                                                            at two of the most complex and most
+      in dangerous territory, alone or in                                                         excavated sites in Palestine: Jericho and
+      the company of a woman friend,                                                              Jerusalem. At Jericho, in 1952–1958, she
+      looking for prehistoric sites. In 1901                                                      found evidence that pushed back the
+      she discovered the Bronze Age site of                                                       date of occupation to the end of the Ice
+      Gournia – the first Minoan town site                                                        Age, and uncovered the walled village
+      ever unearthed – which she excavated
+      for the next three years, supervising a                                                     Gertrude Caton-Thompson – her work at
+      hundred local workmen. She published                                                        Great Zimbabwe confirmed that the site was
+      her findings in exemplary fashion in                                                        the work of a major African culture.
+                                                                                            1 The Searchers: The History of Archaeology                    39
+
+
+
+
+Kathleen Kenyon (above left) was a great excavator and worked at two of the most important and complex sites in the Near East, Jericho and Jerusalem.
+Tatiana Proskouriakoff (above center) trained as an architect and worked originally as a museum artist – this (above right) is her reconstruction of the
+Maya site of Xpuhil. Her work on Maya glyphs contributed greatly to their final decipherment.
+
+of the Neolithic farming community,                 worked for almost half a century at                 given in Faces of Archaeology in Greece
+commonly referred to as “the earliest               many sites in East Africa, carrying out             (Hood, 1998), with a wonderful series
+town in the world.”                                 meticulous excavations, most notably                of portrait caricatures by Piet de Jong,
+                                                    at Olduvai Gorge, Tanzania, where in                who was the chief illustrator for Sir
+Tatiana Proskouriakoff (1909–1985)                  1959 Mary unearthed the skull of an                 Arthur Evans at his excavations at
+Born in Siberia, Proskouriakoff moved               adult australopithecine, Zinjanthropus              Knossos in Crete. Among the well-
+with her family to Pennsylvania in                  boisei, of 1.79 million years ago; and              known archaeologists are Winifred
+1916. Unemployed after graduating as                at Laetoli, where she excavated the                 Lamb (1894–1963), the excavator
+an architect in 1930 during the Great               famous trails of fossilized hominin                 of Thermi in Lesbos (contemporary
+Depression, she ended up working as                 footprints, made 3.7 million years                  with early Troy); Hetty Goldman
+a museum artist in the University of                ago. She also painstakingly recorded a              (1881–1972), excavator of Early Bronze
+Pennsylvania. A visit to the Maya site              large amount of Tanzanian rock art.                 Age Eutresis; and Virginia Grace
+of Piedras Negras led her to devote the                                                                 (1901–1994), a world authority on
+rest of her life to Maya architecture,              A splendid insight into the careers                 the Roman amphora trade. None
+art, and hieroglyphs. A skilled artist,             and personalities of women as well                  of these married. It is clear that the
+she produced numerous plans of                      as male archaeologists in Greece in                 women scholars who did marry, and
+the architecture of Chichen Itza and                the early years of the 20th century is              thus ended their professional careers
+Copan, and a definitive book entitled A                                                                 – such as Vivian Wade-Gery (1897–
+Study of Classic Maya Sculpture.                    Mary Leakey worked for almost half a                1988) or Josephine Shear (1901–1967)
+                                                    century at various early hominin sites in
+  She also worked alone till her death                                                                  – were just as brilliant academically.
+                                                    East Africa, transforming our knowledge of
+on the complex problems of Maya                     human development.
+hieroglyphic writing, challenging the
+theory that the inscriptions contained
+only calendrical and astronomical
+information and putting forward
+the pioneering notion that the Maya
+were also recording their political
+and dynastic histories, work that
+contributed to the breakthrough in the
+decipherment of Maya hieroglyphs.
+
+Mary Leakey (1913–1996)
+A cigar-smoking, whisky-drinking
+                                                                                                        Virginia Grace (above left) and Hetty
+British archaeologist who, together                                                                     Goldman (above right) both working in
+with her husband Louis (see p. 42),                                                                     Greece in the early 20th century, as depicted
+transformed their chosen field. They                                                                    by Piet de Jong. They had long and very
+                                                                                                        distinguished careers in archaeology.
+40    PART I: The Framework of Archaeology
+
+
+
+      A TURNING POINT IN ARCHAEOLOGY
+
+     The 1960s marked a turning point in the development of                They also argued that archaeological reasoning should
+     archaeology. By this time various dissatisfactions were being      be made explicit. Conclusions should be based not simply
+     expressed with the way research in the subject was being           on the personal authority of the scholar making the inter-
+     conducted. These dissatisfactions were not so much with            pretation, but on an explicit framework of logical argument.
+     excavation techniques, or with the newly developed scien-          In this they relied on current ideas within the philosophy
+     tific aids, but with the way conclusions were drawn from           of science, where conclusions, if they are to be considered
+     them. The first and most obvious point concerned the role          valid, must be open to testing.
+     of dating. The second went beyond this: it focused on the             Within the spirit of processual archaeology advocated
+     way archaeologists explain things, on the procedures used          by Willey and Phillips, they sought to explain rather than
+     in archaeological reasoning. With the advent of radiocarbon        simply to describe, and to do so, as in all sciences, by seeking
+     dating, dates could in many cases be assigned rapidly, and         to make valid generalizations.
+     without the long and laborious framework of cross-cultural            In doing this they sought to avoid the rather vague talk of
+     comparisons needed previously. To establish a date was no          the “influences” of one culture upon another, but rather to
+     longer one of the main end products of research. It was still      analyze a culture as a system which could be broken down
+     important, but it could now be done much more efficiently,         into subsystems. This led them to study subsistence in its
+     allowing the archaeologist to go on to ask more challenging        own right, and technology, and the social subsystem, and
+     questions than merely chronological ones.                          the ideological subsystem, and trade and demography, and
+        The second and perhaps more fundamental cause for               so forth, with much less emphasis on artifact typology and
+     dissatisfaction with the traditional archaeology was that it       classification. In this way they had been partly anticipated
+     never seemed to explain anything, other than in terms of           by the ecological approach of the 1950s, which was already
+     migrations of peoples and supposed “influences.” Already
+     in 1948 the American archaeologist Walter W. Taylor (1913–         Lewis Binford, the founder of the “New Archaeology,” lecturing
+                                                                        on his work among the Nunamiut hunters of Alaska.
+     1997) had formulated some of these dissatisfactions in
+     his A Study of Archaeology. He had argued for a “conjunc-
+     tive” approach, in which the full range of a culture system
+     would be taken into consideration. And in 1958, Gordon
+     Willey and Philip Phillips (1900–1994) in their Method and
+     Theory in American Archaeology had argued for a greater
+     emphasis on the social aspect, for a broader “processual
+     interpretation” or study of the general processes at work in
+     culture history. They also spoke of “an eventual synthesis in
+     a common search for sociocultural causality and law.”
+        That was all very well, but what would it mean in practice?
+
+
+     The Birth of the New Archaeology
+     In the United States the answer was provided, at least in
+     part, by a group of younger archaeologists, led by Lewis
+     Binford (1931–2011), who set out to offer a new approach
+     to the problems of archaeological interpretation, which
+     was soon dubbed by its critics and then by its supporters
+     “the New Archaeology.” In a series of articles, and later in
+     an edited volume, New Perspectives in Archaeology (1968),
+     Binford and his colleagues argued against the approach that
+     tried to use archaeological data to write a kind of “counterfeit
+     history.” They maintained that the potential of the archaeo-
+     logical evidence was much greater than had been realized
+     for the investigation of social and economic aspects of past
+     societies. Their view of archaeology was more optimistic
+     than that of many of their predecessors.
+                                                                        1 The Searchers: The History of Archaeology             41
+
+
+PROCESSUAL ARCHAEOLOGY:                                       studying what one might call “the subsistence subsystem”
+                                                              in very much these terms.
+KEY CONCEPTS                                                     In order to fulfill these aims, the New Archaeologists
+                                                              to a large extent turned away from the approaches of history
+In the early days of the New Archaeology, its principal       towards those of the sciences. Very similar develop-
+exponents were very conscious of the limitations of the       ments were under way in Britain at the same time, well
+older, traditional archaeology. The following contrasts       exemplified by the work of David L. Clarke (1937–1976),
+were among those which they often emphasized:                 particularly in his book Analytical Archaeology (1968),
+                                                              which reflected the great willingness of the New Archaeolo-
+THE NATURE OF ARCHAEOLOGY:                                    gists to employ more sophisticated quantitative techniques,
+Explanatory vs Descriptive                                    where possible computer-aided (computers first became
+Archaeology’s role was now to explain past change,            available in the 1960s for the storage, organization, and
+not simply to reconstruct the past and how people             analysis of data), and to draw on ideas from other disci-
+had lived. This involved the use of explicit theory.          plines, notably geography.
+                                                                 It must be admitted that in their enthusiasm to seize on
+EXPLANATION: Culture process vs Culture history               and utilize a battery of new techniques, the New Archae-
+Traditional archaeology was seen to rely on historical        ologists drew also on a range of previously unfamiliar
+explanation: the New Archaeology, drawing on the              vocabularies (drawn from systems theory, cybernetics, etc.),
+philosophy of science, would think in terms of culture        which their critics tended to dismiss as jargon. Indeed
+process, of how changes in economic and social                in recent years, several critics have reacted against some
+systems take place. This implies generalization.              of those aspirations to be scientific, which they have cat-
+                                                              egorized as “scientistic” or “functionalist.” Much of the
+REASONING: Deductive vs Inductive                             emphasis of early processual archaeology was indeed upon
+Traditional archaeologists saw archaeology as                 functional or ecological explanation, and it is now possible
+resembling a jigsaw puzzle: the task was one of               to regard its first decade as representing a “functional-pro-
+“piecing together the past.” Instead, the appropriate         cessual” phase, which has been followed in recent years by
+procedure was now seen as formulating hypotheses,             a “cognitive-processual” phase, which seeks more actively to
+constructing models, and deducing their consequences.         include the consideration of symbolic and cognitive aspects
+                                                              of early societies into the program of research. Many of
+VALIDATION: Testing vs Authority                              these points are considered in Chapter 12. But there can
+Hypotheses were to be tested, and conclusions                 be no doubt that archaeology will never be the same again.
+should not be accepted on the basis of the authority          Most workers today, even the critics of the early New Archae-
+or standing of the research worker.                           ology, implicitly recognize its influence when they agree
+                                                              that it is indeed the goal of archaeology to explain what hap-
+RESEARCH FOCUS:
+                                                              pened in the past as well as to describe it. Most of them agree
+Project design vs Data accumulation
+                                                              too that in order to do good archaeology it is necessary to
+Research should be designed to answer specific
+                                                              make explicit, and then to examine, our underlying assump-
+questions economically, not simply to generate more
+information which might not be relevant.
+                                                              tions. That was what David Clarke meant when he wrote in a
+                                                              1973 article of “the loss of innocence” in archaeology.
+CHOICE OF APPROACH:
+Quantitative vs Simply qualitative
+The benefits were seen of quantitative data, allowing          WORLD ARCHAEOLOGY
+computerized statistical treatment, with the possibility
+of sampling and significance testing. This was often
+preferred to the purely verbal traditional approach.          The questioning approach of the New Archaeology and the
+                                                              demand for explicit and quantitative procedures led to new
+SCOPE: Optimism vs Pessimism                                  developments in field research, many of which built on or
+Traditional archaeologists often stressed that                coincided with the programs of fieldwork already being
+archaeological data were not well suited to the               conducted by archaeologists who would not necessarily
+reconstruction of social organization or cognitive systems.   have thought of themselves as followers of the new school
+The New Archaeologists were more positive and                 of thought.
+argued that one would never know how hard these                  In the first place, there was a much greater emphasis on
+problems were until one had tried to solve them.              field projects with well-defined research objectives – projects
+42    PART I: The Framework of Archaeology
+
+
+     which set out to answer specific questions about the past.      has seen crucial theoretical debate between Lewis Binford,
+     In the second place, the new insights yielded by the eco-       C.K. Brain, Glynn Isaac (1937–1985), and others over the
+     logical approach made it clear that satisfactory answers to     likely hunting and scavenging behavior of our early ances-
+     many major questions would only be forthcoming if whole         tors (see Chapters 2 and 7).
+     regions and their environments were looked at, rather than
+     single sites in isolation. And the third development, very
+     much linked to the first and second, was the realization        The Archaeology of Continents
+     that in order to carry out these objectives effectively, new    Research in Africa exemplifies the pushing back of archae-
+     techniques needed to be introduced of intensive field survey    ology’s frontiers in both time and space. The quest for
+     and selective excavation, coupled with statistically based      human origins has been one success story, but so too has
+     sampling procedures and improved recovery methods,              been the rediscovery through archaeology of the achieve-
+     including screening (sieving) of excavated material.            ments and history of the Iron Age peoples of Africa,
+        These are the key elements of modern field research,         including the building of Great Zimbabwe (box, pp.
+     discussed in detail in Chapter 3. Here we should observe        466–67). By 1970 archaeological knowledge of the whole
+     that their widespread application has begun to create           continent was sufficiently advanced for J. Desmond Clark
+     for the first time a true world discipline: an archaeology      (1916–2002), one of the leading researchers, to produce
+     that reaches geographically right round the globe, and an       the first synthesis, The Prehistory of Africa. Meanwhile, in
+     archaeology that reaches back in time to the beginnings of      another equally little-studied continent, Australia, John
+     human existence and right up to the modern period.              Mulvaney’s excavations in the early 1960s at Kenniff Cave,
+                                                                     South Queensland, produced radiocarbon dates proving
+                                                                     occupation there during the last phase of the Ice Age –
+     The Search for Origins                                          thus establishing Australasia as one of the most fruitful
+     Among the pioneers of well-focused project design was           regions for new archaeological research in the world.
+     Robert J. Braidwood (1907–2003), of the University of              Work in Australia highlights two further important
+     Chicago, whose multi-disciplinary team in the 1940s and         trends in modern archaeology: the rise of ethnoarchaeol-
+     1950s systematically sought out sites in the Iraqi Kurdistan    ogy or “living archaeology”; and the increasing worldwide
+     region that would provide evidence for the origins of agri-     discussion about who should control or “own” monuments
+     culture in the Near East (see Chapter 7). Another American      and ideas about the past.
+     project, headed by Richard MacNeish (1918–2001), did the
+     same for the New World: their research in the 1960s in
+     the Tehuacan Valley of Mexico moved our understanding           The Living Past
+     of the long-drawn-out development of maize farming an           From its beginnings the New Archaeology placed great
+     immense step forward.                                           emphasis on explanation – in particular explaining how
+        If the origins of farming have been the subject of much      the archaeological record was formed, and what excavated
+     well-targeted research in recent decades, the rise of complex   structures and artifacts might mean in terms of human
+     societies, including civilizations, has been another. In par-   behavior. It came to be realized that one of the most
+     ticular, two American field projects have been outstandingly    effective ways of addressing such questions would be to
+     successful: one in Mesopotamia led by Robert Adams (with        study the material culture and behavior of living societies.
+     much use of aerial photography as well as field survey), and    Ethnographic observation itself was nothing new – anthro-
+     the other in the Valley of Oaxaca, Mexico, led by Kent Flan-    pologists had studied the Native Americans and Australian
+     nery and Joyce Marcus (see Chapter 13).                         Aborigines since the 19th century. What was new was the
+        However, the credit for the most determined pursuit of       archaeological focus: the new name, ethnoarchaeology,
+     a project with a clear archaeological objective in the whole    emphasized this. The work of Richard Gould among the
+     history of archaeology should perhaps go to Louis Leakey        Aborigines in Australia, Richard Lee among the !Kung San
+     (1903–1972) and Mary Leakey (1913–1996), who between            of southern Africa, and Lewis Binford among the Nuna-
+     them pushed back the known dates for our immediate              miut Eskimo has established ethnoarchaeology – discussed
+     ancestors by several million years. As long ago as 1931 they    in more detail in Chapter 5 – as one of the most significant
+     began their search in the Olduvai Gorge, East Africa, for       recent developments in the whole discipline.
+     fossil human bones, but it was not until 1959 that their           However, the increasing involvement of archaeologists
+     extraordinary perseverance was rewarded and Mary Leakey         with living societies, and the simultaneous rise among
+     (see box, p. 39) made the first of many fossil hominin (early   such societies of an awareness of their own heritage and
+     human) finds in the Gorge. Africa has now become the            their own claims to it, have brought to the fore the question:
+     great focus of study for the early phases of humankind, and     Who should have access to, or ownership of, the past? It
+                                                                            1 The Searchers: The History of Archaeology            43
+
+
+is clear, for example, that the only inhabitants of Australia     many field archaeologists were relatively untouched by
+before European settlement were the Aborigines. Should it         theoretical debates, and the processual tradition established
+therefore be the Aborigines themselves who control archae-        by the New Archaeology rolled on, there were several new
+ological work on their forebears, even those dating back          approaches, sometimes collectively termed postprocessual,
+20,000 years or more? This important issue is explored            which dealt with interesting and difficult questions. Influ-
+further in Chapter 14.                                            ential arguments, some of them first advanced by Ian
+   Archaeologists such as John Mulvaney and Rhys                  Hodder (excavator at Çatalhöyük; see box on pp. 46–47) and
+Jones (1941–2001) have stood shoulder to shoulder                 his students, have stressed that there is no single, correct
+with the Aborigines in the fight to prevent destruction           way to undertake archaeological inference, and that the goal
+by developers of parts of Australia’s precious ancient            of objectivity is unattainable. Even the archaeological data
+heritage, for instance in Tasmania. Inevitably, though, as        are “theory laden,” and as many “readings” are possible
+the pace of worldwide economic development has quick-             as there are research workers. But in their more extreme
+ened, archaeologists everywhere have had to adapt and             form these arguments have led to charges of “relativism,”
+learn to salvage what they can about the past in advance          or a research style where “anything goes,” and where the
+of the bulldozer or plow. Indeed the massive upsurge of           borderlines between archaeological research and fiction (or
+this salvage or rescue archaeology, much of it government-        science fiction) may be difficult to define.
+funded, has given a new impetus to the archaeology of our            The earlier writings of Michael Shanks and Christopher
+towns and cities – to what in Europe is known as medieval         Tilley, especially their somewhat provocative “black” and
+or postmedieval archaeology, and what in the United               “red” books, initially provoked reactions of this kind. But
+States and elsewhere is called historical archaeology.            in their later writings they, and indeed the majority of post-
+                                                                  processual archaeologists, have taken a less aggressively
+                                                                  anti-scientific tone, and the emphasis has instead been
+Who Are the Searchers?                                            upon the use of a variety of personal and often humanistic
+The growth of salvage work also leads us to ask: Who today        insights to develop a range of different fields and interests,
+actually are the searchers in archaeology? A century ago          recognizing the varied perspectives of different social
+they were often wealthy individuals, who had the leisure          groups, and accepting the consequent “multivocality” of
+to speculate about the past, and to undertake excavations.        the postmodern world. The epistemological debate seems
+Or in other cases, they were travelers who had reason to          over now, with much less rhetorical position-taking and
+be in remote places, and used the opportunity to under-           with the recognition that there is no single or coherent
+take researches in what was effectively their spare time.         postprocessual archaeology, but rather a whole series of
+Forty years ago the searchers in archaeology tended to be         interpretive approaches and interests, enriched by the
+university scholars, or the representatives of museums            variety of intellectual sources upon which various scholars
+seeking to enlarge their collections, or the employees of         have drawn (see box overleaf). Michael Shanks and Ian
+learned societies and academic institutions (like the Egypt       Hodder suggested that “interpretive archaeologies” (plural)
+Exploration Society), nearly all of them based in the more        may be a more positive label than “postprocessual.”
+prosperous capitals of Europe and the United States.                 One of the strengths of the interpretive approach is
+   Today most countries in the world have their own gov-          to bring into central focus the actions and thoughts of
+ernment archaeological or historical services. The scope of       individuals in the past, which is also the goal of cogni-
+current public archaeology is reviewed in Chapters 14 and         tive archaeology (see Chapter 12). But it goes beyond the
+15. But it is worth noting here that today a “searcher” (i.e. a   methodological individualism of the latter, arguing that in
+professional archaeologist) is more likely to be an employee,     order to understand and interpret the past, it is necessary to
+often directly or indirectly a government employee, on a          employ an empathetic approach, to “get inside the minds”
+salvage project, than a more independent research worker.         and think the thoughts of the people in question. This might
+The “searchers” of today are employed in a wide range of          seem a logical goal when examining symbolic systems (for
+different roles, as reflected in the contemporary profession-     example figurative works, such as paintings, employing a
+als whose careers are reviewed in Chapter 16.                     complex iconography) but there is in reality no easy way to
+                                                                  get into other people’s minds, especially past minds, and the
+                                                                  methodology of the empathetic approach is not clear.
+New Currents of Thought                                              The various interpretive archaeologies often reject the
+Postmodernist currents of thought in the 1980s and 1990s,         tendency toward cross-cultural comparison and the modes
+drawn first from architectural theory and literary studies,       of explanation relying upon generalization characteristic of
+and then from wider social and philosophical fields, encour-      processual archaeology. So too do those working in Classi-
+aged a great diversity of approaches to the past. While           cal archaeology, or in the medieval period, or in other cases
+44   PART I: The Framework of Archaeology
+
+
+                                                                      where the textual evidence is so rich as to require that the
+     INTERPRETIVE OR POST-                                            approach be context-specific.
+                                                                         Some of the most interesting work on themes such as the
+     PROCESSUAL ARCHAEOLOGIES                                         rise of complex societies thus continues to be undertaken
+                                                                      outside the new interpretive or postprocessual tradition, by
+     Postprocessualism is a collective term for a number of           such scholars as Kent Flannery, Henry Wright, or Tim Earle,
+     approaches to the past, all of which have roots in the           who are willing to make cross-cultural comparisons within
+     postmodernist current of thought that developed in the           some more general framework. The study of early human
+     1980s and 1990s:                                                 developments in the Paleolithic period also has to operate
+                                                                      within a comparative framework where hominin fossils
+     The neo-Marxist element has a strong commitment to               and material culture are compared between continents.
+     social awareness: that it is the duty of the archaeologist       Questions relating to the development of human cogni-
+     not only to describe the past, but to use such insights to       tive abilities are certainly being addressed with renewed
+     change the present world. This contrasts quite strikingly        vigor, but the intellectual context of the discussion remains
+     with the aspirations towards objectivity of many                 broadly within the processual (or cognitive-processual) and
+     processual archaeologists.                                       scientific tradition. In other areas, however, and notably for
+                                                                      those periods when archaeology can be text-aided, interpre-
+     The post-positivist approach rejects the emphasis on the         tive approaches are widespread.
+     systematic procedures of scientific method which are                One theme which has recently come to the fore is an
+     such a feature of processual archaeology, sometimes              increased appreciation of the role played by artifacts them-
+     seeing modern science as hostile to the individual, as           selves – material things – in the development of human
+     forming an integral part of the “systems of domination”          relationships and in the promotion of social as well as
+     by which the forces of capitalism exert their “hegemony.”        technological change. Such a view goes beyond the early
+                                                                      materialism of economic thinkers such as Karl Marx, and
+     The phenomenological approach lays stress on the                 looks in more detail at the symbolic roles played by artifacts
+     personal experiences of the individual and on the way in         in the articulation of human societies. It involves also a
+     which encounters with the material world and with the            consideration of agency, whether in people or in things.
+     objects in it shape our understanding of the world. In           Another special focus of recent interest is the human body,
+     landscape archaeology, for example, the archaeologist            and the way it has been viewed, conceptualized, and repre-
+     sets out to experience the humanly shaped landscape              sented symbolically by different societies.
+     as it has been modified and formed by human activities.
+
+     The praxis approach lays stress upon the central role of         Pluralizing Pasts
+     the human “agent” and upon the primary significance of           The postprocessual archaeologists are certainly right in
+     human actions (praxis) in shaping social structure. Many         arguing that our own interpretation and presentation of
+     social norms and social structures are established and           the past, as in any museum display, or indeed in the origin
+     shaped by habitual experience (and the notion of habitus         myth of almost any modern nation, involves choices which
+     similarly refers to the unspoken strategy-generating             depend less on an objective assessment of the data than
+     principles employed by the individual which mediate              on the feelings and opinions of the researchers and of
+     between social structure and practice). The role of the          the clients whom they aim to please. The great national
+     individual as a significant agent is thus emphasized.            museum in the United States, the Smithsonian Institu-
+                                                                      tion in Washington, D.C., found it almost impossible to
+     The hermeneutic (or interpretive) view rejects                   mount an exhibition in 1995 dealing with the destruction
+     generalization, another feature of processual                    of Hiroshima 50 years earlier, without exciting the ire both
+     archaeology. Emphasis is laid, rather, upon the
+                                                                      of ex-servicemen and of liberals sensitive to Japanese sen-
+     uniqueness of each society and culture and on the need
+                                                                      sibilities. The development of indigenous archaeologies
+     to study the full context of each in all its rich diversity. A
+                                                                      raises comparable issues (Chapters 14 and 15).
+     related view stresses that there can be no single correct
+                                                                         These issues came to the fore in successive meetings of
+     interpretation: each observer or analyst is entitled to
+                                                                      the World Archaeology Congress (WAC), founded in 1986
+     their own opinion about the past. There will therefore be
+     a diversity of opinions, and a wide range of perspectives
+                                                                      by the British archaeologist Peter Ucko (1938–2007), who
+     – which is why the emphasis is on interpretive                   had served as the Principal of the Australian Institute of
+     archaeologies (plural).                                          Aboriginal Studies, where he had quickly perceived the
+                                                                      need to create and heed a platform for indigenous voices.
+                                                                               1 The Searchers: The History of Archaeology            45
+
+
+                                                                     experience as valid, to theorize this experience, and to use
+                                                                     this to build a program of political action.” However, the
+                                                                     questions they raised were not widely explored until the
+                                                                     1990s because it was not until then that a suitable critical
+                                                                     climate existed in archaeology. In Britain, this was provided
+                                                                     by the theoretical development of postprocessual archae-
+                                                                     ology and much feminist research has been conducted
+                                                                     within this framework. In North America, a combination of
+                                                                     feminist critique, the growth of historical archaeology, and
+                                                                     the keen interest taken by indigenous groups in their own
+                                                                     past, formed the intellectual environment for the debate.
+                                                                        Comparable questions have continued to emerge in the
+                                                                     developing indigenous archaeologies in the territories of
+                                                                     former colonies, now emancipated from the former impe-
+                                                                     rial power. The appropriate policy for cultural heritage
+                                                                     management, and indeed the very nature of the cultural
+                                                                     heritage, are often contested among competing inter-
+                                                                     est groups, sometimes along ethnic lines. Marginalized
+                                                                     groups, such as the Australian Aborigines, have sought to
+                                                                     achieve more influence in the definition and management
+                                                                     of the heritage, and have often found their interests over-
+                                                                     looked and misunderstood.
+                                                                        Deeper questions arise, however, about the nature of the
+The presentation of the past can be unexpectedly controversial       “globalization” process, itself the outcome of technological
+and open to criticisms of lack of objectivity and insensitivity to   advances developed in the West, and whether the nature
+different views of the past, as shown by an exhibition concerned     of the very notion of “cultural heritage” as commonly
+with Hiroshima at the Smithsonian Institution in 1995.               understood may not be a product of Western thought. The
+                                                                     Western-conceived notion of Cultural Heritage Management
+Although the 1994 meeting in New Delhi, India, was                   has been seen by post-colonial thinkers as an imposition of
+marred by internal Indian disagreements, and intending               Western values, with officially endorsed notions of “heritage”
+participants from Arab and developing countries were                 perhaps leading to homogenization and the undervaluation
+refused US entry visas for the 2003 WAC in Washington,               of cultural diversity. Even the UNESCO-sponsored listing of
+D.C., the Congress has succeeded in creating a forum                 “World Heritage Sites,” from the standpoint of this critique,
+where the archaeologies of newly emerged nations and of              is dominated by Western-formulated notions of “heritage.”
+different ethnic groups are respected and encouraged.                   Such questions are also raised much nearer to home by
+   It is evident that archaeology cannot avoid being caught          archaeologists in the Western world. There is an increasing
+up in the issues of the day, social and political as well as         interest in the archaeology of recent centuries, right down
+intellectual. An example is the influence of feminist think-         to the present, to the point that “heritage” becomes a term
+ing (somewhat belatedly in archaeology) and the growth               the precise meanings of which are frequently contested.
+of feminist archaeology, which overlaps with the relatively             While some aspects of the archaeology at the beginning
+new field of gender studies (see Chapter 5). A pioneer in the        of the new millennium were inevitably controversial, they
+emphasis of the importance of women in prehistory was                were also in some ways very positive. They emphasized
+Marija Gimbutas (1921–1994). Her research in the Balkans             the value and importance of the past for the contemporary
+led her to create a vision of an “Old Europe” associated with        world, and they led to the realization that the cultural heri-
+the first farmers whose central focus was (or so she argued)         tage is an important part of the human environment, and
+a belief in a great “Mother Goddess” figure. Although many           in some ways as fragile as the natural environment. They
+feminist archaeologists today would take issue with certain          imply, then, that the archaeologist has an important role to
+aspects of Gimbutas’s approach, she has certainly helped             play in achieving a balanced view also of our present world,
+foster the current debate on gender roles.                           which is inescapably the product of the worlds which have
+   In an article published in 1984, Margaret Conkey and              preceded it. The task of interpretation is now seen as very
+Janet Spector drew attention to the androcentrism (male              much more complex than it once seemed: that is all part
+bias) of the discipline of archaeology. As Margaret Conkey           of the “loss of innocence” which accompanied the New
+pointed out, there existed a need “to reclaim women’s                Archaeology more than 40 years ago.
+46   PART I: The Framework of Archaeology
+
+
+                                                                          TURKEY
+      ÇATALHÖYÜK: INTERPRETIVE                                                 Çatalhöyük
+
+
+      ARCHAEOLOGIES IN ACTION
+      The history of research at this            (linen) and of plants and animals
+      important early farming site in            were recovered, and the obsidian of
+      Turkey well illustrates the changing       which the abundant tools were made
+      approaches to archaeology in the           proved on trace-element analysis
+      past half-century.                         (see pp. 356–60) to derive from local
+                                                 sources. In 1965 the excavation was
+      Original Excavations                       interrupted, leaving many questions
+      The site was discovered by                 unanswered. In particular it was not
+      archaeologist James Mellaart in 1958,      clear whether Mellaart’s excavations
+      in the course of a survey of the fertile   at the southwest part of the site had
+      Konya Plain in south-central Turkey        revealed a “shrine quarter,” or whether     A large clay figurine of a “Mother Goddess”
+      which began in 1951. He started            the high frequency of rooms with            supported by two felines, found by Mellaart.
+      excavating the site in 1961, and the       painted walls and other symbolic
+      dramatic nature of his discovery soon      materials would be repeated on other        questions left unresolved by Mellaart.
+      became clear. The 21-m (65-ft) high        parts of the mound.                         Also, a falling water table in the area
+      mound cloaked the remains of an                                                        made urgent the investigation of
+      early Neolithic (early farming) town       Aims of the New Researches                  the lower, unexcavated parts of the
+      13 ha (32 acres) in extent with an         Ian Hodder, the most influential            site which were known to have well-
+      “agglomerate” plan (see p. 398) and        figure in the postprocessual                preserved organic remains, such as
+      with deeply stratified levels going back   movement of the 1980s and 1990s,            wood, wooden artifacts, baskets,
+      at least to 7200 BC. The well-preserved    has taken up the challenge offered          and perhaps unfired clay tablets,
+      rooms had plastered walls, some with       by the site, beginning surface              necessitating a 6-month excavation
+      wall paintings and plaster decorations     research in 1993 and excavation in          season in 1999.
+      incorporating bull skulls, and the finds   1995. One aim of the project was              But Hodder also set himself
+      included terracotta figures, several of    to use modern field techniques to           two yet more ambitious objectives
+      them female, suggesting to certain         investigate the structure of the site       appropriate to the “interpretive”
+      scholars a “Mother Goddess” cult.          and the functioning of its buildings        approach arising from the
+      Well-preserved remains of textiles         and so to answer some of the central        postprocessual debate. The first was
+                                                                                             to develop a more flexible and open
+      A reconstruction from Mellaart’s                                                       approach to stratigraphic excavation.
+      publication of “Shrine VI.A.10”;                                                       This has involved encouraging
+      note the bulls’ skulls and                                                             interpretation “at the trowel’s
+      plaster relief on                                                                      edge.” The moment of excavation is
+      the wall.                                                                              surrounded in discussion between
+                                                                                             the excavator and a wide range of
+                                                                                             specialists. The different specialists
+                                                                                             process material from the trench
+                                                                                             quickly so that they can feed
+                                                                                             information back to the excavator.
+                                                                                             The excavators are also asked to
+                                                                                             keep video records and to make diary
+                                                                                             entries about their interpretations as
+                                                                                             they dig, and all the data are made
+                                                                                             available on an interactive database.
+                                                                                               The second objective was similarly
+                                                                                             to allow more open-ended and
+                                                                                             multivocal approaches to the
+                                                                                             interpretation of the site as a whole,
+                                                                                             allowing not only different specialists
+                                                                                             to have a voice, but also the local
+                                                                                 1 The Searchers: The History of Archaeology           47
+
+inhabitants, and indeed visitors, not
+least those considering (with the
+late Marija Gimbutas) the site to be
+important for the emergence of a cult
+of the “Mother Goddess” (see pp. 45,
+217–18, and 410–11).
+   The decision to make data from the
+excavation available on the project’s
+website (http://www.catalhoyuk.com)
+thus goes beyond a simple intention
+to publish the findings promptly:
+it furthers the postprocessual or
+interpretive wish for multiple and
+alternative interpretations by all
+those choosing to take part. While          The new excavations directed by Ian Hodder.
+
+                                            and Interpretive Public Programs              buildings such as Mellaart’s “Shrine
+                                            (involving the newly constructed              VI.A.10” were houses used for a wide
+                                            Visitor Center), operate under the            range of daily functions. The complex
+                                            general direction of Ian Hodder.              symbolism at Çatalhöyük was an
+                                                                                          integral part of daily life. The figurines
+                                            Results                                       of women, along with men and
+                                            The excavation, due to last 25 years,         animals, have depositional contexts
+                                            has been underway now for over 15             in middens which do not suggest
+                                            years and it is possible to assess the        gods and goddesses.
+                                            extent to which the use of a reflexive          Hodder’s approach has its critics,
+                                            methodology gives insights that differ        yet this does appear to hold the
+Recently discovered skeletal figurine.      from those of 40 years ago. Certainly         promise of being one of those
+                                            a large number of publications have           influential projects where a different
+the excavators have a duty to use           appeared, including a volume written          and coherent theoretical approach
+their specialist knowledge of the site      by Sadrettin Dural, the site guard.           actually does have a significant
+to put forward interpretations, an            New insights from detailed                  impact on archaeological practice.
+inclusive approach to arriving at those     micromorphological, micro-residue
+interpretations is sought.                  and chemical studies of deposits              A recent reconstruction based on the
+   The accompanying anthropological         on house floors have shown that               discoveries in Building 1.
+project focuses on the community
+living in the surrounding villages
+(some of whom are hired at the site),
+on domestic and foreign tourists
+visiting the site, on Goddess groups
+and worshippers, on the local and
+central government officials, and
+on the artists and fashion designers
+interested in the site. This “multi-
+sited” ethnography is seen as
+an integral part of the “reflexive
+methodology” used at Çatalhöyük.
+   In the same spirit several semi-
+independent excavation teams work
+in different areas of the site, including
+a team of Berkeley archaeologists,
+a team from Poznań in Poland, and
+three Turkish excavation teams.
+All these teams and the social
+anthropology/cultural heritage
+project, as well as the Museum
+48    PART I: The Framework of Archaeology
+
+
+
+       SUMMARY
+
+          The history of archaeology is both the history of ideas               The 1960s marked a turning point in archaeology, and
+          and ways of looking at the past, and the history of                   dissatisfaction with the classificatory-historical approach
+          employing those ideas and investigating questions.                    led to the birth of the New Archaeology. Also known as
+                                                                                processual archaeology, its advocates sought to explain
+          Humans have always speculated about their past,                       the past rather than simply describe it. To do this, New
+          but it was not until 1784 that Thomas Jefferson under-                Archaeologists largely turned away from historical
+          took the first scientific excavation in the history of                approaches in favor of science.
+          archaeology. The discipline of archaeology became
+          firmly established in the 19th century when three                     Postmodernist thinking in the 1980s and 1990s led to
+          great advances, namely the acceptance of the antiquity                the development of interpretive or postprocessual
+          of humankind, the concept of evolution, and the devel-                archaeology. Advocates believed that there is no single
+          opment of the Three Age System, offered a framework                   correct way to undertake archaeological inference and
+          for studying and asking intelligent questions about                   that objectivity in research is impossible. Interpretive
+          the past.                                                             archaeologies place emphasis on the varied perspec-
+                                                                                tives of different social groups, arguing that not
+          The “classificatory-historical period” of archaeology                 everyone experiences the past in the same way.
+          lasted from the mid-19th century until around 1960
+          and its chief concern was the development and study                   In the post-colonial world, archaeology plays a signifi-
+          of chronologies. During this time there were rapid                    cant role in the establishment of national and ethnic
+          advances in scientific aids for archaeology, particularly             identity, and heritage tourism is a profitable business.
+          in the field of dating.
+
+
+
+      FURTHER READING
+     Good introductions to the history of archaeology include:             Johnson, M. 2010. Archaeological Theory, an Introduction. (2nd ed.)
+                                                                              Blackwell: Oxford & Malden, MA.
+     Bahn, P.G. (ed.). 1996. The Cambridge Illustrated History of          Lowenthal, D. 1999. The Past is a Foreign Country. Cambridge
+        Archaeology. Cambridge University Press: Cambridge & New              University Press: Cambridge & New York.
+        York.                                                              Preucel, R.W. & Hodder, I. (eds.). 1996. Contemporary Archaeology
+     Browman, D.L. & Williams, S. (eds.). 2002. New Perspectives on the       in Theory, a Reader. Blackwell: Oxford & Malden, MA.
+        Origins of Americanist Archaeology. University of Alabama Press:   Renfrew, C. 2007. Prehistory: The Making of the Human Mind.
+        Tuscaloosa.                                                           Weidenfeld & Nicolson: London; Modern Library: New York.
+     Daniel, G. & Renfrew, C. 1988. The Idea of Prehistory. Edinburgh      Renfrew, C. & Bahn, P. (eds.). 2004. Key Concepts in Archaeology.
+        University Press: Edinburgh; Columbia University Press: New           Routledge: London & New York.
+        York.                                                              Schnapp, A. 1996. The Discovery of the Past. British Museum Press:
+     Fagan, B.M. 1996. Eyewitness to Discovery. Oxford University Press:      London; Abrams: New York.
+        Oxford & New York.                                                 Schnapp, A. & Kristiansen, K. 1999. Discovering the Past,
+     Fagan, B.M. 2004. A Brief History of Archaeology: Classical              in Companion Encyclopedia of Archaeology (G. Barker ed.), 3–47.
+        Times to the Twenty-First Century. Prentice Hall: Upper Saddle        Routledge: London & New York.
+        River, NJ.                                                         Stiebing, W.H. 1993. Uncovering the Past. A History of Archaeology.
+     Freeman, M. 2004. Victorians and the Prehistoric: Tracks to a Lost       Oxford University Press: Oxford & New York.
+        World. Yale University Press: New Haven, CT.                       Trigger, B.G. 2006. A History of Archaeological Thought. (2nd ed.)
+     Hodder, I. & Hutson, S. 2004. Reading the Past: Current Approaches       Cambridge University Press: Cambridge & New York.
+        to Interpretation in Archaeology. (3rd ed.) Cambridge University   Willey, G.R. & Sabloff, J.A. 1993. A History of American Archaeology.
+        Press: Cambridge & New York.                                          (3rd ed.) W.H. Freeman: New York.
+                                                                                                                            2

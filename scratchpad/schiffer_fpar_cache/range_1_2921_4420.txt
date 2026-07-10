@@ -1,0 +1,1500 @@
+PREFACE
+
+
+
+
+
+In Behavioral archeology, published a decade ago, I called for the development of an archaeology that would be based on a nomothetic understanding of the diverse processes of people and nature that form the archaeological record. To promote inquiry along those lines, I offered some general formulations on archaeological inference and cultural formation processes. During the 1970s and 1980s formation processes have come under much scrutiny in experimental archaeology, ethnoarchaeology, historical archaeology, and geoarchaeology, and the resultant expansion of principles has been phenomenal. Despite this progress, most prehistoric investigations still labor under flawed inferential procedures formulated in the era of the "new" archaeology of the 1960s and 1970s when formation processes were largely ignored. As a result, today there is a clear disjunction between archaeological method and theory and the practice of prehistory.
+
+
+
+
+
+I have written this book in order to stimulate application of the principles of formation processes to prehistoric research. The present work synthesizes the most important principles of formation processes, cultural and environmental (or noncultural), within a frameworktransformation theoryconstructed by behavioral archaeologists. These principles can help to establish a rigorous basis for inference.
+
+
+
+
+
+The chapters of this book are organized into four major parts. Part I, consisting of Chapters 1 and 2, provides an introduction to the nature of formation processes and to transformation theory. Part II sets forth the basic principles of cultural formation processes in relation to the four major types: reuse (Chapter 3), cultural deposition (Chapter 4), reclamation (Chapter 5), and disturbance (Chapter 6). Noncultural formation processes, the subject of Part III, are treated in three chapters according
+
+
+
+
+
+Page xviii
+
+
+
+
+
+to the scale of their effects on cultural remains: on the artifact (Chapter 7), on sites (Chapter 8), and on the regional archaeological record (Chapter 9). Finally, specific examples in Part IV show how the archaeological study of formation processes can become practical and routine. Chapter 10 enumerates the characteristics of artifacts and of deposits that are useful in identifying formation processes. In Chapters 11 and 12 are presented, respectively, studies of Hohokam chronology and Broken K Pueblo. These cases illustrate the application of the principles presented earlier and demonstrate the essential role that the consideration of formation processes must playand can playin inferences of all kinds. In the conclusion to Part IV and the book, Chapter 13 examines the influence of the archaeologist's own behavior on the archaeological record.
+
+
+
+
+
+Formation processes of the archaeological record, although the first book-length treatment of both cultural and noncultural formation processes, is neither a complete survey of all topics nor an exhaustive compendium of principles. Rather, it is an introduction to basic principles and a guide to the recent archaeological literature that can be used as a text in undergraduate and graduate courses in method and theory, fieldwork, analysis, and inference. For practicing archaeologists, this work is intended to serve as a checklist for sources of variability that need to be considered when observations on the archaeological record are used to justify inferences. In addition, it is hoped that archaeologists will be provoked to develop methods of analysis and inference that are more faithful to the nature of archaeological evidence than those now in widespread use. The occasional historian, geologist, and philosopher may find that the present treatment of archaeological evidence contributes something to the greater enterprise of understanding how, in general, one can establish knowledge of the past. Finally, because Formation processes of the archaeological record answers questions that curious onlookers most frequently ask the field archaeologist, such as, "Where did all the dirt come from?" and "Why did the people leave all those things behind?," it might also be of interest to an educated lay audience.
+
+
+
+
+
+Like Behavioral archeology, this book embodies the vision that the cultural past is knowable, but only when the nature of the evidence is thoroughly understood. In contrast to Behavioral archeology, the present work shows how one can make the past accessible in practice by identifying and taking into account the variability introduced into the archaeological record by formation processes.
+
+
+
+
+
+The careful reader will observe that recycled writings contribute somewhat to Formation processes of the archaeological record, but less so than I anticipated when the project began. The end of Chapter 1 comes from the 1983 article in American Antiquity, "Toward the identification of formation processes." Chapter 3 draws upon "Waste not, want not, an ethno-
+
+
+
+
+
+Page xix
+
+
+
+
+
+archaeological study of reuse in Tucson, Arizona," by the author, Theodore Downing, and Michael McCarthy, as well as on my unpublished manuscript of 1976, "Prospects for the archaeological study of reuse processes in modern America." Sections of Chapter 4 involving quantitative discard models come mainly from Chapters 4 and 5 of Behavioral archeology. The discussion in Chapter 5 on impacts of construction projects was adapted from "Forecasting impacts" in Conservation archaeology: a guide for cultural resource management studies, edited by the author and George J. Gumerman. Most of Chapter 10 is a slightly updated version of "Toward the identification of formation processes." Chapter 11 owes its origins to ''Hohokam chronology: an essay on history and theory" from Hohokam and Patayan: prehistory of southwestern Arizona, edited by Randall H. McGuire and the author, as well as to ''Radiocarbon dating and the old wood problem: the case of the Hohokam chronology," published in the Journal of Archaeological Science (1986).
+
+
+
+
+
+It is impossible to acknowledge all the people who, over the past decade and a half, have helped to develop the theoretical framework presented below. The influences on my thinking have been many, both blatant and subtle; I hope that adequate credit has been given in the text to the sources of specific ideas. In addition, I single out for general thanks J. Jefferson Reid, David R. Wilcox, Alan P. Sullivan, Jeffrey S. Dean, Richard Wilk, Stanley South, and Pat Shipman.
+
+
+
+
+
+My students, graduate and undergraduate, have been a constant source of ideas, inspiration, and sympathetic criticism over the years, and it is to them that the present work owes any merits it may have as a pedagogical tool. Moreover, much of the transformation theory has taken shape as I grappled in the classroom with the nature of archaeological evidence and inference.
+
+
+
+
+
+J. Jefferson Reid first urged me to write this book in 1982, and I thank him for his usual sage advice. Deni J. Seymour, Marc Stevenson, and Stephanie Whittlesey have read portions of this work and provided me with helpful comments. John Speth, Julie K. Stein, and James M. Skibo have performed a task of herculean proportions in going over the entire manuscript; I thank them for many insightful suggestions.
+
+
+
+
+
+Sara Orzech assisted me with library research during the final stages of writing. I thank Keith Kintigh for applying to the Broken K ceramics his simulation technique for measuring diversity. Keith as well as Randall H. McGuire, David Braun, Robert D. Leonard, and George T. Jones gave me much useful advice on the Broken K analysis.
+
+
+
+
+
+The figures were ably drawn by Barbara Klie Montgomery. I am grateful to the following individuals for permitting me to publish their photographs: William A. Longacre (3.1), Frank Bayham (8.6), Charles Schweger (8.8), and H. David Tuggle (9.1). In addition, I thank John Olsen, Stanley
+
+
+
+
+
+Page xx
+
+
+
+
+
+Olsen, James Skibo, and Thomas Levy for the loan of specimens used, respectively, in Figures 10.3, 10.2, 10.4a, and 10.4b. The Arizona State Museum graciously allowed the publication of Figures 6.3, 6.6, 8.5, and 9.8; I appreciate the assistance of Kathy Hubenschmidt. (Unattributed photos were taken by the author.)
+
+
+
+
+
+Doris Sample, the University of Arizona Department of Anthropology's word-processor operator, typed the entire manuscript and revised it many times; she cannot know just how much I appreciate her high standards and skills, as well as her patience with my endless tinkering. She's the greatest.
+
+
+
+
+
+Support for this research was provided by grants from the National Science Foundation (BNS-83-10609 and BNS-84-19935) to the author for investigating "Formation processes of house floors in the American Southwest." Gifts from Harcourt Brace Jovanovich and the Stephen Tyler Fund (of the University of Arizona Foundation) to the Laboratory of Traditional Technology also contributed to the new studies reported here. Observations at Kividhes, an abandoned village in Cyprus, were supported by the Kourion Excavation Project of the University of Arizona under the direction of David Soren. Fieldwork in the San Pedro de Atacama of northern Chile was funded by the Division of International Programs of the National Science Foundation (grant for a short-term visit) and the Tulor Aldea Project of the Sociedad de Arte Precolombino Nacional (Santiago). I owe an inestimable debt of gratitude to Ana Maria Barón P., Project Director, and Loreto Suárez S., Assistant Director of the Sociedad, for their generous spirit of collaboration and patient tutoring of this gringo arqueologo. In addition, Paulina Pauchard C. assisted with work at Tulor Ayllu.
+
+
+
+
+
+William E. Woodcock was my editor at Academic Press for more than a decade. I deeply appreciate the faith he showed in my work from the very first, before anyone had heard of formation processes. No other person has contributed as much to the nurturing and growth of archaeological method and theory as he. Academic Press's wavering commitment to archaeology in 1985 and 1986 caused me to seek another press for this book. Happily, the University of New Mexico Press was enthusiastic about publishing Formation processes of the archaeological record. I especially thank Elizabeth C. Hadas, Director of the UNM Press, for many kindnesses and for expediting this book's production.
+
+
+
+
+
+Above all, I owe a large debt of gratitude to my wife, Annette, and my children, Adam and Jeremy, for their constant encouragement and support and love.
+
+
+
+
+
+Page 1
+
+
+
+
+
+PART I
+
+AN INTRODUCTION TO FORMATION PROCESSES
+
+
+
+
+
+Page 3
+
+
+
+
+
+Chapter 1
+
+The Nature of Archaeological Evidence
+
+
+
+
+
+Introduction
+
+
+
+
+
+The time machine, which has enchanted generations of readers and moviegoers, is a fictional artifact for transporting people through time. Although archaeologists would welcome a time machine, we are satisfied by the remarkable fact that objects made, used, and deposited in the past survive into the present. We need not go to the past, for it comes to us.
+
+
+
+
+
+The objects that survive to be examined by the archaeologist exist in two forms: the historical record and the archaeological record. The historical record consists of artifacts that, because of a change in form, function, or user, are retained within living societies (rather than being discarded) and furnish evidence of earlier behaviors. In antique shops and museums, for example, one can literally touch the past (Meltzer 1981). Such artifacts (and the documents and photographs that also make up the historical record) furnish evidence about diverse behaviors, ranging from how the Wright brothers built their first gliders and motordriven craft to the daily routine at an early self-service gas station (Fig. 1.1). The archaeological record, on the other hand, contains culturally deposited objects that are no longer part of an ongoing society. After recovery from the natural environment, these items of stone, pottery, and countless other materials provide the archaeologist with evidence of past lifeways. Because artifacts in the archaeological record may once have been part of the historical record, archaeologists must be concerned with how both records come to be.
+
+
+
+
+
+It is useful at this point to distinguish between systemic context and archaeological context (Schiffer 1972). Systemic context refers to artifacts when they are participating in a behavioral system. This page and the
+
+
+
+
+
+Page 4
+
+
+
+
+
+Fig. 1-1.
+
+The historical record: pumping gas at a self-service station
+
+in rural Illinois, ca. 1920. (Photographer unknown)
+
+
+
+
+
+book that contains it are in systemic context, as are the remaining artifacts in the reader's dwelling or office. In contrast, artifacts that interact only with the natural environment, such as those in a dump, are said to be in archaeological context. Needless to say, an artifact may move back and forth many times between systemic context and archaeological context.
+
+
+
+
+
+As practitioners of the discipline that studies and seeks to explain human behavior and material culture in all times and all places (Berenguer 1985; Gould and Schiffer 1981; Reid, Schiffer, and Rathje 1975; Schiffer 1976a; Rathje 1979), archaeologists deal with artifacts in both systemic context and archaeological context. Ethnoarchaeological, experimental, and modern material culture studies treat items that are still interacting with people. Of special interest to most archaeologists, however, is the systemic context of things recovered from the archaeological record: the character of the society or societies that made, used, and deposited those artifacts. Such systemic contexts are knowable only through the process of inference. An inference is a statement about the past supported by relevant principles and relevant evidence (see Schiffer 1976a; Sullivan 1978).
+
+
+
+
+
+The "new" or "processual" archaeology of the 1960s and 1970s promulgated a simplistic and misleading view of archaeological inference. According to processual archaeologists, access to past behavior was easily
+
+
+
+
+
+Page 5
+
+
+
+
+
+provided by a set of principles known as correlates, which relate behavioral phenomena to material and spatial phenomena (Schiffer 1975a, 1976a; Whittlesey 1978). Hill (1970), for example, furnished a table of correlates linking marital residence patterns to intrasite distributions of stylistic attributes of craft items. Such correlates, when applied directly to "patterns" found in archaeological materials, were believed to yield reliable inferences. These inferential procedures are founded upon the assumption that the past behaviors of intereste.g., social organization, subsistence behavior, settlement systemswere the sole determinants of the present-day properties of the archaeological record. This book demonstrates in some detail that that assumption is false, and so the inferential procedures that rest upon it are flawed and inappropriate. Correlates are clearly necessary for archaeological inference, but those principles are not sufficient. Sound procedures of inference must explicitly recognize and take into account the entire range of relevant processes that form the historical and archaeological records.
+
+
+
+
+
+Although we would wish it, the pastmanifest in artifactsdoes not come to us unchanged. The burden that archaeologists assume for access to the past is considerable, that of untangling the many events and processes that contribute to the observed variability in the contemporary properties of the archaeological record (Reid 1985). As the following contrived examples illustrate, neither the historical record nor the archaeological record encodes past behaviors in any simple way, amenable to the direct application of correlates.
+
+
+
+
+
+Consider a philatelist's "penny black"; issued in 1840 by Great Britain, it was the world's first postage stamp. As part of the historical record, such stamps today reside in collections. Although attributes of the stamp itself can furnish evidence about printing techniques as well as types of ink and paper used in Britain during the mid-nineteenth century, there is much about its mode of use that cannot be inferred from the stamp alone. For example, we usually cannot know where it was mailed, or exactly when. We cannot know its destination, or if it was used for posting a personal or business letter. These things we will never know because the stamp has been separated from the envelope and its contents.
+
+
+
+
+
+Many penny blacks did, of course, survive with their envelopesand sometimes contentsintact. If we succeeded in locating these "covers," which today are mostly possessed by stamp collectors and dealers, we would have evidence relating to the stamp's mode of use. Such evidence is not unambiguous. Are the extant covers a representative sample of all that ever existed? Were covers containing personal letters more likely to survive because they were retained as family keepsakes? Or did business covers, filed away for decades, have a higher probability of making their way into the hands of collectors? Were covers more likely to persist if they
+
+
+
+
+
+Page 6
+
+
+
+
+
+had been used to post letters from city to hamlet, or from hamlet to city, or from Britain to abroad? There is no reason to suppose that contemporary examples of penny blacks comprise a representative sample of all that were used as postage.
+
+
+
+
+
+The many potential biases in the historic record do not preclude the answering of research questions pertaining to mode of use or other systemic phenomena. Nevertheless, the existence of such biases does indicate that the investigator mustwhen using the evidence to infer past behaviorsseek to understand how the historical record was formed, so that specific biases can be taken into account with appropriate corrections.
+
+
+
+
+
+Another example can, so to speak, illuminate the other side of the coin: the archaeological record. Suppose a twenty-first-century archaeologist were interested in U.S. currency of the 1980s, particularly in mode of use and the prevalence of various coin and bill denominations. The data base for this research might consist of refuse samples from well-preserved sections of a mid-twentieth-century "sanitary landfill." The tabulations would include pennies, nickels, dimes, quarters, and even some bills. Knowing that currency had exchange value regardless of its condition, the archaeologist would conclude that these finds had probably not been discarded intentionally. If the currency had been incorporated into trash as "lost" items, could these artifacts directly furnish information about mode of use and relative frequency of various denominations?
+
+
+
+
+
+The answer to the latter question is unequivocally no. The sample of lost coins and bills does not faithfully mirror the frequencies of these items in circulation. Loss probabilities are conditioned by several factors, of which prevalence is but one. Replacement costin this case readily determined by face valueas well as size and the conditions of use also affect the rates at which particular types of items are lost and enter archaeological context (see Chapter 4). Appropriate corrections can be made for the coins that are present, but how is one to deal with coins and bills with very low loss rates that are missing entirely from the archaeological sample? One would have to draw upon other lines of evidence, especially the historical record on currency.
+
+
+
+
+
+As a careful fieldworker, our twenty-first-century archaeologist has taken pains to record the items associated with the coins in order to infer mode of use. A comparison of household refuse with business refuse discloses a strong pattern: in relation to total weights of refuse, coins are 1000 times more plentiful in household deposits. On the basis of these figures, would the archaeologist be justified in concluding that currency was primarily used in domestic dwellings and not in businesses? That conclusion seems preposterous, but only because we are intimately fa-
+
+
+
+
+
+Page 7
+
+
+
+
+
+miliar with the society that created the refuse. In most archaeological situations, the potential biases in the evidence are not so evident.
+
+
+
+
+
+Regrettably, neither the historic record nor the archaeological record gives up its secrets about the past easily. Each must be handled with great care by the investigator seeking to infer past behaviors, for the evidence that survives has been changed in many ways by a variety of processes. To make justifiable inferences the investigator must consider and take into account the factors that have introduced variability into the historical and archaeological records.
+
+
+
+
+
+The factors that create the historic and archaeological records are known as formation processes. Formation processes are of two basic kinds: cultural, where the agency of transformation is human behavior; and noncultural, in which the agencies stem from processes of the natural environment. Cultural formation processes can be defined more concretely as the processes of human behavior that affect or transform artifacts after their initial period of use in a given activity. Cultural formation processes are responsible for retaining items in systemic context (by reuse) to form the historic record (Chapter 3), for depositing artifacts, thus creating the archaeological record (Chapter 4), and for any subsequent cultural modifications of material in either record (Chapters 5 and 6). Cultural formation processes, of course, also include the activities of the archaeologist in the recovery and analysis stages of research when materials from the archaeological record re-enter systemic context (Chapter 13). Noncultural formation processes are simply any and all events and processes of the natural environment that impinge upon artifacts and archaeological deposits. Noncultural formation processes act on cultural materials at all times, both in systemic and in archaeological contexts, and are responsible for what decays and what is preserved (Chapter 7), for the collapse of structures and the accumulation of sediments, for a host of disturbances ranging from earthquakes to earthworms, and for the deposition of evidenceecofactsrelevant for inferring past environmental conditions (Chapters 8 and 9). (Ecofacts, which can accumulate in sites and other localities independently of human behavior, comprise the environmental record; they are not treated in this work.)
+
+
+
+
+
+Loss, discard, reuse, decay, and archaeological recovery are numbered among the diverse formation processes that, in a sense, mediate between the past behaviors of interest and their surviving traces. Because formation processes operate in biased ways, the historic and archaeological records cannot be taken at face value, as the stamp and coin examples demonstrate. Instead of "reading" those records in a direct and superficial way, the archaeologist is forced to investigate formation processes themselves, assessing and correcting for their many effects.
+
+
+
+
+
+Page 8
+
+
+
+
+
+General Conceptions of Formation Processes
+
+
+
+
+
+An awareness of some specific formation processes and their effects on evidence of the past can be found throughout the history of archaeology. Indeed, several of the discipline's most celebrated controversies, including establishment of the contemporaneity of extinct fauna and humans in the Old and New Worlds (Grayson 1983; Meltzer 1983), in large part concerned formation processes. It was not until the 1970s, however, that investigators began to appreciate that virtually every inference involves some referenceimplicit or explicitto formation processes. At the same time it was recognized that, in order to build a sound foundation for archaeological inference, new principles of formation processes would have to be established and applied in a thorough and systematic manner.
+
+
+
+
+
+Today there is general agreement on the need to take into account formation processes in inference. Moreover, various research strategies, including experimental archaeology, ethnoarchaeology, historical archaeology, geoarchaeology, and vertebrate taphonomy have begun to supply new principles. Nevertheless, no single theoretical conception of formation processes has been widely adopted. This book presents the most important principles of formation processes within a theoretical frameworkthe transformation perspective of behavioral archaeologythat has taken shape during the past decade and a half. Before presenting other elements of transformation theory (see also Reid 1985; Schiffer n.d.a.), I turn first to various conceptions of the nature of formation processes upon which transformation theory builds.
+
+
+
+
+
+One general conception of formation processes, which is held implicitly by many investigators, is the entropy view. The foundations of this position were elegantly articulated by Ascher (1968) in one of the first general treatments of formation processes. He suggested that "time's arrow" progressively reduced the quantity and quality of evidence surviving in the archaeological record. The entropy view implies that our potential knowledge of the past is directly related to the state of preservation, which is conditioned by the time elapsed since cultural deposition. That is, old sites contain less information than recent ones because fewer artifacts remain and because they have suffered more disturbances. Although this position is unassailable as a statistical generalization, it has three important general exceptions. (1) Because degradation is caused by specific processesnot by the passage of time per sedeposits laid down at the same time, but subjected to different formation processes, vary in their degree of preservation. Therefore, deposits must be evaluated for their information potential (or limitations) on a case-by-case basis. (2) Even in badly degraded deposits some inferencesoften very significant
+
+
+
+
+
+Page 9
+
+
+
+
+
+inferencescan be made confidently. Although Ascher himself did not utterly rule out the possibility of making such inferences, present-day adherents of the entropy view, especially in cultural resource management studies, sometimes "write off" heavily disturbed sites. (3) Important materials, principally ecofacts, are added to the archaeological record through environmental processes; such items serve as evidence for paleoenvironmental reconstruction, for inferring which noncultural formation processes acted on a deposit (Gifford 1981), and for comparing the relative contributions of cultural and noncultural deposition (Brieur 1977). Thus, some information of archaeological interest accumulates through time (Sullivan 1978; Gladfelter 1981:349). Despite its intuitive appeal, the entropy view takes us only part way toward a general understanding of formation processes. Nonetheless, Ascher performed an important service by calling attention to formation processes and the need to take them into account in inference.
+
+
+
+
+
+In 1970 Cowgill built a conception of formation processes predicated on the idea of statistical sampling. He pointed out that one had to recognize the discontinuities between three basic populations of interest to archaeologists: (1) events in a past behavioral system, (2) the artifacts created and deposited by that system (the "physical consequences" population), and (3) artifacts that remain and are found by the archaeologist (the "physical finds" population). Regarding the relationships between the latter two populations, Cowgill (1970:163) noted, "a physical consequences population is completely determined by the activities of some ancient people. Physical finds populations depend on ancient human activities, but also on subsequent events, human and nonhuman, and on the techniques, concepts, and equipment of investigators." By stressing the discontinuities in populations, Cowgill set the stage for viewing formation processes as agents of bias within a sampling framework.
+
+
+
+
+
+The most explicit and detailed statement of the "sampling bias" view was offered by Collins (1975). He recognized more populations than Cowgill, and stressed not just the reduction in the number of artifacts from one population to the next, but the likelihood that formation processes acted selectively. Each population, then, was a potentially biased sample drawn from the previous population that was itself a potentially biased sample: "We may view these discontinuities as sampling biases in the sense that what we recover and observe does not proportionately represent each aspect of the antecedent behavior" (Collins 1975:29). A growing number of ethnoarchaeological studies dramatically supported the claim that formation processes, especially site abandonment and decay of organic materials, create a biased record of artifacts from past societies (e.g., Bonnichsen 1973; David 1971; Lange and Rydberg 1972;
+
+
+
+
+
+Page 10
+
+
+
+
+
+Robbins 1973; Stanislawski 1969a, 1969b). In vertebrate taphonomy, as well, many actualistic studies buttressed the sampling bias view (e.g., Behrensmeyer and Hill 1980; Brain 1981; Gifford 1981; Shipman 1981); indeed, taphonomic processes themselves are often referred to as biases (e.g., Brain 1981:7; Gilbert and Singer 1982). The sampling bias conception, although suffering from some of the same limitations as the entropy view, was a step forward because it tacitly recognized that formation processes work in patterned ways.
+
+
+
+
+
+Another conception of formation processes that developed in the 1970s can be called the ''transformation'' position. Drawing on the insights furnished by Ascher, several investigators argued that, as a result of formation processes, the archaeological record is a transformed or distorted view of artifacts as they once participated in a behavioral system (Reid, Schiffer, and Neff 1975; Schiffer 1972, 1976a, 1977; Schiffer and Rathje 1973). This conception explicitly embraced the spatial dimension of cultural behavior and archaeological remains, stressing the diverse processes that transform or distort materials, and the many ways they do so: formally, spatially, quantitatively, and relationally (Rathje and Schiffer 1982; Schiffer 1976a, 1978b; Schiffer and Rathje 1973). The basic practical implication of the transformation view is quite simple: regardless of how much evidence is present, the archaeologist cannot read behavior and organization directly from patterns discovered in the archaeological record. However, because formation processes themselves exhibit patterning (the "biases" of Collins [1975]), the distortions can be rectified by using appropriate analytic and inferential tools built upon our knowledge of the laws governing these processes (e.g., Schiffer 1976a:12).
+
+
+
+
+
+The transformation view and other modern conceptions of formation processes recognize a basis for the traditional belief in the limitations of archaeological inference. These limitations, however, are not general but are specific to a deposit, site, or region and are determined by the formation processes that created the deposits (Reid, Schiffer, and Neff 1975). Needless to say, limitations can only be specified with reference to given research problems (cf. Binford 1981a:200).
+
+
+
+
+
+It should be noted that the transformation view is at odds with the entropy conception in one important respect: it holds that formation processes do not just degrade artifacts and deposits but can introduce patterning of their own (Binford 1978a; Schiffer 1976a; Sullivan 1978; Wilk and Schiffer 1979; Wood and Johnson 1978). Nevertheless, the sampling bias and transformation views are compatible. To note that a formation process has a biasing effect is also to acknowledge that it has predictable consequenceswhich can be described by laws. The bodies of theory identified by Clarke (1973) express a similar belief in the nomothetic nature of formation processes.
+
+
+
+
+
+Page 11
+
+
+
+
+
+Recent works in taphonomy, geoarchaeology, historical archaeology, ethnoarchaeology, and experimental archaeology support the principal tenets of the transformation view. It has been shown that formation processes (1) transform items formally, spatially, quantitatively, and relationally, (2) can create artifact patterns unrelated to the past behaviors of interest, and (3) exhibit regularities that can be expressed as (usually statistical) laws. Specific findings of these studies form the basis of later parts of this book.
+
+
+
+
+
+Page 13
+
+
+
+
+
+Chapter 2
+
+The Dimensions of Artifact Variability
+
+
+
+
+
+Evidence of the cultural past comes to us, not as societies frozen in time, but as artifacts and ecofacts that have been transformed. Unfortunately, the transformations occurring at one settlement or site may be different from those taking place nearby. Even in one locality, formation processes can vary through time, often dramatically. Although archaeologists are accustomed to appreciating the nearly infinite variability in artifacts, variability in formation processes and their combined effects has not been as intensively studied. One first needs a general framework for describing variabilitythe differences and similarities among materials found in archaeological contextand for assessing the transformational effects of formation processes on artifacts and deposits. Also needed is an appreciation for the causes and consequences of variability in formation processes.
+
+
+
+
+
+Traces and the Life History of Artifacts
+
+
+
+
+
+The distinction between systemic and archaeological contexts calls attention to the two basic states that objects occupy at different times in their life history. The concept of artifact life history is a potent organizing principle for discussing how the traces of formation processes come to be "mapped onto" artifacts (see Sullivan 1978). Although every artifact has a life history that is unique in some respects, certain recurrent activities and processes cross-cut all life histories and make it possible to generalize about stages in systemic context (Schiffer 1972). The following discussion is based on a simple flow model that represents the basic stages in the life history of durable elements (see Schiffer 1976a:46-48 and Rathje and Schiffer 1982:84-89 for discussions of artifact flow models).
+
+
+
+
+
+Page 14
+
+
+
+
+
+All artifacts begin as materials procured from the natural environment. Environmental materials are usually modified by additive processes (i.e., mixing of clay and temper for pottery) or reduction processes (chipping of flint to produce tools) or a combination of both in the manufacture stage. During use, artifacts participate in activities that may have utilitarian and symbolic functions (Rathje and Schiffer 1982:65-67). It is convenient to recognize three types of major artifact functions: (1) technofunction, which includes "extracting, processing, and storing resources, maintaining technology, and fulfilling the biological needs of people," (2) socio-function, which "symbolically influence[s] social interactions," and (3) ideo-function, which symbolizes ideology and conveys other information (Rathje and Schiffer 1982:65). Most artifacts, it should be emphasized, perform more than one major function. After use, artifacts may be reused or deposited. In the latter case artifacts enter archaeological context, where they interact with the natural environment and, at various times, can reenter systemic context.
+
+
+
+
+
+Activities occurring during each stage usually leave tracesspecific modificationson the artifact. Sullivan (1978) has presented a model of archaeological inference that stresses the relationship between stages, such as manufacture or use, and the traces that are "mapped onto" artifacts by those activities. By the time an artifact's life history intersects that of an archaeologist in the field and laboratory, the accumulated traces may represent a host of activities and processes. From the standpoint of archaeological inference, the problem is that of "partitioning" the traces according to the specific activities and processes responsible for them (Sullivan 1978:208-210). Partitioning of traces is made possible by a host of archaeological principles, including those pertaining to the formation processes of the archaeological record.
+
+
+
+
+
+In practice archaeologists have tended to short-circuit the process of inference by simply selecting traces thought to represent the behaviors of interest (using correlates alone) while failing to rule out other possible causes of those traces. A biface of chipped stone serves as a convenient example of the basic problem of partitioning traces. Experimental work and archaeological experience have shown that microflakes can be "mapped onto" the edges of a biface during many activities and processes in its life history. During manufacture the knapper may roughen the edge with an abrader in order to create platforms for detaching retouch flakes, thereby producing microflakes. The process of use can contribute microflakes, as the tool's edge comes into contact with resistant materials such as hide or bone. Artifacts may be trampled after use by people or beasts, which removes small flakes from the tool's edge. Some soil-mixing processes and fluvial transport result in microflaking. Microflaking can also be produced by archaeological recovery and careless handling in the
+
+
+
+
+
+Page 15
+
+
+
+
+
+laboratory or museum. Given the many different processes that create microflakes, an archaeologist would not be justified in asserting that all microflakes indicate use. Instead, the investigator must attempt to partition the traces by using other lines of evidencetype of microflake, for example, as well as their frequency and patterns of occurrence on the tool (Keeley 1980). Even after careful examination of these additional traces, uncertainties may remain, preventing the archaeologist from asserting unequivocally that the observed microflakes were caused by use. Nevertheless, the archaeologist has made progress by asking how specific traces were formed. The answers may not be definitive, but once raised the question reduces the likelihood of arriving at grossly incorrect inferences.
+
+
+
+
+
+In ordinary usage, trace tends to be understood, narrowly, as a physical modification to an artifact. Sullivan (1978:194) defines trace more broadly "as an alteration in the physical properties of an object (or the relations between objects) or a surface (or the relations between surfaces)." Trace in this sense refers to any perceptible consequence of an activity or process. Building on this expansive conception one can recognize overarching categories of traces, corresponding to what Rathje and Schiffer (1982:64-65) label as the "four dimensions of variability" in artifacts. These dimensions are formal, spatial, quantitative, and relational.
+
+
+
+
+
+The dimensions of variability, which are discussed below in more detail, provide a convenient vehicle for illustrating the diverse traces that formation processes "map onto" cultural materials. In addition, this framework calls attention to the persistent ambiguities that have resulted from archaeologists' failure to keep conceptually and operationally distinct the various contexts of cultural remains in which traces are produced (see Reid 1973, 1985).
+
+
+
+
+
+Formal Dimension
+
+
+
+
+
+The formal dimension pertains to the measurable physico-chemical properties of an artifact, such as shape, size, weight, color, hardness, and chemical composition. Each property in turn may be measured or described in terms of much more specific attributes or variables. For instance, color can be precisely described by three distinct variables: hue, tone, and intensity, each of which has appropriate scales and techniques for measurement.
+
+
+
+
+
+Variability in the formal dimension is the basis of all artifact typologies. Regrettably, many terms that archaeologists apply to formal properties indiscriminately meld the systemic and archaeological contexts of artifacts, contributing to terminological, procedural, and even theoretical confusion. For example, in descriptive report artifacts are often casually assigned techno-functional labels, such as "projectile point" or "scraper," despite the lack of analyses (such as use-wear) needed for establishing
+
+
+
+
+
+Page 16
+
+
+
+
+
+Fig. 2.1.
+
+The corroded remains of a steel can repose on
+
+the surface, Valle de la Luna, northern Chile.
+
+
+
+
+
+the manner of artifact use. Moreover, many artifacts, including "projectile points," have multiple functions and are reused; simplistic functional labels draw attention away from such interesting behavioral variability and so should be avoided (Schiffer 1976a). By employing terms that mix observations and inferences, archaeologists perpetuate sloppy thinking and, worse, continue to ignore formal variability caused by formation processes. In short, archaeologists must use terms that sharply distinguish between phenomena of the systemic and archaeological contexts (Reid 1973, 1985; Reid and Shimada 1982; Schiffer 1973).
+
+
+
+
+
+The formal dimension of artifacts can be transformed by a host of formation processes. For example, recycling alters the metric attributes of lithic tools (see Grimes and Grimes 1985; Hoffman 1985). In addition, ceramics and glass sherds when trampled are reduced in size and abraded. In our own society, trash compactors break and crush objects. On the surface of the ground, bone artifacts exposed to sunlight will weather, becoming cracked and splintered (Fig. 711). Corrosion (rusting) of iron may, in a matter of decades, transform a handsome tool into a reddish-brown stain in the ground (Fig. 2.1).
+
+
+
+
+
+Other changes in the formal dimension come about when substances are added to artifacts. For example, fluorine taken up from the depositional environment is incorporated into the mineral structure of bone. In alkaline environments, tenacious compounds such as calcium carbonate accumulate on an artifact's surface.
+
+
+
+
+
+Sometimes formal changes take place over long spans of time and can be observed only with the aid of instruments. For example, a freshly
+
+
+
+
+
+Page 17
+
+
+
+
+
+fractured surface of an obsidian artifact adsorbs water from its surroundings, forming a thin hydration rind that can be observed when a section is viewed under the microscope.
+
+
+
+
+
+The effects of formation processes on the formal dimension of artifacts are varied and pervasive. The possibility that any item or deposit survived to the present without undergoing some formal changes is indeed slight. Most in fact underwent many alterations, simultaneously and sequentially. If we do not discern such changes, it is probably because we have not looked hard enough or used appropriate instruments.
+
+
+
+
+
+Spatial Dimension
+
+
+
+
+
+The spatial dimension refers to the location of an artifact. In the field, artifact locations are recorded with reference to grid systems, but locations can also be described in terms of behaviorally significant divisions of space, such as activity areas and the domains of various social units (e.g., households, task groups, and even regional systems).
+
+
+
+
+
+Archaeologists have devised a host of concepts that describe spatial location in archaeological context. One of the most useful of these is provenience, the archaeological find-spot of an artifact. Provenience allows documentation of where an artifact was at rest immediately prior to its discovery and (perhaps) removal by the archaeologistits last place of repose before reentering systemic context.
+
+
+
+
+
+Although provenience is a precise concept that applies to a specific moment in an artifact's life history, other spatial concepts are more ambiguous and, as a result, less useful. The most problematic of such concepts, which sees wide service in the writings of archaeologists, is in situ. By dictionary definition, the term denotes an artifact in its "natural or original position." For an artifact recovered archaeologically, however, does "original" position refer to its (1) location of manufacture? (2) location of use? (3) first place of cultural deposition? (4) last place of cultural deposition? or (5) location after first environmental disturbance? Unfortunately, in situ is used indiscriminately and refers in different monographs to all these ''original" positions (and others). Because cultural and environmental processes move artifacts during their life historyin both systemic and archaeological contextsno one location is more "original" than any other. The term, therefore, is without a precise referent and its use should be discontinued. A less drastic solution is to use in situ exclusively for the find-spot of an artifactits original position of discovery, which is more consistent with usage in geology and paleontology.
+
+
+
+
+
+It is becoming clear that a specialized vocabulary should be developed for describing the location of artifacts with respect to various segments of their life history. In some instances, of course, we can muddle along with available terms, such as place of use. For most other locations, however,
+
+
+
+
+
+Page 18
+
+
+
+
+
+neither extant concepts nor terminology will suffice; new bits of jargon must be devised if we are to communicate efficiently. For example, with respect to certain cultural formation processes it has been helpful to define several refuse types according to artifact life history and space (see Chapter 4). For example, artifacts discarded at their locations of use form primary refuse; if discarded elsewhere they are secondary refuse. Because this process of transport and deposition can be repeated many times, it is obvious that a great many possibilities are not covered by these refuse types (Sullivan 1976, 1978).
+
+
+
+
+
+There is literally no end to the variety of cultural and environmental processes that alter the spatial dimension of artifacts. Some, like secondary refuse disposal, have marked effects; not only are artifacts moved, but they can be concentrated into a finite, sometimes small, number of locations. Although some environmental processes have catastrophic effects, for example, the river that changes course and removes much of a site, most work more slowly, displacing artifacts a little at a time. Burrowing animals like earthworms and gophers are pesky creatures that gradually create turmoil in the spatial dimension (Wood and Johnson 1978). Decay of organic matter in trash mounds contributes to settling and slumping. Many cultural formation processes, from trampling to children playing in trash, are also slow-acting: undramatic in the short run, they are capable of inflicting substantial cumulative effects.
+
+
+
+
+
+When the spatial effects of formation processes are discussed, archaeologists are apt to refer almost exclusively to the disturbance of patterning. But formation processes can also create new patterns. Sweeping up and refuse disposal, for example, establish areas of differential artifact density. Trampling and other disturbance processes can form a "fringe area," adjacent to walls, containing clustered artifact distributions (Wilk and Schiffer 1979). Other "artifact traps" form in abandoned storage or borrow pits, or even low spots, leading to accumulations and patterned gradients in artifact density. The archaeologist should not lose sight of the considerable potential of formation processes to create as well as to alter spatial patterns.
+
+
+
+
+
+Frequency Dimension
+
+
+
+
+
+The frequency dimension refers to the number of occurrences of a particular type of artifact. One might expect frequency or quantity to be a clearcut variable, one readily measured in archaeological context. For the most part this is true; but there are important exceptionsfor instance, pottery. In archaeological context, one finds mostly sherds, only rarely whole pots. There is something inherently unsatisfying about counting sherds, for they have no obvious or direct equivalence to any phenomenon in systemic context. Noting this discrepancy, a number of archaeologists have expended much effort in developing new techniques
+
+
+
+
+
+Page 19
+
+
+
+
+
+for quantifying pottery, almost always with less than satisfactory results. Weights, maximum and minimum numbers of vessels (MNV), whole vessel equivalents, and others have been proposed (e.g., Orton 1980, 1982; Chase 1985). Usually those discussions proceed as if archaeologists were searching for one waythe best wayto count pottery. It has become evident, however, that each method furnishes evidence relevant to a different set of research problems. Thus, like all descriptions of the archaeological record, they must have a purpose. In Chapter 10 the methods of quantifying pottery most appropriate for identifying formation processes are set forth.
+
+
+
+
+
+Many formation processes affect the frequency dimension of artifacts. For example, we can imagine a community that makes use of a particular type of artifact. These items wear out and are discarded at an average rate of 100 per year. This rate is influenced by many independently varying factors, such as the number in use in the community and the uselife of the object (see Chapter 4); the latter is determined by the formal properties of the object and by the conditions of use. Any change in conditions of use will affect uselife and thus the discard rate. Reuse processes of various kinds also affect discard rate. For example, potsherds are frequently crushed and used as temper in new pottery, thereby reducing the quantity of sherds that enters archaeological context. The spatial effects of cultural formation processes also lead to frequency variability. For example, the sherds of a single vessel may wind up in several secondary refuse areas, each subjected to varying amounts of handling and further breakage.
+
+
+
+
+
+Decay and weathering processes, of course, degrade many materials, reducing their numbers in the ground, sometimes to zero. In the extramural areas of pueblos, for example, bone deposited on the surface will weather until it is no longer detectableunless it is soon covered by trash or sediments. In contrast, bone left in pueblo rooms, sheltered from sunlight and other "elements," is often well preserved.
+
+
+
+
+
+The many influences of formation processes on the frequency dimension make it imperative that measures of artifact quantity be directed at specific variables. In most cases, work is still needed to determine how best to conceptualize quantitative variability and how to measure only the variables of interest. This is sometimes difficult because different processes can have similar effects on the frequency dimension. That is why multiple indicators, each sensitive to slightly different effects of formation processes, are required.
+
+
+
+
+
+Relational Dimension
+
+
+
+
+
+The relational dimension refers to patterns of co-occurrence of artifacts. Traditionally, such patterns are termed "associations," the finding together of two or more items. With the advent of statistical analysis, however, it has become necessary to break down the relational dimension
+
+
+
+
+
+Page 20
+
+
+
+
+
+into more precise properties. Following Binford (1972), it is useful to distinguish between association and correlation.
+
+
+
+
+
+Associations, in turn, can be divided up into major types, singular and recurrent. A singular association refers to the discovery of two or more items in close proximity. Thus, a mano, a metate, and mineral pigments may be found together in the corner of a pueblo room. Singular associations, of course, are the basis of "features," although only a fraction of such associations are actually deemed important enough to be designated as features. Recurrent associations describe the situation one encounters when singular associations turn out not to be so singular after all, because the same items recur again and again, often in different recovery units. Thus, when manos and metates are found together many times, we may speak of their recurrent association.
+
+
+
+
+
+Sometimes artifacts exhibit an even greater affinity for one another. Not only are they associated recurrently, but their frequencies are correlated. In the simplest pattern of correlation, conforming to a linear model, the ratio of one item to another remains relatively constant among different recovery units. For example, manos and metates that occur again and again at a site in the ratio of 3 to 1 are said to be correlated. Other patterns can become very complex, but however correlation is defined, correlated items all display a mutual behavior among recovery or analytic units.
+
+
+
+
+
+It has been customary for archaeologists to assume that associations and correlations are determined by activity patterns. Items found together (in singular or recurrent association) must have been used together. Similarly, correlated items are often assumed to be part of a "tool kit." Unfortunately, formation processes of many kinds also affect the relational dimension, creating both associations and correlations (Carr 1984). Not only are items used in the same activities separated, but associations are created of items that were never together during use. These phenomena are the basis of the "principle of dissociation" (Rathje and Schiffer 1982:107).
+
+
+
+
+
+In our own society no pair of items is more tightly associated in systemic context than toothbrush and toothpaste. In every bathroom one finds these items in close proximity. Because both artifacts have relatively low discard rates, however, the probability that a toothbrush and toothpaste tube will be discarded at the same time and deposited in the same trash bag is not very high. Moreover, toothbrushes tend to be reused as cleaning implements or even as hairbrushes for hamsters, leading to further "dissociations." On the other hand, almost every trash bag (a household's refuse for a week) will contain tissues and paper towels. Not only will these items, which were seldom used in the same activity, be associated recurrently in landfill deposits, but they will probably be correlated.
+
+
+
+
+
+Although formation processes degrade correlations between artifacts
+
+
+
+
+
+Page 21
+
+
+
+
+
+that were used together in activities, some meaningful patterns are often preserved as singular or recurrent associations. The potter's toolkit found in just one house or in a single burial will probably furnish more reliable behavioral information than a thousand factor analyses of house floor artifacts. The failure to appreciate that many relational patterns reflect the operation of formation processes and that systemic patterns must frequently be inferred from singular or recurrent associations lies at the root of much confusion in quantitative methods and spatial analysis in archaeology. (For a recent application of this perspective to house floor assemblages, see Seymour and Schiffer 1987.)
+
+
+
+
+
+Various environmental formation processes also affect the relational dimension, often sorting materials by size. Many Paleolithic hand-axe sites in Europe, for example, consist of artifacts that have been redeposited by flowing water from their place of cultural deposition. Such deposits exhibit size sorting, creating associations that have nothing to do with tool kits. Animals inhabit the same sites as humans, both during and after cultural use of the area. Pack rats, hyenas, and porcupines are well-documented scavengers and hoarders of bone whose activities introduce ecofacts that can contribute to relational patterns (Brain 1981).
+
+
+
+
+
+The relational dimension furnishes evidence for a wide array of archaeological inferences, frequently facilitated by elaborate statistical analyses. But formation processes have profound effects on the relational dimension, and are perhaps its major determinant, at least with respect to some kinds of deposits.
+
+
+
+
+
+Principles of Formation Processes
+
+
+
+
+
+The preceding discussion has documented the variety of traces that formation processes ''map onto" materials recovered by the archaeologist. If formation processes were utterly capricious in their time and manner of operation, then the task of inferring past cultural behavior would be beyond hope. Fortunately, the transformations wrought by cultural and noncultural formation processes are quite regular in two important aspects: causes and consequences. First, the occurrence of specific formation processes is determined by specific causative variables, making these processes highly predictable. For example, in temperate forests we can anticipate that tree roots, rodents, and earthworms will disturb archaeological remains. In large settlements, such as cities, we can expect artifacts to be discarded predominantly as secondary refuse, probably in dense concentrations. Second, the effects of specific processestheir traces are themselves regular and predictable. Earthworms move aside or ingest soil particles and deposit their castings on the surface. Over time, sediments become mixed, blurring boundaries between deposits, and larger
+
+
+
+
+
+Page 22
+
+
+
+
+
+artifacts move downward. Trampling on firm substrates (i.e., hard-packed floors)by people, beasts, and machinescrushes, fragments, and abrades objects, depending on their mechanical properties. Because they are regular, these effects can be used to identify the formation processes of specific deposits (Chapter 10).
+
+
+
+
+
+The regularities of formation processespertaining to causes and consequencesusually take the form of experimental laws and empirical generalizations (Schiffer 1983). Boundary conditions on the former principles are specific parameters that govern the operation of a process. For example, the statement "in cities, most artifacts are discarded as secondary refuse" contains the boundary condition "in cities," which specifies the domain of applicability of this principle. The principle remains general, however, because it applies whenever and wherever there are cities.
+
+
+
+
+
+Following Nagel (1961), I refer to these general principles as "experimental" laws: lower-level regularities that are subject to direct empirical testing. Such testing ideally takes place in a setting where, having met the boundary conditions, the investigator may observe the interactions of the variables specified in the relationship. In studying the principles of formation processes, ethnoarchaeology and experimental methods furnish the primary laboratory settings. The laws describing general regularities in formation processes are known as c-transforms (for cultural) and n-transforms (for noncultural or environmental).
+
+
+
+
+
+As the corpus of c-transforms grows, we can expect the development of middle- and higher-level theories to explain the empirical regularities. Examples of such proto-theories are presented in Chapters 3 and 4. Most n-transforms are embedded within theories and theoretical systems of other sciences, such as chemistry and biology (e.g., decay and weathering), geology (e.g., weathering and movement of particles by water), and ethology (e.g., behavior of nonhuman animals that affect sites). To note that n-transforms tie into the theories of other fields does not imply that everything about environmental formation processes is already knownfar from it. But it does suggest that much knowledge is at hand, and cannot be ignored.
+
+
+
+
+
+Archaeologists have long recognized that other regularities, also with a substantial empirical content, are used extensively in archaeological inference and in fieldwork but cannot be expressed as general laws. These regularities apply at the level of sites, communities, societies, and regions (Reid 1985). Their boundary conditions are thus highly restrictive and pertain to specific times and places. For example, during pre-Classic periods (ca. A.D. 500-1200), the Hohokam of southern Arizona practiced cremation of the dead, burying the human remains often in association with pottery in extramural areas-sometimes in mounds. Such generalizations refer to the patterned behavior of specific societies and cannot
+
+
+
+
+
+Page 23
+
+
+
+
+
+now be subsumed by more general principles. It is these empirical generalizations that in part constitute what all archaeologists recognize as "local expertise." Although the emphasis in the remainder of this book is necessarily on general principles, the importance of empirical generalizations to the archaeological process is fully acknowledged.
+
+
+
+
+
+Conclusion
+
+
+
+
+
+This chapter has shown that evidence of the cultural past is created by a variety of cultural and noncultural processes that have varied and ubiquitous effects, introduce variability into the historical and archaeological records, and must be taken into account in inference. It is useful to view archaeological materials as exhibiting variability within four dimensions: formal, spatial, frequency, and relational. Specific traces within the dimensions of variability may serve as evidence for inferences. Because similar traces can be produced by more than one process, however, the archaeologist must demonstrate that the traces to be used as evidence were not caused by other processes, especially formation processes. Fortunately, the latter are highly regular in their causes and effects. As a result, the archaeologist can make use of a host of principlesc-transforms and n-transforms and empirical generalizationsto facilitate the process of partitioning traces and, especially, to rule out formation processes as the source of specific traces to be used as evidence for behavioral inference (see Chapters 10-12). We now turn to the most fundamental principles of formation processes, beginning with c-transforms.
+
+
+
+
+
+Page 25
+
+
+
+
+
+PART II
+
+CULTURAL FORMATION PROCESSES
+
+
+
+
+
+Page 27
+
+
+
+
+
+Chapter 3
+
+Reuse Processes
+
+
+
+
+
+On the computer screens of today's visionaries one can find plans for societies of the future where hundredsperhaps thousandsof people inhabit earth-orbiting space stations. These technological marvels easily handle the mundane problems of supplying food and fuels and disposing of waste. Sunlight, for example, is transformed into usable chemical and electromagnetic energy as well as plant and animal protoplasm. All wastes are meticulously recycled into utilizable forms of matter and energy. The only discharge that this insular world makes to the environment is heat and assorted gases that would be rapidly dispersed in the vacuum of space. This vision of the futurewhich seems perilously close to being technologically feasiblemerits archaeological consideration because it calls attention to the distinctive processes, cultural formation processes, that give rise to the archaeological and historical records.
+
+
+
+
+
+Let us imagine that a space station of the kind envisioned had actually operated for many centuries. From the standpoint of the archaeologist, this scenario is dismaying, for the normal dynamics of that society would leave no recognizable archaeological record. Even Lewis Binford would have difficulty inferring basic characteristics of our space station's social, political, and economic organization from a low-density cloud of gas.
+
+
+
+
+
+A counterpoint to the space station is furnished by lithic quarry-workshops, where the proportion of reuse and depositional processes is reversed. In most quarries, a certain amount of testing of materials and reduction of cores takes place. During the course of these normal activities, a great many flakes, judged by the knapper to be unsuitable for futher modification, are discarded along with countless cortical flakes, odd chunks, tiny flakes and shatter, and microflakes. Scarcely any reuse can be discerned in a lithic quarry-workshop; as a result, the archaeolog-
+
+
+
+
+
+Page 28
+
+
+
+
+
+ical record contains the bountiful traces of virtually every knapping act that took place.
+
+
+
+
+
+Between the extremes of space station and lithic quarry lie all other human activity areas and settlements with respect to their mix of reuse and depositional processes. Obviously, the manner in which societies retain artifacts in systemic context through reuse (and discharge materials to the environment through depositional processes) determines many characteristics of the archaeological record.
+
+
+
+
+
+The essential feature of reuse is that it results in the retention of items in systemic context that, after use, might otherwise have been discarded. Thus, it is reuse processes, primarily, that create the historical record. Historical records can be very transitory, for most artifacts eventually reach archaeological context.
+
+
+
+
+
+Although a rigorous definition is difficult to formulate, reuse can be defined as a change in the user or use or form of an artifact, following its initial use. When an object breaks, wears out, or for other reasons can no longer carry out its utilitarian or symbolic functions, opportunities for reuse arise. Pottery, for example, is widely reused, for purposes ranging from chinking in architecture to feeding troughs for animals (Lister and Lister 1981). Instances of lithic reuse abound in the archaeological literature as well, from the worn-out metate that helps to plug a doorway in an old pueblo to the broken bifacial knife that is rechipped and employed as a scraper. Even food waste can be reusedas animal feed (e.g., Horne 1983). Serviceable artifacts are also reused. In our own society, clothing that no longer fits or is out of style is reused as rags, as raw material for making paper, and as "new" clothing for other wearers.
+
+
+
+
+
+Artifacts having multiple techno-functions, such as a hammer or screwdriver, are not undergoing reuse, as long as the uses more or less alternate. Nevertheless, it is convenient to regard sequential uses as reuse. For example, cooking pots are routinely reused in many societies as storage vessels.
+
+
+
+
+
+Reuse is found in all living societies and, we can expect, in most extinct ones too. The prevalence of reuse, a principal means for conserving sometimes scarce resources, is not difficult to understand: reuse is often less costly than securing new items or changing one's activities. Exactly how to compute "cost" and the precise factors that influence the decision to reuse or discard are matters for future research. Despite their prevalence, reuse processes are little understoodespecially from an archaeological standpoint.
+
+
+
+
+
+Varieties of Reuse
+
+
+
+
+
+It is useful to define varieties of reuse on the basis of major behavioral differences.
+
+
+
+
+
+Page 29
+
+
+
+
+
+Lateral Cycling
+
+
+
+
+
+Lateral cycling involves only a change in an artifact's user. The transfer of artifacts from individual to individual and social unit to social unit constitutes lateral cycling as long as the artifact's form and use are not altered. This type of reuse is widespread in many societies. In hunter-gatherer bands, for example, where individual rights of ownership are often said to be absent, artifacts may change hands frequently. In simple societies generally, presentation of gifts in designated social contexts frequently involves used items. For example, the Kula Ring of the Trobriand Islanders circulated shell artifacts among many users (Malinowski 1922). Among the Kalinga, even mundane pottery vessels are given as gifts (Longacre 1985). Lindauer (1985) calls attention to the role of gambling in circulating used artifacts in aboriginal North American societies. In modern America, a surprising amount of lateral cycling occursby gift, sale, and, of course, theft.
+
+
+
+
+
+From the perspective of archaeological inference, lateral cycling creates difficult problems of identification, since no changes in the formal dimension are attributable to a change in an artifact's user. Although lateral cycling may alter the frequency, relational, and spatial dimensions of artifacts, even those would be difficult to pinpoint as resulting strictly from lateral cycling. An interesting case comes from historic slave sites in the American South, where one finds very diverse ceramic assemblages. Cressey et al. (1982:170) suggest that items left over from sets used in the main plantation house were laterally cycled to the slaves, but odd dishes could have been obtained new as well. Another approach to inferring lateral cycling is highly indirect, and depends upon understanding, generally, the causes of this process. If the requisite initial conditions are documented in a specific setting, then one has a basis for positing that lateral cycling took place.
+
+
+
+
+
+Recycling
+
+
+
+
+
+Recycling is the return of an artifact after some period of use to a manufacturing process. Darnay and Franklin (1972:2) supply a workable definition of recycling: ''an activity whereby a secondary material is introduced as a raw material into an industrial process in which it is transformed into a new product in such a manner that its original identity is lost." "Secondary materials" are those that "(1) have fulfilled their useful function and cannot be used further in their present form or composition and (2) materials that occur as waste from the manufacturing or conversion of products" (Darnay and Franklin 1972:3). Maintenance processes can also lead to changes in artifact form, but recycling is readily distinguished from maintenance. Maintenance changes tend to be relatively minor and the artifact resumes its former function(s). The ubiquitous
+
+
+
+
+
+Page 30
+
+
+
+
+
+bifacial knife supplies an example of this distinction. Experimental and attribute studies of the Dalton "point" have shown that it was mainly a bifacial knife that periodically lost some blade width as a result of resharpening (Goodyear 1974). This activity is maintenance. On the other hand, Dalton points were also sometimes rechipped to form a scraping edge, an instance of recycling. The extensive reduction of lithic materials owing to the combined effects of maintenance and recycling processes is known as the Frison effect (Jelinek 1976).
+
+
+
+
+
+As in the case of the rechipped Dalton point, recycling often facilitates changes in an artifact's techno-function. Recycling also facilitates even more far-reaching changes, as in artifacts that lose their techno-functions entirely and are transformed into objects that function symbolically. A celebrated example is Roy Rogers's horse Trigger who, after death, was stuffed and put on display.
+
+
+
+
+
+Because it involves a manufacturing process, recycling usually leaves recognizable traces on artifacts. Indeed, recycling is the reuse process most easily and frequently identified from archaeological materials. A very common example is the use of crushed sherds for temper in new pottery. Sherds were also chipped and their edges ground to make them suitable as scrapers as well as "gaming" pieces. On a seventeenth-century Dutch-English site in New York, fragments of clay pipestems were apparently recycled into "crude whistles or flutes" (Huey 1974:105). It should not be surprising that pottery, an easily worked artificial "stone'' (Fig. 3.1), was recycled in so many ways (for more examples, see Stanislawski 1969b, 1978; Weigand 1969). Stone, metal, glass, and wooden artifacts, and those of most other materials, were (and are) also recycled to varying degrees.
+
+
+
+
+
+Beverage containers are frequently recycled, but the modification is simply the addition of new contents. In such cases, the use does not change, and so other lines of evidence must be employed to infer that the process occurred. Hill (1982), building upon Adams's work at the early twentieth-century site of Silcott in Washington (Adams and Gaw 1977), suggests that lag times between manufacture dates and apparent use and deposition dates indicate the recycling of beer bottles, particularly during prohibition. Reuse of bottles can also be indicated by extensive use wear (see Fontana 1968). McGuire (1984) used Garbage Project data to study household recycling in Tucson, Arizona.
+
+
+
+
+
+Secondary Use
+
+
+
+
+
+Objects often take on a new use without needing extensive modification. This type of reuse process is termed secondary use (Darnay and Franklin 1972:3). For example, worn-out grinding stones can be employed without alteration as construction materials (e.g., Meighan 1980:115). Sometimes, however, use-wear, breakage, and maintenance alter some-
+
+
+
+
+
+Page 31
+
+
+
+
+
+Fig. 3.1.
+
+Potters of Paradijon, the Philippines, use recycled cooking
+
+pots (foreground) to support vessels in various stages of
+
+paddling and drying. (Photo by William A. Longacre)
+
+
+
+
+
+what an artifact's form, in some cases making the artifact quite appropriate for its secondary use. For example, worn-out ground-stone axes make excellent pounding tools.
+
+
+
+
+
+The ability to infer secondary use depends, usually, on the occurrence of use wear different in kind or in placement than that produced by the initial use. For example, pitting and spalling on the bit of an axe used for pounding usually furnishes incontrovertible evidence for secondary use. If the secondary use of an artifact is primarily symbolic, there may be little or no new wear. In order to infer a secondary use of this sort, one must examine other dimensions of variability, especially spatial and relational. For example, the occurrence of objects in graves indicates their use in mortuary ritual. Often, the objects used in this manner had been employed previously in a different set of activities. The secondary use of burial furniture can be shown by the discovery of use-wear patterns that resulted from the primary use(s). Bray (1982) studied use-wear on a series of Mimbres pots, mostly recovered from graves, partly to determine if they had been secondarily used. She found varying amounts of abrasive wear on bowl interiors, suggesting that some Mimbres vessels had seen long service prior to their involvement in mortuary activities. In another
+
+
+
+
+
+Page 32
+
+
+
+
+
+example, excavations in the remains of the 1870s blacksmith shop of the Rogers Locomotive Works in Patterson, New Jersey, uncovered several large millstones, apparently used to support various machines (Ingle 1982). In this instance the placement of the stones and their occurrence in a specialized workshop hint at secondary use.
+
+
+
+
+
+Structures frequently undergo secondary use. For example, with little modification pueblo "habitation" rooms may become "storerooms" (e.g., Dean 1969; Hill 1970). David (1971) studied structures of the Fulani in Africa and offered the useful concept of "devolutionary cycle" to describe regular changes in structure use (see also Deal 1985). The sequence of secondary uses is sometimes quite rigid because deterioration processes progressively reduce the suitability of structures for performing particular functions. As Horne (1983:20) notes, based on an ethnoarchaeological study of mud-brick structures in an Iranian village, "reuse is usually a one-way trip. Only very rarely would an animal room be converted to a storeroom or a room for grain storage to a living room." In cities, it is common for old houses along major arteries to be secondarily used as places of business. When the economic base of a town or city is dramatically alteredfor example, a change from mining to tourismmost nonresidential structures are secondarily used (Fig. 3.2). Durable structures persist over centuries in cities, preserved in systemic context by a variety of reuse processes.
+
+
+
+
+
+Facilities such as storage pits and wells can also be secondarily used. Cressey et al. (1982) describe how changes in municipal water and sanitation systems in nineteenth-century Alexandria, Virginia, led to the secondary use of wells as privies, then as dumps. Trash-filled pits, erroneously called "trash pits" by many archaeologists, usually had been employed as storage facilities or borrow pits before being secondarily used to hold trash (Dickens 1985).
+
+
+
+
+
+Conservatory Processes
+
+
+
+
+
+Although there are many exceptions, if the major function of a portable artifact changes, it is apt to be from a techno-function to a socio- or ideofunction. The most widespread transformations of this type are known as conservatory processes (Schiffer 1976a, 1977). A conservatory process is a form of secondary use that involves a change in an artifact's useand often its functionsuch that permanent preservation is intended. Artifacts can be conserved singly, but often they are gathered to form collections. Conservatory processes are especially well developed in complex societies, where individuals and institutions collect and conserve an enormous range of things. Artifacts secondarily used in this manner function to symbolize social standing, as in the case of an individual's antique radio collection (Fig. 3.3), and to convey information (ideo-func-
+
+
+
+
+
+Page 33
+
+
+
+
+
+Fig. 3.2.
+
+The town of Silverton, Colorado, consists mostly of secondarily used
+
+buildings as a result of a shift in economic base from mining to tourism.
+
+
+
+
+
+tion) about the past, as in the artifacts housed and studied in museums and archives.
+
+
+
+
+
+An ethnoarchaeological study in Tucson, Arizona obtained some data on conservatory processes in interviews with 184 households (Schiffer et al. 1981:75-76). Respondents were asked to identify the kinds of objects collected by members of the household, and to enumerate the means of acquisition usually employed. As might be expected, a majority of the sampled households engaged in conservatory processes; 62.5 percent collect one or more kind of item. This amounts to 296 collections, with a mean of 2.6 per collecting household. There were 61 different types of collection, but seven itemsbooks-magazines, records, plants, coins, stamps, rocks, and bottlesaccounted for 54 percent of the total. On the other extreme were 38 types of unique collection, which included music boxes, doilies, ash trays, cigar boxes, cameras, and Hummel figurines. Although collections were built in many ways, a surprising amount of acquisition was by gift from friends and family. Collecting apparently plays a role in cementing social tieskin and nonkinin our own society.
+
+
+
+
+
+Page 34
+
+
+
+
+
+Fig. 3.3.
+
+A collection of antique portable radios (1939 ca. 1955) serves symbolic functions
+
+for its owner and, as a part of the historical record, furnishes information
+
+about old radio technology.
+
+
+
+
+
+Page 35
+
+
+
+
+
+It remains to be learned if collecting behavior is common in other societies and, if so, what functions it carries out.
+
+
+
+
+
+Items retained in systemic context through conservatory processes make up a significant portion of the historic record. Regrettably, the factors that determine what will be collected are poorly known at present. Nevertheless, it is evident that the sample of items that survives from any past time period by virtue of conservatory processes is far from representative. If anything, the items in most widespread use are those least likely to be conserved. For example, although many people and museums collect antique musical instruments, few have collections of bobby pins, toothbrushes, or sardine cans. One need only leaf through an old Sears, Roebuck catalog to appreciate the biased operation of conservatory processes.
+
+
+
+
+
+Archaeologists and ethnographers bring collections to museums and so are important agents of conservatory processes. It must be stressed that collections made from living groups are undertaken for specific purposes and thus do not sample in a representative manner the entire range of artifacts in systemic context (Parezo n. d.). For example, DeBoer (1983) has shown that ethnographic pottery collections from the Shipibo-Conibo, an Amazonian group, are biased against larger vessels and in favor of unusual pieces. When studying ethnographic collections, which sometimes are an essential line of evidence for reconstructing the lifeway of an extinct or acculturated group (e.g., Fowler and Fowler 1981), the investigator must take into account the original purpose for making the collection and its effect on the criteria employed for sampling.
+
+
+
+
+
+The conditions that would lead to the transformation of a collection to archaeological context as a unit are rare; most collections are eventually dispersed and the artifacts reused again. Nevertheless, examples are known from the ancient Near East where an entire archive of clay tablets was sometimes abandonedperhaps during an episode of violence. The most likely archaeological examples of conservatory processes (as well as lateral cycling) are items reported as "heirlooms," those whose periods of manufacture were far earlier than other artifacts used (and deposited) contemporaneously. Heirlooms stand out as such most often in grave lots or on the floors of structures. The most economical explanation for the persistence of these items for so long in systemic context (assuming that they were not themselves previously excavated) is that they had been carefully maintained by households without techno-functional uses (e.g., Davison and Clark 1976). The inference of secondary use in these situations is not, however, especially strong; lateral cycling alone could account for the persistence of heirlooms.
+
+
+
+
+
+Page 36
+
+
+
+
+
+Fig. 3.4.
+
+A vendor proudly surveys his potpourri of used items, awaiting another round
+
+of lateral cycling, at the Tanque Verde Swap Meet, Tucson, Arizona (1985).
+
+
+
+
+
+Reuse Mechanisms and Large-Scale Processes
+
+
+
+
+
+A reuse mechanism is an activity that transforms used objects from person to person, thus facilitating recycling, secondary use, lateral cycling, and conservatory processes (Schiffer 1977:32; Schiffer et al. 1981:69). Societies have developed a bewildering array of reuse mechanisms, including inheritance, gifts, dowries, brideprice, gambling, markets, black markets, flea markets, pawn shops, swap meets (Fig. 3.4), yard sales, rummage sales, auctions, junkyards, antique stores, and thrift shops. In industrial societies one also finds a host of quite specialized reuse mechanisms cateringat least in partto collectors, such as antique car clubs, mail-order stamp companies, and jewelry stores.
+
+
+
+
+
+Reuse mechanisms vary along a number of important dimensions. First of all, the transfer need not involve the use of money or a market system. Inheritance, gift, dowries, brideprice, and theft are cases in point. Secondly, reuse mechanisms differ in their mix of social and economic functions. Clearly, gift giving, dowries, brideprice, swap meets, and some auctions have an impressive social component; on the other extreme are
+
+
+
+
+
+Page 37
+
+
+
+
+
+theft and most retail stores. Third, reuse mechanisms vary in the extent that transactions are recorded. Retail stores document their transactions in detail for tax purposes, and in many societies dowries, brideprice, and inheritance are a matter of public knowledge. On the other hand, gifts, yard sales, and swap meets entirely escape the record keeping of our society, despite its persistence in monitoring economic activities.
+
+
+
+
+
+The ethnoarchaeological study of reuse in Tucson shows that, to a surprising degree, Americans employ reuse mechanisms that include a large social component involving neither record keeping nor money. From each household was obtained an inventory of furniture and major appliances, including whether or not the item was acquired used and, if so, by what mechanism. In over one-third of the households (37 percent), more than half the furniture and major appliances were received in used condition; only 8 percent of the households claim to own no used items. In addition, 32.2 percent of the entire furniture-appliance inventory of 7499 items was obtained used. Although the 2412 used items were supplied by every conceivable mechanism, three general categories account for 86.5 percent of the acquisition events: (1) obtained from a relative or friend (41.2 percent), (2) acquired with the dwelling (28.4 percent), and (3) purchased in a store (16.9 percent). These data indicate a high reliance on unrecorded, nonmarket transactions. Purchase from a store is apparently a last resort, for kinship and social networks provide households with access to many used items. Although comparable data from nonindustrial societies are not yet available, several hypotheses can be advanced to explain the differential employment of reuse mechanisms.
+
+
+
+
+
+It is useful to distinguish between informal and formal reuse mechanisms (Kassander 1973; Schiffer 1976a, 1976b). Informal mechanisms, like gifts between friends and relatives, involve contactusually face to face between the sequential users of the reused items. On the other hand, formal mechanisms are institutions, such as secondhand stores and antique shops, that facilitate the flow of artifacts between more socially distant individuals (Kassander 1973). In societies where populations are small and social interaction is carried out on a face-to-face basis between nonstrangers, formal reuse mechanisms need not arise. Transfer of artifacts, usually by gift or borrowing, takes place directly between those disposing of and those receiving used items. As population size of a settlement increases, formal reuse mechanisms develop to facilitate the movement of used items. In large industrial cities, for example, there may be hundreds of different reuse mechanisms, many of which handle a limited range of things, such as clocks, restaurant equipment, or parts for antique Ford automobiles. Nevertheless, as data from Tucson indicate, even in fairly large cities a substantial amount of reuse is actuated by
+
+
+
+
+
+Page 38
+
+
+
+
+
+informal reuse mechanisms. From these results one may advance the hypothesis that in larger societies formal mechanisms supplement but do not supplant face-to-face social interaction in the transfer of used items.
+
+
+
+
+
+Although population size is probably the most important determinant of the number and variety of formal reuse mechanisms present in a settlement, other variables are also influential. In settlements with great social mobility, such as most large American cities, the symbolic functions of artifacts should become obsolete at high rates, and so new artifacts must be obtained (cf. Schiffer 1976a:190-191). Ethnoarchaeological data on artifact replacement in Tucson illustrate this phenomenon (Schiffer et al. 1981:74-75). Respondents were read a list of 13 common types of furniture and appliance and asked which, if any, had been replaced in the previous five years; interviewers also sought information on the fate of the replaced items. Replaced items in the 184 sampled households totaled 743, an average of 4 each. Of the total, 30.5 percent were retained by the household, the majority being recycled (12.8 percent), secondarily used (5.4 percent), or stored (6.0 percent); the remainder (6.5 percent) were abandoned or sold with the dwelling. Another large segment of the replaced items (34.1 percent) was sold or given to strangers or stores. Finally, relatives (outside the household) and friends were the recipients of 29.9 percent of the replaced items. These data strongly support the stereotyped view of Americans as consumers who constantly replace perfectly serviceable items with those having greater value as status symbols. This high flux of still-usable items contributes to the need for formal reuse mechanisms.
+
+
+
+
+
+Other social variables contribute to variability in reuse mechanisms. For example, in settlements of similar size, the degrees of social differentiation (number of social roles and social units) and inequality (the uneven distribution of wealth) should affect the prevalence of various reuse mechanisms. (For a thoughtful discussion of social differentiation and social inequality, see McGuire 1983.) As a community's social differentiation and social inequality rise (holding constant population size and other variables), there should be an increase in the number and variety of reuse mechanisms. An example of this variable at work can be seen today in many rural hamlets in the United States. It is not uncommon, especially in the southern states, to find a country store with one small section devoted to used clothing. Although the population sizes are often small in these communities, barriers to interpersonal interaction as a basis for reuse have arisen, possibly because of wealth and kinship differences, necessitating a reliance on more formal mechanisms for some artifact transfers.
+
+
+
+
+
+In settlements with considerable social differentiation, inequality, and
+
+
+
+
+
+Page 39
+
+
+
+
+
+social mobility one might expect that reuse mechanisms would facilitate the transfer of artifacts between social classes. Other ethnoarchaeological studies in Tucson have led to hypotheses about the role of various reuse mechanisms in the transfer of used artifacts between social classes (summarized by Schiffer 1976a:191-192, 1976b). The predominant pattern, of course, is downward flow, the movement of items from upper to lower classes, facilitated by a host of reuse mechanisms, including thrift shops, secondhand stores, auto wrecking yards, real estate brokers, and car lots. One archaeological implication of this process is that items flowing downward may be discarded at higher rates by the lower classes. For example, Thompson and Rathje (1982:421) found in the Milwaukee Garbage Project that textiles ''were discarded at high rates in all three low-income areas." Presumably, high-income households discard little clothing but laterally cycle it through various reuse mechanisms. Items of clothing do finally wear out in poor households and then are discarded. Staski and Wilk (1984) stress that marginal groups, such as peasants or tribes in a nationstate, also receive much material culture by downward flow.
+
+
+
+
+
+An upward flow or backflow can also be detected. When objects that are no longer being manufactured, like 1953 Corvettes and Fisher 800-C stereos, decline in frequency over the years as a result of discard and recycling, they may eventually gain or regain certain symbolic functions and begin to percolate upward among the social classes. Backflow is made possible by a variety of reuse mechanisms, including antique stores and specialty shops.
+
+
+
+
+
+Downward flow and backflow also operate at national and international scales, facilitated by still other reuse mechanisms. At the national level, backflow of antiques moves from rural to urban areas and from the eastern to western United States. Backflow, however, is not a process confined exclusively to industrial societies. The elite of many agrarian statesof antiquity and more recent timesalso collected curios and art objects, often purchased through middlemen from distant urban and rural communities. It is just such mechanisms that today supply the markets for artifacts looted from archaeological sites. At the same time that Third World countries feed the antiquities markets, they are the recipients by downward flow in the world system of countless items. As just one example, used medical equipment moves steadily from U. S. hospitals, especially in the Southwest, to Latin America. In border states there is also a steady stream into Mexico of used cars, appliances, furniture, clothing, tools, and trinkets.
+
+
+
+
+
+The basic patterns of downward flow and backflow of used items should be found in many earlier societies. However, because replacement rates are apt to be low in pre- and nonindustrial societies, one might expect
+
+
+
+
+
+Page 40
+
+
+
+
+
+lower rates of artifact flow overall. Nonetheless, archaeologists need to be alert to the possibility of large-scale reuse patterns when treating the remains of complex, highly differentiated societies.
+
+
+
+
+
+Reuse: The Individual and Household Perspectives
+
+
+
+
+
+Archaeologists who do not deal with complex societies (i.e., states) must derive expectations of reuse on the basis of other principles. At the scale of households, one can attempt to discern the causes of supply and demand for used items. Although few ethnoarchaeological studies have obtained observations on household reuse, a number of hypotheses regarding the factors that promote the availability and need for used items at the household level can be derived from studies by the author in Tucson and other places (Schiffer 1976b; Schiffer et al. 1981).
+
+
+
+
+
+In general, opportunities for reuse arise when an artifact is deemed by the household to have reached the end of its uselife in its initial use. At that juncture household members must decide whether to (1) retain and reuse the object, (2) employ a reuse mechanism to circulate the item to others, or (3) discard it. Because the factors determining the fate of artifacts are diverse and poorly known, it is more useful to identify the situations that recur frequently in most societies when, during their first use, objects are judged to have reached the end of their uselife. This approach may be fruitful, especially if most usable artifacts are eventually reused.
+
+
+
+
+
+Obviously, the failure of an artifact to perform its techno-function because of breakage or excessive wear or because it can only be used once (e.g., a toothpaste tube) is frequently sufficient cause for termination of its present use (see Chapter 4). The rates at which materials become available for reuse clearly depend on the nature of household activities (and those of other social units) and their rates of performance. There is probably no direct relationship between replacement rates and rates of reuse (expressed as a fraction of the replacement rate). In our own society, for example, items such as detergent boxes, light bulbs, and toothpaste tubes have relatively high replacement rates but low rates of reuse. On the other hand, durable goods such as refrigerators and stoves have relatively low replacement rates and high reuse rates. The many factors that contribute to reuse potential, which determine the actual reuse rate, are subject to frequent change, are difficult to quantify, and cannot yet be dealt with systematically. One can probably conclude that recycling is the most frequent form of reuse to which such inoperable artifacts are subjected. Thus, it is their value as raw materials or spare parts that determines reuse potential.
+
+
+
+
+
+Artifacts sometimes become available for reuse because their techno-
+
+
+
+
+
+Page 41
+
+
+
+
+
+functions are defunct or because they are replaced by ''improved" artifacts with the same techno-function. The archaeological record, because it so clearly indicates the adoption of new techno-functional types and the obsolescence of others, furnishes direct evidence on what was available for reuse. In situations of very rapid behavioral change, many artifacts will be made available for reuse through techno-functional obsolescence, and most such artifacts will probably be reused. High rates of reuse particularly secondary useare reported for ceramic artifacts in some ethnoarchaeological studies. Perhaps these high rates only characterize obsolete articles whose main techno-function has been replaced by other items (i.e., metal and plastic containers). Ethnoarchaeologists should investigate this possibility.
+
+
+
+
+
+At the household level, more subtle forms of techno-functional obsolescence operate and, in some societies, lead to high rates of reuse. These forms of techno-functional obsolescence relate to changes in the biology and activities of individuals and to changes in the activities of households.
+
+
+
+
+
+As individuals age, their activities and material culture changes. For example, articles of clothing no longer fit and stuffed animals, blocks, and board games give way, all too soon, to cosmetics, records, and electronic games. When such items are no longer needed, they become available for reuse.
+
+
+
+
+
+At death, of course, all of an individual's possessions become technofunctionally obsolete, and those not buried with the deceased or destroyed in mortuary rituals are available for reuse, usually through the mechanism of inheritance. In highly mobile societies, such as hunter-gatherer bands, the artifact inventory is heavily constrained by the need to move frequently, and so individuals may not always be in a position to take on added artifact burdens. Thus, death may result in little reuse, as artifacts are ceremonially destroyed or buried. In sedentary societies reuse through inheritance becomes the main means of disposing of personal property at death. In groups with rigid sumptuary rules and low social mobility, however, destruction and/or burial of a deceased's artifacts would occur at the expense of reuse, particularly for individuals of high social standing. In industrial societies like our own, destruction ceases entirely, burial of artifacts is much attenuated, and even inheritance is supplemented with a host of informal and formal reuse mechanisms.
+
+
+
+
+
+The obsolescence of an artifact's socio- or ideo-function provides another source of artifacts available for reuse at the household level. Indeed, the general situations that lead to socio- and ideo-functional obsolescence can be readily specified, because they relate to changes in the status of individuals making up the household.
+
+
+
+
+
+Regarding individuals, two major types of status change create opportunities for reuse. The first is movement between socially recognized
+
+
+
+
+
+Page 42
+
+
+
+
+
+"stages" of life, such as adulthood, marriage, and death, marked ceremonially by "rites of passage." Each stage usually involves the use of artifacts with important socio- and ideo-functions; thus, artifacts from the previous stage that are no longer appropriate may become available for reuse. The second is the attainment of new social positions, primarily through personal effort during adulthood; at those times people acquire new material symbols and may dispose of the old ones through reuse. Reuse of this sort will be infrequent in simple, highly mobile societies because of factors previously noted and because such groups have few positions of achieved status. As the number of social positions increases (i.e., more social differentiation) so too will opportunities for reuseand these will be realized barring stringent sumptuary rules. In societies with many social positions, high social mobility, and no sumptuary rules, such as the modern United States, an enormous amount of material culture becomes available for reuse and in fact is mostly reused.
+
+
+
+
+
+Individuals are usually members of families and households, and it is these units that generally make decisions regarding the disposal (and acquisition) of artifacts. Thus, artifacts may become obsolete but could be retained within households for long periods of time. The factors that influence the actual behavior of households with respect to material culture are poorly understood. Studies carried out to date (e.g., Hayden and Cannon 1984; Schiffer et al. 1981) have found only low correlations between socio-demographic characteristics of households and their artifact inventories and reuse practices. As a result, the generalizations that can be offered about household reuse behavior are strictly limited. I suggest only that a household move, a death in the family, and an increase in wealth are the times a household is most likely to dispose of accumulated items through various reuse mechanisms. In the final analysis, what matters most is that obsolete household items are reused eventually. Perhaps future ethnoarchaeological research will permit us to predict better the timing of major reuse episodes.
+
+
+
+
+
+To this point some factors that create opportunities for reuse have been enumerated. It is also possible to specify, generally, some of the factors pertaining to households that promote acquisition of used artifacts. Three variables have been found to promote household acquisition of used items of furniture and appliances in Tucson (Schiffer et al. 1981): (1) early stages of household development, (2) low status or income, and (3) high residential mobility.
+
+
+
+
+
+In poorer, early-stage households much of the artifact inventory may be acquired through reuse. As the household becomes wealthier (a usual concomitant of later stages), more new items replace the old, reused ones. Highly mobile householdswhich often are pooralso make use of reuse mechanisms. Wealthier households at all stages acquire used items
+
+
+
+
+
+Page 43
+
+
+
+
+
+with important socio-functions (e.g., antiques and collectibles), thereby engaging in conservatory processes.
+
+
+
+
+
+In societies with high residential mobility, household strategies for acquiring artifacts are limited to (1) making new artifacts from raw materials, (2) obtaining new items from others, through trade or markets, (3) scavenging complete items or raw materials left in previous encampments as refuse or in caches, and (4) reclaiming complete items or raw materials from sites created by other groups. The first three strategies would be expected in various mixes among "pristine" groups unaffected by the encroachment of more complex societies. Strategy 4, however, has become prevalent in areas where there is an interface between highly mobile strategies and more sedentary groups that produce refuse at higher rates. For example, O'Connell (1979a) has described patterns of housing of the Alyawara, a central Australian Aborigine group that, although taking up residence in the vicinity of government stations, is still characterized by high rates of household mobility. Because of proximity to European settlements, a considerable amount of material is available for scavenging, some of which even finds its way into construction material for dwellings.
+
+
+
+
+
+The poor in any society, because they have so little call on new resources, would be expected to acquire used items to the extent that they are available. Even in antiquity, the urban poor, especially immigrants, probably made disproportionate use of previously owned artifacts and materials (Fig. 3.5). Lewis (1969) provides a fascinating glimpse into the possessions of the poor in a Mexico City slum. In the 14 households studied, "35 percent of all the furniture and 13 percent of the personal clothing" had been obtained used (Lewis 1969:115). Relative to the overall pattern of reuse in Tucson (32.2 percent used items), the Mexican figures seem modest; regrettably, we lack comparable data on middle- and high- income Mexican households. Lewis's account suggests that the availability of inexpensive new items as well as credit for their purchase is influencing the acquisition of household items. Obviously, the effect of poverty on reuse practices is mediated by other factors, especially in urban settings.
+
+
+
+
+
+The reuse behavior of other social units, such as craft workshops, administrative and religious institutions, and businesses, is largely unstudied. I suggest that the greatest opportunities are created when social units, such as businesses, are increasing in wealth and social standing and when they become defunct. Major corporations, like households, must constantly project images with artifacts; those wealthy corporations keep their office furnishings up to date and the old ones are reused. When organizations die, all their artifacts are reused. One has only to glance at the newspaper to see the auctions and going-out-of-business sales that signal artifacts on their way to other users. Institutions with
+
+
+
+
+
+Page 44
+
+
+
+
+
+Fig. 3.5.
+
+Economically disadvantaged Americans hunt for
+
+recyclable materials in San Diego, California (1983).
+
+
+
+
+
+great longevity that have unchanging artifact needs and low discard rates, such as churches, generally create few opportunities for reuse. On the other hand, like the Vatican's manuscript library, they may become major agents of conservatory processes.
+
+
+
+
+
+Effects of Settlement Longevity
+
+
+
+
+
+As settlements grow older, the amount of material available for various reuse processes increases. Items that break, wear out, or become functionally obsolete in one setting accumulate, both in systemic and archaeological contexts. For example, items no longer being used on a regular basis in households may be stored for potential future use (Hayden and Cannon 1983). In our own society such objects accumulate in drawers, closets, attics, garages, sheds, and even yards. In rural areas of the United States, the hoarding of objects for future use is so widespread that one can scarcely speak of "discard" at all. Instead of transporting their refuse to centralized dumps, rural folk often accumulate materialsincluding cars and major appliancesin their yards. In such backyard "dumps," objects or parts of them are continually reentering systemic context
+
+
+
+
+
+Page 45
+
+
+
+
+
+Fig. 3.6.
+
+In long-occupied settlements, more materials are
+
+available for reuse. This bread oven, in Episcopi
+
+Village, Cyprus, is made entirely of reused artifacts.
+
+
+
+
+
+through reuse (Fig. 3.6). This pattern of warehouse-disposal at the household level furnishes a model for all settlements where available space and available refuse make it feasible (see "toft disposal" in Chapter 4).
+
+
+
+
+
+If households occupy dwellings that are fairly dispersed over the settlement, and settlement size is not such that most trash is placed in specialized secondary refuse areas, then a household pattern of warehouse-disposal areas-primarily horizontal in nature-will probably develop. In many archaeological sites, artifacts are described as occurring in "sheet" trash-fairly uniform, surficial distributions encompassing most of a site. One hypothesis (of many) that could account for this dispersed pattern of refuse is household warehouse-disposal areas.
+
+
+
+
+
+As communities get older, more materials are usually secured by reuse. Even in settlements where most refuse is deposited in closed containers, such as abandoned rooms or sanitary landfills, the amount of material accumulating in systemic context and available for reuse is considerable. The size of a community, the nature of its refuse disposal practices, and the time since its founding should furnish an indication of the overall potential for the occurrence of reuse processes.
+
+
+
+
+
+In industrial societies, the large accumulation of reusable materials in systemic context may serve as a mechanism to buffer downturns in the economic cycle. For example, the severe recession of 1981-82 in our own
+
+
+
+
+
+Page 46
+
+
+
+
+
+society, which strongly affected sales of new cars, did not appreciably reduce the number of cars owned by families and may have had little effect on the total number of car sales. The reason for this apparent paradox is the extensive lateral cycling of cars. Indeed, in the period between about 1970 and 1982, the average uselife of American automobiles increased. The boom in attendance at swap meets and flea markets and in the number of yard sales during the 1970s and 1980s also testifies to the greater prevalence of reuse. In societies that have internally banked large numbers of artifacts, reuse processes may help to lessen the adverse impacts of reduced availability of new items, especially for the middle and lower classes, in times of lower real income or other economic vicissitudes.
+
+
+
+
+
+Conclusion
+
+
+
+
+
+A considerable amount of work remains to be conducted on reuse processes, especially in ethnoarchaeological contexts. Many of the hypotheses presented in this chapter have not been tested cross-culturally, but they do have implications for reuse behavior in pre- and nonindustrial societies. It would be premature to conclude that many previous archaeological inferences have been vitiated because the investigators failed to consider reuse, particularly lateral cycling; nor can one justifiably claim that reuse processes in prehistory were inconsequential. The preceding arguments have suggested that regularities do characterize reuse behavior and, as more of them are identified and tested in cross-cultural settings, it will become possible to assess the likely influence of reuse processes in particular archaeological cases.
+
+
+
+
+
+Page 47
+
+
+
+
+

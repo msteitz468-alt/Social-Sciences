@@ -1,0 +1,2734 @@
+Chapter 11
+
+Formation Processes and Archaeological Inference: Hohokam Chronology
+
+
+
+
+
+Introduction
+
+
+
+
+
+When the new archaeology entered the scene in the 1960s, its practitioners made a variety of claims about the proper concerns of the discipline. For example, in arguing for an "archaeology as anthropology," new archaeologists placed a high priority on inferring the social organization of past societies. At the same time, traditional interest in chronology building was downplayed. Today, both cultural chronology and social inference take their place among the panoply of phenomena that archaeologists attempt to infer. Although radically different, both kinds of inference place heavy demands upon archaeological evidence and, more importantly, both require that the formation processes of relevant evidence be known in detail. In this and the following chapter I turn to archetypical examples of each kind of inference, Hohokam chronology (from Schiffer 1982 and 1986) and social organization at Broken K Pueblo (Schiffer n.d.b., n.d.c.) to underscore the intimate dependence of inference on knowledge of formation processes and to furnish additional examples of how formation processes can be investigated using published data.
+
+
+
+
+
+Mention of the American Southwest usually calls to mind refined chronologies anchored securely to the modern calendar by tree-ring dates. That image may be somewhat appropriate for the Anasazi and Mogollon areas, but in southern Arizonawhere tree-ring dating is inapplicable because suitable tree species are lackingthe chronology of the Hohokam is still in flux (Cordell 1984). Indeed, Hohokam chronology has been one of the most hotly contested subjects in Southwestern archaeology for nearly a half century, and it remains so today despite the application of radiocarbon dating to Hohokam remains. Two issues have been paramount in the disputes over Hohokam chronology: (1) when did the se-
+
+
+
+
+
+Page 306
+
+
+
+
+
+Fig. 11.1.
+
+Various Hohokam chronologies, 1938-1980. (Adapted from Haury [1976:326]
+
+and Wilcox [1979:90].)
+
+
+
+
+
+quence begin? and (2) is there temporal "overlap" between any of the original phases and periods? A detailed consideration of formation processes makes it possible to attempt resolution of both issues.
+
+
+
+
+
+Historical Background
+
+
+
+
+
+The original sequence of Hohokam periods and phases (Fig. 11.1) was established by Harold Gladwin and his co-workers, especially Emil Haury, during the late 1920s and 1930s on the basis of stratigraphic excavations in the Casa Grande area and at Snaketown (Gladwin 1928; Gladwin et al. 1938). Gladwin's early work, building on the efforts of Schmidt (1928), established the sequence of Colonial, Sedentary, and Classic periods, which were defined by pottery types. The extensive investigations at Snaketown demonstrated the existence of an earlier Pioneer period and subdivided the periods into various phases. Haury's procedure for deriving the phases consisted of (1) establishing pottery types, (2) determining stratigraphically the temporal relationships among the types, and (3) fleshing out the phase descriptions with other artifact types (Gladwin et al. 1938:19-20). Five trenches in three "trash" mounds as well as sixteen tests in other assorted deposits supplied the evidence of superpositioning needed to verify the new phases (Gladwin et al. 1938:32). Even by today's standards, the case Haury made in defense of the Pioneer sequence of Vahki, Estrella, Sweetwater, and Snaketown phases is impressive.
+
+
+
+
+
+Page 307
+
+
+
+
+
+Correlation of the original Hohokam periods with the modern calendar was carried out early on by cross-dating, using intrusive Anasazi sherds in Hohokam sites found during the extensive surveys conducted by Gila Pueblo under Gladwin's direction (Gladwin and Gladwin 1935). Intrusive sherds recovered from excavations, especially at the Colonial period site of Roosevelt 9:6 (Haury 1932), also provided evidence for cross-dating. These studies led to the broad equation of the Sedentary period with Pueblo II (ca. A.D. 900-1100) and the Colonial period with Pueblo I and Basketmaker III (ca. A.D. 500-900). Correlating the early Hohokam phases established by the Snaketown excavations with the modern calendar was a more challenging task, owing to the dearth of intrusive pottery, especially in Pioneer period deposits. Nevertheless, two approaches were takendespite the absence of relevant evidence. First of all, noting that the later cross-dated phases each lasted about 200 years, Haury simply assigned that duration to each of the pre-Santa Cruz phases (Gladwin et al. 1938; Haury 1976:325). Second, Haury interpreted the absence of intrusive Anasazi sherds in Pioneer deposits as evidence that pottery making had not begun yet in the north, for if it had, contact as in later times would have involved trade and ultimately the deposition of Anasazi sherds (Gladwin et al. 1938:217). Even if correct, this latter approach provides no evidence on the duration of the Pioneer periodit could be 25 or 2500 years. Despite Haury's ingenious arguments, the Pioneer period as of 1938 consisted of four phases of hypothetical duration; with the evidence available at the time, nothing firmer was possible.
+
+
+
+
+
+Tinkering with the Hohokam chronology began in the 1940s. Ironically, it was Gladwin himself who raised the issues of Pioneer period antiquity and phase overlap. In his early revision, Gladwin (1942) substituted 50year for 200-year lengths for all pre-Sacaton phases, noting that rapid changes were occurring in the A.D. 700-1100 period in other parts of the Southwest.
+
+
+
+
+
+Gladwin's argument in support of phase overlap, presented several years later in a second revision (Fig. 11.1), rested upon a reconsideration of pottery associations in Mound 29 at Snaketown. On the basis of the assumption that any artifacts associated in a trash-mound excavation unit were contemporaneous, Gladwin claimed that most of the ceramic typeseven those of the Colonial and Sedentary periodswere coeval (Gladwin 1948:38). Until very recently, the extreme phase overlaps proposed by Gladwin were not taken seriously.
+
+
+
+
+
+Other investigators offered still more pre-radiocarbon Hohokam chronologies. Working primarily with Mogollon materials, Wheat (1955), Bullard (1962), and to a lesser extent Di Peso (1956), placed stress on the Hohokam sherds that occurred as intrusivesusually in the fills of pithousesin Mogollon sites. Regrettably, the formation processes of the
+
+
+
+
+
+Page 308
+
+
+
+
+
+pithouse fill deposits are imperfectly known (Chapter 10), and so those intrusives cannot provide strong evidence for or against specific chronological inferences (for a lengthier discussion of this problem, see Schiffer 1982).
+
+
+
+
+
+The first application of radiocarbon dating to the question of Hohokam antiquity came in the early 1960s. A project carried out by Arizona State University secured a series of eight dates on Pioneer materials from several sites in the Phoenix area (Crane and Griffin 1958). With the exception of Red Mountain (Morris 1969), site descriptions have not been published, and so this corpus of dates did not figure in discussions of Hohokam chronology until 1982, when I linked those dates with contextual information furnished in an unpublished preliminary report (Ives and Opfenring 1966). As a group, these dates indicate a somewhat shorter chronology than the original Gladwin-Haury "long count."
+
+
+
+
+
+In 1964 Haury conducted a massive re-excavation of Snaketown to obtain datable specimens that could finally resolve the chronological controversies (Haury 1976). Thirty radiocarbon dates were run on Snaketown materials, the vast majority from nonstructural wood charcoal. As I noted elsewhere,
+
+
+
+
+
+The radiocarbon dates, taken at face value, present a confusing picture. For example, the median Pioneer date falls after A.D. 500, the supposed end of the period according to Haury (1976:338). The tragedy of the Snaketown radiocarbon dates is that the reliable chronological information has been obscured by the preponderance of anomalies, and it is inevitable that one person's anomalies will be another's critical dates (Schiffer 1982:323).
+
+
+
+
+
+Not surprisingly, Haury (1976:338) was able to find only eight dates that were compatible with his views on Hohokam chronology. On the basis of the Snaketown radiocarbon dates, recent investigators have offered still more alternative chronologies (e.g., Plog 1980; Wilcox and Shenk 1977), most of them short counts. Nevertheless, none of the alternatives satisfactorily accounts for the great spread of dates nor for the dates regarded as anomalies. In addition, using the radiocarbon dates as well as other lines of evidence, Plog (1980) has resurrected the issue of phase overlap.
+
+
+
+
+
+The Interpretation of Radiocarbon Dates
+
+
+
+
+
+Because the radiocarbon dates now supply evidence on both chronological issues, Hohokam antiquity and phase overlap, it is first necessary to consider the interpretation of radiocarbon dates.
+
+
+
+
+
+Although the corpus of radiocarbon dates from Snaketown is perhaps extreme in its dispersion, any extensive series of radiocarbon dates ex-
+
+
+
+
+
+Page 309
+
+
+
+
+
+hibits unexplained variability. In view of this problem, it is surprising that the inferential component of radiocarbon dating has seen so little development. The traditional way to deal with conflicting (i.e., variable) dates is to select only those dates that are in agreement with one's prior positions on chronological issues; this is the widely practiced art of "accepting" and "rejecting" dates. Recently, archaeologists have coped with the vagaries of radiocarbon dates by employing statistical techniques for isolating central tendencies that may have cultural meaning. In my view, neither approach is satisfactory; the first because it is largely subjective and sometimes arbitrary, the second because it is incapable of detecting biases in a series of dates and because it treats all dates as being equally informative about past cultural events. Clearly, an approach is needed that is selective yet based on rigorous and explicit methodological principles. Moreover, one should explain why the remaining dates are anomalous.
+
+
+
+
+
+Dean (1978) has begun to develop archaeological theory for interpreting chronometric dates. He emphasizes that a radiocarbon date refers intrinsically to a noncultural event, such as the year when tree-rings grew or the death of protoplasm. Thus, in order to establish realistic relationships of radiocarbon dates to cultural eventsthat is, "interpret" the datesone must identify and take into account the cultural and noncultural formation processes of the dated specimens and of the archaeological deposits that yielded them. These formation processes are responsible for creating the "disjunctions" (Dean 1978) between radiocarbon dates and the actual dates of the cultural events of interest. I turn first to the formation processes of radiocarbon-dated materials; the formation processes of deposits will be taken up below in connection with specific issues of the Hohokam chronology.
+
+
+
+
+
+Charred wood is the artifact material most frequently used for radiocarbon dating. In a few notorious cases, such as efforts to correlate the Maya and Christian calendars, wood has been held responsible for yielding anomalously early dates. Nevertheless, archaeologists apparently regard incorrect wood dates as something quite exceptional, for wood continues to be the material of choice for radiocarbon dating. Because of the enormous variability in the conditions and rates of wood decayin the environment and in systemic contexta heavy reliance on wood dates has probably skewed most radiocarbon-based chronologies toward an excessive antiquity. Moreover, this source of variability, which is termed the old wood problem (Schiffer 1982), may account for much of the dispersion exhibited by dates pertaining to any given phase or period (see also Orme 1982).
+
+
+
+
+
+In most societies, wood is used as construction material and as fuel. Although structural wood from an abandoned dwelling is sometimes
+
+
+
+
+
+Page 310
+
+
+
+
+
+available for dating, often the sample sent to the radiocarbon laboratory consists of little more than a handful of charcoal flecks gleaned from a hearth or refuse deposit. In any event, as Dean (1978) notes, the death of a tree could have come many years before it yielded the material that became a structural member or a piece of firewood. Indeed, firewood is commonly collected as dead wood. Moreover, after service in a structure, wood is frequently reused or scavenged for fuel. Thus, there is always some potential for any wood specimen to yield a radiocarbon date that is older than the cultural event(s) of interest, such as the building of a structure or the use of a hearth (Orme 1982). The processes of wood decay, which act in the environment prior to wood procurement and in systemic context during wood use, substantially influence the prevalence of old wood and its overall likelihood of entering the archaeological record. The principles of wood decay (Chapter 7) furnish a basis for appreciating why wood dates, particularly on charcoal from hearths, are so variable and why they provide such weak evidence for chronological inference.
+
+
+
+
+
+As noted in Chapter 7, wood subjected to moderate bacterial and beetle infestation is still generally usable for construction, and the remaining wood substance of even severely attacked wood can still be consumed as fuel. In order to decay completely, wood must be attacked by fungi or termites. Overall, termites are not the major agent of decay in temperate regions, and so a focus on the conditions promoting fungal rot provides a basis for appreciating why old wood accumulates in the environment and can survive for long periods in structures.
+
+
+
+
+
+Fungal rot is produced when susceptible wood has a sufficient moisture content. In most areas, native trees exhibit a range of natural decay resistance; few regionseven the tropicsare without some highly resistant species. Moisture content also varies greatlyacross microenvironments, from season to season, and even in a single structure. As a result, the same species of wood can decay at markedly different rates, depending on the type of construction; within the same structure, wood placed in the ground will decay sooner than wood used for roof beams. In addition, identical structures can survive for 20 years or for 200, depending on the species of construction wood. Similarly, most wood in a dead tree decays slowly as long as the tree is upright; after it has fallen, parts near the ground will decay more rapidly.
+
+
+
+
+
+In short, because tree species vary greatly in decay resistance and because moisture conditions differ over short distances, actual decay rates in any environment exhibit considerable variability. At any one time, the wood resource (in the environment and in systemic context) will consist of wood specimens of vastly different ages. Needless to say, this variability is directly responsible for many anomalous radiocarbon dates on archaeological wood. This variability, it should be noted, is a source of systematic
+
+
+
+
+
+Page 311
+
+
+
+
+
+rather than random errors: the old wood problem biases radiocarbon dates toward greater antiquity.
+
+
+
+
+
+Rates of wood decay in the Sonoran Desert, where the Hohokam lived, are generally low (Scheffer 1971). High temperatures and scant moisture are not conditions conducive to rapid fungal growth. In addition, economically important species of wood have a high degree of natural resistance to both fungal and termite attack (Schiffer 1986). For example, both ironwood (Olneya tesota)and mesquite (Prosopis spp.)are dense and hard woods, and dark in color; these properties suggest good decay resistance. Four radiocarbon dates have been obtained on ironwood collected from the surface of the Sonoran Desert in Arizona and Mexico; they range from 200 B.P. to 1500 B.P. (Schiffer 1982:325). In addition, several composite samples of surface mesquite from the Tucson area have been radiocarbondated, indicating that this woodprobably the most important construction wood and fuel of the Hohokamcan survive for many centuries, perhaps more than a millennium, as dead wood in the environment (Schiffer 1986; see also Meighan 1980:111).
+
+
+
+
+
+Driftwood is also a source of firewood in southern Arizona. Minckley and Rinne (1985) have shown that before dams were built upstream in the present century, accumulations of driftwood along southern Arizona rivers would have been substantial. Ferguson (1971) tree-ring dated a driftwood series from the Grand Canyon and found a mean inner-ring age of A.D. 1615 and a mean outer-ring age of A.D. 1924. More recently, he dated three pieces of driftwood to the period A.D. 500-1000 (personal communication, 1980). Evidently, driftwood can add to the old wood problem at riverine sites like Snaketown.
+
+
+
+
+
+Although environmental conditions in southern Arizona do not promote rapid wood decay, and important species utilized by the Hohokam are very decay resistant, the amount of dead wood available in an area depends on the harvesting rate of wood in relation to its regeneration rate. Peter Felker (personal communication, 1983), an authority on mesquite, provides the following comments:
+
+
+
+
+
+In the less developed countries of Sahelian Africa typical wood consumption values are approximately 1.0 to 1.8 metric tons per capita per year. The natural regeneration rate for an area like the Sonoran desert would probably be on the order of one metric ton per hectare per year. Thus 100 hectares would support a settlement of 100 people in a renewable fashion. I would hazard a guess that the standing dry biomass in the Sonoran desert would be on the order of 10 to 15 dry metric tons per hectare.
+
+
+
+
+
+These estimates, although probably high, suggest that during the Archaic period when population densities were quite low, hunter-gatherer socie-
+
+
+
+
+
+Page 312
+
+
+
+
+
+ties in southern Arizona would not have made much of a dent in the standing crop of dead wood. In the Pioneer period, Hohokam communities were small and widely dispersed (see, e.g., Wilcox 1979) and probably did not approach the carrying capacity of the wood resource. In later times, however, as the Hohokam expanded their agricultural activities into mesquite habitats and populations grew, there might have been great pressure on the wood resource. By the Sedentary period, much of the really old wood in the core area had probably already been consumed. In short, the old wood problem is apt to be most severe when population levels were low in the Archaic and Hohokam Pioneer period.
+
+
+
+
+
+Because of environmental conditions in southern Arizona, highly resistant wood species, and a large standing crop of dead wood, it is likely that wood used by the Hohokam for fuelespecially during the Pioneer periodwas seriously affected by the old wood problem. Although one cannot state by how long the radiocarbon date of any given piece of hearth charcoal will precede its actual time of use in the fire, it is certain that dates on fuel wood will be too early by an amount that could be very greateven a millennium or more. Insofar as construction wood is concerned, there is still potential for an old wood problem, but the mix of old wood and freshly cut wood used in Hohokam construction is unknown. In general, however, one might expect construction wood to be less affected by the old wood problem.
+
+
+
+
+
+These discussions lead to the following conclusions, which have applicability far beyond the Sonoran Desert:
+
+
+
+
+
+1. One should avoid using statistical techniques that seek central tendencies in any series of radiocarbon dates based on wood, especially firewood.
+
+
+
+
+
+2. By themselves, small numbers of firewood dates usually cannot furnish temporal information of high resolution.
+
+
+
+
+
+3. Dates on annual plants (and on bone collagen), which are free from the old wood problem, should be heavily weighted in chronology building (assuming that they have been corrected, where necessary, for isotopic fractionation [Browman 1981]).
+
+
+
+
+
+Hohokam Radiocarbon Dates
+
+
+
+
+
+Regrettably, the vast majority of Hohokam radiocarbon dates are based on composite samples of wood charcoal from firepits and refuse deposits, and so are potentially affected by the old wood problem.
+
+
+
+
+
+Before a chronometric date can be related to past cultural events, the formation processes of the deposit that yielded the dated specimen must be identified. Some deposits are inherently capable of furnishing high-resolution information whereas others cannot. At Snaketown, the major-
+
+
+
+
+
+Page 313
+
+
+
+
+
+ity of dated specimens come from ''trash" layers in mounds and pits. As Chapter 6 notes, many mounds at Snaketown are mostly artificial constructions that represent not the day-to-day accumulation of secondary refuse, but periodic construction and refurbishing events in which refuse from various unknown sources was redeposited. Aware that many mound levels contain mixed materials from more than one phase, Haury made an effort to secure charcoal samples from relatively pure-phase deposits in mounds and pits as well as from extramural refuse sealed by later features. Nevertheless, the deposits at Snaketown were also subjected to rodent disturbances, decreasing the purity of "pure" trash deposits (e.g., Fig. 8.5). In view of the rodent disturbance and the uncertain cultural formation processes of the refuse deposit samples, one must regard the dates on charcoal as providing generally usable temporal information of low resolution.
+
+
+
+
+
+A number of radiocarbon samples come from the structural material of houses as well as charred maize on house floorsmaterials most likely to be de facto refuse. Two houses contained both burned maize and structural wood, and both houses are impeccably dated to the Pioneer period on the basis of whole and restorable pots found on the floors. Clearly, these de facto refuse deposits are "strong cases" (see Reid and Whittlesey 1982:18) capable of furnishing definitive chronological information.
+
+
+
+
+
+At Snaketown there is a coincidence of the most appropriate dating materials (charred annual plants) from the most appropriate deposits (de facto refuse in well-dated houses). Thus, the majority of dates from Snaketown sort neatly into two groups based on their potential to supply high-resolution chronological information: a small number of very strong cases and a large number of weak cases. But it need not have worked out this way. For example, one could have had hearth charcoal from a well-dated house or annual plants from mixed refuse deposits. In fact, there is one maize sample from a house that cannot be definitively assigned to a phase. More such intermediate cases can be expected as larger samples of dates become available from Hohokam sites currently under investigation.
+
+
+
+
+
+Radiocarbon dates from the two strong-case Pioneer houses (one Sweetwater phase, the other Snaketown), including two new dates (Schiffer 1986), display a remarkably consistent pattern. There is good agreement between construction wood and maize dates within each house, and both sets of dates indicate that the Pioneer period lasted until the eighth century, much later than is allowed by the original long-count chronology. Regrettably, there are no comparably strong cases from the early Pioneer phasesat Snaketown or elsewhere.
+
+
+
+
+
+Once the outline of a chronology has been erected on a framework of
+
+
+
+
+
+Page 314
+
+
+
+
+
+strong casesperhaps unimpeachable casesone turns to the weaker lines of evidence. The close agreement of dates from structural wood and maize suggests that the Hohokam did not always use old wood for construction. However, larger samples of equally strong cases would be needed to demonstrate that the Hohokam consistently employed new wood in their houses. Although structural wood generally provides temporal information of higher resolution than firewood, there are no other structural wood dates from Snaketown.
+
+
+
+
+
+It should be noted that ''new" structural wood may still need to be corrected for tree longevity. When dating wood, archaeologists seldom take care to send outer rings or specify that only such rings be radiocarbon dated. If a mixed sample of rings is assayed, it is likely that the age will be too great. In the Hohokam area, where native trees can reach an age of several hundred years, a correction of a century or more may be required. In some regions, where a number of tree species have life expectancies of a millennium or more, the longevity correction factor (see Schiffer 1986) might have to be quite large. It should be underscored that the need for this correction can be obviated by judicious selection of wood samples in the first place.
+
+
+
+
+
+The project undertaken by Arizona State University in the early 1960s did yield some dates on structural wood from Pioneer houses at several sites. Together, those dates suggest that the Vahki phase could have lasted as late as the sixth century A.D. (Schiffer 1986).
+
+
+
+
+
+It is also possible to devise techniques for extracting some chronological information from the remainder (and majority) of early Hohokam radiocarbon datesthose on wood charcoal of unknown ring composition from trash deposits of unknown formation processes. The present approach expresses these dates as relational statements pertaining to the onset of a phase. The first step is to critically evaluate the context of each dated sample in order to establish a range of possible phase assignments. All published information on superposition of features and trash levels at Snaketown (and other sites) was consulted, and judgments about relationships were offered, as in the following example (see Schiffer and Staski 1982:524):
+
+
+
+
+
+A subfloor pit in House 12:11F is the basis of the fine charcoal for FN-59. The house, dated to Sweetwater (Haury 1976:107), was "mutilated before its burial under Mound 40" (Haury 1976:67). It overlies a mix of Vahki-Estrella trash (Haury 1976:107). The pit itself is assigned to the Vahki-Estrella transition (Haury 1976:334). The strongest statement that can be made about FN-59 is that it probably is prior to Sweetwater.
+
+
+
+
+
+In retrospect, it is easy to recognize a large subjective element in this
+
+
+
+
+
+Page 315
+
+
+
+
+
+exercise, owing mainly to the chronic difficulty of determining the occupation phase of houses that lack de facto refuse, and most Hohokam housesespecially at Snaketownhave little de facto refuse (Seymour and Schiffer 1987). Nevertheless, the procedure does conservatively preserve chronological relationships.
+
+
+
+
+
+In the second step, the dates pertaining to each event (the onset of a particular phase) are grouped and ordered. Recalling that there is no way to directly correct for the old wood problem, one can only state that the dates relating to a particular phase are likely to exhibit a range. In a large sample one would expect some dates to be ancient by many centuries, but one or two might not be very old. Thus, the latest dates in a large series potentially relate to cultural events, such as the onset of the following phase. As an example, the radiocarbon dates on wood from apparent Vahki contexts cover a range of about a millennium, which is quite expectable in view of the old wood problem. Provided with a minimum tree-longevity correction, the latest dates in this series indicate that the Estrella phase is unlikely to have begun before about A.D. 650-750. This dating fits well with the previously inferred age of the late Pioneer period.
+
+
+
+
+
+In order to establish a tentative beginning for the Vahki phaseand the Hohokam sequenceone can turn to radiocarbon dates from the late Archaic (i.e., the San Pedro Cochise in southern Arizona). The San Pedro series includes four dates whose one-sigma ranges fall into the third and fourth centuries A.D. (Schiffer and Staski 1982). Regrettably, the total number of San Pedro dates is not large relative to the nearly two-millennium duration of that phase (Sayles 1983; Whalen 1971; Waters 1983). Thus, it is doubtful that the four late dates actually came from the last century of San Pedro occupation. This uncertainty and the need to correct for tree longevity suggest that the beginning of the Vahki phase is more recent than the third century, perhaps A.D. 500. Obviously, the Archaic/ Hohokam boundary cannot yet be fixed precisely, but it surely occurs long after the 300 B.C. prescribed by the long count.
+
+
+
+
+
+Although the exact beginning of the Hohokam sequence is still in doubt, it has been established that the late Pioneer period is in fact shorter and later than was believed. This recalibration has the obvious effect of compressing and moving forward in time several subsequent phases. For example, I assign the Santa Cruz phase an age of A.D. 875-1000 (Schiffer 1982:335), which differs sharply from the A.D. 700-900 of the original chronology. The question is, could the dates of these later phases, originally established by cross-dating with Anasazi intrusives, be in error? In order to answer this question, one must first consider theoretically the method of cross-dating.
+
+
+
+
+
+The Pecos stages of the Anasazi area and their associated time brackets were the basis for the original Santa Cruz and Sacaton correlations. With
+
+
+
+
+
+Page 316
+
+
+
+
+
+the advent of tree-ring dating, the stages of the Pecos system, with their diagnostic architecture and ceramics, developed a chronological overlay. For example, Pueblo I was dated to A.D. 700-900, and Pueblo II fell into the A.D. 900-1100 range. It was possible, however, for a ceramic type actually produced from 975 to 1150 to retain the label Pueblo II. Thus, if Pueblo II sherds occur as intrusives in the Sacaton phase, then the latter dates from 900 to 1100. There are two obvious sources of potential error in this procedure: (1) a lack of correspondence between the manufacture span of a type and the duration of the cultural unit that it represents and (2) varying phase lengths in either sequence. These problems by themselves suggest a need to critically evaluate chronological correlations based primarily on cross-dating. However, even more serious sources of inaccuracy potentially inhere in phase correlation through cross-dating.
+
+
+
+
+
+It is useful to state the cross-dating problem in general terms before considering the specifics of Hohokam phase lengths. The correlation of two phases in different sequences by means of ceramic cross-dating is examined here. In the first place, even if donor phases (e.g., Pueblo I) are well datedand they were not well dated when the first correlations were proposedit is impossible to know when during the phase a vessel was made. By the same token, one cannot determine when during the recipient phase the intrusive sherd or vessel was deposited. Under these conditions, the following extreme scenarios are possible: (1) the intrusive artifact was manufactured at the beginning of the donor phase and deposited at the end of the recipient phase or (2) the intrusive artifact was manufactured at the end of the donor phase and deposited at the beginning of the recipient phase. If the donor phase lasted from 900 to 1100 and the recipient phase was also 200 years long, the dating possibilities for the recipient phase cover the range 700-1300! It is not evident that an increase in the absolute number of intrusive sherds or types will dramatically narrow this range, for it is possible that they, too, followed similar temporal patterns of manufacture and deposition relative to phase boundaries.
+
+
+
+
+
+To deal with these uncertainties, investigators traditionally assign a large role to negative evidence in the correlation process. For example, the absence of White Mountain Redwares in Sacaton phase sites would seem to put the end of that phase sometime in the early 1100s. This argument, however, is weak. Not only are White Mountain Redware sherds exceedingly scarce in the Classic period (see, e.g., Doyel 1974), but it cannot be assumed that the Hohokam were recipients of all Southwestern trade wares. Another approach is to alter the assumption that the recipient phase endured for 200 years; shortening the recipient phase appreciably reduces the dating uncertainty. For example, if the recipient phase lasted only 50 years, the range in which it fell was 850-1150.
+
+
+
+
+
+Page 317
+
+
+
+
+
+I now turn to the case where two sequential donor phases (A and B) are represented as intrusive ceramics in two sequential recipient phases (A' and B'). One would expect this situation to put more constraints on the dating of the recipient phases. Again, it is assumed initially that all phases lasted 200 years, and that the donor phases cover the period 7001100. If the pottery type distributions are exclusive (only A sherds in A' and B sherds in B') then, as per the previous example, A' can date anywhere from 500 to 1000. Now let us see how the dating of B affects the results. It is possible that early B sherds were deposited in late B', just as late B sherds could have been laid down during early B'. This gives us another 600 year range, A.D. 700-1300. The phase boundary between A' and B' must lie along the 400-year overlap between these ranges, or A.D. 700-1100!
+
+
+
+
+
+Consider now the case of nonexclusive distributions. Suppose that A' contains sherds from both A and B, while B' contains only B sherds. A' cannot end before 900 because B sherds were not manufactured until after that date. Since phases are 200 years long, A' cannot begin before 700. However, it could end as late as 1100. If B' does occur directly after A', then it may begin as early as 900 and end as late as 1300. The boundary between A' and B' is to be found in the 200-year period from 900 to 1100. Evidently, the occurrence of sherds from two donor phases in a recipient phase will reduce the range of possible dates for the recipient phase. On the surface, this finding is neither surprising nor disconcerting. A closer look gives more cause for worry. Most Hohokam cross-dating involves minuscule samples of intrusive sherds that came from surface collections at sometimes multicomponent sites or arbitrary units excavated in stratified deposits (e.g., Snaketown) where disturbance processes are prevalent. Even the "pure" deposits in Mound 29, for example, contain earlier and later sherds (data in Gladwin 1948). Thus, intrusive sherd distributions that initially were mutually exclusive (A to only A', B to only B') could, by a variety of formation and recovery processes, come to be associated. The resultant blurring of distributions would have the effect of increasing the apparent accuracy of cross-dating and phase correlation.
+
+
+
+
+
+To this point it has been assumed that the transfer of a pottery type took place sometime during its manufacture span. Two factors may cause departures from that simple model. First of all, because of uselife factors and reuse processes, instances of a pottery type may persist in systemic context after its manufacture ended (South 1972; Schiffer 1976a; Hill 1982; Adams and Gaw 1977). Secondly, the intrusive sherds may not have been traded at all, but might have been collected from sites long after their manufacture had ceased (see Chapter 5). Both factors can contribute variability that further decreases the accuracy of cross-dating.
+
+
+
+
+
+These methodological arguments furnish ample reason for believing
+
+
+
+
+
+Page 318
+
+
+
+
+
+that phase correlation through cross-dating has the potential for being less accurate than most of us would wish. Although the intrusive sherds place some contraints on the dating of the Santa Cruz and Sacaton phases, their boundaries and lengths could need adjustment. Insofar as pre-Santa Cruz phases are concerned, the magnitude of potential error is far greater, owing to the dearth of intrusive sherds. On the basis of present evidence, one must conclude that the cross-dated Hohokam phases could be shorter and later.
+
+
+
+
+
+Phase Overlap
+
+
+
+
+
+Recently, Plog (1980) applied statistical procedures to the corpus of Snaketown radiocarbon dates and interpreted the results in terms of phase overlap. Regrettably, these procedures are inappropriate because they are based on the implicit assumption that the dates assigned to any one phase are an unbiased sample. Plog found evidence that apparently indicates considerable phase overlap. Such "overlap" is not surprising, especially in the Pioneer period, owing to the old wood problem. Moreover, because many of the phases are much shorter than previously thought (ca. 50-75 years for Estrella through Gila Butte), one would need a large sample of strong-case radiocarbon dates to detect any temporal difference between adjacent phases (assuming one-sigma ranges of 50100 years). Thus, the extant radiocarbon dates cannot supply relevant evidence on the issue of phase overlap.
+
+
+
+
+
+Other evidence has been offered in support of phase overlap. As noted above, Gladwin (1948) first formulated the overlap argument on the basis of sherd associations in Mound 29. Much of this mound, however, is an artificial construction built in several stages (Bullard 1962). Because the deposits were displaced from unknown sources, subjected to rodent disturbance, and excavated in large, arbitrary levels, it is not surprising that one finds sherds from various phases associated together in the same recovery unit. Clearly, one cannot use such evidence to argue in favor of phase overlap, since those deposits were created by formation processes that produce associations having no behavioral significance.
+
+
+
+
+
+Plog (1980) also claims that house floor sherds from Las Canopus, an unreported site that he excavated, demonstrates phase overlap. Regarding the formation processes of these house-floor deposits, Plog (1980:6) simply asserts that "the house floor deposits were generally well sealed, not mixed. The co-occurrence of different types on them is both real and understandable within an orderly chronological framework." He presents sherd counts from 7 house floors, and each contains more than 100 sherds from at least 5 phasesrepresenting the Pioneer, Colonial, and Sedentary periods. Plog does not claim that all of these types were used contem-
+
+
+
+
+
+Page 319
+
+
+
+
+
+poraneously, but by failing to consider the formation processes of these deposits explicitly, he intimates that they demonstrate great phase overlaps. Until more data are available to enable identification of these formation processes, it is advisable to regard those deposits as providing no relevant evidence on phase overlap. Although this statement may appear to be a rather cavalier dismissal of Plog's evidence, analyses of orphan sherds in pithousesat Snaketown (Seymour and Schiffer 1987) and the Hodges site (Kelly et al. 1978)containing restorable vessels reveal the presence of some orphan sherds of earlier and later phases. Evidently, orphan sherds in Hohokam pithouses have diverse sources, and associations cannot be taken at face value.
+
+
+
+
+
+The logical question then becomes, can one find any deposits that will supply relevant evidence for addressing the issue of phase overlap? The answer, of course, is yes. If pottery types were in fact coeval, one should find mixed pottery associations in caches, cremations, and de facto refuse from houses. The whole and restorable vessels in these contexts are simply not susceptible to the kinds of mixing processes that create meaningless associations of orphan sherds in Hohokam houses and refuse deposits. It must first be noted that an occasional mix of pottery types from adjacent phases is not evidence of overlap. Given the probable short duration of many early phases, heirlooms as well as uselife factors create some mixed groupings. For example, even if the manufacture of Snaketown Red-on-buff ceased in exactly A.D. 750 or 800, use and deposition of that type would continue, probably for more than a few years, leading to its association in de facto refuse and cremations with Gila Butte Red-on-buff. Thus, one cannot take isolated instances of mixed types as evidence of phase overlap.
+
+
+
+
+
+The evidence from caches is unambiguous: there is no overlap (Haury 1976; Gladwin et al. 1938). In a study as yet unpublished, William Hohmann (personal communication, 1985) examined associations of decorated ceramic types in cremation lots. Again, these data strongly support the discreteness of the phases.
+
+
+
+
+
+Only eleven houses at Snaketown contained two or more decorated vessels (complete and fragmentary), apparently as de facto refuse on floors. Of these, eight are "pure" phase assemblages, whereas the remainder each contain one vessel of an adjacent phase (Table 11.1). This pattern is, of course, consistent with the original sequence of type development.
+
+
+
+
+
+Other lines of evidence, on a regional scale, can also be examined. For example, if the Gila Butte and Santa Cruz phases are contemporaneous (Plog 1980), then one should find no single-component sites of those phases. But, such sites are known (data in Arizona State Museum AZ SITE); for example, the Rock Ball Court site (Wasley and Johnson 1965) is
+
+
+
+
+
+Page 320
+
+Table 11.1. Houses at Snaketown with Two or More Decorated pots (Complete and Fragmentary) on Floors (data from Seymour n.d.).
+
+
+
+
+
+House Number
+
+
+
+
+
+Vessel (Frequency and Types)
+
+
+
+
+
+5F:7 2 Sacaton R/B
+
+6G:3 6 Sacaton R/B
+
+8B:1 2 Sacaton R/B
+
+9F:4 2 Sacaton R/B
+
+10F:11 2 Sacaton R/B
+
+10J:9 2 Sacaton R/B
+
+5F:4 1 Sacaton R/B; 1 Santa Cruz R/B
+
+8F:2 1 Sacaton R/B; 2 Santa Cruz R/B
+
+10G:9 3 Snaketown R/B
+
+15E:1 7 Snaketown R/B; 1 Sweetwater R/G
+
+9E:2 8 Sweetwater R/G
+
+
+
+
+
+a single component site of the Gila Butte phase. Moreover, the widespread distribution of all Hohokam ceramic types does not appear to allow a spatial interpretation of the phases.
+
+
+
+
+
+In short, relevant lines of evidenceartifacts that come from deposits of specified formation processesdo not presently support the proposition of phase overlap. Several archaeologists (e.g., Bullard 1962:90; Lehner 1950; Dixon 1956), including Haury (1976:197-202) himself, addressed the issue of phase overlap, exposing Gladwin's analytical transgressions. It is regrettable that those sophisticated arguments have been ignored in recent years.
+
+
+
+
+
+Discussion and Conclusion
+
+
+
+
+
+If the general outlines of the chronology proposed here are correct, then it appears that Hohokam developments occurred at a much faster pace than was formerly thought. Because the old wood problem is not unique to the Hohokam (all areas have long-lived and decay-resistant species of trees as well as variable microenvironmental conditions), one can expect that many archaeological chronologies based on radiocarbon dates are biased toward excessive antiquity. If that is the case, then other New World formative developments also could have taken place rapidly. Such rates of change seemingly have implications for an understanding of underlying change processes.
+
+
+
+
+
+New archaeologists erred greatly in downplaying the difficulty and
+
+
+
+
+
+Page 321
+
+
+
+
+
+significance of chronological inference. For their processual studies these investigators often accepted by default extant chronologies that were pieced together without adequate consideration having been given to the formation processes of the dated materials and the deposits that yielded them. In the case of the Hohokam chronology, neither those who put together and defended the original chronology nor those who, from a variety of standpoints, offered alternatives, have considered the full range of formation processes that influence the character and relevance of chronological evidence. Assumptions about formation processes are embedded to a surprising degree in all aspects of chronological inferences, from the use of cross-dated materials to the interpretation of radiocarbon dates. In order to achieve the new archaeologists' worthy goal of a processual understanding of prehistory, reliable chronologies must be in place. It is hoped that the preceding example will inspire students to subject archaeological chronologies elsewhere to a thorough evaluation.
+
+
+
+
+
+Page 323
+
+
+
+
+
+Chapter 12
+
+Formation Processes and Archaeological Inference: Broken K Pueblo
+
+
+
+
+
+Introduction
+
+
+
+
+
+As is well known, Broken K Pueblo (Hill 1970) was one of the most influential studies of the new archaeology. Hill sought patterns in the archaeological record that could directly indicate social organization, and he apparently found them. At Broken K Pueblo, theory and data seemingly meshed with perfection, providing support for the basic methodological program of the new archaeology. This chapter undertakes a preliminary study of the formation processes of the ceramic artifacts from Broken K Pueblo to establish a basis for evaluating Hill's inferences of room function and marital residence pattern.
+
+
+
+
+
+Broken K is a pueblo of 95 rooms in east-central Arizona that was excavated under the direction of James N. Hill in 1963-1964. The 54 excavated rooms were chosen by simple random sampling, an early application of probability techniques designed to obtain a representative sample of rooms for the study of activity patterns and social organization. Hill and his colleagues profusely published the artifact data from Broken K Pueblo (e.g., Hill 1970; Martin et al. 1966, 1967), inviting other investigators to reevaluate the inferences that have made Broken K one of the best known sites in the New World.
+
+
+
+
+
+Hill's analyses of features and artifacts on room floors led to inferences about room functions. He inferred that large rooms, usually containing firepits, were used for basic habitation activities such as preparing and serving food, whereas small, featureless rooms were inferred to be storerooms. A third class of roomoften semisubterraneanwas designated as kivas; these are believed to have had ceremonial functions. The pat-
+
+
+
+
+
+Page 324
+
+
+
+
+
+terning of artifacts and features among these room classes is very pronounced. For example, habitation rooms simply have more artifacts on floors as well as many more kinds of artifacts than are found in storerooms. Indeed, the patterns are so clear that most archaeologists have accepted the room function inferences.
+
+
+
+
+
+Hill's more controversial analyses concerned the inference of marital residence pattern from the distributions of ceramic design elements and ceramic types. Factor analyses of the ceramic data yielded groupings of design elements and types whose distributions among the pueblo rooms Hill believed resulted from an uxorilocal residence pattern. Several archaeologists attempted to replicate Hill's factor analysis results by reanalyzing the published ceramic data (e.g., Lischka 1975; Dumond 1977; Plog 1978). Because of the many problems that these investigators found in the factor analyses, few archaeologists today believe that Hill successfully inferred marital residence pattern. Nevertheless, none of the critics has succeeded in explaining the patterns that do exist in the ceramic design data.
+
+
+
+
+
+Regrettably, neither Hill nor the many critics of the Broken K work investigated the formation processes of the deposits that yielded the artifacts, particularly the ceramic artifacts, that provided the evidence for Hill's inferences. Identifying these formation processes holds the key to understanding why some of Hill's inferences are correct whereas others are not, and can contribute to an appreciation for the causes of archaeological patterns or lack of patterns.
+
+
+
+
+
+Insofar as gross formation processes are concerned, Broken K has always been a paradox. On the one hand, Hill's analyses of room function strongly suggested that room floorsespecially habitation roomscontained large amounts of primary and de facto refuse. Those analyses leave the impression that Broken K, although not abandoned catastrophically, did have abundant if not Pompeii-like assemblages of de facto refuse. On the other hand, Hill (1970:31) claimed that 19 of 54 excavated roomsthe majority of them habitation roomscontained secondary refuse in their fills. This would indicate that Broken K underwent a gradual depopulation during which time many habitation rooms were abandoned and used as dumps by the remaining inhabitants. Even more surprising is that a total of only 12 restored pots are reported from all rooms6 from floors, 6 from fills (Martin et al. 1967). Together, the large number of trash-filled rooms and the lack of restored pots suggest that Broken K was not in reality much like Pompeii.
+
+
+
+
+
+To reconcile the divergent indications of Broken K's formation processes, one can propose the hypothesis that secondary refuse from the room fills was often included in floor proveniences. Thus, Hill was able to find patterned differences in the floor assemblages of large and small
+
+
+
+
+
+Page 325
+
+
+
+
+
+rooms: large rooms contained on the average more artifacts and more kinds of artifacts because secondary refuse had been deposited in many of them after their abandonment. This hypothesis received some support from a correlation detected by several investigators between animal bone counts in fills and on floors of Broken K rooms (Phillips 1972; Dumond 1977). Although the present investigation began with this attractive hypothesis, it was soon shown to be incorrect. I now turn to a brief summary of some of the analyses and a presentation of the general findings.
+
+
+
+
+
+Trash-Filled Rooms?
+
+
+
+
+
+On the surface, Hill's (1970:31) claim that 19 of the 54 excavated rooms (35.2 percent) contained ''trash deposits above floors'' seems unproblematic. At the nearby and roughly contemporaneous Joint site, however, only 6 of 24 rooms (25 percent) were used as dumps (Schiffer 1976a:130131). Sherd counts for the fills of the Broken K dump rooms range from 67 to 1323, with a mean of just 401. In contrast, fills of the six rooms used as dumps at the Joint site contain a mean of 1518 sherds, with a range of 154 to 3396. It is possible that many Broken K rooms were used for only a small amount of dumping; it is also possible that the criteria Hill used to designate trash-filled rooms were unreliable or were applied inconsistently. In view of the overall low quantities of purported secondary refuse in the fills (relative to the Joint site), the alternative hypothesis must be entertained that some of the ceramic material regarded by Hill as secondary refuse is actually de facto refuse.
+
+
+
+
+
+Another line of evidence, based on the use of Reid's relative room abandonment measure (Reid 1973, 1978, 1985; Reid and Shimada 1982), casts additional doubt on the secondary refuse hypothesis for some room fills. This measure rests on a generalized life history of pueblo rooms, with the following stages: use, abandonment, removal of usable artifacts by curate behavior or scavenging, and use as a dump. If most rooms follow this sequence, then a scatter-plot of rooms by fill sherd density and floor sherd density should provide clusters of gross abandonment classes. For example, early-abandoned rooms probably have a high density of fill sherds (from secondary refuse) and a low density of floor sherds, indicating little de facto refuse; this pattern is reversed for late-abandoned rooms. As noted elsewhere (Schiffer 1976a:129-133, 1985), this simple model is complicated in practice by many factors such as differences in room use. Nonetheless, as a springboard for considering gross formation processes, the Reid measure has proved useful.
+
+
+
+
+
+A scatterplot of Broken K rooms by fill- and floor-sherd density is presented in Figure 12.1. Compared to the Joint site, the Broken K scatterplot exhibits far less obvious clustering. The most interesting differ-
+
+
+
+
+
+Page 326
+
+
+
+
+
+Fig. 12.1.
+
+The Reid Measure of Relative Room Abandonment applied to
+
+pottery from Broken K Pueblo. Squares are Hill's trash-filled rooms.
+
+
+
+
+
+ence, however, is the absolute values of fill density. The highest fill density at Broken K, 123.5 sherds/m2 falls on the low end of fill density for Joint site dump rooms (28.0-522.5 sherds/m2, mean of 220). Few rooms at Broken K provide unambiguous evidence that they were used as dumps, and Hill's dump rooms can be found throughout the scatterplot. Moreover. many rooms at Broken K are most like those at the Joint site that yielded restored vessels and were abandoned late. For example, 10 rooms not regarded as dumps by Hill contained on their floors 80 or more sherds, yet only 3 of these rooms yielded restored vessels. In view of these findings, one must consider the hypothesis that many Broken K rooms were not used as dumps, but were actually abandoned late; much of the material they contain may be de facto refuse. If this were the case, why did those rooms lack restored pots? Subsequent analyses indicated that potentially restorable pots from Broken K were never restored, but were counted as sherds. This is the "missed pot" hypothesis.
+
+
+
+
+
+In Search of "Missed Pots"
+
+
+
+
+
+Various lines of evidence were examined in search of missed vessels, and many prospects turned up. One obvious place to seek additional restorable pots is in the ceramic design element counts from fills and
+
+
+
+
+
+Page 327
+
+
+
+
+
+floors. When one examines these sets of data (Hill 1970:130-139), two patterns are evident: (1) most occurrences of design elements in particular rooms are very low numbers or zero and (2) there are, nevertheless, a number of occurrences of large numbers of some specific design elements, ranging from 6 to 30. I suggest that those design elements found in suspiciously large numbers are from restorable pots or large pot fragments, because if many sherds from a given decorated vessel were present, one might expect the counts of one or more design elements to be elevated in that unit.
+
+
+
+
+
+To isolate design elements that occur in high frequencies, two criteria were established: (1) the case (the frequency of a design element in a provenience) had to include 25 percent or more of the total frequency of that design element in all rooms or (2) the case had to include 25 percent of the total design elements in that room fill or floor. These criteria were met by one or more design elements in the fills of 19 rooms and on the floors of 14 rooms.
+
+
+
+
+
+If criteria 1 and 2 are capable of detecting potentially restorable vessels, then the proveniences that yielded the known restored vessels should be included among the suspicious cases. At best, however, there is an imperfect match: only 5 of the 9 floors and fills containing restored pots or parts thereof appear to be listed among the suspicious cases. The failure of criteria 1 and 2 to capture many of the known restored vessels in those rooms could result from incomplete or inconsistent recording of design elements on those vessels. To evaluate this hypothesis one can turn to the vessels themselves.
+
+
+
+
+
+The restored pots illustrated by Martin et al. (1967:127-137) were examined in an attempt to match the most frequently occurring design elements on each vessel with Hill's master list of design elements (Hill 1970:26-27). After each element was identified by number, the appendix reporting design elements by provenience was consulted (Hill 1970:130139). The provenience of each pot was looked up and tabulations of its design elements were sought. When the design elements could not be matched, conspicuous numbers of design elements in the appropriate provenience were identified and a reasonable post hoc match was attempted. Even if doubtful matches are included, the surprising result of this analysis is that the design elements from some restored vessels were not included in Hill's tabulations.
+
+
+
+
+
+This finding accords with Hill's frequent statement that design elements on sherds were used in the analyses. However, no vessel was recovered intact, and most were comprised of at least a half-dozen sherds. Although analytical consistency requires that the design elements on the sherds making up the restored vessels be recorded, apparently that was not always done. That some restored vessels were excluded from the design
+
+
+
+
+
+Page 328
+
+
+
+
+
+element tabulations raises one's confidence in criteria 1 and 2; some of the remaining suspicious cases could also represent "missed vessels" sherds from restorable but unrestored pots.
+
+
+
+
+
+Another line of evidence that might help to pinpoint missed pots is the diversity of design elements. The present analysis deals with the property of diversity known as richness, the number of different types of entity in a unit (Kintigh 1984). In general, richness is a function of sample size. In fills, especially, one might expect a close relationship between the total frequency of all design elements and the number of different kinds of elements (Graves 1981). However, in rooms where restorable vesselswith their redundant design elementscontribute to the totals, richness should be reduced relative to the sample size. To detect cases of reduced richness, Kintigh's (1984) simulation technique was employed. Simulated samples of varying sizes were repeatedly drawn from the population of design elements. Thus, a distribution of richness values was generated for each sample size, making it possible to construct confidence intervals for richness. When each unit (floor or fill) is plotted by sample size and richness in relation to the computer-generated confidence intervals, cases of excessive or reduced richness become obvious.
+
+
+
+
+
+Figure 12.2 is a plot of room fills against the richness confidence intervals. As anticipated, the general shape of this distribution follows closely that described by Kintigh (1984): the more design elements present, the more different kinds one finds. But a large number of rooms do exhibit significantly reduced richness, and there is an appreciable overlap between these rooms and those flagged by criteria 1 and 2.
+
+
+
+
+
+The same exercise was repeated for design elements in floor assemblages with very similar results. A great many rooms have low richness, and a small tier of rooms have very low richness. Again, many rooms pinpointed by criteria 1 and 2 are also distinguished by low richness.
+
+
+
+
+
+Although the number of elements present (i.e., the sample size) is a reasonably good indicator of element richness, some process has caused many rooms to have significantly reduced richness. The diversity analysis has provided some additional support for the tentative conclusions of the "excess" design element analyses.
+
+
+
+
+
+Additional information about possible missed vessels, especially textured wares, is supplied by the diversity of ceramic types. The use of Kintigh's diversity measure on sherd counts and type diversity in room fills disclosed more than two dozen rooms that exhibit some reduced diversity. In the type-diversity analysis it is assumed that the presence of sherds from a restorable vessel, comprising a local surplus of that type, depresses the diversity value for that provenience. For example, let us take Room 27, a room not regarded as a dump by Hill. Although St. Johns Polychrome occurs as 4.2 percent of all Broken K sherds, it makes up 33.5
+
+
+
+
+
+Page 329
+
+
+
+
+
+Fig. 12.2.
+
+Design element diversity (richness) in room fills at Broken K Pueblo.
+
+
+
+
+
+percent of this room's fill sherds. It seems likely that the 90 sherds of St. Johns Polychrome represent one or more restorable vessels present in this room or on its roof. The type-diversity analysis pinpointed many candidates for restorable pots, especially textured pots, and these "missed pots" occur throughout the pueblo, cross-cutting Hill's trash-filled and non-trash-filled rooms.
+
+
+
+
+
+The preceding analyses, taken one at a time, each point to the existence of possible restorable vessels in many rooms. Indeed, most of the rooms Hill regarded as trash-filled may contain de facto refuse vessels. Singly, none of these measures is apt to be very reliable, but together they call attention to some puzzling aspects of Broken K rooms, especially "trash-filled" rooms, that can be accommodated by the missed pot hypothesis.
+
+
+
+
+
+The possible occurrence of restorable pots as de facto refuse in room fills is problematic, but several modes of deposition can account for these vessels. First, sherds from floor vesselsespecially textured typesmight have been recorded in fill proveniences. Second, some pots could
+
+
+
+
+
+Page 330
+
+
+
+
+
+have been abandoned on roofs; after the latter collapsed, sherds from these vessels would be recovered in the fill. Third, some pots might have been abandoned within rooms but above the floor, resting on shelves and other supports or suspended from walls and ceilings by netting or cordage. Fourth, child's play and vandals might have removed vessels of de facto refuse from floors, redepositing them as sherds on the roof. Fifth, and least likely, is the possibility that the vessels were deposited on second-story floors that went unrecognized. In short, several hypothesized modes of deposition can produce restorable vessels of de facto refuse in room fills.
+
+
+
+
+
+A Reconsideration of Hill's Analyses
+
+
+
+
+
+Several lines of evidence point to the same conclusion: potentially there are many restorable pots in the fills and floors of Broken K rooms that could be de facto refuse. Evidently, there is more de facto refuse and less secondary refuse at Broken K than anyoneother than Hillsuspected. Let us now develop the implications of the missed pot hypothesis for understanding the results of some of Hill's analyses.
+
+
+
+
+
+In the first place, if Broken K did contain much de facto refuse, then Hill's inferences on room function are probably correct. The abundance of materials on the floors of some large rooms (Hill's habitation rooms) is apparently not caused by the use of these rooms as dumps.
+
+
+
+
+
+The preceding discussions of Broken K ceramic data have also laid a foundation for reconsidering the results of Hill's factor analyses of design elements in room floors and fills.
+
+
+
+
+
+Since Hill's early use of factor analysis at Broken K, the technique has seen service in many archaeological studies. Its general properties are widely known and need not be recited here. Nevertheless, brief discussion of the correlation coefficient commonly used in factor analysis, Pearson's r, is necessary in order to understand Hill's results.
+
+
+
+
+
+One condition that should be met for the correct application of Pearson's r is that the variables being compared are distributed normally. This assumption is often violated in practice, and appreciable departures from normal distributions can be toleratedif the data set is well understood. Regrettably, neither Hill nor the Broken K critics discussed the frequency distributions of design elements. This was a mistake, for an appreciation of these distributions provides clues to understanding Hill's results. Table 12.1 presents frequency distributions of the 5 most common and 5 least common design elements in room fills; these examples adequately represent the distributions, underscoring the "thinness" of the data (see Dumond 1977:344) and revealing a remarkable degree of skewness. The
+
+
+
+
+
+Page 331
+
+Table 12.1. Frequency Distributions of the Five Most and Five Least
+
+Common Design Elements in Room Fills at Broken K Pueblo. (Data from
+
+Hill [1970:134-139].)
+
+Design Element Frequencies
+
+
+
+Number of 5 Most Common 5 Least Common
+
+Occurrences
+
+
+
+
+
+Element #
+
+
+
+
+
+67
+
+
+
+
+
+29
+
+
+
+
+
+127R
+
+
+
+
+
+127
+
+
+
+
+
+175
+
+
+
+
+
+43
+
+
+
+
+
+47
+
+
+
+
+
+130
+
+
+
+
+
+151
+
+
+
+
+
+162
+
+
+
+
+
+0 22
+
+19
+
+20
+
+24
+
+23
+
+36
+
+35
+
+35
+
+34
+
+33
+
+
+
+1 6
+
+9
+
+5
+
+8
+
+8
+
+5
+
+6
+
+5
+
+7
+
+8
+
+
+
+2 4
+
+4
+
+5
+
+1
+
+4
+
+1
+
+1
+
+1
+
+
+
+3 6
+
+3
+
+5
+
+4
+
+4
+
+1
+
+1
+
+
+
+4 1
+
+1
+
+3
+
+1
+
+1
+
+
+
+5 2
+
+1
+
+1
+
+1
+
+
+
+6 1
+
+1
+
+2
+
+1
+
+
+
+7
+
+8 1
+
+1
+
+
+
+9 1
+
+
+
+10 1
+
+
+
+11
+
+12 1
+
+1
+
+
+
+13 1
+
+
+
+14 1
+
+1
+
+
+
+
+
+22 1
+
+
+
+Total
+
+Frequency: 63
+
+68
+
+67
+
+64
+
+66
+
+10
+
+9
+
+10
+
+9
+
+10
+
+
+
+
+
+use of Pearson's r on variables distributed in this manner is probably inappropriate.
+
+
+
+
+
+Most perplexing about the Broken K distributions, however, is the presence of a few extremely high values. The latter can contribute to high positive correlations between otherwise unrelated variables if they both share one case that has high values for both variables, an effect that is exacerbated if the data matrix contains a large number of paired zeros (Speth and Johnson 1976). The potential for co-occurring extreme values in the room-fill cases is great because of the presence of restorable pots (restored and unrestored). One might expect the higher values of Pearson's r, influenced by the co-occurrence of extreme element frequencies (and many paired zeros), to strongly determine the results of the factor analyses.
+
+
+
+
+
+Page 332
+
+Table 12.2. Comparison of Hill's Design Element Factors for Room Fills
+
+with Predictions Based on Restored Vessels, Potentially Restorable
+
+Vessels, and Vessel Fragments. (Each number represents a type of
+
+design element.)
+
+
+
+
+
+Hill's Factors (Hill 1970:28)
+
+
+
+
+
+Factor Predictions (based on
+
+
+
+
+
+Schiffer n.d.b., Table 9)
+
+
+
+
+
+(1) 15, 17, 18, 20, 29, 43, 45R, 134,
+
+
+
+
+
+Room 4-5: 15, 18, 20, 43, 146,
+
+
+
+
+
+146, 158R, 160, 161, 173
+
+
+
+
+
+158R, 173
+
+
+
+
+
+Room 65: 29
+
+
+
+
+
+(2) 6, 89, 127, 130, 172, 173, 174, 175,
+
+
+
+
+
+Room 1: 89, 173, 175, 176, 178
+
+
+
+
+
+176, 177, 178
+
+
+
+
+
+(3) 6, 17, 19, 22, 28, 30, 47, 77-81, 95,
+
+
+
+
+
+Plaza-Kiva: 30, 47, 77-81, 95, 110,
+
+
+
+
+
+110, 147, 158, 158R, 160, 179
+
+
+
+
+
+135, 158R, 179
+
+
+
+
+
+(4) 7, 9-11, 45, 46, 49, 71, 77-81, 127,
+
+
+
+
+
+Room 69: 7, 9, 45, 46, 49, 77-81,
+
+
+
+
+
+135, 136, 147R, 160R
+
+
+
+
+
+135, 136, 139
+
+
+
+
+
+(5) 32, 65, 128R, 133R, 159, 169
+
+
+
+
+
+Room 39K: 32, 128R
+
+
+
+
+
+(6) 115, 141, 151, 153, 165
+
+
+
+
+
+Room 80: 141, 165
+
+
+
+
+
+(7) 10, 156
+
+
+
+
+
+Room 20: 156
+
+
+
+
+
+Room 21: 10
+
+
+
+
+
+(8) 12, 46R, 49R, 108
+
+
+
+
+
+Room 28: 12, 108
+
+
+
+
+
+(9) 41, 139, 159R
+
+
+
+
+
+Room 29: 41
+
+
+
+
+
+Room 64: 139
+
+
+
+
+
+The list of rooms and design elements, isolated by criteria 1 and 2, furnishes a convenient set of predictions for the outcome of Hill's factor analysis of design elements in room fills. As can be seen in Table 12.2, there is a striking relationship between the predictions and Hill's factors. For example, Room 69, which contained two restored pots whose design elements were included in Hill's tabulations, is the basis of Factor 4. In
+
+
+
+
+
+Page 333
+
+
+
+
+
+almost every case one can make a match between rooms with possible missed pots and Hill's factors.
+
+
+
+
+
+The above exercise indicates that there is a surprising amount of structure in the data matrix of design elements in room fills. This structure, represented by Hill's factors, can be readily accounted for by some relatively simple cultural formation processes, principally the deposition of restorable vessels, pot fragments, and abundant elements from many different vessels (Schiffer n.d.b).
+
+
+
+
+
+Similar results were obtained from a detailed study of the floor data. Because of overall lower sample sizes, however, there is a far less robust structure.
+
+
+
+
+
+The first attempt to predict the composition of Hill's factor analysis of floor data was modeled after the fill analysis, using high-frequency design elements. Although some matches were evident, the results were not at all convincing. It was soon discovered that the predictions failed to include the one case in Hill's input matrix (Hill 1970:130-133) that did have a large number of high-frequency occurrences: Burial 1 from Room 27, which was accompanied by 8 decorated pots (Martin et al. 1967:129). Four of these vessels are illustrated and, with few exceptions, their design elements were tabulated by Hill. Thus, this case furnishes another opportunity to monitor the effects of restored vessels. It is noteworthy that 12 different design elements are recorded for the burial pots, which occur in frequencies ranging from 4 to 11all high values for that data set.
+
+
+
+
+
+In view of the design element frequencies from known restored vessels in the burial, the entire data set was reexamined in order to pinpoint all design element occurrences of 4 or more. The rooms meeting this criterion served as the basis for predicting the composition of Hill's factors (Table 12.3), and as can be seen, there is some degree of fit between the predictions and Hill's factors. It is of great interest that Factor 1 consists entirely of the design elements from the burial pots (see Hill 1970:80). A few other factors (2, 3, 4, 7) can be matched up reasonably well with design elements in rooms. Overall, this data matrix lacks much structure and, as Dumond (1977) noted, some of the factors (e.g., 8, 9) are composed of design elements that are not mutually correlated. Nevertheless, to the extent that there is structure in this data set it seems to result from known restored vessels and likely restorable vessels.
+
+
+
+
+
+Dumond (1977:344) failed utterly in his effort to replicate Hill's factors in the analysis of floor design elements. The reason is simple. Dumond converted the design element frequency data to a presence-absence matrix, thereby eliminating the only source of structure in the data: the few high-frequency occurrences. In any event, it is doubtful that meaningful social information can be extracted from Hill's data set by factor analysis.
+
+
+
+
+
+Room floor assemblages consist of varying mixes of orphan sherds, pot
+
+
+
+
+
+Page 334
+
+Table 12.3. Comparisons of Hill's Design Element Factors for Room Floors
+
+with Predictions Based on Restored Vessels, Potentially Restorable
+
+Vessels, and Vessel Fragments. (Each number represents a type of
+
+design element.)
+
+
+
+
+
+Hill's Factors (Hill 1970:28)
+
+
+
+
+
+Predictions
+
+
+
+
+
+(1) 6, 45, 46, 50-51, 65, 82, 130, 133,
+
+
+
+
+
+Burial 1: 6, 45, 46, 50-51, 65, 82,
+
+
+
+
+
+147R, 158, 169, 175
+
+
+
+
+
+130, 133, 147R, 169, 175
+
+
+
+
+
+(2) 45, 134R, 135, 146, 155, 158
+
+
+
+
+
+Room 33: 45, 46, 127R, 146, 155,
+
+
+
+
+
+158R, 175
+
+
+
+
+
+(3) 20, 29, 89, 127, 127R, 164, 174
+
+
+
+
+
+Room 1:29, 127, 127R, 175
+
+
+
+
+
+175, 176, 177
+
+
+
+
+
+(4) 31, 67, 169
+
+
+
+
+
+Room 40: 31, 67, 82, 169
+
+
+
+
+
+(5) 95-99, 110, 159, 160
+
+
+
+
+
+Room 64: 110
+
+
+
+
+
+(6) 131, 134, 135, 148, 160R
+
+
+
+
+
+Room 74: 160R; Room 80: 148
+
+
+
+
+
+(7) 29, 84, 156
+
+
+
+
+
+Room 8: 29, 50-51, 156
+
+
+
+
+
+(8) 19, 84, 131
+
+
+
+
+
+(9) 115, 131, 153
+
+
+
+
+
+Room 11: 153
+
+
+
+
+
+(10) 133R, 160
+
+
+
+
+
+(11) 39
+
+
+
+
+
+(12) 90-94
+
+
+
+
+
+(13) 20
+
+
+
+
+
+fragments, and sherds from restorable vessels, and this has important implications for understanding Hill's factor analysis of pottery types on room floors. Hill used the type-clusters that resulted from this analysis as a basis for establishing a variety of inferences. Two attempts were made to replicate this analysis (Lischka 1975; Dumond 1977), neither of which was especially successful. The lack of behaviorally meaningful patterns
+
+
+
+
+
+Page 335
+
+
+
+
+
+in these analyses is entirely predictable from a knowledge of the probable formation processes of pottery type-frequencies on room floors.
+
+
+
+
+
+Both Lischka (1975) and Dumond (1977) have shown that the type-frequency data from room floors at Broken K are not strongly structured. This is a disconcerting result that makes no sense behaviorally: at the household level, there had to be strong groupings of vessel types, especially those used for cooking and serving of food. To see why expectable systemic patterns are not evident in Hill's factor analysis, one must assess the formation processes of the input matrix: sherd counts (or percentages) on room floors. On the basis of preceding discussions, one can begin with the proposition that the sherds in each floor assemblage probably result from the operation of different and independent formation processes. Treating all room floor data as equivalent, as in factor analysis, leads to a situation where variability caused by formation processes overwhelms any that might be caused by the behavioral and organizational phenomena sought by Hill. The result is a set of factors that monitors neither formation processes nor the behaviors of interest. I now examine a number of these formation processes in greater detail, beginning with the processes responsible for orphan sherds.
+
+
+
+
+
+Because many processescultural as well as nonculturalcan bring sherds into floor contact (see Table 10.1), orphan sherds are apt to have heterogeneous origins. Even if most orphan sherds were primary refuse, it is doubtful that any factor analysis of them could disclose behaviorally meaningful patterns. This is easily shown by a brief consideration of the causes of sherd frequency variability in primary refuse.
+
+
+
+
+
+The sherd frequency of a pottery type as primary refuse in an activity area, such as a pueblo room, has five principal determinants: (1) breakage rate, which is influenced by the number of vessels in use and uselife (Chapter 4); (2) vessel properties (e.g., shape, size, and mechanical strength) and manner of breakage, which contribute to the frequency distribution of sherd size; (3) the frequency and thoroughness of cleanup activities; (4) the time elapsed between the last clean-up and the abandonment of the activity area (e.g., some were abandoned clean, others dirty); and (5) intensity of trampling. Clearly, even within a single community like Broken K, these somewhat independent factors will vary among activity areas for the same vessel type. The predictable result of these causal factors is the creation of highly variable type-frequency counts in primary refuse.
+
+
+
+
+
+This discussion leads to the following tentative conclusions about primary refuse sherds in activity areas:
+
+
+
+
+
+1. In a large deposit of primary refuse sherds, the variety of pottery types may approach the variety used in that activity area.
+
+
+
+
+
+2. The relative frequencies of pottery types in use are not directly mirrored by the relative frequences of sherd types in primary refuse.
+
+
+
+
+
+Page 336
+
+
+
+
+
+3. The presence of a pottery type in primary refuseeven as one sherdindicates the use of that type in the activity area.
+
+
+
+
+
+4. The absence of a pottery type in primary refuse does not indicate the absence of that type in the past, unless such absence repeatedly recurs in large samples of primary refuse. Even in the latter case, the inference is weak.
+
+
+
+
+
+In view of these discussions, it should be apparent that factor analysis of primary refuse sherd counts holds little promise for yielding behaviorally meaningful patterns. The nature of primary refuse is such that behavioral information can probably be extracted by more straightforward means. For example, one can divide up activity areas on the basis of architectural attributes, as did Hill, then aggregate and compare the primary refuse for each type of activity area (Schiffer 1975b). Regrettably, we cannot know which Broken K orphan sherds are actually primary refuse without examining the traces of formation processes on the sherds themselves.
+
+
+
+
+
+In addition to the orphan sherds, not all of which are apt to be primary refuse, Broken K room floors contain sherds from missed restorable vessels as de facto refuse. Under conditions of a true Pompeii-like abandonment, restored vessel (not sherd) counts from rooms might comprise a data matrix that could yield behaviorally meaningful patterns when factor analyzed. At Broken K, however, de facto refuse vessels seem to have been present on floors, in rooms, and on roofs. Thus, factor analysis of floor vessels alone will be misleading because they comprise only part of the de facto refuse assemblage from any household. Moreover, although Broken K probably contained many restorable vessels as de facto refuse, the abandonment was not catastrophic. Many roomsperhaps mostfell short of complete systemic inventories, probably as a result of curate behavior, scavenging, vandalism, and other ''depletion'' processes (Schiffer 1985). Under these conditions, multivariate analysis of restored and restorable floor vessel counts (if they could be approximated) would probably not yield behaviorally meaningful results. Again, given the variable depletions of the de facto refuse assemblage, more can be learned by applying simple techniques of comparison, where presences are stressed and absences are weighted only if there is a recurrent pattern not easily explained by another formation process.
+
+
+
+
+
+These discussions have now brought us to the point of appreciating why Hill's set of type-frequency data contains so little structure: each provenience holds the summed products of different and independently varying formation processes. For example, some room floors consist entirely of orphan sherds; others may have as many as a half-dozen restorable vessels in addition to varying amounts of orphan sherds and pot fragments. When such heterogeneous samples are treated as equivalent
+
+
+
+
+
+Page 337
+
+
+
+
+
+and factor analyzed, the result can only be specious "patterns" that are but statistical artifacts.
+
+
+
+
+
+The type-frequency data can probably provide meaningful information on vessel use patterns. Extraction of this information requires the use of analytic techniques appropriate to assemblages formed by the processes identified so far. As further work is pursued on the Broken K ceramicsespecially on the collections themselveswe can expect to obtain well-founded inferences about the behavioral and organizational aspects of the Broken K community.
+
+
+
+
+
+Discussion and Conclusion
+
+
+
+
+
+The preceding analyses have led to several interrelated hypotheses regarding the formation processes of Broken K Pueblo. Many rooms that Hill believes were used for trash disposal furnish no compelling evidence of dumping behavior; indeed, much of the fill material may be de facto refuse. Thus, Broken Kwhile not exactly a Pompeiicould have contained relatively large numbers of restorable ceramic vessels (as de facto refuse) that were not recorded as such during excavation and analysis.
+
+
+
+
+
+The hypothesized "missed pots," as well as the vessels restored by the excavators, determine to a large extent the patterns in Hill's factor analysis of design elements in room fills and to a lesser extent those in the room floor analysis. Moreover, the finding that pottery type counts on room floors consist of independently varying componentsorphan sherds, pot fragments, and sherds from restorable vesselsfurnishes an explanation for why Hill's type-frequency factor analysis lacks behaviorally meaningful patterns. Although the formation processes of Broken K ceramic artifacts are still imperfectly known, the hypotheses advanced here can play a heuristic role in orienting future treatments of Broken K data. It is clear that any new analyses of this important data set must be founded on a better understanding of Broken K's formation processes than is available today.
+
+
+
+
+
+The present study of Broken K Pueblo is not without implications for other intrasite analyses. Indeed, the following statements are offered as general advice.
+
+
+
+
+
+1. As Sullivan (1978) emphasizes, processes of archaeological recovery and analysis introduce variability into the archaeological record. Some restorable vessels from Broken K (and the Joint site) were reported as whole vessels, whereas others were reported as sherds. The design elements on some restored vessels were tabulated, whereas those on others were not. Such inconsistencies are far from unusual, and one must assess their likely influence on the archaeological record.
+
+
+
+
+
+Page 338
+
+
+
+
+
+2. Artifacts recorded in a single provenience from within a structure may have been deposited by different formation processes (Schiffer 1976a:133-138). For example, a host of processes could have been responsible for the artifacts on the floor of a room, including primary refuse and de facto refuse deposition (see Chapter 10 and Schiffer 1985).
+
+
+
+
+
+3. Artifacts recorded in different proveniences in a structure could have been deposited by the same formation process (Schiffer 1976a:133138). For example, artifacts of de facto refuseeven sherds from the same potcould be recorded in floor and fill proveniences.
+
+
+
+
+
+4. Generally, regardless of provenience, the formation processes of restorable vessels, vessel fragments, and orphan sherds are quite different. Such ceramic artifacts must be segregated early during the process of analysis (Chapter 10).
+
+
+
+
+
+5. After one has made the initial segregation, the next analytic task is to identify the specific formation processes of the various artifacts and deposits, taking into account (3) and (4) above. By identifying the formation processes the investigator is able to pinpoint areas of research potential and to select (or devise) appropriate analytic techniques.
+
+
+
+
+
+6. The use of pattern-discovery analytic techniques on artifacts and deposits of unknown formation processes will seldom yield behaviorally meaningful results. This is so because the statistical patterns reflect varying mixes of effects produced by formation processes and by the past behaviors of interest.
+
+
+
+
+
+Page 339
+
+
+
+
+
+Chapter 13
+
+The Archaeological Process
+
+
+
+
+
+Throughout the recent history of the discipline, archaeologists have strived to improve their methods. With the growing stress on replicability and control of data quality (Daniels 1972) has come the long-overdue recognition that the activities of archaeologists themselves are formation processes and thus introduce appreciable variability into the archaeological record (Schiffer 1976a, 1977). The concept of "archaeological record" itself, as Patrik (1985) points out, is fraught with ambiguities because we can only perceive that record through the activities and reports of archaeologists. The archaeological record is, finally, the documents that describe what was recovered and analyzed and what procedures were used. As such, one must be constantly vigilant to avoid mistaking patterns that result from archaeological procedures for patterns of past human behavior. More tangibly, archaeological procedures are cultural formation processes because they reclaim and disturb culturally deposited materials, in conformity with the principles presented in Chapters 5 and 6.
+
+
+
+
+
+The need to critically assess the influence of archaeological procedures on the archaeological record is widely appreciatedin principle. Lumbreras (1974a:36, 41), for example, equates such evaluations with the source criticism of the historian (see also Kristiansen 1985). In practice, however, inference is built upon inference in pyramid-fashion with little regard to possible biases in the basic evidence introduced by archaeologists. It is understandable that scholars in a small discipline would be reluctant to criticize each other's methods, for such discussions quickly can become personal. If archaeology is to develop its full scientific potential, however, no source of variability can remain unexamined. Fortunately, like other formation processes, the behavior of archaeologistsand others who find and report archaeological remainsexhibits strong
+
+
+
+
+
+Page 340
+
+
+
+
+
+patterning (Schiffer 1976a, 1977), and these regularities make possible an intersubjective assessment of the effects of an archaeologist's behavior on a particular corpus of evidence.
+
+
+
+
+
+This chapter furnishes a brief introduction to some major effects of archaeological procedures of recovery and analysis and emphasizes the application of simple techniques for assessing biases in the regional archaeological record.
+
+
+
+
+
+Assessing the Existing Site Records of a Region
+
+
+
+
+
+Although the following discussions are tailored to problems encountered in regional studies taking place in the New World, sophisticated analyses of existing site records, from a perspective similar to that advocated here, have been carried out in Scandinavian countries, especially Denmark. The reader is referred to Kristiansen (1985) for an introduction to this literature.
+
+
+
+
+
+The present discussion stresses the relationship between processes of site discovery and inferences about occupational history, but the principles also apply to the provision of an adequate base of sites for making many other inferences, including the nature of and changes in settlement systems. Moreover, many of these same principles can also be used to evaluate the finds of artifacts (for the latter are elements of the regional archaeological record [Dunnell and Dancey 1983]).
+
+
+
+
+
+When one begins work in an area, existing site recordscompiled by concerned citizens, amateurs, academic surveys, and cultural resource management studiesare the usual starting point for inferring occupational history. These records should be critically assessed as sources of evidence in order to evaluate how adequately the area's archaeological record is reported in existing site files.
+
+
+
+
+
+Two simple principles, focusing on sample size and coverage, govern the likelihood that existing site records in a region include a sufficient range of site types for inferring occupational history. First of all, the variety of sites in an area is a function of the number of known sites (Schiffer and Wells 1982:375), a relationship analogous to the dependence of artifact variety on sample size (Kintigh 1984). This can be easily illustrated in any area by examining discoveries of new occupations as the sample of known sites grows through time. Three surveys carried out in the Painted Rocks Reservoir area of southwestern Arizona furnish an example. In 1957, a brief "windshield" survey found 29 sites, including Hohokam, historic Anglo, and Papago components (Schroeder 1961). According to Schroeder, Hohokam settlement was limited to the Colonial and Sedentary periods, and there was no preceramic occupation. A second survey of the same area was carried out a few years later by Wasley
+
+
+
+
+
+Page 341
+
+
+
+
+
+and Johnson (1965); relying principally on knowledgeable informants, they found an additional 26 sites. Included among the latter were Hohokam Pioneer and Classic components, necessitating a complete rewriting of the occupational history of the Painted Rocks Reservoir. In 1978, a third survey of the area, employing probability sampling, located 22 new sites (Teague and Baldwin 1978). Not surprisingly, this survey also led to a revision of the occupational history with its discovery of Archaic sites. This succession of surveys, site discoveries, and new occupational histories underscores the profound dependence of site variety on sample size.
+
+
+
+
+
+Even in areas with many hundreds of known sites, new surveys find additional site types. For example, in the Cache River basin of northeastern Arkansas, 543 sites had been recorded prior to the Cache Project in 1973. Nevertheless, the 193 additional sites discovered by the Cache Project included one Early Woodland and three Middle Woodland components, which bridged an apparent occupational hiatus (Schiffer and House 1975).
+
+
+
+
+
+There can be no magic number of discovered sites that will guarantee an accurate occupational history for a study area. As the Cache Project shows, in an area having a large number of varied sites, one may have to discover many hundreds of sites before relatively rare occupations are included in the inventory.
+
+
+
+
+
+A second principle that governs the variety of discovered sites pertains to the spatial distribution of survey coverage. The variety of discovered sites should be a function of how well surveyors have covered the diverse topographic zones and microenvironments of a study area (holding constant the number of sites). In some areas, coverage has been very uneven, leading to a narrow and biased data base for generalizing about occupational history. An example comes from the Papagueria, the southwestern corner of Arizona, where about 50 survey projectssmall and large had been carried out as of 1980 (Schiffer and Wells 1982). Although more than 1200 sites were recorded, no survey had inspected the mountain ranges until Mallouf (1980) covered the crest of the Ajo Mountains in advance of a fence-construction project. He found 51 sites, including sherd-and-lithic scatters and rockshelters, many of which did not fall readily into established culture-historical categories (Mallouf 1980); these discoveries may indicate an important, long-sought-after protohistoric occupation. The literature of archaeological survey, especially in recent years, is rife with significant discoveries in unsearched portions of allegedly well-known areas.
+
+
+
+
+
+A great many important archaeological inferences have been established prematurely on the basis of small numbers of sites and inadequate coverage of study areas. Such inferences are quite vulnerable to new discoveries and, consequently, are overturned and replaced at a prodigious rate. A case in point concerns claims about the earliest maize
+
+
+
+
+
+Page 342
+
+
+
+
+
+agriculture in the New World. In the 1950s, following the finds of purportedly early maize at Bat Cave, New Mexico (Dick 1965), some archaeologists believed that the original hearth of New World agriculture was the American Southwest. After MacNeish's sensational discoveries of an evolutionary sequence of maize from the Tehuacan Valley (MacNeish 1978), however, the site of maize domestication moved south. It should be evident that in each case, the "earliest" maize is a function of what had been discovered to date. By chance, this haphazard process of discovery may have found or may soon find the earliest maize. But, in view of the many areas of possible domestication that have yet to be investigated, the likelihood that maize's place of origin has been pinned down is small. Needless to say, virtually all inferences about plant and animal domestication rest on equally insecure footings.
+
+
+
+
+
+Less grandiose inferences are also at the mercy of site discovery and recording processes, especially when one relies on existing site records. These problems are highlighted by Upham's (1982) study of the regional organization of fourteenth century "Western Pueblo" societies. Using various statistical techniques, he showed that large fourteenth century pueblos in portions of northeastern Arizona and northwestern New Mexico are distributed over the landscape in clusters. The latter, he argues, are organizational units intermediate between individual villages and an overarching regional system. Although Upham built a model of regional organization that is both attractive and interesting, the establishment of the initial site clusters, upon which the model rests, apparently was carried out inconsistently and uncritically using extant site records.
+
+
+
+
+
+Upham's data base consists of 55 pueblo sites, each containing 50 or more rooms, gleaned from a variety of published and unpublished sources. For some research problems, this unpedigreed sample of sites might be perfectly adequate. Given the central role that site distributions play in the inferences, however, it is imperative that one know with reasonable confidence not only where sites are but where they are not. Upham (1982:60) simply asserts that "the sample of larger sites that I have compiled is essentially complete." In support of this belief he suggests that "archaeological investigations have been conducted in virtually all parts of the study area, and in earlier times the primary emphasis of fieldwork was to locate and investigate the largest sites," and ''recent surveys have identified both large and small sites'' (Upham 1982:60).
+
+
+
+
+
+Regrettably Upham provides no information as to how he compiled the list of known sites. The sources cited in the table of sites (Upham 1982:6162) could lead one to suggest that the search procedures were neither consistent nor complete. For example, in subareas such as Hopi and Zuni a heavy reliance was placed on secondary and tertiary published sources. Were the searches of previous investigators more or less thorough than
+
+
+
+
+
+Page 343
+
+
+
+
+
+Upham's? It is surprising that only one site is attributed directly to a museum site file. Was that site file thoroughly examined? Were site files at other institutions searched in vain? Surprisingly, six sitesmore than ten percent of the sampleare attributed to personal communications from two persons, both close colleagues of Upham. Were other investigators also queried on their knowledge of sites in the region? Apparently, there are gaps in the sources of information that Upham used to find out about known sites.
+
+
+
+
+
+Once one has thoroughly exploited all relevant sources and compiled a list of known sites, a second set of questions must be raised concerning the completeness of that data set. If recent surveys have found new, previously unreported large sites, as Upham implies, then it is unlikely that the known sites comprise the entire population of large pueblos. This is so because recent surveys cover but a very small fraction of the study area. Were modern surveys to be initiated in other parts of the region, one would presumably find more large sites.
+
+
+
+
+
+Seemingly, Upham did not use consistent procedures for finding information on known sites, nor did he evaluate the completeness ofor biases inthat site sample. The site clusters may represent systemic patterns or they may be the by-product of various factors influencing the discovery and reporting of sites; until the latter are ruled out, there is no reason to prefer the former. This uncertainty mars an otherwise fascinating and provocative piece of research. Upham's study, then, demonstrates the need to critically assess the quality of evidenceespecially relevant missing evidencethat supports specific inferences from existing site records. Unfortunately, most investigations using data on previously recorded sites share the shortcomings of Upham's study. Fortunately, this state of affairs need not continue because many relatively simple techniques can be employed in this evaluation process.
+
+
+
+
+
+Techniques for Evaluating Recorded Sites
+
+
+
+
+
+As a first step in synthesizing the prehistory of an area, evaluating a segment of the resource base, or designing a field project, one should critically assess the status of existing site records. Several strategies are available for discerning the degree to which the known sites represent patterns of discovery and not the actual occurrence of sites in a region. These studies are facilitated for many areas, especially in the United States, by the availability of computerized site records.
+
+
+
+
+
+Much can be learned by comparing the history of site discovery to the history of professional archaeological projects in an area. Schiffer and McGuire (1982b) examined the records of 1207 reported sites in relation to archaeological projects in southwestern Arizona. Their findings were as follows:
+
+
+
+
+
+Page 344
+
+
+
+
+
+the principal flurries of recording correspond quite well to major projects. . . site recording in southwestern Arizona has been carried out primarily by professional archaeologists engaged in particular projects. . . an absence of reported sites in an area indicates only that no survey project was carried out there (Schiffer and McGuire 1982b:387).
+
+
+
+
+
+In such a study area, inferences about occupational history and settlement systems can be easily overturned by new discoveries (such as those provided by Mallouf's survey).
+
+
+
+
+
+In most large regions, the number of known sites represents only a small fraction of those present. It is sometimes possible to make very gross estimates of this sampling fraction if one has data from recent, reasonably intensive, large-scale archaeological surveys in the study area. The basic strategy is to use data from such surveys to construct ratios of previously known to newly discovered sites. An example is provided by the Cache Project (Schiffer and House 1975). Using various samples of newly gathered survey data, the investigators constructed a mean ratio, or estimated sampling fraction, of.04. That is, about 4 percent of the sites had been previously recorded. An estimate of the total number of sites in the Cache Basin (13,287) was obtained by multiplying the inverse of this ratio (24.47, the "U-D index") by the number of previously recorded sites (543). Needless to say, these estimates are crude.
+
+
+
+
+
+The low sampling fraction represented by existing site records in the Cache Basin is probably quite typical for most areas of the United States. In many parts of the world, there are so few recorded sites that to speak of "sampling fraction" is folly.
+
+
+
+
+
+Sampling fraction, of course, tells us nothing, per se, about how well the sample represents the variety of sites in the region. A fairly direct approach to this issue requires examining the effects of increasing sample size on site variety through time. For the best results, fine-grained site types based on culture-historical units (e.g., phases or periods) as well as function (e.g., field house, quarry, village) should be used for computing site variety. These composite categories (e.g., Pueblo III field house) are used to assess changes in the rate of discovery of new site types in relation to the total sites found.
+
+
+
+
+
+The region's history of investigation is divided into suitable temporal intervals, such as 5 or 10 years; in many areas it will be helpful to use shorter intervals as one approaches the present. Beginning with the earliest period, one divides the number of new site types by the total number of sites discovered in each temporal period. When plotted through time, this ratiothe variety incrementwill exhibit a trend of decrease as one goes from the earliest to latest period. In the earliest periods, when fewer than 100 sites are known, the variety increment
+
+
+
+
+
+Page 345
+
+
+
+
+
+should have high values, ranging from .1 to .5. In later periods, as the total of known sites reaches several hundred, the variety increment will probably fall to between .05 and .1. In the most recent periods of well-surveyed regions, the variety increment should fall below .05. Because every region has a unique mix of site types and frequencies, one cannot specify a precise relationship between total sample size and the variety increment. Nevertheless, if the values are still appreciable for recent periods (greater than .01 or. 02), then one can conclude that the existing records do not adequately represent the site variety present in the regional archaeological record and that many more discoveries lie ahead.
+
+
+
+
+
+Unfortunately, one cannot use trends in the variety increment by itself to claim that a region is well known. If surveys are concentrated in a restricted number of environmental zones, one cannot generalize to poorly sampled areas; thus, a test of coverage is also needed to assess the quality of existing survey data. A simple test was applied by Schiffer and Wells (1982) to surveys carried out on the Papago Indian Reservation of southwestern Arizona. Their basic strategy was to compare the prevalence of different physiographic zones with the extent to which each had been covered in surveys. They found that although less than 50 percent of the study area was in the alluvial plain/valley floor zone, about 70-80 percent of the existing survey coverage was in that zone (Schiffer and Wells 1982:367). On the basis of this differential coverage, and considering the absolute low coverage in some zones, they concluded that apparent patterns in site distribution (most were in the alluvial plain/valley floor zone) could not be taken at face value. Clearly, more thorough coverage of other physiographic zones holds great potential for discovering new site types.
+
+
+
+
+
+In assessing coverage of previous surveys, one also needs to examine their distribution in space. Conceivably, one could find that different physiographic zones were well represented in surveys, but that an entire portion of the study area had not been covered. In their study of the Papago Reservation, Schiffer and Wells (1982) plotted the distribution of known sites on a map and found a very patchy distribution that coincided with survey projects. The investigators properly concluded that "much of the Papago Reservation is archaeologically unknown. . . site distributions reflect only the distribution of previous surveys" (Schiffer and Wells 1982:363). Because of a number of recent Bureau of Indian Affairs roads surveys, however, the coverage was not nearly as poor as that found in the remainder of southwestern Arizona (McGuire 1982:145).
+
+
+
+
+
+In the eastern United States, many sites and artifacts are reported by amateurs and collectors. The biases in such records have been recognized by archaeologists for many years, but few analyses have been carried out. Recently, Lepper (1983) and Seeman and Prufer (1984) have initiated discussions about the influences of modern population distributions and
+
+
+
+
+
+Page 346
+
+
+
+
+
+extent of land under cultivation on fluted point finds. Much more work along these lines is needed, given the heavy inferential weight that fluted-point distributions sometimes carry.
+
+
+
+
+
+Archaeological Surveys
+
+
+
+
+
+It is often necessary to evaluate critically the sample of sites reported by a particular survey project. In making such assessments one can turn to other principles of archaeological survey. Fortunately, the effects of various survey techniques and sampling strategies on site discovery have been the subject of much research during the past several decades, and the general principles are reasonably well known. Recent syntheses on various aspects of archaeological surveys are provided by Plog et al. (1978), Schiffer et al. (1978), Nance (1983), McManamon (1984), Schiffer and Wells (1982), Wobst (1983), Dunnell and Dancey (1983), Dancey (1981), Rathje and Schiffer (1982:156-173), Ammerman (1981), and Lewarch and O'Brien (1981b).
+
+
+
+
+
+Archaeological surveys differ in many characteristics that influence their patterns of site discovery. By far, the most significant variable of archaeological survey is intensity, the thoroughness with which the surface of the study area is searched for archaeological remains (Plog et al. 1978; Schiffer et al. 1978). In the pedestrian tactic (Mueller 1974), intensity is a direct function of the distance between crew members; the closer the spacing, the more intensive the survey. Although modern archaeological surveys tend to be quite intensive, there is still considerable variability. For example, in a study of 12 moderately large-scale surveys carried out in areas of fairly low site density, Schiffer and Wells (1982:353) found that crew spacing ranged from 4 m to 50 m. Surveys of lesser intensity can also be found, for they have an important role to play in certain situations (Schiffer and Wells 1982:374-381).
+
+
+
+
+
+The major effects of intensity on patterns of site discovery are as follows. First of all, holding coverage constant, greater intensity leads to the discovery of more sites (Plog et al. 1978:389-394). Thus, a survey of greater intensity will find a higher percentage of the sites in a given study area and, consequently, report a higher site density. Plog et al. (1978) examined the effect of intensity on reported site density for a sample of 12 surveys from the American Southwest. Because information on crew spacing was seldom provided, a surrogate measure of intensity was employed: the number of person-days of effort per square mile. They found a high correlation between level of effort and reported site density (Pearson's r of .89). Regrettably, in addition to intensity many site-related factors contribute to the overall level of survey effort, including actual density, visibility and accessibility, recording time, and obtrusiveness (Schiffer and
+
+
+
+
+
+Page 347
+
+
+
+
+
+Wells 1982). Although Plog et al. (1978) did not control for all of these factors, their results seem generally sound.
+
+
+
+
+
+A more convincing demonstration of the effects of intensity on overall site discovery can be had by studying changes in one area through time, keeping most factors constant. As noted above, the Painted Rocks Reservoir area has been surveyed several times at different levels of intensity. The first, and least intensive survey discovered 29 sites, about. 3 sites per square mile (Schroeder 1961). The most recent survey, which used probability sampling, reported 30 sites at a density of 4.8 sites per square mile (Teague and Baldwin 1978). These diachronic trends lend considerable weight to the conclusions of Plog et al. (1978). As these latter investigators forcefully point out, a great deal of between-survey variation in reported site density is an artifact of differences in intensity.
+
+
+
+
+
+Intensity affects not only the number of sites found but also their general characteristics, especially obtrusiveness. Schiffer and Wells (1982:347) furnish a useful discussion of obtrusiveness and its relationship to survey intensity:
+
+
+
+
+
+Obtrusiveness is the probability that a given site or artifact will be discovered using a particular survey technique. .. [it is] the area within which a site or artifact is recognized as such with a high probability by a surveyor. Every archaeological phenomenon thus generates a specific surface which, when intruded, results in discovery. Obtrusiveness can be conveniently measured in square meters. For example, an isolated flake on desert pavement might have an obtrusiveness of five square meters, whereas the Gatlin site, with its prominent platform mound, may have had a value greater than 1,000,000 square meters. It should be noted that the discovery probability is 1.0 only when obtrusiveness is equal to or greater than the crew spacing interval. Thus, in order to consistently discover phenomena with [very] low obtrusiveness, one would have to survey at impractically high intensities.
+
+
+
+
+
+One can expect that a more intensive survey will result in lower ratios of large to small sites and habitation to nonhabitation sites, and a lower average site size (Plog et al. 1978:393). In other words, surveys of low intensity find mostly the large and more impressive sites, whereas high-intensity surveys also discover the less spectacular sites, which are still important in understanding prehistory. As archaeologists in the American Southwest have intensified their surveys in the past several decades, a different picture is emerging of "typical" occupation patterns (Cordell and Plog 1979). Large pueblos, which appear in most culture-historical syntheses as the favored settlement type in later periods, are really quite rare; indeed, in many areas (with and without large pueblos), a majority of people probably were living in smaller settlements. The biased view of
+
+
+
+
+
+Page 348
+
+
+
+
+
+the archaeological record produced by traditional surveys of very low intensity still profoundly affects our understanding of prehistory throughout the world.
+
+
+
+
+
+Obviously, one must assess the intensity of past surveys before using data on site density and basic characteristics in inferences. Regrettably, early surveys seldom reported their crew spacing and fewer still employed the pedestrian tactic. Even in recent surveys, reporting of survey methods is often incomplete or misleading; frequently, for example, reported values of crew spacing are "seat-of-the-pants" estimates made after the survey was completed by persons who did not participate in the fieldwork. In some contract projects, actual crew spacing is apt to be somewhat greater toward the end of the project as funds for fieldwork diminish. Nevertheless, one can often find some information on level of effort that indicates the general intensity of the survey.
+
+
+
+
+
+Most modern, highly intensive surveys require between 10 and 100 person-days of effort per mi2 (Plog et al. 1978:391). Thus, if the reported level of effort falls below 10 person-days per mi2, one is probably dealing with a survey of reduced intensity. Many early surveys, for example, had levels of effort of around .01 to .1 (Schiffer and Wells 1982:358). Several additional "tests" can be proposed for indirectly assessing the degree of intensity.
+
+
+
+
+
+The first is based on reported site density. In the most inhospitable areas of southwestern Arizona, recent intensive surveys have found between 1 and 5 sites per square mile (Schiffer and Wells 1982). In most other parts of the Southwest, reported site densities range from 10 to over 80 sites per square mile (Plog et al. 1978). A comparable range of site densities is found in other intensively surveyed regions of North America. The first test is that if a regional survey (greater than several hundred square miles) of a habitable area reports a density of fewer than 1-5 sites per square mile, one should suspect that the intensity was low, resulting in an underestimated and possibly biased picture of the regional archaeological record.
+
+
+
+
+
+A second test is based on the relative frequency of sites varying in obtrusiveness. For example, one can compute the ratio of sites with visible architecture to sites lacking such features. The ratio of sites with mounds to those without them could be helpful in the Near East, eastern United States, and Mesoamerica. Still another index of obtrusiveness is the ratio of large to small sites. For each of these ratios, one ordinarily expects the most obtrusive sites to be in the minority. Thus, if the more obtrusive sites make up a majority of surveyed sites, then the resource base is probably underrepresented and biased.
+
+
+
+
+
+Because there is genuine variability from region to region in the mix of obtrusive and unobtrusive sites, one should seek additional evidence to
+
+
+
+
+
+Page 349
+
+
+
+
+
+support conclusions of the second test. For example, have nonceramic sites been found in quantities expectable on the basis of other lines of evidence (e.g., intensive surveys of a nearby region, ethnographic data)? One can also seek obvious gaps in the types of reported sites. For example, in a region that has been intensively farmed for millennia, has the survey reported any agricultural features, such as water- or earth-control devices? Were any resource extraction or processing sites found? If the answers to these and similar questions are negative, one gains confidence in the conclusion that the survey was not very intensive.
+
+
+
+
+
+A third and final test examines the possible influence of the archaeologist's own behavior on patterns of site discovery. Typically, low-intensity surveys rely inordinately on existing roads and communities to anchor their crews. Thus, if the distribution of discovered sites corresponds to modern cultural features in the region, one can suggest that the archaeological record is underrepresented. In some areas, of course, the determinants of modern behavior (placement of settlements and roads) might be quite similar to those for various periods in the past. Thus, some correspondence between the distribution of modern features and archaeological sites is reasonable.
+
+
+
+
+
+These tests can be applied to a recently reported survey of the Keban Reservoir area of east-central Turkey (Whallon 1979). The study area, defined by the limits of a proposed reservoir, comprised 680 km2; 323 km2 were surveyed, of which 209 km2 were covered intensively (Whallon 1979:12). The intensity of the survey is described as follows:
+
+
+
+
+
+almost every possible location for prehistoric sites was visited. A more extensive coverage by jeep, which quickly located the major, higher mounds was supplemented by a close coverage on foot of large portions of these areas. The five or six members of the survey party would space themselves 100-200 m apart and would walk over large swaths from one landmark to another ... we convinced ourselves that we had located virtually all of the significant sites and the majority of all occupations which were represented by surface remains (Whallon 1979:1112).
+
+
+
+
+
+The survey discovered a total of 52 sites, which have a density in the surveyed area of about .4 sites per mi2. By the criterion of 1-5 sites per mi2, one must conclude that the reported site density for this study area appears to be unusually low.
+
+
+
+
+
+The second test, based on relative obtrusiveness, is also suggestive. Regarding mounds, 44 of the 52 sites (85 percent) had them (Whallon 1979:16); only one site was preceramic (Whallon 1979:26). No resource-extraction sites or agricultural features were discovered. These statistics also suggest that the survey was of low intensity.
+
+
+
+
+
+Additional support for this tentative conclusion is furnished by a third
+
+
+
+
+
+Page 350
+
+
+
+
+
+test focusing on site patterning and modern features. The maps of the study area (Whallon 1979:4, 6) disclose an intriguing pattern: by my reckoning, no site is more than.3 km from a modern highway, village road, or path, and the mean distance to such features is probably about .1 km. This pattern suggests, in conformity with the previous tests, that the intensity of this survey might have been too low to obtain a well-rounded view of the regional archaeological record.
+
+
+
+
+
+Nonetheless, it is possible that the Keban survey was of high intensity but unobtrusive sites simply were not defined or recorded as sites. The definition of "site" employed by survey archaeologists varies greatly from project to project and is itself a source of variability that needs to be assessed (Berenguer 1984; Klinger 1976). In general, where the regional archaeological record is sparse, investigators tend to use more generous definitions of site that can encompass small artifact scatters. For example, the archaeological phenomena dutifully documented as sites in southwestern Arizona could go unnoticed or unrecorded in regions having an abundance of tells or other spectacular remains. Research questions, too, influence site definitions. For example, in some recent surveys in Mesoamerica, nonceramic sites having no place in the research design were simply passed over in the field. Regarding the Keban survey, one can only conclude that sites of low obtrusiveness are not represented; the cause (low intensity of survey or recording practices) cannot be pinned down with available data.
+
+
+
+
+
+Until recent years, archaeologists seldom carried out large-scale surveys in regions having poor visibility and accessibility. Survey in such areas requires a variety of heroic and methodologically unlovely techniques (Aikens 1976), such as periodic shovel testing and use of local informants, to simply make site discovery possible. There is a considerable amount of experimentation going on in the survey of areas with poor field conditions. Fortunately, these surveys seldom make exaggerated claims for their degree of intensity (however that may be defined), and the investigators are usually candid about the limited view such surveys provide of the archaeological record. Moreover, the biases of such techniques are coming under scrutiny (Nance 1983). Readers interested in evaluating these surveys should consult the relevant specialized literature (for recent discussions, see McManamon 1984; Wobst 1983; Connolly and Baxter 1983; Nance and Ball 1986; Lightfoot 1986).
+
+
+
+
+
+Surveys making explicit use of probability sampling and the pedestrian tactic (as defined by Mueller 1974) are now a common feature of the archaeological scene since Binford (1964) called for their adoption in regional studies (Ammerman 1981). The literature on probabilistic sampling in archaeological survey is substantial, uneven, and difficult (for introductions, see Ragir 1972; Rathje and Schiffer 1982; Redman 1974; Plog
+
+
+
+
+
+Page 351
+
+
+
+
+
+et al. 1978; Schiffer et al. 1978). For an incisive synthesis from a statistical standpoint, consult Nance (1983); I shall not delve into the statistical issues. Instead, I will address several strategic issues concerning, generally, the kinds of shortcomings inherent in descriptions of the archaeological record based on probability sampling.
+
+
+
+
+
+The archaeologist designing a probability sample survey must make a host of decisions that affect the degree to which the discovered sites will adequately reflect the archaeological resource base. Among the most important decisions are sample size (the number of survey units), sample unit size and shape, and type of sampling procedure (e.g., stratified or simple random sampling). These decisions are influenced by many variables, including (1) target parameters (characteristics of the resource base that are to be estimated from survey data), (2) the desired precision of parameter estimates, (3) known characteristics of the resource base, (4) logistical considerations such as landholding patterns, (5) resources available for conducting the survey, and (6) principles of recovery theory and statistical sampling theory. In all cases, these variables pull specific decisions in different directions, making the final choice a difficult compromise (Schiffer and House 1977d; Schiffer et al. 1978).
+
+
+
+
+
+The complexity of these decisions is illustrated by the choice of unit shape. Two shapes are commonly employed in regional surveys: quadrats (squares) and transects (ribbon-shaped units), and each shape has advantages and disadvantages that affect their suitability for use under different conditions. For example, while quadrats facilitate an appreciation for the kinds of artifacts and sites that tend to occur together, transectsespecially if placed across the grain of environmental variability provide good information on the association of sites and environmental phenomena. Transects have a bias in that they discover more sites than would be expected for their area (Plog et al. 1978:401); this comes about because of edge effects (Plog et al. 1978; Schiffer et al. 1978; Nance 1983), the greater ratio of perimeter to area in transects. The degree of "overdiscovery" also varies directly with obtrusiveness: larger sites are more overrepresented than small ones. Because transects afford a significant bonus in site discovery they are chosen for many surveys, particularly if the study area has a very heterogeneous archaeological resource base. Nevertheless, like most other survey decisions, every decision on unit shape requires tradeoffs.
+
+
+
+
+
+When surveys are completed and the reports published, other archaeologists, using the same principles employed in designing surveys, must examine the effects that each decision has had on the reported characteristics of the resource base. If there was a small sample size, then the probability of poor estimates is great. If transects were used, then one must take into account the degree of overdiscovery, especially of large
+
+
+
+
+
+Page 352
+
+
+
+
+
+sites. If simple random sampling was used, then some large clusters of sites were probably not found.
+
+
+
+
+
+Regardless of how well a probability sample survey has been designed, one major defect always inheres in the results: rare types of sites are not reliably discovered. Regrettably, every study area contains rare sites that are usually quite important for understanding occupational history and for reconstructing settlement systems. The probability of finding a unique site or an example of a rare type of site on sample surveys is so low that archaeologists must turn to other, less statistically elegant techniques to find them. Examples of appropriate techniques include questioning of local informants; scrutiny of existing site records; study of aerial photographs; checking of localized resource areas, such as springs and outcrops of chippable stone; and thoroughly searching major clusters of sites intercepted by survey units (Schiffer et al. 1978; Schiffer and Wells 1982). Unless such techniques have been employed as an adjunct to probability sampling, one must view the results of a sampling survey with considerable skepticism. Probability sampling by itself cannot provide a well-rounded view of the archaeological resource base.
+
+
+
+
+
+An example of this problem is provided by the 1968 probability-sample survey of portions of the Hay Hollow Valley (Plog 1974). Two blocks of 10 mi2 each were placed in the Hay Hollow Valley, one to the east and one to the west of the 5.2 mi2 area that was completely covered in 1967. A 25 percent sample was surveyed in each block at relatively high intensity. On the basis of the sites discovered in these units, Plog (1974:93) constructed population curves for the two blocks and combined them with other information in order to produce a summary of demographic change in the Hay Hollow Valley from about A.D. 200 to 1450. Although he apparently included sites incidentally found in the survey blocks outside the sample units, Plog did not make use of other lines of evidence in order to find rare, large sites that might have had a bearing on the demographic inferences. In most regions, small numbers of large sites with their abundant remains of dwellings exert a disproportionate influence on the shape of population curves. The Hay Hollow Valley is no exception to this pattern (Zubrow 1975). Not only do the curves at some points in time consist of habitation rooms from just a few sites, but overall the number of habitation units making up the curves is small, even at periods of apparent maximum population. For example, in the east block the maximum number of inhabited dwelling units, 37, occurs at A.D. 1050-1100. If undiscovered large sites differ in occupation period from those that were found, then the shape of the true population curves could be quite different from Plog's versions. In short, if one is attempting to make regional demographic inferences at a high level of reliability, it is essential to find all large sites.
+
+
+
+
+
+Page 353
+
+
+
+
+
+A more telling example of the shortcomings of probability sampling in regional survey comes from contract archaeology, where a failure to find important rare sites often has drastic practical consequences. The Central Arizona Project has spawned a great many contract surveys in southern Arizona, including surveys in very poorly known regions (Rogge 1983). One such area lying north of Tucson was surveyed in advance of aqueduct construction. The archaeologists properly adopted a regional perspective, since the precise location of the proposed aqueduct had not been chosen, and administered a probability sample survey in the 241 mi2 area that would encompass all possible impact zones. The survey consisted of 110 40-acre quadrats as well as 1800 additional acres selected purposively, for a total of 9.7 mi2 (Rogge 1983:343). The $63,000 project, which covered .4 percent of the study area, discovered 30 sites including those encountered in transit to survey units. Regrettably, the investigators did not seek other lines of evidence, readily available, on some of the rare, large, and significant sites in the area. Subsequent survey of the aqueduct path encountered an enormous Classic Hohokam complex, a discovery that understandably caused consternation at the Bureau of Reclamation because of the unexpectedly large mitigation costs it entailed. This surprise was unnecessary. Not only does the site complex appear on aerial photographs, but it had already been recorded by Ellsworth Huntington about seven decades earlier (Paul Fish, personal communication, 1983). I hasten to add that this project is not an aberrant case in the annals of contract archaeology.
+
+
+
+
+
+An understanding of the nature and effects of the basic differences in survey activities permits one to evaluate and compare the results of specific projects. For example, are differences in reported site density a real archaeological phenomenon or do they result from differences in survey intensity? Do differences in the ratio of large to small sites result from differences in intensity or from sample unit size and shape? Does an absence of large sites in a probability sample survey indicate a lack of such sites in the region or a failure to consult other lines of evidence? In short, the archaeologist's behavior contributes to the properties of the reported site sample, and these recovery factors must be evaluated before one can confidently make claims about the nature of the archaeological record in a study area.
+
+
+
+
+
+Surface Collections
+
+
+
+
+
+After discovery on survey, sites are frequently surface collected. The procedures of surface collection vary widely, and their effects on the reported archaeological record and on the site itself are poorly studied. Increasingly, surface collection techniques involve some use of probability sampling; thus, much of the preceding discussions on probability sam-
+
+
+
+
+
+Page 354
+
+
+
+
+
+pling, especially its shortcomings, also apply at an intrasite level. In particular, sample size affects parameter estimation (Nance and Ball 1981). That is, the larger the sample, the more kinds of artifacts it will include. Thus, small samples will underestimate the complexity of the site's occupational history because artifacts diagnostic of particular culture-historical units will be lacking in the surface collection (Goodyear et al. 1979:60-63). Upon excavationthe retrieval of a large artifact sample new components are often found. For example, surface collections from the Windy Ridge site in South Carolina indicated a two-component occupation; excavations revealed six new components (House and Wogaman 1978).
+
+
+
+
+
+Before the era of probability sampling, the behavior of archaeologists was not unlike that of hobbyist collectors; goodies, which often provide temporal information, were preferentially collected. With the advent of seriation and its widespread application to surface collections, however, the need to secure more representative samples, particularly of pottery types, was appreciated early. For example, the manual for sherd surveys carried out in late 1920s and early 1930s by Gila Pueblo in the Southwest required that pottery types be collected in proportion to their occurrence on the surface of sites (Gladwin and Gladwin 1928). Moreover, recognizing the culture-historical value of rare types, these archaeologists secured a separate surface collection of goodies. Although probability sampling, per se, was not employed, this mixed surface-collection strategy was quite enlightened for its time (Redman 1974). For unknown reasons, the need to obtain judgmental or purposive samples to insure representation of rare items having diagnostic value has not been widely enough appreciated in recent years.
+
+
+
+
+
+The effects on the archaeological record of either extreme in collecting practicesall goodies or only probability samplingare reasonably clear. As noted above, persistent and repeated collecting of goodies leads to an impoverished and homogenized archaeological record. Many sites have been repeatedly collected by generations of archaeologists, and so exhibit on the surface today a paucity of goodies. Thus, surface collections made at different times from the same site can exhibit marked variability in the prevalence of goodies.
+
+
+
+
+
+Probability samples (or systematic samples) have a less drastic effect on the surface of sites. Probability sampling is often avoided, however, because its use would require the placement of many independent units, which is costly in field effort. A frequent strategy is to place transects across the site, collecting everything that falls within their boundaries. On very homogeneous sites, such a strategy probably furnishes an acceptable sample of abundant artifacts. If materials on the surface are highly clustered or differentially distributed, however, then transects or
+
+
+
+
+
+Page 355
+
+
+
+
+
+other strategies with low sample sizes (a single transect has a sample size of one), are apt to provide misleading information.
+
+
+
+
+
+All surface collection strategies are biased against the recovery of very small artifacts, for reasons discussed by Schiffer and Wells (1982:371). Thus, in repeated collections from the same site, the ratio of large to small artifacts will drop (Ammerman and Feldman 1978), but perhaps not over very short time periods (Riordan 1982). The sometimes extreme size-effects of surface collections require the archaeologist to exercise much care when making comparisons, especially between surface-collected and excavated samples.
+
+
+
+
+
+Excavation and Analysis
+
+
+
+
+
+Needless to say, the literature on archaeological excavation, the next stage in the archaeological process, is huge. (For introductions to the procedures of archaeological excavation, see Hester et al. 1975; Barker 1977; Dancey 1981; Joukowsky 1980). Even so, there is a limited number of pages devoted to assessing the effects of diverse strategies and tactics on the recovered archaeological record; and the roster of works dealing with fundamental topics like intrasite sampling is embarrassingly short. The present study cannot remedy these deficiencies, and so will concentrate on reviewing, in very general terms, some of the areas where work has been done and on calling attention to areas where work is still needed.
+
+
+
+
+
+Intrasite Sampling
+
+
+
+
+
+Probably the greatest and most far-reaching effects on the recovered archaeological record stem from the decisions archaeologists make about where to place excavation units. The difficulties of intrasite sampling are quite severe and have been understood intuitively for many years. Indeed, at some times and in some places, archaeologists simply insist on digging entire sites: ''It has long been recognized that a site should be excavated as a whole'' (Reisner et al. 1924:34), although in practice this ideal is seldom realized.
+
+
+
+
+
+The problems of sampling encountered in survey and surface collecting are exacerbated in intrasite sampling. Often, the artifacts and deposits most important for one's research questions are both rare and highly clustered. This becomes readily apparent when one consults the reports of extensively excavated sites. For example, at the large Hohokam site of Snaketown, more than 200 pithouses were excavated (Haury 1976). Of these, only about 5 percent contain substantial quantities of de facto refuse (Seymour and Schiffer 1987); yet, it is among these rare houses that crucial evidence was obtained for chronology building (see Chapter 11). Moreover, cremations as well as manufacturing loci for ceramic and
+
+
+
+
+
+Page 356
+
+
+
+
+
+shell artifacts are rare and clustered (Haury 1976; Seymour and Schiffer 1987). Had only limited excavations been carried out at Snaketown, the archaeological record of that site would have failed to include some of its most interesting and important deposits.
+
+
+
+
+
+Because of the need to find rare and clustered items and deposits, the archaeologist cannot rely on probability sampling alone. The "trick" of successful intrasite sampling is to use local expertise about formation processes in conjunction with various mixes of prospection technology and testing to raise the probabilities of discovering the deposits of interest, usually in several stages (see Reid, Schiffer, and Neff 1975; Rathje and Schiffer 1982). Because all excavation projects set forth inferences that are based on data recovered from intrasite sampling, one must necessarily consider how successfully the sampling program obtained the required data, particularly from rare or clustered artifacts and deposits.
+
+
+
+
+
+Negative Evidence
+
+
+
+
+
+The major flaw in inferential arguments based on excavated data is the assumption, always implicit, that the absence of evidence is evidence for absence. Stone (1981) provides a thoughtful introduction to the problem of negative evidence. To use the absence of an artifact type in the recovered inventorythe assemblageto indicate the absence of a past behavior is usually fallacious, because the reported absence could have been causedand in many instances was causedby recovery processes. Inferences about diet based on charred plant materials provide a good example (see Miksicek n.d.).
+
+
+
+
+
+Cooking practices in prehistoric Southwestern settlements made the probability of charring beans quite low. As a result, one might expect that beans would be rare even in sites where they contributed integrally to the diet. Indeed, they are not reported from a great many archaeological sites, and on that basis it is often concluded, incorrectly, that beans were not a part of the diet. In order to recover beans the archaeologist must carry out an extensive program of flotation of the most likely depositssecondary refuse and primary refuse in the vicinity of hearths. In the absence of such an effort, the lack of recovered beans cannot be used as evidence for lack of beans in the diet.
+
+
+
+
+
+The obverse of the negative evidence problem occurs when a rare item or feature is found at a site. For example, at the Joint site (Hanson and Schiffer 1975), the excavators found a type of kiva previously unreported in the area. Entirely subterranean, it was discovered in an extramural area by an extensive series of backhoe trenches. The question is, should the excavators of the Joint site regard this kiva as unique? To make such a claim, they would have to assume that the extramural areas of similar excavated pueblos had been trenched with comparable thoroughness.
+
+
+
+
+
+Page 357
+
+
+
+
+
+Regrettably, even today, extramural areas of moderate-to-large-sized pueblos are only sampled cursorily, if at all; consequently, the total sample of reported extramural kivas from such sites is small. As a result, the investigators of the Joint site are not justified in claiming that this structure was unique. It is a unique find so far, but whether it was unique in the past is not yet known.
+
+
+
+
+
+These examples are hardly extreme. Indeed, invalid arguments from negative evidence, generated by the vagaries of intrasite sampling, permeate the archaeological literature in a multitude of subtle forms. For a variety of purposes, archaeologists make comparisons between site assemblages: cultural historians compared trait-lists, and new archaeologists compare variability in toolkits and design elements. In every intersite comparison, presences and absences of rare artifact types influence the results. It is now becoming widely appreciated that the most important variable that influences the number of different artifact types present in an assemblagei.e., richness (Kintigh 1984)is sample size. For example, several abandoned rooms were used at the Joint site for trash disposal. Total sherds in these secondary refuse areas varied from 158 to 3354. If only the former room had been excavated, a mere 18 pottery types would have been recovered; in the latter case, excavation would have yielded 30 different pottery types. Although sample size is usually the most important determinant of richness, other variables are also influential, including behavioral variability and, often, uncontrolled variability in formation processes. Kintigh (1984) has developed a simulation approach for detecting when richness is more or less than that expected on the basis of sample size and the overall frequency distribution of the artifact types (see Chapter 12).
+
+
+
+
+
+Recovery Techniques
+
+
+
+
+
+The operations performed on assemblages in the field and laboratory also introduce variability into the archaeological record. Different techniques of excavation give rise to vastly different collections and descriptions. To appreciate the magnitude of these effects, one need only compare early reports with those of recent times from the same or a similar site. At Tabun, for example, Garrod and Bate (1937), using gross recovery techniques, produced an assemblage consisting mainly of the larger finished lithic tools. In contrast, Jelinek's recent and more meticulous work (Jelinek et al. 1973) resulted in a debitage-laden collection that better represents the archaeological record of this important site.
+
+
+
+
+
+Sometimes the effects of recovery techniques are more subtle. For example, at the Derossitt site in Arkansas, Spears (1978) compared areas where exposure of features was by hand with areas that had been mechanically scraped. She found that pits discovered by mechanical scraping
+
+
+
+
+
+Page 358
+
+
+
+
+
+were more homogeneous in profile because their upper portions had been truncated, reducing the variability that could be seen in that part of manually discovered pits.
+
+
+
+
+
+The decision whether or not to screen also has tangible effects on the archaeological record. Lack of screening causes a great loss of materials, especially smaller animal bones, that can severely bias one's reconstructions (Payne 1972). Watson (1972) suggests a method for correcting counts from unscreened deposits based on regularities in the frequency distribution of bone fragment sizes. As is well known, screens of varying mesh size produce differences in recovery rates. Larger mesh sizes (ca. .25-.5 inch) lead to low recovery rates for very small artifacts, such as lithic debitage, beads, seeds, and animal bone, and thereby introduce an appreciable size bias into the archaeological record. However, because very small artifacts are usually abundant, one can devise cost-effective sampling strategies that produce acceptable results. For example, relatively small amounts of sediment from a unit are thoroughly treated with fine-mesh screen, and the remainder of the deposit is screened normally (see Hester et al. 1975).
+
+
+
+
+
+Although the use of fine-grained, high-yield recovery techniques is becoming more widespread, many operate in biased ways that are as yet poorly studied. For example, flotation at in the Middle East increased by many orders of magnitude the yield of charred and uncharred plant parts, but led to lower recovery of friable glass beads, fragmented by the agitation (Williams 1973). Using tracer seeds, Wagner (1982) found that different flotation machines vary in overall recovery rates from 6 to 98 percent. Experiments are also needed to identify the variables that determine whether or not particular seeds will float and to discern possible size-sorting effects. No recovery technique operates without bias; any that appear to simply have not been studied sufficiently.
+
+
+
+
+
+The handling of artifacts leads to well known and predictable patterns of artifact damage, such as "excavation retouch." There are few studies of such processes, but through anecdote and personal experience archaeologists are aware of the major effects. For example, in deposits that are difficult to work, such as dry clay, vigorous use of shovels and picks proliferates sherds and adds microflakes to lithics. Unless adjustments are made in techniques, such as the employment of wet screening, recovery rates can sometimes fall to quite low levels.
+
+
+
+
+
+The provenience labels we place on bags of artifacts in the field also introduce variability into the archaeological record. There is an endless variety of provenience systems in use, each tied into local, regional, and institutional traditions of excavation practice. In the American Southwest, the presence of reasonably well-preserved structures, pithouses and pueblos, and a plethora of handsome artifactssometimes as de facto
+
+
+
+
+
+Page 359
+
+
+
+
+
+refusehave left a large imprint on recovery processes, provenience designation, and, ultimately, our inferences of past behavior. Southwesternists from the earliest days have regarded individual structures as a specialized container, the bottom of which holds the artifacts of most interest. The pervasive distinction between the "fill" and "floor" of structures stems from this view and strongly colors our interpretations based on artifacts from each provenience. "Floor'' artifacts are those thought to be associated (in some vague sense) with the use of the structure, whereas "fill" artifacts postdate the structure and are of little value. Provenience concepts such as these also determine excavation and recording procedures: fills are rapidly removed (sometimes by backhoe), often without benefit of screening, whereas floors are carefully troweled and in-place artifacts are recorded by point provenience. Discussions throughout this volume (especially Chapters 10 and 12) indicate that one cannot treat such proveniences as having much relevance to understanding the formation processes of structures. Often, some sherds from a restorable pot deposited as de facto refuse on the floor were thrown out with the fill dirt, whereas others were point-provenienced on the floor. Similarly, artifacts of secondary refuse discarded in abandoned rooms may be divided into fill and floor proveniences, with the latter arbitrarily receiving special treatment. Clearly, in attempting to use evidence from previous excavations, one must investigate the provenience system that was employed. Frequently one must also examine the artifacts themselves in order to undertake a thorough evaluation of the formation processes of the deposits.
+
+
+
+
+
+Artifact Processing and Curation
+
+
+
+
+
+Washing and handling artifacts can remove previous traces and introduce new ones. Enthusiastic scrubbing of fragile sherds wears away painted designs and slips and introduces abrasion. On restored pots one can find apparent abrasive "wear" patterns that change directions as one moves from sherd to sherd. As is now known, meticulous cleaning of lithic artifacts removes plant and animal residues that can provide important information on tool use (see, e.g., Brieur 1976; Loy 1983; Shafer and Holloway 1979). In a recent development, Bernard-Shaw (1983) reported that unwashed slate knives from open-air Hohokam sites yield potentially identifiable, prehistoric plant crystals. In the future, it is likely that archaeologists will routinely save samples of unwashed artifacts for specialized analyses.
+
+
+
+
+
+The degree to which artifact reassembly takes place in the laboratory causes more subtle yet far-reaching variability in the archaeological record. Archaeologists customarily strive to restore ceramic vessels, particularly if the sherds from a pot occur in the same recovery unit; almost
+
+
+
+
+
+Page 360
+
+
+
+
+
+every site report contains lists and photographs of restored pots. Regrettably, in nearly all site reportsin the Southwest and elsewhererestored pots are described without information on how diligently they were sought and by what procedures. As a result, one must exercise considerable caution when using restored vessels as evidence of formation processes and of past behaviors of interest (see Chapter 12). Additional lines of evidence must be employed to evaluate the possibility that other restorable pots were missed.
+
+
+
+
+
+It should be noted that traditional provenience concepts work against the recognition of restorable vessels in "noncritical" proveniences, such as room fills. In many societies, ceramic vessels are in some manner held above the floor on supports, shelves, or pegs (e.g., see the pictures in Wauchope 1938). Pots can also be suspended from the wall or ceiling by nets or ropes, much as we use macramé hangers today. In addition, pottery can be used on roofs or in upper stories that left little trace. Sherds from vessels left as de facto refuse in those situations will, of course, come to rest mostly in structure fill. Not expecting restorable vessels in fill proveniences, the archaeologist is apt to devote little attention to matching sherds from different parts of the fill. In the Broken K analysis (Chapter 12; Schiffer n.d.b.), I hypothesized the existence of several restorable bowls of St. Johns Polychrome in room fills; perhaps they were abandoned in the rooms, supported or suspended above the floors. In the future, rigorous procedures for restoring ceramic vessels should be applied consistently to all proveniences. We cannot help but learn something interesting when the remains of whole vessels are found in places where they are least expected.
+
+
+
+
+
+Processes of artifact curation and museum storage also are a source of great variability and must be understood when old collections are restudied (Cantwell et al. 1981). Sometimes, only goodies or artifacts in "critical" proveniences were returned from the field. At the abandoned camp of the Field Museum of Natural History's Southwestern Expedition in the Reserve area of New Mexico, used for several decades until 1956, one can still see a prominent dump, where most of the mundane sherds reentered archaeological context. Even when artifacts are returned to museums, they are subject to gradual attrition processes, including theft and loss, and seemingly chaotic curation and storage practices (Spears 1978). For many years, museums customarily traded artifacts among themselves to fill areal and temporal gaps in their collections (for some horror stories, see Griffin 1981); today, when one studies the remnants of these site assemblages, new gapsoften unexplainedshow up. In many museums, artifacts are not stored by assemblage, but by material type and size, and so the restudy of an assemblage frequently requires a new excavationin dozens or even hundreds of locations within a museum
+
+
+
+
+
+Page 361
+
+
+
+
+
+(e.g., the pot room, the perishables cabinet, and items on display). After reassembling a site's artifact collection and documentation, one usually discovers missing and recently damaged specimens. Despite the obstacles that hinder restudy of old assemblages, the effort is usually worthwhile, for the application of modern techniques and principles of analysis to old collections, even to poorly preserved ones, often leads to new and important insights (Cantwell et al. 1981).
+
+
+
+
+
+Quantitative Methods
+
+
+
+
+
+The effects of various quantitative methods on the perception of "patterns" are the subject of not a few publications. This topic and its abstruse literature are beyond the scope of the present work; suffice it to say that many purported patterns or their lack are simply artifacts of our statistical procedures (Speth and Johnson 1976). For some recent reviews, the reader should consult Clarke (1982), Carr (1984, 1985), Thomas (1978), Orton (1980), Clarke and Chapman (1978) Grayson (1979, 1984).
+
+
+
+
+
+Quality Control
+
+
+
+
+
+A final topic is the quality and consistency of field and laboratory procedures. Despite its importance, "quality control" is not exactly a fashionable topic in archaeology. Indeed, Daniels's (1972) eloquent plea for studies and experiments in this area has gone almost unheeded. The small literature is very dispersed and not readily generalized. A few studies, however, can indicate the sorts of problems that should be addressed in the future with greater vigor.
+
+
+
+
+
+Regarding survey data, Plog et al. (1978:413) ask: "how good are archaeologists as measuring instruments? How certain can we be that a significant part of the variability that we find between sites in an area is not a product of differences between individuals or crews in site recognition and definition?" These investigators carried out several experiments to evaluate the quality of survey data in the Black Mesa area. In one experiment, 12 sites recorded by a particular survey crew were revisited by the chief of another crew. This person was asked to redefine the site areas and was not told the original estimate. Plog et al. (1978:414) report the disquieting results: "The average size of the 12 sites as defined by the original crew was 2704 m2, whereas the average size of these sites as defined by the chief of crew number 2 was 1611 m2." In a second experiment, they attempted to relocate about 30 sites. They found that "some sites were located correctly, whereas others were over 200 m from their correct location" (Plog et al. 1978:415).
+
+
+
+
+
+In any excavation project, there is often great variability in basic skills from one person to the next: some backdirt piles are littered with artifacts,
+
+
+
+
+
+Page 362
+
+
+
+
+
+others are not; some notes are detailed and informative, others are cursory and muddled; some profiles are expertly drawn and interpreted, others are barely intelligible. Needless to say, a similar range of variability is to be expected in the overall degree of quality control exercised from excavation to excavation. Just how much variability is introduced into the archaeological record of excavated sites by individual differences remains to be investigated.
+
+
+
+
+
+In the laboratory, too, observations recorded on the same body of materials vary from person to person, as several experiments have shown. In one study, Tuggle (1970) found that individuals varied considerably in their recording of seemingly straightforward ceramic design elements. Fish (1978), in another investigation, asked four well-trained archaeologists individually to assign sherds in a collection from northern Arizona to the appropriate culture-historical types. He found that the fate of specific sherds differed from archaeologist to archaeologist with discrepancies ranging from 22 to 30 percent between observers. Nevertheless, after reanalyzing Fish's original data, Downum (1984) points out that all archaeologists described the overall composition of the sherd collection in a fairly consistent way. McGuire et al. (1982) carried out a study of individual variability in recording traces of use on flake tools. (For other studies, see Plog 1985; DeBoer 1980; Dibble and Bernard 1980.) Because most artifact typologies and attribute definitions contain some degree of ambiguity, a certain level of individual variability will always be present in their application. In the classification of chipped stone artifacts from the Joint site, the analyst subjectively estimated the magnitude of "misassignment errors" that afflicted each type; for each of the latter, a list of "contaminating" types was provided (Schiffer 1976a:123-124).
+
+
+
+
+
+An even more disconcerting source of variability was documented by Fish (1978), who found that attribute measurements made on stone tools by the same analyst could vary through time.
+
+
+
+
+
+Conclusion
+
+
+
+
+
+The present discussion has highlighted a number of ways that the archaeological process, from using extant site records to applying artifact typologies, contributes directly to variability in the archaeological record. At present, the magnitude of such effects as well as their causes and appropriate remedies have scarcely been approached. Nevertheless, these concerns can no longer be held in abeyance, as evidence from the archaeological record is required to support an inferential superstructure of ever-greater weight.
+
+
+
+
+
+The behavior of the archaeologist is the greatest source of variability in the archaeological record. It is the archaeologist who determines what is
+
+
+
+
+
+Page 363
+
+
+
+
+
+found and what is not, what is saved and what is not, what is counted and what is not, and what is reported and what is not. Above all, it is the archaeologist who may or may not strive to identifyand ascertain the influence ofother formation processes.
+
+
+
+
+
+The final section of this book has demonstrated that inferences cannot be established until the variability introduced by all relevant formation processes is assessed and taken into account. In the case of the Hohokam chronology, wood decay processes lead to specimens of varying ages that do not directly provide information about past cultural events, such as the beginning date of a phase. Moreover, dated specimens occur in deposits created by diverse formation processes, and only some of these deposits can furnish temporal information of high resolution. Nevertheless, an understanding of the gross formation processes of the specimens and the deposits that yielded them has laid a foundation for sound chronological inference. Similarly, review of the Broken K study has shown that the formation processes of the ceramic artifacts from this famous site are poorly known. The present study suggests that those pueblo rooms contained less secondary refuse and more de facto refuse than was previously suspected. If the "missed" pot hypothesis is confirmed by pottery refitting, then we will finally succeed in explaining the results of Hill's factor analyses and, more importantly, call attention to the potential for carrying out a host of new studies of past behavior at Broken K. In any event, no one can again reanalyze that important data set without resolving the questions about formation processes that have been raised in Chapter 12.
+
+
+
+
+
+The rigorous treatment of formation processes in inference, in the manner proposed in this book, has scarcely begun. To the extent that archaeologists dealt capably with formation processesand some did in some studiestheir inferences might be correct. In most instances, however, formation processes have not been treated explicitly, and so one cannot readily render a judgment about the validity of those inferences. A large task looms ahead, that of reevaluating all previous inferences with respect to how well formation processes have been understood and taken into account.
+
+
+
+
+
+Fortunately, future investigations need not suffer from these uncertainties because ethnoarchaeology, experimental archaeology, historical archaeology, geoarchaeology, vertebrate taphonomy, and other fields have begun to supply relevant general principles. Many of these principles as well as related theoretical formulations have been assembled in Chapters 1-9 of the present work. In addition, Chapters 10-12 demonstrate that these principles can be applied in a practical manner to solve research problems. Chapter 13 has also shown that the behavior of archaeologists is governed by regularities that must inform the inferential process. A
+
+
+
+
+
+Page 364
+
+
+
+
+
+great deal of basic research on formation processes is still needed, but enough is now known to make it possible for the thorough treatment of formation processes to become a routine part of every study.
+
+
+
+
+
+In the opening lines of this book it was suggested that archaeologists do not need a time machine, for the past comes to us. Although objects do survive into the present, their subsequent transformation into knowledge of the pastas well-founded inferencesdoes require a time machine. The real time machine, then, is the archaeological process: the principles and procedures that we as scientists apply to material traces in the historical and archaeological records. If we desire to obtain views of the past that are closer to reality than those created by writers of science fiction, then we must build into our time machine a thorough understanding of formation processes.
+
+
+
+
+
+Page 365
+
+
+
+
+
