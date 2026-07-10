@@ -1,6 +1,9 @@
 # Source collection — large binaries (PDF/epub/djvu); not versioned
 raw/
 
+# Ingest caches / session scratch (OCR slices, claims dumps)
+scratchpad/
+
 # Python
 __pycache__/
 *.py[cod]
