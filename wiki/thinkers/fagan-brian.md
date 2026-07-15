@@ -7,10 +7,10 @@ era: [contemporary]
 affiliated_theories: ["[[unknown]]"]
 trained_under: [[[clark-grahame]]]
 trained: ["[[unknown]]"]
-key_works: ["[[fagan-great-journey-1987|The Great Journey (1987/2004)]]", "The Rape of the Nile (1975)", "People of the Earth (textbook)", "World Prehistory (textbook)"]
+key_works: ["[[fagan-great-journey-1987|The Great Journey (1987/2004)]]", "[[fagan-ancient-north-america-1991|Ancient North America (1991)]]", "The Rape of the Nile (1975)", "[[fagan-durrani-people-of-the-earth-2022|People of the Earth (16th ed. 2022, with Nadia Durrani)]]", "World Prehistory (textbook)"]
 key_concepts: ["[[unknown]]"]
 fieldwork_sites: ["Central Africa (Iron Age, Zambia, 1959–1965)"]
-sources_ingested: 1
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [thinker, archaeology]
 ---
@@ -56,4 +56,10 @@ literature. *(Fagan-grounded detail added during integration.)*
 
 ## Historiography
 
-*(To be enriched from the source during integration.)*
+Fagan's *[[fagan-ancient-north-america-1991|Ancient North America]]* (1st ed. 1991) is his
+continental regional survey — for two decades a standard English-language textbook of the
+archaeology of the Americas north of Mexico, organized culture-area by culture-area from first
+settlement to European contact. Like *The Great Journey*, its peopling chapters are a pre-1997,
+pre-ancient-genome, Clovis-first-era document; its enduring value in this wiki is the regional coverage of
+the Arctic, Northwest Coast, Great Basin, Plains, California, and Southwest that other ingested
+sources leave thin. See [[fagan-ancient-north-america-1991]] for the reliability framing.

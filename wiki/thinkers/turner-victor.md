@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["[[turner-forest-of-symbols-1967|The Forest of Symbols (1967)]]", "[[turner-ritual-process-1969|The Ritual Process (1969)]]", "Schism and Continuity in an African Society (1957)", "Dramas, Fields, and Metaphors (1974)"]
 key_concepts: ["[[liminality]]", "[[communitas]]", "[[dominant-symbol]]", "[[social-drama]]", "[[rites-of-passage]]", "[[symbolic-exegesis]]"]
 fieldwork_sites: ["Ndembu, Mwinilunga District, Northwestern Zambia (then Northern Rhodesia), 1950–1954"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-11
 tags: [thinker, anthropology]
 ---
 
@@ -87,6 +87,10 @@ through both his scholarship and his life.
   another people's symbols — the very move (Turner's *positional* level) on which his method
   rests.
 - **Rosaldo (attributed).** In *[[rosaldo-culture-truth-1993|Culture and Truth]]* (1989) [[rosaldo-renato|Renato Rosaldo]] credited Turner's social-drama/case-history method with advancing processual analysis but argued his Ndembu conclusions subordinated the human process his own material dramatized to structural "control mechanisms," and that the four-phase social-drama model was imposed without reference to Ndembu narrative conceptions.
+
+## Clifford's reading (*The Predicament of Culture*, 1988)
+
+*(Attributed — [[clifford-james|James Clifford]], in [[clifford-predicament-of-culture-1988|The Predicament of Culture]], Ch. 1.)* Clifford treats Turner's Ndembu ethnography as an unusually **polyphonic** case among the four modes of [[ethnographic-authority]] he distinguishes (experiential, interpretive, dialogical, polyphonic) — built openly from quotation and sometimes attributing interpretations directly to named informants. His test case is the "Muchona the Hornet, Interpreter of Religion" portrait in *[[turner-forest-of-symbols-1967|The Forest of Symbols]]* (1967, pp. 131–150): Turner's collaboration with the ritual healer Muchona also involved a third party, Windson Kashinakaji, a Ndembu mission-school teacher and translator, whom Turner's published essay largely edits out — reducing a three-way "trialogue" to a dyadic informant portrait. Clifford argues this editorial smoothing shows even Turner's relatively open method still collapses distinct indigenous voices into an interchangeable "informant," short of the fully autonomous multi-voicedness ([[polyphony-in-ethnography]]) that Bakhtinian polyphony would require — which Clifford treats as remaining a "utopian" limit for any single-authored ethnography.
 
 ## Historiography
 

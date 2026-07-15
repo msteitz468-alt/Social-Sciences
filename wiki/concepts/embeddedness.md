@@ -7,9 +7,9 @@ disciplines: [sociology, anthropology, economics]
 emic_or_etic: etic
 operationalized_as: "Not quantified; a structural claim about whether economic transactions are governed by, or separated from, social relations and institutions"
 contested: yes
-related_concepts: ["[[forms-of-integration]]", "[[self-regulating-market]]", "[[fictitious-commodities]]", "[[substantivism]]", "[[non-contractual-elements-of-contract]]", "[[social-exchange]]", "[[multiple-monies]]", "[[earmarking]]", "[[relational-work]]", "[[strategic-action-field]]", "[[organizational-embeddedness]]"]
-sources_ingested: 4
-last_updated: 2026-07-09
+related_concepts: ["[[forms-of-integration]]", "[[self-regulating-market]]", "[[fictitious-commodities]]", "[[substantivism]]", "[[non-contractual-elements-of-contract]]", "[[social-exchange]]", "[[multiple-monies]]", "[[earmarking]]", "[[relational-work]]", "[[strategic-action-field]]", "[[organizational-embeddedness]]", "[[personal-contacts]]", "[[new-economic-sociology]]", "[[strength-of-weak-ties]]"]
+sources_ingested: 6
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -27,7 +27,8 @@ The economy, in other words, is **embedded** in — a function of — kinship, r
 |---|---|
 | Polanyi, *The Great Transformation* (1944) | The economy submerged in social relations; market society as the great inversion |
 | Polanyi, *Trade and Market* (1957) | "The economy as instituted process" — the analytic development of the same idea |
-| Mark Granovetter, "Economic Action and Social Structure" (1985) | Embeddedness of economic action in **networks of interpersonal relations** — the founding concept of the *new economic sociology*; a narrower, relational sense than Polanyi's institutional one |
+| Mark Granovetter, "Economic Action and Social Structure" (1985; ingested [[granovetter-embeddedness-1985]]) | Embeddedness of economic action in **networks of interpersonal relations** — "behavior and institutions… so constrained by ongoing social relations that to construe them as independent is a grievous misunderstanding"; founding concept of the *[[new-economic-sociology|new economic sociology]]*; a narrower, relational sense than Polanyi's institutional one. Middle path: less embeddedness in nonmarket societies than substantivists claim, *more* than formalists/economists allow, and less change with modernization than the majority break narrative |
+| Granovetter, *Getting a Job* (1974; Ch. 1 climax) | Job-finding "heavily embedded in other social processes" — empirical labor-market precursor to the 1985 theoretical charter |
 | Fred Block ("always embedded"), 1990s–2000s | The self-regulating market is *always* a utopian project; the economy is never fully disembedded |
 | Zelizer, *The Social Meaning of Money* (1994) and later program | Cultural/relational differentiation of monies ([[multiple-monies]], [[earmarking]], later [[relational-work]]) — economy's media themselves socially marked; kin to embeddedness without reducing to network structure alone |
 | Burt, *Structural Holes* (1992) | **"Strategic embedding"** — a narrower, action-theoretic sense: a specific [[tertius-gaudens|tertius]] *strategy* whereby a constrained player nests a constraint-generating relation inside a second, more controllable one (changing which governance regime rules it). Cites Granovetter 1985 but builds a strategy, not a descriptive claim about markets. See [[structural-holes]] |
@@ -38,14 +39,17 @@ Granovetter's revival shifted "embeddedness" from Polanyi's macro-historical, in
 
 ## Operationalizations
 
-Not measured directly; assessed structurally — whether transactions are governed by prices alone (disembedded) or by social obligation, status, and institution ([[forms-of-integration|reciprocity, redistribution, householding]]). Granovetter's version is operationalized through network structure (the relational context of economic ties).
+Not measured directly; assessed structurally — whether transactions are governed by prices alone (disembedded) or by social obligation, status, and institution ([[forms-of-integration|reciprocity, redistribution, householding]]). Granovetter's version is operationalized through network structure (the relational context of economic ties) — e.g. [[personal-contacts]] in labor markets ([[granovetter-getting-a-job-study]]), trust and malfeasance via ongoing relations rather than generalized morality or pure contracts (1985 essay).
 
 ## Applications
 
 The organizing premise of [[substantivism]] and of economic sociology; the ground for Polanyi's claim that a [[self-regulating-market|self-regulating market]] "demands the institutional separation of society into an economic and a political sphere"; and the analytic basis for the [[double-movement]] (society's protective reaction *is* the reassertion of embeddedness against the disembedding market). Kin to Durkheim's [[non-contractual-elements-of-contract|non-contractual elements of contract]] (the market rests on prior social solidarity) and to [[social-exchange|social-exchange]] accounts of obligation.
+
+**Granovetter 1985 program (attributed):** critique of under-socialized (neoclassical atomism) and over-socialized (Wrong/Parsons) action as *both* erasing ongoing relations; trust and order in markets produced mainly by networks of past dealings (not only contracts or generalized morality); malfeasance also enabled by the same trust; markets-and-hierarchies (Williamson) overstates org-form determination relative to relation structures; *Getting a Job* cited for interfirm mobility and spanning contacts transmitting employee information. See [[granovetter-embeddedness-1985]] · [[new-economic-sociology]].
 
 ## Critiques and Limitations
 
 - **The dualism problem.** The sharp embedded/disembedded contrast is the target of the formalist critique (see [[formalist-substantivist-debate]]): formalists argue *all* economies, market and non-market, involve economizing, so the contrast is overdrawn.
 - **Conceptual stretch.** After Granovetter, "embeddedness" came to mean so many things (social, cultural, political, cognitive, network) that critics (e.g., Krippner) charge it with vagueness.
 - **"Always embedded"** revisionists argue Polanyi's own logic undercuts a clean historical narrative of onetime disembedding — the market is never actually free of social institution.
+- **Content problem (Friedland & Alford 1991).** In [[institutional-logics|"Bringing Society Back In"]] (ch. 10 of [[powell-dimaggio-new-institutionalism-1991]]), [[friedland-roger|Friedland]] and [[alford-robert-r|Alford]] argue Granovetter's network version of embeddedness is necessary but insufficient: "social networks per se do not have any content and as such do not entail interests, values, [or] motives" — without specifying the institutional logic that gives a network its content, "it will be impossible to explain what kinds of social relations have what kind of effect" (attributed). Their position is that embeddedness needs to be supplemented by an account of which [[institutional-logics|institutional logic]] (market, state, family, religion, etc.) a given network instantiates.

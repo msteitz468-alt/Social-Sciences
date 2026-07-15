@@ -10,7 +10,7 @@ trained: ["[[unknown]]"]
 key_works: ["[[garfinkel-studies-ethnomethodology-1967|Studies in Ethnomethodology (1967)]]"]
 key_concepts: ["[[indexicality]]", "[[reflexivity-of-accounts]]", "[[accountability]]", "[[documentary-method-of-interpretation]]", "[[membership]]", "[[breaching-experiment]]", "[[etcetera-principle]]"]
 fieldwork_sites: ["[[unknown]]"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [thinker, sociology]
 ---
@@ -143,3 +143,13 @@ underlying rules as open-ended rather than formalizable into a finite generative
 (citing Cicourel 1970 for the parallel). Garfinkel's cross-disciplinary genealogy is
 widened in this chapter to include, beyond Schutz, later Wittgenstein, ordinary-language
 philosophy, and existentialist Marxism (Sartre).
+
+### Reception in the new institutionalism
+
+[[dimaggio-paul|DiMaggio]] and [[powell-walter-w|Powell]], in the introduction to
+[[powell-dimaggio-new-institutionalism-1991]], credit Garfinkel's ethnomethodology —
+together with [[berger-peter-l|Berger]] and [[luckmann-thomas|Luckmann]]'s phenomenology —
+as the microsociology underpinning [[new-institutionalism]]'s "theory of practical
+action" (attributed). They read Garfinkel's norms as functioning like cognitive-psychology
+"scripts" rather than Parsonsian values, and trace his influence, largely implicit,
+through the volume's other chapters.

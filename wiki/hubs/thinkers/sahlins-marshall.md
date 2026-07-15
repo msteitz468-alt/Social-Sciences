@@ -5,12 +5,12 @@ date_birth: "1930-12-27"
 date_death: "2021-04-05"
 date_precision: "exact"
 disciplines: ["anthropology", "economic-anthropology"]
-key_works: ["[[sahlins-stone-age-economics-1972|Stone Age Economics (1972)]]", "[[sahlins-culture-and-practical-reason-1976|Culture and Practical Reason (1976)]]", "[[sahlins-islands-of-history-1985|Islands of History (1985)]]"]
-key_concepts: ["[[original-affluent-society]]", "[[domestic-mode-of-production]]", "[[practical-reason]]", "[[cultural-reason]]", "[[la-pensee-bourgeoise]]", "[[structure-of-the-conjuncture]]", "[[mytho-praxis]]", "[[heroic-history]]", "[[stranger-king]]", "[[performative-and-prescriptive-structures]]"]
+key_works: ["[[sahlins-stone-age-economics-1972|Stone Age Economics (1972)]]", "[[sahlins-culture-and-practical-reason-1976|Culture and Practical Reason (1976)]]", "[[sahlins-islands-of-history-1985|Islands of History (1985)]]", "[[sahlins-what-kinship-is-2013|What Kinship Is—And Is Not (2013)]]"]
+key_concepts: ["[[original-affluent-society]]", "[[domestic-mode-of-production]]", "[[practical-reason]]", "[[cultural-reason]]", "[[la-pensee-bourgeoise]]", "[[structure-of-the-conjuncture]]", "[[mytho-praxis]]", "[[heroic-history]]", "[[stranger-king]]", "[[performative-and-prescriptive-structures]]", "[[mutuality-of-being]]"]
 fieldwork_sites: ["Moala, Fiji (1954–55)", "Turkey / comparative Pacific (archival)"]
-primary_sources: ["Stone Age Economics (1972)", "Culture and Practical Reason (1976)", "Historical Metaphors and Mythical Realities (1981)", "Islands of History (1985)", "How \"Natives\" Think (1995)"]
+primary_sources: ["Stone Age Economics (1972)", "Culture and Practical Reason (1976)", "Historical Metaphors and Mythical Realities (1981)", "Islands of History (1985)", "What Kinship Is—And Is Not (2013)", "How \"Natives\" Think (1995)"]
 key_sources: ["Obeyesekere, The Apotheosis of Captain Cook (1992)", "Sewell, Logics of History (2005), ch. 7"]
-last_updated: 2026-07-09
+last_updated: 2026-07-10
 tags: [hub, thinker-analysis]
 ---
 
@@ -18,7 +18,7 @@ tags: [hub, thinker-analysis]
 
 > Thinkers Hub deep analysis. The [[sahlins-marshall|summary page]] owns overview/contributions/genealogy/critiques/historiography at normal resolution; this page owns the depth. Reciprocal `thinker_page` points back to [[sahlins-marshall]].
 
-*Coverage note: this analysis rests on three primary-ingested works — *[[sahlins-stone-age-economics-1972|Stone Age Economics]]* (1972), *[[sahlins-culture-and-practical-reason-1976|Culture and Practical Reason]]* (1976, whose chapters 3–4 are partly missing from the ingested scan — see the source page), and *[[sahlins-islands-of-history-1985|Islands of History]]* (1985) — plus the wiki's secondhand coverage via [[sewell-logics-of-history-2005|Sewell]] and [[service-elman-r|Service]]. The pre-1972 evolutionary work and the post-1985 works (the Cook controversy books, *What Kinship Is*) are treated from standard scholarship, not primary ingestion, and flagged where so.*
+*Coverage note: this analysis rests on primary-ingested works including *[[sahlins-stone-age-economics-1972|Stone Age Economics]]* (1972), *[[sahlins-culture-and-practical-reason-1976|Culture and Practical Reason]]* (1976, whose chapters 3–4 are partly missing from the ingested scan — see the source page), *[[sahlins-historical-metaphors-1981|Historical Metaphors]]* (1981), *[[sahlins-islands-of-history-1985|Islands of History]]* (1985), and *[[sahlins-what-kinship-is-2013|What Kinship Is—And Is Not]]* (2013) — plus secondhand coverage via [[sewell-logics-of-history-2005|Sewell]] and [[service-elman-r|Service]]. The pre-1972 evolutionary work (*Social Stratification in Polynesia* 1958) and the Cook-controversy books remain outstanding for primary ingestion where not already covered via other sources.*
 
 ## Formation and Training
 
@@ -46,27 +46,28 @@ Rivals define him as much as teachers. Against **[[marx-karl|Marx]]** and the an
 
 **Phase 4 — Historical anthropology (1981–1995).** *Historical Metaphors and Mythical Realities* (1981) and *[[sahlins-islands-of-history-1985|Islands of History]]* (1985) set the symbolic order in motion, reconciling structure and event through the [[structure-of-the-conjuncture]], and running the argument through Captain Cook, Fiji, and the Maori. The Cook essay's own introduction states the theoretical stakes plainly: rejecting a bare empiricist reading of the fatal 1779 return to Kealakekua Bay (Cook's death has, he notes pointedly, also been explained by "intestinal parasites" — "the historical diagnosis recently offered by a prominent English physician"), Sahlins insists "an event is not simply a phenomenal happening... An event becomes such as it is interpreted. Only as it is appropriated in and through the cultural scheme does it acquire an historical significance." The chapter that follows the Makahiki reconstruction is titled, simply, "History, or Mytho-Praxis" — the label under which the Cook narrative is finally told as the working-out, in a real December and January, of the ritual calendar the earlier chapters establish. The phase closes defensively with *How "Natives" Think: About Captain Cook, For Example* (1995), the book-length reply to Obeyesekere.
 
-**Phase 5 — Late polemics and public intellectual (1993–2021).** *Waiting for Foucault* (a satirical pamphlet), *Apologies to Thucydides* (2004), *The Western Illusion of Human Nature* (2008), and *What Kinship Is—And Is Not* (2013). Politically, Sahlins helped invent the **anti-Vietnam-War "teach-in" at Michigan in 1965**, and in **2013 resigned from the National Academy of Sciences** in protest at the election of [[chagnon-napoleon|Napoleon Chagnon]] and at the Academy's ties to military-sponsored research — a coda that returns him to the ethics-of-representation stakes that the Cook controversy had made central.
+**Phase 5 — Late polemics, kinship ontology, and public intellectual (1993–2021).** *Waiting for Foucault* (a satirical pamphlet), *Apologies to Thucydides* (2004), *The Western Illusion of Human Nature* (2008), and — now primary-ingested — *[[sahlins-what-kinship-is-2013|What Kinship Is—And Is Not]]* (2013). The kinship book is the phase's theoretical center of gravity: [[mutuality-of-being]] as the definition of kinship; birth as metaphor of kinship (not reverse); kinship–gift–magic as one ontological regime (via [[viveiros-de-castro-eduardo|Viveiros de Castro]]); [[schneider-david-m|Schneider]] inverted rather than followed into dissolution. See [[kinship-biology-vs-culture-debate]]. Politically, Sahlins helped invent the **anti-Vietnam-War "teach-in" at Michigan in 1965**, and in **2013 resigned from the National Academy of Sciences** in protest at the election of [[chagnon-napoleon|Napoleon Chagnon]] and at the Academy's ties to military-sponsored research — a coda that returns him to the ethics-of-representation stakes that the Cook controversy had made central.
 
 ## Major Works and Their Moves
 
 | Work | Year | Move it makes | Reception |
 |---|---|---|---|
 | *Social Stratification in Polynesia* | 1958 | Comparative Polynesian political economy; redistribution scaled to rank | Founding contribution to Oceanic ethnology; cited by Service for chiefdom economy |
-| *Evolution and Culture* (with Service) | 1960 | Splits **general** from **specific** evolution, reconciling White and Steward | Adopted by Service as the spine of the [[band-tribe-chiefdom-model]] |
+| *[[sahlins-service-evolution-culture-1960|Evolution and Culture]]* (with Service) | 1960 | Splits **general** from **specific** evolution (dual aspects of one process; primary coining); joint Intro; SSRC by-product | Adopted by Service as the spine of the [[band-tribe-chiefdom-model]]; White Foreword equates specific≈multilinear |
 | *Moala* | 1962 | Fijian island ethnography (culture *and* nature) | The empirical seed later transformed in the [[stranger-king]] essay |
 | *[[sahlins-stone-age-economics-1972|Stone Age Economics]]* | 1972 | Economy as a category of culture; [[original-affluent-society]]; [[domestic-mode-of-production]] | Founding text of [[substantivism|substantivist]] economic anthropology; contested ([[original-affluent-society-debate]], [[kalahari-debate]]) |
 | *[[sahlins-culture-and-practical-reason-1976|Culture and Practical Reason]]* | 1976 | [[cultural-reason]] encompasses [[practical-reason]]; "[[la-pensee-bourgeoise]]" | The era's canonical culturalist manifesto against materialism/utilitarianism |
-| *Historical Metaphors and Mythical Realities* | 1981 | First statement of the Cook/Hawaii structural history | Launches the historical-anthropology program (not yet ingested here) |
+| *[[sahlins-historical-metaphors-1981|Historical Metaphors and Mythical Realities]]* | 1981 | First statement of the Cook/Hawaii structural history; coins the [[structure-of-the-conjuncture]] | Launches the historical-anthropology program (now primary-ingested) |
 | *[[sahlins-islands-of-history-1985|Islands of History]]* | 1985 | [[structure-of-the-conjuncture]]; [[mytho-praxis]]; [[heroic-history]]; [[stranger-king]] | Standard reference for the anthropology of history; primary text of the [[sahlins-obeyesekere-cook-debate|Cook debate]] |
 | *How "Natives" Think* | 1995 | Book-length reply to Obeyesekere | Widely judged (e.g. by Sewell) to have "effectively refuted" Obeyesekere's major claims; itself contested |
 | *The Western Illusion of Human Nature* | 2008 | Genealogy of the Western "nature" that his anthropology opposes | Late-career synthesis of the anti-utilitarian argument |
+| *[[sahlins-what-kinship-is-2013|What Kinship Is—And Is Not]]* | 2013 | Kinship = [[mutuality-of-being]]; birth as metaphor of kinship; kinship–gift–magic ontology | Late definitional statement; primary densification of [[kinship-biology-vs-culture-debate]] |
 
 ## Conceptual Contributions and Their Mechanics
 
 | Concept | Where coined | How it drifted | Current use |
 |---|---|---|---|
-| General vs. specific evolution | *Evolution and Culture* (1960) | Absorbed into evolutionary typology; the White/Steward reconciliation | Background to [[band-tribe-chiefdom-model]] |
+| General vs. specific evolution | *[[sahlins-service-evolution-culture-1960|Evolution and Culture]]* (1960) — primary | Absorbed into evolutionary typology; the White/Steward reconciliation; dissolves history-vs-evolution polemic | Background to [[band-tribe-chiefdom-model]]; concept page [[general-and-specific-evolution]] |
 | [[original-affluent-society]] | 1966 symposium / *Stone Age Economics* (1972) | From provocation ("a bon mot") to a durable if contested reframing of forager economics | Standard reference, standing debate |
 | [[domestic-mode-of-production]] | *Stone Age Economics* (1972) | Chayanovian household analysis of [[underproduction]] | Economic anthropology of non-market production |
 | [[practical-reason]] / [[cultural-reason]] | *Culture and Practical Reason* (1976) | The two-paradigm frame for the whole discipline's history | The culturalist pole of the materialism/culturalism split |
@@ -76,6 +77,7 @@ Rivals define him as much as teachers. Against **[[marx-karl|Marx]]** and the an
 | [[heroic-history]] | *Islands of History* (1985) | Divine-kingship historicity; the "Principle of the Significant One" | Comparative political anthropology |
 | [[stranger-king]] | 1981 / *Islands of History* (1985) | From Fijian installation to a broad comparative kingship type | A durable, still-productive comparative concept |
 | [[performative-and-prescriptive-structures]] | *Islands of History* (1985) | Ideal-typical contrast of historicities | Read alongside "hot/cold" societies and [[habitus]] |
+| [[mutuality-of-being]] | *JRAI* 2011 / *What Kinship Is* (2013) | Definition of kinship as intersubjective participation; anti-biogenetic orthodoxy | Contemporary culturalist kinship theory; see [[kinship-biology-vs-culture-debate]] |
 
 ### Verbatim load-bearing passages
 
@@ -123,15 +125,15 @@ The counterfactual is instructive. Much of Sahlins's *evolutionary* work (genera
 
 ## Historiography and Primary Sources
 
-The primary corpus divides into three phases the wiki tracks unevenly. The **economic-anthropology** phase is primary-ingested via *[[sahlins-stone-age-economics-1972|Stone Age Economics]]*; the **culturalist** phase via *[[sahlins-culture-and-practical-reason-1976|Culture and Practical Reason]]* (with the caveat that the ingested scan is missing the bodies of chapters 3–4 — the systematic structural-Marxism critique and the full food/clothing analysis — recoverable only through the Conclusion's recapitulation); the **historical-anthropology** phase via *[[sahlins-islands-of-history-1985|Islands of History]]*. Outstanding for future ingestion: *Historical Metaphors and Mythical Realities* (1981), the two Cook-controversy books (Obeyesekere 1992; Sahlins's *How "Natives" Think* 1995), and the late syntheses (*The Western Illusion of Human Nature*, 2008; *What Kinship Is*, 2013).
+The primary corpus divides into phases the wiki tracks. The **neo-evolutionary** phase is primary-ingested via *[[sahlins-service-evolution-culture-1960|Evolution and Culture]]* (1960, with Service — general/specific evolution coining). The **economic-anthropology** phase via *[[sahlins-stone-age-economics-1972|Stone Age Economics]]*; the **culturalist** phase via *[[sahlins-culture-and-practical-reason-1976|Culture and Practical Reason]]* (with the caveat that the ingested scan is missing the bodies of chapters 3–4 — the systematic structural-Marxism critique and the full food/clothing analysis — recoverable only through the Conclusion's recapitulation); the **historical-anthropology** phase via *[[sahlins-historical-metaphors-1981|Historical Metaphors and Mythical Realities]]* (1981) and *[[sahlins-islands-of-history-1985|Islands of History]]* (1985); the **late kinship** phase via *[[sahlins-what-kinship-is-2013|What Kinship Is—And Is Not]]* (2013) — [[mutuality-of-being]], [[kinship-biology-vs-culture-debate]], [[schneider-david-m]]. Outstanding for future ingestion: *Social Stratification in Polynesia* (1958), the two Cook-controversy books (Obeyesekere 1992; Sahlins's *How "Natives" Think* 1995), and *The Western Illusion of Human Nature* (2008).
 
 The critical literature is dominated by two bodies. First, the **Cook controversy** itself, which generated a large secondary literature on evidence, colonial representation, and the limits of structural interpretation — the indispensable historiographic frame for reading the Hawaiian work. Second, the **eventful-sociology reception** in the neighboring discipline: [[sewell-william-jr|Sewell]]'s *[[sewell-logics-of-history-2005|Logics of History]]* (ch. 7) is both the wiki's principal secondary account of the [[structure-of-the-conjuncture]] and a pointed internal critique — Sewell endorses the mechanism but faults Sahlins for conceiving structure as *singular* (one structure per society) and *purely symbolic* (excluding material resources), and "reverses" the term to argue that a structure of the conjuncture presupposes a prior *conjuncture of structures*. That critique, recorded on the summary page and on [[structure-of-the-conjuncture]], is the most productive current handle on where Sahlins's synthesis holds and where it strains.
 
 ## Links
 
 - Summary: [[sahlins-marshall]]
-- Sources: [[sahlins-stone-age-economics-1972]] · [[sahlins-culture-and-practical-reason-1976]] · [[sahlins-islands-of-history-1985]]
-- Concepts: [[practical-reason]] · [[cultural-reason]] · [[la-pensee-bourgeoise]] · [[structure-of-the-conjuncture]] · [[mytho-praxis]] · [[heroic-history]] · [[stranger-king]] · [[performative-and-prescriptive-structures]] · [[original-affluent-society]] · [[domestic-mode-of-production]]
-- Debate: [[sahlins-obeyesekere-cook-debate]]
+- Sources: [[sahlins-service-evolution-culture-1960]] · [[sahlins-stone-age-economics-1972]] · [[sahlins-culture-and-practical-reason-1976]] · [[sahlins-historical-metaphors-1981]] · [[sahlins-islands-of-history-1985]] · [[sahlins-what-kinship-is-2013]]
+- Concepts: [[general-and-specific-evolution]] · [[practical-reason]] · [[cultural-reason]] · [[la-pensee-bourgeoise]] · [[structure-of-the-conjuncture]] · [[mytho-praxis]] · [[heroic-history]] · [[stranger-king]] · [[performative-and-prescriptive-structures]] · [[original-affluent-society]] · [[domestic-mode-of-production]] · [[mutuality-of-being]]
+- Debates: [[sahlins-obeyesekere-cook-debate]] · [[kinship-biology-vs-culture-debate]]
 - Societies: [[hawaiians]] · [[fijians]] · [[maori]]
-- Genealogy: [[white-leslie-a]] · [[steward-julian-h]] · [[levi-strauss-claude]] · [[service-elman-r]] · [[sewell-william-jr]]
+- Genealogy: [[white-leslie-a]] · [[steward-julian-h]] · [[levi-strauss-claude]] · [[service-elman-r]] · [[sewell-william-jr]] · [[schneider-david-m]] · [[viveiros-de-castro-eduardo]]

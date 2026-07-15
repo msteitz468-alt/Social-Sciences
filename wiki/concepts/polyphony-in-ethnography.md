@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "multi-voiced ethnographic texts"
 contested: yes
 related_concepts: ["[[dialogism-in-ethnography]]", "[[partial-truths]]", "[[ethnographic-authority]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-11
 tags: [concept]
 ---
 
@@ -39,6 +39,8 @@ Clifford and others on experimental ethnography; Pratt on Shostak’s polyphonou
 
 Rosaldo: **false polyphony** — translation chains and editorial control still concentrate authority. Power and editing still concentrate in the ethnographer-author; polyphony can be aesthetic only. Rabinow on limits of heteroglossia.
 
+**Clifford's fuller grounding (attributed; [[clifford-james|Clifford]], *[[clifford-predicament-of-culture-1988|The Predicament of Culture]]*, 1988).** Clifford grounds the polyphonic mode explicitly in Bakhtin's theory of the polyphonic novel (heteroglossia), naming Victor Turner's Ndembu ethnography — built openly from quotations and interpretations attributed to named informants (the "Muchona the Hornet" portrait) — as unusually polyphonic in method, though still smoothing indigenous voices into interchangeable "informants" rather than achieving Bakhtinian "different voices." He treats Malinowski's own field Diary (published 1967) as itself "an inventive, polyphonic text," and points to the extensive verbatim, largely unglossed dictated myths and magical spells in *Argonauts* (1922) and *Coral Gardens and Their Magic* (1935) as a partial anticipation of polyphonic ethnography avant la lettre. Clifford's own verdict: full "plural authorship" remains **"utopian,"** since "the very idea of plural authorship challenges a deep Western identification of any text's order with the intention of a single author" — an editorial/executive ethnographer-author always ultimately organizes even the most quotation-heavy or multi-authored texts (e.g. Bulmer & Majnep's *Birds of My Kalam Country*, 1977; the collectively authored *Piman Shamanism and Staying Sickness*, 1974).
+
 ## Links
 
-- [[dialogism-in-ethnography]], [[writing-culture]], [[rosaldo-renato]]
+- [[dialogism-in-ethnography]], [[writing-culture]], [[rosaldo-renato]], [[clifford-james]], [[clifford-predicament-of-culture-1988]], [[turner-victor]]

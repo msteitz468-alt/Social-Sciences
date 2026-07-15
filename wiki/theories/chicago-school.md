@@ -16,7 +16,7 @@ core_claims:
 developed_from: ["[[pragmatism]]", "[[formal-sociology]]", "[[social-behaviorism]]"]
 competes_with: ["grand system-building (Comte/Spencer)", "purely statistical variable sociology without case materials", "later political-economy urban theory"]
 status: absorbed
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-10
 tags: [theory, sociology, social-psychology]
 ---
@@ -73,6 +73,10 @@ Letters and life-histories; ecological mapping; land values and mobility indices
 
 **Adjacent same-era community research (not a Chicago product):** [[lynd-middletown-study|Lynd & Lynd, *Middletown*]] (1929) — Institute of Social and Religious Research; anthropological total-situation design; see [[community-study]].
 
+### Sampson / PHDCN continuity (2012)
+
+In *[[sampson-great-american-city-2012|Great American City]]*, [[sampson-robert-j|Sampson]] claims (attributed) the pre-WWII [[chicago-school|Chicago School]] remains relevant less for "disorganization" per se than for six insights: (a) places not people; (b) neighborhood-level structural differentiation; (c) mediating social mechanisms; (d) concentration of multiple disparate phenomena; (e) dynamic social reproduction over time; (f) recognition of macrosocial forces. He situates PHDCN methods — nested ecological units (community areas, tracts, block groups, face-blocks), [[systematic-social-observation|SSO]] as "Chicago School spirit updated," [[ecometrics]] as modern ecological assessment — in that lineage, while rejecting teleological zone-succession readings and the ethnic-homogeneity expectation for control. Wirth-style anonymity predictions are challenged by high lost-letter returns in Loop/Near North cosmopolitan areas (as Sampson reports, 2010 revisit). Site choice for PHDCN was not primarily "home turf" piety (representation of race/SES variation, data infrastructure, cooperation ranked first; research history was "icing"). See [[sampson-great-american-city-study]] · [[social-disorganization-theory]] · [[collective-efficacy]] · [[neighborhood-effects]].
+
 ## Reflexivity
 
 Chicago sociology built in a reform- and social-work-adjacent city, enabled by philanthropy, courts, and charities. Knowledge of "peasant," "immigrant," and "disorganized" areas produced for U.S. academic audiences concerned with control, assimilation, and social technique. Ecological vocabulary risked naturalizing segregation; period racial frames must stay attributed.
@@ -88,4 +92,5 @@ Chicago sociology built in a reform- and social-work-adjacent city, enabled by p
 - Discipline: [[urban-sociology]] · [[social-psychology]] · [[sociology]]
 - External challenge / contested membership: [[whyte-street-corner-society-study]] · [[whyte-william-foote]] · [[whyte-boelen-cornerville-debate]]
 - Later self-identified tradition: [[duneier-sidewalk-study]] · [[duneier-mitchell]] (works "in the traditions of the Chicago School of Urban Sociology of the 1920s")
+- Contemporary ecological program: [[sampson-great-american-city-2012]] · [[sampson-great-american-city-study]] · [[sampson-robert-j]] · [[ecometrics]] · [[systematic-social-observation]] · [[collective-efficacy]] · [[neighborhood-effects]]
 ---

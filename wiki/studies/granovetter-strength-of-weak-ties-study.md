@@ -15,8 +15,8 @@ key_findings:
   - "He argued bridging weak ties are critical for diffusion across social distance and for community capacity to organize"
 concepts_introduced: ["[[tie-strength]]", "[[strength-of-weak-ties]]", "[[local-bridge]]", "forbidden triad (strong-strong-absent)"]
 replication_status: partially-supported
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [study, sociology]
 ---
 
@@ -70,14 +70,15 @@ Among the most cited articles in late-20th-century sociology; core teaching text
 
 ## Historiography
 
-Ingested from AJS 1973 OCR plus bound 1974 commentary. Dissertation (1970) and *Getting a Job* (1974) not yet ingested — would densify the labor-market design. Deep reconstruction: [[hubs/studies/granovetter-strength-of-weak-ties-study]].
+Ingested from AJS 1973 OCR plus bound 1974 commentary. Full labor-market design now densified via *[[granovetter-getting-a-job-1974|Getting a Job]]* (1974/1995) — study [[granovetter-getting-a-job-study]] · hub [[hubs/studies/granovetter-getting-a-job-study]]. Deep reconstruction of this article: [[hubs/studies/granovetter-strength-of-weak-ties-study]].
 
 ## Links
 
 - author: [[granovetter-mark-s]]
 - source: [[granovetter-strength-of-weak-ties-1973]]
+- related study: [[granovetter-getting-a-job-study]]
 - theory: [[strength-of-weak-ties-theory]]
-- concepts: [[tie-strength]] · [[strength-of-weak-ties]] · [[local-bridge]]
+- concepts: [[tie-strength]] · [[strength-of-weak-ties]] · [[local-bridge]] · [[personal-contacts]]
 - method: [[network-analysis]]
 - debated_in: [[west-end-network-fragmentation-debate]]
 - supports / feeds: [[social-mobility]] (information channels)

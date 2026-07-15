@@ -7,11 +7,11 @@ era: [critical-turn, contemporary]
 affiliated_theories: ["[[strategic-action-fields-theory]]"]
 trained_under: ["[[unknown]]"]
 trained: ["[[unknown]]"]
-key_works: ["The Transformation of Corporate Control (1990)", "[[fligstein-mcadam-theory-of-fields-2012|A Theory of Fields (with McAdam, 2012)]]", "The Architecture of Markets (2001)", "social skill papers (ABS 1997/2001; Sociological Theory 2001)"]
-key_concepts: ["[[strategic-action-field]]", "[[social-skill]]", "markets as fields"]
+key_works: ["The Transformation of Corporate Control (1990)", "[[fligstein-mcadam-theory-of-fields-2012|A Theory of Fields (with McAdam, 2012)]]", "The Architecture of Markets (2001)", "social skill papers (ABS 1997/2001; Sociological Theory 2001)", "\"The Structural Transformation of American Industry\" (ch. 13 in [[powell-dimaggio-new-institutionalism-1991]], 1991)"]
+key_concepts: ["[[strategic-action-field]]", "[[social-skill]]", "markets as fields", "[[organizational-field]]"]
 fieldwork_sites: ["[[unknown]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [thinker, sociology, economic-sociology]
 ---
 
@@ -28,6 +28,7 @@ Fligstein's career links firm strategy, market formation, and European political
 - **Markets as fields** — firms and states co-construct market order; control projects stabilize competition (pre-2012 monographs; integrated into SAF).
 - **[[social-skill]]** — capacity to induce cooperation by fashioning shared meanings and identities (core microfoundation of SAF theory).
 - **[[strategic-action-fields-theory]]** — with McAdam: unified account of field emergence, settlement, crisis, and re-settlement across movements, organizations, and markets.
+- **A power-based theory of [[organizational-field|organizational fields]] (1991).** In "The Structural Transformation of American Industry" ([[powell-dimaggio-new-institutionalism-1991]], ch. 13), a study of diversification among the 100 largest US firms 1919–1979, Fligstein defines the organizational field as "a construction of powerful organizations that is based on the interests of those organizations," explicitly distinguishing this from "recent institutional theorists, which stress the normative aspects of organizational fields" (attributed). He argues institutionalists have "overestimated the role of norms in the construction of organizational fields and underestimated the relative power of actors in organizations" — an internal critique of [[new-institutionalism]] aimed in part at [[meyer-john-w|Meyer and Rowan]] and [[dimaggio-paul|DiMaggio and Powell]]'s own 1983 isomorphism argument. The chapter treats organizations as nested within three institutional spheres — internal authority structure, the organizational field, and the state — and finds CEOs' marketing/finance backgrounds shaped which diversification strategies ("conceptions of control") came to dominate their industries.
 
 ## Intellectual Genealogy
 

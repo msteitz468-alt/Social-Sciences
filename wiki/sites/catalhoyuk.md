@@ -13,7 +13,7 @@ cultures: ["[[unknown]]"]
 excavated_by: ["[[mellaart-james|James Mellaart]] (1961–1965)", "[[hodder-ian|Ian Hodder]] (Çatalhöyük Research Project, from 1993)"]
 excavation_years: ["1961–1965 (Mellaart)", "1993– (Hodder project; multi-phase)"]
 key_finds: ["dense agglomerated Neolithic settlement (East and West mounds)", "painted buildings and installations", "sub-floor burials", "figurines", "obsidian and ground-stone industries", "Mellaart shrine type-series and goddess/bull imagery (1961–65; reanalyzed)", "Building 1 (North Area) as Hodder 1999 reasoning case", "clay/plaster/brick entanglement sequences (Hodder 2012)", "Level VII cooking pottery shift; face pot; West Mound decorated pottery"]
-sources_ingested: 6
+sources_ingested: 7
 last_updated: 2026-07-10
 tags: [site, neolithic, anatolia]
 ---
@@ -121,3 +121,13 @@ Roberts uses Çatalhöyük (occupied c. 9000–8200 Cal. yr BP) as a case study 
 ### Sherratt (1982)
 
 *(Attributed — [[sherratt-andrew]], *[[sherratt-economy-society-prehistoric-europe-1997]]*, Ch.10. )* Çatalhöyük cited as a **node** in multi-focal cattle domestication and early agricultural exchange networks — livestock as mobile resources — not re-excavated here. Use as network position in his 1982 model only.
+
+## Bellwood *First Farmers* densification (2005)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005; brief comparative pins, not a site monograph.)*
+
+- **Symbolic continuity (via Cauvin):** Later architectural display of cattle skulls in Çatalhöyük shrines noted as part of a symbolic complex continuous with earlier Jerf el Ahmar / Mureybet (~9000–8500 BC).
+- **“Doorless cubicle” architecture:** Later-PPNB architectural style that, for Bellwood, characterizes some earliest agricultural communities far beyond the Levant — including central Anatolian Çatalhöyük (also Ganj Dareh D, Mehrgarh).
+- **SE European Neolithic source (Pinhasi & Pluciennik, as of Bellwood 2005):** One position holds SE European Neolithic drawn from **central Anatolian** Neolithic (Çatalhöyük) more than from a single Levantine donor stream — more geographically precise than genetics alone at that date.
+
+Site ≠ people ≠ language ≠ genes. Source: [[bellwood-first-farmers-2005]].

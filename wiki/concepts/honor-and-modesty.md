@@ -7,9 +7,9 @@ disciplines: [anthropology]
 emic_or_etic: etic
 operationalized_as: "Paired moral ideology: honor as autonomy/virtue grounding hierarchy; modesty (ḥasham) as voluntary deference of dependents; ordinary discourse of pride/anger vs. poetic counter-discourse of vulnerability"
 contested: yes
-related_concepts: ["[[hasham]]", "[[asl]]", "[[ghinnawa]]", "[[shame-culture]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+related_concepts: ["[[hasham]]", "[[asl]]", "[[ghinnawa]]", "[[shame-culture]]", "[[honor-crime]]"]
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -44,3 +44,5 @@ Builds on and criticizes generic Mediterranean "honor and shame" models by groun
 ## Critiques and Limitations
 
 "Honor-shame" as regional type is contested in anthropology; Abu-Lughod's contribution is local logic + dual discourse, not a universal code. Contested whenever a single-community model is generalized. Her political reading of poetry as antistructure/freedom is theoretical, not a survey finding. *Writing Women's Worlds* further [[writing-against-culture|writes against]] treating honor/shame as a fixed cultural complex by reconstructing one educated daughter's particular negotiations (school as "greatest shame" to uncles; father's belief in her; town marriage hopes).
+
+In *[[abu-lughod-do-muslim-women-2013|Do Muslim Women Need Saving?]]* (2013), Abu-Lughod deploys this ethnography against the public "[[honor-crime]]" category: Amnesty-style "women as property" definitions are unrecognizable against a code in which honor bound both sexes and 1980s Awlad ʿAli girls asserted moral agency and virtue within (not against) it — wedding songs figured brides with falcon imagery of power, not caged submission (attributed).

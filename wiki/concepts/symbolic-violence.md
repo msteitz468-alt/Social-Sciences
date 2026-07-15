@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Gentle, often invisible imposition of categories and hierarchies misrecognized as legitimate by the dominated"
 contested: yes
 related_concepts: ["[[misrecognition]]", "[[symbolic-capital]]", "[[doxa]]", "[[habitus]]", "[[cultural-capital]]", "[[gift-exchange]]", "[[pedagogic-action]]", "[[cultural-arbitrary]]", "[[cultural-reproduction]]"]
-sources_ingested: 3
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -38,6 +38,21 @@ Its central thesis: "All [[pedagogic-action|pedagogic action]] (PA) is, objectiv
 *Outline* also grounds the **modes-of-domination thesis** that structures the whole page: "it is in the degree of objectification of the accumulated social capital that one finds the basis of all the pertinent differences between the modes of domination" — personal domination "made, unmade, and remade in and by interactions between persons" versus domination mediated by institutionalized mechanisms (market, school, law) in which "relations of domination have the opacity and permanence of things." Where such objective mechanisms are lacking, dominant agents must "resort to the elementary forms of domination, … the direct domination of one person by another, the limiting case of which is … slavery." And the *Outline* aphorism on institutional legitimation: "the most successful ideological effects are those which have no need of words, and ask no more than complicitous silence."
 
 So long as overt violence is collectively disapproved and liable to provoke riposte or flight — destroying the relationship to be exploited — symbolic violence, gentle, invisible, unrecognized as such, chosen as much as undergone (trust, obligation, personal loyalty, hospitality, gifts, debts, piety, virtues of honour), presents itself as the most economical mode of domination because it best corresponds to the economy of the system. If the pre-capitalist economy is the site par excellence of symbolic violence, Bourdieu argued, it is because relations of domination can only be set up, maintained, or restored through strategies that must be disguised, transfigured, euphemized.
+
+## In *The State Nobility* (1989)
+
+*(Attributed — Bourdieu, [[bourdieu-state-nobility-1996]].)* The concept's most systematic
+state-level statement. The Prologue defines symbolic violence as "that particular form of
+constraint that can only be implemented with the active complicity — which does not mean that it
+is conscious and voluntary — of those who submit to it," rejecting both the "centralist" (ideology
+apparatus) and "spontaneist" (voluntary servitude) alternatives; quoting Marx, "the dominant are
+dominated by their domination." Its mechanisms here: **euphemization** (academic grading language
+as "a neutralized and misrecognizable... form of the dominant taxonomy"); the **"Oedipal effect"**
+of academic verdicts on children's identity, with no court of appeal; and the state's monopoly of
+**legitimate symbolic violence** — held to be "more decisive" than the Weberian monopoly of
+physical violence — exercised through the school's power of nomination (see [[state-nobility]],
+[[rites-of-institution]]). "It bears upon us all... every time we perceive and construct the
+social world through categories instilled in us via our education."
 
 ## Semantic History
 

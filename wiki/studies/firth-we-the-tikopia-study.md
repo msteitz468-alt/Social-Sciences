@@ -120,7 +120,7 @@ the book an implicit argument for intensive fieldwork over survey ethnology.
 Still a foundational teaching ethnography and a reference point for kinship-as-practice, the
 structure/organization distinction, and Polynesian-Outlier social organization; the Tikopia corpus
 (1936–1970, across kinship, economy, religion, and change) is among the most complete single-society
-records in anthropology. The companion monographs and the 1952/1966 restudies remain collection gaps.
+records in anthropology. The economic companion monograph, *[[firth-primitive-polynesian-economy-study|Primitive Polynesian Economy]]* (1939), is now primary-ingested; the ritual monograph (*Work of the Gods*, 1940) and the 1952/1966 restudies remain collection gaps.
 
 ## Historiography
 

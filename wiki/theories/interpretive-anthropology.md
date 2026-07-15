@@ -5,18 +5,19 @@ disciplines: [anthropology, sociology-of-culture]
 era_origin: critical-turn
 date_origin: "c. 1960s–1973 (programmatic in Geertz, Interpretation of Cultures)"
 originated_by: ["[[geertz-clifford]]"]
-key_texts: ["[[geertz-interpretation-of-cultures-1973|The Interpretation of Cultures (1973)]]", "\"Deep Play: Notes on the Balinese Cockfight\" (1972/1973)", "\"Religion As a Cultural System\" (1966/1973)", "[[geertz-local-knowledge-1983|Local Knowledge (1983)]]"]
+key_texts: ["[[geertz-interpretation-of-cultures-1973|The Interpretation of Cultures (1973)]]", "\"Deep Play: Notes on the Balinese Cockfight\" (1972/1973)", "\"Religion As a Cultural System\" (1966/1973)", "[[geertz-negara-1980|Negara: The Theatre State (1980)]]", "[[geertz-local-knowledge-1983|Local Knowledge (1983)]]"]
 core_claims:
   - "Geertz held that culture is semiotic — historically transmitted patterns of meaning embodied in symbols; man is an animal suspended in webs of significance he himself has spun"
   - "Geertz held that ethnography is thick description — layered interpretation of the meanings of social action for actors, not thin behavioral record"
   - "Geertz held that culture is a context within which events can be intelligibly described, not a power to which social events can be causally attributed"
   - "Geertz held that cultural systems (religion, ideology, common sense) provide models of and models for reality, fusing ethos and world view"
   - "Geertz held anthropology's aim is interpretive science in search of meaning, not experimental science in search of law"
+  - "Geertz held (Negara 1980) that classical Balinese politics required a poetics of power — the state's semiotic capacity to make inequality enchant — not only a mechanics of domination"
 developed_from: ["[[interpretive-sociology]]", "Weberian verstehen", "Parsonian culture concept (transformed)", "reaction against reductive behaviorism and Tylorean omnibus culture"]
 competes_with: ["[[structural-functionalism]]", "[[structuralism]]", "cultural materialism", "cognitive reduction of culture to mind alone"]
 status: active
-sources_ingested: 4
-last_updated: 2026-07-09
+sources_ingested: 5
+last_updated: 2026-07-10
 tags: [theory, anthropology]
 ---
 
@@ -52,7 +53,7 @@ Reacted against Tylor’s omnibus culture concept, behaviorist thin description,
 
 ## Empirical Program
 
-Java and Bali ethnography (religion, ritual change, cockfight, personhood); new-states political essays (Indonesia and comparative); ideology analysis. Method: [[thick-description]].
+Java and Bali ethnography (religion, ritual change, cockfight, personhood); reconstructive political anthropology of the classical Balinese [[negara]] as [[theatre-state]] (*[[geertz-negara-study|Negara]]* 1980; hub [[hubs/studies/geertz-negara-study]]); new-states political essays (Indonesia and comparative); ideology analysis. Method: [[thick-description]].
 
 ## Empirical Program (from IoC)
 
@@ -68,6 +69,7 @@ Java and Bali ethnography (religion, ritual change, cockfight, personhood); new-
 | Structuralism foil | Cerebral Savage (Ch.13) | Lévi-Strauss as quest dissolving man; science or alchemy |
 | Personhood | Person, Time, Conduct (Ch.14) | Public symbols of person; *lek* as stage fright; punctual time |
 | Performance text | Deep Play (Ch.15) | Cockfight as story culture tells itself |
+| Political form | *Negara* (1980 monograph) | Classical Bali as [[theatre-state]] / [[exemplary-center]]; poetics of power (*[[geertz-negara-study]]*) |
 
 ## Empirical Program (from Local Knowledge, 1983)
 

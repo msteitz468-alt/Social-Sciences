@@ -5,7 +5,7 @@ disciplines: [sociology, political-sociology, historical-sociology, economic-soc
 era_origin: contemporary
 date_origin: 1998
 originated_by: ["[[tilly-charles]]"]
-key_texts: ["[[tilly-durable-inequality-1998|Durable Inequality (1998)]]"]
+key_texts: ["[[tilly-durable-inequality-1998|Durable Inequality (1998)]]", "[[tilly-identities-boundaries-social-ties-2005|Identities, Boundaries, and Social Ties (2005)]]"]
 core_claims:
   - "Tilly argues large, significant inequalities correspond mainly to categorical differences (black/white, male/female, citizen/foreigner) rather than individual attributes or performances (attributed)"
   - "He holds that durable inequality arises when people who control value-producing resources solve organizational problems by categorical distinctions — social closure, exclusion, and control (attributed)"
@@ -16,8 +16,8 @@ core_claims:
 developed_from: ["Marxist exploitation tradition (critically generalized)", "Weberian social closure", "[[political-conflict-theory|Tilly's earlier organizational/contention program]]", "Stinchcombe economic sociology affinities"]
 competes_with: ["individual human-capital / discrimination monism", "status-attainment models as sole explanation", "pure attitude/prejudice accounts of inequality"]
 status: active
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [theory, sociology, economic-sociology]
 ---
 
@@ -79,11 +79,25 @@ Mechanism-centered explanation (recurrent causal sequences of general scope); re
 
 Written from a senior historical sociologist's comparative kit; illustrations skew Euro-American and firm/migration cases; "value added" language carries economic assumptions; Tilly's stated preference for "material equalization" is **POSITION**, not wiki-voice endorsement. Collection coverage: charter text ingested; reception literature not yet ingested.
 
+## From *Identities, Boundaries, and Social Ties* (2005)
+
+*(Attributed — Tilly; heavy self-reuse of DI 1998 flagged.)* Essay collection restates the four mechanisms (Chs. 5–6, 10) with:
+
+- **Maze** metaphor vs ladder of individual ranks; five elementary social configurations; scripting × local knowledge in ties.  
+- **Relational origins** (Ch. 6): fifth family of inequality explanation against competitive sorting; category formation via encounter/imposition/negotiation/transfer.  
+- **Changing forms** (Ch. 7): historical shift in value-producing resources (land/coercion → capital/information/science/media).  
+- **Unequal knowledge** (Ch. 8): control of production, distribution, and access as inequality axes; universities as hoarding sites.  
+- **Boundaries** (Ch. 9): [[social-boundary-mechanism]] inventory couples to categorical inequality installation.  
+- **Chain migration** (Ch. 10): prime [[opportunity-hoarding]] / [[chain-migration]] application.  
+- **Democracy** (Chs. 12–13): [[citizenship]] + [[protected-consultation]]; inequality ↔ [[de-democratization]] **conjectures**.
+
+Source: [[tilly-identities-boundaries-social-ties-2005]].
+
 ## Links
 
-- Source: [[tilly-durable-inequality-1998]]
+- Sources: [[tilly-durable-inequality-1998]] · [[tilly-identities-boundaries-social-ties-2005]]
 - Thinker: [[tilly-charles]]
 - Hub: [[hubs/theory/durable-inequality-theory]]
 - Related theory: [[political-conflict-theory]]
 - Phenomenon: [[durable-inequality]]
-- Concepts: [[categorical-inequality]], [[exploitation]], [[opportunity-hoarding]], [[organizational-emulation]], [[organizational-adaptation]], [[interior-exterior-categories]], [[categorical-pairs]]
+- Concepts: [[categorical-inequality]], [[exploitation]], [[opportunity-hoarding]], [[organizational-emulation]], [[organizational-adaptation]], [[interior-exterior-categories]], [[categorical-pairs]], [[social-boundary]], [[social-boundary-mechanism]], [[chain-migration]], [[citizenship]], [[protected-consultation]]

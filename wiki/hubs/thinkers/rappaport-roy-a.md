@@ -5,20 +5,20 @@ date_birth: "1926"
 date_death: "1997"
 date_precision: year
 disciplines: ["anthropology"]
-key_works: ["[[rappaport-pigs-for-the-ancestors-1968|Pigs for the Ancestors (1968; enl. 1984)]]"]
-key_concepts: ["[[cognized-model]]", "[[operational-model]]", "[[kaiko]]", "[[ritual-regulation]]"]
+key_works: ["[[rappaport-pigs-for-the-ancestors-1968|Pigs for the Ancestors (1968; enl. 1984)]]", "[[rappaport-ecology-meaning-religion-1979|Ecology, Meaning, and Religion (1979)]]", "[[rappaport-ritual-religion-making-humanity-1999|Ritual and Religion in the Making of Humanity (1999)]]"]
+key_concepts: ["[[cognized-model]]", "[[operational-model]]", "[[kaiko]]", "[[ritual-regulation]]", "[[ultimate-sacred-postulates]]", "[[liturgical-order]]", "[[sanctity]]", "[[adaptive-structure]]", "[[cybernetics-of-the-holy]]", "[[deutero-truth]]", "[[logos-rappaport]]"]
 fieldwork_sites: ["Tsembaga Maring, Simbai Valley, PNG (Oct 1962–Dec 1963)"]
-primary_sources: ["Pigs for the Ancestors (Yale 1968; enlarged 1984)"]
-key_sources: ["[[rappaport-pigs-for-the-ancestors-1968]]"]
-last_updated: 2026-07-09
+primary_sources: ["Pigs for the Ancestors (Yale 1968; enlarged 1984)", "Ecology, Meaning, and Religion (North Atlantic 1979)", "Ritual and Religion in the Making of Humanity (CUP 1999)"]
+key_sources: ["[[rappaport-pigs-for-the-ancestors-1968]]", "[[rappaport-ecology-meaning-religion-1979]]", "[[rappaport-ritual-religion-making-humanity-1999]]"]
+last_updated: 2026-07-10
 tags: [hub, thinker-analysis]
 ---
 
 # Roy A. Rappaport — Deep Analysis
 
-> Thinkers Hub. Summary: [[rappaport-roy-a]]. Landmark study: [[rappaport-pigs-for-the-ancestors-study]]. Debate: [[ecological-anthropology-ritual-regulation-debate]].
+> Thinkers Hub. Summary: [[rappaport-roy-a]]. Landmark study: [[rappaport-pigs-for-the-ancestors-study]]. Debate: [[ecological-anthropology-ritual-regulation-debate]]. Sources: [[rappaport-pigs-for-the-ancestors-1968]] · [[rappaport-ecology-meaning-religion-1979]] · [[rappaport-ritual-religion-making-humanity-1999]].
 
-**Depth grounded primarily in *Pigs for the Ancestors* (1968/1984).** Later monographs (*Ecology, Meaning, and Religion*; *Ritual and Religion in the Making of Humanity*) are noted as trajectory, not primary-ingested.
+**Depth grounded in *Pigs* (1968/1984), *Ecology, Meaning, and Religion* (1979), and *Ritual and Religion in the Making of Humanity* (1999).** The 1999 summa is now primary-ingested.
 
 ## Formation and Training
 
@@ -42,30 +42,38 @@ Military-age cohort of WWII/early Cold War US anthropology: salvage and colonial
 ## Career Phases
 
 1. **Maring fieldwork and *Pigs* (1962–68).** Defines public identity: ecological regulation of ritual; Tsembaga type-case.
-2. **Consolidation and concept work (1970s).** "On Cognized Models" (1979) and related essays; ecological anthropology institutionalizes; critiques accumulate.
-3. **Defense and enlargement (1984).** Epilogue as theoretical summa responding to a decade of criticism; App. 11 nutrition.
-4. **Later religion theory (1990s).** *Ritual and Religion in the Making of Humanity* (1999, posthumous) — not ingested here; trajectory from Maring ritual to general theory of liturgy and sanctity.
+2. **Consolidation and concept work (1970s).** *[[rappaport-ecology-meaning-religion-1979|Ecology, Meaning, and Religion]]* (1979) bridges "strict ecology" (island ecosystems; 1967 ritual-regulation paper) to formal ritual theory and hierarchical adaptive structure; ecological anthropology institutionalizes; critiques accumulate (Friedman 1974 answered in MDA 1977 / EMR).
+3. **Defense and enlargement (1984).** Epilogue as theoretical summa responding to a decade of criticism; App. 11 nutrition — often restates moves already in EMR.
+4. **Later religion theory / summa (1990s → 1999).** *[[rappaport-ritual-religion-making-humanity-1999|Ritual and Religion in the Making of Humanity]]* (CUP 1999, posthumous; Keith Hart foreword). Fourteen-chapter architecture: formal ritual (Chs. 2–5); time/hierarchy (6–8); sacred/sanctification/Logos/numinous (9–12); adaptation and the breaking of the Holy (13–14). Introduces/names [[cybernetics-of-the-holy]], [[deutero-truth]], [[logos-rappaport]]. Dedication: Levy, Wolf, Meggitt, Hart.
 
 ## Major Works and Their Moves
 
 | Work | Year | Move it makes | Reception |
 |---|---|---|---|
 | *Pigs for the Ancestors* | 1968 | Ritual as ecological homeostat/transducer; quantitative Maring ethnography | Landmark + long critique |
-| "On Cognized Models" | 1979 | Dual-model method refined | Keyword essay |
+| *Ecology, Meaning, and Religion* | 1979 | Dual enterprises of explanation/interpretation; cognized models; adaptive structure; formal ritual; sanctity and lies | Primary bridge ecology↔meaning (this vault) |
+| "On Cognized Models" (in EMR) | 1979 | Dual-model method + hierarchical sanctity/meaning | Keyword essay |
+| "Obvious Aspects of Ritual" (in EMR) | 1974/1979 | Formal entailments of ritual form; acceptance; USP | Ritual-theory classic |
 | *Pigs* enlarged ed. Epilogue | 1984 | Theory of explanation; answers Friedman/Sahlins/McArthur et al. | Program restatement |
-| *Ecology, Meaning, and Religion* | 1979 | Essay collection bridging ecology and meaning | Secondary in surveys |
-| *Ritual and Religion in the Making of Humanity* | 1999 | General theory of ritual/sanctity | Late career summa (not ingested) |
+| *Ritual and Religion in the Making of Humanity* | 1999 | Summa: formal ritual + Holy + Cybernetics of the Holy + modern crisis | Primary-ingested (this vault) |
 
 ## Conceptual Contributions and Their Mechanics
 
 | Concept | Where coined / forged | How it drifted | Current use |
 |---|---|---|---|
-| [[ritual-regulation]] | *Pigs* 1968 thesis | Textbook slogan "pigs regulate themselves via ritual" | Contested program claim; teaching hook |
+| [[ritual-regulation]] | 1967 *Ethnology* / *Pigs* 1968 | Textbook slogan "pigs regulate themselves via ritual" | Contested program claim; teaching hook |
 | [[kaiko]] | Emic; analytic keystone in *Pigs* | Exported as type of pig festival | Keep date-stamped to Maring |
-| [[cognized-model]] | *Pigs* Ch.6 / 1979 / 1984 | From latent-function contrast to dual-model method | Ecological + cognitive anthropology |
-| [[operational-model]] | *Pigs* Ch.6 / 1984 | Measurement-side of dual models | Method distinction |
+| [[cognized-model]] | *Pigs* Ch.6 / EMR 1979 / 1984 | From latent-function contrast to dual-model + hierarchy | Ecological + cognitive anthropology |
+| [[operational-model]] | *Pigs* Ch.6 / EMR / 1984 | Measurement-side of dual models | Method distinction |
+| [[ultimate-sacred-postulates]] | EMR formal essays | Apex of cognized hierarchy; sanctity source | Ritual/religion theory |
+| [[liturgical-order]] | EMR "Obvious Aspects" | Invariant sequences not encoded by performers | Formal ritual analysis |
+| [[sanctity]] | EMR (restricted: unquestionableness) | Distinct from numinous/holy; flows to rules | Evolutionary religion argument |
+| [[adaptive-structure]] | EMR 1977/1979; RRMH 13–14 | Hierarchy + maladaptive anomalies | Systems + critique of industrial order |
+| [[cybernetics-of-the-holy]] | RRMH Ch.13 | Closed sanctity–regulation–acceptance loop | Political theology of legitimacy |
+| [[deutero-truth]] | RRMH Ch.9 (via Bateson) | Experiential self-validating truths ≠ USPs | Bridges habitus/sanctity |
+| [[logos-rappaport]] | RRMH Ch.11 | Encompassing true order / comparative logoi | Climax ecological Logos |
 | Local vs regional system | *Pigs* Ch.6 | Subsystem articulation via ritual transducer | Systems ethnography template |
-| Reference values vs goal ranges | 1984 Epilogue | Sharpens dual models | Less textbooked than cognized/operational |
+| Reference values vs goal ranges | EMR cognized models / 1984 Epilogue | Sharpens dual models | Less textbooked than cognized/operational |
 
 ## The Empirical Base
 
@@ -83,9 +91,9 @@ Without *Pigs*, ecological anthropology would still exist (Steward, Vayda, Geert
 
 ## Historiography and Primary Sources
 
-- Ingested: [[rappaport-pigs-for-the-ancestors-1968]] (1984 enlarged DJVU text layer).
+- Ingested: [[rappaport-pigs-for-the-ancestors-1968]] (1984 enlarged DJVU); [[rappaport-ecology-meaning-religion-1979]] (North Atlantic 1979 OCR); [[rappaport-ritual-religion-making-humanity-1999]] (CUP 1999 digital PDF).
 - Study pages: [[rappaport-pigs-for-the-ancestors-study]] · this hub.
-- Full biographies and Michigan/later career archives not ingested; birth/death years standard reference, not re-proven from *Pigs*.
+- Full biographies and Michigan/later career archives not ingested; birth/death years standard reference.
 
 
 
@@ -121,11 +129,11 @@ This ingest does not document a full student tree. Intellectual afterlives: ecol
 
 **1968 *Pigs*.** Empirically dense, theoretically bold, rhetorically scientific. Establishes Rappaport as the face of ecological anthropology's systems wing.
 
-**1979 essays / *Ecology, Meaning, and Religion*.** Attempts to keep meaning and ecology in one career — anticipates the charge that *Pigs* was only about pigs. "On Cognized Models" is the concept paper that textbooks often cite instead of Ch.6.
+**1979 *Ecology, Meaning, and Religion* (primary-ingested).** Attempts to keep meaning and ecology in one career — anticipates the charge that *Pigs* was only about pigs. Load-bearing essays: "On Cognized Models" (keyword dual-model paper); "The Obvious Aspects of Ritual" (formal definition, acceptance, performatives, USP); "Adaptive Structure and Its Disorders" (hierarchy and maladaptation); "Sanctity and Lies in Evolution" (holy as evolutionary response to language's lie-capacity); "Ills of Functionalism" (Friedman reply; formal vs final cause; population unit). Dedication to Bateson and Kahn frames the cybernetic–ritual arc.
 
 **1984 Epilogue.** Without this, Rappaport's reputation would be frozen as "1968 functionalist." With it, he becomes a **philosopher of anthropological explanation** who still owns a famous case. The Epilogue's length signals how thoroughly *Pigs* had been assigned in graduate seminars as a problem set.
 
-**1999 *Ritual and Religion in the Making of Humanity*.** Late summa (posthumous publication path standard in bios): ritual, sanctity, and humanity's coevolution — a long arc from Tsembaga *rumbim* to general anthropology of religion. Not primary evidence for this hub until ingested.
+**1999 *Ritual and Religion in the Making of Humanity* (primary-ingested).** Late summa: humanity via language; ritual as basic social act; sanctity architecture; Logos/logoi; Cybernetics of the Holy; breaking of the Holy under power, idolatry, and law–meaning inversion; closing call for post-modern science and natural/ecological religion. Completes the vault's Rappaport primary arc (*Pigs* → EMR → RRMH).
 
 ## Relationship to Adjacent Thinkers
 

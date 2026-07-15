@@ -13,7 +13,7 @@ cultures: ["[[unknown]]"]
 excavated_by: ["[[flannery-kent-v|Kent V. Flannery]] (1966)", "Bruce Smith restudy of squash (1995 findings as of Mithen)"]
 excavation_years: "1966 (Flannery); later botanical restudies"
 key_finds: ["earliest New World domesticates as of Mithen 2003", "domestic-size squash seeds/stems and thick rinds (Smith: cultivation by 8000 BCE)", "maize cobs dated 4200 BCE", "small-family autumn occupation debris", "wild-to-domestic plant transition within one cave sequence"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [site, mesoamerica, plant-domestication, archaic]
 ---
@@ -51,3 +51,23 @@ As of Mithen 2003: Flannery’s 1966 excavation established the cave as the locu
 - **Archaeological vs genetic dates for maize** (4200 BCE cobs vs ~7000 BCE genetic estimate as of Mithen 2003)—[CONTRADICTION] potential across evidence classes; do not silently pick one.
 - Whether small cave camps can represent the full regional settlement system (buried Early Holocene valley villages may be under-detected—Flannery survey critiques noted in the claims stream).
 - Teosinte ancestry and Balsas valley as genetic homeland of maize (as of Mithen 2003 genetics)—separate from the Oaxaca cave’s maize cob ages.
+
+## Coe & Koontz (2013)
+
+Excavated as part of [[flannery-kent-v|Kent Flannery]]'s University of Michigan project, Guilá
+Naquitz yielded, per Coe & Koontz (2013), the earliest reliably dated Mesoamerican domesticate —
+squash (*Cucurbita pepo*), dated as early as **8000 BC** (citing Bruce D. Smith) and described as
+"easily the earliest reliably dated Mesoamerican domesticate," possibly ancestral to the modern
+pumpkin; the bottle gourd (a squash relative used as a container) was likely exploited around the
+same time. Coe & Koontz also report the site's maize cob, dated to **4300 BC**, as the earliest
+firmly dated maize cob known — a somewhat later date than the 4200 BC figure cited elsewhere on
+this page from Mithen (2003); both figures are retained here with attribution as the underlying
+chronology has been refined between sources. Nearby, wild *Zea* (maize) pollen at Oaxaca open-air
+and cave sites under Flannery's project (including Gheo-Shih) is dated 7400–6700 BC, predating
+maize's appearance in the [[sites/tehuacan-valley|Tehuacán Valley]] sequence — see that page for
+the Tehuacán maize-cob dating controversy (5000 BC → 3500 BC), which Coe & Koontz treat as a
+methodological caution equally applicable to interpreting association-based vs. direct dates at
+sites like this one.
+
+Cross-links: [[concepts/maize-domestication]], [[sites/tehuacan-valley]],
+[[sources/coe-koontz-mexico-2013]].

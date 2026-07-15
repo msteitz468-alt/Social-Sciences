@@ -15,8 +15,8 @@ core_claims:
 developed_from: ["[[sociology-of-knowledge]]", "[[historical-materialism]]"]
 competes_with: ["[[structural-functionalism]]", "[[positivism]]"]
 status: active
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [theory, sociology]
 ---
 
@@ -86,9 +86,24 @@ Key Bourdieusian moves (attributed, *Logic*):
 
 Shared ground worth recording without merging programs: both refuse exemption of the knower from the known; both treat unreflexive professional sociology as systematically distorting; both link valid knowledge to a transformed relation of the analyst to social worlds. Uptake of the bare word "reflexivity" in later sociology often cites neither package in full.
 
+## Bourdieu's reflexivity enacted: *Homo Academicus* (1984)
+
+*(Attributed, Bourdieu 1984; the fullest empirical realization of the "objectify the objectifying subject" demand. Ingested from the Portuguese translation — quotes are paraphrase-of-translation.)*
+
+Where *Logic of Practice* states the demand, *[[bourdieu-homo-academicus-study|Homo Academicus]]* carries it out at book length: Bourdieu turns his [[social-field|field]] apparatus onto his own [[academic-field|academic field]], the French university. The reflexive operation is named [[participant-objectivation]] — objectifying not only the object but the social conditions of the objectifying gaze itself: the analyst's position in the field, the interests inhabiting apparent disinterestedness, and the [[scholastic-disposition|scholastic point of view]] (*skholè*) that silently structures intellectual perception.
+
+Key moves (attributed):
+
+- **Exoticize the domestic.** The postface ("Twenty years after," 1987) states the sociologist of his own world must do the reverse of the ethnologist — not domesticate the exotic but "exoticize the domestic"; Bourdieu notes even Durkheim and Lévi-Strauss rarely submitted their own classificatory practice to the analysis they applied to others.
+- **Empirical vs epistemic individual.** To break with biographical pre-notions and blunt the "denunciation effect" of studying named peers, Bourdieu constructs *epistemic* individuals (bundles of pertinent field properties) rather than empirical persons — the methodological ground of the original edition's anonymization.
+- **No privileged exemption, but an epistemological privilege.** He distances the project from postmodern "nihilistic questioning of science," arguing sociology gains leverage precisely by turning its tools on the social conditions of its own production — while flagging that the reflexive ambition may itself be animated by a "will to power" over one's competitors.
+- **Autobiographical honesty.** He closes identifying himself with the "oblate" — the scholarship child devoted since childhood to the school institution — describing the analysis as "self-analysis by proxy."
+
+This is a distinct package from Gouldner's (domain assumptions + work ethic): Bourdieu's object is the *epistemic relation* of observer to field and the conditions of *skholè*, realized through prosopography and [[correspondence-analysis]] rather than infrastructure critique. Record as convergence-in-difference, not identity.
+
 ## Current Status
 
-"Reflexivity" is widespread in contemporary sociology; Gouldner's specific package (domain assumptions + infrastructure + work ethic + crisis diagnosis of Functionalism) remains a named critical-turn program, often cited selectively. Bourdieu's objectifying-the-objectifying-subject / socio-analysis line is a major European parallel track, now anchored in this wiki from *Logic of Practice* (further development in later Bourdieu on the scientific field not yet ingested).
+"Reflexivity" is widespread in contemporary sociology; Gouldner's specific package (domain assumptions + infrastructure + work ethic + crisis diagnosis of Functionalism) remains a named critical-turn program, often cited selectively. Bourdieu's objectifying-the-objectifying-subject / socio-analysis line is a major European parallel track, now anchored in this wiki from *Logic of Practice* and its book-length enactment in *[[bourdieu-homo-academicus-study|Homo Academicus]]* (1984); further development in later Bourdieu on the scientific field (*Science of Science and Reflexivity*, 2001) not yet ingested.
 
 ## Reflexivity
 

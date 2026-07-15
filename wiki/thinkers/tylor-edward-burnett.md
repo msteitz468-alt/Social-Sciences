@@ -10,8 +10,8 @@ trained: ["R. R. Marett (Oxford successor)", "James George Frazer (self-describe
 key_works: ["[[tylor-primitive-culture-1871|Primitive Culture (1871)]]", "Researches into the Early History of Mankind (1865)", "Anahuac (1861)", "Anthropology (1881)"]
 key_concepts: ["[[culture]]", "[[animism]]", "[[survivals]]", "[[psychic-unity-of-mankind]]"]
 fieldwork_sites: ["Mexico (travel, 1856 — not systematic fieldwork)"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [thinker, anthropology]
 ---
 
@@ -28,6 +28,8 @@ Edward Burnett Tylor (1832–1917) was the founding figure of academic anthropol
 - **The [[survivals|doctrine of survivals]]** — "processes, customs, opinions, and so forth, which have been carried on by force of habit into a new state of society different from that in which they had their original home" — Tylor's chief evidential device for reconstructing earlier culture-stages from present-day residues.
 - **[[animism]]** — his "minimum definition of religion" as "the belief in Spiritual Beings," and the theory that religion originates in the primitive philosopher's inference of a soul (anima) from dreams and death, elaborated into a doctrine of spirits and gods. George Stocking argues Tylor grounded this "ghost-soul" inference in a rationalist psychology: "ancient savage philosophers," reasoning from the observed difference between living and dead bodies and from dream/vision experience, drew "the obvious inference" of a soul — making primitive religious reasoning itself a form of applied logic, not superstition. Tylor extended the same rationalism to sacrifice, reading gift-offerings to deities as a rational analogy from human gift-giving to superiors, with irrationality entering only secondarily as ritual practices survived past the point their original meaning lapsed (Stocking, *Victorian Anthropology*, 1987).
 - **The [[comparative-method]]** in ethnography, and (in later work) an early statistical/cross-cultural correlational method ("On a Method of Investigating the Development of Institutions," 1889) — the origin of the Galton's-problem critique of case non-independence. Reviewing the Maine–McLennan debate in 1885, Tylor concluded that "converging research" had established the early general prevalence of female-line kinship reckoning; by 1896, after failing (in correspondence with Lorimer Fison) to locate any actual society exemplifying [[primitive-promiscuity]], he himself noted a growing "reaction" against the theory (Stocking 1987).
+- **The 1888 "adhesions" paper, in full.** Tylor's December 1888 Anthropological Institute paper (fully titled "On a Method of Investigating the Development of Institutions") tabulated the co-occurrence ("adhesion") of customs — avoidance, teknonymy (a term he coined in this paper), residence rules, the levirate, the couvade — across a sample of some 350 peoples, holding that co-occurrence exceeding chance ("eleven instances… which should have happened 'between once and twice'") demonstrated "common causation." Stocking (*After Tylor*, 1995) reads the paper as simultaneously "a powerfully condensed summary representation of twenty-five years of social evolutionary argument" and, in retrospect, "not the prospective exemplar of an ascendant paradigm, but the retrospective exemplar of a paradigm about to enter a period of decline." At the meeting itself, Francis Galton objected that Tylor's method failed to establish "the degree in which the customs of the tribes and races which are compared together are independent" — the origin of what became known as **Galton's problem** — and W. H. Flower raised a parallel objection about non-equivalent "units of comparison." Tylor dismissed the objection, holding that "correspondences brought about by historical connexion tend to set off against one another, leaving the results of general human action more or less clear." Franz Boas received a copy of the paper within weeks of its delivery — Tylor chaired the British Association's committee on the Indians of the Northwest Coast of Canada, on which Boas served as field ethnographer from 1888 — and Boas's own rebuttal, "The Limitations of the Comparative Method of Anthropology" (1896), transformed Galton's objection into a general methodological critique of evolutionary comparison. By the time of that critique Tylor himself had come to doubt the evolutionary priority of "the matriarchal family system" and wrote to Boas that his work pointed toward "a most necessary reformation" in anthropology. (Stocking, *After Tylor*, 1995 — [[stocking-after-tylor-1995]]; see [[comparative-method]], [[evolutionism-diffusionism-debate]].)
+- Tylor also produced the British Association's 1874 *Notes and Queries on Anthropology, for the Use of Travellers and Residents in Uncivilized Lands*; in his 1880 Anthropological Institute presidential address he praised [[fison-lorimer|Fison]] and [[howitt-a-w|Howitt]]'s Australian kinship work and helped arrange publication of their joint papers; and he gave the first lecture series as Oxford's Reader in Anthropology (1883/84), attended by [[codrington-robert-henry|Codrington]] (Stocking, *After Tylor*, 1995 — [[stocking-after-tylor-1995]]).
 
 ## Intellectual Genealogy
 
@@ -38,6 +40,28 @@ Institutionally, Tylor was central to anthropology's professionalization in Brit
 ## Critiques and Reappraisals
 
 Tylor's unilinear evolutionism, his "comparative method" that lifted customs out of context to array them on a developmental ladder, and his "intellectualist" theory of religion (religion as mistaken primitive science) were the principal targets of twentieth-century anthropology. Boas attacked the comparative method's assumption that similar traits imply parallel independent development; functionalists (Malinowski, Radcliffe-Brown) rejected survivals and the armchair reconstruction of origins; Evans-Pritchard criticized the intellectualist "If I were a horse" reasoning imputed to the "primitive philosopher." His racial-developmental hierarchy is now read as a period artefact of colonial-era anthropology. Reappraisals (George Stocking) treat him as the key institution-builder who made anthropology a science even as his substantive theories were superseded.
+
+## From Stocking, *Race, Culture, and Evolution* (1968)
+
+*(Attributed — [[stocking-george-w|Stocking]] 1968; source
+[[stocking-race-culture-evolution-1968]], essays 4–5.)* Two arguments supplement the
+*Victorian Anthropology* material above. First (essay 4), Tylor's [[culture]] concept was
+singular, gradable, and evaluative — "culture and civilization one by definition" — and in
+its holistic, "inward" aspects actually *further* from modern anthropology than
+[[arnold-matthew|Matthew Arnold]]'s humanist "culture"; Tylor "made evolutionary" the
+contemporary humanist idea rather than inventing the anthropological one (see [[culture]]).
+Second (essay 5), against Morris Opler, Stocking argues Tylor was neither a "cultural
+Darwinist" nor a "philosophical idealist": his method rested not on the survival of the
+fittest but on the **survival of the *unfit*** (the doctrine of [[survivals]]), his
+evolutionism was rooted in pre-Darwinian conjectural history and prehistoric archaeology
+(Brixham Cave) rather than natural selection, and his outlook was associationist,
+positivist, and agnostic. Stocking treats Opler's labels as a 1960s disciplinary polemic
+(materialist vs. idealist evolutionism) read anachronistically back onto Tylor — a worked
+example of the [[presentism-and-historicism|presentism]] he warns against. He also records Tylor's 1881 suggestion of a
+"connexion between a more full and intricate system of brain-cells... and a higher
+intellectual power, in the races which have risen in the scale of civilization" — a
+qualification of strict [[psychic-unity-of-mankind|psychic unity]] toward structural racial
+difference (documented as a period position).
 
 ## Historiography
 

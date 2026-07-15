@@ -10,7 +10,7 @@ trained: ["[[unknown]]"]
 key_works: ["Flannery 1973a, 'The Origins of Agriculture' (Annual Review of Anthropology)", "Origins and ecological effects of early domestication in Iran and the Near East (in [[ucko-dimbleby-domestication-exploitation-1969|Ucko & Dimbleby 1969]])", "Flannery and Marcus, 'Formative Oaxaca and the Zapotec Cosmos' (1976)", "Flannery and Marcus, 'Cognitive Archaeology' (1993)"]
 key_concepts: ["[[broad-spectrum-revolution]]", "systemic model of agricultural origins", "density-equilibrium / peripheral innovation model (1969)", "caprine surplus 'banking'", "environmental 'kick' as trigger for systemic change", "Zapotec cosmology as cognitive-archaeological case study"]
 fieldwork_sites: ["Deh Luran plain, SW Iran (Ali Kosh; with Hole & Neely)", "Oaxaca Valley, Mexico (with Joyce Marcus)", "southern highlands of Mexico (agricultural-origins research)"]
-sources_ingested: 5
+sources_ingested: 7
 last_updated: 2026-07-10
 tags: [thinker, archaeology]
 ---
@@ -102,3 +102,27 @@ Landmark English-language statement of Flannery’s **ecological / density-equil
 Bus Mordeh / Ali Kosh / Mohammad Jaffar phases (~7500–5600 B.C.): ~45,000 carbonized seeds / ~40 plant spp. (Helbaek); >10,000 bones / ~35 animal spp. Bus Mordeh: cereals ~3% of seeds but ~1/3 plant-food weight; wild legumes dominate seed counts; wild ungulates dominate meat weight — hunting and wild plants are **major strategies**, not “supplements.” Cultivation weeds out native annual legumes/grasses, introduces mountain crop weeds, increases *Prosopis*, shifts legumes toward caprine fodder by ~6000 B.C. — anthropogenic vegetation change can block return to pure gathering.
 
 Cross-links: [[broad-spectrum-revolution]], [[agricultural-origins-causation-debate]], [[oasis-natural-habitat-debate]], [[animal-domestication]], [[paleoethnobotany]], [[zooarchaeology]], [[processual-archaeology]].
+
+## Bellwood *First Farmers* densification (2005)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005; Flannery as cited interlocutor.)*
+
+- **Epigraph:** Ch. 2 opens with Flannery 1986:4 — “The origins of agriculture involve both human intentionality and a set of underlying ecological and evolutionary principles.”
+- **Packing / edge model (with [[binford-lewis|Binford]]):** Bellwood restates Binford 1968 / Flannery 1969 — post-Pleistocene packing in favorable zones → outflow to marginal zones → cereal cultivation likeliest at **edges** of wild plant ranges (higher supply stress than cores).
+- **Architecture:** Flannery 1972 on Natufian/PPNA **circular** houses → PPNB subdivided **rectilinear** forms that dominate later Old World domestic architecture (Bellwood’s SW Asia sequence).
+- **Americas:** Americas fit popular worldwide risk-minimization / packing / circumscription models (Carneiro 1970; Flannery 1986) though precise inducement chronologies remain obscure (Bellwood). Flannery 1986:16 on end-Pleistocene climate + Holocene population growth, reduced mobility, Mexican agriculture as risk-leveling between wet and dry years. Early Formative population growth and pioneer-farming expansion under maize (Flannery & Marcus 2003 cited); Olmec/Chavín may re-emphasize shared ancestry rather than single-origin conquest (Flannery & Marcus 2000 via Bellwood).
+- **Maize chronology (as of Bellwood 2005 citations):** Piperno & Flannery 2001 AMS domesticated maize cobs Guilá Naquitz ~4250 BC; Flannery 1972 on maize productivity by ~2000 BC (~6 cm cob; ~200–250 kg/ha) underpinning Formative efflorescences; early *Cucurbita* AMS seed Guilá Naquitz ~10,000 years old (Smith 1997b; Flannery 1986).
+
+Source: [[bellwood-first-farmers-2005]].
+
+## Barker 2006 densification (*The Agricultural Revolution in Prehistory*)
+
+*(Attributed — [[barker-graeme]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006; Flannery as systems/broad-spectrum and “forced farming” interlocutor.)*
+
+- **Processual placement:** Flannery appears with Binford in Barker’s account of 1960s [[processual-archaeology|New / Processual Archaeology]] — hypothesis-testing, adaptive systems, multi-period survey/excavation pathways (Tehuacán, Jarmo, Deh Luran).
+- **Systems / positive-feedback model (1965, 1969):** Late Pleistocene SW Asian broad-spectrum subsistence (cereals, nuts, legumes; sheep/goat/deer; fish, snails, shellfish, turtles, crabs); partly sedentary, high populations; Holocene warming expanded woodland and wild cereals requiring sickles, grinders, silos — reliance **by necessity not choice**; intensification forced in **marginal zones** while optimal zones coped; critical step moving plants/animals **outside natural habitats** (e.g. Ali Kosh). Parallel feedback model for Mesoamerica (Flannery 1968). Barker: complex interactions (“positive feedback”) more likely to generate change than linear single-cause sequences.
+- **Forced adoption (Flannery 1973):** Early farming as a decision to work harder and eat more “third choice” food — people farmed because they felt they **had** to, not wanted to; Barker presents this as full circle from Victorian progress narratives. Shared premise with Binford: strong reason required to leave foraging.
+- **Stark taxonomy:** Flannery’s SW Asian packing/marginal intensification and 1968 Mesoamerican genetic-schedule “pull” are exemplars of Stark’s (1986) **push** and **pull** model families in Barker’s historiography.
+- **Ideology timing (with Joyce Marcus, via Barker Ch. 10):** Against Cauvin’s ideology-before-farming primacy, Barker cites Marcus & Flannery (2004) that Oaxaca celestial-observation rituals developed **in tandem with** maize farming and village settlement, not preceding them — support for Barker’s tandem / multi-factor preference over single-cause ideology primacy.
+
+Source: [[barker-agricultural-revolution-prehistory-2006]]. Cross-links: [[binford-lewis]], [[cauvin-jacques]], [[broad-spectrum-revolution]], [[agricultural-origins-causation-debate]], [[oasis-natural-habitat-debate]].

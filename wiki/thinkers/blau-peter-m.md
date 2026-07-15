@@ -4,14 +4,14 @@ date_birth: 1918
 date_death: 2002
 disciplines: [sociology, social-psychology]
 era: [postwar-expansion, critical-turn, contemporary]
-affiliated_theories: ["[[social-exchange-theory]]", "structural sociology / macrostructural theory (his later program, *Inequality and Heterogeneity* 1977 — not separately ingested)"]
+affiliated_theories: ["[[social-exchange-theory]]", "[[status-attainment]]", "structural sociology / macrostructural theory (his later program, *Inequality and Heterogeneity* 1977 — not separately ingested)"]
 trained_under: ["[[unknown|Robert K. Merton (Columbia; introduced Blau to Weber's theory of bureaucracy)]]", "[[unknown|Conrad Arensberg (industrial-sociology course)]]"]
 trained: ["[[unknown]]"]
-key_works: ["The Dynamics of Bureaucracy (1955)", "[[blau-exchange-power-1964|Exchange and Power in Social Life (1964)]]", "The American Occupational Structure (with O. D. Duncan, 1967 — the Blau–Duncan status-attainment model; not ingested)", "Inequality and Heterogeneity (1977 — his macrostructural theory; not ingested)", "Crosscutting Social Circles (with J. E. Schwartz, 1984; not ingested)"]
-key_concepts: ["[[social-exchange]]", "[[differentiation-of-power]]", "[[imbalance-of-exchange]]", "[[mediating-values]]", "emergent properties of social structure", "[[cross-cutting-conflicts|crosscutting social circles]] (macro period)"]
-fieldwork_sites: ["Two US federal agencies (a law-enforcement agency and a public employment/welfare agency), c. 1948–1949 — nonparticipant observation of informal consultation, basis of *The Dynamics of Bureaucracy*"]
-sources_ingested: 1
-last_updated: 2026-07-09
+key_works: ["The Dynamics of Bureaucracy (1955)", "[[blau-exchange-power-1964|Exchange and Power in Social Life (1964)]]", "[[blau-duncan-american-occupational-structure-1967|The American Occupational Structure (with O. D. Duncan, 1967)]]", "Inequality and Heterogeneity (1977 — his macrostructural theory; not ingested)", "Crosscutting Social Circles (with J. E. Schwartz, 1984; not ingested)"]
+key_concepts: ["[[social-exchange]]", "[[differentiation-of-power]]", "[[imbalance-of-exchange]]", "[[mediating-values]]", "emergent properties of social structure", "[[cross-cutting-conflicts|crosscutting social circles]] (macro period)", "[[status-attainment]] (with Duncan)"]
+fieldwork_sites: ["Two US federal agencies (a law-enforcement agency and a public employment/welfare agency), c. 1948–1949 — nonparticipant observation of informal consultation, basis of *The Dynamics of Bureaucracy*", "United States national OCG/CPS survey analysis (with Duncan; field March 1962) — quantitative, not ethnographic"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [thinker, sociology, social-psychology]
 ---
 
@@ -29,7 +29,7 @@ Peter Michael Blau (1918–2002) was an Austrian-born American sociologist whose
 - **The derivation of macrostructure from exchange.** From social attraction Blau derives, in sequence, [[social-exchange]], the [[differentiation-of-power|differentiation of power]] (through [[imbalance-of-exchange|imbalanced exchange]] and [[unilateral-dependence]]), [[legitimation]] and organization, and [[opposition]] — the "four facets of social structure" (integration, differentiation, organization, opposition), extended across complex structures by [[mediating-values|mediating values]] and [[institutionalization]].
 - **A dialectical account of change.** Blau closes not with Parsonsian equilibrium but with [[dialectic-of-social-change|dialectical forces]]: "the very processes that restore social equilibrium are usually disequilibrating forces in other respects," so structural change is intermittent and dialectical.
 - **Later macrostructural theory** (outside this source). Blau reconceived social structure as a multidimensional space of positions defined by **heterogeneity** and **inequality**, deriving testable theorems on intergroup relations (e.g., group size and intermarriage across 125 US metropolitan areas), operationalizing Simmel's [[cross-cutting-conflicts|crosscutting social circles]].
-- **Status attainment** (outside this source). The Blau–Duncan path model of occupational mobility (1967) founded a major quantitative research program.
+- **Status attainment** (with [[duncan-otis-dudley|O. D. Duncan]]). *[[blau-duncan-american-occupational-structure-1967|The American Occupational Structure]]* (1967) founded the quantitative [[status-attainment]] program via the OCG path model of origins → education → first job → occupational status; study: [[blau-duncan-american-occupational-structure-study]].
 
 ## Intellectual Genealogy
 
@@ -50,7 +50,9 @@ The primary self-documentation is Blau's 1986 "Introduction to the Transaction E
 
 ## See also
 
-- Source: [[blau-exchange-power-1964]]
-- Theory: [[social-exchange-theory]]
+- Sources: [[blau-exchange-power-1964]] · [[blau-duncan-american-occupational-structure-1967]]
+- Studies: [[blau-duncan-american-occupational-structure-study]]
+- Theories: [[social-exchange-theory]] · [[status-attainment]]
+- Co-author (AOS): [[duncan-otis-dudley]]
 - Key interlocutor: [[homans-george-c]]
 - Successor program: [[rational-choice-theory]] ([[coleman-james|Coleman]])

@@ -9,8 +9,8 @@ key_works: ["[[gumperz-hymes-directions-sociolinguistics-1972|Directions in Soci
 key_concepts: ["[[interactional-sociolinguistics]]", "[[code-switching]]", "[[speech-community]]", "contextualization cues", "linguistic repertoire"]
 fieldwork_sites: ["Khalapur and north India (village multilingualism, 1950s)", "Hemnesberget, Norway (c. 1960)", "urban Britain and United States (interethnic communication, 1970s–80s)"]
 primary_sources: ["Gumperz, Introduction to Directions in Sociolinguistics (1972)", "Blom & Gumperz, ch. 14, Directions in Sociolinguistics (1972)"]
-key_sources: ["Gumperz & Hymes (eds.), Directions in Sociolinguistics (1972)"]
-last_updated: 2026-07-10
+key_sources: ["Gumperz & Hymes (eds.), Directions in Sociolinguistics (1972)", "Gumperz, Discourse Strategies (1982)"]
+last_updated: 2026-07-15
 tags: [hub, thinker-analysis]
 ---
 
@@ -20,8 +20,8 @@ tags: [hub, thinker-analysis]
 > the Introduction and chapter 14 of *[[gumperz-hymes-directions-sociolinguistics-1972|Directions
 > in Sociolinguistics]]* (1972). Biographical and reception detail beyond the ingested
 > primary material is deliberately kept thin and flagged rather than filled from outside
-> invention; the later works (*Discourse Strategies*, 1982) are named for trajectory but are
-> not yet ingested as primary sources.
+> invention. *[[gumperz-discourse-strategies-1982|Discourse Strategies]]* (1982) is now
+> ingested as a primary source (2026-07-15) and grounds the 1982-program material below.
 
 **Analysis standard:** attributed voice for all interpretive claims; the empirical base
 (the Hemnesberget fieldwork) examined critically; a works-timeline table; a
@@ -102,7 +102,7 @@ the moment.
 | Blom & Gumperz, "Social Meaning in Linguistic Structures" | 1972 | Introduces situational vs. metaphorical code-switching | Foundational and much-cited; later reanalyzed and contested |
 | Introduction to Directions in Sociolinguistics | 1972 | Periodizes sociolinguistics; opposes interactional to correlational approaches | Standard historiographic reference for the field's emergence |
 | Directions in Sociolinguistics (ed., with Hymes) | 1972 | Collects the "directions" of the interactional turn in one anthology | Landmark reader; canonical teaching text |
-| Discourse Strategies | 1982 | Contextualization cues; interethnic miscommunication | Widely adopted; criticized for interpretive method (not yet ingested here) |
+| Discourse Strategies | 1982 | Contextualization cues; conversational inference; the crosstalk program; founds the CUP Studies in Interactional Sociolinguistics series | Widely adopted; criticized for interpretive method; chapter core dates to 1976–79 papers |
 
 ## Conceptual Contributions and Their Mechanics
 
@@ -112,7 +112,9 @@ the moment.
 | [[interactional-sociolinguistics]] | Gumperz, Introduction 1972; developed 1982 | From code choice to prosodic contextualization cues | Active program in discourse and intercultural studies |
 | [[speech-community]] | Gumperz 1964; refined 1972 | From shared language to shared communicative norms | Standard, though the unit remains contested |
 | linguistic repertoire | Gumperz 1964b | Extended to multilingual and urban settings | Core descriptive concept in sociolinguistics |
-| contextualization cues | Discourse Strategies 1982 | — | Central to interactional discourse analysis |
+| [[contextualization-cue|contextualization cues]] | Discourse Strategies 1982, Ch. 6 (papers w/ Tannen 1979) | From code-switching special case to general signalling theory; feeds later indexicality/framing work | Central to interactional discourse analysis |
+| [[conversational-inference]] | Discourse Strategies 1982, Ch. 7 | — | Core process concept of the program |
+| we-code / they-code | Discourse Strategies 1982, Ch. 4 (chapter completed 1976) | Symbolic association, not usage predictor (his own caution) | Standard shorthand in bilingualism research |
 
 The mechanism that unifies these is stated in the Introduction. Gumperz rejects the
 "correlational" model in which language and society are "two distinct types of enquiry"
@@ -144,6 +146,25 @@ meaning of the alternatives. The community is an interpretive, not a grammatical
 The load-bearing empirical work in the ingested material is the
 [[blom-gumperz-hemnesberget-study|Hemnesberget study]] (see that page for the full
 treatment). Examined critically, its design has real strengths and real vulnerabilities.
+
+**The 1982 empirical base** (*Discourse Strategies*, now ingested — all attributed). Four
+strata: (1) the [[gail-valley-slovenes|Gail Valley]] Slovenian–German language-shift study
+(1970s; 2 + ~15 months of fieldwork, much of it by Sarah Wickander; NIMH MH26831/NSF funding)
+— network structure, not repression or contact density, predicting maintenance (occupation-era
+children lost no grammar; 1970s teenagers with 45% non-farm household income were losing the
+dual); (2) three participant-recorded, member-checked code-switching corpora (Gail Valley,
+Delhi Hindi–English, Chicano Spanish–English); (3) contrastive Indian/Western English prosody
+built on remarkably thin elicitation — a sentence list read by **two main informants, one
+British and one Punjabi woman**, supplemented opportunistically — which Gumperz candidly
+labels "preliminary"; (4) the crosstalk cases (airport cafeteria "Gravy," the London
+counseling interview, classroom playback studies, the "kill Richard Nixon" rally analysis).
+The method's signature and its vulnerability are the same device: playback to listener panels
+whose divergent readings are traced to cues — panel composition and the analyst's member
+intuition ("this analysis relied implicitly on our knowledge, as members") do the
+interpretive work. Chapter provenance also matters for dating: the code-switching analysis
+was "completed in 1976," the prosody chapter was co-drafted with Hannah Kaltman (1979), and
+parts of Ch. 6 with Deborah Tannen — the "1982" program is substantially a 1976–79 research
+program consolidated.
 
 Strengths: the **self-recruited-group recording** method — local acquaintances asking real
 friendship and kin groups to hold recorded gatherings — was an ingenious solution to the

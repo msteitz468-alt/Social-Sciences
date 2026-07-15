@@ -7,9 +7,9 @@ disciplines: [anthropology]
 emic_or_etic: migrated
 operationalized_as: "Asymmetric affinal alliance: mayu = wife-giving lineage(s); dama = wife-taking lineage(s); preferred marriage of man into mayu; rank often mayu > dama in gumsa ideology"
 contested: yes
-related_concepts: ["[[gumsa]]", "[[gumlao]]", "[[gumsa-gumlao-oscillation]]", "[[cross-cousin-marriage]]", "[[marriage-payments]]", "[[segmentary-lineage-system]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[gumsa]]", "[[gumlao]]", "[[gumsa-gumlao-oscillation]]", "[[cross-cousin-marriage]]", "[[marriage-payments]]", "[[segmentary-lineage-system]]", "[[affinity]]", "[[local-descent-group]]", "[[ethnographic-algebra]]", "[[generalized-exchange]]"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -49,3 +49,14 @@ In [[gumsa]] ideology, if mayu and dama differ in class, **mayu almost always ra
 ## Critiques and Limitations
 
 Ideal rules vs practice (Leach stresses flexibility and local bans such as *tsa–hkri*); variation among subgroups; Enriquez-type claims that "no one understands" the rules — Leach treats contradiction as systemic, not mere ignorance. Later kinship revisions not yet ingested.
+
+## From *Rethinking Anthropology* (1961)
+
+*(Attributed — Leach.)*
+
+- **[[ethnographic-algebra|ethnographic algebra]] (Ch. 2).** Ideal society hypotheses generate the terminology: preferred marriage is between *gu* and *nam* (not the English gloss “MBD”); Hyp 6–7 encode matrilateral preference + FZD ban; *mayu–dama* is the cognitive frame even when practice is a remote approximation. Structural analysis discusses **ideal** behaviour; MB and WF share *tsa* because of permanent unique *mayu–dama*, not because a “general form” of MB behaviour is assumed.
+- **Group [[affinity]] (Chs. 1, 5).** *Mayu/dama* (and Lakher *patong*) name enduring alliance between [[local-descent-group|local descent groups]], not the individual reciprocal of parent–child filiation — the wedge against Fortes [[complementary-filiation]].
+- **Structural implications (Ch. 3).** Kachin-type asymmetrical matrilateral marriage precludes direct exchange of women between two local descent groups; costly consumer-goods brideprice tends to mark wife-givers as senior; Lévi-Strauss’s rank direction on Chin/Kachin material is corrected as “back to front” on Leach’s reading. Comparative parallels: Batak *hulahula–anak boru*; contrast Lovedu reverse hierarchy.
+- **Marriage stability (Ch. 5).** Ordinary Jinghpaw near-indissoluble person-transfer after *num shalai* vs Gauri intermediate vs [[lakher|Lakher]] expensive bridewealth + easy divorce — same *mayu*-type politics, different marriage institution.
+
+Source: [[leach-rethinking-anthropology-1961]].

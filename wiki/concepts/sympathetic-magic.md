@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "magical practices classified by Law of Similarity (homoeopathic/imitative) vs Law of Contact/Contagion (contagious); both under 'sympathy' at a distance"
 contested: yes
 related_concepts: ["[[magic]]", "[[taboo]]", "[[animism]]", "[[survivals]]", "[[intellectualist-theory-of-magic-and-religion]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -28,6 +28,8 @@ Both assume things act on each other at a distance through a "secret sympathy"; 
 
 Builds on [[tylor-edward-burnett|Tylor]]'s account of magic as mistaken association of ideas (*[[tylor-primitive-culture-1871|Primitive Culture]]*). Frazer's binary and the label "sympathetic magic" became textbook standard. Later anthropology kept the descriptive typology for some practices while rejecting the "false science" verdict and the evolutionary ranking of magic below religion. Malinowski, Mauss/Hubert, and Evans-Pritchard re-theorized magic socially and psychologically. See [[magic]], [[intellectualist-theory-of-magic-and-religion]].
 
+(Attributed — [[stocking-after-tylor-1995|Stocking, *After Tylor*]], 1995.) In the first edition of *The Golden Bough*, Frazer explained "primitive" belief via an inability to distinguish the natural from the supernatural; the second edition drew a "sharp distinction" between magic and religion and elaborated the sympathetic-magic theory into its mature two-part form. Stocking credits the term "contagious magic" specifically not to Frazer but to the folklorist Sydney Hartland, from whom Frazer adopted it for the Law of Contact/Contagion (hair, nail clippings, footprints). Frazer attributed both principles to Tylorian "laws of thought" — association of ideas by similarity and by contiguity.
+
 ## Operationalizations
 
 A rite is "homoeopathic" when efficacy is claimed via resemblance (image magic, rain by imitation); "contagious" when via former contact (hair, nails, footprints). In practice Frazer noted frequent combination.
@@ -35,6 +37,10 @@ A rite is "homoeopathic" when efficacy is claimed via resemblance (image magic, 
 ## Applications
 
 Organizing principle of *The Golden Bough*'s catalogues (weather magic, image-harm, fertility rites, flesh diet, etc.); still used descriptively in folklore and history of magic studies.
+
+### Hubert & Mauss (1902–03; primary-ingested)
+
+*(Attributed — [[hubert-henri|Hubert]] & [[mauss-marcel|Mauss]], *[[mauss-general-theory-magic-1902|A General Theory of Magic]]*.)* They restate the doctrine as **three** laws — "contiguity, similarity and opposition: things in contact are and remain the same — like produces like — opposites work on opposites" — endorsing Tylor's association-of-ideas reading and Frazer's terminology (they back "mimetic sympathy," with Hartland, for the similarity class, and credit Frazer with showing similarity and contiguity merge in practice: "Rites of similarity normally involve contact"). But their core move is negative: "sympathetic formulas… will not be sufficient to represent the totality of a rite of sympathetic magic" — the laws leave a "residue" (why *this* rite, performed by *this* qualified person, is held effective), and the three laws are "obviously three aspects of one idea." Magical properties are conventional, not natural: "it is the notion of property and the social conventions behind the objects which allow the collective spirit to link together the sympathetic bonds," so "the system of sympathetic and antipathetic magic can be reduced to one of classifying collective representations." The residue is filled by [[mana]]. They also flag "sympathetic taboos — negative magic" as an understudied class (see [[taboo]]). Also: the anthropological school's definitions "tend to confuse 'magic' with 'sympathetic magic'" — sympathy is neither universal in magic nor exclusive to it (religion has sympathetic rites). See [[mauss-hubert-general-theory-magic-study]].
 
 ## Critiques and Limitations
 

@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Limited set of known, learnable forms of collective claim-making available to a population at a time (Tilly 1978)"
 contested: yes
 related_concepts: ["[[collective-action]]", "[[collective-violence]]", "[[mobilization]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -34,3 +34,11 @@ Explaining why groups do not invent wholly new tactics each time; path-dependenc
 ## Critiques and Limitations
 
 How "closed" repertoires are is debated; innovation and diffusion need mechanisms (later Tilly/Tarrow work).
+
+## From *Identities, Boundaries, and Social Ties* Ch. 15 (2005)
+
+*(Attributed — Tilly.)* Social movement as historically specific package: **campaign** + **repertoire** + **WUNC** displays (worthiness, unity, numbers, commitment). Britain as priority site for availability/spread of modular forms. Transfer mechanisms include tactical innovation, bargaining, negotiated diffusion, brokerage, certification, and local adaptation (not claimed universal or exhaustive). Markoff factors (structural replication; cultural model transmission; movement of people) plus international organizations. Source: [[tilly-identities-boundaries-social-ties-2005]]; [[organizational-broker]].
+
+## From *Dynamics of Contention* (2001)
+
+*(Attributed — McAdam, Tarrow & Tilly.)* Repertoires remain part of the classic agenda the authors criticize as static when boxed alone; DOC relocates repertoire change inside dynamic interaction — innovation defines **transgressive** contention; [[object-shift]] and [[scale-shift]] reshape available performances; modular forms travel via diffusion and [[brokerage]]. Source: [[mcadam-tarrow-tilly-dynamics-of-contention-2001]].

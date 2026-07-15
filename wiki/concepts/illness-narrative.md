@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "collected and interpreted clinically or ethnographically as the patient's (and family's) story of the illness; analyzed for plot, core metaphors, and rhetorical structure"
 contested: "no"
 related_concepts: ["[[illness-disease-distinction]]", "[[explanatory-models]]", "[[meaning-centered-medical-anthropology]]", "[[narrative-analysis]]", "[[somatization]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -77,3 +77,30 @@ of a person's problem, and aesthetic value" — and warns against "excessive spe
 hidden meanings." Because case narratives in the book are, by the author's note, anonymized and
 sometimes composite (e.g., Mrs. Paget "an amalgam of the experiences and stories of several
 chronic patients"), they are illustrative constructions, not verifiable single-patient records.
+
+## Good's Narrative Analytics (1994)
+
+[[good-byron|Byron Good]]'s *[[good-medicine-rationality-1994|Medicine, Rationality, and
+Experience]]* (1994) extends the concept with literary theory (all attributed), grounded in his
+Turkish epilepsy study (32 seizure sufferers, Ankara region, summer 1988):
+
+- **Emplotment** (Ricoeur, Brooks): illness stories have "directedness," a teleology; Good
+  identified five prototypical plot types in the Turkish corpus (onset via fright/trauma; via
+  childhood fever or injury; unplotted; a lifetime of suffering with "fainting" as a rhetoric of
+  complaint; evil-eye/jinn onset).
+- **Subjunctivizing tactics** (Bruner's "subjunctivizing reality"): narratives keep multiple
+  unreconciled causal accounts and encounters with the mysterious in play, holding the story
+  open to a cure — "trafficking in human possibilities rather than in settled certainties."
+- **Narrative authority and power**: stories are dialogically produced within family politics;
+  in one case a young bride's "voice was appropriated by the family. She was not allowed to
+  tell her story, perhaps even to have a story."
+- **Blanks and negations** (Iser): the Turkish narratives worked as much by broken-off plots and
+  negated explanations as by positive assertion — for Good, why illness is a wellspring of the
+  cultural imagination.
+- Against reduction to belief: Good explicitly rejects translating such narratives into
+  taxonomies of "cultural beliefs" about causation, arguing the belief/rationality idiom imports
+  biomedical assumptions and distances researcher from subject.
+
+In the clinic, Good's Harvard ethnography adds the counter-genre: the case presentation, a
+formative speech act that "edits out" the patient's story, representing the person as the site
+of disease rather than a narrative agent.

@@ -7,9 +7,9 @@ disciplines: [sociology]
 emic_or_etic: etic
 operationalized_as: "Embodied (dispositions, cultivation), objectified (books, instruments), and institutionalized (credentials) forms; often measured via education and taste inventories"
 contested: yes
-related_concepts: ["[[symbolic-capital]]", "[[social-capital]]", "[[habitus]]", "[[social-field]]", "[[cultural-reproduction]]", "[[pedagogic-action]]", "[[cultural-arbitrary]]", "[[aesthetic-disposition]]", "[[distinction]]", "[[social-space]]"]
-sources_ingested: 5
-last_updated: 2026-07-09
+related_concepts: ["[[symbolic-capital]]", "[[social-capital]]", "[[habitus]]", "[[social-field]]", "[[cultural-reproduction]]", "[[pedagogic-action]]", "[[cultural-arbitrary]]", "[[aesthetic-disposition]]", "[[distinction]]", "[[social-space]]", "[[concerted-cultivation]]", "[[accomplishment-of-natural-growth]]"]
+sources_ingested: 8
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -50,6 +50,28 @@ Without literacy and educational systems, he claimed (citing Goody & Watt), a so
 - **In *Distinction* (dense):** educational capital (schooling duration/credentials); inherited cultural capital / pedigree; taste inventories (music, painting, food, décor, body); [[correspondence-analysis]] of lifestyle modalities; secondary INSEE/SOFRES indicators of consumption and leisure.
 - **Standard later operationalizations** (credentials, years of schooling, high-culture consumption, linguistic competence, MCA of tastes) — methods differ by study and national system.
 
+## In *Homo Academicus* (1984)
+
+*(Attributed — Bourdieu, [[bourdieu-homo-academicus-1984]]; see [[bourdieu-homo-academicus-study]].)* Within the [[academic-field|academic field]], Bourdieu specifies a distinction internal to the general cultural-capital theory: properly [[academic-capital|academic/institutional power]] (control of reproduction instruments — the agrégation jury, the Comité consultatif des universités), held mainly through the École normale supérieure, versus scientific and intellectual capital (research direction, citation-measured prestige, media renown), concentrated among social-science specialists. The **normalien title** functions as a universal currency converting scholastic capital into both forms of academic power, exercising a "multiplier effect" on all social powers held — more active the higher one sits in the hierarchy — because school ties, actively maintained, are among the few bases of trans-disciplinary solidarity. Cross-link: [[academic-capital]].
+
+## In *The State Nobility* (1989)
+
+*(Attributed — Bourdieu, [[bourdieu-state-nobility-1996]]; Wacquant's foreword.)* The macro
+statement of the "second capital" thesis: in advanced societies the school has replaced the
+Church in sanctifying social divisions, so "two species of capital now give access to positions
+of power" — economic and cultural. Cultural capital legitimates inheritance uniquely well
+because, "though mainly accumulated and handed down in the family," it "appears to inhere in the
+person of its bearers," combining "the prestige of innate property with the merits of
+acquisition." Elaborations: "ease" as the privilege of native familiarity ("academic culture as
+their native culture"); precocity as "one of the many academic retranslations of cultural
+privilege"; the critique of Beckerian human-capital economics for missing "the domestic transfer
+of cultural capital"; the demonstration that inclination to invest academically depends on the
+relative weight of cultural capital in the family patrimony ("a dual demonstration of the
+dominated status of this form of capital"); and cultural/informational capital as a form of
+power over economic capital itself (the banking case). Esprit de corps is named "the
+precondition for the constitution of cultural capital" as a collective resource. See
+[[field-of-power]], [[modes-of-reproduction]], [[state-nobility]].
+
 ## Applications
 
 - **Educational selection and theodicy of privilege (*Logic* ch. 8).** Educational system helps provide the dominant class with a "theodicy of its own privilege" less through ideologies produced than through practical justification of the established order, masking under the overt link qualifications–jobs the relationship between qualifications obtained and **inherited** cultural capital. Most successful ideological effects need no words — laissez-faire and complicitous silence.
@@ -57,6 +79,7 @@ Without literacy and educational systems, he claimed (citing Goody & Watt), a so
 - **Artistic field** as island of pure consumption of money and time — alluded in *Logic*; mapped via lifestyle and appropriation modes in *Distinction*.
 - **Class-taste and lifestyle program (*Distinction*).** Full empirical program of legitimate / middle-brow / popular taste zones, fraction variants, and political homology — see study and concept pages linked above.
 - **U.S. inner-city legal work and schooling (Bourgois 1995/2003).** In *[[bourgois-in-search-of-respect-1995|In Search of Respect]]*, [[bourgois-philippe|Bourgois]] applies cultural capital (with Wacquant’s editorial hand noted) to East Harlem: Ray’s failed “legit” businesses and literacy barriers; Primo/Caesar’s office and service “disses”; school careers from kindergarten cultural-capital clash through Special Ed/SSI. Street [[habitus]] is not portable into FIRE interaction orders. Attributed ethnographic application, not a redefinition of Bourdieu’s construct — see [[bourgois-in-search-of-respect-study]], [[street-culture]].
+- **Classed childrearing (Lareau 2003/2011).** *[[lareau-unequal-childhoods-2011|Unequal Childhoods]]* operationalizes transmission via [[concerted-cultivation]] vs [[accomplishment-of-natural-growth]]: middle-class families activate institutional capital (language, interventions, organized activities); working-class/poor families’ skills are undervalued by schools. Lareau’s App. B frames the pair as habitus-like classed logics; capital **activation** can fail even when present (Handlon case). See [[lareau-unequal-childhoods-study]].
 
 ## Critiques and Limitations
 

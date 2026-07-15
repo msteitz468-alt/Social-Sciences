@@ -14,7 +14,7 @@ core_questions:
 major_methods: ["[[positive-method]]", "historical-comparative analysis (Comtean)", "[[moral-statistics]]", "[[comparative-method]]", "[[treat-social-facts-as-things]]", "[[social-observation]]", "[[logico-experimental-method]]", "[[ideal-type]]", "[[verstehen]]", "[[ecological-method]]", "[[community-study]]", "[[theoretical-sampling]]", "[[constant-comparative-method]]", "[[network-analysis]]", "[[survey-research]]", "[[secondary-analysis]]", "[[sequence-analysis]]", "[[optimal-matching]]", "[[qualitative-comparative-analysis]]", "[[laboratory-ethnography]]"]
 subfields: ["[[social-psychology]]", "[[political-sociology]]", "[[urban-sociology]]", "[[sociology-of-education]]", "[[cultural-sociology|sociology of culture]]", "[[economic-sociology]]"]
 collection_coverage: moderate
-sources_ingested: 55
+sources_ingested: 57
 last_updated: 2026-07-10
 tags: [discipline]
 ---
@@ -143,6 +143,15 @@ The Contemporary **sociology of gender and masculinities** wing enters with [[co
 
 The Contemporary **[[cultural-sociology|sociology of culture]]** wing enters with [[swidler-ann|Ann Swidler]]'s *[[swidler-talk-of-love-2001|Talk of Love]]* (2001) — the [[culture-in-action|toolkit/"culture in action" program]] ([[cultural-toolkit]], [[strategies-of-action]], [[settled-unsettled-lives]], [[codes-contexts-institutions]]), grounded in an interview study of how middle-class Americans talk about love ([[swidler-talk-of-love-study]]) and defined against both [[parsons-talcott|Parsons]]'s values model and [[geertz-clifford|Geertz]]'s interpretivism.
 
+The Contemporary period's **systems-theory** strand enters with [[luhmann-niklas|Niklas Luhmann]]'s
+*[[luhmann-social-systems-1995|Social Systems]]* (*Soziale Systeme*, 1984/1995) — the general
+theory of self-referential, [[autopoiesis|autopoietic]] [[social-systems-theory|social systems]]
+built on the thesis that society consists of **[[communication|communications]]**, not of persons
+or actions ([[self-reference]], [[double-contingency]], [[meaning]], [[interpenetration]],
+[[functional-differentiation]], [[complexity]]). Post-Parsonian and anti-humanist, it is the chief
+rival to [[habermas-jurgen|Habermas]]'s [[theory-of-communicative-action]] and the German
+counterpole to Frankfurt-School critical theory (standing dispute: [[luhmann-habermas-debate]]).
+
 The rest of the Contemporary period (1990–present) is not yet documented from primary ingest beyond these openings.
 
 ## Theoretical Landscape
@@ -202,6 +211,8 @@ Collection now includes Homans *[[homans-human-group-1950|The Human Group]]* (19
 
 Partial classical coverage only. Active research fronts require further contemporary sources.
 
+- **[[southern-theory|Southern Theory]]** ([[connell-raewyn|Connell]] 2007): reconstruction of sociology's imperial founding under [[global-difference]]; critique of metropolitan general theory and globalisation sociology; program for multi-centred, democratic social science ([[connell-southern-theory-2007]]).
+
 ## Reflexivity
 
 Sociology's Comtean birth is openly a **reorganization project** after the French Revolution and what Comte called intellectual anarchy — not a value-neutral academic specialty. The historical method privileges a European "elite of humanity" path; statics privileges the "white race" as chief object of the scientific society-concept (attributed). Gendered hierarchy in social statics ([[family]] doctrine) shaped early images of the social organism. Colonial and comparative worlds appear mainly as inferior stages relative to the advanced series. Tocqueville's America material and Durkheim's "lower societies" framings carry their own positionality; Veblen's 1899 race typology is dated race-science (attributed, not fact). Spencer’s *Principles* compile travellers’/missionaries’ reports under Victorian “savage/barbarian/civilized” vocabulary and include race-mixture constitutional claims — attributed dated discourse, not findings. Pareto’s *Trattato* confines illustration to Europe/Mediterranean (§2065), polemizes against “pluto-demagogic” democracy, and carries dated sex/race illustrations under attributed voice only. Du Bois writes as subject of the color-line, not as European “elite of humanity” observer — a structural corrective within the classical era, though *Souls* still centers male leadership types and 1903 institutional facts.
@@ -235,3 +246,5 @@ Ingested [[piketty-capital-twenty-first-century-2014|Piketty, *Capital in the Tw
 ## Collection note — Latour & Woolgar 1979/1986
 
 *[[latour-woolgar-laboratory-life-1979|Laboratory Life]]* primary-ingested: charter [[laboratory-studies]] / [[laboratory-ethnography]] of scientific fact construction at the [[salk-institute]] (Latour fieldwork 1975–77; with [[woolgar-steve|Woolgar]]). Concepts [[literary-inscription]], [[inscription-device]], [[statement-types]], [[cycles-of-credit]], [[black-box]]. Study + Studies Hub: [[latour-woolgar-laboratory-life-study]]. Extends constructionist sociology into technical natural-science content; distinct from residual Mertonian "social factors." STS as named subfield page still absent — held under sociology/anthropology + theory page for now.
+
+Connell *Southern Theory* (2007) ✅ — geopolitics of sociological knowledge; densifies contemporary global-sociology coverage.

@@ -4,10 +4,10 @@ dispute_type: empirical
 disciplines: [biological-anthropology, archaeology]
 era: [critical-turn, contemporary]
 positions: ["Recent African origin / Out of Africa (replacement or mostly-replacement)", "Multiregional evolution (continuity with gene flow)", "Assimilation / partial continuity hybrids", "Mostly Out of Africa continuum (Stringer 2012: pure RAO ↔ Bräuer hybridization ↔ Smith–Trinkaus Assimilation ↔ Multiregionalism)", "Behavioral modernity timing (Klein ~50 ka neural switch vs Mellars 60–80 ka vs McBrearty–Brooks gradual MSA assembly)"]
-key_texts: [stringer-gamble-in-search-of-the-neanderthals-1993, stringer-lone-survivors-2012, wenke-olszewski-patterns-in-prehistory-2007, gamble-timewalkers-1994, klein-human-career-1999, gamble-palaeolithic-societies-europe-1999]
+key_texts: [stringer-gamble-in-search-of-the-neanderthals-1993, stringer-lone-survivors-2012, wenke-olszewski-patterns-in-prehistory-2007, gamble-timewalkers-1994, klein-human-career-1999, gamble-palaeolithic-societies-europe-1999, bogucki-origins-human-society-1999]
 resolution_status: partially-resolved
 related_debates: ["[[peopling-of-the-americas-debate]]", "[[human-aggression-killer-ape-debate]]"]
-sources_ingested: 7
+sources_ingested: 8
 last_updated: 2026-07-10
 tags: [debate, biological-anthropology, archaeology]
 ---
@@ -239,3 +239,17 @@ Two social systems based on distinct uses of **emotional, material, and symbolic
 ### Relation to Stringer & Gamble 1993 and Klein 1999
 
 Gamble 1999 keeps replacement/extension of Neanderthal social systems live while shifting the explanatory load onto **network resources and release from proximity**, and while warning against pure population-replacement storytelling. It does **not** re-adjudicate African fossil phylogeny or 1993 genetics (those layers stay above). Klein’s cognitive-threshold Out of Africa 2 and S&G’s imitation-of-Moderns package remain separate positions; Gamble’s network model is an additional archaeological-social frame on the same transition.
+
+### Textbook synthesis (Fagan & Durrani 2022)
+
+*(Attributed — [[fagan-durrani-people-of-the-earth-2022|Fagan & Durrani, *People of the Earth* 16th ed.]].)* The current teaching account treats the debate as resolved in favour of Africa but softened into **admixture**: the oldest *[[homo-sapiens|H. sapiens]]* fossils are re-dated to ~315,000 BP at **Jebel Irhoud, Morocco** (Hublin et al. 2017), which the authors use to argue the "East African cradle" reflects excavation bias, not a single point of origin. They side with the **mosaic/gradualist** view of [[behavioral-modernity]] (McBrearty & Brooks's "revolution that wasn't") over a sudden ~50 ka cognitive "Big Bang," and report the Neanderthal–AMH overlap as **short** (~41,000–37,400 BP; Higham 2014, Pettitt 2018) rather than the older ~15,000-year coexistence — no "great fight," Neanderthals already in decline. The internally-superseded **Toba catastrophe** bottleneck (~73 ka) is flagged as likely wrong (Lane et al. 2014). All date-stamped; a decade-lagging textbook layer above the vault's primary genetics ([[reich-who-we-are-2018|Reich]]) and Stringer's program.
+
+### Bogucki 1999 synthesis (pre-aDNA textbook layer)
+
+*(Attributed — [[bogucki-peter|Bogucki]], *[[bogucki-origins-human-society-1999|The Origins of Human Society]]* 1999, Ch.2. **As of Bogucki 1999** — pre-aDNA Neanderthal/Denisovan admixture consensus; phylogeny and mtDNA Eve sections age quickly.)*
+
+- Reports **Recent African Origin**, **[[multiregional-evolution|Multiregional]]**, and hybrid/assimilation-style options (Aiello complex model; Smith–Trinkaus-type continuity) without closing the debate.
+- Records mtDNA “Eve” arguments and contemporaneous critiques (Ayala, Templeton) as live.
+- Links anatomical modernity (~100 ka focus in his text) to sharper visibility of behavior comparable to extant foragers, while treating [[pleistocene-band-society]] as the long social regime under which technological change accumulated.
+- **Language problem** treated as open (anatomical vs archaeological inference gap).
+- Keep subordinate to Stringer/Reich/Fagan layers above for current standing; use for 1990s synthesis historiography and for links to Bogucki’s social model of deep prehistory.

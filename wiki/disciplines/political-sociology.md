@@ -15,8 +15,8 @@ core_questions:
 major_methods: ["[[ideal-type]]", "[[comparative-method]]", "historical-comparative analysis", "[[logico-experimental-method]]", "[[survey-research]]", "[[secondary-analysis]]"]
 subfields: ["[[unknown]]"]
 collection_coverage: moderate
-sources_ingested: 12
-last_updated: 2026-07-09
+sources_ingested: 15
+last_updated: 2026-07-10
 tags: [discipline]
 ---
 
@@ -42,9 +42,13 @@ The subfield consolidates. [[pareto-vilfredo|Pareto]] develops an **elite-theore
 
 Mid-century power-structure analysis: Mills *[[mills-power-elite-1956|The Power Elite]]* (1956) — see Postwar Expansion. Still queued from primary ingest: full Weber ES composite beyond Part I, Michels's oligarchy thesis, Schumpeter's competitive-elitist democracy, Dahl and pluralist primaries, Domhoff, and contemporary political sociology.
 
+**Mann / IEMP (1986, attributed).** [[mann-michael|Michael Mann]]'s *[[mann-sources-of-social-power-vol1-1986|Sources of Social Power, Vol. I]]* (1986) supplies a neo-Weberian organizational multi-causal program for political sociology: societies as overlapping [[power-networks|power networks]], not unitary systems; four sources of social power — ideological, economic, military, political ([[iemp-model|IEMP]]) — as organizational means rather than levels of a totality; political power restricted to centralized, territorially bounded regulation (state power) and dualized as domestic ([[despotic-power|despotic]] vs [[infrastructural-power|infrastructural]]) plus geopolitics. Separates military from political power against the classical triad that folds force into the state. See [[the-state]], [[state-formation]].
+
 ## Theoretical Landscape
 
 Three classical programs stand side by side (attributed voice): the **Marxian** class theory of the state ([[historical-materialism]], thickened by the *Brumaire* on [[bonapartism]] and [[relative-autonomy-of-the-state]]); **Weberian** legitimate-domination and the sociology of bureaucracy and leadership; and **elite theory** ([[paretian-sociology]], [[circulation-of-elites]]). Tocqueville's comparative democratic analysis sits partly athwart these. Weber's realist, leader-selection view of democracy ([[plebiscitary-leader-democracy]]) anticipates later competitive-elitist democratic theory; the Marx–Weber contrast over the autonomy of the political is the field's central founding tension ([[relative-autonomy-of-the-state-debate]]).
+
+**Mann (IEMP, attributed).** [[mann-michael|Mann]] (*[[mann-sources-of-social-power-vol1-1986|SSP I]]*, 1986) extends the multi-causal Weberian line against both Marxian last-instance primacy and neo-Weberian "dimensions of a unitary society": the [[iemp-model|IEMP model]] treats ideological, economic, military, and political organizations as overlapping networks whose relative organizational reach varies historically; rejects class as general motor and "society" as closed unit. Dense concepts: [[infrastructural-power]], [[despotic-power]], [[social-caging]], [[organic-national-state]].
 
 ### Postwar Expansion
 
@@ -74,6 +78,10 @@ Racial politics strand now includes [[racial-formation-theory]] (Omi & Winant �
 
 ## Current State
 
+**Contentious politics program (ingested):** McAdam, Tarrow & Tilly *[[mcadam-tarrow-tilly-dynamics-of-contention-2001|Dynamics of Contention]]* (2001) supplies the vault's mechanism–process synthesis for movements, revolutions, nationalism, and democratization — [[contentious-politics-theory]]; Hub [[hubs/theory/contentious-politics-theory]].
+
+## Current State
+
 Classical and mid-century foundations now include Mills, Dahrendorf, and Lipset. **Contemporary civic-engagement program:** [[putnam-robert-d|Putnam]] *[[putnam-bowling-alone-2000|Bowling Alone]]* (2000) — [[civic-social-capital]], [[political-participation]] trends, democracy outcomes (Section IV), [[bowling-alone-debate]]. **Field-theoretic synthesis:** [[fligstein-neil|Fligstein]] & [[mcadam-doug|McAdam]] *[[fligstein-mcadam-theory-of-fields-2012|A Theory of Fields]]* (2012) — [[strategic-action-fields-theory]]; state as system of SAFs; civil-rights illustration of [[episode-of-contention]] and [[field-settlement]] (McAdam lineage). Further fronts (state capacity monographs, *Dynamics of Contention* primary, third-wave democratization, populism after the 1990s) still require sources not yet fully ingested.
 
 ## Reflexivity
@@ -82,4 +90,4 @@ Political sociology's founding texts are politically engaged, not neutral: Marx 
 
 ## Collection Coverage Note
 
-`collection_coverage: moderate` — founding sources plus Mills *The Power Elite* (1956), Dahrendorf *Class and Class Conflict* (1959), Lipset *Political Man* (1960), Putnam *Bowling Alone* (2000), Fligstein & McAdam *A Theory of Fields* (2012), and [[collins-randall|Collins]] *[[collins-conflict-sociology-1975|Conflict Sociology]]* (1975, for the [[geopolitical-theory-of-the-state|geopolitical theory of the state]] and the conflict theory of democracy/fascism extending [[moore-barrington|Moore]]). Still missing: full Weber ES composite, Michels primary, Schumpeter, Coser, Dahl and other pluralist primaries, Domhoff, McAdam *Political Process* / *Freedom Summer* monographs, *Dynamics of Contention*, *Making Democracy Work*, and further contemporary political sociology.
+`collection_coverage: moderate` — founding sources plus Mills *The Power Elite* (1956), Dahrendorf *Class and Class Conflict* (1959), Lipset *Political Man* (1960), Putnam *Bowling Alone* (2000), Fligstein & McAdam *A Theory of Fields* (2012), and [[collins-randall|Collins]] *[[collins-conflict-sociology-1975|Conflict Sociology]]* (1975, for the [[geopolitical-theory-of-the-state|geopolitical theory of the state]] and the conflict theory of democracy/fascism extending [[moore-barrington|Moore]]). Still missing: full Weber ES composite, Michels primary, Schumpeter, Coser, Dahl and other pluralist primaries, Domhoff, McAdam *Political Process* / *Freedom Summer* monographs, *Dynamics of Contention*, *Making Democracy Work*, and further contemporary political sociology. **2026-07-10 — Pitcher *[[pitcher-transforming-mozambique-2002|Transforming Mozambique]]* (2002):** state-in-society political economy of an African post-socialist transition; [[the-state]] as [[transformative-preservation|actor that redirects rather than withdraws]] power; extends the comparative-historical / "bring the state back in" line ([[skocpol-theda|Skocpol]], [[moore-barrington|Moore]], [[scott-james-c|Scott]]) — a first Lusophone-Africa case (see [[mozambique]]). **2026-07-10 — Mann *[[mann-sources-of-social-power-vol1-1986|Sources of Social Power, Vol. I]]* (1986):** [[iemp-model|IEMP]] multi-power program; [[despotic-power]]/[[infrastructural-power]]; agrarian-to-early-modern power history (Vol. II industrial not yet ingested). **2026-07-10 — Hirschman *[[hirschman-exit-voice-loyalty-1970|Exit, Voice, and Loyalty]]* (1970):** [[exit-voice-loyalty]] middle-range repertoire for responses to organizational/political decline ([[exit-option]], [[voice-option]], [[loyalty]]); party systems, public goods residual exit, American exit ideology; Theory Hub built.

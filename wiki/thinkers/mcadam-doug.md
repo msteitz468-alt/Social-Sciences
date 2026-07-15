@@ -4,20 +4,20 @@ date_birth: ["unknown"]
 date_death: living
 disciplines: [sociology, political-sociology, social-movements]
 era: [critical-turn, contemporary]
-affiliated_theories: ["[[strategic-action-fields-theory]]"]
+affiliated_theories: ["[[strategic-action-fields-theory]]", "[[contentious-politics-theory]]"]
 trained_under: ["[[unknown]]"]
 trained: ["[[unknown]]"]
 key_works: ["Political Process and the Development of Black Insurgency, 1930–1970 (1982; 2nd ed. 1999)", "Freedom Summer (1988)", "[[fligstein-mcadam-theory-of-fields-2012|A Theory of Fields (with Fligstein, 2012)]]", "Dynamics of Contention (with Tarrow & Tilly, 2001)"]
-key_concepts: ["[[strategic-action-field]]", "political process / political opportunity", "[[episode-of-contention]]"]
+key_concepts: ["[[strategic-action-field]]", "political process / political opportunity", "[[episode-of-contention]]", "[[contentious-politics]]", "[[brokerage]]", "[[scale-shift]]", "[[attribution-of-threat-and-opportunity]]"]
 fieldwork_sites: ["Freedom Summer volunteers (1980s research on 1964 project)"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [thinker, sociology, political-sociology]
 ---
 
 # Doug McAdam
 
-American political sociologist and social-movement scholar; co-author (with [[fligstein-neil|Neil Fligstein]]) of *[[fligstein-mcadam-theory-of-fields-2012|A Theory of Fields]]* (2012). Best known for political-process analysis of U.S. Black insurgency (*Political Process and the Development of Black Insurgency*, 1982/1999) and *Freedom Summer* (1988). Collaborator with [[tilly-charles|Charles Tilly]] and Sidney Tarrow on contentious politics (*Dynamics of Contention*, 2001 — not yet ingested).
+American political sociologist and social-movement scholar; co-author (with [[fligstein-neil|Neil Fligstein]]) of *[[fligstein-mcadam-theory-of-fields-2012|A Theory of Fields]]* (2012). Best known for political-process analysis of U.S. Black insurgency (*Political Process and the Development of Black Insurgency*, 1982/1999) and *Freedom Summer* (1988). Collaborator with [[tilly-charles|Charles Tilly]] and [[tarrow-sidney|Sidney Tarrow]] on contentious politics (*[[mcadam-tarrow-tilly-dynamics-of-contention-2001|Dynamics of Contention]]*, 2001 — ingested).
 
 ## Overview
 
@@ -40,3 +40,7 @@ Movement-studies debates over political opportunity, framing, and McAdam's civil
 ## Historiography
 
 2012 Acknowledgments narrate the unfinished 1990 joint manuscript, the 1999 *Political Process* introduction as a vehicle for field ideas, and the 2011 *Sociological Theory* co-authored summary preceding the book.
+
+## From *Dynamics of Contention* (2001)
+
+*(Attributed — with Tarrow & Tilly.)* Co-equal author of the mechanism–process program: critique of the classic social-movement agenda's static boxes; dynamic interactive model of mobilization; paired comparisons (Mau Mau/Philippines; South Asia/South Africa; U.S. antislavery/Spain); applications to revolution, nationalism, democratization; robust processes of actor constitution, polarization, and [[scale-shift]]. Source: [[mcadam-tarrow-tilly-dynamics-of-contention-2001]]. Theory: [[contentious-politics-theory]]; Hub: [[hubs/theory/contentious-politics-theory]].

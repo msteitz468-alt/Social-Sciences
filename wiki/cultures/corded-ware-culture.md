@@ -9,13 +9,13 @@ period: bronze-age
 region: [north-central-europe, western-europe, eastern-europe]
 defined_by: mixed
 construct_status: contested
-type_site: []
-key_sites: []
+type_site: ["[[unknown]]"]
+key_sites: ["[[unknown]]"]
 preceded_by: [yamnaya-culture, early-european-farmers]
 succeeded_by: [bell-beaker-culture]
 language_affiliation: "Associated by [[reich-david|Reich]] and David Anthony with an early spread of [[indo-european-languages]] into central/northern Europe; see [[steppe-hypothesis-debate]] (as of Reich 2018)."
 genetic_signature: "Individuals buried with Corded Ware pottery in Germany derived roughly three-quarters of their ancestry from Yamnaya-related groups, the remainder from earlier Anatolian-farmer-descended inhabitants (as of Reich 2018)."
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-10
 tags: [culture, bronze-age, europe, eastern-europe]
 ---
@@ -139,9 +139,7 @@ Before the genetic picture, Corded Ware was a **[[culture-historical-archaeology
 
 ## Collection Coverage Note
 
-Single-source coverage (Reich 2018) as of this ingest; no independent archaeological
-monograph on Corded Ware material culture or a Kossinna-focused history-of-archaeology
-source is yet in the collection.
+Multi-layer coverage: Reich 2018 (genetic signature), Anthony 2007 (archaeological/linguistic pathing), Gimbutas 1991 (Wave 3 / Corded Pottery as Kurgan aftershock), Renfrew 1987, Childe, Sherratt, Kristiansen & Larsson 2005. Still thin: independent archaeological monograph on Corded Ware material culture; Kossinna-focused history-of-archaeology source.
 
 ### Sherratt densification (1981–91 essays)
 
@@ -155,9 +153,20 @@ source is yet in the collection.
 
 *(Attributed — [[kristiansen-larsson-rise-bronze-age-2005|Kristiansen & Larsson]] 2005.)* They treat Corded Ware (with Battle-Axe/[[yamnaya-culture|Yamnaya]]/Catacomb groups) as the third-millennium substrate — individual tumulus burial, mobile pastoralism, an open steppe-grazing landscape — from which Early Bronze Age societies "inherited their basic social and cosmological order," and float double male Corded Ware burials as a possible "prototype" of the later [[twin-rulership|twin-ruler]] institution (explicitly speculative). [[kristiansen-kristian|Kristiansen]]'s own **later** aDNA-era work makes Corded Ware central to the third-millennium steppe-ancestry expansion — a separate, post-2010 argument; keep the 2005 (pre-aDNA, iconographic) layer distinct from it, and from any culture=language=genes equation.
 
+### Gimbutas 1991 — Corded Pottery as Wave 3 repercussion (attributed)
+
+*(Attributed — [[gimbutas-marija|Marija Gimbutas]], *[[gimbutas-civilization-of-the-goddess-1991|The Civilization of the Goddess]]* 1991, Ch.10.)* **Keep distinct from** Reich 2018 genetics and Anthony 2007 pathing. Culture ≠ language ≠ genes ≠ people.
+
+- **Wave 3 context:** Kurgan Wave 3 c. 3000 B.C. (late Yamna from Lower Dnieper–Don–Volga into E-central Europe) she treats as massive infiltration causing final Indo-Europeanization; Corded Pottery (= Battle Axe) expansion into former TRB / Nemunas / Narva / Volosovo territories before mid-3rd mill. is a **repercussion of Wave 3**, not an independent local invention (Gimbutas 1991).
+- **Distribution (her inventory):** N-central plain Germany/Poland; Holland, Denmark, S Sweden, S Norway, East Baltic to S Finland; Fat’yanovo to Upper Volga.
+- **“Common European Horizon” early phase:** cord-impressed neck beaker, globular amphora with radial shoulder pattern, flint axe, chisel, blade/flake, Type A stone battle axe; timber/stone mortuary houses under low earthen barrow — striking uniformity. Period 1 c. 3000–2600 nomadic Common Horizon; period 2 2600–2200 local crystallization (her Table 35). Early barrows: only male skeletons; central privileged mortuary pit-house; secondary dug-in graves = at least two social categories, both male; women/children poorly known until later.
+- **Preferred model (not identity):** She **prefers** Corded Pottery as a later phase of Globular Amphora pushed N/NE by Yamna influx rather than new Yamna people from the east; both complexes mix TRB substratum and Pontic steppe element; bulk of population elsewhere = indigenous Old European remnants (Gimbutas 1991). This is her demographic-cultural hypothesis — `associated_with` Wave 3 / late Yamna pressure, **not** equation of Corded pots with Yamnaya people, IE speech, or modern nations.
+- **Physical type (as she cites):** Germany/Czechoslovakia mostly TRB substratum + some steppe individuals; Poland shows steppe origin — bioanthropological claims of her era; do not promote to wiki voice.
+- **Layer with later work:** Anthony’s Usatovo–TRB–Corded Pre-Germanic path and Reich’s three-quarters Yamnaya-related ancestry in German Corded Ware burials are independent evidence classes that may or may not align with her GA→Corded push preference case by case. Full wave package: [[steppe-hypothesis-debate]] Position A (Gimbutas 1991).
+
 ### Anthony densification (2007) — Pre-Germanic path and northern IE medium
 
-*(Attributed — [[anthony-david-w|David W. Anthony]], *[[anthony-horse-wheel-language-2007|The Horse, the Wheel, and Language]]* 2007.)* Archaeological/linguistic pathing layer; **keep distinct from** the Reich 2018 genetic signature above (three-quarters Yamnaya-related ancestry in German Corded Ware burials). Culture ≠ language ≠ genes.
+*(Attributed — [[anthony-david-w|David W. Anthony]], *[[anthony-horse-wheel-language-2007|The Horse, the Wheel, and Language]]* 2007.)* Archaeological/linguistic pathing layer; **keep distinct from** the Reich 2018 genetic signature above (three-quarters Yamnaya-related ancestry in German Corded Ware burials) and from Gimbutas’s Wave 3 / GA→Corded model. Culture ≠ language ≠ genes.
 
 - **Horizon traits (archaeological):** Anthony describes Corded Ware after ~3000 BCE (rapid mainly 2900–2700 BCE; Ukraine to Belgium) as a pastoral mobile economy with near-disappearance of settlements; single graves under mounds; stone hammer-axes from Polish TRB styles; drinking culture with cord-decorated cups. Material culture is mostly **native northern European**, but underlying behaviors parallel [[yamnaya-culture|Yamnaya]]: ox-drawn wagons, horses, and livestock prestige (R5-023).
 - **Pre-Germanic path (guess, attributed):** His proposed path for dialects ancestral to Pre-Germanic: Proto-IE dialects spread up the Dniester from **Usatovo** through nested patrons and clients into late **TRB** communities between Dniester and Vistula (c. 3000–2800 BCE pottery exchange; Brynzeny III-type pots at Gródek Nadbużny and Zimne); those late TRB communities later evolved into early Corded Ware, the medium for wider Pre-Germanic spread (R5-015). Explicitly framed as Anthony’s reconstruction, not demonstrated identity.

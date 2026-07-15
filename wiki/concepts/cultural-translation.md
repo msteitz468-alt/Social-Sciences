@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "metaphor for ethnographic interpretation; Asad analyzes power conditions of translation"
 contested: yes
 related_concepts: ["[[ethnographic-authority]]", "[[thick-description]]", "[[anthropology-and-colonialism-debate]]", "[[partial-truths]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -34,6 +34,10 @@ Not a metric; a critical diagnostic of how anthropological knowledge is produced
 ## Applications
 
 Asad on British SA and Gellner; brake on pure textual experiment within [[writing-culture]] (individual style cannot overcome “stiffness” produced by power).
+
+## The Genealogies of Religion reprint (1993)
+
+The essay is reprinted as ch. 5 of *[[asad-genealogies-of-religion-1993|Genealogies of Religion]]* (1993), from which the wiki now holds the full argument. Additional detail (attributed to Asad 1993): Lienhardt's "Modes of Thought" (1954) as one of the earliest uses of translation-as-task; the point that Gellner selectively omitted a key sentence from [[evans-pritchard-e-e|Evans-Pritchard]]'s "twin is a bird" passage — Evans-Pritchard "is concerned to explain (in terms of Nuer social life), not to justify"; the critique of Mary Douglas's "implicit meanings" method as "a characteristic form of theological exercise"; the rebuttal of Pocock's psychoanalyst analogy (in the "ideal situation" the Berber tribesman "would no longer be a Muslim Berber tribesman, but someone coming to resemble Professor Gellner"); the argument that "it is not the personal authority of the ethnographer but the social authority of his ethnography that matters"; the documented asymmetric transformation of modern written Arabic by European-language translation; and the programmatic conclusion that foreign discourses should retain "a discomforting — even scandalous — presence" in the receiving language (illustrated by Asad's preference for translating *'abd* as "slave" rather than "servant").
 
 ## Critiques and Limitations
 

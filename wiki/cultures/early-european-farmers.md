@@ -14,8 +14,8 @@ key_sites: []
 preceded_by: [western-hunter-gatherers]
 succeeded_by: [yamnaya-culture, corded-ware-culture, bell-beaker-culture]
 language_affiliation: unresolved; entangled with the [[steppe-hypothesis-debate]] over Indo-European origins
-genetic_signature: "First European farmers (8,800–4,500 years ago) retained at least 90% ancestry from an Anatolian-related immigrant source with minimal hunter-gatherer admixture; the highest surviving proportion of this ancestry today is in Sardinia, not southeast Europe (as of Reich 2018)"
-sources_ingested: 1
+genetic_signature: "First European farmers (8,800–4,500 years ago) retained at least 90% ancestry from an Anatolian-related immigrant source with minimal hunter-gatherer admixture; the highest surviving proportion of this ancestry today is in Sardinia, not southeast Europe (as of Reich 2018). Pre-aDNA classical genetics debate densified from Bellwood 2005 below — do not merge 2005 mtDNA/Y figures with 2010s genome-wide results."
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [culture, neolithic, europe, anatolia]
 ---
@@ -51,3 +51,36 @@ Early European farmers are `preceded_by` [[western-hunter-gatherers]] and are th
 ## Historiography
 
 The genetic dissection of early European farmer ancestry, and its falsification of Cavalli-Sforza's demic-diffusion model, is a signature result of the 2010s ancient-DNA turn in archaeogenetics, driven by petrous-bone extraction methods that dramatically improved DNA yield from ancient skeletal remains. See [[reich-who-we-are-2018]] for the full account.
+
+## Bellwood densification — archaeological package and pre-aDNA demic debate (2005)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005. This section densifies the **archaeological** early-farming entry into Europe and the **classical genetics** debate as Bellwood framed it in 2005. It is **not** the 2010s genome-wide EEF construct above; date-stamp and keep evidence classes separate. Culture ≠ language ≠ genes.)*
+
+### Archaeological source and package (as of Bellwood 2005)
+
+- European Neolithic mainly from **western Anatolia**; Mediterranean–NW Africa and steppes N of Black Sea only minor sources of farming entry; latter mainly expansion *out of* Europe not in (attributed).
+- Exception: Cyprus Preceramic and faint aceramic echo Crete/mainland Greece; otherwise European Neolithic entirely **ceramic** with full SW Asian cereals, legumes, domestic animals. Genetic data (Troy et al. 2001): European cattle from W Asian not European wild stock; wild sheep/goats not native to Europe (attributed).
+- **Tempo:** agriculture Mediterranean + temperate Europe S of Baltic, Aegean→British Isles ~2500 years, ~6500–4000 BC; ~millennium standstill near W edge Great Hungarian Plain (Sümegi & Kertész 2001 via Bellwood); Baltic/Scandinavia after ~3500 BC (attributed).
+- **Two cereal complexes (Maier 1996 via Bellwood):** Balkans–Danube–temperate Europe = hulled emmer/einkorn; N Mediterranean = naked tetraploid wheats; both meet W/N of Alps.
+- **Pioneer episodes:** Cyprus agricultural dispersal during PPNB (perhaps late PPNA) ~8500 BC from Syrian coast (Peltenberg et al. 2001 — “migration played a significant role”); Knossos Stratum X Crete aceramic ~7000 BC maritime colonization (Broodbank); Greece saltatory pioneer movement on alluvial fans — Thessaly high density, ~12 Mesolithic vs 250–300 Neolithic sites; Franchthi domesticates suddenly ~6900 BC after near-abandonment (van Andel & Runnels; Perles; Hansen via Bellwood); Mediterranean Cardial maritime colonization (Zilhão) ~5800–5400 BC to S France, Iberia, Malta, N Africa coast; [[linear-pottery-culture|LBK]] after ~5400 BC (attributed).
+- **Gkiasta et al. 2003:** earliest Neolithic radiocarbon dates show Mesolithic side-by-side with Neolithic for centuries in parts of W Europe (S/C France, Portugal, Britain, Ireland) — mixed process, not pure replacement everywhere (finding).
+- **Bellwood on Britain:** most archaeologists favor pure Mesolithic adoption (Price 1987 “inside job”); Bellwood: transition sharp; no Mesolithic site evolved Neolithic entirely from internal resources; LBK-like timber houses, field systems, cereal inventories — “totally Mesolithic engine of adoption seems most unlikely” (position). Quote: “Just observing that some Mesolithic populations probably became incorporated into a Neolithic cultural landscape tells us nothing very useful at all.”
+
+### Classical genetics debate (as of Bellwood 2005 — superseded in method by aDNA)
+
+Bellwood frames disagreement as about **strength** of the wave of advance, not existence:
+
+| School (as of 2005) | Claimed Neolithic / SW Asian contribution | Stance |
+|---|---|---|
+| Ammerman & Cavalli-Sforza 1984 | Wave of advance ~1 km/yr SE→NW; continuous admixture; demic cline | Demic classic |
+| Richards et al. 1996–2000 mtDNA | <25% modern European mtDNA Neolithic; most lineages post-LGM | Cultural-leaning |
+| Sykes | 20–30% SW Asian mtDNA | Cultural-leaning |
+| Semino et al. 2000 Y | ~22% Neolithic Levant haplotypes; ~78% Paleolithic refugia | Cultural-leaning |
+| Chikhi et al. 2002 Y admixture | ~**50%** average modern European Y Neolithic (85–100% SE; 15–30% France) | Demic |
+| Piazza et al. | Neolithic spread 26% modern variation | Demic-compatible |
+
+- **Bocquet-Appel 2002:** age-at-death Neolithic cemeteries → rapid birth-rate increase after agriculture; ~500-year rupture with forager stationary regime — fertility of earliest farmers; does **not** alone prove demic diffusion (foragers can adopt farming) (finding).
+- **Bellwood lean (2005):** with Chikhi and Barbujani, strength of Neolithic advance was **considerable**; Mesolithic populations contributed genes clinally but “did not contribute very much to the resulting patterns of archaeology and language in Europe,” except temporary isolation (thesis). Common-sense scenario — Neolithic population spreads from SE and gradually “disappears” genetically NW-ward (attributed). Wave-of-advance / pioneer dispersal explains rapid homogeneous Early Neolithic packages (Greece, Cardial, LBK, early TRB) better than pure adoption; adoption more plausible on cold/wet maritime fringes after long availability phases (attributed).
+- **Link to language:** Renfrew 1987 Anatolian homeland with first farmers is a **position** Bellwood prefers among IE options (with Gray & Atkinson 2003 computational dates ~7000 BC for PIE as cited); steppe/kurgan alternatives remain live — see [[anatolian-hypothesis]], [[steppe-hypothesis-debate]]. Do not equate EEF genomes (Reich) with PIE.
+
+**Update path:** the 2010s aDNA results in the sections above revise the geography of admixture (Sardinia peak; delayed HG admixture; later steppe turnover) while retaining a strong demic farmer entry — compare rather than overwrite. Sources: [[bellwood-first-farmers-2005]], [[reich-who-we-are-2018]]; debates: [[farming-spread-europe-debate]], [[early-farming-dispersal-hypothesis]].

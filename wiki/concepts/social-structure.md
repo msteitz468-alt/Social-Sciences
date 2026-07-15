@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Network of social relations / system of interconnected institutions and customs constituting a society as a durable whole — operationalizations vary (British SF morphology of relations; Parsonsian system components; network metrics; etc.)"
 contested: yes
 related_concepts: ["[[structural-functionalism]]", "[[social-function]]", "[[manifest-and-latent-functions]]", "[[dysfunction]]", "[[duality-of-structure]]", "[[macrostructure-and-substructure]]", "[[gumsa-gumlao-oscillation]]", "[[ideal-type]]"]
-sources_ingested: 3
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -26,6 +26,7 @@ In British social anthropology as formulated by [[radcliffe-brown-a-r|A. R. Radc
 - **Parsons / U.S. sociology:** structure as institutionalized roles and value-orientations within a [[social-system|social system]] ([[structural-functionalism]]; *[[parsons-social-system-1951|The Social System]]*).
 - **Merton:** codifies functional analysis without requiring total-system unity postulates ([[manifest-and-latent-functions]], [[dysfunction]]).
 - **Leach (1954):** In *[[leach-political-systems-highland-burma-1954|Political Systems of Highland Burma]]*, [[leach-edmund|Leach]] treated ethnographic "social structure" as a **model of ideal patterns** (relations regarded as correct), necessarily equilibrated as construct, not as a naturally equilibrated empirical system. Structure in practical situations is "a set of ideas about the distribution of power"; individuals hold contradictory ideas without embarrassment because expression is cultural/ritual. Historical facts are never in equilibrium; the appearance of natural equilibrium is an illusion examined in the Kachin case ([[gumsa-gumlao-oscillation]]). See [[leach-political-systems-highland-burma-study]].
+- **Leach (1959/61):** *[[leach-rethinking-anthropology-1961|Rethinking Anthropology]]* Ch. 1 rejects R-B comparison of social structures as natural types ([[butterfly-collecting]]) in favour of organizational ideas as **mathematical patterns** (topology of connectedness); Ch. 2: any structural analysis of kinship is discussion of **ideal** behaviour, not statistical norms ([[ethnographic-algebra]]). Lévi-Strauss (1953) noted similarity between Leach’s Jinghpaw view of structure and his own (Leach’s report).
 - **Later:** network formalization; Marxist and critical uses; Giddens's [[duality-of-structure]] reworks structure as rules/resources reproduced in action ([[structuration-theory]]).
 
 ## Operationalizations

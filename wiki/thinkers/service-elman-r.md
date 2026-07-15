@@ -7,10 +7,10 @@ era: [postwar-expansion, critical-turn]
 affiliated_theories: ["[[band-tribe-chiefdom-model]]", "[[integrative-theory-of-the-state]]", "[[multilinear-evolution]]", "[[universal-evolution]]", "[[cultural-ecology]]"]
 trained_under: ["[[steward-julian-h]]", "[[white-leslie-a]]"]
 trained: ["[[chagnon-napoleon]]"]
-key_works: ["[[service-primitive-social-organization-1971|Primitive Social Organization (1962/1971)]]", "Evolution and Culture (with Sahlins, 1960)", "[[service-origins-state-1975|Origins of the State and Civilization (1975)]]"]
-key_concepts: ["[[band-tribe-chiefdom-model]]", "[[integrative-theory-of-the-state]]", "[[chiefdom]]", "[[redistribution]]", "[[patrilocal-band]]", "[[sodality]]", "[[levels-of-sociocultural-integration]]", "[[law-of-evolutionary-potential]]"]
+key_works: ["[[service-primitive-social-organization-1971|Primitive Social Organization (1962/1971)]]", "[[sahlins-service-evolution-culture-1960|Evolution and Culture (with Sahlins, 1960)]]", "[[service-origins-state-1975|Origins of the State and Civilization (1975)]]"]
+key_concepts: ["[[band-tribe-chiefdom-model]]", "[[integrative-theory-of-the-state]]", "[[chiefdom]]", "[[redistribution]]", "[[patrilocal-band]]", "[[sodality]]", "[[levels-of-sociocultural-integration]]", "[[law-of-evolutionary-potential]]", "[[general-and-specific-evolution]]"]
 fieldwork_sites: ["[[unknown]]"]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-07-10
 tags: [thinker, anthropology]
 ---
@@ -35,7 +35,7 @@ From *Primitive Social Organization* (attributed):
 From *[[service-origins-state-1975|Origins of the State and Civilization]]* (1975, attributed):
 
 7. **[[integrative-theory-of-the-state|Integrative theory of the state]]** — the "benefit"/managerial account: early government arose from the organizational benefits of centralized [[redistribution]], war-leadership, public works, and mediation, "legitimizing itself in maintaining the whole society" rather than as a class-repression organ; coercion is a symptom of the system's failure, not its origin. The principal neo-evolutionary rival to conflict/coercion theories — see [[origin-of-the-state-integrative-vs-conflict-debate]] and the [[archaic-state-formation-pathways|15-case comparison]] (Zulu, Ankole, Ashanti, Hawaii; Mesoamerica, Peru, Mesopotamia, Egypt, Indus, China).
-8. **[[law-of-evolutionary-potential]]** (with Sahlins, 1960; redeployed in the 1975 epilogue) — the successful, specialized center ossifies ("penalty of taking the lead") while less-committed hinterland societies gain adaptive potential; "the first classic civilizations… did not fall; they were pushed."
+8. **[[law-of-evolutionary-potential]]** — now **primary** via Ch. V of *[[sahlins-service-evolution-culture-1960|Evolution and Culture]]* (1960; chapter by Service): dual form — “The more specialized and adapted a form in a given evolutionary stage, the smaller is its potential for passing to the next stage” / “Specific evolutionary progress is inversely related to general evolutionary potential.” Corollaries: **Phylogenetic** and **Local Discontinuity of Progress**. Veblen’s “penalty of taking the lead” / “merits of borrowing”; Trotsky’s “privilege of historic backwardness” and Law of Combined Development. Principle of Stabilization; dominance vs potentiality as endemic contest. Long attributed application to Cold War industrial leapfrogging and U.S. policy. Redeployed in the 1975 epilogue of *Origins*: “the first classic civilizations… did not fall; they were pushed.”
 
 ## Intellectual Genealogy
 
@@ -59,7 +59,7 @@ Service insisted White and Steward need not be partisan alternatives: they addre
 
 ## Historiography
 
-Primary ingested: PSO 2nd ed. 1971 and *[[service-origins-state-1975|Origins of the State and Civilization]]* (1975, re-OCR'd from a font-corrupted PDF). Prefaces and conclusions supply genealogy, revision history, and Service's own reflexive account of moving away from his 1930s Marxism. Full intellectual biography and **Thinkers Hub still deferred** — the two primary works are theoretical/comparative syntheses with little biographical or fieldwork density (no central field site), so the material supports two Theory Hubs (the typology and now the integrative theory) and a strong summary page, but not yet a 4,000-word life. A secondary biography or the *Evolution and Culture* collaboration would tip it toward hub elevation.
+Primary ingested: *[[sahlins-service-evolution-culture-1960|Evolution and Culture]]* (1960, co-editor; Ch. V LEP primary), PSO 2nd ed. 1971, and *[[service-origins-state-1975|Origins of the State and Civilization]]* (1975, re-OCR'd from a font-corrupted PDF). Prefaces, the 1960 Note, and conclusions supply genealogy, revision history, and Service's own reflexive account of moving away from his 1930s Marxism. Full intellectual biography and **Thinkers Hub still deferred** — the three primary works are theoretical/comparative syntheses with little biographical or fieldwork density (no central field site), so the material supports two Theory Hubs (the typology and the integrative theory) and a strong summary page, but not yet a 4,000-word life. A secondary biography would tip it toward hub elevation.
 
 Reciprocal Theory Hubs for the programs he authored: [[hubs/theory/band-tribe-chiefdom-model]] and [[hubs/theory/integrative-theory-of-the-state]].
 

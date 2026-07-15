@@ -7,10 +7,10 @@ era: [fieldwork-revolution, postwar-expansion, critical-turn]
 affiliated_theories: ["[[universal-evolution]]", "[[culturology]]"]
 trained_under: ["[[unknown]]"]
 trained: ["[[service-elman-r]]", "[[sahlins-marshall]]", "[[chagnon-napoleon]]", "[[binford-lewis]]", "[[carneiro-robert-l]]"]
-key_works: ["[[white-evolution-of-culture-1959|The Evolution of Culture (1959)]]", "The Science of Culture (1949)", "Energy and the Evolution of Culture (1943)"]
-key_concepts: ["[[culturology]]", "[[energy-law-of-cultural-evolution]]", "[[symboling]]", "[[state-church]]"]
+key_works: ["[[white-evolution-of-culture-1959|The Evolution of Culture (1959)]]", "The Science of Culture (1949)", "Energy and the Evolution of Culture (1943)", "Foreword to [[sahlins-service-evolution-culture-1960|Evolution and Culture (1960)]]"]
+key_concepts: ["[[culturology]]", "[[energy-law-of-cultural-evolution]]", "[[symboling]]", "[[state-church]]", "[[general-and-specific-evolution]]"]
 fieldwork_sites: ["Pueblo / Southwest (early career; secondary to theoretical program in Evolution of Culture)"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-10
 tags: [thinker, anthropology]
 ---
@@ -32,6 +32,7 @@ Leslie Alvin White (1900–1975) was the principal mid-twentieth-century America
 - **[[energy-law-of-cultural-evolution]]**: culture advances as energy harnessed per capita per year increases, other factors constant; tools multiply efficiency of energy use (Ch. 2).
 - **[[universal-evolution]]** of culture-as-a-whole (Steward's label for White's program): evolution vs. history vs. functionalist nontemporal analysis as three interpretive modes.
 - Part Two developmental sequence: Agricultural Revolution → civil society → **[[state-church]]** composite → class stratification, commercial economy, theology and science (Chs. 12–15).
+- **Foreword to *[[sahlins-service-evolution-culture-1960|Evolution and Culture]]* (1960)** — now primary: diagnoses Boasian antievolutionism (Laufer, Herskovits, Boas as catalyst not sole cause; capitalism/status-quo climate); endorses Sahlins’s [[general-and-specific-evolution]] as both fully evolution; equates **specific ≈ multilinear**, **general ≈ unilinear**; previews Harding (adaptation creativity→conservatism), Kaplan ([[law-of-cultural-dominance]]), Service ([[law-of-evolutionary-potential]]). Students Sahlins and Service acknowledge generic continuity with White and specific discontinuity in the volume’s Note.
 
 ## Intellectual Genealogy
 
@@ -59,4 +60,4 @@ See [[historical-materialism]], [[cultural-evolutionism-debate]].
 
 ## Historiography
 
-Primary self-account in the 1959 preface (conversion from Boasian anti-evolution; Michigan course; planned trilogy of which only this volume appeared). 2007 Carneiro & Brown foreword situates White against "barefoot empiricism" and documents the mid-century return of evolutionary questions. Reception history continues on the hub page.
+Primary self-account in the 1959 preface (conversion from Boasian anti-evolution; Michigan course; planned trilogy of which only this volume appeared). 2007 Carneiro & Brown foreword situates White against "barefoot empiricism" and documents the mid-century return of evolutionary questions. *[[sahlins-service-evolution-culture-1960|Evolution and Culture]]* (1960) is the principal student-generation charter he prefaced. Reception history continues on the hub page.

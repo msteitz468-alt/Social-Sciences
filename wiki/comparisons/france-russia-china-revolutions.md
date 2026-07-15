@@ -4,8 +4,8 @@ compares: ["France (1787–1800s)", "Russia (1917–1930s)", "China (1911–1950
 dimension: "Causes and outcomes of social revolution: old-regime state structure, dominant-class leverage, international pressure, agrarian class structure and peasant insurrectionary capacity, and the type of revolutionary state built"
 method: controlled-comparison
 galton_note: "Skocpol treats the six national cases as comparable macro-units but explicitly acknowledges they are NOT fully independent (a Galton's-problem concern she raises herself): they share a common world-historical field (the European interstate system, uneven capitalist development) and are causally linked (e.g., Russian/Comintern influence on the Chinese Revolution; France as a 'world-time' model for later revolutionaries). She does not statistically control for this non-independence; the comparison is offered as structural-causal demonstration via Mill's methods, not as a sample of independent trials, and its conclusions are correspondingly suggestive rather than probabilistic. Case non-independence is part of her theory (international context is constitutive), not just a nuisance."
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [comparison]
 ---
 
@@ -51,3 +51,7 @@ The controlled comparison at the heart of [[skocpol-theda|Theda Skocpol]]'s *[[s
 ## What the comparison establishes
 
 Skocpol's controlled comparison is the empirical spine of the [[structural-theory-of-revolution]]: it argues that a small set of structural variables — state bureaucratization, dominant-class leverage, international pressure, and agrarian class structure — predict both *whether* a social revolution occurs and *what kind of state* results, without recourse to revolutionary ideology or actors' intentions. Its contested points (agency, ideology, secondary sources, selection on outcome) are recorded on the [[skocpol-states-social-revolutions-study|study page]] and in [[structure-vs-agency-debate]].
+
+## Related comparison (Wolf 1969)
+
+[[wolf-eric-r|Wolf]]’s *[[wolf-peasant-wars-1969|Peasant Wars]]* compares six peasant-centered wars (including Russia and China, not France) under a capitalist-commodity and [[middle-peasant]]/[[tactical-mobility]] frame — a different design and question set from Skocpol’s Mill comparison here. See [[wolf-peasant-wars-study]].

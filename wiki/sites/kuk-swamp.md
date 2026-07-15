@@ -13,7 +13,7 @@ cultures: ["[[unknown]]"]
 excavated_by: [Jack Golson, Jim Allen, Tim Denham, Simon Haberle, Carol Lentfer, Richard Fullagar]
 excavation_years: [late 1960s–2000s]
 key_finds: [drainage channels, raised clay planting islands, Colocasia taro and Dioscorea yam starch residues, banana phytoliths]
-sources_ingested: 1
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [site, neolithic, melanesia]
 ---
@@ -47,3 +47,27 @@ It also remains an open question, per Kirch, whether Highlands horticultural dev
 ## Links
 
 Excavated by [[golson-jack|Jack Golson]]. Contrasts in origin and timing with [[austronesian-expansion]], the much later population/language dispersal into the same region. Dating rests in part on [[radiocarbon-dating]] alongside pollen and starch-grain analysis.
+
+## Bellwood 2005 — independent Highlands agriculture, non-expansive
+
+*(Attributed — [[bellwood-peter|Bellwood]], *[[bellwood-first-farmers-2005|First Farmers]]* ch. 7; **as of Bellwood 2005**.)*
+
+Bellwood situates Kuk within a worldwide comparative program: the **only** part of the SE Asia / Oceania region that, in his reading, yields data suggestive of **independent primary agricultural origins**. He stresses that this trajectory is **not** highly expansive in the absence of cereals and domesticated animals — a contrast case to demic farming–language spreads elsewhere under the [[early-farming-dispersal-hypothesis]].
+
+**Golson sequence as Bellwood reports it.** Intercutting drainage ditches in six phases at the Kuk tea plantation, Wahgi Valley, ~1,550 m asl; sequence might commence as early as 8000 BC; first phase with substantial ditches (up to 3 m deep, ≥500 m long) then dated ~5000 BC; later phases to ethnographic sweet-potato drainage grids (Golson excavations 1972–77).
+
+**Denham et al. 2003 reanalysis (as Bellwood cites).** Landscape partially cleared for banana cultivation by 4500 BC; bananas deliberately in mounds near the swamp edge; uncertain shifting cultivation back to 8000 BC; first drainage-ditch networks **redated to only ~2000 BC** (younger than Golson’s earlier ditch dates); starch = taro; phytoliths = Eumusa bananas (modern commercial section), not just Australimusa.
+
+**Bellwood’s thesis on character.** True primary agriculture — gardening with tubers and fruit-bearing small trees on fertile swamp soils — in the early Holocene Highlands. Pig introduced from Indonesia after 1000 BC; dog/chicken perhaps later. Edge-of-range placement (taro, banana, sugar cane near altitudinal limits) plus postglacial warming and possible drought stress (Brookfield 1989) frame the origin conditions.
+
+**Lowlands and non-spread.** Lowland early cultivation is **not** demonstrated before Austronesian arrival in the past 3,000 years; virtual site gap 500–1,300 m (Haberle 1994); Dongan plant remains ~4000 BC could be self-propagated. No major highland colonization into Melanesian islands; **total absence** of agricultural spread into Australia (still joined by dry land when agriculture began) is striking. Isolation and lowland malaria; eventual linguistic spread highlands → lowlands of New Guinea itself (deferred to his ch. 10). Continuity of lithic tradition across the transition; no pottery in the main highlands.
+
+**Identity and comparison.** Kuk demonstrates indigenous Highlands horticulture `associated_with` Papuan / Trans–New Guinea trajectories, **not** an effect of [[austronesian-expansion]] or [[lapita-cultural-complex]]. Bellwood also notes (ch. 7 four-way non-identity point) that Austronesian languages and agricultural systems in ISEA/Pacific largely have SE Asian / southern Chinese origins while biological genotypes from New Guinea to Fiji are heavily shaped by New Guinea — “New Guinea… was never seriously colonized by incoming agriculturalists.” If Denham et al. 2003 hold, many cultivated bananas and some taros originate in New Guinea, contributing Papuan horticulture to Austronesian crop rosters as settlers entered Melanesia ~1400 BC (see [[lapita-cultural-complex]]).
+
+## Barker 2006 (*Agricultural Revolution in Prehistory*)
+
+*(Attributed — [[barker-graeme|Graeme Barker]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006, Ch. 6; densifies Golson/Denham as Barker reports them.)*
+
+- **Sequence as Barker reports.** Upper Wahgi >1500 m; late Pleistocene fire/clearance. **Phase 1** c.8200–7900 cal BC: pits, stakes, runnels on levees → shifting cultivation on wetland margins; taro starch on tools; grey clay = hillslope erosion; likely taro (possibly yam, sago, pandanus) moved into Highlands. **Phase 2** c.5000–4500 cal BC: regular mounds, posts; better-aerated soils; banana phytoliths including wild Eumusa (*Musa acuminata* ssp. *banksii*) DNA-first domesticated in New Guinea **(as of Barker 2006)**; extensive clearance/fire. **Phase 3** c.2350–2000 cal BC: ~2 km ditch network for taro/banana; yam hillslope gardens; paddles ~2500 BC; axes/adzes/hoes common. Mid-second millennium AD sweet potato (“Ipomaean Revolution”; S American origin) enables dense Highland populations (attributed).
+- **Thesis.** Barker: “indisputable” that a variety of indigenous plant foods was taken into cultivation by New Guinea Highland foragers very early in the Holocene — **long before** the assumed Austronesian colonization process (position). Pigs not native; early Holocene domestic pig claims dating-insecure; pigs likely arrived already husbanded perhaps as early as 6000 BC or much later; Golson tentatively pig wallows at Kuk (attributed).
+- **Role in regional argument.** Kuk anchors Barker’s critique of the Express Train: local Highlands horticulture as independent trajectory, not effect of [[austronesian-expansion]]. Cross-links: [[rice-domestication]], [[domestication]], [[agricultural-origins-causation-debate]], [[barker-graeme]].

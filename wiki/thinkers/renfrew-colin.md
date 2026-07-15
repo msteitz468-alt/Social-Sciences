@@ -10,12 +10,12 @@ trained: ["[[unknown]]"]
 key_works: ["Before Civilization: The Radiocarbon Revolution and Prehistoric Europe (1973)", "The Emergence of Civilisation (1972)", "Archaeology and Language (1987)", "Archaeology: Theories, Methods, and Practice (with Paul Bahn, 1st ed. 1991; 6th ed. 2012)"]
 key_concepts: [anatolian-hypothesis, cognitive-processual-archaeology, demic-diffusion, peer-polity-interaction, multiplier-effect, mediterranean-polyculture]
 fieldwork_sites: ["Cycladic Islands, Greece (Saliagos, with J. D. Evans)", "Sitagroi, N. Greece (1968–69, with Marija Gimbutas)", "Phylakopi, Melos (1974–76)"]
-sources_ingested: 9
+sources_ingested: 11
 last_updated: 2026-07-10
 tags: [thinker, archaeology]
 ---
 
-Sources: [[renfrew-emergence-of-civilisation-1972]]; [[renfrew-before-civilization-1973]]; [[renfrew-archaeology-and-language-1987]]; [[renfrew-bahn-archaeology-2012]]; [[renfrew-loot-legitimacy-2000]]; [[reich-who-we-are-2018]].
+Sources: [[renfrew-emergence-of-civilisation-1972]]; [[renfrew-before-civilization-1973]]; [[renfrew-archaeology-and-language-1987]]; [[renfrew-bahn-archaeology-2012]]; [[renfrew-loot-legitimacy-2000]]; [[reich-who-we-are-2018]]; [[bellwood-first-farmers-2005]].
 
 ## Overview
 
@@ -106,3 +106,23 @@ Johnson also reports that Renfrew argued, in the 1960s–70s, that New Archaeolo
 - **Slow-evolution PIE rejected:** Anthony rejects Renfrew’s framing of PIE as slowly evolving over ~3500 years of farming dispersal; his chronology ties reconstructable late PIE to a window roughly 4500–2500 BCE with terminal date near ~2500 BCE (R1-089; R1-092).
 - **“Elite dominance” accepted, “elite recruitment” preferred:** Anthony accepts Renfrew’s lesson that language generally follows military and economic power — Renfrew’s **elite dominance** effect — for historical IE expansions (Rome, colonial empires, English), alongside a lingua-franca effect (R5-086). But for prehistoric IE expansion he prefers **elite recruitment**: immigrant elite languages take hold only when the status system is open to alliance and clientage; pure conquest without recruitment (he cites Normans in England, Galatians in Anatolia) often fails to impose the conquerors’ language (R2-055–057). See also [[demic-diffusion]] contrast.
 - **Shared method ground, opposed homeland:** Both treat radiocarbon calibration as liberating European prehistory from Near Eastern cross-dating (Anthony R2-066–067); the dispute is *which* demographically sufficient process carried IE speech, not whether absolute chronology matters.
+
+## Bellwood *First Farmers* densification (2005)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005; Renfrew as interlocutor / co-architect of the farming–language program, not as primary author of this book.)*
+
+- **Formative parallel:** Bellwood treats Renfrew’s late-1980s IE work (*Archaeology and Language*, 1987) as contemporary with his own farming-dispersal synthesis; Renfrew is thanked as a manuscript reader.
+- **Anatolian farming–IE package restated:** Bellwood presents Renfrew’s position as PIE spreading from Anatolia with first Neolithic farmers into Europe (~7000 BC Greece → ~4000 BC Britain in Renfrew’s archaeological frame as of 2003 expositions favouring south-central Anatolia when farmers entered Greece); large genetic interchange with Mesolithic natives especially in northern Europe; little creolization in the linguistic record (Bellwood’s summary of Renfrew).
+- **Anti-kurgan archaeological argument:** Via Renfrew 1987, Bellwood stresses the “nail in the coffin” of a single Pontic pastoral conquest model — no corresponding continent-wide archaeological horizon for kurgan-style late Neolithic/Bronze Age conquerors across most of Europe.
+- **Mechanisms of language spread:** Bellwood cites Renfrew (1989, 1992a/b) on trade, elite dominance, slavery, disease/war replacement, etc., granting partial validity while denying any single mechanism explains whole major families; Renfrew’s long-static early-colonization groups (Khoisan, many Australian families, Basque, etc.) are contrasted with agriculturalist family expansions.
+- **Program alliance:** Agricultural homelands as engines of Holocene language-family dispersal (Bellwood 1989; Renfrew 1991); co-edited McDonald Institute volume *Examining the Farming/Language Dispersal Hypothesis* (Bellwood & Renfrew 2003). Bellwood uses “[[archaeogenetics]]” following Renfrew 2000. Renfrew’s tentative Indo-Iranian-from-Mehrgarh suggestion (1987:208) is noted and linguistically doubted by Bellwood. See [[early-farming-dispersal-hypothesis]], [[anatolian-hypothesis]], [[steppe-hypothesis-debate]].
+
+## Barker 2006 densification (*The Agricultural Revolution in Prehistory*)
+
+*(Attributed — [[barker-graeme]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006; Renfrew as radiocarbon liberator and farming–language interlocutor. Genetics as of Barker 2006 / mid-2000s.)*
+
+- **Radiocarbon and Childe’s death:** Barker notes Childe’s death coincided more or less with Libby’s first absolute radiocarbon dates — enabling independent absolute dating and freeing “how/why” questions (Renfrew 1973 as Barker’s citation for the intellectual effect).
+- **Farming–language Europe layer:** Barker presents Renfrew’s argument that Neolithic farmers from South-West Asia were the mechanism by which Indo-European (proto-)languages spread into Europe (Renfrew 1987) as a further dimension of the *ex oriente lux* / wave-of-advance model (alongside Ammerman–Cavalli-Sforza demic rates). Bellwood and Renfrew (2002) are cited for linguistic contributions to agricultural-origins/dispersal debate.
+- **Barker’s critique (position, not wiki-voice defeat):** Groups Renfrew 1987/2003 with Diamond & Bellwood 2003 farming–language colonist readings. Linguistic weaknesses Barker stresses: proto-IE lexicon biased to animals not plants; wheel/vehicle vocabulary post-dating Early Neolithic. Archaeological: first-domesticate chronology does not fit steady spread; transition complexity and variable initial use sit uneasily with SW Asian colonist-farmer theory. Genetic data (Haak et al. 2005; Richards et al. 1996): little genetic input from incomers at the Neolithic (**as of Barker 2006**). Barker’s alternative implication if agricultural-word linkage is valid: speaking proto-IE as part of **being a farmer** wherever foragers engaged Eurasian farming, via exchange networks — see [[anatolian-hypothesis]], [[farming-spread-europe-debate]], [[early-farming-dispersal-hypothesis]].
+
+Source: [[barker-agricultural-revolution-prehistory-2006]].

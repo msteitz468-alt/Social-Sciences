@@ -5,7 +5,7 @@ disciplines: [linguistic-anthropology, anthropology, linguistics, folklore]
 era_origin: critical-turn
 date_origin: 1962
 originated_by: ["[[hymes-dell]]"]
-key_texts: ["[[hymes-foundations-in-sociolinguistics-1974|Hymes, Foundations in Sociolinguistics (1974)]]", "Hymes, \"The Ethnography of Speaking\" (1962)", "Gumperz & Hymes (eds.), The Ethnography of Communication (1964)", "Gumperz & Hymes (eds.), Directions in Sociolinguistics (1972)"]
+key_texts: ["[[bauman-sherzer-explorations-ethnography-speaking-1974|Bauman & Sherzer (eds.), Explorations in the Ethnography of Speaking (1974)]]", "[[hymes-foundations-in-sociolinguistics-1974|Hymes, Foundations in Sociolinguistics (1974)]]", "Hymes, \"The Ethnography of Speaking\" (1962)", "Gumperz & Hymes (eds.), The Ethnography of Communication (1964)", "Gumperz & Hymes (eds.), Directions in Sociolinguistics (1972)"]
 core_claims:
   - "Speech activity has patterns of its own that escape studies of grammar, personality, or social structure taken separately (attributed, Hymes)"
   - "The frame for assessing language in culture and society must be ethnography of communication in a community, not language or linguistics alone (attributed, Hymes)"
@@ -16,7 +16,7 @@ core_claims:
 developed_from: ["Boasian linguistic anthropology", "[[sapir-edward|Sapirian]] linguistics", "Jakobsonian functional poetics", "Malinowskian context of situation", "Prague School functionalism", "Burke dramatism"]
 competes_with: ["Chomskyan generative grammar as complete theory of language", "autonomous structural linguistics", "correlational sociolinguistics as mere add-on"]
 status: active
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [theory, linguistic-anthropology, anthropology]
 ---
@@ -86,3 +86,16 @@ Hymes explicitly equates **ethnography of speaking** with **sociolinguistic desc
 ## Reflexivity
 
 The program is a Critical-Turn product of U.S. anthropology/linguistics (SSRC Committee on Sociolinguistics; Center for Urban Ethnography), arguing for inclusion of diversity, education, and non-standard speakers against homogeneous competence ideals. Hymes links scientific and "liberation" goals (unequal competence opportunities). Production context: invited papers revised into a book dedicated to Sapir; special debt to Goffman — record as network facts, not as proof of claims.
+
+
+## From Bauman & Sherzer, *Explorations* (1974)
+
+*(Attributed — editors and chapter authors via [[bauman-sherzer-explorations-ethnography-speaking-1974|Bauman & Sherzer 1974]]; second-stage empirical program.)*
+
+**Volume role.** First major multi-case collection of research *undertaken as* ethnography of speaking (Austin conference April 1972), after a decade of programmatic statements (Hymes 1962; Gumperz & Hymes 1964; *Directions* 1972). Companion empirical bookend to [[hymes-foundations-in-sociolinguistics-1974|Hymes *Foundations*]] and [[gumperz-hymes-directions-sociolinguistics-1972]].
+
+**Editors’ analytic frame (Bauman & Sherzer intro).** Descriptive theories of speaking as cultural systems require: (1) [[speech-community]] as shared/complementary knowledge for appropriate speech — an **organization of diversity**, not homogeneous competence; (2) **means/resources** (linguistic varieties, acts, genres); (3) **ground rules** (norms of interaction/interpretation, strategies, values); (4) contexts and speaking roles; (5) **[[performance]]** as nexus of resources and competence in situations, with **emergent** structure. Social structures are not only institutional givens but largely **created in performance** by strategic use of speaking resources (editors’ claim).
+
+**Section logic.** II Communities & resources (variation paradigms, multilingual repertoires — e.g. Sankoff quantitative paradigm; Jackson Vaupés language identity; Fox Rotinese pair-speech). III Ground rules (Philips Warm Springs “Indian time”; Reisman Antiguan contrapuntal conversation; Keenan Malagasy *resaka*/*kabary*; Bauman Quaker ministry). IV Speech acts/events (Irvine Wolof greeting rank; Salmond Māori encounter rituals; Stross Tzeltal metalanguage; Abrahams Black street talk; Sherzer Cuna speech constellations; Kirshenblatt-Gimblett Jewish narrative). V Artistic structures (Darnell Cree narrative; Sacks joke-in-conversation; Foster Iroquois longhouse; Bricker couplets; Gossen Chamula heat continuum). VI Toward ethnology (Grimshaw data types; Basso ethnography of writing; Hymes “Ways of Speaking” — means of speech + speech economy, style vs grammar).
+
+**Method implications (attributed).** Full verbal-behavior continua (not only fixed “oral tradition” genres) — Gossen; writing as variable communicative mode — Basso; progression description → coherent ethnography → comparative ethnology — Grimshaw; grammar as one way of looking at language among many ways of speaking — Hymes.

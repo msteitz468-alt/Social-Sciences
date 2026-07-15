@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Preferred or prescribed marriage with mother's brother's child and/or father's sister's child"
 contested: no
 related_concepts: ["[[exogamy]]", "[[levirate]]", "[[classificatory-system-of-relationship]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept, anthropology]
 ---
 
@@ -62,3 +62,17 @@ He distinguished true **preferential** unions (cross-cousin marriage, able to be
 ## Links
 
 - [[exogamy]] · [[lowie-primitive-society-1920]] · [[classificatory-system-of-relationship]] · [[rivers-melanesian-society-1914]] · [[alliance-theory]] · [[restricted-exchange]] · [[generalized-exchange]]
+
+## From Leach, *Rethinking Anthropology* Ch. 3 (1951/61)
+
+*(Attributed — Leach.)* Curl Prize Essay: structural “function in a mathematical sense” of matrilateral cross-cousin rules among [[local-descent-group|local descent groups]].
+
+**Type marriages (ideal):**
+
+| Type | Rule | Exchange form (Leach’s use) |
+|---|---|---|
+| Kariera | Symmetrical cross-cousin | Restricted / direct |
+| Trobriand-type | (as typed in the essay) | Intermediate comparative pole |
+| Kachin-type | Matrilateral only (MBD category; FZD forbidden) | Asymmetrical; no direct exchange of women between two groups |
+
+1961 Introductory Note: Needham’s language — these types reflect **prescriptive** rules not mere preferences (→ [[prescriptive-preferential-debate]]); Homans & Schneider (1955) dismissed Leach’s material as exceptional (unpersuaded); Freedman (1958) — Chinese “preference” evidence thin, not systematic local-group asymmetric cycles; Vroklage Belu / Nakane Garo as matrilineal Kachin-type parallels; Dutch circulating-connubium literature under-credited in 1951. Preferred native category marriage (*gu/nam*) ≠ English genealogical “MBD” gloss ([[ethnographic-algebra]]). Source: [[leach-rethinking-anthropology-1961]].

@@ -16,7 +16,7 @@ core_claims:
 developed_from: ["critique of [[social-evolutionism]]", "critique of pure [[historical-particularism]]", "contrast with [[human-ecology]]"]
 competes_with: ["[[historical-particularism]] (as exclusive program)", "unilinear [[social-evolutionism]]", "environmental determinism (as caricature of ecological method)", "[[universal-evolution]] (White — as sole master key)"]
 status: active
-sources_ingested: 10
+sources_ingested: 12
 last_updated: 2026-07-10
 tags: [theory, anthropology]
 ---
@@ -83,7 +83,9 @@ Three procedures (Ch. 2): (1) technology–environment interrelationship; (2) ex
 | Smuggled stages via "levels" | Levels are operational/analytic, not Morgan–Tylor sequence (Steward's claim) |
 | Later symbolic, feminist, political-ecology critiques | Outside 1955 horizon; record when those sources are ingested |
 | Sahlins: "ecology fetishism" (*Culture and Practical Reason*, 1976, attributed) — the neofunctionalist/ecological program (Steward, White, Rappaport, Vayda) is a form of [[practical-reason]] that redescribes cultural phenomena in biological terms ("adaptation, homeostasis, survival") and thereby evacuates their meaning; natural selection sets only "limit conditions," not cultural form, since "before there can be natural selection there is a cultural selection: of the relevant natural facts" | Recorded as Sahlins's culturalist critique; see [[practical-reason]], [[sahlins-culture-and-practical-reason-1976]] |
+| Rappaport (EMR 1979 "Ills of Functionalism" / island essay): Stewardian cultural ecology takes **culture** as unit; Rappaport prefers **population** (and ecosystems) as ecological units, treating culture as a property of populations that can contradict biological requirements | Systems-ecology alternative within the broader ecological program; see [[rappaport-roy-a]], [[ritual-regulation]], [[ecological-anthropology-ritual-regulation-debate]], [[rappaport-ecology-meaning-religion-1979]] |
 | Service: habitat determines demography not band *structure* | Service (*[[service-primitive-social-organization-1971|PSO]]*) stresses **superorganic** environment (competing societies, contact) and cultural rules; renames patrilineal → [[patrilocal-band]]; composite often as contact product ([[band-tribe-chiefdom-model]]) |
+| Harding 1960: specific evolution as open adaptive system | Thomas G. Harding (*[[sahlins-service-evolution-culture-1960|Evolution and Culture]]* Ch. III) — adaptation (securing/conserving environmental control) orients *specific* evolution; natural + **superorganic** environments; creative (divergence/radiation/convergence) vs conservative (Principle of Stabilization); general evolution as White’s closed tech→social→ideology model | 
 
 ## Current Status
 

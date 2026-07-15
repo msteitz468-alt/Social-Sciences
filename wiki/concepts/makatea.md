@@ -7,7 +7,7 @@ disciplines: [archaeology, anthropology]
 emic_or_etic: migrated
 operationalized_as: "island-type classification based on tectonic uplift of former atoll/barrier-reef limestone"
 contested: "no"
-related_concepts: [[[atoll-formation]]]
+related_concepts: [atoll formation]
 sources_ingested: 1
 last_updated: 2026-07-10
 tags: [concept]
@@ -19,7 +19,7 @@ Makatea (a Polynesian term meaning "white stone," also the proper name of a Tuam
 
 ## Semantic History
 
-The term names both the process (tectonic uplift converting reef limestone into exposed karst terrain) and, by extension, islands exhibiting that geomorphology — a raised, often steep-sided limestone landform typically ringing a smaller interior basin or plateau. As a migrated term it sits alongside the broader vocabulary of Pacific island typology (atoll, high island) that Kirch situates within the eight-stage evolutionary cycle of midplate hotspot islands (from high volcanic island through fringing reef, barrier reef with lagoon, submergence, and ring atoll) originating with Darwin's (1842) subsidence model (see [[atoll-formation]]).
+The term names both the process (tectonic uplift converting reef limestone into exposed karst terrain) and, by extension, islands exhibiting that geomorphology — a raised, often steep-sided limestone landform typically ringing a smaller interior basin or plateau. As a migrated term it sits alongside the broader vocabulary of Pacific island typology (atoll, high island) that Kirch situates within the eight-stage evolutionary cycle of midplate hotspot islands (from high volcanic island through fringing reef, barrier reef with lagoon, submergence, and ring atoll) originating with Darwin's (1842) subsidence model (see atoll formation).
 
 ## Operationalizations
 

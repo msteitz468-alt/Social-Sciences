@@ -8,8 +8,8 @@ core_questions: ["How are economic actions and markets embedded in social relati
 major_methods: ["historical-comparative analysis", "network analysis", "ethnography", "archival research", "historical national accounts / fiscal top shares"]
 subfields: ["[[unknown]]"]
 collection_coverage: moderate
-sources_ingested: 4
-last_updated: 2026-07-09
+sources_ingested: 7
+last_updated: 2026-07-10
 tags: [discipline]
 ---
 
@@ -41,7 +41,7 @@ Parent: [[sociology]].
 
 ## Methods
 
-Historical and archival analysis of economic culture (Zelizer 1994); network analysis of economic action (Granovetter program — see [[granovetter-strength-of-weak-ties-study]]); ethnography of markets and firms (not yet dense in this collection); [[historical-wealth-accounts]] and fiscal [[top-income-shares]] for long-run distribution (Piketty program — see [[piketty-capital-twenty-first-century-study]]).
+Historical and archival analysis of economic culture (Zelizer 1994); network analysis of economic action (Granovetter program — [[granovetter-getting-a-job-study]], [[granovetter-strength-of-weak-ties-study]], [[granovetter-embeddedness-1985]], [[new-economic-sociology]]); ethnography of markets and firms (not yet dense in this collection); [[historical-wealth-accounts]] and fiscal [[top-income-shares]] for long-run distribution (Piketty program — see [[piketty-capital-twenty-first-century-study]]).
 
 ## Relations to Adjacent Disciplines
 
@@ -57,4 +57,4 @@ The "new" economic sociology was largely U.S.- and Europe-centered in its classi
 
 ## Collection Coverage Note
 
-Seeded by Zelizer *Social Meaning of Money*; thickened 2026-07-09 by Fligstein & McAdam *A Theory of Fields* (markets/MBS as SAF illustration; field-theoretic economic sociology). **2026-07-09 — Piketty *Capital in the Twenty-First Century* (2013/2014):** long-run wealth and income inequality; [[piketty-capital-dynamics]]; study + Studies Hub; methods [[historical-wealth-accounts]], [[top-income-shares]]; phenomena [[wealth-inequality]], [[income-inequality]]. Related prior coverage: Simmel *Philosophy of Money*, Polanyi embeddedness, Granovetter weak ties, Weber economic action / market. **2026-07-09 — Sennett *[[sennett-corrosion-of-character-1998|The Corrosion of Character]]* (1998):** humanistic sociology of work; the personal/experiential consequences of [[flexibility|flexible]] post-Fordist capitalism for [[character]] ([[flexibility-corrosion-debate]]) — an interpretive, ethnographic counterweight to the structural (Castells) and field-theoretic (Fligstein) treatments of markets and work. Still thin for firm monographs (Fligstein 1990/2001 not yet primary-ingested) and global South markets.
+Seeded by Zelizer *Social Meaning of Money*; thickened 2026-07-09 by Fligstein & McAdam *A Theory of Fields* (markets/MBS as SAF illustration; field-theoretic economic sociology). **2026-07-09 — Piketty *Capital in the Twenty-First Century* (2013/2014):** long-run wealth and income inequality; [[piketty-capital-dynamics]]; study + Studies Hub; methods [[historical-wealth-accounts]], [[top-income-shares]]; phenomena [[wealth-inequality]], [[income-inequality]]. Related prior coverage: Simmel *Philosophy of Money*, Polanyi embeddedness, Granovetter weak ties, Weber economic action / market. **2026-07-09 — Sennett *[[sennett-corrosion-of-character-1998|The Corrosion of Character]]* (1998):** humanistic sociology of work; the personal/experiential consequences of [[flexibility|flexible]] post-Fordist capitalism for [[character]] ([[flexibility-corrosion-debate]]) — an interpretive, ethnographic counterweight to the structural (Castells) and field-theoretic (Fligstein) treatments of markets and work. Still thin for firm monographs (Fligstein 1990/2001 not yet primary-ingested) and global South markets. **2026-07-10 — Pitcher *[[pitcher-transforming-mozambique-2002|Transforming Mozambique]]* (2002):** economic sociology of [[privatization]], [[structural-adjustment]], and [[post-socialist-transition]] in an African post-colony; state–market relations as [[transformative-preservation]]; a first global-South market case (see [[mozambique]], [[the-state]]). **2026-07-10 — Granovetter *[[granovetter-getting-a-job-1974|Getting a Job]]* (1974/1995) + *[[granovetter-embeddedness-1985|Embeddedness]]* (1985):** labor-market network matching (Newton PTM); [[personal-contacts]]; study + Studies Hub; charter of [[new-economic-sociology]]; network [[embeddedness]] vs under-/over-socialized action. **2026-07-10 — Hirschman *[[hirschman-exit-voice-loyalty-1970|Exit, Voice, and Loyalty]]* (1970):** firm/customer recuperation via [[exit-option|exit]] vs [[voice-option|voice]]; [[organizational-slack]]; competition as sometimes collusive/comforting to lazy monopoly — border text for economic and organizational sociology (see [[exit-voice-loyalty]]).

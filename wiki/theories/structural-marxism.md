@@ -1,56 +1,107 @@
 ---
 title: "Structural Marxism"
 theory_type: research-program
-disciplines: [anthropology, sociology, archaeology]
+disciplines: [philosophy, anthropology, sociology, archaeology]
 era_origin: critical-turn
 date_origin: "1960s–1970s"
 originated_by: ["[[althusser-louis]]", "[[godelier-maurice]]"]
-key_texts: ["Althusser & Balibar, Reading Capital (1965/1970)", "Godelier, Rationality and Irrationality in Economics (1966/1972)", "Terray, Marxism and 'Primitive' Societies (1969/1972)"]
-core_claims: ["A social formation is a structured combination of levels (economy, politics, ideology) in which the economy is determinant 'in the last instance' but not always dominant", "Precapitalist societies are analyzable as articulated modes of production with their own structural requirements", "Kinship, politics, and religion may 'function as' relations of production in societies lacking a separate economic sphere"]
+key_texts: ["[[althusser-for-marx-1965|Althusser, For Marx (Pour Marx, 1965)]]", "[[althusser-reading-capital-1965|Althusser, Balibar et al., Reading Capital (Lire le Capital, 1965)]]", "Godelier, Rationality and Irrationality in Economics (1966/1972)", "Terray, Marxism and 'Primitive' Societies (1969/1972)"]
+core_claims:
+  - "Althusser argues Marx’s science of history begins with an epistemological break (~1845) that abandons humanist anthropology for concepts of social formation, mode of production, and overdetermined contradiction"
+  - "A social formation is a structured combination of practices/instances (economy, politics, ideology) with structure in dominance; the economy is determinant in the last instance but not always dominant"
+  - "Structural causality names the effectivity of a structure on its elements — structure present only in its effects (Darstellung), neither transitive nor expressive causality"
+  - "Marxist contradiction is always overdetermined by the complex whole — never a simple Hegelian contradiction"
+  - "Theoretical anti-humanism and anti-historicism are paired negatives of the same ideological problematic; agents are bearers (Träger) of relations"
+  - "Mode of production is a combination of elements (worker, means, non-worker) linked by property and real appropriation connections; transition is itself a structured mode with special dislocation"
+  - "Precapitalist societies (anthropological wing) are analyzable as articulated modes of production; kinship/politics/religion may function as relations of production"
 developed_from: ["[[historical-materialism]]", "[[structuralism]]"]
-competes_with: ["[[cultural-materialism]]", "[[symbolic-anthropology]]"]
+competes_with: ["[[cultural-materialism]]", "[[symbolic-anthropology]]", "[[western-marxism]] (Hegelian-humanist and historicist strands)"]
 status: declining
-sources_ingested: 2
+sources_ingested: 4
 last_updated: 2026-07-10
-tags: [theory, anthropology, archaeology]
+tags: [theory, anthropology, archaeology, philosophy, sociology]
 ---
 
 # Structural Marxism
 
-**Structural Marxism** is the research program (French, 1960s–70s) that read [[marx-karl|Marx]]'s *Capital* through the categories of [[structuralism]], analyzing societies as structured combinations of levels in which the economy is "determinant in the last instance." In anthropology it aimed to apply historical materialism to precapitalist and "primitive" societies by identifying their modes of production and structural requirements. This page records the program as engaged by [[sahlins-marshall|Sahlins]] in *[[sahlins-culture-and-practical-reason-1976|Culture and Practical Reason]]* (1976) and *[[sahlins-islands-of-history-1985|Islands of History]]* (1985); a fuller treatment awaits ingestion of the primary Althusser/Godelier texts.
+**Structural Marxism** is the research program (French, 1960s–70s) that reread [[marx-karl|Marx]] through anti-humanist, anti-historicist, and (in the philosophical wing) Bachelardian categories, analyzing societies as structured combinations of relatively autonomous instances under [[structure-in-dominance]], [[overdetermination]], and [[structural-causality]]. **Philosophical charter now dual-primary:** [[althusser-louis|Althusser]], *[[althusser-for-marx-1965|For Marx]]* (1965), and Althusser, [[balibar-etienne|Balibar]], [[ranciere-jacques|Rancière]], [[macherey-pierre|Macherey]], [[establet-roger|Establet]], *[[althusser-reading-capital-1965|Reading Capital]]* (1965; Verso 2015 Complete Edition). Anthropological wing (Godelier, Terray, Meillassoux) applied the apparatus to precapitalist formations. Sahlins’s critical reception remains on this page, now balanced by both charter volumes.
+
+**Theory Hub:** [[hubs/theory/structural-marxism|Deep analysis]] (built 2026-07-10 with dual-charter primary base).
 
 ## Core Claims
 
-*(Attributed.)* Associated chiefly with [[althusser-louis|Louis Althusser]] and [[godelier-maurice|Maurice Godelier]] (with Emmanuel Terray, Claude Meillassoux, Étienne Balibar): a social formation is an articulated hierarchy of levels (economy, politics, ideology); the economy determines "in the last instance" which level is *dominant*, so that in societies without a separate economic sphere, kinship or religion can "function as" relations of production. Godelier held that "Marx was a structuralist" (1972); Sahlins notes the "attraction of opposites" whereby Lévi-Strauss called himself "a Marxist, in some sense" while Godelier found the structuralist in Marx.
+*(Attributed.)*
+
+1. **[[epistemological-break]] (~1845).** Marx founds a science of history by breaking with Feuerbachian/Hegelian problematics of the Early Works; the 1844 Manuscripts are threshold texts, not the essence of Marxism ([[marxist-humanism-debate]]).
+2. **[[social-formation]] as complex whole.** Economic, political, and ideological practices; not expressive totality, not simple base–superstructure reflection.
+3. **[[structure-in-dominance]] / last instance.** Economy determinant in the last instance; which instance is dominant varies; superstructures have relative autonomy and specific effectivity.
+4. **[[overdetermination]].** Contradictions always specified by the whole; condensation/fusion vs displacement; never pure Capital–Labour in the abstract.
+5. **[[structural-causality]] / *Darstellung*.** Effectivity of structure on elements; structure immanent in effects; neither Cartesian transitive nor Leibnizian/Hegelian expressive causality (*Reading Capital* Part Four).
+6. **[[symptomatic-reading]] / [[knowledge-effect]] / [[theoretical-practice]].** Knowledge produced in theoretical practice; reading produces the [[problematic]]; scientific discourse has a specific knowledge effect.
+7. **[[theoretical-anti-humanism]] and anti-historicism.** Paired; agents as [[bearer-trager|bearers]]; [[differential-historical-time]] against essential section.
+8. **[[mode-of-production]] as [[combination-combinatory|combination]].** Dual connections (property / real appropriation); transition as structured mode with [[dislocation-decalage|dislocation]] (Balibar Part Five).
+9. **Anthropological application (Godelier et al.).** Kinship, politics, or religion may “function as” relations of production where no separate economic sphere is dominant.
 
 ## Intellectual Origins
 
-The program fused [[historical-materialism]] with structuralism, reacting against both Sartrean humanist Marxism and empiricist/culture-historical anthropology. Terray applied the Althusser–Balibar method to the Guro; Godelier to the Mbuti and to the concept of "stereotypic reproduction." Lucien Sebag's *Marxisme et structuralisme* (1964) — which Sahlins reads as "essentially Boasian" — argued that praxis always unfolds within an already-symbolized world.
+- Post-Stalin crisis of Marxist philosophy; PCF conjuncture; reaction against socialist-humanist return to Early Works.
+- Bachelard (break); Spinoza over Hegel on science/ideology and as foreshadow of structural causality; Lenin; Mao *On Contradiction*; Freud (overdetermination; symptomatic metaphor); selective Gramsci (also a *Reading Capital* target on historicism).
+- ENS seminar culture 1961–65 (Young Marx; origins of structuralism; Lacan; *Capital*).
+- Fusion with [[structuralism]] (Lévi-Strauss) in the anthropological wing — “attraction of opposites” (Sahlins).
+- Reacted against: Hegelian Marxism / expressive totality; economism; empiricist history of “elements”; Sartrean humanist Marxism; radical historicism of Marxism.
 
 ## Key Proponents and Texts
 
-*(Attributed.)* [[althusser-louis|Louis Althusser]] and Étienne Balibar (*Reading Capital*, 1965) supplied the philosophical apparatus; [[godelier-maurice|Maurice Godelier]] (*Rationality and Irrationality in Economics*, 1966) and Emmanuel Terray (*Marxism and "Primitive" Societies*, 1969) and Claude Meillassoux carried it into anthropology. Lucien Sebag's *Marxisme et structuralisme* (1964) is an early bridging text, read by [[sahlins-marshall|Sahlins]] as "essentially Boasian."
+| Figure / text | Role |
+|---|---|
+| [[althusser-louis]] *[[althusser-for-marx-1965|For Marx]]* 1965 | Philosophical charter (overdetermination, break, anti-humanism, theoretical practice) |
+| Althusser, Balibar, Rancière, Macherey, Establet *[[althusser-reading-capital-1965|Reading Capital]]* 1965 | Co-charter (symptomatic reading, structural causality, mode as combination, plan of *Capital*) |
+| [[balibar-etienne]] | Basic concepts of HM; combination; reproduction; transition |
+| [[ranciere-jacques]] | 1844 vs *Capital* on critique; residual anthropology |
+| [[macherey-pierre]] | Process of exposition / work of concepts |
+| [[establet-roger]] | Plan and articulations of *Capital* |
+| [[godelier-maurice]] | Anthropological program; Mbuti, stereotypic reproduction |
+| Emmanuel Terray, Claude Meillassoux | Precapitalist modes / Guro etc. |
+| Lucien Sebag *Marxisme et structuralisme* 1964 | Early bridge (Sahlins: “essentially Boasian”) |
 
 ## Empirical Program
 
-The program's demonstrations were reanalyses of African and other precapitalist societies as articulated modes of production: Terray on the Guro, Godelier on the Mbuti and on "stereotypic reproduction." The recurrent analytic move — reducing concrete relations of production to "an abstract shadow structure of productive requirements" — is, in Sahlins's words, "a necessary condition for applying the classic historical materialism to primitive societies." Its empirical yield is contested; the reanalyses were largely conceptual reclassifications of existing ethnography rather than new fieldwork.
+- **Philosophy / politics:** re-theorize 1917, conjuncture, survivals, cult of personality as non-concepts of HM needing structural explanation.
+- **Critique of political economy:** reread *Capital*’s object, order of concepts, and residual slides (seminar product).
+- **Anthropology:** reclassify existing ethnography as articulated modes of production (Terray on Guro; Godelier on Mbuti). Yield is contested — largely conceptual reanalysis rather than new fieldwork.
+- **Archaeology:** later engagements (e.g. Shanks & Tilley 1987) use Marxism/structural Marxism as resources while rejecting evolutionary necessity ([[logic-of-contingency]]).
 
 ## Method Commitments
 
-Read the social formation as a hierarchy of structural levels; identify the dominant instance and the economy's determination "in the last instance"; treat kinship, politics, and religion as candidates for "functioning as" relations of production where no separate economic sphere exists; privilege the underlying structure over actors' conscious understandings (an Althusserian "epistemological break" with empiricism).
+- [[symptomatic-reading]] of theoretical texts for silences and problematics.
+- Read the social formation as hierarchy of instances under structure in dominance and structural causality.
+- [[combination-combinatory|Combination]] grid for modes; refuse element-decomposition and future-anterior history of ideas.
+- Privilege structure over actors’ conscious understandings; agents as bearers.
+- Theoretical practice produces knowledge; ideology is lived/unconscious, not mere error.
 
 ## Critiques and Responses
 
-*(Attributed — [[sahlins-marshall|Sahlins]].)* Sahlins's central objection is that structural Marxism performs "the reduction of concrete, historical relations of production to an abstract shadow structure of productive requirements" — a move he calls "a refusal of the symbolic constitution of social reality." His diagnostic example: Terray's treatment of Guro kinship (like Peter Worsley's of the Tallensi) "realizes" economic relations as kinship, whereas for Sahlins "it is not in the nature of agricultural production that father and son cooperate; they enter thus into production because they are related as father and son." The category "mode of production" already presupposes a cultural/symbolic scheme; material forces cannot determine cultural content because "the form of social existence of material force is determined by its integration in the cultural system" (see [[practical-reason]], [[la-pensee-bourgeoise]]). In *Islands of History* he extends the attack to Barry Hindess and Paul Hirst, who held that "historical events... can have no material effectivity in the present" — for Sahlins "culture is precisely the organization of the current situation in the terms of a past."
+*(Attributed — [[sahlins-marshall|Sahlins]].)* Central objection: structural Marxism reduces concrete historical relations of production to “an abstract shadow structure of productive requirements” — “a refusal of the symbolic constitution of social reality.” Example: Terray’s Guro kinship “realizes” economic relations as kinship; for Sahlins, father and son cooperate because they are father and son, not because production requires that form. The category “mode of production” already presupposes a cultural scheme ([[practical-reason]], [[la-pensee-bourgeoise]]).
 
-## Current Status
-
-The program declined after the 1970s as the culturalist, practice-theoretic, and eventful turns advanced; its vocabulary of "articulation of modes of production" and "determination in the last instance" survives in economic anthropology and world-systems-adjacent work. Its dispute with the symbolic program is the live stake of [[cultural-reason]] vs. [[practical-reason]].
+*(Other positions.)* Humanist Marxism: theoreticism and anti-humanism evacuate emancipation ([[marxist-humanism-debate]]). Historicists: science/ideology dualism is positivist; anti-historicism severs theory from lived history. Althusser’s self-criticism: theoreticism; later redefinition of philosophy.
 
 ### Archaeological engagement — Shanks & Tilley 1987
 
-*(Attributed — *[[shanks-tilley-social-theory-and-archaeology-1987|Social Theory and Archaeology]]*, Ch. 6.)* S&T discuss Marxism and structural Marxism as resources for theorizing social change (Marx 1859 Preface; Althusserian levels; Godelier; archaeological applications including Friedman & Rowlands epigenetic models). They endorse aspects of internal contradiction and ideology against systems equilibrium, but still reject evolutionary and epigenetic stage templates that reinstall a **logic of necessity** and fail historical particularity. Their preferred move is "beyond evolution" toward contingent conjunctures, strategic practice, and the social texture of change ([[logic-of-contingency]]; [[post-processual-archaeology]]). This is a critical archaeological reception, not a primary densification of Althusser/Godelier.
+*(Attributed — *[[shanks-tilley-social-theory-and-archaeology-1987|Social Theory and Archaeology]]*, Ch. 6.)* Marxism and structural Marxism as resources for social change; reject evolutionary/epigenetic necessity; prefer contingent conjunctures ([[post-processual-archaeology]]).
+
+## Current Status
+
+Declined as a named program after the 1970s; vocabulary (articulation of modes, last instance, overdetermination, relative autonomy, structural causality, bearers, combination) survives in economic anthropology, regulation theory, state theory, and critical theory. Live stakes in this wiki: [[cultural-reason]] vs [[practical-reason]]; [[marxist-humanism-debate]]; relation to [[western-marxism]] as rival recovery of Marx.
 
 ## Reflexivity
 
-Structural Marxism was a product of a specific conjuncture — post-1968 French intellectual politics and the decolonizing critique of empiricist ethnography — and its "scientific" self-presentation (Althusser's "epistemological break") was itself a polemical stance. Sahlins reads its abstraction of production from meaning as reproducing, at the level of theory, the very "practical reason" of the bourgeois society it opposed.
+Product of a specific conjuncture — post-1956 French Communist intellectual politics, ENS philosophy, and the structuralist moment. “Scientific” self-presentation (break, Theory) was polemical as well as epistemological. Multi-author *Reading Capital* was a seminar product, later abridged and restored — edition history is part of the text’s politics of transmission (Balibar Presentation). Anthropological applications often re-described colonial-era ethnography without new fieldwork. Collection coverage: *For Marx* + *Reading Capital* Complete Edition primary (2026-07-10); Godelier monographs and ISA essay still thin.
+
+## Links
+
+- originated_by: [[althusser-louis]], [[godelier-maurice]]
+- developed_from: [[historical-materialism]], [[structuralism]]
+- competes_with: [[western-marxism]], [[cultural-materialism]]
+- hub: [[hubs/theory/structural-marxism]]
+- concepts: [[overdetermination]], [[structure-in-dominance]], [[epistemological-break]], [[theoretical-practice]], [[theoretical-anti-humanism]], [[social-formation]], [[problematic]], [[symptomatic-reading]], [[structural-causality]], [[knowledge-effect]], [[combination-combinatory]], [[differential-historical-time]], [[dislocation-decalage]], [[bearer-trager]], [[mode-of-production]]
+- sources: [[althusser-for-marx-1965]], [[althusser-reading-capital-1965]]

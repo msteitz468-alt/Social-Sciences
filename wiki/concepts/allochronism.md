@@ -9,7 +9,7 @@ operationalized_as: "not quantified; identified as a textual-rhetorical device �
 contested: yes
 related_concepts: ["[[coevalness]]", "[[ethnographic-present]]", "[[visualism]]", "[[social-evolutionism]]", "[[structuralism]]", "[[cultural-relativism]]"]
 sources_ingested: 1
-last_updated: 2026-07-09
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -42,11 +42,17 @@ Fabian's method was a critical reading for temporalizing markers rather than a m
 
 Allochronism organizes Fabian's indictment of the discipline and connects it to the political economy of empire: "geopolitics has its ideological foundations in chronopolitics." It reframes anthropology's colonial entanglement as **epistemological, not merely moral** — a "cognitive complicity" built into how knowledge is produced and written, distinct from (and deeper than) bad intentions. The concept became a touchstone of the reflexive/critical turn and of postcolonial critiques of representation, and it supplies the rationale for abandoning the ethnographic present and for reflexive, dialogical ethnographic writing.
 
+**Schizogenic use of Time.** Closely related is Fabian's name for the fieldwork/report split: the anthropologist "in the field often employs conceptions of Time quite different from those that inform reports on his findings." Allochronism is the systematic, discursive product of that split once writing, teaching, and theory relegate interlocutors "in a time other [than] that of the one who speaks."
+
+**Reception (attributed).** Bunzl reads post-1980s ethnography as largely refusing unreflected allochronic conventions while residual allochronic rhetoric persists outside anthropology. Fabian's own later books are framed as constructive alternatives (*Power and Performance*; *Remembering the Present*; popular-culture work on African contemporaneity). Global and native-anthropology programs pressure the West/non-West Self–Other dyad that classic allochronism presupposed.
+
 ## Critiques and Limitations
 
 - **Self-implication.** Fabian conceded (attributed) that a critique of anthropology's uses of Time that ignores other cultures' own time-concepts may itself be allochronic — "There is no simple way to counter that objection."
 - **Polemical breadth.** Fabian described his own procedure as deliberate *polemic* and warned that sweeping "ism"-labels risk their own allochronic dismissal (he noted "animism" was partly invented to place an opponent outside contemporary debate). His sorting of whole schools under one device is an argument, not a neutral survey.
 - **Metaphor.** Fabian held that showing a distancing device to be metaphorical is "no excuse" — but the reliance on reading connotation and rhetoric makes the diagnosis contestable case by case.
 - **Race.** By his own admission the framework was developed with a "glaring absence of the issue of race," which he argued a "clear conception of allochronism" should frame rather than replace.
+- **Collateral damage.** In the postscript Fabian cautions that terms diagnosed as allochronic markers ("savage," "primitive," "traditional") also once belonged to discourses *critical* of civilization and mindless modernity (Rousseau; Lévi-Strauss's *sauvage*); radical critique should not erase those roots.
+- **Not the same as creating alterity.** Allochronism is not identical with manufacturing otherness; Fabian argues the discipline's failure is failing to recognize the epistemological significance of alterity (see [[coevalness]], [[othering]]).
 
 See [[coevalness]] for the positive counter-concept and the [[ethnographic-present-debate]] for the dispute over the flagship syntactic device.

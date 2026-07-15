@@ -7,11 +7,11 @@ era: [critical-turn, contemporary]
 affiliated_theories: ["[[feminist-anthropology]]", "[[interpretive-anthropology]]"]
 trained_under: ["[[unknown]]"]
 trained: ["[[unknown]]"]
-key_works: ["[[abu-lughod-veiled-sentiments-1986|Veiled Sentiments (1986)]]", "[[abu-lughod-writing-womens-worlds-1993|Writing Women's Worlds (1993)]]", "Dramas of Nationhood (2005)", "Do Muslim Women Need Saving? (2013)"]
-key_concepts: ["[[hasham]]", "[[ghinnawa]]", "[[honor-and-modesty]]", "[[asl]]", "[[writing-against-culture]]", "[[tactical-humanism]]"]
-fieldwork_sites: ["[[awlad-ali|Awlad ʿAli]], Western Desert, Egypt (1978–1980; returns 1986–1989; later returns 2008, 2015)"]
-sources_ingested: 2
-last_updated: 2026-07-09
+key_works: ["[[abu-lughod-veiled-sentiments-1986|Veiled Sentiments (1986)]]", "[[abu-lughod-writing-womens-worlds-1993|Writing Women's Worlds (1993)]]", "Dramas of Nationhood (2005)", "[[abu-lughod-do-muslim-women-2013|Do Muslim Women Need Saving? (2013)]]"]
+key_concepts: ["[[hasham]]", "[[ghinnawa]]", "[[honor-and-modesty]]", "[[asl]]", "[[writing-against-culture]]", "[[tactical-humanism]]", "[[gendered-orientalism]]"]
+fieldwork_sites: ["[[awlad-ali|Awlad ʿAli]], Western Desert, Egypt (1978–1980; returns 1986–1989; later returns 2008, 2015)", "Upper Egypt village (from 1993; women's-rights research visits ~2008–2012)", "WISE preparatory meeting, New York (2008, rights-organization fieldwork)"]
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [thinker, anthropology]
 ---
 
@@ -21,7 +21,7 @@ Lila Abu-Lughod (b. 1952) is an American cultural anthropologist known for ethno
 
 ## Overview
 
-Abu-Lughod's early career ethnography, based on ~19 months of fieldwork (October 1978–May 1980) as a "guest and daughter" in a Western Desert Bedouin household, analyzed how [[honor-and-modesty|honor and modesty]] ideology shapes ordinary talk and behavior while a second, culturally valued discourse of vulnerability and attachment is carried by short lyric poems ([[ghinnawa|ghinnāwa]]). Return fieldwork (1986–89, bulk 1987) produced the companion narrative ethnography *Writing Women's Worlds*, which enacts [[writing-against-culture]] and [[tactical-humanism]]. The pair became touchstones for Middle Eastern ethnography, [[feminist-anthropology]], and the anthropology of emotion/sentiment. Later work (not yet fully ingested) includes media and nationhood studies and public critique of the "need to save" Muslim women frame (*Do Muslim Women Need Saving?*, 2013).
+Abu-Lughod's early career ethnography, based on ~19 months of fieldwork (October 1978–May 1980) as a "guest and daughter" in a Western Desert Bedouin household, analyzed how [[honor-and-modesty|honor and modesty]] ideology shapes ordinary talk and behavior while a second, culturally valued discourse of vulnerability and attachment is carried by short lyric poems ([[ghinnawa|ghinnāwa]]). Return fieldwork (1986–89, bulk 1987) produced the companion narrative ethnography *Writing Women's Worlds*, which enacts [[writing-against-culture]] and [[tactical-humanism]]. The pair became touchstones for Middle Eastern ethnography, [[feminist-anthropology]], and the anthropology of emotion/sentiment. Later work includes media and nationhood studies (*Dramas of Nationhood*, 2005 — not ingested) and the public critique of the "need to save" Muslim women frame (*[[abu-lughod-do-muslim-women-2013|Do Muslim Women Need Saving?]]*, 2013 — ingested; see [[saving-muslim-women-debate]]). A second ethnographic strand ran alongside: an Upper Egyptian village studied from 1993 into the 2010s (interlocutors Zaynab, ʿAysha, Khadija, Amal — pseudonyms), which grounds the 2013 book's rights chapters.
 
 ## Contributions
 
@@ -32,7 +32,9 @@ Abu-Lughod's early career ethnography, based on ~19 months of fieldwork (October
 - **[[tactical-humanism]]** — limited use of humanist narrative against othering, without naive universalism (attributed, 1993).
 - **Halfie / positionality ethnography** — Arab-American, Muslim-recognized, daughter role structuring access; intermediate reflexivity (neither pure solipsism nor omniscient objectivity).
 - **Ethnographic reserve** (2016 afterword) — adapting Audra Simpson's ethnographic refusal to reluctance to disclose more when hosts become readers and tapes remain socially live.
-- Later (not fully ingested): critique of civilizational "saving" narratives.
+- **The "saving Muslim women" critique** (*[[abu-lughod-do-muslim-women-2013|Do Muslim Women Need Saving?]]*, 2002 article / 2013 book — now ingested). The post-9/11 rescue frame as [[gendered-orientalism]] that culturalizes politically and economically caused suffering; "oppression," "choice," and "freedom" as "blunt instruments" (attributed). Anchors [[saving-muslim-women-debate]]; includes her critical anatomy of the [[honor-crime]] category.
+- **"Social life of rights"** — treat rights not as held or lacked but as concepts whose forms change as they move through networks, organizations, and instruments; paired "thick" village ethnography (Upper Egypt, from 1993) with "thin" ethnography of rights organizations (Egyptian NGOs, Musawah, WISE) (attributed, 2013).
+- **"Registers of humanity"** — the 2013 book's concluding alternative to both rescue and relativism: common humanity recognized through, not despite, different culturally specific forms of family, obligation, and constraint. Continuous with but distinct from [[tactical-humanism]] — do not merge.
 
 ## Intellectual Genealogy
 

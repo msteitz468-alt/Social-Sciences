@@ -7,9 +7,9 @@ disciplines: [anthropology, sociology]
 emic_or_etic: etic
 operationalized_as: "the total learned way of life of a society — knowledge, belief, art, morals, law, custom, habits; in Tylor arrayed on a single savagery→civilization scale"
 contested: yes
-related_concepts: ["[[social-evolutionism]]", "[[survivals]]", "[[psychic-unity-of-mankind]]", "[[historical-particularism]]", "[[cultural-relativism]]", "[[superorganic]]", "[[ethos-and-eidos]]", "[[culture-pattern]]", "[[symboling]]", "[[culturology]]"]
-sources_ingested: 6
-last_updated: 2026-07-09
+related_concepts: ["[[social-evolutionism]]", "[[survivals]]", "[[psychic-unity-of-mankind]]", "[[historical-particularism]]", "[[cultural-relativism]]", "[[superorganic]]", "[[ethos-and-eidos]]", "[[culture-pattern]]", "[[symboling]]", "[[culturology]]", "[[invention-and-convention]]"]
+sources_ingested: 7
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -31,9 +31,49 @@ Tylor's is an **evolutionist, universalist, singular** concept: one Culture with
 
 **Rosaldo's critical-turn "culture in motion":** [[rosaldo-renato|Renato Rosaldo]] (*[[rosaldo-culture-truth-1993|Culture and Truth]]*, 1989) argued the classic concept — exemplified for him by Benedict's bounded, homogeneous "patterns" and by [[geertz-clifford|Geertz's]] and [[turner-victor|Turner's]] early treatment of culture as a "set of control mechanisms" — marginalizes conflict, improvisation, and change, and pushes **[[cultural-borderlands|cultural borderlands]]** to the edges. He held that culture pervades all conduct yet should be analyzed as **process** (agency, structure, events) rather than a static whole, and that classic ethnography rendered subordinate groups culturally "visible" while treating dominant groups as culturally transparent.
 
+**Wagner's inventionist dissolution (1975):** [[wagner-roy|Roy Wagner]] (*[[wagner-invention-of-culture-1975|The Invention of Culture]]*, 1975; rev. 1981) argued that culture is not an object the anthropologist discovers but something invented in the encounter: "an anthropologist 'invents' the culture he believes himself to be studying," and reciprocally — "He invents 'a culture' for people, and they invent 'culture' for him." Culture is never visible from within ("the culture in which one grows up is never really 'visible' — it is taken for granted") and becomes visible only through the contrast of culture shock; anthropology is "the study of man 'as if' there were culture," with culture as a necessary heuristic "prop." Wagner also traced the word's semantic career (Latin *colere*, "to cultivate" → agricultural refinement → the elitist "opera-house" sense → the anthropological sense as its "democratization"), arguing the marked/unmarked senses continuously derive from one another and that early anthropology's museum context produced a "wax museum" model of culture as finite, discrete assemblage — with Tylor's [[survivals]] doctrine making "the whole world of 'custom' into a gigantic living museum, which only anthropologists were privileged to interpret." His closing formulation: "Culture is what you make it." See [[invention-and-convention]] and [[reverse-anthropology]].
+
 ## Braidwood popularization of Redfield (1959)
 
 *(Attributed — [[braidwood-robert]], *[[braidwood-prehistoric-men-1959|Prehistoric Men]]*.)* Quotes Robert Redfield: culture as an “organized or formalized body of conventional understandings”; learned, non-genetic, group-specific ways of thinking, believing, living, and making tools. Used to ground the claim that standardized tool traditions evidence culture-bearing men.
+
+## Stocking's historicization of the culture concept (1968)
+
+*(Attributed — [[stocking-george-w|Stocking]], *[[stocking-race-culture-evolution-1968|Race,
+Culture, and Evolution]]*, essays 4 and 9 — the vault's standard account of how the modern
+concept emerged.)*
+
+Stocking's central historiographical claim, developed via
+[[presentism-and-historicism|anti-presentist]] method, is that neither [[tylor-edward-burnett|Tylor]] nor [[boas-franz|Boas]] "invented"
+the modern culture concept. He argues Tylor's 1871 usage lacked five elements crucial to
+the modern concept — **historicity, plurality, integration, behavioral determinism, and
+relativity** — and that Tylor used "culture" only in the singular ("Culture or
+Civilization"), gradable and evaluative, closer to [[arnold-matthew|Matthew Arnold]]'s
+humanist "culture" than to modern anthropology. Tylor "made evolutionary" the contemporary
+humanist idea rather than founding the anthropological one (the "uses of invention").
+Stocking traces two tributaries into the modern concept: Tylor's French-Enlightenment /
+British-empiricist "science of civilization" and Arnold's German-transcendentalist /
+Romantic integrative, "inner," way-of-life sense.
+
+The decisive marker Stocking uses is grammatical: he reports finding **no instance of the
+plural "cultures"** in Tylor, and none in American social science between 1890 and 1915
+except in Boas's writing, with the plural appearing "with regularity only in the first
+generation of Boas' students around 1910." He argues Boas did not arrive with the modern
+concept but developed it gradually (c. 1887–1911) — "germinating and growing in" the older
+word — chiefly as the **positive residue of his critique of the [[comparative-method]]**:
+once the single evolutionary sequence was rejected, what remained was a plurality of
+separate, historically-conditioned cultures ("before we seek what is common to all culture,
+we must analyze each culture"). Stocking documents the shift textually — Boas revised
+singular-evaluative "culture" passages of his 1894 "Human Faculty as Determined by Race"
+into "civilization" for *[[boas-mind-of-primitive-man-1938|The Mind of Primitive Man]]*
+(1911), reserving "culture" for the plural, particularist sense — and flags an important
+qualifier: **Boas was not a consistent relativist**, retaining a "general theory of
+valuation" aimed at standards of "greater absolute truth." He casts the transformation as a
+Kuhnian paradigm shift: Boas "did not define" culture but "create[d]... the context in
+which the word acquired its characteristic anthropological meaning." Against Kroeber and
+Kluckhohn's "cultural lag" narrative (Tylor founded the concept in 1871, then Boas
+inexplicably delayed its clarification), Stocking argues there was no delay to explain — the
+modern concept had simply not yet emerged, and Boas drove rather than hindered it.
 
 ## Operationalizations
 

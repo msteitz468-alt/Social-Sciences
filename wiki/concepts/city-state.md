@@ -8,7 +8,7 @@ emic_or_etic: etic
 operationalized_as: "one of two basic early-civilization political forms in Trigger 2003: smaller polities with high urban density, more farmer residence in cities, heterarchical elements, and relatively market-oriented exchange"
 contested: yes
 related_concepts: ["[[territorial-state]]", "[[early-civilization]]", "[[urbanization]]", "[[heterarchy]]", "[[the-state]]", "[[kingship]]", "[[evolution-of-simplicity]]", "[[grain-hypothesis]]", "[[pristine-state]]", "[[wealth-appropriation]]"]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-07-10
 tags: [concept, archaeology, anthropology]
 ---
@@ -22,6 +22,19 @@ In *[[trigger-understanding-early-civilizations-2003|Understanding Early Civiliz
 ## Semantic History
 
 "City-state" has classical (polis) and Near Eastern (Sumerian city-kingdom) roots; modern comparative archaeology and political anthropology extend it to Yoruba, Maya, and other cases. Distinct from modern nation-state usage. Trigger’s contribution is systematizing the type as half of a binary that organizes urban form, administration, and exchange across seven cases — not inventing the term.
+
+**The European city-state's rise and extinction (Tilly 1990/1992, attributed).** In
+*[[tilly-coercion-capital-1992|Coercion, Capital, and European States]]*, the city-state (with
+city-empires and urban federations) is one of three recurrent European state forms — the
+"fragmented sovereignty" produced where capital was abundant and coercion dispersed. "Where a
+single city predominated, a very effective form of state — the city-state or city-empire —
+emerged"; Venice ("hinge of Europe," once "Europe's greatest single power") is the extended
+case, financing war through funded public debt and condottieri while fusing municipal and
+national government. The form "lost out... once mass armies recruited from the state's own
+population became crucial to successful warfare": the Italian Wars from 1494 "relegated all
+the Italian city-states to extinction, subordination, or perilous survival in the interstices
+of great powers," and Atlantic sailing-ship powers finished the Mediterranean city-empires.
+See [[capitalized-coercion]], [[national-state]], [[bellicist-theory-of-state-formation]].
 
 ## Operationalizations
 

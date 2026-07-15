@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "True levirate: brother cohabits with widow of child-bearing age to raise children counted as the deceased’s (widow remains wife of the dead man). Distinct from widow inheritance (brother becomes husband/father)."
 contested: no
 related_concepts: ["[[sororate]]", "[[exogamy]]", "[[group-marriage]]", "[[marriage]]", "[[marriage-payments]]", "[[unilineal-descent]]", "[[family]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [concept, anthropology]
 ---
 
@@ -36,6 +36,12 @@ Biblical and classical legal usage (Hebrew levirate) → Victorian comparative k
 Further axes: mandatory vs preferential; junior vs senior levirate; restriction to lineage segment (Ashanti *yafunu*); relation to inheritance of property and of widows as duty of heir.
 
 ## Applications
+
+### Nuer (Evans-Pritchard 1951)
+
+*(Attributed — *[[evans-pritchard-kinship-marriage-nuer-1951|Kinship and Marriage among the Nuer]]*; study [[evans-pritchard-kinship-marriage-nuer-study]].)* Classic **true levirate**: marriage bonds not severed by death; widow remains wife of the dead husband; children she bears afterward (by brother or stranger) count as his. Nuer refused the word *kwen* (“to marry”) for a brother taking a deceased brother’s wife — he “provided his brother’s wife with a hut.” Preferred levir = full brother (unmarried brothers’ rights paramount).
+
+**Distinct from [[ghost-marriage]]:** in ghost-marriage a pro-husband *actually marries* (new cattle + rites) in a dead man’s name; in levirate the legal husband already married her and the brother enters an existing family. **Distinct from widow-concubinage:** lover not of husband’s kin (*ciek ma lak*).
 
 ### Lowie (*Primitive Society*)
 

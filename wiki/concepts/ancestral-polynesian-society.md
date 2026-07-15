@@ -8,8 +8,8 @@ disciplines: [archaeology, anthropology, linguistic-anthropology]
 emic_or_etic: etic
 operationalized_as: "Reconstructed common socio-cultural baseline of Polynesian societies after Eastern Lapita and before major East/West Polynesian dispersals — inferred from West Polynesian archaeology c. 500 BC–AD 300 (as of Kirch 1984), Proto-Polynesian lexical reconstruction, and controlled ethnographic comparison of shared structural features"
 contested: yes
-related_concepts: ["[[chiefdom]]", "[[rank-society]]", "[[hereditary-rank]]", "[[mana]]", "[[redistribution]]", "[[transported-landscape]]", "[[agricultural-intensification]]", "[[domestic-mode-of-production]]"]
-sources_ingested: 1
+related_concepts: ["[[chiefdom]]", "[[rank-society]]", "[[hereditary-rank]]", "[[mana]]", "[[redistribution]]", "[[transported-landscape]]", "[[agricultural-intensification]]", "[[domestic-mode-of-production]]", "[[ancestral-oceanic-society]]"]
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [concept, polynesia, archaeology]
 ---
@@ -157,6 +157,33 @@ later transformed into regularized taxation (*makahiki*, *‘inasi*) in stratifi
   cultural-historical construct tied to Polynesian languages and Lapita-derived material
   sequences, **associated with** Proto-Polynesian and Eastern Lapita, not identical to a
   genetic population or a single “people.”
+
+## Update: *On the Road of the Winds* (Kirch 2017)
+
+*(Attributed — [[kirch-road-of-the-winds-2017|Kirch 2017]], Ch. 7, drawing on Kirch and Green 2001,
+*Hawaiki, Ancestral Polynesia*.)* The 2017 synthesis refines APS's dating and its place in a nested
+phylogeny, and updates the 1984 chronology above:
+- **Sequence and descent.** APS descends from — and is analytically **distinct from** — the
+  earlier, broader **[[ancestral-oceanic-society|Ancestral Oceanic Society]]** (the Proto-Oceanic /
+  Lapita-period reconstruction). APS is the later, geographically narrower Western Polynesian stage
+  reached via a Proto Central Pacific → Proto Tongic / Proto Nuclear Polynesian split; the two are
+  sequential, never to be merged. The homeland region is remembered in later Polynesian oral
+  tradition as **[[hawaiki|Hawaiki]]**.
+- **Dating (revised).** APS emerges in the second half of the first millennium BCE, following
+  Eastern Lapita settlement of Tonga (founding site Nukuleka, ~896–880 BC) and Samoa (Mulifanua,
+  ~900–850 BC) — later and tighter than the 1984 "c. 500 BC–AD 300" framing, consistent with the
+  short chronology ([[pacific-settlement-chronology-debate]]).
+- **Method and anchors.** Recovered by the Kirch–Green **triangulation method** (linguistics +
+  ethnography + archaeology + biological anthropology cross-checked within a phylogenetic model);
+  key archaeological anchor is the Toʻaga site (Ofu, Manuʻa, American Samoa; Kirch's excavations
+  1986–89, oldest Polynesian Plain Ware fineware).
+- **Reconstructed content.** *\*kainanga* descent groups under *\*qariki* leaders; *\*mana* / *\*tapu*
+  central; ritual in a *\*fare* and open *\*malaqe* (ancestor of *marae* / *malae* — the East/West
+  divergence Burrows 1938 used to infer settlement direction); only Tangaloa reconstructed as a
+  deity (the differentiated Tāne/Tū/Rongo pantheon is a later East Polynesian innovation). Kirch
+  characterizes early APS communities as **heterarchical rather than hierarchical**. This is a model
+  case of proper evidence-class non-conflation — linguistics, biology, and ethnography treated as
+  three *separately converging* lines, not one identity.
 
 ## Related Concepts
 

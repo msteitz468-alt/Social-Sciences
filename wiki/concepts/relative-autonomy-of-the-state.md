@@ -7,9 +7,9 @@ disciplines: [sociology, political-economy, political-thought]
 emic_or_etic: etic
 operationalized_as: "Degree to which executive state machinery acts independently of the immediate political control of the economically dominant class, while still conditioned by class structure"
 contested: yes
-related_concepts: ["[[bonapartism]]", "[[the-state]]", "[[class-fraction]]", "[[historical-materialism]]", "[[bureaucracy]]", "[[state-autonomy]]"]
-sources_ingested: 2
-last_updated: 2026-07-08
+related_concepts: ["[[bonapartism]]", "[[the-state]]", "[[class-fraction]]", "[[historical-materialism]]", "[[bureaucracy]]", "[[state-autonomy]]", "[[structure-in-dominance]]", "[[overdetermination]]", "[[social-formation]]"]
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -23,6 +23,7 @@ The phrase **relative autonomy of the state** is later Marxist school language f
 
 - **1852 *Brumaire*:** independence as *seeming* and *conjunctural* (second Bonaparte); bureaucracy earlier prepared or served bourgeois class rule.
 - **Later Marxism** (Poulantzas and others — not yet ingested) systematized “relative autonomy” as a general feature of the capitalist state.
+- **Althusser, *For Marx* (1965).** Generalizes the **superstructure side** of the chain: determination in the last instance by the economic [[mode-of-production]] *and* relative autonomy / specific effectivity of superstructures ([[structure-in-dominance]], [[overdetermination]]). Famous gloss: “the lonely hour of the last instance never comes.” Cult of personality is not a concept of historical materialism; superstructural effectivity must be thought within the structured whole. Source: [[althusser-for-marx-1965]].
 - **Skocpol's contrast (1979).** [[skocpol-theda|Theda Skocpol]] argues the Marxist "relative autonomy" debate does not go far enough — it still ties the state functionally or relationally to the mode of production — and proposes instead a stronger, Weberian [[state-autonomy|*potential* autonomy of the state]] as an administrative-coercive organization with interests of its own. See [[relative-autonomy-of-the-state-debate]].
 - **This wiki** dates the *concept’s classical case* to the *Brumaire* and keeps school elaborations attributed when ingested.
 
@@ -56,5 +57,6 @@ Indicators in Marx’s narrative:
 
 - study: [[marx-eighteenth-brumaire-study]]
 - source: [[engels-origin-of-the-family-1884]]
-- related: [[bonapartism]] · [[historical-materialism]] · [[the-state]] · [[withering-away-of-the-state]]
+- related: [[bonapartism]] · [[historical-materialism]] · [[the-state]] · [[withering-away-of-the-state]] · [[structure-in-dominance]] · [[overdetermination]]
 - debate: [[relative-autonomy-of-the-state-debate]]
+- source (generalization): [[althusser-for-marx-1965]]

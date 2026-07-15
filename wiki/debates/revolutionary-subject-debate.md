@@ -7,9 +7,9 @@ positions:
   - "Orthodox/classical Marxist: the proletariat, once class-conscious, remains the determinate negation of capitalism and its necessary revolutionary agent"
   - "Marcuse's integration thesis: in advanced industrial society the working class has been integrated into and become a 'prop' of the system; critical theory retains no demonstrable agent of change and must look to a new historical subject — the 'substratum of outcasts and outsiders'"
   - "Skocpol's empirical challenge: in the social revolutions that actually occurred (France, Russia, China) the necessary insurrectionary class was the peasantry, not the proletariat; revolutionary agency is structurally conditioned, not a matter of consciousness"
-key_texts: ["[[marcuse-one-dimensional-man-1964|One-Dimensional Man (Marcuse, 1964)]]", "[[marx-engels-communist-manifesto-1848|The Communist Manifesto (1848)]]", "[[skocpol-states-social-revolutions-1979|States and Social Revolutions (Skocpol, 1979)]]"]
+key_texts: ["[[marcuse-one-dimensional-man-1964|One-Dimensional Man (Marcuse, 1964)]]", "[[marx-engels-communist-manifesto-1848|The Communist Manifesto (1848)]]", "[[skocpol-states-social-revolutions-1979|States and Social Revolutions (Skocpol, 1979)]]", "[[wolf-peasant-wars-1969|Peasant Wars of the Twentieth Century (Wolf, 1969)]]"]
 resolution_status: open
-last_updated: 2026-07-08
+last_updated: 2026-07-10
 tags: [debate]
 ---
 
@@ -28,6 +28,11 @@ Marcuse argues (attributed) that advanced industrial society has structurally in
 ## Position C — The peasantry as the actual revolutionary class (Skocpol, from the historical record)
 
 Cutting across the Marcuse debate is an empirical challenge from comparative-historical sociology: in the great social revolutions that actually occurred, the decisive insurrectionary class was not the industrial proletariat at all but the **peasantry**. [[skocpol-theda|Theda Skocpol]] argues (attributed, *[[skocpol-states-social-revolutions-1979|States and Social Revolutions]]*, 1979) that "peasant revolts against landlords were a necessary ingredient in all three Revolutions [France, Russia, China], whereas successful revolts by urban workers were not." Modern social revolutions have occurred in agrarian countries caught behind more-developed competitors — not, as Marx expected, in advanced industrial ones. This reframes the question: the issue is less whether the proletariat *remains* revolutionary than whether it was ever, historically, the agent of the classic revolutions. Skocpol treats the revolutionary agency of any class as *structurally* conditioned (solidarity, autonomy, state breakdown), not as a matter of consciousness — see [[peasantry-as-class]], [[social-revolution]], and [[structural-theory-of-revolution]].
+
+
+## Position D — Wolf: stratified peasantry under capitalist commodity expansion (1969)
+
+[[wolf-eric-r|Eric Wolf]] in *[[wolf-peasant-wars-1969|Peasant Wars of the Twentieth Century]]* (1969) does not replace the proletariat with an undifferentiated peasantry. He argues (attributed) that **North Atlantic capitalism** radicalizes agrarian societies by converting land, labor, and wealth into commodities, and that **[[middle-peasant|middle peasants]]** and free/peripheral poor with **[[tactical-mobility]]** — not landlord-dependent poor or rich-peasant allies of external power — are the pivotal rural recruits. Peasants alone cannot make revolution (“natural anarchists” of the free village); army or party engineering converts rebellion into societal seizure. This is a third agrarian answer alongside Skocpol’s structural peasant insurrection: more stratum- and commodity-centered, less state-breakdown-centered. See [[wolf-peasant-wars-study]] and [[peasant-movements]].
 
 ## Shared factual ground, framed per side
 

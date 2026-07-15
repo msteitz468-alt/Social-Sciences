@@ -32,7 +32,7 @@ The method complements, rather than duplicates, computer-simulation approaches t
 
 ## Exemplary Applications
 
-The *Hōkūle'a* program's demonstration of two-way Hawai'i–Tahiti sailing directly supported [[irwin-geoffrey]]'s "survival sailing strategy" model of purposive Pacific colonization, and is central to resolving the [[polynesian-voyaging-intentionality-debate|drift-versus-deliberate voyaging debate]] in favor of purposive navigation.
+The *Hōkūle'a* program's demonstration of two-way Hawai'i–Tahiti sailing directly supported Geoffrey Irwin's "survival sailing strategy" model of purposive Pacific colonization, and is central to resolving the [[oceanic-voyaging|drift-versus-deliberate voyaging debate]] in favor of purposive navigation.
 
 ## Debates
 

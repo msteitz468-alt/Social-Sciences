@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "methodological rule: interpret practices and values within the culture's own historical and meaningful context before ranking them against an external standard"
 contested: yes
 related_concepts: ["[[historical-particularism]]", "[[culture]]", "[[psychic-unity-of-mankind]]", "[[race]]", "[[coevalness]]", "[[allochronism]]", "[[linguistic-relativity]]", "[[habitual-thought]]"]
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 6
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -53,6 +53,14 @@ Herskovits and later textbooks named and ethicized this logic. Culture-war uses 
 
 The same posthumous-coinage point is reported for *[[boas-race-language-culture-1940|Race, Language and Culture]]* (1940): *(attributed — Seiferle-Valencia 2017)* Boas never organizes that collection under "cultural relativism" either — the term was coined by students after his 1942 death to synthesize the recurring methodological logic of the essays. The guide also stresses the standing distinction between **methodological** relativism (a scientific procedure for understanding difference) and **moral relativism** (the ethical claim that there is no objective right or wrong) — the latter a popular post-WWII misreading, not Boas's position.
 
+## Wagner's Reflexive Radicalization (1975) — POSITION
+
+[[wagner-roy|Roy Wagner]] (*[[wagner-invention-of-culture-1975|The Invention of Culture]]*, 1975 — attributed) derived relativity directly from the culture concept itself: since no method exists for objectively grading cultures, "we assume that every culture, as such, is equivalent to every other one. This assumption is called 'cultural relativity.'" He paired it with **relative objectivity** — "'Absolute' objectivity would require that the anthropologist have no biases, and hence no culture at all" — and made the reflexive application the "acid test" of any anthropology: relativity must apply to the anthropologist's own reality, not only to the studied people's, else their creativity remains "derivative of our own creation of reality." Wagner also read the history of anthropological relativism (Tylor → Boas → Kroeber → Lévi-Strauss → Schneider) alongside relativity in physics (Mach, Einstein, Heisenberg) as parallel "phases in the growing self-consciousness of a progressively relativizing and self-obviating Culture" — see [[invention-and-convention]] and [[obviation]]. He warned, though, against reducing cultural difference to "merely" seeing the world differently, naming Benedict and Spengler as instances of that reductive reading.
+
 ## The Temporal-Distancing Critique (Fabian) — POSITION
 
 [[fabian-johannes|Johannes Fabian]] (*[[fabian-time-and-the-other-1983|Time and the Other]]*, 1983 — attributed) argued that cultural relativism, whatever its anti-racist intentions, is one of the two main devices by which anthropology denies its subjects [[coevalness|shared present time]] — it "**circumvents**" coevalness by fencing each culture into its own Time. Borrowing Ernst Bloch's figure for Spengler's relativism, he called these bounded, mutually windowless wholes "**culture gardens**" — "culture souls without windows, with no links among each other, yet full of mirrors facing inside," giving the observer "the illusion of objectivity, coherence, and density." Studying a culture "from a distance" — normally a methodological vice against participant observation — thereby becomes a "theoretical virtue," and (in the WWII/Cold War "culture at a distance" work of Mead, Métraux, Benedict, and E. T. Hall) a tool of control. Fabian read even Benedict's incommensurable [[cultural-configuration|configurations]] ("travelling along different roads... essentially they are incommensurable") as a temporalizing move. On this view relativism does not escape the evolutionist "temporal slope" so much as break it into separated, coexisting-but-not-contemporary "Times." See [[allochronism]].
+
+## "Too Late Not to Interfere" (Abu-Lughod) — POSITION
+
+[[abu-lughod-lila|Lila Abu-Lughod]] (*[[abu-lughod-do-muslim-women-2013|Do Muslim Women Need Saving?]]*, 2013 — attributed) grants that cultural relativism is "certainly an improvement on ethnocentrism and the racism, cultural imperialism, and imperiousness that underlie it," but argues "the problem is that it is too late not to interfere": cultures are already products of long entangled histories, so the relativist premise of separable, insular cultures fails. Her alternative to both relativism and interventionism is a "respect for difference" rooted in acknowledged shared histories and in attention to what differently situated women themselves say they want. See [[saving-muslim-women-debate]].

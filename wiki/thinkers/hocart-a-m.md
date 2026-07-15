@@ -1,0 +1,46 @@
+---
+title: "A. M. Hocart"
+date_birth: "1883"
+date_death: "1939"
+disciplines: [anthropology]
+era: [classical-era, fieldwork-revolution]
+affiliated_theories: ["[[diffusionism]]"]
+trained_under: ["[[rivers-w-h-r|W. H. R. Rivers]]", "[[marett-r-r|R. R. Marett]]"]
+trained: ["[[unknown]]"]
+key_works: ["Lau Islands, Fiji (Bishop Museum)", "Kingship (1927)", "The Progress of Man", "Kings and Councillors (1936, posthumous)", "Caste (1950, posthumous)"]
+key_concepts: ["ritual origin of society", "kingship", "conceptual identity (kings = gods)"]
+fieldwork_sites: ["Eddystone Island, Western Solomons (with Rivers, Percy Sladen Trust Expedition, 1908)", "Roviana, Fiji, Rotuma, Wallis Island, Samoa, Tonga (to c. 1914)", "Ceylon (Archaeological Commissioner, 1919–1929)"]
+sources_ingested: 2
+last_updated: 2026-07-15
+tags: [thinker, anthropology]
+---
+
+# A. M. Hocart
+
+**Arthur Maurice Hocart** (1883–1939) was a comparative anthropologist and colonial official whose studies of **kingship** and ritual argued that government and social order originated in ritual — a position blending Frazerian and diffusionist currents with meticulous ethnography.
+
+## Overview
+
+**Arthur Maurice Hocart** (1883–1939) was a comparative anthropologist and colonial official whose studies of **kingship** and ritual argued that government and social order originated in ritual — a position blending Frazerian and diffusionist currents with meticulous ethnography.
+
+Born in Belgium in 1883 to Channel Islands (Guernsey) French Protestant ancestry (his father a Wesleyan-turned-Unitarian minister), Hocart was educated in Brussels and at Elizabeth College, Guernsey, before matriculating at Exeter College, Oxford (R. R. Marett's college) in 1902, taking second-class honors in "Greats" in 1906. He studied comparative philology under Joseph Wright (Max Müller's successor) and psychology under William McDougall (a Torres Straits Expedition alumnus), followed by two years of postgraduate study in psychology and philosophy at the University of Berlin, likely under Carl Stumpf *(source: [[stocking-after-tylor-1995]])*. [[rivers-w-h-r|Rivers]] recruited him (with Gerald Wheeler) for the Percy Sladen Trust Expedition; the two divided ethnographic labor on Eddystone Island in the Western Solomons, Rivers taking kinship, social organization, and religion, Hocart taking fishing, warfare, and death. His fieldwork sequence ran from Eddystone (three months with Rivers) to Roviana (six weeks), further Eddystone work, a stint as headmaster of a native boys' school in Fiji (to 1912, with Haddon's support), and roughly two more years (to c. 1914) investigating "race, crafts, customs" in Fiji, Rotuma, Wallis Island, Samoa, and Tonga as a graduate research scholar, first for Exeter then for Jesus College, Oxford. He returned to Oxford as a diploma student in anthropology in 1914 and served as Deputy Wilde Reader in Mental Philosophy (for the absent McDougall) in 1915, then served in the British Army through the First World War, reaching the rank of captain on the front lines in France. As Archaeological Commissioner for Ceylon (1919, into the 1920s) he studied Sanskrit, Pali, Tamil, and Sinhalese and supervised excavation and conservation of Hindu and Buddhist monuments; severe dysentery forced home leave in 1925, and he retired to England on pension in 1929, marrying in 1930. He published *Lau Islands, Fiji* — an ethnography built largely from verbatim informant statements, modeled explicitly on ancient textual corpora (the Brahmanas/Sutras, Pausanias, the Pyramid Texts) — and *Kingship* (announced complete 1925), his major theoretical work on divine kingship. He held an Honorary Lectureship in Ethnology at University College London (1931–1934), failed candidacy for the Cambridge chair in social anthropology in 1932, and served as Professor of Sociology at the University of Cairo until his death in 1939. Further work — *The Progress of Man* (an evolutionary textbook Stocking calls "now-forgotten") and *Kings and Councillors* ("recently remembered," posthumously influential) — together with manuscripts including *Caste*, were published posthumously by his literary executor, Lord Raglan.
+
+## Contributions
+
+- Comparative anthropologist who combined Boasian ethnographic care with Frazerian-diffusionist interests, arguing for the ritual origins of kingship, government, and social organization.
+- **"Boasian ethnographer as Frazerian diffusionist" (Stocking's framing).** *(Attributed.)* In an early 1915 theoretical statement, Hocart attacked "rationalistic utilitarian psychology" (a Hobbes/Locke-style "what was the intended use of this custom?") as inadequate, arguing custom instead required a "functional psychology" of association, emotion, confused thought, and analogical reasoning — while also rejecting a purely "biological psychology" of racial instinct. Hocart held racial/congenital mental differences were "negligible," and that "savages" "think in the same manner as we do" but "think different things," because the same mental processes operate on different inherited cultural material. Stocking notes striking parallels between Hocart's anti-ethnocentric, linguistically-informed method and Boasian anthropology, including his publication in *American Anthropologist* during the war years — the basis of Stocking's characterization of Hocart as a "Boasian ethnographer" pursuing a fundamentally Frazerian/diffusionist theoretical program.
+- **Critique of Rivers.** *(Attributed.)* Reviewing [[rivers-w-h-r|Rivers]]'s *[[rivers-melanesian-society-1914|History of Melanesian Society]]*, Hocart criticized Rivers for attributing differing "modes of thought" to "rude peoples" without actually studying their beliefs in detail, and for being too accommodating toward the "psychological school" rather than becoming a full diffusionist "whole-hogger."
+- ***Kingship* (1927).** *(Attributed.)* Hocart sought "the main features of a religion" that he argued spread worldwide from a single source, using a comparative-philological method that decomposed coronation ceremonies into discrete "rites," tabulated across Fijian, Indian, Cambodian, Egyptian, Hebrew, Roman, Byzantine, and English cases, and concluded they derived from one common "parent rite." His method combined comparative-philological "dissection" with comparative-anatomical/organicist rhetoric: rites were treated as "species" of a "genus," coronation-complexes as "organisms" whose parts might "lose their old function... in order to acquire a new one" while retaining the same underlying social structure. Central to the analysis was the equation "kings = gods" — the king as a sun-figure imposing "regularity on the universe and the tribe" — which Hocart argued was not a naive material identification but a "conceptual identity" through which ritual thought itself operated, cautioning against dismissing such reasoning as simply "preposterous."
+- **Psychic unity, reframed.** *(Attributed.)* Hocart held there was a genuine "psychic unity" between South Sea Islander and European once ethnocentric utilitarianism was set aside — but, in contrast to Marett's emphasis on emotion, held that unity was fundamentally *logical*. He explicitly rejected the equation of "primitive" living peoples (e.g., the Vaddas/Veddahs) with actual cultural primitiveness, calling the assumption unproven and "demonstrably false," while still holding that human customary diversity reflected genuine evolutionary/adaptive processes — "man's endless experiments in the acquisition of higher powers." He acknowledged direct intellectual debt to [[elliot-smith-grafton|Elliot Smith]] on the origin of sacrifice and creation myth (1929 statement).
+
+## Intellectual Genealogy
+
+Worked with [[rivers-w-h-r|Rivers]] on the Percy Sladen Trust expedition to the Solomons; despite private reservations about the "children of the sun" migration narrative specifically, formally joined the neo-diffusionists (with [[perry-w-j|Perry]] and [[elliot-smith-grafton|Elliot Smith]]) at University College London, 1931–34. A heterodox figure between diffusionism and later structuralism; *(attributed — Stocking)* recently reappreciated as one of the most important members of the prewar anthropological cohort, though his career and reputation were entangled with, and diminished by association with, Smith/Perry heliolithic diffusionism — part of a broader disciplinary-memory pattern of separating an "early" (respectable) from a "late" (diffusionist, disowned) Rivers, which Stocking argues was applied similarly to Hocart.
+
+## Critiques and Reappraisals
+
+Assessed at length in [[stocking-after-tylor-1995|Stocking's *After Tylor* (1995)]] (attributed); see that source for the historicist reconstruction of this figure's place in the transition from evolutionism to social anthropology, and for Stocking's revisionist argument that British diffusionism (Rivers → Elliot Smith/Perry → Hocart) was a serious paradigmatic rival to evolutionism, not a mere aberration — see [[diffusionism]].
+
+## Historiography
+
+Principal source in this wiki: [[stocking-after-tylor-1995|Stocking, *After Tylor* (1995)]], Ch. 5, "The Revival of Diffusionist Ethnology: Rivers and the Heliolithic School."

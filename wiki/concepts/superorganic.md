@@ -7,8 +7,8 @@ disciplines: [anthropology, sociology]
 emic_or_etic: etic
 operationalized_as: "culture as organic-plus: carried by individuals but not reducible to organic or individual-psychological constants; best explained historically"
 contested: yes
-related_concepts: ["[[culture]]", "[[ethos-and-eidos]]", "[[social-fact]]", "[[historical-particularism]]", "[[culture-pattern]]"]
-sources_ingested: 1
+related_concepts: ["[[culture]]", "[[ethos-and-eidos]]", "[[social-fact]]", "[[historical-particularism]]", "[[culture-pattern]]", "[[genius-clustering]]", "[[growth-configuration]]"]
+sources_ingested: 2
 last_updated: 2026-07-09
 tags: [concept]
 ---
@@ -47,6 +47,7 @@ Kroeber used the concept to **demarcate** sociocultural anthropology: the object
 - Culture definition against purely "social" labels (ants/bees have society without culture).
 - Invention and simultaneous discovery as "superindividual" currents tied to pattern fruitfulness (Patterns / Processes chapters).
 - Resistance to eugenic and racial explanations of cultural achievement.
+- **The empirical demonstration.** *[[kroeber-configurations-culture-growth-1944|Configurations of Culture Growth]]* (1944) is Kroeber's book-length case for the superorganic level: the [[genius-clustering|clustering of genius]] in time and space shows high achievement to be a property of [[growth-configuration|growth configurations]] of [[culture-pattern|culture patterns]], not of individual endowment ("Geniuses are the indicators of the realization of coherent pattern growths of cultural value").
 
 ## Critiques and Limitations
 

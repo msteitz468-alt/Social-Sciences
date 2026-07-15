@@ -1285,3 +1285,315 @@ DECLINED = user decided not to pursue
 **Suggested improvement:** Never use multi-line regex to dedupe ledger entries. Prefer: (1) single-line exact-string checks before insert; (2) insert only at a known anchor (`## Recently ingested` or first `- **YYYY-MM-DD**`) with exact prefix match; (3) if dedupe needed, match only one line starting with `- **DATE** — ✅ Author, *Title`. Add CLAUDE.md rule: Structural_Sources edits must be single-bullet appends; verify file size/line-count within ~2% after edit; never run multi-match delete without dry-run size check.
 
 **Principle:** Bookkeeping files that accumulate concurrent session writes need append-only discipline; destructive multi-match edits on shared ledgers are high blast-radius and need pre/post size assertions.
+
+### Observation 89: Duplicate-page pre-scan must grep the slug across ALL folders, not one folder
+
+**Date:** 2026-07-10
+**Session context:** Ingesting Kirch, *On the Road of the Winds* (2017) into the Social Sciences wiki via deployed subagents.
+**Skill:** Social Sciences wiki CLAUDE.md ingest workflow (Step 1 duplicate-page pre-scan) — internal.
+**Type:** internal
+**Phase/Area:** Step 1 scaffold / duplicate pre-scan; Step 4 integration.
+
+**Issue:** During scaffolding I checked whether `ancestral-polynesian-society` existed by testing `societies/ancestral-polynesian-society.md` (missing) and concluded the wikilink was "broken" and needed creating. In fact `concepts/ancestral-polynesian-society.md` already existed (from a prior Kirch ingest) and resolved the link fine. A Stage-2 society agent then created a `societies/` page with the same slug → a duplicate-slug collision (Obsidian resolves ambiguously; lint flags it). I caught it only at bookkeeping when reading the Structural_Sources ledger, then had to fold content into the canonical concept page and delete the duplicate — a ~10-minute detour.
+
+**Suggested improvement:** In the duplicate-page pre-scan, resolve every candidate slug with a **folder-agnostic** check — `find wiki -name "<slug>.md"` or `grep -rl` across the whole vault — never a single-folder `[ -f folder/slug.md ]` test. Obsidian resolves wikilinks by bare filename across all folders, so a slug is "taken" if it exists in ANY folder. Add this as an explicit instruction to CLAUDE.md's Step-1 pre-scan bullet ("check both name orders AND all folders; a bare `[[slug]]` resolves vault-wide").
+
+**Principle:** When a system resolves references by a flat namespace (filename) but stores files in folders, existence checks must query the flat namespace, not the folder path. A per-folder existence test gives false "missing" results and manufactures duplicates.
+
+### Observation 90: Word-count intake check must account for `wc` column order
+
+**Date:** 2026-07-10
+**Session context:** Ingesting Liu & Chen, *The Archaeology of China* (2012), 500-page PDF, via the deployed-subagent workflow.
+**Skill:** Social Sciences wiki ingest workflow (CLAUDE.md "word-count intake check")
+**Type:** internal
+**Phase/Area:** Deployed Ingest Step 1 — word-count intake check
+
+**Issue:** Ran `wc -w -l "$file"` and read the output as `30504` words for a 500-page book (~61 w/p), which tripped the "converted ebooks fail silently / incomplete conversion" alarm and prompted an investigation. The file was actually complete: `wc` always prints counts in fixed order (lines, then words), regardless of flag order, so `30504` was the LINE count and `187522` was the word count (~375 w/p, healthy). The false alarm cost one extra verification round (inspecting mid-file content, recounting via awk).
+
+**Suggested improvement:** In the CLAUDE.md "word-count intake check" instruction, specify `wc -w <file>` (words only) or `awk '{n+=NF} END{print n}' <file>` for the intake ratio, and note that `wc -l -w`/`wc -w -l` both emit lines-first — never infer words from column position when both flags are set.
+
+**Principle:** A verification heuristic that keys on a single number must pin down the number's provenance unambiguously; `wc`'s fixed column order (lines, words, bytes) ignores flag order, so any "words per page" gate should request words in isolation to avoid a self-inflicted false-positive on the very completeness check meant to catch real truncation.
+
+### Observation 91: Main-thread-author theory chapters of a comparative-theoretical treatise; subagents only for empirical illustration
+
+**Date:** 2026-07-10
+**Session context:** Ingesting Kroeber, *Configurations of Culture Growth* (1944) — a ~281k-word comparative treatise whose wiki payload is concentrated in Ch. I (method/genius) and Ch. XI (Review/Conclusions), with Chs. II–X being domain-by-domain empirical surveys that only *illustrate* the argument.
+**Skill:** CLAUDE.md ingest workflow (deployed-subagent strategy)
+**Type:** internal
+**Phase/Area:** Step 2 (chunking) / Step 4 (integration)
+
+**Issue:** For a theoretical work where the analytic core lives in one or two chapters, the fastest correct path was to (a) spawn subagents over ALL chapters for structured claims, but (b) read the two theory chapters directly on the main thread while agents ran, and author the concept/study/debate pages from those direct reads — treating the empirical-chapter claims files as a source of *generalizations and a few illustrative cases only*, never as subject-matter findings. Several empirical extractors self-reported partial coverage of the per-country catalogue; this was fine and required no gap-fill, because that catalogue detail is explicitly illustration, not wiki content (Source-Type Handling: "empirical illustrations inside theoretical works are illustrations, not findings").
+
+**Suggested improvement:** In the ingest workflow, make explicit that for theoretical/comparative treatises the main thread should pre-identify the 1–2 "payload" chapters and author their pages from direct reads in parallel with extraction, and that partial empirical-chapter coverage is acceptable-by-design (no gap-fill) when those chapters are illustration. This prevents both the reflex to gap-fill every flagged range and the mistake of promoting illustrative cases onto subject-matter pages.
+
+**Principle:** Match extraction depth to where a source's *reusable knowledge* actually concentrates, not to uniform page coverage. For argument-driven works, the argument chapters deserve main-thread authorship; the evidence chapters deserve only enough mining to supply generalizations and exemplars.
+
+### Observation 92: Tracker files can be fully rebuilt mid-session, breaking line-anchored ✅ marks
+
+**Date:** 2026-07-10
+**Session context:** Ingesting Higham, *The Archaeology of Mainland Southeast Asia* (1989) into the Social Sciences wiki, concurrent with other ingest sessions.
+**Skill:** Social Sciences wiki ingest workflow (CLAUDE.md Step 6 bookkeeping)
+**Type:** internal
+**Phase/Area:** Step 6 — Outstanding sources.md ✅ marking
+
+**Issue:** I marked the matching line in `Outstanding sources.md` early (line 94, "94. Higham — ...1989."). Later in the same session the entire file was rebuilt/renumbered by the user or a linter (a "deepening pass" that retired the old 100×3 list and renumbered every item). My ✅ was on a now-defunct line; the rebuilt file listed Higham differently (arch item #2, offering the 1989 book as an alternative to the 2002 volume). I had to re-grep and re-mark. A blind trust that "I already marked it" would have left the ingest unmarked on the live roadmap.
+
+**Suggested improvement:** In the ingest bookkeeping step, do the `Outstanding sources.md` ✅ mark LATE (just before final close), not early — and immediately before closing, re-grep the author surname to confirm the mark is present on the current file, since the roadmap is user-maintained and may be rebuilt mid-session. Treat the roadmap as mutable like `raw/`.
+
+**Principle:** User-maintained checklist/roadmap files are not append-only and can be wholesale-rewritten by the user or a linter during a long session; any bookkeeping mark keyed to a line number or item number must be re-verified by content (grep for the entity) at close time, not assumed persistent from an earlier write.
+
+### Observation 93: Intake check must verify content *identity*, not just word-count length
+
+**Date:** 2026-07-10
+**Session context:** "Ingest the archaeology of southern Africa" — the source PDF (labeled Mitchell, *Archaeology of Southern Africa*; archive.org ID archaeologyofsou0000mitc; embedded PDF title "The archaeology of southern Africa") in fact contained the full text of M. Anne Pitcher, *Transforming Mozambique* (2002) — a completely different book. Zero archaeology content across all 328 pp / ~141k words.
+**Skill:** CLAUDE.md ingest workflow (Step 1 word-count intake check) — project-specific, but the principle generalizes to any document-ingestion skill.
+**Type:** internal
+**Phase/Area:** Step 1 scaffold / word-count intake check
+
+**Issue:** The CLAUDE.md intake protocol's "word-count intake check" is framed entirely around *truncation* (epub→txt capturing only Part One; ratio of words to expected page count). It caught nothing here because the file was full-length — it was simply the wrong book. What actually caught the mislabel was an ad-hoc content grep (searching for domain-marker terms: "Stone Age", "Khoisan", "rock art", "hunter-gatherer" → zero hits; "Mozambique" → 1,172 hits; index/back-cover confirmed Pitcher). Filename, embedded PDF title, and archive.org ID were ALL consistent with the wrong label — no metadata signal would have caught it.
+
+**Suggested improvement:** Extend the Step-1 intake check from a length check to a length-AND-identity check: after word-count intake, run a cheap content-identity probe — grep the body for a handful of domain/topic markers the source is *expected* to contain (author surname, subject keywords, key place/person names from the title). Zero hits on expected markers = wrong or corrupt content, even at correct length. Costs one grep; catches catastrophic mislabeling that the length ratio cannot. Collections sourced from shadow-library scans (z-library etc.) are especially prone to bound-with-wrong-text-layer errors.
+
+**Principle:** A document can be complete and still be the wrong document. Intake validation that only measures *quantity* (length/truncation) misses *identity* failures. Always confirm the ingested text is *about what its label claims* with a cheap positive-marker probe before scaffolding — filename and embedded metadata can all agree and all be wrong.
+
+### Observation 94: Five-agent Gender Trouble batch completed 5/5 without dropout; theoretical-work ingest kept all integration on main thread
+
+**Date:** 2026-07-10
+**Session context:** Deployed-subagent ingest of Butler, *Gender Trouble* (1990/1999), ~85k words / 256 pp, into the Social Sciences wiki.
+**Skill:** CLAUDE.md ingest workflow (deployed-subagent strategy)
+**Type:** internal
+**Phase/Area:** Step 3 spawn + Step 4 integration
+
+**Issue:** A dense theoretical monograph (feminist philosophy) was split into 5 disjoint line-ranges (prefaces / ch1 / ch2 / ch3a / ch3b+conclusion), one Sonnet extractor each, fired in one wave. All 5 claims files landed non-empty; no silent dropout. Because it is a theoretical work (all claims attributed by definition) and the pages are central/contested, integration was kept entirely on the main thread rather than delegated — 6 pages created + 6 existing updated with minimal attributed reception notes. No entity mismatches survived review; one interlocutor-heavy set (Wittig, Irigaray, Kristeva, Lacan, Rubin, Newton) was correctly handled as attributed prose with no pages, avoiding broken links.
+
+**Suggested improvement:** Continue treating the batch-completion counter as evidence that one-wave dispatch of ~5 agents is reliable for ~250-page dense works. Reinforce: for theoretical works, main-thread integration is the right default (not a fallback) because every claim is attributed and the four-way-non-identity / theory-as-fact risks concentrate on exactly the central pages.
+
+**Principle:** Agent count should track *body density and page-centrality*, not just length; and delegation of integration should be declined, not merely allowed to lapse, when the whole page set is high-stakes attributed theory.
+
+### Observation 95: Non-English-translation source — flag paraphrase-of-translation, don't skip
+
+**Date:** 2026-07-10
+**Session context:** Ingest of Bourdieu, *Homo Academicus* — the only copy on disk was the Brazilian **Portuguese** translation of the French original, not the standard English (Collier) edition the wiki cites.
+**Skill:** Social Sciences wiki CLAUDE.md ingest workflow
+**Type:** internal
+**Phase/Area:** Step 1 scaffold / extractor briefs / source-page reliability_notes
+
+**Issue:** The source was a translation-of-a-translation (FR→PT), so any "verbatim quote" pulled by extractors is doubly mediated and cannot be presented as the author's canonical wording. Handled by: (a) instructing every extractor to extract in English but flag all quotes as "paraphrase-of-translation," (b) recording the extraction-language mismatch prominently in the source page `reliability_notes` and edition-history section, (c) using canonical English concept names (from the standard Bourdieu literature) for slugs/pages rather than transliterating the Portuguese. Worked cleanly; no canonical-wording errors leaked into wiki-voice.
+
+**Suggested improvement:** Add a one-line note to the Source-Type Handling / ingest checklist: when the ingested copy is a translation into a language other than the wiki's citation language, (1) flag paraphrase-of-translation in every extractor brief, (2) note extraction-language in `reliability_notes` + edition history, (3) map to canonical (English) concept/term names, not transliterations. This is distinct from the existing English-translation-of-a-foreign-original convention already handled routinely.
+
+**Principle:** A source's language is a reliability fact. Extraction from a non-citation-language translation is fine and should never be skipped, but the mediation must be surfaced (paraphrase-of-translation flag + reliability note) so downstream readers never mistake a re-translated phrase for the author's canonical wording.
+
+### Observation 96: Ingest end-phase is serialized — redundant full-vault validation + one-round-trip-per-bookkeeping-step
+
+**Date:** 2026-07-10
+**Session context:** Ingest of Collins, *Black Feminist Thought* (deployed-subagent workflow). User flagged that the post-extraction phase "takes forever" even though the subagents themselves were fast.
+**Skill:** CLAUDE.md ingest workflow (Steps 4–6); task-observer general
+**Type:** internal
+**Phase/Area:** Integration + Validate + Bookkeeping (deployed Steps 4–6)
+
+**Issue:** After the 6 extractors finished, wall-clock was dominated by avoidable serialization, not by the writing itself: (1) the whole-vault validator (`check.sh`, ~3,585 pages) was run THREE times — scoped `--only`, then full, then a separate `check_wikilinks --compare` — despite CLAUDE.md's explicit "run validators ONCE, chained; do not re-run a clean validator." (2) Bookkeeping was split into ~7 sequential Bash round-trips (check trackers, mark Outstanding, append log, inspect Structural, append Structural, append index, file source), each its own latency wait. (3) Confirmatory greps/`tail`s were run before edits to inspect format that was already known. (4) The 12 page writes were issued one-per-message rather than batched in parallel.
+
+**Suggested improvement:** Codify an end-phase fast path in the ingest workflow: (a) author independent new pages in PARALLEL batches (multiple Write calls per message); (b) do ALL bookkeeping in ONE combined Bash script — mark Outstanding + append log + append Structural + append index + `mv` the source out of raw/ — not seven calls; (c) run the full `check.sh` EXACTLY once at the very end (take the `--baseline` at session start, compare once), never scoped-then-full-then-compare; (d) skip confirmatory greps for file formats already seen this session.
+
+**Principle:** In a workflow with a fixed, well-understood tail (validate + bookkeeping), the tail should be a single batched operation, not a step-by-step interactive dialogue with the filesystem. Each independent tool call issued alone costs a full round-trip; the whole-repo validator is the single most expensive action and must run once. Latency compounds invisibly — 10 avoidable round-trips + 2 redundant full scans feel like "working in slow motion" to the user even when total token/compute cost is modest.
+
+### Observation 97: A tracker ✅ ingest mark is not proof the wiki content exists — verify pages, not the checklist
+**Date:** 2026-07-10
+**Session context:** Ingesting Willis, *Learning to Labour*. At session start `Outstanding sources.md` item 42 already carried "✅ ingested 2026-07-10 (source page present; root PDF filed raw/sociology/ this session — bookkeeping repair)" and the PDF was already moved out of raw/ root — yet the folder-agnostic duplicate pre-scan found NO willis wiki pages at all (source/study/thinker/concepts all absent). A prior (cleared) session had filed the PDF and marked the tracker without building any wiki content.
+**Skill:** Social Sciences wiki CLAUDE.md ingest workflow (Step 1 duplicate-page pre-scan / Step 6 bookkeeping) — internal.
+**Type:** internal
+**Phase/Area:** Step 1 scaffold / pre-scan; interaction with Step 6 tracker marks.
+
+**Issue:** A ✅ "ingested" mark plus a filed PDF can exist while zero wiki pages have been written (a bookkeeping-repair or interrupted prior session). An agent that trusts the tracker mark as evidence of completion would wrongly skip the ingest or treat it as "already done." Only the folder-agnostic `find wiki -name "<slug>.md"` pre-scan revealed the pages were missing.
+**Suggested improvement:** In Step 1, state explicitly: the source-existence signal is the **wiki pages on disk** (via the folder-agnostic pre-scan), never the tracker ✅ or the PDF's location. When a tracker already shows ✅ but the pre-scan finds no pages, treat it as an incomplete/aborted prior ingest and proceed to build content; then reconcile the tracker note to reflect the real state.
+**Principle:** Bookkeeping and content can drift out of sync in either direction. Completion must be verified against the artifact that matters (the pages), not against the record that is supposed to describe it. A checklist mark is a claim, not proof.
+
+### Observation 98: Parallel tesseract OCR must set OMP_THREAD_LIMIT=1 and parallelize pdftoppm rendering by page ranges
+
+**Date:** 2026-07-10
+**Session context:** Bourdieu *State Nobility* ingest — 499-page image-only PDF OCR intake
+**Skill:** New skill candidate / extends CLAUDE.md OCR guidance (obs 38, 62 lineage)
+**Type:** open-source
+**Phase/Area:** Source intake / OCR pipeline
+
+**Issue:** Two successive OCR pipeline stalls: (1) serial pdftoppm rendered ~7s/page (would take ~1 h for 499 pp) — fixed by splitting into 12 parallel -f/-l page-range chunks (finished in ~3 min); (2) GNU parallel -j 11 tesseract produced load average 53 on 12 cores and ~7 pages/min because each tesseract spawns ~4 OpenMP threads (11×4 threads thrashing 12 cores).
+
+**Suggested improvement:** Canonical image-PDF intake recipe: parallel pdftoppm by page ranges (seq 1 N step | parallel pdftoppm -f {} -l {end}), then OMP_THREAD_LIMIT=1 parallel -j <cores-1> tesseract. Also write a todo-list of missing txt files before (re)launching so restarts skip done pages.
+
+**Principle:** When parallelizing tools that are themselves multi-threaded, cap their internal thread pools to 1 — outer parallelism × inner threads must not exceed core count, or throughput collapses below serial speed.
+
+### Observation 99: Chapter-boundary spillover flags read as gaps — cheap verbatim cross-check resolves them
+
+**Status:** OPEN
+**Date:** 2026-07-10
+**Session context:** Ingest of Powell & DiMaggio, *The New Institutionalism in Organizational Analysis* (1991); 8 range-partitioned extractors
+**Skill:** CLAUDE.md ingest workflow (deployed subagent strategy)
+**Type:** internal
+**Phase/Area:** Step 3 completion inventory / gap recovery
+
+**Issue:** 6 of 8 extractors flagged "coverage gap — chapter cut off mid-argument at my range boundary" in their completion summaries. Every one of these was chapter-boundary spillover already covered by the adjacent range (ranges were disjoint and contiguous by design); only one flag (range 2 stopping ~280 lines early by choice) was a genuine shortfall, and even that turned out to be low-value front-matter of the next chapter. The main thread spent a read cycle verifying each flag.
+
+**Suggested improvement:** In extractor prompts, distinguish two completion codes: (a) "range fully read; final chapter continues past my upper bound" (expected, no action) vs (b) "stopped before my upper bound" (genuine gap, needs recovery). Instruct agents to state which applies and the exact last line read. The main thread then only investigates (b).
+
+**Principle:** When work is partitioned by disjoint contiguous ranges, boundary spillover is the expected case, not an anomaly — make agents classify their own stopping condition so the orchestrator's inventory only escalates true shortfalls.
+
+### Observation 100: User flags ~30-min ingest wall-clock as too slow — identify irreducible vs cuttable time per ingest
+
+**Status:** OPEN
+**Date:** 2026-07-10
+**Session context:** Powell & DiMaggio 1991 ingest (~23 min gate-to-gate; scanned PDF requiring ~7 min OCR)
+**Skill:** CLAUDE.md ingest workflow (deployed subagent strategy)
+**Type:** internal
+**Phase/Area:** Overall wall-clock / user expectations
+
+**Issue:** User complained about session length ("half an hour again"). Breakdown: OCR ~7 min (irreducible for scans), extraction wave ~4 min, integration wave ~5 min, main-thread claims review ~5 min, hub authoring + validation + bookkeeping the rest. Recurring feedback — user memory already records a speed/lean-execution preference.
+
+**Suggested improvement:** (a) For well-structured anthologies with clean extractor summaries, replace full main-thread reads of every claims file with summary-skim + spot-check; (b) offered user a CLAUDE.md toggle to defer mandatory hub pages to explicit request — apply whichever they choose; (c) state expected wall-clock up front when a source is a scan (OCR tax) so long runs are anticipated, not discovered.
+
+**Principle:** When a user repeatedly flags duration, decompose wall-clock into irreducible vs discretionary components and offer the discretionary cuts as explicit defaults — silence about expected duration reads as slowness.
+
+### Observation 101: Extractors can invent relations BETWEEN correctly-identified entities — verify relational claims, not just identities
+
+**Status:** OPEN
+**Date:** 2026-07-10
+**Session context:** Ingest of Firth, Primitive Polynesian Economy (1939)
+**Skill:** Social Sciences Wiki ingest methodology (CLAUDE.md Step 4a claims review)
+**Type:** internal
+**Phase/Area:** Extraction subagent output / claims review
+
+**Issue:** A Sonnet extractor, despite the standing entity-mismatch instruction, glossed a footnote citation of "J. R. Firth, Speech" as Raymond Firth's "brother" — the source says nothing of the kind (J. R. Firth the linguist was unrelated). The entities were both correctly identified; the invented content was the *relationship* between them. The claim nearly propagated into a hub page.
+
+**Suggested improvement:** In Step 4a claims review, spot-verify not only entity identities and grounding quotes but any RELATIONAL claim (kinship, teacher/student, institutional ties) an extractor asserts between named persons when it is not backed by a grounding quote. Extraction prompts could add: "state relationships between named persons only if the text states them."
+
+**Principle:** Confabulation risk concentrates where extractors add connective tissue between correct facts; grounding-quote discipline covers claims but not the glosses attached to them.
+
+### Observation 102: Disambiguate ethnonyms that collide with vault-unique slugs
+
+**Status:** OPEN
+**Date:** 2026-07-10
+**Session context:** Ingest of Gluckman *Politics, Law and Ritual* — Colson’s Plateau Tonga claims vs existing Polynesian `tonga.md`
+**Skill:** New skill candidate: wiki-ingest (internal) / CLAUDE.md ingest pre-scan
+**Type:** internal
+**Phase/Area:** Step 1 duplicate-page pre-scan / society naming
+
+**Issue:** Pre-scan showed `wiki/societies/tonga.md` EXISTS. Claims agents and integrators for African “Tonga” (Colson/Gluckman) would have appended Central African material to the Polynesian Tuʻi Tonga polity page if the bare ethnonym were used as the slug. Folder-agnostic existence checks alone are insufficient: the *entity* behind a shared ethnonym must be verified (region, language family, documenter).
+
+**Suggested improvement:** In CLAUDE.md ingest Step 1 pre-scan, for society/culture ethnonyms that exist, require a one-line entity check (region + type) before locking the slug; if mismatch, create a disambiguated slug (`plateau-tonga`, etc.) and ban bare `[[tonga]]` for the other entity. Add to standing subagent instructions: “If an ethnonym matches an existing page but the region/documenter differs, file under Miscellaneous with proposed disambiguated slug.”
+
+**Principle:** Vault-unique filenames prevent link breakage but do not prevent *entity* collisions when the same ethnonym names unrelated peoples; existence of a slug is not identity of referent.
+
+### Observation 103: User again flags ingest pace mid-bookkeeping — bookkeeping tail is the slow phase to compress
+
+**Status:** ACTIONED — Batching rule added to CLAUDE.md Ingest Step 6 (2026-07-10, user-confirmed diagnosis)
+**Date:** 2026-07-10
+**Session context:** Douglas *How Institutions Think* ingest (2-agent lean run; extraction+integration fast, ~15 tool-round bookkeeping tail)
+**Skill:** CLAUDE.md ingest workflow (Step 6 bookkeeping); relates to Observation 100
+**Type:** internal
+**Phase/Area:** Step 6 bookkeeping / tracker edits
+
+**Issue:** User sent "speed it up, you're lollygagging again" during the bookkeeping phase. Extraction (2 agents, ~3 min) and integration were quick; the tail cost came from serial small reads/edits of trackers (Read-before-Edit failures, grep-then-read-then-edit loops for Outstanding sources), plus separate index/log/tracker steps.
+
+**Suggested improvement:** Batch all bookkeeping into one or two Bash heredoc appends + a single python in-place edit where possible; for tracker line-marking, use a python one-liner (read/replace/write) instead of Read+Edit tool round-trips, since trackers are append/mark-only files the session owns the diff for.
+
+**Principle:** The user's perceived latency concentrates in long tails of small serial tool calls, not in the parallelized heavy lifting; compress the tail by batching file mutations into single scripted operations.
+
+### Observation 104: Concurrent sessions ingested the same source in parallel
+
+**Status:** OPEN
+**Date:** 2026-07-10
+**Session context:** Ingest of Gluckman, *Order and Rebellion in Tribal Africa* (1963)
+**Skill:** New skill candidate / CLAUDE.md ingest workflow
+**Type:** internal
+**Phase/Area:** Step 1 scaffold / session start
+
+**Issue:** Two live sessions independently ingested the same book simultaneously (4-agent and 5-agent extractions, separate caches). Both wrote the source page, both updated gluckman-max (now carries two overlapping Order-and-Rebellion sections), both did bookkeeping. Content was mostly complementary thanks to Edit-append discipline, but a merge pass is needed and effort was duplicated wholesale.
+
+**Suggested improvement:** Add a claim-the-ingest step to the ingest workflow: at Step 1, before scaffolding, check whether the source page slug already exists or whether a session-claim marker (e.g., a line in Structural_Sources or a lockfile in scratchpad-visible location like the wiki root) is present; if so, stop and ask the user. Symmetrically, write the source-page stub as the very first artifact so the sibling session's check can see it.
+
+**Principle:** In multi-session wikis, the source page doubles as a lock; create it first and check for it first — Edit-append discipline limits damage but does not prevent duplicated whole-ingest effort.
+
+### Observation 105: Extraction agents give internally contradictory coverage self-reports
+
+**Status:** OPEN
+**Date:** 2026-07-11
+**Session context:** Clifford *Predicament of Culture* ingest; range-3 agent reported covering "lines 1–~2600" yet flagged sections that actually lie before line 2600 as unread, so the main thread could not trust the stated boundary and re-read lines 2000–3158 to be safe.
+**Skill:** CLAUDE.md ingest workflow (Step 3 standing instructions)
+**Type:** internal
+**Phase/Area:** extraction coverage reporting / gap recovery
+
+**Issue:** The "report actual coverage" instruction yields a line number estimated after the fact; when it conflicts with the agent's own list of unread sections, the main thread must over-read to recover safely.
+
+**Suggested improvement:** In extraction prompts, ask agents to report the LAST HEADING OR QUOTED LINE they actually read (verbatim), not an estimated line number — a verbatim anchor is checkable with grep and cannot be mis-estimated.
+
+**Principle:** Self-reported numeric progress from an agent is unverifiable; a verbatim content anchor is. Prefer checkable anchors over estimates in any completion report.
+
+### Observation 106: Integration subagents emit `[[folder/]]` placeholder wikilinks that break the checker
+
+**Date:** 2026-07-15
+**Session context:** Ingest of Stocking, *After Tylor* (1995) into the Social Sciences wiki. Two integration subagents wrote the placeholder link `[[debates/]]` when flagging a candidate future debate page (Spencer–Gillen ethnographic reliability), producing 2 new broken links that `check_wikilinks.py` caught.
+**Skill:** Social Sciences wiki CLAUDE.md (deployed-subagent ingest workflow)
+**Type:** internal
+**Phase/Area:** Step 4b integration subagent prompts / Step 5 validation
+
+**Issue:** When a subagent wants to note that material *could* become a future `debates/` (or other folder) page, it reaches for a bracketed `[[debates/]]` form, which the wikilink checker parses as a broken link to a non-existent `debates/` slug. This is the same class as the existing CLAUDE.md guidance against bracketing descriptive phrases, but the folder-with-trailing-slash placeholder is a distinct recurring variant.
+
+**Suggested improvement:** Add one line to the standing integration/extraction subagent instructions: "To point at a folder or a not-yet-created page as a *candidate*, write it as inline code (``debates/``) or plain prose — never as a bracketed wikilink `[[debates/]]`, which the checker counts as broken."
+
+**Principle:** Wikilink brackets should be reserved for real, resolvable targets; any "this could become a page" gesture must use non-link syntax, or it manufactures broken-link noise that the validator then forces the main thread to clean up.
+
+### Observation 107: Duplicate-page pre-scan must grep the *composite* concept slug, not just its parts
+
+**Date:** 2026-07-15
+**Session context:** Ingesting Stocking, *Race, Culture, and Evolution* (1968) into the Social Sciences wiki. Essay 1 is the famous "presentism vs. historicism" methodology piece.
+**Skill:** Social Sciences wiki ingest workflow (CLAUDE.md, Step 1 duplicate-page pre-scan) — New rule candidate for the wiki, not an open-source skill.
+**Type:** internal
+**Phase/Area:** Step 1 scaffolding — duplicate-page pre-scan
+
+**Issue:** The pre-scan `find`-checked candidate slugs `presentism` and `historicism` (both MISS) and I created `concepts/presentism.md`. But the canonical page already existed as `concepts/presentism-and-historicism.md` (built from Victorian Anthropology 1987), linked as `[[presentism-and-historicism]]` from six pages. I created a duplicate. Caught during validation because the Stocking thinker page's `[[presentism-and-historicism]]` links and my new `[[presentism]]` links pointed at two different slugs. Fix: merged my (richer, origin-grounded) content into the canonical page, added `aliases`, deleted the duplicate, repointed my links. This is the same class as the documented `ancestral-polynesian-society` duplicate trap, but a *different mechanism*: not folder-blindness — slug-composition-blindness. A concept commonly named as an "X and Y" / "X vs Y" pair lives under a composite slug that a single-word check will never hit.
+
+**Suggested improvement:** In the CLAUDE.md Step-1 duplicate pre-scan guidance, add: for any concept expressible as a paired/compound term (X vs Y, X and Y, X-and-Y), also grep the composite slug and both single terms (`grep -rl "presentism" wiki/` catches the composite via substring), not just the individual heads. A cheap `grep -ril "<head-term>" wiki/concepts` substring scan before creating a concept page would have surfaced `presentism-and-historicism.md` immediately.
+
+**Principle:** Existence checks for a new page must match how the vault actually *names* the entity, which may be a composite of the terms you searched. When the head term is a substring of a longer canonical slug, an exact-filename `find` gives a false "missing." Prefer a substring `grep -ril` over exact `find` for the concept pre-scan; the cost is one extra grep, the saving is a merge-and-delete cleanup mid-integration.
+
+### Observation 108: Bash-read pages still trip the Edit precondition mid-integration
+
+**Date:** 2026-07-15
+**Session context:** Ingest of Abu-Lughod, *Do Muslim Women Need Saving?* (2013)
+**Skill:** New skill candidate: none — CLAUDE.md ingest workflow
+**Type:** internal
+**Phase/Area:** Step 4b integration
+
+**Issue:** The thinker page was previewed via Bash (sed) during scaffolding, then Edit calls on it were rejected ("File has not been read yet") at integration time, costing a retry round-trip. CLAUDE.md already documents the rule ("open with the Read tool, not Bash cat"), but the violation happened anyway because the Bash preview occurred long before the edit.
+
+**Suggested improvement:** In the ingest workflow, when a page is previewed via Bash during pre-scan/scaffold AND is on the update manifest, immediately Read it with the Read tool at claims-review time (batch all manifest Reads in one parallel call) rather than relying on remembering at edit time.
+
+**Principle:** Documented rules that fire at a different workflow moment than the mistake need a structural anchor (batch the Reads at manifest-lock time), not louder documentation.
+
+### Observation 109: Cap extraction ranges at ~2,500 lines for Sonnet extractors
+
+**Date:** 2026-07-15
+**Session context:** Scott, Domination and the Arts of Resistance ingest (4-agent extraction)
+**Skill:** CLAUDE.md ingest workflow (internal)
+**Type:** internal
+**Phase/Area:** Step 2 — chunk sizing
+
+**Issue:** The one range sized at ~3,100 lines (range 3) stopped at ~59% coverage (read cap), while all ~2,100–2,600-line ranges completed fully. The "report actual coverage" standing instruction caught it and a scoped gap-fill agent recovered cleanly, but it cost a serial recovery round.
+
+**Suggested improvement:** In the deployed-subagent workflow, treat ~2,500 lines as the practical per-agent ceiling (not the documented 2,000–3,500 band's top end); split denser ranges rather than letting one exceed it.
+
+**Principle:** Size ranges to the extractor's observed read capacity, not the nominal band — the coverage-report instruction is the detector, but right-sizing avoids the recovery round entirely.
+
+### Observation 110: Bookkeeping idempotency guards must use a precise anchor, not a loose substring
+
+**Date:** 2026-07-15
+**Session context:** Ingesting Haraway, *Staying with the Trouble*, with a concurrent Strathern/Viveiros ingest session active in the same vault.
+**Skill:** Social Sciences Wiki CLAUDE.md (deployed-subagent ingest, Step 6 bookkeeping)
+**Type:** internal
+**Phase/Area:** Step 6 bookkeeping — scripted batch appends to Structural_Sources.md / log.md / index.md
+
+**Issue:** My batch bookkeeping script guarded each append with `if "Staying with the Trouble" not in file` to avoid double-writing. Both the Structural_Sources and log guards falsely tripped ("already present") because a *concurrent* session's Strathern entry, and its own log line, mentioned the phrase "concurrent *Staying with the Trouble* session also active." The loose substring matched the other session's text, so my real entries were silently skipped; only a post-write `grep -c` on my entry's exact format caught it, and I re-ran with a precise anchor.
+
+**Suggested improvement:** In the CLAUDE.md Step 6 batch-bookkeeping guidance, add: idempotency checks for "already wrote this entry?" must key on a **precise anchor unique to your own entry** (e.g. `"Haraway, *Staying with the Trouble"` in the exact Structural bullet format, or `"ingest | <Title>"` in the log line format), never a bare title substring — because concurrent sessions routinely *mention* your source title in their own notes. Always follow the batch with a `grep -c` verification of each entry's exact format.
+
+**Principle:** In a shared, concurrently-written workspace, "does my write already exist?" and "does this string appear anywhere in the file?" are different questions. Presence-of-substring is a false proxy for presence-of-my-entry whenever other writers can reference the same identifiers. Guard on the entry's own canonical format and verify after writing.

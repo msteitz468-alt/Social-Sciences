@@ -162,3 +162,7 @@ Clovis is an **archaeological culture** (etic construct), not automatically the 
 ### Historiography (Meltzer layer)
 
 Howard/Dent naming race; corridor proposal 1933; kill-site bias stereotyping big-game specialists; Haynes 1964 Clovis-first; Martin overkill fusion; pre-Clovis credibility decay and Monte Verde 1997 watershed; Solutrean fringe revival post-Kennewick; landscape-learning and bold-explorer reframing of caches and radiation. Source: [[meltzer-first-peoples-2009]].
+
+### Milner 2021 Eastern Woodlands layer
+
+*(Attributed — [[milner-moundbuilders-2021|Milner 2021]] Ch. 2.)* Clovis ≤~13,400 cal BP as earliest sure eastern signal; fluted and non-fluted lanceolate Paleoindian points; Anderson “hot spots” (middle Tennessee River, Atlantic Seaboard) with land-use bias caveat; submerged Paleoindian coasts (Tampa Bay points); small highly mobile bands; Kimmswick mastodon association as opportunistic vulnerability hunting; eastern overkill specialization rejected (Meltzer); Shawnee-Minisink dietary breadth; late Paleoindian shorter mobility radii and regional point styles with population growth.

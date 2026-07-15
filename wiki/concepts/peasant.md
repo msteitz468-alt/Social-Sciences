@@ -7,9 +7,9 @@ disciplines: [anthropology, sociology, political-economy]
 emic_or_etic: etic
 operationalized_as: "Rural cultivator who runs a household (not a capitalist farm enterprise) and whose surpluses are transferred to a dominant group of non-cultivating rulers; distinguished from primitive cultivators by character of surplus involvement, not isolation"
 contested: yes
-related_concepts: ["[[replacement-fund]]", "[[ceremonial-fund]]", "[[fund-of-rent]]", "[[peasant-dilemma]]", "[[types-of-domain]]", "[[peasant-ecotype]]", "[[closed-corporate-peasant-community]]", "[[peasant-coalition]]", "[[peasantry-as-class]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[replacement-fund]]", "[[ceremonial-fund]]", "[[fund-of-rent]]", "[[peasant-dilemma]]", "[[types-of-domain]]", "[[peasant-ecotype]]", "[[closed-corporate-peasant-community]]", "[[peasant-coalition]]", "[[peasantry-as-class]]", "[[middle-peasant]]", "[[tactical-mobility]]"]
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -27,7 +27,7 @@ Wolf further distinguishes **peasant-primary** agrarian societies (peasants the 
 
 ## Semantic History
 
-Pre-Wolf: European and colonial agrarian usages; Marxist [[peasantry-as-class]] (allotment farmers as class and not-a-class, *[[marx-eighteenth-brumaire-1852|18th Brumaire]]*); Redfield's folk–urban continuum and "peasant society and culture." Wolf 1966 crystallizes a political-economic anthropological type for the Foundations series and development-era readers. Later peasant studies (Shanin, Scott, moral economy, *Peasant Wars*) extend, historicize, or contest the type — pending primary ingest. Distinct from [[peasantry-as-class]] (Marx on representability) though both address agrarian cultivators under asymmetric power; Wolf cites Marx's "sack of potatoes" in the coalitions chapter as a position on peasant class unity.
+Pre-Wolf: European and colonial agrarian usages; Marxist [[peasantry-as-class]] (allotment farmers as class and not-a-class, *[[marx-eighteenth-brumaire-1852|18th Brumaire]]*); Redfield's folk–urban continuum and "peasant society and culture." Wolf 1966 crystallizes a political-economic anthropological type for the Foundations series and development-era readers. *[[wolf-peasant-wars-1969|Peasant Wars]]* (1969) historicizes the type under capitalist commodity expansion and disaggregates revolutionary recruitment via [[middle-peasant]] and [[tactical-mobility]]. Later peasant studies (Shanin, Scott, moral economy) further extend or contest the type. Distinct from [[peasantry-as-class]] (Marx on representability) though both address agrarian cultivators under asymmetric power; Wolf cites Marx's "sack of potatoes" in the coalitions chapter as a position on peasant class unity.
 
 ## Operationalizations
 
@@ -45,6 +45,11 @@ Pre-Wolf: European and colonial agrarian usages; Marxist [[peasantry-as-class]] 
 - Development policy critique: peasant world is ordered infrastructure, not empty void awaiting capital.
 - Bridge from anthropology of "primitives" to complex agrarian civilizations and industrial aftermath ("built upon the ruins of peasant society").
 - Link to [[peasant-movements]], jacquerie, millenarianism, revolutionary professional staff under state breakdown.
+- *Peasant Wars* (1969): six-case comparative test of which peasant strata become revolutionary actors under North Atlantic capitalism ([[wolf-peasant-wars-study]]).
+
+### Definition note from *Peasant Wars* (1969)
+
+Wolf narrows “peasant” to **autonomous cultivators** (household control of production decisions), distinguishing them from primitives and from profit-maximizing farmers, and treating landless laborers as adjacent but not definitionally peasants — a boundary that matters for Cuba’s sugar proletariat vs Oriente squatters (attributed).
 
 ## Critiques and Limitations
 
@@ -55,7 +60,13 @@ Pre-Wolf: European and colonial agrarian usages; Marxist [[peasantry-as-class]] 
 
 ## Links
 
-- source: [[wolf-peasants-1966]]
+- sources: [[wolf-peasants-1966]] · [[wolf-peasant-wars-1969]]
+- study: [[wolf-peasant-wars-study]]
 - thinker: [[wolf-eric-r]]
-- related: [[peasantry-as-class]] · [[cultural-ecology]] · [[formalist-substantivist-debate]]
+- related: [[middle-peasant]] · [[tactical-mobility]] · [[peasantry-as-class]] · [[cultural-ecology]] · [[formalist-substantivist-debate]]
 ---
+
+## Scott — everyday resistance (*Weapons of the Weak*, 1985)
+
+*(Attributed — [[scott-james-c]].)* Scott argued that peasantries are not political nullities between rare rebellions. Their modal politics is [[everyday-forms-of-resistance]] under extraction; open revolt is rare, usually crushed, and successful revolutions often strengthen the extractive state. Empirical case: Malay wet-rice cultivators in [[sedaka|Sedaka]] under Muda Green Revolution change. See [[scott-weapons-of-the-weak-study]], [[peasant-movements]], [[moral-economy]].
+

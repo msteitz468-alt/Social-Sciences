@@ -7,9 +7,9 @@ disciplines: [sociology]
 emic_or_etic: etic
 operationalized_as: "[[unknown]]"
 contested: yes
-related_concepts: ["[[social-system]]", "[[functional-prerequisites]]", "[[social-control]]", "[[social-integration]]", "[[paretian-social-equilibrium]]", "[[activity-interaction-sentiment]]", "[[internal-system]]", "[[gumsa-gumlao-oscillation]]", "[[social-structure]]"]
-sources_ingested: 3
-last_updated: 2026-07-09
+related_concepts: ["[[social-system]]", "[[functional-prerequisites]]", "[[social-control]]", "[[social-integration]]", "[[paretian-social-equilibrium]]", "[[activity-interaction-sentiment]]", "[[internal-system]]", "[[gumsa-gumlao-oscillation]]", "[[social-structure]]", "[[manchester-school]]"]
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -44,6 +44,10 @@ Equilibrium is an analytic postulate, not a measured quantity; there is no equil
 - The basis of his case analyses of change: institutionalized rationalization ("cultural lag"), and the ascendancy and "adaptive transformation" of charismatic revolutionary movements (his 1951 readings of Nazism and Soviet communism, strictly attributed and dated).
 
 - Homans 1950 cases: Bank Wiring output norms, Norton Street reciprocity, and the contrast between restoring control and runaway clique-B punishment effects.
+
+### Gluckman / Manchester (1965)
+
+*(Attributed — [[gluckman-max|Gluckman]], *[[gluckman-politics-law-ritual-1965|Politics, Law and Ritual]]*, Ch. VII.)* Equilibrium is the **tendency of a system to return after disturbance** to its previous state (not a rigid fixed-point structure — atomic-model analogy). “Repetitive equilibrium” is redundant if equilibrium already implies restoration; after rebellion there may be a **new king, different favourite chiefs**, temporary population drop — the **pattern** of political relations remains with leeway. Disturbance sources: imperfect socialization, competition for scarce goods/women/prestige/power, conflicting customary allegiances; regulative customs restrain and settle so processes cancel over time (e.g. village split justified by witchcraft yields two similar villages). Distinct from **radical change** under colonial economy (Copperbelt unions/class; land and labour migration), which Gluckman treats as open-system transformation. Positioned against [[leach-edmund|Leach]]’s charge that equilibrium analysis is static ([[functionalism-and-social-change-debate]]).
 
 ## Critiques and Limitations
 

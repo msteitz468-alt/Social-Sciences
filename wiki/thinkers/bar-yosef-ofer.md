@@ -10,7 +10,7 @@ trained: ["[[unknown]]"]
 key_works: ["The Natufian Culture in the Levant (1991, ed. with Valla)", "[[bar-yosef-valla-natufian-foragers-2013|Natufian Foragers in the Levant (2013, ed. with Valla)]]"]
 key_concepts: ["[[natufian-culture]]", "Natufian homeland / core area", "[[sedentism]]"]
 fieldwork_sites: ["Hayonim Cave", "various Levantine Epipaleolithic and Paleolithic sites"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-10
 tags: [thinker, archaeology, levant]
 ---
@@ -49,6 +49,18 @@ Standard biographical detail beyond the professional record is thin in the 2013 
 - **Nahal Hemar:** Alon & Bar-Yosef 1983 organic textiles/baskets/linen among earliest linen evidence (via Mithen, ch. 9).
 
 Reception of homeland and climate-path models remains contested within later Natufian symposia (see main Critiques). Source: [[mithen-after-the-ice-2003]].
+
+## Bellwood *First Farmers* densification (2005)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005; Bar-Yosef thanked as manuscript reader.)*
+
+- **Sedentism threshold:** Bar-Yosef (2002:44) suggests **nine months** annual residence for defining sedentism in the pre-Neolithic Levant (Bellwood’s operational note; rare outside Levant/SE Turkey, Jomon, etc.).
+- **Natufian as culture:** Bar-Yosef treats Classic Natufian as a genuine archaeological culture (1998b); with [[belfer-cohen-anna|Belfer-Cohen]] (1992:39), a “revolutionary event” from Epi-Paleolithic hunter-gatherer background in the Levantine homeland.
+- **Settlement scale:** Bar-Yosef & Belfer-Cohen (1991) and Kuijt on PPNA sites to ~3 ha, late PPNB to ~16 ha — permanent food-producing populations by end PPNA (as of Bellwood 2005 synthesis).
+- **PPNB sphere:** Bar-Yosef & Belfer-Cohen (1989b, 1991:192) treat PPNB Levant as one cultural sphere; many traits show **north-to-south** chronological/geographical momentum (obsidian, einkorn, chickpeas, domestic animals, rectilinear architecture, white wares).
+- **7th-millennium abandonment:** Bar-Yosef (1996) among climate-change explainers of Levant site abandonment (with Akkermans, Simmons); Bellwood notes human impact and climate can yield similar social results.
+
+Source: [[bellwood-first-farmers-2005]]. See [[natufian-culture]], [[sedentism]], [[agricultural-origins-causation-debate]].
 
 ## Cauvin engagement (2000)
 

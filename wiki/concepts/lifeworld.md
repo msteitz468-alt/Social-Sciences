@@ -9,8 +9,8 @@ emic_or_etic: etic
 operationalized_as: "not quantified; analyzed through its three structural components (culture, society, personality) and three reproduction processes (cultural reproduction, social integration, socialization), and by the pathologies that appear when each is disturbed"
 contested: yes
 related_concepts: ["[[system-and-lifeworld]]", "[[communicative-action]]", "[[colonization-of-the-lifeworld]]", "[[linguistification-of-the-sacred]]", "[[theory-of-communicative-action]]", "[[things-before-discourse]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -39,6 +39,18 @@ Communicative action reproduces all three simultaneously. A sociology that disso
 ## Applications
 
 The lifeworld is one pole of Habermas's two-level theory of society (see [[system-and-lifeworld]]); its rationalization is the [[linguistification-of-the-sacred]]; its endangerment by system imperatives is the [[colonization-of-the-lifeworld]]. (Distinct from the pre-discursive "reality" sense on [[things-before-discourse]].)
+
+**In medical anthropology** ([[good-byron|Byron Good]],
+*[[good-medicine-rationality-1994|Medicine, Rationality, and Experience]]*, 1994, attributed):
+Good works the Schutzian, not Habermasian, lifeworld — proposing (after Elaine Scarry's pain as
+"unmaking the world") that serious chronic illness systematically **unmakes the lifeworld**
+across Schutz's six dimensions of common-sense reality (form of self-experience, sociality,
+time perspective, consciousness, intentional projects, suspension of doubt about mortality),
+illustrated by the "Brian" chronic-pain case (Boston, TMJ). He also applies Habermas's
+colonization of the lifeworld to the hospital: routine technical procedures restore order after
+moral/existential ruptures (an AIDS patient's psychotic crisis retold at rounds as "an acute
+psychotic break and we just took care of that"), instantiating instrumental rationality at
+clinical medicine's core.
 
 ## Critiques and Limitations
 

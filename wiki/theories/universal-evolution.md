@@ -16,8 +16,8 @@ core_claims:
 developed_from: ["[[social-evolutionism]] (Tylor, Morgan — continuity in principle claimed by White)", "thermodynamic / energetic physical science", "[[culturology]] program"]
 competes_with: ["[[historical-particularism]]", "[[multilinear-evolution]] (as exclusive program)", "functionalist rejection of developmental reconstruction", "diffusionism as sole explanation of similarities"]
 status: absorbed
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [theory, anthropology]
 ---
 
@@ -65,6 +65,8 @@ Status **absorbed**: energy and subsistence remain central in cultural materiali
 **Harris on White (attributed, *[[harris-rise-anthropological-theory-1968|Rise]]* ch. 22).** [[harris-marvin|Harris]] credits White with formulating the cultural-materialist strategy "under the pseudonym of evolutionism" but argues White failed to convert energy/"law" statements into operational **covariance** propositions about particular cases, producing "vapid generalizations." Harris rejects Sahlins & Service's phylogeny analogy for culture and their "progress" label for thermodynamic efficiency, while accepting energy criteria as measures of adaptation when programmatic. See [[cultural-materialism]] · [[hubs/theory/cultural-materialism]].
 
 **Carneiro 2003 (attributed).** [[carneiro-robert-l|Carneiro]] situates Whitean universal evolution within the midcentury revival: White undercut Boasian anti-evolutionism and supplied energy as measure/mover; Steward labeled White/Childe “universal evolution” for dealing with culture-as-a-whole stages after particular unilinear reconstructions failed. White averaged environments as a constant for culture-as-a-whole formulas (Steward rejected this as evasion). On [[general-and-specific-evolution]], White held both specific and general to be evolution and equated specific≈multilinear / general≈unilinear — a mapping Carneiro contests. White rejected “neo-evolutionism” as a label. See [[social-evolutionism]], [[multilinear-evolution]], [[cultural-evolutionism-debate]].
+
+**Sahlins & Service 1960 (primary).** White’s Foreword to *[[sahlins-service-evolution-culture-1960|Evolution and Culture]]* endorses Sahlins’s dual-aspect resolution: White’s own program maps onto **general** evolution (absolute progress of culture-as-a-whole); Stewardian multilinear work maps onto **specific** evolution. Sahlins (Ch. II) treats White as the principal generalist of the mid-century revival and argues the history-vs-evolution dispute dissolves once both aspects are allowed. Kaplan’s [[law-of-cultural-dominance]] and Service’s [[law-of-evolutionary-potential]] operationalize general advance and its discontinuity with specialized centers.
 
 ## Reflexivity
 

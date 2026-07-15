@@ -21,7 +21,7 @@ key_concepts:
 fieldwork_sites:
   - "Parma region parish demography / genetics (1950s–60s)"
   - "African Pygmies, multi-expedition (1976–1985)"
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [thinker, population-genetics, biological-anthropology, archaeogenetics]
 ---
@@ -114,7 +114,20 @@ Research backbone: HGHG 1994 (not yet fully ingested). Field reception split
 between admiration for founding vision and aDNA-era supersession of classical-marker
 migration maps. Hub biography: [[hubs/thinkers/cavalli-sforza-luigi-luca]].
 
+## Bellwood *First Farmers* densification (2005)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005, synthesizing Ammerman & Cavalli-Sforza and later demic-school papers as of 2005 — not aDNA-era verdicts.)*
+
+- **Wave of advance / demic diffusion:** Bellwood adopts Ammerman & Cavalli-Sforza (1984) terminology — actual population spread, optimally via continuous demographic growth on non-circumscribed frontiers (~1 km/year average SE→NW Mesolithic Europe); “insistent creep… not a sudden and overwhelming sonic boom.” Not extinction of foragers: continuous admixture; theoretical end-state can leave mostly “native forager” genes at the Atlantic while language/culture remain farmer-derived.
+- **Classic PC1:** Major SE–NW genetic movement ~**30%** of modern European genetic variation in the classic principal-component reading (as of Bellwood 2005 / classic study); Piazza et al. ~26% for Neolithic spread in later classical-marker work Bellwood cites.
+- **Gene–language trees:** Cavalli-Sforza et al. (1988, 1994; restated Nettle & Harriss 2003) genetic-distance trees of modern populations resembling language-family membership (stronger Europe and East/Central Asia; weaker West Africa, SW and SE Asia), controlling for geography — Bellwood reads strong correlations as past demic diffusion signatures.
+- **Defence of demic reading:** Cavalli-Sforza & Minch (1997 and later) and Cavalli-Sforza (2003 in the Bellwood & Renfrew McDonald volume) restated against pure selection or Paleolithic-only cline readings; Fix (1999) disease-selection alternative is noted as not ruling demic diffusion out. Molecular-clock dating of mtDNA/Y lineages treated as “particularly contentious” (Cavalli-Sforza 2003:85 among those with misgivings).
+- **Chikhi et al. Y-admixture (as of Bellwood 2005):** ~50% average Neolithic contribution to modern European Y in one model (higher SE Europe, lower France) — higher than classic Cavalli-Sforza or Richards mtDNA (&lt;30%); record as 2005-era position cluster, later revised by [[ancient-dna]].
+
+Cross-links: [[demic-diffusion]], [[early-farming-dispersal-hypothesis]], [[farming-spread-europe-debate]], [[gene-language-correlation]].
+
 ## Key sources
 
 - [[cavalli-sforza-genes-peoples-languages-2000]]
 - [[reich-who-we-are-2018]] (reappraisal layer)
+- [[bellwood-first-farmers-2005]] (demic / farming-language reception layer as of 2005)

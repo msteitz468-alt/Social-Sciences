@@ -18,7 +18,7 @@ key_finds:
   - "drystone structures"
   - "glass beads (Persian Gulf to China sources; al-Fustat rare-earth link for Bambandyanalo/Mapungubwe beads)"
   - "ivory and East Coast trade evidence"
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [site, mapungubwe, iron-age, urbanism, state-formation]
 ---
@@ -66,3 +66,9 @@ Source: [[connah-african-civilizations-2016]].
 - **Looting and lost evidence.** Gold-covered rhinoceros and surviving burial wealth underline how much elite material culture was destroyed 1895–1900 across the wider ruin landscape—limits what can be known about prestige display.
 
 All interpretive claims date-stamped **(as of Connah 2016)**; post-2016 dating and aDNA/isotopic work are not incorporated here.
+
+### Phillipson — *African Archaeology* (2005)
+
+*(Attributed — [[phillipson-african-archaeology-2005]]; **as of Phillipson 2005**.)*
+
+Phillipson places Mapungubwe in the southeastern African second-millennium sequence after [[chifumbaze-complex|Chifumbaze]] and Leopard’s Kopje developments, as the Limpopo Valley florescence preceding/related to [[great-zimbabwe|Great Zimbabwe]]’s peak. Schroda is noted as intermediate between Chifumbaze and later Leopard’s Kopje/Zimbabwe-tradition material culture. Treat as the pre-2005 secondary horizon relative to Connah’s denser 2016 urbanism treatment above.

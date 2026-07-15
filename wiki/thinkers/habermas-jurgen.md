@@ -7,11 +7,11 @@ era: [postwar-expansion, critical-turn, contemporary]
 affiliated_theories: ["[[public-sphere-theory]]", "[[theory-of-communicative-action]]", "[[critical-theory]]", "[[frankfurt-school]]"]
 trained_under: ["[[adorno-theodor-w]]"]
 trained: ["[[unknown]]"]
-key_works: ["[[habermas-structural-transformation-public-sphere-1989|The Structural Transformation of the Public Sphere (1962/1989)]]", "[[habermas-theory-of-communicative-action-v2-1987|The Theory of Communicative Action, Vol. 2 (1981/1987)]]", "The Philosophical Discourse of Modernity (1985) — not yet ingested"]
-key_concepts: ["[[public-sphere]]", "[[bourgeois-public-sphere]]", "[[publicity]]", "[[public-opinion]]", "[[representative-publicness]]", "[[communicative-action]]", "[[lifeworld]]", "[[system-and-lifeworld]]", "[[colonization-of-the-lifeworld]]", "[[steering-media]]"]
+key_works: ["[[habermas-structural-transformation-public-sphere-1989|The Structural Transformation of the Public Sphere (1962/1989)]]", "[[habermas-theory-of-communicative-action-v1-1984|The Theory of Communicative Action, Vol. 1 (1981/1984)]]", "[[habermas-theory-of-communicative-action-v2-1987|The Theory of Communicative Action, Vol. 2 (1981/1987)]]", "The Philosophical Discourse of Modernity (1985) — not yet ingested"]
+key_concepts: ["[[public-sphere]]", "[[bourgeois-public-sphere]]", "[[publicity]]", "[[public-opinion]]", "[[representative-publicness]]", "[[communicative-action]]", "[[communicative-rationality]]", "[[validity-claims]]", "[[formal-pragmatics]]", "[[strategic-action]]", "[[lifeworld]]", "[[system-and-lifeworld]]", "[[colonization-of-the-lifeworld]]", "[[steering-media]]"]
 fieldwork_sites: ["[[unknown]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [thinker, sociology, philosophy]
 ---
 
@@ -21,7 +21,7 @@ German social theorist of the second-generation [[frankfurt-school|Frankfurt Sch
 
 ## Overview
 
-Habermas’s Habilitation (Marburg, under Wolfgang Abendroth) reconstructed the rise and structural transformation of the bourgeois public sphere in Western Europe — a domain of private people assembled as a public to debate the general interest — and diagnosed its disintegration under mass media, advertising, and the social-welfare state. His mature two-level theory of society (communicative action / lifeworld–system) is developed in *The Theory of Communicative Action* (Vol. 2 ingested; Vol. 1 absent from collection — see below).
+Habermas’s Habilitation (Marburg, under Wolfgang Abendroth) reconstructed the rise and structural transformation of the bourgeois public sphere in Western Europe — a domain of private people assembled as a public to debate the general interest — and diagnosed its disintegration under mass media, advertising, and the social-welfare state. His mature two-level theory of society (communicative action / lifeworld–system) is developed in *The Theory of Communicative Action* (both volumes now ingested — see below).
 
 ## Contributions
 
@@ -31,16 +31,16 @@ Habermas’s Habilitation (Marburg, under Wolfgang Abendroth) reconstructed the 
 - Concepts: [[public-sphere]], [[publicity]] (*Öffentlichkeit*), critical [[public-opinion]] vs social-psychological surrogates.
 - Theory Hub: [[hubs/theory/public-sphere-theory]].
 
-### Communicative action (TCA Vol. 2, 1981/1987)
+### Communicative action (TCA, 1981; Eng. 1984/1987)
 
-- Mature reconstruction of critical theory around [[communicative-action|communicative reason]] (attributed). Volume 2: [[lifeworld]] vs [[system-and-lifeworld|system]]; [[steering-media]] (money, power); [[colonization-of-the-lifeworld]]; [[juridification]]; critique of [[parsons-talcott|Parsons]]. Theory: [[theory-of-communicative-action]]. Source: [[habermas-theory-of-communicative-action-v2-1987]].
+- Mature reconstruction of critical theory around [[communicative-action|communicative reason]] (attributed). **Vol. 1** (*[[habermas-theory-of-communicative-action-v1-1984|Reason and the Rationalization of Society]]*): [[communicative-rationality]]; [[validity-claims]]; action typology ([[teleological-action]], [[strategic-action]], [[normatively-regulated-action]], [[dramaturgical-action]], communicative); [[formal-pragmatics]]; Weber on [[occidental-rationalism]] / [[disenchantment]]; reification line Lukács→Adorno. **Vol. 2** (*[[habermas-theory-of-communicative-action-v2-1987|Lifeworld and System]]*): [[lifeworld]] vs [[system-and-lifeworld|system]]; [[steering-media]]; [[colonization-of-the-lifeworld]]; [[juridification]]; Parsons critique. Theory: [[theory-of-communicative-action]]; Theory Hub: [[hubs/theory/theory-of-communicative-action]].
 - Position in [[dialectic-of-enlightenment-debate]]: communicative-reason reconstruction vs Horkheimer/Adorno’s totalizing critique of instrumental reason.
 
 ## Intellectual Genealogy
 
 - **Trained under / formation:** student of [[adorno-theodor-w|Adorno]]; Habilitation dedicated to Abendroth; second-generation Frankfurt School.
 - **Interlocutors in STPS:** Kant, Hegel, Marx, Mill, [[tocqueville-alexis-de|Tocqueville]]; liberal constitutional theory; early public-opinion research (Lazarsfeld et al.).
-- **Interlocutors in TCA Vol. 2:** Mead, Durkheim, [[parsons-talcott|Parsons]], [[weber-max|Weber]], [[marx-karl|Marx]].
+- **Interlocutors in TCA:** [[weber-max|Weber]], [[marx-karl|Marx]], [[lukacs-georg|Lukács]], [[horkheimer-max|Horkheimer]], [[adorno-theodor-w|Adorno]], [[mead-george-herbert|Mead]], [[durkheim-emile|Durkheim]], [[parsons-talcott|Parsons]]; speech-act theory (Austin, Searle); Apel.
 
 ## Critiques and Reappraisals
 
@@ -48,18 +48,24 @@ Feminist, subaltern, and plural-public critiques of the bourgeois public sphere�
 
 ## Historiography
 
-English STPS translation (1989) belatedly launched a huge interdisciplinary literature in media studies, political theory, and sociology. The collection holds STPS and *[[habermas-theory-of-communicative-action-v2-1987|TCA Vol. 2]]*; TCA Vol. 1 and *The Philosophical Discourse of Modernity* remain uningested.
+English STPS translation (1989) belatedly launched a huge interdisciplinary literature in media studies, political theory, and sociology. The collection now holds STPS and **both volumes** of TCA; *The Philosophical Discourse of Modernity* remains uningested.
 
-## The Theory of Communicative Action (Vol. 2, 1981/1987)
+## The Theory of Communicative Action (1981; Eng. 1984/1987)
 
-*Documented from [[habermas-theory-of-communicative-action-v2-1987|TCA Vol. 2: Lifeworld and System]] — **Volume 1 is not in the collection**, so communicative rationality, the validity-claims typology, and the action-typology are recorded from Vol. 2's back-references, not their primary statement.*
+TCA is Habermas's mature reconstruction of critical theory around **communicative reason** (attributed throughout). Sources: [[habermas-theory-of-communicative-action-v1-1984|Vol. 1]], [[habermas-theory-of-communicative-action-v2-1987|Vol. 2]]; theory page [[theory-of-communicative-action]]; hub [[hubs/theory/theory-of-communicative-action]].
 
-TCA is Habermas's mature reconstruction of critical theory around **communicative reason** (attributed throughout). Volume 2 builds a two-level theory of society:
+**Volume 1** (*Reason and the Rationalization of Society*):
 
-- **[[communicative-action]]** rooted (via Mead and Durkheim) in a **[[linguistification-of-the-sacred|linguistification of the sacred]]** — the authority once vested in ritual consensus is progressively transferred to communicatively achieved agreement.
-- The **[[lifeworld]]** (culture, society, personality; reproduced by cultural transmission, social integration, socialization) distinguished from the **[[system-and-lifeworld|system]]** (economy and state, integrated functionally "behind the backs" of actors).
-- The **[[steering-media]]** of **money and power** that coordinate action without communicative agreement, "uncoupling" system from lifeworld.
-- Critique of **[[parsons-talcott|Parsons]]** and reconstruction of [[weber-max|Weber]]'s and [[marx-karl|Marx]]'s theories of modernity.
-- Culminating thesis of the **[[colonization-of-the-lifeworld]]** — system imperatives (money, power, law) intruding into lifeworld domains that can only be reproduced communicatively; **[[juridification]]** as empirical test case; new social movements as resistance "along the seams between system and lifeworld."
+- [[communicative-rationality]] vs cognitive-instrumental rationality; three [[validity-claims]] (truth / rightness / truthfulness); [[formal-pragmatics]].
+- Action typology: [[teleological-action]] / [[strategic-action]] vs [[communicative-action]]; also [[normatively-regulated-action]], [[dramaturgical-action]].
+- Reconstruction of [[weber-max|Weber]]: [[occidental-rationalism]], [[disenchantment]], [[value-spheres]], Protestant methodical life-conduct, loss of meaning/freedom; action-theoretic bottleneck at [[purposive-rationality]].
+- From [[lukacs-georg|Lukács]] to [[adorno-theodor-w|Adorno]]/[[horkheimer-max|Horkheimer]]: [[reification]] and the aporia of the critique of [[instrumental-reason]] within the philosophy of consciousness → paradigm shift to communication.
 
-This project reworks the first-generation [[frankfurt-school|Frankfurt School]]: Habermas argues [[adorno-theodor-w|Adorno]] and [[horkheimer-max|Horkheimer]] "generalized the reification of consciousness into an expression of instrumental reason," conflating system and action rationality (attributed). See [[dialectic-of-enlightenment-debate]].
+**Volume 2** (*Lifeworld and System*):
+
+- **[[communicative-action]]** rooted (via Mead and Durkheim) in a **[[linguistification-of-the-sacred|linguistification of the sacred]]**.
+- **[[lifeworld]]** vs **[[system-and-lifeworld|system]]**; **[[steering-media]]** (money, power); uncoupling.
+- Critique of **[[parsons-talcott|Parsons]]**; reconstruction of Weber and Marx.
+- **[[colonization-of-the-lifeworld]]**; **[[juridification]]**; new social movements along system/lifeworld seams.
+
+Reworks the first-generation [[frankfurt-school|Frankfurt School]]: Habermas argues Adorno and Horkheimer "generalized the reification of consciousness into an expression of instrumental reason" (attributed). See [[dialectic-of-enlightenment-debate]].

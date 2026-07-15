@@ -14,8 +14,8 @@ core_claims:
 developed_from: ["[[historical-materialism]]"]
 competes_with: ["[[positivism]]"]
 status: active
-sources_ingested: 3
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [theory, sociology, philosophy]
 ---
 
@@ -74,7 +74,7 @@ All in attributed voice.
   reason to instrumental calculation.
 - Draws on Hegelian dialectics (the "power of the negative," determinate negation),
   Freud (the instinctual economy; projection), Weber's [[rationalization]] thesis,
-  Lukács's reification, and Husserl's critique of Galilean science.
+  [[lukacs-georg|Lukács]]'s [[reification]] (*[[lukacs-history-and-class-consciousness-1923|History and Class Consciousness]]*, 1923 — now primary-ingested), and Husserl's critique of Galilean science. See also [[western-marxism]] and [[lukacs-dialectics-of-nature-debate]].
 
 ## Key Proponents and Texts
 

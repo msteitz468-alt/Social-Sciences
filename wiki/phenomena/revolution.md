@@ -10,9 +10,9 @@ driven_by: ["loss of confidence that vesting authority in existing rulers remain
 produces: ["divesting and revesting of authority", "regime change (only when population-wide, distinguishing revolution from elite coups)", "new allocations of rights and legitimacy"]
 period: [modern]
 theorized_by: ["[[coleman-james]]", "[[rational-choice-theory]]", "[[wolf-eric-r]]"]
-key_studies: ["[[wolf-peasants-1966]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+key_studies: ["[[wolf-peasants-1966]]", "[[wolf-peasant-wars-study]]"]
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [phenomenon]
 ---
 
@@ -44,6 +44,12 @@ Coleman derives paired strategic recommendations directly from the theory — fo
 
 **Adjacent peasant-movement theory ([[wolf-eric-r]], *[[wolf-peasants-1966|Peasants]]* 1966):** jacquerie, social banditry (via Hobsbawm), and millenarianism as limited peasant protest; successful modern peasant-aided revolution hypothesized to require war-induced breakdown of traditional leadership plus external professional revolutionary staff (Russia, China, Yugoslavia as attributed cases) — revolution *with* not *for* peasantry. See [[peasant-movements]]. Different evidence class and unit of analysis from Coleman's individual-level rational-choice account.
 
+**Wolf *[[wolf-peasant-wars-1969|Peasant Wars]]* (1969):** six-case comparative densification (Mexico, Russia, China, Viet Nam, Algeria, Cuba). Attributed: North Atlantic capitalism’s commodity conversion of land/labor/wealth as shared precipitate; [[middle-peasant]] and free/peripheral poor with [[tactical-mobility]] as pivotal recruits; peasants alone cannot complete societal revolution (army vs party paths). Study: [[wolf-peasant-wars-study]]. Complements [[social-revolution]] (Skocpol) without concept identity.
+
 ## Debates
 
 Coleman positions power theory as superior to frustration theory on explanatory grounds (organized versus spontaneous revolt) but does not report a settled resolution between the two research traditions in the wider field; the curvilinear repression-violence relationship is presented as anomalous for both accounts. The Tocqueville paradox and the empirical case against Marx's immiseration thesis are reported as reasonably well-established comparative patterns, while the causal weight of ideology, relative deprivation, and regime repressiveness remain open questions on Coleman's own account.
+
+## From *Dynamics of Contention* (2001)
+
+*(Attributed — MTT.)* Revolutions are not A Single Thing with general laws; similar mechanisms (regime defection, decertification, cross-class coalition, radicalization) produce divergent outcomes (Sandinista Nicaragua vs China/Tiananmen non-defection). Builds on Tillyan revolutionary situation / [[multiple-sovereignty]] without covering-law theory of outcomes. Source: [[mcadam-tarrow-tilly-dynamics-of-contention-2001]]; [[contentious-politics-theory]].

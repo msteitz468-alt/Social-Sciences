@@ -7,9 +7,9 @@ disciplines: [sociology]
 emic_or_etic: etic
 operationalized_as: "Aggregate of actual or potential resources linked to possession of a durable network of institutionalized relationships of mutual acquaintance and recognition"
 contested: yes
-related_concepts: ["[[symbolic-capital]]", "[[cultural-capital]]", "[[social-field]]", "[[gift-exchange]]", "[[strength-of-weak-ties]]", "[[tie-strength]]", "[[civic-social-capital]]", "[[bonding-social-capital]]", "[[bridging-social-capital]]", "[[organizational-embeddedness]]", "[[network-inequality]]"]
-sources_ingested: 3
-last_updated: 2026-07-09
+related_concepts: ["[[symbolic-capital]]", "[[cultural-capital]]", "[[social-field]]", "[[gift-exchange]]", "[[strength-of-weak-ties]]", "[[tie-strength]]", "[[civic-social-capital]]", "[[bonding-social-capital]]", "[[bridging-social-capital]]", "[[organizational-embeddedness]]", "[[network-inequality]]", "[[collective-efficacy]]"]
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -52,6 +52,10 @@ Robert Putnam's civic-community "social capital" (trust, norms, networks enablin
 
 [[small-mario-luis|Mario Luis Small]] (*[[small-unanticipated-gains-2009|Unanticipated Gains]]*, 2009) treats what the literature calls social capital as substantially dependent on **[[organizational-embeddedness|organizational conditions]]** of routine participation — including **organizational (nonsocial) ties** brokered by institutions. He critiques investment models of tie formation and engages Bourdieu, Coleman, and Lin without collapsing them. Full treatment: [[organizational-embeddedness]], [[network-inequality]], [[small-unanticipated-gains-study]].
 
+### Sampson / collective-efficacy lineage (contrast — not this page's object)
+
+[[sampson-robert-j|Robert J. Sampson]] (*[[sampson-great-american-city-2012|Great American City]]*, 2012, attributed) treats community-level “social capital” talk as **insufficient** for informal social control. He argues: (1) **dense ties can impede control** — networks connect “not just do-gooders but the underbelly” (drug dealers, gangs); Pattillo, Venkatesh, and Browning show dense local cohesion can foster networks that block ridding neighborhoods of organized crime (**negative social capital** / dual face of ties); (2) drawing on Granovetter, **shared expectations for control can be fostered without thick neighbor ties** — friendship-based urban-village order is mathematically impossible at city scale; (3) **[[collective-efficacy]]** elevates an active view beyond accumulation of personal resources in local ties or civic memberships, consistent with Portes’s redefinition of social capital as expectations for action within a collectivity — **resource potential of ties ≠ shared expectations for action**, which is why dense networks are not sufficient for control. Wilson’s point that poor neighborhoods can be tightly interconnected yet isolated from public resources is cited as part of this rationale. Do not rename CE findings as Bourdieusian social capital; cross-link [[collective-efficacy]], [[social-disorganization-theory]], [[sampson-great-american-city-study]].
+
 ## Operationalizations
 
 - **Network size, status of contacts, institutional memberships** — later survey tradition.
@@ -71,3 +75,4 @@ Robert Putnam's civic-community "social capital" (trust, norms, networks enablin
 - **Circularity of network value.** Value of ties depends on capital of alters, which depends on their ties — a known measurement problem.
 - **Popularization strips class analysis.** Putnam-style and policy "social capital" often drop domination, [[misrecognition]], and convertibility into economic capital — a semantic drift this page refuses.
 - **Source limits.** Full Bourdieusian definition and quantitative operationalizations await forms-of-capital / later works; *Logic* is strongest on kinship-as-resource ethnography.
+- **Urban/community dual-face of ties.** Sampson (2012, attributed) and related Chicago ethnography stress that network density can **attenuate** collective efficacy’s regulatory effect on violence (Browning negotiated-coexistence model) — a limitation for any usage that treats “more social capital” as uniformly protective.

@@ -106,4 +106,5 @@ Standard citation for cultural organization of urban violence under structural d
 - Thinker: [[anderson-elijah]]
 - Society: [[philadelphia-inner-city]]
 - Concepts: [[code-of-the-street]], [[decent-and-street]]
-- Related: [[urban-underclass]], [[social-isolation]], [[concentrated-poverty]], [[ghetto]], [[participant-observation]], [[wilson-william-julius]], [[underclass-and-segregation-debate]], [[whyte-street-corner-society-study]]
+- Related: [[urban-underclass]], [[social-isolation]], [[concentrated-poverty]], [[ghetto]], [[participant-observation]], [[wilson-william-julius]], [[underclass-and-segregation-debate]], [[whyte-street-corner-society-study]], [[liebow-tallys-corner-study]]
+- Debate: [[wacquant-urban-ethnography-debate]] (Wacquant's decent/street-dichotomy critique; Lemert's meta-position invokes Liebow's both-decent-and-street precedent)

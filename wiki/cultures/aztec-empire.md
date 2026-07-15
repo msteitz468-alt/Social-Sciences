@@ -15,7 +15,7 @@ preceded_by: ["Toltec-period central Mexico (textbook narrative)", "earlier [[te
 succeeded_by: ["Spanish colonial New Spain"]
 language_affiliation: "Nahuatl (ethnohistoric imperial language); multiethnic subjects — do not equate empire with one language or people"
 genetic_signature: "[[unknown]]"
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-10
 tags: [culture, early-modern, mesoamerica]
 ---
@@ -80,3 +80,67 @@ In *[[adams-evolution-urban-society-1966|The Evolution of Urban Society]]*, the 
 ### Trigger — city-state system + tributary hegemony (2003, attributed)
 
 [[trigger-bruce-g|Trigger]] (*[[trigger-understanding-early-civilizations-2003|UEC]]*) places the Valley of Mexico / Aztecs among his seven early civilizations as a **[[city-state]] system** with hegemonic tributary overlay — **not** a [[territorial-state]]. Highest agricultural intensity ranking in his sample (chinampas); warrior values and large-scale sacrifice included in the cross-case religious package (mutual human–deity dependence via sacrifice). Date-stamped ~2001 secondary synthesis. Study: [[trigger-understanding-early-civilizations-study]]; comparison: [[early-civilizations-city-vs-territorial-states]].
+
+### Coe & Koontz 2013 (attributed)
+
+[[sources/coe-koontz-mexico-2013|Coe & Koontz]] (2013) stress that the whole Aztec
+origin-and-rise narrative was recorded in Nahuatl or Spanish early in the Colonial period
+and must be read critically: the cyclical 52-year [[calendar-round|Calendar Round]] means
+some "historical" events may be cyclical reduplications, and the dynasty had both the
+opportunity and (per tradition, under Itzcoatl and again after the Conquest) the practice
+of rewriting its own history — royal genealogies included. The **Aztlan migration** under
+the god Huitzilopochtli, they argue, is a legitimizing charter myth (functionally like
+Genesis or Polynesian origin sagas), not a literal itinerary.
+
+**Rise (attributed chronology).** After Tula's fall, Toltec refugees at Colhuacan
+transmitted the *pipiltin* ideology that only Toltec-dynastic descendants could be
+*tlatoani*. The Mexica arrived in the Valley by the early 14th century as despised
+squatters, founded [[tenochtitlan|Tenochtitlan]] on lake islands (traditionally 1325;
+Tlatelolco to the north), and served as mercenaries for Tepanec Atzcapotzalco under
+Tezozomoc. In 1427 **Itzcoatl** became king; with his adviser **Tlacaelel** he defeated
+the Tepanecs by 1428 and established the **Triple Alliance** (Tenochtitlan, Texcoco,
+Tlacopan; tribute split 2:2:1). Tlacaelel — serving as *cihuacoatl* ("grand vizier")
+through three reigns — is credited with recasting the Mexica as chosen heirs of the Toltec
+tradition, burning conquered peoples' books, and instituting the
+[[flowery-war|Flowery War]] (*xochiyaoyotl*) against Tlaxcala and Huexotzingo to supply
+sacrificial captives. Expansion ran through Motecuhzoma Ilhuicamina (1440–69), Axayacatl
+(1469–81, who subdued Tlatelolco but failed against the [[tarascan-kingdom|Tarascans]]),
+Ahuitzotl (1486–1502), and Motecuhzoma Xocoyotzin (1502–20).
+
+**Society (findings + attributed).** Coe & Koontz set Tenochtitlan's 1519 population at
+200,000–300,000 (a figure they call flimsy but "five times... London of Henry VIII"),
+within a central Mexico of ~11 million. Social ranks: the [[calpulli|*calpolli*]]
+(corporate landholding kin-ward — van Zantwijk's definition, *not* a "clan"); *macehualtin*
+commoners; *pipiltin* nobles; *cuauhpipiltin* commoners ennobled for battle valor;
+*teteuhctin* town rulers; *mayeque* serfs (~30% of the empire per van Zantwijk); and
+*tlacohtin* slaves. The [[pochteca|pochteca]] long-distance merchants and the *tlatoani*
+succession (increasingly brother-to-brother in the last century) round out the picture.
+
+**"Economic empire" (position).** Coe & Koontz report Fernando Horcasitas's view that the
+Aztec realm "was not so much an empire in the Roman or British sense as an economic empire
+based on the provision of tribute" — enemy enclaves (Tlaxcallan, Huexotzingo, Cholula, the
+independent Tarascans) remained enclosed within claimed territory. Compare Adams's and
+Trigger's readings above.
+
+**Sacrifice scale (position — see [[sacrifice]]).** Henry Nicholson's claim that Aztec
+sacrifice was practiced "on a scale not even approached by any other ritual system in the
+history of the world" is set against the view that Spanish sources hugely exaggerated it;
+Coe & Koontz call the 80,000-victim figure for the 1487 Great Temple dedication "probably
+a physical impossibility," and offer their own untestable estimate of "several hundreds,
+perhaps even a few thousand" yearly in the capital. They reject **Michael Harner's**
+protein-scarcity cannibalism thesis (abundant alternative protein; ritual flesh-eating was
+sparse, "more like a form of communion"), noting the best-documented mass-cannibalism case
+is the Conquest-era killing of a Spanish caravan at Tecuaque.
+
+**Conquest historiography (attributed/position).** Coe & Koontz treat the traditional
+"inevitable Spanish superiority" story as shaped by self-serving sources (Cortés's letters
+justifying an unauthorized campaign), quoting Inga Clendinnen — "Historians are the
+camp-followers of the imperialists." The omen narrative and the identification of Cortés
+as the **returning Quetzalcoatl** are, they hold, largely later fabrication "now held in
+suspicion by specialists"; Motecuhzoma seems to have treated Cortés as a foreign ruler's
+ambassador. Their four-factor account of the Conquest's success weights **Old World
+epidemic disease** (smallpox from the 1520 Narváez expedition) as the single most decisive
+factor, alongside Spanish weaponry, incompatible norms of war, and tens of thousands of
+Tlaxcallan allies. Woodrow Borah's demography (attributed, as of Coe & Koontz 2013): central
+Mexico fell from ~11 million in 1519 to ~1.5 million by 1650 (~13.6% of the pre-Conquest
+total) — see the parallel colonial-collapse framing on [[societal-collapse]].

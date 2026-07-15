@@ -9,10 +9,10 @@ region: [global]
 measured_by: ["network size and composition", "tie strength and domain structure", "access to resources through social and organizational ties", "material hardship / well-being associated with network resources", "organizational isolation"]
 driven_by: ["organizational practices and institutional rules", "homophily and opportunity structure", "state, nonprofit, and professional fields", "neighborhood targeting of organizational resources", "individual investment and agency"]
 produces: ["differential access to information, support, and goods", "stratified well-being", "buffering or amplification of place-based disadvantage"]
-theorized_by: ["[[small-mario-luis]]", "[[social-capital-theory]]", "[[strength-of-weak-ties-theory]]", "[[structural-holes-theory]]"]
-key_studies: ["[[small-unanticipated-gains-study]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+theorized_by: ["[[small-mario-luis]]", "[[social-capital-theory]]", "[[strength-of-weak-ties-theory]]", "[[structural-holes-theory]]", "[[granovetter-mark-s]]"]
+key_studies: ["[[small-unanticipated-gains-study]]", "[[granovetter-getting-a-job-study]]"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [phenomenon]
 ---
 
@@ -35,6 +35,8 @@ Inequality in the **size, composition, quality, and usefulness** of people's net
 ## Patterns and Findings
 
 *(Attributed — Small 2009, urban U.S. mothers / NYC centers.)*
+
+- **Granovetter labor-market channel (1974/1994):** *[[granovetter-getting-a-job-study|Getting a Job]]* showed contact-mediated matching associated with better jobs among Newton male PTM workers, and treated unequal possession of the "right" contacts as a structural source of unequal opportunity — one reading of residual "luck" (Jencks). Afterword 1994 prioritizes how networks **produce/reproduce inequities** (gendered local networks, racial referral gaps, lower *returns* to contacts for some Black youth samples) even when contact *use* rates are comparable — see [[personal-contacts]] · [[strength-of-weak-ties-theory]].
 
 - Center enrollment associated with larger networks, lower isolation, and lower material hardship for many mothers — gains larger among the poor when friends formed; organizational ties could help even without social ties.
 - Center institutional practices stratified friendship opportunities (events, parents associations, pickup policy, cooperative tasks).

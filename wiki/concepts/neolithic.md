@@ -7,8 +7,8 @@ disciplines: [archaeology, anthropology]
 emic_or_etic: etic
 operationalized_as: "In Lubbock: later polished Stone Age; fine flint/stone weapons; no metal except gold ornaments; later redefined around food production, pottery, sedentism (Childe and successors)"
 contested: no
-related_concepts: ["[[palaeolithic]]", "[[mesolithic]]", "[[three-age-system]]", "[[agricultural-revolution]]", "[[play-farming]]", "[[world-prehistory]]"]
-sources_ingested: 6
+related_concepts: ["[[palaeolithic]]", "[[mesolithic]]", "[[three-age-system]]", "[[agricultural-revolution]]", "[[play-farming]]", "[[world-prehistory]]", "[[early-farming-dispersal-hypothesis]]", "[[neolithic-revolution]]"]
+sources_ingested: 7
 last_updated: 2026-07-10
 tags: [concept, archaeology]
 ---
@@ -63,4 +63,15 @@ SW Asian Neolithic complexity signals they survey include Jericho walls; Levanti
 - **European Neolithic entry:** leap-frog farming through Balkans; Mesolithic absorption/collapse at Iron Gates; hard labour of early farmers vs Mesolithic foragers (attributed).
 
 Source: [[mithen-after-the-ice-2003]].
+
+## Bellwood densification — *First Farmers* (2005)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005; regional packages as of that synthesis.)*
+
+- **Europe:** European Neolithic mainly ceramic package with full SW Asian cereals, legumes, domestic animals (exceptions: Cyprus Preceramic; faint aceramic echo Crete/mainland Greece). Early Neolithic cultural diversity **lower** than late Mesolithic or Late Neolithic — homogeneity → diversity pattern Bellwood reads as colonization signature (cites Childe 1956) (attributed). Agriculture Mediterranean + temperate Europe S of Baltic, Aegean→British Isles ~2500 years (~6500–4000 BC as of Bellwood 2005); ~millennium standstill near W edge Great Hungarian Plain; Baltic/Scandinavia after ~3500 BC (attributed).
+- **China:** Early pottery can **predate** confirmed agriculture (parallel Sahara/Sudan Nile); full multi-hectare agricultural villages ~7000 BC; Peiligang–Cishan continuum Yellow River ~6500–5000 BC; Pengtoushan culture Yangzi ~7000–5500 BC (attributed). See [[yangshao-culture]], [[rice-domestication]], [[jomon-culture]] contrast.
+- **SE Asia:** Strong clear-cut Neolithic spread S China→Mainland and Island SE Asia; Hoabinhian not convincingly transformed *in situ* to agriculture (Bellwood 1997b; Higham via Bellwood). Incised zone-impressed pottery + rice ~2500–1500 BC with early homogeneity then regionalization (attributed).
+- **Formative / Neolithic languages:** Neolithic/Formative languages likely natural languages with genetic relatives, not colonial-type pidgins — whether such languages rooted subsequent families is a core [[early-farming-dispersal-hypothesis]] question (attributed).
+
+Do not equate ceramic “Neolithic” with food production worldwide (Jōmon pottery without grain agriculture). Source: [[bellwood-first-farmers-2005]].
 

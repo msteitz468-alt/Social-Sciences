@@ -7,8 +7,8 @@ disciplines: [archaeology, anthropology]
 emic_or_etic: etic
 operationalized_as: "Production of goods beyond household needs by specialists; Brumfiel & Earle dimensions: independent vs attached, product type, intensity (part-/full-time), scale; archaeological inference from workshops, skill, standardization, distribution"
 contested: yes
-related_concepts: ["[[complex-society]]", "[[civilization]]", "[[urban-revolution]]", "[[state-formation]]", "[[chiefdom]]", "[[multiplier-effect]]", "[[exchange]]"]
-sources_ingested: 4
+related_concepts: ["[[complex-society]]", "[[civilization]]", "[[urban-revolution]]", "[[state-formation]]", "[[chiefdom]]", "[[multiplier-effect]]", "[[exchange]]", "[[standardized-weights]]", "[[indus-valley-tradition]]", "[[meluhha]]"]
+sources_ingested: 5
 last_updated: 2026-07-10
 tags: [concept, archaeology]
 ---
@@ -105,3 +105,46 @@ The *muškēnum* was a middle social class named in the Old Babylonian law codes
 ### [POSITION] The status of Ur III labour — Gelb's "mass of serfs" vs. a revisionist mixed-status reading
 
 Whether the Ur III guruš/gemé labour force was predominantly servile is a live historiographic dispute, not resolved here. The older view (associated with Gelb's earlier characterization) held that guruš constituted "the mass of serfs... the main productive labor" of the Ur III economy. Postgate reports that recent scholarship — citing Gelb's own 1979 revision — argues that considerably less of the Ur III labour force was truly servile than earlier assumed: these workers may belong instead among "free peasants and craftsmen working outside of the public households," not "a negligible force." Postgate does not adjudicate between the two readings; the wiki records this as an open position pending fuller treatment on a dedicated debate page.
+
+## Kenoyer 1998 — Indus craft typology and control
+
+*(All claims attributed to [[kenoyer-jonathan-mark|Kenoyer]] in *[[kenoyer-ancient-cities-indus-1998|Ancient Cities of the Indus Valley Civilization]]* unless noted.)*
+
+### Four-category typology
+
+With the rise of cities ca. 2600 BCE, Kenoyer argues specialized crafts became essential for producing **unique objects that distinguished high officials and rulers** from other elites and commoners; rulers and merchants could maintain status through control of economics and technology rather than (primarily) military monuments. He cross-classifies Indus urban crafts by **material source × technological complexity**:
+
+| | Simple technology | Complex technology |
+|---|---|---|
+| **Local materials** | Woodworking, basketmaking, simple weaving, terracotta ceramics, house-building — **most regionally varied** | Stoneware bangles, painted pottery — considerable standardization depending on social/ritual importance |
+| **Imported / nonlocal materials** | (e.g. simple working of brought-in stone/shell blanks) | Long carnelian drilling, seal carving, some metallurgy stages — **most standardized** |
+
+Kenoyer’s generalization: local+simple crafts vary most across the Indus Valley; nonlocal+complex crafts are most standardized; local+complex crafts (stoneware, painted pottery) standardize in proportion to the finished object’s social/ritual weight.
+
+### Direct vs indirect control — seals, weights, stoneware
+
+Kenoyer argues that **stoneware banglemaking, seal production, and chert weight manufacture** may have been **directly controlled** in segregated workshops by rulers or the state to limit access to power symbols requiring standardized form, size, or decoration. Pottery and most ornaments, by contrast, were standardized through other mechanisms (family apprenticeship, market spread, shared tradition).
+
+- **Stoneware and faience:** High-fired ceramics were more tightly controlled than low-fired wares. Stoneware bangles as power symbols were inscribed with names/titles of elites and used by elites mainly in the largest urban centers. Glazed faience was valuable and specialized but more widely available than stoneware. Indus faience technology (quartz frit >1000°C; regrind; ~920°C glaze) is treated as a complex, partly controlled craft.
+- **Seals and tablets:** Specialized engravers made seals with writing in reverse for raised clay impressions; seals/wooden molds produced multiple terracotta and faience tablet copies. When elites fell in Localization, seal carvers lost jobs; molds for tablets were destroyed/discarded; traders stopped stamping bundles — **craft continuity** (many technical crafts continued) is analytically separated from **elite communication technologies**.
+- **Weights:** See [[standardized-weights]] — cubical chert weights as possible taxation/control instruments concentrated at gateways; Kenoyer groups weight manufacture with seals/stoneware as candidate directly controlled crafts.
+- **Pottery:** Absence of sealings or graffiti on pottery is used to argue pottery was **not** directly controlled by ruling elites of the larger cities; kilns are scattered at Mohenjo-daro, Harappa, Chanhudaro, Nausharo, with some segregated kiln zones (e.g. NW Mound E at Harappa).
+
+### Spatial organization of production
+
+Preliminary stages of some crafts were practiced predominantly near raw-material sources (shell on the coast; copper mined and smelted near ores in Baluchistan, Rajasthan, or Oman); partly processed shell, agate, steatite, and copper were transported to large urban centers for final manufacture into ornaments, tools, or ritual objects. Metal production and distribution, Kenoyer argues, were likely monitored by dividing labor into distinct stages under a merchant or head artisan (e.g. lost-wax casting vs finishing; tablet fabrication vs inscription; bead casting vs stringing).
+
+### Signature crafts
+
+- **Beadmaking:** Among the oldest Indus-margin crafts (Mehrgarh ornaments centuries before pottery). Urban workshops produced unique styles; **constricted cylindrical drills** of rare metamorphic rock (“Ernestite”) at larger sites (Mohenjo-daro, Harappa, Dholavira, Chanhudaro) for hard agate/carnelian/jasper. Only confirmed long-carnelian workshop carefully excavated: **Chanhudaro** (Mackay) with full manufacturing sequence. Long carnelian traded to Mesopotamia (Ur royal burials); some beads use Indus drilling + Mesopotamian styles — possibly migrant Indus artisans of a “Meluhhan minority” (Parpola & Brunswig via Kenoyer; see [[meluhha]]).
+- **Shell:** Chevron-incised *Turbinella pyrum* bangles as widespread unity symbols limited in quantity; coastal primary working + inland finishing.
+- **Textiles:** Cotton/wool poorly preserved; figurine clothing and Mesopotamian texts on cotton from Meluhha support production; state control of weaving largely indirect (taxing raw materials/sales), Kenoyer suggests.
+- **Metallurgy:** Bun-shaped copper ingots from multiple source regions; arsenical copper vs tin bronze for different tools; saw-cut depths on shell waste imply hard-edged metal tools.
+
+### Social function (Kenoyer’s synthesis)
+
+Each craft contributed to urban structure by **linking some communities and distinguishing others**: complex technologies and rare materials differentiated ruling elites; religious and cultural symbols on pottery, ornaments, and seals integrated multi-ethnic populations under shared ideology. Ornament hierarchies (terracotta/faience copies of rare eye-beads and gold for commoners; bronze figurines for wealthiest) operationalize status without deciphered texts. Ethnoarchaeology (Khambhat agate, Bengal/Pakistan shell workers, Harappa master potters) and experimental studies (jar manufacturing stages) are explicitly used as **analogy and process models**, not as direct evidence of Indus social relations.
+
+### Localization and afterlife of crafts
+
+In Localization / Punjab Phase, western highland and coastal trade links break down (lapis, turquoise, marine shell rarer); faience becomes more refined, possibly compensating for lost shell/carnelian. Diagnostic Integration artifacts — inscribed seals and weights, perforated vessels, etc. — drop out of many Gujarat sequences. Kenoyer tracks technical continuities into Early Historic practice (copper → possible indigenous iron path; faience → glass ca. 1700 BCE; long-bead drills replaced later by diamond tips) while finding **no convincing continuity** between Indus and Early Historic **writing, coinage, and weight systems** as institutional packages (weights/writing reappear in NBPW contexts as new configurations).

@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "a comparative model of therapeutic efficacy across healing systems, analyzed through a four-stage structure of meaning-transformation"
 contested: "no"
 related_concepts: ["[[cross-cultural-psychiatry]]", "[[explanatory-models]]", "[[clinical-reality]]", "[[tang-ki]]", "[[core-clinical-tasks]]", "[[meaning-centered-medical-anthropology]]", "[[effectiveness-of-symbols]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -85,3 +85,7 @@ warns the model can flatten real differences: only Western systems move toward e
 [[explanatory-models|explanatory-model]] exchange, and transference/termination are theorized only in
 psychoanalysis. On the politics of healing he critiques Taussig's and Comaroff's resistance-readings as
 "excessive" while granting a "kernel of truth" — "healing is at times politics on a small scale."
+
+## From Taussig *Shamanism* (1987 ingest)
+
+[[taussig-michael|Taussig]] (1987) models yagé nights as **montage** healing that mobilizes colonial terror imagery ([[space-of-death]], [[wild-man]]) rather than as homeostatic symbolic equilibrium. Efficacy is historical and dialogic (shaman–patient joint construction of visions), not only symbolic structure ([[yage]]; [[taussig-shamanism-colonialism-study]]).

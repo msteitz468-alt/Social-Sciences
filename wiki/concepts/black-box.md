@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "A fact, instrument, or claim whose internal production history is no longer examined; used as input until controversy reopens it"
 contested: yes
 related_concepts: ["[[statement-types]]", "[[literary-inscription]]", "[[inscription-device]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept, sts]
 ---
 
@@ -23,7 +23,7 @@ As facts move up the [[statement-types|statement-type]] scale and modalities are
 
 ## Semantic History
 
-Cybernetic/engineering "black box" metaphor migrated into STS; *Laboratory Life* and subsequent Latour are primary vectors in social science. Related to reification and to textbook science vs. research-frontier science.
+Cybernetic/engineering "black box" metaphor migrated into STS; *Laboratory Life* and subsequent Latour are primary vectors in social science. Related to reification and to textbook science vs. research-frontier science. In *[[latour-reassembling-the-social-2005|Reassembling the Social]]*, black-boxing connects to intermediaries (transport without opening) and to the Fourth Source shift from matters of fact back toward [[matters-of-concern]] when boxes reopen.
 
 ## Operationalizations
 
@@ -32,6 +32,10 @@ Ask what a paper or practice treats as needing no further justification; track h
 ## Applications
 
 TRF becoming "what it is"; instruments used without re-deriving their calibration history; textbook statements.
+
+## Semantic History (extended)
+
+In *[[latour-reassembling-the-social-2005|Reassembling the Social]]* (2005), black-boxing connects to **intermediaries** (transport without opening internal work) and to the Fourth Source shift from settled **matters of fact** toward [[matters-of-concern]] when boxes reopen under controversy.
 
 ## Critiques and Limitations
 

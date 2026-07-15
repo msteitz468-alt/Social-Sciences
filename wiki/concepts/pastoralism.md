@@ -8,7 +8,7 @@ emic_or_etic: etic
 operationalized_as: "Economies centered on herded domestic (or managed) animals for secondary products and/or meat, with mobility ranging from village-based herding to nomadic pastoralism"
 contested: no
 related_concepts: ["[[animal-domestication]]", "[[domestication]]", "[[horticulture]]", "[[sedentism]]", "[[agricultural-revolution]]", "[[pre-pottery-neolithic]]"]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-10
 tags: [concept, archaeology, anthropology, subsistence]
 ---
@@ -49,6 +49,10 @@ As of [[mithen-after-the-ice-2003|Mithen 2003]]:
 - Ethnographic “nomad” images can be projected anachronistically onto early village herders.
 - Four-way non-identity: herding package ≠ language ≠ genes ≠ ethnic pastoralist identity.
 
+## Barth densification (1961) — the ethnographic benchmark
+
+*(Attributed — [[barth-fredrik|Barth]], *[[barth-nomads-south-persia-1961|Nomads of South Persia]]*, fieldwork 1957–58.)* The classic ethnographic account of full pastoral nomadism: [[basseri|Basseri]] sheep/goat herding on a ~300-mile migration circuit (il-rah) in Fars, with household herds ~100 head, a ~60-head viability threshold, and ~100% annual return on herd capital at 1958 prices. Barth argued the migratory cycle was biologically necessary for the nomad sheep strain (70–80% reported mortality when kept year-round in one zone) and — against "general reports" — that the migrations themselves caused no particular livestock losses. His [[sedentarization]] mechanism (exit at both wealth extremes) made pastoral nomadism a demographically open system continuously exchanging population with sedentary society, and his Ch. X model tied degrees of political centralization to an ecological/trade gradient (Qashqai hierarchy → Basseri chiefship → acephalous Kerman-margin tribes). Ethnographic benchmark for the "nomad" pole of this page's spectrum — dated to 1957–58, not a timeless type.
+
 ## Cauvin densification (2000)
 
 *(Attributed — *[[cauvin-birth-of-the-gods-2000|Cauvin 2000]]* ch.17.)*
@@ -82,3 +86,16 @@ As of [[mithen-after-the-ice-2003|Mithen 2003]]:
 - **Fiscal sterile hinterland.** Specialized pastoralism disperses people and products; Ottomans (pastoral-founded) still hard-pressed to tax herders; Lindner via Scott: sedentary-paradise revenue dream “had no place for pastoral nomads.” Nonstate spaces—pastoralism, foraging, slash-and-burn—are stigmatized as “barbarian” in state discourse; Chinese “raw” barbarians beyond Yellow/Yangzi grain basins.
 - **Two-way continuum ([[adams-robert-mcc|Adams]]).** Nomad–sedentary connection as two-way street under environmental/social pressure (Lattimore Han–Mongol parallel).
 - **Shadow empire / horseback states.** Politically mobilized mounted pastoralist confederations as strongest competitors for agrarian surplus—Barfield’s “shadow empire” or “state in waiting”; robust cases as “horseback states” (vs hunters/swiddeners who only “nibble”). Kradin-type thesis via Scott: degree of nomad centralization proportional to neighboring agricultural civilization; shadow empires need sedentary manpower/revenue depots and may fall when the host collapses. Contest with states for the grain–manpower surplus module. Links: [[nonstate-spaces]] · [[savagery-barbarism-civilization]] · [[state-formation]] · [[societal-collapse]].
+
+## Barker 2006 densification (*The Agricultural Revolution in Prehistory*)
+
+*(Attributed — [[barker-graeme]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006; Europe + synthesis-layer pastoralism only from assigned ranges. Genetics as of Barker 2006 / mid-2000s.)*
+
+- **Victorian ladder foil:** Victorian prehistorians (as Barker summarizes) treated hunting → **pastoral** → agricultural as an invariable progress sequence; late 19th-century evidence (no pastoral phase in North America; Swiss lake villages with cereals + animals) undermined universal herding intermediate stage, but hunting/farming dichotomies remained embedded.
+- **European Neolithic herding within agro-pastoral packages:** LBK fauna cattle-dominant with pigs and sheep; ceramic sieves for cheese (secondary products); seasonal stock moves alluvium↔loess; Early British/Irish Neolithic often mobile forager-farmers with **herding** and ‘tethered mobility’ around ancestral monuments (Thomas via Barker) — pastoralism as component of mixed systems, not a separate evolutionary stage.
+- **Against LGM “proto-herding”:** Magdalenian reindeer herding/herd-following and Bahn horse-taming claims met strong scepticism; consensus (as of Barker 2006) is specialization and concentrated seasonal harvesting, **not** Lapp-like herding. Domestic **dog** already late Pleistocene companionship/hunting/transport component.
+- **NW Europe mobility inversion:** Striking feature in parts of NW Europe: sedentary or semi-sedentary foraging land occupation transformed into **more mobile** foraging-cum-farming systems with ceremonial monuments as fixed points — contrary to traditional “farming settles people” theory.
+- **Sahara / Africa synthesis note (theory-adjacent):** Sahara early Holocene foragers experimented controlling Barbary sheep under first aridification (risk reduction), reverted to foraging when wetter, then with irreversible desiccation committed to cattle/sheep/goat **pastoralism** and small-scale sorghum — pastoral commitment as historically contingent, not ladder stage.
+- **Europe demic foil:** Barker holds many Mesolithic foragers practised behaviours presaging Eurasian **agro-pastoralism** long before contact; piecemeal adoption of package components including livestock often first for social value of exotic foods/livestock rather than staple role.
+
+Source: [[barker-agricultural-revolution-prehistory-2006]]. Cross-links: [[linear-pottery-culture]], [[animal-domestication]], [[farming-spread-europe-debate]], [[domestication]].

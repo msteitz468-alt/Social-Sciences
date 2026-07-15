@@ -13,7 +13,7 @@ cultures: ["[[natufian-culture]]"]
 excavated_by: ["[[moore-andrew|Andrew Moore]] (1972 salvage)", "specialist analyses by [[hillman-gordon|Gordon Hillman]], Peter Rowley-Conwy, Tony Legge"]
 excavation_years: "1972 (two-season salvage before dam flooding)"
 key_finds: ["soft-stone-cut subterranean circular rooms (~3 m)", "grinding stones and lunates", "≥157 plant species (Hillman flotation)", "early-summer gazelle age profile (Rowley-Conwy & Legge)", "domestic-form rye grains 11,000–10,500 BCE (Hillman, as of Mithen 2003)", "Neolithic mud-brick houses; later ovicaprid herding; Cappadocian obsidian"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [site, natufian, neolithic, near-east, epipalaeolithic]
 ---
@@ -65,3 +65,12 @@ Known primarily through Moore’s 1972 salvage and subsequent specialist publica
 - **Natufian:** intensive wild-cereal harvest 11,000–10,000 BC then cereal rarity under desiccation; knot grass and milk vetch mass use — no deliberate cereal specialisation independent of local abundance.
 - **Postscript chronology:** Younger Dryas desiccation significant ~**10,600 BC** (not 11,000) from Abu Hureyra 14C + Roitel charcoal; almond/terebinth persist reduced in steppe — moderate climatic impact; not Cauvin’s trigger for the Neolithic Revolution.
 - **PPNB:** appears in diffusion and animal-domestication discussions (goat import patterns with Halula).
+
+## Barker 2006 (*Agricultural Revolution in Prehistory*)
+
+*(Attributed — [[barker-graeme|Graeme Barker]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006, Ch. 4; densifies Hillman, Legge & Rowley-Conwy, Molleson via Barker.)*
+
+- **Climate archive.** Abu Hureyra plant remains show moister springs/summers and gathering of wild einkorn and rye in Bølling–Allerød; Younger Dryas cold/dry caused decline of tree fruits, asphodels, cereals; site abandoned as park woodland retreated (attributed).
+- **Early Natufian permanent settlement without agriculture.** Clay/timber shelters; 150+ plant species; systematic wild einkorn/barley + ~20 other foods; mass spring gazelle kills (Legge & Rowley-Conwy) = hunting not herding; occupation early spring–late autumn; possibly year-round via storage — “one of the most convincing as well as earliest examples… of a permanent settlement sustained without agriculture” (Hillman 2000; Hillman et al. 1997 via Barker) (attributed). Intensive flotation produced far more non-cereal seeds than older grain-cache excavations (method point).
+- **PPNB reoccupation.** Rectangular houses vs Natufian circular shelters; mixed farming: emmer, einkorn, barley, legumes + sheep/goats; diet heavily roughly ground cereals (Molleson); Pottery Neolithic softer cereal foods (less dental abrasion) (attributed).
+- **Analytical use.** Barker’s flagship case that **sedentism ≠ farming** — permanent settlement without agriculture attested here. Cross-links: [[natufian-culture]], [[sedentism]], [[animal-domestication]], [[jericho]], [[barker-graeme]].

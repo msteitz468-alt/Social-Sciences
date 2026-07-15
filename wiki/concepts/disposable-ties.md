@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Short-lived, high-intensity relationships among the urban poor formed under crisis (especially eviction), offering rapid material exchange without durable obligation — contrasted with enduring kin ties (Stack) and with Granovetter weak ties"
 contested: no
 related_concepts: ["[[strength-of-weak-ties]]", "[[social-isolation]]", "[[eviction]]", "[[social-capital]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept, sociology]
 ---
 
@@ -21,7 +21,7 @@ tags: [concept, sociology]
 
 ## Semantic History
 
-- **Classic poverty ethnography** (e.g. Carol Stack, *All Our Kin*): durable kin and fictive-kin networks as survival infrastructure.
+- **Classic poverty ethnography** — Carol Stack, *[[stack-all-our-kin-1974|All Our Kin]]* (1974; [[stack-all-our-kin-study]]): durable [[personal-kindred|personal kindreds]] and multi-household [[domestic-network|domestic networks]] organized by obligatory [[swapping]] and [[child-keeping]] in The Flats (late 1960s–early 1970s). This is the durable-kin baseline Desmond contrasts.
 - **Granovetter [[strength-of-weak-ties]]:** weak ties as bridges for information — different mechanism and class location from disposable ties.
 - **Desmond 2012/2016:** under eviction and extreme scarcity, kin webs thin or refuse; crisis generates **intense, short-lived** ties that can end badly and erode trust. Desmond also notes stated support networks should be treated skeptically (giving inflates self-worth; receiving diminishes it); ethnography under eviction crisis compares claimed vs actual support (Notes).
 

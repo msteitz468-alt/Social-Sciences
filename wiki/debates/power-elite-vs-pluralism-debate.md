@@ -6,10 +6,11 @@ era: [postwar-expansion, critical-turn, contemporary]
 positions:
   - "Power-elite thesis: national power concentrates in interlocking corporate, military, and political command posts (Mills 1956)"
   - "Pluralist / theory-of-balance thesis: power is dispersed among competing groups and institutions with no unified elite (classic pluralism; Mills's foil, e.g. his reading of Riesman veto groups)"
-  - "Later power-structure research: revises and extends elite models with finer network and class evidence (Domhoff and others — secondary in this vault)"
+  - "Class-domination / power-structure research: corporate community + upper class + policy-planning network dominate government via network processes (Domhoff, *Who Rules America?* program)"
   - "State-autonomy / relative-autonomy variants: government not a simple instrument of business (link [[relative-autonomy-of-the-state-debate]])"
   - "Lenski (1966): both elite and pluralist images partly true; degree of elite unity/power varies by regime type (totalitarian vs multiparty industrial)"
-key_texts: ["[[mills-power-elite-1956]]", "[[mills-power-elite-study]]", "[[lenski-power-and-privilege-1966]]"]
+  - "Three-dimensional power (Lukes): pluralist one-dimensional decisionism and two-dimensional nondecision maps are incomplete; power includes preference-shaping and is most effective when least observable"
+key_texts: ["[[mills-power-elite-1956]]", "[[mills-power-elite-study]]", "[[domhoff-who-rules-america-2022]]", "[[domhoff-who-rules-america-study]]", "[[lenski-power-and-privilege-1966]]", "[[lukes-power-radical-view-2005]]"]
 resolution_status: open
 last_updated: 2026-07-10
 tags: [debate]
@@ -55,11 +56,9 @@ community-power, and later pluralist primary texts are not yet ingested** — re
 position Mills attacked and as the standing rival program. Strongest form: mid-level bargaining
 *is* national power; elite "unity" is overstated; issue-areas fragment decision.
 
-### 3. Later power-structure research (secondary note)
+### 3. Class domination / power-structure research — Domhoff (*Who Rules America?*)
 
-Alan Wolfe's afterword and subsequent literature (Domhoff, network studies of corporate
-interlocks) revise Mills without simply restoring classical pluralism: some extend elite models
-with better data on classwide property and social clubs; others stress business fragmentation.
+*(Primary-ingested: [[domhoff-who-rules-america-2022|8th ed. 2022]]; study [[domhoff-who-rules-america-study]].)* [[domhoff-g-william|Domhoff]] argues the US exhibits **[[class-domination-theory|class domination]]** by the corporate rich: a nationwide [[corporate-community|corporate community]] intertwined with a social upper class, organized through a [[policy-planning-network|policy-planning network]], and dominating government via special-interest, policy-planning, opinion-shaping, and electoral processes. His **power elite** is the leadership group at the **intersection** of upper class, corporate community, and policy network — not Mills’s military–political–corporate triad, and not a conspiracy. He operationalizes claims with [[power-indicators|who benefits / who governs / who wins]]. 8th-ed. party periodization (white-nationalist Republican vs inclusionary Democratic coalitions) is Domhoff’s contemporary framing of how the corporate rich relate to electoral blocs — a **position** within this debate’s empirical wing, not a wiki-voice fact. Strongest form: multi-indicator organizational evidence falsifies national pluralism without requiring omniscient cabal or pure instrumental Marxism.
 
 ### 4. State-autonomy / relative-autonomy variants
 
@@ -67,6 +66,10 @@ Scholars associated with "bringing the state back in" (Evans, Rueschemeyer, Skoc
 Wolfe) argue that government has degrees of autonomy from business; the state is not a committee
 of the corporate rich. Links to [[relative-autonomy-of-the-state-debate]]. This position can cut
 against both simple instrumentalism and simple elite fusion.
+
+### 5. Three-dimensional power — Lukes (*Power: A Radical View*)
+
+*(Attributed — [[lukes-steven|Lukes]], *[[lukes-power-radical-view-2005|PRV]]* 1974/2005.)* Lukes reframes the elite–pluralism dispute as partly a **conceptual** failure: pluralist **one-dimensional** power (Dahl: A gets B to do what B would not otherwise do — concrete decisions, overt conflict) systematically under-describes domination. Bachrach & Baratz’s **two-dimensional** map ([[nondecision|nondecisions]], agenda control) is a major advance but still too behavioural. The **[[three-dimensional-power|three-dimensional]]** view adds preference-shaping and latent conflict: power is most effective when **least observable**. 2005 corrections: power is a **capacity**, not only exercise; PRV’s topic is power as **domination**, one species of power. Empirical prize case in Ch. 1: Crenson on air-pollution non-politics. This is a **meta-position** on how to study power in the elite–pluralism arena, not a substitute for Mills’s or Domhoff’s structural maps.
 
 ## Shared factual ground (framed per side)
 
@@ -76,9 +79,12 @@ against both simple instrumentalism and simple elite fusion.
   pluralists: primary national power).
 - Mid-century US military budgets and corporate scale expanded dramatically (Mills's
   operational context; magnitudes date-stamped to his era).
+- Overt decisions and nondecisions are both researchable (Lukes: third dimension requires
+  counterfactual [[real-interests|real-interest]] reasoning — contested methodologically).
 
 ## Resolution status
 
 `open` — standing dispute in political sociology; empirical programs have refined both elite and
 pluralist measures without a consensus "winner." Study status on [[mills-power-elite-study]]:
-`reanalyzed-contested`.
+`reanalyzed-contested`. Lukes’s three-dimensional apparatus is widely taught as conceptual
+frame; real-interest and false-consciousness elements remain contested.

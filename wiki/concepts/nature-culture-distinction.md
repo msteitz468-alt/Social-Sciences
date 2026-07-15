@@ -9,8 +9,8 @@ emic_or_etic: etic
 operationalized_as: "The opposition between what is universal/spontaneous in humans (nature) and what is rule-governed/particular (culture); marked, per Lévi-Strauss, by the presence of a rule"
 contested: yes
 related_concepts: ["[[incest-taboo]]", "[[binary-opposition]]", "[[structuralism]]", "[[psychic-unity-of-mankind]]", "[[domestic-public-dichotomy]]", "[[female-subordination]]", "[[four-ontologies]]", "[[naturalism-ontology]]", "[[modes-of-identification]]", "[[dwelling-perspective]]"]
-sources_ingested: 3
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [concept, anthropology]
 ---
 
@@ -36,9 +36,11 @@ Structures the argument of the *Elementary Structures* (incest prohibition as th
 
 The opposition has been among the most criticized elements of structuralism: feminist and ecological anthropology ([[ortner-female-to-male-1972|Sherry Ortner's "Is Female to Male as Nature Is to Culture?"]], 1972/74; later critiques by [[strathern-marilyn|Marilyn Strathern]] and Philippe Descola) argued it is a Western folk category wrongly universalized, and that many societies do not organize thought around it at all. [[ortner-sherry|Ortner]] both *used* the opposition (to explain [[female-subordination|female subordination]] — woman as "closer to nature") and helped trigger the critique that dismantled its universality; see the [[nature-culture-gender-debate]]. Lévi-Strauss's own 1966 hedging anticipates the objection. Record it as an analytic construct of structuralism, not a cultural universal.
 
-## Descola: dualism as local naturalist formula (2005)
+## Descola: Achuar dualism critique (1986/1994) and naturalist formula (2005)
 
-[[descola-philippe|Descola]]'s *[[descola-beyond-nature-and-culture-2005|Beyond Nature and Culture]]* treats the nature/culture opposition not as a human universal (nor only as a Lévi-Straussian analytic) but as the **local formula of [[naturalism-ontology|naturalism]]** — continuity of physicalities + discontinuity of interiorities — produced historically in the West (Ch.3 genealogy: landscape perspective, *phusis*, Christian creation, autonomy of Nature and of Culture). Many societies (Amazonian animists, Australian totemic systems, analogist cosmologies) do not organize experience around that split; Amerindian myths often narrate natural discontinuities emerging from a prior cultural continuum rather than culture emerging from nature. The positive alternative is the [[four-ontologies|four modes of identification]]. This generalizes and systematizes the feminist/ecological critique already linked above ([[strathern-marilyn|Strathern]], Ortner debate) into a comparative ontology. See [[hubs/theory/four-ontologies]].
+**Monograph-level refusal.** In *[[descola-in-the-society-of-nature-1994|In the Society of Nature]]* ([[descola-society-of-nature-study|study]]), Descola frames Amazonian ethnography between semiological and ecological-reductionist monisms and aims to analyze Achuar **socialization of nature** without a hard nature/culture cut. The Conclusion treats Achuar ecology as “domestic”: beings ranked by speech and sociability on a continuum; house, garden, forest, and river as practical-symbolic worlds organized by kinship templates (consanguinity in gardens; [[affinity]] in forest game relations). Methodologically he refuses a hard line between technical and conceptual determinations (Preface). This is ethnographic dualism-critique *avant la lettre* of the 2005 typology.
+
+**Comparative formalization.** [[descola-philippe|Descola]]'s *[[descola-beyond-nature-and-culture-2005|Beyond Nature and Culture]]* treats the nature/culture opposition not as a human universal (nor only as a Lévi-Straussian analytic) but as the **local formula of [[naturalism-ontology|naturalism]]** — continuity of physicalities + discontinuity of interiorities — produced historically in the West (Ch.3 genealogy: landscape perspective, *phusis*, Christian creation, autonomy of Nature and of Culture). Many societies (Amazonian animists, Australian totemic systems, analogist cosmologies) do not organize experience around that split; Amerindian myths often narrate natural discontinuities emerging from a prior cultural continuum rather than culture emerging from nature. The positive alternative is the [[four-ontologies|four modes of identification]]. This generalizes and systematizes the feminist/ecological critique already linked above ([[strathern-marilyn|Strathern]], Ortner debate) into a comparative ontology. See [[hubs/theory/four-ontologies]]; Achuar base [[hubs/studies/descola-society-of-nature-study]].
 
 ## Ingold: dwelling against the dualism (2000)
 

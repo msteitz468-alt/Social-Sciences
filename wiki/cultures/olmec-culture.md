@@ -15,7 +15,7 @@ preceded_by: ["Formative village traditions of the South Gulf Coast"]
 succeeded_by: ["Epi-Olmec; later Mesoamerican complex societies ([[classic-maya]], central Mexican Formative/Classic)"]
 language_affiliation: "unknown endonym; Epi-Olmec Zoquean reading (Justeson & Kaufman) controversial — do not equate archaeological Olmec with one language"
 genetic_signature: "[[unknown]]"
-sources_ingested: 3
+sources_ingested: 6
 last_updated: 2026-07-10
 tags: [culture, chalcolithic, mesoamerica]
 ---
@@ -85,3 +85,54 @@ Elman Service (1975), concurring with Sanders and Price, argued the Olmec center
 ### Sanders & Price (*Mesoamerica*, 1968, attributed)
 
 [[sanders-price-mesoamerica-1968|Sanders & Price]] (1968) read the Olmec as a Gulf-lowland [[chiefdom]], not a state or empire, and gave one of the founding **"sister cultures"** arguments against Coe's *cultura madre* thesis: Central Mexican Middle Formative material (Tlatilco, Tlapacoyan; Las Bocas, Chalcatzingo) was predominantly local — they proposed the term "Amacusac" for it (their own coinage, not standard field vocabulary) — so Olmec influence on Central Mexican civilizational evolution was minimal and indirect. They rejected an "Olmec pochteca" (the Aztec pochteca presupposed a state hierarchy the Olmec lacked) and reframed apparent "Olmec influence" as a mechanism: because chiefdoms hold military advantages over tribes, Gulf-Coast chiefdom emergence could stimulate parallel chiefdom formation among neighbors, with religious symbols spreading through a "regional co-tradition" rather than migration or missionizing. Architectural labor at La Venta, they noted, represents less construction than the Moon Pyramid at [[teotihuacan|Teotihuacan]] — consistent with chiefdom-scale mobilization. See [[olmec-mother-culture-debate]] and, on the ecological engine they credited, [[symbiotic-region]].
+
+
+### Coe & Houston 2015 densification (attributed)
+
+[[coe-houston-the-maya-2015|Coe & Houston]] present Olmec civilization (San Lorenzo from ~1400 BC; La Venta Middle Preclassic peak) as *fons et origo* of many Late Preclassic Maya traits — art, religion, state complexity, “perhaps even” calendar/astronomy — transferred by direct interaction or Chiapas/Tabasco intermediaries. Evidence cited includes Ceibal Real-Xe Olmec-style caches (c. 900–800 BC), Soconusco colonists at Cantón Corralito, Pacific piedmont monuments, Motagua blue-green jade sources, and Copan Valley Uir-phase Olmecized ceramics. They note the steep Olmec decline c. 400 BC coincides with Maya-area takeoff ([[el-mirador]]) though causal meaning is “unclear.” Record as **position** relative to [[olmec-mother-culture-debate]], not wiki-voice settlement.
+
+### Coe & Koontz 2013 (attributed)
+
+[[sources/coe-koontz-mexico-2013|Coe & Koontz]] (2013) treat the Gulf Coast Olmec as
+Mesoamerica's first civilization and, in their own attributed voice, hold the "mother
+culture" position — "There is now little doubt that all later civilizations in
+Mesoamerica, whether Mexican or Maya, ultimately rest on an Olmec base." Their account
+(with **calibrated** radiocarbon chronology, note the calibration): [[san-lorenzo|San
+Lorenzo]] first settled c. 1700 cal BC, thoroughly Olmec by 1500 cal BC and for ~300
+years "several times larger than any other settlement in Mesoamerica," declining c. 1200
+cal BC; [[la-venta|La Venta]] the succeeding Middle Preclassic center (c. 1200–400 cal
+BC), deliberately mutilated and abandoned c. 400–300 cal BC; [[tres-zapotes|Tres
+Zapotes]] and the Epi-Olmec continuing into the Late Preclassic.
+
+- **Rulership, not "altars."** David Grove is credited with showing the flat-topped
+  basalt "altars" were **thrones**; the colossal heads are read as ruler portraits.
+- **Language (attributed, four-way non-identity).** Coe & Koontz judge "the case for
+  Mixe-Zoquean is very strong" — Campbell & Kaufman's argument from Mixe-Zoquean
+  loanwords for high-status/ritual vocabulary (*pom* "copal," *kakaw* "chocolate") in
+  other Mesoamerican languages — while noting a rival Mayan-speech hypothesis. This is an
+  attributed language↔culture equation, not established identity.
+- **Iconography.** Karl Taube's identification of the were-jaguar infant as the **Maize
+  God** (with Covarrubias's Rain God as one deity within a larger pantheon documented by
+  David Joralemon) is adopted.
+- **New evidence.** [[el-manati|El Manatí]]'s waterlogged deposits (wooden busts, the
+  earliest surviving rubber balls, Ojochi-phase chocolate residue) push complex Olmec
+  ceremonialism earlier than once thought; the El Cascajal block attests an early,
+  undeciphered Olmec sign system distinct from later scripts.
+- **Spread (position).** Coe & Koontz present David Cheetham's Cantón Corralito material
+  as "decisive evidence for an Olmec colony," while endorsing Flannery's and Grove's
+  emulation/trade readings elsewhere and rejecting the Guerrero-origin revision — see
+  [[olmec-mother-culture-debate]].
+
+### Sharer & Traxler 2006 — Maya-related interaction (attributed)
+
+*(Attributed — [[sharer-traxler-ancient-maya-2006|Sharer & Traxler 2006]]. Maya-interaction densification only; does not replace heartland syntheses above.)*
+
+**Against sole cultura madre.** Authors argue against the older model treating Gulf Coast Olmec as sole source of later Mesoamerican civilization. With well-dated excavations, several regional complex societies reached equivalent stages in Early–Middle Preclassic and interacted; many attributes once taken as Olmec priority originated in non-Olmec areas. Following Flannery and Marcus: autonomy of complex societies plus constant interaction increased the probability that innovations would be shared — rapid co-evolution rather than one-way radiation. **No single source for Maya civilization:** Gulf Coast Olmec, Chalcatzingo, Basin of Mexico, Valley of Oaxaca provide developmental strands (especially elite institutions), but indigenous Maya traditions and Early Preclassic foundations (environment, subsistence, population, warfare, economy) are also critical; “the Preclassic Maya, though on the southeastern edge of this interacting system, were nonetheless an integral part of it.” Refutes isolation, highland-transplant, and Olmec-offshoot models for Maya origins. Internal-stimulus models pair this with [[el-mirador]]/[[kaminaljuyu]] as primary states before [[teotihuacan]].
+
+**Trade, not conquest, with southern Maya.** Once-thought Olmec colonization/conquest of the southern Maya area is now seen as long-distance trading contacts: Maya highland obsidian exported to the Gulf Coast; jadeite, serpentine, hematite, feathers from highlands; Pacific plain cacao production and elite-associated commodity likely in Preclassic. Southern Maya as middlemen and producers in a larger network also connecting SE Central America. Pan-Mesoamerican prestige trade and ideology ca. 1200–900 BC linked Gulf Coast Olmec with highlands and Pacific Maya coast as far as Chalchuapa (Motagua jade, Oaxaca magnetite mirrors, Chalcatzingo kaolin whiteware, Central Mexican and Maya highland obsidian; perishable cacao, quetzal feathers, textiles inferred). Similar earth/sky deity symbols on pottery throughout Mesoamerica as far as Copan Valley and Cuyamel Cave — **shared ideology, not unidirectional Olmec origin**. Early Preclassic Copan Group 9N-8 pottery with flame-eyebrow, hand-wing, and serpent motifs treated as pan-Mesoamerican, not proof of Olmec political control of the Maya area.
+
+**Monument traditions and Pacific corridor.** Olmec innovators in freestanding carved monuments dedicated to rulers (colossal portrait heads; rectangular “altars” often thrones with rulers in cave/niche); this tradition may have passed from Gulf Coast to Maya via the Pacific corridor. Middle Preclassic ruler-portrait monuments from Chiapas through southern Guatemala to western El Salvador (Padre Piedra, Chalchuapa Monument 12, Pijijiapan, Tak’alik Ab’aj, etc.) affiliate to Gulf Coast Olmec and also to Oaxaca/Chalcatzingo; by end of Middle Preclassic a Maya style had developed. Deliberate defacement of ruler portraits in Olmec and Maya areas may follow military defeat or ideology of negating power. Preclassic lowland Maya sites often emphasize **east–west** layout (contrast Olmec **north–south**). [[el-mirador]] Basin indigenous development (local populations; E–W plans) with southern interaction, not Olmec transplant.
+
+**Heartland anchors (brief).** San Lorenzo: pre-1200 BC pottery related to Ocos; “proto-Olmec” ca. 1250–1150 BC; peak ca. 1150–900 BC with hilltop leveling and colossal heads, little monumental platform architecture. La Venta: Middle Preclassic three-tier hierarchy (temple-town capital; second-tier elite platforms; third-tier nonelite). Mixe-Zoquean loanwords into Mayan (mostly Preclassic) include kinship/body-part terms and words such as *ajaw* (lord) and *kakaw* (cacao) — linguistic contact, not culture=language identity. Ethnic identity of Preclassic southern Maya-area populations unclear; some proposed Middle Preclassic Olmec spoke ancestral Mixe-Zoquean “although there is no direct evidence.” Writing: origin of Maya writing intertwined with Mixe-Zoquean Late Preclassic script; whether knowledge of writing was imported via Pacific coastal trade with Oaxacan/Gulf centers or developed locally is unresolved. Trade-control cycle: Middle Preclassic **Olmec land routes** (prestige jade + obsidian) as first major long-distance prestige network in their sketch.
+
+*associated_with:* Maya interaction sphere (not identity); [[olmec-mother-culture-debate]]; Pacific corridor sites; four-way non-identity (style ≠ language ≠ genes ≠ people).

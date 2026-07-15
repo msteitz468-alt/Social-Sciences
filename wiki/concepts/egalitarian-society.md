@@ -7,8 +7,8 @@ disciplines: [anthropology, political-anthropology]
 emic_or_etic: etic
 operationalized_as: "As many prestige positions in any age-sex grade as persons capable of filling them; no ranking (status scarcity) or stratification (differential access to basic resources); characteristically reciprocal economy"
 contested: yes
-related_concepts: ["[[rank-society]]", "[[stratified-society]]", "[[egalitarian-rank-stratified-state-model]]", "[[band-tribe-chiefdom-model]]", "[[patrilocal-band]]", "[[composite-hunting-band]]", "[[generalized-reciprocity]]", "[[three-basic-freedoms]]", "[[indigenous-critique]]"]
-sources_ingested: 2
+related_concepts: ["[[rank-society]]", "[[stratified-society]]", "[[egalitarian-rank-stratified-state-model]]", "[[band-tribe-chiefdom-model]]", "[[patrilocal-band]]", "[[composite-hunting-band]]", "[[generalized-reciprocity]]", "[[three-basic-freedoms]]", "[[indigenous-critique]]", "[[leveling-mechanisms]]"]
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [concept]
 ---
@@ -46,6 +46,8 @@ From EPS Chs. 2–3 (attributed):
 Type-cases Fried inventories: Eskimo, !Kung, Australian groups (Murngin, Walbiri, Tiwi), Montagnais-Naskapi, Siriono, Shoshone/Paiute, Andamanese, Semang, Pygmies, Yahgan, Tehuelche, and others. Transition into human egalitarian society: **sharing** (with Sahlins/Service) as paramount invention versus primate non-sharing.
 
 Among the "Pygmies," [[turnbull-colin-m|Turnbull]]'s [[mbuti|Mbuti]] ethnography ([[turnbull-forest-people-study|*The Forest People*]], 1957–58) supplies a much-cited concrete case: a net-hunting band with no chiefs, councils, or courts, maintaining order through **ridicule, shaming, and the threat of ostracism** rather than authority. The **Crime of Cephu** — a hunter who set his net ahead of the others to steal the communal catch, sanctioned by being called "Animal," denied a seat, denounced at the *kumamolimo*, and restored only on capitulating and sharing his meat — is a standard illustration of egalitarian levelling of a would-be free-rider (attributed to Turnbull's single-band fieldwork).
+
+**!Kung / Ju/'hoansi leveling (Lee 1979).** *(Attributed — [[lee-richard-b|Lee]], *[[lee-kung-san-1979|The !Kung San]]* 1979, Ch.1 Christmas ox; Ch.12 land/leadership preview; Ch.15; fieldwork 1963–73; society [[juhoansi]]; study [[lee-kung-san-study]].)* Lee describes the !Kung as "fiercely egalitarian" with "humility-enforcing devices": **insulting the meat** / ridiculing a hunter's kill (deployed even on Lee as meat-buyer in the Christmas ox episode); charges of **stinginess** (*far-hearted*; hoarding "like a hyena," corrected by forcing giving "till it hurts") and especially **arrogance** (*#twi* — "his pride will make him kill someone"), with boasting punctured by minimizing others' kills, downplaying gifts, and self-deprecation. Land is a **collective resource** owned by men and women, inherited by complex pathways, managed without territorial defense; rights vest in collective *k”ausi* / *n!ore* cores with reciprocal access rather than Service-style male territorial exclusion. Leadership lacks hereditary offices; reported ethos: "Of course we have headmen … each one of us is headman over himself" — leaders subtle, never order, accumulate ≤ average. Hxaro circulates durables without creating wealth classes (active traders have more partners/faster turnover, not more stock). Case studies of would-be herder-accumulators (Debe; Bo) show leveling pressure that can block capital accumulation and push exits to wage/settlement life. Violence record (Ch.13): not "harmless people," not Hobbesian war of all against all; homicide rate high by some state comparisons (~29/100,000 person-years for 22 killings / ~50 years / base pop ~1,500) but without warfare; large camps concentrate both sacred sociability and fatal conflict. All attributed to Lee's documentation moment — not a timeless equality claim.
 
 ## Critiques and Limitations
 

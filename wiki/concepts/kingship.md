@@ -7,8 +7,8 @@ disciplines: [anthropology, archaeology, political-anthropology]
 emic_or_etic: migrated
 operationalized_as: "hereditary (in practice) office embodying sovereignty in early civilizations; sacred personal power with variable divinity claims — Trigger 2003"
 contested: yes
-related_concepts: ["[[the-state]]", "[[chieftainship]]", "[[early-civilization]]", "[[territorial-state]]", "[[city-state]]", "[[priesthood]]", "[[wealth-appropriation]]"]
-sources_ingested: 3
+related_concepts: ["[[the-state]]", "[[chieftainship]]", "[[early-civilization]]", "[[territorial-state]]", "[[city-state]]", "[[priesthood]]", "[[wealth-appropriation]]", "[[theatre-state]]", "[[exemplary-center]]", "[[divine-king]]", "[[negara]]"]
+sources_ingested: 4
 last_updated: 2026-07-10
 tags: [concept, anthropology, archaeology]
 ---
@@ -30,6 +30,10 @@ Trigger ch. 5 comparative survey across seven early civilizations (study: [[trig
 ## Applications
 
 Links [[the-state]], [[state-formation]], [[early-civilization]], religious intermediaries, military command, and law as hierarchical reinforcement. Kingship is Trigger’s “master concept” for sociopolitical organization at this level.
+
+### Geertz — Balinese theatre-state kingship (1980, attributed)
+
+In *[[geertz-negara-1980|Negara]]*, [[geertz-clifford|Geertz]] treated classical Balinese kingship as the master image of the [[theatre-state]]: higher politics aimed “to construct a state by constructing a king,” and “a king was constructed by constructing a god.” Kings were hierophanies (one body, not Kantorowicz’s two); sovereignty was one and many — “Kings were all Incomparable, but some were more Incomparable than others,” differentiated by cult scale. Court Brahmanas were celebrants-in-chief and parts of the king’s **regalia**, not ambassadors to the gods for a secular ruler. The king as court actor was Eliot’s “still point” — Great Imperturbable / ritual object — while remaining a political mobilizer of men and goods for ceremony. *Druwe raja*: tutelary “ownership” of the realm in the symbology of power, not tenurial property law. Study: [[geertz-negara-study]].
 
 ## Critiques and Limitations
 

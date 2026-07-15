@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "elicited by a set of clinical questions about cause, onset, pathophysiology, course, and treatment (the contracted form: 'What do you think is wrong? What caused it? What do you want me to do?')"
 contested: "no"
 related_concepts: ["[[illness-disease-distinction]]", "[[illness-narrative]]", "[[explanatory-models-interview]]", "[[clinical-reality]]", "[[health-care-system]]", "[[meaning-centered-medical-anthropology]]", "[[somatization]]"]
-sources_ingested: 3
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -87,3 +87,11 @@ The concept has been criticized (in the wider literature) for a residually cogni
 treating culture as belief in the head — which later embodiment and [[critical-medical-anthropology|political-economy]]
 approaches sought to correct. Kleinman's own later work moved toward "local moral worlds" and
 lived experience, partly in response.
+
+Within the interpretive program itself, [[good-byron|Byron Good]]
+(*[[good-medicine-rationality-1994|Medicine, Rationality, and Experience]]*, 1994, attributed)
+pairs EMs with his [[semantic-illness-network|semantic network]] method — EMs elicit
+episode-specific causal accounts, networks map the standing cultural field a complaint draws on
+— and adds, via Charles Taylor's invoking/depicting distinction, that diagnosis "is more like
+invoking than depicting": symbolization calls forth a therapeutic mode of experience rather
+than merely describing a disease state.

@@ -5,24 +5,27 @@ disciplines: [sociology]
 era_origin: critical-turn
 date_origin: 1973
 originated_by: ["[[granovetter-mark-s]]"]
-key_texts: ["[[granovetter-strength-of-weak-ties-1973|The Strength of Weak Ties (AJS 1973)]]"]
+key_texts:
+  - "[[granovetter-strength-of-weak-ties-1973|The Strength of Weak Ties (AJS 1973)]]"
+  - "[[granovetter-getting-a-job-1974|Getting a Job (1974)]] — labor-market monograph"
 core_claims:
   - "Granovetter argued that friendship-network overlap varies directly with the strength of the dyadic tie between two persons"
   - "He claimed the strong–strong–absent triad is rare (forbidden), so strong ties are almost never bridges and all bridges are weak ties"
   - "He argued that bridging weak ties enable diffusion across social distance, mobility information, and community-level integration"
   - "He held that strong ties produce local cohesion that can fragment the larger structure — the paradox of weak ties"
   - "He proposed interpersonal network analysis as the most fruitful micro–macro bridge for sociological theory"
+  - "In Getting a Job he reported job information skewed to weak (infrequent) contacts among PTM men, with structure outweighing pure helping motivation"
 developed_from: ["sociometry", "[[homans-george-c|Homans]] small-group theory", "cognitive balance (Heider/Newcomb)", "Rapoport network models", "[[harrison-white|Harrison White]] structural networks"]
 competes_with: ["subcultural explanations of community non-mobilization (Gans)", "small-group models that treat only strong ties / full transitivity (DHL)"]
 status: active
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [theory, sociology]
 ---
 
 # Strength of Weak Ties (Theory)
 
-Middle-range research program launched by [[granovetter-mark-s|Mark Granovetter]] in *[[granovetter-strength-of-weak-ties-1973|The Strength of Weak Ties]]* (AJS 1973). Concept summary: [[strength-of-weak-ties]]. Landmark study analysis: [[granovetter-strength-of-weak-ties-study]] · [[hubs/studies/granovetter-strength-of-weak-ties-study]].
+Middle-range research program launched by [[granovetter-mark-s|Mark Granovetter]] in *[[granovetter-strength-of-weak-ties-1973|The Strength of Weak Ties]]* (AJS 1973), with full labor-market evidence in *[[granovetter-getting-a-job-1974|Getting a Job]]* (1974). Concept summary: [[strength-of-weak-ties]]. Landmark study analyses: [[granovetter-strength-of-weak-ties-study]] · [[hubs/studies/granovetter-strength-of-weak-ties-study]]; [[granovetter-getting-a-job-study]] · [[hubs/studies/granovetter-getting-a-job-study]].
 
 ## Core Claims
 
@@ -42,21 +45,21 @@ Middle-range research program launched by [[granovetter-mark-s|Mark Granovetter]
 
 ## Key Proponents and Texts
 
-- [[granovetter-mark-s]] — 1973 AJS; dissertation 1970; *Getting a Job* 1974 (not ingested).
-- Downstream (not yet ingested as primary): Burt (structural holes), Lin (social resources), later network science formalizations.
+- [[granovetter-mark-s]] — 1973 AJS; dissertation 1970; *Getting a Job* 1974 (ingested); Afterword 1994 reassessment.
+- Downstream: Burt ([[structural-holes-theory|structural holes]], ingested); Lin (social resources, not yet primary); later network science formalizations.
 
 ## Empirical Program
 
-What the 1973 paper organized and predicted:
+What the 1973 paper organized and predicted; what GAJ 1974 detailed:
 
-| Domain | Claim (attributed) | Evidence in 1973 |
+| Domain | Claim (attributed) | Evidence |
 |---|---|---|
-| Diffusion | Weak/bridging ties spread further and faster | Reanalysis of Rogers, Coleman et al., Kerckhoff, Milgram/Korte, Rapoport & Horvath |
-| Mobility | Job tips flow through weak contacts | Boston-suburb PTM sample; frequency skew to weak end |
-| Community | Local-bridge density enables organization | Reconstruction of Gans West End vs Keyes Charlestown |
-| Structure | Transitivity is strength-dependent, not universal | Contrast with DHL model; Leinhardt developmental finding reinterpreted |
+| Diffusion | Weak/bridging ties spread further and faster | SWT reanalysis of Rogers, Coleman et al., Kerckhoff, Milgram/Korte, Rapoport & Horvath |
+| Mobility | Job tips flow through weak contacts; structure > motivation | GAJ Newton PTM: often/occasional/rare 16.7/55.6/27.8% (N=54); short chains (N=64); work vs family-social — [[granovetter-getting-a-job-study]] |
+| Community | Local-bridge density enables organization | SWT reconstruction of Gans West End vs Keyes Charlestown |
+| Structure | Transitivity is strength-dependent, not universal | SWT contrast with DHL model |
 
-See [[granovetter-strength-of-weak-ties-study]] for design detail and replication status.
+See [[granovetter-strength-of-weak-ties-study]] and [[granovetter-getting-a-job-study]] for design detail and `partially-supported` replication status (Afterword 1994: prevalence sustained; wage/weak-tie advantages conditional).
 
 ## Method Commitments
 
@@ -69,11 +72,11 @@ See [[granovetter-strength-of-weak-ties-study]] for design detail and replicatio
 
 - **Gans 1974 ([[west-end-network-fragmentation-debate]]):** overestimation of weak-tie sufficiency; West End had some bridges; historical timing, political connection, class culture, and subneighborhood scale matter. **Granovetter reply:** networks necessary not sufficient; several of Gans's points are consistent with network fragmentation; will without way.
 - **Measurement and sampling:** weak ties undercounted; frequency ≠ full strength definition.
-- **Later conditional findings (reception, not yet primary-ingested):** weak ties better for novel information; strong ties often better for influence, trust, and certain job outcomes; structural holes reframe bridging as non-redundancy rather than dyadic weakness alone.
+- **Later conditional findings (GAJ Afterword 1994 + reception):** weak ties better for novel information under many conditions; strong ties often better for influence, trust, crisis help, and some institutional settings (Japan/China as summarized 1994); Bridges–Villemez / Marsden–Hurlbert null wage effects under controls; structural holes reframe bridging as non-redundancy rather than dyadic weakness alone ([[structural-holes-theory]]).
 
 ## Current Status
 
-`status: active` — core vocabulary ([[tie-strength]], bridge, weak-tie advantage for information) remains standard in network sociology, organizational studies, and parts of economic sociology. The program was absorbed into broader social-network theory without dying; Granovetter's later [[embeddedness]] agenda (1985) extends rather than replaces it. Collection still lacks the 1985 paper and *Getting a Job*.
+`status: active` — core vocabulary ([[tie-strength]], bridge, weak-tie advantage for information) remains standard in network sociology, organizational studies, and parts of economic sociology. The program was absorbed into broader social-network theory without dying; Granovetter's [[embeddedness]] agenda (1985; now ingested as [[granovetter-embeddedness-1985]]) extends rather than replaces it. Collection now holds SWT 1973, *Getting a Job* 1974/1995, and Embeddedness 1985.
 
 ## Reflexivity
 

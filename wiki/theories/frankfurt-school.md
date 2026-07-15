@@ -13,8 +13,8 @@ core_claims:
 developed_from: ["[[historical-materialism]]"]
 competes_with: ["[[positivism]]"]
 status: active
-sources_ingested: 3
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [theory, sociology, philosophy]
 ---
 
@@ -57,10 +57,11 @@ only by fusing philosophy, sociology, economics, and psychoanalysis.
 ## Intellectual Origins
 
 The school reoriented the Institut from Grünberg's orthodox Marxist economics toward
-"Western Marxism" — retaining Marx's critique of capitalism and reification (via
-Lukács) while abandoning economic determinism and the party. It defined itself
-against [[positivism]] and against Soviet "scientific" Marxism, drawing on Hegel,
-Freud, [[weber-max|Weber]], and Husserl. See [[critical-theory]] for the program's
+[[western-marxism|Western Marxism]] — retaining Marx's critique of capitalism and
+[[reification]] (via [[lukacs-georg|Lukács]], *[[lukacs-history-and-class-consciousness-1923|HCC]]*
+1923, now primary-ingested) while abandoning economic determinism and the party. It
+defined itself against [[positivism]] and against Soviet "scientific" Marxism, drawing on
+Hegel, Freud, [[weber-max|Weber]], and Husserl. See [[critical-theory]] for the program's
 genealogy in full.
 
 ## Key Proponents and Members

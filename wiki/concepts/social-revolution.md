@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Rapid, basic transformation of a society's state AND class structures, accompanied and in part carried through by class-based revolts from below — identified by the coincidence of societal-structural with class upheaval and of political with social transformation"
 contested: yes
 related_concepts: ["[[state-autonomy]]", "[[structural-theory-of-revolution]]", "[[class-struggle]]", "[[peasantry-as-class]]", "[[the-state]]", "[[bonapartism]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -43,3 +43,13 @@ Skocpol's three positive cases — the French (1787–1800), Russian (1917–), 
 - **Agrarian and structural bias.** The definition is built for agrarian old-regime states with a revolting peasantry; it fits urban, negotiated, colonial, or "refolutionary" (1989) cases poorly. Skocpol herself denied it could ground a "general theory of revolutions."
 - **Success built into the definition** risks selection on the outcome — a standing methodological objection (only "successful" cases are social revolutions, making failed cases definitionally separate).
 - **Under-weighting of agency, ideology, and contingency** — the concept's structural framing is the target of the [[structure-vs-agency-debate]].
+
+## Wolf *Peasant Wars* (1969) — related (not synonym)
+
+[[wolf-eric-r|Wolf]] analyzes twentieth-century **peasant wars** (rebellions and revolutions with peasants as principal actors) as responses to capitalist commodity expansion and stratified [[tactical-mobility]], not as a formal definition competing with Skocpol’s **social revolution**. Overlap of cases (Russia, China; Skocpol also names Mexico, Vietnam, Algeria, Cuba as broadly resembling) without identity of concept: Wolf’s object is agrarian revolutionary process and recruitment; Skocpol’s is dual transformation of state and class structure. See [[wolf-peasant-wars-study]] · [[peasant-movements]] · [[middle-peasant]].
+
+## Links
+
+- source/study: [[skocpol-states-social-revolutions-1979]] · [[skocpol-states-social-revolutions-study]] · [[wolf-peasant-wars-1969]] · [[wolf-peasant-wars-study]]
+- related: [[structural-theory-of-revolution]] · [[state-autonomy]] · [[peasant-movements]] · [[middle-peasant]] · [[france-russia-china-revolutions]] · [[revolutionary-subject-debate]]
+---

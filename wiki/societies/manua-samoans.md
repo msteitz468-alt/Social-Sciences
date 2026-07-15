@@ -8,8 +8,8 @@ kinship_system: "Extended household under matai authority; aiga claims; age and 
 documented_by: ["[[mead-coming-of-age-samoa-study]]"]
 documentation_dates: "1925–1926 (Mead; nine months in Introduction, six months in Appendix II; *Coming of Age in Samoa* 1928)"
 endonym_exonym_note: "Mead worked in three west-coast villages of Ta'ū (Lumā, Siufaga, Faleasao), Manu'a Archipelago, American Samoa. Wider Manu'a (~seven villages, ~2,000 people) includes Ofu, Olesega, Fitiuta. 'Samoan' is the ethnolinguistic label; this page is scoped to Manu'a as she documented it."
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [society, polynesia]
 ---
 
@@ -50,6 +50,47 @@ Christian hymns and prayer framed evening meals; mission boarding schools taught
 
 Manu'a became the Western type-case for **easy adolescence** and relatively free premarital sexuality — and the battleground of the [[mead-freeman-debate]]. Mead's sexual ethnography (clandestine lovers, *moetotolo*, *taupo* virginity ordeal, casual attitude to sex as "unseemly not wrong") is the most contested layer. Samoan readers later found the portrait embarrassing or incomplete (Mead 1973). Always **attribute and date-stamp**.
 
+## Freeman's counter-documentation (attributed; different place and decades)
+
+*[[freeman-margaret-mead-and-samoa-1983|Freeman 1983]]* offers a systematically opposite portrait
+of Samoan society — but note the **evidence-class caution**: his data are principally **Western
+Samoa** (Sa'anapu, Upolu; fieldwork 1940–43, 1965–68, 1981), 19th-century mission/traveler
+sources, and colonial court records, not Mead's 1925–26 Manu'a. As Freeman's claims (attributed):
+
+- **Rank as the organizing axis** (Holmes: "the focal point of Samoan culture"): the *matai*
+  system, *fa'alupega* rank-phrases, sacred high-chief deference, and continuous title
+  competition (the 1945 census gave a chief-to-untitled-men ratio of 1:3.7; a 1964 Sa'anapu
+  succession had 8 claimants).
+- **Competition and aggression** pervading social life: *fa'atau* oratorical contest, ritual
+  club-fighting, competitive church fund-raising, and (Freeman's 1960s statistics) assault and
+  homicide rates several times those of New Zealand, Australia, or the US; destructive historical
+  warfare (the A'ana war of 1830–31 with ~1,000+ deaths).
+- **A cult of virginity** across Western Polynesia: the *taupou* and ceremonial defloration,
+  brother-guardianship of sisters' chastity, and (his 1967 survey) ~73% of comparable girls
+  virgins — with high rates of *moetotolo* and forcible rape.
+- **Severe punishment and a two-sided character**: harsh corporal discipline (documented to age
+  18 months), an outward decorum (*fa'aaloalo*) masking suppressed rage (*musu*), and elevated
+  adolescent suicide.
+
+Freeman notes contemporaneous documents from Mead's own fieldwork window (e.g. Governor Bryan's
+Oct. 1926 report calling Samoans "innately and intensely religious"; the Mau political unrest of
+the 1920s) to argue Manu'a was neither placid nor irreligious in 1925–26. These are **Freeman's
+contested claims**, held here as one side of the [[mead-freeman-debate]] — not a wiki-voice
+correction of Mead. Record both, date-stamp both, adjudicate neither.
+
 ## Identity Cautions
 
 This page is **not** all Samoans, all times. It is Manu'a/Ta'ū as of Mead's fieldwork, filtered through an adolescence problem and a sample of girls. Tutuila, Western Samoa, and later decades require separate documentation. Culture ≠ language ≠ genes ≠ political nation; hybrid mission-naval conditions are part of the 1920s record, not "aboriginal Samoa" (Mead herself warned against that reading in Appendix III).
+
+## Update: *On the Road of the Winds* (Kirch 2017)
+
+*(Attributed — [[kirch-road-of-the-winds-2017|Kirch 2017]].)* Kirch's later synthesis
+dates Samoa's settlement to Eastern Lapita colonists arriving roughly **900–850 BC**,
+evidenced at the Mulifanua site. He identifies **Toʻaga** on Ofu, in the Manuʻa
+Archipelago documented on this page, as an important Ancestral-Polynesian-period
+occupation site bearing on the deep sequence behind the society Mead later described.
+Kirch notes that Margaret Mead's 1925–26 fieldwork was specifically sited on **Taʻū** in
+Manuʻa — the same locality this page documents. Following Kirch and Sahlins's
+comparative classification of Polynesian societies, Samoa is classed as **Stratified**,
+against Irving Goldman's earlier classification of Samoa as "Open." See
+[[ancestral-polynesian-society]].

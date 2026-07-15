@@ -5,10 +5,10 @@ region: [polynesia, oceania]
 language_affiliation: "Hawaiian (East Polynesian, Austronesian)"
 subsistence_economy: mixed
 kinship_system: "non-unilineal / cognatic 'ascent'; ranked chiefly genealogies (contested — see below); late prehistoric aliʻi / makaʻāinana class dualism (Kirch 1984)"
-documented_by: ["[[sahlins-islands-of-history-1985]]", "[[service-origins-state-1975]]", "[[flannery-marcus-creation-inequality-2012|Flannery & Marcus 2012 (comparative synthesis)]]", "[[kirch-evolution-polynesian-chiefdoms-1984|Kirch 1984 (archaeological–ethnohistoric synthesis)]]"]
+documented_by: ["[[sahlins-historical-metaphors-1981]]", "[[sahlins-islands-of-history-1985]]", "[[service-origins-state-1975]]", "[[flannery-marcus-creation-inequality-2012|Flannery & Marcus 2012 (comparative synthesis)]]", "[[kirch-evolution-polynesian-chiefdoms-1984|Kirch 1984 (archaeological–ethnohistoric synthesis)]]"]
 documentation_dates: "Cook-voyage contact 1778–1779 (primary); missionary-era sources 1820s–1840s; reconstructed by Sahlins 1985; Kamehameha-era unification and 1819 tabu-breaking as reconstructed by Service 1975; Kirch archaeological–ethnohistoric synthesis as of 1984; Flannery & Marcus 2012"
 endonym_exonym_note: "Kānaka Maoli / Kānaka ʻŌiwi (Native Hawaiians); 'Hawaiians' is the standard exonym. This page documents the late-18th-century contact-era social order as reconstructed ethnohistorically, not the living Kānaka Maoli people."
-sources_ingested: 4
+sources_ingested: 6
 last_updated: 2026-07-10
 tags: [society, polynesia, oceania]
 ---
@@ -44,6 +44,14 @@ Service described precontact Hawaii (population estimated 300,000–400,000 acro
 The primary documentation is the record of **Cook's two visits** — Kauaʻi (Jan.–Feb. 1778) and Hawaiʻi Island / Kealakekua Bay (Nov. 1778–Feb. 1779) — in the voyage journals (Beaglehole's edition) and later Hawaiian-authored and missionary texts. Sahlins reconstructs, attributed: Hawaiian priests identified Cook with the returning Lono during the Makahiki and welcomed him at the Hikiau temple; Hawaiian women's sexual overtures to the sailors were read by Sahlins as "a change of register" of the erotic ritual logic attending Lono (the *le calcul sauvage* of his title), not as prostitution — the women "were but little influenced by interested motives." When Hawaiian women ate with the sailors aboard ship they doubly violated the food *kapu* and "consumed the divinity of the foreigner," desecrating the British in Hawaiian eyes. Cook's ritually improper return **out of season** (after a broken foremast, Feb. 1779) recast him as an anomaly and threat to King Kalaniʻōpuʻu, precipitating his death on the beach at Kaʻawaloa on **14 February 1779** — a "dramatic structure with the properties of a ritual transformation" (see [[structure-of-the-conjuncture]]). Sahlins offered a "cultural solution" to the disputed identity of Cook's killer, eliminating commoners on ritual and status grounds (the iron dagger was a chiefly object) and naming the warrior-kinsman Nuha (Kanuha) the most probable — itself a contested historiographic attribution.
 
 Post-contact, Sahlins traced (elaborating his *Historical Metaphors and Mythical Realities*, 1981) a **structural transformation**: chiefs adopted European personae and luxury consumption (Kamehameha asking if he lived "just like King George"; notables taking names like "Billy Pitt," "Bonaparte"); commoners were excluded from imported goods; and *kapu* shifted from a religious restriction toward "a sign of a material and proprietary right" (the ancestor of modern Hawaiian "KAPU"/no-trespassing signs), "uniquely sacraliz[ing] the distinctions of class at the expense of gender."
+
+## Sahlins 1981 — the post-contact transformation in detail
+
+*(Attributed — [[sahlins-marshall|Sahlins]], *[[sahlins-historical-metaphors-1981|Historical Metaphors and Mythical Realities]]* (1981), now the primary ingested account of the 1778–1819 sequence sketched above.)*
+
+**Men, women, and chiefs engaged Europeans differentially, and the differences restructured the society.** From first contact commoner women sought sexual relations with the seamen — unmercenary at first by British witness (Cook, Samwell, Ellis); Sahlins reads the overtures through the *ʻimi haku* ("seeking a lord") complex and the *wāwahi* custom of offering daughters to ranking chiefs so that "the bones of the grandparents will live" ("the women gave themselves because they thought there was a god; while the British seamen took them because they had forgotten it"). Once Cook relaxed the shipboard prohibition (Dec. 1778), the relations were commodified: trade goods split into gendered categories (iron adzes as men's goods, bracelets and scissors as women's), male kin took adzes as "douceurs," and commoner men and women formed an economic solidarity **outside chiefly control** — returns partly concealable from the chiefs, persisting even during post-Cook hostilities. Chiefs, whose relation to trade Sahlins calls "total or cosmological" (commodities "more the economic means to political ends"), expropriated commoners' iron as *hoʻokupu*, monopolized the sandalwood trade (c. 1804–1828) as land-rent labor on pain of dispossession, and policed the ships with violence. The result: a "schismogenic cleavage" between commoners and chiefs, and the secularization of the foreigners — "when sacrifice turned into trade, the *haole* 'foreigners' turned into men" (though Cook himself was never so reduced, and European goods retained a superior [[mana]]). The traditional proportional series *men : women :: chiefs : commoners :: tabu : noa* broke: shared complicity in tabu violation erased the gender/tabu term while trade sharpened class — "It is not simply that values of given relationships... were revised. The relationship between such relationships was revised. Structure is revised."
+
+**The king's affines and the final crisis.** Kamehameha delegated trade and governorships to his wife Kaʻahumanu's kin (her father Keʻeaumoku; brothers "George Cox" Kahekili Keʻeaumoku and "John Adams" Kuakini; collaterals "Billy Pitt" Kalanimoku and Boki) while keeping his own collateral line poor and marginal — Sahlins likens it to "the Machiavellian principle of ruling by servants rather than by barons," since closest-ranked collateral cadets are the legitimate usurpers of Hawaiian myth (the ʻUmi paradigm). The Europeanized affines held the tabus in open contempt (Golovnin, Corney); Kalanimoku and Boki took Catholic baptism aboard the *Uranie* (Aug. 1819); Kamehameha himself kept his gods ("I follow my faith, which cannot be wicked, as it commands me never to do wrong," per Kotzebue). After Kamehameha's death (8 May 1819) Kaʻahumanu proclaimed joint rule and free eating; Liholiho's public meal with chiefly women (19 Nov 1819) formalized the *ʻai noa*; the war god's inheritor Kekuaokalani — the collateral line's champion, cast as defender of tradition — died at Kuamoʻo in December, his side outgunned by sandalwood-financed muskets. Sahlins reads 1819 as a structural **inversion that kept faith with the old system**: the wife-givers, "traditionally the native victims of a foreign usurpation," now ruled by external (European) *mana*, and the abolition itself was a ritual act — a prolongation of Kamehameha's death ceremonies, when tabus are customarily suspended — with Christian tabus restored within a few years under Bingham as the rulers' *kahuna nui*, and Kauikeaouli's 1829–1834 counter-noa rebellions (hula revival, the ritually sinister counter-clockwise circuit of Oahu, public incest with his sister) as further permutations of the same structure. See [[taboo]], [[structure-of-the-conjuncture]].
 
 ## Representation Debates
 
@@ -239,3 +247,18 @@ locked out a magazine economy → **peripatetic chieftainship**; Tonga ruled out
 → intensive dryfield yams + magazine economy; Rapa Nui faced severe constraints barring
 most intensification. Hierarchy and surplus demand were ancestral, not functional
 inventions of irrigation management.
+
+## Update: *On the Road of the Winds* (Kirch 2017)
+
+*(Attributed — [[kirch-road-of-the-winds-2017|Kirch 2017]].)* Kirch's later synthesis
+revises Hawaiian settlement to a **short chronology of roughly AD 1000** (down from the
+~AD 300 estimate reported in his 1984 volume above), part of a wider Polynesia-wide
+downward revision of first-colonization dates. He continues to advance the **[[archaic-state|archaic
+state]]** thesis for late prehistoric Hawaiʻi, anchored in the *ahupuaʻa* land system and
+the *kapu* system (see [[taboo]]) as instruments of chiefly control. Following Sahlins's
+"from kinship to kingship" formulation (in Kirch and Sahlins 1992), he reads Kamehameha's
+post-1778 conquest unification as the culmination — not the origin — of this
+[[state-formation|state-formation]] trajectory. He notes, without resolving, the
+continuing dispute over contact-era population: Schmitt's demographic estimate of roughly
+250,000–300,000 against Stannard's claim of 800,000 or more — an open historiographic
+question, not a settled figure.

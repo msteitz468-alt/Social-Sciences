@@ -8,8 +8,8 @@ kinship_system: "matrilineal clans/sub-clans with totemism; mother's brother imp
 documented_by: ["[[malinowski-argonauts-study]]", "[[malinowski-coral-gardens-study]]", "[[weiner-women-of-value-study]]"]
 documentation_dates: "1915–1918 (Malinowski principal fieldwork; *Argonauts* 1922; *Coral Gardens* 1935 both vols.); 1971–72 (Weiner, Kwaibwaga village)"
 endonym_exonym_note: "Literature uses Trobriand Islanders / Boyowans; districts include Kiriwina, Sinaketa, Vakuta, Kitava, etc. Endonyms and island names as in Malinowski 1922/1935. Language: Kiriwinian (Boyowan / Kilivila) as recorded in Coral Gardens."
-sources_ingested: 4
-last_updated: 2026-07-09
+sources_ingested: 5
+last_updated: 2026-07-10
 tags: [society, melanesia]
 ---
 
@@ -67,3 +67,7 @@ The Trobriands became anthropology's type-case for gift exchange, matriliny, mag
 ## Identity Cautions
 
 "Trobriand Islanders" is a regional ethnographic label covering multiple ranked districts and villages, not a single political nation. Neighboring Massim peoples (Amphletts, Dobuans, Kitavans, etc.) are distinct Kula partners, not subsumed under Boyowa. Do not equate the 1915–18 ethnographic portrait with later or present populations without new documentation — the society Weiner documented in 1971–72 already differed markedly. Magical systems and *urigubu* semantics varied by district (Malinowski noted North/South shifts).
+
+## From Leach, *Rethinking Anthropology* (1961)
+
+*(Attributed — Leach reanalyzing Malinowski.)* Type extreme on the paternity/affinity continuum: child substance from mother; father as non-relative / mother’s husband; father–son likened to male cross-cousins and brothers-in-law; *urigubu* harvest gifts as affine-like/political. Used to attack universal “sociological paternity” and Fortes [[complementary-filiation]] as ethnocentric category-fitting. Powell (1956) and Leach (1958) on defective FZD-marriage evidence (Homans & Schneider). Source: [[leach-rethinking-anthropology-1961]]; date-stamp remains Malinowski 1915–18 ethnography unless otherwise noted.

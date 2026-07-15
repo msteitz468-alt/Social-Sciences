@@ -6,10 +6,10 @@ date_birth: "1923-02-01"
 date_death: "1999-03-06"
 date_precision: exact
 disciplines: [anthropology, political-anthropology, history]
-key_works: ["[[wolf-peasants-1966|Peasants (1966)]]", "Peasant Wars of the Twentieth Century (1969)", "[[wolf-europe-people-without-history-1982|Europe and the People Without History (1982)]]", "Sons of the Shaking Earth (1959)", "closed corporate peasant community papers (1955, 1957)"]
+key_works: ["[[wolf-peasants-1966|Peasants (1966)]]", "[[wolf-peasant-wars-1969|Peasant Wars of the Twentieth Century (1969)]]", "[[wolf-europe-people-without-history-1982|Europe and the People Without History (1982)]]", "Sons of the Shaking Earth (1959)", "closed corporate peasant community papers (1955, 1957)"]
 key_concepts: ["[[peasant]]", "[[people-without-history]]", "[[tributary-mode-of-production]]", "[[kin-ordered-mode-of-production]]", "[[social-labor]]", "[[closed-corporate-peasant-community]]", "[[fund-of-rent]]"]
 fieldwork_sites: ["Puerto Rico (late 1940s)", "Mesoamerica (comparative peasantry)"]
-primary_sources: ["Europe and the People Without History (UC Press 1982/1997/2010)", "Peasants (1966)"]
+primary_sources: ["Europe and the People Without History (UC Press 1982/1997/2010)", "Peasants (1966)", "Peasant Wars of the Twentieth Century (1969)"]
 key_sources: ["Eriksen 2010 foreword", "Wolf 1997 preface"]
 last_updated: 2026-07-09
 tags: [hub, thinker-analysis]
@@ -17,7 +17,7 @@ tags: [hub, thinker-analysis]
 
 # Eric R. Wolf — Deep Analysis
 
-> Thinkers Hub deep analysis. Summary: [[wolf-eric-r]]. Primary densification from *[[wolf-peasants-1966|Peasants]]* and *[[wolf-europe-people-without-history-1982|Europe and the People Without History]]*.
+> Thinkers Hub deep analysis. Summary: [[wolf-eric-r]]. Primary densification from *[[wolf-peasants-1966|Peasants]]*, *[[wolf-peasant-wars-1969|Peasant Wars]]*, and *[[wolf-europe-people-without-history-1982|Europe and the People Without History]]*.
 
 ## Formation and Training
 
@@ -47,7 +47,7 @@ Wolf's distinctive move is to **keep mode-of-production analysis while insisting
 ## Career Phases
 
 1. **Field and early comparative Mesoamerica / Puerto Rico (late 1940s–1950s)** — closed corporate peasant community papers; *Sons of the Shaking Earth* (1959).
-2. **Peasant synthesis (1960s)** — *Peasants* (1966) Foundations primer; *Peasant Wars of the Twentieth Century* (1969; not yet primary-ingested).
+2. **Peasant synthesis (1960s)** — *Peasants* (1966) Foundations primer; *[[wolf-peasant-wars-1969|Peasant Wars of the Twentieth Century]]* (1969; primary-ingested 2026-07-10 — [[wolf-peasant-wars-study]] / [[hubs/studies/wolf-peasant-wars-study]]).
 3. **Global historical political economy (1970s–1982)** — composition of *EPWH* (preface dates writing 1974–1981); three-mode global ethnohistory.
 4. **Clarification and reception (1997–2010)** — 1997 preface (title irony, Systems vs Promethean Marxism, culture); 2010 Eriksen foreword for a new generation of global anthropology.
 
@@ -58,7 +58,7 @@ Wolf's distinctive move is to **keep mode-of-production analysis while insisting
 | Closed corporate community papers | 1955, 1957 | Corporate peasant community as structural form under pressure | Absorbed into peasant studies |
 | *Sons of the Shaking Earth* | 1959 | Mesoamerican culture history synthesis | Regional classic |
 | *Peasants* | 1966 | Peasant as surplus-transfer type; funds, domain, ecotypes, coalitions | Series charter; development-era language dated |
-| *Peasant Wars* | 1969 | Twentieth-century peasant revolutions comparatively | Still to densify from primary |
+| *Peasant Wars* | 1969 | Twentieth-century peasant revolutions comparatively; middle-peasant / tactical-mobility thesis | Primary-ingested; study + Studies Hub 2026-07-10 |
 | *Europe and the People Without History* | 1982 | Global interconnection; three modes; people without history critique | Field-reorganizing; charges of economism |
 | Prefaces / afterlife | 1997, 2010 | Clarifies irony, Marxian tools, culture-as-process | Canonical with the book |
 
@@ -100,6 +100,11 @@ Wolf's distinctive move is to **keep mode-of-production analysis while insisting
 ### Peasants (1966) — mechanics
 
 *Peasants* defines the peasant against both the "primitive" producer who controls means of production ([[sahlins-marshall|Sahlins]] as foil) and the capitalist farmer who runs a business. Four fund categories (caloric minimum, replacement, ceremonial, rent) turn the household budget into a political-economic object. Domain types (patrimonial, prebendary, mercantile) organize surplus extraction; ecotypes organize energy capture; coalitions organize social tactics; movements express opposition that usually needs external professional staff for revolutionary strategy. The book is short, pedagogical, and openly synthetic — a Foundations series primer for development practitioners as much as anthropologists. Its development-era diction ("backwardness") is the language of the foil, not Wolf's endorsement of empty-void modernization.
+
+
+### Peasant Wars (1969) — mechanics
+
+*Peasant Wars* scales the 1966 peasant type into comparative revolutionary history under the Vietnam War’s civic pressure (Michigan teach-in origin). Method: secondary-source synthesis of six cases (Mexico, Russia, China, Viet Nam, Algeria, Cuba); anthropological disaggregation of peasant subtypes; microsociology of regions; mediating groups. Analytic payoff in the Conclusion: North Atlantic capitalism’s fictitious commodities (land/labor/wealth) cut the integument of custom; [[middle-peasant]] and free/peripheral poor hold [[tactical-mobility]] in fields of power (Adams); culturally traditional middle peasants paradoxically dynamite the peasant order; peasants alone cannot make revolution (“natural anarchists”); army vs party paths convert rebellion into seizure. Study summary: [[wolf-peasant-wars-study]]; deep analysis: [[hubs/studies/wolf-peasant-wars-study]].
 
 ### Europe and the People Without History (1982) — mechanics
 
@@ -204,7 +209,7 @@ The ritual citation risk is real: the book can be reduced to a slogan. The wiki 
 Read as a trilogy of escalating scale:
 
 - *Peasants*: household and community under domain;
-- *Peasant Wars*: national and revolutionary conjuncture (pending primary ingest);
+- *Peasant Wars*: national and revolutionary conjuncture (primary-ingested 2026-07-10); middle-peasant + tactical-mobility; six cases; capitalism as radical cultural system;
 - *EPWH*: world-historical field of force.
 
 Concepts travel upward: fund of rent → tributary extraction; closed corporate community → colonial Indian communities and defensive peasantries; coalitions → middleman and ethnic labor segments. The peasant is not abandoned; the peasant is revealed as one moment in tributary and then capitalist articulations.
@@ -241,7 +246,7 @@ This sequence is pedagogical architecture as much as research design. It explain
 
 ## Limits of This Hub Entry
 
-Built from two primary ingests (*Peasants*, *EPWH*) plus Eriksen's foreword. Missing for graduate-level completeness: *Peasant Wars* primary, *Sons of the Shaking Earth*, full 1950s papers, interviews/archives, book-length biographies, systematic citation analysis of reception. When those enter the collection, expand Career Phases and Historiography rather than rewriting the conceptual core.
+Built from two primary ingests (*Peasants*, *EPWH*) plus Eriksen's foreword. Densified from *Peasant Wars* primary (2026-07-10). Still missing for full completeness: *Sons of the Shaking Earth*, full 1950s papers, interviews/archives, book-length biographies, systematic citation analysis of reception. When those enter the collection, expand Career Phases and Historiography rather than rewriting the conceptual core.
 
 ## Cross-Vault Note
 
@@ -284,7 +289,7 @@ Beyond [[chagnon-napoleon]] (recorded on the summary page), the 1982 preface tha
 
 ## Final Assessment for the Hub
 
-Wolf is a **discipline-maker** under this hub's selection criteria: he reorganized the unit of analysis for a generation of historical and political anthropologists, supplied a durable conceptual toolkit (people without history; three modes; mercantile wealth vs capital-in-production), and linked peasant microanalysis to global commodity and labor history. The summary page carries the network skeleton; this hub carries the argumentative depth. Further primary ingests (*Peasant Wars*, early Mesoamerican books) should densify Career Phases without overturning the conceptual architecture recorded here.
+Wolf is a **discipline-maker** under this hub's selection criteria: he reorganized the unit of analysis for a generation of historical and political anthropologists, supplied a durable conceptual toolkit (people without history; three modes; mercantile wealth vs capital-in-production), and linked peasant microanalysis to global commodity and labor history. The summary page carries the network skeleton; this hub carries the argumentative depth. Further primary ingests (early Mesoamerican books, biographies) should densify Career Phases without overturning the conceptual architecture recorded here.
 
 
 
@@ -326,7 +331,7 @@ Eric Wolf's durable contribution is not a single ethnographic discovery but a **
 
 ## Historiography and Primary Sources
 
-Vault primary densification: *Peasants* (1966 OCR) and *EPWH* (2010 UC Press epub → text, full word count). Pending: *Peasant Wars*, *Sons of the Shaking Earth*, full closed-corporate papers, secondary biographies and archival studies. Reception entry points: Wolf 1997 preface; Eriksen 2010 foreword.
+Vault primary densification: *Peasants* (1966 OCR) and *EPWH* (2010 UC Press epub → text, full word count). Pending: *Sons of the Shaking Earth*, full closed-corporate papers, secondary biographies and archival studies. Reception entry points: Wolf 1997 preface; Eriksen 2010 foreword.
 
 
 
@@ -363,7 +368,7 @@ Wolf is the anthropologist who made interconnection non-optional: after *Europe 
 
 ## Hub Maintenance
 
-When *Peasant Wars* or a scholarly biography is ingested, extend Career Phases and Intellectual Genealogy; do not dilute the three load-bearing passages or the misreadings checklist. Word-count and section completeness for this hub follow `templates/thinker-analysis-template.md` and CLAUDE.md Thinkers Hub criteria.
+*Peasant Wars* primary densification applied 2026-07-10 (Career Phases, Major Works table, Relationship section). When a scholarly biography is ingested, extend Intellectual Genealogy further; do not dilute the three load-bearing EPWH passages or the misreadings checklist. Word-count and section completeness for this hub follow `templates/thinker-analysis-template.md` and CLAUDE.md Thinkers Hub criteria.
 
 ## Links
 

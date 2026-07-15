@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "cosmological regime of one interiority/soul and many bodies/natures; the structural inverse of Western multiculturalism (one nature, many cultures)"
 contested: yes
 related_concepts: ["[[perspectivism]]", "[[animism]]", "[[nature-culture-distinction]]", "[[four-ontologies]]", "[[controlled-equivocation]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept, anthropology]
 ---
 
@@ -28,6 +28,10 @@ The term is deliberately built as the mirror of "multiculturalism." Viveiros de 
 ## Operationalizations
 
 In Viveiros de Castro's two-schema contrast: (1) Amerindian multinaturalism = **metaphysical continuity** (a generic, shared soul/interiority across species) combined with **physical discontinuity** (species-specific bodies); (2) modern multiculturalism = physical continuity (shared corporeal matter/biology) combined with metaphysical discontinuity (humans set apart by spirit, mind, or culture). The "body" that individuates each nature is not physiology but a "bundle of affects and capacities" — a habitus or *ethogram* (see [[perspectivism]]).
+
+## Antecedents in the Araweté Ethnography (1992)
+
+Viveiros de Castro's Araweté monograph, *[[viveiros-de-castro-enemys-point-of-view-1992|From the Enemy's Point of View]]* (1992 [1986]), predates the "multinaturalism" vocabulary (coined 1996/1998), but already runs on what he calls "an inversion of perspectives" between human and divine viewpoints — for instance in his reading of raw/cooked and cannibal/cooked-flesh distinctions as varying by whether they are seen from the human or the Maï (divine) side, rather than resting on one shared nature differently interpreted (attributed, Viveiros de Castro 1992).
 
 ## Applications
 

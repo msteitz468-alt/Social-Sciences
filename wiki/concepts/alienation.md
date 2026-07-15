@@ -7,9 +7,9 @@ disciplines: [sociology]
 emic_or_etic: etic
 operationalized_as: "generally not quantified; identified through separation of the worker from the product, the act of production, species-being, and other workers; later survey scales (powerlessness, meaninglessness, self-estrangement) attempt measurement"
 contested: yes
-related_concepts: ["[[commodity-fetishism]]", "[[labor-power]]", "[[personality-market]]", "[[craftsmanship]]", "[[the-big-split]]", "[[rationalization]]", "[[emotional-labor]]", "[[commercialization-of-feeling]]", "[[salvage-accumulation]]", "[[commoditization]]"]
-sources_ingested: 3
-last_updated: 2026-07-09
+related_concepts: ["[[commodity-fetishism]]", "[[labor-power]]", "[[personality-market]]", "[[craftsmanship]]", "[[the-big-split]]", "[[rationalization]]", "[[emotional-labor]]", "[[commercialization-of-feeling]]", "[[salvage-accumulation]]", "[[commoditization]]", "[[theoretical-anti-humanism]]", "[[epistemological-break]]"]
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -78,3 +78,7 @@ distorting it, and stretched to cover disparate phenomena. Mills's psychologized
 alienation as self-estrangement in the personality market — is powerful but interpretive, and
 shares the romantic vulnerability of the [[craftsmanship]] ideal against which he measured it.
 The concept is written in attributed voice throughout.
+
+### Althusser’s demotion (*For Marx*, 1965)
+
+*(Attributed — [[althusser-louis|Althusser]], *[[althusser-for-marx-1965|For Marx]]*; Glossary.)* Alienation is an **ideological concept** of Marx’s Early Works, derived from Feuerbach’s anthropology and treated by partisans of those works as the key of Marxism. In the later works it appears rarely, often ironically or with a different conceptual content. The 1844 Manuscripts place alienated labour under a Man-essence philosophy — Marx “furthest from Marx,” on the threshold of the [[epistemological-break]], not the secret of *Capital*. Theoretical anti-humanism refuses alienation-as-essence as foundation of historical science ([[theoretical-anti-humanism]]; [[marxist-humanism-debate]]). This is a **position** in the reception of Marx, not a wiki-voice cancellation of 1844’s historical importance.

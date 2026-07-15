@@ -8,7 +8,7 @@ emic_or_etic: etic
 operationalized_as: "Post-Classic nuclear American stage: breakdown of Classic regional styles, continued/increased urbanism, militarism and secularism trends; ends with Spanish conquest"
 contested: yes
 related_concepts: ["[[classic-stage]]", "[[formative-stage]]", "[[state-formation]]", "[[urbanization]]"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [concept, archaeology]
 ---
@@ -50,3 +50,23 @@ Standard Mesoamerican period term; W&P extend the developmental reading (militar
 ## Critiques and Limitations
 
 “Aesthetic decline” and secularization are value-laden readings. Migration+military mechanisms for style transfer are hypotheses. Scheme ends with conquest — colonial archaeology is outside their stage series. As with Classic, limited applicability outside nuclear America.
+
+## Coe & Koontz (2013)
+
+Coe & Koontz's Mesoamerican Post-Classic material corroborates and sharpens the
+militarism/secularism trend Willey & Phillips identified. The Post-Classic heightened
+the preceding Epiclassic's militarism, with warrior orders (coyote, jaguar, eagle)
+taking totemic animal names, and new trans-regional alliances and trade reaching the
+Maya area, Central America, and the US Southwest (attributed periodization content, see
+[[cultures/toltec-culture]] and [[sites/casas-grandes]]). Coe & Koontz characterize the
+period as one of rapid formation and dissolution of small, aggressive conquest states,
+in which groups of different speech sometimes united into single states — a period for
+which historical annals exist rather than archaeology alone (attributed).
+
+Metallurgy, introduced in the Epiclassic, continued spreading in the Post-Classic but
+remained largely restricted to ornaments (lost-wax cast bells); metal tools and celts
+were rare and had little effect on the native, essentially Neolithic tool-kit — a
+contrast Coe & Koontz draw explicitly with South America and the Old World. Turquoise
+became a prestige stone in this period, paralleling jade, originating from the north/west
+(see [[sites/casas-grandes]]) and adopted across Mesoamerica (see [[cultures/tarascan-kingdom]],
+[[cultures/toltec-culture]]).

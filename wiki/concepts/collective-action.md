@@ -7,9 +7,9 @@ disciplines: [sociology, political-sociology]
 emic_or_etic: etic
 operationalized_as: "Joint action in pursuit of common ends; extent as function of interests, organization, mobilization, opportunity (Tilly 1978, attributed)"
 contested: yes
-related_concepts: ["[[mobilization]]", "[[polity-model]]", "[[repertoire-of-contention]]", "[[collective-violence]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[mobilization]]", "[[polity-model]]", "[[repertoire-of-contention]]", "[[collective-violence]]", "[[free-rider-problem]]", "[[selective-incentives]]", "[[latent-group]]", "[[collective-action-theory]]"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -22,6 +22,8 @@ tags: [concept]
 ## Semantic History
 
 Older uses in economics (public goods, free-rider) and sociology (crowd, social movement) diverge. Tilly's political-process definition centers **contention with governments and contenders**, not only voluntary association or irrational crowd behavior.
+
+The rival economic strand descends from [[olson-mancur|Mancur Olson]]'s *[[olson-logic-collective-action-1965|The Logic of Collective Action]]* (1965), which treats collective action not as a given but as a *problem*: rational members of a large [[latent-group|latent group]] will not voluntarily contribute to a shared [[public-good|collective good]] (the [[free-rider-problem]]), so action requires [[selective-incentives|selective incentives]] or coercion. This [[collective-action-theory|Olsonian programme]] and Tilly's political-process tradition frame the same word from opposite starting points — Olson asks why collective action is so *rare*, Tilly's mobilization models ask how its *extent* varies — and much subsequent social-movement theory (resource mobilization) can be read as an answer to Olson.
 
 ## Operationalizations
 

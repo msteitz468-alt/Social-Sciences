@@ -8,8 +8,8 @@ emic_or_etic: migrated
 operationalized_as: "In Evans-Pritchard's Azande account: inherent organic substance (mangu) enabling psychic injury without rite or spell — contrasted with sorcery (rites + bad medicines); diagnosed situationally by oracles"
 contested: yes
 related_concepts: ["[[magic]]", "[[poison-oracle]]", "[[second-spear]]", "[[sympathetic-magic]]", "[[cross-cutting-conflicts]]", "[[feud]]"]
-sources_ingested: 3
-last_updated: 2026-07-09
+sources_ingested: 5
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -53,6 +53,18 @@ Primary type-case: [[azande]] via [[evans-pritchard-witchcraft-oracles-magic-stu
 ### Gluckman densification (*Custom and Conflict*, 1955/56)
 
 In Lecture IV, [[gluckman-max|Gluckman]] restated Evans-Pritchard’s intellectual logic (why this person’s misfortune; moral theory of the witch; oracles; secondary elaboration) and pushed a **sociological** thesis: accusations arise only in *certain* relationships, enabling fission and readjustment when contradictory principles clash (e.g. Zulu co-wives as mystical scapegoats for agnatic competition). He analogized modern “witch-hunts” that blame categories of persons for structural ills. Study: [[gluckman-custom-and-conflict-study]].
+
+### *Politics, Law and Ritual* (1965), Ch. VI
+
+*(Attributed — *[[gluckman-politics-law-ritual-1965|Politics, Law and Ritual]]*).* Full textbook treatment: witches vs sorcerers; **women witches** and patriliny (Zulu, Yao, Nupe comparisons); ancestral spirits as second class of mystical agents; **selective** role of divination/oracles; **why belief?** — hazard of life under moral order (Fortes/E-P APS frame); **[[extended-case-method]]** via Mitchell Yao accusation histories and Turner social dramas as the proper method for studying accusation process; summary linking law and ritual as complementary control systems. Negative cases and social-vs-psychical interpretation debates flagged.
+
+### Zulu accusation pattern and colonial-era witch-cleansing (*Order and Rebellion in Tribal Africa*, 1963)
+
+*(Attributed — [[gluckman-max|Gluckman]].)* Among the [[zulu|Zulu]], witchcraft suspicion fell disproportionately on women, whom Gluckman links to their structurally ambivalent, ritually dangerous position (menstrual danger, capriciously evil female ancestral spirits, susceptibility to "sexual familiars"); most accusations ran between fellow-wives, sisters-in-law, and daughters-in-law, and Gluckman argues men voiced accusations against each other indirectly, through their wives, because direct accusation between agnatically-linked men was structurally precluded. In "The Magic of Despair" (broadcast 1954), Gluckman documents a rise across colonial South and Central Africa in witchcraft fears and accusations, and in anti-witchcraft "witch-cleansing" movements, as tribal religious ritual weakened under urbanization and colonial rule — citing [[richards-audrey|Audrey Richards]]'s "A Modern Movement of Witchfinders" (*Africa*, 1935) as documenting one such movement, and his own prediction (drawing on [[evans-pritchard-e-e|Evans-Pritchard]] and Stayt) that colonial bans on open witchcraft accusation would increase recourse to protective/counter-magic instead — a prediction he reports as confirmed in the tribes he studied.
+
+### Hubert & Mauss on accusation vs. practice (1902–03; attributed)
+
+In *[[mauss-general-theory-magic-1902|A General Theory of Magic]]*, [[hubert-henri|Hubert]] and [[mauss-marcel|Mauss]] anticipated the sociological accusation literature: women's magical reputation "derive[s] primarily from their social position and consequently [is] more talked about than real… it is the men who perform the magic while women are accused of it," and the female preponderance in medieval trial records reflects "social prejudices which the Inquisition exploited and encouraged," not practice rates. They read the medieval witchcraft epidemics as showing "the extent to which fantastic social passion can be excited" — collective sentiment producing both witches and accusers (witches recruiting proselytes during trial waves; cases cited: Jean Michel, Bourges 1623; Marie-Anne de la Ville, 1711). See [[mauss-hubert-general-theory-magic-study]].
 
 ## Critiques and Limitations
 

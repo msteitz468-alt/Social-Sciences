@@ -15,8 +15,8 @@ key_findings:
   - "Sample: 68 girls ~9–20 in three Ta'ū villages (~600 people); 50 studied in detail (28 pre-puberty / 14 near / 25 post-puberty groups with detail on latter two plus 11 younger)."
 concepts_introduced: ["[[adolescence]]", "[[storm-and-stress]]"]
 replication_status: reanalyzed-contested
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [study, anthropology]
 ---
 
@@ -60,7 +60,26 @@ All findings **attributed** (Mead 1928; fieldwork 1925–26):
 
 ## Critiques, Reanalyses, and Replications
 
-`replication_status: reanalyzed-contested`. Principal afterlife: [[mead-freeman-debate]]. Challenges target sexual freedom claims, informant reliability, language/depth, sample and duration, anonymization, and culture-over-biology inference. Mead 1973: date-stamp 1926–28; protective name changes; refusal to revise the ethnographic body. Freeman primary texts not yet ingested — record as open positions.
+`replication_status: reanalyzed-contested`. Principal afterlife: [[mead-freeman-debate]].
+Challenges target sexual freedom claims, informant reliability, language/depth, sample and
+duration, anonymization, and culture-over-biology inference. Mead 1973: date-stamp 1926–28;
+protective name changes; refusal to revise the ethnographic body.
+
+**Freeman's refutation** (*[[freeman-margaret-mead-and-samoa-1983|Margaret Mead and Samoa]]*,
+1983; now ingested — attributed): a chapter-by-chapter counter-ethnography arguing the book is
+"an anthropological myth" and that Samoa is no "negative instance." Freeman's reconstruction of
+the fieldwork *as conducted* is the sharpest challenge to this study's design: age 23; a
+half-hour Boas briefing with instruction "not [to] waste time doing ethnography"; ~10 weeks'
+language study; residence with the American Holt family at the naval dispensary rather than a
+Samoan household; the adolescence research compressed into "little more than three months"
+(disrupted by the 1 Jan 1926 hurricane) before she shifted to general ethnology; and reliance on
+~25 adolescent-girl informants through whom she saw "life through the eyes" of that group.
+Freeman also turns Mead's own data against her (Table 1's virgin and pastor-household entries;
+her descriptions of "fury" and "frenzy") and re-reads her 4 "delinquents" + 3 "upward deviants"
+as 28% of the sample. The **restudy record cuts both ways**: Holmes (1954 Manu'a) found much "at
+variance" with Mead yet rated her reliability "remarkably high." All of this is **contested** —
+Freeman's own Western-Samoa, later-decade evidence base is itself a debate front. Record as
+positions; see [[mead-freeman-debate]] and [[freeman-derek]].
 
 ## Current Standing
 

@@ -5,13 +5,13 @@ date_death: "1956"
 disciplines: [anthropology]
 era: [fieldwork-revolution, postwar-expansion]
 affiliated_theories: ["[[structural-functionalism]]"]
-trained_under: ["[[unknown]]"]
+trained_under: ["[[malinowski-bronislaw]] (LSE; psychology/philosophy Vienna prior)"]
 trained: ["[[unknown]]"]
-key_works: ["[[fortes-evans-pritchard-african-political-systems-1940|Kede chapter in African Political Systems (1940)]]", "[[radcliffe-brown-forde-african-systems-kinship-marriage-1950|Nuba dual descent chapter in African Systems of Kinship and Marriage (1950)]]"]
-key_concepts: ["[[the-state]]", "[[chieftainship]]", "[[mystical-values-of-office]]", "[[double-descent]]", "[[unilineal-descent]]"]
+key_works: ["[[fortes-evans-pritchard-african-political-systems-1940|Kede chapter in African Political Systems (1940)]]", "[[radcliffe-brown-forde-african-systems-kinship-marriage-1950|Nuba dual descent chapter in African Systems of Kinship and Marriage (1950)]]", "The Foundations of Social Anthropology (1951)", "Anthropology and Modern Life (1953)"]
+key_concepts: ["[[the-state]]", "[[chieftainship]]", "[[mystical-values-of-office]]", "[[double-descent]]", "[[unilineal-descent]]", "[[applied-anthropology]]"]
 fieldwork_sites: ["Nupe / Kede, Northern Nigeria (1930s)", "Nuba Hills, Sudan (Nyaro, Tullishi; linked to *The Nuba*, 1947)"]
-sources_ingested: 3
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [thinker, anthropology]
 ---
 
@@ -70,3 +70,13 @@ Links: [[nuba]] · [[double-descent]] · [[unilineal-descent]] · [[yako]] · [[
 ## Colonial applied career (Faris in Asad ed. 1973)
 
 James Faris, "Pax Britannica and the Sudan: S. F. Nadel," in *[[asad-anthropology-colonial-encounter-1973|Anthropology and the Colonial Encounter]]*, reconstructs Nadel as an explicit **applied colonial anthropologist**: IAI/Rockefeller Nigeria work (from 1932); Sudan appointment (1938) on Nuba control, Closed Districts, and Islam-buffer policy; Eritrea (1941); government-oriented reports; interview techniques Faris reads as bullying under police-backed access; functionalism as ideology of control under *pax Britannica* assumptions of "maladjustment." Position on [[anthropology-and-colonialism-debate]] — Faris's hard structural-complicity reading, not wiki-voice verdict. Cross-ref [[indirect-rule]], [[applied-anthropology]], [[structural-functionalism]].
+
+
+## From Kuper, *Anthropology and Anthropologists* (2015)
+
+*(Attributed — [[kuper-adam|Kuper]] 2015; source [[kuper-anthropology-and-anthropologists-2015]].)*
+
+- **Formation.** Studied psychology and philosophy at Vienna (musician: Busoni biography; opera company) before LSE; Fortes memoir of Nadel cited. With Fortes and Hofstra, Malinowski’s derided “Mandarins” in the seminar. IAI research fellow from 1931 (with Fortes among the first “Mandarins”).
+- **Applied chores and EP’s suspicion.** Kuper: IAI fellows did little real applied work as career path; Nadel’s duties included “pagan courts” alongside Islamic courts in northern Nigeria, economic data for tax policy, and Sudan suggestions to make Nuba more amenable to colonial overrule — leading [[evans-pritchard-e-e|Evans-Pritchard]] to suspect Nadel might be angling for a colonial-service job. Such studies generally done as temporary diversions from “real work.”
+- **1955 lecture attack.** After Nadel lectured on [[applied-anthropology]] in London in 1955, West African students in the audience violently attacked him, fellow workers, and anthropology generally, charging that they played into reactionary administrators’ hands and lent scientific sanction to a policy meant to “keep the African down” (Kuper cites Nadel, *Anthropology and Modern Life*, 1953). Emblematic opening of Kuper’s colonialism chapter for the 1960s African-intellectual critique of the discipline.
+- **Theory 1951.** *The Foundations of Social Anthropology* — Weberian sociology themes (largely ignored by British social anthropologists); social-psychology background; Malinowskian message of institutions mutually adjusted to basic needs / “innate action potentials”; purpose, utility, and personal networks over structural constraints — part of LSE’s neo-Malinowskian challenge to Oxford [[structural-functionalism]] alongside Firth’s *Elements of Social Organization*. Postwar LSE lineup with Firth, Richards, Schapera, Mair, Leach.

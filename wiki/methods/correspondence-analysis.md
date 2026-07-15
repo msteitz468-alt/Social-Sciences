@@ -7,8 +7,8 @@ date_introduced: "mid-20th c. (Benzécri geometric data analysis tradition in Fr
 supersedes: ["[[unknown]]"]
 epistemic_leverage: "Maps associations among categorical variables as a low-dimensional geometric space; suited to relational class-fraction and lifestyle analysis without treating variables as independent 'factors'"
 key_limitations: ["Interpretive loading of axes", "sensitivity to coding and active vs illustrative variables", "does not by itself establish causation", "can redescribe the coding scheme as discovery"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [method]
 ---
 
@@ -40,3 +40,26 @@ Developed in French *analyse des données*; Bourdieu’s use in *Distinction* (a
 ## Debates
 
 Whether MCA **discovers** structure or **projects** Bourdieu’s class theory onto data; transparency of active/illustrative choices; comparability across national coding schemes.
+
+## Structural Sampling — *The State Nobility* (1989)
+
+*[[bourdieu-state-nobility-study|The State Nobility]]*'s "On Method" appendix is one of
+Bourdieu's most explicit first-person statements of the method's logic (attributed). Field
+construction is the prior operation: "constructing the space of establishments... meant
+constructing the system of the criteria that could account for the set of meaningful and
+significant differences" — not the oppositions "that first come to mind." **Random sampling is
+explicitly rejected for field analysis**: "the ordinary procedures of random sampling are
+completely inadequate, since, through the very operation of random choice, there is every
+possibility that certain crucial elements in the objective structure will be missed" —
+representativity is redefined as **structural homology** to the field, not statistical
+representativeness of a population (sharpened by fields where a structural position is held by a
+single individual). Practical apparatus: comparability privileged over idiographic questions;
+triangulation with ethnographic interviews and institutional documents; positions inferred
+relationally where direct measurement was forbidden (Polytechnique's military administration
+banned political questions); nonresponse bias reported candidly as socially patterned. The three
+linked analyses (84 institutions / 21 schools / 8 top schools plus a space of position-takings,
+1965–69) and the 1972 CEO analysis are the exemplary applications alongside *Distinction*.
+
+## Indicator Selection and Pruning — *Homo Academicus* (1984)
+
+*[[bourdieu-homo-academicus-study|Homo Academicus]]* is a second landmark application: a multiple correspondence analysis of French university professors mapping the [[academic-field|academic field]] as a relational space of faculties, capitals, and dispositions. Its methodological appendix (Anexo 1) is unusually candid about how the active-variable set for the MCA was assembled, and stands as a general caution for the method (attributed to Bourdieu 1984). Indicator selection was iterative, and **pruning was itself methodologically significant**: several theoretically strong indicators — thesis-supervision ties, CNRS commission membership, a cumulative left/right political index — were dropped because the underlying data were unavailable or not comparable across faculties (e.g., law and medicine's structurally weaker orientation to CNRS), while weaker but more uniformly available proxies were retained instead. Some retained proxies carry acknowledged bias: counts of foreign-language translations and Social Sciences Citation Index citations were kept as scientific-prestige indicators despite an admitted Anglophone/American skew (SSCI citation counts were dominated by American journals, systematically favoring disciplines oriented to US science over philology or ancient history). The resulting final MCA variable set should be read with this survivorship caution — what the geometry shows is shaped by which indicators survived data availability and cross-faculty comparability screening, not only by theory.

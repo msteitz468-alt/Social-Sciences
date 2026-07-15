@@ -34,7 +34,7 @@ The Boasian inheritance is the decisive one, and it is worth being precise about
 | **Program** | [[culture-and-personality]]; [[historical-particularism]]; [[cultural-relativism]] |
 | **Foil** | G. Stanley Hall / popular [[storm-and-stress]] pedagogy |
 | **Cohort** | Benedict, Sapir, Lowie and other Boasians — expand as ingested |
-| **Later rival frame** | Derek Freeman — [[mead-freeman-debate]] (Freeman not yet primary-ingested) |
+| **Later rival frame** | [[freeman-derek|Derek Freeman]], *[[freeman-margaret-mead-and-samoa-1983|Margaret Mead and Samoa]]* (1983, ingested) — [[mead-freeman-debate]] |
 | **Field partner / collaborator** | [[fortune-reo|Reo Fortune]] — husband and co-fieldworker in the Sepik; supplied male-sphere and much Mundugumor/Tchambuli data |
 | **Third orientation** | [[bateson-gregory|Gregory Bateson]] — met in the Sepik (1932); his Middle Sepik work oriented the Tchambuli choice; later collaborator and husband |
 | **Public audience** | American parents, educators, general readers — constitutive of her role |

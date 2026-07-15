@@ -13,9 +13,9 @@ core_claims:
   - "Structures of knowledge within the system are themselves systemic and historical and must be historicized inside it"
   - "Analyses are framed in the Braudelian longue durée rather than event history alone"
 developed_from: ["[[historical-materialism]]", "dependency theory (Prebisch, Cardoso/Faletto — not fully ingested)", "Braudelian histoire totale / économie-monde"]
-competes_with: ["[[modernization-theory]]", "orthodox developmentalism", "state-as-unit international relations"]
+competes_with: ["[[modernization-theory]]", "orthodox developmentalism", "state-as-unit international relations", "[[iemp-model]] (Mann: inter-national multi-power networks vs single transnational world-economy as master unit)"]
 status: active
-sources_ingested: 6
+sources_ingested: 8
 last_updated: 2026-07-10
 tags: [theory, sociology, political-economy]
 ---
@@ -85,9 +85,14 @@ Historical social science at the system scale; Braudelian temporalities; rejecti
 
 ## Critiques and Responses
 
+**Connell 2007 (attributed):** Praises world-systems for thematising colonialism and inequality; criticises the Gulbenkian *Open the Social Sciences* panel (Wallerstein chair) as Eurocentric in its history of social science; treats WSA globalisation analysis as stronger on naming the metropole than many Northern globalisation sociologies, yet still system-reifying and weak on gender/race ([[southern-theory]], [[connell-southern-theory-2007]]).
+
+
 Standard external positions (to be thickened from primary critiques when ingested): neglect of culture/agency; economic reduction; teleology of crisis; insufficient gender analysis (von Werlhof's volume chapter is an internal feminist challenge); state/politics underplayed vs economics. Program responses emphasize relational inequality and long-run structural constraints.
 
 **Anthropological mode-of-production critique ([[wolf-eric-r|Wolf]] 1982):** In *[[wolf-europe-people-without-history-1982|Europe and the People Without History]]*, Wolf argues that Wallerstein (and Frank) define capitalism as production for the market and surplus transfer, making deployment of [[social-labor|social labor]] secondary and collapsing the capitalist mode into the world market — thus dating world capitalism from the fifteenth century. Wolf counters with capital-in-production (labor-power purchase; late 18th c. threshold) and Mandel's articulated multi-modal system. Recorded as open dispute on [[capitalism-mode-vs-market-debate]]; not a wiki-voice verdict against either program.
+
+**Mann — inter-national multi-power vs transnational world-economy (1986, attributed).** [[mann-michael|Michael Mann]] (*[[mann-sources-of-social-power-vol1-1986|Sources of Social Power, Vol. I]]*) cites Wallerstein's "world system" as one extensive economic network created interstitially with the bourgeoisie, but rejects equating "society" with transnational capitalism (or with the nation-state alone): state, culture, and economy almost never coincide, so there is no single master unit. His [[iemp-model|IEMP]] program privileges *overlapping* inter-national political, military, ideological, and economic networks (multistate geopolitical civilization + international capitalism + Christendom/secular ideologies) over a single closed capitalist world-economy as the basic unit of analysis. Position recording, not adjudication: competes with world-systems on unit-of-analysis and multi-causal primacy, not merely on periodization.
 
 ## Current Status
 

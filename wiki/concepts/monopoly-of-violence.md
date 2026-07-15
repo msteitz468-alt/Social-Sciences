@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Presence/absence of a single authority successfully claiming the sole right to authorize violence within a bounded territory; empirically indexed by disarmament of rival armed actors, centralization of legitimate coercion (police/military/courts), and territorial control — used in state-capacity, state-formation, and 'fragile/failed state' measures."
 contested: "yes"
 related_concepts: ["[[the-state]]", "[[legitimate-domination]]", "[[bureaucracy]]", "[[charismatic-authority]]", "[[monopoly-mechanism]]", "[[civilizing-process]]", "[[self-constraint]]"]
-sources_ingested: 2
-last_updated: 2026-07-08
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -32,6 +32,20 @@ Weber's formulation crystallized ideas present in his contemporaneous work on *H
 ## Applications
 
 [[elias-norbert|Elias]] (*[[elias-civilizing-process-1939|The Civilizing Process]]*, 1939) process-ualizes Weber's monopoly: free competition among warriors tends toward dual monopolies of physical force and taxation ([[monopoly-mechanism]]); pacified internal spaces and “violence confined to barracks” rewire everyday fears toward [[self-constraint]]. See [[civilizing-process]] and [[elias-civilizing-process-study]].
+
+### Tilly's historicization (1990/1992, attributed)
+
+In *[[tilly-coercion-capital-1992|Coercion, Capital, and European States]]*, [[tilly-charles|Tilly]]
+calls Weber's definition "historically contestable" and treats the monopoly as an *achievement*
+of a specific process — the **bifurcation of violence**: states built "fearsome coercive means
+of their own as they deprived civilian populations of access to those means" (weapons seizures
+after rebellions, duel prohibitions, arms licensing, demolition of magnate castles, disbanding
+of private armies, especially 1400–1700). Only after that disarmament did Weber's definition
+"finally beg[i]n to make sense for European states." Consequences Tilly draws: declining
+interpersonal violence alongside intensifying inter-state war; coup-proofing ("almost
+impossible for a dissident faction to seize power... without the active collaboration of some
+segments of the state's own armed forces"); and the US as the outlier that "cling[s] to
+civilian possession of firearms." See [[bellicist-theory-of-state-formation]].
 
 ## Applications (general)
 

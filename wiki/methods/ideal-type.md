@@ -7,8 +7,8 @@ date_introduced: "1904 (Archiv methodological essays; applied in Protestant Ethi
 supersedes: ["[[unknown]]"]
 epistemic_leverage: "Makes unique historical complexes comparable and conceptually sharp by one-sided accentuation of culturally significant elements — without claiming the type is an empirical average or a law."
 key_limitations: ["Does violence to historical reality by design (Weber)", "Easy to reify as actual groups or pure laws", "Selection of accentuated elements is value-relevant and contested", "Full methodological exposition not in PE body — points to Wissenschaftslehre / Archiv XIX"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [method]
 ---
 
@@ -37,6 +37,20 @@ Weber states (Ch. 4 notes) it is "absolutely necessary" to speak in ideal types,
 ## History
 
 Developed in Weber's methodological writings of the early 1900s (*Archiv* debates on objectivity and cultural science) and applied throughout PE and the sociology of religion. Parsons and later American sociology spread the term; it remains central to historical sociology and is often misread as "ideal" in the normative sense.
+
+**Parsons's "type-atomism" critique (attributed).** In *[[parsons-structure-social-action-1937|The
+Structure of Social Action]]* (1937, Ch. XVI, XIX), [[parsons-talcott|Parsons]] — extending von
+Schelting — argued Weber conflated at least three logically distinct concepts under "ideal type":
+concrete historical individuals (modern capitalism, the Indian caste system), individual complexes of
+meaning (Calvinist theology), and generalizing types (bureaucracy, feudalism, traditionalism). His
+core objection: a generalizing ideal type functions as a *class concept* that fixes the relations among
+the values of its underlying analytical elements, even though those elements (e.g. economic
+rationality) in fact vary *independently* — so confining analysis to ideal types produces a rigid
+"mosaic theory" of history and "does violence" to reality by hypostatizing fixed combinations. Parsons
+held this against Weber's treatment of capitalism ("modern capitalism is one socioeconomic system, not
+two") and read Weber's fictionalist account of ideal types as a symptom of a residual empiricism that
+his own [[analytical-realism]] was meant to correct — general concepts as real *analytical elements*,
+not useful fictions. See [[voluntaristic-theory-of-action]], [[parsons-convergence-thesis-debate]].
 
 ## Exemplary Applications
 

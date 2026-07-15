@@ -7,9 +7,9 @@ founding_figures: ["[[bohannan-paul]]", "[[gluckman-max]]", "[[malinowski-bronis
 core_questions: ["What is 'law' outside the modern state, and can the concept travel?", "How do societies without courts or codes settle disputes and maintain order?", "Should other legal systems be described in their own folk categories or in comparative jurisprudential ones?", "How did colonial administration transform indigenous dispute-settlement?"]
 major_methods: ["[[participant-observation]]", "case method / the trouble-case", "[[extended-case-method]]", "[[comparative-method]]", "cultural translation / interpretive comparison of legal sensibilities"]
 subfields: ["[[unknown]]"]
-collection_coverage: weak
-sources_ingested: 3
-last_updated: 2026-07-09
+collection_coverage: moderate
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [discipline]
 ---
 
@@ -102,12 +102,11 @@ of study.
 
 ## Collection Coverage Note
 
-**Weak.** The collection holds one dedicated legal-anthropology monograph (Bohannan on the
-Tiv) plus [[geertz-clifford|Geertz]]'s interpretive "Fact and Law" essay
-(*[[geertz-local-knowledge-1983|Local Knowledge]]*), with adjacent material in
-[[gluckman-max|Gluckman]] and [[malinowski-bronislaw|Malinowski]]. Gluckman's *Barotse
-Jurisprudence*, Llewellyn & Hoebel, Maine, Pospisil, and Nader's disputing-process work are
-priority gaps.
+**Moderate** (up from weak after *[[gluckman-politics-law-ritual-1965|Politics, Law and Ritual]]* ingest). Holds Bohannan on the Tiv; Geertz’s interpretive “Fact and Law” essay; Gluckman’s 1965 systematic textbook (Ch. V pluralist “law” vocabulary, adjudication/mediation, law-and-custom, [[intrinsic-penalties]], restatement of [[bohannan-gluckman-debate]]; Ch. VI mystical control and [[extended-case-method]]); adjacent Malinowski and APS materials. Still missing as freestanding primaries: Gluckman’s *Judicial Process among the Barotse* and *Ideas in Barotse Jurisprudence*, Llewellyn & Hoebel *Cheyenne Way*, Maine *Ancient Law*, Pospisil, and Nader’s disputing-process program.
+
+### Gluckman 1965 densification (attributed)
+
+*Politics, Law and Ritual* Ch. V argues there is **no “strict sense” of law**; specialists should specialize a hierarchy of words for social-control facts rather than fight single definitions; prefers saying societies with binding right-conduct rules have law even without courts; separates **adjudication** (court decision process) from **mediation**/adjuster processes; treats Malinowski vs Radcliffe-Brown “theories of law” as largely terminological; restates the cultural-solipsism charge against pure folk-system isolationism. Methodological demand: full **trouble-cases** and aftermath, not apt illustrations — bridge to Manchester [[extended-case-method]].
 
 ## From Kuper, *Invention of Primitive Society* (1988)
 

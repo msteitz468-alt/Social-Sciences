@@ -7,11 +7,11 @@ era: [postwar-expansion, critical-turn, contemporary]
 affiliated_theories: ["[[practice-theory]]"]
 trained_under: ["[[unknown]]"]
 trained: ["[[wacquant-loic]]"]
-key_works: ["[[bourdieu-logic-of-practice-1990|The Logic of Practice (1980/1990)]]", "[[bourdieu-outline-1977|Outline of a Theory of Practice (1972/1977)]]", "[[bourdieu-distinction-1984|Distinction (1979/1984)]]", "[[bourdieu-passeron-reproduction-1990|Reproduction in Education, Society and Culture (with Passeron, 1970)]]"]
-key_concepts: ["[[habitus]]", "[[social-field]]", "[[social-space]]", "[[symbolic-capital]]", "[[cultural-capital]]", "[[social-capital]]", "[[practical-sense]]", "[[doxa]]", "[[hexis]]", "[[symbolic-violence]]", "[[misrecognition]]", "[[illusio]]", "[[pedagogic-action]]", "[[cultural-reproduction]]", "[[distinction]]", "[[aesthetic-disposition]]", "[[pure-gaze]]", "[[cultural-goodwill]]", "[[taste-for-necessity]]", "[[reconversion-strategies]]"]
-fieldwork_sites: ["Kabylia / Algeria (late 1950s–early 1960s)", "Béarn (France)", "French educational system (surveys, early–mid 1960s)", "French class/lifestyle survey (Paris, Lille, provincial town; 1963 + 1967–68)"]
-sources_ingested: 5
-last_updated: 2026-07-09
+key_works: ["[[bourdieu-logic-of-practice-1990|The Logic of Practice (1980/1990)]]", "[[bourdieu-outline-1977|Outline of a Theory of Practice (1972/1977)]]", "[[bourdieu-distinction-1984|Distinction (1979/1984)]]", "[[bourdieu-passeron-reproduction-1990|Reproduction in Education, Society and Culture (with Passeron, 1970)]]", "[[bourdieu-homo-academicus-1984|Homo Academicus (1984)]]", "[[bourdieu-state-nobility-1996|The State Nobility (1989/1996)]]"]
+key_concepts: ["[[habitus]]", "[[social-field]]", "[[social-space]]", "[[symbolic-capital]]", "[[cultural-capital]]", "[[social-capital]]", "[[practical-sense]]", "[[doxa]]", "[[hexis]]", "[[symbolic-violence]]", "[[misrecognition]]", "[[illusio]]", "[[pedagogic-action]]", "[[cultural-reproduction]]", "[[distinction]]", "[[aesthetic-disposition]]", "[[pure-gaze]]", "[[cultural-goodwill]]", "[[taste-for-necessity]]", "[[reconversion-strategies]]", "[[academic-field]]", "[[academic-capital]]", "[[participant-objectivation]]", "[[scholastic-disposition]]", "[[field-of-power]]", "[[state-nobility]]", "[[rites-of-institution]]", "[[modes-of-reproduction]]", "[[sociodicy]]"]
+fieldwork_sites: ["Kabylia / Algeria (late 1950s–early 1960s)", "Béarn (France)", "French educational system (surveys, early–mid 1960s)", "French class/lifestyle survey (Paris, Lille, provincial town; 1963 + 1967–68)", "Grandes écoles / preparatory classes surveys (1965–69) and top-CEO prosopography (1972)"]
+sources_ingested: 10
+last_updated: 2026-07-10
 tags: [thinker, sociology, anthropology]
 ---
 
@@ -52,6 +52,21 @@ From *[[bourdieu-distinction-1984|Distinction]]* (1979/1984; attributed; French 
 - **Politics in social space** — opinion competence, media, left/right mapped onto the same capital axes; classification struggle as dimension of class struggle.
 - Study + deep analysis: [[bourdieu-distinction-study]] · [[hubs/studies/bourdieu-distinction-study]].
 
+From *[[bourdieu-homo-academicus-study|Homo Academicus]]* (1984; attributed; prosopography of French professors c. 1967):
+
+- **The [[academic-field|academic field]] as field of power in miniature** — the four faculties arrayed chiasmatically (law/medicine temporally dominant but scientifically dominated; sciences/letters the reverse), read through Kant's "conflict of the faculties."
+- **[[academic-capital]] vs scientific/intellectual capital** — institutional control of reproduction (juries, the Comité consultatif) is largely independent of, and often inversely distributed with, scholarly prestige; academic power is above all the power to control time — to "make people wait."
+- **May 1968 as [[social-field|field]] crisis** — not an age-generational conflict but the collision of two admission-mode "university generations," and the **synchronization** of partly-independent field crises; crisis as a "revealer" of doxa; the "illusion of spontaneity."
+- **[[participant-objectivation]] and [[scholastic-disposition|skholè]]** — the book enacts reflexive [[reflexive-sociology|sociology]] by objectifying his own field; the 1987 postface identifies Bourdieu himself as an "oblate" and calls the work "self-analysis by proxy." Study + deep analysis: [[bourdieu-homo-academicus-study]] · [[hubs/studies/bourdieu-homo-academicus-study]].
+
+From *[[bourdieu-state-nobility-1996|The State Nobility]]* (1989/1996; attributed; surveys 1965–72, restudy 1984–85):
+
+- **The [[field-of-power]]** — first full theoretical and empirical elaboration: the meta-arena where holders of different capitals struggle over the "exchange rate" among capitals and "the dominant principle of domination"; chiasmatic structure mirrored in the [[grandes-ecoles]] field.
+- **The [[state-nobility]]** — the credentialed ruling stratum as structural heir of the *noblesse de robe*, "a body that created itself by creating the state"; **state magic** (the state as "central bank of symbolic credit") and the **lengthening of the circuits of legitimation**.
+- **[[rites-of-institution|Rites of institution]]** at scale: the concours as consecration instituting durable boundaries; the "cognitive machine" of academic classification as euphemized [[symbolic-violence]].
+- **[[modes-of-reproduction]]** — family vs school-mediated reproduction; the statistical logic and "misrecognition dividend" of credential-mediated transfer; [[sociodicy]] as the plural legitimating discourse of dominants.
+- Study + deep analysis: [[bourdieu-state-nobility-study]] · [[hubs/studies/bourdieu-state-nobility-study]].
+
 ## Intellectual Genealogy
 
 | Relation | Figures / programs (as *Logic* presents them) |
@@ -67,12 +82,19 @@ Rivalries and foils are recorded as Bourdieu's own intellectual mapping in *Logi
 
 ## Critiques and Reappraisals
 
+**Connell (*Southern Theory* 2007, attributed):** [[connell-raewyn|Connell]] takes *[[bourdieu-logic-of-practice-1990|The Logic of Practice]]* as one of three modern general-theory cases. She grants Bourdieu the richest empirical grounding of the three yet still reads the apparatus as produced and circulated from the [[metropole]], with limited theorisation of colonial empire as structuring principle of the modern world — part of her four Northern moves / ethnosociology diagnosis ([[southern-theory]]). Attributed critique; Bourdieu's Algeria work is itself colonial-fieldwork knowledge (see his own reflexivity on Kabylia).
+
+
 External critiques of determinism, residual structuralism, gender, colonial ethnography, and the capital metaphor are **not yet ingested** as primary sources. *Logic* itself answers the determinism charge with hysteresis, strategy, and regulated improvisation. Record further positions as sources arrive. Ethics of wartime ethnography: Bourdieu states that photographs and data sometimes came from houses damaged by French military expulsion — a production-context fact for the [[kabyle]] empirical base.
+
+## Engagement — DiMaggio & Powell, *The New Institutionalism in Organizational Analysis* (1991)
+
+In their introduction, [[dimaggio-paul|DiMaggio]] and [[powell-walter-w|Powell]] ([[powell-dimaggio-new-institutionalism-1991]]) present Bourdieu's theory of the [[habitus]] as "the closest to a genuine alternative to Parsons' version of role theory" available in social theory, praising its "doxic (taken-for-granted) elements of action, social classification, [and] practical consciousness" (attributed). They credit Bourdieu with four contributions to a microfoundation for [[new-institutionalism]]: (1) an alternative to role theory for explaining differentiated cognitive understandings and behavioral norms along social-structural lines; (2) a move beyond Freudian "internalization" toward a "generative grammar of strategic behavior" rooted in, but not fully determined by, the past; (3) a multidimensional account combining a substantive theory of practical evaluation (habitus differentiated by class fraction) with an account of "rational" strategies of action as themselves institutionalized; and (4) an alternative solution to the Parsonsian problem of fitting persons to positions. D&P note Bourdieu's influence on organization theory was, as of 1991, "just beginning."
 
 ## Historiography
 
-- Primary apparatus here: *[[bourdieu-outline-1977|Outline of a Theory of Practice]]* (1972/1977), *[[bourdieu-logic-of-practice-1990|The Logic of Practice]]* (1980/1990), *[[bourdieu-passeron-reproduction-1990|Reproduction]]* (with Passeron, 1970), and *[[bourdieu-distinction-1984|Distinction]]* (1979/1984).
-- Queued, not ingested: *The Inheritors*; *The State Nobility*; Algeria monographs *Travail et travailleurs en Algérie* (1963) and *Le Déracinement* (1964); “forms of capital” essays.
+- Primary apparatus here: *[[bourdieu-outline-1977|Outline]]*, *[[bourdieu-logic-of-practice-1990|Logic of Practice]]*, *[[bourdieu-passeron-reproduction-1990|Reproduction]]*, *[[bourdieu-distinction-1984|Distinction]]*, *[[bourdieu-homo-academicus-1984|Homo Academicus]]*, *[[bourdieu-state-nobility-1996|The State Nobility]]* (1989/1996; study + [[hubs/studies/bourdieu-state-nobility-study|Studies Hub]]).
+- Queued, not ingested: *The Inheritors*; Algeria monographs *Travail et travailleurs en Algérie* (1963) and *Le Déracinement* (1964); “forms of capital” essays; *Rites of Institution* essay (*Language and Symbolic Power*); *On the State* lectures.
 - English reception via Nice translations shaped Anglophone "practice theory" and cultural-capital vocabulary (*habitus*, field, capital, distinction).
 - In American cultural sociology, [[swidler-ann|Swidler]] draws on Bourdieu's [[practice-theory|practical logic]] (culture as capacity, not rule) in building [[culture-in-action|toolkit theory]] — citing *[[bourdieu-logic-of-practice-1990|The Logic of Practice]]*'s "practice has a logic which is not that of the logician" and the point that contradictory schemas coexist because they are rarely confronted — while claiming her [[cultural-toolkit|repertoire]] is more plural and switchable than [[habitus]]. Attributed to Swidler.
 

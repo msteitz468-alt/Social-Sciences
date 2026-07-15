@@ -13,7 +13,7 @@ cultures: ["[[unknown]] — pre-Clovis candidate; Miller lanceolate unfluted; no
 excavated_by: ["James M. Adovasio and interdisciplinary teams"]
 excavation_years: ["1973–~1978 major campaigns; ongoing publication legacy"]
 key_finds: ["4.6 m stratified deposits, 11 natural strata", "52 radiocarbon dates (31,400 14C BP to Historic)", "lower Stratum IIa pre-Clovis lithics (~700 artifacts) including Miller lanceolate", "later Archaic/Woodland materials"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [site, peopling, north-america]
 ---
@@ -63,3 +63,5 @@ Mithen notes coal-region contamination critiques and Adovasio’s re-tests findi
 ## Historiography
 
 Meadowcroft is a case study in **superb excavation without full monographic closure**: high technical quality, contested ¹⁴C association, paleoenvironmental sampling limits, and sociology of endless “one more test” demands (Adovasio–Haynes explosion after the Dallas Monte Verde toast, as Meltzer narrates). Contrast with [[monte-verde]], which met the same high bar via peat seal, multi-lab ages, and elite visit. Status as of Meltzer 2009: serious candidate, not closed case.
+
+**Milner 2021:** still reports Meadowcroft as the best-known eastern pre-Clovis candidate (stone tools, burned basketry in lowest levels) while noting that **skepticism remains** despite excavation quality and many radiocarbon dates — consistent with the disputed standing above (as of Milner 2021).

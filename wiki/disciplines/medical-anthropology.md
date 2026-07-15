@@ -3,13 +3,13 @@ title: Medical Anthropology
 discipline_type: subfield
 parent_discipline: "[[anthropology]]"
 founded: "postwar-expansion to critical-turn (named subfield from the 1960s–70s)"
-founding_figures: ["W.H.R. Rivers", "Arthur Kleinman", "[[scheper-hughes-nancy|Nancy Scheper-Hughes]]", "Margaret Lock", "Byron Good", "[[biehl-joao|João Biehl]]"]
+founding_figures: ["W.H.R. Rivers", "Arthur Kleinman", "[[scheper-hughes-nancy|Nancy Scheper-Hughes]]", "Margaret Lock", "[[good-byron|Byron Good]]", "[[biehl-joao|João Biehl]]"]
 core_questions: ["How is sickness experienced, named, and explained across cultures?", "How do social, economic, and political conditions produce disease and suffering?", "How do biomedicine and other healing systems exercise power over bodies?", "How are the body, illness, and healing culturally and politically constituted?"]
-major_methods: ["[[participant-observation]]", "clinical and hospital ethnography", "illness-narrative collection", "[[life-history-method]]", "[[militant-anthropology|engaged / critical ethnography]]"]
+major_methods: ["[[participant-observation]]", "clinical and hospital ethnography", "illness-narrative collection", "[[life-history-method]]", "[[militant-anthropology|engaged / critical ethnography]]", "[[multi-sited-ethnography]]"]
 subfields: ["ethnomedicine", "[[critical-medical-anthropology]]", "clinical/applied medical anthropology", "global health"]
 collection_coverage: moderate
-sources_ingested: 6
-last_updated: 2026-07-09
+sources_ingested: 9
+last_updated: 2026-07-15
 tags: [discipline]
 ---
 
@@ -29,7 +29,11 @@ to be sick, named, and treated]]** is content, not background.
 
 - **Precursors and postwar expansion (to 1968).** Early disease-ecology and ethnomedical work (W.H.R.
   Rivers; culture-and-personality studies of illness) and postwar international-health programs gave the
-  subfield an applied, cross-cultural base.
+  subfield an applied, cross-cultural base. The institutional origin was explicitly applied: a 1950s–60s
+  public-health-oriented cohort (Benjamin Paul, George Foster, Charles Erasmus, Hazel Weidman) critiquing
+  public-health specialists' "cultural naivete." In 1957 Ben Paul could list 49 American anthropologists
+  with public-health experience; by the early 1990s the Society for Medical Anthropology had over 1,700
+  members ([[good-byron|Good]] 1994). The journal *Culture, Medicine and Psychiatry* was founded in 1977.
 - **Critical turn (1968–1990).** The subfield names and consolidates itself. Arthur Kleinman's work on
   "explanatory models," illness/disease distinction, and somatization built an interpretive, clinically
   engaged medical anthropology. Against and beside it, a **[[critical-medical-anthropology]]** current
@@ -55,6 +59,16 @@ program of the [[illness-disease-distinction|illness/disease distinction]], [[ex
 concepts developed or annexed here include [[nervoso|idioms of distress]], [[somatization]],
 [[neurasthenia]], medicalization, embodiment, and structural violence.
 
+The field's most-cited internal map is [[good-byron|Byron Good]]'s four-approach taxonomy
+(*[[good-medicine-rationality-1994|Medicine, Rationality, and Experience]]*, 1994, attributed):
+(1) an **empiricist/rationalist** tradition treating illness representations as folk beliefs
+(Health Belief Model, illness-behavior models, ecological-biocultural adaptationism); (2)
+**cognitive** anthropology (ethnosemantics, schema/prototype theory); (3) the
+**[[meaning-centered-medical-anthropology|meaning-centered/interpretive]]** tradition; and (4)
+**[[critical-medical-anthropology]]**. Good's own program adds the epistemological ground: the
+"problem of belief" — describing others' medicine as belief and biomedicine as knowledge — as
+the field's founding error.
+
 ## Methods
 
 Grounded in [[participant-observation]], extended to the clinic and hospital (clinical ethnography),
@@ -73,7 +87,14 @@ structural inequality — is recorded at [[culture-versus-structure-in-disease-d
 ## Current State
 
 Active fronts include global health and humanitarianism, the anthropology of pharmaceuticals and
-biotechnology, mental health across cultures, and the political economy of epidemics.
+biotechnology, mental health across cultures, and the political economy of epidemics. Body and tissue
+markets — organs, gametes, cell lines, genetic material — form a dense contemporary cluster: multi-author
+work such as *[[scheper-hughes-wacquant-commodifying-bodies-2002|Commodifying Bodies]]* (Scheper-Hughes &
+Wacquant eds., 2002; orig. *Body & Society* 7.2–3, 2001) gathers critical medical anthropology and adjacent
+sociology around **[[body-commodification]]**, with [[lock-margaret|Margaret Lock]] on tissue alienation and
+immortalized cell lines, [[cohen-lawrence|Lawrence Cohen]] on Indian kidney biopolitics, and
+[[scheper-hughes-nancy|Scheper-Hughes]]'s multi-sited Organs Watch project on the global
+[[human-organs-trade|organs trade]].
 
 ## Reflexivity
 
@@ -89,5 +110,11 @@ Coverage is **moderate** — the interpretive pole is now strongly represented b
 Psychiatry]]* 1988, *[[kleinman-illness-narratives-1988|The Illness Narratives]]* 1988 — with a
 [[hubs/thinkers/kleinman-arthur|Kleinman Thinkers Hub]]), alongside the critical pole (Scheper-Hughes,
 *[[scheper-hughes-death-without-weeping-1992|Death Without Weeping]]*), Biehl (*[[biehl-vita-2005|Vita]]*),
-and Farmer (*[[farmer-infections-inequalities-1999|Infections and Inequalities]]*). The broader ethnomedical
-and global-health literatures remain priorities for ingest.
+and Farmer (*[[farmer-infections-inequalities-1999|Infections and Inequalities]]*). Body-commodification and
+organs-traffic coverage is strengthened by *[[scheper-hughes-wacquant-commodifying-bodies-2002|Commodifying
+Bodies]]* (Lock, Cohen, Scheper-Hughes, and others; Organs Watch as activist multi-sited research). The broader
+ethnomedical and global-health literatures remain priorities for ingest.
+
+## From Taussig *Shamanism* (1987 ingest)
+
+[[taussig-shamanism-colonialism-study|Taussig 1987]] supplies a critical-turn case: yagé healing as colonial image-work and montage ([[yage]]; [[space-of-death]]; [[implicit-social-knowledge]]), opposing purely clinical or functionalist reductions of shamanism.

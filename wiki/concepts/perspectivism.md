@@ -9,8 +9,8 @@ emic_or_etic: etic
 operationalized_as: "Cosmological regime (esp. Amazonia) in which beings share culture/interiority and differ by body/perspective; includes crossed inversion of viewpoints; multinaturalism rather than multiculturalism"
 contested: yes
 related_concepts: ["[[animism]]", "[[four-ontologies]]", "[[interiority-and-physicality]]", "[[modes-of-identification]]", "[[multinaturalism]]", "[[ontological-turn]]", "[[controlled-equivocation]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept, anthropology]
 ---
 
@@ -33,6 +33,10 @@ Primary Viveiros monographs now include *[[viveiros-de-castro-cannibal-metaphysi
 | Distribution | Amazonia, Arctic, SE Asia forests, etc. | Especially Amerindian myths; rarer in Asia per Descola |
 
 Descola redefines metamorphosis as **anamorphosis**: coinciding with the other's viewpoint ("enter the skin"), not mere disguise. Physical difference is form/ethogram more than substance.
+
+## Roots in the Araweté Ethnography (1992)
+
+The term "perspectivism" itself does not appear in Viveiros de Castro's Araweté monograph, *[[viveiros-de-castro-enemys-point-of-view-1992|From the Enemy's Point of View]]* (1992 [1986]) — the technical vocabulary was formulated only later, in the mid-1990s papers with Tania Stolze Lima. But the monograph's ethnography already works through the concept's components (attributed, Viveiros de Castro 1992). Bïde ("human being," the Araweté's term for themselves) and awī ("enemy") are analyzed as relational positions rather than fixed essences: "the Araweté themselves are awī from the point of view of peccaries, howler monkeys, and Asuriní." The songs sung by an Araweté killer over a slain enemy (awĩ marakã) are, per Viveiros de Castro, "always sung from the point of view of the enemy," with the killer as first-person subject of the dead enemy's own utterances — a device he calls "reverberation." A structurally parallel case has a shaman sing his own future death from the gods' point of view, mediated by his dead daughter's voice, culminating in the gods announcing his death in the third person. Viveiros de Castro also glosses the 16th-century Tupinambá chief Cunhambebe's declaration to Hans Staden while eating human flesh — "I am a jaguar; it tastes well" (Staden 1928 [1557]) — as the warrior "defin[ing] his perspective": the act of cannibalism itself makes him, perspectivally, a jaguar. And of the Maï (gods), who devour and then resurrect human souls: "they contemplate us with the eyes of an enemy and we eye them as enemies." All are attributed to Viveiros de Castro's 1992 interpretive framework, prior to and feeding into the later, named perspectivism thesis.
 
 ## Applications
 

@@ -7,9 +7,9 @@ disciplines: [sociology, political-sociology]
 emic_or_etic: etic
 operationalized_as: "occupants of the strategic command posts of the major institutional hierarchies — big corporations, the state machinery, and the military establishment — whose decisions (or non-decisions) have major consequences for the underlying population"
 contested: yes
-related_concepts: ["[[higher-circles]]", "[[middle-levels-of-power]]", "[[mass-society]]", "[[organized-irresponsibility]]", "[[higher-immorality]]", "[[military-ascendancy]]", "[[theory-of-balance]]", "[[circulation-of-elites]]"]
-sources_ingested: 1
-last_updated: 2026-07-08
+related_concepts: ["[[higher-circles]]", "[[middle-levels-of-power]]", "[[mass-society]]", "[[organized-irresponsibility]]", "[[higher-immorality]]", "[[military-ascendancy]]", "[[theory-of-balance]]", "[[circulation-of-elites]]", "[[corporate-community]]", "[[policy-planning-network]]", "[[class-domination-theory]]"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -49,10 +49,9 @@ He also distinguished the power elite from a hereditary **aristocracy**: the Ame
 no compact noble basis in a few great families, though members derive disproportionately from
 upper strata of local society and the Metropolitan 400.
 
-Later usage (Domhoff's governing class, "power structure" research, journalistic "power elite")
-extends and sometimes dilutes Mills's institutional three-hierarchy specification. Record those
-extensions as attributed positions when sources are ingested; do not equate them silently with
-Mills 1956.
+## Domhoff’s redefinition (power-structure research)
+
+*(Attributed — [[domhoff-g-william|Domhoff]], *[[domhoff-who-rules-america-2022|Who Rules America?]]* 8th ed. 2022.)* Domhoff **reuses the phrase** for a different construct: the **institutionalized leadership group** formed at the intersection of the **social upper class**, the **[[corporate-community|corporate community]]**, and the **[[policy-planning-network|policy-planning network]]**. Not everyone in those three circles is power elite; not all dominant-class members govern. He integrates class and organization into [[class-domination-theory]], with US **economic-network ascendancy** (Mann four-network frame) rather than Mills’s mid-century military–political–corporate triad as the primary map. Journalistic and other “power elite” usages further dilute both Mills and Domhoff — do not equate them silently. See [[domhoff-who-rules-america-study]] and [[power-elite-vs-pluralism-debate]].
 
 ## Operationalizations
 
@@ -92,4 +91,7 @@ decisiveness; later scholars (state autonomy, fragmented business, revised milit
 revised parts of the military-ascendancy and business–state picture. Mills's own cautions —
 uneasy coincidence not monolithic will; historically specific shape; rejection of conspiracy —
 are often lost in popular reception. All of Mills's theses remain **attributed**, not wiki-voice
-findings.
+findings. [[lukes-steven|Lukes]] (*[[lukes-power-radical-view-2005|PRV]]*) opens from Mills/Hunter
+and argues pluralist methods systematically miss less observable dimensions of elite power
+([[three-dimensional-power]]) — a conceptual extension of the elite critique, not a re-mapping
+of Mills’s three hierarchies.

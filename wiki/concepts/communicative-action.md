@@ -1,41 +1,68 @@
 ---
 title: "Communicative Action"
-aliases: ["Communicative action", "kommunikatives Handeln", "Communicative rationality"]
+aliases: ["Communicative action", "kommunikatives Handeln", "Action oriented to reaching understanding"]
 concept_type: analytical
 coined_by: ["[[habermas-jurgen|Jürgen Habermas]]"]
-date_coined: "1981 (*Theorie des kommunikativen Handelns*); developed from earlier work"
+date_coined: "1981 (*Theorie des kommunikativen Handelns*); prepared in 1970s formal-pragmatics work"
 disciplines: [sociology, social-theory, philosophy]
 emic_or_etic: etic
-operationalized_as: "not quantified; identified by whether action is coordinated through reaching understanding (illocutionary uptake of criticizable validity claims) rather than through causal influence on another's empirical motives"
+operationalized_as: "not quantified; identified when agents coordinate plans through acts of reaching understanding (illocutionary uptake of criticizable validity claims) rather than through egocentric success-orientation"
 contested: yes
-related_concepts: ["[[theory-of-communicative-action]]", "[[lifeworld]]", "[[linguistification-of-the-sacred]]", "[[system-and-lifeworld]]", "[[steering-media]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[communicative-rationality]]", "[[validity-claims]]", "[[strategic-action]]", "[[formal-pragmatics]]", "[[teleological-action]]", "[[normatively-regulated-action]]", "[[dramaturgical-action]]", "[[lifeworld]]", "[[linguistification-of-the-sacred]]", "[[theory-of-communicative-action]]"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
 # Communicative Action
 
-*The full statement of communicative action and communicative rationality is in [[theory-of-communicative-action|TCA]] **Volume 1**, which is not ingested. This page records the concept as it operates in [[habermas-theory-of-communicative-action-v2-1987|Volume 2]], where [[habermas-jurgen|Habermas]] derives it genetically from Mead and Durkheim.*
+Primary statement: *[[habermas-theory-of-communicative-action-v1-1984|TCA Volume 1]]* (Chs. I and III). Genetic reconstruction via Mead and Durkheim: *[[habermas-theory-of-communicative-action-v2-1987|TCA Volume 2]]* (Ch. V).
 
 ## Definition as Coined
 
-**Communicative action** (*kommunikatives Handeln*) is [[habermas-jurgen|Habermas]]'s term (attributed) for action coordinated through **reaching understanding** — the illocutionary force of speech acts and hearers' criticizable "yes/no" responses to the validity claims those acts raise — as opposed to **strategic** or **purposive-rational** action, which coordinates by causally influencing another's empirical motives (force, reward). Because "validity claims cannot be rejected or accepted without reason," communicative action "takes the response out of the sphere of mere caprice, sheer conditioning, or adjustment." Every communicative utterance is embedded simultaneously in three world-relations — objective, social, subjective — and raises three corresponding **validity claims**: truth, rightness, and truthfulness.
+**Communicative action** (*kommunikatives Handeln*) is [[habermas-jurgen|Habermas]]'s term (attributed) for social action in which the plans of action of different actors are coordinated **not** through egocentric calculations of success but through **acts of reaching understanding** (*Verständigung*). Participants pursue individual goals only "under the condition that they can harmonize their plans of action on the basis of common situation definitions."
+
+In the TCA Vol. 1 typology:
+
+| | Oriented to **success** | Oriented to **reaching understanding** |
+|---|---|---|
+| Nonsocial | instrumental action | — |
+| Social | **[[strategic-action]]** | **communicative action** |
+
+Every communicative utterance is embedded in three world-relations (objective, social, subjective) and raises three [[validity-claims]] — **truth**, **rightness**, **truthfulness** — which hearers can accept or reject with reasons. Illocutionary force supplies a rationally motivated binding (*Bindung*); perlocutionary success is not the coordinating mechanism. Refined communicative action (Habermas, attributed) is coordinated **only** through criticizable validity claims — not through force, conditioning, or concealed strategic use of speech.
 
 ## Semantic History
 
-In Volume 2 Habermas reconstructs the concept's genesis rather than restating its Volume 1 foundations. Via **Mead**, he traces the passage from gesture through the "significant symbol" to normatively guided, role-structured interaction, with "taking the attitude of the other" as the mechanism and the "generalized other" as the source of normative validity. Via **Durkheim**, he grounds the normative background of communication in the authority of the sacred, then argues that authority is progressively transferred to communicatively achieved agreement — the **[[linguistification-of-the-sacred]]**. Habermas's synthesis: grammatical speech integrates three prelinguistic roots (cognitive/external nature, normative/collective, expressive/inner nature), which is why one linguistic medium can simultaneously serve cultural transmission, social integration, and socialization.
+### Volume 1 foundations (1981/1984)
+
+- Against intentionalist semantics (Grice et al.): understanding cannot be reduced to consequence-oriented intentions.
+- Against Weber's teleological starting point: Weber models language as reciprocal purposive influence; at that "switchpoint" he "parts company with a theory of communicative action."
+- Four one-sided sociological concepts — [[teleological-action]]/strategic, [[normatively-regulated-action]], [[dramaturgical-action]], and an incomplete notion of communication — are integrated in the multi-claim communicative model.
+- [[formal-pragmatics|Formal pragmatics]] supplies the general pragmatic presuppositions (Bühler + speech-act theory generalized beyond propositional truth).
+
+### Volume 2 genesis (1981/1987)
+
+Via **Mead**, gesture → significant symbol → role-taking → generalized other. Via **Durkheim**, normative authority of the sacred is progressively transferred to communicatively achieved agreement — the **[[linguistification-of-the-sacred]]**. Grammatical speech integrates cognitive, normative, and expressive roots; one medium serves cultural transmission, social integration, and socialization ([[lifeworld]] reproduction functions).
 
 ## Operationalizations
 
-Not measured. Communicative action performs the three reproduction functions of the **[[lifeworld]]** (cultural reproduction, social integration, socialization). It is distinguished analytically from action oriented to success; the differentiation of the two, under "value generalization," is what opens space for **[[steering-media|media-steered]]** subsystems (see [[system-and-lifeworld]]). Its normative surplus — communicative rationality — is what, for Habermas, gives resistance to the [[colonization-of-the-lifeworld|colonization of the lifeworld]] "an inner logic, and not merely the impotent rage of nature in revolt."
+Not measured as a variable. Analytic diagnostics:
+
+1. Success-orientation vs understanding-orientation (participant-identifiable attitudes, not mere observer redescriptions — Habermas's claim).
+2. Illocution vs perlocution (Austin); open strategic vs linguistically mediated strategic action.
+3. Whether coordination can be redeemed with reasons if validity claims are challenged.
+4. In macrosociology: communicative coordination vs media-steered ([[steering-media]]) system coordination.
 
 ## Applications
 
-Foundation of the whole [[theory-of-communicative-action]]; basis of Habermas's discourse ethics (Mead's "ideal communication community" reformulated as a procedure of discursive will-formation) and of deliberative-democracy theory.
+- Foundation of the [[theory-of-communicative-action]] and of Habermas's reconstruction of [[critical-theory]].
+- Normative standard for diagnosing [[colonization-of-the-lifeworld]].
+- Discourse ethics and deliberative democracy (later works).
+- Counterpart to [[strategic-action]] in public-sphere and democratic theory.
 
 ## Critiques and Limitations
 
-- **Idealization** (attributed): critics charge the reliance on reasoned consensus underplays power, coercion, and difference — the standing Foucauldian and feminist objection (cf. [[foucault-michel|Foucault]]).
-- **Formalism** (attributed, and conceded by Habermas): a procedural, universalistic account "does not consider the price that communicative reason has to pay for its victory in the coin of concrete ethical life" (*Sittlichkeit*).
-- **Vol. 1 dependence:** the systematic account of validity claims and communicative rationality is not documented here at first hand.
+- **Idealization** (attributed): everyday talk mixes motives; pure communicative action may be a counterfactual limit case.
+- **Power and difference** (Foucauldian, feminist, postcolonial — attributed): consensus models underplay coercion, exclusion, and conflict that never aims at agreement.
+- **Formalism** (partly conceded by Habermas): thin on concrete *Sittlichkeit*.
+- **System dualism** (attributed): pairing communicative action with "norm-free" systems may immunize economy/state from communicative critique (systems-theory and radical-democratic objections).

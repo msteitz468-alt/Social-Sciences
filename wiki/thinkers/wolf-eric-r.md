@@ -7,17 +7,17 @@ era: [postwar-expansion, critical-turn]
 affiliated_theories: ["[[anthropological-political-economy]]", "[[cultural-ecology]]", "political economy of peasantry", "[[world-systems-analysis]] (critical engagement)"]
 trained_under: ["[[unknown]]"]
 trained: ["[[chagnon-napoleon]]"]
-key_works: ["[[wolf-peasants-1966|Peasants (1966)]]", "Sons of the Shaking Earth (1959)", "closed corporate peasant community papers (1955, 1957)", "Peasant Wars of the Twentieth Century (1969)", "[[wolf-europe-people-without-history-1982|Europe and the People Without History (1982)]]"]
-key_concepts: ["[[peasant]]", "[[closed-corporate-peasant-community]]", "[[types-of-domain]]", "[[fund-of-rent]]", "[[ceremonial-fund]]", "[[replacement-fund]]", "[[peasant-dilemma]]", "[[peasant-ecotype]]", "[[peasant-coalition]]", "[[people-without-history]]", "[[tributary-mode-of-production]]", "[[kin-ordered-mode-of-production]]", "[[social-labor]]"]
+key_works: ["[[wolf-peasants-1966|Peasants (1966)]]", "Sons of the Shaking Earth (1959)", "closed corporate peasant community papers (1955, 1957)", "[[wolf-peasant-wars-1969|Peasant Wars of the Twentieth Century (1969)]]", "[[wolf-europe-people-without-history-1982|Europe and the People Without History (1982)]]"]
+key_concepts: ["[[peasant]]", "[[closed-corporate-peasant-community]]", "[[types-of-domain]]", "[[fund-of-rent]]", "[[ceremonial-fund]]", "[[replacement-fund]]", "[[peasant-dilemma]]", "[[peasant-ecotype]]", "[[peasant-coalition]]", "[[middle-peasant]]", "[[tactical-mobility]]", "[[people-without-history]]", "[[tributary-mode-of-production]]", "[[kin-ordered-mode-of-production]]", "[[social-labor]]"]
 fieldwork_sites: ["Puerto Rico (late 1940s; photo credit in Peasants 1966)", "Mesoamerica (comparative work on peasantry)"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [thinker, anthropology]
 ---
 
 # Eric R. Wolf (1923–1999)
 
-Austrian-born American anthropologist; central figure in mid-century peasant studies and the charter voice of late-twentieth-century [[anthropological-political-economy|anthropological political economy]]. Career arc from comparative peasantry (*[[wolf-peasants-1966|Peasants]]*, 1966; *Peasant Wars*, 1969) to global historical synthesis (*[[wolf-europe-people-without-history-1982|Europe and the People Without History]]*, 1982).
+Austrian-born American anthropologist; central figure in mid-century peasant studies and the charter voice of late-twentieth-century [[anthropological-political-economy|anthropological political economy]]. Career arc from comparative peasantry (*[[wolf-peasants-1966|Peasants]]*, 1966; *[[wolf-peasant-wars-1969|Peasant Wars]]*, 1969) to global historical synthesis (*[[wolf-europe-people-without-history-1982|Europe and the People Without History]]*, 1982).
 
 Deep biography: [[hubs/thinkers/wolf-eric-r]].
 
@@ -32,6 +32,13 @@ Wolf relocated anthropological subjects inside historically evolving systems of 
 - **[[peasant|Peasant]] as structural type** — character of involvement with a surplus-extracting center.
 - **Fund analysis** — [[replacement-fund]], [[ceremonial-fund]], [[fund-of-rent]]; [[peasant-dilemma]].
 - **[[types-of-domain]]**, **[[peasant-ecotype]]**, **[[closed-corporate-peasant-community]]**, **[[peasant-coalition]]**, **[[peasant-movements]]**.
+
+### From *Peasant Wars* (1969)
+
+- **Six-case comparative peasant revolution** — Mexico, Russia, China, Viet Nam, Algeria, Cuba ([[wolf-peasant-wars-study]]; deep: [[hubs/studies/wolf-peasant-wars-study]]).
+- **Capitalism as radical cultural system** — land/labor/wealth as fictitious commodities (Polanyi/Heilbroner via Wolf); “capitalism necessarily produces a revolution of its own.”
+- **[[middle-peasant]] + [[tactical-mobility]] thesis** — pivotal revolutionary recruits among middle and free/peripheral peasants; landlord-dependent poor and rich-peasant allies of external power are not, absent domain-breaking external force.
+- **Limits** — peasants as “natural anarchists” of the free village; army vs party paths from rebellion to societal seizure; civic close on “America’s dilemma” (Vietnam teach-in origin).
 
 ### From *Europe and the People Without History* (1982)
 
@@ -54,18 +61,19 @@ Wolf relocated anthropological subjects inside historically evolving systems of 
 
 - *Peasants*: typological risk; development-era language; second-hand cases.
 - *EPWH*: charges of Systems Marxism and thin culture/agency (Wolf 1997 reply: modes as suppositions; culture relational and power-laden); regional specialists revise chapter detail; concurrent Writing Culture moment offered different restorations of historicity (voice/textuality vs political economy).
-- *Peasant Wars* and full biographical literature not yet primary-ingested.
+- *Peasant Wars*: secondary-source dependence; selection on consequential wars; middle-peasant thesis contested in agrarian sociology; Vietnam-era civic frame (see study page).
+- Full book-length biographies and archives still thin in the collection.
 
 ## Historiography
 
-Densified from *Peasants* 1966 and *EPWH* 1982/1997/2010 (Eriksen foreword). Secondary biographies and archives still thin in the collection. Reception tracked in Eriksen 2010 and Wolf's own 1997 preface.
+Densified from *Peasants* 1966, *Peasant Wars* 1969, and *EPWH* 1982/1997/2010 (Eriksen foreword). Secondary biographies and archives still thin. Reception tracked in Eriksen 2010, Wolf's 1997 preface, and the peasant-revolution literature.
 
 ## Links
 
-- sources: [[wolf-peasants-1966]] · [[wolf-europe-people-without-history-1982]]
-- study: [[wolf-europe-people-without-history-study]]
-- hub: [[hubs/thinkers/wolf-eric-r]]
+- sources: [[wolf-peasants-1966]] · [[wolf-peasant-wars-1969]] · [[wolf-europe-people-without-history-1982]]
+- studies: [[wolf-peasant-wars-study]] · [[wolf-europe-people-without-history-study]]
+- hubs: [[hubs/thinkers/wolf-eric-r]] · [[hubs/studies/wolf-peasant-wars-study]]
 - theory: [[anthropological-political-economy]] · [[cultural-ecology]] · [[historical-materialism]] · [[world-systems-analysis]]
-- concepts: [[peasant]] · [[people-without-history]] · [[tributary-mode-of-production]] · [[kin-ordered-mode-of-production]] · [[social-labor]] · [[mode-of-production]]
-- related: [[sahlins-marshall]] · [[polanyi-karl]] · [[marx-karl]] · [[wallerstein-immanuel]] · [[amin-samir]]
+- concepts: [[peasant]] · [[middle-peasant]] · [[tactical-mobility]] · [[people-without-history]] · [[tributary-mode-of-production]] · [[kin-ordered-mode-of-production]] · [[social-labor]] · [[mode-of-production]]
+- related: [[sahlins-marshall]] · [[polanyi-karl]] · [[marx-karl]] · [[wallerstein-immanuel]] · [[amin-samir]] · [[skocpol-states-social-revolutions-study]]
 ---

@@ -9,10 +9,10 @@ region: [global]
 measured_by: ["trade/FDI ratios", "cultural-flow indices", "policy packages (Washington Consensus) — contested operationalizations"]
 driven_by: ["[[unknown]]"]
 produces: ["[[unknown]]"]
-theorized_by: ["[[world-systems-analysis]]", "[[modernization-theory]]", "[[global-city-theory]]", "[[network-society-theory]]", "[[global-cultural-flows]] (Appadurai)", "neoliberal policy discourse", "[[ethnography-of-global-connection]] (Tsing)"]
+theorized_by: ["[[world-systems-analysis]]", "[[modernization-theory]]", "[[global-city-theory]]", "[[network-society-theory]]", "[[global-cultural-flows]] (Appadurai)", "neoliberal policy discourse", "[[ethnography-of-global-connection]] (Tsing)", "[[giddens-anthony]] (disembedding / radicalised modernity)"]
 key_studies: ["[[wallerstein-modern-world-system-longue-duree-2004]] (program critiques)", "[[sassen-global-city-study]]", "[[castells-rise-network-society-study]]", "[[tsing-friction-study]]"]
-sources_ingested: 5
-last_updated: 2026-07-09
+sources_ingested: 6
+last_updated: 2026-07-10
 tags: [phenomenon, global]
 ---
 
@@ -57,6 +57,14 @@ Wiki voice only for brute descriptive trends where multi-source convergent; not 
 - Global forces are aggregates of local/global interactions, not only pressures that locals accommodate; study via [[ethnography-of-global-connection]] and [[scale-making]].
 - Universals that organize capital, science, and politics are [[traveling-universals|engaged universals]] — sticky practical links, not pure truths or pure lies.
 - Globalization is not a pizza-whole delivered from centers; it is **fragments**, some of which successfully look like wholes (Coda).
+
+**Attributed positions from *[[giddens-consequences-of-modernity-1990|The Consequences of Modernity]]* (Giddens 1990):**
+
+- **Definition:** globalisation as the **intensification of worldwide social relations** linking distant localities so that local happenings are shaped by distant events and vice versa — the "stretching" of connections across the earth’s surface; modernity is **inherently globalising** via [[disembedding]] and reflexivity.
+- **Dialectical:** local transformation is as much part of globalisation as lateral extension; outcomes are often mutually opposed tendencies (e.g. Singapore prosperity linked to Pittsburgh impoverishment via global networks); nation-state "too small for the big problems of life, and too big for the small problems of life."
+- **Four dimensions** (mapping his four institutional dimensions of modernity): world capitalist economy; nation-state system; world military order; industrialism / global division of labour — plus cultural globalisation and media as an underlying force. Critiques **IR** literature (only one dimension; states-as-actors only fully makes sense for nation-states; weak on crosscutting social relations) and **[[world-systems-analysis|Wallerstein]]** (credits global economic span but rejects single-nexus capitalism-only explanation and core/semi-periphery/periphery as insufficient for political/military power).
+- **Sovereignty:** modern state sovereignty formed *in conjunction with* the state system (mutual recognition), not simply lost in a progressive story of decline.
+- **Western project?** Institutional *origins* of modernity are Western; globalising *tendencies* are not peculiarly Western once modern institutions are established; the reflexive knowledge dynamic is Western in origin with qualifications.
 
 **Attributed positions from *[[appadurai-modernity-at-large-1996|Modernity at Large]]* (Appadurai 1996):**
 

@@ -111,6 +111,27 @@ charged discourse reproduced for analysis; see [[indigenous-archaeology]],
 
 [[stocking-victorian-anthropology-1987|Stocking's]] *Victorian Anthropology* documents the prehistory of the Boasian critique. He stresses (attributed) that in mid-Victorian usage "race" carried much of the meaning later assigned to [[culture]] — "a summation of historically accumulated moral differences sustained and slowly modified from generation to generation" — because the widely accepted (semi-Lamarckian) inheritance of acquired characteristics made cultural habit readily convertible into hereditary "racial" tendency. On this view, Stocking argues, the analytic distinction between "racial" and "cultural" determinism largely collapsed for the Victorian evolutionists: [[tylor-edward-burnett|Tylor]] could speak of the "Italian race," and his ordering of peoples by cultural rank (Australian → Tahitian → Aztec → Chinese → Italian) doubled as an ordering by skin-colour saturation. Classical evolutionism, Stocking holds, preserved a doctrine of [[psychic-unity-of-mankind|psychic unity]] while incorporating substantial racialism by relocating racial mental difference into evolutionary *time* rather than treating races as aboriginally distinct (as [[polygenism]] did) — but this move reduced the significance of cultural variety by treating it as graded distance from a single civilizational standard. Evolutionary racialism thereby gave later colonialism a more secular rationale than earlier polygenist or missionary framings: it "offered a secular explanation of how [the racial] hierarchy had arisen." See [[degenerationism]], [[social-darwinism]], [[victorian-ethnology-anthropology-schism-debate]].
 
+## Race, culture, and the Lamarckian blur (Stocking 1968)
+
+*(Attributed — [[stocking-george-w|Stocking]], *[[stocking-race-culture-evolution-1968|Race,
+Culture, and Evolution]]*, essays 3, 6, 10.)* Stocking's account of how "race" functioned in
+American social science c. 1890–1915 turns on [[lamarckian-inheritance|Lamarckian
+inheritance]]: because acquired habits were assumed heritable, "race" and "civilization"
+were routinely interchanged — Henry Cabot Lodge's 1896 "race" ("ideas, traditions,
+sentiments... an unconscious inheritance") is what would now be called *culture*, but
+conceived as hereditary. Stocking's central historiographical device is that once
+Lamarckianism lost biological legitimacy (Weismann → Mendel; and [[kroeber-alfred-l|Kroeber]]'s
+1917 "Superorganic"), turning "race" into "culture" required only "the substitution of a
+word": "for 'race' read 'culture' or 'civilization,' for 'racial heredity' read 'cultural
+heritage,' and the change had taken place." He also documents (essay 3) the **persistence of
+[[polygenism|polygenist]] thought after Darwin** under new evolutionary vocabulary, and
+(essay 6) the fusion of Darwinian evolution, evolutionary ethnology, and polygenist race
+into a single "raciocultural hierarchy" topped by "large-brained white men." Stocking's own
+view is that "race" as an analytic category was "a characteristically nineteenth-century
+phenomenon" whose intellectual framework was permanently altered by the Boasian turn — while
+noting that racism itself persisted. Charged period claims (Bean's 1906 brain study, Ripley
+and Bean on Jewish physiology) are recorded as documented positions, not findings.
+
 ## Darwin, *Descent of Man* (1871)
 
 Primary source: [[darwin-descent-of-man-1871]]. Darwin applied ordinary natural-history species criteria to human races and concluded they should **not** rank as distinct species: they fuse when coexisting, every “racial” character is highly variable, and they graduate into each other (endless classifier disagreement from 2 to 63 races). Preferred rank: **sub-species**; evolutionary [[monogenism]] — once evolution is accepted, the monogenist–[[polygenism|polygenist]] dispute “will die a silent and unobserved death.” Mental similarities across races (Tylor, Lubbock) and numerous unimportant structural agreements argue common descent. External differences (colour, hair, features) are, he argued, not explained by climate, use/disuse, correlation, or [[natural-selection]] on utility; residual agency is [[sexual-selection]] by race-relative beauty standards (developed in Part II and ch. XIX–XX). He also described extinction of races chiefly as competition of tribe with tribe and race with race under colonial contact — period natural-history language recorded as **attributed position**, not wiki-voice justification. Victorian racial typology and hierarchical vocabulary throughout *Descent* remain period constructs.

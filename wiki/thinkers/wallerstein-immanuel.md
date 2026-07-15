@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["[[wallerstein-modern-world-system-1-1974|The Modern World-System I (1974)]]", "[[wallerstein-world-systems-analysis-introduction-2004|World-Systems Analysis: An Introduction (2004)]]", "[[wallerstein-modern-world-system-longue-duree-2004|The Modern World-System in the Longue Durée (ed., 2004)]]"]
 key_concepts: ["[[capitalist-world-economy]]", "[[core-periphery]]", "[[semiperiphery]]", "[[antisystemic-movements]]", "[[world-system-hegemony]]", "[[structures-of-knowledge]]", "[[longue-duree]]"]
 fieldwork_sites: ["[[unknown]]"]
-sources_ingested: 3
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [thinker, sociology]
 ---
 
@@ -39,6 +39,9 @@ Wallerstein's program treats the modern world as a single [[capitalist-world-eco
 - **Collaborators/network:** [[arrighi-giovanni|Giovanni Arrighi]]; Terence K. Hopkins; contributors to the 2004 volume including [[amin-samir|Samir Amin]], [[collins-randall|Randall Collins]], Mahmood Mamdani, Boaventura de Sousa Santos, Michel-Rolph Trouillot, Janet Abu-Lughod.
 
 ## Critiques and Reappraisals
+
+**Connell (*Southern Theory* 2007, attributed):** Connell praises attempts (including world-systems) that thematise colonialism and world inequality, but argues the Gulbenkian *Open the Social Sciences* report (1996; Wallerstein chair) wrote an "immaculately Eurocentric" history of social science from a North American viewpoint. On globalisation sociologies, she treats Wallerstein as naming the metropole/system more clearly than many, yet still reifying the system and closing gender/race (Connell's reading). See [[southern-theory]].
+
 
 External critiques (to be thickened when primary critiques are ingested) target economic reductionism, culture/agency neglect, crisis teleology, and gender. Internal volume challenges include von Werlhof on production-of-life / alchemy and Santos on epistemology of the South. All positions attributed.
 

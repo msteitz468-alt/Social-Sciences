@@ -73,4 +73,22 @@ Critiques oasis **and** nuclear-zone settling-in / “Garden of Eden” narrativ
 
 ## Related pages
 
-[[hilly-flanks]] · [[nuclear-area]] · [[incipient-cultivation]] · [[neolithic-revolution]] · [[agricultural-revolution]] · [[jarmo]] · [[natufian-culture]] · [[braidwood-robert]] · [[childe-v-gordon]] · [[binford-lewis]] · [[flannery-kent-v]] · [[broad-spectrum-revolution]] · [[ucko-dimbleby-domestication-exploitation-1969]]
+[[hilly-flanks]] · [[nuclear-area]] · [[incipient-cultivation]] · [[neolithic-revolution]] · [[agricultural-revolution]] · [[jarmo]] · [[natufian-culture]] · [[braidwood-robert]] · [[childe-v-gordon]] · [[binford-lewis]] · [[flannery-kent-v]] · [[broad-spectrum-revolution]] · [[ucko-dimbleby-domestication-exploitation-1969]] · [[barker-agricultural-revolution-prehistory-2006]]
+
+## Barker 2006 densification (*The Agricultural Revolution in Prehistory*)
+
+*(Attributed — [[barker-graeme]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006. Position recording of historiographic restatement; does not reopen wiki-voice verdict.)*
+
+### Position A restated (Childe oasis)
+
+Barker’s Ch. 1 restates Childe’s **oasis hypothesis**: Neolithic Revolution began where wild ancestors of domesticates lived (Near East / Fertile Crescent); post-Pleistocene **desiccation** concentrated people, cereals, and animals at oases, enabling husbandry, selective breeding, mixed farming, village life, crafts, trade, and demographic expansion. Urban Revolution in the same region made early farming there more likely in Childe’s narrative. Late in life Childe grew unconvinced of pure oasis theory (early farming communities in mountains, not only great river valleys).
+
+### Position B restated (Braidwood hilly flanks / natural habitat)
+
+[[braidwood-robert|Braidwood]] sought to disprove oasis theory; early farming on “[[hilly-flanks|hilly flanks of the Fertile Crescent]]” because modern wild cereals and sheep/goats are upland species. Pollen work (H. Wright; van Zeist) indicated early Holocene warmer/wetter, **not** desiccation — oasis hypothesis **as Childe proposed** should be abandoned (Barker’s report of the mid-century verdict). Jarmo and peer aceramic Neolithic villages operationalized the natural-habitat program.
+
+### Residual “culture not ready” and packing alternative
+
+Braidwood expected environmental cause but concluded cultural reasons because major Pleistocene–Holocene climatic change was earlier than villages like Jarmo: Final Palaeolithic broad-spectrum hunting-gathering set the stage, yet “culture was not yet ready” (Braidwood and Howe 1960: 342 via Barker). Barker places Binford’s 1968 packing/marginal-zone model and Flannery’s systems/positive-feedback models as later demographic-ecological alternatives that keep environment–sedentism–population linkages without Childe’s desiccation geography (see Position D above). Vavilov crop-centre logic is noted as stimulus for Braidwood-era “hearth” projects.
+
+Resolution status unchanged: pure oasis geography abandoned; multi-causal and multi-regional openings remain live. Source: [[barker-agricultural-revolution-prehistory-2006]].

@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Relatively autonomous social space of positions and position-takings defined by distributions of capital; historical constitution of artistic, religious, academic fields"
 contested: yes
 related_concepts: ["[[habitus]]", "[[symbolic-capital]]", "[[cultural-capital]]", "[[illusio]]", "[[doxa]]", "[[strategic-action-field]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [concept]
 aliases: [field, champ]
 ---
@@ -42,12 +42,28 @@ Being product of a particular class of objective regularities, habitus tends to 
 - **Institutionalization of capital.** Degree of objectification of capital distinguishes modes of domination (personal vs mechanism-mediated).
 - **Scientific and artistic fields** as examples of autonomized games and of denial of economy taking refuge in art/culture.
 
+## In *Homo Academicus* (1984)
+
+*(Attributed — Bourdieu, [[bourdieu-homo-academicus-1984]]; see [[bourdieu-homo-academicus-study]].)* *Homo Academicus* applies field theory to the [[academic-field|academic field]], framed through Kant's "conflict of the faculties" (*Le conflit des facultés*): the higher, temporally dominant faculties (theology, law, medicine) hold government's confidence and least autonomy, while the "lower faculty" (rational/empirical science) is left to scholarly reason alone. Bourdieu argues the university field is homologous to the field of power but retains its own logic, distributing along a **chiasmatic structure** — one pole scientifically dominant but socially dominated (letters, sciences), the other scientifically dominated but temporally dominant (law, medicine) — which explains differential weight given to research versus teaching across faculties. Cross-link: [[academic-field]].
+
+## In *The State Nobility* (1989)
+
+*(Attributed — Bourdieu, [[bourdieu-state-nobility-1996]]; see [[bourdieu-state-nobility-study]].)*
+The fullest field monograph now ingested: the [[grandes-ecoles]] shown to constitute a genuine
+field with detectable **field effects** ("the transformations undergone by the École Normale and
+the École Polytechnique following the creation of the ENA"), structured **chiasmatically** and
+homologously to the [[field-of-power]] — the concept of a meta-field of capitals here receives
+its first full theoretical and empirical elaboration. The "On Method" appendix supplies the
+method's clearest statement: field construction precedes measurement, and random sampling is
+rejected for **structural sampling** (representativity as structural homology). See
+[[field-of-power]] and [[correspondence-analysis]].
+
 ## Applications
 
 - **Honour and agrarian social space ([[kabyle]]).** Not a modern "field" in the full sense, but a configuration of capital (fighting strength, economic, symbolic) and stakes of *nif*/*h'urma* with practical kinship networks — the ethnographic base against which modern fields are contrasted.
 - **Educational and cultural production.** Educational qualifications as objectified cultural capital with conventional fixed value; artistic field as island of disinterestedness (alluded).
 - **Science as field of belief.** Participant objectification uses membership of the science field to objectify other games of belief.
-- **Full field monographs** (rules of art, homo academicus, state nobility, etc.) — future ingests.
+- **Full field monographs**: [[bourdieu-homo-academicus-1984|Homo Academicus]] and [[bourdieu-state-nobility-1996|The State Nobility]] now ingested; *Rules of Art* etc. still queued.
 
 ## Critiques and Limitations
 

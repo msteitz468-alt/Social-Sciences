@@ -7,8 +7,8 @@ date_introduced: "1992 (enacted); 1995 ('The Primacy of the Ethical', programmat
 supersedes: []
 epistemic_leverage: "access and moral insight gained by taking sides and 'accompanying' the studied community; ethnography as witness and solidarity"
 key_limitations: "threat to analytic distance and comparability; risk of advocacy overriding evidence; partisanship as a validity concern"
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [method]
 ---
 
@@ -55,6 +55,17 @@ formulation provoked the discipline's defining exchange on advocacy vs. objectiv
 
 *[[scheper-hughes-death-without-weeping-study]]* is the method's exemplar; her later Organs Watch investigation
 of the global organ trade extends it into activist research.
+
+**Organs Watch as hybrid ethnography / surveillance / human rights.** In "Commodity Fetishism in Organs
+Trafficking" (*[[scheper-hughes-wacquant-commodifying-bodies-2002|Commodifying Bodies]]*, 2001/2002),
+Scheper-Hughes states (attributed) that the Organs Watch project blends ethnography, fact-finding,
+documentation/surveillance, and human-rights work — transgressing boundaries among anthropology, political
+journalism, scientific report, moral philosophy, and advocacy. Newer ethnographic engagements, she argues,
+require spaces where nothing can be taken for granted and a **"hermeneutics of suspicion"** replaces earlier
+modes of bracketing, moral relativism, and suspension of disbelief. The program aims to pierce gift/altruism
+rhetoric around the [[human-organs-trade]] and to establish a social-justice "ethical blueprint" for
+anthropology and medicine (including the demand that the "gift of life" not become a "theft of life"). See
+also [[multi-sited-ethnography]], [[body-commodification]], [[critical-medical-anthropology]].
 
 ## Debates
 

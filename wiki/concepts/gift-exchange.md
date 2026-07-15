@@ -7,9 +7,9 @@ disciplines: [anthropology, sociology]
 emic_or_etic: etic
 operationalized_as: "Institutionalized cycles of giving, receiving, and repaying under obligation; documented ethnographically (Kula, potlatch)"
 contested: no
-related_concepts: ["[[social-exchange]]", "[[reciprocal-obligation]]", "[[differentiation-of-power]]", "[[conspicuous-waste]]", "[[superordination-and-subordination]]", "[[feeling-rules]]", "[[emotion-work]]", "[[emotional-labor]]", "[[symbolic-capital]]", "[[misrecognition]]", "[[habitus]]", "[[practical-sense]]", "[[illusio]]", "[[strategy-vs-rule]]", "[[earmarking]]", "[[multiple-monies]]", "[[relational-work]]", "[[total-prestation]]", "[[hau]]", "[[potlatch]]", "[[total-social-phenomenon]]", "[[kula]]", "[[urigubu]]"]
-sources_ingested: 11
-last_updated: 2026-07-09
+related_concepts: ["[[social-exchange]]", "[[reciprocal-obligation]]", "[[differentiation-of-power]]", "[[conspicuous-waste]]", "[[superordination-and-subordination]]", "[[feeling-rules]]", "[[emotion-work]]", "[[emotional-labor]]", "[[symbolic-capital]]", "[[misrecognition]]", "[[habitus]]", "[[practical-sense]]", "[[illusio]]", "[[strategy-vs-rule]]", "[[earmarking]]", "[[multiple-monies]]", "[[relational-work]]", "[[total-prestation]]", "[[hau]]", "[[potlatch]]", "[[total-social-phenomenon]]", "[[kula]]", "[[urigubu]]", "[[body-commodification]]", "[[commodity-fetishism]]"]
+sources_ingested: 13
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -119,6 +119,18 @@ In *[[appadurai-social-life-of-things-1986|The Social Life of Things]]*, [[appad
 ## Tsing on matsutake gift–commodity toggle (2015)
 
 In *[[tsing-mushroom-2015|The Mushroom at the End of the World]]*, [[tsing-anna-lowenhaupt|Tsing]] argues matsutake is a capitalist commodity that **begins and ends its life as a gift**, spending only hours as fully alienated inventory (shipping crates / aircraft) — hours that structure exporter–importer accumulation ([[salvage-accumulation]]). Oregon pickers’ mushrooms are first non-alienated freedom trophies; Japanese markets re-embed them as seasonal gifts, perks, and bribes after wholesale re-sorting *(Tsing 2015)*. Complements Appadurai’s gift/commodity blur without dissolving either pole; see also [[commoditization]], [[alienation]], [[open-ticket-oregon]].
+
+## Sahlins 2013 — gift in the kinship–magic regime
+
+*(Attributed — [[sahlins-marshall|Sahlins]], *[[sahlins-what-kinship-is-2013|What Kinship Is—And Is Not]]* 2013, via [[viveiros-de-castro-eduardo|Viveiros de Castro]].)* Gift exchange, kinship, and magic are modalities of one animistic regime of intersubjective participation: parties reciprocally appropriate things inalienably associated with the other, creating **fellowship** = hallmark of [[mutuality-of-being|kinship]]; intentional deployment of a thing-person for beneficial effects has the quality of a magical act. Failed exchange ruptures fellowship with effects analogous to sorcery — Johansen on Maori unrequited gift as *mate* (weakening) or *kaihau* of the *[[hau]]* (draining the giver's life). Politics of gift hierarchy deferred by Sahlins but flagged (gifts as poison/slavery/domination). Links: [[mutuality-of-being]] · [[hau]] · [[kinship-biology-vs-culture-debate]].
+
+## Applications (body tissues, organs, semen — *Commodifying Bodies*, 2001/2002)
+
+*(Attributed — chapters in *[[scheper-hughes-wacquant-commodifying-bodies-2002|Commodifying Bodies]]* / *Body & Society* 7.2–3. These applications treat gift ideology as rhetoric that can mask or reframe market relations in [[body-commodification]]; they do not dissolve Mauss's analytic.)*
+
+- **Lock — "gift of life" and organ/tissue alienation.** [[lock-margaret|Margaret Lock]] ("The Alienation of Body Tissue…") re-reads Mauss via Taussig: non-capitalist gift bonds center reciprocity and a modicum of the giver's "essence," which modern markets deny in favor of Marxian [[commodity-fetishism]]. She argues transplant promotion deliberately mobilizes organ fetishism: coordinators bandy the **"gift of life"** metaphor, and donor families speak of the dead "living on," while recipients who animate organs with donor qualities are reprimanded as pathological — a contradictory suppression of Maussian person-in-thing once the organ is stitched in. Body tissues, she holds, are more often treated as inalienable except in carefully circumscribed activity; free exchange requires first reconceptualizing parts as thing-like and non-self. See also [[human-organs-trade]].
+- **Tober — semen as gift and goods; Titmuss parallel; market in altruism.** Diane M. Tober ("Semen as Gift, Semen as Goods: Reproductive Workers and the Market in Altruism") argues semen giving/buying/selling **conflates** gift and commodity: semen is purchased, marketed, and screened yet cannot escape social relations of "fatherhood" (fantasy of the donor; possible later contact; recipients experiencing paid semen as a precious gift). She maps Titmuss's *The Gift Relationship* (blood: commercial = bad / voluntary = good) onto sperm banking, but holds that semen donation always involves some self-interest even when free and anonymous. Across repositories, she finds **altruism itself** treated as a quality of person (and thus of semen) with economic value — a **market in altruism** in which non- or low-pay banks may also increase profit margins on resale. Recipients and banks often reframe collection/sale as gift despite prices (attributed, Tober).
+- **Scheper-Hughes — piercing gift/altruism rhetoric.** In her Organs Watch program statement ("Commodity Fetishism in Organs Trafficking"), [[scheper-hughes-nancy|Scheper-Hughes]] seeks to pierce secrecy around harvesting and distribution protected by transplant's moral aura, and to forge a language free of "scarcities, gifts, altruism and life-saving." She closes by wanting assurances that the so-called "gift of life" never deteriorates into a "theft of life." She also notes "compensated gifting" within families alongside "coerced gifting" by domestic workers and prisoners (attributed). Method/politics: [[militant-anthropology]], [[multi-sited-ethnography]].
 
 ## Critiques and Limitations
 

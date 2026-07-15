@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "[[unknown]]"
 contested: yes
 related_concepts: ["[[savagery-barbarism-civilization]]", "[[culture]]", "[[ethnology]]", "[[social-evolutionism]]", "[[race]]", "[[multiplier-effect]]", "[[early-civilization]]", "[[state-formation]]"]
-sources_ingested: 7
-last_updated: 2026-07-10
+sources_ingested: 9
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -71,3 +71,11 @@ In *[[renfrew-emergence-of-civilisation-1972|The Emergence of Civilisation]]*, [
 ### Connah — *African Civilizations* (2016, attributed)
 
 [[connah-graham|Connah]] uses **civilizations** (plural) for precolonial African trajectories of urbanism and state formation without equating them to a singular Victorian ladder. The 3rd edition covers the **whole continent** (including Egypt and North Africa) against older tropical-Africa-only frames and against treating Egypt as non-African. Operational focus is archaeological evidence for cities and states under local environmental and social conditions ([[productive-land-hypothesis]]; trade as intensifier). Explicitly calls for African cases to play a larger role in **global social theory** of complexity (attributed, Ch. 12).
+
+### Wagner — civilization as the class-division of the cultural dialectic (1975, attributed)
+
+[[wagner-roy|Roy Wagner]] (*[[wagner-invention-of-culture-1975|The Invention of Culture]]*, Ch. 5) offers a symbolic-anthropological account: civilization arises when a society shifts from an episodic, alternating dialectical mode of self-creation (tribal societies, e.g. Iatmul dual organization) to a static division of society into classes each responsible for one mode of symbolization ([[invention-and-convention|collectivizing vs. differentiating]]) — a shift structurally unconscious to its participants ("the conditions under which such a class division comes into being effectively rule out any awareness of this dialectical relationship"). He traces the dynamic through medieval clergy/nobility vs. peasantry, the Reformation, the bourgeoisie, and modern mass culture, engaging Spengler approvingly on civilizational morphology while recasting "decline" as "a self-motivating transition from an episodic to a social power relation." Programmatic and illustrative, not evidential — no archaeological grounding claimed.
+
+### Bogucki 1999 — cultural term, Childe checklist critique (attributed)
+
+[[bogucki-peter|Bogucki]] (*[[bogucki-origins-human-society-1999|Origins of Human Society]]* Ch.8) treats **civilization** as a **cultural** term identifying archaeologically visible, spatially extensive later-prehistoric societies with monumental construction and “sophisticated culture,” while noting **no consensus** checklist. He recounts [[childe-v-gordon|Childe]]’s ten criteria and argues many (trade, craft specialization, wealth accumulation, art) occur in smaller-scale or [[transegalitarian]] communities; predictive science is almost undocumented; “ruling class” is vague; writing is important but **not universal** among civilizations. He unbundles civilization from [[urbanization|urbanism]] and the state — overlapping, not identical (attributed, as of 1999).

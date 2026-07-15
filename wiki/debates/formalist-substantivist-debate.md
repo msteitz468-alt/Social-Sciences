@@ -4,7 +4,7 @@ dispute_type: theoretical
 disciplines: [anthropology, economics, sociology]
 era: [postwar-expansion, critical-turn]
 positions: ["Substantivism (the economy is instituted and embedded; formal economics is culture-bound) — Polanyi, Dalton", "Formalism (economizing under scarcity is universal; marginalist tools apply everywhere) — Herskovits, Firth, Cook"]
-key_texts: ["[[malinowski-argonauts-1922|Malinowski, Argonauts (1922) — ethnographic precursor]]", "[[mauss-the-gift-1925|Mauss, The Gift (1925) — comparative precursor]]", "[[polanyi-great-transformation-1944|Polanyi, The Great Transformation (1944)]]", "Polanyi, Arensberg & Pearson, Trade and Market in the Early Empires (1957)", "Dalton, 'Economic Theory and Primitive Society' (1961)", "Cook, 'The Obsolete Anti-Market Mentality' (1966)"]
+key_texts: ["[[malinowski-argonauts-1922|Malinowski, Argonauts (1922) — ethnographic precursor]]", "[[mauss-the-gift-1925|Mauss, The Gift (1925) — comparative precursor]]", "[[firth-primitive-polynesian-economy-1939|Firth, Primitive Polynesian Economy (1939) — pre-formulation of both positions]]", "[[polanyi-great-transformation-1944|Polanyi, The Great Transformation (1944)]]", "Polanyi, Arensberg & Pearson, Trade and Market in the Early Empires (1957)", "Dalton, 'Economic Theory and Primitive Society' (1961)", "Cook, 'The Obsolete Anti-Market Mentality' (1966)"]
 resolution_status: dissolved
 last_updated: 2026-07-09
 tags: [debate]
@@ -21,6 +21,10 @@ The **substantive** meaning of "economic" — the provisioning of wants through 
 ## Position 2 — Formalism (Melville Herskovits, Raymond Firth, Scott Cook, Harold Schneider)
 
 **Economizing is universal.** Wherever means are scarce relative to ends — which is everywhere — people make allocative choices, and the concepts of marginal analysis (opportunity cost, maximizing, marginal utility) illuminate those choices in "primitive" and peasant economies as much as in market ones. Firth's Tikopia and Malay fisherfolk studies applied economic reasoning to non-market production; Scott Cook's "The Obsolete Anti-Market Mentality" (1966) charged substantivism with a romantic, dualist caricature of non-market societies and a covert anti-market ideology. Formalists held that the substantivists confused the *institutional form* of an economy with the *analytic tools* used to study it.
+
+## Pre-formulation: Firth 1939 (attributed)
+
+The debate's vocabulary and its central question are both already present in [[firth-raymond|Firth]]'s *[[firth-primitive-polynesian-economy-study|Primitive Polynesian Economy]]* (1939, primary-ingested). Firth adopted J. R. Hicks's distinction between **"substantial" and "formal" economic categories** ("he requires... a set of 'substantial' as well as 'formal' economic categories, to adopt the useful distinction made by J. R. Hicks"), argued against Robbins that Tikopia has no "final organizer" analogous to a price system, and concluded that "strictly speaking... in a primitive community with no money, no prices... there are no economic values" — value must be rebuilt as equivalence, "a substantial rather than a formal use of the term." Yet he simultaneously held that scarcity, choice, capital, and rational-choice postulates apply to Tikopia in modified form, provided "subsidiary postulates about human behaviour in defined cultural situations." His 1939 position is thus genuinely **intermediate**: later debate-era filing of Firth as a plain formalist flattens a text both camps drew on. His three characteristics of a primitive economy — personalized economic relations, the profit motive conditioned by social ends, reciprocity embedded in a wider social code — read as a substantivist program written fifteen years before Polanyi's "The Economy as Instituted Process."
 
 ## Shared ground, framed per side
 

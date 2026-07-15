@@ -6,11 +6,11 @@ region: [polynesia, oceania]
 language_affiliation: "Polynesian (Tongic)"
 subsistence_economy: horticultural
 kinship_system: "ranked patrilineages with a cross-cutting rule that sisters (and their children) outrank brothers; chiefly endogamy to preserve rank; haʻa lineages chiefly-only by contact era (Kirch 1984)"
-documented_by: ["[[flannery-marcus-creation-inequality-2012|Flannery & Marcus 2012 (comparative synthesis)]]", "[[kirch-evolution-polynesian-chiefdoms-1984|Kirch 1984 (archaeological–ethnohistoric synthesis)]]"]
-documentation_dates: "Edward Gifford ethnography 1920s; W. C. McKern archaeological survey 1929; Captain Cook eyewitness accounts 1773/1777; Patrick Kirch synthesis of archaeology and ethnohistory (as of 1984); Flannery & Marcus 2012 comparative synthesis"
+documented_by: ["[[flannery-marcus-creation-inequality-2012|Flannery & Marcus 2012 (comparative synthesis)]]", "[[kirch-evolution-polynesian-chiefdoms-1984|Kirch 1984 (archaeological–ethnohistoric synthesis)]]", "[[marcus-ethnography-thick-and-thin-1998|G. E. Marcus 1980 (elite ethnography, fieldwork 1972–75/78)]]"]
+documentation_dates: "Edward Gifford ethnography 1920s; W. C. McKern archaeological survey 1929; Captain Cook eyewitness accounts 1773/1777; George E. Marcus elite fieldwork 1972–75 with diaspora follow-up to 1978; Patrick Kirch synthesis of archaeology and ethnohistory (as of 1984); Flannery & Marcus 2012 comparative synthesis"
 endonym_exonym_note: "Tonga is the endonym; the paramount title was Tuʻi Tonga ('lord of Tonga')"
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [society, polynesia]
 ---
 
@@ -309,3 +309,24 @@ were **ancestral** (not functional inventions of irrigation management or pure r
 redistribution); ecological opportunity structure (no irrigation → magazine economy with
 storable yams) shaped the Tongan path relative to Hawaiʻi and Rapa Nui (see
 [[hawaiians]], [[rapanui]]).
+
+## Modern Tonga: elites on the world-system periphery (G. E. Marcus 1980)
+
+*(Attributed — [[marcus-george-e|George E. Marcus]], "Power on the Extreme Periphery" (1980), in *[[marcus-ethnography-thick-and-thin-1998|Ethnography Through Thick and Thin]]*; fieldwork summer 1972, full year 1973–74, visit 1975, with family-network follow-up in Auckland, Suva, Honolulu, Salt Lake City, and San Francisco 1974–78. All present-tense claims refer to that fieldwork moment.)*
+
+Applying Wallerstein's [[world-systems-analysis|world-system]] frame, Marcus distinguished **two periods of Tongan peripheral integration**: (1) 1875–1965 — Tupou I's 1875 constitutional monarchy (a pre-emptive response to colonization pressure and Wesleyan mission ambition), British Protectorate under Tupou II (1893–1917), stabilization under Queen Sālote (1917–1965); a small-holding peasantry, centralized kingship, constrained hereditary nobility, a "commoner elite" risen through church, education, and bureaucracy, and part-European merchant families. (2) From Tupou IV's succession (1965) and independence (1970) — elite formation reorganized around **dispersed international family networks** (New Zealand, Australia, Fiji, Hawaiʻi, California, Utah), remittances, and labor migration; Marcus's own rough estimate put over 30,000 Tongans permanently abroad against ~100,000 resident (as of the 1970s). His family resource inventories showed single kin networks spanning Tongan land allotments, church and bureaucratic office, and overseas businesses and wage labor. He hedged as impression, not finding, a Tonga–Samoa contrast (Tongan migrants more kin-anchored and culturally self-sufficient; Samoans more village/community-identified), drew a parallel to Silverman's Banaban "option maximization" (1969), and closed with the thesis that **cultural variability is more visible and more permissible at the extreme periphery** — peripheral states "can perhaps afford the kind of cultural variability and creativity in their operations which larger states cannot." Retrospectively (1998 Introduction) Marcus read this "radically internationalized" vision of Tonga as prefiguring [[multi-sited-ethnography|multi-sited]] and diaspora studies.
+
+## Update: *On the Road of the Winds* (Kirch 2017)
+
+*(Attributed — [[kirch-road-of-the-winds-2017|Kirch 2017]], a later synthesis
+consistent with and extending the 1984 case above.)* Kirch dates the founding Lapita
+settlement at Nukuleka on Tongatapu to roughly **896–880 BC**. He traces the long
+transformation of competing Tongatapu chiefdoms into a unified, expansionist
+**Tuʻi Tonga polity** that Kirch characterizes as a Polynesian **[[archaic-state|maritime
+"empire"]]** — hegemony extended over Haʻapai, Vavaʻu, Niuatoputapu, and ʻUvea. The
+diarchy of sacred Tuʻi Tonga and secular *hau* began with the 24th titleholder; annual
+*ʻinasi* first-fruits tribute continued into the historic period, witnessed by Cook in
+1777. The *langi* royal tombs at Muʻa/Lapaha anchor the chronology archaeologically, and
+a "wealth finance" system drawing prestige goods from Fiji and Samoa underwrote paramount
+power. Kirch names Tonga, alongside Hawaiʻi, as one of two Polynesian societies that
+crossed the threshold into an [[archaic-state|archaic state]]. See [[chiefdom]].

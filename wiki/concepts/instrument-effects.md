@@ -8,9 +8,9 @@ disciplines: [anthropology, political-anthropology, social-theory, development-s
 emic_or_etic: etic
 operationalized_as: "Effects of an institution or planned intervention that are simultaneously failures relative to official aims and systematically useful for other power relations — e.g. prison 'fails' to reform yet succeeds at producing delinquency useful to power; development project 'fails' to develop yet expands bureaucratic state power"
 contested: yes
-related_concepts: ["[[anti-politics-machine]]", "[[depoliticization]]", "[[analytics-of-power]]", "[[power-knowledge]]", "[[genealogy]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[anti-politics-machine]]", "[[depoliticization]]", "[[analytics-of-power]]", "[[disciplinary-power]]", "[[institutions/prison]]", "[[power-knowledge]]", "[[genealogy]]"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept, social-theory]
 ---
 
@@ -20,7 +20,7 @@ tags: [concept, social-theory]
 
 ## Definition as Coined
 
-Ferguson (1990, Ch. 1 and Ch. 9, attributed) cites Foucault on the prison: the prison fails to reduce crime / reform inmates as advertised, but succeeds in producing a milieu of delinquency that is useful for surveillance and social control — effects that are at once instrumental and unintended relative to the official program. Foucault: one should reverse the problem and ask what is *served by* the failure of the prison (Ferguson quoting *Discipline and Punish*).
+Ferguson (1990, Ch. 1 and Ch. 9, attributed) cites Foucault on the prison: the prison fails to reduce crime / reform inmates as advertised, but succeeds in producing a milieu of delinquency that is useful for surveillance and social control — effects that are at once instrumental and unintended relative to the official program. Primary source now ingested: *[[foucault-discipline-and-punish-1977|Discipline and Punish]]* Part Four — Foucault asks what is *served by* the failure of the prison (maintenance of delinquency, recidivism, closed delinquent milieux, post-sentence brandings) and proposes that the prison "succeeds extremely well" in producing a usable, supervised form of illegality within a police–prison–delinquency circuit (→ [[foucault-discipline-and-punish-study]], [[carceral-archipelago]]).
 
 Applied to **"development"** in Lesotho: projects fail to transform rural production as planned, yet expand state bureaucratic reach and depoliticize poverty ([[anti-politics-machine]]). The instrument-effect is **two-fold**: institutional expansion of bureaucratic state power + conceptual/ideological depoliticization of poverty and the state. Planners may rank agricultural transformation primary and government expansion secondary; Ferguson argues the resultant intelligibility may reverse that ranking without anyone having plotted it.
 

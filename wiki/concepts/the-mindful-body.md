@@ -1,15 +1,15 @@
 ---
 title: "The Mindful Body (three bodies)"
 concept_type: analytical
-coined_by: ["[[scheper-hughes-nancy|Nancy Scheper-Hughes]]", "Margaret Lock"]
+coined_by: ["[[scheper-hughes-nancy|Nancy Scheper-Hughes]]", "[[lock-margaret|Margaret Lock]]"]
 date_coined: "1987 ('The Mindful Body', Medical Anthropology Quarterly)"
 disciplines: [medical-anthropology, anthropology]
 emic_or_etic: etic
 operationalized_as: "an analytic reading of the body at three levels: the individual body-self, the social body, and the body politic"
 contested: "no"
-related_concepts: ["[[nervoso]]", "embodiment", "[[critical-medical-anthropology]]", "[[biopower]]", "[[everyday-violence]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[nervoso]]", "embodiment", "[[critical-medical-anthropology]]", "[[biopower]]", "[[everyday-violence]]", "[[body-commodification]]"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -17,9 +17,9 @@ tags: [concept]
 
 ## Definition as Coined
 
-**The mindful body** is the framework [[scheper-hughes-nancy|Nancy Scheper-Hughes]] and Margaret Lock
-proposed in "The Mindful Body: A Prolegomenon to Future Work in Medical Anthropology" (*Medical
-Anthropology Quarterly*, 1987), and which Scheper-Hughes applies throughout
+**The mindful body** is the framework [[scheper-hughes-nancy|Nancy Scheper-Hughes]] and
+[[lock-margaret|Margaret Lock]] proposed in "The Mindful Body: A Prolegomenon to Future Work in Medical
+Anthropology" (*Medical Anthropology Quarterly*, 1987), and which Scheper-Hughes applies throughout
 *[[scheper-hughes-death-without-weeping-1992|Death Without Weeping]]*. It analyzes the body at three
 mutually implicated levels: (1) the **individual body-self** — the existential, phenomenologically lived
 body; (2) the **social body** — the body as a symbol "good to think" with, a representational medium for
@@ -52,6 +52,19 @@ commentary, and political inscription rather than reduced to any one level.
 - **Embodiment and class.** Drawing on Boltanski, she argues popular classes "communicate with and through
   the body" (a somatic culture) while biomedicine, modeled on bourgeois psychological interiority,
   pathologizes this as deviance.
+- **Lock co-author → tissue alienation.** Co-author [[lock-margaret|Lock]] later develops biopolitics of
+  body-tissue alienation, immortalized cell lines, and gene/cell-line commodity fetishism in
+  *[[scheper-hughes-wacquant-commodifying-bodies-2002|Commodifying Bodies]]* ("The Alienation of Body Tissue…,"
+  2001/2002) — a continuation of the joint program's concern with bodies as political and economic objects,
+  though that chapter is not a restatement of the three-bodies schema itself (attributed path of work).
+- **Scheper-Hughes — organs traffic and the three bodies.** In "Commodity Fetishism in Organs Trafficking"
+  (same volume), Scheper-Hughes argues (attributed) that transplant technologies reconceptualize relations of
+  self and other, individual and society, and among the **"three bodies"** — lived body-self, body social, and
+  body politic (citing Scheper-Hughes and Lock 1987). She notes the irony that after the 1987 essay's
+  relativizing/deconstructionist impetus, she and Lock have since found notions of bodily autonomy and
+  integrity "almost universally shared" in repatriation demands, patients' rights, organ-theft rumors, and
+  resistance to presumed consent — even as some on the margins experience organ sale as empowerment against
+  state seizure of the body. Links: [[human-organs-trade]], [[body-commodification]].
 
 ## Critiques and Limitations
 

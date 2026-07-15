@@ -13,7 +13,7 @@ cultures: ["Ancestral Pueblo (Chacoan system)"]
 excavated_by: ["[[unknown]] — see specialist literature; textbook synthesis as of W&O 2007"]
 excavation_years: ["[[unknown]]"]
 key_finds: ["12 Great Houses including Pueblo Bonito (~700 rooms)", "road network (~600 km)", "irrigation works", "Mexican copper bells/macaws; Santa Fe-area turquoise", "distant pine beams"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [site, north-america]
 ---
@@ -50,3 +50,37 @@ W&O (2007) synthesize Chaco as a regional ritual-political system (Great Houses,
 - Do not equate the Chacoan archaeological system with a single people, language, or genetic population without attributed argument.
 
 *Source depth: textbook synthesis (as of [[wenke-olszewski-patterns-in-prehistory-2007|Wenke & Olszewski 2007]]).*
+
+## Fagan — "The Chaco Phenomenon" (1991, attributed)
+
+[[fagan-ancient-north-america-1991|Fagan (1991)]] presents Chaco as
+[[ancestral-pueblo-culture|Ancestral Pueblo]] society's most integrated expression, c. AD
+900–1150, expanding from the canyon to link 70+ communities across >25,000 sq mi of the San
+Juan Basin. Dendrochronology is load-bearing: highly variable 10th-century rainfall, a
+generally good AD 1050–1130 window, then a **prolonged drought cycle after AD 1100–1130** that
+Fagan ties to the system's decline.
+
+- **Great houses and great kivas.** Averaging ~216 rooms and up to four stories, cored masonry
+  with ashlar veneer; nine larger settlements each with at least one great kiva (Casa Rinconada
+  ~19 m across). Room counts imply 2,000–10,000 people (a ~5,600 estimate "reasonable"), while
+  arable land could support only ~2,000 — a mismatch feeding a **periodic-influx / pilgrimage**
+  reading. **Pueblo Bonito** (800+ rooms) has only 50–60 associable burials over 150 years;
+  **Pueblo Alto** had just 5 of 85 rooms inhabited yet trash middens with >150,000 sherds and
+  imported Chuska clay, chert, and beams — suggesting intermittent, event-scale deposition.
+- **Roads.** Straight courses ignoring terrain, up to 9 m wide, with stairways cut into
+  bedrock; >250 mi traced, linking outliers by roadway or line-of-sight signaling stations.
+  Function is debated — resource transport vs. James Judge's "pilgrim roads" for ceremonial
+  travel (there were no draft animals or wheels).
+- **Turquoise and exotics.** >60,000 turquoise fragments; macaws, copper bells, shell trumpets —
+  Chaco as a ritual and turquoise-processing center.
+
+**Centralized vs. egalitarian (position, attributed).** Fagan records **Gwinn Vivian (1989)**
+arguing Chaco was **not** a centralized complex society but an "egalitarian enterprise" — a San
+Juan variant whose growing linkages did not imply centralized control — explicitly against
+"other authorities" who read centralization. Whether the Chaco phenomenon was a purely local
+development or one expression of a broader eastern-Anasazi pattern, and whether post-collapse
+Mesa Verde traits arrived by migration or diffusion, are left open. Most scholars (per Fagan)
+reject a long-distance Mexican-merchant explanation in favor of a response to a
+population–resource imbalance in a high-risk farming environment (Cordell 1984). Key related
+sites: [[mesa-verde|Mesa Verde]], [[snaketown|Snaketown]]. (Source:
+[[fagan-ancient-north-america-1991]].)

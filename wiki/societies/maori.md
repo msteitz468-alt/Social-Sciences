@@ -8,7 +8,7 @@ kinship_system: "descent-group (iwi / hapū) organization; positional succession
 documented_by: ["[[sahlins-islands-of-history-1985]]", "[[kirch-evolution-polynesian-chiefdoms-1984]]"]
 documentation_dates: "mid-19th-century ethnohistory (Grey's 1840s–50s collections; the 1844–46 flagstaff war; Johansen 1954); Sahlins's field visit 1980s; reconstructed by Sahlins 1985; Kirch 1984 archaeological synthesis (comparative NZ pā/warfare, not a full NZ case study)"
 endonym_exonym_note: "Māori ('ordinary', 'normal') is the endonym adopted after European contact to distinguish the indigenous people from newcomers. This page documents 19th-century ethnohistory as read by Sahlins, not the living Māori people."
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [society, polynesia, oceania]
 ---
@@ -48,3 +48,19 @@ This page documents 19th-century Māori historical practice as read by Sahlins, 
 ## Kirch 1984 — pā fortifications and comparative note (attributed)
 
 *(Attributed — [[kirch-patrick-vinton|Kirch]], *[[kirch-evolution-polynesian-chiefdoms-1984|The Evolution of the Polynesian Chiefdoms]]* 1984.)* New Zealand is **not** one of Kirch’s three full diachronic case studies (Tonga, Hawaiʻi, Easter Island); he uses NZ comparatively for militarism, fortification, demography, and agricultural adaptation under temperate constraints. Fortification is the primary archaeological evidence for prehistoric Polynesian warfare; Māori *pā* epitomize his **Type IA** homeland defences (ridge/cone/headland with earthwork or palisade modification; East Polynesian *pa/pare* from PPN “enclosure,” developed convergently rather than by fort-diffusion). Polynesian fortification peaked in NZ: estimated **4,000–6,000** *pā* (Groube 1970), mostly North Island, distribution tracking prime agricultural settlement. Fox’s model (via Kirch): unfortified hilltop agricultural settlements with subterranean *kūmara* storage common by the 12th–13th centuries; transition to earthwork/palisade defences in the **15th–16th centuries** (e.g. Skipper’s Ridge, Tiromoana, Maioro, Kauri Point) to defend stored foodstuffs essential through winter and for spring planting. Related ethnohistoric models Kirch cites (not adjudicated here): Vayda on Māori warfare as ecological expansion under population pressure; Duff on chronic Classic Māori warfare and competition for good *kūmara* land. This material supplements, and does not replace, the Sahlins mytho-praxis ethnohistory above.
+
+## Update: *On the Road of the Winds* (Kirch 2017)
+
+*(Attributed — [[kirch-road-of-the-winds-2017|Kirch 2017]].)* Kirch's later synthesis
+places New Zealand's settlement as the **last** of the major East Polynesian
+archipelagoes to be colonized, at roughly **AD 1200–1300**, based on Wilmshurst et al.'s
+Pacific rat-bone radiocarbon dating — part of the same short-chronology revision noted
+on other Polynesian society pages (see [[hawaiians]], [[rapanui]]) and the
+[[pacific-settlement-chronology-debate]]. He describes Māori political organization as
+centered at the **hapū** (subtribe) level, with the **iwi** rarely achieving unified
+political action, and notes **pā** fortifications as a defining archaeological signature
+(consistent with his 1984 comparative treatment above). He cites the **Anaweka canoe**
+(~AD 1400) as material evidence of Polynesian voyaging technology. Kirch treats
+Aotearoa/New Zealand as an instructive negative case within Polynesia: a large,
+resource-rich archipelago whose social organization never consolidated into a
+hierarchical chiefdom comparable to Tonga or Hawaiʻi.

@@ -36,3 +36,5 @@ Weber's own illustrations — the Bedouin chief levying tribute via a following 
 ## Critiques and Limitations
 
 The translation dispute itself constitutes an ongoing interpretive debate (see [[weber-interpretive-sociology-debate]] where relevant): whether "authority," "domination," or "rule/rulership" best captures Weber's intended balance between legitimacy and coercion shapes how Anglophone sociology has received the concept, with "domination" (Gerth-Mills/Roth-Wittich) foregrounding coercive power in a way Tribe argues Weber did not intend. Weber's own definition of power as sociologically "amorphous" is itself a limitation he acknowledges — it is a residual, catch-all concept beside the sharper Herrschaft.
+
+**Lukes 2005.** *(Attributed — *[[lukes-power-radical-view-2005|PRV]]* Ch. 3.)* Argues Weberian *Herrschaft*/domination used too broadly if it covers all hierarchical command; seeks a narrower sense of domination for the three-dimensional power problem (securing compliance of the dominated), distinct from legitimate hierarchical power and from power-as-capacity generally.

@@ -8,7 +8,7 @@ emic_or_etic: etic
 operationalized_as: "Year-round or multi-season occupation of the same residential locus; inferred from architecture, midden depth, storage, seasonality indicators — thresholds contested"
 contested: yes
 related_concepts: ["[[domestication]]", "[[neolithic]]", "[[hunter-gatherer]]", "[[agricultural-revolution]]", "[[complex-society]]", "[[natufian-culture]]", "[[commensalism-archaeology]]", "[[epipaleolithic]]", "[[domus-complex]]"]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-07-10
 tags: [concept, archaeology]
 ---
@@ -90,3 +90,12 @@ Sedentism ≠ farming; reverse sequences regionally. Source: [[mithen-after-the-
 - **Osteology of grain sedentism:** Women in grain villages ~9 kya show bent-under toes and deformed knees from long grinding hours — repetitive-stress signatures paralleling later work-animal pathologies (Ch.2).
 
 Source: [[scott-against-the-grain-2017]].
+
+## Barker 2006 (*Agricultural Revolution in Prehistory*)
+
+*(Attributed — [[barker-graeme|Graeme Barker]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006, Chs. 3–4, 7.)*
+
+- **Core method claim.** Sedentism and farming are analytically separable; houses ≠ farming; permanent settlement without agriculture is attested — flagship case [[abu-hureyra]] Natufian via storage (Hillman via Barker). Archaeologists must be “extremely cautious” assuming degree of sedentism/mobility from structure type or subsistence status of builders (attributed).
+- **SW Asia sequence (as Barker reports).** Ohalo II semi-sedentary (hut floors remade thrice; no storage → seasonal reuse). Early Natufian larger sites (1,000–2,000 m²), houses, multi-seasonal occupation (commensal rodents/birds at Hayonim); some more-or-less permanent. Late Natufian YD stress reshapes settlement. PPNA many major settlements assumed permanent; PPNB rectangular houses with storage/hearths **within** house → household as primary production/consumption unit (contrast Natufian circular shelters at reoccupied Abu Hureyra) (attributed).
+- **Americas pattern.** Cultivation long before full sedentism/staple farming in most American regions; villages/Formative commitment lag millennia behind first plant manipulation. Exceptions: eastern Woodlands mixed foraging–farming supports socially differentiated river-valley settlement; marine-rich coasts support populous complex foragers without farming; SW maize for almost two millennia with little impact on forager mobility (Wills tactical storage) (attributed).
+- **Central Mexico risk model.** Barker counters Hayden competitive-feasting origin for Oaxaca agriculture: early Holocene highlands were small-scale mobile societies; his alternative is small-scale cultivation as risk reduction with long Natufian-like phase becoming increasingly sedentary (attributed position). Cross-links: [[natufian-culture]], [[maize-domestication]], [[neolithic-revolution]], [[barker-graeme]].

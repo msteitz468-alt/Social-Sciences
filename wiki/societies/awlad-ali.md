@@ -49,7 +49,7 @@ Principal modern ethnographic analysis: Abu-Lughod, *[[abu-lughod-veiled-sentime
 
 ## Representation Debates
 
-Awlad ʿAli are not a global media battleground on the scale of Yanomami or !Kung. Representation stakes appear mainly through (1) Abu-Lughod's dual-discourse framing of honor vs. vulnerability (not a timeless "fierce" or "oppressed" type), (2) Arabic press political critique of published accounts of tax avoidance, unlicensed arms, and distance from state law, and (3) later family concern about reputation when books and tapes circulate. Keep group description separate from wider "saving Muslim women" debates in Abu-Lughod's later public work (not yet fully ingested).
+Awlad ʿAli are not a global media battleground on the scale of Yanomami or !Kung. Representation stakes appear mainly through (1) Abu-Lughod's dual-discourse framing of honor vs. vulnerability (not a timeless "fierce" or "oppressed" type), (2) Arabic press political critique of published accounts of tax avoidance, unlicensed arms, and distance from state law, and (3) later family concern about reputation when books and tapes circulate. In *[[abu-lughod-do-muslim-women-2013|Do Muslim Women Need Saving?]]* (2013, now ingested), Abu-Lughod uses her Awlad ʿAli material — the honor code as mutual moral system; a late-1980s essay by a young Bedouin woman on marriage change and Islamic consent requirements; a 2010s mourning visit to Gateefa (married at thirteen, nine children, imposed co-wives) — as counter-evidence within the [[saving-muslim-women-debate]] and against the [[honor-crime]] category's "women as property" framing. Keep the group description here anchored to its documentation dates; the debate lives on its own page.
 
 ## Identity Cautions
 

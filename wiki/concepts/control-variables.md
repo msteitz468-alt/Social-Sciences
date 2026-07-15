@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Covariates held constant (cross-tabulation, matching, or multivariate modeling) to estimate the net effect of a test variable — the statistical simulation of experimental control"
 contested: yes
 related_concepts: ["[[selectivity]]", "[[superficial-vs-basic-causes]]", "[[transformational-causal-principle]]", "[[abstracted-empiricism]]", "[[asymmetrical-causation]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept, methodology]
 ---
 
@@ -48,4 +48,6 @@ Lieberson's constructive reorientation (chs. 10–11): shift from control simula
 
 ## Critiques and Limitations
 
-Defenders of modern causal inference argue that clearer identification assumptions, design-based strategies, and sensitivity analysis address many 1985-era abuses without abandoning adjustment. Lieberson anticipated the endless-regress objection (controls require further controls ad nauseam) and replied that some situations simply make the control procedure **inappropriate**, and that theory should be rebuilt to need fewer mock-experimental controls. His position is filed on [[qualitative-quantitative-divide-debate]] (internal quantitative critique) and relates to [[grand-theory-vs-abstracted-empiricism-debate]] without being identical to Mills. See also [[selectivity]], [[comparative-method]], *[[lieberson-making-it-count-1985|Making It Count]]*.
+Defenders of modern causal inference argue that clearer identification assumptions, design-based strategies, and sensitivity analysis address many 1985-era abuses without abandoning adjustment. Lieberson anticipated the endless-regress objection (controls require further controls ad nauseam) and replied that some situations simply make the control procedure **inappropriate**, and that theory should be rebuilt to need fewer mock-experimental controls.
+
+The pro-control position Lieberson attacks is stated programmatically by [[king-keohane-verba-designing-social-inquiry-1994|King, Keohane & Verba]] (1994), who argue (attributed) that controlling for confounds is central to non-experimental causal inference — while adding their own cautions: including *irrelevant* controls costs efficiency (proportional to the control's correlation with the main explanatory variable) but not bias; one must **not** control for variables that are consequences of the explanatory variable (post-treatment bias; see [[omitted-variable-bias]]); and matching can seduce the analyst into anomalous "special" cases that carry a new [[omitted-variable-bias|omitted-variable]] confound. KKV also reject the "most similar" vs. "most different" systems framing as inattentive to "similar in relation to what," proposing leverage over the causal hypothesis as the criterion instead. His position is filed on [[qualitative-quantitative-divide-debate]] (internal quantitative critique) and relates to [[grand-theory-vs-abstracted-empiricism-debate]] without being identical to Mills. See also [[selectivity]], [[comparative-method]], *[[lieberson-making-it-count-1985|Making It Count]]*.

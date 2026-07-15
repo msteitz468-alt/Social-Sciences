@@ -35,6 +35,25 @@ Polygenist argument rested on craniometry (Retzius's cephalic index; cranial-cap
 
 The doctrine underwrote hard hereditarian racism (Knox, Hunt) and colonial-era racial hierarchy. Stocking stresses its entanglement with the [[ethnology]]/anthropology institutional split and its partial absorption, post-Darwin, into evolutionary racialism — which explained racial hierarchy as an outcome of development in time rather than of separate creation.
 
+## Persistence after Darwin (Stocking 1968)
+
+*(Attributed — [[stocking-george-w|Stocking]], *[[stocking-race-culture-evolution-1968|Race,
+Culture, and Evolution]]*, essay 3, "The Persistence of Polygenist Thought in Post-Darwinian
+Anthropology.")* Stocking argues polygenist thinking did not die with Darwin's *Origin*
+(1859) but survived by adopting evolutionary vocabulary. Alfred Russel Wallace (1864)
+reconciled Darwinism with polygenism by holding that races differentiated *before* acquiring
+full human intellect, after which race types became static; James Hunt refused to apply
+Darwinism to anthropology "until we can free the subject from the unity hypothesis." Within
+physical anthropology the polygenist-descended tradition ran through Broca and
+Paul Topinard (who, unable to find any "pure race," retreated to race as a
+statistical "type") to William Z. Ripley's *Races of Europe* and Carlos Closson's cephalic-
+index "anthroposociology," culminating in **Madison Grant's *The Passing of the Great Race*
+(1916)**, which treated human races as separate biological species with "Mendelism" as a
+superficial trapping over pre-Darwinian polygenist roots. Stocking presents this survival as
+a central component of the "total pattern" of racial thought that [[boas-franz|Boas]] attacked
+in *[[boas-mind-of-primitive-man-1938|The Mind of Primitive Man]]*. These are documented
+period positions, not findings.
+
 ## Critiques and Limitations
 
 Monogenists (Prichard) answered polygenism with philological and environmentalist arguments for a single origin; the [[antiquity-of-man|revolution in human time]] paradoxically strengthened the *biological* case for monogenism (allowing time for divergence) while weakening ethnology's *historical* argument. The modern verdict — the biological unity of the human species and the incoherence of fixed racial "types" — was consolidated by Boasian anthropology (see [[boas-franz]], [[race-and-culture-debate]]) and later population genetics. Polygenism survives only as a documented episode in the history of scientific racism.

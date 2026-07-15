@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Patterns in content, rigidity, and relative salience of moral, socioeconomic, and cultural criteria of worth, recovered from interview talk and compared across nations and occupations (Lamont 1992)"
 contested: no
 related_concepts: ["[[symbolic-boundaries]]", "[[high-status-signals]]", "[[distinction]]", "[[cultural-capital]]", "[[class-cultures]]", "[[things-of-boundaries]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -34,3 +34,7 @@ Comparative interview analysis of what interviewees exclude, admire, and rank; o
 ## Critiques and Limitations
 
 As a process label, boundary work can become residual for any exclusion talk; Lamont’s contribution is **structured comparison** of content, strength, and autonomy of standards — not the bare claim that people draw lines. Agency vs structure: she positions between pure tool-kit voluntarism and habitus determinism (choices among repertoires, but repertoires and environments channel choice).
+
+## Adjacent: Tilly social-boundary mechanisms (2005)
+
+*(Attributed — Tilly.)* *[[tilly-identities-boundaries-social-ties-2005|Identities, Boundaries, and Social Ties]]* Ch. 9 inventories **[[social-boundary-mechanism|mechanisms of boundary change]]** (encounter, imposition, borrowing, conversation, incentive shift; inscription/erasure, activation/deactivation, site transfer, relocation) rather than comparative content of evaluative standards. Related to but not identical with Lamontian boundary work; Tilly cites Lamont & Molnár on the symbolic component of [[social-boundary|social boundaries]].

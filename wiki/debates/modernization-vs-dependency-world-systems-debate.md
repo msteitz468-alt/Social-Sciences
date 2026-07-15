@@ -7,9 +7,9 @@ positions:
   - "Modernization/development: national societies move along related trajectories; latecomers can catch up under right institutions and values (Lipset and broader program — attributed)"
   - "Dependency: underdevelopment is produced by integration into capitalism; core–periphery structure blocks catch-up (Cardoso/Faletto, Dos Santos et al. — not fully ingested)"
   - "World-systems: unit is the capitalist world-economy; polarization is systemic; national development is relational (Wallerstein, Amin, Arrighi — attributed)"
-key_texts: ["[[lipset-political-man-1960]]", "[[wallerstein-modern-world-system-longue-duree-2004]]", "Cardoso & Faletto Dependencia y desarrollo (1967) — not ingested", "Wallerstein Modern World-System I (1974) — not ingested"]
+key_texts: ["[[lipset-political-man-1960]]", "[[wallerstein-modern-world-system-longue-duree-2004]]", "[[connell-southern-theory-2007]] (ch. 7 secondary on Prebisch/Cardoso & Faletto)", "Cardoso & Faletto Dependencia y desarrollo (1967) — not ingested", "Wallerstein Modern World-System I (1974) — not ingested"]
 resolution_status: open
-last_updated: 2026-07-09
+last_updated: 2026-07-10
 tags: [debate]
 ---
 
@@ -39,6 +39,10 @@ All sides observe large cross-national income and power gaps in the nineteenth�
 
 *(none — open dispute; do not adjudicate in wiki voice)*
 
+## Connell (*Southern Theory* 2007, ch. 7)
+
+[[connell-raewyn|Connell]] treats Latin American dependency and culture debates as a major **Southern theory** case: [[prebisch-raul|Prebisch]]/CEPAL centre–periphery economics and the false universality of metropolitan economics; Cardoso & Faletto on dependent development (not simply the opposite of dependence); cultural-dependency and hybridity writers; dictatorships destroying autonomy models; and the claim that **neoliberalism is not Southern theory**. Primary dependency monographs remain uningested — Connell's reading is secondary mediation. See [[southern-theory]], [[connell-southern-theory-2007]], [[centre-periphery]].
+
 ## Related pages
 
-[[world-systems-analysis]] · [[modernization-theory]] · [[core-periphery]] · [[globalization]] · [[historical-materialism]]
+[[world-systems-analysis]] · [[modernization-theory]] · [[core-periphery]] · [[centre-periphery]] · [[southern-theory]] · [[globalization]] · [[historical-materialism]] · [[prebisch-raul]]

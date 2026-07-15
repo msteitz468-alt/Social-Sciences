@@ -7,9 +7,9 @@ disciplines: [sociology, anthropology]
 emic_or_etic: etic
 operationalized_as: "Historical-comparative formula: progressive societies move from personal conditions derived from family power (status) toward rights/duties created by individual agreement (contract); not a survey index"
 contested: yes
-related_concepts: ["[[patriarchal-theory]]", "[[legal-fictions]]", "[[industrial-type-of-society]]", "[[militant-type-of-society]]", "[[organic-solidarity]]", "[[non-contractual-elements-of-contract]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[patriarchal-theory]]", "[[legal-fictions]]", "[[industrial-type-of-society]]", "[[militant-type-of-society]]", "[[organic-solidarity]]", "[[non-contractual-elements-of-contract]]", "[[land-tenure]]", "[[prestige-goods-economy]]"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -42,6 +42,10 @@ Not quantified. Demonstrated via Roman family law (*patria potestas*, agnation, 
 ## Applications
 
 Core of *Ancient Law*; textbook private-law history; modernization and individualization narratives (often loosely).
+
+### Gluckman tribal land and exchange (1965)
+
+*(Attributed — [[gluckman-max|Gluckman]], *[[gluckman-politics-law-ritual-1965|Politics, Law and Ritual]]*, Ch. II.)* Uses Maine’s formula to frame tribal **[[land-tenure|estates of administration/production]]** and status-embedded transactions: people enter exchanges because of pre-existing status/kinship, not as relative strangers. Prestige/ceremonial circuits and generosity norms keep economic activity inside status relations; the “movement toward contract” is the comparative horizon of differentiated commercial economies, not a description of tribal systems as frozen.
 
 ## Critiques and Limitations
 

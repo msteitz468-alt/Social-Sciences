@@ -7,9 +7,9 @@ disciplines: [anthropology]
 emic_or_etic: etic
 operationalized_as: "writing aim opposed to representation / documentation"
 contested: yes
-related_concepts: ["[[post-modern-ethnography]]", "[[partial-truths]]", "[[ethnographic-realism]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[post-modern-ethnography]]", "[[partial-truths]]", "[[ethnographic-realism]]", "[[partial-connections]]", "[[writing-culture]]"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -42,3 +42,7 @@ See [[writing-culture-debate]]; charges of abandoning evidence standards; Asad�
 ## Links
 
 - [[tyler-stephen-a]], [[post-modern-ethnography]], [[writing-culture]]
+
+## Strathern engagement (1991)
+
+*(Attributed — [[strathern-marilyn|Strathern]], *[[strathern-partial-connections-1991|Partial Connections]].)* Takes Tyler’s evocation vs representation as Part I starting point: ethnography provides connection, not an object both writer and reader grasp. Argues the program still centers integrating writer/reader journey (hidden tourist aesthetic) and leaves classical comparison dismantled but under-rebuilt — her answer is [[partial-connections]] / [[postplural]] comparison. See [[strathern-partial-connections-study]], [[tyler-stephen-a]].

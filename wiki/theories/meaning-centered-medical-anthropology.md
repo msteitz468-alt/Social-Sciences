@@ -4,14 +4,14 @@ theory_type: research-program
 disciplines: ["[[medical-anthropology]]", "[[anthropology]]", "psychiatry"]
 era_origin: critical-turn
 date_origin: "1978–1988"
-originated_by: ["[[kleinman-arthur|Arthur Kleinman]]", "Byron Good", "Leon Eisenberg"]
-key_texts: ["Kleinman, Eisenberg & Good, 'Culture, Illness, and Care' (1978)", "Kleinman, *Patients and Healers in the Context of Culture* (1980)", "Kleinman, *[[kleinman-illness-narratives-1988|The Illness Narratives]]* (1988)", "Good, *Medicine, Rationality, and Experience* (1994)"]
+originated_by: ["[[kleinman-arthur|Arthur Kleinman]]", "[[good-byron|Byron Good]]", "Leon Eisenberg"]
+key_texts: ["Kleinman, Eisenberg & Good, 'Culture, Illness, and Care' (1978)", "Kleinman, *Patients and Healers in the Context of Culture* (1980)", "Kleinman, *[[kleinman-illness-narratives-1988|The Illness Narratives]]* (1988)", "Good, *[[good-medicine-rationality-1994|Medicine, Rationality, and Experience]]* (1994)"]
 core_claims: ["Illness is always meaningful; meaning is not incidental to disorder but part of it", "The illness/disease distinction: lived experience vs. biomedical reconstruction", "Illness meaning is analyzable as a four-level typology (symptom symbol, cultural significance, life-world, explanatory/emotional)", "Clinical work is interpretive — closer to ethnography and textual interpretation than to a laboratory test", "Healing has a moral core that biomedical reductionism neglects"]
 developed_from: ["interpretive anthropology (Geertz)", "phenomenology and hermeneutics", "the sociology of health and the [[sick-role]]"]
 competes_with: ["[[critical-medical-anthropology]]", "biomedical reductionism", "behavioral/biobehavioral models of illness"]
 status: active
-sources_ingested: 3
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [theory, medical-anthropology, anthropology]
 ---
 
@@ -60,8 +60,23 @@ and doctor together reconstruct the meaning of events in a shared mythopoesis."
 
 - **[[kleinman-arthur|Arthur Kleinman]]** — *Patients and Healers in the Context of Culture*
   (1980); *[[kleinman-illness-narratives-1988|The Illness Narratives]]* (1988).
-- **Byron Good** — *Medicine, Rationality, and Experience* (1994).
+- **[[good-byron|Byron Good]]** — *[[good-medicine-rationality-1994|Medicine, Rationality, and Experience]]* (1994).
 - **Leon Eisenberg** — the illness/disease distinction in psychiatry (1977).
+
+## The Epistemological Statement (Good 1994)
+
+Where Kleinman argues from the clinic, *[[good-medicine-rationality-1994|Medicine, Rationality,
+and Experience]]* (1994; the 1990 Morgan Lectures) supplies the program's theory of knowledge
+(attributed throughout). Good argues that the belief/knowledge distinction — "belief" for
+others' medicine, "knowledge" for biomedicine — is an empiricist inheritance that should be
+abandoned; that all medicine, biomedicine included, is a Cassirerian **symbolic form** whose
+"formative practices" (seeing, writing, speaking, in his Harvard Medical School ethnography)
+constitute its objects; that illness is finally an **aesthetic object**, synthesized through a
+network of perspectives (after Iser) rather than given as a biological state; and — against
+subjectivist readings — that "when we suffer disease, we confront the resistance of the real
+world as brute fact." His ch. 2 four-approach taxonomy (empiricist, cognitive, meaning-centered,
+critical) is also the program's most-cited self-location within the field. Good's semantic
+network method and his 1994 self-critique of it are on [[semantic-illness-network]].
 
 ## Foundational Statement (1980)
 

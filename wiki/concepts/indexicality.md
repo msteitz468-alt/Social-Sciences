@@ -1,24 +1,21 @@
 ---
 title: "Indexicality"
 concept_type: analytical
-coined_by: ["[[garfinkel-harold]]"]
-date_coined: 1967
-disciplines: [sociology]
+coined_by: ["[[garfinkel-harold]]", "[[silverstein-michael]]"]
+date_coined: "1967 (Garfinkel ethnomethodology); Peircean/Silversteinian linguistic-anthropology track parallel"
+disciplines: [sociology, linguistic-anthropology]
 emic_or_etic: etic
-operationalized_as: "not quantified — a demonstrated, essential property of practical language and action"
+operationalized_as: "not quantified — demonstrated property of practical language/action (Garfinkel); Peircean index linking form to social context (Silverstein/Irvine-Gal)"
 contested: no
-related_concepts: ["[[reflexivity-of-accounts]]", "[[accountability]]", "[[practical-action]]", "[[documentary-method-of-interpretation]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[reflexivity-of-accounts]]", "[[accountability]]", "[[practical-action]]", "[[documentary-method-of-interpretation]]", "[[liturgical-order]]", "[[language-ideology]]", "[[iconization]]"]
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
 # Indexicality
 
-In [[ethnomethodology]], **indexicality** is the property whereby the sense of an expression
-or action cannot be decided independently of the occasion of its use. [[garfinkel-harold|Garfinkel]]
-made it, in his own words, the first of the "constituent problematic phenomena" of the study
-of [[practical-action|practical action]].
+**Indexicality** names related but non-identical properties across research programs. In [[ethnomethodology]], it is the property whereby the sense of an expression or action cannot be decided independently of the occasion of its use ([[garfinkel-harold|Garfinkel]]). In [[linguistic-anthropology]], Peircean **index** (contiguity/pointing) is foundational to [[language-ideology|language-ideology]] analysis: linguistic forms become pointers to social identities and activities, and ideologies rationalize those links (often converting them toward [[iconization|icons]]).
 
 ## Definition as Coined
 
@@ -42,6 +39,18 @@ programmatic substitution of objective for indexical expressions "remains progra
 every particular case" and "is always accomplished only for all practical purposes." What
 logic treats as a removable defect, Garfinkel treats as an ineliminable and constitutive
 feature of all practical discourse — a decisive drift from the philosophical usage.
+
+**Peirce / Rappaport (adjacent track, not Garfinkel).** Independently, [[rappaport-roy-a|Rappaport]]
+(*[[rappaport-ecology-meaning-religion-1979|Ecology, Meaning, and Religion]]*, "The Obvious Aspects of Ritual")
+uses Peircean **indexical** vs **canonical** messages in [[liturgical-order|liturgical orders]]: indexical
+signals report current states (who participates, size of dance contingent), while canonical messages
+carry enduring liturgical content. This is Peirce/semiotic indexicality applied to ritual, not
+ethnomethodological indexicality of everyday accounts — same word-family, different research
+programs; do not merge.
+
+**Peirce / Silverstein / language ideology (third track).** [[silverstein-michael|Silverstein]] and the
+[[language-ideology]] program treat indexicality as the nonreferential ground of much linguistic meaning:
+forms point to speakers, settings, institutions, and identities. Kroskrity (*[[kroskrity-regimes-of-language-2000|Regimes]]* intro) cites this as foundational against denotation-only models. Irvine & Gal (2000) make indexical links the ground on which [[iconization]], [[fractal-recursivity]], and [[erasure-semiotic|erasure]] operate. **Do not merge** with Garfinkel’s ethnomethodological sense: shared Peircean/philosophical ancestry, different objects (occasioned accountability vs sociolinguistic differentiation and regimentation).
 
 ## Operationalizations
 

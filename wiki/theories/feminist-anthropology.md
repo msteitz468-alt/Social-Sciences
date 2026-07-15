@@ -16,8 +16,8 @@ core_claims:
 developed_from: ["[[symbolic-anthropology]]", "existentialism (de Beauvoir)", "[[structuralism]]"]
 competes_with: ["sociobiology", "biological determinism"]
 status: active
-sources_ingested: 6
-last_updated: 2026-07-10
+sources_ingested: 8
+last_updated: 2026-07-15
 tags: [theory, anthropology]
 ---
 
@@ -57,11 +57,21 @@ Ethnographic fieldwork attentive to women's perspectives; symbolic and structura
 
 The founding universalism was challenged within a decade: [[strathern-marilyn|Strathern]] and MacCormack (*Nature, Culture and Gender*, 1980) argued the [[nature-culture-distinction|nature/culture]] opposition is not universal; Collier and Yanagisako questioned the domestic/public split and even the cross-cultural stability of "gender" itself. [[ortner-sherry|Ortner]] (1996) and [[rosaldo-michelle|Rosaldo]] (1980, "The Use and Abuse of Anthropology") both revised toward historicized, less universal claims. See [[nature-culture-gender-debate]]. Within the 1974 volume itself, materialist essays (Sacks; O'Laughlin) already pulled against pure symbolic universalism.
 
+## Ortner — mountaineering gender (1999)
+
+*(Attributed — *[[ortner-life-and-death-everest-1999|Life and Death on Mt. Everest]]*; study [[ortner-life-and-death-everest-study]]; partly continuous with *Making Gender* 1996.)* Ortner argues Himalayan mountaineering **exacerbated gender inequality** among [[sherpa|Sherpas]] while enabling would-be egalitarian bonds among men via shared masculinity. 1970s women’s entry (memsahib expeditions; rare Sherpa women climbers including Ang Nyimi and Pasang Lhamu) meets sexism, paternalism, and resistance; Pasang Lhamu’s 1993 heroization intertwines gender with ethnic/national politics — a difference Ortner marks between first-world and minority/third-world feminisms. Not a universal nature/culture restatement; ethnographic densification of gender under [[serious-games|serious games]].
+
 ## Current Status
 
 Active and mainstream, but transformed: the field moved from *explaining a universal* to *analyzing gender's cultural specificity, intersection with class/race/colonialism, and construction*. The universalist theses survive mainly as taught landmarks and foils. Concepts coined or systematized in 1974 — [[domestic-public-dichotomy]], [[myth-of-matriarchy]], comparative [[matrifocality]] — remain active vocabulary even where the surrounding universalism is rejected.
 
+**Poststructuralist radicalization (2026-07-10):** The revisionist move from "universal patriarchy" to culturally variable gender is pushed to its limit by [[butler-judith|Judith Butler]]'s *[[butler-gender-trouble-1990|Gender Trouble]]* (1990), which argues (attributed) that not only gender but "sex" itself is an effect of the [[heterosexual-matrix|heterosexual matrix]] — that "sex was always already gender" (see [[gender-performativity]], [[sex-gender-distinction-debate]]). The wiki records this as attributed and contested; the four-way-non-identity concern applies, since the sex/gender/desire grid Butler generalizes is rooted in Euro-American structuralism and psychoanalysis, not established as a cross-cultural universal.
+
 **Archaeological extension (2026-07-10):** Sociocultural feminist anthropology’s lag-relative success is the foil for *[[gero-conkey-engendering-archaeology-1991|Engendering Archaeology]]* (1991) — the multi-author charter of [[feminist-archaeology]]. Conkey & Gero cite Rosaldo & Lamphere, MacCormack & Strathern, and [[moore-henrietta-l|Moore]] as resources; Moore’s epilogue returns the volume to anti-essentialist gender theory. Parallel program, not a replacement for ethnographic feminist anthropology — Theory Hub [[hubs/theory/feminist-archaeology]].
+
+## Strathern *Partial Connections* — feminism as partition (attributed)
+
+*(Attributed — *[[strathern-partial-connections-1991|Partial Connections]]*, 1991.)* Beyond the nature/culture critique, Strathern models feminism and anthropology as an **awkward relationship**: not complementary rooms of one house or halves of one person, but **partial** enactments (incomplete + partisan). Haraway’s cyborg supplies the image of connection without common origin or organic totality — **compatibility without comparability**; prosthetic mutual extension rather than synthesis into a whole feminist-anthropologist. Stacey and related arguments that ethnographies are only partially feminist are taken as diagnostic, not as a failure to complete. See [[partial-connections]], [[strathern-partial-connections-study]], [[haraway-donna]].
 
 ## Reflexivity
 

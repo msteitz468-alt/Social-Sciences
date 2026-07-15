@@ -11,7 +11,7 @@ trained: ["[[unknown]]"]
 key_works: ["'Archaeology as Anthropology' (1962)", "[[binford-binford-new-perspectives-1968|New Perspectives in Archeology (1968, co-editor; Archeological Perspectives; Post-Pleistocene Adaptations)]]", "'Methodological Considerations...' (Man the Hunter, 1968)", "Nunamiut Ethnoarchaeology (1978, outstanding)", "[[binford-in-pursuit-of-the-past-1983|In Pursuit of the Past (1983)]]"]
 key_concepts: ["[[processual-archaeology]]", "[[middle-range-theory-archaeology]]", "[[ethnoarchaeology]]", "arguments of relevance", "statics–dynamics bridging", "[[utility-index]]"]
 fieldwork_sites: ["[[nunamiut|Nunamiut]] / Anaktuvuk Pass, Alaska (1969–1973 ethnoarchaeology); American Southeast"]
-sources_ingested: 5
+sources_ingested: 7
 last_updated: 2026-07-10
 tags: [thinker, archaeology]
 ---
@@ -96,3 +96,22 @@ W&O present [[binford-lewis|Lewis Binford]] as the central figure of the post-~1
 ### Gamble 1999 reciprocal note
 
 *(Attributed — [[gamble-palaeolithic-societies-europe-1999]], [[gamble-clive]]; as of Gamble 1999.)* Gamble treats the Binfords’ critique of Bordes’s five Mousterian tribes as a deliberate move away from culture history **and** social explanation, then reopens social analysis via networks rather than ethnic facies. He also revises Binford’s **planning-depth** contrast (greater among Cro-Magnons for environmental coping): planning/anticipation depend on detachment; following Clark and Brody, planning is social as sharing of memories — decision taken in the doing; [[taskscape]] (Ingold) breaks dichotomous “games against the environment.” See [[binford-bordes-mousterian-debate]], [[mousterian-industry]], [[neanderthals]].
+
+## Bellwood *First Farmers* densification (2005)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005.)*
+
+Bellwood restates the **post-Pleistocene packing** model associated with Binford (1968) and [[flannery-kent-v|Flannery]] (1969): high population densities in favorable coastal zones (sedentary fisher-foragers) produce outflow into marginal zones, where cereal cultivation becomes a strategy to increase food supply — cultivation likeliest at **edges** of wild plant ranges rather than cores. The packing model is one strand in Bellwood’s multi-causal menu for agricultural origins; his own program stresses demography of farmers and demic [[early-farming-dispersal-hypothesis|dispersal]] beyond homeland origins rather than packing alone. See [[agricultural-origins-causation-debate]], [[broad-spectrum-revolution]].
+
+## Barker 2006 densification (*The Agricultural Revolution in Prehistory*)
+
+*(Attributed — [[barker-graeme]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006; Binford as processual agricultural-origins theorist and mobility ethnographer.)*
+
+- **New Archaeology frame:** Barker situates Binford (1962, 1964; with Clarke 1968) in the 1960s [[processual-archaeology|Processual / New Archaeology]]: cultures as adaptive systems; change explained by environment/technology or internal stress rather than mainly migration/diffusion; multi-period regional survey + excavation; Tehuacán, Jarmo, Deh Luran as exemplary “pathways to agriculture.”
+- **1968 packing / marginal-zone model (SW Asia):** Pleistocene population–resources equilibrium; postglacial sea-level rise → coastal food collectors rely more on fish/birds/shellfish → sedentism and population growth → migration into less-populated adjacent zones → packing above carrying capacity → intensification; upland wild cereals/caprines already exploited → husbandry developed to produce more food. Barker notes weak evidence for the proposed hillward migration but lasting influence of the environment–foraging–sedentism–population nexus (citing Layton 1999).
+- **Shared premise with Flannery:** Foragers needed a **strong reason** to abandon foraging — contrast with earlier views that farming’s advantages were obvious (Harris review papers 1969, 1973 in the same stream). Classed among Stark’s (1986) “push” models (stress forces farming).
+- **Forager vs collector mobility (Binford 1980):** Residential **foragers** (daily foraging radius; move whole group when patches diminish — e.g. !Kung-type plant-rich environments) vs **collectors** (base camps + logistic field camps/stations, cache meat — e.g. Nunamiut extreme latitudes); collectors need complex tech and storage. Paired in Barker’s Ch. 2 with Woodburn’s immediate- vs delayed-return contrast.
+- **Nunamiut range scale (via Barker):** Band (~5 families) residential core ~5,400 km², annual range ~25,000 km²; drive lines, caches, hunting blinds (Binford 1983) — ethnographic spine for logistic mobility, not “proto-herding” of reindeer (European late-glacial herding claims remain discounted in Barker’s Europe chapter).
+- **Demography revisited (as of Barker 2006 citing Binford 1998):** Binford modelled Europe such that Holocene foragers were forced into organizational change (complex foragers or forager-farmers) above a packing threshold of ~9 people per 100 km² — one late entry in Barker’s table of demographic-causation tools, amid general scholarly shyness about demography for lack of fine-scale reconstruction.
+
+Source: [[barker-agricultural-revolution-prehistory-2006]]. Cross-links: [[flannery-kent-v]], [[oasis-natural-habitat-debate]], [[broad-spectrum-revolution]], [[agricultural-origins-causation-debate]].

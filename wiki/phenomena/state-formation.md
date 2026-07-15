@@ -9,10 +9,10 @@ region: [global-north, global-south]
 measured_by: ["specialized coercive apparatus", "territorial jurisdiction", "class/stratum differentiation", "urbanism (variable)"]
 driven_by: ["class antagonism (Engels attributed)", "war and conquest", "population density", "economic surplus"]
 produces: ["[[the-state]]", "bureaucracy", "codified law"]
-theorized_by: ["[[engels-friedrich]]", "[[historical-materialism]]", "[[weber-max]]", "[[skocpol-theda]]", "[[structural-theory-of-revolution]]", "[[elias-norbert]]", "[[civilizing-process]]", "[[fried-morton-h]]", "[[egalitarian-rank-stratified-state-model]]", "[[service-elman-r]]", "[[integrative-theory-of-the-state]]", "[[graeber-david]]", "[[wengrow-david]]", "[[adams-robert-mcc]]", "[[wittfogel-karl-a]]", "[[hydraulic-society]]", "[[sanders-william-t]]", "[[price-barbara-j]]", "[[symbiotic-region]]", "[[trigger-bruce-g]]", "[[yoffee-norman]]", "[[scott-james-c]]", "[[renfrew-colin]]", "[[multiplier-effect]]", "[[kirch-patrick-vinton]]", "[[connah-graham]]"]
-key_studies: ["[[engels-origin-of-the-family-1884]]", "[[skocpol-states-social-revolutions-study]]", "[[elias-civilizing-process-study]]", "[[graeber-wengrow-dawn-of-everything-2021]]", "[[adams-evolution-urban-society-study]]", "[[wittfogel-oriental-despotism-study]]", "[[trigger-understanding-early-civilizations-study]]", "[[yoffee-myths-of-the-archaic-state-2005]]", "[[scott-against-the-grain-2017]]", "[[renfrew-emergence-of-civilisation-1972]]", "[[kirch-evolution-polynesian-chiefdoms-1984]]", "[[connah-african-civilizations-2016]]"]
-sources_ingested: 22
-last_updated: 2026-07-10
+theorized_by: ["[[engels-friedrich]]", "[[historical-materialism]]", "[[weber-max]]", "[[skocpol-theda]]", "[[structural-theory-of-revolution]]", "[[elias-norbert]]", "[[civilizing-process]]", "[[fried-morton-h]]", "[[egalitarian-rank-stratified-state-model]]", "[[service-elman-r]]", "[[integrative-theory-of-the-state]]", "[[graeber-david]]", "[[wengrow-david]]", "[[adams-robert-mcc]]", "[[wittfogel-karl-a]]", "[[hydraulic-society]]", "[[sanders-william-t]]", "[[price-barbara-j]]", "[[symbiotic-region]]", "[[trigger-bruce-g]]", "[[yoffee-norman]]", "[[scott-james-c]]", "[[renfrew-colin]]", "[[multiplier-effect]]", "[[kirch-patrick-vinton]]", "[[connah-graham]]", "[[bogucki-peter]]", "[[sharer-robert-j]]", "[[mann-michael]]", "[[iemp-model]]", "[[tilly-charles]]", "[[bellicist-theory-of-state-formation]]"]
+key_studies: ["[[engels-origin-of-the-family-1884]]", "[[skocpol-states-social-revolutions-study]]", "[[elias-civilizing-process-study]]", "[[graeber-wengrow-dawn-of-everything-2021]]", "[[adams-evolution-urban-society-study]]", "[[wittfogel-oriental-despotism-study]]", "[[trigger-understanding-early-civilizations-study]]", "[[yoffee-myths-of-the-archaic-state-2005]]", "[[scott-against-the-grain-2017]]", "[[scott-art-of-not-being-governed-study]]", "[[renfrew-emergence-of-civilisation-1972]]", "[[kirch-evolution-polynesian-chiefdoms-1984]]", "[[connah-african-civilizations-2016]]", "[[bogucki-origins-human-society-1999]]", "[[sharer-traxler-ancient-maya-2006]]", "[[mann-sources-of-social-power-vol1-1986]]"]
+sources_ingested: 31
+last_updated: 2026-07-15
 tags: [phenomenon]
 ---
 
@@ -47,6 +47,30 @@ Wiki voice only for brute case chronology when source-independent; Engels’s **
 
 [[elias-norbert|Elias]] (*[[elias-civilizing-process-1939|The Civilizing Process]]*, 1939) explains European state formation as the outcome of free competition among warrior houses tending toward dual monopolies of physical force and taxation ([[monopoly-mechanism]]), royal balancing of estates ([[royal-mechanism]]), and [[courtization]] of warriors within [[court-society]]. He process-ualizes Weber's [[monopoly-of-violence]] and links monopoly pacification to [[self-constraint]] and manners standards ([[civilizing-process]]). France is weighted; England/German lands/Italy appear comparatively. Evidence class: secondary historical synthesis + process model — not primary archival monograph.
 
+### Mann — social caging, multi-power origins, empires (1986, attributed)
+
+[[mann-michael|Michael Mann]] (*[[mann-sources-of-social-power-vol1-1986|Sources of Social Power, Vol. I]]*, 1986) rejects a *general* prehistoric origin of the state: rank and temporary centralization were widespread, but permanent stratification and the state were rare, local products of [[social-caging]] — fixation into dense cooperative cages (alluvial extremes) that closed exit options people and rival elites had used to evade durable domination. Civilization, stratification, and the state are treated as patterned accidents around multi-power-actor civilizations and empires of domination, not as the next stage of general social evolution. Political power is one of four overlapping sources ([[iemp-model|IEMP]]); formation paths run through interstitial organizational outflanking (military, economic, ideological, and territorial-centralizing), not class motor alone. Empires appear as extensive authoritative organizations with often high [[despotic-power|despotic]] and feeble [[infrastructural-power|infrastructural]] reach (e.g. Persia as ideal-typical patrimonial empire). Complements Engels class-origin and Elias monopoly paths as a multi-causal organizational history; evidence class: secondary comparative-historical synthesis. See [[the-state]], [[organic-national-state]] (early-modern European endpoint of Vol. I's European narrative).
+
+### Tilly — war-driven extraction and the coercion/capital trajectories (1990/1992, attributed)
+
+[[tilly-charles|Tilly]] (*[[tilly-coercion-capital-1992|Coercion, Capital, and European States]]*)
+supplies the wiki's charter statement of the [[bellicist-theory-of-state-formation|war-centered
+account]] of European state formation, AD 990–1992: "extraction and struggle over the means of
+war created the central organizational structures of states," with state structure "chiefly as
+a by-product" rather than design. Regional balances of concentrated capital (cities) and
+coercion (armed lords) yielded three trajectories — coercion-intensive (Russia, Poland),
+capital-intensive (Venice, the Dutch Republic), and [[capitalized-coercion]] (England, France) —
+all converging on the [[national-state]] because that form "won at war." Corollaries: the
+extraction→bargaining→[[citizenship|rights]] loop; the shift from [[indirect-rule|indirect]] to
+[[direct-rule]] (French Revolution paradigm); militarization producing civilianized government;
+and the post-1945 divergence — externally supplied coercion without domestic bargaining yields
+Third World military rule. Answers his six questions about the concentric geography of European
+state formation, representative institutions, and the Mediterranean→Atlantic shift. Complements
+Elias's [[monopoly-mechanism]] (whose tax/force "duo" Tilly extends to "a trio" with credit)
+and Mann's IEMP reading; evidence class: secondary comparative-historical synthesis + compiled
+war datasets. Study + hub: [[tilly-coercion-capital-study]] ·
+[[hubs/studies/tilly-coercion-capital-study]].
+
 ## Explanatory Theories (continued)
 
 - **Engels / historical materialism:** state arises from need to hold class conflict in check; territorial membership + special public force; typically state of the economically dominant class; exceptional relative independence when classes balance; will [[withering-away-of-the-state|wither]] when classes end.
@@ -66,6 +90,18 @@ Tied to [[family]] form (monogamy), [[private-property]], commodity production, 
 ### Adams Heartland / irrigation–state (1981)
 
 [[adams-robert-mcc|Adams]] (*[[adams-heartland-of-cities-1981|Heartland]]*; also 1966 comparative lectures) positions large-scale irrigation as **derivative of** prior urban/state organization and argues **limited, loose coupling** of central government and irrigation systems in Mesopotamia — a major empirical POSITION in the [[hydraulic-hypothesis-debate]] (not a wiki-voice law). Prefer cities over potsherd-operationalized "states" as study object (Heartland Conclusion). See [[adams-heartland-of-cities-study]].
+
+### Bogucki 1999 — tributary states and chiefdoms in the shadow of states
+
+*(Attributed — [[bogucki-peter|Bogucki]], *[[bogucki-origins-human-society-1999|The Origins of Human Society]]* 1999, Ch.8. Synthesis; case details as of late 1990s.)*
+
+- **Concept unbundling:** “civilization,” “urbanism,” and “the state” are overlapping but non-identical; Childe’s ten civilization criteria are inadequate as a checklist (many traits predate “civilization”; writing not universal).
+- **State definition:** adopts Brumfiel (1994) — powerful institutionalized hierarchies of public decision-making created to implement production relations in stratified societies and mediate conflict among economic interest groups; distinguishes **tributary** states (elites extract goods/services by coercive power) from capitalist states (markets generate wealth; state regulates competition).
+- **Early states as tributary:** most early states extend chiefdom political economy by **direct intervention** in household surplus (taxation, corvée) backed by force — the key move is bureaucratic apparatus, not merely scaled-up redistribution.
+- **Urbanism:** cities = more than dense agglomerations; territorial role and multi-generational sustainability matter; Bogucki rejects [[cahokia]] as city/state (as of 1999 synthesis).
+- **Literacy:** economic roots emphasized for Mesopotamia; independent inventions elsewhere; social accelerant but **not required** for statehood (Andes, early sub-Saharan cases).
+- **Shadow-chiefdoms thesis:** adjacency to states can stabilize complex [[chiefdom|chiefdoms]] and prestige commercialism without full state adoption for long periods — a major secondary-complexity pathway.
+- **Series division of labor:** detailed rise-of-civilization treatment deferred to Wenke companion volume; Bogucki’s job is situating states in the overall sweep of prehistory.
 
 ## Debates
 
@@ -131,6 +167,20 @@ Class-instrument vs autonomous state ([[relative-autonomy-of-the-state-debate]])
 
 **Species-historical scale.** First alluvial states were tiny demographically and geographically; on a generous reading definitive state hegemony begins only ~1600 CE — last ~0.2% of species political life — so state formation is a late, local, wobbly process, not the default of human political experience.
 
+### Scott densification (*The Art of Not Being Governed*, 2009)
+
+[[scott-james-c|Scott]] (*[[scott-art-of-not-being-governed-2009|The Art of Not Being Governed]]*, 2009; study [[scott-art-of-not-being-governed-study]]) extends the appropriation/grain program from early Mesopotamia to **mainland Southeast Asian valley states** and their upland periphery ([[zomia]]). All claims below are **attributed** to Scott’s anarchist-history synthesis (not wiki-voice archaeological consensus). Complements the 2017 [[grain-hypothesis]] section above; the SE Asia pathway page densifies regional detail: [[southeast-asian-state-formation]].
+
+**State space as space of appropriation.** Scott defines ideal **state space** as the ideal **space of appropriation**: arrangements guaranteeing a substantial, reliable surplus of **manpower and grain** at least cost. The design principle is geographical **concentration** of subjects and fields within easy reach of a court core. Premodern oxcart logistics bound the radius (a team of oxen eats its cartload of grain before ~250 km on flat terrain; Scott cites a Han proverb against grain sale over a thousand *li*). Hard power (extraction of grain and labor) projected only within a small, undependable dry-season radius (~300 km on good flat roads, far less in hills); economic and symbolic reach could travel farther. Navigable water partially nullifies friction of distance; choke points and strategic commodities modify pure grain-core logic but only to a point without manpower.
+
+**Wet-rice core and the padi state.** Irrigated wet rice (*padi*, *sawah*) is Scott’s ultimate SE Asian state-space crop: high return per land unit, dense labor-intensive populations, durable yields, aboveground simultaneous ripening, storable and transportable grain — legible and appropriable in the same sense as the 2017 grain package. Formula (crude, attributed): political/military supremacy → concentrated manpower close at hand → compact sedentary agriculture → irrigated rice (before the twentieth century in SE Asia). Elective affinity, not determinism: wet-rice cores without states and occasional states without wet-rice cores exist; without a padi core, concentration would require slavery, trade tolls, or plunder. Fixed-field cultivators who have sunk generations of labor into bunds and weirs are, Scott argues, the premodern state’s ideal subjects — fixed in space, taxable, conscriptable.
+
+**Manpower, slavery, and cyclical “stateness.”** Concentration of manpower is the first principle of precolonial SE Asian statecraft (people more than territory; wars as captives more than acreage). Classical padi states, Scott holds, were **ingatherings** of previously stateless peoples — trade and status attracting some, captives and slaves the majority. All SE Asian states were **slaving states** without exception for long stretches; paraphrase: no state without concentrated manpower, no concentration without slavery. Precolonial valley states were short-lived beyond a small court radius; interregna often longer than regna; **stateness was often cyclical and reversible**. Physical flight was the principal popular check on state power. Living inside, outside, or between state zones was a revisable choice for much of history.
+
+**Hill–valley coevolution; Zomia as state effect.** Scott’s load-bearing methodological claim: valley states cannot be accounted for without the hills, and vice versa — the **dialectic or coevolution of hill and valley** as antagonistic but deeply connected spaces is the essential point of departure for SE Asian historical change. [[zomia]] (van Schendel’s term; Scott’s working region ~2.5 million km² of mainland massif above ~300 m, ~80–100 million minorities) is cast as the largest remaining relatively **[[nonstate-spaces|nonstate space]]** and as a **region of refuge** for >1.5 millennia: runaways and maroons fleeing valley taxes, corvée, conscription, warfare, epidemics, and slavery — not “living ancestors” left behind by wet-rice civilization. Shatter zones and flight are a direct **state effect** of bondage-based concentration (comparanda: Cossacks, New World maroons). Nonstate space ≠ altitude per se: the key variable is whether concentrated grain production is possible; marshes, mangroves, deserts, and open sea are also nonstate-friendly.
+
+**Escape agriculture and the last enclosure.** Hill stigmata (margins, mobility, [[swidden]], flexible structure, religious heterodoxy, egalitarianism, oral culture) are, on Scott’s long view, **political adaptations** of nonstate peoples to attractive-yet-threatening states ([[state-evasion]], [[escape-agriculture]]) — not evolutionary lag. From the modern developmental state, a “last enclosure” seeks to make the periphery legible, taxable, assessable, and confiscatable (settle swiddeners, close commons, seize timber/minerals, promote cash monocrops) — thematic continuity with [[high-modernism]] / [[legibility]], though *Art* does not reuse the 1998 term as its central label. See also [[ethnogenesis]], [[orality-as-strategy]].
+
 ### Roux — Early Dynastic Sumer and the Assyrian imperial accretion (1992, attributed)
 
 [[roux-ancient-iraq-1992|Roux (1992)]] contributes two distinct case studies, both attributed.
@@ -182,3 +232,75 @@ Predynastic competitive territories → first nation-state → Early Dynastic di
 *(Attributed — [[kirch-patrick-vinton|Patrick V. Kirch]], *[[kirch-evolution-polynesian-chiefdoms-1984|The Evolution of the Polynesian Chiefdoms]]* 1984.)* Kirch treats contact-era Hawaiʻi as the Polynesian **endpoint of chiefdom elaboration** — a stratified, conquest-cycling polity with endogamous chiefly vs commoner classes, territorial land control via *konohiki*, ritualized surplus extraction (*makahiki*), and a multi-tier decision hierarchy — yet **short of a fully transcended kinship/“tribal” structure**. Citing [[sahlins-marshall|Sahlins]] (1963, 1968, 1972), [[fried-morton-h|Fried]] (1967), and [[service-elman-r|Service]] (1975), he places elaborate Hawaiian chiefdoms at a **critical interface between chiefdom and state** / “boundary of primitive society itself”: elites had not completely severed the ancestral kinship bond with commoners, could not dishonor kinship morality without risk of mass disaffection, and held a majority but **not a monopoly** of force. Position: Hawaiʻi *approached* stratified/primitive-state thresholds; it is not asserted as a pristine archaic state in wiki voice.
 
 **Multi-process, not irrigation-alone.** Kirch rejects Wittfogel-style hydraulic necessity for Hawaiian irrigation (following Earle) and rejects functionalist accounts that invent hierarchy from irrigation management under population pressure or from chiefs as redistributors of dispersed resources (cf. Sahlins 1958). Hierarchical principles (*‘ariki*, *mana*, *tapu*, first-fruits/tribute) were already present in Ancestral Polynesian Society; later elaboration was multi-causal — demography, ecological opportunity hierarchies (wet vs dry production paths; leeward dryfield power bases such as Kohala–Kona), competition/warfare and usurpation, symbolic systems, and political surplus demand — each only partial. Large-scale irrigation was one intensification path among others (intensive dryfield systems were of equal significance; the most competitive Hawaiian chieftainships developed on leeward, non-irrigation sides). Synthesis program: structural + ecological + demographic + political factors as suppletive, not single-paradigm. See [[origins-of-hereditary-inequality-debate]], [[hydraulic-hypothesis-debate]], [[band-tribe-chiefdom-model]], [[hawaiians]], [[chiefly-cycling]].
+
+## Polynesian archaic states (Kirch 2017, attributed)
+
+*(Attributed — [[kirch-road-of-the-winds-2017|Kirch 2017]].)* By 2017 Kirch presents [[tonga|Tonga]] and [[hawaiians|Hawaiʻi]] as the two clear cases of a Polynesian chiefdom-to-[[archaic-state|archaic-state]] transition, reached via markedly **different pathways**: Tonga's route ran through an external "maritime empire" of inter-island conquest and tribute extraction, while Hawaiʻi's ran through internal agricultural intensification coupled with exponential population growth — a trajectory Kirch supports with a population proxy built from roughly 1,036 radiocarbon dates, converging with Hommon's independent house-count demographic model. Both cases materialize political ideology in monumental architecture — Tongan *langi* royal tombs and Hawaiian *luakini heiau* temple platforms — read as the built expression of centralizing chiefly claims rather than incidental construction. See [[chiefdom]], [[agricultural-intensification]].
+
+## Early Chinese state formation (Liu & Chen 2012, attributed)
+
+*(Attributed — [[liu-chen-archaeology-of-china-2012|Liu & Chen 2012]].)* Liu & Chen adopt a
+**social-archaeology** definition of the state — a society with at least two strata (a professional
+ruling class over commoners) and typically a four-tier settlement hierarchy (after Wright, Flannery,
+Earle) — deliberately setting aside both the historiographical practice of matching sites to
+textual dynasties and Su Bingqi's looser "civilization" criterion. On this basis the earliest
+demonstrable Chinese state is the [[erlitou-culture|Erlitou]] polity (c. 1900–1500 BCE), which they
+classify as a **territorial state** (after Trigger 2003). Their central thesis is that early Chinese
+states expanded via a **tributary, resource-driven core–periphery system** in which the monopolized
+production and distribution of **bronze ritual vessels** — not agricultural management or trade
+profit — was the primary mechanism of political legitimacy (epigraph from the *Zuozhuan*: "the great
+affairs of a state are sacrifices and war"). The Erlitou→Erligang→middle-Shang sequence displays a
+first **cycle of centralization and decentralization** that Liu & Chen note recurred throughout later
+Chinese dynastic history. They characterize early Chinese urbanism as a **political/ritual
+accomplishment** — hierarchically planned palace–cemetery–workshop complexes — rather than dense
+commercial agglomerations, and as culturally continuous with (not differentiated from) the
+surrounding countryside, unlike the Greek polis or medieval European city. Sociopolitical evolution
+was **multicentric**, driven by interpolity factional competition rather than radiating from a single
+nuclear area (see [[chinese-civilization-origins-debate]], [[erlitou-xia-dynasty-debate]],
+[[erligang-culture]], [[shang-civilization]]).
+
+
+### Maya Preclassic state-scale urbanism (Coe & Houston 2015)
+
+[[el-mirador]] and the Mirador Basin show capital-scale monumental construction, sacbe networks, and kingship ideology in the **Late Preclassic**, centuries before Classic Long Count florescence — a New World primary case of [[state-formation]] in tropical lowlands as synthesized by [[coe-houston-the-maya-2015|Coe & Houston 2015]]. Olmec Formative models are argued as partial *fons et origo* (contested; see [[olmec-mother-culture-debate]]).
+
+### From Sharer & Traxler 2006 (Maya state formation)
+
+All claims in this subsection attributed to [[sharer-traxler-ancient-maya-2006|Sharer & Traxler 2006]]. Maya-only densification; does not adjudicate non-Maya pathways above.
+
+**Chiefdom vs state archaeological signatures.** Their Table 2.1 hallmarks: **chiefdoms** — monumental temples/assembly areas, **three-tier** site hierarchies, prestige goods, weak integration via warfare and chiefly redistribution, ranking by relation to chief; **states** — monumental architecture including palaces and fortifications, **four-tier** hierarchies, prestige goods and territorial boundaries, strong integration via centralized administration. Multilinear cultural evolution: stages as comparison points, not a deterministic path; every society’s path unique; Maya states diverse and dynamic.
+
+**Sequence and drivers.** General sequence: egalitarian foragers → permanent settlement/agriculture → autonomous communities → achieved then ascribed status and elite endogamy → chiefdoms (multi-community, craft specialization, tribute redistribution, public works) → states (bounded territory, centralized control, four-tier hierarchy). Interwoven economic, sociopolitical, and ideological systems; no privileging of one realm alone. Warfare aims economic (tribute, trade routes), political (boundaries, rivals), and ideological (captives, prestige); escalation (fortifications, specialists, commoner service, centralized command) contributed to preindustrial state origins and maintenance. Political economy (elite-managed prestige goods and some utilitarians) develops alongside social economy (household/community production and markets); most food production stayed outside political economy, though water control could yield power.
+
+**First Maya states and multi-state Classic system.** First states as early as **Late Preclassic** at [[el-mirador]] (earliest lowland preindustrial state in their assessment) and [[kaminaljuyu]] (threshold of highland state); Early Classic is **expansion** of states, not their origin (contra much twentieth-century dating of Maya “civilization birth” to Early Classic and foreign stimulus). Classic lowlands: competing large and small states each ruled from a capital by dynasties of [[kuhul-ajaw|k’uhul ajaw]]; **never unified** under a single emperor — city-state-like system over ~600 BC–AD 1500. Ideology of kingdom continuity constrained conquest empires (contrast Inka): victorious kings often left defeated polities with identity and own kings. Calakmul under Yuknoom the Great (636–686) failed to forge a single unified lowland state despite military apogee.
+
+**Scale estimates (as of 2006).** Emblem glyphs mark seats claiming sovereign power (not all equal). Causeway extents as polity proxies: El Mirador Late Preclassic ~5–6,000 km²; Caracol Late Classic ~5,500; Calakmul ~4,000; Coba peak possibly ~20,000. Chase & Chase ~60 km military control radius (~11,300 km² max); denser LC central lowlands average ~8,000–9,000 km². Trial Tikal polity ~8,500 km² → ~912,000 people in one estimate they report.
+
+**Consolidation vs fragmentation (Marcus).** Fluctuations between fewer larger polities and more smaller ones; synchronized peaks Late Preclassic and Late Classic; declines Terminal Preclassic and Terminal Classic. Northern lowlands grew as southern collapsed, culminating in Chichen Itza.
+
+**Weak-state vs strong-state analogies.** Maya diversity spans theater-state/galactic-polity (weak) and strong-state forms; Calakmul, Tikal, Copan as best Classic strong-state examples — capitals qualitatively different (palaces, tombs, temples, dynastic monuments).
+
+**Internal vs external stimulus.** Reject sole *cultura madre* Olmec or Teotihuacan-as-necessary secondary-state models; continuous multiethnic external interaction **plus** internal processes (population, economy, ideology). No single source for Maya civilization; Gulf Coast, Oaxaca, Basin of Mexico strands interact with indigenous Preclassic foundations. Middle Preclassic chiefdom-level societies (site hierarchies, monumental construction, sacrifice, raiding, feasting, trade) precede Late Preclassic state threshold; public monuments mark beginnings of divine kingship.
+
+**Postclassic reformulation (not Classic divine-king continuity).** After Terminal Classic decline of *k’uhul ajaw*, Postclassic states (drawing on Chichen Itza prototype): seaborne commodity commerce over prestige-goods emphasis; *multepal* / oligarchic power-sharing vs divine kingship; K’uk’ulkan cult; expanded middle class; Mayapan confederacy of elite houses then fragmentation into ~18 northern petty states at Conquest; highland K’iche/Kaqchikel conquest states after ~1200.
+
+## Regional pathway: mainland Southeast Asia
+
+A distinctive pathway runs through ranked chiefdoms into the ritual [[mandala]] polity —
+authority defined by circles of allegiance to a divine overlord rather than by fixed
+territory, culminating in [[angkor|Angkor]]. Higham (1989) reads it as a largely
+indigenous trajectory in which Indian and Chinese contact acted as stimulating variables
+rather than as the external cause of the state. See [[southeast-asian-state-formation]] and
+the [[indianisation-southeast-asia-debate]].
+
+**Scott 2009 (attributed) on the same region, different grain.** Alongside the archaeological
+mandala sequence, *[[scott-art-of-not-being-governed-2009|Art of Not Being Governed]]*
+theorizes classical **padi / manpower states** and their hill–valley coevolution with
+[[zomia]] as refuge and [[shatter-zone]] — not an alternative chronology of Angkor but a
+political-ecology frame for why wet-rice cores, slavery, and flight structured precolonial
+“stateness.” Densified on [[southeast-asian-state-formation]] and in the Scott 2009
+subsection under Explanatory Theories above.
+
+### Island SE Asia — classical *negara* / theatre state (Geertz 1980, attributed)
+
+[[geertz-clifford|Geertz]]’s *[[geertz-negara-1980|Negara]]* treats precolonial Indonesian political development as an “expanding cloud of localized, fragile, loosely interrelated petty principalities,” not monolithic Oriental despotism — continuous formation and dissolution until Dutch conquest. The Balinese case is modeled as a [[theatre-state]] organized around an [[exemplary-center]], with confederate domination (power cumulated from below), people-not-territory politics, and ceremony as primary state business. Associated (not identical) with [[mandala]]-type analyses; study [[geertz-negara-study]].

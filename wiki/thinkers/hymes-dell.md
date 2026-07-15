@@ -10,7 +10,7 @@ trained: ["[[unknown]]"]
 key_works: ["[[hymes-foundations-in-sociolinguistics-1974|Foundations in Sociolinguistics (1974)]]", "\"The Ethnography of Speaking\" (1962)", "\"On Communicative Competence\" (ms. 1967 / published forms)", "Language in Culture and Society (ed., 1964)", "[[gumperz-hymes-directions-sociolinguistics-1972|Directions in Sociolinguistics (ed. with Gumperz, 1972)]]", "\"Models of the Interaction of Language and Social Life\" (ch. 1 of Directions, 1972)"]
 key_concepts: ["[[communicative-competence]]", "[[speech-community]]", "[[speech-event]]", "[[speaking-model]]", "[[ethnography-of-communication]]"]
 fieldwork_sites: ["American Indian languages (philological and ethnographic work; various projects — Chinookan/Wishram among illustrations in Foundations)"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [thinker, linguistic-anthropology, anthropology]
 ---
@@ -77,3 +77,8 @@ Ethics/misconduct: none established from this source; Amerindian philology and u
 ### The 1972 statement: "Models of the Interaction of Language and Social Life"
 
 Hymes's chapter 1 in *[[gumperz-hymes-directions-sociolinguistics-1972|Directions in Sociolinguistics]]* (ed. with [[gumperz-john-j|Gumperz]], 1972) is the fullest single componential statement of the **[[speaking-model|SPEAKING]]** apparatus — a revision of an earlier 1967 paper (per its own footnote), elaborating the taxonomy of speech units (speech community, [[speech-event|speech situation/event/act]], Sprechbund, speech network) and giving the worked sixteen/seventeen-component breakdown ahead of its 1974 *Foundations* restatement. He credits (attributed) debts to Regna Darnell, Helen Hogan, Elinor Keenan, Susan Philips, Sheila Seitel, Joel Sherzer, K. M. Tiwary, and Virginia Hymes, and thanks Meyer Fortes, Edmund Leach, and J. L. M. Trim (Cambridge, Clare Hall visiting fellowship 1968–69) — collaboration/genealogy data points distinct from formal `trained_under`/`trained`. Key work added: "Models of the Interaction of Language and Social Life" (in *Directions in Sociolinguistics*, 1972).
+
+
+### Contribution to Bauman & Sherzer *Explorations* (1974)
+
+*(Attributed.)* Volume dedicated to Hymes as mentor; his §VI essay **“Ways of Speaking”** argues grammar is only one way of looking at language; adequate theory requires multiplicity of ways of speaking and the **speech economy** organizing means of speech (co-occurrence, alternation, style). Second-edition intro notes his educational ethnography of speaking work. Source: [[bauman-sherzer-explorations-ethnography-speaking-1974|Bauman & Sherzer 1974]].

@@ -8,8 +8,8 @@ core_questions: ["Is 'the economic' a universal category or an instituted, cultu
 major_methods: ["[[participant-observation]]", "[[comparative-method]]", "household time-allocation and work-effort studies", "cross-cultural comparison"]
 subfields: ["substantivist economic anthropology", "formalist economic anthropology", "Marxist economic anthropology", "the anthropology of money, debt, and exchange"]
 collection_coverage: moderate
-sources_ingested: 4
-last_updated: 2026-07-09
+sources_ingested: 5
+last_updated: 2026-07-10
 tags: [discipline]
 ---
 
@@ -22,6 +22,7 @@ Economic anthropology studies how human societies — especially non-market, tri
 ## Historical Development
 
 - **Classical-era roots.** The field's charters are ethnographic: [[malinowski-bronislaw|Malinowski]]'s *[[malinowski-argonauts-1922|Argonauts of the Western Pacific]]* (1922), which demolished "Primitive Economic Man" and described the [[kula]] ring, and [[mauss-marcel|Mauss]]'s *[[mauss-the-gift-1925|The Gift]]* (1925), which theorized [[gift-exchange]] and [[total-prestation]] as total social phenomena.
+- **Fieldwork-revolution founding monograph.** [[firth-raymond|Firth]]'s *[[firth-primitive-polynesian-economy-study|Primitive Polynesian Economy]]* (1939, primary-ingested) is the first full-scale ethnographic economy framed directly against formal economic theory (Robbins, Keynes, Hicks): no money, prices, or wage labour on [[tikopia]], yet scarcity, choice, and capital in modified form. It adopted Hicks's "substantial vs. formal" categories (the debate's future vocabulary), coined [[spheres-of-exchange]], refined [[reciprocity]] quantitatively, forecast "economic anthropology" as a named specialism, and proposed a six-index typology of primitive economies *(all attributed)*.
 - **Postwar expansion — substantivism.** [[polanyi-karl|Karl Polanyi]] and the "Columbia group" (George Dalton, Conrad Arensberg) built [[substantivism]]: the economy as an **instituted process** [[embeddedness|embedded]] in social relations, integrated by [[forms-of-integration|reciprocity, redistribution, householding, and exchange]]. See [[substantivism]].
 - **Critical turn — the debate and its dissolution.** The [[formalist-substantivist-debate|formalist–substantivist debate]] ran through the 1960s and was largely abandoned rather than settled by the 1970s, as Marxist (Meillassoux, Godelier) and later culturalist approaches reframed the questions. Sahlins' *Stone Age Economics* (1972) is a late, influential substantivist statement, extending the program to hunter-gatherer affluence ([[original-affluent-society]]), the [[domestic-mode-of-production|domestic mode of production]], and the [[reciprocity]] typology.
 
@@ -54,4 +55,4 @@ The field's foundational data are largely **salvage-era and mid-century ethnogra
 
 ## Collection Coverage Note
 
-Moderate. The wiki holds primary ingests of Malinowski (*Argonauts*, *Coral Gardens*), Mauss (*The Gift*), Polanyi (*The Great Transformation*), Sahlins (*Stone Age Economics*), Taussig (*Devil and Commodity Fetishism*), Strathern (*Gender of the Gift*), and now Appadurai (ed.) *The Social Life of Things* (1986), plus the formalist–substantivist debate and substantivism theory page. Gaps: Marxist economic anthropology monographs (Meillassoux, Godelier), formalist primaries (Firth, Herskovits), and contemporary money/debt (Graeber's *Debt*).
+Moderate. The wiki holds primary ingests of Malinowski (*Argonauts*, *Coral Gardens*), Mauss (*The Gift*), Polanyi (*The Great Transformation*), Sahlins (*Stone Age Economics*), Taussig (*Devil and Commodity Fetishism*), Strathern (*Gender of the Gift*), Appadurai (ed.) *The Social Life of Things* (1986), Firth's *Primitive Polynesian Economy* (1939), and Geertz’s *[[geertz-peddlers-princes-1963|Peddlers and Princes]]* (1963) — dual-economy ethnography of [[bazaar-type-economy|bazaar-type]] vs [[firm-type-economy|firm-type]] organization in Indonesian towns (*[[geertz-peddlers-princes-study|study]]*). Remaining gaps: Marxist economic anthropology monographs (Meillassoux, Godelier), Herskovits and debate-era formalist primaries, and contemporary money/debt (Graeber's *Debt*).

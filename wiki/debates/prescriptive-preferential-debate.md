@@ -6,7 +6,7 @@ era: [postwar-expansion, critical-turn]
 positions: ["Elementary structures are about prescriptive systems (Needham)", "Prescriptive and preferential are two levels of description of the same reality, not two classes of system (Lévi-Strauss)"]
 key_texts: ["[[levi-strauss-elementary-structures-1949|The Elementary Structures of Kinship (1949; 2nd ed. 1967)]]", "Rodney Needham, Structure and Sentiment (1962)"]
 resolution_status: partially-resolved
-last_updated: 2026-07-09
+last_updated: 2026-07-10
 tags: [debate]
 ---
 
@@ -29,6 +29,8 @@ Both sides agree that real marriage systems rarely achieve statistical conformit
 ## Related disputes
 
 The reception also carried the **Leach–Lévi-Strauss** disputes over specific analyses (Kachin gumsa/gumlao stability; the [[murngin|Murngin]] "local lines" vs "descent lines"), where Leach called the book "a splendid failure," and the deeper practice-theoretic objection that marriage is *strategy*, not rule-execution ([[bourdieu-pierre|Bourdieu]]; [[strategy-vs-rule]], [[structure-vs-agency-debate]]).
+
+**Leach 1961 note (Ch. 3 Intro):** In Needham’s (1958b) terminology, Kariera / Trobriand / Kachin **type marriages** in Leach’s essay all reflect **prescriptive** rules, not marriage preferences; Freedman (1958) on Chinese material — cross-cousin marriage “preferred not prescribed,” no systematic asymmetric local-descent-group cycles. Source: [[leach-rethinking-anthropology-1961]].
 
 ## Resolution
 

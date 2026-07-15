@@ -13,7 +13,7 @@ cultures: ["[[unknown]]"]
 excavated_by: ["John Garstang (1930s)", "Kathleen Kenyon (1952–58)", "later expeditions"]
 excavation_years: "1930s (Garstang); 1952–58 (Kenyon)"
 key_finds: ["Kenyon Proto-Neolithic / pre-pottery levels", "plastered skulls", "tower and wall features", "perennial-spring settlement sequence"]
-sources_ingested: 5
+sources_ingested: 7
 last_updated: 2026-07-10
 tags: [site, archaeology, near-east]
 ---
@@ -95,3 +95,23 @@ Site ≠ people ≠ language ≠ genes.
 - **Wall and tower:** unshaped-stone wall ~3 m thick; tower ~10 m base diameter, ~8.5 m preserved, internal staircase — collective construction beyond family domestic sphere. First read as defence; later as monument + possible flood protection; either way implies organised collective labour.
 - **Burial:** secondary pit burials and separate skull-group inhumations prefiguring PPNB [[skull-cult|skull cult]].
 - **Plastered skulls (PPNB):** textbook modelled skulls in Cauvin’s southern symbolism chapter (with Nahal Hemar masks/bitumen skulls).
+
+## Bellwood *First Farmers* densification (2005)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005; synthesis use-case, not a monographic site study.)*
+
+- **Periodization:** Kathleen Kenyon’s 1950s excavations coined **PPNA** (ca. 9500–8500 BC) and **PPNB** (ca. 8500–7000 BC); later research adds a **PPNC** agricultural/environmental-decline phase Kenyon did not name.
+- **PPNA:** Round tower and walls as communal/monumental architecture; among late PPNA sites with oldest potentially domesticated cereal remains — near a perennial spring, early cultivation attracted to scarce well-watered parcels.
+- **PPNB:** Porched “megaron”-style houses (with Ain Ghazal); mud-brick rectangular shrine with end niche; remarkable plastered/painted portrait skulls among outstanding southern Levant PPNB features.
+- **7th millennium:** Among large PPN sites abandoned or shrunk around the pottery Neolithic / 7th millennium (with Bouqras, Beidha, Abu Hureyra).
+
+Site ≠ people ≠ language ≠ genes. Source: [[bellwood-first-farmers-2005]].
+
+## Barker 2006 (*Agricultural Revolution in Prehistory*)
+
+*(Attributed — [[barker-graeme|Graeme Barker]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006, Ch. 4; Sherratt 1997 “older” chronology.)*
+
+- **Late Natufian setting.** Barker (via Sherratt) places alluvial soils of shrinking Jordan lakes (including Jericho) as better for cereals under Younger Dryas aridity but requiring tillage/transplanting/weeding — horticulture trajectory; control of oak/cereal stands at alluvial sites like Jericho; Late Natufian detached skulls prefigure Jericho plastered-skull cult (attributed).
+- **PPNA (c.9500–8500 BC as Barker dates).** Early SW Asian farmers aceramic (Kenyon): PPNA then PPNB. Jericho unique monumental wall — defence and/or flood control debated. Netiv Hagdud-type oval semi-subterranean mud/stone/brick huts; many major settlements assumed permanent. First morphologically domestic cereals: **emmer + hulled two-row barley at Jericho** (with Tell Aswad emmer/peas/lentils) while wild seeds/fruits remain staples (attributed).
+- **PPNB (c.8500–6500 BC).** Among larger mixed-farming settlements (1,000–2,000 people scale class with Beidha, ‘Ain Ghazal, reoccupied Abu Hureyra, Çatalhöyük, etc.). Sheep/goat herding spreads to Jericho after Zagros/Taurus beginnings; household as primary production unit; skull removal/plastered faces (Jericho, ‘Ain Ghazal, Basta) (attributed).
+- **Identity caution.** Monumental PPNA architecture and early domestic cereals are site findings, not equations of Jericho with a people, language, or genetic population. Cross-links: [[natufian-culture]], [[abu-hureyra]], [[animal-domestication]], [[neolithic-revolution]], [[barker-graeme]].

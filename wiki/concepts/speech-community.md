@@ -7,9 +7,9 @@ disciplines: [linguistic-anthropology, linguistics, sociology]
 emic_or_etic: etic
 operationalized_as: "A community sharing knowledge of rules for the conduct and interpretation of speech — not merely a shared language or mutual intelligibility"
 contested: yes
-related_concepts: ["[[communicative-competence]]", "[[speech-event]]", "[[speaking-model]]", "[[ethnography-of-speaking]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+related_concepts: ["[[communicative-competence]]", "[[speech-event]]", "[[speaking-model]]", "[[ethnography-of-speaking]]", "[[language-ideology]]", "[[iconization]]", "[[fractal-recursivity]]", "[[erasure-semiotic]]"]
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -57,3 +57,20 @@ Gumperz's formulation runs parallel to, and is cited alongside, Hymes's own two-
 - **Boundary problem:** Where does one speech community end? Hymes's local primary-interaction emphasis helps but does not eliminate nested and overlapping communities.
 - **Knowledge vs practice:** Defining community by shared knowledge risks idealization parallel to the competence ideal he criticizes — he also stresses unequal ability and participation vs membership.
 - **Scaling:** Large modern polities and mediated publics strain a local-interaction unit (later sociolinguistics addresses this; not resolved in *Foundations* alone).
+
+## Irvine & Gal (2000): from community to differentiation
+
+[[irvine-judith-t|Irvine]] and [[gal-susan|Gal]] ([[irvine-gal-language-ideology-linguistic-differentiation-2000|2000]]) credit ethnography of speaking and classic sociolinguistics (Gumperz & Hymes; Weinreich, Labov & Herzog) with emphasizing organization of diversity and rejecting automatic language–ethnicity identity. They argue, however, that the **speech community** concept — useful for local repertoires — **neglected larger boundary relationships, cultural oppositions, borders, and conflict**. Foundational work sought to show diversity need not mean disorder, in line with consensus-based sociology of the time, and only rarely examined how identity is produced by opposition, exclusion, and differentiation. Network analysis improved communicative-tie description but still treated boundaries like communities.
+
+They propose shifting attention to **linguistic differentiation** as ideologically mediated (by participants and observers). Homogeneous language is “as much imagined as is community”; Anderson’s *Imagined Communities* is criticized for naturalizing monolingualism and standardization as preconditions rather than constructions concurrent with print capitalism (cross-ref [[monoglot-standard]], Silverstein in *Regimes*). Linguistic and social oppositions are not separate orders (citing Cameron, Ferguson, Irvine): language phenomena partly constitute the groups participants and analysts recognize.
+
+This is a program-level reconceptualization, not a deletion of the speech-community concept — local shared-rule analysis remains useful; the critique targets using community as the default unit when boundary and ideology are the load-bearing phenomena.
+
+
+### Gumperz 1982: network structure over community norms
+
+*(Attributed — [[gumperz-discourse-strategies-1982|Gumperz 1982]].)* *Discourse Strategies* pushes past the shared-norms formulation he gave in 1972: the functionalist [[speech-community]] ("a system of organized diversity held together by common norms and aspirations," per Wallace/Sherzer as he cites them) is treated as increasingly inadequate where "overtly marked social boundaries are disappearing." Discourse-level conventions "do not map one to one onto ethnic groups or language and dialect boundaries as established through historical reconstruction" but follow **networks of interpersonal relationships** — the [[gail-valley-slovenes|Gail Valley]] language-shift case and the North Indian sweeper-caste dialect (servants immersed in majority speech who never adopted it) are his key evidence that density of contact alone does not predict convergence; network closure and in-group/out-group boundaries do.
+
+### Bauman & Sherzer 1974 densification
+
+*(Attributed — [[bauman-sherzer-explorations-ethnography-speaking-1974|Bauman & Sherzer 1974]].)* Editors define the speech community by shared/mutually complementary **knowledge and ability** for socially appropriate speech — an **organization of diversity** (differential access to resources). Section II cases: Sankoff quantitative variation within communities; Jackson Vaupés multilingual language-aggregates and exogamy; Fox Rotinese pair-speech as shared resource spanning dialects. Challenges equating community with “a language” or homogeneous competence (Chomsky foil in editors’ intro).

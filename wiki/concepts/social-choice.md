@@ -36,3 +36,27 @@ Coleman also proposes an ethical-theory extension: the "morally correct" outcome
 ## Critiques and Limitations
 
 Coleman treats Arrow's impossibility result and its extensions as establishing that no procedure can jointly guarantee consistency, veridicality, action-potential, and nondivisiveness — a permanent design constraint rather than a solvable engineering problem. He further argues that classical political philosophy's normative devices for adjudicating rights allocation (Rawls's veil of ignorance, Bentham's utilitarian calculus, Kant's categorical imperative) rest on empirically false assumptions — either total ignorance of one's future position or a homogeneous mix of future activities — and so cannot explain actual interpersonal or intergroup conflict over constitutions; he proposes replacing them with a power-weighted interest-aggregation model. The micro-to-macro transition in social choice is, on Coleman's account, a problem of institutional design (agendas, coalitions, discussion structure), not simple vote aggregation — describing it as mere aggregation is, he argues, doubly mistaken.
+
+## The Paradox of Voting and Legislative Instability (Green & Shapiro critique)
+
+The Arrow/Condorcet **paradox of voting** — that consistent individual preferences can
+aggregate into cyclical, unstable majorities — became, via McKelvey's (1976) "chaos"
+theorem, the claim that in multidimensional policy spaces majority-rule outcomes can
+wander anywhere and an agenda-setter can in principle engineer any result. Rational
+choice theorists of legislatures answered this instability with "structure-induced
+equilibrium" (Shepsle 1979; Shepsle and Weingast 1981) — committee jurisdictions,
+germaneness rules, and agenda control said to tame the chaos.
+
+[[green-donald|Green]] and [[shapiro-ian|Shapiro]] (*[[green-shapiro-pathologies-1994|
+Pathologies of Rational Choice Theory]]*, 1994, ch. 6) critique this whole literature
+(attributed). They argue Riker's generic-instability thesis is unfalsifiable —
+"consistent with any pattern of empirical observation" (no change, incremental change,
+radical change) — and that his historical cycling cases (notably the Seventeenth
+Amendment) contain factual errors and omit discordant evidence. They argue
+structure-induced equilibrium's unrealistic assumptions function as "a safety net":
+if disconfirmed, failures are blamed on the model's "stylized" assumptions; meanwhile
+it is credited with predicting observed stability. Their headline experimental point:
+coreless games do **not** produce markedly more unstable outcomes than games with
+cores, undercutting a central empirical motivation for the whole enterprise. See
+[[method-driven-research]] and the [[rational-choice-controversy-debate|rational choice
+controversy]].

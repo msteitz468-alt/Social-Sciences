@@ -1,19 +1,27 @@
 ---
 title: "Common Sense (as a Cultural System)"
 concept_type: analytical
-coined_by: ["[[geertz-clifford]]"]
-date_coined: "1975 ('Common Sense as a Cultural System'); collected 1983 in Local Knowledge"
-disciplines: [anthropology, sociology-of-culture]
+coined_by: ["[[gramsci-antonio]] (*senso comune*, Prison Notebooks)", "[[geertz-clifford]] (anthropological cultural-system sense)"]
+date_coined: "Gramsci 1929–35; Geertz 1975/1983"
+disciplines: [anthropology, sociology-of-culture, political-theory, cultural-studies]
 emic_or_etic: etic
-operationalized_as: "characterized by stylistic 'quasi-qualities' (tone/tenor), not by any summarizable propositional content"
+operationalized_as: "Gramsci: uncritical mass conception of the world (to be renovated toward critical 'good sense'). Geertz: cultural system characterized by stylistic 'quasi-qualities' (tone/tenor), not by any summarizable propositional content"
 contested: yes
-related_concepts: ["[[interpretive-anthropology]]", "[[models-of-and-for]]", "[[ideology]]", "[[art-as-a-cultural-system]]", "[[thick-description]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[interpretive-anthropology]]", "[[models-of-and-for]]", "[[ideology]]", "[[art-as-a-cultural-system]]", "[[thick-description]]", "[[hegemony]]", "[[philosophy-of-praxis]]", "[[organic-intellectuals]]"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
 ## Definition as Coined
+
+**Two non-identical lives — do not collapse.**
+
+### Gramsci — *senso comune* (attributed; primary-ingested 2026-07-10)
+
+In *[[gramsci-selections-from-prison-notebooks-1971|Selections from the Prison Notebooks]]* (Study of Philosophy), [[gramsci-antonio|Gramsci]] treats **common sense** (*senso comune*) as the spontaneous philosophy of the multitude: a fragmentary, uncritical, historically deposited conception of the world mixed with folklore, religion, and scientific residues. Editors warn that Italian *senso comune* is **not** identical to English "common sense" (closer, in evaluative use, to *buon senso* / "good sense"). Every person is a philosopher; the task of the [[philosophy-of-praxis]] is not to invent philosophy *ex nihilo* but to **critically renovate common sense**, making it more coherent and critical ("good sense") as part of the struggle for [[hegemony]]. Mass adhesion often has the character of **faith**; intellectual–moral reform requires organic connection of intellectuals to the people-nation ([[historical-bloc]], [[organic-intellectuals]]). Cultural-studies transmissions (Hall, Williams) largely run through this Gramscian life.
+
+### Geertz — common sense as cultural system (attributed)
 
 In "Common Sense as a Cultural System" (in *[[geertz-local-knowledge-1983|Local Knowledge]]*, 1983; first 1975), [[geertz-clifford|Geertz]] argues (attributed) that common sense is not a raw, universal apprehension of reality but is itself a **cultural system** — "historically constructed and... subjected to historically defined standards of judgment," on a par with myth, painting, epistemology, religion, science, ideology, art, and law. Its defining rhetorical move is to *deny* that constructed status and present itself as "the immediate deliverances of experience, not deliberated reflections upon it": "it is not a case at all, just life in a nutshell. The world is its authority." Where religion rests on revelation, science on method, and ideology on moral passion, common sense rests on the claim that it simply reports "the way things go."
 
@@ -21,7 +29,13 @@ Geertz frames the inquiry with Wittgenstein's image of language as an old city: 
 
 ## Semantic History
 
-Because common sense claims to be pre-cultural, its cross-cultural variability is easy to miss. Geertz's central demonstration is the **intersexuality case** (drawn from Robert Edgerton and W. W. Hill), where the same biological given yields opposite common-sense construals: American common sense treats the sex binary as an inviolable natural fact and intersexuality as a "moral and legal enigma" to be surgically corrected; Navaho common sense treats intersexed persons as "divinely blessed," bearers of the tribe's prosperity; Pokot common sense treats intersexuality matter-of-factly as a simple biological "error" ("God made a mistake"), like a botched pot. His upshot: "given the given, not everything else follows... God may have made the intersexuals, but man has made the rest."
+| Lineage | Core move |
+|---|---|
+| Gramsci *senso comune* | Mass philosophy to be renovated; hegemony/common sense nexus; *buon senso* as critical elevation |
+| Cultural studies (Hall et al.) | Articulation of popular common sense in political projects |
+| Geertz 1975/83 | Common sense as cultural system with quasi-qualities; cross-cultural variability of the "of course" |
+
+**Geertz line (continued).** Because common sense claims to be pre-cultural, its cross-cultural variability is easy to miss. Geertz's central demonstration is the **intersexuality case** (drawn from Robert Edgerton and W. W. Hill), where the same biological given yields opposite common-sense construals: American common sense treats the sex binary as an inviolable natural fact and intersexuality as a "moral and legal enigma" to be surgically corrected; Navaho common sense treats intersexed persons as "divinely blessed," bearers of the tribe's prosperity; Pokot common sense treats intersexuality matter-of-factly as a simple biological "error" ("God made a mistake"), like a botched pot. His upshot: "given the given, not everything else follows... God may have made the intersexuals, but man has made the rest."
 
 A second case rereads [[evans-pritchard-e-e|Evans-Pritchard]]'s Zande witchcraft material (attributed) as being about Zande *common sense* rather than "primitive metaphysics": witchcraft is a "dummy variable" invoked precisely when ordinary expectations fail (a normally quick-healing cut festers; a carefully made pot cracks), and where a mundane cause is visible the potter blames his own negligence. "Witchcraft does not celebrate an unseen order, it certifies a seen one" — sealing the common-sense world "against the doubts its inevitable insufficiencies inevitably stimulate."
 

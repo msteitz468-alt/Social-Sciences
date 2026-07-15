@@ -19,8 +19,8 @@ key_findings:
   - "In the 2010 Sun Gives chapter he reframed devil stories via Bataillean depense while keeping the 1980 Marxist reading."
 concepts_introduced: ["[[devil-contract]]", "[[baptism-of-money]]", "[[tio]]"]
 replication_status: reanalyzed-contested
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [study, anthropology]
 ---
 
@@ -81,3 +81,7 @@ Still a **teaching classic** of economic anthropology and of magic/capitalism; r
 ## Historiography
 
 Source: [[taussig-devil-commodity-fetishism-1980]]. Thinker: [[taussig-michael]]. Societies: [[cauca-valley-afro-colombians]] · [[bolivian-tin-miners]]. Concepts: [[devil-contract]] · [[baptism-of-money]] · [[tio]] · [[commodity-fetishism]]. Hub: [[hubs/studies/taussig-devil-commodity-fetishism-study]].
+
+## From Taussig *Shamanism* (1987 ingest)
+
+Diptych with [[taussig-shamanism-colonialism-study]] (1987): devil contracts (Cauca/Bolivia) and wild-man terror/healing (Putumayo) as two fetish complexes of colonial capitalism in the same national field. Shared author [[taussig-michael]]; shared refusal of functionalist magic.

@@ -14,7 +14,7 @@ core_claims:
 developed_from: ["[[structuralism]]", "semiotics (Saussure; Peirce)"]
 competes_with: ["[[processual-archaeology]]", "[[behavioral-archaeology]]"]
 status: absorbed
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [theory, archaeology]
 ---
@@ -52,7 +52,9 @@ Anthropological [[structuralism]] ([[levi-strauss-claude|Lévi-Strauss]]) and Sa
 
 ## Empirical Program
 
-Cross-domain structural validation: showing one opposition (male:female; culture:nature; clean:dirty) recur across pottery, burial, and settlement in a single context (Deetz's Georgian Worldview; Parker Pearson's Iron Age roundhouses; Hodder's Neolithic "structured deposition" of refuse at settlement boundaries). Peircean readings treat a single object as carrying index, icon, and symbol simultaneously.
+Cross-domain structural validation: showing one opposition (male:female; culture:nature; clean:dirty) recur across pottery, burial, and settlement in a single context (Deetz's [[georgian-worldview|Georgian Worldview]]; Parker Pearson's Iron Age roundhouses; Hodder's Neolithic "structured deposition" of refuse at settlement boundaries). Peircean readings treat a single object as carrying index, icon, and symbol simultaneously.
+
+**Deetz densification (1996 primary):** *[[deetz-in-small-things-forgotten-1996|In Small Things Forgotten]]* operationalizes cross-domain validation for Anglo-America: corporate vs individual, organic vs mechanical, additive vs bilaterally symmetrical three-part form ([[glassie-henry|Glassie]]) must appear together in houses, ceramics, gravestones, refuse, and foodways after ~1760. African American **[[creolization]]** is the structural inverse case — Anglo materials combined by non-Anglo rules ([[parting-ways|Parting Ways]]).
 
 ## Method Commitments
 

@@ -7,9 +7,9 @@ disciplines: [anthropology]
 emic_or_etic: etic
 operationalized_as: "time reckoned as distance between social groups (structural distance) rather than as abstract continuous duration; paired with oecological time (seasonal/activity-based reckoning)"
 contested: no
-related_concepts: ["[[segmentary-lineage-system]]", "[[timeless-time]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[segmentary-lineage-system]]", "[[timeless-time]]", "[[butterfly-collecting]]"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -40,3 +40,13 @@ Structural time/distance is the temporal-spatial face of the [[segmentary-lineag
 ## Critiques and Limitations
 
 Evans-Pritchard himself flagged the boundary of his evidence on subjective time-experience ("our observations on the matter have been slight"). Later critics question whether the sharp "no abstract time" claim overstates the contrast with Western reckoning and reads structure where practice is messier — the same idealization charge levelled at the segmentary model ([[segmentary-lineage-model-debate]]). Stated here in attributed voice.
+
+## From Leach, *Rethinking Anthropology* Ch. 6 (1953/61)
+
+*(Attributed — Leach; Lévi-Strauss influence acknowledged.)* Two short *Explorations* essays: “Cronus and Chronos”; “Time and False Noses.”
+
+- **Dual time.** Repetition/oscillation vs irreversible succession — not one continuum.
+- **Cronus.** Myth as structural creation of **contraries** (sky/earth, male/female principles, Zeus vs polar opposites) and of the **beginning of becoming**; time as zig-zag of opposed yet allied categories (linked by Leach to R-B alternating generations and LS marriage-as-alliance).
+- **Festivals create time.** Without festivals, named periods would not exist; societies create intervals in social life then measure them. Formality / masquerade / role reversal map onto Durkheimian sacred/profane phase shifts; role reversal ≈ sacred time played in reverse.
+
+Not the same construct as Evans-Pritchard’s structural time (segmentary distance), but a related mid-century structural analysis of temporal symbolism. Source: [[leach-rethinking-anthropology-1961]].

@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Small-scale plant cultivation (gardens, swiddens, ditch/raised beds) without assuming full cereal agriculture, plough, or exclusive dependence on domesticates"
 contested: no
 related_concepts: ["[[domestication]]", "[[maize-domestication]]", "[[rice-domestication]]", "[[animal-domestication]]", "[[complex-hunter-gatherers]]", "[[agricultural-revolution]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept, archaeology, anthropology, subsistence]
 ---
 
@@ -41,6 +41,7 @@ As of [[mithen-after-the-ice-2003|Mithen 2003]]:
 - **Europe:** early farming villages with garden plots of wheat/barley, peas/lentils.
 - **Amazon:** path toward manioc and maize after riverine specialized economies and pottery.
 - **Comparative principle:** cultivation can precede sedentism (Mexico, New Guinea) or follow it (West Asia, Japan, Ganges) — sequence is not universal.
+- **Achuar domestic horticulture (Descola 1986/1994):** *[[descola-in-the-society-of-nature-1994|In the Society of Nature]]* — manioc-centered polycultural gardens, quantified labor and yields, under-exploitation relative to potential, diet ~3408 kcal/day with gardening as main calorie source ([[descola-society-of-nature-study|study]]; [[achuar]]).
 
 ## Critiques and Limitations
 

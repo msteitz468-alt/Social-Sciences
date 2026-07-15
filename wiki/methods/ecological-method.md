@@ -7,8 +7,8 @@ date_introduced: 1925
 supersedes: ["[[unknown]]"]
 epistemic_leverage: "Links social phenomena to spatial distribution, land use, and community process; makes urban differentiation and rate gradients visible; supports comparison of natural areas"
 key_limitations: ["biotic analogy overstretch", "ecological fallacy risk", "under-specification of power and institutions", "maps correlation not mechanism alone", "ideal-type zones over-applied"]
-sources_ingested: 1
-last_updated: 2026-07-08
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [method]
 ---
 
@@ -40,17 +40,23 @@ Assumes spatial position systematically shapes institutions and behavior; that p
 
 Formalized Chicago 1920s; McKenzie definitional essay 1925; later factorial ecology, social area analysis, multilevel neighborhood models (reception).
 
+### Sampson / ecometrics update (2012)
+
+[[sampson-robert-j|Sampson]] and [[raudenbush-stephen|Raudenbush]] argue (attributed, *[[sampson-great-american-city-2012|Great American City]]*) that ecological constructs are not merely aggregates of individual characteristics and need "ecometric" rather than purely psychometric standards — otherwise multilevel studies overemphasize the individual component. Nested units (77 Chicago community areas; tracts; block groups; face-blocks) are reported without enforcing a single operational definition (Reiss-style imbrication). Spatial lag / neighbors-of-neighbors models extend classical ecology to extralocal interdependence (homicide and disadvantage spillover as Sampson reports). See [[ecometrics]] · [[systematic-social-observation]] · [[neighborhood-effects]].
+
 ## Exemplary Applications
 
-[[park-burgess-city-study|The City]] program; Seattle counts (McKenzie); listed student monographs (Anderson, Thrasher, Zorbaugh, etc.); later Shaw & McKay (not ingested).
+[[park-burgess-city-study|The City]] program; Seattle counts (McKenzie); listed student monographs (Anderson, Thrasher, Zorbaugh, etc.); later Shaw & McKay (as reported); PHDCN / *[[sampson-great-american-city-study|Great American City]]* multi-level neighborhood program.
 
 ## Debates
 
-Human ecology vs cultural and political-economy urban sociology; social disorganization vs collective efficacy reformulations.
+Human ecology vs cultural and political-economy urban sociology; social disorganization vs collective efficacy reformulations; ecological fallacy vs "individualistic fallacy" (Sampson's reading of Robinson).
 
 ## Links
 
 - Theory: [[human-ecology]] · [[chicago-school]]
-- Source: [[park-burgess-city-1925]]
-- Concepts: [[urban-mobility]] · [[ecological-succession]] · [[concentric-zones]]
+- Source: [[park-burgess-city-1925]] · [[sampson-great-american-city-2012]]
+- Study: [[sampson-great-american-city-study]]
+- Methods: [[ecometrics]] · [[systematic-social-observation]]
+- Concepts: [[urban-mobility]] · [[ecological-succession]] · [[concentric-zones]] · [[neighborhood-effects]] · [[collective-efficacy]]
 ---

@@ -7,8 +7,8 @@ disciplines: [anthropology, archaeology]
 emic_or_etic: migrated
 operationalized_as: "the culturally specific constitution of the social being — distinguished analytically from the biological individual and the unique self"
 contested: yes
-related_concepts: [embodiment, agency, materiality]
-sources_ingested: 1
+related_concepts: [embodiment, agency, materiality, "[[mutuality-of-being]]", "[[dividual]]"]
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [concept]
 ---
@@ -69,3 +69,7 @@ triad can harden into a new West/rest binary (the very antinomy the Comaroffs re
 ethnographic interpretation, every claim is dated to its fieldwork moment. See
 [[postcolonialism]] for the colonial-encounter framing (missionary discourse casting Tswana as
 both "primitive communists" and excessively "greedy" to justify instilling individualism).
+
+## Sahlins densification (2013) — kinship as mutual personhood
+
+*(Attributed — [[sahlins-marshall|Sahlins]], *[[sahlins-what-kinship-is-2013|What Kinship Is—And Is Not]]* 2013.)* Sahlins defines kinship as [[mutuality-of-being]] — persons who participate intrinsically in each other's existence — and treats that intersubjectivity as continuous with personhood constructions that are not bounded individuals: Leenhardt dual unities; Maori "kinship I" (Johansen); name-sharing as total identity (Ojibway, Suya, !Kung); Achuar/Jivaro lifetime composition of the person by multiple contributors (Taylor); [[dividual]]-adjacent genealogies via Leenhardt/Bastide. Mystical interdependence (shared injury, mourning as mutual death, sorcery as "negative kinship") is the praxis of mutual personhood. Closing programmatic line (via [[viveiros-de-castro-eduardo|Viveiros de Castro]]): Amazonian kinship as a "non-biological theory of life." See [[kinship-biology-vs-culture-debate]].

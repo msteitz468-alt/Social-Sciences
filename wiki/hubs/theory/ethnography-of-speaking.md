@@ -4,10 +4,10 @@ theory_page: "[[ethnography-of-speaking]]"
 disciplines: [linguistic-anthropology, anthropology, linguistics, folklore]
 era_origin: [critical-turn]
 originated_by: ["[[hymes-dell]]"]
-key_texts: ["[[hymes-foundations-in-sociolinguistics-1974|Foundations in Sociolinguistics (1974)]]", "Hymes 1962 Ethnography of Speaking", "Gumperz & Hymes 1964 Ethnography of Communication", "Gumperz & Hymes 1972 Directions in Sociolinguistics"]
+key_texts: ["[[bauman-sherzer-explorations-ethnography-speaking-1974|Bauman & Sherzer Explorations (1974)]]", "[[hymes-foundations-in-sociolinguistics-1974|Foundations in Sociolinguistics (1974)]]", "Hymes 1962 Ethnography of Speaking", "Gumperz & Hymes 1964 Ethnography of Communication", "Gumperz & Hymes 1972 Directions in Sociolinguistics"]
 status: active
-key_sources: ["Hymes, Foundations in Sociolinguistics (1974; Routledge 2001 reprint)"]
-last_updated: 2026-07-09
+key_sources: ["Hymes, Foundations in Sociolinguistics (1974; Routledge 2001 reprint)", "[[bauman-sherzer-explorations-ethnography-speaking-1974]]"]
+last_updated: 2026-07-10
 tags: [hub, theory-analysis]
 ---
 
@@ -202,3 +202,20 @@ The standing test Hymes set remains: can one describe a community's ways of spea
 ## Reflexivity (program production)
 
 The ethnography of speaking is a product of U.S. Critical-Turn anthropology and linguistics: SSRC committee infrastructure, urban ethnography centers, AAA publication vehicles, and a polemic against generative hegemony in departments. It carries Boasian Amerindian philology forward while criticizing scholastic formalism. Applied stakes (bilingual education, classroom equity) are not afterthoughts — Hymes treats scientific and social concerns as convergent. Later pedagogical capture of communicative competence in testing regimes is a reception irony: a concept built against ideal-speaker standards can be re-standardized. The program's comparative illustrations often draw on salvage-era and colonial-era ethnographies; the method's ethics inherit those archives even when the theory is emancipatory in intent.
+
+
+## Empirical Program — Bauman & Sherzer *Explorations* (1974)
+
+*(Attributed; densified from [[bauman-sherzer-explorations-ethnography-speaking-1974|Bauman & Sherzer 1974]].)*
+
+The 1974 volume operationalizes the Hymes program as a **comparative case library**. Editors insist none of the papers is a complete ethnography of speaking; each explores a salient subsystem. Cross-cutting results as of the editors’ synthesis:
+
+| Theme | Illustrative cases (authors) | Load-bearing claim (attributed) |
+|---|---|---|
+| Community as diversity | Sankoff (Montreal/Tok Pisin variation); Jackson (Vaupés multilingual exogamy) | Speech communities are stratified repertoires, not single codes |
+| Ground rules | Philips (Warm Springs time); Reisman (Antigua multi-floor); Keenan (Malagasy indirectness); Bauman (Quaker silence/speech) | Interaction norms are culture-specific and politically consequential |
+| Event structure | Irvine (Wolof greeting); Salmond (Māori encounter); Sherzer (Cuna congress/*ikar*) | Formal events have generative rules speakers play strategically |
+| Verbal art continuum | Gossen (Chamula heat); Bricker (couplets); K-G (parable performance) | Artistic speech is graded within a community’s full verbal taxonomy |
+| Toward ethnology | Grimshaw; Basso (writing); Hymes (ways of speaking) | Comparative theory requires ethnographies first; writing and style in scope |
+
+**What Survived:** performance-centered analysis; community as diversity; event-level description; later educational and interethnic applications (second-edition intro). Source apparatus: [[bauman-sherzer-explorations-ethnography-speaking-1974|Bauman & Sherzer 1974]].

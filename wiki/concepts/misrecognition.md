@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Collective denial or euphemization that makes domination and economic calculation socially viable; not individual error alone"
 contested: yes
 related_concepts: ["[[symbolic-violence]]", "[[symbolic-capital]]", "[[doxa]]", "[[gift-exchange]]", "[[illusio]]", "[[habitus]]", "[[pedagogic-authority]]", "[[cultural-reproduction]]", "[[self-elimination]]"]
-sources_ingested: 3
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [concept]
 aliases: [meconnaissance]
 ---
@@ -31,6 +31,7 @@ Genesis of belief, he argued, implies amnesia of genesis: continuous unconscious
 - **Origin in *[[bourdieu-outline-1977|Outline]]* (1972).** The apparatus is already in place: misrecognition of "the arbitrariness of the value" conferred on symbolic goods produces "the well-grounded illusion that the value of symbolic goods is inscribed in the nature of things"; **genesis amnesia** ("the 'unconscious' is never anything other than the forgetting of history which history itself produces") is stated in ch. 2; and the collective, non-individual character is fixed by the *Outline* formula "when the group lies to itself in this way, there is neither deceiver nor deceived." *Logic* and *Reproduction* refine rather than originate the concept.
 - **French *méconnaissance*.** Mis-knowledge / failure to recognize; Bourdieusian technical sense is collective and structural.
 - **Not Lacanian *méconnaissance*.** Lacanian uses are a different lineage — do not equate without argument.
+- **Not Fraser’s “misrecognition.”** In *[[fraser-honneth-redistribution-or-recognition-2003|Redistribution or Recognition?]]*, Fraser’s misrecognition is **status subordination** under a [[status-model-of-recognition]] (institutionalized cultural value denying peer standing / [[participatory-parity]]) — a justice-theoretic term, not Bourdieu’s field *méconnaissance*. Keep them separate.
 - **Gift as paradigm (ch. 6).** Gift exchange is the paradigm of operations through which "symbolic alchemy" produces a reality-denying reality: collectively produced, sustained misrecognition of "objective" truth. Functioning presupposes misrecognition of the exchange mechanism; an immediate identical return brutally exposes that truth.
 - **Official truth / twofold truth.** Official truth produced by collective euphemization has practical efficacy even when belied by practice; Kabyle classificatory parallel-cousin marriage (house of Belaid) as collective bad faith — official image of unity coexisting with known forced alliance of unequal lines.
 - **Class relations (ch. 9).** Objectivism forgets that misrecognition of class relations is integral to those relations; statistical differences apprehended through adjusted schemes become signs of natural distinction and function as symbolic capital. Charisma as product of countless crediting operations agents attribute to the object to which they submit.
@@ -42,6 +43,7 @@ Genesis of belief, he argued, implies amnesia of genesis: continuous unconscious
 - **Ritual officialization.** Transgression made regulated, public, collectively shouldered is the most powerful denial (harvest as murder → sacrifice); group lies to itself in a game of twofold objective truth.
 - **Master–khammes and kinship exploitation.** Ethical/affective bonds masking asymmetry; Béarn younger-brother-as-servant relation existing as such only under misrecognition; urbanization collapsing reciprocal controls and the fiction of the religion of honour.
 - **Educational "gift."** Qualifications masking relation between credentials and inherited [[cultural-capital]] (ch. 8) — fuller in *Reproduction* / *Distinction*.
+- **The "cognitive machine" (*[[bourdieu-state-nobility-1996|The State Nobility]]*, 1989).** The khâgne grading study operationalizes misrecognition empirically: the taxonomy of grading adjectives is "both a relay and a screen between the entry classification [social origin]... and the exit classification [grade]," producing "recognized-misrecognized social classifications." Teachers are "fools fooled... the primary victims of their own actions"; the euphemized verdict ("insipid style") is effective precisely where the blunt social statement ("you're nothing but a worker's son") "would... incite a revolt against the institution." See [[bourdieu-state-nobility-study]], [[rites-of-institution]].
 - **Pedagogic misrecognition (*[[bourdieu-passeron-reproduction-1990|Reproduction]]*).** In the education work, misrecognition is elevated to the *structural precondition* of [[pedagogic-authority]]: a [[pedagogic-action]] that revealed its own arbitrariness "would be self-destructive" (the paradox of Epimenides), so misrecognition is "the condition of its exercise," not a psychological lapse. "Legitimation of the established order by the School presupposes... misrecognition of the delegation of authority which establishes that legitimacy." The [[self-elimination|self-eliminated]] misrecognize a social verdict as a verdict on their own gifts. This is the concept's most systematic institutional application.
 
 ## Applications

@@ -4,14 +4,14 @@ date_birth: "1899"
 date_death: "1984"
 disciplines: [anthropology]
 era: [fieldwork-revolution, postwar-expansion]
-affiliated_theories: ["[[structural-functionalism]]"]
+affiliated_theories: ["[[structural-functionalism]]", "[[applied-anthropology]]"]
 trained_under: ["[[malinowski-bronislaw]]"]
 trained: ["[[unknown]]"]
-key_works: ["[[fortes-evans-pritchard-african-political-systems-1940|Bemba chapter in African Political Systems (1940)]]", "[[radcliffe-brown-forde-african-systems-kinship-marriage-1950|Central Bantu family types in African Systems of Kinship and Marriage (1950)]]"]
-key_concepts: ["[[chieftainship]]", "[[mystical-values-of-office]]", "[[mother-right-and-father-right]]", "[[marriage-payments]]", "[[family]]"]
+key_works: ["[[fortes-evans-pritchard-african-political-systems-1940|Bemba chapter in African Political Systems (1940)]]", "[[radcliffe-brown-forde-african-systems-kinship-marriage-1950|Central Bantu family types in African Systems of Kinship and Marriage (1950)]]", "Land, Labour and Diet in Northern Rhodesia (1939)", "Hunger and Work in a Savage Tribe (1932)", "Bemba Marriage and Present Economic Conditions (1940)", "Chisungu (1956)"]
+key_concepts: ["[[chieftainship]]", "[[mystical-values-of-office]]", "[[mother-right-and-father-right]]", "[[marriage-payments]]", "[[family]]", "[[applied-anthropology]]"]
 fieldwork_sites: ["Bemba, North-Eastern Rhodesia (1930, 1933); Bangweulu Bisa (1934)"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [thinker, anthropology]
 ---
 
@@ -51,6 +51,22 @@ Links: [[bemba]], [[chieftainship]], [[mystical-values-of-office]], [[the-state]
 ## Historiography
 
 Richards is a canonical Malinowski-school Africanist; APS Bemba chapter is a condensed political ethnography, not her full economic monographs. Summary page only; no Thinkers Hub entry yet.
+
+## From Kuper, *Anthropology and Anthropologists* (2015)
+
+*(Attributed — [[kuper-adam|Kuper]] 2015; source [[kuper-anthropology-and-anthropologists-2015]].)*
+
+- **Formation.** Natural Sciences Cambridge; WWI relief work Frankfurt (Quaker; lifelong nutrition concern); four years League of Nations pressure group; 1928 LSE under [[malinowski-bronislaw|Malinowski]] (directed by Graham Wallas). Doctoral thesis *Hunger and Work in a Savage Tribe* (1932): “Nutrition as a biological process is more fundamental than sex,” yet nutrition is a whole “nutritional system” of institutions—orthodox functionalism. Bemba field study from 1929–30 (Indirect Rule introduced the year she entered the field); research proposal already addressed railway/copper development, administration, and white–black conflict. Personal friend of Kuper among the elders; recalled Malinowski seminar as a game discovering the necessity of custom; reported Malinowski’s extreme expressions under opposition.
+- **Applied monographs and the prestige split.** Chaired IAI Diet Committee; *Land, Labour and Diet in Northern Rhodesia* (1939) modelled on Malinowski’s *Coral Gardens* but set in colonial context; RLI *Bemba Marriage and Present Economic Conditions* (1940) for administrators on migrant labour and family change. Drafted much of the IAI five-year research plan (Kuper: “trite enough” as social-science prose). **Kuper’s assessment:** applied studies carry colonial realism; academic chapters in *African Political Systems* and *African Systems of Kinship and Marriage* largely ignore overrule and family-change problems—practical problems filed as [[applied-anthropology]] in less prestigious outlets. Richards and [[mair-lucy|Mair]] ruefully acknowledged applied work as less serious than fundamental [[social-structure]] studies. *Chisungu* (1956) functionalist girls’ initiation in ethnographic present, ignoring change.
+- **Institutions.** WWII temporary principal, Colonial Office; 1944 LSE special lecturer in colonial studies; Colonial Social Science Research Council board (with [[firth-raymond|Firth]], steered postwar social-anthropology fellowships); urged Uganda institute of social research, first director 1950 (rural development, migrant labour, Indirect Rule chiefs). Postwar LSE lineup with Mair still fostering applied work while Oxford disapproved. 1946 pleaded against LSE–Oxford camps becoming “two sets of psychoanalysts.” Commonwealth institute directorships among few senior posts women held while none headed a UK anthropology department.
+
+## Bemba succession source and later work (via Gluckman, *Order and Rebellion*, 1963)
+
+*(Attributed — [[gluckman-max|Gluckman]], Essay II, "Succession and Civil War among the Bemba," written 1946/published 1954.)* Richards's APS Bemba chapter supplied one of the two conflicting accounts of [[bemba|Bemba]] succession rules (the other from District Officer V. W. Brelsford) that Gluckman used to develop his succession-cycle analysis; her stated rules of succession conflicted with her own reported evidence, a discrepancy Gluckman attributes to fieldwork location within one of two branches of the royal family contesting the paramountcy. Richards's observation that ritually "the whole Bemba country can be said to act as a whole" despite "quarrels and jealousies between different lines of the royal family" is quoted by Gluckman as evidence for the rebellion-not-secession thesis for the Bemba-type polity.
+
+Richards's earlier article "A Modern Movement of Witchfinders" (*Africa*, viii, 1935) is cited by Gluckman as a direct influence on his analysis of colonial-era anti-witchcraft movements in "The Magic of Despair" (1954; see [[witchcraft]]).
+
+**[POSITION — Gluckman's critique.]** Gluckman criticizes Richards's 1960 Presidential Address to the Royal Anthropological Institute, "African Kings and their Royal Relatives," for focusing on "the problem of the African king with too many royal relatives" rather than relating royal-family structure to the wider political-economic system — part of a broader trend Gluckman identifies (with Fallers, Southall, M. G. Smith, and Colson) of anthropologists in the later 1950s shifting attention toward bureaucracy and administration rather than rebellion and civil-war process.
 
 ## Central Bantu family-structure types (ASKAM, 1950)
 

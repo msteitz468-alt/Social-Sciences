@@ -7,7 +7,7 @@ disciplines: [archaeology, anthropology, linguistics]
 emic_or_etic: etic
 operationalized_as: "geographic-biogeographic boundary between Pleistocene-settled and post-1200 BCE settled Pacific islands"
 contested: "no"
-related_concepts: [[[dumont-durville-tripartite-classification]], [[austronesian-expansion]], [[lapita-cultural-complex]]]
+related_concepts: [the Dumont d'Urville tripartite classification, [[austronesian-expansion]], [[lapita-cultural-complex]]]
 sources_ingested: 1
 last_updated: 2026-07-10
 tags: [concept]

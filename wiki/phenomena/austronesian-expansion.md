@@ -9,9 +9,9 @@ region: [east-asia, china, southeast-asia, oceania, polynesia, melanesia]
 measured_by: [ancient-dna, admixture-statistics, historical-linguistics, archaeological-typology]
 driven_by: [rice and millet agriculture, outrigger canoe technology, Lapita pottery-complex expansion]
 produces: [austronesian-language-distribution, lapita-culture, remote-pacific-settlement]
-theorized_by: [reich-david, gamble-clive]
+theorized_by: [reich-david, gamble-clive, "[[bellwood-peter|Bellwood]] ([[early-farming-dispersal-hypothesis]])"]
 key_studies: []
-sources_ingested: 3
+sources_ingested: 6
 last_updated: 2026-07-10
 tags: [phenomenon, east-asia, southeast-asia, oceania]
 ---
@@ -202,8 +202,67 @@ place — language, genes, and culture demonstrably decouple (mtDNA "Polynesian 
 Oceanic–origin Y-chromosome haplotype). See also [[peopling-of-sahul]] (the much earlier, separate
 Pleistocene colonization of Near Oceania) and [[oceanic-voyaging]].
 
+### Bellwood — *First Farmers* (2005): Out-of-Taiwan / Modified Out of Taiwan densification
+
+*(Attributed — [[bellwood-peter|Bellwood]], *[[bellwood-first-farmers-2005|First Farmers]]* ch. 7, 9–12; archaeology, linguistics, and genetics **as of Bellwood 2005**. Appended to densify Bellwood’s own farming–language program without overwriting Kirch- or Reich-derived material above.)*
+
+Bellwood is a principal architect of the comparative [[early-farming-dispersal-hypothesis]] and of the **Out-of-Taiwan** archaeological–linguistic model for Austronesian. He treats Austronesian as the most widespread language family — Madagascar to Easter Island (~210° of longitude) — “one of the most phenomenal records of colonization and dispersal,” with ~1,000 languages and ~350 million speakers (as of Bellwood 2005). Solid shared phylogenetic core despite phenotype diversity and language adoption by Melanesians and Philippine Negritos (Bellwood 1991, 1997a; Blust 1995a; Pawley & Ross 1993; Pawley 2003).
+
+#### Archaeology and chronology (as of Bellwood 2005)
+
+- **Taiwan / Dapenkeng.** Taiwan Dapenkeng Neolithic after ~3500 BC = basal Austronesian agricultural settlement from Fujian; continuous cultural development on Taiwan until Chinese settlement in the 17th c. AD implies Austronesian speakers occupied the whole island (vested-interest acknowledged). First Neolithic farmers move south into the Philippines and eventually Indonesia ~2500–2000 BC after Dapenkeng evolved into regional cord-marked/red-slipped expressions.
+- **Red-slipped horizon.** Red-slipped pottery Philippines, N Borneo, E Indonesia ~2000–500 BC; origins traced to eastern Taiwan assemblages ~2000 BC (ancestors of Beinan, Zhangguang, Yuanshan); Fengtian nephrite from Taiwan exported to the Philippines. Rice husks Luzon ~1600 BC (Andarayan); rice fades east of Philippines/Borneo as populations enter the equatorial zone / Oceania — tubers/tree crops replace annual cereals (Dewar 2003 rainfall-unreliability filter).
+- **Bifurcation.** W branch: paddle-impressed pottery + rice through Borneo/W Indonesia after ~2500 BC (Gua Sireh rice grain ~2300 BC AMS). E branch: red-slipped + non-cereal tuber/fruit/maritime focus into the Pacific — Polynesians candidates for the latter descent. Both likely from populations in Taiwan/Philippines ~2500/2000 BC.
+- **Rapid colonizing pulse.** Between ~2000–800 BC related red-slipped ± stamped/incised pottery, shell artifacts, stone adzes, pigs and dogs spread ~10,000 km Philippines→Indonesia→W Polynesia — “one of the fastest movements of a prehistoric colonizing population on record” (Lapita Melanesia 5,500 km in ≤500 years). Mariana Islands settled by ~1500 BC or before across ~2,000 km open sea from a likely Philippines homeland. Chamorro rice vocabulary inherited from Proto-Malayo-Polynesian ~4,000 years ago, not later borrowing (Blust 2000a as cited).
+- **Pacific colonization bouts.** (1) [[lapita-cultural-complex|Lapita]] ~1350–800 BC to central/eastern Melanesia + W Polynesia to Samoa; (2) Nuclear Micronesia (excl. Marianas/Palau) ~2500–2000 years ago possibly from Melanesia; (3) E Polynesia including New Zealand aceramic AD 600–1250. Standstills reflect more distance/sea-level/canoe technology/social motives than pure agricultural causation — but without agriculture long-term Pacific colonization was impossible.
+- **Hierarchy of causes.** Much AN dispersal is post-Neolithic (S Vietnam, Madagascar = Iron Age); foundation into Remote Oceania is fundamentally agricultural subsistence + Neolithic voyaging; naive faunas and founder status matter but are secondary. Agriculture in Neolithic China/Taiwan has the most significant foundation role. ~1,000-year Taiwan standstill before Philippines (archaeology + linguistics); southward age cline in SE Asia after 3000 BC.
+
+#### Linguistics (as of Bellwood 2005)
+
+**Blust reconstruction (most acceptable per Bellwood):** geographical expansion beginning in Taiwan (Proto-Austronesian + majority of primary subgroups — ≥9 of 10 per Blust); subsequent Malayo-Polynesian (non-Taiwan) via Philippines, Borneo, Sulawesi; W branch Java/Sumatra/Malay Peninsula; E into Oceania. Formosan languages form several first-order subgroups → strong Taiwan homeland signal; MP subgroups rake-like from rapid dialect-chain spread (perhaps <500 years); archaeology supports rapid primary AN spread (Bellwood 2000c). Reconstructed PAn (Taiwan): cultivated rice, millet, sugarcane, dogs, pigs, possibly water buffalo, weaving, canoes (sails less certain). PMP (perhaps N Philippines): adds taro, breadfruit, banana, yam, sago, coconut — shift from rice toward tubers/fruits in equatorial latitudes (Zorc; Pawley & Pawley; Dewar). Blust 1993; Pawley 1999, 2003: early MP spread very far very fast before differentiation — Proto-Oceanic (Bismarck) shared ~90% basic vocab with PMP ~5,000 km away. Gray & Jordan 2000 maximum-parsimony tree of 77 AN languages supports fairly rapid “express train” from Taiwan, agreeing with Blust subgroups. Proto-Oceanic material culture of agriculture, seafaring, fishing, pottery reconstructs continuously ~3500 BP (Pawley 1981). Polynesian strong tree; Proto-Polynesian innovation-rich; homeland Western Polynesia Tonga/Samoa ~1000 BC–AD 500 with long standstill (Pawley 1996; Kirch & Green 2001). Intensive Papuan contact accelerated AN lexical change in western Melanesia — 1960s lexicostatistics wrongly placed the AN homeland in Melanesia (Dyen 1965; Murdock 1968). Early AN spread into Melanesia possibly lubricated by Proto-Oceanic as a lingua franca among diversified coastal Papuan languages. Philippine Agta Negritos all adopted Austronesian long ago via encapsulation/creolization then decreolization (Reid 1994a, 1994b).
+
+#### Four-way non-identity (Bellwood’s own formulation)
+
+Languages and agricultural systems of Austronesian speakers in ISEA/Pacific largely have SE Asian / even southern Chinese origins; biological genotypes from New Guinea to Fiji are heavily shaped by New Guinea — New Guinea was never seriously colonized by incoming agriculturalists. Quote (as of Bellwood 2005): “Although the languages and agricultural systems of the Austronesian speaking populations… reveal undoubted Southeast Asian, even southern Chinese origins, the same is not true of biological genotypes… New Guinea… was never seriously colonized by incoming agriculturalists.” Crop terms for Pacific/New Guinea-adjacent Oceania come from Austronesian (Philippines/Indonesia) sources, not Papuan — even where crop varieties may derive from New Guinea horticulture (bananas, some taro per Denham et al. 2003). Lowland New Guinea is a **friction zone** mid-salient (not end-of-line): Lapita rate extremely rapid beyond into uninhabited Oceania; AN very slow to penetrate New Guinea itself from nearby Lapita. Biology–language discordance (Melanesians vs Filipinos within AN; western Europeans vs South Asians within IE) requires language shift and contact-induced change as secondary but real ingredients — not relevance “beyond their due.”
+
+#### Genetics debate as of Bellwood 2005 (not post-2015 aDNA)
+
+Pre-Neolithic ISEA as westerly Australomelanesian extension; Neolithic AN + mainland Austroasiatic brought Southern Mongoloid genotypes mixing with predecessors → N–S and W–E cline Asian→Australomelanesian; Melanesia→Polynesia opposite (Asian characters return east).
+
+- **mtDNA “express train” side:** Redd, Melton et al. 1995; Sykes et al. 1995 — mtDNA 9-bp deletion lineages; “Polynesian motif” (sub 16247) dominates Polynesians; ancestral substitutions via Taiwan bottleneck; ultimate AN source Taiwan, but final form of Polynesian motif originated in **eastern Indonesia**, not Taiwan. Lum & Cann 1998; Merriwether et al. 1999: Polynesian mtDNA links SE Asia not Melanesia as major maternal source.
+- **Nuclear / Y “entangled bank” side:** Lum et al. 1998, 2002 — ~30% Polynesian nuclear genes probably Melanesian (male gene flow Papuan→AN eastward). Capelli et al. 2001 Y: AN dispersal S China/Taiwan into ISEA in haplogroups H and L (later 03: Cox 2004) — S China, S Taiwan, ISEA, Polynesia; E Indonesians/Melanesians mainly indigenous W Pacific haplogroups; Polynesians combine both via drift/founder effects. Underhill et al. 2001b; Hurles et al. 2002: Y supports complex interrelationships vs mtDNA/linguistics rapid homogeneous expansion; gender-modulated differential gene flow; not strongly supporting rapid Taiwan expansion but “not necessarily incompatible” — biology and culture can uncouple.
+- **Oppenheimer–Richards school (position):** Richards, Oppenheimer, Sykes 1998–2003 — Polynesians separate biological origin; Polynesian motif molecular-clocked 5,500–34,500 ya in E Indonesia; AN linguistic dispersal might originate E Indonesia. **Bellwood:** linguistically/archaeologically deriving all AN from Pleistocene E Indonesia is “not a credible proposition”; reverse direction vs archaeology and languages extremely unlikely. High Polynesian-motif frequency led Sykes 1999b to claim Polynesian settlement south of Australia — contradicted by Malagasy languages mainly from S Borneo, ceramic prehistory from ~AD 500, Sanskrit loans via Malay; Polynesians lost pottery ~2,000 ya.
+- **Bellwood three options for Polynesian motif:** (1) pre-AN Asian-derived morphology in E Indonesia (no skeletal evidence yet); (2) molecular clock wrong — mutation during AN dispersal after 4,000 ya; (3) picked up from indigenous source via few females + fecundity in bottlenecks (needed if Pleistocene date holds).
+- **Modified Out of Taiwan (Cox 2003 as of Bellwood’s reading):** modern AN only ~20% genes likely from Neolithic AN ancestors (average similar to Europe figures); recalculates Polynesian motif age closer to AN migration and Holocene Asian Y 03; favors **Modified Out of Taiwan Model** — which Bellwood adopts as his model. Synthesis: initial fairly clear-cut dispersal S China/Taiwan via ISEA into Oceania + considerable indigenous intermixing + considerable male-focused gene flow out of Melanesia. Mapping metaphors: mtDNA like Diamond’s “express train”; nuclear/Y more Terrell’s “entangled bank”; women early/far with initial migrants, female descendants stay; males roam (Hage & Marck 2003).
+
+**Express-train tempered:** rapid Lapita and red-slipped pottery expansions = demic agricultural colonization with package; not pure express train leaving “astonished and landless hunters” — SE Asia trajectories “extremely complex”; genetic HG contribution visible Malay Peninsula, parts of Philippines/E Indonesia, Island Melanesia; material culture and language continuity from pre-agricultural past “not particularly strong” except Near Oceania and some continuing HG groups. Founder rank enhancement (Bellwood 1996d) paralleled by Vansina on Western Bantu. See [[express-train-vs-entangled-bank-debate]], [[lapita-cultural-complex]], [[kuk-swamp]] (independent Highlands horticulture **contrasted with** AN expansion).
+
 ## See Also
 
 [[ghost-population]] · [[ancient-dna]] · [[admixture-statistics]] · [[reich-david]] ·
 [[reich-who-we-are-2018]] · [[global-colonization]] · [[exaptation]] ·
-[[lapita-cultural-complex]] · [[triple-i-model]] · [[kirch-road-of-the-winds-2017]]
+[[lapita-cultural-complex]] · [[triple-i-model]] · [[kirch-road-of-the-winds-2017]] ·
+[[bellwood-first-farmers-2005]] · [[bellwood-peter]] · [[early-farming-dispersal-hypothesis]] ·
+[[barker-graeme]] · [[barker-agricultural-revolution-prehistory-2006]]
+
+## Barker 2006 (*Agricultural Revolution in Prehistory*)
+
+*(Attributed — [[barker-graeme|Graeme Barker]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006, Chs. 3, 6; genetics **(as of Barker 2006)**; positions recorded against Bellwood/Reich layers above, not adjudicated.)*
+
+- **Express Train model stated.** Barker summarizes Bellwood (and Diamond “Express Train” 1988): Austronesian-speaking Neolithic colonists from mainland China/Taiwan spread pottery, rice, pig through Philippines/Borneo/Melanesia then Lapita + taro/yam/pig to Remote Oceania (Hawaii, NZ, Easter Island); linguistic homeland Taiwan (least Formosan diversity) (attributed historiography).
+- **Local trajectories over colonist narrative (Barker position).** He argues transitions to farming in East/SE Asia and the Pacific must be understood primarily as **local trajectories** of subsistence change: late Pleistocene systematic plant harvest and rainforest management; China Holocene rice/millet staples; Korea/Japan/mainland SE Asia mid-Holocene gradual horticulture then sudden wet-rice + metal commitment; island SE Asia arboriculture/horticulture (yam/taro/sago) **before** rice expansion. Early domestic rice dates across mainland and island SE Asia appear near-simultaneously (~2500–1700 BC) rather than as steady southward migrant spread; rice often not staple for centuries–millennia after first appearance (e.g. Sarawak medieval staple lag) (attributed).
+- **[[kuk-swamp]] countercase.** Indigenous New Guinea Highlands cultivation very early Holocene (Golson/Denham) — taro starch, banana phytoliths including wild Eumusa first domesticated in New Guinea (**as of Barker 2006**) — **long before** assumed Austronesian colonization. Pigs not native; chronology of introduction insecure (attributed).
+- **Lapita / pre-Lapita.** By ~1500 BC major indigenous farming plants/animals already in Bismarcks/Solomons; Fiji charcoal clearances c.2500 BC ~1500 years before Lapita; Kosrae cultivates breadfruit/taro/coconut/Pandanus/sugar cane 500 years before Lapita. Gosden: melting pot of influences over millennia not sudden new people; Yen: multi-directional plant movements; many “transported landscape” elements home-grown. Lapita still often marks clearance and root/tuber + pig expansion and social-ideological change (attributed).
+- **Genetics (as of Barker 2006).** Early DNA thought to support Austronesian model (Hagelberg); Oppenheimer & Richards 2001 patterns show complex Pleistocene-onward splits/mixings east–west and west–east (attributed). Cross-links: [[rice-domestication]], [[early-farming-dispersal-hypothesis]], [[lapita-cultural-complex]], [[express-train-vs-entangled-bank-debate]].
+
+## Mainland foothold: Cham and the Sa Huynh question (Higham 1989)
+
+On the central Vietnamese coast, Cham — an **Austronesian** language, closest in affinity
+to the languages of Sumatra — anchored the Champa/Linyi [[mandala|mandalas]], distinct from
+the surrounding Austroasiatic ([[austroasiatic-languages|Mon-Khmer and Vietic]]) languages
+of the mainland. Higham (1989) speculatively associates the earlier
+[[sa-huynh-culture|Sa Huynh]] cremation-urn culture with these later Cham speakers — an
+attributed, contested inference (Ha Van Tan called Sa Huynh's origins "an enigma"; Ngo Si
+Hong argued for local continuity), and an explicit test case for the four-way non-identity
+rule between archaeological culture, language, and people. See
+[[higham-archaeology-mainland-southeast-asia-1989]].

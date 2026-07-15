@@ -7,8 +7,8 @@ era: [critical-turn, contemporary]
 affiliated_theories: ["[[global-cultural-flows]]"]
 trained_under: ["[[unknown]]"]
 trained: ["[[unknown]]"]
-key_works: ["[[appadurai-social-life-of-things-1986|The Social Life of Things]] (ed., 1986)", "[[appadurai-modernity-at-large-1996|Modernity at Large]] (1996)", "Worship and Conflict Under Colonial Rule (1981)"]
-key_concepts: ["[[ethnoscape]]", "[[mediascape]]", "[[ideoscape]]", "[[imagination-as-social-practice]]", "[[deterritorialization]]", "[[production-of-locality]]", "[[culturalism]]", "[[vernacular-globalization]]", "[[regimes-of-value]]", "[[tournaments-of-value]]", "[[commoditization]]"]
+key_works: ["[[appadurai-social-life-of-things-1986|The Social Life of Things]] (ed., 1986)", "[[appadurai-modernity-at-large-1996|Modernity at Large]] (1996)", "[[appadurai-fear-of-small-numbers-2006|Fear of Small Numbers]] (2006)", "Worship and Conflict Under Colonial Rule (1981)"]
+key_concepts: ["[[ethnoscape]]", "[[mediascape]]", "[[ideoscape]]", "[[imagination-as-social-practice]]", "[[deterritorialization]]", "[[production-of-locality]]", "[[culturalism]]", "[[vernacular-globalization]]", "[[regimes-of-value]]", "[[tournaments-of-value]]", "[[commoditization]]", "[[predatory-identity]]", "[[anxiety-of-incompleteness]]"]
 fieldwork_sites: ["South India / Tamil Nadu (temple study, Worship and Conflict, 1981)", "Bombay / Maharashtra (Marathi print-culture and cricket materials)"]
 sources_ingested: 2
 last_updated: 2026-07-09
@@ -59,6 +59,11 @@ Indian-born anthropologist (b. 1949). At the publication of *[[appadurai-social-
 - **Empirical essays:** the [[vernacular-globalization|indigenization of Indian
   cricket]] (ch. 5) and [[colonial-enumeration|number in the colonial imagination]]
   (ch. 6).
+
+### Globalization and violence (*Fear of Small Numbers*, 2006 — partial ingest)
+
+- The sequel to *Modernity at Large*, asking why globalization since the late 1980s produced escalating rage against minorities. Core apparatus: [[predatory-identity|predatory identities]] (majoritarian identities requiring the extinction of proximate categories) and the [[anxiety-of-incompleteness]] (the small gap between numerical majority and the fantasy of a pure national ethnos as the engine of rage against small numbers) *(Appadurai)*.
+- Argues majority/minority are recent, census-made, co-constitutive categories; that liberal thought's regard for minorities began as procedural (dissent) and was displaced onto substantive cultural minorities; and that all majoritarianisms "have in them the seeds of genocide." Cases: Nazi Germany, Hindutva India (1985–2004), post-9/11 Iraq. Extends [[douglas-mary|Douglas]] on purity and Freud's [[narcissism-of-minor-differences]]. Only the title chapter is ingested — see [[appadurai-fear-of-small-numbers-2006]].
 
 ### Volume editorship
 

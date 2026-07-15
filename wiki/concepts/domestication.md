@@ -7,8 +7,8 @@ disciplines: [archaeology, anthropology, biological-anthropology]
 emic_or_etic: etic
 operationalized_as: "Morphological and genetic change in plants/animals under human selection; coevolutionary mutualism (Rindos); archaeological signatures (size, morphology, age profiles, phytoliths, genetics) — operationalizations disagree across taxa"
 contested: yes
-related_concepts: ["[[neolithic]]", "[[neolithic-revolution]]", "[[sedentism]]", "[[agricultural-revolution]]", "[[hunter-gatherer]]", "[[craft-specialization]]", "[[natufian-culture]]", "[[commensalism-archaeology]]", "[[broad-spectrum-revolution]]", "[[animal-domestication]]", "[[domus-complex]]"]
-sources_ingested: 7
+related_concepts: ["[[commensalism-archaeology]]", "[[neolithic]]", "[[neolithic-revolution]]", "[[sedentism]]", "[[agricultural-revolution]]", "[[hunter-gatherer]]", "[[craft-specialization]]", "[[natufian-culture]]", "[[commensalism-archaeology]]", "[[broad-spectrum-revolution]]", "[[animal-domestication]]", "[[domus-complex]]", "[[rice-domestication]]", "[[early-farming-dispersal-hypothesis]]"]
+sources_ingested: 10
 last_updated: 2026-07-10
 tags: [concept, archaeology]
 ---
@@ -151,3 +151,70 @@ Direct plant and animal remains, not tools alone, are the load-bearing evidence 
 - Fixed continuous monocropped fields as permanent feedlots for pests, pathogens, and obligate weeds (“parasite” = “beside the grain”); northern European unprotected modern-barley experiment: yield cut ~half (disease/animals/weeds) — defense labor explains agriculture’s intensity (Ch.3). Domus rests on a “slender and fragile genetic foundation” — handful of crops/livestock, simplified landscape needing continuous subsidy from excluded nature (Ch.3).
 
 Cross-links: [[animal-domestication]], [[sedentism]], [[agricultural-revolution]], [[agricultural-origins-causation-debate]], [[grain-hypothesis]], [[origin-of-the-state-integrative-vs-conflict-debate]]. Source: [[scott-against-the-grain-2017]].
+
+## Bellwood densification — *First Farmers* (2005)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005; definitions and multi-regional chronology as of that synthesis.)*
+
+### Cultivation vs domestication (definitions)
+
+- **Cultivation:** plant, protect, harvest, deliberately resow — usually on a prepared plot; conscious; **wild as well as domestic** plants can be cultivated; ripe seed harvest + replant expected to select domestic phenotypes quickly (attributed).
+- **Domesticated plants (archaeology):** recognizable morphological change from wild phenotype via cultivation/selection; some become human-dependent for propagation (e.g. maize cob non-dispersal). Bellwood uses any human-management phenotypic change without assuming inability to self-propagate (attributed).
+- **Primary agriculture** requires deliberate planting + regular annual cultivation cycle starting with morphologically wild plants; planting **away from wild stands** helps fix traits especially for cross-fertilizers (attributed).
+
+### SW Asian cereal pathway
+
+- Domestication process for SW Asian cereals shifts wild traits toward: non-shattering when ripe; weak glumes/naked grains; synchronous ripening; lessened dormancy; larger grains/compact ears — poor wild survival, mutualistic benefit (attributed).
+- **Hillman & Davies experiments** (via Bellwood): non-shattering genomes in wheat/barley selectable very quickly — domestication “within 20–30 years” if near-ripe sickle-reaping or uprooting + sowing on virgin land from last year’s new plots; Willcox notes wild + domesticated cereals coexist >millennium before full dominance — real process less single-minded (attributed).
+- Three activities favoring irreversible cereal domestication: (1) sickle harvest selecting non-shattering; (2) planting sickle-harvested grain away from wild stands; (3) delaying harvest until partly/fully ripe. Beating into baskets selects the **opposite** direction (attributed). [[natufian-culture|Natufian]] sickle gloss often = moist **unripe** grain harvest — maximizes wild yields but with total consumption (no replanting) cannot produce permanent domestication (attributed).
+- Short-lived rye domestication attempt claimed at **Abu Hureyra** ~13,000 years ago under pre-Holocene variability (attributed; expanded on [[natufian-culture]]).
+- Single vs multiple domestication events per crop: Zohary (1996, 1999) and Blumler (1998) favor mostly once → pre-emptive spread; genetics mixed — einkorn single-locality claims; barley likely multiple (Jones & Brown 2000; Willcox 2002) *(as of Bellwood 2005)*.
+
+### Holocene enabler and multi-regional notes
+
+- Holocene climatic stabilization ~11,500 ya (warmer, wetter, more reliable) as **ultimate enabler** via denser wild foods → sedentism/population → “competitive ratchet” (Richerson et al. 2001 via Bellwood) — not proximate cause of every regional transition (attributed).
+- **Africa (as of Bellwood 2005):** hard evidence native African plant domestication very recent — pearl millet ~2000–1500 BC (Dhar Tichitt, Birimi); sorghum and African rice only 1st millennium BC; prior millets as wild plants. African cereals more cross-pollinating → may need planting beyond wild stands (Willcox; Haaland; Wetterstrom via Bellwood). Haaland (1999): cultivation of morphologically wild sorghum Sudan by ~5000 BC without stone sickles → less “forcing” than Levant PPN (position).
+- **China millets:** foxtail (*Setaria italica*) and broomcorn (*Panicum miliaceum*) on loess Yellow Basin from ~6500 BC; broomcorn also E Europe/W steppes by 5000 BC — relationship unknown; broomcorn perhaps between Caspian and Xinjiang (Zohary & Hopf 2000 via Bellwood) *(as of 2005)*.
+- **South Asia:** local domestication possible (zebu at Mehrgarh; possibly goats; hexaploid *T. sphaerococcum*; Fuller 2003 native grams/millets Karnataka ~2800 BC). Bellwood: Mehrgarh **not** independent Neolithic generation — cultural origin further west despite local animal domestications. Quote: “Local domestication of a plant or animal need not mean a totally independent generation of an agricultural economy.”
+- **Americas:** multiple independent domestications possible for plants with wide natural ranges (cotton, chilis, beans, some squashes, manioc, even maize) without inflating count of independent *agricultural genesis* regions; no American “Fertile Crescent” tightly focused in space and time — diffuseness of crop origins (attributed). Eastern Woodlands independent seed complex after 2000 BC (Smith program via Bellwood); Andean highland focus ~2000 BC (potato, quinoa, camelids, guinea pig — dates as of his sources).
+
+See [[rice-domestication]], [[animal-domestication]], [[early-farming-dispersal-hypothesis]], [[agricultural-origins-causation-debate]]. Source: [[bellwood-first-farmers-2005]].
+
+## Liu & Chen densification — *The Archaeology of China* (2012)
+
+*(Attributed — [[liu-chen-archaeology-of-china-2012|Liu & Chen 2012]], ch. 4, "Domestication of Plants and Animals.")*
+
+### Domestication as continuum, not binary
+
+Liu & Chen frame plant and animal domestication in China as processes on a continuum, with "domestic" and "wild" as extremes of a spectrum; archaeologically observed populations (pigs especially) typically comprise mixed wild, domestic, feral, and hybrid individuals rather than a clean dichotomy: "Domestic populations are characterized by complete human control of survival, reproduction, and nutrition. Archaeologically observed pig populations, however, often consist of wild, domestic, feral, and genetically hybrid varieties" (as of Liu & Chen 2012). This reinforces the continuum framing already developed above from Scott and Ucko & Dimbleby.
+
+### Two competing driver models, plus a third alternative
+
+Liu & Chen present two competing theoretical models for what drove domestication's dynamics in China: (1) a **cultural-ecological model** (Watson 1995; applied to rice by Lu 1999 and Higham 1995) attributing domestication to environmental marginality and food scarcity forcing subsistence innovation; and (2) a **sociopolitical/"food-fight" competitive-feasting model** (Bender 1978; Hayden 1995, 2003, 2011) attributing domestication to status competition and the production of luxury foods by aggrandizers. Hayden, as summarized by Liu & Chen, argues that "it is only when people begin to 'fight with food' for power, wealth, and status that labor-intensive foods begin to be developed as prestige components" (Hayden 1995: 282).
+
+This is a **live theoretical dispute** (position): Liu & Chen note each model carries biases traceable to processual vs. post-processual theoretical commitments, and the Chinese evidence does not clearly support either exclusively. Evidence cutting against the food-shortage explanation: sites yielding the earliest domesticated pigs and rice ([[jiahu|Jiahu]], Kuahuqiao, Xinglongwa) show abundant natural resources and broad-spectrum economies, with no sign of meat or food shortage. Smith (2001b), per Liu & Chen, counters Hayden by noting many domesticates (millets, barley, beans, buffalo, cattle, pigs) were and remained plain subsistence foods, with no well-documented global correlation between the emergence of social inequality and the first appearance of domesticates.
+
+Rindos (1980, 1984, 1989), per Liu & Chen, offers a **third alternative**: domestication as the natural fruition of a benignly selective co-evolutionary relationship between people and plants, rather than a stress response — consonant with the Rindos coevolutionary framing already recorded above. Liu & Chen's own conclusion synthesizes rather than adjudicates: the dynamics of domestication in China were likely **both ecological and social**, and foraging peoples initiated domestication (intentionally or unintentionally) through routine daily subsistence tasks; early domesticates (rice, millets, soybean, dogs, pigs) played only minor dietary roles for millennia before becoming dominant staples during the middle Neolithic (ca. 5000–3000 BC) or later.
+
+### China evidence feeding the continuum claim
+
+Chemical residue analysis of Jiahu pottery indicates rice was used to brew fermented beverages, associated with evidence of incipient social differentiation at the site (McGovern et al. 2004; Henansheng Wenwu Kaogu 1999a) — a data point Hayden's feasting model would predict, though Liu & Chen caution that because the initial phase of rice domestication remains archaeologically unclear, this ritual association may not reflect rice domestication's original motivation. See [[rice-domestication]], [[millet-domestication]], [[animal-domestication]], [[jiahu]].
+
+Four-way non-identity: none of the archaeological cultures discussed in this chapter (Peiligang, Xinglongwa, Yangshao) are equated by Liu & Chen with a genetic population, language, or named people.
+
+Source: [[liu-chen-archaeology-of-china-2012]].
+
+## Barker 2006 — mutualism, continuum, and failed domestications
+
+*(Attributed — [[barker-graeme]], *[[barker-agricultural-revolution-prehistory-2006]]* 2006; esp. Ch. 1 definitions + Ch. 3 methods + Ch. 10.)*
+
+**Definition (via Blumler & Byrne 1991:24 as Barker quotes):** evolutionary process whereby humans modify genetic makeup of plant/animal populations so individuals lose ability to survive and produce offspring in the wild — intentional or unintentional.
+
+**Mutualism / commensalism:** Following O’Connor 1997, Barker stresses that people did not simply “take sheep into domestication”; both parties adapted; successful husbandry benefits both. Diamond’s line that humans are one of many animal species that unconsciously “domesticate” plants is endorsed as a corrective to human-exceptionalism. Many archaeological “trials” fail the mutual test of time (gazelle in SW Asia; Barbary sheep in N Africa; eastern North American floodplain weeds as long-term staples).
+
+**Process not event:** Morphological wild ≠ no husbandry; morphological domestic ≠ full farming economy. Zeder 2005 (as Barker cites): critical animal threshold is deliberate systematic intervention in life cycle / herd structure, not only genetic isolation. Layton et al.: undue focus on a single continuum point is an evolutionary-stages error.
+
+**Method (Ch. 3):** Archaeobotany, zooarchaeology, isotopes, aDNA (contamination-aware **as of mid-2000s**), settlement, pollen — each with failure modes (sieving bias; AMS overturning old “early domestic” associations; houses ≠ farming; pottery ≠ farming).
+
+See [[animal-domestication]], [[commensalism-archaeology]], [[agricultural-origins-causation-debate]], [[barker-agricultural-revolution-prehistory-2006]].
+

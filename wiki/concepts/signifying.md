@@ -7,9 +7,9 @@ disciplines: [anthropology, linguistic-anthropology]
 emic_or_etic: migrated
 operationalized_as: "identified in discourse analysis via listener recognition of indirection plus correct reinterpretation of an utterance's implicit content or function"
 contested: "no"
-related_concepts: ["marking", "[[speech-event]]", "verbal dueling"]
-sources_ingested: 1
-last_updated: 2026-07-10
+related_concepts: ["marking", "[[speech-event]]", "verbal dueling", "[[ritual-insult]]", "[[black-english-vernacular]]"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -37,3 +37,13 @@ Mitchell-Kernan operationalized signifying through analysis of naturalistic tape
 ## Critiques and Limitations
 
 Mitchell-Kernan explicitly positioned her chapter as filling a gap left by prior folklore-centered treatments of signifying (which focused narrowly on the verbal-dueling sense); her framework situates code choice as communicative strategy rather than mere grammatical variation, contrasting with contemporaneous dialectological approaches (Labov, Stewart, Wolfram) that treated African American speech primarily as a dialect-variation problem.
+
+## Labov 1972: Signifying / Sounding Relation (ch. 8)
+
+[[labov-william|William Labov]]’s chapter 8 of *[[labov-language-inner-city-1972|Language in the Inner City]]* (1972) treats the same broad field of African American competitive/ritual insult under Harlem’s dominant term **sounding**, with **signifying** listed among regional labels for the institution (alongside the dozens, woofing, joning, cutting/capping, etc.). Labov’s analytic object is the rule-governed [[speech-event|speech event]] of [[ritual-insult|ritual insult]]—not Mitchell-Kernan’s conversational indirection sense. associated_with: [[ritual-insult]] · concurrent_with: Mitchell-Kernan’s 1972 formulation (same publication year; different field site and sense of the term)
+
+**Terminology (Labov, attributed).** Kochman (Chicago) had proposed: sounding = initial exchanges; signifying = personal insults; dozens = insults on relatives. In New York as Labov reported it, *dozens* specialized more toward rhymed couplets and ritualized insults against relatives, while *sounding* covered those plus simpler insult forms. Labov stressed that superordinate metalinguistic labels vary and shift more than the verbal behavior itself—“people talk much more than they talk about talk”—so an expert sounder can still be “untrustworthy on ‘sounding’” as a term.
+
+**Signifying Monkey.** Labov linked the long epic toast “Signifying Monkey”: the Monkey “signifies” by telling the lion that the elephant had **sounded** on him, culminating in recognition that the antagonist was “playin' the dozens.” That chain maps relative-ordering in ritual insult and treats *signifying* as trouble-stirring report of a sound—closer to the verbal-dueling/folklore lineage than to Mitchell-Kernan’s encoding-by-indirection definition.
+
+**Relation of the two senses (wiki bookkeeping).** Mitchell-Kernan’s second sense (indirection in natural conversation; Oakland 1972 chapter) and Labov’s sounding/ritual-insult analysis (south-central Harlem 1965–68; formal structure T(B) is so X that P; ritual vs personal; audience evaluation) are **related but non-identical**: both migrate emic African American verbal practice into analytic categories; Labov’s chapter is the verbal-dueling/speech-event formalization Mitchell-Kernan noted as already treated by folklore (Abrahams, Kochman); her contribution remains the less-studied conversational-indirection sense and **marking**. Do not collapse “signifying” into a single definition—date and author the sense in use. Labov also used “Signifying Monkey” material elsewhere in the book as a BEV oral-literature counterexample in grammatical discussion; that is illustrative citation, not a redefinition of Mitchell-Kernan’s construct.

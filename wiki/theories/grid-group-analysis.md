@@ -15,8 +15,8 @@ core_claims:
 developed_from: ["[[purity-pollution-theory]]", "Bernstein speech codes and family control ([[bernstein-basil]])", "Durkheimian classification ([[primitive-classification]])", "Weber on legitimation of control"]
 competes_with: ["Universalist body-symbolism psychologies", "Anti-ritual progress narratives (spirit over letter as pure advance)", "Uncontrolled cross-cultural comparison of ritual without social variables"]
 status: active
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [theory, cultural-anthropology, sociology]
 ---
 
@@ -60,6 +60,8 @@ Douglas herself (Pelican acknowledgements; 1996 intro) noted complexity, early d
 ## Current Status
 
 Active as research program and teaching tool in anthropology, sociology of religion, and risk/cultural theory. Vocabulary (grid, group, hierarchy, enclave/sect, individualism) widely absorbed; full typology application remains contested and refined.
+
+*[[douglas-how-institutions-think-1986|How Institutions Think]]* (1986) supplied the program's cognitive foundations: Douglas there reads Lon Fuller's Speluncean Explorers judges as individualist, sectarian, and hierarchical styles "using their institutional commitments for thinking with" (mapping to the *Risk and Culture* typology), and grounds the whole apparatus in a Durkheim–[[fleck-ludwik|Fleck]] theory of institutionally conferred classification and [[collective-memory|memory]].
 
 ## Reflexivity
 

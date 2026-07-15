@@ -42,3 +42,7 @@ Against the repression-of-the-poor narrative, Foucault argues the deployment was
 
 - The strong constructionist claim (sexuality wholly produced) is contested (attributed) by biological and psychological accounts; Foucault insists he does not eliminate the body — his aim is "a 'history of bodies.'"
 - The "bodies and pleasures" prescription — "The rallying point for the counterattack against the deployment of sexuality ought not to be sex-desire, but bodies and pleasures" — has been read variously as liberatory and as politically thin (attributed).
+
+## Relation to the later volumes
+
+Where this concept analyzes sexuality as **produced from outside** by a modern apparatus, Foucault's *[[foucault-use-of-pleasure-1985|The Use of Pleasure]]* (Vol. II, 1984) turns to how subjects **constitute themselves** in relation to their pleasures — the [[aphrodisia]], their [[chresis|use]], and the [[arts-of-existence|arts of existence]]. The two are the outer and inner faces of one account of how "sexuality" was made; the "bodies and pleasures" hint here is developed there into an ethics of the use of pleasure set explicitly against a [[ethics-foucauldian|hermeneutics of desire]].

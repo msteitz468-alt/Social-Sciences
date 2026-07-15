@@ -7,15 +7,49 @@ disciplines: [anthropology, sociology]
 emic_or_etic: etic
 operationalized_as: "[[unknown]]"
 contested: yes
-related_concepts: [[[civilization]], [[ethnology]], [[social-evolutionism]]]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: [[[civilization]], [[ethnology]], [[social-evolutionism]], [[culture]], [[comparative-method]]]
+aliases: ["Presentism", "Historicism", "Enlightened presentism"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
 ## Definition as Coined
 
 Presentism and historicism name two opposed stances a historian of a discipline can take toward its past. Presentism judges and organizes past thought by the interests and categories of the present discipline — reading history backward from where the field ended up, treating earlier figures chiefly as "precursors" of later, validated positions. Historicism instead privileges the actors' own questions, categories, and context, reconstructing what a past thinker's ideas meant and did within their own historical moment, independent of later disciplinary outcomes. George W. Stocking, Jr. frames this distinction as his own explicit methodological self-consciousness in *Victorian Anthropology* (1987): understanding Victorian sociocultural evolutionism requires examining the early-nineteenth-century "dark age" usually skipped over by anthropologists seeking Enlightenment ancestors, and warns against a presentist historiography that reads directly from Enlightenment "precursors" to 1860s evolutionism while ignoring the intervening intellectual currents (attributed, Stocking): "While the Enlightenment has traditionally been a fertile source of ancestors for anthropologists seeking to anchor their own ideas more deeply in time, the early nineteenth century has been a kind of 'dark age,' barren of theoretical interest" (quoted in Stocking).
+
+## Origin: the 1965/1968 essay
+
+*(Attributed — [[stocking-george-w|Stocking]], "On the Limits of 'Presentism' and
+'Historicism' in the Historiography of the Behavioral Sciences," originally a 1965 editorial
+in the *Journal of the History of the Behavioral Sciences*, reprinted as essay 1 of
+*[[stocking-race-culture-evolution-1968|Race, Culture, and Evolution]]*, 1968 — the text in
+which Stocking first stated the distinction, three years before *Victorian Anthropology*.)*
+
+Stocking defines the pair as the opposition between studying "the past for the sake of the
+past" (historicism) and "the past for the sake of the present" (presentism). He identifies
+presentism with Herbert Butterfield's *whig interpretation of history* — writing that
+ratifies the present, abstracts phenomena from context, and judges them by present standards,
+so that "its characteristic interpretive mode is judgment rather than understanding." The
+underlying discipline he draws from Joseph Levenson (via Collingwood): intellectual history
+is "the history of men thinking rather than the history of thought," an idea is "a denial of
+alternatives and an answer to a question," and judging past ideas by a timeless "rationality"
+is "parochialism of the present" — the historian instead recovers their "reasonableness"
+relative to their own time's questions. Stocking argues the history of science had long been
+implicitly whiggish (Sarton) and that Kuhn's *Structure of Scientific Revolutions* marked a
+"historiographic revolution" toward studying science "in its own time," though Kuhn's own
+account is "imperfectly historicist." Because the behavioral sciences are largely
+"pre-paradigmatic" (Kuhn), their historiography is especially prone to presentist vices —
+crediting a "founder," sterile lineage-tracing, anachronism (his standing example: not
+crediting [[tylor-edward-burnett|Tylor]] or [[boas-franz|Boas]] with "inventing" the modern
+[[culture]] concept).
+
+Crucially, Stocking does **not** simply condemn presentism. He defends an **"enlightened
+presentism"** for scientists writing their own field's history: because they "are, and indeed
+must be, interested in thought as well as thinking" (a case he draws from Dell Hymes), some
+present-oriented interest is legitimate — but achieving it responsibly "requires an affective,
+historicist orientation": "by suspending judgment as to present utility, we make that judgment
+ultimately possible." The opposition is thus a polemical heuristic, not a rigid epistemology.
 
 ## Semantic History
 

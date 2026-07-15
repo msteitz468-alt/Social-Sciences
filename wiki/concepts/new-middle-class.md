@@ -7,9 +7,9 @@ disciplines: [sociology]
 emic_or_etic: etic
 operationalized_as: "the propertyless salaried strata — managers, salaried professionals, salespeople, office workers — measured as a residual occupational category distinct from both the propertied old middle class and manual wage-workers"
 contested: yes
-related_concepts: ["[[white-collar]]", "[[old-middle-class]]", "[[social-class-weberian]]", "[[status-panic]]", "[[managerial-demiurge]]", "[[occupational-group]]", "[[decomposition-of-labor]]", "[[decomposition-of-capital]]", "[[conflict-theory]]", "[[bureaucracy]]"]
-sources_ingested: 2
-last_updated: 2026-07-08
+related_concepts: ["[[white-collar]]", "[[old-middle-class]]", "[[social-class-weberian]]", "[[status-panic]]", "[[managerial-demiurge]]", "[[occupational-group]]", "[[decomposition-of-labor]]", "[[decomposition-of-capital]]", "[[conflict-theory]]", "[[bureaucracy]]", "[[contradictory-class-locations]]", "[[petty-bourgeoisie]]"]
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -69,6 +69,10 @@ but non-bureaucratic, nearer the subjected side). The stratum extends older clas
 than forming a third camp; class remains questionable as a label for these post-capitalist
 aggregates. This is a structural answer to the [[new-middle-class-politics-debate]] parallel
 to, but distinct from, Mills's property-class / status-split analysis.
+
+## Applications — Wright *Class Counts* (1997)
+
+[[wright-erik-olin|Erik Olin Wright]] (*[[wright-class-counts-1997|Class Counts]]*) reconstructs the employee middle strata not as a free-floating third class but as **[[contradictory-class-locations]]** along authority and skill within exploitation relations — managers/supervisors and experts as privileged appropriation locations among employees. Distinct from Mills's residual salariat: Wright keeps them *inside* a Marxist class map. Empirically (project surveys), extended expert-manager shares and authority density vary by country (Sweden denser hierarchies); US structural change 1960–90 expanded contradictory locations among wage-earners. See [[wright-class-counts-study]].
 
 ## Critiques and Limitations
 

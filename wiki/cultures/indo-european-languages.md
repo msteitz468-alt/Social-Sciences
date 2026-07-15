@@ -15,7 +15,7 @@ preceded_by: ["[[unknown]]"]
 succeeded_by: ["[[unknown]]"]
 language_affiliation: "The family itself; homeland and dispersal mechanism disputed — see [[steppe-hypothesis-debate]]. Anthony (2007) places reconstructable PIE in the Pontic-Caspian steppes ~4500–2500 BCE (late stage with [[yamnaya-culture]] ~3300–2500); Reich (2018) supports steppe-linked dispersal demography without equating DNA to language."
 genetic_signature: "Genetic data cannot establish what language a population spoke; migration/mixture events documented by ancient DNA (steppe expansion after ~5,000 years ago) are used by [[reich-david|Reich]] and David Anthony as circumstantial support for a steppe-linked dispersal mechanism, not as direct evidence of language (as of Reich 2018)."
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-07-10
 tags: [culture, language-family, steppe, europe, south-asia]
 ---
@@ -123,3 +123,49 @@ Primary Renfrew (1987), Anthony (2007), Reich (2018), and Cavalli-Sforza (2000) 
 2. **Renfrew farming / Anatolian** — IE spread with Neolithic farmers; demic agriculture as language vehicle; chronology ~9,500–10,000 ya vs linguistic estimates nearer ~6,000 ya / Gimbutas 5–5.5 kya tension noted.
 
 Cavalli-Sforza (with Piazza) proposes a **dual-wave reconciliation**: primary Anatolian/farming layer and secondary Kurgan/proto-IE pastoral layer — languages developing on the steppe from an earlier farmer-related stock then spreading with pastoralists. He also discusses quantitative IE trees from Dyen–Kruskal–Black lexicostatistical data and critiques late-branching Celtic results from Warnow et al. **Four-way non-identity:** all homeland models are linguistic-archaeological-genetic *associations*, not equations of pots, genes, and speakers. See [[steppe-hypothesis-debate]], [[demic-diffusion]], [[renfrew-colin]], [[cavalli-sforza-genes-peoples-languages-2000]].
+
+## Bellwood 2005 — Anatolian lean and South Asia continuity (positions)
+
+*(Attributed — [[bellwood-peter|Bellwood]], *[[bellwood-first-farmers-2005|First Farmers]]* ch. 4, 10–12; all claims below are **positions** in the farming–language program as of 2005, not wiki-voice facts. Genetics and computational phylogenies date-stamped **as of Bellwood 2005**. Does not overwrite Anthony 2007 / Reich 2018 layers above.)*
+
+Bellwood is an architect of the worldwide [[early-farming-dispersal-hypothesis]] and **leans Anatolian Neolithic for PIE** with Renfrew and with Gray & Atkinson’s computational results — while recording steppe/Kurgan positions and attacking what he sees as their assumptions. Homeland and South Asia scenarios are filed as **positions**, never as settled history.
+
+### Tree shape and homeland logic (position)
+
+No well-stratified IE tree with consecutive bifurcations and a clear root (Anatolian a possible exception); major subgroups are largely rake-like from a widespread basal forebear; later Romance, Slavic, Germanic, Indo-Iranian add “bushes” on the tines — so tree shape does not spring forth an obvious homeland (Bellwood 2005). Increasing agreement that ancestral Greek, Tocharian, Italic, Celtic began first (or Anatolian stayed home) — centum segment including Germanic (Ringe et al.; Drews ed.; Gray & Atkinson as of Bellwood). Renfrew 1998–99: Minoan, Etruscan possibly early IE/Indo-Hittite witnesses. Drews 2001: unique features of ancient Anatolian languages make Turkey a possible homeland — example of strong-tree homeland logic amid otherwise rake-like IE subgroups. IE would not be identifiable if spread from homeland took >~10,000 years. Biology–language discordance (western Europeans vs South Asians who speak IE languages) requires language shift and contact as secondary ingredients without denying demic family expansion (Bellwood 2005).
+
+### Anatolian farming dispersal lean (position)
+
+Bellwood’s comparative matrix (ch. 10): **Anatolia + Neolithic initial dispersal** preferred; steppe assumptions “under attack.” Supporting materials he cites **as of 2005**:
+
+- Renfrew 1987 / still 2003: PIE from Anatolia with first Neolithic farmers; south-central Anatolia when farmers first spread into Greece ~7000–6500 BC; overall IE archaeological spread ~7000 BC (Greece) to ~4000 BC (Britain); little creolization in the linguistic record.
+- Gray & Atkinson 2003 computational phylogeny of IE vocabularies → date for PIE ~7000 BC; initial divergence Anatolian, then Tocharian, Greek/Armenian; other subgroups later, more rake-like — strong support (as of Bellwood 2005) for Anatolian homeland + Neolithic initial dispersal.
+- Forster & Toth 2003: phylogenetic network methods → PIE time depth 8100±1900 BC (as of Bellwood 2005).
+- Increasing linguists regard Anatolian as a single branch coordinate with all other IE → Anatolian relevant to homeland.
+- Bellwood: Anatolia “coming into focus as the most likely homeland region for PIE” per sound but not absolute modern linguistic consensus; reconstructed PIE vocabulary does not rule out Anatolia and supports it to a degree (e.g. term for “mountain” rules out flat Pontic steppes per Gamkrelidze & Ivanov); SW Asian domesticates + possibly wild horses, grain term, plough, weaving/wool → possibility PIE was an early farming society, not hunter-gatherer. Caveat: if Anatolian truly basal, only items with Anatolian witnesses are secure PIE vocabulary. Most linguists recently opt for PIE dates between 3500 and 7000 BC; computational dates strengthen the Neolithic Anatolian package (as of Bellwood 2005).
+- Gamkrelidze & Ivanov 1995: eastern Anatolian homeland still accepting wheeled vehicles and non-specific metal as reliable PIE reconstructions → Chalcolithic/Bronze Age dispersal; favor Halafian (~5500–5000 BC) — Bellwood finds archaeological support unconvincing.
+- Neolithic Europe ~7000–4000 BC; IE spread south of the Baltic not associated with massive contact-induced change like some Austronesian in Melanesia → suggests coherent population expansion (Bellwood summarizing Renfrew).
+
+### Steppe / Kurgan assumptions under attack (position vs position)
+
+Bellwood lists assumptions undergirding the Pontic steppes theory and says all four are “under attack”: (1) early wheeled-vehicle terms + carts archaeologically ~3000 BC on the steppes; (2) reconstructed PIE society implies patrilineality/pastoralism; (3) glottochronology intuition IE ≤5–6k years; (4) Anatolian languages non-native to Anatolia → irrelevant to homeland. Childe 1926 / Gimbutas: Kurgan pastoralists 4500–2500 BC in up to four waves; patriarchal horse-riders as elite imposing IE on matriarchal non-IE Neolithic “goddess” societies. Anthony 1991–2000 (as Bellwood cites pre-2007): horse riding north of Black Sea as early as ~3500 BC; PIE with horses, wheeled vehicles, full agropastoral economy from steppes entering Europe ~3000 BC. Bellwood: all such reconstructions require elite dominance of PIE over larger Neolithic populations — “more in guesswork than sociolinguistic reality.” Mallory 1997 (staunch Pontic supporter) no longer convinced domesticated horses and wheeled vehicles **must** be reconstructed to PIE. Levine et al. 1999: horse riding only late 2nd millennium BC → irrelevant for PIE dispersal (as of Bellwood 2005). Reconstructed PIE not exclusively pastoralist; steppe archaeology of the relevant period not entirely pastoralist either. Via Renfrew 1987: fundamental “nail in the coffin” of the Pontic hypothesis — kurgan-based late Neo/BA conquering pastoralists across most of Europe left **no** corresponding continent-wide archaeological horizon. **Note:** Anthony 2007 and Reich 2018 layers above answer many of these 2005-era attacks with wagon-vocabulary termini and aDNA; keep both eras as positions, do not silently adjudicate.
+
+### South Asia continuity scenario (position — five points)
+
+Bellwood argues Indo-Aryan distribution corresponds remarkably with Chalcolithic NW Deccan + Ganges-Yamuna copper/painted pottery cultures (Ahar, Malwa, Jorwe; OCP, Black and Red Ware; Mature/post-Harappan); Ganges cultural continuity ~3000 BC into historical times → an **IA agricultural continuity hypothesis should be taken seriously** (contra pure late Andronovo invasion). His five-point scenario (all **positions**):
+
+1. Neolithic Iran–Baluchistan 7000 BC+ Elamo-Dravidian continuum Khuzestan–Indus; early Indo-Iranian into Iran from steppes Neolithic (when uncertain).
+2. Harappan polyglot — script relative of Elamite (hunch); common people ancestral IA + Elamo-Dravidian.
+3. Early Harappan ~3500 BC farming into Gujarat/Rajasthan, Ganges by 3000 BC; mutualistic IA village agriculturalists vs Dravidian herders on Indus borderlands?
+4. After 3000 BC linked farming/herding south — IA farmers limited to Maharashtra north (winter cereals), Dravidian pastoralists into Deccan/Karnataka millet + cattle.
+5. No Dravidians in the Ganges; OCP Chalcolithic farmers = IA until meeting ancestral Mundas.
+
+Supporting notes he cites: Masica 1979 — modern Hindi ~30% agricultural terms neither IA, Dravidian, nor Munda (“language X”; Fairservis & Southworth 1989); Gangetic location counter-indicates Dravidian substratum. Gujarati and Marathi carry Dravidian loans → former Dravidian presence NW India not in question. Munda (Austroasiatic) introduced rice to NE India ~3000 BC (Zide & Zide; Southworth; Higham); Kuiper 1948 Dravidian–Munda contact prior to IA in E India → Dravidian Deccan settlement fairly rapid after ~3000 BC; three families spread into the subcontinent roughly the same time — “considerable historical coincidence.” Rigveda middle/late 2nd millennium BC oral (written late 1st millennium); Mature Indus ended ~1900 BC before Rigveda events; modern scholars (Erdosy, Witzel) see already-IA Punjab — cannot blame Indra’s followers for Mature Harappan decline. Majority linguistic opinion (as of Bellwood) places Indo-Iranian separation relatively late with movement to Iran/India ~2000 BC and Andronovo as likely source; Bellwood’s caveat: that picture depends partly on early Indo-Aryans as pastoralists — no clear archaeological justification in South Asia, Rigveda, or the IE family tree. Renfrew’s tentative Indo-Iranian from Mehrgarh Neolithic: Bellwood says linguistic position of IA within IE does not support antiquity as far as 6000 BC. OCP→BRW→PGW Ganges sequence continuity vs disruption “lies at the crux of the debate about early Indo-European settlement in the subcontinent.”
+
+### Europe demic strength (as of Bellwood 2005 genetics debate)
+
+Bellwood leans with Chikhi and Barbujani that the strength of the Neolithic advance was **considerable**; Mesolithic populations contributed genes clinally but “did not contribute very much to the resulting patterns of archaeology and language in Europe,” except temporary isolation. Disagreements between cultural-diffusion and demic schools are about **strength** of wave of advance, not existence. Full demic-vs-cultural genetics inventory (Richards mtDNA vs Chikhi Y, etc.) belongs on [[farming-spread-europe-debate]] / [[demic-diffusion]] — **as of Bellwood 2005**, not post-2015 aDNA.
+
+### Identity caution
+
+IE remains a language family only. Bellwood’s Anatolian lean and South Asia continuity scenario are **positions** competing with steppe/Anthony and genetic layers already on this page. Do not promote either to wiki voice; do not equate Yamnaya, LBK, OCP, or any genetic cline with “the Indo-Europeans.” See [[steppe-hypothesis-debate]], [[anatolian-hypothesis]], [[early-farming-dispersal-hypothesis]], [[bellwood-first-farmers-2005]].

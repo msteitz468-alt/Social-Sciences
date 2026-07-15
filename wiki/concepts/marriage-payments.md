@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Major prestation(s) from husband/his kin to wife’s kin (with possible counter-payments) that legally establish marriage, transfer rights, and often affiliate children; typically returnable or adjusted on divorce"
 contested: yes
 related_concepts: ["[[marriage]]", "[[levirate]]", "[[family]]", "[[mother-right-and-father-right]]", "[[unilineal-descent]]", "[[cross-cousin-marriage]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -58,7 +58,7 @@ ASKAM cases (attributed findings/reports):
 - **Ashanti (Fortes):** *tiri nsa*/*tiri sika* as legalization within matrilineage authority structure; not cattle bridewealth.
 - **Yakö (Forde):** marriage money; repayment on divorce; interaction with claims of physiological paternity vs marriage-derived social fatherhood.
 - **Nuba (Nadel):** bride-price usually paid by father; optional help from mother’s brother; modified levirate recommendations.
-- **Nuer (Evans-Pritchard chapter):** bridewealth builds local clusters; ghost-wife and levirate linked to cattle and pater rules (see [[levirate]]).
+- **Nuer (Evans-Pritchard chapter / 1951 monograph):** bridewealth builds local clusters; ghost-wife and levirate linked to cattle and pater rules (see [[levirate]], [[ghost-marriage]]). Primary densification: *[[evans-pritchard-kinship-marriage-nuer-1951|Kinship and Marriage among the Nuer]]* — ideal historically ~**40** cattle, usual ~**20–30**, floor ~**16**; “children of the cattle”; pater = name in which cattle paid ([[evans-pritchard-kinship-marriage-nuer-study]]).
 - **Tswana *bogadi*, Swazi *ukulobola*, Nyakyusa cattle payments** (Schapera, Kuper, Wilson chapters as used in Intro and volume).
 
 R-B’s summary functions of African marriage payment: legal instrument; sometimes indemnity; sometimes alliance gift-exchange; in South Africa and Nilotic region, derivation of cattle may fix children’s social position; successive use of same cattle links families; sacred cattle link living to ancestors so payments carry special significance.
@@ -77,3 +77,12 @@ R-B’s summary functions of African marriage payment: legal instrument; sometim
 - Institutions: [[marriage]] · [[family]]
 - Concepts: [[mother-right-and-father-right]] · [[levirate]] · [[unilineal-descent]] · [[cross-cousin-marriage]]
 - Thinkers: [[radcliffe-brown-a-r]] · [[gluckman-max]] · [[fortes-meyer]] · [[forde-daryll]]
+
+## From Leach, *Rethinking Anthropology* (1961)
+
+*(Attributed — Leach.)*
+
+- **Ch. 3 rank propositions.** Direction and content of payments index relative status of wife-giving and wife-receiving [[local-descent-group|local descent groups]]: costly **consumer-goods brideprice** associates with senior givers; **dowry** with junior givers; symbolic-only transfers leave hierarchy freer. Kachin *hpaga*-type wealth objects sit in this comparative frame with Batak and (contrast) Lovedu.
+- **Ch. 5 Kachin–Lakher contrast.** Ordinary Jinghpaw: expensive but less elaborate bridewealth; marriage near-indissoluble after religious rite; children absolutely of husband’s lineage. [[lakher|Lakher]]: very expensive and complicated (*angkia* main payment; *puma* to wife’s MB’s lineage; *lokheu* further transfer); divorce easy/frequent; widows freer — **hire of procreative powers** vs Jinghpaw absolute person-transfer. Same descent form; different payment/stability regime. Challenges Gluckman-style scales that read divorce rates as simple “Father Right” strength.
+
+Source: [[leach-rethinking-anthropology-1961]]; [[mayu-dama]]; [[affinity]].

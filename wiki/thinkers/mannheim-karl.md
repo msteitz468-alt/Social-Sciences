@@ -41,7 +41,7 @@ All claims below are from *Ideology and Utopia* as attributed to Mannheim (or Wi
 ## Intellectual Genealogy
 
 - **Antecedents he mobilizes:** Marxian ideology and practice criteria (credited and limited); historicist *Standortsgebundenheit* / Dilthey line; Nietzschean “art of mistrust”; philosophy of consciousness and *Volksgeist* as steps toward total ideology; Max Weber on pedagogical institutions and ethics of responsibility; Alfred Weber’s terminology for the unattached intelligentsia.
-- **Rivals and near-rivals in his history of SoK:** Max Scheler (names *Wissenssoziologie*; metaphysical integration Mannheim finds unworkable as method); Georg Lukács (Hegelian-Marxist schematic solution; fails, on Mannheim’s reading, to separate unmasking ideology from SoK).
+- **Rivals and near-rivals in his history of SoK:** Max Scheler (names *Wissenssoziologie*; metaphysical integration Mannheim finds unworkable as method); [[lukacs-georg|Georg Lukács]] (*[[lukacs-history-and-class-consciousness-1923|History and Class Consciousness]]* — Hegelian-Marxist schematic solution; fails, on Mannheim’s reading, to separate unmasking ideology from SoK).
 - **Transmission:** English reception via Wirth/Shils 1936 composite; later redefinition against the classical program by Berger & Luckmann ([[social-construction-of-reality]], 1966) — everyday knowledge and social construction of reality rather than ideology/intellectual history as exclusive object.
 - **Students / trained:** not established from this source alone (`[[unknown]]` pending other sources).
 

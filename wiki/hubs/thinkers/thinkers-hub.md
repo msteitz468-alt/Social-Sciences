@@ -40,6 +40,17 @@ Single source of truth (create on first hub ingest, then lock):
 ---
 
 ## Completed
+- [[hubs/thinkers/labov-william|William Labov]] — variationist founder; Harlem BEV; variable rules; Observer's Paradox; deficit-difference intervention (2026-07-15)
+
+### Antonio Gramsci (1891–1937)
+- Summary: [[gramsci-antonio]]
+- Hub: [[hubs/thinkers/gramsci-antonio]]
+- Western Marxism / hegemony charter; *Selections from the Prison Notebooks* (1971 Eng.); organic intellectuals, passive revolution, war of position, philosophy of praxis
+
+### Marija Gimbutas (1921–1994)
+- Summary: [[gimbutas-marija]]
+- Hub: [[hubs/thinkers/gimbutas-marija]]
+- Kurgan hypothesis / Old Europe / Goddess civilization package; *The Civilization of the Goddess* (1991); FLAG synthesis — theses attributed
 
 ### Luigi Luca Cavalli-Sforza (1922–2018)
 - Summary: [[cavalli-sforza-luigi-luca]]
@@ -75,12 +86,14 @@ Single source of truth (create on first hub ingest, then lock):
 
 | Thinker | Hub page | Summary | Status |
 |---|---|---|---|
+| Antonio Gramsci | [[hubs/thinkers/gramsci-antonio]] | [[gramsci-antonio]] | Complete — *Selections from the Prison Notebooks* (1971); hegemony, organic intellectuals, passive revolution, war of position |
 | Roy A. Rappaport | [[hubs/thinkers/rappaport-roy-a]] | [[rappaport-roy-a]] | Complete — *Pigs for the Ancestors* (1968/1984); ritual regulation; cognized/operational models (*Pigs*-centered hub) |
 | Max Weber | [[hubs/thinkers/weber-max]] | [[weber-max]] | Complete — **hub exemplar** |
 | Georg Simmel | [[hubs/thinkers/simmel-georg]] | [[simmel-georg]] | Complete |
 | Theodor W. Adorno | [[hubs/thinkers/adorno-theodor-w]] | [[adorno-theodor-w]] | Complete — *Dialectic of Enlightenment*; culture industry; negative dialectics |
 | Harold Garfinkel | [[hubs/thinkers/garfinkel-harold]] | [[garfinkel-harold]] | Complete — *Studies in Ethnomethodology* (1967); accountability, indexicality, breaching; the Agnes case |
 | Karl Mannheim | [[hubs/thinkers/mannheim-karl]] | [[mannheim-karl]] | Complete — *Ideology and Utopia* (1929/1936); classical sociology of knowledge |
+| Michael Mann | [[hubs/thinkers/mann-michael]] | [[mann-michael]] | Complete — *Sources of Social Power* Vol. I (1986); IEMP; agrarian power to 1760; Vols. II–IV outstanding |
 | Robert K. Merton | [[hubs/thinkers/merton-robert-k]] | [[merton-robert-k]] | Complete — *Social Theory and Social Structure* (1968); middle-range theory; functional codification; anomie; science ethos |
 | Erving Goffman | [[hubs/thinkers/goffman-erving]] | [[goffman-erving]] | Complete — mid-career trilogy (*Presentation of Self*, *Asylums*, *Stigma*); dramaturgy, total institution, stigma |
 | Pierre Bourdieu | [[hubs/thinkers/bourdieu-pierre]] | [[bourdieu-pierre]] | Complete — *The Logic of Practice* (1980/1990); practice theory; Kabyle/Béarn fieldwork; habitus, capital, field |
@@ -121,3 +134,6 @@ Single source of truth (create on first hub ingest, then lock):
 - [[hubs/thinkers/turner-victor|Victor Turner]] — *The Forest of Symbols* (1967) & *The Ritual Process* (1969); Ndembu ritual; dominant symbol, liminality, communitas, social drama; Manchester School → symbolic anthropology (2026-07-09)
 
 - [[hubs/thinkers/sahlins-marshall|Marshall Sahlins]] — *Stone Age Economics* (1972) + *Culture and Practical Reason* (1976) + *Islands of History* (1985); substantivism, practical/cultural reason, structure of the conjuncture, stranger-king; the Cook controversy (2026-07-09)
+
+
+- [[hubs/thinkers/taussig-michael|Michael T. Taussig]] (hub added 2026-07-15 with second monograph)

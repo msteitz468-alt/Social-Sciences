@@ -9,8 +9,8 @@ operationalized_as: "not quantified; identified as the imitative, assimilative, 
 contested: yes
 related_concepts: ["[[instrumental-reason]]", "[[dialectic-of-enlightenment]]", "[[domination-of-nature]]", "[[false-projection]]", "[[reification]]"]
 aliases: [mimetic-impulse, mimesis-unto-death]
-sources_ingested: 1
-last_updated: 2026-07-08
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -88,3 +88,7 @@ weight the argument places on it. Its romantic overtones (a lost, benign relatio
 to nature) sit awkwardly with the authors' refusal of any simple return to nature.
 Defenders read it as a deliberately non-conceptual placeholder for what conceptual
 domination excludes.
+
+## From Taussig *Shamanism* (1987 ingest)
+
+[[taussig-michael|Taussig]] (1987) specifies colonial **mimesis** as the mirror between savagery attributed to Indians and savagery perpetrated by rubber-company colonists on the Putumayo — the "colonial mirror of production" ([[taussig-shamanism-colonialism-study]]; [[putumayo-rubber-terror]]; [[wild-man]]). Distinct from Adorno/Horkheimer’s mimesis-unto-death but adjacent: imitation under domination, here racialized and extractive. Later *Mimesis and Alterity* (1993) not yet ingested.

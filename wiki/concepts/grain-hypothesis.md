@@ -1,15 +1,15 @@
 ---
 title: Grain Hypothesis
 concept_type: analytical
-coined_by: ["[[scott-james-c|James C. Scott]] (2017 formulation; related tax/appropriation arguments older; Joe Manning anticipated part)"]
-date_coined: "2017 (*Against the Grain*) as explicit package"
+coined_by: ["[[scott-james-c|James C. Scott]] (2017 formulation; SE Asian padi/manpower arguments in *Art of Not Being Governed* 2009; related tax/appropriation arguments older; Joe Manning anticipated part)"]
+date_coined: "2017 (*Against the Grain*) as explicit comparative package; 2009 padi-state concentration is the SE Asian precursor"
 disciplines: [political-anthropology, archaeology, political-science]
 emic_or_etic: etic
 operationalized_as: "Claim that early agrarian states rest on cereal grains (wheat, barley, millets, rice, maize) because only grains suit concentrated production, assessment, appropriation, cadastral survey, storage, and rationing — unlike tubers/roots that remain underground and hard to tax"
 contested: yes
-related_concepts: ["[[domus-complex]]", "[[nonstate-spaces]]", "[[wealth-appropriation]]", "[[social-surplus]]", "[[state-formation]]", "[[the-state]]", "[[legibility]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+related_concepts: ["[[domus-complex]]", "[[nonstate-spaces]]", "[[wealth-appropriation]]", "[[social-surplus]]", "[[state-formation]]", "[[the-state]]", "[[legibility]]", "[[escape-agriculture]]", "[[swidden]]", "[[zomia]]"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept, political-anthropology, archaeology]
 ---
 
@@ -24,8 +24,9 @@ Scott’s key nexus: **only cereal grains serve as a full basis for taxation** �
 ## Semantic History
 
 - **Pre-2017 lineage:** Surplus and tax theories of state formation are older ([[wealth-appropriation]], [[social-surplus]], Childean and Weberian lineages). Scott credits Joe Manning with anticipating a good part of the cereal–state argument and with allowing the title *Against the Grain*.
-- **Scott 2017 package:** The hypothesis becomes an explicit comparative claim about *crop morphology* as fiscal constraint — extending [[legibility]] from modern high modernism into archaic agro-ecology. It is one leg of Scott’s interlocking triad: **grains make states / walls make states / writing makes states**.
-- **Not identical to “agriculture causes the state.”** Scott insists the Neolithic grain-and-manpower module is necessary but not sufficient: sedentary irrigated alluvial farming without a state was common; there was (he claims) no early state that did not rest on an alluvial grain-farming population. Weberian “elective affinity,” not automatic causation.
+- **Scott 2009 SE Asian precursor (*[[scott-art-of-not-being-governed-2009|Art of Not Being Governed]]*):** Before the deep-time comparative package, Scott’s mainland SE Asia synthesis already treats **irrigated wet rice (*padi*) + concentrated manpower** as the core of classical state space: wet-rice as ultimate state-space crop (legible, appropriable, storable; dense population within a few days’ march of the court); state space as **space of appropriation**; elective affinity (not determinism) between sawah cores and states; oxcart/friction-of-terrain limits; nonpadi and [[swidden]] landscapes as fiscally sterile or anathema to state-makers. Manpower concentration via captives/slavery and the hill–valley dialectic ([[zomia]], [[escape-agriculture]]) sit alongside crop morphology. The 2009 book does not yet brand this the “grain hypothesis,” but the fiscal logic of aboveground simultaneous-ripening grain vs roots/tubers and polycultural swidden is continuous with 2017. See [[southeast-asian-state-formation]], [[state-formation]], [[scott-art-of-not-being-governed-study]].
+- **Scott 2017 package:** The hypothesis becomes an explicit comparative claim about *crop morphology* as fiscal constraint — extending [[legibility]] from modern high modernism into archaic agro-ecology (Mesopotamian alluvium focus, world cereal set). It is one leg of Scott’s interlocking triad: **grains make states / walls make states / writing makes states**. Read 2009 and 2017 as career continuity: SE Asian padi/manpower concentration → archaic grain-state comparative.
+- **Not identical to “agriculture causes the state.”** Scott insists the Neolithic grain-and-manpower module is necessary but not sufficient: sedentary irrigated alluvial farming without a state was common; there was (he claims) no early state that did not rest on an alluvial grain-farming population. Weberian “elective affinity,” not automatic causation — the same phrase he uses for SE Asian wet-rice cores in 2009.
 
 ## Operationalizations
 
@@ -48,6 +49,7 @@ Scott’s practical criteria for “premier political crops” (wheat, barley, r
 - **[[state-formation]] / pristine states:** Mesopotamia, Egypt, Indus, Yellow River as grain states (wheat/barley; millet on the Yellow River loess). “No alluvium, no state” as Scott’s agro-geographic slogan; almost “no water transport, no state.”
 - **[[legibility]]:** Cereals as the archaic substrate of fiscal seeing — lists of barley, manpower, and taxes on earliest Uruk tablets; standardized weights, measures, and ration bowls.
 - **[[nonstate-spaces]]:** Where grain and agrarian taxes stop, state power degrades; pastoralism, foraging, swidden, and tuber horticulture coded “barbarian” / fiscally sterile.
+- **Mainland SE Asia / [[zomia]] (Scott 2009):** Classical padi states as manpower–grain concentration machines; hills as refuge practicing [[escape-agriculture]]; continuity of the “premier political crop” logic before the 2017 deep-time label.
 - **[[domus-complex]]:** The late-Neolithic multi-species resettlement camp supplies the grain-and-manpower module the embryonic state later parasitizes; public ritual and biblical metaphor colonized by grain/livestock imagery once cereals are staple.
 - **Political landscaping:** Once established, states amplify agro-ecology — canals, captives on arable land, penalizing noncultivators, forbidding swidden/foraging, preventing flight — elective affinity for grain-rich measurable landscapes.
 

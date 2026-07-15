@@ -50,7 +50,7 @@ Ch. 11 later restates misapprehensions they reject: process ≠ outcome; not But
 
 ## Position B1 — Patricia Hill Collins
 
-Collins argues race/class/gender studies emerged with social movements against racism, patriarchy, and class exploitation and needs models linking interlocking structures and intersectionality. In her strongest form: "Doing Difference" **erases** race/class/gender as systems of power, decontextualizes inclusivity language, retains an additive gender-first structure, and offers **difference without power** — a postmodern depoliticization whose outcome is "a difference that didn't make any difference."
+[[collins-patricia-hill|Collins]] argues race/class/gender studies emerged with social movements against racism, patriarchy, and class exploitation and needs models linking interlocking structures and [[intersectionality]] (see [[black-feminist-thought]] and the [[matrix-of-domination]]). In her strongest form: "Doing Difference" **erases** race/class/gender as systems of power, decontextualizes inclusivity language, retains an additive gender-first structure, and offers **difference without power** — a postmodern depoliticization whose outcome is "a difference that didn't make any difference."
 
 ## Position B2 — Lionel A. Maldonado
 

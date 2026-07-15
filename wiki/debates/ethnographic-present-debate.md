@@ -3,10 +3,10 @@ title: "The Ethnographic Present: Convention or Denial of Coevalness?"
 dispute_type: methodological
 disciplines: [anthropology]
 era: "critical-turn to contemporary"
-positions: ["The ethnographic present is a legitimate convention expressing structural regularity", "The ethnographic present is an allochronic device that freezes peoples out of shared time and should be abandoned"]
-key_texts: ["[[fabian-time-and-the-other-1983|Fabian, Time and the Other (1983)]]", "Vansina (1970) — the 'zero-time fiction'", "Benveniste, Problems in General Linguistics (1956/1971)", "Weinrich, Tempus (1964/1973)"]
+positions: ["The ethnographic present is a legitimate convention expressing structural regularity", "The ethnographic present is an allochronic device that freezes peoples out of shared time and should be abandoned", "Tense is a situated political instrument — both present and past can allochronize; choose strategically (Tsing)"]
+key_texts: ["[[fabian-time-and-the-other-1983|Fabian, Time and the Other (1983; reprint apparatus 2002/2006)]]", "Vansina (1970) — the 'zero-time fiction'", "Benveniste, Problems in General Linguistics (1956/1971)", "Weinrich, Tempus (1964/1973)", "Tsing, In the Realm of the Diamond Queen (1993)"]
 resolution_status: partially-resolved
-last_updated: 2026-07-09
+last_updated: 2026-07-15
 tags: [debate]
 ---
 
@@ -22,10 +22,14 @@ On this view the present tense is a **stylistic default** with defensible uses: 
 
 [[fabian-johannes|Johannes Fabian]], in *[[fabian-time-and-the-other-1983|Time and the Other]]* (1983), argued (attributed) that the ethnographic present is the flagship textual instance of [[allochronism]] and the [[coevalness|denial of coevalness]]. Drawing on Émile Benveniste and Harald Weinrich, he held that tense signals a "locutionary attitude," not real Time: present tense marks *discourse/commentary* (an "I" addressing a "you"), yet ethnography fuses it with the grammatical **third person**, Benveniste's "non-person" outside the I–you dialogue. The result "removes" the Other "from the dialogic situation" — "another way to describe denial of coevalness." The present tense, Fabian added, is also "an observer's language," tying the convention to [[visualism]]. Jan Vansina had already called the device a "zero-time fiction." Fabian's remedy is not merely grammatical: "more ethnography of Time will not change the situation" — the fix is a reflexive, dialogical practice, not a tense swap.
 
+## Position 3 — Strategic, situated use of both tenses (Tsing)
+
+Anna Lowenhaupt Tsing, in *In the Realm of the Diamond Queen* (1993; quoted at length by Bunzl in the *Time and the Other* reprint foreword), accepts Fabian's critique that the ethnographic present can remove subjects from "civilized history," yet argues the past tense about an "out-of-the-way place" often signals that people "are history" rather than that they "have" history. Her resolution is deliberate inconsistency: historical past for gender expectations in the early 1980s (against timeless gender systems); present tense for interlocutor Uma Adang's social movement (to keep open possibilities she cannot confirm in the 1990s). This is not a defense of the old default convention, nor a pure Fabian ban; it treats tense as a **political-epistemological instrument** under permanent dilemma. See [[ethnographic-present]].
+
 ## Shared factual ground, framed per side
 
-Both sides agree the convention exists, is old (Herodotus wrote of "strange peoples" in the present tense), and is not, by tense alone, a reliable index of intent — Fabian himself noted that scientifically-minded ethnographers sometimes write in the past and humanists in the present. They disagree on what the convention *does*: Position 1 reads it as expressing regularity that a writer can qualify as needed; Position 2 reads it as encoding, at the level of grammar, a political relation of distance.
+Both Position 1 and Position 2 agree the convention exists, is old (Herodotus wrote of "strange peoples" in the present tense), and is not, by tense alone, a reliable index of intent — Fabian himself noted that scientifically-minded ethnographers sometimes write in the past and humanists in the present. They disagree on what the convention *does*: Position 1 reads it as expressing regularity that a writer can qualify as needed; Position 2 reads it as encoding, at the level of grammar, a political relation of distance. Position 3 shares Position 2's political diagnosis but rejects a single grammatical fix.
 
 ## Resolution status
 
-**Partially resolved in practice.** After the 1980s critique — Fabian's book together with the broader crisis of representation and *Writing Culture* moment — anthropological writing shifted markedly toward the past tense, an explicitly dated "fieldwork present," and reflexive framing that anchors observations to a specific historical moment (a norm this wiki encodes in its society-page conventions). The convention survives but now must be justified rather than assumed. Whether the deeper problem Fabian named — the denial of coevalness — is thereby addressed or merely relocated remains contested. See also [[coevalness]], [[allochronism]], [[visualism]].
+**Partially resolved in practice.** After the 1980s critique — Fabian's book together with the broader crisis of representation and *Writing Culture* moment — anthropological writing shifted markedly toward the past tense, an explicitly dated "fieldwork present," and reflexive framing that anchors observations to a specific historical moment (a norm this wiki encodes in its society-page conventions). Bunzl's reception claim (attributed) is stronger: that unreflected ethnographic present became professionally marked, and temporal depiction of the Other became a constitutive criterion of critical ethnography. The convention survives but now must be justified rather than assumed. Whether the deeper problem Fabian named — the denial of [[coevalness]] — is thereby addressed or merely relocated remains contested; Tsing's dilemma shows that past-tense reform alone is not a solution. See also [[allochronism]], [[visualism]].

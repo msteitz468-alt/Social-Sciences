@@ -7,7 +7,7 @@ date_introduced: "1901 (Petrie, Diospolis Parva)"
 supersedes: ["[[unknown]]"]
 epistemic_leverage: "Builds a relative chronology from undated assemblages alone, by ordering them so that artifact types rise and fall gradually — recovers time-order without stratigraphy or absolute dates."
 key_limitations: "Yields relative order only, not calendar dates; assumes gradual, unidirectional stylistic change and continuous deposition; vulnerable to conflating stylistic with functional or regional variation; needs an independent anchor to fix direction and absolute date."
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [method]
 ---
@@ -44,6 +44,10 @@ over-reach (see [[typological-method]]): treating type-frequency mechanically, i
 manufacture and fabric, can produce absurd results — he cited a Tell en-Nasbeh analysis
 whose pot-type statistics spread a single tomb across the 17th–2nd centuries BCE (attributed,
 Kenyon per Wheeler 1954).
+
+## Exemplary Application — Deetz New England gravestones
+
+*(Attributed — [[deetz-james|Deetz]], *[[deetz-in-small-things-forgotten-1996]]* Ch. 4.)* Deetz treats colonial New England gravestones as a controlled laboratory for style change: death date approximates carving date; carvers identified via probate debts (Forbes: 127 pre-1800 carvers); rural part-time carvers with ~30-mile distributions produce high spatial variation. Using Ford-style popularity (battleship) curves, he reports three designs c. **1680–1820**: death's head → cherub → urn and willow, read as religious/cultural change (Puritan orthodoxy → Great Awakening softening → secular memorialization) with English chronological priority and colonial lag. Parallel individualization with ceramic matching sets feeds the **[[georgian-worldview]]** argument. HA also uses related ceramic dating tools (South [[mean-ceramic-date]]; not seriation strictu sensu).
 
 ## History
 

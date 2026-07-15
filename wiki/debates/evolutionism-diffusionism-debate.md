@@ -5,9 +5,9 @@ dispute_type: theoretical
 disciplines: [anthropology]
 era: [classical-era, fieldwork-revolution]
 positions: ["Evolutionism (independent invention up a universal ladder)", "Diffusionism (culture-contact and migration as the motor of change)", "Functionalism (reject all conjectural history; explain by present function)"]
-key_texts: ["[[tylor-primitive-culture-1871|Tylor, Primitive Culture (1871)]]", "[[rivers-melanesian-society-1914|Rivers, The History of Melanesian Society (1914)]]", "Graebner, Methode der Ethnologie (1911)", "Elliot Smith, The Migrations of Early Culture (1915)", "[[radcliffe-brown-a-r|Radcliffe-Brown]] and [[malinowski-bronislaw|Malinowski]]'s functionalist programme (1920s–30s)"]
+key_texts: ["[[tylor-primitive-culture-1871|Tylor, Primitive Culture (1871)]]", "Tylor, \"On a Method of Investigating the Development of Institutions\" (1888)", "[[rivers-melanesian-society-1914|Rivers, The History of Melanesian Society (1914)]]", "Graebner, Methode der Ethnologie (1911)", "Elliot Smith, The Migrations of Early Culture (1915)", "[[radcliffe-brown-a-r|Radcliffe-Brown]] and [[malinowski-bronislaw|Malinowski]]'s functionalist programme (1920s–30s)", "[[stocking-after-tylor-1995|Stocking, After Tylor (1995)]]"]
 resolution_status: dissolved
-last_updated: 2026-07-09
+last_updated: 2026-07-15
 tags: [debate]
 ---
 
@@ -30,6 +30,8 @@ Frazer used the [[comparative-method]] on traveller and missionary reports to re
 ladder, treating out-of-place traits as **[[survivals]]** of earlier stages. In its strongest
 form: culture-history is the working-out of a single developmental logic, and cross-cultural
 resemblance needs no historical connection to explain it.
+
+**The 1888 origin point (attributed — [[stocking-after-tylor-1995|Stocking, *After Tylor*, 1995]]).** [[tylor-edward-burnett|Tylor]]'s 1888 "adhesions" paper is treated by Stocking as the moment the two positions' terms became explicit inside evolutionism itself: Tylor argued similar customs (avoidance, teknonymy, classificatory kinship, matrilocal residence) co-occurring across unrelated societies at above-chance rates arise independently via "the like working of men's minds under like conditions" (psychic unity). At the same meeting, Francis Galton objected that the compared cases might instead reflect "blood relationship or intercourse, direct or indirect" — shared historical origin or diffusion — which would invalidate treating them as statistically independent (**Galton's problem**); W. H. Flower raised a parallel objection about non-equivalent units of comparison. Tylor dismissed the objection. Stocking reads this exchange as the seed of the larger disciplinary cycle: diffusionary ethnology gave way to evolutionary anthropology in the 1860s, and a renewed diffusionism reasserted itself in the early twentieth century, first via [[boas-franz|Boas]] in the United States, then in Germany (Graebner) and England (Rivers). See [[comparative-method]] and [[social-evolutionism]] for the fuller record of the paper.
 
 ## Position 2 — Diffusionism (contact and migration)
 

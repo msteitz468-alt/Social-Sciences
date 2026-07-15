@@ -10,12 +10,12 @@ region: [eastern-north-america]
 defined_by: material-culture
 construct_status: conventional
 type_site: ["[[cahokia]]"]
-key_sites: ["[[cahokia]]", "Moundville", "other Eastern Woodlands mound centers"]
-preceded_by: ["Late Woodland", "Hopewell / Adena (earlier Woodland mound traditions)", "Eastern Agricultural Complex"]
+key_sites: ["[[cahokia]]", "[[moundville]]", "[[spiro]]", "other Eastern Woodlands mound centers"]
+preceded_by: ["Late Woodland", "[[hopewell-culture]] / [[adena-culture]]", "[[eastern-agricultural-complex]]"]
 succeeded_by: ["historic Indigenous nations of the Southeast and Midwest (post-epidemic transformations)"]
 language_affiliation: "multiple historic language families in successor regions — do not equate archaeological Mississippian with one language"
 genetic_signature: "[[unknown]]"
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [culture, medieval, eastern-north-america]
 ---
@@ -69,4 +69,36 @@ Intensive maize-beans-squash farming; fortified towns; chiefly theocracies; mort
 
 ## Historiography
 
-Textbook North America complexity chapter (as of Wenke & Olszewski 2007): anti-ethnocentric correction of Mound Builder myths; Stoltman trait list; Cahokia-centered synthesis; disease-decline model (Ramenofsky). Specialist Cahokia monographs, isotopic diet studies, and post-2007 settlement archaeology outstanding for densification.
+Textbook North America complexity chapter (as of Wenke & Olszewski 2007): anti-ethnocentric correction of Mound Builder myths; Stoltman trait list; Cahokia-centered synthesis; disease-decline model (Ramenofsky). Specialist densification from [[milner-moundbuilders-2021|Milner 2021]] (below) revises demography, chiefdom≠Mississippian, and midwestern pre-contact decline.
+
+## Milner 2021 densification (*The Moundbuilders*)
+
+*(Attributed throughout — [[milner-george-r|George R. Milner]], *[[milner-moundbuilders-2021|The Moundbuilders]]* 2nd ed. 2021.)*
+
+### Chiefdom ≠ Mississippian
+
+Most Southeast/southern Midwest chiefdoms of the 11th century CE to Spanish arrival are labeled Mississippian, but the terms are **not freely interchangeable**: not all groups with distinctive Mississippian pottery and houses were chiefdoms (ranking may be weak or absent; fixed leadership may lack); not all late prehistoric chiefdoms are labeled Mississippian even at stretched definitions. Chiefdoms are societies with **inherited leadership positions** and ranked social groups legitimized by shared beliefs — a sociopolitical category spanning wide organizational variation.
+
+### Chronology and geography
+
+By the 11th century CE, inherited leadership and ranked groups had become increasingly common across the Southeast and southern Midwest, up the Mississippi as far as southern Wisconsin. **Plaza-and-platform-mound** community plans appear in the southern Eastern Woodlands (especially lower Mississippi) late in the first millennium CE — foreshadowing classic Mississippian layouts. Rectangular flat-topped mounds often supported wooden residences, charnel houses, or council buildings; the largest is Monks Mound at [[cahokia]].
+
+### Economy and wetlands
+
+Maize was central in many places where chiefdoms developed, but **not a necessary prerequisite** for institutionalized inequality: Coles Creek in the lower Mississippi continued heavy foraging (including acorns) for centuries after chiefdoms appeared; Georgia barrier-island chiefdoms likewise without heavy maize. Even where maize was abundant near St. Louis, principal settlements sat next to backwater lakes and swamps — **aquatic resources were essential**. Wetlands’ role is underserved in the literature (Milner position).
+
+### Rise, cycling, and fall
+
+Simple vs complex chiefdoms; episodic mound construction (often multi-generation; special colored soils; enlargements tying living leaders to ancestral legitimacy). Midwestern chiefdoms that expanded northward during the Medieval Warm Period **collapsed a century or more before Spanish entrada**, amid 14th-century climate unpredictability, population movement, and warfare (transition toward Little Ice Age; “Vacant Quarter” depopulation of parts of the midcontinent). Southeastern chiefdoms encountered by de Soto mostly vanished within ~100 years after sustained contact (disease, sociopolitical disorganization). Northern villagers ([[fort-ancient-culture]], [[oneota-culture]]) form a parallel agricultural tradition often labeled tribal rather than chiefly.
+
+### Ideology
+
+[[southeastern-ceremonial-complex|SECC]] / “Southern Cult” objects mark elite ritual equipment with **uneven** distributions — not a uniform cult. Mesoamerican contact: Milner’s judgment is there was **not much** direct contact; parallel development and intra-Eastern exchange matter more.
+
+### Key sites (Milner layer)
+
+- **[[cahokia]]:** >100 mounds; Monks Mound ~100 ft / 5.6 ha base / ~622,000 m³; peak population on the order of **~3,000 (up to ~2–3×)** — not 10–40k; Mound 72 mass sacrifice; deserted by ~1400 CE.
+- **[[moundville]]:** major Black Warrior center; ranked mortuary; labor within local capacity.
+- **[[spiro]]:** Craig Mound elite assemblage; looting disaster; western Mississippian edge.
+
+See also [[eastern-woodlands-chronology]], [[eastern-agricultural-complex]], [[chiefly-cycling]], [[moundbuilder-myth]], [[iroquois-society]] (the contemporary Northern Iroquoian societies of the Northeast).

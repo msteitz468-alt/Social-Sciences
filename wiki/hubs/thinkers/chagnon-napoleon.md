@@ -54,7 +54,7 @@ The genealogy is thus **Michigan neo-evolution + Wolfian politics + genetics dem
 | Dissertation on warfare, organization, marriage alliances | 1966 | Academic spine: demography + alliance + war | Committee product; basis of monograph |
 | *Natural History* graded-violence essay | 1967 | Public ladder of aggression | Popular-science reach |
 | *Yanomamö: The Fierce People* | 1968 | Classroom canon; title thesis; Ch. 1 method myth | Massive teaching adoption; later controversy magnet |
-| Later editions / *Noble Savages* etc. | 1983–2013 | Reframe and defend the program | Polarized |
+| Later editions; *Science* unokai (1988); *[[chagnon-noble-savages-2013|Noble Savages]]* (2013) | 1983–2013 | Reframe, Darwinize, and defend the program as Position A memoir/polemic | Polarized; *Noble Savages* ingested 2026-07-15 as artifact |
 
 The 1968 move that matters most: **scaling a local network ethnography into a civilizational type** via title, foreword, and brinksmanship metaphors, while retaining enough kinship diagrams to satisfy professional readers of Service and Lévi-Strauss.
 

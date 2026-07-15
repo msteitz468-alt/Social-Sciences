@@ -16,8 +16,8 @@ key_findings:
   - "He treated myths as expressing and systematising social values of natural phenomena and tradition, parallel in function to ceremonial."
 concepts_introduced: ["[[social-structure]]"]
 replication_status: reanalyzed-contested
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [study, anthropology]
 ---
 
@@ -88,6 +88,7 @@ Spirits; Biliku/Puluga and Tarai (weather/season personifications) with tribal v
 - **Self-noted limits:** Little Andaman/Jarawa thin; post-field interpretation; dependence on Man; apprentice quality.
 - **Man disagreements:** chieftainship, conjugal fidelity, adoption age, some kin terms, Puluga as monotheistic "God," continuous myth narratives.
 - **Colonial frame:** reconstructs pre-occupation organisation from residual "friendly" groups under catastrophic contact mortality.
+- **Actual fieldwork duration and delayed reworking (attributed — [[stocking-after-tylor-1995|Stocking, *After Tylor*]]):** of the 1906–08 field period, only **~10 months** were actual field time; publication was delayed to 1922 after major theoretical reworking in Durkheimian terms undertaken chiefly in 1910 (the last two chapters) and finalized through the 1912–14 correspondence with [[rivers-w-h-r|Rivers]]. Genealogical data collection was explicitly acknowledged by Radcliffe-Brown himself as "a failure." On publication the book was received in London as "a revolutionary theory of social anthropology"; contemporary critique came from Sir Richard Temple, who had advised the original pre-Durkheimian project and objected to Radcliffe-Brown's implicit denigration of E. H. Man's long-term Andaman observations. In the 1932 reprint, Radcliffe-Brown proposed (but the publisher did not adopt) replacing "psychology" with "sociology" throughout — evidence of his continuing theoretical development away from the book's original psychological framing. Radcliffe-Brown also claimed his "methods and principles" extended, "with necessary modifications," to "all human society" — an attributed, single-study extrapolation to a universal claim, flagged per the Voice and Attribution Protocol.
 
 ## Current Standing
 

@@ -77,4 +77,4 @@ Four-way non-identity: Paleoindian ≠ First Americans (genetic) ≠ Amerind (Gr
 
 ## See Also
 
-[[meltzer-first-peoples-2009]] · [[fluted-point]] · [[megafaunal-extinctions]] · [[pre-clovis]] · [[younger-dryas]]
+[[meltzer-first-peoples-2009]] · [[fluted-point]] · [[megafaunal-extinctions]] · [[pre-clovis]] · [[younger-dryas]] · [[plains-bison-hunting]] (the Paleo-Indian-to-historic bison-hunting adaptation of the Plains)

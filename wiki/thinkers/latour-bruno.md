@@ -4,47 +4,57 @@ date_birth: 1947
 date_death: 2022
 disciplines: [sociology, anthropology, science-and-technology-studies, philosophy]
 era: [critical-turn, contemporary]
-affiliated_theories: ["[[laboratory-studies]]"]
+affiliated_theories: ["[[laboratory-studies]]", "[[actor-network-theory]]"]
 trained_under: ["[[unknown]]"]
 trained: ["[[unknown]]"]
-key_works: ["[[latour-woolgar-laboratory-life-1979|Laboratory Life (1979, with Woolgar)]]"]
-key_concepts: ["[[literary-inscription]]", "[[inscription-device]]", "[[black-box]]", "[[cycles-of-credit]]"]
+key_works: ["[[latour-woolgar-laboratory-life-1979|Laboratory Life (1979, with Woolgar)]]", "Science in Action (1987 — not yet ingested)", "[[latour-reassembling-the-social-2005|Reassembling the Social (2005)]]", "We Have Never Been Modern (not yet ingested)", "An Inquiry into Modes of Existence (not yet ingested)"]
+key_concepts: ["[[literary-inscription]]", "[[inscription-device]]", "[[black-box]]", "[[cycles-of-credit]]", "[[actor-network-theory]]", "[[sociology-of-associations]]", "[[actant]]", "[[matters-of-concern]]"]
 fieldwork_sites: ["[[salk-institute]] (1975–77, Guillemin laboratory)"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [thinker, sociology, anthropology, sts]
 ---
 
 # Bruno Latour
 
-French philosopher, anthropologist, and sociologist of science (1947–2022). Co-author with [[woolgar-steve|Steve Woolgar]] of *[[latour-woolgar-laboratory-life-1979|Laboratory Life]]* (1979/1986), the charter laboratory ethnography of scientific fact construction. Later central to actor-network theory (ANT) and to debates on modernity, ecology, and modes of existence — those programs are not yet primary-ingested here; this page is densified from *Laboratory Life* only.
+French philosopher, anthropologist, and sociologist of science (1947–2022). This page is densified from *[[latour-woolgar-laboratory-life-1979|Laboratory Life]]* (1979/1986) and *[[latour-reassembling-the-social-2005|Reassembling the Social]]* (2005).
 
 ## Overview
 
-Latour conducted the Salk Institute fieldwork (1975–77) that became *Laboratory Life*, written up with Woolgar. The book treats scientific knowledge as the product of local practices of inscription, modalization, credit, and network building rather than as the discovery of pre-given natural objects. Jonas Salk's introduction frames Latour as an "anthropological probe" inside the laboratory culture.
+Latour’s career moves from **laboratory ethnography** of fact construction to a general **[[actor-network-theory|Actor-Network Theory]]** / **[[sociology-of-associations|sociology of associations]]**: the “social” is not a domain that explains science and other practices but a trail of heterogeneous associations (human and nonhuman) to be traced and reassembled as a *collective*.
 
 ## Contributions
 
-- **[[laboratory-ethnography]] / [[laboratory-studies]]:** with Woolgar, established long-term ethnographic study of bench science as a research program (*[[latour-woolgar-laboratory-life-study|Laboratory Life study]]*).
-- **[[literary-inscription]] and [[inscription-device]]:** laboratory as a system that transforms matter into figures, graphs, and papers that can enter argument.
-- **[[statement-types]]:** five-type scale of modalized statements and their transformation toward facticity (and reverse toward artefact).
-- **[[cycles-of-credit]]:** credibility as convertible capital (data, equipment, recognition, money, arguments) rather than pure reward.
-- **[[black-box]]:** progressive deletion of production history so that a fact can stand alone as nature.
+### From *Laboratory Life* (with Woolgar)
+
+- **[[laboratory-ethnography]] / [[laboratory-studies]]:** long-term ethnography of bench science.
+- **[[literary-inscription]]**, **[[inscription-device]]**, **[[statement-types]]**, **[[cycles-of-credit]]**, **[[black-box]]**.
+
+### From *Reassembling the Social* (2005)
+
+- **Sociology of associations** vs sociology of the social: dispute “social explanation” as special-domain glue.
+- **Five uncertainties** (group formation; action overtaken; object agency; matters of fact/concern; risky accounts).
+- **Mediators vs intermediaries**; actor-network as star-shaped web — **attachments first, actors second**.
+- **Flat social** method: localize the global, redistribute the local, connect sites.
+- **[[actant]]**, **[[matters-of-concern]]**, society → collective (≠ Descola’s collectives).
+
+Theory hub: [[hubs/theory/actor-network-theory]].
 
 ## Intellectual Genealogy
 
-- **Peers / co-authors:** [[woolgar-steve|Steve Woolgar]] (*Laboratory Life*).
-- **Cited program context (from the book):** Bloor/SSK strong programme; Kuhn; Mertonian sociology of science (as foil); ethnomethodological and conversational analysis of scientific talk; Bachelard's phenomenotechnique.
-- **Field hosts:** Roger Guillemin group, [[salk-institute]]; Salk wrote the Introduction.
-
-Later ANT (with Callon and others), *Science in Action*, *We Have Never Been Modern*, etc., await primary ingest.
-
-- **Cross-link (attributed, via [[viveiros-de-castro-eduardo|Viveiros de Castro]]'s *[[viveiros-de-castro-cannibal-metaphysics-2014|Cannibal Metaphysics]]*):** Latour is grouped with [[wagner-roy|Roy Wagner]] and [[strathern-marilyn|Marilyn Strathern]] as a genuinely "post-structuralist" anthropologist (his connection to [[deleuze-gilles|Deleuze]] "actual and explicit"); he adopted the Amazonian concept of [[multinaturalism]] to name the non-viability of the modern multiculturalism/mononaturalism pairing, and his later "empirical metaphysics" (*An Inquiry into Modes of Existence*) is read as a parallel [[ontological-turn|ontological-turn]] project.
+- **Co-authors / peers:** [[woolgar-steve|Steve Woolgar]]; Callon, Law, Akrich, Mol, Hennion (ANT network named in *Reassembling* acknowledgements).
+- **Foils (as Latour frames them):** Durkheimian social fact as domain; critical sociology’s Society; SSK social explanation without full nonhuman agency.
+- **Precursors named:** Tarde vs Durkheim box; Whitehead/Tarde process-metaphysics allusions in later chapters.
+- **Cross-link (via Viveiros de Castro, separate source):** later multinaturalism / modes of existence parallel to ontological turn — not from *Reassembling* primary claims.
 
 ## Critiques and Reappraisals
 
-Reception of *Laboratory Life* is treated in the 1986 Postscript and on the study page: charges of relativism, insufficient radicality, misunderstanding of "social," and reflexivity deficits among later laboratory studies. Scientists' responses ranged from Salk's cautious welcome to resentment at being portrayed as "literary" workers.
+*Laboratory Life* reception: relativism, reflexivity (see study page). *Reassembling*: flatness/political quietism/managerial capture charges; Latour’s ANT dialog interlude stages misunderstandings.
 
 ## Historiography
 
-Primary for this wiki so far: *Laboratory Life* 1979/1986 only. Career-phase biography and Thinkers Hub deferred until denser Latour corpus is ingested.
+Primary ingested: *Laboratory Life* + *Reassembling the Social*. Thinkers Hub deferred until denser corpus (*Science in Action*, *We Have Never Been Modern*, *AIME*).
+
+## See also
+
+- [[latour-reassembling-the-social-2005]] · [[actor-network-theory]] · [[latour-woolgar-laboratory-life-1979]] · [[laboratory-studies]]

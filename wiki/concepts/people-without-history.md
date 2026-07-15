@@ -7,9 +7,9 @@ disciplines: [anthropology, history]
 emic_or_etic: etic
 operationalized_as: "Critical label for populations treated as lacking historical agency or depth — ethnographic primitives, non-Western peoples, 'traditional' Third World — rather than a positive type"
 contested: yes
-related_concepts: ["[[mode-of-production]]", "ethnographic present", "[[culture]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[mode-of-production]]", "ethnographic present", "[[culture]]", "[[historical-silences]]", "[[production-of-history]]", "[[unthinkable-history]]"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept, anthropology]
 ---
 
@@ -39,6 +39,10 @@ Charter critique for restoring historicity to ethnographic subjects; teaching to
 - Irony can fail; title sometimes misread as Wolf denying non-European history (opposite of his claim).
 - Risk that "giving people history" becomes only the history of European contact.
 - Concurrent Writing Culture / interpretive critiques asked for different restorations (voice, textuality) than Wolf's political-economic one.
+
+## Adjacent frameworks
+
+[[trouillot-michel-rolph|Trouillot]] (*[[trouillot-silencing-the-past-1995|Silencing the Past]]*, 1995) is **adjacent, not identical**: he analyzes [[historical-silences|silences]] and [[unthinkable-history|unthinkability]] in the production of narratives (including the Haitian Revolution as non-event), whereas Wolf’s ironic title targets political-economic exclusion from world-historical process. Both refuse “peoples outside history”; Trouillot’s load-bearing tools are four-moment silence and dual [[historicity-1-and-2|historicity]], not mode-of-production articulation.
 
 ## Links
 

@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "not quantified; four ideal-typical orientations rarely found unmixed in real action"
 contested: no
 related_concepts: ["[[social-action]]", "[[verstehen]]", "[[ideal-type]]", "[[legitimate-order]]", "[[formal-and-substantive-rationality]]"]
-sources_ingested: 1
-last_updated: 2026-07-08
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -35,6 +35,19 @@ Weber classifies these as ideal types, not exhaustive or usually pure categories
 ## Applications
 
 Weber applies the typology throughout the chapter, e.g., in distinguishing "interest-determined custom" (purposively-rational orientation to shared expectations, as in market-price formation) from mere custom or convention (Ch. 1 §4), and in his account of the four bases of a [[legitimate-order]]'s validity, each of which parallels one of the four action-orientations (Ch. 1 §7).
+
+## Parsons's Critique (attributed)
+
+In *[[parsons-structure-social-action-1937|The Structure of Social Action]]* (1937, Ch. XVII),
+[[parsons-talcott|Parsons]] argued (attributed) that only the first two types — *Zweckrationalität*
+and *Wertrationalität* — are genuinely, positively defined ideal types, while "affectual" functions as
+a residual catch-all for understandable-but-nonrational, nontraditional action and "traditional" is
+comparatively undertheorized. His sharpest point: "traditional" action must not be read as mere
+psychological habit — "There is absolutely nothing normative about habit as such" — because Weber's own
+traditional authority rests on the *sanctity* (*Heiligkeit*) of an inherited order, binding tradition
+to legitimacy and the sacred. Parsons also grounded the *Zweckrational*/*Wertrational* distinction in
+two polar ultimate-end systems via the *Verantwortungsethik*/*Gesinnungsethik* contrast (see
+[[rationalization]]), reading the whole typology toward his [[voluntaristic-theory-of-action]].
 
 ## Critiques and Limitations
 

@@ -9,9 +9,9 @@ region: [global, near-east, mesoamerica, east-asia, andes]
 measured_by: ["plant and animal domestication", "energy capture beyond human organism", "surplus and settlement density (as theorized)"]
 driven_by: ["[[energy-law-of-cultural-evolution]] (White: new solar-energy capture via plants/animals)"]
 produces: ["civil society", "[[state-church]]", "class stratification", "commercial economy (White's sequence)"]
-theorized_by: ["[[cauvin-jacques]] ([[revolution-of-symbols]])", "[[white-leslie-a]]", "[[mithen-steven]] (cognitive fluidity epilogue)", "V. Gordon Childe (Neolithic/Urban Revolution language)", "[[steward-julian-h]] (irrigation civilizations)", "[[binford-lewis]] (packing / demographic-ecological models)", "[[braidwood-robert]] (hilly flanks / natural habitat / nuclear area)", "[[scott-james-c]] (progress-narrative inversion; domus / zoonoses)"]
-key_studies: ["[[cauvin-birth-of-the-gods-2000|Cauvin, Birth of the Gods (2000)]]", "[[white-evolution-of-culture-1959|White, Evolution of Culture (1959), Ch. 12]]", "[[childe-dawn-european-civilization-1958|Childe, Dawn of European Civilization (6th ed.)]] (Neolithic Revolution vocabulary + demic entry)", "[[childe-man-makes-himself-1936|Childe, Man Makes Himself (1936)]] (Neolithic Revolution coining)", "[[binford-in-pursuit-of-the-past-1983|Binford, In Pursuit of the Past (1983)]] (packing model; critique of Garden of Eden / Slug Principle)", "[[braidwood-prehistoric-men-1959|Braidwood, Prehistoric Men (3rd ed. 1959)]] (hilly-flanks popular synthesis + Jarmo)", "[[scott-against-the-grain-2017|Scott, Against the Grain (2017)]]"]
-sources_ingested: 12
+theorized_by: ["[[barker-graeme]]", "[[cauvin-jacques]] ([[revolution-of-symbols]])", "[[white-leslie-a]]", "[[mithen-steven]] (cognitive fluidity epilogue)", "V. Gordon Childe (Neolithic/Urban Revolution language)", "[[steward-julian-h]] (irrigation civilizations)", "[[binford-lewis]] (packing / demographic-ecological models)", "[[braidwood-robert]] (hilly flanks / natural habitat / nuclear area)", "[[scott-james-c]] (progress-narrative inversion; domus / zoonoses)", "[[bellwood-peter]] ([[early-farming-dispersal-hypothesis]])"]
+key_studies: ["[[barker-agricultural-revolution-prehistory-2006|Barker, Agricultural Revolution in Prehistory (2006)]]", "[[cauvin-birth-of-the-gods-2000|Cauvin, Birth of the Gods (2000)]]", "[[white-evolution-of-culture-1959|White, Evolution of Culture (1959), Ch. 12]]", "[[childe-dawn-european-civilization-1958|Childe, Dawn of European Civilization (6th ed.)]] (Neolithic Revolution vocabulary + demic entry)", "[[childe-man-makes-himself-1936|Childe, Man Makes Himself (1936)]] (Neolithic Revolution coining)", "[[binford-in-pursuit-of-the-past-1983|Binford, In Pursuit of the Past (1983)]] (packing model; critique of Garden of Eden / Slug Principle)", "[[braidwood-prehistoric-men-1959|Braidwood, Prehistoric Men (3rd ed. 1959)]] (hilly-flanks popular synthesis + Jarmo)", "[[scott-against-the-grain-2017|Scott, Against the Grain (2017)]]", "[[bellwood-first-farmers-2005|Bellwood, First Farmers (2005)]]"]
+sources_ingested: 15
 last_updated: 2026-07-10
 tags: [phenomenon, neolithic]
 ---
@@ -154,3 +154,80 @@ Roberts treats agricultural origins as **independent innovations** across severa
 Scott rejects Boserupian “backs-to-the-wall” for Mesopotamia/Fertile Crescent (cultivation in abundance not scarcity; flood-retreat may invalidate pure toil premise) but accepts that planting/stock as **dominant** modes were avoided as long as possible because of work and fragile simplified landscapes; declines to adjudicate multi-millennial drivers (Younger Dryas “pistol” at Abu Hureyra contested). Accepts [[broad-spectrum-revolution]] archaeological reality while jury out on its causes; for agriculture proper “the jury is in” on avoidance-until-pressure logic (Ch.2–3). Full position: [[agricultural-origins-causation-debate]].
 
 Cross-links: [[domestication]], [[sedentism]], [[domus-complex]], [[grain-hypothesis]], [[myths-of-the-archaic-state-debate]], [[origin-of-the-state-integrative-vs-conflict-debate]]. Source: [[scott-against-the-grain-2017]].
+
+## Bellwood densification — *First Farmers* (2005)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005; worldwide comparative program under the [[early-farming-dispersal-hypothesis]]. Chronologies and genetics as of Bellwood 2005, not post-2010 aDNA.)*
+
+### Scope and two-stage framing
+
+- **Food production as foundation:** Bellwood treats human status as “top mammal” as dependent on food production; wild-only hunting/collecting could not support current population. Independent agricultural origins in multiple regions ~12–4 kya with **unequal rates of spread**. Agriculture = ultimate economic foundation of ~10,000 years of population growth and “civilization as we know it” — he declines to push the causal chain into urbanization/statehood/literacy (attributed).
+- **Second revolutionary aspect:** Popular “[[neolithic-revolution|Neolithic Revolution]]” = origin of domesticates (SW Asia late PPNA/early PPNB ~9000–8500 BC as of his tables). Bellwood adds a second revolutionary aspect = **spread far beyond the homeland**. [[pre-pottery-neolithic|PPNB]] expansion and post-7000 BC Levant stress/dispersal set up a “second, major stage of the Agricultural Revolution” — dispersal into NE Africa, Europe, central Asia, and the Indus after ~2,000 years of gestation among SW Asian early farming communities (attributed).
+- **Real turning point after economic origin:** After ~8000 BC, resource shortfalls + [[animal-domestication]] and legume fodder “lift the lid” off PPN pressure → specialized pastoralism + proto-urban Mesopotamian trajectory (Ubaid colonization ~6000 BC), then major interregional dispersal (attributed).
+
+### Demography and multi-centric pattern
+
+- **Density contrast (Hassan ethnographic tabulations via Bellwood):** hunter-gatherers generally <1 person/km² (max ~10 Haida, deep-time uncertain); shifting cultivators ~3–100/km²; irrigation much higher (attributed).
+- **Population kinks (cited figures as of 2005):** Hassan — possible world rise 10→50 million across agricultural transitions; Philip Smith — SW Asia 100,000→5 million people 8000–4000 BC; Hayden — ~1,600% Levant [[natufian-culture|Natufian]]→PPNB (~10,000–7500 BC); Hudson/Koyama — Japan Final [[jomon-culture|Jōmon]] 75,000 (300 BC) → 5.4 million 7th c. AD (attributed).
+- **Independent centers (Bellwood comparative):** SW Asia; China (Yellow–Yangzi heartland millet/rice); New Guinea Highlands (primary but **non-expansive** without cereals/major livestock); African Sahel/savanna plant domestications late and possibly stimulus-influenced; Americas multi-regional but demographically less expansive than Old World cereal packages (attributed). Local domestication of a plant or animal need not mean totally independent generation of an agricultural *economy* (Mehrgarh thesis).
+
+### Developmental sequence (ch.12 stages, attributed)
+
+1. **Pre-farming:** Terminal hunter-gatherer deep cultural heterogeneity if long in place.
+2. **Transition to farming:** Increasing sedentism, density, social complexity; village-endogamous mating; widening interaction spheres; languages for wide communication via bilingualism as well as replacement.
+3. **Ensuing dependence and dispersal:** Population growth, environmental impact, conflict, demand for production → expansion from homeland/starburst, mainly from **peripheries** not inner core; cores intensify toward “civilization” (few regions) or stabilize/decline.
+
+Greatest material-culture–language–biology correlation at the **cusp of expansion** through new territory (more homogeneous than homeland); settling-in brings reticulation and mixing. Real cases intermediate between complete replacement and pure adoption — disequilibrium among archaeology/linguistics/biology diagnoses mixed processes. See [[early-farming-dispersal-hypothesis]], [[farming-spread-europe-debate]], [[agricultural-origins-causation-debate]].
+
+### Americas and causation notes
+
+- American “Neolithic” less productive demographically than Old World Neolithic/Bronze–Iron trajectories; expansion less clear archaeologically (attributed). Between 2500 and 1000 BC Americas undergo sedentary residential complexes with ceremonial monuments and often identified agriculture across Andes, Middle America, Southwest, Eastern Woodlands — late Archaic/early Formative “interaction spheres” as research problem for movement vs shared ancestry (attributed).
+- If agricultural *dependence* postdates ~6–5 kya in some New World regions, direct causal link to Late Pleistocene–Early Holocene climate hard to sustain (attributed). Holocene climatic stabilization ~11.5 kya is **ultimate enabler** (denser wild foods → sedentism/population → “competitive ratchet,” Richerson et al. 2001 via Bellwood), not proximate cause of every regional transition — the world did not all farm in 9500 BC.
+
+Cross-links: [[domestication]], [[neolithic-revolution]], [[early-european-farmers]], [[rice-domestication]], [[bellwood-first-farmers-2005]].
+
+## Coe & Koontz densification — Mexican critique of the Childe "revolution" framing (2013)
+
+*(Attributed — [[sources/coe-koontz-mexico-2013|Coe & Koontz 2013]].)*
+
+Coe & Koontz argue that V. Gordon Childe's "revolution" framing for the adoption of food
+production shaped most subsequent thinking, but that Childe wrote (1925–56) when almost nothing
+was known of the actual hunter-gatherer-to-farmer transition. More recent Mexican and Peruvian
+evidence, in their reading, shows a "very slow progress toward fully settled life," such that the
+alleged revolution was "more in the nature of a leisurely evolution" — though its long-run
+demographic consequences were nonetheless transformative. This directly critiques the classical
+Childe Neolithic Revolution model already discussed above (Braidwood, Wenke & Olszewski
+sections); in Mexico, the process from initial [[sites/guila-naquitz|Guilá Naquitz]]/
+[[sites/tehuacan-valley|Tehuacán]] domestication events (c. 8000–5000 BC) to fully sedentary
+agricultural village life (Preclassic, from c. 1800 BC) spans roughly three millennia, well
+illustrating the "leisurely" characterization (Coe & Koontz 2013).
+
+Citing Edward Deevey, Coe & Koontz report that population density under Neolithic/Preclassic-
+level food production runs about **25 times** that of hunter-gatherer populations — consistent
+with, though independently sourced from, the demographic-consequence claims made elsewhere on
+this page. They also cite a "crude guess" Deevey estimate that at the preceding Early Hunters
+level of development (comparable to the European Upper Paleolithic), roughly 25 square miles (65
+sq. km) of territory were needed to support one person, with total New World population before
+7000 BC never exceeding half a million, of which about 30,000 lived in Mexico.
+
+Cross-links: [[sites/guila-naquitz]], [[sites/tehuacan-valley]], [[concepts/maize-domestication]],
+[[sources/coe-koontz-mexico-2013]].
+
+## Barker 2006 — global comparative redefinition
+
+*(Attributed — [[barker-graeme]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006.)*
+
+Barker keeps the **revolution** label for long-run impact (by 5 kya many populations farming; today a dozen crops feed most of the world) while rejecting Victorian and textbook ladders of progress. The transition took millennia regionally; roots in modern human behaviour; yet outcomes were transformative economically **and** cosmologically.
+
+**Core synthesis claims (Ch. 10):**
+1. Multi-regional independent beginnings of systematic husbandry at/after the Holocene boundary, not a single hearth with secondary diffusion alone.
+2. Foragers often acted to **preserve** lifeways under stress, without knowing farming was “coming.”
+3. Domestication as mutualism/commensalism on a continuum (see [[domestication]]).
+4. Climate, sedentism, population, diet breadth, species/place pre-adaptation, prestige/feasting, and ideology (animism→theism) all enter general theory — none alone.
+5. Against demic-primary global models ([[early-farming-dispersal-hypothesis]], Diamond/Bellwood): mobility and exchange are normal; mass farmer migration is not the default mechanism (see [[agricultural-origins-causation-debate]], [[farming-spread-europe-debate]]).
+6. Final redefinition: the agricultural revolution was “as much about human imagination and psychology as economic and social behaviour,” with agrarian sky-god cosmologies as forerunners of later world religions’ human primacy over nature.
+
+**Regional densifications** from the same ingest feed SW Asia (~5,000-year process, non-unidirectional), Asia (parallel millet/rice/Mehrgarh/Kuk), Americas (multi-center; maize often status/beer before staple), Africa (cattle-before-crops; anti-simple Bantu package), Europe (piecemeal *ex oriente lux* critique).
+
+Genetics and absolute dates **as of Barker 2006** (pre-genome-wide aDNA). Complements and challenges [[bellwood-first-farmers-2005]].
+

@@ -9,8 +9,8 @@ emic_or_etic: etic
 operationalized_as: "historical analysis of colonial census, cadastral survey, and statistics as techniques that produced (not merely recorded) social categories"
 contested: yes
 related_concepts: ["[[colonial-encounter]]", "[[orientalism]]", "[[the-state]]", "[[biopower]]", "[[culturalism]]", "[[imaginative-geography]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept, cultural-anthropology]
 ---
 
@@ -68,3 +68,29 @@ Appadurai himself qualifies the thesis: the "essentializing and enumerating proj
 was by no means completely effective," resisted by peasant revolt, vernacular
 writing, and Gandhian counter-mobilization. Critics note the difficulty of proving
 that enumeration *caused* (rather than reinforced) reified communal categories.
+
+## African colonial ethnographic surveys (attributed — Stocking, *After Tylor*, 1995)
+
+*(Source: [[stocking-after-tylor-1995]], Ch. 8. A parallel, British-African instance of state
+enumeration/classification of colonized populations, distinct from but structurally
+comparable to Appadurai's Indian census case — feeds [[colonial-enumeration]] rather than
+being merged into it, since the evidentiary base and period differ.)*
+
+- India's "well-established tradition of governmental ethnological work" (Herbert Risley's
+  ethnological survey superintendence) was repeatedly invoked by British officials as
+  precedent for African government-ethnography schemes. A 1896 British Association
+  resolution (moved by Hercules Read) called for a government "Bureau of Ethnology for
+  Greater Britain," modeled partly on the Indian precedent; the plan lapsed for lack of
+  funding.
+- **Northcote Thomas** was engaged by the Colonial Office in 1908 as the first "government
+  anthropologist" for Southern Nigeria, after local administrators found themselves unable
+  to process an ethnographic questionnaire; his 1910 results were evaluated by an
+  Anthropological Institute committee including [[rivers-w-h-r|Rivers]] and [[haddon-a-c|Haddon]].
+- **C. K. Meek** compiled *The Northern Tribes of Nigeria* (1925) for the 1921 census under
+  Governor Hugh Clifford, and later a monograph on Igbo social and political structure
+  following the 1929 riots known as the "Women's War."
+- Unlike Appadurai's Indian case, Stocking's African material documents the *institutional
+  demand side* — administrators requesting ethnographic classification to administer
+  populations through [[indirect-rule]] — more than a theorized account of enumeration's
+  productive, category-creating effects; the productive-technique thesis itself remains
+  Appadurai's, not Stocking's, framing.

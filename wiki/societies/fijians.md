@@ -8,8 +8,8 @@ kinship_system: "vasu (sister's-son) prerogative; chiefly / land-people (i tauke
 documented_by: ["[[sahlins-islands-of-history-1985]]", "[[asad-anthropology-colonial-encounter-1973|Clammer 1973 on colonial tradition-perception]]"]
 documentation_dates: "19th-century ethnohistory (Methodist mission archives, 1830s–1850s; Hocart's ethnography c. 1909–1914); 1969 Tui Nayau investiture; reconstructed by Sahlins 1985; Clammer 1973 on colonial codification of tradition"
 endonym_exonym_note: "iTaukei is the modern endonym for indigenous Fijians; 'Fijians' is the standard exonym. This page documents the chiefly ethnohistory reconstructed by Sahlins, centred on Lau, Bau, and eastern Fiji."
-sources_ingested: 3
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [society, melanesia, oceania]
 ---
 
@@ -51,3 +51,14 @@ This page documents an ethnohistorically reconstructed chiefly order centred on 
 ## Colonial codification of "tradition" (Clammer in Asad ed. 1973)
 
 John Clammer, "Colonialism and the Perception of Tradition in Fiji," in *[[asad-anthropology-colonial-encounter-1973|Anthropology and the Colonial Encounter]]*, argues that the colonial administration interposed a **conscious model** of Fijian society (Maxwell hierarchy: Vanua–Yavusa–Mataqali–Tokatoka; communalism) between social reality and indigenous models — codification with coercion; mission Mbauan inheritance; modern communalism as colonial child rather than primordial custom; invented-tradition materials (e.g. Kaunitoni). Complements Sahlins's ethnohistoric reconstruction above; does not replace it. Debate: [[anthropology-and-colonialism-debate]].
+
+## Update: *On the Road of the Winds* (Kirch 2017)
+
+*(Attributed — [[kirch-road-of-the-winds-2017|Kirch 2017]].)* Kirch treats Fiji as an
+archipelago positioned "in between" Melanesia and Polynesia — Lapita-settled alongside
+the Polynesian homeland islands, but diverging from the strictly Polynesian sequence
+after the Late Eastern Lapita period. He argues the conventional Melanesia/Polynesia
+classification of Fiji is a **boundary problem** produced by regional taxonomy, not a
+real cultural or historical line — consistent with this page's framing of Fiji as
+culturally Central-Pacific despite its Melanesian geography. See
+[[lapita-cultural-complex]].

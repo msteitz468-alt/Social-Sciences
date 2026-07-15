@@ -16,7 +16,7 @@ preceded_by: ["Near Oceanic pre-Lapita traditions"]
 succeeded_by: ["[[ancestral-polynesian-society|Ancestral Polynesian / post-Lapita Polynesian sequences]]", "diverse Melanesian post-Lapita cultures", "later divergent Fijian sequences after Late Eastern Lapita"]
 language_affiliation: "widely associated with Oceanic / Eastern Oceanic Austronesian expansion and, in Fiji–Tonga–Samoa, with Proto-Central Pacific → Proto-Fijian and Proto-Polynesian (Pawley and Green 1975 as cited by Kirch) — association is argued, not identity (culture ≠ language)"
 genetic_signature: "aDNA from Teouma (Vanuatu) and Talasiu (Tonga) Lapita individuals shows affinity to indigenous Taiwanese/Philippine populations with no detectable Papuan ancestry at first Remote Oceania settlement; Papuan admixture appears only subsequently (as of Skoglund et al. 2016); cranial morphology concurs (Valentin et al. 2016). Association with a genetic population is argued, not identity."
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [culture, oceania, archaeology]
 ---
@@ -216,9 +216,26 @@ Key associated sites now on the wiki: [[talepakemalai|Talepakemalai]] (Mussau �
 site, waterlogged stilt-house preservation) and [[teouma|Teouma]] (Vanuatu — the Lapita cemetery
 supplying the aDNA).
 
+## Bellwood 2005 — farming-dispersal and comparative frame
+
+*(Attributed — [[bellwood-peter|Bellwood]], *[[bellwood-first-farmers-2005|First Farmers]]* ch. 7, 12; chronology and package **as of Bellwood 2005**. Appended to densify Bellwood’s demic-agricultural reading without overwriting Kirch 1984/2017 material above.)*
+
+Bellwood treats Lapita as the rapid eastern face of the [[austronesian-expansion]] under the [[early-farming-dispersal-hypothesis]]: red-slipped and stamped pottery makers settle central/eastern Melanesia and W Polynesia to Samoa very rapidly ~1350–800 BC; from ~1400 BC colonists into Melanesia spreading Lapita over 5,500 km Admiralty Is.→Samoa in ≤500 years — “one of the fastest movements of a prehistoric colonizing population on record” (as of Bellwood 2005).
+
+**ISEA ancestry of the ceramic package.** Related to Island SE Asian red-slipped/dentate-stamped pottery (Cagayan Magapit/Nagsabaran remarkably similar to Lapita); Bellwood’s comparative figure links Guangdong coast, Taiwan Yuanshan, Philippines, Mariana Achugao, Bukit Tengkorak, Bismarck Kamgot, and New Caledonia Lapita (as of Bellwood 2005).
+
+**Economy.** Lapita sites: archaeological evidence for tubers and fruits from the roster domesticated Malaysia–Melanesia (yams, taro, coconut, breadfruit, bananas, pandanus, canarium, etc.) — domesticated or acquired from native populations while moving east. If Denham et al. 2003 hold, many cultivated bananas and some taros originate in New Guinea not ISEA — an important Papuan horticulture contribution to Austronesian crop rosters as settlers entered Melanesia ~1400 BC (see [[kuk-swamp]]).
+
+**Remote Oceania threshold.** Lapita/Austronesian farmers were, in Bellwood’s reading, the only ones able to reach Remote Oceania, and only within the past 3,500 years; Pleistocene hunter-gatherers reached Near Oceania >30,000 years ago but not Remote Oceania. Standstill in the central Pacific (Fiji, Tonga, Samoa) after 800 BC; pottery abandoned in W Polynesia soon after 2000 years ago; E Polynesia settled aceramic (as of Bellwood 2005).
+
+**Friction zone (ch. 12).** Lowland New Guinea is a mid-salient friction zone for Austronesians: Lapita rate extremely rapid beyond into uninhabited Oceania, while AN penetration of New Guinea itself from nearby Lapita was very slow. SE Asia trajectories “extremely complex” — not pure express train leaving “astonished and landless hunters”; genetic hunter-gatherer contribution visible in Island Melanesia; material culture and language continuity from pre-agricultural past strongest in Near Oceania.
+
+**Identity caution (Bellwood’s four-way non-identity).** Languages and agricultural systems of Austronesian speakers reveal SE Asian / southern Chinese origins; biological genotypes from New Guinea to Fiji are heavily shaped by New Guinea. Lapita (material complex) `associated_with` Oceanic Austronesian languages and demic agricultural colonization — never identity of pots = language = genes. Genetics debate (Polynesian motif, Y-haplogroup mixing, Modified Out of Taiwan) is densified on [[austronesian-expansion]] **as of Bellwood 2005**, distinct from post-2015 aDNA on this page’s Kirch 2017 update.
+
 ## Reflexivity
 
 “Lapita” is an archaeological label that can silently become a people. This page keeps
 culture ≠ language ≠ genes ≠ polity distinct. Colonial and missionary-era ethnography of
 descendant societies is a separate evidence class from Lapita archaeology. Absolute dates
-and settlement windows are **1984-era** positions subject to supersession.
+and settlement windows are **1984-era** positions subject to supersession; Kirch 2017 and
+Bellwood 2005 layers are separately attributed.

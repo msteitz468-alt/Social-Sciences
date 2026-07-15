@@ -8,8 +8,8 @@ emic_or_etic: migrated
 operationalized_as: "In Mauss's reading: spiritual power of the gift/taonga that remains part of the giver and compels return along the chain of recipients"
 contested: yes
 related_concepts: ["[[total-prestation]]", "[[gift-exchange]]", "[[potlatch]]", "[[kula]]", "[[reciprocity]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -61,3 +61,7 @@ Not measured. Mauss treats hau as explanatory mechanism for obligation; ethnogra
 ## Links
 
 - Study: [[mauss-the-gift-study]] · [[gift-exchange]] · [[total-prestation]] · Thinker: [[mauss-marcel]]
+
+## Sahlins 2013 — unrequited gift as life-drain (*kaihau*)
+
+*(Attributed — [[sahlins-marshall|Sahlins]] 2013 via Johansen 1954 on Maori.)* Failed counter-gift ruptures kinship fellowship: gift is *mate* (weakening/death) to receiver who cannot assert by counter-gifts; recipient who fails "steals a little of the giver's life" — *kaihaus* the gift (consumes the gift as *hau*, draining the giver). Placed in the kinship–gift–magic regime of [[mutuality-of-being]]; gifts may also generate inequality/domination (politics deferred). Links: [[gift-exchange]] · [[mutuality-of-being]].

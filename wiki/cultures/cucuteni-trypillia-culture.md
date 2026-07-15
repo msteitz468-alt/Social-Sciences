@@ -15,9 +15,9 @@ preceded_by: ["Pre-Cucuteni (late Boian-Giuleşti / Hamangia influence on late L
 succeeded_by: ["Usatovo (steppe C2-classified but steppe funeral package); final erasure of Tripolye customs ~2800–2600 BCE under early [[yamnaya-culture|Yamnaya]] horizon"]
 language_affiliation: "Not Indo-European in Anthony’s model. CT farmers descend from Old European (Danubian) agriculturalists; DDII/steppe neighbors ‘almost certainly spoke different languages.’ No CT texts."
 genetic_signature: "Not established from Anthony 2007; post-2015 aDNA of European farmers/steppe admixture is a separate layer (as of Reich 2018 where relevant)."
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-10
-tags: [culture, neolithic, chalcolithic, eastern-europe, steppe]
+tags: [culture, neolithic, chalcolithic, eastern-europe, steppe, old-europe]
 ---
 
 # Cucuteni-Trypillia Culture
@@ -62,14 +62,53 @@ Agricultural towns (none rebuilt long enough to form tells like lower Danube); h
 - Chapaevka: earliest known Tripolye cemetery (32 graves, extended supine, pot, ochre) — porous Dnieper frontier via gradual assimilation with late Sredni Stog.
 - Usatovo (~3300–3200 BCE): classified as Tripolye C2 ceramically but all ~50 sites exclusively steppe; funeral package steppe-derived; Anthony: Usatovo chiefs as **patrons**, upland late Tripolye as **clients** — prestige gradient for language shift (attributed elite-recruitment model).
 
+## Gimbutas densification — *Civilization of the Goddess* (1991)
+
+*(All claims in this section attributed to [[gimbutas-marija]], *[[gimbutas-civilization-of-the-goddess-1991|The Civilization of the Goddess]]* 1991. FLAG source: “true civilization,” temple-workshop readings, Goddess typology, and Kurgan-wave survival/demise are **theses**. Four-way non-identity strict. Compare Anthony 2007 layer above — do not silently merge chronologies or invasion cartoons. Links: [[old-europe]], [[kurgan-hypothesis]], [[old-europe-goddess-civilization-debate]], [[linear-pottery-culture]].)*
+
+### Chronology, nomenclature, and origin (as of Gimbutas 1991)
+
+Gimbutas treats Cucuteni as “one of the best explored and richest cultures of [[old-europe|Old Europe]], a true civilization in the best meaning of the word” (**evaluative thesis**). Dual names: Romanian **Cucuteni** (Prut near Iași, discovered 1884; Schmidt 1901–10; Petrescu-Dîmbovița 1961–65) and Ukrainian **Tripolye** (middle Dnieper ~35 km S of Kiev; Khvojko late 19th c.). She prefers Cucuteni as sole designation for a homogeneous culture formed in Moldavia. Her correlation table: Pre-Cucuteni I–III ≈ Tripolye A; Cucuteni A1–A3 ≈ Tripolye B Ia–Ic; AB ≈ B Ic; B1–B3 ≈ C1; absolute anchors she labels ~5000, 4500, 3750, 3500 B.C. Three main periods: **Early** (“Pre-Cucuteni,” 48th–47th centuries B.C.); **Classical** (Cucuteni A + AB, firmly second half 5th mill.); **Late** (Cucuteni B, first half 4th mill.); culture lasts **>1,000 years**, c. **4800–3500 B.C.** in her frame (Anthony’s ~5200–3000 BCE span above is a different synthesis — both attributed).
+
+**Origin (as she reconstructs):** colonization of Moldavia from the Lower Danube by **Boian** people modified Neolithic **[[linear-pottery-culture|LBK]]**; the amalgam begins Cucuteni, spreading N of the Carpathian arc in Siret, Prut, Upper/Middle Dniester, Southern Bug valleys; earliest sites between Olt and Siret; later to Prut–Dniester–Southern Bug, Middle Dnieper ~4000 B.C. Earliest Cucuteni contemporary with or stratigraphically above LBK; LBK substratum in Moldavia/W Ukraine and LBK influx to the Dniester ~5000 also contribute to formation c. **4800–4700 B.C.** in her Ch. 2–3 narrative. Boian second-stage shifts and Petrești (Transylvanian trichrome “cousin”) are part of the same densification story.
+
+### Settlement scale and megasites (material inventory as of 1991)
+
+Average **Early** village ~**20** dwellings; **Classical** villages ~**100** dwellings (completely excavated Habașești; Trușești 98 dwellings in groups of three or more, as in Vinča, rather than a preconceived plan). Classical inland sites protected by funnel-shaped trenches; late Classical more often on lower open terraces encircled by a deep wide ditch — she **interprets** the late Classical move as possibly responding to “incursions from the steppes” (**thesis**).
+
+**Late Cucuteni megasites** (Uman district, western Ukraine; magnetometer + aerial photography): communities planned in **10–12 concentric ellipses** over 2+ km; largest settlements up to ~**2,000** houses within **300–400 ha**. Size classes: large villages **30–70 ha** vs very large towns **250–400 ha**. Named examples in her account: **Petreni** (Prut–Dniester; von Stern 1907 excavated 8 of 498 houses; air survey ten concentric rings; Markevic pop. ~4,000; no ditches/ramparts; Late Classical c. 4000 B.C.); **Maydanets'ke** (~270 ha, ~1,700 buildings); **Dobrovody** (~250 ha); **Tallyanky** (~400 ha, oval plan 3.5×1.5 km; she estimates “ten thousand people could have resided there”). Uman region: largest towns ~**15 km** apart; 253 sites in 9,000 km². She frames densification as culminating Late Cucuteni towns within her “climax of European civilization” narrative for Old Europe (**thesis**). Preface: Late Cucuteni c. 4000–3500 B.C. reached “urban stage” with towns up to **10,000** inhabitants at district centers — scale claim attributed, not wiki voice. Method note: as of 1991, megasite plans known primarily from remote sensing + limited excavation.
+
+**Houses:** rectangular two- or three-room structures 8–20 m × 5–6 m (largest to 30 m, 3–4 rooms); split planks or clay daub on posts; central heavy-timber row and gabled roof (Passek 1949 reconstruction, Kolomiyshchina I). Two-story buildings at ≥6 Late settlements; on sites <200 buildings only one or two; at Petreni a row of large two-story structures. Excavators often read these as **ceramic workshops**; Gimbutas argues they were part of **temple activity** preparing ritual vases, upper story “very likely a place of worship” by analogy with Cucuteni and Karanovo temple models (**thesis**). Radingrad (E Bulgaria) two-story workshop-with-temple and Varvarovka VIII reconstructions are her keys to the temple-workshop reading.
+
+### Pottery, figurines, craft, and trade (as of Gimbutas 1991)
+
+Classical ceramic quality she ranks as surpassing all contemporary Old Europe creations (evaluative): bichrome/trichrome mineral paints; free-flowing S-spirals, meanders, chevrons, eggs; hollow **binocular** vases without practical non-ritual purpose; ~4000 B.C. (Cucuteni AB) shift to horizontal panels/friezes; Late pictorial friezes black-on-red — she treats Late pictorial painting as a primary source for reconstructing mythical imagery (dog with crescent/full moons as a primary Late theme) (**thesis**). Early/Early Classical pottery household-level; Late Classical/Late use of a **rotational device** with coil; Cucuteni kilns at 17 settlements; complex two-chamber kilns; X-ray diffraction of black slips c. 4000 B.C. firing temps ≥1000°C.
+
+**Figurines (find types + divine typology thesis):** highly schematized — Early huge buttocks/slender trunk; Classical slenderer with deeply incised chevrons/lozenges; Late disk head, stump “wing” arms. She identifies primary images as Bird and Snake Goddesses and Pregnant Goddess; Stiff Nudes in graves sometimes in threes; male figurines rare; ≥30% zoomorphic. Sabatinivka Cucuteni temple c. 4800–4600 B.C. (~70 m²): bench altar with 16 snake-headed sculptures on horn-back chairs; life-sized priestess chair; bread oven — cited as temple evidence (**interpretive**). Clay temple models include Rozsochuvatka (near Kiev) two-story temple with terrace c. 4300–4000 B.C.
+
+**Karbuna** (Moldavia): Cucuteni vase with **>400** copper artifacts and **>400** shell/marble items; spectral analysis links Karanovo–Cucuteni copper trade as far as Lower Dnieper and Lower Volga (aligns with Anthony’s Karbuna prestige inventory above — same hoard, different interpretive framing). Ai-bunar (central Bulgaria) copper said to serve Moldavia and western Ukraine via Cucuteni. Inscribed/plano-convex clay objects share symbol system with Vinča, Tisza, and other Old European groups in her reading ([[old-european-script]] thesis).
+
+### Demise: Wave 1 survival, Wave 2 amalgamation (Gimbutas thesis)
+
+Under the [[kurgan-hypothesis]] three-wave model in this book: **Wave 1** (c. 4400–4300 B.C.) is catastrophic for Varna, Karanovo-Gumelniţa, Vinča, Lengyel — but **Cucuteni survives intact**. Earliest Kurgan graves in Moldavia dated Cucuteni A2–A3 c. 4400–4300; shell-tempered **Cucuteni C** ware = 1–10% of Cucuteni A and AB assemblages, shapes nearly identical to Sredniy Stog II but different technology. By Cucuteni B (early 4th mill.) some relocation to defensible positions and occasional river ramparts; density of Uman megasites indicates, for her, **no massive dislocation** from first relatively small Kurgan groups; **~800 years coexistence without amalgamation** until mid-4th mill.
+
+**Wave 2** (c. **3500** B.C., North Pontic / Maikop / Mikhailovka I package): she argues North Pontic Kurgan leaders turned on still-flourishing Cucuteni; culture transformed “beyond recognition” S and N of Carpathians ~3500 B.C.; Usatovo as amalgamation under Kurgan dominance (kurgans vs contemporary Cucuteni flat cemeteries; unequal co-residence) — compare Anthony’s Usatovo elite-recruitment model above without equating them. Goddess worship continues in Cucuteni Moldavia/W Ukraine after Wave 1 in her reading, then is “subdued” in the broader second-half-4th-millennium symbolic change. **Record as position**, not fact; Anthony’s multi-causal frontier model and later aDNA are separate evidence layers.
+
+### Identity cautions (Gimbutas layer)
+
+- Megasite size ≠ Mesopotamian city institutions; her “urban stage” is a civilizational thesis.
+- Temple-workshop and Goddess identifications are interpretive.
+- Survival of Wave 1 ≠ proof of peaceful matristic continuity as social fact.
+- Culture ≠ language ≠ genes ≠ people.
+
 ## Identity Cautions
 
 - Culture ≠ language ≠ genes ≠ people. CT ≠ “Old Europeans” as a race; Gimbutas’s Goddess-civilization framing is a separate interpretive layer Anthony does not simply adopt.
 - Super-towns are not early cities in the Mesopotamian institutional sense (no palaces/temples/walls as package).
 - Cucuteni C ware ≠ automatic Sredni Stog ethnicity inside villages.
-- End of CT is multi-causal in Anthony (Yamnaya horizon timing, frontier raiding, internal aggregation failure) — not a single invasion cartoon.
+- End of CT is multi-causal in Anthony (Yamnaya horizon timing, frontier raiding, internal aggregation failure) — not a single invasion cartoon; Gimbutas’s Wave 1/Wave 2 package is a competing attributed model (see densification above).
 - Phase labels (Cucuteni A/B/C vs Tripolye A/B/C) must not be mixed casually; “Cucuteni C” is a pottery type.
 
 ## Historiography
 
-Romanian Cucuteni and Soviet/Ukrainian Tripolye research traditions; Dergachev fortification database; magnetometry at Maidanets’ke; Anthony 2007 as the vault’s steppe-frontier synthesis. Primary source: [[anthony-horse-wheel-language-2007]]. Cross-links: [[sredni-stog-culture]], [[yamnaya-culture]], [[gimbutas-marija]], [[elite-recruitment]], [[steppe-hypothesis-debate]], [[pastoralism]].
+Romanian Cucuteni and Soviet/Ukrainian Tripolye research traditions; Dergachev fortification database; magnetometry at Maidanets’ke; Anthony 2007 as the vault’s steppe-frontier synthesis; Gimbutas 1991 as the fullest Old Europe / Goddess / Kurgan densification for settlement scale, craft, and demise framing. Primary sources: [[anthony-horse-wheel-language-2007]], [[gimbutas-civilization-of-the-goddess-1991]]. Cross-links: [[sredni-stog-culture]], [[yamnaya-culture]], [[gimbutas-marija]], [[old-europe]], [[elite-recruitment]], [[steppe-hypothesis-debate]], [[kurgan-hypothesis]], [[old-europe-goddess-civilization-debate]], [[pastoralism]].

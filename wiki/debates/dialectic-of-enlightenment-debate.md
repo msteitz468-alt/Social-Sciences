@@ -4,9 +4,9 @@ dispute_type: theoretical
 disciplines: [sociology, philosophy, political-thought]
 era: [postwar-expansion, critical-turn, contemporary]
 positions: ["Totalizing critique (Horkheimer & Adorno)", "Communicative-reason reconstruction (Habermas)", "Enlightenment defense"]
-key_texts: ["[[horkheimer-adorno-dialectic-of-enlightenment-1947|Dialectic of Enlightenment (1947)]]", "[[habermas-structural-transformation-public-sphere-1989|The Structural Transformation of the Public Sphere (1962/1989)]] (early historical program)", "Habermas, *The Philosophical Discourse of Modernity* (1985) — not yet ingested"]
+key_texts: ["[[horkheimer-adorno-dialectic-of-enlightenment-1947|Dialectic of Enlightenment (1947)]]", "[[habermas-theory-of-communicative-action-v1-1984|The Theory of Communicative Action, Vol. 1 (1981/1984)]]", "[[habermas-theory-of-communicative-action-v2-1987|The Theory of Communicative Action, Vol. 2 (1981/1987)]]", "[[habermas-structural-transformation-public-sphere-1989|The Structural Transformation of the Public Sphere (1962/1989)]] (early historical program)", "Habermas, *The Philosophical Discourse of Modernity* (1985) — not yet ingested"]
 resolution_status: open
-last_updated: 2026-07-09
+last_updated: 2026-07-10
 tags: [debate]
 ---
 
@@ -37,12 +37,19 @@ determinate negation.
 Jürgen Habermas — Adorno's student and the second-generation Frankfurt School's
 leading figure — argues the book reaches a dead end: by indicting reason *as such*
 as instrumental and dominative, it saws off the rational branch on which its own
-critique sits (the charge of **performative contradiction**). His reconstruction
-distinguishes **instrumental/strategic rationality** (means–ends control) from
-**communicative rationality** (reaching understanding through uncoerced argument),
-locating an emancipatory potential in language and the "ideal speech situation"
-that Adorno and Horkheimer's totalizing critique cannot see. Enlightenment is "an
-unfinished project," not a self-liquidating one.
+critique sits (the charge of **performative contradiction**). In
+*[[habermas-theory-of-communicative-action-v1-1984|TCA Vol. 1]]* Ch. IV he traces
+the line from Weber through [[lukacs-georg|Lukács]]'s [[reification]] to
+Horkheimer's equation of purposive rationality with [[instrumental-reason]] and
+the aporia of *Dialectic of Enlightenment*: within the philosophy of
+consciousness, non-instrumental reason shrinks to a speechless "mimesis"
+placeholder. His reconstruction distinguishes **instrumental/strategic
+rationality** from **[[communicative-rationality]]** (reaching understanding through
+criticizable [[validity-claims]]), and reformulates reification as system
+imperatives overriding communicative sociation rather than as "instrumental reason
+gone wild" (see [[theory-of-communicative-action]],
+[[hubs/theory/theory-of-communicative-action]]). Enlightenment is "an unfinished
+project," not a self-liquidating one.
 
 ## Position 3 — The Enlightenment Defense
 
@@ -63,9 +70,12 @@ warranted* (Position 3's central doubt), and whether its refusal to name a posit
 standard is a fatal flaw or the honest consequence of its diagnosis (Position 1's
 self-understanding).
 
-## Curator's Note (2026-07-08)
+## Curator's Note (2026-07-08; updated 2026-07-10)
 
-Recorded as an open theoretical dispute on first ingest of the primary text; the
-Habermas’s early STPS is now ingested ([[habermas-structural-transformation-public-sphere-1989]]); full communicative-action / *Philosophical Discourse* materials are represented here only through later
-reception and are not yet ingested. Deep treatment in the
-[[hubs/theory/critical-theory|Critical Theory Theory Hub]].
+Recorded as an open theoretical dispute on first ingest of the primary text. STPS
+and **both volumes of TCA** are now ingested
+([[habermas-theory-of-communicative-action-v1-1984]],
+[[habermas-theory-of-communicative-action-v2-1987]]); *Philosophical Discourse of
+Modernity* remains uningested. Deep treatment also in the
+[[hubs/theory/critical-theory|Critical Theory Theory Hub]] and
+[[hubs/theory/theory-of-communicative-action|TCA Theory Hub]].

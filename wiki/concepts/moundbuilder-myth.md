@@ -7,8 +7,8 @@ disciplines: [archaeology, cultural-anthropology]
 emic_or_etic: etic
 operationalized_as: "the (false) belief that North American earthen mounds were built by a vanished non-Indian race rather than by ancestors of living Native Americans; a documented episode in the history and racial politics of American archaeology"
 contested: no
-related_concepts: ["[[colonial-encounter]]", "race", "vanished-race trope"]
-sources_ingested: 1
+related_concepts: ["[[colonial-encounter]]", "race", "vanished-race trope", "[[adena-culture]]", "[[hopewell-culture]]", "[[mississippian-culture]]"]
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [concept]
 ---
@@ -74,3 +74,16 @@ The refutation is not in dispute; the interpretive caution is that the myth's
 claims) whenever prehistory is read to detach living peoples from an impressive
 past. Do not treat the older racial-typological *counter*-arguments (Morton's
 craniometry) as valid science merely because they reached the correct conclusion.
+
+## Milner 2021 densification
+
+*(Attributed — [[milner-moundbuilders-2021|Milner 2021]] Preface and Ch. 1.)*
+
+- Opening move of *The Moundbuilders*: two centuries ago many attributed the mounds to a mysterious non-Native people; **reality** — built by Native American ancestors whose descendants remain in the US and Canada.
+- **Jefferson** dug a Virginia mound, concluded multi-episode cemetery of young and old, and held that ancestors came from Asia via the **Bering Strait**.
+- Popular “separate race of moundbuilders” (Atlantis, distant origins, or earlier advanced Natives displaced by “warlike tribes”) functioned as **convenient justification for land seizure**.
+- Nineteenth-century enthusiasts equated mound labor with Nile/Euphrates/Mexico–Peru-scale populations — “wildly enthusiastic, but thoroughly uninformed” (Milner).
+- **Gerard Fowke** (late 19th c.) attacked population/complexity inferences from mounds as popular absurdities.
+- **Cyrus Thomas** / Bureau of Ethnology surveys and 1894 report **laid the non-Native belief to rest**.
+- Preservation failure: St. Louis “Mound City” destroyed by mid-19th century; Big Mound leveled 1869 amid relic-hunting frenzy and even a fake “ancient velocipede” publicity stunt.
+- New Deal **WPA/CCC** excavations and later CRM are later chapters in how the Native-built record was recovered at scale — not part of the myth itself, but of the discipline that buried it.

@@ -7,8 +7,8 @@ disciplines: [archaeology, linguistic-anthropology]
 emic_or_etic: etic
 operationalized_as: "Links early Indo-European speech to first farming populations of Anatolia and models primary European IE dispersal as demic wave-of-advance peopling with the Neolithic farming expansion (Greece before ~6500 cal BC to Atlantic by ~3500 BC as of Renfrew 1987 chronology), not as Bronze Age Kurgan/Corded Ware/Beaker migrations."
 contested: yes
-related_concepts: ["[[demic-diffusion]]", "[[indo-european-languages]]", "[[steppe-hypothesis-debate]]", "[[agricultural-revolution]]", "[[chiefdom]]", "[[yamnaya-culture]]"]
-sources_ingested: 2
+related_concepts: ["[[demic-diffusion]]", "[[indo-european-languages]]", "[[steppe-hypothesis-debate]]", "[[agricultural-revolution]]", "[[chiefdom]]", "[[yamnaya-culture]]", "[[early-farming-dispersal-hypothesis]]"]
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [concept, archaeology, linguistics]
 ---
@@ -59,6 +59,7 @@ Anthony (2007) restates the hypothesis as the principal alternative to a Pontic-
 - Densifies [[demic-diffusion]] by coupling language replacement to the European Neolithic wave
 - Celtic ethnogenesis as *in situ* crystallization of early western IE after farming, not Hallstatt/La Tène invasion (Renfrew 1987 ch.9)
 - Comparative analogies: Austronesian/Polynesian and Bantu farming-linked dispersals (analogies, not equations)
+- Bellwood 2005 worldwide program: IE as one radial case among Afroasiatic, Elamo-Dravidian, Sino-Tibetan, Austronesian, Niger-Congo/Bantu, etc. ([[early-farming-dispersal-hypothesis]]; [[bellwood-first-farmers-2005]])
 
 ## Critiques and Limitations
 
@@ -93,6 +94,22 @@ Anthony’s positive alternative: Pontic-Caspian steppe homeland ~4500–2500 BC
 - **Four-way non-identity:** farming package ≠ language ≠ genes ≠ people; Renfrew himself insists language ≠ race ≠ culture (citing Max Müller); Anthony likewise rejects equating language with pottery packages.
 - **Glottochronology:** Renfrew rejects fixed Swadesh rates as decisive; would need ~2× rate change to fit farming chronology (attributed). Anthony reports Kruskal–Black most frequent first split ~3000 BCE — “in the ballpark” for a late PIE, not a 7th-millennium one (Anthony 2007).
 - **First-farmers-spoke-IE is "sheer hypothesis"** — Renfrew’s own framing of the load-bearing linguistic leap (Renfrew 1987).
+
+## Bellwood 2005 — allied farming/language densification
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005; comparative program [[early-farming-dispersal-hypothesis]]. Pre-aDNA genetic and computational-linguistic layer; do not modernize numbers.)*
+
+Bellwood is an **ally of Renfrew’s Anatolian / first-farming package** within a worldwide farming–language dispersal program, not a restatement of Renfrew 1987 alone.
+
+**His lean (as of 2005):** Anatolia is “coming into focus as the most likely homeland region for PIE” on a sound but not absolute modern linguistic consensus. He reports: increasing treatment of Anatolian as a coordinate basal branch (so Anatolia is relevant to homeland geography); reconstructed PIE vocabulary does not rule out Anatolia and supports it to a degree (e.g. “mountain” term against a purely flat Pontic steppe homeland, per Gamkrelidze & Ivanov as he cites them); SW Asian domesticates plus grain, plough, weaving/wool (and possibly wild horses) make an **early farming society** reading of PIE possible rather than a pure hunter-gatherer steppe package. Caveat he states: if Anatolian is truly basal, only items with Anatolian witnesses are secure PIE vocabulary. Most linguists he surveys place PIE dates between ~3500 and 7000 BC; computational dates strengthen the Neolithic Anatolian package.
+
+**Findings he cites favoring deep / Anatolian chronology (as of 2005):** Gray & Atkinson 2003 computational phylogeny → PIE ~7000 BC, initial divergence Anatolian, then Tocharian, Greek/Armenian, other subgroups later and more rake-like — read as strong support for Anatolian homeland + Neolithic initial dispersal; Forster & Toth 2003 phylogenetic network → PIE time depth 8100±1900 BC.
+
+**Renfrew as he restates (2003-era):** Farming–language correlations maintained; south-central Anatolia when farmers first enter Greece ~7000–6500 BC; continued European spread → Italic/Celtic; Tocharian early split north of Black Sea; overall archaeological IE spread roughly Greece ~7000 BC to Britain ~4000 BC; great genetic interchange with Mesolithic natives especially in the north; little creolization in the linguistic record. Bellwood & Renfrew 2003 McDonald Institute volume compiled genetics papers on the farming/language dispersal hypothesis.
+
+**Other Anatolian-leaning positions he records (not his sole voice):** Gamkrelidze & Ivanov 1995 eastern Anatolian homeland still with wheeled vehicles and metal → Chalcolithic/Bronze Age dispersal, Halafian identification — Bellwood finds the archaeological support unconvincing; Russian-school loans with Proto-Semitic and Proto-Kartvelian sometimes used to place PIE in Anatolia (Nichols 1997 places Kartvelian contact near the Urals — few further supporters in his survey). Drews 2001: unique Anatolian features as homeland tip via strong-tree logic amid otherwise rake-like IE subgroups.
+
+**Relation to steppe case:** Bellwood treats the four assumptions he lists under the Pontic “world view” as “under attack” and elite-dominance reconstructions of PIE over larger Neolithic populations as “more in guesswork than sociolinguistic reality” — full critique densified as a Position B ally layer on [[steppe-hypothesis-debate]]. His comparative criterion is the same as Renfrew’s: radial farming dispersals from agricultural heartlands (Sherratt & Sherratt 1988 also noted) fit IE better as a Neolithic Anatolian outflow than as late kurgan conquest without a continent-wide archaeological horizon.
 
 ## Reflexivity
 

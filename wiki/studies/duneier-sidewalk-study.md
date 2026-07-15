@@ -90,4 +90,5 @@ A standard citation for urban ethnography, the sociology of public space, inform
 - Method: [[extended-place-method]] · [[participant-observation]]
 - Concepts: [[sustaining-habitat]] · [[interactional-vandalism]] · [[public-character]] · [[broken-windows]]
 - Debate: [[broken-windows-debate]]
-- Related: [[jacobs-jane]] · [[anderson-code-of-the-street-study]] · [[whyte-street-corner-society-study]] · [[informal-economy]] · [[chicago-school]] · [[urban-sociology]]
+- Related: [[jacobs-jane]] · [[anderson-code-of-the-street-study]] · [[whyte-street-corner-society-study]] · [[liebow-tallys-corner-study]] · [[informal-economy]] · [[chicago-school]] · [[urban-sociology]]
+- Debate: [[wacquant-urban-ethnography-debate]] (Wacquant's "Scrutinizing the Street" charged Duneier with romanticization; Lemert's meta-position invokes Liebow's precedent)

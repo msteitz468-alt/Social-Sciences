@@ -7,9 +7,9 @@ disciplines: [sociology, social-theory]
 emic_or_etic: etic
 operationalized_as: "not primarily a measurement construct; a periodizing/diagnostic concept"
 contested: yes
-related_concepts: ["[[risk-society]]", "[[individualization]]", "[[reflexive-scientization]]", "[[modernization-theory]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[risk-society]]", "[[individualization]]", "[[reflexive-scientization]]", "[[modernization-theory]]", "[[radicalised-modernity]]", "[[double-hermeneutic]]", "[[disembedding]]", "[[juggernaut-of-modernity]]"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -26,6 +26,10 @@ Beck argued that "just as modernization dissolved the structure of feudal societ
 ## Semantic History
 
 The term has two registers that are easy to conflate. In Beck's usage the accent is on **self-confrontation** (modernity encountering its manufactured risks and dissolving its own class/family/gender structures). In [[giddens-anthony|Giddens]]'s parallel usage the accent falls more on **institutionalized reflexivity** — the chronic revision of social practice in light of incoming knowledge (grounded in his prior concepts of the [[double-hermeneutic]] and [[ontological-security]]). Beck credited the subsequent development of the term to Giddens (1990, 1991) and Lash (1992) in a footnote to *Risk Society*. The two strands were consolidated, without being fully merged, in the co-authored *Reflexive Modernization* (1994).
+
+### Giddens 1990 primary ingest (*[[giddens-consequences-of-modernity-1990|Consequences of Modernity]]*)
+
+*(Attributed.)* Giddens listed the **reflexive ordering and reordering of social relations** in light of continual knowledge inputs as one of three sources of modernity’s dynamism (with time-space separation/recombination and [[disembedding]]). He argued that under modernity, tradition is increasingly filtered through knowledge claims rather than taken as binding formula; no knowledge is "certain" in the sense that classical Enlightenment confidence assumed; the [[double-hermeneutic]] ensures social-science and expert knowledge spiral back into the practices they describe, energising *and* destabilising the social world ([[juggernaut-of-modernity]]). His preferred label for the present is **[[radicalised-modernity]]** / high modernity, not "reflexive modernization" as Beck’s brand name — but the programs are siblings. He engages Beck explicitly on global risk ("Chernobyl is everywhere"; no "others").
 
 ## Operationalizations
 

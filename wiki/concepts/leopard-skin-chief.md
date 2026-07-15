@@ -8,8 +8,8 @@ emic_or_etic: migrated
 operationalized_as: "a ritual mediator of the feud with no coercive or judicial authority; identified by the office (sanctuary-giver, performer of the *hir* rite, negotiator of blood-cattle)"
 contested: no
 related_concepts: ["[[ordered-anarchy]]", "[[feud]]", "[[segmentary-lineage-system]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -36,3 +36,11 @@ The mechanism sustaining segmentary equilibrium: "We believe their social functi
 ## Critiques and Limitations
 
 Evans-Pritchard flagged that he had "never observed" the mediation procedure directly and reconstructed it from testimony, judging it "very rarely used" in the form described. Later work reassessed the earth priest's actual weight and the model's neatness (part of the [[segmentary-lineage-model-debate]]). Attributed voice throughout.
+
+## Priest not chief: Evans-Pritchard's self-correction in Nuer Religion (1956)
+
+*(Attributed — [[evans-pritchard-e-e|E. E. Evans-Pritchard]], *[[evans-pritchard-nuer-religion-1956|Nuer Religion]]*, 1956; fieldwork among the Nuer of the southern Sudan, 1930–36.)*
+
+In *Nuer Religion* Evans-Pritchard explicitly abandoned "leopard-skin chief" as a mistranslation he had nonetheless carried, with a caveat, through his earlier reports and *The Nuer* (1940). He explained that the British colonial administration had initially mistaken the *kuaar twac*/*kuaar muon* for "chiefs" — "shaikhs," "sultans" — figures through whom indirect rule could be administered, before discovering "they lacked any real authority" and held no political, administrative, or judicial office. Evans-Pritchard adopted the term **priest** for the 1956 volume specifically because "In a book on Nuer religion I feel that a title should be used which indicates better his religious character." He restated the office's structural-functionalist positioning in the same passage: "The priest thus has a central position in the social structure rather than in religious thought... The presence of a priesthood adds nothing to the dominant ideas of Nuer religion. It is rather these ideas which give to a political role its necessary attributes... the Nuer have priests who perform certain politico-religious functions but their religion is not intrinsically a priestly religion."
+
+Priests belong mainly to two clans, the Gaatleak and the Jimem, both "strangers" (*rul*) without tribal territory of their own, living dispersed among other clans' territories — Evans-Pritchard's own simile: "They are like Levi, divided in Jacob and scattered in Israel." The priest's core sacrificial role in homicide/feud settlement: cutting the slayer's arm and sacrificing the "cow of blood" (*yang riem*) to avert *nueer* (mystical danger from the killing); providing sanctuary; negotiating settlement (*cut*); performing the *yang ketha* ("cow of the gall-bladder") sacrifice to close the feud; and later rehabilitation rites (*yang miem*, "cow of the hair") restoring the slayer to normal life. Only the priest could perform these sacrifices — a distinct function from the lay *gwan buthni* ("master of ceremonies," a family/lineage role). Evans-Pritchard also documented a separate hereditary functionary, the *wut ghok* ("man of the cattle"), with cattle-healing/fertility rites and a role in naming and opening/closing age-sets, ranked as lesser in social importance than the priest.

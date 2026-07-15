@@ -5,7 +5,7 @@ disciplines: [sociology, social-psychology, political-sociology]
 era_origin: [critical-turn]
 date_origin: 1975
 originated_by: ["[[collins-randall]]"]
-key_texts: ["[[collins-conflict-sociology-1975|Conflict Sociology: Toward an Explanatory Science (1975)]]"]
+key_texts: ["[[collins-conflict-sociology-1975|Conflict Sociology: Toward an Explanatory Science (1975)]]", "[[collins-interaction-ritual-chains-2004|Interaction Ritual Chains (2004)]]"]
 core_claims:
   - "Collins argues stratification is generated in everyday face-to-face encounters among self-interested, emotionally susceptible actors unequally endowed with resources for coercion, material reward, and ritual solidarity"
   - "He holds that the archetypal social act is giving an order and receiving deference, and that occupational order-giving/order-taking plus communication-network position explain class cultures"
@@ -15,7 +15,7 @@ core_claims:
 developed_from: ["[[conflict-theory]]", "[[historical-materialism]]", "[[types-of-legitimate-rule]]", "[[interpretive-sociology]]"]
 competes_with: ["[[structural-functionalism]]", "[[social-exchange-theory]]"]
 status: active
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [theory, sociology]
 ---
@@ -24,9 +24,7 @@ tags: [theory, sociology]
 
 **Conflict sociology** is [[collins-randall|Randall Collins]]'s programmatic synthesis, stated in *[[collins-conflict-sociology-1975|Conflict Sociology: Toward an Explanatory Science]]* (1975), of the [[conflict-theory|conflict tradition]] ([[marx-karl|Marx]], [[weber-max|Weber]]) with a microsociology of ritual and emotion drawn from [[durkheim-emile|Durkheim]] and [[goffman-erving|Goffman]]. It differs from the [[conflict-theory|Dahrendorf/postwar authority-conflict program]] by grounding macro-conflict in the dynamics of face-to-face encounters and by aiming explicitly at a cumulative, propositional **explanatory science**.
 
-Deep analysis: [[hubs/theory/conflict-sociology]].
-
-*Seeded from Collins 1975. His later restatements (Weberian Sociological Theory 1986; Interaction Ritual Chains 2004) are not yet ingested.*
+Deep analysis: [[hubs/theory/conflict-sociology]]. The micro wing matured as **[[interaction-ritual-chains|interaction ritual chains]]** (*[[collins-interaction-ritual-chains-2004]]*, 2004) — see [[hubs/theory/interaction-ritual-chains]].
 
 ## Core Claims
 
@@ -47,10 +45,11 @@ All in **attributed** voice (Collins 1975).
 ## Key Proponents and Texts
 
 - [[collins-randall|Randall Collins]] — *[[collins-conflict-sociology-1975|Conflict Sociology]]* (1975), the program's foundational statement in this wiki; Ch. 4 co-authored with Joan Annett.
+- Micro-wing restatement: *[[collins-interaction-ritual-chains-2004|Interaction Ritual Chains]]* (2004) — general IR theory with [[emotional-energy|emotional energy]] as currency ([[interaction-ritual-chains]]).
 
 ## Empirical Program
 
-Collins organizes existing research — organizational sociology (Weber, Etzioni, Crozier, Michels), stratification and mobility, comparative-historical politics ([[moore-barrington|Barrington Moore]], [[lenski-gerhard|Lenski]]), and the sociology of science — as applications of one stratification-and-organization theory plus a cross-cutting social psychology of interaction. On his own 1975 self-assessment, the evidence is strongest for organizations and class cultures, weaker for the microsociology-to-stratification linkage and for wealth/mobility. Lenski’s *[[lenski-power-and-privilege-1966|Power and Privilege]]* ([[ecological-evolutionary-theory]]) is the comparative technology-and-wealth model Collins treats as empirically strongest for wealth (while still “most loosely connected” to his own micro program).
+Collins organizes existing research — organizational sociology (Weber, Etzioni, Crozier, Michels), stratification and mobility, comparative-historical politics ([[moore-barrington|Barrington Moore]], [[lenski-gerhard|Lenski]]), and the sociology of science — as applications of one stratification-and-organization theory plus a cross-cutting social psychology of interaction. On his own 1975 self-assessment, the evidence is strongest for organizations and class cultures, weaker for the microsociology-to-stratification linkage and for wealth/mobility. Lenski’s *[[lenski-power-and-privilege-1966|Power and Privilege]]* ([[ecological-evolutionary-theory]]) is the comparative technology-and-wealth model Collins treats as empirically strongest for wealth (while still “most loosely connected” to his own micro program). The 2004 IR program re-specifies the micro linkage via EE, ritual markets, and situational stratification without claiming the 1975 promissory note is fully closed.
 
 ## Method Commitments
 
@@ -62,7 +61,7 @@ The micro-macro linkage is, by Collins's own admission, "largely hypothetical"; 
 
 ## Current Status
 
-`status: active` — Collins's micro-founded conflict theory, the interaction-ritual mechanism, and the geopolitical theory of the state all remain live research programs, developed in his own later work and in historical and micro sociology. Distinct from, but allied to, the [[conflict-theory|Dahrendorf program]].
+`status: active` — Collins's micro-founded conflict theory, the [[interaction-ritual-chains|interaction-ritual-chains]] program (*[[collins-interaction-ritual-chains-2004|IRC 2004]]*), and the geopolitical theory of the state all remain live research programs, developed in his own later work and in historical and micro sociology. Distinct from, but allied to, the [[conflict-theory|Dahrendorf program]].
 
 ## Reflexivity
 

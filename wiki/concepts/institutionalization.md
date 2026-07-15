@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "[[unknown]]"
 contested: no
 related_concepts: ["[[habitualization]]", "[[legitimation]]", "[[reification]]", "[[typification]]", "[[externalization-objectivation-internalization]]"]
-sources_ingested: 1
-last_updated: 2026-07-08
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -28,6 +28,12 @@ Institutions imply **historicity** (built up in shared history) and **control**:
 “Institution” is older sociological vocabulary (Spencer, Sumner, Durkheim, Parsons). Berger and Luckmann’s contribution is a **genetic** account: from biological world-openness → need for social order → [[habitualization]] → reciprocal [[typification]] → institutional facticity for the next generation. When institutions are transmitted to children, objectivity thickens: “There we go again” becomes “This is how these things are done”; the social world confronts as external and coercive fact (Durkheimian facticity idiom within a constructionist frame).
 
 Related processes in their text: **sedimentation** and **tradition** (meanings deposited in a social stock, transmitted as tradition); **roles** as representations of the institutional order; **scope and modes** (degree of institutionalization varies; de-institutionalization possible; division of labour and sub-universes of meaning).
+
+## Semantic History — new institutionalism (Zucker, Jepperson; in [[powell-dimaggio-new-institutionalism-1991]])
+
+[[zucker-lynne|Lynne Zucker]]'s 1977 chapter ("The Role of Institutionalization in Cultural Persistence," reprinted in [[powell-dimaggio-new-institutionalism-1991]]) redefines institutionalization as a **continuous variable** rather than a binary state, resting on an ethnomethodological base: degree of institutionalization is a joint function of the act's **objectivity** (taken-for-granted, external facticity) and **exteriority** (independence of particular actors), operationalized along a pole running from **personal influence** to formal **office**. Zucker tested this experimentally in three linked laboratory studies using the autokinetic-effect paradigm (an ambiguous, socially malleable visual illusion): subjects' judgments were manipulated purely through verbal framing into "personal influence" (an unstructured dyad), "organizational context" (a "model organization" whose personnel rotate but "the job goes on"), and "office" (as organizational context, plus a formally titled role controlling the apparatus) conditions. Institutionalization measured this way (attributed, FINDING, single-study) predicted both the **transmission** of the judgment norm across successive "generations" of subjects and its **maintenance** under a later resistance test — the office condition produced the most persistent, least-personalized norms, the personal-influence condition the least.
+
+[[jepperson-ronald|Ronald Jepperson]]'s 1991 chapter (ch. 6 of the same volume) offers a second, complementary redefinition: an institution is "that social pattern that, when chronically reproduced, owes its survival to relatively self-activating social processes... dependent... upon recurrent collective mobilization," in explicit contrast to **action** — "one enacts institutions; one takes action by departing from them, not by participating in them." Jepperson identifies three **carriers** of institutions (formal organization, regimes, and culture) and four **types of institutional change**: formation, development, deinstitutionalization, and reinstitutionalization. Both Zucker's and Jepperson's redefinitions retain Berger and Luckmann's core insight (reciprocal typification as the constitutive act) while giving it, respectively, an experimentally operationalized variable form and a self-reproduction-theoretic one. See [[new-institutionalism]].
 
 ## Operationalizations
 

@@ -7,8 +7,8 @@ date_introduced: "1930s–1950s professionalization"
 supersedes: ["[[unknown]]"]
 epistemic_leverage: "Population-scale attitudes and reported behaviors; trend detection when repeated"
 key_limitations: ["self-report ≠ behavior", "nonresponse", "question wording", "WEIRD and coverage frames", "[[selectivity]] / nonrandom assignment when survey data are used for mock-experimental causal claims", "control-variable simulation of experiment (Lieberson 1985)"]
-sources_ingested: 3
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [method]
 ---
 
@@ -34,7 +34,7 @@ Gallup, Roper, academic omnibus surveys; postwar expansion. Mid-1980s internal c
 
 ## Exemplary Applications
 
-[[putnam-bowling-alone-study]]; earlier political sociology (e.g. [[lipset-political-man-study]]); [[bourdieu-distinction-study]] (class-fraction oversample + multi-domain lifestyle questionnaire + secondary national surveys); [[portes-rumbaut-legacies-study]] / [[children-of-immigrants-longitudinal-study|CILS]] (school-based longitudinal panel of second-generation youth + parental survey).
+[[putnam-bowling-alone-study]]; earlier political sociology (e.g. [[lipset-political-man-study]]); [[bourdieu-distinction-study]] (class-fraction oversample + multi-domain lifestyle questionnaire + secondary national surveys); [[portes-rumbaut-legacies-study]] / [[children-of-immigrants-longitudinal-study|CILS]] (school-based longitudinal panel of second-generation youth + parental survey); [[blau-duncan-american-occupational-structure-study]] (OCG leave-behind questionnaire as adjunct to March 1962 CPS — national mobility microdata without investigator microdata access).
 
 ## Debates
 

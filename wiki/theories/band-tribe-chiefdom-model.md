@@ -16,7 +16,7 @@ core_claims:
 developed_from: ["[[levels-of-sociocultural-integration]]", "[[multilinear-evolution]]", "[[universal-evolution]]", "[[cultural-ecology]]", "Sahlins general/specific evolution"]
 competes_with: ["pure [[historical-particularism]]", "synchronic [[structural-functionalism]] without evolutionary depth", "[[egalitarian-rank-stratified-state-model]]"]
 status: absorbed
-sources_ingested: 8
+sources_ingested: 10
 last_updated: 2026-07-10
 tags: [theory, anthropology, political-anthropology]
 ---
@@ -42,7 +42,7 @@ Attributed primarily to [[service-elman-r|Elman R. Service]] (*[[service-primiti
 ## Intellectual Origins
 
 - **Teachers:** [[white-leslie-a|Leslie White]] (cultural evolution first) and [[steward-julian-h|Julian Steward]] (different version; levels, ecology). Service held their approaches **compatible but problem-distinct**.
-- **Sahlins:** General vs Specific Evolution (*Evolution and Culture*, 1960) is the basis for nearly all special concepts in PSO; close collaboration.
+- **Sahlins:** General vs Specific Evolution (*[[sahlins-service-evolution-culture-1960|Evolution and Culture]]*, 1960 — now primary-ingested) is the basis for nearly all special concepts in PSO; close collaboration. Sahlins Ch. II supplies the dual-aspect frame and general-level taxonomy (bands/tribes/chiefdoms/archaic–nation-state as successive general levels of sociopolitical integration); Service Ch. V supplies [[law-of-evolutionary-potential]] as discontinuity of advance across levels.
 - **Durkheim:** anti-reductionism; mechanical vs organic solidarity as integrative contrast (bands/tribes vs chiefdoms).
 - **Lévi-Strauss:** limited influence (women-as-gifts; anti-extensionism on kinship terminology); Service later critical of special interpretations.
 - **Reacted against:** pure Boasian particularism; purely synchronic functionalism that cannot explain origins; Victorian stages of total culture without particular social systems; Murdock-style reduction of kinship terms to genealogy alone.
@@ -51,7 +51,7 @@ Attributed primarily to [[service-elman-r|Elman R. Service]] (*[[service-primiti
 
 | Text | Year | Move |
 |---|---|---|
-| Sahlins & Service, *Evolution and Culture* | 1960 | General vs specific evolution charter |
+| Sahlins & Service, *[[sahlins-service-evolution-culture-1960|Evolution and Culture]]* | 1960 | General vs specific evolution charter (primary); LEP; cultural dominance |
 | Service, *Primitive Social Organization* | 1962 / 1971 | Band–tribe–chiefdom applied to social organization |
 | Service, *Origins of the State and Civilization* | 1975 | State (not primary-ingested here) |
 | Adjacent: Steward *Theory of Culture Change* | 1955 | Levels; patrilineal/composite bands |
@@ -170,3 +170,7 @@ They warn (with McGuire and others) that simple band/tribe/chiefdom/state labels
 *(Attributed — [[kirch-patrick-vinton|Kirch]], *[[kirch-evolution-polynesian-chiefdoms-1984|The Evolution of the Polynesian Chiefdoms]]* 1984.)* Kirch **uses the term “chiefdom”** for contact-era Polynesian socio-political organization (from relatively simple forms to elaborate Hawaiʻi near the chiefdom–state interface) but **explicitly rejects 1960s–70s neo-evolutionary stage schemes** ([[service-elman-r|Service]], [[fried-morton-h|Fried]]) as inadequate for Polynesia: a “stadial or stagal approach to evolution in Polynesia is something of a ‘dead horse’.” Instead of climbing a band–tribe–chiefdom ladder from a local baseline, he reconstructs **Ancestral Polynesian Society** as an already ranked conical-clan order with hereditary *‘ariki*, then models **diachronic processes** of internal differentiation (colonization/adaptation, demography, environmental change, production intensification, competition/conflict) illustrated by Tonga, Hawaiʻi, and Easter Island sequences.
 
 **Engagement with synchronic ethnology.** Kirch treats [[sahlins-marshall|Sahlins]] (*Social Stratification in Polynesia*, 1958) and Irving Goldman (*Ancient Polynesian Society*, 1970) as the prior generation’s classic accounts of Polynesian complexity — ecological adaptation (Sahlins) and aristocratic status rivalry (Goldman) — but notes they rested almost exclusively on **synchronic** ethnographic and ethnohistorical evidence while Polynesia remained an archaeological backwater. His project is to **historicize** that spectrum archaeologically rather than reclassify societies as Service/Fried stages. Absorbed use of “chiefdom” vocabulary with a process model: complements the typology’s middle category while rejecting its ladder as the research program for Polynesia. See [[state-formation]], [[hereditary-rank]], [[origins-of-hereditary-inequality-debate]].
+
+## Kirch's Polynesian critique and the archaic state (2017, attributed)
+
+*(Attributed — [[kirch-road-of-the-winds-2017|Kirch 2017]].)* By 2017 Kirch keeps "chiefdom" as a working label for Polynesian polities but more firmly rejects any fixed unilineal band→tribe→chiefdom→state ladder, documenting genuinely **divergent** — not unilineal — trajectories among Irving Goldman's "Open" status-rivalry Polynesian societies (Ancestral Polynesian Society as the shared baseline, diverging under different demographic and ecological pressures rather than climbing a common sequence). His preferred category for the most politically elaborated cases, [[tonga|Tonga]] and [[hawaiians|Hawaiʻi]], is the **[[archaic-state|archaic state]]** (after Marcus & Feinman 1998) rather than the stadial "state" of Service or Fried. New Zealand [[maori|Māori]] serve as an instructive negative case: despite dense population and elaborate fortified [[chiefdom|pā]], Māori polities never consolidated authority past the hapū (sub-tribe) level, showing chiefdom elaboration and state emergence are not automatic correlates of scale. See [[chiefdom]], [[kirch-patrick-vinton]].

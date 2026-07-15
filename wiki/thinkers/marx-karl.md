@@ -10,7 +10,7 @@ trained: ["[[unknown]]"]
 key_works: ["[[marx-engels-communist-manifesto-1848|The Communist Manifesto (1848, with Engels)]]", "[[marx-eighteenth-brumaire-1852|The Eighteenth Brumaire of Louis Bonaparte (1852)]]", "[[marx-capital-volume-1-1867|Capital, Volume I (1867)]]", "A Contribution to the Critique of Political Economy (1859)"]
 key_concepts: ["[[class-struggle]]", "[[bourgeoisie]]", "[[proletariat]]", "[[mode-of-production]]", "[[asiatic-mode-of-production]]", "[[men-make-their-own-history]]", "[[historical-costume]]", "[[bonapartism]]", "[[relative-autonomy-of-the-state]]", "[[class-fraction]]", "[[party-of-order]]", "[[lumpenproletariat]]", "[[peasantry-as-class]]", "[[commodity]]", "[[commodity-fetishism]]", "[[labor-theory-of-value]]", "[[labor-power]]", "[[surplus-value]]", "[[constant-and-variable-capital]]", "[[organic-composition-of-capital]]", "[[industrial-reserve-army]]", "[[general-law-of-capitalist-accumulation]]", "[[primitive-accumulation]]"]
 fieldwork_sites: ["[[unknown]]", "England as classic illustrative ground for Capital I (documentary / Blue Book base, not field ethnography)", "France 1848–1851 as political case for the Eighteenth Brumaire (contemporary analysis, not ethnography)"]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-07-10
 tags: [thinker, sociology]
 ---
@@ -53,6 +53,10 @@ From Engels’s *[[engels-origin-of-the-family-1884|Origin of the Family]]* (pos
 
 Theoretical claims remain **attributed**, never wiki-voice laws of history.
 
+### Periodization as reception — Althusser’s *For Marx* (attributed)
+
+*(Not Marx’s self-periodization; a 1960s theoretical thesis.)* [[althusser-louis|Althusser]] (*[[althusser-for-marx-1965|For Marx]]*) periodizes Marx as Early Works (1840–44; Kantian-Fichtean then Feuerbachian humanism; 1844 Manuscripts as extreme Feuerbach–Hegel synthesis), works of the [[epistemological-break]] (~1845: *Theses on Feuerbach*, *German Ideology*), transitional (1845–57), and mature (1857–83: *Capital*). He argues mature Marxism is [[theoretical-anti-humanism|theoretically anti-humanist]] and that continuous “young Marx is part of Marxism” readings confuse ideology with science ([[marxist-humanism-debate]]; [[structural-marxism]]). The 1844 Manuscripts themselves are not yet primary-ingested in this wiki.
+
 ## Intellectual Genealogy
 
 - **Collaborator:** [[engels-friedrich|Engels]] — *Manifesto* co-author; editor of English *Capital* and later volumes; *Origin* as fulfillment of Marx’s Morgan project.
@@ -93,5 +97,6 @@ Primary layers ingested: *Manifesto*; *Eighteenth Brumaire* (DigiCat/De Leon-sty
 - studies: [[marx-capital-volume-1-study]] · [[marx-eighteenth-brumaire-study]]
 - theory: [[historical-materialism]]
 - concepts: [[class-struggle]] · [[mode-of-production]] · [[asiatic-mode-of-production]] · [[men-make-their-own-history]] · [[bonapartism]] · [[relative-autonomy-of-the-state]] · [[commodity]] · [[surplus-value]] · [[gens]] · [[private-property]] · …
-- debates: [[structure-vs-agency-debate]] · [[relative-autonomy-of-the-state-debate]] · [[unilinear-kinship-evolution-debate]]
+- debates: [[structure-vs-agency-debate]] · [[relative-autonomy-of-the-state-debate]] · [[unilinear-kinship-evolution-debate]] · [[marxist-humanism-debate]]
+- reception: [[althusser-for-marx-1965]] · [[structural-marxism]] · [[western-marxism]]
 - discipline: [[sociology]] · [[political-sociology]]

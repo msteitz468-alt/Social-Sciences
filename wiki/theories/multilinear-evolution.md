@@ -15,7 +15,7 @@ core_claims:
 developed_from: ["critique of unilinear [[social-evolutionism]]", "partial engagement with Whitean universal evolution", "[[cultural-ecology]]"]
 competes_with: ["unilinear [[social-evolutionism]]", "pure [[historical-particularism]] / cultural relativism that denies cross-cultural laws", "[[universal-evolution]] as sole program"]
 status: absorbed
-sources_ingested: 7
+sources_ingested: 8
 last_updated: 2026-07-10
 tags: [theory, anthropology]
 ---
@@ -66,6 +66,8 @@ Comparative typology; ecological functional analysis; rejection of total-culture
 ## Current Status
 
 Absorbed into histories of neo-evolutionism and ecological anthropology; less used as a live school label than [[cultural-ecology]], but the multilinear vs unilinear vs universal distinction remains a standard teaching device for the evolutionism debate. Service’s [[band-tribe-chiefdom-model]] (PSO 1962/1971) is a related neo-evolutionary program that keeps general levels while insisting on specific variants inside them.
+
+**Sahlins & Service 1960 (primary).** *[[sahlins-service-evolution-culture-1960|Evolution and Culture]]* relocates Stewardian multilinear work as the **specific-evolution** aspect (adaptive diversification; phylogenetic/historical taxonomy) complementary to Whitean **general** evolution, rather than as a rival exclusive program. White’s Foreword makes the equation explicit (specific≈multilinear). Sahlins held that Steward’s multilinear gain for specific analysis came at a cost if it abandoned general progress questions. Harding’s Ch. III (adaptation, open systems, superorganic environment) is the volume’s most Steward-adjacent operational essay.
 
 ## Reflexivity
 

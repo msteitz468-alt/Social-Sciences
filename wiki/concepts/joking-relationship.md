@@ -7,9 +7,9 @@ disciplines: [anthropology]
 emic_or_etic: etic
 operationalized_as: "a standardized relation of 'permitted disrespect' — licensed teasing/mockery between specified kin or groups"
 contested: yes
-related_concepts: ["[[social-structure]]", "[[social-function]]", "[[structural-functionalism]]", "[[social-sanctions]]", "[[avunculate]]", "[[marriage]]", "[[classificatory-system-of-relationship]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+related_concepts: ["[[social-structure]]", "[[social-function]]", "[[structural-functionalism]]", "[[social-sanctions]]", "[[avunculate]]", "[[marriage]]", "[[classificatory-system-of-relationship]]", "[[cross-cutting-conflicts]]", "[[social-control]]"]
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -32,6 +32,10 @@ Discrimination between respected and joking kin is read off structural position 
 ## Applications
 
 Beyond kinship, Radcliffe-Brown extended the idea to **clan and tribal** joking alliances (groups not linked by intermarriage) and to a still wider category of "friendship... in which there is an appearance of antagonism, controlled by conventional rules" (he cited sporting rivalry as a mild instance). See [[social-structure]], [[social-function]], [[structural-functionalism]].
+
+### Gluckman political densification (1965)
+
+*(Attributed — [[gluckman-max|Gluckman]], *[[gluckman-politics-law-ritual-1965|Politics, Law and Ritual]]*, Ch. III; closing Eskimo song-contest hypothesis in Ch. VII.)* Among the [[plateau-tonga|Plateau Tonga]], **clan-joking** has political consequences: more friends for all, and **privileged moral arbiters** in a society without political authorities — “strangers” who can rebuke defaults on exogamy, property, and food rules. Court **jesters** / African praise-singers are treated as institutionalized jokers at the apex of a political unit (same structural bind: protest admits the hit). Gluckman’s concluding reanalysis of **Eskimo song-contests** (Keewatin; Ammassalik) reads derision duels partly through joking/cross-cutting lenses rather than as pure “courts” (vs Hoebel’s legal reading). Ethnonym retained as in sources; modern Inuit/Yupik identity cautions apply.
 
 ## Critiques and Limitations
 

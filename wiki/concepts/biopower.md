@@ -8,9 +8,9 @@ disciplines: [social-theory, philosophy, sociology, political-science]
 emic_or_etic: etic
 operationalized_as: "not quantified; identified interpretively through institutions and knowledges that administer life at two poles — disciplines of the individual body and regulation of the population (demography, public health, eugenics)"
 contested: yes
-related_concepts: ["[[analytics-of-power]]", "[[power-knowledge]]", "[[deployment-of-sexuality]]", "[[genealogy]]", "the-norm", "state-racism"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[analytics-of-power]]", "[[disciplinary-power]]", "[[docile-bodies]]", "[[power-knowledge]]", "[[deployment-of-sexuality]]", "[[genealogy]]", "[[normalizing-judgement]]", "state-racism"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -26,7 +26,7 @@ Foucault distinguishes **bio-history** (the interference of biological and histo
 - an **"anatomo-politics of the human body"** — discipline, the optimization of the body's forces, its "docility" and integration into production (the first pole to form); and
 - a **"bio-politics of the population"** — the regulation of "births and mortality, the level of health, life expectancy and longevity," the "species body."
 
-"The disciplines of the body and the regulations of the population constituted the two poles around which the organization of power over life was deployed" (attributed). In Foucault's later Collège de France lectures (not ingested here) "biopolitics" and "governmentality" are developed further; in reception, "biopolitics" often names the population pole specifically, "biopower" the whole formation.
+"The disciplines of the body and the regulations of the population constituted the two poles around which the organization of power over life was deployed" (attributed). The anatomo-political pole is developed at full technical length in *[[foucault-discipline-and-punish-1977|Discipline and Punish]]* as [[disciplinary-power]] and [[docile-bodies]] — read the two books as paired poles, not as synonyms. In Foucault's later Collège de France lectures (not ingested here) "biopolitics" and "governmentality" are developed further; in reception, "biopolitics" often names the population pole specifically, "biopower" the whole formation.
 
 ## Operationalizations
 

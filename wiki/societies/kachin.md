@@ -8,8 +8,8 @@ kinship_system: "Patrilineal lineages (*htinggaw*); mayu–dama asymmetric affin
 documented_by: ["[[leach-political-systems-highland-burma-study]]"]
 documentation_dates: "Principal synthesis 1954 from 1939–40 Hpalang fieldwork, 1940–45 wartime observation, and published/colonial sources c. 1820s–1952; not a timeless ethnographic present"
 endonym_exonym_note: "English/Burmese 'Kachin' (earlier Kakhyen etc.) covers diverse hill groups; Jinghpaw is a major language/identity within that field. Leach treats 'Kachin' as a political-cultural category in relation to Shan, not a single race or tribe."
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [society, southeast-asia]
 ---
 
@@ -50,6 +50,8 @@ Nats (spirits) ordered in relation to human rank — chiefs alone approach Madai
 
 Whether gumsa/gumlao describe historical cycles or over-idealized models; whether "Kachin" over-unifies; reliability after note loss; Gluckman's "stable equilibrium" reading vs Leach's ideas/facts distinction. See [[leach-political-systems-highland-burma-study]], [[gumsa-gumlao-oscillation]], [[functionalism-and-social-change-debate]].
 
+**From *Rethinking Anthropology* (1961):** Ordinary Jinghpaw vs Gauri vs [[lakher|Lakher]] as a controlled contrast set — same patrilineal *mayu*-type politics, different marriage institutions (indissoluble person-transfer vs intermediate vs hire-like bridewealth + easy divorce). Jinghpaw terminology as ideal [[ethnographic-algebra]]; Ch. 1 continuum pole opposite [[trobriand-islanders|Trobriand]] paternity metaphysics. Source: [[leach-rethinking-anthropology-1961]].
+
 ## Identity Cautions
 
-Do not equate Kachin (political-cultural category) with a single language, genetic population, or archaeological culture. Jinghpaw, Atsi, Maru, Lashi, Nung and others appear as related but not identical. Boundary with [[shan]] is permeable by design in Leach's analysis — use `associated_with`, not identity.
+Do not equate Kachin (political-cultural category) with a single language, genetic population, or archaeological culture. Jinghpaw, Atsi, Maru, Lashi, Nung and others appear as related but not identical. Boundary with [[shan]] is permeable by design in Leach's analysis — use `associated_with`, not identity. Lévi-Strauss (1949) confused Kachin with Haka Chin — Leach corrects (*Rethinking* Ch. 5).

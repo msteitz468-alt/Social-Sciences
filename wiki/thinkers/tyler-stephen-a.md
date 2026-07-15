@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["[[clifford-marcus-writing-culture-1986|Post-Modern Ethnography (in Writing Culture, 1986)]]", "'Context and Alternation in Koya Kinship Terminology' (in [[gumperz-hymes-directions-sociolinguistics-1972|Directions in Sociolinguistics]], 1972; rev. from 1966)"]
 key_concepts: ["[[post-modern-ethnography]]", "[[ethnographic-evocation]]", "componential analysis of kin-term alternation"]
 fieldwork_sites: ["India (frontispiece photo, 1963)", "Koya, Godavari River region, central India, near Bhadrachallam-Nugur (1962-1963)"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [thinker, anthropology]
 ---
 
@@ -22,6 +22,10 @@ American anthropologist (b. 1932); contributor to *[[clifford-marcus-writing-cul
 ## Overview
 
 Tyler’s essay is the volume’s most radical critique of realist documentary ethnography and of scientific rhetoric. Editors note it draws on pre-modern sources for the post-modern and is “generally unclassifiable”; they refused to place it as utopian close to the volume.
+
+## Strathern engagement (*Partial Connections*, 1991)
+
+*(Attributed — [[strathern-marilyn|Strathern]].)* *[[strathern-partial-connections-1991|Partial Connections]]* takes Tyler’s [[ethnographic-evocation]] as starting point for Part I: ethnography as connection rather than representation of an independent object. Strathern argues the program **does not go far enough** for comparative anthropology — Tyler’s therapeutic departure-and-return still centers an integrating traveller/reader (hidden journey aesthetic); classical comparison’s scaffold is dismantled into text-referencing, but [[partial-connections]] / [[postplural]] comparison remains possible without holist units. PC acknowledgements list Tyler among commentators.
 
 ## Contributions
 

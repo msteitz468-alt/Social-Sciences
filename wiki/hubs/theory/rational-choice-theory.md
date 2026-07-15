@@ -205,7 +205,15 @@ markets and design the template for social order; Coleman's own Reflexivity conc
 the danger of "science in the service of the powerful." **Marx's reflexive
 paradox**, which Coleman levels at his rival, has been turned back on him: a theory
 that dissolves the social into individual exchange may itself naturalize the market
-order it models.
+order it models. **The applied empirical record.** A challenge from the program's
+political-science wing rather than its sociological one: [[green-donald|Green]] and
+[[shapiro-ian|Shapiro]] (*[[green-shapiro-pathologies-1994|Pathologies of Rational
+Choice Theory]]*, 1994) argue the applied literature's apparent successes dissolve into
+[[method-driven-research|methodological pathologies]] and that empirical achievement has
+badly lagged theoretical elaboration — the opening move in the
+[[rational-choice-controversy-debate|rational choice controversy]]. The charge bears on
+Coleman's synthesis only insofar as it too seeks empirical purchase, but it sharpened
+the whole program's methodological self-consciousness.
 
 ## What Survived
 

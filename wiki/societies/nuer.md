@@ -5,17 +5,17 @@ region: [east-africa, sub-saharan-africa]
 language_affiliation: "Nuer (Thok Nath); Nilotic (Nilo-Saharan) — closely related to Dinka"
 subsistence_economy: pastoral
 kinship_system: "patrilineal (agnatic) segmentary lineages; exogamous clans; cattle bride-wealth (as documented by Evans-Pritchard, 1930s)"
-documented_by: ["[[evans-pritchard-nuer-study]]", "[[radcliffe-brown-forde-african-systems-kinship-marriage-study]]"]
-documentation_dates: "1930–1936 fieldwork (Evans-Pritchard); described as of the 1930s; ASKAM local-community kinship chapter uses chiefly 1931, 1935, 1936 among Lou, Leek, eastern Jikany"
+documented_by: ["[[evans-pritchard-nuer-study]]", "[[evans-pritchard-kinship-marriage-nuer-study]]", "[[evans-pritchard-nuer-religion-study]]", "[[radcliffe-brown-forde-african-systems-kinship-marriage-study]]"]
+documentation_dates: "1930–1936 fieldwork (Evans-Pritchard); described as of the 1930s; Kinship and Marriage (1951) and Nuer Religion (1956) rest on that base; ASKAM local-community kinship chapter uses chiefly 1931, 1935, 1936 among Lou, Leek, eastern Jikany"
 endonym_exonym_note: "Endonym *Nath* ('people'; sing. *ran*); *Nuer* is the exonym adopted in the literature. Their country: *Nuerland*."
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [society, east-africa, sub-saharan-africa]
 ---
 
 # Nuer
 
-> Documented by [[evans-pritchard-nuer-study|Evans-Pritchard, *The Nuer* (1940)]]; source [[evans-pritchard-nuer-1940]]. **As of the 1930s** — written in the past tense of Evans-Pritchard's fieldwork moment; the 1940 text also predates the domestic-life volume (*Kinship and Marriage among the Nuer*, 1951) and *Nuer Religion* (1956), neither ingested.
+> Documented by [[evans-pritchard-nuer-study|Evans-Pritchard, *The Nuer* (1940)]]; source [[evans-pritchard-nuer-1940]]. **As of the 1930s** — written in the past tense of Evans-Pritchard's fieldwork moment. Domestic/kinship volume now primary-ingested: *[[evans-pritchard-kinship-marriage-nuer-1951|Kinship and Marriage among the Nuer]]* (1951; study [[evans-pritchard-kinship-marriage-nuer-study]]). Religion: *[[evans-pritchard-nuer-religion-1956|Nuer Religion]]* (1956).
 
 ## Overview
 
@@ -51,7 +51,17 @@ Evans-Pritchard distinguished lineage relations from kin relations: lineages wer
 
 Nuer themselves clearly distinguished: **buth** for agnatic kinship between collateral lineages — kinship between groups and between individuals only in virtue of group membership; **mar** for any and every kinship relationship between persons — all persons with whom a man acknowledged any kinship were *mar* to him (*teke mar*, “they have kinship”). *Mar* classed paternal and maternal kin together as kindred; sometimes long-established affinal relations as well. When does interpersonal *mar* become inter-group *buth*? A Nuer historical explanation: after people scattered, brother and son went raiding and settled where they raided — “Then kinship ceased (*ce mar thuk*) and there remained only a lineage relationship (*ce dwoth ni buth*).” In Evans-Pritchard’s experience Nuer did not generally speak of lineages till four or five generations back in patrilineal ascent; he endorsed not speaking of lineages before at least the third generation in ascent. *Buth* means “to share,” much used of division of sacrificial meat at wedding and mortuary ceremonies and of elephant-tusk claims; groups without *buth* had *rul* between them — “strangers.”
 
-This ASKAM chapter thus fills the micro-structure of the village/camp that *The Nuer* presupposed: **local community as dense kinship network**, organized around dispersed agnatic nuclei, cognatic *mar*, and seasonal recomposition of camps — without rehashing the full marriage-and-bridewealth system already treated elsewhere.
+This ASKAM chapter thus fills the micro-structure of the village/camp that *The Nuer* presupposed: **local community as dense kinship network**, organized around dispersed agnatic nuclei, cognatic *mar*, and seasonal recomposition of camps — without rehashing the full marriage-and-bridewealth system treated in the 1951 monograph.
+
+### Marriage, family forms, and kinship system (1951 monograph)
+
+> Primary densification from *[[evans-pritchard-kinship-marriage-nuer-1951|Kinship and Marriage among the Nuer]]* (1951). Study: [[evans-pritchard-kinship-marriage-nuer-study]]; hub: [[hubs/studies/evans-pritchard-kinship-marriage-nuer-study]]. **Past tense of 1930s documentation.**
+
+*(Attributed — Evans-Pritchard 1951.)* The kinship network within any Nuer community could ultimately be reduced to a **series of marriage unions**. **Bridewealth** (historical ideal ~**40** cattle; usual ~**20–30** after rinderpest and colonial constraint on raiding; floor ~**16**) plus nuptial rites created **simple legal marriage**, incomplete until birth of a child; children were “children of the cattle,” so **pater** was the man **in whose name** cattle were paid, whether genitor or not.
+
+**Union forms** (approximating the simple legal standard): polygynous complexes; **[[ghost-marriage]]** (kinsman marries a wife *to the name of* a dead man without male heirs — legal husband = the ghost; *ciekjooka* / *gaatjooka*; estimated almost as numerous as simple legal marriages); **[[levirate]]** (widow remains dead husband’s wife; brother is pro-husband into an existing family — Nuer refused *kwen* “to marry” for this; not widow inheritance as new marriage); widow-concubinage (lover not of husband’s kin); unmarried concubinage; **woman-marriage** (woman as pater of another woman’s children).
+
+**Prohibitions:** wide cognatic/affinal *rual* range, clan exogamy, age-set daughter ban. **Family/kinship:** dual pull of father’s lineage vs mother’s people; “bulls” (*tut*) vs *gaatnyiet*; kinship as elastic band of contacts; kinship and political systems interconsistent but not identical.
 
 ## Economy and Subsistence
 
@@ -61,7 +71,23 @@ Cattle were the medium of bride-wealth and blood-wealth, of ritual and sacrifice
 
 ## Belief and Ritual
 
-The 1940 monograph reserved religion for a later volume (*Nuer Religion*, 1956, not ingested), but recorded the ritual scaffolding of politics. The **[[leopard-skin-chief]]** (*kuaar muon*) was a sacred mediator "without political authority" who gave a homicide sanctuary, incised his arm (the rite *hir*, "the mark of Cain"), and negotiated compensation — "a mediator in a specific social situation," not a judge. Cattle were dedicated to lineage and personal spirits and to ghosts of the dead; contact was made by rubbing ashes along a beast's back or by sacrifice. Evans-Pritchard treated the **prophets** (*guk*) — notably **Ngundeng** (d. 1906) and his son **Gwek** (killed by Government forces, 1928, his earthen pyramid destroyed the same year), and **Dengleaka/Diu** — as a *recent* development (c. 50–60 years old), linked to Mahdist and colonial intrusion, who "for the first time" partly symbolized tribal unity and cross-tribal raiding federation; he judged their power "exaggerated" and effective personal rule "impossible" given segmentary hostility.
+The 1940 monograph reserved religion for a later volume (*Nuer Religion*, 1956, now ingested — see [[evans-pritchard-nuer-religion-1956]]), but recorded the ritual scaffolding of politics. The **[[leopard-skin-chief]]** (*kuaar muon*) was a sacred mediator "without political authority" who gave a homicide sanctuary, incised his arm (the rite *hir*, "the mark of Cain"), and negotiated compensation — "a mediator in a specific social situation," not a judge. Cattle were dedicated to lineage and personal spirits and to ghosts of the dead; contact was made by rubbing ashes along a beast's back or by sacrifice. Evans-Pritchard treated the **prophets** (*guk*) — notably **Ngundeng** (d. 1906) and his son **Gwek** (killed by Government forces, 1928, his earthen pyramid destroyed the same year), and **Dengleaka/Diu** — as a *recent* development (c. 50–60 years old), linked to Mahdist and colonial intrusion, who "for the first time" partly symbolized tribal unity and cross-tribal raiding federation; he judged their power "exaggerated" and effective personal rule "impossible" given segmentary hostility.
+
+### *Nuer Religion* (1956)
+
+> Added from [[evans-pritchard-e-e|Evans-Pritchard]]'s *[[evans-pritchard-nuer-religion-1956|Nuer Religion]]* (1956; fieldwork 1930–36, a year within the trilogy's overall period specifically devoted to religion). All claims below are dated to that fieldwork window unless otherwise noted; the volume itself was written twenty years later, with post-fieldwork verification by named colleagues (Lienhardt, Mary Smith, Howell) folded in.
+
+Evans-Pritchard organized Nuer religious thought around a single conception of Spirit, **kwoth**, understood as one but "refracted" by the social structure into a hierarchy of manifestations — God (universal) down through spirits of the air (patrons of prophets and political leaders), colwic and totemic spirits (patrons of lineages and families), to nature sprites and fetishes (patrons of individuals); see [[kwoth]] and [[spiritual-refraction]] for the concept in detail. As of the 1930s, Nuer moral-religious life turned on **thek** ("respect")/interdiction rather than ritual purity: breaches of major respect rules were **nueer** ("sin"), graver than the merely shameful **puc**; **dueri** covered faults generally. Incest (**rual**) and adultery (**kor**, a term Nuer themselves told Evans-Pritchard was borrowed from the Dinka) produced **pollution**, conceived as substantival and contagious by contact (**dop**) rather than purely social, remedied by sacrifice scaled to the offense's gravity. Evans-Pritchard stressed Nuer did not moralize *inadvertent* breaches — culpability required knowledge.
+
+At death the person was reported to disintegrate into **ring** (flesh, buried), **yiegh** (breath/life, shared with all creatures, departing to God), and **tie** (soul/rational faculty, roughly Evans-Pritchard's gloss "anima," the seat of personhood). The **ghost** (**joagh**) was terminologically distinct from the soul and occupied a subordinate place — no cult of the dead, unmarked graves, no dedicated sacrifice. Evans-Pritchard reported that Nuer secured the *social* immortality of a man's name, rather than any cult of his ghost, chiefly through the **levirate** and **ghost-marriage**, institutions he cross-referenced to his own *Kinship and Marriage among the Nuer* (1951).
+
+**Sacrifice** was, on Evans-Pritchard's account, the central rite of Nuer religion, and cattle (or sheep/goats, or in extremity a cucumber, ritually treated as an equivalent) were "not to be slaughtered except in sacrifice" — he reported being unable to buy meat from Nuer for his own household on this ground. Documented exceptions were three dated famines: the Lou Nuer in 1931 ("year of great hunger"), western Nuerland in 1935, and the Zeraf valley in 1943 (the last per P. P. Howell, after Evans-Pritchard's own fieldwork). Evans-Pritchard distinguished personal/piacular sacrifice (individual danger or misfortune) from collective/confirmatory sacrifice (rites of passage validating a change of social status), reporting both as directed ultimately to God even when addressed to a lesser spirit.
+
+Adult men bore **ox-names** taken from their initiation ox's markings, and Evans-Pritchard reported (attributed to his teacher C. G. Seligman's earlier term, which he explicitly redefined as a *moral*, not psychological, claim) a cultural "identification" of man and ox rather than a literal or psychological one — "there is... no evidence at all that cattle are venerated or in themselves are in any way regarded as guardian spirits," a corrective aimed at earlier writers (Marno, Jackson, Wilson, Westermann) who had used veneration-language of Nuer cattle.
+
+Evans-Pritchard described **prophets** (**gwan kwoth**, "possessor of Spirit") as a recent development — by Nuer testimony, nonexistent before roughly the late nineteenth century — distinct from the hereditary leopard-skin priesthood, and tied their emergence to Nuer expansion, Mahdist pressure, and Anglo-Egyptian conquest. He named **Ngundeng** (d. 1906) as the first prophet to achieve fame and his son **Gwek**, who completed a large earthen cult mound; Gwek was killed and the mound destroyed by British "high explosive" in a 1928 punitive expedition. Evans-Pritchard reported that by the start of his own fieldwork, Government suppression of the prophetic movement was already advanced — Gwek shot, the prophet Dwal imprisoned, the prophet Car imprisoned (Evans-Pritchard declined an offer to visit them there), the prophet Buom banished — and that colonial officials habitually mislabeled prophets "magicians," "witchdoctors," and "reactionary upstarts," a framing he stated explicitly was administrative rather than Nuer. He also recorded the Government's confiscation of the Gaatgankir clan's sacred *wiu* spear, after which, per Dinka report relayed by Lienhardt, the associated spirit was said to have "manifested itself all over the tribal territory."
+
+Christian mission conversion was reported as negligible: as of 1940 (four years after Evans-Pritchard's fieldwork concluded), 464 Christian Nuer (250 Catholic, 214 Protestant) were recorded against a population of roughly 200,000 — "easily the lowest figure for any of the major peoples of the Southern Sudan." Missions active in the area included the American Presbyterian mission at Nasser (1913), the Catholic mission at Yoahnyang (1929), and Anglican missions at Ler (1932) and Juaibor (1936).
 
 ## Documentation History
 
@@ -70,7 +96,7 @@ The record rests almost entirely on Evans-Pritchard's fieldwork of 1930–1936: 
 
 Also condensed by Evans-Pritchard as the Nuer chapter of *[[fortes-evans-pritchard-african-political-systems-1940|African Political Systems]]* (1940), placed as extreme [[group-a-group-b-political-systems|Group B]] type — [[fortes-evans-pritchard-african-political-systems-study]].
 
-Local-community kinship detail is from the ASKAM 1950 essay (source [[radcliffe-brown-forde-african-systems-kinship-marriage-1950]]), which cites *The Nuer* throughout and deliberately skips full marriage exposition.
+Local-community kinship detail is from the ASKAM 1950 essay (source [[radcliffe-brown-forde-african-systems-kinship-marriage-1950]]), which cites *The Nuer* throughout and deliberately skips full marriage exposition — now supplied by *[[evans-pritchard-kinship-marriage-nuer-1951|Kinship and Marriage among the Nuer]]* (1951).
 
 ## Representation Debates
 

@@ -7,9 +7,9 @@ disciplines: [sociology]
 emic_or_etic: etic
 operationalized_as: "Not quantified by Durkheim; later work uses crowd/ritual arousal, synchronized movement, and shared emotion measures"
 contested: no
-related_concepts: ["[[sacred-and-profane]]", "[[totemism]]", "[[collective-representations]]", "[[collective-conscience]]", "[[social-integration]]"]
-sources_ingested: 1
-last_updated: 2026-07-08
+related_concepts: ["[[sacred-and-profane]]", "[[totemism]]", "[[collective-representations]]", "[[collective-conscience]]", "[[social-integration]]", "[[interaction-ritual]]", "[[emotional-energy]]", "[[interaction-ritual-chains]]"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -26,10 +26,11 @@ In *[[durkheim-elementary-forms-1912|The Elementary Forms of Religious Life]]* (
 | Durkheim 1912 | Ritual assembly produces heightened collective emotion and the experience of sacred force; society "creates" the gods in these moments |
 | Later sociology of religion / ritual studies | Standard term for emotional amplification in crowds, festivals, political rallies, and worship |
 | Cultural sociology / social movements | Extended to secular assemblies (reception not yet ingested) |
+| Collins 2004 (*[[collins-interaction-ritual-chains-2004|IRC]]*) | Re-specified as the intense shared-emotion phase of [[interaction-ritual|interaction ritual]] (mutual focus + entrainment); outcome long-term residue is individual [[emotional-energy|emotional energy]], not only group sacredness. Local, stratified, conflictual memberships — not global moral integration of whole societies |
 
 ## Operationalizations
 
-Not measured by Durkheim. Later proxies: physiological synchrony, self-report awe, crowd density × shared focus, ritual frequency.
+Not measured by Durkheim. Later proxies: physiological synchrony, self-report awe, crowd density × shared focus, ritual frequency. Collins (2004) treats collective effervescence as process intensity within the IR model and proposes multi-channel measures for the related EE continuum (see [[emotional-energy]]).
 
 ## Applications
 
@@ -46,5 +47,6 @@ Not measured by Durkheim. Later proxies: physiological synchrony, self-report aw
 ## Links
 
 - Source/study: [[durkheim-elementary-forms-1912]] · [[durkheim-elementary-forms-study]]
-- Related: [[sacred-and-profane]] · [[totemism]] · [[collective-representations]]
-- Thinker: [[durkheim-emile]]
+- Collins reworking: [[collins-interaction-ritual-chains-2004]] · [[interaction-ritual-chains]] · [[hubs/theory/interaction-ritual-chains]]
+- Related: [[sacred-and-profane]] · [[totemism]] · [[collective-representations]] · [[interaction-ritual]] · [[emotional-energy]]
+- Thinker: [[durkheim-emile]] · [[collins-randall]]

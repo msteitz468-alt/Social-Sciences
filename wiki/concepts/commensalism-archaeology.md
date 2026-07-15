@@ -8,7 +8,7 @@ emic_or_etic: etic
 operationalized_as: "Presence/abundance of house mice, sparrows, dogs, and other human-associated species as proxy for sedentism and occupation intensity"
 contested: yes
 related_concepts: ["[[sedentism]]", "[[natufian-culture]]", "[[domestication]]"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [concept, archaeology, zooarchaeology]
 ---
@@ -35,3 +35,11 @@ Micromammal taphonomy (distinguishing cultural vs natural deposition — Weissbr
 ## Critiques and Limitations
 
 Commensals can enter sites without year-round occupation; taphonomy is decisive; equating Natufian with the *origin* of commensalism overstates a single period. Keep findings attributed and method-bound.
+
+## Barker 2006 (*Agricultural Revolution in Prehistory*)
+
+*(Attributed — [[barker-graeme|Graeme Barker]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006, Chs. 4–5.)*
+
+- **Natufian multi-seasonality proxy.** Barker reports commensal house mouse, sparrow, and rat at Hayonim as evidence for multi-seasonal (possibly year-round) occupation among Early Natufian corridor settlements — a settlement-duration signal, not proof of farming (attributed). Pairs with cementum-band seasonality and storage arguments at [[abu-hureyra]].
+- **Ganga valley foragers.** Among increasingly sedentary early Holocene hunter-fisher-gatherers of the central Ganga (Damdama, Mahagara, Sarai-Nahar-Rai), Barker notes the bandicoot rat as a **commensal** presence alongside multi-season base camps, cemeteries, and possible small-scale horticulture/herding — again a niche-anthropogenic signal co-occurring with sedentism, not a domestication criterion by itself (attributed).
+- **Method caution retained.** Commensals mark anthropogenic niches and prolonged site use; they do not sort foragers from farmers and require taphonomic control. Cross-links: [[natufian-culture]], [[sedentism]], [[abu-hureyra]], [[barker-graeme]].

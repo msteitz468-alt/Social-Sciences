@@ -78,6 +78,25 @@ The program was forged by an immigrant Jewish scientist against European and Ame
 - Concepts: [[cultural-relativism]] · [[culture]] · [[race]] · [[psychic-unity-of-mankind]] · [[sib]] · [[shreds-and-patches]] · [[superorganic]] · [[stimulus-diffusion]] · [[culture-pattern]] · [[acculturation]] · [[culture-area]] · [[culture-type]] · [[emic-and-etic]]
 - Method: [[comparative-method]] · Discipline: [[anthropology]]
 
+## From Stocking, *Race, Culture, and Evolution* (1968)
+
+*(Attributed — [[stocking-george-w|Stocking]] 1968; source
+[[stocking-race-culture-evolution-1968]], essays 9 and 11.)* Stocking supplies the standard
+account of the program's emergence. Boas's "new historical method" — "the careful and slow
+detailed study of local phenomena" within a "well-defined, small geographical area," from
+which "histories of the cultures of diverse tribes" could be built and only later compared
+for laws — was formulated in his 1887 museum-classification dispute with Mason and Powell
+("In ethnology, all is individuality") and his 1896 "Limitations of the Comparative Method."
+Stocking stresses that this program produced the "strong antievolutionary bias" of the next
+half-century of American anthropology, and that its intellectual work (essay 9) and its
+institutional victory over the 1917–1920 hereditarian reaction (essay 11) together
+accomplished what he calls the **emancipation of the social from the biological sciences** —
+the anthropological [[culture]] concept becoming a non-biological substitute for "race
+temperament," coherent only once [[lamarckian-inheritance|Lamarckianism]] was rejected. He
+defends Boas against [[white-leslie-a|Leslie White]]'s charge that the critique left only a
+"chaos of beliefs and customs," arguing the shift of attention to cultural plurality was
+itself the substantive achievement.
+
 ## From Kuper, *Invention of Primitive Society* (1988)
 
 *(Attributed — Kuper 1988, Ch. 7.)* Boasian historical particularism is framed as the American theatre of a German ethnological challenge to Anglo-American evolutionism. Kuper stresses institutional confrontation (Columbia vs Smithsonian/BAE), student program (salvage + root out evolutionism), and the irony that cogent critique did not replace the [[primitive-society]] object with a durable alternative social model — leaving space for later lineage and neo-evolutionary returns. Source: [[kuper-invention-of-primitive-society-1988]].

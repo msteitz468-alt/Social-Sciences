@@ -5,10 +5,10 @@ region: ['southern-africa', 'sub-saharan-africa']
 language_affiliation: "siSwati (Nguni Bantu cluster; as of Kuper; amalgamation of Nguni and Sotho clans)"
 subsistence_economy: mixed
 kinship_system: "patrilineal clans (*isidongo*); shallow lineages without interlinked segmentary structure; *ukulobola* marriage-cattle; rare divorce; levirate and sororate (as of Kuper, ~1940s–1950)"
-documented_by: ["[[radcliffe-brown-forde-african-systems-kinship-marriage-study]]", "[[kuper-hilda]]", "[[flannery-marcus-creation-inequality-2012|Flannery & Marcus 2012 (comparative synthesis)]]"]
+documented_by: ["[[radcliffe-brown-forde-african-systems-kinship-marriage-study]]", "[[kuper-hilda]]", "[[flannery-marcus-creation-inequality-2012|Flannery & Marcus 2012 (comparative synthesis)]]", "[[gluckman-order-and-rebellion-1963]]"]
 documentation_dates: "Swazi kingdom under Sobhuza II; Kuper ASKAM essay 1950; fieldwork/publication horizon ~1940s–1950 (exact multi-year field dates not stated in the chapter; *An African Aristocracy* 1947 and marriage-ritual article 1945 as companion works)"
 endonym_exonym_note: "Swazi (people of the Swazi kingdom / Swaziland); clans identified by *isidongo* (clan name). Ruling aristocracy of conquering Nguni Nkosi Dlamini; amalgamated Nguni and Sotho clans."
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [society, southern-africa, sub-saharan-africa]
 ---
@@ -62,6 +62,14 @@ Swazi practised the [[levirate]] and the sororate. On a man’s death, younger f
 ### Rank and political interlocking
 
 Kuper held an essay on Swazi kinship incomplete without rank: kinship, like all Swazi behaviour, was characterized by the importance of rank by birth. The king’s mother was married with cattle provided by representative sections of the people, making the king “child of the country”; similarly district chiefs had *emabeka* of main wives contributed by subjects. Women of the ruling clan—especially sisters and daughters of the king—outranked *ugogo* wives in heir selection and were sent as wives to important chiefs, spreading the aristocratic network. Closing thesis of the essay: kinship and political structure were closely interlocked.
+
+### The *incwala* as ritual of rebellion (Gluckman, *Order and Rebellion in Tribal Africa*, 1963)
+
+*(Attributed — [[gluckman-max|Gluckman]], synthesizing [[kuper-hilda|Hilda Kuper]]'s account of the Swazi *incwala* in *An African Aristocracy*, 1947, for his 1952 Frazer Lecture "Rituals of Rebellion in South-East Africa," published 1954.)* Gluckman treated Kuper's description of the national first-fruits/kingship ceremony as the primary model for his [[ritual-of-rebellion|rituals-of-rebellion]] thesis: a "little ceremony" (dark moon) and "great ceremony" (full moon) roughly two weeks apart, in which "Priests of the Sea" fetched sea and river water and forest medicines, a black bull stolen from a commoner was ritually killed, and regiments chanted songs of hatred and rejection of the king ("You hate the child king," "King, they hate thee") alternating with songs of triumph and loyalty. The king underwent seclusion, medicinal treatment, and on the culminating day a frenzied "Silo" (wild monster) dance in grass and animal-skin costume, before a ritual gourd-casting and burning of ceremonial items gave way to feasting and licence. Kuper (*An African Aristocracy*, 1947, p.88) stressed that rivals for succession aimed only to change the ceremony's personnel, never the political system itself. Only the reigning king, never a prince, could stage the *incwala*; historical cases of rival princely ceremonies were treated as treason and suppressed by national armies.
+
+Gluckman's reading (attributed, contested by other scholars — see [[functionalism-and-social-change-debate]]): the songs of hate dramatize a real structural rivalry — princes are latent threats to the king by virtue of their position, whether or not personal hatred exists — while simultaneously reinforcing loyalty to the institution of kingship; "a rebellion paradoxically supports the kingship" because a legitimate pretender must himself be a royal-clan member. Kuper's own informants gave multiple native exegeses of the hate-songs (as directed against non-participants/rebels, as sympathy for the king's inherently enemy-provoking position, and as magical preventives against harm) which Gluckman recorded as coexisting native positions rather than adjudicating among them. He noted the Swazi kingship structurally combined this male ritual complex with a **dual-monarchy element**, rule split between the king and a separate capital ruled by the queen-mother. Monica Wilson's rival reading of comparable Nyakyusa/Ngonde rites as ritualized "confession" rather than "rebellion" (Frazer Lecture 1959) is a live methodological dispute over how to interpret this class of ceremony; Gluckman rejected the substitution as conflating the ritual's political function with its psychological content.
+
+[[kuper-hilda|Kuper]] separately produced an analysis of the intercalary position of the modern Swazi chief (*The Uniform of Colour*, 1947) — subordinate to colonial authority yet expected by his people to embody tradition — parallel to Gluckman's own Zulu chief/Native Commissioner analysis; see [[intercalary-role]].
 
 ## Economy and Subsistence
 

@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Period of open conflict in which the purpose, positions, rules, and frames of a strategic action field are actively contested; may end in re-settlement, transformation, or field collapse"
 contested: no
 related_concepts: ["[[strategic-action-field]]", "[[field-settlement]]", "[[repertoire-of-contention]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -23,7 +23,7 @@ In *[[fligstein-mcadam-theory-of-fields-2012|A Theory of Fields]]*, field dynami
 
 ## Semantic History
 
-Borrowed and generalized from social-movement studies (political opportunities, framing, protest cycles) into a language that also covers firm and market crises. *Dynamics of Contention* (McAdam, Tarrow, Tilly 2001) is a sibling vocabulary — not yet ingested as primary source in this vault.
+Borrowed and generalized from social-movement studies (political opportunities, framing, protest cycles) into a language that also covers firm and market crises. *[[mcadam-tarrow-tilly-dynamics-of-contention-2001|Dynamics of Contention]]* (McAdam, Tarrow, Tilly 2001) is the primary sibling vocabulary: episodes are continuous streams of contention that always involve two or more processes; analysis scans episodes for mechanisms rather than matching whole episodes to general models. DOC ingested.
 
 ## Operationalizations
 
@@ -36,3 +36,7 @@ Civil rights movement and transformation of U.S. racial-politics fields (Ch. 5);
 ## Critiques and Limitations
 
 Episode boundaries can be researcher-imposed; "exogenous shock" risks redescription without mechanism unless inter-field linkages are specified (the theory's own demand).
+
+## From *Dynamics of Contention* (2001)
+
+*(Attributed — MTT.)* Episodes = continuous streams of contention including collective claims-making that bears on other parties' interests; they are unique sequences of alterations in relations among connected elements, always involving two or more processes (e.g. Paris July 1789: mobilization, identity shift, polarization). Beginnings/endings are observers' conventions. Fifteen major episodes organize the book's comparisons. Source: [[mcadam-tarrow-tilly-dynamics-of-contention-2001]]; theory [[contentious-politics-theory]].

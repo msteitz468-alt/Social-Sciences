@@ -8,7 +8,7 @@ emic_or_etic: etic
 operationalized_as: The physical objects, structures, and modified environments through which social life is conducted and studied
 contested: yes
 related_concepts: [archaeological-record, agency, ethnographic-analogy, ideology, logic-of-contingency]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-07-10
 tags: [concept]
 ---
@@ -44,6 +44,10 @@ human–thing relation.
 Ethnoarchaeology and **[[ethnoarchaeology|material culture studies]]**; contextual
 archaeology; studies of style, exchange, consumption, and identity; the archaeology
 of the recent and contemporary past.
+
+### Deetz 1996 — historical archaeology as American material culture
+
+*(Attributed — [[deetz-james|Deetz]], *[[deetz-in-small-things-forgotten-1996|In Small Things Forgotten]]*, 1996.)* Deetz defines material culture broadly as that sector of the physical environment modified by culturally determined behavior (including cut landscapes, not only portable artifacts). He links material form to **cognition / worldview** (challenge to purely adaptive processual tenets) and treats HA as American material culture in historical perspective. Multi-domain program: ceramics, houses, gravestones, refuse, furniture, music. African American material culture read via **[[creolization]]** (rules of combination may be African American even when artifacts are Anglo-made). Closing claim: material culture is the most objective/immediate historical source because it was not written to persuade posterity. Intellectual debt to [[glassie-henry|Glassie]] made explicit.
 
 ## Critiques and Limitations
 

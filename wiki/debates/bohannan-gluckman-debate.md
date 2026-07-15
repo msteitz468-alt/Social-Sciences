@@ -6,9 +6,9 @@ era: [postwar-expansion, critical-turn]
 positions:
   - "Bohannan: an ethnographer must first render a people's own folk system of jural categories (the Tiv jir, injô/debt) in its own terms; Western 'law' is itself a folk system, not a neutral analytical science, and imposing its categories distorts the material. Comparative categories must be built up out of ethnographic inquiry (Boasian route), not defined first and then applied (Tylorian route)."
   - "Gluckman: legal systems can and must be compared through refined jurisprudential concepts (law, the 'reasonable man', tort, etc.), which are analytical tools of general use; describing a system purely in its own terms yields 'cultural solipsism' and makes the material unusable for comparison."
-key_texts: ["Bohannan, Justice and Judgment Among the Tiv (1957; 2nd preface 1968)", "Gluckman, The Judicial Process among the Barotse of Northern Rhodesia (1955)", "Bohannan, review of Gluckman's The Ideas in Barotse Jurisprudence (Kroeber Anthropological Papers, 1969)", "Nader (ed.), The Ethnography of Law / Law in Culture and Society (1965/1969)"]
+key_texts: ["Bohannan, Justice and Judgment Among the Tiv (1957; 2nd preface 1968)", "Gluckman, The Judicial Process among the Barotse of Northern Rhodesia (1955)", "Gluckman, Politics, Law and Ritual in Tribal Society (1965), Ch. V", "Bohannan, review of Gluckman's The Ideas in Barotse Jurisprudence (Kroeber Anthropological Papers, 1969)", "Nader (ed.), The Ethnography of Law / Law in Culture and Society (1965/1969)"]
 resolution_status: open
-last_updated: 2026-07-09
+last_updated: 2026-07-10
 tags: [debate]
 ---
 
@@ -47,6 +47,17 @@ functionalism]]. They divide on whether comparison should **begin** from indigen
 categories and build outward (Bohannan) or from a refined common vocabulary applied to each
 case (Gluckman) — and on whether "law" names a comparable universal or a Western folk
 category.
+
+## Gluckman’s 1965 restatement (*Politics, Law and Ritual*, Ch. V)
+
+*(Attributed — *[[gluckman-politics-law-ritual-1965|Politics, Law and Ritual in Tribal Society]]*, 1965.)* The textbook chapter “Dispute and Settlement” embeds the debate in a broader **pluralist vocabulary of social control**:
+
+- **No single “strict sense” of law.** Controversies that assume “law” has one meaning are sterile; important social-phenomena words have multiple referents. Gluckman prefers saying societies with binding rules of right conduct, mostly observed and penalized if not, **have law** (even without courts) rather than “no law” — while still specializing a hierarchy of words (litigation, adjudication, mediation, custom, sanctions) for different facts.
+- **Against cultural solipsism.** Bohannan (and others) treat Western jurisprudential vocabulary as a **[[folk-system-and-analytical-system|folk-system]]** illegitimately raised to analytical status; Gluckman replies that if that were correct, comparison would require inventing a whole non-national technical language — a stultifying program. He rejects reading Bohannan’s Tiv *jir* ideal of concurrence as proof that Tiv process is incomparable to adjudication: judges *do* decide against recalcitrants in Bohannan’s own cases.
+- **Adjudication vs mediation.** Gluckman treats **adjudication** (evidence → facts → decision for one party in courted societies) and **mediation**/adjuster processes (including Lovedu *khoro*, Tiv *jir*, Eskimo song-contests as a distinct genus) as separable problems that need not all be collapsed under one definition of “law.”
+- **Malinowski vs Radcliffe-Brown “theories of law”** were largely terminological: each applied the word to a different set of facts (reciprocity/right–duty vs sanctioned force of political society).
+
+This restatement does not close the debate; it is Gluckman’s mid-career public position for teaching and comparison. Barotse judicial monographs remain the primary empirical base for his side.
 
 ## Bohannan's later reply
 

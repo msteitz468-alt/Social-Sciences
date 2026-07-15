@@ -7,8 +7,8 @@ date_introduced: "1973 (Geertz, Interpretation of Cultures Ch.1; Ryle earlier)"
 supersedes: ["[[unknown]]"]
 epistemic_leverage: "Recovers stratified meanings of action for participants; distinguishes wink from twitch and parody — questions thin behavioral description cannot answer"
 key_limitations: ["interpretive under-determination", "risk of over-coherence", "weak causal identification of culture-as-variable", "observer positionality"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [method]
 ---
 
@@ -35,6 +35,8 @@ Meanings are public enough to recover; culture is context not causal “power”
 ## History
 
 Ryle → Geertz 1973 → keyword across qualitative social science; often diluted to “rich description” without semiotic theory.
+
+**"Thick and thin" (Marcus 1997, attributed):** [[marcus-george-e|Marcus]]'s "Sticking with Ethnography through Thick and Thin" (*[[marcus-ethnography-thick-and-thin-1998|Ethnography Through Thick and Thin]]*) plays the Geertzian depth ideal against [[multi-sited-ethnography|multi-sited]] "thinness" (dispersed, less locally saturated fieldwork), arguing nothing has displaced ethnography as anthropology's key practice even as second projects trade single-site thickness for cross-site tracing; Clifford's counter (reported by Marcus) is that "depth" is the heart of the discipline's professional self-conception. (The title's link to Geertz's term is Marcus's wordplay — he does not cite "thick description" verbatim there.)
 
 ## Exemplary Applications
 

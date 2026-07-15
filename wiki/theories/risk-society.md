@@ -11,7 +11,7 @@ developed_from: ["[[modernization-theory]]"]
 competes_with: ["[[modernization-theory]]"]
 status: active
 sources_ingested: 1
-last_updated: 2026-07-09
+last_updated: 2026-07-10
 tags: [theory, sociology]
 ---
 
@@ -40,6 +40,7 @@ Beck positioned the theory against **theories of "simple" (linear) [[modernizati
 |---|---|---|
 | [[beck-risk-society-1986]] — *Risikogesellschaft* (Beck) | 1986 | Founding statement of the risk-society and reflexive-modernization theses |
 | *Ecological Politics in an Age of Risk* (Beck) | 1988 | Extends the political theory of risk |
+| *[[giddens-consequences-of-modernity-1990|The Consequences of Modernity]]* (Giddens) | 1990 | Parallel Giddens modernity/risk/trust program; engages Beck ("Chernobyl is everywhere"); [[high-consequence-risks]], [[juggernaut-of-modernity]], [[radicalised-modernity]] — sibling not derivative |
 | *Reflexive Modernization* (Beck, [[giddens-anthony]], Lash) | 1994 | Consolidates the shared research program |
 | *World Risk Society* (Beck) | 1999 | Globalizes and updates the thesis |
 

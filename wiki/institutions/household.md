@@ -5,8 +5,8 @@ distribution: universal
 key_variants: ["simple household (married couple + offspring)", "expanded household (simple + unmarried siblings/widowed mother)", "multiple-family household (two+ conjugal units co-resident)", "great household / institutional estate (temple, palace)"]
 theorized_by: ["[[postgate-early-mesopotamia-1994|Postgate 1994]]", "[[insoll-timothy|Insoll 1999]] (Muslim domestic environment)"]
 key_studies: ["[[unknown]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [institution]
 ---
 
@@ -49,6 +49,8 @@ concubines (with children) form a "triangular" conjugal unit within an otherwise
 simple or expanded household rather than constituting a second conjugal family.
 
 ## Cross-Cultural Variation
+
+**Achuar forest domestic unit (Descola 1986/1994).** In *[[descola-in-the-society-of-nature-1994|In the Society of Nature]]*, each isolated [[achuar]] house is an autonomous center of production and consumption and the analytic pole of the **socialization of nature** — propitiation needs no outside mediator; ~80–90% of daily time is spent at the house; the endogamous nexus (10–15 households) is the supralocal frame without dissolving domestic autarky (attributed — [[descola-society-of-nature-study]]). Complements Laslett/Postgate co-residence definitions with a low-density Amazonian case where the household is simultaneously economic, residential, and cosmological unit.
 
 **Urban–rural contrast.** Postgate argues co-resident multiple/extended-family
 households were more a feature of rural than of urban life: urban space scarcity,

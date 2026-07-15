@@ -7,9 +7,9 @@ disciplines: [anthropology]
 emic_or_etic: etic
 operationalized_as: "Person as composite of relations / generalized sociality within; not only a bounded individual prior to society; dividual androgyne can be rendered individual vis-à-vis a counterpart"
 contested: yes
-related_concepts: ["[[individualism]]", "[[gift-exchange]]", "[[mediated-unmediated-exchange]]", "[[gender-of-the-gift]]", "[[agency]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[partial-connections]]", "[[fractal-person]]", "[[individualism]]", "[[gift-exchange]]", "[[mediated-unmediated-exchange]]", "[[gender-of-the-gift]]", "[[agency]]"]
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -43,3 +43,11 @@ Load-bearing for [[strathern-gender-of-the-gift-study]]; Melanesian personhood; 
 ## Critiques and Limitations
 
 Etic construct; risk of reifying Melanesia as inverse of the West; contested when exported as universal alternative personhood. Always attribute and date-stamp to Strathern 1988 / Melanesian comparative synthesis.
+
+## Sahlins 2013 — dividual genealogy (Leenhardt / Bastide)
+
+*(Attributed — [[sahlins-marshall|Sahlins]], *[[sahlins-what-kinship-is-2013|What Kinship Is—And Is Not]]* 2013.)* Sahlins traces a genealogy of the person as node of participations (Leenhardt dual unities; Bastide) as *dividual avant la lettre* — kinship as manifold of intersubjective participations / network of mutualities — alongside Aristotle's "same entity in discrete subjects." Complements Strathern's Melanesian [[dividual]] without equating the traditions. Links: [[mutuality-of-being]] · [[personhood]] · [[strathern-marilyn]].
+
+## Link to *Partial Connections* (1991)
+
+*(Attributed — Strathern.)* *Gender of the Gift* partibility/dividuality is the personhood base; *[[strathern-partial-connections-1991|Partial Connections]]* extends the **method** of relating without wholes — persons as circuits of extensions cut from the same material (Melanesian cyborg vs Haraway’s hybrid materials); creative severance produces partial kinship visibility. Companion concept: [[fractal-person]] (Wagner). Study: [[strathern-partial-connections-study]].

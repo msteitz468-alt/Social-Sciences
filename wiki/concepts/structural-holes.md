@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "A relationship of non-redundancy between two contacts; measured (as its absence) by cohesion and structural equivalence, and aggregated via effective size, efficiency, and network constraint (see [[network-constraint]])"
 contested: yes
 related_concepts: ["[[network-constraint]]", "[[tertius-gaudens]]", "[[structural-holes-theory]]", "[[strength-of-weak-ties]]", "[[tie-strength]]", "[[social-capital-coleman]]", "[[bridging-social-capital]]", "[[embeddedness]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -66,7 +66,7 @@ tying the argument to the "forbidden triad," obscures both the true mechanism an
 the *control* benefits — "information benefits are expected to travel over all
 bridges, strong or weak." After 1992 "structural holes" became a standard concept
 in network sociology, organizational research, and the study of innovation and
-brokerage; Burt's own *Brokerage and Closure* (2005 — not yet ingested) later
+brokerage; Burt's own *[[burt-brokerage-and-closure-2005|Brokerage and Closure]]* (2005) later
 reframed holes and closure as complementary.
 
 ## Operationalizations
@@ -97,6 +97,9 @@ reframed holes and closure as complementary.
 - Related community-level cousin: Putnam's [[bridging-social-capital|bridging
   social capital]] (do not equate silently — Burt's holes are an ego-network
   structural position, not a group virtue).
+- **2005 synthesis** — holes as basis of [[vision-advantage|vision]] and good ideas;
+  paired with [[network-closure|closure]] under [[structural-autonomy]]; multi-sample
+  manager corroboration (*[[burt-brokerage-and-closure-2005|Brokerage and Closure]]*).
 
 ## Critiques and Limitations
 
@@ -107,9 +110,14 @@ reframed holes and closure as complementary.
 - **Closure vs. brokerage.** [[social-capital-coleman|Coleman]] argues the
   opposite structural prescription — dense, *closed* networks — is what generates
   trust, norms, and social capital; the two accounts prescribe contrary network
-  shapes (the [[closure-vs-brokerage-debate|central debate]]).
+  shapes. Burt 2005 reframes them as complementary ([[structural-autonomy]]) while
+  arguing closure’s [[bandwidth-echo|echo]] side deepens segregation (the
+  [[closure-vs-brokerage-debate|central debate]]).
 - **Presence is unobservable.** By Burt's own account a hole's presence has no
   certain indicator, only its absence — measurement infers holes from missing
   cohesion/equivalence.
 - **Causal order.** Whether holes cause outcomes or successful players acquire
-  hole-rich networks is not settled by the cross-sectional data (Burt's Appendix B).
+  hole-rich networks is not settled by the cross-sectional data (Burt's Appendix B;
+  2005 multi-sample work remains largely associational).
+- **Structural reproduction.** Even when brokerage is rewarded, closed clusters
+  may persist (supply-chain case, 2005 Ch. 5).

@@ -6,13 +6,13 @@ disciplines: [anthropology]
 era_origin: contemporary
 date_origin: 2005
 originated_by: ["[[descola-philippe|Philippe Descola]]"]
-key_texts: ["[[descola-beyond-nature-and-culture-2005|Beyond Nature and Culture (2005/2013)]]"]
+key_texts: ["[[descola-beyond-nature-and-culture-2005|Beyond Nature and Culture (2005/2013)]]", "[[descola-in-the-society-of-nature-1994|In the Society of Nature (1994; ethnographic base)]]"]
 core_claims: ["The nature/culture dualism is not a human universal but the local formula of naturalism", "Identification schematizes experience along two axes: interiority and physicality (continuity vs discontinuity)", "Four ontologies exhaust the combinatorial matrix: animism, totemism, analogism, naturalism", "Each ontology generates characteristic collectives and moralities", "Modes of relation (give, take, exchange, produce, protect, transmit) cross-cut modes of identification with compatibility constraints"]
-developed_from: ["[[structuralism]]", "Amazonian ethnography ([[achuar]])", "critique of [[nature-culture-distinction]]"]
+developed_from: ["[[structuralism]]", "Amazonian ethnography ([[achuar]]; [[descola-society-of-nature-study]])", "critique of [[nature-culture-distinction]]"]
 competes_with: ["universal [[nature-culture-distinction]]", "culturalism as residual category for non-Western cosmologies"]
 status: active
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [theory, anthropology]
 ---
 
@@ -40,7 +40,7 @@ Descola argues:
 ## Intellectual Origins
 
 - **[[structuralism]] / [[levi-strauss-claude|Lévi-Strauss]]:** Descola retains structural comparison, limited combinatorial repertoires, and transformational thinking while overturning the nature/culture hinge Lévi-Strauss made foundational and partially recovering ontological totemism Lévi-Strauss dissolved into classification.
-- **Achuar fieldwork:** Living with the [[achuar]] of Ecuadorian Amazonia "propelled" the questioning of dualist certainties; earlier definition of animism as reverse of Lévi-Straussian totemism is corrected in the 2005 book as still smuggling nature/society in.
+- **Achuar fieldwork:** Living with the [[achuar]] of Ecuadorian Amazonia "propelled" the questioning of dualist certainties; primary monographic base now ingested as *[[descola-in-the-society-of-nature-1994|In the Society of Nature]]* ([[descola-society-of-nature-study|study]]; Fr. 1986). Earlier definition of animism as reverse of Lévi-Straussian totemism is corrected in the 2005 book as still smuggling nature/society in.
 - **Dialogue partners:** Eduardo Viveiros de Castro ([[perspectivism]]); [[latour-bruno|Bruno Latour]] (hybrids, collectives, *We Have Never Been Modern*); Tim Ingold (close, critical distance); Anne Christine Taylor.
 - **Against:** Universal wilderness/domestication dichotomies; evolutionist stages of continuity; culturalism that treats non-Western cosmologies as residual "belief."
 
@@ -48,7 +48,7 @@ Descola argues:
 
 | Text | Year | Move it makes |
 |---|---|---|
-| *In the Society of Nature* (Achuar) | 1994 | ethnographic base (not yet primary-ingested here) |
+| *[[descola-in-the-society-of-nature-1994|In the Society of Nature]]* (Achuar) | 1986/1994 | ethnographic base: socialization of nature; garden consanguinity / forest affinity; under-exploitation (see [[hubs/studies/descola-society-of-nature-study]]) |
 | *[[descola-beyond-nature-and-culture-2005|Beyond Nature and Culture]]* | 2005/2013 | full four-ontology architecture + relations + collectives |
 
 ## Empirical Program

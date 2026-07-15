@@ -8,7 +8,7 @@ core_questions: ["How did human societies change over deep time?", "What do mate
 major_methods: ["stratigraphic excavation", "typology", "[[radiocarbon-dating]]", "[[ancient-dna]]", "survey", "culture-historical unit integration", "[[ethnoarchaeology]]", "[[faunal-analysis]]"]
 subfields: ["prehistoric archaeology", "[[historical-archaeology]]", "[[archaeogenetics]]", "[[classical-archaeology]]", "ethnoarchaeology", "[[islamic-archaeology]]"]
 collection_coverage: moderate
-sources_ingested: 25
+sources_ingested: 33
 last_updated: 2026-07-10
 tags: [discipline]
 ---
@@ -37,6 +37,7 @@ Deep-time and historical material culture; sites, landscapes, objects, and (incr
 - **Contemporary:** aDNA revolution ([[archaeogenetics]]); Bayesian chronologies; landscape and environmental archaeology; heritage multivocality and digital archaeology.
 - **Contemporary — world religions / Islamic archaeology:** [[islamic-archaeology]] enters the vault via Insoll *[[insoll-archaeology-of-islam-1999|The Archaeology of Islam]]* (1999) as a social-archaeology program for a living world religion — mosque, domestic, diet, burial, settlement, art/trade — against art-historical isolation and top-heavy elite bias; method frame [[archaeology-of-religion]].
 - **Contemporary — African complex-society synthesis:** Connah *[[connah-african-civilizations-2016|African Civilizations]]* (3rd ed. 2016) is the vault’s continent-scale archaeological review of **urbanism and state formation** across ten African regions, stressing local productive-land control, trade as intensifier, and visibility/research bias (stone ruins vs organic architecture; savanna vs rainforest surveyability). Fills a major subject-matter gap (Africa south of Egypt had been thin relative to Near East/Mesoamerica).
+- **Contemporary — African deep-time continental survey:** Phillipson *[[phillipson-african-archaeology-2005|African Archaeology]]* (3rd ed. 2005) is the vault’s continent-scale survey from earliest hominids through second-millennium sub-Saharan sequences — deep prehistory, MSA/LSA, farming origins, iron without bronze age, [[chifumbaze-complex|Chifumbaze]]/Bantu archaeology — companion to Connah’s urbanism focus. Organises lithic technology via [[lithic-technological-modes|Clark’s five modes]]; argues African priority for anatomical and cultural modernity (as of Phillipson 2005).
 
 ## Theoretical Landscape
 
@@ -108,6 +109,14 @@ Ingested [[shanks-tilley-reconstructing-archaeology-1987|Shanks & Tilley, *Re-Co
 
 Ingested [[gero-conkey-engendering-archaeology-1991|Gero & Conkey, eds., *Engendering Archaeology* (1991)]]: multi-author charter for [[feminist-archaeology]]; Theory Hub [[hubs/theory/feminist-archaeology]]; thinkers [[gero-joan-m]], [[conkey-margaret-w]], [[wylie-alison]], [[spector-janet]], [[tringham-ruth]], et al.; concept [[genderlithics]]; site [[lepenski-vir]] (Handsman).
 
+## Coverage note — mainland Southeast Asian regional synthesis (2026-07-10)
+
+Ingested [[higham-archaeology-mainland-southeast-asia-1989|Higham, *The Archaeology of Mainland Southeast Asia* (1989)]] — first regional coverage for **mainland Southeast Asia** (previously absent). Thinker [[higham-charles]]; sites [[ban-chiang]], [[non-nok-tha]], [[ban-na-di]], [[khok-phanom-di]]; cultures [[hoabinhian]], [[dong-son-culture]], [[sa-huynh-culture]], [[austroasiatic-languages]]; concept [[mandala]]; phenomenon [[southeast-asian-state-formation]]; debates [[southeast-asian-bronze-chronology-debate]], [[angkor-hydraulic-city-debate]], [[indianisation-southeast-asia-debate]]. Note: 1989-vintage chronology, pre-aDNA; date-stamped throughout.
+
+## Coverage note — Eastern Woodlands regional synthesis (2026-07-10)
+
+Ingested [[milner-moundbuilders-2021|Milner, *The Moundbuilders* (2nd ed. 2021)]]: first full Eastern North America regional spine in the vault — Paleoindian through Removal. Cultures [[adena-culture]], [[hopewell-culture]], [[poverty-point-culture]], [[mississippian-culture]] (densified), [[fort-ancient-culture]], [[oneota-culture]], [[coles-creek-culture]]; sites [[cahokia]] (rewritten), [[poverty-point]], [[watson-brake]], [[moundville]], [[spiro]], [[norris-farms-36]], [[toltec-mounds]], [[etowah]]; concepts [[eastern-agricultural-complex]], [[southeastern-ceremonial-complex]]; timeline [[eastern-woodlands-chronology]]; phenomenon [[eastern-woodlands-contact-transformation]]; densifies [[moundbuilder-myth]], [[chiefdom]], [[peopling-of-the-americas]]. **Andean/Mesoamerican civilization monographs remain a priority gap.**
+
 ## The theoretical landscape after post-processualism (Preucel & Mrozowski 2010)
 
 *(Attributed — Preucel & Mrozowski, "The New Pragmatism," editors' introduction to [[preucel-mrozowski-contemporary-archaeology-2010|Contemporary Archaeology in Theory]], 2010.)*
@@ -151,3 +160,56 @@ Ingested [[orser-historical-archaeology-modern-world-1996|Orser 1996]]: charter 
 ## Coverage note — Renfrew *Loot, Legitimacy and Ownership* (2026-07-10)
 
 Ingested [[renfrew-loot-legitimacy-2000|Renfrew, *Loot, Legitimacy and Ownership: The Ethical Crisis in Archaeology* (2000)]] — the discipline's **ethics of the antiquities trade** as reflexive content. Phenomenon [[illicit-antiquities-trade]]; concepts [[unprovenanced-antiquities]], [[cultural-property]], [[restitution]]; debate [[antiquities-market-looting-debate]] (demand-side thesis vs. licit-market/universal-museum positions); densifies [[renfrew-colin|Renfrew]] (heritage-ethics advocacy; Illicit Antiquities Research Centre). Advocacy source — central causal thesis recorded as attributed position, not wiki voice. **Thin spot flagged:** the vault holds only the demand-side statement; a cultural-internationalist source (Cuno; Merryman) is outstanding to balance the debate.
+
+## Coverage note — Kirch *On the Road of the Winds* (2026-07-10)
+
+*(Attributed — [[kirch-road-of-the-winds-2017|Kirch 2017]] Ch. 1.)* Adds institutional history for Pacific/Oceanic archaeology: the Bishop Museum and the Polynesian Society as founding institutions; the eugenics-era **Bayard Dominick Expeditions** (1920s), whose research design built in racial-anthropometric measurement of living Polynesians alongside excavation; the later shift to NSF competitive funding; and the rise of CRM/public archaeology as a funding and practice base. **Reflexivity:** Kirch ties Pacific archaeology's 1920s–30s racial-science entanglement (Roland Dixon, Louis Sullivan) to contemporaneous US immigration-restriction politics, an explicit production-context link between metropolitan racial anxiety and Pacific research questions. He also records the postcolonial indigenous-critique debate — Haunani-Kay Trask's call for a moratorium on non-Hawaiian archaeological work on Hawaiian sites versus a counter-position treating archaeology as a national/indigenous-identity-building tool — alongside the growing number of indigenous Pacific archaeologists reshaping the field's practice. See [[near-oceania-remote-oceania]], [[kirch-road-of-the-winds-2017]].
+
+## Coverage note — Fagan & Durrani *People of the Earth* (2026-07-10)
+
+Ingested [[fagan-durrani-people-of-the-earth-2022|Fagan & Durrani, *People of the Earth* (16th ed.)]] in **scaffolding + gaps** mode — the standard Anglophone world-prehistory survey, used for its global narrative spine rather than as primary evidence (textbook: decade-lagging consensus). Keystone product: [[world-prehistory-timeline]] (7 Ma → AD 1534). New framework pages: [[peopling-of-the-americas]] + [[peopling-of-the-americas-debate]] (standing debate); [[homo-sapiens]], [[homo-naledi]]; densified [[modern-human-origins-debate]]. **Coverage audit finding:** the vault is dense on Old World paleolithic, Near Eastern, and agricultural-origins material but **thin on Native American (Andean & Mesoamerican) civilizations** — flagged as a priority gap on [[overview]], to be filled from queued monographs (Moseley; Sharer; Coe; Milner), not this textbook.
+
+## Coverage note — Phillipson *African Archaeology* (2026-07-10)
+
+Ingested [[phillipson-african-archaeology-2005|Phillipson, *African Archaeology* (3rd ed. 2005)]]: continental synthesis (hominids → European colonisation threshold). Thinker [[phillipson-david-w]]; concept [[lithic-technological-modes]]; industries [[sangoan-industry]], [[aterian-industry]], [[howiesons-poort-industry]], [[chifumbaze-complex]]; sites [[taung]], [[kabwe]], [[kalambo-falls]], [[nabta-playa]], [[dhar-tichitt]]; densifies [[bantu-expansion]], [[acheulean-industry]], [[oldowan-industry]], [[behavioral-modernity]], [[great-zimbabwe]], [[mapungubwe]], [[clark-grahame]]. **Companion to** [[connah-african-civilizations-2016]] (urbanism/states ~last 6,000 years). Pre-aDNA / ~2003 secondary horizon — chronologies date-stamped.
+
+## Coverage note — Bogucki *The Origins of Human Society* (2026-07-10)
+
+Ingested [[bogucki-origins-human-society-1999|Bogucki 1999]] (Blackwell History of the World): global prehistory synthesis with explicit **self-interest / household** theoretical slant. Densifies [[world-prehistory]]; creates [[transegalitarian]], [[aggrandizer]], [[pleistocene-band-society]], [[household-archaeology]], [[hayden-brian]]; loads [[origins-of-hereditary-inequality-debate]] (residual-elite model) and [[agricultural-origins-causation-debate]] (proto-household / sharing-norm defection); densifies [[chiefdom]] (shadow-of-states) and [[state-formation]] (tributary states, Brumfiel). Ch.1 includes Bogucki’s “heretical” claim that prehistoric archaeology is **not properly a subfield of anthropology** (Europe vs Americas institutional contrast). **Horizon:** late 1990s — phylogeny/peopling sections dated; household/inequality apparatus remains the book’s distinctive contribution relative to denser aDNA-era sources.
+
+## Coverage note — Possehl *The Indus Civilization* (2026-07-10)
+
+Ingested [[possehl-indus-civilization-2002|Possehl 2002]] Ch.1 for the **discovery and institutional history** of South Asian archaeology: unrecognized 19th-century finds (Cunningham 1875 reporting Harappa's brick robbed for railway ballast); John Marshall's 24 September 1924 announcement of Mohenjo-daro and Harappa in the *Illustrated London News*; Lord Curzon's 1902 reorganization of the Archaeological Survey of India (ASI) and appointment of Marshall as Director General; and the excavation sequence through Sahni, Banerji, Dikshit, Marshall, Mackay, and Vats. **Reflexivity:** the ASI's leadership and funding were direct instruments of British colonial government, and non-British-Indian excavation was permitted only from 1932; Partition (1947) split Indian and Pakistani Indus archaeology structurally, since both metropolitan cities (Mohenjo-daro, Harappa) fell within Pakistan — Possehl states this "led Indian archaeologists to begin an intensive period of exploration" of new sites in Gujarat, Haryana, and Rajasthan (S. R. Rao's Gujarat survey being the first major post-Partition Indian project). The Aryan/Sarasvati question carries ongoing nationalist stakes, per Possehl's own explicit flag. See [[harappan-civilization]], [[possehl-indus-civilization-2002]].
+
+## Coverage note — Kenoyer *Ancient Cities of the Indus Valley Civilization* (2026-07-10)
+
+Ingested [[kenoyer-ancient-cities-indus-1998|Kenoyer 1998]] (Oxford/American Institute of Pakistan Studies synthesis; HARP excavator’s overview): densifies South Asian **urban archaeology** beyond Possehl’s discovery-history chapter — Settlement hierarchy and five major cities; walls/gateways as trade control; Indus script invention ~2600 BCE and commercial/ritual uses with undeciphered status and critique of premature decipherments; Early Harappan/Regionalization formative urbanism (Harappa Period 2, Kot Diji); Localization Era gradual decline with explicit anti-invasion position; craft and Early Historic legacy. Thinker [[kenoyer-jonathan-mark]]; concepts/phenomena densified include [[indus-script]], [[indus-urbanization]], [[deurbanization-of-the-indus]], [[early-harappan]], [[indus-age]] (mapped against Shaffer [[indus-valley-tradition]]). Complements Possehl 2002 on the same civilizational complex with a stronger city-excavation and craft-technology emphasis.
+
+## Coverage note — Barker *The Agricultural Revolution in Prehistory* (2026-07-10)
+
+Ingested [[barker-agricultural-revolution-prehistory-2006|Barker 2006]] (OUP): global synthesis of foraging–farming transitions with heavy historiographic Chs 1–2 (Victorian ladders → Childe oasis / Neolithic Revolution → Braidwood hilly flanks → processual packing models → post-processual/cognitive turns) and a Europe case chapter testing *ex oriente lux* / wave-of-advance against acculturation and mid-2000s genetics/isotopes. Densifies theory and Europe link targets on thinker, debate, and LBK pages; **does not** replace regional monographs or post-2010 aDNA. Collection coverage for agricultural-origins theory historiography strengthened; genetics claims date-stamped as of Barker 2006 / mid-2000s.
+
+## Coverage note — Chinese archaeology as a national tradition (Liu & Chen 2012) (2026-07-10)
+
+Ingested [[liu-chen-archaeology-of-china-2012|Liu & Chen 2012]] (Cambridge World Archaeology) as the
+current standard synthesis of early Chinese archaeology; its Chapter 1 is a strong **reflexive
+history of the discipline**, which the authors (following Trigger's typology) classify squarely as
+**nationalist archaeology**. Load-bearing points (all attributed to Liu & Chen): the field emerged
+from the convergence of an antiquarian oracle-bone/bronze-collecting tradition, late-Qing ethnic
+nationalism (Liang Qichao, Sun Yat-sen), and the May Fourth Movement's "Doubters of Antiquity"
+(*yigupai*, Gu Jiegang) who wanted archaeology to scientifically test the traditional texts. The
+founding event is the **1928 Academia Sinica excavation of Yinxu / [[anyang|Anyang]]** under
+[[li-chi|Li Chi]] — the first state-sponsored dig, motivated explicitly by the search for indigenous
+**Han** cultural origins. Early foreign fieldworkers (Andersson, Teilhard, Black) and treasure
+hunters (Stein, Hedin, Pelliot) removing antiquities after the Opium War left a nationalist
+grievance that shaped later export-restriction and foreign-excavation policy (foreigners barred
+~1949–1991). Guo Moruo (1930) imported Morgan–Engels evolutionary stages; the discipline was
+theoretically confined to Marxism/Maoism, weaponized as propaganda during the Cultural Revolution
+(touring exhibitions abroad; "class oppression" readings at home), and after 1978 became
+salvage-funded and administratively decentralized. The state-directed **Xia–Shang–Zhou Chronology
+Project** (1996–2000) — launched after a State Councilor's envy of Egypt's deeper chronology — is
+flagged as a nationalist episode that generated methodological controversy. Liu & Chen's own thesis:
+Chinese archaeology has been used "to support, rather than to evaluate" theoretical and political
+agendas, and its shift from Central-Plain monocentrism to multiregionalism tracks a broader move from
+Han-ethnocentric to multiethnic state nationalism. See [[chinese-civilization-origins-debate]],
+[[nuclear-area]], [[chang-kwang-chih]], [[li-chi]], [[andersson-johan-gunnar]].

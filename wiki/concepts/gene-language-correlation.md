@@ -5,14 +5,10 @@ coined_by: ["[[cavalli-sforza-luigi-luca]]"]
 date_coined: "1988 (PNAS reconstruction paper); popularized GPL 2000 ch. 5"
 disciplines: [archaeogenetics, population-genetics, linguistic-anthropology]
 emic_or_etic: etic
-operationalized_as: >-
-  Statistical association between population genetic trees/distances and
-  linguistic family classifications, attributed to shared isolation, fission,
-  and demic expansions carrying both genes and languages (Cavalli-Sforza et al.;
-  as of Cavalli-Sforza 2000). Not genetic determination of which language is spoken.
+operationalized_as: "Statistical association between population genetic trees/distances and linguistic family classifications, attributed to shared isolation, fission, and demic expansions carrying both genes and languages (Cavalli-Sforza et al.; as of Cavalli-Sforza 2000). Not genetic determination of which language is spoken."
 contested: yes
-related_concepts: ["[[genetic-distance]]", "[[demic-diffusion]]", "[[cultural-transmission]]", "[[linguistic-drift]]"]
-sources_ingested: 1
+related_concepts: ["[[genetic-distance]]", "[[demic-diffusion]]", "[[cultural-transmission]]", "[[linguistic-drift]]", "[[early-farming-dispersal-hypothesis]]"]
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [concept]
 ---
@@ -65,7 +61,23 @@ three-family model vs splitters); isolation-by-distance for lexicon (Cavalli-Sfo
   correlation is a hypothesis about shared demography, never identity.
 - Sampling: language death and colonial lingua francas bias living comparisons.
 
+## Bellwood 2005 — farming, families, and imperfect unison
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005; program frame [[early-farming-dispersal-hypothesis]]. Genetics **as of Bellwood 2005**.)*
+
+Bellwood restates and operationalizes gene–language correlation as a **historical demographic** claim, not genetic determination of speech:
+
+1. **Keep the evidence classes apart.** Archaeological material, comparative linguistics, and human biology are not absolutely tied; none substitutes for the others. Interest is whole language *families*, not named ethnic labels (“Celts,” “Chinese”).
+2. **Families require expansion.** Language families, like species, do not form by convergence of unrelated taxa into one genetic taxon; pidgin/creole genesis is rare and unconvincing for vast families. Far-flung transparent phylogenies (English–Bengali; Malay–Tahitian) coexist with areal linguistic areas that still retain phylogenetic identity.
+3. **Expected correlation after rapid dispersal.** Strong population–language–culture correlations are expected especially during or just after rapid extensive dispersal; long-stable interactive societies under geographical stability will *not* show them. Ethnographic disjunctions (biologically different peoples speaking related languages) often reflect admixture during/after dispersal, not automatic refutation.
+4. **Not perfect unison.** Biology and language often disagree in detail (IE-speaking Europeans vs South Asians; Austronesian Melanesians vs Filipinos); language shift and contact matter, but “not beyond their due.” Within-family phenotypic diversity (Tahitians vs Malekulans; Bengalis vs Norwegians) makes pure single-founder descent over few millennia unlikely at then-understood rates of biological change.
+5. **Classical findings he cites (as of 2005):** Cavalli-Sforza et al. 1988/1994 genetic-distance trees resembling language-family trees (stronger Europe, East/Central Asia; weaker West Africa, SW/SE Asia; not mere geography per Nettle & Harriss 2003); Poloni et al. 1997 Y-lineage–language correlations with rough molecular-clock spans (e.g. IE ~7,400 ya); regional cases (Bantu “quite firm” demic genetic support; Fagundes et al. 2002 Tupian mtDNA–language; Malhi et al. 2003 SW US/Mexico more geography than language, with male-biased Uto-Aztecan spread).
+6. **Austronesian sex-biased mapping (metaphor):** mtDNA patterns mapped to Diamond’s “express train”; nuclear/Y more to Terrell’s “entangled bank” — women early/far with initial migrants, males roam more (Hage & Marck 2003) — densified on [[express-train-vs-entangled-bank-debate]]. Cox 2003 (~20% modern AN genes from Neolithic AN ancestors, average similar to Europe figures he reports) favored a **Modified Out of Taiwan** model.
+
+Homeland logic he couples to phylogeny: deepest bifurcations most likely homeland when trees are strong (Formosan first-order subgroups → Taiwan); rake-like families make homeland imprecise; Anatolian unique features as tip for Turkey IE homeland (Drews 2001) within an otherwise more rake-like IE picture. Expected archaeology–linguistics correlations if farming and major agriculturalist families spread together: (1) family homelands within/near agricultural homelands; (2) families intersect near those homelands; (3) dispersals become progressively younger with distance — patterns he claims are “much greater than we could expect from chance alone.”
+
 ## Key sources
 
 - [[cavalli-sforza-genes-peoples-languages-2000]]
+- [[bellwood-first-farmers-2005]]
 - [[reich-who-we-are-2018]] (case-level aDNA tests of demic language spreads)

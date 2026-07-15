@@ -7,8 +7,8 @@ date_introduced: 2004
 supersedes: ["[[unknown]]"]
 epistemic_leverage: "reframes cross-cultural comparison and translation as the management of referential difference between homonymous concepts, rather than the search for a shared referent"
 key_limitations: "programmatic and philosophical rather than procedural; developed from Amazonian material and may not transfer cleanly; risks licensing indeterminacy if 'equivocation' is not actually controlled"
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [method]
 ---
 
@@ -36,6 +36,8 @@ Introduced by Viveiros de Castro in the 2004 *Tipití* essay and made a keystone
 
 The Lévi-Strauss/Las Casas Antilles anecdote (Spaniards asking whether Indians have souls; Indians drowning Spaniards to see whether their corpses putrefy) as the paradigm case of two "insufficiently interpreted" perspectives; the analysis of Amazonian shamanic and warfare discourse (see [[perspectivism]], [[viveiros-de-castro-eduardo]]); the general program of the "[[ontological-turn|ontological turn]]."
 
+**Andean political ethnography (de la Cadena 2015).** *[[de-la-cadena-earth-beings-2015|Earth Beings]]* adapts controlled equivocation beyond multinaturalism to partial connections of state, tourism, and museum: “peasant movement” as equivocation of in-ayllu confrontation with Lauramarca; *historia* / *willakuy* / *kwintu* as competing modes of telling; NMAI “repatriation of ancestors” vs *suq’a*; *paqu* / “spiritual leader” captions vs yachaq practice; elections and ronda leadership as representational/non-representational knots (attributed — Stories 1–2, 6–7). De la Cadena stresses **comedy of equivocations** when power occludes misunderstanding rather than staging it.
+
 ## Debates
 
-The status of Amerindian perspectivism — concept vs. ontological type — and hence of the translation problem it poses is contested between Viveiros de Castro and [[descola-philippe|Descola]] (see [[ontological-turn-debate]]).
+The status of Amerindian perspectivism — concept vs. ontological type — and hence of the translation problem it poses is contested between Viveiros de Castro and [[descola-philippe|Descola]] (see [[ontological-turn-debate]]). Portability to Andean land politics and multicultural institutions is demonstrated ethnographically by de la Cadena rather than as a formal method manual.

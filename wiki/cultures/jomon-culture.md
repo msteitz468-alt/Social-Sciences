@@ -12,10 +12,10 @@ construct_status: conventional
 type_site: ["Omori shell midden (Morse 1877 recognition); phase type-sites vary"]
 key_sites: ["Fukui Rockshelter", "Odaiyamamoto", "Natsushima", "Uenohara", "Sannai-Maruyama", "Kakinoshima", "Omori"]
 preceded_by: ["Palaeolithic Japan (pre-pottery)"]
-succeeded_by: ["Yayoi rice-farming horizon (China/Korea-linked package as of Mithen 2003)", "longer Jōmon survival in northern Honshu/Hokkaido"]
-language_affiliation: "[[unknown]] — Ainu–Jōmon cultural/biological heir claims are POSITIONS (as of Mithen 2003), not proven identity"
-genetic_signature: "[[unknown]] in Mithen 2003 — remarks on modern Japanese vs Jōmon ancestry are pre-aDNA positions"
-sources_ingested: 1
+succeeded_by: ["Late Jōmon increasing rice adoption from ~1000 BC (Hudson via Bellwood 2005)", "Yayoi rice-farming / population incursion from Korea ~500 BC (as of Bellwood 2005 / Mithen 2003)", "longer Jōmon survival in northern Honshu/Hokkaido"]
+language_affiliation: "[[unknown]] — Ainu–Jōmon cultural/biological heir claims are POSITIONS (as of Mithen 2003 / Bellwood 2005), not proven identity"
+genetic_signature: "[[unknown]] in Mithen 2003 / Bellwood 2005 — remarks on modern Japanese vs Jōmon ancestry are pre-aDNA positions; densify aDNA later"
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [culture, japan, jomon, complex-hunter-gatherers]
 ---
@@ -71,3 +71,22 @@ Jōmon is the premier demonstration that **pottery, sedentism, and social comple
 ## Historiography
 
 Morse 1877; Japanese institutional archaeology and development-led excavation (Imamura Kirigaoka traps); radiocarbon revolution (Natsushima); deep pottery dates continually pushed earlier (Odaiyamamoto 1999). Mithen 2003 popularizes the complex-forager reading for a global audience; post-2003 aDNA has transformed ancestry debates — update from later sources with date-stamps.
+
+## Bellwood densification — *First Farmers* (2005)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005. Comparative foil to expansive cereal Neolithics under [[early-farming-dispersal-hypothesis]]. Culture ≠ language ≠ genes.)*
+
+### Affluent foragers and agricultural reluctance
+
+- Jōmon Japan: mainly hunting/gathering with some **minor** agricultural activity; pottery for over ten millennia; affluent foragers **reluctant** to adopt formal grain agriculture despite availability after 7000 BC in China and by 3500 BC in Korea (attributed). Quote (Hudson 2003 via Bellwood): “cereal agriculture, while certainly not entirely absent or unthought-of, was treated as something of an irrelevancy.”
+- Remained so until ~**1000 BC**, slightly before major Yayoi population incursion from Korea (~**500 BC**), when Late Jōmon shows increasing rice cultivation adoption (Hudson 1999 via Bellwood) (attributed).
+- Early pottery Japan/China claimed 9000–12,000 BC (Fukui Cave Kyushu etc.) — boiling cuisine on wild then domesticated grains; contrasts with full Neolithic trajectory of Yellow/Yangzi basins (attributed).
+- Demographic foil (Hudson/Koyama via Bellwood): Final Jōmon ~75,000 (300 BC) → 5.4 million 7th c. AD after rice/Yayoi transition — population kink tied to agricultural takeover, not Jōmon wild-food plateau (attributed figures as of 2005).
+
+### Comparative significance (Bellwood program)
+
+- Jōmon is a textbook case of long-term sedentary/complex foragers that **do not** generate expansive farming/language families — sedentary precondition for farming is rare and **insufficient** (also listed with Levant/SE Turkey, Sudan, perhaps central Mexico and N Andes as rare sedentism cases; Jōmon resisted farming) (attributed inventory).
+- Adjacent to Chinese [[rice-domestication]] and millet ([[yangshao-culture]]) worlds for millennia without demic agricultural replacement until Yayoi — Bellwood treats Yayoi rice entry from Korea as more like Bantu-style farmer-into-HG territory (metal-age/farmer package) than classic early Holocene Neolithic genesis (comparative thesis in Altaic/Japanese notes as of 2005).
+- Four-way non-identity: cord-marked pottery ≠ Ainu ≠ modern Japanese ≠ continental rice farmers without attributed argument.
+
+Source: [[bellwood-first-farmers-2005]].

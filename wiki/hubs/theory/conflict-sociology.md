@@ -53,7 +53,7 @@ The architecture descends from a philosophy of science through a general method 
 | The Credential Society | 1979 | Extends the "education as pseudoethnicity" argument into a full theory of credential inflation | Widely cited in the sociology of education |
 | Weberian Sociological Theory | 1986 | Consolidates the Weberian conflict program; develops geopolitical prediction | Contains the noted early forecast of Soviet decline |
 | The Sociology of Philosophies | 1998 | Full development of Ch. 9's conflict sociology of intellectual networks | Major, controversial synthesis of world intellectual history |
-| Interaction Ritual Chains | 2004 | Turns the 1975 IR mechanism into a general micro theory with "emotional energy" as currency | The mature statement; makes IR a standard micro framework |
+| [[collins-interaction-ritual-chains-2004|Interaction Ritual Chains]] | 2004 | Turns the 1975 IR mechanism into a general micro theory with "emotional energy" as currency | The mature statement; makes IR a standard micro framework — now ingested: [[interaction-ritual-chains]], [[hubs/theory/interaction-ritual-chains]] |
 
 Within *Conflict Sociology* itself, Chapter 4 ("A Short History of Deference and Demeanor") is co-authored with **Joan Annett**.
 
@@ -92,7 +92,7 @@ The recurring critique is that the program's ambition outruns its verification. 
 
 A great deal, and unusually the program did not have to die for its parts to live:
 
-- **[[interaction-ritual|Interaction ritual]]** is the clearest survival. The 1975 propositions became *Interaction Ritual Chains* (2004), now a standard micro framework in the sociology of emotion, solidarity, violence, and social movements, with "emotional energy" as its signature currency.
+- **[[interaction-ritual|Interaction ritual]]** is the clearest survival. The 1975 propositions became *[[collins-interaction-ritual-chains-2004|Interaction Ritual Chains]]* (2004), now a standard micro framework in the sociology of emotion, solidarity, violence, and social movements, with [[emotional-energy|emotional energy]] as its signature currency — full program pages: [[interaction-ritual-chains]], [[hubs/theory/interaction-ritual-chains]].
 - **The [[geopolitical-theory-of-the-state|geopolitical theory of the state]]** seeded a durable strand of historical-comparative macrosociology and Collins's own long-term geopolitical prediction, including the widely-noted early forecast of Soviet contraction.
 - **The conflict sociology of intellectuals** (Ch. 9) grew into *The Sociology of Philosophies* (1998), a competition-for-attention account of world intellectual history.
 - **The "education as pseudoethnicity" / credentialing** argument became *The Credential Society* (1979) and underlies the sociology of credential inflation.
@@ -105,8 +105,9 @@ A great deal, and unusually the program did not have to die for its parts to liv
 ## Links
 
 - Summary: [[conflict-sociology]]
-- Source: [[collins-conflict-sociology-1975]]
+- Source: [[collins-conflict-sociology-1975]] · micro-wing source: [[collins-interaction-ritual-chains-2004]]
 - Originator: [[collins-randall]]
+- Micro program: [[interaction-ritual-chains]] · [[hubs/theory/interaction-ritual-chains]]
 - Concepts: [[interaction-ritual]] · [[class-cultures]] · [[deference-and-demeanor]] · [[geopolitical-theory-of-the-state]]
 - Related programs: [[conflict-theory]] · [[structural-functionalism]] · [[historical-materialism]] · [[interpretive-sociology]]
 - Thinkers: [[weber-max]] · [[durkheim-emile]] · [[marx-karl]] · [[goffman-erving]] · [[dahrendorf-ralf]]

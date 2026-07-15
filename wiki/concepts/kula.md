@@ -8,8 +8,8 @@ emic_or_etic: migrated
 operationalized_as: "Closed inter-island circuit of ceremonial exchange of two classes of vaygu'a (mwali armshells vs soulava necklaces) under permanent partnership and magical/ritual regulation"
 contested: no
 related_concepts: ["[[vaygua]]", "[[gift-exchange]]", "[[gimwali]]", "[[reciprocal-obligation]]", "[[imponderabilia-of-actual-life]]", "[[total-prestation]]", "[[potlatch]]", "[[hau]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -48,3 +48,4 @@ Partnership rules (*karayta'u*); geographic direction of valuables; ownership as
 - Single-ethnographer reconstruction of a multi-island system; SE arc less observed
 - Later Massim work revises gender, scale, and politics of valuables — [[weiner-annette-b|Weiner]] (1976) reframes kula as men's pursuit of ephemeral individual **renown**, the counterpart to women's enduring [[reproduction-regeneration|regenerative]] value ([[weiner-women-of-value-study]]); the wider SE-arc revision still not ingested
 - Colonial disruption of chieftainship already noted by Malinowski (Ch. XIX)
+- **Reconstructed, not fully observed (attributed — [[stocking-after-tylor-1995|Stocking, *After Tylor*]]):** Malinowski never completed a full kula expedition voyage himself as participant-observer, after an aborted, storm-forced 1915 attempt toward Kitava; his narrative of the expedition sequence is substantially "reconstructed" from informants rather than directly witnessed. His own gloss on "the meaning of the Kula" was cast largely in psychological terms — a "complex emotional and intellectual attitude at the bottom of it" — with *Argonauts* only briefly hinting at "functionalism" as a possible "new type of theory" studying "the influence on one another of the various aspects of an institution." Marcel Mauss's classic discourse on reciprocity in *[[mauss-the-gift-1925|The Gift]]* was directly stimulated by Malinowski's kula account.

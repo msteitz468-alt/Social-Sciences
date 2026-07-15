@@ -5,7 +5,7 @@ dispute_type: interpretive
 disciplines: [archaeology, anthropology]
 era: [postwar-expansion, critical-turn, contemporary]
 positions: ["Mother culture (Coe): Olmec heartland was the single fount of Mesoamerican complex society, spread by diffusion/migration/trade", "Sister cultures (Sanders & Price): Formative regions developed complexity largely independently; Olmec influence was indirect", "Myth of the mother culture (Flannery & Marcus): multiple contemporaneous, mutually-interacting centers"]
-key_texts: ["Coe, 'The Olmec Style and Its Distribution' (1965)", "[[sanders-price-mesoamerica-1968|Sanders & Price, Mesoamerica (1968)]]", "Flannery & Marcus, 'Formative Mesoamerican Exchange Networks' and later work", "[[wenke-olszewski-patterns-in-prehistory-2007|Wenke & Olszewski, Patterns in Prehistory (2007)]]"]
+key_texts: ["Coe, 'The Olmec Style and Its Distribution' (1965)", "[[sanders-price-mesoamerica-1968|Sanders & Price, Mesoamerica (1968)]]", "Flannery & Marcus, 'Formative Mesoamerican Exchange Networks' and later work", "[[wenke-olszewski-patterns-in-prehistory-2007|Wenke & Olszewski, Patterns in Prehistory (2007)]]", "[[coe-koontz-mexico-2013|Coe & Koontz, Mexico (2013)]]"]
 resolution_status: partially-resolved
 last_updated: 2026-07-10
 tags: [debate]
@@ -18,6 +18,8 @@ Whether the [[olmec-culture|Olmec]] of the South Gulf Coast were the **"mother c
 ## Position 1 — Mother culture (Coe)
 
 *(Attributed — Michael D. Coe 1965; restating Covarrubias 1957.)* Mesoamerican complex society originated in the Olmec heartland (humid Gulf lowlands of SE Veracruz / W Tabasco) and spread to other regions by stimulus diffusion, migration, and trade. Coe proposed a **"Jade Route"** — a long-distance exchange network from the Gulf Coast to Guerrero, analogous to the Bronze Age Amber Route, protected by military colonies and worked by an **"Olmec pochteca"** (merchant class modeled on the Aztec pochteca). Far-flung Olmec-style objects and iconography (the were-jaguar, feline/serpent motifs) mark the reach of this influence.
+
+*Coe's position persists into his latest synthesis.* [[sources/coe-koontz-mexico-2013|Coe & Koontz]] (2013) still write, in attributed voice, that "all later civilizations in Mesoamerica... ultimately rest on an Olmec base," and that the heartland is where the civilization "had its roots and its highest development." They present David Cheetham's evidence at **Cantón Corralito** (Soconusco) — pottery and figurines "either a direct import from San Lorenzo or an exact imitation" — as "decisive evidence for an Olmec colony," i.e. an outright-colonization reading for at least one site, while accepting emulation/trade (Flannery, Grove) for others. Against a **Guerrero-origin revision** (some scholars, citing Teopantecuanitlan, would move the Olmec pattern's origin to Guerrero), they argue the region's environmental constraints make it unlikely.
 
 ## Position 2 — Sister cultures (Sanders & Price)
 

@@ -100,6 +100,16 @@ partial agreement while remaining unconvinced that power is fully drawn into the
 circumference. Butlerian *performance* comparison is treated in the volume's Ch. 10
 (Moloney & Fenstermaker).
 
+**Contrast with [[gender-performativity|Butler's performativity]].** Both programs deny
+gender is a stable trait, but they answer to different evidence classes. Doing gender is
+ethnomethodological and empirical — gender as a situated interactional accomplishment
+assessed through [[sex-category|sex-categorization]] and accountability. [[butler-judith|
+Butler]]'s [[performativity]] (in *[[butler-gender-trouble-1990|Gender Trouble]]*, 1990)
+is genealogical and discursive — gender as the reiteration of norms within a
+[[heterosexual-matrix|heterosexual matrix]], demonstrated through textual reading rather
+than observation. The two rarely cite one another directly; the gap between them is one
+of the standing methodological divides in the sociology and theory of gender.
+
 ## Current Status
 
 Active and widely cited in sociology of gender, education, work, and organizations; vocabulary

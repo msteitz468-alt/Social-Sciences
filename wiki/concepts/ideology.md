@@ -7,9 +7,9 @@ disciplines: [sociology, archaeology, anthropology]
 emic_or_etic: etic
 operationalized_as: "[[unknown]]"
 contested: yes
-related_concepts: ["[[value-orientation]]", "[[sociology-of-knowledge]]", "[[collective-representations]]", "[[institutionalization]]", "[[legitimation]]", "[[utopia]]", "[[false-consciousness]]", "[[relationism]]", "[[end-of-ideology]]", "[[material-culture]]", "[[logic-of-contingency]]"]
-sources_ingested: 7
-last_updated: 2026-07-10
+related_concepts: ["[[value-orientation]]", "[[sociology-of-knowledge]]", "[[collective-representations]]", "[[institutionalization]]", "[[legitimation]]", "[[utopia]]", "[[false-consciousness]]", "[[relationism]]", "[[end-of-ideology]]", "[[material-culture]]", "[[logic-of-contingency]]", "[[theoretical-anti-humanism]]", "[[social-formation]]", "[[epistemological-break]]", "[[language-ideology]]"]
+sources_ingested: 9
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -43,6 +43,10 @@ To count as ideology (rather than mere science or instrumental belief) there mus
 ### Comaroff & Comaroff (1991)
 
 In *[[comaroff-of-revelation-and-revolution-1991|Of Revelation and Revolution]]*, [[comaroff-jean|Jean]] and [[comaroff-john-l|John L. Comaroff]] define ideology (after Raymond Williams) as "an articulated system of meanings, values, and beliefs … [the] worldview of any social grouping" — the possession of a *particular* group, borne in manifestos, texts, and practices, and therefore contestable. Its analytic force comes from the **contrast with [[hegemony]]**: "Hegemony homogenizes, ideology articulates. Hegemony, at its most effective, is mute; … all the while, ideology babbles on." The two are interdependent — hegemony is the naturalized part of a dominant worldview that "no more appears as ideology at all"; the ideologies of the subordinate give voice to contradictions a prevailing hegemony can no longer conceal. This reworking, resting on Marx's two theories of ideology (see [[false-consciousness]]), is the framework of the [[colonization-of-consciousness]] thesis.
+
+### Language ideology program (linguistic anthropology, 1979–2000)
+
+A semi-independent track: **[[language-ideology|language / linguistic ideologies]]** as cultural representations of language structure and use, loaded with moral and political interests (Silverstein 1979; Irvine 1989; Irvine & Gal 2000; Kroskrity ed. *[[kroskrity-regimes-of-language-2000|Regimes of Language]]* 2000). Not a simple application of Marx/Mannheim to language — emphasizes semiotic mediation ([[indexicality]]), multiplicity, partial awareness, and institutional [[language-regimentation|regimentation]]. Neutral vs critical readings of “ideology” treated as gradient within the program (Woolard & Schieffelin 1994, as cited by Kroskrity).
 
 ## Semantic History
 
@@ -100,6 +104,10 @@ to this wiki's broader Reflexivity requirement for discipline and study pages.
 ### *Re-Constructing Archaeology* densification (1987/1992)
 
 *(Attributed — *[[shanks-tilley-reconstructing-archaeology-1987]]*, Chs. 3–4, 7–8.)* **Value-freedom** is itself ideology: separating facts from values imports capitalist values into economic archaeology, systems theory (homeostasis as pathology), cultural evolution (politicized time), and mathematical archaeology. **Museum ideology:** reified objects, homogeneous history, high-culture *Homo Artifex*, heritage myth, hero-archaeologist spectacle — opposed by a [[redemptive-aesthetic]]. **Style as ideology (Ch. 7):** ceramic design as imaginary resolution of social contradiction (boundedness/non-closure) at Fjälkinge TRB tomb; three levels of art/style relation to social reality. **Modern design as ideology (Ch. 8):** beer-can graphics mediate consumption vs disciplinary control of drink in Britain and Sweden. Critical archaeology makes values explicit rather than claiming neutral method.
+
+## Althusser, *For Marx* (1965) — lived relation, not Early-Works consciousness
+
+*(Attributed — [[althusser-louis|Althusser]], *[[althusser-for-marx-1965|For Marx]]*, esp. “Marxism and Humanism” + Glossary.)* Ideology is the “lived” relation between men and their world, or a reflected form of this unconscious relation; it is distinguished from a science not by simple falsity (it can be coherent) but because the **practico-social predominates** over the theoretical. Historically it precedes the science produced by an [[epistemological-break]], and it **survives alongside science** as an essential element of every [[social-formation]] — including socialist and even communist society. Humanism is an ideological concept: it can designate real relations and serve as a practical slogan without providing knowledge of essences ([[theoretical-anti-humanism]]; [[marxist-humanism-debate]]). Ideology is profoundly **unconscious** — a structure imposed involuntarily — not “false consciousness” as a region of mere error. **Note:** the 1970 Ideological State Apparatuses / interpellation theory is **not** in *For Marx* and is not filed from this source.
 
 ## Reading the Past (2003) — Giddens's three functions, and "reading off" burial (attributed)
 

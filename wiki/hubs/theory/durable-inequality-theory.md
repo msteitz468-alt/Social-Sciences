@@ -4,16 +4,16 @@ theory_page: "[[durable-inequality-theory]]"
 disciplines: [sociology, political-sociology, historical-sociology, economic-sociology]
 era_origin: [contemporary]
 originated_by: ["[[tilly-charles]]"]
-key_texts: ["[[tilly-durable-inequality-1998|Durable Inequality (1998)]]"]
+key_texts: ["[[tilly-durable-inequality-1998|Durable Inequality (1998)]]", "[[tilly-identities-boundaries-social-ties-2005|Identities, Boundaries, and Social Ties (2005)]]"]
 status: active
-key_sources: ["Tilly, Durable Inequality (UC Press 1998)", "Ross Lectures UCLA 1995"]
-last_updated: 2026-07-09
+key_sources: ["Tilly, Durable Inequality (UC Press 1998)", "Ross Lectures UCLA 1995", "Tilly, Identities, Boundaries, and Social Ties (Paradigm 2005)"]
+last_updated: 2026-07-10
 tags: [hub, theory-analysis]
 ---
 
 # Durable Inequality Theory — Deep Analysis
 
-> Theory Hub deep analysis. Summary: [[durable-inequality-theory]]. Source: [[tilly-durable-inequality-1998]]. Thinker: [[tilly-charles]].
+> Theory Hub deep analysis. Summary: [[durable-inequality-theory]]. Sources: [[tilly-durable-inequality-1998]]; [[tilly-identities-boundaries-social-ties-2005]] (restatement + boundary/democracy extensions). Thinker: [[tilly-charles]].
 
 **Analysis standard:** mechanism architecture · key-texts table · claims-vs-evidence matrix · verbatim passages · What Survived · attributed voice throughout.
 
@@ -163,11 +163,15 @@ Not a single N study: **mechanism illustration** across historical and contempor
 
 > A polity is democratic, as I understand it, to the extent that it institutionalizes broad, relatively equal citizenship, protects citizens from arbitrary action by state agents, and gives citizens significant collective control over state personnel and policy. Widespread categorical inequality threatens democratic institutions twice: by giving members of powerful categories incentives and means to exclude others from full benefits, and by providing visible markers for inclusion and exclusion.
 
+## Extension: *Identities, Boundaries, and Social Ties* (2005)
+
+*(Attributed — Tilly; self-reuse from DI flagged in preface.)* The 2005 collection is not a second charter text but a **cross-connection** volume: DI mechanisms restated (Chs. 5–8, 10) and joined to [[social-boundary-mechanism|boundary-change mechanisms]] (Ch. 9), [[chain-migration]] niches (Ch. 10), [[citizenship]]/exclusion (Chs. 11–12), and inequality ↔ [[protected-consultation]]/[[de-democratization]] **conjectures** (Ch. 13). Use DI 1998 for the full mechanism architecture; use *IBST* for boundary, citizenship, and democracy links.
+
 ## Links
 
 - Summary: [[durable-inequality-theory]]
-- Source: [[tilly-durable-inequality-1998]]
+- Sources: [[tilly-durable-inequality-1998]] · [[tilly-identities-boundaries-social-ties-2005]]
 - Thinker: [[tilly-charles]]
 - Phenomenon: [[durable-inequality]]
-- Concepts: [[categorical-inequality]], [[categorical-pairs]], [[exploitation]], [[opportunity-hoarding]], [[organizational-emulation]], [[organizational-adaptation]], [[interior-exterior-categories]]
+- Concepts: [[categorical-inequality]], [[categorical-pairs]], [[exploitation]], [[opportunity-hoarding]], [[organizational-emulation]], [[organizational-adaptation]], [[interior-exterior-categories]], [[social-boundary]], [[social-boundary-mechanism]], [[chain-migration]], [[citizenship]], [[protected-consultation]]
 - Adjacent program: [[political-conflict-theory]]

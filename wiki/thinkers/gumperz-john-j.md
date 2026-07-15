@@ -7,11 +7,11 @@ era: [postwar-expansion, critical-turn, contemporary]
 affiliated_theories: ["[[interactional-sociolinguistics]]", "[[ethnography-of-speaking]]"]
 trained_under: ["[[unknown]]"]
 trained: ["[[unknown]]"]
-key_works: ["Gumperz & Hymes (eds.), Directions in Sociolinguistics (1972)", "Gumperz & Hymes (eds.), The Ethnography of Communication (1964)", "Discourse Strategies (1982)", "Language and Social Identity (ed., 1982)", "Blom & Gumperz, 'Social Meaning in Linguistic Structures' (1972)"]
-key_concepts: ["[[code-switching]]", "[[interactional-sociolinguistics]]", "linguistic repertoire", "contextualization cues", "[[speech-community]]"]
-fieldwork_sites: ["India (Hindi–Punjabi region; Khalapur, 1950s)", "Hemnesberget, Norway (1960s)", "urban United States (minority communities)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+key_works: ["Gumperz & Hymes (eds.), Directions in Sociolinguistics (1972)", "Gumperz & Hymes (eds.), The Ethnography of Communication (1964)", "[[gumperz-discourse-strategies-1982|Discourse Strategies (1982)]]", "Language and Social Identity (ed., 1982)", "Blom & Gumperz, 'Social Meaning in Linguistic Structures' (1972)"]
+key_concepts: ["[[code-switching]]", "[[interactional-sociolinguistics]]", "linguistic repertoire", "[[contextualization-cue]]", "[[conversational-inference]]", "[[speech-community]]"]
+fieldwork_sites: ["India (Hindi–Punjabi region; Khalapur, 1950s)", "Hemnesberget, Norway (1960s)", "[[gail-valley-slovenes|Gail Valley]], Carinthia, Austria (1970s, with collaborators)", "urban Britain and United States (interethnic communication, 1970s–80s)"]
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [thinker, linguistic-anthropology, sociolinguistics]
 ---
 
@@ -49,9 +49,13 @@ categories as mutually constitutive and knowable only through situated language 
 ## Contributions
 
 - **[[interactional-sociolinguistics]]** — a research program treating social constraints
-  and linguistic rules as parts of a single communicative system; later developed through
-  *Discourse Strategies* (1982) and the notion of **contextualization cues** (prosodic and
-  code choices that frame how an utterance is to be taken).
+  and linguistic rules as parts of a single communicative system; its charter monograph is
+  *[[gumperz-discourse-strategies-1982|Discourse Strategies]]* (1982, now ingested), built on
+  **[[contextualization-cue|contextualization cues]]** and **[[conversational-inference]]**,
+  with the "crosstalk" interethnic-communication program (job interviews, counseling,
+  classrooms, the "kill Richard Nixon" prosecution analysis) as its applied edge and a
+  network-based account of language shift ([[gail-valley-slovenes|Gail Valley]]) as its
+  sociolinguistic base.
 - **Situational vs. metaphorical [[code-switching]]** (with Blom, 1972) — the finding, from
   Hemnesberget, that alternation between a local dialect (Ranamål) and a standard (Bokmål)
   could either redefine a situation or, without changing it, allude to additional social
@@ -96,3 +100,8 @@ statement of the field's emergence from dialectology, descriptive linguistics, g
 grammar, and correlational sociolinguistics. Full analysis of his career, the Hemnesberget
 fieldwork, and the reception of interactional sociolinguistics is in the
 [[hubs/thinkers/gumperz-john-j|Thinkers Hub biography]].
+
+
+### Relation to Bauman & Sherzer *Explorations* (1974)
+
+*(Attributed.)* Prefatory lineage: Gumperz & Hymes 1964 and 1972 as prior stages; Gumperz on SSRC Committee supporting Austin 1972 conference. Editors treat repertoire and speech-community concepts (Gumperz 1964) as core resources for speaking. Source: [[bauman-sherzer-explorations-ethnography-speaking-1974|Bauman & Sherzer 1974]].

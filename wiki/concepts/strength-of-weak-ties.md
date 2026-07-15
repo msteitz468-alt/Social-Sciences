@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Structural claim: bridging weak ties integrate individuals and communities; measured via job-contact frequency, small-world chain completion, sociometric reach, and (hypothesized) density of local bridges in communities"
 contested: yes
 related_concepts: ["[[tie-strength]]", "[[local-bridge]]", "[[social-capital]]", "[[social-mobility]]", "[[network-analysis]]", "[[organizational-embeddedness]]", "[[network-inequality]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -42,11 +42,11 @@ Core concept and catchphrase of [[granovetter-mark-s|Mark Granovetter]]'s 1973 a
 
 ## Applications
 
-- Labor-market information and [[social-mobility|mobility opportunity]].
+- Labor-market information and [[social-mobility|mobility opportunity]] — full design in [[granovetter-getting-a-job-study]] (*Getting a Job* 1974); frequency skew and short chains among Newton PTM men.
 - Diffusion of innovations and rumors.
 - Interracial and cross-group contact (Milgram/Korte chains).
 - Neighborhood mobilization capacity ([[west-end-network-fragmentation-debate]]).
-- Later: organizational knowledge transfer, online networks (not yet ingested).
+- Later: organizational knowledge transfer; Afterword 1994 conditionality (strong ties in some institutional settings; inequality of returns to contacts).
 
 ## Critiques and Limitations
 

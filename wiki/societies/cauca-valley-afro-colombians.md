@@ -8,8 +8,8 @@ kinship_system: "as documented in Taussig 1980 — free-peasant household plots;
 documented_by: ["[[taussig-devil-commodity-fetishism-study]]", "[[taussig-michael]]"]
 documentation_dates: "principal ethnographic documentation in this wiki from Taussig fieldwork ~1969/70–1970s; historical depth to slavery, emancipation 1851, Liberal/Conservative wars, mid-20th-c. violencia"
 endonym_exonym_note: "Literature speaks of black / Afro-Colombian free peasantry and plantation workers of the southern Cauca Valley (Puerto Tejada and surrounding municipalities). Local self-identification as Liberal/black/poor is quoted in Taussig; 'Cauca Valley Afro-Colombians' is a wiki analytical label, not a single emic ethnonym."
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [society, south-america, colombia]
 ---
 
@@ -61,3 +61,7 @@ Taussig's reading of devil lore as systematic critique of capitalism is an **int
 - associated_with: [[plantation]] · [[sugar-plantation-complex]] · [[proletariat]]
 - concepts: [[devil-contract]] · [[baptism-of-money]]
 - source: [[taussig-devil-commodity-fetishism-1980]]
+
+## From Taussig *Shamanism* (1987 ingest)
+
+[[taussig-shamanism-colonialism-wild-man-1987|Taussig 1987]] closes by circulating Putumayo shamanic power as representation, plant, and practice among non-Amazonian townspeople in the Cauca world (Marlene Jiménez / Don Chu Chu chapter), linking this society page to [[yage]] and [[putumayo-rubber-terror]] memory without requiring physical travel to the lowlands.

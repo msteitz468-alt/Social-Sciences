@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "An ego-network index Cij = (proportional investment in reaching contact j, direct + indirect)^2 × (organization of j's cluster, Oj); aggregate C = Σj Cij, ranging 0 (contact fully replaceable) to 1 (sole contact). Implemented in the software STRUCTURE."
 contested: yes
 related_concepts: ["[[structural-holes]]", "[[tertius-gaudens]]", "[[structural-holes-theory]]", "[[network-analysis]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -100,6 +100,10 @@ inverse — brokerage/structural autonomy — became the more commonly cited fra
 - **Structural autonomy** as a nonlinear function of constraint — holes have their
   greatest effect "at low levels of constraint," a diminishing-returns curve
   fitted in both study populations.
+- **Brokerage and Closure (2005)** — constraint remains the workhorse inverse of
+  brokerage; nonlinear performance and idea-value associations restated as
+  stylized facts #1–#2 (supply-chain managers; multi-sample corroboration). See
+  [[vision-advantage]], [[burt-brokerage-and-closure-2005]].
 
 ## Critiques and Limitations
 

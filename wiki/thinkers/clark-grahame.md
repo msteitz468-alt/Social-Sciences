@@ -10,7 +10,7 @@ trained: ["[[fagan-brian]]"]
 key_works: ["[[clark-archaeology-and-society-1957|Archaeology and Society (1939; rev. 1957)]]", "Prehistoric Europe: The Economic Basis (1952)", "Excavations at Star Carr (1954)", "[[clark-world-prehistory-1961|World Prehistory: An Outline (1961)]]"]
 key_concepts: ["[[economic-prehistory]]", "[[world-prehistory]]", "[[ethnographic-analogy]]", "[[prehistory]]", "[[mesolithic]]"]
 fieldwork_sites: ["Star Carr, Yorkshire, England (Mesolithic; excavated 1949–51)"]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-10
 tags: [thinker, archaeology]
 ---
@@ -32,6 +32,7 @@ In *World Prehistory* (1961) he extended the same ecological–economic frame ac
 - Systematic use of **[[ethnographic-analogy]]** and of natural-science evidence (pollen, faunal and floral remains, early [[radiocarbon-dating]]) to reconstruct past economies and to align regional chronologies.
 - *[[clark-archaeology-and-society-1957|Archaeology and Society]]* as an early general statement of archaeological method and its social purpose for a wide readership.
 - Culture-as-humanity criterion: a hominid qualifies as human by “works” (tool-making tradition), not by zoology alone (attributed, Clark 1961 ch. 2).
+- **Five lithic technological modes (1969)** — adopted as the organising metalanguage of [[phillipson-african-archaeology-2005|Phillipson, *African Archaeology* (2005)]]; see [[lithic-technological-modes]]. Modes describe technology without equating each stage to a fixed time period or culture-historical compartment (as of Phillipson 2005 citing Clark 1969).
 
 ## Intellectual Genealogy
 

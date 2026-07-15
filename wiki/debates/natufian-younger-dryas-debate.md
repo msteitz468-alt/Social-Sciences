@@ -53,3 +53,17 @@ Did the [[younger-dryas|Younger Dryas]] cause major [[natufian-culture|Natufian]
 ## Roberts (1998) supporting evidence
 
 [[roberts-neil|Roberts]] ([[roberts-holocene-1998|1998]], attributed) reports the position (Moore and Hillman 1992) that [[younger-dryas|Younger Dryas]] climatic deterioration (c. 13,000–11,500 Cal. yr BP) reduced the availability of wild cereals and plant foods in the Near East, potentially stimulating more intensive resource-management strategies that preceded full domestication. Roberts also stresses (against V. Gordon [[childe-v-gordon|Childe]]'s desiccation model) that Lake Zeribar pollen shows the early Holocene Near East grew *wetter*, not drier — bearing on the broader [[agricultural-origins-causation-debate|agricultural-origins causation debate]].
+
+## Barker 2006 densification (*The Agricultural Revolution in Prehistory*, Ch. 10 SW Asia recap)
+
+*(Attributed — [[barker-graeme]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006. Europe/theory-adjacent synthesis claims only from assigned ranges; not a full SW Asia primary-data densification.)*
+
+### Position — long process, not PPNA event (Barker)
+
+Barker objects that SW Asia data show a **very long-lived process**, not a “PPNA event”: practices with many characteristics of animal and/or plant husbandry were undertaken by the [[natufian-culture|Natufians]] ~5,000 years before the PPNA. Natufian behaviour was profoundly affected by post-LGM climatic/ecological change, **especially Younger Dryas cold/aridity** shifting gazelle ranges and contracting wheats/barleys into better-watered refugia; people had to respond to Pleistocene–Holocene landscape change and did so — some by moving, some diversifying, some intensifying toward recognizable Eurasian mixed farming. Developing reliance on domesticated cereals is treated as an irrevocable labour-time commitment poorly compatible with mobile foraging.
+
+### Position — reversibility and no necessary trajectory
+
+Elsewhere in the same chapter Barker stresses archaeological **reversions** (late vs early Natufians; Barbary sheep herding experiment then return to hunting in Libyan Sahara) as evidence there is no inexorable path from husbandry-like behaviours to agriculture — relevant to how YD “crisis” narratives are framed (response options plural; not all roads lead to farming).
+
+Do not treat Barker’s recap as settling Positions A–E above; it densifies a multi-millennial Natufian–YD–PPNA process reading and anti-teleology caution. Source: [[barker-agricultural-revolution-prehistory-2006]].

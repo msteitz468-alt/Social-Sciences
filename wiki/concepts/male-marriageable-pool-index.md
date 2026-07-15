@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Ratio of employed civilian men to women of the same race and age group (aggregate racial data) — the pool of 'marriageable' men (Wilson & Neckerman 1987)"
 contested: yes
 related_concepts: ["[[urban-underclass]]", "[[social-isolation]]", "female-headed family (descriptive)"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept, sociology, urban-sociology]
 ---
 
@@ -35,7 +35,10 @@ Central empirical support for Wilson’s claim that **joblessness**, not primari
 
 Aggregate race-only MMPI; marriageability is multi-dimensional (incarceration later emphasized — Wilson 2012 Afterword); cultural and gender-agency critiques; selection and reverse causation debates in family demography (record as positions when ingested).
 
+**Edin & Kefalas (2005, attributed):** Wilson’s male-marriageable-pool account does the best of three standard explanations of marriage retreat (vs Becker independence and Murray welfare) but only modestly. Flaw they stress: assuming menial/stable employment makes a man marriageable. In their sample, even men with relatively good jobs at birth (and later “better” partners) were not automatically marriageable — women demanded relational trust, fidelity, and material respectability before vows (“promises I can keep”). Breakups often turned on “not staying working,” sharing earnings, crime, substances, and abuse — not pure joblessness alone. Sex ratios were “grossly out of balance” in their minority neighborhoods (supporting male-scarcity dynamics) but not in white high-poverty sites. See [[edin-kefalas-promises-study]]; [[nonmarital-childbearing]].
+
 ## Links
 
-- Study: [[wilson-truly-disadvantaged-study]]
-- Phenomena: [[urban-underclass]]
+- Study: [[wilson-truly-disadvantaged-study]] · [[edin-kefalas-promises-study]]
+- Phenomena: [[urban-underclass]] · [[nonmarital-childbearing]]
+- Institution: [[marriage]]

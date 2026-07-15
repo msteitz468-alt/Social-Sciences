@@ -8,7 +8,7 @@ emic_or_etic: etic
 operationalized_as: "What a speaker needs to know to communicate effectively and appropriately in a speech community — including but not limited to grammatical knowledge"
 contested: yes
 related_concepts: ["[[speech-community]]", "[[speech-event]]", "[[speaking-model]]", "[[ethnography-of-speaking]]", "[[restricted-and-elaborated-codes]]"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [concept]
 ---
@@ -63,3 +63,12 @@ Hymes also speaks of **symbolic competence** beyond technical linguistic compete
 - **Idealization residual:** "Knowledge of rules" still idealizes; Hymes counters with unequal ability, participation vs membership, and occurrence/feasibility aspects.
 - **Pedagogical capture:** Education research often reduces communicative competence to testable skills, detaching it from community ethnography.
 - **Relation to performance:** Reclaiming "performance" for folklore/ethnography (positive competence) conflicts with Chomsky's residual use and with some psycholinguistic uses — productive tension, not settled terminology.
+
+
+### Gumperz's interactional redefinition (1982)
+
+*(Attributed — [[gumperz-john-j|Gumperz]], [[gumperz-discourse-strategies-1982|Discourse Strategies]], Postscript.)* "Communicative competence can be defined in interactional terms as 'the knowledge of linguistic and related communicative conventions that speakers must have to create and sustain conversational cooperation,' and thus involves both grammar and contextualization." Producing grammatical sentences "is common to all who count as speakers of a language or dialect"; what varies is knowledge of [[contextualization-cue|contextualization conventions]] — learned only through prolonged face-to-face contact, hence unevenly distributed along network lines, with direct social-inequality consequences in gatekeeping encounters.
+
+### Bauman & Sherzer 1974 densification
+
+*(Attributed — [[bauman-sherzer-explorations-ethnography-speaking-1974|Bauman & Sherzer 1974]].)* Performance = exercise of competence with community resources in situations. Philips: knowing how/when to participate (including temporal indeterminacy) is part of competence. Sankoff: probabilistic competence from variation data. Hymes “Ways of Speaking” in §VI: competence spans means of speech and speech economy, not grammar alone.

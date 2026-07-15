@@ -861,6 +861,7 @@ comparable length).
    - [ ] Integration — pages created/updated (tick in batches as they land)
    - [ ] Validate (`scripts/check.sh`; 0 new broken links vs session baseline)
    - [ ] Bookkeeping (index, log, `Outstanding sources.md` ✅, `Structural_Sources`, file source out of `raw/` root)
+   - [ ] Cache cleanup (this ingest’s `scratchpad/` and/or `/tmp/` cache dir only)
 3. **Update the checklist as phases complete.** After spawn, show a **per-range row**
    (e.g. `range_1` … `range_N`) and flip each to done when its claims file is non-empty
    on disk. During integration, tick major page batches — do not hold all updates until
@@ -899,13 +900,19 @@ scope limits force a split, that is the user's call to make, not yours to assume
 the warranted-but-unbuilt hub explicitly and ask, rather than silently skipping it.
 
 Before spawning, run a **duplicate-page pre-scan** over the thinkers/entities the ingest
-will touch: grep both name orders (`durkheim-emile` / `emile-durkheim`), check
-synonymous theory titles (`structural-functionalism` / `functionalism`), and watch for
-the same entity split across folders (a school in both `theories/` and `disciplines/`,
-a people in both `societies/` and `cultures/`). State the canonical name in every agent
-prompt and queue any duplicates found for a main-thread merge in Step 4. Pre-resolving
-naming ambiguity once is far cheaper than letting N agents each rediscover and work
-around the same duplicate.
+will touch. **Resolve every candidate slug folder-agnostically** — `find wiki -name
+"<slug>.md"` (or a whole-vault `grep -rl`), NEVER a single-folder `[ -f folder/slug.md ]`
+test. Obsidian resolves wikilinks by bare filename across all folders, so a slug is already
+taken if it exists in *any* folder; a per-folder check gives false "missing" results and
+manufactures duplicate-slug collisions (this exact mistake created a duplicate
+`ancestral-polynesian-society` — the pre-existing page was in `concepts/`, the folder-blind
+check only looked in `societies/`). Grep both name orders (`durkheim-emile` /
+`emile-durkheim`), check synonymous titles (`structural-functionalism` / `functionalism`),
+and watch for the same entity split across folders (a school in both `theories/` and
+`disciplines/`, a people in both `societies/` and `cultures/`). State the canonical name in
+every agent prompt and queue any duplicates found for a main-thread merge in Step 4.
+Pre-resolving naming ambiguity once is far cheaper than letting N agents each rediscover and
+work around the same duplicate.
 
 **Step 2 — Split the book by disjoint line-ranges.** Divide raw text into N contiguous,
 non-overlapping chunks by line number.
@@ -984,8 +991,12 @@ scratchpad immediately after locating the source — before scaffolding, not jus
 spawning.** `raw/` is user-curated and mutable mid-session; slicing to session-local
 storage first makes the ingest immune. Re-verify any source path right before a read
 that follows a gap in time, and if a file disappears, check for deliberate curation
-before treating it as an error. Subagents may be launched in parallel (or larger
-batches) using background execution. Collect all task_ids.
+before treating it as an error. **Fire ALL extraction subagents in ONE immediate wave** —
+launch them together (one dispatch), never dribbled out across several dispatch moments.
+Extraction agents are independent by range with no cross-agent dependency, so staggering
+buys nothing and serialised dispatch is the single biggest wall-clock sink (a staged ingest
+took ~30 min; the same book in one wave + one integration wave took a fraction of that).
+Collect all task_ids.
 
 **Step 3 completion is a filesystem fact, not a wait-tool return value.** Silent
 subagent death (no crash artifact, no partial claims file) is a recurring
@@ -1025,7 +1036,29 @@ status still produces "frozen" sessions.
 6. **Optional bookkeeping:** note batch size and missing-range count in `wiki/log.md`
    for the ingest so recurrence is countable.
 
-**Step 4 — Review and tie together (main thread).** Dedupe overlapping claims; fix
+**Step 4 — Review and tie together (main thread).** This step has two beats: a
+**main-thread claims review** (the checkpoint), then **integration**.
+
+**4a — Claims review (the safety gate; do this before any integration).** Read the claims
+files yourself. Dedupe overlapping claims, resolve entity mismatches, catch collisions,
+and **lock the final page manifest + canonical slugs + which claims feed which page**.
+This checkpoint is what makes delegating integration safe: once naming, dedup, and the
+attributed-vs-wiki-voice calls are decided here, integration is just execution within
+rails. Skipping it is what produces duplicate-slug collisions.
+
+**4b — Integration.** Integration MAY be delegated to a wave of integration subagents
+(the Two-stage variant below), fired in **ONE wave after the review**, each under an
+explicit rule set you articulate (exact page ownership, the locked slug list, schema,
+Voice/Attribution Protocol, don't-touch-others'-pages, no invented slugs). **Guardrail —
+keep the highest-stakes pages on the main thread and write them yourself**: the central
+culture/discipline page, the most contested `debates/`, and anything heavy on the four-way
+non-identity rule. Delegate the rest. Rationale: the validator gates links and schema but
+NOT prose nuance or subtle theory-as-fact leakage, and parallel agents can't see each
+other's live text — so the trickiest ~10% of pages keep a higher ceiling when authored on
+the main thread. After integration, run the voice-audit grep (below) over the
+**agent-written** pages specifically, not just your own.
+
+The integration mechanics: dedupe overlapping claims; fix
 cross-links between new pages (subagents only linked Step-1 names); fill the source
 page's claim list; remove agent artifacts (stray instructions, prompt echoes,
 `</content>`-style tags — grep first); reconcile naming; **audit voice** — grep new and
@@ -1112,6 +1145,14 @@ are purpose-built for this wiki's schemas — see `scripts/README.md`.
   link to a non-existent slug.
 
 **Step 6 — Bookkeeping and file.**
+**Batch the whole step — bookkeeping is the measured slow-motion phase.** Do NOT run
+Step 6 as serial Read→Edit round-trips per file. One or two Bash calls should cover it:
+a single scripted pass (python read/replace/write, or heredoc appends) that marks the
+`Outstanding sources.md` line, appends the `Structural_Sources.md` entry, appends the
+`log.md` entry, inserts the `index.md` line, moves the source file, and removes the
+cache. These are append/mark-only files whose diff this session owns — the Read-tool
+Edit precondition is wasted latency here; reserve Read+Edit for content pages. Draft
+all bookkeeping text in one go before executing.
 1. **Update `Outstanding sources.md`** (mandatory when the work appears there): find
    the matching line item and append `✅ ingested YYYY-MM-DD` (plus a short note if
    useful — pages created, partial scope). Use `⚠️ **partial**` when only part of a
@@ -1131,6 +1172,27 @@ are purpose-built for this wiki's schemas — see `scripts/README.md`.
 4. Append the `log.md` entry and update `index.md`. **Do not run `git commit` or
    `git push` — the user handles all git operations.** Leave the work
    staged-or-unstaged as-is.
+5. **Cache cleanup (mandatory after a successful close).** Once Steps 1–4 of this
+   bookkeeping block are done **and** validation reported 0 new broken links (or only
+   pre-existing / concurrent-session noise), delete **this ingest’s** extraction cache
+   so `scratchpad/` does not accumulate forever. Apply the same rule to any
+   session-local `/tmp/..._cache/` used for the same ingest.
+   - **What to delete:** the single cache directory named at spawn (e.g.
+     `scratchpad/carneiro_cache/`, `scratchpad/kirch_chiefdoms_cache/`,
+     `/tmp/carneiro_cache/`) — full tree: source slices, OCR intermediates, claims
+     files, briefs. Also delete any one-off OCR sidecars or full-text dumps created
+     under `scratchpad/` **for this source only** (e.g. `scratchpad/foo-book.txt` cut
+     for this ingest).
+   - **What not to delete:** other sessions’ cache dirs; the whole of `scratchpad/`;
+     anything under `raw/` or `wiki/`; files you did not create for this ingest.
+   - **When to skip or defer:** (a) ingest is partial / failed mid-integration and
+     re-extraction may be needed; (b) the user asked to keep the cache; (c) a
+     concurrent session still owns the same cache path (should not happen — use
+     unique dir names). Note the skip in the log entry if you leave a large cache
+     behind on purpose.
+   - **How:** `rm -rf` the named cache dir only after a path check (`ls` the parent;
+     confirm the basename matches this session’s cache). Do not wild-delete
+     `scratchpad/*`. Tick the progress-checklist cleanup row when done.
 
 > The two protocols below remain authoritative for **what each page must contain** (page
 > types, frontmatter, link taxonomy, reflexivity) and **how to draw section boundaries**
@@ -1153,7 +1215,9 @@ For each source under ~400 pages:
    matching line item — mandatory when listed) and `Structural_Sources.md` (✅ / note).
 8. **File the source** to its `raw/` folder. If a PDF, convert to `.md` first, confirm
    the `.md` exists on disk, then delete the PDF.
-9. **Do not run `git commit` or `git push`** — the user handles all git operations once
+9. **Cache cleanup** — same rule as deployed Step 6.5: after a successful close, delete
+   this ingest’s `scratchpad/` and/or `/tmp/` cache dir only (not the whole scratchpad).
+10. **Do not run `git commit` or `git push`** — the user handles all git operations once
    the ingest is complete.
 
 A theoretical monograph may touch 5–15 pages; a classic ethnography 10–25 through
@@ -1214,9 +1278,10 @@ as deployed Step 6).
 **Step 5 — Final log entry**:
 `## [YYYY-MM-DD] ingest-complete | [Volume Title] | [Total pages created: N] | [Total pages updated: N] | [Sections processed: N]`
 
-**Step 6 — Stop after bookkeeping.** Confirm both source trackers carry the ingest
-mark. Do not run `git commit` or `git push` — the user handles all git operations once
-the volume is complete.
+**Step 6 — Stop after bookkeeping and cache cleanup.** Confirm both source trackers
+carry the ingest mark. Run the same **cache cleanup** as deployed Step 6.5 (this
+volume’s `scratchpad/` / `/tmp/` cache dir only). Do not run `git commit` or
+`git push` — the user handles all git operations once the volume is complete.
 
 ### Applied to specific series types
 - **Discipline handbooks (Oxford/Cambridge Handbooks, Sage Handbooks)** — boundaries

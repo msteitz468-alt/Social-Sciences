@@ -10,8 +10,8 @@ core_claims: ["Marriage rules are systems for the exchange of women between grou
 developed_from: ["[[mauss-the-gift-1925|Maussian reciprocity]]", "[[structuralism]]"]
 competes_with: ["[[descent-theory]]", "[[practice-theory]]"]
 status: active
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [theory, anthropology]
 ---
 
@@ -49,7 +49,7 @@ Treat the marriage system as a formal structure of exchange; distinguish the mod
 - **Prescriptive vs preferential:** [[needham-rodney|Needham]] restricted the theory's proper object to prescriptive systems; Lévi-Strauss rejected the reduction (see [[prescriptive-preferential-debate]]).
 - **Practice critique:** [[bourdieu-pierre|Bourdieu]] argued marriage is *strategy*, not rule-execution — kin categories are resources agents manipulate (see [[strategy-vs-rule]], [[structure-vs-agency-debate]]).
 - **Feminist critique:** the "exchange of women" frame treats women as objects, not agents (Gayle Rubin) — see [[exchange-of-women]].
-- **Leach** disputed specific analyses (Kachin gumsa/gumlao stability; Murngin "local lines" vs "descent lines"); Lévi-Strauss defended the structural model as a model, not a claim about empirical cycles.
+- **Leach** disputed specific analyses (Kachin gumsa/gumlao stability; Murngin "local lines" vs "descent lines"); Lévi-Strauss defended the structural model as a model, not a claim about empirical cycles. *[[leach-rethinking-anthropology-1961|Rethinking Anthropology]]* Ch. 3 (1951 Curl Prize Essay) is the early English critical commentary on *ESK*: method sympathy + ethnographic corrections + rank/bridewealth propositions for Kachin-type [[generalized-exchange]]; Ch. 1 aligns generalization-over-pattern with Lévi-Strauss against R-B [[butterfly-collecting|typology]].
 
 ## Current Status
 
@@ -62,3 +62,11 @@ The theory's central premise — that women are the objects circulated in exchan
 ## From Kuper, *Invention of Primitive Society* (1988)
 
 *(Attributed — Kuper 1988, Ch. 11.)* Kuper treats [[alliance-theory]] as Lévi-Strauss’s creation from reading (minimum field experience), and argues that **[[frazer-james-george|Frazer]]**’s theory of cross-cousin marriage (*Folklore in the Old Testament* Vol. 2, “Jacob’s Marriage”) was a more important direct source than Jakobson or Mauss alone — L-S as “essentially a transformation” of Frazer (reciprocity/total prestations replacing *Homo Oeconomicus* barter). Restricted vs generalized exchange, the [[atom-of-kinship]], and elementary/complex structures densified on this page already. Reception: Leiden (van Wouden, de Josselin de Jong); [[leach-edmund|Leach]] Kachin critique (ideology vs practice; unequal mayu–dama); [[needham-rodney|Needham]] formalist prescription/preference disputes; Dumont on affinity. Kuper’s larger thesis: alliance theory shared destiny with [[descent-theory]] as another transformation of the [[primitive-society]] prototype. Source: [[kuper-invention-of-primitive-society-1988]].
+
+## Leach / Needham / Kachin note — Kuper 2015 (short)
+
+*(Attributed — [[kuper-adam|Kuper]], *[[kuper-anthropology-and-anthropologists-2015|Anthropology and Anthropologists]]* 2015, Ch. 6.)*
+
+**Leach–Kachin.** While working highland Burma materials, [[leach-edmund|Leach]] read *[[levi-strauss-elementary-structures-1949|Elementary Structures]]*; Lévi-Strauss’s key example was Kachin (sources muddled with Haka Chin), yet spotted the political implication observers had missed — wife-givers as equals/superiors of wife-takers can generate lineage hierarchy. Leach filled in brideprice, chief-as-father-in-law, and the “dirty secret” that kinship “preached equality but fostered hierarchy”; able *gumlao* leaders and overreaching *gumsa* chiefs drive oscillation. Empirical grounding Kuper flags as weak; later Leach treated gumsa/gumlao as ideal-order contrast more than empirical fact. See *[[leach-political-systems-highland-burma-1954|Political Systems of Highland Burma]]* and [[leach-edmund]].
+
+**Needham.** [[needham-rodney|Needham]] struggled with *ESK*, oversaw the English translation, spent years ironing empirical deficiencies; Lévi-Strauss’s 1969 introduction repudiated Needham’s reinterpretations, “turning one ally into an enemy” — the institutional close of the British formalist alliance program (see [[prescriptive-preferential-debate]]). By then Leach (and Douglas) had moved toward classification and myth. Short reception note only; core theory claims remain above.

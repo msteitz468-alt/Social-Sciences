@@ -17,14 +17,14 @@ key_findings:
   - "Chagnon reported that cultivated foods (especially plantains) supplied the bulk of diet (~85%+), contrary to a pure foraging image; gardens and alliance-refuges structured settlement."
 concepts_introduced: ["[[waiteri]]", "[[nomohoni]]", "[[noreshi]]"]
 replication_status: reanalyzed-contested
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [study, anthropology]
 ---
 
 # Yanomamö: The Fierce People — Study
 
-> Deep analysis: [[hubs/studies/chagnon-yanomamo-fierce-people-study|Studies Hub]]. Source: [[chagnon-yanomamo-fierce-people-1968]]. Society: [[yanomamo]]. Debate: [[chagnon-tierney-yanomami-ethics-debate]]. Thinker: [[chagnon-napoleon]].
+> Deep analysis: [[hubs/studies/chagnon-yanomamo-fierce-people-study|Studies Hub]]. Source: [[chagnon-yanomamo-fierce-people-1968]]. Society: [[yanomamo]]. Debate: [[chagnon-tierney-yanomami-ethics-debate]]. Thinker: [[chagnon-napoleon]]. Career afterlife memoir (not a reanalysis of this design): [[chagnon-noble-savages-2013]].
 
 ## Question and Context
 
@@ -68,7 +68,7 @@ The book became a standard teaching ethnography of Amazonian politics and of eth
 
 1. **Representation.** Critics argue that "the fierce people" essentializes a diverse population and amplifies violence relative to cooperation, caregiving, and historical trauma from contact. Defenders argue Chagnon documented real raid and duel patterns under-reported by romantic Amazonianism.
 2. **Method and positionality.** Genealogical deception, trade-good leverage, missionary/military logistics, and the ethnographer's adopted aggressive persona raise questions about reactivity: did the research situation intensify conflict displays?
-3. **Ethics afterlife.** Patrick Tierney's *Darkness in El Dorado* (2000) and the AAA El Dorado process generalized the controversy to informed consent, genetic sampling (Neel collaboration), and harm to Yanomami communities — see [[chagnon-tierney-yanomami-ethics-debate]]. Many specific Tierney charges were themselves contested; the debate remains open.
+3. **Ethics afterlife.** Patrick Tierney's *[[tierney-darkness-el-dorado-2000|Darkness in El Dorado]]* (2000; polemic/artifact ingest) and the AAA El Dorado process generalized the controversy to informed consent, genetic sampling (Neel collaboration), film staging, media first-contact theater, and harm to Yanomami communities — see [[chagnon-tierney-yanomami-ethics-debate]]. Chagnon's public Position-A counter is *[[chagnon-noble-savages-2013|Noble Savages]]* (2013; also polemic/artifact) — career memoir, not a reanalysis of this 1968 design. Many specific Tierney charges were themselves contested; the debate remains open. Do not back-propagate either polemic's theses onto 1968 findings as wiki voice.
 4. **Later restudies.** Subsequent ethnographers (not ingested here) reanalyzed Yanomami warfare rates, female infanticide, and unokai reproductive success claims from later Chagnon papers — afterlives of the research *program*, not replications of the 1968 case study as such.
 
 ## Current Standing

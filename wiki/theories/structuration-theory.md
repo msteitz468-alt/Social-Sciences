@@ -5,7 +5,7 @@ disciplines: [sociology, social-theory]
 era_origin: [critical-turn]
 date_origin: 1976
 originated_by: ["[[giddens-anthony]]"]
-key_texts: ["[[giddens-constitution-of-society-1984|The Constitution of Society (1984)]]", "New Rules of Sociological Method (1976)", "Central Problems in Social Theory (1979)"]
+key_texts: ["[[giddens-constitution-of-society-1984|The Constitution of Society (1984)]]", "[[giddens-consequences-of-modernity-1990|The Consequences of Modernity (1990)]]", "New Rules of Sociological Method (1976)", "Central Problems in Social Theory (1979)"]
 core_claims:
   - "Giddens argues that structure is both medium and outcome of the practices it recursively organizes (duality of structure), not an external constraint opposed to agency"
   - "He holds that agents are knowledgeable (discursive and practical consciousness) and that routine is central to ontological security and institutional reproduction"
@@ -74,6 +74,8 @@ To be expanded from secondary sources. Recurrent charges (as positions): abstrac
 
 `status: active` as vocabulary and problem-framing in social theory and some applied fields (management, IS, geography, nursing, education research use "structuration" with varying fidelity). Whether the full program still organizes a coherent research community is contested in secondary literature not yet ingested. What survived: duality language; practical consciousness; ontological security; time-space distanciation; double hermeneutic — often detached from the full apparatus.
 
+*[[giddens-consequences-of-modernity-1990|The Consequences of Modernity]]* (1990) applies and extends the apparatus (time-space distanciation, double hermeneutic, ontological security) into an institutional theory of [[radicalised-modernity]], [[disembedding]], and [[trust]] in [[abstract-systems]] — a sequel program rather than a restatement of duality of structure alone.
+
 ## Reflexivity
 
 Produced in British academic sociology during the Critical Turn, in dialogue with continental theory and American interactionism, from a relatively privileged institutional location (Cambridge). The theory's generality and abstractness are both a claim (universal properties of social action) and a risk (under-specification of inequality, empire, and positionality). Treat production context as shaping ambition and blind spots without reducing the program to biography.
@@ -84,8 +86,8 @@ Produced in British academic sociology during the Critical Turn, in dialogue wit
 
 ## Links
 
-- Source: [[giddens-constitution-of-society-1984]]
+- Sources: [[giddens-constitution-of-society-1984]] · [[giddens-consequences-of-modernity-1990]]
 - Thinker: [[giddens-anthony]]
 - Hub: [[hubs/theory/structuration-theory]]
-- Debate: [[structure-vs-agency-debate]]
-- Parallel: [[practice-theory]]
+- Debate: [[structure-vs-agency-debate]] · [[postmodernity-epochal-break-debate]]
+- Parallel: [[practice-theory]] · [[risk-society]] · [[reflexive-modernization]]

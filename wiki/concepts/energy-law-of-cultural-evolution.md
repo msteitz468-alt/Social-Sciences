@@ -7,9 +7,9 @@ disciplines: [anthropology, archaeology]
 emic_or_etic: etic
 operationalized_as: "energy harnessed per capita per year; efficiency of tools putting energy to work; sometimes horsepower per capita comparisons"
 contested: yes
-related_concepts: ["[[culturology]]", "[[universal-evolution]]", "[[cultural-core]]", "[[agricultural-revolution]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[culturology]]", "[[universal-evolution]]", "[[cultural-core]]", "[[agricultural-revolution]]", "[[general-and-specific-evolution]]", "[[law-of-cultural-dominance]]", "[[law-of-evolutionary-potential]]"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -30,6 +30,8 @@ Rewritten with human/nonhuman energy split: **E(H×N)×T → P** — culture adv
 ## Semantic History
 
 White grafted nineteenth-century cultural evolution onto twentieth-century energetics (thermodynamics, entropy, horsepower comparisons). Mid-century neo-evolutionists and archaeologists (Childe's revolutions; later energy-flow and systems archaeology) kept the energy axis; [[steward-julian-h|Steward]] accepted energy/subsistence importance inside [[cultural-core]] but denied that universal energy levels alone explain particular cultural forms ([[multilinear-evolution]]). Cultural materialism (Harris) and ecological anthropology absorbed energetic prioritization under other labels. Contemporary dual-inheritance and cultural-evolution models rarely use White's per-capita energy law as a master key.
+
+**Sahlins & Service 1960 (primary).** *[[sahlins-service-evolution-culture-1960|Evolution and Culture]]* operationalizes Whitean energy inside [[general-and-specific-evolution]]: Sahlins treats amount of energy concentrated / total energy transformation of a cultural organization (not mere conversion efficiency) as a principal **absolute** criterion of general cultural progress. Kaplan’s [[law-of-cultural-dominance]] states dominance as higher energy return per unit labor in a given environment. Service’s LEP applications include leapfrogging across energy regimes (coal/oil centers vs later industrializers).
 
 ## Operationalizations
 

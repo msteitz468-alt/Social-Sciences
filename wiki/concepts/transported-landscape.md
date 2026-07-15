@@ -8,7 +8,7 @@ emic_or_etic: etic
 operationalized_as: "The portable biotic and cultural package — purposeful cultigens and domestic animals, accidental commensals (rats, lizards, arthropods, anthropophilic snails), weeds, and associated cognitive/technological knowledge (fire clearance, irrigation moulds, political landscape division) — that Oceanic colonizers carried between islands, remaking recipient ecosystems"
 contested: no
 related_concepts: ["[[ancestral-polynesian-society]]", "[[agricultural-intensification]]", "[[carrying-capacity]]", "[[chiefdom]]", "[[lapita-cultural-complex]]"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [concept, polynesia, archaeology]
 ---
@@ -124,6 +124,19 @@ geometry of land division are part of the transported package in Kirch’s exten
   `caused_by` for chiefdom evolution; Kirch embeds it in multi-process models.
 - Conservation-ethic critique is Kirch’s 1984 position against a then-common popular/
   academic thesis — not a timeless ethnographic claim about all Oceanic ethics.
+
+## Update: *On the Road of the Winds* (Kirch 2017)
+
+*(Attributed — [[kirch-road-of-the-winds-2017|Kirch 2017]].)* Kirch pushes the concept back to the
+**[[lapita-cultural-complex|Lapita]]** colonization of Remote Oceania (~1300–800 BC): the Lapita
+"transported landscape" bundled ~28 cultivated species (15 archaeobotanically attested) plus pig,
+dog, and chicken, and its arrival is treated as the trigger for irreversible island ecological
+change — the extinction of the New Caledonian giant megapode (*Sylviornis*) and terrestrial
+crocodile (*Mekosuchus*), and widespread Tongan and Manuʻan land-bird losses (Steadman). In the
+2017 synthesis (Ch. 9) Kirch frames Remote Oceanic island ecosystems as an early instance of the
+**Anthropocene** — anthropogenic extinction and forest-to-grassland conversion beginning "3,200
+years ago with the Lapita expansion" (Rick et al. 2013) — while, as in 1984, resisting a moralized
+"destructive ethos" reading: "most often, Pacific landscapes were what people made of them."
 
 ## Related Concepts
 

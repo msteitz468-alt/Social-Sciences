@@ -7,8 +7,8 @@ disciplines: [archaeology, biological-anthropology]
 emic_or_etic: etic
 operationalized_as: "Transformation of wild Oryza rufipogon into domestic Oryza sativa under cultivation, tracked by grain morphology, phytolith size, and settlement/pottery associations"
 contested: yes
-related_concepts: ["[[domestication]]", "[[horticulture]]", "[[jomon-culture]]", "[[agricultural-revolution]]", "[[complex-hunter-gatherers]]"]
-sources_ingested: 1
+related_concepts: ["[[domestication]]", "[[horticulture]]", "[[jomon-culture]]", "[[agricultural-revolution]]", "[[complex-hunter-gatherers]]", "[[yangshao-culture]]", "[[early-farming-dispersal-hypothesis]]"]
+sources_ingested: 5
 last_updated: 2026-07-10
 tags: [concept, archaeology, east-asia, domestication]
 ---
@@ -48,3 +48,79 @@ As of Mithen 2003:
 - Phytolith size criteria and species identification remain methodologically argued in specialist literature.
 - “Independent of Southwest Asia” is well supported as a package claim; local multi-center detail is open.
 - Rice farmers ≠ Jōmon people ≠ modern national populations as simple equations — Mithen’s remarks on modern Japanese ancestry and Ainu–Jōmon links are **positions as of 2003**, pre-aDNA.
+
+## Bellwood densification — *First Farmers* (2005)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005, ch.6 and South Asia cross-refs; chronologies as of that synthesis.)*
+
+### Yangzi–Huai origin and chronology
+
+- Asian rice *Oryza sativa* first domesticated Yangzi Basin by ~**7000 BC** (as of Bellwood 2005); mid-Holocene wild *O. rufipogon* to as far N as Huai; Yellow Basin winters too cold/dry for rice (attributed).
+- **Diaotonghuan / Xianrendong (Jiangxi)** (Zhao 1998; Lu et al. 2002 via Bellwood): wild rice phytoliths ~11,000 BC; absence during Younger Dryas; return ~8000–9000 BC claimed partly domesticated — **northern edge of wild range** critical. Yuchanyan Hunan rice + pottery prior to 8000 BC (Chen 1999 via Bellwood) (attributed).
+- Oldest full Neolithic villages Yellow + Yangzi with undisputed agriculture ~7000/6500 BC. **Jiahu** (Huai, Peiligang-related material culture) rice-based economy ~7000–5800 BC — rice + millet tradition **overlap**; two completely separate Chinese agricultural origins “counterindicated”; single large diffuse center more likely (Cohen 2003 via Bellwood) (attributed).
+- **Pengtoushan** near Lake Dongting ~7000 BC rice-husk tempered pottery; **Bashidang** ~3 ha, prolific rice (>15,000 grains), possible domesticates; **Chengtoushan/Caoxieshan** bunded rice fields ~4500–3000 BC oldest actual rice fields China (He 1999 via Bellwood) (attributed).
+- **Hemudu** base ~5000 BC enormous rice remains (~120,000 kg fresh-grain equivalent, Yan via Bellwood); pile dwellings, bone spades, water buffalo possibly domesticated (attributed).
+
+### Process analogy and indica/japonica debate
+
+- Domestication processes **analogous to Levant**: planting away from wild stands, non-shattering selection, Younger Dryas stress; rice first domesticated on N edge of range (middle Yangzi + Huai) (attributed). Bellwood’s “feeling” rice domestication may have preceded millets and stimulated N movement (Bellwood 1995, in press as of 2005) — not yet certain (thesis).
+- **Indica/japonica positions (as of Bellwood 2005):** Zhang Wenxu — Yangzi ancestral both japonica and indica; Sato — Yangzi → japonica only, indica separate S (NE India/Thailand?); Zhang & Wang — japonica Huai, indica Yangzi. Bellwood: totally independent Indian/Mainland SE Asian domestication unlikely given chronologies, but other wild races may have been domesticated; “archaeological likelihood that native indica rices were domesticated in northeast India should not be taken lightly” without full independence (position).
+
+### South Asia and SE Asia spread
+
+- **South Asia:** no clear-cut early independent Indian rice domestication; rice widespread N India by ≥2500 BC; Ganges mixed SW Asian winter crops + rice from Neolithic start ~3000 BC; Bellwood favors dual movement ~3000 BC: cord-marked rice complex upstream from E meeting OCP/SW Asian complex downstream from W (attributed). **Koldihwa** claimed rice/cord-marked pottery C14 to 6500 BC largely **rejected** for Neolithic association (Mahagara 2nd millennium BC; consensus dates don’t relate to Neolithic material — Dhavalikar, Glover & Higham; accepted by Chakrabarti 1999) *(as of Bellwood 2005)*.
+- **SE Asia:** Mainland firm rice by ≥2300 BC Thailand; Vietnam good rice evidence ~2000 BC+; Shixia N Guangdong plentiful rice ~3000 BC; Taiwan Dapenkeng rice + foxtail millet; rice largely dropped crossing equatorial ISEA into Oceania (attributed). Farming/language program links rice/millet packages to Sino-Tibetan, Austroasiatic, Austronesian expansions under [[early-farming-dispersal-hypothesis]] — association only, not crop = language = people.
+
+Contrast: [[jomon-culture]] affluent foragers adjacent to rice world for millennia. Millet partner: [[yangshao-culture]] Yellow River tradition. Source: [[bellwood-first-farmers-2005]].
+
+## Liu & Chen densification — *The Archaeology of China* (2012)
+
+*(Attributed — [[liu-chen-archaeology-of-china-2012|Liu & Chen 2012]], ch. 4, "Domestication of Plants and Animals," except where marked [FINDING].)*
+
+### Yangzi origin and the indica/japonica question
+
+Asian domesticated rice (*Oryza sativa*), comprising the *indica* and *japonica* subspecies, is generally agreed to derive from common wild rice (*Oryza rufipogon*) (as of Liu & Chen 2012). Liu & Chen report that a **general scholarly consensus** now places the first domestication of rice in the middle and lower Yangzi River region, based on the Shangshan, Xiaohuangshan, and Kuahuqiao sequence (11,000–7000 cal BP); wild-rice remains from Pleistocene deposits at Xianrendong and Diaotonghuan (Jiangxi) and from early Neolithic Zhejiang sites confirm the Yangzi region as natural wild-rice habitat (as of Liu & Chen 2012).
+
+### Three conflicting identification methods
+
+Liu & Chen note that three competing methods are used to identify the onset of domestication — grain length/width morphology, phytolith analysis, and panicle-rachis morphology — and that these methods yield **conflicting dates** for domestication's onset (as of Liu & Chen 2012). Rachis-morphology studies illustrate the disagreement directly: Zheng et al. (2007) found 42% cultigen-type (tough) rachis scars among 120 Kuahuqiao spikelets versus 51% among 451 later Luojiajiao/Tianluoshan spikelets (8000–7500 cal BP), and extrapolated a "domestication rate" implying initial domestication before 10,000 cal BP and full domestication only after >5,000 years — a projection Liu & Chen caution remains untested on larger samples. A later reexamination of Tianluoshan material (Fuller et al. 2009) found nonshattering spikelet-base proportion rising from only 27% to 39% over 300 years (6900–6600 cal BP), a considerably lower rate than Zheng et al.'s figure (as of Liu & Chen 2012).
+
+### Domestication as a continuum
+
+Liu & Chen conclude — a claim with direct bearing on the wiki's domestication-as-continuum framing (see [[domestication]]) — that "rice domestication was a continuum, and we may never be able to draw a clear demarcation between cultivated wild rice and cultivated domesticated rice in the archaeological record" (as of Liu & Chen 2012). If domestication took several millennia from terminal-Pleistocene exploitation to full domestication in the early-middle Holocene, selection pressure was not intensive and rice played only a minor subsistence role throughout the transitional period (Liu & Chen, citing Zhao & Zhang 2009).
+
+### Kuahuqiao and Tianluoshan rachis data; irrigation
+
+The Kuahuqiao/Tianluoshan rachis-percentage data above [FINDING] are the wiki's most granular quantitative anchor for the pace of rice domestication in the Yangzi sequence. Early rice paddies and irrigation works at Tianluoshan (5000–2500 BC), Chengtoushan (4500–4300 BC), and Caoxieshan (ca. 4000 BC) indicate intensified rice production by roughly 7,000 years ago in the Yangzi region [FINDING]. Zong et al. (2007) interpreted Kuahuqiao sediment pollen/charcoal as showing deliberate land-clearing by fire and paddy management by 7700 cal BP; the site's excavator (Jiang 2008) disputed this, arguing the samples reflect residential refuse rather than field deposits — a live methodological disagreement (position).
+
+### Spread to the Yellow River
+
+Rice reached the lower Yellow River region (Yuezhuang, Shandong) by 8000 cal BP, the middle Yellow River region (Nanjiaokou, Huizui) by 6000–5500 cal BP, and the upper Yellow River valley (Qingyang, Xishanping) by 5500–5000 cal BP [FINDING]. Whether rice was already a staple, large-scale crop at Hemudu (hoe-agriculture, per Huang 1998/Yan 1982) or whether hunting-gathering with only minor rice cultivation predominated (Cai 2006, questioning bone-spade function; also Crawford, Crawford & Shen) remains a live dispute (position).
+
+### Jiahu harvesting tools
+
+[[jiahu|Jiahu]], in the Huai River region of Henan, has yielded the earliest known rice-harvesting tools in north China: 45 polished stone sickles (16% of polished stone implements), though sickle function has not yet been confirmed by use-wear analysis [FINDING]. See [[jiahu]] for the site's fuller domestication and subsistence record.
+
+Sources: [[liu-chen-archaeology-of-china-2012]] alongside earlier densifications above.
+
+## Barker 2006 (*Agricultural Revolution in Prehistory*)
+
+*(Attributed — [[barker-graeme|Graeme Barker]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006, Chs. 5–6; genetic claims **(as of Barker 2006)** only.)*
+
+- **Dual South Asia / East Asia domestications.** Barker reports DNA studies indicating separate rice domestication histories: *japonica* evolving in China from perennial *Oryza rufipogon*; *indica* separately from annual *O. nivara* — favouring separate events in India and China (Jones & Brown 2000; Cohen 1998 **as of Barker 2006**). Grain/glume phytolith size used archaeologically, but early husbandry may lack morphological differentiation (attributed).
+- **South Asia trajectory.** Barker reports possible small-scale rice horticulture among increasingly sedentary Ganga foragers (Damdama, Mahagara, Chopani-Mando, Koldihwa) with cord-impressed pottery rice impressions possibly seventh–sixth millennia BC (chronology uncertain); variable wild+domestic morphologies. Domestic rice at Harappa after c.2200 BC (and later Lothal/Rangpur/Ahar) but **not** staple-scale until later; Mahagara/Koldihwa “unusually early” and disputed. By second millennium BC rice cultivated far from natural range. He rejects treating South Asian rice as mere east-Asian Neolithic colonization (attributed position).
+- **China trajectory.** Late Pleistocene pottery + wild rice (Xianrendong/Diaotonghuan, Yuchanyan); mid-Holocene climatic optimum spreads wild rice into the Yangzi basin. Zhao multivariant phytolith analysis: by c.7500 BC domestic rice phytoliths predominate at Xianrendong with full digging/harvesting toolkit → horticulture certain (as Barker reports). Pengtoushan/Bashidang eighth-millennium Yangzi villages (Bashidang ~15,000 grains); Hemudu later sixth millennium with enormous fully domestic rice deposits and probable wet-rice (bunded fields) though no direct paddy evidence (attributed). Water buffalo and plough **not** part of prehistoric wet-rice as far as known (as of Barker 2006).
+- **SE Asia / island SE Asia.** Coastal Thailand pollen: rice phytoliths from ~6000 BC, surge ~5000 BC; Khok Phanom Di small-scale rice on flooded swamp soils c.2000–1500 BC still with wild wetland/marine foods. Higham (position Barker records): Austroasiatic-speaking rice farmers ultimately from Yangzi interacting with foragers. Island SE Asia early domestic rice (Gua Sireh ~2300 BC; Niah ~2500 cal BC; Ulu Leang ~2000 BC) appears **near-simultaneously** rather than as steady southward Austronesian-migrant spread; rice not staple in Sarawak until medieval times — primary crops yam/taro/sago (Barker position). Rapid ~2000 BC rice-pig uptake may exemplify Hayden luxury/prestige foods before staples (attributed).
+- **Identity caution.** Separate DNA lineages and archaeological trajectories are **not** equations of rice = language family = genetic population. Cross-links: [[millet-domestication]], [[yangshao-culture]], [[austronesian-expansion]], [[kuk-swamp]], [[agricultural-origins-causation-debate]].
+
+## Mainland Southeast Asian evidence (Higham 1989)
+
+*(Attributed — [[higham-charles|Higham]], [[higham-archaeology-mainland-southeast-asia-1989|The Archaeology of Mainland Southeast Asia]] 1989; rice's wild-vs-domestic status through General Periods A–B, as of Higham 1989, is largely indirect and contested rather than settled.)*
+
+Direct grain evidence is scarce. At [[non-nok-tha]] no rice grains were recovered at all; the case rests on rice-chaff-tempered pottery sherds, rising from ~1.5% to 13.5% of sherds over the sequence — evidence botanists read differently (Chang 1976: between wild and weed rice; Vishnu-Mittre 1975: indeterminate). At [[ban-na-di]], by contrast, flotation-recovered grains were judged cultivated (Chang and Loresto 1984). At [[khok-phanom-di]], husk and chaff-tempering evidence likewise left wild/domestic status unresolved as of Higham 1989.
+
+Settlement location is a recurring correlate: sites cluster on low-terrace soils near stream confluences subject to regular but shallow flooding — the habitat wild rice favors. White (1982a) proposed that early settlers cleared this vegetation to encourage rice proliferation, and Higham's own synthesis goes further in attributed voice: initial settlers "cleared the vegetation in low-lying wetlands to encourage the proliferation of rice. It is highly likely that this rice was of a domesticated strain" (Higham 1989).
+
+Higham repeatedly flags a methodological caution against inferring domestication from morphology or habitat alone: Oka and Morishima (1971) showed that regular harvesting of wild rice modifies seeding rate and spikelet number within about five generations, so a population showing "domestication-syndrome" traits need not be under cultivation. As an explicit ethnographic analogy (not evidence), Higham notes that historic Tonle Sap peoples harvested wild floating rice by boat (Delvert 1961) without cultivating it. At Khok Phanom Di he goes so far as to argue the more secure process was "domestication... not necessarily of plants or animals, but rather of people" — sedentism itself — treating the plant's cultivation status as "immaterial" to that argument.
+
+See [[domestication]] for the parallel animal-domestication record (pig, cattle, dog) at these same sites.

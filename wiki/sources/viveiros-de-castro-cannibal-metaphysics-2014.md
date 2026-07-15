@@ -10,8 +10,9 @@ methodological_approach: theoretical
 reliability_notes: "Speculative-philosophical synthesis of the author's Amazonianist ethnography and structuralist/Deleuzian theory; first English edition (Univocal, 2014), translated and edited by Peter Skafish from the French *Métaphysiques cannibales* (PUF, 2009). Empirical illustrations (Araweté, Amazonian ethnography) are drawn from the author's own and others' fieldwork but are marshalled as philosophical arguments, not presented as fresh findings — treat all claims as attributed theoretical positions, not established findings. Skafish's long translator's introduction is a secondary framing of the author's project and reception."
 study_page: 
 pages_created: 9
-pages_updated: 8
+pages_updated: 9
 ingested: 2026-07-09
+last_updated: 2026-07-15
 tags: [source]
 ---
 
@@ -54,6 +55,8 @@ All claims are **attributed** (theoretical work; ethnographic material is deploy
 ## Volume Synthesis Note
 
 *Cannibal Metaphysics* is a programmatic, speculative-philosophical work: it argues that anthropology can *do* metaphysics, and that the metaphysics worth doing is one built from the concepts of Amazonian peoples. Its three linked theses — [[perspectivism]] (nonhumans are persons who differ by body), [[multinaturalism]] (one culture, many natures), and virtual affinity (the affine-enemy as the primary relation) — are welded to a method, [[controlled-equivocation|controlled equivocation]], and a genealogy that reads [[levi-strauss-claude|Lévi-Strauss]] through [[deleuze-gilles|Deleuze]] to produce a "post-structural anthropology." The book culminates in the "cannibal cogito": against a Western selfhood grounded in the Friend/self-relation, an Amerindian selfhood grounded in incorporating the [[arawete|enemy's]] point of view.
+
+**Update (2026-07-15):** The Araweté ethnographic base underlying this book's arguments is now separately, fully ingested as [[viveiros-de-castro-enemys-point-of-view-1992|From the Enemy's Point of View]] (1992 [1986]) — see [[viveiros-de-castro-eduardo]] and [[viveiros-de-castro-enemys-point-of-view-study]]. The 1992 monograph precedes and grounds this book's philosophical synthesis; it should be consulted for the primary ethnographic record behind the "perspectivism"/"multinaturalism" claims made here.
 
 For this vault the work is doubly important. It supplies the **Viveiros de Castro pole** of the [[ontological-turn]] to sit beside the already-ingested **Descola pole** (*[[descola-beyond-nature-and-culture-2005|Beyond Nature and Culture]]*), and it makes their long disagreement — perspectivism as a *concept* vs. as a *subtype of animism* — explicit and citable ([[ontological-turn-debate]]). It also seeds the vault's first pages on [[deleuze-gilles|Deleuze]] and [[wagner-roy|Roy Wagner]] as anthropological interlocutors. Tension with existing content is productive rather than contradictory: where the [[structuralism]] pages present a program that is "absorbed," this source documents one live afterlife of it.
 

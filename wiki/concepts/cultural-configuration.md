@@ -27,6 +27,8 @@ Central to [[configurationism]]; explicitly modelled on Gestalt psychology's par
 
 Identified interpretively: infer the dominant emotional/purposive "set" a culture expresses across ritual, kinship, economy, and emotion, then read each institution as its expression. Benedict conceded the **origin** of a configuration is underdetermined — archaeology cannot say why one small region came to express "a consistent and particular attitude toward existence"; she flagged this as a live gap rather than resolving it.
 
+> **Not Kroeber's "growth configuration."** Benedict's *cultural* configuration (the synchronic personality-like patterning of a whole culture) is distinct from [[growth-configuration|A. L. Kroeber's "growth configuration"]] in *[[kroeber-configurations-culture-growth-1944|Configurations of Culture Growth]]* (1944) — a diachronic rise–peak–decline profile of a single activity. Shared Boasian holism, different concepts.
+
 ## Applications
 
 The analytic unit of *Patterns of Culture* — Benedict argued "the significant sociological unit… is not the institution but the cultural configuration," since the same institution (the Kula, a mourning rite) means different things in different wholes.

@@ -8,7 +8,7 @@ emic_or_etic: etic
 operationalized_as: "Sedentism or seasonal aggregation, storage, cemeteries, craft (pottery, ground axes), long-distance materials, and contested inequality among foragers without full farming"
 contested: yes
 related_concepts: ["[[sedentism]]", "[[domestication]]", "[[broad-spectrum-revolution]]", "[[coastal-adaptation]]", "[[horticulture]]", "[[natufian-culture]]", "[[jomon-culture]]", "[[ertebolle-culture]]"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [concept, archaeology, mesolithic]
 ---
@@ -53,3 +53,18 @@ As of [[mithen-after-the-ice-2003|Mithen 2003]]:
 - **Violence and inequality** readings from cemeteries are interpretive and contested.
 - Dates, genetic ancestry, and peopling models (as of Mithen 2003) predate the aDNA revolution — keep regional claims attributed and date-stamped.
 - Four-way non-identity: complex-forager *assemblage* ≠ language ≠ genes ≠ self-conscious people.
+
+## North American cases (Fagan 1991, attributed)
+
+[[fagan-ancient-north-america-1991|Fagan (1991)]] treats the **Pacific coast** as the New
+World's classic complex-forager province: the [[northwest-coast-cultural-tradition|Northwest
+Coast]] peoples and the Californian [[chumash|Chumash]] built ranked, sedentary, wealthy
+societies — plank houses, monumental art, shell-bead money, offshore canoes — on salmon, sea
+mammals, shellfish, and acorns, without agriculture. Fagan (quoting Heizer) frames these as
+reaching "about the limit of social complexity possible without adopting agriculture," a limit
+he attributes to unusually rich, storable, seasonally predictable resources. He records the live
+causal debate — whether efficient resource use *required* centralized management (Fladmark/Ames)
+or whether **resource ownership and differential access** produced ranking and ritualized
+redistribution ([[potlatch|potlatches]]) as adaptive responses (Croes & Hackenberger) — and
+classes many Late Period societies as chiefdoms or "Big Man" polities. The
+[[ozette|Ozette]] wet site is the exemplar. Source: [[fagan-ancient-north-america-1991]].

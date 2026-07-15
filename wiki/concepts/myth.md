@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "narrative treated as lawful product of the mind; myth as personification of nature and as evidence about its makers"
 contested: yes
 related_concepts: ["[[animism]]", "[[survivals]]", "[[psychic-unity-of-mankind]]", "[[structuralism]]", "[[binary-opposition]]", "[[bricolage]]"]
-sources_ingested: 3
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -45,7 +45,11 @@ Solar and nature mythology collapsed by the early twentieth century — Andrew L
 - **A myth is all its versions.** Structural analysis abandons the search for an "authentic" original: "we define the myth as consisting of all its versions" — Freud's reading of Oedipus is itself "a version." Mythical thought moves from opposition toward **mediation** (the trickster — coyote, raven — as a mediator between herbivore and predator).
 - **No qualitative gap.** "The kind of logic in mythical thought is as rigorous as that of modern science... the difference lies, not in the quality of the intellectual process, but in the nature of the things to which it is applied."
 
-Myth and ritual, Lévi-Strauss added ("Structure and Dialectics"), are not simply redundant: their correspondence, where it exists, is often a **structural inversion** visible only against a *neighbouring* society's ritual (his Pawnee "pregnant boy" / Plains age-grade analysis). This program is developed at length in *Mythologiques* (the raw/the cooked). See [[structuralism]], [[binary-opposition]], [[bricolage]].
+Myth and ritual, Lévi-Strauss added ("Structure and Dialectics"), are not simply redundant: their correspondence, where it exists, is often a **structural inversion** visible only against a *neighbouring* society's ritual (his Pawnee "pregnant boy" / Plains age-grade analysis). This program is developed at length in *Mythologiques*. See [[structuralism]], [[binary-opposition]], [[bricolage]], [[culinary-triangle]].
+
+### Mythologiques II — *Du miel aux cendres* (1966/67)
+
+*(Attributed — Lévi-Strauss; source [[levi-strauss-miel-aux-cendres-1966]]; study [[levi-strauss-miel-aux-cendres-study]].)* Vol. II continues Vol. I by analyzing substances **beside** cuisine: honey (infra-culinary seduction of nature) and tobacco smoke (meta-culinary offering). South American myths form closed transformation groups (often sharing the bird-nester armature with inverted messages); dry-season “mythology of Lent” converts alimentary, astronomical (Pleiades), and sociological codes; *instruments des ténèbres* (noise, stench, rattles) extend the analysis into acoustic mediation. Closing thesis: mythical thought can contemplate relations among concepts freed from concrete images (logic of qualities → logic of forms) **without** evolutionary necessity; structural analysis grants history the place of irreducible contingency. Vol. I *Le Cru et le Cuit* not yet primary-ingested.
 
 **Vansina (1961, attributed) — myth as a *type of oral tradition*:** In *[[vansina-oral-tradition-1965|Oral Tradition]]*, [[vansina-jan|Vansina]] treats myth not as a stage of mind but as a class of historical source: a **didactic tale explaining the world, culture, or society in terms of religious causes**, usually recited during an enacting rite and set in a "sacred time" distinct from profane time. He explicitly **rejected Feder's classification** lumping myths together with aetiological myths and hero/saint legends, arguing myth uniquely interprets natural/supernatural relations beyond the moral order. Because myths are transmitted with religious care yet are explanation-driven, they are valuable for the history of belief but treacherous for specific events (watch for anachronism). He distinguished **aetiological myths** — explaining the origin of a cultural trait or natural feature *without* religious causation, in four subtypes (local legends, tales of natural phenomena, popular etymologies, tales of cultural traits). Citing Baumann, "aetiological myths are the sources best suited for providing accurate information about cultural history," yet few are reliable because "adapted to their aim, which is to instruct or edify" — the trustworthy detail is what is incidental to the moral. See [[oral-tradition]], [[oral-testimony]].
 

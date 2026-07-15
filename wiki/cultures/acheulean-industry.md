@@ -15,7 +15,7 @@ preceded_by: [oldowan-industry]
 succeeded_by: [mousterian-industry]
 language_affiliation: "[[unknown]] — industry, not a population"
 genetic_signature: "[[unknown]] — industry, not a population"
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [culture, early-prehistory, late-prehistory, africa, near-east, europe]
 ---
@@ -53,6 +53,18 @@ The Acheulean is a technological category — a way of making stone tools — no
 The Acheulean takes its name from St. Acheul, France, one of the earliest-recognized handaxe sites; the Movius Line concept, framing a fundamental East/West technological divide in the Old World, has been progressively qualified as more East Asian biface occurrences have come to light. Interpretation of Acheulean subsistence behavior has shifted from confident "big-game hunter" narratives toward Klein's more cautious position that hunting capability at most open-air sites cannot be securely distinguished from carnivore or natural bone accumulation.
 
 See [[klein-human-career-1999]] for the source synthesis underlying this page.
+
+### Phillipson — *African Archaeology* (2005)
+
+*(Attributed — [[phillipson-african-archaeology-2005]], [[phillipson-david-w]]; **as of Phillipson 2005**.)*
+
+- **Timespan:** Acheulean-type artefacts first appear in eastern Africa ~**1.6 Ma** and survive in most areas until ~**350–250 ka** — ≥1.25 million years (Phillipson).
+- **Mode 2:** Handaxes (pear-shaped/ovate, often 12–20 cm) define the industry in conventional terms; African assemblages often include **cleavers** on large flakes; flakes, cores, and mode-1-like pieces are also present — bifaces are not the whole toolkit.
+- **Makers:** Genus *Homo* (*H. ergaster* / African *H. erectus*; later archaic *H. sapiens* / *H. heidelbergensis*); robust australopithecines unlikely as primary Acheulean makers (Phillipson).
+- **Distribution:** Present over most of Africa except densely forested West Africa and Congo Basin (argued genuine discontinuity); major expansion beyond eastern savanna perhaps ~1 Ma (Phillipson).
+- **Not a single culture:** Phillipson stresses long-term behavioural development within the “Acheulean” label (planning, wider ranging, possible clothing/carrying) despite technological conservatism — same caution as Klein’s “not one coherent unit.”
+- **Final facies:** [[sangoan-industry|Sangoan]] treated as final Acheulean manifestation (massive pointed core-tools; semi-arid rather than forest adaptation).
+- **Key African anchors in the synthesis:** [[olorgesailie]], [[olduvai-gorge]], [[koobi-fora]] (Karari industry as local early Acheulean-related), [[kalambo-falls]] (late Acheulean; 14C ages as minima; uranium-series ~400–300 ka), [[kabwe|Kabwe/Broken Hill]] and Bodo skulls for late makers.
 
 ### Gamble — *The Palaeolithic Societies of Europe* (1999)
 

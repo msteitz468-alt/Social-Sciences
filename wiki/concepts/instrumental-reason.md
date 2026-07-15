@@ -7,10 +7,10 @@ disciplines: [sociology, philosophy, philosophy-of-science]
 emic_or_etic: etic
 operationalized_as: "not quantified; identified as reason reduced to the calculation of means, indifferent to ends — the 'subjective reason' of self-preservation and domination"
 contested: yes
-related_concepts: ["[[dialectic-of-enlightenment]]", "[[domination-of-nature]]", "[[technological-rationality]]", "[[rationalization]]", "[[reification]]", "[[positivism]]", "[[mimesis]]"]
+related_concepts: ["[[dialectic-of-enlightenment]]", "[[domination-of-nature]]", "[[technological-rationality]]", "[[rationalization]]", "[[reification]]", "[[positivism]]", "[[mimesis]]", "[[purposive-rationality]]", "[[communicative-rationality]]", "[[theory-of-communicative-action]]"]
 aliases: [subjective-reason, critique-of-instrumental-reason]
-sources_ingested: 1
-last_updated: 2026-07-08
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -100,3 +100,14 @@ Auschwitz is too total to discriminate among historically distinct rationalities
 Defenders reply that the diagnosis of a reason that optimizes means while going
 silent on ends captures something real about bureaucratic, technocratic, and
 market modernity. See [[dialectic-of-enlightenment-debate]].
+
+### Habermas TCA reconstruction (Vol. 1, 1981/1984)
+
+In *[[habermas-theory-of-communicative-action-v1-1984|TCA Vol. 1]]* Ch. IV,
+[[habermas-jurgen|Habermas]] (attributed) reads Horkheimer as equating Weberian
+[[purposive-rationality]] with instrumental reason, and traces the aporia of a
+critique that can only gesture at non-instrumental reason via [[mimesis]]. He
+does not deny the pathologies of cognitive-instrumental expansion; he relocates
+the critical standard in [[communicative-rationality]] and reformulates
+[[reification]] as system overrides of communicative sociation
+([[colonization-of-the-lifeworld]]) rather than as "instrumental reason gone wild."

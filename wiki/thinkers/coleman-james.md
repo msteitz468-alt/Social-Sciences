@@ -10,8 +10,8 @@ trained: []
 key_works: ["Union Democracy (1956, with Lipset and Trow)", "The Adolescent Society (1961)", "Introduction to Mathematical Sociology (1964)", "Equality of Educational Opportunity (1966, the Coleman Report)", "[[coleman-foundations-social-theory-1990|Foundations of Social Theory (1990)]]"]
 key_concepts: ["[[social-capital-coleman|social capital]]", "[[corporate-actor]]", "[[micro-macro-problem|micro–macro transition]]", "[[free-rider-problem|second-order free-rider problem]]", "[[linear-system-of-action]]"]
 fieldwork_sites: []
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [thinker, sociology]
 ---
 
@@ -73,6 +73,9 @@ rejecting the [[homans-george-c|behaviorist]] reduction, and shares the
 methodological-individualist commitments of rational-choice sociology.
 
 ## Critiques and Reappraisals
+
+**Connell (*Southern Theory* 2007, attributed):** [[connell-raewyn|Connell]] reads *Foundations* as general theory that claims universal relevance for a language of individual/system/interest drawn from market society — "a grand generalisation of the vision of people and social relations characteristic of modern neoliberalism." Actors dance on a "featureless dance floor"; empire and colonies are largely absent; slavery becomes a rational-choice puzzle. For Connell this exemplifies Northern theory as ethnosociology of the [[metropole]] (see [[southern-theory]]). This is Connell's critique, not a wiki-voice verdict on Coleman's program.
+
 
 Coleman's [[rational-choice-theory|rational-choice programme]] draws the standard
 objections: a thin theory of preferences (interests taken as given), the contested

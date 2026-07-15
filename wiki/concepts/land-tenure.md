@@ -7,8 +7,8 @@ disciplines: [archaeology, anthropology, sociology]
 emic_or_etic: etic
 operationalized_as: "How land was held, allotted, worked, inherited, and (rarely) sold, as reconstructed from cuneiform sale, lease, inheritance, and administrative documents"
 contested: yes
-related_concepts: ["[[temple-economy]]", "[[redistribution]]", "[[reciprocity]]"]
-sources_ingested: 1
+related_concepts: ["[[temple-economy]]", "[[redistribution]]", "[[reciprocity]]", "[[pavula]]", "[[variga]]", "[[affinity]]", "[[unilineal-descent]]", "[[status-to-contract]]", "[[chieftainship]]", "[[prestige-goods-economy]]"]
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [concept]
 ---
@@ -49,8 +49,18 @@ This tracks a longer historiographic dispute recorded on [[mesopotamian-temple-s
 
 ## Applications
 
-Land tenure links directly to [[temple-economy]] (institutional landholding, the three-way Deimel division, prebend administration) and to the wider question of how [[redistribution]], private exchange, and household production coexisted in the same economy — Postgate's calibration against a pure-redistribution reading (see [[redistribution]]) rests in part on evidence that private and lease-based land tenure operated alongside institutional landholding rather than being absorbed by it. The [[sumerians]] and their successor Akkadian- and Amorite-period polities are the documentary source for all tenure categories described here.
+Land tenure links directly to [[temple-economy]] (institutional landholding, the three-way Deimel division, prebend administration) and to the wider question of how [[redistribution]], private exchange, and household production coexisted in the same economy — Postgate's calibration against a pure-redistribution reading (see [[redistribution]]) rests in part on evidence that private and lease-based land tenure operated alongside institutional landholding rather than being absorbed by it. The [[sumerians]] and their successor Akkadian- and Amorite-period polities are the documentary source for all Mesopotamian tenure categories described above.
+
+### Comparative case — African “estates of administration and production” (Gluckman 1965)
+
+*(Attributed — [[gluckman-max|Gluckman]], *[[gluckman-politics-law-ritual-1965|Politics, Law and Ritual]]*, Ch. II; worked chiefly through [[lozi|Lozi]]/Barotse and generalized to Zulu/Basuto hierarchies and chiefless kinship nestings.)* Land-holding is a **hierarchy of estates**: the king is “owner” only as **trustee/steward** for the nation; primary estates of **administration** are granted to village-head titles; headmen allocate secondary estates to household heads; at the bottom is an **estate of production** (the parcel actually worked). Each status carries both rights and duties (sufficient land for dependents; reversion/expulsion ladders). Gluckman rejects three simplifications: (1) **not feudal** — citizenship’s inherent claim to sufficient land differs from vassal contract for demarcated service; (2) **neither pure communism nor pure individualism** — secure individual use-rights sit under nested reversionary claims of family, village, nation; (3) terminology of bare “possession”/“usufruct” is inadequate. Links tenure analysis to Maine’s [[status-to-contract|status-to-contract]] movement: tribal land transactions are status-embedded, not stranger contracts. Hierarchy clearest in Basuto/Zulu-type kingdoms; least marked where land is plentiful (e.g. Bemba); without chiefs, reversionary rights nest in kinship hierarchies.
+
+### Comparative case — Pul Eliya, Ceylon Dry Zone (Leach 1961)
+
+*(Attributed — [[leach-edmund|Leach]], *[[leach-pul-eliya-1961|Pul Eliya]]*; study [[leach-pul-eliya-study]].)* A second worked case: small irrigated-rice village (146 persons, ≈135 irrigated acres, land records ≈1890–1954). Tenure classes: **Old Field *paraveni*** under baga/pangu/issara strip layout (traditional rights often in irrigation-ditch length / water as much as fixed ground); ***sinakkara*** freeholds from Crown sales; ***badu idam*** Crown leases under the 1935 Land Development Ordinance. Water scarcity elevates the Vel Vidane; private channels for freehold/lease land structure factions. Leach’s theoretical use of the case: kinship structure is a way of talking about property relations; traditional tenure *imposes* solidarity while English freehold models bring prosperity and dissension; inheritance fragments, near-kin marriage consolidates; *ande* share contracts and *ukas* mortgages redistribute product among kinsmen. Emic ancestralisation: *purana*/*paraveni* claims sometimes made of recently purchased land. Society: [[pul-eliya]]; related concepts: [[pavula]], [[variga]].
 
 ## Critiques and Limitations
 
-Every claim above is bounded by Postgate's own "palimpsest" caution: the documentary record over-represents institutional and legal transactions and under-represents private, unwritten practice, so apparent absences (e.g., of Ur III sale documents) are evidentially ambiguous between "the practice did not occur" and "the practice was not the kind of thing written down." The private-land-sale question is recorded here as a live, unresolved dispute — see [[mesopotamian-temple-state-debate]] for positions and holders — not adjudicated in wiki voice.
+Every Mesopotamian claim above is bounded by Postgate's own "palimpsest" caution: the documentary record over-represents institutional and legal transactions and under-represents private, unwritten practice, so apparent absences (e.g., of Ur III sale documents) are evidentially ambiguous between "the practice did not occur" and "the practice was not the kind of thing written down." The private-land-sale question is recorded here as a live, unresolved dispute — see [[mesopotamian-temple-state-debate]] for positions and holders — not adjudicated in wiki voice.
+
+Pul Eliya claims are single-village, short-fieldwork (1954/56), and deliberately not regional averages — do not generalise as pan-Sinhalese tenure without attribution.

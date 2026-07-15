@@ -45,4 +45,45 @@ on "big structures and large processes" (Ch. 9).
 | Polynesian Chiefdoms & Archaic States | 8 | 4222–4977 | archaeology, anthropology | medieval–early-modern | Chiefdom ethnography; atoll societies; open societies; stratified chiefdoms; Tonga & Hawaiʻi archaic states; monumental architecture | range_7 |
 | Big Structures & Large Processes | 9 | 4978–5201 | archaeology, anthropology (theory) | contemporary | Voyaging/conquest; language-biology-culture correlation; demographic transitions; contact-era populations; political economy; intensification; status & power; comparison | range_8 |
 
-<!-- Volume Synthesis Note appended after integration -->
+## Volume Synthesis Note
+
+*On the Road of the Winds* is the standard single-author synthesis of Oceanic prehistory, and its
+argument is as much methodological as substantive. Kirch's organizing claim (Ch. 9, framed against
+Charles Tilly's *Big Structures, Large Processes, Huge Comparisons*) is that the Pacific is an
+unrivalled setting for **controlled comparison**: many societies of demonstrably common descent,
+dispersed across a vast range of island environments, approximate the "natural experiments" of
+evolutionary biology. This licenses his signature **[[cultural-phylogeny|phylogenetic /
+phyletic-unit]]** program — reconstructing an [[ancestral-oceanic-society|Ancestral Oceanic]] and
+then [[ancestral-polynesian-society|Ancestral Polynesian]] society by triangulating historical
+linguistics, comparative ethnography, archaeology, and biological anthropology
+([[oceania-as-controlled-comparison]]) — and underwrites his mature process model in which
+demography is an *ultimate* cause and social/political dynamics *proximate*, with environment a
+constraint rather than a determinant.
+
+Substantively the book widens the frame of Kirch's 1984
+*[[kirch-evolution-polynesian-chiefdoms-1984|Evolution of the Polynesian Chiefdoms]]* from
+Polynesia to all of Oceania. It sets Green's **[[near-oceania-remote-oceania|Near/Remote Oceania]]**
+distinction as its spine: the deep Pleistocene **[[peopling-of-sahul|peopling of Sahul]]** and Near
+Oceania (with independent New Guinea agriculture at [[kuk-swamp|Kuk]]), the mid-Holocene
+**[[lapita-cultural-complex|Lapita]]** / **[[austronesian-expansion|Austronesian]]** dispersal into
+Remote Oceania (read through Green's **[[triple-i-model|Triple-I model]]**), and the later regional
+sequences of Melanesia, Micronesia, and Polynesia, culminating in the **[[archaic-state|archaic
+states]]** of [[tonga|Tonga]] and [[hawaiians|Hawaiʻi]].
+
+The 2017 revision is not cosmetic: it adopts the East Polynesian **short chronology**
+([[pacific-settlement-chronology-debate]]), folds in Lapita **aDNA** (Teouma, "(as of Skoglund et
+al. 2016)"), and adds the "archaic state" framing and the Rapa Nui
+[[rapa-nui-collapse-debate|collapse/resilience debate]]. Relative to the wiki's existing Kirch
+1984 coverage, most of this ingest's *new* footprint is the **subject-matter layer for Melanesia
+and Micronesia** (largely absent before — e.g. the [[kanak|Kanak]] of New Caledonia, the
+[[chamorro|Chamorro]] of the Marianas, and sites from [[kuk-swamp|Kuk]] to [[nan-madol|Nan Madol]])
+and the **history-of-the-discipline and reflexivity**
+material (Bishop Museum, the racial-science entanglement of early Pacific anthropology, the
+indigenous critique). Throughout, Kirch is a careful practitioner of the four-way non-identity
+rule — his Ch. 9 statement that language, biology, and culture "covary" because they trace shared
+history, not because they are the same thing, is a model formulation the wiki adopts.
+
+Tension with already-ingested sources is minimal: this is a downstream synthesis, secondary to the
+primary studies it summarizes, and its dates supersede the 1984 monograph's on East Polynesian
+settlement. Treat its interpretive theses (Lapita origins, the archaic-state classification, the
+Rapa Nui trajectory) as Kirch positions in attributed voice.

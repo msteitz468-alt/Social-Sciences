@@ -8,8 +8,8 @@ date_introduced: "1970s (developed from Nietzsche); exemplified in *Discipline a
 supersedes: ["[[unknown]]"]
 epistemic_leverage: "denaturalizes present categories by reconstructing how they were historically produced by power-knowledge, rather than progressively discovered; a 'history of the present'"
 key_limitations: "selective, tactical use of the archive; resists falsification in the ordinary empirical sense; contested by social historians on specific datings and continuities"
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [method]
 ---
 
@@ -17,7 +17,9 @@ tags: [method]
 
 ## What It Does
 
-Genealogy is [[foucault-michel|Foucault]]'s historical method (attributed) for showing that objects taken to be natural or timeless — madness, the delinquent, "sexuality," "sex" itself — are historical constructs produced within [[power-knowledge]] apparatuses. Adapted from Nietzsche, it writes a "history of the present": it traces the descent and emergence of a category not to recover its true origin but to make the present strange, showing that what seems given was contingently fabricated. In *[[foucault-history-of-sexuality-1978|The History of Sexuality]]*, genealogy is turned against [[the-repressive-hypothesis|the repressive hypothesis]]: rather than ask "why are we repressed?" Foucault asks "why do we say we are repressed?" and reconstructs the discursive machinery that produced modern sexuality.
+Genealogy is [[foucault-michel|Foucault]]'s historical method (attributed) for showing that objects taken to be natural or timeless — madness, the delinquent, "sexuality," "sex" itself — are historical constructs produced within [[power-knowledge]] apparatuses. Adapted from Nietzsche, it writes a "history of the present": it traces the descent and emergence of a category not to recover its true origin but to make the present strange, showing that what seems given was contingently fabricated.
+
+In *[[foucault-discipline-and-punish-1977|Discipline and Punish]]*, genealogy is a "correlative history of the modern soul and of a new power to judge" — four rules treat punishment as political tactic with positive effects, seek a common epistemologico-juridical matrix with the human sciences, and read the soul as effect of power's investment of the body (→ [[foucault-discipline-and-punish-study]]). In *[[foucault-history-of-sexuality-1978|The History of Sexuality]]*, genealogy is turned against [[the-repressive-hypothesis|the repressive hypothesis]]: rather than ask "why are we repressed?" Foucault asks "why do we say we are repressed?" and reconstructs the discursive machinery that produced modern sexuality.
 
 ## Procedure
 
@@ -34,9 +36,12 @@ Genealogy is [[foucault-michel|Foucault]]'s historical method (attributed) for s
 
 ## History
 
-Foucault developed genealogy in the 1970s as a shift from the "archaeology" of his 1960s work (*The Order of Things*, *The Archaeology of Knowledge*) toward an explicit analytics of power. *Discipline and Punish* and *The History of Sexuality* Vol. I are its exemplary applications. In this vault only the latter is ingested; the archaeology/genealogy relation is documented from this source's own retrospective framing.
+Foucault developed genealogy in the 1970s as a shift from the "archaeology" of his 1960s work (*The Order of Things*, *The Archaeology of Knowledge*) toward an explicit analytics of power. *Discipline and Punish* and *The History of Sexuality* Vol. I are its exemplary applications; both are now ingested in this vault. In *[[foucault-use-of-pleasure-1985|The Use of Pleasure]]* (1984) Foucault recasts genealogy again — as a "genealogy of the desiring subject" pursued at the intersection of an archaeology of [[problematization|problematizations]] and a genealogy of the [[arts-of-existence|practices of the self]]; there the method turns from how the subject is produced by power to how it constitutes itself. See [[foucault-michel]].
 
 ## Exemplary Applications
+
+- [[foucault-discipline-and-punish-study]] / [[hubs/studies/foucault-discipline-and-punish-study]] — prison, discipline, panopticism
+- *[[foucault-history-of-sexuality-1978|History of Sexuality]] Vol. I* — sexuality, biopower, repressive hypothesis
 
 - *[[foucault-history-of-sexuality-1978|The History of Sexuality, Vol. I]]* — genealogy of [[deployment-of-sexuality|the deployment of sexuality]], of [[scientia-sexualis]], and of [[the-repressive-hypothesis|the repressive hypothesis]] itself as a class-differentiating discourse.
 

@@ -7,11 +7,11 @@ era: [critical-turn, contemporary]
 affiliated_theories: ["[[writing-culture]]"]
 trained_under: ["[[unknown]]"]
 trained: ["[[unknown]]"]
-key_works: ["[[clifford-marcus-writing-culture-1986|Writing Culture (ed. with Marcus, 1986)]]", "On Ethnographic Authority (1983a)", "The Predicament of Culture (1988)"]
-key_concepts: ["[[partial-truths]]", "[[ethnographic-authority]]", "[[ethnographic-allegory]]"]
-fieldwork_sites: ["[[unknown]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+key_works: ["[[clifford-marcus-writing-culture-1986|Writing Culture (ed. with Marcus, 1986)]]", "On Ethnographic Authority (1983a)", "[[clifford-predicament-of-culture-1988|The Predicament of Culture (1988)]]", "Person and Myth: Maurice Leenhardt in the Melanesian World (1982)"]
+key_concepts: ["[[partial-truths]]", "[[ethnographic-authority]]", "[[ethnographic-allegory]]", "[[ethnographic-surrealism]]", "[[art-culture-system]]"]
+fieldwork_sites: ["none (historian of anthropology; courtroom observation at the 1977 Mashpee trial)"]
+sources_ingested: 2
+last_updated: 2026-07-11
 tags: [thinker, anthropology]
 ---
 
@@ -49,6 +49,34 @@ Clifford’s contribution in the ingested volume frames ethnography as **writing
 
 - Co-editor with Marcus; dual aim of textual critique and analysis of its political limits; non-unity of essays preserved.
 
+## *The Predicament of Culture* (1988) — ingested
+
+Essay collection (written 1979–86; a "spliced ethnographic object," deliberately not
+smoothed into one voice) that works the [[writing-culture]] program through historical
+cases. Clifford's stated occasion: sitting through most of the 1977 Mashpee trial
+([[mashpee-tribal-identity-debate]]) while revising his dissertation biography of the
+missionary-ethnographer Maurice Leenhardt (publ. 1982). Core moves (all attributed):
+
+- **The predicament of culture / "ethnographic modernity"** — identity as hybrid,
+  relational, conjunctural; "if authenticity is relational, there can be no essence
+  except as a political, cultural invention, a local tactic." Ethnographic histories
+  oscillate between two irreducible metanarratives — homogenization/loss and
+  emergence/invention.
+- **Four modes of [[ethnographic-authority]]** (experiential, interpretive, dialogical,
+  polyphonic) and the six innovations behind the 1900–1960 participant-observer norm.
+- **[[griaule-marcel|Griaule]]** — documentary vs. initiatory paradigms; fieldwork as
+  agonistic theater ([[griaule-dogon-debate]]).
+- **Malinowski/Conrad self-fashioning** — *Argonauts* as "saving fiction" against the
+  1967 *Diary*.
+- **[[ethnographic-surrealism]]**, [[segalen-victor|Segalen]], [[leiris-michel|Leiris]] —
+  the Paris avant-garde/ethnography nexus.
+- **[[art-culture-system]]** and the critique of [[salvage-ethnography]] (MoMA
+  "Primitivism" 1984–85; collecting as Western self-fashioning).
+- **"On Orientalism"** — the canonical anthropological critique of [[said-edward|Said]]
+  (see [[orientalism]]).
+- **Identity in Mashpee** — identity as "conjunctural, not essential"
+  ([[mashpee-wampanoag]]).
+
 ## Intellectual Genealogy
 
 Collaborator: [[marcus-george-e]]. Engages [[geertz-clifford|Clifford Geertz]] (interpretive textualism radicalized and critiqued), [[asad-talal]], literary theory (Hayden White, Bakhtin), colonial critique lineage. Prior essay “On Ethnographic Authority” (1983a) feeds [[ethnographic-authority]].
@@ -59,7 +87,7 @@ Feminism gap (Clifford acknowledges); later charges of textualism and “inventi
 
 ## Historiography
 
-Primary vault source: *Writing Culture* 1986 only so far. *Predicament of Culture* outstanding.
+Primary vault sources: *Writing Culture* (1986) and *The Predicament of Culture* (1988) — [[clifford-predicament-of-culture-1988]].
 
 ## Links
 

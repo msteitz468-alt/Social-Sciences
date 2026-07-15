@@ -7,9 +7,9 @@ disciplines: [sociology, political-economy, philosophy]
 emic_or_etic: etic
 operationalized_as: "Not a measurement construct; structural inversion whereby social relations of producers appear as objective properties of commodities / money"
 contested: yes
-related_concepts: ["[[commodity]]", "[[labor-theory-of-value]]", "[[mode-of-production]]", "[[money-economy]]", "[[devil-contract]]", "[[baptism-of-money]]", "[[tio]]", "[[reification]]"]
-sources_ingested: 3
-last_updated: 2026-07-09
+related_concepts: ["[[commodity]]", "[[labor-theory-of-value]]", "[[mode-of-production]]", "[[money-economy]]", "[[devil-contract]]", "[[baptism-of-money]]", "[[tio]]", "[[reification]]", "[[body-commodification]]"]
+sources_ingested: 6
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -30,7 +30,8 @@ Marx compares this to religious fetishism: products of the human brain (or hand)
 | Context | Sense |
 |---|---|
 | *Capital* I (1867/1873) | Structural inversion of social labour into thing-relations under private commodity production |
-| Western Marxism / cultural theory | Extended to ideology, reification, culture industry |
+| [[lukacs-georg|Lukács]] 1923 / [[western-marxism]] | Fetishism as “basic phenomenon of [[reification]]”; commodity form as universal structural principle of capitalist society (*[[lukacs-history-and-class-consciousness-1923|HCC]]*) |
+| Later Western Marxism / cultural theory | Extended further to ideology, culture industry, spectacle (Frankfurt, Debord, etc.) |
 | [[taussig-michael|Taussig]] 1980 | Ethnographic lens: proletarian devil lore as *critique* of commodity culture, mediating use-value vs exchange-value orientations ([[taussig-devil-commodity-fetishism-study]]) |
 | Everyday use | “Consumer fetish” — weaker than Marx’s production-centred account |
 | Appadurai 1986 | **Methodological fetishism** (follow things-in-motion) deliberately distinct from Marx’s critical fetishism; also “fetishism of the consumer” / advertising as pseudoenclaving mass products *(Appadurai)* |
@@ -49,6 +50,8 @@ Not quantified. Markers Marx offers:
 - Links to [[labor-theory-of-value]] (abstract labour as social substance misrecognized).
 - Wage-form later (Part 6) extends the mystification: price of labour-power appears as price of labour.
 - **Taussig (1980):** In *[[taussig-devil-commodity-fetishism-1980|The Devil and Commodity Fetishism in South America]]*, [[taussig-michael|Michael Taussig]] treats Marx's category as the master trope for reading Cauca [[devil-contract|devil contracts]] and Bolivian [[tio|Tio]] rites. He argues that newly proletarianised workers' folk magic does **not** fully naturalise capital the way pure commodity fetishism would — it *supernaturalises* and moralises capital as evil, mediating the clash between precapitalist/use-value fetishisms and commodity fetishism. Baptism of money is read as folk M–C–M′; barren devil-wages as the unproductive underside of capital's fertility. Load-bearing (attributed): "the animate appearance of commodities provides testimony to the thing-like appearance of persons." See study [[taussig-devil-commodity-fetishism-study]] · hub [[hubs/studies/taussig-devil-commodity-fetishism-study]].
+- **Scheper-Hughes — fetishized kidney / organs trafficking (2001/2002):** In "Commodity Fetishism in Organs Trafficking," published in *[[scheper-hughes-wacquant-commodifying-bodies-2002|Commodifying Bodies]]* (originally *Body & Society* 7.2–3, 2001), [[scheper-hughes-nancy|Nancy Scheper-Hughes]] applies commodity fetishism to the global [[human-organs-trade|human organs trade]] and [[body-commodification]]. She argues (attributed) that the transplant kidney emerges as the "ultimate fetish," promising life, vitality, and *élan*, while naturalizing an extraordinary practice; that fetish energy attaches especially to the *purchased living* kidney (alive, young, "animate") over cadaveric organs imagined as nearly dead; and that the ultimate fetish, following Illich, is "life" itself as an object of endless manipulation — a fetishization that, she holds, erases a social ethic. Organs Watch's mandate, as she states it, includes forging a language "unencumbered by the medical rhetoric of scarcities, gifts, altruism and life-saving."
+- **Lock — gene / cell-line commodity fetishism (2001/2002):** In the same volume, [[lock-margaret|Margaret Lock]] ("The Alienation of Body Tissue and the Biopolitics of Immortalized Cell Lines") argues that escalating procurement of human body materials constitutes a nearly uncontrolled **globalized commodity fetishism** in which Appadurai's "regimes of value" at production and consumption sites are far removed; human body parts, she holds, do not have universal value, and once convertible into circulating commodities their worth and alienability are open to dispute. She also channels Haraway's "corporeal fetishism": reification of cells, genes, or parts obscures heterogeneous human/non-human interactions, leaving "exotic" donors especially vulnerable to biocapitalist exploitation (attributed, Lock).
 
 ## Critiques and Limitations
 
@@ -62,7 +65,11 @@ Not quantified. Markers Marx offers:
 ## Links
 
 - proposed_by: [[marx-karl]]
-- related: [[commodity]] · [[labor-theory-of-value]] · [[surplus-value]] · [[devil-contract]] · [[baptism-of-money]] · [[tio]] · [[reification]] · [[object-biography]] · [[commoditization]]
+- related: [[commodity]] · [[labor-theory-of-value]] · [[surplus-value]] · [[devil-contract]] · [[baptism-of-money]] · [[tio]] · [[reification]] · [[object-biography]] · [[commoditization]] · [[body-commodification]] · [[human-organs-trade]]
 - contrast: [[money-economy]] · [[value]]
 - evidenced_by: [[marx-capital-volume-1-study]] · [[taussig-devil-commodity-fetishism-study]]
-- source: [[marx-capital-volume-1-1867]] · [[taussig-devil-commodity-fetishism-1980]] · [[appadurai-social-life-of-things-1986]]
+- source: [[marx-capital-volume-1-1867]] · [[taussig-devil-commodity-fetishism-1980]] · [[appadurai-social-life-of-things-1986]] · [[scheper-hughes-wacquant-commodifying-bodies-2002]]
+
+## From Taussig *Shamanism* (1987 ingest)
+
+[[taussig-michael|Taussig]] (1987) bridges Putumayo [[space-of-death]] signification and debt-peonage "phraseology of conquest" to Marxian fetishism — things human and humans things under terror as under capital — extending the 1980 devil/Tio program ([[taussig-shamanism-colonialism-study]]; [[putumayo-rubber-terror]]).

@@ -14,14 +14,14 @@ core_claims:
 developed_from: ["[[sociology-of-knowledge]]", "[[social-construction-of-reality]]", "[[ethnomethodology]]", "SSK strong programme (Bloor)"]
 competes_with: ["Mertonian sociology of science (norms, reward system as external)", "internalist philosophy of science", "naive realism about ready-made facts"]
 status: active
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [theory, sociology, sts]
 ---
 
 # Laboratory Studies
 
-Research program in science and technology studies (STS) that investigates scientific knowledge production through close ethnographic or micro-sociological study of laboratory (and related) practice. *[[latour-woolgar-laboratory-life-1979|Laboratory Life]]* (Latour & Woolgar, 1979/1986) is the wiki's primary charter text; concurrent and subsequent work (Knorr-Cetina, Lynch, Traweek, and others) is not yet ingested.
+Research program in science and technology studies (STS) that investigates scientific knowledge production through close ethnographic or micro-sociological study of laboratory (and related) practice. *[[latour-woolgar-laboratory-life-1979|Laboratory Life]]* (Latour & Woolgar, 1979/1986) is the wiki's primary charter text; concurrent and subsequent work (Knorr-Cetina, Lynch, Traweek, and others) is not yet ingested. Latour’s *[[latour-reassembling-the-social-2005|Reassembling the Social]]* (2005) generalizes the STS problem of “social explanation” into [[actor-network-theory|Actor-Network Theory]] / [[sociology-of-associations]] — laboratory studies as precursor, not identical program.
 
 ## Core Claims
 
@@ -41,7 +41,7 @@ Reacted against: (a) Mertonian sociology that left technical content black-boxed
 ## Key Proponents and Texts
 
 - [[latour-bruno]] & [[woolgar-steve]] — *Laboratory Life* (1979/1986) · study [[latour-woolgar-laboratory-life-study]]
-- Later Latour ANT work is a related but distinct development, not identified with "laboratory studies" as a whole.
+- Later Latour ANT work (*[[latour-reassembling-the-social-2005|Reassembling the Social]]*, [[actor-network-theory]]) is a related but distinct development, not identified with "laboratory studies" as a whole.
 
 ## Empirical Program
 

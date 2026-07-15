@@ -11,8 +11,8 @@ operationalized_as: >-
   gradients; contrasted with pure cultural (stimulus) diffusion of techniques
   without people (Ammerman & Cavalli-Sforza; as of Cavalli-Sforza 2000).
 contested: yes
-related_concepts: ["[[admixture]]", "[[cultural-transmission]]", "[[early-european-farmers]]", "[[genetic-distance]]", "[[principal-component-analysis]]", "[[anatolian-hypothesis]]"]
-sources_ingested: 4
+related_concepts: ["[[admixture]]", "[[cultural-transmission]]", "[[early-european-farmers]]", "[[genetic-distance]]", "[[principal-component-analysis]]", "[[anatolian-hypothesis]]", "[[early-farming-dispersal-hypothesis]]"]
+sources_ingested: 6
 last_updated: 2026-07-10
 tags: [concept]
 ---
@@ -116,3 +116,29 @@ Anthony does **not** treat the full IE expansion as a single Ammerman–Cavalli-
 - **Prestige, not pots:** Language expansion is psychological (stigma/prestige of identities), not a pottery-equation (R5-001–002). “Franchising” metaphor for PIE institutions (guest-host, patron-client) rather than continent-scale demic replacement alone (R5-006, R5-072).
 - **Relation to classical demic diffusion:** Farmer–forager frontier NW of the Black Sea remains demographically real in Anthony’s narrative, but he assigns Pre-PIE / early PIE to **steppe herding adoption** among foragers after ~5200–5000 BCE, not to the Criş/Starčevo farming colonisation itself (R2-059–060). Later aDNA (Reich 2018) shows large demic steppe → Europe transfers for Corded Ware/Beaker — a *different* demic pulse from Neolithic farming demic diffusion; do not collapse the two under one “demic diffusion” label without dating the pulse.
 - Positions only: [[steppe-hypothesis-debate]], [[anatolian-hypothesis]], [[renfrew-colin]], [[gimbutas-marija]].
+
+## Bellwood 2005 — demic diffusion with mixing (worldwide program)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005; allied to [[early-farming-dispersal-hypothesis]]. Genetic figures **as of Bellwood 2005** — pre-aDNA revolution.)*
+
+Bellwood adopts Ammerman & Cavalli-Sforza’s term **demic diffusion** for actual population spread, optimally a **wave of advance** with continuous demographic growth on non-circumscribed frontiers; saltational jumps possible. He characterizes the process as “insistent creep… not a sudden and overwhelming sonic boom,” and distinguishes Neolithic expansion from 19th-c. colonial migration with constant source back-up.
+
+**Crunch question (his framing):** cultural diffusion (foragers adopt farming without moving) vs demic diffusion (already farming/speaking populations expand demographically). Both are logically possible; biological data rarely “clinch” with finality *(as of 2005)*. His **middle-ground thesis**: pure demic diffusion alone is never the sole source of any language family or agricultural complex; **demic diffusion with mixing**, sex-specific migration, and bottlenecks is the realistic package — avoiding the requirement that Neolithic Britons be genetically identical to Anatolians, or Solomon Islanders to Formosans.
+
+**Language-spread mechanism (attributed):** For major genetic language *families*, he argues that reconstructed proto-languages rest on population expansion; language shift without sufficient native-speaker movement rarely creates intercontinental family distributions. Historical analogies he cites include Arabic vernaculars where settler/soldier settlement was dense; Latin→Romance only with intensive Latin settlement near the empire heart; English in settler colonies vs elite-secondary status where colonization failed demographically. He treats pure shift as “completely unconvincing” as the explainer of Neolithic/Formative family-scale spreads.
+
+**European operationalization (as of 2005 synthesis he reports):** Ammerman–Cavalli-Sforza ~1 km/year SE→NW; classic PC1 ~30% of modern European genetic variation on the SE–NW cline; cultural-diffusion school (Richards, Sykes, Semino et al.) reading Neolithic SW Asian input as minor (~20–30% mtDNA or less); demic school (Chikhi, Barbujani, Piazza et al.) reading significant farmer contribution, with Chikhi et al. 2002 Y-admixture ~**50%** average modern European Y Neolithic (85–100% SE Europe, 15–30% France). Bellwood’s lean: with Chikhi and Barbujani, the **strength** of the Neolithic advance was **considerable**; Mesolithic groups contributed genes clinally but “did not contribute very much to the resulting patterns of archaeology and language in Europe,” except temporary isolation. Regionally: rapid demic packages (Greece, Cardial, LBK) vs slower maritime/fringe availability phases; Sr isotopes on LBK Rhineland females (Bentley et al. 2003) as farmer–forager intermarriage without pure cultural conversion.
+
+**Comparative applications he treats as demic packages:** [[bantu-expansion]] (“quite firm” genetic support as of 2005); Austronesian/Taiwan→ISEA→Oceania with Modified Out of Taiwan and admixture (see [[express-train-vs-entangled-bank-debate]]); Chinese Neolithic expansions; Uto-Aztecan maize (Hill alliance). Final restatement: language families and early agricultural economies spread through hunter-gatherer landscapes essentially by **population growth and dispersal with admixture**; HG adoption was not the sole or main mechanism, though of increasing importance as prime demic conditions attenuated. “Being indigenous is always a matter of degree.”
+
+### Key sources (added)
+
+- [[bellwood-first-farmers-2005]]
+- [[early-farming-dispersal-hypothesis]]
+
+## Barker 2006 — critique of demic-primary agricultural spread
+
+*(Attributed — [[barker-graeme]], *[[barker-agricultural-revolution-prehistory-2006]]* 2006.)*
+
+Barker treats [[demic-diffusion]] (as used by Bellwood 2004 and Diamond 1997 for agricultural expansion) as a **position** that overstates unique farmer migrations in a world he reconstructs as already highly mobile and exchange-linked. He does not deny movement; he denies that mass demic packages are the **primary** explainer of multi-regional forager→farmer transitions. Counter-examples in his synthesis: piecemeal European adoption; independent African pathways (cattle-before-crops regions); parallel Asian domestications; millet and other crop transfers by group-to-group exchange; mid-2000s European genetics he reads as low Neolithic immigrant input (Haak et al. 2005; Richards et al. 1996 — **as of Barker 2006**, pre-genome-wide aDNA). See [[early-farming-dispersal-hypothesis]] Critiques · [[farming-spread-europe-debate]] · [[agricultural-origins-causation-debate]].
+

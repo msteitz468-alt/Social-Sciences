@@ -222,6 +222,16 @@ estimate (>20,000 BP), Christy Turner's Sinodont dental model, and Robert Willia
 Gm-allotype three-migration genetics — all now downstream of the ancient-DNA results
 above.
 
+**Even earlier snapshot — *[[fagan-ancient-north-america-1991|Ancient North America]]*
+(1991).** Fagan's continental textbook captures the debate **before Monte Verde's 1997
+acceptance**: he judged that "no archaeological site dating to earlier than 15,000 years
+ago… has received complete scientific acceptance," found both Monte Verde (then including a
+contested ~30,000-year level) and Pedra Furada "far from convincing," accepted Meadowcroft
+only tentatively against Haynes's "dead carbon" critique, called the ice-free corridor "a
+geological myth" while judging Fladmark's coastal route "unlikely," and left the overkill
+question as "a complicated set of factors… and probably Clovis hunters were one." A useful
+marker of the pre-1997, pre-aDNA orthodoxy that the sources above superseded.
+
 ## Current Standing
 
 The routes-and-timing question (ice-free corridor vs. coastal route, pre-Clovis
@@ -331,8 +341,23 @@ As of 2009 Meltzer treats pre-Clovis (Monte Verde-class) as established reality;
 
 Source: [[meltzer-first-peoples-2009]]. Cross-links: [[clovis-culture]], [[monte-verde]], [[meadowcroft]], [[beringia]], [[ice-free-corridor]], [[pre-clovis]], [[paleoindian]], [[fluted-point]], [[radiocarbon-dating]], [[pleistocene-overkill-debate]], [[hrdlicka-ales]], [[haynes-c-vance]], [[adovasio-james]], [[dillehay-tom]], [[grayson-donald]], [[meltzer-david]].
 
+## Fagan & Durrani densification (2022)
+
+*(Attributed — [[fagan-durrani-people-of-the-earth-2022|Fagan & Durrani, *People of the Earth* 16th ed.]], a textbook synthesis; decade-lagging, so a downstream layer beneath the primary genetics above.)* The current teaching account treats **pre-Clovis as established** and Clovis-first as superseded: Monte Verde is decisive, with Paisley Caves coprolites (~14,200 BP), Page-Ladson, Debra L. Friedkin/Gault, Meadowcroft, and Cactus Hill as supporting pre-Clovis occupation. It favours the **Pacific coastal route** over the ice-free corridor (impassable until ~15,000–13,000 BP; Cordilleran retreat ~17,000 BP), and adopts the **Beringian Standstill** model (Siberian/Native American genetic split ~23,000 BP; isolated Beringian population dispersing south after ~16,000 BP). The **White Sands, New Mexico footprints** (reported ~23,000 BP) are treated as credible but "needing a great deal more research." Greenberg's tripartite Amerind classification is reported as heavily criticized; the Solutrean hypothesis is dismissed. This page's subject-matter/process companion is [[peopling-of-the-americas]]; chronology on [[world-prehistory-timeline]].
+
+### Bogucki 1999 synthesis (late-1990s pre-aDNA horizon)
+
+*(Attributed — [[bogucki-peter|Bogucki]], *[[bogucki-origins-human-society-1999|The Origins of Human Society]]* 1999, Ch.3. Date-stamp all site and route claims **as of Bogucki 1999**; genetics here predate aDNA consensus densified above.)*
+
+- **Accepted (as of 1999 synthesis):** Monte Verde II as persuasive pre-Clovis open-air settlement in southern Chile; Clovis as widespread North American Paleoindian horizon, not necessarily the founding population of all Americas.
+- **Skeptical / not accepted (as of 1999):** many North American pre-Clovis candidates including Meadowcroft (contamination/context debates); Pedra Furada not accepted as human occupation of claimed antiquity.
+- **Routes:** Beringia land-bridge and coastal possibilities both live; ice-free corridor chronology treated as constrained by ice-sheet history.
+- **Four-way non-identity:** lithic industries (Clovis, Dyuktai, etc.) ≠ peoples ≠ genes ≠ languages.
+- **Role on this page:** textbook-synthesis layer between Gamble mid-1990s and Wenke & Olszewski 2007; **superseded** on genetics and several site statuses by Meltzer/Reich layers above — keep attributed and horizon-stamped.
+
 ## See Also
 
-[[ancient-north-eurasians]] · [[ancient-dna]] · [[admixture-statistics]] ·
+[[peopling-of-the-americas]] · [[ancient-north-eurasians]] · [[ancient-dna]] · [[admixture-statistics]] ·
 [[willerslev-eske]] · [[reich-david]] · [[ancient-dna-repatriation-ethics-debate]] ·
-[[mithen-after-the-ice-2003]] · [[meltzer-first-peoples-2009]] · [[pleistocene-overkill-debate]]
+[[mithen-after-the-ice-2003]] · [[meltzer-first-peoples-2009]] · [[pleistocene-overkill-debate]] ·
+[[bogucki-origins-human-society-1999]]

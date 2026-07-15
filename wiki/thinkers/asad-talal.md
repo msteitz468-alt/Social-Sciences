@@ -7,17 +7,17 @@ era: [critical-turn, contemporary]
 affiliated_theories: ["[[writing-culture]]"]
 trained_under: ["[[unknown]]"]
 trained: ["[[unknown]]"]
-key_works: ["[[asad-anthropology-colonial-encounter-1973|Anthropology and the Colonial Encounter (ed., 1973)]]", "[[clifford-marcus-writing-culture-1986|The Concept of Cultural Translation (in Writing Culture, 1986)]]"]
-key_concepts: ["[[colonial-encounter]]", "[[cultural-translation]]"]
-fieldwork_sites: ["[[unknown]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+key_works: ["[[asad-anthropology-colonial-encounter-1973|Anthropology and the Colonial Encounter (ed., 1973)]]", "[[clifford-marcus-writing-culture-1986|The Concept of Cultural Translation (in Writing Culture, 1986)]]", "[[asad-genealogies-of-religion-1993|Genealogies of Religion (1993)]]"]
+key_concepts: ["[[colonial-encounter]]", "[[cultural-translation]]", "[[discursive-tradition]]", "[[religion|religion (genealogical critique)]]", "[[discipline|discipline (monastic extension)]]"]
+fieldwork_sites: ["Kababish Arabs, Sudan (1960s; The Kababish Arabs, 1970 — noted from Genealogies bibliography, monograph not ingested)"]
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [thinker, anthropology]
 ---
 
 # Talal Asad
 
-Anthropologist (b. 1932), editor of the Critical-Turn collection *[[asad-anthropology-colonial-encounter-1973|Anthropology and the Colonial Encounter]]* (1973) and author of its Introduction and of "Two European Images of Non-European Rule." Contributor to *[[clifford-marcus-writing-culture-1986|Writing Culture]]* (1986) with "The Concept of [[cultural-translation|Cultural Translation]] in British Social Anthropology." Later major works on religion and secularism (*Genealogies of Religion*, *Formations of the Secular*) are **not yet ingested**.
+Anthropologist (b. 1932), editor of the Critical-Turn collection *[[asad-anthropology-colonial-encounter-1973|Anthropology and the Colonial Encounter]]* (1973) and author of its Introduction and of "Two European Images of Non-European Rule." Contributor to *[[clifford-marcus-writing-culture-1986|Writing Culture]]* (1986) with "The Concept of [[cultural-translation|Cultural Translation]] in British Social Anthropology" (reprinted as ch. 5 of *Genealogies*). Author of *[[asad-genealogies-of-religion-1993|Genealogies of Religion]]* (1993), the charter text of the genealogical anthropology of religion and secularism. *Formations of the Secular* (2003) is **not yet ingested**.
 
 ## Overview
 
@@ -55,6 +55,21 @@ Asad's 1973 intervention made the anthropology–colonialism problem an explicit
 - Individual experiments in ethnographic writing cannot overcome “stiffness” produced by power — brake on pure textual experiment within [[writing-culture]].
 - Social authority of ethnography; reading the “implicit” as analyst power (Douglas, Pocock).
 
+### Genealogies of Religion (1993)
+
+*(Attributed to Asad 1993; see [[asad-genealogies-of-religion-1993]] for the full ingest.)*
+
+- **Core thesis:** "there cannot be a universal definition of [[religion]]" — the definition is itself the product of Christian discursive history; the religion/power separation is "a modern Western norm, the product of a unique post-Reformation history." Point-by-point critique of [[geertz-clifford|Geertz]]'s "Religion as a Cultural System" ([[definition-of-religion-debate]]).
+- **Genealogy of [[ritual]]:** the 1771 Britannica's ritual-as-script became, by 1910, ritual-as-universal-symbolic-behavior; anthropological symbolic decoding descends from Christian exegesis — "a theological preoccupation [incorporated] into an avowedly secular intellectual task."
+- **Medieval chapters:** ordeal, judicial torture, and penance as distinct rituals of truth ("the reforming Church did not rediscover rationality, it redefined it"); monastic [[discipline]] as the creation of the will to obey — extending and correcting [[foucault-michel|Foucault]] (no panopticon; "the Benedictine monk's truthful self was the continuous work of a structured community"; renunciation rhetoric constructs a self-policing function rather than rejecting a real self).
+- **Islam as [[discursive-tradition]]:** Saudi *nasiha* analyzed against the Kantian public/private-reason frame; "fundamentalist Islam" rejected as "a product of lazy thinking"; Islamic critical discourse "a part of modernity and not a reaction to it."
+- **Polemics chapters:** the Rushdie affair as "a symptom of postimperial British identity in crisis"; "core values" rhetoric as "a famous bourgeois ruse" ([[rushdie-affair-debate]]).
+- **Against agency rhetoric:** critiques the Sahlins/Ortner/Clifford celebration of local peoples "making their own history" (concentration-camp inmates "live by their own cultural logic" without making their own history) and Ortner's "old empiricist prejudice" that only fieldwork-visible things are real.
+
+### Cited in the "saving Muslim women" debate
+
+Lila [[abu-lughod-lila|Abu-Lughod]] (*[[abu-lughod-do-muslim-women-2013|Do Muslim Women Need Saving?]]*, 2013) explicitly aligns with Asad's position that human-rights and justice language should not be dismissed as merely an instrument of imperial intervention, because it has produced political subjects worldwide who genuinely share and speak in these values (attributed; see [[saving-muslim-women-debate]]).
+
 ## Intellectual Genealogy
 
 - **Interlocutors 1973:** Malinowski, Radcliffe-Brown, Evans-Pritchard, Nadel, Firth, Gluckman, Leach, Fortes; New Left and French critique (Banaji, Goddard, Leclerc, Copans); Hull seminar contributors including [[james-wendy|Wendy James]].
@@ -66,12 +81,12 @@ Positions for and against Asad's determination thesis and image argument live on
 
 ## Historiography
 
-Primary: Asad (ed.) 1973; *Writing Culture* 1986 translation essay. Biographical detail of training and later career not established from these sources alone. *Genealogies of Religion* / *Formations of the Secular* outstanding.
+Primary: Asad (ed.) 1973; *Writing Culture* 1986 translation essay; *Genealogies of Religion* 1993. Biographical detail of training and early career still thin. *Formations of the Secular* (2003) outstanding.
 
 ## Links
 
-- Sources: [[asad-anthropology-colonial-encounter-1973]], [[clifford-marcus-writing-culture-1986]]
-- Debates: [[anthropology-and-colonialism-debate]], [[writing-culture-debate]]
-- Concepts: [[colonial-encounter]], [[applied-anthropology]], [[cultural-translation]]
+- Sources: [[asad-anthropology-colonial-encounter-1973]], [[clifford-marcus-writing-culture-1986]], [[asad-genealogies-of-religion-1993]]
+- Debates: [[anthropology-and-colonialism-debate]], [[writing-culture-debate]], [[definition-of-religion-debate]], [[rushdie-affair-debate]]
+- Concepts: [[colonial-encounter]], [[applied-anthropology]], [[cultural-translation]], [[religion]], [[ritual]], [[discipline]], [[discursive-tradition]]
 - Theories: [[structural-functionalism]], [[writing-culture]]
 - Related: [[james-wendy]], [[wilson-godfrey]], [[nadel-s-f]], [[indirect-rule]], [[clifford-james]], [[marcus-george-e]]

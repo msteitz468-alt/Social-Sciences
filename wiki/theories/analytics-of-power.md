@@ -4,15 +4,15 @@ aliases: ["Analytics of power", "Foucauldian power"]
 theory_type: research-program
 disciplines: [social-theory, philosophy, sociology, political-science]
 era_origin: critical-turn
-date_origin: "1976 (*La Volonté de savoir*)"
+date_origin: "1975–1976 (*Surveiller et punir*; *La Volonté de savoir*)"
 originated_by: ["[[foucault-michel|Michel Foucault]]"]
-key_texts: ["[[foucault-history-of-sexuality-1978|The History of Sexuality, Vol. I (1976/1978)]]", "Discipline and Punish (1975)"]
-core_claims: ["Power is exercised, not possessed — it circulates through 'innumerable points' rather than being held by a class or a state", "Power is productive and immanent, not merely repressive or prohibitive", "Power 'comes from below' — no binary ruler/ruled opposition at its root", "Power relations are 'intentional and nonsubjective' — full of calculation yet authored by no single subject", "'Where there is power, there is resistance', itself never exterior to power", "Power and knowledge directly imply one another (power-knowledge)"]
-developed_from: ["[[unknown]]"]
-competes_with: ["marxist-theory-of-the-state", "the-repressive-hypothesis"]
+key_texts: ["[[foucault-discipline-and-punish-1977|Discipline and Punish (1975/1977)]]", "[[foucault-history-of-sexuality-1978|The History of Sexuality, Vol. I (1976/1978)]]"]
+core_claims: ["Power is exercised, not possessed — it circulates through 'innumerable points' rather than being held by a class or a state", "Power is productive and immanent, not merely repressive or prohibitive", "Power 'comes from below' — no binary ruler/ruled opposition at its root", "Power relations are 'intentional and nonsubjective' — full of calculation yet authored by no single subject", "'Where there is power, there is resistance', itself never exterior to power", "Power and knowledge directly imply one another (power-knowledge)", "Disciplinary techniques train docile-useful bodies; panoptic diagrams automate power relations (from Discipline and Punish)"]
+developed_from: ["[[genealogy]]", "[[disciplinary-power]]"]
+competes_with: ["marxist-theory-of-the-state", "the-repressive-hypothesis", "juridico-sovereign models of power"]
 status: active
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [theory, social-theory, philosophy]
 ---
 
@@ -35,26 +35,35 @@ The analytics was formed *against* two positions Foucault treats as sharing the 
 
 ## Key Proponents and Texts
 
-- [[foucault-michel|Michel Foucault]] — sole originator in this vault's sources. Primary text: *[[foucault-history-of-sexuality-1978|The History of Sexuality, Vol. I]]* (1976/1978), Part Four ("Method"); companion statement in *Discipline and Punish* (1975, not ingested).
+- [[foucault-michel|Michel Foucault]] — sole originator in this vault's sources.
+  - *[[foucault-discipline-and-punish-1977|Discipline and Punish]]* (1975/1977) — operationalizes the analytics through [[disciplinary-power]], [[panopticism]], the [[institutions/prison|prison]], and the [[carceral-archipelago]]; four methodological rules; political anatomy of the body. Study: [[foucault-discipline-and-punish-study]]; hub: [[hubs/studies/foucault-discipline-and-punish-study]].
+  - *[[foucault-history-of-sexuality-1978|The History of Sexuality, Vol. I]]* (1976/1978), Part Four ("Method") — most compact propositional statement of the analytics; Part Five on [[biopower]].
 - Later proponents and revisers (governmentality studies; Agamben, Hardt & Negri on [[biopower]]) are not yet ingested.
 
 ## Method Commitments
 
-The analytics is inseparable from [[genealogy]] and its four "cautionary prescriptions": the rules of immanence, of continual variation, of double conditioning, and of the tactical polyvalence of discourses (see [[genealogy]]). Foucault proposes replacing "the privilege of the law" with "the viewpoint of the objective," "the privilege of prohibition" with "the viewpoint of tactical efficacy," and "the privilege of sovereignty" with "the analysis of a multiple and mobile field of force relations" — "the strategical model, rather than the model based on law."
+The analytics is inseparable from [[genealogy]]. In HoS Vol. I: four "cautionary prescriptions" (immanence, continual variation, double conditioning, tactical polyvalence of discourses). In D&P: four rules for studying punishment (positive effects; political tactic; epistemologico-juridical matrix with the human sciences; soul as effect of new investment of the body) and a [[microphysics-of-power|micro-physics]] that studies capillary techniques. Foucault proposes replacing "the privilege of the law" with "the viewpoint of the objective," "the privilege of prohibition" with "the viewpoint of tactical efficacy," and "the privilege of sovereignty" with "the analysis of a multiple and mobile field of force relations."
 
 ## Empirical Program
 
-In *The History of Sexuality* the analytics organizes the account of [[deployment-of-sexuality|the deployment of sexuality]] (the four strategic figures), the production of [[scientia-sexualis]] through [[confession]], and — in Part Five — [[biopower]]. Foucault illustrates the tactical polyvalence of discourse with the history of "sodomy" and 19th-century sexology, in which the medical categories that pathologized homosexuality also enabled a "reverse discourse" demanding legitimacy "in the same vocabulary."
+| Work | What the analytics organizes |
+|---|---|
+| *Discipline and Punish* | Scaffold → reform → discipline → prison; production of [[docile-bodies]] and delinquency; [[examination-foucauldian|examination]] as power-knowledge ritual |
+| *History of Sexuality* Vol. I | [[deployment-of-sexuality]]; [[scientia-sexualis]] via [[confession]]; [[biopower]] (body + population poles) |
+
+Together: **anatomo-politics** (disciplines of the individual body) and **biopolitics** (regulation of the population) as two poles of modern power over life.
 
 ## Critiques and Responses
 
 - **Does it dissolve agency and critique?** (attributed to critics) If power is everywhere and resistance internal to it, on what ground does one criticize? Foucault anticipates the charge that keeping "there is no escaping from power" reintroduces the model he attacks.
-- **Where is the economy / the state?** (attributed) Marxist critics argue the analytics under-weights structural class power and the state. Foucault's reply: the state and law are the *terminal forms* power takes, not its source.
+- **Where is the economy / the state?** (attributed) Marxist critics argue the analytics under-weights structural class power and the state. Foucault's reply: the state and law are the *terminal forms* power takes, not its source. D&P does link illegalities to capitalist property restructuring, without reducing discipline to capital.
+- **Historical selectivity / functionalism** (attributed) — especially against D&P's delinquency-production and panoptic generalizations; see [[foucault-discipline-and-punish-study]] Critiques.
+- **[[lukes-steven|Lukes]] 2005** (*[[lukes-power-radical-view-2005|Power: A Radical View]]* Ch. 2): Foucault “beamed floods of light” on subtle compliance and productive power, but in an “excessively rhetorical style entirely free of methodological rigour.” Stimulated valuable work on willing subjects as their own overseers (Bartky, Bordo, Hayward, etc.). **Rejects** ultra-radical implications that the modern individual is merely the “effect” of power or that freedom/rational consent are unintelligible after Foucault; notes “Final Foucault” retreat from the strongest constitution thesis. Complements [[three-dimensional-power]] rather than replacing it.
 
 ## Current Status
 
-Foundational across social theory, sociology, criminology, and the history of the human sciences; extended by Foucault himself into "governmentality" in the later Collège de France lectures (not yet ingested). A hub-level treatment is warranted but deferred pending broader Foucault ingestion.
+Foundational across social theory, sociology, criminology, surveillance studies, and the history of the human sciences; extended by Foucault into "governmentality" in later Collège de France lectures (not yet ingested). Middle-range specification: [[disciplinary-power]]. Studies Hub deep analysis of the prison genealogy: [[hubs/studies/foucault-discipline-and-punish-study]]. Theory Hub graduate-level treatment of the full analytics program remains an open densification task (now that both charter texts are ingested).
 
 ## Reflexivity
 
-The analytics was produced in the aftermath of May 1968 and Foucault's prison-activism, in explicit polemic against the French Marxist and psychoanalytic establishments; its polemical target (the juridico-discursive model) is, on Foucault's own genealogical principle, part of what gives the theory its shape.
+The analytics was produced in the aftermath of May 1968 and Foucault's prison activism, in explicit polemic against French Marxist, Durkheimian, and psychoanalytic establishments; its polemical targets (juridico-discursive power; humanization narratives of penality; the repressive hypothesis) shape its form. Collection coverage: two primary mid-1970s sources; governmentality lectures still the largest theoretical gap.

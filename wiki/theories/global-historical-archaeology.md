@@ -42,7 +42,7 @@ Research program associated above all with [[orser-charles-e|Charles E. Orser, J
 
 ## Intellectual Origins
 
-- **Definitional lineage:** Schuyler, Deetz, Deagan global/modern-world formulations; Orser argued prior global calls lacked an explicit research program.
+- **Definitional lineage:** Schuyler, [[deetz-james|Deetz]] (*[[deetz-in-small-things-forgotten-1996|ISTF]]* popular definition: archaeology of European cultural spread since the fifteenth century and Indigenous interaction; HA must be global), Deagan global/modern-world formulations; Orser argued prior global calls lacked an explicit research program.
 - **Crisis diagnosis:** Historical archaeologists dig abandoned wells eagerly (Noël Hume "time capsules") but neglect theoretical wells (Swift metaphor). Binford's 1977 hope that HA would lead theory failed; the 1987 SHA plenary (Honerkamp, Cleland) diagnosed an atheoretical field.
 - **Relational social theory:** Carrithers mutualism; Lesser's "weblike, netlike connections"; Wolf's warning against disassembling world interconnectedness without reassembly (*Europe and the People without History*, 1982).
 - **Critical peers:** Leone (capitalism, Annapolis gardens), Fairbanks (African-American archaeology), Rubertone (Narragansett resistance), and others engaged as allies or foils.

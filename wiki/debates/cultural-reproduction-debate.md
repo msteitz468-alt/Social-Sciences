@@ -6,7 +6,7 @@ era: [critical-turn, contemporary]
 positions: ["Cultural reproduction (Bourdieu & Passeron)", "Correspondence theory (Bowles & Gintis)", "Resistance theory (Willis, Giroux)", "Determinism/circularity critique"]
 key_texts: ["Bourdieu & Passeron, Reproduction (1970)", "Bowles & Gintis, Schooling in Capitalist America (1976)", "Willis, Learning to Labour (1977)", "Aronowitz & Giroux, Education Under Siege (1985)"]
 resolution_status: open
-last_updated: 2026-07-09
+last_updated: 2026-07-10
 tags: [debate]
 ---
 
@@ -26,7 +26,7 @@ The school reproduces the class distribution of [[cultural-capital]], and throug
 
 ## Position 3 — Resistance theory (Willis, Giroux)
 
-Paul Willis's *Learning to Labour* (1977) argues the reproduction model misses agency: working-class "lads" actively produce a counter-school culture that, through their own creative resistance to schooling, channels them into working-class jobs. Reproduction is confirmed as *outcome* but achieved through agency, not passive self-elimination. Henry Giroux built a critical pedagogy on this basis; Aronowitz & Giroux's *Education Under Siege* (1985) foregrounds resistance and possibility.
+[[willis-paul|Paul Willis]]'s *[[willis-learning-to-labour-1977|Learning to Labour]]* (1977) argues the reproduction model misses agency: working-class "lads" actively produce a [[counter-school-culture]] that, through their own creative resistance to schooling, channels them into working-class jobs. Reproduction is confirmed as *outcome* but achieved through agency and [[penetration-willis|partial penetration]], not passive [[self-elimination]]. Henry Giroux built a critical pedagogy on this basis; Aronowitz & Giroux's *Education Under Siege* (1985) foregrounds resistance and possibility. A feminist counter-critique *within* the resistance camp (Angela McRobbie, 1980) charged that Willis's account excludes girls and reproduces the lads' patriarchy — a charge Willis substantially conceded in his 1981 Afterword.
 
 ## Position 4 — Determinism / circularity critique
 

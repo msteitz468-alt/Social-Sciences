@@ -8,7 +8,7 @@ emic_or_etic: etic
 operationalized_as: "an analytic relation in which a dominant 'core' region and a less-developed 'periphery' are structurally linked through asymmetric exchange, such that developments in one cannot be understood without the other; in archaeology, traced through the flow of prestige goods, metals, and styles"
 contested: yes
 related_concepts: ["[[world-systems-analysis]]", "[[prestige-goods-economy]]", "[[hallstatt-culture]]"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [concept]
 ---
@@ -73,3 +73,7 @@ capitalist/modern core–periphery logic onto qualitatively different societies,
 over-emphasizes external (diffusionist) causes over internal dynamics, and (3) casts
 peripheries as passive recipients. Kristiansen and others reply that the model is used
 heuristically, with peripheries as active agents. *(Enriched during integration.)*
+
+## Applications (Connell 2007)
+
+[[prebisch-raul|Prebisch]]'s centre–periphery economics is a load-bearing case in [[connell-raewyn|Connell]]'s [[southern-theory]] program; Connell also uses metropole/periphery for the *sociology of knowledge*, not only trade structure (see [[metropole]], [[connell-southern-theory-2007]]).

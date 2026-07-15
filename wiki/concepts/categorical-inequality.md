@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Unequal access to resources organized around paired social categories (e.g. male/female, black/white, citizen/noncitizen); mechanism analysis rather than a single index"
 contested: yes
 related_concepts: ["[[durable-inequality]]", "[[categorical-pairs]]", "[[exploitation]]", "[[opportunity-hoarding]]", "[[interior-exterior-categories]]", "[[boundary-work]]", "[[symbolic-boundaries]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -34,3 +34,7 @@ Firms and gender segregation; ethnic niches and chain migration; racialized stat
 ## Critiques and Limitations
 
 Risk of over-generalizing "category" across race, class, gender, citizenship; relative weight of class vs ascriptive categories contested; mechanism claims are theoretical with illustrative evidence until tested case by case.
+
+## From *Identities, Boundaries, and Social Ties* (2005)
+
+*(Attributed — Tilly.)* Restated as the categorical face of durable inequality; coupled to [[social-boundary-mechanism|boundary-change mechanisms]] and [[citizenship]] inclusion/exclusion; chain-migration niches as opportunity-hoarding sites. Source: [[tilly-identities-boundaries-social-ties-2005]].

@@ -6,12 +6,12 @@ date_start: recurrent
 date_end: ongoing
 period: [modern]
 region: [north-america]
-measured_by: ["intergenerational occupational transition rates", "education-to-occupation attainment", "income mobility across cohorts", "self-recruitment rates within strata"]
+measured_by: ["intergenerational occupational transition rates", "education-to-occupation attainment", "income mobility across cohorts", "self-recruitment rates within strata", "[[socioeconomic-index|Duncan SEI]] correlations and path coefficients (Blau–Duncan OCG)"]
 driven_by: ["occupational structure change", "educational expansion", "differential fertility", "economic cycles"]
 produces: ["changes in class composition", "status anxiety", "legitimation of inequality via opportunity ideology"]
-theorized_by: ["[[mills-c-wright]]", "[[weber-max]]", "[[dahrendorf-ralf]]", "[[lynd-robert-s]]", "[[lynd-helen-merrell]]", "[[granovetter-mark-s]]", "[[piketty-thomas]]", "[[lenski-gerhard]]"]
-key_studies: ["[[mills-white-collar-study]]", "[[whyte-street-corner-society-study]]", "[[lynd-middletown-study]]", "[[granovetter-strength-of-weak-ties-study]]", "[[piketty-capital-twenty-first-century-study]]"]
-sources_ingested: 7
+theorized_by: ["[[mills-c-wright]]", "[[weber-max]]", "[[dahrendorf-ralf]]", "[[lynd-robert-s]]", "[[lynd-helen-merrell]]", "[[granovetter-mark-s]]", "[[piketty-thomas]]", "[[lenski-gerhard]]", "[[blau-peter-m]]", "[[duncan-otis-dudley]]"]
+key_studies: ["[[mills-white-collar-study]]", "[[whyte-street-corner-society-study]]", "[[lynd-middletown-study]]", "[[granovetter-strength-of-weak-ties-study]]", "[[granovetter-getting-a-job-study]]", "[[piketty-capital-twenty-first-century-study]]", "[[blau-duncan-american-occupational-structure-study]]"]
+sources_ingested: 9
 last_updated: 2026-07-10
 tags: [phenomenon, north-america]
 ---
@@ -23,7 +23,9 @@ across generations (intergenerational) or within a lifetime (intragenerational).
 records the phenomenon as it bears on the sources ingested so far, chiefly
 [[mills-c-wright|Mills]]'s *[[mills-white-collar-1951|White Collar]]* (1951), with an earlier
 industrial-city snapshot in [[lynd-middletown-study|Lynd & Lynd, *Middletown*]] (promotion
-scarcity and classed schooling/college plans, 1924–25).
+scarcity and classed schooling/college plans, 1924–25), and with [[granovetter-mark-s|Granovetter]]'s
+network channel for *intragenerational* job mobility (*[[granovetter-getting-a-job-study|Getting a Job]]* 1974;
+[[granovetter-strength-of-weak-ties-study|SWT]] 1973).
 
 ## Definition and Scope
 
@@ -47,6 +49,8 @@ categories as their fathers. Blocked mobility: as many as 80% of a clerical samp
 promotion; a worker's son had ~6/100 odds of reaching college versus better than even odds for a
 professional's son. These are single-study or agency figures, recorded in attributed voice.
 
+**Blau–Duncan OCG (1962/1967, attributed):** *[[blau-duncan-american-occupational-structure-study|The American Occupational Structure]]* operationalizes mobility with continuous [[socioeconomic-index|Duncan SEI]] scores and recursive [[path-analysis|path coefficients]] linking father’s education/occupation, son’s education, first job, and 1962 occupation for ~20,700 U.S. men. Simple correlations with occupational status (approx.): education .60, first job .54, father’s occupation .40. Direct paths to destination: education ~.39, first job ~.28, residual father-occupation path ~.115; R² of the basic model ≈.43. Mobility tables (17 categories) complement SEI: much short-distance movement; two semipermeable class boundaries (white-collar/blue-collar; blue-collar/farm). See [[status-attainment]].
+
 ## Patterns and Findings
 
 Mills argued (attributed) that education had "replaced property as the insurance of social
@@ -66,6 +70,10 @@ working-class youth faced different occupational horizons even inside the same c
 system. See [[lynd-middletown-study]] and [[business-class-and-working-class]].
 
 ## Explanatory Theories
+
+### Blau–Duncan status attainment (1967, attributed)
+
+[[blau-peter-m|Blau]] and [[duncan-otis-dudley|Duncan]] model mobility as a **process of stratification**: [[ascribed-status|ascribed]] origins shape [[achieved-status|achieved]] education and early career, which shape adult occupational status. They argue industrial “universalism” expands achievement criteria relative to particularistic ascription, with **race as the major exception** (net residual white advantage ~9.3 SEI points after origins, education, and first job). Structural mobility (farm contraction, professional expansion) and selective migration generate much gross upward flow; father–son status dependence remains nontrivial (r≈.40). Strong mobility–fertility hypothesis rejected. Program: [[status-attainment]]; study: [[blau-duncan-american-occupational-structure-study]].
 
 Mills read mobility through a Weberian frame (occupation as the new axis of stratification) and
 noted the older demographic explanation — upward mobility partly filled by lower fertility among
@@ -100,7 +108,7 @@ lazy," feeding the very opportunity-ideology Mills analyzed at the macro scale.
 
 ## Network Information Channels (Granovetter)
 
-[[granovetter-mark-s|Granovetter]] (*[[granovetter-strength-of-weak-ties-1973|The Strength of Weak Ties]]*, 1973) treats intragenerational **job mobility** as structured by egocentric networks, not only by education or property. In a Boston-suburb sample of professional, technical, and managerial job changers who found work through contacts, he reported that information skewed toward **weak** ties (seen occasionally or rarely) rather than strong ones (N=54), and that information paths to employers were typically short (direct or one intermediary; N=64). He argued (attributed) that weak ties access non-redundant circles — structure over pure motivation to help — and that job changers also *create* bridging ties between workplace clusters, integrating specialties. Single-study, limited class window (PTM); `replication_status` on the study page is `partially-supported`. Complements Mills's educational elevator and Whyte's loyalty-rupture ethnography with a **relational** mechanism: see [[strength-of-weak-ties-theory]], [[granovetter-strength-of-weak-ties-study]].
+[[granovetter-mark-s|Granovetter]] treats intragenerational **job mobility** as structured by egocentric networks, not only by education or property. *[[granovetter-getting-a-job-study|Getting a Job]]* (1974; Newton, MA male PTM movers, N=282) is the full design: he reported **[[personal-contacts]]** as the predominant finding method (~56%), contact-found jobs associated with higher satisfaction/income/new creation, ~29% nonsearch, work contacts (~69%) over family-social, and — among interview contact-users — weak-frequency skew (often/occasional/rare 16.7/55.6/27.8%, N=54) and short chains (N=64). *[[granovetter-strength-of-weak-ties-1973|The Strength of Weak Ties]]* (1973) portable-ized the weak-tie half of that evidence. He argued (attributed) weak ties access non-redundant circles — structure over pure motivation — and that job changers also *create* bridging ties between workplace clusters. Single-study, limited class window (male PTM); `replication_status` `partially-supported` (Afterword 1994: prevalence sustained; wage laws conditional). Complements Mills's educational elevator and Whyte's loyalty-rupture ethnography with a **relational** mechanism: see [[strength-of-weak-ties-theory]], [[granovetter-getting-a-job-study]], [[granovetter-strength-of-weak-ties-study]], [[network-inequality]].
 
 ## Interaction
 

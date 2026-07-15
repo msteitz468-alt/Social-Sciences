@@ -32,13 +32,15 @@ Jane Jacobs (1916–2006) was an American-Canadian journalist, urban theorist, a
 
 Jacobs stood outside the academy and defined herself against the planning profession (Le Corbusier, Ebenezer Howard's Garden City, Moses). Her influence runs into urban sociology by reception rather than lineage: [[duneier-mitchell|Duneier]] takes her sidewalk theory as his affirmative frame in *Sidewalk*, arguing that her [[public-character|public-character]] role need not be filled by conventionally respectable people and that her "eyes upon the street" logic explains why unhoused vendors remain embedded in a block. Duneier also notes (attributed) that Jacobs's account did not anticipate gendered street harassment — a gap feminist geographers later pressed and that his [[interactional-vandalism|interactional-vandalism]] analysis addresses.
 
+**Scott's adoption (1998):** [[scott-james-c|James C. Scott]], in *[[scott-seeing-like-a-state-1998|Seeing Like a State]]*, treats *Death and Life* as "the most carefully observed and intellectually grounded critique" of [[high-modernism|high-modernist]] planning: where Le Corbusier sees the city from the air, "Jacobs sees her city as a pedestrian on her daily rounds would." He generalizes her visual-order/functional-order distinction ("The results... are neither life nor art. They are taxidermy"), reads eyes-on-the-street informal order as an instance of [[metis]], extends her diversity-resilience argument to agriculture (polyculture as mixed-use farming), and suggests a "woman's eye" — attentiveness to errands, child-minding, multipurpose daily activity — shaped her standpoint against the (largely male) efficiency critics.
+
 ## Critiques and Reappraisals
 
 Jacobs is faulted (positions) for generalizing from a specific, gentrifying Greenwich Village; for underweighting race and the ways her celebrated diversity accompanied displacement; and for a theory of safety that later underwrote both community-policing and, in tension with her intent, order-maintenance agendas she would likely have opposed. Duneier's engagement is itself a partial critique: he shows her model breaks down across sharp race-class-gender divides, where the shared interactional norms her "restraints" assume cannot be taken for granted.
 
 ## Historiography
 
-*The Death and Life of Great American Cities* (1961) remains the primary reference; her later economics works (*The Economy of Cities*, 1969) are less central to the sociological reception. In this wiki she is documented through Duneier's *Sidewalk* engagement; a dedicated ingest of *Death and Life* remains a collection gap.
+*The Death and Life of Great American Cities* (1961) remains the primary reference; her later economics works (*The Economy of Cities*, 1969) are less central to the sociological reception. In this wiki she is documented through Duneier's *Sidewalk* engagement and Scott's *[[scott-seeing-like-a-state-1998|Seeing Like a State]]* Ch. 4 treatment; a dedicated ingest of *Death and Life* remains a collection gap.
 
 ## Links
 

@@ -9,8 +9,8 @@ emic_or_etic: etic
 operationalized_as: "A marriage system in which women circulate in one direction around a cycle of groups — if an A man marries a B woman, a B man marries a C woman, and so on back to A (matrilateral cross-cousin marriage)"
 contested: no
 related_concepts: ["[[restricted-exchange]]", "[[cross-cousin-marriage]]", "[[exchange-of-women]]", "[[alliance-theory]]", "[[gift-exchange]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept, anthropology]
 ---
 
@@ -37,3 +37,7 @@ Generalized exchange, Lévi-Strauss argued, is a "collective speculation" conduc
 ## Critiques and Limitations
 
 The "internal limits" instability argument is a structural deduction, richly illustrated but not a demonstrated historical dynamic; [[leach-edmund|Leach's]] Kachin work contested aspects of the stability claim. Like all alliance-theory concepts it treats women as circulated objects (see [[exchange-of-women]]) and rests on secondary sources. Real systems are frequently hybrids of generalized and restricted exchange (the Naga cases Lévi-Strauss himself analyzed).
+
+## From Leach, *Rethinking Anthropology* Ch. 3 (1951/61)
+
+*(Attributed — Leach on Lévi-Strauss and on Kachin-type systems.)* Early English commentary on *ESK*: sympathy with structural method; ethnographic corrections (Haka Chin misread as Kachin; Chin prestations; kinship-term counts; polygyny proverb; rank direction reversed vs Kachin/Lakher). Core Leach propositions (summary): status relations between local groups are **given**; marriage **expresses** them; costly consumer-goods brideprice → wife-givers senior; dowry-heavy regimes → givers junior; pure symbolic payments leave rank freer. Kachin-type matrilateral chains are the empirical face of generalized (indirect) exchange with **built-in rank**, not egalitarian cycles. Source: [[leach-rethinking-anthropology-1961]]; [[mayu-dama]]; [[marriage-payments]].

@@ -39,6 +39,8 @@ Massey & Denton emphasize segregation indices and poverty-by-tract interaction. 
 
 ## Patterns and Findings
 
+**Liebow (1967, attributed) — structural precursor:** *[[liebow-tallys-corner-study|Tally's Corner]]* (fieldwork 1962–63, Washington, D.C.) documented that jobs open to unskilled Black men could not support a family and argued streetcorner "pathology" was a direct response to that condition, not a subculture — anticipating the culture-as-response-to-structure position Wilson later systematized; Wilson (2003) credited Liebow as "perhaps the first scholar" to center labor-market failure's psychological erosion.
+
 **Wilson (1987, attributed):** Despite high mid-century ghetto poverty, rates of joblessness, teenage pregnancy, nonmarital births, female headship, welfare dependency, and serious crime were substantially lower before the 1960s and did not reach “catastrophic” levels until the mid-1970s. Pre-1960 inner-city communities, he argued, retained greater social organization (community identity, role models, informal control). Black female-headed families rose from 22% (1960) to 42% (1983) in series he cites; employment collapse for black men shrank the marriageable pool. Class transformation: nonpoor black exit raised the share of the “truly disadvantaged” in remaining neighborhoods → [[concentrated-poverty]] → [[social-isolation]] and [[concentration-effects]].
 
 **Massey & Denton (1993, attributed):** Segregation multiplies citywide black poverty increases into extreme neighborhood poverty; underclass communities are spatially produced; Hispanic patterns emerge mainly where high segregation and poverty co-occur.

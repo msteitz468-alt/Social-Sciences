@@ -111,3 +111,4 @@ ethnographic authority rather than as refutations of the substance.
 - Concepts: [[corner-boys-and-college-boys]] · [[reciprocal-obligation]] · [[participatory-action-research]]
 - Homans reanalysis: [[homans-human-group-1950]] · [[homans-george-c]] · [[small-group-theory]] · [[activity-interaction-sentiment]]
 - Debate: [[whyte-boelen-cornerville-debate]] · Tradition (contested): [[chicago-school]]
+- Successor contrast: [[liebow-tallys-corner-study]] — Liebow (1967) cites Whyte on corner networks but finds transience where Cornerville had tight-knit stability

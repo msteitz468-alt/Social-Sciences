@@ -7,8 +7,8 @@ disciplines: [archaeology, anthropology]
 emic_or_etic: etic
 operationalized_as: "A political economy in which elite power depends on controlling the supply of scarce, long-distance-exchanged valuables (prestige goods) required for social reproduction — marriage, alliance, ritual — so that control of external exchange translates into internal hierarchy"
 contested: yes
-related_concepts: ["[[chiefdom]]", "[[world-systems-analysis]]", "[[redistribution]]", "[[heterarchy]]"]
-sources_ingested: 4
+related_concepts: ["[[chiefdom]]", "[[world-systems-analysis]]", "[[redistribution]]", "[[heterarchy]]", "[[land-tenure]]", "[[status-to-contract]]"]
+sources_ingested: 5
 last_updated: 2026-07-10
 tags: [concept, archaeology]
 ---
@@ -22,6 +22,10 @@ tags: [concept, archaeology]
 A **prestige-goods economy** (or prestige-goods system) is a political economy in which elite power rests on **controlling the supply of scarce valuables obtained through long-distance exchange** that are *required for social reproduction* — for bridewealth, alliance, initiation, funerary and other ritual payments. Because subordinates cannot marry, mature, or bury their dead without these goods, and because only elites command the external networks that supply them, control of *external* exchange converts directly into *internal* hierarchy. The model was developed by Jonathan Friedman and Michael Rowlands (and Susan Frankenstein) in the 1970s as a Marxist-anthropological alternative to purely local, [[chiefdom|redistributive]] accounts of ranking, and became a central tool of [[world-systems-analysis|world-systems]] approaches in archaeology.
 
 ## Semantic History
+
+### Ethnographic precursor — Gluckman on subsistence vs prestige (1965)
+
+*(Attributed — [[gluckman-max|Gluckman]], *[[gluckman-politics-law-ritual-1965|Politics, Law and Ritual]]*, Ch. II — not the Friedman–Rowlands model; an earlier Africanist dual-economy framing.)* Tribal economies aim at both **subsistence** and **prestige/power**. Limited tools and trade restrict hoarding’s utility for personal living standards; reputation is enhanced by **giving away** (Hogbin Solomon Islands quote). Ceremonial exchange goods (kula; potlatch asides) take symbolic value representing wider peace across tribal borders. Evans-Pritchard on the [[nuer|Nuer]]: the poorer the material culture, the more symbolic/social functions goods serve (cattle as nuclei of kinship). Media of exchange may move in relatively isolated circuits (Firth spheres). Distinct from archaeological prestige-goods **control of external valuables for elite social reproduction** (below) — do not equate without argument.
 
 - **Friedman & Rowlands (1977); Frankenstein & Rowlands (1978):** formalized the model, the latter applying it to the Early Iron Age West-Hallstatt zone (elite control of Mediterranean imports).
 - **Mary Helms (1979, 1988 *Ulysses' Sail*, 1993):** the influential companion argument that **geographical distance is itself a source of value and authority** — long-distance travel yields not just goods but *esoteric knowledge*, and "skilled craft" and access to the cosmologically distant confer legitimacy. [[kristiansen-larsson-rise-bronze-age-2005|Kristiansen & Larsson]] lean heavily on Helms, arguing "an imitation speaks perhaps even more strongly than an import about the local significance of 'foreign' prestige goods" — locally-made foreign-style objects (faience, imitated Minoan/Mycenaean rapiers) being "foreign knowledge that is loaded with status."

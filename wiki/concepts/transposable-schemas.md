@@ -7,9 +7,9 @@ disciplines: [sociology, anthropology, social-theory]
 emic_or_etic: etic
 operationalized_as: "Structure analyzed as mutually sustaining schemas (virtual, transposable cultural procedures) and resources (actual, human and nonhuman media of power); transformability specified by five axioms."
 contested: "no"
-related_concepts: ["[[duality-of-structure]]", "[[rules-and-resources]]", "[[agency]]", "[[habitus]]", "[[historical-event]]", "[[allocative-and-authoritative-resources]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[duality-of-structure]]", "[[rules-and-resources]]", "[[agency]]", "[[habitus]]", "[[historical-event]]", "[[allocative-and-authoritative-resources]]", "[[cultural-schema]]"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept, sociology]
 ---
 
@@ -27,6 +27,8 @@ Structure, on his account, is the interplay of two elements:
 ## Semantic History
 
 The concept originates in Sewell's 1992 *AJS* article "A Theory of Structure," written to give theoretical grounding to what social historians "already did from professional instinct" — borrowing structure/agency vocabulary from sociology and anthropology. It is a deliberate rework of two Critical-Turn programs: it takes "duality of structure" from [[structuration-theory|Giddens]] and "transposable" from [[practice-theory|Bourdieu]]'s definition of [[habitus]], while rejecting Giddens's underspecification and Bourdieu's determinism. Reprinted as the core theoretical chapter of *[[sewell-logics-of-history-2005|Logics of History]]* (2005), it became one of the most cited theoretical statements in historical and cultural sociology.
+
+**Related lineage (not identical):** [[ortner-sherry|Ortner]]’s earlier/parallel concept of [[cultural-schema]] (*[[ortner-high-religion-1989|High Religion]]*, 1989; rooted in her “key scenarios,” 1970/1973) treats preorganized schemes of action — plot structures in stories and rituals that order interactions and historical events and depict actors resolving central cultural contradictions. Ortner stresses generality and **transferability** of schemas across disparate situations (hospitality; temple founding; offering rites). That program is ethnographic-historical practice theory and is **not** Sewell’s 1992 duality of virtual schemas + actual resources; the two share a concern with portable cultural procedures and agency under structure but differ in apparatus, genealogy (Ortner via key symbols/scenarios, Geertz, Sahlins, contradiction theory; Sewell via Giddens/Bourdieu reconstruction), and the five-axiom transformability argument unique to Sewell. Link, do not equate: [[cultural-schema]]; study [[ortner-high-religion-study]].
 
 ## The Duality of Schemas and Resources
 

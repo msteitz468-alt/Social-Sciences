@@ -18,7 +18,7 @@ tags: [hub, thinker-analysis]
 
 > Thinkers Hub deep analysis. Summary: [[kroeber-alfred-l]].
 >
-> **Sourcing note.** This page is grounded in one primary ingest: the Harbinger abridgement *[[kroeber-culture-patterns-processes-1963|Culture Patterns & Processes]]* (1963), which reprints Chapters 1, 6, 7, 8, 9, and 10 of *Anthropology: Revised Edition* (1948). That is the theoretical Kroeber of culture definition, language, pattern, process, and change — not the full California ethnographer or the author of *Configurations of Culture Growth*. Career institutional detail and fieldwork conditions beyond what the textbook states are marked as context pending further primary ingest. Period vocabulary is quoted as his and attributed.
+> **Sourcing note.** This page is grounded in two primary ingests: the Harbinger abridgement *[[kroeber-culture-patterns-processes-1963|Culture Patterns & Processes]]* (1963), which reprints Chapters 1, 6, 7, 8, 9, and 10 of *Anthropology: Revised Edition* (1948) — the theoretical Kroeber of culture definition, language, pattern, process, and change — and *[[kroeber-configurations-culture-growth-1944|Configurations of Culture Growth]]* (1944), the growth-morphology Kroeber (summarized at normal resolution; not the full California ethnographer). Career institutional detail and fieldwork conditions beyond what the textbook states are marked as context pending further primary ingest. Period vocabulary is quoted as his and attributed.
 
 ## Formation and Training
 
@@ -50,7 +50,7 @@ The genealogy is **Boasian with a centralizing twist**. Where Boas often refused
 1. **Formation and early Boasian work (to c. 1917).** Columbia training; early California ethnography; "The Superorganic" (1917) announces the level claim.
 2. **California institutional builder (1910s–1930s).** Museum and university infrastructure; *Handbook* (1925); culture-element and culture-area programs — the empirical base of his authority, largely outside this vault's primary set.
 3. **Textbook synthesizer (1923; rev. 1948).** *Anthropology* becomes the mid-century American student's map of the field; the 1948 revision is the text behind *Culture Patterns & Processes*.
-4. **Style and growth morphologist (1940s).** *Configurations of Culture Growth* (1944) — climaxes, styles, genius clustering — continuous with Patterns chapter §§136–140; not yet primary-ingested.
+4. **Style and growth morphologist (1940s).** *[[kroeber-configurations-culture-growth-1944|Configurations of Culture Growth]]* (1944) — [[growth-configuration|growth configurations]], [[genius-clustering|genius clustering]], the [[kroeber-spengler-debate|dispute with Spengler]] — continuous with Patterns chapter §§136–140; now primary-ingested (see [[kroeber-configurations-study|study page]]).
 5. **Late codifier (to 1960).** Acculturation, nativism, and modern uniformization in Ch. 10 read as a senior anthropologist watching mass culture and wartime nationalism.
 
 ## Major Works and Their Moves
@@ -127,8 +127,8 @@ Analysis: the elegance is methodological peace-making. Evolutionists needed inde
 
 ## Historiography and Primary Sources
 
-- **Primary ingested:** [[kroeber-culture-patterns-processes-1963]] (Harbinger 1963 = *Anthropology* 1948 Chs. 1, 6–10).
-- **Not yet ingested:** full *Anthropology* 1948; *Configurations of Culture Growth* 1944; *Handbook of the Indians of California* 1925; "The Superorganic" 1917 essay in original form; biographies and archives.
+- **Primary ingested:** [[kroeber-culture-patterns-processes-1963]] (Harbinger 1963 = *Anthropology* 1948 Chs. 1, 6–10); [[kroeber-configurations-culture-growth-1944]] (1944).
+- **Not yet ingested:** full *Anthropology* 1948; *Handbook of the Indians of California* 1925; "The Superorganic" 1917 essay in original form; biographies and archives.
 - **Summary page:** [[kroeber-alfred-l]]
 - **Theory:** [[historical-particularism]] · [[hubs/theory/historical-particularism]]
 - **Concepts:** [[superorganic]] · [[ethos-and-eidos]] · [[culture-pattern]] · [[stimulus-diffusion]] · [[acculturation]] · [[culture]]

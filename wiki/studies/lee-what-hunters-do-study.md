@@ -11,8 +11,8 @@ methods_used: ["[[participant-observation]]", "input-output / time-allocation ce
 key_findings: ["Dobe !Kung adults spent ~2.5 days/week (12–19 hrs) obtaining food; output ~2,140 cal + 93.1 g protein per capita/day, exceeding estimated requirements", "vegetable foods (gathered by women) formed 60–80% of the diet by weight; hunting supplied only ~37%", "across a 58-society sample, gathering (50%) and fishing (33%) dominate hunting (17%) as primary subsistence except at high latitudes"]
 concepts_introduced: ["[[original-affluent-society|(evidential basis for) original affluent society]]", "[[hunter-gatherer]] as predominantly gathering-based"]
 replication_status: "reanalyzed-contested"
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: ["study", "cultural-anthropology", "southern-africa"]
 ---
 
@@ -87,6 +87,18 @@ herding — a challenge developed later by Edwin Wilmsen and answered by Lee and
 the symposium itself, Lorna Marshall qualified the picture, reporting Nyae Nyae !Kung as
 "all thin" and anxious about food; Sahlins conceded "affluent society" was "a bon mot" (see
 [[man-the-hunter-woman-the-gatherer-debate]] and [[kalahari-debate]]).
+
+### Supersession / refinement by Lee 1979 (*The !Kung San*)
+
+*(Attributed — [[lee-richard-b|Lee]], *[[lee-kung-san-1979|The !Kung San]]* 1979, Ch. 9 esp.; full study object [[lee-kung-san-study]].)* Lee states that parts of the work-and-diet material were originally presented as Lee 1968a / 1969a (including this *Man the Hunter* chapter), but **all Ch. 9 data were recalculated** with later information. Integrators and readers should treat 1979 as the author's preferred numerical series for the same July–August 1964 Dobe diary and **not mix 1968 and 1979 figures** without a revision note. Major refinements:
+
+- **Subsistence work week:** unadjusted **2.2** → truck-adjusted **2.4** days/adult/week (week II food contribution by ethnographer corrected by equating each truck-day to 2.5 foot-work days; all four weeks retained, unlike dropping week II in 1969a).
+- **Diet:** **2,140 Cal / 93.1 g protein** (1969a) → **2,355 Cal / 96.3 g protein** (1979 Table 9.9); mongongo Cal/protein per 100 g raised; "other vegetable" calories raised 190→300.
+- **Sex productivity ratio:** earlier ~**2.5×** person-hour advantage for gathering over hunting (Lee 1968a:40) **retracted** as overstated → a gathering day ~**67% more** calories than a hunting day (~12,000 vs ~7,230 Cal).
+- **Work definition expanded:** three categories (subsistence; manufacture/maintenance; housework). Full week **~44.5 hrs men / 40.1 women / ~42.3 average** (Table 9.12) — directly addresses the "acquisition-only" critique that later hit the 1968 short-week figure, while leaving childcare as a further (mostly maternal) category.
+- **Representativeness caveats** made explicit: single-group continuous block; not all seasons or all !Kung; expedition may have attracted visitors; Draper /Du/da multi-season data offered as partial external check (~2.3-day overall week).
+
+For the full monograph findings (anthropometry, conflict, economic change, theoretical synthesis), use [[lee-kung-san-study]] and source [[lee-kung-san-1979]]; this page remains the 1968 research-act summary.
 
 ## Current Standing
 

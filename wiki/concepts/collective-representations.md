@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Not quantified; shared concepts, beliefs, and categories that exist in individual minds but are formed and constrained socially"
 contested: no
 related_concepts: ["[[collective-conscience]]", "[[sacred-and-profane]]", "[[social-fact]]", "[[collective-effervescence]]", "[[treat-social-facts-as-things]]", "[[social-realism]]", "[[primitive-classification]]", "[[symbolic-classification]]", "[[sociocentrism]]"]
-sources_ingested: 3
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -41,6 +41,7 @@ Content analysis of myths, ritual symbols, classification systems; survey measur
 - Links to [[sacred-and-profane|sacred]] ideals that society creates of itself.
 - Continuity with [[social-fact|social facts]] as external and constraining.
 - *[[durkheim-mauss-primitive-classification-1903|Primitive Classification]]* (1903): first systematic *Année* application of collective-representation analysis to hierarchical classifications of nature ([[primitive-classification]], [[symbolic-classification]]).
+- *[[mauss-general-theory-magic-1902|A General Theory of Magic]]* (Hubert & Mauss, 1902–03; primary-ingested): closes by declaring itself "a contribution to the study of collective representations… we have shown, with regard to magic, how a collective phenomenon can assume individual forms." Its [[mana]] argument treats mana as "a category of collective thinking" — an early *Année* extension of the category-analysis later systematized in 1903 and 1912; sympathetic magic reduces to "classifying collective representations." See [[mauss-hubert-general-theory-magic-study]].
 
 ## Critiques and Limitations
 

@@ -16,8 +16,8 @@ core_claims:
 developed_from: ["political economy (division of labour)", "biological evolution discourse", "[[positivism]] (partial — scientific sociology program)"]
 competes_with: ["[[positivism]] (Comtean three-stage philosophy of history — different master key)", "[[historical-materialism]] (adjacent stage interest; class motor vs Spencerian differentiation)", "later anti-evolutionist and [[historical-particularism|historical-particularist]] programs"]
 status: absorbed
-sources_ingested: 17
-last_updated: 2026-07-10
+sources_ingested: 19
+last_updated: 2026-07-15
 tags: [theory, sociology, anthropology]
 ---
 
@@ -91,7 +91,7 @@ World-wide juxtaposition of historical and ethnographic cases under institutiona
 
 `status: absorbed` — Structure/function, differentiation, integration, “development,” and militant/industrial vocabulary were reworked into structural-functionalism, modernization talk, and comparative political sociology after the evolutionary school as orthodoxy declined. Do **not** assert Spencerian, Mainean, or Morgan–Engels sequences as findings. Vocabulary survival ≠ program survival. Morgan’s ladder was rejected as literal world history ([[unilinear-kinship-evolution-debate]]) while clan/gens and kinship-terminology analysis survived as tools.
 
-**Mid-century neo-evolutionist return (not Victorian unilinearity):** [[white-leslie-a|White]]'s *[[white-evolution-of-culture-1959|Evolution of Culture]]* (1959) claims **principle-continuity** with Tylor 1881 while updating demonstration via [[energy-law-of-cultural-evolution]] and [[culturology]] ([[universal-evolution]]; White rejects the label "neoevolutionism"). [[steward-julian-h|Steward]]'s *[[steward-theory-of-culture-change-1955|Theory of Culture Change]]* (1955) formulates [[multilinear-evolution]] and [[cultural-ecology]] as limited empirical parallels under ecological adaptation — explicitly against both unilinear ladders and pure particularism, and against White/Childe universal laws as sole program (see [[cultural-evolutionism-debate]] Position 4; [[hubs/theory/universal-evolution]]; [[hubs/theory/cultural-ecology]]). [[harris-marvin|Harris]] (*[[harris-rise-anthropological-theory-1968|Rise]]* 1968 chs 5–7, 22 — attributed) critically recovers evolutionist **methods** (comparative toolkit, archaeology, survivals) while arguing none of the classical evolutionists were consistent [[cultural-materialism|cultural materialists]], and redesignates White/Steward as incomplete/applied carriers of the materialist strategy.
+**Mid-century neo-evolutionist return (not Victorian unilinearity):** [[white-leslie-a|White]]'s *[[white-evolution-of-culture-1959|Evolution of Culture]]* (1959) claims **principle-continuity** with Tylor 1881 while updating demonstration via [[energy-law-of-cultural-evolution]] and [[culturology]] ([[universal-evolution]]; White rejects the label "neoevolutionism"). [[steward-julian-h|Steward]]'s *[[steward-theory-of-culture-change-1955|Theory of Culture Change]]* (1955) formulates [[multilinear-evolution]] and [[cultural-ecology]] as limited empirical parallels under ecological adaptation — explicitly against both unilinear ladders and pure particularism, and against White/Childe universal laws as sole program (see [[cultural-evolutionism-debate]] Position 4; [[hubs/theory/universal-evolution]]; [[hubs/theory/cultural-ecology]]). *[[sahlins-service-evolution-culture-1960|Sahlins & Service, Evolution and Culture]]* (1960 — primary) synthesizes the two poles as [[general-and-specific-evolution]] (aspects of one process), adds Kaplan’s [[law-of-cultural-dominance]] and Service’s [[law-of-evolutionary-potential]], and explicitly claims Tylor’s “stage by stage” / “along its many lines” dual view. [[harris-marvin|Harris]] (*[[harris-rise-anthropological-theory-1968|Rise]]* 1968 chs 5–7, 22 — attributed) critically recovers evolutionist **methods** (comparative toolkit, archaeology, survivals) while arguing none of the classical evolutionists were consistent [[cultural-materialism|cultural materialists]], and redesignates White/Steward as incomplete/applied carriers of the materialist strategy.
 
 **Maine (*Ancient Law*, 1861).** *(Attributed.)* Comparative jurisprudence as evolutionary social theory of law: progressive vs stationary societies; three agencies of legal change ([[legal-fictions]], equity, legislation); [[patriarchal-theory]]; [[status-to-contract]]. Chronologically prior to Spencer’s full *Principles* and to Morgan *Ancient Society*; supplies the classic Status→Contract formula later echoed (with different machinery) in Spencer’s militant/industrial contrast. See [[maine-henry-sumner]].
 
@@ -122,6 +122,35 @@ Victorian imperial comparative gaze; progress narrative; gender hierarchy in div
 Stocking characterizes "classical evolutionism" as resting on a cluster of interrelated assumptions: that sociocultural phenomena are law-governed like the rest of nature; that these laws operate uniformly through time; that development proceeds continuously from simple to complex; that all humans share a common psychic nature ([[psychic-unity-of-mankind]]); and that contemporary "lower" societies approximate earlier developmental stages, reconstructable via the [[comparative-method]] and confirmed by [[survivals]]. He notes the movement favored independent invention over diffusion despite diffusion's closer conceptual fit to the branching Darwinian tree, because independent invention preserved the processual regularity needed to exclude divine intervention from the developmental account — see [[evolutionism-diffusionism-debate]].
 
 Stocking periodizes the British school into the originating 1860s generation (Lubbock, Tylor, McLennan, alongside Maine's parallel but methodologically distinct comparative jurisprudence), a second generation from c. 1880 (Lang and Robertson Smith, working respectively out of Tylor's and McLennan's programs), and a third phase carrying Tylorian intellectualism into the twentieth century in [[frazer-james-george|Frazer]]'s *Golden Bough*. He also traces a mid-twentieth-century American "neo-evolutionary" revival (coincident with the Darwin centennial and, during the Vietnam-War era, radicalized via Marxist readings of Engels's use of Morgan), producing Marvin Harris's 1968 *Rise of Anthropological Theory* — but judges neo-evolutionism to remain a minority movement within American sociocultural anthropology. See [[cultural-evolutionism-debate]] for Stocking's account of evolutionary assumptions persisting inside 1920s functionalism.
+
+### Stocking's account (*After Tylor*, 1995): the 1888 "adhesions" paper and the internal crisis before Boas
+
+*(Attributed — [[stocking-after-tylor-1995|Stocking, *After Tylor*, 1995]].)* Stocking frames [[tylor-edward-burnett|Tylor]]'s December 1888 Anthropological Institute paper, "On a Method of Investigating the Development of Institutions," as both the high-water synthesis of classical evolutionism — "a powerfully condensed summary representation of twenty-five years of social evolutionary argument" — and, retrospectively, the beginning of the paradigm's decline rather than the launch of an ascendant one. Its statistical "adhesions" method (tabulating co-occurrence of customs across roughly 350 peoples) prompted Francis Galton's objection about the non-independence of historically related cases — the origin of **Galton's problem** — which Tylor dismissed at the time but which [[boas-franz|Boas]] later generalized into a full methodological attack (1896). See [[comparative-method]] and [[evolutionism-diffusionism-debate]] for the fuller Galton's-problem history.
+
+Stocking argues classical evolutionism's paradigmatic unity was, on inspection, "from the beginning somewhat problematic" — theoretically (holdover Prichardian ethnologists), philosophically (anti-positivists), methodologically (scholars distrustful of the doctrine of survivals as historical method), and empirically (recalcitrant field data) — and offers the careers of [[fison-lorimer|Fison]], [[howitt-a-w|Howitt]], and [[codrington-robert-henry|Codrington]] as case studies of this erosion from within, predating and running alongside Lang's and Robertson Smith's better-known internal critiques (see [[cultural-evolutionism-debate]]):
+
+- **Fison**, whose *Kamilaroi and Kurnai* (1880, with Howitt) had been offered as confirmation of [[morgan-lewis-henry|Morgan]]'s evolutionary family sequence and of "primitive promiscuity," later explicitly repudiated his own central Kurnai theory as elegant but wrong ("it accounts for all the facts, but it is wrong in spite of that") and grew skeptical of theoretical speculation generally.
+- **Howitt** continued to interpret field data (including a violent 1876 incident) as confirming Morgan's stage sequence, while simultaneously acknowledging a growing gap between the "theoretical" communal-marriage stage evolutionary theory required and the "actual" practice he observed.
+- **Codrington**, though nominally within the evolutionist orbit (correspondent of Tylor and Fison, attendee at Tylor's Oxford lectures), worked from an underlying "ethnological"/philological orientation continuous with the pre-evolutionary Prichardian tradition, and used his **[[mana]]** data explicitly to rebut Tylor's [[animism]] thesis.
+- "**Primitive promiscuity**" is presented by Stocking as never empirically confirmed despite decades of search by Fison specifically; Darwin himself doubted it (citing possessive sexuality among male apes), and it came under attack from younger evolutionists (e.g., Edward Westermarck) by 1890 — Tylor's own 1888 paper notably did not incorporate the concept.
+
+### From Race, Culture, and Evolution (Stocking 1968)
+
+*(Attributed — [[stocking-george-w|Stocking]] 1968; source
+[[stocking-race-culture-evolution-1968]], essays 6 and 10.)* Stocking's thesis (essay 6, "The
+Dark-Skinned Savage") is that late-Victorian and turn-of-century social evolutionism was not
+strictly "unilinear" but "integrative" or "pyramidal": progress was general for mankind as a
+whole, while particular "lower races" were held to lag, regress, or die out by "peculiar
+racial capacities." Darwinian organic evolution, evolutionary ethnology, and
+[[polygenism|polygenist]] race fused into a single **"raciocultural hierarchy"** in which the
+highest products of social evolution were "large-brained white men," with the
+[[comparative-method]] arraying coexisting peoples on one scale topped by western Europe.
+Stocking further argues (essay 10) that this whole edifice depended structurally on
+[[lamarckian-inheritance|Lamarckian inheritance]]: the inheritance of acquired characters was
+what let social/intellectual progress be read as organic mental evolution and let deviations
+from the developmental sequence be explained as "race." When Lamarckianism collapsed
+biologically, that link between social and biological theory broke — a precondition for the
+Boasian severing of [[race]] from [[culture]].
 
 ### Johnson (2011) on origins and ideological uses (attributed)
 

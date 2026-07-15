@@ -3,12 +3,12 @@ title: "Historical Archaeology"
 discipline_type: subfield
 parent_discipline: "[[archaeology]]"
 founded: "mid–late 20th c. professionalization in North America (SHA 1967); deeper text-aided roots in classical/medieval archaeologies"
-founding_figures: ["[[orser-charles-e]] (global program charter)", "Ivor Noël Hume (Colonial Williamsburg tradition)", "James Deetz", "Kathleen Deagan", "Mark Leone", "[[unknown]]"]
+founding_figures: ["[[orser-charles-e]] (global program charter)", "Ivor Noël Hume (Colonial Williamsburg tradition)", "[[deetz-james|James Deetz]]", "Kathleen Deagan", "Mark Leone", "[[unknown]]"]
 core_questions: ["How should material and documentary evidence be combined for the recent past?", "What is the object of historical archaeology — local historic sites or the modern world system?", "How do colonialism, capitalism, and modernity shape modern material life?"]
 major_methods: ["joint documentary–material analysis", "excavation of historic-period sites", "landscape and estate archaeology", "ceramic and commodity analysis", "multi-scalar network interpretation"]
 subfields: ["colonial archaeology", "industrial archaeology", "plantation archaeology", "urban historical archaeology", "[[global-historical-archaeology]]"]
 collection_coverage: moderate
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-10
 tags: [discipline, archaeology]
 ---
@@ -51,7 +51,7 @@ Stratigraphic and open-area excavation adapted to historic sites; ceramic type c
 
 ## Current State
 
-Central rather than marginal in Anglophone theoretical debate (Johnson 2011 assessment). Vault primary depth now anchored by Orser 1996; Deetz, Leone monographs, and SHA literature still outstanding.
+Central rather than marginal in Anglophone theoretical debate (Johnson 2011 assessment). Vault primary depth now anchored by Orser 1996 and Deetz *[[deetz-in-small-things-forgotten-1996|In Small Things Forgotten]]* (1996 ed.); Leone monographs and SHA literature still outstanding.
 
 ## Reflexivity
 
@@ -80,4 +80,16 @@ Historical archaeology has been accused of serving patriotic reconstruction, tou
 
 ## Collection Coverage Note
 
-**Primary charter ingested:** [[orser-historical-archaeology-modern-world-1996]] (2026-07-10). **Secondary densification:** Johnson 2011 Ch.11 (textbook map of Deagan/Leone/Voss); Insoll 1999 (Islamic periods as historical archaeology). **Slug note:** former `concepts/historical-archaeology.md` was merged here so the vault keeps a single `historical-archaeology` filename (disciplines/). Outstanding: Deetz *In Small Things Forgotten*, Leone Annapolis corpus, Deagan St Augustine monographs, Andrén *Between Artifacts and Texts*, European post-medieval handbooks.
+**Primary charters ingested:** [[orser-historical-archaeology-modern-world-1996]] (2026-07-10); [[deetz-in-small-things-forgotten-1996]] (2026-07-10) with study [[deetz-in-small-things-forgotten-study]] and hub [[hubs/studies/deetz-in-small-things-forgotten-study]]. **Secondary densification:** Johnson 2011 Ch.11 (textbook map of Deagan/Leone/Voss); Insoll 1999 (Islamic periods as historical archaeology). **Slug note:** former `concepts/historical-archaeology.md` was merged here so the vault keeps a single `historical-archaeology` filename (disciplines/). Outstanding: Leone Annapolis corpus, Deagan St Augustine monographs, Andrén *Between Artifacts and Texts*, European post-medieval handbooks, Deetz *Flowerdew Hundred* (1993).
+
+## Deetz 1996 — Small Things Program
+
+*(Attributed — [[deetz-james|Deetz]], *[[deetz-in-small-things-forgotten-1996|In Small Things Forgotten]]*, expanded ed. 1996.)*
+
+**Definitions.** Deetz states a literacy-based definition (cultural remains of societies capable of recording their own histories) and a popular global definition (archaeology of European cultural spread since the fifteenth century and interaction with indigenous peoples). He insists historical archaeology must be global because post-fifteenth-century sailing contact was historically unprecedented; African American, Asian American, and post-contact Native American archaeology are integral, not optional. English counterpart work is **postmedieval archaeology**.
+
+**Ordinary material culture.** Program center is the "small things forgotten" of probate inventories — ceramics, houses, graves, refuse — complementary to documents that miss everyday meals and thought. Methods pedagogy: TPQ/TAQ, South [[mean-ceramic-date]], Harrington/Binford pipestems, [[probate-inventory-analysis]] as folk taxonomy, standing architecture plus excavation.
+
+**[[georgian-worldview]].** Three Anglo-American periods (to ~1660; ~1680–1760 folk/regional; ~1760+ Georgian re-Anglicization). Multi-domain cognitive shift (order, symmetry, individuation) across houses, ceramics, gravestones, refuse. Boundary case: [[parting-ways|Parting Ways]] free Black community does not fit Anglo rules.
+
+**African American archaeology.** [[creolization]] (not simple [[acculturation]]); [[shotgun-house]] path; slave housing continuum; [[colono-ware]] and creole pipes; foodways (Cannon's Point via Otto).

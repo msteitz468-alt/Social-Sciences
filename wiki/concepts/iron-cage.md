@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Metaphorical diagnosis of modern economic order as inescapable mechanism of machine production and occupational compulsion after religious ascetic root dies — not a measurement construct."
 contested: yes
 related_concepts: ["[[spirit-of-capitalism]]", "[[calling-beruf]]", "[[inner-worldly-asceticism]]", "[[rationalization]]"]
-sources_ingested: 1
-last_updated: 2026-07-08
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept, sociology]
 ---
 
@@ -27,6 +27,7 @@ The Puritan *wanted* to work in a calling; "we are forced to do so." Asceticism,
 - **Trajectory in Ch. 5:** Religious asceticism may have "escaped from the cage"; victorious capitalism on mechanical foundations needs its support no longer; duty in calling prowls "like the ghost of dead religious beliefs"; U.S. wealth-pursuit can become "sport."
 - **Closing image:** Possible futures include new prophets, rebirth of ideals, or "mechanized petrification" — "Specialists without spirit, sensualists without heart; this nullity imagines that it has attained a level of civilization never before achieved." Weber marks this as value-judgment territory beyond pure historical discussion.
 - **Afterlife:** Master metaphor of critical theory and sociology of modernity; often detached from the PE's careful anti-monocausal frame.
+- **DiMaggio & Powell's 1983 "Iron Cage Revisited" reframing** (in [[powell-dimaggio-new-institutionalism-1991]], ch. 3): DiMaggio and Powell restate Weber's original diagnosis — bureaucratization driven above all by competition among capitalist firms, competition among states, and bourgeois demands for equal legal protection, with market competition the most important of the three — then argue (attributed) that "the causes of bureaucratization and rationalization have changed": structural change in organizations is "less and less driven by competition or by the need for efficiency." Instead, they contend, bureaucratization and other organizational change now occur as the result of [[institutional-isomorphism|isomorphism]] processes that make organizations more similar "without necessarily making them more efficient." This recasts Weber's cage as a product of institutional homogenization pressures (coercive, mimetic, normative) rather than of market rationalization alone — see [[institutional-isomorphism]] and [[new-institutionalism]].
 
 ## Operationalizations
 

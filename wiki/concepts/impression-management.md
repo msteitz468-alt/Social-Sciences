@@ -66,3 +66,9 @@ Goffman: formal description of techniques and contingencies in natural establish
 - Read as recommending cynicism or reducing morality to stagecraft — Goffman's "merchants of morality" dialectic is analytical, not a how-to guide.
 - Under-specifies structural power and inequality as causes (though status fronts and service hierarchies fill the illustrations).
 - Co-presence model travels poorly to purely mediated interaction without explicit bridging.
+
+## Extension to structures of domination (Scott 1990)
+
+*(Attributed — [[scott-james-c]], *[[scott-domination-arts-resistance-1990|Domination and the Arts of Resistance]]*.)*
+
+Scott extended Goffmanian impression management from interaction ritual to slavery, serfdom, caste, and authoritarian rule: the [[public-transcript]] is a coerced, often collusive joint performance in which subordinates' self-presentation is scripted from above while "power means not having to act." Following Newby on deference and Patterson on slavery, he insisted the performance licenses no inference about belief; following Hochschild's *The Managed Heart*, he treated subordinates' public lives as disproportionately "command performances" of required emotion. See [[hidden-transcript]] for the offstage counterpart.

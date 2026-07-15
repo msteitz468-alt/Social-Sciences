@@ -16,14 +16,14 @@ core_claims:
 developed_from: ["[[historical-materialism]] (critical use)", "resource-mobilization / Oberschall tradition", "utilitarian collective choice"]
 competes_with: ["aggregate-psychological theory (Gurr)", "Durkheimian strain/breakdown", "systems/value-consensus revolution theory (Johnson)", "[[structural-theory-of-revolution]] (Skocpol — state autonomy critique of Tilly)"]
 status: active
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [theory, sociology, political-sociology]
 ---
 
 # Political-Conflict Theory (Tilly / Mobilization)
 
-Research program of [[tilly-charles|Charles Tilly]] synthesizing **[[collective-action]]** as interest-based, organized, resource-mobilizing contention under state-structured opportunity — stated programmatically in *[[tilly-from-mobilization-to-revolution-1978|From Mobilization to Revolution]]* (1978). Later extended as **contentious politics** (with Tarrow and others; not yet ingested). Skocpol labels this family "political-conflict theory."
+Research program of [[tilly-charles|Charles Tilly]] synthesizing **[[collective-action]]** as interest-based, organized, resource-mobilizing contention under state-structured opportunity — stated programmatically in *[[tilly-from-mobilization-to-revolution-1978|From Mobilization to Revolution]]* (1978). Later extended as **[[contentious-politics-theory|contentious politics / dynamics of contention]]** with Tarrow and McAdam (*[[mcadam-tarrow-tilly-dynamics-of-contention-2001|Dynamics of Contention]]*, 2001 — ingested). Skocpol labels this family "political-conflict theory."
 
 Adjacent inequality program: *[[tilly-durable-inequality-1998|Durable Inequality]]* (1998) / [[durable-inequality-theory]] — categorical pairs and four mechanisms; politics of inequality as special case when a government is a party; social movements and citizenship struggles (Catholic Emancipation) as category politics. Catness from the mobilization kit reappears as categorical network infrastructure for [[opportunity-hoarding]].
 
@@ -87,3 +87,11 @@ Skocpol: state treated as arena, not autonomous organization. Others: under-cult
 ## Reflexivity
 
 Product of 1960s–70s US conflict research (Michigan CRCR/CRSO), NSF-funded European historical projects, and post-1968 rethinking of protest. Explicitly political in choosing interest-based over pathology frames. OCR-only ingest of 1978 edition: date claims to that text, not later Tilly restatements.
+
+## Later Tilly extensions (*Identities, Boundaries, and Social Ties* 2005)
+
+*(Attributed — Tilly 2005.)* Mechanism–process explanation of political episodes (Ch. 3); [[political-identity]] as claim-making performance (Chs. 4, 14); [[repertoire-of-contention]] invention/diffusion mechanisms (Ch. 15); inequality and [[de-democratization]] conjectures (Ch. 13). Does not replace *FMR* 1978 models; densifies the later contentious-politics program. Source: [[tilly-identities-boundaries-social-ties-2005]].
+
+## From *Dynamics of Contention* (2001)
+
+*(Attributed — McAdam, Tarrow & Tilly.)* DOC retains Tillyan polity/repertoire heritage while **reacting against** static single-actor political-process models (including *FMR*-era boxes). Explanation reorients from general models of revolution/movements toward recurrent mechanisms ([[brokerage]], [[certification]], [[attribution-of-threat-and-opportunity]], etc.) concatenating into processes within [[episode-of-contention|episodes]]. Multiple-sovereignty language reappears in revolutionary-situation discussion (Nicaragua) without a covering law of revolution. See [[contentious-politics-theory]]; source [[mcadam-tarrow-tilly-dynamics-of-contention-2001]].

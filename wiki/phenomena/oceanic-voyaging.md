@@ -30,6 +30,34 @@ tags: [phenomenon, polynesia, melanesia]
 
 **Settlement outcome.** This voyaging capability underlay the settlement of Remote Oceania and, later, the rapid colonization of central Eastern Polynesia within a narrow window of roughly AD 900–1200, followed by the discovery of the most remote archipelagoes — Hawai'i (circa AD 940–1130), Rapa Nui (circa AD 1000–1100), and New Zealand ([[maori]], last, circa AD 1200–1300) — chronology detailed on [[pacific-settlement-chronology-debate]].
 
+## Measurement
+
+Oceanic voyaging is measured indirectly through three converging approaches: (1) AMS
+**[[radiocarbon-dating]]** of short-lived samples fixing the settlement chronology of successively
+more remote archipelagoes (the settlement pattern is itself the primary evidence that voyages
+occurred); (2) the rare direct archaeology of canoes themselves (the Vaitoʻotia-Faʻahia planks,
+the Anaweka hull section); and (3) **[[experimental-voyaging]]** and computer-simulation modeling,
+which test the *feasibility* of specific routes rather than dating any actual voyage.
+
+## Patterns and Findings
+
+The recurrent finding is that Pacific settlement proceeded west-to-east in pulses of purposive
+voyaging, with the most remote archipelagoes reached last: central Eastern Polynesia ~AD 900–1200,
+then Hawaiʻi (~AD 940–1130), Rapa Nui (~AD 1000–1100), and New Zealand (~AD 1200–1300). Drift
+alone cannot account for the settlement of Hawaiʻi (0 of 16,000 simulated drift trials reached it),
+so purposive navigation is inferred. See the settlement-outcome detail under **Ancient Practice**
+above and [[pacific-settlement-chronology-debate]].
+
+## Explanatory Theories
+
+The dominant model (attributed to Geoffrey Irwin) is the **"survival sailing strategy"**: sailing
+upwind into the unknown during predictable westerly wind reversals while retaining a guaranteed
+downwind return, with capability improving through successive "arcs of exploration." This is set
+against the older drift/accident account (Heyerdahl, Sharp), now rejected. Kirch frames voyaging
+technology and a horticultural, land-claiming descent-line ideology as jointly enabling the
+[[austronesian-expansion|Austronesian]] push into Remote Oceania — technology plus ideology, not
+technology alone.
+
 ## Debates and Historical Positions
 
 Whether this voyaging was purposive or accidental was itself a historical dispute: Thor Heyerdahl (1952) and, in a more measured form, Andrew Sharp (1956) held that Polynesian voyaging could not proceed purposively against prevailing winds and that settlement instead proceeded via chance or drift. This position is now resolved-by-consensus in favor of deliberate, purposive two-way voyaging, on the strength of the Levison et al. simulation and Irwin's survival-sailing model; see [[heyerdahl-polynesian-origins-debate]] for the closely related but analytically separate dispute over Polynesia's *origin point* (Heyerdahl's American-origins claim, fully rejected, versus a narrower and still-partly-open question of some later Polynesia–Americas contact).

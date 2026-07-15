@@ -49,10 +49,20 @@ Imperialism* (1993). He was also a prominent advocate for Palestinian rights.
 Said drew on [[foucault-michel|Foucault]] (discourse, power/knowledge) and
 [[gramsci-antonio|Gramsci]] (hegemony, the "inventory of traces"), against a backdrop of
 Auerbach's philology and Vichian humanism. His work seeded a generation of postcolonial
-theorists (Homi Bhabha, Gayatri Spivak among the "holy trinity" of the field). See
-[[postcolonialism]].
+theorists (Homi Bhabha, [[spivak-gayatri-chakravorty|Gayatri Spivak]] among the "holy trinity" of the field). Spivak's "[[spivak-can-the-subaltern-speak-study|Can the Subaltern Speak?]]" shifts from Orientalist discourse production toward the limits of recovering the gendered [[subaltern]] — complementary, not identical, to Said's project. See [[postcolonialism]], [[can-the-subaltern-speak-debate]].
 
 ## Critiques and Reappraisals
+
+[[clifford-james|James Clifford]]'s review essay "On Orientalism" (1980; repr. in
+[[clifford-predicament-of-culture-1988|The Predicament of Culture]], 1988) is the
+canonical anthropological critique: Said's three definitions are inconsistent, his
+Foucauldian method and residual humanism undercut each other, his genealogy omits the
+Maghreb and German traditions, and the Massignon case shows the humanist rescue
+escaping his own critique — yet Clifford credits the book with making "the Occident"
+problematic and with unsettling the anthropological culture concept. Clifford also
+reads Said biographically-sympathetically as exemplary of a "generalized condition of
+homelessness," identity negotiated rather than given (the Conrad parallel). See
+[[orientalism]] for the full recorded critique.
 
 Said's central critic was the Orientalist historian Bernard Lewis, who charged him with
 factual errors, a polemically selective canon, and hostility to scholarship itself; Said

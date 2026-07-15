@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Degree to which group memberships/cleavages intersect rather than coincide; measured (in Blau's later work) by correlations among social dimensions"
 contested: no
 related_concepts: ["[[opposition]]", "[[differentiation-of-power]]", "[[voluntary-association]]", "[[macrostructure-and-substructure]]", "[[dyad-and-triad]]", "[[ritual-of-rebellion]]", "[[feud]]", "[[segmentary-lineage-system]]", "[[ordered-anarchy]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -36,6 +36,14 @@ Blau's account of **stable democracy**: it requires both deeply internalized dem
 ### Gluckman / Africanist densification (1955/56)
 
 [[gluckman-max|Max Gluckman]]’s *[[gluckman-custom-and-conflict-1955|Custom and Conflict in Africa]]* gives the classic **anthropological** statement of the same family of ideas: men quarrel under some customary allegiances but are restrained by other, **cross-cutting** customary allegiances, so that conflict in one set of relationships re-establishes cohesion over a wider range or longer time (“the peace in the feud”). Scope condition: general need for peace and a shared moral order. Cases: Nuer feud and exogamy; Tonga homicide; frailty of authority (rebellion not revolution); family estrangement; witchcraft accusations; [[ritual-of-rebellion]]; South African colour-bar (“divide and cohere” until apartheid eliminates cross-links). Study: [[gluckman-custom-and-conflict-study]]. Related sociological line: [[cross-pressures]].
+
+### Systematic restatement (*Politics, Law and Ritual*, 1965)
+
+*(Attributed — *[[gluckman-politics-law-ritual-1965|Politics, Law and Ritual]]*, Ch. III.)* Stateless order maintained by **overlapping memberships**: Cheyenne soldier societies + council; [[plateau-tonga|Plateau Tonga]] *mukowa*/clan/neighbour networks (Colson); each offence mobilizes case-specific groups so permanent hostile factions cannot form. **Divide et impera** is a principle of social cohesion, not only a Machiavellian tactic — extreme apartheid that eliminates cross-links demands ever more force. Self-help works *through* group cohesion (pressuring a debtor via seized kinsman’s stock — Tallensi / Plateau Tonga). Terminological pair: structural **conflict** (personnel change, pattern constant) vs **contradiction** (radical pattern change).
+
+### Fortes' Tallensi formulation and Gluckman's African-state generalization (*Order and Rebellion in Tribal Africa*, 1963, Essay I)
+
+*(Attributed — [[fortes-meyer|Fortes]], via Gluckman's review essay "An Advance in African Sociology," 1945/46.)* Fortes described [[tallensi|Tallensi]] society as held together by cross-cutting ties (clanship, ritual collaboration) counterbalancing cleavages (the dominant Namoo/non-Namoo division; segmentary opposition at every level of lineage structure): "every tie between corporate units is counterbalanced by cleavages between them... all common interests are set off by divergent interests." [[gluckman-max|Gluckman]] generalizes this to African states, noting that Zulu provinces stood autonomously against the state and fought it on occasion while also being hostile to one another — paralleling Fortes' finding that a minor lineage stands in opposition both to its coordinate lineage and to the superordinate lineage containing both. Gluckman further generalizes across several African kingdoms (Zulu, Ankole, Shilluk, Nupe, Lozi, Swazi, Bemba) that internally **contradictory or uncertainly-applied succession rules** — rules that rotate kingship between houses representing different territorial segments, or split rule between two capitals — function structurally to keep segmentary/territorial cleavages tied to the sacred kingship itself rather than allowing them to fragment into full secession.
 
 ## Critiques and Limitations
 

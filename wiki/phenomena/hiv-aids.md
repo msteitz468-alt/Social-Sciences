@@ -10,9 +10,9 @@ measured_by: ["HIV seroprevalence surveys", "AIDS case surveillance", "case-cont
 driven_by: ["poverty and inequality", "gender inequality", "labor migration and sexual economy", "political dislocation", "unequal access to treatment"]
 produces: ["premature adult mortality", "orphanhood", "life-expectancy decline", "stigma and 'geography of blame'"]
 theorized_by: ["[[farmer-paul|Paul Farmer]]", "[[structural-violence]]", "[[biosocial-analysis]]"]
-key_studies: ["[[farmer-infections-inequalities-1999|Farmer, Infections and Inequalities]] (1999)"]
-sources_ingested: 1
-last_updated: 2026-07-09
+key_studies: ["[[farmer-infections-inequalities-1999|Farmer, Infections and Inequalities]] (1999)", "[[farmer-pathologies-of-power-2003|Farmer, Pathologies of Power]] (2003)"]
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [phenomenon, global]
 ---
 
@@ -81,9 +81,31 @@ with [[concentrated-poverty]] and gender inequality, and — through cost — wi
 Farmer notes protease-inhibitor therapy at $12,000–16,000/year (as of 1999) risked producing "an AIDS of
 the North and an AIDS of the South," a manageable chronic condition versus a death sentence.
 
+## Detention and the "logic of quarantine" (*Pathologies of Power*, 2003)
+
+In *[[farmer-pathologies-of-power-2003|Pathologies of Power]]* Farmer analyzed the HIV-positive
+Haitian refugees detained by the U.S. on its Guantánamo naval base (1991–93): 268 were identified as
+HIV-positive out of tens of thousands screened, and some who had already qualified as bona fide
+political refugees were held at "Camp Bulkeley" for up to two years solely because of HIV status —
+conditions a federal judge (Sterling Johnson, 1993) ruled "cruel and unusual punishment." Farmer
+recorded (as documented events, with detainee testimony) the forced injection of Depo-Provera without
+consent and hunger-strike beatings. He set this against Cuba's residential AIDS sanatoria, arguing
+(attributed) that the U.S. press and even the refugees' own advocates performed "symbolic work" by
+treating the two as morally equivalent "quarantine facilities" — a false equivalence that laundered
+U.S. abuses. He used a Haiti–Cuba comparison (near-identical geography, divergent health outcomes) to
+argue the difference was structural, not cultural. Farmer also read the U.S. HIV-immigration exclusion
+(Helms amendment, 1987; retained by a 76–23 Senate vote in 1993) as [[structural-violence|structural
+violence]] codified in law.
+
 ## Debates
 
 The disputes over whether *culture* or *structure* best explains HIV distribution and outcome — the early
 "exotic" AIDS anthropology, the WHO "Pattern II" transmission typology, the placebo-controlled
-antiretroviral trials likened to Tuskegee — are recorded at
+antiretroviral trials likened to Tuskegee (Farmer treats the 1994–98 Rakai/Uganda serodiscordant-couples
+study controversy at length in *Pathologies of Power*) — are recorded at
 [[culture-versus-structure-in-disease-debate]].
+
+
+## Ju/'hoansi and HIV (Lee, as of 2013 textbook)
+
+*(Attributed — [[lee-richard-b|Lee]], *[[lee-dobe-juhoansi-2013|The Dobe Ju/'hoansi]]* 4th ed., change chapters; with Ida Susser collaborative work noted.)* Botswana national adult HIV prevalence was among the world's highest by ~2000 (Lee cites UNAIDS figures in the ~35% range for the country peak period). For Dobe/Nyae Nyae Ju/'hoansi, Lee estimates far lower community rates (order **~3–6%** in the comparisons he reports) and links relative protection partly to **women's sexual decision autonomy** (condom refusal rights) versus neighbors where women reported less leverage — with shebeen drinking and outside partners as local hot spots. Treat as ethnographer's estimate and argument, not a substitute for formal serosurvey publication. Society page: [[juhoansi]].

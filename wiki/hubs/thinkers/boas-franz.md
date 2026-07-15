@@ -114,6 +114,8 @@ These passages commit the program to **scientific anti-racism** without committi
 4. **Ethnology and history.** Worldwide examples of diffusion, language shift, culture change without blood change; African cultural achievement vs US Negro social status; Eskimo lexicon; Australian classes (Cunow); tale distributions (Waterman).
 5. **Boas's own field experience** underwrites confidence but is not the book's primary data table — Northwest Coast detail lives in other volumes.
 
+**The Kwakiutl corpus (now ingested — Boas ed. Codere 1966).** The primary field base is documented on [[boas-kwakiutl-ethnography-study]] and summarized on the thinker page's "Kwakiutl Fieldwork" section: twelve NW Coast trips 1886–1930 (~28.5 months, White 1963), the [[hunt-george|George Hunt]] collaboration and [[text-collection]] method (>3,000 pages of Kwak'wala texts), the 1895 winter-ceremonial eyewitness record, and Boas's repudiation of his own 1886–c.1895 survey publications. Codere's 1966 introduction argues the corpus's formal conclusions were systematically under-read compared with Malinowski's dramatized ethnography — reception history relevant to this hub's assessment of the empirical base.
+
 **Critical assessment (from the text's own limits):** (a) 1938 genetics is pre-modern-population-genetics — date-stamp claims; (b) mental-test and crime discussions depend on then-available studies and are open to later reanalysis; (c) "Negro problem" chapter combines strong environmental/historical argument with cautious hedging about possible average differences in frequencies of high talent — record the hedge, do not erase it or promote it to wiki voice; (d) ethnographic examples are often brief illustrations, not full society pages.
 
 ## Reception, Politics, and Ethics

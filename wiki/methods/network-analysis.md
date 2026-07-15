@@ -7,8 +7,8 @@ date_introduced: "mid-20th century synthesis; sociological theoretical charter s
 supersedes: ["[[unknown]]"]
 epistemic_leverage: "Links micro dyadic interaction to macro patterns (diffusion, mobility, cohesion, intergroup relations) by treating relations — not only attributes — as the unit of structure; can identify bridges and non-redundant paths that attribute analysis misses"
 key_limitations: ["data-hungry (full networks rare)", "boundary specification problem", "sociometric instruments under-sample weak ties", "strength/content of ties often poorly measured", "static snapshots miss network dynamics"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [method]
 ---
 
@@ -67,4 +67,5 @@ Granovetter's 1973 paper is largely **qualitative-structural** with mathematical
 
 - theory: [[strength-of-weak-ties-theory]], [[structural-holes-theory]]
 - concepts: [[tie-strength]], [[strength-of-weak-ties]], [[local-bridge]], [[structural-holes]], [[network-constraint]]
-- study: [[burt-structural-holes-study]]
+- study: [[burt-structural-holes-study]] · source: [[burt-brokerage-and-closure-2005]]
+- concepts (Burt 2005): [[vision-advantage]] · [[bandwidth-echo]] · [[network-closure]] · [[structural-autonomy]]

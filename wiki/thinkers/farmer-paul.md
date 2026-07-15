@@ -7,11 +7,11 @@ era: [contemporary]
 affiliated_theories: ["[[critical-medical-anthropology]]", "[[anthropological-political-economy]]"]
 trained_under: ["[[kleinman-arthur|Arthur Kleinman]]"]
 trained: ["[[unknown]]"]
-key_works: ["AIDS and Accusation (1992)", "[[farmer-infections-inequalities-1999|Infections and Inequalities (1999)]]", "Pathologies of Power (2003)"]
-key_concepts: ["[[structural-violence]]", "[[immodest-claims-of-causality]]", "[[biosocial-analysis]]", "pragmatic solidarity", "[[embodiment]]"]
-fieldwork_sites: ["[[do-kay|Do Kay and Haiti's Central Plateau]] (1983–)", "Carabayllo, Lima, Peru (1990s)"]
-sources_ingested: 1
-last_updated: 2026-07-09
+key_works: ["AIDS and Accusation (1992)", "[[farmer-infections-inequalities-1999|Infections and Inequalities (1999)]]", "[[farmer-pathologies-of-power-2003|Pathologies of Power (2003)]]"]
+key_concepts: ["[[structural-violence]]", "[[immodest-claims-of-causality]]", "[[biosocial-analysis]]", "[[pragmatic-solidarity]]", "[[outcome-gap]]", "[[embodiment]]"]
+fieldwork_sites: ["[[do-kay|Do Kay and Haiti's Central Plateau]] (1983–)", "Carabayllo, Lima, Peru (1990s)", "Russian TB penal colonies (Vladimir, Kemerovo, Tomsk; 1998–)"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, medical-anthropology, anthropology]
 ---
 
@@ -33,8 +33,13 @@ claims of causality]]**). He decided at twenty, before first going to Haiti, tha
 
 *[[farmer-infections-inequalities-1999|Infections and Inequalities]]* (1999) is his central
 programmatic statement; it followed his dissertation ethnography *AIDS and Accusation* (1992, on the
-"geography of blame") and preceded *Pathologies of Power* (2003), where structural violence is joined
-to a human-rights framework.
+"geography of blame") and preceded *[[farmer-pathologies-of-power-2003|Pathologies of Power]]* (2003),
+where structural violence is joined to a human-rights framework. In *Pathologies of Power* Farmer
+extended his method well beyond Haiti — to HIV-positive Haitian refugees detained at [[hiv-aids|the
+U.S. Guantánamo base]], post-Zapatista Chiapas, and multidrug-resistant [[tuberculosis]] in Russian
+prisons — writing openly "on the side of the destitute sick" and drawing on [[liberation-theology]]
+to argue that violations of social and economic rights (above all the right to health) are what the
+human rights movement's focus on civil and political rights obscures.
 
 ## Contributions
 
@@ -50,11 +55,16 @@ to a human-rights framework.
 - **[[biosocial-analysis]]** — his methodological demand for an analysis "linking molecular
   epidemiology to history, ethnography, and political economy," treating disease as a *biosocial*
   phenomenon rather than analyzing biology and society on separate tracks.
-- **Pragmatic solidarity** — the ethic and practice he and Jim Yong Kim named for their transnational
-  work: a service-delivery commitment rooted in liberation theology's "preferential option for the
-  poor," insisting the destitute sick receive the best available care regardless of cost-effectiveness
-  arithmetic. Farmer's slogan for the physician's role, following Rudolf Virchow, was "the natural
-  attorney of the poor."
+- **[[pragmatic-solidarity]]** — the ethic and practice he and Jim Yong Kim named for their transnational
+  work: a service-delivery commitment rooted in [[liberation-theology|liberation theology's]]
+  "preferential option for the poor," insisting the destitute sick receive the best available care
+  regardless of cost-effectiveness arithmetic. In *Pathologies of Power* Farmer set it against
+  *charity* (which frames recipients as inferior) and *development* (which defers), arguing only a
+  social-justice approach implicates privileged actors. Farmer's slogan for the physician's role,
+  following Rudolf Virchow, was "the natural attorney of the poor."
+- **[[outcome-gap]]** — his term for the widening disparity in health outcomes between rich and poor
+  that appears whenever an effective intervention exists but is rationed away from those who need it
+  most; reducing it is the stated goal of pragmatic solidarity.
 - **Partners in Health / Zanmi Lasante / Socios en Salud** — the linked organizations (Cambridge MA;
   Haiti's Central Plateau; northern Lima, Peru) through which Farmer's arguments were operationalized:
   community-health-worker–supported treatment that achieved TB cure rates in destitute rural Haiti
@@ -89,11 +99,13 @@ method, not incidental to it.
 
 ## Historiography
 
-This summary rests on a single ingested source (*Infections and Inequalities*, 1999), which is heavily
-autobiographical (Chapter 1, "The Vitality of Practice," and the interlude) and thus a primary source
-for Farmer's self-understanding — to be read as such, not as independent biography. His later career
-(Partners in Health's global expansion, Rwanda, the 2014 Ebola response, his 2022 death in Rwanda) and
-its major biographical treatment (Tracy Kidder's *Mountains Beyond Mountains*, 2003) postdate this book
-and are not yet covered. A **Thinkers Hub** biography is warranted on the selection criteria
-(program-builder, rich primary material, consequential figure) but is flagged, not built, from this
-single early source — see the log note.
+This summary rests on two ingested sources (*Infections and Inequalities*, 1999, and
+*[[farmer-pathologies-of-power-2003|Pathologies of Power]]*, 2003), both heavily autobiographical and
+polemical — primary sources for Farmer's self-understanding, to be read as such, not as independent
+biography. *Pathologies of Power* is written openly as protest and states its own side; its
+interpretive theses (structural violence as the frame for human rights) are recorded in attributed
+voice throughout. His later career (Partners in Health's global expansion, Rwanda, the 2014 Ebola
+response, his 2022 death in Rwanda) and its major biographical treatment (Tracy Kidder's *Mountains
+Beyond Mountains*, 2003) are not yet covered. A **Thinkers Hub** biography is warranted on the
+selection criteria (program-builder, rich primary material, consequential figure) but is flagged, not
+built, from these two programmatic sources — see the log note.

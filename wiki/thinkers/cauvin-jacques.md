@@ -10,7 +10,7 @@ trained: ["[[unknown]]"]
 key_works: ["[[cauvin-birth-of-the-gods-2000|The Birth of the Gods and the Origins of Agriculture (2000; Fr. 1994/1997)]]", "Les premiers villages de Syrie-Palestine (1978)", "Mureybet excavation program"]
 key_concepts: ["[[revolution-of-symbols]]", "[[mother-goddess]]", "[[khiamian]]", "[[levantine-corridor]]", "neolithisation as mental transformation"]
 fieldwork_sites: ["[[mureybet|Mureybet]] (middle Euphrates)", "Cafer Höyük program (with French mission)", "Institute of Near Eastern Prehistory, Jalès"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [thinker, archaeology]
 ---
@@ -51,3 +51,13 @@ Cauvin worked for decades on the beginnings of the Neolithic in the Levant and S
 ## Historiography
 
 English edition presents the 1997 French text with Postscript updates rather than full rewrite; first synthesis to stress calibrated dates for the Near Eastern Neolithic (Cauvin’s claim). Died 2001; dedicatee among the dead in Mithen’s *After the Ice* preface.
+
+## Barker 2006 densification — reception / critique (*The Agricultural Revolution in Prehistory*)
+
+*(Attributed — [[barker-graeme]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006; Cauvin as named ideology-first interlocutor. Positions only — not adjudication.)*
+
+- **Cauvin’s claim as Barker restates it (Ch. 1):** Ideological changes among SW Asian foragers **preceded and stimulated** commitment to agriculture rather than resulting from it (Cauvin 2000; influence on Hodder).
+- **Barker’s counter-position (Ch. 10):** Cauvin argued agricultural theism first emerged in PPNA while farming only in PPNB → ideology drove the transformation. Barker holds husbandry-like behaviour is clearly **much earlier than PPNA**, suggesting behavioural changes stimulated shifts in foragers’ spirituality rather than the reverse. He prefers sky-god theism developing **in tandem with** other cultural/economic transformations, rather than privileging ideology over all other causal factors; intellectual tools for new spirituality may be present with modern humans, but (as he reads the record) no evidence for theism until the terminal Pleistocene alongside other transformations presaging fully developed PPNB-type agriculture.
+- **Supporting tandem examples Barker cites:** Oaxaca celestial-observation rituals in tandem with maize farming and village settlement (Marcus & Flannery 2004); Hodder’s long domestication as taming fears of death/reproduction/sexuality as well as nature — fears Barker reads as created by foragers shifting toward husbandry; Lepenski Vir human–fish metamorphosis boulders coinciding with contact with domesticates.
+
+Source: [[barker-agricultural-revolution-prehistory-2006]]. Cross-links: [[flannery-kent-v]], [[agricultural-origins-causation-debate]], [[revolution-of-symbols]], [[neolithic-revolution]].

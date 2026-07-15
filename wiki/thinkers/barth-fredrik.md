@@ -7,10 +7,10 @@ era: [postwar-expansion, critical-turn, contemporary]
 affiliated_theories: ["[[ethnic-boundary-theory]]"]
 trained_under: ["[[unknown]]"]
 trained: ["[[unknown]]"]
-key_works: ["[[barth-ethnic-groups-boundaries-1969|Ethnic Groups and Boundaries (1969, ed.)]]", "\"Ethnic Processes on the Pathan-Baluch Boundary\" (orig. Redard, ed., 1964; repr. in Gumperz & Hymes, eds., *Directions in Sociolinguistics*, 1972)"]
+key_works: ["[[barth-nomads-south-persia-1961|Nomads of South Persia (1961)]]", "[[barth-ethnic-groups-boundaries-1969|Ethnic Groups and Boundaries (1969, ed.)]]", "\"Ethnic Processes on the Pathan-Baluch Boundary\" (orig. Redard, ed., 1964; repr. in Gumperz & Hymes, eds., *Directions in Sociolinguistics*, 1972)"]
 key_concepts: ["[[ethnic-boundary]]", "[[ethnic-ascription]]", "[[diacritical-features]]", "[[polyethnic-system]]"]
-fieldwork_sites: ["Pathan/Swat and NW Frontier (Pathan fieldwork 1954 and 1960); note Marri/Baluch fieldwork in the Pathan-Baluch chapter was conducted by Robert N. Pehrson (1955), not Barth"]
-sources_ingested: 2
+fieldwork_sites: ["Pathan/Swat and NW Frontier (Pathan fieldwork 1954 and 1960); note Marri/Baluch fieldwork in the Pathan-Baluch chapter was conducted by Robert N. Pehrson (1955), not Barth", "Basseri, Fars, Iran (Dec 1957–Jul 1958; intensive residence Mar–Jun 1958, UNESCO Arid Zone Project)"]
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [thinker, cultural-anthropology]
 ---
@@ -63,6 +63,10 @@ linguistic fluency. He credits linguist Georg Morgenstierne's (1932) prior
 observation about Baloch/Brahui assimilative tribal structure as the study's
 motivating insight. See [[ethnic-boundary-theory]] for this case as a worked
 example of boundary maintenance via differential incorporation/exclusion capacity.
+
+### The Basseri monograph (1961)
+
+*[[barth-nomads-south-persia-1961|Nomads of South Persia]]* (fieldwork 1957–58; study [[barth-nomads-south-persia-study]]; society [[basseri]]) is the wiki's earliest Barth primary and already fully processual: camps analyzed as communities persisting "through continuous re-affirmation," herding units as contractual partnerships where kinship is "irrelevant," chieftainship as a niche between weak camp leadership and the sedentary state, and [[sedentarization]] as a two-exit economic mechanism regulating nomad population. Two moves prefigure the 1969 program: ethnic names in South Persia analyzed as *political* (confederacy) labels, not linguistic or descent categories, and the chief's acceptability to urban elites resting on shared "diacritical symbols" — embryonic [[diacritical-features]]. His stated frustration that Basseri could not produce ramifying genealogies (unlike his Pathans) grounds the book's explicit contrast with the [[segmentary-lineage-system]].
 
 Broader career (transactionalism, *Political Leadership among Swat Pathans*, Middle East and New Guinea work, etc.) is not yet covered by ingested primaries — do not invent from outside knowledge beyond bibliographic titles appearing in the 1969 apparatus.
 

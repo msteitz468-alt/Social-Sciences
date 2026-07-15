@@ -9,7 +9,7 @@ operationalized_as: "not quantified; identified as an ideological bias — relia
 contested: yes
 related_concepts: ["[[allochronism]]", "[[coevalness]]", "[[ethnographic-present]]", "[[structuralism]]", "[[symbolic-anthropology]]"]
 sources_ingested: 1
-last_updated: 2026-07-09
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -37,6 +37,8 @@ Fabian read visualism off the discipline's own methodological vocabulary and app
 ## Applications
 
 Visualism supplies the fourth strand of Fabian's argument: sign-theories of culture are "theories of representation, not of production; ... of meaning, not of praxis," aligning "the Here and Now of the signifier... with the Knower, and the There and Then of the signified... with the Known" — what he called the "**rhetoric of vision**." His conclusion (attributed): "As long as anthropology presents its object primarily as *seen*... it is likely to persist in denying coevalness to its Other." Fabian's positive counter (drawing on Marx's Theses on Feuerbach, and agreeing with Chomsky that language is not "characteristically informative") privileges *hearing*, dialogue, and language-as-praxis — "the temporality of speaking... implies cotemporality of producer and product, speaker and listener, Self and Other." His critique converges with Bourdieu's attack on "objectivism," which constitutes the social world "as a spectacle presented to an observer."
+
+**Bunzl restatement (attributed).** The reprint foreword treats the visualism chapter as the book's epistemological capstone: Ramist pedagogy and Hegelian aesthetics underwrite a scientistic anthropology whose sanctioning of the visual over the aural/oral rests "at the foundation of the allochronic predicament," so that renouncing allochronism requires refiguring observed objects as active partners in praxis — not only cleaner prose. Fabian's later performance ethnography and work with painter Tshibumba are read as enactments of that shift from spectacle to co-produced presence.
 
 ## Critiques and Limitations
 

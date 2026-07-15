@@ -3,10 +3,10 @@ title: "The Ontological Turn: Concept vs. Type, Ontology vs. Epistemology"
 dispute_type: theoretical
 disciplines: [anthropology]
 era: [contemporary]
-positions: ["Perspectivism as a subtype of animism (Descola)", "Perspectivism as a concept, not a type (Viveiros de Castro)", "The turn overclaims: difference is epistemological, not ontological (critics)"]
-key_texts: ["[[viveiros-de-castro-cannibal-metaphysics-2014|Cannibal Metaphysics (2009/2014)]]", "[[descola-beyond-nature-and-culture-2005|Beyond Nature and Culture (2005/2013)]]"]
+positions: ["Perspectivism as a subtype of animism (Descola)", "Perspectivism as a concept, not a type (Viveiros de Castro)", "The turn overclaims: difference is epistemological, not ontological (critics)", "Andean political ontology / ethnographic cosmopolitics (de la Cadena)"]
+key_texts: ["[[viveiros-de-castro-cannibal-metaphysics-2014|Cannibal Metaphysics (2009/2014)]]", "[[descola-beyond-nature-and-culture-2005|Beyond Nature and Culture (2005/2013)]]", "[[de-la-cadena-earth-beings-2015|Earth Beings (2015)]]"]
 resolution_status: open
-last_updated: 2026-07-09
+last_updated: 2026-07-15
 tags: [debate]
 ---
 
@@ -30,6 +30,10 @@ A broader critical position (registered by the turn's opponents) holds that the 
 
 All parties accept: (a) that nature/culture is not a cross-cultural universal; (b) that Amazonian peoples attribute personhood widely across species; (c) that Lévi-Straussian structuralism is the common inheritance. They divide on whether the right theoretical object is a **comparative typology of ontologies** (Descola), a **concept** irreducible to typology (Viveiros de Castro), or an **epistemology** that the turn has inflated into ontology (critics).
 
+## Position 4 — Andean political ontology / ethnographic cosmopolitics (de la Cadena)
+
+[[de-la-cadena-marisol|Marisol de la Cadena]] (*[[de-la-cadena-earth-beings-2015|Earth Beings]]*, 2015) supplies an **Andean** (not Amazonian-typological) stake: [[earth-beings|tirakuna]] participate in land struggle and tourism/museum politics; modern politics (Latour’s Modern Constitution + Quijano’s coloniality of power) partitions humanity/nature so earth-beings cannot “count as not counting.” Radical difference is **relational** (equivocation with state institutions), not a property indigenous peoples “have.” Activists may win mining fights by translating tirakuna into “environment,” thereby withdrawing earth-beings from public concern (Sinakara/Ausangate 2006 — attributed). This is neither Descola’s four-type matrix nor pure Viveiros concept-creation; it is co-labored political ethnography aiming at [[cosmopolitics|ethnographic cosmopolitics]].
+
 ## Curator's Note
 
-*(2026-07-09)* Only two primary sources bearing on this debate are ingested (*Beyond Nature and Culture*; *Cannibal Metaphysics*); the specialist critical literature on the ontological turn (e.g. Holbraad & Pedersen; hostile reviews) is not yet in the vault. Resolution status **open** pending that material. No curator's view is entered.
+*(2026-07-09)* Initial note: two primary sources (*Beyond Nature and Culture*; *Cannibal Metaphysics*). *(2026-07-15)* Andean ethnographic pole added via *Earth Beings*; specialist critical literature on the ontological turn (Holbraad & Pedersen; hostile reviews) still not in the vault. Resolution status **open**. No curator's adjudication.

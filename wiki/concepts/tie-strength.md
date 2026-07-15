@@ -7,9 +7,9 @@ disciplines: [sociology]
 emic_or_etic: etic
 operationalized_as: "Combination of time spent, emotional intensity, intimacy (mutual confiding), and reciprocal services; in Granovetter's job study, frequency of contact (often / occasionally / rarely) as proxy"
 contested: yes
-related_concepts: ["[[strength-of-weak-ties]]", "[[local-bridge]]", "[[social-capital]]", "[[network-analysis]]", "[[structural-holes]]", "[[network-constraint]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[strength-of-weak-ties]]", "[[local-bridge]]", "[[social-capital]]", "[[network-analysis]]", "[[structural-holes]]", "[[network-constraint]]", "[[personal-contacts]]"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -38,7 +38,7 @@ Each element is somewhat independent though highly intracorrelated. Ties in the 
 
 | Tradition | Measure | Notes |
 |---|---|---|
-| Granovetter job study | Frequency of contact around time of job tip | Only first definitional dimension; author claimed interview anecdotes support full definition |
+| Granovetter job study (GAJ 1974 / SWT 1973) | Frequency of contact around time of job tip: often ≥2×/week; occasionally; rarely ≤1×/year | Only first definitional dimension; interview N=54: 16.7% / 55.6% / 27.8%; author claimed interview anecdotes support full definition; see [[granovetter-getting-a-job-study]] |
 | Classic sociometry | Mutual choice, rank-order of friends | Tends to capture strong ties; fixed-choice designs suppress weak ties |
 | Milgram small-world postcards | "Friend" vs "acquaintance" categories | Granovetter treats as strong vs weak for interracial chain analysis |
 | Later surveys | Closeness, duration, multiplexity, role relation | Measurement literature extensive; not yet ingested |
@@ -47,7 +47,7 @@ Each element is somewhat independent though highly intracorrelated. Ties in the 
 
 - Predicting **friendship-circle overlap** (stronger A–B → more shared third parties).
 - Identifying candidate **[[local-bridge|bridges]]** (only weak ties can be bridges under the forbidden-triad logic).
-- Explaining **job-information channels**, diffusion velocity, and community bridging capacity (see [[granovetter-strength-of-weak-ties-study]]).
+- Explaining **job-information channels**, diffusion velocity, and community bridging capacity (see [[granovetter-strength-of-weak-ties-study]] · [[granovetter-getting-a-job-study]]).
 
 ## Critiques and Limitations
 

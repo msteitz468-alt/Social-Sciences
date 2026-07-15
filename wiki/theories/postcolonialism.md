@@ -5,12 +5,12 @@ disciplines: [cultural-anthropology, sociology, literary-studies, history, area-
 era_origin: critical-turn
 date_origin: 1978
 originated_by: ["[[said-edward|Edward W. Said]]"]
-key_texts: ["[[said-orientalism-1978|Orientalism (Said 1978)]]", "Culture and Imperialism (Said 1993)", "The Location of Culture (Bhabha 1994)", "Can the Subaltern Speak? (Spivak 1988)"]
-core_claims: ["Western knowledge of the non-West is entangled with imperial power, not neutral", "Colonial discourse constitutes both colonizer and colonized as identities", "Representation of the Other is a mechanism of domination, not merely description", "The colonial past continues to structure the postcolonial present"]
-developed_from: ["[[discourse-foucauldian]]", "[[hegemony]]"]
+key_texts: ["[[said-orientalism-1978|Orientalism (Said 1978)]]", "Culture and Imperialism (Said 1993)", "The Location of Culture (Bhabha 1994)", "[[spivak-can-the-subaltern-speak-study|Can the Subaltern Speak? (Spivak 1988/1999)]]", "[[morris-can-subaltern-speak-2010|Morris ed., reflections on CSS (2010)]]"]
+core_claims: ["Western knowledge of the non-West is entangled with imperial power, not neutral", "Colonial discourse constitutes both colonizer and colonized as identities", "Representation of the Other is a mechanism of domination, not merely description", "The colonial past continues to structure the postcolonial present", "Spivak argued the gendered subaltern is doubly in shadow and cannot 'speak' as heard within dominant representation (attributed; see debate)"]
+developed_from: ["[[discourse-foucauldian]]", "[[hegemony]]", "[[subaltern]]"]
 competes_with: ["classical Orientalist philology", "modernization theory", "positivist area studies"]
 status: active
-sources_ingested: 2
+sources_ingested: 4
 last_updated: 2026-07-10
 tags: [theory, cultural-anthropology, literary-studies, postcolonial-studies]
 ---
@@ -52,10 +52,10 @@ source of truth) and against positivist area studies.
 
 - **[[said-edward|Edward Said]]**, *[[said-orientalism-1978|Orientalism]]* (1978),
   *Culture and Imperialism* (1993).
-- **Gayatri Chakravorty Spivak**, "Can the Subaltern Speak?" (1988).
+- **[[spivak-gayatri-chakravorty|Gayatri Chakravorty Spivak]]**, "[[spivak-can-the-subaltern-speak-study|Can the Subaltern Speak?]]" (1988; revised 1999) — [[subaltern]], [[epistemic-violence]], *vertreten*/*darstellen*; debate [[can-the-subaltern-speak-debate]]; volume [[morris-can-subaltern-speak-2010]]; hub [[hubs/studies/spivak-can-the-subaltern-speak-study]].
 - **Homi Bhabha**, *The Location of Culture* (1994) — hybridity, mimicry, the third space.
-- The Subaltern Studies collective (Ranajit Guha and others) in South Asian
-  historiography.
+- The **[[subaltern-studies|Subaltern Studies]]** collective (Ranajit Guha, Partha Chatterjee, and others) in South Asian
+  historiography — recovery of non-elite politics; Spivak’s critical comradeship.
 - **[[escobar-arturo|Arturo Escobar]]**, *[[escobar-encountering-development-1995|Encountering Development]]* (1995) — applies postcolonial discourse analysis to [[post-development|development]] (adjacent program; not identical to literary postcolonialism).
 
 ## Empirical Program
@@ -83,10 +83,13 @@ description of other cultures.
 
 ## Current Status
 
+**Sociological program (Connell):** [[southern-theory]] (*[[connell-southern-theory-2007|Southern Theory]]*, 2007) is a sociological geopolitics-of-knowledge program continuous with postcolonial critique (Hountondji extraversion; Subaltern Studies; Nandy) but focused on social science's own general theory and curriculum — not only literary/cultural studies. `supports` / dialogue relation, not identity of programs.
+
+
 Active and canonical across the humanities and interpretive social sciences. Its
-vocabulary (Othering, discourse, subaltern, hybridity) is now standard; debates continue
-over its historical accuracy, its relation to Marxism, and its applicability beyond the
-Islamic Near East.
+vocabulary (Othering, discourse, [[subaltern]], hybridity, [[epistemic-violence]]) is now standard; debates continue
+over its historical accuracy, its relation to Marxism, the Spivakian limit on recovering voice
+([[can-the-subaltern-speak-debate]]), and its applicability beyond the Islamic Near East and South Asia.
 
 ## Reflexivity
 

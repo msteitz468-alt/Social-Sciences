@@ -14,8 +14,8 @@ core_claims:
 developed_from: ["[[social-evolutionism]]", "comparative historical sociology", "postwar survey research"]
 competes_with: ["[[world-systems-analysis]]", "dependency theory (partially via world-systems sources)", "historical institutionalism (not yet ingested)"]
 status: contested
-sources_ingested: 3
-last_updated: 2026-07-09
+sources_ingested: 5
+last_updated: 2026-07-10
 tags: [theory, sociology]
 ---
 
@@ -42,6 +42,7 @@ Postwar US social science: survey research, comparative politics, and evolutiona
 
 - [[lipset-seymour-martin]] — *Political Man* (1960); study [[lipset-political-man-study]].
 - Other classic names (Rostow, Lerner, Deutsch, Inkeles, etc.) — not yet ingested as primary sources.
+- **Anthropological engagement (Geertz 1963):** *[[geertz-peddlers-princes-1963|Peddlers and Princes]]* accepts Rostow’s take-off emphasis on discontinuity and phase-specific problems but rejects exclusive per capita income as index; argues social pretake-off transformation may precede income take-off; proposes six middle-range propositions on entrepreneurial groups from two Indonesian towns (*[[geertz-peddlers-princes-study|study]]*; [[modjokuto-tabanan-economic-modernization]]). Position within the program, not a full Rostow primary ingest.
 
 ## Empirical Program
 
@@ -67,3 +68,7 @@ As a totalizing research program, **contested / partially absorbed**: developmen
 Product of postwar American liberal social science and Cold War comparative politics. Framing of communism and nationalism as parallel "challenges," and of Western democracy as the evaluative endpoint, shapes case selection and coding. Record production context on use.
 
 A sharp counter-image comes from [[bauman-zygmunt|Zygmunt Bauman]]'s *[[bauman-modernity-holocaust-1989|Modernity and the Holocaust]]* (1989): against modernization theory's implicit equation of modernity with progress and the taming of violence, Bauman argues (attributed) that modern **racism** is not a pre-modern residue but a distinctively *modern* product — unthinkable without modern science, technology, and state power — and that the boundary-drawing crises of rapid modernization (the collapse of ascriptive distinctions faster than they are replaced) generate the very anxieties that racism "resolves" through pseudo-natural classification. See [[gardening-state]], [[genocide]], [[holocaust-and-modernity-debate]].
+
+## Connell (*Southern Theory* 2007)
+
+Connell lists [[modernization-theory]] among models "constructed on the basis of [the] lie" that modernity created itself in the North Atlantic, then exported with First World authority — alongside functionalist sociology and neoclassical economics. Rostow appears in the Latin American chapter as an object of scorn in dependency debates. See [[southern-theory]], [[modernization-vs-dependency-world-systems-debate]].

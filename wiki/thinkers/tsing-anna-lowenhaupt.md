@@ -58,7 +58,7 @@ Empirical nodes: [[open-ticket-oregon|Open Ticket]] freedom assemblages; Japanâ€
 
 ## Intellectual Genealogy
 
-*Friction* acknowledgements record conversations with [[appadurai-arjun|Arjun Appadurai]], [[clifford-james|James Clifford]], Donna Haraway, James Scott, Ann Stoler, [[rosaldo-renato|Renato Rosaldo]], Nancy Peluso, and others. *Mushroom* emerges from the Matsutake Worlds Research Group (Timothy Choy, Lieba Faier, Elaine Gan, Michael Hathaway, Miyako Inoue, Shiho Satsuka, Tsing) and dialogues with feminist STS, political ecology, and (critically) Gibson-Graham and Hardt/Negri. Mentors/students not fully reconstructed from these sources.
+*Friction* acknowledgements record conversations with [[appadurai-arjun|Arjun Appadurai]], [[clifford-james|James Clifford]], [[haraway-donna|Donna Haraway]], James Scott, Ann Stoler, [[rosaldo-renato|Renato Rosaldo]], Nancy Peluso, and others. Tsing and Haraway are close interlocutors in the [[multispecies-studies]] program: Haraway draws on Tsing's "arts of living on a damaged planet" in *[[haraway-staying-with-the-trouble-2016|Staying with the Trouble]]* (2016), and both were among the participants who coined [[plantationocene|Plantationocene]] at Aarhus in 2014. *Mushroom* emerges from the Matsutake Worlds Research Group (Timothy Choy, Lieba Faier, Elaine Gan, Michael Hathaway, Miyako Inoue, Shiho Satsuka, Tsing) and dialogues with feminist STS, political ecology, and (critically) Gibson-Graham and Hardt/Negri. Mentors/students not fully reconstructed from these sources.
 
 ## Critiques and Reappraisals
 

@@ -15,7 +15,7 @@ preceded_by: ["Longshan early complex societies (~3000–1900 BCE)", "Erlitou cu
 succeeded_by: ["Zhou dynasty (from 1046 BCE)"]
 language_affiliation: "early Chinese writing (oracle bones); not equated with a single genetic population"
 genetic_signature: "[[unknown]] — not equated with archaeological/dynastic construct"
-sources_ingested: 3
+sources_ingested: 5
 last_updated: 2026-07-10
 tags: [culture, bronze-age, china]
 ---
@@ -87,3 +87,66 @@ Elman Service (1975) held Shang culture to be autochthonous North China developm
 ### Trigger — early-civilization case (2003, attributed)
 
 [[trigger-bruce-g|Trigger]] (*[[trigger-understanding-early-civilizations-2003|UEC]]*) includes Shang China among seven early civilizations; oracle-bone writing after ~1200 BCE; hand-plough millet agriculture at moderate intensity in his ranking; territorial leanings in the political typology; ancestor-focused kingship and Qiang-related sacrifice notes in the religious chapters. Specialist Chinese archaeology after 2001 revises extent and urbanism. Study: [[trigger-understanding-early-civilizations-study]].
+
+### Chang — Shang as autochthonous North China development (1963, attributed)
+
+[[chang-kwang-chih|K. C. Chang]] (*[[chang-archaeology-ancient-china-1963|The Archaeology of
+Ancient China]]*, 1st ed. 1963) argued the "suddenness" of Shang's emergence had been "unduly
+exaggerated": on his continuity/discontinuity balance sheet, Shang inherited a Neolithic
+substratum (village aggregation, warfare, craft specialization, status differentiation,
+scapulimancy, ancestor cult, the millet/rice/pig complex, stamped-earth construction, jade) from
+the Honan [[lungshan-culture|Lungshanoid]] phase, with only bronze metallurgy, writing, and the
+horse chariot as candidate diffused elements — and he judged even those (writing, bronze) probably
+independent inventions, given ore accessibility and technical dissimilarity from Western metallurgy
+(citing Noel Barnard). "The Chinese civilization, on the whole, was built upon the Chinese
+Neolithic foundation" (attributed). He proposed an **eight-point Shang horizon-marker checklist**
+(specialized settlement groups; an aristocratic ceremonial complex with stamped-earth structures,
+gigantic sacrificial tombs, and horse-chariot burial; bronze vessels and writing; elaborated
+oracle bones; deep storage pits; heavy stone-sickle concentrations; new pottery forms; complex
+geometric decoration), and read Shang lineage organization as possibly a "ramage"/stratified-lineage
+system (invoking Firth's Tikopia, Sahlins on Polynesia, and Morton Fried). Chang held the
+archaeologically demonstrable Shang core to be only western/northern Henan, southern Hebei, and
+probably western Shandong — Shang *traits* farther afield reflecting cultural contact, not Shang
+presence — and recorded the **free-farmer-vs-slave-labor** question as an unresolved dispute among
+Shang specialists that he declined to settle. **Caveat:** this is a 1963, pre-radiocarbon synthesis
+built from published PRC reports; Chang's chronology (e.g. Tung Tso-pin's oracle-bone date of 1384
+BCE for P'an-keng's move to [[anyang|Anyang]]) rests on the traditional king-list, not absolute
+dating. Key sites: [[anyang|Anyang (Yinxu)]], [[zhengzhou|Zhengzhou (Cheng-chou)]]. See
+[[chinese-civilization-origins-debate]]. (Source: [[chang-archaeology-ancient-china-1963]].)
+
+### Liu & Chen — a decentralized late Shang (2012, attributed)
+
+[[liu-chen-archaeology-of-china-2012|Liu & Chen (2012)]] recast the Shang as a **sequence of
+political cycles** rather than a stable territorial empire, and separate the material construct from
+the dynastic label throughout. In their scheme the **Erligang state** (c. 1600–1400 BCE, centered on
+[[zhengzhou|Zhengzhou]]) is a first phase of strong centralization — conventionally called "early
+Shang" in the material record — which collapsed c. 1400 BCE into a decentralized **"middle Shang"**
+(c. 1400–1250 BCE) of competing successor centers (Xiaoshuangqiao, Huanbei Shang City). Only then
+did the **late Shang** (c. 1250–1046 BCE) consolidate at Yinxu / [[anyang|Anyang]]. See
+[[erligang-culture]].
+
+For the **late Shang** specifically, Liu & Chen argue territorial control was far more restricted
+than a "territorial state" model implies, approvingly citing Keightley's image of the Shang state as
+*"gruyere, filled with non-Shang holes, rather than tou-fu, solidly Shang throughout."* Oracle-bone
+inscriptions distinguish the capital core (*dayishang*), subordinate "Lands" (*situ*), and outside
+"Regions" (*sifang*, e.g. Tufang, Qiangfang) — but the authors treat this concentric scheme as an
+**idealized model** that overstates boundaries and hegemony. Because the textual record names more
+polities than the region has distinguishable archaeological cultures, they caution explicitly against
+equating an archaeological culture with a polity — a **four-way non-identity** point. The extent of
+Shang control is itself disputed (Trigger's large territorial state vs. Keightley/Yates's small
+city- or segmentary state vs. Wheatley's minimal core), recorded as positions.
+
+Liu & Chen read the shift from early- to late-Shang as a move from **direct colonial control** of
+resource zones to a **negotiated core–periphery exchange system** — a "Shang civilization sphere" of
+shared ritual values rather than a unified polity — in which the core exported bronze/jade ceremonial
+paraphernalia in return for raw materials, exotic goods, sacrificial humans and animals, and
+horses/chariots. Lead-isotope analysis (as of Jin et al. 1998) traces much late-Shang bronze to
+**high-radiogenic lead**, most likely from Yunnan, and its declining proportion across Yinxu Phases
+I–IV tracks the weakening of centralized metal procurement. Six peripheral zones (Taixi, Shandong,
+Wucheng, [[sanxingdui|Sanxingdui]], Laoniupo, the Loess Plateau) illustrate the range from replaced
+local elites (Shandong) to independent tributary polities (Wucheng). Salt administration is attested
+by a Shang court title *luxiaochen* ("petty officer for salt") and coastal Shandong brine-boiling
+sites. Oracle-bone and bronze inscriptions at Yinxu mark **the inception of written historical
+records in China** and are the first direct textual anchor for a Chinese dynasty; mortuary data show
+at least six social classes (the [[anyang|Fuhao tomb]] holding 1,928 grave goods including 468
+bronzes). (Source: [[liu-chen-archaeology-of-china-2012]]; see also [[state-formation]].)

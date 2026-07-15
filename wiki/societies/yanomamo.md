@@ -6,10 +6,10 @@ language_affiliation: "Yanomaman language family (Amazonian isolate family); Cha
 subsistence_economy: horticultural
 kinship_system: "patrilineal exogamous lineages; ideal bilateral cross-cousin (suaboya) marriage; Iroquois kinship terminology (bifurcating-merging); polygyny present (~25% of men in Chagnon's counts); levirate practiced (as of mid-1960s)"
 documented_by: ["[[chagnon-yanomamo-fierce-people-study]]"]
-documentation_dates: "1964–1968 (Chagnon fieldwork; primarily Upper Bisaasi-teri / Kaobawa's group and allied and enemy villages in the Orinoco–Mavaca region of southern Venezuela; Brazilian contact 1967)"
+documentation_dates: "1964–1968 (Chagnon fieldwork; primarily Upper Bisaasi-teri / Kaobawa's group and allied and enemy villages in the Orinoco–Mavaca region of southern Venezuela; Brazilian contact 1967); later trips through 1990s narrated in memoir, not used as society-page evidence base"
 endonym_exonym_note: "Chagnon 1968 uses Yanomamö (fully nasalized; OCR often Y^nomamo); literature also Yanomami, Yanomama, Yanoama. Village names ending in -teri (Bisaasi-teri, Monou-teri, Patanowa-teri, etc.) are local group designations. 'The fierce people' is Chagnon's epithet, not an endonym. Waiteri means 'fierce' / 'fierce one' in his account."
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [society, amazonia]
 aliases: [yanomami, yanomama]
 ---
@@ -44,7 +44,7 @@ Western sustained contact was recent relative to the ethnography: James P. Barke
 
 ## Representation Debates
 
-The Yanomamö became a global classroom type-case of Amazonian warfare and of the ethics of representing Indigenous violence. Chagnon's title and [[waiteri]] emphasis are the ethnographic root of the later **[[chagnon-tierney-yanomami-ethics-debate]]**. Write all claims as mid-1960s documentation; do not freeze "fierceness" as a timeless ethnic essence.
+The Yanomamö became a global classroom type-case of Amazonian warfare and of the ethics of representing Indigenous violence. Chagnon's title and [[waiteri]] emphasis are the ethnographic root of the later **[[chagnon-tierney-yanomami-ethics-debate]]**, which Patrick Tierney's *[[tierney-darkness-el-dorado-2000|Darkness in El Dorado]]* (2000) made a global public controversy and which Chagnon's *[[chagnon-noble-savages-2013|Noble Savages]]* (2013) answers as career memoir. Both polemics are sources on the *controversy and research ethics*, not substitute ethnographies of this society. Write society claims as dated documentation; do not freeze "fierceness" as a timeless ethnic essence.
 
 ## Identity Cautions
 

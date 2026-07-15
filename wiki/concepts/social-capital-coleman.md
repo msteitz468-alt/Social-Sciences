@@ -115,7 +115,7 @@ interconnected networks — is what makes norms enforceable and trust reliable i
 directly opposed by [[structural-holes-theory|Burt's]] argument that social capital
 comes instead from *brokerage* across [[structural-holes|structural holes]] in
 *open*, sparse networks. The two prescribe contrary network shapes and are filed
-as [[closure-vs-brokerage-debate]] (Burt's own later work treats them as
+as [[closure-vs-brokerage-debate]] (Burt's *[[burt-brokerage-and-closure-2005|Brokerage and Closure]]* 2005 treats them as
 complementary). The **functional definition** ("defined by its function") is
 separately criticized as circular or underspecified — it names a role, not a mechanism, and risks labelling
 any helpful relation "capital" post hoc. A tension runs between the public-good/

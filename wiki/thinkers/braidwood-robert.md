@@ -10,7 +10,7 @@ trained: ["[[unknown]]"]
 key_works: ["[[braidwood-prehistoric-men-1959|Prehistoric Men (CNHM Popular Series; 3rd ed. 1959)]]", "The Near East and the Foundations for Civilization (1952)", "Jarmo field program (Oriental Institute / Iraq)"]
 key_concepts: ["[[hilly-flanks]]", "[[nuclear-area]]", "[[incipient-cultivation]]", "food-producing revolution (Braidwood stage language)"]
 fieldwork_sites: ["[[jarmo|Jarmo]] (Iraqi Kurdistan, from 1948)", "Karim Shahir area", "hilly flanks of the Fertile Crescent"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [thinker, archaeology]
 ---
@@ -72,3 +72,14 @@ Standard mid-century public face of Oriental Institute farming-origins archaeolo
 ## Cauvin engagement (2000)
 
 *(Attributed — *[[cauvin-birth-of-the-gods-2000|Cauvin 2000]].)* Cauvin treats Braidwood’s nuclear-zone / hilly-flanks program as the major mid-century alternative to Childe’s oasis environmentalism, yet still within a materialist search for natural stimuli to farming. He **reinterprets** Braidwood’s maxim that “Culture was not ready”: technical capacity for cultivation existed earlier; what was missing was the **idea and desire** released by the [[revolution-of-symbols|revolution of symbols]]. Postscript: if early SE Anatolian cultivation were confirmed, that region could join the Levantine corridor in a Braidwood-style nuclear zone — as secondary neolithisation tied to Mureybetian/early PPNB expansion, not as independent PPNA peer of the corridor (as of Cauvin’s evidence).
+
+## Barker 2006 densification (*The Agricultural Revolution in Prehistory*)
+
+*(Attributed — [[barker-graeme]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006; Braidwood as hilly-flanks / Jarmo foil to Childe’s oasis model.)*
+
+- **Program aim:** Barker states Robert Braidwood sought to **disprove** Childe’s oasis theory; early farming in the “[[hilly-flanks|hilly flanks of the Fertile Crescent]]” because modern wild cereals and sheep/goats are upland species. Pollen work (H. Wright; van Zeist) indicated early Holocene warmer/wetter, not desiccation — oasis hypothesis **as Childe proposed** should be abandoned (Barker’s report of the mid-century verdict).
+- **Jarmo and peers (as Barker summarizes mid-century results):** Mud-built houses; domesticated einkorn, emmer, barley; cattle, pigs, sheep, goats, dogs; 14C seventh millennium BC (calibrated nearer ~7000 BC in Barker’s narration); figurine clay-firing but no pottery — “aceramic / pre-pottery Neolithic.” Parallel early farming: Jericho (Kenyon), Beidha (Kirkbride), Çayönü, Hacılar (Mellaart), Tepe Guran; Ali Kosh (Deh Luran) possibly ~1000 years earlier cereal farming still mainly hunting-gathering. Earlier Holocene more-or-less sedentary hunter-gatherer settlements under aceramic Neolithic at Jericho and other Natufian sites (Ain Mallaha, Nahal Oren) seemed to identify the foraging→farming transition across SW Asian uplands a few millennia after Ice Age end.
+- **Cultural readiness residual:** Braidwood expected environmental cause but concluded **cultural** reasons because major Pleistocene–Holocene climatic change was earlier than villages like Jarmo; Final Palaeolithic “broad spectrum” hunting-gathering plus more efficient technology set the stage; “Why did incipient food production not come earlier? … culture was not yet ready to achieve it” (Braidwood and Howe 1960: 342, as quoted via Barker). Barker’s historiographic place for this maxim is the bridge from oasis vs natural-habitat geography to later processual and cognitive models (see [[oasis-natural-habitat-debate]], [[broad-spectrum-revolution]]).
+- **Stimulus context:** Vavilov’s crop-centre logic is noted as stimulus for Braidwood-era projects (Childe did not cite Vavilov in the two popular books, per Barker).
+
+Source: [[barker-agricultural-revolution-prehistory-2006]]. Cross-links: [[childe-v-gordon]], [[oasis-natural-habitat-debate]], [[jarmo]], [[neolithic-revolution]].

@@ -10,8 +10,8 @@ measured_by: ["abandonment or drastic reduction of capitals", "loss of administr
 driven_by: ["institutional cleavage and identity defection (Yoffee attributed)", "resource/information pathologies in systems models (Flannery, Rappaport — attributed)", "warfare and conquest", "environmental stress (contested as sole cause)"]
 produces: ["successor states modeled on predecessors", "ruralization and refugee absorption", "mutation or loss of social memory"]
 theorized_by: ["[[yoffee-norman]]", "Joseph Tainter", "George Cowgill", "[[flannery-kent-v]]", "[[renfrew-colin]]", "Shmuel Eisenstadt", "[[cline-eric-h]]", "[[scott-james-c]]"]
-key_studies: ["[[yoffee-myths-of-the-archaic-state-2005]]", "Tainter, The Collapse of Complex Societies (1988)", "Yoffee & Cowgill (eds.), The Collapse of Ancient States and Civilizations (1988)", "[[cline-1177-bc-study]]", "[[scott-against-the-grain-2017]]"]
-sources_ingested: 3
+key_studies: ["[[yoffee-myths-of-the-archaic-state-2005]]", "Tainter, The Collapse of Complex Societies (1988)", "Yoffee & Cowgill (eds.), The Collapse of Ancient States and Civilizations (1988)", "[[cline-1177-bc-study]]", "[[scott-against-the-grain-2017]]", "[[sharer-traxler-ancient-maya-2006]]"]
+sources_ingested: 5
 last_updated: 2026-07-10
 tags: [phenomenon, archaeology]
 ---
@@ -93,3 +93,35 @@ Related to [[state-formation]] (rise and collapse as one research field), [[urba
 **Praising collapse / dark ages as possible welfare gains.** Scott challenges the prejudice that aggregation at state apexes equals civilizational triumph and decentralization equals failure. Why deplore collapse when it often depicts disaggregation of a complex, fragile, oppressive state into smaller decentralized fragments? Subjects may leave agriculture and urban centers to evade taxes, conscription, epidemics, and oppression — apparent “regression” to foraging/pastoralism as **emancipation** (without denying predation outside the state). “Dark age” is often dynastic propaganda; darkness is empirical, not a label. Cases he sketches: post–Ur III Amorite hegemony as more benign than Ur III (abolishing most taxes/forced labor on one reading; Richardson: seven of nine centuries 2500–1600 BCE were division/decentralization without necessary famine/violence); Egypt’s First Intermediate Period as brief decentralization from low Nile, not pure darkness; Greek Dark Age loss of Linear B yet oral epics as a more democratic cultural form than elite literacy. Speculatively, what is read as collapse may often be triggered by **resistance and flight** of desperate core subjects when rulers press the grain core under emergency.
 
 **Source bias.** Melancholic associations of collapse stem from heroic archaeology’s focus on monumental centers as icons of civilization — what was lost were concentrated ruins, written records, and luxuries (the apex of the pyramid), not necessarily the broader social base. The issue of collapse itself is an artifact of mistaking walled monumental centers for civilization.
+
+
+### Classic Maya Terminal Classic (Coe & Houston 2015)
+
+Southern lowland royal-monumental collapse c. AD 800–910 is a type-case in [[classic-maya-collapse-debate]]: multi-causal (warfare, overpopulation/environment, drought), regionally variable, with northern florescence and continuous Mayan peoples. Illustrates Yoffee-style distinction between **government/elite culture failure** and **civilizational/people continuity**. See [[classic-maya]], [[coe-houston-the-maya-2015]].
+
+### From Sharer & Traxler 2006 (Maya Terminal Classic densification)
+
+All claims in this subsection attributed to [[sharer-traxler-ancient-maya-2006|Sharer & Traxler 2006]]. Complements the Coe & Houston note above and the debate page; Maya-only.
+
+**Process, not catastrophe; civilization continues.** They frame Maya civilization as **cyclic**: first decline after Late Preclassic growth; second greater cycle closed by profound Terminal Classic changes beginning about AD 800 (duration varies by region). General pattern: weakening/decentralization of royal power → demise of centralized authority → gradual depopulation under weakened elite authority → near-abandonment of much of the lowlands. The “so-called Classic collapse” is a **process over a century or more**, not sudden catastrophe; specific triggers varied by region. **No single cause** explains all Terminal Classic changes; causes combined differently by place; polities were linked so local problems affected broader areas. Heartland polities were abandoned, but **Maya civilization did not collapse or disappear** — Peten lakes and much of Belize continued; northern cities reached greatest size/prosperity in Terminal Classic even as the southern heartland waned, then also declined (northern Terminal Classic to ca. AD 1100). Classic states failed over a century+, but Maya civilization continued until Spanish Conquest.
+
+**Material markers.** Concurrent archaeological markers: cessation of monumental construction (temples, palaces, ball courts, causeways, canals/reservoirs); end of elaborate royal tombs and carved stone/modeled stucco; near-disappearance of prestige/ritual goods (polychrome pottery, carved jade, wood, bone, shell). Environmental and demographic evidence: deforestation, soil erosion, rainfall-pattern change and drought; drop in domestic activity in palaces and commoner houses implying drastic population decrease — most pronounced where Late Classic peaks had been ([[calakmul]], [[tikal]], [[palenque]], [[copan]]). Within 100–200 years of peak, most central/southern lowlands lost about **90%** of inhabitants; divine kingship hierarchy disintegrated by ca. AD 900 there. Last known Long Count stela: [[tonina]] Monument 101 at 10.4.0.0.0 (**909**). Glyphic texts do **not** narrate the changes.
+
+**Authors’ multi-causal scenario (overpopulation pathway).** Late Classic success + centuries of plentiful rainfall + efficient subsistence generated unprecedented population (eighth-century totals in the **tens of millions**; preindustrial-level densities from settlement archaeology). Nonfood-producing elite/specialists grew disproportionately; intensification and reservoirs increased labor demand. Overexploitation → erosion, deforestation, shortened fallow, marginal land clearing → declining fertility and firewood/lime-plaster wood shortages. Malnutrition and disease; multiyear droughts alternating with exploitation devastated rainfall-dependent areas; refugees burdened receiving areas; authority evaporated under warfare, trade loss, depopulation. Petexbatun relatively swift abandonment under endemic warfare (Dos Pilas 761; Punta de Chimino fortifications; regional abandonment); most overexploited areas lost population **slowly** as people moved to better soils/wood/food (highlands, coasts). Prolonged Calakmul–Tikal wars left neither able to coordinate crisis response; failures of “divine agents on earth” read as supernatural disfavor + elite privilege resentment → loss of prestige for [[kuhul-ajaw|divine rulership]].
+
+**Positions they report (not wiki-voice verdicts).**
+
+- *Catastrophic earthquakes/hurricanes* — largely rejected as lowland-wide causes (localized damage insufficient).
+- *Epidemic disease as prime mover* — countered: pre-Columbian bone pathologies mostly progressive nutritional deficiencies; food shortages/overpopulation greater problems.
+- *Overpopulation* (settlement archaeology emphasis) — most pressing Late Classic internal problem; Terminal Classic drastic population decrease as archaeological outcome.
+- *Drought/climate cycles* (lake cores; Cariaco Basin titanium) — Terminal Classic among most severe droughts of past ~7,000 years in some northern lake records; hard to separate from agricultural runoff in Peten cores.
+- *Peasant revolt* (Thompson popular thesis) — overpopulation, agricultural stress, elite disassociation → violent revolt; more popular than scholarly writings in their framing.
+- *K’atun fatalism* (Puleston; Rice) — cyclical prophecy as contributing factor; Classic texts offer little direct support for Rice’s full political-*k’atun* model.
+
+**Research trends.** Shift from single-cause to multi-cause theories; from sudden catastrophe to longer-acting decline; broadening beyond central/southern lowlands to the whole Maya area including the north. Balanced research beyond elite monuments revised understanding.
+
+**Northern afterlife and second wave.** Yucatan initially expanded from southern decline (Uxmal, surviving Coba, etc.); northern polities later succumbed to overpopulation, depleted environments, droughts, leadership failure, warfare. Chichen Itza downfall by ca. 1050–1100 treated as multi-factor analogous to southern/Puuc demises. Terminal Classic = socioeconomic, political, and religious change: divine kingship concentrated power; multifaceted problems exposed human failures of divine kings; transition toward Postclassic *multepal*, commodity commerce, and new cults rather than pure terminal end.
+
+**Prior cycle.** Terminal Preclassic decline (El Mirador, Cerros, Komchen abandoned; southern carved-stela cessation ca. AD 100–300) is the first wholesale peak-and-decline they flag — multi-causal (takeover, Ilopango dating debates, trade shifts).
+
+Full position recording: [[classic-maya-collapse-debate]].

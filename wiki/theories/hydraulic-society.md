@@ -16,7 +16,7 @@ core_claims:
 developed_from: ["classical 'Oriental society' discourse", "Marx/Engels on Asiatic formations", "Weberian comparative agrarian regimes", "engagement with [[cultural-ecology]] / Steward irrigation civilizations"]
 competes_with: ["unilinear stage schemes that treat all agrarian states as 'feudal'", "pure [[environmental-determinism]] (Wittfogel rejects static nature)", "conflict-only and integrative-only state-formation models that omit managerial water control"]
 status: contested
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [theory, anthropology, sociology]
 ---
@@ -83,6 +83,7 @@ See [[hydraulic-hypothesis-debate]]. Standing challenge clusters (positions, not
 - "Oriental" naming and Cold-War totalitarianism analogies.
 - Property/class oversimplification relative to later social history of empires.
 - Later frameworks (e.g. [[tributary-mode-of-production]]) redescribe related extractions without the East–West despotism contrast.
+- **Geertz, *Negara* (1980, attributed):** Classical Bali as counter-case — *subak* irrigation coordinated by dispersed ritual obligations and corporate water societies, not a hydraulic bureaucracy; “state stronger than society” rejected for the precolonial [[negara]]; notes target Wittfogel 1957 Bali references explicitly. Irony: Dutch colonial rule, Geertz held, partly *produced* a more hydraulic/pseudofeudal apparatus than the classical theatre state had. Study: [[geertz-negara-study]]; concepts: [[theatre-state]], [[exemplary-center]].
 
 ## Current Status
 

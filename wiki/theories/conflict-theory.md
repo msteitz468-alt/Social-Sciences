@@ -70,6 +70,15 @@ Empirical-science vocabulary (hypothesis, refutation, middle-range theory with M
 
 Dahrendorf reports five early criticisms of the German edition: retaining "class" without bourgeoisie/proletariat reference; definitions of power and authority; separation of industrial and political conflict; application to contemporary ruling classes; absence of large-scale practical inquiries. Later external positions (not yet fully ingested as primary critiques): authority dichotomies oversimplify multi-dimensional stratification; "institutionalization" may normalize asymmetric power; "post-capitalist" settlements were historically specific.
 
+From a wholly different direction, [[luhmann-niklas|Luhmann]]'s [[social-systems-theory|systems
+theory]] rejects Dahrendorf's definition of conflict as "regrettably vague" for conflating the
+structural *conditions* of conflict with conflict at the level of behaviour. Luhmann instead
+defines a conflict as "the operative autonomization of a contradiction through communication" —
+a communicated *no* answered by *no* — and theorizes conflicts as **parasitic, self-reproducing
+social systems** that tend to totalize and consume their host, functioning as society's
+"immune system" rather than as the dialectical motor of structural change. Attributed to
+Luhmann; see [[social-systems-theory]].
+
 ## Current Status
 
 `status: active` — endemic-conflict framing, authority structures, plural vs superimposed cleavages, and institutionalized industrial conflict remain standard in political and industrial sociology. Wiki coverage is currently Dahrendorf-centered.

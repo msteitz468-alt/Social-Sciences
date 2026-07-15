@@ -7,9 +7,9 @@ disciplines: [sociology, political-sociology]
 emic_or_etic: migrated
 operationalized_as: "not quantified; ideal-typical construct, judged by followers' recognition of 'personal proof' (Bewährung)"
 contested: yes
-related_concepts: ["[[charismatic-authority]]", "[[domination-herrschaft]]", "[[traditional-authority]]", "[[legal-rational-authority]]", "[[bureaucracy]]", "[[legitimate-domination]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+related_concepts: ["[[charismatic-authority]]", "[[domination-herrschaft]]", "[[traditional-authority]]", "[[legal-rational-authority]]", "[[bureaucracy]]", "[[legitimate-domination]]", "[[exemplary-center]]", "[[theatre-state]]", "[[kingship]]"]
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -65,9 +65,34 @@ dominance" — across three cases with contrasting idioms: Elizabethan England (
 directly as personal potency and *baraka*, "movement and energy," the mobile court/*mehalla*).
 His broader claim: even in democratic and revolutionary regimes "the ingenerate tendency of men
 to anthropomorphize power" persists, and Weber's fully demystified "iron cage" is challenged by
-the enduring charismatic figures of the twentieth century. (Geertz's cognate analytic concept,
-the "exemplary center," is developed at length in *Negara: The Theatre State*, 1980, not here.)
+the enduring charismatic figures of the twentieth century. Cognate analytic concept: the
+[[exemplary-center]] of *[[geertz-negara-1980|Negara]]* (1980) — fully developed as court
+doctrine of the [[theatre-state]]; *sekti* as power imaged/activated in ritual (study
+[[geertz-negara-study]]).
+
+## Parsons's Reading (attributed)
+
+In *[[parsons-structure-social-action-1937|The Structure of Social Action]]* (1937, Ch. XVII),
+[[parsons-talcott|Parsons]] gave charisma a more systematic role than a reading of Weber alone
+suggests — these are Parsons's interpretive claims, not Weber's explicit statements. Parsons argued
+charisma is, in Weber's system, "the name… for the source of legitimacy in general" — the underlying
+principle behind the plural grounds (traditional, affectual, *wertrational*, legal) on which
+legitimacy is attributed to an order. He read the two [[charismatic-authority|routinization]] paths as
+a **traditionalization** branch (hereditary charisma / *Erbcharisma* → [[traditional-authority|traditional
+authority]]'s sacred, unalterable norm-body) and a **rationalization/objectification** branch (charisma
+of office → [[bureaucracy]] and "legality"), and argued that even legal-rational legitimacy "always
+leads back to a charismatic element." Most consequentially, Parsons stressed the "striking" parallel
+between Weberian charisma and [[durkheim-emile|Durkheim]]'s *sacré* — "charismatic authority is a phase
+of moral authority" — treating this independently-reached convergence as evidence for his
+[[voluntaristic-theory-of-action|voluntaristic theory of action]] and as an implicit Weberian theory of
+ritual close to Durkheim's. See [[parsons-convergence-thesis-debate]].
 
 ## Critiques and Limitations
 
 Weber's own framework flags a limitation: since pure charisma is defined by followers' subjective recognition of "personal proof," it resists any independent verification and can only be studied retrospectively, through its routinization or collapse. The concept's migration from a specific early-Christian theological vocabulary (Sohm) into a general sociological category has itself been a site of scholarly discussion about how much of the term's original religious weight survives its analytic generalization.
+
+## Scott's relational reinterpretation (1990)
+
+*(Attributed — [[scott-james-c]], *[[scott-domination-arts-resistance-1990|Domination and the Arts of Resistance]]*.)*
+
+Scott argued charisma is not a possessed quality but a relationship of recognition: a "charismatic act" of publicly defying power electrifies because onlookers recognize in it their own collectively rehearsed [[hidden-transcript]] — "the first person who publicly confronted power" speaks a text the audience already scripted offstage. On this reading the speaker's gift is courage and timing, not novel content, and populations sharing comparable hidden transcripts form a "power grid" through which a single act of defiance ramifies (his exemplars: Mrs. Poyser in *Adam Bede*; Lagos denouncing Pinochet, 1988). This displaces Weber's follower-recognition of extraordinary personal quality toward recognition of shared, suppressed speech.

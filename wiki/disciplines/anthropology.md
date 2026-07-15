@@ -8,8 +8,8 @@ core_questions: ["What is the range and unity of human ways of life?", "How and 
 major_methods: ["[[comparative-method]]", "historical reconstruction ([[historical-particularism]])", "[[participant-observation]]", "[[survivals|survival analysis]]", "[[cultural-ecological-method]]"]
 subfields: ["cultural/social anthropology", "[[biological-anthropology]]", "linguistic anthropology", "[[archaeology]]", "[[political-anthropology]]", "[[legal-anthropology]]", "[[economic-anthropology]]", "[[medical-anthropology]]"]
 collection_coverage: moderate
-sources_ingested: 29
-last_updated: 2026-07-10
+sources_ingested: 30
+last_updated: 2026-07-15
 tags: [discipline]
 ---
 
@@ -35,6 +35,7 @@ Anthropology claims as its object the whole range of human ways of life — biol
 - Later eras: the interpretive turn, practice theory, and further decolonizing critique (see also [[historical-anthropology]], [[wolf-europe-people-without-history-1982]]).
 
 - **Critical turn — historiography of the discipline’s object:** [[kuper-adam|Adam Kuper]]’s *[[kuper-invention-of-primitive-society-1988|The Invention of Primitive Society]]* (1988) argues that successive schools (evolutionism, diffusionism, functionalism, structuralism) all addressed a single invented prototype of [[primitive-society]] crystallized in the 1860s–70s; kinship studies were its technical core; British [[descent-theory]] and Lévi-Straussian [[alliance-theory]] were transformations of that illusion. See also [[segmentary-lineage-model-debate]], [[unilinear-kinship-evolution-debate]].
+- **Critical turn — historiography of the British school as profession:** Kuper’s *[[kuper-anthropology-and-anthropologists-2015|Anthropology and Anthropologists]]* (1973; 4th ed. 2015) is the vault’s full institutional/intellectual history of [[british-social-anthropology|British social anthropology]] — 1922 baseline (Malinowski + Radcliffe-Brown founding monographs; Rivers’s death; Lugard *Dual Mandate*); Malinowski vs R-B factions; colonial elective affinity ([[anthropology-and-colonialism-debate]] Position 9); postwar “charisma to routine”; Leach and neo-structuralists; 1970s paradigm crisis and cosmopolitan absorption. Complements *Invention* (kinship object) with the school’s sociology of knowledge.
 
 ## Theoretical Landscape
 
@@ -78,6 +79,8 @@ Anthropology's founding categories — "savage," "barbaric," "primitive," "lower
 **2026-07-09:** [[escobar-arturo|Escobar]] *[[escobar-encountering-development-1995|Encountering Development]]* (1995) — charter of [[post-development]] / anthropology of development as discourse; [[development-discourse]]; [[anthropology-of-modernity]]; Studies + Theory Hubs; [[post-development-debate]].
 
 ## Collection Coverage Note
+
+**2026-07-15:** [[trouillot-michel-rolph|Trouillot]] *[[trouillot-silencing-the-past-1995|Silencing the Past]]* (1995) — charter concepts for [[production-of-history]] / [[historical-silences]] / dual [[historicity-1-and-2|historicity]]; [[unthinkable-history]] and [[formulas-of-silence]] on the [[haitian-revolution]]; [[columbus-commemorations]]; site [[sans-souci-milot]]; debate [[unthinkable-haitian-revolution-debate]]. Densifies thinker page and bridges [[historical-anthropology]], [[north-atlantic-universals]], [[people-without-history]], [[power-knowledge]].
 
 **2026-07-10:** [[childe-v-gordon|Childe]] *[[childe-danube-in-prehistory-1929|The Danube in Prehistory]]* (1929) — charter [[archaeological-culture]] + [[culture-historical-archaeology]]; discipline [[archaeology]]; cultures danubian-i / vinca / aunjetitz / lausitz; densifies corded-ware & bell-beaker with pre-aDNA definitions.
 

@@ -8,7 +8,7 @@ emic_or_etic: etic
 operationalized_as: "presence of an archaeological 'package' — blade-based and standardized/formal stone tools, routine formal bone/ivory/antler artifacts, personal ornaments and art, structured living space and elaborate graves, long-distance transport of raw materials, systematic hunting and fishing, and marked stylistic variation across space and time"
 contested: yes
 related_concepts: [palaeolithic, encephalization, material-culture, upper-paleolithic-revolution, mousterian, aurignacian, chatelperronian, levallois, intimate-effective-extended-networks, release-from-proximity, social-landscape-palaeolithic, recent-african-origin, anatomically-modern-humans]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-10
 tags: [concept]
 ---
@@ -36,6 +36,12 @@ that wasn't" (2000) — treats modern behavior as **gradually and cumulatively a
 across the African Middle Stone Age, denying any single threshold or biological switch. The
 concept has since been criticized as Eurocentric (privileging the European record) and as a
 checklist that can conflate preservation and sampling bias with real behavioral change.
+
+### Phillipson — African priority of cultural modernity (2005)
+
+*(Attributed — [[phillipson-african-archaeology-2005]], Ch. 4 close; **as of Phillipson 2005**.)*
+
+Phillipson argues that archaeological, palaeontological, and genetic studies point to sub-Saharan Africa’s key rôle in both anatomical and cultural/behavioural modernity: processes beginning possibly ~250 ka and continuing into the period ~50–35 ka when their end-results appear relatively suddenly in Europe. **“Both humanity itself and cultural/anatomical modernity were African developments”** — a Eurocentric reading yields a biased picture (Phillipson). Technologically he ties this to African trajectories through mode-3 prepared-core industries into mode-5 microlithic composite tools (including [[howiesons-poort-industry]] priority relative to European Upper Palaeolithic checklists); he is cautious about over-reading single-site symbolic “firsts” (e.g. [[blombos-cave]]). Aligns more with gradual/African-assembly readings than with Klein’s late neural switch — record as **position**, not adjudication.
 
 ## Klein's Formulation (attributed, as of Klein 1999)
 

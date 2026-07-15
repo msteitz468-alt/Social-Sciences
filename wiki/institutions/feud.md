@@ -4,9 +4,9 @@ institution_type: legal
 distribution: widespread
 key_variants: ["blood-feud / blood-vengeance (segmentary societies)", "regulated compensation feud (blood-wealth)", "vendetta (Mediterranean)"]
 theorized_by: ["[[evans-pritchard-e-e|E. E. Evans-Pritchard]]", "[[gluckman-max|Max Gluckman]]", "[[segmentary-lineage-system]]", "[[structural-functionalism]]"]
-key_studies: ["[[evans-pritchard-nuer-study]]", "[[gluckman-custom-and-conflict-study]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+key_studies: ["[[evans-pritchard-nuer-study]]", "[[gluckman-custom-and-conflict-study]]", "[[rosaldo-ilongot-headhunting-study]]"]
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [institution]
 ---
 
@@ -35,6 +35,10 @@ A pointed **negative case** is the [[tiv|Tiv]] of central Nigeria. [[bohannan-pa
 
 [[gluckman-custom-and-conflict-study|Gluckman, *Custom and Conflict in Africa* (1955/56)]] — “The Peace in the Feud”: men quarrel under some customary allegiances but are restrained by other, cross-cutting allegiances; greater division in one area of society tends toward greater cohesion in a wider range, *provided* a general need for peace and a shared moral order (attributed). Uses Nuer, Colson’s Tonga, and modern industrial analogies; generalizes beyond segmentary systems to the mechanism of [[cross-cutting-conflicts]]. Black-Michaud’s *Cohesive Force* remains a named later successor not yet ingested.
 
+**Achuar endemic feuding (Descola 1986/1994).** Among the [[achuar]] as reported in *[[descola-in-the-society-of-nature-1994|In the Society of Nature]]*, factionalism and institutionalized feuding structure social life without Africanist segmentary axes; Descola estimates war deaths on the order of one of two male deaths and one of five female deaths; no indigenous word for peace as stable inter-group condition; the house is the rare haven (*shiir waras*). Not a Nuer-type compensation feud; closer to permanent latent hostility among kindred networks (attributed — context for ecology, not a feud monograph).
+
+**Ilongot feuding (Rosaldo 1980).** In *[[rosaldo-ilongot-headhunting-study|Ilongot Headhunting, 1883–1974]]*, [[rosaldo-renato|Rosaldo]] documented a **cognatic** (non-segmentary) feud complex among the [[ilongot|Ilongot]]: feuds culturally typified as moving through insult (*bengen*) → beheading → covenant → intermarriage or renewal, with collective [[bertan]] liability (any member of the offending bertan a valid target) and raiding parties recruited through the aggrieved man's bilateral kindred. Rosaldo found **no consensus "official version"** of a feud's origin — each participant's account refracted his personal grievance — and linked this to the absence of a unified corporate group behind feud action, a comparative inversion of the segmentary cases. Reconstructing the Butag–Rumyad feud (1923–1969 covenant) and its 1890–1928 background historically, he argued the feud was less a jural system regulating group relations than "a cultural construct used most often for looking back on events and making amends," and — against Gluckman — that cross-cutting loyalties could dampen *or* heighten violence (Lakay's cross-pressures produced not mediation but a joint raid on a third party). Colonial "loyal margin vs. rebellious center" policy fused with and escalated feud dynamics.
+
 ## Debates
 
-Whether the feud "maintains order" (functionalist) or expresses and escalates conflict; and, for the Nuer specifically, whether Evans-Pritchard's mechanism overstates the neatness of segmentary opposition ([[segmentary-lineage-model-debate]]). Gluckman’s “peace in the feud” is the classic British anthropological formulation of the cohesion thesis — still contested for underplaying unredressed violence and historical change.
+Whether the feud "maintains order" (functionalist) or expresses and escalates conflict; and, for the Nuer specifically, whether Evans-Pritchard's mechanism overstates the neatness of segmentary opposition ([[segmentary-lineage-model-debate]]). Gluckman’s “peace in the feud” is the classic British anthropological formulation of the cohesion thesis — still contested for underplaying unredressed violence and historical change. [[rosaldo-renato|Rosaldo]] (1980), citing the "awesome slaughter" of Ilongot feuding in 1919–28, proposed inverting the slogan to **"the feud in the peace"**: peaceful settlements themselves (violated oaths, unpaid indemnities) seed later chains of retaliation.

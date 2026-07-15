@@ -11,8 +11,8 @@ driven_by: ["religious ethics (ascetic Protestantism — one strand in PE)", "ca
 produces: ["modern capitalism (rational free labour)", "trained officialdom", "[[iron-cage|iron cage]] dynamics", "disenchantment of religious roots of vocation"]
 theorized_by: ["[[weber-max]]", "[[protestant-ethic-thesis]]", "[[simmel-georg]] (calculability, intellectualization — related)"]
 key_studies: ["[[weber-protestant-ethic-study]]"]
-sources_ingested: 3
-last_updated: 2026-07-08
+sources_ingested: 4
+last_updated: 2026-07-10
 tags: [phenomenon, sociology]
 ---
 
@@ -74,6 +74,23 @@ No single metric in the PE. Indicators Weber deploys narratively:
   technological a priori is a political a priori." Where Weber diagnosed an [[iron-cage|iron
   cage]], Marcuse diagnosed a [[one-dimensionality|one-dimensional]] society that "delivers the
   goods" while foreclosing alternatives.
+
+## Parsons's Reading (attributed)
+
+In *[[parsons-structure-social-action-1937|The Structure of Social Action]]* (1937), [[parsons-talcott|Parsons]]
+reconstructed Weber's rationalization within his [[voluntaristic-theory-of-action|action framework]]
+(all attributed to Parsons). He anchored the *Zweckrationalität* / *Wertrationalität* distinction (see
+[[types-of-social-action]]) not in the logic of means-end reasoning but in two polar types of
+ultimate-end system — a plural, weighed hierarchy of values (linked to the *Verantwortungsethik*,
+ethic of responsibility) versus a single absolute value (*Gesinnungsethik*, ethic of conviction).
+He identified two principal directions of religious rationalization: the elimination of magic —
+***Entzauberung der Welt*** (disenchantment), sharpest in Puritanism, largely absent in Chinese and
+Indian ethics — and the systematization of a coherent stance toward the world's meaning. Parsons then
+proposed a tentative **"law of increasing rationality"** for action systems, explicitly analogized to
+the second law of thermodynamics and identified as "the most fundamental generalization that emerges
+from Weber's work," while noting that both his law and Weber's rationalization concept had attracted
+"fatalistic" readings (history running down to a "dead mechanism") that he attributed to reification of
+the underlying theory (see [[analytical-realism]], [[iron-cage]]).
 
 ## Debates
 

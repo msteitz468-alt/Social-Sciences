@@ -7,11 +7,11 @@ era: [critical-turn, contemporary]
 affiliated_theories: ["[[feminist-anthropology]]", "[[practice-theory]]", "[[symbolic-anthropology]]"]
 trained_under: ["[[geertz-clifford|Clifford Geertz]]"]
 trained: ["[[unknown]]"]
-key_works: ["\"Is Female to Male as Nature Is to Culture?\" (1972/1974)", "Sherpas Through Their Rituals (1978)", "\"Theory in Anthropology since the Sixties\" (1984)", "High Religion (1989)", "Making Gender (1996)", "New Jersey Dreaming (2003)"]
-key_concepts: ["[[nature-culture-distinction|woman as closer to nature]]", "[[practice-theory]]", "serious games", "key symbols"]
-fieldwork_sites: ["Nepal — Sherpa (Solu-Khumbu), from 1966", "United States — Weequahic High School class of 1958, Newark NJ (from 1990s)"]
-sources_ingested: 2
-last_updated: 2026-07-09
+key_works: ["\"Is Female to Male as Nature Is to Culture?\" (1972/1974)", "Sherpas Through Their Rituals (1978)", "\"Theory in Anthropology since the Sixties\" (1984)", "[[ortner-high-religion-1989|High Religion (1989)]]", "[[ortner-life-and-death-everest-1999|Life and Death on Mt. Everest (1999)]]", "Making Gender (1996)", "New Jersey Dreaming (2003)"]
+key_concepts: ["[[nature-culture-distinction|woman as closer to nature]]", "[[practice-theory]]", "[[cultural-schema]]", "[[big-people-small-people]]", "[[serious-games]]", "key symbols"]
+fieldwork_sites: ["Nepal — Sherpa (Solu-Khumbu), from 1966; Kathmandu mountaineering interviews 1990", "United States — Weequahic High School class of 1958, Newark NJ (from 1990s)"]
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [thinker, anthropology]
 ---
 
@@ -25,7 +25,9 @@ Sherry B. Ortner (b. 1941) is an American cultural anthropologist central to thr
 
 - **The "woman is closer to nature" thesis** ([[ortner-female-to-male-1972]], 1972/74): an attempt to explain the *universal* devaluation of women ([[female-subordination]]) through a single symbolic logic — woman occupies an **intermediate** position between [[nature-culture-distinction|nature and culture]], grounded in body, domestic role, and psyche. Ortner argued this in **attributed voice** as a thesis, and later (*Making Gender*, 1996; the essay "So, Is Female to Male as Nature Is to Culture?") substantially qualified its universalism. See the [[nature-culture-gender-debate]].
 - **"Theory in Anthropology since the Sixties"** (1984): her widely taught periodization of postwar theory, which identified **[[practice-theory|practice]]** (Bourdieu, Giddens, Sahlins) as the emergent synthesis of structure and agency; she later developed her own "**serious games**" version of practice.
-- **Symbolic anthropology of ritual**: *Sherpas Through Their Rituals* (1978) and *High Religion* (1989) analyzed Sherpa Buddhism via "**key symbols**" and the founding of monasteries — a Geertzian/Weberian reading of meaning and social action. Her early "Sherpa Purity" (1973), cited within the nature/culture essay, supplied its [[ritual-pollution|purity/pollution]] material.
+- **Symbolic anthropology of ritual**: *Sherpas Through Their Rituals* (1978) analyzed Sherpa Buddhism via "**key symbols**" and ritual structure — a Geertzian/Weberian reading of meaning and social action. Her early "Sherpa Purity" (1973), cited within the nature/culture essay, supplied its [[ritual-pollution|purity/pollution]] material. Earlier “key scenarios” (1970/1973) already treated hospitality and related programs as transferable ordering schemas among the [[sherpa|Sherpas]].
+- **Historical practice theory — *High Religion* (1989)**: primary-ingested; study page [[ortner-high-religion-study]] (hub: [[hubs/studies/ortner-high-religion-study]]). Ortner asks why Sherpas founded celibate monasteries in the early twentieth century, and expands [[practice-theory]] via four keywords (practice, structure, actor, history). She introduces or consolidates [[cultural-schema]] (plot structures that resolve central contradictions and order historical events) and [[big-people-small-people]] (Sherpa stratification and the politics of legitimation/valorization). Method: 1979 oral history (5 months) on prior 1966–68 and 1976 fieldwork; historical ethnography mediating Gorkha/Rana state and British Darjeeling through local contradiction and schema. Big sponsors (Tengboche 1916, Chiwong 1923), small people’s wage-labor empowerment, and “little-big” monks/nuns (including Devuche 1925 and the Thami conversion) co-produce the foundings under inverse readings of the same schema.
+- **Serious games / mountaineering encounter — *Life and Death on Mt. Everest* (1999)**: primary-ingested; study [[ortner-life-and-death-everest-study]] (hub: [[hubs/studies/ortner-life-and-death-everest-study]]). Book-length [[serious-games]] analysis of the twentieth-century sahib–[[sherpa|Sherpa]] mountaineering encounter: dual history of on-mountain relations (strikes, respect, masculinity, death ritual) and off-mountain remaking (money, monastic campaign, gender, identity politics). Methods: expedition literature + prior ethnography + 1990 Kathmandu interviews (~30 climbers/sardars). Companion to *High Religion*; rejects Oriental fatalism and pure “spoiled Sherpas” narratives.
 - **Later work**: class, gender, and subjectivity in the United States (*New Jersey Dreaming*, 2003, on her own high-school cohort) and studies of Hollywood and neoliberalism.
 
 ## Intellectual Genealogy
@@ -42,4 +44,4 @@ The nature/culture thesis drew sustained critique in the [[nature-culture-gender
 
 ## Historiography
 
-Ortner's career is often used as a map of late-twentieth-century anthropological theory itself — symbolic → feminist → practice → subjectivity/neoliberalism. A [[hubs/thinkers/thinkers-hub|Thinkers-Hub]] biography would be warranted once further primary sources (the 1984 essay, *Making Gender*, the Sherpa monographs) are ingested; the present page rests on the single nature/culture essay.
+Ortner's career is often used as a map of late-twentieth-century anthropological theory itself — symbolic → feminist → practice → subjectivity/neoliberalism. The present page now rests on the nature/culture essay, *[[ortner-high-religion-1989|High Religion]]* (1989), **and** *[[ortner-life-and-death-everest-1999|Life and Death on Mt. Everest]]* (1999) — so the major Sherpa historical monographs are primary-ingested (*Sherpas Through Their Rituals* 1978 still secondary). A [[hubs/thinkers/thinkers-hub|Thinkers-Hub]] biography would still be warranted once the 1984 “Theory in Anthropology since the Sixties” essay and *Making Gender* are primary-ingested.

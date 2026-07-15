@@ -2,10 +2,10 @@
 title: "Marriage"
 institution_type: kinship
 distribution: universal
-key_variants: ["African marriage as kin-group alliance with payments (lobola/bridewealth process)", "matrilineal vs patrilineal jural forms (mother-right / father-right approximations)", "preferential cross-cousin marriage", "true levirate and widow inheritance", "cognatic degree-prohibition systems (e.g. Lozi)"]
-theorized_by: ["[[radcliffe-brown-a-r]]", "[[structural-functionalism]]", "[[gluckman-max]]", "[[fortes-meyer]]", "[[forde-daryll]]", "[[wrangham-richard]]", "[[cooking-hypothesis]]"]
-key_studies: ["[[radcliffe-brown-forde-african-systems-kinship-marriage-study]]", "[[abu-lughod-writing-womens-worlds-study]]"]
-sources_ingested: 3
+key_variants: ["African marriage as kin-group alliance with payments (lobola/bridewealth process)", "matrilineal vs patrilineal jural forms (mother-right / father-right approximations)", "preferential cross-cousin marriage", "true levirate and widow inheritance", "cognatic degree-prohibition systems (e.g. Lozi)", "U.S. late-modern high-bar marriage among low-income unmarried parents (Edin & Kefalas)"]
+theorized_by: ["[[radcliffe-brown-a-r]]", "[[structural-functionalism]]", "[[gluckman-max]]", "[[fortes-meyer]]", "[[forde-daryll]]", "[[wrangham-richard]]", "[[cooking-hypothesis]]", "[[edin-kathryn]]", "[[kefalas-maria]]"]
+key_studies: ["[[radcliffe-brown-forde-african-systems-kinship-marriage-study]]", "[[abu-lughod-writing-womens-worlds-study]]", "[[edin-kefalas-promises-study]]"]
+sources_ingested: 5
 last_updated: 2026-07-10
 tags: [institution]
 ---
@@ -89,6 +89,11 @@ Morgan–Engels evolutionary marriage stages, Maine patriarchal family, Lowie bi
 - [[radcliffe-brown-forde-african-systems-kinship-marriage-study]] — volume as comparative programme; Introduction as theoretical charter; regional essays as ethnographic illustrations (fieldwork dates on contributor society/study pages).
 - Component essays as used in claims integration: Gluckman Lozi–Zulu; Fortes Ashanti; Forde Yakö; Nadel Nuba; Evans-Pritchard Nuer; Richards Central Africa; Schapera Tswana; Kuper Swazi; Wilson Nyakyusa (and others in the volume).
 - [[abu-lughod-writing-womens-worlds-study]] — Awlad ʿAli 1980s narrative ethnography of polygyny, [[patrilateral-parallel-cousin-marriage|patrilateral parallel-cousin marriage]], and wedding practice as particular histories rather than ethnic traits ([[writing-against-culture]]).
+- [[edin-kefalas-promises-study]] — Philadelphia–Camden late 1990s/early 2000s ethnography of 162 low-income unmarried mothers: marriage revered but deferred under a high economic and relational bar (“promises I can keep”); nonmarital childbearing sequenced before marriage (attributed; Edin & Kefalas 2005/2011).
+
+### U.S. low-income contemporary (Edin & Kefalas, attributed)
+
+In *[[edin-kefalas-promises-i-can-keep-2005|Promises I Can Keep]]*, poor unmarried mothers in eight Philly/Camden neighborhoods insist marriage means **lifelong commitment** and refuse it until dual standards are met: material respectability (jobs, savings, often a “real” wedding) and relational trust (fidelity, maturity, fear of male control after the wedding). Authors argue the poor avoid marriage not because they denigrate it but because they revere it — better nonmarital children than divorce that makes marriage “a piece of paper.” Marriage’s **symbolic** significance has grown as its practical monopoly on sex, cohabitation, and childbearing eroded (authors with Cherlin framing). Class difference is less in marriage *values* than in ability to reach the “white picket fence” standard. See also [[nonmarital-childbearing]], [[being-there-mothering]], [[male-marriageable-pool-index]].
 
 ## Debates
 
@@ -97,6 +102,8 @@ Morgan–Engels evolutionary marriage stages, Maine patriarchal family, Lowie bi
 - **What makes marriage “legal”:** state registration vs kin prestations; dual marriage forms by payment size.
 - **Corporate lineage and divorce:** Gluckman’s Zulu–Lozi thesis — how far generalizable beyond Central/Southern Africa.
 - **Double descent vs complementary filiation:** Fortes against equal dual-descent Ashanti readings ([[double-descent]]); Tallensi *Web of Kinship* as type case of complementary filiation without second corporate descent group ([[complementary-filiation]] · [[fortes-web-of-kinship-study]]).
+- **Affinity as group alliance vs complementary filiation:** Leach (*Rethinking* 1961) — enduring *mayu/dama*-type ties must not be reduced to individual in-law reciprocals of filiation ([[affinity]] · [[leach-rethinking-anthropology-1961]]).
+- **Universal definition of marriage:** Leach — marriage is Maine’s “bundle of rights”; *Notes and Queries* legitimacy definition fails on [[polyandry]] and dual Sinhalese institutions; Gough (1959) repudiates — positions, not wiki-voice verdict.
 - **Incest vs marriage prohibition:** R-B’s separation of problems; Tallensi “copulation and marriage are not the same thing.”
 - **Avoidance function:** incest-prevention theories (rejected by R-B) vs structural distance/respect analysis ([[joking-relationship]]).
 

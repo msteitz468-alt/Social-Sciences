@@ -16,8 +16,8 @@ core_claims:
 developed_from: ["[[positivism]]", "[[social-evolutionism]]"]
 competes_with: ["[[conflict-theory]]", "[[historical-materialism]]", "[[symbolic-interactionism]]", "[[reflexive-sociology]]", "[[ethnomethodology]]"]
 status: absorbed
-sources_ingested: 7
-last_updated: 2026-07-09
+sources_ingested: 10
+last_updated: 2026-07-15
 tags: [theory, sociology, anthropology]
 ---
 
@@ -45,9 +45,18 @@ Dominant mid-twentieth-century paradigm of Academic Sociology (and, earlier, of 
 
 Gouldner (Ch. 4) periodizes: Sociological Positivism → Marxism (binary fission) → Classical sociology (decline of evolutionism, rise of functionalism in anthropology and classical theory) → Parsonsian structural-functionalism as synthesis of French functionalism and German romanticism, formed in the Depression context and internationalized after WWII.
 
+The Parsonsian line begins with *[[parsons-structure-social-action-1937|The Structure of Social Action]]*
+(1937), where [[parsons-talcott|Parsons]] argued Marshall, [[pareto-vilfredo|Pareto]],
+[[durkheim-emile|Durkheim]], and [[weber-max|Weber]] converged on a
+[[voluntaristic-theory-of-action|voluntaristic theory of action]] (attributed; contested — see
+[[parsons-convergence-thesis-debate]]). The "sociologistic theorem" Parsons drew from that convergence —
+that a common ultimate-value system is a condition of social-system equilibrium, the normative solution
+to the [[problem-of-order|problem of order]] — is the direct ancestor of the value-consensus core of the
+later paradigm.
+
 ## Key Proponents and Texts
 
-- [[parsons-talcott]] — *Structure of Social Action* (1937); *[[parsons-social-system-1951|The Social System]]* (1951); later evolutionary essays.
+- [[parsons-talcott]] — *[[parsons-structure-social-action-1937|Structure of Social Action]]* (1937); *[[parsons-social-system-1951|The Social System]]* (1951); later evolutionary essays.
 - [[merton-robert-k|Merton]] — *[[merton-social-theory-social-structure-1968|Social Theory and Social Structure]]* (1968 enl.): codification of functional analysis ([[manifest-and-latent-functions]], [[dysfunction]], functional alternatives, structural constraint) and [[middle-range-theory]] as research policy — **not** identical with Parsonian total-system theory; treat carefully as related but distinct program within the broader functional orientation.
 - Anthropological lineage (primary): [[radcliffe-brown-a-r|Radcliffe-Brown]] — *[[radcliffe-brown-andaman-islanders-1922|The Andaman Islanders]]* (1922): social physiology, sentiments, systems comparison, [[social-structure]]; and *[[radcliffe-brown-structure-function-1952|Structure and Function in Primitive Society]]* (1952): the founding theoretical essays ("On the Concept of Function," "On Social Structure," "Taboo," "Social Sanctions," "On Joking Relationships") stating structure/structural-form, function-as-structural-continuity, and comparative sociology ([[radcliffe-brown-andaman-islanders-study]] · [[hubs/studies/radcliffe-brown-andaman-islanders-study]] · [[hubs/thinkers/radcliffe-brown-a-r]]). [[malinowski-bronislaw|Malinowski]] — *[[malinowski-argonauts-1922|Argonauts]]* (1922): needs/imponderabilia charter; *[[malinowski-coral-gardens-1935|Coral Gardens]]* I–II (1935): gardens, urigubu, land tenure, magic/work, language as institutional function. [[evans-pritchard-e-e|Evans-Pritchard]] — *[[evans-pritchard-witchcraft-oracles-magic-1937|Witchcraft, Oracles and Magic among the Azande]]* (1937): situational ethnography of a belief complex (witchcraft–oracles–magic) more semantic/practical than pure structure-function inventory ([[evans-pritchard-witchcraft-oracles-magic-study]] · [[hubs/thinkers/evans-pritchard-e-e]]). ([[malinowski-coral-gardens-study]]). *[[evans-pritchard-nuer-study|The Nuer]]* (1940) is the major British-SF political ethnography (segmentary opposition; the [[feud]] as equilibrium-maintaining mechanism; [[ordered-anarchy]]) — but note that in its own Summary Evans-Pritchard **declined** a Radcliffe-Brownian reading of his results, insisting the lineage/territory correspondence "does not mean a functional relationship... it means that there is structural consistency between the two systems — a consistency between abstractions," presaging his 1950 break toward anthropology-as-history. Fortes and the rest of British SF (and the [[segmentary-lineage-model-debate|later critique of the segmentary model]]) remain thinly ingested; Gouldner and Merton Ch. III discuss the lineage from secondary vantage. [[firth-raymond|Raymond Firth]] — *[[firth-we-the-tikopia-study|We, the Tikopia]]* (1936): the model functionalist **kinship** ethnography, analysing Tikopia society as "articulated" throughout by kinship and concluding that kinship is "a system of primary integration" and "a factor of stability." Firth exemplifies a **qualified** functionalism: he keeps the organism/integration idiom and R-B's structural rigour but (a) explicitly declines Malinowski's biological-**needs** functionalism ("I have concerned my analysis not with the needs of Tikopia society, but with the activities of its members"), (b) insists on observed **behaviour** over sentiment or self-report, and (c) refuses a frictionless equilibrium, cataloguing the strains kinship perpetuates. His structure/[[social-organization|organization]] distinction (1951) is an internal corrective toward agency ([[firth-we-the-tikopia-1936]] · [[hubs/studies/firth-we-the-tikopia-study]]).
 
@@ -104,6 +113,16 @@ Full source page: [[gouldner-coming-crisis-1970]]. Debate page: [[coming-crisis-
 
 As a named hegemonic school, declined after the critical turn; as vocabulary (function, system, role, institution), widely absorbed (`status: absorbed`). Gouldner's "entropy" thesis is one major account of that transition — partially confirmed as end of U.S. Parsonian hegemony, less so as total system death.
 
+**Luhmann's systems-theoretic supersession (attributed).** The one lineage that carried the
+systems ambition forward is [[luhmann-niklas|Niklas Luhmann]]'s [[social-systems-theory]]
+(*[[luhmann-social-systems-1995|Social Systems]]*, 1984), which retains "system" and "function"
+but **inverts** structural-functionalism into a functionalism that subordinates structure to
+function, replaces value consensus with [[double-contingency]], and recasts social systems as
+[[autopoiesis|autopoietic]] systems of [[communication]] rather than of institutionalized roles.
+Luhmann's functional analysis is comparison of functional equivalents oriented to
+[[complexity]], not to system maintenance — an explicit revision of the classical
+structural-functionalist problem-formulation.
+
 **Harris on British social anthropology (attributed).** *[[harris-rise-anthropological-theory-1968|Rise of Anthropological Theory]]* ch. 19 reads Radcliffe-Brownian structural-functionalism and related British SA as prioritizing solidarity/structure over techno-economic causes, often within colonial African fieldwork settings; Malinowski's needs-functionalism is treated separately. Record as cultural-materialist counter-reading ([[cultural-materialism]]; [[harris-marvin]]), not a substitute for BSA primary sources.
 
 ## Cohen's definition and colonial entanglement (attributed — Johnson 2011)
@@ -128,6 +147,18 @@ pedagogical use of the theory that shaped colonial governance practice even as i
 argued against evolutionary condescension toward the societies it studied. See
 [[anthropology-and-colonialism-debate]].
 
+## Stocking on the British anthropological program's emergence and colonial appeal (attributed — *After Tylor*, 1995)
+
+*(Attributed — [[stocking-after-tylor-1995|Stocking, *After Tylor*]]; feeds Intellectual Origins and Reflexivity.)*
+
+Stocking frames "functionalism" as still verging, in the mid-1920s, on "anachronistic misnomer" — [[malinowski-bronislaw|Malinowski]]'s pre-1926 output is better described as "a series of opportunistic theoretical forays" against evolutionary and diffusionist "shibboleths," itself still partly grounded in evolutionary assumptions. He dates the definitive naming of "the Functional School" to Malinowski's 1926 *Britannica* "Anthropology" article. [[radcliffe-brown-a-r|Radcliffe-Brown]]'s parallel program is presented as gradually built from an initial "functional cultural psychology" in *The Andaman Islanders* (1922, largely written 1913–14) toward an explicitly anti-psychological "natural science of society," crystallizing fully only in the 1930s Chicago period; Herbert Spencer's *Descriptive Sociology* (1874) "structural"/"functional" charts are a plausible root of the vocabulary, received by Radcliffe-Brown directly or via Durkheim.
+
+**"Pure" vs. "hyphenated" functionalism.** The 17 June 1938 Le Play House debate between Malinowski and Radcliffe-Brown on the concept of "function" crystallized the theoretical difference between Radcliffe-Brown's structural-functionalism (function defined relative to persistence of social structure) and Malinowski's individual/biological-needs functionalism — a dichotomy later labeled "pure" (Malinowski) vs. "hyphenated" (Radcliffe-Brown, Malinowski's own 1939 term). See [[malinowski-bronislaw]] and [[radcliffe-brown-a-r]] for the debate's staging and aftermath.
+
+**Colonial-entanglement reflexivity claim.** Stocking argues functionalism's rapid interwar institutional success combined (a) the general cultural resonance of "functional" thinking across biology, psychology, architecture, and design of the period; (b) a claim to explain "every aspect of human cultural activity" integratively; (c) a restricted temporal range suited to a moment when "the past had discredited itself" after WWI; and (d) a political ambivalence — "an edge of radicalism but... profoundly conservative," offering, among other things, "a more humane and economic basis for an empire that had just attained its apogee." This is Stocking's own interpretive judgment about the theory's period appeal, not a wiki-voice causal claim; it is a documented instance of the discipline's colonial entanglement (see [[anthropology-and-colonialism-debate]]).
+
+**Institutional context (brute facts).** Interwar British academic anthropology was thinly staffed at Oxford and Cambridge; LSE (Malinowski/Seligman) and University College London (Elliot Smith/Perry, diffusionist) were the two competing London poles, with LSE drawing more students partly through Rockefeller Foundation fieldwork fellowships Malinowski secured. By the late 1930s the Oxford seminar group (Radcliffe-Brown, Evans-Pritchard, Fortes, Gluckman) fused Malinowskian fieldwork method with Radcliffe-Brown's comparative "social structure" framework; *[[fortes-evans-pritchard-african-political-systems-1940|African Political Systems]]* (1940) is presented by Stocking as marking the transition from "'pure' Malinowskian functionalism to the 'hybrid' structural-functionalism of Radcliffe-Brown." George Murdock's 1951 critique of British "structural-functionalist" social anthropology (narrowness, "theoretical parochialism," neglect of history and psychology, and — most pointedly — "Alone among the anthropologists of the world the British make no use of the culture concept") and Raymond Firth's reply (narrowness "more apparent than real," defending disciplined isolation of "a particular sphere of inquiry") are recorded as position 1 / position 2 on [[functionalism-and-social-change-debate]].
+
 ## Reflexivity
 
 Functionalism's rise and fall are themselves objects of [[reflexive-sociology]] and sociology of sociology. Sponsorship by expanding U.S. universities and later pressure from the welfare state and student movements are part of Gouldner's infrastructure explanation — recorded as his thesis, not wiki-voice causation alone.
@@ -137,3 +168,9 @@ Functionalism's rise and fall are themselves objects of [[reflexive-sociology]] 
 ## From Kuper, *Invention of Primitive Society* (1988)
 
 *(Attributed — Kuper 1988, Ch. 9–10.)* Kuper argues that after Rivers, Cambridge/Oxford structural-functional developments (especially Radcliffe-Brown’s return and the Fortes/Evans-Pritchard [[descent-theory]] program) **revived deep Victorian theory under a revolutionary guise** — retained the [[primitive-society]] prototype but used it as a synchronic *model* rather than an evolutionary stage series. Malinowski scorned kinship algebra and stressed family vs clan conflict (deeds not words); R-B inverted Australian evolutionary models but re-enabled unilineal corporate analysis. Source: [[kuper-invention-of-primitive-society-1988]].
+
+## British-school historiography note — Kuper 2015 (short)
+
+*(Attributed — [[kuper-adam|Kuper]], *[[kuper-anthropology-and-anthropologists-2015|Anthropology and Anthropologists]]* 4th ed. 2015. British SA only — does not rewrite the Parsonsian bulk above.)*
+
+Kuper’s institutional history treats classical British structural-functionalism as the orthodoxy of a roughly fifty-year movement (early 1920s–early 1970s) that then “gradually lost its distinctive identity.” Postwar, [[fortes-meyer|Fortes]] remained faithful while colleagues reacted: Evans-Pritchard repudiated R-B positivism; Firth orchestrated a Malinowskian revival at LSE; Gluckman’s Manchester conflict line pulled left. Debates within the tradition occupied the field into the 1960s until Lévi-Strauss [[structuralism]] “crashed the party.” Sixties–seventies external shock: the program was “denounced as reactionary, impotent in the face of change, an instrument for social control” (Gouldner 1970 on Parsonsian functionalism parallel; Paris 1968 “Structures Do Not Take To The Streets”). Classical models assumed societies/cultures with rigid boundaries and equilibrium — Kuper’s exceptions that already troubled the frame: Evans-Pritchard Sanusi Cyrenaica, [[leach-edmund|Leach]] Kachin, [[gellner-ernest|Gellner]] Berbers Atlas. End of Empire and collapse of the “tribal” object, not only internal theoretical critique, decide the tradition’s loss of monopoly. Full British institutional narrative lives on discipline/source pages owned elsewhere; this note records only the SF-historiographical load.

@@ -31,7 +31,7 @@ Jack Golson was a Cambridge-trained archaeologist, per Kirch (*On the Road of th
 ## Intellectual Genealogy
 
 - **trained_under:** [[childe-v-gordon|V. Gordon Childe]] and Grahame Clark (materialist archaeological tradition, Cambridge). Clark does not yet have a dedicated wiki page; recorded here in prose per naming-convention rules.
-- **trained (directed as students at ANU, per Kirch):** J. Peter White, Peter Lauer, Brian Egloff, Ron Vanderwal, Geoff Irwin, and Jim Allen — a training network distinct from, and complementary to, the Bishop Museum/Polynesia lineage associated with [[te-rangi-hiroa]] and [[kenneth-emory]].
+- **trained (directed as students at ANU, per Kirch):** J. Peter White, Peter Lauer, Brian Egloff, Ron Vanderwal, Geoff Irwin, and Jim Allen — a training network distinct from, and complementary to, the Bishop Museum/Polynesia lineage associated with [[te-rangi-hiroa]] and [[emory-kenneth]].
 
 ## Critiques and Reappraisals
 

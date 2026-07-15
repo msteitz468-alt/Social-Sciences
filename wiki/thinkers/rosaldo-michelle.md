@@ -26,7 +26,7 @@ Michelle Z. Rosaldo (1944–1981) was an American anthropologist, co-founder of 
 - **The domestic/public dichotomy** (1974 overview): Rosaldo argued that women's association with the **domestic** sphere (organized around mothers and children) and men's with the **public** sphere generates and explains sexual asymmetry — men as locus of cultural value and authority, women often with informal **power** without legitimated authority. Status lowest when spheres are firmly split and women isolated under one man's household authority; most egalitarian when spheres are weakly differentiated and men share domestic life. See [[domestic-public-dichotomy]].
 - **Women as strategists within asymmetry:** Using Ilongot, Merina, Yoruba, Eastern European Jewish, and other illustrations, she showed that acknowledging universal male authority does not entail denying women's systematic influence.
 - **Self-critique** ("The Use and Abuse of Anthropology," 1980): Rosaldo later criticized the search for universal *origins* of gender asymmetry — including her own domestic/public frame — arguing for historically and culturally situated analysis instead, a pivotal move in the [[nature-culture-gender-debate]].
-- **Ilongot ethnography** (*Knowledge and Passion*, 1980): emotion, "self," and headhunting — not yet primary-ingested.
+- **Ilongot ethnography** (*Knowledge and Passion*, 1980): emotion, "self," and headhunting — not yet primary-ingested. Renato Rosaldo's *[[rosaldo-ilongot-headhunting-1980|Ilongot Headhunting]]* (1980) cites it as the extended analysis of **[[liget]]** (anger/passion); the two books are companion products of their joint 1967–69/1974 fieldwork, hers on the cultural idiom of emotion, his on society and history.
 
 ## Intellectual Genealogy
 

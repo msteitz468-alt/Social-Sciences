@@ -19,7 +19,7 @@ key_finds:
   - "Kilwa coin (early 14th c., scientific context)"
   - "soapstone birds/monoliths; daga-plastered stonework"
   - "densely packed commoner hut areas revising population estimates"
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [site, zimbabwe, iron-age, urbanism, state-formation]
 ---
@@ -94,3 +94,14 @@ Source: [[connah-african-civilizations-2016]].
 - **Gold-mining start date.** Huffman (mining from eleventh century earliest, Great Zimbabwe as consequence) vs Swan/first-millennium shells-and-beads evidence for earlier mining (Connah 2016).
 
 All interpretive claims date-stamped **(as of Connah 2016)**; post-2016 fieldwork and dating revisions are not incorporated here.
+
+### Phillipson — *African Archaeology* (2005)
+
+*(Attributed — [[phillipson-african-archaeology-2005]]; **as of Phillipson 2005**.)*
+
+- Inhabitants from at least the Gumanye phase are argued as **directly ancestral to modern Shona** speakers; Huffman’s elaborate cognitive/symbolic readings of the site remain **controversial** (oral tradition / poorly recorded recent data) — Phillipson prefers restricting credence to Great Zimbabwe as capital of rulers controlling major territories and resources.
+- Imported objects (glass beads, Persian and Chinese pottery, Near Eastern glass, a Kilwa-name coin) far more numerous than on contemporary Zimbabwe sites; gold/copper from outlying regions via patronage/tribute; coastal import trade organised from the centre; prosperity coincides with architectural florescence and peak gold export via the Indian Ocean ([[kilwa-kisiwani]], Sofala).
+- Network of related sites as far as Manekweni (southern Mozambique coastal plain) and Ruanga/Nhunguza (northern Zimbabwe); cattle of major importance; elite consumption of prime young animals suggested by bone distributions.
+- Fifteenth-century decline with power transfer toward the Zambezi route; later southwestern stone sites such as Khami and Naletale attributed to Guruhuswa kingdom trading with the Portuguese; archaeology confirms oral tradition of continuity with Shona-speaking peoples.
+
+Pairs with Connah’s productive-land / trade-intensifier framing above without forcing identity of the two syntheses.

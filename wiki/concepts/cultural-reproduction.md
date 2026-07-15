@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "The transmission of a cultural arbitrary across generations that, through the school, reproduces the class distribution of cultural capital and thereby the class structure"
 contested: yes
 related_concepts: ["[[pedagogic-action]]", "[[pedagogic-work]]", "[[cultural-capital]]", "[[cultural-arbitrary]]", "[[symbolic-violence]]", "[[relative-autonomy-of-the-educational-system]]", "[[self-elimination]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -43,7 +43,7 @@ Bourdieu (1990 preface) restated it against the "mechanical" misreading: the sch
 
 ## Critiques and Limitations
 
-- **Reproduction vs. resistance.** The concept's central contest: does the theory leave room for change and for the agency of the dominated? Bowles & Gintis's *correspondence* model, Willis's *Learning to Labour* (resistance), and Giroux's critical pedagogy define themselves partly against it — see [[cultural-reproduction-debate]].
+- **Reproduction vs. resistance.** The concept's central contest: does the theory leave room for change and for the agency of the dominated? Bowles & Gintis's *correspondence* model, [[willis-paul|Willis]]'s *[[willis-learning-to-labour-1977|Learning to Labour]]* (resistance), and Giroux's critical pedagogy define themselves partly against it — see [[cultural-reproduction-debate]]. Willis's counter is that reproduction is real but is achieved *through* agency: the [[counter-school-culture]]'s [[penetration-willis|partial penetrations]] deliver working-class boys to manual work by their own creative logic, not by passive [[self-elimination]]. He later distinguished "cultural production" (agents actively making culture with relative autonomy) from mechanical "reproduction."
 - **National specificity.** Bottomore (1976) and later critics note the model is drawn from the highly centralized French system and presupposes a class theory it does not fully argue; its transfer to other systems is contested. Bourdieu answered by pointing to US "empirical validation" (1990 preface).
 - **Functionalist reading.** Stated in reproduction's own voice the thesis can read as a closed functionalism; the authors insist the "system effect" and relative autonomy, not a conspiracy, do the work.
 

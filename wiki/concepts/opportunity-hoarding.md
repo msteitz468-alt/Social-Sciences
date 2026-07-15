@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Categorically bounded network monopoly of a valuable, renewable resource supporting network activities; exclusion of non-members"
 contested: yes
 related_concepts: ["[[exploitation]]", "[[categorical-inequality]]", "[[social-capital]]", "[[bonding-social-capital]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -42,3 +42,7 @@ Network closure around jobs, licenses, land, or trade niches; chain-migration la
 ## Critiques and Limitations
 
 Normative ambiguity (credentialing vs pernicious exclusion); hard to distinguish efficient trust networks from exclusion; Model qualifications on niche dynamics; risks to hoarders (invasion, saturation, state withdrawal of licenses — Tilly notes).
+
+## From *Identities, Boundaries, and Social Ties* Ch. 10 (2005)
+
+*(Attributed — Tilly.)* Restates opportunity hoarding’s four elements within the categorical-inequality kit; develops [[chain-migration]] as network-mediated path into niches; immigrant-niche synthesis (Waldinger/Portes); policy close — intervene in destructive hoarding without stamping out all network migration. Couples to [[social-boundary]] activation among migrants. Source: [[tilly-identities-boundaries-social-ties-2005]].

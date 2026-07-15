@@ -52,6 +52,8 @@ Critiques of functional analysis (teleology, consensus bias, static bias) often 
 
 Reputation as the "sociologist's sociologist" of mid-century America — concept factory and theory–research broker. Edition history of *Social Theory and Social Structure* (1949 / 1957 / 1968) itself maps the consolidation of the program. Primary source for this page: [[merton-social-theory-social-structure-1968]].
 
+[[douglas-mary|Mary Douglas]] dedicated *[[douglas-how-institutions-think-1986|How Institutions Think]]* (1986) to Merton and built its memory chapters on his sociology of science: the priority-dispute papers (1957; "Singletons and Multiples," 1962; "Resistance to the Study of Multiple Discoveries," 1963) and *On the Shoulders of Giants* (1965). Douglas argued Merton and [[evans-pritchard-e-e|Evans-Pritchard]] independently converged on one mechanism — the social system explains what gets remembered and forgotten ("which scientists and which ancestors get to be remembered is the same general question") — and generalized his "back-door" method of asking what is unthinkable rather than what is thought. See [[collective-memory]].
+
 ## Links
 
 - source: [[merton-social-theory-social-structure-1968]]

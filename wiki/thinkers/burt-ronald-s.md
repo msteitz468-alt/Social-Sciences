@@ -7,11 +7,11 @@ era: [critical-turn, contemporary]
 affiliated_theories: ["[[structural-holes-theory]]", "[[social-capital-theory]]", "[[network-analysis]]"]
 trained_under: ["[[unknown]]"]
 trained: ["[[unknown]]"]
-key_works: ["Toward a Structural Theory of Action (1982)", "[[burt-structural-holes-1992|Structural Holes: The Social Structure of Competition (1992)]]", "Brokerage and Closure (2005 — not yet ingested)"]
-key_concepts: ["[[structural-holes]]", "[[tertius-gaudens]]", "[[network-constraint]]", "structural autonomy"]
-fieldwork_sites: ["[[unknown]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+key_works: ["Toward a Structural Theory of Action (1982)", "[[burt-structural-holes-1992|Structural Holes: The Social Structure of Competition (1992)]]", "[[burt-brokerage-and-closure-2005|Brokerage and Closure: An Introduction to Social Capital (2005)]]"]
+key_concepts: ["[[structural-holes]]", "[[tertius-gaudens]]", "[[network-constraint]]", "[[structural-autonomy]]", "[[vision-advantage]]", "[[bandwidth-echo]]", "[[network-closure]]"]
+fieldwork_sites: ["corporate manager samples (US, France, Asia-Pacific — various client firms; supply-chain, investment banking, electronics)"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [thinker, sociology]
 ---
 
@@ -20,10 +20,10 @@ tags: [thinker, sociology]
 American sociologist; architect of the **[[structural-holes|structural-hole]]**
 theory of social capital and competition, and a leading figure in the
 quantitative, structural wing of social [[network-analysis]]. His
-*[[burt-structural-holes-1992|Structural Holes]]* (1992) supplies the wiki's
-first Burt primary. At the time of writing he directed a research program at
-Columbia University; his network apparatus is implemented in the software package
-STRUCTURE. This is the concise, network-oriented summary.
+*[[burt-structural-holes-1992|Structural Holes]]* (1992) and
+*[[burt-brokerage-and-closure-2005|Brokerage and Closure]]* (2005) are the
+wiki’s Burt primaries. His network apparatus is implemented in the software
+package STRUCTURE. This is the concise, network-oriented summary.
 
 ## Overview
 
@@ -49,9 +49,18 @@ his "escape from attributes."
   formal ego-network measures (redundancy, effective size, constraint,
   hierarchy) that operationalize the theory.
 - **Brokerage social capital** — the network-structural strand of
-  [[social-capital-theory|social-capital theory]], distinct from and often
-  opposed to [[social-capital-coleman|Coleman's]] closure account (see
+  [[social-capital-theory|social-capital theory]], distinct from and (in 1992)
+  often opposed to [[social-capital-coleman|Coleman's]] closure account; by 2005
+  reframed as **complement** via [[structural-autonomy]] (see
   [[closure-vs-brokerage-debate]]).
+- **[[vision-advantage|Vision advantage]]** — hypothesized active ingredient of
+  brokerage returns: hole-spanners at higher risk of good ideas and adaptive
+  implementation (*Brokerage and Closure* Ch. 2).
+- **[[bandwidth-echo|Bandwidth vs echo]]** — rival accounts of what
+  [[network-closure|closure]] does to information; Burt argues echo (amplified
+  trust *and* distrust; structural inertia) is the better model (Ch. 4).
+- **Four stylized facts** (2005) — brokers do better; vision mechanism; peak
+  performance at closure-within + brokerage-beyond; closure reinforces structure.
 - **The legitimacy contingency** ([[burt-structural-holes-study|manager study]])
   — the finding that returns to brokerage depend on the holder's status, paying
   off for those whose legitimacy is "taken for granted" and reversing for women
@@ -79,29 +88,31 @@ Burt's program draws the standing objections gathered on
 [[closure-vs-brokerage-debate]]: that brokerage returns are contingent (Burt
 himself documents the legitimacy reversal for women and entry-rank managers);
 that [[social-capital-coleman|Coleman]]'s **closure** — dense, redundant networks
-— can be the source of social capital that Burt's holes deny; and that the
-manager study's cross-sectional design cannot settle causal order (a limitation
-Burt concedes in his own Appendix B, proposing the "consolidation" counter-
-hypothesis and judging the evidence to favour, without proving, the
-brokerage-causes-promotion reading). His later synthesis (*Brokerage and
-Closure*, 2005 — not yet ingested) reframes the two as complementary. His applied
-orientation — the study is explicitly aimed at leadership development and
-consulting as well as theory — is part of his profile.
+— can be the source of social capital that Burt's holes deny; and that
+cross-sectional network data cannot settle causal order (conceded in 1992
+Appendix B; 2005 still largely correlational multi-sample). His
+*[[burt-brokerage-and-closure-2005|Brokerage and Closure]]* (2005) reframes
+brokerage and closure as complementary ([[structural-autonomy]]) while arguing
+closure’s [[bandwidth-echo|echo]] side is more dangerous than Coleman’s productive
+reading alone suggests. Production context: 2001 Clarendon Lectures; research
+often client-funded; Chicago GSB / INSEAD / Raytheon VP Strategic Learning mix
+noted in the 2005 Personal Note — corporate manager sampling is design, not
+accident. Applied orientation (leadership development, consulting) is part of
+his profile.
 
 ## Historiography
 
 No biography ingested. Disciplinary memory places *Structural Holes* among the
-foundational texts of contemporary network and economic sociology, and "structural
-holes" among the field's most-used concepts. This wiki's Burt node rests on **one
-source**; *Toward a Structural Theory of Action* (1982) and *Brokerage and
-Closure* (2005) remain queue items, as does Nan Lin's social-resources theory,
-the third leg of network social capital. A graduate-level Thinkers-Hub biography
-is plausibly warranted but is not built from a single primary source — flagged as
-a candidate.
+foundational texts of contemporary network and economic sociology; *Brokerage
+and Closure* is the standard synthesis that many cite for the complementarity
+thesis. This wiki’s Burt node rests on **two** primaries (1992, 2005);
+*Toward a Structural Theory of Action* (1982) and Nan Lin’s social-resources
+theory remain queue items. A graduate-level Thinkers-Hub biography is a
+candidate once the 1982 base is in.
 
 ## Links
 
-- source: [[burt-structural-holes-1992]] · study: [[burt-structural-holes-study]]
+- sources: [[burt-structural-holes-1992]] · [[burt-brokerage-and-closure-2005]] · study: [[burt-structural-holes-study]]
 - theory: [[structural-holes-theory]] · method: [[network-analysis]]
-- concepts: [[structural-holes]] · [[tertius-gaudens]] · [[network-constraint]] · [[organizational-broker]] (Small: organization-as-broker, distinct from individual structural-hole brokerage — see [[small-unanticipated-gains-study]])
+- concepts: [[structural-holes]] · [[tertius-gaudens]] · [[network-constraint]] · [[structural-autonomy]] · [[vision-advantage]] · [[network-closure]] · [[bandwidth-echo]] · [[organizational-broker]] (Small: organization-as-broker, distinct from individual structural-hole brokerage — see [[small-unanticipated-gains-study]])
 - debate: [[closure-vs-brokerage-debate]]

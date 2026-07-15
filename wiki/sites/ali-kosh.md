@@ -13,7 +13,7 @@ cultures: ["[[unknown]]"]
 excavated_by: ["Frank Hole", "Kent V. Flannery", "James A. Neely (Deh Luran program)"]
 excavation_years: ["1960s (Deh Luran plain project; final reports then in press as of Flannery 1969)"]
 key_finds: ["c. 45,000 carbonized seeds (~40 plant spp., Helbaek)", ">10,000 identifiable bones (~35 animal spp.)", "emmer, two-row hulled barley, goats, sheep", "wild legumes, gazelle, onager, aurochs, etc."]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [site, neolithic, near-east]
 ---
@@ -56,3 +56,13 @@ Domestic inventory (early phases): emmer wheat, two-row hulled barley, goats, sh
 ## Historiography
 
 Primary vault depth from Flannery 1969 in Ucko & Dimbleby; textbook mentions (W&O 2007) secondary. Full Deh Luran memoirs remain outstanding for specialist reanalysis.
+
+## Bellwood *First Farmers* densification (2005)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005.)*
+
+- Listed with early agricultural sites near good water (advantages comparable to Levant spring/lake/river loci).
+- By ~8000 BC (PPNB horizon in the Levant), Ali Kosh shows PPNB-like architecture and economies; goat herding; **claimed** sheep domestication (as of Bellwood’s synthesis).
+- Located on the dry **Deh Luran Plain** outside major wild cereal ranges — so agriculture **had to be introduced**, analogous (for Bellwood) to farming entering Europe and Egypt from outside primary homeland zones rather than purely local invention on the spot.
+
+Cross-links: [[flannery-kent-v]], [[early-farming-dispersal-hypothesis]], [[domestication]]. Source: [[bellwood-first-farmers-2005]].

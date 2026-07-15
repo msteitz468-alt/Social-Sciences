@@ -9,7 +9,7 @@ kinship_system: "ranked lineages / mata; segmentary ramage with Miru ariki-mau i
 documented_by: ["[[kirch-evolution-polynesian-chiefdoms-1984|Kirch 1984 (archaeological–ethnohistoric synthesis)]]"]
 documentation_dates: "Dutch contact 1722 (Roggeveen); Cook 1774; 19th-c. missionary and ethnographic records; archaeological sequences as of Kirch 1984"
 endonym_exonym_note: "Rapa Nui is the endonym for the island and people; 'Easter Island' / 'Easter Islanders' is the European exonym. This page documents the late prehistoric to early-contact social order as reconstructed in the archaeological and ethnohistoric literature Kirch synthesizes — not the living Rapa Nui community alone."
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [society, polynesia]
 ---
@@ -203,3 +203,17 @@ severe constraints (failed transfers, poor marine environment, no streams, low r
 barred most intensification paths → acute tension and late social/political disintegration
 (**position**). Hierarchy and surplus demand were ancestral; Easter chiefs hit ecological
 limits after mobilizing multi-ton monuments.
+
+## Update: *On the Road of the Winds* (Kirch 2017)
+
+*(Attributed — [[kirch-road-of-the-winds-2017|Kirch 2017]].)* Kirch's later synthesis
+revises Rapa Nui settlement to roughly **AD 1000–1100** (Anakena AMS dates), later than
+his 1984-era estimate above and still earlier than Hunt and Lipo's proposed ~AD 1200 —
+an unresolved dating question. He periodizes the sequence as an **Ahu Moai Period**
+(~AD 1100–1500: statue quarrying at Rano Raraku, some 245 *ahu* and 324 moai) followed by
+a **Huri Moai Period** (~AD 1500–1722: endemic warfare, obsidian *mataʻa* points, the
+birdman/*tangata manu* cult at Orongo), alongside documented deforestation and seabird
+decline. He treats rongorongo script as a likely proto-historic invention rather than an
+ancient system. On the island's trajectory Kirch takes an **intermediate position** —
+neither a pristine, undisturbed society nor a total pre-contact societal collapse — a
+reading that bears directly on the [[rapa-nui-collapse-debate]].

@@ -7,7 +7,7 @@ date_introduced: "1949 (first dates); monograph 1952 (2nd ed. 1955)"
 supersedes: ["[[unknown]]"]
 epistemic_leverage: "Absolute (not merely relative) chronology for organic material, independent of stylistic seriation or textual synchronism; the first method to let archaeology test diffusionist narratives against a fixed clock usable worldwide to roughly 50,000 years."
 key_limitations: "Usable only to roughly 50,000 years before present (C-14 half-life limits resolution beyond several half-lives); requires organic material with datable carbon; raw dates must be calibrated against tree-ring and other records to convert to calendar years; sample contamination, reservoir effects (marine, hard-water), and sample≠event mismatches dominate errors; conventional ages use the [[libby-half-life]] scale, not the physical half-life alone."
-sources_ingested: 13
+sources_ingested: 15
 last_updated: 2026-07-10
 tags: [method]
 ---
@@ -206,3 +206,20 @@ Roberts frames radiocarbon as the backbone of Holocene chronology: since Willard
 - **Radiocarbon revolution restated for steppe work:** Libby 1949 ended reliance on Near Eastern stylistic cross-dating for European prehistory; AMS and mandatory calibration were the major post-1949 refinements and slowed Soviet reception until revisions became unavoidable (R2-066–067). After 1991, CIS dating programs and lower error rates overthrew many older chronologies, including relationships in Anthony’s own 1985 dissertation (R2-069).
 - **Freshwater reservoir effect (steppe-critical):** Old dissolved carbon in river water is absorbed by fish and then by heavy fish-eaters. High **¹⁵N** in human bone signals substantial aquatic diet; steppe cemeteries often show fish ~50% of meat diet even among cattle herders. Human-bone ¹⁴C dates can come out **100–500 radiocarbon years too old** relative to charcoal or herbivore bone from the same grave (R2-068; R5-080). Anthony applies a preliminary Bonsall–Cook-style linear ¹⁵N correction when series rest mainly on human bone, always warning in text; tables list uncorrected BP/BCE (R5-080). Worked example: DDII dates on human bone with average ¹⁵N 11.8% (~50% fish meat); after correction, oldest DDII graves at Yasinovatka and Dereivka ~5200–5000 BCE (R3-037).
 - **Implication:** For Pontic-Caspian cemetery chronologies, **sample type** (human bone vs charcoal/herbivore) and diet are first-order reliability facts — same severity class as marine reservoir offsets already noted (Renfrew & Bahn marine curve; Libby hard-water lakes).
+
+## Pacific chronometric hygiene and AMS (Kirch 2017)
+
+*(Attributed — [[kirch-road-of-the-winds-2017|Kirch 2017]].)* Kirch dates the first Pacific radiocarbon determination to 1951: a sample from Kuliʻouʻou rockshelter, Oʻahu, returning AD 1004 ± 180 — a date that, uncorrected for the region's "old wood"/in-built-age problem (long-lived driftwood and heartwood charcoal dated well before the cultural event that burned it), helped inflate early East Polynesian settlement chronologies for decades. Kirch credits "**chronometric hygiene**" (Spriggs & Anderson 1993) — screening dates for material, context, and standard error — together with AMS dating of small, taxonomically identified short-lived samples (seed, twig, or annual-plant charcoal rather than unidentified wood) as the methodological shift that produced the current East Polynesian **short chronology** (see [[pacific-settlement-chronology-debate]]). He also flags routine marine-reservoir correction for shell/marine samples, and reports U/Th (uranium-thorium) dating of coral abraders and branch-coral temple offerings — precise to roughly ±2 years — as an independent, non-radiocarbon check applied at Nukuleka (Tonga) and at Hawaiian and Society Islands temple sites. See [[pacific-settlement-chronology-debate]].
+
+## Bellwood *First Farmers* densification (2005)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005; method-in-use cautions for early farming chronologies.)*
+
+- **Epistemic role:** Archaeology’s advantage over pure linguistic reconstruction is evidence created at the time in question, often absolutely dated by radiocarbon or other methods (Bellwood’s framing).
+- **AMS on short-lived plant remains:** Abu Hureyra domesticated rye — three grains AMS-dated as early as 10,700 BC (as of Bellwood 2005 synthesis); SE Asian rice cases (Gua Sireh grain in sherd ~2300 BC; Andarayan husks ~1600 BC) and Denham et al. 2003 re-dating of Kuk ditch networks as examples of AMS-driven revision.
+- **Calibration plateaux and PPNA tempo:** Available C14 dates for PPNA overlap heavily ~10,000–9000 BC; radiocarbon calibration **“plateau”** prevents chronological precision, so single-region origin vs multi-area contemporaneous development is hard to decide on dates alone.
+- **European earliest-Neolithic synthesis:** Gkiasta et al. 2003 radiocarbon synthesis is central to Bellwood’s tempo argument — Mesolithic side-by-side with Neolithic for centuries in parts of western Europe (S/C France, Portugal, Britain, Ireland).
+- **Association hygiene (South Asia caution):** Koldihwa claimed rice/cord-marked pottery C14 to 6500 BC largely rejected for Neolithic association (Mahagara 2nd millennium BC; consensus dates do not relate to Neolithic material — Dhavalikar, Glover & Higham; accepted by Chakrabarti 1999): sample ≠ event / wrong cultural association.
+- **Proxy misuse:** Hawaiian population curves using the distribution of habitation radiocarbon dates as a demographic proxy — long tail older than AD 1000 mostly old wood; European-contact disease fall-off (Bellwood’s Fig. 2.1 caveats).
+
+Source: [[bellwood-first-farmers-2005]].

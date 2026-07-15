@@ -7,9 +7,9 @@ disciplines: [medical-anthropology, anthropology, sociology, public-health]
 emic_or_etic: etic
 operationalized_as: "the social, economic, and political arrangements (poverty, racism, gender inequality) that constrain agency and become embodied as differential risk of disease, injury, and premature death"
 contested: yes
-related_concepts: ["[[everyday-violence]]", "[[symbolic-violence]]", "[[immodest-claims-of-causality]]", "[[embodiment]]", "[[social-death]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[everyday-violence]]", "[[symbolic-violence]]", "[[immodest-claims-of-causality]]", "[[embodiment]]", "[[social-death]]", "[[pragmatic-solidarity]]", "[[liberation-theology]]"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -28,11 +28,13 @@ mental realizations are below their potential realizations."
 
 ## Semantic History
 
-The concept migrated from peace studies into liberation theology (the "institutionalized violence" of
-the Medellín conference, 1968) and then, decisively for this wiki's coverage, into
-[[medical-anthropology|medical anthropology]] through **[[farmer-paul|Paul Farmer]]**, who made it the
-organizing frame of *[[farmer-infections-inequalities-1999|Infections and Inequalities]]* (1999) and
-*Pathologies of Power* (2003). Farmer's reworking (attributed) narrows and sharpens Galtung's broad
+The concept migrated from peace studies into [[liberation-theology|liberation theology]] (the
+"institutionalized violence" of the Medellín conference, 1968; "structural sin") and then, decisively
+for this wiki's coverage, into [[medical-anthropology|medical anthropology]] through
+**[[farmer-paul|Paul Farmer]]**, who made it the organizing frame of
+*[[farmer-infections-inequalities-1999|Infections and Inequalities]]* (1999) and
+*[[farmer-pathologies-of-power-2003|Pathologies of Power]]* (2003). Farmer credited the term's origin
+to "liberation theologians and scholars such as Johan Galtung" writing "at about the same time." Farmer's reworking (attributed) narrows and sharpens Galtung's broad
 usage into a claim about *disease*: "The sickness of [the poor] is a result of structural violence:
 neither culture nor pure individual will is at fault; rather, historically given (and often
 economically driven) processes and forces conspire to constrain individual agency. Structural violence
@@ -72,6 +74,22 @@ poor" — from the [[do-kay|Péligre dam]] to her migration to the city to her i
 - Structural violence is also invoked to explain why direct violence accompanies inequality (mass
   incarceration, death squads, police brutality) — extreme inequality, on this view, "requires" other
   forms of violence to maintain the status quo (see [[everyday-violence]]).
+
+### The human-rights extension (*Pathologies of Power*, 2003)
+
+In *[[farmer-pathologies-of-power-2003|Pathologies of Power]]* Farmer argued (attributed) that the
+same structural forces that determine who gets sick also determine who suffers human rights
+abuses — that abuses are "symptoms of deeper pathologies of power," and that violations of social and
+economic rights *permit* violations of civil and political rights. He anchored the claim in two
+paired case histories from Haiti's Central Plateau, both presented as "modal" rather than anecdotal:
+**Acéphie Joseph**, a young peasant woman displaced (with her family) by the 1956 Péligre dam, who
+entered a survival relationship with a soldier and died of AIDS in 1991; and **Chouchou Louis**, a
+young peasant man tortured to death by the military in January 1992 after a veiled critical remark,
+in the aftermath of the 1991 coup against Aristide. Farmer argued the same historical forces
+(displacement, militarization, a U.S.-created army) produced both deaths — one by disease, one by
+torture. Because such abuses are patterned no more randomly than disease, he held, resocializing
+disciplines (anthropology, sociology, history) are needed to interpret them, and mere documentation
+must be joined to [[pragmatic-solidarity|pragmatic solidarity]].
 
 ## Critiques and Limitations
 

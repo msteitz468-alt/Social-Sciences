@@ -15,8 +15,8 @@ core_claims:
 developed_from: ["[[social-evolutionism]]", "associationist psychology", "comparative philology/classics"]
 competes_with: ["Durkheimian sociology of religion", "Malinowskian functionalism", "Boasian historical particularism", "later symbolic and cognitive programs"]
 status: abandoned
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [theory, anthropology]
 ---
 
@@ -56,6 +56,7 @@ Comparative catalogue of magic, taboo, kingship, and vegetation ritual worldwide
 - **Durkheimian:** religion is social, not individual philosophy (*Elementary Forms*).
 - **Evans-Pritchard:** "If I were a horse" reasoning; internal rationality of belief systems (Azande).
 - **Dying-god critique:** single-type construct fails under closer case analysis (J.Z. Smith et al.).
+- **Marett's emotionalist/voluntarist critique** (attributed — [[stocking-after-tylor-1995|Stocking, *After Tylor*]], 1995): [[marett-r-r|R. R. Marett]]'s 1904 *Folk-Lore* essay charged that Frazer's "purely analytical method" smuggled a "pseudo-genetic guise" into what were really classificatory categories, reifying magic and religion as historical stages, and that Frazer's rationalism committed "the psychologist's fallacy" — imputing the observer's own reasoning to "the mind under observation." Marett's positive alternative held that "theory grew out of practice, rather than the other way about": magic originates as emotional, cathartic, "imperative willing" (the spell as a "spiritual projectile") rather than as mistaken applications of the association of ideas — an explicit "will to believe" (James) counter-account to Frazer's and Tylor's association-of-ideas intellectualism. This is the clean theory-vs-critique pair for the intellectualist program's first serious internal challenger; see [[animatism]].
 
 ## Current Status
 

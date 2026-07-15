@@ -9,7 +9,7 @@ region: [global-north, global-south]
 measured_by: ["Legal definition (1948 UN Genocide Convention: acts intended to destroy, in whole or in part, a national/ethnic/racial/religious group)", "Raphael Lemkin's 1944 coinage", "death tolls and victim-group demography", "typologies distinguishing genocide from politicide, ethnic cleansing, and communal massacre"]
 driven_by: ["state monopoly of violence emancipated from social control (attributed: Bauman)", "social-engineering / 'gardening' design ambitions (attributed: Bauman)", "bureaucratic-administrative capacity (attributed: Bauman)", "racism and eliminationist ideology (attributed: Goldhagen and others)", "war and communal antagonism"]
 produces: ["destruction of targeted groups", "displacement and diaspora", "hereditary/transmitted victimhood (attributed: Bauman 2000)"]
-theorized_by: ["[[bauman-zygmunt]]"]
+theorized_by: ["[[bauman-zygmunt]]", "[[appadurai-arjun]]"]
 key_studies: ["[[bauman-modernity-holocaust-1989]]"]
 sources_ingested: 1
 last_updated: 2026-07-09
@@ -40,6 +40,7 @@ Bauman's theorization (attributed voice; a contested framework, not a wiki-voice
 - **Bauman (modernity thesis):** genocide is a latent possibility of modern rationality, bureaucracy, and design ambition — not a regression.
 - **Ideology/antisemitism-centred accounts (e.g. Goldhagen):** genocide is driven by eliminationist belief specific to a culture, not by generic modern organization.
 - **Perennialist accounts:** mass killing is a trans-historical feature of human communal life that modernity failed to suppress but did not cause.
+- **Appadurai (majoritarian/globalization thesis, 2006):** genocide grows from the [[anxiety-of-incompleteness]] — the gap between a census-made numerical majority and the fantasy of a pure national ethnos — mobilized into [[predatory-identity|predatory identities]]; all majoritarianisms "have in them the seeds of genocide," and globalization (migration, mediated hybridity, illicit finance) intensifies the fear that majority and minority may trade places. See [[appadurai-fear-of-small-numbers-2006]].
 
 These positions are recorded in full on [[holocaust-and-modernity-debate]].
 

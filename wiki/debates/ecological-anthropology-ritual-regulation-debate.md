@@ -9,9 +9,9 @@ positions:
   - "Nutritional/empirical reanalysis (McArthur line and related): protein/pork adaptive payoffs and kaiko-as-stress-amelioration are empirically weak; prestige/waste readings compete"
   - "Culturalist/interpretive (Sahlins practical-reason currents and allies): subordinating ritual to ecological function reduces culture to feedback; meaning and symbolic order are primary"
   - "Units/isolation critique (Ellen, Bennett, and others): ecosystem boundaries, closed-system assumptions, and underplayed social/political factors undermine the operational model"
-key_texts: ["[[rappaport-pigs-for-the-ancestors-1968|Rappaport, Pigs for the Ancestors (1968; Epilogue 1984)]]", "Critiques answered in 1984 Epilogue and App. 11 (Friedman, Sahlins, McArthur, Bennett, Ellen, Burnham, Peoples, Orlove, Buchbinder/Wood, et al.)"]
+key_texts: ["[[rappaport-pigs-for-the-ancestors-1968|Rappaport, Pigs for the Ancestors (1968; Epilogue 1984)]]", "[[rappaport-ecology-meaning-religion-1979|Rappaport, Ecology, Meaning, and Religion (1979) — esp. Ills of Functionalism; On Cognized Models; Adaptive Structure]]", "Critiques answered in EMR 1977/1979 and 1984 Epilogue and App. 11 (Friedman, Sahlins, McArthur, Bennett, Ellen, Burnham, Peoples, Orlove, Buchbinder/Wood, et al.)"]
 resolution_status: open
-last_updated: 2026-07-09
+last_updated: 2026-07-10
 tags: [debate]
 ---
 
@@ -19,19 +19,19 @@ tags: [debate]
 
 ## Shared Factual Ground (framed per side)
 
-- [[rappaport-roy-a|Rappaport]] conducted fieldwork among the [[tsembaga]] (**Oct 1962–Dec 1963**) and published *[[rappaport-pigs-for-the-ancestors-1968|Pigs for the Ancestors]]* (Yale 1968; enlarged 1984).
-- The book advances a **systems-ecology** analysis of the Maring ritual cycle ([[kaiko]], *rumbim*) as regulating ecological and regional relations ([[ritual-regulation]]).
-- A large critical literature (late 1960s–early 1980s) challenged functional, nutritional, unit, and theoretical claims; Rappaport answered at length in the **1984 Epilogue** and **Appendix 11** (nutrition). He notes a 1981–82 return visit but does not replace the 1962–63 ethnography.
+- [[rappaport-roy-a|Rappaport]] conducted fieldwork among the [[tsembaga]] (**Oct 1962–Dec 1963**) and published *[[rappaport-pigs-for-the-ancestors-1968|Pigs for the Ancestors]]* (Yale 1968; enlarged 1984) and the essay collection *[[rappaport-ecology-meaning-religion-1979|Ecology, Meaning, and Religion]]* (1979).
+- *Pigs* advances a **systems-ecology** analysis of the Maring ritual cycle ([[kaiko]], *rumbim*) as regulating ecological and regional relations ([[ritual-regulation]]).
+- A large critical literature (late 1960s–early 1980s) challenged functional, nutritional, unit, and theoretical claims. Rappaport's major **pre-1984** reply to Friedman is "Ecology, Adaptation, and the Ills of Functionalism" (MDA 1977; expanded EMR 1979, §§IV and X added for the collection). He answered again at length in the **1984 Epilogue** and **Appendix 11** (nutrition). He notes a 1981–82 return visit but does not replace the 1962–63 ethnography.
 
 This page records **positions**, not a wiki-voice verdict.
 
 ## Position 1 — Ritual as regulation (Rappaport)
 
-**Strongest form:** Ritual actions can produce practical results on the external world (contra Homans-style internal-only functionalism). Among the Tsembaga the multi-year cycle culminating in the kaiko keeps people–pig–garden relations, fallow, and warfare timing within viable ranges; it also articulates local ecosystems with a regional system of alliance, enmity, and exchange. Actors' [[cognized-model]] (ancestors, red spirits, debts) need not *intend* homeostasis for [[operational-model]] regulation to obtain — regulation is often a **latent function** (Merton). Ecological rationality is distinct from individual economic rationality; sanctity and hierarchical value structure the cognized model. In 1984 Rappaport refines dual models (reference values vs goal ranges), multiphasic regulation, and formal vs final cause, and partially concedes earlier homeostat logical errors while defending systemic analysis.
+**Strongest form:** Ritual actions can produce practical results on the external world (contra Homans-style internal-only functionalism). Among the Tsembaga the multi-year cycle culminating in the kaiko keeps people–pig–garden relations, fallow, and warfare timing within viable ranges; it also articulates local ecosystems with a regional system of alliance, enmity, and exchange. Actors' [[cognized-model]] (ancestors, red spirits, debts) need not *intend* homeostasis for [[operational-model]] regulation to obtain — regulation is often a **latent function** (Merton). Ecological rationality is distinct from individual economic rationality; [[sanctity]] and hierarchical value structure the cognized model ([[ultimate-sacred-postulates]]). In EMR (1977/1979) and 1984 Rappaport refines dual models (reference values vs goal ranges), multiphasic regulation, formal vs final cause, population-as-unit vs Stewardian cultural ecology, and hierarchical [[adaptive-structure]]; he partially concedes earlier homeostat logical errors while defending systemic analysis and rejecting economism of ritual.
 
 ## Position 2 — Functionalist / teleology critique
 
-**Strongest form (Friedman and related):** Explaining institutions by systemic effects smuggles purpose into ecosystems; negative-feedback talk can be misapplied when populations sit well below [[carrying-capacity]]; alternative political and historical explanations of warfare and feasting are under-developed. "Homeostat" language over-coheres contingent social process. Rappaport's 1984 text **records and partly accepts** the charge that some 1968 homeostat formulations were logically faulty, while rejecting the conclusion that systemic analysis is impossible or that ecological anthropology is mere "vulgar materialism."
+**Strongest form (Friedman and related):** Explaining institutions by systemic effects smuggles purpose into ecosystems; the ecological anthropology of Vayda/Rappaport (and, "in a more obvious way," Harris's cultural materialism) is a species of **vulgar materialism**; "new functionalism" is the old functionalism reapplied to environments rather than internal social elements; negative-feedback talk can be misapplied when populations sit well below [[carrying-capacity]]; alternative political and historical explanations of warfare and feasting are under-developed. "Homeostat" language over-coheres contingent social process. Rappaport's EMR "Ills of Functionalism" and 1984 Epilogue **record and partly accept** the charge that some 1968 homeostat formulations were logically faulty, while rejecting the conclusion that systemic analysis is impossible or that ecological anthropology is mere vulgar materialism; he also distinguishes formal from final cause and argues ecosystems can be self-regulating without smuggled purpose.
 
 ## Position 3 — Empirical / nutritional reanalysis
 
@@ -53,5 +53,6 @@ This page records **positions**, not a wiki-voice verdict.
 
 - Study: [[rappaport-pigs-for-the-ancestors-study]] · Hub: [[hubs/studies/rappaport-pigs-for-the-ancestors-study]]
 - Thinker: [[rappaport-roy-a]] · Society: [[tsembaga]]
-- Concepts: [[ritual-regulation]] · [[cognized-model]] · [[operational-model]] · [[kaiko]] · [[carrying-capacity]]
+- Concepts: [[ritual-regulation]] · [[cognized-model]] · [[operational-model]] · [[kaiko]] · [[carrying-capacity]] · [[adaptive-structure]] · [[sanctity]] · [[ultimate-sacred-postulates]] · [[liturgical-order]]
 - Theory: [[cultural-ecology]] · Method: [[cultural-ecological-method]]
+- Source (1979 essays): [[rappaport-ecology-meaning-religion-1979]]

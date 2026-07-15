@@ -7,9 +7,9 @@ disciplines: [anthropology, comparative-religion]
 emic_or_etic: migrated
 operationalized_as: "person, animal, or object onto which evils are transferred and then expelled or destroyed"
 contested: yes
-related_concepts: ["[[taboo]]", "[[divine-king]]", "[[dying-and-rising-god]]", "[[sympathetic-magic]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[taboo]]", "[[divine-king]]", "[[dying-and-rising-god]]", "[[sympathetic-magic]]", "[[desacralization]]", "[[sacrifice]]"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -30,6 +30,10 @@ Frazer's matrix: vehicle of evil (object/animal/person) × timing (occasional/pe
 ## Applications
 
 Comparative religion; ritual theory; political metaphor; literary use.
+
+### Hubert & Mauss on expulsion (1898; attributed)
+
+In *[[hubert-mauss-sacrifice-1898|Sacrifice]]* Hubert and Mauss treat scapegoat-type rites (Azazel goat; elimination of impurity onto a victim that is expelled or destroyed) as **[[desacralization]]** rearrangements of the unitary sacrificial scheme, not as a separate origin of all sacrifice. They credit Frazer's work on the god-sacrifice and scapegoat lines while rejecting the Smith–Frazer move of reducing all sacrificial forms to one arbitrarily chosen principle (totemic communion or expulsion). See [[hubert-mauss-sacrifice-study]].
 
 ## Critiques and Limitations
 

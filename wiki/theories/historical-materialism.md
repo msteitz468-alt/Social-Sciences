@@ -5,7 +5,7 @@ disciplines: [sociology, political-economy, anthropology, archaeology]
 era_origin: [founding-era]
 date_origin: 1848
 originated_by: ["[[marx-karl]]", "[[engels-friedrich]]"]
-key_texts: ["[[marx-engels-communist-manifesto-1848|The Communist Manifesto (1848)]]", "[[marx-eighteenth-brumaire-1852|The Eighteenth Brumaire of Louis Bonaparte (1852)]]", "[[marx-capital-volume-1-1867|Capital, Volume I (1867)]]", "[[engels-origin-of-the-family-1884|The Origin of the Family, Private Property and the State (1884/1891)]]"]
+key_texts: ["[[marx-engels-communist-manifesto-1848|The Communist Manifesto (1848)]]", "[[marx-eighteenth-brumaire-1852|The Eighteenth Brumaire of Louis Bonaparte (1852)]]", "[[marx-capital-volume-1-1867|Capital, Volume I (1867)]]", "[[engels-origin-of-the-family-1884|The Origin of the Family, Private Property and the State (1884/1891)]]", "[[lukacs-history-and-class-consciousness-1923|History and Class Consciousness (Lukács, 1923) — Western-Marxist method charter]]", "[[althusser-for-marx-1965|Althusser, For Marx (1965) — structural-Marxist rereading]]"]
 core_claims:
   - "Marx and Engels argue that the history of all hitherto existing societies is the history of class struggles"
   - "They hold that the mode of production of material life conditions the social, political, and intellectual life-process — the economic 'base' shapes the 'superstructure'"
@@ -16,10 +16,11 @@ core_claims:
   - "Marx argues (Capital I) that capital’s law of motion is accumulation via surplus-value, rising organic composition, and a relative surplus population"
   - "Marx reconstructs capital’s historical origin as primitive accumulation — expropriation — not thrift"
   - "Engels argues (Origin) that history is dual production of means of life and of human beings; kinship dominates at low productivity; private property, monogamy, and the state arise together with class society; the state will wither when classes end"
+  - "Althusser argues (For Marx) that mature HM is a science of social formations after an epistemological break with humanist anthropology; contradiction is overdetermined; economy determinant in the last instance with relative autonomy of superstructures"
 developed_from: ["[[unknown]]", "[[morgan-lewis-henry]] (prehistoric reconstruction via Engels Origin)"]
-competes_with: ["[[positivism]]", "[[protestant-ethic-thesis]]", "[[social-evolutionism]] (adjacent stage-theory family; different motor)", "[[conflict-theory]] (Dahrendorf: authority not property as class basis; rejects revolutionary teleology)", "[[world-systems-analysis]] (related but unit = world-economy not national mode of production alone)", "[[cultural-materialism]] (Harris: keeps materialist strategy, rejects dialectic and revolutionary epistemology)"]
+competes_with: ["[[positivism]]", "[[protestant-ethic-thesis]]", "[[social-evolutionism]] (adjacent stage-theory family; different motor)", "[[conflict-theory]] (Dahrendorf: authority not property as class basis; rejects revolutionary teleology)", "[[world-systems-analysis]] (related but unit = world-economy not national mode of production alone)", "[[cultural-materialism]] (Harris: keeps materialist strategy, rejects dialectic and revolutionary epistemology)", "[[iemp-model]] (Mann: rejects class-as-general-motor and last-instance economic primacy)"]
 status: contested
-sources_ingested: 9
+sources_ingested: 12
 last_updated: 2026-07-10
 tags: [theory, sociology, political-economy, anthropology]
 ---
@@ -114,6 +115,7 @@ text.
 - [[marx-eighteenth-brumaire-1852|*The Eighteenth Brumaire of Louis Bonaparte*]] (1852) — class-political case study of France 1848–51; state, fractions, peasantry; study [[marx-eighteenth-brumaire-study]].
 - [[marx-capital-volume-1-1867|*Capital*, Volume I]] (1867) — scientific critique of political economy; study analysis [[marx-capital-volume-1-study]].
 - [[engels-origin-of-the-family-1884|*Origin of the Family, Private Property and the State*]] (1884/1891) — kinship, gens, private property, state origin; Morgan + Marx précis + Engels economics. The 1859 *Preface* proper still not ingested.
+- [[althusser-louis|Louis Althusser]], *[[althusser-for-marx-1965|For Marx]]* (1965) — structural-Marxist rereading: [[epistemological-break]], [[overdetermination]], [[structure-in-dominance]], [[theoretical-anti-humanism]]; program page [[structural-marxism]]. *Reading Capital* not yet primary-ingested.
 
 ## Empirical Program
 
@@ -138,6 +140,10 @@ study of society scientific and law-governed, but locates the motor of change in
 conflict rather than in the intellectual evolution of the [[law-of-three-stages|three
 stages]].
 
+### Althusserian method commitments (*For Marx*, attributed)
+
+*(Attributed — Althusser.)* HM is the **science of [[social-formation|social formations]]**, produced by an [[epistemological-break]] with ideological theoretical practice; dialectical materialism is Theory of practice ([[theoretical-practice]], Generalities I–II–III). Contradiction is always [[overdetermination|overdetermined]]; analysis uses [[structure-in-dominance]] (last-instance economic determination + relative autonomy of superstructures). Refuses humanist anthropology as theoretical foundation ([[theoretical-anti-humanism]]; [[marxist-humanism-debate]]).
+
 ## Critiques and Responses
 
 - **Failed predictions.** The immiseration and polarization theses, and the timetable of
@@ -158,6 +164,8 @@ stages]].
   economic sociology, world-systems analysis, and archaeology (the materialist reading of
   social change).
 - **The culturalist critique (Sahlins).** [[sahlins-marshall|Marshall Sahlins]] (*[[sahlins-culture-and-practical-reason-1976|Culture and Practical Reason]]*, 1976; *[[sahlins-islands-of-history-1985|Islands of History]]*, 1985 — attributed) argues that no cultural form can be read off from "material forces," because "the form of social existence of material force is determined by its integration in the cultural system": the very category "[[mode-of-production]]" presupposes a symbolic scheme, and "practical reason" is itself a culturally specific (bourgeois) construction (see [[practical-reason]], [[la-pensee-bourgeoise]]). He directs this specifically against anthropological [[structural-marxism]] (Althusser, Godelier, Terray) and against Hindess and Hirst, while crediting the "anthropological" young Marx with recognizing the trap. Sahlins insists this is not idealism — material forces have real effects — but that their social *form* cannot be deduced from their material nature.
+- **Mann — against class as general motor / last-instance primacy (1986, attributed).** [[mann-michael|Michael Mann]] (*[[mann-sources-of-social-power-vol1-1986|Sources of Social Power, Vol. I]]*) rejects both unitary "society" and reduction "in the last instance" to the mode of material production: because there is no closed social system, there cannot be ultimate determination by a systemic property. Classes, he holds, are important but not "the motor of history"; economic power is one of four overlapping organizational sources ([[iemp-model|IEMP]]), and class organizing power varies with the tightness of intensive production and extensive exchange circuits (latent / extensive / symmetrical / political class structures). Position recording against classical historical-materialist primacy claims, not a wiki-voice refutation of class analysis.
+- **Lukács 1923 — method, totality, reification (attributed; Western-Marxist charter).** [[lukacs-georg|Georg Lukács]] (*[[lukacs-history-and-class-consciousness-1923|History and Class Consciousness]]*) reconstructs historical materialism as **method** (orthodoxy ≠ dogmatic results), centres [[concrete-totality|concrete totality]] against revisionist “facts,” and generalises Marx’s [[commodity-fetishism]] into a theory of [[reification]] of capitalist society as a whole. He argues the decisive difference from bourgeois science is the point of view of totality (not only economic primacy) — a claim he later (1967) calls a Hegelian distortion that underplayed economic priority and labour as metabolism of society and nature. Related dispute: [[lukacs-dialectics-of-nature-debate]]. See also [[western-marxism]], [[class-consciousness]], [[imputed-class-consciousness]].
 
 ## Current Status
 

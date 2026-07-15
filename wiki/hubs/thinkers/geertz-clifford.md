@@ -5,18 +5,18 @@ date_birth: "1926-08-23"
 date_death: "2006-10-30"
 date_precision: exact
 disciplines: [anthropology, sociology]
-key_works: ["[[geertz-religion-of-java-1960|The Religion of Java (1960)]]", "[[geertz-agricultural-involution-1963|Agricultural Involution (1963)]]", "Peddlers and Princes (1963)", "The Social History of an Indonesian Town (1965)", "[[geertz-interpretation-of-cultures-1973|The Interpretation of Cultures (1973)]]", "Negara (1980)", "[[geertz-local-knowledge-1983|Local Knowledge (1983)]]", "Works and Lives (1988)"]
+key_works: ["[[geertz-religion-of-java-1960|The Religion of Java (1960)]]", "[[geertz-agricultural-involution-1963|Agricultural Involution (1963)]]", "[[geertz-peddlers-princes-1963|Peddlers and Princes (1963)]]", "The Social History of an Indonesian Town (1965)", "[[geertz-interpretation-of-cultures-1973|The Interpretation of Cultures (1973)]]", "Negara (1980)", "[[geertz-local-knowledge-1983|Local Knowledge (1983)]]", "Works and Lives (1988)"]
 key_concepts: ["abangan-santri-prijaji", "slametan", "agricultural involution", "shared poverty", "thick description", "culture as webs of significance", "models of / models for", "blurred genres", "experience-near / experience-distant", "religion as a cultural system", "deep play", "ideology as a cultural system", "local knowledge / legal sensibility"]
 fieldwork_sites: ["Modjokuto, Java (1952-1954)", "Bali (1950s, 1965-66 return visits)", "Sefrou, Morocco (1960s-70s)"]
-primary_sources: ["[[geertz-religion-of-java-1960]]", "[[geertz-agricultural-involution-1963]]", "[[geertz-interpretation-of-cultures-1973]]", "[[geertz-local-knowledge-1983]]"]
-key_sources: ["[[geertz-religion-of-java-1960]]", "[[geertz-agricultural-involution-1963]]", "[[geertz-interpretation-of-cultures-1973]]", "[[geertz-local-knowledge-1983]]", "Sewell Logics of History engagement", "Swidler Talk of Love foil"]
+primary_sources: ["[[geertz-religion-of-java-1960]]", "[[geertz-agricultural-involution-1963]]", "[[geertz-peddlers-princes-1963]]", "[[geertz-interpretation-of-cultures-1973]]", "[[geertz-local-knowledge-1983]]"]
+key_sources: ["[[geertz-religion-of-java-1960]]", "[[geertz-agricultural-involution-1963]]", "[[geertz-peddlers-princes-1963]]", "[[geertz-interpretation-of-cultures-1973]]", "[[geertz-local-knowledge-1983]]", "Sewell Logics of History engagement", "Swidler Talk of Love foil"]
 last_updated: 2026-07-10
 tags: [hub, thinker-analysis]
 ---
 
 # Clifford Geertz — Intellectual Biography (Hub)
 
-> Thinkers Hub deep analysis. Summary: [[geertz-clifford]]. Primary sources ingested: *[[geertz-religion-of-java-1960|Religion of Java]]* (1960); *[[geertz-agricultural-involution-1963|Agricultural Involution]]* (1963); *[[geertz-interpretation-of-cultures-1973|The Interpretation of Cultures]]* (1973); *[[geertz-local-knowledge-1983|Local Knowledge]]* (1983). See [[interpretive-anthropology]] and [[hubs/studies/geertz-deep-play-study|Deep Play Studies Hub]] where those pages exist. *Negara* and *Works and Lives* remain outstanding — flagged throughout as not-yet-ingested rather than filled from memory.
+> Thinkers Hub deep analysis. Summary: [[geertz-clifford]]. Primary sources ingested: *[[geertz-religion-of-java-1960|Religion of Java]]* (1960); *[[geertz-agricultural-involution-1963|Agricultural Involution]]* (1963); *[[geertz-peddlers-princes-1963|Peddlers and Princes]]* (1963); *[[geertz-interpretation-of-cultures-1973|The Interpretation of Cultures]]* (1973); *[[geertz-negara-1980|Negara]]* (1980); *[[geertz-local-knowledge-1983|Local Knowledge]]* (1983). See [[interpretive-anthropology]], [[hubs/studies/geertz-deep-play-study|Deep Play Studies Hub]], and [[hubs/studies/geertz-negara-study|Negara Studies Hub]]. *Works and Lives* and *Social History of an Indonesian Town* remain outstanding — flagged rather than filled from memory.
 
 **Analysis standard:** works timeline · concepts matrix · verbatim primary quotation with analysis · empirical base examined critically · nine canonical sections. All interpretive claims are in **attributed voice**; reception items drawn from general disciplinary knowledge rather than an ingested source are explicitly flagged as such.
 
@@ -53,7 +53,7 @@ University of Chicago; the Committee for the Comparative Study of New Nations (E
 
 ### 3. Institute for Advanced Study and the interpretive turn (1970- )
 
-From 1970, Geertz holds a permanent position in the School of Social Science he helped found at the **Institute for Advanced Study, Princeton**. *The Interpretation of Cultures* (1973) collects and crystallizes the semiotic program: [[thick-description|thick description]], culture as "webs of significance," and the "model of / model for" formula, alongside the essays on religion, ideology, and the Balinese cockfight ("Deep Play"). *Negara* (1980, not yet ingested here) extends the program to Balinese kingship as theater-state. *Local Knowledge* (1983) — now primary-ingested — is the decade-later sequel: it names "the refiguration of social thought," defends understanding-via-symbolic-forms over empathy through the [[experience-near-experience-distant|experience-near/experience-distant]] distinction, and extends the semiotic program to new cultural systems (common sense, art, charisma as nearness to the center, and law as "legal sensibility"). *Works and Lives* (1988, not yet ingested) turns the interpretive lens on ethnography's own textual authority.
+From 1970, Geertz holds a permanent position in the School of Social Science he helped found at the **Institute for Advanced Study, Princeton**. *The Interpretation of Cultures* (1973) collects and crystallizes the semiotic program: [[thick-description|thick description]], culture as "webs of significance," and the "model of / model for" formula, alongside the essays on religion, ideology, and the Balinese cockfight ("Deep Play"). *[[geertz-negara-1980|Negara]]* (1980) extends the program to Balinese kingship as [[theatre-state]] ([[exemplary-center]], [[sinking-status]]; study [[geertz-negara-study]]). *Local Knowledge* (1983) — primary-ingested — is the decade-later sequel: it names "the refiguration of social thought," defends understanding-via-symbolic-forms over empathy through the [[experience-near-experience-distant|experience-near/experience-distant]] distinction, and extends the semiotic program to new cultural systems (common sense, art, charisma as nearness to the center, and law as "legal sensibility"). *Works and Lives* (1988, not yet ingested) turns the interpretive lens on ethnography's own textual authority.
 
 ### 4. Late reception and critique
 
@@ -66,11 +66,11 @@ The *Writing Culture* moment (Clifford & Marcus 1986) turns Geertz's own sensiti
 | Modjokuto fieldwork | 1952-1954 | Team ethnography of a religiously and economically stratified town | Empirical base for all the Indonesia-era books |
 | *The Religion of Java* | 1960 | Maps Javanese religion as three internally coherent variant traditions (santri, abangan, prijaji) rather than one syncretic mass | Charter ethnography of Indonesian Islam; typology later contested and politically reused |
 | *Agricultural Involution* | 1963 | Explains Java's labor-absorbing, non-developing wet-rice economy through ecological and colonial-historical mechanism | Became a keyword of peasant/agrarian studies; underlying statistics later reanalyzed and criticized |
-| *Peddlers and Princes* | 1963 | Comparative study of entrepreneurship in a Balinese and a Javanese town | Development-anthropology reference |
+| *[[geertz-peddlers-princes-1963|Peddlers and Princes]]* | 1963 | Comparative study of entrepreneurship: bazaar-type vs firm-type; peddler vs prince paths (Modjokuto/Tabanan) | Development-anthropology reference; study [[geertz-peddlers-princes-study]] |
 | *The Social History of an Indonesian Town* | 1965 | Diachronic, town-scale social history of Modjokuto | Urban/area-studies reference |
 | "Thick Description" / *The Interpretation of Cultures* | 1973 | Programmatic statement of culture as a semiotic system to be read, not a mechanism to be modeled; ethnography as interpretation of interpretations | Made Geertz's name outside anthropology; became the most cited (and most diluted) methodological slogan in the human sciences |
 | "Deep Play: Notes on the Balinese Cockfight" | 1972/1973 | Reads a blood ritual as a text the Balinese "read" about themselves — status anxiety staged as sport | Public face of interpretive anthropology; a set text in cultural studies and sociology alike |
-| *Negara: The Theatre State in Nineteenth-Century Bali* | 1980 | Argues Balinese kingship organized spectacle, not coercive administration, as its primary business | Reframed political anthropology of ritual and spectacle; not yet primary-ingested here |
+| *Negara: The Theatre State in Nineteenth-Century Bali* | 1980 | Argues Balinese kingship organized spectacle, not coercive administration, as its primary business | Reframed political anthropology of ritual and spectacle; primary-ingested — [[geertz-negara-study]] / [[hubs/studies/geertz-negara-study]] |
 | *Local Knowledge* | 1983 | Names "the refiguration of social thought," extends interpretive method to common sense, art, charisma, and law | Consolidated the interpretive turn's second decade; foundational statement for anthropology of law |
 | *Works and Lives: The Anthropologist as Author* | 1988 | Turns interpretive/textual analysis on canonical ethnographers' own writing (Lévi-Strauss, Evans-Pritchard, Malinowski, Benedict) | Read as both culmination and target of the reflexive "Writing Culture" turn; not yet primary-ingested here |
 
@@ -110,7 +110,7 @@ A narrower counterfactual concerns reification: the *santri/abangan/prijaji* typ
 
 ## Historiography and Primary Sources
 
-Ingested and primary in this hub: *The Religion of Java* (Free Press/Phoenix, 1960); *Agricultural Involution* (University of California Press/Association for Asian Studies, 1963); *The Interpretation of Cultures* (Basic Books, 1973); *Local Knowledge* (Basic Books, 1983). Vault secondhand engagement: Swidler's *Talk of Love* (toolkit foil); Sewell's *Logics of History* (historicizing repair, records the 1975-76 IAS seminar). Still needed for a fuller historiography: *Negara* (1980), *Works and Lives* (1988), the Bali cockfight essay's independent reception history, Morocco field materials (Sefrou), Roseberry's and Crapanzano's critiques, the *Writing Culture* volume itself, and biographical/archival scholarship — update this section rather than filling from memory when those sources land.
+Ingested and primary in this hub: *The Religion of Java* (Free Press/Phoenix, 1960); *Agricultural Involution* (University of California Press/Association for Asian Studies, 1963); *Peddlers and Princes* (University of Chicago Press, 1963); *The Interpretation of Cultures* (Basic Books, 1973); *Negara* (Princeton, 1980); *Local Knowledge* (Basic Books, 1983). Vault secondhand engagement: Swidler's *Talk of Love* (toolkit foil); Sewell's *Logics of History* (historicizing repair, records the 1975-76 IAS seminar). Still needed for a fuller historiography: *Works and Lives* (1988), the Bali cockfight essay's independent reception history, Morocco field materials (Sefrou), Roseberry's and Crapanzano's critiques, the *Writing Culture* volume itself, and biographical/archival scholarship — update this section rather than filling from memory when those sources land. *Negara* study hub: [[hubs/studies/geertz-negara-study]].
 
 ## Verbatim Passages and Analysis
 
@@ -180,7 +180,7 @@ Among mid-century American anthropologists, Geertz is less strictly materialist 
 
 ## What This Hub Still Lacks
 
-Primary ingest of *Negara* (1980) and *Works and Lives* (1988); the Balinese cockfight essay's independent reception history beyond what *The Interpretation of Cultures* itself reports; Morocco/Sefrou field materials in any depth; Roseberry, Crapanzano, and the *Writing Culture* volume as primary rather than attributed-secondhand sources; full IAS-seminar student genealogy; archival biography. Update this hub when those sources land in the collection rather than padding the gaps from general knowledge.
+Primary ingest of *Works and Lives* (1988); the Balinese cockfight essay's independent reception history beyond what *The Interpretation of Cultures* itself reports; Morocco/Sefrou field materials in any depth; Roseberry, Crapanzano, and the *Writing Culture* volume as primary rather than attributed-secondhand sources; full IAS-seminar student genealogy; archival biography. *Negara* (1980) now primary — see [[hubs/studies/geertz-negara-study]]. Update this hub when remaining sources land rather than padding gaps from general knowledge.
 
 ## Reading Path for the Vault
 
@@ -194,7 +194,8 @@ Primary ingest of *Negara* (1980) and *Works and Lives* (1988); the Balinese coc
 ## Links
 
 - Summary: [[geertz-clifford]]
-- Studies: [[geertz-religion-of-java-study]] · [[geertz-agricultural-involution-study]]
-- Sources: [[geertz-religion-of-java-1960]] · [[geertz-agricultural-involution-1963]] · [[geertz-interpretation-of-cultures-1973]] · [[geertz-local-knowledge-1983]]
-- Concepts: [[abangan]] · [[santri]] · [[prijaji]] · [[slametan]] · [[agricultural-involution]] · [[sawah]] · [[swidden]]
+- Studies: [[geertz-religion-of-java-study]] · [[geertz-agricultural-involution-study]] · [[geertz-peddlers-princes-study]]
+- Sources: [[geertz-religion-of-java-1960]] · [[geertz-agricultural-involution-1963]] · [[geertz-peddlers-princes-1963]] · [[geertz-interpretation-of-cultures-1973]] · [[geertz-local-knowledge-1983]]
+- Concepts: [[abangan]] · [[santri]] · [[prijaji]] · [[slametan]] · [[agricultural-involution]] · [[bazaar-type-economy]] · [[firm-type-economy]] · [[sawah]] · [[swidden]]
+- Comparison: [[modjokuto-tabanan-economic-modernization]] · Societies: [[javanese-modjokuto]] · [[balinese-tabanan]]
 - Theory: [[cultural-ecology]] · [[interpretive-anthropology]]

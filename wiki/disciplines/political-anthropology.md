@@ -8,8 +8,8 @@ core_questions: ["How is order maintained with and without the state?", "What is
 major_methods: ["[[comparative-method]]", "[[participant-observation]]", "structural analysis of segmentary and centralized systems", "ideal-type / model analysis of political poles"]
 subfields: ["[[unknown]]"]
 collection_coverage: moderate
-sources_ingested: 9
-last_updated: 2026-07-09
+sources_ingested: 10
+last_updated: 2026-07-15
 tags: [discipline]
 ---
 
@@ -68,6 +68,10 @@ Political anthropology’s charter texts were produced under colonial government
 
 ## Collection Coverage Note
 
-**Moderate on charter + postwar dynamic + US neo-evolutionary typology + peasantry primer + ethnicity/boundaries.** Charter *African Political Systems* (1940) and *[[evans-pritchard-nuer-1940|The Nuer]]* ingested; *[[leach-political-systems-highland-burma-1954|Political Systems of Highland Burma]]* (1954) adds highland SE Asia and the equilibrium-critique / oscillation program; Service *[[service-primitive-social-organization-1971|Primitive Social Organization]]* (1962/1971) and Fried *[[fried-evolution-of-political-society-1967|Evolution of Political Society]]* (1967) add the paired neo-evolutionary typologies. **[[wolf-eric-r|Wolf]] *[[wolf-peasants-1966|Peasants]]* (1966)** adds comparative political economy of peasantry. **[[barth-fredrik|Barth]] (ed.) *[[barth-ethnic-groups-boundaries-1969|Ethnic Groups and Boundaries]]* (1969)** adds [[ethnic-boundary-theory]] and polyethnic political organization (Pathan, Chiapas, Ethiopia, Laos cases). Clastres, Scott, Service’s 1975 state book, *Peasant Wars*, postcolonial Africanist political ethnography, and feminist political anthropology remain gaps. Coverage of classical sociology of the state is stronger on the sociology side of the vault than anthropological follow-ons.
+**Moderate on charter + postwar dynamic + US neo-evolutionary typology + peasantry primer + ethnicity/boundaries + Manchester politics textbook.** Charter *African Political Systems* (1940) and *[[evans-pritchard-nuer-1940|The Nuer]]* ingested; *[[leach-political-systems-highland-burma-1954|Political Systems of Highland Burma]]* (1954) adds highland SE Asia and the equilibrium-critique / oscillation program; Service *[[service-primitive-social-organization-1971|Primitive Social Organization]]* (1962/1971) and Fried *[[fried-evolution-of-political-society-1967|Evolution of Political Society]]* (1967) add the paired neo-evolutionary typologies. **[[wolf-eric-r|Wolf]] *[[wolf-peasants-1966|Peasants]]* (1966)** adds comparative political economy of peasantry. **[[barth-fredrik|Barth]] (ed.) *[[barth-ethnic-groups-boundaries-1969|Ethnic Groups and Boundaries]]* (1969)** adds [[ethnic-boundary-theory]] and polyethnic political organization (Pathan, Chiapas, Ethiopia, Laos cases). **[[gluckman-max|Gluckman]] *[[gluckman-politics-law-ritual-1965|Politics, Law and Ritual]]* (1965)** densifies stateless order ([[cross-cutting-conflicts]], [[plateau-tonga]]), morphological scale of African states (Anuak→Shilluk→chiefship→kingship; Lozi/Buganda/Ruanda/West Africa), rebellion vs revolution, and the bridge to [[legal-anthropology]]. Clastres, Scott, Service’s 1975 state book, *Peasant Wars*, postcolonial Africanist political ethnography, and feminist political anthropology remain gaps. Coverage of classical sociology of the state is stronger on the sociology side of the vault than anthropological follow-ons.
 
 **2026-07-09 Ferguson ingest:** [[ferguson-anti-politics-machine-study]] densifies postcolonial state / bureaucracy / development-project ethnography (Lesotho 1982–83). Clastres, Scott, *Peasant Wars*, and feminist political anthropology remain gaps.
+
+## Collection note — Scott *Weapons of the Weak* (2026-07-15)
+
+[[scott-weapons-of-the-weak-1985|Weapons of the Weak]] densifies agrarian [[everyday-forms-of-resistance]], village class ethnography ([[sedaka]]), and debates on [[hegemony]]/[[false-consciousness]] from below. Study + Studies Hub filed.

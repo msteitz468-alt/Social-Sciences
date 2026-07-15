@@ -7,9 +7,9 @@ disciplines: [sociology, anthropology, social-theory, political-thought]
 emic_or_etic: etic
 operationalized_as: "In Sewell's usage: the capacity to transpose and extend schemas to new contexts and to reinterpret/remobilize resources under new schemas; measured relationally by an actor's knowledge of schemas and access to resources, and by position within collective organizations."
 contested: "yes"
-related_concepts: ["[[transposable-schemas]]", "[[duality-of-structure]]", "[[habitus]]", "[[historical-event]]"]
-sources_ingested: 3
-last_updated: 2026-07-10
+related_concepts: ["[[transposable-schemas]]", "[[duality-of-structure]]", "[[habitus]]", "[[historical-event]]", "[[cultural-schema]]", "[[big-people-small-people]]", "[[serious-games]]"]
+sources_ingested: 5
+last_updated: 2026-07-15
 tags: [concept, sociology]
 ---
 
@@ -35,6 +35,10 @@ Analytically, an actor's agency is read from (a) the schemas the actor knows and
 
 The account underwrites [[eventful-sociology]] and Sewell's [[historical-event|theory of events]] (collective creativity under structural dislocation); it is his answer to the determinism he diagnoses in [[habitus|Bourdieu's habitus]].
 
+### Ortner — thick agency on Everest (1999)
+
+*(Attributed — *[[ortner-life-and-death-everest-1999|Life and Death on Mt. Everest]]*; study [[ortner-life-and-death-everest-study]].)* In the “Thick Resistance” line of argument, Ortner treats Sherpa religious practice on expeditions and responses to death as **multivalent intentionality**: not pure resistance to sahibs, not pure performance, not pure fatalism. Impassivity after deaths, she argues, mixes professionalism and variable monastic feeling-discipline — and is sometimes refused. Base-camp funerals sustain Sherpa life projects under deep shaping by mountaineering. Framed within [[serious-games]] and against Spivak’s “subaltern cannot speak” dilemma (constructionism vs resistance-only). See also *High Religion* actors under [[cultural-schema]].
+
 ## Archaeological Uses — Johnson (2011), attributed
 
 *(Attributed; see [[johnson-archaeological-theory-2011]] and [[structure-vs-agency-debate]].)* Postprocessual archaeologists borrowed both [[giddens-anthony|Giddens]]'s structuration theory and [[bourdieu-pierre|Bourdieu]]'s practice theory to argue that people actively manipulate, rather than passively follow, social rules encoded in material culture. [[hodder-ian|Hodder]]'s ethnoarchaeological fieldwork among the Nuba is reported (per Johnson) as yielding a single field observation illustrating this: a Nuba woman deliberately dumped polluting hearth-ash outside the compound where men could see, rather than inside as convention required — read as agency operating through the **manipulation of rules**, not their passive enactment. See [[post-processual-archaeology]].
@@ -42,6 +46,18 @@ The account underwrites [[eventful-sociology]] and Sewell's [[historical-event|t
 ## Critiques and Limitations
 
 `contested: yes` — how to weight agency against structure is a standing dispute (see [[structure-vs-agency-debate]]); whether "agency" can be predicated of collectives is itself contested (Sewell vs. Hindess). Other traditions define agency differently — e.g., [[rational-choice-theory|rational choice]]'s purposive maximizer, or [[practice-theory|practice theory]]'s dispositional "regulated improvisation." This page records Sewell's structural definition; other definitions belong under their respective programs.
+
+## Ortner, *High Religion* (1989) — constrained actor and valorization
+
+*(Attributed — [[ortner-sherry|Ortner]], *[[ortner-high-religion-1989|High Religion]]*; [[ortner-high-religion-study]].)* In her expansion of anthropological [[practice-theory]], Ortner treats the actor as **heavily constrained** by internalized cultural parameters and external material/social limits — not a free agent (voluntarism/transactionalism rejected). The central problem is how actors so much products of context can transform conditions of existence. She frames the Sherpa monastery foundings as the social, cultural, and historical **construction of “interest”** (cf. Sahlins): rational calculation is always part of intention but never exhaustive.
+
+Further claims (attributed):
+
+- **Subjectivity of bigness.** For small people (Darjeeling wage labor, potato surplus) and “little-big” monks/nuns (Rumbu vows, middle sons/daughters of elites), a subjective sense of having achieved “bigness” or redefinition of social place is at least as important as objective status change — and drives institutional change (monastery foundings, gembu decline, Thami conversion).
+- **Everyone seeks legitimation (Foucaultian).** If power is not only a property of formal dominants and everyone operates in a matrix of power, then everyone is engaged in or positioned with respect to **legitimation** — expanded as **valorization** (claims of social value/qualification at any level). Big people seek classic political and moral repair; small and little-big people claim the right to participate fully as persons of consequence.
+- **“Loosely structured” actor.** Prepared to find culture meaningful without cultural programming or unconstrained rational manipulation; culture change is largely changing relationships to the cultural repertoire (e.g. intensifying connection to the temple-founding [[cultural-schema]] under historical pressure).
+
+See [[big-people-small-people]], [[structure-vs-agency-debate]].
 
 ## Agency in contemporary archaeology (Preucel & Mrozowski 2010)
 

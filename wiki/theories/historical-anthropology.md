@@ -5,13 +5,13 @@ disciplines: ["cultural-anthropology", "anthropology", "history"]
 era_origin: "critical-turn"
 date_origin: "1980s"
 originated_by: ["[[comaroff-jean]]", "[[comaroff-john-l]]", "[[sahlins-marshall]]"]
-key_texts: ["Comaroff & Comaroff, Of Revelation and Revolution (1991, 1997)", "Comaroff & Comaroff, Ethnography and the Historical Imagination (1992)", "Sahlins, Islands of History (1985)"]
+key_texts: ["Comaroff & Comaroff, Of Revelation and Revolution (1991, 1997)", "Comaroff & Comaroff, Ethnography and the Historical Imagination (1992)", "Sahlins, Islands of History (1985)", "Rosaldo, Ilongot Headhunting, 1883–1974 (1980)"]
 core_claims: ["Structure and agency must be analyzed together, over time, not opposed", "Culture, power, and consciousness are inseparable dimensions of any social process", "The everyday and the material — buildings, bodies, signs — are historical texts, not just written narrative", "Any colonial encounter must account for all its players, colonizers included"]
 developed_from: ["[[structuralism]]", "[[historical-materialism]]", "[[practice-theory]]"]
 competes_with: ["[[structural-functionalism]]"]
 status: active
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [theory, anthropology, cultural-anthropology]
 ---
 
@@ -35,6 +35,10 @@ Historical anthropology reacted against the ethnographic present of [[structural
 ## Key Proponents and Texts
 
 [[comaroff-jean|Jean]] and [[comaroff-john-l|John L. Comaroff]] are the program's central figures; [[sahlins-marshall|Marshall Sahlins]]'s *Islands of History* (1985) is a parallel formulation. The Comaroffs' *Ethnography and the Historical Imagination* (1992) is the program's methodological statement.
+
+[[trouillot-michel-rolph|Michel-Rolph Trouillot]]'s *[[trouillot-silencing-the-past-1995|Silencing the Past]]* (1995) is a major adjacent program on the [[production-of-history]] — how power enters sources, archives, narratives, and commemorations ([[historical-silences|four moments of silence]]; dual [[historicity-1-and-2|historicity]]). Overlap with Comaroff/Sahlins: material traces as history, colonial power, refusal of ethnographic present. Difference: Trouillot centers **silence and narrative production** (Haitian Revolution as [[unthinkable-history|unthinkable]]; [[columbus-commemorations]]) more than mission-encounter ethnography of consciousness.
+
+[[rosaldo-renato|Renato Rosaldo]]'s *[[rosaldo-ilongot-headhunting-study|Ilongot Headhunting, 1883–1974]]* (1980) is the program's key **precursor monograph**: a worked demonstration, before the Comaroffs' or Sahlins's programmatic statements, that a nonliterate society's history is recoverable (oral narrative under source criticism, convergent-evidence chronology) and that the "timeless primitive" — Radcliffe-Brown's history-ban, Lévi-Strauss's "cold" societies — is "an artifact of ethnographic method, not a reflection of the human condition."
 
 ## Empirical Program
 

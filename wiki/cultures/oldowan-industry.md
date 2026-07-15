@@ -15,7 +15,7 @@ preceded_by: []
 succeeded_by: [acheulean-industry]
 language_affiliation: "[[unknown]] — industry, not a population"
 genetic_signature: "[[unknown]] — industry, not a population"
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [culture, early-prehistory, east-africa, southern-africa]
 ---
@@ -55,3 +55,12 @@ The Oldowan is `preceded_by` no known antecedent industry (it is the earliest re
 The Oldowan Industrial Complex was defined from Olduvai Gorge assemblages studied by Louis and Mary Leakey from 1935 onward, following Hans Reck's initial 1913 investigation of the gorge. Mary Leakey's typological scheme (choppers, discoids, spheroids, polyhedrons) remains the descriptive baseline, though Klein reports it is now understood as substantially blank-shape-determined rather than template-driven. The interpretation of associated bone assemblages (home-base vs. carnivore/natural accumulation; hunting vs. scavenging) has been actively revised since Bunn and Kroll's cut-mark analyses of FLK Zinj, a debate Klein reports as unresolved after nearly twenty years.
 
 See [[klein-human-career-1999]] for the source synthesis underlying this page.
+
+### Phillipson — *African Archaeology* (2005)
+
+*(Attributed — [[phillipson-african-archaeology-2005]]; **as of Phillipson 2005**.)*
+
+- Classed as J. G. D. Clark **mode 1** ([[lithic-technological-modes]]); defining contrast with later industries is **absence of standardisation**.
+- Earliest Ethiopian/Kenyan artefacts ~2.5–2.0 Ma generally attributed to Oldowan though older than the Olduvai name-site; Bouri/*A. garhi* claims ~2.5 Ma flagged as provisional.
+- Turkana Basin (Omo, [[koobi-fora]], Nachukui) and [[olduvai-gorge]] dominate the stratified record; South African mode-1 tools at [[sterkfontein]] only from contexts with fauna suggesting max ~2.0 Ma.
+- Inter-site variation (Olduvai vs Koobi Fora flake/core ratios) may reflect raw material more than distinct “cultures” (Phillipson citing Ludwig & Harris; Stiles).

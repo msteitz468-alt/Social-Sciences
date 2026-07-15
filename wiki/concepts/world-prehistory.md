@@ -8,7 +8,7 @@ emic_or_etic: etic
 operationalized_as: "A single chronological-ecological narrative covering the prehistoric human past of all inhabited continents, treating regional sequences comparatively rather than as a Europe- or Near-East-only story"
 contested: yes
 related_concepts: ["[[prehistory]]", "[[economic-prehistory]]", "[[neolithic-revolution]]", "[[urban-revolution]]", "[[ex-oriente-lux]]", "[[global-colonization]]", "[[exaptation]]"]
-sources_ingested: 4
+sources_ingested: 6
 last_updated: 2026-07-10
 tags: [concept, archaeology]
 ---
@@ -60,3 +60,15 @@ They frame contemporary archaeology's "grand questions" as world-prehistory prob
 - **Genre position:** densifies Clark’s global textbook frame with post-processual-friendly ideology/symbol chapters and mid-1990s–early-2000s site literature; **pre-aDNA** genetics and peopling claims must stay date-stamped “(as of Mithen 2003).”
 
 Source: [[mithen-after-the-ice-2003]].
+
+### Bogucki — *The Origins of Human Society* (1999)
+
+[[bogucki-peter|Peter Bogucki]]'s Blackwell History of the World volume (*[[bogucki-origins-human-society-1999|The Origins of Human Society]]*, 1999) is a **global comparative synthesis** in the post-Clark textbook/series genre, but with an explicit **individual self-interest** theoretical slant rather than a pure systems or culture-history frame. Scope: early hominids through early states and “chiefdoms in the shadow of states.” Five recurring themes (attributed, Ch.1): technology–society interplay; self-interested decision-makers under risk/uncertainty; household-scale behavioral trajectories; humans in multi-dimensional landscapes; intellectual history of prehistoric archaeology as meta-discipline.
+
+Load-bearing analytic sequence for the Holocene half: breakdown of [[pleistocene-band-society]] → late-forager proto-households and agricultural commitment → [[transegalitarian]] competition ([[aggrandizer]] + residual drop-down) → unstable chiefdoms → tributary states and shadow chiefdoms. **Horizon note:** late-1990s research (pre-aDNA; peopling and phylogeny sections age faster than the household/inequality apparatus). Companion series volume on *Beginnings of Civilization* was planned for Robert Wenke.
+
+### Scarre (ed.) — *The Human Past* (2013)
+
+[[scarre-human-past-2013|Scarre (ed.), *The Human Past*]] (3rd ed. 2013, Thames & Hudson) is the most-used current university survey in the post-Clark genre: a **multi-author** textbook, edited by [[scarre-chris|Chris Scarre]] with region-specialist chapters (Klein on African origins; Connah on Holocene Africa; Higham on East/Southeast Asia; Coningham on South Asia; Milner and Wills on North America; among others). Structure: Part I (human evolution in Africa and the peopling of the Old World, ~6 Ma–11,500 years ago) then Part II, a region-by-region tour of the Holocene — origins of food production and the rise of complex societies across Southwest Asia, East and Southeast Asia, South Asia, Africa, Europe, the Mediterranean, Mesoamerica, South America, and North America. Its closing synthesis (attributed, Scarre ed. 2013, ch. 19) organizes the whole global story around four long-run themes: **demographic increase, agricultural intensification and environmental degradation, biological exchange** (culminating in the Columbian exchange and post-contact disease mortality), and **climate change** as a recurrent backdrop rather than a prime mover.
+
+Because it is multi-author and peer-taught, it carries presumptive weight on the **state of the field** region by region, but is downstream of the primary studies it summarizes — keep single findings attributed and date-stamp its fast-moving science "(as of Scarre ed. 2013)". Its chief additions to this wiki's coverage were on the **Andean sequence** ([[caral]], [[chavin-culture]], [[moche-culture]], [[nazca-culture]], [[wari-culture]], [[tiwanaku-culture]], [[chimu-culture]], [[inca-empire]]; [[andean-chronology]]) and East/Southeast Asia ([[yayoi-culture]], [[angkor]]).

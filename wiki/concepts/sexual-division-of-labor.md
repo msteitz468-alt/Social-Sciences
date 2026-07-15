@@ -8,7 +8,7 @@ emic_or_etic: "etic"
 operationalized_as: "Allocation of subsistence and other tasks by sex; among foragers commonly coded as male hunting vs. female gathering, with the caloric majority often from women's gathering"
 contested: "yes"
 related_concepts: ["[[hunter-gatherer]]", "[[hunting-hypothesis]]", "[[original-affluent-society]]", "[[cooking-hypothesis]]", "[[cooking-and-pair-bonding]]", "[[household-division-of-labor]]", "[[feminist-archaeology]]", "[[genderlithics]]"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-10
 tags: ["concept"]
 ---
@@ -72,3 +72,13 @@ foraging cases.
 **Cooking as condition of the division (Wrangham 2009).** *[[wrangham-catching-fire-2009|Catching Fire]]* adds a third causal account: the modern form of the sexual division of labor is workable only with **cooked** food. Soft meals free ~four hours of chewing per day versus a great-ape-like raw diet; unsuccessful hunters can still eat after dark; women process staples while men hunt long hours. On raw food alone, Wrangham argues, the Washburn household bargain fails (evening plant calories could not be chewed in time). Cross-cultural cooking bias: Murdock & Provost (as he reports) — women cook in 97.8% of societies. See [[cooking-and-pair-bonding]], [[cooking-hypothesis]], [[cooking-hypothesis-debate]]. All attributed; not promoted over gathering-calorie findings above.
 
 **Archaeological densification — *Engendering Archaeology* (1991).** [[feminist-archaeology|Gero & Conkey et al.]] treat textbook sex-linked DoL schemes (men hunt/women gather; men tools/women domestic) as androcentric projections that structure prehistoric inference. Watson & Kennedy argue Eastern Woodlands plant domestication should be read as women’s intentional production; Claassen re-genders shellfishing; Jackson models Mono acorn/mortar production as women’s fixed property; Gero’s [[genderlithics]] challenges Man-the-Toolmaker. Source: [[gero-conkey-engendering-archaeology-1991]].
+
+## Lee 1979 densification (*The !Kung San*)
+
+*(Attributed — [[lee-richard-b|Lee]], *[[lee-kung-san-1979|The !Kung San]]* 1979, Chs. 9 and 15; July–Aug 1964 Dobe work diary recalculated; Draper /Du/da multi-season check; study [[lee-kung-san-study]].)*
+
+- **Subsistence days.** Resident men worked average **12 of 28** days, resident women **~9 of 28** — Lee presents this as contradicting the "women are the workhorses" stereotype for *subsistence* days (men ~a third harder). Draper at /Du/da: men **3.3** vs women **1.3** days/week (larger gap; overall mean ~2.3).
+- **Calories vs days.** Gathering ~**70%** of calories, hunting ~**30%**; women worked fewer days but produced more calories. Per gathering day ~**12,000 Cal** vs ~**7,230** per hunting day (~**67%** more — Lee **retracts** the earlier 2.5× person-hour ratio from Lee 1968a as overstated). Summed sex contributions *(Ch.15)*: men ~**44%**, women ~**56%** of food weight/calories (men also gather ~1/5 of gathered food).
+- **Tools and housework.** Manufacture/maintenance: men ~**64 min**/day, women ~**45**. Housework: men ~**2.2 hrs**/day, women ~**3.2** (women crack most children's mongongo allotment; men spike on large kills). Full week (Table 9.12): men **44.5 hrs**, women **40.1**.
+- **Childcare and "no exploitation" thesis.** Childcare 60–80% by the child's own mother more than redresses Table 9.12's apparent male surplus *(Lee's position)*; chapter thesis: "no evidence for exploitation on the basis of sex or age." Children under 14 do almost no subsistence work (Draper corroboration).
+- **Symbolic valuation.** All !Kung value meat more highly than plant food despite plants' caloric majority — scarcity, unpredictability, and protein explained as reasons *(attributed)*. Sphere-by-sphere gender analysis preferred over global matriarchy/patriarchy slogans; overall "relatively equal role" claimed for the two sexes in this case *(attributed, Ch.15)* — contested comparative terrain, not wiki-voice universal. Farming/herding transition may reorganize workloads toward women's confinement nearer home ("beginnings of the subordination of women" — Lee's suggestive phrase via Draper). Cross-links: [[lee-what-hunters-do-study]], [[original-affluent-society]], [[egalitarian-society]], [[juhoansi]].

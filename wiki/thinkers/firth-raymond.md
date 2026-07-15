@@ -8,11 +8,11 @@ era: [fieldwork-revolution, postwar-expansion, critical-turn]
 affiliated_theories: ["[[structural-functionalism]]"]
 trained_under: ["[[malinowski-bronislaw]]"]
 trained: ["[[unknown]]"]
-key_works: ["Primitive Economics of the New Zealand Maori (1929)", "[[firth-we-the-tikopia-1936|We, the Tikopia (1936)]]", "Primitive Polynesian Economy (1939)", "The Work and Wealth of a Primitive Community: Tikopia (1939)", "Elements of Social Organization (1951)", "Social Change in Tikopia (1959)"]
+key_works: ["Primitive Economics of the New Zealand Maori (1929)", "[[firth-we-the-tikopia-1936|We, the Tikopia (1936)]]", "[[firth-primitive-polynesian-economy-1939|Primitive Polynesian Economy (1939)]]", "The Work and Wealth of a Primitive Community: Tikopia (1939)", "Elements of Social Organization (1951)", "Social Change in Tikopia (1959)"]
 key_concepts: ["[[social-organization]]", "[[classificatory-system-of-relationship]]", "[[ramage]]"]
 fieldwork_sites: ["Tikopia (Solomon Islands), 1928–29; restudies 1952, 1966", "Malay fishing communities (Kelantan), 1939–40, 1963"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [thinker, anthropology]
 ---
 
@@ -52,11 +52,17 @@ working-out of structural principles in real time.
   the ordering of activity through individual choice, decision, and variation *within* that
   framework — an early corrective to static structural-functionalism and a bridge toward
   later practice- and decision-oriented anthropology.
-- **Economic anthropology.** From the Maori study through *Primitive Polynesian Economy*
-  (1939) and *The Work and Wealth of a Primitive Community* (1939), Firth treated production,
+- **Economic anthropology.** From the Maori study through *[[firth-primitive-polynesian-economy-study|Primitive Polynesian Economy]]*
+  (1939, primary-ingested) and *The Work and Wealth of a Primitive Community* (1939), Firth treated production,
   exchange, and value in non-market societies as analyzable in terms of choice and
-  allocation, founding a durable subfield and framing the later formalist–substantivist
-  debate.
+  allocation, founding a durable subfield and framing the later [[formalist-substantivist-debate|formalist–substantivist
+  debate]]. The 1939 monograph adopted Hicks's "substantial vs. formal" categories (the debate's
+  future vocabulary), tested capital, interest, value, and payment against Tikopia data, coined
+  the **[[spheres-of-exchange]]** analysis, refined [[reciprocity]] into three quantitative types,
+  and analyzed chiefs as redistributive integrators rather than exploiters (against Radin and
+  Kagarov) and *tapu* as economic regulation. Its Appendix III — Firth analyzing his own barter
+  of trade goods as a "monopolist" price-setter — is an unusually early piece of fieldwork
+  reflexivity. Deep analysis: [[hubs/studies/firth-primitive-polynesian-economy-study]].
 - **Longitudinal ethnography.** By restudying Tikopia in 1952 (amid famine) and 1966, Firth
   turned a single fieldwork moment into a study of **social change**, documented in *Social
   Change in Tikopia* (1959) — a rare controlled long-run record of one small society.
@@ -96,3 +102,13 @@ heir, as the founder of economic anthropology, and as a moderating, empirically-
 voice within British social anthropology — appear in the obituary literature and in histories
 of the discipline. Study: [[firth-we-the-tikopia-study]] · deep analysis
 [[hubs/studies/firth-we-the-tikopia-study]].
+
+## LSE succession and school role (Kuper 2015)
+
+*(Attributed — [[kuper-adam|Kuper]], *[[kuper-anthropology-and-anthropologists-2015|Anthropology and Anthropologists]]* 4th ed.)*
+
+- **Malinowski’s seminar and monographs.** Kuper lists Firth among the LSE first cohort (New Zealander); *We the Tikopia* (1936) among the early seminar monographs modelled on Trobriand topics (family, livelihood, magic) — ethnographically rich but, Kuper judges, sometimes “light on argument and lacking in structure.” Firth (1962 draft, via Kuper) recalled the 1930s functionalist problem: if everything is related to everything, where does description stop?
+- **Classic vs romantic.** Firth, “who knew both men well,” described [[radcliffe-brown-a-r|Radcliffe-Brown]] as the classic to [[malinowski-bronislaw|Malinowski]]’s romantic (Kuper citing Stocking). When R-B left Sydney (1931), Firth and A. P. Elkin “picked up the pieces” of the near-collapsed department.
+- **Chair succession and neo-Malinowskian LSE.** Kuper: **1944** Firth succeeded Malinowski’s LSE chair; postwar LSE lineup (with [[richards-audrey|Richards]], [[nadel-s-f|Nadel]], [[schapera-isaac|Schapera]], [[mair-lucy|Mair]], [[leach-edmund|Leach]] at times) remained the leading London centre. *Elements of Social Organization* (1951) read by Kuper as grafting Malinowski back onto the main growth — “calculating man,” individual choice — against Oxford [[structural-functionalism]]. With Richards, Firth on CSSRC; Kuper reports Firth steered fellowships toward social anthropology (and later, with Leach, secured an SSRC anthropology subcommittee).
+- **Applied turn.** Kuper: Firth in *We the Tikopia* (1936) warned science risked capture by practical interests — then “changed tune” once in a large CSSRC role; WWII naval intelligence (Pacific handbooks); CSSRC secretary 1944. [[evans-pritchard-e-e|Evans-Pritchard]]’s 1934 letter (via Kuper) named Firth among those “clinging to the Colonial Office Coach.”
+- **Longevity.** Kuper’s later chapters: Sir Raymond Firth still “calling shots” into the 1980s; with Schapera at LSE, students joked “We the Tikopia and I. Schapera.”

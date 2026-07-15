@@ -8,7 +8,7 @@ emic_or_etic: etic
 operationalized_as: "A culturally recognized activity constituted by rules or norms for the use of speech (nested with speech situation and speech act)"
 contested: no
 related_concepts: ["[[speech-community]]", "[[speaking-model]]", "[[communicative-competence]]", "[[ethnography-of-speaking]]"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-10
 tags: [concept]
 ---
@@ -52,3 +52,8 @@ Core to [[ethnography-of-speaking]] and [[ethnography-of-communication]]. Biling
 - Risk of checklist ethnography if SPEAKING is applied without cultural analysis of what counts as an event.
 - Boundary between "speech" events and non-speech communicative events is intentional (ethnography of *communication* broadens the frame) but can blur analytic focus.
 - Cross-cultural comparison requires etic grid plus emic validation (Hymes's own demand).
+
+
+### Bauman & Sherzer 1974 densification
+
+*(Attributed — [[bauman-sherzer-explorations-ethnography-speaking-1974|Bauman & Sherzer 1974]].)* Section IV centerpiece: formal rules for acts/events; events emerge in performance. Cases: Wolof greeting (Irvine); Māori encounter (Salmond); Cuna *namakke/sunmakke/kormakke* constellations (Sherzer); Jewish storytelling subordinated to larger speech events (Kirshenblatt-Gimblett); Sacks joke-in-conversation sequential organization.

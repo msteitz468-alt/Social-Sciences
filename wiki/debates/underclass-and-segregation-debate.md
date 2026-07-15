@@ -11,9 +11,10 @@ positions:
   - "Institutional racism (Glasgow, Pinkney et al.): schools and labor markets subordinate blacks without centering housing segregation"
   - "Anderson: code of the street as cultural-public-order adaptation under joblessness and police distrust (not freestanding culture-of-poverty)"
   - "Desmond: housing markets and eviction as relational mechanisms producing poverty (complements rather than replaces segregation/restructuring axes)"
-key_texts: ["[[massey-denton-american-apartheid-1993|American Apartheid (1993)]]", "[[wilson-the-truly-disadvantaged-1987|The Truly Disadvantaged (1987)]]", "[[anderson-code-of-the-street-1999|Code of the Street (1999)]]", "[[desmond-evicted-2016|Evicted (2016)]]", "Murray Losing Ground (1984)", "Mead Beyond Entitlement"]
+  - "Stack: cooperative domestic networks and swapping as adaptive organization under AFDC-era poverty (counter to culture-of-poverty / family disorganization)"
+key_texts: ["[[massey-denton-american-apartheid-1993|American Apartheid (1993)]]", "[[wilson-the-truly-disadvantaged-1987|The Truly Disadvantaged (1987)]]", "[[anderson-code-of-the-street-1999|Code of the Street (1999)]]", "[[desmond-evicted-2016|Evicted (2016)]]", "[[stack-all-our-kin-1974|All Our Kin (1974)]]", "Murray Losing Ground (1984)", "Mead Beyond Entitlement"]
 resolution_status: open
-last_updated: 2026-07-09
+last_updated: 2026-07-10
 tags: [debate, sociology]
 ---
 
@@ -65,17 +66,21 @@ Glasgow, Pinkney, and others emphasize racist institutions (schools, labor marke
 
 [[bourgois-philippe|Philippe Bourgois]] (*[[bourgois-in-search-of-respect-1995|In Search of Respect]]*, 1995/2003 — primary-ingested) supplies a multi-year East Harlem ethnography adjacent to Wilson and Anderson rather than a segregation-vs-restructuring adjudication. He argues drugs are **epiphenomenal**; [[street-culture]] is resistance **and** self-destruction under class/ethnic **apartheid**; legal service work and schools humiliate via [[cultural-capital]] barriers; the crackhouse is a workplace. He critiques Lewis’s [[culture-of-poverty]] (including *La Vida*’s El Barrio setting) and psychological-reductionist policy. Policy POSITIONS: decriminalize to destroy street-retail profitability **and** rebuild dignified legal livelihood / stop punishing legal work via welfare rules; “level the playing field” on public services. Study: [[bourgois-in-search-of-respect-study]].
 
+### 9. Cooperative domestic networks as adaptive organization (Stack)
+
+[[stack-carol|Carol Stack]] (*[[stack-all-our-kin-1974|All Our Kin]]*, 1974 — primary-ingested) is an **earlier ethnographic counter** to culture-of-poverty and family-disorganization models, not a segregation-vs-restructuring adjudication. In [[the-flats|The Flats]] (pseudonymous Midwestern Black community; fieldwork from spring 1968 ~three years), she finds multi-household [[domestic-network|domestic networks]], obligatory [[swapping]], and [[child-keeping]] as organized survival under unemployment, racism, and AFDC rules — not fatherless chaos. Conclusion (with Lombardi): welfare rules that block equity and nuclear households actively maintain an impoverished class (Piven/Cloward). Later Desmond [[disposable-ties]] contrast Stackian durable kin under different structural pressures. Study: [[stack-all-our-kin-study]].
+
 ## Resolution status
 
 **Open** as a multi-factor debate. Descriptive high black segregation is strongly evidenced in the Massey–Denton program; Wilson’s joblessness/family and concentrated-poverty descriptive series remain reference points; relative causal weights among segregation, labor demand, family change, and policy remain contested. No wiki-voice adjudication.
 
 ## Links
 
-- Studies: [[wilson-truly-disadvantaged-study]] · [[hubs/studies/wilson-truly-disadvantaged-study]] · [[massey-denton-american-apartheid-study]] · [[anderson-code-of-the-street-study]] · [[bourgois-in-search-of-respect-study]]
-- Sources: [[wilson-the-truly-disadvantaged-1987]] · [[massey-denton-american-apartheid-1993]] · [[anderson-code-of-the-street-1999]] · [[bourgois-in-search-of-respect-1995]]
-- Thinkers: [[massey-douglas-s]] · [[denton-nancy-a]] · [[wilson-william-julius]] · [[anderson-elijah]] · [[bourgois-philippe]]
+- Studies: [[wilson-truly-disadvantaged-study]] · [[hubs/studies/wilson-truly-disadvantaged-study]] · [[massey-denton-american-apartheid-study]] · [[anderson-code-of-the-street-study]] · [[bourgois-in-search-of-respect-study]] · [[stack-all-our-kin-study]]
+- Sources: [[wilson-the-truly-disadvantaged-1987]] · [[massey-denton-american-apartheid-1993]] · [[anderson-code-of-the-street-1999]] · [[bourgois-in-search-of-respect-1995]] · [[stack-all-our-kin-1974]]
+- Thinkers: [[massey-douglas-s]] · [[denton-nancy-a]] · [[wilson-william-julius]] · [[anderson-elijah]] · [[bourgois-philippe]] · [[stack-carol]]
 - Phenomena: [[urban-underclass]] · [[concentrated-poverty]] · [[residential-segregation]] · [[informal-economy]]
-- Concepts: [[social-isolation]] · [[concentration-effects]] · [[male-marriageable-pool-index]] · [[culture-of-poverty]] · [[hypersegregation]] · [[code-of-the-street]] · [[decent-and-street]] · [[street-culture]]
+- Concepts: [[social-isolation]] · [[concentration-effects]] · [[male-marriageable-pool-index]] · [[culture-of-poverty]] · [[hypersegregation]] · [[code-of-the-street]] · [[decent-and-street]] · [[street-culture]] · [[domestic-network]] · [[swapping]] · [[child-keeping]] · [[disposable-ties]]
 
 ## Related: racial formation on class-reduction
 

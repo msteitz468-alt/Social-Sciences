@@ -8,9 +8,9 @@ disciplines: [social-theory, philosophy, sociology]
 emic_or_etic: etic
 operationalized_as: "not quantified; identified interpretively by tracing how an apparatus that produces knowledge of an object simultaneously exercises power over it (clinic, confession, examination)"
 contested: yes
-related_concepts: ["[[analytics-of-power]]", "[[discourse-foucauldian]]", "[[scientia-sexualis]]", "[[confession]]", "[[biopower]]", "[[genealogy]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[analytics-of-power]]", "[[disciplinary-power]]", "[[examination-foucauldian]]", "[[discourse-foucauldian]]", "[[scientia-sexualis]]", "[[confession]]", "[[biopower]]", "[[genealogy]]", "[[production-of-history]]", "[[historical-silences]]"]
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -26,14 +26,22 @@ The compound belongs to Foucault's mid-1970s turn from "archaeology" (rules of d
 
 ## Operationalizations
 
-Foucault does not measure power-knowledge; he exhibits it through cases. In *The History of Sexuality*:
+Foucault does not measure power-knowledge; he exhibits it through cases.
+
+In *[[foucault-discipline-and-punish-1977|Discipline and Punish]]*:
+- **[[examination-foucauldian|The examination]]** — "normalizing gaze" combining hierarchical observation and normalizing judgement; produces the individual as case and documentary file; "superimposition of the power relations and knowledge relations."
+- **Penitentiary knowledge** — the prison produces the *delinquent* as biographical object of a knowledge that justice then consumes; experts in normality multiply the functions of the judge.
+- **Carceral texture** — the [[carceral-archipelago]] as armature enabling both capture of the body and formation of knowledge the new economy of power needs.
+
+In *[[foucault-history-of-sexuality-1978|The History of Sexuality]]*:
 - **[[confession]]** — the confessor/analyst "was the master of truth. His was a hermeneutic function"; the "agency of domination does not reside in the one who speaks... but in the one who listens and says nothing."
-- **[[scientia-sexualis]]** — nineteenth-century medicine and psychiatry "constructed around and apropos of sex an immense apparatus for producing truth," which "grounded" the emerging "racisms of the state" in "truth."
-- **The examination** (clinic, school, family) — proximity, observation, and the extraction of discourse producing "a knowledge... that above all causes [the subject] to be ignorant of himself."
+- **[[scientia-sexualis]]** — nineteenth-century medicine and psychiatry "constructed around and apropos of sex an immense apparatus for producing truth."
 
 ## Applications
 
-Power-knowledge underwrites the whole [[analytics-of-power]] and the concepts [[biopower]], [[deployment-of-sexuality]], and [[scientia-sexualis]]. Beyond Foucault it has been applied across the sociology of knowledge, science studies, criminology, and postcolonial theory.
+Power-knowledge underwrites the [[analytics-of-power]], [[disciplinary-power]], [[biopower]], [[deployment-of-sexuality]], and [[scientia-sexualis]]. Beyond Foucault it has been applied across the sociology of knowledge, science studies, criminology, and postcolonial theory.
+
+[[trouillot-michel-rolph|Trouillot]] (*[[trouillot-silencing-the-past-1995|Silencing the Past]]*, 1995) cites Foucault’s warning that “who exercises power?” cannot be resolved without “how does it happen?” and builds a historical-production program ([[production-of-history]], [[historical-silences]]) in which power is **constitutive of the story** and “begins at the source.” Adjacency, not identity: Trouillot keeps a truth-claim for historical narrative (fakes ≠ fiction; material historicity 1 limits invention) rather than collapsing all knowledge into régime analysis.
 
 ## Critiques and Limitations
 

@@ -32,11 +32,11 @@ Simone de Beauvoir (1908–1986) was a French existentialist philosopher and wri
 | Relation | Figures |
 |---|---|
 | Associated with | Jean-Paul Sartre (lifelong partner; shared existentialist frame) |
-| Influenced | [[ortner-sherry|Sherry Ortner]], [[rosaldo-michelle|Michelle Rosaldo]], and the whole of [[feminist-anthropology]]; second-wave feminism broadly |
+| Influenced | [[ortner-sherry|Sherry Ortner]], [[rosaldo-michelle|Michelle Rosaldo]], and the whole of [[feminist-anthropology]]; [[butler-judith|Judith Butler]] and [[gender-performativity]]; second-wave feminism broadly |
 
 ## Critiques and Reappraisals
 
-Later feminists criticized *The Second Sex* for accepting a masculine model of transcendence as the human norm (devaluing maternity and "immanence" rather than revaluing them) — a critique that lands equally on Ortner's appropriation of the immanence/transcendence frame. The [[nature-culture-gender-debate]] targets exactly this inherited opposition.
+Later feminists criticized *The Second Sex* for accepting a masculine model of transcendence as the human norm (devaluing maternity and "immanence" rather than revaluing them) — a critique that lands equally on Ortner's appropriation of the immanence/transcendence frame. The [[nature-culture-gender-debate]] targets exactly this inherited opposition. [[butler-judith|Judith Butler]] both extended and criticized Beauvoir in *[[butler-gender-trouble-1990|Gender Trouble]]* (1990): she read "one is not born a woman" and "the body is a situation" as implying "sex could not qualify as a prediscursive anatomical facticity" — sex "was always already gender" — while faulting Beauvoir for retaining a mind/body dualism that leaves the female body "marked" and the masculine conflated with the disembodied universal (all attributed to Butler).
 
 ## Historiography
 

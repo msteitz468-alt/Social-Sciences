@@ -5,17 +5,17 @@ region: [southeast-asia, java]
 language_affiliation: ["Javanese (with Indonesian)"]
 subsistence_economy: mixed
 kinship_system: "[[unknown]] — family organization covered in Hildred Geertz Modjokuto monograph (uningested)"
-documented_by: ["[[geertz-religion-of-java-study]]", "[[geertz-agricultural-involution-study]]"]
-documentation_dates: "1952–1954 (MIT Modjokuto Project fieldwork)"
+documented_by: ["[[geertz-religion-of-java-study]]", "[[geertz-agricultural-involution-study]]", "[[geertz-peddlers-princes-study]]"]
+documentation_dates: "1952–1954 (MIT Modjokuto Project fieldwork); short return visit during Bali trip 1957–58 (*Peddlers and Princes*)"
 endonym_exonym_note: "Modjokuto is Geertz’s pseudonym for an east-central Javanese town–village complex; inhabitants are majority Javanese Muslims, with Chinese commercial minority and residual Christian/Dutch institutional traces. Not a claim about all of Java."
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [society, southeast-asia, java]
 ---
 
-# Javanese of Modjokuto (as documented 1952–1954)
+# Javanese of Modjokuto (as documented 1952–1954 / 1957–58 return)
 
-East-central Javanese town–village complex studied by the MIT Modjokuto Project. **All claims on this page are dated to the 1952–1954 fieldwork moment** (and Geertz’s 1960/1963 publications), never an ethnographic present.
+East-central Javanese town–village complex studied by the MIT Modjokuto Project. **All claims on this page are dated to the 1952–1954 fieldwork moment** (and Geertz’s 1960/1963 publications), with a short 1957–58 return visit noted in *Peddlers and Princes* — never an ethnographic present.
 
 ## Overview
 
@@ -29,6 +29,8 @@ In the early 1950s “Modjokuto” was capital of a *kewedanan* (district) and *
 
 Wet-rice ([[sawah]]) landscape; daily *pasar* as model of commercial life for Modjokuto Javanese; Chinese dominance of shops, mills, transport, and many small factories. Macro agrarian path of Java (involution under colonial sugar–rice interlocking) analyzed in *[[geertz-agricultural-involution-1963|Agricultural Involution]]*, with Modjokuto as micro insight base rather than statistical unit.
 
+**Urban commercial structure (*Peddlers and Princes*, 1963).** Geertz reported ~24,000 town residents (~2,000 Chinese); late-19th-c. foundation; Dutch commercial-agriculture boom then Depression-era flood of small traders and intensified urbanization without return to subsistence. He framed the town’s long-standing **[[bazaar-type-economy]]** (*pasar*: sliding prices, revolving credit, risk-fractionating coalitions) and a hesitant movement toward **[[firm-type-economy]]** (*toko* stores and *perusahaan* factories) led by reformist-Muslim *wong dagang* — “entrepreneurs without enterprises” who had capital and drive but lacked organizational capacity *(attributed)*. Case continuum includes transitional Toko Kudus, garment store-factories, Toko Ibrahim, Airship Hat Factory, bean-curd plants, *gula djawa* sugar factory. Comparative foil: aristocratic firm path in [[balinese-tabanan]] ([[modjokuto-tabanan-economic-modernization]]).
+
 ## Belief and Ritual
 
 - **Abangan:** [[slametan]] cycles; spirit beliefs; *dukun* curing/sorcery; Permai organization
@@ -37,7 +39,7 @@ Wet-rice ([[sawah]]) landscape; daily *pasar* as model of commercial life for Mo
 
 ## Documentation History
 
-MIT Modjokuto team (field director Rufus Hendon); Geertz religion monograph 1960; ecological–historical synthesis 1963; companion monographs by Robert Jay, Alice Dewey, Donald Fagg, Hildred Geertz, Edward Ryan (uningested here). Residential fieldwork: Geertz and Hildred Geertz in a local household; extensive field notes; Javanese without interpreters (per apparatus notes).
+MIT Modjokuto team (field director Rufus Hendon); Geertz religion monograph 1960; ecological–historical synthesis 1963; comparative economic ethnography *[[geertz-peddlers-princes-1963|Peddlers and Princes]]* 1963 (with 1957–58 return); companion monographs by Robert Jay, Alice Dewey, Donald Fagg, Hildred Geertz, Edward Ryan (uningested here). Residential fieldwork: Geertz and Hildred Geertz in a local household; extensive field notes; Javanese without interpreters (per apparatus notes).
 
 ## Representation Debates
 

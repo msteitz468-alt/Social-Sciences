@@ -12,7 +12,7 @@ positions:
   - "Eventful temporality (Sewell): variable sociology assumes an unhistorical 'experimental' temporality (uniform laws, independent cases); social causality is temporally heterogeneous and cases interdependent — yet quantification remains indispensable and is itself 'hermeneutical'"
 key_texts: ["[[lieberson-making-it-count-1985|Lieberson, Making It Count (1985)]]", "[[ragin-comparative-method-1987|Ragin, The Comparative Method (1987)]]", "[[mills-sociological-imagination-1959|Mills, The Sociological Imagination (1959)]]", "[[abbott-time-matters-2001|Abbott, Time Matters (2001)]]", "[[sewell-logics-of-history-2005|Sewell, Logics of History (2005)]]"]
 resolution_status: open
-last_updated: 2026-07-09
+last_updated: 2026-07-10
 tags: [debate, methodology]
 ---
 
@@ -24,7 +24,7 @@ Per the Voice and Attribution Protocol, positions are recorded, not adjudicated.
 
 ## Position 1 — Variable-oriented quantitative tradition
 
-The postwar survey and multivariate tradition (partially overlapping Mills's target in [[abstracted-empiricism]]) holds that probability sampling, measurement, and statistical control deliver comparability, replicability, and cumulative inference that interpretive case work cannot match. Causal claims are typically framed as net effects of variables after [[control-variables|controls]], often as a simulation of experimental isolation. Lieberson's *[[lieberson-making-it-count-1985|Making It Count]]* describes this practice from inside as the dominant nonexperimental toolkit — Boyle's-law and Mill-style experimental analogues applied to observational data — even while he rejects much of its logic.
+The postwar survey and multivariate tradition (partially overlapping Mills's target in [[abstracted-empiricism]]) holds that probability sampling, measurement, and statistical control deliver comparability, replicability, and cumulative inference that interpretive case work cannot match. Causal claims are typically framed as net effects of variables after [[control-variables|controls]], often as a simulation of experimental isolation. Lieberson's *[[lieberson-making-it-count-1985|Making It Count]]* describes this practice from inside as the dominant nonexperimental toolkit — Boyle's-law and Mill-style experimental analogues applied to observational data — even while he rejects much of its logic. The strongest programmatic statement of this pole is [[king-keohane-verba-designing-social-inquiry-1994|King, Keohane & Verba]]'s *Designing Social Inquiry* (1994), which argues (attributed) that a *single* logic of inference underlies all good research and that qualitative work should adopt the variable-oriented design discipline (counterfactual [[causal-effect|causal effects]], [[observable-implications]], the ban on [[selection-bias|selecting on the dependent variable]]). The sustained rebuttal it provoked is filed separately as [[king-keohane-verba-single-logic-debate]].
 
 ## Position 2 — Case-oriented qualitative tradition
 

@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Parcel/allotment smallholders: class by shared economic conditions and hostility to other classes; not a class by national organization and self-representation (potato-bag formula)"
 contested: yes
 related_concepts: ["[[class-struggle]]", "[[bonapartism]]", "[[mode-of-production]]", "[[class-fraction]]", "[[proletariat]]", "[[social-revolution]]", "[[peasant]]", "[[peasant-coalition]]", "[[peasant-movements]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -50,7 +50,12 @@ Foundational for Marxist agrarian class theory and for debates on peasant politi
 - **French smallholder specificity** — not a universal peasant model.
 - **Representation thesis** can be read as denying peasant agency; Marx’s own text also records farmer uprisings and army repression after the coup.
 
+## Wolf stratification (1969)
+
+*[[wolf-peasant-wars-1969|Peasant Wars]]* does not resolve Marx’s representation problem by declaring peasantry *a* class subject. Wolf disaggregates **[[middle-peasant]]**, rich peasant, poor/landless, and free/peripheral poor inside power domains ([[tactical-mobility]]). Revolutionary capacity is stratum- and field-specific. See [[wolf-peasant-wars-study]] · [[peasant-movements]].
+
 ## Links
+
 
 - study: [[marx-eighteenth-brumaire-study]]
 - related: [[bonapartism]] · [[class-struggle]] · [[historical-materialism]] · [[peasant]] · [[wolf-peasants-1966]] · [[peasant-movements]]

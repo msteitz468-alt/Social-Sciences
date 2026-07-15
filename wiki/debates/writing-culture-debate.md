@@ -4,9 +4,9 @@ dispute_type: theoretical
 disciplines: [anthropology]
 era: [critical-turn, contemporary]
 positions: ["textualist / experimental ethnography (Clifford, Tyler, elements of Marcus & Fischer)", "institutional and power limits on textual freedom (Asad, elements of Rabinow)", "feminist and minority critique of the seminar's composition and silences", "defense of ethnographic realism / scientific monographic method", "practice-theory and political-economy reassertion against textualism"]
-key_texts: ["[[clifford-marcus-writing-culture-1986|Writing Culture (1986)]]", "[[marcus-fischer-anthropology-as-cultural-critique-1986|Anthropology as Cultural Critique (1986)]]", "Clifford, The Predicament of Culture (1988)"]
+key_texts: ["[[clifford-marcus-writing-culture-1986|Writing Culture (1986)]]", "[[marcus-fischer-anthropology-as-cultural-critique-1986|Anthropology as Cultural Critique (1986)]]", "Clifford, The Predicament of Culture (1988)", "[[strathern-partial-connections-1991|Strathern, Partial Connections (1991)]]"]
 resolution_status: partially-resolved
-last_updated: 2026-07-09
+last_updated: 2026-07-15
 tags: [debate]
 ---
 
@@ -60,8 +60,18 @@ Distinctive anthropological critique requires [[repatriation-of-anthropology|rep
 
 [[abu-lughod-lila|Lila Abu-Lughod]]'s *[[abu-lughod-writing-womens-worlds-1993|Writing Women's Worlds]]* (1993) and the prior essay "Writing Against Culture" (1991) state a **feminist and halfie** response position: accept that ethnographies are partial narratives, but refuse both naive cultural typification and experimental forms that remain unreadable while leaving global power intact. She argued (attributed) for [[writing-against-culture]] via storytelling of particular lives and for [[tactical-humanism]] — limited humanist narrative as political tactic against othering — while stating that critical ethnography remains "a project for the West." Study: [[abu-lughod-writing-womens-worlds-study]]; hub [[hubs/studies/abu-lughod-writing-womens-worlds-study]]. Complements the feminist critique of the Santa Fe seminar's demographic narrowness without collapsing into pure textualism.
 
+## Strathern position (Partial Connections, 1991)
+
+*(Attributed — [[strathern-marilyn|Strathern]], *[[strathern-partial-connections-1991|Partial Connections]]*; study [[strathern-partial-connections-study]].)* A method position **adjacent** to the WC textualism debate rather than a pure pro/con of experimental form:
+
+- Accepts the dismantling of representation and of classical comparative constructs as autonomous units.
+- Rejects that Tyler-style [[ethnographic-evocation]] / journey-form goes far enough: comparison can still be done via [[partial-connections]] without holist societies-as-containers and without pure pastiche.
+- Holds that feminist and anthropological knowledge meet as **partial** (incomplete + partisan) extensions, not as a completed polyphony that restores integration.
+
+Records as a **postplural comparison** path out of the crisis, not as adjudication of WC.
+
 ## Links
 
 - Charter sources: [[clifford-marcus-writing-culture-1986]], [[marcus-fischer-anthropology-as-cultural-critique-1986]]
 - Theories: [[writing-culture]], [[anthropology-as-cultural-critique]] · Hub: [[hubs/theory/writing-culture]]
-- Related: [[anthropology-and-colonialism-debate]], [[interpretive-anthropology]], [[mead-freeman-debate]], [[abu-lughod-writing-womens-worlds-study]], [[writing-against-culture]], [[tactical-humanism]], [[feminist-anthropology]]
+- Related: [[anthropology-and-colonialism-debate]], [[interpretive-anthropology]], [[mead-freeman-debate]], [[abu-lughod-writing-womens-worlds-study]], [[writing-against-culture]], [[tactical-humanism]], [[feminist-anthropology]], [[partial-connections]], [[strathern-partial-connections-study]]

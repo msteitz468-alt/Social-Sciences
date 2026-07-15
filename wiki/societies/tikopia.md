@@ -6,10 +6,10 @@ region: [melanesia, polynesia]
 language_affiliation: "Tikopia (a Polynesian Outlier language, Austronesian) — a Polynesian-speaking community within the Melanesian region (Santa Cruz group, Solomon Islands)"
 subsistence_economy: horticultural
 kinship_system: "classificatory; strictly patrilineal descent (the paito 'house' as a ramage; four ranked kainaŋa/clans under chiefs) with important matrilateral ties supplementing it (documented Firth 1928–29; earlier surveyed Rivers 1908)"
-documented_by: ["[[firth-we-the-tikopia-study]]", "[[rivers-melanesian-society-study]]", "[[flannery-marcus-creation-inequality-2012|Flannery & Marcus 2012 (comparative synthesis)]]", "[[kirch-evolution-polynesian-chiefdoms-1984|Kirch 1984 (archaeological–ethnohistoric synthesis; with Kirch & Yen 1982)]]"]
+documented_by: ["[[firth-we-the-tikopia-study]]", "[[firth-primitive-polynesian-economy-study]]", "[[rivers-melanesian-society-study]]", "[[flannery-marcus-creation-inequality-2012|Flannery & Marcus 2012 (comparative synthesis)]]", "[[kirch-evolution-polynesian-chiefdoms-1984|Kirch 1984 (archaeological–ethnohistoric synthesis; with Kirch & Yen 1982)]]"]
 documentation_dates: "Rivers 1908 (one-day survey via castaway informant John Maresere); intensively documented by Raymond Firth (one year, July 1928–July 1929; restudies 1952, 1966); Kirch & Yen archaeological sequence (published 1982; synthesized in Kirch 1984)"
 endonym_exonym_note: "Tikopia is the island's own name; the people call themselves Nga Tikopia. A Polynesian Outlier community — Polynesian in language and culture though geographically within the Melanesian region."
-sources_ingested: 4
+sources_ingested: 6
 last_updated: 2026-07-10
 tags: [society, melanesia, polynesia]
 ---
@@ -67,6 +67,10 @@ within the house, and open, freely-planted garden plots for perishable crops. Wo
 lifetime, non-transmissible use-right (*tofi*) in their natal family's land. Kinship organized labour
 directly, through named cooperative bands (the sons-in-law's *soko* who tended ceremonial ovens) and
 the reciprocal gift-flows that ran along every kin tie.
+
+### The economy in detail (Firth, *Primitive Polynesian Economy*, 1939; fieldwork 1928–29)
+
+*(Attributed to [[firth-primitive-polynesian-economy-study|Firth 1939]], the economic monograph from the same fieldwork.)* Firth's census counted **1,281 persons** (687 M / 594 F) at over 400 per square mile, with an effective labour supply he computed at 666 worker-equivalents. Taro was the staple (~130 acres in constant cultivation; ~2,500 corms consumed daily); the May–June inter-crop interval brought regular scarcity; hurricanes (roughly once a decade) and droughts brought famine (*oŋe*). The economy ran **without money, market-place, prices, or wage labour**: "channels of social obligation function as a substitute for a market." Labour was recruited through kinship and rank, paid in food that workers helped supply (*fiuri*), with no competitive bargaining and "no strikes"; goods moved in non-convertible **[[spheres-of-exchange]]** (food; bark-cloth/sinnet/mats; bonito-hooks/turmeric cylinders/canoes), linguistically anchored in the *kai*/*koroa* division. Technology was a "shell-wood" kit recently transformed by steel (canoe-building cut from ten–twelve months to two–three); chiefs worked more than commoners, redistributed the "foremost food" gifts they received, and used *tapu* (graded frond-signs, the *asi* suspension mechanism — see [[taboo]]) to conserve resources and direct production. A partial canoe census recorded 59 canoes across three districts, 28 of them sacred. Population was consciously held to resources (*fakatau ki te kai*) — the mechanism set out above and later built into Kirch's carrying-capacity analysis. Firth's Appendix I tallied a major ceremonial event on average every 2.5 days of his fieldwork year.
 
 ## Belief and Ritual
 
@@ -197,3 +201,15 @@ Faea by Nga Ariki as a possible colonization motive attested more widely in Poly
 Chiefs integrate the larger economy: agricultural calendars depend on seasonal ritual
 (Tikopia "Work of the Gods"); *tapu*/interdiction reserves resources for collective
 purposes and forces raised domestic production.
+
+## Update: *On the Road of the Winds* (Kirch 2017)
+
+*(Attributed — [[kirch-road-of-the-winds-2017|Kirch 2017]].)* Kirch's later synthesis
+classes Tikopia as a **Polynesian Outlier** — a Polynesian-speaking community settled by
+back-migration into a predominantly Melanesian region — consistent with its
+documentation on this page as Polynesian in language and culture despite its Santa Cruz
+location. He draws on the deep, multi-millennial occupation sequence he and Douglas Yen
+documented archaeologically (Kirch and Yen 1982), tracing continuous production
+intensification on the small island and the cultural mechanisms of population regulation
+(celibacy, contraception, emigration, and ultimately warfare) that kept the community
+near its ecological limits over centuries. See [[ancestral-polynesian-society]].

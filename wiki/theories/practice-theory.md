@@ -5,7 +5,7 @@ disciplines: [sociology, anthropology]
 era_origin: [critical-turn]
 date_origin: 1972
 originated_by: ["[[bourdieu-pierre]]", "[[passeron-jean-claude]]"]
-key_texts: ["[[bourdieu-logic-of-practice-1990|The Logic of Practice (1980/1990)]]", "[[bourdieu-outline-1977|Outline of a Theory of Practice (1972/1977)]]", "[[bourdieu-passeron-reproduction-1990|Reproduction (with Passeron, 1970)]]", "[[bourdieu-distinction-1984|Distinction (1979/1984)]]", "[[wacquant-body-and-soul-2004|Wacquant, Body & Soul (2004) — carnal application]]"]
+key_texts: ["[[bourdieu-logic-of-practice-1990|The Logic of Practice (1980/1990)]]", "[[bourdieu-outline-1977|Outline of a Theory of Practice (1972/1977)]]", "[[bourdieu-passeron-reproduction-1990|Reproduction (with Passeron, 1970)]]", "[[bourdieu-distinction-1984|Distinction (1979/1984)]]", "[[wacquant-body-and-soul-2004|Wacquant, Body & Soul (2004) — carnal application]]", "[[ortner-high-religion-1989|Ortner, High Religion (1989) — ethnographic/historical expansion]]", "[[ortner-life-and-death-everest-1999|Ortner, Life and Death on Mt. Everest (1999) — serious games]]"]
 core_claims:
   - "Bourdieu argues that the most ruinous opposition dividing social science is subjectivism vs objectivism, and that both modes are indispensable yet insufficient alone"
   - "He holds that habitus — durable, transposable dispositions — generates practices objectively regulated without obedience to rules"
@@ -16,8 +16,8 @@ core_claims:
 developed_from: ["[[historical-materialism]]", "[[sociology-of-knowledge]]"]
 competes_with: ["[[structural-functionalism]]", "[[positivism]]"]
 status: active
-sources_ingested: 7
-last_updated: 2026-07-10
+sources_ingested: 10
+last_updated: 2026-07-15
 tags: [theory, sociology, anthropology]
 ---
 
@@ -67,6 +67,8 @@ Bourdieu argued that the same generative schemes produce official and unofficial
 
 *[[bourdieu-distinction-1984|Distinction]]* demonstrates the apparatus on **French class taste and lifestyle** (survey n=1,217, 1963 + 1967–68): practice as *[(habitus)(capital)] + field*; [[social-space]] by volume/composition/trajectory of capital homologous to the space of lifestyles; [[distinction]], [[aesthetic-disposition]], [[cultural-goodwill]], [[taste-for-necessity]]; [[reconversion-strategies]]; politics and classification struggle. Method signature: [[correspondence-analysis]] + multi-domain questionnaire + secondary national surveys. Deep analysis: [[hubs/studies/bourdieu-distinction-study]].
 
+*[[bourdieu-homo-academicus-study|Homo Academicus]]* (1984) extends the apparatus reflexively onto Bourdieu's own terrain: a field analysis and correspondence-analysis mapping of the French [[academic-field|academic field]] and its professoriate, arguably the fullest enactment of [[participant-objectivation|objectifying the objectifying subject]] in the program. The book also gives a practice-theoretic reading of May 1968 as the "synchronization" of partly-independent crises across otherwise-differentiated fields (attributed). See [[correspondence-analysis]] for the method.
+
 *[[wacquant-body-and-soul-2004|Body & Soul]]* ([[wacquant-loic|Wacquant]], 2004) applies the apparatus to a U.S. urban craft world: [[pugilistic-habitus]] fabricated through implicit collective pedagogy; [[bodily-capital]] management; [[carnal-sociology]] as method *from* the body. Wacquant opens the “scientifically savage practice” analysis from Bourdieu’s claim that practice follows a logic unfolding “directly in bodily gymnastics” without discursive consciousness — boxing as limiting case of practical mastery. Deep analysis: [[hubs/studies/wacquant-body-and-soul-study|Studies Hub]].
 
 ## Method Commitments
@@ -112,6 +114,38 @@ of Fort Ross. Charles Orser applies Bourdieu (*habitus*, *doxa*, fields) to the 
 [[agency]], [[archaeological-pragmatism]].
 
 Matthew Johnson's textbook account of British [[post-processual-archaeology|post-processual archaeology]] (attributed, Johnson 2011; see [[johnson-archaeological-theory-2011]]) reports the same borrowing from the interpretive-archaeology side: Bourdieu's practice theory, itself a reaction against orthodox structuralist anthropology's passive-actor model, was taken up by postprocessual archaeologists (alongside Giddens's structuration) to argue that people actively manipulate rather than passively follow the social rules embedded in material culture. See [[structure-vs-agency-debate]].
+
+## Ortner’s expansion (High Religion, 1989)
+
+*(Attributed — [[ortner-sherry|Sherry B. Ortner]], *[[ortner-high-religion-1989|High Religion]]*; study: [[ortner-high-religion-study]]. Ethnographic site: [[sherpa|Sherpas]] of Solu-Khumbu.)*
+
+Ortner positions the book as a contribution to practice theory — the relationship between structures of society/culture and human action — building on Giddens, Bourdieu, Sahlins, and Berger & Luckmann’s triad. She approaches the program via **four keywords** that the book fleshes out theoretically and methodologically:
+
+| Keyword | Ortner’s formulation (attributed) |
+|---|---|
+| **Practice** | Human action/interaction considered for its political implications (asymmetry, inequality, domination) in historical-cultural setting; emerges from, reproduces, and can transform structure. Distinct from older action/transaction theories by political asymmetry. Three usages: routine/everyday (reproduction and grounding of structure); intentional projects (structurally constituted interests); praxis (sustained engagement on an alternative logic — e.g. Darjeeling wage labor, monastic experience). |
+| **Structure** | Not opposed to practice; “the system” has powerful, even determining effects. Two **active** notions used in the book: (1) **structural contradictions** — conflicting discourses and patterns of practice that recurrently pose problems to actors; (2) **[[cultural-schema|cultural schemas]]** — plot structures recurring through stories and rituals that depict actors responding to contradictions in appropriate, even “heroic,” ways. Together, contradictions and schemas form a hegemony (Williams/Gramsci). Habitus and discourse as images of structure-in-motion. |
+| **Actor** | Not a free agent; heavily constrained by internalized cultural parameters and external material/social limits. Central problem: how actors so much products of context can transform conditions of existence. Rational “interest” is always part of intention but never exhaustive; the Sherpa monastery history is framed as the social, cultural, and historical **construction of “interest.”** “Loosely structured” actor: prepared to find culture meaningful without being programmed or unconstrained. |
+| **History** | Optional for some practice texts (Bourdieu’s *Outline* is practice theory without being historical), but only historical contexts fully play out practice–structure relations. Practice theory as **translation** between internal dynamics and external forces — not a false Wolf/Fox dichotomy of ethnography vs political economy. |
+
+**Practice as political asymmetry.** Ortner defines practice so that any human activity counts insofar as the analyst links it to power, authority, agency, and legitimacy negotiated in relations — including fraternal relations that, she argues, have essentially the same “politics” as the formal political realm among the Sherpas.
+
+**Two active structures.** Contradictions (egalitarianism vs hierarchy among the [[sherpa|Sherpas]]; fraternal equal-inheritance vs birth-order; big/small and pembu legitimacy) press actors to respond. Cultural schemas (temple-founding plot of rivalry → departure → protector → defeat → founding) depict resolution from the actors’ point of view; Ortner argues schema durability rests on this resolution of central contradictions (distinct from Geertz’s *Negara* “fixed ideal” and Sahlins’s cosmological scripts). See [[cultural-schema]].
+
+**Constrained actor and construction of interest.** Against voluntarism/transactionalism and against pure cultural-product persons who change systems only as deviants/geniuses: actors seek legitimation/“valorization” at all social levels as the flip side of the egalitarian/hierarchical contradiction; big people, small people, and “little-big” monks/nuns read and enact the same schema differently under late-19th/early-20th-c. political economy (Gorkha/Rana state, British Darjeeling).
+
+**History as full play of practice–structure; subject/object cusp.** Ortner situates the work on the subject/object cusp of practice theory: objectivist moment (system/structure confronting actors) and subjectivist moment (culture as symbolic frames from actors’ constitution of the world). Special contribution is conversion between sides — “The Sherpa monasteries were built by actors who creatively used a world that was using them.”
+
+**Political economy vs ethnographic history.** Residual difference after shared Marxist inspiration and acceptance of external forces: ethnographic historians (including Ortner) emphasize cultural mediation, reinterpretation, and transformation of outside forces. Pure political economy, she argues, risks dissolving local culture into effects of the world system and casting people as passive victims.
+
+Study summary and hub: [[ortner-high-religion-study]]; [[hubs/studies/ortner-high-religion-study]]. Related concepts: [[cultural-schema]], [[big-people-small-people]], [[agency]], [[structure-vs-agency-debate]].
+
+## Ortner’s serious games (Life and Death on Mt. Everest, 1999)
+
+*(Attributed — [[ortner-sherry|Sherry B. Ortner]], *[[ortner-life-and-death-everest-1999|Life and Death on Mt. Everest]]*; study: [[ortner-life-and-death-everest-study]].)*
+
+Book-length application of practice analysis to a **transnational labor encounter**: Himalayan mountaineering as [[serious-games|serious games]] between “sahibs” and [[sherpa|Sherpas]]. Ortner holds intention, discourse, and power together against pure constructionism and pure resistance ethnography; periodizes sahib culture (military-paternalist → postwar machismo → 1970s counterculture → commercial “yuppie” climbing) while tracking Sherpa off-mountain agendas (money, respect, monastic religion, gender, identity politics). Death, strikes, and base-camp ritual become sites of multivalent [[agency]]. Companion to *High Religion*: monastic campaign and mountaineering as parallel early-twentieth-century games. Study/hub: [[ortner-life-and-death-everest-study]]; [[hubs/studies/ortner-life-and-death-everest-study]].
+
 
 ## Reading the Past (2003) — habitus as the "book" read with the body (attributed)
 

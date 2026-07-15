@@ -7,11 +7,11 @@ era: [critical-turn, contemporary]
 affiliated_theories: ["[[critical-medical-anthropology]]", "[[anthropological-political-economy]]"]
 trained_under: []
 trained: []
-key_works: ["Saints, Scholars, and Schizophrenics (1979)", "The Mindful Body (with Margaret Lock, 1987)", "[[scheper-hughes-death-without-weeping-1992|Death Without Weeping]] (1992)"]
-key_concepts: ["[[everyday-violence]]", "[[the-mindful-body]]", "[[mortal-selective-neglect]]", "[[political-economy-of-the-emotions]]", "[[militant-anthropology]]", "[[nervoso]]"]
-fieldwork_sites: ["western Ireland ('Ballybran', Co. Kerry; c. 1974–75)", "[[alto-do-cruzeiro|Alto do Cruzeiro]], 'Bom Jesus da Mata', Pernambuco, Brazil (1964–66; returns 1982, 1987, 1988–89)"]
-sources_ingested: 1
-last_updated: 2026-07-09
+key_works: ["Saints, Scholars, and Schizophrenics (1979)", "The Mindful Body (with Margaret Lock, 1987)", "[[scheper-hughes-death-without-weeping-1992|Death Without Weeping]] (1992)", "[[scheper-hughes-wacquant-commodifying-bodies-2002|Commodifying Bodies]] (ed. with Wacquant, 2002)", "The Global Traffic in Human Organs (2000)"]
+key_concepts: ["[[everyday-violence]]", "[[the-mindful-body]]", "[[mortal-selective-neglect]]", "[[political-economy-of-the-emotions]]", "[[militant-anthropology]]", "[[nervoso]]", "[[body-commodification]]", "[[human-organs-trade]]"]
+fieldwork_sites: ["western Ireland ('Ballybran', Co. Kerry; c. 1974–75)", "[[alto-do-cruzeiro|Alto do Cruzeiro]], 'Bom Jesus da Mata', Pernambuco, Brazil (1964–66; returns 1982, 1987, 1988–89)", "multi-sited Organs Watch (Argentina, Brazil, Cuba, Ecuador, India, Israel, Netherlands, South Africa, Turkey, USA — from late 1990s)"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, anthropology, medical-anthropology]
 ---
 
@@ -54,9 +54,8 @@ Peace Corps community-health worker (*visitadora*), an experience that, in her o
   Alto mothers practice a scarcity-shaped **[[mortal-selective-neglect|selective neglect]]** of
   infants judged unlikely to survive — a **[[political-economy-of-the-emotions|political economy
   of the emotions]]** rather than deficient maternal feeling.
-- **Organs Watch.** Later (from 1999) she co-founded Organs Watch and became a leading
-  investigator of the global traffic in human organs — a direct outgrowth of the organ-theft
-  rumors and bodily-commodification themes she first analyzed in Bom Jesus.
+- **Organs Watch and [[body-commodification]].** From November 1999 she co-founded **Berkeley Organs Watch** with [[cohen-lawrence|Lawrence Cohen]] (Soros/Open Society and UC Berkeley support), out of the Bellagio Task Force on Transplantation, Bodily Integrity and the International Traffic in Organs (Rothman et al. 1997). Method dictum: “follow the bodies” — hybrid of multi-sited ethnography, documentation/surveillance, and medical human-rights work, with a “hermeneutics of suspicion” toward gift/altruism/scarcity rhetoric (*[[scheper-hughes-wacquant-commodifying-bodies-2002|Commodifying Bodies]]*, 2002). She defines body commodification broadly as capitalized exchanges in which human bodies are tokens often **masked** as love or kindness; commercialized transplant medicine, she argues, divides the world into invisible **organ givers** and cherished **organ receivers**. Chapter “Commodity Fetishism in Organs Trafficking” applies Marxian fetishism to the kidney as organ of opportunity and last resort, documents prices and circuits (e.g. Chennai ~$1,200 seller fees; Israeli packages $180–200k), and treats organ-theft *rumors*, documented sales, and medically substantiated theft allegations as distinct evidence classes. Continuity with Bom Jesus organ-theft rumor analysis in *Death Without Weeping*.
+- **Volume editing.** Co-edited *Commodifying Bodies* (with [[wacquant-loic|Wacquant]]; *Body & Society* 7(2–3) 2001 / Sage 2002), gathering Cohen, [[lock-margaret|Lock]], Weiss, Brandes, [[klinenberg-eric|Klinenberg]], Tober, Epele, and Wacquant on body markets under late capitalism.
 
 ## Intellectual Genealogy
 
@@ -69,7 +68,7 @@ complicates [[foucault-michel|Foucault]] (arguing that in "semi-feudal" Northeas
 state still governs through direct bodily violence rather than Foucault's "softer" disciplinary
 apparatus). Her method is explicitly indebted to Paulo Freire's *conscientização* and to Franco
 Basaglia's Democratic Psychiatry (with which she had worked in Italy). Her writing partnership
-with Margaret Lock produced her single most-cited concept.
+with [[lock-margaret|Margaret Lock]] produced her single most-cited concept ([[the-mindful-body]]). Organs Watch interlocutors include Cohen, the Bellagio network (David and Sheila Rothman et al.), and critical bioethics opponents of libertarian “win-win” paid-donation frames.
 
 ## Critiques and Reappraisals
 
@@ -92,4 +91,5 @@ social ills, put me in the field and in their debt"). *Death Without Weeping* is
 primary document for the reflexive, post–*Writing Culture* moment in anthropology and for the
 consolidation of critical medical anthropology as a program. A fuller intellectual biography
 (Thinkers Hub) is deferred pending ingest of her other major works (*Saints, Scholars, and
-Schizophrenics*; the Organs Watch corpus).
+Schizophrenics*; fuller Organs Watch corpus). Partial Organs Watch primary material is now in
+*[[scheper-hughes-wacquant-commodifying-bodies-2002|Commodifying Bodies]]* (intro + “Commodity Fetishism in Organs Trafficking”).

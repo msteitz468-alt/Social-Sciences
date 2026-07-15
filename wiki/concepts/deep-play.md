@@ -7,9 +7,9 @@ disciplines: [anthropology]
 emic_or_etic: etic
 operationalized_as: "Geertz: play with stakes so high utilitarian net utility fails; cockfight as status drama and text Balinese tell themselves about themselves"
 contested: no
-related_concepts: ["[[thick-description]]", "[[interpretive-anthropology]]", "[[webs-of-significance]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[thick-description]]", "[[interpretive-anthropology]]", "[[webs-of-significance]]", "[[theatre-state]]", "[[exemplary-center]]"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -29,7 +29,7 @@ Betting structure (center even-money status-matched fights vs side odds); man–
 
 ## Applications
 
-*[[geertz-deep-play-study]]*; teaching [[thick-description]].
+*[[geertz-deep-play-study]]*; teaching [[thick-description]]. Companion Bali polity model: *[[geertz-negara-study|Negara]]* elevates status dramatization from cockfight to [[theatre-state]] court ceremony — continuous “status bloodbath” idiom at different scales.
 
 ## Critiques and Limitations
 

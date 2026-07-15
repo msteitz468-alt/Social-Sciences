@@ -5,7 +5,7 @@ disciplines: [anthropology, political-economy, history]
 era_origin: critical-turn
 date_origin: 1982
 originated_by: ["[[wolf-eric-r|Eric R. Wolf]]", "[[mintz-sidney-w|Sidney W. Mintz]] (adjacent / commodity-history lineage)", "related: Latin American and French Marxist anthropology"]
-key_texts: ["[[wolf-europe-people-without-history-1982|Europe and the People Without History (1982)]]", "[[wolf-peasants-1966|Peasants (1966)]]", "Wolf, Peasant Wars of the Twentieth Century (1969)", "[[mintz-sweetness-and-power-1985|Mintz, Sweetness and Power (1985)]]", "[[taussig-devil-commodity-fetishism-1980|Taussig, The Devil and Commodity Fetishism (1980)]]"]
+key_texts: ["[[wolf-europe-people-without-history-1982|Europe and the People Without History (1982)]]", "[[wolf-peasants-1966|Peasants (1966)]]", "[[wolf-peasant-wars-1969|Wolf, Peasant Wars of the Twentieth Century (1969)]]", "[[mintz-sweetness-and-power-1985|Mintz, Sweetness and Power (1985)]]", "[[taussig-devil-commodity-fetishism-1980|Taussig, The Devil and Commodity Fetishism (1980)]]"]
 core_claims:
   - "Wolf argues societies and cultures must be understood as bundles of relationships within larger fields of force, not as bounded billiard-ball entities"
   - "He holds that power over the mobilization of social labor is the key to locating anthropological subjects in history"
@@ -16,8 +16,8 @@ core_claims:
 developed_from: ["[[historical-materialism]]", "[[cultural-ecology]]", "peasant studies", "dependency / [[world-systems-analysis]] (critical engagement)"]
 competes_with: ["[[modernization-theory]]", "bounded-culture ethnography", "pure market definitions of capitalism", "ahistorical structural-functionalism"]
 status: active
-sources_ingested: 4
-last_updated: 2026-07-09
+sources_ingested: 6
+last_updated: 2026-07-10
 tags: [theory, anthropology, political-economy]
 ---
 
@@ -46,10 +46,11 @@ Reacted against: (a) social-science division of labor that reified nation/societ
 - [[taussig-michael]] — *[[taussig-devil-commodity-fetishism-1980|The Devil and Commodity Fetishism in South America]]* (1980): cultural-Marxist ethnography of plantation and mine devilry as mediation of [[commodity-fetishism]]; Cauca primary, Bolivia secondary ([[taussig-devil-commodity-fetishism-study]])
 - [[ong-aihwa]] — *[[ong-spirits-of-resistance-1987|Spirits of Resistance and Capitalist Discipline]]* (1987): Malay peasant-to-FTZ transition; multi-scalar [[capitalist-discipline]]; non-classic proletarianization; [[spirits-of-resistance]] as humanity-claim under Japanese electronics capital ([[ong-spirits-of-resistance-study]])
 - Adjacent: French Marxist anthropology, dependency and world-systems interlocutors ([[wallerstein-immanuel]])
+- [[wilmsen-edwin-n]] — *[[wilmsen-land-filled-with-flies-1989|Land Filled with Flies]]* (1989): Kalahari San-speakers reconstructed as rural underclass within multi-ethnic political economy; Wolf epigraph program applied against isolationist forager ethnography ([[wilmsen-land-filled-with-flies-study]])
 
 ## Empirical Program
 
-Global ethnohistory of commodity circuits and labor formation, 1400–20th c.: Iberian America, fur trade, slave trade, Asian conquest trade, industrial cotton and other commodities, new working classes. Earlier peasant typology and closed corporate community work supplied agrarian micro-foundations. Mintz densifies the edible-commodity circuit (sugar/tea/drug foods) and the [[plantation]] as industrial form linking Caribbean labor to British proletarian diet ([[mintz-sweetness-and-power-study]]). Taussig densifies the **cultural metaphysics of proletarianisation** on Colombian cane estates and (via Nash) Bolivian tin mines — evil as the flavor of capitalist production rites, not only labor regimes. Ong densifies **gendered EOI proletarianisation** in coastal Selangor: land hunger and NEP patronage feeding Japanese FTZ electronics, public sexual discourse, and shopfloor *hantu* as cultural struggle ([[ong-spirits-of-resistance-study]]).
+Global ethnohistory of commodity circuits and labor formation, 1400–20th c.: Iberian America, fur trade, slave trade, Asian conquest trade, industrial cotton and other commodities, new working classes. Earlier peasant typology and closed corporate community work supplied agrarian micro-foundations. *[[wolf-peasant-wars-1969|Peasant Wars]]* (1969) densifies the revolutionary conjuncture: capitalist commodity expansion, [[middle-peasant]]/[[tactical-mobility]] recruitment, and army/party conversion of peasant rebellion ([[wolf-peasant-wars-study]]). Mintz densifies the edible-commodity circuit (sugar/tea/drug foods) and the [[plantation]] as industrial form linking Caribbean labor to British proletarian diet ([[mintz-sweetness-and-power-study]]). Taussig densifies the **cultural metaphysics of proletarianisation** on Colombian cane estates and (via Nash) Bolivian tin mines — evil as the flavor of capitalist production rites, not only labor regimes. Ong densifies **gendered EOI proletarianisation** in coastal Selangor: land hunger and NEP patronage feeding Japanese FTZ electronics, public sexual discourse, and shopfloor *hantu* as cultural struggle ([[ong-spirits-of-resistance-study]]). Wilmsen densifies **forager reference-case revision** in the Kalahari: archaeology, archives, CaeCae production/tenure, and physiology mobilized to treat San "foraging" as underclass livelihood rather than Paleolithic survival ([[kalahari-debate]]).
 
 ## Method Commitments
 
@@ -69,9 +70,9 @@ Written from U.S. academic anthropology at CUNY in the late Cold War, by a Europ
 
 ## Links
 
-- key study: [[wolf-europe-people-without-history-study]] · [[mintz-sweetness-and-power-study]]
-- source: [[wolf-europe-people-without-history-1982]] · [[mintz-sweetness-and-power-1985]]
-- concepts: [[mode-of-production]] · [[tributary-mode-of-production]] · [[kin-ordered-mode-of-production]] · [[people-without-history]] · [[social-labor]] · [[inside-meaning-and-outside-meaning]] · [[factory-in-the-field]]
+- key study: [[wolf-europe-people-without-history-study]] · [[wolf-peasant-wars-study]] · [[mintz-sweetness-and-power-study]]
+- source: [[wolf-europe-people-without-history-1982]] · [[wolf-peasant-wars-1969]] · [[mintz-sweetness-and-power-1985]]
+- concepts: [[middle-peasant]] · [[tactical-mobility]] · [[mode-of-production]] · [[tributary-mode-of-production]] · [[kin-ordered-mode-of-production]] · [[people-without-history]] · [[social-labor]] · [[inside-meaning-and-outside-meaning]] · [[factory-in-the-field]]
 - related theories: [[historical-materialism]] · [[world-systems-analysis]] · [[cultural-ecology]] · [[modernization-theory]]
 - debates: [[capitalism-mode-vs-market-debate]] · [[modernization-vs-dependency-world-systems-debate]]
 ---

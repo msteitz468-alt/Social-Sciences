@@ -7,9 +7,9 @@ disciplines: [anthropology, historical-sociology, sociology-of-knowledge]
 emic_or_etic: etic
 operationalized_as: "Words/concepts that project North Atlantic historical experience as universal standards (substantive and classificatory) — attributed to Trouillot"
 contested: yes
-related_concepts: ["[[structures-of-knowledge]]", "[[world-systems-analysis]]", "[[longue-duree]]", "[[traveling-universals]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[structures-of-knowledge]]", "[[world-systems-analysis]]", "[[longue-duree]]", "[[traveling-universals]]", "[[production-of-history]]", "[[columbus-commemorations]]", "[[historical-silences]]"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -26,6 +26,8 @@ Trouillot further argues: progressive scholars often relativize only politically
 ## Semantic History
 
 Trouillot's contribution to the longue-durée analysis of concepts in the modern world-system (2004 volume). Overlaps decolonial critiques of universalism and Santos's epistemologies of the South without being identical. Related but not identical to [[traveling-universals|Tsing's traveling / engaged universals]] (*Friction*, 2005): Trouillot historicizes North Atlantic particulars-as-standards; Tsing ethnographizes how universalizing projects travel through friction in Indonesian cases.
+
+**Bridge from *[[trouillot-silencing-the-past-1995|Silencing the Past]]* (1995):** earlier Trouillot already treats “the West” as a historical construct that packages conquest as innocent discovery ([[columbus-commemorations]]) and manages [[historical-silences|silences]] in world-historical narrative. North Atlantic universals (2002–04) extend that critique from **narrative production** to **conceptual standards** that present North Atlantic experience as world-default — same thinker, later formulation, not a rename of the four-moment silence model.
 
 ## Operationalizations
 

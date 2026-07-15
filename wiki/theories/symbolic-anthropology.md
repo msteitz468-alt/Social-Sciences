@@ -5,13 +5,13 @@ disciplines: [anthropology]
 era_origin: critical-turn
 date_origin: "1960s–1970s"
 originated_by: ["[[turner-victor|Victor Turner]]", "[[geertz-clifford|Clifford Geertz]]", "[[douglas-mary|Mary Douglas]]", "David Schneider"]
-key_texts: ["[[turner-forest-of-symbols-1967|Turner, The Forest of Symbols (1967)]]", "[[turner-ritual-process-1969|Turner, The Ritual Process (1969)]]", "Geertz, The Interpretation of Cultures (1973)", "[[douglas-purity-and-danger-1966|Douglas, Purity and Danger (1966)]]", "[[douglas-natural-symbols-1970|Douglas, Natural Symbols (1970)]]"]
+key_texts: ["[[turner-forest-of-symbols-1967|Turner, The Forest of Symbols (1967)]]", "[[turner-ritual-process-1969|Turner, The Ritual Process (1969)]]", "Geertz, The Interpretation of Cultures (1973)", "[[douglas-purity-and-danger-1966|Douglas, Purity and Danger (1966)]]", "[[douglas-natural-symbols-1970|Douglas, Natural Symbols (1970)]]", "[[wagner-invention-of-culture-1975|Wagner, The Invention of Culture (1975)]]"]
 core_claims: ["Symbols and their meanings are the primary object of anthropological analysis, not social structure alone", "Ritual symbols are multivocal and must be read across levels of meaning", "Culture is a system of symbols through which people think, feel, and act", "Ritual is a phase in social process, not a static reflection of structure"]
 developed_from: ["[[structural-functionalism]]", "[[structuralism]]"]
 competes_with: ["[[structural-functionalism]]", "[[structuralism]]"]
 status: absorbed
-sources_ingested: 5
-last_updated: 2026-07-09
+sources_ingested: 6
+last_updated: 2026-07-15
 tags: [theory, anthropology]
 ---
 
@@ -64,6 +64,7 @@ readings of pollution and [[taboo]] ([[purity-pollution-theory]]; later [[grid-g
   (*[[douglas-purity-and-danger-1966|Purity and Danger]]*, 1966; [[purity-pollution-theory]]; later [[grid-group-analysis]] via *[[douglas-natural-symbols-1970|Natural Symbols]]*;
   [[ritual-pollution]]; [[douglas-purity-and-danger-study]]).
 - **David Schneider** — cultural analysis of American kinship (not yet ingested).
+- **[[wagner-roy|Roy Wagner]]** — the dialectical/inventionist wing: *[[wagner-invention-of-culture-1975|The Invention of Culture]]* (1975; rev. 1981) radicalizes the program by arguing (attributed) that culture is not a symbol system people *have* but something continuously invented — by ethnographer and studied alike — through the interplay of [[invention-and-convention|conventional and inventive symbolization]]; key concepts [[obviation]] and [[reverse-anthropology]]. Wagner self-identified with symbolic theory while claiming, against contemporaries Sperber and Barth, to take cultural relativity to its full reflexive conclusion; he treats language "as an instance of more general semiotic operations, rather than vice versa." His line fed the "New Melanesian Ethnography" (Strathern) and, later, the ontological turn (Viveiros de Castro).
 - **[[sahlins-marshall|Marshall Sahlins]]** — the structuralist/culturalist wing: *[[sahlins-culture-and-practical-reason-1976|Culture and Practical Reason]]* (1976) is a programmatic statement that "meaning is the specific property of the anthropological object" and that even Western capitalism is a symbolic order ([[la-pensee-bourgeoise]]), and *[[sahlins-islands-of-history-1985|Islands of History]]* (1985) extends the symbolic program into history (see [[cultural-reason]], [[structure-of-the-conjuncture]]).
 
 ## Empirical Program

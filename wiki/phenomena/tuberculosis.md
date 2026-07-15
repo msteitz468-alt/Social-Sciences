@@ -10,9 +10,9 @@ measured_by: ["case notification rates", "case-fatality and cure rates", "tuberc
 driven_by: ["poverty and malnutrition", "[[hiv-aids|HIV co-infection]]", "crowded housing", "interrupted / inadequate therapy (drug resistance)", "unequal access to care"]
 produces: ["premature adult mortality", "multidrug-resistant strains", "household and institutional transmission"]
 theorized_by: ["[[farmer-paul|Paul Farmer]]", "[[structural-violence]]", "[[biosocial-analysis]]"]
-key_studies: ["[[farmer-infections-inequalities-1999|Farmer, Infections and Inequalities]] (1999)"]
-sources_ingested: 1
-last_updated: 2026-07-09
+key_studies: ["[[farmer-infections-inequalities-1999|Farmer, Infections and Inequalities]] (1999)", "[[farmer-pathologies-of-power-2003|Farmer, Pathologies of Power]] (2003)"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [phenomenon, global]
 ---
 
@@ -60,6 +60,23 @@ all TB cases worldwide are ever diagnosed.
   few can access any drugs, so acquired resistance is comparatively less likely; the most resistant
   organisms emerge in settings of *juxtaposed* wealth and poverty (urban Peru), where second-line drugs
   are purchasable but not reliably accessible — producing intermittent, resistance-amplifying treatment.
+  In *[[farmer-pathologies-of-power-2003|Pathologies of Power]]* Farmer and colleagues named the
+  **"amplifier effect"** (attributed): giving standard first-line short-course chemotherapy to a
+  patient already resistant to both isoniazid and rifampin exposes the strain to sub-lethal pressure
+  and *worsens* the resistance pattern — so DOTS, which rests on those two drugs, cannot cure MDR-TB
+  and can make it worse when applied indiscriminately during a resistant outbreak.
+
+- **Prisons as epidemic amplifiers.** Farmer treated the prison as the paradigmatic site where
+  [[structural-violence|structural violence]] concentrates TB risk. In the Russian penal system (as of
+  his 1998–2000 fieldwork and cited surveys) an estimated 1 in 10 prisoners had active TB and up to a
+  quarter of those MDR-TB; TB accounted for 50–80% of deaths in many former-Soviet prisons. At one
+  colony he visited, over 800 of 909 prisoners had active TB, the annual medication budget was ~$2,000,
+  and 27 of 30 prisoners due for release that month were still infectious. In Tomsk oblast prison TB
+  notification ran forty to fifty times the civilian rate. He read the earlier New York City MDR-TB
+  outbreak (1,279 cases 1991–94, ~80% traced to jails and shelters, >$1 billion to control) as the
+  same mechanism in a rich city. Farmer's argument (attributed): the only way to halt
+  "tuberculosis-as-punishment" is prompt effective treatment of all prisoners, since even amnesty
+  releases still-infectious people into dismantled health systems.
 
 ## Explanatory Theories
 

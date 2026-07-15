@@ -7,8 +7,8 @@ disciplines: [archaeology, historical-archaeology]
 emic_or_etic: etic
 operationalized_as: "Hand-built, low-fired earthenware on colonial-period sites in the southeastern US and related contexts, variously attributed to Native American, African-descended, or multiethnic makers"
 contested: yes
-related_concepts: ["[[four-haunts]]", "[[mutualism-historical-archaeology]]", "[[historical-archaeology]]", "[[acculturation]]"]
-sources_ingested: 1
+related_concepts: ["[[four-haunts]]", "[[mutualism-historical-archaeology]]", "[[historical-archaeology]]", "[[acculturation]]", "[[creolization]]"]
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [concept, archaeology, historical-archaeology]
 ---
@@ -48,6 +48,10 @@ Ware attributes, site associations (plantations, towns, Native sites), and distr
 - Orser 1996 Ch. 5 as theory case alongside Palmares pipes.
 - Parallel lesson for any "ethnic ceramic" in colonial contexts worldwide.
 
+## Deetz 1996 densification
+
+*(Attributed — [[deetz-james|Deetz]], *[[deetz-in-small-things-forgotten-1996]]* Ch. 8.)* Deetz narrates Noël Hume's 1962 **"Colono-Indian Ware"** naming and the later South Carolina reattribution arguing Africans made much or most of the ware. He reports Colono chronology differing in Virginia vs South Carolina; increase as Native populations decline and African populations grow; vessel-shape differences tracking residential history (VA co-residence early vs SC separate quarters from the start). He links Colono to West African foodways (stews, two-part meals, gumbo analogies) and planter cost-cutting incentives. He treats African production as **compelling but not universally accepted**. Complementary creole form: Chesapeake clay tobacco pipes (English mold technology + African-derived decoration; Emerson) with roughly complementary chronological distribution to later Colono as racial slavery consolidates. Method rule: prefer whole-site fabric over isolated ethnic-marker hunting.
+
 ## Critiques and Limitations
 
-Ethnic attribution from ceramics is chronically underdetermined. **Four-way non-identity:** ware ≠ people ≠ language ≠ genetics. Single-study or single-narrator (Orser 1996) summaries of the career are not substitutes for the ceramic primary literature. Contested: yes.
+Ethnic attribution from ceramics is chronically underdetermined. **Four-way non-identity:** ware ≠ people ≠ language ≠ genetics. Single-study or single-narrator (Orser 1996; Deetz 1996) summaries of the career are not substitutes for the ceramic primary literature. Contested: yes.

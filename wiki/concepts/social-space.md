@@ -7,9 +7,9 @@ disciplines: [sociology]
 emic_or_etic: etic
 operationalized_as: "Multidimensional space of positions defined primarily by volume of capital and composition (economic vs cultural), plus trajectory; often mapped via correspondence analysis"
 contested: yes
-related_concepts: ["[[social-field]]", "[[cultural-capital]]", "[[habitus]]", "[[class-fraction]]", "[[symbolic-capital]]", "[[distinction]]", "[[reconversion-strategies]]"]
+related_concepts: ["[[social-field]]", "[[cultural-capital]]", "[[habitus]]", "[[class-fraction]]", "[[symbolic-capital]]", "[[distinction]]", "[[reconversion-strategies]]", "[[production-of-space]] (Lefebvre — different construct; disambiguate)"]
 sources_ingested: 1
-last_updated: 2026-07-09
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -24,6 +24,8 @@ Bourdieu's relational construct of the overall structure of social positions —
 ## Semantic History
 
 *Distinction* is the major empirical statement; later field theory specializes spaces of positions within domains (art, science, housing) while social space names the global topology. Related to but broader than Weberian status groups; reworks class/*Stand* into one relational geometry. Distinct from Blau space or other multidimensional stratification models in mechanism (capital forms + habitus).
+
+**Disambiguation — Lefebvre:** Henri Lefebvre’s *[[lefebvre-production-of-space-1991|The Production of Space]]* (1974/1991) also uses “social space,” but as the **produced** space of social practice (product thesis; [[spatial-triad]]; [[abstract-space]]), not as Bourdieu’s capital-topology map. Do **not** merge claims: Bourdieu → this page; Lefebvre → [[production-of-space]] / [[lefebvre-henri]].
 
 ## Operationalizations
 

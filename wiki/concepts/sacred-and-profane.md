@@ -7,9 +7,9 @@ disciplines: [sociology]
 emic_or_etic: etic
 operationalized_as: "Not quantified; binary classification of things, rites, and times as set apart (sacred) vs ordinary utilitarian life (profane); relative and contagious character of the sacred"
 contested: yes
-related_concepts: ["[[collective-effervescence]]", "[[totemism]]", "[[collective-representations]]", "[[collective-conscience]]", "[[social-fact]]", "[[ritual-pollution]]", "[[taboo]]", "[[matter-out-of-place]]"]
-sources_ingested: 3
-last_updated: 2026-07-09
+related_concepts: ["[[collective-effervescence]]", "[[totemism]]", "[[collective-representations]]", "[[collective-conscience]]", "[[social-fact]]", "[[ritual-pollution]]", "[[taboo]]", "[[matter-out-of-place]]", "[[sacrifice]]", "[[sacralization]]", "[[desacralization]]"]
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -28,9 +28,11 @@ The second element is "no less essential": religion is inseparable from the Chur
 | Context | Sense |
 |---|---|
 | Durkheim 1912 | Defining dualism of religious life; not supernatural vs natural, not gods required |
+| Hubert & Mauss 1898 (*Sacrifice*) | Operational dualism **before** *Forms*: sacrifice communicates between sacred and profane worlds via destroyed victim; impurity as a kind of consecration — see [[hubert-mauss-sacrifice-study]], [[desacralization]] |
 | Mid-century functionalism / comparative religion | Standard textbook definition of religion |
 | Structuralism / later anthropology | Often relaxed; many systems show graded or ambiguous sacredness (Durkheim's own piacular chapter notes ambiguity of pure/impure sacred) |
 | Douglas *Purity and Danger* (1966) | Attacks Robertson Smith/Frazer claim that primitives *confuse* holy and unclean; pollution idiom can be fine relative algebra (Havik); dirt/uncleanness as matter out of place applies across sacred and secular without requiring Durkheim's dualism as the only frame — see [[ritual-pollution]], [[douglas-purity-and-danger-study]] |
+| Douglas *How Institutions Think* (1986) | The sacred demystified as "nothing more mysterious or occult than shared classifications, deeply cherished and violently defended" — an artifact of the division of labor, derivable from consensus without coercive authority; three diagnostics (dangerous if profaned; rouses emotional defense; explicitly symbolized). Douglas pairs it with Hume's justice-as-artificial-virtue: institutions secure themselves by "sacralizing the principles of justice" — see [[douglas-how-institutions-think-1986]] |
 | Contemporary cultural sociology | Sacred as that which is set apart and defended (Alexander et al.; reception not yet ingested) |
 
 ## Operationalizations
@@ -40,6 +42,7 @@ Binary or graded coding of spaces, times, objects, and persons as set-apart vs e
 ## Applications
 
 - Anchors Durkheim's rejection of animist and naturist definitions of elementary religion.
+- Already structural in Hubert & Mauss *[[hubert-mauss-sacrifice-1898|Sacrifice]]* (1898): the whole rite is a regulated traffic between the two domains via a victim intermediary.
 - Structures Book III: negative cult protects sacred/profane separation; positive cult brings them into communion under rule.
 - Extends to civil religion and political "sacred" in later reception (flag: not yet ingested).
 

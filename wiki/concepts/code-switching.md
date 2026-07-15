@@ -7,9 +7,9 @@ disciplines: ["linguistic-anthropology", "sociology"]
 emic_or_etic: etic
 operationalized_as: "classification of alternation between two codes as situational (redefines governing norms/participants) versus metaphorical (alludes to another relationship/topic without redefining the situation), established via structural-linguistic comparison and participant observation of recorded natural speech"
 contested: no
-related_concepts: ["[[interactional-sociolinguistics]]", "[[sociolinguistic-variable]]", "[[diglossia]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+related_concepts: ["[[interactional-sociolinguistics]]", "[[sociolinguistic-variable]]", "[[diglossia]]", "[[contextualization-cue]]"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -19,7 +19,19 @@ Blom and Gumperz, in "Social Meaning in Linguistic Structures: Code-Switching in
 
 ## Semantic History
 
-The concept as stated in this 1972 chapter does not yet use the later Gumperz phrase "we-code/they-code," though the same value symbolism is functionally present: R is described as symbolizing membership in the local "team" (hræmnesværing, "Hemnes resident") and egalitarian, kin/friendship-based local identity, while B symbolizes non-local, official, national, or class-differentiated status (using B casually among locals is derided as å snakke fint, "to put on airs"). The wiki flags this distinction for future correction: the exact terms "we-code" and "they-code" belong to a later Gumperz publication and should not be dated to this 1972 chapter.
+The concept as stated in this 1972 chapter does not yet use the later Gumperz phrase "we-code/they-code," though the same value symbolism is functionally present: R is described as symbolizing membership in the local "team" (hræmnesværing, "Hemnes resident") and egalitarian, kin/friendship-based local identity, while B symbolizes non-local, official, national, or class-differentiated status (using B casually among locals is derided as å snakke fint, "to put on airs"). **We-code/they-code** is now dated: the terms appear in *[[gumperz-discourse-strategies-1982|Discourse Strategies]]* (1982, Ch. 4; chapter completed 1976): "the ethnically specific, minority language [tends] to be regarded as the 'we code' and become associated with in-group and informal activities," the majority language as the "'they code'" — with Gumperz's own caution that the association "is a symbolic one: it does not directly predict actual usage" (attributed).
+
+### The 1982 elaboration (Gumperz, *Discourse Strategies*, Ch. 4 — attributed throughout)
+
+- **Conversational code switching defined:** "the juxtaposition within the same speech exchange of passages of speech belonging to two different grammatical systems or subsystems" — distinguished from [[diglossia]], where alternation is largely situational.
+- **Revision of 1972:** metaphorical switching is re-derived as "a shift in contextualization cues... not accompanied by a shift in topic," and "the distinction between the two types of alternation is however not a qualitative one" — a difference of degree, interpreted via Gricean implicature (see [[contextualization-cue]], [[conversational-inference]]).
+- **Corpora:** participant-recorded conversations, member-checked, from three settings — [[gail-valley-slovenes|Gail Valley]] Slovenian–German (Austria), Delhi Hindi–English, and Chicano Spanish–English (California).
+- **Borrowing vs. switching:** borrowing = single words/frozen phrases incorporated into the borrowing language's grammar (Hindi *ticor* "teacher" obeying Hindi concord); switching = meaningful juxtaposition of strings formed by two distinct grammatical systems.
+- **Six switching functions** (offered as heuristic, "not exhaustive" and not predictive): quotation; addressee specification; interjection; reiteration; message qualification; personalization vs. objectivization.
+- **Syntactic constraints** from appropriateness-judgment tests (e.g., nonemphatic pronouns unswitchable; idioms unsplittable; at most one switch per message subunit), compared by Gumperz to Ross's (1967) island constraints and independently converging with Timm (1975); informants rejected double switches within a narrative subunit as "language mixing."
+- **Direction matters:** reversal experiments — shift into the we-code read as personal appeal, into the they-code as warning/mild threat.
+- **Against deficit and randomness:** switching "does not necessarily indicate imperfect knowledge of the grammatical systems"; against Labov's (1971) "idiosyncratic" characterization, Gumperz argues the patterning is network-based rather than macro-categorical ([[labov-william]], [[variationist-sociolinguistics]]). Closed-network formulaic speech is reframed as presupposition-reliance, not restricted ability (glancing at [[bernstein-basil]]'s [[restricted-and-elaborated-codes]]).
+- **Self-report ≠ behavior:** Norwegian townspeople and Jersey City Puerto Rican bilinguals denied switching that their tapes showed; asked to avoid it, they could not — folk labels ("Tex-Mex," "pocho") stigmatize what practice sustains.
 
 ## Operationalizations
 

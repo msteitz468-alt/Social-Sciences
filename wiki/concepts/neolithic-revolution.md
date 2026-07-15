@@ -7,8 +7,8 @@ disciplines: [archaeology, anthropology]
 emic_or_etic: etic
 operationalized_as: "Transition from food-gathering (savagery) to food-producing economy (barbarism): deliberate cultivation and often stock-breeding; associated package (pottery, spinning/loom, built houses, polished axe) — Childe's complex, not a single trait or simultaneous worldwide event"
 contested: yes
-related_concepts: ["[[neolithic]]", "[[urban-revolution]]", "[[palaeolithic]]", "[[savagery-barbarism-civilization]]", "[[three-age-system]]", "[[play-farming]]", "[[social-surplus]]", "[[ex-oriente-lux]]", "[[hilly-flanks]]", "[[nuclear-area]]", "[[incipient-cultivation]]", "[[secondary-products-revolution]]"]
-sources_ingested: 8
+related_concepts: ["[[neolithic]]", "[[urban-revolution]]", "[[palaeolithic]]", "[[savagery-barbarism-civilization]]", "[[three-age-system]]", "[[play-farming]]", "[[social-surplus]]", "[[ex-oriente-lux]]", "[[hilly-flanks]]", "[[nuclear-area]]", "[[incipient-cultivation]]", "[[secondary-products-revolution]]", "[[early-farming-dispersal-hypothesis]]", "[[agricultural-revolution]]"]
+sources_ingested: 10
 last_updated: 2026-07-10
 tags: [concept, archaeology]
 ---
@@ -85,3 +85,24 @@ Keep as historiographical concept; do not assert a single simultaneous worldwide
 ### Sherratt — second revolution after the Neolithic (1997)
 
 *(Attributed — [[sherratt-andrew]], *[[sherratt-economy-society-prehistoric-europe-1997|Economy and Society in Prehistoric Europe]]*.)* Sherratt keeps Childe’s Neolithic Revolution as the first Old World farming threshold but argues a **second** transformation — the **[[secondary-products-revolution|Secondary Products Revolution]]** (milk, wool, [[animal-traction|traction]]) — reorganized later Neolithic/Copper Age economies, especially from the fourth millennium BC. He treats the Neolithic beginning as the “original Consumer Revolution” and the SPR as “its second round,” and (Ch.20 / Section III intro) reads Europe’s SPR impact as the outer-Eurasian spin-off of Childe’s [[urban-revolution|Urban Revolution]] rather than a mere intensification of local European trends. Early farming in his model is meat-focused hoe horticulture whose *otherness* from later plough–pastoral Eurasia the SPR concept was invented to emphasise.
+
+## Bellwood densification — *First Farmers* (2005)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005.)*
+
+- **1980s orthodoxy:** Bellwood situates early-1980s archaeological thinking as reacting against Childe’s “Neolithic Revolution” toward slow *in situ* development / immobility of early agriculture; he was suspicious of pure immobility from Roman, Barbarian, and Polynesian migration knowledge (attributed).
+- **Two aspects of the Revolution:** Popular sense = origin of domesticated-plant agriculture (SW Asia late PPNA/early PPNB ~9000–8500 BC as of his tables). Bellwood adds a second revolutionary aspect = **spread far beyond the homeland** — demic/cultural expansion under the [[early-farming-dispersal-hypothesis]] as equally revolutionary (attributed). See [[agricultural-revolution]] for his “second, major stage” after ~7000 BC Levant reconfiguration.
+- **Aceramic early SW Asia:** Early SW Asian transition is **aceramic Neolithic** (no pottery early; no smelted metal — only hammered) (attributed). By soon after 7000 BC widespread pottery — soft cereal gruels/porridges, early weaning, population growth, less dental wear (Molleson 1994; de Moulins 1997 via Bellwood); pyrotechnics path to metallurgy; PPN has hammered copper beads/awls (attributed).
+- **Childe oasis partially rescued:** Classic desiccation/propinquity story wrong if domestication takes off in **wetter early Holocene**; but Younger Dryas drought stress means Childe “could have been partly right” / “not too far off the mark” (attributed). Positions densify [[oasis-natural-habitat-debate]] and [[agricultural-origins-causation-debate]].
+
+Keep as historiographical concept; multi-centric chronology and demic spread are Bellwood’s program, not a return to single-package monogenesis. Source: [[bellwood-first-farmers-2005]].
+
+## Barker 2006 (*Agricultural Revolution in Prehistory*)
+
+*(Attributed — [[barker-graeme|Graeme Barker]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006, esp. Chs. 3–4 method + SW Asia conclusion; programme for global regional histories.)*
+
+- **Not a single method/event.** “No one sub-set of archaeology or other discipline on its own can possibly attempt to resolve” the agricultural revolution; need integrated multi-method **regional histories** of foraging–farming transitions globally before general answers (Barker position). Artefact typology alone cannot sort foragers from farmers.
+- **SW Asia long process.** Husbandry-like behaviours among early Natufians almost **5,000 years** before full PPNB mixed farming from c.8500 BC; agriculture not a sudden event but myriads of local decisions; transition not unidirectional simple→complex (attributed). Standard model of last ~15 years as of 2006 (cereals PPNA southern Levant → sheep/goats later Zagros → PPNB package) is coherent but “almost certainly only a small part of the story” (Barker).
+- **PPNA/PPNB as Barker dates.** Younger Dryas ~1,500 years until mid-10th millennium BC; sudden Holocene warming coincides with Neolithic emergence; PPNA c.9500–8500 BC (first morph. domestic cereals; still hunters); PPNB c.8500–6500 BC mixed-farming explosion; Pottery Neolithic later 7th millennium for region-wide agricultural reliance + secondary products (Moore; Sherratt) (attributed).
+- **Cauvin ideology-first recorded.** Cauvin (2000): people “began to think like farmers, so they became farmers”; most scholars (Hodder 2001 via Barker) prefer ideologies developing hand-in-hand with new subsistence — debate deferred in Barker’s Ch. 10 (position inventory, not adjudication).
+- **Global multi-center pattern.** Parallel independent trajectories (SW Asia, South Asia, China rice/millet, Americas floodplain/tropical/Andean, New Guinea Highlands, African pastoral and millet pathways) undercut single-hearth aftershock models; new domesticates often not primary staples until later labour/tech transformations (Barker synthesis position). Cross-links: [[agricultural-revolution]], [[natufian-culture]], [[domestication]], [[barker-graeme]], [[agricultural-origins-causation-debate]].

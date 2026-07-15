@@ -4,20 +4,20 @@ thinker_page: "[[leach-edmund]]"
 date_birth: 1910
 date_death: 1989
 disciplines: [anthropology, political-anthropology]
-key_works: ["Political Systems of Highland Burma (1954)", "Jinghpaw Kinship Terminology (1945)", "Rethinking Anthropology (1961)"]
+key_works: ["Political Systems of Highland Burma (1954)", "Jinghpaw Kinship Terminology (1945)", "Pul Eliya (1961)", "Rethinking Anthropology (1961)", "A Runaway World? (1967/68)", "Lévi-Strauss (1970)", "Culture and Communication (1976)", "Social Anthropology (1982)", "Structuralist Interpretations of Biblical Myth (1983)"]
 key_concepts: ["[[gumsa]]", "[[gumlao]]", "[[gumsa-gumlao-oscillation]]", "[[mayu-dama]]"]
-fieldwork_sites: ["Hpalang 1939–40; Kachin Hills wartime travel 1940–45"]
-primary_sources: ["[[leach-political-systems-highland-burma-1954]]"]
-key_sources: ["[[leach-political-systems-highland-burma-1954]]"]
-last_updated: 2026-07-09
+fieldwork_sites: ["Hpalang 1939–40; Kachin Hills wartime travel 1940–45; Ceylon 1954"]
+primary_sources: ["[[leach-political-systems-highland-burma-1954]]", "[[leach-pul-eliya-1961]]", "[[leach-rethinking-anthropology-1961]]"]
+key_sources: ["[[leach-political-systems-highland-burma-1954]]", "[[leach-pul-eliya-1961]]", "[[leach-rethinking-anthropology-1961]]", "[[leach-bibliography-1990]]"]
+last_updated: 2026-07-10
 tags: [hub, thinker]
 ---
 
 # E. R. Leach — Thinkers Hub
 
-> Summary page: [[leach-edmund]]. Principal ingested work: [[leach-political-systems-highland-burma-1954]] / [[leach-political-systems-highland-burma-study]].
+> Summary page: [[leach-edmund]]. Principal ingested works: [[leach-political-systems-highland-burma-1954]] / [[leach-political-systems-highland-burma-study]]; [[leach-rethinking-anthropology-1961]]. Corpus apparatus: [[leach-bibliography-1990]].
 
-Graduate-level intellectual biography focused on the *Highland Burma* program — formation under Malinowski, war-broken fieldwork, model theory, gumsa/gumlao dynamics, and the equilibrium dispute with Gluckman and Fortesian SF. Later works (*Rethinking Anthropology*, Pul Eliya, etc.) are named as collection gaps, not filled from outside knowledge.
+Graduate-level intellectual biography: *Highland Burma* program (formation under Malinowski, war-broken fieldwork, model theory, gumsa/gumlao, equilibrium dispute) plus the 1961 twin *Pul Eliya* (locality/property case history; Studies Hub: [[hubs/studies/leach-pul-eliya-study]]) and *Rethinking Anthropology* essay program (anti-butterfly-collecting method; ethnographic algebra; matrilateral CCM; marriage definition; Fortes fight; mythic time). The 1990 RAI bibliography maps the remaining publication spine (Reith, Lévi-Strauss intro, culture-and-communication, biblical structuralism, textbook) still largely un-ingested as texts.
 
 ---
 
@@ -51,19 +51,26 @@ Genealogy as product: Leach is an **internal critic** of British SF — trained 
 2. **Burma Army (1940–45).** Officer among Kachins; wide geographic coverage; no detailed field study; notes from tours; undignified 1942 withdrawal and return via Assam.
 3. **Historical reconstruction (1946–early 1950s).** London thesis on historical materials; India Office corpus; lost-fieldwork problem converted into method (memory + archive + theory).
 4. **LSE theoretical synthesis (1947–54).** Teaching post; *Political Systems of Highland Burma* published 1954; Firth foreword.
-5. **Afterlife of the book (1954–64+).** Tepid early comment (self-report); later "beginning of a trend"; 1964 Introductory Note vs Gluckman; subsequent career (*Rethinking Anthropology* 1961, etc.) not yet ingested.
+5. **Kinship essays and Malinowski Lecture (1945–61).** Jinghpaw terminology paper (drafted 1943; *JRAI* 1945); Curl Prize matrilateral essay (1951); polyandry/*Man* pieces and Ceylon 1954 fieldwork; *Rethinking Anthropology* (1961) collects them under the 1959 Malinowski Memorial Lecture’s method banner; Fortes/Goody/Gough polemics. Same year: *Pul Eliya* (Ceylon land tenure/kinship — “materialist” in Leach’s later self-label per Gudeman & La Fontaine).
+6. **Afterlife of *Highland Burma* and public structuralism (1954–70s).** Tepid early comment (self-report); later "beginning of a trend"; 1964 Introductory Note vs Gluckman. Reith Lectures (*A Runaway World?*, 1967); Fontana *Lévi-Strauss* (1970); *Culture and Communication* (1976); biblical structuralism and *Social Anthropology* textbook into the 1980s (see works table from [[leach-bibliography-1990]]).
+7. **Institutional elder (RAI).** Council, Vice-President, President; Esperanza Trust; *Anthropology Today* and premises support (Sunderland preface in the 1990 bibliography).
 
 ---
 
 ## Major Works and Their Moves
 
-| Work | Year | Move it makes | Reception (as of this ingest) |
+| Work | Year | Move it makes | Reception / status in this wiki |
 |---|---|---|---|
-| Jinghpaw Kinship Terminology (*JRAI*) | 1945 | "Ethnographic algebra" — limited kinship assumptions generate ideal-rule behaviour schemes | Firth cites as model of model-use |
-| *Political Systems of Highland Burma* | 1954 | Structure as model; gumsa/gumlao oscillation; mayu–dama hinge; myth as faction | Charter political-anthropology text; equilibrium dispute |
-| Introductory Note to reprint | 1964 | Ideas-level vs facts-level equilibrium; Fortes/Gluckman clarification | Metacommentary now read with the book |
-| *Rethinking Anthropology* | 1961 | (Not ingested) | Collection gap |
-| Later ethnography (e.g. Pul Eliya) | 1960s | (Not ingested) | Collection gap |
+| Jinghpaw Kinship Terminology (*JRAI*) | 1945 | "Ethnographic algebra" — limited kinship assumptions generate ideal-rule behaviour schemes | Firth cites as model of model-use; ingested via *Rethinking* |
+| *Political Systems of Highland Burma* | 1954 | Structure as model; gumsa/gumlao oscillation; mayu–dama hinge; myth as faction | Charter political-anthropology text; fully ingested + Studies Hub |
+| *Pul Eliya* | 1961 | Dense Ceylon village study; land tenure/kinship/caste; Leach’s “materialist” self-label vs *Highland Burma* “idealist” (Gudeman & La Fontaine 1990) | **Ingested 2026-07-10** — [[leach-pul-eliya-1961]] · [[leach-pul-eliya-study]] · [[hubs/studies/leach-pul-eliya-study]] · [[pul-eliya]] |
+| *Rethinking Anthropology* | 1961 | Anti-butterfly-collecting; algebraic Jinghpaw; matrilateral CCM vs LS ethnography; marriage as rights bundle; Fortes/affinity fight; mythic time | Charter method-and-kinship collection; fully ingested |
+| Introductory Note to *Highland Burma* reprint | 1964 | Ideas-level vs facts-level equilibrium; Fortes/Gluckman clarification | Metacommentary read with the book |
+| *A Runaway World?* (Reith Lectures) | 1967/68 | Public anthropology: war, family, education, scepticism of grand schemas | Listed in bibliography; **not ingested** |
+| *Lévi-Strauss* (Fontana Modern Masters) | 1970 | Introduction that is “pure Leach” (G&LF) — empiricist structuralism for a wide audience | **Not ingested** |
+| *Culture and Communication* | 1976 | Structural analysis of symbols for social anthropology teaching | **Not ingested** |
+| *Social Anthropology* | 1982 | Sixth-form / first-year textbook; teaching charisma (G&LF) | **Not ingested** |
+| *Structuralist Interpretations of Biblical Myth* (with D. A. Aycock) | 1983 | Bible as ethnographic-style corpus; religion/myth/art provocation | **Not ingested** |
 
 ---
 
@@ -78,6 +85,10 @@ Genealogy as product: Leach is an **internal critic** of British SF — trained 
 | Structure as model | Ch. I; 1964 Note | Ideal patterns *as if* equilibrated | Methodological commonplace |
 | Ritual as communication | Ch. I | Aspect of behaviour, not opposite of technique | Symbolic/political anthropology |
 | Myth as faction | Ch. IX | Rival versions; contradictions significant | Anti-charter mythology |
+| [[butterfly-collecting]] | *Rethinking* Ch. 1 | Typological comparison as tautology; prefer topological generalization | Catchphrase for anti-typology |
+| [[ethnographic-algebra]] | *JRAI* 1945 / *Rethinking* Ch. 2 | Deduce terminology from ideal rules; ideal ≠ norm | Formal kinship method |
+| [[affinity]] as group alliance | *Rethinking* Chs. 1, 5 | Mayu/dama ≠ complementary filiation | Alliance/descent fight |
+| [[local-descent-group]] | *Rethinking* Ch. 3 | Corporate marriage unit = co-resident lineage males | Alliance analysis unit |
 
 ---
 
@@ -113,6 +124,7 @@ What was personal: the particular gumsa/gumlao ethnography, Jinghpaw algebra, Hp
 
 ## Historiography and Primary Sources
 
-- Ingested: *Political Systems of Highland Burma* (1954 text; 1964 Introductory Note; Firth foreword) — [[leach-political-systems-highland-burma-1954]].
-- Not ingested: 1945 JRAI paper; *Rethinking Anthropology*; Pul Eliya; biography/secondary literature.
+- Ingested texts: *Political Systems of Highland Burma* (1954 text; 1964 Introductory Note; Firth foreword) — [[leach-political-systems-highland-burma-1954]]; *Rethinking Anthropology* (1961, incl. 1945 Jinghpaw paper) — [[leach-rethinking-anthropology-1961]].
+- **Corpus apparatus:** [[leach-bibliography-1990|Edmund Leach: A Bibliography]] (RAI Occasional Paper 42, 1990). Near-complete chronological list of Leach’s own writings 1935–1988; basis Leach + Macintyre + Stirrat typed list; Weston update after death; Gudeman & La Fontaine introduction (essay-form mind; 1954/1961 idealist–materialist contrast; RAI tribute frame); Sunderland preface (Esperanza Trust, RAI presidency). Explicitly incomplete on translations; excludes reviews of Leach and secondary commentary.
+- Not ingested as texts: Reith Lectures; *Lévi-Strauss* (1970); *Culture and Communication*; *Social Anthropology* (1982); biblical structuralism volumes; Tambiah biography. *Pul Eliya* ingested 2026-07-10.
 - Summary: [[leach-edmund]]. Study hub: [[hubs/studies/leach-political-systems-highland-burma-study]].

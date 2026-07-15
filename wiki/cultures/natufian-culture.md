@@ -15,7 +15,7 @@ preceded_by: ["Geometric Kebaran (Mediterranean zone — continuity contested)",
 succeeded_by: ["PPNA / earliest Neolithic of the Levant", "Harifian (Negev–Sinai Late/Final Epipaleolithic offshoot)"]
 language_affiliation: "[[unknown]] — do not equate archaeological culture with language (Bar-Yosef & Valla 2013 explicitly decline Afro-Asiatic linkage)"
 genetic_signature: "[[unknown]] in this source set — not equated with the material construct; densify from aDNA when ingested"
-sources_ingested: 6
+sources_ingested: 8
 last_updated: 2026-07-10
 tags: [culture, mesolithic, levant, epipaleolithic, natufian]
 ---
@@ -169,3 +169,42 @@ Construct remains etic; Braidwood’s absolute dates and dog/goat claims are per
 - **Toolkit:** sickles, grinding, even hoe/adze forms already exist but are not yet agricultural specialists (wood, ochre uses); Neolithic needs no wholly new tool kit until plough/traction — originality is **social framework** of villages/cemeteries.
 - **Art:** essentially zoomorphic; sparse anthropomorphs (inventory of ~five proposed representations).
 - **Succession:** toward [[khiamian|Khiamian]] (10,000–9500 BC) then PPNA triad — Cauvin’s path into the [[revolution-of-symbols]].
+
+## Bellwood densification — *First Farmers* (2005)
+
+*(Attributed — [[bellwood-peter]], *[[bellwood-first-farmers-2005|First Farmers]]* 2005, ch.3 SW Asia; calendar BC as Bellwood’s narrative; pre-aDNA. Archaeological culture ≠ language ≠ genes.)*
+
+### From Geometric Kebaran to Natufian
+
+- **Geometric Kebaran** after 15,000 BC in southern Levant: caves/small camps mostly <300 m² (max ~1,000); seasonally mobile; stone mortars/pestles; Ein Gev III circular huts with stone foundations; apparently no stone sickles yet. Atlas: 51 Levant Geometric Kebaran locations vs 3 elsewhere in SW Asia (research bias possible) (attributed).
+- By ~**12,500 BC** Geometric Kebaran evolving into **Natufian**; sites more numerous and larger — Atlas 74 Levant Natufian locations + 26 contemporary non-Natufian in Anatolia/Zagros; site areas up to ~5× Geometric Kebaran average; rapid population growth especially early Natufian **before** Younger Dryas (11,000–9500 BC as of his frame) (attributed).
+- **Belfer-Cohen & Hovers (1992):** 417 excavated Natufian burials vs 3 Upper Paleolithic — proxy for increasing numbers (finding via Bellwood).
+- **Bar-Yosef** treats Classic Natufian as genuine archaeological culture; Bar-Yosef & Belfer-Cohen (1992:39) “revolutionary event” from Epi-Paleolithic hunter-gatherer background in Levantine homeland (attributed). Classic Natufian dense in southern/central Levant (Jordan Valley, Mediterranean hinterland); related Middle Euphrates sites Mureybit, Abu Hureyra. Contemporary Anatolia/Iran **not** Natufian (Iran = Zarzian lithics); little cereal/legume exploitation evidence; little direct involvement in agricultural origins (attributed).
+
+### Plants, sickles, and Abu Hureyra
+
+- Plant remains rare (soil conditions); hints of wild cereals (esp. barley) in drier regions; basalt mortars/pestles common; Wadi Hammeh 27 (~11,500 BC) wild barley + bone sickle handles with microlith inserts (Edwards 1991); stone-bladed sickle common in central Levant Natufian (Anderson 1994: could cut reeds too); Mureybet IA N Syria ~10,500 BC wild barley, einkorn, lentils (van Zeist 1988) (attributed).
+- **Abu Hureyra Epipaleolithic:** Younger Dryas impact after 11,000 BC — woodland loss; wild wheat/rye harvest; rye shows domesticated characteristics as early as **10,700 BC** (3 grains AMS); arable-favoring weeds appear; experiment short-lived; near-abandonment for a millennium after YD (attributed).
+- **Abu Hureyra demography:** phase 1 Epipaleolithic pop. ~100–200, sedentary small village, mainly hunting-gathering + minor rye cultivation; phase 2 Neolithic ~8000 BC: domesticated crops dominant, pop. **4,000–6,000** (attributed).
+- Natufian sickle gloss often = moist **unripe** grain harvest — maximizes wild yields but with total consumption (no replanting) cannot produce permanent [[domestication]] (attributed).
+
+### Affluent forager package and YD lag
+
+- Social complexity signals: large cemeteries (Mugharet-el-Wad ~60 burials; Nahal Oren ~50); Ain Mallaha ~2000 m², up to 12 circular sunken stone-lined huts; Ain Mallaha and Abu Hureyra small amounts Anatolian obsidian; bone-carving art, edge-ground axes, sickles — “affluent forager” package with sedentism, some social differentiation, high density (attributed). Hayden (via Bellwood demographic table): ~1,600% Levant Natufian→PPNB population rise (~10,000–7500 BC).
+- **YD stress engine** widely favored (challenged by Tchernov 1997 and Cauvin 2000); Natufian sedentism and social differentiation evidence imperfect; widespread domesticated plants appear **500–1,000 years after** YD and Natufian end — if YD was trigger, “gun took quite a while to go off” (Bellwood position). See [[natufian-younger-dryas-debate]], [[agricultural-origins-causation-debate]].
+- **Flannery 1972 (via Bellwood):** architectural shift Natufian/PPNA circular houses → PPNB subdivided rectilinear forms dominating Old World domestic architecture since.
+
+Identity cautions unchanged. Source: [[bellwood-first-farmers-2005]].
+
+## Barker 2006 (*Agricultural Revolution in Prehistory*)
+
+*(Attributed — [[barker-graeme|Graeme Barker]], *[[barker-agricultural-revolution-prehistory-2006|The Agricultural Revolution in Prehistory]]* 2006, Ch. 4; calendar BC per Barker’s Sherratt 1997 “older” absolute chronology; not wiki-voice verdicts.)*
+
+- **Definition and dating.** Barker reports the Natufian as discovered by Dorothy Garrod at Shukbah (1928); once thought intrusive, now agreed indigenous; emerged relatively suddenly across the Levant within a few centuries. He dates its beginning nearer **13,000 BC** after recalibration (many authors had said ~11,000 BC); divides Early/Late. Early Natufian ≈ Bølling–Allerød interstadial; Late Natufian ≈ [[younger-dryas|Younger Dryas]] stadial — closing Pleistocene, not Holocene “Mesolithic” (attributed).
+- **Climate–vegetation.** Bølling–Allerød warmer/wetter expanded park woodland and wild cereals northward (Hillman 1996 via Barker); Younger Dryas cold/dry caused park woodland and cereals to retreat (decline of tree fruits, asphodels, cereals at [[abu-hureyra]]); Holocene warming from c.9600 BC allowed expansion toward the southern Zagros (attributed).
+- **Settlement.** Heartland = better-watered southern Levant / Levantine corridor; sites typically 1,000–2,000 m² (5–10× Kebaran); largest estimated several hundred people, more generally up to ~50. Circular/oval stone-footed houses at ‘Ain Mallaha, Rosh Zin, Wadi Hammeh 27, Hayonim; Abu Hureyra and Mureybit clay/timber shelters; storage bins, grinding equipment (attributed).
+- **Subsistence debates (method caveat).** Barker stresses that lumping Early/Late and corridor vs steppe, plus unequal recovery (flotation intensity; dung-fuel seed bias), has muddied debates on sedentism, plant vs meat balance, cultivation, and gazelle herding (attributed).
+- **Early Natufian.** Principal settlements at lowland–upland junctions; multi-seasonal occupation (cementum; commensal house mouse/sparrow/rat at Hayonim); gazelle bulk of fauna. Abu Hureyra: 150+ plant species; systematic wild einkorn/barley; mass spring gazelle kills (Legge & Rowley-Conwy); one of earliest permanent settlements **without agriculture** via storage (Hillman via Barker). Consensus (as Barker reports): intensive **collection** of wild cereals, probably **not** systematic cultivation — morphological change would have been rapid under annual sowing + sickle harvest (Hillman & Davies 1990). Barker’s edge claim: Early Natufians were “delayed return” collectors actively manipulating plants/animals (competitor removal, planting, fire for gazelle grazing) even if not cultivators “in a modern sense” (attributed position).
+- **Gazelle herding debate.** Legge once inferred Natufian/PPNA gazelle herding from immature kills; counter-evidence (equal sexes at Hayonim; complete carcasses) led Legge & Rowley-Conwy to hunting not herding; mass kills via desert “kites” and/or communal drives; domestic dogs at El Wad, Hayonim Terrace, ‘Ain Mallaha (attributed).
+- **Late Natufian + Younger Dryas.** From ~11,000 BC declining wild-cereal productivity; poorer diet/health; Abu Hureyra and steppe sites abandoned; corridor responses include intensive gazelle hunting and greater cereal focus on alluvial soils (e.g. [[jericho]]) that Barker (via Sherratt) reads as drawing people into horticulture-like tillage/transplanting/weeding (attributed). Late Natufian single cemetery interments; detached skulls at ‘Ain Mallaha, Shukbah, Nahal Oren prefigure Jericho plastered-skull cult; community-wide (not only kin-based) status (Henry 1989 via Barker).
+- **Long-process thesis.** Barker argues husbandry-like behaviours among early Natufians almost **5,000 years** before full PPNB mixed farming from c.8500 BC — agriculture as long multi-path process, not sudden event; foragers had choices (attributed). Cross-links: [[natufian-younger-dryas-debate]], [[sedentism]], [[broad-spectrum-revolution]], [[animal-domestication]], [[barker-graeme]].

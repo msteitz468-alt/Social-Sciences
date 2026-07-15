@@ -7,9 +7,9 @@ disciplines: [sociology]
 emic_or_etic: etic
 operationalized_as: "[[unknown]]"
 contested: yes
-related_concepts: ["[[social-role]]", "[[value-orientation]]", "[[functional-prerequisites]]", "[[social-equilibrium]]", "[[institutionalization]]", "[[social-action]]"]
-sources_ingested: 1
-last_updated: 2026-07-08
+related_concepts: ["[[social-role]]", "[[value-orientation]]", "[[functional-prerequisites]]", "[[social-equilibrium]]", "[[institutionalization]]", "[[social-action]]", "[[social-systems-theory]]", "[[communication]]"]
+sources_ingested: 2
+last_updated: 2026-07-10
 tags: [concept]
 ---
 
@@ -30,6 +30,20 @@ Parsons distinguished a **society** — a social system meeting all [[functional
 The elementary unit of a social system, Parsons argued, is the *act*, but for macroscopic analysis the operative unit is the **status-role** (see [[social-role]]) — "the particle of mechanics," not mass or velocity. Parsons introduced the concept of **double contingency**: in interaction, unlike simple stimulus–response, alter's possible reactions are themselves contingent on ego's action and vice versa; this reciprocal contingency is a precondition for genuine symbolization and thus culture. He defined a **mechanism** as "an empirical generalization about motivational processes stated in terms of its relevance to the functional problems of an action system."
 
 The concept's meaning has drifted sharply since 1951. Under [[structural-functionalism]] "social system" carried strong connotations of boundary maintenance, equilibrium tendency, and normative integration — the very features [[conflict-theory|conflict theorists]] and interactionists later attacked as a conservative reification (see [[functionalism-and-social-change-debate]]). Later systems theory (Luhmann) redefined social systems as systems of *communication* rather than of interacting actors, breaking with Parsons's action-theoretic grounding.
+
+### Luhmann's redefinition (attributed)
+
+[[luhmann-niklas|Niklas Luhmann]]'s [[social-systems-theory|systems theory]]
+(*[[luhmann-social-systems-1995|Social Systems]]*, 1984) recasts the concept root and branch.
+For Luhmann a social system consists of **[[communication|communications]]**, not of persons or
+actions; human beings and their [[psychic-system|psychic systems]] belong to the system's
+*environment*, not to the system. Social systems are **[[autopoiesis|autopoietic]]** and
+operationally closed — they produce the communications out of which they are produced — and
+their elements are *events* (communications) that vanish as they occur, so the system exists
+only by constant reproduction. Order arises not from Parsons's value consensus but from the
+self-catalyzing problem of [[double-contingency]] between mutually opaque "black boxes." "Social
+systems are not built up of actions... instead social systems are broken down into actions."
+This inverts Parsons's action-theoretic grounding and subordinates structure to function.
 
 ## Operationalizations
 

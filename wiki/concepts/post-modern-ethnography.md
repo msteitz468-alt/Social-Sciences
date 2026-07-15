@@ -7,9 +7,9 @@ disciplines: [anthropology]
 emic_or_etic: etic
 operationalized_as: "program for ethnographic writing as evocation, not realist representation"
 contested: yes
-related_concepts: ["[[ethnographic-evocation]]", "[[partial-truths]]", "[[ethnographic-realism]]", "[[writing-culture]]", "[[experimental-moment]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+related_concepts: ["[[ethnographic-evocation]]", "[[partial-truths]]", "[[ethnographic-realism]]", "[[writing-culture]]", "[[experimental-moment]]", "[[partial-connections]]", "[[postplural]]"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -42,3 +42,7 @@ Asad (power/stiffness); Rabinow (institutions; new canon); incomplete exemplars 
 ## Links
 
 - [[tyler-stephen-a]], [[writing-culture]], [[ethnographic-evocation]]
+
+## Strathern engagement (1991)
+
+*(Attributed — *[[strathern-partial-connections-1991|Partial Connections]].)* Strathern treats postmodern ethnography (Tyler; *Writing Culture* reception) as the moment when comparative scaffolding appears dismantled into internal text-referencing; she refuses pure pastiche and seeks [[postplural]] [[partial-connections]] instead. See [[writing-culture-debate]].

@@ -1,3 +1,110 @@
+### Descola — *In the Society of Nature* (1994; Fr. *La Nature domestique* 1986) ✅ 2026-07-15
+- Source: [[descola-in-the-society-of-nature-1994]] (CUP 1994; pdftotext ~162k words / 400 pp; **7-agent** extraction, inventory **7/7** ~486 claims). **4 created + 10 updated.** Studies Hub in-session.
+- Study: [[descola-society-of-nature-study]] · Hub: [[hubs/studies/descola-society-of-nature-study]]
+- Concept (new): [[anent]]
+- Densified: [[achuar]] (major) · [[descola-philippe]] · [[animism]] · [[nature-culture-distinction]] · [[four-ontologies]] · [[affinity]] · [[swidden]] · [[horticulture]] · [[household]] · [[feud]]
+- Load-bearing (all attributed, fieldwork 1976–79): socialization of nature; house–garden–forest–river; garden consanguinity (Nunkui) vs forest affinity (game mothers / *anent* as *sai*); ~3.5 h/day labor; diet ~3408 kcal / 104.5 g protein; under-exploitation; anti-Gross/Sahlins positions; dualism critique base for BNC
+- Filed: `raw/anthropology/`
+
+
+### Strathern — *Partial Connections* (1991; AltaMira Updated Ed. 2004/5) ✅ 2026-07-15
+- **Source:** [[strathern-partial-connections-1991]] (scanned PDF OCR ~59k words / 90 pp; **3-agent** extraction, inventory **3/3** 257 claims). **5 created + 12 updated.** Study page (no Studies Hub — shorter ASAO method essay; GOG hub already exists).
+- **Study:** [[strathern-partial-connections-study]]
+- **Concepts (new):** [[postplural]] · [[fractal-person]]
+- **Thinker (new thin):** [[haraway-donna]] (PC cyborg engagement; concurrent *Staying with the Trouble* session also active)
+- **Densified:** [[partial-connections]] (authorial primary) · [[strathern-marilyn]] · [[comparative-method]] · [[writing-culture]] · [[writing-culture-debate]] · [[feminist-anthropology]] · [[wagner-roy]] · [[tyler-stephen-a]] · [[obviation]] · [[ethnographic-evocation]] · [[post-modern-ethnography]] · [[dividual]] · [[ontological-turn]]
+- **Load-bearing (all attributed):** scale-switching multiplies/loses information; postplural perception; partial connections = relations through partition; Tyler journey form insufficient for comparison; Haraway cyborg → compatibility without common origin; Melanesian cyborg cut from same conceptual material; Cantor dust allegory for remainders
+- **Filed:** `raw/anthropology/strathern-partial-connections-1991.{pdf,txt}`
+
+### Wagner — *The Invention of Culture* (rev. ed. 1981; orig. 1975) ✅ 2026-07-15
+- **Source:** [[wagner-invention-of-culture-1975]]
+- **Concepts (new):** [[invention-and-convention]] · [[reverse-anthropology]] · [[obviation]]
+- **Updated:** [[wagner-roy]] (primary-ingested) · [[symbolic-anthropology]] · [[culture]] · [[cultural-relativism]] · [[participant-observation]] · [[millenarianism]] · [[civilization]] · [[bateson-gregory]]
+
+### Boas (ed. Codere) — *Kwakiutl Ethnography* (1966) ✅ 2026-07-15
+- Source: [[boas-kwakiutl-ethnography-1966]] (IA scan PDF, complete; **8-agent** extraction, inventory **8/8**). **7 created + 6 updated.**
+- Created: [[boas-kwakiutl-ethnography-study]] · [[hunt-george]] · [[codere-helen]] · [[numaym]] · [[text-collection]] · [[potlatch-interpretation-debate]]
+- Updated: [[kwakiutl]] (major) · [[potlatch]] · [[boas-franz]] (+hub) · [[northwest-coast-cultural-tradition]]
+
+### Hubert & Mauss — *Sacrifice* (1898) ✅ 2026-07-15
+- Source: [[hubert-mauss-sacrifice-1898]] (Chicago 1981 Halls English; OCR PDF; **4-agent** extraction, inventory **4/4**). **6 created + 5 updated.** Studies Hub in-session.
+- Study: [[hubert-mauss-sacrifice-study]] · Hub: [[hubs/studies/hubert-mauss-sacrifice-study]]
+- Concepts (new): [[sacrifier]] · [[sacralization]] · [[desacralization]]
+- Densified: [[sacrifice]] · [[sacred-and-profane]] · [[scapegoat]] · [[hubert-henri]] · [[mauss-marcel]]
+### Geertz — *Negara: The Theatre State in Nineteenth-Century Bali* (1980) ✅ 2026-07-10
+- Source: [[geertz-negara-1980]] (Princeton 1980; ClearScan PDF ~121k words / 309 pp; **7-agent** extraction, inventory **7/7** ~489 claims). **8 created + 12 updated.** Studies Hub in-session.
+- Study: [[geertz-negara-study]] · Hub: [[hubs/studies/geertz-negara-study]]
+- Concepts (new): [[theatre-state]] · [[exemplary-center]] · [[sinking-status]] · [[negara]]
+- Densified: [[geertz-clifford]] · [[hubs/thinkers/geertz-clifford]] · [[interpretive-anthropology]] · [[balinese-tabanan]] · [[the-state]] · [[court-society]] · [[kingship]] · [[hydraulic-society]] · [[mandala]] · [[state-formation]] · [[charisma]] · [[deep-play]]
+- Load-bearing (all attributed): theatre state — power served pomp; exemplary center as the state; sinking status *dadia*; concurrent village–state growth; anti-Wittfogel *subak*; poetics of power / make inequality enchant; “They were what there was”
+- Filed: `raw/anthropology/` (Negara PDF)
+
+### Evans-Pritchard — *Kinship and Marriage among the Nuer* (1951) ✅ 2026-07-10
+- Source: [[evans-pritchard-kinship-marriage-nuer-1951]] (Clarendon 1951; pdftotext ~80k words / 222 pp; **4-agent** extraction, inventory **4/4** ~230 claims). **4 created + ~6 updated.** Studies Hub in-session.
+- Study: [[evans-pritchard-kinship-marriage-nuer-study]] · Hub: [[hubs/studies/evans-pritchard-kinship-marriage-nuer-study]]
+- Concept (new): [[ghost-marriage]]
+- Densified: [[nuer]] · [[evans-pritchard-e-e]] · [[levirate]] · [[marriage-payments]] · [[hubs/studies/studies-hub]]
+- Load-bearing (all attributed): buth/mar; bridewealth ideal ~40 / usual 20–30 / floor ~16; pater = cattle name; ghost-marriage vs levirate vs widow-concubinage; woman-marriage; simple legal family as standard
+- Filed: `raw/anthropology/evans-pritchard-kinship-marriage-nuer-1951.{pdf,txt}`
+
+### Evans-Pritchard — *Nuer Religion* (1956) ✅ 2026-07-10
+- Source: [[evans-pritchard-nuer-religion-1956]] (Clarendon 1956; text-native PDF ~157k words / 392 pp; **6-agent** extraction, inventory **6/6**). **4 created + 6 updated.** Trilogy capstone (roadmap Anthropology #7).
+- Study: [[evans-pritchard-nuer-religion-study]] · Hub: [[hubs/studies/evans-pritchard-nuer-religion-study]]
+- Concepts (new): [[kwoth]] · [[spiritual-refraction]]
+- Densified: [[nuer]] · [[evans-pritchard-e-e]] · [[sacrifice]] · [[totemism]] · [[animism]] · [[leopard-skin-chief]]
+- Load-bearing (all attributed, fieldwork 1930–36): kwoth one-and-many; refractions tracking segmentary order; twins-are-birds contra Lévy-Bruhl; thek/dueri sin-pollution; ghost-marriage immortality; sacrifice vita-pro-vita with cucumber substitution; man–ox moral identification; leopard-skin priest not chief; prophets suppressed (Gwek 1928); "the theologian takes over from the anthropologist"
+- Filed: `raw/anthropology/evans-pritchard-nuer-religion-1956.{pdf,txt}`
+
+### Wilmsen — *Land Filled with Flies* (1989) ✅ 2026-07-10
+- Source: [[wilmsen-land-filled-with-flies-1989]] (U Chicago 1989; pdftotext ~168k words / 428 pp; **5-agent** extraction, inventory **5/5** ~385 claims). **4 created + ~12 updated.** Studies Hub in-session.
+- Study: [[wilmsen-land-filled-with-flies-study]] · Hub: [[hubs/studies/wilmsen-land-filled-with-flies-study]]
+- Thinker (new): [[wilmsen-edwin-n]]
+- Densified: [[kalahari-debate]] (Position B primary) · [[original-affluent-society-debate]] (Position 3) · [[juhoansi]] · [[lee-kung-san-study]] · [[hubs/studies/lee-kung-san-study]] · [[lee-richard-b]] · [[hxaro]] · [[nore]] · [[hunter-gatherer]] · [[foraging-mode-of-production]] · [[anthropological-political-economy]] · [[hubs/studies/studies-hub]]
+- Load-bearing (all attributed): San as rural underclass not pristine foragers; deep Iron Age + mercantile integration; CaeCae class/tenure stratification (66% no stock / 11% hold ~64% cattle); July kcal can match Lee while year-round range ~1408–3114; weight amplitude ~3% vs ~6%; physiology as class; abandon fixed forager image
+- Filed: `raw/anthropology/wilmsen-land-filled-with-flies-1989.{pdf,txt}`
+
+### Powell & DiMaggio (eds.) — *The New Institutionalism in Organizational Analysis* (1991) ✅ 2026-07-10
+- Source: [[powell-dimaggio-new-institutionalism-1991]] (Univ. of Chicago Press 1991; scanned 2-up PDF, ocrmypdf ~202k words / 247 pp; **8-agent** extraction, inventory **8/8**). **19 created + 8 updated.** Theory Hub in-session.
+- Theory (new): [[new-institutionalism]] · Hub: [[hubs/theory/new-institutionalism]]
+- Discipline (new): [[organizational-sociology]]
+- Debate (new): [[institutionalism-power-and-agency-debate]]
+- Concepts (new): [[institutional-isomorphism]] · [[organizational-field]] · [[rationalized-myth]] · [[decoupling]] · [[institutional-logics]] · [[societal-sector]]
+- Thinkers (new): [[dimaggio-paul]] · [[powell-walter-w]] · [[meyer-john-w]] · [[scott-w-richard]] · [[zucker-lynne]] · [[jepperson-ronald]] · [[rowan-brian]] · [[friedland-roger]] · [[alford-robert-r]]
+- Densified: [[iron-cage]] · [[institutionalization]] · [[fligstein-neil]] · [[embeddedness]] · [[bourdieu-pierre]] · [[garfinkel-harold]] · [[parsons-talcott]] · [[giddens-anthony]]
+- Load-bearing (all attributed): rationalized myths + decoupling + logic of confidence (Meyer & Rowan 1977); coercive/mimetic/normative isomorphism in organizational fields + 12 hypotheses (DiMaggio & Powell 1983); institutionalization as continuous cognitive variable, autokinetic experiments (Zucker 1977); institution as self-reproducing pattern (Jepperson); institutional logics of capitalism/state/democracy/family/religion (Friedland & Alford); internal power/agency dispute (Scott, Powell ch.8 self-critique, Fligstein, Brint & Karabel)
+- OCR caveat: tables 13.1/13.2 cells and 16.2/16.3 garbled — excluded. Filed: `raw/sociology/powell-dimaggio-new-institutionalism-1991.{pdf,txt}`
+
+### Edin & Kefalas — *Promises I Can Keep* (2005 / 2011 preface) ✅ 2026-07-10
+- Source: [[edin-kefalas-promises-i-can-keep-2005]] (UC Press 2005; 2011 ed. with new preface; epub→txt ~103k words; **4-agent** extraction, inventory **4/4**). **8 created + 7 updated.** Study page (no Studies Hub — landmark ethnography, not method-founding charter).
+- Study: [[edin-kefalas-promises-study]]
+- Thinkers (new): [[edin-kathryn]] · [[kefalas-maria]]
+- Concepts (new): [[being-there-mothering]] · [[redemptive-motherhood]]
+- Phenomenon (new): [[nonmarital-childbearing]]
+- Method (new): [[in-depth-interviewing]]
+- Densified: [[marriage]] · [[culture-of-poverty]] · [[male-marriageable-pool-index]] · [[wilson-william-julius]] · [[concentrated-poverty]] · [[urban-sociology]] · [[participant-observation]]
+- Load-bearing (all attributed): high marriage bar / "promises I can keep"; semi-planned early fertility; breakups driven by infidelity/violence/substances/crime more than pure joblessness; class-not-race in comparable poverty contexts; being-there mothering; redemptive-motherhood with perception caveat; Wilson MMPI best-of-three but modest
+- Filed: `raw/sociology/edin-kefalas-promises-i-can-keep-2005.epub`
+
+### Blau & Duncan — *The American Occupational Structure* (1967) ✅ 2026-07-10
+- Source: [[blau-duncan-american-occupational-structure-1967]] (Free Press 1967; image-only PDF OCR ~206k words / 271 pp; **8-agent** extraction, inventory **8/8** ~466 claims). **10 created + 5 updated.** Studies Hub in-session.
+- Study: [[blau-duncan-american-occupational-structure-study]] · Hub: [[hubs/studies/blau-duncan-american-occupational-structure-study]]
+- Thinker (new): [[duncan-otis-dudley]]
+- Theory (new): [[status-attainment]]
+- Methods (new): [[path-analysis]] · [[multiple-classification-analysis]]
+- Concepts (new): [[socioeconomic-index]] · [[ascribed-status]] · [[achieved-status]]
+- Densified: [[blau-peter-m]] · [[social-mobility]] · [[survey-research]] · [[hubs/studies/studies-hub]]
+- Load-bearing (all attributed): OCG path model V/X/U/W/Y (educ~.39, first job~.28, father occ~.115; R²_Y≈.43); Duncan SEI; two class boundaries; no rising rigidity; net race residual ~9.3 SEI; universalism with race exception
+- Filed: `raw/sociology/blau-duncan-american-occupational-structure-1967.{pdf,txt}`
+
+### Althusser et al. — *Reading Capital* (1965 / Complete Edition 2015) ✅ 2026-07-10
+- Source: [[althusser-reading-capital-1965]] (Verso 2015 Complete Edition of *Lire le Capital* 1965; pdftotext ~240k words / 439 pp; **6-agent** extraction, inventory **6/6** ~408 claims). **13 created + 5 updated.** Main-thread integration (theoretical-work).
+- Thinkers (new): [[balibar-etienne]] · [[ranciere-jacques]] · [[macherey-pierre]] · [[establet-roger]]
+- Concepts (new): [[symptomatic-reading]] · [[structural-causality]] · [[knowledge-effect]] · [[combination-combinatory]] · [[differential-historical-time]] · [[dislocation-decalage]] · [[bearer-trager]]
+- Theory densified: [[structural-marxism]] (+ **Theory Hub** [[hubs/theory/structural-marxism]])
+- Densified: [[althusser-louis]] · [[mode-of-production]] · companion [[althusser-for-marx-1965]]
+- Load-bearing (all attributed): symptomatic reading; knowledge effect; structural causality / *Darstellung*; differential historical time / anti-historicism; mode as dual-connection combination; bearers; transition as structured dislocation; plan of *Capital*
+- No studies/ page (theoretical). **ISA not in this book.** Filed: `raw/sociology/althusser-reading-capital-1965.pdf`
+
 ### Connah — *African Civilizations* (3rd ed. 2016) ✅ 2026-07-10
 ### Carneiro — *Evolutionism in Cultural Anthropology* (2003) ✅ 2026-07-10
 - Source: [[carneiro-evolutionism-cultural-anthropology-2003]] (Westview 2003; image-only DJVU OCR ~139k words / body ~123k; **6-agent** extraction, inventory **6/6** ~630 claims). **4 created + 14 updated.**
@@ -51,7 +158,8 @@
 - No Studies Hub (accessible scholarly synthesis). Filed: `raw/archaeology/` (epub + txt)
 
 ### Scott — *Against the Grain* (2017) ✅ 2026-07-10
-- Source: [[scott-against-the-grain-2017]] (Yale UP 2017; `source_type: theoretical-work`; ebook-convert ~86k words / body ~67k; **4-agent** extraction, inventory **4/4** ~282 claims). **7 created + 27 updated.**
+- Source: [[scott-against-the-grain-2017]]
+- **Scott Zomia program:** [[scott-art-of-not-being-governed-2009]] · [[scott-art-of-not-being-governed-study]] · hub [[hubs/studies/scott-art-of-not-being-governed-study]] · [[zomia]] · [[state-evasion]] · [[escape-agriculture]] · [[shatter-zone]] (Yale UP 2017; `source_type: theoretical-work`; ebook-convert ~86k words / body ~67k; **4-agent** extraction, inventory **4/4** ~282 claims). **7 created + 27 updated.**
 - Thinker (new): [[scott-james-c]]
 - Concepts (new): [[grain-hypothesis]] · [[domus-complex]] · [[nonstate-spaces]] · [[legibility]] · [[high-modernism]]
 - Densified: [[state-formation]] · [[the-state]] · [[societal-collapse]] · [[urbanization]] · [[pristine-state]] · [[city-state]] · [[wealth-appropriation]] · [[social-surplus]] · [[sedentism]] · [[domestication]] · [[animal-domestication]] · [[agricultural-revolution]] · debates on agricultural origins, original affluence, origin of the state, myths of the archaic state; [[dawn-of-everything-debate]] (adjacent only) · thinkers [[sahlins-marshall]] · [[wrangham-richard]] · [[childe-v-gordon]] · [[yoffee-norman]] · [[adams-robert-mcc]] · [[wengrow-david]] · [[hydraulic-society]] · [[pastoralism]] · [[savagery-barbarism-civilization]]
@@ -372,6 +480,20 @@
 - Primary synthesis of cultural/environmental formation processes (transformation theory); no studies/ page for the volume itself; Theory Hub deferred (program summary complete; *Behavioral Archeology* 1976 still outstanding)
 - Filed: `raw/archaeology/`
 
+
+## [2026-07-15] ingest | Earth Beings (de la Cadena 2015) | anthropology | contemporary; Andes/Cuzco
+
+Andean theoretical ethnography co-labored with Mariano and Nazario Turpo ([[pacchanta]]); major Andean pole of the [[ontological-turn]]. PDF → 133.2k words; **5-agent extraction**, inventory **5/5** (~317 claims). Study + Studies Hub in-session. All theoretical claims attributed.
+
+- **Source:** [[de-la-cadena-earth-beings-2015]]
+- **Study / Hub:** [[de-la-cadena-earth-beings-study]] · [[hubs/studies/de-la-cadena-earth-beings-study]]
+- **Thinker (new):** [[de-la-cadena-marisol]]
+- **Concepts (new):** [[earth-beings]] · [[cosmopolitics]] · [[co-laboring]] · [[partial-connections]] · [[munayniyuq]] · [[despacho]]
+- **Society / site (new):** [[pacchanta]] · [[ausangate]]
+- **Updated:** [[ayllu]] · [[ontological-turn]] · [[ontological-turn-debate]] · [[controlled-equivocation]]
+- **Load-bearing (attributed):** tirakuna; being-in-ayllu; Lauramarca / peasant-movement equivocation; NMAI comedy of equivocations; munayniyuq; ethnographic cosmopolitics; Sinakara environment-frame withdraws earth-beings
+- **Filed:** `raw/anthropology/de-la-cadena-earth-beings-2015.{pdf,txt}`
+
 ## [2026-07-10] ingest | Wilkinson, *The Rise and Fall of Ancient Egypt* (2010)
 
 Popular chronological political history from Predynastic origins to Cleopatra; divine-kingship ideology; cycles of unity/empire/foreign rule. Complements Kemp *Anatomy*. ebook-convert mobi **~214k words**; **5-agent** extraction, inventory **5/5** (~315 claims). No studies/ page.
@@ -628,6 +750,19 @@ Posthumous selected writings of [[whorf-benjamin-lee|Benjamin Lee Whorf]] (MIT P
 - **Updated:** [[sapir-edward]] · [[linguistic-anthropology]] · [[cultural-relativism]] · theory/thinkers hub portals
 - **Filed:** `raw/anthropology/`
 
+## [2026-07-15] Viveiros de Castro — *From the Enemy's Point of View* (1992 [1986])
+
+Primary Araweté ethnography (fieldwork 1981–83) — the ethnographic base of [[perspectivism]] and the [[cannibal-cogito|cannibal cogito]]; divine cannibalism, potential affinity, the killer's enemy-voiced songs; ch. 10 rereads Tupinambá cannibalism against Fernandes.
+
+- **Source:** [[viveiros-de-castro-enemys-point-of-view-1992]]
+- **Study:** [[viveiros-de-castro-enemys-point-of-view-study]] (+ Studies Hub deep analysis)
+- **Concepts (new):** [[cannibal-cogito]] · [[potential-affinity]]
+- **Culture (new):** [[tupi-guarani-languages]]
+- **Society (new):** [[tupinamba]]
+- **Debate (new):** [[tupinamba-cannibalism-debate]]
+- **Updated:** [[arawete]] · [[viveiros-de-castro-eduardo]] · [[perspectivism]] · [[multinaturalism]] · [[ontological-turn]] · [[viveiros-de-castro-cannibal-metaphysics-2014]] · [[affinity]]
+- **Filed:** `raw/anthropology/`
+
 ## [2026-07-09] Viveiros de Castro — *Cannibal Metaphysics* (2009/2014)
 
 Programmatic statement of Amerindian [[perspectivism]]/[[multinaturalism]] and a "post-structural anthropology"; supplies the Viveiros de Castro pole of the [[ontological-turn]] beside the already-ingested Descola pole. EPUB → 73.8k words; **4-agent extraction**, all ranges present (4/4). Theoretical work; all claims attributed. No `studies/` page. Thinker/Studies Hubs flagged as warranted-but-deferred (single-source depth) — pending user call.
@@ -736,6 +871,7 @@ Programmatic statement of interpretive / meaning-centered [[medical-anthropology
 (attributed illustrations, no `societies/` pages). No `studies/` page (theoretical synthesis).
 
 - **Source:** [[kleinman-illness-narratives-1988]]
+- **Source:** [[good-medicine-rationality-1994]] — Good's Morgan Lectures; interpretive medical anthropology's epistemological statement; with [[good-byron]] and [[semantic-illness-network]]
 - **Thinker (new):** [[kleinman-arthur]] · **Theory (new):** [[meaning-centered-medical-anthropology]]
 - **Method (new):** [[explanatory-models-interview]]
 - **Concepts (new):** [[illness-disease-distinction]] · [[explanatory-models]] · [[illness-narrative]] · [[somatization]] · [[neurasthenia]]
@@ -748,6 +884,7 @@ Programmatic statement of interpretive / meaning-centered [[medical-anthropology
 Landmark critical-medical ethnography of hunger, sickness, and child death on the [[alto-do-cruzeiro|Alto do Cruzeiro]] shantytown, NE Brazil (fieldwork 1964–66; returns 1982–89). [[everyday-violence]]; medicalization of hunger ([[delirio-de-fome]]→[[nervoso]]); [[mortal-selective-neglect]] and the [[political-economy-of-the-emotions]]; the [[the-mindful-body|mindful body]]; [[militant-anthropology]]. UC Press 628pp PDF ~270.6k words; **12-agent extraction**, all claims present (12/12). **Studies Hub built** (warranted). NB: a mislabeled twin file (actually Brinton's Japan book) was caught and not ingested.
 
 - **Source:** [[scheper-hughes-death-without-weeping-1992]]
+- **Source (densify):** [[scheper-hughes-wacquant-commodifying-bodies-2002]] — *Commodifying Bodies* (eds. with Wacquant, 2002); body-commodification; Organs Watch; ethics-of-parts; human-organs-trade; Lock, Cohen, Weiss, Brandes, Tober, Epele
 - **Study + Studies Hub:** [[scheper-hughes-death-without-weeping-study]] · [[hubs/studies/scheper-hughes-death-without-weeping-study]]
 - **Thinker (new):** [[scheper-hughes-nancy]]
 - **Discipline (new):** [[medical-anthropology]] · **Theory (new):** [[critical-medical-anthropology]] · **Method (new):** [[militant-anthropology]]
@@ -863,6 +1000,26 @@ Historiography of anthropology’s invented object: [[primitive-society]] as a c
 - **Notes:** Densifies Position B on segmentary debate with primary Kuper 1988 (beyond secondary-named 1982 ARA). Thinkers Hub deferred (single-book). Filed `raw/anthropology/`.
 
 
+
+## [2026-07-15] Kuper — *Anthropology and Anthropologists* (4th ed. 2015; 1st 1973)
+
+- **Source:** [[kuper-anthropology-and-anthropologists-2015]]
+- **Theory (new):** [[british-social-anthropology]]
+- **Thinkers (new/seeded):** [[haddon-a-c]], [[goody-jack]], [[gellner-ernest]], [[mair-lucy]]
+- **Updated:** [[kuper-adam]], [[anthropology]], [[anthropology-and-colonialism-debate]], [[indirect-rule]], [[malinowski-bronislaw]], [[radcliffe-brown-a-r]], [[leach-edmund]], [[fortes-meyer]], [[evans-pritchard-e-e]], [[gluckman-max]], [[firth-raymond]], [[douglas-mary]], [[needham-rodney]], [[richards-audrey]], [[schapera-isaac]], [[nadel-s-f]], [[rivers-w-h-r]], [[seligman-c-g]], [[manchester-school]], [[structural-functionalism]], [[structuralism]], [[descent-theory]], [[alliance-theory]], [[applied-anthropology]], [[participant-observation]]
+- **Notes:** History-of-discipline of the British school (1922 baseline → 1970s crisis). No studies/ page. No Thinkers Hub (summary densified; African ethnography still outstanding). Colonial chapter → debate Position 9 (loose symbiosis). Filed `raw/anthropology/`.
+
+## [2026-07-15] Rosaldo — *Ilongot Headhunting, 1883–1974* (1980)
+
+Founding **historical ethnography** (Critical Turn); PDF ~111k words; 5-agent extraction, all ranges complete. Landmark → studies/ page **and Studies Hub deep analysis**.
+
+- **Source:** [[rosaldo-ilongot-headhunting-1980]]
+- **Study:** [[rosaldo-ilongot-headhunting-study]] · Hub: [[hubs/studies/rosaldo-ilongot-headhunting-study|deep analysis]]
+- **Institution (new):** [[headhunting]]
+- **Concepts (new):** [[liget]] · [[bertan]]
+- **Updated:** [[ilongot]] (historical outline 1883–1974) · [[rosaldo-renato]] · [[rosaldo-michelle]] · [[feud]] ("feud in the peace") · [[historical-anthropology]] · [[oral-tradition]]
+- **Filed:** `raw/anthropology/`
+
 ## [2026-07-09] Rosaldo — *Culture and Truth: The Remaking of Social Analysis* (1989/1993)
 
 Critical-Turn programmatic work of the reflexive/[[writing-culture|Writing Culture]] moment. epub (~81k words); 4-agent extraction; all ranges present. Theoretical work — **no studies/ page**.
@@ -901,13 +1058,14 @@ Critical-Turn charter collection on anthropology and colonialism (Hull seminar 1
 
 ## [2026-07-09] Fabian — *Time and the Other: How Anthropology Makes Its Object* (1983)
 
-Landmark critical-turn treatise on anthropology's *allochronism* — the denial of coevalness to the people it studies. pdftotext (~76k words); 5-agent extraction (one per chapter); all ranges present.
+Landmark critical-turn treatise on anthropology's *allochronism* — the denial of coevalness to the people it studies. pdftotext (~76k words); 5-agent extraction (one per chapter); all ranges present. **Densified 2026-07-15** from Columbia reprint apparatus (Bunzl foreword + Fabian postscript "The Other Revisited"): source/thinker + concepts coevalness/allochronism/ethnographic-present/visualism/othering + debate ethnographic-present-debate (Tsing Position 3). Bunzl PDF filed `raw/anthropology/`.
 
 - **Source:** [[fabian-time-and-the-other-1983]]
 - **Thinker (new):** [[fabian-johannes]]
 - **Concepts (new):** [[coevalness]] · [[allochronism]] · [[ethnographic-present]] · [[visualism]]
 - **Debate (new):** [[ethnographic-present-debate]]
 - **Updated:** [[anthropology]] · [[social-evolutionism]] · [[cultural-relativism]] · [[structuralism]]
+- **Densify 2026-07-15 also updated:** [[othering]] · all four Fabian concepts · debate · thinker · source
 - **Filed:** `raw/anthropology/`
 
 ## [2026-07-09] Strathern — *The Gender of the Gift* (1988)
@@ -959,6 +1117,23 @@ Landmark ethnography of Awlad ʿAli honor/modesty and *ghinnāwa* dual discourse
 
 Founding volume of hunter-gatherer studies (1966 Wenner-Gren symposium). Two arguments under one title: the gathering-based revision of forager economics (the original affluent society) and the androcentric "Man the Hunter" evolutionary thesis; plus the fluid-band findings that broke the patrilocal band model and archaeology's reckoning with ethnographic analogy. 8-agent line-range extraction over the eight parts.
 
+### Lee — *The !Kung San* (1979) — ingested 2026-07-10
+- Source: [[lee-kung-san-1979]] (CUP 1979; ~210k words / 564 pp; complete OCR)
+- Study: [[lee-kung-san-study]] · Studies Hub: [[hubs/studies/lee-kung-san-study]]
+- Society densified: [[juhoansi]]
+- Concepts (new): [[nore]] · [[hxaro]] · [[insulting-the-meat]] · [[leveling-mechanisms]] · [[foraging-mode-of-production]] · [[birth-spacing]] · [[mongongo]]
+- Densified: [[lee-richard-b]] · [[kalahari-debate]] · [[original-affluent-society]] · [[original-affluent-society-debate]] · [[lee-what-hunters-do-study]] · [[hunter-gatherer]] · [[sexual-division-of-labor]] · [[egalitarian-society]]
+- Program: Dobe !Kung ecology/economy/demography/conflict 1963–73; foraging MOP; OAS empirical densification; isolationist side of Kalahari debate primary spine
+
+
+### Lee — *The Dobe Ju/'hoansi* (4th ed. 2013) — ingested 2026-07-10
+- Source: [[lee-dobe-juhoansi-2013]] (Cengage Case Studies; ~142k words / 322 pp; complete)
+- Study: [[lee-dobe-juhoansi-study]]
+- Concept (new): [[complaint-discourse]]
+- Densified: [[juhoansi]] · [[kalahari-debate]] (App. B oral history) · [[lee-richard-b]] · [[insulting-the-meat]] · [[hiv-aids]]
+- Program: longitudinal teaching twin of *The !Kung San* (1979); Tsumkwe 2010–11 survey; change to 2011; Kalahari Debate oral densification
+
+
 - **Source:** [[lee-devore-man-the-hunter-1968]]
 - **Study (new):** [[lee-what-hunters-do-study]]
 - **Societies (new):** [[juhoansi]] · [[hadza]] · [[netsilik]]
@@ -991,6 +1166,7 @@ Founding work of substantivist [[economic-anthropology]]: the original affluent 
 Foundations of Modern Anthropology Series primer (Sahlins, ed.): comparative political economy of peasantry — funds, domain, ecotypes, coalitions, movements.
 
 - **Source:** [[wolf-peasants-1966]]
+- [[wolf-peasant-wars-1969|Wolf — Peasant Wars of the Twentieth Century (1969)]] — six-case peasant revolution; capitalism as commodity system; middle-peasant / tactical-mobility thesis
 - **Thinker:** [[wolf-eric-r]]
 - **Concepts (new):** [[peasant]] · [[replacement-fund]] · [[ceremonial-fund]] · [[fund-of-rent]] · [[peasant-dilemma]] · [[types-of-domain]] · [[peasant-ecotype]] · [[closed-corporate-peasant-community]] · [[peasant-coalition]]
 - **Phenomenon (new):** [[peasant-movements]]
@@ -1085,6 +1261,17 @@ Charter of dynamic political anthropology and internal critique of British SF eq
 
 ---
 
+
+## Leach — *Pul Eliya* (1961) — ingested 2026-07-10
+
+Ceylon Dry Zone village case history: locality not descent; kinship as talk about property; [[pavula]] / [[variga]]; Old Field baga/pangu tenure; critique of British UDG theory.
+
+- **Source:** [[leach-pul-eliya-1961]] · **Study + Studies Hub:** [[leach-pul-eliya-study]] · [[hubs/studies/leach-pul-eliya-study]]
+- **Society (new):** [[pul-eliya]]
+- **Concepts (new):** [[pavula]] · [[variga]]
+- **Updated:** [[leach-edmund]] · [[hubs/thinkers/leach-edmund]] · [[descent-theory]] · [[land-tenure]] · [[complementary-filiation]]
+
+---
 
 ## Barth (ed.) — *Ethnic Groups and Boundaries* (1969) — ingested 2026-07-09
 
@@ -1182,6 +1369,32 @@ Six BBC lectures: conflict-and-cohesion charter of the Manchester School. Peace 
 **Updated:** [[cross-cutting-conflicts]] · [[feud]] · [[witchcraft]] · [[zulu]] · [[structural-functionalism]] · Studies Hub portal
 
 **Related:** [[fortes-evans-pritchard-african-political-systems-study]] · [[evans-pritchard-nuer-study]] · [[evans-pritchard-witchcraft-oracles-magic-study]] · [[bohannan-gluckman-debate]]
+
+---
+
+## Gluckman — *Politics, Law and Ritual in Tribal Society* (1965) — ingested 2026-07-10
+
+Systematic Manchester textbook densifying beyond *Custom and Conflict*: property/estates; stateless order; morphological scale of states; pluralist “law” vocabulary; extended-case method; mystical control; equilibrium and radical change.
+
+**Source:** [[gluckman-politics-law-ritual-1965]]
+
+**Author:** [[gluckman-max]]
+
+**New:** [[intrinsic-penalties]] · [[plateau-tonga]] (Zambia; disambiguated from Polynesian [[tonga]])
+
+**Updated:** [[manchester-school]] · [[extended-case-method]] · [[legal-anthropology]] · [[political-anthropology]] · [[bohannan-gluckman-debate]] · [[cross-cutting-conflicts]] · [[ritual-of-rebellion]] · [[joking-relationship]] · [[witchcraft]] · [[social-equilibrium]] · [[land-tenure]] · [[prestige-goods-economy]] · [[status-to-contract]] · [[lozi]]
+
+**Related:** [[gluckman-custom-and-conflict-1955]] · [[gluckman-custom-and-conflict-study]]
+
+### Gluckman — Order and Rebellion in Tribal Africa (1963) — ingested 2026-07-10
+
+Collected essays with autobiographical Introduction: rebellion-cycle theory, Frazer Lecture rituals of rebellion, Bemba succession prediction, intercalary roles, Barotse reasonable man, Magic of Despair, three Malinowski critiques.
+
+**Source:** [[gluckman-order-and-rebellion-1963]] · **Author:** [[gluckman-max]]
+
+**New:** [[intercalary-role]] · [[reasonable-man]] · [[millenarianism]] · [[mitchell-j-clyde]] · [[barnes-john]]
+
+**Updated:** [[gluckman-max]] · [[ritual-of-rebellion]] · [[extended-case-method]] · [[manchester-school]] · [[cross-cutting-conflicts]] · [[witchcraft]] · [[fortes-meyer]] · [[richards-audrey]] · [[schapera-isaac]] · [[malinowski-bronislaw]] · [[functionalism-and-social-change-debate]] · [[anthropology-and-colonialism-debate]] · [[zulu]] · [[swazi]] · [[bemba]] · [[lozi]] · [[tallensi]]
 
 ---
 
@@ -1470,6 +1683,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[economic-sociology]] (subfield)
 
 ### Theories
+- [[status-attainment]] — Blau & Duncan *The American Occupational Structure* (1967); OCG path model
 - [[post-processual-archaeology]] — Hodder *The Archaeological Process* (1999) method charter; Theory Hub [[hubs/theory/post-processual-archaeology]]
 - [[entanglement-theory]] — Hodder *Entangled* (2012); HT+TT+TH+HH; Theory Hub [[hubs/theory/entanglement-theory]]
 - [[interactional-sociolinguistics]] · [[variationist-sociolinguistics]] · [[conversation-analysis]] (Directions in Sociolinguistics, 1972)
@@ -1487,6 +1701,8 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[social-realism]]
 - [[institutional-economics]]
 - [[historical-materialism]]
+- [[structural-marxism]] — dual charter *For Marx* + *Reading Capital* (1965); Hub: [[hubs/theory/structural-marxism]]
+- [[western-marxism]]
 - [[social-evolutionism]] · [[historical-particularism]]
 - [[multilinear-evolution]] · [[cultural-ecology]]
 - [[cultural-materialism]] · Hub: [[hubs/theory/cultural-materialism]]
@@ -1547,6 +1763,18 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[postcolonialism]] · [[post-development]] · Hub: [[hubs/theory/post-development]]
 
 ### Thinkers
+- [[mahmood-saba|Saba Mahmood]]
+
+### Language ideology cohort (Regimes 2000)
+- [[kroskrity-paul-v|Paul V. Kroskrity]]
+- [[silverstein-michael|Michael Silverstein]]
+- [[irvine-judith-t|Judith T. Irvine]]
+- [[gal-susan|Susan Gal]]
+- [[schieffelin-bambi-b|Bambi B. Schieffelin]]
+- [[briggs-charles-l|Charles L. Briggs]]
+- [[hill-jane-h|Jane H. Hill]]
+- [[errington-joseph|Joseph Errington]]
+- [[philips-susan-u|Susan U. Philips]]
 - [[gumperz-john-j|John J. Gumperz]] · [[labov-william|William Labov]] · [[fishman-joshua|Joshua A. Fishman]] · [[ervin-tripp-susan|Susan Ervin-Tripp]] · [[sacks-harvey|Harvey Sacks]] · [[schegloff-emanuel|Emanuel Schegloff]] · [[frake-charles-o|Charles O. Frake]] · [[friedrich-paul|Paul Friedrich]] · [[mitchell-kernan-claudia|Claudia Mitchell-Kernan]] · [[dundes-alan|Alan Dundes]] · [[birdwhistell-ray|Ray Birdwhistell]] (Directions in Sociolinguistics, 1972)
 - [[asad-talal|Talal Asad]] · [[james-wendy|Wendy James]] · [[wilson-godfrey|Godfrey Wilson]]
 - [[clifford-james|James Clifford]] · [[marcus-george-e|George E. Marcus]] · [[fischer-michael-m-j|Michael M. J. Fischer]] · [[pratt-mary-louise|Mary Louise Pratt]] · [[crapanzano-vincent|Vincent Crapanzano]] · [[rosaldo-renato|Renato Rosaldo]] · [[tyler-stephen-a|Stephen A. Tyler]] · [[rabinow-paul|Paul Rabinow]] (Writing Culture / Anthropology as Cultural Critique)
@@ -1556,7 +1784,10 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[wrangham-richard|Richard Wrangham]]
 - [[evans-pritchard-e-e|E. E. Evans-Pritchard]]
 - [[sewell-william-jr|William H. Sewell Jr.]]
-- [[sahlins-marshall|Marshall Sahlins]]
+- [[sahlins-marshall|Marshall Sahlins]] — sixth primary: *What Kinship Is* (2013); hub densified
+- [[schneider-david-m|David M. Schneider]] — kinship critique interlocutor (via Sahlins 2013; monographs outstanding)
+- [[althusser-louis|Louis Althusser]] — *For Marx* + *Reading Capital* (1965); structural Marxism
+- [[balibar-etienne|Étienne Balibar]] · [[ranciere-jacques|Jacques Rancière]] · [[macherey-pierre|Pierre Macherey]] · [[establet-roger|Roger Establet]] (*Reading Capital*)
 - [[service-elman-r|Elman R. Service]]
 - [[fried-morton-h|Morton H. Fried]]
 - [[fligstein-neil|Neil Fligstein]]
@@ -1659,6 +1890,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[lipset-seymour-martin|Seymour Martin Lipset]]
 - [[lieberson-stanley|Stanley Lieberson]]
 - [[blau-peter-m|Peter M. Blau]]
+- [[duncan-otis-dudley|Otis Dudley Duncan]]
 - [[polanyi-karl|Karl Polanyi]]
 - [[massey-douglas-s|Douglas S. Massey]]
 - [[denton-nancy-a|Nancy A. Denton]]
@@ -1677,6 +1909,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[coleman-james|James S. Coleman]]
 
 ### Methods
+- [[path-analysis]] · [[multiple-classification-analysis]] · [[socioeconomic-index]] (Duncan SEI; also filed under Concepts)
 - [[life-history-method]]
 - [[children-of-immigrants-longitudinal-study]]
 - [[personal-documents-method]]
@@ -1709,6 +1942,9 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[secondary-analysis]]
 
 ### Studies
+- [[levi-strauss-miel-aux-cendres-study|Du miel aux cendres (Lévi-Strauss, Mythologiques II)]]
+- [[leach-pul-eliya-study|Pul Eliya (Leach, 1961)]] · Hub: [[hubs/studies/leach-pul-eliya-study]]
+- [[blau-duncan-american-occupational-structure-study|The American Occupational Structure (Blau & Duncan, 1967)]] · Hub: [[hubs/studies/blau-duncan-american-occupational-structure-study]]
 - [[blom-gumperz-hemnesberget-study|Code-Switching in Hemnesberget (Blom & Gumperz, 1972)]]
 - [[evans-pritchard-witchcraft-oracles-magic-study|Witchcraft, Oracles and Magic (Evans-Pritchard, 1937)]]
 - [[morgan-ancient-society-study|Ancient Society (Morgan, 1877)]]
@@ -1724,6 +1960,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[chagnon-yanomamo-fierce-people-study|Yanomamö: The Fierce People (Chagnon, 1968)]]
 - [[elias-civilizing-process-study]]
 - [[skocpol-states-social-revolutions-study|States and Social Revolutions (as a study)]]
+- [[wolf-peasant-wars-study|Wolf — Peasant Wars (as study)]] — comparative peasant revolution (1969); hub: [[hubs/studies/wolf-peasant-wars-study]]
 - [[thomas-znaniecki-polish-peasant-study|Thomas & Znaniecki, The Polish Peasant]]
 - [[tocqueville-democracy-study|Democracy in America (as a study)]]
 - [[durkheim-division-of-labor-study|The Division of Labor in Society (as a study)]]
@@ -1766,6 +2003,30 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[garfinkel-agnes-study|Agnes case (Garfinkel, 1967)]]
 
 ### Concepts
+- [[columbus-commemorations|Columbus Commemorations]]
+- [[formulas-of-silence|Formulas of Silence]]
+- [[unthinkable-history|Unthinkable History]]
+- [[production-of-history|Production of History]]
+- [[historicity-1-and-2|Historicity 1 and Historicity 2]]
+- [[historical-silences|Historical Silences]]
+- [[contextualization-cue|Contextualization cue (Gumperz)]]
+- [[conversational-inference|Conversational inference (Gumperz)]]
+- [[gendered-orientalism|Gendered Orientalism]]
+- [[honor-crime|Honor crime (as analytic category)]]
+
+### Language ideology program (Kroskrity ed. 2000)
+- [[language-ideology|Language ideology (Silverstein/Irvine program)]]
+- [[iconization|Iconization (Irvine & Gal)]]
+- [[fractal-recursivity|Fractal recursivity (Irvine & Gal)]]
+- [[erasure-semiotic|Erasure — semiotic (Irvine & Gal)]]
+- [[monoglot-standard|Monoglot standard (Silverstein)]]
+- [[language-regimentation|Language regimentation]]
+- [[linguistic-nationalism|Linguistic nationalism]]
+- [[indigenous-purism|Indigenous purism (Arizona Tewa / Kroskrity)]]
+- Sahlins / What Kinship Is (2013): [[mutuality-of-being]]
+- Gluckman / Politics, Law and Ritual: [[intrinsic-penalties]]
+- Leach / Pul Eliya: [[pavula]] · [[variga]]
+- Status attainment / Blau–Duncan: [[socioeconomic-index]] · [[ascribed-status]] · [[achieved-status]]
 - Sociolinguistics (Directions, 1972): [[code-switching]] · [[diglossia]] · [[domain-language-choice]] · [[sociolinguistic-variable]] · [[sociolinguistic-rule]] · [[signifying]] · [[power-and-solidarity]] · [[membership-categorization]] · [[kinesics]] · [[ethnoscience]]
 - Archaeology method: [[interpretation-at-the-trowels-edge]] · [[reflexive-fieldwork]] (densified Hodder 1999)
 - Writing Culture / experimental moment: [[partial-truths]] · [[ethnographic-authority]] · [[ethnographic-allegory]] · [[cultural-translation]] · [[post-modern-ethnography]] · [[ethnographic-evocation]] · [[ethnographic-realism]] · [[dialogism-in-ethnography]] · [[polyphony-in-ethnography]] · [[crisis-of-representation]] · [[experimental-moment]] · [[repatriation-of-anthropology]] · [[defamiliarization]] · [[epistemological-critique]] · [[cross-cultural-juxtaposition]] · [[knowable-communities]]
@@ -1788,6 +2049,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[historical-event]]
 - [[neolithic-revolution|Neolithic Revolution]]
 - [[cultural-context-archaeology|Cultural context (archaeological)]]
+- Althusser / structural Marxism (*For Marx* + *Reading Capital*): [[overdetermination]] · [[epistemological-break]] · [[structure-in-dominance]] · [[theoretical-practice]] · [[problematic]] · [[theoretical-anti-humanism]] · [[social-formation]] · [[symptomatic-reading]] · [[structural-causality]] · [[knowledge-effect]] · [[combination-combinatory]] · [[differential-historical-time]] · [[dislocation-decalage]] · [[bearer-trager]]
 - [[social-surplus|Social Surplus]]
 - [[state-church|State-Church (White)]]
 - [[symboling]]
@@ -1944,6 +2206,8 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - Tilly / durable inequality: [[categorical-inequality]] · [[categorical-pairs]] · [[exploitation]] · [[opportunity-hoarding]] · [[organizational-emulation]] · [[organizational-adaptation]] · [[interior-exterior-categories]]
 
 ### Debates
+- [[unthinkable-haitian-revolution-debate|Unthinkable Haitian Revolution Debate]]
+- [[saving-muslim-women-debate|The 'Saving Muslim Women' debate]] (Abu-Lughod vs. rescue feminism vs. Islamic feminism)
 - [[deficit-difference-debate|Deficit vs. difference: language, class, and educability]] (Bernstein / Labov)
 - [[processual-postprocessual-debate|Processual vs. post-processual archaeology]]
 - [[anthropology-and-colonialism-debate|Anthropology and colonialism / decolonization]]
@@ -1951,6 +2215,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[rationality-debate|Rationality debate (Azande / primitive thought)]]
 - [[morgan-mclennan-debate|Morgan–McLennan (origin of classificatory kinship)]]
 - [[sahlins-obeyesekere-cook-debate|Sahlins–Obeyesekere (Captain Cook)]]
+- [[kinship-biology-vs-culture-debate|Kinship: biology vs culture]] (Morgan/Scheffler orthodoxy · Schneider · relatedness · Sahlins mutuality of being)
 - [[hegemonic-masculinity-debate|The Hegemonic Masculinity Debate]]
 - [[doing-difference-debate|Doing Difference symposium (West & Fenstermaker)]]
 - [[segmented-assimilation-debate]]
@@ -2005,6 +2270,12 @@ Master catalog of all wiki pages. Updated after every ingest session.
 
 
 ### Societies
+- [[gail-valley-slovenes|Gail Valley bilingual villagers (Carinthia)]]
+
+- [[arizona-tewa|Arizona Tewa]] — language ideology / purism (Kroskrity 2000)
+- [[kaluli|Kaluli]] — mission literacy ideologies (Schieffelin 2000)
+- [[plateau-tonga|Plateau Tonga (Zambia)]] (Colson via Gluckman; not Polynesian [[tonga]])
+- [[pul-eliya|Pul Eliya]] (Ceylon Dry Zone; Leach 1954–56)
 - [[hemnesberget|Hemnesberget]] (Norway; Blom & Gumperz c.1960) · [[rundi|Barundi]] (Burundi; Albert) · [[yakan|Yakan]] (Basilan, Philippines; Frake)
 - [[basotho|Basotho]] (Lesotho; Ferguson 1982–83)
 - [[azande|Azande]]
@@ -2025,6 +2296,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[natufian-culture|Natufian Culture]] — Levantine terminal Pleistocene foragers (densified Bar-Yosef & Valla 2013)
 
 ### Sites
+- [[sans-souci-milot|Sans-Souci (Milot)]]
 - [[catalhoyuk|Çatalhöyük]] — Neolithic Konya Plain; Hodder reflexive-method laboratory (1999)
 - [[eynan-ain-mallaha|Eynan (Ain Mallaha)]] · [[el-wad]] · [[hayonim-cave]] · [[wadi-hammeh-27]] · [[raqefet-cave]] · [[hilazon-tachtit]] — Natufian
 - [[olorgesailie]] · [[varna]] · [[salk-institute]] (other vault sites)
@@ -2046,6 +2318,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[childcare-center|Childcare center]] (Small)
 
 ### Phenomena
+- [[haitian-revolution|Haitian Revolution]]
 - [[peasant-movements|Peasant movements]] (Wolf)
 - [[agricultural-revolution|Agricultural Revolution]]
 - [[control-of-fire|Control of Fire]]
@@ -2096,8 +2369,68 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - Cultures: [[grotta-pelos-culture]], [[keros-syros-culture]], [[phylakopi-i-culture]]
 - Updated: [[renfrew-colin]], [[processual-archaeology]], [[civilization]], [[minoan-civilization]], [[mycenaean-civilization]], [[craft-specialization]], [[redistribution]], [[chiefdom]], [[ex-oriente-lux]], [[diffusion-collapse-european-prehistory-debate]], [[state-formation]]
 
-## Sources
+## Lévi-Strauss — *Du miel aux cendres* (Mythologiques II, 1966/67) — ingested 2026-07-10
 
+Second *Mythologiques* volume: honey infra-culinary / tobacco meta-culinary; transformation groups; instruments of darkness; qualities→forms without evolutionary necessity.
+
+- **Source:** [[levi-strauss-miel-aux-cendres-1966]] · **Study:** [[levi-strauss-miel-aux-cendres-study]]
+- **Concept (new):** [[culinary-triangle]]
+- **Updated:** [[levi-strauss-claude]] · [[structuralism]] · [[myth]]
+
+---
+
+
+### Ortner — *High Religion* (1989) — ingested 2026-07-15
+- **Source:** [[ortner-high-religion-1989]] · [[ortner-life-and-death-everest-1999]]
+- **Study + Hub:** [[ortner-high-religion-study]] · [[ortner-life-and-death-everest-study]] · [[hubs/studies/ortner-high-religion-study]]
+- **Society:** [[sherpa]]
+- **Concepts:** [[cultural-schema]] · [[serious-games]] · [[big-people-small-people]]
+- **Updated:** [[ortner-sherry]] · [[practice-theory]] · [[agency]] · [[transposable-schemas]] · [[structure-vs-agency-debate]]
+
+
+### Scott — *Weapons of the Weak* (1985) — ingest 2026-07-15
+- Source: [[scott-weapons-of-the-weak-1985]]
+- Study: [[scott-weapons-of-the-weak-study]] · Hub: [[hubs/studies/scott-weapons-of-the-weak-study]]
+- Thinker (updated): [[scott-james-c]]
+- Society: [[sedaka]]
+- Concepts (new): [[everyday-forms-of-resistance]], [[weapons-of-the-weak]], [[moral-economy]], [[calculated-conformity]]
+- Phenomenon (new): [[green-revolution]]
+- Concepts (updated): [[hegemony]], [[false-consciousness]], [[class-consciousness]], [[peasant]]
+- Phenomena (updated): [[peasant-movements]]
+- Method (updated): [[participant-observation]]
+
+### Scott — *Domination and the Arts of Resistance* (1990) — ingested 2026-07-15
+- Source: [[scott-domination-arts-resistance-1990]]
+- Concepts (new): [[hidden-transcript]], [[public-transcript]], [[infrapolitics]]
+- Debate (new): [[hegemony-resistance-debate]]
+- Updated: [[scott-james-c]], [[everyday-forms-of-resistance]], [[hegemony]], [[false-consciousness]], [[charisma]], [[impression-management]], [[gramsci-antonio]], [[scott-weapons-of-the-weak-study]]
+
+### Scott — *Seeing Like a State* (1998) — ingested 2026-07-15
+- Source: [[scott-seeing-like-a-state-1998]]
+- Concept (new): [[metis]]
+- Densified from primary: [[legibility]], [[high-modernism]]
+- Updated: [[scott-james-c]], [[jacobs-jane]], [[luxemburg-rosa]], [[green-revolution]]
+
+## Sources
+- [[haraway-staying-with-the-trouble-2016|Staying with the Trouble (Haraway, 2016)]] — multispecies theory; the Chthulucene program. New: [[chthulucene]], [[sympoiesis]], [[making-kin]], [[companion-species]], [[sf-string-figures]], [[response-ability]], [[capitalocene]], [[plantationocene]], [[naturecultures]], [[gaia-hypothesis]], [[multispecies-studies]], [[despret-vinciane]], [[stengers-isabelle]], [[naming-the-anthropocene-debate]]
+- [[gumperz-discourse-strategies-1982|Discourse Strategies (Gumperz, 1982)]] — founding monograph of interactional sociolinguistics. New: [[contextualization-cue]], [[conversational-inference]], [[gail-valley-slovenes]]
+- [[abu-lughod-do-muslim-women-2013|Do Muslim Women Need Saving? (Abu-Lughod, 2013)]] — public-anthropology critique of the post-9/11 rescue discourse. New: [[gendered-orientalism]], [[honor-crime]], [[saving-muslim-women-debate]], [[mahmood-saba]]
+- [[kroskrity-regimes-of-language-2000|Kroskrity (ed.) — Regimes of Language (2000)]] — language ideology program (SAR 1994/2000)
+- [[irvine-gal-language-ideology-linguistic-differentiation-2000|Irvine & Gal — Language Ideology and Linguistic Differentiation (2000)]] — triad densification (iconization, fractal recursivity, erasure)
+- [[stocking-race-culture-evolution-1968|Race, Culture, and Evolution (Stocking, 1968)]] — source (historiography of anthropology; emergence of the plural culture concept; Boasian critique of racial formalism; Lamarckianism and the race/culture separation; presentism vs. historicism). New: [[lamarckian-inheritance]], [[arnold-matthew]]
+- [[chagnon-noble-savages-2013|Noble Savages (Chagnon, 2013)]] — memoir/polemic; Position A densify for Yanomami ethics debate
+- [[stocking-after-tylor-1995|After Tylor: British Social Anthropology 1888–1951 (Stocking, 1995)]] — source (sequel to Victorian Anthropology; Frazerian moment; diffusionism rehabilitated; fieldwork/functionalism; 11 new thinker pages)
+- [[gluckman-order-and-rebellion-1963|Order and Rebellion in Tribal Africa (Gluckman, 1963)]] — collected essays; Frazer Lecture; intercalary; reasonable man; Malinowski critiques
+- [[sahlins-what-kinship-is-2013|What Kinship Is—And Is Not (Sahlins, 2013)]] — source (mutuality of being; kinship ≠ biology; sixth Sahlins primary)
+- [[gluckman-politics-law-ritual-1965|Politics, Law and Ritual in Tribal Society (Gluckman, 1965)]] — source (Manchester textbook; extended-case; pluralist law; estates of land)
+- [[leach-pul-eliya-1961|Pul Eliya (Leach, 1961)]] — source (Ceylon land tenure/kinship; locality-not-descent; Studies Hub)
+- [[evans-pritchard-nuer-religion-1956|Nuer Religion (Evans-Pritchard, 1956)]] — source (Nuer trilogy capstone; anthropology of religion landmark)
+- [[powell-dimaggio-new-institutionalism-1991|The New Institutionalism in Organizational Analysis (Powell & DiMaggio eds., 1991)]] — source (neoinstitutionalism charter anthology; reprints Meyer & Rowan 1977, Zucker 1977, DiMaggio & Powell 1983)
+- [[douglas-how-institutions-think-1986|How Institutions Think (Douglas, 1986)]] — source (Abrams Lectures; Durkheim–Fleck institutional cognition; thought-collective, collective-memory, fleck-ludwik created)
+- [[barth-nomads-south-persia-1961|Nomads of South Persia (Barth, 1961)]] — source (classic Basseri pastoral-nomadism ethnography; sedentarization mechanism; basseri society + study pages)
+
+- [[althusser-for-marx-1965|For Marx (Althusser, 1965)]] — structural-Marxism charter; overdetermination, epistemological break, theoretical anti-humanism (not ISA)
+- [[althusser-reading-capital-1965|Reading Capital (Althusser et al., 1965 / Complete Edition 2015)]] — co-charter; symptomatic reading, structural causality, combination, Balibar HM concepts
 - [[gumperz-hymes-directions-sociolinguistics-1972|Directions in Sociolinguistics (Gumperz & Hymes eds., 1972)]] — source (landmark ethnography-of-communication anthology)
 - [[hodder-reading-past-2004|Reading the Past (Hodder & Hutson, 3rd ed. 2003)]] — source (interpretive-theory textbook charter; contextual/post-processual method)
 - [[hodder-archaeological-process-1999|The Archaeological Process (Hodder 1999)]] — source (post-processual reflexive method charter)
@@ -2115,8 +2448,10 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[kristiansen-europe-before-history-1998|Europe before History (Kristiansen 1998)]] — source (world-systems / [[centre-periphery]] archaeology of Bronze Age & Early Iron Age Europe; densifies [[world-systems-analysis]], [[prestige-goods-economy]], [[nordic-bronze-age]], [[kristiansen-kristian]])
 - [[clarke-analytical-archaeology-study|Analytical Archaeology study]] · [[hubs/studies/clarke-analytical-archaeology-study|Studies Hub]]
 - [[clifford-marcus-writing-culture-1986|Writing Culture (Clifford & Marcus, eds., 1986)]]
+- [[clifford-predicament-of-culture-1988|The Predicament of Culture (Clifford 1988)]] — source (four modes of [[ethnographic-authority]]; [[ethnographic-surrealism]], [[art-culture-system]], [[salvage-ethnography]], [[negritude]]; [[griaule-marcel]], [[leiris-michel]]; [[griaule-dogon-debate]], [[mashpee-tribal-identity-debate]], [[mashpee-wampanoag]])
 - [[marcus-fischer-anthropology-as-cultural-critique-1986|Anthropology as Cultural Critique (Marcus & Fischer, 1986)]]
 - [[asad-anthropology-colonial-encounter-1973|Anthropology and the Colonial Encounter (Asad ed. 1973)]] — Critical-Turn charter on anthropology and colonialism
+- [[asad-genealogies-of-religion-1993|Genealogies of Religion (Asad 1993)]] — genealogical charter for the anthropology of religion and secularism
 - [[rosaldo-lamphere-woman-culture-society-1974|Woman, Culture, and Society (Rosaldo & Lamphere 1974)]] — feminist-anthropology charter volume
 - [[escobar-encountering-development-1995|Encountering Development (Escobar, 1995)]] — post-development charter; development as discourse
 
@@ -2162,7 +2497,9 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[portes-rumbaut-legacies-2001]]
 - [[burt-structural-holes-1992]]
 - [[castells-rise-of-network-society-1996]]
+- [[tierney-darkness-el-dorado-2000|Tierney — Darkness in El Dorado (2000)]]
 - [[chagnon-yanomamo-fierce-people-1968|Yanomamö: The Fierce People (Chagnon, 1968)]]
+- [[chagnon-noble-savages-2013|Noble Savages (Chagnon, 2013)]]
 - [[sassen-global-city-2001]]
 - [[omi-winant-racial-formation-2015]]
 - [[habermas-structural-transformation-public-sphere-1989]]
@@ -2232,6 +2569,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[blumer-symbolic-interactionism-1969|Symbolic Interactionism: Perspective and Method (Blumer, 1969)]]
 - [[parsons-social-system-1951|The Social System (Parsons, 1951)]]
 - [[blau-exchange-power-1964|Exchange and Power in Social Life (Blau, 1964)]]
+- [[blau-duncan-american-occupational-structure-1967|The American Occupational Structure (Blau & Duncan, 1967)]]
 - [[gouldner-coming-crisis-1970|The Coming Crisis of Western Sociology (Gouldner, 1970)]]
 - [[garfinkel-studies-ethnomethodology-1967|Studies in Ethnomethodology (Garfinkel, 1967)]]
 - [[mannheim-ideology-and-utopia-1936|Ideology and Utopia (Mannheim, 1936)]]
@@ -2249,6 +2587,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 
 ---
 - [[wallerstein-modern-world-system-longue-duree-2004|The Modern World-System in the Longue Durée (Wallerstein ed., 2004)]]
+- [[trouillot-silencing-the-past-1995|Silencing the Past (Trouillot, 1995)]]
 - [[tilly-from-mobilization-to-revolution-1978|From Mobilization to Revolution (Tilly, 1978)]]
 - [[tilly-durable-inequality-1998|Durable Inequality (Tilly, 1998)]]
 - [[coleman-foundations-social-theory-1990|Foundations of Social Theory (Coleman, 1990)]]
@@ -2579,7 +2918,7 @@ Programmatic essay collection founding vault coverage of interpretive anthropolo
 - **Concepts:** [[webs-of-significance]] · [[models-of-and-for]] · [[deep-play]]
 - **Study + Studies Hub:** [[geertz-deep-play-study]] · [[hubs/studies/geertz-deep-play-study]]
 - **Updated:** [[geertz-clifford]] · [[symbolic-anthropology]] · hub portals
-- **Still outstanding:** *Works and Lives* (1988); *Negara*
+- **Still outstanding:** *Works and Lives* (1988)
 
 ## Geertz — *Local Knowledge* (1983) — ingested 2026-07-09
 
@@ -2588,7 +2927,29 @@ Second charter of interpretive anthropology: the refiguration of social thought 
 - **Source:** [[geertz-local-knowledge-1983]]
 - **Concepts:** [[blurred-genres]] · [[experience-near-experience-distant]] · [[common-sense]] · [[art-as-a-cultural-system]] · [[local-knowledge]]
 - **Updated:** [[geertz-clifford]] + [[hubs/thinkers/geertz-clifford|Thinkers Hub]] · [[interpretive-anthropology]] · [[symbolic-anthropology]] · [[legal-anthropology]] · [[comparative-method]] · [[charisma]]
-- **Still outstanding:** *Works and Lives* (1988); *Negara* (1980, "exemplary center")
+- **Still outstanding:** *Works and Lives* (1988)
+
+## Geertz — *Negara* (1980) — ingested 2026-07-10
+
+Reconstructive political ethnography of the classical Balinese court-state as theatre state / exemplary center; poetics of power.
+
+- **Source:** [[geertz-negara-1980]]
+- **Study + Studies Hub:** [[geertz-negara-study]] · [[hubs/studies/geertz-negara-study]]
+- **Concepts (new):** [[theatre-state]] · [[exemplary-center]] · [[sinking-status]] · [[negara]]
+- **Updated:** [[geertz-clifford]] + Thinkers Hub · [[interpretive-anthropology]] · [[balinese-tabanan]] · [[the-state]] · [[court-society]] · [[kingship]] · [[hydraulic-society]] · [[mandala]] · [[state-formation]] · [[charisma]] · [[deep-play]]
+- **Still outstanding:** *Works and Lives* (1988); *Social History of an Indonesian Town* (1965); *Kinship in Bali*
+
+## Geertz — *Peddlers and Princes* (1963) — ingested 2026-07-10
+
+Comparative economic ethnography of Modjokuto (Java market town) and Tabanan (Bali court town): bazaar-type vs firm-type organization; peddler vs prince entrepreneurial paths; six pretake-off propositions.
+
+- **Source:** [[geertz-peddlers-princes-1963]]
+- **Study:** [[geertz-peddlers-princes-study]]
+- **Society (new):** [[balinese-tabanan]]
+- **Comparison:** [[modjokuto-tabanan-economic-modernization]]
+- **Concepts (new):** [[bazaar-type-economy]] · [[firm-type-economy]]
+- **Updated:** [[geertz-clifford]] + [[hubs/thinkers/geertz-clifford|Thinkers Hub]] · [[javanese-modjokuto]] · [[economic-anthropology]] · [[modernization-theory]]
+- **No Studies Hub:** companion to *Agricultural Involution* (already hubbed); study + comparison pages cover the dual-case design. Still outstanding: *Social History of an Indonesian Town* (1965); *Kinship in Bali*; *Works and Lives*
 
 ## Turnbull — *The Forest People* (1961) — ingested 2026-07-09
 
@@ -2602,7 +2963,20 @@ Colin Turnbull's popular ethnography of the net-hunting Mbuti (BaMbuti) of the I
 - **Debate:** [[mbuti-village-relations-debate]]
 - **Updated:** [[evans-pritchard-e-e]] (genealogy) · [[participant-observation]] · [[egalitarian-society]]
 - **No Studies Hub:** popular companion to the technical *Wayward Servants* (1965); study + debate pages cover the afterlife.
-- **Still outstanding:** *Wayward Servants* (1965); *The Mountain People* (1972)
+- **Still outstanding:** *Wayward Servants* (1965)
+- **Paired ingest:** *[[turnbull-mountain-people-1972|The Mountain People]]* (1972) ✅ 2026-07-10
+
+## Turnbull — *The Mountain People* (1972) — ingested 2026-07-10
+
+Colin Turnbull's famine ethnography of the Ik (northern Uganda, mid-1960s); human-nature thesis and forced-dispersal policy advice; major ethics/representation controversy. Studies Hub warranted (excavation-grade afterlife).
+
+- **Source:** [[turnbull-mountain-people-1972]]
+- **Study + Studies Hub:** [[turnbull-mountain-people-study]] · [[hubs/studies/turnbull-mountain-people-study]]
+- **Society:** [[ik]]
+- **Debate:** [[turnbull-ik-representation-debate]]
+- **Thinker (updated):** [[turnbull-colin-m]]
+- **Updated:** [[turnbull-forest-people-1961]] · [[turnbull-forest-people-study]] · [[participant-observation]] · [[crisis-of-representation]]
+- **Still outstanding:** *Wayward Servants* (1965); later Ik restudies; Grinker biography
 
 ## Ortner — *Is Female to Male as Nature Is to Culture?* (1972/74) — ingested 2026-07-09
 
@@ -2651,6 +3025,14 @@ Sahlins's synthesis of structure and event: "history is culturally ordered... cu
 - **Societies:** [[hawaiians]] · [[fijians]] · [[maori]]
 - **Updated:** [[structure-of-the-conjuncture]] (Sahlins's primary formulation) · [[mana]] · [[sahlins-obeyesekere-cook-debate]] (Sahlins's side now primary) · [[eventful-sociology]] · [[sahlins-marshall]]
 - **No Studies Hub:** five-essay collection, not a single research act
+
+## Sahlins — *Historical Metaphors and Mythical Realities* (1981) — ingested 2026-07-10
+
+First statement of Sahlins's historical anthropology and the coining of the structure of the conjuncture: Cook's death and the four decades to the 1819 tabu abolition as "the transformation of a culture is a mode of its reproduction." Densification ingest — all key concept pages already existed.
+
+- **Source:** [[sahlins-historical-metaphors-1981]]
+- **Updated:** [[structure-of-the-conjuncture]] (1981 coining now primary) · [[taboo]] (Hawaiian tabu in transformation; 1819 ʻai noa) · [[hawaiians]] (1981 post-contact-transformation section) · [[sahlins-obeyesekere-cook-debate]] (1981 evidential backbone) · [[mytho-praxis]] · [[stranger-king]] (Paao charter) · [[mana]] · [[sahlins-marshall]] + Thinkers Hub
+- **No studies page:** theoretical monograph; deep treatment lives in the existing Sahlins Thinkers Hub
 
 ## Said — *Orientalism* (1978) — ingested 2026-07-09
 
@@ -2881,3 +3263,93 @@ Popular charter of the **present-day genetic archive** program (HGHG 1994 behind
 - Debate: [[antiquities-market-looting-debate]]
 - Densified: [[renfrew-colin]] · [[archaeology]] · [[heritage-management]]
 - Program: demand-side looting thesis (attributed); context-loss as the harm; 1970 line; UNESCO/Unidroit; Salisbury Hoard; restitution as deterrence
+
+### Coercion, Capital, and European States (Tilly, 1990/1992) — ingested 2026-07-10
+- Source (new): [[tilly-coercion-capital-1992]]
+- Study (new): [[tilly-coercion-capital-study]] · Studies-Hub deep analysis (new): [[hubs/studies/tilly-coercion-capital-study]]
+- Theory (new): [[bellicist-theory-of-state-formation]]
+- Concepts (new): [[capitalized-coercion]] · [[national-state]] · [[direct-rule]]
+- Updated: [[tilly-charles]] · [[state-formation]] · [[citizenship]] · [[city-state]] · [[the-state]] · [[monopoly-of-violence]] · [[indirect-rule]]
+- Program: the charter of war-centered state formation — "war made states, and vice versa": extraction of the means of war built state structure as by-product; regional balances of capital and coercion yielded [[capitalized-coercion|three trajectories]] converging on the [[national-state]] under war's selection; [[citizenship]] as bargains over war extraction; [[direct-rule]] from the French Revolution; post-1945 externally supplied coercion producing Third World military rule. Tilly's sixth primary in the vault.
+
+### Margaret Mead and Samoa (Freeman, 1983) — ingested 2026-07-10
+- Source (new): [[freeman-margaret-mead-and-samoa-1983]]
+- Thinker (new): [[freeman-derek]]
+- Concept (new): [[cultural-determinism]]
+- Updated: [[mead-freeman-debate]] (rewritten, both sides sourced) · [[mead-coming-of-age-samoa-study]] · [[manua-samoans]] · [[mead-margaret]] · [[boas-franz]]
+- Program: the founding text of the Mead–Freeman controversy — Derek Freeman's Popperian-framed refutation of [[mead-coming-of-age-samoa-1928|Coming of Age in Samoa]], arguing Samoa is no cultural-determinist "negative instance" but a rank-conscious, competitive, punitive, sexually restrictive, violent society. **Artifact mode**: both sides held as positions; Freeman's Western-Samoa/later-decade evidence base and hedged hoaxing claim recorded as themselves contested. Completes the debate's two-primary-text base.
+
+## Firth — *Primitive Polynesian Economy* (1939) — ingested 2026-07-10
+
+The **founding monograph of economic anthropology**: [[firth-raymond|Firth]]'s economic companion to *We, the Tikopia*, from the same 1928–29 [[tikopia|Tikopia]] fieldwork — no money, prices, or wage labour, yet scarcity, choice, and capital in modified form; Hicks's "substantial vs. formal" categories; [[spheres-of-exchange]]; reciprocity refined into three quantitative types; chiefs as redistributive integrators; *tapu* as economic regulation.
+
+- **Source:** [[firth-primitive-polynesian-economy-1939]] · **Study + Studies Hub:** [[firth-primitive-polynesian-economy-study]] · [[hubs/studies/firth-primitive-polynesian-economy-study]]
+- **Created:** [[spheres-of-exchange]]
+- **Updated:** [[tikopia]] · [[firth-raymond]] · [[economic-anthropology]] · [[formalist-substantivist-debate]] · [[substantivism]] · [[reciprocity]] · [[taboo]] · [[mana]] · [[firth-we-the-tikopia-study]]
+
+## Appadurai — *Fear of Small Numbers* (2006) — ⚠️ partial ingest 2026-07-11
+
+The sequel to *Modernity at Large*: why globalization produces rage against minorities. **Only the title chapter (ch. 3, pp. 49–85) is on disk** — [[predatory-identity|predatory identities]] as majoritarian identities requiring the extinction of proximate others, powered by the [[anxiety-of-incompleteness]] between numerical majority and the fantasy of a pure national ethnos.
+
+- **Source:** [[appadurai-fear-of-small-numbers-2006]] (fragment; acquire full edition)
+- **Concepts (new):** [[predatory-identity]] · [[anxiety-of-incompleteness]] · [[narcissism-of-minor-differences]] (Freud → Ignatieff → Appadurai)
+- **Updated:** [[appadurai-arjun]] · [[genocide]] (majoritarian/globalization thesis added to explanatory theories)
+
+## Hubert & Mauss — *A General Theory of Magic* (1902–03) — ingested 2026-07-15
+
+Durkheimian social theory of magic: rite defined by social circumstance (private, secret, quasi-prohibited); magician as social status; mana as category of collective thinking; magic between religion and science/technique.
+
+**Source:** [[mauss-general-theory-magic-1902]]
+
+**Study:** [[mauss-hubert-general-theory-magic-study]]
+
+**Thinkers:** [[mauss-marcel]] · [[hubert-henri]] (new)
+
+**Updated:** [[magic]] · [[mana]] · [[sympathetic-magic]] · [[taboo]] · [[witchcraft]] · [[sacrifice]] · [[collective-representations]]
+
+## Marcus — *Ethnography Through Thick and Thin* (1998) — ingested 2026-07-15
+
+Collected statement of the multi-sited ethnography program (1989–1997 essays): tracking strategies, complicity vs rapport, reflexivity ideologies, Tongan elites on the world-system periphery.
+
+**Source:** [[marcus-ethnography-thick-and-thin-1998]]
+
+**Method:** [[multi-sited-ethnography]] (new) · **Concept:** [[complicity]] (new)
+
+**Thinker:** [[marcus-george-e]]
+
+**Updated:** [[tonga]] · [[crisis-of-representation]] · [[thick-description]] · [[writing-culture]] · [[geertz-clifford]]
+
+- [[farmer-pathologies-of-power-2003|Pathologies of Power (Farmer 2003)]] — source; new: [[liberation-theology]], [[pragmatic-solidarity]], [[outcome-gap]] (2026-07-15)
+
+### Body commodification / Organs Watch (2026-07-15)
+- [[body-commodification]] · [[ethics-of-parts]] · [[human-organs-trade]]
+- Thinkers: [[lock-margaret]] · [[cohen-lawrence]] · [[weiss-meira]] · [[brandes-stanley]] · [[tober-diane]] · [[epele-maria]]
+- Source: [[scheper-hughes-wacquant-commodifying-bodies-2002]]
+
+## Labov — Language in the Inner City (2026-07-15 ingest)
+
+- Source: [[labov-language-inner-city-1972]]
+- Study: [[labov-language-inner-city-study]] · Hub: [[hubs/studies/labov-language-inner-city-study]]
+- Thinker densified: [[labov-william]] · Hub: [[hubs/thinkers/labov-william]]
+- Concepts: [[black-english-vernacular]] · [[variable-rule]] · [[observers-paradox]] · [[ritual-insult]] · [[labov-narrative-model]]
+- Society: [[south-central-harlem-youth]]
+- Densified: [[variationist-sociolinguistics]] · [[sociolinguistic-variable]] · [[deficit-difference-debate]] · [[signifying]] · [[narrative-analysis]]
+
+## Index additions — Taussig *Shamanism* ingest (2026-07-15)
+
+### Sources
+- [[taussig-shamanism-colonialism-wild-man-1987|Taussig — Shamanism, Colonialism, and the Wild Man (1987)]]
+
+### Studies
+- [[taussig-shamanism-colonialism-study|Taussig — Shamanism, Colonialism, and the Wild Man (study)]]
+- Hub: [[hubs/studies/taussig-shamanism-colonialism-study]]
+
+### Thinkers
+- [[taussig-michael|Michael T. Taussig]] (updated; hub [[hubs/thinkers/taussig-michael]])
+
+### Concepts
+- [[space-of-death|Space of death]] · [[culture-of-terror|Culture of terror]] · [[epistemic-murk|Epistemic murk]] · [[wild-man|Wild man]] · [[implicit-social-knowledge|Implicit social knowledge]] · [[yage|Yagé]]
+
+### Phenomena
+- [[putumayo-rubber-terror|Putumayo rubber terror]]
+

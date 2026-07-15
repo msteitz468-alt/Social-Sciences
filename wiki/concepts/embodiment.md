@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "the biological incorporation of the social — the process by which social conditions (poverty, racism, inequality) become registered in the body as differential disease, injury, and death"
 contested: no
 related_concepts: ["[[structural-violence]]", "[[the-mindful-body]]", "[[immodest-claims-of-causality]]", "[[everyday-violence]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -83,3 +83,16 @@ claim (different facets shown to different audiences). See [[feminist-archaeolog
 ## Reading the Past (2003) — no natural body, and the produced sex/gender boundary (attributed)
 
 *(Attributed — [[hodder-reading-past-2004|Hodder & Hutson, Reading the Past]], 3rd ed., ch. 6.)* Hodder & Hutson report [[mauss-marcel|Marcel Mauss]]'s "techniques of the body" (1935) as an early statement that bodily functions such as walking, swimming, and sleeping must be learned and therefore there is no natural adult body — the essay in which Mauss coined the term "habitus." They further report the argument, associated with Judith Butler and with Thomas Laqueur's history of a one-sex model giving way to a two-sex model, that even biological sex is not simply "natural" but produced through discourse — a claim they hold does not deny biological reality but shows that non-empirical factors determine which bodily differences come to count. On this basis they distinguish an "archaeology of the body," which treats the body as an object or sign of culture, from an "archaeology of embodiment" (after Csordas), which treats the body as the subject of culture.
+
+## Phenomenology of chronic pain and the medical body (Good 1994, attributed)
+
+[[good-byron|Byron Good]]'s *[[good-medicine-rationality-1994|Medicine, Rationality, and
+Experience]]* (1994) supplies the phenomenological register: chronic pain "challenges a central
+tenet of biomedicine — that objective knowledge of the human body and of disease are possible
+apart from subjective experience," because body-as-object and body-as-agent-of-experience
+cannot be separated for the sufferer (the Boston "Brian" case, who figured his pain as a
+"demon… ripping it apart"). Complementarily, his Harvard Medical School ethnography (mid-1980s
+cohort) traces how the *medical* body is produced: students described the anatomy lab as a
+demarcated ritual space in which the ordinary body of personhood is replaced by a dissected
+interior body ("a leg has such a different meaning after you get the skin off"), one of the
+formative practices through which the person is reconstructed as body, case, and patient.

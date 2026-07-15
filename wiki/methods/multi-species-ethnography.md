@@ -32,7 +32,7 @@ Assumes cross-species relations are ethnographically and historically trackable.
 
 ## History
 
-Grows from feminist STS, animal studies, and environmental anthropology; related to Haraway's companion-species work and to assemblage/actor-network debates. *Mushroom* is among the most cited book-length anthropological exemplars of the 2010s turn.
+Grows from feminist STS, animal studies, and environmental anthropology; related to Haraway's companion-species work and to assemblage/actor-network debates. *Mushroom* is among the most cited book-length anthropological exemplars of the 2010s turn. The method is the empirical face of the [[multispecies-studies]] research program; [[haraway-donna|Donna Haraway]]'s *[[haraway-staying-with-the-trouble-2016|Staying with the Trouble]]* (2016) supplies much of its conceptual charter — [[companion-species]], [[sympoiesis]], [[naturecultures]], and [[response-ability]] — though Haraway writes theoretical fabulation rather than fieldwork.
 
 ## Exemplary Applications
 
