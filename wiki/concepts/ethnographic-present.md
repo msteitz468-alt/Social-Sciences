@@ -7,8 +7,8 @@ disciplines: [anthropology]
 emic_or_etic: etic
 operationalized_as: "a writing convention: describing a society and its customs in the timeless present tense ('the X are matrilineal'), typically with the definite article and third-person plural"
 contested: yes
-related_concepts: ["[[allochronism]]", "[[coevalness]]", "[[visualism]]", "[[cultural-relativism]]"]
-sources_ingested: 4
+related_concepts: ["[[allochronism]]", "[[coevalness]]", "[[visualism]]", "[[cultural-relativism]]", "[[ethnohistory]]"]
+sources_ingested: 5
 last_updated: 2026-07-15
 tags: [concept]
 ---
@@ -53,3 +53,27 @@ The concept is a practical lint on ethnographic prose and a lens on the discipli
 - **Defenses of the convention.** Some hold the present tense legitimately expresses *structural regularities* or enduring institutional forms rather than a claim of timeless stasis — a position recorded on the [[ethnographic-present-debate]] page.
 - **Not sufficient.** Fabian insisted the deeper problem is epistemological, not grammatical: merely switching tenses ("more ethnography of Time will not change the situation") does not by itself restore [[coevalness]].
 - **Past tense is not automatically coeval.** Tsing's dilemma (above) is the practical limit of treating past tense as the cure: grammatical reform without reflexive historicization can re-allochronize.
+
+## Trigger’s critique (Ch. 3 of *Natives and Newcomers*, 1985)
+
+*(Attributed to [[trigger-bruce-g|Bruce Trigger]], *[[trigger-natives-and-newcomers-1985|Natives and Newcomers]]* 1985, Ch. 3 — “The Approach of the Europeans”; North American ethnohistory/archaeology angle, complementary to Fabian’s allochronism.)*
+
+### Salvage ethnography and the pre-contact ideal
+
+Trigger argues Boas, like evolutionary anthropologists, believed native American cultures were disintegrating and groups dying out; he was uninterested in systematically studying consequences of White hegemony, instead stressing salvage recording of traditional material culture, subsistence, social organization, myths, and rituals before extinction. By the late nineteenth century most native cultures were already significantly altered; ethnographers aimed to eliminate distortions from European contact and compensate for cultural “decay” to describe cultures as they had existed prior to first Europeans — using informants’ youth recollections in the West and historical data in the East (Morgan on the Iroquois as pioneer).
+
+### Idealist present-tense convention
+
+Reliance on informants and documents, Trigger argues, conceptualized culture as a distinctive pattern of norms recollected by individuals (idealist rather than behavioral). Native cultures were assumed stable pre-contact as successful environmental adaptations; therefore traditional cultures were described in the **present tense even when based on the past** — the convention known as the ethnographic present. Quote (Trigger): “it was thought appropriate to describe all traditional cultures in the present tense, even though the description was often based on what was assumed to have existed in the past rather than what could be observed at present.”
+
+### Baseline misuse (including Trigger’s self-critique)
+
+Ethnologists treated ethnographic-present descriptions as reliable for cross-cultural comparison (Murdock, HRAF, Driver & Massey, Binford’s hunter-gatherer work). Ethnohistorians used “traditional” ethnography as a baseline for measuring European-contact change — Trigger says **he did this** in early Huron work and to a significant degree in *Children of Aataentsic* (1976). Later research undercut the pristine baseline: Eggan on southeastern kinship as degrees of European acculturation; Algonkians of southern New England casting doubt on projecting seventeenth-century political structures before the 1616–19 epidemics; Fenton on traits once used for southeastern Iroquois origins that moved north via eighteenth-century Cherokee–Iroquois contact; archaeology revealing major settlement and other changes in the protohistoric interval between first European goods and substantial historical records.
+
+### Against both immutability and gratuitous total-revisionism
+
+Some ethnologists/ethnohistorians (as Trigger reports) claim nearly every facet of native culture was transformed by early unrecorded European activity (Brasser on tribes/confederacies; Hickerson on Ojibwa Midewiwin; Richards/Hayden/Smith on Huron matriliny; Blau on False Face origin in 1630s epidemics; etc.). Trigger argues that although changes occurred, it is dangerous to treat all but the most basic native institutions as European responses; if earlier ethnologists overestimated continuity, some now go to the opposite extreme without reasonable evidence. Quote: “Such gratuitous revisionism is no less misleading than the discredited assumption of cultural immutability that it seeks to replace.”
+
+### Methodological corollary
+
+Most certain knowledge of cultural change under European presence prior to historical records must come from **archaeology**; reliable archaeological data are preferable to unverified ethnographic speculation; ethnohistorians must treat archaeology as the major source for setting early ethnographic information in historical context — see [[ethnohistory]]. Related archaeology-side pathology: the “period of ethnographic archaeology” (~1800–1910) assumed sites could be read straight through ethnographic analogy under a changeless-Indian model, so chronology seemed pointless (Trigger Ch. 2; Parkman-to-Hunt denial of purposive native history).

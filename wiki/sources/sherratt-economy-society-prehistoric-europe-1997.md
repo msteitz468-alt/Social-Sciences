@@ -9,8 +9,8 @@ region_coverage: [western-europe, eastern-europe, balkans, mediterranean, near-e
 methodological_approach: mixed
 reliability_notes: "Edinburgh University Press 1997 collected essays (ISBN 978-0-7486-0646-7 / 9780585130620 JSTOR scan). Subtitle Changing Perspectives. Twenty papers (plus introduction) written c.1972–1995, lightly revised with 1990s editorial framing; Ch.7 (secondary animal exploitation) revised for this volume with material to 1995. Not a single primary excavation report — synthesis, historiography, regional survey (Hungarian Plain), and programmatic theory. Absolute chronology mixes uncalibrated bc and calibrated BC by essay date; treat dates as of each paper’s horizon, not 1997 consensus. Secondary Products Revolution thesis is the volume’s load-bearing program; later residue dairying evidence (post-1997) revises milk timing — flagged on [[secondary-products-revolution]] and [[residue-analysis]]. JSTOR PDF → pdftotext layout (~235,720 words / ~29,598 lines / 576 PDF pp); body Pref–Ch.20 ~207k words extracted; Bibliography/Index excluded. No studies/ page (essay collection, not one research act)."
 study_page: ""
-pages_created: 5
-pages_updated: 18
+pages_created: 8
+pages_updated: 28
 ingested: 2026-07-10
 tags: [source]
 ---
@@ -73,3 +73,13 @@ tags: [source]
 - [[farming-spread-europe-debate]], [[steppe-hypothesis-debate]], [[processual-postprocessual-debate]]
 - [[linear-pottery-culture]], [[corded-ware-culture]], [[yamnaya-culture]]
 - [[catalhoyuk]], [[varna]]
+
+## Densify pass (2026-07-15)
+
+Second-pass densify closing Outstanding #28 from residual 8-range claims cache (`scratchpad/sherratt_espe_cache/`, ~735 claims from 2026-07-10 extraction).
+
+**Created (3 cultures):** [[baden-culture]] · [[funnel-beaker-culture]] (TRB) · [[globular-amphora-culture]]
+
+**Updated:** [[secondary-products-revolution]] · [[animal-traction]] · [[urban-revolution]] (SPR as outer-Eurasian spin-off) · [[exchange]] (Hungarian Plain three-phase lithics) · [[sherratt-andrew]] (`trained_under` [[clarke-david-l]]) · [[clarke-david-l]] (reciprocal `trained`) · [[corded-ware-culture]] · [[ertebolle-culture]] · [[steppe-hypothesis-debate]] (Sherratt position links)
+
+**Still no studies/hub:** essay collection; Thinkers Hub still not warranted from this volume alone.

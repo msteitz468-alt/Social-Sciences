@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["The Ancient Maya (1946/47)", "monument catalogs and Long Count compilations", "Carnegie Institution field leadership (Chichen Itza, Uaxactun-era network)"]
 key_concepts: ["[[long-count|stelae/Long Count as civilizational barometer]]", "Old Empire / New Empire model (historiographic)", "ceremonial-center model (shared mid-century frame)"]
 fieldwork_sites: ["[[chichen-itza]]", "[[uaxactun]]", "[[coba]]", "[[calakmul]]", "[[copan]]", "[[tikal]]", "[[piedras-negras]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -60,3 +60,7 @@ As of Sharer & Traxler 2006 (and parallel modern syntheses):
 ## Historiography
 
 Morley is both a founder of professional Maya archaeology and a foil for post-decipherment, processual, and multi-causal collapse scholarship. File claims from [[sharer-traxler-ancient-maya-2006]]; see also edition history on that source page and network notes on [[sharer-robert-j]]. For script historiography, pair with [[proskouriakoff-tatiana]], [[knorosov-yuri]], and [[maya-hieroglyphic-writing]].
+
+### From Coe, *Breaking the Maya Code* (2012)
+
+[[coe-breaking-the-maya-code-2012|Coe 2012]] portrays Morley as Carnegie-era organizer of “The Club” (few Ph.D.s; long-term funding; Proskouriakoff hired as artist) whose *Inscriptions of Copán* (1920) and *Inscriptions of Petén* (1937–38) harvested **calendrical** content while largely ignoring non-calendrical clauses — an institutional practice that reinforced the Thompson non-historical frame. Coe ranks Maudslay’s earlier photographic corpus above Morley’s drawings. Morley’s 1940 doubt that place-names would ever appear in inscriptions was overturned by Berlin’s Emblem Glyphs (1958). See [[maya-script-decipherment-debate]], [[thompson-j-eric-s]], [[maudslay-alfred-p]].

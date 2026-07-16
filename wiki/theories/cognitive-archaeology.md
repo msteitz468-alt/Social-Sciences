@@ -5,7 +5,7 @@ disciplines: [archaeology]
 era_origin: critical-turn
 date_origin: 1980s
 originated_by: [Colin Renfrew]
-key_texts: ["The Ancient Mind (Renfrew & Zubrow eds., 1994)", "Renfrew & Bahn, Archaeology (6th ed. 2012) Ch. 10", "Johnson, Archaeological Theory ch. 6 (2010)", "Mithen, The Prehistory of the Mind (1996)"]
+key_texts: ["The Ancient Mind (Renfrew & Zubrow eds., 1994)", "Renfrew, Figuring It Out (2003)", "Renfrew, Prehistory: The Making of the Human Mind (2007)", "Renfrew & Bahn, Archaeology (6th ed. 2012) Ch. 10", "Johnson, Archaeological Theory ch. 6 (2010)", "Mithen, The Prehistory of the Mind (1996)", "Donald, Origins of the Modern Mind (1991)"]
 core_claims:
   - "Past ways of thought — symbols, measurement, belief, decision-making — can be studied archaeologically through their material expression."
   - "A 'cognitive-processual' archaeology can extend scientific method to mind without abandoning rigour (Renfrew)."
@@ -14,8 +14,8 @@ core_claims:
 developed_from: [processual-archaeology]
 competes_with: [post-processual-archaeology]
 status: active
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 6
+last_updated: 2026-07-15
 tags: [theory, archaeology]
 ---
 
@@ -125,3 +125,69 @@ Four main components of religious ritual yield a checklist of **~16 archaeologic
 ### Material engagement (embodied, extended, distributed mind)
 
 Late-chapter theoretical development: “mind” goes well beyond “brain.” Cognition is **embodied** (brain and body engage the material world; skills reside in hands as well as brain), **extended** by artifacts, **distributed/social** (language and Searle’s “institutional facts”), and symbolic concepts such as weight or value arise only from **material engagement** with the world (citing Lambros Malafouris). This converges with agency and material-culture debates (see [[agency]], [[material-culture]]) while remaining inside a generalizing, testable cognitive-processual frame (Ch. 12: seven differences from functional-processual archaeology — incorporating symbols; ideology as active force; material culture constituting social reality; internal conflict; long-term trends; methodological individualism; rejection of extreme positivism / universal “laws of culture process”).
+
+## Zapotec Civilization (Marcus & Flannery 1996) — cosmology, urns, writing as noble speech
+
+*(Attributed — [[marcus-joyce|Marcus]] & [[flannery-kent-v|Flannery]], *[[marcus-flannery-zapotec-civilization-1996|Zapotec Civilization]]* 1996; study [[marcus-flannery-zapotec-civilization-study]].)*
+
+Marcus & Flannery note that many contemporary archaeologists demand models including cosmology, religion, and ideology — “products of the ancient mind” — harder to glean from ethnohistory poorly understood by conquistadors, yet with broad outlines recoverable. Ch.1 (“The Ancient Zapotec Mind”) supplies that model for later archaeology: four world quarters with colors + blue-green center; Cociyo/Lightning vs Xoo/Earthquake; vital force *pee*; dual blood terms; 260-day *piye* and 365-day solar year; royal ancestors as “Cloud People.”
+
+**Formative dualism and classic media.** San José-phase Earth/Sky vessels as ancestors of male descent groups (wards at San José Mogote; exclusive village affiliations). Classic funerary **urns** (Tombs 103, 104) are read as **ancestors not gods** — direct-historical correction of earlier “deity” readings. Writing and calendric finger ordinals are tied to archaic Zapotec language; the action-theory epilogue frames writing as part of **noble vs commoner speech** and two-class ideology that makes the population “identifiably Zapotec.” For Monte Albán III they prefer the **direct historical approach** over ethnographic analogy because so many ethnohistorically known institutions are archaeologically present. Complements Johnson’s textbook citation of Flannery & Marcus 1976/1993 as the Zapotec cognitive-processual case.
+
+Cross-links: [[zapotec-civilization]] · [[ethnogenesis]] · [[hereditary-rank]] · [[processual-archaeology]] · [[action-theory-archaeology]].
+
+## Renfrew *Figuring It Out* (2003) — program densification
+
+*(Attributed — [[renfrew-colin|Colin Renfrew]], *[[renfrew-figuring-it-out-2003|Figuring It Out]]* 2003; Rhind Lectures 2001.)* Primary-source densification of Renfrew's cognitive-processual program beyond the textbook synthesis above.
+
+### Definition and art–archaeology method
+
+Cognitive archaeology is defined as "the study through the material record of the thought processes and the symbolic developments of our prehistoric forerunners." Methodologically Renfrew stages a sustained dialogue with **contemporary visual art**: artists' material practice is treated as the counterpart of long-run social **[[material-engagement]]**; gallery enigma and excavated assemblage are "the same task" of ascribing meaning to material culture ("no analogy"). He combines a **realist** stance on the past with active, reflexive looking (against pure relativism).
+
+### The [[sapient-paradox]] as research problem
+
+If modern human "hardware" and an Upper Palaeolithic symbolic package were in place by ~40 kya, the lag until sedentism/farming/urbanism/writing is the central puzzle. Renfrew rejects the single "human revolution" narrative as explaining "very little."
+
+### Donald stages + material-symbolic revision
+
+Renfrew imports [[donald-merlin|Merlin Donald]]'s episodic → mimetic → mythic → theoretic sequence and **[[external-symbolic-storage]]**, then inserts **material-symbolic culture** between mythic and theoretic:
+
+| Phase (Renfrew revised) | Role in the argument |
+|---|---|
+| Episodic / mimetic | Deep hominin cognition and skill (primate → *H. erectus*) |
+| Mythic | Early *H. sapiens*; language, narrative, UP art |
+| **Material-symbolic** | Sedentism + denser engagement; valuables, monuments, property, deity images; ESS **without** writing |
+| Theoretic | Writing and sophisticated ESS (maps, archives, alphabetic literacy, money, later electronics) |
+
+Transitions 3–4 are multi-origin; dates are earliest-known heuristics only. Stages are inclusive (literate people still live by material-symbolic systems).
+
+### Constitutive material culture
+
+Material symbols **constitute** institutional facts (property, value, divinity) rather than reflecting prior mental content (Feibleman helix; Cassirer; Searle; Childe *Man Makes Himself*). This is the theoretical core of [[material-engagement]] in the 2003 formulation.
+
+### Baneful signs / archaeology of now
+
+Writing is both chief theoretic ESS device and instrument of organization/domination (Homer's "baneful signs"); maps, coinage, and dematerialized electronic media extend ESS into the present and future, where much mind-trace may be "lost in the ether."
+
+### Relation to Mithen and textbook layers
+
+Complements [[cognitive-fluidity]] (Mithen): Renfrew is more cautious about importing a modular psychological architecture and more focused on Holocene material-symbolic acceleration; Mithen focuses evolutionary architecture of the modern mind. The Renfrew & Bahn Ch. 10 synthesis remains the pedagogical checklist layer; *Figuring It Out* is the programmatic art–engagement statement.
+
+
+## Renfrew *Prehistory: The Making of the Human Mind* (2007)
+
+*(Attributed — [[renfrew-colin]], *[[renfrew-prehistory-making-human-mind-2007|Prehistory]]* 2007; short Modern Library synthesis pairing historiography of the discipline with the cognitive program.)*
+
+### Two subfields = two phases
+
+Renfrew splits cognitive archaeology into: (1) development of **pre-sapient** cognitive capacities during the **[[speciation-phase]]**; (2) diversification of cognitive devices along **[[tectonic-phase]]** cultural trajectories after *H. sapiens* is in place (~last 60 kya in his outline). The [[sapient-paradox]] is the bridge problem: why the long lag from modern hardware to sedentism, farming, urbanism, and writing.
+
+### Mind as embodied, extended, distributed
+
+Past ways of thought are recoverable from material remains when inference is explicit. Symbols form categories and representations; material things as well as words are symbols. Mind is **embodied**, **extended** by artefacts, and **distributed** socially; constitutive concepts such as weight and value arise only through **[[material-engagement]]** (Searle's institutional facts). Renfrew revises [[donald-merlin|Merlin Donald]] (episodic → mimetic → mythic → theoretic) with a **material-symbolic** interval and pre-writing **[[external-symbolic-storage]]** — same architecture as *[[renfrew-figuring-it-out-2003|Figuring It Out]]* (2003), without the contemporary-art dialogue.
+
+### Holocene applications sketched
+
+Constructing community (sedentism, houses, group-oriented monuments as active memory); worldly goods (value → commodity → money); appropriating the cosmos (alignments, divine kingship, city-as-microcosm); writing as ESS that opens theoretic thought. Prospect: comparative early-state analysis needs process insight, not only taxonomy; heritage politics and looting are structural to the practice of prehistory.
+
+**Horizon:** secondary sketches **as of ~2007**. Complements the Renfrew & Bahn Ch. 10 checklist and the 2003 art–engagement statement.

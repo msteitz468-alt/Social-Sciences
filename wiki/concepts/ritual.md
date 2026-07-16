@@ -8,7 +8,7 @@ emic_or_etic: etic
 operationalized_as: "formal, repetitive, symbolically expressive action — but operationalizations differ sharply by tradition (symbolist vs. practice-based)"
 contested: yes
 related_concepts: ["[[religion]]", "[[rites-of-passage]]", "[[liminality]]", "[[dominant-symbol]]", "[[discipline]]", "[[sacred-and-profane]]"]
-sources_ingested: 1
+sources_ingested: 3
 last_updated: 2026-07-15
 tags: [concept]
 ---
@@ -47,3 +47,19 @@ Asad's own application (chs. 3–4) analyzes medieval judicial ordeal, torture, 
 ## Critiques and Limitations
 
 Asad is "skeptical of ritual as the object of a general theory" and rejects the idea that ritual as such encodes special meaning; he closes by denying that ritual stands universally opposed to ordinary/pragmatic behavior — how domains of life are articulated is a historical question, not a definitional one. Symbolist and communication-theoretic accounts (Douglas, Turner, Tambiah) remain live positions; this page records them side by side without adjudication.
+
+## Bradley 1998 — public ritual time and domestication of ritual (attributed)
+
+*[[bradley-significance-of-monuments-1998]]* operationalizes **public ritual** for multi-phase monuments via Bloch (formalised communication; ritual time merging past/present; stability enabling political change) and Barrett (conversation vs reading a text). Monuments, art styles, and hoard deposition as long-lived ritual evidence on Braudel's *longue durée*. Later prehistory: **domestication of ritual** — ceremonial focus moves from specialised circular monuments into houses, settlement boundaries, and grain-storage pits (human remains with domestic deposits). See [[monumentality]], [[social-memory]], [[ritual-landscape]].
+
+## Whittle 1996 — gatherings, sharing, sacred imperatives (attributed)
+
+*(Attributed — [[whittle-alasdair]], *[[whittle-europe-in-the-neolithic-1996]]* 1996; esp. Mediterranean Ch. 9 and Ch. 10 synthesis.)*
+
+- **Ritual as community re-creation:** Joint ritual with feasting and food/drink sharing is load-bearing for continually re-created Neolithic community under mobility; aggregation arenas (e.g. Villeneuve-Tolosane / Saint-Michel-du-Touch heated stones + cattle bones; Ripoli pits and ditch segments with burials; Tavoliere and Languedoc enclosure traditions) as seasonal/year-to-year social interaction more than permanent villages.
+- **Pottery and formal consumption:** Impressed/Cardial pottery initially for serving food and **drink** in special as much as mundane circumstances; bone spoons (Cova de l’Or) may hint formalised consumption; pots as containers of plenty for sharing ideals presumed in late foragers.
+- **Sacred imperatives (closing program):** With new senses of beginnings, descent, and time came sacred sanctions from a world older than humans; ancestors/spirits underwrite cooperation, participation, integration, generosity, hospitality, prowess. Ideals mediate rivalry even where practice includes violence. Processual and Marxist/post-processual accounts that prioritise material-resource management alone are “too limited because beliefs and ideals are excluded” (his critique of the theoretical climate — dialogue partner to [[bradley-richard]]-style landscape/meaning programs).
+- **Copper Age enclosures:** [[los-millares]] walls/tombs as place-taking and communal identity statements rather than pure military ritual of ranked elites (position).
+
+See [[social-memory]], [[impresso-cardial-culture]], [[agricultural-revolution]].
+

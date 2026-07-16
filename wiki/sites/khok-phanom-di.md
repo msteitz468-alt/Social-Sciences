@@ -4,18 +4,18 @@ site_type: settlement
 modern_country: [Thailand]
 coordinates: "approx 13.5,101.1 (Chonburi Province, ~22 km inland from the present Gulf of Siam shore)"
 date_earliest: "c. 2000 BCE"
-date_latest: "c. 1400 BCE"
+date_latest: "c. 1500–1400 BCE (abandoned ~1500 BC as of Higham 2002; ~1400 BCE as of Higham 1989)"
 date_precision: approximate
 dating_methods: ["[[radiocarbon-dating]]"]
-periods_of_occupation: ["neolithic", "bronze-age"]
+periods_of_occupation: ["neolithic"]
 region: [southeast-asia, mainland-southeast-asia]
 cultures: []
 excavated_by: ["Charles Higham", "team including Higham et al."]
 excavation_years: "1985 (seven-month season)"
-key_finds: ["154+ inhumation burials across Zones A–C", "rich Zone B graves with shell-bead and shell-ornament wealth", "stone bracelets and adzes from exotic exchange networks", "on-site pottery production sequence (clay anvils, burnishing stones, cylinders)", "rice husk fragments and rice-chaff-tempered pottery of unresolved wild/domestic status", "fishing gear (net weights, harpoons, fish hooks) from earliest levels"]
-sources_ingested: 1
-last_updated: 2026-07-10
-tags: [site, neolithic, bronze-age, southeast-asia]
+key_finds: ["154+ inhumation burials across Zones A–C / mortuary phases MP1–6", "rich Zone B graves with shell-bead and shell-ornament wealth", "Burial 15 potter-woman with ~120,000 shell beads", "stone bracelets and adzes from exotic exchange networks", "on-site pottery production sequence (clay anvils, burnishing stones, cylinders)", "domesticated rice remains in burial 67 faeces (Thompson 1996 via Higham 2002)", "shell knives and granite hoes in freshwater MP4", "fishing gear (net weights, harpoons, fish hooks) from earliest levels"]
+sources_ingested: 2
+last_updated: 2026-07-15
+tags: [site, neolithic, southeast-asia]
 ---
 
 ## Discovery and Excavation History
@@ -176,8 +176,51 @@ not evidenced facts about Khok Phanom Di itself. The excavation methodology (ope
 spatial patterning) represents a methodological advance over earlier narrow-trench
 excavation in the region and improves the reliability of the mortuary and stratigraphic
 record relative to older regional excavations. As of Higham (1989), rice-remains
-analysis was still in progress (Thompson), leaving the wild/domestic question open; no
-later reassessment is captured in this ingest.
+analysis was still in progress (Thompson), leaving the wild/domestic question open; the
+**Higham 2002 update** below captures the later reassessment and the Ch. 8 reinterpretation
+of the site's role in regional Neolithic expansion.
 
-**Collection coverage**: based on a single source (Higham 1989); no independent
-replication or later reanalysis of Khok Phanom Di is yet represented in this wiki.
+**Collection coverage (as of 1989 ingest)**: Higham 1989; see **Higham 2002 update**.
+
+## Higham 2002 update
+
+*(Attributed — [[higham-charles|Higham]], *[[higham-early-cultures-mainland-southeast-asia-2002|Early Cultures of Mainland Southeast Asia]]* 2002. Retain the 1989 "domestication of people" thesis above as a dated position; this section date-stamps both the refined site sequence and the Ch. 8 reinterpretation that **rejects** KPD as initiator of inland rice expansion.)*
+
+### Occupation span and basal tradition
+
+(ATTRIBUTED) Khok Phanom Di is a large (~5 ha) mound now ~22 km from the Gulf of Siam and ~14 km north of [[nong-nor]], occupied about **2000–1500 BC** (as of Higham 2002; the 1989 account above used ~2000–1400 BCE). First settlers were attracted by a broad estuary and abundant potting clay; the estuary provided food and the river facilitated trade. Lowest layer (~7 m below mound surface): ash, fishing and pottery-related artefacts (adzes heavily used; clay anvils and burnishing stones, including a cache of 21 burnishing stones with anvil and three adzes); *Lates calcarifer*, mangrove crabs, mangrove/muddy-shore shellfish; macaque and pig hunting; dog **absent**; some rice chaff fragments — material culture and subsistence "virtually a mirror image of Nong Nor."
+
+### Mortuary-phase densification (MP1–6)
+
+(ATTRIBUTED — Higham 2002, replacing/refining the 1989 Zone A–C summary with numbered mortuary phases)
+
+- **MP2 innovations**: all bone harpoons from that part of the site; a single shell knife thought used for harvesting a grass such as rice; increased fishhooks and clay netweights.
+- **MP3**: human faeces from burial 67 contained **domesticated rice** remains; burial 56 abdominal food residue comprised fish bones, scales, and rice chaff. Burial 67 also yielded a helminth egg probably giant liver fluke *Fasciolopsis buski*, ingested human/mouse/rat hair, and a beetle species common in rice stores — indicating low food hygiene (attributed finding). Mid-MP3 ceramic tradition transition (Vincent 2002 via Higham).
+- **MP3–4 environmental shift**: progressive decline of clean marine/intertidal shellfish and rise of freshwater taxa; first water buffalo and small deer; first pygmy cormorants and pelicans; fishhooks cease and netweights rare while shell knives surge; MP4 under freshwater conditions with **stone hoes**, numerous shell knives, and a freshwater ostracode of a rice-field-adapted species.
+- **MP4 bioarchaeology**: infant mortality fell but child mortality rose (severe anaemia in dead children); reduced sexual dimorphism — men smaller, shorter-lived, less upper-body musculature; less tooth wear; caries replaced wear-driven abscesses as main male dental pathology; Higham finds it highly likely diet involved less abrasive food and more rice. Domett (1999 via Higham): MP4 caries only 8%, rising to 29% in MP5–6 under more marine conditions — rice diet less cariogenic than earlier phases.
+- **Burial 15**: potter-woman with ~120,000 shell beads and exotic clay anvil — load-bearing case for women as specialist potters in long-distance exchange wealth (same frontispiece burial as 1989).
+- **MP6**: raised building with clay wall foundations and plastered floor holding three rich interments versus a contemporary wooden structure with far fewer goods — possible richer/poorer social contrast requiring larger exposure to test.
+
+### Local rice cultivation inferred only for freshwater MP4
+
+(POSITION — Higham 2002) Accumulating evidence (hoes, shell knives with wear consistent with harvesting grasses/rice per Higham T. 1993, ceramic change, new mortuary rituals, reduced male robusticity) is compatible with marked change during which rice was cultivated **locally**; this did not last long before marine reversion in MP5, when granite hoes and shell knives disappear. During MP2–3 the rich estuary offered little incentive to experiment with plant/animal domestication, yet the community suffered very high infant mortality, poor health, and inherited anaemia often fatal to newborns; most adults died before 40. Demography: 41% death at or soon after birth; community leaders young (attributed).
+
+### Coastal-origins rice-agriculture hypothesis not supported
+
+(POSITION — Higham 2002, explicit rejection of the research design that framed the 1985 excavation) "The hypothesis, that rice cultivation in this part of Southeast Asia had an origin in coastal communities, whence it spread inland with a growing population, has not been supported by the results of the excavations." No rice in first occupation at [[nong-nor]]; KPD initial settlement ~2000 BC not 5th millennium; rice fragments throughout may be cultivated variety (Thompson 1996) but do not prove local cultivation; MP1–3 estuary/mangrove/salt flats not conducive to rice; rice may have been obtained by exchange until MP4. Only during the fourth mortuary phase did the environment permit rice cultivation.
+
+This is the key **dated revision** relative to Higham 1989: the fission/circumscription model in **Key Debates** above (KPD sedentary growth → emigrant groups colonizing inland [[ban-chiang]], Non Kao Noi, [[non-nok-tha]]) is the 1989-era framework; by 2002 Higham sets the coastal-origin expansion proposal aside as having "foundered on many shoals."
+
+### Reinterpretation: exposed to intrusive farmers, not initiator of inland expansion
+
+(THEORETICAL / POSITION — Higham 2002, especially Ch. 8 synthesis)
+
+Higham interprets Khok Phanom Di as documenting **interaction** between coastal hunter-gatherers with deep ancestral roots in estuarine habitats and newly established **inland farming communities** in their exchange orbit — becoming wealthy and socially graded by controlling/participating in long-distance exchange (burial 15’s pots local, shell ornaments from afar).
+
+Ch. 8 restatement (grounding quote, attributed): "the weight of evidence now suggests that the inhabitants of this site, far from initiating an expansion inland, were exposed to intrusive rice farmers with ultimate origins in the Yangzi Valley." Sequence as he revisits it: marine hunter-gatherer basal tradition; rice-chaff tempered exotic sherds; mid mortuary phase 3 environmental shift to freshwater, ceramic specialisation, possible in-marrying women, local rice cultivation then terminated by return to marine conditions and wealth via exchange; abandoned ~1500 BC. He doubts replacement by intrusive agriculturalists in the first two mortuary phases (no agriculture); interaction with inland farmers is "highly likely"; marriage partners possible but techniques in infancy.
+
+**Retain both dated positions**: (1) Higham 1989 "domestication…of people" / complex hunter-gatherer sedentism as the primary process, with plant domestication "immaterial" to that argument; (2) Higham 2002 site as exposed to Yangzi-origin rice farmers rather than as initiator of inland expansion. Do not silently overwrite (1) with (2). See [[rice-domestication]] for the Yangzi domestication model that replaced local Spirit Cave / coastal transition models, and [[austroasiatic-languages]] for the farming–language expansion hypothesis (as of Higham 2002).
+
+### Collection coverage
+
+Sources: [[higham-archaeology-mainland-southeast-asia-1989]] and [[higham-early-cultures-mainland-southeast-asia-2002]]. Later site monographs and Thompson's full rice report not yet directly ingested.

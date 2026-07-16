@@ -13,8 +13,8 @@ cultures: ["[[erlitou-culture]]"]
 excavated_by: ["Institute of Archaeology, Chinese Academy of Social Sciences (from 1959; discovery by Xu Xusheng)"]
 excavation_years: "1959–present"
 key_finds: ["earliest piece-mold cast bronze ritual vessels in China", "rammed-earth palatial complex", "turquoise dragon artifact (~2,000 pieces) in elite burial no. 3", "bronze workshops"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, bronze-age, china, east-asia]
 ---
 
@@ -63,4 +63,22 @@ ritual-vessel production.
 - **Glyphs as writing.** More than forty pottery glyphs resemble oracle-bone forms but are not
   accepted as a writing system.
 
-(Source: [[liu-chen-archaeology-of-china-2012]].)
+## Shelach-Lavi (2015) densification
+
+*(Attributed — [[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]].)*
+
+Shelach-Lavi dates the main Erlitou-culture occupation ca. 1900/1850–1550 BCE across four
+phases; the government-sponsored Xia-Shang-Zhou Chronology Project (1990s) radiocarbon-dated
+the culture to ca. 1900–1600 BCE, but recently published dates push its beginning into the
+eighteenth century BCE. He gives the type site as ~300 ha, with an ~11-ha rammed-earth palace
+city (palaces I and II), a bronze foundry, and a turquoise workshop; bronze production at this
+stage was small-scale (17 surveyed vessels, mostly small *jue* cups). He treats the
+Phase III peak-population estimate of 18,000–30,000 as "inconclusive," and — because the site
+is not fortified and no elite cemetery has been found — argues there is currently no clear
+evidence for a qualitative "state" threshold at Erlitou; he places the "step-like" sociopolitical
+change he sees as marking statehood one phase later, at Erligang (Shelach and Jaffe 2013), not
+at Erlitou itself. He is correspondingly cautious about labeling Erlitou's public rammed-earth
+structures "palaces," preferring to treat the "state" characterization of the site as a live
+question rather than a settled fact — see [[erlitou-xia-dynasty-debate]].
+
+(Sources: [[liu-chen-archaeology-of-china-2012]] · [[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]].)

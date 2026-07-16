@@ -7,9 +7,9 @@ disciplines: [anthropology, archaeology]
 emic_or_etic: etic
 operationalized_as: "Direct control of multiple ecological tiers by a single ethnic/political group via colonies, multi-zonal land rights, or contiguous altitudinal swathes—rather than pure market exchange"
 contested: yes
-related_concepts: ["[[ayllu]]", "[[mitmaq]]", "trueque", "ecological complementarity", "[[maritime-foundations-hypothesis]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+related_concepts: ["[[ayllu]]", "[[mitmaq]]", "trueque", "ecological complementarity", "[[maritime-foundations-hypothesis]]", "[[mita-labor]]"]
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept, andes]
 ---
 
@@ -39,3 +39,13 @@ Explains highland economic organization under Inca and earlier sierra polities; 
 ## Critiques and Limitations
 
 Over-application as a universal Andean pattern; coastal and tropical-forest economies do not map cleanly onto highland verticality. Contiguous swathe vs satellite colony are different spatial strategies under one label. Inca grants vs traditional ayllu multi-zonal rights must not be conflated. Attribute to Murra/Moseley with period dates; do not assert timeless fact.
+
+### From D'Altroy 2002
+
+[[daltroy-the-incas-2002|D'Altroy (2002)]] restates the classic Murra (1968, 1972; Brush 1977; Masuda et al. 1985) **archipelago settlement pattern** for traditional highland land use: a main mid-elevation settlement between maize and tuber lands; smaller hamlets in the puna for herding or in lowlands for coca, pepper, and fruits; sometimes main and offshoot a week’s travel across other ethnic lands; multi-community shared access to coca, salt, or guano. Gentler gradients (e.g. Urubamba estates) spread population more evenly. Ideally an [[ayllu]] includes varied farmlands and pastures so households access full production zones; households distributed members across ecozones for self-reliance while retaining homeland affiliation — multiethnic archipelago colonies are not ethnic fusion.
+
+**Risk and reciprocity.** Staggered planting downslope (Mitchell’s Quinua studies near Cuzco, via D'Altroy) increases harvests and reduces risk (failure in one zone may mean bounty in another) while spreading household labor; multi-household reciprocal labor and pre-rain irrigation advance harvests before frosts. Exchange forms: *ayni* (balanced) and *minka* (asymmetric, repaid with produce share); altiplano llamas/*ch’arki*/wool for lowland cotton, pepper, coca. Camelid cargo limits (~30 kg, ~20 km/day, rest 1 of 3 days) and two-month altiplano–coast round trips constrained logistics; Murra judged human porters carried the bulk of late prehistoric cargo.
+
+**Imperial overlay.** D'Altroy (following Murra 1980b) argues the Incas used the language of kin-based multi-zonal production to represent the state economy as familiar obligation while claiming farmlands, pastures, flocks, and minerals, extracting rotating [[mita-labor]] rather than adopting markets/money of annexed lands. State farms and [[mitmaq]] colonies scaled multi-zonal control for armies and institutions (“supply on command”), distinct from folk *ayllu* archipelagos. Folk ecology (Ayacucho modern analogy): *quechua* as agriculture/civilized people, *puna* as camelids/insignificant farming/“primitive,” peaks as *wamani* spirit homes — emic landscape categories only partially match scientific zones.
+
+Sources: [[moseley-incas-and-their-ancestors-2001]] · [[daltroy-the-incas-2002]] · [[daltroy-terence-n]] · [[ayllu]] · [[mitmaq]]

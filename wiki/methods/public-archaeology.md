@@ -12,8 +12,8 @@ key_limitations:
   - "Conflicting ethics (universal science vs descendant obligations; property vs conservation)"
   - "English-language and colonial asymmetries in who speaks for the past"
   - "Outcomes of outreach hard to evaluate"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [method]
 ---
 
@@ -69,6 +69,15 @@ Public archaeology is not a single lab protocol; Renfrew & Bahn 2012 describe re
 | **NAGPRA / Kennewick / Australian reburial** | Public law and identity politics reshape research access |
 | **Bamiyan / Ayodhya** | Extreme cases of public-political destruction of heritage |
 
+## Critical HA public practice (Leone / Annapolis)
+
+*(Attributed — [[leone-mark-p|Leone]], *[[leone-critical-historical-archaeology-2010|Critical Historical Archaeology]]* 2010, esp. Ch. 12–14; program [[critical-archaeology]].)* Distinct from general outreach: public interpretation as **research method** aimed at unmasking ideology.
+
+- **Method as Message (1983):** free ~12–15 minute open-excavation tours (e.g. Parker Potter's Victualling Warehouse script) teach **method not technique** — inference, "the past is thought up, not dug up," and how community interest in commercial history tracks present economic rebirth; Leone reported large visitor totals over the program's life.
+- **Toward a Critical Archaeology (1987):** tours at multiple Annapolis sites end by linking past to ethnographic "separations" in local history presentations (black/white; city/Naval Academy; resident/visitor); one-page questionnaires yielded visitor categories recognizing point-of-view data and non-inevitability of present life.
+- **African American alternative voice (1995):** collaborative exhibits and oral history (Banneker-Douglass Museum network; community questions from Barbara Jackson-Nash and others); later retrospective on hoodoo/caches and media reach.
+- **Failure register (Leone's own):** permanent ideology slide shows often failed; Historic Annapolis / preservation politics constrained leftist messages; Althusser+Lukács path did not reliably change city power; outdoor history ([[colonial-williamsburg]], Shakertown) as foil for what not to do (beauty without relations of production; exclusion).
+
 ## Debates
 
 - Nationalism and archaeology (FYR Macedonia Vergina star; Zimbabwe ethnonym from ruins; Saddam–Nebuchadnezzar imagery).
@@ -76,6 +85,7 @@ Public archaeology is not a single lab protocol; Renfrew & Bahn 2012 describe re
 - Who interprets the past (gendered, colonial, aesthetic museum biases).
 - Whether public funding and tourism justify commercialized heritage presentation.
 - Duty to publish vs structural incentives of contract work.
+- Whether critical public archaeology can change local power or only produce temporary visitor insight (Leone Annapolis record).
 
 ## Linked Methods and Concepts
 
@@ -84,3 +94,21 @@ Public archaeology is not a single lab protocol; Renfrew & Bahn 2012 describe re
 ## Primary Attribution
 
 Densified principally from [[renfrew-bahn-archaeology-2012|Renfrew & Bahn 2012]], Chapters 14–16 (“Whose Past?”; “The Future of the Past”; “The New Searchers”), claims R9-050–R9-083, plus York case material from Ch. 13.
+
+## African heritage, museums, and education (*Oxford Handbook*, 2013)
+
+*(Attributed — heritage management, museums/public archaeology, education, and politics chapters in *[[mitchell-lane-oxford-handbook-african-archaeology-2013|Mitchell & Lane 2013]]*; as of ~2012.)*
+
+- **Pre-colonial management:** Heritage management in Africa did **not** begin with colonialism: many sites survived via local traditional management of sacred places (rain-making shrines, rockshelters, royal burials, springs, trench systems, groves); abandoned villages as spirit abodes; Great Zimbabwe had permanent resident custodians and ritual entrances (*mijejeje*); Kasubi tombs of Baganda kings had sophisticated clan-specialist maintenance (burned by arson March 2010). Colonial legal systems transferred power from communities to central governments, often denying local access while emphasizing monumental beauty.
+- **International funding biases:** EU–ACP/Cotonou and World Bank interest often still privileges monumentality, aesthetics, historic centers, and museums; World Bank framing strongly economic/poverty-reduction; Metolong Dam (Lesotho) CRM funding (Mitchell & Arthur 2010) shows shift toward mitigation survey/excavation and national capacity building. Outdated legislation fails integrated development/community rights — Munjeri: harmonize domestic law, community traditional systems, and international treaties.
+- **Museums as contested terrain:** Kusimba & Klehm urge CRM programmes within African university/museum archaeology departments — almost absent outside southern Africa; development projects often skip CRM surveys or hire non-African expertise; museums are both structure and process in new Africa’s political-cultural landscape (Lavine & Karp 1990 via handbook).
+- **Education:** African efforts to embed archaeology in school curricula predate recent decades (Burkitt 1955 at PAA; Posnansky 1976 on University of Legon — first full degree programme in sub-Saharan Africa outside South Africa); colonial educational legacies shaped which pasts were taught and discouraged material-remain approaches relative to oral histories. Despite many archaeology graduates becoming schoolteachers, public awareness remains minimal continent-wide (Mbunwe-Samba et al. on Cameroon).
+- **Post-conflict ethics:** Justifying resource use amid reconstruction; research questions vs reconciliation politics; even excavation of c. 4th-century AD burials in post-genocide Rwanda is highly political (Giblin); South African post-apartheid literature (Dowson, Esterhuysen, Hall, Shepherd, Blundell, Meskell, Smith, Ndlovu) explores revision, education, ethics, heritage management, practical benefit, ethnic-diversity policy, racial transformation.
+- **Indigenous epistemologies:** Mire (2011) on Somaliland argues civil war plus lack of qualified Somali professionals/legislation and failure to incorporate local understandings (heritage as preservation of knowledge not objects) led to destruction; promotes trained local groups leading research and management — aligned with decolonization/relevance goals (Giblin expects indigenous epistemologies as major future political influence).
+- **Connah practice history:** Intensified plundering driven by developed-world demand; real blame on purchasers and international dealers; Western legislative reluctance except e.g. 1993 Mali–USA Bilateral Accord.
+
+Cross-links: [[cultural-resource-management]], [[oral-tradition]], [[connah-graham]], [[great-zimbabwe]].
+
+## Smith 2006 — public and community heritage (attributed)
+
+*([[smith-laurajane]], *[[smith-uses-of-heritage-2006]]*.)* Public inclusion under the AHD is often assimilatory: excluded groups invited to “learn” authorized values. Smith’s qualitative program treats visitors and communities as **active, mindful** users of heritage (country houses n=454; industrial museums n=273; Riversleigh visitors n=92; Castleford community). Community heritage (Castleford) and Indigenous control claims reframe public archaeology’s stake as political legitimacy, not only education. Cross-link [[authorized-heritage-discourse]], [[heritage-management]], [[castleford]].

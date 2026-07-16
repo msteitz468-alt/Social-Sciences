@@ -3,10 +3,10 @@ title: "Is the Erlitou Culture the Xia Dynasty?"
 dispute_type: source-reliability
 disciplines: [archaeology]
 era: [contemporary]
-positions: ["Traditionalist identification (Erlitou = Xia)", "Xia Nai's evidentiary-criterion approach", "Liu & Chen agnosticism", "Yanshi/Shang-conquest reading"]
-key_texts: ["[[liu-chen-archaeology-of-china-2012|Liu & Chen, The Archaeology of China (2012)]]", "Xu Xusheng (1959, discovery)", "Xia Nai (1985)"]
+positions: ["Traditionalist identification (Erlitou = Xia)", "Xia Nai's evidentiary-criterion approach", "Liu & Chen agnosticism", "Yanshi/Shang-conquest reading", "Erlitou-as-first-state vs. Erlitou-below-the-state-threshold", "Chang 1980: Erlitou as Hsia / not Early Shang"]
+key_texts: ["[[liu-chen-archaeology-of-china-2012|Liu & Chen, The Archaeology of China (2012)]]", "Xu Xusheng (1959, discovery)", "Xia Nai (1985)", "[[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi, The Archaeology of Early China (2015)]]", "[[chang-shang-civilization-1980|Chang, Shang Civilization (1980)]]"]
 resolution_status: open
-last_updated: 2026-07-10
+last_updated: 2026-07-15
 tags: [debate]
 ---
 
@@ -47,6 +47,20 @@ dynasty so named existed and might one day be archaeologically recognized: *"We 
 Erlitou with the Xia dynasty… We are not ruling out the possibility, however, that Xia, either as a
 people or as a dynasty so named, may have existed in antiquity."*
 
+## Position — Chang 1980: Erlitou as Hsia, not Early Shang (attributed)
+
+[[chang-kwang-chih|K. C. Chang]] (*[[chang-shang-civilization-1980|Shang Civilization]]*, 1980)
+explicitly **removes Erlitou from Shang**: the Erh-li-t'ou type culture sits between Honan
+Lung-shan and Erh-li-kang in his sequence and is treated as the archaeological face of **Hsia**,
+not as "Early Shang / Po." Dynastic An-yang ← Erh-li-kang ← Erh-li-t'ou ← Honan Lung-shan is his
+relative order. He further sketches a **horizontal Three Dynasties** model — Hsia, Shang, and
+early Chou as partly concurrent interacting polities rather than a simple linear succession of
+insular regimes — a historiographic alternative to reading the king-lists as sealed chronological
+boxes. Absolute dates remain provisional "(as of Chang 1980)." This position is **compatible with
+traditionalist Xia identification of Erlitou** but is grounded in ceramic/stratigraphic seriation
+and settlement sequence rather than capital-name matching alone; later Liu & Chen agnosticism
+rejects the dynastic label while retaining Erlitou as a distinct archaeological culture.
+
 ## Position 4 — The Yanshi / Shang-conquest reading
 
 A widely held view treats the rise of **Yanshi Shang City** (Erligang-style) in the late-Erlitou-
@@ -62,10 +76,34 @@ has been found at the site. They differ on whether later transmitted texts licen
 dynastic name "Xia" to this assemblage — a general instance of the **four-way non-identity** problem
 (an archaeological culture is not automatically a named dynasty or people).
 
+## A separate axis — did Erlitou cross the *state* threshold at all?
+
+Distinct from the naming question is whether [[erlitou-culture|Erlitou]] was a **state** in the
+first place. [[liu-chen-archaeology-of-china-2012|Liu & Chen]] (drawing on Liu & Chen 2003) argue
+(attributed) that Erlitou Phase III represents the **earliest Chinese state**, citing its rise as a
+densely populated ~300-ha capital, a four-tiered settlement hierarchy in the Yiluo basin, the walled
+palace city, a large state-sponsored bronze industry with monopolized ritual casting, and evidence
+of resource-securing expansion up to ~500 km from the center.
+
+[[shelach-lavi-gideon|Gideon Shelach-Lavi]] ([[shelach-lavi-archaeology-early-china-2015|2015]])
+disputes this on comparative grounds (attributed): (1) Erlitou's size is not exceptional beside Late
+Neolithic Taosi or Shijiahe; (2) no state-level monumental construction is present — indeed the labor
+invested in Erlitou's palace-city walls (~5,300 person-months) is far below that of contemporaneous
+Lower Xiajiadian forts such as Sanzuodian, and below Taosi's earlier enclosure walls (~39,700
+person-months); (3) the "palace" buildings (roofed areas of ~330 and ~132 m²) are too small to plausibly
+house both a royal household and a state administration, so calling them palaces is itself a backward
+projection; (4) reading the distribution of Erlitou-style material culture as a political boundary
+applies a standard not used for contemporaneous Longshan regional cultures. He argues bronze-vessel
+"ritual" functions at Erlitou are projected back from textually-known Shang/Zhou usage, and locates the
+genuine step-like sociopolitical change not at Erlitou but in the succeeding **[[erligang-culture|Erligang]]
+(Early Shang)** period (Shelach & Jaffe 2013). On his account Erlitou is best read as the apex of a
+long Late Neolithic trajectory rather than a qualitative threshold — leaving the "first state" label,
+like the "Xia" label, unearned by the current evidence.
+
 ## Curator's note (2026-07-10)
 
 The identification is majority opinion within Chinese archaeology and minority-to-cautious among
 many Anglophone specialists; Liu & Chen's agnosticism is the methodologically conservative position.
 No wiki-voice verdict is entered. Links: [[erlitou]] · [[erlitou-culture]] ·
 [[erligang-culture]] · [[shang-civilization]] · [[chinese-civilization-origins-debate]] ·
-[[chang-kwang-chih]].
+[[chang-kwang-chih]] · [[chang-shang-civilization-1980]] · [[shelach-lavi-gideon]].

@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "the judicial pyramid, evidentiary/oath practice, and the surviving royal 'law codes' read as reform-collections against a much larger unwritten body of customary and case law"
 contested: yes
 related_concepts: ["[[code-of-hammurabi]]", "[[the-state]]", "[[city-state]]", "[[household|household]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [concept]
 ---
 
@@ -158,3 +158,19 @@ resolved.
 
 Links: [[code-of-hammurabi]] · [[the-state]] · [[sumerians]] · [[city-state]] ·
 [[household]] · [[postgate-early-mesopotamia-1994|Postgate 1994]]
+
+## Potts 1997 — boat-collision liability, irrigation liability, and Yoffee on the code's practical status
+
+*(Attributed — [[potts-mesopotamian-civilization-1997|Potts, Mesopotamian Civilization 1997]].)*
+
+### Boat collision and negligence liability
+
+Water-travel accidents and negligence were covered by Mesopotamian law codes. Laws of Hammurapi §240: when an upstream-traveling ship is rammed and sunk by a downstream ship, the downstream captain — deemed more maneuverable — must replace the ship and lost goods, sworn under oath. §236: a negligent rentor who sinks or damages a rented boat must replace the vessel and its goods. §238: if a renting captain raises the sunken vessel, he owes only half its value. The Laws of Eshnunna §38 similarly hold a negligent captain liable for restoring lost goods and ship. A similar liability rule recurs in the Middle Assyrian laws (Petschow 1972–75).
+
+### Irrigation liability (LH §§53–56)
+
+The Code of Hammurapi (§§53–56) contains provisions on damages owed by a farmer who fails to maintain the banks of his irrigation ditches or allows water to overflow onto a neighbor's field, causing crop damage (Driver and Miles 1952–55; Renger 1990a) — a parallel case of codified negligence liability alongside the boat-collision provisions above.
+
+### Yoffee's argument that the Code of Hammurapi was not practical law
+
+N. Yoffee (1988) argued that Hammurapi's "code" (281 rulings, cast as if-then/protasis-apodosis statements) rarely aligns with, and is often contradicted by, actual legal decisions preserved in second-millennium documents; no legal document from Hammurapi's reign or his successors' reigns mentions the code, from which Yoffee infers "Hammurabi never intended that his rules be accorded the status of practical law." This is a **position**, not adjudicated here, that converges with — but is independently argued from — Postgate's own "code in practice" debate recorded above (§ Operationalizations): both scholars treat the surviving codes' relationship to actual legal practice as unresolved, though via different evidentiary routes (Postgate via contract-form change and judges' citations of royal ordinance; Yoffee via the code's total absence from the documentary record of actual rulings).

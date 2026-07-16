@@ -13,8 +13,8 @@ cultures: ["Kerma culture", "Kush (later historical label; not equated with site
 excavated_by: ["George Reisner (early 20th c. cemetery work, attributed via Connah 2016)", "Charles Bonnet (settlement/deffufa sequence, attributed via Connah 2016)"]
 excavation_years: ["early 20th century (Reisner)", "late 20th–early 21st century (Bonnet and successors; years not fully enumerated in Connah 2016)"]
 key_finds: ["Western Deffufa mud-brick temple mass (~27 × 52 m base, surviving ~19 m)", "Eastern Deffufa mortuary chapel", "large circular elite wood-and-mud-brick building (≥10 m high)", "royal tumuli (largest ~91 m diameter)", "Tumulus X mass sacrifice corridor (322+ individuals)", "organic materials preserved by dry climate"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, nubia, sudan, middle-nile, urbanization, state-formation]
 ---
 
@@ -70,3 +70,29 @@ Connah reports mixed farming on inundated/irrigated soils in favoured reaches: b
 - **Limited pan-tropical influence:** Connah reports that middle-Nile urban/state traditions seem to have had little influence on the rest of tropical Africa (Shinnie; Alexander), with qualifications about diagnostic pottery visibility and early Islamic outliers in Darfur and Red Sea ports—not a claim of total isolation.
 
 *Source depth: single-source densification from [[connah-african-civilizations-2016]] (as of Connah 2016 synthesis; specialist monographs may revise absolute dates, cemetery counts, and state definitions).*
+
+## Oxford Handbook densification (Mitchell & Lane 2013)
+
+*(Attributed — Derek Welsby in [[mitchell-lane-oxford-handbook-african-archaeology-2013]] Ch. 51; also Sinclair Ch. 47; Monroe Ch. 48; Shaw Egypt-as-African notes. **as of 2013**.)*
+
+### Earliest sub-Saharan urban civilization
+
+Welsby presents Kerma-centered civilization as the **earliest urban civilization in sub-Saharan Africa**, rivaling Pharaonic Egypt. Sinclair highlights Bonnet’s excavations as providing significant new detail on “sub-Saharan Africa’s first urban settlement” (Bonnet 1990).
+
+**Phases (Gratien via Welsby):** Ancien 2400–2050, Moyen 2050–1750, Classique 1750–1450 BC. Pre-Kerma settlement ~3000 BC with massive earth-timber defences; metropolis shifts west ~2400 BC as Nile channels move. Rapid expansion: Ancien material to Abu Hamed/Fourth Cataract and Sai; after Middle Kingdom Egyptian withdrawal ~1750 BC Kush filled vacuum to First Cataract (~1,300 km), allied with Hyksos; Kushite raids deep into Egypt with multi-tonne loot (Elkab inscription).
+
+### Urban form, deffufa, funerary sacrifice
+
+Timber then jalous/mud-brick; Moyen rectangular defences with D-towers; later massive earth-timber defences and up to 50 m ditch; central religious quarter with ~12 m of deposits over a millennium; **western deffufa** still 19 m high—superficially Egyptian timber-laced mud-brick but different plan (side entrance, sanctuary, roof stair). Administrative gate regulation; pottery/glaze/copper production; Classique royal palace over infilled west ditch. Funerary escalation: Ancien small tumuli; Moyen large pits with sacrificed animals/humans, bucrania crescents (one royal tumulus >4,000 cattle); Classique royal tumuli to 90 m diameter, up to **~400 sacrificed humans**.
+
+### Economy and trade middleman
+
+Kerma Basin/Seleim Basin (~60 km) watered by inundation water-table rise enabling crops without irrigation and rich pasturage. **Trade major elite wealth source:** without camels, trans-Saharan routes non-viable, so Kerma dominated **Nile corridor middleman** trade in hard stone, gold, skins, ivory, ostrich eggs, timber, slaves for Egyptian goods. Contacts as far as Mahal Teglinos near Kassala/Eritrea border.
+
+Monroe: Nubia provides a clear example of local elites strategically balancing **local and exotic** sources of wealth and power in state formation—not merely Egypt’s southern neighbour.
+
+### New Kingdom conquest; Kushite resurgence
+
+Late 17th/early 18th Dynasty Egypt destroyed Hyksos then advanced on Kush; Thutmose I’s decisive battle near Third Cataract; Egyptian town at Dokki Gel 1 km north of Kerma; control until ~1070 BC—Kushite culture surviving under Egyptian veneer. Power vacuum filled 10th c. from near Jebel Barkal; el-Kurru ancestral burials show crouched tumulus custom harking to Kerma then rapid Egyptianizing. Mid-8th c. Kashta/Piye expanded into Egypt as Amun’s champions—empire unmatched until 1820s; Assyrian wars forced expulsion after Thebes 663 BC; state prospered another millennium south of First Cataract → Napata/[[meroe|Meroe]] horizon.
+
+*Source: [[mitchell-lane-oxford-handbook-african-archaeology-2013]].*

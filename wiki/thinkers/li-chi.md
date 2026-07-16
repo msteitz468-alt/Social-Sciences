@@ -10,8 +10,8 @@ trained: ["[[chang-kwang-chih|Kwang-chih Chang]]"]
 key_works: ["*The Beginnings of Chinese Civilization* (1957)", "Anyang excavation reports (Academia Sinica, 1928–1937)"]
 key_concepts: ["[[unknown]]"]
 fieldwork_sites: ["Anyang / Yinxu (Shang capital), Henan (1928–1937)"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -48,6 +48,17 @@ Li Chi worked under acute wartime and political constraint (the Sino-Japanese Wa
 the evacuation of collections to Taiwan). The interruption of Chinese field archaeology in
 1937 and the Cold War division of the discipline shaped what could and could not be
 studied for a generation — a production-context fact rather than a scholarly failing.
+
+## Chang 1980 densification (attributed)
+
+[[chang-kwang-chih|Chang]] dedicated *[[chang-shang-civilization-1980|Shang Civilization]]*
+(1980) to Li Chi and treats the IHP Anyang program as Door 4 of Shang knowledge. Chang
+records the Institute's **dataism** (*shih-liao-hsüeh*) philosophy (Fu Ssu-nien): modern
+historiography as procurement and classification of data with natural-science tools; planned
+An-yang report organized by artifact categories; division of labor (Tung written records,
+Li other artifacts, Woo human remains). Chang's critique — dataism is itself a theory —
+does not diminish Li's excavation achievement; it reframes how the archive should be
+synthesized. See [[anyang]], [[oracle-bone-inscription]].
 
 ## Historiography
 

@@ -7,9 +7,9 @@ disciplines: [biological-anthropology, archaeology]
 emic_or_etic: etic
 operationalized_as: "presence of an archaeological 'package' — blade-based and standardized/formal stone tools, routine formal bone/ivory/antler artifacts, personal ornaments and art, structured living space and elaborate graves, long-distance transport of raw materials, systematic hunting and fishing, and marked stylistic variation across space and time"
 contested: yes
-related_concepts: [palaeolithic, encephalization, material-culture, upper-paleolithic-revolution, mousterian, aurignacian, chatelperronian, levallois, intimate-effective-extended-networks, release-from-proximity, social-landscape-palaeolithic, recent-african-origin, anatomically-modern-humans]
-sources_ingested: 5
-last_updated: 2026-07-10
+related_concepts: [sapient-paradox, material-engagement, palaeolithic, encephalization, material-culture, upper-paleolithic-revolution, mousterian, aurignacian, chatelperronian, levallois, intimate-effective-extended-networks, release-from-proximity, social-landscape-palaeolithic, recent-african-origin, anatomically-modern-humans]
+sources_ingested: 9
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -190,3 +190,61 @@ Spanish MP sites (Cueva Antón, Cueva de los Aviones; Zilhão): shells as pendan
 ### Clothing proxy
 
 Body-louse mtDNA clocks (Stoneking; Toups et al.) estimate body-louse origin ~80–170 ka as proxy for regular clothing/bedding in Africa before diaspora (as of Stringer 2012).
+
+## Oxford Handbook densification (Mitchell & Lane 2013)
+
+*Attributed — Mitchell & Lane (intro), Lawrence Barham (Ch. 24), Lyn Wadley (Ch. 25), Marlize Lombard (Ch. 26), Laura Basell (Ch. 27), Robert Foley (Ch. 20), Christian Tryon (Ch. 8) in [[mitchell-lane-oxford-handbook-african-archaeology-2013]]; **as of handbook ~2012**.*
+
+Mitchell and Lane state that current evidence strongly suggests Africa is where the suite of cognitive skills/practices termed “behavioural modernity” first crystallised, arguably before effective *H. sapiens* dispersal beyond the continent. Barham historicizes the concept: it dates to late-1980s synthesis of fossil, genetic, and archaeological data (**Out of Africa II**); earlier Africanists assumed anatomical and behavioural modernity co-evolved, with European Upper Palaeolithic as innovation benchmark. Chronology revolution: MSA now **pre-dates anatomical modernity by ≥60–80 kya** at Kapthurin ~285 kya, Twin Rivers ~265 kya, Wonderwerk >276 kya; Klasies ~120 kya; Omo I ~195 kya (**as of handbook ~2012**). Cann et al. (1987) mtDNA + Stringer & Andrews (1988) → RAO; McBrearty & Brooks (2000) continent-wide trait list → gradual, regionally variable African modernity.
+
+**Henshilwood & Marean (2003) critique (via Barham):** trait lists invalid (many “modern” traits are latitude-specific foraging responses). Definition: modernity = **social life via symbols**; material threshold = art + artefact style + socially organized space = “fully symbolic sapiens behaviour.” Barham reads field consensus (~2012) as crystallizing on symbol use, earliest unambiguous evidence Africa/Near East <200 kya within *H. sapiens*. **Challenges Barham records:** (1) Neanderthal ornaments/art threaten species-exclusive link; (2) “all markers together” may be contingent; (3) style, structured space, ochre pre-date *H. sapiens* — ochre functionally ambiguous (Wadley); (4) African/Near Eastern symbolic packages 120–60 kya are **episodic not cumulative** (d’Errico & Vanhaeren) — demography/ecology (Powell et al.); Barham prefers **“demographic modernity”** under population pressure; (5) gradualists emphasize hierarchical technologies/language-like rules before *H. sapiens*.
+
+Lombard concludes southern African finds toppled Europe-first or post-50–40 kya models; material innovations form a mosaic; modern hunter-gatherer behavioural repertoire evolved during the southern African MSA — bone tools at [[blombos-cave]]/[[sibudu-cave]], beads, engraved ochre tradition to ≥100 kya, compound adhesives ≥70 kya, HP arrows 60–64 kya, snare/trap arguments, bedding/hearth maintenance. Wadley holds that hunting-and-gathering with out-of-body weapons is not restricted to *H. sapiens* (Schöningen spears ~400 kya; MSA points at Aduma and Kapthurin >350 kya), so theoretical frameworks need not separate MSA from LSA despite the MSA “grand moment.” Basell prefers “Middle Stone Age” over Clark modes because several modes can co-occur and more than one hominin species could have produced MSA artefacts; eastern Africa lags South/North Africa on beads/engraved ochre antiquity. Foley: modern anatomy and demographic bottlenecks appear to **precede** archaeological “modern behaviour” by tens of millennia. Tryon: heat treatment of rock by 164 ka in South Africa (Brown et al. 2009).
+
+## Tattersall — *Masters of the Planet* (2012)
+
+*Source: [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]. All claims attributed; date-stamp empirical material **(as of Tattersall 2012)**.*
+
+### Core thesis: symbolic/linguistic leap after modern form
+
+Tattersall argues that ancestors made a qualitative leap from non-symbolic, nonlinguistic information-processing to the symbolic and linguistic condition of living humans — “unparalleled in history” — and that this leap was made **well after** the species acquired its distinctive modern biological form (attributed). Humans are not “an improved version” of apes but an “altogether unprecedented presence”; the uniquely modern sensibility was an **abrupt, recent** event within the tenure of people who looked exactly like us, crucially abetted by language / language-like symbolic recombination (attributed — Prologue, chs. 13–14). He defines the uniting trait as **symbolic capacity**: organizing the world into mental representations that can be recombined endlessly, creating alternative imagined worlds that ground cooperation and culture (attributed).
+
+This is a **late-threshold, language-centered** position adjacent to [[klein-richard|Klein]]’s neural-switch model but framed through **exaptation** and cultural stimulus rather than a single late neural mutation as the sole story: anatomical *H. sapiens* arose as a relatively short-term developmental reorganization (~200 ka in his 2012 chronology); cognitive potential lay fallow until a cultural “keystone” (language invention in a small biologically prepared community) tipped the system into full symbolic use (attributed). FOXP2 is treated as necessary but not sufficient; many genes are involved; a single “language gene” is an illusion (attributed).
+
+### Method: what counts as evidence of symbolism
+
+Stone-tool skill and complexity are **not** ironclad proxies for symbolic thought; with few exceptions, confident inference of symbolic intent requires **overtly symbolic** objects (ornament, image, notation) (attributed). From the entire Neanderthal time–space range Tattersall finds nothing both confidently associated with Neanderthals and unambiguously interpretable as modern cognitive processes — skillful and complex, but “not in the way that we are” (attributed; contrast Stringer 2012’s more open reading of Neanderthal pendants above). Cro-Magnon European Upper Paleolithic art (~35–10 ka peak for cave art he highlights) is the first **overwhelming** evidence of minds that thought as we do; African MSA evidence supplies earlier **firm intimations** (attributed).
+
+### African MSA symbolic sequence (as of 2012)
+
+- **Skhul** (>100 ka): pierced marine shells and heated pigments — slender and “a bit arguable” (attributed).
+- **Aterian** North Africa: beads and related signals; imperfectly dated in his synthesis (attributed).
+- **[[blombos-cave]]** (~76–75 ka): perforated *Nassarius* beads; ochre plaques with deliberately engraved cross-hatching — earliest objects Tattersall **confidently** reads as symbolic; pressure-flaked fire-hardened silcrete tools (attributed).
+- **Pinnacle Point**: occupation from ~164 ka; shellfish expansion; multi-stage silcrete heat-treatment by ~72 ka so complex it may imply forward planning approaching symbolic cognition — but technology alone remains only an arguable harbinger (attributed).
+- **Klasies, Diepkloof, Enkapune ya Muto, Katanda**: further MSA ornament/engraving/bone-point signals in his inventory (attributed).
+
+Earliest firm symbolic sensibility among newly evolved *H. sapiens* comes from Africa or its immediate environs; Eurasian/Australian spreads follow; Ice Age European art gives a **minimum** date for full modern sensibility, not the origin (attributed).
+
+### Language as stimulus and lag after anatomy
+
+Anatomically modern Levantine forays (Skhul/Qafzeh) with essentially Neanderthal-like lifestyles show that modern bodies alone did not immediately overwhelm competition; rapid Old World takeover awaited the behavioral package (attributed — see also [[modern-human-origins-debate]]). Language is Tattersall’s preferred cultural stimulus for abstract thought (communal possession; infinite combinatorics); theory-of-mind is a rival stimulus he finds less explanatory of the archaeological lag (attributed). Analogies he uses (Nicaraguan sign-language emergence; Ildefonso’s acquisition of language; Jill Bolte Taylor’s stroke) illustrate how language transforms experience — illustrations, not fossil evidence (attributed).
+
+### Relation to other vault positions
+
+| Position | Tattersall 2012 relation |
+|---|---|
+| Klein late neural switch | Shared **late threshold** emphasis; Tattersall stresses exaptation + cultural language keystone more than a ~50 ka gene-for-language |
+| McBrearty–Brooks gradual MSA | Partially accommodates African early signals but still treats full symbolic/linguistic condition as a **qualitative leap**, not checklist gradualism alone |
+| Stringer 2012 Neanderthal symbolism | More restrictive on Neanderthal symbolic status than Stringer’s revised reading |
+| Demographic/flickering-candle models | Not his primary frame; demography enters mainly via bottleneck/dispersal narrative |
+
+No adjudication in wiki voice — record as Tattersall’s program statement.
+
+## Renfrew's sapient paradox (2003) as related framing
+
+*(Attributed — [[renfrew-colin]], *[[renfrew-figuring-it-out-2003|Figuring It Out]]* 2003.)* Renfrew accepts a relatively early modern package (anatomical/genetic near-identity with ~40 kya humans; UP art and speech capacity) and treats the long lag until sedentism/farming/urbanism as the **[[sapient-paradox]]** — a problem *for* behavioral-modernity narratives that treat the Upper Palaeolithic "human revolution" as the decisive break. His resolution shifts explanation to Holocene **[[material-engagement]]** and a **material-symbolic** stage (revision of [[donald-merlin|Donald]]), not to a further neural revolution. Complements and tensions with [[cognitive-fluidity]] (Mithen) and with gradualist African models of modernity: all remain attributed positions. Genetic claims in Renfrew 2003 are pre-large-scale aDNA.
+
+## Gamble — *Settling the Earth* (2013)
+
+*(Attributed — [[gamble-clive]], *[[gamble-settling-the-earth-2013|Settling the Earth]]* 2013, esp. Box 6.1.)* Gamble treats "modern behaviour" as **semantically inflated** after Omo Kibish-scale early *sapiens* and reviews McBrearty & Brooks-style skill packages with a critique of checklist teleology (attributed). Terra 3 expansion (after 50 ka) is not read as the automatic payoff of a modern package already present in late Terra 2; the structural question is social — [[going-beyond]], universal kinship, storage/defence — not a single aesthetic or lithic revolution (attributed, chs 6–7; Europe’s UP demoted as a regional fit-for-purpose model). Horizon: as of 2013.
+

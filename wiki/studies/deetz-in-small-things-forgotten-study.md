@@ -15,8 +15,8 @@ key_findings:
   - "He treated New England gravestone designs (death's head → cherub → urn and willow, c. 1680–1820) as a controlled seriation of religious and cultural change"
 concepts_introduced: ["[[georgian-worldview]]", "small things forgotten (as HA program phrase)", "[[creolization]] (as Deetz defines for HA)"]
 replication_status: reanalyzed-contested
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [study, archaeology, historical-archaeology]
 ---
 
@@ -63,6 +63,7 @@ Gave Anglophone **[[historical-archaeology]]** its most widely taught popular ch
 - Ethnicity and African survival inferences from architecture/ceramics (analogy strength; four-way non-identity).
 - Mechanism: Renaissance mentalité vs market capitalism, secularization, or planter ideology (Leone stream).
 - Colono ware and pipe ethnic attributions remain multi-position (Ferguson, Hill, creolization synthesis — see [[colono-ware]]).
+- **Hall (2000):** [[hall-martin|Martin Hall]] (*[[hall-archaeology-modern-world-2000|Archaeology and the Modern World]]*) argued the structuralist "world-view" model cannot explain historical change ("a structuralist world is a world without history") and is internally inconsistent — Deetz's account of blending "older" and "Georgianized" house styles imports a contradictory diffusionist/"infection" metaphor incompatible with subliminal, generation-spanning cultural grammars. Hall also read *In Small Things Forgotten* as producing a sanitized, largely benign history that omits violence. See [[structuralism]], [[theory-in-historical-archaeology-debate]].
 
 ## Current Standing
 

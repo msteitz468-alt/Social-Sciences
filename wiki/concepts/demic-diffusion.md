@@ -12,8 +12,8 @@ operationalized_as: >-
   without people (Ammerman & Cavalli-Sforza; as of Cavalli-Sforza 2000).
 contested: yes
 related_concepts: ["[[admixture]]", "[[cultural-transmission]]", "[[early-european-farmers]]", "[[genetic-distance]]", "[[principal-component-analysis]]", "[[anatolian-hypothesis]]", "[[early-farming-dispersal-hypothesis]]"]
-sources_ingested: 6
-last_updated: 2026-07-10
+sources_ingested: 7
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -141,4 +141,16 @@ Bellwood adopts Ammerman & Cavalli-Sforza’s term **demic diffusion** for actua
 *(Attributed — [[barker-graeme]], *[[barker-agricultural-revolution-prehistory-2006]]* 2006.)*
 
 Barker treats [[demic-diffusion]] (as used by Bellwood 2004 and Diamond 1997 for agricultural expansion) as a **position** that overstates unique farmer migrations in a world he reconstructs as already highly mobile and exchange-linked. He does not deny movement; he denies that mass demic packages are the **primary** explainer of multi-regional forager→farmer transitions. Counter-examples in his synthesis: piecemeal European adoption; independent African pathways (cattle-before-crops regions); parallel Asian domestications; millet and other crop transfers by group-to-group exchange; mid-2000s European genetics he reads as low Neolithic immigrant input (Haak et al. 2005; Richards et al. 1996 — **as of Barker 2006**, pre-genome-wide aDNA). See [[early-farming-dispersal-hypothesis]] Critiques · [[farming-spread-europe-debate]] · [[agricultural-origins-causation-debate]].
+
+## Whittle 1996 — rejection of pure wave-of-advance for Europe (position)
+
+*(Attributed — [[whittle-alasdair]], *[[whittle-europe-in-the-neolithic-1996|Europe in the Neolithic]]* 1996; mid-1990s radiocarbon/culture-history frame; **pre-aDNA**. Position layer only — not a wiki-voice verdict against Ammerman–Cavalli-Sforza or later genetic demography.)*
+
+Whittle restates the **colonisation / demic orthodoxy** he opposes: initial boat-borne colonisation into SE Europe; classic rapid [[linear-pottery-culture|LBK]] expansion by purposeful farmers into empty niches; sedentary mixed agriculture from the beginning with inbuilt expansion; Neolithic “revolution” and fully formed package language. Against this he argues that **indigenous foragers were principal agents of change** in SE Europe, LBK formation, central/west Mediterranean **sea-borne acculturation**, and many secondary extensions — colonisation only as **limited/special cases** (possible Sardinia/Corsica; orthodoxy’s southern Italian boat model **reported**, not endorsed as primary). Becoming Neolithic is **slow**, parallel across regions, not a single demic wavefront (Ch. 10 trend-diagram architecture: SE Europe / central–western Europe / central–west Mediterranean).
+
+**Not a pure cultural-diffusion straw man:** he allows historical contingency of SW Asian-derived practices becoming available; staged spreads; some open southern Italian settlement signal. The rejection is of demic diffusion as **primary European engine** and of fully formed colonist packages, not of all people-movement.
+
+**IE coupling rejected (same book, Ch. 5):** Renfrew-type early Anatolian Neolithic = IE dispersal is rejected as equating language with people via demic diffusion; linguistically implausible long-term uniformity over millennia and thousands of km; non-IE Anatolia (Hattic, Hurrian); IE minority in early Anatolia; many non-IE words/placenames in later Greek if IE arrived in the 7th millennium BC (**as of Whittle 1996**). Kurgan successive-wave models likewise rejected as crude mobility dualisms with reverse chronologies. Prefer: internal SE European change + external factors + varied language-spread mechanisms (lingua franca of mobility/exchange more than mass migration); steppe movement as opportunistic infill more than primary cause. See [[renfrew-colin]], [[anatolian-hypothesis]], [[yamnaya-culture]], [[farming-spread-europe-debate]].
+
+**Evidence-class note:** genetic demography is outside this source; post-2015 aDNA of early farmers and steppe-related pulses must not be read back as Whittle’s claims. His mid-1990s position sits with the indigenous/acculturation pole of the pre-genome debate; later aDNA revised demic *scale* for some horizons without retroactively validating or falsifying his full interpretive program (community creation, mobility, values).
 

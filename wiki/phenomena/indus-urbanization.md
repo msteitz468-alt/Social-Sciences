@@ -11,8 +11,8 @@ driven_by: [craft specialization, standardization of weights and measures, water
 produces: [Mature Harappan cities and towns, occupational specialization, standardized material culture]
 theorized_by: ["[[indus-polity-debate]]", "[[kenoyer-jonathan-mark]]"]
 key_studies: []
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: "2026-07-15"
 tags: [phenomenon, archaeology, south-asia, bronze-age]
 ---
 
@@ -98,3 +98,9 @@ comparative category of the [[urban-revolution]].
 ## Debates
 
 [[indus-polity-debate]]
+
+## Wright (2010) — five cities, site-count growth, and central-place/city-state modeling
+
+*(Attributed to [[wright-rita-p|Rita Wright]], *The Ancient Indus* (Cambridge, 2010), Ch. 5.)* Wright reports Possehl's (1990:270) figure of an increase from 463 sites in the Pre-urban period to 976 sites in the Urban period, and identifies five major Indus cities: [[harappa|Harappa]] (Upper Indus), [[mohenjo-daro|Mohenjo-daro]] (Lower Indus), [[dholavira|Dholavira]] (Kutch), Ganweriwala (Cholistan), and Rakhigarhi (Ghaggar-Hakra) — the last discussed only briefly by Wright given the limited published excavation record. Cholistan settlement-count tables (Mughal 1997, per Wright's Table 5.2) show growth from the Hakra phase (37 sites) through the Kot Diji/Early Harappan phase (32 sites) to the Urban period (73 sites, including 8 small towns and one city, Ganweriwala) — with camp-site numbers falling in the Kot Diji phase (read by Mughal as evidence of increasing pastoral sedentarization) and rising again in the Urban period (read as pastoralists being drawn toward, while remaining on the margins of, settled areas).
+
+Wright applies Christaller's ([1933] 1966) central-place theory to this settlement hierarchy, arguing that a primary-center-plus-secondary-centers-plus-periphery structure — with Ganweriwala and Harappa functioning as central places for their Cholistan and Beas hinterlands respectively — fits the Indus evidence, and combines this with the [[city-state|city-state]] concept (following Kenoyer 1997a, Charlton and Nichols 1997) to read the Indus cities as several loosely integrated, culturally unified but politically independent city-states, each substantially agriculturally self-sufficient yet mutually dependent on rural hinterlands for craft goods and food (see [[city-state]] for the full comparative treatment). She reports that Indus public works — civic water-management infrastructure, gateway/entryway monitoring at Harappa, and the possible ceremonial "stadia" at Dholavira — are consistent with, though not proof of, an underlying centralized planning authority and social hierarchy operating within this city-state framework, while explicitly declining to read any of this as evidence for a single unified Indus state.

@@ -15,8 +15,8 @@ preceded_by: ["[[hallstatt-culture]]"]
 succeeded_by: ["[[unknown]]"]
 language_affiliation: "Classically associated with Celtic-speaking communities; association is regional and imperfect — Celtic speech earlier and more extensive than La Tène material (Cunliffe 1997). See [[celtic-languages]], [[celticity-debate]]."
 genetic_signature: "Not addressed in Cunliffe 1997."
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [culture, iron-age, western-europe]
 aliases: [La Tène, La Tene, La Tène culture, LT]
 ---
@@ -90,6 +90,12 @@ Cunliffe’s brackets: La Tène A c.450/440–c.370/350 BCE (with possible ~gene
 - Archaeological “celticization” in Cunliffe’s prose is a cultural-process label, not four-way identity.
 - Ulster Cycle material culture is a “window on the Dark Ages,” not on La Tène (Mallory via Cunliffe) — do not back-project medieval Irish epic kit onto the continental Iron Age.
 
+## Densification from Cunliffe, *Facing the Ocean* (2001)
+
+Cunliffe (2001) reiterates that "Hallstatt"/"La Tène" is an artificial nomenclature carrying no implication of ethnicity or cultural continuity/dislocation, restating this page's construct-history caution from a second, later synthesis. He adds detail on La Tène A elite formation in the Marne/Moselle (5th century BCE): new power centres with two-wheeled vehicle burials, warrior gear, and the new decorative style later termed "Celtic Art," partly inspired by Greek/Etruscan motifs reaching the zone via a Moselle–Etruscan trading axis (Vulci beaked flagons) that Cunliffe suggests eclipsed Massalia-routed Greek influence around 500 BCE (Cunliffe 2001; see [[hallstatt-culture]]).
+
+He also documents cross-Pyrenean La Tène linkages bearing on the culture's southern edge: the antennae-hilted sword is shared as elite-warrior weaponry across Galicia, Celtiberia, and communities north of the Pyrenees (Aquitania, Languedoc), with close stylistic overlap between Celtiberian and southern French forms — read as evidence of long-term elite exchange across the western Pyrenees passes rather than migration (Cunliffe 2001; see [[celtiberian-culture]]). By contrast, direct exchange evidence between the Celtiberian zone and the Atlantic-facing NW Iberian communities is "surprisingly sparse" in his review, suggesting the Celtiberian interior remained relatively isolated from the Atlantic seaways (Cunliffe 2001).
+
 ## Historiography
 
-Franks (“Late Keltic,” 1863), Keller’s lake-village framing of La Tène, the 1871 Marzabotto equation, Hildebrand/Tischler/Reinecke periodization, Déchelette synthesis, Jacobsthal art styles, and invasionist then anti-invasionist readings structure the field. Since c.1970 Cunliffe notes a shift toward economic and world-systems models (coinage, oppida, pan-European Celt image as political metaphor). Cunliffe 1997 ([[cunliffe-ancient-celts-1997]]; [[cunliffe-barry]]) is a pan-European synthesis that keeps the La Tène package as archaeologists’ “Celtic” material culture while insisting on dissociation from language and classical ethnonym where the evidence demands it. Absolute dates and regional sequences have continued to refine since 1997; the attributed social narrative (Hallstatt collapse → Early La Tène periphery → migrations → oppida/Roman periphery) remains this source’s frame.
+Franks (“Late Keltic,” 1863), Keller’s lake-village framing of La Tène, the 1871 Marzabotto equation, Hildebrand/Tischler/Reinecke periodization, Déchelette synthesis, Jacobsthal art styles, and invasionist then anti-invasionist readings structure the field. Since c.1970 Cunliffe notes a shift toward economic and world-systems models (coinage, oppida, pan-European Celt image as political metaphor). Cunliffe 1997 ([[cunliffe-ancient-celts-1997]]; [[cunliffe-barry]]) is a pan-European synthesis that keeps the La Tène package as archaeologists’ “Celtic” material culture while insisting on dissociation from language and classical ethnonym where the evidence demands it. Absolute dates and regional sequences have continued to refine since 1997; the attributed social narrative (Hallstatt collapse → Early La Tène periphery → migrations → oppida/Roman periphery) remains this source’s frame. [[cunliffe-facing-the-ocean-2001]] (Ch. 8) is a second, independent Cunliffe synthesis reinforcing the construct-history caution and adding Iberia-facing cross-Pyrenean detail (see Densification section above).

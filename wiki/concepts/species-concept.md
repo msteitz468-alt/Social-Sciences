@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "For living taxa, interbreeding/reproductive isolation between populations; for fossils, inferred from the range of morphological variability in the closest living relatives, since interbreeding cannot be directly observed"
 contested: yes
 related_concepts: ["[[punctuated-equilibrium]]", "[[cladistics]]", "[[neanderthals]]", "[[anatomically-modern-humans]]", "[[admixture]]", "[[multiregional-evolution]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -89,3 +89,15 @@ Some morphologists name ≥10 *Homo* species over 2 Ma (*ergaster, erectus, geor
 ### Early modern classification disputes
 
 [[herto]] as new subspecies *idaltu* vs Stringer’s inclusion within broad early *H. sapiens*; [[jebel-irhoud]] as not fully modern (Stringer) vs Hublin’s emphasis on chin/modern traits — species/subspecies boundaries for early moderns are interpretive, not pure measurement facts (as of Stringer 2012). Multiregional single-species stance made [[homo-floresiensis]] hard to accept as distinct (pathology preferred) (attributed).
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*(Attributed — [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]; as of Tattersall 2012.)*
+
+**Multi-species pattern.** Recurring Tattersall theme: until very recently there have typically been lots of hominid species around; sole surviving *H. sapiens* is historically exceptional. Early bipeds illustrate classic adaptive radiation into a new zone (physical response opening opportunities), not chimp-style behavioral accommodation without speciation. Related lineages become harder to distinguish toward common ancestors; no anatomical “silver bullet” for earliest hominid status. “Hominid” family vs “hominin” subfamily is “merely notional” for most purposes in his usage.
+
+**Historiography of lumping.** Pre-WWII paleoanthropology (human anatomists) named liberally (~15 genera by WWII). Evolutionary Synthesis gradualism and Cold Spring Harbor 1950 / Ernst Mayr reduced culture-broadened niches to principle of one human species at a time — three-stage *H. transvaalensis* → *H. erectus* → *H. sapiens* (including Neanderthals); later forced to admit robust australopith side branch. Reductionism thrall for decades (site names only; taxonomic inclusiveness). Keith’s cerebral Rubicon (750 cc for *Homo*) fell as fossils accumulated. *A. afarensis*: Hadar/Laetoli holotype politics and uneasy truce on one-species vs multi-species at Hadar.
+
+***Homo* membership and brain trends.** No official definition of “human”; most paleoanthropologists broadly put first meaningful “humans” at earliest fossil *Homo*, but diagnostic criteria for fossils remain unsettled — hence *H. habilis*/*rudolfensis*/“early *Homo*” inflation (see [[homo-habilis]]). Wood & Collard (1999): working from *H. sapiens* outward excludes habilis/rudolfensis/early *Homo* from a morphologically coherent *Homo*. Brain-size plots: Tattersall rejects gradualist single-lineage “feel-good” increase; prefers preferential success of larger-brained **species** across multiple lineages. Morphological diversity under *H. erectus* labels (Olorgesailie, Buia, Daka, Olduvai; Dmanisi *H. georgicus* then folded back) and Ileret dual-lineage claims expose nomenclatural inconsistency. *Homo floresiensis* (as of 2012): shows time ≠ inevitable brain enlargement if assigned to *Homo* at all.
+
+See [[homo-erectus]], [[homo-heidelbergensis]], [[dmanisi]], [[australopithecus]].

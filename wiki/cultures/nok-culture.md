@@ -15,8 +15,8 @@ preceded_by: ["[[unknown]]"]
 succeeded_by: ["[[unknown]]"]
 language_affiliation: ["[[unknown]] — not equated from terracottas alone"]
 genetic_signature: "[[unknown]]"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [culture, west-africa, iron-age]
 ---
 
@@ -62,3 +62,19 @@ In Connah 2016, “Nok” appears mainly as a **named node in a West African sav
 ## Historiography
 
 Within Connah 2016, Nok functions as a **craft-historical landmark** in the West African Iron Age / ceramic narrative, not as a full comparative city/state case. Specialist Nok archaeology (extended radiocarbon series, iron-smelting furnaces, settlement surveys, looting/heritage debates) largely post-dates or lies outside the synthesis depth Connah gives this label. Wiki densification should expand from dedicated Nok sources; until then, thinness is a source property, not an absence of the culture itself.
+
+## Oxford Handbook densification (Mitchell & Lane 2013)
+
+*(Attributed — Detlef Gronenborn in [[mitchell-lane-oxford-handbook-african-archaeology-2013]] Ch. 58; thin densification—handbook mentions Nok as chronological **parallel** for complexity, not as full site monograph. **as of 2013**.)*
+
+### Chad Basin parallel (mid-first millennium BC)
+
+First complex settlement systems west of Lake Chad mid-first millennium BC (extensive nuclear sites, possible lake-transgression congestion). **Complexity also emerges then in central Nigeria with the Nok Culture** (Gronenborn 2013). Permanent villages with mixed pastoralism/horticulture by ~AD 800 at Kursakata/Mege (regional sequence, not Nok itself).
+
+This placement treats Nok as a **marker of early Iron Age / complex settlement timing** in central Nigeria alongside Chad Basin developments—not as a developed case of urbanization or state formation in the handbook chapter. Do **not** promote Nok to primary state-formation exemplar from this mention alone (aligns with thin Connah 2016 craft-landmark treatment above).
+
+### Central Sahel statehood conclusions (context)
+
+Gronenborn: traditional historiography saw central Sahel state landscape emerging via southbound Islam and associated trade (Bovill 1970). External influences cannot be neglected, but **internal developments** increasingly regarded as equally significant; mid-1st-millennium BC walled settlements and possible hierarchical structures in first millennium cal. BC–early AD **challenge external-origin-only models**. Nok’s chronological co-occurrence with early Chad Basin complexity is part of that internal-deep-time argument package—not evidence that Nok *caused* Kanem-Borno or Hausa city-states.
+
+*Source: [[mitchell-lane-oxford-handbook-african-archaeology-2013]]; still thin—specialist Nok sources needed for settlement/iron/radiocarbon depth.*

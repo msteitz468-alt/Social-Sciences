@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["Archaeology from the Earth (1954)", "Verulamium Report (1936)", "Maiden Castle, Dorset (1943)", "Ancient India excavation reports (Arikamedu, Brahmagiri, Harappa/Taxila, 1944–48)"]
 key_concepts: ["[[box-grid-excavation]]", "[[stratigraphic-excavation]]", "three-dimensional recording", "tactics and strategy in excavation"]
 fieldwork_sites: ["Verulamium (St Albans), 1930s", "Maiden Castle, Dorset, 1934–37", "Arikamedu, South India, 1945", "Brahmagiri, Mysore, 1947", "Harappa and Taxila, 1944–48"]
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -111,6 +111,23 @@ time and space simultaneously. See [[stratigraphic-recording-debate]].
 ## Possehl, *The Indus Civilization* (2002)
 
 [[possehl-indus-civilization-2002|Possehl (2002)]] adds South Asian institutional and interpretive material. Wheeler was appointed ASI Director General in 1944 by Lord Wavell, called from active military duty; he reconstituted the excavations branch (closed since 1932), founded a prehistory branch and the journal *Ancient India*, and ran training-school excavations (Taxila 1944–45, Arikamedu 1945, Harappa 1946, Brahmagiri/Chandravalli 1947) that Possehl credits with professionalizing a generation of South Asian field archaeologists in stratigraphic method and three-dimensional recording. Possehl attributes to Wheeler (with Stuart Piggott) the "Wheeler–Piggott paradigm": reading the Indus "citadels" at Harappa and Mohenjo-daro as defensive strongholds for Sumerian-style "priest-kings," and characterizing the civilization as regimented and monotonous ("dull... lacking in stimulus of individuality"). Possehl reports this reading "has been dropped by most modern interpreters" (see [[indus-polity-debate]]) and states Wheeler's earlier "massacre at Mohenjo-daro" claim — skeletal remains read as invasion victims — is now rejected on both chronological and taphonomic grounds (see [[mohenjo-daro-massacre-debate]]). See [[harappan-civilization]], [[mohenjo-daro]].
+
+## Wright, *The Ancient Indus* (2010)
+
+Wright 2010, commenting on Wheeler, states that "Indus scholarship has especially
+been burdened with a legacy based on Wheeler's now rejected notion" of **stimulus
+diffusion** — Wheeler's view (1968) that civilization came to the Indus from
+Mesopotamia — which Wright reports is discredited by later Mesopotamian-text and
+Indus-artifact evidence indicating "interaction among equals" across a broad region.
+Wright also relays that Wheeler's **"massacre at Mohenjo-daro"** reading is "now
+largely discredited": Kennedy (2000)'s physical-anthropology reanalysis found no
+skeletal trauma marks and no demographic disruption around 2000 BCE. Similarly,
+Wheeler's dismissal of pre-Indus Baluchistan as a mere "back curtain to the main
+scene" (1968) is reported as abandoned given the Mehrgarh evidence for Baluchistan as
+a genuine center of innovation, and his and Vats's reading of a structure at Harappa
+as a state-organized "granary" worked by "semi-servile" labor is reported as
+undermined by Kenoyer et al. (1999)'s renewed excavation, which found the supposed
+grain-ventilation "air holes" filled with mudbrick and no grain-processing residue.
 
 ## Historiography
 

@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["[[childe-dawn-european-civilization-1958|The Dawn of European Civilization (1925; 6th ed. 1957/58)]]", "[[childe-danube-in-prehistory-1929|The Danube in Prehistory (1929)]]", "[[childe-man-makes-himself-1936|Man Makes Himself (1936)]]", "[[childe-what-happened-in-history-1942|What Happened in History (1942)]]"]
 key_concepts: ["[[archaeological-culture]]", "[[ex-oriente-lux]]", "[[neolithic-revolution]]", "[[urban-revolution]]", "[[social-surplus]]"]
 fieldwork_sites: ["museum and literature synthesis of Central European collections (1920s); author travel to regional museums as noted in Danube Preface; later Eastern European academy visits noted in Dawn 1957 preface"]
-sources_ingested: 13
-last_updated: 2026-07-10
+sources_ingested: 14
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -140,3 +140,8 @@ On early states, W&O note the Steward/Childe tradition’s observation that earl
 - **LBK swidden package:** Childe linked [[linear-pottery-culture|LBK]] to loess; the rapid-colonization-via-swidden model (Clark 1952, in Childe’s orbit) is rejected in Barker’s mid-2000s synthesis (permanent fields / intensive garden cultivation — see LBK page).
 
 Source: [[barker-agricultural-revolution-prehistory-2006]]. Cross-links: [[oasis-natural-habitat-debate]], [[farming-spread-europe-debate]], [[early-farming-dispersal-hypothesis]], [[neolithic-revolution]], [[ex-oriente-lux]].
+
+## Reception — Renfrew *Figuring It Out* (2003)
+
+*(Attributed — Renfrew 2003.)* Renfrew cites *[[childe-man-makes-himself-1936|Man Makes Himself]]* (1936) as encapsulating human self-creation / the human as demiurge — aligned with his [[material-engagement]] thesis (humans make artefacts; artefacts shape humans). Closing Postscript returns to Childe as still-useful picture of developmental processes despite updated detail.
+

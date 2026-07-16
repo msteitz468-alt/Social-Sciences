@@ -5,8 +5,8 @@ distribution: regionally-specific
 key_variants: ["Early Dynastic Sumerian temple estate", "Ur III state-redistributive economy", "Amorite-period reduced temple landholding"]
 theorized_by: ["[[adams-robert-mcc]]", "[[roux-ancient-iraq-1992|Roux 1992]]"]
 key_studies: ["[[adams-evolution-urban-society-study]]"]
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 6
+last_updated: 2026-07-15
 tags: [institution]
 ---
 
@@ -87,3 +87,63 @@ Use as Egypt case of religious–economic institution; do not equate with Sumeri
 *(Attributed — [[wilkinson-toby]], *[[wilkinson-rise-fall-ancient-egypt-2010]].)*
 
 Amun estate wealth and Theban priesthood as political actors (especially TIP dual rule); temple building as royal legitimacy (Hatshepsut, Rameses II); late periods see temples as continuity under foreign kings. Complements Kemp’s NK corporate-temple model with narrative of priestly power versus king.
+
+## Potts 1997 — temple household definition, food offices, salt/forestry administration, agricultural scale
+
+*(Attributed — [[potts-mesopotamian-civilization-1997|Potts, Mesopotamian Civilization 1997]].)*
+
+### Gelb's "temple as household" definition and its three strata
+
+I.J. Gelb (1967) characterized a Mesopotamian temple ("deity's house") as a full socio-economic unit, largely self-contained and autarchic — including residential buildings, labor-force shelters, storage buildings, animal pens, fields, orchards, gardens, pastures, and the owners/managers, labor personnel, and domestic animals needed to support temple activities. Gelb further distinguished three social strata within large public and private households: "free" members (family and managers); "semi-free" men (*guruš*), women (*gemé*), and children, who formed the bulk of the labor force, could not be bought or sold, and received monthly rations of barley, wool, and oil; and "unfree" chattel slaves, who were sellable and often lacked family life. R. Englund (1991) qualified this scheme, arguing that in some periods — e.g. Ur III — "semi-free" women workers such as those in the Umma grain mills were effectively state-owned chattel slaves engaged in productive labor, distinct in practice from household slaves.
+
+### Neo-Babylonian Eanna food offices
+
+At Uruk in the Neo-Babylonian period, the Eanna temple had three main offices for food preparation for deities: *tabihutu* (butchers/meat carvers preparing sacrificial meat offerings), *širāšūtu* (brewers making daily beer offerings), and *nuhatimmūtu* (bakers making porridge, cakes, and sweets). Food offered to deities was subsequently redistributed to temple staff as a perquisite, and in some cases the king received a portion, as part of the temple's redistributive economy (Beaulieu 1993).
+
+### Fruit restricted to temple and palace contexts
+
+J.N. Postgate (1987) notes that pre-Sargonic Girsu texts routinely list dates, figs, apples, and grapes together, mostly destined for temple offerings and festivals; deliveries "for the king's table" are known in the Old Akkadian period. Fruits other than dates virtually disappear from the cuneiform record after 2000 BC and are absent from lists of food for the king at Old Babylonian Mari — Postgate suggests end-of-Ur-III disturbances damaged fruit-tree cultivation (fruit trees being less hardy than date palms). Potts treats third-millennium fruit consumption as largely, if not exclusively, restricted to temple and palatial contexts.
+
+### Salt rations at Nippur
+
+Texts on the Old Akkadian reconstruction of the Nippur e-kur shrine (Westenholz 1987) record monthly rations for skilled and unskilled workmen: 0.5 sila of salt plus 5 sila of dried fish for workmen, double (1 sila salt, 10 sila fish) for foremen. Potts converts these figures to an estimated daily per-capita intake of roughly 20.83 g (workmen) and 41.66 g (supervisors) — figures that "far exceed" the modern recommended 12–15 g/day for a mixed diet; Potts suggests the rations may have covered entire families, or that the timing (the "Early Hot Season") reflects elevated allowances to offset salt loss through perspiration.
+
+### Girsu/Umma forestry administration
+
+Contrary to assumptions that Mesopotamian temple and palace timber was entirely imported, cuneiform evidence from pre-Sargonic Girsu (roughly 150 texts; Powell 1992) and Ur III Umma (73 texts studied by Steinkeller 1987) documents organized, professionally managed local forestry. Girsu had specialist foresters (*lú tir*, "forest man") and tamarisk-plantation managers (*lú sinig*); Umma had 30 forests, each supervised by an overseer, three foremen, and ten work-gangs, staffed by *erín* ("colonist") labor also liable for military service. A seven-year Umma text records 7,390 talents (223 tonnes) of *ma-nu* wood harvested; a single delivery text lists 810 boat ribs and 59,290 pegs of *ma-nu* wood. Steinkeller (1987) states it is "only in the Ur III period that one finds evidence for planned and organized exploitation of this ecological niche."
+
+### Ur III state agriculture at scale
+
+A Girsu text (BM 18060) covering the decade Shulgi 42–Amar-Sin 3 (c. 2053–2044 BC) records 35,365 bur 16 iku (roughly 229,171 ha) under cultivation, averaging some 22,917 ha per year; a companion text (TuT 5, Shulgi 47) records 3,744 bur 14.5 iku (roughly 24,266 ha) sown under the Girsu governor's direct control. Average Ur III field size was approximately 100 iku (36 ha), versus only 4–10 iku in the Old Akkadian period (Liverani 1990) — fields were typically elongated strips (length roughly ten times width), which Liverani attributes to irrigation-water-delivery constraints and the difficulty of turning two-pair ox teams. Potts treats this as evidence that Mesopotamian state agriculture of this sort was carried out "on a grand scale."
+
+## Lehner densification (1997)
+
+*(Attributed throughout — [[lehner-mark]], *[[lehner-complete-pyramids-1997|The Complete Pyramids]]* 1997. Old–Middle Kingdom pyramid as pious foundation / landlord. Complements Kemp NK temple-economy section above.)*
+
+### Pyramid as pious foundation and economic engine
+
+As a temple complex the pyramid was the largest of “pious foundations” — enormous endowments of people, lands, and produce for upkeep of tomb/temple/pyramid. Building pyramids founded new farms, ranches, and towns in the provinces; livestock and produce flowed to the complex for redistribution to workforce, priests, and temple personnel. Especially in the Old Kingdom the pyramid was an economic engine and major catalyst for internal colonization (Lehner INTERPRETATION — see also [[the-state]], [[state-formation]]). Multi-role summary: labour project; baker and brewer; colonizer; employer of farmers, herdsmen, craftsmen; temple/ritual centre; reliquary of a king.
+
+### Land portfolios, estates, *hut ka*
+
+- Temples and large households owned non-contiguous field assemblages of varying quality — insurance against extreme floods; OK pyramids among earliest developers/owners of such “land portfolios.”
+- Pyramid temple scenes often show long trains of offering bearers personifying village, estate, or nome — functioning as a kind of title deed to newly claimed land.
+- Every tomb and pyramid as “economic nexus, the centre of an engine of production, storage and redistribution.” Simplest form: ***hut ka*** — estate of the spirit / pious foundation: people settle virgin land with draft animals under a superintendent in a large manor; goods/livestock offered to a cult foundation focused on tomb and statue of the deceased.
+- Palermo Stone (Sneferu): 35 estates with people + 122 farms/ranches in one annual entry; personified estate names at Bent Pyramid valley temple (“Joy of Sneferu,” “Sneferu is Luscious of Pastures,” etc.).
+- Produce from Middle Egypt and Delta estates delivered to pyramids (illustrated with Amenemhet temple drawing at [[lisht]]).
+
+### Landlord pyramid: token vs real delivery
+
+Opening question of Lehner’s “Pyramid Towns” discussion: was all provincial estate produce and livestock literally brought to the necropolis, or only token offerings while the major part went elsewhere? Frames the [[pyramid-complex]] as **landlord / redistribution centre** requiring installations beyond eternal stone elements (attributed).
+
+### Scale figures and filters
+
+- Niuserre sun temple annual inflow inscriptions: 100,800 rations of bread/beer/cakes; 7,720 *pesen* loaves; 1,002 oxen; 1,000 geese — Lehner imagines still greater amounts for a pyramid like Khufu’s, requiring major storage/processing/redistribution.
+- 5th-dynasty sun temples as “sacred filter” for goods sustaining pyramids: Abusir Papyri show Neferirkare’s sun temple delivering provisions by canal twice daily (ox meat, bread, beer) to the pyramid (attributed).
+- 5th-dynasty officials/priests begin claiming shares of estate produce (e.g. Nenkhefetka’s 14 estates including Userkaf and Sahure names).
+- Wedjebten secondary enclosure: house-like chambers for a family line of priests sharing the queen’s funerary endowment via a doorway inscribed as “gate of the estate” — Afterlife economics of redistributed endowment.
+- *Ra-she* (“mouth/entrance of the basin”) in Abusir Papyri: place of deliveries, storage, and production at the interface of pyramid precinct and flood basin.
+
+### Pyramid towns as economic settlements
+
+Permanent element of the complex: town at plateau foot for priests, officials, guards, support. Illahun/[[kahun]] (Senwosret II Hetep-Senwosret): 220 small houses + 9–10 large estates; Kemp granary estimate 5,000–9,000 annual rations; small-house dwellers “must have worked for and in the large households.” Menkaure valley temple “sacred slum”: tax-exempt town invades temple courts while cult continues — model of discrepancy between royal intention and popular reality (Lehner notes Menkaure estate processing must have been far larger). Giza names: Gerget Khufu, Tjeniu Khafre. See [[urbanization]], [[kahun]], [[heit-el-ghurab]].

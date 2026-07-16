@@ -7,8 +7,8 @@ date_introduced: "1957 (Semenov); modern SEM-enabled program late 1970s–1980s 
 supersedes: ["[[unknown]]"]
 epistemic_leverage: "Infers tool function from microscopic wear traces, polishes, and striations on artifact edges and surfaces—and, with experimental calibration, the worked material and motion (cutting, scraping, piercing)."
 key_limitations: "Equifinality of some wear patterns; requires experimental baselines and specialist microscopy; post-depositional damage and reuse complicate readings; one tool can serve many purposes."
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [method]
 ---
 
@@ -72,6 +72,10 @@ As reported in Renfrew & Bahn 2012:
 - **Pre-Upper Paleolithic bone tools** — existence of shaped organic tools vs natural bone modification.
 - **Blind-test generalizability** — how far Keeley-type categories travel across raw materials, post-depositional environments, and multi-use tools.
 - **Combination with residues** — blood-residue claims (Loy) remain controversial; use-wear and residues should be designed together in sampling and cleaning protocols.
+
+## Place in behavioral archaeology (Schiffer 1979a / 1995 Ch. 11)
+
+*(Attributed — Schiffer 1979a; *[[schiffer-behavioral-archaeology-first-principles-1995|First Principles]]* Ch. 11.)* [[schiffer-michael-b|Schiffer]] argued lithic use-wear, as expanded [[experimental-archaeology]], has a role analogous to [[ethnoarchaeology]] in developing general principles (correlates) for archaeological inference within [[behavioral-archaeology]]’s integrating framework — but overall impacts on prehistoric interpretation had so far been slight. Critiques of then-current practice: reinventing noncomparable experiments; failure to employ rigorous experimental methods (citing Keeley 1973; Ackerly 1977); insufficient engagement with BA methodological issues that bind experiments to prehistory. Experimental findings should be expressed as lawlike **correlates** (State-1 element attributes + State-2 energy behavior → State-3 modifications). He urged standardized behavioral description beyond ambiguous everyday motion words (scrape/saw/cut), hierarchical micro- and macroexperiments, and **use** as quantitative unit mediating stroke-level and activity-level results — feeding Pathway-type formation models that use average uses per use-life. Programmatic application: quantitative wear on Dalton points/end-scrapers to test Morse–Goodyear Brand hunting-station vs base-camp settlement hypotheses (attributed).
 
 ## Related
 

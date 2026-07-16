@@ -7,8 +7,8 @@ date_introduced: "1901 (Petrie, Diospolis Parva)"
 supersedes: ["[[unknown]]"]
 epistemic_leverage: "Builds a relative chronology from undated assemblages alone, by ordering them so that artifact types rise and fall gradually — recovers time-order without stratigraphy or absolute dates."
 key_limitations: "Yields relative order only, not calendar dates; assumes gradual, unidirectional stylistic change and continuous deposition; vulnerable to conflating stylistic with functional or regional variation; needs an independent anchor to fix direction and absolute date."
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 5
+last_updated: 2026-07-15
 tags: [method]
 ---
 
@@ -65,6 +65,28 @@ work combined ceramic typology with datable Roman imports rather than pure seria
 
 The reliability of seriation turns on the same typological cautions recorded on
 [[typological-method]] and on whether an independent chronological anchor is available.
+
+## Basin-wide chronology anchor problem (Sanders, Parsons & Santley 1979)
+
+Attributed to [[sanders-parsons-santley-basin-of-mexico-1979]] (study: [[sanders-basin-of-mexico-study]]). The Basin of Mexico Survey Project's ceramic chronology rests primarily on **21 excavations conducted 1961–63** in the Teotihuacan Valley, undertaken specifically to refine an unpublished, grave-lot-based prior chronology into one usable for dating surface samples; the project conducted no further excavations for chronological purposes between 1963 and a 1974 Cuautitlán season, so the sequence continued to rest on the 1961–63 work under the **stated assumption that the ceramic sequence is uniform across the whole Basin** — a methodological assumption the authors flag as unverified independently across the survey area, not a demonstrated fact. Excavation-derived phasing is fine-grained (50–150 year phases); surface-survey phasing applied Basin-wide is coarser (150–300 years), and the finer excavation sequence was largely not applied back onto the bulk of survey data.
+
+**Tolstoy's (1975) independent reanalysis** of the Parsons–Blanton surface collections, working from lab analysis of scattered sherd collections rather than direct field phasing, used a coarser three-tier system (bulk/definite/possible occupation by phase) and a set of simplifying assumptions (density halved for "definite" secondary components, reduced by a third where two phases co-dominate, "possible" occupations ignored) to reconcile his periodization with the survey's field density data — an explicit case of a second seriation-adjacent reanalysis producing a different chronological reading from the same underlying surface assemblages. A worked example (Cuautitlán/Tenayuca Formative sequence) shows the stakes: a coarser phasing scheme suggested one settlement-history narrative, but applying a finer chronological scheme revised population/site counts downward by 30–40% for some phases and relocated the period of peak nucleation to a different community (Loma Torremote, ca. 650–550 BC, uncalibrated) than the coarse scheme implied.
+
+## Mesopotamian relative chronology (Matthews 2003)
+
+*(Attributed — [[matthews-archaeology-mesopotamia-2003|Matthews 2003]].)* Matthews describes
+Mesopotamian relative chronology as built from two combined approaches — stratification and
+artefact typology/seriation, the latter borrowing developmental-sequence concepts from art
+history. Roaf and Killick's (1987) study of Ninevite 5 pottery at Mohammed 'Arab (Tigris,
+north of Mosul) used **frequency seriation** of decorated pottery types through excavated
+levels to establish a relative chronology for early-third-millennium BC Upper Mesopotamia.
+Hans Nissen cautions that no single universally valid chronological scheme exists, since
+different artefact classes — pottery versus cylinder seals, for instance — change style or
+function at different rates (Nissen 1988: 7). Matthews also notes the field's **type-site
+naming convention**: periods such as Hassuna, Samarra, Halaf, Ubaid, Uruk, and Jemdet Nasr
+are named for the site of first identification even where later excavations elsewhere (e.g.
+Arpachiyah for Halaf, Tell es-Sawwan for Samarra) yield richer evidence — a naming artefact
+of discovery history, not a claim about relative importance.
 
 ## Renfrew & Bahn textbook synthesis (2012)
 

@@ -13,8 +13,8 @@ cultures: ["[[unknown]]"]
 excavated_by: ["[[flannery-kent-v|Kent V. Flannery]] (1966)", "Bruce Smith restudy of squash (1995 findings as of Mithen)"]
 excavation_years: "1966 (Flannery); later botanical restudies"
 key_finds: ["earliest New World domesticates as of Mithen 2003", "domestic-size squash seeds/stems and thick rinds (Smith: cultivation by 8000 BCE)", "maize cobs dated 4200 BCE", "small-family autumn occupation debris", "wild-to-domestic plant transition within one cave sequence"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, mesoamerica, plant-domestication, archaic]
 ---
 
@@ -71,3 +71,25 @@ sites like this one.
 
 Cross-links: [[concepts/maize-domestication]], [[sites/tehuacan-valley]],
 [[sources/coe-koontz-mexico-2013]].
+
+## Flannery & Marcus (1983)
+
+In [[flannery-marcus-cloud-people-1983|The Cloud People]] (1983), the cave anchors the preceramic
+half of the [[divergent-evolution]] argument for Oaxaca: its Naquitz-phase foraging occupations and
+early cucurbit/bean domesticates represent the shared proto-Otomanguean ([[otomanguean-languages]])
+foundation from which the [[zapotec-civilization|Zapotec]] and [[mixtec-culture|Mixtec]] sequences
+later diverged. The volume also reports a much later Monte Albán IV foodstuff deposit from the cave,
+analyzed by Flannery and C. Earle Smith. All absolute dates in the 1983 volume are uncalibrated
+radiocarbon; the direct-AMS revisions cited above postdate it.
+
+## Zapotec Civilization (Marcus & Flannery 1996) — Archaic densification
+
+*(Attributed — [[marcus-joyce|Marcus]] & [[flannery-kent-v|Flannery]], *[[marcus-flannery-zapotec-civilization-1996|Zapotec Civilization]]* 1996, Chs. 4–5; study [[marcus-flannery-zapotec-civilization-study]].)*
+
+**Setting and Level D microband.** Guilá Naquitz is a small dry cave at **1926 m** in the mountains **west of [[mitla|Mitla]]**. Marcus & Flannery reconstruct Level D Early Archaic occupation as a **microband** (family ~4–6 people) with oak-leaf bedding, a storage pit, a central hearth, and spatially divided men’s/women’s work areas (women’s plant-processing near the hearth; men’s area with deer/cottontail/turtle bone and a biface blank along the south wall). Seasonal round: mesquite/hackberry in the rainy season; autumn piedmont acorns, piñón, susí, guaje, wild onion, deer/peccary/cottontail; winter agave earth ovens (~50 quids on Level D). They report **>3000 uneaten acorns** left in Level D and departure by February (no *Myrtillocactus* fruits). Plant inventory also includes prickly pear, West Indian cherry, and a net-bag fragment plus agave-inflorescence fire “hearth.”
+
+**Early cultivates and wild-plant shift.** Desiccated *Lagenaria* rinds suggest bottle gourd was present by the Guilá Naquitz occupation; two squash taxa (possible early *Cucurbita pepo* relative *gibt*; *Apodanthera* coyote melon / *gibt lahn*); **>100** small black runner-bean seeds possibly artificially densified by planting near the cave (species left no domestic descendants). As squash/beans/mesquite use rose, acorns, piñón, susí, and hackberry declined — read as more time spent on valley-floor alluvium. **Pollen grains resembling teosinte** are reported in Archaic refuse at Guilá Naquitz, Gheo-Shih, and Cueva Blanca (no Archaic carbonized teosinte seeds reported for Oaxaca).
+
+**Nutrition and simulation.** Citing Robson & Elias, Marcus & Flannery hold that occupants probably obtained ~**2000 kcal and 40 g protein/day** while living at the cave. **Robert Reynolds’s 1986 simulation** of an imaginary microband seeking that diet with minimal effort produced a plant rank-order very like Level D; decisions favored denser distant stands, calorie-over-protein priority, and conservative drought vs experimental wet-year strategies — improvements often invented in wet years then generalized. Authors treat this as non-determinist **[[action-theory-archaeology|actor]]** success within a foraging system, not environmental force alone.
+
+Cross-links: [[maize-domestication]] · [[broad-spectrum-revolution]] · [[mitla]] · [[action-theory-archaeology]].

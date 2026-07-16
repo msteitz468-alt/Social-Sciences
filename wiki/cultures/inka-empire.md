@@ -16,11 +16,13 @@ succeeded_by: ["Spanish colonial Viceroyalty of Peru"]
 language_affiliation: "Quechua (ethnohistoric imperial language); multiethnic empire — do not equate material Inka with one language or people"
 genetic_signature: "[[unknown]] — not equated with imperial construct"
 sources_ingested: 2
-last_updated: 2026-07-10
+last_updated: 2026-07-15
 tags: [culture, medieval, andes]
 ---
 
 # Inka Empire
+
+> **Canonical page:** densify and link [[inca-empire]] (same polity; primary synthesis from Moseley 2001 + D'Altroy 2002). This page retains Wenke & Olszewski textbook framing for provenance; do not fork new claims here.
 
 ## Definition and Construct History
 

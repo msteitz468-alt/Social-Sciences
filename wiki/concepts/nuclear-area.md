@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "A region in which natural environment (domesticable biota) plus cultural 'receptiveness' allow a primary, non-derivative transition to food production; western Asia's hilly flanks as the nuclear Near East for the western tradition"
 contested: yes
 related_concepts: ["[[hilly-flanks]]", "[[incipient-cultivation]]", "[[neolithic-revolution]]", "[[culture-area]]", "[[domestication]]"]
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 5
+last_updated: "2026-07-15"
 tags: [concept, archaeology]
 ---
 
@@ -65,6 +65,24 @@ distinction into a proposed universal problem in cultural classification (citing
 in Prehistory" and Steward). Chang's monocentric application was later superseded by multi-regional
 models (see [[chinese-civilization-origins-debate]]) — the concept survives, its single-hearth
 application for China does not. Source: [[chang-archaeology-ancient-china-1963]].
+
+## Sanders, Parsons & Santley — the Basin Project's "Nuclear Area" as survey scope (1979, attributed)
+
+Distinct again from both Braidwood's food-production hearth and Sanders & Price's
+1968 "Nuclear America," the Basin of Mexico settlement-pattern project used "Nuclear
+Area" as a working label (attributed to Sanders) for the ring of regions immediately
+surrounding the Basin that the wider research program extended surveys into once the
+Basin survey itself was complete: per
+[[sanders-parsons-santley-basin-of-mexico-1979]] (*The Basin of Mexico*, 1979), these
+included a ~1,000 km² survey around Tula (Mastache and Crespo 1974, adjoining
+Parsons's Zumpango region), surveys of Tlaxcala and western Puebla directed by Garcia
+Cook, and a ~500 km² survey around Chalcatzingo, Morelos, directed by Hirth. This
+usage of "Nuclear Area" functions operationally as a project boundary term — the
+region judged close enough to the Basin core to be surveyed as part of the same
+research design — rather than as a claim about where food production or civilization
+itself originated; it overlaps geographically with, but is not synonymous with, the
+Central Mexican [[symbiotic-region]] that Sanders (1956) had earlier defined as the
+Basin's "nuclear region" for civilizational emergence in the stronger sense.
 
 ## Liu & Chen (2012) — the erosion of the Central-Plain "nucleus" paradigm
 

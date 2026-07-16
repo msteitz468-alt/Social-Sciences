@@ -4,9 +4,9 @@ dispute_type: ethical
 disciplines: [archaeology]
 era: [classical-era, fieldwork-revolution, postwar-expansion, contemporary]
 positions: ["Legitimate integration: archaeology properly serves social solidarity — national, and potentially a 'world community' (Clark 1957)", "Weaponization: archaeology is structurally vulnerable to racial-nationalist capture, exemplified by Kossinna and Nazi-era German prehistory", "Constitutive critique: nation-building was baked into the discipline's origins (antiquarian societies, national museums), so 'use' and 'abuse' are not cleanly separable"]
-key_texts: ["[[clark-archaeology-and-society-1957|Clark, Archaeology and Society (1957), chs. VII–VIII]]", "G. Kossinna, Die deutsche Vorgeschichte, eine hervorragend nationale Wissenschaft (1912)", "G. Kossinna, Ursprung und Verbreitung der Germanen (1926)"]
+key_texts: ["[[clark-archaeology-and-society-1957|Clark, Archaeology and Society (1957), chs. VII–VIII]]", "G. Kossinna, Die deutsche Vorgeschichte, eine hervorragend nationale Wissenschaft (1912)", "G. Kossinna, Ursprung und Verbreitung der Germanen (1926)", "[[cuno-who-owns-antiquity-2008]]"]
 resolution_status: open
-last_updated: 2026-07-10
+last_updated: 2026-07-15
 tags: [debate, archaeology]
 ---
 
@@ -63,6 +63,12 @@ context, not as new body content for Position 2 above.
 
 This page is opened from a single ingested source (Clark 1957), which is unusually candid in stating both a liberal-universalist defense of archaeology's social role and the Kossinna/Nazi abuse. Clark's own framing carries mid-century assumptions — a confident narrative of "human progress," a colonial-era description of archaeological services in dependent territories as an imperial "manifest duty," and continued use of "savage/barbarian" vocabulary — which are themselves part of the reflexive record (see [[clark-grahame]] and [[archaeology]] Reflexivity). The positions above should be widened as sources on nationalist archaeology beyond the German case (e.g. Kohl & Fawcett; Trigger on nationalist archaeology) are ingested.
 
+## Cuno 2008 — retentionism, encyclopedic museums, and identity politics (position)
+
+*(Attributed — [[cuno-james|James Cuno]], *[[cuno-who-owns-antiquity-2008|Who Owns Antiquity?]]* 2008/2011. Advocacy; complements Clark's social-integration thesis and Renfrew & Bahn's textbook survey without adjudicating them.)*
+
+Cuno argues that **nationalist retentionist cultural property laws** use archaeology and antiquities to manufacture modern national identity from pre-national pasts (case chapters on **Turkey** and **China**; Ba'thist Iraq as reported). He treats the museums-vs-archaeologists fight over [[unprovenanced-antiquities]] as a **surrogate** for museums-vs-nation-states ownership politics, and promotes [[encyclopedic-museum|encyclopedic museums]] as cosmopolitan counters to national museums' identity narratives. Hybridity/"mongrel" culture (via Maalouf, Appiah, Said as he reads them) is his preferred ontology against purity claims. Full ethical/policy dispute with Renfrew-side demand ethics: [[antiquities-market-looting-debate]].
+
 ## Renfrew & Bahn textbook densification (2012, Ch. 14 — Whose Past?)
 
 *(Attributed — Renfrew & Bahn, [[renfrew-bahn-archaeology-2012|Archaeology]], 6th ed. 2012, Ch. 14. Pedagogical survey of public meaning, nationalist symbols, destruction, and ownership; position recording, not adjudication. Complements Clark 1957 and Johnson’s Ayodhya note above.)*
@@ -85,3 +91,43 @@ Until recent decades western archaeologists assumed rights to acquire and excava
 ### Textbook summary position
 
 The past legitimizes national and ethnic identity, sometimes destructively; every archaeological decision should weigh ethics; fringe theories are best answered by skeptical evidential questions; looting for salable artifacts is a major destruction pathway with museums and collectors bearing responsibility; earlier colonial disregard for native feelings is acknowledged without abandoning scientific interest in the past. Related concept page: [[nationalism-and-archaeology]].
+
+## The China case — human origins, the "historical method," and the jade dragon
+
+*(Attributed — [[shelach-lavi-gideon|Gideon Shelach-Lavi]],
+[[shelach-lavi-archaeology-early-china-2015|The Archaeology of Early China]], 2015. Position
+recording, not adjudication; complements the Cuno 2008 China-retentionism material and the Mao-era
+cases above.)*
+
+Shelach-Lavi documents three distinct ways nationalist sentiment shaped Chinese archaeology, each
+recorded here in attributed voice:
+
+- **Human-origins continuity.** Many Chinese palaeoanthropologists (notably Wu Xinzhi and Wu Maolin,
+  1985) defend regional continuity from Chinese *Homo erectus* (e.g. Zhoukoudian) to modern East
+  Asian populations, citing shared traits such as shovel-shaped incisors — a
+  [[multiregional-evolution|multiregional]] reading against the [[recent-african-origin|recent
+  African origin]] consensus (see [[modern-human-origins-debate]]). Shelach-Lavi records that Western
+  scholars (Sautman 2001) widely characterize this "continuity model" as reflecting a **nationalist
+  bias** — an autochthonous "Chineseness of early humans" — and notes that some Chinese statements
+  (Hou & Zhao 2010) go further, treating "Out of Africa" itself with skepticism. He also flags that
+  pushing back the date of [[yangshao-culture|Yangshao]] to disprove Andersson's earlier
+  Western-origin ("ex oriente lux") reading was itself treated as a matter of national pride in the
+  1960s–70s (Fiskesjö & Chen 2004).
+- **The "historical method."** Shelach-Lavi's central methodological objection is to the routine
+  labelling of archaeological cultures with the names of peoples known only from much-later texts —
+  equating Gansu–Qinghai cultures with the Qiang, Sichuan cultures with the Ba and Shu, Lingnan
+  cultures with the Yue. He argues these equations are anachronistic and analytically empty, at best
+  attaching a "historic" name to a material assemblage and at worst importing later biases about
+  peripheral peoples — a direct instance of the **four-way non-identity** problem shared with the
+  [[pots-and-peoples-debate]].
+- **Reflexive example — the "jade dragon."** In his personal conclusion Shelach-Lavi uses the
+  modern career of a [[hongshan-culture|Hongshan]]-culture C-shaped jade "dragon" (yu long): adopted
+  since the 1990s first as a regional commercial trademark and later as a national identity symbol
+  (displayed at Beijing's airport). He reads its appeal as its **safe dual character** — distinctive
+  enough to support northeastern regional-primacy claims, yet assimilable to the pan-Chinese
+  "dragon" so as not to evoke separatism — illustrating his thesis that local and national identity
+  in China were formed together rather than in opposition.
+
+## Smith 2006 — AHD as nationalizing discourse (position)
+
+*([[smith-laurajane]], *[[smith-uses-of-heritage-2006]] — program position, not adjudication.)* Smith’s [[authorized-heritage-discourse]] frames professional heritage as historically tied to nation and elite class experience; charters and World Heritage universality can mask national and Western elite values. Empirical illustrations: English country house as national identity performance; Australian landscape nationalism at Riversleigh; Indigenous critiques that control of heritage legitimizes or delegitimizes political claims. Sits adjacent to Cuno’s anti-retentionist internationalism and Renfrew’s anti-looting ethics without collapsing into either — file as critical-heritage position on how authorized discourse nationalizes.

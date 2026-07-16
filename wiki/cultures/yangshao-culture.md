@@ -15,8 +15,8 @@ preceded_by: ["North China Mesolithic microblade tradition (as argued by Chang 1
 succeeded_by: ["[[lungshan-culture|Lungshanoid / Lungshan Neolithic]]"]
 language_affiliation: "[[unknown]] — Bellwood (2005) POSITIONS Yangshao on a Han Chinese cultural/linguistic ancestral trajectory; not proven identity of pots with Sino-Tibetan or any language"
 genetic_signature: "[[unknown]] in Chang 1963; Bellwood 2005 cites early Neolithic Chinese cranial Mongoloidization debate (Jiahu, Dawenkou, Jiangzhai vs Upper Cave) — separate from material construct; densify aDNA later"
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 5
+last_updated: "2026-07-15"
 tags: [culture, neolithic, china, east-asia]
 ---
 
@@ -223,6 +223,21 @@ personal-wealth markers. Liu & Chen's broader comparison: Dawenkou mortuary ritu
 individually and economically elaborate over this period, whereas most Yangshao communities
 practiced comparatively moderate, group-oriented burial — a contrast the wiki records via
 `contrasts_with: [[dawenkou-culture]]`.
+
+**Shelach-Lavi (2015) addendum.** Isotopic analysis of human bone from Jiangzhai, Shijia,
+and Dadiwan level 2 shows millet contributing up to 80 percent of diet by the Yangshao
+period (as of Shelach-Lavi 2015) — a marked increase over the lower millet-reliance
+signals reported for the earlier [[xinglongwa-culture]] and Dadiwan's earliest phase.
+Shelach-Lavi ([[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]) also notes
+Xishan (late Yangshao, Henan, 25 ha) was enclosed by a circular ditch and a pounded-earth
+wall originally 3–5 m wide and 2.5 m high, roughly 200 m in diameter, with two gated
+entries — a fuller description of the fortification already linked above to intergroup
+conflict (Liu 2004). He additionally offers two non-adjudicated readings of increased
+manual-labor skeletal indicators from late Yangshao through Longshan times (2800–1900
+BCE): they may reflect either agricultural intensification or increased elite-driven
+labor extraction under growing stratification — recorded here as an open, attributed
+question rather than a resolved finding, alongside the Xipo/Xishan stratification
+material above.
 
 Four-way non-identity: none of the above equates Yangshao material culture with a language,
 genetic population, or self-conscious people; the matrilineal/hierarchical-nesting dispute

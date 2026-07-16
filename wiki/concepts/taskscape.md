@@ -33,6 +33,8 @@ Ingold sets taskscape against both naturalistic landscape-as-neutral-backdrop an
 
 Bridging archaeology and sociocultural anthropology (Ingold's stated aim); environmental and landscape studies; craft/work ethnography; critique of cultural ecology as merely stacking symbolic layers over pragmatic adaptation (Part II roadmap).
 
+Within historical archaeology, Lu Ann De Cunzo (2004) applied the concept to farming landscapes and "cultures of agriculture" in Delaware, arguing that farming people create taskscapes through rhythmic action and interaction that shapes community formation ([[hicks-beaudry-companion-historical-archaeology-2006|Hicks & Beaudry 2006]]). Paul Mullins (2000: 767) and Ann Stahl (2002: 829) criticized phenomenological/taskscape-influenced landscape approaches — Mullins for risking neoliberal individualism ("elevat[ing] the 'individual' ... to a position that is, at best, loosely related to power relations"), Stahl for remaining rooted in Cartesian mind-body dualism (as cited in [[hicks-beaudry-companion-historical-archaeology-2006|Hicks & Beaudry 2006]]).
+
 ## Critiques and Limitations
 
 Risk of aestheticizing work and under-specifying property, conflict, and domination within "interlocking tasks." Not a standardized measurement construct. Clock-time and commodity perspectives remain real overlays even if task orientation is argued as primary (Ch. 17).

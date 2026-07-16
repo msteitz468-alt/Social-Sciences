@@ -8,8 +8,8 @@ emic_or_etic: "etic"
 operationalized_as: "Society deriving subsistence from wild foods (hunting, gathering, fishing) without agriculture or herding; in the Ethnographic Atlas, coded by % dependence on gathering / hunting / fishing"
 contested: "yes"
 related_concepts: ["[[original-affluent-society]]", "[[band-tribe-chiefdom-model]]", "[[composite-hunting-band]]", "[[egalitarian-society]]", "[[carrying-capacity]]", "[[sexual-division-of-labor]]", "[[cooking-hypothesis]]", "[[obligate-cooked-diet]]"]
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 6
+last_updated: "2026-07-15"
 tags: ["concept"]
 ---
 
@@ -102,3 +102,32 @@ region, and evidence class specified.
 - **Method of inference.** Dual tools *(attributed, Ch.15)*: **uniformitarian** reconstruction (same ecological processes; measurable energy, space, resources, vital statistics) plus **Marxist mode-of-production** analysis for consciousness, gender, and social relations — mechanical animal-ecology models insufficient. Specific ethnographic numbers must not be pasted onto specific archaeological sites; extract underlying principles across variability.
 - **Social relations of foraging.** Environment as "storehouse"; no amassed surplus; generalized reciprocity / sharing as ethical core of the mode; low capital, portability, collective land rights (*n!ore* / *k”ausi*); work as intervening variable between population and food (scarcity met by working harder, not only by dying). Large dry-season aggregations raise work *and* conflict — social motives override pure least-effort.
 - **Transition.** Lee revises early "full-time pristine forager" impressions with mafisa cattle work, farming attempts, wage labor, and 1970s state/military incorporation, while arguing early Dobe contact was with adjacent precapitalist neighbors and that cash/sedentarization (not wild-resource collapse) can produce the heavier seasonal stress Wilmsen reported. *[[wilmsen-land-filled-with-flies-1989|Wilmsen 1989]]* (primary) counters that San "foraging" is underclass livelihood within deep regional integration — see [[kalahari-debate]], [[wilmsen-land-filled-with-flies-study]]. Links: [[foraging-mode-of-production]], [[juhoansi]].
+
+## African archaeology densification (*Oxford Handbook*, 2013)
+
+*(Attributed — chapters in *[[mitchell-lane-oxford-handbook-african-archaeology-2013|Mitchell & Lane 2013]]*; as of ~2012.)*
+
+- **Human hunter-gatherer package (Wadley, Ch. 25):** Distinctively *human* hunter-gathering = plant/small-animal harvest into containers plus hunting with out-of-body, deliberately fashioned weapons — not mere animal predation. Early out-of-body weapons imply theoretical frameworks for African hunter-gatherers need not separate MSA from LSA (~300 ka–100 years ago), despite the MSA “modern behaviour” grand moment.
+- **Tyranny of ethnography:** Wobst’s (1978) “tyranny of the ethnographic record” — ethnographic analogy can unintentionally imply living hunter-gatherers are “human fossils.” Especially acute for [[juhoansi|Kalahari]] cases used as MSA/LSA analogues (Wadley).
+- **Forager–farmer polarization:** Ethnographic analogy contributed to assumptions that foragers and farmers were polarized; archaeology demonstrates variety of farmer/pastoralist and hunter-gatherer interactions (Wadley) — see [[kalahari-debate]].
+- **MSA behavioural repertoire (Lombard, Ch. 26):** Material innovations form a mosaic; modern hunter-gatherer behavioural repertoire evolved during the southern African MSA — toppling Europe-first or post-50–40 kya models of complex cognition (as of Lombard’s handbook synthesis).
+- **Early Holocene Sahara (Barich, Ch. 31):** Earliest African ceramics (9th–10th millennia BP) made by wild-resource foragers — pottery ≠ “Neolithic”; delayed-return storage and semi-sedentism as possible preadaptations for food production without equating foragers with farmers.
+- **Southern African Holocene (Mitchell):** Stable-isotope results challenge classic coast–interior seasonal mobility models; megamiddens and interpersonal violence ~3000–2100 BP unlike recent Kalahari ethnography; do not project !Kung ethnography unchanged across biomes and millennia.
+- **Persistence of foraging:** Multi-center domestication, disease lag for livestock south of the equator, and Kopytoff-style “internal frontiers” help explain why foragers persisted alongside food producers (Kusimba synthesis chapters).
+
+Cross-links: [[behavioral-modernity]], [[khoe-san]], [[cattle-before-crops]], [[ethnoarchaeology]], [[rock-art]].
+
+## Mesolithic Atlantic-Europe density estimate (Cunliffe 2001)
+
+*(Attributed — [[cunliffe-facing-the-ocean-2001|Cunliffe, Facing the Ocean]], 2001.)*
+Cunliffe notes population size for Mesolithic Europe cannot be precisely estimated
+given data limitations, but suggests, by comparison with recent forager population
+densities elsewhere, that a range of "between one person for every 2 square kilometres
+and one for every 200 square kilometres" is "not unreasonable" for Atlantic-facing
+Mesolithic communities — an order-of-magnitude estimate, not a measured figure. He
+further argues (explicitly hedged, "not impossible") that the Atlantic littoral's
+provision of iodine via seafish, molluscs, and seaweed — iodine being essential to
+fertility — may partly explain sustained Mesolithic population growth specifically in
+coastal regions, a speculative nutritional mechanism distinct from his broader
+argument (see [[coastal-adaptation]]) that the ecological richness of estuarine and
+inter-tidal habitats reduced subsistence risk and supported increasing sedentism.

@@ -1,3 +1,42 @@
+### Cunliffe — *Facing the Ocean* (2001) ✅ 2026-07-15
+- **Source:** [[cunliffe-facing-the-ocean-2001]] (pdftotext ~221k words; **10-agent** chapter-aligned + Ch.9-tail main-thread recovery; **~363 claims**). **9 created (incl. hub) + ~30 updated.** Braudelian synthesis of the Atlantic façade, 8000 BCE–1500 CE.
+- **New:** [[atlantic-facade]] · [[atlantic-bronze-age]] · [[castro-culture]] · [[tartessos]] · [[phoenician-expansion]] · [[medieval-atlantic-trade]] · [[braudel-fernand]] · Thinkers Hub [[hubs/thinkers/cunliffe-barry|cunliffe-barry]]
+- **Densified:** [[celticity-debate]] (2001 "Atlantic Celtic" origin) · [[celtic-languages]] · [[megalith]] · [[passage-grave]] · [[mesolithic]] · [[coastal-adaptation]] · [[bell-beaker-culture]] · [[prestige-goods-economy]] · [[hallstatt-culture]] · [[roman-britain]] · [[viking-age-britain]] · [[longue-duree]] · [[annales-school]] · [[world-systems-analysis]] · [[core-periphery]] · [[cunliffe-barry]]
+- **Load-bearing (all attributed):** oceanic mentality / "the sea joined and the land divided"; three-cycle Atlantic model; two core zones (Gibraltar, Channel); Roman Atlantic negligible; pre-aDNA indigenism date-stamped
+
+### Mallory — *In Search of the Indo-Europeans* (1989/1991 pb) ✅ 2026-07-15
+- **Source:** [[mallory-in-search-of-the-indo-europeans-1989]] (pdftotext ~132.5k words; **7-agent** + Ch.9 main-thread; **462 claims**). **3 created + 12 updated.** Landmark English survey of steppe/Pontic-Caspian IE origins.
+- **New:** [[mallory-j-p]] · [[tripartition]]
+- **Densified:** [[steppe-hypothesis-debate]] (Position A Mallory 1989 primary layer) · [[kurgan-hypothesis]] · [[anatolian-hypothesis]] · [[indo-european-languages]] · [[yamnaya-culture]] · [[linguistic-palaeontology]] · [[anthony-david-w]] · [[renfrew-colin]] · [[dumezil-georges]]
+- **Load-bearing (all attributed):** IE as linguistic concept; multi-criterion homeland; Renfrew verdict “wrong place at the wrong time”; Yamnaya cultural-historical area; Aryan-myth misappropriation thesis
+- **Filed:** `raw/archaeology/mallory-in-search-of-the-indo-europeans-1989.{pdf,txt}`
+
+### Matthews — *The Archaeology of Mesopotamia: Theories and Approaches* (2003) ✅ 2026-07-15
+- **Source:** [[matthews-archaeology-mesopotamia-2003]] (pdftotext ~94.7k words; **5-agent** extraction, inventory **5/5**; **3 Edit-only** Stage-2 integration agents). **6 created + 22 updated.** Reflexive critical guide to Mesopotamian archaeology as a discipline.
+- **New:** [[mesopotamian-archaeology]] · [[matthews-roger]] · [[survey-archaeology]] · [[empire]] · [[archaeology-assyriology-text-object-debate]]
+- **Updated:** [[uruk-world-system-debate]] · [[uruk-expansion]] · [[ubaid-culture]] · [[uruk-culture]] · [[state-formation]] · [[stratigraphic-excavation]] · [[seriation]] · [[household-archaeology]] · [[domestication]] · [[neolithic]] · [[chiefdom]] · [[nineveh]] · [[nimrud]] · [[tell-brak]] · [[eridu]] · [[catalhoyuk]] · [[abu-hureyra]] · [[gobekli-tepe]] · [[adams-robert-mcc]] · [[stein-gil]] · [[archaeology]]
+
+### Stein — *Rethinking World-Systems* (1999) ✅ 2026-07-15
+- **Source:** [[stein-rethinking-world-systems-1999]] (pdftotext ~73.9k words; **3-agent** extraction, inventory **3/3**). **6 created + 7 updated.** Distance-parity critique of Algaze's Uruk world-system, from Hacınebi.
+- **New:** [[stein-gil]] · [[hacinebi]] · [[stein-hacinebi-study]] · [[trade-diaspora]] · [[distance-parity]]
+- **Updated:** [[uruk-world-system-debate]] · [[uruk-expansion]] · [[world-systems-analysis]] · [[habuba-kabira]] · [[algaze-guillermo]] · [[uruk-culture]]
+
+### Assmann — *The Mind of Egypt* (1996; Eng. 2002) ✅ 2026-07-15
+- **Source:** [[assmann-mind-of-egypt-1996]] (IA scan pdftotext ~180k words; **8-agent** extraction, inventory **8/8** ~330 claims). **8 created + 11 updated.** No studies/hub (theoretical synthesis).
+- **Thinker (new):** [[assmann-jan]]
+- **Concepts (new):** [[cultural-memory]] · [[connective-justice]] · [[cosmotheism]] · [[neheh-and-djet]] · [[theology-of-will]]
+- **Debate (new):** [[amarna-memory-debate]]
+- **Densified:** [[maat]] (major) · [[amarna]] · [[thebes-egypt]] · [[memphis]] · [[giza]] · [[kingship]] · [[state-formation]] · [[hydraulic-hypothesis-debate]] · [[origins-of-writing]] · [[collective-memory]] · [[social-memory]]
+- **Load-bearing (all attributed):** Sinngeschichte / trace-message-memory method; cultural vs. communicative memory; ma'at as connective justice and its displacement by the theology of will; Akhenaten as first counterreligion + trauma theory; theocracy typology (Herihor); Ramesside classicism / normative past; anti-hydraulic Egypt
+- **Filed:** `raw/archaeology/assmann-mind-of-egypt-1996.{pdf,txt}`
+
+### Lehner — *The Complete Pyramids* (1997) ✅ 2026-07-15
+- Source: [[lehner-complete-pyramids-1997]] · Thinker: [[lehner-mark]]
+- Sites: [[giza]] (densified) · [[heit-el-ghurab]] · [[saqqara]] · [[dahshur]] · [[meidum]] · [[abu-roash]] · [[abusir]] · [[lisht]] · [[abydos]] · [[hierakonpolis]]
+- Concepts: [[pyramid-complex]] · [[mastaba]] · [[pyramid-texts]]
+- Also densified: [[kahun]] · [[memphis]] · [[bureaucracy]] · [[the-state]] · [[temple-economy]] · [[state-formation]] · [[urbanization]] · [[divine-king]] · [[petrie-flinders]] · [[kemp-barry-j]]
+
+
 ### Descola — *In the Society of Nature* (1994; Fr. *La Nature domestique* 1986) ✅ 2026-07-15
 - Source: [[descola-in-the-society-of-nature-1994]] (CUP 1994; pdftotext ~162k words / 400 pp; **7-agent** extraction, inventory **7/7** ~486 claims). **4 created + 10 updated.** Studies Hub in-session.
 - Study: [[descola-society-of-nature-study]] · Hub: [[hubs/studies/descola-society-of-nature-study]]
@@ -143,6 +182,18 @@
 - Load-bearing (attributed): partial-overlap Celticity (language ≠ La Tène ≠ classical ethnonym); Hallstatt princely centres / Mediterranean prestige; migrations 400–200 BCE (Po Valley, Rome, Delphi, Galatia); Celtiberian Celticity without La Tène; oppida + Roman demand after c.200 BCE; Druids as classical category with weak archaeological signature
 - No studies/ hub (secondary synthesis; pre-aDNA). Filed: `raw/archaeology/` (epub + txt)
 
+
+### Cunliffe — *Britain Begins* (2013) ✅ 2026-07-15
+- Source: [[cunliffe-britain-begins-2013]]
+- Thinker: [[cunliffe-barry]] (densified)
+- Debate: [[britain-invasion-continuity-debate]]
+- Sites: [[doggerland]], [[star-carr]], [[stonehenge]], [[avebury]], [[skara-brae]], [[newgrange]], [[danebury]]
+- Concepts: [[hillfort]], [[neolithic]], [[mesolithic]], [[megalith]], [[prestige-goods-economy]], [[oppida]], [[druids]]
+- Cultures: [[bell-beaker-culture]], [[wessex-culture]], [[celtic-languages]], [[celts]]
+- Societies / phenomena: [[roman-britain]], [[picts]], [[anglo-saxon-migration]], [[viking-age-britain]]
+- Related debate densified: [[celticity-debate]]
+
+
 ### Cline — *1177 B.C.: The Year Civilization Collapsed* (2014) ✅ 2026-07-10
 - Source: [[cline-1177-bc-2014]] (Princeton UP 2014; Turning Points; `source_type: mixed`; ebook-convert ~97k words / body ~69k; **3-agent** extraction, inventory **3/3** ~275 claims). **18 created + 2 updated.**
 - Thinkers (new): [[cline-eric-h]] · [[sherratt-susan]]
@@ -182,7 +233,7 @@
 - Method (new): [[bit-wear-analysis]]
 - Cultures (new): [[sredni-stog-culture]] · [[khvalynsk-culture]] · [[botai-culture]] · [[afanasievo-culture]] · [[sintashta-culture]] · [[maikop-culture]] · [[cucuteni-trypillia-culture]] · [[andronovo-culture]] · [[catacomb-culture]]
 - Site (new): [[dereivka]]
-- Densified: [[yamnaya-culture]] · [[steppe-hypothesis-debate]] (Position A primary) · [[indo-european-languages]] · [[anatolian-hypothesis]] · [[gimbutas-marija]] · [[renfrew-colin]] · [[corded-ware-culture]] · [[bell-beaker-culture]] · [[secondary-products-revolution]] · [[radiocarbon-dating]] · [[pastoralism]] · [[historical-linguistics]] · [[demic-diffusion]]
+- Densified: [[yamnaya-culture]] · [[steppe-hypothesis-debate]] (Position A primary) · [[indo-european-languages]] · [[anatolian-hypothesis]] · [[gimbutas-marija]] · [[donald-merlin|Merlin Donald]] · [[renfrew-colin]] · [[corded-ware-culture]] · [[bell-beaker-culture]] · [[secondary-products-revolution]] · [[radiocarbon-dating]] · [[pastoralism]] · [[historical-linguistics]] · [[demic-diffusion]]
 - Load-bearing: wool/wheel *termini post quem* (~4000–3500 BCE); Pontic-Caspian homeland ~4500–2500 BCE; Yamnaya wagon+riding horizon 3300–2500; elite recruitment / franchising (not pure conquest); bit-wear + Dereivka cult-stallion retraction; Sintashta chariots ~2100–1800; four-way non-identity
 - No studies/ hub (synthesis; pre-aDNA demography layered from Reich 2018). Filed: `raw/archaeology/` (epub + txt)
 
@@ -252,6 +303,7 @@
 
 ### Adams — *The Evolution of Urban Society* (1966) ✅ 2026-07-10
 - Source: [[adams-evolution-urban-society-1966]] · [[adams-heartland-of-cities-1981]] (Lewis Henry Morgan Lectures 1965; Aldine 1966; `source_type: mixed` comparative multilinear synthesis; pdftotext ~62k words / 212 pp / body ~50k; **5-agent** extraction, inventory **5/5** ~408 claims). **4 created + 16 updated.**
+- Source: [[adams-land-behind-baghdad-1965]] (1965; Diyala survey, method charter; **3 created + 11 updated**; study [[adams-land-behind-baghdad-study]]; site [[nahrawan-canal]])
 - Thinker (new): [[adams-robert-mcc]] · [[wright-henry-t]] · [[jacobsen-thorkild]]
 - Study (new): [[adams-evolution-urban-society-study]] · [[adams-heartland-of-cities-study]] (`study_type: comparative`; no Studies Hub — secondary synthesis lectures, not primary survey design)
 - Concept (new): [[theocratic-to-militaristic-sequence]]
@@ -307,8 +359,11 @@
 - Filed: `raw/archaeology/`
 
 ### Stringer — *Lone Survivors* (2012) ✅ 2026-07-10
-- Source: [[stringer-lone-survivors-2012]] (Times Books / Henry Holt 2012; `source_type: mixed`; ebook-convert ~115k words / body ~98k lines 143–1438; **5-agent** extraction, inventory **5/5** ~420 claims). **6 created + 28 updated.**
-- Thinker densified: [[stringer-chris]] + **Thinkers Hub** [[hubs/thinkers/stringer-chris]]
+- Source: [[stringer-lone-survivors-2012]]
+- Source (UK twin of Lone Survivors): [[stringer-origin-of-our-species-2011]]
+- [[tattersall-masters-of-the-planet-2012|Tattersall — Masters of the Planet (2012)]] (Times Books / Henry Holt 2012; `source_type: mixed`; ebook-convert ~115k words / body ~98k lines 143–1438; **5-agent** extraction, inventory **5/5** ~420 claims). **6 created + 28 updated.**
+- Thinker densified: [[stringer-chris]]
+- [[tattersall-ian|Ian Tattersall]] + **Thinkers Hub** [[hubs/thinkers/stringer-chris]]
 - Theories (new): [[assimilation-model]] · densified [[recent-african-origin]] · [[multiregional-evolution]]
 - Culture (new): [[homo-floresiensis]] · densified [[neanderthals]] · [[denisovans]] · [[homo-erectus]] · [[homo-heidelbergensis]]
 - Sites (new): [[herto]] · [[jebel-irhoud]] · densified [[blombos-cave]] · [[boxgrove]] · [[klasies-river]] · [[omo-river]] · [[skhul]] · [[qafzeh]]
@@ -355,7 +410,7 @@
 ### Leakey & Lewin — *Origins* (1977) ✅ 2026-07-10
 - Source: [[leakey-lewin-origins-1977]] (illustrated popular human-origins synthesis + cooperation-not-aggression argument; `source_type: mixed`; ~94k words / 272 pp; 5-agent extraction, 4-agent page-owned integration). Opens the **paleoanthropology fossil stream** in [[biological-anthropology]].
 - Sites (new): [[koobi-fora]] · [[olduvai-gorge]] · [[hadar]] · [[omo-river]]
-- Hominin species (new): [[australopithecus]] · [[homo-habilis]] · [[homo-erectus]] · [[ramapithecus]] (construct obsolete — superseded)
+- Hominin species (new): [[sahelanthropus]] · [[orrorin]] · [[ardipithecus]] · [[australopithecus]] · [[paranthropus]] · [[homo-ergaster]] · [[homo-habilis]] · [[homo-erectus]] · [[ramapithecus]] (construct obsolete — superseded)
 - Thinkers (new): [[leakey-richard]] · [[leakey-louis]] · [[leakey-mary]] · [[lewin-roger]] · [[johanson-donald]] · [[dart-raymond]] · [[ardrey-robert]] · [[lorenz-konrad]]
 - Concepts (new): [[food-sharing]] · [[bipedalism]] · Theory (new): [[food-sharing-hypothesis]] · Debate (new): [[human-aggression-killer-ape-debate]]
 - Densified: [[biological-anthropology]] · [[darwin-charles]] · [[washburn-sherwood]] · [[isaac-glynn]] · [[hunting-hypothesis]] · [[hunter-gatherer]] · [[agricultural-revolution]] · [[man-the-hunter-woman-the-gatherer-debate]]
@@ -1117,6 +1172,15 @@ Landmark ethnography of Awlad ʿAli honor/modesty and *ghinnāwa* dual discourse
 
 Founding volume of hunter-gatherer studies (1966 Wenner-Gren symposium). Two arguments under one title: the gathering-based revision of forager economics (the original affluent society) and the androcentric "Man the Hunter" evolutionary thesis; plus the fluid-band findings that broke the patrilocal band model and archaeology's reckoning with ethnographic analogy. 8-agent line-range extraction over the eight parts.
 
+
+### Schiffer — *Behavioral Archaeology: First Principles* (1995) ✅ 2026-07-15
+- Source: [[schiffer-behavioral-archaeology-first-principles-1995]]
+- Theory: densified [[behavioral-archaeology]] · Theory Hub [[hubs/theory/behavioral-archaeology]]
+- Concepts: new [[behavioral-chain]] · densified [[systemic-context]] · [[archaeological-context]] · [[formation-processes]] · [[pompeii-premise]] · [[refuse-types]] · [[old-wood-problem]]
+- Thinkers: densified [[schiffer-michael-b]] · [[reid-j-jefferson]] · new [[rathje-william]] · [[skibo-james]]
+- Methods: densified [[ethnoarchaeology]] · [[experimental-archaeology]] · [[use-wear-analysis]]
+- Study: densified [[hill-broken-k-pueblo-study]] (Ch. 21 reanalysis)
+- Program charter corpus (four strategies; synthetic model; behavioral chains; Pompeii polemic; Ch. 23 principles inventory); complements 1987 FPAR handbook
 ### Lee — *The !Kung San* (1979) — ingested 2026-07-10
 - Source: [[lee-kung-san-1979]] (CUP 1979; ~210k words / 564 pp; complete OCR)
 - Study: [[lee-kung-san-study]] · Studies Hub: [[hubs/studies/lee-kung-san-study]]
@@ -1683,6 +1747,8 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[economic-sociology]] (subfield)
 
 ### Theories
+- [[critical-heritage-studies|Critical Heritage Studies]] — research program (Smith 2006 densification)
+- [[critical-archaeology|Critical archaeology]] — Leone/Potter/Shackel program; Althusserian ideology in HA
 - [[status-attainment]] — Blau & Duncan *The American Occupational Structure* (1967); OCG path model
 - [[post-processual-archaeology]] — Hodder *The Archaeological Process* (1999) method charter; Theory Hub [[hubs/theory/post-processual-archaeology]]
 - [[entanglement-theory]] — Hodder *Entangled* (2012); HT+TT+TH+HH; Theory Hub [[hubs/theory/entanglement-theory]]
@@ -1763,6 +1829,11 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[postcolonialism]] · [[post-development]] · Hub: [[hubs/theory/post-development]]
 
 ### Thinkers
+- [[smith-laurajane|Laurajane Smith]] — critical heritage studies; AHD
+- [[gilchrist-roberta|Roberta Gilchrist]] — gender archaeology synthesis (1999)
+- [[algaze-guillermo|Guillermo Algaze]] — Uruk world system / informal empire; supraregional state formation
+- [[leone-mark-p|Mark P. Leone]] — critical historical archaeology; Archaeology in Annapolis
+- [[daltroy-terence-n|Terence N. D'Altroy]]
 - [[mahmood-saba|Saba Mahmood]]
 
 ### Language ideology cohort (Regimes 2000)
@@ -1909,6 +1980,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[coleman-james|James S. Coleman]]
 
 ### Methods
+- [[site-catchment-analysis|Site Catchment Analysis]] — Vita-Finzi/Higgs lineage; Formative Mesoamerica ops (EMV 1976)
 - [[path-analysis]] · [[multiple-classification-analysis]] · [[socioeconomic-index]] (Duncan SEI; also filed under Concepts)
 - [[life-history-method]]
 - [[children-of-immigrants-longitudinal-study]]
@@ -1942,6 +2014,8 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[secondary-analysis]]
 
 ### Studies
+- [[algaze-uruk-expansion-study|The Uruk World System (Algaze, study)]] — the earliest world-system argument as research act
+- [[flannery-early-mesoamerican-village-study|The Early Mesoamerican Village (study)]] — multi-scalar program; hub [[hubs/studies/flannery-early-mesoamerican-village-study]]
 - [[levi-strauss-miel-aux-cendres-study|Du miel aux cendres (Lévi-Strauss, Mythologiques II)]]
 - [[leach-pul-eliya-study|Pul Eliya (Leach, 1961)]] · Hub: [[hubs/studies/leach-pul-eliya-study]]
 - [[blau-duncan-american-occupational-structure-study|The American Occupational Structure (Blau & Duncan, 1967)]] · Hub: [[hubs/studies/blau-duncan-american-occupational-structure-study]]
@@ -2003,6 +2077,22 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[garfinkel-agnes-study|Agnes case (Garfinkel, 1967)]]
 
 ### Concepts
+- [[authorized-heritage-discourse|Authorized Heritage Discourse (AHD)]] · [[dissonant-heritage|Dissonant heritage]] · [[intangible-heritage|Intangible heritage]]
+
+- [[sapient-paradox]] · [[material-engagement]] · [[external-symbolic-storage]] (Renfrew 2003 densify)
+- [[contested-garden]] — medieval castle gender-space metaphor (Gilchrist 1999 ch.6)
+- [[gender-lifecourse]] — cumulative gender across a lifetime (Gilchrist 1999)
+- [[gender-attribution]] — method debate: sexing artefacts/spaces as research gate
+- [[androcentrism]] — male-centred bias diagnostic (feminist/gender archaeology)
+- [[informal-empire|Informal Empire]] — economic hegemony outreaching political control (Gallagher & Robinson; Algaze)
+- [[gateway-community|Gateway Community]] — settlements controlling trade-route flow (Algaze's Uruk enclaves)
+- [[household-cluster|Household Cluster]] — Winter (EMV 1976); house + associated features
+- [[aqllakuna|Aqllakuna (Chosen Women)]]
+- [[yanakuna|Yanakuna]]
+- [[qhapaq-ucha|Qhapaq Ucha (Capacocha)]]
+- [[zeqe-system|Zeq'e (Ceque) System]]
+- [[panaqa|Panaqa]]
+- [[split-inheritance|Split Inheritance]]
 - [[columbus-commemorations|Columbus Commemorations]]
 - [[formulas-of-silence|Formulas of Silence]]
 - [[unthinkable-history|Unthinkable History]]
@@ -2206,6 +2296,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - Tilly / durable inequality: [[categorical-inequality]] · [[categorical-pairs]] · [[exploitation]] · [[opportunity-hoarding]] · [[organizational-emulation]] · [[organizational-adaptation]] · [[interior-exterior-categories]]
 
 ### Debates
+- [[uruk-world-system-debate|Was the Uruk Expansion a World System? (Algaze vs. Stein/Frangipane)]]
 - [[unthinkable-haitian-revolution-debate|Unthinkable Haitian Revolution Debate]]
 - [[saving-muslim-women-debate|The 'Saving Muslim Women' debate]] (Abu-Lughod vs. rescue feminism vs. Islamic feminism)
 - [[deficit-difference-debate|Deficit vs. difference: language, class, and educability]] (Bernstein / Labov)
@@ -2270,6 +2361,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 
 
 ### Societies
+- [[waanyi|Waanyi]] · [[castleford|Castleford]] (community; Smith 2006)
 - [[gail-valley-slovenes|Gail Valley bilingual villagers (Carinthia)]]
 
 - [[arizona-tewa|Arizona Tewa]] — language ideology / purism (Kroskrity 2000)
@@ -2292,10 +2384,25 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[middletown|Middletown (Muncie, Indiana; Lynds)]]
 
 ### Cultures
+- [[baden-culture|Baden Culture]] — Carpathian SPR settlement/consumption horizon (Sherratt densify 2026-07-15)
+- [[funnel-beaker-culture|Funnel Beaker Culture (TRB)]] — N European Neolithic; staggered secondary products (Sherratt densify)
+- [[globular-amphora-culture|Globular Amphora Culture]] — Hamburg–Kiev band; CW pathing (Sherratt densify)
 - [[ganowanian-family|Ganowanian family (Morgan, obsolete)]]
 - [[natufian-culture|Natufian Culture]] — Levantine terminal Pleistocene foragers (densified Bar-Yosef & Valla 2013)
 
 ### Sites
+- [[riversleigh|Riversleigh]] — World Heritage fossil field / Waanyi country (Smith 2006)
+- [[habuba-kabira|Habuba Kabira (South)]] — planned Uruk colony on the Euphrates
+- [[tell-brak|Tell Brak]] — Nagar; indigenous-to-intrusive Uruk sequence
+- [[william-paca-garden|William Paca Garden]] — Annapolis; ideology not taste (Leone)
+- [[colonial-williamsburg|Colonial Williamsburg]] — outdoor history foil (Leone critical reading)
+- [[tierras-largas|Tierras Largas]] — Early Formative Oaxaca hamlet; probability-sample type case
+- [[san-jose-mogote|San José Mogote]] — Early Formative Oaxaca nucleated village (Michigan project)
+- [[saqsawaman|Saqsawaman]]
+- [[cajamarca|Cajamarca]]
+- [[huanuco-pampa|Huánuco Pampa]]
+- [[ollantaytambo|Ollantaytambo]]
+- [[machu-picchu|Machu Picchu]]
 - [[sans-souci-milot|Sans-Souci (Milot)]]
 - [[catalhoyuk|Çatalhöyük]] — Neolithic Konya Plain; Hodder reflexive-method laboratory (1999)
 - [[eynan-ain-mallaha|Eynan (Ain Mallaha)]] · [[el-wad]] · [[hayonim-cave]] · [[wadi-hammeh-27]] · [[raqefet-cave]] · [[hilazon-tachtit]] — Natufian
@@ -2318,6 +2425,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[childcare-center|Childcare center]] (Small)
 
 ### Phenomena
+- [[uruk-expansion|Uruk Expansion]] — 4th-millennium spread of southern Mesopotamian culture/colonists
 - [[haitian-revolution|Haitian Revolution]]
 - [[peasant-movements|Peasant movements]] (Wolf)
 - [[agricultural-revolution|Agricultural Revolution]]
@@ -2352,12 +2460,21 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[france-russia-china-revolutions|France, Russia & China: revolutions compared]]
 
 ### Timelines
-*None yet.*
+- [[basin-of-mexico-chronology|Basin of Mexico Chronology]] — Sanders–Parsons–Santley horizon/intermediate scheme vs conventional stages
 
 ### Queries
 *None yet.*
 
 #
+
+### 2026-07-15 — Pauketat, *Chiefdoms and Other Archaeological Delusions* (2007)
+- Source: [[pauketat-chiefdoms-delusions-2007]] · Theory: [[historical-processualism]]
+- Updated: [[chiefdom]], [[band-tribe-chiefdom-model]], [[chiefly-cycling]], [[yoffee-norman]], [[cahokia]], [[cahokia-population-urbanism-debate]], [[mississippian-culture]], [[etowah]], [[moundville]], [[toltec-mounds]], [[spiro]], [[chaco-canyon]], [[state-formation]], [[pauketat-timothy]]
+
+### 2026-07-15 — Pauketat, *Cahokia: Ancient America's Great City on the Mississippi* (2009)
+- Source: [[pauketat-cahokia-2009]] · Thinker: [[pauketat-timothy]]
+- Concept: [[chunkey]] · Debate: [[cahokia-population-urbanism-debate]]
+- Updated: [[cahokia]], [[mississippian-culture]], [[spiro]], [[moundbuilder-myth]], [[chiefdom]], [[state-formation]]
 
 ### 2026-07-10 — Dickinson, *The Aegean Bronze Age* (1994)
 - Source: [[dickinson-aegean-bronze-age-1994]] · Thinker: [[dickinson-oliver-t-p-k]]
@@ -2411,7 +2528,27 @@ Second *Mythologiques* volume: honey infra-culinary / tobacco meta-culinary; tra
 - Densified from primary: [[legibility]], [[high-modernism]]
 - Updated: [[scott-james-c]], [[jacobs-jane]], [[luxemburg-rosa]], [[green-revolution]]
 
+
+### Vanishing River / LVAP (Whittlesey et al. 1997) — ingested 2026-07-15
+- [[whittlesey-vanishing-river-1997|Vanishing River (source)]] · [[lower-verde-archaeological-project-study|LVAP study]]
+- Cultures: [[sinagua-culture|Sinagua]] · update [[hohokam-culture|Hohokam]]
+- Societies: [[yavapai|Yavapai]] · [[western-apache|Western Apache]]
+- Sites: [[scorpion-point-village|Scorpion Point Village]] · [[roadhouse-ruin|Roadhouse Ruin]] · [[skeleton-cave|Skeleton Cave]]
+- Concepts: [[hohokam-core-periphery-model|Hohokam core–periphery model]]
+- Thinkers: [[whittlesey-stephanie-m|Stephanie M. Whittlesey]] · [[altschul-jeffrey-h|Jeffrey H. Altschul]] · [[ciolek-torrello-richard|Richard Ciolek-Torrello]]
+- Methods updated: [[landscape-archaeology]] · [[cultural-resource-management]] · [[ethnoarchaeology]] · [[irrigation]]
+
 ## Sources
+- [[smith-uses-of-heritage-2006|Smith — Uses of Heritage (2006)]] — AHD; critical heritage studies charter
+- [[gilchrist-gender-and-archaeology-1999|Gilchrist — Gender and Archaeology (1999)]] — post-charter gender archaeology synthesis + contested-garden castle case
+- [[leone-critical-historical-archaeology-2010|Leone — Critical Historical Archaeology (2010)]] — critical HA career retrospective; Annapolis / ideology program
+- [[hicks-beaudry-companion-historical-archaeology-2006]] — Hicks & Beaudry (eds.), *The Cambridge Companion to Historical Archaeology* (2006) — 17-essay handbook; subfield pages maritime/industrial/urban/documentary archaeology; Prestwich Street + defining-HA debates
+- [[bradley-significance-of-monuments-1998|Bradley — The Significance of Monuments (1998)]] — European Neolithic–Bronze Age monumentality; surplus inversion; death of the house; circular ceremonial sequences. New: [[bradley-richard]], [[monumentality]], [[death-of-the-house]], [[long-mound]], [[causewayed-enclosure]], [[henge]], [[passage-grave]], [[ritual-landscape]], [[landscape-archaeology]], [[barkaer]], [[cairnpapple]], [[dragsholm]]
+- [[sanders-parsons-santley-basin-of-mexico-1979|Sanders, Parsons & Santley — The Basin of Mexico (1979)]] — full-coverage survey capstone; Boserup–Carneiro–Wittfogel synthesis. New: [[sanders-basin-of-mexico-study]], [[parsons-jeffrey-r]], [[santley-robert-s]], [[population-pressure]], [[central-place-theory]], [[cuicuilco]], [[loma-torremote]], [[maquixco-bajo]], [[basin-of-mexico-chronology]]
+- [[blanton-ancient-oaxaca-2022]] — Blanton, Feinman, Kowalewski & Nicholas, *Ancient Oaxaca: The Monte Albán State* 2nd ed. (2022) — collective-action synthesis of Monte Albán state formation (debate [[monte-alban-founding-debate]]; concept [[disembedded-capital]]; theory [[dual-processual-theory]])
+- [[flannery-early-mesoamerican-village-1976|Flannery (ed.) — The Early Mesoamerican Village (1976)]] — multi-scalar Formative village / household archaeology charter
+- [[moseley-maritime-foundations-1975|Moseley — The Maritime Foundations of Andean Civilization (1975)]] — charter of the [[maritime-foundations-hypothesis]]. New: [[moseley-maritime-foundations-study]], [[ancon]], [[huaca-prieta]], [[rio-seco]], [[bird-junius]], [[lanning-edward]], [[engel-frederic]], [[patterson-thomas]]
+- [[daltroy-the-incas-2002|D'Altroy — The Incas (2002)]]
 - [[haraway-staying-with-the-trouble-2016|Staying with the Trouble (Haraway, 2016)]] — multispecies theory; the Chthulucene program. New: [[chthulucene]], [[sympoiesis]], [[making-kin]], [[companion-species]], [[sf-string-figures]], [[response-ability]], [[capitalocene]], [[plantationocene]], [[naturecultures]], [[gaia-hypothesis]], [[multispecies-studies]], [[despret-vinciane]], [[stengers-isabelle]], [[naming-the-anthropocene-debate]]
 - [[gumperz-discourse-strategies-1982|Discourse Strategies (Gumperz, 1982)]] — founding monograph of interactional sociolinguistics. New: [[contextualization-cue]], [[conversational-inference]], [[gail-valley-slovenes]]
 - [[abu-lughod-do-muslim-women-2013|Do Muslim Women Need Saving? (Abu-Lughod, 2013)]] — public-anthropology critique of the post-9/11 rescue discourse. New: [[gendered-orientalism]], [[honor-crime]], [[saving-muslim-women-debate]], [[mahmood-saba]]
@@ -2440,6 +2577,8 @@ Second *Mythologiques* volume: honey infra-culinary / tobacco meta-culinary; tra
 - [[taylor-study-of-archeology-1948|A Study of Archeology (Taylor 1948)]] — source (conjunctive approach)
 - [[binford-binford-new-perspectives-1968|New Perspectives in Archeology (Binford & Binford 1968)]] — source (processual charter)
 - [[binford-in-pursuit-of-the-past-1983|In Pursuit of the Past (Binford 1983)]] — source (middle-range / ethnoarchaeology synthesis)
+- [[binford-bones-1981|Bones: Ancient Men and Modern Myths (Binford 1981)]] — source (taphonomy / middle-range demonstration; hunting-vs-scavenging)
+- [[hubs/studies/binford-bones-study|Studies Hub — Bones (Binford 1981)]] · [[binford-bones-study|studies summary]] — taphonomy vs. modern myths; hunting-vs-scavenging
 - [[clarke-analytical-archaeology-1978|Analytical Archaeology (Clarke 1968/1978)]] — source (British systems/hierarchy charter)
 - [[fagan-great-journey-1987|The Great Journey (Fagan 1987 / updated 2004)]] — source (peopling-of-the-Americas synthesis & history of the controversy; feeds [[beringia]], [[ice-free-corridor]], [[fluted-point]], [[moundbuilder-myth]], [[clovis-culture]], [[folsom-site]], [[peopling-of-the-americas-debate]]; pre-aDNA)
 - [[ingold-lines-2007|Lines: A Brief History (Ingold 2007)]] — source (comparative anthropology of the line; [[wayfaring]], [[meshwork]])
@@ -2482,6 +2621,7 @@ Second *Mythologiques* volume: honey infra-culinary / tobacco meta-culinary; tra
 - [[frazer-golden-bough-1922|The Golden Bough (Frazer, 1922 abridgement)]]
 - [[boas-mind-of-primitive-man-1938|The Mind of Primitive Man (Boas, 1911/1938)]]
 - [[tylor-primitive-culture-1871|Primitive Culture (Tylor, 1871)]]
+- [[algaze-uruk-world-system-2005|The Uruk World System (Algaze, 2nd ed. 2005)]]
 - [[wallerstein-modern-world-system-1-1974|The Modern World-System I (Wallerstein, 1974)]]
 - [[wallerstein-world-systems-analysis-introduction-2004|World-Systems Analysis: An Introduction (Wallerstein, 2004)]]
 - [[sewell-logics-of-history-2005|Logics of History (Sewell, 2005)]]
@@ -3150,8 +3290,18 @@ Popular charter of the **present-day genetic archive** program (HGHG 1994 behind
 - **Hubs:** Thinkers Hub built (with Timewalkers + S&G 1993). No studies/ page (continental synthesis)
 - **Filed:** `raw/archaeology/`
 
+
+## [2026-07-15] Gamble — *Settling the Earth* (2013)
+- **Source:** [[gamble-settling-the-earth-2013]] (CUP 2013; ~143k words / 400 pp; 8-agent extraction, 8/8 claims ~570)
+- **Thinker densified:** [[gamble-clive]] · **Thinkers Hub** [[hubs/thinkers/gamble-clive]] (Phase 4)
+- **Created:** [[terrae]] · [[going-beyond]] · [[kinshipping]] · [[enchainment]] · [[deep-human-history]] · [[instruments-and-containers]] · [[variability-selection]] · [[social-brain-hypothesis]]
+- **Updated:** [[global-colonization]] · [[world-prehistory]] · [[sapient-paradox]] · [[behavioral-modernity]]
+- **No studies/** (global argumentative synthesis)
+- **Voice:** all timings/species/haplogroups attributed Gamble 2013 (mid-aDNA); four-way non-identity; Terra 5 reunion frame
+
 ## [2026-07-10] Gamble — *Timewalkers: The Prehistory of Global Colonization* (1994)
 - **Source:** [[gamble-timewalkers-1994]] (Harvard UP 1994 / © 1993; 2nd print PDF 1996; ~148k words / 321 pp; 5-agent extraction, 5/5 claims files ~248 claims)
+- [[gamble-settling-the-earth-2013|Settling the Earth (Gamble, 2013)]] — deep-history Terrae synthesis; densify after *Timewalkers*. New: [[terrae]], [[going-beyond]], [[kinshipping]], [[enchainment]], [[deep-human-history]], [[instruments-and-containers]], [[variability-selection]], [[social-brain-hypothesis]]
 - **Thinker (new):** [[gamble-clive]]
 - **Phenomenon (new):** [[global-colonization]]
 - **Concept (new):** [[exaptation]] (Gould & Vrba term applied to prehistoric range expansion)
@@ -3215,7 +3365,8 @@ Popular charter of the **present-day genetic archive** program (HGHG 1994 behind
 
 
 ### Van De Mieroop — *A History of the Ancient Near East* (3rd ed. 2016) — ingested 2026-07-10
-- Source: [[van-de-mieroop-history-ancient-near-east-2016]] (Van De Mieroop, *A History of the Ancient Near East, ca. 3000–323 BC*; ~171k words; current-consensus survey completing the Mesopotamia trilogy after Roux + Postgate). 5 created + 24 updated.
+- Source: [[van-de-mieroop-history-ancient-near-east-2016]]
+- [[nissen-early-history-ancient-near-east-1988|Nissen — Early History of the Ancient Near East (1988)]] · [[nissen-hans-j|Hans J. Nissen]] (Van De Mieroop, *A History of the Ancient Near East, ca. 3000–323 BC*; ~171k words; current-consensus survey completing the Mesopotamia trilogy after Roux + Postgate). 5 created + 24 updated.
 - Cultures: [[achaemenid-empire]] · [[elamites]] · [[medes]] · Timeline: [[ancient-near-east-chronology]]
 - Densified: [[assyrians]] · [[chaldaeans]] · [[hittite-empire]] · [[akkadians]] · [[sumerians]] · [[uruk-culture]] · [[amorites]] · [[hurrians]] · [[kassites]] · [[cuneiform]] · [[sumerian-king-list]] · [[code-of-hammurabi]] · [[kingship]] · [[mesopotamian-trade]] · [[late-bronze-age-international-system]] · [[origins-of-writing]] · [[urbanization]] · [[state-formation]] · [[the-state]] · [[babylon]] · [[nimrud]] · [[ur]] · [[ur-royal-cemetery-debate]] · [[mesopotamian-temple-state-debate]]
 
@@ -3238,6 +3389,7 @@ Popular charter of the **present-day genetic archive** program (HGHG 1994 behind
 
 ### Orser — *A Historical Archaeology of the Modern World* (1996) — ingested 2026-07-10
 - Source: [[orser-historical-archaeology-modern-world-1996]] (Plenum; ~93k words; global HA charter)
+- Source: [[hall-archaeology-modern-world-2000]] (Routledge; ~89k words; Cape–Chesapeake colonial transcripts) → study [[hall-archaeology-modern-world-study]]; debate [[theory-in-historical-archaeology-debate]]; new: [[hall-martin]], [[bhabha-homi]], [[third-space]], [[khoikhoi]], [[cape-slavery]], [[district-six]], [[castle-of-good-hope]], [[cape-dutch-architecture]]
 - Thinker: [[orser-charles-e]]
 - Subfield: [[historical-archaeology]] (concept page merged into discipline for unique slug)
 - Theory: [[global-historical-archaeology]]
@@ -3256,13 +3408,36 @@ Popular charter of the **present-day genetic archive** program (HGHG 1994 behind
 - Densified concepts/theory: [[chiefdom]] · [[rank-society]] · [[stratified-society]] · [[hereditary-rank]] · [[redistribution]] · [[prestige-goods-economy]] · [[mana]] · [[carrying-capacity]] · [[chiefly-cycling]] · [[state-formation]] · [[band-tribe-chiefdom-model]] · [[sahlins-marshall]] · [[origins-of-hereditary-inequality-debate]]
 - Program: multi-process evolution of Polynesian chiefdoms from Ancestral Polynesian Society (Lapita-derived); cases Tonga / Hawaiʻi / Easter Island; rejects stadial neo-evolutionism while using chiefdom vocabulary
 
+
+### Tilley, *Interpreting Landscapes* (2010) — landscape phenomenology densify (2026-07-15)
+- Source: [[tilley-interpreting-landscapes-2010]] · Study: [[tilley-interpreting-landscapes-study]]
+- Concepts (new): [[neolithic-sensory-revolution]] · [[geological-identity]]
+- Survey-regions (new): [[bodmin-moor]] · [[west-penwith]] · [[east-devon-pebblebeds]] · [[south-dorset-ridgeway]] · [[northern-cranborne-chase]] · [[exmoor]]
+- Densified: [[tilley-christopher]] · [[phenomenological-archaeology]] · [[phenomenological-landscape-archaeology]] · [[landscape-archaeology]] · [[place-as-lived]] · [[path]] · [[stonehenge]]
+- Program: multi-region geological/sensory phenomenology (chalk, pebble, sandstone/slate, granite); companion to *A Phenomenology of Landscape* (1994).
+
+### Renfrew, *Prehistory: The Making of the Human Mind* (2007) — cognitive densify (2026-07-15)
+- Source: [[renfrew-prehistory-making-human-mind-2007]]
+- Concepts (new): [[speciation-phase]] · [[tectonic-phase]]
+- Densified: [[renfrew-colin]] · [[cognitive-archaeology]] · [[sapient-paradox]] · [[material-engagement]] · [[external-symbolic-storage]] · [[world-prehistory]] · [[radiocarbon-dating]] · [[clark-grahame]] · [[donald-merlin]]
+- Program: historiography of prehistory + cognitive archaeology (sapient paradox; speciation/tectonic phases). Companion to *Figuring It Out* (2003).
+
 ### Renfrew, *Loot, Legitimacy and Ownership* (2000) — antiquities-trade ethics (2026-07-10)
-- Source: [[renfrew-loot-legitimacy-2000]]
+- [[renfrew-figuring-it-out-2003|Figuring It Out (Renfrew 2003)]]
+- [[renfrew-loot-legitimacy-2000]]
 - Phenomenon: [[illicit-antiquities-trade]]
 - Concepts: [[unprovenanced-antiquities]] · [[cultural-property]] · [[restitution]]
 - Debate: [[antiquities-market-looting-debate]]
 - Densified: [[renfrew-colin]] · [[archaeology]] · [[heritage-management]]
 - Program: demand-side looting thesis (attributed); context-loss as the harm; 1970 line; UNESCO/Unidroit; Salisbury Hoard; restitution as deterrence
+
+### Cuno, *Who Owns Antiquity?* (2008/2011) — cultural internationalism (2026-07-15)
+- Source (new): [[cuno-who-owns-antiquity-2008]]
+- Thinker (new): [[cuno-james]]
+- Concepts (new): [[encyclopedic-museum]] · [[partage]]
+- Debate densified: [[antiquities-market-looting-debate]] (Position B now primary)
+- Updated: [[cultural-property]] · [[unprovenanced-antiquities]] · [[restitution]] · [[illicit-antiquities-trade]] · [[heritage]] · [[nationalism-and-archaeology]] · [[heritage-management]] · [[archaeology-and-nationalism-debate]] · [[archaeology]]
+- Program: polemic against nationalist retentionist cultural property laws; encyclopedic museum + partage + Merryman triad; surrogate-debate thesis; Turkey/China cases; 2011 China MOU afterword. Balances [[renfrew-loot-legitimacy-2000]].
 
 ### Coercion, Capital, and European States (Tilly, 1990/1992) — ingested 2026-07-10
 - Source (new): [[tilly-coercion-capital-1992]]
@@ -3352,4 +3527,124 @@ Collected statement of the multi-sited ethnography program (1989–1997 essays):
 
 ### Phenomena
 - [[putumayo-rubber-terror|Putumayo rubber terror]]
+
+
+
+### Mitchell & Lane — *The Oxford Handbook of African Archaeology* (2013) ✅ 2026-07-15
+- Source: [[mitchell-lane-oxford-handbook-african-archaeology-2013]] (OUP 2013; 70 chapters; pandoc ~421k words; **10-agent** extraction, inventory **10/10** ~597 claims)
+- Thinkers (new): [[mitchell-peter]] · [[lane-paul]]
+- Cultures (new): [[still-bay-industry]] · [[zimbabwe-culture]]
+- Concept (new): [[cattle-before-crops]]
+- Debate (new): [[sub-saharan-iron-origins-debate]]
+- Sites (new): [[gona]] · [[sibudu-cave]]
+- Densified: [[archaeology]] · [[bantu-expansion]] · [[chifumbaze-complex]] · [[behavioral-modernity]] · [[howiesons-poort-industry]] · [[oldowan-industry]] · [[acheulean-industry]] · [[blombos-cave]] · [[klasies-river]] · [[great-zimbabwe]] · [[mapungubwe]] · [[swahili-culture]] · [[kilwa-kisiwani]] · [[jenne-jeno]] · [[aksum]] · [[kerma]] · [[meroe]] · [[state-formation]] · [[urbanization]] · [[productive-land-hypothesis]] · [[heterarchy]] · [[kalahari-debate]] · [[ethnoarchaeology]] · [[oral-tradition]] · [[public-archaeology]] · [[rock-art]] · [[connah-graham]] · [[phillipson-david-w]] · [[insoll-timothy]] · [[nok-culture]] · [[khoe-san]] · [[nabta-playa]] · [[hunter-gatherer]] · related MSA/Iron Age pages
+- Program: multi-author African archaeology method+region scaffold; companions [[phillipson-african-archaeology-2005]] · [[connah-african-civilizations-2016]]; no studies/hub
+
+### Higham 2002 densification (2026-07-15)
+- [[higham-early-cultures-mainland-southeast-asia-2002|Higham — Early Cultures of Mainland Southeast Asia (2002)]]
+- Sites: [[spirit-cave]], [[nong-nor]], [[ban-lum-khao]], [[noen-u-loke]], [[ban-don-ta-phet]], [[angkor-borei]], [[plain-of-jars]], [[ban-non-wat]]
+- Cultures: [[phung-nguyen-culture]], [[dvaravati-culture]]
+- Updated debates: [[southeast-asian-bronze-chronology-debate]], [[angkor-hydraulic-city-debate]], [[indianisation-southeast-asia-debate]]
+
+### Trigger Natives and Newcomers (2026-07-15)
+- [[trigger-natives-and-newcomers-1985|Trigger — Natives and Newcomers (1985)]]
+- [[trigger-children-of-aataentsic-1976|Trigger — The Children of Aataentsic (1976/1987)]] — study: [[trigger-children-of-aataentsic-study]]; new: [[mourning-war]], [[feast-of-the-dead]], [[sainte-marie-among-the-hurons]], [[iroquois-wars-motivation-debate]], Trigger hub biography
+- Societies: [[huron]], [[st-lawrence-iroquoians]], [[petun]], [[neutral-iroquoians]] (+ densified [[iroquois]])
+- [[canadian-heroic-age-historiography-debate]], [[virgin-soil-epidemics]], [[parkman-francis]]
+
+- source: [[sources/flannery-marcus-cloud-people-1983]] (Flannery & Marcus, eds., 1983) — Zapotec/Mixtec divergent evolution
+
+## Ingest {today} — Coe, Breaking the Maya Code
+
+- [[coe-breaking-the-maya-code-2012|Breaking the Maya Code (Coe 2012)]] — history of Maya decipherment
+- [[maya-script-decipherment-debate|Maya Script Decipherment Debate]] — phonetic vs ideographic; Thompson vs Knorosov
+- [[thompson-j-eric-s|J. Eric S. Thompson]] — mid-century Maya epigraphy orthodoxy
+- [[schele-linda|Linda Schele]] — Palenque dynasty; Texas workshops; Blood of Kings
+- [[lounsbury-floyd|Floyd Lounsbury]] — linguistic Mayanist; Palenque; ajaw reading
+- [[kelley-david-h|David H. Kelley]] — North American Knorosov defender
+- [[stuart-david|David Stuart]] — Ten Phonetic Syllables; modern epigraphy
+- [[stephens-john-lloyd|John Lloyd Stephens]] — Incidents of Travel; Maya rediscovery
+- [[forstemann-ernst|Ernst Förstemann]] — Dresden Codex calendrics
+- [[maudslay-alfred-p|Alfred P. Maudslay]] — Biologia Centrali-Americana corpus
+- [[landa-diego-de|Diego de Landa]] — Relación; “alphabet”; Maní auto-da-fé
+- [[berlin-heinrich|Heinrich Berlin]] — Emblem Glyphs (1958)
+- [[epigraphy|Epigraphy]] — study of inscriptions; Maya decipherment method frame
+
+### Marcus & Flannery — *Zapotec Civilization* (1996) ingest
+
+- Source: [[marcus-flannery-zapotec-civilization-1996]]
+- Study: [[marcus-flannery-zapotec-civilization-study]]
+- Theory: [[action-theory-archaeology]]
+- Concept: [[synoikism]]
+- Sites created: [[jalieza]] · [[fabrica-san-jose]] · [[tomaltepec]] · [[huitzo]]
+- Densified: [[zapotec-civilization]] · [[monte-alban]] · [[san-jose-mogote]] (+ Formative/Classic network)
+
+### Martin & Grube 2008 ingest
+- [[martin-grube-chronicle-maya-kings-2008|Chronicle of the Maya Kings and Queens (Martin & Grube 2008)]] — dynastic political history of 11 Classic kingdoms; overkingship model
+- [[martin-simon|Simon Martin]] — Maya epigrapher; co-author of Chronicle (with Grube)
+- [[grube-nikolai|Nikolai Grube]] — Maya epigrapher; co-author of Chronicle (with Martin)
+- [[overkingship|Overkingship (Classic Maya)]] — hierarchical patronage model (Martin & Grube)
+
+### Schele & Freidel 1990 ingest
+- [[schele-freidel-forest-of-kings-1990|A Forest of Kings (Schele & Freidel 1990)]] — popular-scholarly narrative archaeology of Classic Maya political history [FLAG: interpretive]
+- [[schele-freidel-forest-of-kings-study|A Forest of Kings — study]] — research act as object of analysis
+- [[freidel-david|David A. Freidel]] — archaeologist; Cerros; co-author of Forest of Kings
+- [[cerros|Cerros]] — Late Preclassic Belize center; Preclassic *ahau* program
+- Densified: [[schele-linda]] · [[classic-maya]] · [[classic-maya-collapse-debate]] · [[tikal]] · [[uaxactun]] · [[calakmul]] · [[caracol]] · [[naranjo]] · [[dos-pilas]] · [[palenque]] · [[yaxchilan]] · [[copan]] · [[quirigua]] · [[chichen-itza]] · [[teotihuacan]] · [[kuhul-ajaw]] · [[overkingship]] · [[emblem-glyph]] · [[epigraphy]] · [[long-count]]
+- [[potts-mesopotamian-civilization-1997]] — Potts 1997, material foundations of Mesopotamian civilization (created: [[potts-daniel-t]], [[irrigation]], [[cylinder-seal]], [[seleucia-on-the-tigris]], [[bevel-rim-bowl-debate]])
+- [[moore-cultural-landscapes-andes-2005]] — Moore 2005, archaeology of place in the Andes (created: [[moore-jerry]], [[soundscape]], [[house-society]], [[procession]], [[formative-ceremonial-architecture-debate]], [[asana]], [[paloma]], [[kotosh]], [[real-alto]], [[huaca-de-los-reyes]], [[warao]], [[mapuche]])
+
+### Hodder Catalhoyuk densify (2006 + 2022) ✅ 2026-07-15
+- Sources: [[hodder-leopards-tale-2006]] · [[hodder-catalhoyuk-excavations-2009-2017]]
+- Major densify: [[catalhoyuk]] · [[hodder-ian]] · [[catalhoyuk-shrine-house-debate]] · [[radiocarbon-dating]] (Bayliss Bayesian North)
+
+### McIntosh Ancient Middle Niger ingest (2026-07-15)
+- [[mcintosh-ancient-middle-niger-2005|Ancient Middle Niger (McIntosh 2005)]] (source)
+- [[mcintosh-jenne-jeno-study|McIntosh Jenné-jeno Program]] (study) · [[hubs/studies/mcintosh-jenne-jeno-study|hub]]
+- [[mcintosh-roderick-j|Roderick J. McIntosh]] · [[mcintosh-susan-keech|Susan Keech McIntosh]] · [[crumley-carole|Carole Crumley]]
+- [[urban-cluster]] · [[pulse-model]] · [[self-organizing-landscape]]
+- [[dia-shoma|Dia (Dia Shoma)]] · updated [[jenne-jeno]] · [[heterarchy]]
+- [[whittle-europe-in-the-neolithic-1996|Whittle — Europe in the Neolithic (1996)]] — continental indigenous-lean Neolithic survey (CUP)
+- [[whittle-alasdair|Alasdair Whittle]] — European Neolithic social archaeology; indigenous continuity program
+- [[starcevo-koros-cris-culture|Starčevo–Körös–Criș culture]] — early Balkan/Carpathian Neolithic complex
+- [[impresso-cardial-culture|Impresso–Cardial culture]] — Mediterranean early Neolithic pottery horizon
+- [[lengyel-culture|Lengyel culture]] — middle Neolithic east-central Europe (post-LBK)
+- [[talheim|Talheim]] — LBK mass grave (SW Germany)
+- [[karanovo|Karanovo]] — Thracian tell sequence backbone
+- [[franchthi-cave|Franchthi Cave]] — Greek Palaeolithic–Neolithic cave sequence
+- [[los-millares|Los Millares]] — SE Iberian Copper Age enclosure/tombs
+- [[longhouse|Longhouse]] — LBK timber longhouse as architectural/social form
+
+### Shelach-Lavi — The Archaeology of Early China (2015) ingest (2026-07-15)
+- [[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi — The Archaeology of Early China (2015)]] (source) — CUP prehistory→Han synthesis; China densify
+- [[shelach-lavi-gideon|Gideon Shelach-Lavi]] (thinker) — interregional-interaction program; four-way non-identity
+- [[peer-polity-interaction]] · [[chinese-interaction-sphere]] (concepts)
+- Debates: [[chinese-civilization-origins-debate]] (Position-4 densify) · [[erlitou-xia-dynasty-debate]] (state-threshold axis) · [[archaeology-and-nationalism-debate]] (China case)
+- Densified: [[erlitou-culture]] · [[erligang-culture]] · [[shang-civilization]] · [[zhou-civilization]] · [[liangzhu-culture]] · [[lungshan-culture]] · [[hemudu-culture]] · [[hongshan-culture]] · [[anyang]] · [[erlitou]] · [[zhoukoudian]] · [[sanxingdui]] (+ 15 more culture/site/concept pages)
+
+### Chang *Shang Civilization* ingest (2026-07-15)
+
+| [[chang-shang-civilization-1980]] | Shang Civilization (Chang 1980) | source | 2026-07-15 |
+| [[oracle-bone-inscription]] | Oracle-Bone Inscription | method | 2026-07-15 |
+| [[scapulimancy]] | Scapulimancy | method | 2026-07-15 |
+| [[tsu-lineage]] | Tsu (Lineage) and Yi (Town) | institution | 2026-07-15 |
+| [[fang-polity]] | Fang (方) Polity | concept | 2026-07-15 |
+
+- [[wright-ancient-indus-2010|Wright, The Ancient Indus (2010)]] — third Indus synthesis; political economy, differentiated society, city-states
+### Brodie et al. 2006 heritage ingest (2026-07-15)
+
+- [[brodie-kersel-luke-tubb-archaeology-cultural-heritage-antiquities-trade-2006|Brodie et al. — Archaeology, Cultural Heritage, and the Antiquities Trade (2006)]]
+- [[brodie-neil|Neil Brodie]]
+- [[kersel-morag-m|Morag M. Kersel]]
+- [[luke-christina|Christina Luke]]
+- [[tubb-kathryn-walker|Kathryn Walker Tubb]]
+- [[gerstenblith-patty|Patty Gerstenblith]]
+- [[iraq-national-museum|Iraq National Museum (Baghdad)]]
+- [[meskell-nature-of-heritage-2012]] — Meskell, *The Nature of Heritage* (2012); [[meskell-nature-heritage-study]], [[meskell-lynn]], [[negative-heritage]], [[past-mastering]], [[kruger-national-park]], [[thulamela]], [[makuleke]]
+### Insoll Gao 1996 ingest (2026-07-15)
+
+- [[insoll-islam-archaeology-history-gao-1996|Insoll — Islam, Archaeology and History: Gao Region (1996)]]
+- [[insoll-gao-region-study|Insoll Gao Region study]]
+- [[gao-ancien|Gao Ancien]]
+- [[gao-saney|Gao-Saney]]
 

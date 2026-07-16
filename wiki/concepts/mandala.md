@@ -8,8 +8,8 @@ emic_or_etic: migrated
 operationalized_as: "A polity defined by a fluctuating circle of allegiance around a ritual overlord rather than by fixed borders; identified archaeologically by a central court/temple complex, reservoirs, and inscriptions, and textually by tributary and vassal relations"
 contested: yes
 related_concepts: ["[[chiefdom]]", "[[state-formation]]", "[[southeast-asian-state-formation]]", "galactic polity (Tambiah)", "segmentary state (Southall)", "[[theatre-state]]", "[[exemplary-center]]", "[[negara]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept, southeast-asia]
 ---
 
@@ -90,4 +90,15 @@ had wider horizons and used force, the magnetism of the gods and of himself, to 
 followers and workers from a wider orbit" than a chief. The mandala's economic base is
 itself disputed, most sharply in the [[angkor-hydraulic-city-debate]].
 
-Source: [[higham-archaeology-mainland-southeast-asia-1989]].
+### Higham 2002 densification
+
+Higham’s 2002 synthesis retains the mandala frame while hardening two supporting
+arguments: (1) Iron Age chiefdoms ([[noen-u-loke]], [[dong-son-culture]], Mun Valley
+moated sites) already display permanent ranking and maritime agency before Sanskritized
+courts; (2) Chinese unitary labels (Funan, Chenla, Linyi/Champa, Dvaravati) often overstate
+political unity relative to inscriptions and archaeology — so the mandala’s concertina
+form is preferred over the bounded kingdom. On Angkor specifically he removes large-scale
+baray irrigation from the economic base of the mandala (symbolic waterscapes; decentralized
+rain-fed rice under grandee families — as of Higham 2002). Sources:
+[[higham-archaeology-mainland-southeast-asia-1989]],
+[[higham-early-cultures-mainland-southeast-asia-2002]].

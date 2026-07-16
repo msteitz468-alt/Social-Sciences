@@ -7,8 +7,8 @@ date_introduced: "1784 (Jefferson); scientific standard from 1880s (Pitt Rivers)
 supersedes: ["antiquarian barrow-digging / treasure-hunting", "bench-level / datum-line recording"]
 epistemic_leverage: "Recovers the relative time-order of deposits and finds directly from the earth, independent of texts or absolute dates; the only method by which a site's culture-sequence and the association of finds with structures can be established."
 key_limitations: "Destructive and non-repeatable (excavation consumes its evidence); requires correct reading of ambiguous soil junctions; a single section can mislead (apparent successions may be simultaneous); departs from geological stratigraphy as human interference rises; silent on absolute date without independent dating methods; interpretation-laden."
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 5
+last_updated: 2026-07-15
 tags: [method]
 ---
 
@@ -104,6 +104,30 @@ stratigraphic sequence proves succession *only at that site*: cultures are like 
 lenses with frilled and undulating edges" that overlap neighbours differently at different
 points, so stratigraphy must be read jointly with geographic distribution before broad
 conclusions are drawn.
+
+## The Mesopotamian Tradition and Its Adaptation
+
+*(Attributed — [[matthews-archaeology-mesopotamia-2003|Matthews 2003]].)* Matthews locates
+the first true stratigraphic sounding in Mesopotamian archaeology in Walter Andrae's
+excavation of the Ištar Temple at Aššur (1902–1914), conducted as Robert Koldewey's
+assistant; Koldewey himself, excavating Babylon for the German Oriental Society from 1899,
+had developed a **mud-brick tracing technique** (from 1887 fieldwork at Surghul/al-Hiba) to
+distinguish successive mud-brick walls and floors — a soil-reading skill distinct from the
+British sectional tradition. Touring Near Eastern excavations in 1936 ahead of directing the
+new Institute of Archaeology in London, [[wheeler-mortimer|Mortimer Wheeler]] found regional
+stratigraphic recording standards far below British norms of the time: "the scientific
+analysis of stratification, upon which modern excavation is largely based, was almost
+non-existent" (Wheeler 1956: 110). Matthews argues that **single-context planning**
+(developed in Western European urban archaeology, recording a discrete context in its
+entirety and reconstructing deposit relationships via a Harris matrix) requires modification
+for Southwest Asian mud-brick tell sites, since it does not systematically retain sections
+and risks losing finely layered floor/occupation sequences distinctive of tells. **Soil
+micromorphology** — removal of intact deposit blocks (e.g. floor-plaster sequences),
+resin-impregnated and thin-sectioned for microscopic analysis — was pioneered as a
+systematic settlement-wide technique at Çatalhöyük (W. Matthews et al. 1997), revealing
+traces of food preparation, trampling, and burning otherwise archaeologically invisible, and
+was also applied at Abu Salabikh; excavation sampling more broadly there includes flotation
+for carbonised plant remains and sieving for small artefacts and faunal remains.
 
 ## Debates
 

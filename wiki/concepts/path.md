@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Route of bodily movement that structures memory, narrative, and social relations across the landscape"
 contested: no
 related_concepts: ["[[place-as-lived]]", "[[landscape-as-mythopoesis]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept, archaeology]
 ---
 
@@ -34,3 +34,8 @@ Cranborne Chase Cursus–barrow complex; Welsh monument rows and approaches ([[t
 ## Critiques and Limitations
 
 Archaeological recovery of actual prehistoric paths is often indirect; risk of reading modern access routes back.
+
+## Tilley 2010 densification
+
+*(Attributed — *[[tilley-interpreting-landscapes-2010]]*.)* Paths structure sequences of perception (directionality, posture, what enters/leaves sight). Regional applications: Ridgeway east→west processional barrow path; Bodmin stone-row perspectival sequences; Exmoor settings without such sequencing; Avenue approach at [[stonehenge]]. Paths alter the character of places (Body–Place–Path triangle, Ch. 10).
+

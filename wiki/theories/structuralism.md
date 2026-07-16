@@ -10,7 +10,7 @@ core_claims: ["Cultural phenomena (kinship, myth, classification, art) are syste
 developed_from: ["[[durkheim-mauss-primitive-classification-1903|Durkheim–Mauss collective representations]]", "[[mauss-the-gift-1925|Maussian reciprocity]]", "Saussurean and Jakobsonian structural linguistics"]
 competes_with: ["[[practice-theory]]", "[[historical-particularism]]", "[[structural-functionalism]]", "existentialism/phenomenology (Sartre)"]
 status: absorbed
-sources_ingested: 10
+sources_ingested: 11
 last_updated: 2026-07-15
 tags: [theory, anthropology]
 ---
@@ -102,6 +102,10 @@ material culture — addressing critiques that treating artefacts as a "text" im
 assumptions (fixed authorial meaning, linguistic-style systematicity) that may not hold
 for non-linguistic material signs. See [[post-processual-archaeology]] for the broader
 interpretive-archaeology context in which this alternative arose.
+
+## Critique of Structuralist Historical Archaeology (Hall 2000)
+
+*(Attributed — [[hall-martin|Martin Hall]], *[[hall-archaeology-modern-world-2000|Archaeology and the Modern World]]*, 2000.)* Hall argued that historical archaeology "has been strongly influenced by structuralism," exemplified by [[deetz-james|James Deetz]]'s model of successive "world-views"/cultural grammars ([[deetz-in-small-things-forgotten-study]]), which posits that groups sharing an underlying "world order" produce regular, predictable architectural forms. Hall held this fails on two counts: it cannot explain historical change, and it does not account for significant divergence between cases (Virginia's restrained gentry architecture versus the Cape's ornate baroque gables) despite a shared underlying order. Quote: "structuralism fails because it is unable to explain change — and therefore history — within its own set of theoretical propositions... a structuralist world is a world without history." Hall further argued Deetz's structuralism is internally inconsistent: to explain observed change (coexistence and blending of "older" and "Georgianized" house styles), Deetz "grafts on" a contradictory diffusionist/"infection" metaphor of cultural flow (citing Appadurai 1996) incompatible with a model of subliminal, generation-spanning grammars — "how could this be, if the two traditions of building were the consequence of ingrained, subliminal structures of paired oppositions that had been passed down through the generations?" Hall proposed a Foucauldian/discourse-based alternative, attributing cross-case similarities to a shared discourse of European merchant capitalism rather than a universal structuralist "order." See [[theory-in-historical-archaeology-debate]]; study [[hall-archaeology-modern-world-study]].
 
 ## Reflexivity
 

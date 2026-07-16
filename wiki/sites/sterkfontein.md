@@ -13,8 +13,8 @@ cultures: [australopithecus, oldowan-industry, acheulean-industry, homo-habilis]
 excavated_by: [Robert Broom, John T. Robinson]
 excavation_years: "1936–1948 (Broom/Robinson); later campaigns continued after Klein 1999"
 key_finds: ["Mrs. Ples (near-complete A. africanus cranium)", "Little Foot (articulating ankle/toe bones, Member 2)", "Oldowan and Early Acheulean stone artifact assemblages (Member 5)", "Homo habilis/H. ergaster specimens (Member 5)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, early-prehistory, southern-africa]
 ---
 
@@ -35,3 +35,9 @@ Sterkfontein anchors the southern African record of [[australopithecus|Australop
 Which hominin made the Member 5 Oldowan and Early Acheulean tools is contested. Klein argues that Homo produced most if not all of the stone tools found at Swartkrans, Sterkfontein, Olduvai Gorge, and other sites where [[australopithecus|Paranthropus]] and Homo overlapped, based largely on the disproportionate (roughly 97%-to-3%) ratio of robust-australopithecine to Homo fossils at such sites and on Paranthropus's apelike thumb-metacarpal morphology (as of [[klein-human-career-1999]]); the attribution remains circumstantial rather than directly demonstrated.
 
 Sterkfontein is discussed in [[klein-human-career-1999]] ([[klein-richard]]) alongside the neighboring sites of [[hadar]] and [[olduvai-gorge]] as part of the southern and eastern African australopithecine record.
+
+## Oxford Handbook densification (Mitchell & Lane 2013)
+
+*Attributed — Sahnouni, Semaw & Rogers (Ch. 22), Domínguez-Rodrigo (Ch. 21), Foley (Ch. 20), Connah (Ch. 2) in [[mitchell-lane-oxford-handbook-african-archaeology-2013]]; **as of handbook ~2012**.*
+
+Sahnouni et al. contrast southern African stone-tool geography: the **Oldowan is restricted to Sterkfontein and Kromdraai B**, whereas the **Acheulean is widespread** across southern Africa. Sterkfontein Valley may hold possible Early Acheulean 1.7–1.4 mya with few diagnostics; absolute dates remain sparse relative to East African radiometric sequences. Domínguez-Rodrigo includes Swartkrans (South) among Oldowan sites; Maker authorship of Member 5 tools remains open (Homo vs contemporaneous robust australopithecines — **position**, not identity). Connah situates South African australopithecine discoveries (Dart, Broom; acceptance only late 1940s) in the colonial/external-funding history of African palaeoanthropology. Four-way non-identity: cave fill, industry labels, and fossil taxa are separate evidence classes; do not equate “Sterkfontein culture” with a people or language.

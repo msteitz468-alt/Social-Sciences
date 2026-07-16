@@ -10,7 +10,7 @@ trained: ["[[unknown]]"]
 key_works: ["The Moral Economy of the Peasant (1976)", "Weapons of the Weak (1985)", "Domination and the Arts of Resistance (1990)", "Seeing Like a State (1998)", "The Art of Not Being Governed (2009)", "Against the Grain (2017)"]
 key_concepts: ["[[everyday-forms-of-resistance]]", "[[weapons-of-the-weak]]", "[[calculated-conformity]]", "[[moral-economy]]", "[[hidden-transcript]]", "[[public-transcript]]", "[[infrapolitics]]", "[[legibility]]", "[[high-modernism]]", "[[nonstate-spaces]]", "[[grain-hypothesis]]", "[[domus-complex]]", "[[zomia]]", "[[state-evasion]]", "[[escape-agriculture]]", "[[shatter-zone]]"]
 fieldwork_sites: ["Sedaka (pseudonym), Kedah, Malaysia — Weapons of the Weak fieldwork 1978–80", "Southeast Asia (Malaysia, Burma/Myanmar region; highland/Zomia program)"]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-15
 tags: [thinker, political-anthropology, political-science]
 ---
@@ -36,6 +36,10 @@ Theoretical sequel generalizing the Sedaka triangulation method into a comparati
 ### Peasant resistance (*Weapons of the Weak*, 1985)
 
 Primary-ingested village ethnography of class struggle in the pseudonymous Malay rice village [[sedaka|Sedaka]] (Kedah, Muda Irrigation Scheme; fieldwork 1978–80; change frame 1967–1979). Scott argued that most subordinate-class politics is [[everyday-forms-of-resistance]] — foot-dragging, dissimulation, pilfering, slander, sabotage, and related Brechtian tactics — rather than open rebellion. He coined the tactical inventory [[weapons-of-the-weak]], documented [[calculated-conformity]] and partial public transcripts, and rethought [[hegemony]] / [[false-consciousness]] from below: the poor of Sedaka, he held, understood exploitation, contested it ideologically, and resisted it cautiously while Green Revolution mechanization shifted relations from exploitation-with-interdependence toward marginalization. Study: [[scott-weapons-of-the-weak-study]]; hub: [[hubs/studies/scott-weapons-of-the-weak-study]]. Companion un-ingested: *The Moral Economy of the Peasant* (1976); theoretical sequel now vault-primary: *Domination and the Arts of Resistance* (1990).
+
+### Archaeological extension (Hall 2000)
+
+Archaeologist [[hall-martin|Martin Hall]] (*[[hall-archaeology-modern-world-2000|Archaeology and the Modern World]]*, 2000) extended Scott's [[public-transcript]]/[[hidden-transcript]] pair from Scott's own speech-and-gesture evidence to material culture and architecture in colonial South Africa and the Chesapeake, arguing that resistance leaves a legible "impress" on the dominant material/documentary record even where the subordinate voice itself is not directly recoverable — "like deducing the impact of a fist that remains on a sandbag" (attributed, Hall 2000). Hall used the pairing as his book's central analytical device for reading discordance between documentary and archaeological evidence classes as itself interpretively significant (see [[documentary-archaeology]]), rather than as Scott's own case.
 
 ### Deep-history statecraft (*Against the Grain*, 2017)
 

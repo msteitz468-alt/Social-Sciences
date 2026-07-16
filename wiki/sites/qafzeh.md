@@ -13,8 +13,8 @@ cultures: ["[[anatomically-modern-humans]]", "[[neanderthals]]"]
 excavated_by: ["René Neuville (1933–35)", "Bernard Vandermeersch (1965–79)"]
 excavation_years: "1933–1935; 1965–1979"
 key_finds: ["Largest early modern sample worldwide (as of S&G 1993); Qafzeh 9 double burial; Qafzeh 11 child with deer skull/antlers; Middle Palaeolithic industry"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, near-east, late-prehistory]
 ---
 
@@ -83,3 +83,13 @@ in the sense that all living people are") — a key plank of his anatomy-before-
 **Symbolism ~100 ka.** Pierced shells and red ochre potentially associated with modern burials; one child covered by huge deer antlers; possible woman+child double burial. Together with Skhul, these are Stringer’s oldest accepted **symbolic burials** (as of 2012). Armitage et al. at Jebel Faya (UAE) tools look “African” and unlike contemporaneous Skhul/Qafzeh industries — possible separate early Arabia vs Levant dispersals of uncertain fate (position).
 
 **Behavioural modernity debate.** Klein treats Qafzeh/Skhul as anatomically modern but behaviourally like Neanderthals (MP industry); Stringer records expanding MSA symbolic evidence (Blombos, shells, ochre) that challenges Klein’s hard ~50 ka neural event while still distinguishing early Levantine moderns from later European figurative art (~40 ka). EQ peak (~5.3–5.4) shared with Cro-Magnons. Possible early admixture window with Neanderthals in the Levant ~120 ka floated for the autosomal ~2% signal.
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*Source: [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]. **As of Tattersall 2012.***
+
+**Assemblage mix.** After Omo/Herto, growing African inventory of unequivocal modern morphology; none indisputably as early as the more/less complete skeleton buried ≥**100 ka** (latest reckoning in his text) at Jebel Qafzeh — clearly *H. sapiens*, as is an adolescent nearby. **Same site:** larger numbers of big-brained hominids that are **not** standard *H. sapiens* and **not** Neanderthals. All associated with [[mousterian-industry]] kits more or less identical to those of Neanderthals documented in Israel the same period (Neanderthal sites in the region from at least ~160 ka to ~45 ka). Thoroughly anatomically modern Qafzeh individuals reinforce a mixed/newly mixing population notion and local association of anatomical moderns with Mousterian — **industry ≠ species** (attributed).
+
+**Identity options (positions).** Brushing nonstandard forms under “archaic *H. sapiens*” evades the issue. Possibilities Tattersall weighs: (1) entirely distinct lineage otherwise unrecorded; (2) “more intriguing”: curious anatomy from interbreeding between moderns and N. African Aterian-like populations ([[jebel-irhoud]], Dar-es-Soltan) — **not** with Neanderthals. Dual-corridor greened-Sahara scenario ~120 ka (Aterians east then north; sub-Saharan Nile corridor) offered as speculative encounter frame; future DNA may test (as of 2012 hope).
+
+**Behaviour and failed foray.** Whoever the Qafzeh moderns were, not demonstrably behaving significantly differently from Neanderthals. Early anatomical moderns’ foray outside Africa ultimately unsuccessful; by ~60 ka Neanderthals seem back in charge of the Levant until much later cognitive/technological superiority. Initial excursion fortuitous under benevolent climate; later retreat/local extinction quite likely under extreme aridity ~60 ka cold snap. Rapid world takeover awaited symbolic behaviour patterns (**thesis**). See [[skhul]], [[homo-sapiens]], [[behavioral-modernity]], [[global-colonization]].

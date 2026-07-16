@@ -5,7 +5,7 @@ disciplines: [archaeology]
 era_origin: critical-turn
 date_origin: "1975 (Moseley monograph); restated in Moseley 1992/2001 synthesis; multi-national 1960s precursors"
 originated_by: ["[[moseley-michael]]"]
-key_texts: ["Moseley, The Maritime Foundations of Andean Civilization (1975)", "Moseley, The Incas and Their Ancestors (1992; rev. 2001)"]
+key_texts: ["[[moseley-maritime-foundations-1975|Moseley, The Maritime Foundations of Andean Civilization (1975)]]", "Moseley, The Incas and Their Ancestors (1992; rev. 2001)"]
 core_claims:
   - "Moseley and 1960s multi-national scholars argued that exceptionally rich, accessible marine resources on the arid Peruvian coast could sustain sedentism, population growth, large communities, and monumental construction without a primary dependence on intensive irrigation agriculture."
   - "Moseley framed Maritime-Oasis lifeways as a developmental trajectory parallel to Arid Montane highland trajectories, not a dead-end prelude to 'real' civilization."
@@ -14,8 +14,8 @@ core_claims:
 developed_from: ["[[coastal-adaptation]]", "coastal midden archaeology", "1960s Andean/American/Soviet maritime hypotheses"]
 competes_with: ["agriculture-first models of civilization origins", "interior Norte Chico primacy / Supe managerial-elite models (Shady)"]
 status: contested
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [theory, archaeology, andes]
 ---
 
@@ -59,6 +59,19 @@ Preceramic civic-ceremonial centers between Chicama and Chillón (Huaca Prieta, 
 
 At contact, fishing and farming were separate symbiotic livelihoods (lunar/tide vs solar/rainfall schedules). Net intensification tied to cotton cultivation and reed boats. Few interior Preceramic sites except Supe — floodplain farming often intermittent/seasonal from shore settlements. Exception: inland Supe springs and shallow-incised river supporting early simple irrigation.
 
+## The 1975 primary argument (Moseley, MFAC)
+
+*(From primary ingest of [[moseley-maritime-foundations-1975]]; the study-act analysis is at [[moseley-maritime-foundations-study]]. All attributed to Moseley 1975.)*
+
+The 1975 monograph makes the case on the [[ancon|Ancón–Chillón]] central coast and the northern mound sites, with a theoretical Epilogue that is the hypothesis's original engine:
+
+1. **Against the agriculture-first axiom.** Moseley calls the maxim "that only an agricultural economy can support the foundations of civilization" *inoperative* for coastal Peru, and warns against reading Andean development by analogy to Mesoamerica/Mesopotamia (a frame he attributes to [[lanning-edward|Lanning 1967]]).
+2. **Demographic deviation, not a prime mover.** A positive-feedback model — population grows to the food limit; a new resource that supports further growth becomes locked into subsistence — drives the lomas-foraging → fishing → farming shift. Advanced explicitly against Lanning's lomas-desiccation "prime mover" and against a "Protestant-ethic" more-food-for-less-labor account.
+3. **Industrial cultigens carry Preceramic farming.** Cotton (nets, line) and gourd (net floats, containers) are the non-food cultigens that mattered; food crops were minor, and maize is absent or negligible in the middens. [[rio-seco|Río Seco]] (cultivation impossible) still bears mounds — a maize-free control against minor-maize [[aspero|Aspero]].
+4. **Preadaptation.** The three requirements for opening the desert — cultivated plants and knowledge, a work force, and mobilizing institutions — each existed *before* agricultural dependence, so irrigation developed unusually fast rather than through a slow feedback loop.
+5. **Corporate authority precedes irrigation.** "Corporate authority was highly evolved among the maritime societies… before the advent of canal irrigation." Moseley inverts the hydraulic model: managerial authority arose from *voluntary* submission among autonomous fishermen, then took control of irrigation, so autonomous farming villages never formed and control of water gave that authority "totalitarian powers." (Engages the Wittfogel-type irrigation→state literature without naming it; see [[state-formation]].)
+6. **Corporate architecture and church/state.** Two Preceramic corporate-architecture traditions — platform/temple mounds (Aspero, Río Seco, Piedra Parada) and the compartmentalized room-and-court form ([[el-paraiso|El Paraíso]]) — imply, for Moseley, that theocracy did *not* demonstrably precede secular government; he doubts the maritime folk drew a church/state distinction at all.
+
 ## Method Commitments
 
 Ecological-adaptive explanation; settlement and midden evidence; bone chemistry; ethnohistoric/modern fishery productivity as analogy (flagged); chronology as of Moseley 2001. Climate and sea-level change treated as contributors/constraints, not sole causes of complexity.
@@ -87,4 +100,4 @@ Still cited as a classic middle-range hypothesis in Andean textbooks; empirical 
 
 MFAC is a coastal-fieldworker’s corrective to highland- and agriculture-centric narratives — production context (Peruvian coastal projects of the 1960s–70s) shaped the problem definition. Modern fishmeal revenue and commercial anchovy tonnages used as productivity illustrations risk anachronism if read as Preceramic harvest figures; Moseley offers them as upper-bound ecological capacity. The hypothesis can be over-read as denying early cultivation; Moseley’s own formulations allow industrial and complementary plant use and Supe exchange systems.
 
-Sources: [[moseley-incas-and-their-ancestors-2001]] · [[scarre-human-past-2013]] · [[moseley-michael]] · [[coastal-adaptation]] · [[caral]] · [[el-paraiso]] · [[aspero]]
+Sources: [[moseley-maritime-foundations-1975]] · [[moseley-incas-and-their-ancestors-2001]] · [[scarre-human-past-2013]] · [[moseley-michael]] · [[coastal-adaptation]] · [[caral]] · [[el-paraiso]] · [[aspero]] · [[ancon]] · [[rio-seco]] · [[huaca-prieta]]

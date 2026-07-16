@@ -11,8 +11,8 @@ driven_by: ["[[unknown]] — Wrangham treats capture/maintenance as historically
 produces: ["cooked food", "camp aggregation", "evening meals after dark", "claimed predator deterrence and ground sleep"]
 theorized_by: ["[[wrangham-richard]]", "[[cooking-hypothesis]]"]
 key_studies: ["[[wrangham-catching-fire-2009]] (synthesis, not a primary excavation report)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [phenomenon, deep-time]
 ---
 
@@ -65,3 +65,15 @@ locally concentrated and with no associated hearths — and does not accept secu
 routine, controlled hearth fire until considerably later in the *Homo erectus*/archaic-*Homo*
 record. This tempers strong readings (e.g. [[cooking-hypothesis|Wrangham's]]) that place habitual
 cooking-grade fire at the base of the genus (see [[cooking-hypothesis-debate]], [[swartkrans]]).
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*(Attributed — [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]; as of Tattersall 2012.)*
+
+**Chronology (as of 2012).** Tattersall’s timeline lists earliest domesticated fire in hearths at **~790 ka**. In the body he states there is **no good evidence for controlled fire before about 800 thousand years ago**, and regular cooking fires only well after that — so cooking **cannot** explain early (Oldowan-era) meat processing. Ambiguous early burned objects he reviews: singed bones ~1.8 Ma at [[swartkrans]]; scorched clay balls ~1.4 Ma at Chesowanja — campfire temperatures possible but “hard to see… as definitive evidence of controlled fire.” Earliest substantial hearth ash layers: **~800-ka Israeli site** (Gesher Benot Ya’aqov in standard literature; Tattersall’s “800-thousand-year-old site in Israel”); then multi-hundred-ka gap before further hearth evidence, often opportunistic not habitual.
+
+**Cooking arguments.** He reports cooking’s virtues for small-gut primates: eases chewing and nutrient extraction, kills toxins, extends edibility — raw meat poorly digested by primate guts (chimps excrete undigested bits). For *H. ergaster*, direct fire-control evidence is almost entirely circumstantial, yet he finds a “**mildly compelling**” case that food was cooked; fire argued as the only thing that could have rendered the open-savanna lifestyle possible — predator deterrent and possible driver of huddling sociality/cooperativeness. **POSITION**, not archaeological demonstration for *ergaster*-grade cooking.
+
+**Later solidification.** Terra Amata (~380 ka) hearth with blackened cobbles and cooked animal bones: “perhaps the oldest firm evidence we have for the domestication of fire following that extraordinary 800-thousand-year-old outlier in Israel,” announcing fire as a regular part of the documented behavioral repertoire; from then hearths increasingly common (associated with [[homo-heidelbergensis]]-grade occupations in his narrative).
+
+**Relation to debate.** Tattersall’s ~800 ka archaeological threshold (as of 2012) aligns with late/minimalist archaeological readings against Wrangham-style ~1.9–1.8 Ma biological dating — while still allowing a circumstantial *ergaster* cooking thesis. See [[cooking-hypothesis-debate]], [[homo-erectus]], [[homo-heidelbergensis]].

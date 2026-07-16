@@ -7,8 +7,8 @@ date_introduced: "reconnaissance longstanding; regional settlement-pattern surve
 supersedes: ["[[unknown]]"]
 epistemic_leverage: "Discovers and maps sites, scatters, and landscape features across regions without (or before) excavation; builds settlement-pattern and off-site datasets; relatively cheap, quick, and non-destructive; repeatable."
 key_limitations: "Surface visibility bias (vegetation, land use, sedimentation); sampling design choices; observer skill; surface–subsurface links debated especially on multi-period sites; does not by itself provide full depth, absolute date, or complete assemblage composition."
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 6
+last_updated: 2026-07-15
 tags: [method]
 ---
 
@@ -103,6 +103,27 @@ As reported in Renfrew & Bahn 2012:
 - **Settlement hierarchy / XTENT / viewsheds** — analytic uses of survey maps for social archaeology (Warka; Wessex long barrows).
 
 
+### The Diyala survey (Jacobsen 1936–37; Adams 1957–58) — the Mesopotamian method charter
+
+*Land Behind Baghdad* ([[adams-land-behind-baghdad-1965]]; study
+[[adams-land-behind-baghdad-study]]) is the founding procedural statement of
+Mesopotamian regional surface survey; its Appendix A ("Methods of Topographic
+Archaeology") is the method's charter. [[jacobsen-thorkild|Jacobsen]]'s 1936–37
+reconnaissance (119 sites) established the two founding principles — sites lie
+close to the watercourses they depended on, so vanished canals can be plotted
+from site positions; and occupation periods can be read from surface remains.
+Adams's 1957–58 single-season survey scaled this to ~8,000 sq km and 867 sites:
+Land Rover transects along levee crests, prismatic-compass triangulation,
+systematic surface collection processed at the Khafajah base camp (with Fuad
+Safar), dating by ceramic index fossils against the pre-war Oriental Institute
+Diyala excavations, and follow-up re-traverses reading canal succession from
+superimposed levees and offtake brick sizes. Adams stated the limitations
+himself: abandonment evidence is more reliable than early-growth evidence;
+coverage "essentially complete" only for the southern half or two-thirds (upper
+Khalis canal unvisited); alluviation buries early sites under up to 10 m of
+silt; length-×-breadth site areas run ~20% high; up to twenty sites/day in open
+terrain, far fewer in cultivation or after rain.
+
 ### Mesopotamian regional survey (Adams 1981)
 
 [[adams-robert-mcc|Robert McC. Adams]]'s *[[adams-heartland-of-cities-1981|Heartland of Cities]]* is a landmark application of multi-period ceramic surface survey + aerial photograph interpretation on the central Euphrates floodplain (study: [[adams-heartland-of-cities-study]]). Key design elements Adams reports:
@@ -123,10 +144,71 @@ As reported in Renfrew & Bahn 2012:
 - **Predictive GIS models** vs charges of environmental determinism; cultural/social landscape variables map poorly.
 - **CRM inventory vs research design** tension: compliance recording vs question-driven regional inquiry.
 - **Publication obligation.** All survey effort is largely wasted unless results are published (interim then full monograph)—Renfrew & Bahn’s closing field-process norm.
+- **Probability vs “hunch” sampling (Flannery ed. 1976).** Formative Mesoamerica debate over purposive reconnaissance vs probabilistic designs; Plog’s Oaxaca efficiency experiment and Flannery’s “Trouble with Regional Sampling” (detail below).
+
+## From Flannery (ed.) 1976 — Plog efficiencies and “The Trouble with Regional Sampling”
+
+All claims attributed to Stephen Plog and Kent V. Flannery in *[[flannery-early-mesoamerican-village-1976|The Early Mesoamerican Village]]* (1976 Ch. 5); study [[flannery-early-mesoamerican-village-study]]. Related: [[settlement-pattern-archaeology]], [[processual-archaeology]].
+
+### Plog — relative efficiencies of sampling techniques
+
+Plog evaluated four Haggett designs against real Valley of Oaxaca intensive survey data (summer 1970 blocks: Etla 18 km² / 17 sites; Zaachila 54 km² / 21; Valdeflores 55 km² / 33 — field-by-field walk; NSF GY-7576):
+
+| Design | Procedure (as Plog operationalized after Haggett/Berry) |
+|---|---|
+| Simple random | N individuals at random coordinate pairs |
+| Stratified | Area divided into segments; independent draws per segment (here systematic geographic equal-size strata, not purposive environmental strata); sampling fraction n/N held equal across strata |
+| Systematic | Grid of equally spaced locations; randomized origin |
+| Stratified systematic unaligned | Composite (Berry 1962) combining randomization, stratification, and systematic aspects while avoiding alignment / periodicity error |
+
+**Units:** **quadrats** (0.5 km and 1.0 km side) and **transects** (75 m half-width corridors lines 150 m apart; 150 m half-width lines 300 m apart). All four designs with quadrats; stratified systematic unaligned not possible with transects as structured. Point samples excluded as travel-time inefficient. Target intensity ~10% (10–11.1%). Estimand: total number of sites in each block (not period-specific). Efficiency = comparative precision (smaller squared standard error); F-tests on variances of distributions of sample estimates (groups of up to 100 predictions per design×method×unit-size); typically 200 samples per method.
+
+**Key findings (Plog, Oaxaca data — single-study experiment):**
+
+- Design rankings from non-archaeological land-use/forestry tests **do not fully hold**.
+- **Stratification** gave the most consistent (but small) precision gains over simple random (greater precision in 9 of 12 cases); none of 12 F-ratios significant at .05.
+- **Systematic** designs: less consistent gains (7 cases better); only 2 statistically significant; precision highly variable (highest and lowest ratios both involve systematic).
+- **Stratified systematic unaligned:** **no gain** in efficiency — higher squared SE than stratified in 5/6 cases, than systematic in 4/6; little different from simple random.
+- **Smaller sampling units more efficient than larger** in all 21 size-ratio cases; most F-tests significant; mean gain especially large for systematic samples.
+- **Transects more efficient than quadrats** in 75 of 78 cases; when unit counts more equivalent (Zaachila large quadrats n=54 vs small transects n=60), ratios 1.70 / 2.19 / 5.41 all significant. Field disadvantage of transects: hard to keep a straight course across obstacles (e.g. rivers).
+- **Leverage ranking:** (1) decrease sampling-unit size; (2) use transects rather than quadrats; (3) change sampling **design** only third.
+- Naïve estimator (sites in sample × N/n) **overestimates** when large sites span multiple units — apportion site area across units for unbiased totals. Monte Albán (8 km²) was not found in any of Plog’s samples — unique, like Teotihuacan in the Mayer-Oakes–Nash experiment.
+- Under approximately random site distributions, different designs have approximately equal squared SEs (Berry & Baker hypothesis supported: 42 of 51 non-population-pair ratios statistically equal).
+- Clustered settlement (NN ≈ 0.55) decreases precision; hexagonal/linear arrangements increase it.
+- For unknown areas, **simplest designs may be most practical**; still, probability sampling remains critical to avoid selection bias and know reliability. Open: whether relative precision varies with sample **intensity**.
+
+Flannery’s editorial preview: simplest/least sophisticated techniques give results that do not differ significantly from more complex ones.
+
+### Flannery — “The Trouble with Regional Sampling”
+
+Flannery framed traditional Mesoamerican reconnaissance as Haggett’s **“purposive” or “hunch” sampling** — strongly determined by roads, clearings, guides, mound visibility. His ranked preferences: (1) if possible, survey the entire region meter-by-meter; (2) if only a partial sample is feasible, use probability sampling so reliability can be assessed. Through the volume’s R.M.A./S.G.S. dialogue he recorded the standing split: traditionalists (probability sampling as waste of energy, too slow, less reliable than intuition, inapplicable to complex societies) vs Binford-aligned positions (probability sampling is **not a discovery technique** for maximizing finds but the way to get a **representative sample** with definable confidence when full survey is impossible; 20% stratified random recovering site-type proportions like Sanders’ total universe as confirmation).
+
+**R.M.A. objections Flannery stages against Plog:** (1) what if you miss Teotihuacan; (2) how to sample Gulf Coast jungle / Petén rainforest. Flannery answered that Plog’s tests ran in ideal semi-arid highland conditions; sampling lowland Maya jungle by 0.5 km² quadrats would “border on lunacy.” Only practical hope for probability sampling in tropical wilderness: **transect** samples — Petén trail surveys (Bullard 1960) and Tikal brecha strips (Puleston & Callender 1967) are transect-like but not formal probability samples of a bounded universe. **Hybrid recommendation:** traditional survey by experienced archaeologist for metropolis/medium mound sites **plus** concurrent stratified random sample (e.g. 20% by small quadrats) for estimating small-site frequencies and environmental strata — the dual strategy Renfrew & Bahn later echo as the “Teotihuacan effect” caution.
+
+Applicability of probability sampling, Flannery argued, depends on knowledge state: limited knowledge → systematic random sample justified; with prior knowledge, “instincts” may identify a “really great site.” The Detroit AAA 1964 aftermath left the field split with “no hope of rapprochement” between instinct-vindicated traditionalists and confidence-interval defenders.
+
+## From Sanders, Parsons & Santley 1979 — The Basin of Mexico full-coverage decision
+
+All claims attributed to [[sanders-parsons-santley-basin-of-mexico-1979]] (study: [[sanders-basin-of-mexico-study]]) unless noted. The Basin of Mexico Survey Project (1960–1975, ~65 fieldworkers, ~50 field-months) chose **100% pedestrian survey coverage** over sampling for the entire 15-year span, a decision the authors defend at length: the Basin's environmental heterogeneity undermines confident stratification; the region held large, internally heterogeneous, politically centralized societies whose rare "central places" (small Aztec provincial centers of only 30–200 ha, not visually obvious on the ground) could be missed by fractional sampling; highly localized resource distributions (clays, obsidian, basalt, water) could bias a sample; negative survey data (confirmed absence of sites) is only reliable under complete coverage; and settlement location is itself partly determined by the location of other settlements — an emergent regional property sampling cannot anticipate.
+
+They explicitly critique **Willey's Virú Valley project** (1953), the methodological precedent they otherwise modeled themselves on: Virú's reliance on aerial photography to locate sites produced a settlement sample biased toward locations with surface-visible architecture, a bias the Basin project's poorer architectural preservation made them determined to avoid. The authors also record their **non-engagement with the sampling-theory literature**: Vescelius' (1960) probability-sampling paper appeared at the project's outset but they were unaware of it; the "sampling revolution" launched by Binford's 1964 article postdated their basic design and they state they were "not involved in the making of that revolution." Kent Flannery (1976) is cited approvingly for the view that a capable field archaeologist would not miss a Teotihuacan or a Tula.
+
+**Field procedure evolved substantially over the project's life.** A 1960 pilot (field-by-field survey from modern-field units on airphotographs) proved too slow; 1961–62 shifted to small-team "general survey" via broad traverses guided by 1:25,000 airphotographs; 1963–64 added a specialized "intensive survey" stage (chronology-specialist teams, 1:5000 airphotographs) but ran into practical failures (survey parties too small to carry surface-pottery loads; difficulty relocating sites plotted at 1:25,000 scale; many sites missed by the earlier general-survey pass). By 1967 (Parsons' Texcoco survey) the general-survey stage was dropped entirely in favor of direct intensive survey by teams of two-to-four archaeologists plus a local workman. The standardized procedure from 1967 on used a **"centerman"** carrying a 1:5000 airphotograph on a plywood board while the team walked in tandem (spacing 15–75 m, terrain- and wind-dependent), calling in pottery density/chronology for direct coding on the photograph; precise sherd-counting per square meter was tried and abandoned as unproductive in favor of subjective visual density grading. The 1974–75 Cuautitlán–Tenayuca–Temascalapa surveys added per-field survey schedules for finer "ecological control."
+
+**Survey-factor reliability** (per-zone detection rates, derived from comparing survey-based Late Aztec population estimates against 16th-century tax-census figures, corroborated by burial-density vs. surface-density comparisons): overall ~80% of spatially isolatable communities detected in the intensively surveyed area; ~80%+ in piedmont/northern Basin; as low as ~20% in the alluvial zone immediately around Mexico City; ~40–50% in the Teotihuacan/Cuautitlan alluvium; ~50–60% in the Texcoco/Ixtapalapa/Chalco/Xochimilco alluvium; ~80% on the Chalco-Xochimilco lakebed; **under 10%** for the Lake Texcoco/Xaltocan lakebeds. About 3,500 km² (~75–80% of agriculturally usable Basin land) was ultimately surveyed; the northeastern Pachuca region and the Tacuba region (now under Mexico City) remained unsurveyed gaps.
+
+## Highland Oaxaca full-coverage survey program (Blanton, Feinman, Kowalewski & Nicholas 2022)
+
+*(Attributed — Blanton, Feinman, Kowalewski & Nicholas, [[blanton-ancient-oaxaca-2022|Ancient Oaxaca: The Monte Albán State]], 2nd ed., 2022.)*
+
+The 2022 synthesis defines **full-coverage regional settlement-pattern survey** as a systematic method in which surveyors walk every accessible area (fields, hills, ridges, streets, yards) without gaps or sampling, over an area large enough to encompass a self-sustaining settlement system, recording settlement distribution, agricultural features, fortifications, roads, boundary markers, public architecture, monuments, dwellings, and artifact inventories. The authors describe highland Oaxaca's combined full-coverage datasets (Valley of Oaxaca, Nochixtlán Valley, Mixteca Alta, and adjacent areas — see [[blanton-richard]], [[kowalewski-stephen]]) as "one of the largest 'macroregional' archaeological datasets in the world," while flagging a chronology-resolution caveat: three Mixteca Alta surveys were completed before the local ceramic chronology had been refined to distinguish some critical phases.
+
+For **regional population estimation** the book reports two standard methods used across the survey program: (1) counting visible house foundations and multiplying by an average of 5–10 persons per house, based on historical/recent Mesoamerican figures (e.g., Blanton 1978:29–30); and (2) measuring settlement area from sherd-scatter extent and multiplying by an estimated density of 10–25 persons per hectare (up to 100/ha for very dense sites), following Parsons 1971, Sanders 1965, and Blanton, Kowalewski, Feinman, and Appel 1982:10–12. Both methods are explicitly flagged as imprecise — site-boundary ambiguity, multi-period overlap, and non-contemporaneous occupation within a ceramic phase all bias the estimates — but are treated as the best available method absent census data (Drennan, Berrey, and Peterson 2015). Civic-ceremonial hierarchy dating in the Valley of Oaxaca relies heavily on surface and construction-fill potsherds, since most Rosario-phase and Period I buildings are buried by later construction; dating resolution improves for buildings nearer the surface (Late Period I onward). The survey mapped roughly 2,000 platform mounds in the Valley of Oaxaca, of which only a small sample has been excavated.
 
 ## Related
 
 - [[aerial-archaeology]] · [[remote-sensing]] · [[geophysical-survey]] · [[stratigraphic-excavation]]
 - [[provenience]] · [[archaeological-site]] · [[archaeological-feature]] · [[artifact]]
 - [[cultural-resource-management]] · [[processual-archaeology]] · [[ethnoarchaeology]]
-- Source synthesis: [[renfrew-bahn-archaeology-2012]]
+- [[settlement-pattern-archaeology]] · [[site-catchment-analysis]]
+- Source synthesis: [[renfrew-bahn-archaeology-2012]] · [[flannery-early-mesoamerican-village-1976]]

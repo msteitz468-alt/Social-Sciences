@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "pelvic, femoral, and foot anatomy (femoral-head/neck proportions, foot-bone morphology) read against the modern human striding gait as a benchmark"
 contested: yes
 related_concepts: ["[[food-sharing]]", "[[hunting-hypothesis]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -95,3 +95,17 @@ competes with the more monocausal Washburn tool-use hypothesis. The Darwin
 canine-reduction argument is praised for its timing but its proposed causal mechanism
 (tools replacing teeth as weapons) is explicitly rejected by the authors as reversing
 the true sequence of hominin adaptation.
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*(Attributed — [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]; as of Tattersall 2012.)*
+
+**Criterion and wooded habitats.** After big-brain and “Man the Toolmaker” yardsticks faltered, paleoanthropology returned full circle to Dubois: the most common claim uniting touted “earliest hominids” is bipedal ground walking. Tattersall’s key empirical warning: known “very early hominid” fossils come from **thickly wooded or mixed habitats**, not open grassland — they were “not obliged to walk upright by disappearance of ancestral habitat.” Forest fragmentation still pressured more terrestrial life, but leaving trees was a “huge leap in the dark” (predator exposure, new foraging).
+
+**Rejection of single “key benefit” stories.** He reviews and largely rejects monocausal drivers: energetics inconclusive / early inefficient bipeds unlikely to have chosen upright walking for economy; thermoregulation/hair-loss slain by wooded associations (bipedality before full tree abandonment); Serengeti-style predator-spotting disposed of because Pliocene habitats were more closed; fruit-picking does not require full-time bipedality; monogamy/provisioning/concealed-ovulation models clash with marked early sexual dimorphism. Darwin’s tools/carrying conjecture is “sad for the original conjecture” because hominids were bipedal long before toolmaking.
+
+**Pre-existing upright / exaptive thesis.** Core Tattersall thesis: abandon the single key-benefit frame; the first ground bipeds were already most comfortable standing and moving upright — descended from Miocene hominoids that habitually held the trunk erect in trees (e.g. *Pierolapithecus* ~13 Ma Spain; *Oreopithecus*). African apes knuckle-walk because their ancestors were arboreal quadrupeds; early hominids were the opposite — quadrupedal ground movement awkward. This is an [[exaptation]] reading: pre-existing upright posture co-opted for terrestrial locomotion. Acquisition of an in-line terrestrial foot remains a fundamental mystery in his account.
+
+**Anatomical operationalizations he stresses.** Carrying angle (femur angles inward at knee) already in *A. anamensis* tibia — earliest undoubted specialized bipedality. *A. afarensis* (Lucy): short flaring pelvis, bipedal ankle, short climbing-advantageous legs, not Ardi-style grasping foot. Laetoli prints (~3.6 Ma): heel–side–ball–toe weight transmission, arched feet, short in-line big toe; experimental equal heel/toe depths argue straightened knee. Turkana Boy grade: **obligate** biped with long legs and near-modern proportions; ~1.5 Ma East Turkana footprints confirm long stride and basically modern foot. Versatility (ground bipedality + tree agility) as a stable long-term strategy for early bipeds, not a mere transition to obligate striding.
+
+See [[australopithecus]], [[laetoli]], [[hadar]], [[homo-erectus]], [[exaptation]].

@@ -4,9 +4,9 @@ dispute_type: "theoretical"
 disciplines: ["biological-anthropology", "cultural-anthropology"]
 era: ["postwar-expansion", "critical-turn"]
 positions: ["'Man the Hunter': hunting (a male activity) was the master adaptation driving human evolution — anatomy, psychology, family, and society", "'Woman the Gatherer': gathering (largely women's work) supplied most calories and is at least as plausible an engine of hominization; the hunting thesis reads a masculine ideal into human nature"]
-key_texts: ["Washburn & Lancaster, 'The Evolution of Hunting' (Man the Hunter, 1968)", "Slocum, 'Woman the Gatherer: Male Bias in Anthropology' (1975)", "Tanner & Zihlman, 'Women in Evolution' (1976)", "[[rosaldo-lamphere-woman-culture-society-1974|Rosaldo & Lamphere intro (1974) — early Woman-the-Gatherer preference]]", "[[wrangham-catching-fire-2009|Wrangham, Catching Fire (2009) — cooking as third pole]]"]
+key_texts: ["Washburn & Lancaster, 'The Evolution of Hunting' (Man the Hunter, 1968)", "Slocum, 'Woman the Gatherer: Male Bias in Anthropology' (1975)", "Tanner & Zihlman, 'Women in Evolution' (1976)", "[[rosaldo-lamphere-woman-culture-society-1974|Rosaldo & Lamphere intro (1974) — early Woman-the-Gatherer preference]]", "[[wrangham-catching-fire-2009|Wrangham, Catching Fire (2009) — cooking as third pole]]", "[[gilchrist-gender-and-archaeology-1999|Gilchrist 1999 ch.2 — archaeological densification]]"]
 resolution_status: "partially-resolved"
-last_updated: 2026-07-10
+last_updated: 2026-07-15
 tags: ["debate"]
 ---
 
@@ -93,3 +93,9 @@ its own androcentrism. Related: [[hunting-hypothesis]], [[sexual-division-of-lab
 **Third pole — cooking (Wrangham 2009).** *[[wrangham-catching-fire-2009|Catching Fire]]* does not simply pick Hunter or Gatherer: it accepts meat’s early role, stresses gathered staples and women’s processing labor, and argues **cooking** is the missing condition that makes either long male hunts or household food exchange viable. Domestic cooking’s near-universal female assignment is then linked to pair-bonds and patriarchy ([[cooking-and-pair-bonding]]). Treat as a separate evolutionary-social program in dialogue with this debate, fully recorded on [[cooking-hypothesis-debate]] — not as adjudication of Positions A/B above.
 
 **Archaeological extension — *Engendering Archaeology* (1991).** Position B’s corrective enters prehistoric method via [[feminist-archaeology]]: Watson & Kennedy (Eastern Woodlands horticulture) argue women as intentional plant domesticators against textbook sex-linked DoL and “shaman cultivator” innovation-to-men stories; Jackson (“Woman the Gatherer” banner) models Western Mono acorn production and bedrock mortars as women’s property structuring mobility and residence; Gero extends the critique to **Man-the-Toolmaker** ([[genderlithics]]). Source: [[gero-conkey-engendering-archaeology-1991]]. Not adjudication of A/B — densification of archaeological operationalizations of Position B–adjacent claims.
+
+
+## Archaeological densification — Gilchrist (1999)
+
+*(Attributed — [[gilchrist-roberta|Gilchrist]], *[[gilchrist-gender-and-archaeology-1999|Gender and Archaeology]]* ch.2.)* Gilchrist recapitulates the Man the Hunter lineage (Darwinian sexual selection, baboon models, Washburn-stream hunting as master adaptation) against Woman the Gatherer replies (Linton; Zihlman) and primatology’s late receptivity to female-centred models (Fedigan). She treats the debate as a textbook case of [[androcentrism]] in knowledge production. Archaeological application she highlights: Watson & Kennedy on Eastern Woodlands horticulture/maize — women gatherers as intentional acclimatisers of maize — versus Prentice’s high-status (male) innovator model; Gilchrist presents Watson & Kennedy as empirically grounded female-agency reconstruction resisting androcentric default.
+

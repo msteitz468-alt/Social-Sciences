@@ -13,8 +13,8 @@ cultures: ["Jarmo assemblage (Braidwood type early village-farming; not equated 
 excavated_by: ["[[braidwood-robert|Robert J. Braidwood]] / Oriental Institute; Iraq Directorate General of Antiquities suggestion 1948; multidisciplinary staff including zoology (Reed)"]
 excavation_years: "from 1948; three seasons by time of *Prehistoric Men* 3rd ed. 1959"
 key_finds: ["mud-walled (touf) village architecture ~20 houses / ~150 people estimate", "two wheats + barley (transitional morphology)", "flint sickles, querns, stone bowls", "goat domesticated; other taxa disputed (Reed)", "land snails", "pottery only upper third", "blade/microlith continuity", "obsidian from >300 miles", "pregnant figurines (unbaked clay)"]
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [site, neolithic, near-east, iraq]
 ---
 
@@ -72,3 +72,9 @@ Known largely through Braidwood program publications and textbook reception; thi
 - **Zagros PPNA-equivalent / early Holocene.** Little/no cultivation or herding at many sites; Ganj Dareh meat-dominated; Qermez Dereh/M’lefaat hunting + wild cereals/nuts; Asiab “proto-herding” goats re-read as selective hunting of male bands; Ganj Dareh goats: Hesse selective hunting of nursery herds, Zeder (2005) reanalysis suggests herd management of morphologically wild animals. Seasonal upland camps + more permanent lowlands = prerequisites of herding via close observation (attributed).
 - **PPNB sheep/goat horizon.** First widespread herding evidence at beginning of PPNB in Zagros/Taurus (Uerpmann via Barker): Ganj Dareh mortality + flattened horn cores + caprine footprints in mud brick; Ali Kosh second phase — the Zagros contribution to the mixed-farming package that later unites with southern Levant cereals (standard model Barker both reports and relativizes as “only a small part of the story”) (attributed).
 - **Jarmo’s place.** Classic Jarmo mixed farming village remains the historiographic emblem of Braidwood’s nuclear hilly-flanks programme; Barker’s synthesis embeds that programme in a longer multi-path process from Natufian/Zagros delayed-return collecting through PPNA/PPNB rather than a single-site “invention” event. Cross-links: [[animal-domestication]], [[braidwood-robert]], [[oasis-natural-habitat-debate]], [[natufian-culture]], [[barker-graeme]].
+
+## Nissen densification (1988)
+
+*(Attributed — [[nissen-hans-j|Hans J. Nissen]], *[[nissen-early-history-ancient-near-east-1988]]* 1988.)*
+
+Nissen reported that permanent settlement without pottery was first encountered at **Qabat/Qal’at Jarmo**: beneath five layers with limited simple pottery, eleven layers without pottery but with permanent settlement and a **high percentage of produced food** — more developed, in production share, than Beidha/Çayönü horizons he compared. He placed Jarmo among earliest pottery-Neolithic sites in Zagros valleys or valley exits (with Tepe Guran, Tepe Sarab, Ganj Dareh, Qal’e Rostam), still as **isolated settlements** far from peers, and as one of four Zagros early-ceramic groups sharing shapes/production methods but differing widely in decoration. Site ≠ people ≠ language ≠ genes. Source: [[nissen-early-history-ancient-near-east-1988]].

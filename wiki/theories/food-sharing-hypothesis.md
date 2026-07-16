@@ -10,8 +10,8 @@ core_claims: ["Homo, unlike the australopithecines, established fixed home bases
 developed_from: ["primatology and chimpanzee-sharing studies (Goodall)", "East African archaeological fieldwork (Koobi Fora, Olduvai)"]
 competes_with: ["[[hunting-hypothesis]]"]
 status: contested
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [theory, biological-anthropology]
 ---
 
@@ -97,11 +97,15 @@ signals the program's awareness of its own inferential distance from direct evid
 
 Within the source, the main rival is the [[hunting-hypothesis]], which the authors
 concede captures "an important part" of the picture but rank as secondary. Post-1977
-critiques of the home-base/food-sharing model exist in the wider literature — notably
-Lewis Binford's later taphonomic reanalysis of the same East African bone assemblages,
-arguing for scavenging rather than organized hunting/sharing at several purported
-home-base sites — but this critique is outside the 1977 source and is noted here only
-in passing, without invented detail.
+critiques of the home-base/food-sharing model are led by [[binford-lewis|Lewis Binford]]'s
+*[[binford-bones-1981|Bones: Ancient Men and Modern Myths]]* (1981), which reanalyzed the
+[[olduvai-gorge|Olduvai]] fauna with [[actualistic-studies|actualistic]] control data and
+argued the assemblages record hominid **scavenging** of marrow bones — not organized
+hunting or food-sharing at home bases — and that tool–bone association does not establish
+behavioral integration. Binford treated the model as an unwarranted projection of
+[[juhoansi|!Kung]] ethnography onto the deep past. The subsequent cut-mark evidence moved
+the field to a mixed / early-access position; see [[hunting-scavenging-debate]] and
+[[binford-bones-study]].
 
 ## Current Status
 

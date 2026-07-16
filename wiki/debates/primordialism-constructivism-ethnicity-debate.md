@@ -8,7 +8,7 @@ positions:
   - "Constructivist / organizational (Barthian): ethnic groups are categories of ascription maintained by boundary processes; cultural content is secondary and variable"
 key_texts: ["[[barth-ethnic-groups-boundaries-1969|Ethnic Groups and Boundaries (1969)]]", "[[appadurai-modernity-at-large-1996|Modernity at Large]] (1996), ch. 7 'Life after Primordialism'"]
 resolution_status: open
-last_updated: 2026-07-09
+last_updated: 2026-07-15
 tags: [debate]
 ---
 
@@ -57,6 +57,20 @@ matrix of large size, nationalist aspiration, and violence." His objections:
 This is a distinct dispute from Barth's: Appadurai grants boundary construction and
 adds that the constructor is increasingly the globalized nation-state and its
 diasporic counter-publics.
+
+## Position C — Yugoslav wars: "ancient ethnic hatreds" vs. elite-manipulation instrumentalism (as staged by Hall 2000)
+
+[[hall-martin|Martin Hall]], in *[[hall-archaeology-modern-world-2000|Archaeology and the Modern World]]* (2000), stages this same primordialist/constructivist split around competing explanations of the 1990s Yugoslav wars, without adjudicating between them himself in wiki voice, though he states his own sympathy with the instrumentalist side.
+
+**Primordialist framing.** Robert Kaplan's *Balkan Ghosts* (1994), explicitly following the route of Rebecca West's 1937 travel account *Black Lamb and Grey Falcon*, is presented by Hall as reviving a discourse of "ancient ethnic hatreds," in which Balkan violence is treated as tribal and near-inevitable; Hall notes this framing was reportedly influential on US foreign-policy thinking. A reviewer (Cooper 1993) is quoted calling the book "a dreadful mix of unfounded generalizations, misinformation, outdated sources, personal prejudices and bad writing." Maria Todorova (1994) is cited as naming this discourse "Balkanism" — structurally analogous to, but historically independent of, Edward Said's [[orientalism]]: the Balkans, "geographically inextricable from Europe, yet culturally constructed as 'the other,'" serve as "a repository of negative characteristics against which a positive and self-congratulatory image of the 'European' and 'the west' has been constructed" (Todorova 1994: 455).
+
+**Instrumentalist/constructivist framing.** Against the primordialist account, Hall draws on Malcolm (1996), Woodward (1995), and Denitch (1994) to argue that ethnic affiliation in Yugoslavia was "overtly manipulated in struggles for power" following Josip Tito's 1980 death, rather than expressing ancient, fixed hatreds. Evidence cited: in the last Yugoslav census before the wars, more than 25% of the population were members of intermarried families, and a significant share of urban residents declined ethnic or religious self-identification altogether. Slobodan Milošević is presented as having built his power base from 1986 as leader of the Serbian League by mobilizing Orthodox suspicion of Islam and Serbian historical pride against Kosovar autonomy demands, staging the 600th-anniversary commemoration of the Battle of Kosovo Polje (1989) — a year-long spectacle culminating in a procession of Prince Lazar's disinterred coffin and a ceremony at Gračanica monastery selling icon-posters of Christ, Lazar, and Milošević side by side. Hall additionally notes a role for external actors: Western institutions, notably the IMF, are said to have strengthened nationalist figures like Milošević against reformist Communists (Denitch 1994).
+
+**Strongest form of the primordialist position (as reported):** long-standing religious and ethnic antagonism in the Balkans (Ottoman-era Muslim/Christian division, medieval battles and their commemorative afterlives) supplies a real, deep-seated substrate that political actors could not have manufactured from nothing.
+
+**Strongest form of the instrumentalist position (as reported):** high rates of intermarriage and declined ethnic self-identification immediately prior to the wars are incompatible with a persistent, mass-level primordial hatred; the timing and staging of the violence tracks elite political calculation (post-Tito succession struggles, Milošević's engineered spectacles) far more closely than it tracks any timeless cultural fault line.
+
+Hall records this as an open dispute in the sources he cites but states his own alignment with the instrumentalist/constructivist side.
 
 ## Shared factual ground (framed per side)
 

@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "in Biehl: the bureaucratically and relationally sanctioned condition of being cut off from family, medicine, and recognized personhood before biological death; zones of abandonment accelerate it"
 contested: yes
 related_concepts: ["[[ex-human]]", "[[zone-of-social-abandonment]]", "[[pharmaceutical-being]]", "[[everyday-violence]]", "[[moral-career]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -40,3 +40,7 @@ In *Vita*: institutional invisibility (not on maps; no remedial program); loss o
 
 - Metaphor can blur biological dying with social exclusion; Biehl insists both are real and linked, not interchangeable.
 - Risk of over-generalizing from one city and one life; keep multi-case claims attributed.
+
+## Applications — Cape slavery (Hall 2000)
+
+[[hall-martin|Martin Hall]] (*[[hall-archaeology-modern-world-2000|Archaeology and the Modern World]]*, 2000), discussing [[cape-slavery|Cape Colony slavery]], invokes Orlando Patterson's concept of slavery as social death — quoted: "The essence of slavery is that the slave, in his social death, lives on the margin between community and chaos, life and death, the sacred and the secular. Already dead, he lives outside the mana of the gods and can cross the boundaries with social and supernatural impunity" (attributed, Patterson 1982: 51, quoted in Hall 2000) — as the theoretical frame for reading the public execution of slaves at the Cape (Robert Shell's 1994 finding of roughly one public execution per month under Dutch rule) as a display of sovereign power enacted specifically on bodies already denied social personhood.

@@ -38,3 +38,5 @@ Douglas's chapter-length case of *institutional forgetting*: Frederic Bartlett, 
 ## Critiques and Limitations
 
 The concept risks reifying a group mind — the standing Kuhn/Rawls objection to [[thought-collective]]-style constructs applies. Halbwachs's own texts are engaged here only through Douglas (1986); a direct ingest would let this page state his framework independently. Claims about Nuer genealogies carry their fieldwork dates (early 1930s) and Evans-Pritchard's attribution.
+
+Jan and Aleida Assmann's [[cultural-memory]] extends Halbwachs's concept beyond living-group ("communicative") memory to the institutionally maintained deep past (texts, monuments, rites, specialist carriers) — see that page and [[assmann-jan]].

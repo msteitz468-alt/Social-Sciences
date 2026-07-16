@@ -3,22 +3,24 @@ title: "Ban Na Di"
 site_type: settlement
 modern_country: [Thailand]
 coordinates: "approx 17.2,103.1 (near Lake Kumphawapi, c. 23 km SW of Ban Chiang, Udon Thani region)"
-date_earliest: "c. 1600 BCE"
-date_latest: "c. 300 BCE"
+date_earliest: "c. 1300–900 BC basal bronze occupation (in situ charcoal, as of Higham 2002); earlier 1989 synthesis used c. 1600 BCE EP V correlation"
+date_latest: "c. 300 BCE (major cultural dislocation; levels 4–5 transition)"
 date_precision: approximate
-dating_methods: ["[[radiocarbon-dating]]"]
+dating_methods: ["[[radiocarbon-dating]]", "flood sand-lens stratigraphic control"]
 periods_of_occupation: ["bronze-age", "iron-age"]
 region: [southeast-asia, mainland-southeast-asia]
 cultures: []
 excavated_by: ["Charles Higham", "Amphan Kijngam"]
 excavation_years: "from November 1980 (1980-81 season)"
-key_finds: ["bronze-casting furnaces, crucibles, and clay moulds (level 5)", "marked Area A/Area B mortuary wealth disparity (shell beads, stone bracelets, bronze, iron)", "silk-shroud burial (burial 36)", "bronze-repaired stone bracelets", "clay 'rollers/seals' paralleled at Late Period Ban Chiang"]
-sources_ingested: 1
-last_updated: 2026-07-10
+key_finds: ["bronze-casting furnaces, crucibles, and clay moulds (level 5)", "marked Area A/Area B mortuary wealth disparity (shell beads, stone bracelets, bronze, iron)", "silk-shroud burial (burial 36)", "bronze-repaired stone bracelets", "clay 'rollers/seals' paralleled at Late Period Ban Chiang", "clay figurines (cattle, deer, human, elephant) in richer cluster"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, bronze-age, iron-age, southeast-asia]
 ---
 
 ## Discovery and Excavation History
+
+*(Body through Historiography grounded in Higham 1989, *[[higham-archaeology-mainland-southeast-asia-1989|The Archaeology of Mainland Southeast Asia]]*; see **Higham 2002 update** for AMS-era densification from *[[higham-early-cultures-mainland-southeast-asia-2002|Early Cultures of Mainland Southeast Asia]]*.)*
 
 Ban Na Di lies roughly 20 km from [[ban-chiang]] near Lake Kumphawapi. Charles Higham
 had surveyed in the wider Roi Et Province/Phu Wiang area from 1969, and excavations at
@@ -147,5 +149,33 @@ dates). Ban Na Di's data is used throughout the source to reconcile and narrow t
 regional bronze-age and iron-age chronology (initial bronze c. 2000–1500 BCE) against
 the competing White (1986) revision of the Ban Chiang sequence.
 
-**Collection coverage**: based on a single source (Higham 1989); no independent
-replication or later reanalysis of Ban Na Di is yet represented in this wiki.
+**Collection coverage (as of 1989 ingest)**: based on Higham 1989; see **Higham 2002
+update** for densification from the second synthesis.
+
+## Higham 2002 update
+
+*(Attributed — [[higham-charles|Higham]], *[[higham-early-cultures-mainland-southeast-asia-2002|Early Cultures of Mainland Southeast Asia]]* 2002; distinguish from the 1989 synthesis above.)*
+
+### Setting, methods, and basal chronology
+
+(ATTRIBUTED) Ban Na Di, 23 km SW of [[ban-chiang]] near a Lake Kumphawapi tributary confluence on low-terrace wet-rice soils, has five prehistoric levels to 4 m. Basal occupation includes freshwater molluscs, mammal/fish bone, domestic cattle, dogs, and probably pigs; **1 mm mesh screening** recovered microfauna and carbonised rice, showing heavy fishing emphasis. Basal layer has crucible fragments with metal scoria and bronze artefacts; **in situ charcoal dates the basal layer 1300–900 BC** (as of Higham 2002) — later than the ~1600 BCE EP V correlation still reported in the 1989-based sections above, and consistent with the AMS-downward revision of regional bronze at Ban Chiang and [[non-nok-tha]] (see [[southeast-asian-bronze-chronology-debate]]). The BA cemetery comprises three phases, probably c. 900–400 BC (calibration complex). Thin discrete **flood sand lenses** allowed excavators to conclude material beneath was not disturbed by later grave digging — strengthening association of hearth/furnace/pit charcoal with depositional events.
+
+### Local casting restated
+
+(ATTRIBUTED) Clay-lined furnace ringed by bronze detritus and crucibles for heating copper and tin to melting point before casting; stone mould fragments confirm on-site casting; metal adhering to crucibles indicated copper–tin mixture; two latest graves of the mortuary phase included a few iron offerings — the same local-casting-from-exchanged-metal picture as 1989, now dated to the later BA horizon.
+
+### Mortuary ranking refined (not a separate elite stratum)
+
+(ATTRIBUTED) Burials in two areas 30 m apart, laid in rows over ~2 m depth; men heads south, women opposite. Phase 1A little bronze (cast wire repairing stone bangles); phase 1c more goods including 19 bracelets with one woman, cowries, coastal-origin shell; final phase still rare bronzes, some early Iron Age pottery matching Ban Chiang MP VII. One excavated area consistently richer (exotic ornaments, clay figurines of cattle/deer/humans/elephants, most bronzes) across all three phases, with multidimensional scaling isolating a child, two men and a woman as unusually well endowed — yet Higham judges differences **insufficient to mask underlying similarity**: the richer group is still of the same social stratum (**ranking without centralization / not a separate elite stratum**). This is a sharper formulation than the 1989 "ranked affiliative kin groups" language and is load-bearing for the [[chiefdom]] concept page: Bronze Age Ban Na Di does not meet Peebles–Kus centralised-chiefdom criteria.
+
+### Bioarchaeology densification (Domett 1999 via Higham 2002)
+
+(ATTRIBUTED) Ban Na Di is one of the large BA skeletal samples analysed by Domett (1999). Infant mortality (~19% under one year) is far lower than coastal [[khok-phanom-di]] early phases (>50%) but higher than [[non-nok-tha]] (5.5%, possibly under-represented). Female childbirth mortality peak; barely one in ten lived beyond ~40; Nordin’s score indicates good nutrition; most Ban Na Di women showed pregnancy evidence. Dental enamel hypoplasia lower than Khok Phanom Di adults. Screening method remains decisive: faunal spectra from sites without fine mesh must be treated cautiously — Ban Na Di is Higham’s positive demonstration case.
+
+### Peripheral Iron Age position
+
+(ATTRIBUTED) Higham (2002), discussing Lao Pako, notes that Ban Chiang and Ban Na Di may be read as **peripheral** relative to the major Iron Age changes documented in the Chi and Mun Valley moated centres (Ban Chiang Hian, [[noen-u-loke]], Non Muang Kao) — consistent with the 1989 reading of the level 6/7→5 transition as expansion from fringes of emergent Chi valley chiefdoms, now with denser Mun Valley comparanda.
+
+### Collection coverage
+
+Sources: [[higham-archaeology-mainland-southeast-asia-1989]] and [[higham-early-cultures-mainland-southeast-asia-2002]]. Primary monographs (Higham and Kijngam 1984) not yet directly ingested.

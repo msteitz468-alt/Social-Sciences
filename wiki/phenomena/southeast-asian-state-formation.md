@@ -10,8 +10,8 @@ measured_by: ["settlement-size hierarchy", "monumental/corvée construction", "e
 driven_by: ["[[chiefdom]]", "prestige-goods exchange", "iron technology", "Indian and Chinese contact", "agricultural intensification", "manpower concentration (Scott 2009 attributed)", "wet-rice cores (Scott 2009 attributed)"]
 produces: ["[[mandala]] polities", "[[angkor|Angkorian state]]", "padi state cores (Scott attributed)", "[[zomia|Zomia]] as state-effect periphery (Scott attributed)"]
 theorized_by: ["[[higham-charles]]", "[[processual-archaeology]]", "[[scott-james-c]]"]
-key_studies: ["[[higham-archaeology-mainland-southeast-asia-1989]]", "[[scott-art-of-not-being-governed-study]]"]
-sources_ingested: 2
+key_studies: ["[[higham-archaeology-mainland-southeast-asia-1989]]", "[[higham-early-cultures-mainland-southeast-asia-2002]]", "[[scott-art-of-not-being-governed-study]]"]
+sources_ingested: 3
 last_updated: 2026-07-15
 tags: [phenomenon, southeast-asia]
 ---
@@ -69,15 +69,45 @@ Wittfogel's (1957) hydraulic despotism, Webb's (1975) trade-and-circumscription 
 and Friedman and Rowlands's (1977) prestige-goods/epigenetic model — and argues instead
 for **multiple interacting variables** (Renfrew's "multiplier effect"): individual
 charisma and claims to divinity, strategic location, agricultural capacity, iron
-availability, and access to exotic valuables. On the pivotal "Indianisation" question he
-takes an explicitly indigenist position — Indian contact was "one of several variables
-with adaptive potential for change in the local system," not the external creator of
+availability, and access to exotic valuables. All Southeast Asian states are, in his
+terms, **secondary** states (contact with other states played a part), but secondary does
+not mean externally created. On the pivotal "Indianisation" question he takes an
+explicitly indigenist position — Indian contact was "one of several variables with
+adaptive potential for change in the local system," not the external creator of
 civilisation. This dispute is recorded in [[indianisation-southeast-asia-debate]]. He
 reads the polities through documentary as well as material evidence (invoking Geertz's
 1980 Balinese "theatre state" and Leach's 1954 Kachin as comparative models of
 loyalty-based, non-territorial polity), stressing continuity: competition, emulation,
 ritual, and display run from the Khok Phanom Di burials of c. 2000 BCE through to
 Angkorian god-kingship, with rice intensification more often a consequence than a driver.
+
+### Higham 2002 densification (attributed)
+
+*Early Cultures of Mainland Southeast Asia* revises several load-bearing elements of the
+1989 sequence while keeping the multiplier-effect / indigenist frame:
+
+- **Neolithic package.** Local-transition models for rice give way (as of Higham 2002) to
+  a **Yangzi domestication** origin and an **intrusive Neolithic** associated with
+  Austroasiatic expansion; [[khok-phanom-di]] is re-read as a coastal community exposed to
+  farmers rather than the source of inland expansion ([[rice-domestication]],
+  [[austroasiatic-languages]]).
+- **Bronze chronology.** Initial casting revised to **c. 1500–1000 BCE** via AMS
+  rice-chaff temper dates; technology placed on a steppe–China diffusion path
+  ([[southeast-asian-bronze-chronology-debate]]).
+- **Iron Age eve of statehood.** Full-millennium ranking sequences ([[noen-u-loke]], Mun
+  Valley moated sites; [[dong-son-culture]]; [[ban-don-ta-phet]]) and active maritime
+  engagement fill the pre-state gap; dual theatres of ranking (Han-threatened Bac Bo
+  warrior chiefdoms vs inland salt/iron/nodal exchange) replace a single trajectory.
+- **Early historic polities.** Funan as delta trading state with archaeology at
+  [[angkor-borei]]; Chenla as factional overlords under Indic veneer; [[dvaravati-culture]]
+  and multi-polity Champa; Chinese unitary labels often overstate unity.
+- **Angkor.** Against large baray irrigation as the basis of royal power
+  ([[angkor-hydraulic-city-debate]]); decentralized rain-fed agriculture under grandee
+  families; taxation in produce/labour/merit without currency; "means of destruction"
+  (Goody) and factionalism as structural; decline as gradual re-centring under Thai
+  pressure and Theravada, not sudden hydraulic collapse.
+
+Source: [[higham-early-cultures-mainland-southeast-asia-2002]].
 
 ### Scott — padi state, manpower, and hill–valley coevolution (2009, attributed)
 

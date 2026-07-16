@@ -9,8 +9,8 @@ documented_by: ["[[lee-kung-san-study|Lee, The !Kung San (1979)]]", "[[lee-dobe-
 documentation_dates: "Dobe core 1963–65 and returns through mid-1970s (Lee 1979); longitudinal restudy and change narrative through 2010–11 (Lee, Dobe Ju/'hoansi 4th ed.); CaeCae Zhu/Mbanderu multi-season series from 1973 including 1975–76 and 1979–80 (Wilmsen 1989); Nyae Nyae 1950s–60s (Marshall); Tsumkwe forced settlement from 1959"
 endonym_exonym_note: "Endonym Ju/'hoansi ('real people'); older literature uses '!Kung' or '!Kung Bushmen' (linguistic-cluster label), 'San' (Khoekhoe exonym, sometimes pejorative), 'Bushmen' (colonial), 'Basarwa' (Tswana administrative). Lee 1979 uses '!Kung San'; the case-study series retitled *Dobe Ju/'hoansi* with literacy/orthography work. This page follows the endonym in the title; body uses source-era terms when attributing."
 aliases: ["!Kung", "!Kung San", "Dobe !Kung", "Zhun/twasi", "Zhu/twasi", "Dobe Ju/'hoansi"]
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 6
+last_updated: 2026-07-15
 tags: ["society", "southern-africa"]
 ---
 
@@ -52,6 +52,10 @@ Sharing was nightly and generalized for food; durable goods moved in [[hxaro]]. 
 
 **[[hiv-aids]]:** Botswana national adult prevalence was among the world's highest by 2000 (Lee cites UNAIDS figures in the preface/change chapters); Lee and collaborators (incl. Susser) argue Ju rates stayed lower, partly linking women's sexual decision-making autonomy to prevention — with shebeen/outside-partner "hot spots" as exceptions.
 
+## Settlement Spacing and Soundscape (Moore 2005 synthesis)
+
+[[moore-cultural-landscapes-andes-2005|Moore (2005)]] synthesizes Lee, Marshall, and Yellen data on Dobe-area camp spacing as evidence for a soundscape reading of egalitarian settlement. Yellen's plans of Dobe camps for 1947, 1963–64, and 1968 show a consistent circular layout with huts roughly 4m apart — close enough for normal conversation to carry across the whole camp while whispers (under 4m) remained private; the 1980 Dobe plan, by contrast, shows huts no longer arranged in a circle and spaced so that even normal conversation would not carry hut-to-hut, which Yellen (1984:59) attributes to reduced sharing/reciprocity following 1960s–70s militarization, a shift to herding/farming, and the rise of a wage economy (also Lee 1979:403–31), producing conflict (sorcery accusations, stinginess allegations) documented in John Marshall's film *N!ai: The Story of a !Kung Woman*. Gould and Yellen (1987:98) tabulated comparative mean hearth-to-hearth distances — Dobe rainy season ~5.00m, Dobe base camp 1940–70 ~10.41m, versus much wider Australian desert spacings (Western Desert Aborigines ~36.70m) — and hypothesized predator-avoidance (Kalahari mammalian predators vs. their absence in Australia) as the driver. Moore challenges this reading: the comparison data are single-community and not averaged; Lee (1979:98) reports the !Kung were aware of abundant local predators (lion, leopard, cheetah, hyena, wild dog) yet showed no fear behavior or defensive measures, and Yellen and Lee (1976:37) describe unprovoked animal attacks on San as "extremely rare." Moore's alternative framing treats spacing as governed by a whisper/conversation acoustic threshold tied to social cohesion, and argues this soundscape mechanism can subsume rather than compete with the predation hypothesis even where predation pressure is real.
+
 ## Documentation History
 
 - **Lorna Marshall** — Nyae Nyae (1950s–60s); careful ethnography later used both to support and to qualify affluence claims; films and *N!ai*.
@@ -73,3 +77,13 @@ Sharing was nightly and generalized for food; durable goods moved in [[hxaro]]. 
 ## Historiography
 
 Lee's 1979 monograph is the densest quantitative synthesis of Dobe ecology/economy of the classic documentation era; the *Dobe Ju/'hoansi* case-study series (1984–2013) is the longitudinal teaching vehicle and update channel (ethnonym shift, Ch.7 complaint discourse, Ch.13 Tsumkwe survey, App. B oral history). Revisionist counter-monograph now primary-ingested: Wilmsen *[[wilmsen-land-filled-with-flies-1989|Land Filled with Flies]]* (1989) — CaeCae stratification, underclass history, weight/diet series; hub [[hubs/studies/wilmsen-land-filled-with-flies-study]]. Deep study analysis of the 1979 charter: [[hubs/studies/lee-kung-san-study]].
+
+### Archaeological reception (*Oxford Handbook of African Archaeology*, 2013)
+
+*(Attributed — handbook authors; *[[mitchell-lane-oxford-handbook-african-archaeology-2013|Mitchell & Lane 2013]]*; as of ~2012. Ju/'hoansi appear as **analogy cases**, not as handbook field subjects.)*
+
+- **Wadley (Ch. 25):** Kalahari foragers (including revisionist challenges by Wilmsen / Wilmsen & Denbow) frame the problem of ethnographic analogy for African hunter-gatherer archaeology — risk of treating living groups as “human fossils” (Wobst 1978) and of polarizing foragers vs farmers against archaeological evidence of interaction variety. See [[kalahari-debate]], [[hunter-gatherer]].
+- **Mitchell (southern Holocene):** Explicit warning that treating the LSA as “Khoisan history” via a few semi-arid San groups (of which Ju/'hoansi-type ethnographies are the best-known) risks generalizing across time and biomes; gains from Kalahari and /Xam analogy for art and excavation remain real, but future work needs more explicit hunter-gatherer archaeological theory and historical tracking of ethnographically recognizable patterns rather than projecting them unchanged. Megamidden-period interpersonal violence ~2600–2100 BP differs from recent Kalahari ethnography — a caution against wholesale transfer.
+- **MacEachern (Ch. 5):** Genetic focus on San foragers can reinscribe “oldest population” tropes that map poorly onto Ju/'hoan historical identity — reflexivity, not a genetic claim about Dobe specifically.
+
+Do not promote handbook reception into ethnography of the Ju/'hoansi themselves; documentation remains Lee/Marshall/Wilmsen fieldwork dates on this page.

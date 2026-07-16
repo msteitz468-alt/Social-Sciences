@@ -13,8 +13,8 @@ cultures: ["[[anatomically-modern-humans]]", "[[neanderthals]]"]
 excavated_by: ["Anglo-American team, 1930s (as reported by Stringer & Gamble 1993)"]
 excavation_years: "1930s principal campaigns"
 key_finds: ["≥10 early anatomically modern individuals (men, women, children); Skhul 4 and 5 apparent burials; Skhul 5 with wild-boar jaw; Levalloiso-Mousterian assemblage"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, near-east, late-prehistory]
 ---
 
@@ -69,3 +69,13 @@ behaviorally indistinguishable from Neanderthals, supporting his anatomy-before-
 **Symbolism (as of Stringer 2012).** At ~**115 ka**, Skhul has the oldest known symbolic burial (man clasping massive wild-boar lower jaw), plus shell beads and heated pigments — among the oldest shell-bead and pigment evidence. No symbolic burials older than Skhul/Qafzeh ~100 ka are accepted in Stringer’s survey (Herto suggestive of ritual treatment of remains). Synchrotron dental maturation: Skhul/Qafzeh early moderns at slow recent-human rates vs faster Neanderthals. EQ reaches highest values (~5.3–5.4) in Skhul/Qafzeh and Cro-Magnons.
 
 **Admixture hypothesis.** Stringer floats possible modern–Neanderthal interbreeding in the Middle East ~120 ka (Skhul–Qafzeh / Tabun era) as an alternative to only late European contact for the ~2% Neanderthal autosomal signal (as of Stringer 2012). Caspari & Lee: Skhul/Qafzeh old:young adult ratios match low Neanderthal survivorship, not later Cro-Magnon longevity — cultural/social factors, not pure biology. Klein uses Skhul’s MP industry association for anatomy-before-behaviour; Stringer situates that claim within expanding African MSA symbolic evidence that undercuts a hard ~50 ka switch.
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*Source: [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]. **As of Tattersall 2012.***
+
+**Morphology.** Mugharet-es-Skhul (W slope Mount Carmel, few dozen miles from [[qafzeh]]): remains of ten adults/juveniles probably ~**100 ka**. More uniform than Qafzeh but odd: high rounded vaults, brains ~**1,450–1,590 cc**; fairly heavily built faces **unretracted**, jutting before the vault, transverse bar of bone instead of vertical forehead. Pre-WWII describers wrote large volume yet identity conclusions “spectacularly obscure” (via Tattersall).
+
+**Against Neanderthal hybrid.** Geographic temptation high (minutes’ stroll from [[tabun]]; Neanderthals seem in residence close in time though not proven exact contemporaries). Biologically: Neanderthals and moderns built on fundamentally different plans; hybrids should exhibit traits of both parents — “certainly not what we are seeing at Skhul” (**position**, Tattersall 2012). Alternative he finds “more intriguing”: interbreeding between moderns and descendants of N. African Aterian-like populations ([[jebel-irhoud]], Dar-es-Soltan) rather than with Neanderthals — closer recent African origins, less differentiated pair (**scenario**, not adjudication).
+
+**Industry and behaviour.** Lithic context Mousterian, more or less identical to Levantine Neanderthal kits — **industry ≠ species**. Not demonstrably behaving significantly differently from Neanderthals (anatomy-before-behaviour alignment with Klein as reported). Picture complicated by recently reported pigments and shells apparently pierced for stringing: among oldest proposed symbolic signals (>100 ka) but evidence “slender and a bit arguable” — two shells perforated (possibly natural) at weakest points, *Nassarius* genus later widely used in better-substantiated ornamental contexts; shells collected far along the Mediterranean shore (special objects / long-distance exchange implication) (as of Tattersall 2012). Early Levant foray ultimately unsuccessful; by ~60 ka Neanderthals back in charge until later cognitively modern re-entry. See [[behavioral-modernity]], [[modern-human-origins-debate]], [[aterian-industry]].

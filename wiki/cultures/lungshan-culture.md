@@ -15,8 +15,8 @@ preceded_by: ["[[yangshao-culture|Yangshao]] (via the Miao-ti-kou II / proto-Lun
 succeeded_by: ["[[shang-civilization|Shang]] (in the Honan phase, per Chang)"]
 language_affiliation: "[[unknown]] — not equated with any language or people"
 genetic_signature: "[[unknown]] — not addressed in Chang 1963"
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: "2026-07-15"
 tags: [culture, neolithic, china, east-asia]
 ---
 
@@ -150,6 +150,23 @@ state/non-state label.
 Four-way non-identity: none of this material equates the Longshan construct — already flagged
 above as `construct_status: contested` — with a language or genetic population; the
 proto-writing dispute over Dawenkou/Dinggong marks is recorded as a live position, not resolved.
+
+## Shelach-Lavi (2015) addendum — Shandong Longshan craft and mortuary detail
+
+Shelach-Lavi ([[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]) reinforces
+the Chang "Longshanoid horizon" critique above, citing Underhill (1997/2002) and Liu
+(2004) directly: subsequent research shows so-called Longshan societies displayed
+"great regional heterogeneity," undermining the homogeneity implied by Chang's original
+"Longshanoid horizon" framing (as of Shelach-Lavi 2015) — a reinforcing citation for the
+`construct_status: contested` call already made on this page. He adds Shandong-Longshan
+mortuary/craft specifics not yet on this page: the culture's fine black burnished
+eggshell-ware cups (found in both graves and domestic contexts) are read as evidence of
+production standards and specialist potters; the Chengzi cemetery (87 graves, 0.2–3.7
+m², 0–31 grave goods) shows grave size correlating with goods count; and elite Xizhufeng
+graves (M202: ~7 m long, 3 m wide, with a ledge, painted coffins, and more than 50
+goods including jade and eggshell cups; M1: three nested coffins, 54 goods) illustrate
+the sharpening mortuary stratification already discussed above via Lingyanghe and
+Dawenkou.
 
 ## Relations and Successions
 

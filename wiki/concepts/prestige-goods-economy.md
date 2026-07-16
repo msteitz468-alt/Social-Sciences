@@ -7,9 +7,9 @@ disciplines: [archaeology, anthropology]
 emic_or_etic: etic
 operationalized_as: "A political economy in which elite power depends on controlling the supply of scarce, long-distance-exchanged valuables (prestige goods) required for social reproduction — marriage, alliance, ritual — so that control of external exchange translates into internal hierarchy"
 contested: yes
-related_concepts: ["[[chiefdom]]", "[[world-systems-analysis]]", "[[redistribution]]", "[[heterarchy]]", "[[land-tenure]]", "[[status-to-contract]]"]
-sources_ingested: 5
-last_updated: 2026-07-10
+related_concepts: ["[[chiefdom]]", "[[world-systems-analysis]]", "[[redistribution]]", "[[heterarchy]]", "[[land-tenure]]", "[[status-to-contract]]", "[[hillfort]]", "[[oppida]]"]
+sources_ingested: 7
+last_updated: 2026-07-15
 tags: [concept, archaeology]
 ---
 
@@ -66,6 +66,18 @@ Iron Age West-Hallstatt "princely seats" (Frankenstein & Rowlands); Bronze Age E
 
 The model can over-attribute hierarchy to *external* control and understate internal production, agrarian surplus, and local agency; it risks circularity (exotic goods are read as prestige goods, whose control is then read as the source of the power that acquired them). Critics of Kristiansen & Larsson specifically charge that treating locally-made imitations as evidence of long-distance "knowledge transmission" lets almost any resemblance count as contact (see [[diffusion-collapse-european-prehistory-debate]]). As with all [[world-systems-analysis|precapitalist world-system]] claims, whether "dependency" in the modern sense obtained in the Bronze Age is disputed (Edens & Kohl 1993: multiple centers, the ever-present option to raid rather than trade, and shared technologies made ancient centre–periphery relations weaker than modern ones).
 
+## Algaze 1993/2005 — Tepe Gawra's exotic-goods concentration (brief pointer)
+
+*(Attributed — [[algaze-guillermo|Algaze]], [[algaze-uruk-world-system-2005|2005]].)* In the
+[[uruk-expansion|Uruk-period]] periphery, Algaze reads the disproportionate concentration of
+exotic materials (turquoise, jadeite, lapis, carnelian, obsidian, copper, silver, gold,
+ivory) in Late Chalcolithic tombs at the *small* (~1–2 ha) site of Tepe Gawra (Rothman
+1988; Tobler 1950) as evidence of a specialized exchange/administrative role out of
+proportion to its size — a node in the highland–lowland network, whether an independent
+ceremonial center servicing seminomads or a trade waypoint (both positions unresolved). The
+control of such long-distance valuables underlies his [[core-periphery|core–periphery]] and
+[[informal-empire|informal-empire]] argument; see [[mesopotamian-trade]].
+
 ## Cunliffe 1997 — West Hallstatt and Mediterranean prestige
 
 *(Attributed — [[cunliffe-barry|Barry Cunliffe]], *The Ancient Celts* 1997; source [[cunliffe-ancient-celts-1997]]. Append-only layer; does not replace Friedman–Rowlands / Kristiansen–Larsson framing above.)*
@@ -75,3 +87,40 @@ Cunliffe characterizes rich **Late [[hallstatt-culture|Hallstatt]]** burials as 
 ## Cunliffe 1997 — Later Iron Age reprise (raid → potlatch → Roman wine)
 
 *(Attributed Cunliffe 1997.)* After c.200 BCE, with long-distance raiding constrained near Roman frontiers, Cunliffe argues elite display shifts toward potlatch-like conspicuous giving/consumption and control of commodities (especially Italian wine in Dressel 1 amphorae) articulated through [[oppida]] and coinage used for gift exchange and political legitimation rather than capitalist commerce. Late La Tène elite burials from Kent to Germany again illustrate a prestige-goods economy of feast equipment and imported wine kit in the later first century BCE — a structural rhyme with the earlier Hallstatt model under different Mediterranean supply conditions.
+
+## Cunliffe 2013 — *Britain Begins*: British and Atlantic sequences
+
+*(Attributed — [[cunliffe-barry|Barry Cunliffe]], *[[cunliffe-britain-begins-2013|Britain Begins]]* 2013. Append-only British/Irish densification; does **not** replace Friedman–Rowlands / Kristiansen–Larsson / *Ancient Celts* 1997 layers above. Theses stay in attributed voice.)*
+
+### Beaker–Early Bronze Age: exotic materials and route nodes
+
+Cunliffe treats the Beaker period as renewed continental contact and wide acceptance of value systems built on metals, amber, jet, and faience — commodity movement on a larger scale than before (*associated_with* [[bell-beaker-culture]] material packages; people vs belief still debated). Copper then bronze intensified movement: early metal rode existing networks; control of metal supply “irrevocably changed the political geography” over roughly 2500–2000 BC (theoretical, attributed). Jet (Whitby), amber (Baltic/Jutland), and locally made faience beads form restricted display sets; elaborately perforated amber spacer plates in [[wessex-culture|Wessex]] (possibly manufactured there) parallel Mycenae shaft-grave forms — Cunliffe offers only guesswork, not identity claims.
+
+**Wessex as route-node prestige landscape.** Chalk arc from Dorset coast to middle Thames controls Channel harbours, western river routes, Jurassic ridge, and Thames–Kennet corridors; first half of second millennium sees ~100 very rich burials (Wessex I Bush Barrow from c.2000 BC; Wessex II Camerton–Snowshill c.1700–1500 BC). Gold, amber, jet, shale, and Armorican dagger links exemplify elite control of scarce valuables; Ireland remains main gold provider while Irish elites accept British amber and faience. Sea command and knowledge of rare commodities are framed as prestigious elite occupations; sewn-plank vessels by c.2000 BC enable the maritime side of the system (attributed).
+
+### Mid–Late Bronze Age: warrior feast and maximizer surplus
+
+Before c.1500 BC, on Cunliffe’s account, status rested on rare materials, esoteric knowledge, and distant travel; thereafter warrior prowess and feast conspicuous consumption dominate, underpinned by agrarian surpluses supporting a growing non-productive class. From the thirteenth century BC, warrior elites become visible through bronze weaponry and feasting equipment (heavy slashing swords via eastern Channel–southern North Sea networks). Essential feast kit: bronze cauldron, flesh-hook, roasting spit, bronze situla for drink — forms originating in central Europe and avidly adopted in the Atlantic zone c.1300–1100 BC. The feast is where aspirants display resources and contest status (Gaulish classical analogies offered cautiously for earlier Britain).
+
+**Ritual deposition.** Huge bronze quantities into rivers, bogs, lakes, and dry “hoards” are now generally read as ritual, not founder stock — constant replenishing of stocks required. Atlantic seaway networks peak 1300–800 BC after a fifteenth-century Wessex eclipse in long-distance exchange; elite war gear and feast accoutrements look similar from southern Portugal to northern Scotland without equating peoples or languages (behavioural similarity ≠ identity).
+
+**Sufficer → maximizer.** Field systems, upland expansion, and surplus storage (barns, pits) are read primarily as production for gift exchange, feasting, and hierarchy enhancement — society moving from sufficer to maximizer economy; private territorial ownership may crystallize in this process (theoretical, attributed). Loose arm’s-length gift chains vs Channel-zone alliance mobility (including marriage) produce different distribution signatures that maps alone seldom distinguish.
+
+### Late Iron Age: gold gift-coinage, ports-of-trade, Roman market pull
+
+- **Gallo-Belgic gold** (from early second century BC) reaches Britain in gift-exchange cycles among friends/allies — high-value staters not simple commerce; series A–E entry patterns concentrate on Thames and south coast (finding/position).
+- **Hengistbury Head** (early first century BC): reinvigorated port linking SW Britain with Armorica/Lower Normandy — Dressel 1A wine amphorae, bronze cups, raw glass, figs inbound; Cornish tin, Dartmoor copper–silver, Mendip lead, Kimmeridge shale roughouts, corn, scrap gold, iron blooms outbound; Coriosolites as principal carriers (attributed). Tin trade earlier institutionalized via free-zone assembly / offshore **Ictis**-type marts (Pytheas tradition via Cunliffe).
+- **Post-Caesar reorientation:** Armorica–Hengistbury networks collapse; Dressel 1B and northern Gaul–Thames systems dominate SE Britain; Poole Harbour a reduced western successor. Regular trade with Romanizing Belgic Gaul pushes native economy further toward maximizer production for continental markets; **slave export** (little internal British demand; avid Roman consumption after Gaulish supply tightens) makes peripheral warfare profitable for SE elites (theoretical, scale unknown — attributed).
+- Structural rhyme with the 1997 Hallstatt/La Tène prestige-goods readings, but British evidence classes are amphorae, coin gifts, port assemblages, and classical ethnography — not West Hallstatt princely graves alone.
+
+**Identity cautions for this layer.** Exotic goods and feast kit are not ethnonyms; Belgic coin gifts do not prove mass folk replacement; wine amphorae mark elite exchange, not “Romanization” as cultural totalization. See [[oppida]], [[hillfort]], [[britain-invasion-continuity-debate]].
+
+## Cunliffe 2001 — *Facing the Ocean*: votive hoarding and Atlantic gift exchange
+
+*(Attributed — [[cunliffe-barry|Barry Cunliffe]], *[[cunliffe-facing-the-ocean-2001|Facing the Ocean]]* 2001. Append-only Atlantic-façade layer; does not replace the Hallstatt/British layers above.)*
+
+**Metal hoarding reinterpreted as votive deposition.** Cunliffe (2001) records a historiographic shift: metal hoards were once explained as utilitarian stashes kept for safety or eventual reuse, but are now generally read as deliberate votive offerings to deities, placed in the ground or in watery contexts (rivers, springs, bogs) with no intent of recovery. On his account this recasts the Atlantic Bronze Age's escalating pattern of bronze deposition as religious propitiation rather than economic caching — for example, unlike Britain and Armorica, second-millennium Irish elites apparently did not use burial for conspicuous consumption at all; instead a very large quantity of luxury metalwork (copper-alloy axes, halberds, daggers, spears; gold lunulae, earrings, discs — 85 lunulae known) was deposited in hoards or watery contexts, which Cunliffe interprets as direct votive offering rather than grave accompaniment. He similarly reads the Huelva hoard (Río Odiel, Iberia; over 400 artefacts, mid-10th century BCE by radiocarbon) as most likely a single-act votive deposit rather than a shipwreck or grave assemblage, given the wider Atlantic rite of depositing bronzes in watery "gateway" locations. Debate continues on Armorican socketed-axe hoards specifically: whether they functioned as a form of currency, or — the position Cunliffe (2001) finds "perhaps more plausible" — were made specifically for deposition, their rising lead content marking a shift from functional to purely symbolic/votive objects.
+
+**Cross-Channel gift exchange: Breton–Wessex and Armorican networks.** Cunliffe (2001) reads finely gold-pin-inset dagger hilts at about a dozen Breton sites and two Wessex sites (including Bush Barrow) as Brittany-made items reaching Britain via elite gift exchange, with a comparable gold "box" from La Motta (Lannion) as a probable British product found in Brittany — reciprocal elite exchange rather than one-way influence (see [[wessex-culture]]). He documents third-millennium exchange networks moving Breton dolerite axes (from Plussulien) and hornblendite battleaxes (near Quimper) along the Loire toward the Paris Basin, and Grand Pressigny flint (worked into long blades, daggers, and cores, the "livres de beurre") distributed from Brittany to the Paris Basin and into the Netherlands as a prestige item accompanying single burials.
+
+**Kula analogy for Atlantic axe exchange (explicit ethnographic analogy).** Cunliffe (2001) explicitly likens the implied maritime exchange cycles carrying Jersey's Pinacle-produced dolerite (Type P) axes around the Channel Islands and Brittany — 31% of axes on Guernsey and 21% on Sark are Type P, while only 16% of axes on Jersey itself derive from the local source, indicating most Jersey production was for export — to Malinowski's [[kula|kula ring]] of the Trobriand/Melanesian islands. This is Cunliffe's own analogy, flagged as such: an ethnographic model borrowed to interpret a prehistoric material pattern, not an assertion that Bronze Age Atlantic exchange *was* a kula system or that the two cases share identity.

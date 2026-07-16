@@ -4,14 +4,14 @@ date_birth: 1934
 date_death: living
 disciplines: [archaeology, anthropology]
 era: [critical-turn, contemporary]
-affiliated_theories: ["[[processual-archaeology]]", "[[cognitive-archaeology]]"]
+affiliated_theories: ["[[processual-archaeology]]", "[[cognitive-archaeology]]", "[[action-theory-archaeology]]"]
 trained_under: ["[[unknown]]"]
-trained: ["[[unknown]]"]
-key_works: ["Flannery 1973a, 'The Origins of Agriculture' (Annual Review of Anthropology)", "Origins and ecological effects of early domestication in Iran and the Near East (in [[ucko-dimbleby-domestication-exploitation-1969|Ucko & Dimbleby 1969]])", "Flannery and Marcus, 'Formative Oaxaca and the Zapotec Cosmos' (1976)", "Flannery and Marcus, 'Cognitive Archaeology' (1993)"]
-key_concepts: ["[[broad-spectrum-revolution]]", "systemic model of agricultural origins", "density-equilibrium / peripheral innovation model (1969)", "caprine surplus 'banking'", "environmental 'kick' as trigger for systemic change", "Zapotec cosmology as cognitive-archaeological case study"]
-fieldwork_sites: ["Deh Luran plain, SW Iran (Ali Kosh; with Hole & Neely)", "Oaxaca Valley, Mexico (with Joyce Marcus)", "southern highlands of Mexico (agricultural-origins research)"]
-sources_ingested: 7
-last_updated: 2026-07-10
+trained: ["[[drennan-robert]]"]
+key_works: ["[[flannery-early-mesoamerican-village-1976|The Early Mesoamerican Village (ed., 1976)]]", "Flannery 1973a, 'The Origins of Agriculture' (Annual Review of Anthropology)", "Origins and ecological effects of early domestication in Iran and the Near East (in [[ucko-dimbleby-domestication-exploitation-1969|Ucko & Dimbleby 1969]])", "Flannery and Marcus, 'Formative Oaxaca and the Zapotec Cosmos' (1976)", "Flannery and Marcus, 'Cognitive Archaeology' (1993)", "[[marcus-flannery-zapotec-civilization-1996|Marcus and Flannery, Zapotec Civilization (1996)]]"]
+key_concepts: ["[[broad-spectrum-revolution]]", "systemic model of agricultural origins", "density-equilibrium / peripheral innovation model (1969)", "caprine surplus 'banking'", "environmental 'kick' as trigger for systemic change", "multi-scalar Formative village model (activity area → interregional)", "Real Mesoamerican Archeologist (R.M.A.) parable", "Zapotec cosmology as cognitive-archaeological case study", "[[action-theory-archaeology|action theory]] / evolution without stages", "[[synoikism]] (Monte Albán founding)"]
+fieldwork_sites: ["Deh Luran plain, SW Iran (Ali Kosh; with Hole & Neely)", "Oaxaca Valley, Mexico (with Joyce Marcus; Human Ecology Project from 1964; University of Michigan Formative project)", "[[guila-naquitz|Guilá Naquitz]] and other Archaic caves", "southern highlands of Mexico (agricultural-origins research)", "Guatemalan Pacific Coast (with Coe; Salinas La Blanca / La Victoria comparisons)"]
+sources_ingested: 10
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -19,7 +19,7 @@ tags: [thinker, archaeology]
 
 ## Overview
 
-Kent V. Flannery (b. 1934) is an American archaeologist associated with the systems/cultural-ecology wing of **[[processual-archaeology|processual archaeology]]** and, later, with **[[cognitive-archaeology]]**. On Matthew Johnson's account in *[[johnson-archaeological-theory-2011|Archaeological Theory: An Introduction]]* (2011), Flannery is presented as a leading exponent of systems thinking applied to the origins of agriculture, and — with Joyce Marcus — as a pioneer of cognitive-archaeological analysis of prehistoric belief systems using rich ethnohistoric documentation.
+Kent V. Flannery (b. 1934) is an American archaeologist associated with the systems/cultural-ecology wing of **[[processual-archaeology|processual archaeology]]** and, later, with **[[cognitive-archaeology]]**. On Matthew Johnson's account in *[[johnson-archaeological-theory-2011|Archaeological Theory: An Introduction]]* (2011), Flannery is presented as a leading exponent of systems thinking applied to the origins of agriculture, and — with Joyce Marcus — as a pioneer of cognitive-archaeological analysis of prehistoric belief systems using rich ethnohistoric documentation. As editor of *[[flannery-early-mesoamerican-village-1976|The Early Mesoamerican Village]]* (1976; study [[flannery-early-mesoamerican-village-study]]), he also issued a multi-scalar field charter for Formative village archaeology in Oaxaca and broader Mesoamerica — activity area through interregional networks, probability sampling, and the R.M.A. method parable.
 
 ## Contributions
 
@@ -51,7 +51,7 @@ Johnson's synthesis of standard critiques of functionalist/processual thinking u
 
 ## Historiography
 
-Material for this page derives from Matthew Johnson's *[[johnson-archaeological-theory-2011|Archaeological Theory: An Introduction]]* (2011) plus the textbook synthesis in [[wenke-olszewski-patterns-in-prehistory-2007]]; no independent Flannery/Marcus primary monographs have yet been ingested into this vault.
+Material for this page originally derived from Matthew Johnson's *[[johnson-archaeological-theory-2011|Archaeological Theory: An Introduction]]* (2011) plus the textbook synthesis in [[wenke-olszewski-patterns-in-prehistory-2007]]. Primary Flannery program statements now also ingested include the Ucko & Dimbleby 1969 ecological paper and Flannery (ed.) *[[flannery-early-mesoamerican-village-1976|The Early Mesoamerican Village]]* (1976) — study page [[flannery-early-mesoamerican-village-study]]. Joint monographs with Marcus (*The Creation of Inequality*, 2012; other Oaxaca volumes) remain partially covered via secondary citation layers.
 
 ### Patterns in Prehistory (Wenke & Olszewski 2007)
 
@@ -126,3 +126,64 @@ Source: [[bellwood-first-farmers-2005]].
 - **Ideology timing (with Joyce Marcus, via Barker Ch. 10):** Against Cauvin’s ideology-before-farming primacy, Barker cites Marcus & Flannery (2004) that Oaxaca celestial-observation rituals developed **in tandem with** maize farming and village settlement, not preceding them — support for Barker’s tandem / multi-factor preference over single-cause ideology primacy.
 
 Source: [[barker-agricultural-revolution-prehistory-2006]]. Cross-links: [[binford-lewis]], [[cauvin-jacques]], [[broad-spectrum-revolution]], [[agricultural-origins-causation-debate]], [[oasis-natural-habitat-debate]].
+
+## *The Early Mesoamerican Village* (ed. 1976) — program charter
+
+*(Attributed — Kent V. Flannery (ed.), *[[flannery-early-mesoamerican-village-1976|The Early Mesoamerican Village]]* 1976; study object [[flannery-early-mesoamerican-village-study]].)* EMV is Flannery’s major **editorial and research-strategy charter** for Formative Mesoamerican village archaeology: not a new grand theory but an **operational multi-scalar application of [[processual-archaeology|New Archaeology]]** to Early–Middle Formative (roughly **1500–500 B.C.**) permanent villages in southern Mexico and western Guatemala. Dual stated goals: (1) analytical procedures for sampling and studying Formative cultures from activity-area through interregional levels, tested on real data; (2) a provisional model of Early Formative society based on substantive data, to be refined later.
+
+### Oaxaca / Michigan project spine
+
+Flannery frames the book as growing from late-1960s University of Michigan seminars (locational analysis; Ford settlement-pattern seminar) and the **Oaxaca Formative project**: 1969 season at [[san-jose-mogote]] (~40 acres of Early Formative houses) and Marcus C. Winter’s probability-sample excavation of the shallow hamlet [[tierras-largas]] near Santa María Atzompa. Contributors include Winter, Pires-Ferreira, Drennan, Stephen Plog, Brumfiel, Whalen, Pyne, and [[marcus-joyce|Joyce Marcus]] (joined 1972), among others. Examples are drawn mainly from highland valleys of Mexico, Puebla, Tehuacán, and Oaxaca, plus Gulf Coast and Chiapas/western Guatemala comparisons; heavy use of then-unpublished Michigan Oaxaca data.
+
+### Multi-scalar model (activity area → interregional)
+
+Building on Struever’s “building blocks of society” plus Mesoamerica-specific units, Flannery organizes analysis as a nested scale ladder (attributed):
+
+- **activity area** — single locus of a task or related tasks; **feature** (hearth, storage pit)
+- **male/female work areas** within a house floor (provisional intermediate level)
+- **house**
+- **[[household-cluster]]** (Winter’s term) — house plus associated storage pits, burials, middens, and features
+- **courtyard group** (tentative: 3–4 households sharing open work space)
+- **barrio / residential ward** → **village** (≈ maximum local aggregate)
+- **maximum subsistence-settlement unit** — for this volume, all villages in a single valley (linear river systems vs nonlinear)
+- **interregional** exchange networks and pan-Mesoamerican sacred-lore/ritual networks (groundwork for later Classic “symbiotic networks,” Sanders 1956)
+
+The **village** is the key Formative settlement type — the “home base” from which maguey-roasting camps, hunting camps, fishing stations, and field huts were founded, and the hinge of social structure from family to regional polity. Flannery argues Formative villages dug *as* villages (not as “huge layer cakes of discarded sherds”) could still be counted on one hand after fifty years of research; without research designs that can predict what most excavated data will bear on, the early village is an “endangered species.”
+
+### R.M.A. parable and normative critique
+
+Flannery stages method critique through three composite characters embodying real events of the prior two decades: **R.M.A.** (Real Mesoamerican Archeologist), **G.S.** (Great Synthesizer), and **S.G.S.** (Skeptical Graduate Student) — allegorical parts of one personality shared by Formative archaeologists. Typical R.M.A. practice (attributed satire): mound-centered “intensive” survey; 1.5×1.5 m “telephone booth” pits in arbitrary levels; seriation from mixed Classic-pyramid fill; one pit treated as “typifying” a drainage. Flannery (with Struever/Binford) holds that a **normative** framework — each artifact/feature as manifestation of shared ideas — **deprives archaeologists of variation**, a major information source; only ranges of variation among artifacts, houses, villages, and regions distinguish functional from accidental differences. Programmatic alternative: make the **region** the basis of analysis; use probability sampling so each site/house/feature has equal opportunity to be found; excavate houses/features in natural/cultural strata; recover activity areas and role differentiation.
+
+Parable set-pieces include: arbitrary-level digging that assigns posts, floor, and daub of one house to three ceramic phases (posts “300 years older than its roof”); a regular 10 m “ice-cube tray” grid systematically missing a planned village whose houses are also 10 m apart. S.G.S. channels [[binford-lewis|Binford]]: methodology for studying cultural change should be regional in scope and use research designs based on probability sampling.
+
+### Survey, catchment, settlement system (editor’s scaffolding)
+
+Across the volume Flannery edits and contributes chapters that operationalize the ladder: intensive surface collection and transect/quadrat community sampling (Ch. 3); [[site-catchment-analysis]] adapted and critiqued for Formative Mesoamerica (Ch. 4 — reverse empirical catchments for Oaxaca/Tehuacán; Rossmann on [[san-lorenzo]]; Zarky’s chi-square Ocós); regional sampling design efficiencies (Plog Ch. 5) with Flannery’s hybrid recommendation (experienced traditional survey for monumental apex sites **plus** concurrent stratified random sample for small-site frequencies); settlement **pattern** (empirical distribution) vs settlement **system** (probabilistic generative “rules”); linear Atoyac spacing (~5 km late San José phase) as largely social rather than pure agricultural catchment fill (Ch. 6–7); interregional exchange types and religious networks (Chs. 10–11).
+
+### Chapter 12 prayer
+
+In the closing “Prayer for an Endangered Species,” Flannery returns the parable: R.M.A., G.S., and S.G.S. “reside in all of us”; he admits having committed their methodological sins. The endangered species is not only the early village but the archaeologist facing obsolescence. Closing prayer (attributed): “please let me have the analytical expertise of the New Archeology—and the humility and common sense of the Old.” The chapter synthesizes volume results (nuclear-family residences; household craft specialization; reciprocal vs pooled exchange; discontinuous village-size distributions; spacing and hierarchy under disequilibrium) and restates an ideal research program (stratified environmental survey, controlled surface pickup, natural-level excavation by house/pit/activity area, contingency tables, catchment/chi-square, nearest-neighbor by tier, Markov spacing models).
+
+Cross-links: [[flannery-early-mesoamerican-village-study]] · [[flannery-early-mesoamerican-village-1976]] · [[processual-archaeology]] · [[household-cluster]] · [[household-archaeology]] · [[settlement-pattern-archaeology]] · [[site-catchment-analysis]] · [[formative-stage]] · [[mesoamerica]] · [[marcus-joyce]] · [[san-jose-mogote]] · [[tierras-largas]] · [[binford-lewis]]
+
+## Zapotec Civilization (Marcus & Flannery 1996)
+
+*(Attributed — [[marcus-joyce|Joyce Marcus]] & [[flannery-kent-v|Kent V. Flannery]], *[[marcus-flannery-zapotec-civilization-1996|Zapotec Civilization]]* 1996; study [[marcus-flannery-zapotec-civilization-study]].)*
+
+Flannery is co-author and the excavation spine of the synthesis: his **Human Ecology Project** (from 1964) supplies the Archaic–Formative stratigraphic and household sequence that the Settlement Pattern Project and Marcus’s Monuments Project then place in regional and iconographic context. Sabloff & Renfrew’s foreword present the volume as combining regional survey and excavation over ~10,000 years, with the final chapter emphasizing “action theory” over evolutionary stages.
+
+**Co-author role and theoretical moves (attributed):**
+
+- **[[action-theory-archaeology|Action theory]] / evolution without stages:** With Marcus, Flannery adopts Ortner-style action theory (they avoid “praxis”): actors as self-interested, pragmatic agents who can change the system, with unintended long-term consequences (Sahlins; Geertz strain vs interest models). Ch.16 restates the entire Oaxaca sequence as a long sequence of historic institutional changes rather than a climb through stages; stages remain “heuristically useful” for comparing stable periods across cases, but institutions and rapid transitional episodes are the milestones. They urge a dual program: historical depth for a single civilization **and** comparative search for regularities in archaic-state sequences (with Spencer).
+- **Actor-restoring complement to [[processual-archaeology]]:** Positioned partly as reaction against 1960s–70s ecological-functionalist archaeology that left humans as “cogs in a machine” and over-weighted ecological pressures relative to human decisions — not a rejection of processual regional science but a human-faced complement.
+- **Archaic foraging and simulation:** Guilá Naquitz Level D microband reconstruction and Robert Reynolds’s 1986 foraging simulation (rank-order of plants matching Level D) are used as non-determinist actor-success examples; agriculture framed as extension of Archaic risk-buffering (artificial densification of plants near camps).
+- **[[synoikism]] and state path:** Monte Albán’s founding as synoikism-like relocation; Hawaiian Kamehameha analogy (flagged as analogy) for states formed by takeover of neighboring chiefdoms rather than smooth evolution of one chiefdom; Rosario maximal chiefdom does not simply “evolve into” the Zapotec state.
+- **Teotihuacan relation:** With Marcus, favors René Millon’s “special relationship” reading of the Oaxaca barrio and elite gift exchange over military takeover of either capital by the other.
+
+Cross-links: [[zapotec-civilization]] · [[monte-alban]] · [[guila-naquitz]] · [[state-formation]] · [[chiefdom]] · [[hereditary-rank]] · [[blanton-richard]] · [[kowalewski-stephen]].
+
+## Ancient Oaxaca 2nd edition (Blanton, Feinman, Kowalewski & Nicholas 2022) — the 1966 program's origins and a collective-action counter-position
+
+*(Attributed — Blanton, Feinman, Kowalewski & Nicholas, [[blanton-ancient-oaxaca-2022|Ancient Oaxaca: The Monte Albán State]], 2nd ed., 2022.)*
+
+The 2022 book credits Flannery's initiation, in 1966, of the multidisciplinary research program on plant domestication and the foraging-to-farming transition in the Valley of Oaxaca — reached via his earlier Oaxaca work with [[bernal-ignacio|Ignacio Bernal]]'s student John Paddock — as the origin point of the excavation program (dry caves and valley-floor sites spanning ~10,000 years of occupation to the start of [[caso-alfonso|Alfonso Caso]]'s Monte Albán ceramic sequence, ca. 500 BC) on which the Blanton et al. Valley of Oaxaca synthesis depends. Blanton et al. also single out Flannery (1999) as an example of the "prevailing notion that early social complexity arises only when leaders take control of their domains through the pure exercise of power" — the power-centered, neoevolutionist position their own [[collective-action-theory|collective-action]] account is built to argue against (see the parallel note on [[marcus-joyce|Marcus]]'s page for the underlying San José Mogote evidentiary dispute).

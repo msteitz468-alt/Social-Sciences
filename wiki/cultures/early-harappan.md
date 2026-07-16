@@ -15,8 +15,8 @@ preceded_by: []
 succeeded_by: [[[harappan-civilization]]]
 language_affiliation: [[unknown]]
 genetic_signature: "[[unknown]] — no genetic-population study specific to this stage is reported in this source; see [[bioarchaeology-of-the-indus]] for related skeletal-biology material on the broader Indus Age"
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: "2026-07-15"
 tags: [culture, bronze-age, south-asia]
 ---
 
@@ -178,3 +178,11 @@ constituent sites and seasons; see the individual site pages ([[kot-diji]],
 [[kalibangan]]) for excavation-specific reliability notes. Primary sources for this
 page’s Kenoyer material: [[kenoyer-ancient-cities-indus-1998]]; Possehl baseline:
 [[possehl-indus-civilization-2002]].
+
+## Wright (2010) — Ravi/Hakra/Kot Diji/Amri/Sothi-Siswal phase chronology, "emerging polities," and Rehman Dheri's indigenous continuity
+
+*(Attributed to [[wright-rita-p|Rita Wright]], *The Ancient Indus* (Cambridge, 2010), Ch. 4, "An Era of Expansion and Transformation.")* Wright, drawing on and simplifying Jim Shaffer's (1992) "tradition/era/phase" terminology, divides the Pre-urban alluvial-plain sequence into regional phases with approximate radiocarbon-based date ranges: on the **Upper Indus**, Ravi (3300–2800 BCE) followed by Early Harappan/Kot Diji (2800–2600 BCE); on the **Lower Indus**, Amri (3300–2600 BCE) and Hakra (3500–3000 BCE) followed by Early Harappan/Kot Diji (3200–2600 BCE); in **Ghaggar-Hakra/Cholistan**, Hakra (3500–3000 BCE) followed by Early Harappan/Kot Diji (3000–2600 BCE); and in **Ghaggar-Hakra/Northwest India**, Early Harappan/Kot Diji and **Sothi-Siswal**, both roughly 3200–2600 BCE. She reports that Ravi ceramics closely resemble but are typologically distinct from contemporary Hakra wares in Cholistan (differing in vessel shape, rim form, temper, and production technique — Ravi hand-built versus some Hakra wheel-made; Kenoyer and Meadow 2000; Mughal 1997).
+
+**"Age of Emerging Polities."** Wright proposes her own analytical framing term, "emerging polities," for this Pre-urban stage — explicitly her own framework rather than a finding — characterized by (1) multiple coexisting political units with no single dominant group; (2) active exchange networks in nonlocal raw materials, analogous to "peer polities" documented in other world regions; (3) increasing economic and social complexity (settlement growth in number and size, new technologies); and (4) increasing material-culture and site-planning uniformity. At Harappa itself, she reports continuous occupation from the Ravi phase (settled area 7–10 ha) through the Kot Diji phase (expanded to roughly 26 ha) to peak Urban-period extent (150+ ha), with a massive mudbrick perimeter wall, platforms, and early grid-oriented street planning already appearing in the Kot Diji phase — evidence, in her reading, of large-scale community labor and standardized measurement systems well before full urbanization.
+
+**Rehman Dheri's indigenous continuity.** At [[rehman-dheri|Rehman Dheri]] (roughly 500 km from [[shortugai|Shortugai]], near the confluence of the Indus and Zhob rivers) — a roughly 22-hectare site with an enclosure wall (Durrani 1988) and a main street axis established from its earliest levels — Wright reports that Kot Diji-style ceramics, elsewhere a Pre-urban marker, continued to be produced there until at least 2300 BCE, with the new ceramic types associated with the Mature Harappan largely absent. She interprets this as evidence that the region retained an indigenous cultural tradition rather than being eclipsed by the expanding Indus Civilization, even though beads (lapis lazuli, turquoise) and figurines at the site attest ongoing Central Asian connections. She frames Rehman Dheri, together with the [[kulli-culture|Kulli]] domain of southern Baluchistan and the Kachi Plain settlements around Mehrgarh/Nausharo, as "boundary" or "edge" cultures not fully incorporated into the Indus Civilization but engaged in negotiated affiliation with it — a picture of the mature civilization as an expansive but non-uniform political and economic sphere, which she explicitly contrasts with Possehl's (2003) alternative suggestion that Kulli may simply be a local Indus variant rather than a genuinely separate culture.

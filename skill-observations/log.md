@@ -1597,3 +1597,149 @@ DECLINED = user decided not to pursue
 **Suggested improvement:** In the CLAUDE.md Step 6 batch-bookkeeping guidance, add: idempotency checks for "already wrote this entry?" must key on a **precise anchor unique to your own entry** (e.g. `"Haraway, *Staying with the Trouble"` in the exact Structural bullet format, or `"ingest | <Title>"` in the log line format), never a bare title substring — because concurrent sessions routinely *mention* your source title in their own notes. Always follow the batch with a `grep -c` verification of each entry's exact format.
 
 **Principle:** In a shared, concurrently-written workspace, "does my write already exist?" and "does this string appear anywhere in the file?" are different questions. Presence-of-substring is a false proxy for presence-of-my-entry whenever other writers can reference the same identifiers. Guard on the entry's own canonical format and verify after writing.
+
+### Observation 111: djvu sources need a documented djvutxt intake branch
+
+**Date:** 2026-07-15
+**Session context:** Ingesting Moseley, *Maritime Foundations of Andean Civilization* (1975); the source in `raw/` was a `.djvu` file, not PDF/epub.
+**Skill:** Social Sciences Wiki ingest methodology (CLAUDE.md — Step 1 word-count intake / format detection)
+**Type:** internal
+**Phase/Area:** Step 1 intake / source conversion
+
+**Issue:** The intake protocol documents PDF (pdftotext), image-only PDF (pdftoppm+tesseract / ocrmypdf), and image-epub (ordered OCR) branches, but not DjVu — a common format in z-library/library-scan collections. `djvutxt <file>.djvu out.txt` produced a clean, complete text layer instantly (51k words / 5,164 lines, ratio-correct for 131 pp) with only light ligature/numeral OCR noise — no image OCR needed. `djvutxt`/`ddjvu` were already on PATH.
+
+**Suggested improvement:** Add a one-line DjVu branch to the intake note: "`.djvu` → try `djvutxt file.djvu out.txt` first (fast, often has a real text layer); fall back to `ddjvu`-to-image + tesseract only if djvutxt yields <expected word count. Flag ligature/numeral OCR noise in reliability_notes."
+
+**Principle:** Format-detection at intake should enumerate every container the collection actually holds, not just PDF/epub; a text-layer extractor (djvutxt) is always cheaper than image OCR and should be the first attempt for any new container format before assuming a scan.
+
+### Observation 112: Extraction ranges over ~3,500 lines hit subagent read caps
+
+**Date:** 2026-07-15
+**Session context:** Ingest of Trigger, *The Children of Aataentsic* (952 pp, 10-agent extraction)
+**Skill:** CLAUDE.md ingest workflow (project instructions)
+**Type:** internal
+**Phase/Area:** Step 2 chunk sizing / Step 3 extraction
+
+**Issue:** Two of ten extraction agents (ranges of 4,170 and 4,152 lines) stopped short of their assigned spans (~75% and ~50% coverage) due to read-size limits, though both flagged the shortfall correctly per the standing coverage instruction. Ranges ≤3,300 lines all completed in full. Gap-fill agents recovered both tails cleanly.
+
+**Suggested improvement:** In the ingest workflow's chunk-sizing rule, add a hard ceiling: no extraction range over ~3,500 lines; split denser chapters instead of assigning one agent a 4,000+ line range. (The existing "2,000–3,500 body lines per agent" guidance already implies this — make the upper bound a hard rule, not a rule of thumb.)
+
+**Principle:** Sizing every range so a single agent can complete it in one or two reads is cheaper than the detect-and-gap-fill cycle; the coverage-reporting instruction worked as the safety net, but the ceiling prevents needing it.
+
+### Observation 113: Seven-agent Martin & Grube Chronicle batch completed 7/7 without dropout
+
+**Date:** 2026-07-15
+**Session context:** Ingest Martin & Grube *Chronicle of the Maya Kings and Queens* (2nd ed. 2008); OCR PDF; 7 content-weighted extractors + 3 page-partitioned integrators
+**Skill:** Social Sciences Wiki ingest (CLAUDE.md deployed-subagent protocol) / New skill candidate: none
+**Type:** internal
+**Phase/Area:** Step 3 extraction inventory; multi-agent reliability
+**Status:** OPEN
+
+**Issue:** Seven parallel extraction agents (ranges covering ~14k body lines of noisy OCR dynastic text) all wrote non-empty claims files (70+78+80+120+68+93+100 ≈ 609 claims). Filesystem inventory 7/7 before integration; zero silent dropout. Stage-2 site integration (3 agents, exclusive page ownership) also completed cleanly.
+
+**Suggested improvement:** Record as another positive multi-agent success case alongside Golden Bough / Orientalism batches. Content-weighted ranges (~1.3–2.7k lines) + sequential-chunk instruction for large ranges + exclusive claims paths remain the working pattern for OCR reference books.
+
+**Principle:** For illustrated OCR reference volumes under ~100k words, 5–7 content-weighted agents with mandatory non-empty claims-path inventory is reliable; page-partitioned Stage-2 densification of pre-existing site pages avoids collision on shared culture/debate pages kept on the main thread.
+
+### Observation 114: Integrator prompts should carry the schema-required section headings
+
+**Status:** OPEN
+**Date:** 2026-07-15
+**Session context:** Potts 1997 ingest (5 extractors + 5 page-owned integrators)
+**Skill:** New skill candidate: wiki-ingest workflow (CLAUDE.md deployed-subagent strategy)
+**Type:** internal
+**Phase/Area:** Step 4b integration prompts
+
+**Issue:** Integration agents wrote complete, high-quality stub fills (irrigation, seleucia-on-the-tigris) but omitted schema-mandated body headings ("Semantic History", "Operationalizations", "Significance"), producing 3 validate_schema errors the main thread had to patch after the fact. Same for the main-thread thinker page ("Overview").
+
+**Suggested improvement:** When an integrator (or the main thread) is authorized to fully Write a new page, the prompt/checklist should include the exact required-section heading list for that page type, copied from CLAUDE.md's schema, so validation passes first try.
+
+**Principle:** Validators encode the schema; prompts should too. Any agent allowed to create a page needs the page type's required headings inline in its brief, not just "follow the schema."
+
+### Observation 115: Ingest body ranges should include Acknowledgments when they carry Rhind/origin facts
+
+**Date:** 2026-07-15
+**Session context:** Ingest Renfrew *Figuring It Out* (2003)
+**Skill:** New skill candidate: social-sciences-wiki-ingest (internal) / CLAUDE.md ingest workflow
+**Type:** internal
+**Phase/Area:** Step 2 chunk boundaries / Step 3 recovery
+
+**Issue:** Range 4 was cut at Postscript end (line 10802) so Acknowledgments (Rhind Lectures date, title, host, artist network) fell outside all exclusive slices. Extractor correctly reported gap; main thread recovered from full.txt. Same session: range_3 cache file truncated mid-chapter vs full.txt (agent recovered) — another signal that exclusive-range files need end-to-end length checks against assigned line numbers at cut time.
+
+**Suggested improvement:** After cutting cache slices, assert each range file line count equals (end-start+1) and that Acknowledgments/colophon lines intended for extraction are assigned to a named range. Include "Acknowledgments if origin facts" in the last body range by default for lecture-based monographs.
+
+**Principle:** Origin/paratext facts (lecture series, commission, dedications) are load-bearing for source pages; they must be inside an owned extraction range or explicitly main-thread-owned at scaffold time — not left to accidental recovery.
+**Status:** OPEN
+
+### Observation 116: Duplicate pre-scan must re-run when the create-manifest grows mid-session
+
+**Status:** OPEN
+**Date:** 2026-07-15
+**Session context:** Ingest of Hicks & Beaudry, *Cambridge Companion to Historical Archaeology* (2006)
+**Skill:** Internal ingest workflow (CLAUDE.md deployed-subagent strategy)
+**Type:** internal
+**Phase/Area:** Step 1 duplicate-page pre-scan / Step 4a manifest lock
+
+**Issue:** The Step-1 duplicate pre-scan checked only the slugs anticipated at scaffold time. The final manifest, locked after claims review (Step 4a), added `taskscape` — never pre-scanned. The page already existed (created 2026-07-09 by another session), and only the integration agent's own defensive existence check prevented a full-Write clobber.
+
+**Suggested improvement:** At Step 4a manifest lock, re-run the folder-agnostic existence check (`find wiki -name "<slug>.md"`) over the *final* create-list, not just the scaffold-time candidates. One command over the locked list is cheap insurance.
+
+**Principle:** A duplicate check is only as good as the moment it runs; any list that grows after validation must be re-validated at the point of commitment, not at the point of drafting.
+
+### Observation 117: Integration agents re-litigate slug existence and get it wrong
+
+**Status:** OPEN
+**Date:** 2026-07-15
+**Session context:** Facing the Ocean (Cunliffe 2001) ingest — 10 extractors + 5 page-owned integrators
+**Skill:** New skill candidate: wiki-ingest orchestration (CLAUDE.md deployed-subagent workflow)
+**Type:** internal
+**Phase/Area:** Stage-2 integration briefs
+
+**Issue:** Two integration agents reported established slugs (hallstatt-culture, celtiberian-culture) as "do not exist" and left them as plain text / wrote "no wiki page yet" into frontmatter, even though the extraction brief's established-slug list included them and the pages exist. The "link only to slugs you can verify exist" rule caused agents to re-verify with a folder-scoped or failed check and downgrade valid links; main thread had to repair after the fact.
+
+**Suggested improvement:** In integration briefs, state that the established-slug list is authoritative and pre-verified by the main thread — agents must link those without re-checking, and only verify slugs NOT on the list. Post-integration, grep agent-written pages for phrases like "no wiki page" / "does not exist" as an audit heuristic.
+
+**Principle:** When an orchestrator pre-verifies facts, subagent briefs should transfer them as ground truth, not as things to re-derive — re-derivation under weaker context produces false negatives.
+
+### Observation 118: Duplicate pre-scan must include the ingest's central antagonist entities, not just a hand-picked slug list
+
+**Date:** 2026-07-15
+**Session context:** Ingesting Binford, *Bones: Ancient Men and Modern Myths* (1981) via the deployed-subagent workflow.
+**Skill:** CLAUDE.md ingest workflow (duplicate-page pre-scan step)
+**Type:** internal
+**Phase/Area:** Step 1 duplicate-page pre-scan
+
+**Issue:** The Step-1 duplicate pre-scan checked ~26 hand-listed candidate slugs but omitted `isaac-glynn` — even though Glynn Isaac was the *central theoretical target* of the book and obviously going to be touched. The omission only surfaced at integration when a `Write` to `thinkers/isaac-glynn.md` failed ("File has not been read yet"), revealing the page already existed with substantial content. Had I not gotten the Write-fail signal, a full overwrite would have clobbered an existing 2-source page. (The scan also missed that `brain-ck` was referenced in prose across several pages without a page existing — a lint gap I resolved by creating it.)
+
+**Suggested improvement:** In the pre-scan, derive the candidate-slug list from the *expected extraction entities* — specifically include (a) the source's main protagonist/author, (b) its principal antagonists/critique targets, and (c) every thinker/site/concept named in the TOC or intro — not just a memory-generated list. A cheap guard: before any integration `Write` to a thinker/theory/debate/concept page, attempt a `find wiki -name "<slug>.md"` first and prefer Edit-append if it exists.
+
+**Principle:** The pages most likely to already exist are exactly the famous entities a landmark book argues *against* — so a pre-scan that leans on the ingester's own recall will systematically miss the highest-collision-risk pages. Enumerate targets from the text, and let a failed Write be a caught safety net, not the primary detector.
+
+### Observation 119: Extraction subagent self-loads task-observer and stalls
+
+**Status:** OPEN
+**Date:** 2026-07-15
+**Session context:** Ingest of Cuno *Who Owns Antiquity?* — parallel claims extractors
+**Skill:** CLAUDE.md Ingest Workflow — Deployed Subagent Strategy (Step 3); task-observer activation scope
+**Type:** internal
+**Phase/Area:** Extraction subagent prompts / skill activation
+
+**Issue:** Range-1 extraction subagent spent its turn trying to activate the task-observer skill (session-start protocol) instead of reading its cache slice and writing claims. User had to interrupt and request a respawn with an explicit "do not load skills" constraint. Range 2–3 completed normally. The parent session correctly owns task-observer; child extractors should not inherit or re-run that protocol.
+
+**Suggested improvement:** In CLAUDE.md Step 3 (and every extraction agent prompt template), add a hard negative constraint: extraction subagents must NOT load task-observer or run session-start skill protocols — extraction only, claims file only. Optionally set capability/prompt framing so skill discovery is suppressed for bulk extractors.
+
+**Principle:** Session-start meta-skills are for the orchestrating main thread. Parallel extraction children that re-enter the full skill stack burn wall-clock and can fail silently from the user's perspective without producing the expected claims file.
+
+### Observation 120: wc -w -l column order can trigger a false "incomplete extraction" alarm
+
+**Date:** 2026-07-15
+**Session context:** Ingesting Shelach-Lavi, *The Archaeology of Early China* (2015) — word-count intake check (deployed-subagent ingest, Step 1).
+**Skill:** Social Sciences wiki ingest workflow (CLAUDE.md) — New skill candidate: none; note for CLAUDE.md ingest guidance
+**Type:** internal
+**Phase/Area:** Step 1 word-count intake check
+
+**Issue:** Ran `wc -w -l full.txt` and read the output "13882 160941" as 13,882 words (≈35 words/page for a 394-page book), which looks like a catastrophic image-PDF extraction failure and nearly triggered an OCR-recovery detour. In fact `wc` always prints **lines then words** regardless of flag order, so it was 13,882 lines / **160,941 words** — a perfectly healthy ~408 words/page. Sampling the text confirmed it was complete.
+
+**Suggested improvement:** In the ingest Step-1 intake check, compute words with an unambiguous invocation — `wc -w < file` (word count only) — or explicitly label the columns, rather than `wc -w -l` whose column order is fixed (lines, words) and easy to misread. Add a one-line note to the CLAUDE.md word-count-intake step.
+
+**Principle:** When a cheap sanity metric looks alarming, verify the metric's own format before acting on it — a misread diagnostic is cheaper to re-check than a needless recovery workflow is to run.

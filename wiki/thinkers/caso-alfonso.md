@@ -6,12 +6,12 @@ disciplines: [anthropology, archaeology]
 era: [fieldwork-revolution, postwar-expansion]
 affiliated_theories: ["[[unknown]]"]
 trained_under: ["[[unknown]]"]
-trained: ["[[unknown]]"]
-key_works: ["Monte Albán excavations (from the 1930s)", "Interpretation of Building J conquest slabs", "Mixtec codex studies", "Tomb 7 excavation"]
+trained: ["[[bernal-ignacio]]"]
+key_works: ["Monte Albán excavations (from the 1930s)", "Interpretation of Building J conquest slabs", "Mixtec codex studies", "Tomb 7 excavation", "Caso, Bernal & Acosta, La cerámica de Monte Albán (1967)"]
 key_concepts: ["Zapotec Calendar Round (Year Bearer system)"]
-fieldwork_sites: ["[[sites/monte-alban|Monte Albán]] (excavation director, from the 1930s)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+fieldwork_sites: ["[[sites/monte-alban|Monte Albán]] (excavation director, from the 1930s)", "Monte Negro, Mixteca Alta (1937–39)"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, anthropology, archaeology]
 ---
 
@@ -43,3 +43,9 @@ Caso's Tepantitla-mural (Tlalocan) reading was revised by Esther Pasztory and fu
 Caso's Monte Albán phase sequence and his Building J and Calendar Round decipherments remain the field's baseline data as of Coe & Koontz (2013); later epigraphers, notably Javier Urcid, have refined but not overturned his core readings.
 
 See [[sources/coe-koontz-mexico-2013]], [[sites/monte-alban]], [[cultures/zapotec-civilization]], [[sites/teotihuacan]].
+
+## Ancient Oaxaca 2nd edition (Blanton, Feinman, Kowalewski & Nicholas 2022) — ceramic chronology and the founding-ideology reading
+
+*(Attributed — Blanton, Feinman, Kowalewski & Nicholas, [[blanton-ancient-oaxaca-2022|Ancient Oaxaca: The Monte Albán State]], 2nd ed., 2022.)*
+
+Blanton et al. credit Caso as first identifying the glyphs at Monte Albán and other Valley of Oaxaca sites as culturally Zapotec, and cite the ceramic phase sequence he co-developed with his student [[bernal-ignacio|Ignacio Bernal]] and Eduardo Acosta (Caso, Bernal & Acosta 1967) as the chronological backbone of the book's Monte Albán I–V periodization. The authors also credit Caso with excavating and reconstructing Monte Albán's Main Plaza by the 1950s, excavating over 100 pre-Hispanic tombs including Tomb 7 (found 1932, one of the richest tombs in the Americas), and excavating Monte Negro in the Mixteca Alta (1937–39), where local expressions of highland-Oaxaca and wider Mesoamerican styles appeared in architecture, ornamentation, pottery, braziers, and ritual practice in both domestic and public/temple contexts (Acosta and Romero 1992). Drawing on Caso and Bernal's earlier iconographic work (Caso and Bernal 1952: fig. 30), the authors argue that Monte Albán's founding (ca. 500 BC) coincided with an ideological shift: the dualistic were-jaguar/fire-serpent symbolism of the pre-Monte Albán Valley of Oaxaca diminished, replaced in Monte Albán I by imagery of Cocijo, a lightning-and-rain deity, whose representational prominence — a "more restrictively Oaxacan" and "universalizing" fertility/renewal ideology — persisted at the site for over a millennium and is argued to have helped promote collective action among a population drawn from formerly separate polities.

@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "the mobilization of archaeological evidence and interpretation to construct, legitimate, or contest national and ethnic origins"
 contested: yes
 related_concepts: [social-memory, heritage, ethnicity-paradigm, ex-oriente-lux]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -85,3 +85,20 @@ history is "a patchwork quilt." And the same evidence that debunks one national 
 recruited for another. Every attribution of an ancient culture to a modern nation crosses the
 four-way non-identity boundary and must be argued, not assumed. See nationalism and
 [[ethnicity-paradigm]].
+
+### Cuno 2008 — retentionist law as nationalist instrument (position)
+
+[[cuno-james|James Cuno]] (*[[cuno-who-owns-antiquity-2008|Who Owns Antiquity?]]*) argues that
+modern nation-states use archaeology and patrimony law to manufacture identity continuity with
+pre-national pasts (case chapters on **Turkey** and **China**; Iraq under Ba'thist branding as
+reported). On his account, "nationalist retentionist cultural property laws" are political
+instruments, not site-protection science, and the unprovenanced-acquisition dispute is a
+**surrogate** for museums-vs-nation-states ownership politics. He draws on nationalism theory
+(Anderson, Gellner, A.D. Smith, Maalouf, Sen, Appiah, Said as he reads them) to claim culture is
+hybrid/"mongrel" and national purity claims are elite constructions. These are **advocacy
+positions** filed at [[antiquities-market-looting-debate]] and
+[[archaeology-and-nationalism-debate]] — not wiki-voice findings about those states.
+
+## Smith 2006 — AHD and nationalism (attributed)
+
+*([[smith-laurajane]], *[[smith-uses-of-heritage-2006]]*.)* The [[authorized-heritage-discourse|AHD]] was both constituted by and constitutive of nationalist ideology; identifying “national heritage” imaginatively constitutes the nation. Billig’s **banal nationalism** applies to everyday heritage tourism that continually “flags” national identity. English country house as nationalizing icon; Australian landscape AHD at [[riversleigh|Riversleigh]] (bushman, real Australia, deep-time national pride). Sub-national identity work (class, local, Indigenous) shows more conscious agency against nationalizing AHD. Cross-link [[heritage]], [[archaeology-and-nationalism-debate]].

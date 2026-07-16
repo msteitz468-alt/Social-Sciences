@@ -13,8 +13,8 @@ cultures: [[[harappan-civilization]]]
 excavated_by: ["S.R. Rao"]
 excavation_years: ["1954/55–1962/63"]
 key_finds: ["contested brick-lined enclosure (dockyard/tank/reservoir dispute)", "bead-and-craft workshops", "burned storehouse sealings (elephant seal)", "rare miniature tablets"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: "2026-07-15"
 tags: [site, bronze-age, south-asia]
 ---
 
@@ -55,3 +55,15 @@ On the brick-lined enclosure, Kenoyer aligns with the **reservoir/water-tank** r
 - Game boards (after Rao) appear in Kenoyer’s craft/leisure discussion (Ch. 7 catalogue/context).
 
 Cross-links: [[chanhudaro]], [[dholavira]], [[mohenjo-daro]], [[harappa]], [[meluhha]], [[indus-script]], [[craft-specialization]].
+
+## Wright (2010)
+
+*(Attributed — [[wright-rita-p|Rita P. Wright]], *[[wright-ancient-indus-2010|The Ancient Indus]]* 2010, chs. 6, 8, 9.)*
+
+**Largest sealing concentration in the Indus civilization.** Frenez and Tosi (2005) report that of roughly 130–140 known Indus sealings, 93 were found at Lothal — the largest concentration at any Indus site. Ninety-three clay sealing impressions there show the typical square Indus seal impressed on packing materials, with reverse sides bearing woven-cloth impressions, indicating cloth-wrapped containers sealed with mud. Frenez and Tosi link this functionally to a broader "Transcultural Administrative Sealing System" attested across the Middle East since the sixth–fifth millennia BCE. Wright reports engraved square seals present at Lothal from the earliest Urban phases (c. 2500 BCE) onward, part of a network reaching as far as Mesopotamia (Umma, Ur, Lagash, Tell Asmar), western Iran, Central Asia, and the Arabian Peninsula coast.
+
+**Dockyard dispute (Wright's framing).** Wright records the Lothal upper-town foundation, which S. Rao (1979) interpreted as a depressed rectangular baked-brick-walled space with post holes and anchor stones forming a tidal dockyard, against an alternative proposed by Bisht (excavator of Dholavira) that the same kind of feature may instead be a water-collection tank — paralleling the "granary"-type foundation elsewhere at Lothal, whose function Wright also treats as unsubstantiated by direct evidence. She records this as a live, unresolved dispute rather than adjudicating it.
+
+**Hunter-gatherer symbiosis with Langhnaj.** Possehl (2002:71–73) and Kennedy et al. (1984), as reported by Wright, document typological similarity between stone tools at the small hunter-gatherer site of Langhnaj, Gujarat, and Lothal, along with skeletal/physical characteristics linking the Langhnaj population to Lothal's inhabitants — read as evidence of a symbiotic relationship in which hunter-gatherers supplied Lothal with raw materials (agate, carnelian, rock crystal, steatite, shell, ivory, wood/teak) on the margins of the city-state economy.
+
+**Hoards and metal composition.** Three hoards are recorded at Lothal (compare twelve at Mohenjo-daro, seven at Harappa, several at Chanhu-daro, one at [[allahdino]]). Tin-content sampling (Kenoyer and Miller 1999) found only 6 of 63 sampled Lothal metal objects exceeded 5% tin, a lower proportion than at Mohenjo-daro (9 of 18) or Harappa (7 of 29) — read as evidence of differing raw-material sources or exchange networks across cities rather than a uniform Indus-wide metal supply.

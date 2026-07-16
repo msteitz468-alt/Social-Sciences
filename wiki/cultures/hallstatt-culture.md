@@ -15,8 +15,8 @@ preceded_by: ["[[unknown]]"]
 succeeded_by: ["[[la-tene-culture]]"]
 language_affiliation: "Often associated with early Celtic speech in older culture-history; Cunliffe 1997 treats association as arguable, not proven identity — see [[celtic-languages]] and [[celticity-debate]]."
 genetic_signature: "Not addressed in Cunliffe 1997."
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [culture, iron-age, western-europe]
 aliases: [Hallstatt, Hallstatt culture, Hallstatt period]
 ---
@@ -82,6 +82,12 @@ Principal Ha C elite concentration: southern Germany (Baden-Württemberg, Bavari
 - Archaeological culture here is an **etic construct** (`construct_status: conventional`); regional groups under the Hallstatt umbrella are not a single polity or people.
 - Eastern “Pontic”/Cimmerian correlations and classical ethnonyms remain soft — Cunliffe keeps chronological insecurity explicit.
 
+## Densification from Cunliffe, *Facing the Ocean* (2001)
+
+Cunliffe (2001) restates the Hallstatt/La Tène scheme explicitly as terminological convenience: the label is "nothing more than an artificial archaeological nomenclature" carrying "no implication of ethnicity nor of major cultural continuities or dislocations" (Cunliffe 2001) — reinforcing this page's construct-history caution from an independent later synthesis. He dates the Hallstatt period broadly c.1250–500/450 BCE, subdivided C (8th–7th c.) and D (6th c.), with La Tène A beginning the 5th century.
+
+On the Hallstatt D burial shift, Cunliffe (2001) sharpens the prestige-goods reading already on this page: D-period elite graves retain the four-wheeled vehicle but drop warrior gear (swords, spears) in favour of feasting paraphernalia — native drinking horns as at Hochdorf or full Greek *symposion* sets as at Vix — with rich burials shifting west to a Burgundy–Rhine "princely residences" zone. He again characterizes the system as a [[prestige-goods-economy]]: paramount chieftains controlling rare exotic goods (via Massalia, founded by Phocaean Greeks c.600 BCE) and redistributing them selectively to subordinates, with west Hallstatt elites actively seeking Mediterranean consumer durables rather than being passively exploited by Greek traders (Cunliffe 2001). He further proposes the west Hallstatt elite operated as **middlemen** in an exchange system reaching "as far afield as Britain and Ireland" (metals, amber, furs, slaves moving south), c.530–450 BCE — a claim of long-range Atlantic articulation additional to the 1997 synthesis above, kept attributed and not promoted to wiki voice. From the mid-5th century an Etruscan-mediated Moselle trading axis (beaked flagons from Vulci) may have eclipsed Massalia-routed Greek influence in the west Hallstatt zone, a shift whose driving agents (Etruscan or "barbarian") Cunliffe leaves open.
+
 ## Historiography
 
-Type-site excavations (Ramsauer at Hallstatt from 1846), Déchelette-era European synthesis, Reinecke periodization, and culture-historical equation with early Celts structure the standard narrative. Nineteenth-century art-historical models already debated Rhône vs Alpine (Etruscan) routes for Mediterranean influence on Hallstatt/early Celtic metalwork (Genthe, Werth, Furtwängler, Evans). Cunliffe 1997 ([[cunliffe-ancient-celts-1997]]; [[cunliffe-barry]]) synthesizes Hallstatt as Mediterranean–barbarian contact system and prestige-goods chiefdom zone whose mid-fifth-century systems-collapse feeds the Early La Tène periphery and migrations. Later absolute chronology (dendro, refined ¹⁴C) has adjusted some of Cunliffe’s 1997 absolute brackets; the relational sequence and social model remain the wiki’s attributed frame from this source.
+Type-site excavations (Ramsauer at Hallstatt from 1846), Déchelette-era European synthesis, Reinecke periodization, and culture-historical equation with early Celts structure the standard narrative. Nineteenth-century art-historical models already debated Rhône vs Alpine (Etruscan) routes for Mediterranean influence on Hallstatt/early Celtic metalwork (Genthe, Werth, Furtwängler, Evans). Cunliffe 1997 ([[cunliffe-ancient-celts-1997]]; [[cunliffe-barry]]) synthesizes Hallstatt as Mediterranean–barbarian contact system and prestige-goods chiefdom zone whose mid-fifth-century systems-collapse feeds the Early La Tène periphery and migrations. Later absolute chronology (dendro, refined ¹⁴C) has adjusted some of Cunliffe’s 1997 absolute brackets; the relational sequence and social model remain the wiki’s attributed frame from this source. [[cunliffe-facing-the-ocean-2001]] (Ch. 8) independently restates the prestige-goods/middleman model with an explicit Atlantic-reach claim (Britain and Ireland) — see the Densification section above.

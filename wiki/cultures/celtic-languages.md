@@ -15,8 +15,8 @@ preceded_by: ["[[unknown]]"]
 succeeded_by: ["[[unknown]]"]
 language_affiliation: "Branch of [[indo-european-languages]]; often grouped near Italic (Italo-Celtic hypothesis — disputed)."
 genetic_signature: "N/A — language family, not a genetic population."
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [culture, language-family, iron-age, western-europe]
 aliases: [Celtic language family, Celtic, Continental Celtic, Insular Celtic]
 ---
@@ -31,7 +31,7 @@ Cunliffe reports that Celtic is closest to the Italic languages; some linguists 
 
 **Construct status:** robust as a comparative language family; contested in its equation with classical *Keltoi*/Gauls or with [[la-tene-culture]] packages. Cunliffe’s load-bearing methodological claim: if a Celt is defined as a speaker of Celtic, linguistics **uncouples** “Celt” from archaeologically defined La Tène — the language was spoken considerably earlier and over a more extensive area than La Tène culture (R1-060, R5-042).
 
-Source densification: [[cunliffe-ancient-celts-1997]]; specialist linguistic monographs remain outstanding for deeper phonology and reconstruction.
+Source densification: [[cunliffe-ancient-celts-1997]] (core continental survey); [[cunliffe-facing-the-ocean-2001]] (first statement of the "Atlantic Celtic" term — a maritime lingua franca developing over four millennia of Atlantic seaways contact, reaching distinctive form in the Late Bronze Age; explicitly hedged in the source, and its regional-variation reading — Lepontic/Celtiberian/Goidelic "early" traits vs. "developed" Brittonic/Gaulish as interaction patterns rather than spread chronology — is Cunliffe's attributed position); [[cunliffe-britain-begins-2013]] (Atlantic-origin densification below). The historiographic anchor that the family was first named "Celtic" by Edward Lhuyd at the end of the seventeenth century recurs in all three volumes. Specialist linguistic monographs remain outstanding for deeper phonology and reconstruction.
 
 ## Material / Linguistic / Genetic Signature
 
@@ -87,17 +87,80 @@ N/A as a language family per se. Speech communities’ economies, warfare, and r
 - Debates: [[celticity-debate]]; homeland context [[steppe-hypothesis-debate]] (Cunliffe 1997 is not a homeland monograph).
 - Surviving literacy under Rome and medieval Insular tradition feed modern Celtic identities (R5-040).
 
+## Densification from Cunliffe, *Britain Begins* (2013)
+
+**Layer note.** [[cunliffe-ancient-celts-1997]] framed Celtic’s homeland as broadly Rhine–Danube-compatible and treated Atlantic Celticization mainly via long reciprocal exchange after c.1300 BCE. In [[cunliffe-britain-begins-2013]] Cunliffe **repositions** the principal hypothesis: Celtic as an **Atlantic-zone development** (lingua franca of maritime connectivity), with later inland spread associated with Beaker-era networks — still a *working hypothesis*, explicitly not a new invasion myth, and still bound by four-way non-identity (language ≠ material culture ≠ genes ≠ ethnonym). All claims below are **attributed to Cunliffe 2013** unless marked as classical or map data he reports.
+
+### Connectivity and the need for a lingua franca
+
+Cunliffe (2013) contrasts Herodotus’s “silent trade” with British–Irish–continental networks that transmitted complex packages (passage-grave architecture and cosmologies; copper pyrotechnics; Beaker coherence from Tagus to Rhine and Scotland). He argues such communication requires sophisticated language — not necessarily one language throughout the Atlantic, but **some lingua franca** by the early second millennium BCE and probably emerging a millennium earlier. Of that language no direct evidence exists; he believes a convincing case can be made that the principal intergroup language was what is now called Celtic (R5-028, R5-029). **Association, not identity:** connectivity archaeology licenses a communication hypothesis; it does not prove pots = people = language.
+
+### What remains after rejecting the Celtic-invasion house of cards
+
+After deconstructing the elaborated eastern-origin/invasion model (see [[celticity-debate]]), Cunliffe (2013) retains three separable propositions (R5-033):
+
+1. Celtic dialects spoken over much of western Europe, including probably Ireland and Britain, in the later first millennium BCE, surviving in Brittany, Wales, Ireland, Scotland.
+2. Celtic-speaking groups from eastern France and southern Germany migrated fourth–second centuries BCE into Italy and east into the Balkans/Asia Minor, **probably** taking the language with them (the historic Celtic migrations).
+3. La Tène material culture and “Celtic art” reflect mobility of ideas and values but **need not imply ethnic or linguistic identity**.
+
+This is the 2013 restatement of the 1997 uncoupling of language from La Tène — sharpened for Britain/Ireland continuity arguments.
+
+### Phylogenetic dates (contended) and separation from Italic
+
+Cunliffe reports phylogenetic wordlist analyses (including a New Zealand dendrogram) suggesting IE branching around 6500 BCE (large error) and rapid divergences c.4500–3000 BCE; Celtic begins separating from Italic sometime before 4000 or 3000 BCE, with other approaches offering c.4100 BCE (wide error), 3200 ± 1500 BCE, and before 2500 BCE. If a consensus of estimates is accepted, Celtic as a distinct language separates **sometime 4000–2500 BCE**; he judges the probability bracket unlikely ever to narrow significantly (R5-035–R5-037, R5-068). **Absolute phylogenetic dates are contended** under this wiki’s Chronological Uncertainty Protocol — glottochronology is discredited; these figures stay attributed and provisional (as of Cunliffe 2013).
+
+### Atlantic-origin hypothesis
+
+Cunliffe asks where Celtic first emerged: other IE branches are spoken roughly where thought to have developed; he proposes Celtic **may have emerged in the west** as the language of Atlantic-facing Europe (R5-038). Supporting strands he marshals:
+
+| Strand | Claim (Cunliffe 2013) | Caution |
+|---|---|---|
+| Place-name map (Oppenheimer after Sims-Williams 2006) | Highest frequencies of ancient Celtic place names in Britain, Gaul, western/central Iberia; smaller Danube–Anatolia concentrations reflect historic eastward movements (R5-039) | Survival bias; map gives **no antiquity** by itself |
+| Earliest Greek geography | Hecataeus/Herodotus/Ephorus place Celts as a **westerly** people (Massalia–Atlantic–much of Iberia); inland Armorican Celtica only with Pytheas (R5-040) | Ethnonym ≠ language map certainty |
+| Tartessian SW Iberia | Funerary stelae in Phoenician script: as Cunliffe reports a “conclusive” recent reconsideration that the language is Celtic; earliest examples probably 7th c. BCE — oldest Celtic so far recorded; mature language implies considerably earlier advent (R5-041) | **Tartessian = Celtic is itself a live philological dispute** outside this book; record as Cunliffe’s reported position (as of 2013) |
+| *Ora Maritima* / Pytheas | Iverni and Albiones as Celtic words; possible Massaliot periplus 6th (or 4th) c. BCE; by late 4th c. Pytheas finds Armorica and much of W France Celtic-speaking (R5-042) | Poem is late; periplus source reconstruction contested |
+| Cardial/Impressed Ware | Speculative IE ancestral-to-Celtic reaching Iberia with 6th-millennium maritime Neolithic from southern Balkans; later Atlantic Celtic spread may be no coincidence (R5-048) | Pots ≠ language; *associated_with* only |
+| Beaker package | If Celtic were forming as 4th-millennium maritime lingua franca, Beaker-era movement 2700–2400 BCE could drive Celtic into central Europe with the Bell Beaker package (R5-044, R5-047) | Language spread argued via package, not identity of Beaker people with Celts |
+
+**Compatibility claim.** Phylogenetic origin bracket 4000–2500 BCE is, Cunliffe argues, not at odds with mature Celtic in SW Iberia by the 7th c. BCE (R5-043).
+
+### Speculative “Atlantian” model and Q/P
+
+As a thought-device, Cunliffe (2013) sketches a lingua franca he nicknames “Atlantian” growing along Atlantic seaways c.4500–3000 BCE from a Tagus innovative centre; mid-3rd-millennium Beaker impulses extend it inland, evolving under Corded Ware–Single Grave impact into a **continental** dialect distinct from **coastal** Atlantian. By c.2000 BCE Ireland and west-facing Britain keep coastal speech; southern and eastern Britain adopt the continental dialect — a possible explanation of Goidelic (Q-Celtic) vs Brythonic (P-Celtic) **without** successive invasion waves (R5-046). He notes “Atlantian” can simply be substituted by “Celtic.” **Model only; absolute stages contended.**
+
+Compared with 1997: Cunliffe already treated Q/P invasion models as oversimplifications (R1-052 of the 1997 densification above); 2013 offers an **explicit alternative chronology and geography** for the dialect split, tied to Beaker-era connectivity rather than first-millennium folk movement.
+
+### Working conclusion for Britain and Ireland (attributed)
+
+Cunliffe judges relating archaeology and language difficult and academically dangerous but necessary; Atlantic origin of Celtic is **more in harmony with available evidence** than the 17th-century eastern-origin Celtic myth, offered as a **useful working hypothesis rather than a new myth**. If correct, inhabitants of Britain and Ireland were speaking Celtic dialects **by 2000 BCE**, and some Irish Sea-zone communities may have spoken Celtic longer (R5-049). The “by 2000 BCE” speech claim is **model-dependent and contended** — not wiki-voice chronology.
+
+Figure 7.5 (as he captions it) visualizes the package: IE into Mediterranean with Impressed Ware Neolithic → develops into Celtic as Atlantic-zone lingua franca → later spreads into western/central Europe with the Beaker phenomenon (R5-069).
+
+### 2013 historiography of the linguistic invasion model
+
+- Seventeenth-century fusion of biblical Flood settlement with classical accounts of warlike Celts from west-central Europe → imagined **westerly** hordes into Brittany, Britain, Ireland though **no classical source** records such movement (R5-030).
+- Pezron 1703 maximally elaborates the eastern-origin expansion myth; living Celtic speakers = Bretons and Welsh as true descendants vs Franks/Anglo-Saxons (R1-029, R5-030).
+- Lhuyd 1707 *Archaeologia Britannica*: names Welsh, Irish, Scottish, Cornish, Breton as Celtic; dual-wave model (Spain→Ireland, then Gaul→Britain) influential for ~250 years (R1-030); Welsh-preface Q-then-P replacement model discussed by philologists for ~300 years and fitted to archaeology by culture-historians (R5-031).
+- After 1871 Bologna, La Tène “Celtic art” becomes surrogate for classical Celts; British/Irish La Tène art treated as “proof” of 5th–4th c. Gaulish migration — an assumption modern archaeologists (and Cunliffe 2013) call grossly oversimplified (R5-032).
+- Myths elaborated into the first half of the 20th century are still reiterated in some quarters long after field archaeologists abandoned them (R5-072).
+
+**Lexical/toponymic notes (2013 Ch. 1).** Cunliffe argues Pretani is a Celtic word probably “the painted ones”/“tattooed folk” (possibly ethnonym or neighbours’ label); Pretannia/Britannia shifts by Strabo’s time; P-spelling survives in Picti and Welsh Prydain; “Holy Island” for Ireland likely scribal confusion of Hiweros/Iweros (“fat”/fertile land) with Greek *hieros* (R1-010, R1-013, R1-014). These are ethnonym/toponym claims, not evidence of pan-Celtic self-identity.
+
 ## Identity Cautions
 
 - Speaking Celtic ≠ being called *Keltoi*/Gaul by Greeks and Romans ≠ using La Tène material culture ≠ belonging to a genetic population.
-- No ancient author described the inhabitants of Britain and Ireland as Celts (R3-079).
+- No ancient author described the inhabitants of Britain and Ireland as Celts (R3-079 of 1997 densification; restated 2013).
 - Lepontic predates the historic Po Valley migration narrative (R1-058) — early Celtic speech ≠ identity with later classical “Celts.”
-- Q/P invasion models and Iberian two-wave models are oversimplifications on Cunliffe’s reading (R1-052, R3-065, R3-066).
-- Modern Celtic languages do not prove Iron Age political unity or continuous self-conscious pan-Celtic ethnicity (R5-041).
-- Glottochronology and absolute linguistic dates are contested; prefer relative sequence plus independent archaeological/historical anchors.
+- Q/P invasion models and Iberian two-wave models are oversimplifications on Cunliffe’s reading (R1-052, R3-065, R3-066 of 1997 densification); 2013 offers an Atlantic/Beaker dialect model as alternative, still attributed.
+- Modern Celtic languages do not prove Iron Age political unity or continuous self-conscious pan-Celtic ethnicity (R5-041 of 1997 densification).
+- Glottochronology and absolute linguistic dates are contested; prefer relative sequence plus independent archaeological/historical anchors. Phylogenetic brackets in *Britain Begins* (as of Cunliffe 2013) remain provisional.
+- Tartessian classified as Celtic is **reported** by Cunliffe 2013, not settled wiki-voice philology.
+- Cunliffe 1997’s Rhine–Danube-compatible homeland + Atlantic exchange model and Cunliffe 2013’s Atlantic-origin hypothesis are **two chronological layers of the same author** — do not silently merge them into one “Cunliffe view.”
 
 ## Historiography
 
-Cunliffe’s Ch. 2 is a secondary synthesis, not primary comparative reconstruction. He traces: Lhuyd and the birth of Celtic comparative awareness; Jones/Schleicher IE framing; Rhys invasion models; Continental epigraphy (Evans, Whatmough; Botorrita); art-history and archaeology drawn into a “single study” of Celtic culture after Jacobsthal 1944 (R1-053–R1-060, R1-080). Invasionist circularity — language implies migration implies material culture implies language — is explicitly criticized for Iberia, Britain, and Ireland (R1-038, R1-039). Post-1960s Spanish work rejecting monocausal Celtiberian invasionism for élite assimilation of selected elements is reported sympathetically (R3-066, R3-067). Chapman 1992 is flagged as the sharpest challenge to the whole “Celt” concept (R5-048).
+Cunliffe’s 1997 Ch. 2 is a secondary synthesis, not primary comparative reconstruction. He traces: Lhuyd and the birth of Celtic comparative awareness; Jones/Schleicher IE framing; Rhys invasion models; Continental epigraphy (Evans, Whatmough; Botorrita); art-history and archaeology drawn into a “single study” of Celtic culture after Jacobsthal 1944 (R1-053–R1-060, R1-080 of the 1997 densification). Invasionist circularity — language implies migration implies material culture implies language — is explicitly criticized for Iberia, Britain, and Ireland (R1-038, R1-039). Post-1960s Spanish work rejecting monocausal Celtiberian invasionism for élite assimilation of selected elements is reported sympathetically (R3-066, R3-067). Chapman 1992 is flagged as the sharpest challenge to the whole “Celt” concept (R5-048 of 1997 densification).
 
-Specialist historical linguistics and later archaeolinguistic work should densify this page further when ingested. Source: [[cunliffe-ancient-celts-1997]]. Related: [[celts]], [[celticity-debate]], [[cunliffe-barry]].
+[[cunliffe-britain-begins-2013]] revisits the same historiographic spine (Pezron, Lhuyd, post-1871 La Tène = Celt equation) and advances the **Atlantic Celtic working hypothesis** as a Britain-and-Ireland-centred alternative to eastern-origin invasionism, drawing on Sims-Williams place-name work, phylogenetic experiments, and the (contested) Tartessian reading. Specialist historical linguistics and later archaeolinguistic work should densify this page further when ingested.
+
+Sources: [[cunliffe-ancient-celts-1997]]; [[cunliffe-britain-begins-2013]]. Related: [[celts]], [[celticity-debate]], [[cunliffe-barry]].

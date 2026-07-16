@@ -7,11 +7,11 @@ era: [postwar-expansion, critical-turn, contemporary]
 affiliated_theories: ["[[cultural-ecology]]", "[[cultural-materialism]]", "[[multilinear-evolution]]"]
 trained_under: ["[[unknown]]"]
 trained: ["[[unknown]]"]
-key_works: ["[[sanders-price-mesoamerica-1968|Mesoamerica: The Evolution of a Civilization (1968, with Price)]]", "The Basin of Mexico (1979, with Parsons & Santley)"]
+key_works: ["[[sanders-price-mesoamerica-1968|Mesoamerica: The Evolution of a Civilization (1968, with Price)]]", "[[sanders-parsons-santley-basin-of-mexico-1979|The Basin of Mexico (1979, with Parsons & Santley)]]"]
 key_concepts: ["[[symbiotic-region]]"]
 fieldwork_sites: ["[[teotihuacan|Teotihuacan Valley / Basin of Mexico]] (settlement survey, 1960s–1970s)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, anthropology, archaeology]
 ---
 
@@ -26,7 +26,7 @@ tags: [thinker, anthropology, archaeology]
 - **The [[symbiotic-region|symbiotic region]]** (Sanders 1956): ecological complementarity between contrasting highland/lowland zones as the driver of exchange, competition, and centralization — his signature analytical construct.
 - **Settlement-pattern method:** the distinction between "community" and "zonal" settlement patterns (Sanders 1956), and full-coverage regional survey as the way to read demography and social organization off the landscape.
 - ***[[sanders-price-mesoamerica-1968|Mesoamerica: The Evolution of a Civilization]]*** (1968, with [[price-barbara-j|Barbara J. Price]]): the programmatic synthesis applying [[steward-julian-h|Steward]]'s ecology, [[multilinear-evolution|multilinear evolution]], and [[service-elman-r|Service]]/[[fried-morton-h|Fried]]'s typologies to the Mesoamerican sequence, defending a revised irrigation–centralization thesis ([[hydraulic-hypothesis-debate]]).
-- ***The Basin of Mexico*** (1979, with Jeffrey Parsons and Robert Santley): the mature statement of the Basin survey.
+- ***[[sanders-parsons-santley-basin-of-mexico-1979|The Basin of Mexico]]*** (1979, with [[parsons-jeffrey-r|Jeffrey Parsons]] and [[santley-robert-s|Robert Santley]]; study [[sanders-basin-of-mexico-study]]): the mature statement of the Basin survey, spanning fieldwork from the 1960 pilot season through 1975 regional surveys. Sanders directed the Teotihuacan Valley excavations/survey (five seasons, 1960–1964) and later regional work — 1972 contemporary-agriculture study near Texcoco, 1974 Cuautitlan survey (with Santley), 1975 partial Temascalapa survey — with Parsons, Santley, and Mary Hrones Parsons as long-term core collaborators. In the 1979 volume, Sanders, Parsons & Santley partially **self-retract** Sanders's own 1959/1968 symbiotic-region model as an explanation of political-centralization *origins*: they judge it better suited to explaining Late Horizon regional integration than the emergence of early chiefdoms/states, since First Intermediate period settlement concentrated in narrow piedmont bands where most resource zones were already locally accessible within single communities — undercutting a symbiosis-driven origin story for the earliest ranked societies.
 
 ## Intellectual Genealogy
 

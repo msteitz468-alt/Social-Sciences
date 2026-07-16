@@ -13,8 +13,8 @@ cultures: [australopithecus]
 excavated_by: [Mary Leakey]
 excavation_years: "individual fossils found 1935 and 1939; systematic excavations 1974–1979"
 key_finds: ["Laetoli Hominid 4 (LH 4), holotype mandible of Australopithecus afarensis", "the Laetoli footprint trail preserved in Tuff 7 (the 'footprint tuff')", "fossil material from up to 23 individuals"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, early-prehistory, east-africa]
 ---
 
@@ -35,3 +35,20 @@ Laetoli provides both the type specimen for Australopithecus afarensis (alongsid
 Whether the Laetoli footprints reflect a fully modern human striding gait is contested. Some researchers argue the footprints' heel strike, nondivergent big toe, and arch imply a gait "essentially indistinguishable from that of modern people," while others argue this is difficult to reconcile with the somewhat apelike foot and hip anatomy of the Hadar A. afarensis specimens and propose instead a "bent-hip, bent-knee" gait more like a chimpanzee walking on two legs (as of [[klein-human-career-1999]]). Klein presents both positions without adjudicating between them.
 
 Discussed in [[klein-human-career-1999]] ([[klein-richard]]) together with [[hadar]] as the two principal sites for Australopithecus afarensis.
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*(Attributed — [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]; as of Tattersall 2012.)*
+
+**Site and trackways.** Laetoli (Tanzania, near [[olduvai-gorge]]): layers ~3.5–3.8 Ma; 1974–79 jaws/teeth of three individuals; trackways discovered from 1976 — ~**3.6 Ma** hominid footprints in wet volcanic ash that hardened. Footprints as **fossilized behavior**: ~80 ft arrow-straight double trail of purposeful bipedal gait across an open, largely treeless plain (heading, in Tattersall’s reading, toward forested Olduvai Basin/lake). Weight transmission heel–side–ball–big toe like modern walk; arched feet; short in-line big toe; short strides, not very fast on slush; no forelimb steadying.
+
+**Gait experiment.** Experimental study comparing human straight- vs bent-kneed walking: bent knee → deeper toe than heel impressions; Laetoli heel and toe ~same depth → **straightened knee** — “serious biped.” Experimental scientists suggest upright locomotion increased ranging distance without extra energy as forest diminished (POSITION on energetics).
+
+**Species assignment and holotype.** Hadar and Laetoli researchers named *Australopithecus afarensis* for the Afar region; **holotype lower jaw from Laetoli** chosen to emphasize unity of the samples. Majority willing to assign trails to *A. afarensis*; **substantial minority** holds Hadar foot bones too long/primitive for the strikingly modern Tanzanian prints — if majority right, Lucy’s arboreal adaptations remain compatible with humanlike bipedality; jury out (as of 2012). Woranso-Mille (~3.58 Ma) longer hind limb than Lucy’s is offered as possibly closer to Laetoli print-makers. No stone tools in the footprint beds (consistent with Klein layer).
+
+See [[bipedalism]], [[australopithecus]], [[hadar]].
+
+## Renfrew *Figuring It Out* (2003) — footprints as cognitive contrast
+
+*(Attributed — Renfrew 2003.)* Renfrew pairs the Laetoli ash trail (~3.6 mya) with Niaux cave footprints (~30 kya) and with Richard Long's *A Line Made by Walking*: same superficial "line made by walking," radically different cognitive/linguistic/tool capacities. Used as an entry image for the human condition and the [[sapient-paradox]], not as a primary excavation report.
+

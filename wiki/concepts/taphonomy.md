@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "study of the transition of organic remains from the biosphere into the lithosphere — death, decay, transport, burial, and fossilization processes that shape bone assemblages before and after deposition"
 contested: no
 related_concepts: ["[[formation-processes]]", "[[archaeological-record]]", "[[actualistic-studies]]", "[[faunal-analysis]]", "[[behavioral-archaeology]]"]
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 5
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -24,6 +24,8 @@ Efremov coined **taphonomy** for the laws of burial; archaeologists and paleoant
 ## Semantic History
 
 Moved from paleontology into archaeology with early-hominid debates. In *Pursuit* Part I, Binford recounts challenges to Raymond Dart’s reading of Makapansgat and related bone+tool associations as self-evident meals of bloodthirsty early hunters: **Brain’s** model of limestone solution chambers, fissures, roof fall, and multi-agent access (owls, bats, primates/hominids, leopards, hyenas) treats deposits as **ecosystem-level** products, not single-species behavior. Waterhole actualistic work similarly separates modern death assemblages from claims about ancient base camps and shared food.
+
+Binford's *[[binford-bones-1981|Bones: Ancient Men and Modern Myths]]* (1981) is, with Brain's *The Hunters or the Hunted?* (1981), a founding text of the field: it built diagnostic criteria for **nonhuman bone modification** (tooth-mark typology — punctures, pits, scores, furrows; "channeling" and "chipping back"; density-mediated destruction by anatomical part) from actualistic wolf-den and dog-yard control samples, showing that spiral fracture, "pseudo-tools," and chipped-back edges are routinely produced by carnivore gnawing and trampling and so cannot diagnose human agency by themselves (see [[osteodontokeratic-culture]], [[hunting-scavenging-debate]]).
 
 ## Operationalizations
 

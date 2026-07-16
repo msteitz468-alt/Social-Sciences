@@ -15,8 +15,8 @@ preceded_by: ["Beixin culture (ca. 5300–4300 BCE; not yet a wiki page)", "[[ho
 succeeded_by: ["[[lungshan-culture]]"]
 language_affiliation: "[[unknown]] — not equated with a language or people"
 genetic_signature: "[[unknown]] — no aDNA reported by Liu & Chen 2012"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [culture, neolithic, china, east-asia]
 ---
 
@@ -91,6 +91,15 @@ stimulated the development of social hierarchy," an explicit contrast with the m
 group-oriented [[yangshao-culture]] mortuary pattern. At Yuchisi (Mengcheng, Anhui;
 2800–2600 BCE), a late Dawenkou village yielded houses with unusually large numbers
 of ceramic vessels.
+
+Shelach-Lavi ([[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]) describes
+grave M10 at Dawenkou (4.2 × 3.2 m, with a secondary ledge and wooden coffin) as
+belonging to an elderly female, containing ninety-three vessels along with a large jade
+axe, jade ornaments, and four pig mandibles — among the richer known individual burials
+of the culture. He also frames the Shandong Longshan mortuary tradition as a direct
+continuation of Dawenkou practice, with rich/poor grave disparity increasing further
+into the Longshan period, and drinking cups and wine vessels in late-Dawenkou and
+Longshan graves associated with feasting (see [[lungshan-culture]]).
 
 ## Relations and Successions
 

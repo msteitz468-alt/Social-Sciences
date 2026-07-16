@@ -15,8 +15,8 @@ preceded_by: ["[[natufian-culture]]", "local Epipaleolithic traditions"]
 succeeded_by: ["Pottery Neolithic / Yarmukian and regional successors", "nomadic pastoral trajectories after some PPNB collapses"]
 language_affiliation: "[[unknown]] — do not equate PPN material culture with any language family"
 genetic_signature: "[[unknown]] in Mithen 2003 — pre-aDNA synthesis; not equated with the material construct"
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [culture, neolithic, near-east, levant]
 ---
 
@@ -80,6 +80,16 @@ PPN is the primary archaeological demonstration that **villages, ritual monument
 ## Historiography
 
 Construct born at Jericho under Kenyon; expanded by West Bank PPNA projects, Euphrates salvage (Mureybet, Abu Hureyra), Anatolian cult archaeology (Schmidt at Göbekli), and Cyprus wells. Mithen 2003 is a popular-academic synthesis of early-2000s research — absolute dates, genetic ancestry, and some site interpretations have been revised since; keep claims attributed and date-stamped.
+
+## Nissen densification (1988)
+
+*(Attributed — [[nissen-hans-j|Hans J. Nissen]], *[[nissen-early-history-ancient-near-east-1988|The Early History of the Ancient Near East, 9000–2000 B.C.]]* (Chicago 1988), Ch. 2 “The Time of Settlement (ca. 9000–6000 B.C.)” and opening of Ch. 3.)*
+
+**Settlement ecology and catchment.** Nissen argues Neolithic sites were not random: optimal locations lay where varied sustenance was available nearby for as long and regularly as possible; camps on borders between small ecological units minimize travel while maximizing variety and season length — favoring differentiated (hilly/mountainous) relief. That matches early permanent/temporary settlement distribution: never on the great alluvial plains of southern Iraq (Babylonia) or Khuzistan (Susiana). Pre-pottery and earliest pottery Neolithic sites in the Zagros (e.g. Tepe Guran, Tepe Sarab, Ganj Dareh, Qabat [[jarmo|Jarmo]], Qabe Rostam) sit in valleys or valley exits to smaller plains as **isolated settlements far from peers**. Beidha (SE of the Dead Sea) exemplifies multi-ecotope access on a plateau between hills/desert and the Wadi Araba rift, with mixed production and foraging. Bouqras on the central Euphrates shows that even less differentiated hinterlands still used river, terrace, and hinterland for varied food-gathering (as of Nissen 1988).
+
+**Early villages and mixed economy.** Permanent settlements without pottery were first recognized at Jarmo (eleven aceramic layers beneath limited simple pottery, high share of produced food). Simple storage pits in several prepottery settlements mark beginnings of stationary storage, later improved by clay plaster and large fired vessels. Nissen frames the “beginnings of permanent settlements” as a long period when cultivation and husbandry reduced — but did not soon replace — hunting/fishing/gathering, because production remained too unreliable; improved storage was more crucial than grain reserves for making extensive cultivation sensible. Domestication of cereals via selection of firm rachis and free-threshing traits; PPN bone assemblages with sex/age concentrations indicate control beyond pure hunting. Cultivation stayed climatically precarious; a mixed economy with gathering as buffer was essential for a very long time — people remained tied to multi-ecotope catchments even as production grew. Large hinterlands and terrain barriers kept settlements far apart, so neighborly contacts and **settlement systems cannot be expected** in this period; absence of systematic mutual connections is not only due to fragmentary finds (as of Nissen 1988).
+
+**Social undifferentiation cautions ([[catalhoyuk|Çatalhöyük]] partial exposure).** At Çatalhöyük, excavations uncovered ~440 m² of densely packed standard-size houses with roof access and no ground-level doors; lack of significant house-size differences and absence of freestanding communal facilities suggest a socially undifferentiated community — but Nissen stresses **only about one-eighth of the settlement was excavated**, and grave finds point to social differences (few burials with opulent goods; houses with rich graves do not differ from others). Settlements generally have rarely been excavated enough to determine social differentiation from layout, house-size spread, or find distribution; generalizations are impossible. Bull-skull/horn rooms may indicate bull cult or totem animals, but cult rooms connect to living quarters — no separate freestanding temples as later temple prototypes. Nissen groups Çatalhöyük with [[jericho|Jericho]] as special early “town”-like extremes with unusual density-management problems, but only to a limited extent; further political-organization development did **not** lead via Jericho or Çatalhöyük, but via slow structured relationships between settlements and settlement systems (as of Nissen 1988). Pottery’s first appearance is not treated as a fundamental civilizational break (no accompanying change in architecture or subsistence); like writing later, pottery’s importance for modern chronology exceeds its status as an indicator of far-reaching social change.
 
 ## Cauvin densification (2000)
 

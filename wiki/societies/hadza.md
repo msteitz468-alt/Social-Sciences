@@ -9,8 +9,8 @@ documented_by: ["James Woodburn (Man the Hunter, 1968)"]
 documentation_dates: "Eastern Hadza fieldwork 1958–1960, with return visits 1961, 1965, 1966, 1967 (account dated to the 1960 position)"
 endonym_exonym_note: "Also recorded as Hadzapi, Tindiga, Kindiga, Kangeju; self-designation Hadza / Hadzabe."
 aliases: ["Hadzapi", "Tindiga", "Kindiga", "Eastern Hadza"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: ["society", "east-africa"]
 ---
 
@@ -31,6 +31,8 @@ occupied 1,000+ square miles of dry rocky savanna near Lake Eyasi, "rich in wild
 with abundant large game.
 
 ## Social Organization
+
+Camp size and conflict, per Woodburn (1968, 1972, 1979): camp size grew with resource scarcity/concentration (e.g., water) but was capped by social-conflict dynamics — meat-sharing obligations became onerous as camps grew and game scarcity increased, driving conflict, while larger camps also saw more time spent on social activities (including gambling) at the expense of hunting, compounding conflict over meat distribution. No formalized political authority existed; kinship/marriage ties helped resolve conflict but weakened as camps grew, and unresolved conflicts led "immediately to the break-up of the camp unit" (Woodburn 1972:200–201). [[moore-cultural-landscapes-andes-2005|Moore (2005)]] reads Hadza dry-season camps (minimal branch-framework shelters, per Woodburn 1972:194–95) through a soundscape lens: camp space packed into under 30m across, with huts (especially those of adult sisters) close enough that a raised voice would be heard across the whole camp — "a picture of audial intimacy."
 
 *(Attributed — Woodburn.)* Woodburn insisted the Hadza be studied as **"camps," not
 "bands,"** because their residential units lacked territoriality, institutionalized

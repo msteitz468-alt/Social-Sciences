@@ -1,3 +1,16 @@
+## [2026-07-15] ingest | The Ancient Indus: Urbanism, Economy, and Society (Wright 2010) | archaeology / anthropology | Indus/Harappan, South Asia, Bronze Age | Pages created: 10 | Pages updated: ~34
+
+Third single-author Indus synthesis after Possehl 2002 / Kenoyer 1998 (`source_type: textbook-handbook`). pdftotext -layout **148,860 words** / 17,522 lines; body Chs 1–11 (744–14953) complete. **6-agent** chapter-weighted extraction (`scratchpad/wright_indus_cache/`; inventory 6/6 non-empty, full coverage). Two-stage: 1 extraction wave → main-thread claims review → 1 wave of 4 page-partitioned integration agents; harappan-civilization + debates indus-polity/indus-transformation/mohenjo-daro-massacre + new culture pages main-thread. Created: source wright-ancient-indus-2010; thinkers wright-rita-p, trigger-bruce; sites shortugai, rehman-dheri, sutkagen-dor, sotka-koh, balakot; cultures kulli-culture, bactria-margiana-archaeological-complex. Densified: harappan-civilization; sites mohenjo-daro/harappa/dholavira/lothal/kalibangan/nausharo/chanhudaro/allahdino/mehrgarh/rojdi/ganweriwala; concepts craft-specialization/standardized-weights/meluhha/middle-asian-interaction-sphere/indus-script/indus-valley-tradition/indus-religion/pashupati-seal/great-bath/priest-king-statue/cemetery-h/gender-in-the-indus-civilization/bioarchaeology-of-the-indus/city-state/heterarchy; central-place-theory; phenomena indus-urbanization/deurbanization-of-the-indus; early-harappan; Indus thinker pages + archaeology coverage. Load-bearing (attributed to Wright): transformative technological style; differentiated society (vs D. Miller 1985); city-state + vertical integration; emerging polities; uneven transformation + anti-continuity vs Shaffer-Lichtenstein; Kennedy 2000 vs Aryan invasion; four-way non-identity on BMAC. Pre-Rakhigarhi-aDNA. No studies/hub (survey synthesis). Validators: 0 new broken links vs baseline, 0 schema errors. Filed `raw/archaeology/`. Outstanding #38 ✅. Cache to be removed after close.
+
+## [2026-07-15] ingest | The Oxford Handbook of African Archaeology (Mitchell & Lane eds. 2013) | archaeology | continental Africa / all periods | Pages created: 9 | Pages updated: ~35
+
+## [2026-07-15] ingest | Smith, Uses of Heritage (2006) | archaeology, anthropology | contemporary | Pages created: 9 | Pages updated: 14
+
+Critical heritage studies charter. PDF→txt ~158k words / 16,448 lines (body 309–14600). 6-agent extraction inventory 6/6 (~386 claims). Created: source smith-uses-of-heritage-2006; thinker smith-laurajane; concepts authorized-heritage-discourse, dissonant-heritage, intangible-heritage; theory critical-heritage-studies; societies waanyi, castleford; site riversleigh. Updated: heritage, heritage-management, social-memory, performance, place-as-lived, authenticity, subaltern, nationalism-and-archaeology, public-archaeology, material-culture, archaeology, archaeology-and-nationalism-debate. Load-bearing (attributed): AHD; heritage as cultural process; all heritage intangible and dissonant; management governs meaning; multi-sited uses (country house n=454; labour museums n=273; Riversleigh; Castleford; Indigenous control). No studies/ page. Filed raw/archaeology/. Outstanding #43 ✅.
+
+
+Multi-author OUP handbook (70 chs). epub→txt 421,496 words; body 1452–53442; **10-agent** content-weighted extraction (inventory 10/10, ~597 claims). Created: source `mitchell-lane-oxford-handbook-african-archaeology-2013`; thinkers mitchell-peter, lane-paul; still-bay-industry, zimbabwe-culture; cattle-before-crops; sub-saharan-iron-origins-debate; gona, sibudu-cave. Densified archaeology + Bantu (de Maret four-way non-identity) + MSA + urbanism/state sites + methods. Companions Phillipson 2005 / Connah 2016. 0 new broken links. Filed `raw/archaeology/`. Cache `scratchpad/mitchell_lane_ohaa_cache/` removed after close.
+
 ## [2026-07-15] ingest | Partial Connections (Marilyn Strathern, 1991; AltaMira Updated Ed. 2004/5) | anthropology, feminist-anthropology | critical-turn / contemporary | Pages created: 5 | Pages updated: 12
 - **Source:** [[strathern-partial-connections-1991]] — AltaMira Updated Edition (main text late-1980s unmodified; 2004 Preface); ASAO Special Publications lineage; original 1991.
 - **Intake:** scanned PDF (90 pp landscape two-column) → pdftotext -layout **~59k words** / 3,904 lines — body through Footnotes complete (two-column layout inflates word count). OCR noise frequent but definitional prose recoverable.
@@ -4177,3 +4190,367 @@ Primary Araweté ethnography, base of [[perspectivism]] and the [[ontological-tu
 - Validation: 0 new broken links from this ingest (18 concurrent-session Haraway/Strathern breaks pre-noted, not ours). Trackers marked (Outstanding #29 ✅). Filed raw/anthropology/. Cache cleaned. No git commit.
 
 ## [2026-07-15] ingest | Staying with the Trouble: Making Kin in the Chthulucene (Haraway, 2016) | cultural-anthropology, sociology, STS | contemporary | Pages created: 15 | Pages updated: 4 | 5-agent extraction (all 5 ranges non-empty), 3 integration agents; 0 new broken links (concurrent-session noise excluded)
+
+## [2026-07-15] ingest | Early Cultures of Mainland Southeast Asia (Higham 2002) | archaeology | critical-turn/contemporary · mainland SE Asia deep prehistory–Angkor | Pages created: 10 | Pages updated: 17
+
+Densification of Higham 1989 network. Source: `higham-early-cultures-mainland-southeast-asia-2002`. Word-count intake ~145.5k / 380 pp complete. 6-agent extraction (ranges Ch1–2 / Ch2–3 / Ch4 / Ch5 / Ch6 / Ch7–8); claims inventory 6/6 (~391). Main-thread: bronze chronology (AMS 1500–1000 BCE), angkor hydraulic (sceptic lean), indianisation, higham-charles, southeast-asian-state-formation, angkor, mandala, source synthesis. Integration agents: 5 new HG/Neo/BA sites; 8 Iron Age sites/cultures; 7 densified existing. Validators: 0 new broken links vs session baseline. Filed `raw/archaeology/`. Cache cleaned after close.
+
+## [2026-07-15] ingest | Natives and Newcomers (Trigger 1985) | archaeology, cultural-anthropology, history | critical-turn · eastern-north-america / New France to 1663 | Pages created: 7 | Pages updated: 8
+
+Ethnohistory + Heroic Age historiography. Source: `trigger-natives-and-newcomers-1985`. Intake ~171k words / 445 pp complete. 6-agent chapter extraction; claims 6/6 (~376). Main-thread: trigger-bruce-g densify, canadian-heroic-age-historiography-debate, source synthesis. Integration: 4 Iroquoian societies + iroquois densify; virgin-soil-epidemics, fur trade, contact transformation, ethnohistory, ethnographic-present, parkman. Validators: 0 new broken links. Filed `raw/archaeology/`. Cache cleaned.
+
+## [2026-07-15] ingest | Masters of the Planet (Tattersall 2012) | biological-anthropology, archaeology | contemporary / deep-prehistory–behavioral-modernity | Pages created: 7 | Pages updated: ~29
+
+- **Source:** [[tattersall-masters-of-the-planet-2012]] (Ian Tattersall, *Masters of the Planet: The Search for Our Human Origins*, Palgrave Macmillan 2012; popular paleoanthropology synthesis; ~98k words)
+- **Created:** [[tattersall-ian]] · [[sahelanthropus]] · [[orrorin]] · [[ardipithecus]] · [[paranthropus]] · [[homo-ergaster]] · source page
+- **Densified (selection):** [[modern-human-origins-debate]] · [[behavioral-modernity]] · [[bipedalism]] · [[exaptation]] · [[species-concept]] · [[symboling]] · [[australopithecus]] · [[homo-habilis]] · [[homo-erectus]] · [[homo-heidelbergensis]] · [[neanderthals]] · [[homo-sapiens]] · [[denisovans]] · [[homo-floresiensis]] · [[oldowan-industry]] · [[acheulean-industry]] · [[mousterian-industry]] · [[aterian-industry]] · [[dmanisi]] · [[laetoli]] · [[hadar]] · [[blombos-cave]] · [[skhul]] · [[qafzeh]] · [[jebel-irhoud]] · [[herto]] · [[klasies-river]] · [[control-of-fire]] · [[global-colonization]] · [[biological-anthropology]]
+- **Method:** 5-agent range extraction (Prologue+Ch1–2 / Ch3–5 / Ch6–9 / Ch10–12 / Ch13–14+Coda); inventory 5/5; main-thread high-stakes + 3-agent page-owned integration
+- **No studies/ or hub** (popular synthesis; Thinkers Hub deferred pending wider Tattersall corpus)
+- **Trackers:** Outstanding #49 ✅ (Tattersall); Structural_Sources ✅; filed `raw/anthropology/`
+- **Validators:** 0 new broken links attributable to this ingest (baseline compare)
+
+
+## [2026-07-15] ingest | D'Altroy The Incas (2002/2003 1st ed.) | archaeology, anthropology | early-modern / Andes | Pages created: 14 | Pages updated: 12
+
+Ethnohistoric–archaeological densify of Tawantinsuyu beyond Moseley. Source `daltroy-the-incas-2002` (Blackwell Peoples of America; **first edition** — not 2014 2nd ed.). 7-agent extraction (~495 claims), main-thread [[inca-empire]] + integration wave (concepts: split-inheritance, panaqa, zeqe-system, qhapaq-ucha, yanakuna, aqllakuna; sites: machu-picchu, ollantaytambo, huanuco-pampa, cajamarca, saqsawaman; densify cuzco + labor/kin concepts). Canonical culture slug remains `inca-empire` (pointer on `inka-empire`). 0 new broken links. Outstanding #12 ✅. Filed `raw/archaeology/`.
+
+## [2026-07-15] ingest | The Maritime Foundations of Andean Civilization (Moseley 1975) | archaeology | critical-turn / Andean Cotton Preceramic | Pages created: 6 | Pages updated: 8
+- **Source:** `raw/archaeology/moseley-maritime-foundations-1975.txt` (from djvu OCR, 51k words / 5,164 lines; text complete)
+- **Method:** 2 Sonnet extractors, disjoint ranges (46–2400, 2401–4660); cache `scratchpad/moseley_mfac_cache/`; both claims files landed, filesystem inventory clean.
+- **Created:** sources/moseley-maritime-foundations-1975 · studies/moseley-maritime-foundations-study · sites/ancon · sites/huaca-prieta · sites/rio-seco · thinkers/{bird-junius, lanning-edward, engel-frederic, patterson-thomas} (note: ancon updated an existing stub → counted as created content)
+- **Updated:** theories/maritime-foundations-hypothesis (1975 primary-argument section) · thinkers/moseley-michael · thinkers/willey-gordon-r (genealogy: trained Moseley) · sites/aspero · sites/el-paraiso · concepts/coastal-adaptation · timelines/andean-chronology · sources page
+- **Notes:** all radiocarbon uncalibrated (1975 convention) — flagged on every date-bearing page. Río Seco absent from range-1 body (map label only); recovered from range 2. Concurrent session also editing moseley-michael (D'Altroy line) — no conflict.
+- **Trackers:** Outstanding #11 ✅; Structural_Sources ✅; filed `raw/archaeology/`
+- **Validators:** 0 new broken links vs session baseline; my pages 0 error/0 warning.
+
+## [2026-07-15] ingest | The Children of Aataentsic (Trigger 1976/1987) | anthropology, archaeology, history | postwar-expansion/critical-turn · eastern-north-america, to 1660 | Pages created: 7 | Pages updated: 15
+
+- **Source:** [[trigger-children-of-aataentsic-1976]] — McGill-Queen's 1976 (1987 reprint w/ new preface). Landmark primary ethnohistory; study page [[trigger-children-of-aataentsic-study]].
+- **Intake:** pdftotext -layout, ~379,051 words / 38,111 lines / 952 pp (~398 wpp) — complete. Body extraction prefaces + chs 1–13 (lines 565–35,049); endnotes/refs/index consulted selectively. Cache: `scratchpad/aataentsic_cache/` (cleaned).
+- **Method:** 10 chapter-weighted extraction agents in one wave + 2 gap-fill agents (ranges 6/7 read-cap shortfalls, recovered); claims inventory 12/12 non-empty (~40k words). Stage-2 page-owned integration, 4 agents; main thread wrote huron additions, study page, iroquois-wars-motivation-debate, Trigger thinker update, and the Trigger Thinkers-Hub biography.
+- **Created (7):** source; study; concepts/mourning-war; institutions/feast-of-the-dead; sites/sainte-marie-among-the-hurons; debates/iroquois-wars-motivation-debate; hubs/thinkers/trigger-bruce-g (**deferred hub from HAT ingest, now built**; portal updated).
+- **Updated (15):** huron (deep history, social-organization detail, epidemics/factions, destruction/dispersal); iroquois; petun (Wyandot ethnogenesis); neutral-iroquoians; st-lawrence-iroquoians (full disappearance debate); north-american-fur-trade; virgin-soil-epidemics (full 1634–40 sequence, demographic-parity argument); eastern-woodlands-contact-transformation; ethnohistory (method statement); oral-tradition (corroboration-only rule); settlement-pattern-archaeology; canadian-heroic-age-historiography-debate; trigger-bruce-g; thinkers-hub portal.
+- **Voice:** all reconstructions attributed to Trigger 1976/1987; 1987-preface controversies (Richter/Jennings/Eccles/Campeau/Heidenreich, Dobyns, Martin/Krech) recorded as positions; 1970s radiocarbon flagged likely uncalibrated; torture/famine documentation summarized with facts intact.
+- **Validators:** 0 new broken links vs session baseline; session pages 0 error/0 warning (pre-existing 6 schema errors + 4 broken links belong to other sessions' pages).
+- **Trackers:** Outstanding #3 fully ✅; Structural_Sources ✅; filed `raw/archaeology/` (pdf + txt).
+
+## [2026-07-15] ingest | The Early Mesoamerican Village (Flannery ed. 1976) | archaeology | critical-turn / formative Mesoamerica | Pages created: 8 | Pages updated: ~12
+
+Edited methodological charter for multi-scalar Formative village archaeology (household cluster → interregional exchange/ritual). PDF OCR complete; 8-agent extraction 8/8; study + Studies Hub same session. Created: `flannery-early-mesoamerican-village-1976`, `flannery-early-mesoamerican-village-study` (+ hub), `site-catchment-analysis`, `household-cluster`, `san-jose-mogote`, `tierras-largas`. Densified methods (household, settlement-pattern, survey), Flannery/Marcus thinkers, processual, formative-stage, mesoamerica, household institution, san-lorenzo. Filed `raw/archaeology/`. Outstanding #4 ✅. 0 new broken links vs session baseline.
+
+
+## [2026-07-15] ingest | Nissen The Early History of the Ancient Near East 9000–2000 B.C. (1988) | archaeology, anthropology | neolithic–bronze-age / near-east | Pages created: 2 | Pages updated: 21
+
+- **Source:** [[nissen-early-history-ancient-near-east-1988]] — Chicago 1988 (German 1983). Outline history of political organization ca. 9000–2000 BCE.
+- **Intake:** IA scan PDF 234 pp; pdftotext ~80,930 words / complete body (Ch.1–7 + prefaces). Cache: `scratchpad/nissen_cache/` (cleaned after close).
+- **Method:** 5-agent content-weighted extraction (ranges Pref+Ch1–2 / Ch3+Ch4open / Ch4 bulk / Ch5 / Ch6–7); inventory **5/5** (~421 claims). Stage-2 page-owned integration (3 agents: cultures / phenomena-concepts-methods / sites-debate-timeline-thinker); main thread source scaffold + synthesis + wikilink fix.
+- **Created (2):** source; thinker [[nissen-hans-j]].
+- **Updated (21):** cultures [[uruk-culture]] [[ubaid-culture]] [[pre-pottery-neolithic]] [[akkadians]] [[sumerians]] [[halaf-culture]] [[elamites]]; phenomena [[urbanization]] [[state-formation]] [[origins-of-writing]]; method [[settlement-pattern-archaeology]]; concepts [[settlement-hierarchy]] [[city-state]] [[cuneiform]]; sites [[uruk]] [[catalhoyuk]] [[jericho]] [[jarmo]]; debate [[mesopotamian-temple-state-debate]]; timeline [[ancient-near-east-chronology]].
+- **Note:** Van De Mieroop 2016 already ingested 2026-07-10; this is the Outstanding #15 Nissen alternative (deep prehistory + settlement framing). All theoretical claims attributed. 0 new broken links attributable to this ingest (session baseline compare: 1 NEW [[cosmotheism]] on cultural-memory — concurrent/other).
+- **Trackers:** Outstanding #15 Nissen ✅; Structural_Sources ✅; filed `raw/archaeology/`.
+
+## [2026-07-15] ingest-complete | The Cloud People: Divergent Evolution of the Zapotec and Mixtec Civilizations (Flannery & Marcus, eds., 1983) | archaeology, ethnohistory | classical-turn / neolithic–early-modern | Pages created: 18 | Pages updated: 7 | 10-agent parallel extraction, all ranges recovered, 0 new broken links
+
+## [2026-07-15] ingest-complete | The Mind of Egypt (Assmann, 1996/2002) | archaeology, anthropology, sociology | contemporary / neolithic–classical-antiquity | Pages created: 8 | Pages updated: 11
+- **Source:** [[assmann-mind-of-egypt-1996]] (pdftotext ~180k words; 8-agent extraction, inventory 8/8, ~330 claims)
+- **Created:** thinker [[assmann-jan]]; concepts [[cultural-memory]] [[connective-justice]] [[cosmotheism]] [[neheh-and-djet]] [[theology-of-will]]; debate [[amarna-memory-debate]]
+- **Updated:** [[maat]] [[amarna]] [[thebes-egypt]] [[memphis]] [[giza]] [[kingship]] [[state-formation]] [[hydraulic-hypothesis-debate]] [[origins-of-writing]] [[collective-memory]] [[social-memory]]
+- **Note:** All interpretive claims attributed (Sinngeschichte is a theoretical program); Osarsiph/lepers material quarantined to the debate page; Wittfogel-for-Egypt challenge added to hydraulic debate. 0 broken links after integration. Trackers: Outstanding #19 ✅; Structural_Sources ✅; filed raw/archaeology/.
+
+## [2026-07-15] ingest | Breaking the Maya Code (Coe, 3rd ed. 2012) | archaeology, linguistic-anthropology | founding-era–contemporary / mesoamerica | Pages created: 13 | Pages updated: 11
+
+Participant-historiography of Maya hieroglyphic decipherment. Extraction: 4 line-range agents (~469 claims). Key pages: [[coe-breaking-the-maya-code-2012]], [[maya-script-decipherment-debate]], [[epigraphy]], densified [[knorosov-yuri]], [[thompson-j-eric-s]], [[proskouriakoff-tatiana]], [[schele-linda]], [[stuart-david]], [[landa-diego-de]], and related. No studies-hub (history-of-discipline, not primary study design). 0 new broken wikilinks attributable to this session.
+
+## [2026-07-15] ingest | Zapotec Civilization (Marcus & Flannery 1996) | archaeology, anthropology | critical-turn–contemporary / mesoamerica formative–classic | Pages created: 8 | Pages updated: ~20
+
+- **Source:** [[marcus-flannery-zapotec-civilization-1996]] — Thames & Hudson 1996. Hybrid primary synthesis + action-theory case study; study [[marcus-flannery-zapotec-civilization-study]].
+- **Intake:** PDF (IA scan) → pdftotext -layout; ~103,172 words / 12,459 lines / 264 pp (~391 w/page) — complete. Cache: `scratchpad/marcus_zapotec_cache/` (cleaned after close).
+- **Method:** 5-agent content-weighted extraction (Ch.1–6 / 7–9 / 10–12 / 13–14 / 15–16); inventory **5/5** non-empty (~431 claims). Main-thread high-stakes integration (zapotec-civilization, monte-alban, san-jose-mogote, study, synoikism, action-theory-archaeology, 4 new sites); peripheral integration agent densified ~20 existing pages then hung on exit (killed; work already on disk).
+- **Created (8):** source; study; [[synoikism]]; [[action-theory-archaeology]]; [[jalieza]]; [[fabrica-san-jose]]; [[tomaltepec]]; [[huitzo]].
+- **Updated (~20):** [[zapotec-civilization]] [[monte-alban]] [[san-jose-mogote]] [[marcus-joyce]] [[flannery-kent-v]] [[guila-naquitz]] [[tierras-largas]] [[mitla]] [[teotihuacan]] [[cuicatlan-canada]] [[monte-negro]] [[ethnogenesis]] [[chiefdom]] [[hereditary-rank]] [[settlement-hierarchy]] [[state-formation]] [[settlement-pattern-archaeology]] [[processual-archaeology]] [[cognitive-archaeology]] [[blanton-richard]] [[kowalewski-stephen]] [[maize-domestication]] [[mixtec-culture]].
+- **Voice:** all theory/findings attributed; Greek synoikism + Hawaiian state analogies flagged; four-way non-identity on Zapotec ethnicity claims; population figures as SPP ranges.
+- **Hubs:** study page only (no Studies Hub — multi-decade synthesis, not single classic design; no Theory Hub for middle-range action program).
+- **Validators:** 0 new broken links vs session baseline; scoped schema 0 errors after `concepts_introduced` fix.
+- **Trackers:** Outstanding #5 Zapotec Civilization ✅ (line complete with Cloud People); Structural_Sources ✅; filed `raw/archaeology/` (pdf).
+
+## [2026-07-15] ingest | The Basin of Mexico (Sanders, Parsons & Santley 1979) | archaeology, anthropology | postwar-expansion–critical-turn / formative–late-postclassic | Pages created: 10 | Pages updated: 26
+- **Method:** 9-agent disjoint line-range extraction (25,752 lines; range 6 respawned after API server error; 9/9 claims files) → main-thread review → 4-agent page-partitioned integration (sites/cultures · ecology concepts · methods · theory/thinkers); main thread wrote study page, hydraulic-hypothesis-debate section, cuicuilco/loma-torremote/maquixco-bajo, source synthesis.
+- **Created:** [[sanders-parsons-santley-basin-of-mexico-1979]] [[sanders-basin-of-mexico-study]] [[parsons-jeffrey-r]] [[santley-robert-s]] [[population-pressure]] [[central-place-theory]] [[cuicuilco]] [[loma-torremote]] [[maquixco-bajo]] [[basin-of-mexico-chronology]]
+- **Updated (26):** [[hydraulic-hypothesis-debate]] [[teotihuacan]] [[tula]] [[tenochtitlan]] [[tlatilco]] [[cholula]] [[aztec-empire]] [[toltec-culture]] [[chinampa]] [[carrying-capacity]] [[agricultural-intensification]] [[symbiotic-region]] [[nuclear-area]] [[calpulli]] [[settlement-hierarchy]] [[settlement-pattern-archaeology]] [[archaeological-survey]] [[seriation]] [[site-catchment-analysis]] [[state-formation]] [[urbanization]] [[circumscription]] [[chiefdom]] [[carneiro-robert-l]] [[wittfogel-karl-a]] [[sanders-william-t]] [[millon-rene]] [[blanton-richard]] [[cultural-ecology]] [[sanders-price-mesoamerica-1968]].
+- **Voice:** Boserup/Carneiro/Wittfogel synthesis and all causal claims attributed; feedback-causation concession and symbiotic-region self-retraction recorded; Sanders-1965-vs-Armillas-1971 chinampa revision documented per contradiction protocol; Yoruba and lineage analogies flagged as analogy.
+- **Hubs:** study page only; Studies Hub judged borderline-not-met (parity with Adams Heartland precedent: survey synthesis, not single classic design) — flagged for curator decision.
+- **Validators:** 0 new broken links vs session baseline; scoped schema/lint 0 errors 0 warnings after fixes.
+- **Trackers:** Outstanding Arch Tier-1 #6 ✅; Structural_Sources ✅; filed `raw/archaeology/` (pdf).
+
+## [2026-07-15] ingest | Land Behind Baghdad (Adams, 1965) | archaeology, anthropology | postwar-expansion; deep-time ubaid–early-modern subject matter | Pages created: 3 | Pages updated: 11
+- **Source:** [[adams-land-behind-baghdad-1965]] — University of Chicago Press 1965. `source_type: primary-study` (Diyala regional survey; Mesopotamian survey-method charter). Study: [[adams-land-behind-baghdad-study]].
+- **Created:** source, study, [[nahrawan-canal]].
+- **Updated:** adams-robert-mcc (+ hub), jacobsen-thorkild, archaeological-survey, settlement-pattern-archaeology, hydraulic-hypothesis-debate, settlement-hierarchy, urbanization, state-formation, eshnunna, adams-heartland-of-cities-1981.
+- **Extraction:** 5 Sonnet agents, one wave, 5/5 claims files; Appendix C gazetteer skimmed main-thread (not itemized — noted on source page).
+- **Hubs:** thinkers-hub Adams biography densified (Phase 1). Studies Hub not built — parity with Heartland/Basin-of-Mexico precedent (survey monograph; depth lives in thinker hub) — flagged for curator decision.
+- **Validators:** 0 new broken links vs session baseline; scoped schema 0 errors.
+- **Trackers:** Outstanding #14 ✅; Structural_Sources ✅; filed `raw/archaeology/` (pdf + txt).
+
+## [2026-07-15] ingest | Chronicle of the Maya Kings and Queens (Martin & Grube 2nd ed. 2008) | archaeology | classic-maya / mesoamerica | Pages created: 4 | Pages updated: 18
+
+Reference dynastic chronicle (Thames & Hudson). OCR PDF intake ~98.5k words / 241 pp complete. **7-agent** extraction (ranges 1–7; ~609 claims; 7/7 inventory). Main-thread: [[classic-maya]], [[classic-maya-collapse-debate]], [[overkingship]], source, thinkers. Stage-2 site densify: 3 agents (Peten 5 sites; Usumacinta/west 4; SE Copan–Quirigua + teotihuacan note). Created: [[martin-grube-chronicle-maya-kings-2008]], [[martin-simon]], [[grube-nikolai]], [[overkingship]]. Outstanding #9 ✅. Cache cleaned after close.
+
+## [2026-07-15] ingest | Britain Begins (Barry Cunliffe, 2013) | archaeology | contemporary / british-isles deep prehistory–medieval | Pages created: 12 | Pages updated: 15
+
+- **Source:** [[cunliffe-britain-begins-2013]] — OUP 2013 single-author synthesis of Britain and Ireland from origin myths through the Northmen/Norman elite takeover.
+- **Intake:** pdftotext -layout; ~182k words; body ranges R1–R8 + R9 Ch.13 recovery (original cut missed Ch.13 at full-file ~18701).
+- **Extraction:** 8 parallel agents + main-thread R9; **679 claims**; filesystem inventory complete.
+- **Created (12):** source; [[doggerland]], [[danebury]], [[avebury]], [[skara-brae]], [[newgrange]]; [[hillfort]]; [[anglo-saxon-migration]], [[viking-age-britain]]; [[picts]], [[roman-britain]]; [[britain-invasion-continuity-debate]].
+- **Updated (15):** [[cunliffe-barry]], [[bell-beaker-culture]], [[wessex-culture]], [[star-carr]], [[stonehenge]], [[neolithic]], [[mesolithic]], [[megalith]], [[celtic-languages]], [[celticity-debate]], [[celts]], [[druids]], [[prestige-goods-economy]], [[oppida]] (+ source bookkeeping).
+- **Load-bearing:** selective mobility programme; Neolithic package 4200–3800 BCE; Beaker three-phase uptake; Atlantic Celtic densification (2013 vs 1997); Gundlingen Thames origin; Viking two-cycle model; four-way non-identity; genetics as of Cunliffe 2013.
+- **Hubs:** none (secondary synthesis; Thinkers Hub still deferred).
+- **Validate:** 0 new broken links vs session baseline; schema clean on touched pages.
+- **Filed:** `raw/archaeology/cunliffe-britain-begins-2013.pdf` (+ txt).
+- **Trackers:** Outstanding sources item 22 ⚠️ partial (*Britain Begins* done; *Facing the Ocean* open).
+
+## [2026-07-15] ingest | The Significance of Monuments (Bradley, 1998) | archaeology | critical-turn–contemporary / neolithic–bronze-age Europe | Pages created: 13 | Pages updated: ~16
+
+- **Source:** [[bradley-significance-of-monuments-1998]] — Routledge 1998 theoretical synthesis (`source_type: theoretical-work`).
+- **Intake:** OCR PDF → pdftotext -layout; **~74,016 words** / 192 pp / ~7,770 lines — complete. Cache: `scratchpad/bradley_monuments_cache/` (cleaned after close).
+- **Method:** 4-agent content-weighted extraction (pref+Ch1–2 / Ch3–4 / Ch5–7 / Ch8–10); inventory **4/4** non-empty (~570 claims). Main-thread scaffold + integration.
+- **Created (13):** source; [[bradley-richard]]; [[monumentality]]; [[death-of-the-house]]; [[long-mound]]; [[causewayed-enclosure]]; [[henge]]; [[passage-grave]]; [[ritual-landscape]]; [[landscape-archaeology]]; [[barkaer]]; [[cairnpapple]]; [[dragsholm]].
+- **Updated (~16):** [[megalith]] [[neolithic]] [[social-memory]] [[ritual]] [[domestication]] [[agricultural-revolution]] [[linear-pottery-culture]] [[stonehenge]] [[avebury]] [[newgrange]] [[lepenski-vir]] [[archaeology]] [[sherratt-andrew]] [[tilley-christopher]] [[phenomenological-landscape-archaeology]] (+ method adjacency).
+- **Voice:** surplus inversion, Mesolithic ontology, death-of-the-house, ancestry timing, second agricultural revolution — all attributed; pre-aDNA; mid-1990s 14C frame.
+- **Hubs:** none (theoretical synthesis, not classic study design or multi-author school charter).
+- **Validators:** 0 new broken links vs session baseline; scoped schema 0 errors 0 warnings.
+- **Trackers:** Outstanding #30 ⚠️ partial (*Significance* ✅; *Natural Places* open); Structural_Sources ✅; filed `raw/archaeology/`.
+
+## [2026-07-15] ingest | Potts, Mesopotamian Civilization: The Material Foundations (1997) | archaeology, assyriology | contemporary / neolithic–classical-antiquity | Pages created: 8 | Pages updated: 30
+
+## [2026-07-15] ingest | Ancient Oaxaca: The Monte Albán State, 2nd ed. (Blanton, Feinman, Kowalewski & Nicholas 2022) | archaeology, anthropology | formative-stage / mesoamerica | Pages created: 7 | Pages updated: ~40
+
+- **Method:** epub→pandoc (~73k words, complete); 3-agent disjoint extraction (`scratchpad/oaxaca_cache/`, 3/3 claims files; ~40-line tail gap main-thread recovered); main-thread claims review + high-stakes pages; 2-agent page-partitioned Edit-only integration (thinkers/methods/theories vs. concepts/phenomena/sites).
+- **Created:** [[blanton-ancient-oaxaca-2022]] [[monte-alban-founding-debate]] [[disembedded-capital]] [[dual-processual-theory]] [[feinman-gary-m]] [[nicholas-linda-m]] [[san-martin-tilcajete]].
+- **Core updates:** [[monte-alban]] (Period I barrios, terrace rebuttal, Cocijo ideology, Period II external-revenue shift), [[collective-action-theory]] (Levi→Blanton–Fargher archaeological extension; replication same-network caveat), [[san-jose-mogote]] (dual-organization vs. chiefdom), [[zapotec-civilization]], plus 33 agent-integrated pages (thinkers incl. caso/bernal genealogy fix, survey methods, cultural-ecology retrospective, hydraulic-hypothesis Oaxaca datum, mesoamerica, settlement-hierarchy figures).
+- **Voice:** collective-action program attributed throughout; conquest vs. confederation recorded as positions on the new debate page; analogies flagged.
+- **Validators:** 0 new broken links vs session baseline; scoped schema 0 errors.
+- **Trackers:** Outstanding Arch #7 ✅; Structural_Sources ✅; filed `raw/archaeology/` (epub).
+
+## [2026-07-15] ingest | Critical Historical Archaeology (Leone 2010) | archaeology / historical-archaeology | critical-turn–contemporary | Pages created: 7 | Pages updated: 9
+
+**Source:** Mark P. Leone, *Critical Historical Archaeology* (Left Coast 2010 / Routledge 2016). PDF → pdftotext -layout ~99,281 words / 9,671 lines. Essay retrospective (14 fragments + framing).
+
+**Method:** Deployed 4-range extraction (claims R1–R4, ~436 claims); main-thread integration for theory/thinker/sites. Cache: `scratchpad/leone_cha_cache/`.
+
+**Created:** `sources/leone-critical-historical-archaeology-2010` · `thinkers/leone-mark-p` · `hubs/thinkers/leone-mark-p` · `theories/critical-archaeology` · `sites/william-paca-garden` · `sites/colonial-williamsburg`
+
+**Updated:** `historical-archaeology` · `marxist-archaeology` · `georgian-worldview` · `ideology` · `public-archaeology` · `althusser-louis` · `deetz-james` · `post-processual-archaeology` · thinkers-hub portal
+
+**Notes:** Complements Orser 1996 (global HA) and Deetz 1996 (Georgian worldview). Hall *Archaeology and the Modern World* still on roadmap item 34 as alternative densifier.
+
+## [2026-07-15] ingest | A Forest of Kings (Schele & Freidel 1990) | archaeology | critical-turn / Classic Maya | Pages created: 4 | Pages updated: 21
+
+Popular-scholarly narrative archaeology of lowland Maya political history (William Morrow 1990). FLAG interpretive — dramatized scenes quarantined. 10-agent extraction (~650 claims); densified [[classic-maya]], collapse debate, major Classic sites, kingship concepts; created [[freidel-david]], [[cerros]], study page. 0 new broken links. Filed `raw/archaeology/`. Outstanding #10 ✅.
+
+
+## [2026-07-15] ingest | The Uruk World System (Algaze, 2nd ed. 2005) | archaeology, anthropology | chalcolithic (Uruk period, ~3800–3100 cal BCE) | Pages created: 9 | Pages updated: 7
+Supraregional synthesis of the Uruk expansion as the earliest world system / informal empire. 3-agent disjoint extraction (ranges 229–2873 / 2874–4913 / 4914–6761), inventory 3/3; main-thread integration (theory/debate/non-identity kept on main thread). Created source [[algaze-uruk-world-system-2005]], thinker [[algaze-guillermo]], study [[algaze-uruk-expansion-study]], phenomenon [[uruk-expansion]], concepts [[informal-empire]]/[[gateway-community]], debate [[uruk-world-system-debate]], sites [[habuba-kabira]]/[[tell-brak]]. Densified [[world-systems-analysis]], [[uruk-culture]], [[uruk]], [[core-periphery]], [[mesopotamian-trade]], [[prestige-goods-economy]], [[state-formation]]. Central debate Algaze–Stein–Frangipane OPEN. 0 new broken links. Filed raw/archaeology/. Outstanding #16 ✅.
+
+## [2026-07-15] ingest | Gilchrist — Gender and Archaeology (1999) | archaeology / feminist-archaeology | critical-turn–contemporary | [Pages created: 6] | [Pages updated: 8]
+
+- **Source:** [[gilchrist-gender-and-archaeology-1999]] — Routledge *Contesting the Past*; single-author synthesis of gender archaeology ~15 years after Conkey & Spector 1984; ch.6 original multi-source medieval English castle case ([[contested-garden]]).
+- **Intake:** image-only/scanned pdfFactory PDF (209 pp); pdftotext ~2.3k words → parallel pdftoppm@150dpi + tesseract (`OMP_THREAD_LIMIT=1`) → **~71,736 words** / 8,764 lines — complete through Subject Index.
+- **Extraction:** 6 Sonnet-class agents, chapter-weighted ranges (front+Ch1 / Ch2 / Ch3 / Ch4 / Ch5 / Ch6–7+Further); inventory **6/6 non-empty** (~397 claims: 98/52/70/58/50/69). Cache `scratchpad/gilchrist_cache/`.
+- **Created:** source; thinker [[gilchrist-roberta]]; concepts [[androcentrism]], [[gender-attribution]], [[gender-lifecourse]], [[contested-garden]].
+- **Updated:** [[feminist-archaeology]] + [[hubs/theory/feminist-archaeology]] (post-charter synthesis section); [[man-the-hunter-woman-the-gatherer-debate]]; [[sex-gender-distinction-debate]]; [[sexual-division-of-labor]]; [[hegemonic-masculinity]]; [[disciplines/archaeology]] coverage; [[gero-conkey-engendering-archaeology-1991]] later-synthesis link.
+- **No `studies/` page** (theoretical synthesis + one case chapter; parallel to Engendering treatment).
+- **Validation:** 0 new broken links vs session baseline; schema clean on touched pages.
+- **Filed:** `raw/archaeology/gilchrist-gender-and-archaeology-1999.{pdf,txt}`. Outstanding #33 ✅. Cache cleaned after close.
+
+
+## [2026-07-15] ingest | Cultural Landscapes in the Ancient Andes (Moore 2005) | archaeology, cultural-anthropology | contemporary / formative–late-horizon Andes | Pages created: 13 | Pages updated: 17
+- **Method:** 4-agent disjoint line-range extraction (Intro+Ch2 / Ch3-ethnographic / Ch3-archaeological+Ch4 / Ch5+Ch6), 4/4 claims files, 298 claims; main-thread claims review; 3 page-partitioned integration agents; main thread authored soundscape, house-society, procession, moore-jerry, debate page, formative-stage update.
+- **Created:** [[moore-cultural-landscapes-andes-2005]]; [[moore-jerry]]; [[soundscape]]; [[house-society]]; [[procession]]; [[formative-ceremonial-architecture-debate]]; sites [[asana]], [[paloma]], [[kotosh]], [[real-alto]], [[huaca-de-los-reyes]]; societies [[warao]], [[mapuche]].
+- **Updated:** [[chan-chan]] · [[chimu-culture]] · [[moche-culture]] · [[sican-culture]] · [[formative-stage]] · [[monumentality]] · [[social-memory]] · [[place-as-lived]] · [[huaca]] · [[cuzco]] · [[landscape-archaeology]] · [[phenomenological-archaeology]] · [[levi-strauss-claude]] · [[tilley-christopher]] · [[yanomamo]] · [[bororo]] · [[hadza]] · [[juhoansi]].
+- **No `studies/` page** (comparative-theoretical synthesis, not a single research act).
+- **Notes:** OCR-garbled Tables 3.2/4.1/4.3 flagged — per-case values reconstructed from legible Figure 3.8 and surrounding prose. Pre-existing duplicate flagged for curator: `cultures/inka-empire.md` vs `cultures/inca-empire.md` (30 vs 10 inbound links) — not merged this session.
+- **Validation:** 0 new broken links vs session baseline; schema clean on touched pages.
+- **Filed:** `raw/archaeology/moore-cultural-landscapes-andes-2005.{pdf,txt}`. Outstanding Tier line #13 ✅ (Moore half). Cache cleaned after close.
+
+## [2026-07-15] ingest | Figuring It Out (Renfrew 2003) | archaeology / cognitive-archaeology | contemporary | Pages created: 5 | Pages updated: 11
+
+Rhind Lectures 2001 → Thames & Hudson monograph. 4-agent line-range extraction (`scratchpad/renfrew_figuring_cache/`); inventory 4/4. Created: source; sapient-paradox; material-engagement; external-symbolic-storage; donald-merlin. Densified renfrew-colin cognitive program; cognitive-archaeology primary layer. Filed raw/archaeology/.
+
+## [2026-07-15] ingest | Lehner, The Complete Pyramids (1997) | archaeology / Egyptology | contemporary / bronze-age (OK–MK pyramids) | Pages created: 14 | Pages updated: 14
+
+**Source:** Mark Lehner, *The Complete Pyramids: Solving the Ancient Mysteries* (Thames & Hudson 1997; reprint 2001). PDF filename misattributes R.H. Wilkinson; sole author is Lehner.
+
+**Intake:** Image-only scan (257 pp, ~150 dpi JPEGs) → `pdftoppm` 200 dpi gray + tesseract OCR → **~159k words / 29,173 lines** — body complete through Epilogue. Word-count intake OK for illustrated T&H volume (OCR inflates captions). Cache: `scratchpad/lehner_pyramids_cache/`.
+
+**Method:** Deployed **8-agent** disjoint extraction over content-weighted ranges (intro+Tomb / Explorers / origins–Dahshur / Giza / 5–6 dyn / FIP–MK / NK+construction / workforce+epilogue). **Filesystem inventory 8/8 non-empty (~597 claims)**; no silent dropout. Main-thread high-stakes integration ([[giza]], [[heit-el-ghurab]], [[lehner-mark]], source); 2-agent wave for necropolis sites + concepts/institutions densification.
+
+**Created:** `sources/lehner-complete-pyramids-1997` · `thinkers/lehner-mark` · sites `saqqara` `dahshur` `meidum` `abu-roash` `abusir` `lisht` `heit-el-ghurab` `abydos` `hierakonpolis` · concepts `pyramid-complex` `mastaba` `pyramid-texts`.
+
+**Updated:** `giza` (major) · `kahun` `memphis` · `divine-king` `bureaucracy` `maat` · `the-state` `temple-economy` · `state-formation` `urbanization` · `petrie-flinders` `kemp-barry-j`.
+
+**Voice:** Construction mechanisms, labour status (conscript vs craftsmen; 20–30k range), and “first centralized nation state” thesis attributed throughout. No studies/ page (synthetic reference). Thinkers Hub deferred (await GPMP monographs).
+
+**Validators:** 0 new broken links from this ingest (baseline compare; concurrent Stein session noise elsewhere). Scoped schema/lint clean on touched pages.
+
+**Trackers:** Outstanding #20 ✅ (Lehner 1997; Hawass Giza reports synthesis still open as alternate densifier). Structural_Sources ✅. Filed `raw/archaeology/lehner-complete-pyramids-1997.{pdf,txt}`.
+
+## [2026-07-15] ingest | Stein, Rethinking World-Systems: Diasporas, Colonies, and Interaction in Uruk Mesopotamia (1999) | archaeology, anthropology | contemporary era / chalcolithic (Uruk) | Pages created: 6 | Pages updated: 7
+
+Gil Stein's distance-parity critique of Algaze's Uruk world-system. pdftotext ~73.9k words / 8,152 lines; body ~lines 325–7558 (bibliography after). **3-agent** disjoint extraction (`scratchpad/stein_cache/`; inventory 3/3 non-empty). Main-thread claims review + main-thread integration (debate/theory/four-way-non-identity kept on main thread). **6 created:** source `stein-rethinking-world-systems-1999`; thinker `stein-gil`; site `hacinebi`; study `stein-hacinebi-study`; concepts `trade-diaspora`, `distance-parity`. **7 updated:** uruk-world-system-debate (Position 2 enriched, now-ingested), uruk-expansion, world-systems-analysis, habuba-kabira, algaze-guillermo, uruk-culture, index. Load-bearing (attributed): distance-parity model (core power decays with transport cost → symmetry at far peripheries; 8 paired archaeological correlates); trade-diaspora (Cohen/Curtin) as power-neutral replacement for "colony"; Hacınebi (1992–97, cal BCE) — two parallel sealing systems, INAA-sourced Uruk clays, distinct diets, 300–500 yr symmetric coexistence. Deferred/flagged (not created): standalone sites Godin & Arslantepe; concepts peer-polity-interaction & interaction-studies; **Hacınebi Studies-Hub judgment flagged to user** (parallel Algaze study has no hub either). Validators: 0 new broken links; scoped schema/lint clean on touched pages (6 pre-existing schema errors elsewhere untouched). Filed `raw/archaeology/`. Outstanding #17 ✅.
+
+## [2026-07-15] ingest | Hicks & Beaudry (eds.), The Cambridge Companion to Historical Archaeology (2006) | archaeology, historical archaeology | contemporary era / modern period | Pages created: 11 | Pages updated: 16
+
+Seventeen-essay CUP handbook (c. 1500 CE–present). pdftotext ~153.9k words / 16.7k lines, 421 pp — intake complete; body lines ~400–11630. **5-agent** chapter-aligned extraction (`scratchpad/hicks_cache/`; inventory 5/5 non-empty, no blocks). Two-stage integration: 4 page-partitioned Sonnet agents + main thread (discipline page, both debates, source page). **11 created:** source `hicks-beaudry-companion-historical-archaeology-2006`; debates `prestwich-street-debate` (Cape Town 2003–04 exhumation dispute, positions verbatim), `defining-historical-archaeology-debate` (documents vs post-1500 vs Deetz Euro-expansion vs modern-world/capitalism vs UK post-medieval); subfields `maritime-archaeology`, `industrial-archaeology`, `urban-archaeology`; method `documentary-archaeology` (Beaudry 1988 coinage; Wylie tacking); thinker `beaudry-mary`; concepts `great-rebuilding` (Hoskins 1953 + critiques), `archaeology-of-the-contemporary-past` (Buchli & Lucas; critical empiricism); site `five-points-new-york`. **16 updated:** historical-archaeology (Companion field-map; subfields wired), critical-archaeology (dominant-ideology critique, Annapolis tour failure, Habermas turn, possessive individualism), marxist-archaeology (McGuire two cohorts, relational class, Ludlow praxis project), leone-mark-p, deetz-james (1977 definition + Eurocentrism critiques), georgian-worldview (Georgian Order lineage Glassie→Deetz→Leone→Johnson + critiques), household-archaeology (King; Patuxent Point), landscape-archaeology (memory/ideology/experience strands; Holtorf prospective/retrospective), phenomenological-landscape-archaeology (Mullins/Stahl critiques), cultural-resource-management (90% CRM stat; UK/US frameworks; HLC), material-culture (UCL school; Gell agency), colono-ware (attribution history), creolization (Deagan; Vlach/Upton), heritage-management, global-historical-archaeology (situational critique), taskscape (pre-existing — Edit-append only; observation #116 logged on late-manifest pre-scan gap). Validators: 0 errors / 0 new broken links from this session (2 new breaks + 6 schema errors belong to concurrent Mesopotamia-session pages, untouched). Filed `raw/archaeology/`. Outstanding #35 ✅.
+
+## [2026-07-15] ingest | Prehistory: The Making of the Human Mind (Renfrew, 2007) | archaeology / anthropology | contemporary + disciplinary history | Pages created: 3 | Pages updated: ~9
+
+- **Source:** Modern Library 2007; IA OCR PDF → pdftotext ~85.1k words / 9,704 lines; body Intro–Prospect ~73k words — complete.
+- **Extraction:** 4-agent content-weighted (`scratchpad/renfrew_prehistory_cache/`); inventory **4/4 non-empty** (~238 claims: 62+56+60+60).
+- **Created (3):** source `renfrew-prehistory-making-human-mind-2007`; concepts `speciation-phase`, `tectonic-phase`.
+- **Updated (~9):** `renfrew-colin`, `cognitive-archaeology`, `sapient-paradox`, `material-engagement`, `external-symbolic-storage`, `world-prehistory`, `radiocarbon-dating`, `clark-grahame`, `donald-merlin`.
+- **Load-bearing (attributed):** dual sense of prehistory; radiocarbon revolution vs *ex Oriente lux*; [[sapient-paradox]]; [[speciation-phase]]/[[tectonic-phase]]; material engagement / ESS; Holocene value, cosmos, writing.
+- **Not done:** studies/hub (synthetic short monograph; program already densified via *Figuring It Out*).
+- **Filed:** `raw/archaeology/` (pdf + txt). Outstanding #25 ✅ (both Renfrew densify items complete).
+- **Validators:** 0 new broken links attributable to this ingest (baseline compare showed only concurrent Matthews noise).
+
+## [2026-07-15] ingest | Hodder, The Leopard's Tale (2006) + Hodder (ed.) Catalhoyuk Excavations 2009-2017 (2022) | archaeology | contemporary / neolithic Anatolia | Pages created: 2 | Pages updated: ~12
+
+**Sources:** (1) *The Leopard's Tale* — English T&H 2006; on-disk PDF is Yapı Kredi Turkish translation. ~99.7k words. (2) *Catalhoyuk Excavations: The 2009-2017 Seasons* (BIAA/CRP 12, 2022). ~366k words / 752 pp.
+
+**Method:** Dual-source extraction. Leopard 4-agent Turkish→English claims (4/4, ~267 claims). Excavations 10-agent ranges (10/10, ~558 claims). Main-thread catalhoyuk dual densification; agents for thinker/debate/concepts + radiocarbon Bayesian.
+
+**Created:** sources hodder-leopards-tale-2006, hodder-catalhoyuk-excavations-2009-2017.
+
+**Updated:** catalhoyuk (major); hodder-ian; catalhoyuk-shrine-house-debate; post-processual-archaeology; interpretation-at-the-trowels-edge; reflexive-fieldwork; mother-goddess; radiocarbon-dating; mellaart-catal-huyuk-study + hub.
+
+**Validators:** 0 new broken links from this ingest. Outstanding #23 and #24 marked. Filed raw/archaeology/.
+
+## [2026-07-15] ingest | Interpreting Landscapes (Tilley, 2010) | archaeology / anthropology | contemporary | Pages created: 10 | Pages updated: 7
+
+- **Source:** Left Coast Press 2010 (Explorations in Landscape Phenomenology 3); epub→txt ~168.9k words / body ~154.4k — complete.
+- **Extraction:** 6-agent content-weighted (`scratchpad/tilley_interpreting_landscapes_cache/`); inventory **6/6 non-empty** (~365 claims: 82+70+52+55+44+62). Range 5 (Bodmin) recovered after delayed subagent completion.
+- **Created (10):** source `tilley-interpreting-landscapes-2010`; study `tilley-interpreting-landscapes-study`; concepts `neolithic-sensory-revolution`, `geological-identity`; sites (survey-region) `bodmin-moor`, `west-penwith`, `east-devon-pebblebeds`, `south-dorset-ridgeway`, `northern-cranborne-chase`, `exmoor`.
+- **Updated (7):** `tilley-christopher`, `phenomenological-archaeology`, `phenomenological-landscape-archaeology`, `landscape-archaeology`, `place-as-lived`, `path`, `stonehenge`.
+- **Load-bearing (attributed):** seven-stage phenomenological procedure; Body–Place–Path triangle; [[neolithic-sensory-revolution]]; [[geological-identity]] (anti-determinism); regional cases (Stonehenge Riverside; Cranborne metaphors; Ridgeway beaches-in-sky; Pebblebeds; Exmoor settings; Bodmin power; Penwith tor-mimesis).
+- **Not done:** Studies Hub (founding 1994 study already has hub); Thinkers Hub for Tilley still deferred.
+- **Filed:** `raw/archaeology/` (epub + txt). Validators: 0 new broken links vs session baseline.
+
+
+## [2026-07-15] ingest | The Origin of Our Species (Stringer, 2011) | biological-anthropology / archaeology | critical-turn → contemporary | Pages created: 1 | Pages updated: 4
+
+- **Source:** [[stringer-origin-of-our-species-2011]] — Chris Stringer, *The Origin of Our Species* (Allen Lane / Penguin, London, 2011; ISBN 978-1-846-14140-9). UK first edition.
+- **Edition twin:** Same continuous text as already-ingested U.S. *[[stringer-lone-survivors-2012|Lone Survivors]]* (2012). Identical nine-chapter structure and program arguments; ~2010–2012 empirical horizon.
+- **Mode:** Bibliographic / edition-filing ingest — **no second claim extract** (avoids double-counting one book as two independent sources). pdftotext -layout ~121k words / 14,139 lines; body Intro–Ch.9 ~100k words.
+- **Created (1):** source `stringer-origin-of-our-species-2011`.
+- **Updated (4):** `stringer-lone-survivors-2012` (UK twin note); `stringer-chris`; `hubs/thinkers/stringer-chris`; bookkeeping.
+- **Filed:** `raw/anthropology/` (pdf + txt). Outstanding #49 Stringer branch closed.
+- **Validators:** scoped check on touched pages.
+
+## [2026-07-15] ingest | Matthews, The Archaeology of Mesopotamia: Theories and Approaches (2003) | archaeology, anthropology | founding→contemporary eras / neolithic→iron-age | Pages created: 6 | Pages updated: 22
+
+Roger Matthews's reflexive critical guide to Mesopotamian archaeology as a discipline. pdftotext ~94.7k words / 11,620 lines; body ~lines 388–8279 (bibliography/index after). **5-agent** disjoint extraction (`scratchpad/matthews_cache/`; inventory 5/5 non-empty) by thematic chapter, then **Two-stage variant**: 3 Edit-only integration agents partitioned by exclusive page ownership (cultures+state-formation / methods+concepts / sites+thinkers+discipline); flagship pages authored on main thread. **6 created:** source `matthews-archaeology-mesopotamia-2003`; discipline `mesopotamian-archaeology`; thinker `matthews-roger`; method `survey-archaeology`; concept `empire`; debate `archaeology-assyriology-text-object-debate`. **22 updated:** uruk-world-system-debate (Matthews arbiter arg — sides with Algaze), uruk-expansion, ubaid-culture, uruk-culture, state-formation, stratigraphic-excavation, seriation, household-archaeology, domestication, neolithic, chiefdom, catalhoyuk, abu-hureyra, eridu, gobekli-tepe, nineveh, nimrud, tell-brak, adams-robert-mcc, stein-gil, archaeology, index. Load-bearing (attributed): reflexive disciplinary history (imperial/museum origins; Bahrani on "Mesopotamia"; postcolonial critique of practice); text-vs-object debate (Bottéro vs Van De Mieroop/Matthews); Adams survey tradition; empire tripartite identification framework (Taagepera/Larsen); Neolithic push/pull (Cauvin, Younger Dryas); Ubaid temple staple-finance (Stein) + pots≠people (Nissen). Deferred/flagged (not created): sites Hallan Çemi/Umm Dabaghiyah/Tepe Gawra/Arslantepe/Godin/Kültepe-Kaneš; neolithic-origins-push-pull debate; thinkers Liverani/Taagepera/Bahrani/Koldewey/Andrae/Woolley/Rassam. Validators: 0 new broken links (baseline compare); 6 pre-existing schema errors elsewhere untouched. Filed `raw/archaeology/`. Outstanding #18 ✅.
+
+## [2026-07-15] ingest | Mallory, In Search of the Indo-Europeans (1989/1991 pb) | archaeology, linguistic anthropology | critical-turn; eneolithic–bronze-age / modern reception | Pages created: 3 | Pages updated: 12
+
+J. P. Mallory, *In Search of the Indo-Europeans: Language, Archaeology and Myth* (Thames & Hudson 1989; 1991 paperback). ClearScan PDF pdftotext ~132.5k words / 14,561 lines (291 pp; intake complete through Index). **7-agent** disjoint extraction (`scratchpad/mallory_ie_cache/`; inventory **7/7** + main-thread Ch.9 Aryan myth = 8 ranges, **462 claims**). **3 created:** source `mallory-in-search-of-the-indo-europeans-1989`; thinker `mallory-j-p`; concept `tripartition`. **12 updated:** steppe-hypothesis-debate (Mallory 1989 Position A primary layer), kurgan-hypothesis, anatolian-hypothesis (Mallory Renfrew verdict), indo-european-languages, yamnaya-culture, linguistic-palaeontology, anthony-david-w, renfrew-colin, dumezil-georges (+ source/thinker self). Load-bearing (attributed): IE as linguistic concept + speakers≠race/material culture; homeland as temporal continuum slice; multi-criterion Pontic-Caspian stack; “Anatolia is the wrong place at the wrong time…”; Yamnaya cultural-historical area ~3600–2200 BC; Corded Ware “charge but not convict”; Aryan supremacy as misappropriation of philology. Pre-aDNA; complements Renfrew 1987 / Anthony 2007 / Gimbutas 1991 / Reich 2018. No studies/hub (survey synthesis). Validators: 0 new broken links vs baseline. Filed `raw/archaeology/mallory-in-search-of-the-indo-europeans-1989.{pdf,txt}`. Outstanding #21 Mallory clause ✅.
+
+## [2026-07-15] ingest | McIntosh *Ancient Middle Niger* (2005) | archaeology | contemporary / iron-age–medieval Middle Niger | [Pages created: 10] | [Pages updated: 8]
+Source: Roderick J. McIntosh, *Ancient Middle Niger: Urbanism and the Self-Organizing Landscape* (CUP Case Studies). Deployed 5-range extraction (~292 claims). Created source, thinkers (R.J. & S.K. McIntosh, Crumley), study+hub, concepts (urban-cluster, pulse-model, self-organizing-landscape), dia-shoma. Densified jenne-jeno, heterarchy, historical-ecology, settlement-pattern, craft-specialization, urbanization, state-formation, adams-robert-mcc. Hub: City without Citadel / heterarchy program. Filed to raw/archaeology/.
+
+## [2026-07-15] ingest | Cunliffe, Facing the Ocean: The Atlantic and Its Peoples 8000 BC–AD 1500 (2001) | archaeology | contemporary / mesolithic→early-modern Atlantic façade | Pages created: 9 | Pages updated: ~30
+- 10-agent chapter-aligned extraction (~363 claims; 11/11 inventory incl. main-thread Ch.9-tail recovery) + 5 page-owned integrators; main thread kept source, atlantic-facade, cunliffe-barry (+ new Thinkers Hub biography), celticity-debate, celtic-languages.
+- Validation: 0 new broken links attributable to this ingest (1 concurrent-session break, 6 concurrent-session schema errors pre-exist elsewhere). Trackers marked; cache cleaned.
+
+## [2026-07-15] densify | Economy and Society in Prehistoric Europe (Sherratt, 1997) | archaeology | critical-turn / neolithic–bronze-age | Pages created: 3 | Pages updated: ~10
+- **Source:** [[sherratt-economy-society-prehistoric-europe-1997]] — densify pass closing Outstanding #28 (primary ingest 2026-07-10).
+- **Method:** Reused 8-range claims cache (~735 claims); main-thread culture-page creation + Edit-append densify on core network. No re-extraction.
+- **Created (3):** [[baden-culture]] · [[funnel-beaker-culture]] (TRB) · [[globular-amphora-culture]].
+- **Updated:** [[secondary-products-revolution]] · [[animal-traction]] · [[urban-revolution]] · [[exchange]] · [[sherratt-andrew]] · [[clarke-david-l]] · [[corded-ware-culture]] · [[ertebolle-culture]] · [[steppe-hypothesis-debate]] · source page.
+- **Key fill:** SPR culture-horizon scaffolding (Baden instant package vs TRB staggered plough vs GAC Hamburg–Kiev band); Urban Revolution outer spin-off; Clarke←Sherratt genealogy from book dedication; Hungarian Plain three-phase exchange densify.
+- **Outstanding sources.md:** item 28 ✅ densified 2026-07-15.
+- **No git commit** (user handles git).
+
+## [2026-07-15] ingest | Behavioral Archaeology: First Principles (Schiffer, 1995) | archaeology | critical-turn | Pages created: 5 | Pages updated: 16
+
+- **Source:** [[schiffer-behavioral-archaeology-first-principles-1995]] — University of Utah Press 1995 (Foundations of Archaeological Inquiry). Charter collection of program papers + personal history + Ch. 23 principles inventory (previously unpublished). Complements [[schiffer-formation-processes-1987]].
+- **Method:** deployed-subagent, **5** content-weighted extractors (Pref+Ch1–5 / Ch6–10 / Ch11–17 / Ch18–20 / Ch21–23). **Filesystem 5/5 non-empty** (~487 claims: 129/95/95/78/90). Cache: `scratchpad/schiffer_ba_cache/`.
+- **Created (5):** source; concept `behavioral-chain`; thinkers `rathje-william`, `skibo-james`; Theory Hub `hubs/theory/behavioral-archaeology` (~3.5k words).
+- **Updated (16):** theory `behavioral-archaeology` (major densify + hub reciprocal); thinkers `schiffer-michael-b`, `reid-j-jefferson`; concepts `systemic-context`, `archaeological-context`, `formation-processes`, `pompeii-premise`, `refuse-types`, `old-wood-problem`; methods `ethnoarchaeology`, `experimental-archaeology`, `use-wear-analysis`; study `hill-broken-k-pueblo-study`; light `processual-archaeology`, `middle-range-theory-archaeology`; theory-hub portal.
+- **Hubs:** Theory Hub behavioral-archaeology **built this session** (warranted; deferred at 1987 ingest pending charter corpus). Studies Hub for Broken K still not warranted from reanalysis alone without Hill 1970 primary.
+- **Voice:** all program claims attributed Schiffer/coauthors at original paper years; Schiffer–Binford Pompeii/distortion as positions; Broken K social findings as reanalysis.
+- **Bookkeeping:** Outstanding sources item 27 ✅; Structural_Sources entry; filed `raw/archaeology/schiffer-behavioral-archaeology-first-principles-1995.{epub,txt}`.
+- **Validate:** 0 new broken links attributable to this ingest (session baseline compare; concurrent Hall source noise excluded).
+
+## [2026-07-15] ingest | Bones: Ancient Men and Modern Myths (Binford 1981) | archaeology, biological-anthropology | critical-turn / early-prehistory | Pages created: 6 | Pages updated: 11
+- **Extraction:** 7-agent (Sonnet) content-weighted range partition over ~174k-word scanned OCR (Ch1–Ch6); Ch7 conclusions main-thread. Inventory 7/7 non-empty; two tail gaps (Ch3 ~276 ln methodology summary, Ch5 ~868 ln incl. Swartklip control) confirmed substantively covered by main-thread scan.
+- **Created:** studies/binford-bones-study, concepts/osteodontokeratic-culture, debates/hunting-scavenging-debate, sites/makapansgat, thinkers/brain-ck, sources/binford-bones-1981.
+- **Updated:** middle-range-theory-archaeology, taphonomy, actualistic-studies, faunal-analysis, olduvai-gorge, dart-raymond, binford-lewis, isaac-glynn, home-base, food-sharing-hypothesis, hunting-hypothesis, nunamiut.
+- **Voice:** Olduvai scavenging conclusion + osteodontokeratic/Choukoutien/cave-bear 'myths' kept attributed/position; actualistic wolf-den/Nunamiut descriptive results in wiki voice; hunting-scavenging-debate carries dated curator's note.
+- **Bookkeeping:** Outstanding sources #26 ✅; Structural_Sources dated entry; filed raw/archaeology/binford-bones-1981.{pdf,txt}. Study Hub flagged to user, not built (lean).
+- **Validate:** full check.sh — 0 errors, 0 broken links on touched pages.
+
+## [2026-07-15] ingest | Archaeology and the Modern World (Hall 2000) | archaeology, historical-archaeology | contemporary / early-modern | Pages created: 11 | Pages updated: 21
+
+## [2026-07-15] ingest | Vanishing River (Whittlesey, Ciolek-Torrello & Altschul 1997) | archaeology | contemporary / medieval–modern Southwest | Pages created: 12 | Pages updated: 6
+
+LVAP overview/synthesis (SRI Press; print volume only; CD Vols 1–3 not ingested). pdftotext 872 pp / ~581k words / body Ch1–Epilogue ~514k. **10-agent** disjoint extraction (claims range_1…range_10 all non-empty, ~1066 claims). Main-thread integration. Created: source; study lower-verde-archaeological-project-study; sinagua-culture; yavapai; western-apache; scorpion-point-village; roadhouse-ruin; skeleton-cave; hohokam-core-periphery-model; thinkers whittlesey-stephanie-m, altschul-jeffrey-h, ciolek-torrello-richard. Updated: hohokam-culture, landscape-archaeology, cultural-resource-management, ethnoarchaeology, irrigation, core-periphery (cross-link). No Studies Hub (CRM regional synthesis; criteria not met). Filed raw/archaeology/.
+
+## [2026-07-15] hub | Bones: Ancient Men and Modern Myths (Binford 1981) | Studies Hub | Pages created: 1
+- Built hubs/studies/binford-bones-study (~3,520 words; 9 canonical sections; design + findings tables; verbatim Ch6–7 quotes analyzed). Reciprocal study_page link + summary link + portal Completed entry wired. Supersedes the earlier 'Study Hub deferred' flag.
+
+## [2026-07-15] ingest | Who Owns Antiquity? (Cuno 2008/2011) | archaeology | contemporary | Pages created: 4 | Pages updated: 11
+
+- **Source:** [[cuno-who-owns-antiquity-2008]] — Princeton 2008; paperback 2011 afterword. Cultural-internationalist polemic (museum director James Cuno). Artifact/polemic mode.
+- **Method:** deployed-subagent, **3** content-weighted extractors (Pref+Intro+Ch1 / Ch2–4 / Ch5+Epilogue+Afterword). Filesystem inventory **3/3 non-empty** (~275 claims). Range 1 respawned after first agent tried to load task-observer. Cache: `scratchpad/cuno_cache/`.
+- **Created (4):** source; thinker `cuno-james`; concepts `encyclopedic-museum`, `partage`.
+- **Updated (11):** debate `antiquities-market-looting-debate` (Position B rewritten from primary Cuno; both poles primary); `cultural-property`, `unprovenanced-antiquities`, `restitution`, `illicit-antiquities-trade`, `heritage`, `nationalism-and-archaeology`, `heritage-management`, `archaeology-and-nationalism-debate`, `archaeology` (coverage note balances Renfrew thin spot), `renfrew-loot-legitimacy-2000`.
+- **Voice:** all theses attributed positions; legal/museum episodes as Cuno-reported facts; no wiki-voice adjudication of ownership dispute.
+- **Bookkeeping:** Outstanding sources #42 ✅; Structural_Sources entry; filed `raw/archaeology/cuno-who-owns-antiquity-2008.{pdf,md}`.
+- **No studies/hub** (advocacy polemic, not empirical study).
+
+## [2026-07-15] ingest | Whittle — Europe in the Neolithic (1996) | archaeology | neolithic / mesolithic–copper-age Europe | Pages created: 10 | Pages updated: ~28
+
+Cambridge World Archaeology continental survey (CUP 1996; rewrite of *Neolithic Europe* 1985). OCR intake (~207k words / ~166k body). 5-agent extraction inventory 5/5 (~589 claims); Stage-2 integration (4 page-owned integrators + main-thread high-stakes). Created: `whittle-europe-in-the-neolithic-1996`, `whittle-alasdair`, `starcevo-koros-cris-culture`, `impresso-cardial-culture`, `lengyel-culture`, `talheim`, `karanovo`, `franchthi-cave`, `los-millares`, `longhouse`. Major densify: `farming-spread-europe-debate` (Whittle Position B layer), `linear-pottery-culture`, `neolithic`, monument/mesolithic apparatus, SE/Med case pages. Thesis (attributed): indigenous forager continuity; sharing ethic; slow becoming Neolithic; LBK acculturation; Cardial sea-borne acculturation; sacred over demic/hierarchy orthodoxy; mid-1990s cal BC, pre-aDNA. No studies/hub. 0 new broken links. Filed `raw/archaeology/`. Outstanding #29 ⚠️ partial (*Archaeology of People* open).
+
+## [2026-07-15] ingest | Shelach-Lavi — The Archaeology of Early China (2015) | archaeology / anthropology | contemporary / palaeolithic–early-imperial China | Pages created: 4 | Pages updated: 30
+
+Cambridge University Press regional synthesis (2015), prehistory→Han. China densify into a mature area (post-[[liu-chen-archaeology-of-china-2012|Liu & Chen 2012]]). Text-native PDF, ~161k words / 394 pp. **6-agent** disjoint-range extraction (Intro+Ch1-2 / Ch3-4 / Ch5-6 / Ch7-8 / Ch9-10 / Ch11+conclusion); inventory **6/6 non-empty**. Two-stage variant: extraction → 3 page-owned Edit-only integrators; main thread kept the 3 debates + source + thinker + concepts (four-way-non-identity-heavy). Created: source `shelach-lavi-archaeology-early-china-2015`; thinker `shelach-lavi-gideon`; concepts `peer-polity-interaction`, `chinese-interaction-sphere`. Debates: `chinese-civilization-origins-debate` (Shelach Position-4, backward-projection, broken-transmission), `erlitou-xia-dynasty-debate` (added state-threshold axis, Erligang step-change), `archaeology-and-nationalism-debate` (China case). Updated cultures/sites/concepts: erlitou/erligang/shang/zhou/liangzhu/lungshan/dawenkou/hemudu (water-buffalo aDNA reassessment)/hongshan/xinglongwa/peiligang/cishan/qijia/zhukaigou/lower-xiajiadian; sites anyang/erlitou/zhoukoudian/sanxingdui; concepts rice/millet/domestication/craft-specialization/core-periphery. Skipped houli (restated existing), siba (not in book). Load-bearing (attributed): interregional interaction as prime mover; Erlitou-not-yet-a-state; Shang ≠ self-conscious "Chinese" ethnos. No studies/hub. 0 new broken links vs session baseline. Filed `raw/archaeology/`. Outstanding #40 ✅.
+
+## [2026-07-15] ingest | Shang Civilization (Chang 1980) | archaeology | postwar-expansion / bronze-age | Pages created: 5 | Pages updated: 11
+
+- **Source:** [[chang-shang-civilization-1980]] — Yale UP social reconstruction of Shang; Five Doors; companion to [[chang-archaeology-ancient-china-1963]].
+- **Extraction:** 6-agent one-wave; claims 6/6; OCR letter-spaced FineReader noted in reliability_notes.
+- **Created:** methods `oracle-bone-inscription`, `scapulimancy`; institution `tsu-lineage`; concept `fang-polity`; source page.
+- **Updated:** [[shang-civilization]], [[anyang]], [[zhengzhou]], [[panlongcheng]], [[erligang-culture]], [[erlitou-culture]], [[chang-kwang-chih]], [[li-chi]], [[chinese-civilization-origins-debate]], [[erlitou-xia-dynasty-debate]], [[state-formation]].
+- **Hubs/studies:** none (synthetic reference monograph).
+- **Cache cleanup:** `scratchpad/chang_shang_cache/` after close.
+- **Filed:** `raw/archaeology/chang-shang-civilization-1980.pdf`
+
+
+## [2026-07-15] ingest | Settling the Earth (Gamble 2013) | archaeology / biological-anthropology | contemporary / deep prehistory–colonial reunion | Pages created: 9 | Pages updated: 7
+
+- **Source:** [[gamble-settling-the-earth-2013]] — CUP 2013; deep-history synthesis; six Terrae; imagination / going-beyond / kinshipping / FACE; ~143k words / 400 pp; text-native pdftotext.
+- **Extraction:** 8-agent one-wave chapter-weighted ranges; claims inventory **8/8 non-empty** (~570 claims); no silent dropout.
+- **Created:** concepts `terrae`, `going-beyond`, `kinshipping`, `enchainment`, `deep-human-history`, `instruments-and-containers`, `variability-selection`; theory `social-brain-hypothesis`; source page.
+- **Updated:** [[gamble-clive]], [[hubs/thinkers/gamble-clive]], [[global-colonization]], [[world-prehistory]], [[sapient-paradox]], [[behavioral-modernity]] (plus scaffold densify on new concepts).
+- **Hubs/studies:** Thinkers Hub densified (Phase 4); no studies/ page (global synthesis, same class as *Timewalkers*).
+- **Load-bearing (attributed, as of Gamble 2013):** Terrae periodization; encephalisation–settlement disconnect; living apart yet staying in touch; bio-tidal Terra 2; Terra 5 as reunion not discovery.
+- **Validators:** `scripts/check.sh --only` touched set — 0 broken links; full schema clean on new pages.
+- **Filed:** `raw/archaeology/gamble-settling-the-earth-2013.pdf` (+ `.txt`).
+- **Outstanding sources.md** #48 ✅. Cache cleaned after close.
+
+## [2026-07-15] ingest | Archaeology, Cultural Heritage, and the Antiquities Trade (Brodie, Kersel, Luke & Tubb, eds. 2006) | archaeology / heritage ethics | contemporary | Pages created: 6 | Pages updated: ~12
+
+Multi-author Florida volume densifying the illicit-antiquities / cultural-property cluster. 6-agent line-range extraction (~567 claims); main-thread integration of debate + phenomenon + Iraq museum. Created: source, 5 thinkers (Brodie, Kersel, Luke, Tubb, Gerstenblith), iraq-national-museum. Empirical densify: market chain, Lydia/Ulúa, Iraq 1991–2005, Hollowell legal market, CPIA/NSPA law. Outstanding #41 ✅. Filed raw/archaeology/. Cache cleaned.
+
+
+## [2026-07-15] ingest | Pauketat, Cahokia: Ancient America's Great City on the Mississippi (2009) | archaeology | contemporary / mississippian | Pages created: 4 | Pages updated: 6 | 2-agent extraction, 2/2 complete; debate page cahokia-population-urbanism-debate created; Milner-vs-Pauketat contrast recorded, not reconciled
+
+## [2026-07-15] ingest | The Nature of Heritage: The New South Africa (Meskell 2012) | archaeology, cultural anthropology | contemporary / iron-age–modern, southern Africa | Pages created: 7 | Pages updated: 8 | 4 extractor agents (ranges 1–4), all complete, no missing ranges
+
+## [2026-07-15] ingest | Islam, Archaeology and History: Gao Region (Insoll 1996) | archaeology / Islamic archaeology | contemporary + medieval Sahel | Pages created: 4 | Pages updated: ~4
+
+BAR IS 647 Gao Middle Niger excavation monograph. Re-OCR (~100k words); 5-agent extraction (~565 claims). Created source + study + gao-ancien + gao-saney. Densified insoll-timothy, islamic-archaeology, jenne-jeno note. Load-bearing: 5-period sequence, Islamized quartier, trade-vectored Islamization, Saney stelae. Outstanding #45 ⚠️ partial (Gao done; Swahili still open). Filed raw/archaeology/. Cache cleaned.
+
+
+## [2026-07-15] ingest | Pauketat, Chiefdoms and Other Archaeological Delusions (2007) | archaeology | contemporary | Pages created: 2 | Pages updated: 14 | 3-agent extraction 3/3; new theory page historical-processualism; chiefdom-concept genealogy + critique layer across chiefdom/band-tribe-chiefdom-model/chiefly-cycling/yoffee-norman; Cahokia debate mechanics recorded

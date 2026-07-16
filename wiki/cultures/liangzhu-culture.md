@@ -15,8 +15,8 @@ preceded_by: ["Songze culture (not yet a wiki page)"]
 succeeded_by: ["Maqiao culture (not yet a wiki page)"]
 language_affiliation: "[[unknown]] — not equated with a language/people"
 genetic_signature: "[[unknown]] — no aDNA reported (as of Liu & Chen 2012)"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [culture, neolithic, bronze-age, china, east-asia]
 ---
 
@@ -35,6 +35,41 @@ Typical Liangzhu jade forms include cong tubes (square outside, round inside) an
 ## Political Organization: State vs. Chiefdom (Position)
 
 Whether Liangzhu constituted a state-level society is disputed. Some archaeologists (Su 1997; Zhang, Z. 2000; Yan 1996) argue Liangzhu was a state, with Mojiaoshan as its capital and the Fanshan and Yaoshan cemeteries as royal tombs. Liu and Chen (2012) caution against this conclusion, noting that with multiple coexisting site clusters in the region, "more studies of settlement patterns are needed to determine whether Mojiaoshan was the primary center that controlled the entire Liangzhu region." More broadly, Liu and Chen describe whether Late Neolithic cultures such as Liangzhu (and Taosi, Liangchengzhen) qualify as "early states" as "a matter of debate," noting that "increasing numbers of Chinese archaeologists" favor state status while stating their own preference for treating the state/non-state label as secondary to reconstructing how these complex societies actually developed and operated. This is recorded here as a live **position**, not adjudicated in wiki voice; see also [[chiefdom]] and [[state-formation]].
+
+## Shelach-Lavi (2015) addendum — scale, leadership strategy, and collapse dating
+
+Shelach-Lavi ([[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]) dates
+Liangzhu 3300–2100 BC and adds monumental-scale figures: the Fanshan burial mound is
+ca. 2,700 m² and 4 m high, with eleven large pit graves excavated from its top
+containing ca. 1,200 grave goods, 90 percent jade; the Sidun grave held 127 goods
+including jade *cong*, discs, and axes; the Mojiaoshan mound covers ca. 3 ha and rises
+7 m. Jade *cong* objects reached up to 25 cm in length, and *cong*/jade material
+attributed to Liangzhu has been found up to ~2,000 km from the Liangzhu core (Taosi;
+Qijia/Majiayao in Gansu; Shixia in Guangdong) — recorded as `associated_with`, not
+identity, given the distances and time-depths involved.
+
+Applying Blanton et al.'s (1996) network/corporate leadership-strategy framework,
+Shelach-Lavi reads Liangzhu (and Longshan) leaders as pursuing "network-oriented"
+strategies built on jade/prestige-good exchange, contrasting them with a more
+"corporate" leadership pattern tied to grain-container control that he attributes to
+northwest China (Machang) elites — an attributed comparative-political-economy
+interpretation, not a settled finding. He also directly critiques K. C. Chang's
+influential reading of Liangzhu tubular jade *cong* as the "cong" ritual objects named
+in Eastern Zhou/Han classical texts, symbolizing "round heaven and square earth"
+cosmology (Chang 1989: 38): Shelach-Lavi calls this a "backward projection" that
+assumes implausible ideological stability and direct symbolic transmission across two
+millennia or more (Shelach-Lavi 2015; cf. Shelach 2004: 20–23) — a **position**, not
+adjudicated here. Falkenhausen (2003), cited by Shelach-Lavi, further argues that
+Shijiahe/Liangzhu-descended jade traditions influenced the later jade repertoires of
+the Erlitou and Sanxingdui cultures via indirect, "broken" transmission rather than
+direct cultural continuity — again an `associated_with` relationship, not identity.
+On collapse timing, Shelach-Lavi states most Liangzhu sites in the lower Yangzi
+disappeared around 2200 BC, with the region recovering around 1800 BC (as of
+Shelach-Lavi 2015, citing Stanley et al. 1999; Yu et al. 2000; Zhongguo Shehui 2010b) —
+a more precise dating than "late third millennium BC" above, consistent with it. He
+notes the collapse explanation remains split between elite overexpenditure on
+prestige artifacts/ceremonial construction and conflict/invasion (Wu and Liu 2004:
+156), paralleling the competing positions already recorded below.
 
 ## Collapse (Competing Positions)
 

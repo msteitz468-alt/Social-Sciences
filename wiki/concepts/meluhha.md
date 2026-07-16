@@ -8,8 +8,8 @@ emic_or_etic: emic
 operationalized_as: toponym occurring in a defined corpus of Mesopotamian cuneiform texts (76 published texts, Early Dynastic period to the reign of Hammurabi), cross-referenced against material evidence of Indus-Mesopotamian contact
 contested: "yes"
 related_concepts: ["[[middle-asian-interaction-sphere]]", "[[craft-specialization]]", "[[standardized-weights]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: "2026-07-15"
 tags: [concept]
 ---
 
@@ -138,3 +138,35 @@ Kenoyer states that **most scholars agree** Dilmun ≈ Bahrain, Magan ≈ Makran
 **Chronology:** Earliest archaeological contacts with Indus trade in southern Mesopotamia ca. 2600–2500 BCE; denser textual references from Sargon of Akkad (2334–2279 BCE) onward (Kenoyer frames later textual span to ca. 1300 BCE). After ca. 1900 BCE, Kenoyer links Localization fragmentation to the end of long-distance Mesopotamia/Gulf trade and a shift of interaction focus east toward the Ganga valley.
 
 Related pages: [[middle-asian-interaction-sphere]], [[harappan-civilization]], [[possehl-gregory-l]], [[kenoyer-jonathan-mark]], [[parpola-asko]].
+
+## Potts 1997 — carnelian, zebu/buffalo/ivory faunal evidence, tin trans-shipment, and the calendrics-contact debate
+
+*(Attributed — [[potts-mesopotamian-civilization-1997|Potts, Mesopotamian Civilization 1997]].)*
+
+### Carnelian and the "land of carnelian" identification (Heimpel)
+
+Potts identifies the primary source of carnelian as the Ratanpur metamorphic beds in southern Gujarat (Asthana 1993), still supplying "the great majority of the chalcedony varieties used in the world" (Tosi 1980). Long barrel-cylinder carnelian beads of Harappan type are documented from the Royal Cemetery at Ur, Early Dynastic Kish, and Old Akkadian graves at Ur. Citing the hymn *Lugal-e*, Ninurta received both lapis lazuli and carnelian from Meluhha in the time of Gudea (Heimpel 1993); later "Lipshur-litanies" call Meluhha "KUR na₄gug(-samtu)," land of carnelian (Leemans 1960). **W. Heimpel (1993) takes this as a clear indication that "Meluhha" designated the Harappan civilization, or at least the Gujarat carnelian-supplying region** — recorded here as an interpretive, contested identification, not a settled fact, consistent with the four-way non-identity caution above.
+
+### Zebu, water buffalo, and elephant ivory as faunal evidence of contact
+
+Potts revises earlier scholarship (Van Buren 1939) that had identified numerous Ubaid-period and later terracotta/glyptic bovine figures as zebu (*Bos indicus*); most, he argues, are actually *Bos taurus* or *Bos primigenius*. The first clear zebu representations in southern Mesopotamia occur only in the early 2nd millennium BC. Faunal evidence from Mehrgarh (R.H. Meadow) shows *Bos indicus* increasing from 4% to 65% of the faunal assemblage over the Neolithic sequence (ending c. 5000 BC), developed there from a locally distinct wild form — its South Asian/Baluchi origin is clear, though its route to Mesopotamia (via Magan/Ur III contact, Dilmun trade, or overland Iran) is unknown. The water buffalo (*Bubalus bubalis*) first appears in Mesopotamian iconography on cylinder seals from the last third of Sargon of Akkad's reign; R.M. Boehmer (1975) suggested it was introduced as a gift or tribute from Meluhha to Sargon, with herds dying out after the fall of Akkad — the animal does not reappear until the Sasanian era. Ivory imports are traced from late Early Dynastic pre-Sargonic Lagash texts through substantial Ur III quantities at Ur; D. Collon (1977) concluded the ivory always came from the Indian elephant (*Elephas maximus*) and that elephants themselves were imported intermittently.
+
+### Tin trans-shipment through the Indus region
+
+Since India itself has no tin, Gudea's claim (Cyl. B XIV 13) of receiving tin from Meluhha is interpreted by Potts as tin trans-shipped through the Indus region from a Central Asian source (see [[mesopotamian-trade]] for the Sarazm/Bactria evidence and the discredited Southeast Asia hypothesis) — paralleling lapis lazuli's Afghan (Badakshan) origin, which is also attributed to Meluhha in the texts despite not being a Meluhha/Indus product itself.
+
+### Pingree's calendrical convergence vs. Oppenheim's "contact ended" thesis
+
+Potts cites D. Pingree's documentation of "a remarkable congruence... between the early Vedic system of calendrics and Mesopotamian menology" (Pingree 1982), and survivals of *Summa alu*-series omen formulations in later Pali literature reaching northwest India during the Achaemenid period (Pingree 1992), arguing against A.L. Oppenheim's view (1954) that Mesopotamia–Meluhha contact ended by the close of the Old Babylonian period — a view Oppenheim attributed to the "Aryan invasion" collapsing the Harappan civilization, a now-outdated model. **This is a position, not adjudicated by the wiki**: Potts frames the material record's sparseness after the Old Babylonian period as potentially misleading given this astronomical evidence, invoking "absence of evidence is not evidence of absence."
+
+## Wright (2010) — the Shu-ilishu seal, the acculturated Meluhhan village, and "language-turners"
+
+*(Attributed throughout — [[wright-rita-p|Rita P. Wright]], *[[wright-ancient-indus-2010|The Ancient Indus]]*, 2010, Ch. 8, drawing on T. Potts 1994 and Parpola et al. 1977.)*
+
+**Textual goods list (T. Potts 1994:148ff).** Goods textually attributed to Meluhha in Mesopotamian sources: copper (royal/economic/literary texts), tin (alloy, late-third-millennium royal inscription), lapis lazuli (arriving as unworked "lumps," used for Mesopotamian beads/inlay/cylinder seals), carnelian in raw and finished forms — with texts stating Meluhha was "primary, if not exclusive, origin" of carnelian (T. Potts 1994:197) — ebony, pearls ("fish eyes"), gold ("gold of Meluhha"), silver, various woods, and ivory ("birds of Meluhha," Ratnagar 1981:111). Archaeological finds in Mesopotamia complement this list (arsenical/pure copper, etched carnelian and long-barrel beads, lapis, silver, shell) but "none have been archaeometrically sourced" — an explicit methodological caveat Wright preserves from her sources.
+
+**The Shu-ilishu seal.** A Mesopotamian seal names its owner "Shu-ilishu," identified by inscription as a **"Meluhha interpreter."** The seal's iconography (a seated goddess approached by two Mesopotamian-dressed figures, one carrying a situla) has at least three published readings: (a) Boehmer 1965 and Parpola 1994:132 read the imagery as generic seal-cutter workshop stock with the inscription added afterward; (b) Aruz 2003:413 reads it as a tribute scene, with a bearded figure on the goddess's lap possibly evoking the birth of a vegetation god; (c) Tosi 1991:118 suggests the seated figure is Shu-ilishu himself, shown symbolically as a lower-status figure on the lap of a higher-ranked one. Aruz (2003:413) argues the seal's existence shows "commercial or diplomatic relations with the region of Meluhha were regular enough to justify the existence of a professional interpreter" — an inference from occupational title, not a settled biography; Wright's own reconstruction that Shu-ilishu "may have begun as a merchant, learned the language, and became a translator" is explicitly flagged by her as speculative ("we can imagine...").
+
+**"Language-turners."** Akkadian-period texts (ca. 2350 BCE) reference translator specialists described as "language-turners" or "word-turners," including some explicitly "turning the languages" of Meluhha; later periods attest "traveling interpreters" and a "tongue interchanger" (Hallo 1996:350) — direct textual evidence for sustained, professionalized linguistic mediation between Mesopotamia and Meluhha, independent of the Shu-ilishu seal.
+
+**The acculturated Meluhhan village.** Twelve Ur III-period texts (2112–2004 BCE) reference a settlement in Mesopotamia called "me-luḫḫa" bearing a place-name ("ki") determinative — interpreted (Parpola et al. 1977:145) as originating as a trading settlement of Meluhhan merchants that became a "village of traveling merchants," functioning "as a normal unit of local agricultural production" (T. Potts 1994:36); the twelve texts span 45 years, suggesting permanent, multi-generational residency. Wright notes this acculturation pattern (Meluhhans settling into ordinary Mesopotamian village life) contrasts with the norm for Mesopotamians living abroad, who typically lived in garrisons or Mesopotamian-style enclaves apart from local populations. An earlier Akkadian-period text records a "man of Meluhha" fined for breaking someone's tooth in a physical altercation; his name, non-Sumerian, was rendered into Sumerian as "Just buffalo-cow" — a name Parpola et al. (1977:161) note "does not make sense in the Mesopotamian cultural sphere," read as evidence Meluhhans traveled to and settled in Mesopotamia over several generations, with acculturation occurring over several hundred years. Textual references to Meluhha decline after ca. 2000 BCE and are replaced first by Magan, then increasingly by Dilmun, as the named partner in later trade texts — consistent with the broader chronological pattern (Ch. 8 synthesis) of Persian Gulf/maritime trade eclipsing overland contact from the mid-third millennium BCE onward.

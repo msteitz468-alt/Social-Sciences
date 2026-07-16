@@ -15,8 +15,8 @@ preceded_by: ["Classic-period hilltop Mixtec settlements (per Ronald Spores's su
 succeeded_by: ["absorbed into Spanish colonial Oaxaca; never fully conquered by the [[cultures/aztec-empire]]"]
 language_affiliation: "Mixtec (Otomanguean); writing system assessed by Coe & Koontz as deliberately simplified relative to Zapotec/Maya script to enable cross-language legibility (Chocho, Zapotec, Nahua speakers)"
 genetic_signature: "not addressed by the source (as of Coe & Koontz 2013)"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [culture, mesoamerica, medieval]
 ---
 
@@ -130,8 +130,30 @@ settlement-pattern survey and the codex analyses of Emily Rabin and Jill Furst r
 later 20th-century scholarship extending and complicating the picture. The origins of
 the Mixteca-Puebla style remain actively debated.
 
+## The Cloud People (Flannery & Marcus, eds., 1983)
+
+[[flannery-marcus-cloud-people-1983|The Cloud People]] (1983) treats the Mixtec as one half of a [[divergent-evolution|divergent evolution]] from a common proto-Otomanguean ([[otomanguean-languages]]) ancestor shared with the [[zapotec-civilization|Zapotec]]. Its principal Mixtec contributors are [[spores-ronald|Ronald Spores]] (archaeology and ethnohistory of the Mixteca Alta) and [[smith-mary-elizabeth|Mary Elizabeth Smith]] (the [[mixtec-codices|codices]]).
+
+- **Slower Formative trajectory.** [[spores-ronald|Spores]] argued the Nochixtlán Valley/Mixteca Alta lagged the Valley of Oaxaca in Formative complexity; no Mixteca site before the Terminal Formative approaches [[san-jose-mogote|San José Mogote]] in scale. [[huamelulpan|Huamelulpan]] and [[monte-negro|Monte Negro]] are the region's early ceremonial centers; **Yucuita** became its first urban center in the Ramos phase (ca. 200 BCE–300 CE).
+- **Origins of stratification.** Spores hypothesized (attributed) that Mixtec social stratification arose internally from religious specialists converting supernatural authority into control of goods and labor — not from occupational specialization or external conquest. Sixteenth-century sources document two hereditary strata (rulers/*yya*, nobles/*tay toho*) over commoners, plus landless *terrazgueros* (*tay situndayu*).
+- **The codices.** [[smith-mary-elizabeth|Smith]] read Mixtec writing as a "limited"/logographic system recording chiefly personal and place names, with narrative carried pictorially; she argued Codex Selden derives from Magdalena Jaltepec in the Nochixtlán Valley, and that each codex records a parochial dynastic point of view (150 of Selden's 204 named persons appear in no other manuscript).
+- **The "Mixtec impact" question.** Whether Late Postclassic Monte Albán V marks a Mixtec population in the Valley of Oaxaca or Zapotec continuity with elite intermarriage is the volume's central staged dispute — see the [[mixtec-impact-valley-of-oaxaca-debate|Mixtec-impact debate]].
+
+## Zapotec Civilization (Marcus & Flannery 1996) — IIIa pressure / later alliances
+
+*(Attributed — [[marcus-joyce|Marcus]] & [[flannery-kent-v|Flannery]], *[[marcus-flannery-zapotec-civilization-1996|Zapotec Civilization]]* 1996; study [[marcus-flannery-zapotec-civilization-study]]. Light note — four-way non-identity: Mixtec speakers ≠ archaeological Monte Albán culture ≠ genetic population.)*
+
+**Original occupants vs later entrants.** Marcus & Flannery argue archaeological and ethnohistoric research shows **Zapotec as original occupants** of the Valley of Oaxaca while **Mixtec speakers entered later**, often through arranged marriages with Zapotec nobles; most Mixtec speakers lived in mountain valleys north and west of Etla.
+
+**Monte Albán IIIa pressure.** By Period IIIa the Zapotec were losing outer Monte Albán II provinces ([[monte-negro|Monte Negro]] largely abandoned; Quiotepec eventually given up). Mixtec were building major centers (e.g. **Yucunudahui**); authors state they “probably had designs on the Valley of Oaxaca” and would later establish a foothold — if Etla’s demographic decline partly reflects vulnerability, Mixtec are the “most clear and present danger.” Period IIIa Zapotec stop expanding outward and solidify valley control via diplomacy and warfare; defense priority rises (38 fortified/defensible sites).
+
+**Later alliances.** Ethnohistory they use includes Cociyoeza’s alliance with Mixtec of Achiutla against Aztec Ahuitzotl; succession practice includes strategic Mixtec marriages; later history includes Mixtec–Zapotec marriage alliances bringing foreign nobles into the western valley. Aligns with the Cloud People Mixtec-impact debate without resolving it.
+
+Cross-links: [[zapotec-civilization]] · [[monte-alban]] · [[cuicatlan-canada]] · [[ethnogenesis]] · [[mixtec-impact-valley-of-oaxaca-debate]].
+
 ## Related Pages
 
 [[sites/mitla]] · [[cultures/aztec-empire]] · [[cultures/toltec-culture]] ·
 [[concepts/postclassic-stage]] · [[thinkers/bernal-ignacio]] ·
+[[sources/flannery-marcus-cloud-people-1983]] · [[marcus-flannery-zapotec-civilization-1996]] ·
 [[sources/coe-koontz-mexico-2013]]

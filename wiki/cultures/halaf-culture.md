@@ -15,8 +15,8 @@ preceded_by: ["[[unknown]] — Roux states the Halaf culture 'has no ancestor in
 succeeded_by: ["[[ubaid-culture]] (Roux argues gradual, non-conquest transition in the north, 4500–4300 BCE)"]
 language_affiliation: "[[unknown]] — no linguistic evidence recoverable from material remains; four-way non-identity applies"
 genetic_signature: "[[unknown]] — no genetic evidence reported; (as of Roux 1992)"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [culture, chalcolithic, mesopotamia, near-east]
 ---
 
@@ -55,3 +55,9 @@ Roux states explicitly that the Halaf culture, unlike Samarra, "has no ancestor 
 ## Historiography
 
 Known to the wiki via [[roux-ancient-iraq-1992|Roux 1992]]. The type-site chronology was controversial at the time of discovery (pre-WWI) and was only firmly anchored by British, American, Russian, and Iraqi excavation across the mid-20th century. Later specialist reports and post-1992 reassessment are outstanding for this page's densification.
+
+## Nissen densification (1988)
+
+*(Attributed — [[nissen-hans-j|Hans J. Nissen]], *[[nissen-early-history-ancient-near-east-1988|The Early History of the Ancient Near East, 9000–2000 B.C.]]* (Chicago 1988), Ch. 3.)*
+
+Nissen treats Halaf fine painted pottery as, by the Halaf period at latest, a **specialist product**: very delicate, individually painted vessels that took a long time to make, each stage probably carried out by the same individual(s). The period is named for Tell Halaf in northern Syria; examples also from Tell Arpachiyah. He notes the Halaf period also knew other pottery groups; the most characteristic other painted group is **[[samarra-culture|Samarra]]** pottery (simpler shapes, circular patterns, matte colors vs Halaf’s glossy paints). Long thought sequential to Halaf, excavations show possible simultaneity; geographic and livelihood-group explanations for the two styles fail given large site overlap and the unlikelihood that pure cultivator vs livestock-farmer opposites already existed. At the end of this horizon the **turnette** appears and drives the more uniform “Ubaid” painting style — technological diffusion, not migration (see [[ubaid-culture]]). Four-way non-identity: Halaf ceramic horizon ≠ ethnos ≠ language ≠ genetic population (as of Nissen 1988).

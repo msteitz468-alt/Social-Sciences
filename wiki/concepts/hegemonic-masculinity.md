@@ -9,7 +9,7 @@ operationalized_as: "Not a measurement scale; identified analytically as the con
 contested: yes
 related_concepts: ["[[patriarchal-dividend]]", "[[emphasized-femininity]]", "[[gender-order]]", "[[body-reflexive-practice]]", "[[gender-relations-theory]]", "[[social-role]]", "[[world-system-hegemony]]"]
 sources_ingested: 2
-last_updated: 2026-07-10
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -56,3 +56,9 @@ The concept is not measured on a scale; it is identified analytically. In the *M
 ## Critiques and Limitations
 
 The concept is **contested** (see [[hegemonic-masculinity-debate]]). Connell records in the 2nd edition that it has "come under challenge from several directions" — Petersen (1998), Demetriou (2001), Jefferson (2002) — and that "whether to discard the concept of hegemonic masculinity, reconstruct it, or reaffirm it, is still sharply debated." Discursive-psychology critics (Wetherell and Edley 1999) argue masculinity is not a stable pattern men are "permanently committed to" but situational choices from a cultural repertoire; Demetriou argues the typology misses the "hybridization" by which hegemonic masculinity absorbs elements of subordinated ones. Connell's own reply: "we still require a way of theorizing gendered power relations among men … the concept of hegemonic masculinity, as developed in this book, is still essential." Connell and Messerschmidt's later reformulation (2005) is the standard response and is treated on the debate page.
+
+
+## Archaeological uptake — Gilchrist (1999)
+
+*(Attributed — Gilchrist, *[[gilchrist-gender-and-archaeology-1999|Gender and Archaeology]]* ch.4.)* Gilchrist imports Connell-stream hegemonic masculinity into archaeological readings of warrior packages and counter-hegemonic masculinities (Treherne, Härke, Robb as she reviews), and warns that “masculinist” archaeology can become feminist backlash unless it challenges stereotyping of both sexes. Related: Amazon/warrior-women and high-status female burials (Vix, etc.) as pressure on male=warrior metonymy.
+

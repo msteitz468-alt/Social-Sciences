@@ -3,24 +3,24 @@ title: "Non Nok Tha"
 site_type: settlement
 modern_country: [Thailand]
 coordinates: "approx. 16.7, 102.3 (Phu Wiang district, Khon Kaen Province, Northeast Thailand)"
-date_earliest: "c. 3rd or late 4th millennium BCE (pre-metal occupation; radiocarbon, calibration status unstated in source)"
-date_latest: "c. 1000 BCE (bronze-bearing levels probably fall within 2000-1000 BCE; site likely abandoned before local iron use)"
+date_earliest: "pre-metal Phu Wiang occupation (3rd–late 4th millennium BCE claims from early work disputed; AMS BA graves 1400–900 BC as of Higham 2002)"
+date_latest: "c. 900 BCE (Bronze Age graves end; site likely abandoned before local iron use)"
 date_precision: disputed
-dating_methods: ["[[radiocarbon-dating]]", "seriation"]
+dating_methods: ["[[radiocarbon-dating]]", "AMS dating of rice-chaff ceramic temper", "seriation"]
 periods_of_occupation: ["neolithic", "bronze-age"]
 region: [southeast-asia, mainland-southeast-asia]
 cultures: []
 excavated_by: ["Wilhelm Solheim", "Chester Gorman", "Donn Bayard", "Parker"]
 excavation_years: "1963-4 (survey), 1965 (test excavation), 1966 and 1968 (full-scale excavation)"
 key_finds: ["socketed bronze axe (17% tin, burial 90)", "sandstone bivalve axe moulds", "bronze crucibles and casting spillage", "87 well-provenanced inhumation burials", "footed pottery jars", "polished stone quadrangular adzes", "domestic pig, cattle, and dog remains"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, bronze-age, southeast-asia]
 ---
 
 ## Overview
 
-Non Nok Tha is a low mound on sandy-loam soil near the confluence of two streams close to the Phu Wiang monadnock, Northeast Thailand. It was located during a 1963–4 survey of the Nam Phong dam area led by Wilhelm Solheim, with the site itself found by Chester Gorman, and it became, alongside [[ban-chiang]], one of the two excavations that opened the debate over the antiquity of Southeast Asian bronze-working. The site's excavated burials and its associated bronze-casting debris are the primary basis for the Non Nok Tha and Phu Wiang phases of Donn Bayard's regional periodization. All claims below derive from Higham (1989), *The Archaeology of Mainland Southeast Asia*.
+Non Nok Tha is a low mound on sandy-loam soil near the confluence of two streams close to the Phu Wiang monadnock, Northeast Thailand. It was located during a 1963–4 survey of the Nam Phong dam area led by Wilhelm Solheim, with the site itself found by Chester Gorman, and it became, alongside [[ban-chiang]], one of the two excavations that opened the debate over the antiquity of Southeast Asian bronze-working. The site's excavated burials and its associated bronze-casting debris are the primary basis for the Non Nok Tha and Phu Wiang phases of Donn Bayard's regional periodization. Body sections through **Historiography** rest on Higham (1989), *[[higham-archaeology-mainland-southeast-asia-1989|The Archaeology of Mainland Southeast Asia]]*; the **Higham 2002 update** densifies AMS chronology from *[[higham-early-cultures-mainland-southeast-asia-2002|Early Cultures of Mainland Southeast Asia]]*.
 
 ## Discovery and Excavation History
 
@@ -48,8 +48,40 @@ Skeletal analysis (Pietrusewsky 1974, 1982, 1984) of 188 complete and partial sk
 
 ## Key Debates
 
-Non Nok Tha's radiocarbon sequence sits at the centre of the [[southeast-asian-bronze-chronology-debate]]. Early chronology estimates (Solheim 1968; Bayard 1972a) attempted to date the bronze-bearing levels when Non Nok Tha was the sole known bronze-bearing site in mainland Southeast Asia, and were later revised substantially downward as further excavations (notably [[ban-chiang]] and [[ban-na-di]]) provided better-controlled comparanda. (ATTRIBUTED, as of Higham 1989) Higham's revised synthesis places initial bronze at Non Nok Tha at c. 2000–1500 BCE, reconciling the site with the Ban Chiang and Ban Na Di sequences and representing a marked downward revision from the "extremely early" metallurgy claims current in the 1960s–70s. The dating difficulties are compounded by the site's excavation conditions (no shelter, unscreened hard soil, shallow and intercut graves), which Higham treats as a methodological caution rather than a resolved question.
+Non Nok Tha's radiocarbon sequence sits at the centre of the [[southeast-asian-bronze-chronology-debate]]. Early chronology estimates (Solheim 1968; Bayard 1972a) attempted to date the bronze-bearing levels when Non Nok Tha was the sole known bronze-bearing site in mainland Southeast Asia, and were later revised substantially downward as further excavations (notably [[ban-chiang]] and [[ban-na-di]]) provided better-controlled comparanda. (ATTRIBUTED, as of Higham 1989) Higham's revised synthesis places initial bronze at Non Nok Tha at c. 2000–1500 BCE, reconciling the site with the Ban Chiang and Ban Na Di sequences and representing a marked downward revision from the "extremely early" metallurgy claims current in the 1960s–70s. The dating difficulties are compounded by the site's excavation conditions (no shelter, unscreened hard soil, shallow and intercut graves), which Higham treats as a methodological caution rather than a resolved question. As of Higham (2002), AMS determinations place Bronze Age graves within **1400–900 BC** and rice-chaff temper dates place earliest bronzes region-wide within **1500–1000 BC** — see **Higham 2002 update**.
+
+## Higham 2002 update
+
+*(Attributed — [[higham-charles|Higham]], *[[higham-early-cultures-mainland-southeast-asia-2002|Early Cultures of Mainland Southeast Asia]]* 2002; distinguish from the 1989 synthesis above.)*
+
+### Site setting and excavation goals restated
+
+(ATTRIBUTED) Higham (2002) situates Non Nok Tha as a small Khorat mound ~120 km south of the Phu Lon copper mines, on low-terrace sandy loam near Phu Wiang. The 1966 and 1968 excavations aimed principally at dating bronzes and recovering large skeletal, pottery, and biological samples. Bayard (1971) subdivided deposits into early (3 phases), middle (8), and late (6) periods; for Bronze Age analysis Higham focuses on the first two technological blocks. The site served mainly as a cemetery with some post-hole house patterns; deposits little more than a metre deep with heavy intercutting — the same stratigraphic liabilities already stressed in the 1989 account.
+
+### AMS chronology: BA graves 1400–900 BC
+
+(ATTRIBUTED — Higham 2002) Conventional radiocarbon at Non Nok Tha "foundered for lack of internal consistency and difficulties in relating often very small quantities of charcoal to the event being dated." Higham reports that AMS dating "has solved" this problem: "The new determinations make it clear that the Bronze Age graves fall within the period 1400-900 BC." Jointly with Ban Chiang, AMS dating of **rice chaff used as ceramic temper** shows earliest bronzes cast within **1500–1000 BC**. Fourth-millennium claims (Solheim 1968 and parallel Ban Chiang claims) "have not been confirmed, and must be set aside." Full debate: [[southeast-asian-bronze-chronology-debate]].
+
+### Mortuary pattern and local casting (2002 restatement)
+
+(ATTRIBUTED) From initial cemetery use: extended inhumation (graves 40–90 cm) with pottery, stone adzes, shell-disc waist beads, and animal bones; of 87 well-provenanced complete burials only five had shell beads and two shell bracelets — exotic goods rare. Bronze rare: one Early Period axe (Higham 2002 notes 14% tin bronze over an adult male chest in EP3; the 1989 account above reports 17% tin for burial 90 — retain both as source-dated figures without adjudicating). Middle Period shows local casting via crucibles, spillage, and moulds; animal offerings include pigs (sometimes complete or shroud-like), cattle forelimbs, dog, and smashed vessel covers; freshwater bivalve shellfish recur as offerings across BA sites.
+
+Early Period child burials show elaborate animal-inclusive ritual (as of Higham 2002): Burial 8 with young pig limbs/jaw and adult dog; Burial 14 with smashed sherd sheet, shell beads, entire pig and cow forelimb, possible pig-skin shroud; Burial 16 with complete pig skeleton.
+
+### Domesticates and rice temper (2002 restatement)
+
+(ATTRIBUTED) Pig and cattle predominate in graves (45 and 36 individuals); only two dogs, one water buffalo; adult pig skulls short/broad and cattle bones smaller than wild stock, indicating domestication; dog domestic from earliest occupation; four domesticates from earliest contexts — cattle, pig, dog, chicken — for ritual and consumption. Rice-chaff temper rises 1.5% (EP1) → 5.7% (EP2) → 13.5% (EP3); botanists still divided (Chang between wild and weed rice; Vishnu-Mittre unsure) — same contested picture as 1989, now explicitly paired with AMS use of that temper as a dating medium. See [[rice-domestication]].
+
+### Bioarchaeology densification (as of Higham 2002, citing Douglas 1996)
+
+(ATTRIBUTED) Large BA skeletal sample analysed by Douglas (1996); infant mortality far lower than coastal [[khok-phanom-di]] (only 5.5% infants under one year at Non Nok Tha — possible under-representation from hard soils). Over the sequence Non Nok Tha shows improving health markers (fewer young deaths, taller stature, less anaemia/hypoplasia) but rising osteoarthritis — different work-pattern signatures by sex.
+
+### Regional context
+
+(ATTRIBUTED) Neighbouring Phu Wiang sites (Non Nong Chik, Non Pa Kluay, Non Praw) continue or overlap the Non Nok Tha ceramic sequence into later BA/early iron horizons; Non Pa Kluay lower horizon matches Non Nok Tha Middle Period pottery and bivalve sandstone axe moulds, with pooled radiocarbon settlement ~1300–975 BC (as of Higham 2002). Phu Lon copper-mining complex to the north supplied the Mekong corridor; crucibles share shape and manufacturing technology with Khorat village sites including Non Nok Tha's peers (Vernon 1996–7 via Higham).
 
 ## Historiography
 
-Non Nok Tha was excavated under a culture-historical/salvage framework — a joint University of Hawaii–Thai Fine Arts Department program directed by Solheim, undertaken ahead of the Nam Phong dam project — predating the more explicitly processual, multi-specialist approach later applied at Ban Chiang (1974–5) and Ban Na Di (from 1980). Its dating rests on radiocarbon determinations whose calibration status is not stated explicitly in Higham (1989); per this wiki's Chronological Uncertainty Protocol, all B.C./A.D. dates drawn from this source should be treated as of unstated, likely-uncalibrated status until confirmed elsewhere. The site's initial 1960s–70s framing as evidence for "extremely early" indigenous Southeast Asian bronze-working was progressively revised downward as excavation methods and comparative chronological control improved at subsequent sites; this revision is documented in detail on [[southeast-asian-bronze-chronology-debate]]. Collection coverage: this page rests on a single secondary synthesis (Higham 1989); no primary excavation reports have yet been ingested.
+Non Nok Tha was excavated under a culture-historical/salvage framework — a joint University of Hawaii–Thai Fine Arts Department program directed by Solheim, undertaken ahead of the Nam Phong dam project — predating the more explicitly processual, multi-specialist approach later applied at Ban Chiang (1974–5) and Ban Na Di (from 1980). Its dating rests on radiocarbon determinations whose calibration status is not stated explicitly in Higham (1989); per this wiki's Chronological Uncertainty Protocol, all B.C./A.D. dates drawn from that source should be treated as of unstated, likely-uncalibrated status until confirmed elsewhere.
+
+(As of Higham 2002 vs 1989) The 1989 synthesis still placed bronze-bearing levels within 2000–1000 BCE (initial bronze c. 2000–1500 BCE). The 2002 volume treats conventional charcoal dating at Non Nok Tha as having foundered and presents AMS determinations placing BA graves within **1400–900 BC**, with rice-chaff temper AMS placing earliest bronzes within **1500–1000 BC** jointly with Ban Chiang. The site's initial 1960s–70s framing as evidence for "extremely early" indigenous Southeast Asian bronze-working is now explicitly set aside as unconfirmed. Collection coverage: [[higham-archaeology-mainland-southeast-asia-1989]] and [[higham-early-cultures-mainland-southeast-asia-2002]]; no primary excavation reports have yet been ingested.

@@ -1,8 +1,8 @@
 ---
 title: Acheulean Industry
 culture_type: archaeological-culture
-date_start: 1.7 Ma
-date_end: ~200 ka
+date_start: ~1.76 Ma (as of Sahnouni et al. in Mitchell & Lane 2013)
+date_end: ~0.3 Ma MSA transition (as of handbook ~2012; regional tails later)
 date_precision: approximate
 dating_methods: [potassium-argon-dating, paleomagnetic-dating, thermoluminescence-dating]
 period: [early-prehistory, late-prehistory]
@@ -10,13 +10,13 @@ region: [africa, near-east, europe]
 defined_by: [material-culture]
 construct_status: conventional
 type_site: "[[unknown]] — named for St. Acheul, France; type assemblages also at Olduvai Bed II"
-key_sites: [olduvai-gorge]
+key_sites: [olduvai-gorge, gona, olorgesailie, kalambo-falls, herto, sterkfontein]
 preceded_by: [oldowan-industry]
 succeeded_by: [mousterian-industry]
 language_affiliation: "[[unknown]] — industry, not a population"
 genetic_signature: "[[unknown]] — industry, not a population"
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 5
+last_updated: 2026-07-15
 tags: [culture, early-prehistory, late-prehistory, africa, near-east, europe]
 ---
 
@@ -79,3 +79,23 @@ See [[klein-human-career-1999]] for the source synthesis underlying this page.
 **Toward Levallois / Middle Palaeolithic.** Widespread Levallois may first appear widely in the Saalian after ~300 Kyr BP (Bridgland: OIS 8 on Lower Thames); conceptual link to biface façonnage at Cagny-la-Garenne OIS 11–12. White & Pettitt (via Gamble): Levallois appearance is the only major technological innovation 500–200 Kyr BP justifying Lower/Middle Palaeolithic division. Shift from biface **façonnage** dominance toward **débitage** (Levallois/prismatic blades) is a new temporality of action (longer manufacturing sequences, larger raw-material catchments) already underway before classic Mousterian facies debates (see [[mousterian-industry]], [[levallois]]).
 
 **MTA link.** Mousterian of Acheulean Tradition (MTA) reintroduces bifaces in late MP sequences (Combe Grenal succession Ferrassie → Quina → MTA); MTA is a Middle Palaeolithic facies, not a return of Lower Palaeolithic Acheulean culture — keep the succession analytical (Mellars/Turq via Gamble; see [[binford-bordes-mousterian-debate]]).
+
+## Oxford Handbook densification (Mitchell & Lane 2013)
+
+*Attributed — Sahnouni, Semaw & Rogers (Ch. 22), Domínguez-Rodrigo (Ch. 21), Tryon (Ch. 8) in [[mitchell-lane-oxford-handbook-african-archaeology-2013]]; **as of handbook ~2012 / early 2013**.*
+
+Sahnouni et al. define African **Acheulean** as Clark’s **Mode 2**, emerging ~**1.76 mya** in East Africa (Lepre et al. 2011; Beyene et al. 2013), broadly coeval with *H. erectus*/*H. ergaster*. Diagnostic large shaped tools are handaxes, cleavers, and picks (often bifacial; “biface” informal). Mode 1 core-flake technology continues throughout. They periodize (acknowledged as somewhat arbitrary): **Early 1.75–1.0 mya** (simple thick-butted handaxes); **Middle ~1.0–0.6 mya** (more predetermined shape/symmetry); **Late ~0.6–0.3 mya** (thinner bifaces; Levallois; soft hammer). The tradition persists ~1.5 my until ~0.3 mya MSA transition (**as of handbook ~2012**). Associated fossils: Early *H. erectus*/*ergaster*; Middle Pleistocene more varied (*H. heidelbergensis*; post-350 kya possibly *H. helmei*). Industry ≠ species: at [[herto]] ~160 kya, Acheulean and MSA co-occur with *H. sapiens* — “complex associations, or lack thereof, between hominin type and stone tool technology.”
+
+Earliest Acheulean sites they cite: Kokiselei (Kenya) 1.76 mya; Konso (Ethiopia) ~1.7 mya; [[gona]] large handaxes/picks ~1.7 mya; Melka Kunture ~1.5–1.4 mya. Related Mode 1 with large flakes (Karari at Koobi Fora ~1.6–1.5; Peninj ~1.5–1.2) lack bifaces — relation unclear. Southern Africa: Acheulean widespread (vs Oldowan restricted to [[sterkfontein]]/Kromdraai B); few absolute dates — Rietputs Formation ~1.57 mya; Wonderwerk crude bifaces ~1.6 mya; Sterkfontein Valley possible Early Acheulean 1.7–1.4 mya. North Africa: Thomas Quarry 1 Unit L (Casablanca) OSL ~989±208 kya oldest secure regional Acheulean; long hiatus after Ain Hanech Oldowan. Middle Acheulean exemplar: [[olorgesailie]] ~1.0–0.5 mya — biface variability tied to land use not simple time trends; raw-material transport max distance rises ~threefold vs Oldowan/Early Acheulean (~45 vs ~15 km). Late Acheulean (~600–300 kya): refined thin symmetrical bifaces (soft hammer); Bodo ~600 kya cut-marked hominin cranium; Kapthurin blades ~500 kya and early MSA ~284 kya; Gademotta MSA ~276 kya; [[kalambo-falls]] Mode 2+3 ~200–150 kya with rare wood/plant preservation. Southern Late Acheulean invents Levallois and **Victoria West** large-flake method; fine late bifaces sometimes labeled **Fauresmith**.
+
+**Developed Oldowan position (Sahnouni et al.):** DO A reassigned within Oldowan; DO B within Early Acheulean. Transition appears rapid; Acheulean implies large-flake blanks from boulder cores and different objectives/force/coordination. **Counter-position** (Jones 1994; Shea 2010): differences only of degree (allometric larger cores). Handaxe function: experimental butchery, microwear (butchery, soft plant), Acacia phytoliths at Peninj; often multifunctional core-tools. Controlled fire claimed for several African ESA sites but none definitive; authors note fire at Gesher Benot Ya’aqov Israel ~790 kya and expect eventual African Acheulean confirmation (**as of handbook ~2012**). Environmental context ~1.9–1.7 mya (grassland expansion, cooling/drying) likely contributed to *H. erectus* and Acheulean emergence, but specific selective agents remain unclear. Acheulean makers occupied wider habitats than Oldowan lake-margin focus; first large-scale out-of-Africa populations, though Acheulean tech spreads widely in Eurasia only after ~1.0 mya. Authors characterize Acheulean as long-lasting, relatively conservative cultural transmission among small mobile groups.
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*(Attributed — [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]; as of Tattersall 2012.)*
+
+**Appearance and form.** Earliest handaxes currently known from Kenya ~**1.78 Ma** (as of 2012) but crude/rare; not routine until hundreds of ka later; regular new concept ~1.5 Ma in Africa (recently India too). Type-site St. Acheul, France, much younger (<0.5 Ma). Bifacial teardrop cores ~8–9 inches; variants picks and cleavers; durable >1 Ma with little conceptual change — “Swiss Army Knife of the Paleolithic.” Use-wear: cutting branches, slicing meat, scraping hides; form stable across moist/arid habitat swings. Timeline table: first deliberately shaped stone tools 1.76 Ma.
+
+**Cognition and inventors.** Beyond Oldowan fine-grained rock selection, makers needed flaw-free homogeneous cores and ability to “see” the finished form before flaking — profound if unclear mental implications; wrong to scale modern IQ down (“simply like us but dumber”); symbolic processing a recent acquisition. Invention after *H. ergaster* appeared is expected (tech advances within species); neural potential must have pre-existed expression ([[exaptation]]); inventor identity hazy if multiple species hide under *ergaster*/*erectus* labels. Spirit of innovation among early *Homo* in Africa from well over 1.7 Ma. Contrast Oldowan: tools made as-needed at butchery sites in small numbers; handaxes often **mass-made at workshops** near rock sources — [[olorgesailie]] Kenya: thousands of ~1-Ma tools in a small area implies some social/economic role specialization (controversial ritual-gathering reading of dense sites); oversized Isimila (Tanzania) handaxes invite ceremonial/playful/competitive speculation (late). Petite Olorgesailie individual labeled *H. erectus* more by date than morphology (<800 cc).
+
+**Tech–species non-correlation.** First *H. ergaster* kept Oldowan concepts hundreds of millennia; Bodo (*H. heidelbergensis*) still associated with archaic/Oldowan-type tools without handaxes a million years after invention (though handaxes present in older underlying layers) — again no correlation between new hominid kind and technological innovation. Industry ≠ people ≠ language. See [[homo-erectus]], [[homo-heidelbergensis]], [[oldowan-industry]], [[exaptation]].

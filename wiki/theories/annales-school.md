@@ -13,8 +13,8 @@ core_claims:
 developed_from: ["reaction against political-narrative historiography (Ranke-style empiricism)"]
 competes_with: ["traditional event-based political history", "Rankean empiricist historiography"]
 status: absorbed
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: "2026-07-15"
 tags: [theory, history, archaeology]
 ---
 
@@ -133,6 +133,24 @@ criticism.
 ## Reading the Past (2003) — critique of Braudel's scale-weighting (attributed)
 
 *(Attributed — [[hodder-reading-past-2004|Hodder & Hutson, Reading the Past]], 3rd ed., ch. 7.)* Hodder & Hutson report the school's direct archaeological impact (citing Bintliff 1991, Knapp 1992) and its three time-scales — longue durée, moyenne durée, and événement — as a live tool for archaeology's own multi-scalar evidence. They argue Braudel himself "notoriously undervalued the contribution of short-term events," and side with his successors (Ladurie, Le Goff) and with archaeological critics (Knapp; Bintliff) in preferring an "indeterminacy" among the scales: short-term events cannot be reduced to material end results of long-term structures and medium-term cycles, and idiosyncratic or deviant cases should not be dismissed as failing to matter to longer trends.
+
+## Cunliffe 2001 — the Atlantic-façade program as an extended Braudelian application
+
+*(Attributed — [[cunliffe-facing-the-ocean-2001|Cunliffe, Facing the Ocean]], 2001.)*
+Cunliffe's history of the Atlantic seaboard from prehistory to 1500 is an explicit,
+book-length application of the Braudelian multi-scale method to archaeology: his
+three "cycles" of Atlantic maritime interaction (prehistoric, Mediterranean-linked,
+and post-Roman/medieval — see [[longue-duree]]) function as his longue-durée
+structure, against which shorter episodes (Viking raiding, the Reconquista, individual
+voyages) play out as conjoncture and événement. He closes the book with an "oceanic
+mentality" thesis — a claimed enduring disposition of Atlantic-facing communities
+toward the sea across millennia — which functions as his deepest longue-durée layer,
+beneath even the three cycles, and which he treats as attributed interpretation
+throughout, at points explicitly flagging his own speculation (e.g., linking tidal
+observation to megalithic monument-building) as unproven. Cunliffe's own caveat that
+his three-cycle periodization is "a broad generalization" rather than a precise
+chronology mirrors the standing Annales-internal dispute (above) over how much weight
+a longue-durée frame can bear before it becomes unfalsifiable.
 
 ## Insoll 1999 — heuristic Annales for Islamic material culture
 

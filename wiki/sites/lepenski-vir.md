@@ -13,8 +13,8 @@ cultures: ["Lepenski Vir / Iron Gates Mesolithic (label as used in literature)"]
 excavated_by: ["Dragoslav Srejović and teams"]
 excavation_years: ["1960s major campaigns (ongoing publication legacy)"]
 key_finds: ["trapezoidal houses with plastered floors", "monumental stone sculpture (91 pieces in 1986 Southampton exhibit)", "stone-lined hearths, altars", "burials associated with houses"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [site, mesolithic, southeast-europe]
 ---
 
@@ -57,3 +57,56 @@ Gender and interpretive power; whose labor/art is credited; relation to goddess/
 - **Labour contrast:** Mesolithic few-hours foraging knowledge economy vs Nea Nikomedeia hard agricultural labour including child weeding (Mithen’s comparative framing).
 
 Site ≠ ethnos. Source: [[mithen-after-the-ice-2003]].
+
+## Bradley 1998 — Mesolithic ontology vs Hodder (attributed)
+
+*[[bradley-significance-of-monuments-1998]]* (Ch. 2) places Lepenski Vir in a pan-European Mesolithic burial-symbolism discussion (human crania, fish/animal offerings, bone circulation, red ochre, antler — Srejović; parallels at Vlasac). Unique monumental sculptures and associated buildings stand out; may date when the local population was already in contact with Neolithic farmers (Whittle 1996a via Bradley).
+
+**Hodder (1990) position (as Bradley reports):** death associated with the wild; stag antlers; fish with altar; boulder art linking humans–death–fish; house organisation back/west/death vs front/east/life; domestic vs wild as lasting European theme.
+
+**Bradley counter-reading:** Mesolithic evidence suggests reciprocal/animistic culture–nature relations, not antagonism; dead with fertility/regeneration symbols; no categorical human/animal or culture/nature division; Saami analogy for northern Europe. Freestanding monuments and domestication both become thinkable only after that ontology erodes.
+
+Keep Handsman feminist-exhibition critique (above) and Bradley’s ontology debate as separate evidence classes / knowledge-layer positions.
+
+## Whittle densification (1996)
+
+*(All claims attributed to [[whittle-alasdair|Alasdair Whittle]], *[[whittle-europe-in-the-neolithic-1996|Europe in the Neolithic]]* 1996, Chs. 2–3 and synthesis. Mid-1990s cal BC; pre-aDNA. Site ≠ ethnos, language, or genetic population. Bradley already cites Whittle 1996a via secondary path above—this section densifies Whittle’s own Iron Gates reading.)*
+
+### Gorges sites and excavation context
+
+Whittle lists famous Mesolithic sites of the Danube Gorges—**Schela Cladovei**, **Icoana**, **Lepenski Vir**, **Padina**, **Vlasac**—known largely via 1960s+ hydro-dam rescue excavation; deer, pigs, fish, possible wild plants; well-built stone hearths; Lepenski Vir **trapezoidal structures**; burials quite common.
+
+### Against sedentary pre-Neolithic “villages” (POSITION)
+
+Whittle challenges the widespread claim of long pre-Neolithic history, sedentary lifestyle with plant/animal (pig) control, and domestic dwellings/villages. He argues there was still **much mobility**, little or any direct control over resources, and that several of the sites were **sacred points** rather than permanent bases (**position**). He finds Icoana young-pig “control” claims unconvincing (no dentition change; different pattern at Vlasac); grass-pollen-in-coprolites as domesticates weak; perforated antler as hoes cannot prove cultivation; worn teeth show plant importance but enamel defects indicate malnutrition—hard to reconcile with successful near-sedentism. He likewise rejects the second indigenous model of pre-Neolithic sedentism, resource control, and social differentiation based on the Gorges as unconvincing due to chronology and interpretation difficulties (Ch.3).
+
+### Chronology parallel with first Neolithic (as of Whittle 1996)
+
+Whittle argues the most coherent date series for **Lepenski Vir I–II** (~**6400–5600 BC** as of his framework) makes the main phase of Gorges structures and burials **at least as likely contemporary with the first Neolithic in the region** as earlier; inconsistent radiocarbon at Vlasac/Padina undermines simple early sequences (**position**—date-stamp mid-1990s; later sequences may supersede).
+
+### Structures as possible unroofed shrines (POSITION)
+
+Formal hearth–platform–boulder arrangements leave little living space; few stake/post holes despite assumed roofing; formalised fish remains west of hearths, stone clubs east, red deer parts on stone “tables.” Alternative interpretation: **unroofed shrines or altars**, edges lined with stones and floors carefully laid (**theory/position**).
+
+### Burials and place vs settlement
+
+Varied burial (partial, extended, ochre, antlers, aurochs/deer skulls at Lepenski Vir; many burials at Vlasac 1, Schela Cladovei). Some sites better as regularly used **base camps of permanent significance**, others as burial grounds or sacred exposure areas—**enduring sense of place can be distinguished from fixed settlement** (**finding**).
+
+### Sacred centre as resistance / reaction (POSITION)
+
+Whittle reinterprets spectacular late Gorges developments: emergence of a sacred centre as reaction either to **incoming Neolithic populations** or (as he prefers possible) to **indigenous acculturation**—emphasising place, past, spirits; conceptual resistance; **unsuccessful** in the end; later **phase III** reoccupation with tradition dislocation. In synthesis: Danube Gorges shrines may be last foragers amid regional change after ~6500 BC, as SW Asian-derived practices spread through forager networks including the [[starcevo-koros-cris-culture]] orbit (**position** on [[farming-spread-europe-debate]]).
+
+### Standing layers on this page (no adjudication)
+
+| Layer | Focus |
+|---|---|
+| Handsman 1991 | Gender/power in excavation and exhibition narratives |
+| Mithen 2003 | Narrative synthesis; generational split at farming interface |
+| Bradley 1998 | Mesolithic ontology vs Hodder; cites Whittle on Neolithic-contact dating |
+| **Whittle 1996** | Late chronology; mobility; shrine reading; resistance to Neolithic becoming |
+
+### Links
+
+- source: [[whittle-europe-in-the-neolithic-1996]] · [[whittle-alasdair]]
+- associated_with: [[starcevo-koros-cris-culture]] (first Neolithic parallel / porous frontier—not identity)
+- debated_in: [[farming-spread-europe-debate]]

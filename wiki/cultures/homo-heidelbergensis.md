@@ -15,8 +15,8 @@ preceded_by: [homo-erectus]
 succeeded_by: []
 language_affiliation: "[[unknown]]"
 genetic_signature: "(as of Klein 1999) proposed common ancestor of Neanderthals and modern humans ~600 ka; provisional, taxon status contested"
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [culture, late-prehistory, europe, africa, east-asia]
 ---
 
@@ -67,3 +67,15 @@ See [[klein-human-career-1999]] for the source synthesis underlying this page.
 **EQ and body mass.** Early humans including large-bodied heidelbergensis: EQ ~3.4–3.8; Boxgrove tibia and Bodo skull body-mass estimates >90 kg vs lighter Broken Hill tibia (as of Stringer 2012).
 
 See [[neanderthals]], [[denisovans]], [[anatomically-modern-humans]], [[omo-river]], [[boxgrove]], [[recent-african-origin]].
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*(Attributed — [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]; as of Tattersall 2012.)*
+
+**First Old World–wide species.** Tattersall places the first clear indications of *Homo heidelbergensis* as a cosmopolitan hominid ~600 ka: Mauer mandible (Heidelberg gravel pit 1908) “recently dated” 609 ka (as of 2012); matches Arago (French Pyrenees) jaws/face/vault ~400 ka; also Bodo Ethiopia ~600 ka, Kabwe Zambia, Petralona Greece, Dali and Jinniushan China, and other poorly dated specimens roughly 500 to <200 ka. Likely African origin then spread. Body: few postcranials (Jinniushan incomplete access); modern plan but very robust, some Neanderthal-foreshadowing details. Cranial morphology: robust flatter faces, shorter tooth-rows, tall supraorbital eminences; vaults **1166–1325 cc** — within modern range but below today’s average.
+
+**Endocasts and tech–species non-correlation.** Described endocasts said to show expanded Broca’s areas and modern-like asymmetries; prefrontal cortex broad/flat vs *H. sapiens* — functional meaning unclear. Mauer lacks archaeology; Bodo associations archaic — Oldowan-type tools, handaxes absent a million years after invention (though present in older underlying layers). Bodo skull cut-marks on fresh bone: deliberate defleshing; cannibalism unlikely (face/forehead low edible yield); Tattersall warns against reading modern-style ritual.
+
+**Behavioral peak without symbolism.** Tenure ~600–200 ka: shelters and hearth fire as regular repertoire at Terra Amata (~380 ka — oval stone-ring sapling shelters, scooped hearth with blackened cobbles and cooked bones; “perhaps the oldest firm evidence… for the domestication of fire following that extraordinary 800-thousand-year-old outlier in Israel”); Schoeningen wooden throwing spears and composite-tool handle candidates ~400 ka; prepared-core technology ~300–200 ka; early African blades >0.5 Ma in Kenya. Thesis: most complex lives yet, but no sure regular symbolic objects (Berekhat Ram pebble ~230 ka and Kenyan ostrich-eggshell disks ≤~280 ka remain weak/speculative candidates). Cognitive wager (POSITION): intelligence “purely intuitive and non-declarative” — neither symbolic thought nor language as we do; not simpler versions of us.
+
+See [[control-of-fire]], [[acheulean-industry]], [[species-concept]], [[neanderthals]].

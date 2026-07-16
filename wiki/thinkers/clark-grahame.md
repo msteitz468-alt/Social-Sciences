@@ -10,8 +10,8 @@ trained: ["[[fagan-brian]]"]
 key_works: ["[[clark-archaeology-and-society-1957|Archaeology and Society (1939; rev. 1957)]]", "Prehistoric Europe: The Economic Basis (1952)", "Excavations at Star Carr (1954)", "[[clark-world-prehistory-1961|World Prehistory: An Outline (1961)]]"]
 key_concepts: ["[[economic-prehistory]]", "[[world-prehistory]]", "[[ethnographic-analogy]]", "[[prehistory]]", "[[mesolithic]]"]
 fieldwork_sites: ["Star Carr, Yorkshire, England (Mesolithic; excavated 1949–51)"]
-sources_ingested: 5
-last_updated: 2026-07-10
+sources_ingested: 6
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -57,3 +57,7 @@ Two ingested sources so far: *Archaeology and Society* (1957) for method and *Wo
 - **World-prehistory genre:** Mithen’s global 20,000–5000 BC narrative is a post-Clark popular successor frame (ecological–economic outline + multi-continental scope); Clark is not a continuous interlocutor in the text but Star Carr remains the British Mesolithic type-case.
 
 Source: [[mithen-after-the-ice-2003]]. Cross-links: [[mesolithic]], [[star-carr]], [[radiocarbon-dating]], [[world-prehistory]].
+
+## Renfrew 2007 reception (*Prehistory*)
+
+*(Attributed — [[renfrew-colin]], *[[renfrew-prehistory-making-human-mind-2007]]*, 2007.)* Renfrew treats Clark's *[[clark-world-prehistory-1961|World Prehistory]]* (1961) as the first coherent **radiocarbon-based** global outline of human prehistory, and as a predecessor for later multi-author surveys (e.g. Scarre). Used as the hinge between the dating revolution and the "possibility of world prehistory."

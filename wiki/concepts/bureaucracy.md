@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Ideal-typical administrative form indexed by: salaried, examined, career officials; separation of the official from ownership of the means of administration; hierarchical offices under written rules; impartial execution 'without scorn or bias' (sine ira et studio); files and expertise. Empirically read from staffing, tenure, examination requirements, and rule-boundness."
 contested: "no"
 related_concepts: ["[[legitimate-domination]]", "[[the-state]]", "[[monopoly-of-violence]]", "[[rationalization]]", "[[iron-cage]]", "[[legal-rational-authority]]", "[[domination-herrschaft]]", "[[traditional-authority]]", "[[charismatic-authority]]", "[[hydraulic-society]]", "[[oriental-despotism]]"]
-sources_ingested: 10
-last_updated: 2026-07-10
+sources_ingested: 11
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -123,3 +123,44 @@ Cross-links: [[the-state]], [[temple-economy]], [[state-formation]], [[amarna]] 
 *(Attributed — [[wilkinson-toby]], *[[wilkinson-rise-fall-ancient-egypt-2010]].)*
 
 Narrative highlights vizierate, imperial administration under Thutmose III/Amenhotep III, Amarna-era control, Ramesside military bureaucracy, and late NK high-priest dual power as administrative mutations — without Kemp’s ration-accounting depth. Cross-read with provider-state section above.
+
+## Lehner densification (1997)
+
+*(Attributed throughout — [[lehner-mark]], *[[lehner-complete-pyramids-1997|The Complete Pyramids]]* 1997. Pyramid-age labour and cult administration; complements Kemp’s provider-state section above. **Labour-status claims remain Lehner’s positions, not wiki-voice facts.**)*
+
+### Crew–gang–phyle–division hierarchy
+
+- Each **crew** comprised two **gangs** of 1,000; each gang divided into five groups called *zaa*, later (Ptolemaic) equated with Greek *phyle* (“tribe”), of ~200 men; phyles consisted of ten divisions of 20 (or maybe twenty of 10).
+- Competing gangs had names compounded with the reigning king (e.g. “Friends of Khufu,” “Drunkards of Menkaure”). The five phyle names of a gang were always: Great (Starboard); Asiatic (Port); Green (Prow); Little (Stern); Last (Good) — ship-part vocabulary also found as orientation signs on Khufu boat planks.
+- Menkaure temple graffiti confirm gang names and only “Little” and “Green” phyle names in that sample.
+- **Temple phyles:** same names as building crews; Abusir evidence includes half-phyle monthly service patterns; permanent staff vs “parasite” phyles and Neferirkare personnel totals in the papyri (Lehner summary).
+
+### Labour organisation and scale (POSITION / INTERPRETATION)
+
+- Lehner judges it “probable” that skilled builders and craftsmen were in permanent pharaonic employment; the mass of the workforce “crews of peasant conscripts numbering probably 2,000 men” — **conscript framing is attributed, not established fact.**
+- Herodotus’s 100,000 over 20 years: Lehner finds more credible annual totals with teams of ~25,000 on three-month stints; “generally accepted” range 20,000–30,000. His own model: two crews of 2,000 for core quarrying/hauling/setting; infrastructure (ramps, food, tools) may push total to 20–25,000.
+- Petrie: room for not more than ~8 handlers per average 2.5-ton block; Lehner NOVA-aligned model ~680–1,000 setters.
+- Dieter Arnold’s Amenemhet III Dahshur mudbrick workforce table totals **4,770** (brick makers, carriers, cutters, sailors, lifters, auxiliaries) — same order as [[kemp-barry-j|Kemp]]’s 5,000–9,000 grain-ration estimate for Illahun/[[kahun]] large-house granaries.
+
+### Control notes
+
+Felix Arnold distinguished two kinds of “control notes” on undressed paving, backing, and casing stones (esp. [[lisht]]):
+
+1. **Controller/scribe texts** — date of transport, workmen in charge, stage (quarry → shipping → *mereyt*/harbour → storage → pyramid/ramp).
+2. **Team marks** — larger overlapping signs for (possibly illiterate) workmen rotating 2–4 months; known hieroglyphs or invented signs; may identify home towns or *tjeset* troops of 10, or both; some teams named after householders’ estates.
+
+Towns in recovered control notes cluster in Middle Egypt, around [[memphis]], Heliopolis, and the Delta — distribution Lehner finds “strikingly similar” to OK internal colonization geography. He asks whether raw labour for OK pyramids was gathered from newly colonized areas.
+
+### Labour as household/town flow (POSITION)
+
+Lehner argues popular images of military-style recruitment, modern wage-labour engineering, and total autocracy obscure how pharaoh’s power was woven through society: labour for “public” works organized by towns, villages, estates, and households in descending order. “‘Forced’ as opposed to ‘voluntary’ labour may be a modern distinction, not applicable to this flow of men from the provinces.” Pyramid building “perhaps regarded as a ritual act embedded in social custom and tradition.”
+
+### Emerging bureaucracy and temple personnel
+
+- Early pyramid-age temple organization relatively simple: *imy-ra* (overseer), *wabu* (purification priests), *kheri-heb* (lector), *hemu-netjer* (“servants of the god” — high-placed Egyptians but also craftsmen and farmers from the pyramid town).
+- Late 5th–6th dynasty: more complex organization with Abusir Papyri window (Neferirkare, Raneferef, Khentkawes).
+- By late OK, Lehner holds, the king’s immediate family grew more ceremonial; high officials often no longer senior royals — “a true bureaucracy was emerging,” less intimate with the royal household but taking a share of pyramid-temple produce (centrifugal dispersal through the colonies meant to feed the core).
+- Until the 5th dynasty, pyramid towns administered by second-generation princes in charge of the king’s priesthood; later by middle- and lower-level officials enjoying income and tax-exemption of residence and service.
+- Orthogonal Giza mastaba cemeteries and named work-crew graffiti (Khnum-Khuf combinations) as material faces of administrative planning.
+
+Cross-links: [[pyramid-complex]], [[temple-economy]], [[the-state]], [[state-formation]], [[giza]], [[heit-el-ghurab]], [[kahun]], [[kemp-barry-j]].

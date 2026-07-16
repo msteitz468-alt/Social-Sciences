@@ -7,8 +7,8 @@ date_introduced: "19th–20th c. development; Binford utility-index work 1970s�
 supersedes: ["[[unknown]]"]
 epistemic_leverage: "Reads animal-bone assemblages for butchery, transport, diet, and site function — with taphonomic controls separating human from non-human and post-depositional patterning"
 key_limitations: ["Taphonomic equifinality", "MNI/NISP quantification debates", "utility indices are ethnoarchaeologically grounded models not universal laws", "bone–tool association is not self-evident evidence of hunting meals"]
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 5
+last_updated: 2026-07-15
 tags: [method]
 ---
 
@@ -22,7 +22,7 @@ Identifies taxa and skeletal parts; measures frequencies and modifications; mode
 
 ## Procedure
 
-Element identification; quantification (NISP, MNI, etc.); modification recording; comparison to utility models and to natural bone accumulations. In *[[binford-in-pursuit-of-the-past-1983|In Pursuit of the Past]]* (1983), Binford stresses that early-man textbooks treating bones+tools as self-evident meals ([[hunting-hypothesis]]) skip [[taphonomy|taphonomic]] and formation controls (Dart vs Brain cases; waterhole death assemblages).
+Element identification; quantification (NISP, MNI, etc.); modification recording; comparison to utility models and to natural bone accumulations. In *[[binford-bones-1981|Bones]]* (1981) Binford operationalized this most fully: cut-mark form-and-placement classes (skinning / disarticulation / filleting), a bone-density → survival-percentage regression to reconstruct "pristine" composition from ravaged assemblages, and factor analysis of anatomical-part frequencies — applied to distinguish [[hunting-scavenging-debate|man-structured from beast-structured]] assemblages at [[olduvai-gorge|Olduvai]]. In *[[binford-in-pursuit-of-the-past-1983|In Pursuit of the Past]]* (1983), Binford stresses that early-man textbooks treating bones+tools as self-evident meals ([[hunting-hypothesis]]) skip [[taphonomy|taphonomic]] and formation controls (Dart vs Brain cases; waterhole death assemblages).
 
 ## Assumptions and Limitations
 

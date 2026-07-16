@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Morphological and genetic transformation of teosinte into Zea mays under human cultivation, dated by direct AMS on cobs and by genetic estimates"
 contested: yes
 related_concepts: ["[[domestication]]", "[[horticulture]]", "[[sedentism]]", "[[agricultural-revolution]]", "[[eastern-agricultural-complex]]"]
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 5
+last_updated: 2026-07-15
 tags: [concept, archaeology, mesoamerica, domestication]
 ---
 
@@ -111,3 +111,17 @@ Cross-links: [[sites/tehuacan-valley]], [[sites/tlatilco]], [[sources/coe-koontz
 - **South-West and eastern North America.** Bat Cave maize once thought ~5000 BC → AMS no older than ~1000 BC; maize/squash/beans in SW from ~1000 BC with little impact on forager way of life for almost two millennia (Wills: tactical storage/risk reduction, not subsistence transformation). Eastern Woodlands: maize present from at least start of first millennium AD (Icehouse Bottom, Edwin Harness) but not a staple for another thousand years; full triad (maize, beans, squash) from early second millennium AD; 8-row Northern Flint-type enabled cool-latitude spread; health costs unequal by sex (Dickson Mounds; Georgia study via Barker) (attributed).
 - **Tropical lowlands and South America.** “Dooryard horticulture” from early Holocene; Panama/Gatun/Belize/Honduras maize phytoliths/pollen with swidden over 5th–1st millennia BC. Ecuador Vegas maize phytoliths ~6000–5000 BC disputed by Staller & Thompson (~2000 BC; fermentation emphasis); Barker leans maize in region nearer 5000 BC, cultivated but probably not first as food staple — Smalley & Blake (2003) alcoholic-beverage case (attributed). Peruvian coast: maize small-scale/possibly high-status into Chavín while marine foods remained isotopic staples.
 - **Synthesis positions.** Barker: multi-center early Holocene plant manipulation across the Americas, not single highland maize-first model; cultivation long before full sedentism/staple farming; maize as staple often related to availability of high-ranked wild foods and social valuation (status/beer), not intrinsic yield superiority (Barlow 2002 via Barker). Cross-links: [[eastern-agricultural-complex]], [[sedentism]], [[agricultural-origins-causation-debate]], [[barker-graeme]].
+
+## Zapotec Civilization (Marcus & Flannery 1996) — Oaxaca / Tehuacán dates
+
+*(Attributed — [[marcus-joyce|Marcus]] & [[flannery-kent-v|Flannery]], *[[marcus-flannery-zapotec-civilization-1996|Zapotec Civilization]]* 1996, Chs. 5–6; study [[marcus-flannery-zapotec-civilization-study]]. Date-stamp as of 1996 synthesis.)*
+
+**Teosinte ancestry (as they summarize).** Most botanists then held wild ancestor of maize is teosinte (*teocentli*); some focus on *parviglumis* of west-central Mexico; *tga1* locus controls hard fruit case vs exposed kernel; Beadle estimated ~5 major gene differences converting spike to multi-row ear.
+
+**Dating package and AMS caution.** They report 1960s charcoal dates placing bottle gourds by ~7000 BC; squash seeds 7000–6000 BC Oaxaca / 5000–3000 BC Tehuacán; wild runner beans Oaxaca 8000–7000 BC; domestic beans Tehuacán 4000–2000 BC; earliest maize in Coxcatlán phase charcoal-dated 5000–3500 BC. **1989 AMS** on 12 oldest Tehuacán cobs yielded dates ~**1500 years younger** (San Marcos / Coxcatlán into the third millennium BC range). Authors urge **patience**: neither charcoal-association nor AMS set is proven absolutely correct; even if Coxcatlán phase were 3500–2500 BC, context of Late Archaic semi-nomadic cultivators would remain. Oldest known domestic maize **cobs** they cite from Coxcatlán and San Marcos caves: tiny primitive cobs 19–25 mm, 4–8 kernel rows; early yield maybe only **60–80 kg/ha**.
+
+**Oaxaca cave signals.** Teosinte-like pollen in Archaic refuse at [[guila-naquitz|Guilá Naquitz]], Gheo-Shih, and Cueva Blanca (no Archaic carbonized teosinte seeds for Oaxaca). Bottle gourd present by Guilá occupation; early squash/beans as artificial densification.
+
+**Yield threshold and villages.** Citing Anne Kirkby: Zapotec farmers need expected **200–250 kg/ha** shelled maize to justify clearance; early Tehuacán maize (~60–80 kg/ha) less than mesquite pods (160–180 kg/ha); by **1700–1500 BC** cob size implies 200–250 kg/ha — “remarkably close” to permanent village commitment near best farmland in Oaxaca. Natural co-occurrence of teosinte, wild runner beans, and squash in secondary growth may explain later maize–beans–squash intercropping. Early squash domestication claims remain “tentative” given primitive morphology.
+
+Cross-links: [[guila-naquitz]] · [[agricultural-revolution]] · [[formative-stage]] · [[broad-spectrum-revolution]].

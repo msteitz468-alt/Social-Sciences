@@ -13,8 +13,8 @@ cultures: ["[[uruk-culture]]"]
 excavated_by: ["University of Pennsylvania and later expeditions (specialist monographs)"]
 excavation_years: ["[[unknown]]"]
 key_finds: ["major religious center (Enlil); multi-period urban mound complex"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, mesopotamia, near-east]
 ---
 
@@ -75,3 +75,55 @@ against invasion threats (see the Jacobsen primitive-democracy thesis on
 [[city-state]]); (c) genuine political influence wielded by Nippur's priesthood,
 analogous to the priests of Heliopolis in Egypt. Roux states plainly: "these have no
 definite answer."
+
+## Potts (*Mesopotamian Civilization*, 1997) — Additions
+
+*(Attributed — [[potts-mesopotamian-civilization-1997|Potts 1997]] unless noted.)*
+
+### The Ur-Meme family
+
+The family of Ur-Meme at Nippur (Zettler 1984, 1987, cited by Potts) is a documented
+example of a formidable third-millennium lineage, providing three generations of chief
+priesthood of the Inanna temple at Nippur and several governors of the region. Potts
+notes that even in this strong-family case there is little sign, even in the late
+third millennium, of extended kin units resembling formal lineages (finding, Potts
+1997).
+
+### Zettler's Inanna-temple sealing bin
+
+R. Zettler's excavation of a bitumen-lined subsurface storage bin (locus 78) in the
+administrative centre of the Inanna temple at Nippur (Ur III period), believed used
+for storing/recycling clay for tablets, yielded thirty-four cylinder sealings: 3 (9%)
+cord impressions, 15 (44%) "hook" impressions (door sealings), 5 (15%) jar sealings, 1
+(3%) bag sealing, 1 (3%) box sealing, 6 (17%) miscellaneous/unidentified, and 3 (9%)
+unpreserved. Four of the five jar sealings and the box sealing bore the official seal
+of Lugal-engar-du10, "chief administrator of the temple" (Zettler 1987:202, 207, 225,
+cited by Potts). This functional door/jar-sealing breakdown is part of Potts's wider
+argument (via Enrica Fiandra's methodology) for reading cylinder sealings by their
+physical impression type — cord, jar, door, box — rather than only by their carved
+imagery (see [[cylinder-seal]]).
+
+### The babtum/neighbourhood dispute (Stone vs. Postgate) — pointer
+
+N. Yoffee (1988:105-6) proposed that the *babtum* was a "corporate group, perhaps even
+a lineage" that adjudicated local legal cases in the Old Babylonian period. Elizabeth
+Stone (1987) attempted to document neighbourhoods and house-transfer patterns
+organized along kin-group lines at Old Babylonian Nippur specifically, but was herself
+unsure her "neighbourhoods" equated to a *babtum* given their small size (Stone
+1987:6-7). J.N. Postgate (1990:237-238) disputed Stone's framework, arguing the
+"neighborhood" as she conceived it is a social, not administrative, entity that cannot
+be defined by spatial or kin-based limits and so is hard to demonstrate
+archaeologically or historically outside modern scholarly perception ("it is very hard
+to see how historians and archaeologists will be able to demonstrate its existence,"
+Postgate 1990:238). This is an open, unresolved position dispute, presented here as
+such (see [[household]] and [[city-state]] for the wider kinship/urban-organization
+context this feeds).
+
+### Fate under Seleucid and Parthian rule
+
+At Nippur, the latest cuneiform document dates after 317/316 BCE (Zadok 1986:278,
+cited by Potts), with most "late" remains dating to the Parthian era — a fortress was
+built around the Enlil ziggurat in the 1st century CE. This contrasts with the denser
+Seleucid-period continuity documented at [[uruk]] and the variable fates of
+[[ur]] (abandoned soon after Alexander's death) and Larsa (temple rebuilt under
+Antiochus III, destroyed by fire under Antiochus VII) (finding, Potts 1997).

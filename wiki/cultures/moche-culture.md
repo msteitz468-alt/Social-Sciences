@@ -15,8 +15,8 @@ preceded_by: ["[[gallinazo-culture]]", "Salinar", "Cupisnique / Early Horizon no
 succeeded_by: ["Lambayeque-region polities", "[[chimu-culture]]"]
 language_affiliation: "Unknown — do not equate Moche material culture with a single ethnic or linguistic group"
 genetic_signature: "[[unknown]]"
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [culture, classical-antiquity, andes]
 ---
 
@@ -54,6 +54,16 @@ Canal irrigation, adobe corporate architecture, wealth-finance monopoly of fine 
 - Political organization contested: unified state vs coeval northern/southern states vs confederation (Scarre; Moseley leans confederation for north + stronger southern integration).
 - Succeeded after Middle Horizon-era decline by Lambayeque polities and later [[chimu-culture]] in same heartland.
 - Contrasts with [[nazca-culture]] confederacy/maximal-ayllu model (Silverman via Moseley) and with conservative altiplano ideology at Tiwanaku (Staff God continuity vs coastal secular kuraka focus).
+
+## Ceremonial Iconography and Its Burial Corroboration (Moore 2005, attributed)
+
+Moche fineline ceramic painting depicts recurring ritual scenes — the **Sacrifice Ceremony** (also called the Presentation Scene), the **Warrior Narrative**, and the **Burial Ceremony** (Donnan 1978; Donnan and McClelland 1979, 1999) — corroborated as reflecting actual practice by tomb excavations. The 1988 discovery of the [[sipan|Sipán]] tombs (Alva Alva and Donnan 1993) showed the principal individual buried dressed to match the Sacrifice Scene's central figure, and another tomb held an individual dressed as the "Bird Priest"; a person matching a third Sacrifice Scene figure was excavated by Donnan and Jaime Castillo (1994) at San José de Moro. Alva Alva and Donnan (1993:223) concluded the Sipán burials "clearly demonstrated that the Sacrifice Ceremony was a real event, with the principal individuals dressed precisely as they are depicted in art in order to perform their ceremonial roles." The Sacrifice Ceremony is attested across vessels, murals, and burials dating c.e. 300–550 over roughly 500 km of coastline (Donnan and Castillo 1994).
+
+The **Warrior Narrative** (Donnan and McClelland 1999) depicts parades of leashed, bound prisoners, with some vessels showing conquered nobles carried naked in litters by nude servants and presented to a seated lord. A mural at El Brujo Complex, Huaca Cao Viejo (Chicama Valley), shows a chain of larger-than-life naked prisoners yoked by the neck, genitals slashed and bleeding, being led to sacrifice (Franco et al. 1994) — Moore reads this "horrific procession" as an integral part of religious life, possibly associated with the site's "Decapitator Deity" cult figure depicted nearby. The **Burial Ceremony** is portrayed in four consistent phases (Donnan and McClelland 1999): the masked coffin lowered into a shaft tomb; the Assembly of staff-bearing elites; the Conch Shell Exchange before a throned lord; and the Sacrifice Scene (humans pecked to death by vultures) — notably without musical instruments, despite their common appearance elsewhere in Moche fineline art (Donnan, personal communication, cited in Moore 2005).
+
+## Late Moche Walled Compounds (Moore 2005, attributed)
+
+Late Moche sites show a shift toward walled compounds combining elite residence with restricted political authority. At **Galindo** (Moche V, Moche Valley), Garth Bawden (1977, 1982a, 1982b) distinguished large adobe compounds on level ground from smaller cobble-and-cane structures on the terraced slopes of Cerro Galindo, separated by massive walls that Bawden (1982a:179) proposed served to divide "a large inferior class" from wealth, status, and power. Three walled enclosures Bawden termed "cercaduras" are argued to mark a transition in the nature of power from sacred authority (represented by huacas) to secular authority: "The cercadura represents the main seat of administrative activity... with its functionaries, the ruling elite who resided in inclusive dwellings nearby" (Bawden 1982b:302). At **Pampa Grande** (Moche V, Lambayeque Valley), Izumi Shimada (1978, 1994) documented walled workshop/residence compounds enclosed by masonry walls 4–5 m tall with a single entrance, interpreted as multigenerational nonelite household units. Moore's overall dating conclusion is that the concentration of residence and political power within a single walled compound at these sites postdates Moche IV or V, well before the fully developed Lambayeque-period occupation at Pacatnamú.
 
 ## Identity Cautions
 

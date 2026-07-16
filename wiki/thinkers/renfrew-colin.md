@@ -7,15 +7,15 @@ era: [critical-turn, contemporary]
 affiliated_theories: [processual-archaeology, cognitive-archaeology]
 trained_under: ["[[unknown]]"]
 trained: ["[[unknown]]"]
-key_works: ["Before Civilization: The Radiocarbon Revolution and Prehistoric Europe (1973)", "The Emergence of Civilisation (1972)", "Archaeology and Language (1987)", "Archaeology: Theories, Methods, and Practice (with Paul Bahn, 1st ed. 1991; 6th ed. 2012)"]
-key_concepts: [anatolian-hypothesis, cognitive-processual-archaeology, demic-diffusion, peer-polity-interaction, multiplier-effect, mediterranean-polyculture]
+key_works: ["Museum Acquisitions chapter in Brodie et al. 2006", "Before Civilization: The Radiocarbon Revolution and Prehistoric Europe (1973)", "The Emergence of Civilisation (1972)", "Archaeology and Language (1987)", "Archaeology: Theories, Methods, and Practice (with Paul Bahn, 1st ed. 1991; 6th ed. 2012)", "Figuring It Out (2003)", "Prehistory: The Making of the Human Mind (2007)"]
+key_concepts: [anatolian-hypothesis, cognitive-processual-archaeology, demic-diffusion, peer-polity-interaction, multiplier-effect, mediterranean-polyculture, sapient-paradox, material-engagement, speciation-phase, tectonic-phase]
 fieldwork_sites: ["Cycladic Islands, Greece (Saliagos, with J. D. Evans)", "Sitagroi, N. Greece (1968–69, with Marija Gimbutas)", "Phylakopi, Melos (1974–76)"]
-sources_ingested: 11
-last_updated: 2026-07-10
+sources_ingested: 15
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
-Sources: [[renfrew-emergence-of-civilisation-1972]]; [[renfrew-before-civilization-1973]]; [[renfrew-archaeology-and-language-1987]]; [[renfrew-bahn-archaeology-2012]]; [[renfrew-loot-legitimacy-2000]]; [[reich-who-we-are-2018]]; [[bellwood-first-farmers-2005]].
+Sources: [[renfrew-emergence-of-civilisation-1972]]; [[renfrew-before-civilization-1973]]; [[renfrew-archaeology-and-language-1987]]; [[renfrew-bahn-archaeology-2012]]; [[renfrew-loot-legitimacy-2000]]; [[renfrew-figuring-it-out-2003]]; [[reich-who-we-are-2018]]; [[bellwood-first-farmers-2005]].
 
 ## Overview
 
@@ -34,6 +34,8 @@ In *Before Civilization: The Radiocarbon Revolution and Prehistoric Europe* (197
 *[[renfrew-archaeology-and-language-1987|Archaeology and Language]]* is the full program statement of the [[anatolian-hypothesis]]. Renfrew argues that pan-European [[indo-european-languages|Indo-European]] speech cannot be explained by Kurgan (~3500–3000 BC), Corded Ware, or Beaker unities — none covers the whole of Europe — and that the only sufficiently early pan-European process is the **adoption of farming**. He couples first Greek/Cretan farmers (before 6000 BC; calibrated Greece before ~6500 BC) to a **demic wave of advance** (Ammerman–Cavalli-Sforza style): density ~0.1 → ~5–10/km²; lifetime moves of tens of kilometres, not organized migrations; language of early Greek farmers carried and diverged like Latin → Romance. Non-IE historic pockets (Basque, Etruscan) are modeled as denser-mesolithic or partial-acculturation survivors.
 
 Methodologically he insists language ≠ people ≠ race ≠ archaeological culture; attacks circular **linguistic palaeontology**; offers three replacement models (Demography/Subsistence, Élite Dominance, System Collapse); reads Beaker/Corded packages as social/status phenomena more than ethno-linguistic invasions; treats Celtic speech as *in situ* crystallization of early western IE after farming; and de-emphasizes shared "IE society," arguing warrior aristocracies and [[dumezil-georges|Dumézilian]] tripartition cannot be original Neolithic farming heritage. He names [[gimbutas-marija|Marija Gimbutas]] as the foremost recent archaeological rival and acknowledges friendship despite disagreement. Load-bearing caveat in his own words: that first farmers already spoke early IE is "sheer hypothesis." Full positions: [[steppe-hypothesis-debate]], [[farming-spread-europe-debate]].
+
+**Contemporary counter-survey (attributed — Mallory 1989):** [[mallory-j-p|J. P. Mallory]]’s *[[mallory-in-search-of-the-indo-europeans-1989|In Search of the Indo-Europeans]]* (Foreword + Ch.6) treats Renfrew as having “strayed light-years away from whatever consensus the general run of Indo-European studies has managed to achieve,” and delivers the load-bearing verdict: “Anatolia is the wrong place at the wrong time and migrations from it give the wrong results.” Multi-criterion objections (Hattic/Hurrian Anatolia; vocabulary time-depth; Uralic neighbours; Tocharian/Indo-Iranian; Linear A) are recorded on [[anatolian-hypothesis]] and [[steppe-hypothesis-debate]] — Mallory’s positions, not wiki adjudication.
 
 **Later reception (attributed — Reich 2018):** ancient DNA of large-scale steppe-related migration after ~5,000 years ago is held to undermine the premise that no later demographically sufficient IE vector existed; Reich "tips the scales" toward steppe hypotheses while leaving ultimate homeland open. Recorded as Reich's assessment, not wiki-voice defeat of Renfrew.
 
@@ -59,6 +61,20 @@ No formal teacher/student chain is yet documented from primary sources. Rivalry 
 - **Sherratt & E.S. Sherratt 1988:** reject simple farming=IE equations (and simple single-wave Kurgan identity); multi-stage contact axes — position layer on the debate page.
 - **West Mediterranean Neolithic:** Renfrew himself admits incompatibility with strong indigenous-acculturation models (Barker, Lewthwaite) (Renfrew 1987).
 - **Internal:** first-farmers-spoke-IE is his acknowledged sheer hypothesis; Indo-Iranian left dual-hypothesis.
+
+
+
+## Museum Acquisitions (Brodie et al. 2006 ch. 13)
+
+In [[brodie-kersel-luke-tubb-archaeology-cultural-heritage-antiquities-trade-2006]], Renfrew densifies the museum-ethics program of [[renfrew-loot-legitimacy-2000]]:
+
+- **"No documentation, no acquisition"** as the operational rule.
+- **Reputation laundering** via prior exhibition/publication of unprovenanced pieces — "up-market version of money laundering."
+- Case critiques as of 2006: Weary Herakles (Boston MFA); Ortiz/Fleischman/Getty trajectories; Karlsruhe 1976 Cycladic and 2001 Minoan exhibitions as antiquity-laundering via catalogue pedigree; Keros Hoard historiography.
+- Distinguishes **restitution of known thefts** from the harder problem of **post-1970 looted unprovenanced** market material.
+- UK 2003 cultural-objects offence Act and Iraq crisis as policy openings.
+
+Position remains Position A on [[antiquities-market-looting-debate]]; do not merge with [[cuno-james]].
 
 ## Historiography
 
@@ -126,3 +142,40 @@ Johnson also reports that Renfrew argued, in the 1960s–70s, that New Archaeolo
 - **Barker’s critique (position, not wiki-voice defeat):** Groups Renfrew 1987/2003 with Diamond & Bellwood 2003 farming–language colonist readings. Linguistic weaknesses Barker stresses: proto-IE lexicon biased to animals not plants; wheel/vehicle vocabulary post-dating Early Neolithic. Archaeological: first-domesticate chronology does not fit steady spread; transition complexity and variable initial use sit uneasily with SW Asian colonist-farmer theory. Genetic data (Haak et al. 2005; Richards et al. 1996): little genetic input from incomers at the Neolithic (**as of Barker 2006**). Barker’s alternative implication if agricultural-word linkage is valid: speaking proto-IE as part of **being a farmer** wherever foragers engaged Eurasian farming, via exchange networks — see [[anatolian-hypothesis]], [[farming-spread-europe-debate]], [[early-farming-dispersal-hypothesis]].
 
 Source: [[barker-agricultural-revolution-prehistory-2006]].
+
+## From *Figuring It Out* (2003) — cognitive archaeology, art, and material engagement
+
+*(Attributed — [[renfrew-figuring-it-out-2003|Figuring It Out: What Are We? Where Do We Come From?]]* 2003; expanded from six **2001 Rhind Lectures**, Society of Antiquaries of Scotland, title *Art as Archaeology and Archaeology as Art: The construction of the world through material culture*.)*
+
+Renfrew's most explicit **art–archaeology** program statement. He pairs prehistoric archaeology with contemporary visual art as convergent research programs into the human condition, arguing that the artist's interaction with materials has as its "exact counterpart" long-run social **[[material-engagement|engagement with the material world]]** — and that ascribing meaning to material culture is "the same task," "no analogy."
+
+**Load-bearing moves (attributed):**
+
+1. **[[sapient-paradox]]:** if a "human revolution" already installed modern hardware/speech/self-awareness by ~40 kya (Europe; earlier elsewhere), why ~30,000 further years before sedentism, farming, cities, metallurgy, and writing? The single-revolution narrative "can be said to explain very little." Decisive change is in cultural "software" and material relationships, not only DNA.
+2. **[[cognitive-archaeology]] defined:** "the study through the material record of the thought processes and the symbolic developments of our prehistoric forerunners."
+3. **Revision of [[donald-merlin|Merlin Donald]] (1991):** accept episodic → mimetic → mythic → theoretic, but insert **material-symbolic** culture after mythic and before theoretic — triggered by the **sedentary revolution**, building non-written **[[external-symbolic-storage]]** (monuments, valuables, alignments, power symbols) before literacy.
+4. **Constitutive material culture:** symbols of property, value, deity, and prestige **emerge from** making and using things; they do not merely reflect pre-existing ideas (Childe *Man Makes Himself*; Feibleman helix; Cassirer; Searle institutional facts).
+5. **Display and process:** Renaissance "tyranny" of beauty-as-representation; Duchamp readymades and process art (Long, Dion, etc.) liberate archaeological looking; museum taxonomies (Pitt-Rivers) are constructs.
+6. **"Baneful signs":** writing as chief theoretic ESS device and as domination/secrecy (Homer's Bellerophon episode); maps, money, and electronic media extend ESS toward dematerialization.
+7. **Epistemic stance:** realist about the past ("the past really happened") while endorsing active interpretation of material remains; rejects pure relativism.
+
+Chronology and genetics in the book are **as of ~2001–03** (pre-aDNA revolution scale). Primary densification of concepts: [[sapient-paradox]], [[material-engagement]], [[external-symbolic-storage]]; interlocutor page [[donald-merlin]].
+
+## From *Prehistory: The Making of the Human Mind* (2007)
+
+*(Attributed — *[[renfrew-prehistory-making-human-mind-2007|Prehistory]]* 2007; Modern Library short synthesis.)* Pairs a **history of the idea and practice of prehistory** (Part I: from Ussher and Thomsen through Childe to Libby's radiocarbon revolution and Clark's *World Prehistory*) with a **cognitive-archaeology program** (Part II). Load-bearing moves: the [[sapient-paradox]]; **[[speciation-phase]]** vs **[[tectonic-phase]]** periodization; mind as embodied/extended/distributed via [[material-engagement]]; revision of [[donald-merlin|Donald]] with material-symbolic culture and [[external-symbolic-storage]]; Holocene sketches of community, value/money, cosmos appropriation, and writing. Complements *[[renfrew-figuring-it-out-2003|Figuring It Out]]* (2003) without the art dialogue. Genetics and demography **as of ~2007**.
+
+## Whittle 1996 — rejection of early demic IE package (position only)
+
+*(Attributed — [[whittle-alasdair]], *[[whittle-europe-in-the-neolithic-1996|Europe in the Neolithic]]* 1996, Ch. 5 evaluation of IE models; **as of 1996**, pre-aDNA. Position recording — not wiki-voice defeat of Renfrew.)*
+
+Whittle treats the **early Anatolian Neolithic = IE dispersal** alternative (Renfrew-type farming/language package: IE with initial Neolithic colonisation from Anatolia via demic diffusion) as a foil he **rejects**:
+
+- It usefully attacks invasion models but still **equates language with people** via [[demic-diffusion]].
+- Linguistically implausible long-term uniformity over millennia and thousands of km.
+- Non-IE languages in Anatolia (Hattic, Hurrian); Sumerian without IE interaction; IE minority in early Anatolia.
+- Many non-IE words/placenames in later Greek if IE arrived in the 7th millennium BC.
+
+He also finds hybrid models (early agropastoral spread to LBK limits + secondary products assimilation + elite interchange) still assume long static SE European language, and Mesolithic/Palaeolithic central-N European homelands unrealistic to historical linguists. Preferred account (**his**): internal SE European change at differing rates + external factors (wheeled transport, horse-riding, Mesopotamian exchange reorientation) + varied language-spread mechanisms — IE as possible **lingua franca of mobility/exchange**, not mainly mass migration or first-farming demic package. Steppe movement into Ukraine/Moldavia/lower Danube more **opportunistic infill** than primary cause. Kurgan successive-wave transformation likewise rejected (crude mobility dualisms; chronology reverse of expected shockwave).
+
+Keep distinct from Anthony 2007 wagon-vocabulary challenge and Reich 2018 aDNA reweighting of steppe demography (above). Full debate pages: [[anatolian-hypothesis]], [[steppe-hypothesis-debate]], [[farming-spread-europe-debate]], [[demic-diffusion]].

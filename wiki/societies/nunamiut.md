@@ -8,14 +8,14 @@ kinship_system: "as documented in mid-20th-c. Anaktuvuk Pass ethnography — see
 documented_by: ["[[binford-lewis]] ethnoarchaeology (fieldwork 1969–1973); [[binford-nunamiut-ethnoarchaeology-study]]"]
 documentation_dates: "1969–1973 (Binford fieldwork among Anaktuvuk Pass / Tulugak Lake Nunamiut); archival band history to 1949; mid-20th-c. caribou hunting economy"
 endonym_exonym_note: "Nunamiut ('people of the land') — inland North Alaskan Inupiat of the Brooks Range; the historic bands include the Tulugakmiut and Killikmiut. Literature also uses 'Nunamiut Eskimo' (dated ethnological label). Not a synonym for all Inuit/Inupiat."
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [society, north-america]
 ---
 
 # Nunamiut
 
-Inland North Alaskan caribou hunters of the Brooks Range / Anaktuvuk Pass region, documented for archaeological theory through [[binford-lewis|Lewis R. Binford]]'s ethnoarchaeology (fieldwork **1969–1973**; *[[binford-nunamiut-ethnoarchaeology-1978|Nunamiut Ethnoarchaeology]]* 1978, restated in *[[binford-in-pursuit-of-the-past-1983|In Pursuit of the Past]]* 1983). All claims below are dated to that documentation moment — not an ethnographic present. Binford studied them not as a "living Paleolithic" people but as an observable dynamic system for building [[middle-range-theory-archaeology|middle-range]] inference (see the study page [[binford-nunamiut-ethnoarchaeology-study]]).
+Inland North Alaskan caribou hunters of the Brooks Range / Anaktuvuk Pass region, documented for archaeological theory through [[binford-lewis|Lewis R. Binford]]'s ethnoarchaeology (fieldwork **1969–1973**; *[[binford-nunamiut-ethnoarchaeology-1978|Nunamiut Ethnoarchaeology]]* 1978, and the actualistic butchery/marrow-cracking and wolf-den observations in *[[binford-bones-1981|Bones: Ancient Men and Modern Myths]]* 1981, restated in *[[binford-in-pursuit-of-the-past-1983|In Pursuit of the Past]]* 1983). All claims below are dated to that documentation moment — not an ethnographic present. Binford studied them not as a "living Paleolithic" people but as an observable dynamic system for building [[middle-range-theory-archaeology|middle-range]] inference (see the study page [[binford-nunamiut-ethnoarchaeology-study]]).
 
 ## Overview
 

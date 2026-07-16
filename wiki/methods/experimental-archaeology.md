@@ -7,8 +7,8 @@ date_introduced: "mid–late 20th c. as explicit program; earlier craft-replicat
 supersedes: ["[[unknown]]"]
 epistemic_leverage: "Tests technological and behavioral hypotheses by replicating past processes under controlled or actualistic conditions; bridges static remains and dynamic production, use, transport, and formation processes."
 key_limitations: "Modern materials, skill levels, and contexts never fully match past ones; results narrow possibilities rather than prove which technique was used; often less informative than skilled traditional craft practice when the latter still exists."
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [method]
 ---
 
@@ -75,6 +75,10 @@ As reported in Renfrew & Bahn 2012:
 - **Experiment vs living craft.** Preference for ethnoarchaeological/traditional craft observation over novice experiment when living mastery exists (fine metalwork).
 - **Formation vs technology.** Overton-type programs answer preservation and earthwork evolution; replication programs answer manufacture—both fall under “experimental archaeology” but answer different middle-range questions.
 - **Eoliths / geofacts.** Criteria of human agency (bulbs of percussion; multi-sided flaking; retouch) grew partly from experimental and comparative fracture studies (e.g. Pedra Furada natural-breakage baselines)—debates over earliest tools remain context-sensitive.
+
+## Schiffer & Skibo — Strategy 2 and performance matrix (1995 Ch. 22)
+
+*(Attributed — Schiffer and Skibo 1987; *[[schiffer-behavioral-archaeology-first-principles-1995|First Principles]]* Ch. 22.)* Within [[behavioral-archaeology]], experimental archaeology is Strategy 2 (present material culture → general laws), paired with [[ethnoarchaeology]] and distinguished from carefully contrived variable-control experiments vs “living archaeology” observation (Schiffer 1976 / 1995 Ch. 6). Schiffer and Skibo offer a provisional framework for technological change: **recipes for action**, **teaching frameworks**, and **techno-science** as components of technological knowledge; technical choices determine formal properties that affect **performance characteristics** (often with polar effects forcing suboptimal compromises); sources of change include functional field, use-context feedback, and producer pressure. Analytic method: build a **performance matrix** for each artifact (performance characteristics across life-history activities), compare weightings, link compromise patterns via correlates to lifeway/social organization. Their Archaic–Woodland ceramic case (fiber vs mineral temper experiments) concludes Late Archaic designs weighted ease of manufacture and portability; later Woodland designs heating effectiveness and longer use-lives (impact, thermal shock, abrasion) — extending Braun 1983 (attributed). Gaps in modern science of extinct technologies must be filled by experiment (attributed).
 
 ## Related
 

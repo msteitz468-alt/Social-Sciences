@@ -15,8 +15,8 @@ preceded_by: ["[[unknown]]"]
 succeeded_by: ["Zhaobaogou culture (ca. 5200–4500 BCE; not yet a wiki page)"]
 language_affiliation: "[[unknown]] — not equated with a language or people"
 genetic_signature: "[[unknown]] — no aDNA reported by Liu & Chen 2012; isotope dietary data only"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [culture, neolithic, china, east-asia]
 ---
 
@@ -65,6 +65,20 @@ human figurines (predominantly depicting female bodies), jade and stone ornament
 (cicada and bear shapes), and face masks made of shell, stone, and human skullcap,
 found in household deposits and burials.
 
+Shelach-Lavi ([[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]) reports a
+skeletal study of fifty-three individuals from Xinglongwa (Smith 2005) finding a
+relatively low incidence of pathologies typically associated with the agricultural
+transition (iron deficiency, anemia, periosteal reactions, dental cavities), interpreted
+as evidence of low agricultural reliance. **[CONTRADICTION]**: this reading sits in
+tension with the isotope study cited above (Zhang, X. et al. 2003, N=7), which found
+roughly 85 percent C4-plant dietary contribution — a figure consistent with substantial
+millet reliance. The two studies use different evidence bases (skeletal pathology vs.
+bone-collagen isotope ratios) and different, non-overlapping samples; the discrepancy is
+recorded here rather than adjudicated, per the wiki's Contradiction and Replication
+Protocol. Shelach-Lavi also notes Xinglongwa and the related Baiyinchanghan site show
+the region's earliest evidence of ditches enclosing residential areas (0.55–1.00 m deep,
+1.5–2.0 m wide), and that jade ornaments first appear in the archaeological record here.
+
 **Linguistic and genetic.** [[unknown]] — no linguistic or genetic-population
 affiliation is claimed for Xinglongwa in this source; isotope data above is dietary,
 not population-genetic.
@@ -97,7 +111,15 @@ Xinglongwa `succeeded_by` the Zhaobaogou culture (ca. 5200–4500 BCE) and then
 [[hongshan-culture]] in the Liao River system — these successions are temporal and
 material, not claims of ethnic or linguistic continuity. Xinglongwa is `analogous_to`
 [[cishan-culture]], [[houli-culture]], and [[peiligang-culture]] as broad-spectrum
-early-Neolithic north China economies with only minor food production.
+early-Neolithic north China economies with only minor food production. Xinglongwa
+`contrasts_with` [[yangshao-culture]] on Shelach's (2006) comparative reading, cited by
+Shelach-Lavi (2015): Xinglongwa/Zhaobaogou societies of the northeast are characterized
+as "individualized" — row-house layout without shared visibility, internal per-house
+storage, and stronger religious/ritual integration expressed through temples and
+priests — versus the "group-oriented" pattern Shelach attributes to Yellow/Wei River
+Yangshao villages (common-facing house layouts, external communal storage, no temple
+structures). This is recorded as an attributed comparative interpretation, not a wiki-
+voice social-organization fact.
 
 ## Identity Cautions
 

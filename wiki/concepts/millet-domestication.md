@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Transformation of wild foxtail/broomcorn grasses into domestic Setaria italica and Panicum miliaceum under cultivation, tracked by grain morphology, phytolith/starch residue, and grain-size/proportion shifts over time"
 contested: yes
 related_concepts: ["[[domestication]]", "[[rice-domestication]]", "[[animal-domestication]]", "[[jiahu]]", "[[yangshao-culture]]", "[[early-farming-dispersal-hypothesis]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept, archaeology, east-asia, domestication, china]
 ---
 
@@ -63,3 +63,36 @@ Source: [[liu-chen-archaeology-of-china-2012]].
 - **South Asia indigenous millets.** Barker (via Fuller): native small millets gradually cultivated in Harappan-era kharif systems; Deccan Southern Neolithic takes browntop millet, bristley foxtail, mungbean, horsegram into cultivation piecemeal **independent of Harappan** (Fuller et al.); African millets incorporated piecemeal later, not a single Dilmun-trade package (attributed).
 - **Africa.** Traditional Sahel staples include pearl/bulrush millet and finger millet; botanical-geography models place millet domestication through the Sahel. Dhar Tichitt and Karkarichinkat domestic cereals; Birimi (N Ghana) domestic-size pearl millet AMS ~1500 BC; Oued Chebi ~1000 BC pottery impressions of wild + cultivated pearl millet show gradual commitment (attributed). Morphological sorghum domestication can lag millennia of basket-harvest of morphologically wild staple (Nabta Playa c.6000 BC wild sorghum) (attributed).
 - **Identity caution.** Millet assemblages ≠ people/language/genes. Cross-links: [[rice-domestication]], [[yangshao-culture]], [[bantu-expansion]].
+
+## Shelach-Lavi densification — *The Archaeology of Early China* (2015)
+
+*(Attributed — [[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]].)*
+
+Shelach-Lavi confirms the two-species framework (foxtail millet, *Setaria italica*, and
+broomcorn millet, *Panicum miliaceum*) and gives the earliest broomcorn millet grains as
+recovered from **Xinglonggou**, the lower strata at **Dadiwan**, **Yuezhuang**, and
+**Peiligang** sites (Barton et al. 2009; Liu and Chen 2012; Zhao 2004) — consistent with the
+Liu & Chen chronology above. A contested **phytolith study of Cishan storage-pit earth (Lu et
+al. 2009)** suggests broomcorn millet was cultivated there from as early as ~8000 BCE, with
+foxtail millet appearing in small quantities after ~6500 BCE, but Shelach-Lavi flags this
+dating's accuracy as still debated "(as of Shelach-Lavi 2015)" — the same Lu et al. (2009)
+Cishan dispute the wiki already records via Liu & Chen (2012), now cross-confirmed as
+unresolved by a second, independent synthesis. Cishan's ~88 excavated grain-layer storage
+pits (of 474 total) are estimated by Shelach-Lavi to have held roughly 70,000 kg of millet
+(Tong 1984) — a somewhat higher figure than the ~50,000 kg reported above, both drawing on
+the same underlying, contested evidence base.
+
+On dietary uptake, isotopic (δ13C, δ15N) analysis of Dadiwan human/animal bone collagen
+indicates an early-stage diet based primarily on wild resources with little millet
+consumption (Barton et al. 2009) "(as of Shelach-Lavi 2015)"; by the Yangshao period,
+isotopic analysis of human bone from Jiangzhai, Shijia, and Dadiwan level 2 shows millet
+comprised up to 80% of the human diet — corroborating, at a slightly different figure, the
+75–85%-at-Jiangzhai-and-Shijia finding attributed to Pechenkina et al. (2005) above.
+
+Shelach-Lavi also records a genuine scholarly dispute over the relationship between millet-
+and rice-based agricultural origins that this page's north/south framing should be read
+alongside: David Cohen (1998) argues for a unified interaction sphere in which millet- and
+rice-based systems evolved together across the Yellow and Yangzi basins through shared
+climatic trends and exchange, against a "multicentered" model (Bettinger et al. 2010;
+Shelach 2000) positing fragmented, multiple local trajectories rather than one or two major
+centers of origin — see [[agricultural-origins-causation-debate]].

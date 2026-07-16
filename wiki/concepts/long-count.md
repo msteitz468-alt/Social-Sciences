@@ -8,8 +8,8 @@ emic_or_etic: migrated
 operationalized_as: "Absolute day count from mythic zero date 4 Ajaw 8 Kumk'u; vigesimal place notation with zero; Initial Series on Classic monuments (as of Coe & Houston 2015)"
 contested: yes
 related_concepts: ["[[calendar-round]]", "[[maya-hieroglyphic-writing]]", "[[kuhul-ajaw]]", "[[tzolkin]]", "[[haab]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -58,3 +58,13 @@ All claims in this subsection attributed to [[sharer-traxler-ancient-maya-2006|S
 **Historiography — Morley’s barometer.** [[morley-sylvanus-g|Morley]]’s stelae catalog treated Long Count frequency as a barometer of the “Old Empire” (peak sites at 9.18.0.0.0 = AD 790; last dates shifted from 889 to 909). Sharer & Traxler argue end of Long Count monuments is only one symptom of multi-century decline of divine kings, not demise of civilization ([[el-mirador]] rose and fell without Long Count). Royal texts do **not** narrate Terminal Classic change; declining monument quantity and workmanship index diminished support for [[kuhul-ajaw|k’uhul ajaw]].
 
 **Accuracy caveats.** They reject claims that Maya fixed the tropical year more accurately than the Gregorian calendar (no evidence); they do credit accurate lunation measurement (~29.53 days) and Dresden eclipse tables. Venus (*Noh Ek’* / *Xux Ek’*) synodic period ~584 days; five Venus revolutions = eight calendar years = 2,920 days as auspicious coincidence.
+
+## Note from Schele & Freidel 1990
+
+*(Attributed — [[schele-freidel-forest-of-kings-1990|Schele & Freidel 1990]]; short load-bearing claims only.)*
+
+**Structure (their Ch. 2 exposition):** Long Count as era-based count of whole days from day zero (beginning of current, fourth cosmos); units *kin* / *uinic* / *tun* (360) / *katun* / *baktun* / *pictun* / *calabtun*…; bar-and-dot with zero; place notation highest at top. Zero day **13.0.0.0.0 4 Ahau 8 Cumku** = **11 August 3114 B.C.** in their correlation. Simultaneous cycles (tzolkin, haab, Calendar Round, Nine Lords of the Night, moon age, Venus) give each day its “personality in time.” Whole-day succession without leap-year fraction adjustment.
+
+**2012 is not a creation reboot:** From Coba and other inscriptions, 13.0.0.0.0 of 23 Dec 2012 falls on **4 Ahau 3 Kankin**, not creation day 4 Ahau 8 Cumku; ancient Maya did not treat that rollover as a new creation; higher cycles stayed set at thirteen during Classic history. Pacal of Palenque projected the eightieth Calendar Round anniversary of his accession to **15 October 4772** (after first *pictun* end) — evidence of history beyond the 13-baktun turn.
+
+**Period-endings as reiteration:** What happened on transitional days was not mere remembrance but actual reiteration of essential events that always happen on those days; history affects the structure of time. Kings actively mark timescape by linking acts to ancestral/godly/Olmec precedents. **Katun** celebration is framed as fundamentally Maya (dependent on Long Count), not a Teotihuacan import (contra Coggins/Proskouriakoff scenarios they reject in notes). Twin-pyramid complexes at Tikal tied to katun/quarter-ending festival economy (Jones 1969 cited).

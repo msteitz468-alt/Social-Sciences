@@ -10,8 +10,8 @@ trained: [[unknown]]
 key_works: ["Nature paper (1925) describing the Taung skull", "osteodontokeratic-culture hypothesis (Makapansgat)"]
 key_concepts: ["osteodontokeratic culture (bone/tooth/horn tool kit)"]
 fieldwork_sites: ["Taung, South Africa (skull received 1924, published 1925)", "Makapansgat, South Africa"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, biological-anthropology]
 ---
 
@@ -31,7 +31,7 @@ No teacher/student genealogy given in *Origins*; [[unknown]].
 
 ## Critiques and Reappraisals
 
-The osteodontokeratic-culture hypothesis was substantially refuted by Bob Brain's later taphonomic work at Makapansgat and elsewhere, showing the "tool" assemblage largely reflected natural bone accumulation and carnivore activity rather than hominid tool manufacture. Dart's "killer ape" reading of early hominid behavior is likewise contested — see [[human-aggression-killer-ape-debate]] for the fuller dispute, including Leakey & Lewin's counter-position.
+The [[osteodontokeratic-culture]] hypothesis was substantially refuted by [[brain-ck|Bob Brain]]'s later taphonomic work at [[makapansgat|Makapansgat]] and elsewhere, showing the "tool" assemblage largely reflected natural bone accumulation and carnivore activity rather than hominid tool manufacture. [[binford-lewis|Binford]]'s *[[binford-bones-1981|Bones: Ancient Men and Modern Myths]]* (1981) independently treated the osteodontokeratic claim as the historical paradigm of reading behavior off a bone assemblage without independent warrant, arguing the "crack-and-twist" fractures and pointed splinters Dart cited are routinely produced by carnivore gnawing (see [[taphonomy]], [[hunting-scavenging-debate]]). Dart's "killer ape" reading of early hominid behavior is likewise contested — see [[human-aggression-killer-ape-debate]] for the fuller dispute, including Leakey & Lewin's counter-position.
 
 ## Historiography
 

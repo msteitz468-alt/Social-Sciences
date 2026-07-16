@@ -8,7 +8,7 @@ emic_or_etic: migrated
 operationalized_as: "Closed inter-island circuit of ceremonial exchange of two classes of vaygu'a (mwali armshells vs soulava necklaces) under permanent partnership and magical/ritual regulation"
 contested: no
 related_concepts: ["[[vaygua]]", "[[gift-exchange]]", "[[gimwali]]", "[[reciprocal-obligation]]", "[[imponderabilia-of-actual-life]]", "[[total-prestation]]", "[[potlatch]]", "[[hau]]"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-15
 tags: [concept]
 ---
@@ -42,6 +42,7 @@ Partnership rules (*karayta'u*); geographic direction of valuables; ownership as
 - Classic teaching case for [[participant-observation]] ethnography of a complex institution
 - Society base: [[trobriand-islanders]] and Massim partners
 - Study: [[malinowski-argonauts-study]]
+- **Archaeological analogy (attributed — [[cunliffe-barry|Barry Cunliffe]], *[[cunliffe-facing-the-ocean-2001|Facing the Ocean]]* 2001):** Cunliffe explicitly likens the maritime exchange cycles carrying Bronze Age Channel Islands/Breton stone axes (e.g. Jersey's Pinacle dolerite production, largely exported to Guernsey and Sark) to the kula ring, and separately frames Atlantic prehistoric axe/ornament exchange generally as analogous to Malinowski's Trobriand case. This is a flagged ethnographic analogy used to interpret a prehistoric material pattern — Cunliffe does not assert the Atlantic system *was* a kula ring, only that it shows a structurally similar cyclical-partnership logic; see [[prestige-goods-economy]] for the fuller Atlantic material.
 
 ## Critiques and Limitations
 

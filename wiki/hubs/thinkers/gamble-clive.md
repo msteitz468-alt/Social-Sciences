@@ -5,12 +5,12 @@ date_birth: 1951
 date_death: living
 date_precision: "year"
 disciplines: ["archaeology", "biological-anthropology", "anthropology"]
-key_works: ["The Palaeolithic Settlement of Europe (1986)", "[[stringer-gamble-in-search-of-the-neanderthals-1993|In Search of the Neanderthals (1993, with Chris Stringer)]]", "[[gamble-timewalkers-1994|Timewalkers (1994)]]", "[[gamble-palaeolithic-societies-europe-1999|The Palaeolithic Societies of Europe (1999)]]"]
-key_concepts: ["[[intimate-effective-extended-networks]]", "[[palaeolithic-rhythms]]", "[[social-landscape-palaeolithic]]", "[[release-from-proximity]]", "[[exaptation]]", "[[global-colonization]]", "[[behavioral-modernity]]"]
+key_works: ["The Palaeolithic Settlement of Europe (1986)", "[[stringer-gamble-in-search-of-the-neanderthals-1993|In Search of the Neanderthals (1993, with Chris Stringer)]]", "[[gamble-timewalkers-1994|Timewalkers (1994)]]", "[[gamble-palaeolithic-societies-europe-1999|The Palaeolithic Societies of Europe (1999)]]", "[[gamble-settling-the-earth-2013|Settling the Earth (2013)]]"]
+key_concepts: ["[[intimate-effective-extended-networks]]", "[[palaeolithic-rhythms]]", "[[social-landscape-palaeolithic]]", "[[release-from-proximity]]", "[[exaptation]]", "[[global-colonization]]", "[[behavioral-modernity]]", "[[terrae]]", "[[going-beyond]]", "[[kinshipping]]", "[[enchainment]]", "[[deep-human-history]]"]
 fieldwork_sites: ["European Palaeolithic comparative program (ESF earliest occupation network co-coordinator, 1990s)", "synthesis-centered career rather than single-site long excavation program in ingested sources"]
-primary_sources: ["gamble-palaeolithic-societies-europe-1999 (1999, ingested)", "gamble-timewalkers-1994 (1994, ingested)", "stringer-gamble-in-search-of-the-neanderthals-1993 (1993, ingested)"]
-key_sources: ["gamble-palaeolithic-societies-europe-1999", "gamble-timewalkers-1994", "stringer-gamble-in-search-of-the-neanderthals-1993"]
-last_updated: 2026-07-10
+primary_sources: ["gamble-palaeolithic-societies-europe-1999 (1999, ingested)", "gamble-timewalkers-1994 (1994, ingested)", "stringer-gamble-in-search-of-the-neanderthals-1993 (1993, ingested)", "gamble-settling-the-earth-2013 (2013, ingested)"]
+key_sources: ["gamble-palaeolithic-societies-europe-1999", "gamble-timewalkers-1994", "stringer-gamble-in-search-of-the-neanderthals-1993", "gamble-settling-the-earth-2013"]
+last_updated: 2026-07-15
 tags: [hub, thinker-analysis]
 ---
 
@@ -18,7 +18,7 @@ tags: [hub, thinker-analysis]
 
 > Thinkers Hub deep analysis. Summary: [[gamble-clive]]. Depth here only. All program and interpretive claims are **attributed voice** unless brute bibliographic fact.
 
-**Analysis standard:** works-timeline · concepts matrix · verbatim primary quotation · empirical base examined critically · counterfactual genealogy · nine canonical sections. Ingested primaries as of 2026-07-10: *[[stringer-gamble-in-search-of-the-neanderthals-1993|In Search of the Neanderthals]]* (1993, with Stringer), *[[gamble-timewalkers-1994|Timewalkers]]* (1994), *[[gamble-palaeolithic-societies-europe-1999|The Palaeolithic Societies of Europe]]* (1999). *Settlement* (1986) is the replaced precursor, known through the 1999 book's self-positioning.
+**Analysis standard:** works-timeline · concepts matrix · verbatim primary quotation · empirical base examined critically · counterfactual genealogy · nine canonical sections. Ingested primaries as of 2026-07-15: *[[stringer-gamble-in-search-of-the-neanderthals-1993|In Search of the Neanderthals]]* (1993, with Stringer), *[[gamble-timewalkers-1994|Timewalkers]]* (1994), *[[gamble-palaeolithic-societies-europe-1999|The Palaeolithic Societies of Europe]]* (1999), *[[gamble-settling-the-earth-2013|Settling the Earth]]* (2013). *Settlement* (1986) is the replaced precursor, known through the 1999 book's self-positioning.
 
 ## Formation and Training
 
@@ -66,6 +66,11 @@ Gamble does not present himself as a post-processualist convert, nor as a pure N
 | *In Search of the Neanderthals* (with Stringer) | 1993 | Dual anatomy–archaeology RAO narrative; Ancients vs Moderns behavioral package | Major public/academic RAO vehicle; pre-aDNA snapshot |
 | *Timewalkers* | 1994 | Colonization as research object; adapt vs exapt; purpose without progress | Critical-turn world-prehistory reorientation |
 | *The Palaeolithic Societies of Europe* | 1999 | Individual networks + rhythms; Childe curtain pulled; social landscape after ~33 ka | Program statement for social Palaeolithic archaeology in Europe |
+| *Settling the Earth* | 2013 | Six [[terrae|Terrae]]; imagination / [[going-beyond]] / [[kinshipping]] / [[enchainment|FACE]]; deep history + climate + social brain + genetic veneers | Mature global synthesis densifying *Timewalkers*; as-of-2013 horizon |
+
+### Phase 4 — Deep-history global settlement (2010s)
+
+*Settling the Earth* (2013) returns to the world scale of *Timewalkers* with a denser multi-archive apparatus. Preferring **[[deep-human-history]]** to "prehistory," Gamble periodizes ~10 Ma of settlement into six **Terrae**, argues that **encephalisation and global settlement are out of step**, and locates the settlement breakthrough in imaginative social technologies — living apart yet staying in touch — rather than in brain size or tool modes alone (attributed). Quaternary variability ([[variability-selection]]), the tectonic trail, bio-tidal shelves, Dunbar’s [[social-brain-hypothesis]], and archaeogenetic phylogeography (as **veneers** that can colour deep time) supply the drivers and cautions (attributed, chs 2–3). Terra 3 is split into southern ocean-going expansion (Sahul) and northern mammoth-steppe / Beringia tracks; Terra 4 is domestication-led seascape settlement; Terra 5 reframes European expansion as **reunion** with an already-settled earth (attributed, chs 6–9). Dedication to Binford marks the long dialogue with middle-range and settlement archaeology.
 
 ## Conceptual Contributions and Their Mechanics
 
@@ -78,6 +83,12 @@ Gamble does not present himself as a post-processualist convert, nor as a pure N
 | Exaptation (colonization) | *Timewalkers* 1994 | Gould & Vrba → range expansion | [[exaptation]], [[global-colonization]] |
 | Ancients / Pioneers / Moderns | *Timewalkers* | Behavioral-range phases not species taxa | Narrative device on [[global-colonization]] / origins debate |
 | Stomach-led / brain-dead foil | *Societies* 1999 close | Names two reductionisms social archaeology must avoid | Historiographic slogan on [[gamble-clive]] / source page |
+| Terrae | *Settling* 2013 | Six settlement worlds by evidence distribution, not skull/tool type alone | [[terrae]] |
+| Going beyond | *Settling* 2013 | Imagination / release from proximity at global scale | [[going-beyond]] |
+| Kinshipping | *Settling* 2013 | Non-genetic kinship enabling free movement between groups | [[kinshipping]] |
+| FACE / enchainment | *Settling* 2013 | Fragmentation–Accumulation–Consumption–Enchainment social practices | [[enchainment]] |
+| Instruments vs containers | *Settling* 2013 | Two material-metaphor sets for technology | [[instruments-and-containers]] |
+| Deep human history | *Settling* 2013 (after Smail et al.) | Prefer history over prehistory for the whole past | [[deep-human-history]] |
 
 ### Verbatim load-bearing passages (analysis)
 

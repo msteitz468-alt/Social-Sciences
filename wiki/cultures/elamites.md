@@ -15,8 +15,8 @@ preceded_by: ["[[unknown]]"]
 succeeded_by: ["[[achaemenid-empire]]"]
 language_affiliation: "Elamite (a language isolate, not related to Akkadian or to the later Iranian/Indo-European speech of the Persians); Akkadian used administratively before ca. 1400 BCE"
 genetic_signature: "[[unknown]]"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [culture, bronze-age, iron-age, iran-plateau, near-east]
 ---
 
@@ -193,7 +193,17 @@ twentieth-century French excavation of Susa recovered Mesopotamian royal monumen
 1158 BCE looting campaign documented above — a case where excavation findspot and
 textual/historical reconstruction depend on each other.
 
-**Collection coverage note.** As of this ingest, coverage of Elam rests on a single
-authoritative survey source (Van De Mieroop 2016), which itself flags the primary-source
-base as thin and archive-poor; this page should be treated as a scaffold pending
-dedicated Elamite-studies or Iranian-archaeology sources.
+**Collection coverage note.** As of this densification, coverage of Elam rests primarily
+on Van De Mieroop 2016 (Middle Elamite scaffold) plus Nissen 1988 on Susiana and
+Akkad–Elam interaction in the late fourth–third millennia; dedicated Elamite-studies or
+Iranian-archaeology sources remain outstanding.
+
+## Nissen densification (1988) — Susiana / proto-Elamite and Akkad–Elam
+
+*(Attributed — [[nissen-hans-j|Hans J. Nissen]], *[[nissen-early-history-ancient-near-east-1988|The Early History of the Ancient Near East, 9000–2000 B.C.]]* (Chicago 1988). Nissen writes “Susiana” / “proto-Elamite” for the early phases; later “Elam” appears in Akkad-period campaigns. Four-way non-identity: Susiana material horizon ≠ Elamite language ≠ genetic population ≠ later Middle Elamite polity.)*
+
+**Late Uruk package in Susiana.** Physically similar alluvial plain (larger dry-farmable share; never marshland except south); continuous densification in Middle–Late Susiana with complex settlement systems/centers while Babylonia was still water-logged and isolated — both parts of a greater unity until the next phase. Unlike Babylonia’s slow Ubaid painted → Uruk unpainted wheel-pottery transition, Susiana **jumps** from richly painted Late Susiana to unpainted Uruk-type wheel pottery with no transition — Nissen suggests the pottery developed in Babylonia and was taken over. Susiana also takes almost all other Babylonian developments: mass bevel-rimmed bowls, tally stones, sealed balls, both cylinder-seal groups, numerical tablets, and writing — same materials/technique/elements but **different symbols and most probably a different language** (undeciphered proto-Elamite). Seal themes are wider (siege/conquest, building erection). Commonality more in economic/control organization (including ration containers); cultural traditions largely untouched (as of Nissen 1988).
+
+**Jamdet Nasr–ED I divergence.** Strong mutuality only during Late Uruk. From Jamdet Nasr, Susiana abandons Babylonian-pattern ration distribution (no BRB successors / no mass-produced pottery types) while Babylonia continues mass production. Proto-Elamite writing remains static then ceases while Babylonian writing advances; no plano-convex brick. By ED I-time Susiana returns toward pre–Late Uruk-style economic/cultural life; painted pottery art returns. Nissen explains the collapse of the adopted package by a rising organizational threshold: as Babylonian forms specialized to alluvial scale, structures lost meaning for Susiana conditions — exemplifying Early Period linkage of interconnected area size to organizational complexity. Tepe Malyan (later Anshan) shows early close similarity to Susa, suggesting possible political affiliations (as of Nissen 1988).
+
+**ED and Akkad–Elam.** Susiana settlement decline from the Uruk period reached ED II with few inhabited places besides Susa; late ED Babylonian influence rises again; by late ED III and especially the Akkad Dynasty, writing is retaken from Babylonia — language and writing both (Sumerian then Akkadian texts at Susa), with some Elamite texts showing local language could be transcribed. Akkad-era Elam/Susa as permanent foreign possession with Susa ruler as servant of Akkad may also describe late ED. Under Akkad: Rimush records a victory over Elam; Manishtushu a victory over Anshan; Naram-Sin early campaigns against Elam and Magan. End of Ur III: Elamite invasion conquers Ur and abducts the last ruler — one factor among multiple (as of Nissen 1988). Language of administration ≠ ethnic identity of population.

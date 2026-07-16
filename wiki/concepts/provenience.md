@@ -7,8 +7,8 @@ disciplines: [archaeology]
 emic_or_etic: etic
 operationalized_as: "horizontal and vertical position of a find within its matrix — typically recorded as coordinates, grid unit, spit/level, or single-context assignment"
 contested: no
-related_concepts: ["[[archaeological-context]]", "[[artifact]]", "[[archaeological-feature]]", "[[ecofact]]", "[[archaeological-site]]", "[[formation-processes]]", "[[heritage-management]]"]
-sources_ingested: 1
+related_concepts: ["[[archaeological-context]]", "[[artifact]]", "[[archaeological-feature]]", "[[ecofact]]", "[[archaeological-site]]", "[[formation-processes]]", "[[heritage-management]]", "[[unprovenanced-antiquities]]", "[[illicit-antiquities-trade]]"]
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [concept]
 ---
@@ -72,3 +72,14 @@ Primary context = material as originally deposited; secondary context = shifted 
 ## Primary Attribution
 
 Densified principally from [[renfrew-bahn-archaeology-2012|Renfrew & Bahn 2012]], Chapters 2–3 and 14–15 (claims R2-010–R2-015; R3 recording/survey provenience; R9-063–R9-065, R9-075).
+
+
+## Provenience vs Provenance in the Antiquities Trade (attributed — Brodie 2006)
+
+[[brodie-neil|Neil Brodie]]'s introduction to [[brodie-kersel-luke-tubb-archaeology-cultural-heritage-antiquities-trade-2006|Brodie et al. 2006]] sharpens the museum/market vocabulary:
+
+- **Provenience** = documented **find spot** (archaeological location).
+- **Provenance** = documented **ownership / collecting history**.
+
+Most market antiquities lack both; trading histories across jurisdictions become so obscure that stolen or illegally exported pieces are hard to identify definitively by the time they reach European and North American salesrooms. "Unprovenanced" in trade usage collapses the dual gap — see [[unprovenanced-antiquities]]. The knowledge harm of the [[illicit-antiquities-trade]] attaches primarily to loss of **provenience** (context), even when a later ownership provenance is fabricated or laundered through auction catalogues.
+

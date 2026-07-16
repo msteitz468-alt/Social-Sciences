@@ -13,8 +13,8 @@ cultures: ["[[uruk-culture]]"]
 excavated_by: ["Leonard Woolley and later expeditions"]
 excavation_years: ["[[unknown]]"]
 key_finds: ["Royal Cemetery; ziggurat; multi-period urban core"]
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [site, mesopotamia, near-east]
 ---
 
@@ -99,3 +99,89 @@ Ur's Ur III and Old Babylonian **administrative archives** are, more broadly, on
 **The bala system's province-by-province collapse.** Consistent with the Roux narrative of Ur III's fall above, Van De Mieroop's account (via the geographic contraction traceable in the dynasty's own administrative archive) supports reading the collapse as a province-by-province unravelling of the bala tax-and-service system rather than a single sudden event — the same evidentiary pattern Postgate uses tablet-date distributions to trace (see above).
 
 See [[the-state]] for the fuller Van De Mieroop treatment of Ur III's structure and the totalitarian-model correction, and [[amorites]] for the "Who were the Amorites?" debate Van De Mieroop records as open.
+
+## Potts (*Mesopotamian Civilization*, 1997) — Additions
+
+*(Attributed — [[potts-mesopotamian-civilization-1997|Potts 1997]] unless noted.)*
+
+### Gold's "explosive appearance" in the Royal Cemetery
+
+Gold (Sum. *ku-sig17*, Akk. *hurasu*) is sporadic in southern Mesopotamia before its
+"explosive appearance" in the Royal Cemetery at Ur (ED IIIa) — only a Ubaid-period
+gold-wire fragment at Ur and a Late Uruk goat amulet at [[uruk]] predate it (Moorey
+1985:76-77; Maxwell-Hyslop 1971:1, cited by Potts). Goldworking techniques evident at
+Ur include gilding, chasing, inlaying, casting, filigree, cloisonné, hard soldering,
+and granulation (Alexander 1976); Ur III/Old Babylonian texts document controlled
+goldsmith workshop operations in which gold loss during purification/lamination was
+kept to a minuscule 0.27% (0.02-0.025 g per shekel). A twenty-year-old scholarly
+consensus favoring the Pactolus (Lydia/Croesus) region as gold source, based on
+platiniridium inclusions, has been overturned since platiniridium occurs in gold from
+multiple sources (Maxwell-Hyslop 1977); cuneiform sources cite gold from Hahhum,
+Mardaman, Meluhha, Harali, and Egypt (finding, Potts 1997). See
+[[ur-royal-cemetery-debate]] for the fuller interpretive debate over the Royal
+Cemetery's status.
+
+### Drinking tubes and Royal Cemetery banquet practice
+
+Drinking tubes found in the Royal Cemetery of Ur, together with banquet scenes in
+glyptic (Selz 1983), suggest wine or beer was drunk communally from large mixing vats
+via tubes, akin to the Greek *krater*, rather than from individual cups — a practice
+that changed only with the Achaemenid-period introduction of Greek/Mediterranean-style
+wine-sets (attested at Deve Höyük, Qalat al-Bahrain) (attributed, Potts 1997).
+
+### Ivory quantities at Ur
+
+Substantial ivory quantities are attested at Ur III Ur: UET III 1498 records 21+ minas
+(~10.5 kg) of ivory; UET III 751 records a 38-mina (19 kg) tusk; a further UET III 1498
+entry records 40 minas (20 kg) used by a woodworker for chair-making. D. Collon
+concluded the ivory always derived from the Indian elephant (*Elephas maximus*) and
+that elephants themselves were imported only intermittently (Collon 1977:222; finding,
+Potts 1997). This Ur III ivory trade is part of the longer Mesopotamia-South Asia
+exchange network treated on [[meluhha]] and [[mesopotamian-trade]], and long predates
+the Seleucid-era war-elephant corps documented on [[seleucia-on-the-tigris]].
+
+### Intramural infant burials under house chapels
+
+At Ur in the Isin-Larsa period, Leonard Woolley found unusually high concentrations of
+infant burials beneath domestic "house chapels" — up to 32 infant graves under a
+single chapel — part of a wider pattern of intramural, sub-floor house burial that
+J.N. Postgate (1990:234) observed was common at Ur and Sippar but absent from
+excavated areas of [[nippur]]; Postgate suggested the difference may have been
+pragmatic (urban families lacking rural land) rather than symbolic (attributed,
+Postgate 1990, cited by Potts 1997; see [[nippur]] for the comparative absence).
+
+### Woolley's terracotta sarcophagus and the Greek seal-impression study collection
+
+A terracotta sarcophagus excavated by Woolley at Ur, beneath an "Achaemenid"-period
+house, contained roughly 200 clay sealing impressions of Greek, Egyptian, Babylonian,
+Assyrian, and Persian origin, plus a dozen Greek coin impressions, dated by an
+Athenian coin (c. 450-440 BCE). E. Porada interpreted this find as a **study
+collection** assembled by a non-Greek seal-cutter producing pseudo-Greek work,
+evidence that Greek glyptic influence reached Mesopotamia well before Alexander's
+331 BCE entry into Babylon (Porada 1960:228-34, cited by Potts 1997). See
+[[seleucia-on-the-tigris]] for the wider pre-Alexander Greek-Mesopotamian contact
+Potts situates this find within.
+
+### Seleucid-era abandonment and the Euphrates's shift
+
+Ur appears to have been abandoned not long after Alexander's death: the latest
+securely dated finds are two tablets from the reigns of Alexander and Philip
+Arrhidaeus (323-316 BCE). Woolley and J. Oelsner attribute Ur's desertion to a shift
+in the Euphrates's course away from the city (Oelsner 1986:75-77, cited by Potts
+1997) — contrast the variable continuity documented at [[uruk]] (which persisted
+under the Seleucids into the Parthian period) and at [[babylon]] over the same
+period.
+
+### Human grave goods and the Royal Cemetery's retainer burials
+
+Potts argues Mesopotamian burial was, from the Ubaid period onward, overwhelmingly
+primary and individual, with little evidence of true collective burial. He holds the
+Royal Graves at Ur — containing retainers of a high-status individual — do not
+qualify as "collective burial" on this reading, since their primary purpose was
+interment of a single individual, with the additional persons functioning as "human
+grave goods" (attributed, Potts's own interpretive position; cf. Steinkeller's 1990/1980
+analysis of a comparable pre-Sargonic Lagash burial, DP 75, connecting extensive grave
+goods to human-sacrifice practice, and H. Schutzinger's reading of the up-to-eighty
+individuals in a single Royal Grave as themselves treated as grave goods rather than
+persons receiving proper funerary rites). See [[ur-royal-cemetery-debate]] for the
+fuller treatment, including Roux's own more cautious framing above.

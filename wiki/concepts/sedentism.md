@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Year-round or multi-season occupation of the same residential locus; inferred from architecture, midden depth, storage, seasonality indicators — thresholds contested"
 contested: yes
 related_concepts: ["[[domestication]]", "[[neolithic]]", "[[hunter-gatherer]]", "[[agricultural-revolution]]", "[[complex-society]]", "[[natufian-culture]]", "[[commensalism-archaeology]]", "[[epipaleolithic]]", "[[domus-complex]]"]
-sources_ingested: 6
-last_updated: 2026-07-10
+sources_ingested: 7
+last_updated: 2026-07-15
 tags: [concept, archaeology]
 ---
 
@@ -99,3 +99,8 @@ Source: [[scott-against-the-grain-2017]].
 - **SW Asia sequence (as Barker reports).** Ohalo II semi-sedentary (hut floors remade thrice; no storage → seasonal reuse). Early Natufian larger sites (1,000–2,000 m²), houses, multi-seasonal occupation (commensal rodents/birds at Hayonim); some more-or-less permanent. Late Natufian YD stress reshapes settlement. PPNA many major settlements assumed permanent; PPNB rectangular houses with storage/hearths **within** house → household as primary production/consumption unit (contrast Natufian circular shelters at reoccupied Abu Hureyra) (attributed).
 - **Americas pattern.** Cultivation long before full sedentism/staple farming in most American regions; villages/Formative commitment lag millennia behind first plant manipulation. Exceptions: eastern Woodlands mixed foraging–farming supports socially differentiated river-valley settlement; marine-rich coasts support populous complex foragers without farming; SW maize for almost two millennia with little impact on forager mobility (Wills tactical storage) (attributed).
 - **Central Mexico risk model.** Barker counters Hayden competitive-feasting origin for Oaxaca agriculture: early Holocene highlands were small-scale mobile societies; his alternative is small-scale cultivation as risk reduction with long Natufian-like phase becoming increasingly sedentary (attributed position). Cross-links: [[natufian-culture]], [[maize-domestication]], [[neolithic-revolution]], [[barker-graeme]].
+
+## Renfrew *Figuring It Out* (2003) — sedentary revolution
+
+*(Attributed — Renfrew 2003.)* Renfrew calls the **sedentary revolution** the first great transition in the *experience* of *Homo sapiens* (not earlier hominin speciation): houses, deity images, shrines, tombs/monuments, valuables, commodities and exchange — **mostly without writing**. It opens the **material-symbolic** phase that answers the [[sapient-paradox]] via [[material-engagement]]. He notes sedentism can precede farming. Cross-links: [[neolithic-revolution]], [[catalhoyuk]].
+

@@ -76,3 +76,7 @@ All claims attributed to Adams 1981 (or Jacobsen foreword / Wright appendix as n
 
 *Heartland of Cities* is the empirical settlement-pattern summit of Adams's Mesopotamian career: multi-millennial maps of sites and watercourses that underwrite both the "land of cities" narrative and a carefully argued **anti-hydraulic-despotism** politics of irrigation. Where *[[adams-evolution-urban-society-1966|Evolution of Urban Society]]* (1966) compared institutional sequences across the Old and New Worlds, Heartland stays inside Babylonia and lets survey scale do the theoretical work — hierarchy shapes, configuration shifts, and the loose coupling of canals and kings. The wiki gains a landmark [[adams-heartland-of-cities-study|study]] page, a densified [[archaeological-survey]] exemplar, Mesopotamian site anchors ([[uruk]], [[nippur]], [[eridu]], [[ur]]), and a major POSITION cluster on the [[hydraulic-hypothesis-debate]]. Numerical demography and ceramic periods remain frozen at the 1981 horizon.
 
+
+## Related
+
+Diyala predecessor now ingested: [[adams-land-behind-baghdad-1965|Land Behind Baghdad (1965)]] (study [[adams-land-behind-baghdad-study]]) — the survey-method charter *Heartland* scaled to the central floodplain and whose Diyala canal stages it reinterprets.

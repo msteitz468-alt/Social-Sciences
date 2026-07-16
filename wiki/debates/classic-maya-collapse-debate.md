@@ -3,10 +3,10 @@ title: "Classic Maya Collapse Debate"
 dispute_type: empirical
 disciplines: [archaeology]
 era: [postwar-expansion, critical-turn, contemporary]
-positions: ["multi-causal consensus — warfare + overpopulation/environment + drought (Coe & Houston 2015 field synthesis)", "Sharer & Traxler 2006 multi-causal scenario (overpopulation → regional warfare → drought; century-plus process)", "warfare-primary / Petexbatun intensification", "drought-primary (Cariaco/lake cores via S&T 2006; geochemical bursts via C&H 2015)", "Demarest elite-competition model", "population scale dispute (Johnston doubling vs Webster light; S&T tens of millions hinterland estimate)", "transformation not collapse (northern florescence; people continuity)", "Putun/foreign invasion and trade-route models", "Thompson social revolution / peasant revolt (older)", "rejected single-cause catastrophe (quake/hurricane/epidemic) per S&T 2006", "k’atun fatalism (Puleston/Rice) as position"]
-key_texts: ["[[coe-houston-the-maya-2015]]", "[[sharer-traxler-ancient-maya-2006]]", "Demarest synthesis (via C&H / S&T)", "Inomata Aguateca/Petexbatun (via C&H / S&T)", "Lentz Tikal timber study (via C&H)", "Gill and lake-sediment / Cariaco drought literature (via C&H and S&T Ch.9)"]
+positions: ["multi-causal consensus — warfare + overpopulation/environment + drought (Coe & Houston 2015 field synthesis)", "Sharer & Traxler 2006 multi-causal scenario (overpopulation → regional warfare → drought; century-plus process)", "Martin & Grube 2008 multi-causal overshoot (population peak + deforestation/soil exhaustion + mid-9th-c. drought as exacerbator + intensified conflict under fragmented overkingship)", "warfare-primary / Petexbatun intensification", "drought-primary (Cariaco/lake cores via S&T 2006; geochemical bursts via C&H 2015)", "Demarest elite-competition model", "population scale dispute (Johnston doubling vs Webster light; S&T tens of millions hinterland estimate)", "transformation not collapse (northern florescence; people continuity)", "Putun/foreign invasion and trade-route models", "Thompson social revolution / peasant revolt (older)", "rejected single-cause catastrophe (quake/hurricane/epidemic) per S&T 2006", "k’atun fatalism (Puleston/Rice) as position"]
+key_texts: ["[[coe-houston-the-maya-2015]]", "[[sharer-traxler-ancient-maya-2006]]", "[[martin-grube-chronicle-maya-kings-2008]]", "[[schele-freidel-forest-of-kings-1990]]", "Demarest synthesis (via C&H / S&T)", "Inomata Aguateca/Petexbatun (via C&H / S&T)", "Lentz Tikal timber study (via C&H)", "Gill and lake-sediment / Cariaco drought literature (via C&H and S&T Ch.9)"]
 resolution_status: open
-last_updated: 2026-07-10
+last_updated: 2026-07-15
 tags: [debate]
 ---
 
@@ -95,6 +95,43 @@ Fine Orange ceramics, Ceibal’s Wat'ul (AD 849), Cacaxtla Maya-Mexican art, and
 
 Southwest and interior heartland hit hardest and first; highlands little population decline; Belize mixed; Yucatan severe in places but rebounds; Peten lakes an exception within the heartland. Northern zenith ([[chichen-itza]] to ca. 1050–1100) then multi-factor downfall before [[mayapan]].
 
-## Curator's note (2026-07-10)
+## Densification from Martin & Grube 2008
 
-No adjudication. Coe & Houston 2015 and Sharer & Traxler 2006 are convergent mid-2000s/mid-2010s multi-causal survey syntheses with different depths. Later remote-sensing demography and paleoclimate series (post-2015 literature) remain outstanding. Do not promote “apocalypse” rhetoric or single-cause drought/warfare to wiki voice.
+*(Position recording — [[martin-grube-chronicle-maya-kings-2008|Martin & Grube 2008]] Epilogue “Fall of the Sacred Kings.” Complements C&H and S&T multi-causal frames; does not adjudicate.)*
+
+### What ends vs what continues (M&G 2008)
+
+- **Ends:** public stone writing; sacred kingship institutions; dense Central Area occupation “where millions once thronged” (authors’ phrasing — population figures contested elsewhere).
+- **Continues:** books (codices); northern and highland polities; trade; Maya peoples (authors cite ~6 million living Maya and cultural revival in their close).
+
+### Multi-causal overshoot package (authors’ synthesis)
+
+1. **Demographic-ecological strain:** peak populations large enough to stress the environment; lake-bed sediments point to widespread deforestation and eroded/exhausted soils.
+2. **Drought as exacerbator:** prolonged drought peaking mid-9th century **exacerbates** problems at a critical time — not presented as sole cause.
+3. **Political amplifiers:** intensified conflict under fragmented authority; failed [[overkingship|hegemonies]] after the great rivalries (Tikal–Calakmul, regional overkings) could no longer stabilize the landscape.
+4. **Institutional signature of collapse:** cessation of the monument-and-inscription complex that defined Classic holy lordship — collapse of the *public* sacred-kingship apparatus, not disappearance of people.
+
+Regional illustrations in the chronicle (Petexbatun annihilation after 761; Copan valley deforestation and unfinished Altar L of Ukit Took' 822; Quirigua last date 810; Tonina last Long Count 909; Tikal Stela 11 869) feed the same multi-causal story at site scale. Aligns with C&H/S&T multi-causal consensus while stressing **overkingship failure** as the political arm of the crisis.
+
+## Densification from Schele & Freidel 1990
+
+*(Position recording — [[schele-freidel-forest-of-kings-1990|Schele & Freidel 1990]] Ch. 8–10 and Epilogue. Early narrative multi-causal package; does not adjudicate.)*
+
+### What ends (authors’ framing)
+
+Public stone history (“tree-stones”); portals into the Otherworld housed in temple-mountains; the literate apparatus of divine *ahau* kingship in the southern lowlands. People and northern/highland traditions continue.
+
+### Causal strands they keep in play (no single winner)
+
+1. **Demographic and health stress** — peak populations, skeletal stress signals as they read them.
+2. **Agricultural/ecological limits** — raised fields and foothill farming; forest clearance and erosion especially in their Copan vignette (Yax-Pac crisis; Fash lineage competition noted in apparatus).
+3. **Aristocracy and endemic warfare** — captive-taking and star/ax wars solved elite status competition poorly at scale; no garrisons/empire to stabilize losers.
+4. **Crisis of faith** — king’s mandate fails when prosperity and rain do not return; collapse of belief in the royal pathway as much as of buildings.
+5. **No simple foreign-usurper model** for the southern fall; Putun/Mexican explanations treated skeptically relative to internal political-theological failure (Chichen’s “Mexican” style read as Maya cosmopolitan choice, not pure invasion — POSITION 1990).
+6. **Gradual, century-scale** process with regional asynchrony (Dos Pilas/Petexbatun early; Seibal late monuments; northern florescence concurrent).
+
+**Relation to later positions:** Prefigures C&H / S&T / M&G multi-causal consensus (ecology + warfare + institutional failure of sacred kingship) without later paleoclimate drought series or LIDAR demography. Copan ecological vignette and “obsolete divine-dynasty politics” thesis are **attributed 1990 interpretations**, not wiki-voice findings.
+
+## Curator's note (2026-07-10; updated 2026-07-15)
+
+No adjudication. Coe & Houston 2015, Sharer & Traxler 2006, Martin & Grube 2008, and Schele & Freidel 1990 are multi-causal frames at different dates and genres (handbooks, dynastic chronicle, popular narrative). Later remote-sensing demography and paleoclimate series (post-2008/2015 literature) remain outstanding. Do not promote “apocalypse” rhetoric or single-cause drought/warfare to wiki voice.

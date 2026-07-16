@@ -13,8 +13,8 @@ cultures: ["[[shang-civilization|Shang]]", "[[erligang-culture]]"]
 excavated_by: ["Chinese archaeological teams (An Chin-huai and others)"]
 excavation_years: "from 1950"
 key_finds: ["rammed-earth (hang-t'u) city wall (~7 km perimeter)", "bronze foundries", "bone and pottery workshops", "Erh-li-kang phase sequence", "~100 sacrificial human skullcaps", "three bronze hoards (>500 kg)", "oracle-bone-inscribed animal-bone fragments"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, bronze-age, china, east-asia]
 ---
 
@@ -111,3 +111,27 @@ Links: [[shang-civilization]] · [[anyang]] · [[lungshan-culture]] · [[chang-k
 [[chinese-civilization-origins-debate]] · [[chang-archaeology-ancient-china-1963]] ·
 [[erligang-culture]] · [[panlongcheng]] · [[erlitou-culture]] ·
 [[liu-chen-archaeology-of-china-2012]]
+
+## Chang — *Shang Civilization* (1980) densification
+
+*(Attributed — [[chang-shang-civilization-1980|Chang 1980]], Ch.5.)*
+
+Chang treats **Cheng-chou as the type site of the Erh-li-kang phase** of Shang civilization and as
+the best window on a Shang capital **before** the An-yang move. Hallmarks in his synthesis:
+Loehr Styles I–III bronze vessels; hang-t'u city wall; northeast "palace" sector; specialized
+workshops (bronze, pottery, bone) distributed around a ~25 km² specialist urban network; graves
+with second-level ledges and waist-pit dogs (Pai-chia-chuang and related loci). He summarizes
+radiocarbon dates then available (e.g. ZK-177/178) as placing Erh-li-kang roughly in the mid–late
+second millennium BCE "(as of Chang 1980)" — provisional even then.
+
+**Capital-name debate.** T'ang Lan's identification with Ao vs Tsou Heng's with Po is recorded;
+Chang's "two firm points" separate archaeological phase from dynastic capital-name certainty.
+**People's Park** remains are correlated with dynastic Hsiao-t'un / An-yang–period occupation.
+Writing at Cheng-chou is limited (potters' marks; debated inscribed bone), underscoring An-yang's
+unique epigraphic density.
+
+Chang's larger claim: the Cheng-chou capital form is **ancestral** to the An-yang royal capital
+pattern, and the center of gravity of Shang studies shifted from An-yang to Cheng-chou once the
+longer sequence was known — a historiographic observation as well as a site claim.
+
+Links: [[erligang-culture]] · [[anyang]] · [[shang-civilization]] · [[chang-shang-civilization-1980]]

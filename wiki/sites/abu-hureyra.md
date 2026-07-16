@@ -13,8 +13,8 @@ cultures: ["[[natufian-culture]]"]
 excavated_by: ["[[moore-andrew|Andrew Moore]] (1972 salvage)", "specialist analyses by [[hillman-gordon|Gordon Hillman]], Peter Rowley-Conwy, Tony Legge"]
 excavation_years: "1972 (two-season salvage before dam flooding)"
 key_finds: ["soft-stone-cut subterranean circular rooms (~3 m)", "grinding stones and lunates", "≥157 plant species (Hillman flotation)", "early-summer gazelle age profile (Rowley-Conwy & Legge)", "domestic-form rye grains 11,000–10,500 BCE (Hillman, as of Mithen 2003)", "Neolithic mud-brick houses; later ovicaprid herding; Cappadocian obsidian"]
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [site, natufian, neolithic, near-east, epipalaeolithic]
 ---
 
@@ -74,3 +74,7 @@ Known primarily through Moore’s 1972 salvage and subsequent specialist publica
 - **Early Natufian permanent settlement without agriculture.** Clay/timber shelters; 150+ plant species; systematic wild einkorn/barley + ~20 other foods; mass spring gazelle kills (Legge & Rowley-Conwy) = hunting not herding; occupation early spring–late autumn; possibly year-round via storage — “one of the most convincing as well as earliest examples… of a permanent settlement sustained without agriculture” (Hillman 2000; Hillman et al. 1997 via Barker) (attributed). Intensive flotation produced far more non-cereal seeds than older grain-cache excavations (method point).
 - **PPNB reoccupation.** Rectangular houses vs Natufian circular shelters; mixed farming: emmer, einkorn, barley, legumes + sheep/goats; diet heavily roughly ground cereals (Molleson); Pottery Neolithic softer cereal foods (less dental abrasion) (attributed).
 - **Analytical use.** Barker’s flagship case that **sedentism ≠ farming** — permanent settlement without agriculture attested here. Cross-links: [[natufian-culture]], [[sedentism]], [[animal-domestication]], [[jericho]], [[barker-graeme]].
+
+## Matthews densification (2003)
+
+*(Attributed — [[matthews-archaeology-mesopotamia-2003|Matthews 2003]]; dates given as BC without an explicit calibration statement in this source — flag as unspecified cal/uncal status.)* Matthews frames Abu Hureyra I (Epipalaeolithic, c. 10,750–9,150 BC) as exploiting only wild einkorn and rye, with admixture of wild-plant seeds read as evidence of year-round rather than seasonal occupation; he presents Younger Dryas aridity as having forced a shift to deliberate cultivation, "securely dated to c. 10,000 BC," which he calls the earliest claimed evidence for farming anywhere. Abu Hureyra II (Neolithic, c. 8,400–6,000 BC) shows five fully domesticated cereals (rye, einkorn, emmer, bread wheat, barley) plus three pulses and a marked decline in wild-plant diversity, across an 11.5-hectare settlement occupied roughly 2.5 millennia. Theya Molleson's skeletal study of ~100 Neolithic individuals (Molleson 2000) attributes repeated grain-grinding to specific skeletal alterations found predominantly on female skeletons, read as evidence of a gendered division of labour (women processing food, men hunting/toolmaking) that intensified under Neolithic conditions — a single-study, attributed claim. Legge and Rowley-Conwy's (2000) faunal sequence finds a "remarkably rapid" shift, occurring in about 50 years, from gazelle-dominated hunting to overwhelming sheep/goat/cattle dependence within Abu Hureyra II.

@@ -10,8 +10,8 @@ core_claims: ["Hunting was the 'master' behavioral adaptation that shaped human 
 developed_from: ["Darwinian human evolution", "primatology / physical anthropology"]
 competes_with: ["'Woman the Gatherer' feminist critique (Slocum 1975; Tanner & Zihlman)", "[[multilinear-evolution|Steward's causal-factors pluralism]]", "[[cooking-hypothesis]]"]
 status: "contested"
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: ["theory", "biological-anthropology"]
 ---
 
@@ -93,7 +93,7 @@ its chief vulnerability.
   "a primary diagnostic characteristic of social types" or "even a single causal factor."
 - **Aggression.** Turnbull and Schneider challenged the aggression claims on the floor of the
   symposium, citing Mbuti non-aggression (see [[man-the-hunter-woman-the-gatherer-debate]]).
-- **Archaeological self-evidence critique (Binford 1983).** In *[[binford-in-pursuit-of-the-past-1983|In Pursuit of the Past]]*, [[binford-lewis|Binford]] attacks textbook practice that treats early-man sites with animal bones + stone tools as self-evident evidence of hunting meals ([[hunting-hypothesis]] as archaeological inference). He recounts challenges to Dart’s osteodontokeratic / bloodthirsty-killer reading and multi-agent [[taphonomy|taphonomic]] alternatives (Brain; waterhole actualism). This is a middle-range critique of how hunting claims are *warranted from the record*, not primarily a biological rival to Washburn–Lancaster.
+- **Archaeological self-evidence critique (Binford 1981, 1983).** In *[[binford-bones-1981|Bones: Ancient Men and Modern Myths]]* (1981) — restated for a general audience in *[[binford-in-pursuit-of-the-past-1983|In Pursuit of the Past]]* — [[binford-lewis|Binford]] attacks the practice that treats early-man sites with animal bones + stone tools as self-evident evidence of hunting meals ([[hunting-hypothesis]] as archaeological inference). From [[actualistic-studies|actualistic]] wolf-den and [[nunamiut|Nunamiut]] control data he argued the [[olduvai-gorge|Olduvai]] fauna records marrow-**scavenging**, not hunting, and deflated [[dart-raymond|Dart]]'s [[osteodontokeratic-culture|osteodontokeratic]] / killer-ape reading via multi-agent [[taphonomy]] (Brain; waterhole actualism). This is a middle-range critique of how hunting claims are *warranted from the record*, not primarily a biological rival to Washburn–Lancaster — see [[hunting-scavenging-debate]].
 - **Food-sharing as rival prime mover ([[food-sharing-hypothesis]]).** [[isaac-glynn|Glynn Isaac]]'s home-base/food-sharing model, popularized in [[leakey-richard|Leakey]] & Lewin's *[[leakey-lewin-origins-1977|Origins]]* (1977), grants hunting "an important part" but ranks it *secondary* to the sharing of gathered and hunted food at a home base as the human-making adaptation (attributed, Leakey & Lewin 1977). Origins explicitly rejects the hunting-derived "innate aggression" reading — see [[human-aggression-killer-ape-debate]].
 
 ## Critiques and Responses

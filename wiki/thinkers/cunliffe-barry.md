@@ -7,11 +7,12 @@ era: [contemporary]
 affiliated_theories: ["[[culture-historical-archaeology]]", "[[processual-archaeology]]"]
 trained_under: ["[[unknown]]"]
 trained: ["[[unknown]]"]
-key_works: ["The Ancient Celts (1997)", "Europe Between the Oceans (2008)", "Iron Age Communities in Britain (multiple eds.)", "Facing the Ocean (2001)"]
-key_concepts: ["[[oppida]]", "[[celticity-debate]]", "[[celtic-migrations]]"]
+key_works: ["The Ancient Celts (1997)", "Britain Begins (2013)", "Europe Between the Oceans (2008)", "Iron Age Communities in Britain (multiple eds.)", "Facing the Ocean (2001)"]
+key_concepts: ["[[oppida]]", "[[celticity-debate]]", "[[celtic-migrations]]", "[[britain-invasion-continuity-debate]]", "[[hillfort]]"]
 fieldwork_sites: ["Danebury (Hampshire)", "Le Yaudet (Brittany)", "Hengistbury Head"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
+thinker_hub: "[[hubs/thinkers/cunliffe-barry|Thinkers Hub biography]]"
 tags: [thinker, archaeology]
 ---
 
@@ -19,9 +20,9 @@ tags: [thinker, archaeology]
 
 ## Overview
 
-Barry Cunliffe (b. 1939) is a British archaeologist and long-time synthesizer of European later prehistory, especially the Atlantic façade and the Iron Age societies conventionally labelled “Celtic.” *[[cunliffe-ancient-celts-1997|The Ancient Celts]]* (Oxford University Press, 1997; preface January 1996) is his pan-European statement on classical ethnonyms, Celtic languages, and Hallstatt–La Tène archaeology. Other major syntheses (*Facing the Ocean*, *Europe Between the Oceans*, multi-edition *Iron Age Communities in Britain*) remain outstanding for this wiki. Fieldwork bases include Danebury (Hampshire), Hengistbury Head, and Le Yaudet (Brittany).
+Barry Cunliffe (b. 1939) is a British archaeologist and long-time synthesizer of European later prehistory, especially the Atlantic façade and the Iron Age societies conventionally labelled “Celtic.” *[[cunliffe-ancient-celts-1997|The Ancient Celts]]* (Oxford University Press, 1997; preface January 1996) is his pan-European statement on classical ethnonyms, Celtic languages, and Hallstatt–La Tène archaeology. *[[cunliffe-britain-begins-2013|Britain Begins]]* (OUP 2013) is his long-run narrative of the peoples of Britain and Ireland from post-glacial recolonization through the Northmen and Norman elite takeover. *[[cunliffe-facing-the-ocean-2001|Facing the Ocean]]* (OUP 2001) is his Braudelian synthesis of the Atlantic façade, 8000 BCE–1500 CE. Other major syntheses (*Europe Between the Oceans*, multi-edition *Iron Age Communities in Britain*) remain outstanding for this wiki. Fieldwork bases include [[danebury|Danebury]] (Hampshire), Hengistbury Head, and Le Yaudet (Brittany).
 
-This page densifies his intellectual positions **as of and from** *The Ancient Celts* (1997). Later books may revise emphases; do not silently project 2001–2008 Atlantic/oceanic arguments backward onto 1997 without those sources.
+This page densifies positions **from ingested works only**: *The Ancient Celts* (1997), *Facing the Ocean* (2001), and *Britain Begins* (2013). Do not silently project *Europe Between the Oceans* (2008) arguments onto any of them without that source.
 
 ## Contributions
 
@@ -65,6 +66,17 @@ Ch. 1–2 of *The Ancient Celts* is a contribution to the history of the discipl
 
 `trained_under` / `trained` remain `[[unknown]]` until biographical sources are ingested.
 
+### *Britain Begins* (2013): island deep history and selective mobility
+
+*[[cunliffe-britain-begins-2013|Britain Begins]]* reframes the same multi-thread method on a British–Irish theatre from Younger Dryas recolonization to c. AD 1100:
+
+- **Historiography of origins as content:** Ch.1 treats classical mystery-islands, Brutus/Geoffrey, Camden, Lhuyd/Pezron Celtic models, antiquarian Druids, and scientific prehistory as successive origin myths that structure what archaeologists later “find.”
+- **Structural geography:** Continental Shelf, Gulf Stream, [[doggerland]], and islandization dates as the stage for all later connectivity (Ch.2).
+- **Selective mobility thesis:** human inquisitiveness/acquisitiveness plus demographic/environmental pressure; period-specific magnitude of migration vs exchange vs indigenous development — staged across Neolithic package, Beaker phases, Celtic language without mass La Tène folk wave, Gundlingen-as-Thames development (not Hallstatt invasion), Anglo-Saxon Adventus, and Viking land-takes ([[britain-invasion-continuity-debate]]).
+- **Atlantic and Channel systems:** materials mobilization 3000–1500 BCE; prestige and warrior economies; Irish Sea Hiberno-Norse commercial node vs Danish eastern land-take ([[viking-age-britain]], [[prestige-goods-economy]]).
+- **Identity forged under stress:** Viking “other” helps produce English identity under Alfred; Scandinavian stimuli consolidate indigenous polities (R9-026, R9-029).
+- **Genetics as of 2013:** modern DNA and early aDNA/isotopes discussed with explicit limits (craniology historiography rejected as racial science but noted as historical practice; Icelandic mtDNA; Shetland/Western Isles Scandinavian ancestry percentages). Later aDNA must not be retrofitted as if present in the 2013 text.
+
 ## Critiques and Reappraisals
 
 - **Celticity sceptics** push further than Cunliffe’s middle path: Chapman 1992 (which Cunliffe himself flags as most challenging) and later critics treat “Celt” as nearly empty for archaeology (R5-048; [[celticity-debate]] Position B). Cunliffe anticipates and rejects extremity while sharing the caution against equating pots, speech, and peoples.
@@ -76,6 +88,6 @@ Ch. 1–2 of *The Ancient Celts* is a contribution to the history of the discipl
 
 ## Historiography
 
-*The Ancient Celts* is the first Cunliffe work fully ingested here; it is itself a historiography of Celtic visions (classical → romantic → archaeological → economic). Further works (*Facing the Ocean* 2001; *Europe Between the Oceans* 2008; Iron Age Britain editions) should densify Atlantic and long-run European arguments and may revise Celtic-language-spread models. No hub biography yet — selection criteria for Thinkers Hub not met solely on one synthesis without richer primary-archive densification.
+*The Ancient Celts* (1997), *Facing the Ocean* (2001), and *Britain Begins* (2013) are the Cunliffe works fully ingested here. *Ancient Celts* is a historiography of Celtic visions (classical → romantic → archaeological → economic); *Facing the Ocean* is the Braudelian Atlantic-façade program statement and the origin of "Atlantic Celtic"; *Britain Begins* is the long-run British–Irish narrative built on the same multi-evidence hygiene. *Europe Between the Oceans* (2008) and the Iron Age Britain editions remain outstanding. With the third programme volume ingested, the deep intellectual biography now lives at [[hubs/thinkers/cunliffe-barry|the Thinkers Hub]].
 
-Source: [[cunliffe-ancient-celts-1997]]. Network nodes: [[celts]], [[celtic-languages]], [[celticity-debate]], [[hallstatt-culture]], [[la-tene-culture]], [[celtiberian-culture]], [[celtic-migrations]], [[oppida]], [[celtic-art]], [[druids]].
+Sources: [[cunliffe-ancient-celts-1997]], [[cunliffe-facing-the-ocean-2001]], [[cunliffe-britain-begins-2013]]. Network nodes: [[celts]], [[celtic-languages]], [[celticity-debate]], [[hallstatt-culture]], [[la-tene-culture]], [[celtiberian-culture]], [[celtic-migrations]], [[oppida]], [[celtic-art]], [[druids]].

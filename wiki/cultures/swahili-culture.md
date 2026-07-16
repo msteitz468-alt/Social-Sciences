@@ -15,8 +15,8 @@ preceded_by: ["Early Iron-Working coastal farming communities", "Triangular Inci
 succeeded_by: ["ongoing Swahili societies; Portuguese-period reconfiguration"]
 language_affiliation: ["Swahili (Bantu) — associated, not identical to archaeological assemblage"]
 genetic_signature: "[[unknown]] as of Connah 2016 synthesis"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [culture, east-africa, swahili, indian-ocean]
 ---
 
@@ -103,3 +103,36 @@ Connah’s Ch. 8 conclusion: treating large coastal settlements as Islamic tradi
 | African origins + Indian Ocean incorporation | Local process first; trade/Islam intensify | **Endorsed** |
 | Islam as primary urban cause | Islam inaugurates towns/states | Rejected (usually arrives after initial complexity) |
 | Entrepôt without interior | Coast-clinging alien bases | Rejected (interaction zone including interior) |
+
+## Oxford Handbook densification (Mitchell & Lane 2013)
+
+*(Attributed — Adria LaViolette in [[mitchell-lane-oxford-handbook-african-archaeology-2013]] Ch. 62; supporting Croucher Ch. 70; Radimilahy Mahilaka; Pikirayi gold articulation. **as of 2013 handbook — indigenous African origins consensus.**)*
+
+### Definition, timing, geography
+
+In the first millennium AD a distinctive mixed farming and fishing society engaged with Indian Ocean trade emerged along East Africa’s coast, drawing population and practices from the near African interior; as it matured it combined littoral exploitation, Islamic practice, cosmopolitan urban polities (stone and earth-and-thatch), shared material culture with regional distinctions, and merchant linkages into interior and Indian Ocean networks—constituting the Swahili world over ~1,500 years (LaViolette).
+
+**When to apply ‘Swahili’ (contested):** many take **Tana Tradition/Triangular Incised Ware** spread from AD 500–600 as origins; others only after ~AD 1000. LaViolette uses Swahili for material from the **6th century** onward. Linguistic studies place Swahili language emergence from Northeast Coast Bantu in the **10th–11th centuries**, coinciding with much town building—**language ≠ ceramic package ≠ people** (four-way non-identity).
+
+**Geography:** ~2,500 km N–S from Mogadishu through Kenya and Tanzania to Sofala (Mozambique), including Lamu Archipelago, Pemba, Unguja, Mafia, Comoros, northwestern Madagascar—western edge of the Indian Ocean monsoonal wind system.
+
+### Indigenous African origins consensus (as of 2013)
+
+Despite grey areas in origins, **broad consensus holds Swahili society an indigenous African development**. Before the 1980s most scholarship cast Swahili as originating from economically motivated Arab and/or Persian colonization plus intermarriage; 19th-century Omani migration was wrongly projected backward. Archaeology and linguistics recast African origins while acknowledging immigration and selective foreign influences (LaViolette citing Nurse and Spear 1985; Allen 1993; Horton 1996; critiquing Kirkman 1964). **Reflexivity:** racialized British/Arab colonial assumptions shaped earlier narratives; 20th-c. politics of foreign-origin claims (WaShirazi).
+
+### Material signature densification
+
+- **Tana/TIW ceramics** dominate coastal sites 6th–10th c. **and** many inland sites—coastal expansion still linked strongly to interior societies; replaced by more localized styles after ~AD 1000.
+- **Islam:** archaeological evidence from mid-8th c. timber mosque at **Shanga** (Lamu), base of centuries-long series of mosques of increasing size and formality (Horton 1996).
+- **Enslavement (9th c.):** export of thousands of enslaved people from the interior via coastal centres (Unguja, Pemba) to Iraq drainage projects; **868 Zanj Revolt** weakened Basra caliphate and led to downturn in Arab interest in Swahili-source slaves; direct archaeological evidence for earliest captives trade scarce (LaViolette; Kusimba 2004).
+- **Coral stone architecture** as elite medium; ethnohistoric ‘customs houses’; not all coral-house settlements had direct international merchant ties.
+- **Exports:** gold (via Zimbabwe Plateau trade), ivory, iron, animal products, mangrove poles. Colonial foreign-dominance model rejected for **Swahili agency** (LaViolette).
+- **Portuguese 1498:** gradual transformations; Fort Jesus 1593; Omani period; coast never politically unified before early-19th-c. Omani Sultanate capital shift Muscat→Zanzibar.
+
+### Pre-Swahili and new research directions
+
+*Periplus* Rhapta (1st c. AD) not yet identified; Chami links to 1st-c. Rufiji Delta Roman beads—pre-Swahili coastal trade with Mediterranean/Indian Ocean in Early Iron Age (LaViolette). Post-1980s African-origins paradigm shifted research to subsistence, Islam, functional urbanism, coast–interior interactions, identity/gender, elite–commoner relations, environment (Horton & Mudida fauna; Walshaw millet-to-rice; Fleisher feasting; Pollard Kilwa maritime architecture; rural earthen village surveys; caravan corridors; 19th-c. plantations and *watoro*).
+
+**Mahilaka** (Madagascar, 70 ha, 10th–15th c.) parallels Swahili cities (Radimilahy). Ingombe Ilede conduit Copperbelt–Zimbabwe–Indian Ocean (de Maret). Ottoman naval raids to Mombasa 1585/1588–9 destabilized Portuguese control (el-Zein).
+
+*Source: [[mitchell-lane-oxford-handbook-african-archaeology-2013]].*

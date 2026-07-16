@@ -13,8 +13,8 @@ cultures: ["[[unknown]]"]
 excavated_by: ["brickworkers (1936 discovery, not archaeologists)", "subsequent controlled excavations (partial coverage only)"]
 excavation_years: "from 1936"
 key_finds: ["340 excavated burials, extended skeletons with lavish offerings", "hollow red-painted figurines", "small solid figurines (dancing, ballplaying, acrobatics, domestic/marital scenes)", "dualistic/monstrous figurines (two-headed figures, split skull masks)", "Olmec-influenced pottery and figurine styles"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, mesoamerica, neolithic, preclassic]
 ---
 
@@ -75,4 +75,10 @@ Opeño, Michoacán (elaborate tomb, similar ceramics, radiocarbon c. 1300 BCE) (
 2013). This is a live scholarly position on long-range Preclassic diffusion, recorded here as a
 position rather than a finding.
 
-Cross-links: [[concepts/maize-domestication]], [[sources/coe-koontz-mexico-2013]].
+## Basin of Mexico Survey Context (Sanders, Parsons & Santley 1979)
+
+The regional survey reported in [[sanders-parsons-santley-basin-of-mexico-1979]] (study page [[sanders-basin-of-mexico-study]]) situates Tlatilco within Early Horizon (1500–1150 BCE) Basin settlement: in survey Phase One (1500–1300 BCE) Tlatilco was one small village among nine Early Horizon sites; by Phase Two (1300–1150 BCE) it had expanded to a large village, the single largest Early Horizon settlement documented anywhere in the Basin. The authors caution that Tlatilco's location under modern Mexico City left it effectively unsurveyable by their project, so Basin-wide Early Horizon population trends may understate growth actually concentrated there.
+
+Sanders, Parsons & Santley (1979), citing Piña Chán (1958) and Tolstoy (1975), noted burial evidence from Tlatilco's Phase Two component "suggests some kind of ranking structure," though the site's overall settlement pattern (no known civic-ceremonial or elite architecture) does not otherwise indicate elaborate political organization — the authors read this as consistent with an emergent-rank rather than fully stratified society. A comparative site-rank ordering proposed elsewhere in the same survey (drawing on burial-lavishness data separate from the core Basin sample) places nucleated Tlatilco (estimated population ~1,500) above the smaller villages of El Arbolillo (~700–900) and the hamlet-scale Zacatenco, citing Sahlins's (1958) observations on rank and status variation in Polynesian chiefdoms as a cross-cultural comparandum for interpreting the mortuary gradient — an explicit ethnographic analogy, not a direct evidential claim. Tlatilco's famously rich burial assemblage (jade ornaments, figurines, stone implements; some interments showing women as central figures accompanied by sacrificed men and children) is contrasted in this survey against the comparatively modest burial sample from the excavated site of [[loma-torremote]], though the authors caution that Loma Torremote's ranked social distinctions may simply be expressed through non-mortuary evidence not captured by a grave-goods comparison alone.
+
+Cross-links: [[concepts/maize-domestication]], [[sources/coe-koontz-mexico-2013]], [[sanders-parsons-santley-basin-of-mexico-1979]], [[loma-torremote]].

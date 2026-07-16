@@ -8,11 +8,11 @@ affiliated_theories: ["[[processual-archaeology]]", "[[middle-range-theory-archa
 thinker_page: "[[hubs/thinkers/binford-lewis]]"
 trained_under: ["[[white-leslie-a]]", "James B. Griffin", "Albert C. Spaulding"]
 trained: ["[[unknown]]"]
-key_works: ["'Archaeology as Anthropology' (1962)", "[[binford-binford-new-perspectives-1968|New Perspectives in Archeology (1968, co-editor; Archeological Perspectives; Post-Pleistocene Adaptations)]]", "'Methodological Considerations...' (Man the Hunter, 1968)", "Nunamiut Ethnoarchaeology (1978, outstanding)", "[[binford-in-pursuit-of-the-past-1983|In Pursuit of the Past (1983)]]"]
+key_works: ["'Archaeology as Anthropology' (1962)", "[[binford-binford-new-perspectives-1968|New Perspectives in Archeology (1968, co-editor; Archeological Perspectives; Post-Pleistocene Adaptations)]]", "'Methodological Considerations...' (Man the Hunter, 1968)", "Nunamiut Ethnoarchaeology (1978, outstanding)", "[[binford-bones-1981|Bones: Ancient Men and Modern Myths (1981)]]", "[[binford-in-pursuit-of-the-past-1983|In Pursuit of the Past (1983)]]"]
 key_concepts: ["[[processual-archaeology]]", "[[middle-range-theory-archaeology]]", "[[ethnoarchaeology]]", "arguments of relevance", "statics–dynamics bridging", "[[utility-index]]"]
 fieldwork_sites: ["[[nunamiut|Nunamiut]] / Anaktuvuk Pass, Alaska (1969–1973 ethnoarchaeology); American Southeast"]
-sources_ingested: 7
-last_updated: 2026-07-10
+sources_ingested: 8
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -46,6 +46,10 @@ Binford reoriented Anglophone archaeology toward **explanation of cultural proce
 - **[[binford-bordes-mousterian-debate]]:** functional/activity reading of Mousterian facies vs Bordes’ culture-historical types (book dedicated to Bordes).
 - **Agricultural origins packing model** and critique of “Garden of Eden” / “Slug Principle” sedentism assumptions; later self-critique of residual 1968 Garden-of-Eden assumptions.
 - **Paths to complexity:** skepticism of redistribution→power and trade→complexity without stress specification; interest in big-man organizations as origin loci.
+
+*(From *[[binford-bones-1981|Bones: Ancient Men and Modern Myths]]* 1981 — attributed.)*
+
+- **[[taphonomy]] and the scavenging argument:** built [[actualistic-studies|actualistic]] wolf-den and [[nunamiut|Nunamiut]]-butchery diagnostics for bone modification and assemblage composition, then reanalyzed the [[olduvai-gorge|Olduvai]] fauna to argue for hominid **scavenging** of marrow bones — against [[isaac-glynn|Isaac]]'s [[home-base|home-base]]/[[food-sharing-hypothesis|food-sharing]] model and the [[hunting-hypothesis|man-the-hunter]] reading (see [[hunting-scavenging-debate]], [[binford-bones-study]]). Deflated [[dart-raymond|Dart]]'s [[osteodontokeratic-culture|osteodontokeratic]] claim and the Choukoutien cannibalism/bone-tool "myths." Core maxim: association is not behavioral integration.
 
 ## Intellectual Genealogy
 

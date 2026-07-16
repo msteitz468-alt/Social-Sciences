@@ -15,8 +15,8 @@ preceded_by: ["[[lungshan-culture|Longshan]] / Xinzhai phase (Central Plain)"]
 succeeded_by: ["[[erligang-culture|Erligang]] (early Shang)"]
 language_affiliation: "[[unknown]] — not equated with any language or people; the Xia identification is contested (see [[erlitou-xia-dynasty-debate]])"
 genetic_signature: "[[unknown]] — not systematically addressed by Liu & Chen 2012"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [culture, bronze-age, china, east-asia]
 ---
 
@@ -37,6 +37,16 @@ Chen 2012).
 Whether the Erlitou culture corresponds to the **Xia dynasty** of later textual tradition is a
 long-standing dispute; Liu & Chen decline to make the identification. See
 [[erlitou-xia-dynasty-debate]].
+
+The type site is occupied c. 1900/1850–1550 BCE across four phases, reaching its maximum
+extent and building activity in Phases II–III; some recently published radiocarbon dates push
+the culture's beginning into the eighteenth century BCE ([[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]). Whether Erlitou crossed a
+qualitative "state" threshold is itself contested: against Liu & Chen's reading above,
+Shelach-Lavi (2015) argues the site's scale, "palace" size, and burial wealth are not clearly
+exceptional relative to Late Neolithic centers such as Taosi, and identifies the following
+[[erligang-culture|Erligang]] period, not Erlitou, as where the step-like sociopolitical change
+he sees actually occurs — recorded as a position on [[erlitou-xia-dynasty-debate]] rather than
+adjudicated here.
 
 ## Material / Linguistic / Genetic Signature
 
@@ -100,3 +110,8 @@ Erlitou qualifies as a **state** (a professional ruling class over a commoner cl
 multi-tier settlement hierarchy) regardless of its dynastic name. Sarah Allan (2007) and Yoffee &
 Li (2009) offer parallel models in which a shared elite religious/value culture crystallizing at
 Erlitou constitutes "civilization." (Source: [[liu-chen-archaeology-of-china-2012]].)
+
+**Chang 1980 (attributed).** *[[chang-shang-civilization-1980|Shang Civilization]]* places
+Erh-li-t'ou **outside Shang**, between Honan Lung-shan and Erh-li-kang, and treats it as the
+archaeological correlate of **Hsia** in a partly horizontal Three Dynasties model — see
+[[erlitou-xia-dynasty-debate]].

@@ -11,8 +11,9 @@ replication_status: "reanalyzed-contested"
 key_sources:
   - "James Mellaart, *Çatal Hüyük: A Neolithic Town in Anatolia* (Thames & Hudson / McGraw-Hill, 1967)"
   - "Ian Hodder (ed./dir.), Çatalhöyük Research Project publications from 1993– (restudy; method: *The Archaeological Process* 1999; entanglement: *Entangled* 2012)"
+  - "Ian Hodder (ed.), *Çatalhöyük Excavations: The 2009–2017 Seasons* (BIAA Monograph 56 / CRP Vol. 12, 2022) — Bayesian North chronology (Bayliss et al. Ch.19); operational building labels replacing Mellaart shrine typology"
   - "Specialist papers cited by Mellaart: Helbaek textiles/plants; Burnham textiles; Cann & Renfrew obsidian; Perkins/Ducos fauna"
-last_updated: 2026-07-10
+last_updated: 2026-07-15
 tags: [hub, study-analysis]
 ---
 
@@ -141,7 +142,9 @@ Mellaart digs in the same postwar C-14 generation as expanded work at Jericho, J
 
 **Position B — Hodder-project contextualism (strong form):** Many “shrine” traits appear in buildings used for ordinary craft and domestic life; inhabitants may not have split ritual/domestic as etic categories; microstratigraphy (e.g. Wendy Matthews) shows toolmaking in elaborately decorated rooms; symbolism is entangled with house maintenance, burial, and cattle histories rather than a separate temple institution. Method: multi-specialist, diary/video, multivocal heritage.
 
-**Position C — Chronological supersession:** Mellaart’s uncalibrated/legacy 6500–5700 BC band is replaced by calibrated sequences placing East Mound occupation roughly in the mid–late 8th to early 6th millennium BCE (research-front; see site page). Plaster-count durations remain heuristic.
+**Hodder 2006 / 2022 afterlife of the shrine typology.** In *[[hodder-leopards-tale-2006|The Leopard’s Tale]]* (2006) and related CRP synthesis, [[hodder-ian|Hodder]] already dissolves Mellaart’s house/shrine dualism into a continuum of more and less elaborately treated houses (history houses, burial intensity, art episodes) rather than a distinct temple class — the hinge move of [[catalhoyuk-shrine-house-debate]]. The final main-excavation report *[[hodder-catalhoyuk-excavations-2009-2017|Hodder ed. 2022]]* operationalises that afterlife in the field catalogue: buildings are numbered (B.1, B.5, B.77, …), not typed as “Shrine VI.10”-style cult rooms; Mellaart-era stack logic that assigned structures by shrine-column count is revised when abutment and residual foundations demand it (e.g. B.17 moved off a 1960s Shrine 10 stack placement into Level South J — as of Farid/Hodder/Taylor/Tung 2022); and absolute chronology (Bayliss et al. Ch.19 North Bayesian model) severs same-level labels from assumed co-presence, so “shrine levels” can no longer double as social-contemporaneity maps. This is restudy supersession of typology and clock, not a failed replication of Mellaart’s 1961–65 research act.
+
+**Position C — Chronological supersession:** Mellaart’s uncalibrated/legacy 6500–5700 BC band is replaced by calibrated sequences placing East Mound occupation roughly in the mid–late 8th to early 6th millennium BCE (research-front; see site page). Plaster-count durations remain heuristic. As of Bayliss et al. 2022 (North Area only), formal posterior HPDs give ~**6695–6400 cal BC** excavated North activity spanning **~195–275 years**, with generation-scale building biographies and localised gaps — further distancing Mellaart’s ~800-year X–II band and stack-contemporaneity assumption (detail on [[radiocarbon-dating]]).
 
 **Position D — Goddess critique:** Universal mother-goddess / matriarchy readings over-reach the figurines; alternative models (ancestors, initiation, individual identity, toys) compete; Göbekli Tepe’s male-animal monumentality is often cited as counter-imagery for “the Neolithic.”
 
@@ -156,7 +159,7 @@ Required as **historiographic baseline and primary image archive** for Çatalhö
 ## Historiography and Sources
 
 - **Primary:** Mellaart 1967 monograph (ingested); BIAA preliminary reports (not separately ingested here).
-- **Restudy:** Hodder *[[hodder-archaeological-process-1999|The Archaeological Process]]* (1999); *[[hodder-entangled-2012|Entangled]]* (2012); project archive monographs.
+- **Restudy:** Hodder *[[hodder-archaeological-process-1999|The Archaeological Process]]* (1999); *[[hodder-leopards-tale-2006|The Leopard’s Tale]]* (2006); *[[hodder-entangled-2012|Entangled]]* (2012); *[[hodder-catalhoyuk-excavations-2009-2017|Çatalhöyük Excavations 2009–2017]]* (2022, Bayliss et al. Ch.19); project archive monographs.
 - **Syntheses already densifying the site page:** Mithen 2003; Cauvin 2000; Roberts 1998; Wenke & Olszewski 2007; Sherratt 1982 cattle-network note.
 - **Edition note:** McGraw-Hill / Thames & Hudson 1967; heavily illustrated; OCR of this ingest from Internet Archive scan (~55k words / 238 pages).
 

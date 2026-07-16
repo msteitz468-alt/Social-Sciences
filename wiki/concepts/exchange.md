@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Not quantified; analyzed as the paradigmatic form of reciprocal interaction — the mutual weighing of sacrifice against gain, realized economically through price and money"
 contested: no
 related_concepts: ["[[value]]", "[[sociation]]", "[[money-economy]]", "[[reciprocity]]", "[[balanced-reciprocity]]"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -73,4 +73,4 @@ Exchange is analyzed as a form, not measured, but its economic realization is op
 
 ### Sherratt — Neolithic exchange systems (1982/1987)
 
-*(Attributed — [[sherratt-andrew]], *[[sherratt-economy-society-prehistoric-europe-1997]]*, Ch.4, 10, 12. )* Livestock as mobile exchange media; cattle-export ↔ highland lithic/metal imports; three-phase central European pattern (pioneer frugality → regional bulk climax ~5000 BC → Copper Age long-distance exotic flint). Prestige metal (Fahlerz, Ösenhalsringe) as accumulation counters. Sahlins-type substantivist backdrop acknowledged; hierarchy without elite graves in some Plain phases.
+*(Attributed — [[sherratt-andrew]], *[[sherratt-economy-society-prehistoric-europe-1997]]*, Ch.4, 10, 12. )* Livestock as mobile exchange media; cattle-export ↔ highland lithic/metal imports on the **Great Hungarian Plain** natural laboratory. **Three-phase lithic sequence** (Ch.12): (1) pioneer-phase frugality (Early Neolithic Plain); (2) regional interaction climax ~5000 BC — bulk highland supply (obsidian, hydroquartzite, longer-distance flint; Bükk pottery packages); (3) Copper Age shift toward long-distance **exotic** flint with settlement hierarchy that need not show elite grave differentiation. Carpathian obsidian sources (two primary; secondary Zemplén workshops) and supply radii to Bihar Massif / northern Hungarian mountains structure the network. Prestige metal (Fahlerz, Ösenhalsringe) as accumulation counters in later horizons. Çatalhöyük cattle-export / highland-import analogy and Plain cattle-wealth cycles (Ch.10) break the artificial “subsistence vs trade” split. Sahlins-type substantivist backdrop acknowledged. Cross-link [[secondary-products-revolution]], [[baden-culture]], [[linear-pottery-culture]], [[catalhoyuk]].

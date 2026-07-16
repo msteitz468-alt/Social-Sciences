@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "A trait's current use is not the reason natural selection originally shaped it; co-opted for new roles (contrast adaptation = fit *for* a current function by selection for that function)"
 contested: yes
 related_concepts: ["[[global-colonization]]", "[[world-prehistory]]", "[[prehistory]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept, archaeology, biological-anthropology]
 ---
 
@@ -51,3 +51,20 @@ Archaeologically, the concept is interpretive: it does not yield a single measur
 - Mid-1990s empirical scaffolding (dates, species, empty-land maps) is partly superseded by aDNA and recalibrated chronologies; the conceptual contrast can survive while case applications are revised.
 - Processual ecological models and later genetic demography offer alternative non-progressivist accounts of range expansion that do not require the exaptation vocabulary — treat as competing tools, not wiki-voice truth.
 - Gamble's self-identification with replacement ("Gardeners") on modern origins is independent of the exaptation apparatus and should not be conflated with it (see [[modern-human-origins-debate]]).
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*(Attributed — [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]; as of Tattersall 2012.)*
+
+**Core evolutionary lesson.** From the early stone-tool episode Tattersall draws a major general thesis: you cannot use a structure until you have it; most so-called “adaptations” start life as **exaptations** — features acquired through random genetic change, co-opted only later for specific uses. Natural selection cannot drive new features into existence for future advantage. That framing makes naturally fractured-stone use at Dikika (~3.4 Ma) attractive given the long gap before regular Bouri/Gona tool manufacture (~2.6–2.5 Ma).
+
+**Worked applications (as he develops them).**
+- **Bipedality:** pre-existing habitual upright posture in trees co-opted for ground walking rather than selected as a single savanna “key benefit” (see [[bipedalism]]).
+- **Toolmaking potential:** cognitive potential for stone tools may have been born in the large genetic alteration of acquiring a bipedal body form and “lay dormant” before expression; innovations arise as exaptations co-opted post hoc (feathers-before-flight analogy restated).
+- **Handaxe invention:** neural potential for the teardrop form must have been present before expression; invention after *H. ergaster* appeared is expected because technologies are invented by individuals within pre-existing species.
+- **Technological pattern:** new technologies do not tend to appear with new hominid kinds; old kinds start doing new things (first tools by bipedal apes, not first *Homo*; first *ergaster* kept Oldowan concepts for hundreds of millennia; handaxes within existing populations). Hominids typically accommodate environmental change by reusing existing toolkits rather than inventing new ones.
+- **Brain as historical kludge:** during the untidy process that gave rise to the modern brain, “what was already there was always vastly more influential” than future efficiency — messiness yields creativity rather than engineered optimum.
+
+**Relation to Gould/Vrba.** Tattersall deploys the co-option vocabulary without re-deriving the 1982 coinage; treat as paleoanthropological application of the same contrast (current use ≠ original selective reason), consistent with but independent of [[gamble-clive|Gamble]]’s colonization-as-exaptation program.
+
+See [[oldowan-industry]], [[acheulean-industry]], [[bipedalism]], [[australopithecus]], [[homo-erectus]].

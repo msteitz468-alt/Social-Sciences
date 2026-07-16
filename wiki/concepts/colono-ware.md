@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Hand-built, low-fired earthenware on colonial-period sites in the southeastern US and related contexts, variously attributed to Native American, African-descended, or multiethnic makers"
 contested: yes
 related_concepts: ["[[four-haunts]]", "[[mutualism-historical-archaeology]]", "[[historical-archaeology]]", "[[acculturation]]", "[[creolization]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept, archaeology, historical-archaeology]
 ---
 
@@ -51,6 +51,10 @@ Ware attributes, site associations (plantations, towns, Native sites), and distr
 ## Deetz 1996 densification
 
 *(Attributed — [[deetz-james|Deetz]], *[[deetz-in-small-things-forgotten-1996]]* Ch. 8.)* Deetz narrates Noël Hume's 1962 **"Colono-Indian Ware"** naming and the later South Carolina reattribution arguing Africans made much or most of the ware. He reports Colono chronology differing in Virginia vs South Carolina; increase as Native populations decline and African populations grow; vessel-shape differences tracking residential history (VA co-residence early vs SC separate quarters from the start). He links Colono to West African foodways (stews, two-part meals, gumbo analogies) and planter cost-cutting incentives. He treats African production as **compelling but not universally accepted**. Complementary creole form: Chesapeake clay tobacco pipes (English mold technology + African-derived decoration; Emerson) with roughly complementary chronological distribution to later Colono as racial slavery consolidates. Method rule: prefer whole-site fabric over isolated ethnic-marker hunting.
+
+## Barker & Majewski 2006 — corroborating attribution summary
+
+*(Attributed — David Barker and Teresita Majewski, in [[hicks-beaudry-companion-historical-archaeology-2006|Hicks & Beaudry 2006]], ch.12.)* Barker & Majewski give a compact, independent restatement of the same attribution career traced above via Orser and Deetz: colono-ware — coarse, low-fired, unglazed earthenware in European vessel forms, found across the eastern US and Caribbean — was first noted in the Chesapeake in the 1930s and formally identified by Noël Hume (1962), who coined "Colono-Indian Ware" on the belief it was Native American-made. Within a decade researchers had shifted toward an African-American attribution (attributed to Deetz 1977: 236–245). More recent scholarship (Ferguson 1992) argues both groups made colono-ware — treating it as a "creolised" material dimension of colonial situations rather than a homogeneous product of a single cultural group. Barker & Majewski's account corroborates, from the ceramic-studies literature specifically, the interpretive-career reading Orser and Deetz give from a theory-of-historical-archaeology standpoint.
 
 ## Critiques and Limitations
 

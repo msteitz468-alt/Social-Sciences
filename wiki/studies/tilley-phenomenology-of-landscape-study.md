@@ -16,8 +16,8 @@ key_findings:
   - "He treated landscape as substantially mythopoetic, drawing ethnographic conceptual background without direct ethnographic modelling of prehistory."
 concepts_introduced: ["[[place-as-lived]]", "[[path]]", "[[landscape-as-mythopoesis]]"]
 replication_status: reanalyzed-contested
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [study, archaeology]
 ---
 
@@ -65,6 +65,8 @@ Founding Anglophone demonstration of **landscape phenomenology** in prehistoric 
 ## Critiques and Standing
 
 Critiques (recorded as positions, not adjudicated): subjectivity of modern walking as proxy for past experience; sparse Mesolithic visibility; under-specified method; risk of underplaying ecology and economy. Later landscape archaeology both absorbed and revised Tilley's program (dwelling, taskscape, GIS viewshed formalization). Status: **reanalyzed-contested** founding study of an active strand.
+
+**Hall (2000).** [[hall-martin|Martin Hall]] (*[[hall-archaeology-modern-world-2000|Archaeology and the Modern World]]*) argued the phenomenological method depends on a "romantic projection" of present, personalized experience into the past and an unwarranted assumption of common humanity across time, abandoning global/systemic context for personal "social space"; he further read the book as producing a sanitized, largely desirable landscape history that omits "places of violent conflict and stinking ossuaries." See [[theory-in-historical-archaeology-debate]]; study [[hall-archaeology-modern-world-study]].
 
 ## Links
 

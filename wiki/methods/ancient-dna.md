@@ -15,8 +15,8 @@ key_limitations: >-
   modern-human contamination; preservation bias toward cold, dry climates
   (Eurasia over the Near East and sub-Saharan Africa); silent on language,
   culture, and self-identification.
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [method]
 ---
 
@@ -97,3 +97,16 @@ On deep history they report Cann, Stoneking & Wilson’s 1987 mtDNA “Eve” re
 **What autosomal aDNA revealed that mtDNA/Y could not.** mtDNA/Y-DNA long suggested zero or near-zero Neanderthal–Cro-Magnon admixture (simulations near zero), but they are only ~1% of DNA; autosomal data revealed ~**2% Neanderthal** input in non-Africans and **Denisovan** relatedness to Melanesians (~5% Denisovan; total archaic ~8% in New Guinea/Bougainville as of Stringer 2012). Head-lice DNA also used to probe archaic contact. Cann–Stoneking–Wilson 1987 modern mtDNA had the biggest pre-Neanderthal genetic impact on origins research; Stringer holds later analyses showed 1987 conclusions essentially correct though somewhat overinterpreted. Australian fossil aDNA claims (Willandra/Kow Swamp/Mungo 3, 2001) used to support Multiregional/Assimilation; Stringer, Cooper, and Collins criticized exceptional recovery rates under desert heat and protocols — reanalysis showed Mungo 3 was not an outgroup and did not seriously challenge recent African origin.
 
 See [[neanderthals]], [[denisovans]], [[molecular-clock]], [[recent-african-origin]], [[admixture-statistics]].
+
+## African genetics–archaeology interface (*Oxford Handbook*, 2013)
+
+*(Attributed — Scott MacEachern, Ch. 5 “Genetics and Archaeology,” with de Maret Ch. 43 and Blench Ch. 4, in *[[mitchell-lane-oxford-handbook-african-archaeology-2013|Mitchell & Lane 2013]]*; **as of handbook ~2012** — pre-dates much of the post-2015 African aDNA boom. Prefer present-day and early-aDNA literature cited then; do not overwrite later Reich-layer findings.)*
+
+- **Sampling bias:** Genetic research concentrates on forager groups (Khoisan, Pygmy/BaTwa) and some areas (southern Lake Chad Basin); farming populations poorly sampled across central/SW/southern Africa beyond few Bantu groups; gaps between Senegambia and Lake Chad; little Saharan work. Archaeological knowledge similarly patchy; congruence often reflects access/politics, not research design.
+- **Mutual failure of disciplines:** Social scientists intimidated by genetics either ignore it or uncritically accept concluding historical paragraphs; geneticists use outdated/superficial African history sources (encyclopedias, mass media, 50-year-old texts). Prehistory syntheses (Phillipson 2005; Stahl 2005) give little weight to genetics especially for recent periods (MacEachern).
+- **Deep isolation claims and reflexivity:** Research (e.g. Behar et al. 2008) suggesting San and Pygmy lineages near roots of mtDNA/NRY trees with Middle/Upper Pleistocene isolation must not reinscribe foragers as fossilized remnants; non-adaptive markers do not make carriers “less modern”; “oldest human population” media phrasing conflates genetic variability with historical identity. Isolation over 50–100 kyr hard to reconcile with archaeology alone (MacEachern).
+- **Bantu expansion genetics (provisional as of ~2012):** Genetic data indicate substantial demographic movements as well as linguistic/cultural change, but are **not fine-grained enough** to independently locate origins (still from southern Nigeria–Cameroon border via historical linguistics). Lower NRY than mtDNA diversity among Bantu speakers interpreted as asymmetrical reproduction (forager women into farmer communities; polygyny) — yet same asymmetry in Yoruba (no comparable range expansion) weakens this as a full explanation (MacEachern). de Maret: markers *seem to indicate* demic movement if confirmed; risk of uncritical language–genes–agriculture package (Diamond & Bellwood). See [[bantu-expansion]].
+- **Four-way non-identity:** Gene clusters ≠ language families ≠ ceramic styles ≠ peoples (Blench; MacEachern; de Maret; Sadr). Use `associated_with`; date-stamp every claim.
+- **Preservation:** Tropical heat/humidity severely impair aDNA recovery relative to Eurasia — structural limit for sub-Saharan deep-time genomes until later laboratory advances (contextual note; Stringer layer above already flags tropics).
+
+Cross-links: [[khoe-san]], [[kalahari-debate]], [[phillipson-david-w]], [[admixture]].

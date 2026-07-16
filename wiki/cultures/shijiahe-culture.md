@@ -15,8 +15,8 @@ preceded_by: ["[[daxi-culture]] (via Qujialing culture)"]
 succeeded_by: ["[[unknown]] — regional Longshan-associated successors on the Jianghan Plains"]
 language_affiliation: "[[unknown]] — not equated with a language/people"
 genetic_signature: "[[unknown]] — no aDNA reported (as of Liu & Chen 2012)"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [culture, neolithic, bronze-age, china, east-asia]
 ---
 
@@ -33,6 +33,20 @@ Walled sites in the Qujialing–Shijiahe sequence were built by digging wide moa
 Craft-production areas at Dengjiawan and Tanjialing yielded houses, pits, ritual areas, over 100 tombs, and two pits containing thousands of small clay figurines (birds, fish, chickens, dogs, sheep, turtles, pigs, elephants, tigers, and humans holding fish), interpreted as production waste. Tens of thousands of red pottery cups were recovered at Sanfangwan; a jade/stone workshop with hundreds of spindle whorls was found at Luojiabailing; specialized pottery production is indicated at Xiaojiawuji, where early Shijiahe burials contained over 100 identical pottery vessels.
 
 During the late Shijiahe phase (ca. 2200–2000 BC), urn burial with jade grave goods was practiced; at Xiaojiawuji, jade counts per burial ranged from none to several dozen, with the wealthiest urn burial (W6) holding 56 jade items, apparently made locally from similar raw material. Shijiahe jade forms — anthropomorphic heads, cong tubes, birds, eagles, dragons, cicadas, and phoenix motifs — mostly parallel jade forms from the contemporary [[liangzhu-culture]] far to the east; Liu and Chen (2012) read this parallel, together with Shijiahe's outer-wall/inner-enclosure site plan and craft specialization (both resembling the Mojiaoshan cluster), as suggesting "a strong cultural influence from the east" — an attributed `associated_with` relationship between two independently developing regional traditions, not a claim of shared identity.
+
+Shelach-Lavi ([[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]) adds
+engineering detail for the walled sites: at least eight walled Shijiahe-period sites
+are known; the Shijiahe type site itself exceeds 100 ha inside its walls, with walls
+50 m wide at the base, 4–5 m wide at the top, and more than 6 m tall, representing an
+estimated 700,000 m³ of moved earth; its moat reached up to 100 m wide, and ceramic
+drainage/sewage pipes were recovered — evidence, per Shelach-Lavi citing Steponaitis
+(1981), that the labor concentration needed for such public construction indicates
+Shijiahe-type centers extracted labor or food surpluses from dependent villages, a
+reading he applies in parallel to [[taosi]]. He also cites Falkenhausen (2003: 220) for
+the same jade-transmission argument recorded on the [[liangzhu-culture]] page: Shijiahe-
+period jades may have influenced later jade-carving repertoires at Erlitou (Yellow
+River) and Sanxingdui (Chengdu plain) — flagged there and here as `associated_with`,
+not identity.
 
 ## Distribution and Chronology
 

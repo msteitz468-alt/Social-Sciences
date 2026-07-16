@@ -7,8 +7,8 @@ date_introduced: "1961 (Vansina, *De la tradition orale*); precursors in 19th–
 supersedes: ["ad hoc use of legend/tradition in culture-history"]
 epistemic_leverage: "Recovers a documentable past for societies without writing (and the oldest layers of literate ones) by applying source-criticism to spoken/sung testimony; reaches beyond the reach of written records and, jointly with archaeology, linguistics, and genetics, anchors African and other non-literate history."
 key_limitations: ["distortion by social function, cultural values, and informant personality (the 'mirage' problem)", "chronological compression (telescoping, mythical-period collapse, non-constant reign/generation units)", "no tradition transcends its society's spatial/temporal reach", "feedback contamination from written sources (later critics)", "reliability tracks political organization — thin among acephalous/micro societies"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [method]
 ---
 
@@ -69,3 +69,31 @@ Vansina defined the method against earlier documentary theorists — E. Bernheim
 ## Debates
 
 The reliability of oral tradition as a historical source is a standing dispute — see [[oral-tradition-reliability-debate]]. A specific sub-dispute: Fage's position (recorded critically by Vansina) that only state-organized peoples' history survives, and that stateless peoples' history "perishes without a trace" — which Vansina disputed as an untested claim. The status of glottochronological dating (a Vansina caution) is covered at [[historical-linguistics]].
+
+## African historical archaeology (*Oxford Handbook*, 2013)
+
+*(Attributed — Peter Schmidt, Ch. 3 “Oral History, Oral Traditions, and Archaeology,” in *[[mitchell-lane-oxford-handbook-african-archaeology-2013|Mitchell & Lane 2013]]*; as of ~2012.)*
+
+- **Hallmark method:** Since historical archaeology gained a foothold in late colonial Africa, use of oral traditions and oral histories has been a **hallmark** of African archaeology; pioneering Lanning/Posnansky work on Bigo and Mubende Hill set experimental East African approaches; many regions used oral testimonies to supplement/question documents for the last several millennia.
+- **Vansina’s trajectory:** Vansina (1965) advocated multidisciplinary valorization of oral traditions including archaeology (using Posnansky’s Bweyorere palace fire as verification of royal genealogy); by *Oral Tradition as History* (1985) archaeological data play only a minor role and optimism had waned; Schmidt notes archaeology could not answer many other questions about Bweyorere — verification is partial, not total.
+- **Jenné-jeno case:** European and Arab ethnohistoric accounts fixing origins in the 13th century AD were contradicted by indigenous oral traditions of much earlier genesis; excavation affirmed mid-first-millennium rise of urbanism — material evidence rewriting history with, not against, oral memory (McIntosh research via Schmidt).
+- **Structural exegesis (Haya/Katuruka):** Schmidt’s structural reading of Haya oral traditions treats the iron tower as an aetiological myth for iron that borrows a transformed Tower of Babel cliché to memorialize ancient ironworking and reproductive symbolism; imposing universal Babel meanings (Vansina-style universalism) erases local symbolic life linking iron production and human reproduction — method case for local structural analysis over universal motif tables.
+- **Colonial education legacy (handbook education chapter):** Colonial curricula often discouraged material-remain approaches relative to oral histories and left archaeology as history’s “adjunct” — shaping public awareness of which pasts count.
+
+Cross-links: [[ethnoarchaeology]], [[jenne-jeno]], [[connah-graham]], [[public-archaeology]].
+
+## A corroboration-only rule: Iroquoian tradition in *The Children of Aataentsic* (1976/1987)
+
+*(Attributed to [[trigger-bruce-g|Bruce Trigger]], *[[trigger-children-of-aataentsic-1976|The Children of Aataentsic]]*; a considerably more skeptical position than Vansina's, applied to a specific case rather than argued in general.)*
+
+Trigger's stated rule: **"It is of interest when oral traditions confirm other sources of information about the past, but, except when they do, they should not be used even to supplement such sources."** For the Huron and Iroquoians generally, he holds that oral traditions "appear to be of little historical value" as an independent source, because their function was to encode social, political, and moral order rather than to preserve literal memory of past events.
+
+**Worked cases for the rule.** The Iroquois Dekanahwideh legend of the confederacy's founding functioned (per P. Wallace 1966) as a constitutional charter — a title-succession legend — rather than history proper. A. C. Parker (1916) found the Iroquois retained no memory of their own aboriginal fortifications or house types, and attributed both the confederacy's founding and even earlier ceremonies to the religious teacher Handsome Lake (fl. 1800–1815); Parker concluded the Iroquois conceived their history as a series of "cultural revolutions," each erasing memory of the era before it. Peter Dooyentate Clarke's 1870 recording of Wyandot oral history showed only "the haziest and most inaccurate memory" of events before 1650 or even somewhat after — Clarke's *Traditional History of the Wyandotts* did not recognize the group's larger, different pre-1650 political organization at all, and by the 19th century only Jesuit missionary Antoine Daniel's death was remembered among the "Huron martyrs." Trigger treats these as generalizable: Iroquoian oral tradition should be used only when it corroborates other sources, never as an independent supplement.
+
+**Contrast case.** The Winnebago of Wisconsin reportedly preserved oral memories of events from as early as their first European encounter, c. 1634 (Lurie 1960:803) — offered by Trigger as a counter-example where oral tradition *does* carry historical value, sharpening rather than undermining the claim that Iroquoian tradition specifically is unreliable (i.e., the failure is not a property of oral tradition as such).
+
+**Conventionalized time expressions.** Cross-reading Huron oral tradition (recorded decades later by the Jesuits) against Champlain's contemporary documentary account of the same events, Trigger found Huron temporal referents — "forty years ago," "two hundred years" — to be conventionalized approximations rather than precise counts, not literal chronology.
+
+**Absolute-dating dispute (eclipse anchoring).** Some anthropologists date the Iroquois League's founding to the mid-15th century, tying Dekanahwideh's "blotting out of the sun" motif to a solar eclipse visible in upper New York state in 1451 CE (P. Wallace 1966:255) — an attempt to anchor oral tradition to an absolute astronomical date. Others accept a native tradition dating the League's founding to "a lifetime before the Europeans came to trade" (Hewitt 1894), i.e., roughly 1559–1570; still others attribute the confederacy's origins entirely to the European-contact period (defensive alliance against European intrusion, or against coastal-tribe trade monopolies). Trigger regards a "doctrinaire" rejection of the native tradition of an earlier (c. 1440) founding as unwarranted, without endorsing any single date as settled — a live dating dispute rather than a resolved chronology.
+
+**Genealogy/memory-loss pattern more broadly.** The merged Tionnontate-Huron refugee group that became known as "Wyandot" lost separate ethnic identity and knowledge of its prior political organization within a few generations — illustrated by Clarke's 1870 history (above); formal clan/phratry divisions nonetheless survived into the 19th century because their ritual function remained valid independent of accurate historical memory of the confederacies that had produced them.

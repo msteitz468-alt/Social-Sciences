@@ -16,8 +16,8 @@ core_claims:
 developed_from: ["[[conjunctive-approach]] (Taylor as precursor critique)", "[[culture-historical-archaeology]] (reacted against limits of)"]
 competes_with: ["[[culture-historical-archaeology]]", "later post-processual archaeology"]
 status: active
-sources_ingested: 8
-last_updated: 2026-07-10
+sources_ingested: 11
+last_updated: 2026-07-15
 tags: [theory, archaeology]
 ---
 
@@ -34,6 +34,8 @@ The **New Archaeology** / **processual archaeology** program reoriented Anglopho
 **British systems case (Renfrew 1972).** *[[renfrew-emergence-of-civilisation-1972|The Emergence of Civilisation]]* applies a subsystems + [[multiplier-effect]] model to the third-millennium Aegean as a full-length case of civilisation / complex-society emergence — Renfrew’s own 2010 framing calls it the first detailed processual exploration of such a case (attributed). Culture-historical densification (Cycladic sequence) is retained as input to culture-process explanation, against [[ex-oriente-lux|diffusionist]] prime movers.
 
 **Internal formation-process critique.** [[schiffer-michael-b|Schiffer]] (1987, attributed) argued that 1960s–70s processual inference often applied behavioral **correlates** directly to archaeological patterns under the false assumption that past behaviors of interest were the sole determinants of present record properties — exemplar: [[hill-james-n|Hill]]’s [[hill-broken-k-pueblo-study|Broken K]] social inferences. [[behavioral-archaeology]] grew inside this milieu as a corrective that retained scientific ambition while insisting on [[formation-processes]] identification first.
+
+**Behavioral archaeology as internal redefinition (*First Principles* 1995).** Schiffer frames BA as evolving from — and struggling free of — New/processual archaeology’s shackles: mid-1970s “normal science” ferment plus complacency; new all-purpose causes (population pressure, environmental stress, cybernetic processes) substituted for older ones without better explanation of behavioral variability; incomplete reintegration after the paradigm change (attributed, Schiffer 1976 / 1995 Ch. 1, 6). Reid–Schiffer–Rathje’s **four strategies** redefine archaeology as relationships between human behavior and material culture in all times and places (not study of the past alone), with ethnoarchaeology/experiment (Strategy 2) and modern material culture (Strategy 4) as legitimate archaeological research (attributed, 1995 Ch. 6).
 
 Load-bearing L.R. Binford 1968 formulations (attributed):
 
@@ -76,6 +78,10 @@ carried processualism toward social and then cognitive archaeology.
 ## Method Commitments
 
 Problem-oriented research design; testable propositions; quantification and multi-variate analysis; **[[ethnoarchaeology]]** and **[[middle-range-theory-archaeology|middle-range theory]]** as bridges from statics to dynamics (*Pursuit* 1983); skepticism toward untested [[ethnographic-analogy]]; actualistic/taphonomic controls on bone and site formation.
+
+### EMV as operational multi-scalar New Archaeology (Flannery ed. 1976)
+
+*(Attributed — [[flannery-kent-v|Kent V. Flannery]] (ed.), *[[flannery-early-mesoamerican-village-1976|The Early Mesoamerican Village]]* 1976; study [[flannery-early-mesoamerican-village-study]].)* EMV is **not a new theory** but a **charter application** of processual commitments to Formative Mesoamerican villages: regional analytic scale; probability sampling; variation (not normative “types”) as the information-bearing signal; nested units from activity area and [[household-cluster]] through community, valley settlement system, and interregional exchange/ritual networks. Flannery’s R.M.A./G.S./S.G.S. parable satirizes culture-historical “telephone booth” practice while S.G.S. channels [[binford-lewis|Binford]] on regional designs. Method chapters operationalize surface collection, random quadrats (Winter at [[tierras-largas]]), transects, [[site-catchment-analysis]], relative survey-design efficiencies (Plog), nearest-neighbor/Markov settlement models, and exchange/sourcing — then close with a “prayer” for New Archaeology analytical expertise joined to “humility and common sense of the Old.” Johnson’s textbook already flags Flannery’s sampling parable and cultural-ecology strand; EMV is the long-form field charter for that strand in Early–Middle Formative [[mesoamerica]].
 
 ## Critiques and Responses
 
@@ -142,3 +148,11 @@ They report that the goal of mathematical–evolutionary–ecological science re
 ### Renfrew 1987 — processual language models
 
 *(Attributed — [[renfrew-colin]], *[[renfrew-archaeology-and-language-1987|Archaeology and Language]]*).* Extends processual method to the **Indo-European problem**: reject culture=people migration equations; demand demographic/economic mechanisms for language change; three processes (colonization, replacement, continuous development); three replacement models (Demography/Subsistence / wave of advance; Élite Dominance; System Collapse). Anti-migrationist against culture-historical Kurgan packages yet demographically migrationist where farming expands ([[anatolian-hypothesis]], [[demic-diffusion]]). Programmatic bridge from British processual archaeology to historical linguistics without treating pots as languages.
+
+## Zapotec Civilization (Marcus & Flannery 1996) — action theory as actor-restoring complement
+
+*(Attributed — [[marcus-joyce|Marcus]] & [[flannery-kent-v|Flannery]], *[[marcus-flannery-zapotec-civilization-1996|Zapotec Civilization]]* 1996; study [[marcus-flannery-zapotec-civilization-study]].)*
+
+Marcus & Flannery remain inside the Oaxaca **processual** laboratory tradition (regional survey, multi-project synthesis, evolutionary comparison) while positioning **[[action-theory-archaeology|action theory]]** as a complement that restores human actors against static formal frameworks and “ecological-functionalist” archaeology of the 1960s–70s that left humans as “cogs in a machine.” They complain evolutionist explanations became too deterministic (ecological pressures over human decisions). The final chapter constructs an “**evolution without stages**”: stages (band, autonomous village, rank society, archaic state) stay “heuristically useful” like paleontological taxa for comparing stable periods across sequences, but action theory analyzes changing relations between actors and system, with social/political **institutions** and brief transitional periods of rapid change as milestones. Dual program retained: historical depth for a specific civilization **and** comparative search for why stages in the rise of archaic states look “provocatively similar.” Not a post-processual break — an actor-centered refinement within long-term regional science.
+
+Cross-links: [[action-theory-archaeology]] · [[cognitive-archaeology]] · [[flannery-kent-v]] · [[marcus-joyce]] · [[settlement-pattern-archaeology]].

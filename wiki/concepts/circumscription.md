@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Environmental circumscription (resource-rich areas bounded by mountains, deserts, seas); social circumscription (surrounding hostile or dense populations blocking fission); population pressure; warfare as consolidating mechanism"
 contested: yes
 related_concepts: ["[[chiefdom]]", "[[state-formation]]", "[[the-state]]", "[[band-tribe-chiefdom-model]]", "[[agricultural-intensification]]", "[[complex-society]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -52,3 +52,13 @@ In *[[carneiro-evolutionism-cultural-anthropology-2003|Evolutionism in Cultural 
 - **Sequence of pressure effects (attributed model):** shorter fallow → intensification → marginal land → forceful acquisition of neighbors’ land → aggregation of villages into multivillage polities → chiefdoms → states (Graber’s quantitative fission-until-circumscription model cited as allied).
 
 Conflict-side position in [[origin-of-the-state-integrative-vs-conflict-debate]]; complementary vocabulary with [[band-tribe-chiefdom-model]] stage sequence without equating them.
+
+## Sanders, Parsons & Santley (1979) — application to the Basin of Mexico, and a disagreement with Carneiro
+
+*[[sanders-parsons-santley-basin-of-mexico-1979|The Basin of Mexico]]* ([[sanders-basin-of-mexico-study|study]]) extends Carneiro's circumscription model directly to Basin settlement data: they argue complex societies "should emerge first in smaller, socially or environmentally circumscribed areas," linking this to a "law of least effort" that yields rough population ceilings by organizational level (bands hundreds, tribes thousands, [[chiefdom|chiefdoms]] tens of thousands, states millions). They apply the social-circumscription concept specifically to explain population buildup in the southern Basin during the First–Second Intermediate transition, reading well-settled buffer zones as blocking outward population movement in the manner Carneiro describes.
+
+However, Sanders, Parsons & Santley (1979) explicitly **disagree with Carneiro's own reading of [[wittfogel-karl-a|Wittfogel]]**: "We also take issue with Carneiro's identification of Wittfogel's theory as a volunteeristic theory. The effects of irrigation on the cultural system are in fact multifaceted and very complex." They argue Wittfogel's hydraulic-civilization theory in fact operates through all three of their "lawlike generalizations" (biotic potential, least effort, and minimization of risk) rather than through risk-minimization alone — a position-level dispute over how to classify an adjacent theory, recorded here as a named disagreement between circumscription's originator and later users of the framework, not adjudicated.
+
+## Blanton, Feinman, Kowalewski & Nicholas (2022) — a "coactive," population-as-consequence critique
+
+*(Attributed — [[blanton-ancient-oaxaca-2022|Blanton, Feinman, Kowalewski & Nicholas]], *Ancient Oaxaca: The Monte Albán State*, 2nd ed. 2022.)* Arguing against cultural-ecological/circumscription-style explanations resting on population pressure as a "deus ex machina" cause of state formation, the authors hold that in the Valley of Oaxaca (and, they note, in Mesopotamia) regional population was **well below carrying capacity** at the time [[monte-alban|Monte Albán]] was founded (~500 BC), and that canal irrigation followed rather than preceded the founding (citing Wright 1986). They reframe population growth as a **consequence** of Monte Albán's founding — driven by immigration and pronatalist incentives once the capital existed — rather than an initiating cause, describing this as a "coactive," circular/mutual-causal model in place of a linear population-pressure → state model. [POSITION: this directly opposes the circumscription/population-pressure causal sequence above; recorded as a named critique, not adjudicated.] See [[population-pressure]], [[state-formation]], [[monte-alban]].

@@ -11,8 +11,8 @@ driven_by: ["[[energy-law-of-cultural-evolution]] (White: new solar-energy captu
 produces: ["civil society", "[[state-church]]", "class stratification", "commercial economy (White's sequence)"]
 theorized_by: ["[[barker-graeme]]", "[[cauvin-jacques]] ([[revolution-of-symbols]])", "[[white-leslie-a]]", "[[mithen-steven]] (cognitive fluidity epilogue)", "V. Gordon Childe (Neolithic/Urban Revolution language)", "[[steward-julian-h]] (irrigation civilizations)", "[[binford-lewis]] (packing / demographic-ecological models)", "[[braidwood-robert]] (hilly flanks / natural habitat / nuclear area)", "[[scott-james-c]] (progress-narrative inversion; domus / zoonoses)", "[[bellwood-peter]] ([[early-farming-dispersal-hypothesis]])"]
 key_studies: ["[[barker-agricultural-revolution-prehistory-2006|Barker, Agricultural Revolution in Prehistory (2006)]]", "[[cauvin-birth-of-the-gods-2000|Cauvin, Birth of the Gods (2000)]]", "[[white-evolution-of-culture-1959|White, Evolution of Culture (1959), Ch. 12]]", "[[childe-dawn-european-civilization-1958|Childe, Dawn of European Civilization (6th ed.)]] (Neolithic Revolution vocabulary + demic entry)", "[[childe-man-makes-himself-1936|Childe, Man Makes Himself (1936)]] (Neolithic Revolution coining)", "[[binford-in-pursuit-of-the-past-1983|Binford, In Pursuit of the Past (1983)]] (packing model; critique of Garden of Eden / Slug Principle)", "[[braidwood-prehistoric-men-1959|Braidwood, Prehistoric Men (3rd ed. 1959)]] (hilly-flanks popular synthesis + Jarmo)", "[[scott-against-the-grain-2017|Scott, Against the Grain (2017)]]", "[[bellwood-first-farmers-2005|Bellwood, First Farmers (2005)]]"]
-sources_ingested: 15
-last_updated: 2026-07-10
+sources_ingested: 17
+last_updated: 2026-07-15
 tags: [phenomenon, neolithic]
 ---
 
@@ -231,3 +231,31 @@ Barker keeps the **revolution** label for long-run impact (by 5 kya many populat
 
 Genetics and absolute dates **as of Barker 2006** (pre-genome-wide aDNA). Complements and challenges [[bellwood-first-farmers-2005]].
 
+
+## Bradley 1998 — monuments and a second agricultural revolution (attributed)
+
+*[[bradley-significance-of-monuments-1998]]* (Preface; Ch. 2; Ch. 10) challenges surplus→monument sequencing for the European Neolithic and reframes later prehistory:
+
+1. **Surplus inversion (Early Neolithic):** Farming did not simply fund monuments; monumental architecture and a new sense of time/place often made farming **acceptable**. Domestication as direct ownership of resources conflicted with Mesolithic “partnership with nature”; both monumentality and domestication become thinkable after prolonged frontier contact erodes that ontology (Dragsholm as staged contrast).
+2. **Delayed package:** Beyond the loess, intensive mixed farming, permanent houses, and field systems are often weak in the Early Neolithic relative to monument scale ([[barkaer]]; general NW European pattern Bradley synthesizes).
+3. **Two major European agricultural change periods:** (a) Bandkeramik extension and modified neighbours; (b) mid–late second millennium BC reorganization related to the **Urnfield** complex (flat cemeteries, early hillforts, cereal reorganisation). Political traits often attributed to a “Neolithic revolution” appear widely only ~1300–800 BC in N/W Europe.
+4. **Domestication of ritual:** From mid-second millennium BC (regionally staggered), specialised circular monuments go out of use; field systems and visible settlements expand; ritual focus moves into houses, settlement boundaries, and grain-storage pits (human remains with domestic deposits). Cranborne Chase house↔barrow isomorphism shows domestic and “ritual” landscapes share a circular symbolic code — the distinction is unwarranted ([[ritual-landscape]]).
+5. **Ideology parallel:** Bradley links Sherratt’s “religious conversion” metaphor for the Neolithic, Whittle’s “creation of new worlds,” and Thomas’s conceptual appropriation of nature to the Urnfield-era ideological facilitation of intensive farming (Alexander 1979 on Urnfield as belief transmission, via Bradley).
+
+All causal claims remain **attributed**; pre-aDNA demography; chronological detail has moved since 1998.
+
+## Whittle 1996 — slow piecemeal becoming, not Childe event (attributed)
+
+*(Attributed — [[whittle-alasdair]], *[[whittle-europe-in-the-neolithic-1996|Europe in the Neolithic: The Creation of New Worlds]]* 1996, esp. Ch. 10 synthesis; mid-1990s; pre-aDNA.)*
+
+Whittle rejects reading Europe’s forager→farmer transition as a Childe-style **Neolithic Revolution** event or as a fully formed agricultural package that arrives and then intensifies along a predetermined path. Core positions:
+
+1. **Slow becoming Neolithic.** Change after ~7000/6500 BC in SE Europe (and later extensions) is gradual across first generations; not fully fledged from the beginning. Parallel slow trajectories across SE Europe, central/western Europe, and the central/west Mediterranean — not a single demic wavefront.
+2. **Not instantly mixed farmers.** People herded domesticates and cultivated cereals/legumes while regularly hunting, fishing, and collecting wild plants; broad-spectrum forager resource use maintained though staples changed. Cereals, perhaps small-scale, may have been **as much for drink as for food**.
+3. **Indigenous agency under contingency.** Knowledgeable foragers adopted new resources when they suited, **to maintain existing social ethic** (sharing, gatherings, hospitality). Neolithic beliefs/values grounded in Mesolithic; in a sense prolongation of old worlds coexists with conceptual new ones (descent, place, sacred order).
+4. **Against three orthodoxy assumptions:** (a) Neolithic arrived fully formed; (b) change continuous on a predetermined evolutionary path; (c) competition/conflict over material resources as prime movers. Instead: society had to be **created**; social and spiritual dimensions at least as important as material resources.
+5. **Language traps** he flags: “first farmers,” “early agricultural communities,” Neolithic “revolution,” “secondary products revolution,” “site,” “settlement” — all risk reifying sedentism and package completeness.
+6. **Secondary products:** Sherratt’s model treated as attractive but **over-stated** as a single later-4th-millennium revolution; better as acceleration/accentuation within already-changing residence (see [[sherratt-andrew]], [[secondary-products-revolution]]).
+7. **Title gloss:** “Creation of new worlds” is not primarily a demographic-economic revolution but gradual indigenous reworking of Mesolithic ethic into a sacred order of descent, place, and continually re-created community.
+
+Position layer only — situates with indigenous/acculturation and values-first readings in [[farming-spread-europe-debate]]; does not adjudicate later aDNA demography. Complements Barker 2006 piecemeal Europe densification above and Bradley 1998 surplus inversion.

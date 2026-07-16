@@ -15,8 +15,8 @@ preceded_by: [ramapithecus (as proposed in Leakey & Lewin 1977; superseded, see 
 succeeded_by: [homo-erectus]
 language_affiliation: unknown; no direct evidence
 genetic_signature: "[[unknown]] — no aDNA or molecular data reported in Leakey & Lewin (1977); species defined from cranial/postcranial morphology only"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [culture, early-prehistory, east-africa]
 ---
 
@@ -69,3 +69,15 @@ noting a growing number favor two; a 48-character cladistic analysis groups *hab
 *H. ergaster* over *rudolfensis*, hinting *rudolfensis* evolved its large brain independently.
 On behavior he keeps the Oldowan and the **[[home-base]]/food-sharing** model (Isaac) explicitly
 as contested reconstruction, not fact. See [[encephalization]], [[human-aggression-killer-ape-debate]].
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*(Attributed — [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]; as of Tattersall 2012.)*
+
+**Naming and taxonomic inflation.** Tattersall recounts that after a 1961 Olduvai jaw at the same level as *Paranthropus*, Leakey et al. made it the holotype of *Homo habilis* (“handy man”) for presumed manual skills, beginning an East African tradition of assigning early graciles to *Homo* rather than *Australopithecus* — broken only when earlier *A. afarensis* was announced from [[hadar]] and [[laetoli]]. The 1960s expansion stretched *Homo* beyond *H. erectus* to include ~1.8 Ma Olduvai material: holotype jaw not vastly different from South African gracile *Australopithecus*; braincase fragments a bit above typical australopiths (still <700 cc); partial foot with in-line great toe; tools matching “Man the Toolmaker.” After acceptance, diverse specimens from Olduvai, East Turkana, and even South Africa were shoehorned into *H. habilis*. KNM-ER 1470 (~1.9 Ma): early estimates ~800 cc later reduced to ~750 cc, poorly preserved; mid-1980s renaming as *Homo rudolfensis* (Kenya, Malawi exemplars, some ~2.5 Ma, mostly ~2.0 Ma, all fragmentary); other 2.5–2.0 Ma finds labeled diplomatically “early *Homo*.” Pre-Dikika, the coincidence of oldest “early *Homo*” with earliest stone tools fed a self-fulfilling “Man the Toolmaker” prophecy; anatomy alone, Tattersall argues, makes *Homo* allocation a stretch.
+
+**Wood & Collard / 1470.** Bernard Wood and Mark Collard (1999, as reported): working outward from *H. sapiens*, criteria of body size/form, reduced jaws/teeth, and lengthened developmental schedule exclude *H. habilis*, *H. rudolfensis*, and “early *Homo*” as well as australopiths — they recommended rehousing in *Australopithecus*. Meave Leakey et al. later suggested placing 1470/*rudolfensis* in *Kenyanthropus* on facial similarities to *K. platyops* (~3.5–3.2 Ma); Tattersall finds this realistic because 1470 sits uncomfortably with either *Australopithecus* or *Homo*.
+
+**Coexistence and brain trends.** At Ileret, a lightly built ~691 cc braincase ~1.55 Ma allocated to *H. erectus* and a ~100 ka younger upper jaw to *H. habilis* were hailed as two *Homo* lineages in the Turkana Basin; Tattersall notes the *erectus* allocation only makes sense under a worldwide gradual middle-grade construct. Brain sizes: australopiths ~400–550 cc flatlined; earliest *Homo* after ~2 Ma ~600–850 cc. He finds no fossil before ~2 Ma a compelling direct progenitor of forms truly meriting *Homo*.
+
+**Identity cautions.** Construct status remains conventional/contested at the genus boundary; tool association is historical and circular, not species identity. See [[species-concept]], [[oldowan-industry]], [[homo-erectus]], [[australopithecus]].

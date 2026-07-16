@@ -13,8 +13,8 @@ cultures: [[[australopithecus]], [[homo-habilis]]]
 excavated_by: ["[[johanson-donald|Donald Johanson]]", Cleveland Museum of Natural History expedition]
 excavation_years: "1970s (fieldwork ongoing at time of publication, 1977)"
 key_finds: ["\"Lucy\" partial skeleton", "Afar hominid group (multiple individuals)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, east-africa]
 ---
 
@@ -54,3 +54,15 @@ over a two-species split. A [[homo-habilis|*Homo*]] maxilla near the top of the 
 dates to ~2.3 Ma — among the oldest secure *Homo* — and the nearby Kada Gona artifacts (2.6–2.5 Ma,
 40Ar/39Ar + paleomagnetism) are among the oldest known stone tools ([[oldowan-industry]]). See
 [[potassium-argon-dating]].
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*(Attributed — [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]; as of Tattersall 2012.)*
+
+**Lucy and paleoenvironment.** Lucy discovered at Hadar, northeastern Ethiopia, 1974 — *Australopithecus afarensis*’s most famous representative; ~40% skeleton of a tiny individual usually considered female by size; lived ~**3.18 Ma**. Hadar sediments ~**2.9–3.4 Ma** in the ancestral Awash valley; climatic fluctuation (drier/wetter, cooler/warmer) but overall **grassy woodlands with denser river forest** — “trees never far away”; Lucy’s body form reflects this wooded mosaic (not open Serengeti savanna). Year before Lucy (1973): knee joint with clear **carrying angle** — then earliest known bipedal evidence by several hundred thousand years.
+
+**Anatomy densification.** Lucy: little more than ~3 ft tall, perhaps ~60 lb; males up to a foot taller and heavier. Pelvis short top-to-bottom (not tall narrow ape ilia), iliac blades broader than modern humans with dramatic lateral flare, long femoral neck. Short legs (~bonobo proportions) advantage climbing not striding; feet relatively long, toes somewhat curved; Hadar hand bones shorter than apes but curved fingers + strong flexors — already lose specialized ape grasping, **not** for toolmaking (tools later). Cranial fragments + two ~3 Ma Hadar crania: small braincase, projecting face, postcanine megadonty. AL 333: ~240 fossils of 17 individuals (9 adults, 3 adolescents, 5 juveniles); fine-grained river sediments; hypothesis of single social-group flash-flood catastrophe ~3.18–3.22 Ma; majority opinion single highly dimorphic *A. afarensis*.
+
+**Species unity and tools context.** Holotype of *A. afarensis* deliberately chosen from [[laetoli]] (not Hadar) to emphasize sample unity; some scientists saw >1 species at Hadar alone — uneasy truce. Nearby Awash/Dikika context: ~3.4 Ma cut-marked bones and later Gona tools ~2.6 Ma (see [[oldowan-industry]]). Dating note: most early year-dates are on volcanic rocks interleaved with sediments, not on fossils themselves.
+
+See [[australopithecus]], [[bipedalism]], [[laetoli]], [[johanson-donald]].

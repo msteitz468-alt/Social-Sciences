@@ -12,9 +12,9 @@ region: [mesoamerica]
 cultures: [[[classic-maya]]]
 excavated_by: ["University of Pennsylvania (Mason & Satterthwaite 1931–39); BYU / Universidad del Valle (Houston & Escobedo, 1990s); settlement research by Golden and others"]
 excavation_years: ["1931–1939", "1990s"]
-key_finds: ["Ancient name Yokib'", "unbroken hotun-ending monuments AD 608–810 (22 consecutive)", "niche stelae series (Proskouriakoff method)", "Panel 2 and Panel 3", "Burial 5 (inscribed bloodletters)", "Burial 13 och' k'ak' fire ritual", "pyrite mirrors; Wall Panel 3 feather work"]
-sources_ingested: 1
-last_updated: 2026-07-10
+key_finds: ["Ancient name Yokib'", "unbroken hotun-ending monuments AD 608–810 (22 consecutive)", "niche stelae series (Proskouriakoff method)", "Panel 2 and Panel 3", "Burial 5 (inscribed bloodletters)", "Burial 13 och' k'ak' fire ritual", "Throne 1 (deliberately smashed)", "pyrite mirrors; Wall Panel 3 feather work", "El Cayo / Yax Niil sajal satellites"]
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, mesoamerica, classic-maya]
 ---
 
@@ -50,3 +50,39 @@ Piedras Negras is the type site for the historical decipherment of Maya inscript
 ## Historiography
 
 Evidence quality is unusually high for both epigraphy (continuous *hotun* monuments) and 20th–21st-century excavation (Penn 1930s; Houston–Escobedo 1990s). Proskouriakoff’s Rulers 1–6 sequence remains the backbone of the historical skeleton Sharer & Traxler report; later work by Houston, Golden, and others revises Early Classic political rupture and inter-polity boundaries. Feather-work and mirror finds place Piedras Negras in prestige-good networks from the Middle Preclassic tradition of reflective authority symbols. Capture of Ruler 7 in 808 is known from the victor’s monument at Yaxchilan—an asymmetric documentary situation typical of Classic war narratives. Primary synthesis source for this page: [[sharer-traxler-ancient-maya-2006]].
+
+### From Coe 2012 — Proskouriakoff’s historical method
+
+According to [[coe-breaking-the-maya-code-2012|Coe 2012]], Piedras Negras’s hotun-ending stela rows before temple façades enabled [[proskouriakoff-tatiana|Proskouriakoff]]’s 1960 demonstration that niche stelae open each ruler’s monument set, with Toothache = accession and Upended Frog = birth event glyphs. Maler’s earlier photographic record and the University of Pennsylvania project (Satterthwaite) supplied the corpus. See [[maya-script-decipherment-debate]].
+
+## Densification from Martin & Grube 2008
+
+*(Attributed — [[martin-grube-chronicle-maya-kings-2008|Martin & Grube 2008]], Piedras Negras chapter. Complements Sharer & Traxler and Coe densification above.)*
+
+### Proskouriakoff’s breakthrough site and setting
+
+Martin & Grube open by stating Piedras Negras holds a special place in Maya studies: here [[proskouriakoff-tatiana|Tatiana Proskouriakoff]] succeeded in “cracking” the historical content of the inscriptions, bringing Classic Maya kingship and politics into view for the first time. Their “History Revealed” summary: stelae in groups; earliest in each usually a male in an elevated niche with the “toothache” glyph and a date; earliest group date marked by “up-ended frog” 12–31 years before accession; no series exceeded 64 years—she concluded each group reflects one ruler’s lifetime. Modern phonetics confirm *sihyaj* (“born”) and *joyaj ti ajawlel* (“bound into rulership”). Largest Usumacinta site, ~40 km downstream from [[yaxchilan]]; ancient kingdom name **Yokib** (perhaps “entrance”). University of Pennsylvania 1931–39; Houston–Escobedo project 1997–2004.
+
+### Early Classic, Teotihuacan ties, Yo’nal Ahk line
+
+No early monuments yet; Late Classic Panel 2 seems to portrait **Turtle Tooth** in a 510 ceremony receiving *ko’haw* Teotihuacan-style helmets presented to subject lords from Yaxchilan, Bonampak, and Lacanha—overseen by outsider **Tajoom Uk’ab Tuun** (*ochk’in kaloomte’*). Authors suggest Turtle Tooth drew foreign support for hegemony, perhaps Teotihuacan regalia. Panel 12 (518) shows bound captives including Yaxchilan’s Knot-eye Jaguar I; at 9.4.0.0.0 (514) scattering is performed by the *yajaw* of the *ochk’in kaloomte’*—the Piedras Negras king as subordinate of that overking. Early kings are largely reconstructed from Yaxchilan’s Structure 12 lintels (one-sided picture of Yaxchilan success).
+
+Unusually complete Late Classic sequence begins with **K’inich Yo’nal Ahk I** (Ruler 1) accession **603**. Stela 25 established the inaugural niche motif (scaffold elevation, bloody footprints). Warrior stelae 26 (628) and 31 (637) with Teotihuacan War Serpent headdress chart wars against [[palenque]] and Sak Tz’i’; Palenque is framed as major rival for the lower Usumacinta. Died February 639; son’s Panel 4 details R-5 mortuary re-entry 658.
+
+**Ruler 2** (12-year-old son) succeeded April 639; warrior stelae include Santa Elena 662; Panel 2 commemorates first k’atun of Yo’nal Ahk I’s death and shifts narrative to 510 Turtle Tooth dominion over upper-Usumacinta *ajaw* youths (Yaxchilan, Bonampak, Lacanha). During Ruler 2, Yaxchilan is silent—authors note suspicion of Piedras Negras control. Scraps (685 *ko’haw* adorning under a lord in service of Calakmul’s Yuknoom the Great) place the kingdom in Calakmul’s diplomatic web. November 686: pre-nuptial for 12-year-old **Lady K’atun Ajaw** of Namaan; Ruler 2 died two days later; son Kooj married her five days after the death (corpse guest of honour) and became **K’inich Yo’nal Ahk II** (687). Marriage most celebrated in Maya history; queen shared three stelae—prominence like Lady Six Sky of Naranjo may reflect tangible political power.
+
+Yo’nal Ahk II’s 42-year reign: eight stelae under West Acropolis J-4; *puluuy utz’itil* burning rite 706 peculiar to Piedras Negras. Authors read weakness and shrinking control: [[palenque]] influence to La Mar (~16 km SW); lost a *sajal* to Palenque captain Chak Suutz’ (~725); success against resurgent Yaxchilan—Stela 8 seizure of Itzamnaaj Bahlam III’s *sajal* in **726**. Daughter Lady Huntan Ahk (birth 708) on Stela 3 in unprecedented naturalistic pose; no evidence of a son; successor Ruler 4’s parentage murky. **Burial 5** (richest tomb yet): mature male + two juveniles; jade/pyrite dental inlays; shell plaques retelling Lady K’atun Ajaw marriage; stingray-spine bloodletters naming the king—authors assign to Yo’nal Ahk II.
+
+### Ruler 4, Panel 3, sajal satellites
+
+**Ruler 4** acceded November 729 (age 27). Stela 40 (746): scattering into a psychoduct into a sub-plaza tomb (body in Teotihuacano garb described as his mother). K’atun-jubilee **749** on magnificent **Panel 3**—considered by many the finest composition in Maya art: palace chamber, Yaxchilan party including interregnum ruler **Yopaat Bahlam II**, history lecture on past subordination to Piedras Negras; child *ch’ok* T’ul Chik (captured by Yaxchilan ten years later); night feast drinking fermented *kakaw*. Panel 3 was created under Ruler 7 (as late as 795)—retrospective of 749. Ruler 4 died 26 November 757; buried at *ho’ janab witz* (O-13 memorial temple); authors think he introduced a new male line. Escobedo’s **Burial 13** (1997): adult male + two adolescents, clear ancient disturbance and burned bones matching Ruler 7’s 782 *el naah umukil* “house-burning at the burial.”
+
+**Satellites:** Martin & Grube stress dependencies unusually rich in panels detailing province–court ties (*sajal* “owned” by the king). Ancient **Yax Niil = El Cayo** best known; 1993 Mathews & Aliphat altar of 67-year-old *sajal* Aj Chak Wayib K’utiim. Stela 16 (766) records 763 accession of a La Mar (Rabbit Stone) *sajal*—once mistaken for a Piedras Negras king (Ruler 6). El Cayo 763: Yo’nal Ahk III involved in *sajal* burial but Sak Tz’i’’s Aj Sak Maax installed the successor two months later—formalized hierarchy within Piedras Negras hegemony. **Sak Tz’i’** (“White Dog,” Lacandon forest, perhaps Plan de Ayutla): defeated 628; overlordship in Bonampak–Lacanha ~726; defeated by Yaxchilan–Bonampak 787; last known mention 864—outlasted near neighbours.
+
+### Ruler 7, violent end vs peasant-revolt model
+
+**Yo’nal Ahk III** (758–); **Ha’ K’in Xook** acceded 767, *yaktaj… ajawlel* “abandoned/transferred rulership” March 780. **Ruler 7** (Turtle Tooth namesake) took office 781: artistic triumph (Panel 3; nearly fully rounded Stela 15; **Throne 1** in J-6—finest monumental seat of the Classic, found deliberately broken and scattered) versus military catastrophe. Pomona “star wars” 792 and 794 with La Mar aide Parrot Chaak; Stela 12 (795) prisoner parade—authors see no terminal decadence, continued innovation. Sculptor signatures especially plentiful; artists sent to provincial clients (El Cayo).
+
+In the four-century rivalry with [[yaxchilan]], the latter had the last word: Yaxchilan’s final monument names Ruler 7 *baak* of K’inich Tatbu Skull IV; decisive clash apparently **808**. Dynasty may have survived to 810 (eroded Altar 3). **End appears violent:** recent excavations detect burning; Throne 1 willfully smashed. The 1930s smashed-throne find fueled the “peasants’ revolt” model of Classic collapse; Martin & Grube state that today military attack is seen as the normal cause of such desecration. Collapse of kingly rule caused rapid abandonment; sparse Terminal Classic–Early Postclassic ceramics along a still-used Usumacinta corridor.
+
+*associated_with:* bipolar contest with [[yaxchilan]]; rivalry/contact with [[palenque]] and [[tonina]]; Calakmul web; source [[martin-grube-chronicle-maya-kings-2008]]; feeds [[classic-maya-collapse-debate]] and [[maya-script-decipherment-debate]].

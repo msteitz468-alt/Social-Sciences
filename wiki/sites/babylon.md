@@ -13,8 +13,8 @@ cultures: ["[[amorites]]", "[[kassites]]", "[[chaldaeans]]"]
 excavated_by: ["Robert Koldewey (Deutsche Orient Gesellschaft, 1899–1917)"]
 excavation_years: ["1899–1917"]
 key_finds: ["Ishtar Gate", "Processional Way", "Southern Citadel (Südburg)", "Etemenanki foundations", "Esagila remains", "Code of Hammurabi stele (found at Susa, originally erected at Sippar/Babylon-linked cult)"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, bronze-age, iron-age, mesopotamia, near-east]
 ---
 
@@ -88,3 +88,99 @@ existing page's own "Key Debates" section already flags the Hanging Gardens'
 identification at Babylon as doubted; Dalley's Nineveh hypothesis is an additional,
 distinct position in that same unresolved debate, cross-referenced to [[nineveh]] rather
 than adjudicated here.
+
+## Potts (*Mesopotamian Civilization*, 1997) — Additions
+
+*(Attributed — [[potts-mesopotamian-civilization-1997|Potts 1997]] unless noted.)*
+
+### Herodotus on Babylonian canals, Nitokris, and Cyrus's capture of the city
+
+Herodotus (*Hist.* I 193) reports Babylonia, like Egypt, was intersected with canals,
+but claims the Euphrates does not overflow the corn-lands naturally as the Nile does,
+requiring manual/mechanical irrigation — a claim Potts calls mistaken; it has been
+suggested Herodotus crossed Babylonia during low water and never witnessed the river
+in spate (Delattre 1888). Herodotus (*Hist.* I 185-7) also reports that a
+Neo-Babylonian queen, **Nitokris**, diverted the Euphrates into an excavated basin
+above Babylon and turned its course into a meandering channel to slow enemy (Median)
+approach and river traffic; scholars dispute her identity (Cole 1994 reports she is
+"usually identified" as Naqia/Zakutu, mother of Esarhaddon, but most scholars — Lewy
+1952; Röllig 1979; Black et al. 1987 — identify her instead with Adad-guppi, mother of
+Nabonidus, since her son "Labynetos" is thought a corrupt form of "Nabonidus"). The
+account is generally thought to reflect construction actually undertaken by
+Nebuchadrezzar II (604-562 BCE). Herodotus (*Hist.* I 189) further recounts that
+**Cyrus the Great**, avenging a drowned sacred horse in the Diyala/"Gyndes" river, had
+his troops dig 360 canals to lower its level, and later captured Babylon by diverting
+the Euphrates into Nitokris's basin, allowing his troops to enter the city via the
+shallowed riverbed (finding, as reported by Herodotus; historicity of specific details
+disputed — [[potts-mesopotamian-civilization-1997|Potts 1997]]).
+
+### The Pallacopas canal and Alexander's canal works
+
+Arrian records that before Alexander's arrival, 10,000 Babylonians were engaged
+annually for three months closing the **Pallacopas canal**, a major channel off the
+Euphrates' right bank roughly 800 stadia north of Babylon, near modern Anbar. The
+canal was likely dug late in the Neo-Babylonian period, perhaps by Nebuchadrezzar
+(604-562 BCE), and is attested in cuneiform as *nar Pal-lu-kat* from the reign of
+Neriglissar (559-556 BCE); its sluice (*bab nari*) is mentioned in Nabonidus-era
+sources (555-539 BCE) (Meissner 1896, cited by Potts). Alexander's admiral
+Aristobulus (quoted by Strabo, *Geog.* 16 i 11) reports that Alexander personally
+inspected and cleared canals, stopping some mouths and opening others; Strabo also
+records that Alexander removed artificial cataracts the Achaemenid Persians had built
+to obstruct river navigation for defensive purposes, restoring Euphrates navigability
+to Babylon. Strabo articulates a recurring ancient topos that responsible
+river/canal management is the mark of a good ruler, its failure a mark of despotic or
+corrupt rule (*Geog.* 16 i 10) (finding, Potts 1997; see [[mesopotamia-geography]] for
+the fuller Euphrates/Tigris canal-management record).
+
+### Cult-statue removals and restorations, culminating in Nabonidus and the Cyrus Cylinder
+
+P.-A. Beaulieu (1993:242, cited by Potts) argued that removing a defeated city's cult
+statue to the victor's land was meant to "actualize the rupture between the god and
+his native land," itself understood as caused by the god's own anger. Documented
+Babylon-linked cases include: the mid-16th-century BCE Hittite sack of Babylon
+carrying off a Marduk statue, later restored by the Kassite ruler Agum (Foster
+1993:273); the Elamite king Kudur-Nahhunte II's removal of Marduk's statue from the
+Esagila to Susa c. 1155 BCE, along with the last Kassite king Enlil-nadin-ahi
+(Brinkman 1968:89); and Nebuchadrezzar I's (1124-1103 BCE) later recovery of a statue
+of Marduk from Elam. Most significantly: fearing Cyrus the Great's invasion,
+**Nabonidus**, the last Neo-Babylonian king, ordered a massive gathering of the gods
+of Sumer and Akkad into Babylon in **539 BCE** (Beaulieu 1993:242; confirmed by the
+Neo-Babylonian Chronicle Series and Uruk letters describing statues transported by
+boat). After Cyrus's conquest, the Neo-Babylonian Chronicle records the gods "returned
+to their places," and the **Cyrus Cylinder** frames this restoration propagandistically
+as an act of piety toward Marduk (finding, Potts 1997; see [[mesopotamian-religion]]
+for the wider cult-statue-as-instrument-of-conquest pattern, including Sargon II's
+709/707 BCE restoration of the Sealand gods to [[ur]] and [[eridu]]).
+
+### Kuhrt and Sherwin-White's revisionism on Xerxes
+
+A. Kuhrt and S. Sherwin-White (1987:69-78, cited by Potts) exposed the classical
+tradition that Xerxes destroyed Babylonian temples (following a failed uprising) as
+"a late fabrication without foundation." Kuhrt further argued that the "joyful
+reception" topos applied to Alexander's 331 BCE entry into Babylon closely parallels
+earlier accounts of Sargon II's (710 BCE) and Cyrus the Great's (539 BCE) receptions,
+representing not spontaneous affection but "the final outcome of complex negotiations
+forced on the citizens by an unenviable situation" (Kuhrt 1990:126). P. Briant
+(1990:55, quoted by Potts) argues Babylonia flourished under Achaemenid rule and that
+the Babylonian elite did not regard the shift from Persian to Macedonian domination as
+progress. This is a scholarly revisionist position that directly complicates this
+page's existing "Key Debates" note on the disputed degree of Xerxes-era destruction
+(position; [[potts-mesopotamian-civilization-1997|Potts 1997]]).
+
+### Seleucid continuity, contra Strabo
+
+Potts contests Strabo's characterization (*Geog.* 16.1.5) of Babylon as "neglected and
+thrown into ruins" after Seleucia's founding, calling the account "misleading." He
+cites the Babylonian Chronicle Concerning the Diadochi showing Babylon was damaged by
+Antigonus during the power struggle with Seleucus I (311-308 BCE) as a more plausible
+explanation than "neglect." Evidence of continuity includes: renovation of the Marduk
+temple/Bit Akitu around the time of a 274 BCE partial population transfer to
+[[seleucia-on-the-tigris]]; ongoing cuneiform textual production; a Greek gymnasium
+inscription with athletic-competition winners bearing Greek/Macedonian names and
+patronymics; continued royal offerings at Babylon by the crown prince c. 308/7-294/3
+BCE; a 236 BCE temple decree; and references to "men of Babylon" and citizen
+assemblies in astronomical diaries through at least 169 BCE (reign of Antiochus IV).
+Potts states this evidence "clearly contradicts" Pausanias's claim that "only priests
+were left in Babylon" after the population transfer (attributed, Potts 1997; see
+[[seleucia-on-the-tigris]] for the fuller Seleucid-period treatment, including Potts's
+"Orientalization of the Occidentals" thesis).

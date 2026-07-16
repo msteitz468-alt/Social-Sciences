@@ -12,9 +12,9 @@ region: [mesoamerica]
 cultures: [[[classic-maya]]]
 excavated_by: ["Vanderbilt Petexbatun Project (Arthur Demarest, Héctor Escobedo, Stephen Houston); related work at Aguateca (Takeshi Inomata)"]
 excavation_years: ["[[unknown]] — large-scale 1980s–1990s Petexbatun research (as of Sharer & Traxler 2006 synthesis)"]
-key_finds: ["Main Group, Murciélagos Group (palace over cave), El Duende Group on E–W axis", "Tikal (Mutul) Emblem Glyph used by Petexbatun kings", "hieroglyphic staircase reused in palisades", "Panel 19 (bloodletting with Calakmul guardian)", "concentric palisades of 761 fall", "related Aguateca palace burn ca. 800"]
-sources_ingested: 1
-last_updated: 2026-07-10
+key_finds: ["Main Group, Murciélagos Group (palace over cave), El Duende Group on E–W axis", "Tikal (Mutul) Emblem Glyph used by Petexbatun kings", "hieroglyphic staircase reused in palisades", "Panel 19 (bloodletting with Calakmul guardian)", "concentric palisades of 761 fall", "related Aguateca palace burn ca. 800", "Structure L5-1 vaulted crypt (Itzamnaaj K'awiil candidate)", "Seibal conquest stelae 735 (Yich'aak Bahlam captive)"]
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, mesoamerica, classic-maya]
 ---
 
@@ -53,3 +53,43 @@ Dos Pilas is the textbook case that size ≠ power in Classic politics: a small 
 ## Historiography
 
 The Vanderbilt Petexbatun Project made Dos Pilas/Aguateca central to 1990s debates on Classic collapse by warfare. Epigraphy (Houston and others) and fortification archaeology converge more tightly here than at many capitals: texts of 648–679 and 761 align with burned, hastily fortified deposits. Inomata’s Aguateca “freeze-frame” palace assemblages are among the best windows on Late Classic elite craft and domestic life. Claims about “pools of blood” victory rhetoric, Lady Six Sky’s Naranjo mission, and little malnutrition evidence are as of Sharer & Traxler 2006 and should remain attributed. Primary synthesis source for this page: [[sharer-traxler-ancient-maya-2006]].
+
+## Densification from Martin & Grube 2008
+
+*(Attributed — [[martin-grube-chronicle-maya-kings-2008|Martin & Grube 2008]]; [[martin-simon|Martin]] & [[grube-nikolai|Grube]]. Complements Sharer & Traxler densification above.)*
+
+### Dual Mutal, Bajlaj Chan K'awiil, and Calakmul *yajaw* status
+
+Martin & Grube place Dos Pilas between the Pasión and Seibal zone of the Petexbatun: by ~650 an intrusive dynasty established the site amid a fractured earlier kingdom centered on Tamarindito and Arroyo de Piedra. What most puzzled scholars, they note, was Dos Pilas’s use of an [[emblem-glyph]] identical to mighty [[tikal]]’s. They present the polity’s emergence as a rare glimpse of intramural Tikal court struggle erupting into something enduring, intimately connected to the Tikal–Snake/[[calakmul]] rivalry. On Dos Pilas Panel 6, Bajlaj Chan K'awiil’s Mutal claim appears to make him son of Tikal’s poorly known 23rd or 24th ruler — at least half-brother to Nuun Ujol Chaak. Narrative on Hieroglyphic Stairway 2 begins in earnest on a single day in **648** (battle victory + death of another Mutal lord of Tikal, poorly understood).
+
+In **650** Yuknoom the Great attacks Dos Pilas; Bajlaj flees to Hix Witz; by **657** he is *yajaw* of Calakmul after submission, while Calakmul’s greater success overwhelms Tikal and forces Nuun Ujol Chaak to flee — both Mutal-titled lords attend a ceremony of heir Yich'aak K'ahk' before 662. Stephen Houston’s “Tikal civil war” opens **672** when Nuun Ujol Chaak seizes Dos Pilas; pursuit **673** drives Bajlaj again to Hix Witz (Zapote Bobal); Calakmul restores him **677** the same day of Nuun Ujol’s defeat. Climactic **679** clash: “flints and shields” of Nuun Ujol Chaak “brought down,” noble Nuun Bahlam captured — no explicit Calakmul mention, though Martin & Grube think Snake help likely. Thereafter Dos Pilas is a real “anti-kingdom” with regional reach. Site scale: little prior occupation 4 km from Arroyo de Piedra; population would not have exceeded ~5,000; monuments pay clear homage to Calakmul patrons. Two recorded visits to Calakmul: 682 dance with Yuknoom the Great (9.12.10.0.0); 686 accession of Yich'aak K'ahk'. Daughter **Lady Six Sky** is later sent to found a new dynasty at [[naranjo]] (p. 74 of their synthesis).
+
+### Consolidation, Seibal, and 761 collapse
+
+Under Itzamnaaj K'awiil (698–726) fighting with Tikal continues (705 victory credited to future Ruler 3 / Ucha'an K'in Bahlam) while local hegemony grows (Aguateca stela; Seibal image; Arroyo de Piedra vassal). His death (October 726, age 53) is recorded at Tikal only as “He of Dos Pilas,” denying the Mutal title. Ruler 3 (727–741) conquers Seibal (735), shows captive king Yich'aak Bahlam on paired Dos Pilas/Aguateca stelae, and develops Aguateca as twin capital; Panel 19’s Calakmul “Guardian” of the prince and Cancuen marriage signal enduring Snake influence and highland-gate alliance. From 735 he prefers a rarer Mutal emblem form rarely used at Tikal — possible identity differentiation after Calakmul’s decline.
+
+**K'awiil Chan K'inich** (741–761) supervises Seibal and Tamarindito (746–747); vanquished Yich'aak Bahlam continues as subordinate king — classic [[overkingship]]. In **761** Tamarindito records his “going away” (usually death in war), flight, and an axe attack; he is not heard of again and Dos Pilas is all but abandoned. Martin & Grube’s structural reading: small core population over-reliant on vassals; bilateral support networks with Calakmul “all but extinct.” After 761, petty kings proliferate the once-exclusive “Holy Lord of Mutal” title (Ajaw Bot at Seibal from 771; La Amelia etc.); last Mutal emblem in the Petexbatun 807 at La Amelia under Aguateca’s Tahn Te' K'inich. Demarest-project archaeology (as they synthesize): squatters strip façades for palisades; “killing alley” spear-points and decapitated skeletons suggest early-9th-century overwhelm; Punta de Chimino as late refuge; Seibal later resurgence.
+
+*associated_with:* dual-Mutal rivalry with [[tikal]]; Calakmul [[overkingship]]; Lady Six Sky bridge to [[naranjo]]; Seibal subordinate then post-collapse rival.
+
+## Densification from Schele & Freidel 1990
+
+*(Attributed — [[schele-freidel-forest-of-kings-1990|Schele & Freidel 1990]], Ch. 5 and endnotes. 1990 nicknames retained; later forms: **Flint-Sky-God K** → B’alaj Chan K’awiil; **Lady Wac-Chanil-Ahau** → Lady Six Sky; **Shield-God K** → Itzamnaaj K’awiil (approximate later match for the 698 successor in other syntheses—confirm against full phonetic corpus). **Tlaloc-Venus / star-war framing is theory/position of Schele & Freidel**, not wiki-voice fact. Note chronological tension: Schele & Freidel place foundation declaration in **645**; Sharer & Traxler / Martin & Grube densifications above use **629 “arrival” / ~648–650 war** sequences—file both as attributed periodizations.)*
+
+### Founding, shared Emblem, and marriage politics
+
+Schele & Freidel: **Flint-Sky-God K** declares kingship at Dos Pilas on **9.10.12.11.2 (5 July 645)**; Dos Pilas **shared its [[emblem-glyph]] with [[tikal]]**; authors say the ruling family was **possibly an offshoot of the Tikal royal lineage**—highborn individuals who left Tikal sometime after its downfall (C5-029). Endnote **C10-040:** shared Emblem (Berlin 1958); earlier colony/conquest-base theories (Marcus; Coggins); Houston & Mathews (1985) see intrusion by a Tikal royal segment during the hiatus via intermarriage/war, **independent of Tikal**—authors accept independence **plus competitive tension** as Tikal rebuilt prestige after the Caracol defeat.
+
+He consolidates power via **marriage alliances**: marries a woman of Itzan (two sons); sends women of his house to El Chorro and El Pato; later sends daughter **Lady Wac-Chanil-Ahau** to [[naranjo]] to reestablish a royal house (C5-030; [[overkingship]] / [[kuhul-ajaw]] export). Capture of **Tah-Mo’** (“Torch-Macaw”) on **2 March 664** begins ~20 years of campaigns (664–684), including several Tlaloc-Venus wars (**authors’ label**); captives named personally, kingdoms often not (C5-031).
+
+### Jaguar-Paw of Calakmul and the Petén power shift
+
+Contemporary **Jaguar-Paw** of [[calakmul]] (as of 1990; later Yuknoom Yich’aak K’ak’) appears on looted Site Q panels and Dos Pilas Hieroglyphic Stairs; birth 9 October 649 (C5-032). Around 9.11.10.0.0 young Jaguar-Paw participates with Flint-Sky-God K in ceremony at **Yaxha**; **25 February 683** another ritual on Lake Petexbatún near Dos Pilas—authors infer significant connection/possible alliance (C5-033). Jaguar-Paw’s accession **6 April 686** “was seen (*yilah*)” by Flint-Sky-God K, captor of Tah-Mo’, at **Nab Tunich** (Calakmul toponym); also at El Perú; commemorated on Dos Pilas **Stela 13** next to Hieroglyphic Stairs 2—juxtaposition associates Dos Pilas’s founding with Calakmul accession (C5-034). Looted pot: Jaguar-Paw kneeling in subordination before a Dos Pilas lord—godfather / non-interference / coercion scenarios left open (C5-035).
+
+**Strategic reading (theory):** by neutralizing Calakmul, Flint-Sky-God K extended influence east toward defeated Naranjo and **effectively removed [[caracol]] as a major player** in coming events; war and marriage as primary political instruments forged a new Petén pattern (C5-036). Lady Wac-Chanil-Ahau’s Naranjo arrival rituals begin **30 August 682**—116 days after Ah-Cacaw’s Tikal accession (C5-037; see [[naranjo]] densification). Smoking-Squirrel’s wars later draw support from grandfather Flint-Sky-God K and half-brother **Shield-God K**, who becomes Dos Pilas ruler **27 March 698** (9.13.6.2.0)—securing Lake Yaxha corridor (C5-047).
+
+### Speculative 695 outcome and chapter synthesis
+
+After Tikal’s capture of Jaguar-Paw (8 August 695), Schele & Freidel **ask openly** whether Flint-Sky-God K delivered Jaguar-Paw to Ah-Cacaw; they note Dos Pilas **benefited**—Calakmul–Caracol axis broken, free hand in the Petexbatún for ~80 years consolidating a conquest state (C5-061—**open question, not finding**). Chapter synthesis tangle: possible Tikal branch founded Dos Pilas; Flint-Sky-God K befriended Calakmul heir and sent daughter to reestablish Naranjo; Tikal attacked Calakmul (Dos Pilas ally) while Naranjo rampaged toward Caracol (C5-060). Incised bones in Ah-Cacaw’s tomb record death of Shield-God K of Dos Pilas; authors infer any breach over Jaguar-Paw capture was repaired by Ah-Cacaw’s demise (C5-065). Closing Ch. 5 frame: Maya civilization as interrelationships of many polities—alliance, war, marriage; Venus-Tlaloc warfare as an innovative idea mutually elaborated in that peer network (C5-067; [[overkingship]]).
+
+*associated_with (as of Schele & Freidel 1990):* dual-Emblem / possible Tikal offshoot; Calakmul ceremonial bond then post-695 free hand; Lady Wac-Chanil-Ahau bridge to [[naranjo]]; strategic eclipse of [[caracol]] in Petén politics.

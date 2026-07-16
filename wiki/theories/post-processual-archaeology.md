@@ -19,8 +19,8 @@ core_claims:
 developed_from: ["[[processual-archaeology]] (reacted against)", "hermeneutics", "practice theory and structuration", "feminist and Marxist archaeology", "critical social theory (Laclau & Mouffe, Althusser, Giddens as used by S&T)"]
 competes_with: ["[[processual-archaeology]]", "strict covering-law positivism in archaeology", "universal field-method packages", "neo-evolutionary stage models"]
 status: active
-sources_ingested: 10
-last_updated: 2026-07-10
+sources_ingested: 12
+last_updated: 2026-07-15
 tags: [theory, archaeology]
 ---
 
@@ -62,7 +62,7 @@ Reacted against [[processual-archaeology]]’s covering-law ambitions, middle-ra
 | [[shanks-michael|Shanks]] & [[tilley-christopher|Tilley]] *[[shanks-tilley-social-theory-and-archaeology-1987|Social Theory and Archaeology]]* (1987) | **Critical/metatheoretical charter** — theory-as-practice; [[logic-of-contingency]]; MC as signifying practice; politics of theory |
 | Shanks & Tilley *[[shanks-tilley-reconstructing-archaeology-1987|Re-Constructing Archaeology]]* (1987/1992) | **Critical practice charter** — positivism/value-freedom critique; [[fourfold-hermeneutic]]; [[social-archaeology]] ontology; [[redemptive-aesthetic]]; style/beer-can analyses; 1992 Appendix replies to critics |
 | Hodder *[[hodder-archaeological-process-1999|The Archaeological Process]]* (1999) | Reflexive **field method** program; Çatalhöyük laboratory |
-| Barrett, Thomas, Gosden; Gero & Conkey; Leone; McGuire | Structurationist, phenomenological, feminist, Marxist strands |
+| Barrett, Thomas, Gosden; Gero & Conkey; [[leone-mark-p|Leone]] ([[critical-archaeology]]); McGuire | Structurationist, phenomenological, feminist, Marxist strands |
 | Field experiments | Bender et al. Bodmin Moor multivocality; Çatalhöyük project |
 | [[feminist-archaeology]] charter | *[[gero-conkey-engendering-archaeology-1991|Engendering Archaeology]]* (1991) — feminist strand with independent resources; Hodder Social Archaeology series institutional home |
 
@@ -100,6 +100,13 @@ Twelve practical steps at Çatalhöyük (as Hodder lists them, 1999) are catalog
 `active` as vocabulary and partial practice (context, meaning, multivocality, heritage politics, reflexive recording experiments) even where few projects implement the full Çatalhöyük package. Often blended with processual techniques (dating, survey, quantification) in “processual-plus” or interpretive-processual hybrids. Standing debate: [[processual-postprocessual-debate]].
 
 **Later development — entanglement.** Hodder’s *[[hodder-entangled-2012|Entangled]]* (2012) is best read as a **rebalancing inside** the interpretive lineage rather than a break with it: meaning and context remain, but the gaze shifts to TT/TH dependences, object chemistry and decay, [[fittingness]], and directional intensification of [[entanglement]]. See [[entanglement-theory]] and [[hubs/theory/entanglement-theory]].
+
+### Public synthesis and mature multivocal report form (Hodder 2006 / ed. 2022)
+
+*(Attributed densification — not a new core claim of the program.)*
+
+- ***[[hodder-leopards-tale-2006|The Leopard’s Tale]]*** (2006) is Hodder’s mid-project **public synthesis of reflexive field results** at [[catalhoyuk|Çatalhöyük]]: leopard symbolism and wild/domestic contradictions, house-centred social geography, rejection of Mellaart shrine dualism ([[catalhoyuk-shrine-house-debate]]), “invention of history,” gender/stakeholder multivocality. It packages [[interpretation-at-the-trowels-edge]] and specialist science (isotopes, micromorphology, flotation) for non-specialist readers without abandoning the interpretive program’s attribution of meaning claims.
+- ***[[hodder-catalhoyuk-excavations-2009-2017|Çatalhöyük Excavations: The 2009–2017 Seasons]]*** (Hodder ed. 2022) is a **mature multivocal excavation-report form**: multi-author unit catalogues that quote diaries, feature sheets, and specialist tours in-text; interpretive category + probability tagging; priority tours as team interpretation; Bayesian chronology collaboration (Bayliss et al. 2022 Ch.19) inside the same recursive apparatus. Operationalises the 1999 method charter at full monograph scale after the final main field phase, while acknowledging English-language and supervisor selection biases in “multivocal” quotation.
 
 ## Reflexivity
 

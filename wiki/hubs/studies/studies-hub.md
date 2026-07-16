@@ -41,7 +41,15 @@ Single source of truth (create on first hub ingest, then lock):
 ---
 
 ## Completed
+
+### The Early Mesoamerican Village (Flannery ed., 1976)
+- Summary: [[flannery-early-mesoamerican-village-study]]
+- Hub: [[hubs/studies/flannery-early-mesoamerican-village-study]]
+- Multi-scalar Formative village charter; household cluster; sampling; catchment; exchange; sanctification
+
 - [[hubs/studies/labov-language-inner-city-study|Labov — Language in the Inner City (1972)]] — BEV structure, anti-deficit polemic, peer-group reading failure, sounding, narrative model (2026-07-15)
+
+- [[hubs/studies/binford-bones-study|Binford — Bones: Ancient Men and Modern Myths (1981)]] — actualistic taphonomy vs. modern myths; osteodontokeratic/home-base critique; Olduvai scavenging conclusion; hunting-vs-scavenging debate; association ≠ integration (2026-07-15)
 
 ### In the Society of Nature (Descola, 1994)
 - Summary: [[descola-society-of-nature-study]]
@@ -358,3 +366,4 @@ Single source of truth (create on first hub ingest, then lock):
 - [[hubs/studies/wolf-peasant-wars-study|Wolf — Peasant Wars of the Twentieth Century (1969)]] — comparative peasant revolution; middle-peasant / tactical-mobility thesis (ingested 2026-07-10)
 
 - [[hubs/studies/taussig-shamanism-colonialism-study|Taussig — Shamanism, Colonialism, and the Wild Man (1987)]] (added 2026-07-15)
+- [[hubs/studies/mcintosh-jenne-jeno-study|McIntosh Jenné-jeno Program / *Ancient Middle Niger* (2005)]] — City without Citadel; heterarchy; Urban Clusters (added 2026-07-15). Summary: [[mcintosh-jenne-jeno-study]].

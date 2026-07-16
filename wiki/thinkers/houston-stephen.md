@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["[[coe-houston-the-maya-2015|The Maya]] (9th ed., co-author)", "epigraphic and field monographs on Classic Maya courts (as cited in Coe & Houston 2015)"]
 key_concepts: ["Classic Maya political geography", "court-centered epigraphy", "pibnal / sweat-bath reading of Palenque Cross Group"]
 fieldwork_sites: ["Petexbatun / Aguateca region (defensive-wall mapping, via Coe & Houston 2015)", "Tamarindito terraces", "El Zotz project (as credited in 2015 apparatus)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -39,3 +39,7 @@ Epigraphic historical narratives depend on incomplete inscription samples and ro
 ## Historiography
 
 Primary for this wiki via *The Maya* 9th ed.; specialist monographs and project reports outstanding for densification.
+
+### From Coe, *Breaking the Maya Code* (2012)
+
+[[coe-breaking-the-maya-code-2012|Coe (2012)]] places Houston among advisers who updated post-1992/1999 editions and in the “Young Turks” hard core (with [[stuart-david|David Stuart]], Mathews, Taube, MacLeod, Grube), under [[schele-linda|Schele]] and [[lounsbury-floyd|Lounsbury]]. Born 1958, Chambersburg, PA; Penn summa; Yale study under Lounsbury, Coe, and Mary Miller (with Karl Taube)—Coe says they taught him more than he taught them. Coe-attributed epigraphic moves include free substitution of “four,” “snake,” and “sky” logographs for *kan* (Yucatec) / *chan* (Ch’olan); with Taube and others, reading the ceramic Primary Standard Sequence largely as name-tagging (*u lak* “his dish”; *y-uch’ib* “his/her drinking vessel”); independent 1989 *way* (*wa-y(a)*, nagual/co-essence) proposal with Grube; joint work with Stuart on toponyms introduced by *ut-i* and on ceramic imagery (Houston–Stuart argue death/afterlife is not the dominant vase theme—Coe disagrees); late-1990s synharmony/disharmony solution with Stuart and Robertson; and integrated field epigraphy at Piedras Negras as Coe’s model of epigraphy as “handmaiden” of excavation. Debated_in: [[maya-script-decipherment-debate]]. Concept: [[maya-hieroglyphic-writing]].

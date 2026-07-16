@@ -5,13 +5,13 @@ date_death: ["[[unknown]]"]
 disciplines: [archaeology]
 era: [postwar-expansion]
 affiliated_theories: ["[[unknown]]"]
-trained_under: ["[[unknown]]"]
-trained: ["[[unknown]]"]
-key_works: ["1966 excavations at Dainzú"]
+trained_under: ["[[caso-alfonso]]"]
+trained: ["John Paddock"]
+key_works: ["1966 excavations at Dainzú", "Caso, Bernal & Acosta, La cerámica de Monte Albán (1967)"]
 key_concepts: ["[[unknown]]"]
 fieldwork_sites: ["Dainzú (1966)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -52,3 +52,9 @@ integration brief and may be expanded on future ingest of biographical sources.
 
 [[cultures/mixtec-culture]] · [[concepts/mesoamerican-ballgame]] ·
 [[sources/coe-koontz-mexico-2013]]
+
+## Ancient Oaxaca 2nd edition (Blanton, Feinman, Kowalewski & Nicholas 2022) — ceramic chronology and genealogy
+
+*(Attributed — Blanton, Feinman, Kowalewski & Nicholas, [[blanton-ancient-oaxaca-2022|Ancient Oaxaca: The Monte Albán State]], 2nd ed., 2022.)*
+
+Bernal is identified as [[caso-alfonso|Alfonso Caso]]'s student and co-author (with Caso and Eduardo Acosta) of the foundational Valley of Oaxaca ceramic chronology (Caso, Bernal & Acosta 1967), which remains the chronological backbone of the Monte Albán I–V periodization used throughout the 2022 book. The book also credits Bernal with later directing his own excavations and with training John Paddock, who went on to work in Oaxaca with [[flannery-kent-v|Kent Flannery]] — placing Bernal at a genealogical hinge between Caso's founding generation of Oaxaca archaeology and the later Michigan-school survey and excavation program synthesized in this volume.

@@ -15,8 +15,8 @@ preceded_by: ["Starčevo / Starčevo-Körös-Criș continuum (as of Gimbutas 199
 succeeded_by: ["Balaton and Lasinja complexes as Vinča-derived displacements (Gimbutas thesis); regional Copper Age successors contested"]
 language_affiliation: "Not established; Old European script thesis is not a language identification (see [[old-european-script]])"
 genetic_signature: "Not in Childe 1929 / Gimbutas 1991 primary frame (pre-aDNA); gracile Mediterranean type continuous from Starčevo is her physical-anthropology claim only"
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [culture, neolithic, balkans, old-europe]
 ---
 
@@ -112,4 +112,42 @@ Under the [[kurgan-hypothesis]] as stated in *Civilization of the Goddess*, **Wa
 
 ## Historiography
 
-Type-site name remains standard; Childe's Aegean-colonisation emphasis is one 1929 position among later autochthonous and network models. Renfrew's 1973 independent-invention reading is now the mainstream frame for metallurgy chronology; Gimbutas 1991 supplies the fullest vault densification of settlement scale, figurine/temple inventory, Rudna Glava, and the Kurgan-wave end narrative — all recorded in attributed voice. Primary sources on this page: [[childe-danube-in-prehistory-1929]], [[renfrew-before-civilization-1973]], [[gimbutas-civilization-of-the-goddess-1991]].
+Type-site name remains standard; Childe's Aegean-colonisation emphasis is one 1929 position among later autochthonous and network models. Renfrew's 1973 independent-invention reading is now the mainstream frame for metallurgy chronology; Gimbutas 1991 supplies the fullest vault densification of settlement scale, figurine/temple inventory, Rudna Glava, and the Kurgan-wave end narrative — all recorded in attributed voice. Whittle 1996 (below) adds anti-elite community/aggregation-dispersal readings and non-synchronous end chronology against single kurgan shockwaves. Primary sources on this page: [[childe-danube-in-prehistory-1929]], [[renfrew-before-civilization-1973]], [[gimbutas-civilization-of-the-goddess-1991]], [[whittle-europe-in-the-neolithic-1996]].
+
+## Whittle densification (1996)
+
+*(All claims attributed to [[whittle-alasdair|Alasdair Whittle]], *[[whittle-europe-in-the-neolithic-1996|Europe in the Neolithic]]* 1996, Chs. 1, 4–5. Mid-1990s cal BC; pre-aDNA. Vinča is a **material-culture construct**—ceramic style ≠ political tribe ≠ language ≠ genes.)*
+
+### Extent, duration, settlement diversity (as of Whittle 1996)
+
+Whittle places Vinča from mid **6th** to mid **5th** millennium BC or later, across Serbia/Bosnia/Croatia/W Romania: more numerous and more widely spread sites than Starčevo in many areas. Vinča tell continued (~**6 ha**, ~**7 m** Vinča deposits, main phase earlier Vinča); new tells e.g. Gomolava; large flat sites **Selevac** (~50+ ha, c. 5100–4400 BC, max ~3 m buildup, shifting foci), Potporanj; many smaller occupations. By mid 5th mill. late Vinča / Krivodol–Bubanj Hum often **reversion to dispersed smaller units**. Only two known burial grounds in his account (Gomolava intramural; Botoš separate). Plain dark fine pottery; copper from **Rudna Glava** etc. Expansion not everywhere (middle Morava little increase; Anza ends ~5000 BC). He notes fewer Balkan scholars by the mid-1990s explained Vinča by southern population arrival—yet an “enormous disposition to believe in colonisation” still shaped SE European narratives (**historiographic position**).
+
+### Selevac and Opovo — aggregation/dispersal, not elite households
+
+**Selevac (POSITION/FINDING):** series of shifting smaller foci (perhaps 3–15 ha) within ~50 ha; four building phases of rectangular post-and-daub, often deliberate burning; structures more solid over time; early vertical replacement then later horizontal displacement—may show **reluctance for a fixed long-term place**; abundance of material culture as social relationships (exchange, gift, hospitality) consolidating community; large sites may draw occupants from a wide area with multiple allegiances. Against Tringham-style **autonomous competing households** fissioning into late Vinča pattern: house≠household equation weak; later Divostin still ordered freestanding houses with common style/orientation (**position**).
+
+**Opovo** (Banat wetlands): large low mound ~200 m diameter, 3 main levels, 2+ centuries later Vinča ~**4700–4500 BC**; houses copy prior orientation/plots; most burned—perhaps deliberate but communally sanctioned; domesticates + cereals + much wild game; little copper; possibly seasonal; reflects less stable later Vinča dispersal.
+
+### Tărtăria and figurines
+
+Tărtăria pit into earlier Vinča level: 26 clay figurines, 2 alabaster figurines, clay “anchor,” *Spondylus* bracelet, **3 unbaked inscribed clay tablets**, + burnt broken disarticulated adult male bones. Whittle allows shaman/spirit-medium burial claims but also foundation offering / ancestor-related readings; similar signs on Vinča pot bases (e.g. Divostin). Distinctive mask-like triangular faces, large eyes, body decoration, often seated figurines—**principal context domestic**; large figurines Predionica. Compare Renfrew’s “independent local sign-system, not writing” and Gimbutas’s sacred-script thesis already on this page—**no wiki-voice adjudication**.
+
+### Copper and early metallurgy (aligns with Renfrew independence frame)
+
+Simple 6th mill. beads/hooks (Vinča, Selevac, etc.); slag Anza IV ~**5000 BC** confirms smelting; **Rudna Glava** (NE Serbia, later Vinča pottery) among extraction sites with Ai Bunar and Prljusa–Mali Sturac. Gold rare in the Vinča area relative to Varna. Whittle rejects generalised “centralised cult in Vinča” and Copper Age hierarchy packages as over-general (**position**).
+
+### Ceramic identities without political unity
+
+Early 5th mill. mosaic including large Vinča shifts by late Copper Age to fragmented late Vinča / Krivodol–Bubanj–Salcuța beside the Karanovo VI–Gumelnița bloc. Conventional tribe/political-unity reading of ceramic distributions **rejected**; better as shared identity ideas without political unity; goods cross “cultural” boundaries (**position**; four-way non-identity).
+
+### End sequence and non-synchronous change (Ch.5)
+
+Radiocarbon may put widespread Vinča end **earlier than** the Karanovo VI complex, **before 4000 BC**; successor Salcuța IV–Bubanj Hum–Krivodol spans end Copper Age into the transition; hilltop occupations (Bubanj, Hum, Krivodol); handled jugs/cups + graphite decoration; continues later Vinča dispersal. Gomolava later levels pits (Baden, Kostolac, Vučedol). **Late Vinča settlement-pattern alterations precede Usatovo–Horodiștea by up to a millennium**—external-stimulus explanations that assume a narrow successive horizon are weakened; internal-factor explanations fit gradual/varying-rate transformations (**position** against Gimbutas-type synchronous Wave 1 catastrophe as sole driver). In his synthesis, abandonments (Selevac, Opovo, Hungarian plain Tisza orbit) may show aggregation points **falling away successfully**, not household competitive rise; weak evidence for intensification/marked differentiation (**position**).
+
+### Links
+
+- source: [[whittle-europe-in-the-neolithic-1996]] · [[whittle-alasdair]]
+- preceded_by / associated_with: [[starcevo-koros-cris-culture]] · [[karanovo]] (networks, not identity)
+- concurrent contact: [[varna]] Copper Age exchange world
+- later pits/correlates: [[baden-culture]]
+- debated_in: [[farming-spread-europe-debate]] · [[old-europe-goddess-civilization-debate]]

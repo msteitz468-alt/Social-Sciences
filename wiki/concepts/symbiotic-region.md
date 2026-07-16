@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "A region of pronounced ecological diversity over short distances, whose micro-environmental complementarity drives specialization, exchange, and demographic-competitive pressure toward political integration and urbanism"
 contested: yes
 related_concepts: ["[[nuclear-area]]", "[[state-formation]]", "[[urban-revolution]]", "[[cultural-ecology]]", "[[chiefdom]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [concept, archaeology]
 ---
 
@@ -36,6 +36,33 @@ Archaeologically inferred from: paired zones of contrasting subsistence potentia
 ## Applications
 
 Used to explain why highland central Mexico, rather than the initially more productive Gulf lowlands, became the durable core of Mesoamerican political-economic development (the [[nuclear-area]] shifting via the Law of Evolutionary Potential); why the lowland Maya, lacking local symbiosis in a geographically uniform environment, developed states but not true cities ("[[state-formation|civilizations without cities]]"); and, comparatively, as the New World parallel to the ecological mosaics of other pristine-state regions.
+
+## The Basin of Mexico Project and a Partial Self-Retraction (1979)
+
+Sanders's Central Mexican Symbiotic Region, defined on ethnohistoric and
+archaeological grounds in Sanders (1956), directly shaped the design of the Basin of
+Mexico settlement-pattern project: per [[sanders-parsons-santley-basin-of-mexico-1979]]
+(*The Basin of Mexico*, 1979), Sanders conceived the region — comprising the Basin
+plus adjacent southern Hidalgo, western Tlaxcala–Puebla, and Morelos — as the "nuclear
+region" (see [[nuclear-area]]) where a complex Mesoamerican civilization could evolve,
+founded on high productivity, dense population, and intensive specialization and
+exchange. The 1960 project's original plan was to survey the entire Symbiotic Region,
+but this proved too large and the project confined itself to the Basin of Mexico
+alone.
+
+In the same 1979 volume, however, Sanders, Parsons & Santley qualify and partially
+retract the symbiotic-region model as an explanation of early political
+centralization specifically, even while retaining it for the Late Horizon. They
+argue the model explains Late Horizon regional integration reasonably well, but works
+poorly as an account of the *origin* of centralization, because First Intermediate
+period settlement was concentrated in narrow piedmont bands where nearly all resource
+zones were locally accessible within single communities — meaning there was no strong
+symbiosis-driven exchange dependency to generate early chiefdoms or states in the
+first place. This is a documented revision by the model's own originators, recorded
+here rather than silently updated: the 1956/1968 symbiotic-region thesis stands as
+originally stated above for explaining Late Horizon integration and the region's
+general economic logic, while the authors' 1979 position restricts its explanatory
+reach for pristine state formation.
 
 ## Critiques and Limitations
 

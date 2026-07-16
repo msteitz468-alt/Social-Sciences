@@ -13,8 +13,8 @@ cultures: ["[[harappan-civilization]]"]
 excavated_by: ["Walter A. Fairservis (1975–76)"]
 excavation_years: ["1975–76"]
 key_finds: ["jewelry jar hoard (long carnelian belt, silver, recycled gold)", "cubical chert standardized weights", "small-settlement well/irrigation evidence (as cited)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [site, bronze-age, south-asia]
 ---
 
@@ -56,3 +56,9 @@ This interpretation is theoretical — alternative loss/ritual-deposition models
 ## Historiography
 
 Allahdino’s fame is almost entirely the Fairservis hoard plus Kenoyer’s synthesis. The site remains thin for settlement-scale social reconstruction; use it for craft/trade and wealth-storage arguments, not as a demographic type-site.
+
+## Wright (2010)
+
+*(Attributed — [[wright-rita-p|Rita P. Wright]], *[[wright-ancient-indus-2010|The Ancient Indus]]* 2010, chs. 6, 7, 9.)*
+
+Wright records one hoard at Allahdino (compare twelve at Mohenjo-daro, seven at Harappa, four large at [[chanhudaro]], three at [[lothal]]), consistent with the pattern of caches concentrated at craft/trade nodes and larger cities rather than evenly distributed across settlement sizes. A fish-bone study (Belcher 2003) covering Harappa, [[nausharo]], Balakot, and Allahdino found freshwater catfish the principal fish exploited at all four sites, most likely taken via seasonal winter backwater fishing, with a few marine catfish specimens at Harappa alone indicating import from coastal settlements. In lithic-supply studies, Allahdino is grouped with Balakot as a site where chert cores are underrepresented relative to finished tools — prepared blades were apparently imported already made and further modified locally into drills and scrapers (Dales 1982:156), unlike Harappa, where chert-weight production began from prepared nodules on-site (Dales and Kenoyer 1989).

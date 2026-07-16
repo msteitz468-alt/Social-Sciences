@@ -13,8 +13,8 @@ cultures: ["[[mississippian-culture]]"]
 excavated_by: ["commercial looting (Pocola Mining Co.) then archaeological recovery; synthesis as of Milner 2021"]
 excavation_years: ["1930s commercial destruction; later archaeological work"]
 key_finds: ["Craig Mound elite mortuary assemblage", "SECC-related iconography", "exotics including debated Mesoamerican-linked items"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, eastern-north-america, mississippian]
 ---
 
@@ -39,3 +39,15 @@ Mississippian mound center on the western edge of the Mississippian world; elite
 ## Key Debates
 
 Craig Mound as chiefly tomb vs multi-phase ritual deposit; SECC as “cult” vs style complex; Mesoamerican influence vs independence.
+
+## Pauketat 2009 additions
+
+*(Attributed — [[pauketat-cahokia-2009]].)*
+
+- **1933 looting**: a company of men opened the "Great Mortuary" — dubbed by a Kansas City Star reporter "A 'King Tut' Tomb in the Arkansas Valley" — the richest single burial-goods deposit then unearthed in the US.
+- **Reinterpretation (facts + Pauketat's gloss):** later ground-penetrating radar and excavation showed Spiro was never very populous and lacked powerful rulers [FACT]; the Great Mortuary hoard is now read as a composite of exotica assembled by high-ranking Spiroans — probably traders — "creating in death... the appearance of political power" (Pauketat's interpretive framing).
+- **Cahokia connections:** the "Chunkey Player" red-flintclay pipe (~1100 CE, found near Ocmulgee, OK) and ~two dozen similar sculptures were proved by Thomas Emerson's PIMA mineral analysis (2000–2003) to be made of flintclay from ~20 miles west of [[cahokia]] — Cahokia-made exports, overturning Perino's local-bauxite attribution. Spiro also holds the **only confirmed pre-Columbian Mesoamerican artifact in eastern North America**: a single small chip of Mexican obsidian (possibly via indirect Rio Grande Pueblo trade). See [[chunkey]].
+
+## Pauketat 2007 additions
+
+*(Attributed — [[pauketat-chiefdoms-delusions-2007]].)* Sequence context: modest Late Fourche Maline / Early Caddoan Harlan-phase mortuary sites (Spiro, Harlan, Reed) preceded prominence; Spiro's peak (A.D. 1250–1400) commemorated the ancestral Early Caddoan place while adopting Mississippi-valley agriculture; most Spiroans lived outside the sparse ceremonial center; the Craig Mound great mortuary chamber was constructed and buried ~A.D. 1400 (Brown 1996). James Brown (2005): "Spiro, which started receiving precious goods from Cahokia in the twelfth century, was also the most influenced by Cahokian ideology" — Pauketat's gloss: "peripheral players in a game centered far to the east" (his framing).

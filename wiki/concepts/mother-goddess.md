@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Female figurines and related images read as a personalized Goddess (fertility, maternity, mastery of wild animals) dominating early Neolithic symbolic systems (Cauvin); for Gimbutas, a multi-aspect Nature Goddess (life / death / regeneration) with Paleolithic continuity into Old Europe"
 contested: yes
 related_concepts: ["[[revolution-of-symbols]]", "[[khiamian]]", "[[symboling]]", "[[fractionation-of-religion]]", "[[catalhoyuk-shrine-house-debate]]", "[[old-europe]]", "[[matrifocality]]"]
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [concept, archaeology, neolithic, religion]
 ---
 
@@ -51,3 +51,18 @@ Ideology-before-economy arguments; history of religions long-range narratives; f
 ## Critiques and Limitations
 
 Highly contested. Göbekli Tepe animal imagery often read against fertility-goddess models. Risk of projecting Bronze Age and classical goddesses backward. Gimbutas’s method commitments (Paleolithic–historic folklore continuity; morphological analogy such as bucranium–uterus; ethnographic parallels as confirmatory) are themselves disputed; male absence from temples explained by “worship in nature which has left little record” is an argument from silence. Keep in **attributed** voice; never wiki-voice “the Neolithic worshipped a mother goddess.” Full positions: [[old-europe-goddess-civilization-debate]]; source: [[gimbutas-civilization-of-the-goddess-1991]].
+
+### Hodder 2006 challenges (Çatalhöyük project synthesis)
+
+*(Attributed positions — [[hodder-ian|Hodder]], *[[hodder-leopards-tale-2006|The Leopard’s Tale]]* 2006, esp. Chs. 1 and 9; not a field-wide consensus and not a claim that Neolithic people “had no goddess.” Cross-links [[catalhoyuk-shrine-house-debate]].)*
+
+Hodder’s mid-project synthesis challenges **strong mother-goddess / female-dominance** readings of Çatalhöyük as primary social organising principle, while keeping multivocal dialogue with goddess constituencies:
+
+1. **Stable isotopes and sex (as of mid-2000s project data).** Carbon and nitrogen isotope values on male and female bones show **no relationship between sex and diet** (Fig. 92; Richards/Pearson work as synthesised 2006). Hodder argues there is very little evidence sex was very important in overall role distribution; childbirth-related lifestyle differences do not appear to produce marked social separation.
+2. **Burial and grave goods.** Naomi Hamilton’s review of earlier and current data found no firm sex-differentiated burial placement (contra Mellaart’s expectations); male and female burial forms appear similar. Some grave-good differences (Mellaart) exist but n is small; beads common to both sexes — differences are relatively few compared with societies that treat male and female dead under wholly different regimes.
+3. **Figurine re-readings.** Most figurines are **sexless**; some bearded, others with clear breasts — the latter and figures thought female concentrate in **upper layers**, some around hearths (vs most figurines from middens). A 2004 clay figurine (Plate 22) has a fleshy female front (breasts, swollen belly) but a **skeletal/emaciated back** (ribs, spine visible) — Hodder records open readings (woman returning to ancestor; linked to death; uniting death and life) that **broaden female imagery beyond fertility alone**, challenging single-function mother-goddess reduction of the famous seated feline figurine (Mellaart Plate 24 / grain bin).
+4. **Art vs practice tension (attributed).** Daily-life findings of weak sex differentiation can seem to contradict stronger sex marking in representational art (bearded men in leopard skins; few clear female figures; many indeterminate). Hodder treats art politics as potentially masking inter-sex relations rather than as transparent theology.
+5. **Sampling-frame caution.** Most “similar lifestyles/diets/burial” evidence comes from lower–middle levels through Level V; as of writing (2006), upper-level burials were not yet excavated while most clear sex-distinct art appears at Level V and above — temporal scope of the equality claim is limited.
+6. **Stakeholder ethics (Position, not finding).** Arguments that women did not take a strongly sex-marked role anger many goddess-cult advocates; Hodder holds it unethical to support a possibility indicated by very little evidence, yet reports dialogue in which new findings of everyday equality can revise goddess-group views without archaeologists authenticating religious goddess presence (Ch.1/9). Fashion, music, and installation-art stakeholders further circulate goddess imagery outside academic control.
+
+These points challenge Cauvin/Mellaart/Gimbutas-style **universal fertility-mother** packaging of Çatalhöyük imagery when used as social-structure evidence; they do **not** by themselves refute Near Eastern goddess historiography at other sites or later periods. Keep attributed; promote only where independent multi-class convergence is documented.

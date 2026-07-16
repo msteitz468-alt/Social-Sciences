@@ -55,3 +55,12 @@ Stub from Wilkinson/Kemp ingests; specialist Karnak/West Bank monographs outstan
 - **Late New Kingdom–TIP** high-priest power, dual rule with northern dynasts.
 - **Assyrian sack of Thebes** (Ashurbanipal era) as national trauma in Part V.
 - **Place of Truth** necropolis workforce (Deir el-Medina complex) — strikes under Rameses III and tomb-robbery scandals in late Ramesside narrative.
+
+## Assmann densification (1996/2002)
+
+*(Attributed — [[assmann-jan]], *[[assmann-mind-of-egypt-1996|The Mind of Egypt]].)*
+
+- **Theban theocracy.** Herihor's assumption of royal titulary and a new year-count (ca. 1080 BCE) institutionalized the [[theology-of-will]] as a "god-state" ruled by Amun's oracle — the closest Egyptian approach to direct theocracy in Assmann's typology; sovereignty expressed as control over "social time" (the calendar reset).
+- **Holy city semantics.** Piye's victory stela has the army lay down arms and don priestly linen before entering Thebes — "completely unprecedented" theocratic staging in royal texts, per Assmann.
+- **Late Period festival culture.** The Decade Festival (Amun-in-Luxor crossing to Medinet Habu/Djamut — whence Greek "Thebai") and the split of Amun into three "generations" transposed onto the gods functions once embodied by the king: "the symbolism of rule was replaced by a symbolism of time" (Assmann).
+- Assmann suggests the Assyrian sack of 663 BCE "dried up for all time" the mythodynamics of holy war on Amun's behalf, pushing the Saite dynasty toward a strikingly secular self-presentation.

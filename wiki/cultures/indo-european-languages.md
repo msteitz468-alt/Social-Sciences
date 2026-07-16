@@ -15,8 +15,8 @@ preceded_by: ["[[unknown]]"]
 succeeded_by: ["[[unknown]]"]
 language_affiliation: "The family itself; homeland and dispersal mechanism disputed — see [[steppe-hypothesis-debate]]. Anthony (2007) places reconstructable PIE in the Pontic-Caspian steppes ~4500–2500 BCE (late stage with [[yamnaya-culture]] ~3300–2500); Reich (2018) supports steppe-linked dispersal demography without equating DNA to language."
 genetic_signature: "Genetic data cannot establish what language a population spoke; migration/mixture events documented by ancient DNA (steppe expansion after ~5,000 years ago) are used by [[reich-david|Reich]] and David Anthony as circumstantial support for a steppe-linked dispersal mechanism, not as direct evidence of language (as of Reich 2018)."
-sources_ingested: 6
-last_updated: 2026-07-10
+sources_ingested: 7
+last_updated: 2026-07-15
 tags: [culture, language-family, steppe, europe, south-asia]
 ---
 
@@ -105,7 +105,7 @@ A language family is not a population, a genetic lineage, or an archaeological c
 
 ## Historiography
 
-Two competing dispersal hypotheses are recorded in full on [[steppe-hypothesis-debate]]: Colin Renfrew's Anatolian-farming-dispersal hypothesis (1987) and the steppe/Kurgan hypothesis associated with Marija Gimbutas, J. P. Mallory, and David Anthony. Primary Anthony (2007) is now ingested: wool/wheel termini, phased archaic/early/late PIE, Pontic-Caspian homeland, franchising expansion model. Reich (2018) reports that the Anatolian hypothesis "has lost its best evidence" given post-2015 ancient-DNA documentation of a large, demographically real steppe migration after roughly 5,000 years ago — a migration whose sheer scale Renfrew's model had treated as implausible. Reich further connects 19th–20th-century "Aryan purity" ideology, which fueled nationalist and Nazi racist claims, to a misreading of Indo-European origins as evidence of a pure ancestral people; he argues the genetic findings undermine this ideology directly, since the Yamnaya themselves were formed by mixture, as were the Corded Ware and Bell Beaker populations that followed (as of Reich 2018). See [[steppe-hypothesis-debate]] for the recorded political misuse across Nazi and Hindutva variants, framed as positions rather than adjudicated in wiki voice.
+Two competing dispersal hypotheses are recorded in full on [[steppe-hypothesis-debate]]: Colin Renfrew's Anatolian-farming-dispersal hypothesis (1987) and the steppe/Kurgan hypothesis associated with Marija Gimbutas, J. P. Mallory, and David Anthony. **Primary Mallory (1989) is now ingested:** *[[mallory-in-search-of-the-indo-europeans-1989|In Search of the Indo-Europeans]]* — discovery history (Parsons 1767; Jones; Rask/Bopp/Young; Schleicher tree; Schmidt wave); branch surveys Asia and Europe; reconstructed PIE culture and Dumézilian [[tripartition]]; multi-criterion homeland stack (Uralic neighbours, substrates, [[linguistic-palaeontology]], archaeology); Pontic-Caspian Eneolithic→[[yamnaya-culture]] sequence; expansion routes with “charge but not convict” caution; Ch.9 Aryan-myth reception history. Primary Anthony (2007) densifies wool/wheel termini, phased archaic/early/late PIE, franchising expansion. Reich (2018) reports that the Anatolian hypothesis "has lost its best evidence" given post-2015 ancient-DNA documentation of a large, demographically real steppe migration after roughly 5,000 years ago — a migration whose sheer scale Renfrew's model had treated as implausible. Reich further connects 19th–20th-century "Aryan purity" ideology to a misreading of Indo-European origins as evidence of a pure ancestral people; he argues genetic findings undermine this ideology directly (Yamnaya themselves formed by mixture). Mallory 1989 independently argued Aryan supremacy was **misappropriation** of a linguistic concept, not a necessary consequence of philology (Yiddish is IE; Romany better “Aryan” claim than North Europeans). See [[steppe-hypothesis-debate]] for recorded political misuse across Nazi and Hindutva variants, framed as positions rather than adjudicated in wiki voice.
 
 ## Renfrew 1987 primary layer
 
@@ -113,7 +113,7 @@ Two competing dispersal hypotheses are recorded in full on [[steppe-hypothesis-d
 
 ## Collection Coverage Note
 
-Primary Renfrew (1987), Anthony (2007), Reich (2018), and Cavalli-Sforza (2000) are now ingested. Remaining priorities: Mallory *In Search of the Indo-Europeans*; post-2018 aDNA papers on Anatolian and South Asian IE; detailed branch monographs.
+Primary Renfrew (1987), Mallory (1989), Anthony (2007), Reich (2018), and Cavalli-Sforza (2000) are now ingested. Remaining priorities: post-2018 aDNA papers on Anatolian and South Asian IE; detailed branch monographs; Mallory & Mair Tarim / *Encyclopedia of Indo-European Culture*.
 
 ## Cavalli-Sforza synthesis (as of Cavalli-Sforza 2000)
 

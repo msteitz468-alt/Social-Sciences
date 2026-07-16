@@ -13,8 +13,8 @@ cultures: [[[australopithecus]]]
 excavated_by: [Clark Howell, Yves Coppens, colleagues]
 excavation_years: "unknown (fieldwork predating 1977 publication)"
 key_finds: ["Shungura Formation fossil sequence", "sharp angular quartz fragments (interpreted as tools)", "two lava fragments"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, east-africa]
 ---
 
@@ -63,3 +63,9 @@ error in the original [[koobi-fora]] KBS Tuff dates.
 **Against Klein’s ~50 ka cognitive event.** Frontal heightening and parietal expansion already present at Omo Kibish and Herto ~100 ka earlier than Klein’s neural-mutation threshold — “no obvious physical evidence for such a change… 50,000 years ago” (Stringer). Omo Kibish 1967 finds were important to Stringer’s RAO formulation when dating was still insecure.
 
 **Comparators.** Stringer doubts full modernity of Jebel Irhoud (~160 ka, possibly older) relative to Omo/Herto peers; Iwo Eleru (Nigeria) U-series ≤~20 ka yet cranial shape closest to late archaic Africans including Omo 2 — archaic-looking people persisted after modern morphology appeared. See [[anatomically-modern-humans]], [[recent-african-origin]], [[homo-heidelbergensis]], [[klein-richard]].
+
+## Oxford Handbook densification (Mitchell & Lane 2013)
+
+*Attributed — Domínguez-Rodrigo (Ch. 21), Marta Lahr (Ch. 23), Robert Foley (Ch. 20), Lawrence Barham (Ch. 24), Laura Basell (Ch. 27) in [[mitchell-lane-oxford-handbook-african-archaeology-2013]]; **as of handbook ~2012**.*
+
+Domínguez-Rodrigo lists **Omo** among major Oldowan sites (with Gona, Koobi Fora, Kanjera, Olduvai, Peninj). Lahr and Foley treat **Omo Kibish** early *H. sapiens* (~194–200 kya) with Herto (~160 kya) as anchoring the modern evolutionary line in Ethiopia — high vault, facial position, chin. Barham’s chronology revolution notes Omo I ~195 kya as decoupling MSA from anatomical modernity timelines (MSA begins earlier). Basell: oldest fossils assigned *H. sapiens* from Omo Kibish ~195 kya; Shea (2011) on Omo artefacts argues few differences from other Ethiopian sites, suggesting cultural continuity and possible demographic stability ~280–80 kya. Distinguish **Shungura Plio-Pleistocene** Oldowan/hominin sequence from **Kibish Formation** early moderns — same drainage, different periods and evidence classes. MacEachern (Ch. 5, range_1) cites then-current mtDNA MRCA estimates ~160 kya as compatible with *H. sapiens idaltu* palaeoanthropology (as of early 2000s/handbook horizon).

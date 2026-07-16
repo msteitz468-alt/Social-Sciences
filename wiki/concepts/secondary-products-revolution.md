@@ -7,9 +7,9 @@ disciplines: [archaeology, economic-anthropology, biological-anthropology]
 emic_or_etic: etic
 operationalized_as: "Archaeological package of renewable animal products—especially milk, wool, and traction (plough, cart/wagon)—transforming Old World farming after initial meat-focused husbandry; classic European horizon mid/late fourth millennium BC"
 contested: yes
-related_concepts: ["[[animal-domestication]]", "[[animal-traction]]", "[[pastoralism]]", "[[neolithic-revolution]]", "[[agricultural-revolution]]", "[[domestication]]", "[[prehistoric-intoxicants]]", "[[social-surplus]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+related_concepts: ["[[animal-domestication]]", "[[animal-traction]]", "[[pastoralism]]", "[[neolithic-revolution]]", "[[agricultural-revolution]]", "[[domestication]]", "[[prehistoric-intoxicants]]", "[[social-surplus]]", "[[baden-culture]]", "[[funnel-beaker-culture]]", "[[globular-amphora-culture]]", "[[urban-revolution]]"]
+sources_ingested: 4
+last_updated: "2026-07-15"
 tags: [concept, archaeology, neolithic, economy]
 ---
 
@@ -47,10 +47,12 @@ As of Sherratt 1981–97 (attributed; dates of essay horizons):
 ## Applications
 
 - **Settlement:** Plough spread restructures settlement — wider clearings, less long-lived sites, fallow supporting pastoral sectors; SE tell patterns modified (valley-edge/spur/upland; larger spaced/fortified tells); Hungarian Plain cycles of aggregation and dispersal co-vary with traction horizon (Ch.10–11).
+- **Culture horizons (wiki densify 2026-07-15):** Classic SE package at [[baden-culture|Baden]]–Cernavodă–Ezero; staggered northern reception in [[funnel-beaker-culture|TRB]] (plough ~3500, full package later); post-3500 [[globular-amphora-culture|Globular Amphora]] Hamburg–Kiev band with [[yamnaya-culture|Pit-Grave]] and path toward [[corded-ware-culture|Corded Ware]].
 - **Social structure:** Invokes Goody (1976) and HRAF patterns: hoe/female labour ↔ uxorilocal/matrilineal tendencies; plough + pastoralism ↔ male subsistence dominance, virilocal residence, patrilineal descent; diverging devolution of property.
 - **Exchange and metals:** Secondary farming features travel with Uruk-periphery impress (vehicles, alcohol, textiles, metalwork); SE Europe Baden–Cernavodă–Ezero transformation; longer-distance trade enabled by equid transport.
 - **Steppe / language (associated, not identity):** Cart + horse enable interfluve pastoralisation; population expansion onto steppes linked (as of Sherratt 1981) to conditions for Indo-European differentiation — see [[steppe-hypothesis-debate]]; **culture ≠ language ≠ genes ≠ people**.
 - **Intoxicants:** Alcoholic drinks travel with the secondary-products package (Ch.15–16); see [[prehistoric-intoxicants]].
+- **Urban Revolution spin-off:** Europe’s SPR complex as outer-Eurasian consequence of Childe’s [[urban-revolution|Urban Revolution]] (Sherratt Ch.20) — see densify on that page.
 - **Historiography:** Distinguishes mature Neolithic vs Copper Age pathways (Ch.5); plough as test of European indigenism vs external introduction.
 
 ## Critiques and Limitations
@@ -70,3 +72,15 @@ As of Sherratt 1981–97 (attributed; dates of essay horizons):
 - **Early felt/plucking hypothesis:** For DDII steppe acceptance of sheep after ~5200 BCE, he suggests animals may already have been plucked for felt and that wool vocabulary “might have first appeared among Pre-Proto-Indo-European speakers at about this time” (R3-076) — speculative, attributed.
 - **Post-3600 BCE eastern Europe:** Following Sherratt, Scheibenhenkel drinking cups mark intoxicating-beverage ritual; by Cernavoda III/Baden-Boleraz ~3600–3200 BCE horses appear widely with larger (possibly wool) sheep; 60–91% adult sheep-goat kill-off in middle Danube lowland sites read as secondary-products management (R4-031).
 - **Link to pastoral mobility:** Wagons + riding + herd secondary products underwrite Yamnaya deep-steppe mobility (cross-link [[pastoralism]], [[animal-traction]], [[yamnaya-culture]]); do not equate SPR package with IE speech.
+
+### Potts 1997 — Mesopotamian textual confirmation: the "meat myth" and Sherratt's milk framing
+
+*(Attributed — [[potts-mesopotamian-civilization-1997|Potts, Mesopotamian Civilization 1997]].)*
+
+Potts states that meat and milk products figured only marginally in the ordinary Mesopotamian diet ("not very much") because cattle, sheep, and goats were valued for labour and secondary products (traction; fleece/hair for textiles) rather than as food — slaughter was economically wasteful. J.N. Postgate (1994) notes official Ur temple/palace accounts show dairy productivity was poor and not prioritized despite depicted milking scenes in Late Uruk glyptic and Early Dynastic inlays. At Old Babylonian Ur, sheep/goat meat appears in texts only as temple offerings or at festivals (Van De Mieroop 1993); similarly at Neo-Babylonian Uruk/Sippar, systematically fattened sheep were slaughtered mainly for offerings/temple-staff consumption (van Driel 1993). This textual "meat myth" evidence directly corroborates, from an independent (cuneiform) evidence class, the secondary-products valuation-over-slaughter logic central to Sherratt's model above.
+
+Potts explicitly situates the Mesopotamian milk-vessel evidence within **A. Sherratt's (1981) "secondary Neolithic revolution"** framing (following Gouin 1993): selective herding and milk consumption on a large scale across the Eurasian steppe corridor and arid North Africa/Western Asia beginning c. 4000 BC, marked ceramically by closed vessels including butter churns (e.g., Ghassulian Chalcolithic Palestine). Physiologically, most human adults lack lactase after roughly age 4 (with a Euro-American exception), making fermented products (cheese, yoghurt, ghee) important for storage and lower lactose content (Simoons 1971, 1980). A famous inlaid panel from the Ninhursag temple at Tell al-'Ubaid (late Early Dynastic) depicts milk poured through a strainer into a spouted vessel.
+
+### Ur III wool-plucking scale (Potts 1997)
+
+Wool was the dominant Mesopotamian textile fiber (linen playing a minor "elite" role; cotton unknown until late periods). H. Waetzoldt (1972) considers sheep-plucking — not true shearing with shears, which is unattested in cuneiform sources — the main event of the Sumerian agricultural calendar after the cereal harvest. Five wool-quality classes were recognized in the Ur III period; fat-tailed sheep (*udu-gukkal*) yielded roughly 1.4 minas (0.7 kg) of high-grade wool per animal and were centered at Lagash (66,095 registered there in year Shulgi 36 = 2089/88 BC). Potts calculates an Ur III fat-tailed-sheep wool yield of roughly 1.32 minas (0.66 kg) per animal from a Girsu text, likely an underestimate since unplucked lambs were included in the population count; comparanda range from 0.78–0.907 kg (14th-century England) to 1.59 kg (1947 Iraq, fat-tailed) — Potts judges the Ur III range (0.7–1.12 kg) "perfectly respectable" against other pre-modern data, and notably far below modern merino yields of 7–10 kg/animal. Fleece-plucking labor was gendered and shifted over time: in the Ur III period plucking was performed exclusively by female workers (*gemé*) — one Girsu text records 816 female workers under a single inspector — while in the Old Babylonian period and (per Potts, writing in the 1990s) the present day, shearing was mainly a male occupation; Potts flags this gender-role shift as needing further investigation.

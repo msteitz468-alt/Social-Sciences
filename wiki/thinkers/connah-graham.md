@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["[[connah-african-civilizations-2016|African Civilizations (3rd ed. 2016)]]", "Three Thousand Years in Africa (1981)", "The Archaeology of Benin (1975)", "Forgotten Africa (2004)"]
 key_concepts: ["[[productive-land-hypothesis]]", "trade as intensifier not originator", "African urbanism and state formation (archaeological synthesis)"]
 fieldwork_sites: ["Benin City (Nigeria)", "Kibiro (Uganda)", "Australia (historical archaeology)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, archaeology, africa]
 ---
 
@@ -80,6 +80,22 @@ Reception of Connah 2016 as a whole is not yet densified from secondary reviews 
 
 Treat the productive-land hypothesis and trade-as-intensifier package as attributed Connah positions, not wiki-voice laws.
 
+## Historiography of African archaeological practice (OHAA Ch. 2, 2013)
+
+*(Attributed — Graham Connah, Ch. 2 “Archaeological Practice in Africa: A Historical Perspective,” in *[[mitchell-lane-oxford-handbook-african-archaeology-2013|Mitchell & Lane 2013]]*.)* Beyond the *African Civilizations* comparative program, Connah’s handbook chapter analyses **thought patterns and operative models** of practitioners rather than discovery catalogues:
+
+- **European transfer:** Lower Nile 19th-c. Egyptology prioritized tombs/temples and divorced Ancient Egypt from the rest of Africa (“intellectual myopia”); outside Egypt, early research treated stone-using hunter-gatherers as European analogues; Three-Age “prehistory” equated African prehistory with the Stone Age alone into mid-20th century (Alimen 1957; Clark 1970 page counts as evidence of bias).
+- **Goodwin typology** remained conceptually European despite local labels; Abbé Breuil held southern African [[rock-art|rock art]] ultimately “descended from European cave-painting” (*White Lady of the Brandberg* as extreme diffusionism).
+- **Post-Burg-Wartenstein (1965):** shift from classificatory Stone Age toward behavioural/environmental questions; faunal work at Klasies and [[nabta-playa|Nabta Playa]]; botanical evidence at Melkhoutboom and [[dhar-tichitt|Dhar Tichitt]].
+- **Rock art meaning:** credits Vinnicombe and Lewis-Williams with showing meaning can be extracted via San ethnography — revitalizing global rock-art studies within a cognitive/post-processual turn.
+- **“Iron Age” label** criticized as 19th-c. relic; northern research tracked plant/animal domestication while further south early farming research tied to [[bantu-expansion|Bantu expansion]] hypotheses from linguistics/history.
+- **Trigger typology applied:** Colonialist Stone Age focus → post-independence Nationalist demand for farming/complexity histories → later Imperialist funding patterns via short US field seasons and SAfA (exceptions: McIntoshes’ long-term West African work) — Shepherd’s reservations noted.
+- **Post-independence research fronts:** domestication, iron origins (Taruga/Nok; interlacustrine, Niger, Tanzania, Sudan), complex societies (Great Zimbabwe, Kilwa/Manda/Shanga, Kerma, Aksum, Igbo-Ukwu, Ife, Benin, Tegdaoust, Koumbi Saleh, Jenné-jeno, Upemba).
+- **Salvage archaeology:** 1960s Aswan High Dam as outstanding internationalization; Volta Basin many small excavations little published; Kainji Dam “virtual failure.”
+- **Cambridge network:** Connah includes himself among 1960s Cambridge products (with Inskeep, Parkington, Fagan, Phillipson, Posnansky, Isaac, Soper, etc.) structuring expatriate practice.
+- **Pan-African Congress contrast:** 1947 Nairobi (geology, palaeontology, Stone Age, rock art) vs 2005 Gaborone (food production, complexity, ethnoarchaeology, historical archaeology, heritage, sociopolitics).
+- **Conclusion:** African archaeology still haunted by Eurocentric Three-Age System and static “prehistory” despite alternative framings (Phillipson; Barham & Mitchell); calls for a new imaginative African approach; notes “historical archaeology” is problematic given variable prehistory/history boundaries.
+
 ## Historiography
 
-*African Civilizations* is a multi-edition textbook-handbook (1st ed. 1987; 3rd ed. 2016). Earlier editions focused more tightly on tropical Africa; the third edition’s continental scope and Ch. 12 “common denominators” chapter name and systematize arguments developed across editions (notably the productive land hypothesis and the intensifier/originator distinction). Connah’s Benin monograph (1975) and *Three Thousand Years in Africa* (1981) supply primary fieldwork depth for forest and Lake Chad margins; *Forgotten Africa* (2004) is a broader popular synthesis. Within Africanist archaeology, the book functions as a standard comparative survey against which regional specialists test local chronologies and origin debates (Swahili African agency; Middle Niger heterarchy; Zimbabwe gold-trade facilitation; forest-state pre-Atlantic origins). Densification of this wiki page is from the 2016 edition claims ingest only.
+*African Civilizations* is a multi-edition textbook-handbook (1st ed. 1987; 3rd ed. 2016). Earlier editions focused more tightly on tropical Africa; the third edition’s continental scope and Ch. 12 “common denominators” chapter name and systematize arguments developed across editions (notably the productive land hypothesis and the intensifier/originator distinction). Connah’s Benin monograph (1975) and *Three Thousand Years in Africa* (1981) supply primary fieldwork depth for forest and Lake Chad margins; *Forgotten Africa* (2004) is a broader popular synthesis. Within Africanist archaeology, the book functions as a standard comparative survey against which regional specialists test local chronologies and origin debates (Swahili African agency; Middle Niger heterarchy; Zimbabwe gold-trade facilitation; forest-state pre-Atlantic origins). Densification of this wiki page is from the 2016 edition claims ingest plus handbook Ch. 2 (practice history) in [[mitchell-lane-oxford-handbook-african-archaeology-2013]].

@@ -13,10 +13,10 @@ type_site: ["[[hallstatt]]", "[[la-tene]]"]
 key_sites: ["[[hallstatt]]", "[[la-tene]]"]
 preceded_by: ["[[hallstatt-culture]]"]
 succeeded_by: ["[[unknown]]"]
-language_affiliation: "Associated with [[celtic-languages]] in Cunliffe 1997 and standard Celtic studies; association ≠ identity — speakers, classical ethnonym-bearers, and La Tène material users are three partially overlapping sets."
-genetic_signature: "Not addressed in Cunliffe 1997 (pre-nuclear aDNA synthesis, as of Cunliffe 1997). Do not invent genetic Celts."
-sources_ingested: 1
-last_updated: 2026-07-10
+language_affiliation: "Associated with [[celtic-languages]] in Cunliffe 1997 / 2013 and standard Celtic studies; association ≠ identity — speakers, classical ethnonym-bearers, and La Tène material users are three partially overlapping sets."
+genetic_signature: "Not addressed as an identity package in Cunliffe 1997 (pre-nuclear aDNA synthesis). Cunliffe 2013 treats genetics cautiously elsewhere in Britain Begins; do not invent genetic Celts from either source."
+sources_ingested: 3
+last_updated: "2026-07-15"
 tags: [culture, iron-age, western-europe]
 aliases: [Celts, Keltoi, Celtae, Galli, Galatae, Celtic peoples]
 ---
@@ -37,7 +37,7 @@ He frames the “concept of the Celts” as having **many realities** born of di
 
 Within Cunliffe’s long chronological frame, communities speaking Celtic and known to contemporary writers as ethnically distinctive “Celts” or “Gauls” emerge inside a “middle cycle” of European development he dates c.1300 BCE–AD 400 (R1-081). Social and economic processes detectable already in the Urnfield continuum of central Europe c.1300–1000 BCE create, he argues, a structure largely maintained for the next half-millennium, by which time Greek historians identify Celts in the region — a structural backdrop, not automatic ethnic identity of pots with people (R2-007).
 
-Primary densification source: [[cunliffe-ancient-celts-1997]].
+Primary densification sources: [[cunliffe-ancient-celts-1997]] (pan-European synthesis); [[cunliffe-britain-begins-2013]] (Britain/Ireland-centred densification — Atlantic language hypothesis, western ethnonym geography, La Tène art transmission without mass westward migration). Distinguish the two layers when citing.
 
 ## Material / Linguistic / Genetic Signature
 
@@ -86,17 +86,76 @@ Not addressed in Cunliffe 1997 (pre-nuclear aDNA synthesis, as of Cunliffe 1997)
 - **Institutions/concepts:** [[druids]], [[prestige-goods-economy]], [[urbanization]] (oppida debate).
 - **Debates:** [[celticity-debate]]; related ethnicity theory [[primordialism-constructivism-ethnicity-debate]]; [[nationalism-and-archaeology]]; IE homeland context [[steppe-hypothesis-debate]] (Cunliffe 1997 is not an IE-homeland monograph).
 
+## Densification from Cunliffe, *Britain Begins* (2013)
+
+**Layer note.** The 1997 densification above remains the pan-European backbone. [[cunliffe-britain-begins-2013]] densifies three Britain-relevant threads: (1) classical ethnonym geography as **western**; (2) **no mass north/west folk movement** from La Tène elite cores into the islands — La Tène art by elite adoption; (3) **Celtic language** as possibly Atlantic-indigenous (full model on [[celtic-languages]]; debate framing on [[celticity-debate]] Position D). All claims attributed to Cunliffe 2013 unless noted.
+
+### Classical ethnonyms as a western people (earliest Greek sources)
+
+Cunliffe (2013) stresses that early Greek cognitive geography places Celts as a **westerly** people (R5-040):
+
+- **Hecataeus** (late 6th c. BCE, Massaliot information): Massalia in Ligurian land near Celts; Narbo a Celtic town.
+- **Herodotus** (5th c.): Celts beyond the Pillars of Hercules bordering the Cynesii (westernmost Europe) — SW Iberia; “city of Pyrene” Celtic (possibly Emporion; erroneous Danube source nearby).
+- **Ephorus** (c.405–330 BCE, via Strabo): Celts the most westerly barbarian people, territory including much of Iberia as far as Gades.
+- Inland/northerly Armorican Celtica appears only with **Pytheas** (late 4th c.): Armorica as a Celtic peninsula projecting into the Atlantic.
+
+This western ethnonym geography undercuts early-modern models that required imagined sailings of middle-European Celts into Brittany, Britain, and Ireland — movements **no classical source records** (R5-030). Ethnonym geography still ≠ language map ≠ material package ≠ genetic population.
+
+**Insular naming (2013).** Pretani (Pytheas via Diodorus’s Pretannia) is a Celtic word Cunliffe glosses as “the painted ones”/“tattooed folk” — possibly ethnonym or neighbours’ label; spelling shifts to Britannia under Romans; P-form survives in Picti and Welsh Prydain (R1-013, R1-014, R6-066). Caesar’s woad/body-decoration ethnography of Britons is reported as classical detail, not as pan-Celtic identity proof (R1-008). No ancient author equates Pretani/Britons with *Keltoi* as a self-conscious pan-Celtic people.
+
+### After the invasion house of cards: three retained threads
+
+Cunliffe (2013) rejects the elaborated Celtic-invasion hypothesis (still reiterated in some quarters after field archaeologists abandoned it — R5-072) and retains (R5-033):
+
+1. Celtic dialects over much of western Europe including probably Ireland and Britain in the later first millennium BCE.
+2. Historic fourth–second-century BCE migrations of Celtic-speaking groups from eastern France/southern Germany **east and south** (Italy, Balkans, Asia Minor) — the famous Celtic migrations.
+3. La Tène material culture and Celtic art as idea/value mobility **without necessary ethnic or linguistic identity**.
+
+If his Atlantic-origin language hypothesis holds, classical writers reasonably called disparate Celtic-speaking bands “Celts” even when material culture and social systems differed sharply from Iberian contemporaries — **linked by common language**, not package identity (R5-047). Full language model: [[celtic-languages]].
+
+### La Tène elite geography, “Celtic art,” and non-westward migration
+
+**Elite reconfiguration (mid-5th c. BCE).** The Hallstatt elite zone of eastern France–southern Germany is replaced by more dispersed La Tène elite centres focused on Bourges, the Marne, the Moselle, and Bohemia — each commanding a major river route toward Atlantic, Channel, North Sea, or Baltic. Cunliffe argues these elites based power on controlling access to north-western raw materials (tin, gold, amber) demanded in the Mediterranean (R7-001). Local craftsmen abstracted classical ideas into an original barbarian decorative style he conventionally calls “Celtic art”; Etruscan chariots inspired local fast battle chariots as elite accessories (R7-002). Label “Celtic art” ≠ ethnic Celts.
+
+**No large north/west migrant bands.** At the end of the fifth / beginning of the fourth century BCE the warrior-elite system broke into folk wanderings (population growth among causes); classical sources record migrations into the Po valley and along the Danube to the Carpathian basin, with raiders then into Italy, Greece, and central Anatolia. Cunliffe states there is **no textual or archaeological evidence** of large migrant bands moving **northwards or westwards** from the original homelands, though that belief was recently popular (R7-003). This is load-bearing for Britain/Ireland continuity arguments and for dissociating Insular La Tène style from invasion.
+
+**Western transmission of La Tène art (elite adoption, not folk movement).** La Tène art (and the belief system Cunliffe associates with it) was adopted widely in north-western France, Britain, and Ireland initially by **local elites**; exotic artefacts as gifts/trade; trained craftsmen might follow — **not** mass migration (R7-004).
+
+Dual routes nearest the British Isles (R7-005–R7-007):
+
+| Route | Hub | Corridor | Signature (as Cunliffe 2013) |
+|---|---|---|---|
+| Eastern / Channel | Marne | Seine–Somme → Thames / E coasts | Weapons tradition; Thames-valley fine daggers (6th–5th c.) absorbing E France/S Germany fashions; earliest British La Tène art = decorated dagger scabbards at Minster Ditch (North Hinksey) and Wisbech — local first copies |
+| Western / Atlantic | Bourges | Loire → Armorica → SW Britain / Ireland | Metal-vessel tradition; Armorican pottery copying bronze bowls known in SW Britain/Ireland (e.g. Keshcarrigan animal-handled bowl); Cerrig-y-drudion (N Wales) ceremonial head-gear (preferred as helmet) with Armorican-related motifs |
+
+British craft sequence (dating of aristocratic items “open to debate”; Cunliffe leans multi-century stylistic development keeping abreast of continental fashions with local originality — R7-006): Ratcliffe-on-Soar shield-boss, Standlake sheath, Brentford pommel (spirals); Hammersmith “dragon-pair” swords; Witham, Wandsworth, Torrs pony cap (possible shared workshop); later Battersea Shield, Waterloo Bridge Helmet, East Anglian gold torcs; motifs then beyond weapons. Northern Irish Bann/Lisnacrogher scabbards (probably 2nd–1st c. BCE): Yorkshire affinities plus hints of direct continental inspiration; Atlantic-route swords possible (R7-008).
+
+**Arras culture (Yorkshire Wolds) as micro-case.** Continental two-wheeled chariot burial as elite status mark (Moselle frequent; more limited Ardennes/Marne/Seine). Yorkshire cluster taken by some as La Tène warriors settling late 5th/early 4th c. Alien to British tradition: large inhumation cemeteries, chariots in burial, square-ditched enclosures. Differences that weaken pure invasion: British vehicles almost always **dismantled** (Continent intact/upright); bodies crouched not extended; grave goods La Tène type but **British manufacture**; settlements circular British houses not continental rectangular. Opinions split between pure elite emulation and a small immigrant group intermarrying and introducing funerary aspects (R7-011). Classic four-way non-identity teaching case: rite package ≠ mass folk replacement ≠ language transfer ≠ genetic population.
+
+### Relations to 1997 densification
+
+- 1997 already uncoupled language from La Tène and treated Iberia as decisive non-identity; 2013 **reuses** that logic for Britain/Ireland art and burial.
+- 1997 framed Atlantic Celticization via LBA–EIA exchange from a west-central homeland; 2013 **inverts emphasis** toward Atlantic language origin with later Beaker-era inland spread — see [[celtic-languages]] and [[celticity-debate]] Position D.
+- Historic eastward/southward migrations remain real in both books; 2013 is explicit that they do **not** reverse into Insular invasion.
+
+## Densification from Cunliffe, *Facing the Ocean* (2001)
+
+A third Cunliffe synthesis adds Gaul/Iberia ethnic-boundary and regional-zone detail (all attributed; Cunliffe 2001). Caesar's *Gallic War* opens by dividing Gaul ethnically into three parts — the Aquitani (south-west of the Garonne), the Celts (centre), and the Belgae (north-east of the Seine and Marne) — a division Strabo repeats, possibly derived from Caesar. Cunliffe notes archaeological support in that large defended [[oppida]] typical of Celtic Gaul are not found south of the Garonne, while stressing the river was not a precise frontier line but a corridor/interface zone (Cunliffe 2001) — consistent with this page's caution against reading classical ethnonym geography as a hard boundary.
+
+For Iberia, Cunliffe (2001) describes two distinct maritime cultural zones rather than a single "Celtic Spain": the south/east coast, absorbing Phoenician, Carthaginian, Greek, and Etruscan influence, developed a distinctive "Iberian" culture (art style, language, semi-urbanized settlement) that classical writers and archaeologists applied collectively despite separate tribal names; the west/north Atlantic coast developed a quite different culture bound together by coastal traffic and "quite possibly, from an early date, speaking a version of the 'Celtic' language" (Cunliffe 2001) — his Atlantic-lingua-franca thesis, which remains **his position**, not wiki voice (see [[celticity-debate]]). See [[celtiberian-culture]] for the origins debate over the interior Celtiberian zone specifically.
+
 ## Identity Cautions
 
-- Classical “Celt/Gaul/Galatian” is a **Mediterranean label**, not a transparent self-ethnonym for all Iron Age Europeans; ethnonym inventory includes Pretani (not equated with Celts by Pytheas), Britons, Celtiberians, Galatians (R1-086).
-- La Tène art style ≠ Celtic speech ≠ classical ethnonym ≠ genetic population (R1-060, R3-058, R5-042).
-- No ancient author called Britain/Ireland’s inhabitants Celts (R3-079); language presence and ethnonym are separate claims.
-- Iberia: language + classical Celtiberian + social resemblance without La Tène package (R3-058, R3-074).
-- Eastern “Celts” of the diaspora are likely mixed ethnicity under classical labels (R4-036).
-- Celt/German Rhine divide is a classical construct; graded material, social, and linguistic continua (R5-025).
-- Modern Celtic national identities (Irish, Welsh, Breton, Galician, etc.) are historically layered reworkings and revivals; Cunliffe leaves survival-vs-revival to anthropologists and defines modern Celts by self-belief (R5-040).
-- Antiquarian and Romantic “Celts” (Stukeley Druids at Stonehenge; megaliths as Celtic; Ossian; Gorsedd; nationalist heroes Boudica/Vercingetorix/Ambiorix/Viriathus) are historiographic objects, not Iron Age evidence (R1-026–R1-031).
-- Vernacular literature is not direct ethnography of the La Tène period (R1-064–R1-066).
+- Classical “Celt/Gaul/Galatian” is a **Mediterranean label**, not a transparent self-ethnonym for all Iron Age Europeans; ethnonym inventory includes Pretani (not equated with Celts by Pytheas), Britons, Celtiberians, Galatians (R1-086 of 1997 densification; R1-013–R1-014 of 2013 densification).
+- La Tène art style ≠ Celtic speech ≠ classical ethnonym ≠ genetic population (R1-060, R3-058, R5-042 of 1997 densification; R5-032–R5-033, R7-003–R7-004 of 2013 densification).
+- No ancient author called Britain/Ireland’s inhabitants Celts (R3-079 of 1997 densification); language presence and ethnonym are separate claims.
+- Iberia: language + classical Celtiberian + social resemblance without La Tène package (R3-058, R3-074 of 1997 densification).
+- Eastern “Celts” of the diaspora are likely mixed ethnicity under classical labels (R4-036 of 1997 densification).
+- Celt/German Rhine divide is a classical construct; graded material, social, and linguistic continua (R5-025 of 1997 densification).
+- Modern Celtic national identities (Irish, Welsh, Breton, Galician, etc.) are historically layered reworkings and revivals; Cunliffe leaves survival-vs-revival to anthropologists and defines modern Celts by self-belief (R5-040 of 1997 densification).
+- Antiquarian and Romantic “Celts” (Stukeley Druids at Stonehenge; megaliths as Celtic; Ossian; Gorsedd; nationalist heroes Boudica/Vercingetorix/Ambiorix/Viriathus) are historiographic objects, not Iron Age evidence (R1-026–R1-031 of 1997 densification; Ossian/Gorsedd reiterated R1-034 of 2013 densification).
+- Vernacular literature is not direct ethnography of the La Tène period (R1-064–R1-066 of 1997 densification).
+- Do not merge Cunliffe 1997 and Cunliffe 2013 into a single homeland story: 1997 is more Rhine–Danube-compatible for crystallization; 2013 advances Atlantic-origin as working hypothesis.
 
 ## Historiography
 
@@ -110,6 +169,6 @@ Cunliffe 1997 Ch. 1–2 is itself a historiography of the Celts as a European id
 6. **Art and “coming of age”** — Franks 1863; Jacobsthal 1944 as the moment Celtic studies “came of age” for Cunliffe (R1-075–R1-080).
 7. **Late twentieth-century contestation** — Chapman 1992 *The Celts: The Construction of a Myth* flagged as the most challenging work on validity of the concept (R5-048); Cunliffe’s own middle path between New Celtomania and nihilism (R1-046).
 
-Reflexivity is built into Cunliffe’s programme (Jacquetta Hawkes: each generation gets the archaeology it deserves — R1-045). Collection coverage for this wiki rests on Cunliffe 1997 as the first major Celtic synthesis ingested; specialist linguistics, aDNA, and later sceptical monographs remain outstanding.
+Reflexivity is built into Cunliffe’s programme (Jacquetta Hawkes: each generation gets the archaeology it deserves — R1-045 of 1997 densification). Collection coverage for this wiki rests on Cunliffe 1997 as the first major Celtic synthesis ingested, densified for Britain/Ireland by [[cunliffe-britain-begins-2013]]; specialist linguistics, aDNA, and later sceptical monographs remain outstanding.
 
-Source: [[cunliffe-ancient-celts-1997]]. Thinker: [[cunliffe-barry]]. Debate: [[celticity-debate]].
+Sources: [[cunliffe-ancient-celts-1997]]; [[cunliffe-britain-begins-2013]]; [[cunliffe-facing-the-ocean-2001]]. Thinker: [[cunliffe-barry]]. Debate: [[celticity-debate]].

@@ -15,8 +15,8 @@ preceded_by: ["[[shang-civilization|Shang]]"]
 succeeded_by: ["Ch'in (Qin) empire (221 BCE)"]
 language_affiliation: "early Chinese (bronze and oracle-derived script); not equated with a single genetic population"
 genetic_signature: "[[unknown]] — not addressed in Chang 1963"
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [culture, bronze-age, iron-age, china, east-asia]
 ---
 
@@ -135,3 +135,51 @@ period boundary rather than defended here. Some Dayangzhou (Xin'gan, Jiangxi) br
 late Shang period are classified stylistically as "proto-Zhou style," alongside Shang,
 indigenous, and mixed styles — evidence of stylistic contact rather than Zhou political
 presence that far south.
+
+## Shelach-Lavi (2015) — Western/Eastern Zhou archaeology, ritual reform, and "globalization"
+
+*(Attributed — [[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]], ch. 10.)*
+
+Shelach-Lavi treats the Zhou conquest of Shang at the **Battle of Muye**, traditionally dated
+1046 BCE, as the date now generally accepted following the Xia-Shang-Zhou Chronology Project.
+The Western Zhou royal domain was centered on **Hao** (near modern Xi'an), with a secondary
+capital at **Chengzhou/Luoyi** (near modern Luoyang); in 771 BCE the Wei River basin capital was
+overrun by an alliance of disaffected regional lords and Quanrong invaders, ending Western Zhou
+rule there and beginning the Eastern Zhou, centered on Chengzhou. Eastern Zhou Wangcheng (near
+Luoyang) enclosed only ~9 km², small relative to later Warring States capitals — read by
+Shelach-Lavi as reflecting the diminished political weight of the royal house after 771 BCE.
+
+At **Zhouyuan**, the Fengchu palace complex (dated to the late predynastic/early Western Zhou
+period) stands on a 1.3 m pounded-earth platform, covers ~1,500 m², and is symmetrically
+arranged on a north–south axis. **Grave M18** at Zhougong Miao (a proposed Zhou royal cemetery
+north of Mount Qi) has four descending ramps (*mudao*), a feature associated with royal burial,
+but is markedly smaller than the Shang royal tombs at Xibeigang — Shelach-Lavi reads the
+disparity as consistent with a still-developing, less monumentalized royal mortuary tradition
+under the early Zhou.
+
+Jessica Rawson's (1999) identification of a **"late Western Zhou ritual reform,"** beginning
+between the mid-10th and mid-9th centuries BCE, is reported as Rawson's finding (as of
+Shelach-Lavi 2015 relying on Rawson 1999): Shang-style alcohol vessels disappear from ritual
+sets in favor of food vessels (*ding*, *gui*), standardized under sumptuary rules known as *lie
+ding*. Shaughnessy (1988) is cited for the finding that Shang chariots were used mainly for
+display and hunting rather than warfare, and that their military potential was not realized
+until roughly the later Western Zhou.
+
+At the **Liulihe cemetery**, excavators divided burials into an area associated with Shang
+descendants/local population and an area associated with Yan-lineage Zhou descendants; Jaffe
+(2013), cited by Shelach-Lavi, disputes this clean two-population reading, arguing mortuary
+practice at Liulihe instead negotiated social identity between local and incoming populations —
+an attributed interpretive dispute, not settled here.
+
+For **Eastern Zhou**, Falkenhausen (1999) argues that the modern archaeological practice of
+defining separate "state cultures" (Jin culture, Qi culture, Qin culture, etc.) is a manufactured
+construct that obscures the more salient process of increasing elite **cultural convergence**
+across the Zhou sphere alongside resurgent local/particularistic identity — a caution directly
+relevant to this page's `construct_status: conventional` and to the four-way non-identity rule
+(a shared "Zhou culture" label should not be read as a single self-conscious ethnos). Wu Hung
+(1999) is cited for a parallel stylistic argument: Zhou/Warring States public architecture shifted
+from a "two-dimensional," self-contained Western Zhou tradition to a "three-dimensional"
+monumental style in the Warring States period. Shelach-Lavi draws his own explicit — and
+flagged-as-his-own — analogy between this Eastern Zhou elite convergence-plus-local-resistance
+pattern and modern globalization, while noting the causal drivers differ (ancient: political-military
+expansion; modern: international economic processes and migration).

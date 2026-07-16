@@ -13,8 +13,8 @@ cultures: ["Paraiso Tradition", "central-coast Preceramic"]
 excavated_by: ["French expedition (square complex); other campaigns summarized by Moseley 2001"]
 excavation_years: "20th century"
 key_finds: ["U-shaped dual elongated mounds", "shicra mesh-bag fill", "red ceremonial court with fire pits", "marine-protein middens", "industrial cultigens"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, neolithic, andes]
 ---
 
@@ -46,4 +46,13 @@ Williams’s six-phase Initial Period U-shape sequence follows El Paraíso with 
 
 Carlos Williams’s architectural seriation structures Moseley’s Paraíso Tradition narrative; French excavation supplies the best-described single complex. Primary monographs and full assay lists not yet ingested — dates and labor estimates as of Moseley 2001.
 
-Sources: [[moseley-incas-and-their-ancestors-2001]] · [[moseley-michael]] · [[maritime-foundations-hypothesis]] · [[caral]] (parallel Preceramic monumentalism)
+## Excavation detail (Moseley 1975)
+
+*(From [[moseley-maritime-foundations-1975]], where El Paraíso — also Chuquitanta — is the largest known Andean preceramic site, four times the size of [[aspero|Aspero]] or [[rio-seco|Río Seco]], on the south bank of the Río Chillón ~2 km inland at an unusually wide floodplain.)*
+
+- **Excavation:** [[engel-frederic|Frédéric Engel]] (1967) cleared and restored one ~50 m-square, ~8 m-high complex, built in five or six massive fill-and-remodel stages; surveyed by Patterson & Lanning (1963). Combined complexes exceed 50 ha and >100,000 tons of quarried stone; Engel estimated housing for 1,500–3,000 people.
+- **Construction:** agglutinated rectangular rooms with walls ≥1 m thick, old rooms filled with rubble in coarse mesh bags and built over — accretionary, "somewhat like a giant 'U'," which Moseley in 1975 reads as "more fortuitous than deliberate" (contrast his 2001 treatment of the U-tradition above).
+- **Function debate:** Engel (1967) and Moseley's own earlier view (Patterson & Moseley 1968; Moseley 1972) read the site as basically residential. Moseley (1975) revised this — wall/room scale exceeds domestic norms, midden is thinner than at Aspero/Río Seco despite the site's larger scale, and its rich fishing-plus-farming catchment implies a regional (not local) labor pool. He also rejects reading it as a "temple," since the established platform-mound tradition is architecturally unlike El Paraíso's room-and-court form.
+- **Diet:** marine protein dominant; industrial cultigens (cotton, gourd) plus guava, lucuma, legumes, tubers; adjacent ~90 ha floodwater-farmable land and ~150 ha canal-reachable — but farming stayed secondary.
+
+Sources: [[moseley-maritime-foundations-1975]] · [[moseley-incas-and-their-ancestors-2001]] · [[moseley-michael]] · [[maritime-foundations-hypothesis]] · [[caral]] (parallel Preceramic monumentalism)

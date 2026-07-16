@@ -10,9 +10,9 @@ measured_by: ["classical narrative of movements (Livy, Polybius, Pausanias, Pomp
 driven_by: ["elite-led mobility and surplus-population traditions in classical accounts", "raid as status system among Early La Tène warrior aristocracies", "military opportunity and Mediterranean mercenary markets", "post-Alexander power vacuum in Balkans/Asia Minor", "archaeologically visible culture spread (mechanism disputed)"]
 produces: ["La Tène material expansion Marne–Transylvania continuum", "Galatian settlement in Anatolia", "Po Valley Celtic communities (Cisalpine Gaul)", "Roman ethnographic stereotypes of Gallic threat", "eastern La Tène art hybridizations"]
 theorized_by: ["[[cunliffe-barry]]"]
-key_studies: ["[[cunliffe-ancient-celts-1997]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+key_studies: ["[[cunliffe-ancient-celts-1997]]", "[[cunliffe-facing-the-ocean-2001]]"]
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [phenomenon, iron-age, western-europe, mediterranean]
 aliases: [Celtic migration period, Gallic migrations, Celtic diaspora]
 ---
@@ -118,6 +118,12 @@ Migrations largely over by early second century BCE (Cunliffe); energy turns to 
 - **[[celticity-debate]]** — invasionist models (Hawkes, Bosch-Gimpera two waves in Spain, etc.) vs exchange/elite-assimilation models for Atlantic and Iberian Celtic languages; migrations horizon is where text and archaeology densest, hence most abused as universal template.
 - **Atlantic isolation c.400–200** — folk movements disrupt long-established west-central–Atlantic exchange; Brittany, NW France, Low Countries, Britain develop in relative isolation until second-century renewal (R4-017).
 
+## Densification from Cunliffe, *Facing the Ocean* (2001)
+
+A second Cunliffe synthesis restates the classical-cause/archaeological-signature convergence already recorded above, with its own hedging. Classical writers "were generally agreed that the prime cause of the migrations was overpopulation and the stress which it engendered"; cemetery evidence from the Marne/Moselle shows population increase through the 5th century BCE followed by sudden decline at its end, offering some support — but Cunliffe judges "the picture provided from the classical sources and from archaeology is consistent but ill-focused," with the scale and duration of the migrations hard to gauge (Cunliffe 2001). This is a second-source corroboration of the "homeland signatures of exodus" finding above, not new evidence, and keeps the same caution against overreading cemetery decline as a precise migration census.
+
+He also documents likely Belgic migration into Britain (later 2nd c. BCE, from Caesar's brief mention and the later flight of the Atrebatic chieftain Commius to Britain): migrants entering via the Solent and establishing territory later known as Belgic tribal land centred on Venta Belgarum (Winchester), with Commius founding the Atrebates in northern Hampshire/Berkshire (Cunliffe 2001) — a smaller, later, cross-Channel instance of the same elite-led mobility pattern this page documents for the continental migration horizon.
+
 ## Debates
 
 | Issue | Positions (strongest form, attributed) | Status in Cunliffe 1997 |
@@ -143,7 +149,7 @@ See [[celticity-debate]] for the wider modern dispute over whether “Celts” a
 
 ## Links
 
-- Source: [[cunliffe-ancient-celts-1997]] · Thinker: [[cunliffe-barry]]
+- Sources: [[cunliffe-ancient-celts-1997]] · [[cunliffe-facing-the-ocean-2001]] · Thinker: [[cunliffe-barry]]
 - Cultures: [[celts]] · [[la-tene-culture]] · [[hallstatt-culture]] · [[celtiberian-culture]] · [[celtic-languages]]
 - Concepts / institutions: [[celtic-art]] · [[prestige-goods-economy]] · [[oppida]] · [[druids]]
 - Debates: [[celticity-debate]]

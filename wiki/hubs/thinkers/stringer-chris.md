@@ -5,18 +5,18 @@ date_birth: "1947"
 date_death: living
 date_precision: "year"
 disciplines: ["biological-anthropology", "archaeology"]
-key_works: ["[[stringer-gamble-in-search-of-the-neanderthals-1993|In Search of the Neanderthals (1993, with Clive Gamble)]]", "[[stringer-lone-survivors-2012|Lone Survivors (2012)]]", "Stringer & Andrews Science 1988 (as cited 2012)"]
+key_works: ["[[stringer-gamble-in-search-of-the-neanderthals-1993|In Search of the Neanderthals (1993, with Clive Gamble)]]", "[[stringer-origin-of-our-species-2011|The Origin of Our Species (2011, UK)]]", "[[stringer-lone-survivors-2012|Lone Survivors (2012, US retitle)]]", "Stringer & Andrews Science 1988 (as cited 2012)"]
 key_concepts: ["[[recent-african-origin]]", "[[anatomically-modern-humans]]", "[[assimilation-model]] (modest / mostly Out of Africa)", "[[neanderthals]]", "[[behavioral-modernity]]"]
 fieldwork_sites: ["Natural History Museum, London (career base from 1973)", "1971 museum morphometrics tour (ten European countries)", "Britain / Boxgrove Project association", "Gibraltar (specimen work)"]
-primary_sources: ["stringer-lone-survivors-2012 (2012, ingested)", "stringer-gamble-in-search-of-the-neanderthals-1993 (1993, ingested)"]
-key_sources: ["stringer-lone-survivors-2012", "stringer-gamble-in-search-of-the-neanderthals-1993"]
-last_updated: 2026-07-10
+primary_sources: ["stringer-lone-survivors-2012 (2012 U.S., claim extract)", "stringer-origin-of-our-species-2011 (2011 UK twin, bibliographic)", "stringer-gamble-in-search-of-the-neanderthals-1993 (1993, ingested)"]
+key_sources: ["stringer-lone-survivors-2012", "stringer-origin-of-our-species-2011", "stringer-gamble-in-search-of-the-neanderthals-1993"]
+last_updated: 2026-07-15
 tags: [hub, thinker-analysis]
 ---
 
 # Christopher Stringer — Deep Analysis
 
-> Thinkers Hub deep analysis. Summary: [[stringer-chris]]. Depth here only. All program and interpretive claims are **attributed voice** unless brute bibliographic fact. Two ingested primaries as of 2026-07-10: *[[stringer-gamble-in-search-of-the-neanderthals-1993|In Search of the Neanderthals]]* (1993, with [[gamble-clive|Clive Gamble]]) and *[[stringer-lone-survivors-2012|Lone Survivors]]* (2012). Later papers and *Homo Britannicus* not yet ingested as full texts.
+> Thinkers Hub deep analysis. Summary: [[stringer-chris]]. Depth here only. All program and interpretive claims are **attributed voice** unless brute bibliographic fact. Ingested primaries as of 2026-07-15: *[[stringer-gamble-in-search-of-the-neanderthals-1993|In Search of the Neanderthals]]* (1993, with [[gamble-clive|Clive Gamble]]) and the career synthesis *[[stringer-origin-of-our-species-2011|The Origin of Our Species]]* (UK 2011) / *[[stringer-lone-survivors-2012|Lone Survivors]]* (U.S. 2012) — one continuous text; claim densification cites the U.S. page. Later papers and *Homo Britannicus* not yet ingested as full texts.
 
 **Analysis standard:** works-timeline · concepts matrix · verbatim primary quotation · empirical base examined critically · counterfactual genealogy · nine canonical sections.
 

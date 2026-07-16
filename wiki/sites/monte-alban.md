@@ -13,8 +13,8 @@ cultures: ["[[cultures/zapotec-civilization]]"]
 excavated_by: ["[[thinkers/caso-alfonso|Alfonso Caso]]", "Kent Flannery", "Joyce Marcus", "Richard Blanton", "Stephen Kowalewski", "Javier Urcid"]
 excavation_years: ["1930s (Caso's initial excavations)", "later regional survey (Blanton/Kowalewski)"]
 key_finds: ["Danzantes carvings", "Building J conquest slabs", "Tomb 104", "Tomb 5 (Cerro de la Campana)", "Noriega Stone"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, mesoamerica, classical-antiquity]
 ---
 
@@ -43,3 +43,55 @@ Monte Albán is the type site of [[cultures/zapotec-civilization]] and the sourc
 - **[POSITION]** The Building J ballcourt's possible function in adjudicating inter-polity conflict is speculative (unnamed researchers, per Coe & Koontz), not established.
 
 See [[sources/coe-koontz-mexico-2013]], [[cultures/zapotec-civilization]], [[sites/teotihuacan]], [[thinkers/caso-alfonso]].
+
+## Zapotec Civilization (Marcus & Flannery 1996)
+
+Densified from [[marcus-flannery-zapotec-civilization-1996]] (study [[marcus-flannery-zapotec-civilization-study]]). All figures **attributed** Settlement Pattern Project / Marcus & Flannery estimates as of 1996.
+
+### Founding as synoikism
+
+Late Rosario: mountain uninhabited (central no-man’s-land ~80 km²). Early MA I: est. **~5,280** inhabitants; Late MA I: est. **~17,242** (~1/3 of valley; city ~365 ha) with ~3 km western/northern defensive walls. [[blanton-richard|Blanton]] mapped three discrete early residential clusters — multi-group colonization. Authors apply Greek [[synoikism]] as **analogy**: rapid multi-community relocation for defense and power-building; prefer SJM-led Etla confederacy scenario over anti-SJM coalition. Period I architecture largely buried under later constructions (limits palace/temple ground plans).
+
+### Military propaganda and writing
+
+Building L “Danzantes”: >300 earliest monuments as slain/sacrificed enemies (reinterpreted from “dancers”); ~80% of monuments from the city’s 1200-year heyday; later reused as stair treads (“treading on captives”). Stelae 12–13 at Building L: early pure text + year-bearer/month candidates; authors link finger-ordinal conventions to Zapotec language (**attributed ethnic claim**).
+
+### Piedmont strategy and state institutions
+
+Canal irrigation within ~15 km (O’Brien dam/canal system on SE flank: ~50 ha, ≤~250 persons — one of many systems) provisioned the relocated urban population. By MA II: grand plaza ~300×200 m; palaces; standardized two-room temples; I-shaped ballcourts; Building J >40 place-name conquest slabs (Caso inverted-head = conquest; absences may mark colonization/diplomacy). Expansion triad: colonize, conquer ([[cuicatlan-canada]]), diplomatically engage peers ([[teotihuacan]]).
+
+### Classic peak, Teotihuacan, decline
+
+IIIa valley pop. est. **~115,000**; Monte Albán city est. **~16,500** — no longer as demographically dominant (peer [[jalieza]] ~12,835 on 408 ha). Nearly two-thirds of valley population at **38** fortifiable sites. Oaxaca barrio at Teotihuacan (1–2 ha; urns; 9 Earthquake tomb; Spence limited intermarriage); Millon’s “special relationship”; rare Teotihuacan imports mostly North Platform elite gifts — **trade/diplomacy not takeover** (authors’ position). Tomb 104 and related royal tombs under palaces; funerary urns as **royal ancestors** (not free-standing gods). IIIb peak city ~24k then Main Plaza desertion; multipolar MA IV.
+
+### Action-theory reading
+
+Urban relocation as dual strain- and interest-related “emergent novelty”; ranking→stratification via class endogamy and Cociyo noble genealogy; writing as noble-speech propaganda. See [[action-theory-archaeology]].
+
+## The Cloud People (Flannery & Marcus, eds., 1983)
+
+[[flannery-marcus-cloud-people-1983|The Cloud People]] (1983) reconstructs Monte Albán's founding and career from the Valley of Oaxaca settlement survey (all dates uncalibrated radiocarbon):
+
+- **Founding, ca. 500 BCE (Period Ia).** [[blanton-richard|Richard Blanton]] argued Monte Albán was a **"disembedded capital"** — a special-function administrative seat built on a resource-poor, agriculturally disadvantaged hilltop in a "neutral" location by a confederacy of formerly autonomous valley polities (compared to Washington, D.C.), its >300 Period I danzante monuments implying a partly military function. [[flannery-kent-v|Flannery]] and [[marcus-joyce|Marcus]] instead emphasized the San José Mogote chiefly elite as founders. W.T. Sanders and R. Santley countered that a single dominant agrarian polity unified the valley; Blanton rebutted that no Period I palace is known and the site sits >4 km from good alluvium.
+- **Danzantes.** Flannery and Marcus endorsed Michael Coe's reading of the danzante gallery on Building L as slain/sacrificed captives (nudity as humiliation), ~80% of Period I carving effort.
+- **Building J (Period II).** [[marcus-joyce|Marcus]] read its >50 "hill"-plus-place-name slabs as a conquest/tribute-territory list (following Caso), tentatively matching four place-glyphs to distant towns via the Codex Mendoza — explicitly "a hypothesis to be confirmed or rejected." She saw no evidence for the popular astronomical-observatory interpretation.
+- **Urban peak and decline.** Kowalewski's survey put ~77% of the surveyed valley population at Monte Albán by Period Ic; Blanton documented its gradual Period IIIb–IV loss of metropolis status.
+
+## Ancient Oaxaca, 2nd ed. (Blanton, Feinman, Kowalewski & Nicholas 2022)
+
+The survey authors' own synthesis ([[blanton-ancient-oaxaca-2022]]), reframing the founding through [[collective-action-theory]]; all interpretive claims attributed to Blanton et al. 2022.
+
+### Period I city (survey and excavation findings)
+
+- Early I population est. 3,500–7,000 (midpoint ~5,000, from 69 ha dense + 255 ha lighter sherd scatter at 25–50 persons/ha; Blanton 1978); Late I ~17,000 — implied growth ~6%/yr, too fast for natural increase alone (health/mortality stable per Hodges 1989), implying heavy in-migration. Regional site counts rose 72 → 259 → 643 (Rosario → Early I → Late I; Kowalewski et al. 1989), so the city's growth was not simply at smaller communities' expense.
+- Residents clustered in **three nucleated barrios** of ~1,000–2,000 near the summit despite ample space — possibly migrants from the three formerly separate valley arms (unconfirmed by ceramic sourcing); Monte Albán always had more than two subdivisions (up to fifteen later), unlike San José Mogote's dual division. No internal walls or elite/commoner segregation in Period I; internal sector walls appear only in the Early Postclassic.
+- The Main Plaza area was set aside from the start (Period I public buildings on sterile soil); of ~2,000 mapped terraces, only a few were agricultural — the rest residential (their rebuttal to agrarian-locational critics). Water had to be carried up in Early I; the 2–4 km catchment is mostly Class III land, so the city depended on a "social catchment" of several hundred km². House storage pits shrank in Early I and later vanished (Winter 1974), read as growing market/institutional provisioning; Hodges (1989) found Period I residents "reasonably healthy," consistent with functioning food-exchange networks.
+- Defense reading: the hilltop's tactical advantage and the danzantes' captive displays are interpreted as both legitimating authority and mobilizing the populace under raiding threat; a north defensive wall was added later in Period I/early II.
+
+### Ideology and governance
+
+Blanton et al. argue Period I governance was comparatively **collective/"faceless"** — no ruler-glorifying monuments — with the older fire-serpent/earthquake dual symbolism displaced by a universalizing **Cocijo** (lightning/rain) cult that they read as an integrative state-building ideology for a population drawn from formerly separate polities; Cocijo remained the hallmark of Zapotec iconography for over a millennium. Founding positions (disembedded capital vs. chiefly relocation vs. dominant polity vs. conquest) are recorded at [[monte-alban-founding-debate]]; see [[disembedded-capital]].
+
+### Period II shift
+
+Regional population fell 19% to ~45,000 and the city 16% to under 15,000 (Kowalewski et al. 1989). Blanton et al. link the decline to a governance shift: conquest and tribute exaction *outside* the valley (Cuicatlán Cañada etc.) supplied **external revenues**, moving the polity from more collective toward more exclusionary rule with fewer public goods — their collective-action explanation for piedmont depopulation. The city later peaked ~25,000 (Classic), declined without conflagration, and was never totally abandoned; today it is a UNESCO World Heritage Site receiving ~750,000 visitors a year.

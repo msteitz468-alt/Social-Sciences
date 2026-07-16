@@ -4,10 +4,10 @@ theory_page: "[[feminist-archaeology]]"
 disciplines: ["archaeology", "anthropology"]
 era_origin: ["critical-turn"]
 originated_by: ["[[conkey-margaret-w]]", "[[gero-joan-m]]", "[[spector-janet]]", "[[wylie-alison]]"]
-key_texts: ["Conkey & Spector 1984", "[[gero-conkey-engendering-archaeology-1991|Engendering Archaeology (1991)]]"]
+key_texts: ["Conkey & Spector 1984", "[[gero-conkey-engendering-archaeology-1991|Engendering Archaeology (1991)]]", "[[gilchrist-gender-and-archaeology-1999|Gilchrist, Gender and Archaeology (1999)]]"]
 status: "active"
-key_sources: ["Engendering Archaeology (Gero & Conkey eds., 1991)"]
-last_updated: 2026-07-10
+key_sources: ["Engendering Archaeology (Gero & Conkey eds., 1991)", "Gilchrist, Gender and Archaeology (1999)"]
+last_updated: 2026-07-15
 tags: [hub, theory-analysis]
 ---
 
@@ -145,6 +145,34 @@ The volume’s honesty test is whether gender analysis changes **what** is asked
 | Only about women / identity politics | Dual object includes men-as-gendered; goal includes gender relations beyond domination alone (Flax via Conkey & Gero) |
 | Over-attribution / essentialism | Gender attribution not required; Moore: women not unproblematic category |
 
+
+
+## Gilchrist 1999 — Post-Charter Synthesis (attributed)
+
+*(Primary densification from [[gilchrist-gender-and-archaeology-1999|Gilchrist, *Gender and Archaeology*]] 1999. Complements the 1991 multi-author charter above.)*
+
+### Equality to difference
+
+Gilchrist argues that gender archaeology’s ~15-year arc (to 1999) tracks feminist waves: second-wave concerns with patriarchy, [[androcentrism]], and equality of recognition produced the visibility project; third-wave pluralism, cultural/symbolic approaches, and the imperative of **difference** (between and among men and women of contrasting sexualities, ethnicities, classes) reorient the field toward identity, the body, sexuality, and masculinity. Not all gender archaeology is feminist or done by women, but the relationship is symbiotic. She distinguishes Americanist streams (labour, prestige, processual roots — Gero & Conkey 1991 as emblem) from European streams more focused on identity and cultural construction (Moore & Scott 1997).
+
+### Method without a template
+
+> The book has not set out to provide a template or exemplar for how to do gender archaeology… there is no single method or means of doing gender archaeology, and the interrogation of gender in antiquity will never be complete… the imperative exists to do gender archaeology well.
+
+Pluralism without relativism: cite [[wylie-alison|Wylie]] on rigour; prefer multi-source designs that reveal ambiguity and contradiction; critical analogy; precise definitions of sex, gender, sexuality; suspicion of essentialist and cross-cultural stereotypes. [[gender-attribution]] remains useful for visibility but is not the sole gate — technology relations and representation matter; visibility must extend beyond the sexual division of labour to **embodiment**.
+
+### Body, queer theory, science
+
+Gilchrist imports [[butler-judith|Butler]]’s performativity and queer theory’s challenge to binary categories, while insisting queer archaeology should disrupt heteronormative protocols rather than “make gays or lesbians visible” in antiquity. Social constructionism is not absolute: cognitive science and medical history (Laqueur’s one-sex→two-sex model; sex as spectrum) require engagement with science rather than retreat. Multiple genders (two-spirit, hijra, Byzantine eunuch — as she reviews) and mortuary sex/gender mismatches pressure binary attribution. Masculinist studies are welcomed if they challenge essentialism of both sexes rather than restore male-only visibility.
+
+### Contested garden (empirical densification)
+
+Chapter 6’s later medieval English castle case — the **[[contested-garden]]** — is Gilchrist’s signature application: against the castle as pure masculine warrior bastion, she reconstructs elite female seclusion, private gardens, chapels, and chambers through access analysis + documents + literary metaphor (*hortus conclusus*, *Roman de la Rose*). Artefact-based room gendering fails; seclusion can mark **prestige** (king, monastics, noble women), not only subordination; masculine and feminine are embodied sensorily but not as exclusive domains. The case operationalizes [[gender-lifecourse]] and phenomenological space for historical archaeology.
+
+### What the synthesis adds to What Survived
+
+Adds to the 1991 charter’s surviving toolkit: explicit second→third wave periodization; US/Europe tradition split; lifecourse and queer-disruption program statements; medieval multi-source exemplar; glossary-level definitions ([[androcentrism]], gender attribution, performance) that stabilize teaching vocabulary. Still outstanding for this hub: Conkey & Spector 1984 primary text; Spector 1993; later intersectional/queer handbooks; Gilchrist’s nunnery monographs.
+
 ## What Survived
 
 - **Gender archaeology** as a normal research domain in handbooks, journals, and curricula — the 1980s “no literature” vacuum closed.
@@ -159,4 +187,4 @@ What did **not** survive unchanged: early-second-wave residual essentialism (alr
 
 ## Current Status and Research Frontiers
 
-As of Gero & Conkey 1991 (and as of vault coverage 2026-07-10), feminist/gender archaeology is an **active and mainstream** research domain, with research frontiers (not yet primary-ingested here) in queer archaeologies, masculinities, intersectional race/class/colonial analyses, and aDNA-informed kinship that must still obey the four-way non-identity rule (genes ≠ language ≠ culture ≠ people). The 1991 charter remains the historical hinge: the moment Anglophone archaeology acquired a multi-author empirical demonstration that gender was researchable. Outstanding primary ingestions that would densify this hub: Conkey & Spector 1984; Spector’s 1993 book *What This Awl Means*; later synthetic handbooks; Gero’s full socio-politics corpus.
+As of Gero & Conkey 1991 (and as of vault coverage 2026-07-10), feminist/gender archaeology is an **active and mainstream** research domain, with research frontiers (not yet primary-ingested here) in queer archaeologies, masculinities, intersectional race/class/colonial analyses, and aDNA-informed kinship that must still obey the four-way non-identity rule (genes ≠ language ≠ culture ≠ people). The 1991 charter remains the historical hinge: the moment Anglophone archaeology acquired a multi-author empirical demonstration that gender was researchable. **Gilchrist 1999 synthesis now primary-ingested** (this section). Still outstanding: Conkey & Spector 1984 primary article; Spector’s 1993 book *What This Awl Means*; later synthetic handbooks; Gero’s full socio-politics corpus; Gilchrist’s medieval nunnery monographs.

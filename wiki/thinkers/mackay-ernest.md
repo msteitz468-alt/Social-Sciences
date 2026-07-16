@@ -10,8 +10,8 @@ trained: []
 key_works: []
 key_concepts: []
 fieldwork_sites: ["[[mohenjo-daro]] (director, 1926–31)", "Chanhu-daro (1935–36)", "Kish (Mesopotamia)", "Jamdat Nasr (Mesopotamia)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -61,6 +61,19 @@ later rejected in 1926, and the broader Marshall–Mackay–Childe synthesis of 
 peaceful trading civilization). His Chanhu-daro dig marks the first relaxation of the
 colonial-era restriction on non-British-Indian excavators in the Indus field.
 
+## Wright, *The Ancient Indus* (2010)
+
+Wright 2010, commenting on Mackay, reports his description (1938) of the Great Bath
+complex as a "priestly community," and his interpretation (1943) of the extensive
+craft-production debris at Chanhu-daro as evidence the site was "populated chiefly
+by artisans." Wright also corrects, as an error attributable to Marshall rather than
+Mackay, an early report of "urn burials" at Mohenjo-daro — Wright states these were
+in fact trash-filled pots. Wright further reports Mackay's own interpretation that
+three cylinder seals found at Mohenjo-daro carrying Indus square-seal imagery
+(gharials, goats, trees) were locally produced by Harappans who had seen but did not
+adopt the Mesopotamian cylinder-seal form.
+
 ## Collection Coverage Note
 
 Ingested from Possehl (2002), Ch. 1 (r1), the only source consulted for this page.
+Further characterized via [[wright-rita-p|Wright 2010]] (see above).

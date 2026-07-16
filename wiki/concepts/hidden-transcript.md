@@ -8,7 +8,7 @@ emic_or_etic: etic
 operationalized_as: "Discourse of subordinate groups recorded offstage, beyond direct observation by powerholders; methodologically triangulated against onstage speech"
 contested: yes
 related_concepts: ["[[public-transcript]]", "[[infrapolitics]]", "[[everyday-forms-of-resistance]]", "[[hegemony]]", "[[false-consciousness]]", "[[charisma]]", "[[impression-management]]"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-15
 tags: [concept]
 ---
@@ -48,3 +48,7 @@ Scott applied the concept comparatively across slavery, serfdom, caste, and colo
 - Scott himself noted the evidentiary circularity risk: the hidden transcript is inferred largely from disguised public forms whose meaning is contested (Kunzle's deliberately Janus-faced world-upside-down prints).
 - Critics of the resistance literature (e.g., positions recorded on [[hegemony-resistance-debate]]) have argued Scott's framework romanticizes resistance, under-weights genuine ideological incorporation, and makes hegemony unfalsifiable-in-reverse: any deference becomes performance, any dissent becomes proof.
 - Empirical illustrations in the 1990 book are secondary and selective — a theoretical synthesis, not a field study.
+
+## Applications — extension to material culture (Hall 2000)
+
+Archaeologist [[hall-martin|Martin Hall]] (*[[hall-archaeology-modern-world-2000|Archaeology and the Modern World]]*, 2000) extended Scott's transcript pair from speech to material culture and archaeological assemblages, arguing the hidden transcript can leave a legible "impress" on the public/material record even where the subordinate voice itself is not directly recoverable. Hall's own formulation: reading the "impress" that hidden resistance leaves on the dominant material record is "like deducing the impact of a fist that remains on a sandbag" (attributed, Hall 2000). Hall treated inconsistency and discordance between evidence classes — rather than gaps to be resolved by further excavation — as itself the primary signal of hidden-transcript activity in colonial contexts (see [[documentary-archaeology]]). Case example: the Ziekedwars Street well assemblage (Cape Town) preserved women's, servants', and slaves' presence effectively absent from a contemporary probate inventory of the same household — read by Hall as the hidden transcript's impress on an otherwise male-centered documentary record (attributed, Hall 2000).

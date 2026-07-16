@@ -2,11 +2,11 @@
 title: "Household"
 institution_type: kinship
 distribution: universal
-key_variants: ["simple household (married couple + offspring)", "expanded household (simple + unmarried siblings/widowed mother)", "multiple-family household (two+ conjugal units co-resident)", "great household / institutional estate (temple, palace)"]
-theorized_by: ["[[postgate-early-mesopotamia-1994|Postgate 1994]]", "[[insoll-timothy|Insoll 1999]] (Muslim domestic environment)"]
-key_studies: ["[[unknown]]"]
-sources_ingested: 3
-last_updated: 2026-07-15
+key_variants: ["simple household (married couple + offspring)", "expanded household (simple + unmarried siblings/widowed mother)", "multiple-family household (two+ conjugal units co-resident)", "great household / institutional estate (temple, palace)", "Formative Mesoamerican household cluster (house + pits, burials, middens)"]
+theorized_by: ["[[postgate-early-mesopotamia-1994|Postgate 1994]]", "[[insoll-timothy|Insoll 1999]] (Muslim domestic environment)", "[[flannery-kent-v|Flannery]] & Marcus C. Winter (Formative archaeological household)"]
+key_studies: ["[[flannery-early-mesoamerican-village-study]]"]
+sources_ingested: 5
+last_updated: "2026-07-15"
 tags: [institution]
 ---
 
@@ -189,9 +189,12 @@ domestic-household register.
 
 ## Key Studies
 
-No dedicated `studies/` page yet exists for household composition specifically;
-evidentiary base is Postgate's synthesis of the Kish census text, Nippur inheritance
-and estate-division documents, and Old Babylonian marriage/divorce contracts.
+- Mesopotamian documentary base: Postgate's synthesis of the Kish census text, Nippur
+  inheritance and estate-division documents, and Old Babylonian marriage/divorce
+  contracts (no separate `studies/` page for that corpus).
+- Formative Mesoamerican archaeological household: [[flannery-early-mesoamerican-village-study]]
+  (Winter household-cluster definition; Flannery & Winter activity/specialization
+  analysis; Tierras Largas / San José Mogote cases).
 
 ## Debates
 
@@ -217,3 +220,92 @@ Links: [[sumerians]] · [[temple-economy]] · [[city-state]] · [[land-tenure]] 
 **Settlement scale.** Public (mosque, market) / semi-private (gated quarters) / private (house) domains reappear at city scale; egalitarian ummah ideals conflict with hierarchical multi-ethnic quarters that archaeology is suited to investigate.
 
 Links (Islam layer): [[mosque]] · [[islamic-archaeology]] · [[archaeology-of-religion]] · [[material-culture]] · [[social-archaeology]] · [[insoll-archaeology-of-islam-1999]]
+
+## Formative Mesoamerican archaeological household (Flannery ed. 1976)
+
+*(Attributed — [[flannery-kent-v|Flannery]] (ed.), *[[flannery-early-mesoamerican-village-1976|The Early Mesoamerican Village]]* 1976, esp. Ch. 2 with Marcus C. Winter; study [[flannery-early-mesoamerican-village-study]].)* Complements Laslett/Postgate documentary co-residence definitions with an **archaeological operationalization** for Early–Middle Formative (ca. 1500–500 B.C.) villages, mainly Valley of Oaxaca.
+
+### Household vs household cluster
+
+Winter distinguishes the **household** (interacting people) from the
+**[[household-cluster]]** (archaeological remains of one household). A typical Oaxaca
+Formative cluster: **one house**, **two to six large storage pits**, **one to three
+graves**, plus ovens, middens, drainage features; features usually outside the house
+within a few meters; open area **20–40 m** to the nearest contemporary cluster; cluster
+footprint often ~**300 m²** or more. At [[tierras-largas]], Winter’s random-quadrat
+program recovered villages of **8–12 household clusters** per period — the material
+building block of the Formative hamlet.
+
+### House form and nuclear-family inference
+
+Between ~1350–850 B.C., Flannery reports the one-room thatch-roofed **wattle-and-daub**
+house as the common Oaxaca residential form: roughly rectangular **3×5 to 4×6 m**
+(often ~15–35 m² roofed); stamped clay floors (often sand-surfaced); pine posts by San
+José phase; door ~1 m on a long side; whitewash sometimes present (functional cook-shack
+vs residence, or status). Citing Naroll (1962) ~10 m² roofed area per person, Flannery
+infers dwellings intended for **nuclear families**. Construction contrasts: highland
+square corners vs some lowland rounded corners (Panuco, La Victoria); adobe brick first
+in public buildings late Early Formative, widespread in residences mainly Middle
+Formative (possible status signal).
+
+### Storage, burial, cooking
+
+Bell-shaped pits: major function likely **food storage** (capacity up to ~metric ton of
+maize; higher maize pollen than other contexts), also implement caches; use cycle
+storage → refuse and/or human graves; widespread highland Mesoamerica 1500–500 B.C.;
+concentrations predict a house within ~10 m. Burials: shallow graves ≤10 m of house or
+in open pits — adults both sexes, children, infants (not all household members
+recovered). Oaxaca houses **1200–500 B.C. usually lacked fixed hearths** — cooking in
+portable pottery braziers; outdoor ovens for Agave/game roasting possible.
+
+### Activities and specialization
+
+Flannery & Winter classify household activities: (1) **universal** subsistence (grinding
+stones, storage, maize, cottontail, braziers → basic household autonomy); (2)
+**household specialization** (e.g. pressure-retouch, bone tools, celts); (3)
+**regional specialization** (Etla shell ornament production; salt at saline springs;
+macaw feather prep at Tierras Largas); (4) **unique specialization** (magnetite mirror
+production restricted to Area A, eastern [[san-jose-mogote]], possibly four generations).
+Provisional **male/female work areas** (chert/shell vs food-prep/needles/spindle) —
+sample not statistically significant; floors often disturbed. Community scale reuses the
+cluster: courtyard groups (tentative 3–4 households); residential wards at larger
+villages (e.g. ≥4 at SJM 1150–850 B.C.); Whalen’s Tomaltepec zones (higher-status,
+lower-status, adult cemetery) with Winter-like 20–40 m spacing.
+
+Cross-links: [[household-cluster]] · [[household-archaeology]] · [[formative-stage]] ·
+[[san-jose-mogote]] · [[tierras-largas]] · [[flannery-early-mesoamerican-village-1976]] ·
+[[processual-archaeology]]
+
+## Third-Millennium Kinship, Marriage, and Property (Potts 1997)
+
+*(Attributed — [[potts-mesopotamian-civilization-1997|Potts 1997]], drawing on named specialist studies.)* Where Postgate's synthesis above centers Old Babylonian documentation, Potts adds a densely sourced third-millennium layer and several live scholarly disputes.
+
+**Household as socio-economic unit and internal stratification.** I. J. Gelb (1967:5) characterized a Mesopotamian temple ("deity's house") as a full socio-economic unit — largely self-contained and autarchic, comprising residential buildings, labor-force shelters, storage buildings, animal pens, fields, orchards, gardens, pastures, and the personnel and animals needed to run them (attributed; see [[temple-economy]]). Gelb (1967:7) distinguished three strata within large households: "free" members (family/managers); "semi-free" workers (men, *gurus*; women, *geme*; children) forming the bulk of the labor force, unsellable and receiving monthly barley/wool/oil rations (*se-ba*, *sig-ba*, *i-ba*); and "unfree" chattel slaves, sellable and generally without an independent productive role. R. Englund (1991:256) argued that in some periods — e.g. Umma grain-mill workers under the Third Dynasty of Ur — nominally "semi-free" women were effectively state-owned chattel labor, distinct from household slaves.
+
+**Kinship terminology and family form.** In third-millennium southern Mesopotamia the family was generally organized as a nuclear unit (parents and unmarried children); a shortage of distinct terms for cousins, nephews, and nieces makes filial and collateral relations hard to differentiate in the record (Sjoberg 1969; Gregoire 1981). Most scholars hold monogamy was the norm (Ebeling 1957–1971:9), though a second, socially inferior wife is attested from the second millennium onward (Gregoire 1981:52; Westbrook 1988; Groneberg 1989). The Ur-Meme family of Nippur (Zettler 1984, 1987) — three generations of Inanna-temple chief priesthood plus several regional governors — is cited as an example of a formidable third-millennium lineage; Potts nonetheless notes little sign, even in the late third millennium, of extended kin units resembling formal lineages.
+
+**Marriage.** Marriage was normally arranged by the groom's parents, preceded by an oath-sanctified promise in the king's name (Gregoire 1991:354–5); the degree of endogamy/exogamy cannot be judged from the evidence, though political and economic considerations shaped some inter-dynastic matches (Pintore 1978; van Dijk 1986). Contracts used the phrase *dam...tuku* ("to take as a spouse"); *ni-mi-us-sa* denoted goods furnished by the groom's family for the celebration, and *ku-dam-tuku* ("silver for taking the wife") may denote brideprice; dowries are never mentioned in Ur III sources (Gregoire 1981:54). Residence was patrilocal; J.-P. Gregoire distinguishes nearby separate households of related generations from true extended-family cohabitation.
+
+**The *terhatum*/*biblum* debate (position, Renger vs. Westbrook).** J. Renger (1973:272–3) argued Old Babylonian marriage law used two distinct, non-synonymous terms for reciprocal gifts exchanged between families rather than between groom and bride's father — "marriage in Old Babylonian times is not an arrangement between the groom and the bride, not even between the groom and the bride's father, but between the two families" — framing marriage as a family-alliance mechanism, and suggesting the practice reflected Amorite ("tribal") families' identity-maintenance as they settled into urban southern Mesopotamia. R. Westbrook (1988:59, 101), reviewing the same evidence, concluded *terhatum* specifically denotes brideprice ("a real price for a right over the bride, but one less than ownership") while *biblum* denotes non-monetary gifts from the groom's family to the bride's family — a technical rather than tribal-identity reading. Potts counters both readings' tribal framing on independent grounds: reciprocal/asymmetrical gift exchange is already well attested in the third millennium generally (Glassner 1985), not confined to families of Amorite origin.
+
+**Adoption, filiation, and inheritance.** All filiation was strictly patrilineal and distinguished from adoptive filiation, though a father could legitimize children by a slave or concubine through adoption; adoption also served to free a slave, give a wife a son, provide a fictive life annuity, obviate patrilineal inheritance rules, or pay a debt. There was no juridical difference between biological and adopted children in inheritance or succession (Gregoire 1981:56) — an adopted child could take precedence over a biological one in a succession dispute. A widow did not inherit her husband's property outright but held it in trust for her children, and she and daughters might receive lifetime survival gifts (Gregoire 1981:53, 56); property of a deceased household head passed to male offspring or, failing that, female offspring, reverting to the husband's brother only absent any offspring — though a Nippur Ur III case documents an attempted usurpation of a widow's inheritance by a husband's brother (Owen 1980:170–84). Male offspring generally received equal shares (no primogeniture), though a father could record preferential lifetime gifts on a sealed tablet, later deducted from the recipient's inheritance share.
+
+**Divorce.** A husband could renounce marriage for contract violation or adultery (adultery punished by death); a wrongfully repudiated wife was entitled to indemnities under the Laws of Ur-Nammu §6, a stipulated silver payment reaching one mina (500 g) by the Ur III period (Gregoire 1981:55) — thought to have suppressed the divorce rate (Neumann 1987:134). Adultery was capital under the Laws of Ur-Nammu §7, Laws of Eshnunna §28, Middle Assyrian laws §§13–15, and Laws of Hammurapi §129 (drowning); Hammurapi's code further prescribed death for rape (§130), for a wife's adultery while her husband was a prisoner of war (§133b), and for a wife's refusal of intercourse with her husband (§143); Eshnunna §26 prescribed death for deflowering an engaged virgin. Ries (1976–1980:393) notes adultery was the sole capital offence under the Laws of Ur-Nammu, though the death penalty was applied sparingly in practice.
+
+**Women's legal status.** Women were commonly identified relationally (*dam* "wife," *ama* "mother," *nin* "sister," *dumu-munus* "daughter") and referenced in documents as "wife of X" rather than by their own names (Glassner 1989:82–3). Urukagina's legal dictum prescribed that a woman who spoke "disrespectfully" to a man have her mouth crushed with a fired brick, displayed at the city gate (trans. Cooper 1986:77) — formal evidence of legal inferiority — yet women commonly appear as buyers, sellers, and witnesses in Old Akkadian legal documents (Steinkeller 1982:366), suggesting their practical juridical position "was far from deplorable" (Potts, synthesizing the tension between the two evidence sets). Glassner (1989) documented a strict distinction between wives (*assatum*) and prostitutes/harlots (*harimtum*): virginity was required for marriage; married women were veiled (*kuttumu*, the same verb used for "shutting a door" — cf. the epithet of Gula as "the veiled spouse... whom nobody can look at, even from afar"); harlots were specifically forbidden the veil, marking a contrast with *marat awilim* ("gentlemen's daughters"), and offered services "at the door of the tavern," "at the crossing," "on the square."
+
+**The dyandry/polyandry dispute (position, Urukagina "Reforms").** A passage in Urukagina's "Reforms" states "Women of former times each married two men, but women of today have been made to give up that crime" (trans. Cooper 1986:77). Potts records competing readings: possible evidence of prior Early Dynastic polyandry/dyandry; alternatively, a reference to a man placing his wife into debt servitude/bondage under two effective "masters" (San Nicolo 1938); Glassner (1989:80) proposed the passage refers to an ancient *ius primae noctis* observance. Some scholars connect it to Herodotus's claim (*Hist.* I.199) that every Babylonian woman had once to have intercourse with a stranger, and to the Epic of Gilgamesh motif of the hero's intercourse with a bride before her husband on the wedding night.
+
+**Dowry studies.** S. Dalley's (1980) study of Old Babylonian dowry enumerations found knives, mirrors, cosmetics, and sieves absent and looms present in only three of ten texts, while furniture (chairs, beds, tables, chests, rugs), ceramic vessels, leather bags, grinding stones, land, silver, jewellery, clothing, reed baskets, blankets, livestock, wooden bowls, foot-stools, spoons, combs, wooden pot-racks, and slave girls were commonly included. M. Roth (1991:37) found the wealthy Neo-Babylonian Itti-Marduk-Balatu family commanded rich dowries (real estate, cash, slaves, household goods) from incoming wives while offsetting losses from daughters' outgoing dowries with greater incoming wealth from daughters-in-law — evidence, per Roth, of a deliberate marriage/wealth strategy.
+
+**The *babtum*/neighbourhood dispute (position, Yoffee/Stone vs. Postgate).** N. Yoffee (1988:105–6) proposed the *babtum* was a "corporate group, perhaps even a lineage" adjudicating local legal cases in the Old Babylonian period, named after prominent personages. Elizabeth Stone (1987) attempted to document neighbourhoods and house-transfer patterns organized along kin-group lines at Old Babylonian [[nippur|Nippur]], but was herself unsure her "neighbourhoods" equated to a *babtum* given their small size (Stone 1987:6–7). J. N. Postgate (1990:237–8) disputed Stone's framework directly: "the neighborhood as conceived by the author is not an administrative but a social entity, but since it cannot be defined by either spatial or kin-based limits, it is very hard to see how historians and archaeologists will be able to demonstrate its existence." Recorded here as an open dispute, not adjudicated.
+
+**Kin-property alienation and the Dilbat case.** Against Stone's view that urban neighbourhoods were kin-organized and house sales normally could not be alienated outside a social group, Yoffee (1988:126–7) documented workarounds at Old Babylonian Dilbat, where a newcomer, Iddin-Lagamal, first bought land jointly with a kinsman of the sellers, then bought out the entire family, then made further purchases townwide. Dilbat property was partible, inherited by all children (bilateral estates), and individual rooms — not just whole houses — were bought and sold, producing over generations a "struggle to reassemble dispersed properties" in which kinship-based organization broke down in favor of occupational ties; at Nuzi, creditors were regularly adopted by debtors specifically to move property outside kin units (Yoffee 1988:127; Grosz 1988). Yoffee (1988:128) further speculated — explicitly projecting back into prehistory — that repeated rebuilding, doorway closure, and room subdivision in mudbrick architecture across Western Asia may reflect kin- or non-kin property inheritance/transfer patterns, possibly bearing on the Early Neolithic shift from circular to rectilinear architecture (attributed, speculative).
+
+**The Neo-Babylonian filiation-chain dispute (position, San Nicolo vs. Lambert vs. Gelb).** By the ninth century BCE, native Babylonians increasingly used "PN1 *mar* (son of) PN2," sometimes with up to three ancestor names appended. M. San Nicolo (1951:2–3) suggested this elaboration arose from increasing litigation combined with repeated family names causing confusion. W. G. Lambert (1957:1) argued that in three-name formulas the final name meant "descendant of" — a vague "ancestor" rather than a literal grandfather. I. J. Gelb (1979:26) warned against literal biological readings altogether: "lists that two or three genealogical steps may really express three, four, or more generations. As the number of genealogical steps increases, so does the likelihood that the last PN... represents an ancestor... removed... by more generations than is indicated" — drawing an ethnographic analogy (flagged as analogy) to modern north Arabian bedouin genealogies (Lancaster 1981:152), which name geographically scaled social units rather than strict biological ancestors.
+
+**Kassite, Chaldaean, and Aramaean descent-marking.** J. A. Brinkman (1968:246–255) documented that Kassites, Chaldaeans, and Aramaeans in southern Mesopotamia in the later second/early first millennium preserved distinctive tribal/clan naming structures despite rapid Babylonian cultural assimilation (see [[akkadians]]). Kassites and Chaldaeans used "PN1 *mar* (son of) PN2," where PN2 named a "house" (*bit* — clan/tribe) rather than a biological parent; Potts compares this to Arab Banu-X/Al-X naming, where such a "house" (e.g. the House of Saud) denotes a web of interconnected families rather than an anthropological tribe, and a *bit*'s head (*bel biti*) was not always originally a member of that house by birth. Aramaeans used "PN1 LU (man of) X," X naming the macro-familial/lineage unit.
+
+**Social conventions of hospitality and status marking (Glassner).** J.-J. Glassner (1990:73) documented that it was impossible to refuse offered gifts or hospitality without giving offence; shared meals signified solidarity; toasting could escalate into a ritualized confrontation intended to bind parties more closely afterward; and guests seeking protection with a host group retained rights that could include marriage to a woman of the host group.
+
+**Evidence-class note.** This layer rests on legal/administrative cuneiform texts (marriage and divorce contracts, inheritance divisions, law-code provisions) read against a small number of literary/political texts (Urukagina's Reforms, Herodotus); several of its central disputes (*terhatum*/*biblum*, *babtum*, filiation chains, dyandry) turn on how confidently legal-textual formulae can be read as evidence of underlying social structure — recorded here as open positions per the Voice and Attribution Protocol, not resolved.

@@ -2,8 +2,8 @@
 title: "Ancient Near East Chronology (ca. 3000–323 BCE)"
 timeline_type: historical
 region: [mesopotamia, near-east, iran-plateau, anatolia, levant]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [timeline]
 ---
 
@@ -77,6 +77,20 @@ convention for cross-wiki consistency.
 - **Prehistoric ceramic sequence** (southern Mesopotamia): [[hassuna-culture|Hassuna]] →
   [[samarra-culture|Samarra]] → [[halaf-culture|Halaf]] → [[ubaid-culture|Ubaid]] →
   [[uruk-culture|Uruk]] (see those pages; dates pre-calibration in the older sources).
+
+## Nissen periodization (1988, attributed)
+
+*(Attributed — [[nissen-hans-j|Hans J. Nissen]], *[[nissen-early-history-ancient-near-east-1988|The Early History of the Ancient Near East, 9000–2000 B.C.]]* 1988. Chapter titles and working absolute bands as Nissen used them; hybrid of relative ceramic/architectural period names plus limited C-14 working dates. **Pre-dates and is independent of** the Van De Mieroop absolute/political list above — do not merge into one wiki-voice chronology. Nissen tailored chronological names and limits to the area of most striking progress (Babylonia), while allowing limited wider application when larger political units emerge.)*
+
+| Approx. dates (Nissen 1988) | Phase title (Nissen) | Content focus as he framed it |
+|---|---|---|
+| ca. 9000–6000 BCE | **The Time of Settlement** | Beginnings of permanent settlement; mixed economy; isolated settlements; extremes such as [[jericho]] / [[catalhoyuk]] not on the multi-tier urban trajectory |
+| ca. 6000–3200 BCE | **From Isolated Settlement to Town** | Regional differentiation; craft specialization (turnette to potter’s wheel); Halaf–Samarra–Ubaid; emergence of settlement systems; southern alluvial densification toward Late Uruk |
+| ca. 3200–2800 BCE | **The Period of Early High Civilization** | Late Uruk / Jamdet Nasr / Early Dynastic I; [[uruk]]-centered administration, writing, monumental public buildings, four-tier hinterland hierarchy |
+| ca. 2800–2350 BCE | **The Period of the Rival City-States** | Early Dynastic multipolar Babylonia; urban dominance of countryside; particularism vs short-lived centralizations (e.g. Eannatum, Lugalzaggesi) |
+| ca. 2350–2000 BCE | **The Period of the First Territorial States** | Akkad Dynasty through Third Dynasty of [[ur]]; territorial state with capital vs city-state particularism; Ur III bureaucracy |
+
+Nissen subdivided **early high civilization** (ca. 3200–2800) into Late Uruk, Jamdet Nasr, and Early Dynastic I on developments in architecture, pottery, seals, and writing. He retained the older research term “early high civilization” despite historiographic reservations because useful established labels should not be abandoned lightly (attributed position). Cross-links: [[uruk-culture]], [[state-formation]], [[settlement-hierarchy]], [[nissen-hans-j]].
 
 ## Notes on Method
 

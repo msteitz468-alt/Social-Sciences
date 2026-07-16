@@ -10,8 +10,8 @@ trained: ["[[chagnon-napoleon]]"]
 key_works: ["[[service-primitive-social-organization-1971|Primitive Social Organization (1962/1971)]]", "[[sahlins-service-evolution-culture-1960|Evolution and Culture (with Sahlins, 1960)]]", "[[service-origins-state-1975|Origins of the State and Civilization (1975)]]"]
 key_concepts: ["[[band-tribe-chiefdom-model]]", "[[integrative-theory-of-the-state]]", "[[chiefdom]]", "[[redistribution]]", "[[patrilocal-band]]", "[[sodality]]", "[[levels-of-sociocultural-integration]]", "[[law-of-evolutionary-potential]]", "[[general-and-specific-evolution]]"]
 fieldwork_sites: ["[[unknown]]"]
-sources_ingested: 6
-last_updated: 2026-07-10
+sources_ingested: 7
+last_updated: 2026-07-15
 tags: [thinker, anthropology]
 ---
 
@@ -68,6 +68,12 @@ Reciprocal Theory Hubs for the programs he authored: [[hubs/theory/band-tribe-ch
 *(Attributed — [[wenke-olszewski-patterns-in-prehistory-2007]], [[wenke-robert]], [[olszewski-deborah]].)*
 
 W&O treat [[service-elman-r|Elman Service]] as a foundational political-evolution reference: *Primitive Social Organization* (1962) and *Origins of the State and Civilization* (1975) are listed among core sources for the social-evolution typologies used throughout their complexity chapter. They report that Service (and Sahlins & Service 1960 *Evolution and Culture*) supply mid-century neo-evolutionary culture tradition; ethnographic categories of Service and [[fried-morton-h|Fried]] were devised mainly for extant/recent cultures but have been **widely applied by archaeologists** to prehistoric societies—useful abstractions that fit no case precisely and can mislead. Tribe-as-transitional (or contact product) usage is attributed partly to Service; band/tribe/chiefdom/state types are then critiqued by W&O (with McGuire) as static descriptive labels.
+
+### Ancient Oaxaca 2nd edition (Blanton, Feinman, Kowalewski & Nicholas 2022) — the redistribution/"economic functionalism" critique
+
+*(Attributed — Blanton, Feinman, Kowalewski & Nicholas, [[blanton-ancient-oaxaca-2022|Ancient Oaxaca: The Monte Albán State]], 2nd ed., 2022.)*
+
+Blanton et al. treat Service's "economic functionalism" (Service 1975:303) as one of two rival foils (alongside Wittfogel's hydraulic-despotism model) for their own [[collective-action-theory|collective-action]] account of early Zapotec state formation. As the authors summarize it, Service held that no despotic state can be sustained for long since most people would not agree to support one: enduring states must instead provide services to the population as a whole, giving rise to a centralized "redistributive" or "command" economy distributing goods across environmentally diverse regions for overall benefit — a position the authors trace to [[polanyi-karl|Karl Polanyi]]'s substantivist economics (via Dalton 1968). The authors note this redistributive model nonetheless still amplifies leader power in a manner "similar to Wittfogel's model," and state they will return to critique the Service/Polanyi position later in the book. Elsewhere they report that most anthropologists have resisted collective-action theory's rational-actor assumption, preferring cultural-norms explanations of the kind Service articulated ("the norms of traditional folk society," Service 1975:301) — a live methodological disagreement the authors counter by citing [[ostrom-elinor|Ostrom]] (1990) on social dilemmas occurring even in small, culturally homogeneous groups. Blanton et al. also use Service's (and Fried's) chiefdom/political-evolution framework as an explicit foil at San José Mogote, largely rejecting a Service-type ranked-descent-group chiefdom for the San José phase (ca. 1000 BC) on grounds of household-level continuity of subsistence labor among high-status families, while entertaining "chiefdom" as an appropriate label by the Rosario phase, with descent-ranking still unconfirmed.
 
 ### Carneiro 2003 on Service (attributed)
 

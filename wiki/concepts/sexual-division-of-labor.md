@@ -8,8 +8,8 @@ emic_or_etic: "etic"
 operationalized_as: "Allocation of subsistence and other tasks by sex; among foragers commonly coded as male hunting vs. female gathering, with the caloric majority often from women's gathering"
 contested: "yes"
 related_concepts: ["[[hunter-gatherer]]", "[[hunting-hypothesis]]", "[[original-affluent-society]]", "[[cooking-hypothesis]]", "[[cooking-and-pair-bonding]]", "[[household-division-of-labor]]", "[[feminist-archaeology]]", "[[genderlithics]]"]
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 5
+last_updated: 2026-07-15
 tags: ["concept"]
 ---
 
@@ -53,6 +53,12 @@ The concept is load-bearing for the [[original-affluent-society|affluent-society
 (gathering is the reliable, high-return base), for the [[hunting-hypothesis|hunting
 hypothesis]] (which makes the male hunter the engine of human evolution), and for feminist
 reappraisals that foreground women's gathering as the economic foundation.
+
+
+
+## Gilchrist (1999) — beyond SDL as gender’s function
+
+*(Attributed — Gilchrist, *[[gilchrist-gender-and-archaeology-1999|Gender and Archaeology]]* ch.3.)* Gilchrist argues archaeology’s materialist interest in production over-simplified gender into an exclusive sexual division of labour, often assuming “the function of gender is to organise labor” (Claassen 1992, as quoted). Gendered values are embedded in relations and processes of production without requiring a fixed task split. She reviews feminist anthropology’s universal-subordination theses (Ortner nature/culture; Rosaldo public/private; prestige hierarchies) and their critiques (complementarity, multi-gender, non-universality), then archaeological methods (graves, Murdock-style ethnography, evolutionary models, [[gender-attribution]], task differentiation, bioarchaeology, multi-proxy food/craft cases). Conclusion direction: complementarity and multi-source evidence over essentialist hierarchy/prestige universals; Americanist vs European emphases differ.
 
 ## Critiques and Limitations
 

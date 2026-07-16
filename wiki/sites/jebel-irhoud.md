@@ -13,8 +13,8 @@ cultures: ["early African *Homo* / early [[anatomically-modern-humans]] (assignm
 excavated_by: ["multiple campaigns; recent work associated with Hublin and colleagues (as of secondary literature)"]
 excavation_years: ["1960s discoveries; major re-dating and reanalysis 2010s (post-Stringer 2012 horizon for fullest claims)"]
 key_finds: ["cranial and postcranial remains; MSA artifacts"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, late-prehistory, north-africa]
 ---
 
@@ -42,4 +42,12 @@ Age; degree of modernity; relation to Levantine early moderns ([[skhul]], [[qafz
 ## Links
 
 - [[anatomically-modern-humans]] · [[herto]] · [[omo-river]] · [[recent-african-origin]]
-- Sources: [[stringer-lone-survivors-2012]] · [[stringer-gamble-in-search-of-the-neanderthals-1993]]
+- Sources: [[stringer-lone-survivors-2012]] · [[stringer-gamble-in-search-of-the-neanderthals-1993]] · [[tattersall-masters-of-the-planet-2012]]
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*Source: [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]. **As of Tattersall 2012** — **before** Hublin et al. re-dating/reanalysis that underpins the ~315 ka modern assignment on this page’s frontmatter and textbook layers. Keep this section as a dated research-horizon layer; do not silently overwrite with later modernity claims.*
+
+**Morphology and toolkit.** Tattersall groups Jebel Irhoud (couple of crania, may be >**160 ka** in his text) with other N. African early Aterian / borderline fossils (Dar-es-Soltan II, Contrebandiers) in the dubious “archaic *Homo sapiens*” wastebasket he rejects. Associated toolkit said closely to resemble Neanderthal [[mousterian-industry]], but the hominids **do not look Neanderthal**. Brain volumes ~**1,305** and **1,400 cc**. More complete Irhoud 1: rather small lower face but facial skeleton **forwardly positioned**; prominent brows; retreating forehead unlike modern *H. sapiens*. Verdict in his voice: **none** of these N. African forms “presents as obvious variety of *H. sapiens*” (**position**, Tattersall 2012).
+
+**Industry ≠ species; exodus role.** Mousterian-like industry ≠ Neanderthal morphology at Irhoud. Absolute certainty that Irhoud people could not exchange genes with anatomically mainstream *H. sapiens* unavailable; they may conceivably have done so. Aterian / Irhoud-related populations could venture a bit beyond Africa early, but Tattersall holds they “certainly did not play a role in the definitive *Homo sapiens* exodus that later populated the world.” He floats Skhul/Qafzeh odd morphology as more plausibly hybrid with Aterian-like N. Africans than with Neanderthals (**scenario**). See [[aterian-industry]], [[skhul]], [[qafzeh]], [[homo-sapiens]], [[modern-human-origins-debate]].

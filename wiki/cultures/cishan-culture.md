@@ -15,8 +15,8 @@ preceded_by: ["[[unknown]]"]
 succeeded_by: ["[[unknown]] — later north China Neolithic sequence"]
 language_affiliation: "[[unknown]] — not equated with a language or people"
 genetic_signature: "[[unknown]] — no aDNA reported by Liu & Chen 2012"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [culture, neolithic, china, east-asia]
 ---
 
@@ -63,6 +63,17 @@ archaeologists for its early dates, unsystematic sampling (soil from pits withou
 controlled excavation), and AMS dates not derived from carbonized seeds. An early
 claim of chicken remains at Cishan (ca. 6000 BCE) is likewise noted by Liu & Chen as
 "not accepted by many archaeologists."
+
+Shelach-Lavi ([[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]) reports
+a higher storage-pit capacity estimate for the same evidence — 88 excavated pits with
+grain-layer remains, capacity estimated at ~70,000 kg (Tong 1984) — against Liu & Chen's
+~50,000 kg figure for a similar pit count; the underlying data (78/88 pits, Tong 1984)
+appears shared but the capacity calculation differs between sources, another point
+folded into the same live dispute over how intensively Cishan practiced millet storage.
+Shelach-Lavi likewise treats the domesticated-chicken claim (Zhou 1981) as debated, and
+uses the wild plant/animal assemblage (walnuts, hazelnuts, hackberry, 23 dominant-deer
+animal species) to challenge an idealized "Cishan = fully agricultural" reading,
+converging with Liu & Chen's nut-based broad-spectrum reinterpretation above.
 
 **Linguistic and genetic.** [[unknown]] — no linguistic or genetic-population claim
 is made for Cishan-Beifudi in this source.

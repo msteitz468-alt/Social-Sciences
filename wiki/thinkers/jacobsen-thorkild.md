@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["Foreword to [[adams-heartland-of-cities-1981]]", "Sumerian political and religious studies (specialist corpus)"]
 key_concepts: ["[[unknown]]"]
 fieldwork_sites: ["Mesopotamia (philological and archaeological engagement)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -23,6 +23,7 @@ Danish-American Assyriologist and historian of ancient Mesopotamia (1904–1993)
 
 ## Contributions
 
+- **Founder of Mesopotamian surface reconnaissance:** his 1936–37 Diyala reconnaissance (119 sites) established the method's two founding principles — vanished watercourses can be plotted from the sites adjoining them, and occupation periods can be dated from surface remains. Adams credits him with "the initial discovery of the surface reconnaissance methods" and incorporated his 1937 records into *[[adams-land-behind-baghdad-1965|Land Behind Baghdad]]*. Directed the Diyala Basin Archaeological Project (Oriental Institute / Iraq Directorate of Antiquities); provisionally identified the River Daban of cuneiform sources with a Diyala watercourse and attributed the Katul al-Kisrawi feeder of the [[nahrawan-canal|Nahrawan]] to Chosroes I.
 - Assyriological interpretation of Sumerian political and religious institutions (specialist corpus beyond this ingest).
 - Methodological endorsement of Adams's ceramic-surface and air-photo survey program; notes Lagash area still unsurveyed as of 1981 foreword.
 
@@ -36,4 +37,4 @@ Philological reconstructions continually revised; foreword claims are dated to t
 
 ## Historiography
 
-This page currently densified from the Heartland foreword only.
+Densified from the Heartland foreword (2026-07-10) and the *Land Behind Baghdad* preface and Appendix A (2026-07-15).

@@ -14,7 +14,7 @@ key_texts:
   - "Wittig, 'One Is Not Born a Woman' / 'The Straight Mind' (1980–81)"
   - "Beauvoir, The Second Sex (1949)"
 resolution_status: open
-last_updated: 2026-07-10
+last_updated: 2026-07-15
 tags: [debate]
 ---
 
@@ -45,3 +45,9 @@ Against the dissolution of the category, this position holds that feminist polit
 ## Curator's Note (2026-07-10)
 
 The debate is genuinely **open** and cross-cuts the disciplines: the empirical sociology of gender ([[doing-gender]]) largely retains a working sex/gender distinction, while post-structuralist theory follows Butler in collapsing it. The wiki's evidence-class concern applies — the distinction's fate looks different from an ethnomethodological, a genealogical, and a materialist-feminist vantage, and no single evidence class settles it.
+
+
+## Gilchrist (1999) — archaeology of unstable sex/gender
+
+*(Attributed — Gilchrist, *[[gilchrist-gender-and-archaeology-1999|Gender and Archaeology]]* ch.1, 4, 7.)* Gilchrist treats the sex/gender distinction as historically and scientifically unstable: Laqueur’s one-sex→Enlightenment two-sex model; sex as spectrum rather than duality (Nordbladh & Yates and related sources as she cites); multiple genders (two-spirit, hijra, Byzantine eunuch) and mortuary mismatches between osteological sex and gendered grave packages. She holds that pure social constructionism and pure sociobiology are both inadequate; feminist archaeology should **engage** cognitive and medical science while using queer theory to disrupt binary protocols — not to project modern gay/lesbian identities onto antiquity. See also [[gender-performativity]], [[gender-attribution]], [[gender-lifecourse]].
+

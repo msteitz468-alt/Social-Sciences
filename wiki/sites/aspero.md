@@ -13,8 +13,8 @@ cultures: ["Supe / Norte Chico Preceramic"]
 excavated_by: ["multiple; early digs disturbed midden; modern reanalysis"]
 excavation_years: ["20th century onward"]
 key_finds: ["multiple platform mounds", "extensive dark midden (~15 ha)", "maize cache (small)", "Spondylus beads (rare)"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, neolithic, andes]
 ---
 
@@ -34,4 +34,14 @@ Type case for the **[[maritime-foundations-hypothesis]]**: sedentary maritime co
 
 See [[caral]] Key Debates (Maritime vs Supe vs cultural-choice positions). Aspero specifically: how much monument labor was local fisherfolk vs valley-wide draw; integrity of early maize finds.
 
-Sources: [[moseley-incas-and-their-ancestors-2001]], [[scarre-human-past-2013]].
+## Excavation detail (Moseley 1975)
+
+*(From [[moseley-maritime-foundations-1975]]; north side of the Supe Valley, ~1 km from the sea, midden >13 ha and locally >5 m deep — the second-largest known preceramic site after [[el-paraiso|El Paraíso]] as of 1975.)*
+
+- **History:** first recorded by Max Uhle (1905, publ. 1925); first excavated 1941 by [[willey-gordon-r|Gordon Willey]] and John Corbett, who cleared a masonry "community structure" (a large court with two burned-topped platforms read as altars) and found a sealed cache of ~49 maize cobs beneath the masonry — the site's preceramic age went unrecognized because no coastal-preceramic concept yet existed. [[lanning-edward|Lanning]] suspected a preceramic date by the 1960s; [[moseley-michael|Moseley]] and Willey confirmed it and the platform mounds in the 1971 restudy; [[bird-junius|Robert Feldman]] later ran a fuller program.
+- **Construction:** at least six numbered platform mounds (up to ~11 m perceived height, ~3–4 m of it artificial fill) plus subterranean structures — small bin/oven pits and larger rectangular sunken dwellings (paralleled at [[huaca-prieta|Huaca Prieta]] and Culebras 1) — and both residential and massive non-residential terracing (some transported blocks near a ton). Fill was carried in wide-mesh sedge bags (~¼ bushel each), the same bagged-fill technique used at El Paraíso and, later, Las Haldas.
+- **Mound 4 ("Huaca de Sacrificios"):** two dedicatory burials (a child in bead-collar and fabric, under a four-legged stone basin; an adult) at the summit edge; a summit room with central fire basin and carved wooden bowl.
+- **Mound 1 ("Huaca Alta"):** heavily looted; profile shows multiple construction stages over 2–3 m of earlier stratified refuse — occupation at Aspero predates the mound.
+- **Diet:** marine-dominated midden with minor cotton, gourd, fruits, legumes, and the rare maize; occupation length unestablished, relative-dated (Conchas phase or earlier) via the Ancón–Chillón textile sequence only — no direct radiocarbon in the 1975 source.
+
+Sources: [[moseley-maritime-foundations-1975]], [[moseley-incas-and-their-ancestors-2001]], [[scarre-human-past-2013]].

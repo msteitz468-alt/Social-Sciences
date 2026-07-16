@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Situated, emergent exercise of communicative competence with resources for speaking in particular events (Bauman & Sherzer 1974)"
 contested: yes
 related_concepts: ["[[ethnography-of-speaking]]", "[[communicative-competence]]", "[[speech-event]]", "[[speech-community]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -47,3 +47,6 @@ Case studies throughout *Explorations* (Sections IV–V especially); [[ethnograp
 - **Ground-rules performances:** Bauman Quaker “Speaking in the Light”; Philips optional vs obligatory participation structuring time.
 - **Editors:** performance as volume’s organizing theme — social structure created in performance.
 
+## Smith 2006 — heritage as performance (attributed)
+
+*([[smith-laurajane]], *[[smith-uses-of-heritage-2006]]*, esp. Ch. 2 and case chapters.)* Heritage is a **multilayered performance** — visiting, managing, interpreting, conserving — that embodies remembrance while negotiating place and belonging, and that simultaneously constitutes the idea of heritage framing those performances. Country-house visiting as identity performance (“knowing your place”; banality of grandiloquence). Industrial museums and Castleford festival as labour/community performance of remembering. Riversleigh tourism as performance of national landscape identity. Draws Bagnall and audience theory (Abercrombie & Longhurst) as Smith deploys them. Cross-link [[authorized-heritage-discourse]], [[heritage]], [[castleford]], [[riversleigh]].

@@ -13,8 +13,8 @@ cultures: ["Zapotec (see [[cultures/mixtec-culture]] for the closely intertwined
 excavated_by: ["[[unknown]]"]
 excavation_years: ["[[unknown]]"]
 key_finds: ["Group of the Columns geometric step-and-fret stone mosaic veneer", "fortified hilltop stronghold"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, mesoamerica, mesoamerica]
 ---
 
@@ -59,7 +59,22 @@ None recorded from this source; the Burgoa account's reliability as a descriptio
 pre-Conquest practice versus early-Colonial elaboration is an open source-reliability
 question not further adjudicated by Coe & Koontz.
 
+## The Cloud People (Flannery & Marcus, eds., 1983)
+
+[[flannery-marcus-cloud-people-1983|The Cloud People]] (1983) treats Mitla as a major Monte Albán V urban center of the "balkanized" Late Postclassic Valley of Oaxaca, with [[flannery-kent-v|Flannery]] and [[marcus-joyce|Marcus]] analyzing its urban core and rural hinterland. Its celebrated stone mosaic *greca* (step-fret) palaces sit at the center of the [[mixtec-impact-valley-of-oaxaca-debate|Mixtec-impact debate]]: [[paddock-john|Paddock]] read them as evidence of Mixtec presence, while the editors traced the step-fret to Classic Zapotec ([[monte-alban|Monte Albán]] III) precedent and cautioned against reading it as an ethnic marker.
+
+## Zapotec Civilization (Marcus & Flannery 1996)
+
+*(Attributed — [[marcus-joyce|Marcus]] & [[flannery-kent-v|Flannery]], *[[marcus-flannery-zapotec-civilization-1996|Zapotec Civilization]]* 1996, Chs. 1–2.)*
+
+**16th-c. high priest and temple form.** Marcus & Flannery place Mitla (eastern Tlacolula) as residence of the *uija-tao* (“great seer”), the highest full-time priest drawn from noble families — “like our pope,” a kind of Vatican City for Zapotec state religion. Surviving architecture is read as the ultimate elaboration of the two-room temple (*yohopee*, “house of the vital force”): long narrow outer public room, columns of volcanic tuff, L-corridor to a private four-room “papal apartment” with geometric mosaics. This ethnohistoric package is their bridge for interpreting earlier two-room temples archaeologically.
+
+**Geography near Guilá Naquitz.** [[guila-naquitz|Guilá Naquitz]] lies in the mountains **west of Mitla**; Gheo-Shih sits on ancient alluvium near the Río Mitla (tributary of the Río Salado). Volcanic tuffs behind Mitla dominate the eastern skyline from Oaxaca city. A Scottsbluff-type Paleoindian point near a Mitla-area chert quarry is among occasional early finds they note for the valley.
+
+**Research history and later hierarchy.** Bernal surveyed/excavated Mitla (and Yagul) to clarify Monte Albán’s decline AD 700–1000; work continued by John Paddock. In Monte Albán IIIa settlement, Marcus & Flannery list the **Fortress of Mitla** among smaller hilltop defensible sites contributing to the impression that defense was a period priority; after Monte Albán’s decline, Mitla is among subvalley centers that rose in Monte Albán IV–V.
+
 ## Related Pages
 
-[[cultures/mixtec-culture]] · [[concepts/postclassic-stage]] ·
+[[cultures/mixtec-culture]] · [[concepts/postclassic-stage]] · [[guila-naquitz]] ·
+[[sources/flannery-marcus-cloud-people-1983]] · [[marcus-flannery-zapotec-civilization-1996]] ·
 [[sources/coe-koontz-mexico-2013]]

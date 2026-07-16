@@ -15,8 +15,8 @@ preceded_by: [homo-habilis]
 succeeded_by: [neanderthals]
 language_affiliation: unknown; no direct evidence
 genetic_signature: "[[unknown]] — no aDNA or molecular data reported in Leakey & Lewin (1977); species defined from cranial morphology only"
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 5
+last_updated: 2026-07-15
 tags: [culture, early-prehistory, east-africa, east-asia, near-east]
 ---
 
@@ -103,3 +103,13 @@ humans in Africa. Industry is kept separate from taxon throughout. See [[encepha
 **Multiregional continuity rejected (as of Stringer 2012).** Classic Multiregional claims that regional skeletal feature complexes link erectus fossils >1 Ma in each region to living peoples in the same regions are treated as comprehensively falsified by the evidence he presents — Africa’s special role and recent modern origin stand; any residual archaic input is occasional hybridization (Neanderthals, Denisovans, surviving SE Asian erectus, perhaps floresiensis), not continuous multiregional conversion of local erectus into local moderns. See [[recent-african-origin]], [[multiregional-evolution]], [[wolpoff-milford]].
 
 **Identity cautions.** Taxon ≠ language ≠ genetic population ≠ people; industry associations remain `associated_with`.
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*(Attributed — [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]; as of Tattersall 2012.)*
+
+**Taxonomy and African *ergaster*.** Tattersall prefers *Homo ergaster* for early African forms (name from a 1.5 Ma East Turkana mandible, 1975), keeping classic East Asian *H. erectus* (Dubois’s Trinil *Pithecanthropus*; long low vault, strong brow, regional characters) partly separate from a Mayr-style worldwide middle grade. Iconic African cranium KNM-ER 3733 (~1.8 Ma, East Turkana): face not strongly projecting, somewhat protruding nose, vault ~850 cc — “anticipated what was to come” and first clearly deserved *Homo*. Turkana Boy KNM-WT 15000 (~1.6 Ma): nearly complete adolescent; dental increments imply ~8 years despite eruption/bone age like a modern ~12-year-old — fast, more apelike developmental schedule; long legs, near-modern proportions, **obligate** not merely facultative biped; East Turkana footprints ~1.5 Ma confirm long stride and basically modern foot. No convincing morphological intermediate between australopith/“early *Homo*” and the Boy (saltational/regulatory-change thesis). Rapid *ergaster*/*erectus* development: Java juvenile ~1 year already ~72–84% of adult brain average; Boy died with ~880 cc near adult size. Broca’s area on endocast does not prove speech; thoracic vertebral canal average-primate (not expanded like moderns/Neanderthals) — POSITION against peripheral speech fine-control. Cognition: larger absolute brains than bipedal apes but not junior-league moderns; no archaeological symbolic manipulation across long tenure.
+
+**Out of Africa 1 and diversity under the label.** Initial Eurasian exit ~1.8 Ma (or earlier) in archaic archaeological context — not enlarged brain or improved toolkit (see [[dmanisi]]). Java dates ~1.8–1.6 Ma jointly make early exit hard to dispute (as of 2012). Morphological diversity under *H. erectus* ~1 Ma (Olorgesailie <800 cc; Buia 750–800; Daka 995; Olduvai Bed II 1067) differs from Java type and from each other. Brain enlargement independently in ≥3 lineages (Java erectus, Neanderthals, sapiens precursors); large brain necessary but not sufficient for modern cognition. First *H. ergaster* kept Oldowan-like tools for hundreds of millennia (reuse existing toolkits / accommodate rather than invent — see [[exaptation]], [[oldowan-industry]]); [[acheulean-industry]] handaxes appear after *ergaster* (~1.78 Ma earliest Kenya as of 2012).
+
+**Fire and diet edges.** Early fire evidence for *ergaster* almost entirely circumstantial (as of 2012); high-quality animal diet and expensive-tissue arguments are reported as literature positions. Identity: industry `associated_with` taxon; African ergaster-grade ≠ single worldwide people or language.

@@ -10,8 +10,8 @@ trained: []
 key_works: ["Mohenjo-daro and the Indus Civilization (1931)"]
 key_concepts: ["Indus Civilization (coinage)", "Marshall paradigm (civilizational uniformity)"]
 fieldwork_sites: ["[[mohenjo-daro]] (1925–26 season, director)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -90,6 +90,24 @@ interpretive framework until challenged by the Wheeler/Piggott paradigm of the
 partially vindicates Marshall's peaceful/non-state reading of the civilization while
 firmly rejecting his climate hypothesis.
 
+## Wright, *The Ancient Indus* (2010)
+
+Wright 2010, commented on by Wright, records that Marshall (1931) identified several
+Mohenjo-daro buildings as religious (House V and House XVIII as possible temples,
+House L as a shrine analogized to Minoan palace chapels and modern Hindu house-
+shrines, the Great Bath as a site of ritual bathing) but that Marshall himself was
+"not fully satisfied" — none contained objects confirming a religious character.
+Wright also reports Marshall's identification of a seated horned figure as a
+"proto-Śiva" and his "Mother/Nature Goddess" reading of Indus female figurines as
+now **rejected**: Srinivasan (1984), Koller (2006), and Basham (1989) find the
+proto-Śiva attributes inconsistent with the historic deity, and Clark's
+re-examination (2003, 2007) of the figurines found no physical markers of fertility
+symbolism, overturning Marshall's reading. Wright further notes Marshall (1931)
+treated a group of thirteen skeletons found on Mohenjo-daro house stairways as
+possible evidence of a "tragic"/sudden-death event, a narrative Wright says should be
+treated cautiously.
+
 ## Collection Coverage Note
 
 Ingested from Possehl (2002), Ch. 1 (r1), the only source consulted for this page.
+Further characterized via [[wright-rita-p|Wright 2010]] (see above).

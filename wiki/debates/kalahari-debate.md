@@ -6,7 +6,7 @@ era: ["postwar-expansion", "contemporary"]
 positions: ["Isolationist / 'foraging tradition': the Dobe !Kung were a substantially autonomous foraging society, usable as a window onto forager life and (cautiously) the Pleistocene", "Revisionist / 'enmeshment': the !Kung were a marginalized rural underclass long integrated into herding, trade, and colonial economies, not pristine foragers"]
 key_texts: ["Lee, 'What Hunters Do for a Living' (Man the Hunter, 1968)", "Lee, The !Kung San (1979) — primary-ingested", "Lee, The Dobe Ju/'hoansi 4th ed. App. B (2013) — primary-ingested oral-history densification", "Wilmsen, Land Filled with Flies (1989) — primary-ingested", "Solway & Lee, 'Foragers, Genuine or Spurious?' (1990)"]
 resolution_status: "open"
-last_updated: 2026-07-10
+last_updated: 2026-07-15
 tags: ["debate"]
 ---
 
@@ -148,13 +148,24 @@ Dobe can stand as a foraging reference case. Solway & Lee's "Foragers, Genuine o
 (1990) is the isolationist reply to Wilmsen; App. B is the oral-history densification of the
 isolationist toolkit.
 
-## Curator's note (2026-07-10)
+## Handbook reception (*Oxford Handbook of African Archaeology*, 2013)
+
+*(Attributed — handbook authors summarizing the debate’s archaeological stakes; *[[mitchell-lane-oxford-handbook-african-archaeology-2013|Mitchell & Lane 2013]]*; as of ~2012. Does not adjudicate.)*
+
+- **Wadley (Ch. 25):** Revisionists (Wilmsen; Wilmsen & Denbow 1990) challenge portrayals of Kalahari foragers as autonomous or pristine communities — “an issue of particular relevance when pastoral and farming communities entered the African stage.” Ethnographic analogy contributed to forager/farmer polarization that archaeology has helped counter by showing interaction variety. Wobst’s “tyranny of the ethnographic record” and the risk of treating living hunter-gatherers as “human fossils” frame the analogy problem for MSA/LSA interpretation.
+- **Mitchell (southern Holocene chapters):** Documents exchange of iron, pottery, livestock for beads and “invisible” products (Thukela, Maloti-Drakensberg, possibly Tsodilo specularite); high Khoisan mtDNA in South African Nguni speakers fits female San–male Bantu hypergamy; **Wilmsen/Denbow dependency readings are theoretically and empirically contestable** (Mitchell’s attributed position — not a vault verdict). Warns against treating the LSA as “Khoisan history” via a few semi-arid San groups generalized across time and biomes.
+- **MacEachern (Ch. 5):** Genetic focus on San/Pygmy groups can reinscribe them as fossilized Pleistocene remnants; non-adaptive markers do not make carriers “less modern” — reflexivity that parallels revisionist critiques of pristine-forager imagery without equating genetics with the Kalahari debate’s ethnohistoric poles.
+- **Sadr (Ch. 44):** Pre-Bantu LSA livestock and thin-walled pottery in southern Africa complicate any model that places all regional change after Iron Age farmer arrival — relevant background for how long multi-economy entanglements have been possible.
+
+## Curator's note (2026-07-10; updated 2026-07-15)
 
 *Man the Hunter* (1968), Lee *The !Kung San* (1979), and Lee *Dobe Ju/'hoansi* App. B (2013)
 are primary-ingested on the isolationist/oral-history side; **Wilmsen *Land Filled with Flies*
 (1989) is now primary-ingested** for Position B. Solway & Lee 1990 remains reception-level until
-ingested. Resolution status left `open` — both poles now have primary monographs in the vault;
+ingested. Handbook 2013 supplies archaeological and genetic **reception**, not new primary poles.
+Resolution status left `open` — both poles now have primary monographs in the vault;
 do not adjudicate. Related: [[original-affluent-society]], [[ethnographic-analogy]],
 [[hunter-gatherer]], [[foraging-mode-of-production]], [[nore]], [[hxaro]],
 [[lee-dobe-juhoansi-study]], [[wilmsen-land-filled-with-flies-study]],
-[[anthropological-political-economy]].
+[[anthropological-political-economy]], [[khoe-san]], [[juhoansi]],
+[[mitchell-lane-oxford-handbook-african-archaeology-2013]].

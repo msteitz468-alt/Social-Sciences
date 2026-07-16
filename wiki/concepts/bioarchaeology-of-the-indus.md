@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: skeletal biodistance analysis, dental pathology scoring, cranial porosity (porotic hyperostosis) scoring, biological-affinity clustering (PCA/cluster analysis) across cemetery samples
 contested: yes
 related_concepts: ["[[gender-in-the-indus-civilization]]", "[[indus-religion]]", "[[craft-specialization]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: "2026-07-15"
 tags: [concept, biological-anthropology, archaeology]
 ---
 
@@ -163,3 +163,15 @@ Initial genetic-trait / biodistance analysis (Hemphill, Lukacs, Kennedy) suggest
 ### Related craft/body evidence
 
 Ornament manufacturing wear, bangle-size change over adult life, and sexed figurine programs (most infant figurines male) are adjacent lines of evidence Kenoyer pairs with cemetery data. Zooarchaeology of Mehrgarh (Meadow) is animal-bone bioarchaeology of the food-production transition, not human skeletal series, but underwrites long-run population history premises of the [[indus-valley-tradition]].
+
+## Wright (2010) — Kennedy's refutation of the "massacre," Mohenjo-daro's distinctiveness, and Harappa–Timargarha continuity
+
+*(Attributed to [[wright-rita-p|Rita Wright]], *The Ancient Indus* (Cambridge, 2010), Chs. 9 and 11; all findings "(as of Kennedy 2000)" and "(as of Hemphill et al. 1991)" unless noted.)*
+
+**The Aryan-invasion "massacre" refuted.** Wright reports that Wheeler's (1968) "massacre" interpretation of scattered Mohenjo-daro skeletal remains — cited as evidence for an Aryan invasion — is "now largely discredited." Kennedy's (2000) physical-anthropology team found no trauma marks on the relevant skeletons; discrete-trait and multivariate biodistance analysis found the Mohenjo-daro population phenotypically distinct from other Indus populations (Lothal, possibly Kalibangan), but attributed this to ordinary regional biological heterogeneity rather than an invading population, finding no demographic disruption before or after roughly 2000 BCE: "Had an Aryan presence been coincident with the decline of the Harappan civilization... then the period immediately after 2000 B.C. would have been marked by the introduction of a novel phenotypic pattern. Such is not the case" (Kennedy 2000:304). This finding is core evidence for the [[mohenjo-daro-massacre-debate]].
+
+**Mohenjo-daro's regional distinctiveness and malaria.** Kennedy (2000:304) reports that Mohenjo-daro skeletal remains show a "unique pattern of regional phenotypic variability" relative to other Harappan sites, together with a "high frequency of abnormal hemoglobins" — a marker associated with malaria — against only one anemia/malaria case reported at Harappa; Kennedy explicitly cautions these data given the disarray of the Mohenjo-daro skeletal assemblage and the likelihood that many remains postdate the Urban-period occupation.
+
+**Harappa–Timargarha continuity, and the Mehrgarh disruption.** Kennedy (2000:304) reports genetic continuity at Harappa across the Urban and Late Harappan periods with no demographic discontinuity, and finds close biological affinity between the Harappa population and the Iron Age population at Timargarha (dated to roughly 800 BCE, some 1,000 years post-Indus) — read as evidence of long-run regional population continuity, not of any single ethnic or linguistic identity (four-way non-identity applies). At Mehrgarh, by contrast, Kennedy reports a population disruption between Periods I/II and Period III (roughly 4500 BCE), after which the population was stable and continuous through to roughly 1750 BCE. Kalibangan was not examined by Kennedy's team, but limited comparative evidence suggests "regional phenotypic variability," implying the Harappans were not a single biologically homogeneous regional population — a synthesis point Wright uses, together with Hemphill et al.'s (1991) north–south (Harappa-centered versus Mohenjo-daro-centered) biological grouping (already recorded above), to support a picture of the Indus population as internally diverse rather than uniform.
+
+**Spinal arthritis and general health.** Wright reports spinal arthritis as common in both sexes across the R37 cemetery population, plausibly from habitual head-carried loads (Lovell 1994), and notes Hemphill et al.'s (1991:170) assessment that the R37 population's general health was good, attributed partly to a diversified diet — a pattern Wright contrasts with dental-health decline documented for agricultural intensification in the New World, while floating (as her own additional, explicitly speculative suggestion) that Harappa's public sanitation infrastructure may also have contributed to population health.

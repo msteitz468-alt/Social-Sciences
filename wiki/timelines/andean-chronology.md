@@ -2,8 +2,8 @@
 title: "Andean Chronology (Preceramic to Inca)"
 timeline_type: archaeological
 region: [andes]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [timeline]
 ---
 
@@ -85,4 +85,25 @@ By **2000 BC**, some Preceramic populations erected the continent’s largest ar
 
 Scarre’s synthesis: "Periods" tend to correlate with coastal prosperity/wetter conditions; "Horizons" with drier intervals and sierra influence. Moseley repeatedly ties drought (Titicaca cores; AD 560 Nazca; first-centuries-AD Gallinazo/sierra encroachment; 400–200 BC Chavín spread) to settlement, political, and religious change — always treat climate as contributor/concurrent constraint, not sole cause. Maritime-Oasis vs Arid Montane poles (Moseley) organize north-coast vs south-highland demographic cores across periods.
 
-Sources: [[scarre-human-past-2013]] · [[moseley-incas-and-their-ancestors-2001]] · [[moseley-michael]]
+### D'Altroy 2002 notes (light touch; attributed)
+
+[[daltroy-the-incas-2002|D'Altroy (2002)]] does not replace the Scarre/Moseley period spine, but adds Inca-era chronological cautions relevant to Late Intermediate / Late Horizon pages:
+
+- **LIP political mosaic:** highland environment fragmented into hundreds of independent societies by AD ~1000; Inca provinces usually built on existing *etnías* but often recombined for administrative convenience (maps are approximations).
+- **Imperial takeoff:** conventional four-generation expansion narrative (Pachakuti–Thupa Inka Yupanki–Wayna Qhapaq–dynastic war) vs Killke archaeology and ¹⁴C sequences that may push complexity earlier; D'Altroy treats campaign chapters as composite sagas, not verified absolute regnal chronologies.
+- **Time-reckoning:** Incas carefully tracked annual cycles but not accumulating years (Rowe); Cobo reports *ñaupapacha* (“a long time ago”) for anything beyond ~4–6 years; *khipu*/oral histories organized partly by power and space, so absolute year counts from king lists are unreliable.
+- **Statecraft package earlier:** standardized recording, monumental architecture, and related complex-society features established in the Andes more than a thousand years before Inca power (Wari roads/knot-records among precedents) — Incas as late rural empire built on millennia of adaptation.
+
+## Central-coast Preceramic sequence (Moseley 1975, Ancón–Chillón)
+
+*(From [[moseley-maritime-foundations-1975]]; his own scheme built on and modifying Lanning's. **All radiocarbon dates below are uncalibrated** — 1975 convention, not cal BCE — and Moseley cites Rowe 1966 on their inconsistency across the Preceramic–Ceramic boundary. Treat as weakly anchored.)*
+
+| Stage | Span (uncal) | Markers / dates |
+|---|---|---|
+| Lithic | lomas foraging by ~7000 BC → ~3600 BC | Encanto phase (last), lomas + littoral "compromise" siting; Encanto midden 2770±80 BC (UCLA-97) |
+| Cotton Preceramic | ~2500–1750 BC | cotton-artifact horizon marker (Engel); twined-textile phases Playa Hermosa → Conchas → Gaviota; basal Pampa 2500±110 BC (GX-1134); Tank Site Gaviota 1505±105 (GX-1231), 1670±100 (GX-1232); El Paraíso interment 1620±150 (I-1676) |
+| Ceramic (Initial Period) | from ~1750 BC | first pottery; six Rowe (1960) periods; Tank Site Level 1 dates 1120±95 (GX-1233), 1325±95 (GX-1234); Huaca La Florida style ~1750–1650 BC (Patterson & Moseley 1968) |
+
+Moseley frames coastal development as fundamental economic/social change ~3600–1500 BC (foraging → fishing → irrigation farming), with the Early Horizon / Chavín art style ~1200–400 BC.
+
+Sources: [[scarre-human-past-2013]] · [[moseley-maritime-foundations-1975]] · [[moseley-incas-and-their-ancestors-2001]] · [[moseley-michael]] · [[daltroy-the-incas-2002]] · [[daltroy-terence-n]]

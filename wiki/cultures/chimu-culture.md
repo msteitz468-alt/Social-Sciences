@@ -15,8 +15,8 @@ preceded_by: ["Moche Phase V / post-Moche señoríos", "[[sican-culture]] (Lamba
 succeeded_by: ["[[inca-empire]] provincial reorganization"]
 language_affiliation: "not established in the ingested material — [[unknown]]; no equation with a language community is asserted"
 genetic_signature: "[[unknown]]"
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [culture, medieval, andes]
 ---
 
@@ -62,6 +62,14 @@ Intensive irrigation agriculture across desert valleys; wealth finance via craft
 ## Identity Cautions
 
 Chimú/Chimor is a polity and material-culture construct. Do not equate the state with a single language or genetic population. Sicán/Lambayeque and Chimor are related successive/overlapping north-coast formations—not identity. Taycanamu/Naymlap narratives are compressed ethnohistoric lore, not year-by-year chronicles.
+
+## Royal Ciudadelas as "Houses" (Moore 2005, attributed)
+
+[[moore-cultural-landscapes-andes-2005|Jerry Moore (2005)]] argues the ten Chan Chan ciudadelas materially qualify as [[levi-strauss-claude|Lévi-Strauss]]'s "noble [[house-society|houses]]": bounded corporate space, accumulated storage wealth, and perpetuated identity through burial and sequential rebuilding. He reads this as evidence of a Chimú polity in transition from kin-based toward territorial-based social membership, cut short by Inca conquest, and attributes the ciudadelas' massive walling to "an ideology of separation" marking the king as a distinct order of being (Moore 1996b, 2004, as reported in Moore 2005). See [[chan-chan]] for the ciudadela-by-ciudadela evidence and the Rowe (1995) vs. Day/Conrad/Moore/Mackey occupation debate.
+
+Litter-bearing and ramp-based (rather than stair-based) royal movement is attested in Chimú ethnohistory: a litter-bearer noble from the Changuco valley testified he served king Chimu Cápac (Rostworowski 1990, via Moore 2005); litter-bearing by North Coast lords persisted into the Colonial period until prohibited by the Spanish (Netherly 1976). Chimú royal compounds used ramps rather than stairs, consistent with litter-borne rulers (attributed).
+
+An intrusive Chimú burial at Huaca de la Luna (Moche site), excavated under Santiago Uceda (1999), yielded carved miniature wooden funerary models (*maquetas*) depicting a plaza ceremony, two funeral corteges, and two sacrificial processions. Uceda (1999) interpreted the plaza-ceremony scene — mummies venerated with chicha and music — as analogous to Inca practice of periodically feting royal mummies years after death; Moore (2004) disagrees, arguing the ceremony likely occurred soon after death because Chimú tombs were permanently sealed and mummies irretrievable. Recorded as a timing dispute, not adjudicated. Musicians in the model (drummers, horn players, a possible "conductor") flank the plaza's corners, while the funeral corteges themselves are silent — paralleling a noisy-fiesta/silent-cortege contrast also documented in Inca royal funerals (Moore 2005, attributed).
 
 ## Historiography
 

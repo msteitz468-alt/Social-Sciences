@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Temporal scale of structural history (centuries) vs conjuncture and event; used as framing for world-systems research"
 contested: yes
 related_concepts: ["[[capitalist-world-economy]]", "[[world-systems-analysis]]", "[[structures-of-knowledge]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [concept]
 ---
 
@@ -32,6 +32,23 @@ No single quantitative measure. In practice: multi-century reconstruction of com
 - Braudel on the Mediterranean and early modern material life (not yet ingested).
 - Wallersteinian modern world-system since the long sixteenth century.
 - Volume contributors (Arrighi on hegemony; van der Linden on internationalism; Collins on intellectual structures over the second millennium CE) claim longue-durée scope with varying depth.
+- **Barry Cunliffe's Atlantic-façade program** ([[cunliffe-facing-the-ocean-2001]]) is an
+  explicit, extended application of the Braudelian frame to archaeology and deep-time
+  maritime history. Cunliffe periodizes the Atlantic seaboard's history into three
+  "cycles" — a prehistoric "first cycle" (Mesolithic to c. 800 BCE, gift-exchange
+  networks and shared megalithic belief systems), a "second cycle" (c. 800 BCE–AD 400,
+  the Atlantic drawn into a Mediterranean-centered economic order via Phoenician,
+  Carthaginian, Greek, and Roman demand), and a "third cycle" (c. AD 400–1500, the
+  post-Roman resurgence culminating in the commercialized medieval Atlantic economy;
+  see [[medieval-atlantic-trade]]) — explicitly flagged by Cunliffe himself as "a broad
+  generalization" rather than a precise chronology (Cunliffe 2001). He invokes the
+  longue-durée framing directly for the 4th–5th-century upsurge in Irish Sea raiding,
+  describing it as "a comparatively brief and more violent series of episodes in the
+  longue durée of transmaritime intercourse" rather than a wholly novel event — and
+  closes the book with a broader "oceanic mentality" thesis: that Atlantic-facing
+  communities across millennia share a distinct relationship to the sea (challenge,
+  awe, heightened time-awareness, restlessness), which he treats as the deepest-structure
+  layer beneath his three cycles (Cunliffe 2001).
 
 ## Critiques and Limitations
 

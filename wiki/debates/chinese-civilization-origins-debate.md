@@ -4,9 +4,9 @@ dispute_type: interpretive
 disciplines: [archaeology]
 era: [fieldwork-revolution, postwar-expansion, contemporary]
 positions: ["Western diffusion (ex oriente lux)", "Two Culture Theory", "North China nuclear-area monocentrism", "regional interaction sphere / multi-regional origins"]
-key_texts: ["Andersson, painted-pottery reports (1920s–43)", "[[chang-archaeology-ancient-china-1963|Chang, The Archaeology of Ancient China (1963)]]", "Chang, later editions (to 1986) and Shang Civilization (1980)", "Su Bingqi, quxi leixing model (1980s)", "[[liu-chen-archaeology-of-china-2012|Liu & Chen, The Archaeology of China (2012)]]"]
+key_texts: ["Andersson, painted-pottery reports (1920s–43)", "[[chang-archaeology-ancient-china-1963|Chang, The Archaeology of Ancient China (1963)]]", "Chang, later editions (to 1986) and Shang Civilization (1980)", "Su Bingqi, quxi leixing model (1980s)", "[[liu-chen-archaeology-of-china-2012|Liu & Chen, The Archaeology of China (2012)]]", "[[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi, The Archaeology of Early China (2015)]]"]
 resolution_status: partially-resolved
-last_updated: 2026-07-10
+last_updated: 2026-07-15
 tags: [debate]
 ---
 
@@ -63,6 +63,17 @@ insisted no single cause — irrigation (contra Steward), technology, ecology �
 and closed the book anticipating "the day when new data… will compel me to rewrite this volume
 completely anew."
 
+### Chang 1980 bridge (*Shang Civilization*, attributed)
+
+In *[[chang-shang-civilization-1980|Shang Civilization]]* (1980) Chang still writes from a
+Shang-centered evidentiary core (An-yang, then Cheng-chou) but already stresses: (1) Shang was
+**not** the only or earliest civilized group in ancient China; (2) Erlitou is **outside** Shang
+and closer to Hsia; (3) regional Erh-li-kang and dynastic-phase sites (including southern
+[[panlongcheng|P'an-lung-ch'eng]]) imply vast geographic interaction; (4) a **horizontal**
+reading of the Three Dynasties competes with linear succession. The full multi-regional
+Position 4 crystallizes in his later interaction-sphere editions and in subsequent PRC and
+Anglophone syntheses.
+
 ## Position 4 — Regional interaction sphere / multi-regional origins
 
 As regional discoveries multiplied after 1963 — early rice-farming Neolithic cultures of the
@@ -91,6 +102,25 @@ complexity first emerged in the Central Plain."* The related dispute over whethe
 Central Plain state ([[erlitou-culture|Erlitou]]) should be named "Xia" is recorded separately at
 [[erlitou-xia-dynasty-debate]].
 
+[[shelach-lavi-gideon|Gideon Shelach-Lavi]] ([[shelach-lavi-archaeology-early-china-2015|2015]])
+gives Position 4 its most methodologically insistent statement. He reads Chang's
+[[chinese-interaction-sphere|Chinese interaction sphere]] as a regional case of Renfrew's
+[[peer-polity-interaction|peer-polity interaction]] and organizes the whole of early China around
+**regional trajectories bound by interregional interaction**, arguing (attributed) that local
+particularism and supra-regional integration are "two sides of the same coin." His distinctive
+contribution is a sustained attack on **backward projection**: the widespread reading of a
+continuous "Chinese" identity back into the Neolithic (e.g. equating Taosi or Wangchenggang with the
+legendary sage-kings Yao, Shun, and Yu — a research tradition Chen 2009 counts in >800 publications),
+and Chang's identification of Liangzhu *cong* jades with the cosmology named in much-later Eastern
+Zhou/Han texts. Against assumed ideological continuity Shelach-Lavi proposes a **"broken-transmission"
+model**: forms such as the *cong* fell out of use for centuries and were later rediscovered and
+reinterpreted (Shang, Han, and Song revivals), so apparent continuity is punctuated and
+re-signified rather than unbroken. He treats "Chinese" identity itself as a *product* of this long
+interactive history — an inclusive identity that does not appear before the late preimperial era and
+whose terms (Xia, Hua, Huaxia) surface in texts only from the eighth century BCE — not a
+preexisting essence radiating from a cradle. This is a strong application of the **four-way
+non-identity rule** (archaeological culture ≠ language ≠ genetic population ≠ self-conscious people).
+
 ## Shared factual ground, framed per side
 
 All parties accept the Yangshao and Lungshan/Longshan assemblages, the Erh-li-kang and Anyang Shang
@@ -108,6 +138,6 @@ where the same author documents the supersession. The multi-regional consensus i
 today, though the relative weight of the Yellow River core remains actively discussed. No wiki-voice
 verdict is entered.
 
-Links: [[chang-archaeology-ancient-china-1963]] · [[chang-kwang-chih]] · [[yangshao-culture]] ·
-[[lungshan-culture]] · [[shang-civilization]] · [[zhou-civilization]] · [[nuclear-area]] ·
-[[culture-historical-archaeology]]
+Links: [[chang-archaeology-ancient-china-1963]] · [[chang-shang-civilization-1980]] ·
+[[chang-kwang-chih]] · [[yangshao-culture]] · [[lungshan-culture]] · [[shang-civilization]] ·
+[[zhou-civilization]] · [[nuclear-area]] · [[culture-historical-archaeology]]

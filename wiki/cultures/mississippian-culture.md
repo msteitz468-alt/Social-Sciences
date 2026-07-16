@@ -15,8 +15,8 @@ preceded_by: ["Late Woodland", "[[hopewell-culture]] / [[adena-culture]]", "[[ea
 succeeded_by: ["historic Indigenous nations of the Southeast and Midwest (post-epidemic transformations)"]
 language_affiliation: "multiple historic language families in successor regions — do not equate archaeological Mississippian with one language"
 genetic_signature: "[[unknown]]"
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [culture, medieval, eastern-north-america]
 ---
 
@@ -102,3 +102,42 @@ Simple vs complex chiefdoms; episodic mound construction (often multi-generation
 - **[[spiro]]:** Craig Mound elite assemblage; looting disaster; western Mississippian edge.
 
 See also [[eastern-woodlands-chronology]], [[eastern-agricultural-complex]], [[chiefly-cycling]], [[moundbuilder-myth]], [[iroquois-society]] (the contemporary Northern Iroquoian societies of the Northeast).
+
+## Pauketat 2009 densification (*Cahokia*)
+
+*(Attributed throughout — [[pauketat-timothy|Pauketat]], [[pauketat-cahokia-2009]]; the maximalist counterpoint to Milner above.)*
+
+### Cahokia-origin thesis
+
+Pauketat attributes Mississippian culture's origin **directly to Cahokia's ~1050 "big bang"**: a new order of beliefs (ancestors, stars, maize, superhuman male/female characters) radiating outward and "continuously reinvented and adapted to fit local conditions" — with an analogy (attributed to "some archaeologists") to Olmec/Chavín "mother cultures." This is a strong interpretive claim, not consensus; Milner's layer above treats Mississippian emergence as more distributed. Material tracers of the spread (facts): [[chunkey|Cahokia-style chunkey stones]] appearing at southern sites only after 1050; Cahokia-made red-flintclay carvings (Emerson's PIMA sourcing) at [[spiro]] and other towns; Long-Nosed God maskettes (~20 finds) read by Pauketat as Cahokia-affiliation badges; Ramey knives from a purpose-built dagger industry at two chert sources near Cahokia (his inference); Wisconsin outposts (Aztalan, Trempealeau).
+
+### The Mesoamerican-connection dispute (positions)
+
+- **Older "package deal" diffusionism** (Griffin's generation, 1930s–40s; Porter into the 1970s): maize, pyramids, and iconography arrived together from Mexico, possibly via *pochteca*-style traders.
+- **Current majority position** (James Brown 2005, quoted by Pauketat): "Mound-building and chiefly organization... no longer carry persuasion" as Mesoamerican imports; styles circulated, but organization was "grown locally." Supporting facts: by 1990 Griffin himself had found **no confirmed Mesoamerican artifact** at any Mississippian site (the sole eastern exception: one small Mexican obsidian chip at Spiro, possibly via Rio Grande Pueblo trade); maize arrives ~200 CE but intensifies only after 800 CE; southern platform mounds long predate any single contact point (Louisiana mound-building back 5,500 years).
+- **Minority strong-influence position** (Alice Kehoe): Troyville-style pyramid-plaza parallels to El Tajín, headdresses, knife-blade styles, possible Maya-derived words.
+- **Hall's middle position**: the striking parallels (2/4/7/52 numerology, Morning/Evening Star veneration, female sacrifice, long-nosed-god imagery) reflect a shared deep background "cross-fertilized as ideas diffused," not import.
+
+### Hero-twin mythology and ethnohistoric bridging
+
+Hero-twin / Morning Star narratives are widespread among Siouan and neighboring peoples (Ho-Chunk Red Horn saga, recorded by Paul Radin from Jasper Blowsnake, 1908; Corn Mother twin-birth stories, e.g. Witthoft's Cayuga account). Pauketat, following Hall and Salzer, uses these to interpret 11th-century Cahokian art (Gottschall Rockshelter, Picture Cave) and Mound 72 — **explicit ethnographic analogy, repeatedly flagged as speculative bridging** across ~600+ years. [POSITION] universal dualism vs. actual historic contact/diffusion (Hall, Kehoe) as the explanation for North American–Mesoamerican twin-myth parallels.
+
+### Decline addendum
+
+Pauketat adds the **Vacant Quarter** (Stephen Williams: Cahokia emptied ~1350, zone to near Memphis by ~1400) and a hypothesized post-Cahokian breakdown of a "Pax Cahokiana" feeding 13th–14th-century organized violence (Crow Creek massacre) — hedged hypothesis, complementing (not replacing) Milner's climate/warfare synthesis and the W&O disease-decline model for the contact period.
+
+## Pauketat 2007 densification (*Chiefdoms and Other Archaeological Delusions*)
+
+*(Attributed — [[pauketat-chiefdoms-delusions-2007]].)*
+
+### Construct history of "Mississippian" (facts)
+
+Originated as a pottery-based label in late-19th-century armchair studies (Holmes 1903; Willoughby 1897): shell-tempered pottery, wall-trench houses, platform mounds in the Mississippi valley; maize and chiefdom organization added later, shell-temper and floodplain focus later dropped. Current standard definition (King & Meyers 2002): "late prehistoric societies of the Southeast and Midwest that were organized as chiefdoms and whose members practice maize agriculture and constructed earthen platform mounds." Knight's (1986) religious-institutional criteria (temple/charnel cult institutions) exclude otherwise-chiefly peripheral groups (Timucua, Calusa, Powhatan, Monacan, Fort Ancient). Griffin (1967) mapped four subcontinental variants; ≥50 sizable centers existed in the 12th–13th centuries (perhaps double or treble counting smaller polities), total population "in the many hundreds of thousands" — with only ~10% of habitable land surveyed even in well-studied regions (Pauketat's framing).
+
+### Pauketat's redefinition (attributed)
+
+He rejects "Mississippian" as a political or cultural system: it is a "transregional spatio-cultural phenomenon" — an **ethnoscape** (after Appadurai) — and the object of study is **"Mississippianization,"** "an uneven historical process in which people politicized maize-based agricultural landscapes and cosmologies in ways contingent on their pasts and on each other." "To seek precision beyond that admittedly wordy, vague definition is to impose strict a priori terms… Don't do it."
+
+### Town anatomy (facts, with positions)
+
+Plazas, not mounds, anchored town layouts (Dalan et al. 2003; Holley 1999) and were engineered at town inception; town size was "fixed by design fairly early" (Stout & Lewis 1998). [POSITION] principal-mound function: temple substructures (Phillips, Ford & Griffin 1951) vs. elite chief's-compound residences (Holley 1999) — Kunnemann and East St. Louis summit excavations show mixed functions. Bastioned palisades (~20 m bastion spacing, "ideal… for an effective enfilade of arrows") were genuinely military (Pauketat, following Keeley, against those "who would pacify the past") and also stratified communities by restricting precinct access. [POSITION] the abrupt post-1050 spread of **wall-trench construction** ("in calibrated radiocarbon time," ~a century): cultural blueprint carried by Middle Mississippian migrants (Blitz & Lorenz 2002; Pauketat) vs. rapid independent diffusion (Muller 1997). Brown (2005) argues much post-1200 SECC art has roots at Cahokia, whose craft iconography skews feminine/fertility where Moundville–Etowah–Spiro grave art skews masculine/bird-man (Emerson 1989; Knight et al. 2001).

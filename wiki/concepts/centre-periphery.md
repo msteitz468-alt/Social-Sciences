@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "an analytic relation in which a dominant 'core' region and a less-developed 'periphery' are structurally linked through asymmetric exchange, such that developments in one cannot be understood without the other; in archaeology, traced through the flow of prestige goods, metals, and styles"
 contested: yes
 related_concepts: ["[[world-systems-analysis]]", "[[prestige-goods-economy]]", "[[hallstatt-culture]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: "2026-07-15"
 tags: [concept]
 ---
 
@@ -77,3 +77,13 @@ heuristically, with peripheries as active agents. *(Enriched during integration.
 ## Applications (Connell 2007)
 
 [[prebisch-raul|Prebisch]]'s centre–periphery economics is a load-bearing case in [[connell-raewyn|Connell]]'s [[southern-theory]] program; Connell also uses metropole/periphery for the *sociology of knowledge*, not only trade structure (see [[metropole]], [[connell-southern-theory-2007]]).
+
+## Potts (1997) — a dual critique: Mesopotamian "centrality" and the discipline's own centre-periphery
+
+[[potts-mesopotamian-civilization-1997|Potts (1997)]] applies a center-periphery critique on two distinct levels, both attributed.
+
+**Object-level: Mesopotamian "centrality" as a flawed premise.** Potts argues the notion of Mesopotamia's inherent "centrality" relative to a "peripheral" neighborhood is itself "a flawed concept" (citing his own earlier work, Potts 1993:200–1), since it ignores the effort Mesopotamian rulers themselves expended in supposedly peripheral areas — treating the core/periphery framing as an artifact of modern scholarly perspective rather than an accurate description of how Mesopotamian polities related to their neighbors.
+
+**Disciplinary-level: the discipline's own textual "centre" and archaeological "periphery."** Potts redirects the center-periphery critique reflexively onto Assyriology and Mesopotamian archaeology as fields. He cites A. L. Oppenheim's *Ancient Mesopotamia* (1977:10), where Oppenheim explicitly privileged textual sources over archaeological material — "the texts on clay tablets are far more valuable, far more relevant, than the monuments that have been discovered" — calling this "as clear a rejection of archaeology's role as one could wish to find." Potts argues this textual privileging made written sources (especially epic and mythic literature, driven partly by a search for Biblical parallels and a desire for a literature comparable to Homer) the scholarly "centre," while *realia* and *naturalia* (flora, fauna, production evidence) were historically treated as "peripheral" — an imbalance he says has been "redressed in recent years" as archaeological method (archaeobotany, scanning electron microscopy, and related techniques) has demonstrated its evidentiary independence from, and occasional contradiction of, the cuneiform record (see [[cuneiform]]).
+
+This second-level critique is a case of the wiki applying its own reflexivity principle to a source: Potts's complaint about Oppenheim's text/archaeology hierarchy is structurally the same "centre" move he criticizes in the Mesopotamia/periphery case — treating one evidence class as inherently authoritative over another.

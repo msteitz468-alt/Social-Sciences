@@ -6,12 +6,12 @@ disciplines: [archaeology]
 era: [postwar-expansion, critical-turn]
 affiliated_theories: [processual-archaeology]
 trained_under: ["[[unknown]]"]
-trained: ["[[unknown]]"]
+trained: ["[[sherratt-andrew|Andrew Sherratt]]"]
 key_works: ["Analytical Archaeology (1968; 2nd ed. 1978)", "Models in Archaeology (ed., 1972)", "Archaeology: the loss of innocence (1973)"]
 key_concepts: ["[[polythetic-classification]]", "[[technocomplex]]", "[[culture-group]]", "[[artefact-type]]", "[[archaeological-assemblage]]", "systems model of culture", "archaeology as autonomous discipline"]
 fieldwork_sites: ["[[unknown]]"]
 sources_ingested: 2
-last_updated: 2026-07-10
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -42,7 +42,7 @@ David L. Clarke (1937–1976) was a British archaeologist at Cambridge and, alon
 
 - **Inheritance:** Cambridge archaeology; [[childe-v-gordon|Childe]]'s hierarchical culture methodology (developed and reformed, not simply rejected); systems/cybernetics (Ashby, Wiener, Bertalanffy); numerical taxonomy (Sokal & Sneath).
 - **Peers / parallels:** [[binford-lewis|Binford]] and American New Archaeology (*[[binford-binford-new-perspectives-1968|New Perspectives]]* 1968) — shared process/systems aims, different autonomy vs anthropology-as-frame emphases; [[renfrew-colin|Renfrew]]'s British "new prehistory."
-- **Students / extension:** Influenced a generation of British quantitative, systems, and (indirectly) postprocessual archaeologists; early death curtailed direct lineage-building. Chapman as reviser of the second edition.
+- **Students / extension:** Influenced a generation of British quantitative, systems, and (indirectly) postprocessual archaeologists; early death curtailed direct lineage-building. Chapman as reviser of the second edition. **[[sherratt-andrew|Andrew Sherratt]]** dedicated *[[sherratt-economy-society-prehistoric-europe-1997|Economy and Society in Prehistoric Europe]]* (1997) “For my teacher DAVID L. CLARKE 1937–1976” — reciprocal `trained` link; Sherratt’s SPR program sits downstream of Clarke’s systems generation even where Sherratt later integrates consumption and symbols.
 - **Distinguish from** [[clark-grahame|Grahame Clark]] (Star Carr / economic prehistory) — different person.
 
 ## Critiques and Reappraisals

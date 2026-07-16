@@ -10,8 +10,8 @@ core_questions:
   - "Can non-elite, economic, landscape, and bioarchaeological evidence rebalance a traditionally monument- and prestige-object-focused record?"
 major_methods: ["stratigraphic excavation", "standing-building analysis", "[[ethnoarchaeology]]", "[[faunal-analysis]] / [[zooarchaeology]]", "[[paleoethnobotany]]", "epigraphy", "settlement/landscape survey", "museum/collection reanalysis"]
 subfields: ["[[unknown]]"]
-collection_coverage: weak
-sources_ingested: 1
+collection_coverage: moderate
+sources_ingested: 2
 last_updated: 2026-07-10
 tags: [discipline, archaeology, islam]
 ---
@@ -65,6 +65,19 @@ Links: [[social-archaeology]], [[material-culture]], [[archaeology-of-religion]]
 | Burial | Right side, face to qibla; few grave goods; single interments / gender segregation | Above-ground tomb diversity huge; grave goods and communal graves occur; Renfrew-style separation of burial from religion rejected |
 | Settlement | Minimum: mosque + Muslim burials; public/semi-private/private domains; mix-and-match not orientalizing “Islamic city” isnad | Created (amsar) vs adapted cities; Bacharach power-locus phases; villages/camps understudied |
 | Art / trade | Surface decoration, calligraphy, coinage reforms; trade as bridgehead of Islamization in some regions | “Art of Muslims” ≠ unitary Islamic art; figural practice continues; Scandinavia silver without conversion |
+
+
+
+## West African Case Densification — Gao (Insoll 1996)
+
+*[[insoll-islam-archaeology-history-gao-1996|Islam, Archaeology and History: Gao Region]]* supplies the vault’s first **regional excavation case** for Islamic archaeology beyond the 1999 program book:
+
+- Multi-domain material criteria (mosque, burial/stelae, rectangular/fired-brick architecture, imports) applied to [[gao-ancien]] / [[gao-saney]].
+- **Islamized quartier** vs surrounding non-/less-Islamized settlements — diversity inside one entrepôt.
+- Trade (trans-Saharan + inter-regional) as primary Islamization vector; staged conversion (Fisher model applied).
+- Explicit four-way caution on Songhay/empire labels.
+
+Study: [[insoll-gao-region-study]]. Coverage for West African Islamic archaeology: now **moderate** (still thin for East Africa/Swahili and Maghreb excavation monographs).
 
 ## Methods
 

@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: binary/decimal chert cubical weight system and brick-ratio standardization documented across Mature Harappan sites; Kenoyer adds taxation/gateway-control reading
 contested: yes
 related_concepts: ["[[indus-age]]", "[[craft-specialization]]", "[[indus-valley-tradition]]", "[[meluhha]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: "2026-07-15"
 tags: [concept, archaeology]
 ---
 
@@ -70,3 +70,13 @@ Standardization was **regionally uneven**, not a single package:
 - Truncated spherical weights may indicate **plural** manufacturing/merchant systems, not a single monopoly.
 
 *Sources: [[possehl-indus-civilization-2002|Possehl 2002]]; [[kenoyer-ancient-cities-indus-1998|Kenoyer 1998]].*
+
+## Wright (2010) — Rohri chert preference and merchant monitoring
+
+*(Attributed — [[wright-rita-p|Rita P. Wright]], *[[wright-ancient-indus-2010|The Ancient Indus]]*, 2010, Ch. 7.)*
+
+Wright, following Kenoyer (1991), reports that weight manufacture preferentially used **banded chert from the Rohri Hills** rather than other available chert sources, because that stone variety offered both visual recognizability and constant density — properties suited to a standard measure. Wright's reading, again via Kenoyer, is that procurement of this specific chert variety "may have been more closely monitored/controlled by merchants," since weights functioned as a control standard for the production and distribution of other goods — an inference from raw-material selection and distribution pattern, not from a deciphered administrative text.
+
+Randall Law's (2008) sourcing work on Harappa's stone supply situates chert procurement generally: in the Pre-urban period Harappa drew chert from the eastern Salt Range as well as Rohri; Rohri chert became the principal source in the Urban period. At Harappa, chert weight production began from prepared nodules (Dales and Kenoyer 1989); by contrast, at Beas River settlements chert cores are present but production/preparation debris is absent (Wright et al. 2005a,b), and at Allahdino and Balakot prepared cores are underrepresented — suggesting these outlying settlements received partially finished blades already worked from Rohri source material rather than raw nodules (Dales 1982:156).
+
+Wright dates a fully cubical stone weight to the **Kot Diji phase** (Pre-urban/Regionalization), i.e., before the Urban-period standardized system reached its mature form — a chronological precedent for the later Integration Era binary/decimal weight package rather than a fully separate development. Cowgill's synthesis, cited by Wright, reads the multi-century persistence of a shared weight standard as evidence for "extremely strong overarching authority" — a position Wright records without adjudicating against Possehl's regionally-uneven-standardization reading already on this page.

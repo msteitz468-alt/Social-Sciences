@@ -11,7 +11,7 @@ trained: ["[[unknown]]"]
 key_works: ["[[foucault-discipline-and-punish-1977|Discipline and Punish (1975/1977)]]", "[[foucault-history-of-sexuality-1978|The History of Sexuality, Vol. I (1976/1978)]]", "[[foucault-use-of-pleasure-1985|The Use of Pleasure — History of Sexuality Vol. II (1984/1985)]]", "[[foucault-care-of-the-self-1986|The Care of the Self — History of Sexuality Vol. III (1984/1986)]]", "Madness and Civilization (1961)", "The Order of Things (1966)", "The Archaeology of Knowledge (1969)"]
 key_concepts: ["[[power-knowledge]]", "[[biopower]]", "[[disciplinary-power]]", "[[panopticism]]", "[[docile-bodies]]", "[[carceral-archipelago]]", "[[the-repressive-hypothesis]]", "[[scientia-sexualis]]", "[[deployment-of-sexuality]]", "[[discourse-foucauldian|discourse]]", "[[genealogy]]", "[[problematization]]", "[[ethics-foucauldian|moral subjectivation]]", "[[arts-of-existence]]", "[[aphrodisia]]", "[[care-of-the-self]]", "[[cultivation-of-the-self]]"]
 fieldwork_sites: ["[[unknown]]"]
-sources_ingested: 6
+sources_ingested: 7
 last_updated: 2026-07-15
 tags: [thinker, philosophy, sociology, classics]
 ---
@@ -42,6 +42,10 @@ Foucault reframes the study of modern society around the mutual production of **
 ## Applications in this vault (development apparatus)
 
 [[ferguson-james|James Ferguson]]'s *[[ferguson-anti-politics-machine-1990|The Anti-Politics Machine]]* (1990) operationalizes Foucault's prison genealogy and apparatus thinking for rural development in Lesotho: planned interventions' "failures" re-read as [[instrument-effects]]; resultant constellation named the [[anti-politics-machine]]. See [[ferguson-anti-politics-machine-study]].
+
+## Applications in this vault (colonial archaeology)
+
+[[hall-martin|Martin Hall]] (*[[hall-archaeology-modern-world-2000|Archaeology and the Modern World]]*, 2000) applies Foucault's *Discipline and Punish* account of public torture/execution as sovereign-power display to Cape Colony practice: Robert Shell's (1994) finding that on average one slave was publicly executed per month at the Cape under Dutch rule, with corpses left hanging as example, is read by Hall as an empirical instance of the Foucauldian "unrestrained presence of the sovereign" inscribed on the condemned body (attributed, Hall 2000). Hall also draws on Foucault's concept of the "statement" (*Archaeology of Knowledge*, 1972) — that a statement "enters various networks and various fields of use, is subjected to transferences or modifications" — as the theoretical basis for tracing how a single material form (e.g., a Cape Dutch gable motif) carries shifting, displaced meanings across different contexts and audiences (attributed, Hall 2000; see [[material-culture]]).
 
 ## Intellectual Genealogy
 

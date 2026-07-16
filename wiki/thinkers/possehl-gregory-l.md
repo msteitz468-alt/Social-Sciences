@@ -10,8 +10,8 @@ trained: []
 key_works: ["The Indus Civilization: A Contemporary Perspective (2002)"]
 key_concepts: ["[[indus-age]]", "Domains (Mature Harappan regional scheme)", "Sorath Harappan"]
 fieldwork_sites: ["[[rojdi]]", "Ghelo valley (Gujarat)", "Kalubhar valley (Gujarat)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -89,7 +89,22 @@ theocratic "priest-king" states modeled on Sumer (see [[indus-polity-debate]] an
 [[wheeler-mortimer]]) — and offers his "complexity without the state" and "Domains"
 frameworks as his own alternative synthesis of the accumulated evidence as of 2002.
 
+## Wright, *The Ancient Indus* (2010)
+
+Wright 2010 characterizes several further Possehl positions, commented on by Wright:
+his **"gateway communities"** concept (Possehl 1980) for settlements sited to
+facilitate transport at coastlines, mountain passes, and cultural junctures; his
+figure (Possehl 1990) of an increase from 463 recorded sites in the Pre-urban period
+to 976 in the Urban period; and his **"Middle Asian Interaction Sphere"** framework
+(Possehl 2002), which groups non-Indus complex polities of central/southern Iran,
+southern Afghanistan, and Central Asia as a loosely contemporary regional system
+(ca. 2500–1800 BCE). Wright also records a position dispute: Possehl (2003) reads
+the Kulli material-culture zone of Las Bela as a local Indus variant, against
+Wright's own reading of Kulli as a potentially separate, politically independent
+culture — recorded as a live disagreement, not adjudicated here.
+
 ## Collection Coverage Note
 
 Ingested from Possehl (2002), Ch. 1 (r1) and later chapters (r8) of the same
 source; no independent biographical source on Possehl himself has yet been ingested.
+Further characterized via [[wright-rita-p|Wright 2010]] (see above).

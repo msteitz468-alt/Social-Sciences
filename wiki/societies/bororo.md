@@ -9,8 +9,8 @@ kinship_system: "matrilineal, uxorilocal; two exogamous moieties (Cera / Tugaré
 documented_by: ["[[levi-strauss-tristes-tropiques-1955|Lévi-Strauss, Tristes Tropiques]]", "Karl von den Steinen (19th c.)", "Salesian missionaries"]
 documentation_dates: "1935–1936 (Lévi-Strauss's fieldwork at the Rio Vermelho villages)"
 endonym_exonym_note: "Bororo; Lévi-Strauss's principal village was Kejara on the Rio Vermelho, Mato Grosso"
-sources_ingested: 1
-last_updated: 2026-07-09
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [society, amazonia]
 ---
 
@@ -35,6 +35,8 @@ Mixed foraging and horticulture; villages relocated roughly every thirty years a
 ## Belief and Ritual
 
 Bororo cosmology, Lévi-Strauss argued, distinguished a sociological universe (the eternal village) from a physical one, and classed **death as "anticultural"** — each death created a debt (*mori*) owed by nature to society, discharged by a collective hunt (ideally for a jaguar) whose skin and claws compensated the loss. He judged the Bororo, on this evidence, "even more sociologists than Durkheim and Comte." Funerary practice included provisional burial, later washing and feather-decoration of the bones, and weeks-long chants; the *bari* (shaman, pacted with malevolent spirits) and the *aroettowaraare* (master of the path of souls) were the two mediating figures. Bull-roarers (rhombs) sounded in the men's house were attributed to spirits and hidden from women.
+
+William Crocker's later fieldwork (published 1985; exact fieldwork years not stated in the excerpt available to the wiki) described three ceremonial roles in finer grain: the subclan chief (*emijera*), selected on achievement plus kinship and described by Crocker as a "canonist" (mastery of a specialized corpus of chants and ceremonial knowledge) in Lawrence Sullivan's sense; the *bari*, an ecstatic shaman associated with transformative *bope* spirits, whose calling came via an unsought supernatural encounter followed by a possession episode in which kinsmen restrained the writhing initiate while an experienced shaman "interviewed" the *bope*; and a now-defunct shaman-of-the-*aroe* role. Per [[moore-cultural-landscapes-andes-2005|Moore (2005)]]'s cross-case synthesis, Bororo religious authority thus combines an ecstatic shaman (*bari*) with a canonist (*emijera*), with the men's house and dance area as the associated ceremonial architecture.
 
 ## Documentation History
 

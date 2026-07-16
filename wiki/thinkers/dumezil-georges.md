@@ -8,10 +8,10 @@ affiliated_theories: ["[[structuralism]]"]
 trained_under: ["[[unknown]]"]
 trained: ["[[unknown]]"]
 key_works: ["L'idéologie tripartie des Indo-Européens (1958)", "Mitra-Varuna (1948)", "Mythe et épopée (1968–73)"]
-key_concepts: ["tripartite ideology (the three functions)", "sovereignty / force / fertility", "celeritas and gravitas", "comparative Indo-European mythology"]
+key_concepts: ["[[tripartition]]", "sovereignty / force / fertility", "celeritas and gravitas", "comparative Indo-European mythology"]
 fieldwork_sites: ["n/a"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, anthropology]
 ---
 
@@ -43,4 +43,4 @@ Dumézil's tripartite thesis has been criticized (outside early vault sources) f
 
 ## Historiography
 
-Primary Dumézil monographs are not yet ingested. He appears (1) as comparative-mythological resource behind Sahlins's Fijian analysis; (2) as the foil for Renfrew's de-emphasis of shared IE social heritage under the [[anatolian-hypothesis]].
+Primary Dumézil monographs are not yet ingested. He appears (1) as comparative-mythological resource behind Sahlins's Fijian analysis; (2) as the foil for Renfrew's de-emphasis of shared IE social heritage under the [[anatolian-hypothesis]]; (3) as the central IE-religion figure in Mallory’s *[[mallory-in-search-of-the-indo-europeans-1989|In Search of the Indo-Europeans]]* Ch.5–9 (tripartition survey, horse sacrifice, War of the Functions caution, legacy debate) — see [[tripartition]], [[mallory-j-p]].

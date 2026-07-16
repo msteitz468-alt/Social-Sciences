@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Transformation of wild Oryza rufipogon into domestic Oryza sativa under cultivation, tracked by grain morphology, phytolith size, and settlement/pottery associations"
 contested: yes
 related_concepts: ["[[domestication]]", "[[horticulture]]", "[[jomon-culture]]", "[[agricultural-revolution]]", "[[complex-hunter-gatherers]]", "[[yangshao-culture]]", "[[early-farming-dispersal-hypothesis]]"]
-sources_ingested: 5
-last_updated: 2026-07-10
+sources_ingested: 8
+last_updated: "2026-07-15"
 tags: [concept, archaeology, east-asia, domestication]
 ---
 
@@ -124,3 +124,85 @@ Settlement location is a recurring correlate: sites cluster on low-terrace soils
 Higham repeatedly flags a methodological caution against inferring domestication from morphology or habitat alone: Oka and Morishima (1971) showed that regular harvesting of wild rice modifies seeding rate and spikelet number within about five generations, so a population showing "domestication-syndrome" traits need not be under cultivation. As an explicit ethnographic analogy (not evidence), Higham notes that historic Tonle Sap peoples harvested wild floating rice by boat (Delvert 1961) without cultivating it. At Khok Phanom Di he goes so far as to argue the more secure process was "domestication... not necessarily of plants or animals, but rather of people" — sedentism itself — treating the plant's cultivation status as "immaterial" to that argument.
 
 See [[domestication]] for the parallel animal-domestication record (pig, cattle, dog) at these same sites.
+
+## Higham 2002 update — Yangzi model replaces local SE Asian transition
+
+*(Attributed — [[higham-charles|Higham]], *[[higham-early-cultures-mainland-southeast-asia-2002|Early Cultures of Mainland Southeast Asia]]* 2002, Ch. 3 and Ch. 8. Distinguish sharply from the Higham 1989 layer above: 1989 still framed contested local evidence within a mainland SE Asian General Periods A–B sequence; 2002 **sets aside** local-transition hypotheses and embeds SE Asian Neolithic rice in a Yangzi domestication → southward farmer expansion model.)*
+
+### Three local-transition models foundered
+
+(POSITION — Higham 2002) Higham states that three decades of seeking a transition to rice agriculture *within* Southeast Asia all foundered for lack of supportive evidence: Gorman at Spirit and Banyan Valley caves (speculative local origins); Penny’s piedmont model; Higham and Thosarat’s coastal [[khok-phanom-di]] model. Sørensen’s China-origin hypothesis (1972) had been largely disregarded. Ch. 8 restatement: in 1986 most research sought a hunting-gathering→agriculture transition within SE Asia; KPD research began with the hypothesis that sedentary coastal foragers adopted rice as sea level fell, then fissioned inland along rivers — that proposal "foundered on many shoals and is set aside."
+
+### Yangzi domestication sequence (as Higham 2002 summarises)
+
+(ATTRIBUTED findings he reports) Middle Yangzi research shows domestication and sedentary villages in the **10th–8th millennia BC** (same span as the Levant). Consistent pattern: further from Central Yangzi, later first rice.
+
+- **Climate context:** Higham argues plant/animal domestication is hard to motivate in fecund tropical estuaries or canopied interior forests of SE Asia, whereas Yangzi Valley climate 20,000–15,000 BC was 4–10°C cooler and much drier, with Younger Dryas cold then warmer/moister Holocene enabling wild rice spread from refugia.
+- **Diaotonghuan (Zhao Zhijun 1998 via Higham):** surge of rice glume phytoliths in zone G (terminal Pleistocene, wild rice collection); rare in Younger Dryas zone F; abundant again in zone E (~10,000–8,000 BP) with about half domestic variety, plus first crude/cord-marked pottery possibly for cooking rice — framework tentative for lack of reliable radiocarbon.
+- **Bashidang and Pengtoushan:** Bashidang (~3 ha; lower layers ~8,000 BP) >15,000 cultivated rice grains, water caltrop and lotus, hunted/probably domestic animals, pottery, wooden spades/pestles, pile dwellings, >100 burials; Pengtoushan similar with rice-tempered pottery; rice-temper 14C 6420–6990 and 5780–6380 BC (Crawford and Chen Shen 1998 via Higham).
+- **Neolithic Revolution framing:** Higham argues the Yangzi Valley was one of the few Eurasian areas witnessing a Neolithic Revolution; population growth and fission of sedentary communities drove expansion (Fenshanbao, Chenbeixi, Hemudu by 7000 BP) progressively south toward Southeast Asia via rivers (Gan, Xiang, Bei into Lingnan; Red, Mekong, Chao Phraya, etc.).
+
+This Yangzi package converges with (and is independent of) the Mithen 2003, Bellwood 2005, and Liu & Chen 2012 densifications already on this page — each date-stamped to its source. Higham 2002 is the **mainland SE Asian archaeologist’s** revision of his own earlier research program.
+
+### SE Asian arrival and Khorat Neolithic rice
+
+(ATTRIBUTED — Higham 2002)
+
+- **Baiyancun (Yunnan)** initial settlement 2400–2100 BC as a node toward Red/Mekong systems.
+- **Phung Nguyen** late third to mid second millennium BC Bac Bo farmers; no bronze; rice-agricultural package.
+- **Ban Chiang AMS rice chaff** from early Neolithic burial ceramics: 2190–1880 BC and 2050–1500 BC — settlement earlier than ~2300 BC unlikely; best-provenanced earliest Khorat Plateau Neolithic.
+- **Khorat Neolithic duration** ~2300–1500 BC (subject to future earlier sites under later sediments).
+- **Lake Kumphawapi cores:** no compelling agricultural communities up to 4500 BC; White’s (1997) fifth-millennium carbon-peak reading disputed pending settlement evidence.
+- **Bronze Age subsistence summary:** harvesting rice (highly likely domesticated strain), domestic stock, hunting, trapping, fishing, shellfish — multi-faceted sedentary economy; settlements on slightly elevated ground adjacent to low-terrace soils where wild rice still grows; vegetation clearance may have expanded rice habitat (White 1982 via Higham). Rice-chaff temper at [[non-nok-tha]] and [[ban-chiang]] still botanically contested (wild vs weed vs domestic); flotation grains at [[ban-na-di]] judged cultivated (Chang and Loresto 1984) — same specialist split as 1989, now with AMS using that temper as dating medium for bronze vessels.
+
+### Khok Phanom Di rice reinterpreted
+
+(POSITION — Higham 2002) Coastal-origin rice cultivation spreading inland **not supported**. No rice in first occupation at [[nong-nor]]; KPD initial settlement ~2000 BC; rice fragments may be cultivated variety (Thompson 1996) but do not prove local cultivation until freshwater **MP4** (hoes, shell knives, rice-field ostracode); burial 67 faeces contain domesticated rice; MP5 marine reversion ends local cultivation indicators. Weight of evidence: inhabitants were **exposed to intrusive Yangzi-origin rice farmers**, far from initiating inland expansion. See [[khok-phanom-di]] for full dual (1989/2002) position recording.
+
+### Language association (not identity)
+
+(THEORETICAL — Higham 2002) Cognate rice/cultivation vocabulary from Munda to Vietnamese; Austroasiatic expansion proposed as mainland farming dispersal paralleling Austronesian maritime expansion (Blust/Reid via Higham). Model advanced for critical testing, not asserted as proven. **Four-way non-identity:** rice package ≠ Austroasiatic language ≠ genetic population ≠ archaeological culture. See [[austroasiatic-languages]].
+
+### AMS rice-chaff temper as chronological tool
+
+(FINDING — Higham 2002) Beyond botanic status debates, rice chaff in ceramic temper became the medium for AMS dating that placed earliest bronzes at Ban Chiang and Non Nok Tha within **1500–1000 BC**, overturning fourth–third millennium claims (see [[southeast-asian-bronze-chronology-debate]], [[ban-chiang]], [[non-nok-tha]]).
+
+Sources for this section: [[higham-early-cultures-mainland-southeast-asia-2002]]; cross-links preserve [[higham-archaeology-mainland-southeast-asia-1989]] as the dated local-evidence layer above.
+
+## Shelach-Lavi densification — *The Archaeology of Early China* (2015)
+
+*(Attributed — [[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]].)*
+
+Shelach-Lavi records the same domestication-timing dispute as a live, unresolved debate
+rather than adjudicating it: Zhang and Pei (1997) argue, from a phytolith study, that
+Bashidang rice was already domesticated by ca. 8000 BCE; Jiang and Liu (2006) counter that
+the rice husks at Shangshan represent only "an early stage of domestication"; and **Dorian
+Fuller and colleagues (Fuller et al. 2007; Zheng et al. 2009)** argue that full rice
+domestication — nonshattering forms — occurred only around the late fifth millennium BCE
+(ca. 4000 BCE), since even Hemudu (ca. 5000–4000 BCE) still lacked fully domesticated
+nonshattering rice; on this view the wild-to-domesticate genetic transformation was far more
+gradual than earlier models proposed.
+
+Shelach-Lavi does not adjudicate the morphology dispute directly, but follows Fuller et al.
+in arguing the domestication process was very long, and that focusing on the biological
+markers of "full" domestication risks overlooking the more important socioeconomic
+dimension of the transition — growing sedentism, group size, and incipient social
+complexity. He illustrates this with **Kuahuqiao**, where sixth-millennium-BCE tools (bone
+spades, digging sticks) attest cultivation, not yet domestication, and rice remained a minor
+food source even as broad-spectrum wild-resource exploitation persisted for millennia
+afterward — agriculture as a gradual process, not a punctuated event.
+
+A **molecular study (Molina et al. 2011)** is cited as suggesting a single origin of rice
+domestication 8,200–13,500 years ago "(as of Shelach-Lavi 2015)" — a genetic estimate broadly
+compatible with, but not a direct test of, the archaeobotanical dating disputes above.
+
+On earliest wild-rice exploitation (pre-domestication), Shelach-Lavi notes phytolith
+evidence for wild rice consumption at **Yuchanyan** (Hunan) and **Xianrendong**, sites also
+notable as yielding the earliest evidence of ceramic production anywhere in the world —
+Yuchanyan dated 18,300–15,400 BP (ca. 16,000–13,500 BCE) and Xianrendong to ca. 20,000 BP
+(ca. 18,000 BCE) (Boaretto et al. 2009; Wu et al. 2012) "(as of Shelach-Lavi 2015)" — this
+is wild-rice use, not domestication.
+
+### Earliest Mesopotamian attestations (Potts 1997)
+
+*(Attributed — [[potts-mesopotamian-civilization-1997|Potts, Mesopotamian Civilization 1997]].)* Rice reached Mesopotamia far later than its Yangtze origin and eastward Asian spread documented above: despite early Harappan rice-husk evidence at Lothal, the earliest Mesopotamian written attestation of rice is Neo-Assyrian (Akkadian *kurangu*, in medical texts; Potts 1991), with the earliest archaeological find at Hasanlu period III (c. 750–590 BC). Strabo and Diodorus Siculus (rice reportedly fed to Eumenes's troops in Susiana, 318/317 BC) attest later cultivation in Babylonia/Susiana. See [[mesopotamian-trade]] for the fuller context of Indian-subcontinent domesticates (cotton, cucumber, rice) reaching Mesopotamia.

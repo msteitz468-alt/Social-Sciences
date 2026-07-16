@@ -16,8 +16,8 @@ key_findings:
   - "With specialists he reconstructed mixed farming (emmer, einkorn, barley, pea) introduced to the plain, domestic sheep/goat early, continued hunting of aurochs and other large game, and long-distance raw-material trade (obsidian, pigments, metals)"
 concepts_introduced: ["Çatalhöyük shrine type-series", "[[mother-goddess]] Anatolian imagery as type site"]
 replication_status: reanalyzed-contested
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [study, archaeology, neolithic]
 ---
 
@@ -61,6 +61,7 @@ Fixed Çatalhöyük as the visual and narrative type-site for Neolithic complexi
 - **Restudy program:** Çatalhöyük Research Project from 1993 (Hodder) reopened the site with multi-specialist reflexive recording; microstratigraphy (e.g. Wendy Matthews) undermined sharp shrine/house dualism.
 - **Chronology:** Calibrated sequences and later radiocarbon programs supersede bare 6500–5700 BC figures.
 - **Religion:** Contextual and practice-based readings reduce mother-goddess totalization; multivocal heritage (goddess tours vs national archaeology) recorded on [[catalhoyuk]].
+- **Hodder ed. 2022 CRP volume (not a failed replication of Mellaart’s research act):** *[[hodder-catalhoyuk-excavations-2009-2017|Çatalhöyük Excavations: The 2009–2017 Seasons]]* is a later multi-decade re-excavation and specialist synthesis under a different program ([[hodder-ian|Hodder]]’s reflexive CRP), not a re-run of Mellaart’s 1961–65 design. As of Farid/Hodder/Taylor/Tung 2022 and Bayliss et al. 2022 (Ch.19), it further revises **absolute chronology** (North Area Bayesian model; 25-year time-slices; levels ≠ absolute contemporaneity; B.5–B.1 break; B.77/B.131 order) and operational **building/shrine labels** (area-specific lettered levels replace Mellaart’s site-wide 0–XIII stack; buildings formerly placed by “Shrine 10” stack count reassigned on abutment and residual foundations — e.g. B.17 → South J). Treat as **reanalysis/restudy supersession** of chronology and typology, not as `failed-replication` of the 1967 research act; `replication_status` remains **reanalyzed-contested**. Method detail: [[radiocarbon-dating]] (Bayliss et al. 2022 North model section).
 - **replication_status: reanalyzed-contested** — core material presence (paintings, dense housing, farming) stands; classification and social interpretation heavily revised.
 
 ## Current Standing

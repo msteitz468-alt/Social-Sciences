@@ -15,8 +15,8 @@ preceded_by: ["Zhaobaogou culture (ca. 5200–4500 BCE; not yet a wiki page)", "
 succeeded_by: ["Xiaoheyan culture (ca. 3000–2200/2600 BCE; not yet a wiki page)"]
 language_affiliation: "[[unknown]] — not equated with a language or people"
 genetic_signature: "[[unknown]] — no aDNA reported by Liu & Chen 2012"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [culture, neolithic, china, east-asia]
 ---
 
@@ -103,6 +103,17 @@ evidence is needed to test this proposition." Liu & Chen state it remains "uncle
 what forms of regional level sociopolitical organization may have been involved in
 the construction of ritual landscapes on such a magnificently extensive scale" —
 an explicitly flagged open question, not a settled finding.
+
+Shelach-Lavi ([[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]) adds that
+the Niuheliang complex comprises more than ten related sites within roughly 50 km²; its
+Goddess Temple is about 25 m long and 2–9 m wide, set on an earthen platform of roughly
+3 ha, and yielded life-size clay sculptures including a female figure (Barnes and Guo
+1996; Liaoning 1997). He also cites a settlement-hierarchy interpretation (Drennan and
+Peterson 2006) applying Liu's (2004) middle-Yellow/Wei-River clustering model to
+Hongshan: clustering of smaller sites around one or two large ritual centers is read as
+evidence of political integration transcending the individual village — an attributed
+interpretation, not a settled finding, paralleling the "unclear...regional-level
+sociopolitical organization" caveat Liu & Chen themselves raise above.
 
 ## Relations and Successions
 

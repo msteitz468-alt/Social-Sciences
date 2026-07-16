@@ -9,7 +9,7 @@ operationalized_as: "Use of domestic animals to pull ploughs/ards, sledges, cart
 contested: yes
 related_concepts: ["[[secondary-products-revolution]]", "[[animal-domestication]]", "[[pastoralism]]", "[[agricultural-revolution]]", "[[neolithic-revolution]]"]
 sources_ingested: 1
-last_updated: 2026-07-10
+last_updated: 2026-07-15
 tags: [concept, archaeology, neolithic, technology]
 ---
 
@@ -36,8 +36,8 @@ Within *[[sherratt-economy-society-prehistoric-europe-1997|Economy and Society i
 As of Sherratt 1981–97:
 
 - **Pictograms / seals:** Uruk plough and cart signs; Akkadian cylinder-seal plough scenes; Cretan hieroglyphic sole-ards.
-- **Models and skeuomorphs:** wagon-cups (Baden); pottery cart with protomes (Radošina); TRB yoked-ox handle; pecked ox-cart scene (Züschen); Bronocice four-wheeler motif (~3500–3100).
-- **Burials:** paired bovid graves (Alsonemedi, Budakalász; Globular Amphora dozen+ examples) read as draught pairs (sometimes cow/calf to spare draught oxen).
+- **Models and skeuomorphs:** wagon-cups ([[baden-culture|Baden]] Budakalász/Szigetszentmárton); pottery cart with protomes (Radošina); [[funnel-beaker-culture|TRB]] yoked-ox handle (Krężnica Jara); pecked ox-cart scene (Züschen); Bronocice four-wheeler motif (~3500–3100).
+- **Burials:** paired bovid graves (Alsónémedi, Budakalász; [[globular-amphora-culture|Globular Amphora]] dozen+ examples) read as draught pairs (sometimes cow/calf to spare draught oxen).
 - **Plough-marks:** buried soils under monuments; Danish/NW European horizon ~3500 BC as indigenism test case in the introduction.
 - **Wheels and yokes:** waterlogged NL/DK wheels (3rd mill. Corded Ware period contexts in his dating); Vinelz and Petersfehn yokes possibly 3rd mill.
 - **Pathology:** osteological draught signatures refined by later literature he notes (Davis, Benecke) without importing post-1997 residue chemistry.

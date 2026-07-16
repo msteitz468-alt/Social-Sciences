@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Inference of homeland ecology, technology, and social world from the reconstructed lexicon of a proto-language"
 contested: yes
 related_concepts: ["[[kurgan-hypothesis]]", "[[anatolian-hypothesis]]", "[[elite-recruitment]]", "[[secondary-products-revolution]]", "[[pastoralism]]", "[[animal-domestication]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept, linguistics, method-adjacent]
 ---
 
@@ -49,17 +49,18 @@ Reliability thresholds from the comparative method apply: cognates in at least t
 ## Applications
 
 - [[indo-european-languages]] homeland chronology and branch-order arguments on [[steppe-hypothesis-debate]]
+- **Mallory 1989 (now primary):** Ch.4 reconstructs PIE environment (temperate trees, river/lake orientation; *mori problematic), economy (stockbreeding with limited agriculture; *owis, *ekʷos, pig *su/*porko, plough), settlement/technology (house, *ayos metal, wagons, weapons), social organization (patrilineal/patriarchal, *teutā, disputed *rēǵ-); Ch.5 religion (*dyēus ph₂tēr, [[tripartition]], horse sacrifice). Ch.6 uses palaeontology for homeland: cultural vocabulary time-depth ~4th millennium BC (bounds ~5000–2500 BC); beech argument limited; salmon (Diebold) can support Pontic-Caspian; horse “on balance” steppe/forest-steppe; wheeled vehicles 4th millennium Europe. Source: [[mallory-in-search-of-the-indo-europeans-1989]].
 - Anthony's wool/wheel *terminus post quem* for late PIE after ~4000–3500 BCE (core of his refinement of the [[kurgan-hypothesis]])
-- Rejection of Renfrew's first-farming IE dispersal as incompatible with wagon vocabulary
+- Rejection of Renfrew's first-farming IE dispersal as incompatible with wagon vocabulary (Anthony) and with Mallory’s multi-criterion stack
 - Social-institutional reconstructions feeding [[elite-recruitment]] (oath *h1óitos*, guest-host *ghos-ti-*, patron-client sacrifice)
 - Ecological exclusions (bees, horse, temperate package) that narrow homeland candidates before archaeology is mapped
 
 ## Critiques and Limitations
 
-- **Circularity** (Renfrew 1987): matching lexicon to a preferred culture and treating the match as proof.
+- **Circularity** (Renfrew 1987): matching lexicon to a preferred culture and treating the match as proof. Mallory (1989) still uses palaeontology as one **constraint among several**, not sole proof.
 - **Semantic drift and loans:** ecological terms may reflect expansion zones, not origin; technology words may be borrowed; Anatolian wheel vocabulary is itself doubtful (hurki- / hišša-), so archaic PIE as preserved in Anatolian may predate wagons.
 - **Absence ≠ absence:** unrecovered words and weak negative evidence.
 - **Dictionary effect:** reconstructions homogenize multi-period speech; over-precision about a single "PIE culture" is illicit.
 - **Four-way non-identity:** reconstructed lexicon constrains a speech community's world; it does not identify an archaeological culture, genetic population, or self-conscious people. Anthony's own applications keep association attributed.
 
-Renfrew 1987 and Anthony 2007 are the vault's opposed evaluations of the method's yield for the IE problem — both essential.
+Renfrew 1987, Mallory 1989, and Anthony 2007 are the vault's principal evaluations of the method's yield for the IE problem — all essential and attributed.

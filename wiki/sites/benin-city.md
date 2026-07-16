@@ -19,8 +19,8 @@ key_finds:
   - "outer interlocking enclosures (>145 km surveyed by Connah; wider Darling network ~6,500 km²)"
   - "artistic copper-base alloys from 13th c.; TL-dated casting cores ~15th c. or later"
   - "postcontact coursed-mud architecture with impluvia"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, nigeria, benin, urbanism, state-formation]
 ---
 
@@ -94,3 +94,21 @@ Source: [[connah-african-civilizations-2016]]; primary field report as cited: Co
 - **Sacrifice and the state.** Mass burial as ritual sacrifice indicating centralized authority is Connah’s interpretation grounded in context (palace cistern) and ethnohistoric parallels to 1897—violent ritual as state capacity, not only “custom.”
 
 All interpretive claims date-stamped **(as of Connah 2016)**; post-2016 Benin archaeology, museum repatriation research, and earthwork remote sensing are not incorporated here.
+
+## Oxford Handbook densification (Mitchell & Lane 2013)
+
+*(Attributed — Akinwumi Ogundiran in [[mitchell-lane-oxford-handbook-african-archaeology-2013]] Ch. 59; also Monroe Ch. 48 forest states; Sinclair earthworks note. **as of 2013**.)*
+
+### Earthworks and emergence
+
+Darling’s survey: **>16,000 km** concentric earthworks around **>500** settlements, enclosing **6,500 km²** in Edo-Esan (SW Nigeria); agricultural landscape from ~AD 500; walled villages coalesced AD 800–1000 into polities with hierarchies and specializations. **Benin emerged late 12th/mid-13th c.** from this process; innermost bank-and-ditch average height **17.4 m**, circumference **~11.6 km**, radiocarbon late 12th/early 13th c. (Connah 1975 via Ogundiran). Rise as political solution to **land and trade-route competition**. Coral, ivory, brass/bronze monopolized by royalty; pre-15th c. copper from [[ile-ife|Ile-Ife]]/Nupe; post-15th c. European brass primary—commemorative heads/plaques communicate authority.
+
+**Agriculture-first path; Atlantic trade intensifies brass art after 15th c., not founding cause** (Ogundiran notes).
+
+### Town goals and Atlantic-era intensification
+
+Ogundiran: early towns of central Ghana and Yoruba–Edo typify **community-building** (lineages, diasporas, migrants form governing associations → expanded settlement); later 17th–18th c. militaristic-state towns typify **authority-building**. Divine kingship + town as political centre developed simultaneously AD 800–1000 in Yoruba–Edo, most elaborate at Ile-Ife from 11th c., **replicated 13th–15th c.** (including Benin). Hierarchies permeable, power diffuse even with kingship.
+
+After 16th c., towns exploded across Bight of Benin and Gold Coast hinterlands with middle-phase Euro-African commerce and militaristic hegemonic states (**Oyo, Benin, Dahomey, Asante**) building hierarchical provincial landscapes unlike earlier weakly integrated patrimonial kingdoms. Hueda vs Dahomey contrast (Monroe): weak provincial integration vs fuller territorial integration via palaces along trading highways. 18th-c. hinterlands “the most urbanized landscape in Africa” (Ogundiran—attributed).
+
+*Source: [[mitchell-lane-oxford-handbook-african-archaeology-2013]].*

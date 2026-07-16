@@ -63,3 +63,7 @@ Related: Nevali Çori (Hauptmann 1983–91; later flooded by the Atatürk Dam) s
 - Monumental sacred art: **T-shaped pillars ~3 m** with relief animals (bulls, lion, canid, bird, large wader not previously in repertory) — enriches symbolic vocabulary beyond dominant bull + human form; significance work ongoing as of his writing.
 - Still **no confirmation** (as of Cauvin) that this Anatolian “Mureybetian” already practiced cultivation — definitional “Neolithic” for him requires productive economy.
 - Complements [[nevali-cori|Nevalı Çori]], [[cafer-hoyuk|Cafer Höyük]], [[catalhoyuk|Çatalhöyük]] in his Anatolian neolithisation map; later readers (e.g. Mithen) pair Göbekli with ideology-before-economy while often rejecting mother-goddess reading of its imagery.
+
+## Matthews densification (2003)
+
+*(Attributed — [[matthews-archaeology-mesopotamia-2003|Matthews 2003]].)* Matthews situates Göbekli Tepe on the northern fringe of Upper Mesopotamia, dated to 9,000 BC and earlier, with only wild fauna and flora attested (Hauptmann 1999); its exclusively megalithic architecture — massive T-shaped pillars with relief-carved animals — is cited by Matthews as evidence for Brian Hayden's "pull" model of social hierarchy, in which competitive feasting and aggrandizing behaviour precede and help drive the shift to agriculture, rather than agriculture preceding hierarchy.

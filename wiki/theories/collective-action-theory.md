@@ -151,6 +151,41 @@ a collective good. Public-goods residual [[exit-option|exit]] and
 [[loyalty|loyalty]] in EVL Ch. 7 share language with this programme without
 adopting selective-incentive apparatus as core.
 
+## Archaeological Extension — Fiscal Theory of Premodern States (Levi → Blanton & Fargher)
+
+The programme's most consequential uptake in archaeology runs through Margaret
+Levi's *Of Rule and Revenue* (1988) into Blanton and Fargher (2008) and
+*How Humans Cooperate* (2016), and organizes
+*[[blanton-ancient-oaxaca-2022|Ancient Oaxaca]]* (2nd ed. 2022). Attributed claims:
+
+- **Revenue source predicts governance form.** Where rulers command **external
+  revenues** (their own estates, monopolized trade, external tribute), they need
+  not bargain with taxpayers: expect autocracy, few public goods, weak governing
+  capacity. Where the state depends on **internal revenues** (broad-based
+  taxation of the population), expect more distributed/"relational" governance,
+  public-goods provision, and bureaucratic controls on officials (Levi 1988;
+  Blanton & Fargher 2008).
+- **Quasi-voluntary compliance.** Leaders who solve cooperator problems and
+  deliver public goods build taxpayer confidence, cheapening revenue collection;
+  its absence produces free-riding, shirking, emigration, or revolt (Levi 1988).
+- **The contingent cooperator.** Against both the egoist caricature and the
+  norms-only anthropology of "traditional folk society" (Service) or prosocial
+  instincts (Boyd–Richerson–Henrich), Blanton and Fargher (2016) model actors as
+  contingent cooperators whose cooperation tracks confidence in others'
+  compliance — social dilemmas arise even in small homogeneous groups (Ostrom 1990).
+- **Cross-cultural test.** Blanton and Fargher (2008) coded a worldwide sample of
+  premodern states and report strong statistical support for the
+  internal/external-revenue predictions; follow-ups (Fargher, Heredia Espinoza &
+  Blanton 2011; Feinman & Carballo 2018) are described by the authors as
+  replications, but come largely from the same research network — treat the
+  finding as attributed, replication not yet fully independent.
+- **Applied to Oaxaca.** Blanton et al. (2022) read [[monte-alban]]'s founding as
+  collective action under military threat (internal-revenue polity, "faceless"
+  governance, public goods) and its Period II turn to external tribute as a shift
+  toward exclusionary rule — see [[monte-alban-founding-debate]] and
+  [[disembedded-capital]]. The framework absorbed the authors' earlier
+  [[dual-processual-theory]], supplying the causal mechanism it lacked.
+
 ## Reflexivity
 
 The programme's Cold War-era, US-centered cases (unions, farm bureaus, the AMA,

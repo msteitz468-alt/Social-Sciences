@@ -7,7 +7,7 @@ disciplines: [archaeology]
 era_coverage: [contemporary]
 region_coverage: [global, british-isles, near-east, mediterranean, south-asia, sub-saharan-africa, mesoamerica, andes]
 methodological_approach: [theoretical, historical]
-reliability_notes: "Programmatic advocacy work (expanded from the 21st Kroon Lecture, Amsterdam, 1999) by a leading processual archaeologist. Argues a strong ethical thesis — that the market in unprovenanced antiquities drives the looting and destruction of the archaeological record — and is explicitly written to persuade collectors, curators, legislators, and the public. Empirical case material (looting episodes, court actions, conventions) is reliable and well-sourced but selected to support the argument; treat the central thesis as an attributed position (see [[antiquities-market-looting-debate]]), not wiki-voice consensus, and the opposing 'cultural-internationalist' / collector-and-dealer camp is represented here mainly as the target of critique. Renfrew discloses his own past contribution to an unprovenanced-collection catalogue (Renfrew 1991). Roughly half the volume (pp. 95–150, Appendices 1–10) reproduces primary legal instruments verbatim; these were used as reference material, not extracted as claims."
+reliability_notes: "Programmatic advocacy work (expanded from the 21st Kroon Lecture, Amsterdam, 1999) by a leading processual archaeologist. Argues a strong ethical thesis — that the market in unprovenanced antiquities drives the looting and destruction of the archaeological record — and is explicitly written to persuade collectors, curators, legislators, and the public. Empirical case material (looting episodes, court actions, conventions) is reliable and well-sourced but selected to support the argument; treat the central thesis as an attributed position (see [[antiquities-market-looting-debate]]), not wiki-voice consensus. The opposing cultural-internationalist pole now has a primary statement in-vault ([[cuno-who-owns-antiquity-2008]]); within *this* book that camp is still mainly the target of critique. Renfrew discloses his own past contribution to an unprovenanced-collection catalogue (Renfrew 1991). Roughly half the volume (pp. 95–150, Appendices 1–10) reproduces primary legal instruments verbatim; these were used as reference material, not extracted as claims."
 study_page: 
 pages_created: 6
 pages_updated: 3
@@ -74,3 +74,8 @@ he had founded the **Illicit Antiquities Research Centre** (IARC) and its period
 See frontmatter `reliability_notes`. This is an advocacy text; its factual reporting of
 cases and instruments is dependable, but its framing is one side of a live dispute filed
 at [[antiquities-market-looting-debate]].
+
+## Later empirical companion
+
+Demand-side case densification: [[brodie-kersel-luke-tubb-archaeology-cultural-heritage-antiquities-trade-2006]] (IARC-adjacent multi-author volume; Iraq, Lydia, Ulúa, market chain, U.S. law). Counter-pole still [[cuno-who-owns-antiquity-2008]].
+

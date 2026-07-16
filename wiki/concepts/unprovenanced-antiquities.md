@@ -7,9 +7,9 @@ disciplines: [archaeology]
 emic_or_etic: etic
 operationalized_as: "an antiquity lacking secure, documented findspot and/or collecting history; in practice, objects surfacing on the market after 1970 without pre-1970 documentation"
 contested: yes
-related_concepts: ["[[provenience]]", "[[archaeological-context]]", "[[cultural-property]]", "[[illicit-antiquities-trade]]", "[[restitution]]", "[[heritage-management]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+related_concepts: ["[[provenience]]", "[[archaeological-context]]", "[[cultural-property]]", "[[illicit-antiquities-trade]]", "[[restitution]]", "[[heritage-management]]", "[[encyclopedic-museum]]", "[[partage]]"]
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -76,11 +76,24 @@ long-prior private collections (the Getty Kouros' forged 1930s Geneva pedigree).
 
 ## Critiques and Limitations
 
-- The "likely looted" presumption is a **probabilistic position, not a finding** — critics
-  (collectors, dealers, "universal museum" advocates) argue many unprovenanced objects
-  left their countries legally long ago, that a licit market is possible, and that
-  presuming guilt from missing paperwork is unfair. Recorded on
-  [[antiquities-market-looting-debate]].
+- The "likely looted" presumption is a **probabilistic position, not a finding**.
+  [[cuno-james|James Cuno]] (*[[cuno-who-owns-antiquity-2008|Who Owns Antiquity?]]*, 2008)
+  is the vault's primary counter-statement:
+  - He defines unprovenanced chiefly as **modern gaps in the chain of ownership**, and
+    treats the museums-vs-archaeologists acquisition fight as a **surrogate** for
+    museums-vs-nation-states ownership politics (attributed position).
+  - He argues objects retain **aesthetic, technological, iconographic, and epigraphic**
+    meaning without archaeological findspot, and that much Near Eastern and Maya history
+    is known from unprovenanced seals, tablets, and ceramics (attributed).
+  - He contests "clean hands" non-acquisition ethics as leaving already-looted objects
+    unknown in private hands (attributed).
+  - He reports the U.S. **Schultz** conviction (2001) under the National Stolen Property
+    Act (Egyptian 1983 patrimony law) as a turning point that made due diligence
+    insufficient for U.S. museum staff (factual reporting as attributed in Cuno).
+  - In the 2011 afterword he treats the **AAMD 2008** "normally should not acquire"
+    / 1970 bright-line guidelines as symbolic restraints that freeze Western museum
+    buying without stopping looting (position).
+  Full position set: [[antiquities-market-looting-debate]] Position B.
 - Genuine pre-1970 material can be hard to document, so the bright line can penalize
   legitimately-held objects.
 - "Unprovenanced" says nothing about authenticity — the Getty Kouros is both unprovenanced
@@ -88,5 +101,15 @@ long-prior private collections (the Getty Kouros' forged 1930s Geneva pedigree).
 
 ## Primary Attribution
 
-Densified from [[renfrew-loot-legitimacy-2000|Renfrew 2000]] (Introduction, Chs. 2, 5).
+Densified from [[renfrew-loot-legitimacy-2000|Renfrew 2000]] (Introduction, Chs. 2, 5) and
+[[cuno-who-owns-antiquity-2008|Cuno 2008/2011]] (Introduction; Ch. 1; Afterword).
 Distinguish from the field-recording sense on [[provenience]].
+
+
+## Densification from Brodie et al. 2006
+
+- **Definitional:** Brodie intro equates market "unprovenanced" with missing findspot (**provenience**) and/or ownership history (**provenance**); opacity across jurisdictions is structural, not accidental.
+- **Museum practice (Renfrew ch. 13):** "no documentation, no acquisition"; prior public exhibition must not count as cleansing — "reputation laundering by public exhibition."
+- **Market chain (Kersel):** transit free-ports and "old collection" cover stories convert illicit finds into saleable unprovenanced stock; destination buyers often prefer not to ask.
+- **Counter-pole:** [[cuno-who-owns-antiquity-2008]] still holds that unprovenanced objects can carry meaning and that total non-acquisition is ethically contestable — position on [[antiquities-market-looting-debate]], not a wiki-voice rebuttal of Brodie/Renfrew.
+

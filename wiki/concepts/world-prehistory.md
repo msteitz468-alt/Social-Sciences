@@ -7,9 +7,9 @@ disciplines: [archaeology, anthropology]
 emic_or_etic: etic
 operationalized_as: "A single chronological-ecological narrative covering the prehistoric human past of all inhabited continents, treating regional sequences comparatively rather than as a Europe- or Near-East-only story"
 contested: yes
-related_concepts: ["[[prehistory]]", "[[economic-prehistory]]", "[[neolithic-revolution]]", "[[urban-revolution]]", "[[ex-oriente-lux]]", "[[global-colonization]]", "[[exaptation]]"]
-sources_ingested: 6
-last_updated: 2026-07-10
+related_concepts: ["[[prehistory]]", "[[economic-prehistory]]", "[[neolithic-revolution]]", "[[urban-revolution]]", "[[ex-oriente-lux]]", "[[global-colonization]]", "[[exaptation]]", "[[deep-human-history]]", "[[terrae]]"]
+sources_ingested: 8
+last_updated: 2026-07-15
 tags: [concept, archaeology]
 ---
 
@@ -43,6 +43,10 @@ Uneven research intensity and authorial reading produce geographic distortion (C
 
 [[gamble-clive|Clive Gamble]]'s *[[gamble-timewalkers-1994|Timewalkers]]* retools world prehistory around **[[global-colonization]]** — *why were people everywhere?* — rather than *why was civilization not universal?* (attributed, preface and ch. 1). He credits Clark with showing that a world prehistory is possible and profitable, and quotes Clark that prehistory properly apprehended gives a more valid perspective on the contemporary situation than parochial histories (attributed, ch. 11). Gamble's program: purpose without progress; [[exaptation]] vs adaptation; Ancients/Pioneers/Moderns range-phases; critique of double standards that naturalize deep prehistory while reserving "history" for post-agricultural societies (legacy of [[childe-v-gordon|Childe]]'s Neolithic Revolution framing — attributed). Goal of world prehistory should be diversity and common humanity, not an origins quest that establishes "the antiquity of exclusion" (attributed, ch. 11). Empirical horizon is mid-1990s (pre-aDNA).
 
+### Gamble — *Settling the Earth* (2013): deep history and Terrae
+
+*[[gamble-settling-the-earth-2013|Settling the Earth]]* prefers **[[deep-human-history]]** to "prehistory" ("everything about the human past is history," attributed) and organizes the global story as six **[[terrae|Terrae]]** of settlement rather than civilization stages or industry sequences alone (attributed, Gamble 2013). Continues *Timewalkers*' colonization object while adding climate/variability, social-brain, and archaeogenetic veneer apparatus; still synthesis, not a single research act. Horizon: as of 2013.
+
 ### Wenke & Olszewski — *Patterns in Prehistory* (2007)
 
 [[wenke-olszewski-patterns-in-prehistory-2007|Wenke & Olszewski]]'s fifth edition is a mid-2000s **world-prehistory textbook** in the post-Clark genre: global chronological-ecological narrative organized around six themes — intellectual background; archaeological methods; culture; emergence of anatomically modern humans; food-producing economies; and complex societies, civilizations, and states (attributed, preface). The overview timeline they present (as of 2007) anchors first stone tools ~2.6 Ma in Africa, *Homo* ~2.5 Ma, *Homo erectus*-grade out-of-Africa ~1.7 Ma, early modern humans in Africa ~160 ka, Americas colonization beginning ~20–15 ka, and multi-regional agricultural origins (e.g. Middle East ~8500 B.C., Mesoamerica ~8000 B.C.) — textbook round numbers, not lab intervals (attributed).
@@ -72,3 +76,7 @@ Load-bearing analytic sequence for the Holocene half: breakdown of [[pleistocene
 [[scarre-human-past-2013|Scarre (ed.), *The Human Past*]] (3rd ed. 2013, Thames & Hudson) is the most-used current university survey in the post-Clark genre: a **multi-author** textbook, edited by [[scarre-chris|Chris Scarre]] with region-specialist chapters (Klein on African origins; Connah on Holocene Africa; Higham on East/Southeast Asia; Coningham on South Asia; Milner and Wills on North America; among others). Structure: Part I (human evolution in Africa and the peopling of the Old World, ~6 Ma–11,500 years ago) then Part II, a region-by-region tour of the Holocene — origins of food production and the rise of complex societies across Southwest Asia, East and Southeast Asia, South Asia, Africa, Europe, the Mediterranean, Mesoamerica, South America, and North America. Its closing synthesis (attributed, Scarre ed. 2013, ch. 19) organizes the whole global story around four long-run themes: **demographic increase, agricultural intensification and environmental degradation, biological exchange** (culminating in the Columbian exchange and post-contact disease mortality), and **climate change** as a recurrent backdrop rather than a prime mover.
 
 Because it is multi-author and peer-taught, it carries presumptive weight on the **state of the field** region by region, but is downstream of the primary studies it summarizes — keep single findings attributed and date-stamp its fast-moving science "(as of Scarre ed. 2013)". Its chief additions to this wiki's coverage were on the **Andean sequence** ([[caral]], [[chavin-culture]], [[moche-culture]], [[nazca-culture]], [[wari-culture]], [[tiwanaku-culture]], [[chimu-culture]], [[inca-empire]]; [[andean-chronology]]) and East/Southeast Asia ([[yayoi-culture]], [[angkor]]).
+
+### Renfrew — *Prehistory: The Making of the Human Mind* (2007)
+
+*(Attributed — [[renfrew-colin]], *[[renfrew-prehistory-making-human-mind-2007]]*, 2007.)* Part I is a short **historiography of how world prehistory became possible**: idea of prehistory (to 1859); culture-historical mapping to 1940; Libby radiocarbon and collapse of automatic *[[ex-oriente-lux|ex Oriente lux]]* for Europe; then Clark's *[[clark-world-prehistory-1961|World Prehistory]]* (1961) as the first coherent radiocarbon-based global outline. Renfrew stresses that national archaeologies after decolonization produce local narratives that often remain unintegrated — world prehistory still risks looking like a "scrapbook" of national stories. Part II refuses a single grand unified narrative of progress and instead organizes global diversity through the **[[sapient-paradox]]** and multi-trajectory **[[tectonic-phase]]** developments (community, value, cosmos, writing). **Horizon:** as of ~2007.

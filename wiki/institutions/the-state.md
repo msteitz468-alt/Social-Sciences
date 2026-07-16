@@ -5,8 +5,8 @@ distribution: widespread
 key_variants: ["patrimonial state", "feudal / estate (Ständestaat) order", "bureaucratic-absolutist state", "modern rational-legal state", "plebiscitary leader-democracy", "city-state / free commune", "gentile (pre-state) constitution vs territorial class state (Engels)", "absolutist court-centred monopoly state (Elias)", "theatre state / exemplary-center polity (Geertz)"]
 theorized_by: ["[[weber-max]]", "[[marx-karl]]", "[[engels-friedrich]]", "[[pareto-vilfredo]]", "[[tocqueville-alexis-de]]", "[[historical-materialism]]", "[[elias-norbert]]", "[[civilizing-process]]", "[[tilly-charles]]", "[[durable-inequality-theory]]", "[[political-conflict-theory]]", "[[fried-morton-h]]", "[[egalitarian-rank-stratified-state-model]]", "[[graeber-david]]", "[[wengrow-david]]", "[[yoffee-norman]]", "[[scott-james-c]]", "[[kemp-barry-j]]", "[[pitcher-m-anne]]", "[[mann-michael]]", "[[iemp-model]]", "[[geertz-clifford]]", "[[interpretive-anthropology]]"]
 key_studies: ["[[marx-eighteenth-brumaire-study]]", "[[engels-origin-of-the-family-1884]]", "[[elias-civilizing-process-study]]", "[[tilly-from-mobilization-to-revolution-study]]", "[[graeber-wengrow-dawn-of-everything-2021]]", "[[yoffee-myths-of-the-archaic-state-2005]]", "[[scott-against-the-grain-2017]]", "[[mann-sources-of-social-power-vol1-1986]]", "[[geertz-negara-study]]"]
-sources_ingested: 20
-last_updated: 2026-07-10
+sources_ingested: 21
+last_updated: 2026-07-15
 tags: [institution]
 ---
 
@@ -155,3 +155,34 @@ Complements [[kemp-barry-j|Kemp]]’s institutional anatomy: Wilkinson supplies 
 **Shamshi-Adad's "Kingdom of Upper Mesopotamia" as a personalist territorial state (attributed).** Van De Mieroop treats early-second-millennium territorial states — Shamshi-Adad in the north, Hammurabi in Babylonia, Hattusili I in Anatolia — as structurally similar to their rivals, "only more successful," and explicitly the product of "an individual's military successes" that "disintegrated soon after their founders' deaths": an achievement-based, personalist state-formation pattern rather than an institutional one. Shamshi-Adad (acceding at Ekallatum near Assur c. 1830 BCE, taking Assur's throne 1807 BCE, conquering Mari c. 1792 BCE) built the "Kingdom of Upper Mesopotamia" — an etic label Van De Mieroop applies, not an ancient self-designation. He ruled from Shubat-Enlil, installing sons as sub-kings (Ishme-Dagan at Ekallatum in the east; Yasmah-Addu at Mari in the west) while retaining ultimate control via a stream of directive letters, and was highly tolerant of local practice (retaining local titles, restoring local temples, keeping some rulers as vassals). The kingdom collapsed rapidly after Shamshi-Adad's death (Mari fell to Zimri-Lim in 1775 BCE, within roughly a decade of the kingdom's peak).
 
 **The eponym (limmu) dating system.** Shamshi-Adad imposed the Assur eponym (limmu) system — annually rotating officials, originally selected by lot — across his domain (Mari, Tuttul, Shubat-Enlil, Terqa) as a mechanism of administrative unification even where local institutions were otherwise left alone. The system outlived his kingdom: independent successor cities kept coordinating dates via a shared eponym sequence even after political fragmentation, and newly published Kanesh eponym lists now give a nearly complete sequence from roughly 1972 to 1718 BCE — a case of an administrative technology surviving the collapse of the state that introduced it.
+
+## Lehner densification (1997)
+
+*(Attributed throughout — [[lehner-mark]], *[[lehner-complete-pyramids-1997|The Complete Pyramids]]* 1997. Pyramid-age Egypt as state; **nation-state and colonization claims remain Lehner’s positions — never wiki voice.** Complements Kemp provider-state and Wilkinson narrative sections above.)*
+
+### “First centralized nation state” claim (ATTRIBUTED POSITION)
+
+Lehner argues that the beginning of the pyramid age coincided with a programme of **internal colonization** founding new villages (*niut*) and estates (*hut*) throughout Egyptian hinterlands; foundations contributed produce to pyramids, temples, or élite tombs, creating a resource flow periphery → core. In his wording, pyramid building had a “key role in forging Egypt as the **world’s first centralized nation state**,” unlike the Mesopotamian / North Syrian city-state pattern. He further holds that early OK pyramids helped set Egypt on a course toward a fully consolidated kingdom and that processes they put in motion “were finally to culminate in one of the world’s first empires” (MK frontier forts → NK empire path). **Record as Lehner’s comparative thesis, not as wiki-voice fact.** Cross-read with [[state-formation]] and Mesopotamian city-state densifications on this page and elsewhere.
+
+### Two Lands and capital zone
+
+- Pharaoh as “Lord of the Two Lands” (Nile Valley vs Delta; double crown) for most of ~3,000 years of relatively continuous language/culture.
+- Egypt’s first “capital” began as a fortified settlement near the Delta apex ([[memphis]] region); from there to the Fayum entrance a long narrow Nile Valley section was throughout history both “capital zone” and pyramid zone.
+- ~21 major OK pyramids cluster in ~20 km west of the capital “White Wall” (Memphis), within a ~72 km desert span from [[abu-roash]] to [[meidum]].
+
+### Colonization chronology and centrifugal late OK
+
+- Estates/ranches in the Delta as early as the 1st dynasty; evidence increases with giant pyramids. Palermo Stone for Sneferu: “the year of creating 35 estates with people and 122 farms [ranches]”; personified estate names in Bent Pyramid “valley temple” reliefs; known Sneferu estates mostly Middle Egypt, with OK estate preponderance in the Delta (Jacquet per Lehner).
+- Comparison map: 3rd-dynasty monuments cluster in the Qena Bend and narrow valley below Delta apex; Sneferu estates spread into broad Middle Egypt and Delta hinterlands.
+- By late OK: high officials no longer senior royals; “a true bureaucracy was emerging” taking shares of pyramid-temple produce; **centrifugal forces** dispersed early-OK centralized power through the colonies meant to feed it — paralleling the architectural shift from giant to smaller standardized pyramids (Lehner INTERPRETATION). 5th-dynasty Delta grants to Re/Heliopolis and later provincial temple endowments locked income into hereditary local claims (“miniature ruling households within the united kingdom”).
+- After 6th-dynasty collapse the OK manorial engine “ground to a complete halt”; MK continued settlement with Fayum expansion (Senwosret II Illahun/[[kahun]]; Amenemhet III Hawara).
+
+### Labour and the state (POSITION)
+
+Labour for pyramids organized as flow from towns/villages/estates/households, not purely military wage-labour model; “‘Forced’ as opposed to ‘voluntary’ labour may be a modern distinction” (Lehner). Control-note towns mirror colonization geography. Skilled permanent craftsmen vs mass “peasant conscript” crews — **status attributed**. See [[bureaucracy]] Lehner densification.
+
+### Mobile capital
+
+Closest OK approximation to a modern capital was the king’s residence near the [[pyramid-complex]] under construction; capital fairly mobile within the pyramid zone ([[giza]], [[abusir]]).
+
+Related: [[pyramid-complex]], [[temple-economy]], [[bureaucracy]], [[state-formation]], [[urbanization]], [[memphis]], [[giza]].

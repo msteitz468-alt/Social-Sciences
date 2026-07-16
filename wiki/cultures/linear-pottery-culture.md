@@ -15,8 +15,8 @@ preceded_by: ["SE European early farming (Greece ~7500 BC; Balkans leap-frog)", 
 succeeded_by: ["regional Middle Neolithic cultures", "TRB (Funnel Beaker) via Lengyel variant of later LBK (Bellwood position)", "influence on Scandinavian early Neolithic long barrows"]
 language_affiliation: "[[unknown]] — Renfrew Anatolian/IE-with-farmers and Bellwood farming/language program are POSITIONS, not proven LBK = Indo-European"
 genetic_signature: "Classical wave-of-advance vs mtDNA debates as of Bellwood 2005; LBK France/Germany ancient bone SW Asian mtDNA lineages (Jones 2001 via Bellwood); post-2010 aDNA densify separately — see [[early-european-farmers]], [[farming-spread-europe-debate]]"
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 6
+last_updated: 2026-07-15
 tags: [culture, neolithic, europe, lbk, old-europe]
 ---
 
@@ -165,3 +165,48 @@ Not all of central Europe converted after Wave 1 in her synthesis: **Cucuteni, T
 - **Violence and successors:** LBK violence rare except late LBK mass grave ~35 at Talheim (Germany) — skulls with shoe-last celt impacts (Wahl & König 1987); hard to argue forager ambush. Late LBK northern/NW margins: ditch and palisade earthworks — some ritual, many likely defensive. Fifth millennium BC: LBK replaced by regional groups (SBK W Germany; Lengyel E Germany/Poland/Czech) with continued longhouses + elaborate ceremonial enclosures and burial monuments.
 
 **Identity cautions (Barker layer):** LBK pottery + longhouses ≠ demic identity with Balkan colonists; Haak 2005 reading is mid-2000s aDNA; leap-frog vs wave vs acculturation remain positions on [[farming-spread-europe-debate]] / [[early-farming-dispersal-hypothesis]]. Source: [[barker-agricultural-revolution-prehistory-2006]].
+
+## Bradley 1998 — symbolic dimension of the house (attributed)
+
+*[[bradley-significance-of-monuments-1998|Bradley, Significance of Monuments]]* (1998, Ch. 3) argues that culture-historical and economic settlement archaeology underplayed the **symbolic life-cycle of LBK houses**:
+
+- Timber longhouses often used ~20–27 years despite massive construction; little repair/fire destruction → abandoned while sound; “living” and “dead” houses co-present on multi-phase sites (Köln-Lindenthal, Bylany, Langweiler 9, Merzbach region, Laurenzberg 7, Olszanica, Brześć Kujawski).
+- Adult burial in flat cemeteries near some settlements (individual commemoration) parallel to but distinct from household-scale house histories; children’s bones mainly in buildings, not abandonment deposits (Veit via Bradley).
+- Late LBK: enclosure development including Belgian interrupted-ditch/palisade enclosures with houses inside (Keeley & Cahen) — prototypes for later [[causewayed-enclosure]] circuits.
+- Beyond the loess, long-mound and enclosure monumentality transforms these domestic templates ([[death-of-the-house]]); complementary distributions of longhouses / long mounds / megaliths (secure coincidence mainly Kujavia).
+- Agricultural frontier ~5000–4000 BC: loess longhouse zone vs monument-rich margins where first major monuments appear as agricultural resources are newly employed (Sherratt 1990 via Bradley).
+
+Construct caution: Bradley does not equate LBK ethnicity with northern long-barrow builders — morphological and symbolic association, not identity.
+
+## Whittle densification (1996) — longhouse lives and indigenous origins
+
+*(Attributed — [[whittle-alasdair]], *[[whittle-europe-in-the-neolithic-1996|Europe in the Neolithic]]* 1996, esp. Ch. 6. Chronology mid-1990s cal BC; **pre-aDNA**. Position on [[farming-spread-europe-debate]], not wiki-voice demography.)*
+
+### Chronology and distribution (as of Whittle 1996)
+
+- LBK ~**5500 to after 5000 BC**, then post-LBK regional successors (Lengyel, Rössen, Stichbandkeramik, etc.) to before ~4000 BC.
+- Range: Transdanubian Hungary to S Netherlands, E Belgium, Paris-basin valleys; Slovakia, Czech Lands, N/E Austria, S and parts of central Poland; Germany N toward Braunschweig/Magdeburg; northern limits roughly loess / N European plain edge with Polish outliers (Kujavia, Chełmno-land, near Szczecin).
+- Typical siting: fertile soils near water; settlement “cells” with gaps; limited woodland inroads in pollen (Aldenhoven example). Early material uniformity (houses, adzes, pottery) then later regionalisation of pottery styles.
+
+### Settlement and [[longhouse]] architecture
+
+- Three-aisled timber longhouses; individual houses may last about a generation and be replaced nearby; some large (~25 m) from early on, spaced tens of metres apart.
+- Exemplars in his synthesis: Bylany, Langweiler 8 phasing, Frankfurt–Niedereschbach earliest house, Erkelenz–Kückhoven wooden wells, Olszanica (obsidian/polished stone distributions around houses), Darion enclosure, Merzbachtal settlement development.
+- Whittle reads longhouses as **social creators** of aggregation and cooperation, not mere colonist shelters; major lifestyle shift = longhouse life in small groups; domesticates and architecture **enhance** existing sharing values rather than wholly replace them.
+
+### Origins: colonisation orthodoxy vs indigenous transformation
+
+- **Orthodoxy he reports:** clean break with thin inland foragers; demographic overflow from SE Europe / Hungarian plain; rapid ¹⁴C expansion; cultural uniformity; empty fertile woodland niches.
+- **His alternative:** acculturation/enculturation of **indigenous inland foragers** under contact with southern/eastern Neolithic communities; flint blade traditions continuous; physical anthropology “compatible with continuity” (DNA as future research only — **as of 1996**).
+- Contact markers: Limburg / La Hoguette-type pottery; late Körös expansion intensifying interaction; cattle and cereals taken up to underpin cooperative ethics.
+
+### Burial, violence, and enclosures
+
+- Cemetery example: Elsloo grave assemblages.
+- **[[talheim|Talheim]]** mass grave (reconstructed body positions) as evidence of lethal conflict within the longhouse world — held beside, not erased by, the sharing-ethic thesis.
+- Late enclosures (e.g. Künzing–Unternberg, Lengyel/SBK roundels) not automatically defensive forts in his reading; ritual/aggregation readings remain open.
+- Post-LBK: [[lengyel-culture]] (Brześć Kujawski, Oslonki), Rössen (Inden), Passy burial structures; northern forager neighbours ([[ertebolle-culture]], Skateholm, Oronsay) in long coexistence before fifth-millennium convergence.
+
+### Identity cautions (Whittle layer)
+
+LBK pottery + longhouses ≠ single ethnicity or language. Indigenous vs demic origin is a **position** dated to 1996; later aDNA (EEF) densifies Position A strength — keep both on the debate page. Source: [[whittle-europe-in-the-neolithic-1996]].

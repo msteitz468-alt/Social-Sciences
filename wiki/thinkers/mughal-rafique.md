@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["Cholistan survey and Hakra/Ghaggar-Hakra settlement studies (cited as Mughal 1990, 1992 in Kenoyer 1998)"]
 key_concepts: ["Cholistan settlement systems", "Hakra cultural distribution", "Localization Era regional maps"]
 fieldwork_sites: ["Cholistan / Hakra–Ghaggar system (survey)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -43,3 +43,19 @@ River-identification and paleochannel reconstructions (Saraswati/Ghaggar-Hakra) 
 ## Historiography
 
 Access here is via Kenoyer 1998 citations (esp. Mughal 1990, 1992). Mughal’s own survey monographs are the primary texts for a fuller page.
+
+## Wright, *The Ancient Indus* (2010)
+
+Wright 2010 gives fuller detail on Mughal's Cholistan settlement survey (as director):
+site distribution shows Pre-urban settlements sited to avoid flood danger, and Mughal
+(1997) reconstructs hydrographic shifts — around 2500 BCE the Yamuna River captured
+the Chautang tributary, reducing flow to the Hakra's northern reach, and around 1500
+BCE the Sutlej (which had fed the Hakra) was captured by the Beas, leaving the Hakra
+channel "totally dry." Wright also relays Mughal's Hakra- and Kot Diji-phase site-size
+tabulations for Cholistan and his interpretation of declining camp-site counts there
+as evidence of increasing pastoral sedentarization. Wright records a terminology
+dispute: Mughal (1990) prefers "Late Harappan" to her own "Post-urban" label, citing
+the comparatively large (38-hectare) Kudwala settlement in Cholistan during this
+period, while Wright states she remains "persuaded" that urbanism was severely
+curtailed even where occupation continued — a live disagreement, not adjudicated
+here.

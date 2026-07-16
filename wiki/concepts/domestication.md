@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Morphological and genetic change in plants/animals under human selection; coevolutionary mutualism (Rindos); archaeological signatures (size, morphology, age profiles, phytoliths, genetics) — operationalizations disagree across taxa"
 contested: yes
 related_concepts: ["[[commensalism-archaeology]]", "[[neolithic]]", "[[neolithic-revolution]]", "[[sedentism]]", "[[agricultural-revolution]]", "[[hunter-gatherer]]", "[[craft-specialization]]", "[[natufian-culture]]", "[[commensalism-archaeology]]", "[[broad-spectrum-revolution]]", "[[animal-domestication]]", "[[domus-complex]]", "[[rice-domestication]]", "[[early-farming-dispersal-hypothesis]]"]
-sources_ingested: 10
-last_updated: 2026-07-10
+sources_ingested: 14
+last_updated: 2026-07-15
 tags: [concept, archaeology]
 ---
 
@@ -217,4 +217,58 @@ Source: [[liu-chen-archaeology-of-china-2012]].
 **Method (Ch. 3):** Archaeobotany, zooarchaeology, isotopes, aDNA (contamination-aware **as of mid-2000s**), settlement, pollen — each with failure modes (sieving bias; AMS overturning old “early domestic” associations; houses ≠ farming; pottery ≠ farming).
 
 See [[animal-domestication]], [[commensalism-archaeology]], [[agricultural-origins-causation-debate]], [[barker-agricultural-revolution-prehistory-2006]].
+
+## Matthews densification — *The Archaeology of Mesopotamia* (2003)
+
+*(Attributed — [[matthews-archaeology-mesopotamia-2003|Matthews 2003]].)* Matthews restates
+the working definition, following Davis 1987, Clutton-Brock 1999, and Reitz and Wing 1999, as
+"the usurpation by humans of control over breeding and rearing in conjunction with separation
+of the domesticated stock from their wild forebears." Hans-Peter Uerpmann's **niche
+concept** treats sheep/goat domestication as "a natural process" arising from a rare
+constellation of environmental, biological, and social factors unique to western Southwest
+Asia at the start of the Holocene, such that "conscious human action was not required"
+(Uerpmann 1996: 235) — a position consonant with the Rindos coevolutionary framing recorded
+above. Frederik Zeuner's older "crop robbers" theory (1963) proposed instead that animal
+domestication arose from the need to protect domesticated crops from wild raiders; Melinda
+Zeder (1999) suggested both humans and animal species exploited new plant foods at the end
+of the Pleistocene, bringing them into the close contact that led to domestication. Matthews
+lists the conventional (though contested-in-detail) Southwest Asian sequence — dog, then
+sheep, goat, pig, cattle — and the standard zooarchaeological domestication criteria:
+morphological change (e.g. horn shape), size reduction relative to wild forms, age/sex
+profiles of bone assemblages (a juvenile/male bias suggesting human control), and shifts in
+species abundance. See also the Hallan Çemi pig-domestication dispute (Rosenberg 1999 vs.
+Peters et al. 1999) on [[neolithic]].
+
+## Bradley 1998 — ideology of ownership (attributed)
+
+*[[bradley-significance-of-monuments-1998]]* (Ch. 2): Domestication as **direct ownership of resources** is inconsistent with Mesolithic partnership/reciprocity with nature reconstructed from burial symbolism. Domestication of plants/animals and creation of arable/pasture are forms of control parallel to monumental domination of landscape; both become thinkable after traditional beliefs lapse through inter-community interaction (availability phase of Zvelebil & Rowley-Conwy plus ideological barrier). Dog domestication among late foragers (formal dog burials) blurs human/animal distinction within that earlier ontology.
+
+## Whittle 1996 — partners, guilt, and piecemeal staples (attributed)
+
+*(Attributed — [[whittle-alasdair]], *[[whittle-europe-in-the-neolithic-1996]]* 1996, esp. Ch. 8 Mediterranean and Ch. 10 synthesis; pre-aDNA.)*
+
+- **Not production alone:** Real significance of domestication may lie in a conceptual shift — foragers united with world vs Neolithic consciousness of a separate human place — more than in productive capacity/control. Animals, **especially cattle**, valued as **subjects and partners** beside/beyond meat and nourishment; herded through woodland or regenerating woodscapes for most of the European Neolithic in his reconstruction.
+- **Guilt / objectification (speculative):** Earlier “cosmic economy of sharing” with animals may give way to categorisation and separation; guilt at breaking earlier bonds / objectifying domesticates may feed new senses of time and descent. Mesolithic may take animal fertility for granted; Neolithic veneration of animals as a separate category heightens consciousness of possible failure.
+- **Piecemeal Mediterranean uptake:** Grotta dell’Uzzo (and wider Impressed/Cardial sequences) show domesticates and cereals entering in **small quantities** while wild resources continue — broadening of resource base, not abrupt package substitution ([[impresso-cardial-culture]]). Secondary products horizon treated as acceleration of pre-existing trends (milk/wool/traction/wheeled transport), not sole cause of 4th-millennium change; mature age profiles at some SE European sites may already show secondary uses before the classic later-4th-mill. package (engagement with [[sherratt-andrew]]).
+- **Baden cattle burials:** Double animal burials formalise new human–animal relations around secondary products (milk, traction pairs) and possible ownership/fertility attitudes — still within hospitality and animal-metaphor traditions, not automatically a ranked “revolution” (attributed).
+
+Keep distinct from Bradley’s ownership/ideology reading and from Rindos coevolutionary definitions above; all three are attributed positions.
+
+## Shelach-Lavi densification — methodological caution (2015)
+
+*(Attributed — [[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]].)*
+
+Shelach-Lavi adopts the same **Blumler and Byrne (1991)** formal definition of
+domestication already recorded above via Barker (2006) — evolutionary genetic modification
+of a plant/animal population such that individuals lose the capacity to survive and
+reproduce in the wild — together with the standard archaeobotanical markers: nonshattering
+rachis, free-threshing grain, and DNA comparison to wild progenitors (Zeder et al. 2006).
+His distinctive methodological point, made in the context of the China rice and millet
+sequences (see [[rice-domestication]], [[millet-domestication]]), is that a narrow focus on
+these biological-domestication markers can obscure the more important **socioeconomic**
+dimension of the transition — growing sedentism, group size, and incipient social
+complexity — which he argues proceeded on its own, longer, more gradual timescale, only
+loosely coupled to the point at which a population becomes morphologically "fully"
+domesticated. This adds a China-specific case to the process-not-event framing already
+developed above via Scott, Ucko & Dimbleby, and Liu & Chen.
 

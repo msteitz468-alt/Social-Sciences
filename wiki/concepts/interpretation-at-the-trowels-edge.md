@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Field practice rule: excavation method, recovery intensity, and recording already depend on interpretation; specialists and excavators interact during digging (lab visits to trench, recursive re-description, diaries/video) rather than treating description as theory-free and interpretation as post-excavation only"
 contested: yes
 related_concepts: ["[[reflexive-fieldwork]]", "[[archaeological-record]]", "[[single-context-recording]]", "[[post-processual-archaeology]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept, archaeology]
 ---
 
@@ -58,3 +58,16 @@ Twelve practical steps (including web multivocality, VR front-end, multi-team mu
 - **Not universal CRM method** — commercial standardization pressures pull the other way; few projects can staff on-site multi-specialist recursion at Çatalhöyük scale.
 - **Lucas-type critique** — bodily material praxis and iterability of records may be underplayed if reflexivity stays textual/dialogical.
 - **Processual counter** — risk of weak independent testing if “fitting” replaces severe attempts at disconfirmation (live on [[processual-postprocessual-debate]]).
+
+## Mature CRP practice (2009–17 / Farid, Hodder & Lukas 2022)
+
+*(Attributed — [[hodder-catalhoyuk-excavations-2009-2017]], Ch.2; densifies the 1999 operationalization list rather than redefining the concept.)*
+
+Recording at the final main field phase still treats unit definition as interpretive at the point of excavation, with additional mature apparatus:
+
+1. **Interpretive category + probability** (from 1997) — second recording level naming deposit type (fill, midden, floor, brick, burial cut, etc.) plus low/medium/high probability for alternative readings of ambiguous deposits — explicit uncertainty tagging at the trowel’s edge.
+2. **2014 hybrid Feature Sheets** — open multi-author ‘Interpretative Discussion and Description’, signed/dated updates, contextual sketch, and local matrix after earlier inconsistency when features were assigned only post-excavation or never revised (Farid et al.; Hyden diary critique of oven/platform life-events).
+3. **Priority tours** (alternate days) — laboratory representatives tour trenches so deposits are seen in situ and selected units are fast-tracked for multi-specialist feedback next tour; interpretation framed as team collaboration, not sole excavator authority (sometimes videoed).
+4. **Integrated relational database** — unit-keyed central DB; 2012 on-site tablet entry when internet available; ~22 frontends by project end (core excavation/diaries/finds + labs + transversal beads/burials), with some lab DBs still non-centralised in 2017.
+5. **Diaries + daily sketches** (sketches formalised 2014) — capture individual thought process beyond codified forms; reports quote US/FS/diaries in italics with author initials to balance field/lab multivocality — while authors acknowledge selection bias (English first-language speakers; media-creating supervisors; source hierarchy from preconceptions → secondary texts → unit/feature sheets → graphics → videos → specialists).
+6. **Public synthesis pathway** — *[[hodder-leopards-tale-2006|Leopard’s Tale]]* (2006) already advertised single-context recording, Harris matrices, flotation streams, and nine on-site labs as the method face of the same program for non-specialist readers.

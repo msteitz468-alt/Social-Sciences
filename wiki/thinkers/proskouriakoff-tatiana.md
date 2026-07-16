@@ -1,17 +1,24 @@
 ---
 title: "Tatiana Proskouriakoff"
-date_birth: "[[unknown]]"
+date_birth: "1909"
 date_death: "[[unknown]]"
 disciplines: [archaeology]
-era: [postwar-expansion, critical-turn]
+era: [fieldwork-revolution, postwar-expansion, critical-turn]
 affiliated_theories: ["[[unknown]]"]
-trained_under: ["[[unknown]]"]
+trained_under: ["Linton Satterthwaite (Piedras Negras artist hire)"]
 trained: ["[[unknown]]"]
-key_works: ["Historical Implications of a Pattern of Dates at Piedras Negras, Guatemala (1960)", "architectural reconstruction drawings for Carnegie Maya projects"]
-key_concepts: ["[[maya-hieroglyphic-writing|historical content of Maya texts]]", "birth/accession event-glyph method", "[[kuhul-ajaw|dynastic history]]"]
-fieldwork_sites: ["[[piedras-negras]]", "[[yaxchilan]]", "Maya area (Carnegie Institution architectural reconstruction)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+key_works:
+  - "A Study of Classic Maya Sculpture (1950)"
+  - "Historical Implication of a Pattern of Dates at Piedras Negras, Guatemala (American Antiquity, 1960)"
+  - "Yaxchilan dynastic studies (1963–64)"
+  - "Album of Maya Architecture (1946 reconstructions)"
+key_concepts:
+  - "[[maya-hieroglyphic-writing|historical content of Maya texts]]"
+  - "birth/accession event-glyph method"
+  - "[[emblem-glyph|dynastic history with Emblem Glyphs]]"
+fieldwork_sites: ["[[piedras-negras]] (1934–38)", "[[copan]] (Carnegie reconstructions)", "[[yaxchilan]] (text analysis)", "Puuk / Chichén architectural work"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -19,42 +26,49 @@ tags: [thinker, archaeology]
 
 ## Overview
 
-Russian-American Maya archaeologist and epigrapher whose structural analysis of dated monuments at [[piedras-negras]] (published 1960) demonstrated that Classic Maya inscriptions record the lives of kings and their courts — not only calendrics and esoterica. As synthesized by [[sharer-traxler-ancient-maya-2006|Sharer & Traxler 2006]], her historical method, together with [[knorosov-yuri|Yuri Knorosov]]’s phonetic principles, overturned the mid-twentieth-century consensus associated with J. Eric Thompson and [[morley-sylvanus-g|Sylvanus G. Morley]] that monumental texts lacked political history. She also produced influential architectural reconstruction drawings for Carnegie Institution Maya projects and applied stylistic dating to eroded northern monuments (e.g., Sayil).
+Russian-American Maya archaeologist, architectural reconstructor, and epigrapher (b. 1909, Tomsk) whose 1960 structural analysis of dated monuments at [[piedras-negras]] demonstrated that Classic inscriptions record **royal life histories** — not only calendrics and esoterica. Together with [[knorosov-yuri|Yuri Knorosov]]’s phonetic principles and [[berlin-heinrich|Heinrich Berlin]]’s Emblem Glyphs, she forms the mid-century hinge of modern Maya historical epigraphy. Densified from [[coe-breaking-the-maya-code-2012|Coe 2012]] Ch. 7 atop [[sharer-traxler-ancient-maya-2006]].
 
 ## Contributions
 
-### Historical method at Piedras Negras (attributed — Sharer & Traxler 2006)
+### Formation and Carnegie career (as reported by Coe 2012)
 
-Sharer & Traxler report that Proskouriakoff analyzed Piedras Negras niche-stelae groups erected every five *tuns* (hotun endings). She identified:
+Born into a Siberian intelligentsia family; permanent U.S. home in Philadelphia after 1917. Architecture degree, Pennsylvania State University (1930). Hired by Linton Satterthwaite as unpaid-then-paid artist for Piedras Negras reconstructions (1934–38). [[morley-sylvanus-g|Morley]] sent her to [[copan]] (1939); Carnegie employee; *Album of Maya Architecture* (1946); full staff archaeologist under Kidder (1943). *A Study of Classic Maya Sculpture* (1950) stylistically dated ~400 monuments within 20–30-year spans.
 
-- an **“initial date”** associated with the T740 “upended frog” glyph = **birth** (*siyaj*), falling 12–31 years before
-- an **“inaugural date”** associated with the T684 “toothache” glyph = **accession** (*joy*);
-- each monument group spanning **≤60 years** (one human lifetime);
-- the principal male figure as **ruler**, with females as wives/daughters marked by female name prefixes (*ix* / *ixik* titles).
+### The 1960 historical method
 
-In their assessment: “In these few words Proskouriakoff did far more than propose meanings for two glyphs; she also transformed the study of Maya texts from lists of sterile dates to the histories of the lives of Maya kings.” Piedras Negras’s unbroken hotun-ending monuments AD 608–810 (22 consecutive) provided the patterned series that made the argument possible. Her provisional Rulers 1–6 sequence there remains foundational for later epigraphic dynastic work.
+In June 1959 (Peabody basement) she told Coe she had found a “peculiar pattern of dates” implying **history** on the monuments. The *American Antiquity* paper (1960), “Historical Implication of a Pattern of Dates at Piedras Negras, Guatemala,” is Coe’s start of the “Age of Proskouriakoff.”
 
-### Yaxchilan and event-glyph expansion
+Method (as Coe reconstructs):
 
-After the 1960 publication she extended the method to [[yaxchilan]], identifying **death**, **capture**, and **captor** glyphs; Thompson is reported as among those who came to accept the historical reading. Sharer & Traxler cite her birth estimate (~647) for Itzamnaaj Balam II of Yaxchilan (accession 681, death mid-742) as an example of reign-length inference from the method — implying a very long life if correct.
+1. **Niche stelae** open each local monument set; hotun-ending stelae follow until a new temple row begins.
+2. **Toothache Glyph** date on niche stelae ≈ **accession**.
+3. Earlier **Upended Frog Glyph** date (12–31 years prior) ≈ **birth**.
+4. Full set spans (~56–64 years) ≈ one **ruler’s lifetime**.
+5. Distinct **name phrases** per set; female head prefix (later *ix*, “Lady”) marks women — robed figures are historical women, not male priests.
 
-### Architectural reconstruction and stylistic chronology
+Coe stresses the breakthrough was **structural**, not linguistic: texts “might as well have been written in Swedish” for her immediate purpose; Knorosov’s phonetics mattered to the field but little to her own procedure.
 
-Beyond epigraphy, she is linked in the same synthesis to Carnegie-era reconstruction of Maya architecture and to **stylistic dating** of poorly preserved northern monuments (e.g., Sayil Stela 6 ~AD 810; Stelae 3 and 5 later ninth century, per their summary of her work).
+### Yaxchilan extension
+
+1963–64 analyses reconstructed a Late Classic century under “Shield-Jaguar” and “Bird-Jaguar”: personal names + Emblem Glyph; Ben-Ich K’atuns as life-k’atun counters; capture events using Knorosov’s *chukah*; bloodletting event glyphs (e.g. Lintel 24).
+
+### Relation to Thompson
+
+[[thompson-j-eric-s|Thompson]]’s 1950 *Maya Hieroglyphic Writing* denied historical content on monuments. Coe (via Mathews) reports Thompson’s overnight about-face after the 1960 paper: first “can’t possibly be right,” then “Of course you’re right!” — accepting structural history while remaining hostile to Knorosovian phonetics.
 
 ## Intellectual Genealogy
 
-- **Reacted against** the Thompson–Morley orthodoxy that Maya monuments did not record history (Thompson 1950 as quoted by Sharer & Traxler: Maya “excelling in the impractical, yet failing in the practical”; Morley omitted noncalendrical glyphs from drawings).
-- **Converged with** nineteenth-century expectations of historical content (Stephens; Spinden) that the mid-century consensus had sidelined.
-- **Complementary to** Knorosov’s logosyllabic phonetics: historical structure of texts + phonetic reading of signs jointly enabled post-1970s dynastic reconstruction (Lounsbury, Schele, Mathews; Stuart; Martin & Grube — as narrated by Sharer & Traxler).
-- **Site network:** Piedras Negras research history runs Morley-urged University of Pennsylvania project (Mason & Satterthwaite 1931–39) → Proskouriakoff’s text breakthrough → later BYU/Universidad del Valle settlement work (Houston & Escobedo, 1990s).
+- **Reacted against:** Thompson–Morley non-historical orthodoxy ([[maya-script-decipherment-debate]]).
+- **Converged with** earlier neglected voices: [[stephens-john-lloyd|Stephens]] (“history is graven on its monuments”), Bowditch, Spinden, early Morley.
+- **Complementary to:** Knorosov (phonetics); Berlin (Emblem Glyphs, 1958; Palenque ancestral names, 1959).
+- **Downstream:** Palenque Mesa Redonda dynasty work ([[schele-linda|Schele]], Mathews, [[lounsbury-floyd|Lounsbury]]); [[stuart-david|Stuart]]; Martin–Grube king-lists.
 
 ## Critiques and Reappraisals
 
-- Method yields **dynastic political narrative** from royal self-presentation; does not by itself recover nonelite history (a source bias Sharer & Traxler stress for texts generally).
-- Individual glyph readings and reign reconstructions have been **refined** by later full phonetic decipherment; the structural historical insight remains accepted as of Sharer & Traxler 2006 and subsequent syntheses.
-- Birth/death absolute dates for poorly documented rulers remain **estimates** constrained by lifetime-span logic, not independent vital records.
+- Method recovers **elite dynastic narrative** from royal self-presentation, not nonelite history.
+- Individual glyph readings and reign reconstructions refined by later full phonetics; structural insight remains foundational (Sharer & Traxler 2006; Coe 2012).
+- Coe’s celebratory framing is participant-historiography — pair with technical restudies of Piedras Negras/Yaxchilan corpora.
 
 ## Historiography
 
-Sharer & Traxler place Proskouriakoff at the hinge of modern Maya studies: without the Piedras Negras pattern demonstration, the later Martin–Grube-style *Chronicle of the Maya Kings and Queens* compilations would lack their founding demonstration that monuments are king-lists and war chronicles. Primary bibliographic anchor for this wiki page: [[sharer-traxler-ancient-maya-2006]]. Cross-check with [[coe-houston-the-maya-2015]] and [[coe-michael-d]] for parallel Anglophone narratives of the historical breakthrough.
+Primary densification source this session: [[coe-breaking-the-maya-code-2012]]. Prior: [[sharer-traxler-ancient-maya-2006]]. Cross: [[maya-hieroglyphic-writing]], [[emblem-glyph]], [[piedras-negras]], [[yaxchilan]], [[epigraphy]].

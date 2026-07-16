@@ -3,10 +3,10 @@ title: "Farming Spread into Europe Debate"
 dispute_type: interpretive
 disciplines: [archaeology, archaeogenetics, linguistic-anthropology]
 era: [postwar-expansion, critical-turn, contemporary]
-positions: [demic-diffusion-wave-of-advance, indigenous-mesolithic-adoption, mediterranean-selective-package, hybrid-both-matter, bellwood-considerable-demic-with-admixture, barker-piecemeal-indigenous-adoption-with-exchange]
-key_texts: ["[[barker-agricultural-revolution-prehistory-2006|Barker 2006]]", "[[mithen-after-the-ice-2003]]", "[[renfrew-archaeology-and-language-1987]]", "[[bellwood-first-farmers-2005]]", "Cavalli-Sforza History and Geography of Human Genes (1994)", "Sykes et al. mtDNA studies (as reported Mithen 2003)", "Zvelebil indigenous LBK thesis", "Zilhão colonisation model", "Ammerman & Cavalli-Sforza 1984", "Chikhi et al. 2002"]
+positions: [demic-diffusion-wave-of-advance, indigenous-mesolithic-adoption, mediterranean-selective-package, hybrid-both-matter, bellwood-considerable-demic-with-admixture, barker-piecemeal-indigenous-adoption-with-exchange, whittle-indigenous-continuity-and-slow-becoming-1996]
+key_texts: ["[[barker-agricultural-revolution-prehistory-2006|Barker 2006]]", "[[mithen-after-the-ice-2003]]", "[[renfrew-archaeology-and-language-1987]]", "[[bellwood-first-farmers-2005]]", "[[whittle-europe-in-the-neolithic-1996|Whittle 1996]]", "Cavalli-Sforza History and Geography of Human Genes (1994)", "Sykes et al. mtDNA studies (as reported Mithen 2003)", "Zvelebil indigenous LBK thesis", "Zilhão colonisation model", "Ammerman & Cavalli-Sforza 1984", "Chikhi et al. 2002"]
 resolution_status: open
-last_updated: 2026-07-10
+last_updated: 2026-07-15
 tags: [debate, neolithic, europe, archaeology]
 ---
 
@@ -98,4 +98,25 @@ Barker’s Europe chapter is a **strong Position B lean** (piecemeal indigenous 
 **Relation:** Closest to Zvelebil / Rowley-Conwy indigenous-adoption and Mithen hybrid weightings; **opposes** strong demic readings of Ammerman–Cavalli-Sforza and Bellwood’s “considerable demic” European lean. Later genome-wide aDNA (post-2010) reopened demic strength — record as supersession pressure on Barker’s mid-2000s genetic citations, not silent overwrite.
 
 Cross-links: [[barker-agricultural-revolution-prehistory-2006]] · [[linear-pottery-culture]] · [[early-farming-dispersal-hypothesis]] · [[demic-diffusion]] · [[anatolian-hypothesis]]
+
+## Position layer — Whittle *Europe in the Neolithic* (1996)
+
+*(Attributed — [[whittle-alasdair]], *[[whittle-europe-in-the-neolithic-1996|Europe in the Neolithic: The Creation of New Worlds]]* 1996. Calibrated radiocarbon as of mid-1990s; **pre-genome-wide aDNA**. Do not adjudicate against post-2010 demography.)*
+
+Whittle is a **strong Position B lean** (indigenous Mesolithic creation of Neolithic histories) applied **continent-wide**, with regional special cases for limited colonisation left open rather than denied. The program is social-ideological as much as demographic: becoming Neolithic is a **slow** change in beliefs about descent, ancestors, time, and community, grounded in forager ethics of **sharing and cooperation**.
+
+### Strongest form (Whittle 1996)
+
+- **Continental indigenous thesis:** “In nearly all areas, I now believe that it was largely indigenous people who created Neolithic histories” (Preface). Knowledgeable foragers adopt new resources when they suit an **existing social ethic**; Neolithic beliefs and values are grounded in those of the Mesolithic; old labels inadequately distinguish the two (Ch. 10).
+- **Against pure wave of advance / package event:** Settling down and farming are **piecemeal and slow**; people do not instantly become “mixed farmers”; many Neolithics, not one European Neolithic (Ch. 1, 10). Colonisation orthodoxy is reported then displaced as the *primary* driver for SE Europe, LBK formation, central/west Mediterranean, and secondary extensions.
+- **SE Europe first generations:** Indigenous change model — foragers picking up herding, crops, potting from SW Asian-derived Neolithic communities after ~7000/6500 BC; slow solidification of buildings (Achilleion); mobility retained (radiating/tethered); floodplain and tell trajectories diverge (Ch. 3–4).
+- **LBK as inland-forager acculturation (Ch. 6 load-bearing):** Orthodoxy reads LBK as colonisation / demographic overflow from Balkan fringes and Hungarian plain. Whittle’s radical alternative: LBK may represent **acculturation/enculturation and transformation of indigenous inland foragers** — extension of cooperation and integration; longhouses enhance aggregation rather than merely shelter colonists; flint toolkit continuity and physical anthropology “compatible with continuity” (DNA flagged as future research only). He lists the colonisation case fairly (uniformity, rapid ¹⁴C spread, empty loess niches, no aceramic phase) then answers with inland-forager visibility, Limburg/La Hoguette-type contact, and value continuity.
+- **Fifth-millennium slow convergence:** After long coexistence, foragers over broad northern/western areas (Baltic, N European plain, Alpine foreland, NW France, Britain & Ireland) adopt more of neighbours’ cultural identity before ~4000 BC — not single-cause crisis or continued colonisation (Ch. 6–7).
+- **Mediterranean Cardial/Impressed (Ch. 8):** Primary mechanism = **sea-borne acculturation** of indigenous foragers (Uzzo type-sequence); **lower chronology** lean (~6000 BC for S France/E Spain Cardial); colonisation reported as consensus for parts of S Italy and as empty-niche models for Portugal/islands but not endorsed as basin-wide primary driver. Pottery as medium of food/drink sharing and identity, not stress response.
+- **Sacred over surplus hierarchy:** Community continually re-created by gatherings, gift exchange, joint ritual; little established within-group difference; cattle as partners; cereals for drink as much as food (Ch. 10). Varna and copper often read as ancestral/display/regeneration rather than simple elite monopoly (Ch. 4, 9).
+- **Language packages:** Rejects Gimbutas kurgan mass-migration and Renfrew early demic IE as necessary explanations for SE/steppe change (Ch. 5) — language-shift without mass migration left open; **as of 1996**, pre-aDNA steppe debates.
+
+**Relation to Positions A–C on this page:** Densifies Position B (Zvelebil, Barker lean) with fullest continental synthesis in the vault; overlaps Position C regional partitioning (limited colonisation special cases) while assigning **primary drive** to indigenous agency and value continuity. **Opposes** strong Position A demic readings (Childe tradition, Ammerman–Cavalli-Sforza wave, Bellwood “considerable demic,” Renfrew farming–IE package). Post-2010 genome-wide aDNA (EEF demic strength, especially SE→LBK) is **supersession pressure** on Whittle’s demographic lean — keep as dated position; do not silently overwrite. Ideological and monumentality arguments remain independently usable.
+
+Cross-links: [[whittle-europe-in-the-neolithic-1996]] · [[whittle-alasdair]] · [[linear-pottery-culture]] · [[longhouse]] · [[impresso-cardial-culture]] · [[ertebolle-culture]] · [[franchthi-cave]] · [[demic-diffusion]]
 

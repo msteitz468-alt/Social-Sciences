@@ -8,8 +8,8 @@ core_questions: ["How did humans evolve biologically and behaviorally?", "What i
 major_methods: ["comparative anatomy", "paleoanthropology", "primatology", "human biology", "genetics / aDNA"]
 subfields: ["paleoanthropology", "primatology", "human biology", "forensic anthropology", "molecular anthropology", "[[archaeogenetics]]"]
 collection_coverage: moderate
-sources_ingested: 6
-last_updated: 2026-07-10
+sources_ingested: 7
+last_updated: 2026-07-15
 tags: [discipline]
 ---
 
@@ -73,6 +73,12 @@ popular/synthesis horizon here pending primary papers.
 **What genetics does and does not say about living diversity (as of Stringer 2012).** Old racial categories (“Negroid,” “Caucasoid,” “Australoid,” “Mongoloid”) largely abandoned as not meaningful descriptors of biological variation levels; individuals mixed across gene histories; African populations may contain as much genetic variation as the rest of the world combined. Skin pigmentation: original African ancestral skin darkly pigmented; selection for lighter skins at low UV; favored European light-skin mutations young (one important change ~11 ka on some estimates) and partly different from north Asian light-skin mutations. Blue-eye European variant <20 ka. Drift, founder effect, and “surfing” on expanding waves can produce distinctive non-African gene frequencies without selection. On regional IQ/brain-quality claims: Stringer declines deep treatment but argues any cognitive differences evolved in last 50 ka should show high within-Africa variation rather than uniformly low African IQ as some studies report; IQ tests measure limited aspects; environment contributes strongly. mtDNA commercial ancestry testing controversial (small fraction of ancestry; comparative sampling uneven, Africa poorly sampled). Study of >1,000 markers in 113 African populations → fourteen groups closely matching cultural/language affiliations; central African “pygmies,” Sandawe, Hadza, Khoisan shared ancestors ~40 ka — **association only; genes ≠ languages** (four-way non-identity).
 
 **Reflexivity note.** Stringer’s own multivariate 1970s skull work (no Neanderthal ancestry for Cro-Magnons; early moderns cluster with modern counterparts) and cephalic-index history (racist misuse as “primitiveness”) are recorded as production context for the RAO program.
+
+## Tattersall — *Masters of the Planet* (2012)
+
+*Source: [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]. Popular paleoanthropological synthesis densifying the fossil stream.*
+
+Adds an AMNH-curator program statement on: (1) **bushy phylogeny** and species-splitting instincts against ladder narratives ([[species-concept]]); (2) discontinuous/developmental reorganization rather than pure gradual perfection ([[exaptation]], [[punctuated-equilibrium]] adjacency); (3) full early-hominid → *H. sapiens* narrative with new vault taxa pages [[sahelanthropus]], [[orrorin]], [[ardipithecus]], [[paranthropus]], [[homo-ergaster]]; (4) a strong **late symbolic/linguistic leap** account of [[behavioral-modernity]] after anatomical modernity, feeding [[modern-human-origins-debate]]. Date-stamp: 2012 horizon (genetics, first appearances). Complements Stringer/Klein/Leakey–Lewin/Reich layers without replacing primary papers or excavation monographs.
 
 ## Coverage note — Fagan & Durrani *People of the Earth* (2026-07-10)
 

@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "testable field hypothesis: elite emergence tied to control of highly productive land (and people to work it); complementary to internal trade; external trade as later intensifier"
 contested: yes
 related_concepts: ["[[state-formation]]", "[[urbanization]]", "[[complex-society]]", "[[prestige-goods-economy]]", "[[heterarchy]]", "[[pristine-state]]", "[[secondary-state]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept, archaeology, africa]
 ---
 
@@ -88,3 +88,30 @@ Connah finds indications of differentially productive land in **all** case studi
 7. **Theoretical companions, not replacements:** Haas power theory; Lonsdale’s slow coercive centralization from local politics; Renfrew’s rejection of pristine/secondary as empty; Diamond autocatalysis—all engaged as partial frameworks.
 
 **Wiki stance:** Treat as an **attributed analytical hypothesis** of Connah 2016, not as established law. Regional specialists may affirm, refine, or reject differential-land primacy case by case.
+
+## Oxford Handbook densification (Mitchell & Lane 2013)
+
+*(Attributed engagement — [[mitchell-lane-oxford-handbook-african-archaeology-2013]], Stump Ch. 46; Monroe/Sinclair synthesis R8-043; MacDonald Tichitt R9-031; Ennahid Boone model R9-027; Reid Great Lakes R9-057; cross-cutting R9-058. Complements, does not replace, Connah 2016 coining above.)*
+
+### Intensification without single definition (Stump)
+
+Daryl Stump argues agricultural intensification has **no single overarching definition**; preferred criterion is increased labor inputs, but archaeology is biased toward permanent stone terraces over annual earthen bunds and struggles to distinguish production increase from Geertz’s “agricultural involution.” African cases challenge teleological models:
+
+- **Wittfogel hydraulic state / Carneiro circumscription for Egypt contested** — Nile irrigation largely **local** from Early Dynastic until at least Graeco-Roman times (Hassan 1997 via Stump); intensive perennial irrigation only in 19th c. AD.
+- **Boserup inverted** — Iraqw (Tanzania) shows intensification can *cause* population increase via in-migration (Börjeson 2007).
+- **Pokot** — Davies shows Wittfogel wrong to cite Pokot as centralized irrigation management.
+- Cases (Engaruka, Nyanga, Bokoni): abandoned ≠ failed; cumulative short-lived settlements can overstate labor intensity of landscapes.
+
+### Cross-chapter alignment with Connah’s trade-as-intensifier timing
+
+Across Monroe, Sinclair, Stump, and Mitchell (range-8 synthesis R8-043), agriculturally productive environments and control of local/interregional exchange recur as **enabling conditions** for complexity, but **not** as Wittfogelian hydraulic determinism or simple Boserupian population pressure. Hierarchy is only one resolution of scalar stress beside [[heterarchy]] (Jenné-jeno, Sirikwa, Copperbelt); long-distance trade often supplies wealth and ideology for elite centralization **without being the sole origin** of complexity (Upemba, Bunyoro, Tichitt).
+
+**Tichitt (MacDonald):** political antecedent of Ghana / first large-scale West African complex society candidates; **long-distance trade equivocal**; striking settlement hierarchy and ceramic/settlement spread into Middle Niger—cattle/territory competition central (trade **not** originator).
+
+**Boone et al. (via Ennahid) Maghreb:** Idrisid **staple finance** (agrarian multi-tier urbanism) → post-Idrisid **wealth finance** via expropriation of sub-Saharan **gold-trade** proceeds—here long-distance gold underwrites dynastic political economy as attributed **model**, not a universal African origin story.
+
+**Great Lakes (Reid):** economic diversification from ~AD 1000 (cattle, salt, iron, bananas, new lands) precedes kingdoms—**internal multi-factor process**; no external trade originator. Aligns with productive-environment + internal specialization before long-distance prestige systems.
+
+Handbook R9-058 (composite): Jenné-jeno interregional commerce centuries before Arab–Berber TSA trade; Upemba hierarchization not due to Indian Ocean trade; Great Lakes without external stimulus—load-bearing parallel to Connah’s “wrongly timed” external-trade origin critiques.
+
+*Source: [[mitchell-lane-oxford-handbook-african-archaeology-2013]]; keep as attributed support/qualification of the Connah hypothesis, not wiki-voice confirmation.*

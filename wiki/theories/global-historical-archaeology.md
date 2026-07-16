@@ -15,8 +15,8 @@ core_claims:
 developed_from: ["[[historical-archaeology]]", "Schuyler–Deetz modern-world definitions", "Carrithers mutualism", "Wolf-type global anthropology", "critical historical archaeology (Leone and peers)"]
 competes_with: ["isolationist/local-only historical archaeology", "pure period or pure method definitions of HA", "simple acculturation models (Quimby–Spoehr type)", "equalized discourse models of elite–subaltern speech"]
 status: active
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [theory, archaeology, historical-archaeology]
 ---
 
@@ -87,6 +87,9 @@ As of the 1996 writing, Orser treated Palmares and Gorttoose as program illustra
 | Periodization | Does a ~1492 start reinstall Eurocentrism while critiquing it? Orser answers partly via Bartlett (1993) on medieval European "incipient" haunts (950–1350) and via Ottoman/Mediterranean necessity. |
 | Theory vs. dig reportage | Programmatic books vs. excavation monographs — different products; Orser is explicit he is not writing dual site reports. |
 | Spivak engagement | Ch.7 title borrows "Can the Subaltern Speak?"; body deploys the *question* for HA without a full Spivak apparatus (flag from extraction). |
+| Situational vs. global-model unification | Joe Flatman and Mark Staniforth, in their maritime-archaeology survey chapter ([[hicks-beaudry-companion-historical-archaeology-2006|Hicks & Beaudry 2006]], ch.10), advocate **"situational" studies** — connecting and comparing historically linked places case by case — as an explicit alternative to what they characterize as "overly simplistic" world-archaeology models, citing Orser's global-historical-archaeology programme by name (attributed, via Hicks 2005: 375) as the model they mean to qualify. This is a live methodological position, not a rebuttal of the four-haunts framework itself. |
+
+Flatman & Staniforth's chapter also reports maritime archaeology's own case for the programme's "global" framing: Chris Gosden's argument (Gosden 2004: 127, quoted) that "what we are looking at is the incorporation of Europe into a new colonial order, rather than the imposition of European habits and power on the colonies... much of British culture (and that of the rest of Europe) from at least the 17th century onwards had a colonial origin or influence." The chapter frames maritime evidence as making this reattachment of Europe concrete, since "almost all historical archaeology might be said to be maritime" given the seaborne character of the colonial and trade networks the field studies.
 
 ## Current Status
 

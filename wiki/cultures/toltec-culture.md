@@ -15,8 +15,8 @@ preceded_by: ["Epiclassic centers of the Bajío and northwestern frontier (Alta 
 succeeded_by: ["[[cultures/aztec-empire]] (claimed dynastic descent, not political continuity)"]
 language_affiliation: "Tolteca-Chichimeca probably Nahua-speaking (attributed); Nonoalca component of uncertain, possibly Gulf Coast/Puebla, origin"
 genetic_signature: "not addressed by the source (as of Coe & Koontz 2013)"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [culture, mesoamerica, medieval]
 ---
 
@@ -150,9 +150,15 @@ revisionist current; the resulting historiographical position is recorded, not
 adjudicated, on this page — see [[debates/toltec-chichen-itza-connection-debate]] for
 the related dispute over the Tula–Chich'en Itza connection.
 
+## Basin of Mexico Regional Survey Evidence (Sanders, Parsons & Santley 1979)
+
+Independent of the annals, the Basin-of-Mexico settlement survey reported in [[sanders-parsons-santley-basin-of-mexico-1979]] (study page [[sanders-basin-of-mexico-study]]) documented a marked north-south settlement dichotomy across the Basin's Second Intermediate Phase Two (their ceramic-defined equivalent of the Tollan-phase Toltec period): the northern Basin showed a sharp trend toward ruralization and dispersed settlement (hamlet occupation rising from 5% to 26% of sites, large regional centers dropping from 36% to 0%) which the authors argued "can only be understood in reference to the development and florescence of the supraregional center at Tula," some 20 km northwest of their northernmost survey zone. By contrast, the southern Basin showed low settlement density and, in the authors' interpretation, greater orientation toward [[sanders-parsons-santley-basin-of-mexico-1979|Cholula]] — an explicitly "not now prepared to argue further" position on whether Cholula rivaled Tula as the "real" Tollan of this period (see [[sites/tula]] and [[sites/cholula]]).
+
+Drawing on a companion 1,000 km² regional survey around Tula itself (Mastache and Crespo 1974, 1976, using the same field methodology), the authors estimated Tula's urban center at roughly 60,000 people occupying about 12 km², with a comparably sized rural hinterland population — together roughly matching the combined Middle Horizon population of Teotihuacan and its hinterland, though concentrated in a much smaller survey area. They read Tula's obsidian-workshop area (comparable in size to Teotihuacan's, despite Tula's smaller total population) as evidence of an unusually large specialized craft-producing class, and, citing Diehl (1974) and Matos (1974), described Tula's rise as explosive but its collapse as sudden — potentially compressed into as little as a century, leaving too little time for the large-scale public-works programs seen at Teotihuacan.
+
 ## Related Pages
 
-[[sites/tula]] · [[sites/chichen-itza]] · [[cultures/aztec-empire]] ·
+[[sites/tula]] · [[sites/chichen-itza]] · [[cultures/aztec-empire]] · [[sites/cholula]] ·
 [[cultures/huastec-culture]] (later Post-Classic Aztec conquest of the Huasteca region) ·
 [[debates/toltec-chichen-itza-connection-debate]] · [[concepts/postclassic-stage]] ·
-[[sources/coe-koontz-mexico-2013]]
+[[sources/coe-koontz-mexico-2013]] · [[sanders-parsons-santley-basin-of-mexico-1979]]

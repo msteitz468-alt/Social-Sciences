@@ -5,7 +5,7 @@ disciplines: [archaeology, anthropology]
 era_origin: critical-turn
 date_origin: "1977–1983 (named and codified; roots in 1968)"
 originated_by: ["[[binford-lewis]]"]
-key_texts: ["[[binford-nunamiut-ethnoarchaeology-1978|Nunamiut Ethnoarchaeology (1978)]]", "Binford, For Theory Building in Archaeology (1977)", "[[binford-in-pursuit-of-the-past-1983|In Pursuit of the Past (1983)]]"]
+key_texts: ["[[binford-nunamiut-ethnoarchaeology-1978|Nunamiut Ethnoarchaeology (1978)]]", "Binford, For Theory Building in Archaeology (1977)", "[[binford-bones-1981|Bones: Ancient Men and Modern Myths (1981)]]", "[[binford-in-pursuit-of-the-past-1983|In Pursuit of the Past (1983)]]"]
 core_claims:
   - "Binford argued the archaeological record is contemporary statics; statements about the past require bridging theory linking dynamics (behavior, processes) to material residues"
   - "He held that middle-range research (ethnoarchaeology, actualistic studies, taphonomy) builds those bridges independently of particular historical narratives"
@@ -14,8 +14,8 @@ core_claims:
 developed_from: ["[[processual-archaeology]]", "[[ethnographic-analogy]] (as problem, not solution)"]
 competes_with: ["untested ethnographic analogy", "culture-historical fossile-directeur reading", "self-evident pattern-to-meaning inference"]
 status: active
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 6
+last_updated: 2026-07-15
 tags: [theory, archaeology]
 ---
 
@@ -41,10 +41,13 @@ Grew inside [[processual-archaeology]] after the 1960s charter (*[[binford-binfo
 
 - [[binford-lewis]] — *Nunamiut Ethnoarchaeology* (1978, outstanding primary); *In Pursuit of the Past* (1983).
 - Dialogue with [[formation-processes|Schiffer formation-process]] / [[behavioral-archaeology]] debate ([[pompeii-premise]] / clean-up; representational models of the record). Overlap is substantial: both demand actualistic bridging before behavioral inference; Schiffer’s c-/n-transforms and refuse typology (*[[schiffer-formation-processes-1987|Formation Processes]]* 1987) and Binford’s ethnoarchaeological middle-range program address the same evidentiary gap under different brands (attributed).
+- **Terminology positions (*First Principles* 1995 Ch. 13, 19):** Schiffer holds three independent process realms for inference laws — **correlates**, **c-transforms**, and **n-transforms** — and argues Binford uses “middle-range theory,” “archaeological theory,” and formation processes more or less interchangeably for the whole of correlates + C/N-transforms, a conflation Schiffer calls “misleading and dangerous” because it obscures early identification of how particular deposits formed (attributed, Schiffer 1985b / 1995 Ch. 19). On priority, Schiffer credits Raab and Goodyear (1973) with introducing “middle-range theory” to archaeology from sociology before Binford’s *For Theory Building* packaging (attributed, Schiffer 1980 / 1995 Ch. 13). Shared ground he lists with Binford: systemic vs archaeological distinction; complex independent causal processes; rudimentary inference principles; uniquely archaeological theory domains developed via ethnoarchaeology and experiment, not mainly borrowed; high-level culture-change theory not testable until inference improves (attributed, 1995 Ch. 19).
 
 ## Empirical Program
 
 Nunamiut caribou hunting, site complexes, and house/hearth structure; African early-hominin bone-site debates (Dart / Leakey / Brain); Mousterian variability as methodological challenge; packing model for post-Pleistocene agricultural origins; big-man paths to complexity.
+
+The flagship demonstration is *[[binford-bones-1981|Bones: Ancient Men and Modern Myths]]* (1981): Binford built bone-modification and assemblage-composition diagnostics from actualistic wolf-den and [[nunamiut|Nunamiut]] control data, then applied them to the [[olduvai-gorge|Olduvai]] fauna to argue for hominid scavenging against the [[isaac-glynn|Isaac]] home-base reading — the fullest worked case of the program, and the origin of the [[hunting-scavenging-debate|hunting-versus-scavenging debate]]. Analyzed as a research act at [[binford-bones-study]]. (Johnson 2011's critical verdict — that the Olduvai application did not meet Binford's own strict formal MRT criteria — is recorded under Critiques below.)
 
 ## Method Commitments
 

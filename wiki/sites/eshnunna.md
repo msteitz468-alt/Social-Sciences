@@ -10,11 +10,11 @@ dating_methods: ["royal inscriptions", "administrative archives"]
 periods_of_occupation: ["early-dynastic", "akkadian", "ur-iii", "amorite/old-babylonian"]
 region: [near-east, mesopotamia]
 cultures: ["[[sumerians]]", "[[akkadians]]", "[[amorites]]"]
-excavated_by: ["Iraqi archaeologists (Tell Harmal, 1945–1949)"]
-excavation_years: ["1945–1949 (Tell Harmal)"]
-key_finds: ["Laws of Eshnunna (Tell Harmal/Shaduppum)", "\"Square Temple\" statuary"]
-sources_ingested: 1
-last_updated: 2026-07-10
+excavated_by: ["Oriental Institute Diyala Expedition (Tell Asmar, 1930s, Frankfort)", "Iraqi archaeologists (Tell Harmal, 1945–1949)"]
+excavation_years: ["1930–1937 (Tell Asmar, Oriental Institute)", "1945–1949 (Tell Harmal)"]
+key_finds: ["Laws of Eshnunna (Tell Harmal/Shaduppum)", "\"Square Temple\" statuary", "virgin soil >10 m below present plain level (alluviation datum)"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, bronze-age, near-east, mesopotamia]
 ---
 
@@ -33,6 +33,10 @@ Eshnunna was, together with Susa, the first city-state to break away from [[ur|U
 Bilalama, a contemporary of Isin's second king, is credited by some scholars with a law "Code" in Akkadian predating Hammurabi's Code by roughly a century and sharing many provisions with it — the "Laws of Eshnunna." After a setback period (the city sacked by the king of Dêr, modern Badrah, and defeated by Kish), Eshnunna revived under Ipiq-Adad II (c. 1850 BCE), who styled himself "the enlarger of Eshnunna" and expanded the kingdom to Rapiqum on the Euphrates, near Ramadi, to control a "tin road" toward Susa. Later rulers' expansion was checked by the convergence of Babylon, Larsa, and the Upper Mesopotamian Kingdom (Samsi-Addu's realm centered on [[mari]] and [[assur]]) on Eshnunna's borders.
 
 **Entity-mismatch flag**: a later king of Eshnunna, also named Narâm-Sin, is a distinct individual from the earlier Akkad-dynasty king Narâm-Sin (c. 2254–2218 BCE) — see [[akkadians]] — separated by roughly two centuries. This Eshnunna king, together with Dadusha, fought Samsi-Addu's Upper Mesopotamian kingdom over the town of Qabra (a Lower Zab crossing); an unpublished (at the time of Roux's writing) Dadusha stele suggests an eventual territorial concession to Samsi-Addu.
+
+### Diyala survey context (Adams 1965)
+
+*(Attributed — [[adams-land-behind-baghdad-1965|Land Behind Baghdad]]; study [[adams-land-behind-baghdad-study]].)* Tell Asmar (survey site 244) was one of ten Early Dynastic large towns (>10 ha) in the lower Diyala; fortification walls encircled the three excavated ones (Tell Asmar, Tell Agrab, Khafajah). Soundings found virgin soil beneath late-fourth-millennium remains more than 10 m below the present plain — a key alluviation datum. Adams reported Eshnunna grew from under 10 to 24 hectares in the Ur III/Isin-Larsa period even as other large towns stagnated, reading the pattern as political centralization in Eshnunna rather than regional economic decline; Hammurabi's conquest brought "widespread and catastrophic" demographic consequences (at most 3 of 8 large towns continued into the Old Babylonian period; Tell Abu Harmal and Tell al-Dhibaʿi burned). In Adams's synthesis, even at its height Eshnunna "exercised at best a loose and sporadic control over surrounding towns and villages" — his exhibit for shallow political integration in the first irrigation epoch. Frankfort's excavation report (quoted by Adams) attributed the desertion of Tell Asmar's "Northern Palace" to "the period of anarchy after the wild Gutium mountaineers... had overthrown the last king of the dynasty of Akkad," while private houses continued to be inhabited. No Achaemenid stratum was ever identified despite many seasons.
 
 ## Significance
 

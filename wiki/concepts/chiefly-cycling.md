@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "oscillation of a region's political landscape between simple (one administrative tier above the village) and complex (two tiers) chiefdoms; archaeologically visible as the rise and fall of paramount centers over 1–2 century spans"
 contested: no
 related_concepts: ["[[chiefdom]]", "[[rank-society]]", "[[hereditary-rank]]", "[[achievement-based-society]]", "[[state-formation]]", "[[hawaiians]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -68,3 +68,7 @@ Using ethnographic *gumlao/gumsa* and *thendu/thenkoh* dynamics to read prehisto
 sequences is hypothesis-generating analogy, not evidence (Evidence-Class rule 5). The
 mechanisms differ case to case (egalitarian overthrow vs. demographic extinction of a
 chiefly line), so "cycling" names a family of processes rather than one.
+
+### Anderson's causal apparatus, and Pauketat's tautology critique (2007, attributed)
+
+*(Attributed — [[pauketat-chiefdoms-delusions-2007]].)* David G. Anderson's *The Savannah River Chiefdoms* (1994 — a 459-page cut of an ~800-page Michigan dissertation) defines cycling as "fluctuation in administrative or decision-making levels" that is "an inherent aspect of chiefdoms," and proposes **16 causal factors** cascading from regional physiography/climate/resources through prestige-goods exchange and alliance networks to elite factionalism and succession, with the underlying driver "competition for prestige and power between rival elites." Pauketat's critique: the model risks **tautology** — the explanandum (macroscale political rise-and-fall) doubles as the explanans; "the macroscale pattern of political change is not the process." In his Ch. 5 conclusion he argues appeals "only to administrative cycling… do not come close to capturing" the community-formation histories he documents. He also undercuts the model's classic ethnological comparanda (Leach's Kachin, Southall's Alur) as artifacts of erased colonial-era history (multilingual demography, Shan royal intermarriage). See [[historical-processualism]].

@@ -13,8 +13,8 @@ core_claims:
 developed_from: ["cultural ecology", "the 'new ecology' (non-equilibrium)", "landscape archaeology"]
 competes_with: ["environmental determinism (Meggers)", "climax/equilibrium ecology", "the 'pristine myth' / 'ecological Indian'"]
 status: active
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [theory, archaeology]
 ---
 
@@ -87,3 +87,10 @@ The program has political stakes: the "pristine wilderness" it critiques underwr
 conservation narratives and the erasure of indigenous land-management histories, so historical
 ecology intersects [[indigenous-archaeology]] and contemporary land-rights and environmental
 policy.
+
+
+## McIntosh 2005 — Middle Niger application
+
+*(Attributed — [[mcintosh-ancient-middle-niger-2005]] Ch. 2.)*
+
+R.J. McIntosh applies historical-ecology framing to the six-basin anastomosing Middle Niger: landscapes as long-term products of climate pulses, fluvial/landform mosaic, and human niche specialization. Connects Balée/Crumley-style non-equilibrium ecology to urban origins via the [[pulse-model]] and [[self-organizing-landscape]]. Geokistics (specialist environmental knowledge) bridges ecological description to corporate identity. Not a general treatise on historical ecology — a regional application feeding urban theory.

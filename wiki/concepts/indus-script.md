@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: catalogued sign inventories (Mahadevan 1977 concordance) and positional/structural analysis of sign sequences on inscribed objects
 contested: "yes"
 related_concepts: []
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: "2026-07-15"
 tags: [concept]
 ---
 
@@ -174,3 +174,15 @@ Related pages: [[indus-script-decipherment-debate]], [[harappan-civilization]],
 [[mohenjo-daro]], [[harappa]], [[possehl-gregory-l]], [[kenoyer-jonathan-mark]],
 [[kenoyer-ancient-cities-indus-1998]], [[indus-urbanization]],
 [[deurbanization-of-the-indus]], [[early-harappan]].
+
+## Wright (2010) — in-situ origins at Harappa, sign counts, and the Dholavira signboard
+
+*(Attributed throughout — [[wright-rita-p|Rita P. Wright]], *[[wright-ancient-indus-2010|The Ancient Indus]]*, 2010, Box 8.2, drawing heavily on Asko Parpola.)*
+
+**Decipherment framing.** Wright reviews the historical methodology of decipherment: Egyptian hieroglyphs and cuneiform were both cracked via trilingual/bilingual comparative texts (the Rosetta Stone; the Darius inscription); no such bilingual has been found for the Indus script, which remains undeciphered. She notes the Indus civilization "lasted less than eight hundred years" — far shorter than the long-lived Egyptian and Mesopotamian traditions whose scripts could be internally compared and refined across eras, a structural handicap for decipherment distinct from the absence of a bilingual. Gadd and Smith had already noted sign similarities between early Mesopotamian and Indus scripts, launching the first decipherment attempts; the signs looked similar (indicating rough contemporaneity) but carried different pictographic values — the Indus script is not derivative of Mesopotamian writing.
+
+**In-situ origin.** The earliest known Indus signs are etched on Ravi- and Kot Dijian-phase pottery sherds at Harappa: early sherds carry only one sign, later ones up to five, indicating increasing complexity over time among a population that continued into the later Urban-period civilization — evidence, per Wright, for an **in-situ origin** of writing at/near Harappa rather than importation from elsewhere.
+
+**Sign count and script media.** Parpola (2000:4) put the total sign count at "no more than four hundred" — too high for a typical syllabic script (~100 signs) but potentially consistent with a **logosyllabic** system, and far below the ~50 signs typical of alphabetic scripts. Since 1875, Parpola notes, "over 50 'solutions' have been published" without consensus; the central unresolved difficulty is identifying the underlying language family, with Dravidian the most frequently proposed working hypothesis. Parpola's own decipherment approach begins from two working hypotheses — a logo-syllabic system and Dravidian affiliation — interpreting pictograms via comparison with ancient Indian languages/mythology and Mesopotamian symbolism; Wright records that "again there is no consensus" on this approach. Script appears predominantly on the square stamp seal (script atop, animal motif center, "Standard" device in a bottom corner; not every seal carries script) but also on tablets, copper tablets, stoneware bangles, bronze tools, and pottery sherds; a signboard at **Dholavira** carried **ten signs**, the largest public-scale inscription in Wright's catalogue.
+
+**Increasing standardization over time.** Consistent with the craft-specialization material on seal "schools," Wright notes Indus seals became **more standardized**, not less, over the life of the Urban period — a decrease in stylistic variability in later strata that argues against reading the script/seal system as a static, unchanging technology.

@@ -15,8 +15,8 @@ preceded_by: [[unknown]]
 succeeded_by: []
 language_affiliation: unknown; no direct evidence
 genetic_signature: "3–6% of present-day New Guinean/Australian ancestry derives from Denisovans, alongside ~2% Neanderthal ancestry, totaling 5–8% archaic ancestry — the largest known archaic contribution to any living population (as of Reich 2018)"
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [culture, late-prehistory, central-asia, east-asia, oceania]
 ---
 
@@ -59,4 +59,12 @@ The Denisova Cave finger bone was recovered and sequenced by Svante Pääbo's te
 **Fossil candidates (not equated).** Enigmatic Asian fossils (Narmada; Yunxian, Dali, Jinniushan, Maba; also Xujiayao, Zhiren Cave claims) are noted as **possible** Asian heidelbergensis derivatives, Neanderthal relatives, or candidates for this eastern lineage — fossils too incomplete for firm status. **Identity cautions:** the genetic construct “Denisovan” is **not** a named archaeological culture, language, or self-conscious people; material fossils are only `associated_with` the genetic lineage when argued; pots ≠ people ≠ genes ≠ languages.
 
 See [[neanderthals]], [[homo-heidelbergensis]], [[recent-african-origin]], [[assimilation-model]], [[modern-human-origins-debate]], [[ancient-dna]], [[homo-floresiensis]] (separate relict construct — not identified with Denisovans).
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*Source: [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]. Early public synthesis of the Denisova finds **as of Tattersall 2012** — nuclear aDNA horizon incomplete; later Reich 2018 layer above supersedes percentages and internal structure. Four-way non-identity enforced.*
+
+**Discovery frame (Ch.10).** Same German group that produced the 2010 Vindija Neanderthal draft genome reported a morphologically **uncategorizable** finger bone from Denisova Cave (S. Siberia), ~30 ka, with a DNA fingerprint distinct from moderns and Neanderthals though somehow related to the latter. Complete genome said to share a small proportion of genes with modern **Melanesians** (and nobody else) → if true, ancestral Melanesians picked up variants on an out-of-Africa / Asia / Pacific route (as of Tattersall 2012). A molar from the same site carried the **same genetic signature** but was extremely large and morphologically dissimilar to other late-hominid teeth — morphology and genetics “apparently at odds” (Tattersall’s phrasing). He reads this as evidence of complex later-hominid evolution in which historically individuated species may occasionally exchange genetic material (**thesis**), without equating the genetic population with a named osteological species or archaeological culture.
+
+**Identity cautions (Tattersall-compatible).** Genetic population ≠ morphologically defined species: the finger bone cannot be typed osteologically; the molar’s form does not match a tidy skeletal taxon. Do not equate Denisovans with [[homo-floresiensis]], Melanesian ethnolinguistic groups, or any stone-tool industry. Percentages and geographic range estimates on this page’s Genetic Signature section follow later sources (Reich 2018 and after); keep Tattersall’s Melanesian-sharing claim as a **2012-horizon report**.
 

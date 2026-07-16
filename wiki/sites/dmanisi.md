@@ -13,8 +13,8 @@ cultures: [homo-erectus, oldowan-industry]
 excavated_by: [unknown]
 excavation_years: unknown
 key_finds: [human mandible, Oldowan-like pebble tools and flakes, exclusively Eurasian fossil fauna]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, early-prehistory, near-east, central-asia]
 ---
 
@@ -57,3 +57,17 @@ resolves provisionally in favor of the younger estimate.
 
 Links: [[homo-erectus]] · [[paleomagnetic-dating]] · [[klein-human-career-1999]] ·
 [[klein-richard]]
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*(Attributed — [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]; as of Tattersall 2012.)*
+
+**Discovery and dating.** Dmanisi (Georgia, between Black and Caspian Seas) on a basaltic bluff: 1983 mammal fossils in medieval grain-storage pit walls; early Pleistocene rhino tooth; crude stone tools; 1991 first hominid lower jaw; announced 1995 with East African *H. erectus* comparisons. Underlying basalts dated ~**1.8 Ma**; sediments covered an uneroded surface soon after extrusion; early age verified 2000/2002. Together with Java dates ~1.8–1.6 Ma for *H. erectus*, Tattersall treats early African exodus as beyond dispute (as of 2012) — revising the older belief that Eurasian entry required enlarged brain or improved technology. Initial dispersal ~1.8 Ma or earlier in a very archaic archaeological context, almost immediately after the new hominid body form appeared in Africa.
+
+**Sample, brains, tools.** By 2004: four crania and three mandibles (including a very large one); heterogeneous but co-deposited, treated as one species by most. Large mandible named *Homo georgicus* 2002; team later returned to *H. erectus* assignment (taxonomic POSITION, postponed definitive split). **Cranial volumes 600–775 cc** (mostly low end) — significantly smaller-brained than the Turkana Boy; stature estimates ~4′10″–5′2″; major skeletal elements closer to Boy than to any australopith; relative to small body, brains less diminutive. Associated tools: simple cores and flakes like contemporary East African *H. ergaster* / earliest tools — **not** improved tech. Thesis: exit not enabled by smarter brains or better toolkit; **radical body-form shift** made the difference, with environmental drying and multi-species mammal dispersals into Eurasia also involved.
+
+**Paleoenvironment.** Pollen: warm damp mixed forest/grass just prior; cooling/drying expanded grassland and arid forests at hominid arrival — lower plant abundance but extensive herbivore herds; bashed-in and cut-marked mammal bones confirm exploitation; pronounced seasonality hard for typical primates; success via behavioral flexibility of generalists.
+
+**D3444 care claim (POSITION).** Aged presumed male D3444 lost nearly all teeth years before death (sockets shriveled). **Dmanisi team POSITION** (as reported by Tattersall): survival needed extensive group help on a likely meat-rich diet (or meat pounding) — earliest long-term handicap survivor; next cranial-deformity survival cases ~1 Ma younger; if correct, first putative social concern / empathy + cultural compensation. Tattersall’s gloss: at Eurasian entry, hominids already had cognitive reserves to give material support — “beings of empathy.” Record as **POSITION**, not wiki-voice finding; alternative self-sufficiency via soft foods/pounding remains open.
+
+See [[homo-erectus]], [[oldowan-industry]], [[species-concept]], [[global-colonization]].

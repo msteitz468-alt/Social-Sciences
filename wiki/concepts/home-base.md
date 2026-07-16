@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: recurrent, spatially concentrated artifact-and-bone assemblages interpreted as a repeatedly reused campsite, distinguished from carnivore-, stream-, or shade-tree-driven natural accumulations
 contested: yes
 related_concepts: [food-sharing-hypothesis]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -33,6 +33,8 @@ The home-base concept anchored a broader 1970s-80s model of early Homo social or
 
 The central critique is taphonomic equifinality: the same bone-and-artifact concentrations invoked as evidence for home bases can also result from non-human accumulation processes, and no method has cleanly separated the two at Oldowan-age sites. The anomalously long apparent occupation span at FLK Zinj further complicates a straightforward "residential base camp" reading. Klein treats the hypothesis as an open, unresolved question rather than a settled finding — a [POSITION], not a fact.
 
+The decisive early critique is [[binford-lewis|Binford]]'s *[[binford-bones-1981|Bones: Ancient Men and Modern Myths]]* (1981), which argued from [[actualistic-studies|actualistic]] control data that the [[olduvai-gorge|Olduvai]] "living floors" are ravaged palimpsests fitting hominid marrow-**scavenging**, not home bases — the founding statement of the [[hunting-scavenging-debate|hunting-versus-scavenging debate]].
+
 Linked to [[food-sharing-hypothesis]] (Isaac's companion hypothesis), [[olduvai-gorge]] (FLK Zinj), and [[homo-habilis]] (the presumed toolmaker).
 
-Source: [[klein-human-career-1999]].
+Sources: [[klein-human-career-1999]], [[binford-bones-1981]].

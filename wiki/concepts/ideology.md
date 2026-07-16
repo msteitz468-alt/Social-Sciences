@@ -7,8 +7,8 @@ disciplines: [sociology, archaeology, anthropology]
 emic_or_etic: etic
 operationalized_as: "[[unknown]]"
 contested: yes
-related_concepts: ["[[value-orientation]]", "[[sociology-of-knowledge]]", "[[collective-representations]]", "[[institutionalization]]", "[[legitimation]]", "[[utopia]]", "[[false-consciousness]]", "[[relationism]]", "[[end-of-ideology]]", "[[material-culture]]", "[[logic-of-contingency]]", "[[theoretical-anti-humanism]]", "[[social-formation]]", "[[epistemological-break]]", "[[language-ideology]]"]
-sources_ingested: 9
+related_concepts: ["[[value-orientation]]", "[[sociology-of-knowledge]]", "[[collective-representations]]", "[[institutionalization]]", "[[legitimation]]", "[[utopia]]", "[[false-consciousness]]", "[[relationism]]", "[[end-of-ideology]]", "[[material-culture]]", "[[logic-of-contingency]]", "[[theoretical-anti-humanism]]", "[[social-formation]]", "[[epistemological-break]]", "[[language-ideology]]", "[[critical-archaeology]]", "[[georgian-worldview]]"]
+sources_ingested: 10
 last_updated: 2026-07-15
 tags: [concept]
 ---
@@ -112,3 +112,13 @@ to this wiki's broader Reflexivity requirement for discipline and study pages.
 ## Reading the Past (2003) — Giddens's three functions, and "reading off" burial (attributed)
 
 *(Attributed — [[hodder-reading-past-2004|Hodder & Hutson, Reading the Past]], 3rd ed., ch. 4.)* Following [[giddens-anthony|Giddens]] (1979/1981), Hodder & Hutson report ideology functioning in three ways in Marxist archaeology: representing sectional interests as universal; denying or transmuting contradictions; and naturalising the present (reification). They draw a methodological consequence, following Miller and Tilley's distinction between "power to" (capacity to act, integral to all social practice) and "power over" (domination): if burial remains *deny* contradictions rather than naturalise/represent them, then burial data cannot simply be used to "read off" social organisation. Hodder & Hutson add their own qualification — since material culture in archaeology serves as both evidence of social reality and as ideology simultaneously, "all ideologies that appear to 'mask', in the process 'reveal'."
+
+## Critical historical archaeology (Leone 1982–2010)
+
+*(Attributed — [[leone-mark-p|Leone]], *[[leone-critical-historical-archaeology-2010|Critical Historical Archaeology]]* and reprinted essays.)* U.S. [[historical-archaeology]] operationalization of Marxist/Althusserian ideology as the **program core of [[critical-archaeology]]**:
+
+1. **Artifacts of masks.** Because contradiction is normally hidden to prevent conflict, masking is achieved by cultural assumptions grounded in nature or the "obvious"; "the artifacts of such masks should be the artifacts of ideology" (Leone 1982). Carriers include astronomy, geometry, polysemous human forms, clocks/instruments that project social order into nature.
+2. **Landscape case.** [[william-paca-garden|William Paca Garden]] perspective rules naturalize hierarchical order while masking liberty/slavery contradiction (1984 essay).
+3. **Domestic/scientific objects.** Forks, plates, clocks, surveying and musical instruments as technologies that segment behavior and naturalize merchant-capitalist hierarchy in Annapolis (~1710–1732) — rewriting [[georgian-worldview]] patterning as ideology (Leone & Shackel 1987).
+4. **Public history as ideology.** Outdoor museums ([[colonial-williamsburg]], Shakertown) and Annapolis tourist separations (black/white; city/Naval Academy) present constructed pasts as natural data (Toward a Critical Archaeology 1987; Method as Message 1983).
+5. **Obligation of consciousness.** Once ideology is introduced into archaeology, Leone held, one must ask how modern archaeology creates the past in its own image and whether archaeology can adduce origins of ideologies — self-reflexive questions linking to Trigger on Indian historiography.

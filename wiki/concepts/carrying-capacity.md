@@ -8,8 +8,8 @@ emic_or_etic: "etic"
 operationalized_as: "Maximum population an environment can support at a given level of extractive technology and social organization; in anthropology, often the density a foraging population approaches, typically stabilizing below the absolute maximum"
 contested: "yes"
 related_concepts: ["[[hunter-gatherer]]", "[[original-affluent-society]]", "[[multilinear-evolution]]", "[[ritual-regulation]]", "[[kaiko]]"]
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: "2026-07-15"
 tags: ["concept"]
 ---
 
@@ -73,6 +73,41 @@ spacing, the "magic numbers" 25 and 500 — see [[hunter-gatherer]]), of the bel
 **[[tikopia|Tikopia]] cultural regulation.** 1929: 1,281 on 4.6 km² (278/km²) near traditional agricultural capacity; after Christian abolition of abortion/infanticide and curtailment of overseas voyaging, ~1,750 by 1952 (380/km²) exceeded capacity under environmental stress (1952–53 *onge* famine). Emic concept *fakatau ki te kai* (“measured according to the food”) underwrites controls — celibacy of junior males, coitus interruptus, abortion, infanticide, sea-voyaging, and ultimately war between divisions — aimed at culturally specified living standards, not bare survival.
 
 **Cross-island variation.** Tonga likely reached oscillating steady-state more than a millennium before contact; Easter appears (on Kirch’s 1984 reading) to have overshot with late prehistoric crash; islands were at different stages of the demographic cycle when Europeans enumerated them (after Golson). Stratification levels (Sahlins 1958 criteria) correlate with maximal political-unit population and arable density, but Kirch refuses to assign causal primacy to demography → stratification or the reverse without diachronic archaeological demography.
+
+### Sanders, Parsons & Santley 1979 — Basin of Mexico
+
+*(Attributed — [[sanders-parsons-santley-basin-of-mexico-1979]], *The Basin of
+Mexico*, 1979; see also [[sanders-basin-of-mexico-study]].)* The authors calculated
+carrying capacity using William Allan's (1965) method from *The African Husbandman*:
+three variables — a cultivation factor (land needed per consumption unit per year), a
+land-use factor (ratio of fallow to cultivated plots), and a cultivable-land factor
+(% of landscape classifiable as agricultural) — substituting the extended family
+(averaging 7 persons in the mid-16th century) for Allan's individual consumption
+unit. Applied to the surveyed Basin (2,331 km² of cultivable land, excluding Pachuca,
+the sierra, and the pre-Late Horizon lake zone), they estimated an intensive-
+agriculture carrying capacity (including the chinampa zone) of roughly 1,250,000
+people, against a 1519 population estimate of 800,000 (archaeological + documentary
+for major cities) to 900,000–1,100,000 (documentary alone) — i.e., 65–88% of
+estimated capacity. Extensive (swidden) carrying-capacity estimates by phase ran
+150,000 (Early Horizon) to 300,000 (post–First Intermediate Three), Basin-wide; the
+authors concluded the pre–Middle Horizon Basin as a whole never reached extensive-
+agriculture carrying capacity, though the southern Basin regionally exceeded it by
+First Intermediate Phase Three.
+
+Following Logan and Sanders (1976), they treat fissioning during pioneer colonization
+as occurring at roughly 20–30% of carrying capacity, with subsystem-wide agricultural
+intensification becoming measurable at 50–80% of capacity — attributing the gap
+between measured population and full capacity to feedback effects of unequal land
+rights within and between communities rather than to any environmental slack. They
+also computed intermediate figures for permanent-irrigation zones (e.g., ~9,700 ha of
+Teotihuacan/Amanalco irrigation supporting an estimated 50,440–116,700 people in the
+Middle Horizon scenario) and for the chinampa zone specifically (~12,000 ha by 1519,
+estimated to sustain at least 228,000 people — see [[chinampa]]). The authors
+explicitly adopted [[population-pressure|Boserup's]] treatment of population growth as
+an effectively independent variable, against a cited body of homeostatic-regulation
+critics (Blanton 1975, Cowgill 1975a, Dumond 1965/1972, Lee 1972, Logan and Sanders
+1976, Rappaport 1971), stating: "We strongly favor the position that population
+growth is a general phenomenon."
 
 ## Critiques and Limitations
 

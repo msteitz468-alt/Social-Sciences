@@ -18,8 +18,8 @@ key_finds:
   - "drystone structures"
   - "glass beads (Persian Gulf to China sources; al-Fustat rare-earth link for Bambandyanalo/Mapungubwe beads)"
   - "ivory and East Coast trade evidence"
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, mapungubwe, iron-age, urbanism, state-formation]
 ---
 
@@ -72,3 +72,33 @@ All interpretive claims date-stamped **(as of Connah 2016)**; post-2016 dating a
 *(Attributed — [[phillipson-african-archaeology-2005]]; **as of Phillipson 2005**.)*
 
 Phillipson places Mapungubwe in the southeastern African second-millennium sequence after [[chifumbaze-complex|Chifumbaze]] and Leopard’s Kopje developments, as the Limpopo Valley florescence preceding/related to [[great-zimbabwe|Great Zimbabwe]]’s peak. Schroda is noted as intermediate between Chifumbaze and later Leopard’s Kopje/Zimbabwe-tradition material culture. Treat as the pre-2005 secondary horizon relative to Connah’s denser 2016 urbanism treatment above.
+
+## Oxford Handbook densification (Mitchell & Lane 2013)
+
+*(Attributed — Pikirayi in [[mitchell-lane-oxford-handbook-african-archaeology-2013]] Ch. 63; Mitchell Ch. 45; Monroe Ch. 48; Schoeman Ch. 64 notes. **as of 2013**.)*
+
+### Sequence into Mapungubwe
+
+From ~AD 900 **Zhizo**-type pottery communities in middle Limpopo, SW Zimbabwe, eastern Botswana (Schroda, Ratho Farm, Leokwe Hill, Pont Drift, etc.). **Schroda** shows ritual figurines and received **glass beads** from the Indian Ocean coast, possibly for skins/ivory. Ranked societies/chiefdoms at Toutswemogala, Taukome, Bosutswe—first southern African chiefdoms/states likely around these sites (Pikirayi citing Wood).
+
+Around AD 1000 **Leopard’s Kopje** pottery polities (Bambandyanalo/**K2**, Den Staat, Leokwe Hill, etc.): sizeable cattle-herding towns with hierarchical spatial pattern of town centres + floodplain villages. Bambandyanalo >8 ha with ivory working. Competition with later Zhizo settlements in eastern Botswana for foreign goods via riverine proximity to coast.
+
+### Sacred leadership and gold burials (Huffman model—attributed)
+
+Mapungubwe Hill (c. **1220–1300**) shows pattern Huffman identifies as **‘sacred leadership’**: hilltop palace with stone walling, elite housing and court at foot, commoner housing further down; population probably **>5,000**; trade in copper, iron, ivory, glass beads, gold. 23 hilltop graves; three with gold (woman with >12,000 gold beads; men with gold foil objects including rhinoceros, sceptre, bowl). Mapungubwe-type sites on floodplain and plateau; grain-bin foundations attest cereal intensification. **Sacred leadership = Huffman’s interpretive model—not wiki voice.**
+
+**Climate/rain context (supporting):** wet conditions from onset of second millennium to ~AD 1300 attracted farmers to Shashe–Limpopo (Tyson et al.; Huffman; Smith et al. via Pikirayi). K2 period (c. 1000–1220) agriculture intensified as rainfall ~500 mm. Rain-control rituals on steep hills (Schoeman 2006). Manyanga stresses resilience to climate/economic shocks.
+
+### Demise ~AD 1300 and succession to Great Zimbabwe
+
+Why Mapungubwe disintegrated after ~AD 1300 is not easy to answer; available palaeoclimatic data do **not** suggest environmental deterioration (Smith et al. 2007). With demise, by ~1270 wealthy elite at [[great-zimbabwe|Great Zimbabwe]]; from ~1300 Great Zimbabwe dominant. Succession is **archaeological/political narrative**—not automatic identity transfer of people/language/genes (four-way non-identity).
+
+Mitchell (Ch. 45): control of long-distance trade and prestige imports, alongside livestock and land, critical to sociopolitical complexity from the 10th century on this trajectory. Monroe: Schroda–K2–Mapungubwe (8th–13th c.) rain-making, settlement hierarchy, status goods, coast trade.
+
+**Historiographic caution (Schoeman):** Schofield (1937) sequenced Mapungubwe ceramics linking comb-stamped Zhizo to Sotho-Tswana displaced by Shona Leopard’s Kopje—framed in colonial ‘tribal’ mindset; displacement assumptions wrong (Calabrese 2007), but ceramic–bounded-group theory remains influential (Huffman).
+
+*Source: [[mitchell-lane-oxford-handbook-african-archaeology-2013]].*
+
+## Heritage afterlife (Meskell 2012 — attributed)
+
+*(Attributed — [[meskell-lynn|Lynn Meskell]], *[[meskell-nature-of-heritage-2012|The Nature of Heritage]]* 2012.)* Meskell treats Mapungubwe less as an excavation than as a **heritage object** in post-apartheid politics. The **Mapungubwe Cultural Landscape** was inscribed by UNESCO and is run by [[kruger-national-park|SANParks]] — cited by Meskell as evidence that even "cultural" World Heritage in South Africa has "come to stand for nature." She also notes the site's apartheid-era instrumentalization: the **University of Pretoria** held exclusive excavation rights over Mapungubwe (and Kruger) and, in her account (attributed to a senior interviewee and Bonner & Carruthers 2003), pursued radiocarbon dates that fitted the state's "late arrival of Bantu" homeland program. Visitor data she reports (2007): 62.2% of black visitors to Mapungubwe National Park were attending conferences/workshops rather than touring. See the related Iron Age Zimbabwe-tradition site [[thulamela]].

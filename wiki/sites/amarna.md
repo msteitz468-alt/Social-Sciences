@@ -65,6 +65,12 @@ Founded mid-14th century BCE (conventional chronology) as Akhetaten; intensive b
 
 Densified from Kemp 2018 Ch. 8 and acknowledgements in this ingest; fuller specialist monographs (Amarna Reports, Stevens, etc.) not yet separately ingested.
 
+## Assmann densification (1996/2002)
+
+*(Attributed — [[assmann-jan]], *[[assmann-mind-of-egypt-1996|The Mind of Egypt]].)*
+
+Assmann reads Akhenaten's revolution as "the very first attempt in the history of humanity to found and establish a counterreligion" — a cognitive, rationalist rupture within [[cosmotheism|cosmotheistic]] knowledge (sun/light/time worship), fundamentally unlike biblical historical-moral monotheism. He traces its precursor in the "new solar theology" (the sun god traversing the sky "alone," stripped of mythic constellations), and stresses the aftermath: temple closures, the ~20-year duration, erasure from king-lists within decades (a single Ramesside legal document preserves "that fallen foe from Amarna"), the end-of-period plague attested in Hittite sources, and the Zannanza affair. His "trauma theory" — that Amarna was repressed rather than remembered, resurfacing encrypted in the Osarsiph/lepers legend — is one position in the [[amarna-memory-debate|Amarna memory debate]]. He also credits the Amarna rupture, compounded by linguistic drift, with producing the Ramesside classicizing "dual vision of time" that canonized Middle Kingdom literature.
+
 ## Wilkinson narrative densification (2010)
 
 *(Attributed — [[wilkinson-toby]], *[[wilkinson-rise-fall-ancient-egypt-2010]]* Ch.14.)*

@@ -59,6 +59,19 @@ died," but the combined weight of the taphonomic, biological, and textual eviden
 "thoroughly debunk[s]" (his word, citing Dales and Kennedy) the invasion-massacre
 narrative as an explanation for the Indus Civilization's decline.
 
+[[wright-rita-p|Wright]] (2010) independently relays the same conclusion from Kennedy
+(2000) and adds a positive population-continuity argument: Kennedy's discrete-trait and
+multivariate analysis found the Mohenjo-daro sample phenotypically distinct from other
+Indus populations (Lothal, possibly Kalibangan), but attributable to **normal regional
+biological heterogeneity, not an incoming people** — and, critically, that no demographic
+discontinuity is visible across c. 2000 BCE. In Kennedy's words (2000:304), as Wright
+quotes: "Had an Aryan presence been coincident with the decline of the Harappan
+civilization … then the period immediately after 2000 B.C. would have been marked by the
+introduction of a novel phenotypic pattern. Such is not the case." Wright concludes "the
+Aryan invasion theory can be put to rest." (As of Wright 2010 / Kennedy 2000 — a
+skeletal-morphology argument that pre-dates the ancient-DNA literature; see the four-way
+non-identity note below.)
+
 ## Superseded framework, noted in passing
 
 Sewell and Guha's original 1931 racial typology of the Mohenjo-daro skeletons (Proto-

@@ -15,8 +15,8 @@ preceded_by: ["[[erlitou-culture]]"]
 succeeded_by: ["[[shang-civilization]]"]
 language_affiliation: "[[unknown]] — not equated with a language/people"
 genetic_signature: "[[unknown]] — no population-genetic study of Erligang-affiliated skeletal samples reported in this source (as of Liu & Chen 2012)"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [culture, bronze-age, china, east-asia]
 ---
 
@@ -64,6 +64,14 @@ evidence of intensified warfare (as of Liu & Chen 2012). Diagnostic material inc
 
 No linguistic or genetic evidence for Erligang-affiliated populations is reported in this source;
 those evidence classes are silent here.
+
+Radiocarbon dates place the Erligang (early Shang) state at c. 1600 BCE, close in time to the
+latest Erlitou Phase III dates (as of [[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]], both based on small C-14 samples). Shelach-Lavi and Jaffe (2013), cited in
+Shelach-Lavi (2015), argue that Erligang — rather than Erlitou — marks the "qualitative,
+step-like" sociopolitical change toward statehood: its bronze vessels (e.g., a 100 cm, 86.4 kg
+fangding) dwarf Erlitou-period production, and Zhengzhou's fortifications and settlement scale
+lack a clear Erlitou-period precedent of comparable magnitude — a position bearing directly on
+[[erlitou-xia-dynasty-debate]].
 
 ## Distribution and Chronology
 
@@ -129,3 +137,16 @@ identifications.
 Links: [[zhengzhou]] · [[panlongcheng]] · [[erlitou-culture]] · [[shang-civilization]] ·
 [[chinese-civilization-origins-debate]] · [[erlitou-xia-dynasty-debate]] ·
 [[liu-chen-archaeology-of-china-2012]]
+
+## Chang 1980 densification (attributed)
+
+[[chang-kwang-chih|Chang]] (*[[chang-shang-civilization-1980|Shang Civilization]]*, 1980) names
+the **Erh-li-kang phase** from the Cheng-chou type site and treats it as the Shang capital form
+**ancestral** to dynastic An-yang: hang-t'u walls, Loehr I–III bronzes, northeast palace sector,
+workshop ring. He maps Erh-li-kang–phase and dynastic-phase sites across north, east, south, and
+west China (including [[panlongcheng|P'an-lung-ch'eng]]), leaving colonial, peer-interaction, and
+resource-outpost readings open. Sequence (attributed): Dynastic An-yang ← Erh-li-kang ← Erh-li-t'ou
+(not Shang) ← Honan Lung-shan. Absolute mid-second-millennium dates "(as of Chang 1980)" are
+provisional. Later Liu & Chen separate "Erligang state" (political) from "early Shang" (material
+gloss) more sharply; Chang's 1980 prose often still says "Shang" for Erh-li-kang material while
+excluding Erlitou.

@@ -14,8 +14,8 @@ cultures: ["[[assyrians]]"]
 excavated_by: ["Austen Henry Layard (1845-51)", "Hormuzd Rassam (Balawat gates, 1878)", "later British excavators", "Iraqi State Board of Antiquities (1989 tomb excavation)"]
 excavation_years: ["1845-1851", "1878", "1949-1963 (British)", "1989"]
 key_finds: ["Ashurnasirpal II's palace", "Black Obelisk of Shalmaneser III", "Fort Shalmaneser", "Balawat bronze gates", "Nimrud ivories ('Mona Lisa' ivory)", "1989 unplundered royal tombs (~57 kg gold)"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, bronze-age, iron-age, mesopotamia, near-east]
 ---
 
@@ -128,3 +128,7 @@ Sargon II and then to [[nineveh|Nineveh]] under Sennacherib: Kalhu is named, alo
 Nineveh, as one of the two major recipients of the roughly 2,300 surviving Assyrian
 state letters, and — like other Assyrian cities — was administered by a city mayor
 (hazannu), a role attested for it into the empire's later, Nineveh-centered period.
+
+## Matthews densification (2003)
+
+*(Attributed — [[matthews-archaeology-mesopotamia-2003|Matthews 2003]].)* Matthews cites cartographer Felix Jones's 1857 estimate of the Kuyunjik mound complex (opposite Mosul, near Nimrud) at 14.5 million tons, projecting some 120 years for full excavation at 1930s-scale labour (per Pallis 1956: 297) — his illustrative point that modern small excavation teams would take many times longer still. Following Liverani (1997: 88–9), he stresses that 19th-century techniques (Layard's included) could not detect or excavate mud-brick, leaving Nimrud's lower town and non-monumental fabric essentially unexplored.

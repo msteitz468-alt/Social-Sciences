@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "the (false) belief that North American earthen mounds were built by a vanished non-Indian race rather than by ancestors of living Native Americans; a documented episode in the history and racial politics of American archaeology"
 contested: no
 related_concepts: ["[[colonial-encounter]]", "race", "vanished-race trope", "[[adena-culture]]", "[[hopewell-culture]]", "[[mississippian-culture]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -87,3 +87,11 @@ craniometry) as valid science merely because they reached the correct conclusion
 - **Cyrus Thomas** / Bureau of Ethnology surveys and 1894 report **laid the non-Native belief to rest**.
 - Preservation failure: St. Louis “Mound City” destroyed by mid-19th century; Big Mound leveled 1869 amid relic-hunting frenzy and even a fake “ancient velocipede” publicity stunt.
 - New Deal **WPA/CCC** excavations and later CRM are later chapters in how the Native-built record was recovered at scale — not part of the myth itself, but of the discipline that buried it.
+
+## Pauketat 2009 additions
+
+*(Attributed — [[pauketat-cahokia-2009]], on the myth's Cahokia-specific afterlives.)*
+
+- Variant myth forms at Cahokia: the lost race "wiped out by or intermixed with" Indians, or migrating to Mexico to found Aztec/Maya civilization.
+- A **second-order myth** persisted after the racial one: prominent geologists held the Cahokia mounds to be **natural formations**; Warren King Moorehead's 1921 trenching (methodologically poor and damaging, but finding human bones in the Rattlesnake ridgetop mound) refuted it and won the 1925 state-park purchase.
+- Pauketat argues a third, subtler successor: mid-20th-century minimization — Griffin's "ritual center with few inhabitants" reading and the later FAI-270-era "romantic view of American Indians as ecologically sensitive beings who would never have built a city" (Pauketat's polemical framing of colleagues — recorded as his position; see [[cahokia-population-urbanism-debate]]).

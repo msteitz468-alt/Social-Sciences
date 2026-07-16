@@ -13,8 +13,8 @@ cultures: ["[[cultures/olmec-culture]]"]
 excavated_by: [Matthew Stirling, Michael D. Coe, Ann Cyphers]
 excavation_years: ["1945", "1966-1968", "1991-present"]
 key_finds: [colossal heads, basalt thrones/altars, drain system, stone-sculpture workshops]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, early-prehistory, mesoamerica]
 ---
 
@@ -47,3 +47,15 @@ San Lorenzo lies near [[sites/el-manati]], a waterlogged ritual deposit associat
 San Lorenzo's priority as the earliest major Olmec center anchors one side of the [[debates/olmec-mother-culture-debate]]: Stirling's original claim that Olmec civilization predates the Classic Maya was vehemently opposed by Mayanist Sir Eric Thompson but backed by Alfonso Caso and Miguel Covarrubias; Coe & Koontz state that "time has fully borne out Stirling and the Mexican school" (2013) — an attributed verdict, not an uncontested wiki-voice fact, given ongoing revisionist positions questioning the primacy of the Gulf Coast heartland.
 
 See also [[cultures/olmec-culture]], [[thinkers/stirling-matthew]], [[thinkers/coe-michael-d]], [[sources/coe-koontz-mexico-2013]].
+
+## From Flannery (ed.) 1976 — catchment and exchange links
+
+Short attributed addendum from *[[flannery-early-mesoamerican-village-1976|The Early Mesoamerican Village]]* (Flannery ed. 1976; study [[flannery-early-mesoamerican-village-study]]). Does not supersede Coe & Koontz synthesis above.
+
+### Rossmann site-catchment analysis
+
+David L. Rossmann applied Vita-Finzi–Higgs-style [[site-catchment-analysis]] to San Lorenzo, Potrero Nuevo, and Tenochtitlán near the Coatzacoalcos River, using Coe’s 1966–68 excavations and ~75 km² survey (mapping, soils, ethnography, land use). Peak San Lorenzo phase extent ~1150–900 B.C.; Coe house-mound estimates San Lorenzo ~1000 persons, Tenochtitlán ~1000 (Rossmann flags likely overestimate for Early Formative), Potrero Nuevo ~250. Catchments defined to 5 km from site edge; sites abstracted as circles (SL diameter 1 km); land classes by kilometer ring from Coe soil maps (lomas, *tierra de primera* levee, *tierra de potrero* savanna, marshes). Rossmann reported San Lorenzo’s near catchment dominated by upland lomas (1-km ring over 95% lomas; total catchment more than half lomas). At modern yields he argued weighted lomas could produce far more maize than Coe’s 1000 persons required; under Early Formative maize ~250 kg/ha (Kirkby), ~800 ha yearly cultivation for 1000 persons would imply reduced fallow and stress. He cautioned that raw land-type percentages mislead without institutions: inverse size–*primera* relation would imply lomas preference under cookbook Vita-Finzi logic, contradicting modern levee value; San Lorenzo as ceremonial-civic center may have commanded levee as tribute; Potrero Nuevo and Tenochtitlán might be barrios of one giant San Lorenzo catchment. Catchment sketches walking-distance resources, not the network of control (including basalt moved tens of kilometers).
+
+### Exchange networks (Pires-Ferreira; Earle NNA)
+
+Jane Wheeler Pires-Ferreira’s Early Formative obsidian matrices place San Lorenzo on major long-distance nets: **Guadalupe Victoria** (eastern Puebla) 62.2% of SL sample (~300 km) vs 90.8% at smaller Tabasco Chontalpa sites (~450 km) and 36.5% Oaxaca (~200 km); **El Chayal** (Guatemala, ~580 km) 21.7% at SL; **Barranca de los Estetes** only 4.8% Early Formative (possible indirect via Guadalupe Victoria–Oaxaca links). Middle Formative: breakdown/realignment of Guadalupe Victoria system and dissolution of traditional Gulf Coast–Oaxaca ties after monument destruction at San Lorenzo and La Venta’s rise (SL–Oaxaca Q-type average correlation +.38 → −.01); Barranca de los Estetes at SL rises 4.8% → 26.3%. Coe-found small flat iron-ore mirrors identical to those from a San José Mogote residential ward → proposed Oaxaca–Gulf elite exchange (Pires-Ferreira/Flannery). Earle’s nearest-neighbor analysis treats San Lorenzo with La Venta and Tres Zapotes as broadly contemporaneous highest-order ceremonial-civic centers ~1000–600 B.C. with tendency toward **regular spacing** (mutual antagonism / competition reading); Estero Rabón ~24 km west of San Lorenzo checked against a secondary-center prediction ~15 km from major centers. Marcus/Flannery scale note: San Lorenzo ~53 ha by 900 B.C.; with Tenochtitlán + Potrero Nuevo within ~3 km, regional total ≤2500 in ~80 ha — density comparable to Winter’s Early Formative Tierras Largas households/ha; San José Mogote ~half San Lorenzo size in the same comparative tables.

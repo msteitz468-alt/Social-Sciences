@@ -60,6 +60,14 @@ Binford's scavenging critique) as reading too much social behaviour into ambiguo
 scatters; his insistence on actualistic testing, however, helped set the standard by which such
 claims are now judged.
 
+In *[[binford-bones-1981|Bones: Ancient Men and Modern Myths]]* (1981), Binford made Isaac his
+central theoretical target: he argued the home-base inference rests on an unwarranted projection
+of Lee and DeVore's [[juhoansi|!Kung]] ethnography onto the deep past, that tool–bone *association* at
+[[olduvai-gorge|Olduvai]] does not establish behavioural *integration*, and that the assemblages
+better fit hominid marrow-scavenging than food-sharing at home bases. The subsequent cut-mark
+evidence (Bunn; Potts and Shipman) supported a **mixed / early-access** position rather than
+either Isaac's full model or Binford's pure scavenging — see [[hunting-scavenging-debate]].
+
 ## Historiography
 
 Isaac is a standard reference for Plio-Pleistocene archaeology, taphonomy, and the

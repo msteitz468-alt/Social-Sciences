@@ -7,8 +7,8 @@ date_introduced: "1949 (first dates); monograph 1952 (2nd ed. 1955)"
 supersedes: ["[[unknown]]"]
 epistemic_leverage: "Absolute (not merely relative) chronology for organic material, independent of stylistic seriation or textual synchronism; the first method to let archaeology test diffusionist narratives against a fixed clock usable worldwide to roughly 50,000 years."
 key_limitations: "Usable only to roughly 50,000 years before present (C-14 half-life limits resolution beyond several half-lives); requires organic material with datable carbon; raw dates must be calibrated against tree-ring and other records to convert to calendar years; sample contamination, reservoir effects (marine, hard-water), and sample≠event mismatches dominate errors; conventional ages use the [[libby-half-life]] scale, not the physical half-life alone."
-sources_ingested: 15
-last_updated: 2026-07-10
+sources_ingested: 17
+last_updated: 2026-07-15
 tags: [method]
 ---
 
@@ -223,3 +223,45 @@ Roberts frames radiocarbon as the backbone of Holocene chronology: since Willard
 - **Proxy misuse:** Hawaiian population curves using the distribution of habitation radiocarbon dates as a demographic proxy — long tail older than AD 1000 mostly old wood; European-contact disease fall-off (Bellwood’s Fig. 2.1 caveats).
 
 Source: [[bellwood-first-farmers-2005]].
+
+## Çatalhöyük North Bayesian case (Bayliss et al. 2022)
+
+*(Attributed — Alex Bayliss et al., Ch.19 “A northern timescape,” in [[hodder-catalhoyuk-excavations-2009-2017|Hodder ed. 2022]]; calibrated against **IntCal20**; preferred model defined by CQL2 code **Catal_North.oxcal**. All posterior intervals below are **as of Bayliss et al. 2022**. Complements the textbook Bayesian/OxCal sketch in Renfrew & Bahn above with a full multi-building settlement application.)*
+
+### Design and priors
+
+Bayliss et al. model **North Area** activity as a multi-sequence Bayesian chronology that fuses AMS measurements with Harris-matrix stratigraphy (uniform phases of continuous use for buildings/open areas; inter-building links added only after stand-alone building models flag misfits). Sampling is deliberately **contiguous and stratigraphically related** (northern North Shelter), not a random site sample — maximising useful priors at the cost of spatial representativeness. Export constraints meant **only the North Area** absolute model was complete at publication; South Area time-slices remained pending (as of Farid/Hodder/Taylor/Tung 2022, Ch.3, citing Ch.19). Preferred model retains **142 of 167** North measurements (85%): 16 anomalously recent bones, 6 experimental assays, 2 bulk charred samples with intrusive components, and 1 inserted burial excluded; ~40 included dates treated as **TPQs** (residual material, uncertain taphonomy, or unidentified charcoal). Overall agreement **Amodel: 73** after excluding OxA-37140 (later Neolithic insertion into the B.129 area) and treating Poz-100529 as residual TPQ.
+
+### Bone-collagen exclusion rules (Poznań Technical Note)
+
+Çatalhöyük bone is often poorly preserved near-surface. From review of **71 Poznań bone dates** (49 Neolithic, 22 later), Bayliss et al. adopt laboratory hygiene rules (attributed, Ch.19 Technical Note):
+
+1. **&lt;0.5% collagen by weight** → regarded as **inaccurate and excluded** (all nine experimental low-collagen North samples returned anomalously recent ages vs related short-lived plants or better bone).
+2. **Long alkali + ultrafiltration (UF) + &gt;0.5% collagen** → treated as accurate and included.
+3. **No alkali / no UF / only short alkali on Neolithic bone** → **probably inaccurate, excluded** (Poznań replicates without alkali systematically more recent than Oxford ABA+UF replicates; regraphitisation confirmed alkali is required for these samples).
+4. **Same incomplete protocols on later (post-Neolithic) bone** → often retained (higher yields).
+5. **Statistically consistent replicate from another lab** → may override protocol exclusion.
+
+Stage-1 cleaning omitted **24 measurements (14%)** as scientifically inaccurate and incorporated **39 (23%)** as TPQs. The rules instantiate sample≠event hygiene for **lab chemistry**, not only context: incomplete collagen pre-treatment at Neolithic Çatalhöyük systematically biases ages young.
+
+### Preferred North timescape (summary HPDs)
+
+- **Area span (95% HPD):** earliest excavated North activity **6695–6650 cal BC**; final end **6470–6400 cal BC**; total modelled Neolithic deposits **195–275 years** of use; terminal decline over **1–45 years** (probably 1–20 at 68%).
+- **Longest dated strand:** B.132 → Sp.602 → B.77 (fire) → B.131 → B.129. Bayesian order confirmed **B.131 later than B.77** where niche intercutting left the relationship ambiguous (as of Farid et al. 2022 / Bayliss Ch.19).
+- **Building durations (95% use):** most buildings few decades (e.g. B.1 **5–50 y**; B.132 **1–30**; B.129 **1–35**); **B.114 40–140 y** the strongest multi-generational (“ancestors’ house”) candidate; of ten buildings with reliable durations, ~2/3 median use ≤~few decades and ~1/3 up to ~century.
+- **Revision vs Bayliss et al. 2014 B.1/B.5 model (IntCal20 recalculation comparison):** B.1 start median **~35 years later**, end **~42 years earlier**, duration median **~80 years shorter** — driven by B.131/B.129 links and exclusion of late/no-alkali bones. B.5 remains weakly constrained (partial excavation; public display since 1998; single bulk-cereal TPQ for end).
+- **Hiatuses as load-bearing findings:** e.g. Sp.490/B.108 **25–115 years**; B.139/B.131 **25–140 years** (“approaching a century,” beyond living memory of B.139 layout); B.5–B.1 break demonstrated where earlier material-culture phasing had assumed continuity. Authors call **localised deposition gaps** “perhaps the most significant finding.”
+- **25-year timescape maps** (6675–6650 through 6450–6425 cal BC slices) replace blanket levels with **probabilities of contemporaneity**; joint accuracy of any full slice is low (product of independent lot probabilities). Archaeological **levels ≠ absolute contemporaneity** — North therefore carries two non-identical dating systems (lettered levels vs Bayesian slices) until South is modelled similarly.
+
+### Methodological takeaways for this page
+
+1. **Bayesian multi-sequence modelling** can resolve Neolithic house biographies to generation-scale intervals when dense short-life samples meet strong stratigraphic priors — and can **fail gracefully** by flagging residual TPQs and laboratory outliers rather than forcing every assay into the sequence.
+2. **Cross-lab / pre-treatment replication** is a first-order reliability fact for bone collagen at low-yield sites; incomplete alkali/UF on Neolithic bone is not a minor protocol footnote.
+3. **Hard-water / freshwater reservoir** risk was checked via agreement of human bone/tooth (and carbonised flesh/brain) with terrestrial plants/fauna; good individual agreement in modelled buildings is taken to indicate **no detectable non-terrestrial diet offset** in those individuals (as of Bayliss et al. 2022) — case-specific, not a general absolution for human bone.
+4. **Levels vs time-slices:** radiocarbon+Bayesian slices answer questions about pace, vacancy, and co-presence that Mellaart-style level stacks and even Harris-matrix phasing alone cannot; Farid et al. 2022 note that Volumes 12–15 material studies still largely used the level system pending South absolute slices.
+
+Source: [[hodder-catalhoyuk-excavations-2009-2017]] (Bayliss et al. Ch.19; Farid/Hodder/Taylor/Tung Ch.3). Site context: [[catalhoyuk]].
+
+## Renfrew *Prehistory* (2007) — popular restatement of the first revolution
+
+*(Attributed — *[[renfrew-prehistory-making-human-mind-2007]]*, Ch. 3.)* Libby's principle and Nobel recognition; half-life and sample pitfalls (old wood); dendrochronological calibration; Egyptian historical test; shocks in neolithic Britain and at Vinča; rewriting of European prehistory once automatic *ex Oriente lux* dating failed. Pedagogical layer for the same argument densified from primary *[[renfrew-before-civilization-1973|Before Civilization]]* (1973).

@@ -5,13 +5,13 @@ date_death: "2006"
 disciplines: [archaeology, anthropology, economic-anthropology]
 era: [critical-turn, contemporary]
 affiliated_theories: ["[[secondary-products-revolution]]", "processual synthesis integrated with consumption/value"]
-trained_under: ["[[unknown]]"]
+trained_under: ["[[clarke-david-l|David L. Clarke]]"]
 trained: ["[[unknown]]"]
 key_works: ["[[sherratt-economy-society-prehistoric-europe-1997|Economy and Society in Prehistoric Europe (1997)]]", "Plough and Pastoralism / Secondary Products Revolution (1981)", "Secondary Exploitation of Animals (1983/rev. 1995)", "Cups that Cheered (1987)", "Sacred and Profane Substances (1991)", "Archaeology of Indo-European with E.S. Sherratt (1988)"]
 key_concepts: ["[[secondary-products-revolution]]", "[[animal-traction]]", "[[prehistoric-intoxicants]]", "secondary products complex"]
 fieldwork_sites: ["Great Hungarian Plain (Archaeological Topography of Hungary collaboration)", "Morbihan megalith morphology (archive/desk study)"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 5
+last_updated: "2026-07-15"
 tags: [thinker, archaeology]
 ---
 
@@ -59,7 +59,7 @@ British archaeologist and anthropologist at the University of Oxford; editor of 
 
 **Interlocutors in the 1997 volume:** [[childe-v-gordon|V. Gordon Childe]] (central foil and conversation partner); [[renfrew-colin|Colin Renfrew]] (autonomy, metallurgy, IE farming hypothesis as counter-position); [[clark-grahame|Grahame Clark]] (economic prehistory); [[hodder-ian|Ian Hodder]] (domus, house–tomb continuum, post-processual symbolism); [[piggott-stuart|Stuart Piggott]] (wheeled vehicles); David Clarke (memorial dedication of Ch.6; PhD comments on Balkan Copper Age→EBA); regional Hungarian collaborators (Kalicz, Bökönyi, Torma, and others named in Ch.11). Co-authors: **Tim Taylor** (Ch.17); **E.S. (Susan) Sherratt** (Ch.19).
 
-**trained_under / trained:** not documented in this collection (`[[unknown]]`).
+**trained_under:** [[clarke-david-l|David L. Clarke]] — the 1997 volume is dedicated “For my teacher DAVID L. CLARKE 1937–1976”; Ch.6 memorial dedication and PhD comments on Balkan Copper Age→EBA are recorded in the Intellectual Genealogy interlocutors list. **trained:** not documented in this collection (`[[unknown]]`).
 
 ## Critiques and Reappraisals
 
@@ -79,3 +79,22 @@ Oxford teaching post; English-language European prehistory across the processual
 ## As neo-diffusionism's ally (Kristiansen & Larsson 2005)
 
 [[kristiansen-larsson-rise-bronze-age-2005|Kristiansen & Larsson]] (2005) treat Sherratt as a key ally in reviving interaction-based explanation after the autonomist turn: his work on the [[secondary-products-revolution]], the diffusion of alcohol/narcotics as socialising media, and his Mediterranean–Carpathian–Baltic trade reconstructions model diffusion as *economic and ritual practice locally transformed*, not mere typological spread. They cite Sherratt (1995) and Sherratt & Sherratt (1998) as delivering the critique of extreme autonomism they build on (see [[diffusion-collapse-european-prehistory-debate]]).
+
+## Bradley 1998 engagement (attributed)
+
+*[[bradley-significance-of-monuments-1998]]* cites Sherratt on the ~4500 BC agricultural frontier and the appearance of first major monuments where agricultural resources are newly employed (1990), and quotes Sherratt 1995 on monumentality as cultural rhetoric of Neolithic conversion. Bradley accepts the force of the conversion metaphor but develops an independent account of monument *form* via [[death-of-the-house]] and Mesolithic ontology, and extends the "religious conversion" analogy to Urnfield-era farming intensification (Ch. 10).
+
+## Whittle 1996 — secondary products as over-stated revolution (position on Sherratt)
+
+*(Attributed — [[whittle-alasdair]], *[[whittle-europe-in-the-neolithic-1996]]* 1996, Ch. 5 and Ch. 10; engagement with the [[secondary-products-revolution]] model.)*
+
+Whittle finds Sherratt’s secondary-products model **attractive** (milk, wool, plough/traction, wheeled transport not early Neolithic essentials) but argues the **initial formulation over-states** a single later-4th-millennium Near Eastern package as a revolution:
+
+- Wheeled vehicle remains the most convincing mid/late 4th-mill. innovation (Uruk pictograms; Baden cart models ~3500–3300 BC — rapid diffusion).
+- Plough: later representations, but earlier ard-share claims and castrated-oxen metrics claimed into later 6th-mill. LBK; mid-4th-mill. NW European ard marks partly preservation bias under barrows.
+- Earlier age patterns allow some milk/wool use; mature cattle/sheep at Ovčarovo, Golyamo Delčevo, Targovishte, Poljanica may already show secondary uses **before** the 4th millennium.
+- Preferred gloss: secondary-products horizon = **acceleration/accentuation within changing residence**, not sole cause of SE European / wider change. Ch. 10 flags “secondary products revolution” among language traps that reify package completeness.
+- Related: Baden double cattle burials signal new human–animal formality around secondary products and hospitality drinking sets — still within older traditions, not automatic ranking.
+
+Recorded as **Whittle’s mid-1990s position** on Sherratt’s model (pre-lipid-residue re-dating of dairying); complements the Critiques section’s post-1997 milk chronology above. See [[agricultural-revolution]], [[animal-domestication]], [[baden-culture]].
+

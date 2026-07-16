@@ -13,8 +13,8 @@ cultures: ["[[shang-civilization|Shang]]"]
 excavated_by: ["Li Chi (Academia Sinica, Institute of History and Philology)", "Liang Ssu-yung", "Tung Tso-pin", "Shih Chang-ju"]
 excavation_years: "1928–1937 (15 seasons); resumed after 1950"
 key_finds: ["oracle-bone inscription archives", "royal cemetery at Hsi-pei-kang (11 large tombs)", "stamped-earth palace-temple foundations at Hsiao-t'un", "bronze ritual vessels", "human and animal sacrifices"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [site, bronze-age, china, east-asia]
 ---
 
@@ -142,6 +142,99 @@ distinguishable archaeological cultures in the same region — a discrepancy the
 evidence that a single archaeological-culture assemblage can mask multiple, decentralized
 political groups (a caution against equating material culture with polity).
 
+## Shelach-Lavi (2015) densification
+
+*(Attributed — [[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]. Shelach-Lavi
+uses "Yinxu" for the Late Shang capital locus and "Anyang" for the modern city/area under which
+it lies; both names are treated here as the same locus, following his usage.)*
+
+Oracle-bone inscriptions were first traced to the village of Xiaotun, near Anyang, around the
+turn of the twentieth century; large-scale scientific excavation of Yinxu began in 1928 under
+[[li-chi|Li Ji]] (National Research Institute of History and Philology), running fifteen field
+seasons until halted in 1937 by the Japanese invasion, then resuming after the founding of the
+PRC under the Institute of Archaeology. In Shelach-Lavi's adopted Shang chronology, Yinxu and
+its oracle bones typify the Late Shang phase (ca. 1300–1050 BCE); Huanbei, the Middle Shang
+center, was abandoned ca. 1300 BCE, after which the center shifted to Xiaotun/Yinxu — an
+unwalled settlement covering an estimated 3,000 ha (30 km²) (Zhongguo Shehui 2003).
+
+The **Xibeigang royal cemetery** contains eight large cross-shaped tombs (identified as Shang
+kings' graves), 107–192 m² in size and up to 12 m deep; grave M1001's main chamber is 19×16 m,
+10.5 m deep, and 66 m long including its ramps, and contained the remains of roughly 150 human
+victims along with twelve horses and eleven dogs (Chang 1980; Bagley 1999). More than a
+thousand small earthen sacrificial pits are arranged in orderly rows in the cemetery's eastern
+section, each holding up to twelve human skeletons, many decapitated. Twenty-five "chariot
+pits" — chariots, horses, human drivers, and equipment — have also been found at Yinxu.
+
+The **Fuhao tomb** at Xiaotun/Yinxu, identified by inscriptions as belonging to Fuhao, consort
+of Shang king Wuding, is 22 m² and 7.5 m deep — a tenth the size of the largest royal tombs but
+the richest and largest intact Shang grave known. Shelach-Lavi records roughly 1,600 burial
+goods, sixteen human victims, a sacrificed dog, ~6,820–7,000 cowrie shells (figures vary by
+source: Zhongguo 1980 gives 6,820), 195 bronze ritual vessels and 271 other bronze items
+(combined weight ~1,600 kg), 755 jade artifacts, and 564 carved bone artifacts — figures that
+differ somewhat from Liu & Chen's (2012) count of 1,928 grave goods and 468 bronze objects
+above; both counts are attributed to their respective sources rather than reconciled. Of 95
+tested bronze vessels/tools/weapons from the tomb, most contained roughly 15% tin, some over
+20% (Zhongguo 1980).
+
+Yinxu is the source of 200,000+ oracle-bone fragments. Craft production included six bronze
+workshops (the largest, near Xiaomintun, covering more than 5 ha across three subdivided
+workshops) and the Tiesanlu bone workshop, which yielded 34,000 kg of worked animal bone from
+only a small excavated portion of its area (Campbell et al. 2011). The Si Mu Wu Fangding, found
+at Yinxu, weighs 875 kg — described by Shelach-Lavi as the largest bronze vessel cast anywhere
+in the ancient world.
+
+Chariots appear fully formed in Yinxu sacrificial pits dated to ca. 1250 BCE, with no local
+antecedent stages; the earliest known chariots elsewhere come from the Sintashta-Petrovka
+culture (modern Kazakhstan), dated ca. 2000–1800 BCE, and it is generally agreed (Anthony and
+Vinogradov 1995) that the Yinxu chariots reflect transmission of chariot technology from
+Central Asia given the absence of local antecedents.
+
+On the territorial-extent debate, Shelach-Lavi argues against a bordered "territorial state"
+model for the Shang, favoring a concentric-zones/network-of-towns model (Chang 1980; Keightley
+1978–80), and explicitly disagrees with Liu and Chen's (2003) reading of the Late Shang
+political system (as reflected in the oracle bones) as the weakened remnant of a more
+centralized Early Shang system — he argues the available archaeological evidence does not
+support a "weaker Late Shang" reading.
+
 Links: [[shang-civilization]] · [[zhengzhou]] · [[li-chi]] · [[chang-kwang-chih]] ·
 [[chinese-civilization-origins-debate]] · [[chang-archaeology-ancient-china-1963]] ·
-[[liu-chen-archaeology-of-china-2012]]
+[[liu-chen-archaeology-of-china-2012]] · [[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]
+
+## Chang — *Shang Civilization* (1980) densification
+
+*(Attributed — [[chang-shang-civilization-1980|Chang, *Shang Civilization*]], 1980, Ch.1 and
+passim. Social reconstruction from pre-war IHP reports, post-1949 PRC publications, and oracle
+bones; absolute dates as of 1980, partly superseded.)*
+
+**Capital structure.** Chang reconstructs Yin as a **royal capital whose core is the An-yang
+cluster** of localities on both banks of the Huan — Hsiao-t'un ceremonial-administrative center,
+Hsi-pei-kang royal cemetery, craft villages, and dependent hamlets — not a single continuous
+walled city. He argues the effective capital catchment may extend tens to ~200 km to sites such as
+Ch'ao-ko, Hui Hsien, and Hsing-t'ai (attributed network model). Whether the oracle-bone toponym
+*Ta yi Shang* equates with An-yang remains disputed in his account.
+
+**Hsiao-t'un.** Predynastic occupation with pit dwellings, water-ditch drainage, Period I pottery,
+and uninscribed oracle bones, comparable in art/technology level to late Cheng-chou. Dynastic
+hang-t'u (rammed-earth) house foundations in three groups (Shih Chang-ju's reconstruction), with
+foundation and dedication sacrifices. **Fu Hao (Tomb 5):** intact elite burial of a royal consort
+active in Wu Ting–period warfare and ritual (named on bronzes and bones); rich bronze, jade, and
+cowrie inventory — Chang's type case for high-ranking women in the royal apparatus.
+
+**Hsi-pei-kang.** Large cross-shaped and ramped royal tombs (M 1001 etc.), repeatedly robbed;
+floor sacrifices (humans, dogs, weapons) under wooden chambers; second-level platforms for goods
+and victims. 1934–35 seasons alone: 10 large tombs + 1,221 small graves (many skull-only or
+body-only pits in parallel rows) — Chang's primary quantitative window on sacrificial classes
+beside the principal burials.
+
+**Oracle-bone loci.** Multiple findspots beyond a single "archive"; pit H-127 as a major storage
+dump; Tung Tso-pin's five-period *chen-jen* chronology as the relative time spine of late Shang
+kingship (Period I vs IV assignments contested). See [[oracle-bone-inscription]],
+[[scapulimancy]].
+
+**Urban thesis (attributed).** An-yang is a multi-nodal **urban network** of self-sufficient
+settlement nodules integrated by royal ritual, craft specialization, and lineage cemeteries — a
+model later writers (Keightley; [[liu-chen-archaeology-of-china-2012|Liu & Chen]];
+[[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi]]) rework rather than discard.
+
+Links: [[shang-civilization]] · [[tsu-lineage]] · [[fang-polity]] · [[zhengzhou]] ·
+[[chang-shang-civilization-1980]]

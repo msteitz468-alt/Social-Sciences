@@ -15,8 +15,8 @@ preceded_by: ["Proto-Mayan (reconstructed)"]
 succeeded_by: ["living Mayan languages (Yukatekan, Greater K'ichean, Mamean, Greater Q'anjob'alan, Tzeltalan-Ch'olan, Waxtekan, etc.)"]
 language_affiliation: "Mayan language family (isolate family within Mesoamerica; not Indo-European). Classic lowland inscriptions in Classic Mayan (Ch'olan), ancestral to Ch'olti'/Ch'orti' per Houston, Robertson & Stuart as of Sharer & Traxler 2006."
 genetic_signature: "N/A — language family, not a genetic population. Do not equate speakers with aDNA clusters without dated genetic sources."
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [culture, language-family, mesoamerica, classic-maya]
 aliases: [Maya languages, Mayan language family, Classic Mayan, Ch'olan]
 ---
@@ -95,3 +95,7 @@ N/A as a language family per se. Speech communities’ agriculture ([[milpa]]), 
 ## Historiography
 
 Family recognition, homeland debates, and subgrouping evolved through twentieth-century historical linguistics; decipherment (Knorozov phoneticism; Houston–Robertson–Stuart Classic Ch’olan thesis) re-centered epigraphy on a prestige Ch’olan court language. Colonial dictionaries remain primary tools because they preserve stages closer to the glyphic era. Sharer & Traxler 2006 synthesize family structure, contact, Classic language identity, and living continuity for archaeological readers. Source densification: [[sharer-traxler-ancient-maya-2006]]; specialist comparative monographs remain outstanding for deeper reconstruction.
+
+### From Coe 2012
+
+[[coe-breaking-the-maya-code-2012|Coe 2012]] surveys ~30 Mayan languages, Proto-Mayan reconstruction, and identifies **Ch’olan** (not Yucatec) as the language of most Classic inscriptions — aligning with later Houston–Robertson–Stuart “Classic Mayan” framing in other ingested surveys. Ergativity, aspect, and VOS order are flagged as structural features epigraphers must respect. Landa and Colonial dictionaries remain keys for phonetic work despite language mismatch risk when projecting Yucatec onto Classic courts.

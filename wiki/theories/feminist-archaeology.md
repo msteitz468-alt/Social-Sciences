@@ -4,8 +4,8 @@ theory_type: research-program
 disciplines: [archaeology, anthropology]
 era_origin: critical-turn
 date_origin: "mid-1980s program statement (Conkey & Spector 1984); multi-author charter *Engendering Archaeology* 1991"
-originated_by: ["[[conkey-margaret-w]]", "[[gero-joan-m]]", "[[spector-janet]]", "[[wylie-alison]]", "associates (Tringham, Hastorf, Brumfiel, Wright, Claassen, et al.)"]
-key_texts: ["Conkey & Spector, 'Archaeology and the Study of Gender' (1984)", "[[gero-conkey-engendering-archaeology-1991|Gero & Conkey, eds., Engendering Archaeology (1991)]]", "Wylie, 'Gender Theory and the Archaeological Record' (in Engendering 1991)", "Spector, 'What This Awl Means' (in Engendering 1991)"]
+originated_by: ["[[conkey-margaret-w]]", "[[gero-joan-m]]", "[[spector-janet]]", "[[wylie-alison]]", "associates (Tringham, Hastorf, Brumfiel, Wright, Claassen, et al.)", "[[gilchrist-roberta]] (1999 synthesis)"]
+key_texts: ["Conkey & Spector, 'Archaeology and the Study of Gender' (1984)", "[[gero-conkey-engendering-archaeology-1991|Gero & Conkey, eds., Engendering Archaeology (1991)]]", "Wylie, 'Gender Theory and the Archaeological Record' (in Engendering 1991)", "Spector, 'What This Awl Means' (in Engendering 1991)", "[[gilchrist-gender-and-archaeology-1999|Gilchrist, Gender and Archaeology (1999)]]"]
 core_claims:
   - "Gero, Conkey and associates argued that gender is a culturally constructed, historically contingent structuring principle of past social life and of archaeological knowledge production"
   - "They held that androcentric models (Man the Hunter, tool-maker-as-male, domestic woman-at-home, faceless households) systematically excluded women as active producers from prehistoric narratives"
@@ -15,14 +15,14 @@ core_claims:
 developed_from: ["[[feminist-anthropology]]", "[[post-processual-archaeology]] (overlapping strands)", "women's history", "feminist philosophy of science"]
 competes_with: ["androcentric default in culture-history and processual reconstruction", "strict methodological barrier claims about gender invisibility", "popular unsubstantiated Neolithic-goddess literature (as foil)"]
 status: active
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [theory, archaeology]
 ---
 
 # Feminist Archaeology (Archaeology of Gender)
 
-Research program that made **gender** a first-class archaeological problem — in past societies **and** in the practice of the discipline. Also called **gender archaeology** / **archaeology of gender**. Deep analysis: [[hubs/theory/feminist-archaeology|Theory Hub]]. Charter multi-author collection: *[[gero-conkey-engendering-archaeology-1991|Engendering Archaeology]]* (Gero & Conkey, eds., 1991). Agenda-setting precursor: Conkey & Spector 1984.
+Research program that made **gender** a first-class archaeological problem — in past societies **and** in the practice of the discipline. Also called **gender archaeology** / **archaeology of gender**. Deep analysis: [[hubs/theory/feminist-archaeology|Theory Hub]]. Charter multi-author collection: *[[gero-conkey-engendering-archaeology-1991|Engendering Archaeology]]* (Gero & Conkey, eds., 1991). Agenda-setting precursor: Conkey & Spector 1984. Post-charter synthesis: *[[gilchrist-gender-and-archaeology-1999|Gilchrist, Gender and Archaeology (1999)]]*.
 
 ## Core Claims
 
@@ -54,6 +54,7 @@ Reacted against androcentric culture-history and processual reconstructions and 
 | Spector 1991 | Explicitly feminist narrative method (awl); task differentiation |
 | [[tringham-ruth]], Hastorf, Brumfiel, Wright, Claassen, Watson & Kennedy, Jackson, [[handsman-russell]], Pollock | Case studies (space, food, production, images) |
 | [[moore-henrietta-l]] | Epilogue: gender as structuring principle; “women” not unproblematic |
+| [[gilchrist-roberta]] 1999 | Post-charter synthesis; third-wave difference/body/queer; [[contested-garden]] castle case |
 
 ## Empirical Program
 
@@ -96,6 +97,18 @@ Reacted against androcentric culture-history and processual reconstructions and 
 ## Current Status
 
 Mainstream within contemporary archaeology as **gender archaeology**, with extensions into queer archaeology, intersectionality, and masculinity studies beyond the 1991 charter. The volume’s empirical cases remain teaching landmarks; later handbooks supersede single-volume coverage of the research frontier.
+
+## Densified from Gilchrist (1999) Synthesis
+
+*(All claims attributed to [[gilchrist-roberta|Gilchrist]], *[[gilchrist-gender-and-archaeology-1999|Gender and Archaeology]]* 1999 — post-charter single-author survey + medieval case.)*
+
+- **Periodization:** second-wave origins (androcentrism critique, equality, visibility) → third-wave aims (difference, pluralism, embodiment, queer theory); not all gender archaeology is feminist, but the fields evolved **symbiotically**.
+- **Traditions:** Americanist gender archaeology more anthropological/processual (labour, prestige, [[sexual-division-of-labor]]); European streams more identity/cultural construction (Moore & Scott 1997 lineage).
+- **Method:** multi-source evidence (spatial + iconographic + environmental + analogic); [[gender-attribution]] vies with technology-relations and representation approaches; pluralism **without** relativism (Wylie-aligned).
+- **Concepts stabilized:** [[androcentrism]]; gender as cultural interpretation of sexual difference (mutable, cumulative); [[gender-lifecourse]]; queer archaeology as disruption not “gay visibility.”
+- **Empirical densification:** [[contested-garden|medieval English castle]] case — seclusion, gardens, *hortus conclusus*, seclusion-as-prestige; artefact room-sexing fails.
+- **Coda lesson:** “gender never stands still”; no single template for how to do gender archaeology.
+- **Further reading canon (as of 1999):** Conkey & Spector 1984; Gero & Conkey 1991; Moore & Scott 1997; sparse masculinity bibliography in archaeology proper.
 
 ## Densified from Johnson (2011) Secondary Account
 

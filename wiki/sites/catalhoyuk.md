@@ -3,18 +3,18 @@ title: "Çatalhöyük"
 site_type: settlement
 modern_country: "Turkey"
 coordinates: "approx. 37.67 N, 32.83 E (Konya Plain)"
-date_earliest: "c. 7400 BCE (Neolithic East Mound occupation; approximate)"
-date_latest: "c. 6000 BCE (main Neolithic sequence; West Mound and later use exist)"
+date_earliest: "c. 7100 cal BCE (East Mound start; as of Bayliss et al. / Hodder ed. 2022 Bayesian framing)"
+date_latest: "c. 5950 cal BCE East main sequence end; West Mound to c. 5600 BCE (as of Orton et al. 2018 / Hodder ed. 2022)"
 date_precision: approximate
-dating_methods: ["radiocarbon", "stratigraphy", "artefact sequence"]
+dating_methods: ["radiocarbon", "Bayesian modelling (OxCal; Bayliss et al. 2022)", "stratigraphy", "artefact sequence"]
 periods_of_occupation: [neolithic]
 region: [anatolia, near-east]
 cultures: ["[[unknown]]"]
 excavated_by: ["[[mellaart-james|James Mellaart]] (1961–1965)", "[[hodder-ian|Ian Hodder]] (Çatalhöyük Research Project, from 1993)"]
-excavation_years: ["1961–1965 (Mellaart)", "1993– (Hodder project; multi-phase)"]
-key_finds: ["dense agglomerated Neolithic settlement (East and West mounds)", "painted buildings and installations", "sub-floor burials", "figurines", "obsidian and ground-stone industries", "Mellaart shrine type-series and goddess/bull imagery (1961–65; reanalyzed)", "Building 1 (North Area) as Hodder 1999 reasoning case", "clay/plaster/brick entanglement sequences (Hodder 2012)", "Level VII cooking pottery shift; face pot; West Mound decorated pottery"]
-sources_ingested: 7
-last_updated: 2026-07-10
+excavation_years: ["1961–1965 (Mellaart)", "1993–2017 main CRP under Hodder; analysis/publication ongoing"]
+key_finds: ["dense agglomerated Neolithic settlement (East and West mounds)", "painted buildings and installations", "sub-floor burials", "figurines", "obsidian and ground-stone industries", "Mellaart shrine type-series and goddess/bull imagery (1961–65; reanalyzed)", "Building 1 (North Area) as Hodder 1999 reasoning case", "clay/plaster/brick entanglement sequences (Hodder 2012)", "Level VII cooking pottery shift; face pot; West Mound decorated pottery", "Bayesian North timescape (Bayliss et al. 2022)", "history houses (e.g. B.77, B.131)", "GDN late/final sequence (Barański)"]
+sources_ingested: 12
+last_updated: 2026-07-15
 tags: [site, neolithic, anatolia]
 ---
 
@@ -131,3 +131,67 @@ Roberts uses Çatalhöyük (occupied c. 9000–8200 Cal. yr BP) as a case study 
 - **SE European Neolithic source (Pinhasi & Pluciennik, as of Bellwood 2005):** One position holds SE European Neolithic drawn from **central Anatolian** Neolithic (Çatalhöyük) more than from a single Levantine donor stream — more geographically precise than genetics alone at that date.
 
 Site ≠ people ≠ language ≠ genes. Source: [[bellwood-first-farmers-2005]].
+
+## Nissen densification (1988)
+
+*(Attributed — [[nissen-hans-j|Hans J. Nissen]], *[[nissen-early-history-ancient-near-east-1988]]* 1988, Ch. 2; synthesis of Mellaart-era exposures as of the mid-1980s, not Hodder-project reanalysis. Past tense of documentation.)*
+
+As of Nissen 1988, excavations had uncovered about **440 m²** of densely built houses of standard size and pattern packed on an incline, with **no paths, ground-level doors, or inter-unit doors** — access and communication via **flat roofs**. From the lack of significant differences in house size/structure and the absence of communal facilities, he argued for a **socially undifferentiated community** on architectural grounds — but stressed that only about **one-eighth** of the settlement had been excavated. **Grave finds** pointed the other way: numerous multiple under-floor secondary burials after presumed exposure, with beads/stone tools rare in those deposits, versus a few burials with opulent goods (stone/wooden vessels, makeup utensils, bone belt buckles, exquisite obsidian/flint tools). He treated the contrast as clear evidence of **social differences**, yet the houses containing rich graves did not differ from the others. Rooms with bulls’ skulls/horns on walls, shelves, and “altars” might indicate a bull cult or totem animals; any cult rooms connected directly to living quarters — **no freestanding temple prototypes**. With [[jericho|Jericho]], he classed Çatalhöyük as a special early “town”-like extreme of density and stratification **not** on the main path to higher political organization via multi-tier settlement systems. Site ≠ people ≠ language ≠ genes. Source: [[nissen-early-history-ancient-near-east-1988]].
+
+## Renfrew *Figuring It Out* (2003) — material-symbolic illustration
+
+*(Attributed — Renfrew 2003, citing Mellaart-era synthesis.)* Çatalhöyük (~6500 BC in Renfrew's presentation) exemplifies early sedentary/farming **[[material-engagement]]**: mud-brick architecture, cereals and herds, later pottery, obsidian, textiles, plaster reliefs/paintings, figurines. Renfrew stresses that **sedentism preceded farming** in the Near East and that deity images/plastered skulls (also Ain Ghazal) are products of constitutive material symbolism, not mere reflections of prior theology. Secondary sketch only — not a substitute for Hodder-era site literature already in the vault.
+
+## Hodder *Leopard's Tale* densification (2006)
+
+*(Attributed throughout — [[hodder-ian|Ian Hodder]], *[[hodder-leopards-tale-2006|Çatalhöyük: The Leopard's Tale]]* 2006; on-disk source is the Yapı Kredi Turkish translation. Mid-project synthesis; absolute dates are mid-2000s framing and are **superseded for precision** by Bayesian results in *[[hodder-catalhoyuk-excavations-2009-2017|Excavations 2009–2017]]* 2022.)*
+
+### The leopard puzzle
+
+Hodder organises the book around a contrast: large wild cats (esp. leopards) dominate figurative art and installations, yet large-cat bones were essentially absent from the excavated faunal sample as of the mid-2000s (~24,000+ identified bones vs zero large-felid bones in the table he cites). He canvasses disposal, off-site processing, and taboo scenarios — combinations are likely; the puzzle is used as a wedge into wild/domestic, death/house, north-platform “clean” vs south-oven “dirty” spatial dualisms. A coda reports a later **leopard claw pendant** find that reinforces rarity without dissolving the taboo framing (attributed).
+
+### Settlement as “kasaba” / social geography
+
+Against pure “village” or pure “town” labels, Hodder argues agglomeration, neighbourhood clusters, dual-half layouts, and roof-street circulation produce a dense social geography without clear elite precincts. Mellaart’s “priestly quarter” is rejected: surface survey, geophysics, and excavation find houses and middens repeating across the mound (this line continues into the 2009–17 research design). Household production, sheep-centred economy, and long-distance obsidian remain key.
+
+### House, history-making, shrine debate
+
+Standard house: roof entry, platforms, hearth/oven south, sub-floor burial, plaster cycles. **“History houses”** accumulate more burials and installations; retrieval pits and plastered skulls (e.g. Building 42 find) are central to ancestor-focused practice. On [[catalhoyuk-shrine-house-debate]]: elaborately decorated buildings show domestic/craft residues; Mellaart’s shrine dualism is treated as etic over-partitioning (Position B strengthened). Mother-goddess primacy is challenged with sex-isotope similarity, age over sex in mortuary patterning, and re-readings of figurines (bear/animal rather than exclusively goddess) — **positions**, not wiki-voice.
+
+### Production, materiality, personhood, change
+
+Storage, “keeping-while-giving,” feasts, and hide/reveal cycles organise power more than surplus accumulation (attributed). Art is practice-bound and entangled with materials; upper levels see more portable art and clearer sex marking after Level VIA house independence (trend claim as of 2006). Domestication is framed as **entanglement intensification** rather than a single origin event — cross-link [[entanglement-theory]], [[domestication]].
+
+## Hodder ed. *Excavations 2009–2017* densification (2022)
+
+*(Attributed — [[hodder-ian|Ian Hodder]] (ed.), *[[hodder-catalhoyuk-excavations-2009-2017|Çatalhöyük Excavations: The 2009–2017 Seasons]]* , BIAA/CRP 12, 2022. Multi-author; Bayesian chronology **as of Bayliss et al. 2022**.)*
+
+### Project phase and research aims
+
+Fourth excavation phase (2009–2017) plus analysis/publication shifted from individual-house focus toward **social geography through time**, middle levels (South M–O / Mellaart VII–VI), and contiguous North Area buildings (North G). Conservation, UNESCO (2012), and display shelters constrained partial excavation of many buildings (floors often left). Overarching question: situate elaborate symbolism in environmental, economic, and social context; additional funded programmes on religion, cognition, and Girardian violence/sacred (published separately 2019–2020).
+
+### Chronology (as of Bayliss et al. 2022)
+
+- East Mound main sequence framed **~7100–5950 cal BC**; West to **~5600 BCE** (with Orton et al. 2018).
+- **North Area preferred model** (`Catal_North.oxcal`): overall start **6695–6650** · end **6470–6400 cal BC** · use **195–275 years** (posterior HPDs as published).
+- Building-level anchors include B.132 early North thorough dig ~**6650 cal BC** frame; B.77 fire **6555–6495 cal BC**; B.1 start revised later than 2014 IntCal20 framing.
+- Major occupational **gaps** between some stacks (e.g. tens to >100 years between certain buildings); levels ≠ absolute contemporaneity.
+- GDN/late-final Bayesian narrative extends late East sequence toward **~6015–5890 cal BC** end frame (as of GDN model).
+- Method note: Neolithic bone collagen alkali-step failures drive strict exclusion rules at Poznań lab.
+
+### Methods and settlement pattern
+
+Unit → feature → space → building hierarchy; priority tours, diaries, multivocal database (continues 1999 reflexive programme — [[interpretation-at-the-trowels-edge]], [[reflexive-fieldwork]]). Geophysics (magnetometer + GPR/STREAM) maps dense occupation and open/track features beyond shelters. South Area phasing revises Mellaart height-stacking; South O burning cluster (B.76/79/80); open-space breaks and return of houses in later South letters.
+
+### House variability and “history houses”
+
+North and South catalogues document a continuum from short-lived small buildings to multi-phase **history houses** with many burials, horned installations, and fire-endings (e.g. B.52, B.77 with ≥39 burials, B.131 MNI ~41, B.102 “rich” production space). Burning may be intentional or accidental by building — keep as positions. Size does not equal elaboration (B.132). External “midden” spaces reinterpreted with retention walls and long-lived open areas. GDN Area (Barański) integrates late/final buildings and collapses some TP level labels into fewer architectural shells.
+
+### Social differentiation
+
+CRP synthesis continues to stress **limited economic dualism**: variation in burial richness, art, and house duration without clear priestly elite quarter. Post-**~6500 cal BC** dispersal and West Mound overlap mark major organisational shift (Hodder Ch.1 summary).
+
+## Matthews densification (2003)
+
+*(Attributed — [[matthews-archaeology-mesopotamia-2003|Matthews 2003]], using Çatalhöyük as his exemplar excavation project.)* Matthews highlights **micromorphology** — intact blocks of deposit (e.g., floor-plaster sequences) resin-impregnated and thin-sectioned — as showcased at the site, revealing food-preparation, trampling, and burning traces invisible to the naked eye (W. Matthews et al. 1997). He frames Hodder's claim to a **post-processual "reflexive methodology"** as itself contested: critics (Hassan 1997; Gamble 2001; Lucas 2001b) argue the project's field techniques and recording mechanics remain rooted in processual practice, a live methodological dispute Hodder answered in Hodder 1998. Bleda During's study of house access found a shift over time from neighbourhood-scale social units (with shrines) toward individual-building units — a "detachment of history via locality and buildings" (During 2001: 16) — while Ian Hodder and Peter Forest's structuralist readings interpret the art/symbolism as encoding oppositions (male/female, wild/domestic, life/death), sparked by what Hodder called "the violence of this imagery" (Hodder 1990: 4). Regional survey (Baird 1996) found a bimodal Konya-plain settlement pattern: one very large site (Çatalhöyük) ringed by several much smaller contemporaries.
+

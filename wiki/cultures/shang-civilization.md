@@ -15,8 +15,8 @@ preceded_by: ["Longshan early complex societies (~3000–1900 BCE)", "Erlitou cu
 succeeded_by: ["Zhou dynasty (from 1046 BCE)"]
 language_affiliation: "early Chinese writing (oracle bones); not equated with a single genetic population"
 genetic_signature: "[[unknown]] — not equated with archaeological/dynastic construct"
-sources_ingested: 5
-last_updated: 2026-07-10
+sources_ingested: 7
+last_updated: 2026-07-15
 tags: [culture, bronze-age, china]
 ---
 
@@ -88,6 +88,44 @@ Elman Service (1975) held Shang culture to be autochthonous North China developm
 
 [[trigger-bruce-g|Trigger]] (*[[trigger-understanding-early-civilizations-2003|UEC]]*) includes Shang China among seven early civilizations; oracle-bone writing after ~1200 BCE; hand-plough millet agriculture at moderate intensity in his ranking; territorial leanings in the political typology; ancestor-focused kingship and Qiang-related sacrifice notes in the religious chapters. Specialist Chinese archaeology after 2001 revises extent and urbanism. Study: [[trigger-understanding-early-civilizations-study]].
 
+### Chang — *Shang Civilization* (1980, attributed)
+
+[[chang-kwang-chih|K. C. Chang]] (*[[chang-shang-civilization-1980|Shang Civilization]]*, Yale UP,
+1980) remains the major English-language **social reconstruction** of Shang as a working system,
+organized through "Five Doors" (traditional texts, bronze studies, [[oracle-bone-inscription|oracle
+bones]], field archaeology, theoretical models). Load-bearing attributed claims:
+
+- **Name and scope.** Shang is first the ancestral capital name, then the royal house, the state,
+  the period, and by extension the civilization shared with contemporary polities — terms Chang
+  flags as "tricky."
+- **An-yang as reconstructed capital core.** P'an Keng moved the capital to Yin; Hsiao-t'un
+  palace-temple complex and Hsi-pei-kang royal cemetery form the ceremonial-administrative heart of
+  a multi-nodal urban network (not a single walled mega-city). See [[anyang]].
+- ***Tsu* / *yi* political anatomy.** Lineage (*[[tsu-lineage|tsu]]*) and town (*yi*) are the paired
+  units of rule; the king stands atop a stratified network disposing of North China resources
+  (climate, millet agriculture, pig/cattle/dog, copper and tin, cowries, jade).
+- **Military and sacrifice scale.** Oracle records of campaigns with thousands of troops and large
+  prisoner hauls; archaeological human sacrifice (hundreds at single house foundations; 164 in a
+  single Hsi-pei-kang tomb; Ch'iang captives for ancestral rites) — recorded as attributed findings
+  from Chang's synthesis of reports, not wiki-voice population rates.
+- **State network and *fang*.** Interior capital officers vs exterior lords and [[fang-polity|*fang*]]
+  polities; centripetal flow of tribute, captives, and craft products; Keightley-style place-name
+  "state scores" summarized as method, not as proven borders.
+- **Cheng-chou / Erh-li-kang as earlier capital form.** [[zhengzhou|Cheng-chou]] hang-t'u city and
+  [[erligang-culture|Erh-li-kang]] phases as ancestral to the Anyang capital pattern; Chang treats
+  [[erlitou-culture|Erlitou]] as **not** Shang (see [[erlitou-xia-dynasty-debate]]).
+- **Chronology (as of 1980).** Traditional 1766–1122 BCE flagged problematic; Chang's working round
+  figures — Shang development before ~1700 BCE, Anyang move by ~1300 BCE, fall ~1100 BCE — rest on
+  sparse radiocarbon and eclipse arguments, **superseded** by later calibrated multi-regional work
+  ([[liu-chen-archaeology-of-china-2012|Liu & Chen 2012]]).
+- **Comparative epilogue.** Shang contributes an independent Old World case for urban-society
+  comparison (contra Adams's Mesopotamia–Mesoamerica pair); civilization as inequitable surplus
+  reshuffling among multi-state networks (Chang's attributed "laws").
+
+**Caveat:** 1980 synthesis from published reports and epigraphy; absolute dates and monocentric
+undertones revised by later work, while institutional (*tsu*/*yi*/*fang*) and urban-network
+insights remain widely cited. (Source: [[chang-shang-civilization-1980]].)
+
 ### Chang — Shang as autochthonous North China development (1963, attributed)
 
 [[chang-kwang-chih|K. C. Chang]] (*[[chang-archaeology-ancient-china-1963|The Archaeology of
@@ -150,3 +188,42 @@ sites. Oracle-bone and bronze inscriptions at Yinxu mark **the inception of writ
 records in China** and are the first direct textual anchor for a Chinese dynasty; mortuary data show
 at least six social classes (the [[anyang|Fuhao tomb]] holding 1,928 grave goods including 468
 bronzes). (Source: [[liu-chen-archaeology-of-china-2012]]; see also [[state-formation]].)
+
+### Shelach-Lavi — tripartite chronology, sacrifice as legitimation, and a bordered-vs-networked territory (2015, attributed)
+
+[[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi (2015)]] adopts a **tripartite Shang
+chronology**: Early Shang / Erligang (c. 1600–1400 BCE; Zhengzhou, Yanshi, Panlongcheng), Middle
+Shang (c. 1400–1300 BCE; Huanbei), and Late Shang (c. 1300–1050 BCE; [[anyang|Yinxu]] and the
+oracle-bone corpus) — broadly consonant with Liu & Chen's cycle model above but keyed to the
+Xia-Shang-Zhou Chronology Project's fixed end-date of 1046 BCE for the Zhou conquest at Muye
+(Shelach-Lavi uses the rounder working range 1600–1050 BCE).
+
+On **religion and kingship**, Shelach-Lavi contests K. C. Chang's shamanism thesis (Chang 1983,
+1989 — that Shang royal legitimacy derived from a shamanic mediating role, read into taotie and
+other bronze motifs, and that shamanism distinguished Chinese from Mesopotamian/Egyptian state
+formation), a thesis Robert Bagley (1990) had already challenged as unevidenced. Shelach-Lavi
+argues a close reading of oracle-bone inscriptions shows a formalistic, bureaucratic ritual
+process — meticulous documentation, repetition, post-facto verification — rather than an
+ecstatic/trance-based one; state-level Shang religion was ceremonial and administrative even as
+folk shamanism persisted more broadly in Chinese culture. He interprets **large-scale human
+sacrifice** as a legitimation mechanism specifically suited to a kingship that was not yet
+institutionalized: because royal authority rested on personal charisma rather than office,
+repeated public killing visibly demonstrated the king's power over life and death, a practice he
+links to the later decline in sacrifice frequency/scale as Zhou kingship became more
+institutionalized (Shelach-Lavi 2015, citing his own Shelach 1996).
+
+On **territory**, Shelach-Lavi joins Chang (1980, "a network of towns") and Keightley (1978–80,
+Shang territory as "Gruyère cheese...full of non-Shang holes") in arguing against any bordered
+"territorial state" model, in favor of a **concentric, non-bordered zones** reading built from
+oracle-bone evidence: a directly controlled center, the "Four Lands" (*si tu*) of allies and
+potential allies, and the *fang* lands of enemies beyond. He explicitly disputes Liu & Chen's
+(2003) reading of Late Shang as a weakened remnant of a more centralized Early Shang system,
+arguing the archaeological evidence does not support it — a live disagreement between the two
+attributed accounts on this page.
+
+Shelach-Lavi also states the **four-way non-identity caution explicitly**: writing, ancestor
+communication, and public worship together justify treating Shang as the first clearly
+identifiable "Chinese" culture in a retrospective sense, but Shang-period people had no
+self-conception of a unified "Chinese" ethnos comparable to the later Eastern Zhou "Huaxia"
+identity — the archaeological/textual continuity should not be read back as a self-conscious
+ethnic identity.

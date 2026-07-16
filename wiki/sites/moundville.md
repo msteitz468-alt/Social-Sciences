@@ -13,8 +13,8 @@ cultures: ["[[mississippian-culture]]"]
 excavated_by: ["Peebles and later programs; synthesis as of Milner 2021"]
 excavation_years: ["[[unknown]]"]
 key_finds: ["platform mounds around plaza", "ranked mortuary assemblages"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, eastern-north-america, mississippian]
 ---
 
@@ -39,3 +39,10 @@ Mississippian **mound-and-plaza** center with strong evidence of **ranked burial
 ## Key Debates
 
 Degree of political centralization; urban vs vacant ceremonial models; SECC iconography and exchange.
+
+## Pauketat 2007 additions
+
+*(Attributed — [[pauketat-chiefdoms-delusions-2007]].)*
+
+- **Sequence (facts, per Knight & Steponaitis 1998):** small two-pyramid Moundville I center founded a couple of decades after A.D. 1100 (contemporaries: Lubbub Creek, Bessemer, Shiloh); ~A.D. 1225 an expansive redesign superimposed **at least 29 pyramids** around a plaza up to 20 ha, the layout "deliberately arranged… to evoke and reinforce key social distinctions" (fixing kin-group rank; paramountcy "transcending a reciprocal dual organization"); one of the longest bastioned palisades in the pre-Columbian Southeast, enclosing ~75 ha, rebuilt at least six times in the 13th century. Steponaitis's maximum on-site population: **~1,000**; after 1225 most people lived in dispersed farmsteads — and were healthier than their ancestors (Powell). After ~1400 the capital decentralized into a necropolis and elite icons were "communalized"; de Soto's army barely noticed it.
+- **[POSITION] Regional-power mechanism:** Steponaitis (1991) — prestige-goods control precluded rival centers (the Pocahontas-region analysis); contra Wilson (2005, et al. 2006); Pauketat adds a military-hegemony reading (following Hassig): fortifications as offensive enablers, indirect control tolerating semiautonomous polities like Summerville — with his explicitly presentist analogy to "early twenty-first-century American international policy" (recorded as his framing). By his comparative figures, Cahokia was 10–16× Moundville's area (see [[cahokia-population-urbanism-debate]]).

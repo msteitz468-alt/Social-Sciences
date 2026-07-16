@@ -20,8 +20,8 @@ key_finds:
   - "concentric city walls around palace"
   - "fourteenth-century altars on potsherd pavements (Garlake)"
   - "glass melting / likely primary glass manufacture (late 11th–14th c. factory evidence)"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, nigeria, yoruba, urbanism, art]
 ---
 
@@ -80,3 +80,17 @@ Source: [[connah-african-civilizations-2016]].
 - **Divine kingship and ideology.** Ruler-as-chief-priest and altar/power-object readings are attributed interpretive packages—material supports ritual centrality, not a complete political constitution from archaeology alone.
 
 All interpretive claims date-stamped **(as of Connah 2016)**; post-2016 Ife excavations and compositional studies are not incorporated here.
+
+## Oxford Handbook densification (Mitchell & Lane 2013)
+
+*(Attributed — Ogundiran in [[mitchell-lane-oxford-handbook-african-archaeology-2013]] Ch. 59; Monroe Ch. 48. **as of 2013**.)*
+
+### Classical period (AD 1000–1500)
+
+**Ile-Ife** oldest known rainforest urban centre; Classical period **AD 1000–1500**: concentric walls (inner ~7 km, outer ~15 km), potsherd pavements, ceramic-disc wall decoration. Peak 14th/15th c. est. **70,000–105,000** people. **Divine kingship ideology** most significant institutional development; elite mortuary with glass/carnelian beads, terracotta/granite/copper-alloy sculpture, occasional human sacrifice; life-size naturalistic heads. Primary **glass bead production** at Olokun grove; lost-wax brass/bronze casting partly elite-controlled. Copper alloys assumed from Sahara via Niger Bend. Forest products (ivory, pepper, kola) exchanged for Saharan/Sudanese salt, cloth, copper; possible gold supplier near Itagunmodi to Mali Empire. Model of divine kingship radiated regionally (**Benin to Sabe**).
+
+**Trade entrepôt role secondary to political/ideological nucleation from agricultural villages** (Ogundiran). Three rainforest urbanization processes: (1) millennium-long population increase and agricultural land quest; (2) towns on major trade routes; (3) convergence of sociopolitical expansion and external economic opportunities. Fragile soils, forest-clearing energy, and malaria delayed population concentrations until late 1st millennium AD.
+
+Community-building vs authority-building town goals; divine kingship + town as political centre simultaneous AD 800–1000 in Yoruba–Edo, most elaborate at Ile-Ife from 11th c. Hierarchies permeable even with kingship (royalty + lineage chieftains). Farming basis; craft specialization from later 1st millennium AD underwrote itinerant trade/markets.
+
+*Source: [[mitchell-lane-oxford-handbook-african-archaeology-2013]].*

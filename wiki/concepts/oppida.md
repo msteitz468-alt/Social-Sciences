@@ -7,9 +7,9 @@ disciplines: [archaeology]
 emic_or_etic: migrated
 operationalized_as: "Large fortified late Iron Age settlements of temperate Europe, often >10 ha continuous enclosure, with craft production, coinage, and multi-function (social/religious/economic) roles; type cases Manching, Bibracte, Závist, Stradonice"
 contested: yes
-related_concepts: ["[[urbanization]]", "[[prestige-goods-economy]]", "[[celts]]", "[[la-tene-culture]]", "[[centre-periphery]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+related_concepts: ["[[urbanization]]", "[[prestige-goods-economy]]", "[[celts]]", "[[la-tene-culture]]", "[[centre-periphery]]", "[[hillfort]]"]
+sources_ingested: 3
+last_updated: "2026-07-15"
 tags: [concept, archaeology, iron-age]
 aliases: [oppidum, oppida]
 ---
@@ -69,3 +69,42 @@ Three broad social zones in the second/first centuries BCE (Cunliffe generalizat
 - **Excavation bias:** yardstick sites (Manching) are still sparsely sampled; enclosed area and rampart mass can mislead without internal evidence.
 - **Four-way non-identity:** oppidum ≠ Celtic language community ≠ genetic population ≠ self-conscious people; Celtiberian oppida-like sites and Castro *castros* show parallel fortification without La Tène package identity.
 - **Afterlife politics:** nineteenth-century nationalist excavation (Napoleon III, Bibracte) and late-twentieth-century pan-European framing both shape which sites and questions get funded—reflexivity content on the concept itself (Cunliffe 1997).
+
+## Cunliffe 2001 — *Facing the Ocean*: Atlantic-corridor oppida as river-route nodes
+
+*(Attributed — [[cunliffe-barry|Barry Cunliffe]], [[cunliffe-facing-the-ocean-2001|Facing the Ocean]], 2001. Adds two Gaulish river-corridor cases to the "developed oppida" class defined from Cunliffe 1997 above, read through an Atlantic-façade trade lens rather than the Roman-demand-catalyst frame.)*
+
+**Bourges (Avaricum).** At a key Loire-basin crossing point, Bourges developed as an elite centre (c.540–450 BCE) with imported Attic pottery and Massaliot wine amphorae, well before the classic post-200 BCE oppida intensification (Cunliffe 2001). Caesar (*Gallic Wars* 7.13, quoted by Cunliffe) calls it "the largest and best fortified oppida in the territory of the Bituriges and one lying in an extremely fertile part of the country" before destroying it in 52 BCE and killing most of its inhabitants — an instance of a "developed oppidum" as both long-run trade node and casualty of the Gallic War (see [[celtic-migrations]] for the wider conquest narrative).
+
+**Narbo/Montlaures.** On the Aude–Garonne corridor linking the Mediterranean to the Atlantic via Toulouse and Bordeaux, the oppidum of Montlaures (identified with classical Narbo) covered roughly 18 hectares with intensive occupation from at least the 5th century BCE; a then-higher sea level allowed ocean-going ships close access, and excavation has produced Attic Black/Red Figured ware, Etruscan and Punic pottery, and western Greek wares from Emporion, indicating active use as a major Mediterranean port from the 5th to 2nd centuries BCE (Cunliffe 2001). The corridor's own coinage, *monnaies-à-la-croix*, derives from copied Greek Emporion/Rhode prototypes — see [[core-periphery]] for this system read as an Atlantic-façade core–periphery relationship.
+
+Both cases predate and sit alongside, rather than replace, the post-200 BCE Roman-demand-catalyst model above; they show river-corridor "developed oppida" already functioning as Mediterranean–Atlantic trade nodes well before the classic 2nd–1st-century BCE oppida horizon.
+
+## Cunliffe 2013 — *Britain Begins*: British *oppida* and Caesar’s definition
+
+*(Attributed — [[cunliffe-barry|Barry Cunliffe]], *[[cunliffe-britain-begins-2013|Britain Begins]]* 2013. Append-only British layer; does **not** replace the 1997 Gaulish large-oppidum synthesis above. Keep Gaulish “developed oppida” (>~10 ha craft/coin centres) distinct from British usage.)*
+
+### Caesar’s British *oppidum* (definitional finding)
+
+In the 54 BC campaign narrative, Caesar advances to Cassivellaunus’s **oppidum** near St Albans and defines a British *oppidum* as **any densely wooded place fortified with rampart and trench used as refuge from invaders** (*B Gall.* 5.21, as reported by Cunliffe). That classical usage is a **portmanteau refuge label**, not Manching- or Bibracte-scale urban typology. Cunliffe’s notes in the extraction explicitly flag British oppida as **distinct from large Gaulish urban oppida** (R7-053). Wiki practice: do not collapse British late Iron Age dyke-enclosed centres, multivallate [[hillfort]]s, and continental developed oppida into one evolutionary rung.
+
+### SE Britain on the eve of Rome (context for “oppida” talk)
+
+By c.60 BC, on Cunliffe’s account, most SE British communities were locked into social/economic networks with Gallic neighbours — the “bow-wave” before fuller Romanization (theoretical). Material markers of elite exchange and political gifting include:
+
+- **Gallo-Belgic gold coinage** for gift-exchange (not simple commerce), entering via Thames and south-coast corridors (see [[prestige-goods-economy]]).
+- **Hengistbury Head** as early-first-century BC Channel port-of-trade (Dressel 1A wine; Armorican carriers) — a maritime node, not a classic inland oppidum checklist site.
+- Limited **Belgic** settlement (Caesar: “came to raid and stayed to sow”), placed by Cunliffe late second/early first century BC on the Solent/Hampshire axis; later **Commius** flees to “his own people” and is linked to founding **Calleva** (Silchester) on the northern edge of that enclave (attributed reconstruction).
+- 54 BC politics: **Cassivellaunus** (Catuvellauni sphere) vs **Trinovantes**/Mandubracius; Caesar’s rapid strike on the St Albans-area *oppidum*; tribute and hostages rather than permanent occupation.
+
+Post-Caesar, Armorica–Hengistbury systems end; **Dressel 1B** and northern Gaul–Thames routes dominate either side of the estuary — preferential treatment for Trinovantian/Gallo-Belgic middlemen is Cunliffe’s plausible explanation (position). Dynastic politics through Cunobelin, Adminius, Tincomarus, Dubnovellaunus, and Verica show SE kingdoms using Roman friendship as an internal weapon (narrative cut mid-Verica in the R7 slice; Claudian Camulodunum etc. continue in R8/other pages).
+
+### What this page does *not* do with 2013 material
+
+- Does not invent a full catalogue of British “territorial oppida” (Camulodunum, Verulamium, Bagendon, etc.) beyond what the ingested claims carry — those names appear in classical/Camden and conquest narratives; detailed polyfocal/dyke archaeology awaits denser source layers.
+- Does not equate Irish “royal sites” (Tara, Navan, Rathcroghan, Knockaulin) with oppida; Cunliffe treats them as a separate ceremonial-nucleation tradition (“Britain has nothing to compare”) with Atlantic prestige imports (e.g. Barbary ape remains at Navan) — parallel elite centralization, not the same class.
+- Does not map [[hillfort]] abandonment (e.g. [[danebury]]’s first-century BC end) one-to-one onto oppidum origins; central-southern hillfort stress and SE coin/wine integration are related only at the scale of late pre-Roman reordering.
+
+### Identity cautions (British layer)
+
+Oppidum ≠ tribe ≠ language ≠ gene pool. Belgic ethnonyms in Roman geography are not automatic labels for every earthwork in Hampshire. Caesar’s *oppidum* word and modern archaeological “developed oppidum” are **homonyms under pressure** — always state which sense is meant. Links: [[hillfort]], [[prestige-goods-economy]], [[urbanization]], [[celticity-debate]], [[britain-invasion-continuity-debate]], source *[[cunliffe-britain-begins-2013]]*.

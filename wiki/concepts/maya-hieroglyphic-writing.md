@@ -7,9 +7,9 @@ disciplines: [archaeology, linguistic-anthropology]
 emic_or_etic: emic
 operationalized_as: "Logosyllabic script on stone, ceramics, codices; ~80% phonetic decipherment as of Coe & Houston 2015"
 contested: yes
-related_concepts: ["[[long-count]]", "[[calendar-round]]", "[[kuhul-ajaw]]", "[[emblem-glyph]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+related_concepts: ["[[long-count]]", "[[calendar-round]]", "[[kuhul-ajaw]]", "[[emblem-glyph]]", "[[maya-script-decipherment-debate]]"]
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -36,6 +36,20 @@ tags: [concept]
 ## Applications
 
 Converts mute monuments into dynastic narrative — foundation of modern [[classic-maya]] political history and the Martin–Grube “Great Game” model of hierarchical polities ([[tikal]]–[[calakmul]]).
+
+
+
+### From Coe, *Breaking the Maya Code* (2012)
+
+All claims in this subsection attributed to [[coe-breaking-the-maya-code-2012|Coe 2012]] (partisan phoneticist historiography) unless noted.
+
+**Comparative writing-system frame.** Coe opens with script typology: logophonetic/logosyllabic systems mix logograms, phonetic signs, and determinatives; sign inventories of hundreds diagnose this class (vs. pure syllabaries or alphabets). Maya belongs with Egyptian, cuneiform, and Chinese — not with pure ideography. Failed alphabetic application of Landa (Brasseur on the Troano) discredited phoneticism for nearly a century.
+
+**Historiographic arc (Coe’s periodization).** (1) Calendrical thread triumphs in the later nineteenth century under [[forstemann-ernst|Ernst Förstemann]] (Dresden: zero, vigesimal, Venus, Long Count base) and related German work; (2) [[maudslay-alfred-p|Maudslay]] corpus + Goodman head-variants and correlation; (3) “Age of Thompson” — calendrical refinement with ideographic orthodoxy ([[thompson-j-eric-s]]); (4) Knorosov 1952 logosyllabic breakthrough ([[knorosov-yuri]]); (5) Berlin Emblem Glyphs 1958 + Proskouriakoff historical method 1960; (6) Palenque Mesa Redonda and Texas workshops ([[schele-linda]], [[lounsbury-floyd]]); (7) “Young Turks” and [[stuart-david|David Stuart]] (*Ten Phonetic Syllables*, 1987) — Coe’s later estimate ~**85%** of texts readable. Full debate: [[maya-script-decipherment-debate]].
+
+**Landa as Rosetta (Coe’s thesis).** Despite generations of epigraphic denial, Coe treats the Landa “A,B,C” (once re-read as Spanish letter-names / CV syllabics) as the true key; the surviving *Relación* is an abridged ~1661 copy of a ~1566 original, published by Brasseur 1864 after the 1862 Madrid find ([[landa-diego-de]]).
+
+**Content after decipherment.** Coe stresses that readable Classic texts (with Schele–Miller *Blood of Kings* iconography) replace the peaceful calendar-priest Maya with dynasties obsessed with blood descent, capture, penitential bloodletting, and sacrifice — still elite self-presentation, not a complete social history.
 
 ## Critiques and Limitations
 

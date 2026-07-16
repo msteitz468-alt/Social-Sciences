@@ -20,8 +20,8 @@ key_finds:
   - "~165,000 stone and glass beads"
   - "lost-wax castings; smithing and chasing"
   - "equid imagery among traded/prestige motifs"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, nigeria, iron-age, metallurgy, heterarchy]
 ---
 
@@ -80,3 +80,15 @@ Source: [[connah-african-civilizations-2016]].
 - **Rich burial ≠ kingdom.** Methodological caution against reading centralized state from regalia alone—core significance of the site for comparative [[complex-society]] theory.
 
 All interpretive claims date-stamped **(as of Connah 2016)**; post-2016 re-analyses of metals, beads, and radiocarbon are not incorporated here.
+
+## Oxford Handbook densification (Mitchell & Lane 2013)
+
+*(Attributed — Ogundiran in [[mitchell-lane-oxford-handbook-african-archaeology-2013]] Ch. 59; Insoll & Shaw bead routes noted. **as of 2013**.)*
+
+### Hierarchy without urbanism
+
+Unique in West African rainforest archaeology: **institutionalized sociopolitical hierarchies without the support of an urban centre**. Three adjacent sites (Igbo Richard grave, Isaiah shrine, Jonah pit): **165,000** mostly glass beads, ivory tusks, ornate bronze sculptures/ceramics; high-ranking man seated in timber chamber with five others above. Seven radiocarbon dates **8th–11th c. AD**. Possibly Eze Nri-like priest-king (Shaw 1970; Ray 1987 via Ogundiran). Imports (beads, copper) via Niger-Benue Valley to North Africa through Niger Bend/Gao or Chad–Nubia–Nile routes; exports ivory, kola, metal. Local ritual/political privileges mobilized labour and specialist crafts.
+
+**Complexity ≠ urbanism;** long-distance trade present as **wealth source, not town generator**. Aligns with handbook cross-cutting theme: trade as intensifier/wealth channel without forcing nucleation (cf. Kissi non-urban import richness; Upemba hierarchy without IO trade).
+
+*Source: [[mitchell-lane-oxford-handbook-african-archaeology-2013]].*

@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "ascribed status markers present from birth — e.g. sumptuary goods in infant/child burials, cranial deformation of children, genealogical distance from a founding ancestor as the ordering principle; archaeologically, the replacement of communal men's houses by temples"
 contested: yes
 related_concepts: ["[[rank-society]]", "[[achievement-based-society]]", "[[chiefdom]]", "[[stratified-society]]", "[[chiefly-cycling]]", "[[ancestral-polynesian-society]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -68,3 +68,19 @@ and, as Flannery and Marcus themselves stress for [[tikopia]] and the Apa Tani, 
 of hereditary rank (ranked chiefly lines, "aristocracy without chiefs") are nearly
 invisible archaeologically. The concept inherits the general critiques of neoevolutionary
 typology (see [[band-tribe-chiefdom-model]], [[origins-of-hereditary-inequality-debate]]).
+
+## Zapotec Civilization (Marcus & Flannery 1996) — San José / Rosario rank
+
+*(Attributed — [[marcus-joyce|Marcus]] & [[flannery-kent-v|Flannery]], *[[marcus-flannery-zapotec-civilization-1996|Zapotec Civilization]]* 1996; study [[marcus-flannery-zapotec-civilization-study]].)*
+
+**San José phase emergence (~1150–850 BC).** They argue ~1200–1150 BC was a turning point and that hereditary inequality (“rank”) emerged in the Valley of Oaxaca during the San José phase. **Cranial deformation** done in infancy is treated as potential inherited high rank (tabular common for either sex; annular rare — possible external bride): “if cranial deformation reflects high rank, it must be inherited high rank.” Multiple lines of evidence (jade, sumptuary goods, infant burials, public buildings, Earth/Sky descent-group pottery restricted to males, mat motif and miniature stools as authority symbols) are required; they insist on >10 lines to demonstrate San José hereditary inequality.
+
+**Action-theory sequence to inherited asymmetry.** (1) Achieved asymmetry via exclusionary Men’s House fraternal orders and ambitious men investing surplus maize, multiple wives, finer bride-gifts; (2) ideology shift — successful leaders said not merely supported by but **descended from** supernaturals (Earth/Sky; angry forms Earthquake/Lightning on <20% of burials) — change “interest-related not strain-related,” in competition among leaders lacking heritable power; (3) hypogamous marriages integrate small villages into larger systems at cost of labor obligations. By ~700 BC, archaeology shows high-ranking women’s burials at subordinate villages, cranial deformation, jade, feast refuse, large public labor, burned temples, and named sacrificed enemies (Rosario Monument 3).
+
+**16th-c. endpoint and state gap.** Ethnohistoric Zapotec society is reconstructed as two strata kept separate by **class endogamy** (hereditary nobility headed by *coqui*/*xonaxi* vs commoners) — the genealogical gap of archaic states, not the continuous rank gradient of chiefdoms. Archaic egalitarian microband ethic and Late Archaic point-exchange egalitarianism are contrast cases within the same sequence.
+
+Cross-links: [[chiefdom]] · [[rank-society]] · [[action-theory-archaeology]] · [[san-jose-mogote]] · [[tierras-largas]] · [[origins-of-hereditary-inequality-debate]].
+
+## Blanton, Feinman, Kowalewski & Nicholas (2022) — the children's-burial caveat
+
+*(Attributed — [[blanton-ancient-oaxaca-2022|Blanton, Feinman, Kowalewski & Nicholas]], *Ancient Oaxaca: The Monte Albán State*, 2nd ed. 2022.)* The authors treat rich grave goods in San José-phase children's burials at [[san-jose-mogote|San José Mogote]] as a candidate (Marcus and Flannery 1996:105) but explicitly uncertain indicator of ascribed status by descent: citing Cannon (1989), they caution that such goods may reflect **household** rather than **individual** status — funerary display can advertise a family's standing rather than proving the deceased child's own inherited rank. See [[chiefdom]] for the fuller Blanton et al. discussion of the San José-phase evidence.

@@ -11,8 +11,8 @@ trained: ["[[unknown]]"]
 key_works: ["[[spivak-can-the-subaltern-speak-study|Can the Subaltern Speak? (1988/1999)]]", "[[morris-can-subaltern-speak-2010|Can the Subaltern Speak? Reflections (Morris ed. 2010)]]", "A Critique of Postcolonial Reason (1999)", "In Other Worlds (1987)", "Outside in the Teaching Machine (1993)", "Of Grammatology (Derrida, trans. Spivak 1976)"]
 key_concepts: ["[[subaltern]]", "[[epistemic-violence]]", "[[strategic-essentialism]]"]
 fieldwork_sites: ["[[unknown]] — not a field ethnographer; archival/theoretical practice"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, postcolonial-studies, feminist-theory, literary-studies]
 ---
 
@@ -32,6 +32,10 @@ Spivak combines deconstruction (she translated Derrida’s *Of Grammatology*, 19
 - **Sati / Bhubaneswari readings** — “White men are saving brown women from brown men”; Bhubaneswari Bhaduri’s 1926 suicide as body-as-text that fails to be received.
 - **Self-revision** — CPR 1999 judges “the subaltern cannot speak!” an inadvisable lament; retains the structural problem of muting (family, new mainstream, global financialization).
 - **[[strategic-essentialism]]** — associated in reception; Spivak vacillates (Chatterjee 2010); not the load-bearing named apparatus of the 1988 CSS text.
+
+## Applications in this vault (colonial archaeology)
+
+Archaeologist [[hall-martin|Martin Hall]] (*[[hall-archaeology-modern-world-2000|Archaeology and the Modern World]]*, 2000) applies Spivak's subaltern-voice argument to colonial material culture and archaeology, holding that the subaltern (e.g., colonized or enslaved women) affects the form of the dominant [[public-transcript]] without being directly evident within it — she is "rewritten continuously as the object of patriarchy or of imperialism" rather than simply absent from the record (attributed, Spivak 1985, quoted via Young 1990: 164, in Hall 2000). Hall also draws on Spivak's claim that "systems of colonial domination have, over and over again, fabricated representations of historical reality," representations reinforced through manipulation of the material world (attributed, Spivak 1985, as reported by Hall 2000) — used to frame Hall's readings of Cape and Chesapeake material culture as sites where subaltern presence must be inferred rather than read directly off the documentary record.
 
 ## Intellectual Genealogy
 

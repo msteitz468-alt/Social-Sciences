@@ -10,13 +10,13 @@ region: [mesoamerica]
 defined_by: mixed
 construct_status: conventional
 type_site: ["[[tikal]]", "[[calakmul]]"]
-key_sites: ["[[tikal]]", "[[calakmul]]", "[[palenque]]", "[[copan]]", "[[el-mirador]]", "[[chichen-itza]]", "[[mayapan]]", "[[kaminaljuyu]]", "[[bonampak]]", "[[san-bartolo]]", "[[quirigua]]", "[[ceren]]", "[[caracol]]", "[[yaxchilan]]", "[[piedras-negras]]", "[[dos-pilas]]", "[[naranjo]]", "[[nakbe]]", "[[uaxactun]]", "[[uxmal]]", "[[tonina]]", "[[coba]]", "[[tayasal]]"]
+key_sites: ["[[tikal]]", "[[calakmul]]", "[[palenque]]", "[[copan]]", "[[el-mirador]]", "[[chichen-itza]]", "[[mayapan]]", "[[kaminaljuyu]]", "[[bonampak]]", "[[san-bartolo]]", "[[quirigua]]", "[[ceren]]", "[[caracol]]", "[[yaxchilan]]", "[[piedras-negras]]", "[[dos-pilas]]", "[[naranjo]]", "[[nakbe]]", "[[uaxactun]]", "[[uxmal]]", "[[tonina]]", "[[coba]]", "[[tayasal]]", "[[cerros]]"]
 preceded_by: ["Preclassic Maya centers (Nakbe, [[el-mirador]], etc.)", "Formative Mesoamerican traditions including [[olmec-culture]] contacts"]
 succeeded_by: ["Postclassic Maya polities ([[mayapan]], contact-period states); continuous Mayan-speaking peoples"]
 language_affiliation: "Mayan languages (plural); Classic inscriptions in Ch'olti'an (Eastern Ch'olan) per Coe & Houston 2015 — not a single political people"
 genetic_signature: "[[unknown]] — not equated with archaeological construct"
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 7
+last_updated: 2026-07-15
 tags: [culture, classical-antiquity, mesoamerica]
 ---
 
@@ -61,7 +61,7 @@ Not a definitional criterion. Living Mayan-speaking populations continue after C
 
 ## Lifeways
 
-**Politics:** Neither Morley’s “Old Empire” nor pure equal city-states. Emblem Glyphs title [[kuhul-ajaw|k'uhul ajaw]] of named kingdoms; Martin & Grube hierarchical model — overkingship, *y-ajaw* vassalage, foreign-witnessed accessions; [[tikal]]–[[calakmul]] rivalry as organizing spine of Late Classic history.
+**Politics:** Neither Morley’s “Old Empire” nor pure equal city-states. Emblem Glyphs title [[kuhul-ajaw|k'uhul ajaw]] of named kingdoms; [[overkingship|Martin & Grube hierarchical model]] — overkingship, *y-ajaw* vassalage, foreign-witnessed accessions; [[tikal]]–[[calakmul]] rivalry as organizing spine of Late Classic history.
 
 **Ideology:** Layered cosmos; Maize God and Hero Twins mythic cycle; bloodletting; Period-Ending rites; kings as holy mediators. Ballgame ([[mesoamerican-ballgame]]) as sport, ritual, and political theatre.
 
@@ -125,3 +125,74 @@ Comprehensive reference densification from [[sharer-traxler-ancient-maya-2006|Sh
 ### Historiography addendum (S&T 2006)
 
 Edition lineage: Morley 1946/47 → Morley–Brainerd 1956 → Sharer 4th/5th → thoroughly rewritten 6th with [[traxler-loa-p|Traxler]] (2006). Decipherment milestones emphasized: [[proskouriakoff-tatiana|Proskouriakoff]] historical hypothesis; [[knorosov-yuri|Knorosov]] phonetics; Berlin Emblem Glyphs. “Peaceful Maya” early-20th-c. theory reported as overturned. Cross-check with [[coe-houston-the-maya-2015]] for mid-2010s epigraphy and drought literature; post-2006 LIDAR and paleoclimate will supersede some settlement and environmental claims.
+
+### Decipherment historiography (Coe 2012)
+
+[[coe-breaking-the-maya-code-2012|Coe’s *Breaking the Maya Code*]] narrates how logosyllabic decipherment and historical epigraphy transformed the image of Classic lowland polities: from Morley–Thompson peaceful calendar-priests to dynastic city-states recording capture, bloodletting, and royal descent (iconographically crystallized for the public in Schele & Miller’s *Blood of Kings*, 1986). Treat Coe’s periodization and character cast as attributed historiography; political and settlement detail still rest on archaeology + [[maya-hieroglyphic-writing]]. Debate page: [[maya-script-decipherment-debate]].
+
+## Densification from Martin & Grube 2008
+
+*(Attributed — [[martin-grube-chronicle-maya-kings-2008|Martin & Grube, *Chronicle of the Maya Kings and Queens*, 2nd ed. 2008]]. Primary post-decipherment dynastic political narrative; densifies rather than replaces Coe & Houston / Sharer & Traxler.)*
+
+### Political geography (Martin & Grube 2008)
+
+- **Never unified:** Classic height (authors: AD 250–909) = patchwork of **more than 60 kingdoms**, each under a [[kuhul-ajaw|holy lord]], struggling for autonomy or dominance.
+- **[[overkingship]]:** Especially successful rulers ran far-flung patronage networks; **no kingdom held permanent regional monopoly**. Hierarchy readable in possession constructions (*yajaw* “his lord,” *usajal*), foreign-supervised accessions (*ukabjiiy* “he supervised it”), warfare, and marriage — elite networks radiating from dynastic seats, not fixed territorial annexation.
+- **Twin superpowers:** [[tikal]] and [[calakmul]] (Snake / Kaanul) as implacable rivals whose competition shaped the whole Central Area; lesser overkings in every region. Late Classic epigraphy over-represents Calakmul’s 7th-c. pre-eminence relative to Early Classic Tikal influence (inscription bias).
+- **Eleven case kingdoms** treated in full: Tikal, Dos Pilas, Naranjo, Caracol, Calakmul, Yaxchilan, Piedras Negras, Palenque, Tonina, Copan, Quirigua — chosen as most influential / best documented, not a complete atlas.
+
+### Load-bearing narrative arcs (attributed)
+
+| Arc | Martin & Grube sketch (2008) |
+|---|---|
+| AD 378 *entrada* | Sihyaj K'ahk' arrives Tikal same day Chak Tok Ich'aak I dies; New Order and Yax Nuun Ahiin line; Teotihuacan-linked *ochk’in kaloomte’* ideology |
+| AD 562 star war | Tikal defeat; Snake (Sky Witness) preferred victor with Caracol role contested; century-scale Tikal hiatus |
+| 6th–7th c. Snake hegemony | Calakmul overkingship network (Dos Pilas flip; Naranjo patronage; Caracol alliance strain) |
+| AD 695 | Jasaw Chan K'awiil I of Tikal defeats Yich'aak K'ahk' of Calakmul — reverse of the Great Game |
+| Petexbatun / Lady Six Sky | Dos Pilas as Tikal exile “splinter state” under Calakmul; Lady Six Sky re-founds Naranjo dynasty |
+| SE 738 | Quirigua’s K'ahk' Tiliw beheads Copan’s Waxaklajuun Ubaah K'awiil; possible Calakmul support (Looper via M&G) |
+| Terminal Classic | Multi-causal end of public sacred kingship — see [[classic-maya-collapse-debate]] |
+
+### Method and limits (Martin & Grube)
+
+Inscriptions are primary for political concepts but elite-biased and incomplete; overkings rarely boast of possessions on their own monuments — subordination often surfaces only when later overthrown. Archaeology supplies urban scale and environmental context. Decipherment still incomplete (authors’ own caveat). All reigns and war attributions are **as of 2008** glyph consensus under the GMT correlation.
+
+### Historiography addendum
+
+*Chronicle* (2000; 2nd ed. 2008) is the accessible synthesis of the Martin–Grube hierarchical model that textbooks compress as the “Great Game.” Dedicated to [[schele-linda|Linda Schele]]. Pair with [[coe-houston-the-maya-2015]] and [[sharer-traxler-ancient-maya-2006]] for settlement, collapse paleoclimate, and handbook breadth; this source owns dynastic play-by-play.
+
+## Densification from Schele & Freidel 1990
+
+*(Attributed — [[schele-freidel-forest-of-kings-1990|Schele & Freidel, *A Forest of Kings*, 1990]]. Popular-scholarly narrative archaeology; **interpretive FLAG**. Dramatized scenes are narrative devices. Dynastic nicknames and some political models superseded by Martin & Grube 2008 / Coe & Houston 2015 — date-stamp all claims **(as of 1990)**.)*
+
+### Core program
+
+Schele & Freidel argued that lowland Maya civilization can be written as **political history of divine *ahauob*** — named kings, dated wars, dynastic strategy — using hieroglyphic monuments + iconography + excavation. They estimated kingdoms ruled by kings grew from roughly a dozen in the first century BCE to as many as sixty at eighth-century height (their count; later M&G “60+” is congruent in spirit).
+
+### Cosmology and kingship (Ch. 2)
+
+Authors’ model (THEORY): three-layered cosmos; Xibalba as ambient Otherworld (not only underworld); Wacah Chan World Tree as axis; king materializes the center through bloodletting, Vision Serpent, and period-ending rites. Architecture (temple-mountains, plazas as “forest of kings” / tree-stones) models cosmos. Ballgame and Hero Twins supply political-religious axioms. Distinct from Frazer’s [[divine-king]] type — this is emic *ahau* cosmology (see [[kuhul-ajaw]]).
+
+### Preclassic “coming of kings” (Ch. 3 — [[cerros]])
+
+At [[cerros]] (Belize), ~50 BCE, Structure 5C-2nd stucco-mask program is read as already fully formed *ahau* ideology — gods crowned as *ahauob*, living kings as their descendants/manifestations. Placed with Late Preclassic experiments at [[el-mirador]], early [[tikal]], [[uaxactun]] Group H; Cerros’s major program then reduced/abandoned while Petén polities continue.
+
+### Political narrative spine (Chs. 4–8)
+
+| Arc (1990 nicknames) | Schele & Freidel sketch |
+|---|---|
+| AD 378 | Tikal (Great-Jaguar-Paw / Smoking-Frog) war vs Uaxactun; Tlaloc-Venus war ritual; authors **reject** simple Teotihuacan military usurpation of Tikal |
+| 556–562 | Caracol Lord Water ax-war then “star-at-Tikal”; Tikal hiatus |
+| 7th c. | Calakmul (Site Q) patronage; Dos Pilas Flint-Sky-God K; Naranjo Lady Wac-Chanil-Ahau / Smoking-Squirrel revival; hierarchical “overking” politics (pre-formal [[overkingship]] model) |
+| 695 | Ah-Cacaw of Tikal defeats Calakmul’s Jaguar-Paw line (later: Jasaw Chan K'awiil / Yich'aak K'ahk') |
+| Palenque | Pacal / Chan-Bahlum succession theology; Lady Zac-Kuk and Lady Kanal-Ikal as true kings not mere regents (authors) |
+| Yaxchilan | Shield-Jaguar / Bird-Jaguar; Lady Xoc bloodletting lintels; *cahalob* secondary lords |
+| 738 | Quirigua Cauac-Sky captures/sacrifices Copan’s 18-Rabbit; Yax-Pac crisis and noble power-sharing |
+
+### North and collapse (Chs. 9–10)
+
+[[chichen-itza]]: authors reject sequential pure-Maya then pure-Toltec occupations in favor of a **unified cosmopolitan city** with literate Maya patrons using “Mexican” war imagery; *multepal* / joint-rule reading as POSITION 1990. Southern Terminal Classic: multi-strand package — demography/health, raised-field limits, aristocracy and endemic warfare, crisis of faith in divine kingship, end of public Long Count monuments — **not** a single cause (see [[classic-maya-collapse-debate]]).
+
+### Historiography addendum
+
+*Forest of Kings* is the public face of post-decipherment historical Maya archaeology between *Blood of Kings* (1986) and Martin & Grube’s chronicle (2000/2008). Use for cosmology, Cerros Preclassic kingship argument, and the style of narrative reconstruction; use M&G/C&H for updated names, overkingship formalism, and post-1990 collapse science.

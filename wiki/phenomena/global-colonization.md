@@ -7,12 +7,12 @@ date_end: ongoing
 period: [early-prehistory, late-prehistory, behavioral-modernity, mesolithic, neolithic, modern]
 region: [global, sub-saharan-africa, east-africa, near-east, europe, asia, australia, oceania, north-america, mesoamerica, andes, arctic]
 measured_by: [site distributions, first-appearance dates, lithic industries, fossils, paleoclimate proxies, later aDNA]
-driven_by: ["social and behavioral change (exaptive, as of Gamble 1994)", "ecological opportunity", "technology", "demography"]
+driven_by: ["social and behavioral change (exaptive, as of Gamble 1994; imaginative going-beyond as of Gamble 2013)", "ecological opportunity", "technology", "demography", "climate variability / bio-tidal shelves (as of Gamble 2013)"]
 produces: [near-global human distribution, regional population structure, late peopling of Americas and Oceania]
 theorized_by: ["[[gamble-clive]]", "[[clark-grahame]] (world-prehistory frame)", "[[meltzer-david]] (Americas densification)"]
 key_studies: ["[[unknown]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [phenomenon, global, archaeology]
 ---
 
@@ -61,7 +61,8 @@ Wiki-voice minimal claim only where multi-source consensus already exists on the
 | Progress / hero narrative | Range expansion is a side-plot of gifts (tools, brains) and the march to civilization | 19th–20th c. prehistory (critiqued by Gamble via Landau) |
 | Adaptive filling / inevitability | Colonization is selection-shaped design to exploit empty niches; given enough time, humans fill the earth (Quatrefages, Lyell-type views Gamble cites) | ecological–adaptive and Victorian optimist models |
 | **Exaptive colonization** | Near-global range is often an **unforeseen consequence** of social/behavioral change; purpose in ecological time without teleological progress; limits to expansion are often **internal to social life** | [[gamble-clive]] 1994; [[exaptation]] |
-| Social-scale / alliance models | Larger alliance networks and "storage" via social ties enable marginal and overseas range | Gamble ch. 8–10 (Moderns package) |
+| **Imagination / going-beyond** | Global settlement requires living apart yet staying in touch — [[kinshipping]], keeping, [[enchainment|FACE]], containers — not encephalisation lockstep | [[gamble-clive]] 2013; [[going-beyond]] |
+| Social-scale / alliance models | Larger alliance networks and "storage" via social ties enable marginal and overseas range | Gamble *Timewalkers* ch. 8–10 (Moderns package); *Settling* Terra 3–4 |
 | Corridor / climate-gated models | Ice, sea level, and biome shifts enable or block pulses | paleoclimate literature (concurrent with, not identical to, Gamble) |
 | Demographic / coastal-route models | Population growth and littoral pathways structure peopling (esp. Americas) | specialized Americas debates |
 
@@ -76,6 +77,21 @@ Links to [[world-prehistory]] as narrative frame; to species/culture constructs 
 - Whether late Pleistocene "behavioral modernity" is a package exclusive to Moderns or more mosaic (Gamble's Pioneer phase and non-exclusivity notes — attributed).
 - Adaptation vs exaptation as the right explanatory register for colonization (this page's theory table).
 - "Double standard" of purposive history after agriculture vs naturalized deep prehistory (Gamble ch. 11; links [[childe-v-gordon|Childe]]'s Neolithic Revolution legacy).
+
+## Gamble 2013 — *Settling the Earth* densify
+
+*[[gamble-settling-the-earth-2013|Settling the Earth]]* restates global colonization inside a **[[deep-human-history]]** frame and six **[[terrae|Terrae]]** (attributed, Gamble 2013; **as-of-2013** chronology, mid-aDNA):
+
+| Claim (attributed) | Notes |
+|---|---|
+| Before 50 ka ~¼ of the planet settled; remaining ¾ first occupied in ~1% of ~4 Ma of hominin evolution | Settlement timing lag vs encephalisation |
+| Terra 2 Old World: three strides; rigid bounds (no Sahul peopling; rarely >55°N); bio-tidal shelves | Moviusland northern belt |
+| Terra 3: *sapiens* only by end Pleistocene; Sahul, Siberia, Beringia/Americas — up to ~42M km² new land | [[going-beyond]], [[kinshipping]], FACE |
+| Terra 4: domestication-led island/seascape settlement (Pacific, Madagascar, Iceland, etc.) | Veneer over older Terrae |
+| Terra 5: European expansion as **reunion**, not first settlement | Little first-time land left |
+| Drivers: [[variability-selection]], tectonic trail, [[social-brain-hypothesis]]; not brain size alone | Disconnect thesis; cf. [[sapient-paradox]] |
+
+Dispersal / displacement / diaspora distinguished as population-history modes (attributed, ch. 2). Pioneer then residential two-stage process for late northern and Lateglacial pulses (attributed, chs 7–8). **All absolute dates and haplogroup stories stay attributed and date-stamped** — superseded in part by later aDNA.
 
 ## Meltzer 2009 — Americas colonization layer
 
@@ -105,3 +121,13 @@ Links to [[world-prehistory]] as narrative frame; to species/culture constructs 
 - Four-way non-identity: archaeological complexes ≠ genetic populations ≠ languages ≠ peoples. aDNA post-2009 revises many molecular timings; keep Meltzer genetics date-stamped.
 
 Links: [[peopling-of-the-americas-debate]] · [[pre-clovis]] · [[paleoindian]] · [[clovis-culture]] · [[megafaunal-extinctions]].
+
+### Tattersall — *Masters of the Planet* (2012) (light densify)
+
+*Source: [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]. **As of Tattersall 2012** — molecular routes/bottlenecks incomplete vs later aDNA; do not overwrite Reich-layer genetics.*
+
+**Body form, not brain/tools, as first-exit enabler.** Initial Eurasian dispersal ~**1.8 Ma** (or earlier) in very archaic archaeological context almost immediately after the new body form appeared in Africa — not enlarged brains or improved toolkits (Dmanisi Oldowan-like tools; small brains 600–775 cc; Java early dates 1.8–1.6 Ma jointly put early exit beyond dispute as of 2012). Ecological generalists under Pleistocene fragmentation; culture facilitating thin geographic spread may paradoxically have sped *Homo* speciation (**thesis**). *H. heidelbergensis* as first Old World–wide species from ~600 ka (African origin then spread — attributed).
+
+**Failed early modern foray vs later symbolic takeover.** Levant as African biogeographic extension; greened Sahara ~130–120 ka dual corridors; early anatomical *H. sapiens* at [[skhul]]/[[qafzeh]] with Mousterian, not permanent success; by ~60 ka Neanderthals back in charge. Rapid Old World takeover after ~60 ka awaited **symbolic** behaviour patterns: coastal Asia Minor–India–SE Asia; Australia ≥**50 ka** with ≥50-mile ocean crossing (boats/rafts + navigation); Europe ~**40 ka**; N. Siberia above Arctic Circle by ~**21 ka** — culturally enabled where “cold-adapted” Neanderthals shunned extremes. Expansion by demographic spread and intensification feedback, not deliberate expeditioneering. Bottleneck(s) ~75–60 ka (Toba ~73.5 ka scenario debated; MIS 4 cold certain) as of then molecular work.
+
+**Hominid monoculture.** When behaviorally modern humans entered Europe, archaic Neanderthals yielded; into S. Asia, late *H. erectus* disappeared; same later for Flores hobbits — world rapidly became a single-species hominid monoculture (**thesis**/reflexivity). Midcontinent Africa largely terra incognita for Paleolithic symbolic archaeology (as of 2012). Cognitively modern takeover origin: eastern African small population likely after Blombos times. Atkinson phoneme serial-founder pattern (fewer phonemes farther from Africa) reported as parallel Africa-origin signal for language — weaker than genes; synergy of biology and language in articulate modern takeover (**FINDING as reported** / thesis). See [[homo-sapiens]], [[neanderthals]], [[homo-floresiensis]], [[behavioral-modernity]], [[modern-human-origins-debate]].

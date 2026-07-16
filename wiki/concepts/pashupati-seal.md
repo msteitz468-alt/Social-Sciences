@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: iconographic identification of a single steatite seal (Mackay catalogue no. 420) via comparison to later Hindu textual/iconographic tradition
 contested: "yes"
 related_concepts: ["[[indus-religion]]", "[[gender-in-the-indus-civilization]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: "2026-07-15"
 tags: [concept]
 ---
 
@@ -155,3 +155,9 @@ Kenoyer describes the famous Mohenjo-daro seal: male deity seated yogically with
 Kenoyer’s standing rule: **precise meanings of Indus religious symbols await script decipherment**. Continuity of yogic **posture** (heels-to-groin pose correlated with *mulabandhasana*) is distinguished from continuity of **deity identity**. Buffalo-spearing scenes before seated horned figures receive later Durga analogies only as parallels, not identifications. This page therefore keeps “Pashupati” as a **conventional contested label** for a seal-and-tablet cluster, not as a wiki-voice Indus theonym.
 
 Related pages: [[indus-religion]], [[indus-script]], [[indus-script-decipherment-debate]], [[mohenjo-daro]], [[marshall-john]], [[harappan-civilization]], [[kenoyer-jonathan-mark]], [[parpola-asko]].
+
+## Wright (2010) — the rejection consolidated, and the chronological-gap critique
+
+*(Attributed to [[wright-rita-p|Rita Wright]], *The Ancient Indus* (Cambridge, 2010), Ch. 10.)* Wright surveys Marshall's (1931) four proto-Śiva criteria (yogic posture; three faces; a four-animal "Lord of Animals" entourage of elephant, tiger, rhinoceros, and water buffalo; a horned/pipal-branch headdress prefiguring Śiva's trident) and reports that Piggott (1950) and Wheeler (1968) broadly endorsed the identification, while later scholarship rejected it on several independent grounds. Doris Srinivasan (1984) found the seal's wild-animal attributes inconsistent with the historic Śiva, who is not associated with protecting wild animals. J. M. Koller (2006) added that Indus urbanism sits awkwardly against the pastoral/village character of the later tradition, that the Indus imagery emphasizes bulls and other male animals against later Hinduism's emphasis on cows, and that the seal depicts an image to be worshipped where later Hindu practice contains a strong aniconic strand — though Koller allows that yoga "may have been practiced by the Indus people." A. L. Basham (1989) judged "the evidence for any kind of continuity between this prehistoric god and Śiva... rather weak." Possehl (2003), cited by Wright, reads the seated posture more cautiously, as consistent with yoga understood as a first-millennium-BCE physical and mental discipline, and counts sixteen Indus seals depicting the same seated posture-type, of which only a few show Marshall's multi-face feature.
+
+Wright's own critique adds an explicit chronological argument: the gap between the end of the Indus Civilization (she frames the civilization's span as roughly 2600–1800 BCE in this context) and the mid-to-late first-millennium-BCE emergence of Hinduism and Buddhism exceeds 800–1,000 years, making direct religious continuity implausible absent a demonstrated mechanism of transmission — and she notes, following Collon (1995), that borrowed imagery typically changes meaning when it moves into a new cultural context. She also floats, as an explicitly speculative aside, a possible parallel between the seal's three-faced figure and the double-faced Mesopotamian vizier-deity Usmu (attendant of Enki/Ea, able to look in two directions at once) as an iconographic device for simultaneous multi-directional observation, without asserting any historical connection.

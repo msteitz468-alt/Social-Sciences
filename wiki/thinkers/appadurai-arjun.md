@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["[[appadurai-social-life-of-things-1986|The Social Life of Things]] (ed., 1986)", "[[appadurai-modernity-at-large-1996|Modernity at Large]] (1996)", "[[appadurai-fear-of-small-numbers-2006|Fear of Small Numbers]] (2006)", "Worship and Conflict Under Colonial Rule (1981)"]
 key_concepts: ["[[ethnoscape]]", "[[mediascape]]", "[[ideoscape]]", "[[imagination-as-social-practice]]", "[[deterritorialization]]", "[[production-of-locality]]", "[[culturalism]]", "[[vernacular-globalization]]", "[[regimes-of-value]]", "[[tournaments-of-value]]", "[[commoditization]]", "[[predatory-identity]]", "[[anxiety-of-incompleteness]]"]
 fieldwork_sites: ["South India / Tamil Nadu (temple study, Worship and Conflict, 1981)", "Bombay / Maharashtra (Marathi print-culture and cricket materials)"]
-sources_ingested: 2
-last_updated: 2026-07-09
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [thinker, anthropology]
 ---
 
@@ -64,6 +64,10 @@ Indian-born anthropologist (b. 1949). At the publication of *[[appadurai-social-
 
 - The sequel to *Modernity at Large*, asking why globalization since the late 1980s produced escalating rage against minorities. Core apparatus: [[predatory-identity|predatory identities]] (majoritarian identities requiring the extinction of proximate categories) and the [[anxiety-of-incompleteness]] (the small gap between numerical majority and the fantasy of a pure national ethnos as the engine of rage against small numbers) *(Appadurai)*.
 - Argues majority/minority are recent, census-made, co-constitutive categories; that liberal thought's regard for minorities began as procedural (dissent) and was displaced onto substantive cultural minorities; and that all majoritarianisms "have in them the seeds of genocide." Cases: Nazi Germany, Hindutva India (1985–2004), post-9/11 Iraq. Extends [[douglas-mary|Douglas]] on purity and Freud's [[narcissism-of-minor-differences]]. Only the title chapter is ingested — see [[appadurai-fear-of-small-numbers-2006]].
+
+### Applications in this vault (colonial/heritage archaeology, via Hall 2000)
+
+[[hall-martin|Martin Hall]] (*[[hall-archaeology-modern-world-2000|Archaeology and the Modern World]]*, 2000) uses Appadurai's concept of "cascades" (following Rosenau 1990) — global media/image circulation as turbulent action-sequences folding into local events — together with [[production-of-locality]] to frame colonial- and postcolonial-era global/local dynamics as producing identity "under conditions of anxiety, flux, and uncertainty" (attributed, Appadurai 1996: 156, 181, via Hall 2000). Hall also draws the phrase "heart of whiteness" from Appadurai (1996: 21) — describing how the global triumphalism of "late capitalism" masks internal ethnic-conflict tendencies falsely treated as exclusively characteristic of non-Western or "tribal" societies — as the title and closing argument of his own book's final chapter (attributed, Hall 2000). Hall further cites Appadurai's "culturalism" (global media and imagination as "formative dimensions in the large-scale construction of identity" and "a major political force," Appadurai 1996) in his critique of primordialist readings of the Yugoslav wars and South African heritage politics.
 
 ### Volume editorship
 

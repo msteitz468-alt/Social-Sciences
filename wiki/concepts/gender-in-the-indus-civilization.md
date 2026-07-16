@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: figurine gender-marker typology (breast/hip/beard/genitalia representation), cemetery grave-good and burial-pairing analysis
 contested: yes
 related_concepts: ["[[indus-religion]]", "[[bioarchaeology-of-the-indus]]", "[[craft-specialization]]", "[[pashupati-seal]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: "2026-07-15"
 tags: [concept, archaeology]
 ---
 
@@ -159,3 +159,11 @@ Mehrgarh/Nausharo figurines (Cat. 1–5) document red pigment in hair part (poss
 ### Limits
 
 All gender-power and matrilocal inferences are **provisional**; figurines are not transparent social mirrors; cemetery samples are class- and site-skewed; ethnographic analogies (Hindu ornament removal, *pittu*, *sindūr*) are hypothesis generators only.
+
+## Wright (2010) — dancing-girl statuettes, gendered figurine markers, and Clark's gender-variant subset
+
+*(Attributed to [[wright-rita-p|Rita Wright]], *The Ancient Indus* (Cambridge, 2010), Chs. 9–10.)* Wright records two copper-alloy female statuettes produced by lost-wax casting at Mohenjo-daro (HR-5721, 10.8 cm, hair in a coil/bun, multiple arm bangles; and DKG-1278), conventionally called "dancing girls," both nude and posed as if dancing — found respectively in a relatively small house alongside a copper elephant statuette and steatite seals. At Harappa, two comparable human statuettes were found in *public* rather than residential space (Mound F, the Great Granary area), unlike the Mohenjo-daro pattern; some scholars have doubted their authenticity as Harappan objects given their differing aesthetic, though Wright's own view is that the difference reflects local city-state stylistic variation rather than a non-Indus origin.
+
+Following Sharri Clark's (2003, 2007) figurine typology (see [[indus-religion]]), Wright reports gendered stylistic markers: female figurines show prominent breasts, fan-shaped headdresses, covered genitalia, and multiple bead strands; male figurines occasionally show curled, V-shaped, or rounded horned headdresses, nudity with articulated genitalia, and single ornaments. A very small subset of figurines shows ambiguous or combined-gender attributes — for example a bearded figure with breasts and a fan headdress (Clark 2003) — interpreted by Clark as possible androgyny or cross-dressing, and by Clark's broader reading of the sexless, hands-raised seated figurine type as communicating "shamanistic transcendence" precisely because a shaman was believed to harness both male and female sexual potential (Clark 2003:319). Wright records this as one live interpretive possibility among several, not a settled reading of Indus gender variance.
+
+**Matrilocality and dental pathology.** Wright reports Hemphill et al.'s (1991) and Kennedy's (2000) biodistance findings that R37 cemetery females at Harappa show strong genetic affinity to one another and to the earliest Cemetery H stratum's females, read as evidence of matrilocal post-marital residence, against R37 males' closer affinity to males from outside Harappa (see [[cemetery-h]] for detail). She also reports female-specific dental pathology at R37 — higher cavity incidence and canine-enamel growth-disruption lines than in males — explained via competing attributed hypotheses of preferential treatment of sons (Lukacs and Joshi 1992) or differential food-preparation and nutrient-ratio practices (Kennedy 2000:306), who characterizes the overall pattern as "similar to that encountered in other ancient farming-herding communities." Grave-good evidence at R37 shows shell/stone throat amulets and shell arm-bangles (up to fourteen on one burial) placed with female burials, and copper/bronze mirrors found in several female burials (Kenoyer 1998) — no seals or figurines appear in any R37 burial of either sex.

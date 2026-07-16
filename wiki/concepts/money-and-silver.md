@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Polanyi's three currency functions (standard of accounting / medium of exchange / means of payment), tracked across silver, barley, copper, and tin in administrative balance-sheets, loan and sale documents"
 contested: yes
 related_concepts: ["[[temple-economy]]", "[[mesopotamian-trade]]", "[[redistribution]]", "[[reciprocity]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [concept]
 ---
 
@@ -44,3 +44,23 @@ Before Postgate's synthesis, Mesopotamian economic historians often assumed a ge
 - **Functions are separable and should not be conflated.** Following Polanyi and Postgate, a commodity attested as a standard of accounting is not thereby shown to have circulated as a medium of exchange, and vice versa; the wiki should not silently promote one attested function to imply the others.
 - **The "pure redistribution" objection.** Postgate frames silver's monetary functions as evidence against treating the early Mesopotamian economy as governed solely by temple/palace redistribution (see the temple-economy debate on [[temple-economy]]) — reciprocal, redistributive, and commercial modes of exchange coexisted, and "one of the complexities of early Mesopotamian society is precisely the co-existence of these three modes and their variations" (attributed, Postgate 1994). This is Postgate's own calibrated position, not a resolved consensus.
 - **Sample and genre bias.** Most surviving quantitative price and interest data derive from institutional (temple/palace/merchant) archives and royal inscriptions, which may not represent ordinary household-level exchange; royal price proclamations are explicitly noted by Postgate as running below attested real prices.
+
+## Potts 1997 — silver sourcing, weight system, and the equivalency-vs-price debate
+
+*(Attributed — [[potts-mesopotamian-civilization-1997|Potts, Mesopotamian Civilization 1997]].)*
+
+### Silver sources and cupellation
+
+Silver (Sum. *kù*/*kù-babbar*, Akk. *kaspu*) made up roughly 8.4% of extant third-millennium metal vessels (Müller-Karpe 1990). Silver ore was rarely exploited directly; instead silver was extracted from argentiferous lead ores by smelting and cupellation. Literary texts cite Dilmun, Aratta, Elam, Marhashi, and [[meluhha|Meluhha]] as silver sources; Sargon of Akkad referenced a "Silver Mountain" in Anatolia, and later Old Assyrian sources confirm Anatolia as the premier Mesopotamian silver source (Moorey 1985).
+
+### Kudurru equivalency standards and the weight system
+
+From the early third millennium, land sales were recorded on *kudurru* stone stelae, expressing land-value equivalents in units of wool, oil, soup, copper, and silver (Krecher 1980). The standard weight system (Powell 1990) ran: 1 *še* (barleycorn) ≈ 0.04–0.05 g; 1 *gín*/shekel = 180 *še* ≈ 8.33 g; 1 *ma-na*/mina = 60 *gín* ≈ 500 g; 1 *gu(n)*/talent = 60 mina ≈ 30 kg. Ur III movable-goods transactions were overwhelmingly reckoned in silver, typically witnessed by a smith, goldsmith, jeweller, or merchant holding a balance (Wilcke 1980).
+
+### The Kassite-period gold standard
+
+During the Kassite period, gold became the dominant reckoning standard, alongside silver and lead (Müller 1982) — a shift from the silver-centered Ur III/Old Babylonian pattern described above.
+
+### Polanyi's equivalency-vs-price distinction
+
+Potts deliberately avoids the term "price" for Mesopotamian metal-commodity ratios, following the economic historian Karl Polanyi's argument that "equivalents" describe quantitative relations between goods usable for reciprocating, redistributing, or exchanging — not necessarily market exchange — whereas "price" wrongly presumes a market-exchange framing (Polanyi 1977). Potts frames this explicitly as a substantivist theoretical position, cautioning against imposing modern economistic assumptions on the Mesopotamian evidence — a stance that converges independently with Postgate's own Polanyi-derived caution against conflating silver's separable currency functions (see above).

@@ -11,8 +11,8 @@ driven_by: ["agricultural subsistence spread", "iron toolmaking spread"]
 produces: ["displacement/absorption of resident forager populations", "sex-biased admixture with Pygmy populations", "spread of Bantu languages and sickle-cell mutation"]
 theorized_by: ["[[demic-diffusion]] (Cavalli-Sforza 2000; Hiernaux)", "[[early-farming-dispersal-hypothesis]] ([[bellwood-peter|Bellwood]] 2005)"]
 key_studies: ["[[unknown]]"]
-sources_ingested: 5
-last_updated: 2026-07-10
+sources_ingested: 6
+last_updated: 2026-07-15
 tags: [phenomenon, sub-saharan-africa]
 ---
 
@@ -112,3 +112,55 @@ Bellwood treats the Bantu case as **“one of the most dramatic examples of lang
 - **Genetics (as of Barker 2006, cautious).** Microsatellite cattle-breed data suggest cattle spread south down eastern South Africa (Hanotte et al. 2002). mtDNA of 16 Bantu-speaking groups: high homogeneity, complex short-distance movements rather than single migration (Salas et al. 2002). Y-chromosome: relatively recent Bantu lineages + significant Bantu/Khoisan admixture (Cruciani et al. 2002). Jobling et al. 2004 emphasize tentative nature, limited sampling, ambiguous population/ethnic definitions (attributed).
 - **Linguistics re-read.** Attempts at tight archaeological–linguistic linkages criticized from both disciplines; Eastern Bantu crop-word stems lack spatial patterning predicted by traditional agricultural-colonist model (Philippson & Bahuchet 1996). Vansina: population explosion and aboriginal extinction not necessary to explain Bantu language spread (attributed).
 - **Ethnographic analogy and reflexivity.** Barker: kaleidoscope of recent African forager–herder–farmer relations better than one-way packages. Bantu migration theories fed South African apartheid mythologies and similar Bantu/non-Bantu dichotomies with disastrous consequences (e.g. Rwanda Tutsi/Hutu ethnicizing scholarship) — political misuse is historiographic content, not a verdict on demic models themselves (attributed). Four-way non-identity enforced: language ≠ pottery ≠ genes ≠ people. Cross-links: [[early-farming-dispersal-hypothesis]], [[animal-domestication]], [[chifumbaze-complex]], [[barker-graeme]].
+
+### de Maret & Mapunda — *Oxford Handbook of African Archaeology* (2013)
+
+*(Attributed — Pierre de Maret, Ch. 43 “Archaeologies of the Bantu Expansion,” and Bertram B. B. Mapunda, Ch. 42 “Metallurgy in Africa south of the Sahara,” in *[[mitchell-lane-oxford-handbook-african-archaeology-2013|The Oxford Handbook of African Archaeology]]* (eds. Mitchell & Lane, 2013); genetics and chronologies **as of handbook ~2012** only. **Do not overwrite** Reich/Cavalli-Sforza, Phillipson 2005, Bellwood 2005, or Barker 2006 layers above — this section densifies the archaeological–linguistic–genetic methodological frame.)*
+
+#### Four-way non-identity (load-bearing)
+
+de Maret opens by recalling that “Bantu” was coined by Bleek (1862/1869) as a **linguistic** label (from *ba-ntu*) for ~500 languages spoken by >300 million people across ~11 million km² — Africa’s largest language group — but was “soon used in a cultural sense, and then gradually also to designate an archaeological occurrence or even a race.” Handbook stance (de Maret; Mapunda; also Blench Ch. 4, MacEachern Ch. 5, Ashley Ch. 6, Sadr Ch. 44):
+
+| Evidence class | Status in Bantu research |
+|---|---|
+| **Languages** | Bantu = subset of Benue-Congo within Niger-Congo; Proto-Bantu homeland conventionally Cameroon Grassfields (Greenberg) by density of closely related non-Bantu relatives |
+| **Pots / material packages** | Urewe and related Early Iron Age ceramics (Phillipson’s [[chifumbaze-complex|Chifumbaze]] parent tradition) are **associated_with** hypothesized early Eastern Bantu-speaking communities — **not** identical to the language family |
+| **Genes** | Markers *seem to indicate* demic movement as well as linguistic/cultural change (Cruciani; Salas; Pakendorf et al. as of ~2011) — **provisional**; language≠genes |
+| **Peoples / race** | Never assert “Bantu people” as a biological race or single folk migration package |
+
+Coincidence of linguistic and archaeological frames is **not proof** that one explains the other (de Maret): packages link with `associated_with`, never silent identity.
+
+#### Proto-Bantu homeland, lexicon, and streams (de Maret)
+
+- **Homeland:** Cameroon Grassfields (Greenberg 1949–55); Bantu within Benue-Congo / Niger-Congo (as of de Maret synthesizing standard classification).
+- **Chronology:** Glottochronology (contested — flag) places dispersal in the second or first millennium BC; do not treat glottochronological absolute dates as wiki-voice.
+- **Classification limits:** Mostly lexicostatistical (Bastin et al. 1999: four main groups; West/Central vs Eastern/Southern split). Family trees mislead (no room for multiple origins, borrowing, convergence); de Maret and Vansina prefer **wave / rhizome-like** models over single trees.
+- **No metallurgy in initial Proto-Bantu:** “there is no sound linguistic evidence for knowledge of metallurgy at the initial stages of the Bantu dispersal” (de Maret & Nsuka 1977; Vansina 2006) — **contra** Guthrie 1970 iron-term reconstructions. Iron is therefore **not** part of the founding linguistic package (see also [[sub-saharan-iron-origins-debate]]).
+- **Cultural vocabulary (reconstructed, attributed):** pottery, goats, dogs, guinea fowl, palm oil, yam, plantain — **not** cereals at the Proto-Bantu stage; mixed subsistence in the Grassfields homeland is likely. Early Eastern Bantu speakers probably **acquired cereals and cattle** from other language families near the Great Lakes (Ehret 1998 via de Maret).
+- **Western vs Eastern stream models (both still hypotheses):** (1) Western Stream south along Atlantic/inland through forest to Congo estuary then upstream/east around rainforest southern edge; (2) Eastern Stream east along northern rainforest edge then south along Indian Ocean and inland. de Maret: “Thus far, it is impossible to choose between these two models” for how East Bantu ancestors reached the Great Lakes — lack of key-area data.
+
+#### West-Central SMA archaeology *associated_with* early expansion
+
+Near the homeland: Shum Laka and Mbi Crater sequences (microliths from ~32 ka; macrolithic basalt, polished tools, pottery ~7000–6000 BP; new pottery/large blades ~5000–4000 BP). Northern rainforest fringe Cameroon: large pit sites 2600–1500 BP with comb-stamped pottery, palm/Canarium nuts, polished axes/hoes; iron by ~2300 BP; banana phytoliths at Nkang ~2500 BP (SE Asian domesticate — needs more evidence per de Maret); pearl millet 2350–2100 BP and later Bambara groundnut. Similar ceramics/subsistence south to Gabon from ~2600 BP; Imbonga tradition Congo Basin ~2440–2160 BP. de Maret: this schematic sequence **may** provide the material backdrop of rainforest colonization by first Bantu speakers — but “just because linguistic data and archaeological data do not contradict each other, they do not yet explain the Bantu phenomenon.”
+
+#### Urewe / EIA ceramics and Great Lakes secondary dispersal
+
+Great Lakes generally treated as **secondary** dispersal of East Bantu languages. Dimple-Based ware (Leakey et al.), renamed **Urewe**, proposed as linked to Bantu-speaker spread and as parent style of rapidly diffusing eastern/southern ceramic traditions (Huffman; Soper; [[phillipson-david-w|Phillipson]] 1976) — the complex Phillipson later framed as [[chifumbaze-complex|Chifumbaze]]. EIA appears rather abrupt with elaborate ironworking (decorated clay-brick shaft furnaces) + Urewe ceramics; dates controversial (≥2500 BP to ~1500 BP); limited direct crop and animal-husbandry evidence. Linguistic model: Proto-Great Lakes Bantu had yams and caprines; cattle, millet, sorghum from encounters with Sudanic speakers (Ehret; Schoenbrun) — archaeology does **not** yet confirm a pioneer sedentary-agriculturalist model (de Maret).
+
+**Mapunda on iron + Bantu package:** Uncontested early metallurgy clusters include Nigeria (6th c. BC iron, Taruga), Niger/Mauritania copper, Gabon/Cameroon/Congo-Brazzaville iron 7th–2nd c. BC, Meroë, Interlacustrine mid-first millennium BC. Diffusion models that cast Bantu-speakers as iron-carriers from a West African centre near Taruga/Cameroon founder-land lack “firm material (i.e., ceramic) link” between West Africa, Nile, and sub-equatorial regions (Eggert 2005 via Mapunda). Iron + farming + language is **not** a single proven package — reinforce four-way non-identity and the open [[sub-saharan-iron-origins-debate]].
+
+#### Genetics — demic hypothesis provisional (as of ~2012)
+
+de Maret (citing Cruciani; Salas; Destro-Bisol; Tishkoff 2009; Pakendorf et al. 2011): molecular anthropology increasingly engaged, with risk of using “Bantu expansion” uncritically as the archetypal language–genes–agriculture package (cf. Diamond & Bellwood). Alleged language–genes connection remains controversial and data-gappy. Genetic markers **do seem to indicate** that expansion involved actual movement of people, not only linguistic/cultural diffusion — **if** an increasingly consistent database confirms this. Studies show cultural and physical contact with resident hunter-gatherers in Central and southern Africa, often with migrating Bantu-speaking males interbreeding with local women. Pair with MacEachern (Ch. 5): substantial demic component at some places/times, but genetics not fine-grained enough to independently locate origins (still from southern Nigeria–Cameroon border via historical linguistics); NRY/mtDNA diversity asymmetries are **not** unique to Bantu and cannot alone explain the spread (as of handbook ~2012). **Do not replace** post-2010 aDNA directionality revisions (Reich southward-first) with this ~2012 provisional layer.
+
+#### “Bantuization” — multi-process mosaic (de Maret’s synthesis)
+
+de Maret concludes the Bantu phenomenon **cannot** be accounted for by a single simplistic paradigm. Components include climatic change, complex multi-millennial population movements, admixture with previous inhabitants, and parallel interacting changes (food production, iron metallurgy, crop spreads) across ecological mosaics. Wotzka (2006) radiocarbon compilation: west→east settlement-intensity peaks and a north→south early settlement gradient broadly matching linguistic models; intensification c. 2500–1500 BP (~800 cal. BC–cal. AD 700) coincides with the driest phase of the last 12 ka. Prefer **“Bantuization”** over colonization/migration/expansion labels — partly ideological/semantic, mainly to mark multi-causal dynamism and adaptability.
+
+#### Southern Africa interface (Sadr Ch. 44 — densifies Interaction)
+
+*(Attributed — Karim Sadr, Ch. 44.)* Conventional view that livestock and pottery reached southern Africa with Bantu-speaking farmers, then spread south with Khoekhoe herders, is **refuted** for the LSA livestock/pottery horizon: southeastern Bantu livestock words of Khoe origin (Ehret 2008); southern thin-walled LSA pottery pre-dates first farmers (Sadr & Sampson 2006); AMS livestock in LSA contexts ~2–3 centuries older than earliest securely dated iron-using farmer villages south of the Zambezi. Bantu farming migrations remain archaeologically well documented further north; early southern herding is a **separate** process (infiltration/hybridization — Sadr’s position). See [[khoe-san]], [[cattle-before-crops]].
+
+#### Cross-links (handbook layer)
+
+[[mitchell-lane-oxford-handbook-african-archaeology-2013]] · [[chifumbaze-complex]] · [[sub-saharan-iron-origins-debate]] · [[phillipson-david-w]] · [[khoe-san]] · [[ancient-dna]] · [[nok-culture]] · [[hunter-gatherer]]

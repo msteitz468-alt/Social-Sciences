@@ -15,8 +15,8 @@ preceded_by: ["Lower Zaoshi culture (not yet a wiki page)"]
 succeeded_by: ["Qujialing culture (see [[shijiahe-culture]])"]
 language_affiliation: "[[unknown]] — not equated with a language/people"
 genetic_signature: "[[unknown]] — no aDNA reported (as of Liu & Chen 2012)"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [culture, neolithic, china, east-asia]
 ---
 
@@ -30,9 +30,25 @@ Daxi culture is dated ca. 5000–3300 BC and named for its type site at Daxi, Wu
 
 Daxi assemblages are predominantly ground-stone lithics with some chipped tools, and mostly red pottery, some painted, fiber- or sand-tempered; the proportion of black pottery increased over time. Elaborate white pottery is documented at Tangjiagang and at Gaomiao, Hunan. Some settlements were surrounded by moats, continuing the earlier Bashidang tradition (see [[pengtoushan-culture]]). On the Liyang Plain, Hunan, 46 Daxi-culture sites are recorded against only 17 of the preceding Lower Zaoshi culture in the same area — cited by Pei (2004) as evidence of rapid population growth.
 
+## Mortuary Evidence and the Matriarchy Question (Position)
+
+Shelach-Lavi ([[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]) reports
+130 graves excavated at the Daxi type site, oriented north–south, with the richest
+containing 30–40 grave goods. Wang Jie (1990a) argued that because female graves at
+Daxi are on average richer than male graves, Daxi was a matriarchal society. Shelach-
+Lavi disputes this reading, arguing the difference between male and female graves is
+not very pronounced, and that the evidence instead suggests a relatively egalitarian
+society without strong gender bias in status. This is recorded as a **position**
+dispute (Wang 1990a vs. Shelach-Lavi 2015), not adjudicated in wiki voice.
+
 ## Chengtoushan
 
 Chengtoushan (Lixian, Hunan) is the culture's best-documented site: first occupied ca. 4500 BC with a moat, its walled enclosure and ditches (~8 ha) were built ca. 4000 BC and rebuilt multiple times through the Daxi and subsequent Qujialing periods. The ditches connected to a river, and a wooden paddle recovered there supports water-transport use. Rice paddies with irrigation are dated to ca. 4500 BC in early Daxi deposits — one of the earliest known rice-paddy fields in China, more precisely dated to the Tangjiagang-culture phase, ca. 4600 BC, alongside 75 identifiable floral species and roughly 20 faunal species/genera (including wild elephant, water buffalo, and Large Indian Civet), indicating a well-watered, forested environment.
+
+Shelach-Lavi (2015) adds that Chengtoushan's Daxi-period cemetery, within its
+moat/wall enclosure, comprised 215 pit graves and 95 urn graves, and that kilns for
+ceramic production have been found at the site, supplementing the ritual/defensive
+reading of the enclosure below.
 
 A sacrificial altar (~200 m², clean yellow soil) was found in the eastern part of Chengtoushan's enclosure, surrounded by pits containing human skeletons, burnt clay, ash, pottery, and animal bones. Most burials lacked grave goods; the exception, Tomb M678 (an adult male), contained cinnabar, two jade ornaments, 27 pottery vessels, and a child's skull. Liu and Chen (2012) state: "The Chengtoushan people apparently practiced sophisticated ritual ceremonies, and social differentiation had probably emerged" — an attributed inference from a single site, explicitly hedged with "probably"/"may." They further suggest the walled enclosure "may have been multifunctional – used as a defensive facility as well as for flood control," again attributed rather than asserted as settled fact.
 

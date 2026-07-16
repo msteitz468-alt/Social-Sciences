@@ -3,7 +3,7 @@ title: The Transformation of the Indus Civilization, c. 1900 BCE
 dispute_type: interpretive
 disciplines: [archaeology, biological-anthropology]
 era: [contemporary]
-positions: [wheeler-invasion, possehl-indigenous-transformation, kenoyer-localization-legacy, environmental-causation-plural]
+positions: [wheeler-invasion, possehl-indigenous-transformation, kenoyer-localization-legacy, wright-uneven-transformation, shaffer-lichtenstein-continuity, environmental-causation-plural]
 key_texts: [Wheeler 1947, Lambrick, Raikes & Dales, Agrawal & Sood 1982, G. Singh 1971, Allchin & Allchin 1997, Possehl 2002, Kenoyer 1998]
 resolution_status: open
 last_updated: 2026-07-10
@@ -124,6 +124,12 @@ as a sole or sufficient cause:
 Consistent with the wiki's evidentiary standard, no river or climate factor above is
 recorded as a sole `caused_by`; each is filed, at most, as `contributed_to`, with the
 mechanism argued by its proponent stated explicitly.
+
+### Position 2c — Uneven regional transformation, and the Post-urban continuity dispute (Wright 2010)
+
+[[wright-rita-p|Wright]] (2010) converges with Possehl and Kenoyer against invasion and against a single environmental cause, but sharpens two points. First, she distinguishes **"general" causes** (civilization-wide: environmental shifts, trade disruption, invasion claims) from **"local" causes** (region- or site-specific, e.g. Mohenjo-daro's civic decay), and documents the transformation as strongly *uneven*: rapid abandonment and Jhukar-style reorganization in the Lower Indus; breakdown at Dholavira (earthquake damage, makeshift repairs, squatting) and Kuntasi/Lothal in Gujarat; but continuity in the semi-independent Sorath Harappan zone, where Rojdi was continuously occupied and rebuilt. She reads decline-period evidence — squatting in once-orderly neighbourhoods, encroachment on streets, degraded construction — partly as **political and social reorganization, even acts of defiance**, "not wholly ecological," cross-linking to her thesis (Chapter 10) that Indus cities were conceived as humanly-made "manifestations of nature," so the degradation of city plans may signal an intentional rejection of the once-integrated order. On the "massacre"/Aryan question she reaffirms Kennedy (2000): no skeletal trauma, no phenotypic discontinuity across c. 2000 BCE, no genetic signal of population replacement — "the Aryan invasion theory can be put to rest" (see [[mohenjo-daro-massacre-debate]]).
+
+Second, and distinctively, Wright **opposes the strong continuity thesis** of [[shaffer-jim|Jim Shaffer]] and Lichtenstein (1999), who trace an unbroken cultural tradition from the Post-urban through Painted Grey Ware into the "second urbanism" of the Ganges Valley (c. 800–600 BCE), reading the eastward settlement shift as ecological adjustment rather than civilizational discontinuity. Wright counters that establishing continuity requires an unbroken evidentiary chain for the traits that *define* the civilization — planned cities, technical virtuosity, standardized weights, seals and sealings, narrative imagery, and the Indus script — **all of which end in the Post-urban period**. Surviving settlements such as Rojdi persisted for centuries but in an altered form lacking every core Indus institution (no bureaucracy, writing, standardized weights, elaborated crafts, or seal iconography). She therefore withholds judgment on Indus-to-early-historic continuity pending further PGW research, and notes the discipline's unresolved PGW dating (1100–500 BCE per Possehl; 1200–800 per Kenoyer; 1700–1400 per Bisht). This Post-urban/PGW **continuity dispute** (Shaffer & Lichtenstein vs. Wright) is a distinct interpretive disagreement recorded here as a sub-position; it is attributed, not adjudicated.
 
 ## Nationalist and political stakes
 

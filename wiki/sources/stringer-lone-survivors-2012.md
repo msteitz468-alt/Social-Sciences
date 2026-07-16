@@ -7,17 +7,20 @@ disciplines: [biological-anthropology, archaeology, anthropology]
 era_coverage: [critical-turn, contemporary]
 region_coverage: [sub-saharan-africa, east-africa, north-africa, europe, near-east, east-asia, australia, global]
 methodological_approach: mixed
-reliability_notes: "1st U.S. ed., Times Books / Henry Holt, New York, 2012 (ISBN 978-0-8050-8891-5). Popular-to-specialist single-author synthesis by Natural History Museum paleoanthropologist Christopher Stringer; career-length restatement and update of Recent African Origin after ~30 years of debate. Partisan for African primary origin of modern humans while incorporating (as of 2012) early Neanderthal and Denisovan nuclear-genome admixture results — not a neutral textbook. Empirical horizon is ~2010–2012 (Green et al. Neanderthal genome; Reich et al. Denisovan; early MSA/Blombos symbolism debates); later aDNA (e.g. more Denisovan/Neanderthal structure, ancient African genomes) supersedes some gene-flow details — date-stamp claims (as of Stringer 2012). ebook-convert from Anna's Archive EPUB → plain text; body ~97.8k words / lines 143–1438 (paragraph-length lines); Sources & Suggested Reading + Index excluded from extraction. No studies/ page (synthesis/argument, not a single research act). Thinkers Hub for Stringer warranted with this second major Stringer-authored source."
+reliability_notes: "1st U.S. ed., Times Books / Henry Holt, New York, 2012 (ISBN 978-0-8050-8891-5). Popular-to-specialist single-author synthesis by Natural History Museum paleoanthropologist Christopher Stringer; career-length restatement and update of Recent African Origin after ~30 years of debate. Partisan for African primary origin of modern humans while incorporating (as of 2012) early Neanderthal and Denisovan nuclear-genome admixture results — not a neutral textbook. Empirical horizon is ~2010–2012 (Green et al. Neanderthal genome; Reich et al. Denisovan; early MSA/Blombos symbolism debates); later aDNA (e.g. more Denisovan/Neanderthal structure, ancient African genomes) supersedes some gene-flow details — date-stamp claims (as of Stringer 2012). ebook-convert from Anna's Archive EPUB → plain text; body ~97.8k words / lines 143–1438 (paragraph-length lines); Sources & Suggested Reading + Index excluded from extraction. No studies/ page (synthesis/argument, not a single research act). Thinkers Hub for Stringer warranted with this second major Stringer-authored source. **UK twin:** same continuous text first published as *The Origin of Our Species* (Allen Lane / Penguin, London, 2011) — bibliographic page [[stringer-origin-of-our-species-2011]]; do not treat the two titles as independent corroborating sources."
 study_page: ""
 pages_created: 6
 pages_updated: 28
 ingested: 2026-07-10
 tags: [source]
+aliases: ["Lone Survivors", "Origin of Our Species (US retitle)"]
 ---
 
 # Lone Survivors (Stringer, 2012)
 
 [[stringer-chris|Christopher Stringer]]'s single-author synthesis of modern human origins — fossil, archaeological, and genetic — written after three decades as a lead advocate of **[[recent-african-origin|Recent African Origin]]**. Updates and softens pure-replacement formulations in light of early nuclear aDNA (Neanderthal and Denisovan admixture, as of 2010–2012) while retaining African primary origin of **[[anatomically-modern-humans|anatomically modern humans]]**. Central to [[modern-human-origins-debate]]; densifies [[neanderthals]], [[denisovans]], [[behavioral-modernity]], and related dating/genetics methods.
+
+**Edition note:** First published in the UK as *[[stringer-origin-of-our-species-2011|The Origin of Our Species]]* (Allen Lane, 2011); this U.S. volume is the same work under a new title. Claim extraction and network densification for the pair live on this page.
 
 ## Section Plan
 

@@ -13,8 +13,8 @@ cultures: [homo-erectus]
 excavated_by: [Johan Gunnar Andersson, Otto Zdansky, Davidson Black, Pei Wenzhong, Franz Weidenreich]
 excavation_years: 1921–1937, 1949–1966
 key_finds: ["Sinanthropus pekinensis" (Peking Man) fossils of >40 individuals, Weidenreich plaster casts, ash/hearth deposits, stone tools, faunal assemblage]
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [site, late-prehistory, east-asia, china]
 ---
 
@@ -130,7 +130,44 @@ as a direct ancestor of the nation within the multiregional evolutionary model �
 reflexivity point: how nationalist stakes shaped scientific reception of a methodological
 challenge, not merely its substance.
 
+## Shelach-Lavi (2015) densification
+
+*(Attributed — [[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]; discovery
+history via J. G. Andersson (Zhoukoudian identified 1921); early Chinese Paleolithic
+scholars Li Jie, Pei Wenzhong, and Jia Lanpo; research institutionally located under the
+Institute of Vertebrate Paleontology and Paleoanthropology, IVPP.)*
+
+Shelach-Lavi gives Locality I's stratigraphy as 45 m deep, divided into seventeen layers,
+with hominin presence from layer 13; the sequence from layer 13 to layer 3 is dated ca.
+0.78–0.4 MA "(as of Shelach-Lavi 2015)," and excavation yielded roughly 100,000 stone
+artifacts and human bones/skulls of forty individuals — figures broadly consistent with the
+counts above.
+
+He records **Binford and Stone's (1986)** study of the Locality I animal-bone assemblage: a
+much larger proportion of bones bore carnivore gnaw marks than stone-tool cut marks,
+supporting scavenging over hunting; **Boaz et al. (2004)** found evidence some hominin
+remains themselves were hunted or brought to the site by carnivores, reinforcing Binford and
+Stone's conclusion — the same scavenging-vs-hunting dispute the wiki already records via
+Klein (1999), now with the specific studies attributed.
+
+On fire use, Shelach-Lavi treats the evidence as contested rather than settled: the original
+excavators (**Zhang Senshui 1985**) cited burned bones, ash, and hearths as proof of
+intentional fire use at Locality I, but later chemical and micromorphological analysis
+(**Weiner et al. 1998**) showed much of the "ash" was natural sediment, though some bones
+were genuinely burned — leaving the question open, though plausible given fire evidence
+elsewhere in Eurasia older than 0.5 MA. This is recorded as a revision of Zhang Senshui
+(1985) by Weiner et al. (1998), not a resolved fact.
+
+On the **Upper Cave (Shandingdong)**, discovered 1930 and excavated 1933–1934, Shelach-Lavi
+dates layer 4 (holding most of the artifacts and human bones) to ca. 34,000–27,000 BP
+(Norton and Gao 2008; Wang 2005) "(as of Shelach-Lavi 2015)," with perforated animal teeth,
+shells, and calcareous beads recovered, some colored with red hematite. He notes Wang's
+(2005) suggestion of intentional burial with beads as grave goods is provisional: such an
+interpretation "would represent evidence of ... novel social norms" only if confirmed by
+further systematic excavation — a hedged, single-study reading, not adopted as fact.
+
 Links: [[homo-erectus]] · [[control-of-fire]] · [[paleomagnetic-dating]] ·
 [[modern-human-origins-debate]] · [[klein-human-career-1999]] · [[klein-richard]] ·
 [[chang-kwang-chih]] · [[chang-archaeology-ancient-china-1963]] ·
-[[liu-chen-archaeology-of-china-2012]]
+[[liu-chen-archaeology-of-china-2012]] ·
+[[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]

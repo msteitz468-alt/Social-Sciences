@@ -42,6 +42,11 @@ Single source of truth (create on first hub ingest, then lock):
 ## Completed
 - [[hubs/thinkers/labov-william|William Labov]] — variationist founder; Harlem BEV; variable rules; Observer's Paradox; deficit-difference intervention (2026-07-15)
 
+### Bruce G. Trigger (1937–2006)
+- Summary: [[trigger-bruce-g]]
+- Hub: [[hubs/thinkers/trigger-bruce-g]]
+- Ethnohistorian of the Huron / historian of archaeological thought / early-civilizations comparativist; *The Children of Aataentsic* (1976), *A History of Archaeological Thought* (1989/2006), *Understanding Early Civilizations* (2003); interest-group method, data-constraint thesis (2026-07-15)
+
 ### Antonio Gramsci (1891–1937)
 - Summary: [[gramsci-antonio]]
 - Hub: [[hubs/thinkers/gramsci-antonio]]
@@ -116,6 +121,7 @@ Single source of truth (create on first hub ingest, then lock):
 | Dell Hymes | [[hubs/thinkers/hymes-dell]] | [[hymes-dell]] | ✅ complete — *Foundations in Sociolinguistics* (1974); ethnography of speaking/communication; communicative competence (*Foundations*-centered hub; Amerindian monographs pending) |
 | V. Gordon Childe | [[hubs/thinkers/childe-v-gordon]] | [[childe-v-gordon]] | ✅ complete — *Danube* (1929) + *Dawn* (6th ed. 1957/58) culture-history; *Man Makes Himself* (1936) + *What Happened in History* (1942) Revolution coining/extension; archaeological culture; *ex oriente lux*; pots-and-peoples; Neolithic/Urban Revolutions |
 | Raewyn Connell | [[hubs/thinkers/connell-raewyn]] | [[connell-raewyn]] | ✅ complete — *Gender and Power* (1987) + *Masculinities* (1995); gender-relations theory; hegemonic masculinity / emphasized femininity |
+| Barry Cunliffe | [[hubs/thinkers/cunliffe-barry]] | [[cunliffe-barry]] | ✅ complete — *Ancient Celts* (1997) + *Facing the Ocean* (2001) + *Britain Begins* (2013); Atlantic-façade program; partial-overlap Celticity; Atlantic Celtic; Danebury/Hengistbury empirical base (2026-07-15) |
 | John J. Gumperz | [[hubs/thinkers/gumperz-john-j]] | [[gumperz-john-j]] | ✅ complete — *Directions in Sociolinguistics* (ed., 1972); interactional sociolinguistics; situational/metaphorical code-switching (Hemnesberget); speech community as interpretive unit (*Directions*-centered hub; *Discourse Strategies* pending) |
 
 
@@ -137,3 +143,7 @@ Single source of truth (create on first hub ingest, then lock):
 
 
 - [[hubs/thinkers/taussig-michael|Michael T. Taussig]] (hub added 2026-07-15 with second monograph)
+
+## Recently completed
+
+- [[hubs/thinkers/leone-mark-p|Mark P. Leone]] — critical historical archaeology / Annapolis (ingested 2026-07-15)

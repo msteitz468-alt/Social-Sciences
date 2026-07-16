@@ -13,8 +13,8 @@ cultures: ["[[erlitou-culture]]", "[[erligang-culture]]"]
 excavated_by: ["Hubeisheng (Hubei Provincial Institute of Archaeology)"]
 excavation_years: "reported through Hubeisheng 2001a"
 key_finds: ["double-ringed concentric rammed-earth walls", "7.5 ha inner walled palatial town", "elite tombs with bronze vessels and crucibles", "proto-porcelain vessels", "bronze ritual vessels (he, jue, zun, tiliangyou)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, bronze-age, china, east-asia]
 ---
 
@@ -64,3 +64,19 @@ settled finding.
 
 Links: [[erlitou-culture]] · [[erligang-culture]] · [[zhengzhou]] · [[shang-civilization]] ·
 [[chinese-civilization-origins-debate]] · [[liu-chen-archaeology-of-china-2012]]
+
+## Chang — *Shang Civilization* (1980) densification
+
+*(Attributed — [[chang-shang-civilization-1980|Chang 1980]], Ch.6 on Shang archaeology south of the
+Central Plain.)*
+
+Chang includes **P'an-lung-ch'eng (Panlongcheng)** among major Erh-li-kang–phase sites of the Han
+River / Middle Yangtze zone, citing house floors, elite graves (e.g. Li-chia-tsui M2), and bronze
+vessels/motifs comparable to Cheng-chou and Hui Hsien types. In his 1980 map of Shang geographic
+expanse, southern sites including Huang-p'i / P'an-lung-ch'eng carry "very vast implications" for
+Shang history: either colonial extension of the Erh-li-kang state, interaction among peer polities
+sharing ritual bronze style, or resource-driven outposts — alternatives he leaves open rather than
+collapsing into a single bordered empire. Later work ([[liu-chen-archaeology-of-china-2012|Liu &
+Chen 2012]]) densifies local chronology, wall metrics, and the local-vs-imported bronze debate.
+
+Links: [[zhengzhou]] · [[erligang-culture]] · [[shang-civilization]] · [[chang-shang-civilization-1980]]

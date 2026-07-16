@@ -15,8 +15,8 @@ preceded_by: ["Xiaoheyan culture (ca. 3000–2200 BCE)"]
 succeeded_by: ["Upper Xiajiadian culture"]
 language_affiliation: "[[unknown]] — not equated with a language/people"
 genetic_signature: "[[unknown]] — no population-genetic study of Lower Xiajiadian skeletal samples reported in this source (as of Liu & Chen 2012)"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [culture, bronze-age, china, east-asia]
 ---
 
@@ -60,6 +60,35 @@ rather than local manufacture (as of Liu & Chen 2012).
 Centered on the western Liao River Valley (Laoha, Daling, Xiaoling Rivers), bounded south by the
 Luan River. The culture followed the sparser Xiaoheyan culture and was itself succeeded by the
 Upper Xiajiadian culture at the same type site, per the original stratigraphic sequence.
+
+In the Chifeng survey region, Lower Xiajiadian sites cover an estimated 920 ha total within
+~1,200 km², with an estimated regional population of 40,000–80,000 (density 30–60 persons/km²);
+the largest single community reached ~25 ha with an estimated population of 2,500–5,000, and
+archaeologists classify roughly 16 independent small-scale polities within the survey region (as
+of [[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]], citing Chifeng 2011) — figures
+consistent with, and considerably more granular than, the "much less integrated" characterization
+above. More than a hundred **fortified** Lower Xiajiadian sites (e.g. Sanzuodian) have been
+located in and near the Chifeng survey region, with stone walls up to 10 m wide surviving to 4 m
+in height (estimated originally ~2 m higher), sometimes double-walled with a ditch and watch
+towers (Shelach 1999; Shelach et al. 2011) — a scale of fortification investment Shelach-Lavi
+elsewhere uses to argue Lower Xiajiadian labor mobilization exceeded that of the contemporaneous
+[[erlitou-culture|Erlitou]] palace city (see [[erlitou-culture]]).
+
+The Dadianzi cemetery (Aohan Banner) contains approximately 800 graves; of 716 well-preserved
+graves, 574 held ceramic vessels (1–12 per grave) and roughly a quarter had internal wooden
+structures. Lacquer artifacts (from *Rhus verniciflua* resin, a technique associated with the
+Yangzi basin) were recovered from 38 Dadianzi graves, and 659 cowrie shells from 43 graves — their
+marine origin implying import from the south China coast or, possibly, further afield — alongside
+eleven *jue* pottery vessels nearly identical to contemporary [[erlitou-culture|Erlitou]] examples,
+cited by Shelach-Lavi as direct evidence of interregional contact between the two cultures (as of
+Shelach-Lavi 2015).
+
+Shelach-Lavi also uses this region to critique drought-induced-collapse models of Bronze Age
+sociopolitical change more broadly: he argues such models fail to account for the dramatic
+population increase documented in the Chifeng/Lower Xiajiadian area during a period that should,
+on the drought hypothesis, have been among the most adversely affected, and cautions that
+environmental stress can trigger either the growth or the collapse of social hierarchy, so an
+outcome should not be assumed a priori (Shelach-Lavi 2015).
 
 ## Lifeways
 

@@ -15,8 +15,8 @@ preceded_by: [khvalynsk-culture, sredni-stog-culture]
 succeeded_by: [corded-ware-culture, catacomb-culture]
 language_affiliation: "Anthony (2007) treats the Yamnaya horizon as the principal archaeological correlate of late (classic) Proto-Indo-European and its early dialect scatter; Reich (2018) supports a Yamnaya-related genetic vector into Europe and South Asia on independent aDNA grounds. Association, not identity — see [[steppe-hypothesis-debate]] and four-way non-identity."
 genetic_signature: "Formed from a roughly one-to-one mixture of an Armenian/Iranian-related southern population and an eastern-European-hunter-gatherer-related population; the 'third source' completing modern West Eurasian ancestry alongside Western Hunter-Gatherer and Early European Farmer ancestry (as of Reich 2018)."
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 6
+last_updated: 2026-07-15
 tags: [culture, bronze-age, steppe, eastern-europe]
 aliases: [Yamnaya, Yamna, Pit-Grave culture, Pit Grave]
 ---
@@ -122,6 +122,8 @@ The Yamnaya are `associated_with` — not identified with — the spread of [[in
 
 **Gimbutas 1991 (now ingested for Kurgan correlations).** *The Civilization of the Goddess* equates early Yamna with Kurgan Wave I and late Yamna with Wave III; uses Yamna pit-grave under barrow as the steppe mortuary signature of Indo-Europeanization. Invasion-and-hybridization framing; broad Kurgan culture label that Anthony later narrows. Primary for her Position A package on [[steppe-hypothesis-debate]]; not a substitute for Anthony’s horizon definition or Reich’s genetics.
 
+**Mallory 1989 (now primary-ingested).** *[[mallory-in-search-of-the-indo-europeans-1989|In Search of the Indo-Europeans]]* treats the **Yamnaya cultural-historical area** (Merpert’s term preferred over single “culture”; nine regional variants) as the final Eneolithic Pontic-Caspian entity putatively assignable a PIE date: major floruit ~**3600–2200 BC** (>70 radiocarbon dates as of his survey); territory Bug/Dniester west to Ural/Emba east (~3,000 km); primary foundations in [[sredni-stog-culture|Sredny Stog]] and Khvalynsk of their respective regions (immediate origins disputed). Predecessors and interaction sphere (Dnieper-Donets Neolithic; Early Eneolithic west and east) form his deep prehistory of the putative PIE zone; Pontic-Caspian Neolithic read as **native European** adopters of ceramics/livestock, not West Asian farmer colonists (argument against farming-wave IE equations). Expansions from this sphere: Afanasievo east; Usatovo and 3rd-millennium kurgans into SE Europe; cautious Corded Ware link for northern IE (“charge but not convict”). Pre-aDNA; cal BC chronology. See [[mallory-j-p]], [[steppe-hypothesis-debate]].
+
 **Anthony primary (now ingested).** *The Horse, the Wheel, and Language* (2007) is the landmark archaeological-linguistic synthesis of the Pontic-Caspian / Yamnaya case: material package, wagon and wool chronological termini for late PIE, guest-host and patron-client institutions, east–west economic split, Danube and Usatovo western contacts, and a franchising (not invasion) model of IE expansion. Pre-nuclear-aDNA: Anthony wrote before Haak/Allentoft/Reich 2015–2018 demography. Absolute chronology uses calibrated radiocarbon with Anthony’s provisional freshwater-reservoir correction for fish-eating steppe populations.
 
 **Reich on Anthony’s migration stance (as of Reich 2018).** Reich reports that prior to 2015 ancient-DNA findings Anthony was a leading proponent of Yamnaya *cultural* transformation but argued that its spread was driven by imitation and proselytization rather than mass migration. That characterization applies to Anthony’s *mechanism* emphasis (franchising, institutions, language shift under prestige) more than to a total denial of demographic movement — Anthony 2007 already describes major folk migration into the Danube and demographically real streams, while insisting western IE spread was not a coordinated military “invasion.” Post-2015 aDNA (Haak, Lazaridis, and colleagues) established large-scale genetic replacement for the Yamnaya-to-Corded-Ware transition specifically — a demographic scale Anthony’s 2007 book could not yet cite. Keep the layers distinct: Anthony supplies archaeology + linguistic chronology + institutional model; Reich supplies nuclear aDNA demography.
@@ -130,10 +132,22 @@ The Yamnaya are `associated_with` — not identified with — the spread of [[in
 
 ## Collection Coverage Note
 
-Primary Anthony (2007), Reich (2018), and Gimbutas 1991 (Kurgan I/III correlations) are now ingested. Remaining thin areas: primary kurgan excavation monographs, post-2018 aDNA refinements of lactose tolerance and steppe demography, and detailed Catacomb/Poltavka regional reports.
+Primary Mallory (1989), Anthony (2007), Reich (2018), and Gimbutas 1991 (Kurgan I/III correlations) are now ingested. Remaining thin areas: primary kurgan excavation monographs, post-2018 aDNA refinements of lactose tolerance and steppe demography, and detailed Catacomb/Poltavka regional reports.
 
 ### Sherratt densification (Pit-Grave / steppe essays)
 
 *(Attributed — [[sherratt-andrew]], *[[sherratt-economy-society-prehistoric-europe-1997]], Ch.6–7, 9, 18–19. )* Pit-Grave / steppe groups carry cart, horse, and secondary-farming features in his model; Plachidol wheel burial; Maikop–Troy–periphery interaction (Ch.18). IE chapter treats Pit-Grave networks as transmission/contact, **not** identity with a people-language. Genetic migration results (Reich 2018 layer above) post-date Sherratt — keep layers distinct.
 
 *(Attributed — [[kristiansen-larsson-rise-bronze-age-2005|Kristiansen & Larsson]] 2005.)* They group Yamna (Yamnaya) with the third-millennium tumulus/individual-burial, mobile-pastoral steppe cultures ancestral to the European Bronze Age, and situate it beside the Caucasus-centred "Circum-Pontic metallurgical province" (Chernykh) feeding Anatolia. In a Ch. 8 endnote they provisionally link Proto-Indo-European to the rise of ranked societies "most probably of the third millennium BC," archaeologically to Yamnaya/Corded Ware — flagged as their tentative reconstruction (2005, pre-aDNA), distinct from the later genetic steppe-migration case that [[kristiansen-kristian|Kristiansen]] himself went on to pursue. Culture ≠ language ≠ genes.
+
+### Whittle 1996 densification (pre-aDNA framing only)
+
+*(Attributed — [[whittle-alasdair]], *[[whittle-europe-in-the-neolithic-1996]]* 1996, Ch. 5; mid-1990s culture-history and radiocarbon; **no aDNA**. Do not read Reich/Anthony demography back into this layer.)*
+
+**Material characterisation (as of Whittle 1996):** Yamnaya (pit-grave) from roughly the Dniepr (slightly west?) to Volga–Ural (~2000 km); first sustained dry-steppe penetration; burials and short-lived camps dominate (exceptions e.g. walled Mikhaylovka); fauna cattle, sheep/goats, pigs, many horses + game; horses still mainly meat, riding better established this horizon (cheekpieces); waggons (wheels/vehicles in graves) probably **ox-drawn** not horse; arsenical bronze of Caucasian origin in the lower Dniepr; mobility via ridden horse, wheeled waggon, sheep/goats but **tethered to major river-valley bases** — not aimless nomads; descended partly from Sredny Stog/Khvalynsk.
+
+**Kurgan hypothesis rejected (position):** Successive steppe waves transforming settled societies west of the Dniepr through Balkans/Greece into a mobile patriarchal aggressive order, with grazing as motive — crude dualism (Sredny Stog/Yamnaya wholly mobile vs tells wholly sedentary). Horse percentages vary (e.g. Repin high vs Mikhaylovka low); grazing motive weak/circular; chronology reverse of expected shockwave (late Vinča/Tiszapolgár earlier; Bulgarian transition contemporary late Cucuteni–Tripolye) — changes work **eastwards** not westwards from the steppes in his reading.
+
+**Role in SE European change:** Limited steppe movement opportunistic **infill**, not initial cause of 4th-millennium tell abandonments and reconfiguration; copper source shift Balkan → Caucasus by Yamnaya mid-4th mill. as exchange reorientation (possibly with Mesopotamian urban pull) as much as intrusion; IE better as lingua franca of mobility/exchange than mass migration package. Four-way non-identity: ceramic/horizon labels ≠ languages ≠ peoples.
+
+**Historiography note:** Pre-aDNA; sits with Sherratt contact/transmission and against Gimbutas-style successive invasion as primary engine. Later Anthony horizon definition (~3300–2500 BCE) and Reich genetic steppe pulse are **separate layers** above — Whittle supplies a mid-1990s anti-kurgan, tethered-mobility, internal-SE-change-first frame only.

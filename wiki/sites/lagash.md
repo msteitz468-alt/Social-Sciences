@@ -13,8 +13,8 @@ cultures: ["[[sumerians]]"]
 excavated_by: ["French excavations (pre-WWI)"]
 excavation_years: ["pre-1914"]
 key_finds: ["Stele of the Vultures", "Gudea statues (~17, black diorite)", "E-ninnu temple-foundation cylinders"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, bronze-age, near-east, mesopotamia]
 ---
 
@@ -99,3 +99,66 @@ burden was set at two months (versus one or half a month for other provinces), "
 proportion to their wealth" — evidence of the province's continued economic importance
 after its political independence ended. (As of
 [[postgate-early-mesopotamia-1994|Postgate 1994]].)
+
+## Potts (*Mesopotamian Civilization*, 1997) — Additions
+
+*(Attributed — [[potts-mesopotamian-civilization-1997|Potts 1997]] unless noted.)*
+
+### Eanatum and Entemena's canal works and weirs
+
+Eanatum of Lagash built a canal called Lumagimdu ("Sweet as Luma") for Ningirsu,
+together with its reservoir (Cooper 1986, cited by Potts); his nephew Entemena later
+restored it, using 648,000 fired bricks and 1,840 *gur* (roughly 264,960 l) of bitumen
+(Cooper 1986:66). A structure excavated by the French at Tello is thought by some
+scholars to be a weir built by Pirigme (2117-2115 BCE), son of Ur-Ningirsu,
+commemorated in a brick inscription (Barrelet 1965, cited by Potts) — an attribution
+Potts records as a scholarly position rather than settled fact. See
+[[mesopotamia-geography]] for the wider Sumerian/Akkadian water-management
+terminology and canal-digging record this feeds.
+
+### Heimpel's challenge: the Tigris as Lagash's main water source
+
+Because Tigris water was historically hard to lift for irrigation before mechanical
+lifting devices existed, most scholars have regarded southern Mesopotamia as a "land
+of one river" (the Euphrates) rather than "land of the twin rivers." W. Heimpel (1987,
+1990) challenges this consensus, showing that in the late third millennium BCE the
+inhabitants of **Lagash considered the Tigris their main water source** — a position
+directly bearing on Thorkild Jacobsen's landmark 1960 reconstruction of the region's
+ancient watercourses, which Heimpel separately argues misidentified the channel
+flowing past Girsu, Umma, and Adab as an Euphrates branch when it was actually the
+Tigris (position; see [[mesopotamia-geography]] for the fuller "land of one river"
+debate).
+
+### Al-Hiba pottery production areas
+
+Seven distinct pottery-production areas have been identified at Al-Hiba (ancient
+Lagash), among the denser concentrations of kiln/workshop evidence documented for any
+Mesopotamian site (Potts 1997, citing site publications; cf. the roughly 500 kilns
+reported at Umm al-Hafriyat near [[nippur]] and at least ten Ubaid-period kilns at
+Tell Abada in the Hamrin, per Jasim 1989). Potts also draws on an ethnohistoric
+account from al-Hiba (Ochsenschlager 1992:52) describing traditional bitumen-caulking
+practice for boat repair — bitumen reused from old boats, heated to liquid, spread
+with wooden rollers (*sobay*) in 1-3 cm layers, then covered with wet mud for
+strength, with boats stripped and repaired annually — as a plausible ethnographic
+analogy (flagged as such, not evidence) for ancient Lagash-territory bitumen use (see
+[[mesopotamian-trade]] and [[mesopotamia-geography]] for the wider bitumen-resource
+treatment).
+
+### Pre-Sargonic ancestor-cult offering lists
+
+Pre-Sargonic Lagash offering-lists, spanning the reign of Urukagina (who deposed
+Lugalanda), document a royal ancestor cult: offerings to the dead Lugalanda; a state
+funeral for his widow Baragnamtara involving over 600 lamentation-priests/mourners;
+and ongoing support for Lugalanda's two surviving daughters. Statues of Ur-Nanshe
+(founder of the First Dynasty of Lagash; eight small, one life-size), Baragnamtara,
+Shagshag (Urukagina's wife), and Entemena and his wife stood in various temples
+(Nanshe, Baba, Nin-MAR-KI at Guabba respectively) and received ongoing food, clothing,
+and jewellery offerings after death — evidence, per Potts, that many surviving
+anthropomorphic statues from Mesopotamian excavations more plausibly represent
+dedicants than deities. Individual veneration could persist for centuries: the priest
+Dudu's personal cult (established under Entemena) continued into the Ur III period
+despite Urukagina having earlier cancelled his monthly food offerings, and a hymn to
+Ur-Nanshe was composed in the Old Babylonian period, half a millennium after his death
+(finding, [[potts-mesopotamian-civilization-1997|Potts 1997]]; see
+[[mesopotamian-religion]] for the wider cult-statue and ancestor-veneration
+treatment).

@@ -12,11 +12,11 @@ construct_status: conventional
 type_site: ["Qijiaping (Guanghe County, Gansu)"]
 key_sites: ["Huangniangniangtai", "Liuwan (Ledu, Qinghai)"]
 preceded_by: ["Lower Changshan culture", "[[yangshao-culture]] (per earlier, refuted Andersson sequence)"]
-succeeded_by: ["[[unknown]]"]
+succeeded_by: ["Siwa, Kayue, and Xindian ceramic traditions (Gansu/Qinghai; continuity argued, not identity — as of Shelach-Lavi 2015)"]
 language_affiliation: "[[unknown]] — not equated with a language/people"
 genetic_signature: "mtDNA of Qijia-affiliated skeletal samples shows close affinity to the Tianshanbeilu population and, at Liuwan, continuity with preceding Banshan/Machang physical type, Mongoloid and closest to East Asian types (as of Liu & Chen 2012, citing Gao 2009 and Pan & Han 1998)"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [culture, bronze-age, china, east-asia, central-asia]
 ---
 
@@ -79,6 +79,17 @@ metallurgy using both hammering and casting; jade/stone ritual production and co
 concentrated at sites like Huangniangniangtai. Liu & Chen note that if suttee (companion burial)
 did occur at Liuwan, the physical-type continuity data make cultural adaptation, not steppe
 population migration, the more likely explanation (attributed interpretation).
+
+Domesticated pig bones make up 70–85% of faunal assemblages at Qijia sites, read as an indicator
+of sedentary occupation rather than mobile pastoralism; Qijia sites average only 5–7 ha, with the
+largest known site around 20 ha (as of [[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]], citing Shelach 2009 and Zhongguo Shehui 2003). The Huoshaogou cemetery in
+northwest China yielded more than 200 metal objects, with about a third of graves (106 of 312)
+containing at least one bronze artifact — among the denser concentrations of early metal grave
+goods reported for the region. A survey of Guide County, Qinghai, found far more Kayue-period than
+Qijia-period sites (180 vs. 11), refuting a proposed occupational hiatus between the two; Qijia
+ceramic traditions show continuity into the successor Siwa, Kayue, and Xindian traditions of Gansu
+and Qinghai (as of Shelach-Lavi 2015) — a ceramic-continuity claim, not an equation of population
+or language across the sequence.
 
 ## Relations and Successions
 

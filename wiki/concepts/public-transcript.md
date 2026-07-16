@@ -8,7 +8,7 @@ emic_or_etic: etic
 operationalized_as: "The open, onstage interaction between subordinates and powerholders — the self-portrait of dominant elites as they would have themselves seen"
 contested: yes
 related_concepts: ["[[hidden-transcript]]", "[[infrapolitics]]", "[[impression-management]]", "[[hegemony]]", "[[legitimate-domination]]"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-15
 tags: [concept]
 ---
@@ -42,3 +42,7 @@ Used comparatively by Scott across slavery, serfdom, caste, colonial rule, and s
 ## Critiques and Limitations
 
 Positions recorded at [[hegemony-resistance-debate]]: critics argue Scott's performance reading makes genuine consent invisible by fiat, and that the thick/thin ideology distinction he attacks is more defensible than his reading allows. The concept also shares the hidden transcript's evidence problem — reading sincerity or performance off public behavior requires offstage evidence that is often unavailable.
+
+## Applications — the Byrd case (Hall 2000)
+
+[[hall-martin|Martin Hall]] (*[[hall-archaeology-modern-world-2000|Archaeology and the Modern World]]*, 2000) used William Byrd II's account of the 1728 Virginia–North Carolina boundary survey as a documentary case of a single event producing two contrasting transcripts: Byrd's public *History of the Dividing Line* presents confident, collective, patriarchal order among the surveying party, while his private, coded *Secret History of the Line* reveals rivalry, farce, and near-violence between Byrd ("Steddy") and a fellow commissioner, Fitzwilliam ("Firebrand") — Firebrand at one point seizing "a limb of our table" against Meanwell (attributed, quoting Wright 1966: 106–7, via Hall 2000). Hall treated the pairing as an archival demonstration of Scott's public/hidden transcript distinction operating within a single author's own record-keeping, rather than only across a dominant/subordinate class divide.

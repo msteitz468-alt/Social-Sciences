@@ -15,8 +15,8 @@ preceded_by: ["[[unknown]] — regional late-Pleistocene microlithic tradition (
 succeeded_by: ["[[yangshao-culture]] (middle Yellow River sequence)"]
 language_affiliation: "[[unknown]] — not equated with a language or people"
 genetic_signature: "[[unknown]] — no aDNA reported by Liu & Chen 2012; isotope/dietary data only"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [culture, neolithic, china, east-asia]
 ---
 
@@ -113,6 +113,13 @@ by Liu & Chen (2012); no such equation is asserted in the source material review
 Following the wiki's four-way non-identity rule, any future linkage of Peiligang to
 a language family or genetic population must be attributed and flagged, not asserted
 in wiki voice.
+
+Shelach-Lavi ([[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]) highlights
+the Peiligang cemetery as containing 114 excavated graves, uniformly oriented and rarely
+intercutting — described as one of the earliest formal cemeteries known in north China
+(Li 2003). He also notes Peiligang ditches were less substantial than the later
+enclosing ditches at [[yangshao-culture]] sites, consistent with Liu & Chen's broad-
+spectrum, lower-intensity settlement pattern above.
 
 ## Historiography
 

@@ -13,8 +13,8 @@ cultures: ["Late Woodland / [[coles-creek-culture]]-related lower Mississippi tr
 excavated_by: ["[[unknown]] — synthesis as of Milner 2021"]
 excavation_years: ["[[unknown]]"]
 key_finds: ["18 mounds around two plazas", "defensive embankment and ditch", "feast refuse on platforms"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, eastern-north-america]
 ---
 
@@ -37,3 +37,7 @@ Bridge from Late Woodland hierarchical centers to Mississippian plaza-and-mound 
 ## Key Debates
 
 Degree of ranking; relation to [[coles-creek-culture]]; continuity into Mississippian.
+
+## Pauketat 2007 additions
+
+*(Attributed — [[pauketat-chiefdoms-delusions-2007]].)* The "misnamed" Toltec site (Plum Bayou culture, 9th–11th centuries): ditched-and-embanked 42-ha space enclosing 18 pyramids up to 15 m, "a community that, by its size and presumably authority, eclipsed its nearest neighbors… in virtually every measure of power, wealth, and status" (Kidder 1998); rich feasting deposits at platform bases (Rolingson); ≥2 outlier settlements tied to its central economy (Nassaney 1994). [POSITION] Rolingson (2002): a "simple chiefdom" vs. Nassaney (2001): a novel corporate order with authority "subsumed by a regionwide community" through hosted public events. Abandoned in the 11th century with the whole central Arkansas valley (Plum Bayou "evaporation") — dispersal perhaps to Caddo country and north toward [[cahokia]]; Pauketat calls this abandonment the most consequential event in the Arkansas valley's sequence, and notes that before the early 12th century none of these sites "would be labeled Mississippian by archaeologists" despite centralized orders — his setup for the Cahokia-derived "X factor" argument ([[historical-processualism]]).

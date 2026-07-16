@@ -7,9 +7,9 @@ disciplines: [anthropology, archaeology]
 emic_or_etic: migrated
 operationalized_as: "Rotational labor service / ‘turn’ of work—folk reciprocal mit’a and escalated state corvée; distinct from permanent resettlement (mitmaq)"
 contested: no
-related_concepts: ["[[ayllu]]", "[[mitmaq]]", "[[reciprocity]]", "[[inca-empire]]", "ayni"]
-sources_ingested: 2
-last_updated: 2026-07-10
+related_concepts: ["[[ayllu]]", "[[mitmaq]]", "[[reciprocity]]", "[[inca-empire]]", "ayni", "[[yanakuna]]", "[[aqllakuna]]", "[[khipu]]"]
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept, andes]
 ---
 
@@ -38,3 +38,17 @@ Explains monument scale without currency; labor-levy economy of Tahuantinsuyu an
 ## Critiques and Limitations
 
 “Labor tax” is an etic gloss; indigenous categories emphasize reciprocity and obligation to huacas/rulers. Colonial sources may overstate or reshape Inca practice. Archaeological “mit’a-like” modular construction is an analogy from Inca ethnohistory—valid hypothesis-generator, not proof of identical institutions in Gallinazo or Chan Chan.
+
+### From D'Altroy 2002
+
+[[daltroy-the-incas-2002|D'Altroy (2002)]] synthesizes the imperial labor tax as the fiscal core of Tawantinsuyu, following Murra’s framing of kin-language masking extraction and La Lone’s phrase **“supply on command”** (institutional goals rather than market supply-and-demand).
+
+**Rationale and levy.** Citing Cobo, D'Altroy reports that by declaring ownership of farmlands, pastures, flocks, and mineral resources, the Incas made traditional-land access contingent on rotating labor duty (*mit’a*, “to take a turn”); there was no fixed rate of goods tribute or of mit’a personnel except the Inca’s will — people were not asked for a fixed contribution of produce, only labor as needed; royal “tribute” (gold, silver, etc.) was the product of that labor. The tax fell on hale household heads (*hatun runa*), married men roughly in age category 25–50 — about 15–20% of empire population, ~2 million workers as of D'Altroy’s order-of-magnitude estimate. Typical duty was about two or three months a year; whole families could help, so larger households finished faster.
+
+**Organization.** Provincial government was not a true bureaucracy but an umbrella of Inca officials over hereditary ethnic lords drafted into state service; taxpayers were assigned to units of 10–10,000 households for labor taxation and military recruitment. Able-bodied heads of household were organized (much of the realm; design credited to Thupa Inka Yupanki by Cieza and Polo per Rowe) into a decimal hierarchy: *hunu* (10,000), *pichkawaranqa* (5,000), *waranqa* (1,000), *pichkapachaka* (500), *pachaka* (100), *pichkachunka kamayuq* (50), *chunka kamayuq* (10). Early Colonial *visitas* (Huánuco 1549/1562; Chucuito 1567) show local officials rotating duties by census counts on [[khipu]]; Julien suggests a 1% taxpayer base for many levies; LeVine notes cloth/pots assessed evenly by units of 100 households while guard/portage were assessed by units of 1,000.
+
+**Exemptions and specialized statuses.** Officials over ≥100 households and many ethnic specialists (Rucanas litter-bearers, Qolla stonemasons, Chumbivilcas dancers, favored warrior groups) were excused from standard rotating service; Rostworowski suggests coastal artisans were often shifted to full-time craft rather than general corvée. Over time, D'Altroy (following Murra) reports increasing augmentation/replacement of rotating corvée by permanent specialists: [[mitmaq]], [[yanakuna]], [[aqllakuna]]. Military service itself was modular labor duty — sound married males as *awka kamayuq* foot soldiers under their own lords, often with wives/kin; call-ups by fractions of ethnic groups/*saya*, not individual households; neighbors tended fields of those on duty. Coastal societies (~1/3+ of the populace in D'Altroy’s sketch) were largely excluded from military rolls after the Chimú rebellion narrative.
+
+**State production and storage.** State and Sun farms were tended mostly by rotating corvée, later also by thousands of colonists; distinct from royal/aristocratic estates staffed by *mitmaqkuna* and *yanakuna*. Landmark scale: Cochabamba (Wayna Qhapaq) with ~14,000 workers and 2,400 storehouses at Cotapachi; [[saqsawaman]] tradition of 20,000 rotating provincial workers (Cieza). Household weaving of state wool roughly doubled under Inca rule in Costin’s Xauxa study (as of D'Altroy 2002); mining often ~1% of taxpayers where the state had mines (Santillán). Storehouses (*qollqa*) at Cuzco, road *tampu*, and state farms lubricated both logistics and ceremonial hospitality; accountants tracked in/out on *khipu*. Household impacts varied: mass removals were severe, but many state fields opened underused land; subjects did not normally surrender their own produce but faced labor squeeze at tight planting/harvest windows; subjects still complained decades later that flocks and fields had been taken under the language of traditional obligations.
+
+Sources: [[moseley-incas-and-their-ancestors-2001]] · [[daltroy-the-incas-2002]] · [[daltroy-terence-n]] · [[huanuco-pampa]]

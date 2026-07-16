@@ -15,8 +15,8 @@ preceded_by: ["Toltec-period central Mexico (textbook narrative)", "earlier [[te
 succeeded_by: ["Spanish colonial New Spain"]
 language_affiliation: "Nahuatl (ethnohistoric imperial language); multiethnic subjects — do not equate empire with one language or people"
 genetic_signature: "[[unknown]]"
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 5
+last_updated: 2026-07-15
 tags: [culture, early-modern, mesoamerica]
 ---
 
@@ -144,3 +144,11 @@ factor, alongside Spanish weaponry, incompatible norms of war, and tens of thous
 Tlaxcallan allies. Woodrow Borah's demography (attributed, as of Coe & Koontz 2013): central
 Mexico fell from ~11 million in 1519 to ~1.5 million by 1650 (~13.6% of the pre-Conquest
 total) — see the parallel colonial-collapse framing on [[societal-collapse]].
+
+### Sanders, Parsons & Santley — Basin of Mexico regional survey (1979, attributed)
+
+Drawing on Basin-of-Mexico settlement-pattern survey data (rather than excavation or documentary sources alone), [[sanders-parsons-santley-basin-of-mexico-1979]] (study page [[sanders-basin-of-mexico-study]]) estimated Late Horizon (AD 1350–1519) Basin-wide population grew from about 175,000 to a maximum of roughly 1,000,000–1,200,000 people, at an average annual growth rate they calculated at 0.7% — described as the highest sustained growth rate in the whole regional sequence, doubling roughly every 100 years. Over 40% of all prehispanic habitation sites recorded by the survey date to this final, ~200-year period. The authors put "Greater Tenochtitlan" (a ~600 km² zone including several outlying provincial centers) at roughly 400,000 people, and attributed Tenochtitlan-Tlatelolco's own Late Horizon growth to "the increasing political importance of that center and... the expansion of chinampa agriculture."
+
+On social stratification, the survey team summarized the documentary record as roughly 5–10% noble (*pilli*) status, with commoners split between *macehual* (free, corporately organized) and *mayeque* (dependent tenants on noble estates); they treated the *[[calpulli]]* corporate ward as the basic organizing unit of Late Horizon local society, citing possible Middle Horizon precedents for corporate-group organization at Teotihuacan and Monte Albán. They described the three Triple Alliance capitals — Tenochtitlan, Texcoco, and Tacuba — as forming a distinctly higher political-organizational tier above roughly fifty other semiautonomous local polities documented for the Late Horizon Basin (following Gibson 1964), each with its own territory and administrative-market center.
+
+The authors argued that scaled up, the Late Horizon settlement-and-tribute system was "not qualitatively different" from Middle Horizon Teotihuacan's organization — an explicit continuity/analogy claim, attributed to Sanders, Parsons & Santley (1979) rather than asserted in wiki voice — with Greater Tenochtitlan's roughly half-million people (administrators, craftsmen, merchants, and calpulli/tenant farmers) playing a structurally similar role to Teotihuacan's city population, and the remaining Basin population analogized to Teotihuacan's rural hinterland. They also credited a substantial share of the empire's chinampa-based agricultural base to a state-organized 15th-century colonization of the Lake Chalco-Xochimilco lakebed (following Calnek 1972 and Armillas's surveys), noting that once created, chinampa agriculture "enormously modified the Aztec political system" — a case, in their reading, of the same causal feedback between intensified agriculture and political centralization that they proposed for Teotihuacan's earlier rise.

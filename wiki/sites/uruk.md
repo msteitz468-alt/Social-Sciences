@@ -13,8 +13,8 @@ cultures: ["[[uruk-culture]]"]
 excavated_by: ["German and other expeditions (specialist monographs); textbook synthesis as of W&O 2007"]
 excavation_years: ["[[unknown]]"]
 key_finds: ["Eanna / White Temple platforms", "bevel-rimmed bowls", "cylinder seals and early tablets (~3400 BCE)", "defensive walls by ~3000 BCE", "Standard Professions List (late Uruk hierarchy)"]
-sources_ingested: 6
-last_updated: 2026-07-10
+sources_ingested: 8
+last_updated: 2026-07-15
 tags: [site, mesopotamia, near-east]
 ---
 
@@ -142,3 +142,169 @@ political content — bound captives, "smiting" scenes, a hat-and-skirt-clad rul
 hunting lions and standing beside a goddess — but Postgate cautions "we still lack the
 critical written sources to allow us to push our identifications further." (As of
 [[postgate-early-mesopotamia-1994|Postgate 1994]].)
+
+## Nissen densification (1988)
+
+*(Attributed throughout — [[nissen-hans-j|Hans J. Nissen]], *[[nissen-early-history-ancient-near-east-1988|The Early History of the Ancient Near East, 9000–2000 B.C.]]* 1988; mid-1980s German Uruk/survey synthesis. Absolute dates are Nissen’s working conventions; do not silently overwrite later specialist chronologies above. Site ≠ people ≠ language ≠ genes.)*
+
+### Occupation depth and sequence anchor
+
+Nissen held that occupation at Uruk **probably goes back to the earliest period of settlement in Babylonia** and that, **from at least the Ubaid period onward**, the site provides chronological-sequence information that overshadows other Babylonian evidence (attributed). Stratigraphic pottery sequences from Uruk excavations were used to date surface pottery at desert sites in the Uruk hinterland identified by walls and potsherds.
+
+### Dual cult layout: Eanna and Anu / Kullaba
+
+Nissen’s Late Uruk architectural reading distinguishes **two cult centers** that he treats as more than two different divine names:
+
+- **Western high terrace (later Kullaba / “Anu Ziggurat”).** A shrine on a high terrace with steep sides already stood in the **Ubaid period**, repeatedly repaired and raised. Excavations west of Eanna barely extended beyond this terrace; Nissen regarded the western area as the **kernel of the whole great settlement of Uruk**. The terrace was later labeled “Anu Ziggurat” because a later An cult stood on the platform that buried the earlier high temple — **assumed cultic continuity**, but Nissen flagged a bridge of almost 3,000 years without remains as making the An–early-shrine link problematic.
+- **Eanna precinct.** Late Uruk buildings with surface areas on the order of ~80 × 50 m set the tone of the excavated central area; organizational relationships among buildings remained unclear even for the best-known last Late Uruk phase. Texts repeatedly name gods, especially **Innin** (later city goddess of Uruk and Lady of Eanna); Nissen treated well-defined local cult traditions as supporting the thesis that Innin already played a role in early Eanna, perhaps the dominant one.
+- **Cult organization, not only divinity names.** West: terrace ~10 m high with a single high building visible from afar (only one cult building possible). Eanna: buildings on flat ground allowing **multiple simultaneous cult buildings**. Nissen traced that external difference to differences in cult organization and basic religious concepts.
+
+### Unification of the dual cult (end Late Uruk / start Jamdet Nasr)
+
+At the end of Late Uruk / start of **Jamdet Nasr** (Nissen’s spelling), Nissen described a wholesale transformation of the central area: Eanna buildings razed and covered into an enormous expanse; a gigantic western terrace **buried the high terrace and temple forever**; a high terrace (with a presumed temple under the later Eanna ziggurat) rose **in Eanna**. From then on Uruk had **only one central cult area**, laid out like the buried western type — a pattern he held for almost 3,000 years until first-millennium new western temples. He allowed **possible political consolidation** and argued the change must have had a tremendous effect on religious and political life of the city (attributed position). Separately, at the end of Late Uruk he reported an enormous terrace west of Eanna completely covering the more ancient Anu-terrace shrine; excavators calculated **1,500 people × 10 hours/day × 5 years** — labor Nissen read as requiring strong centralistic measures / forced labor.
+
+### Riemchen, public buildings, and demotion of temple/palace labels
+
+- **Riemchen brick.** Late Uruk developed the so-called **Riemchen** — a long, thin brick almost square in cross-section — for stable walls and façade patterning on public buildings.
+- **Riemchen Building.** Near the Stone Mosaic Temple, chance preservation of an underground **Riemchen Building** served (in Lenzen’s excavation reading as Nissen reports it) as a repository for former temple inventory: unusual pottery, colored stone containers, furniture inlay, and fragments of a larger-than-life stone human head (earliest large human sculpture in Babylonia in Nissen’s account; already fragmentary when deposited). Divine-statue hypotheses remained uncertain.
+- **“Public buildings,” not temple/palace as proven function.** Excavators named monumental buildings “temples” and a square-plan building “Palace E,” but given ignorance of political leadership and lack of internal functional evidence, Nissen argued they should only be designated **“public buildings.”** Habuba and related Syrian residential excavations found the same ground plan and fireplaces as centers of residential complexes — a **standard building unit** whose function depends on position, size, and unknown characteristics. Cult buildings in Eanna were nonetheless certain from cult-related tablets; warehouses/admin buildings remained unidentified even though thousands of broken tablets and sealed fastenings on garbage heaps implied them. See Position C on [[mesopotamian-temple-state-debate]].
+
+### City wall and ED I scale
+
+Nissen reported that Uruk’s settled area grew continually into **Early Dynastic I**, when a **city wall** built in that period enclosed some **5.5 square kilometers**; sherd scatter showed habitation extending a further **two to three kilometers** beyond the northeastern wall section (minimum extents from excavation + surface concentrations). Separately he identified the wall archaeologically as a new ED structure of **plano-convex bricks**, length **9.5 km**, with at least **900 semicircular towers**, and linked the epic tradition of Gilgamesh suppressing the people of Uruk to erect the wall (later written tradition of older material in his reading).
+
+### Adams–Nissen countryside and hinterland
+
+Nissen based settlement maps and trends for the Uruk hinterland on [[adams-robert-mcc|R. M. Adams]] and H. J. Nissen, *The Uruk Countryside* (Chicago, 1972). As of Nissen 1988:
+
+- Late Uruk: settlement systems with a **four-tier hierarchy** headed by Uruk; aggregate hinterland settlement area jumped from **~60 to ~440 ha** with more than a tenfold increase in site count (relative population gauge if density per unit area held roughly constant).
+- Between Late Uruk and ED I: absolute settlement numbers **decreased** while average size rose so overall inhabited area expanded; small Late Uruk sites clustered around a center that by ED I had grown much larger and remained virtually the only inhabited site (his fig. 21 mechanism).
+- Later ED (vs ED I): hinterland settlement count fell from **62 to 29** while average size rose to **38 ha**; by later ED the main body of population was concentrated in urban centers and small rural settlements had almost ceased to exist.
+- Rural (<30 ha) : urban (>31 ha) surface-area ratio shifted from Late Uruk **2:8** to ED II **9:1** favoring larger sites — roughly nine-tenths of population in settlements larger than 30 ha (his operational cut).
+- **Sphere of influence:** a roughly concentric strip **12–15 km** from Uruk, **2–3 km** wide, empty of settlements; inside the strip remaining settlements did not enlarge (Uruk itself reached its greatest historical size in ED I), while outside fewer-but-larger settlements formed — read as direct vs indirect influence zones with political/administrative relations prioritized over purely economic ones.
+- After ED I, an eastern Euphrates arm replaced the old main channel (Nippur–Shuruppak–Uruk); Uruk was **hardest hit**, with intramural population density considerably reduced.
+
+All countryside figures are date-stamped to Nissen 1988 (drawing on Adams & Nissen 1972); specialist reanalysis may revise areas and subphases. Cross-links: [[uruk-culture]], [[settlement-hierarchy]], [[urbanization]], [[state-formation]], [[adams-robert-mcc]], [[nissen-hans-j]].
+
+## Potts (*Mesopotamian Civilization*, 1997) — Additions
+
+*(Attributed — [[potts-mesopotamian-civilization-1997|Potts 1997]] unless noted.)*
+
+### Archaic-text toponym frequencies and Uruk's centrality in the settlement network
+
+Canals and rivers were the primary transportation routes of southern Mesopotamia
+(Oates 1977; Nissen 1975, cited by Potts); the earliest extant written records — the
+late-4th-millennium-BC Archaic texts from Uruk itself — preserve toponym frequencies
+reflecting this network. In 24 Uruk IV-period (c. 3400-3100 BCE) economic texts, the
+recorded toponyms are Uruk (x10), Adab (x8), Ur (x3), Larsa (x1), Umma (x1) (Nissen
+1985), located along three reconstructed watercourses (the Purattum/Uruk,
+Iturungal/Adab-Umma-Larsa, and Id-Nun/Ur). In 152 Uruk III-period (c. 3100-2900 BCE)
+texts, toponyms include Uruk (x57), Shuruppak (x31), Zabala (x31), Ur (x14), Dilmun
+(x11), Adab (x8), Kish (x7), Umma (x7), Larsa (x2), Eshnunna (x1) — Uruk's own
+dominant frequency in both corpora reflects its centrality to the network from
+writing's earliest attestation.
+
+### Site elevation and sedimentation depth
+
+At Uruk the Eanna sounding surface lies roughly 7 m above modern sea level, with
+sterile soil reached at 0.99 m above msl — meaning the site's original elevation was
+scarcely 1 m, now masked by roughly 6 m of subsequent cultural deposits (Adams and
+Nissen 1972, cited by Potts). This sedimentation datum is part of the wider debate
+over Gulf progradation and Ubaid/Uruk-period sea levels treated on
+[[mesopotamia-geography]] and [[ubaid-culture]] (see also [[ur]] and [[eridu]] for
+comparable elevation figures).
+
+### Local limestone sourcing for the Limestone Temple
+
+Contrary to the common assumption that all southern Mesopotamian building stone was
+imported (from Anatolia, Iran, Oman, Central Asia, or the Indian subcontinent),
+limestone used in major Uruk/Jamdat Nasr-period religious buildings at Uruk (the
+Limestone Temple, Stone Cone Temple, Riemchengebäude, Temple-Palace E, and Stone
+Building) was sourced **locally**. Ernst Heinrich observed in 1934 that the
+light-grey limestone matched an outcrop only 60 km from Uruk (also used at the closer
+site of [[ur]]); in 1983 R.M. Boehmer visited the Umayyad outcrop (~50 km from Uruk,
+near Samawa/el-Khidr), and petrographic analysis confirmed the source match (Boehmer
+1984:146). Potts treats this as part of a broader corrective (see
+[[mesopotamia-geography]]) against the "resource-poor Mesopotamia" framing traditionally
+used to explain the rise of long-distance trade and bureaucracy.
+
+### Margueron's structural-timber beam calculations
+
+J.-Cl. Margueron (1992) calculated that roofing the Old Babylonian Sinkashid palace at
+Uruk with beams spaced 50 cm apart would require roughly 16,820 lineal metres (16.82
+km) of wood for a single storey (about half that at 1-m spacing). The Limestone
+Temple's central cella at Uruk (Late Uruk period) spans roughly 11 m, likely exceeding
+available beam lengths (Margueron 1992:87, 92, cited by Potts) — evidence bearing on
+both timber-procurement scale (see [[mesopotamia-geography]] for the wider Ur III/Umma
+forestry-administration record) and structural constraints on Late Uruk monumental
+architecture.
+
+### Eanna sealing and administrative-writing context
+
+Potts situates Uruk's earliest writing and cylinder-seal use within the bureaucracy
+that administered the earthly estates of Inanna from the Eanna temple complex,
+excavated since the early 20th century by the German expedition to Uruk-Warka; he
+cites the Sumerian epic *Enmerkar and the Lord of Aratta* on writing's invention
+("The Lord of Kulab patted some clay and set down words on it as if on a tablet.
+Before that time there was no putting of words on tablets," Vanstiphout 1993:13).
+Only about 250 of some 2,000 seal impressions recovered at Uruk have been published
+(Nissen 1986:329), which Potts notes makes systematic linkage between seal iconography
+and tablet content difficult to establish; comparing several sealed Archaic tablets
+against their imagery, he finds no obvious systematic connection except a possible
+link between a butchery/animal-skinning scene and a tablet listing hides (finding,
+Potts 1997). See [[cylinder-seal]] and [[cuneiform]] for the fuller functional-writing
+treatment.
+
+### Seleucid Uruk: the Anu ziggurat and the "flowering of Babylonian culture"
+
+Under the Seleucids, Uruk (c. 300 ha — the largest occupied city in southern
+Babylonia in this period, per Finkbeiner 1993:3) saw construction of the **Anu
+ziggurat** (sides ~110 m, the largest ziggurat in southern Mesopotamia) and rebuilding
+of the Bit Resh temple by governor (*saknu*) Anu-uballit, given the Greek name
+**Nikarchos** by Antiochus II, completed 244 BCE (68 SE), per the YOS I 52 foundation
+cylinder. Potts argues the rise of Anu/Antu as Uruk's chief deities in this period does
+not reflect Greek Zeus-assimilation (Anu-theophoric names predate Alexander), but
+possibly reflects earlier identification with the Achaemenid deity Ahuramazda (van der
+Spek 1985:541; Kuhrt 1987:151). He concludes that Seleucid Uruk shows "not... a
+renaissance or resuscitation of a Babylonian culture which had died out under the
+Achaemenids, but rather the flowering of Babylonian culture in particularly favourable
+circumstances" (Oelsner 1986:95-6, quoted by Potts).
+
+No Greek-language written document is known from Seleucid Uruk itself (only one, later,
+from the Parthian-period Gareus temple); Sherwin-White (1982:54) argues that Greek
+inscriptions on Uruk's administrative bullae reflect the language of royal
+administration, not a Greek-speaking population — a position Potts contrasts with
+G.J.P. McEwan's claim (1988) that Uruk became a Greek *polis*, which Potts calls
+"insufficiently evidenced" (position; see [[seleucia-on-the-tigris]] for the parallel
+Archive Building bullae evidence feeding the same debate).
+
+**Onomastic mixing (Doty's genealogy).** Following Doty (1988), Potts reports the
+family of Anu-uballit Kephalon at Uruk shows a striking mixture of Greek and Babylonian
+names across generations (three brothers with Babylonian names, one — Timokrates —
+Greek; Kephalon's wife Antiochis apparently Greek; children with one Greek and one
+Babylonian name each), documented across fourteen texts identifying twenty-six related
+individuals, the latest dated to 132 BCE. By contrast, none of Anu-uballit Nikarchos's
+own descendants bore anything but Babylonian names. Potts also cites a temple prebend
+sale text (BRM II 40) in which a Greek-named individual, Sosandros, is called
+"LU.UNUG.KI-a-a," 'Urukean'/'man of Uruk,' gives his genealogy in Babylonian fashion,
+and transacts with witnesses bearing entirely Babylonian names — cited by Potts as
+evidence of the "complete integration" of ethnic Greeks into Babylonian legal/social
+life at Uruk, rather than imposition of Greek norms; no distinction is made between
+Greeks and Babylonians in Uruk's purchase/sale documents (finding, Potts 1997). This
+onomastic and legal-integration evidence underlies Potts's programmatic thesis of the
+"Orientalization of the Occidentals" — see [[seleucia-on-the-tigris]] for the full
+statement of that thesis.
+
+## Uruk as world-system core (Algaze 1993/2005)
+
+*(Attributed — [[algaze-guillermo|Algaze]], [[algaze-uruk-world-system-2005|The Uruk World
+System]], 2nd ed. 2005.)* Beyond its role as the type-city of [[state-formation|state
+formation]], Uruk/Warka is the **core** of Algaze's [[uruk-expansion|Uruk expansion]]: the
+ceramic and glyptic sequence of its Eanna VI–IV levels is the type-sequence against which
+peripheral chronologies are cross-dated, and the city's own trajectory anchors the
+asymmetry argument. Algaze cites Warka reaching ~100 ha (Adams 1981) to ~200–250 ha
+(Finkbeiner 1987/1991) by the Late Uruk period — the swelling core whose growth he reads as
+driven by processing imported [[mesopotamian-trade|peripheral resources]] and by the
+organizational "technologies of the intellect" (multi-seal administration, proto-cuneiform)
+concentrated there. This asymmetric-core reading is a *position*, contested by Gil Stein and
+Marcela Frangipane — see [[uruk-world-system-debate]] and [[world-systems-analysis]].

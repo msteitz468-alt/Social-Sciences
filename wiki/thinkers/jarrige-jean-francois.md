@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["Mehrgarh and Nausharo excavation reports of the French Archaeological Mission to Pakistan (1974–; cited extensively in Kenoyer 1998)"]
 key_concepts: ["indigenous food production on the Indus margin", "Mehrgarh aceramic Neolithic"]
 fieldwork_sites: ["[[mehrgarh]]", "[[nausharo]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -46,3 +46,19 @@ The “indigenous simultaneous highland–piedmont” model is an attributed res
 ## Historiography
 
 Known in this wiki primarily through Kenoyer 1998’s synthesis and catalogue citations (Jarrige 1988; Jarrige et al. 1995; Jarrige & Meadow 1980). Full French-mission monographs await primary ingest.
+
+## Wright, *The Ancient Indus* (2010)
+
+Wright 2010 gives fuller excavation detail on Jarrige's direction of Mehrgarh
+(organized by sectors MR1–MR7, covering over 200 hectares occupied continuously for
+3,000 years) and reports his and Meadow's (1980) characterization of Mehrgarh's
+developments as **"antecedent"** to the Indus civilization — domesticates and
+technologies invented there later adopted by Indus-valley craft producers, though
+Wright is careful to note this does not imply the Indus civilization simply
+"developed out of" Mehrgarh. Wright also relays Jarrige's (1995) hypothesis that
+Mehrgarh functioned as an informal "marketplace" for craft and raw-material exchange,
+explicitly marked by Jarrige as an ethnographic-analogy-based hypothesis rather than
+demonstrated fact. Wright further credits the Mehrgarh evidence, per Jarrige (1995),
+with overturning Wheeler's (1968) dismissal of Baluchistan as a "back curtain" to
+Indus developments, showing the region instead as a genuine center of pre-Indus
+innovation.

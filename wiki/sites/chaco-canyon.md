@@ -13,8 +13,8 @@ cultures: ["Ancestral Pueblo (Chacoan system)"]
 excavated_by: ["[[unknown]] — see specialist literature; textbook synthesis as of W&O 2007"]
 excavation_years: ["[[unknown]]"]
 key_finds: ["12 Great Houses including Pueblo Bonito (~700 rooms)", "road network (~600 km)", "irrigation works", "Mexican copper bells/macaws; Santa Fe-area turquoise", "distant pine beams"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, north-america]
 ---
 
@@ -84,3 +84,11 @@ reject a long-distance Mexican-merchant explanation in favor of a response to a
 population–resource imbalance in a high-risk farming environment (Cordell 1984). Key related
 sites: [[mesa-verde|Mesa Verde]], [[snaketown|Snaketown]]. (Source:
 [[fagan-ancient-north-america-1991]].)
+
+## Pauketat 2007 additions
+
+*(Attributed — [[pauketat-chiefdoms-delusions-2007]], as comparative case.)*
+
+- **Facts:** first great houses ~A.D. 860 at several Four Corners locations; McPhee Pueblo (Dolores) housed ~18–20 families (~100 people), dendro-dated to a construction episode of A.D. 861, matching Pueblo Bonito and Una Vida; after 875, high-elevation farming failed and population moved to lower elevations including Chaco Wash. Construction pulses A.D. 850–1130 — Yoffee's "little bangs" (2003 SAR conference), Lekson's "downtown Chaco" of 12 masonry monuments; canyon core population **~2,000–3,000** plus hundreds-to-thousands of ceremonial visitors; corn imported from the Chuskas (~75 km) and ~200,000 timbers from outside the canyon. Bonito-phase outliers (Mills 2002 criteria: great house, multistory, planned layout, core-and-veneer, banded masonry) up to 200 km out.
+- **[POSITION] Great houses:** Lekson (1999) — "palaces" of priestly hosts/rulers, vs. communal-worship readings; Yoffee's "rituality" label for the polity, which Pauketat rejects ("politics and ritual are coterminous everywhere"), reading instead a ritualized but "ultimately and unavoidably" political confederation possibly covering more area than any Mesoamerican chiefdom or Mesopotamian city-state.
+- **"Pax Chaco" (LeBlanc's term):** remarkably little interpersonal violence in the San Juan basin during Chaco's heyday alongside elevated ritual killings — read by LeBlanc and Lekson as possible state-sponsored violence; contrast periods before and after. Post-1130 dissipation; Aztec/Salmon "re-placements"; Galisteo-basin composite migrant settlements from 1250, with Burnt Corn Pueblo burned ~1325 — Snead: "an attack on history." Pauketat pairs Chaco's "little bangs" and Pax Chaco with Cahokia's big bang and [[cahokia|Pax Cahokiana]] as parallel degree-not-kind trajectories ([[historical-processualism]]).

@@ -13,8 +13,8 @@ cultures: ["Swahili stonetown tradition (etic/historical label; may be anachroni
 excavated_by: ["Neville Chittick (primary Kilwa sequence, attributed via Connah 2016)", "later coastal projects (Horton and others on related sites; comparative)"]
 excavation_years: ["mid–late 20th century Chittick campaigns; later work on peer sites summarized in Connah 2016"]
 key_finds: ["coral and lime-mortar stone architecture scatter within ~1 km² island settlement", "mud-and-wattle majority housing even at peak", "imported Islamic glazed wares from 9th–10th centuries", "Chinese ceramics from ~14th century", "local copper/silver coinage", "Husuni Kubwa and related elite complexes", "chlorite-schist from Madagascar (~11th–12th centuries)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, swahili, indian-ocean, tanzania, urbanization, city-state]
 ---
 
@@ -74,3 +74,23 @@ Connah reports Chittick’s four-category model—not mere import/export: (1) Af
 - **“Swahili” label anachronism:** Culture-historical package vs modern ethnolinguistic identity.
 
 *Source depth: single-source densification from [[connah-african-civilizations-2016]] (as of Connah 2016; coastal ceramic chronologies and foundation models remain active research areas).*
+
+## Oxford Handbook densification (Mitchell & Lane 2013)
+
+*(Attributed — Adria LaViolette in [[mitchell-lane-oxford-handbook-african-archaeology-2013]] Ch. 62; cross-refs Pikirayi Ch. 63; Croucher Ch. 70; Pollard via LaViolette C10-064. **as of 2013**.)*
+
+### Place in the Swahili world
+
+[[swahili-culture|Swahili]] world extends ~2,500 km N–S from Mogadishu to Sofala, including archipelagoes and NW Madagascar—western edge of the Indian Ocean monsoonal system (LaViolette). Kilwa is a principal stonetown/city-state case within that coastal African development: mixed farming and fishing society increasingly engaged with Indian Ocean trade, drawing population and practices from the near African interior.
+
+Monroe (Ch. 48) lists Swahili stone towns including **Kilwa** with elite mosque/palace cores and wattle-and-daub commoner surrounds; centralized control of Indian Ocean luxuries; powerful but geographically restricted merchant city-states until Portuguese arrival.
+
+### Architecture, peak wealth, gold articulation
+
+Wealth/power of Swahili towns peaked **11th–14th centuries**. Building in coral (stone) became hallmark of elite dwellings and public/ritual structures; from the 9th century elites used mortared porites coral then coral rag. Ethnohistorically stone houses acted as ‘customs houses’ lodging visiting merchants (LaViolette citing Garlake, Allen, Horton & Middleton, Fleisher).
+
+**Gold** obtained through trade with Zimbabwe Plateau societies ([[great-zimbabwe]], [[mapungubwe]]/Torwa/Mutapa) became a major coastal export, with ivory, iron, animal products, and mangrove poles. Colonial models assumed foreign dominance of Swahili trade; current views emphasize **Swahili agency** (LaViolette). Portuguese first reached the coast 1498—**gradual** not sharp break in urban/rural dynamics.
+
+Pollard’s work on **Kilwa maritime architecture** 13th–16th c. cited among new directions after the African-origins paradigm shift (LaViolette research agenda). Rhodes (2010 via Croucher) surveys British/German colonial urban materiality including **Kilwa Kivinje** among other ports—later colonial layer, not medieval stonetown identity.
+
+*Source: [[mitchell-lane-oxford-handbook-african-archaeology-2013]]; see [[swahili-culture]] for indigenous-origins consensus (as of 2013).*

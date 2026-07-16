@@ -59,12 +59,14 @@ French Marxist philosopher, long associated with the École Normale Supérieure 
 - Sahlins / culturalist anthropology: last-instance economic determination as practical-reason deep structure.
 - Biographical catastrophe of 1980 (killing of Hélène Rytmann; confinement rather than trial) — factual record; not used here to adjudicate theoretical claims.
 - Later work (ISAs, aleatory materialism) reshapes the program — await primary ingest.
+- **Archaeological uptake (secondary via Leone 2010):** [[leone-mark-p|Mark Leone]]'s [[critical-archaeology]] operationalizes Althusserian ideology for U.S. historical archaeology and public tours ("Toward a Critical Archaeology," 1987, cites Althusser 1969/1971 among others). The ISA essay itself remains un-ingested as primary; file Leone's uses as **reception**, not as substitute for Althusser's own text.
 
 ## Historiography
 
 - Primary: *For Marx* and *Reading Capital* Complete Edition (both 2026-07-10).
 - **Thinkers Hub** warranted as program-builder with dual charter now primary; **built as Theory Hub on [[structural-marxism]] this session** rather than full personal hub — personal hub still open if a dedicated biography pass is wanted.
 - Secondary scaffold from Sahlins ingest retained only for reception.
+- HA reception densified via *[[leone-critical-historical-archaeology-2010|Leone, Critical Historical Archaeology]]* (2010).
 
 ## Links
 

@@ -13,8 +13,8 @@ cultures: ["Olmeca-Xicallanca (Epiclassic)", "Tolteca-Chichimeca"]
 excavated_by: ["[[unknown]] — tunnel excavations cited generically by [[sources/coe-koontz-mexico-2013|Coe & Koontz]]"]
 excavation_years: ["[[unknown]]"]
 key_finds: ["Great Pyramid (largest pre-Hispanic structure by volume)", "\"the Drunkards\" mural", "talud-tablero substructures"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, mesoamerica, classical-antiquity]
 ---
 
@@ -40,4 +40,10 @@ Cholula is Coe & Koontz's principal comparandum to Teotihuacan for Classic-perio
 
 - **[POSITION]** The precise archaeological identity and Gulf Coast homeland of the Olmeca-Xicallanca cannot be securely fixed (see the parallel caution on [[sites/cacaxtla]]).
 
-See [[sources/coe-koontz-mexico-2013]], [[sites/teotihuacan]], [[sites/cacaxtla]].
+## Basin of Mexico Survey Perspective (Sanders, Parsons & Santley 1979)
+
+Working from Basin-of-Mexico ceramic-distribution data rather than excavation at Cholula itself, [[sanders-parsons-santley-basin-of-mexico-1979]] (study page [[sanders-basin-of-mexico-study]]) reconstructed Cholula's chronology as: a small village in First Intermediate Two–Three; a regional/provincial center under Teotihuacan's cultural and political domination while Teotihuacan rose to dominance; then "explosive growth" in Second Intermediate Phase One, including construction of a huge acropolis of plazas and public buildings, with much of the Great Pyramid's lower-terrace fill dated to this phase; continued importance through Second Intermediate Phase Two (further Great Pyramid construction); and, at the Spanish Conquest, a center of an estimated 20,000–40,000 inhabitants, though by then politically subordinate to Tenochtitlan.
+
+Sanders, Parsons & Santley (1979) argued Cholula exercised major sociopolitical influence across central Mexico during and after Teotihuacan's decline, proposing this as one possible explanation for the wide geographic spread of the Coyotlatelco ceramic complex — a spread otherwise puzzling under a "fragmented, insulated polities" model of the post-Teotihuacan Basin. They explicitly stated they could not resolve whether Tula or Cholula held the greater claim to being "Tollan" in this period, going so far as to note "it is difficult to reject the hypothesis that Cholula was as significant a factor as Tula," while declining to argue outright that "Cholula was Tollan, and Tula was something less." They further proposed, in their causal account of Teotihuacan's Middle Horizon collapse, that "the rapid decline of Teotihuacan is probably causally related to the rise of Cholula, and possibly Xochicalco" — attributing the underlying mechanism to Cholula/Puebla-Tlaxcala's closer proximity to Gulf Coast, Oaxaca, and Maya Lowland trade resources once Teotihuacan's own hydraulic-agriculture advantage over that region ceased to be decisive. They also noted a distinctive concentration of Aztec I Black-on-Orange pottery in the Chalco-Xochimilco region of the Basin paralleled in Cholula's own contemporary ceramic assemblage, which they read as evidence of an economic or sociopolitical link between the southern Basin and Cholula distinct from the Tula-oriented north.
+
+See [[sources/coe-koontz-mexico-2013]], [[sites/teotihuacan]], [[sites/cacaxtla]], [[sanders-parsons-santley-basin-of-mexico-1979]].

@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Gramsci: subordinate classes/groups in the non-hegemonic position. Guha/Subaltern Studies: non-elite whose politics are autonomous from elite nationalism. Spivak: those cut off from lines of social mobility and from being heard within dominant circuits of representation — especially the gendered subaltern; a structural predicament, not an identity to claim."
 contested: "yes"
 related_concepts: ["[[hegemony]]", "[[epistemic-violence]]", "[[agency]]", "[[crisis-of-representation]]", "[[othering]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept, postcolonial-studies]
 ---
 
@@ -59,3 +59,7 @@ Spivak (attributed, CPR revision in [[morris-can-subaltern-speak-2010|Morris 201
 - **Internal SS:** Chatterjee (2010) argues Spivak’s intervention enabled a poststructural turn *also* driven by Indian political change (subaltern insertion into governmentality), not mere fashion.
 - **Risk of hypostatization:** treating “subaltern” as a romantic identity to claim (Morris and Spivak both warn against this).
 - **Scope:** Spivak’s archive cases are South Asian and gendered; extensions (slavery, war graves, FDWs, indigenous Latin America) are analogies or parallel applications, not automatic identity of “the subaltern.”
+
+## Smith 2006 — subaltern heritage discourses (attributed)
+
+*([[smith-laurajane]], *[[smith-uses-of-heritage-2006]]*, Part III.)* Alongside the AHD, popular and **subaltern** heritage discourses (labour, community, Indigenous) actively challenge received values — or challenge simply by existing. Dual face of heritage: elite consensus regulation **and** subaltern redefinition. Cases: industrial-museum visitors; [[castleford|Castleford]] Heritage Trust; Indigenous politics of **control** (Langford and others as Smith cites). “Inclusion” programs that invite excluded groups only to learn authorized values are assimilatory. Cross-link [[authorized-heritage-discourse]], [[dissonant-heritage]], [[critical-heritage-studies]].

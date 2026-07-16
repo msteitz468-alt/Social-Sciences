@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Links early Indo-European speech to first farming populations of Anatolia and models primary European IE dispersal as demic wave-of-advance peopling with the Neolithic farming expansion (Greece before ~6500 cal BC to Atlantic by ~3500 BC as of Renfrew 1987 chronology), not as Bronze Age Kurgan/Corded Ware/Beaker migrations."
 contested: yes
 related_concepts: ["[[demic-diffusion]]", "[[indo-european-languages]]", "[[steppe-hypothesis-debate]]", "[[agricultural-revolution]]", "[[chiefdom]]", "[[yamnaya-culture]]", "[[early-farming-dispersal-hypothesis]]"]
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [concept, archaeology, linguistics]
 ---
 
@@ -63,6 +63,10 @@ Anthony (2007) restates the hypothesis as the principal alternative to a Pontic-
 
 ## Critiques and Limitations
 
+### Mallory 1989 — contemporary counter-survey (attributed)
+
+*(Attributed — [[mallory-j-p]], *[[mallory-in-search-of-the-indo-europeans-1989|In Search of the Indo-Europeans]]* 1989, esp. Ch.6; pre-aDNA.)* Mallory places his own work in the “conventional wisdom” against Renfrew’s challenge. Cumulative objections (his positions): (1) historically attested early Anatolia is non-IE (Hattic, Hurrian); (2) Neolithic farming colonists may have brought *a* language into Europe but unlikely PIE; (3) Renfrew’s ~6500 BC expansion is incongruent with reconstructed PIE cultural vocabulary (wheels, horse, secondary products, silver, beaver, social terms); (4) Anatolian homeland cannot explain PIE–Uralic similarities; (5) fails to derive Indo-Iranian and Tocharian economically via a NW Black Sea farming wave; (6) dialect time-depths (e.g. Greek–Indo-Iranian) incongruent with the model; (7) if IE in Crete since 6000 BC, Linear A remains unreadable and seems built for a non-IE syllabic structure. Load-bearing verdict: **“Anatolia is the wrong place at the wrong time and migrations from it give the wrong results. A brave run, perhaps, but Renfrew’s solution is not a convincing one.”** Full constraint stack on [[steppe-hypothesis-debate]] Position A (Mallory layer).
+
 ### Anthony 2007 — wagon vocabulary and related counters (attributed)
 
 *[[anthony-horse-wheel-language-2007|The Horse, the Wheel, and Language]]* is the primary steppe-side critique of the Anatolian/first-farming model. Key counter-arguments, all Anthony’s positions:
@@ -87,7 +91,7 @@ Anthony’s positive alternative: Pontic-Caspian steppe homeland ~4500–2500 BC
 
 ### Other critiques and limitations
 
-- **Steppe counter-position** ([[gimbutas-marija|Gimbutas]]; Mallory; Anthony 2007 primary; genetic demography per Reich 2018): later steppe migration as main European IE vector; wagon vocabulary and branch structure as linguistic constraints — see debate page.
+- **Steppe counter-position** ([[gimbutas-marija|Gimbutas]]; [[mallory-j-p|Mallory]] 1989 primary survey; Anthony 2007 primary; genetic demography per Reich 2018): later steppe migration as main European IE vector; Mallory’s multi-criterion rejection of Renfrew; wagon vocabulary and branch structure as linguistic constraints — see debate page.
 - **Reich 2018:** Anatolian hypothesis “has lost its best evidence” — its premise that no later movement was demographically large enough for a second IE wave is contradicted by Corded Ware/steppe aDNA (Reich’s assessment as rival proponent, not wiki adjudication).
 - **West Mediterranean vulnerability:** Renfrew admits his theory is "probably… incompatible" with strong indigenous western Mediterranean Neolithic models (Barker, Lewthwaite) (attributed — Renfrew 1987).
 - **Pre-aDNA horizon:** 1987 demography lacks nuclear ancient DNA; genetic assessments belong to later sources (as of Reich 2018 and subsequent aDNA).

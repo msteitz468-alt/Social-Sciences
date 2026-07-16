@@ -47,7 +47,7 @@ Affirms "pots are not people" while arguing language correlates with material cu
 
 ## Intellectual Genealogy
 
-- **Steppe-homeland line:** engages [[gimbutas-marija|Marija Gimbutas]] (Kurgan package refined and narrowed, not simply repeated; rejects broad "Kurgan culture") and Mallory (credited with Gimbutas as thirty-year Pontic-Caspian advocates).
+- **Steppe-homeland line:** engages [[gimbutas-marija|Marija Gimbutas]] (Kurgan package refined and narrowed, not simply repeated; rejects broad "Kurgan culture") and [[mallory-j-p|J. P. Mallory]] (*[[mallory-in-search-of-the-indo-europeans-1989|In Search of the Indo-Europeans]]* 1989 now primary-ingested — credited with Gimbutas as thirty-year Pontic-Caspian advocates; Anthony narrows Yamnaya core, adds wool/wheel termini and franchising beyond Mallory’s 1989 survey).
 - **Deep prehistory interlocutors:** [[childe-v-gordon|V. Gordon Childe]] (European Neolithic diversity against pan-European Neolithic PIE); [[sherratt-andrew|Andrew Sherratt]] ([[secondary-products-revolution]] — wool sheep + wagons fragment retained; Near Eastern package thesis "quickly fell apart").
 - **Rival homeland:** [[renfrew-colin|Colin Renfrew]]'s [[anatolian-hypothesis]] / first-farming dispersal — principal alternative Anthony targets; accepts Renfrew's "elite dominance" *label* as a historical lesson while renaming/retooling the mechanism and rejecting Anatolian farming as full PIE homeland.
 - **Frontier and clientage:** Fredrik Barth (Pathan–Baluch; ethnicity at boundaries); Eric Wolf (fonts of tradition); Labov, Nettle & Hill on language territories and ecotones; Johanna Nichols on the steppes as linguistic spread zone.

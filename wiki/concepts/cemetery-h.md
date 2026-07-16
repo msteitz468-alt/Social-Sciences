@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Late/Posturban burial complex and ceramic style at Harappa and related northern sites; Punjab Phase of Localization Era (as of Kenoyer 1998)"
 contested: yes
 related_concepts: ["[[indus-valley-tradition]]", "[[indus-religion]]", "[[deurbanization-of-the-indus]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [concept, archaeology, south-asia]
 ---
 
@@ -69,3 +69,11 @@ Cemetery H / Punjab Phase ceramics: northern Pakistan as far as Swat (mixing wit
 ## Kenoyer 1998
 
 Ch. 9 (C5-039–043): Localization three-phase map; Cemetery H ritual change; gradual Harappan→Punjab transition; eastern expansion and trade breakdown; 1730 BCE bead pot / earliest glass. Source: [[kenoyer-ancient-cities-indus-1998]]; [[kenoyer-jonathan-mark]]; site [[harappa]]. Related: [[indus-valley-tradition]], [[indus-transformation-debate]], [[deurbanization-of-the-indus]], [[mughal-rafique]], [[shaffer-jim]].
+
+## Wright (2010) — R37 vs. Cemetery H strata, and Kennedy's matrilocality inference
+
+*(Attributed to [[wright-rita-p|Rita Wright]], *The Ancient Indus* (Cambridge, 2010), Chs. 9 and 11.)* Wright distinguishes Harappa's two adjacent cemetery areas, R37 and Cemetery H, both in the low-lying southwest sector of the city outside the walled/gated areas. R37 (excavated by four separate archaeological teams over time) contains an estimated ~200 individuals — explicitly noted by Wright as far too few to represent Harappa's full Urban-period population. Cemetery H itself comprises two strata: an earlier stratum (earth burials, complete remains in the eastern section, fractional remains in the west, possibly reflecting deaths away from home) and a later stratum of pot burials, with skeletal remains placed in large painted jars, some containing multiple interments.
+
+Physical-anthropological analysis (Hemphill et al. 1991, team led by Kenneth Kennedy) found strong genetic affinity among R37 females (n=84), and reported that R37 females showed close genetic affinity to the earliest Cemetery H stratum's females — evidence, on this reading, of **matrilocality** (post-marital residence with the bride's kin). By contrast, R37 males showed closer genetic affinity to males from *outside* Harappa than to R37 females, which Kennedy (2000:306) interprets as "one-way gene flow by cemetery R37 males into the sedentary population of cemetery R37 females." Wright reports this alongside Hemphill et al.'s (1991) finding that the R37 population's general health was judged good, attributed partly to a diversified diet of domesticated and hunted/foraged foods; paleopathology showed spinal arthritis common in both sexes (possibly from head-carried loads, per Lovell 1994) and higher female cavity incidence and canine-enamel growth-disruption lines, explained via attributed competing hypotheses of preferential treatment of sons (Lukacs and Joshi 1992) or differential food-preparation practices (Kennedy 2000).
+
+Wright notes an apparent internal inconsistency in her source's stratum labeling for Cemetery H (a "Stratum I"/"Stratum II" ordering that reads as reversed against the "lower/older" stratum description elsewhere in the same account) — flagged here for any future reconciliation against primary excavation reports, not resolved in this synthesis.

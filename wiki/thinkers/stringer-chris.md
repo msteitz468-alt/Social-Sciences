@@ -7,17 +7,17 @@ era: [critical-turn, contemporary]
 affiliated_theories: ["[[recent-african-origin]]", "[[assimilation-model]] (modest form retained under RAO label)"]
 trained_under: ["[[unknown]]"]
 trained: ["[[unknown]]"]
-key_works: ["[[stringer-gamble-in-search-of-the-neanderthals-1993|In Search of the Neanderthals (with Clive Gamble, 1993)]]", "[[stringer-lone-survivors-2012|Lone Survivors (2012)]]"]
+key_works: ["[[stringer-gamble-in-search-of-the-neanderthals-1993|In Search of the Neanderthals (with Clive Gamble, 1993)]]", "[[stringer-origin-of-our-species-2011|The Origin of Our Species (2011, UK)]]", "[[stringer-lone-survivors-2012|Lone Survivors (2012, US retitle of Origin)]]"]
 key_concepts: ["[[anatomically-modern-humans]]", "[[neanderthals]] (as non-ancestral primary to living Europeans)", "Out of Africa 2", "mostly Out of Africa"]
 fieldwork_sites: ["Britain (incl. Boxgrove Project association)", "Gibraltar", "museum-based morphometrics across Europe (1971 tour)"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [thinker, biological-anthropology]
 ---
 
 # Christopher Stringer (b. 1947)
 
-British paleoanthropologist at the Natural History Museum, London (from 1973); principal fossil-morphology and synthesis voice of **[[recent-african-origin|Recent African Origin (RAO)]]** against **[[multiregional-evolution]]**. Co-author of *[[stringer-gamble-in-search-of-the-neanderthals-1993|In Search of the Neanderthals]]* (1993) with [[gamble-clive|Clive Gamble]]; sole author of the career-length synthesis *[[stringer-lone-survivors-2012|Lone Survivors]]* (2012). Deep analysis: [[hubs/thinkers/stringer-chris|Thinkers Hub]]. Live dispute: [[modern-human-origins-debate]].
+British paleoanthropologist at the Natural History Museum, London (from 1973); principal fossil-morphology and synthesis voice of **[[recent-african-origin|Recent African Origin (RAO)]]** against **[[multiregional-evolution]]**. Co-author of *[[stringer-gamble-in-search-of-the-neanderthals-1993|In Search of the Neanderthals]]* (1993) with [[gamble-clive|Clive Gamble]]; sole author of the career-length synthesis first published as *[[stringer-origin-of-our-species-2011|The Origin of Our Species]]* (UK 2011) and in the U.S. as *[[stringer-lone-survivors-2012|Lone Survivors]]* (2012) — same continuous text; densification lives on the U.S. source page. Deep analysis: [[hubs/thinkers/stringer-chris|Thinkers Hub]]. Live dispute: [[modern-human-origins-debate]].
 
 ## Overview
 
@@ -34,7 +34,9 @@ Stringer’s program argues that [[anatomically-modern-humans|anatomically moder
 - **Extinction as “whimper rather than a bang”** — competition and demography, not genocide-as-sole-mechanism (S&G 1993).
 - **Genetics 1993 horizon:** mtDNA Eve and nuclear trees as support; complete-replacement genetics already hedged (S&G 1993).
 
-### From *Lone Survivors* (2012) — densified
+### From *The Origin of Our Species* / *Lone Survivors* (2011/2012) — densified
+
+*(UK title 2011 [[stringer-origin-of-our-species-2011]]; U.S. retitle 2012 [[stringer-lone-survivors-2012]] — one book.)*
 
 - **Career formation.** Switched from medicine to anthropology at 18; Bristol Ph.D. 1970 on Neanderthals; NHM Palaeontology post 1973; July 1971 tour of ten European countries measuring ~100 archaic and modern skulls; comparative modern data from William Howells (as of Stringer 2012).
 - **Early multivariate results.** Neanderthal skulls no more similar to recent Europeans than to Africans, Eskimo, or Native Tasmanians; Cro-Magnons did not slot between Neanderthals and recent Europeans; early moderns clustered with modern counterparts rather than local archaics — no support for Neanderthal ancestry of Cro-Magnons or multiregional/spectrum continuity (as of Stringer 2012 recalling early-1970s analyses).
@@ -64,7 +66,7 @@ Stringer’s program argues that [[anatomically-modern-humans|anatomically moder
 
 ## Historiography
 
-Two major ingested syntheses: S&G 1993 (dual-author replacement charter) and *Lone Survivors* 2012 (single-author update through early aDNA). Thinkers Hub: [[hubs/thinkers/stringer-chris]]. No full scholarly biography ingested.
+Two major ingested syntheses: S&G 1993 (dual-author replacement charter) and *Origin*/*Lone Survivors* 2011/2012 (single-author update through early aDNA; UK and U.S. editions are one work). Thinkers Hub: [[hubs/thinkers/stringer-chris]]. No full scholarly biography ingested.
 
 ### Gamble 1999 cross-link
 

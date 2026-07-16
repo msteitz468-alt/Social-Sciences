@@ -15,8 +15,8 @@ preceded_by: ["possible early Eurasian small-brained Homo (debated)"]
 succeeded_by: ["[[unknown]]"]
 language_affiliation: unknown; no direct evidence
 genetic_signature: "No aDNA recovered as of Stringer 2012 (tropical preservation hostile); not equated with Denisovan genetic population"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [culture, late-prehistory, southeast-asia]
 ---
 
@@ -59,3 +59,11 @@ As evidenced only through the Liang Bua assemblage and contested behavioral infe
 ## Historiography
 
 Media “Hobbit” framing; multiregional pathology pushback; ongoing dating and association debates. Primary wiki source so far: [[stringer-lone-survivors-2012]] (secondary synthesis, not excavation report). Densify when Liang Bua monographs are ingested.
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*Source: [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]. **As of Tattersall 2012** — pre-later genomic/stratigraphic revisions; do not overwrite subsequent dating debates.*
+
+**LB1 as counterexample to inevitable brain enlargement.** Liang Bua LB1: ~**3 ft** tall, unusual proportions, brain maybe **~380 cc** (fractionally smaller than Lucy’s), lived ~**18 ka** (as of Tattersall 2012). Describers: dwarfed *H. erectus* descendant (island dwarfing; tiny elephant co-occurs). Tattersall’s **position**: little erectus affinity; brain smaller than normal dwarfing predicts; pathology models fit poorly; more likely descendants of extremely early African émigrés preserving archaic features. Regardless of phylogenetic assignment, LB1 shows that time ≠ brain enlargement among members of the genus *Homo* — if it is appropriately assigned to *Homo* at all (attributed).
+
+**Global-colonization frame.** In Tattersall’s later monoculture thesis, when behaviorally modern *H. sapiens* moved into SE Asia, late *H. erectus* and (later) Flores hobbits promptly disappeared — one strand of the claim that after cognitively modern humans left Africa the world became a hominid monoculture (**thesis**; see [[global-colonization]], [[homo-sapiens]]). Not equated with [[denisovans]] (genetics) or any living people.

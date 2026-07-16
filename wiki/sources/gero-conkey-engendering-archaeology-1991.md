@@ -80,3 +80,7 @@ Deep program analysis: [[hubs/theory/feminist-archaeology|Theory Hub — Feminis
 ## Volume Synthesis Note
 
 *Engendering Archaeology* is this vault’s **charter collection for [[feminist-archaeology]]**, analogous to *[[binford-binford-new-perspectives-1968|New Perspectives]]* for [[processual-archaeology]]: multi-author demonstration that a theoretically stigmatized problem (here gender; there social process) is researchable. Relative to ingested sources: densifies the feminist strand named inside [[post-processual-archaeology]]; connects archaeology to [[feminist-anthropology]] and [[man-the-hunter-woman-the-gatherer-debate|Woman-the-Gatherer]] debates; operationalizes gender across lithics, ceramics, architecture, food, and images. Outstanding next: Conkey & Spector 1984 primary article; Spector *What This Awl Means* (1993 book); later gender/queer archaeology handbooks.
+
+## Later synthesis
+
+Post-charter single-author survey densifying this program: [[gilchrist-gender-and-archaeology-1999|Gilchrist, *Gender and Archaeology* (1999)]].

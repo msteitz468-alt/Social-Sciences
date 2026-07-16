@@ -13,8 +13,8 @@ cultures: ["[[harappan-civilization]]"]
 excavated_by: ["Ernest J. H. Mackay (principal published campaign)"]
 excavation_years: ["1930s (Mackay Chanhu-Daro)"]
 key_finds: ["long-carnelian bead workshop and Ernestite drills", "cubical standardized weights (including large trading-center weights)", "unicorn figurines and cart models", "shell and bead manufacturing debris", "Jhukar Phase occupation"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [site, bronze-age, south-asia]
 aliases: [Chanhu-daro, Chanhudaro, Chanhu Daro]
 ---
@@ -56,3 +56,15 @@ Excavation quality: Mackay’s work predates modern single-context standards but
 ## Historiography
 
 The site’s reputation is inseparable from Mackay’s mid-20th-century campaigns and from later experimental archaeology that turned those finds into measurable production rates. As with most Indus small towns, absolute chronologies remain less tightly radiocarbon-anchored in Kenoyer 1998 than the Harappa HARP sequence; periodization follows the broader Indus Valley Tradition frame (Integration → Localization).
+
+## Wright (2010)
+
+*(Attributed — [[wright-rita-p|Rita P. Wright]], *[[wright-ancient-indus-2010|The Ancient Indus]]* 2010, chs. 7, 9, 11.)*
+
+**"Populated chiefly by artisans."** Mackay (1943:38), the original excavator, found production debris and craft variety so extensive at Chanhu-daro that he described the settlement as "populated chiefly by artisans" — a characterization Wright repeats as evidence for craft-town status rather than a first-tier administrative center. Production was spatially segregated: seal manufacture concentrated in the northern quarter, while beads, weights, and metalworking were concentrated in the southern portion (Mackay 1943). One sizable structure (locus #459, 17'8" × 14'8", with substantial walls and a bathing platform) is of otherwise unclear function.
+
+**Bead and carnelian production.** Carnelian arrived at Chanhu-daro unmodified, "without any preliminary stage of reduction" (Vidale 2000:102), contrasting with the prepared chert cores and blades shipped in from the Rohri Hills. Four bead types are documented (Vidale 2000): a simple disk bead; an elongated/long-barrel bead, the most technically demanding, traded as far as Mesopotamia and possibly requiring specialized knowledge held only by Indus artisans; a white-to-red agate "eye" bead exploiting the stone's layered structure; and a bleached/etched bead produced through a combined reductive-and-pyrotechnological chemical-and-refiring process. Based on this production and possible export to the Royal Cemetery of Ur (Pollock 1999), Kenoyer (1997a) and Vidale (2000) "hypothesized" — explicitly marked by Wright as a hypothesis, not a settled finding — centralized bead production at Chanhu-daro "controlled by state institutions or important merchants connected with political elites" (Vidale 2000:58).
+
+**Hoards.** Chanhu-daro yielded four large hoards plus several smaller ones (compare twelve at Mohenjo-daro, seven at Harappa, three at Lothal, one at Allahdino); one Chanhu-daro axe bears an inscription. Rissman (1988) and Kenoyer (1998) read such caches as strongly associated with artisans or merchants rather than elite consumers.
+
+**Jhukar-phase decline.** As the Post-urban period set in, Chanhu-daro's settlement pattern became "haphazard and less focused"; square stamp seals were replaced by circular seals bearing new motifs, terracotta female figurines and cubical weights became rare, and the Indus script disappeared except for incised pottery marks — possibly signaling the end of a formal administrative system (Mughal 1992a; H. Miller 2005, reanalyzing the Chanhu-daro Jhukar assemblage). This documented change is more gradual than Mackay's original view of a sharp cultural break at the Jhukar horizon. The site was abandoned after this phase and not reoccupied for centuries.

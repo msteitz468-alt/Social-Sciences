@@ -171,61 +171,61 @@ represents non-English scholarship and post-2020 literature. Rebalance on reques
 ### Tier 1 — Method, theory, and civilizational monographs that densify textbook spines
 
 1. Mitchell — *The Archaeology of Southern Africa* (2002; or 2nd ed. if available) — closes Outstanding continental Africa gap after Phillipson/Connah. [X-disc] ⚠️ **NOT INGESTED — re-source needed (2026-07-10):** the acquired PDF (`raw/The archaeology of southern Africa (Mitchell...).pdf`) is mislabeled — its full text is actually M. Anne Pitcher, *Transforming Mozambique* (2002), not Mitchell. archive.org ID and embedded title read as Mitchell but every page is Pitcher's book. Pitcher was ingested in its place (see log); Mitchell's *Archaeology of Southern Africa* still needs a correct copy.
-2. Higham — *Early Cultures of Mainland Southeast Asia* (2002) or densify *The Archaeology of Mainland Southeast Asia* (1989 if not complete) — SE Asia beyond Angkor stubs. ✅ *The Archaeology of Mainland Southeast Asia* (1989) ingested 2026-07-10 (14 pages created — first mainland SE Asia coverage); 2002 volume still open for deepening.
-3. Trigger — *A History of Archaeological Thought* (2nd ed. 2006) already in vault; prefer **Trigger — *Natives and Newcomers* (1985)** or **Trigger — *The Children of Aataentsic* (1976)** — Northern Iroquoian ethnohistory/archaeology. [X-disc]
-4. Flannery (ed.) — *The Early Mesoamerican Village* (1976) — household archaeology charter → method densify.
-5. Flannery & Marcus densify: *The Cloud People* (1983) or *Zapotec Civilization* (1996) — Oaxaca primary beyond *Creation of Inequality*.
-6. Sanders, Parsons & Santley — *The Basin of Mexico* (1979) — survey archaeology classic. [X-disc]
-7. Blanton et al. — *Ancient Oaxaca* (1999) or *Monte Albán* survey monographs — multi-scalar urbanism.
-8. Coe — *Breaking the Maya Code* (1992; rev. eds.) — decipherment historiography densify. [X-disc]
-9. Martin & Grube — *Chronicle of the Maya Kings and Queens* (2000; 2nd ed. 2008) — dynastic political history.
-10. Schele & Freidel — *A Forest of Kings* (1990) — Classic Maya narrative archaeology. [FLAG: interpretive]
-11. Moseley densify: *Maritime Foundations of Andean Civilization* essays / MFAC primary papers package — theory charter behind ingested 2001 synthesis.
-12. Topic & Topic / D’Altroy — *The Incas* (2002; 2nd ed. 2014) — ethnohistoric-archaeological Inca densify beyond Moseley.
-13. Moore — *Cultural Landscapes in the Ancient Andes* (2005) or Isbell/Silverman Wari volumes — Middle Horizon densify.
-14. Adams — *Heartland of Cities* densify companions: *Land Behind Baghdad* (1965) — Diyala survey method charter.
-15. Postgate densify: *Early Mesopotamia* already in vault; prefer **Van de Mieroop — densify already present; else Potts — *Mesopotamian Civilization* (1997)** or **Nissen — *The Early History of the Ancient Near East* (1988)**.
-16. Algaze — *The Uruk World System* (1993; rev. 2008) — expansion and world-systems in the 4th millennium. [X-disc]
-17. Stein — *Rethinking World-Systems* (1999) — distance-parity critique of Algaze.
-18. Matthews — *The Archaeology of Mesopotamia* (2003) — method-focused regional handbook.
-19. Kemp densify companions already partly covered; prefer **Assmann — *The Mind of Egypt* (1996/2002)** — cultural memory and Egyptian thought. [X-disc]
-20. Baines & Málek / Wilkinson densify: **Lehner — *The Complete Pyramids* (1997)** or **Lehner & Hawass Giza reports synthesis** — Old Kingdom labor and landscape.
+2. Higham — *Early Cultures of Mainland Southeast Asia* (2002) or densify *The Archaeology of Mainland Southeast Asia* (1989 if not complete) — SE Asia beyond Angkor stubs. ✅ *The Archaeology of Mainland Southeast Asia* (1989) ingested 2026-07-10 (14 pages created — first mainland SE Asia coverage); 2002 volume still open for deepening. ✅ *Early Cultures of Mainland Southeast Asia* (2002) ingested 2026-07-15 (10 created + 17 updated — densifies 1989 SE Asia network).
+3. Trigger — *A History of Archaeological Thought* (2nd ed. 2006) already in vault; prefer **Trigger — *Natives and Newcomers* (1985)** or **Trigger — *The Children of Aataentsic* (1976)** — Northern Iroquoian ethnohistory/archaeology. [X-disc] ✅ *Natives and Newcomers* (1985) ingested 2026-07-15 (7 created + 8 updated). ✅ *The Children of Aataentsic* (1976/1987) ingested 2026-07-15 (7 created + 15 updated; study page + Trigger Thinkers-Hub biography built). Line item complete.
+4. Flannery (ed.) — *The Early Mesoamerican Village* (1976) — household archaeology charter → method densify. ✅ ingested 2026-07-15 (source + study + Studies Hub; multi-scalar household program).
+5. Flannery & Marcus densify: *The Cloud People* (1983) ✅ ingested 2026-07-15 (18 pages created, 7 updated) or *Zapotec Civilization* (1996) ✅ ingested 2026-07-15 (Marcus & Flannery; 8 created + ~20 updated; study page). Line item complete.
+6. Sanders, Parsons & Santley — *The Basin of Mexico* (1979) — survey archaeology classic. [X-disc] ✅ ingested 2026-07-15 (10 created + 26 updated; 9-agent line-range extraction + 4-agent page-partitioned integration; source + study pages, thinkers parsons-jeffrey-r/santley-robert-s, sites cuicuilco/loma-torremote/maquixco-bajo, concept population-pressure, theory central-place-theory, timeline basin-of-mexico-chronology; hydraulic-hypothesis-debate gains Basin-survey position section).
+7. Blanton et al. — *Ancient Oaxaca* (1999) or *Monte Albán* survey monographs — multi-scalar urbanism. ✅ ingested 2026-07-15 (*Ancient Oaxaca* 2nd ed. 2022 — collective-action revision; 7 created + ~40 updated)
+8. Coe — *Breaking the Maya Code* (1992; rev. eds.) — decipherment historiography densify. [X-disc] ✅ ingested 2026-07-15 (3rd ed. 2012; 13 created / 11 updated)
+9. Martin & Grube — *Chronicle of the Maya Kings and Queens* (2000; 2nd ed. 2008) — dynastic political history. ✅ ingested 2026-07-15 (2nd ed. 2008; 4 created / 18 updated)
+10. Schele & Freidel — *A Forest of Kings* (1990) — Classic Maya narrative archaeology. [FLAG: interpretive] ✅ ingested 2026-07-15 — source+study+freidel+cerros; densified classic-maya sites/concepts/collapse debate
+11. Moseley densify: *Maritime Foundations of Andean Civilization* essays / MFAC primary papers package — theory charter behind ingested 2001 synthesis. ✅ ingested 2026-07-15 (the 1975 monograph itself; created source+study+Ancón/Huaca Prieta/Río Seco sites + Bird/Lanning/Engel/Patterson thinkers)
+12. Topic & Topic / D’Altroy — *The Incas* (2002; 2nd ed. 2014) — ethnohistoric-archaeological Inca densify beyond Moseley. ✅ ingested 2026-07-15 (1st ed. 2002/2003 — not 2014 2nd ed.; 14 created + 12 updated).
+13. Moore — *Cultural Landscapes in the Ancient Andes* (2005) or Isbell/Silverman Wari volumes — Middle Horizon densify. ✅ ingested 2026-07-15 (Moore 2005; 13 created + 17 updated; Isbell/Silverman Wari volumes still open)
+14. Adams — *Heartland of Cities* densify companions: *Land Behind Baghdad* (1965) — Diyala survey method charter. ✅ ingested 2026-07-15 (3 created + 11 updated; study + nahrawan-canal site; Diyala method charter into archaeological-survey)
+15. Postgate densify: *Early Mesopotamia* already in vault; prefer **Van de Mieroop — densify already present; else Potts — *Mesopotamian Civilization* (1997)** or **Nissen — *The Early History of the Ancient Near East* (1988)**. ✅ Nissen ingested 2026-07-15 (Van de Mieroop already 2026-07-10; Potts ✅ ingested 2026-07-15).
+16. Algaze — *The Uruk World System* (1993; rev. 2008) — expansion and world-systems in the 4th millennium. [X-disc] ✅ ingested 2026-07-15 (2nd ed. 2005; 9 created + 7 updated; created source/thinker/study/uruk-expansion/informal-empire/gateway-community/debate/habuba-kabira/tell-brak)
+17. Stein — *Rethinking World-Systems* (1999) — distance-parity critique of Algaze. ✅ ingested 2026-07-15
+18. Matthews — *The Archaeology of Mesopotamia* (2003) — method-focused regional handbook. ✅ ingested 2026-07-15
+19. Kemp densify companions already partly covered; prefer **Assmann — *The Mind of Egypt* (1996/2002)** — cultural memory and Egyptian thought. [X-disc] ✅ ingested 2026-07-15 (8 created + 11 updated; 8-agent extraction; filed raw/archaeology/)
+20. Baines & Málek / Wilkinson densify: **Lehner — *The Complete Pyramids* (1997)** or **Lehner & Hawass Giza reports synthesis** — Old Kingdom labor and landscape. ✅ ingested 2026-07-15 (Lehner 1997; 14 created + 14 updated; Giza/Heit el-Ghurab densified; Lehner & Hawass monographs still open).
 
 ### Tier 2 — Europe, steppe, Indus/China follow-ons, Africa/Americas depth
 
-21. Kristiansen densify: *Europe Before History* already in vault; prefer **Kristiansen & Larsson densify already present; else Anthony densify: primary Yamnaya/excavation papers package** or **Mallory — *In Search of the Indo-Europeans* (1989)**. [FLAG: homeland]
-22. Cunliffe densify: *Facing the Ocean* (2001) — Atlantic façade; or *Britain Begins* (2012).
-23. Hodder densify: *Çatalhöyük: The Leopard’s Tale* (2006) — post-processual excavation synthesis → site densify.
-24. Mellaart densify companions; prefer **Hodder (ed.) Çatalhöyük research volumes** (any major synthesis volume not yet ingested).
-25. Renfrew densify: *Figuring It Out* (2003) or *Prehistory: The Making of the Human Mind* (2007) — cognitive/archaeology of mind.
-26. Binford — *Bones: Ancient Men and Modern Myths* (1981) — middle-range / scavenger debate. [FLAG]
-27. Schiffer densify: *Behavioral Archaeology* (1976) — program charter behind formation processes.
-28. Sherratt — “Plough and Pastoralism: Aspects of the Secondary Products Revolution” (1981) package / *Economy and Society in Prehistoric Europe* densify — SPR concept page.
-29. Whittle — *Europe in the Neolithic* (1996) or *The Archaeology of People* (2003) — British/European Neolithic social archaeology.
-30. Bradley — *The Significance of Monuments* (1998) or *An Archaeology of Natural Places* (2000) — landscape/memory.
-31. Tilley densify: *Metaphor and Material Culture* (1999) — beyond landscape phenomenology.
+21. Kristiansen densify: *Europe Before History* already in vault; prefer **Kristiansen & Larsson densify already present; else Anthony densify: primary Yamnaya/excavation papers package** or **Mallory — *In Search of the Indo-Europeans* (1989)** ✅ ingested 2026-07-15 (primary Mallory layer on steppe debate). [FLAG: homeland]
+22. Cunliffe densify: *Facing the Ocean* (2001) — Atlantic façade; or *Britain Begins* (2012). ✅ ingested 2026-07-15 — both: *Britain Begins* (OUP 2013) and *Facing the Ocean* (OUP 2001; 8 created + ~30 updated incl. atlantic-facade + Cunliffe thinkers-hub biography).
+23. Hodder densify: *Çatalhöyük: The Leopard’s Tale* (2006) — post-processual excavation synthesis → site densify. ✅ ingested 2026-07-15 (Turkish Yapı Kredi ed.; densified catalhoyuk + hodder-ian + shrine debate).
+24. Mellaart densify companions; prefer **Hodder (ed.) Çatalhöyük research volumes** (any major synthesis volume not yet ingested). ✅ ingested 2026-07-15 (*Excavations 2009–2017* CRP 12 / BIAA 2022; Bayesian densify).
+25. Renfrew densify: *Figuring It Out* (2003) or *Prehistory: The Making of the Human Mind* (2007) — cognitive/archaeology of mind. ✅ ingested 2026-07-15 (*Figuring It Out*; 5 created + 11 updated). ✅ ingested 2026-07-15 (*Prehistory: The Making of the Human Mind*; 3 created + ~9 updated; speciation-phase, tectonic-phase; densified sapient-paradox / cognitive-archaeology).
+26. Binford — *Bones: Ancient Men and Modern Myths* (1981) — middle-range / scavenger debate. ✅ ingested 2026-07-15 (6 created + 11 updated; hunting-vs-scavenging debate + osteodontokeratic + Makapansgat + Brain pages)
+27. Schiffer densify: *Behavioral Archaeology* (1976) — program charter behind formation processes. ✅ ingested 2026-07-15 via *Behavioral Archaeology: First Principles* (1995 charter collection; 1976 chapters reprinted). Theory Hub + behavioral-chain + ~487 claims.
+28. Sherratt — “Plough and Pastoralism: Aspects of the Secondary Products Revolution” (1981) package / *Economy and Society in Prehistoric Europe* densify — SPR concept page. ✅ densified 2026-07-15 (primary ingest 2026-07-10; densify +3 cultures Baden/TRB/GAC + SPR network links; SPR concept already on disk).
+29. Whittle — *Europe in the Neolithic* (1996) or *The Archaeology of People* (2003) — British/European Neolithic social archaeology. ✅ ingested 2026-07-15 (*Europe in the Neolithic* 1996; *Archaeology of People* still open).
+30. Bradley — *The Significance of Monuments* (1998) or *An Archaeology of Natural Places* (2000) — landscape/memory. ⚠️ **partial** ✅ *Significance of Monuments* (1998) ingested 2026-07-15; *An Archaeology of Natural Places* (2000) still open.
+31. Tilley densify: *Metaphor and Material Culture* (1999) — beyond landscape phenomenology. (*Interpreting Landscapes* 2010 ✅ ingested 2026-07-15 separately — geology/sensory trilogy vol. 3.)
 32. Shanks & Tilley densify already partly covered; prefer **Preucel — *Archaeological Semiotics* (2006)** — Peircean archaeology.
-33. Gero & Conkey densify: companion gender archaeology readers or **Gilchrist — *Gender and Archaeology* (1999)**.
-34. Orser densify: *A Historical Archaeology of the Modern World* already in vault; prefer **Leone — *Critical Historical Archaeology* essays** or **Hall — *Archaeology and the Modern World* (2000)**.
-35. Deetz densify companions; prefer **Hicks & Beaudry (eds.) — *The Cambridge Companion to Historical Archaeology* (2006)**.
+33. Gero & Conkey densify: companion gender archaeology readers or **Gilchrist — *Gender and Archaeology* (1999)**. ✅ ingested 2026-07-15 (Gilchrist 1999 synthesis; 6 created + 8 updated; densifies feminist-archaeology + hub).
+34. Orser densify: *A Historical Archaeology of the Modern World* already in vault; prefer **Leone — *Critical Historical Archaeology* essays** or **Hall — *Archaeology and the Modern World* (2000)**. ✅ ingested 2026-07-15 (Leone *Critical Historical Archaeology* 2010 — thinker+hub, critical-archaeology theory, Paca Garden + Colonial Williamsburg sites; Hall still outstanding). ✅ Hall ingested 2026-07-15 (11 created + 21 updated; study page, theory-in-historical-archaeology debate, khoikhoi, cape-slavery, district-six, cape-dutch-architecture, castle-of-good-hope, bhabha-homi, third-space).
+35. Deetz densify companions; prefer **Hicks & Beaudry (eds.) — *The Cambridge Companion to Historical Archaeology* (2006)**. ✅ ingested 2026-07-15 (11 created incl. debates prestwich-street + defining-historical-archaeology, subfields maritime/industrial/urban/documentary archaeology; 16 updated).
 36. Meltzer densify: *First Peoples in a New World* (2009) already in vault; prefer **Waters et al. pre-Clovis site monographs package** (e.g. Monte Verde synthesis) — peopling debate evidence. [FLAG: fast-moving]
 37. Reich densify: primary aDNA papers package (Haak 2015; Lazaridis; Narasimhan Indus-related) as curated reading set — date-stamp everything. [FLAG: fast-moving] [X-disc]
-38. Possehl/Kenoyer densify: **Wright — *The Ancient Indus* (2010)** — recent synthesis after 1998/2002. [X-disc]
-39. Liu & Chen densify: **Chang — *Shang Civilization* (1980)** or **Bagley — *The Archaeology of Early China* (2015)** — China beyond 1963 Chang / 2012 Liu-Chen.
-40. Shelach-Lavi — *The Archaeology of Early China* (2015) — if Bagley path not taken; alternative China densify.
+38. Possehl/Kenoyer densify: **Wright — *The Ancient Indus* (2010)** — recent synthesis after 1998/2002. [X-disc] ✅ ingested 2026-07-15 (10 created incl. sites shortugai/rehman-dheri/sutkagen-dor/sotka-koh/balakot, cultures kulli-culture/BMAC, thinkers wright-rita-p/trigger-bruce; ~34 densified incl. 3 debates; 0 new broken links).
+39. Liu & Chen densify: **Chang — *Shang Civilization* (1980)** or **Bagley — *The Archaeology of Early China* (2015)** — China beyond 1963 Chang / 2012 Liu-Chen. ✅ ingested 2026-07-15 Chang *Shang Civilization* (1980); Shelach path still open (#40).
+40. Shelach-Lavi — *The Archaeology of Early China* (2015) — if Bagley path not taken; alternative China densify. ✅ ingested 2026-07-15 (4 created — source, [[shelach-lavi-gideon]], concepts peer-polity-interaction + chinese-interaction-sphere; 30 updated incl. 3 China debates)
 
 ### Tier 3 — Ethics, heritage, specialist regions, deep prehistory
 
-41. Renfrew densify heritage already partly covered; prefer **Brodie et al. — *Archaeology, Cultural Heritage, and the Antiquities Trade* (2006)** — balances Renfrew loot thesis. [FLAG]
-42. Cuno — *Who Owns Antiquity?* (2008) — cultural internationalist position in antiquities debate. [FLAG]
-43. Smith (Laurajane) — *Uses of Heritage* (2006) — AHD; critical heritage studies.
-44. Meskell — *The Nature of Heritage* (2012) or *A Future in Ruins* (2018) — UNESCO/global heritage.
-45. Insoll densify: regional Islamic archaeology monographs (e.g. East Africa/Swahili excavation synthesis) beyond 1999 program.
-46. Connah densify: *African Civilizations* already in vault; prefer **McIntosh — *Ancient Middle Niger* (2005)** — urbanism without hierarchy case.
-47. Phillipson densify companions; prefer **Mitchell & Lane (eds.) — *The Oxford Handbook of African Archaeology* (2013)** — handbook scaffold.
-48. Gamble densify: *Settling the Earth* (2013) — deep dispersal synthesis after *Timewalkers*.
-49. Klein densify: *The Human Career* already in vault; prefer **Stringer — *The Origin of Our Species* (2011)** or **Tattersall — *Masters of the Planet* (2012)** — paleoanthropology popular-synthesis densify. [FLAG: fast-moving]
-50. Fagan densify regional: **Fagan — *The Great Journey* already in vault; prefer Pauketat — *Cahokia: Ancient America’s Great City on the Mississippi* (2009)** — Mississippian densify beyond Milner. [X-disc]
+41. Renfrew densify heritage already partly covered; prefer **Brodie et al. — *Archaeology, Cultural Heritage, and the Antiquities Trade* (2006)** — balances Renfrew loot thesis. [FLAG] ✅ ingested 2026-07-15 (6 created + ~12 updated; empirical/legal densify of antiquities debate + illicit trade; Iraq National Museum; editors + Gerstenblith).
+42. Cuno — *Who Owns Antiquity?* (2008) — cultural internationalist position in antiquities debate. ✅ ingested 2026-07-15 (4 created + 11 updated; balances Renfrew on antiquities-market-looting-debate; encyclopedic-museum + partage).
+43. Smith (Laurajane) — *Uses of Heritage* (2006) — AHD; critical heritage studies. ✅ ingested 2026-07-15 (9 created / 14 updated; AHD, critical heritage studies, Waanyi/Riversleigh/Castleford cases).
+44. Meskell — *The Nature of Heritage* (2012) or *A Future in Ruins* (2018) — UNESCO/global heritage. ✅ ingested 2026-07-15 (*Nature of Heritage* 2012; 7 pages created, 8 updated)
+45. Insoll densify: regional Islamic archaeology monographs (e.g. East Africa/Swahili excavation synthesis) beyond 1999 program. ⚠️ **partial** ✅ *Islam, Archaeology and History: Gao Region* (1996) ingested 2026-07-15 (4 created + ~4 updated); East Africa/Swahili synthesis still open.
+46. Connah densify: *African Civilizations* already in vault; prefer **McIntosh — *Ancient Middle Niger* (2005)** — urbanism without hierarchy case. ✅ ingested 2026-07-15 (source + study + hub; Jenné-jeno densified; heterarchy/pulse/urban-cluster).
+47. Phillipson densify companions; prefer **Mitchell & Lane (eds.) — *The Oxford Handbook of African Archaeology* (2013)** — handbook scaffold. ✅ ingested 2026-07-15 (70 chs; 9 created + ~35 densified; companions Phillipson/Connah already in vault).
+48. Gamble densify: *Settling the Earth* (2013) — deep dispersal synthesis after *Timewalkers*. ✅ ingested 2026-07-15 (9 created + 7 updated; Terrae / going-beyond / kinshipping / FACE / deep-human-history / social-brain-hypothesis / variability-selection; densified gamble-clive + Thinkers Hub + global-colonization; 8-agent extraction 8/8; filed `raw/archaeology/`).
+49. Klein densify: *The Human Career* already in vault; prefer **Stringer — *The Origin of Our Species* (2011)** or **Tattersall — *Masters of the Planet* (2012)** — paleoanthropology popular-synthesis densify. [FLAG: fast-moving] ✅ ingested 2026-07-15 (Tattersall *Masters*; Stringer *Origin* UK 2011 filed as edition twin of already-ingested *Lone Survivors* 2012 — same book; no second claim extract)
+50. Fagan densify regional: **Fagan — *The Great Journey* already in vault; prefer Pauketat — *Cahokia: Ancient America’s Great City on the Mississippi* (2009)** — Mississippian densify beyond Milner. [X-disc] ✅ ingested 2026-07-15 (Pauketat half; 4 created + 6 updated)
 
 ---
 

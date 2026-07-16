@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Multi-era cultural-tradition framework (Early Food-producing → Regionalization → Integration/Harappan Phase → Localization) for greater Indus and adjacent adaptations; phases by pottery/tech/settlement"
 contested: yes
 related_concepts: ["[[indus-age]]", "[[harappan-civilization]]", "[[early-harappan]]", "[[indus-urbanization]]", "Indo-Gangetic tradition"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: "2026-07-15"
 tags: [concept]
 ---
 
@@ -67,3 +67,9 @@ Dating: primarily [[radiocarbon-dating]] (HARP 70+ dates at Harappa; regional hu
 - Parallel traditions (Baluchistan, Helmand) are unevenly excavated; “expected eastern traditions” remain partly prospective as of 1998.
 
 *Primary integration source: [[kenoyer-ancient-cities-indus-1998|Kenoyer 1998]] following [[shaffer-jim]].*
+
+## Wright (2010) — Urban period chronology and scale
+
+*(Attributed — [[wright-rita-p|Rita P. Wright]], *[[wright-ancient-indus-2010|The Ancient Indus]]*, 2010, Ch. 5.)*
+
+Wright dates the onset of the **Urban period to ca. 2600 BCE** and reports (via Possehl 1990:270) that the number of known sites increased from 463 in the Pre-urban period to 976 in the Urban period. She identifies five major Indus cities: Harappa (Upper Indus, ~150 ha), Mohenjo-daro (Lower Indus, 125–200 ha), Dholavira (Kutch, 47–100 ha), Ganweriwala (Cholistan, 81 ha), and Rakhigarhi (Ghaggar-Hakra, discussed only briefly given limited published material). Population estimates (150–200 people/hectare, by analogy with present-day settlements) yield roughly 20,000–40,000 for Mohenjo-daro and 25,000–30,000 for Harappa — a conventional methodological estimate, not a direct count.

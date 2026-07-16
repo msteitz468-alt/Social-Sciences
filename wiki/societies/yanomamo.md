@@ -8,7 +8,7 @@ kinship_system: "patrilineal exogamous lineages; ideal bilateral cross-cousin (s
 documented_by: ["[[chagnon-yanomamo-fierce-people-study]]"]
 documentation_dates: "1964–1968 (Chagnon fieldwork; primarily Upper Bisaasi-teri / Kaobawa's group and allied and enemy villages in the Orinoco–Mavaca region of southern Venezuela; Brazilian contact 1967); later trips through 1990s narrated in memoir, not used as society-page evidence base"
 endonym_exonym_note: "Chagnon 1968 uses Yanomamö (fully nasalized; OCR often Y^nomamo); literature also Yanomami, Yanomama, Yanoama. Village names ending in -teri (Bisaasi-teri, Monou-teri, Patanowa-teri, etc.) are local group designations. 'The fierce people' is Chagnon's epithet, not an endonym. Waiteri means 'fierce' / 'fierce one' in his account."
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-15
 tags: [society, amazonia]
 aliases: [yanomami, yanomama]
@@ -37,6 +37,8 @@ Chagnon argued that **cultivated foods**, especially plantains, supplied the bul
 ## Belief and Ritual
 
 Cosmology (Ch. 2): a **four-layered cosmos**; origin myth of Moon (Periboriwa) whose blood made men fierce — Chagnon's charter text for the aggression focus. Personhood included the [[noreshi]] (animal double/soul aspect). The dead were cremated; ashes were consumed (endocannibalism) and handled with *ebene*. Shamans (Chagnon: a large fraction of men) chanted to *hekura*. Killers required *unokaimou* purification (confinement, food taboos). Mortuary ash-gourds of prominent dead were distributed to allies as political solidarity after death in war.
+
+Per [[moore-cultural-landscapes-andes-2005|Moore (2005)]], synthesizing Smole 1976 and Chagnon 1974/1992, the Yanomamö built no architecture formally dedicated to ceremony — no men's houses or other dedicated ceremonial structures. The communal *shabono*'s central plaza instead served as the venue where ecstatic shamans, drawing power from *hekura* spirits contacted via hallucinogenic snuff, went into trance and danced; villagers otherwise largely ignored the rites unless seeking a cure. Moore classifies Yanomamö religious authority as ecstatic-shaman-only (no canonist, no medium role), with ceremonial space accordingly ephemeral and community-scale rather than architecturally fixed — attributed to a correspondence between authority type and architectural form, not to labor or material constraints (Moore explicitly rejects those explanations, noting Yanomamö communities are larger than many societies that do build dedicated ceremonial architecture).
 
 ## Documentation History
 

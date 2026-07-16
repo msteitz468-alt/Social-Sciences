@@ -9,14 +9,14 @@ emic_or_etic: etic
 operationalized_as: "classification of discarded/abandoned materials by depositional pathway relative to use location and abandonment mode — primary, secondary, residual primary, de facto, provisional, abandonment-stage, etc."
 contested: no
 related_concepts: ["[[formation-processes]]", "[[systemic-context]]", "[[archaeological-context]]", "[[pompeii-premise]]", "[[archaeological-record]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
 # Refuse Types
 
-Schiffer’s typology of how materials leave use and enter (or re-enter) deposits — load-bearing vocabulary for reading activity areas without assuming a [[pompeii-premise|Pompeii]] freeze. Source: *[[schiffer-formation-processes-1987|Formation Processes of the Archaeological Record]]* (1987), mainly Ch. 4 (attributed throughout).
+Schiffer’s typology of how materials leave use and enter (or re-enter) deposits — load-bearing vocabulary for reading activity areas without assuming a [[pompeii-premise|Pompeii]] freeze. Sources: Schiffer 1972a (core primary/secondary/de facto cut); *[[schiffer-formation-processes-1987|Formation Processes]]* (1987) mainly Ch. 4; *[[schiffer-behavioral-archaeology-first-principles-1995|First Principles]]* Ch. 2, 18, 20 (attributed throughout).
 
 ## Definition as Coined
 
@@ -26,18 +26,18 @@ Schiffer’s typology of how materials leave use and enter (or re-enter) deposit
 |---|---|
 | **Primary refuse** | Artifacts discarded **at** their locations of use |
 | **Secondary refuse** | Artifacts discarded **elsewhere** (even adjacent to the activity area) |
-| **Residual primary refuse** | Small items left behind after maintenance of activity areas (**McKellar Principle**) |
-| **De facto refuse** | Still usable (or reusable) tools, facilities, structures left when an activity area is **abandoned** |
+| **Residual primary refuse** | Small items left behind after maintenance of activity areas (**McKellar Principle** / McKellar Hypothesis) |
+| **De facto refuse** | Artifacts from the systemic inventory, often still usable, left on occupation surfaces when people abandon activity areas, structures, and settlements (Schiffer 1972a, 1976, 1977; Stevenson 1982; 1995 Ch. 20) |
 | **Provisional refuse** | Temporary storage of discards pending later disposal |
-| **Abandonment-stage refuse** | Discard under relaxed maintenance when departure is anticipated |
+| **Abandonment-stage refuse** | Discard under relaxed maintenance when departure is anticipated (Stevenson 1982; Schiffer 1985a) |
 | **In-transit refuse** | Discard along paths/trails |
 | **Abandonment caches** | Specialized de facto refuse stored for anticipated return |
 
-**Curate behavior** (Binford’s term, used by Schiffer): removing still-usable items from an abandoned area for use elsewhere — **donor curate set** vs **founding curate set** at the destination (attributed).
+**Curate behavior** (Binford’s term, used by Schiffer): removing still-usable items from an abandoned area for use elsewhere — **donor curate set** vs **founding curate set** at the destination (attributed). Related depletion/enrichment processes at abandonment: lateral cycling, draw-down, scavenging, collecting/looting (attributed, Schiffer 1985a / 1995 Ch. 20).
 
 ## Semantic History
 
-Primary/secondary refuse (Schiffer 1972) became classroom standard. De facto refuse and curate behavior link Schiffer’s deposition chapter to Binford’s mobile-forager ethnoarchaeology. Later practice multiplies subtypes (clutter, child’s play, ritual dumps) without abandoning the core primary/secondary/de facto cut.
+Primary/secondary refuse (Schiffer 1972a; 1995 Ch. 2) became classroom standard. De facto refuse and curate behavior link Schiffer’s deposition chapter to Binford’s mobile-forager ethnoarchaeology. Later practice multiplies subtypes (clutter, child’s play, ritual dumps) without abandoning the core primary/secondary/de facto cut. Reuse typology (recycling, secondary use, lateral cycling, conservatory processes — Schiffer, Downing, and McCarthy 1981 / 1995 Ch. 10) sits upstream of discard, reducing how much intact material ever enters archaeological context in modern cities (attributed).
 
 ## Operationalizations
 

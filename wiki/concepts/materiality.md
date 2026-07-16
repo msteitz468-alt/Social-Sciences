@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "the agentive, mediating quality of physical things in social life — how the material properties of objects shape meaning and practice"
 contested: yes
 related_concepts: [agency, social-memory, embodiment, chaine-operatoire]
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -88,3 +88,8 @@ their authors.
 ## Reading the Past (2003) — from text to materiality, and objects gaining agency (attributed)
 
 *(Attributed — [[hodder-reading-past-2004|Hodder & Hutson, Reading the Past]], 3rd ed., chs. 5–6.)* Hodder & Hutson report a turn away from reading material culture purely as text and toward materiality and lived experience, on the grounds that "material things are functional and non-arbitrary in ways words are not." They connect this to a broader argument (Thomas, Gell, Weiner) that objects gain a kind of agency through their relation to human actors — accruing histories and social significance through use and exchange rather than functioning as arbitrary signs.
+
+## Renfrew densification (2003)
+
+*(Attributed — *[[renfrew-figuring-it-out-2003|Figuring It Out]]*.)* Renfrew's [[material-engagement]] program is a cognitive-archaeological statement of materiality: mind and social institutions (property, value, divinity, prestige) are co-produced with things. Pre-writing "analogue" [[external-symbolic-storage]] (monuments, valuables, alignments) and later writing/money/electronics mark changing regimes of materiality — including late **dematerialization** when electronic signs replace object-repositories of meaning. Neighbor contrast: Hodder [[entanglement]] stresses sticky dependency; Renfrew 2003 stresses constitutive cognitive-symbolic emergence.
+

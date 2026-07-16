@@ -15,8 +15,8 @@ preceded_by: ["Kuahuqiao culture (not yet a wiki page)"]
 succeeded_by: ["[[unknown]] — regional Liangzhu-era successors in the lower Yangzi"]
 language_affiliation: "[[unknown]] — late-Hemudu dispersal linked (attributed, contested) to early Austronesian seafaring expansion; identity not asserted"
 genetic_signature: "[[unknown]] — no direct aDNA reported for Hemudu populations (as of Liu & Chen 2012)"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [culture, neolithic, china, east-asia]
 ---
 
@@ -32,9 +32,13 @@ Hemudu is best known for pile-dwelling wooden architecture built with mortise-an
 
 A recurrent bird-on-altar motif with possible sun/moon symbolism appears in Hemudu iconography and is noted by Liu and Chen as echoed later in Liangzhu jade and pottery imagery (Wu 1985; Ren 1996; Yang 2000) — flagged here as a material-motif continuity, not an identity claim between the two cultures.
 
+Shelach-Lavi ([[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]) describes the Hemudu ganlan (pile/pole-house) structures as using mortise-and-tenon wooden joinery, with some houses reaching 23 m long by 7 m wide. Rice-husk deposits at the site are estimated at up to twenty tons, and large numbers of bone spades were recovered, evidence taken as indicating paddy-field cultivation (as of Shelach-Lavi 2015). He also notes Hemudu produced the earliest known archaeological evidence of lacquer in China, alongside an extensive bone-working industry.
+
 ## Faunal Signature: Water Buffalo Non-Domestication
 
 A long-standing assumption that Hemudu inhabitants had domesticated the water buffalo has been revised by aDNA and zooarchaeological analysis: Liu, L. et al. (2004) and Yang, D. et al. (2008) found the water buffalo remains at Hemudu were **not domesticated**, contrary to earlier belief (as of Liu & Chen 2012). This is recorded here in attributed voice as a genetics/zooarchaeology-based revision of an older material-culture inference — an instance of the four-way non-identity principle applying even within a single evidence class (morphological vs. genetic evidence of domestication status).
+
+Shelach-Lavi ([[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]) traces the historiography of this revision further: the older assumption, following Chang (1986), held that the water buffalo species *Bubalus mephistopheles* was first domesticated in the Yangzi region around 5000 BCE. Subsequent aDNA analysis (Liu et al. 2006) instead identified the Hemudu bones as **wild** water buffalo, and concluded that domesticated water buffalo was introduced to China from South Asia only in the first millennium BCE (as of Shelach-Lavi 2015) — pushing the region's water-buffalo domestication several millennia later than the earlier material-culture-based inference assumed.
 
 ## Distribution and Chronology
 

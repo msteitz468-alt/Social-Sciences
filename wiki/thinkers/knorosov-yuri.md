@@ -1,17 +1,23 @@
 ---
 title: "Yuri Knorosov"
-date_birth: "[[unknown]]"
-date_death: "[[unknown]]"
+date_birth: "1922-11-19"
+date_death: "1998"
 disciplines: [linguistic-anthropology, archaeology]
-era: [postwar-expansion, critical-turn]
+era: [postwar-expansion, critical-turn, contemporary]
 affiliated_theories: ["[[unknown]]"]
-trained_under: ["[[unknown]]"]
-trained: ["[[unknown]]"]
-key_works: ["1950s phonetic decipherment papers on Maya script (as summarized Sharer & Traxler 2006)"]
-key_concepts: ["[[maya-hieroglyphic-writing|logosyllabic Maya script]]", "synharmony", "Landa alphabet as Spanish letter-names"]
-fieldwork_sites: ["[[unknown]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+trained_under: ["Sergei A. Tokarev (Moscow/Leningrad placement)"]
+trained: ["Galina Yershova (as reported Coe 2012)"]
+key_works:
+  - "Ancient Writing of Central America (Sovietskaya Etnografiya, 1952)"
+  - "Subsequent Maya syllabary and codex studies (1950s–80s)"
+key_concepts:
+  - "[[maya-hieroglyphic-writing|logosyllabic Maya script]]"
+  - "synharmony (CV-C(V) spelling of CVC roots)"
+  - "Landa alphabet as Spanish letter-name / CV syllabic key"
+  - "polyvalence and phonetic complements"
+fieldwork_sites: ["Leningrad / St. Petersburg Institute of Ethnography (desk-based epigraphy)"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, linguistic-anthropology, archaeology]
 ---
 
@@ -19,44 +25,46 @@ tags: [thinker, linguistic-anthropology, archaeology]
 
 ## Overview
 
-Soviet linguist and epigrapher who, in the 1950s, established that Classic Maya writing is a **logosyllabic** system with consonant–vowel (CV) syllabic signs — overturning the mid-century Western consensus (associated especially with J. Eric Thompson and [[morley-sylvanus-g|Sylvanus G. Morley]]) that the script was essentially logographic/ideographic and non-phonetic. As summarized by [[sharer-traxler-ancient-maya-2006|Sharer & Traxler 2006]], Knorosov re-read Diego de Landa’s “Maya alphabet” as Spanish **letter-name** sounds rather than Yukatek phoneme-to-letter matches, and demonstrated the principle of **synharmony** for spelling CVC Mayan roots. Few of his earliest individual readings were correct, but the principles were sound; as of their 2006 synthesis the syllabary was nearly complete. English-language defense and conservative syllabary-building is credited especially to David Kelley (*Deciphering the Maya Script*, 1976).
-
-*Note on spelling:* surname also transliterated **Knorozov**; this vault uses the slug `knorosov-yuri` and the form **Knorosov** in display text for consistency with existing links.
+Soviet linguist and epigrapher (Yuri Valentinovich Knorosov / Knorozov, 1922–1998) who, in a 1952 *Sovietskaya Etnografiya* article and follow-on work, established that Classic Maya writing is a **logosyllabic** (“hieroglyphic”) system with consonant–vowel **syllabic** signs — the methodological hinge of modern decipherment. [[coe-breaking-the-maya-code-2012|Coe (2012)]] ranks him as the Maya field’s Champollion and dedicates *Breaking the Maya Code* to his memory. Parallel textbook summaries: [[sharer-traxler-ancient-maya-2006]], [[coe-houston-the-maya-2015]]. Vault slug remains `knorosov-yuri` (also transliterated Knorozov).
 
 ## Contributions
 
-### Phoneticism and synharmony (attributed — Sharer & Traxler 2006)
+### Biographical path (as reported by Coe 2012)
 
-Knorosov proposed that Maya scribes wrote CVC roots with sequences of CV signs in which the **final consonant** is carried by a second CV sign whose vowel agrees with the first (silent final vowel) — **synharmony**. Classic example in their summary: *kutz* (turkey) spelled *ku-tz(u)*.
+Born 19 November 1922 in Kharkov to ethnic Russian parents; wartime path through German occupation, Moscow State University (history; Egyptology and Asian scripts), noncombatant artillery service, then Leningrad Institute of Ethnology after MSU graduate admission was blocked by a “spoilt biography” (former occupied-zone resident). Professor Sergei Tokarev challenged him to crack Maya writing after Schellhas’s “unsolvable” verdict; Knorosov learned Spanish and made Landa’s *Relación* the dissertation foundation.
 
-### Landa’s alphabet as Spanish letter names
+Coe (who visited him in Leningrad/St. Petersburg, including 1989) stresses that Knorosov’s published Maya work does **not** invoke Marx/Engels/Stalin — contrary to Cold War Western caricature — even though editorial prefaces sometimes draped Marxist-Leninist language over the articles.
 
-Sharer & Traxler report his key historiographic correction: Landa did not record Yukatek phonemes one-to-one with Spanish letters; the informant responded with **Spanish letter-name sounds** (e.g., Spanish *q* corresponding to *ku*; Spanish *b* recovered via *hacbe* → *che*). That reanalysis made Landa’s *Relación* (~1566) usable as a phonetic key after earlier nineteenth-century attempts (Brasseur, Rosny, Cyrus Thomas) had largely failed.
+### Logosyllabic method
 
-### Place in the broader decipherment sequence
+Knorosov (as synthesized by Coe and by Sharer & Traxler):
 
-In Sharer & Traxler’s narrative arc:
+1. Rejected unilinear pictograph→ideograph→phonetic evolution; early scripts (Egyptian, cuneiform, Chinese, Maya) **combine** logograms, phonetic signs, and determinatives.
+2. Held that [[landa-diego-de|Landa]]’s signs carry the phonetic values Landa attributed — largely as **CV syllabic** signs (not a pure alphabet), despite a century of dismissal.
+3. Allowed **polyvalence** (phonetic vs morphemic uses), calligraphic reordering, and **phonetic complements** on logograms.
+4. Demonstrated readings on Dresden Codex bird/Moon Goddess passages: e.g. *k’u-tz(u)* “turkey,” *ku-ch(u)* “burden,” *chu-ka-ah* “captured,” *tzu-l(u)* “dog,” *mo-o-o* “macaw,” directional *chik’in* “west.”
+5. Formulated **synharmony**: in CV-C(V) spellings of CVC Mayan roots, the second vowel usually matches the first (silent final vowel).
 
-1. Calendrical foundations (Förstemann from 1880; Goodman 1897/1905; Thompson and Morley on dates) without acceptance of historical/phonetic content.
-2. **Knorosov** — phonetic/syllabic principles (1950s).
-3. **[[proskouriakoff-tatiana|Proskouriakoff]]** — historical structure of texts (1960).
-4. Post-1970s dynastic and grammatical work (Lounsbury, Schele, Mathews; Stuart; Houston, Robertson & Stuart on Classic Mayan/Ch’olan language of the inscriptions; Martin & Grube 2000).
+The capture reading *chu-ka-ah* later proved decisive for Classic war monuments. Few of the earliest specific readings were all correct; as both Coe and Sharer & Traxler emphasize, the **principles** were sound and the syllabary was refined into near-completeness by later workers.
 
-As of Sharer & Traxler 2006, about **80% of the most commonly used Maya glyphs** had been deciphered on logosyllabic principles.
+### Reception arc
+
+Soviet and world press publicized the 1952 paper (*New York Times*, 13 August 1952). [[thompson-j-eric-s|J. Eric S. Thompson]]’s 1953 *Yan* review (as narrated by Coe) rejected it as Marxist propaganda. Positive early Western evaluation included Tor Ulving (*Ethnos* 1955). [[kelley-david-h|David H. Kelley]] became the principal North American operationalizer. After Thompson’s death (1975) and the Palenque/Texas workshop generation, Knorosov-line phonetics became consensus. Coe notes Knorosov died in 1998 — same year as [[schele-linda|Linda Schele]] and [[lounsbury-floyd|Floyd Lounsbury]] — with little U.S. press notice.
 
 ## Intellectual Genealogy
 
-- **Sources reused:** Landa’s *Relación* (abridged 17th-c. copy; Brasseur publication 1864) as cipher key once correctly interpreted.
-- **Opposed by** mid-century logographic orthodoxy (Thompson influence dominant in Anglophone Maya studies into the 1950s–60s).
-- **Defended and operationalized** in North America by Kelley; later integrated with Proskouriakoff’s historical hypothesis and Berlin’s Emblem Glyphs into the modern epigraphic program.
-- **Language target:** phonetic values feed readings of Classic Mayan (Ch’olan court language) as later specified by Houston, Robertson, and Stuart (as of Sharer & Traxler 2006).
+- **Key:** [[landa-diego-de|Diego de Landa]]’s *Relación* as cipher key once re-read as letter-names/syllabics.
+- **Comparative models:** Egyptian, cuneiform, Chinese “hieroglyphic” systems (anti-unilinear).
+- **Opposed:** Thompson–[[morley-sylvanus-g|Morley]] mid-century orthodoxy ([[maya-script-decipherment-debate]]).
+- **Complementary hinge:** [[proskouriakoff-tatiana|Proskouriakoff]]’s historical structure of texts (1960) — phonetics + history jointly enabled dynastic epigraphy.
+- **Downstream:** Kelley; Lounsbury–Schele–Mathews; [[stuart-david|David Stuart]]; [[houston-stephen|Stephen Houston]]; Martin–Grube synthesis generation.
 
 ## Critiques and Reappraisals
 
-- **Many early specific readings wrong** — Sharer & Traxler stress that Knorosov’s initial correct decipherments were few; the achievement was the **method**, refined by subsequent workers into a nearly complete syllabary.
-- Cold War–era reception delayed Anglophone uptake; historiographic accounts of the “decipherment wars” are fuller in specialist literature (Coe’s popular narratives; see [[coe-michael-d]]) than in Sharer & Traxler’s compact summary.
-- Remaining undeciphered or incompletely read signs and rare spellings still limit full text recovery (as of 2006 baseline).
+- Early **sign-by-sign** errors acknowledged by friendly historians; method > first grid.
+- Cold War framing distorted reception on both sides (Coe’s thesis: Western rejection was political as much as technical — treat as Coe’s **position**).
+- Remaining incomplete readings and rare spellings limit full literalism (as of 2006–2015 surveys, ~80–85% of common signs).
 
 ## Historiography
 
-Primary filing source for this summary page: [[sharer-traxler-ancient-maya-2006]] (Ch. 3 pioneer-decipherment and phoneticism sections). Parallel treatment: [[coe-houston-the-maya-2015]]; concept page [[maya-hieroglyphic-writing]]. Knorosov stands with Proskouriakoff as the dual hinge between calendrical Maya studies and modern political/dynastic history of the Classic lowlands.
+Densified from [[coe-breaking-the-maya-code-2012]] (Ch. 6 and frame chapters) atop prior Sharer & Traxler / Coe–Houston summaries. Coe is a personal advocate who knew Knorosov; balance with technical epigraphic literature. Concept: [[maya-hieroglyphic-writing]]. Debate: [[maya-script-decipherment-debate]]. Method: [[epigraphy]].

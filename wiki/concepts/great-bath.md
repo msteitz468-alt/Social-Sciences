@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "large waterproof brick tank on Mohenjo-daro citadel mound; dimensions ~12 × 7 × 2.4 m; bitumen/gypsum waterproofing"
 contested: yes
 related_concepts: ["[[indus-religion]]", "[[indus-urbanization]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [concept, archaeology, south-asia]
 ---
 
@@ -59,3 +59,9 @@ Physical features used to identify and analyze the structure (Kenoyer 1998):
 ## Kenoyer 1998
 
 Full architectural and interpretive treatment in Ch. 3 (C2-052, C2-054–056): earliest public water tank; dimensions and bitumen; drainage and colonnades; special religious purification vs ordinary bathing platforms to the north. Source: [[kenoyer-ancient-cities-indus-1998]]; scholar: [[kenoyer-jonathan-mark]]. Site: [[mohenjo-daro]]. Related: [[mackay-ernest]], [[marshall-john]], [[indus-religion]].
+
+## Wright (2010) — construction detail, and Jansen's ritual reading vs. Wright's civic reading
+
+*(Attributed to [[wright-rita-p|Rita Wright]], *The Ancient Indus* (Cambridge, 2010), Chs. 9–10.)* Wright records the tank as a watertight pool approximately 12 × 7 × 2.4 m, built of precisely fitted bricks with millimeter-wide joins, sealed with gypsum plaster and bitumen, flanked by a pillared gallery, corridor, and rooms, with a double-walled well as water source and a drain roofed by a corbelled vault 1.8 m high. Michael Jansen (1993b) suggests a possible "ritual significance" to the Bath tied to a general veneration of water; Wright explicitly declines to adjudicate this interpretation, treating the Bath instead — non-committally as to ritual versus non-ritual function — as a communal public place, in contrast to Jansen's own reading of Mohenjo-daro's water works generally as "man's attempt to control nature" (Jansen 1993a/b:17).
+
+Ardeleanu-Jansen (1984, 1983) documents the Bath's construction in four phases, ending with the tank filled with debris, its pillar rows destroyed or partially reused as production space, a drain built over the fill, and the whole structure buried — and suggests, based on this sequence, that the Great Bath was abandoned as a functional space "while the Harappans were still in occupation of the site." Wright reports Ardeleanu-Jansen's finding that ideology/prestige-related debris comprised 34% of the floor-level assemblage versus 12% at the surface level, consistent with a shift away from the structure's original use before the site's wider abandonment.

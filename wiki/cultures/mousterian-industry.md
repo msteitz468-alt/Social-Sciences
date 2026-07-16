@@ -15,8 +15,8 @@ preceded_by: [acheulean-industry]
 succeeded_by: [aurignacian-industry, chatelperronian-industry]
 language_affiliation: "[[unknown]] — industry, not a population"
 genetic_signature: "[[unknown]] — industry, not a population"
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [culture, late-prehistory, europe, near-east]
 ---
 
@@ -73,3 +73,13 @@ Bordes’s typology remains descriptive infrastructure; ethnic “five tribes”
 ## Braidwood 1959 — traditions ≠ “Mousterian man”
 
 *(Attributed — [[braidwood-robert]], *[[braidwood-prehistoric-men-1959|Prehistoric Men]]*.)* “Mousterian” alone is inadequate; layers show mixed **industries** (Levalloiso-Mousterian, Acheuleo-Mousterian / Mousterian of Acheulean tradition). Rejects equating Neanderthal with “Mousterian man.” Tool-making traditions are habits, not peoples. See [[neanderthals]], [[acheulean-industry]].
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*Source: [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]. **As of Tattersall 2012.** Four-way non-identity: **industry ≠ species**.*
+
+**Entrenchment and non-exclusivity.** By the time diagnostic Neanderthal remains are known in Europe, the Mousterian (prepared-core variants) was entrenched. In Europe it is “virtually synonymous” with *H. neanderthalensis*, yet **very similar toolkits** were produced by other hominids in North Africa and the Levant — including early anatomical moderns at [[skhul]] and [[qafzeh]] and Mousterian-like kits at [[jebel-irhoud]] (makers not looking Neanderthal). Characteristic implements Tattersall lists: modest sharp points, convex scrapers, small teardrop handaxes on flakes, endless local variations (attributed).
+
+**Form continuum and materials.** Mid-20th-c typologies defined >50 “distinct” tool forms; more recent researchers (via Tattersall) treat a continuum produced by complex discontinuous resharpening of superior-material flakes. Cleanly fracturing rocks were highly prized and regularly sought far afield (nearest good sources often many miles — basis for El Sidrón territorial speculation on the [[neanderthals]] page). Scrapers/points with resin traces confirm hafting in wooden handles or spear tips. Soft materials: bone and antler plentiful but rarely made into tools (contrast later Upper Paleolithic Europeans); rare La Quina ~50 ka bone retoucher apparently from a piece of **hominid cranium**. Mousterians “bashed bones as if stones,” lacking successors’ sensitivity to soft-material mechanics; craftsmanship “pretty stereotyped” despite skill and beauty (Tattersall 2012).
+
+**Cognitive reading (thesis).** Nothing in the Neanderthal technological record suggests symbolic thinkers “in the way that we are”; stone implements are poor proxies for symbolic thought — confident inference requires overtly symbolic objects or actions (burial may have other motivations; ochre grinding need not imply symbolic intent). For industry-level implications of Châtelperronian acculturation debates and Levantine MP shared by morphologically distinct hominids, see [[neanderthals]], [[chatelperronian-industry]], [[behavioral-modernity]].

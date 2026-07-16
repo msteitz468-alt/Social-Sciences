@@ -15,8 +15,8 @@ preceded_by: ["Atlantic Bronze Age ‘proto-Celtic’ substratum (Cunliffe/Spani
 succeeded_by: ["Roman provincial societies of Hispania"]
 language_affiliation: "Celtiberian is a Continental Celtic language (attested epigraphically, e.g. Botorrita); Cunliffe 1997 treats Celtiberians as Celtic-speaking communities of the Meseta/Ebro flank with Iberian–Mediterranean cultural fusion — language ≠ La Tène package."
 genetic_signature: "Not addressed in Cunliffe 1997."
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [culture, iron-age, iberia]
 aliases: [Celtiberians, Celtiberian, Celtiberes]
 ---
@@ -122,6 +122,12 @@ Part of the broader Celtic problem-set; distinct from coastal Iberian non-Celtic
 5. **Elite-dominance expansion** of *Celtici/Gallaeci* labels is not mass folk migration of the Po Valley type.
 6. **No genetic signature** in the present source; do not back-project modern DNA claims onto Cunliffe’s 1997 frame.
 7. Martial’s self-ascription is classical ethnonym identity (Celt + Iberian), not archaeological culture equation.
+
+## Densification from Cunliffe, *Facing the Ocean* (2001)
+
+Cunliffe (2001) restates the Celtiberian origins question as a live position dispute rather than a settled matter, sharpening the historiography already recorded above. **Position A (hybridization/migration):** Diodorus Siculus (probably drawing on Poseidonius) held the Celtiberi were a hybrid people formed from Celts and Iberians "after long and bloody wars," a belief still held by Romanized locals such as the poet Martial; "some still adhere to the view that 'Celts' from west central Europe migrated en masse" in the 6th century BCE or earlier (Cunliffe 2001). **Position B (indigenous development, Cunliffe's own):** "a more reasonable explanation is that the Celtiberi were essentially a group of indigenous peoples" sharing a common culture that crystallized in a region positioned to benefit from both the metal-rich Atlantic west and the Mediterranean Iberian littoral (Cunliffe 2001) — consistent with the indigenous-assimilation model already attributed to Cunliffe 1997 on this page.
+
+He adds material detail: by the 6th century BCE the Celtiberian warrior elite used a recurring grave-good set of short swords, spears, and round shields (sometimes horse gear), while elaborate gold torcs circulated but were not placed in burials; by the 4th century BCE Celtiberi made wheel-turned pottery, used rotary querns, had committed their Celtic language to writing, and occupied large defended hilltop settlements resembling towns (Cunliffe 2001). On external contact, he finds direct archaeological evidence for exchange between the Celtiberian zone and Atlantic communities "surprisingly sparse" (limited to a bi-globular dagger type and westerly-distributed horse-and-rider fibulae), concluding the Celtiberian interior likely remained largely isolated from Atlantic Iberia, since Atlantic metals were probably shipped to the Mediterranean by sea via the Carthaginian port of Gadir rather than overland through Celtiberian territory (Cunliffe 2001) — qualifying the "metal-rich Atlantic west" access this page's Position B credits Celtiberia with. The antennae-hilted sword links Celtiberia to Galicia and to communities north of the Pyrenees (Aquitania, Languedoc), suggesting long-term elite exchange across the western passes rather than population movement (Cunliffe 2001; see [[la-tene-culture]]).
 
 ## Historiography
 

@@ -13,8 +13,8 @@ cultures: ["[[unknown]] — local Sichuan Bronze Age tradition; associated_with 
 excavated_by: ["Sichuansheng (Sichuan Provincial Institute of Cultural Relics and Archaeology)"]
 excavation_years: "reported through Sichuansheng 1999"
 key_finds: ["260-ha walled enclosure", "life-size bronze figures and heads", "bronze face masks", "bronze \"trees\" with birds", "bronze ritual vessels (zun, lei) in Shang style", "jade/stone ge and zhang blades", "bi and huan/yuan rings", "cowry shells"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, bronze-age, china, east-asia, southeast-asia]
 ---
 
@@ -85,5 +85,40 @@ lead-isotope link to Yunnan ore sources and the cowry-shell evidence for a South
 connection are material/exchange-network associations, not evidence of shared population, language,
 or polity with those regions.
 
+## Shelach-Lavi (2015) densification
+
+*(Attributed — [[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]].)*
+
+Shelach-Lavi describes the site's pounded-earth enclosure wall as up to 40 m wide at its
+base and still standing 6 m tall in places, enclosing an estimated 2.6 km² (~260 ha,
+consistent with the figure above) — comparable in scale to the inner walls of the Shang
+city at [[zhengzhou|Zhengzhou]] (Falkenhausen 2003). His regional chronology (Table 7)
+dates the Sanxingdui period to ca. 1700–1150 BCE "(as of Shelach-Lavi 2015)."
+
+The site's **two sacrificial pits**, dated to the final centuries of the 2nd millennium
+BCE, are modest in size (4.6×3.5×1.6 m and 5.3×2.3×1.6 m) but contained more than 1,000
+artifacts — bronze statues, masks, and trees, gold objects, jade, elephant tusks/ivory, and
+cowrie shells. The largest bronze human figure is 2.6 m tall; the bronze-tree assemblage
+stands 4.2 m (Falkenhausen 2002).
+
+A distinctive point Shelach-Lavi draws out: of the 22 bronze vessels recovered from the two
+pits, 20 are "amphora-shaped" (*zun*, *lei*, *hu*) types more typical of the middle/lower
+Yangzi and Han River valley bronze traditions than of the Yellow River Shang tradition — in
+tension with the "Shang-style ritual vessels" characterization above. He reads this,
+together with stylistic parallels between the Xin'gan bronze head and Chenggu bronze masks
+(Bagley 1999), as evidence of interregional contact "not controlled or mediated by the
+Shang" — a mosaic of interacting, non-Shang-centered polities rather than a single
+Shang-dominated network. Lead-isotope studies of Erligang- and Yinxu-period bronzes found a
+rare radiogenic-lead isotope shared among vessels from north China, the Yangzi basin, and
+Sanxingdui, suggesting a common lead (and possibly tin) source across these regions (Jin
+2003) "(as of Shelach-Lavi 2015)" — consistent with, though not identical to, the HRL
+signature discussed above.
+
+Following Sanxingdui's decline, the **Jinsha site** (Chengdu suburbs, Shierqiao period)
+yielded ~17 excavated houses, kilns, and ash pits, plus at least 60 ritual pits/deposits
+containing elephant tusks, bronze weapons/bells/figurines (no vessels), jade, stone,
+ceramics, and more than 200 gold objects.
+
 Links: [[erlitou-culture]] · [[erligang-culture]] · [[zhengzhou]] · [[shang-civilization]] ·
-[[chinese-civilization-origins-debate]] · [[liu-chen-archaeology-of-china-2012]]
+[[chinese-civilization-origins-debate]] · [[liu-chen-archaeology-of-china-2012]] ·
+[[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]]

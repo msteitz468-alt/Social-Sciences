@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["papers defining the Indus Valley Tradition and Regionalization phases (cited throughout Kenoyer 1998)"]
 key_concepts: ["[[indus-valley-tradition]]", "parallel Baluchistan and Helmand traditions", "Regionalization phases (Balakot, Amri, Hakra, Kot Diji)"]
 fieldwork_sites: ["[[unknown]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -46,3 +46,17 @@ Competing periodizations ([[indus-age]], Early/Mature/Late Harappan, domain sche
 ## Historiography
 
 Primary papers cited via Kenoyer 1998 endnotes and text; not yet ingested as standalone sources. Shaffer’s terminology is one of this wiki’s load-bearing chronological apparatuses for Indus coverage.
+
+## Wright, *The Ancient Indus* (2010)
+
+Wright 2010 describes Shaffer's (1992) tradition/era/phase scheme in more procedural
+detail than Kenoyer 1998: "tradition" as the broadest stylistic-analytical unit,
+subdivided into "eras," subdivided into "phases" (each defined by a diagnostic ceramic
+style at one or more sites during a particular time). Wright notes she simplifies
+Shaffer's scheme for her own narrative, dropping the "tradition"/"era" terms. Wright
+also records, with Shaffer and Lichtenstein (1999), their **continuity thesis** —
+that cultural continuities can be traced from the Post-urban period through Painted
+Gray Ware into the early historic "second urbanism" of the Ganges Valley (ca.
+800–600 BCE) — a position Wright discusses alongside her own more cautious reading
+that urbanism was severely curtailed in the intervening period, a terminology and
+interpretation dispute recorded here without adjudication.

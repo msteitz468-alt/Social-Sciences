@@ -13,8 +13,8 @@ cultures: ["Khmer"]
 excavated_by: ["École française d'Extrême-Orient and successors"]
 excavation_years: "20th–21st c."
 key_finds: ["Angkor Wat", "Angkor Thom / Bayon", "baray reservoirs"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [site, medieval, southeast-asia]
 ---
 
@@ -97,6 +97,45 @@ of private grandee estates rivalling the overlord, and siltation of the water sy
 the Peten Maya centres (via Renfrew's 1979 catastrophe model), flagged as analogy rather
 than evidence. Source: [[higham-archaeology-mainland-southeast-asia-1989]]; see
 [[higham-charles]].
+
+## Higham 2002 densification
+
+In *Early Cultures of Mainland Southeast Asia* (2002), Higham treats Angkor as the
+**fulfillment**, not a dislocation, of Chenla aims — magnified scale and stability under
+rulers of unusual charisma and prowess, not a new political species. He organises the
+dynastic narrative as:
+
+- **Jayavarman II dynasty** — foundation and *kamraten jagat ta raja* cult; Higham notes
+  Vickery’s reading that the Sdok Kak Thom inscription’s “Java” may refer to Chams rather
+  than the island.
+- **Sun Kings** — Indravarman / Yashovarman monumental programme; Suryavarman I’s oath of
+  allegiance and Western Baray; Lingapura interlude under Jayavarman IV.
+- **Mahidharapura** — Angkor Wat under Suryavarman II; 1177 Cham sack; Jayavarman VII’s
+  Buddhist foundations (Ta Prohm, Preah Khan tallies of villages and hospital staff).
+
+**Taxation and administration.** No currency: taxation in produce, labour, and merit;
+territorial units *praman* / *visaya* / *sruk*; temples as bonded-village repositories of
+surplus. Following Mabbett, Higham stresses **favour and cliques** over Weberian
+bureaucracy — "obeisance, not border posts."
+
+**Warfare.** Following Goody on the "means of destruction": civil war for the centre,
+vassal subjugation, and war with neighbouring mandalas; elephants, ballistae, and naval
+war on the Tonle Sap; no fixed borders.
+
+**Agriculture and hydraulics.** Higham’s 2002 stance is **against** large-scale baray
+irrigation as the basis of royal power. He reports Acker’s calculation that baray
+irrigation would have fed only a small fraction of Groslier’s population estimate; notes
+inscriptional silence on irrigation and re-reads Zhou Daguan; interprets barays as the
+oceans of Mount Meru (symbolic); and prefers decentralized rain-fed bunded rice under
+grandee-family labour control. This is a clear shift from his 1989 intermediate lean —
+see [[angkor-hydraulic-city-debate]]. (Lidar-era mapping of greater Angkor is not in this
+source.)
+
+**Decline.** Thai military pressure, Theravada ideological change, contraction of central
+construction, and 1431 Ponha Yat; gradual re-centring rather than sudden collapse from
+hydraulic failure.
+
+Source: [[higham-early-cultures-mainland-southeast-asia-2002]]; thinker [[higham-charles]].
 
 ## Significance
 

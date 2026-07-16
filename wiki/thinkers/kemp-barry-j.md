@@ -12,8 +12,8 @@ key_works:
   - "Amarna Project reports and monographs"
 key_concepts: ["provider state (Egypt)", "model communities", "bureaucratic mind (Egypt)", "mature Formal Temple"]
 fieldwork_sites: ["[[amarna|Tell el-Amarna]] (long-running Amarna Project director)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, archaeology, egypt]
 ---
 
@@ -42,3 +42,15 @@ Cambridge Egyptology / McDonald Institute research community; dialogue with Giza
 ## Historiography
 
 Primary ingested source: [[kemp-ancient-egypt-2018]]. Site base: [[amarna]]. Narrative chronological companion: [[wilkinson-toby|Toby Wilkinson]], *[[wilkinson-rise-fall-ancient-egypt-2010|The Rise and Fall of Ancient Egypt]]* (2010) — political arc vs Kemp’s institutional anatomy.
+
+## Lehner cross-links (1997)
+
+*(Light densification from [[lehner-mark]], *[[lehner-complete-pyramids-1997|The Complete Pyramids]]* 1997 — citations of Kemp, not a full second digest of Kemp’s own work.)*
+
+- **Illahun/[[kahun]] grain estimate.** Lehner cites Kemp’s estimate that collective granaries of the large houses in Senwosret II’s pyramid town of Illahun (Kahun) could store enough grain to feed **5,000–9,000** people annually; small-house dwellers “must have worked for and in the large households.” Dieter Arnold’s ~5,000 workforce figure for Amenemhet III’s Dahshur mudbrick pyramid is noted as the same order of magnitude.
+- **“Hidden aspect” of pyramid building.** Lehner attributes to Kemp the phrase for the vast engineering of construction debris and razed settlement infrastructure buried under later works (e.g. Menkaure industrial zone; Kromer dump SE of Menkaure).
+- **Khafre galleries / Amarna bakery analogy.** Lehner rejects Petrie’s “workmen’s barracks” label for the long galleries west of Khafre’s pyramid, comparing them instead to NK temple comb galleries that Kemp identified as temple bakeries (millions of bread-mould fragments) with craft evidence — diverse workshop functions.
+- **13th-dynasty court cemetery.** Lehner quotes Kemp on the “inability to promote the construction of a monumental court cemetery” by late MK ruling households despite skilled royal quarry/mason crews.
+- Dialogue already noted in Overview (Giza work / Lehner & Hawass) is reciprocal: Lehner’s 1997 synthesis uses Kemp’s Illahun logistics and Amarna workshop readings as comparative controls for pyramid-town and gallery interpretation.
+
+See also [[kahun]], [[urbanization]], [[bureaucracy]], [[pyramid-complex]], [[heit-el-ghurab]].

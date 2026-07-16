@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["[[carneiro-evolutionism-cultural-anthropology-2003|Evolutionism in Cultural Anthropology (2003)]]", "A Theory of the Origin of the State (1970)", "The Muse of History and the Science of Culture (2000)"]
 key_concepts: ["[[circumscription]]", "[[chiefdom]]"]
 fieldwork_sites: ["Amazonia (Kuikuru and related; mid-20th c.)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [thinker, anthropology]
 ---
 
@@ -36,6 +36,16 @@ tags: [thinker, anthropology]
 - **Peers/allies (attributed network):** [[service-elman-r|Elman Service]], [[sahlins-marshall|Marshall Sahlins]] (early general/specific program), [[childe-v-gordon|V. Gordon Childe]]; Joyce Marcus read every chapter of the 2003 book in draft.
 - **Debates with:** [[harris-marvin|Marvin Harris]] (cultural materialism vs determinant pluralism — Carneiro reports the Service–Harris *Natural History* / *SWJA* exchange); integrative state theorists; post-processual anti-evolutionism.
 - **reacted_against:** Boasian [[historical-particularism]]; functionalist ban on conjectural history; caricature unilinearity charges; Wittfogel hydraulic prime-mover (re-read as false correlation for circumscription).
+
+## Reception in Basin of Mexico archaeology
+
+Sanders, Parsons & Santley (*[[sanders-parsons-santley-basin-of-mexico-1979|The Basin of Mexico]]*, 1979) adopt Carneiro's circumscription model as a central organizing theory for their Basin settlement data, deriving population ceilings by political-organization level (bands hundreds, tribes thousands, chiefdoms tens of thousands, states millions) from a combination of his framework and their own "law of least effort." They also record an explicit disagreement with Carneiro: he classified [[wittfogel-karl-a|Wittfogel's]] hydraulic theory as purely "volunteeristic" (risk-minimization only), a reading Sanders, Parsons & Santley (1979) reject as too narrow, arguing hydraulic agriculture's effects are "multifaceted and very complex" and implicate all three of their proposed "lawlike generalizations." Recorded as a position, not adjudicated.
+
+## Ancient Oaxaca 2nd edition (Blanton, Feinman, Kowalewski & Nicholas 2022) — the "deus ex machina" critique
+
+*(Attributed — Blanton, Feinman, Kowalewski & Nicholas, [[blanton-ancient-oaxaca-2022|Ancient Oaxaca: The Monte Albán State]], 2nd ed., 2022.)*
+
+Blanton et al. summarize Carneiro's circumscription-adjacent argument (Carneiro 1970) — population pressure driving conflict over agricultural resources, leading to domination by groups better able to control them, "especially...when those who are dominated have few or no options to emigrate" — and argue against this and related cultural-ecological/circumscription-style explanations as resting on population pressure as a "deus ex machina" cause of state formation. For the Valley of Oaxaca (and, they note, for Mesopotamia), the authors argue population was well below carrying capacity at the time Monte Albán and other early states formed, and that canal irrigation followed rather than preceded Monte Albán's founding (citing Wright 1986; see also [[wittfogel-karl-a|Wittfogel]] and [[hydraulic-hypothesis-debate]]). They instead reframe population growth as a **consequence** of Monte Albán's founding — via immigration and pronatalist incentives — rather than an initial cause, proposing a "coactive," circular/mutual-causal model in place of a linear population-pressure-to-state model. This is recorded as a position within the broader circumscription/[[state-formation]] literature, not adjudicated here.
 
 ## Critiques and Reappraisals
 

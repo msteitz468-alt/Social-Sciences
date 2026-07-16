@@ -1,0 +1,56 @@
+---
+title: "Cylinder Seal"
+concept_type: "classificatory"
+coined_by: []
+date_coined: "Middle to Late Uruk period (mid–late 4th millennium BCE), within the Eanna temple bureaucracy at Uruk"
+disciplines: ["archaeology", "assyriology"]
+emic_or_etic: "etic"
+operationalized_as: ["seal and sealing (bulla, tablet, door/jar sealing) finds and impressions; functional analysis of reverse cord/hook impressions distinguishes sealed object type"]
+contested: "yes"
+related_concepts: ["[[cuneiform]]", "[[origins-of-writing]]", "[[uruk-culture]]", "[[temple-economy]]", "[[kingship]]"]
+sources_ingested: 1
+last_updated: "2026-07-15"
+tags: ["concept"]
+---
+
+# Cylinder Seal
+
+**All content on this page is attributed to [[potts-mesopotamian-civilization-1997|Potts (1997)]]**, synthesizing named specialist studies of Mesopotamian glyptic (seal-carving) and sealing practice.
+
+## Definition as Coined
+
+The cylinder seal is a small, perforated stone (or occasionally metal/glass/faience) cylinder engraved in intaglio, rolled across wet clay to produce a continuous, repeatable impression — distinct from the flat **stamp seal**, which impresses a single static image. Potts frames the cylinder seal, alongside writing, as an invention of the bureaucracy administering the earthly estates of the goddess Inanna from the Eanna temple complex at [[uruk|Uruk]] (attributed): "Writing and the cylinder seal were 'invented' by members of a bureaucracy whose duty it was to administer the earthly estates of Inanna, 'Queen of Heaven'..." He cites the Sumerian epic *Enmerkar and the Lord of Aratta* ("The Lord of Kulab patted some clay and set down words on it as if on a tablet. Before that time there was no putting of words on tablets," trans. Vanstiphout 1993:13) and notes that Kullaba/Kulab, an archaic district of Uruk adjacent to Eanna, may (per Nissen 1972:794–5) have been prominent before Eanna's Late Uruk rise — an unresolved priority question about Uruk's internal topography, not about the seal's invention itself.
+
+## Semantic History
+
+**Stamp to cylinder to stamp: the sealing sequence.** Stamp seals appear as early as the Ubaid period in southern Mesopotamia (e.g. Tello; Homes-Fredericq 1970; von Wickede 1990), though not always demonstrably economic in function. True cylinder seals appear first in the Middle or Late Uruk period (Brandes 1979) and were used from an early date to seal tablets, storage jars, crates, and doors. Potts flags a possible Middle Uruk cylinder seal from Tell Brak in Syria (Oates and Oates 1993) which, if correctly dated, would be the earliest cylinder seal yet found in Western Asia, predating the Late Uruk horizon — recorded as an open dating question. The cylinder form dominated Mesopotamian glyptic for roughly three millennia before stamp seals re-emerged as the favoured medium beginning in the second half of the eighth century BCE (Neo-Assyrian period; Boehmer 1976), continuing through Seleucid ring-seals to the end of the Sasanian era (651 CE).
+
+**Potts's critique of Nissen's functional-superiority explanation (position).** H. J. Nissen (1977:15–23) proposed that Late Uruk/Jamdat Nasr seals fell into two functional categories correlated with administrator rank: "schematic" seals (cut with a bow-drill or cutting-wheel, crude and repetitive) used by lower-level bureaucrats to represent office authority rather than individual identity, versus "naturalistic" seals (deeper cutting, individualistic scenes of humans, buildings, and animals) used by high-level administrators requiring personal sanction of transactions. Potts notes that Uruk itself is characterized almost exclusively by naturalistic seal impressions, while the smaller contemporary site of Jamdat Nasr yielded mostly crude schematic seals but very few sealings (Moorey 1976:95–106) — under Nissen's hypothesis implying Uruk had many high-ranking officials while Jamdat Nasr's administration was of lesser status. Potts directly challenges the broader functional claim that the *cylinder form itself* was adopted because it was superior to the stamp for sealing an entire object surface: "A simple, functional explanation which favours the superiority of the cylinder over the stamp does not, therefore, seem justifiable" — noting that stamp seals fulfilled comparable functions on Sasanian bullae, bales, containers, and documents for over a millennium after cylinder seals fell from favor. This is Potts's own critique of an established scholarly model, not a settled resolution.
+
+## Operationalizations
+
+**Fiandra's door-sealing methodology.** Potts credits the Italian scholar Enrica Fiandra with redirecting glyptic studies, from the late 1960s, toward *function* rather than iconography alone — the first to present systematic evidence of door-sealing in antiquity across sites from the Aegean to Iran, by focusing on cord/rope impressions on the *reverse* of sealings rather than the seal image on the obverse. R. Zettler applied this method to the Inanna temple at [[nippur|Nippur]] in the Ur III period, recovering 149 sealings (Zettler 1987:202).
+
+**Zettler's bin data (Nippur, Ur III).** Zettler's excavation of a bitumen-lined subsurface storage bin (locus 78) in the administrative centre of the Inanna temple at Nippur — believed used for storing/recycling tablet clay — yielded thirty-four cylinder sealings with the following functional breakdown: 3 (9%) cord impressions, 15 (44%) "hook" impressions (door sealings), 5 (15%) jar sealings, 1 (3%) bag sealing, 1 (3%) box sealing, 6 (17%) miscellaneous/unidentified, and 3 (9%) unpreserved. Four of the five jar sealings and the box sealing bore the official seal of Lugal-engar-du10, "chief administrator of the temple" (Zettler 1987:207, 225).
+
+**Historical fluctuation in tablet-sealing practice (ED–Ur III).** No seal impressions are known from Archaic Ur (ED I) or Fara (ED II, c. 2500 BCE) texts; only a single sealed envelope and tablet is known from late Early Dynastic [[lagash|Lagash]], and only a handful of sealed texts survive from the Old Akkadian period (Steinkeller 1977:41). Door and pottery-vessel sealing, by contrast, was well attested in this period (Fara, Girsu), suggesting security against theft mattered more to mid-third-millennium estate managers than validating written documents. Sealing of tablets and envelopes became common again from the Ur III period onward.
+
+**Steinkeller's Ur III sealing-practice study — the receiver-sealing shift.** P. Steinkeller (1977:42–46) found that under Ur III administration only receipts, disbursements, and letter-orders were sealed among administrative texts — not ration lists, accounts, inventories, "round tablets," or "messenger texts." It was standard to encase tablets in protective envelopes, more often sealing the envelope than the tablet itself. Crucially, the seal no longer signified the *dispatching* authority but was instead applied by the *receiver* of goods (formulas like *su ba-ti*, "he received"). Legal documents (sale, loan, gift, hire) were sealed by the party undertaking an obligation (the seller renouncing a claim, the borrower promising repayment), while officials' seals on other documents served an authorization/attestation function. J. Renger (1977:75) characterized such Mesopotamian contracts — unlike modern bilateral-agreement contracts — as retrospective "protocol[s] written from the viewpoint of the witnesses," attesting a transaction already completed, given in past tense (attributed).
+
+**Iconography and tablet content: no systematic link found.** Only ~250 of ~2,000 seal impressions found at Uruk have been published (Nissen 1986:329), making it difficult to systematically link seal iconography with tablet content. Potts discusses an Uruk III barley-ration tablet (Metropolitan Museum) sealed with the well-attested "priest/king" figure hunting boar with dogs, and, via R. K. Englund's data, compares three sealed Archaic tablets (W 21 074,1; W 20 570,2; W 21 278) against their iconographic themes: "There are no obvious connections between iconography and text content, unless the depiction of an animal being skinned or butchered in the third example has some relation to the fact that hides are listed in the tablet from which it comes" — a finding, not a strong theoretical claim.
+
+**Seal loss as a legal matter.** Loss of a personal seal was a serious legal event requiring public invalidation. Documented Ur III/Old Babylonian cases: a herald publicly announced that no claim could be made against the merchant Ur-DUN after his seal was lost (Steinkeller 1977:49); precise dating of Lu-Ninshubur's lost seal implied documents sealed with it after that date would be invalid (Hallo 1977:54–5); Nippur texts state that lost-then-recovered sealed tablets were to be destroyed; an Old Babylonian text records the exact day Silli-Urash's black seal disappeared; and the Assyrian Dream Book (Tablet B) treats seal loss as an omen of a child's death.
+
+**Substitute sealing for the sealless.** Old Babylonian alternatives for people lacking a personal cylinder seal included cheap clay "*burgul* seals" (Sum. *bur-gul*, Akk. *purkullu*, named after the seal-cutter, who appears as a witness — Werr 1988; Renger 1977:79), common at Nippur and Tell Harmal; impressing the hem of one's garment (Nippur, Sippar) with a scribal annotation "seal of PN"; and fingernail impressions (Dilbat, Ur), similarly annotated.
+
+**Seal updating on promotion.** Ur III officials sometimes held multiple seals invoking different kings under whom they served — e.g. Ur-Lisi, *ensi* of Umma, had seals mentioning both Shulgi and Amar-Sin; his successor Ajakalla had seals invoking both Amar-Sin and Shu-Sin (Steinkeller 1977:46–7). Officials receiving promotion generally had new seals cut — e.g. Abbakalla of Lagash went from "scribe" to "temple administrator of Uru." Women's seals could likewise change to reflect a husband's promotion (Ninhilia, wife of Ajakalla). An Ur III seal of Lukalla of Umma, chief comptroller for twelve years (Pomponio 1992:169), was later found in use some two hundred years later at Kültepe (Karum Kanesh) in Anatolia (Waetzoldt 1990:48) — evidence of seals as durable, transferable, and reused property distinct from their original owner's identity.
+
+## Applications
+
+Feeds [[origins-of-writing]] (joint invention with the cylinder seal in the Eanna bureaucracy) and [[cuneiform]] (the sealed-tablet/envelope evidentiary record); the seal-loss and promotion evidence connects to [[kingship]] (royal-name seal updating as a marker of political legitimacy) and to household/property transactions synthesized on the wiki's Mesopotamian institution pages.
+
+## Critiques and Limitations
+
+- Nissen's schematic/naturalistic rank-correlation hypothesis rests on a small, unevenly published corpus (only ~250 of ~2,000 Uruk seal impressions published) and is recorded here as an influential but unconfirmed model, not a wiki-voice finding.
+- Potts's own critique of the cylinder-over-stamp "functional superiority" explanation is itself a position, stated by a single scholar against an established model — flagged as attributed critique, not adjudicated consensus.
+- The Tell Brak "Middle Uruk" cylinder seal dating (Oates and Oates 1993) is reported as an open dating question, not confirmed priority.

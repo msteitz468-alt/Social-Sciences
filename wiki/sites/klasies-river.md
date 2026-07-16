@@ -9,12 +9,12 @@ date_precision: approximate
 dating_methods: [faunal-analysis, zooarchaeology]
 periods_of_occupation: [late-prehistory]
 region: [southern-africa, africa]
-cultures: [homo-erectus]
+cultures: [anatomically-modern-humans, howiesons-poort-industry]
 excavated_by: [unknown]
 excavation_years: unknown
 key_finds: ["early modern/near-modern human fossils contemporary with European Neanderthals", "cut-marked and fragmented human bone", "faunal assemblage of eland and buffalo with contrasting mortality profiles"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [site, late-prehistory, southern-africa]
 ---
 
@@ -47,3 +47,19 @@ Discussed in [[klein-human-career-1999]] ([[klein-richard]]).
 **Cannibalism/butchery.** ~80 ka bones from Klasies show telltale butchery signs alongside a long-term pattern of cannibalism/defleshing across early human assemblages (antecessor Atapuerca, Bodo, Neanderthal sites, Gough’s Cave) — Stringer notes alternative funerary, ritual, or starvation contexts rather than treating cannibalism as unique pathology.
 
 See [[behavioral-modernity]], [[modern-human-origins-debate]], [[anatomically-modern-humans]].
+
+## Oxford Handbook densification (Mitchell & Lane 2013)
+
+*Attributed — Marlize Lombard (Ch. 26), Lawrence Barham (Ch. 24), Marta Lahr (Ch. 23), Christian Tryon (Ch. 8), Graham Connah (Ch. 2) in [[mitchell-lane-oxford-handbook-african-archaeology-2013]]; **as of handbook ~2012**.*
+
+Lombard places a **Klasies River substage** (~90–120 kya) among four southern African techno-complexes (with Mossel Bay, Still Bay, Howiesons Poort) showing technological continuity rather than MSA stagnation. Howiesons Poort backed pieces from Klasies River are Tryon’s type exemplar. Similarities between Mossel Bay/MSA II and post-Howiesons Poort assemblages **at Klasies River** are, Lombard argues, overemphasized and oversimplified as evidence of behavioural “reversal.” Notched bone objects are known from Klasies River (alongside Sibudu ~60 kya and Apollo 11 ~70 kya). Engraved bone ~80–100 kya at Klasies is cited within the ≥100 kya geometric engraving tradition.
+
+Barham and Lahr place Klasies among MIS 5 modern human fossils (with Mumba, Border Cave, North African sites, and Levantine Skhul/Qafzeh); Barham notes the chronology revolution that dated Klasies ~120 kya within the RAO/modernity synthesis. Connah (Ch. 2) flags faunal work at Klasies River Mouth as part of the post-Burg-Wartenstein shift toward behavioural and environmental questions in African Stone Age research. Lahr suggests many MIS 5 southern/North African populations may later have gone extinct — a **position** on survivor bias, not wiki-voice demography. Cultures field on this page should not read “Homo erectus”; MIS 5 Klasies fossils are treated as early *H. sapiens* / anatomically modern humans in the handbook (**as of ~2012**).
+
+### Tattersall — *Masters of the Planet* (2012)
+
+*Source: [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]. **As of Tattersall 2012.***
+
+**Southern MSA makers poorly known skeletally.** Who southern MSA people were is a conundrum — little burial practice near living places; isolated teeth at Pinnacle Point uninformative. At Klasies River Mouth: **symbolic division of living space into distinct functional areas** by over **100 ka** (Tattersall’s reading of structured domestic space as a modern-style signal, contrasting with typical Neanderthal sites that show little activity zoning — attributed). Fragmentary human remains **80–90 ka** may represent the cooked remnants of a **cannibal feast** (reported possibility); usually interpreted as *Homo sapiens*, if not precisely within the modern envelope then very close (as of Tattersall 2012).
+
+**Place in symbolic sequence.** Grouped with [[blombos-cave]] and related MSA sites as evidence that something important was astir in middle/later MSA Africa before LSA / European Upper Paleolithic full expression; skeletal near-modernity without (yet) the full bead/ochre package that Blombos later provides. Cannibalism claim is **position**/possibility, not wiki-voice fact — align with Klein/Stringer cautions already on this page. See [[homo-sapiens]], [[behavioral-modernity]], [[neanderthals]].

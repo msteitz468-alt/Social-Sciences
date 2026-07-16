@@ -15,8 +15,8 @@ preceded_by: []
 succeeded_by: []
 language_affiliation: "click languages (Kx'a, Tuu, Khoe-Kwadi families); not identical with the genetic lineage discussed here"
 genetic_signature: "among the deepest-diverging documented human lineages, with some sub-Saharan African population pairs showing greater mutation-density divergence than any pair of populations outside Africa (as of Reich 2018)"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [culture, behavioral-modernity, southern-africa]
 ---
 
@@ -51,3 +51,20 @@ This page addresses only the genetic-ancestry construct as reported by Reich; it
 ## Historiography
 
 The "San as earliest human lineage" framing common in earlier population-genetics literature has been revised by later work (Skoglund and colleagues, cited in Reich 2018) showing that other African populations, including West Africans, also carry substantial ancestry from early-diverging lineages — a shift Reich presents as part of a broader pattern of "genetic sharing" among structured ancient African populations replacing simpler branching-tree narratives (as of Reich 2018).
+
+### Handbook densification (*Oxford Handbook of African Archaeology*, 2013)
+
+*(Attributed — chapters in *[[mitchell-lane-oxford-handbook-african-archaeology-2013|Mitchell & Lane 2013]]*; as of ~2012. Reinforces four-way non-identity: genetic “Khoisan”/forager clusters ≠ Khoe/San languages ≠ LSA archaeological traditions ≠ self-conscious peoples.)*
+
+- **Linguistics (Blench, Ch. 4):** Conventional four African phyla include **Khoesan** (plus Austronesian on Madagascar); southern African Khoesan “mostly accepted as a group” after 1980s research, though Kwadi, Eastern ‡Hõã, and Tanzanian Hadza/Sandawe remain problematic for inclusion. Thin-walled fibre-tempered pottery and livestock appear in southern Africa 2–4 centuries before Iron Age agro-pastoralists (Sadr & Sampson 2006); Khoesan languages have deep livestock etymons despite forager stereotype. Blench proposes a “lost” **Cushitic** branch transferring herding skills and fat-tailed sheep/long-horn taurine cattle to early Khoe somewhere in present-day Zambia before Bantu overran the area — **hypothesis**, not wiki-voice.
+- **Genetics reflexivity (MacEachern, Ch. 5):** Genetic research concentrates on forager groups (Khoisan, Pygmy/BaTwa); farming populations poorly sampled. Research suggesting San and Pygmy/BaTwa lineages near roots of mtDNA/NRY trees with substantial Middle/Upper Pleistocene isolation must not reinscribe San as “fossilized remnants” or “oldest human population” — non-adaptive markers do not make carriers “less modern”; media/geneticist phrasing conflates genetic variability with historical identity (MacEachern). Congruence of genetic and archaeological sampling often reflects access/politics, not research design.
+- **Southern LSA herding before farmers (Sadr, Ch. 44):** Livestock AMS-dated to 1st centuries BC/AD in LSA contexts (mostly sheep; some cattle) ~2–3 centuries older than earliest securely dated iron-using farmer villages south of the Zambezi — Bantu farmers did **not** introduce livestock into southernmost LSA economies. Thin-walled LSA pottery independent of and earlier than farmer thick ware. No archaeological signature of a coherent demic Khoekhoe migration abruptly bringing livestock+ceramics ~2000 BP; Sadr favors infiltration of individuals/small groups and local forager adoption of livestock management without full pastoral transformation. Southeastern Bantu livestock words of Khoe origin (Ehret 2008) reverse the conventional language-flow story.
+- **Forager–farmer contact (Mitchell, Ch. 33/34 synthesis):** High Khoisan mtDNA in South African Nguni speakers fits female San–male Bantu hypergamy of wider farmer–forager relevance; exchange of iron, pottery, livestock for beads and “invisible” products documented; Wilmsen/Denbow dependency readings theoretically/empirically contestable (Mitchell’s position). Warning: treating the LSA as “Khoisan history” via a few semi-arid San groups risks generalizing ethnography across time and biomes.
+- **Rock art:** Southern African hunter-gatherer rock art readable primarily via San ethnography (Kalahari + /Xam archive) for shamanic healing, animal control, rain-making (Mitchell; Connah on Vinnicombe/Lewis-Williams) — analogy flagged, not identity of ancient painters with modern groups.
+- **[[kalahari-debate]]:** Wadley (Ch. 25) flags revisionist challenge (Wilmsen; Wilmsen & Denbow) to portrayals of Kalahari foragers as autonomous/pristine — especially once pastoral and farming communities enter the African stage.
+
+Cross-links: [[juhoansi]], [[hunter-gatherer]], [[bantu-expansion]], [[cattle-before-crops]], [[rock-art]], [[ancient-dna]], [[kalahari-debate]].
+
+### Heritage and representation (Meskell 2012 — attributed)
+
+*(Attributed — [[meskell-lynn|Lynn Meskell]], *[[meskell-nature-of-heritage-2012|The Nature of Heritage]]* 2012; South African fieldwork c. 2003–2009. This note concerns **representation politics**, not the genetic-lineage construct above.)* Meskell documents how San people have been positioned as "natural subjects" rather than historical agents in South African heritage practice: "living San" exhibited alongside rock art in safari settings, and — most starkly — administratively classified as part of the **"fauna"** to justify their retention in the Kalahari Gemsbok National Park (1930s–40s; Ramutsindela 2003). She follows Barnard (2007) in using "San" for foragers and "Khoekhoe" for pastoralists (rejecting "Bushmen"/"Hottentots"), noting significant historical movement between the groups. The 2006 opening of the **Origins Centre** at Wits sparked controversy when its "First Peoples" framing was read by some black South Africans as reviving apartheid-era "late arrival of Bantu" narratives — a live representational dispute, recorded not adjudicated. Meskell also relays a "Kalahari Picnic" fancy-dress event at which white SANParks staff performed racialized mimicry (blackface, imputed alcoholism) of San people — documented as an episode, not endorsed. On the peopling-chronology question (whether Bantu-speakers arrived ~800 years ago per SANParks' public text, or closer to two millennia ago per the archaeology), see [[kruger-national-park]].

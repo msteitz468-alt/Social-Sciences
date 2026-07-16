@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Tripartite classification of traded goods by social reach (essentials / staples / luxuries); tracked via archaeological sourcing (obsidian, lapis lazuli, carnelian), administrative texts, and merchant-colony archives (Kültepe/Kanesh)"
 contested: yes
 related_concepts: ["[[temple-economy]]", "[[money-and-silver]]", "[[ur]]", "[[sumerians]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: "2026-07-15"
 tags: [concept]
 ---
 
@@ -50,3 +50,64 @@ Feeds [[temple-economy]] (merchants as institutional agents; temples as banks fi
 ## Current Consensus (Van De Mieroop 2016)
 
 Van De Mieroop's account of the **Old Assyrian Assur–Kanesh (*karum*) trade** deepens the network already documented above (Postgate 1994). The merchant colony at Kanesh (Kültepe, central Anatolia), attested through roughly 22,500 recovered tablets from "Level II" (c. 1970–1834 BCE), was a private, family-firm-driven long-distance trade in tin and textiles moving between Assur and Anatolia, run largely independently of direct palace control. The archive is notable for including women's letters (Document 5.2, per Van De Mieroop) documenting gendered household and business tension between Assur-based wives and their traveling-merchant husbands — an unusually direct window onto the domestic side of the trading households behind the tablet-and-envelope contracts. This reinforces, from an independent source, Postgate's own emphasis above on the *karum*'s partnership capital funds (*naruqqum*), debt settlement, and inheritance business, and on the archive itself — rather than any distinctive material culture — as effectively the sole evidence for the merchant community's existence.
+
+## Algaze 1993/2005 — Uruk-period procurement as the engine of expansion
+
+*(Attributed — [[algaze-guillermo|Algaze]], [[algaze-uruk-world-system-2005|The Uruk World
+System]], 2nd ed. 2005.)* Algaze makes long-distance procurement the *primary driver* of
+the [[uruk-expansion|Uruk expansion]]: the alluvium, "devoid of most resources other than
+the basic ones provided by agriculture," had to import timber, metals, stone, and bitumen,
+exporting labor-intensive processed goods in return — an asymmetry he argues sustained the
+[[informal-empire|informal empire]]. His reconstructed Uruk-period import inventory (his
+Table 3) spans copper, silver/lead, gold, lapis lazuli (Badakhshan-sourced, appearing
+"fairly suddenly" at Susa and Warka), carnelian and other precious stones, obsidian,
+gypsum, flint, bitumen, and possibly dependent labor (Archaic Texts note slaves "of foreign
+origin from the mountains" — Weiss counters that foreign slaves were never the primary
+public workforce). Two evidentiary points reinforce the trade reading: neutron-activation
+analysis (Evins 1989) shows bevel-rim bowls at Samsat were made of *local* clay — the bowls
+themselves were not traded, only (possibly) their contents; and Keban-region copper-smelting
+slag (Tepecik, Norşuntepe) near the Ergani mines is contemporaneous with the Uruk network.
+Export textiles were highly labor-intensive (Larsen: simple fabrics ~a month, elaborate
+pieces years), organized in palace weaving establishments — a comparative advantage of the
+core. Algaze's [[gateway-community|enclaves and stations]] ([[habuba-kabira|Habuba]], Godin,
+Sialk) are read as nodes controlling these route flows. Whether the exchange terms were
+*asymmetric* (Algaze) or symmetric trade-diaspora coexistence (Stein) is the crux of the
+[[uruk-world-system-debate]].
+
+## Potts 1997 — "not resource-poor," watercraft, and eastern trade goods
+
+*(Attributed — [[potts-mesopotamian-civilization-1997|Potts, Mesopotamian Civilization 1997]].)*
+
+### The "not resource-poor" thesis
+
+Potts explicitly challenges "the prevailing view in most general works" that Mesopotamia was devoid of natural resources besides water, clay, and reeds — a framing traditionally used to explain the rise of bureaucracy as organizing the import of raw materials. He argues many local resources (limestone, quartz, salt, timber, bitumen) have been under-documented: e.g., limestone used in major Uruk/Jamdat Nasr religious buildings at Uruk was sourced only ~50–60 km away rather than imported (Boehmer 1984), and cuneiform evidence from pre-Sargonic Girsu and Ur III Umma documents organized local forestry administration (see [[temple-economy]]) rather than wholesale timber import. This is Potts's organizing thesis for the book's resource chapters, restated in his conclusion: "Mesopotamia's import of metals and stones is undeniable, but its local resource base was far greater than has often been recognized."
+
+### Bitumen
+
+Bitumen (Sum. *esir*, Akk. *itû*/*kupru*/*qīru*) sources exploited in antiquity included modern Khuzistan, the east Tigris/Zagros foothills, near Ur, near Mosul, and the Hit-Ramadi area of the Middle Euphrates. Herodotus (*Hist.* I.179) describes the Babylon city wall built with hot bitumen cement, sourced from a stream eight days' journey from Babylon; excavation of the Babylon ziggurat confirmed bitumen layers up to 12 cm thick used against rising damp (Schmid 1981). Bitumen was used for figurines, door coatings, boat and ship caulking, basket waterproofing, stone-masonry setting, magical rituals, medical ointments, and leatherworking waterproofing. An Ur III Girsu text (CT 7:31) records 3,170 gur (up to 951,000 liters) of bitumen "for caulking Magan boats," which Potts reads as evidence of massive exploitation of the bitumen seeps.
+
+### Copper: the Magan → Dilmun → Cyprus sequence
+
+Mesopotamian-origin painted ceramics appear in the Oman peninsula (Magan) as early as the Jamdat Nasr period, marking the start of a Mesopotamia–Magan copper relationship lasting over a millennium. Much Magan copper reached Mesopotamia via intermediary Dilmun (identified with modern Bahrain in the late 3rd/early 2nd millennium). By the mid-18th century BC, as cuneiform evidence for Magan copper via Dilmun ended, Cypriot (Alashiya) copper first appears in Mesopotamian texts, followed by growing importance of Cypriot and Anatolian copper. Cuneiform texts distinguish refined copper (*urudu-luh-ha*) from unrefined (*urudu*); Potts argues this suggests smelting typically occurred near the ore source and that matte, rather than fully refined copper, was often what was actually imported.
+
+### Tin: Central Asia (Sarazm/Bactria) vs. the discredited Southeast Asia hypothesis
+
+Potts reviews and rejects an earlier hypothesis (Muhly 1981) linking Southeast Asian tin sources (Ban Chiang, Thailand) to [[meluhha]] via supposedly Harappan etched carnelian beads found there — subsequent examination confirmed the Ban Chiang beads postdate the Harappan period by over a millennium (Lamb 1965; Glover 1990), discrediting the connection. Instead Potts presents evidence for Central Asian tin sources: cassiterite/stannite deposits in the Hissar, Zeravshan, Turkestan, Tien Shan, and Pamir mountains; the site of Sarazm in the Zeravshan Valley shows ceramic contact with both Baluchistan and northeastern Iran in the mid-to-late 3rd millennium; a Shulgi-inscribed axehead (2094–2047 BC) from Susa, of Bactrian type and containing 7.08% tin, supports Central Asian tin reaching Mesopotamia via Susa. Gudea's claim (Cyl. B XIV 13) of receiving tin from Meluhha is thus interpreted by Potts as tin trans-shipped through the Indus region from a Central Asian source (India itself has no tin), paralleling lapis lazuli's Afghan (Badakshan) origin also attributed to Meluhha.
+
+### Oil-for-copper exchange with Magan
+
+The Sumerian term *dug-sagan* denoted a pointed oil vessel; an Ur III text (UET III 1511) attests fine sesame oil exchanged for copper from Magan (the Oman peninsula) in the reign of Ibbi-Sin — direct textual evidence for the terms of the Magan copper exchange.
+
+### Cloves at Terqa, c. 1700 BC
+
+A handful of cloves, preserved in a jar in the pantry of a house at the Old Babylonian site of Terqa (northern Syria), are dated by associated tablets to c. 1700 BC (Buccellati 1983). J.E. Reade notes this predates the previously earliest Western attestation of cloves (Pliny, 1st century AD) by over a millennium; cloves are native to the Molucca Islands off Indonesia, implying an extraordinarily long trade chain (possibly via India, then Harappan/Dilmunite/Babylonian middlemen up the Euphrates). Potts notes the superficial etymological similarity between "Meluhha" and "Molucca" is unproven and cautions against over-reading it.
+
+### Cotton, cucumber, and rice reaching Mesopotamia
+
+Cotton (*Gossypium arboreum*) was cultivated by Sennacherib at Nineveh in the early 7th century BC, assumed of Indian origin; cotton fabric fragments are known from Harappa/Mohenjo-Daro, and Gossypium seeds from a fifth-millennium context at Mehrgarh predate other regional attestations by millennia. Potts also reports **calibrated** radiocarbon dates of cal 4450–3000 BC on cotton fibres from Dhuweila, Jordan (Betts et al. 1994), raising the possibility cotton reached the West far earlier than previously thought, though possibly as finished textile via Arabia rather than as a cultivated plant. Cucumber (*Cucumis sativus*) is botanically indigenous to India and rare in the Mesopotamian archaeobotanical record, possibly introduced by Indo-Pakistani migrants. Rice cultivation is dated to c. 6000 BC at Pengtoushan (see [[rice-domestication]]); despite early Harappan rice-husk evidence at Lothal, the earliest Mesopotamian written attestation is Neo-Assyrian.
+
+### Watercraft: gur typology, rental economics, and the sewn-boat hypothesis
+
+Mesopotamian ships (*ma*) were classified natively by volumetric capacity (gur) rather than by geography or appearance; Ur III Umma texts attest ships of 60, 50, 40, 30, 20, and 10 gur. Scholars disagree on whether stated gur-capacity equaled actual cargo tonnage — I.J. Gelb (1982) equated a 60-gur vessel's designation with a literal 18,000-liter cargo capacity, but Potts, citing T. Gomi (1993), states no textual evidence directly links stated ship size to actual cargo amount; H. Sauren's calculation from an Ur III shipbuilding text (WMAH 3) implies a much lower cargo-per-gur ratio than Gelb assumed. At Ur III Umma, boat rental rates varied by size (a 60-gur ship rented for 10–20 sila of barley/day); R.K. Englund (1988) proposed a rental formula combining distance and load (1 sila of barley per loaded gur per *danna* of travel).
+
+Potts argues, as a novel interpretive position with little prior attention in the literature, that the enormous tonnage of palm-fibre rope recorded in Ur III shipbuilding texts (e.g. 276 talents/8.28 tonnes of palm-fibre rope on one Girsu text, CT 7:31a) suggests some Ur III watercraft were **sewn or stitched vessels** — a technique well documented ethnohistorically for Gulf, Red Sea, and Indian Ocean sewn boats. Potts notes in his own footnote that no prior authority (de Graeve 1981; Casson 1971; Johnstone 1980; Landsberger) had raised sewn-plank construction for Mesopotamian boats specifically; this is recorded as Potts's own position, not an established finding.

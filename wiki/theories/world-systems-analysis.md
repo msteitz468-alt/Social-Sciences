@@ -15,8 +15,8 @@ core_claims:
 developed_from: ["[[historical-materialism]]", "dependency theory (Prebisch, Cardoso/Faletto — not fully ingested)", "Braudelian histoire totale / économie-monde"]
 competes_with: ["[[modernization-theory]]", "orthodox developmentalism", "state-as-unit international relations", "[[iemp-model]] (Mann: inter-national multi-power networks vs single transnational world-economy as master unit)"]
 status: active
-sources_ingested: 8
-last_updated: 2026-07-10
+sources_ingested: 11
+last_updated: "2026-07-15"
 tags: [theory, sociology, political-economy]
 ---
 
@@ -125,5 +125,65 @@ This dispute is recorded as a live methodological question, not adjudicated here
 A major offshoot applies world-systems concepts *before* capitalism — a move Wallerstein himself resisted (he restricted the "world-economy" to the last ~500 years). In archaeology and anthropology, Jonathan Friedman and Michael Rowlands, and later Andre Gunder Frank & Barry Gills ("the 5,000-year world system"), argued that [[core-periphery|core–periphery]] structures, [[prestige-goods-economy|prestige-goods]] control, and long cycles of expansion and contraction operated in the ancient world (Rowlands, Larsen & Kristiansen, *Centre and Periphery in the Ancient World*, 1987).
 
 [[kristiansen-larsson-rise-bronze-age-2005|Kristiansen & Larsson]] (2005) apply this to Bronze Age Europe, defining the Bronze Age as "a world historical epoch" of interconnected centres and peripheries — Near Eastern/Mediterranean centres exchanging bronze, prestige goods, and esoteric knowledge for the amber, gold, tin, horses, and mobile warrior-specialists of temperate Europe. Crucially they **qualify the dependency assumption**: following Edens & Kohl (1993), the ancient world-system differed from the modern one in having multiple centres, high overland transport costs, the ever-present option to **raid rather than trade**, and shared technologies between centre and periphery — so modern-style "dependency" rarely obtained (see also [[kristiansen-kristian|Kristiansen]]'s *Europe Before History*, 1998). Whether "world-system" is the right frame for precapitalist interaction at all remains disputed — critics (with Wallerstein) hold that without a single division of labour the analogy over-reaches.
+
+## Uruk Mesopotamia application (Algaze 1993/2005) — the earliest "world system"
+
+*(Attributed — [[algaze-guillermo|Guillermo Algaze]], [[algaze-uruk-world-system-2005|The
+Uruk World System]], 1993; 2nd ed. 2005.)*
+
+Algaze offers the deepest-time application of world-systems concepts in the wiki, arguing
+that the later-4th-millennium-BCE [[uruk-expansion|Uruk expansion]] out of southern
+Mesopotamia constitutes the world's **earliest "world system"** — millennia before
+Wallerstein's capitalist one, and before Kristiansen's Bronze Age Europe. He quotes
+Wallerstein (1974) verbatim and then criticizes him on two points: (1) Wallerstein's
+dichotomy between "immaterial" ancient trade in *preciosities* and destabilizing modern
+*bulk-staple* trade is, Algaze argues, empirically wrong — the alluvium imported
+*essential* commodities (copper, timber), not just luxuries (he cites Mintz on sugar's
+luxury→staple career); (2) Wallerstein's definition of ancient "world empires" as single
+political systems ignores cases (Carthage's "trading-post empire") where economic
+hegemony *outreached* political control. Algaze therefore builds his periphery reading on
+the Gallagher & Robinson [[informal-empire|informal-empire]] framework instead, and — from
+the core's perspective — on a **multi-core** modification of Wallerstein (competing
+alluvial polities, not a single center), inferred from Susiana survey evidence of rival
+states and warfare iconography.
+
+Crucially, Algaze answers Kohl's objection (that ancient core and periphery shared the same
+*material* technology, unlike the modern colonial gap) not by denying it but by relocating
+the southern advantage to organizational **"technologies of the intellect"** (after Goody):
+multi-seal sealing hierarchies and [[cuneiform|proto-cuneiform accounting]]. He concedes the
+ancient system was "less integrated and therefore less efficient and more fragile" — which,
+he argues, explains its rapid collapse. Whether world-systems vocabulary legitimately
+travels to pre-capitalist prehistory at all is the standing dispute; Algaze's specific
+asymmetry claim is contested by [[stein-gil|Gil Stein's]] [[distance-parity|distance-parity
+model]] (from [[hacinebi|Hacınebi]]; see [[stein-rethinking-world-systems-1999]]) and Marcela
+Frangipane's Arslan Tepe evidence — see [[uruk-world-system-debate]]. Stein pushes the
+critique furthest of anyone in the wiki: arguing that anthropology has "already discarded
+virtually all of the content of [the] world-system model" and "should slough off its
+inherently flawed terminological shell as well," replacing it with the more flexible
+language of interaction **networks**, [[trade-diaspora|trade diasporas]], and
+distance-parity. Cross-links: [[core-periphery]], [[gateway-community]], [[uruk-culture]].
+
+## Mesoamerican application (Ancient Oaxaca 2nd edition — Blanton, Feinman, Kowalewski & Nicholas 2022)
+
+*(Attributed — Blanton, Feinman, Kowalewski & Nicholas, [[blanton-ancient-oaxaca-2022|Ancient Oaxaca: The Monte Albán State]], 2nd ed., 2022.)*
+
+The 2022 synthesis credits [[wallerstein-immanuel|Wallerstein]] (1974, with precursors A. Gunder Frank 1969 and Fernand Braudel 1972) as originating the claim that "the local cannot be understood apart from a consideration of its place within larger, interactive networks or systems" (a framing they also attribute to Wolf 1982), and cites a body of later scholarship (Blanton & Fargher 2012a; Blanton & Feinman 1984; Blanton, Peregrine, Winslow & Hall 1997; Chase-Dunn & Hall 1991a/b, 1997; Peregrine & Feinman 1996; Schneider 1977; Schortman & Urban 1992; Abu-Lughod 1989) that adapted world-systems concepts, originally built for the modern capitalist world-economy, to noncapitalist and premodern situations including Mesoamerican archaeology. Following Chase-Dunn & Hall (1991a; Hall 1986), the authors distinguish the rare "world empire" (a single governmental system covering a whole civilizational tradition, as in some periods of Chinese civilization) from the more common "interstate system" (multiple interacting independent polities linked by a "world economy"/division of labor), and describe core-periphery dynamics as core states projecting hegemonic/economic influence while core elites' demand for imported prestige and ritual goods draws peripheries into exchange for core manufactured goods — citing the incorporation of 18th–19th-century Plains Indian societies into the early modern European world economy (fur for manufactured goods; Kardulias 1990) as an example, and noting "cores and peripheries generally develop in tandem through their mutually reinforcing interactions." They define "world" (lowercase, as an analytic term, after Braudel 1984 and Wallerstein 1991) as "a large, macroregional, geographic space or landscape, a social system not coterminous with any specific ethnic group or language," and distinguish this from Yoffee's (1993) non-hierarchical "interaction sphere," in which local groups participate on "a nearly equal footing, economically and politically" — exemplified, as an explicitly flagged ethnographic analogy, by the Trobriand kula exchange system described in Malinowski's *Argonauts of the Western Pacific* (1922).
+
+## Cunliffe's medieval Atlantic "world system" (2001) — a further, looser extension
+
+*(Attributed — [[cunliffe-facing-the-ocean-2001|Cunliffe, Facing the Ocean]], 2001.)*
+Barry Cunliffe applies world-systems vocabulary to the commercialized medieval
+Atlantic economy of c. 1000–1500 CE (see [[medieval-atlantic-trade]]), arguing that
+regional productive specialization (Castile oil, Portugal fruit, Gascony wine,
+Brittany salt, England cloth, Iceland fish) generated structural interdependency
+redistributed by maritime trade, and framing the roughly 120 years between Prince
+Henry's 1415 Ceuta expedition and Jacques Cartier's 1534 St Lawrence voyage as the
+hinge producing, in his words, "for the first time, a true world system." Unlike
+Kristiansen's, Algaze's, or Blanton et al.'s archaeological extensions above, Cunliffe
+does not engage Wallerstein's model directly, qualify the dependency assumption, or
+address the standing methodological dispute over whether world-systems vocabulary can
+legitimately travel to premodern cases — his usage is a rhetorical/interpretive flourish
+at a book's close rather than a worked application, and should be read as his own loose
+extension of the term, not as a considered contribution to this debate.
 
 **Deep analysis:** [[hubs/theory/world-systems-analysis]]

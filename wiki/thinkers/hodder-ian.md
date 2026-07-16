@@ -7,17 +7,17 @@ era: [critical-turn, contemporary]
 affiliated_theories: ["[[post-processual-archaeology]]", "[[entanglement-theory]]", "[[culture-historical-archaeology]] (trained in tradition; reacted against limits with processualism)"]
 trained_under: ["[[unknown]]"]
 trained: ["[[lucas-gavin]]"]
-key_works: ["Symbols in Action (1982)", "[[hodder-reading-past-2004|Reading the Past (1986; 3rd ed. 2003, with Hutson)]]", "The Domestication of Europe (1990)", "[[hodder-archaeological-process-1999|The Archaeological Process (1999)]]", "[[hodder-entangled-2012|Entangled (2012)]]"]
-key_concepts: ["[[interpretation-at-the-trowels-edge]]", "[[reflexive-fieldwork]]", "contextual archaeology", "[[entanglement]]", "[[dependence-dependency]]", "[[fittingness]]", "multivocality (archaeological)"]
-fieldwork_sites: ["Baringo, Kenya (ethnoarchaeology), late 1970s", "Haddenham, Cambridgeshire (causewayed enclosure / long barrow)", "[[catalhoyuk|Çatalhöyük]], Turkey, 1993– (project director)"]
-sources_ingested: 5
-last_updated: 2026-07-10
+key_works: ["Symbols in Action (1982)", "[[hodder-reading-past-2004|Reading the Past (1986; 3rd ed. 2003, with Hutson)]]", "The Domestication of Europe (1990)", "[[hodder-archaeological-process-1999|The Archaeological Process (1999)]]", "[[hodder-leopards-tale-2006|Çatalhöyük: The Leopard's Tale (2006)]]", "[[hodder-entangled-2012|Entangled (2012)]]", "[[hodder-catalhoyuk-excavations-2009-2017|Çatalhöyük Excavations: The 2009–2017 Seasons (ed., 2022)]]"]
+key_concepts: ["[[interpretation-at-the-trowels-edge]]", "[[reflexive-fieldwork]]", "contextual archaeology", "[[entanglement]]", "[[dependence-dependency]]", "[[fittingness]]", "multivocality (archaeological)", "history house (Çatalhöyük)"]
+fieldwork_sites: ["Baringo, Kenya (ethnoarchaeology), late 1970s", "Haddenham, Cambridgeshire (causewayed enclosure / long barrow)", "[[catalhoyuk|Çatalhöyük]], Turkey, 1993–2018 (project director; main East Mound fieldwork through 2017)"]
+sources_ingested: 7
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
 # Ian Hodder (b. 1948)
 
-British archaeologist, leading figure of **[[post-processual-archaeology|post-processual (interpretive) archaeology]]** and of **[[entanglement-theory|entanglement theory]]** (human–thing relations). Founder-director of the long-running reflexive excavation project at **[[catalhoyuk|Çatalhöyük]]** (Turkey). Ingested primaries: *[[hodder-archaeological-process-1999|The Archaeological Process]]* (1999); *[[hodder-entangled-2012|Entangled]]* (2012). Deep theory analyses: [[hubs/theory/post-processual-archaeology]]; [[hubs/theory/entanglement-theory]].
+British archaeologist, leading figure of **[[post-processual-archaeology|post-processual (interpretive) archaeology]]** and of **[[entanglement-theory|entanglement theory]]** (human–thing relations). Founder-director of the long-running reflexive excavation project at **[[catalhoyuk|Çatalhöyük]]** (Turkey; main East Mound seasons through 2017). Ingested primaries: *[[hodder-archaeological-process-1999|The Archaeological Process]]* (1999); *[[hodder-leopards-tale-2006|The Leopard’s Tale]]* (2006); *[[hodder-entangled-2012|Entangled]]* (2012); *[[hodder-catalhoyuk-excavations-2009-2017|Çatalhöyük Excavations 2009–2017]]* (ed. 2022). Deep theory analyses: [[hubs/theory/post-processual-archaeology]]; [[hubs/theory/entanglement-theory]].
 
 ## Overview
 
@@ -41,6 +41,25 @@ In *[[hodder-entangled-2012|Entangled]]* (2012) he shifts from how archaeologist
 - **Global heritage framing** — archaeology in network society: emancipatory multivocality vs dominating codification and “past as play.”
 - **[[entanglement-theory|Entanglement theory]]** — *[[hodder-entangled-2012|Entangled]]* (2012): object-side rebalancing of the interpretive program; dependence/dependency dialectic; fittingness; directional intensification of human–thing webs; ethical close on species-level entrapment.
 - **Series editor** — Blackwell Social Archaeology series, which published *[[gero-conkey-engendering-archaeology-1991|Engendering Archaeology]]* (1991); institutional home for the [[feminist-archaeology]] charter without equating feminism to Hodder’s own method package.
+
+### *The Leopard’s Tale* synthesis (2006)
+
+*(Attributed — [[hodder-leopards-tale-2006|Hodder 2006]], mid-project popular-scholarly synthesis of CRP results to the mid-2000s.)*
+
+- **Public synthesis of reflexive field results.** Bridged Mellaart’s 1960s fame-narrative and the specialist monographs: leopard art-vs-bone puzzle; wild symbolism vs domestic economy; house-centred social geography; rejection of Mellaart’s shrine/temple dualism ([[catalhoyuk-shrine-house-debate]]); “invention of history” via house-specific ancestral material proofs; weak sex differentiation in diet/burial (isotopes, Hamilton) vs stronger sex marking in upper-level art; stakeholder multivocality (Turkish state/UNESCO conservation, local villages, goddess tourism).
+- **Method companions.** Single-context recording, multi-national teams, on-site labs, flotation/sieving streams, and specialist–excavator integration stated for a non-specialist public — popular face of [[interpretation-at-the-trowels-edge]] and [[reflexive-fieldwork]].
+- **Gender/goddess challenges (attributed).** Reported no sex–diet isotope relationship (Richards/Pearson as of mid-2000s data); most figurines sexless; life/death dual figurine (2004) expands female imagery beyond fertility; argued it is unethical to underwrite strong goddess-matriarchy readings with thin evidence while keeping dialogue with goddess constituencies open.
+
+### Final main field phase and mature report form (2009–17 / ed. 2022)
+
+*(Attributed — [[hodder-catalhoyuk-excavations-2009-2017|Hodder ed. 2022]], CRP Series Vol. 12 / BIAA Monograph 56; primary multi-author excavation report for 2009–2017.)*
+
+- **Phase 4 research focus.** Variation of social/economic organisation through time (esp. around ~6500 BCE and later dispersal); extensive middle levels (South M–O ≈ Mellaart VII–VI); contiguous North G plans; TPC/GDN late-sequence work under Marciniak and Barański. Long aim restated: situate elaborate symbolic production in full environmental, economic, and social context.
+- **House typology / history houses.** Elaborates Templeton-funded typology: ‘history houses’ (Hodder & Pels 2010) as architecturally elaborate, multi-burial, multi-generation rebuilds acting as ritual/burial foci for neighbourhood clusters — **not** a return to Mellaart priest-shrine zones; early CRP surface/geophysics/excavation had already stressed relative site-wide uniformity of houses with domestic activity (Hodder 2022 Ch.1).
+- **Bayesian collaboration (as of Bayliss et al. 2022).** North Area absolute chronology completed via detailed radiocarbon plus Bayesian modelling led by Alex Bayliss (Ch.19 “northern timescape”); 25-year time slices refine contemporaneity beyond archaeological levels (levels ≠ all buildings occupied together). Load-bearing revisions include a break between B.5 and B.1 (B.1 comparatively late) and Bayesian resolution that B.131 post-dates burnt B.77 where stratigraphy alone was ambiguous (as of Farid/Hodder/Taylor/Tung 2022 citing Bayliss Ch.19). South Area Bayesian refinement still awaited as of the 2022 volume.
+- **Mature multivocal report form.** Unit/feature sheets, diaries, priority tours, interpretive category + probability tagging, and italic primary-media quotation in published building chapters operationalise 1990s method charters at monograph scale (Farid/Hodder/Lukas Ch.2) — with explicit acknowledgment of English-language and supervisor selection biases.
+- **Conservation/display as research constraint.** From 1991–92 Turkish brief, excavation co-equal with conservation and public presentation; display policy and shelters constrained depth (many buildings only to latest floors; partial excavation common); UNESCO 2012 inscription reoriented conservation practice (Lingle Ch.5).
+- **aDNA framing (as of papers cited in Hodder 2022 / Vol. 13).** Genomic syntheses (Lazaridis et al. 2016; Feldman et al. 2019; Chyleński et al. 2019, as summarised Vol.13 Ch.18) closer Çatalhöyük–Aşıklı than Çatalhöyük–Boncuklu links; Hodder reads spread of technology/ritual/domestic species over predominantly people — four-way non-identity retained.
 
 ## Intellectual Genealogy
 

@@ -9,8 +9,8 @@ emic_or_etic: etic
 operationalized_as: "cultural and noncultural processes that create and transform historic and archaeological records; operationalized via c-transforms and n-transforms (laws of regularities), refuse typologies, life-history stages, and multi-trace identification of deposits"
 contested: yes
 related_concepts: ["[[archaeological-record]]", "[[systemic-context]]", "[[archaeological-context]]", "[[pompeii-premise]]", "[[refuse-types]]", "[[old-wood-problem]]", "[[taphonomy]]", "[[ethnoarchaeology]]", "[[actualistic-studies]]", "[[equifinality]]", "[[object-biography]]", "[[event-occurrence-distinction]]"]
-sources_ingested: 4
-last_updated: 2026-07-10
+sources_ingested: 5
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -56,11 +56,20 @@ From the 1980s the apparatus was often generalized as “cultural formation proc
 | [[systemic-context]] / [[archaeological-context]] | States of materials in life history; items may cycle between them |
 | [[refuse-types]] | Primary, secondary, residual primary (McKellar Principle), de facto, provisional, abandonment-stage, etc. |
 | Pathway Model / Basic Discard Equation (FD = S/L) | Quantify discard from activity or settlement variables; **Cook’s Laws**; **Clarke Effect** (discard variety ↑ with occupation span) |
-| Multi-trace identification (Ch. 10) | Deposit as unit; size, orientation, damage, CI/FI, refits, sediment properties — rule out formation processes before behavioral inference |
+| Multi-trace identification (Ch. 10 / 1995 Ch. 18) | Deposit as unit; size, orientation, damage, CI/FI, refits, sediment properties — rule out formation processes before behavioral inference |
 | [[old-wood-problem]] | Systematic antiquity bias in wood radiocarbon when decay/reuse pathways ignored |
-| Archaeologist as formation process (Ch. 13) | Survey, sampling, recovery, curation introduce variability |
+| Archaeologist as formation process (Ch. 13; 1995 Ch. 21, 23 §25) | Survey, sampling, recovery, analysis, curation introduce variability |
 
-Equifinality is standing: similar traces from multiple processes → multiple attributes required (attributed, Ch. 2, 10).
+Equifinality is standing: similar traces from multiple processes → multiple attributes required (attributed, Ch. 2, 10; 1995 Ch. 18).
+
+### Identification checklist densified (*First Principles* Ch. 18 = Schiffer 1983c)
+
+Schiffer argued formation-process research had burgeoned experimentally and ethnoarchaeologically yet was rarely applied in recovery, analysis, and inference — “in no other area of archaeological methodology is there a greater disjunction between theory and practice” (attributed, Schiffer 1983c / 1995 Ch. 18). Unless deposit genesis is understood, behaviors of interest cannot be inferred from artifact patterns. **Four dimensions** of transformation (formal, spatial, quantitative, relational) structure the transformation view (Reid et al.; Schiffer and Rathje). Practical toolkit themes (attributed):
+
+- **Simple artifact properties:** size (reduction, size-sorting, **McKellar Hypothesis** — small items likelier primary refuse in regularly maintained areas); density/shape/orientation/dip; use-life / usability at deposition; material-specific damage; accretions.
+- **Complex properties:** quantity; vertical/horizontal distribution (clustering ≠ activity area); diversity (**Clarke Effect**); density/concentration; principle of dissociation; **Completeness Index (CI)** and **Fragmentation Index (FI)** (esp. ceramics/glass); reassembly/refitting; part representation.
+- **Deposit properties:** sediments as artifacts; ecofacts as CFP/NFP traces; geochemistry and negative evidence; structure/context/site morphology conditioning process probabilities.
+- **Strategies:** combine c-transforms / n-transforms with locality-specific empirical generalizations; hypothesis-testing when recovery is controlled; multivariate clustering of deposits when prior knowledge is thin; Lightfoot and Feinman Crooked Ridge reanalysis as demonstration that “big man” exotic–house associations can be formational (fill capacity, secondary refuse) rather than household inventory (attributed).
 
 ## Applications
 
@@ -79,7 +88,7 @@ Equifinality is standing: similar traces from multiple processes → multiple at
 
 ## Systemic vs Archaeological Context and Broader Program
 
-See [[systemic-context]], [[archaeological-context]], and [[behavioral-archaeology]]. Johnson (2011, secondary) reports later broadening (Skibo and Schiffer 2008) to people–thing relations via behavioral chains; Rathje’s Tucson Garbage Project as modern-material-culture exemplar.
+See [[systemic-context]], [[archaeological-context]], and [[behavioral-archaeology]]. *[[schiffer-behavioral-archaeology-first-principles-1995|First Principles]]* (1995) reprints the identification paper (Ch. 18), Pompeii response (Ch. 20), and principles inventory treating the archaeologist as a formation-process family (Ch. 23 §25). Johnson (2011, secondary) reports later broadening (Skibo and Schiffer 2008) to people–thing relations via [[behavioral-chain|behavioral chains]]; Rathje’s Tucson Garbage Project as modern-material-culture exemplar.
 
 ## Renfrew & Bahn textbook presentation (2012, Ch. 2)
 

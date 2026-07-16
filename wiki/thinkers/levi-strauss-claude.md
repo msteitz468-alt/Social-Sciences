@@ -10,8 +10,8 @@ trained: ["[[descola-philippe]]"]
 key_works: ["The Elementary Structures of Kinship (1949)", "Tristes Tropiques (1955)", "Structural Anthropology (1958)", "The Savage Mind (La pensée sauvage, 1962)", "[[levi-strauss-miel-aux-cendres-1966|Mythologiques II: Du miel aux cendres (1966/67)]]", "Mythologiques (4 vols., 1964–71)"]
 key_concepts: ["[[structuralism]]", "[[binary-opposition]]", "[[alliance-theory]]", "[[restricted-exchange]]", "[[generalized-exchange]]", "[[nature-culture-distinction]]", "[[atom-of-kinship]]", "[[bricolage]]", "[[science-of-the-concrete]]", "[[effectiveness-of-symbols]]", "[[culinary-triangle]]"]
 fieldwork_sites: ["Brazil — [[bororo|Bororo]] (1935–36), [[nambikwara|Nambikwara]] (1938), [[caduveo|Caduveo]] (1935), [[tupi-kawahib|Tupi-Kawahib]] (1938)"]
-sources_ingested: 9
-last_updated: 2026-07-11
+sources_ingested: 10
+last_updated: 2026-07-15
 tags: [thinker, anthropology]
 ---
 
@@ -43,6 +43,10 @@ Claude Lévi-Strauss (1908–2009) was the central figure of twentieth-century *
 | Institutional | Collège de France (chair in social anthropology, 1959) |
 
 Trained for the *agrégation de philosophie*; recruited in 1934 by Célestin Bouglé to the new University of São Paulo, arriving in Brazil in 1935; conducted the Brazilian fieldwork (1935–39) that grounds *Tristes Tropiques*; fled Vichy France in 1941 (with Breton and Victor Serge aboard the *Capitaine-Paul-Lemerle*) to the New School in New York, where he met **Roman Jakobson** — the decisive encounter for structuralism — and Boas.
+
+## Sociétés à Maisons (attributed, via Moore 2005)
+
+Lévi-Strauss developed the **[[house-society|"house societies"]]** (*sociétés à maisons*) concept in lectures and *The Way of the Masks* (1983), building from an analysis of Franz Boas's shifting attempts to classify Kwakiutl kinship — Boas ultimately abandoned unilineal/bilateral models and resorted to the Kwakiutl term *numaym*, "resigned himself to describing it as 'a type of structure without equivalent in the archives of ethnology'" (Lévi-Strauss 1983:170, quoting Boas). Lévi-Strauss defined the house as "a corporate body holding an estate made up of both material and immaterial wealth, which perpetuates itself through the transmission of its name, its goods, and its titles down a real or imaginary line of descent," extending the concept to Yurok, medieval European noble houses, and — more speculatively — Japan, ancient Greece, Polynesia, Indonesia, Melanesia, and Africa. [[moore-cultural-landscapes-andes-2005|Jerry Moore (2005)]] applies the concept to North Coast Peruvian architecture (see [[chan-chan]], [[chimu-culture]], [[sican-culture]]).
 
 ## Critiques and Reappraisals
 

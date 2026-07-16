@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["Teotihuacan Mapping Project (multi-decade, from the 1960s)"]
 key_concepts: ["[[unknown]]"]
 fieldwork_sites: ["[[sites/teotihuacan|Teotihuacan]] (Mapping Project director)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, anthropology, archaeology]
 ---
 
@@ -30,6 +30,10 @@ René Millon, of the University of Rochester, directed the **Teotihuacan Mapping
 ## Intellectual Genealogy
 
 Genealogical detail (training, students) is not covered in this source; recorded as "[[unknown]]" pending further ingest.
+
+## Reception in the Basin of Mexico synthesis
+
+Sanders, Parsons & Santley (*[[sanders-parsons-santley-basin-of-mexico-1979|The Basin of Mexico]]*, 1979) relied heavily on Millon's Mapping Project data: his population estimate of ~40,000 for Teotihuacan underwrites their calculation that 94–97.4% of the Valley's population resided in the city by Phase Four ("extreme nucleation" — see [[urbanization]]), and unpublished stratigraphic-excavation results from Millon's project were made available to and used by the Sanders/Parsons/Santley survey. The authors also engage a **position attributed to Millon (1976)**, itself drawing on Jane Jacobs' *The Economy of Cities* (1969): that cities generate their own developmental dynamic and drive agricultural intensification in their hinterland independent of surrounding ecology. Sanders, Parsons & Santley (1979) accept this "city as independent driver" claim as consistent with their own Teotihuacan zone model, but explicitly reject the further Jacobs/Binford (1968) claim — which Millon's position is associated with in their discussion — that agriculture itself originated among nucleated urban hunter-gatherer settlements, calling it unsupported by Mesoamerican agricultural-origins data.
 
 ## Critiques and Reappraisals
 

@@ -5,12 +5,12 @@ date_birth: 1926
 date_death: 2018
 date_precision: "year"
 disciplines: ["anthropology", "archaeology"]
-key_works: ["Land behind Baghdad (1965, not yet ingested as primary)", "[[adams-evolution-urban-society-1966|The Evolution of Urban Society (1966)]]", "The Uruk Countryside (1972, with Nissen; not yet ingested)", "[[adams-heartland-of-cities-1981|Heartland of Cities (1981)]]"]
+key_works: ["[[adams-land-behind-baghdad-1965|Land Behind Baghdad (1965)]]", "[[adams-evolution-urban-society-1966|The Evolution of Urban Society (1966)]]", "The Uruk Countryside (1972, with Nissen; not yet ingested)", "[[adams-heartland-of-cities-1981|Heartland of Cities (1981)]]"]
 key_concepts: ["[[theocratic-to-militaristic-sequence]]", "[[settlement-hierarchy]]", "[[rank-size-rule]]", "[[urban-revolution]]", "[[pristine-state]]", "[[multilinear-evolution]]"]
 fieldwork_sites: ["Akkad survey 1956/57 (with Vaughn Crawford)", "Diyala Basin 1957/58", "central Euphrates floodplain campaigns 1968–75", "central Mexico (comparative synthesis)"]
-primary_sources: ["adams-evolution-urban-society-1966 (ingested)", "adams-heartland-of-cities-1981 (ingested)"]
-key_sources: ["adams-evolution-urban-society-1966", "adams-heartland-of-cities-1981"]
-last_updated: 2026-07-10
+primary_sources: ["adams-land-behind-baghdad-1965 (ingested)", "adams-evolution-urban-society-1966 (ingested)", "adams-heartland-of-cities-1981 (ingested)"]
+key_sources: ["adams-land-behind-baghdad-1965", "adams-evolution-urban-society-1966", "adams-heartland-of-cities-1981"]
+last_updated: 2026-07-15
 tags: [hub, thinker-analysis]
 ---
 
@@ -18,7 +18,7 @@ tags: [hub, thinker-analysis]
 
 > Thinkers Hub deep analysis. Summary: [[adams-robert-mcc]]. Depth here only. All program and interpretive claims are **attributed voice** unless brute bibliographic fact.
 
-**Analysis standard:** works-timeline · concepts matrix · verbatim primary quotation · empirical base examined critically · counterfactual genealogy · nine canonical sections. Ingested primaries as of 2026-07-10: *[[adams-evolution-urban-society-1966|The Evolution of Urban Society]]* (1966) and *[[adams-heartland-of-cities-1981|Heartland of Cities]]* (1981). *Land behind Baghdad* (1965) and *The Uruk Countryside* (1972, with Nissen) known as program precursors, not yet full primary ingests.
+**Analysis standard:** works-timeline · concepts matrix · verbatim primary quotation · empirical base examined critically · counterfactual genealogy · nine canonical sections. Ingested primaries as of 2026-07-15: *[[adams-land-behind-baghdad-1965|Land Behind Baghdad]]* (1965), *[[adams-evolution-urban-society-1966|The Evolution of Urban Society]]* (1966), and *[[adams-heartland-of-cities-1981|Heartland of Cities]]* (1981). *The Uruk Countryside* (1972, with Nissen) remains a known program element, not yet a primary ingest.
 
 ## Formation and Training
 
@@ -47,7 +47,7 @@ Adams does not present as post-processual. He keeps evolutionary and ecological 
 
 ### Phase 1 — Diyala / Akkad survey foundations (mid–late 1950s)
 
-*Land behind Baghdad* (1965; not fully ingested) and the Akkad survey established ceramic-surface recovery of watercourses and settlement lines. Jacobsen dates the method's pioneer stage to two incomplete surveys that Adams then scaled systematically.
+*[[adams-land-behind-baghdad-1965|Land Behind Baghdad]]* (1965; study [[adams-land-behind-baghdad-study]]) and the Akkad survey established ceramic-surface recovery of watercourses and settlement lines. The Diyala survey (1957–58, one seven-month season, ~8,000 sq km, 867 sites) scaled Jacobsen's 1936–37 reconnaissance (119 sites) into a systematic method, codified in the book's Appendices A–B — the method charter later refined in *Heartland*. Adams modeled the project explicitly on Tolstov's Khorezm expedition and Willey's Virú Valley Project ("played a central role in shaping the author's own viewpoint"). The book already carries the program's signature theses in embryo: towns before managerial irrigation; the three-epoch irrigation model; anti-cyclical, anti-Oriental-despotism historiography ("Their crucial defect is that in the broadest sense they are ahistorical"); state-dependence of the maximal Sasanian regime ([[nahrawan-canal]]); and a multi-causal medieval collapse ranking the Mongols below political and ecological factors. Adams also recorded contemporaries' representativeness caution (Hodgson; Landsberger's "this study seeks to describe a dialect before the paradigm of the heartland is known") — the challenge the Euphrates campaigns answered.
 
 ### Phase 2 — Comparative multilinear urbanism (mid-1960s)
 
@@ -61,7 +61,7 @@ Adams does not present as post-processual. He keeps evolutionary and ecological 
 
 | Work | Year | Move it makes | Reception (as of ingested sources) |
 |---|---|---|---|
-| *Land behind Baghdad* | 1965 | Diyala settlement–canal synthesis | Program precursor; Heartland reinterprets Diyala canal stages |
+| *Land behind Baghdad* | 1965 | Diyala settlement–canal synthesis; survey method charter (App. A–B); three-epoch irrigation model | Founding classic of Mesopotamian regional survey; Heartland reinterprets Diyala canal stages |
 | *Evolution of Urban Society* | 1966 | Multilinear pristine urban comparison Mesopotamia–Mexico | Teaching classic; reanalyzed-contested ideal types |
 | *Uruk Countryside* (w/ Nissen) | 1972 | Intensive southern survey | 466 Warka sites reused in Heartland numbering |
 | *Heartland of Cities* | 1981 | Babylonia-scale settlement history + irrigation/urban theses | Jacobsen: equal or surpass tomb archaeology in fundamental importance |
@@ -133,11 +133,11 @@ Adams made **regional settlement archaeology** the default language for Babyloni
 
 ## Historiography and Primary Sources
 
-Ingested primaries: *[[adams-evolution-urban-society-1966|Evolution of Urban Society]]* (1966); *[[adams-heartland-of-cities-1981|Heartland of Cities]]* (1981). Outstanding: *Land behind Baghdad* (1965); *Uruk Countryside* (1972, with Nissen); Wright appendix as co-program; Jacobsen foreword as reception document; Chicago/Smithsonian institutional biographies still thin in-vault.
+Ingested primaries: *[[adams-land-behind-baghdad-1965|Land Behind Baghdad]]* (1965); *[[adams-evolution-urban-society-1966|Evolution of Urban Society]]* (1966); *[[adams-heartland-of-cities-1981|Heartland of Cities]]* (1981). Outstanding: *Uruk Countryside* (1972, with Nissen); Wright appendix as co-program; Jacobsen foreword as reception document; Chicago/Smithsonian institutional biographies still thin in-vault.
 
 ## Open Problems (as of ingested primaries)
 
-- Full *Land behind Baghdad* and *Uruk Countryside* primary ingests.
+- Full *Uruk Countryside* primary ingest.
 - Training chain (teachers/students) still thin.
 - Post-1981 satellite channel reconstructions vs Adams maps (specialist update).
 - Lagash area survey (explicit gap in 1981 foreword).

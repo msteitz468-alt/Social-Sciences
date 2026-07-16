@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "the return of a looted, stolen, or illegally exported antiquity to its country or community of origin, whether voluntary or court-ordered"
 contested: yes
 related_concepts: ["[[cultural-property]]", "[[unprovenanced-antiquities]]", "[[illicit-antiquities-trade]]", "[[repatriation-of-anthropology]]", "[[heritage]]", "[[nationalism-and-archaeology]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -105,6 +105,27 @@ looting thesis at [[antiquities-market-looting-debate]]. Distinguish this antiqu
 from the anthropological [[repatriation-of-anthropology|repatriation]] literature on human
 remains and colonial collections.
 
+### Cultural-internationalist critique (attributed — Cuno 2008/2011)
+
+[[cuno-james|James Cuno]] (*[[cuno-who-owns-antiquity-2008|Who Owns Antiquity?]]*) contests
+the premise that modern nation-states have a natural claim to return of antiquities found
+(or presumed found) within their borders. On his account, restitution and export-ban regimes
+are instruments of **nationalist retentionism** that nationalize a pre-national past;
+"antiquity cannot be owned" as exclusive national property. He reports high-profile
+**recovery purchases** framed as patriotic return (e.g. Poly Museum / Summer Palace zodiac
+heads; Cai Mingchao's unpaid Christie's bid "on behalf of all Chinese people") as identity
+politics rather than archaeological ethics — a **position** on
+[[antiquities-market-looting-debate]] Position B, not a wiki-voice verdict on those claims.
+His preferred alternatives are restored [[partage]], long-term loans/exchanges, and the
+spread of [[encyclopedic-museum|encyclopedic museums]], not wholesale return of encyclopedic
+collections.
+
 ## Primary Attribution
 
-Densified from [[renfrew-loot-legitimacy-2000|Renfrew 2000]] (Chs. 3, 5, 7).
+Densified from [[renfrew-loot-legitimacy-2000|Renfrew 2000]] (Chs. 3, 5, 7) and
+[[cuno-who-owns-antiquity-2008|Cuno 2008/2011]] (Introduction; Epilogue; Afterword).
+
+## Cases densified in Brodie et al. 2006
+
+Attributed case material expanding the restitution record: **Lydian Hoard** (Met→Turkey 1993) with Roosevelt & Luke’s caution that landscape context remains destroyed; Pachauri on Indian returns (Bodh Gaya and related examples as he reports); Renfrew on Weary Herakles stalemate and Getty/Italy recoveries; Iraq National Museum recoveries under amnesty and seizure (Bogdanos figures on [[iraq-national-museum]]). Restitution remains a **partial** remedy — objects may return; [[provenience]] does not.
+

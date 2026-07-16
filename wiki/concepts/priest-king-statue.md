@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "low-fired white steatite seated male sculpture from Mohenjo-daro DK 1909; ~17.5 cm high; trefoil-cloak type of formal Indus stone sculpture"
 contested: yes
 related_concepts: ["[[indus-religion]]", "[[indus-polity-debate]]", "[[gender-in-the-indus-civilization]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [concept, archaeology, south-asia]
 ---
 
@@ -59,3 +59,9 @@ Diagnostic traits of the formal Mohenjo-daro sculpture school (Kenoyer 1998):
 ## Kenoyer 1998
 
 Ch. 1 (religion/politics intertwined; priest-king as possible elite representation); Ch. 5 (formal style, multi-city non-control, fillet parallels); Ch. 7 (Harappa sculpture school context); catalogue Cat. 118 (and 117). Source: [[kenoyer-ancient-cities-indus-1998]]. Site: [[mohenjo-daro]]. Related: [[marshall-john]], [[indus-religion]], [[indus-polity-debate]], [[allahdino]].
+
+## Wright (2010) — the identification "generally rejected," and a reconstructive hypothesis
+
+*(Attributed to [[wright-rita-p|Rita Wright]], *The Ancient Indus* (Cambridge, 2010), Ch. 9.)* Wright reports that the early excavators' "Priest-King" attribution has been **generally rejected** by later scholarship: no religious structures (temples or shrines) have been positively identified anywhere in the Indus Civilization, and the statues themselves, including the Priest-King figure, were recovered from ordinary residential contexts rather than any dedicated ritual space. All Mohenjo-daro stone human sculptures but one are male and fragmentary, and their subject remains disputed — read as rulers (Ratnagar 1981), or as ancestral/clan figures (Kenoyer 1998) — a live interpretive disagreement Wright records without adjudicating.
+
+The statue itself (catalogued DKB-1909) was found in the DK-B area, in a building with an under-floor heating-flue system and ornamentally patterned brick walls, apparently having rolled to its find-spot when the building collapsed (Marshall 1931). Its name derives from the trefoil pattern on its cloak (once likely painted red), a design Wright notes is paralleled in contemporary Mesopotamian and Egyptian trefoil-inlay ornament (Ardeleanu-Jansen 1991) — a material association, not a claim of shared identity or origin. Ardeleanu-Jansen (1991) further proposes, as a reconstructive hypothesis rather than an established fact, that the Priest-King head may originally have been attached to a torso of the "L-950" type (a torso type also found in Area L, associated with other limestone statuary at Mohenjo-daro). Wright's broader conclusion, following her survey of Mohenjo-daro statuary, hoards, and mortuary evidence, is an explicit negative result: self-glorifying ruler iconography, common to other early states, appears "totally lacking" in the Indus Civilization, and there is "no basis on which to proclaim kingship" for any of the corpus, including the Priest-King figure.

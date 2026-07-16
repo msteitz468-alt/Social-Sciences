@@ -13,8 +13,8 @@ cultures: ["[[unknown]]"]
 excavated_by: ["John Garstang (1930s)", "Kathleen Kenyon (1952–58)", "later expeditions"]
 excavation_years: "1930s (Garstang); 1952–58 (Kenyon)"
 key_finds: ["Kenyon Proto-Neolithic / pre-pottery levels", "plastered skulls", "tower and wall features", "perennial-spring settlement sequence"]
-sources_ingested: 7
-last_updated: 2026-07-10
+sources_ingested: 8
+last_updated: 2026-07-15
 tags: [site, archaeology, near-east]
 ---
 
@@ -115,3 +115,9 @@ Site ≠ people ≠ language ≠ genes. Source: [[bellwood-first-farmers-2005]].
 - **PPNA (c.9500–8500 BC as Barker dates).** Early SW Asian farmers aceramic (Kenyon): PPNA then PPNB. Jericho unique monumental wall — defence and/or flood control debated. Netiv Hagdud-type oval semi-subterranean mud/stone/brick huts; many major settlements assumed permanent. First morphologically domestic cereals: **emmer + hulled two-row barley at Jericho** (with Tell Aswad emmer/peas/lentils) while wild seeds/fruits remain staples (attributed).
 - **PPNB (c.8500–6500 BC).** Among larger mixed-farming settlements (1,000–2,000 people scale class with Beidha, ‘Ain Ghazal, reoccupied Abu Hureyra, Çatalhöyük, etc.). Sheep/goat herding spreads to Jericho after Zagros/Taurus beginnings; household as primary production unit; skull removal/plastered faces (Jericho, ‘Ain Ghazal, Basta) (attributed).
 - **Identity caution.** Monumental PPNA architecture and early domestic cereals are site findings, not equations of Jericho with a people, language, or genetic population. Cross-links: [[natufian-culture]], [[abu-hureyra]], [[animal-domestication]], [[neolithic-revolution]], [[barker-graeme]].
+
+## Nissen densification (1988)
+
+*(Attributed — [[nissen-hans-j|Hans J. Nissen]], *[[nissen-early-history-ancient-near-east-1988]]* 1988, Chs. 1–2.)*
+
+Nissen treated early Jericho as sometimes called a “town” that anticipates later urban aspects and problems but differs decisively: it was **not** the center of a settled countryside or part of a settlement system, but a **river oasis without neighboring dependent settlements**. The perimeter wall, on his reading, pointed not only to protection but also required collective labor of all inhabitants, blocked density relief by expansion (intensifying internal conflict management), and increased differences between settlement inhabitants and outsiders. After a temporal gap, Jericho again resembled ordinary settlements; similar external characteristics only reappear much later when coupled with true centrality. With [[catalhoyuk|Çatalhöyük]], he classed it as a spectrum extreme — further development to higher political organization did **not** lead via Jericho but via structured multi-settlement systems. Plastered skulls in prepottery layers allowed him an ancestor-worship inference (ethnographic analogies). Site ≠ people ≠ language ≠ genes. Source: [[nissen-early-history-ancient-near-east-1988]].

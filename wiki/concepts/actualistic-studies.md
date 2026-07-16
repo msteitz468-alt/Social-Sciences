@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: observing ongoing, present-day processes — behavioral or natural — to establish the cause-to-material-trace linkages needed to interpret the static archaeological record
 contested: no
 related_concepts: [[ethnoarchaeology]], [[taphonomy]], [[middle-range-theory-archaeology]]
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -121,7 +121,14 @@ archaeology more broadly (house-burning-and-erosion experiments, craft-skill
 re-creation, pioneered heavily in Britain), historical documents used as experimental
 control, and modern comparative studies of urban refuse disposal (a Tucson, Arizona
 project tracking garbage collection) as parallel present-serving-the-past research
-modes (Binford 1983). Binford treated these actualistic results explicitly as building
+modes (Binford 1983). In *[[binford-bones-1981|Bones]]* (1981) Binford pushed the same actualistic
+program to its most sustained application: wolf-den and Nunamiut-butchery control data
+were used to build bone-modification and assemblage-composition diagnostics, then
+turned on the [[olduvai-gorge|Olduvai]] fauna to argue (against [[isaac-glynn|Isaac]]'s
+home-base reading) for hominid scavenging — the paradigm case of actualistic method
+disciplining behavioral inference (see [[binford-bones-study]]).
+
+Binford treated these actualistic results explicitly as building
 blocks of `middle-range-theory-archaeology` — instruments, analogous to a thermometer,
 for giving meaning to archaeological observations, and he was careful to mark the
 substantive behavioral claims they generate (e.g., a general economy of maximizing

@@ -13,8 +13,8 @@ cultures: ["[[assyrians]]"]
 excavated_by: ["Sir Austen Henry Layard (1849)", "Hormuzd Rassam (1852)"]
 excavation_years: ["1849", "1852"]
 key_finds: ["Ashurbanipal's Library (25,000+ tablets)", "Sennacherib's 'Palace without a Rival'", "Jerwan aqueduct", "royal rock reliefs at Bavian/Maltai/Judi Dagh"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, iron-age, mesopotamia, near-east]
 ---
 
@@ -118,3 +118,7 @@ abandonment").
 **Collection coverage note**: strong for the library and Sennacherib's building program
 (dense, quoted primary-inscription material via Roux); weak for post-1992 excavation
 and cuneiform-catalog scholarship, which this ingest does not cover.
+
+## Matthews densification (2003)
+
+*(Attributed — [[matthews-archaeology-mesopotamia-2003|Matthews 2003]].)* Matthews traces pre-Layard interest in the site through Carsten Niebuhr's 1766 mapping and Claudius Rich's 1820 survey, before Botta's December 1842 trenching and Layard's November 1845 discovery of two Assyrian palaces at neighbouring [[nimrud]]; British excavation continued at Nineveh under Rassam (to 1882) and later Max Mallowan (1920s–30s, alongside Arpachiyah, [[tell-brak|Tell Brak]], and Chagar Bazar). Following Liverani (1997: 88–9), Matthews stresses that 19th-century excavation technique could not detect or excavate mud-brick, leaving the lower town and non-monumental residential fabric of Nineveh (and other imperial capitals) essentially unexplored — so urban structure, household density, social stratification, and ethnic patterning within the city remain largely unknown. He also notes archaeological evidence for the city's fall: bodies of those killed in Nineveh's final hours have been recovered at the site (Stronach 1997).

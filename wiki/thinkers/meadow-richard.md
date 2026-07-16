@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["papers and reports co-authored with Kenoyer on Harappa; zooarchaeological studies of Mehrgarh (cited via Kenoyer 1998)"]
 key_concepts: ["local zebu domestication (Mehrgarh)", "[[indus-valley-tradition]]"]
 fieldwork_sites: ["[[harappa]]", "[[mehrgarh]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -43,3 +43,18 @@ Zooarchaeological body-size and relative-abundance arguments for local domestica
 ## Historiography
 
 Primary access here is **second-hand via Kenoyer 1998** (text, figure captions, endnotes). Meadow’s specialized fauna reports and HARP interim reports remain the base literature for fuller ingest.
+
+## Wright, *The Ancient Indus* (2010)
+
+Wright 2010 reports Meadow and Patel's (2003) genetic evidence that the predominant
+Mehrgarh domestic cattle, zebu (*Bos indicus*), is indigenous to South Asia and
+genetically distinct from Near Eastern *Bos taurus* — read as strong evidence for
+**local** zebu domestication by ca. 4800 BCE. Wright also notes a genetics-versus-
+morphology tension in Meadow and Patel's sheep evidence: size diminution suggests
+local domestication, but genetic data indicate modern sheep descend from a single
+Near Eastern ancestor, a tension the source flags without resolving. Wright further
+credits Meadow (1996) with framing pastoralism as a **"continuum of lifestyles"**
+(nomadic, semisedentary/transhumant, sedentary), all three forms attested in Harappan
+contexts, and reports his and Patel's (2003) finding that camel, horse, and donkey
+appear in South Asia only around 2000 BCE and are not widespread until the second
+millennium BCE.

@@ -7,9 +7,9 @@ positions:
   - "Wittfogel: large-scale hydraulic management generates agromanagerial despotism (state stronger than society; total power)"
   - "Limited/managerial irrigation–state link without full Oriental-despotism package (partial ecological or organizational versions)"
   - "Critical: irrigation neither necessary nor sufficient for states; counter-cases; reverse causality (states build irrigation); Orientalist framing"
-key_texts: ["[[wittfogel-oriental-despotism-1957]]", "[[steward-theory-of-culture-change-1955]]", "[[adams-heartland-of-cities-1981]]", "[[adams-evolution-urban-society-1966]]"]
+key_texts: ["[[wittfogel-oriental-despotism-1957]]", "[[steward-theory-of-culture-change-1955]]", "[[adams-land-behind-baghdad-1965]]", "[[adams-heartland-of-cities-1981]]", "[[adams-evolution-urban-society-1966]]", "[[sanders-parsons-santley-basin-of-mexico-1979]]", "[[blanton-ancient-oaxaca-2022]]"]
 resolution_status: open
-last_updated: 2026-07-10
+last_updated: 2026-07-15
 tags: [debate]
 ---
 
@@ -51,6 +51,13 @@ Critics argue (as a cluster of positions): many early states lack large irrigati
 
 Study page: [[adams-heartland-of-cities-study]]. See also 1966 rejection of irrigation as independent Urban Revolution prime mover.
 
+**The 1965 Diyala foundation.** The position's empirical root is *[[adams-land-behind-baghdad-1965|Land Behind Baghdad]]* (1965; study [[adams-land-behind-baghdad-study]]), which made the case first from the Diyala survey (attributed to Adams throughout):
+
+- **Early towns without hydraulic bureaucracy.** Early Dynastic flood/small-ditch irrigation "is well within the capabilities of local groups without state intervention... it is difficult to see the emergence of the towns as a consequence of any monopolistic control of the water supply... and still more difficult to imagine the growth of their political institutions as a consequence of a need for a bureaucracy concerned with canal management." Major towns did not sit as hubs of radiating canal networks but along an essentially natural anastomosing watercourse pattern; he also rejected population pressure as a driver (irrigated-area need ~1,100 sq km vs. ~1,900 available).
+- **Maximal irrigation followed strong states.** The Sasanian [[nahrawan-canal|Nahrawan/Katul]] system — near-total basin cultivation — was state-financed and made prosperity "peculiarly dependent on the central government"; yet even here surviving sources name no royal irrigation officials and cleared sluices lack closing mechanisms, suggesting decentralized water allocation. Its weakness was "organizational rather than material."
+- **Against ahistorical Oriental-despotism schemes.** Chapter 9 rejects treating "Sumerian city-states of the third millennium B.C. and the Islamic state... as organisms whose life processes were very nearly identical" and the undifferentiated application of "ancient Oriental despotism" from earliest city-states to the Sasanian Empire: "Their crucial defect is that in the broadest sense they are ahistorical." Cumulative change is "as much one for empirical historical study in early Mesopotamia as in industrial western Europe."
+- **Multi-causal collapse.** The medieval collapse weighted political deterioration and ecological change over the Mongol invasion; state intervention became a *requirement* only in the second irrigation epoch — dependence ran state→irrigation.
+
 ### Position D — AMP / Marxist historiography strand
 
 Within Marxism, Wittfogel's Ch. 9 reconstructs a fight over whether an Asiatic formation is a legitimate mode alongside slave, feudal, and capitalist ones. His **position**: Soviet orthodoxy suppressed AMP for political reasons (Russia/China analysis; unilinear feudal path). Opposing Marxist positions (as he narrates them) treated Oriental conditions as feudal or residual and rejected multilinear implications. This strand is a **history-of-ideas** dispute as well as an empirical one — keep positions attributed.
@@ -65,6 +72,23 @@ Within Marxism, Wittfogel's Ch. 9 reconstructs a fight over whether an Asiatic f
 - **Frankfort (temple-estate alternative).** Early Sumerian states were organized around god-owned temple "households," structurally like [[chiefdom|chiefdoms]] centered on a god — the institutional engine being the estate, not the canal.
 
 This strand largely settles toward the weaker version: irrigation as one intensifier among several, its causal weight resting on competitive density rather than sheer scale. See [[state-formation]] and the [[origin-of-the-state-integrative-vs-conflict-debate|integrative-vs-conflict debate]].
+
+### The Basin of Mexico survey statement — Sanders, Parsons & Santley (1979)
+
+*(Attributed — [[sanders-parsons-santley-basin-of-mexico-1979]]; analysis at [[sanders-basin-of-mexico-study]].)* The survey synthesis is the fullest empirical defense of a (revised) hydraulic thesis for the New World, and simultaneously a major retreat from one-way causation:
+
+- **Defense of Wittfogel against his critics.** They reject Carneiro's classing of Wittfogel as a "volunteeristic" theory; argue Adams's own Mesopotamian sequence (small chiefdoms → small states → large empires, tracking feeder canals → fully canalized rivers) "would seem to justify Wittfogel's argument very strikingly"; and call Lees's (1973) Oaxaca ethnographic test "a classic example of the misuse of Wittfogel" — searching for despotic water bureaucracy inside a modern nation-state that has expropriated local water power. Their diagnostic of the critics: archaeologists treat hydraulic agriculture "as an invention rather than a process," expecting canals to *precede* political complexity instead of co-evolving with it.
+- **The positive model.** Local hydraulic experiments in the drier central Basin shift ranked toward stratified systems, fastest at [[teotihuacan|Teotihuacan]] (highest agricultural risk, largest spring-fed system); irrigation and [[chinampa]] agriculture roughly double to quadruple yields per labor input, funding non-producing classes. By 1519 perhaps a third of the Basin's ~1M people depended on hydraulic agriculture ([[carrying-capacity]] computations in the source).
+- **The concessions.** They are agnostic on Wittfogel's managerial bureaucracy at Teotihuacan (preferring a single "power-holding institution" with embedded roles, after Hunt & Hunt 1976); they accept Calnek's showing that Late Horizon chinampa expansion was *state-planned* — the state creating the hydraulic landscape, reversing the causal arrow — and absorb it as "a classic example of our suggested feedback process"; and they concede outright that cause and effect cannot be sorted: "the relationships really are systemic in nature and it would be very difficult to sort out the direction of cause and effect."
+- The 1972 School of American Research conference (Wolf, ed. 1976) had already left both the hydraulic and the [[population-pressure]] questions explicitly unresolved — "The 1972 conference failed to resolve these matters" (Sanders, Parsons & Santley 1979).
+
+### The Egyptian case — Assmann (1996)
+
+*(Attributed — [[assmann-jan]], *[[assmann-mind-of-egypt-1996|The Mind of Egypt]].)* Assmann states there is no archaeological or textual confirmation that Egypt's state arose to organize irrigation labor: annual Nile flooding required only local-scale intervention. He also weighs, and sets aside as uncorroborated by Egyptian self-testimony, a granary-storage variant (centralized storage against flood variation — evidenced only by the biblical Joseph narrative, which he reads as an outsider's etiological myth). Converges with Kemp's non-hydraulic reading of Egyptian state origins (see [[state-formation]]).
+
+### The Oaxaca case — Blanton, Feinman, Kowalewski & Nicholas (2022)
+
+*(Attributed — [[blanton-ancient-oaxaca-2022|Ancient Oaxaca: The Monte Albán State]], 2nd ed., 2022.)* Adds a Valley of Oaxaca sequencing datum to the reverse-causality position: canal irrigation in the valley followed rather than preceded the founding of [[monte-alban|Monte Albán]] (citing Wright 1986), consistent with the authors' broader argument — developed alongside their critique of [[carneiro-robert-l|Carneiro]]-style circumscription/population-pressure accounts — that infrastructure investment and population growth were consequences of Monte Albán's founding (via immigration and pronatalist incentives) rather than its cause. The authors group [[wittfogel-karl-a|Wittfogel]]'s hydraulic thesis with [[service-elman-r|Service]]'s redistributive "economic functionalism" as rival economic-functionalist explanations their [[collective-action-theory|collective-action]] account is built to replace, and state that testing such cultural-ecological theories, while it "stimulated regional archaeological surveys of the sort that we discuss for Oaxaca," left "the specific theories... lacking in explanatory potential" in their own assessment.
 
 ## Shared Factual Ground (framed per side)
 

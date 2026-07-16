@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Subsistence and settlement oriented to marine, estuarine, and littoral resources (shellfish, fish, sea mammals, coastal plants), often with middens, boats, and sea-level-sensitive site distribution; in Andes, includes Maritime-Oasis trajectories and industrial plant support for fishing"
 contested: no
 related_concepts: ["[[complex-hunter-gatherers]]", "[[maritime-foundations-hypothesis]]", "[[last-glacial-maximum]]", "[[post-glacial-recolonization]]", "[[ertebolle-culture]]", "[[jomon-culture]]", "[[peopling-of-the-americas-debate]]", "[[beringia]]", "[[ice-free-corridor]]", "[[pre-clovis]]", "[[monte-verde]]"]
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 5
+last_updated: 2026-07-15
 tags: [concept, archaeology, mesolithic, peopling, andes]
 ---
 
@@ -64,4 +64,34 @@ Shell-midden archaeology (Danish *køkkenmøddinger* from the 1850s; Victorian L
 - Do not equate coastal archaeological cultures with maritime ethnolinguistic identities.
 - Modern fishery productivity analogies (Moseley anchovy tonnages) illustrate ecological capacity, not measured Preceramic harvests.
 
-Sources: [[mithen-after-the-ice-2003]] · [[meltzer-first-peoples-2009]] · [[moseley-incas-and-their-ancestors-2001]] · [[maritime-foundations-hypothesis]] · [[peopling-of-the-americas-debate]]
+### Andean subsistence logistics (as of Moseley 1975)
+
+*(From [[moseley-maritime-foundations-1975]].)* Moseley's original formulation analyzed the [[ancon|Ancón–Chillón]] coast through **nine resource complexes** — open-beach and rocky sublittoral, sandy and rocky littoral, coastal lagoon, river delta and floodplain, desert, and lomas — each with distinct labor and technology requirements (individual angling on rocky headlands vs. small-crew net fishing on sandy shores vs. corporate canal labor in the desert). He ranked the littoral zones richest and most easily worked, the desert poor but of high irrigated potential, and argued the fishing technology built up slowly with little innovation — a gradualist reading against any "technological-drive" narrative. Comparative baselines: preceramic Chile (Bird 1943), the Yaghan (Gusinde 1937), and the more complex Chumash (Landberg 1965).
+
+Sources: [[mithen-after-the-ice-2003]] · [[meltzer-first-peoples-2009]] · [[moseley-maritime-foundations-1975]] · [[moseley-incas-and-their-ancestors-2001]] · [[maritime-foundations-hypothesis]] · [[peopling-of-the-americas-debate]]
+
+## Facing the Ocean densification (Cunliffe 2001) — Atlantic Mesolithic littoral economies
+
+*(Attributed — [[cunliffe-barry]], *[[cunliffe-facing-the-ocean-2001|Facing the Ocean]]* 2001, Ch. 4.)*
+
+**Ecological argument.** Cunliffe (2001) argues the Atlantic littoral — estuaries, deltas, marshes, inter-tidal zones enriched by the Gulf Stream — offered unusually diverse, risk-buffering microenvironments (plant foods, shellfish, fish, waterfowl, sea mammals) that enabled increasing sedentism and population growth relative to inland forest foraging (theoretical/interpretive, not an independently-converged wiki-voice claim).
+
+**Danish sequence and Ertebølle type site.** Three successive Danish Mesolithic phases: Maglemose (~1,500 years; vegetable foods, fishing, elk/aurochs hunting, seasonal camps), Kongemose (6th millennium BCE; inland hunting plus coastal shellfish/fish settlement), and Ertebølle (5th millennium BCE; intensified, near-year-round coastal/estuarine settlement). The Ertebølle type site (Limfjord, Jutland; excavated 1893–7, re-examined 1979–84) comprised a shell midden 140 × 20 m, up to 2 m deep, representing 700–800 years of occupation; diet included oysters, mussels, cockles, periwinkles, deer, wild pig, seals, ducks, and marine/freshwater fish. Cunliffe cautions that it would take 50,000 oysters or 30,000 limpets to match the calorific value of one red deer carcass — a warning against inferring population size from midden shell volume alone.
+
+**Tybrind Vig.** Submerged Late Mesolithic site (Fyn, Denmark, ~3 m below present water via eustatic rise) preserved bows/arrows, fish-hooks, ropes, woven textiles, and two log boats (one 10 m, with ten paddles, two decorated). Stable isotope (¹³C) analysis of a young female burial showed a diet dominated by fish, shellfish, and seal meat.
+
+**Obanian (Scotland) and Risga.** The western Scottish coastal Mesolithic (named "Obanian") includes the Oronsay shell middens; otolith analysis of saithe remains showed each of Oronsay's five middens occupied at a different season, consistent with either a single population moving seasonally around the coast or repeated mainland fishing expeditions. Risga (Loch Sunart) yielded crab, tope, spiny dogfish, angel fish, skate, thornback ray, conger eel, grey mullet, haddock, black sea-bream, seabirds, seals, deer, and wild pig — a broad maritime-terrestrial diet.
+
+**Mount Sandel, Ireland.** Best-known Early Mesolithic Irish site: ≥4 huts (~6 m diameter). Faunal/floral seasonality evidence (salmon for summer, young pigs butchered in winter, hazelnuts/water lily seeds/wild pear/crab apple for autumn) indicates year-round occupation as a permanent base camp with a ~10 km foraging radius.
+
+**Brittany shell middens (Téviec, Hoédic, etc.).** Five substantial Mesolithic shell middens known in Brittany: La Pointe de la Torche, Hoédic, Téviec, Beg-er-Vil, St Gildas. Téviec's midden covered ~200 m² (up to 1 m thick); Hoédic's a similar area but only 30–40 cm thick. Diet included shellfish, fish, wild pig, deer, whale, seal, and birds; a single sheep/goat tooth from Téviec may indicate contact with distant farming groups. See [[mesolithic]] for the associated cemetery and hereditary-status material.
+
+**Iberian Atlantic cultures — Azilian, Asturian, Muge.** The Azilian (northern Iberian coast/Cantabrian Mountains/Pyrenees) is reinterpreted by Cunliffe (2001) not as decline from the Upper Palaeolithic Magdalenian but as efficient adaptation to changing post-glacial conditions. The Asturian (entire north/west Iberian coast) is a lowland estuarine/coastal culture centered on deer and wild pig, with numerous shell middens (notably Lima–Minho, northern Portugal) and notched-pebble fishing weights. In central/southern Portugal, the Muge sites (Tagus estuary) yielded shell middens up to 100 m across and over 300 human skeletons; isotope analysis showed a diet balanced between terrestrial and aquatic resources — Cunliffe reads the skeletal count itself as "another indication of social stability." Sado and Mira estuary clusters show comparable patterns, the latter (Fiais/Vidigal) suggesting specialized resource-procurement camps alongside home bases.
+
+**Deep-sea fishing.** Later Mesolithic midden evidence (e.g. southern Sweden) shows comparatively common cod, haddock, and ling bones — some cod to 1.5 m, ling to 1.7 m — with fish-hooks suited to such catches, implying seaworthy (presumably hide) boats capable of deep-sea fishing rather than only littoral exploitation.
+
+**Iodine/fertility speculation (explicitly hedged).** In Ch. 13, Cunliffe (2001) speculates — "not impossible," not asserted as established — that littoral iodine intake (seafish, molluscs, seaweed) may partly explain sustained Mesolithic population growth in coastal regions.
+
+**Ferriter's Cove contact evidence.** At Ferriter's Cove (Dingle, Ireland, 4th millennium BCE), a small foraging community hunting pig, fishing, and collecting molluscs was in some form of contact with cattle-herding, polished-axe-using farmers; Cunliffe (2001) suggests this may reflect symbiosis with settled agriculturalists or the foraging community's own adoption of Neolithic-package elements. See [[neolithic]].
+
+Source: [[cunliffe-facing-the-ocean-2001]].

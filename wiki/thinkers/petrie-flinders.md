@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["Diospolis Parva (1901)", "Methods and Aims in Archaeology (1904)"]
 key_concepts: ["[[seriation]]", "[[typological-method]]", "corpus/index-series publication"]
 fieldwork_sites: ["Egypt (Diospolis Parva and numerous cemetery sites), 1880s–1920s", "Palestine (late career; died Jerusalem 1942)"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -92,3 +92,30 @@ ingested source and should be added from biographical treatments.
 This page rests entirely on Wheeler's 1954 characterization; every claim is attributed to
 Wheeler or, within his text, to Petrie. Petrie's *Methods and Aims in Archaeology* (1904)
 and *Diospolis Parva* (1901) are the primary sources to ingest for a first-hand account.
+
+## Lehner densification (1997) — Petrie at the pyramids
+
+*(Attributed throughout as Lehner’s account of Petrie — [[lehner-mark]], *[[lehner-complete-pyramids-1997|The Complete Pyramids]]* 1997, esp. exploration history and Giza/Illahun chapters. Complements Wheeler/Lucas material above.)*
+
+### “Father of Egyptian archaeology” and the Giza survey
+
+Lehner presents W.M. Flinders Petrie (1853–1942) as the “Father of Egyptian archaeology”: early hieroglyphs, Stonehenge survey, excited by Piazzi Smyth’s *Our Inheritance* yet rejecting extreme British-Israelism; still adhered enough to the pyramid-as-scale-model idea to resurvey. **1880–81** meticulous triangulation encompassing all three Giza pyramids proved the **death knell for Smyth’s pyramid inch** (theories claimed fraction-of-inch accuracy while debris still banked against the bases). Map never published larger than paperback page; some later writers still used Petrie’s figures creatively to “prove” Smyth. Lehner links Taylor/Smyth pyramidology and later alternative theorists (Bauval, Hancock) under the dismissive “pyramidiots” label (Lehner POSITION).
+
+### Strabo / Bent Pyramid pivot reconstruction
+
+Strabo (~25 BC) described a movable stone high on one face of Khufu’s pyramid allowing access to the Descending Passage; Lehner judges this a later (tourist?) provision. Petrie reconstructed such a door hypothetically from **pivot holes at the Bent Pyramid entrance** at [[dahshur]].
+
+### After Giza: Hawara, Illahun/Kahun, Meidum, Mazghuna
+
+- **Hawara (1888–89):** followed Lepsius — Labyrinth remains and Amenemhet III’s pyramid (flooded burial chamber, two sarcophagi, burnt human remains).
+- **Senwosret II at Illahun/Lahun (1887–89):** found the south-side entrance after months of search; with Guy Brunton, jewellery of Princess Sit-Hathor-Iunet (“Treasure of Illahun”); unsuccessfully tunnelled under subsidiary Queen’s Pyramid. Pyramid town Hetep-Senwosret ([[kahun]]) footprint becomes a basic document of Egyptian urbanism (Lehner).
+- **Meidum:** uncovered small limestone temple of Sneferu with two uninscribed stelae.
+- **Mazghuna:** examined two anonymous 13th-dynasty pyramids resembling South Saqqara and Dahshur examples.
+
+### Method reputation and great expeditions
+
+After Mariette’s death, Maspero granted foreign concessions and took interest in young Petrie as “insistent exponent of controlled method” who respected all material culture details, not only fabulous art — yet great expeditions still used huge digger/basket forces; quality varied. Petrie and Reisner trained many future directors. Lehner also records Petrie’s technical observations still cited in modern workforce models (e.g. room for not more than ~8 handlers per average 2.5-ton block) and his misidentification of Khufu’s quarry (filled with ramp debris of limestone chips, gypsum, sand, and tafla). Khafre gallery enclosures: Petrie (1881) excavated two, found royal statuary fragments, yet concluded workmen’s barracks — a label Lehner challenges (workshop/temple-gallery reading).
+
+### Other notes
+
+Unofficial early copying of Pyramid Texts in Pepi I’s pyramid (with Brugsch). Predynastic body-preparation suggestions (decomposition/reassembly) that Lehner links cautiously to later dismemberment/recomposition ideology — Petrie position, not settled fact.

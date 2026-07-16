@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["The Essence of Fascism (1933, essay)", "[[polanyi-great-transformation-1944|The Great Transformation (1944)]]", "Trade and Market in the Early Empires (1957, ed. with Arensberg & Pearson; not ingested)", "Dahomey and the Slave Trade (with A. Rotstein, 1966; not ingested)"]
 key_concepts: ["[[embeddedness]]", "[[fictitious-commodities]]", "[[double-movement]]", "[[self-regulating-market]]", "[[forms-of-integration]]", "the substantive meaning of 'economic'"]
 fieldwork_sites: ["[[unknown]] — a historical-comparative theorist, not a fieldworker; his economic anthropology drew on others' ethnography (Malinowski, Thurnwald, Firth)"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [thinker, sociology, anthropology]
 ---
 
@@ -55,6 +55,12 @@ Polanyi's central argument is that the nineteenth-century **[[self-regulating-ma
 - Source: [[polanyi-great-transformation-1944]]
 - Framework: [[substantivism]] · [[formalist-substantivist-debate]]
 - Core concepts: [[embeddedness]] · [[fictitious-commodities]] · [[double-movement]] · [[self-regulating-market]] · [[forms-of-integration]]
+
+### Ancient Oaxaca 2nd edition (Blanton, Feinman, Kowalewski & Nicholas 2022) — the redistribution-vs-market critique
+
+*(Attributed — Blanton, Feinman, Kowalewski & Nicholas, [[blanton-ancient-oaxaca-2022|Ancient Oaxaca: The Monte Albán State]], 2nd ed., 2022.)*
+
+Blanton et al. treat Polanyi's substantivist claim (via Dalton 1968; cf. Sahlins 1972:195, 300–301) — that the major economic system of early state society is government-as-redistributor rather than commercial market exchange, with markets as a late historical development that brings destructive rationalism and individualism to traditional life — as a position their own [[collective-action-theory|collective-action]] account argues against, alongside [[service-elman-r|Service]]'s related "economic functionalism." The authors characterize the claim that markets had little importance before roughly AD 1800 economic modernity as "thoroughly discredited," citing market-importance research in Late Imperial China (Skinner 1964), Mesoamerica, and the Mediterranean (Manning and Morris 2005; Shaw 1981). They record a related live dispute over premodern state economies more broadly: [[polanyi-karl|Polanyi]]'s redistribution model, as followed by Service, was critiqued by Timothy Earle (2002, ch. 4), who showed Polynesian chiefs had little role integrating complex economies, with further critiques by Blanton and Fargher (2010) and Feinman and Neitzel (1984); the Inca empire's status as a "redistributive economy" is likewise contested — Murra (1980) documents storage/redistribution, while LeVine (1992) and Mayer (2013) challenge a singular-redistributive characterization. The authors state they will elaborate their critique of the Service/Polanyi position later in the book.
 
 ### Adams on institutional surplus (1966, attributed)
 

@@ -15,8 +15,8 @@ preceded_by: ["[[unknown]]"]
 succeeded_by: ["[[unknown]]"]
 language_affiliation: "argued association with early Bantu-speaking communities — attributed, not identity (Phillipson 2005)"
 genetic_signature: "[[unknown]] at Phillipson 2005 horizon — see later aDNA (e.g. Reich 2018) with four-way non-identity"
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [culture, iron-age, east-africa, southern-africa, central-africa]
 ---
 
@@ -71,3 +71,31 @@ Bellwood adopts the Chifumbaze complex (named for early eastern African pottery 
 **Boundary with non-Chifumbaze pottery.** SW of Kalahari / coastal SW Africa: pointed-based pottery ~2000 years ago and sheep herding ~1600 years ago **without** agriculture and **without** Chifumbaze affinity — indigenous Khoisan adoption (Sadr; Bousman), not Chifumbaze demic expansion (as of Bellwood 2005).
 
 **Stream debate.** Huffman/Denbow emphasize secondary Kalundu / Western Stream from lower Congo–Angola after AD 100 meeting eastern Chifumbaze facies in SE Africa; Bellwood notes mapping of dual archaeological origins onto Western vs Eastern Bantu languages remains an “area of great uncertainty.” See [[bantu-expansion]] for full linguistic and genetic layers.
+
+## Oxford Handbook densification (Mitchell & Lane 2013)
+
+*(Attributed — Peter Mitchell in [[mitchell-lane-oxford-handbook-african-archaeology-2013]] Ch. 45; also de Maret Luangwa note; Schoeman LFC terminology. **as of 2013**.)*
+
+### Early Farming Communities terminology
+
+Mitchell prefers **“Early Farming Communities” / “agropastoralists”** over “Early Iron Age,” arguing the latter overemphasizes iron and treats societies as static blocks rather than dynamic entities; first-millennium AD Bantu-speaking cultivators-herders-smelters transformed south-central and southern Africa, ancestral to second-millennium farmers (Pikirayi, Schoeman chapters). Schoeman similarly prefers **Late Farming Communities** over Late Iron Age for second-millennium southern Africa.
+
+### Chifumbaze Complex definition (Mitchell summarizing Phillipson/Huffman)
+
+Most Early Farming Community “thick” wares share style with Great Lakes **Urewe** ceramics, grouped by Phillipson (1977) as the **Chifumbaze Complex** (**Kalundu** and **Urewe** traditions; Urewe’s **Nkope** and **Kwale** branches). Huffman’s multidimensional ceramic analysis plus Eastern Bantu language affiliations of Shona (from Happy Rest/Kalundu) and Swahili (from Tana/Kwale) lead Huffman (2007) to argue Kalundu and Urewe makers **spoke Eastern Bantu**; Naviundu Tradition ceramics linked to Western Bantu. **Ceramic style ≠ tribe** (Hall 1983 caveat recorded by Mitchell); no necessary correlation with social/political entity.
+
+### Central Cattle Pattern debate
+
+Mitchell presents Huffman’s **Central Cattle Pattern (CCP)** as dominant model for Eastern Bantu village organization: cattle byres central; leading man at apex; bridewealth, ancestors, court politics; traced from ethnographic present through second into first millennium. Critics (Hall 1986; Badenhorst 2008–10) argue cattle were too few for bridewealth/politics early on, byres not exclusively cattle, equifinality of functional layout, and possible matriliny under hoe/caprine regimes; Huffman defends CCP via ethnohistoric consistency. **Positions recorded.**
+
+### Expansion, trade, Bambata, subsistence limits
+
+Farming spread by demographic increase plus forager assimilation (Vansina 1995), not pure forager uptake without migration (pace Robertson 2000); often “hopping” favorable locations then infilling. Early second-millennium replacements: Nguni and Sotho/Tswana languages from eastern Africa; north of Zambezi, 11th-c. **Luangwa** expansion of matrilineal Western Bantu replaces Kalundu ceramics (de Maret/Mitchell).
+
+Late first-millennium specialization and **Indian Ocean** engagement (glass beads, marine shells; Schroda ivory-working) critical to complexity trajectory toward [[mapungubwe]]/[[great-zimbabwe]] (Mitchell).
+
+**Bambata pottery debate:** traditionally hunter-gatherers/herders (Sadr 2008); Huffman (2005) identifies Bambata as earliest southern African Kalundu—dispute open. Cereal agriculture ecological limits: ≥350 mm summer rain, ≥500 mm annual, nocturnal ≥15°C—restricting settlement to miombo/savannah, attenuating along east coast to ~33.5°S. Caprines more numerous early; cattle primacy from 8th c. (not invariable); Huffman phytoliths vs Badenhorst dung-bias dispute on early cattle.
+
+Research coverage uneven: South Africa best served; little Namibia; none Angola (Mitchell).
+
+*Source: [[mitchell-lane-oxford-handbook-african-archaeology-2013]].*

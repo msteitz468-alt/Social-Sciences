@@ -7,11 +7,11 @@ era: [critical-turn, contemporary]
 affiliated_theories: ["[[post-processual-archaeology]]", "[[phenomenological-archaeology]]"]
 trained_under: ["[[unknown]]"]
 trained: ["[[unknown]]"]
-key_works: ["[[shanks-tilley-social-theory-and-archaeology-1987|Social Theory and Archaeology (with Shanks, 1987)]]", "[[shanks-tilley-reconstructing-archaeology-1987|Re-Constructing Archaeology (with Shanks, 1987/1992)]]", "[[tilley-phenomenology-of-landscape-1994|A Phenomenology of Landscape (1994)]]"]
-key_concepts: ["[[place-as-lived]]", "[[path]]", "[[landscape-as-mythopoesis]]", "[[logic-of-contingency]]", "[[fourfold-hermeneutic]]", "[[redemptive-aesthetic]]", "[[material-culture]]"]
-fieldwork_sites: ["south-west Wales", "Black Mountains", "Cranborne Chase", "Fjälkinge (southern Sweden, TRB ceramics analysis with Shanks)"]
-sources_ingested: 4
-last_updated: 2026-07-10
+key_works: ["[[shanks-tilley-social-theory-and-archaeology-1987|Social Theory and Archaeology (with Shanks, 1987)]]", "[[shanks-tilley-reconstructing-archaeology-1987|Re-Constructing Archaeology (with Shanks, 1987/1992)]]", "[[tilley-phenomenology-of-landscape-1994|A Phenomenology of Landscape (1994)]]", "[[tilley-interpreting-landscapes-2010|Interpreting Landscapes (2010)]]"]
+key_concepts: ["[[place-as-lived]]", "[[path]]", "[[landscape-as-mythopoesis]]", "[[neolithic-sensory-revolution]]", "[[geological-identity]]", "[[logic-of-contingency]]", "[[fourfold-hermeneutic]]", "[[redemptive-aesthetic]]", "[[material-culture]]"]
+fieldwork_sites: ["south-west Wales", "Black Mountains", "Cranborne Chase", "Fjälkinge (southern Sweden, TRB ceramics analysis with Shanks)", "Stonehenge landscape (Riverside Project)", "East Devon Pebblebeds", "Exmoor", "Bodmin Moor", "West Penwith", "South Dorset Ridgeway"]
+sources_ingested: 8
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -56,10 +56,13 @@ Biographical detail thin in the 1987 and 1994 texts. Thinkers Hub **deferred** p
 | *Social Theory and Archaeology* (w/ Shanks) | 1987 | ✅ ingested — [[shanks-tilley-social-theory-and-archaeology-1987]] |
 | *Re-Constructing Archaeology* (w/ Shanks) | 1987 (2nd ed. 1992) | ✅ ingested — [[shanks-tilley-reconstructing-archaeology-1987]] |
 | *A Phenomenology of Landscape* | 1994 | ✅ ingested — source + study + Studies Hub |
+| *Interpreting Landscapes* | 2010 | ✅ ingested — source + study; geology/sensory densification |
 
 ## Critiques and Reception
 
 Recorded on study/debate pages; phenomenological archaeology has been criticized for subjectivity, under-specification of method, and projection of modern walking experience onto prehistory — positions to be attributed, not adjudicated here. The 1987 co-authored volumes share the broader S&T reception (relativism charges; 1992 Appendix replies) — see [[processual-postprocessual-debate]].
+
+**Hall (2000) — "romantic projection."** [[hall-martin|Martin Hall]] (*[[hall-archaeology-modern-world-2000|Archaeology and the Modern World]]*, 2000) argued Tilley's phenomenology depends on a "romantic projection of present, personalized experience into the past," assuming an unwarranted common humanity between past and present peoples ("People in the past were essentially like us. But this is a dangerous assumption") and abandoning global/systemic context for personal "social space." Hall also read *A Phenomenology of Landscape* as producing a sanitized history that omits violence, taking readers "though a largely desirable world, rather than places of violent conflict and stinking ossuaries." See [[theory-in-historical-archaeology-debate]]; study [[hall-archaeology-modern-world-study]].
 
 ## Genealogy
 
@@ -68,3 +71,25 @@ Trained-under and student lines not established from the 1987/1994 texts (`[[unk
 ## Historiography
 
 Reputation split between (1) Shanks & Tilley theoretical critique of processual archaeology (both 1987 volumes now primary-ingested) and (2) landscape phenomenology after 1994. Reception of landscape phenomenology is generative and contested (subjectivity, method under-specification) — see study page.
+
+## Moore 2005 / Bradley 2000 verification critique (attributed)
+
+[[moore-cultural-landscapes-andes-2005|Jerry Moore (2005)]] cites Richard Bradley's (2000:42) verification objection to *A Phenomenology of Landscape* (1994) — that "it is almost impossible to assess the insights provided by these studies without repeating them on the ground... there is no simple way of deciding whether the authors' observations are significant or whether the patterns... could have come about by chance" — as the central methodological problem Moore's own comparative method is designed to answer. See [[phenomenological-archaeology]] and [[landscape-archaeology]] for the fuller treatment.
+
+## Bradley 1998 engagement (attributed)
+
+*[[bradley-significance-of-monuments-1998]]* places Tilley's *An Ethnography of the Neolithic* (1996) among local-scale ideological readings of southern Scandinavia and cites Tilley on Mesolithic mobile art (antler/amber). Bradley's own experiential contrast between henge arenas and permeable stone circles is adjacent to [[phenomenological-landscape-archaeology]] without adopting Tilley's full walking-phenomenology program; both densify Late Neolithic circular monumentality and landscape relations.
+
+## From *Interpreting Landscapes* (2010)
+
+*(Attributed — *[[tilley-interpreting-landscapes-2010|Interpreting Landscapes: Geologies, Topographies, Identities]]* 2010; Explorations in Landscape Phenomenology 3.)* Mid-career multi-region consolidation of landscape phenomenology.
+
+**Load-bearing moves:**
+1. **Method restated:** embodied thick description; body as primary research tool; seven-stage walking procedure; Body–Place–Path interpretative triangle (Ch. 10).
+2. **[[neolithic-sensory-revolution]]:** clearance transforms the sensorium; vision becomes dominant relative to forest intimacy.
+3. **[[geological-identity]]:** chalk / pebble / sandstone-slate / granite afford different place/path relations and identities without determinism.
+4. **Six field regions:** Stonehenge Riverside component; northern Cranborne Chase (dwelling 2002–04); South Dorset Ridgeway; East Devon Pebblebeds; Exmoor; Bodmin Moor; West Penwith — see [[tilley-interpreting-landscapes-study]] and survey-region sites.
+5. **Politics of method:** cheap, non-destructive second-phase field research; replies to Fleming and others; love-of-land framing.
+
+Densifies [[phenomenological-archaeology]] and [[phenomenological-landscape-archaeology]] beyond the 1994 Welsh/English cases. Key works table should list this volume as ✅ ingested.
+

@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "not a measurement construct — a methodological stance: narrating the fieldwork encounter, the fieldworker's positionality, and the co-production of data as part of the account itself; in archaeology, building interpretive self-awareness into excavation and recording (Hodder's 'interpretation at the trowel's edge')"
 contested: yes
 related_concepts: ["[[othering]]", "[[liminality]]", "[[webs-of-significance]]", "[[verstehen]]", "[[participant-observation]]", "[[archaeological-record]]", "[[interpretation-at-the-trowels-edge]]", "[[post-processual-archaeology]]"]
-sources_ingested: 3
-last_updated: 2026-07-10
+sources_ingested: 5
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -97,6 +97,18 @@ archaeological method. Archaeology, for Lucas, is not merely a textual practice 
 [[archaeological-record|iterability]] of the representations it produces. Because
 archaeological excavation is destructive and unrepeatable, the reflexive problem is sharper
 than in ethnography — the "encounter" cannot be revisited, only recorded.
+
+### Conservation, display, and 2022 recording constraints (Çatalhöyük)
+
+*(Attributed — [[hodder-leopards-tale-2006]] Ch.1 stakeholder/conservation framing; [[hodder-catalhoyuk-excavations-2009-2017]] Ch.1 Hodder + Ch.2 Farid/Hodder/Lukas + Ch.5 Lingle.)*
+
+Reflexive archaeological fieldwork at Çatalhöyük was never only trench hermeneutics; **heritage infrastructure co-produced the data**:
+
+- **1991–92 Turkish brief:** excavation co-equal with **conservation and public presentation** (Site Management Plan; TEMPER/EU; dig house, depots; permanent shelters over South 2001–02 and North 2007–08). *Leopard’s Tale* (2006) already listed conservation lab, visitor experience, reconstructed paintings, and UNESCO bid among project goals.
+- **Display policy constrained excavation depth** (Hodder 2022): many buildings dug only to latest floors (fills removed; floors/walls/construction often left); many 2009–17 structures only partially excavated (table 1.4); shelters enabled year-round tourism but **damaged exposed mudbrick**.
+- **UNESCO 2012** inscription drove re-evaluation of conservation goals; final-phase treatments aimed at climate-sympathetic and traditional earthen repairs (Lingle Ch.5).
+- **Recording multivocality at report scale** (2022 Ch.2): interpretive category + probability; priority tours; diaries/sketches/videos; multivocal quotation of primary media in building chapters — with explicit acknowledgment that selective quotation only partially empowers and privileges English first-language supervisors (see [[interpretation-at-the-trowels-edge]] densification).
+- **Implication for the concept:** positionality includes not only ethnographer–informant power (Rabinow lineage) or specialist–excavator dialogue (Hodder 1999), but also **state heritage mandates, tourism display, and conservation chemistry** as conditions that select which deposits become “data.”
 
 ## Critiques and Limitations
 

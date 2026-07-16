@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["*The Archaeology of Ancient China* (1963; 4 editions to 1986)", "*Shang Civilization* (1980)", "*Art, Myth, and Ritual: The Path to Political Authority in Ancient China* (1983)"]
 key_concepts: ["Lungshanoid horizon / Lungshanoid expansion", "North China nuclear area", "Chinese interaction sphere (later work)", "shamanism and the acquisition of political authority"]
 fieldwork_sites: ["Fengpitou and Tapenkeng, Taiwan (1964–65)"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [thinker, archaeology, anthropology]
 ---
 
@@ -46,6 +46,12 @@ and later Harvard.
   Shang bronze art, writing, and ritual as instruments by which elites monopolized
   communication with ancestors and spirits, making religious/shamanic access — not
   control of production or technology — the lever of political power in early China.
+- ***Shang Civilization* (1980, attributed).** The focused social reconstruction of Shang
+  via Five Doors (texts, bronzes, [[oracle-bone-inscription|oracle bones]], archaeology,
+  theory): An-yang urban network; *[[tsu-lineage|tsu]]*/*yi* ruling apparatus; *[[fang-polity|fang]]*
+  exterior polities; Cheng-chou/Erh-li-kang as earlier capital form; Erlitou held **outside**
+  Shang; comparative epilogue against Adams-style Old/New World pairs. See
+  [[chang-shang-civilization-1980]], [[shang-civilization]], [[anyang]].
 
 ## Intellectual Genealogy
 
@@ -73,7 +79,9 @@ between 1963 and 1986 — from a data-poor, pre-radiocarbon, largely relative ch
 to a radiocarbon-anchored, multi-regional picture. Read the 1963 first edition as a
 historiographic document of Cold War–era anglophone sinological archaeology (Chang could
 not excavate on the mainland and worked from published reports), not as current fact.
-See [[chang-archaeology-ancient-china-1963]].
+See [[chang-archaeology-ancient-china-1963]]. *[[chang-shang-civilization-1980|Shang
+Civilization]]* (1980) is the companion deep dive on the Shang social system, dedicated to
+[[li-chi|Li Chi]] (1896–1979).
 
 ### Liu & Chen (2012) assessment of the four editions
 

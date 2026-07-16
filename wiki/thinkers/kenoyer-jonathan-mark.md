@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["Ancient Cities of the Indus Valley Civilization (1998); HARP field reports with Meadow; craft ethnoarchaeology papers (e.g. 1992 Paléorient ornament styles)"]
 key_concepts: ["[[indus-valley-tradition]]", "competing elite groups / city-states (Indus)", "four-category craft typology", "control of seals/weights/stoneware", "[[standardized-weights]]", "Indo-Gangetic tradition"]
 fieldwork_sites: ["[[harappa]]", "[[mohenjo-daro]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -69,4 +69,18 @@ Kenoyer’s multi-elite / city-state reading of Indus polity is one pole of the 
 ## Historiography
 
 Primary self-presentation in the 1998 book’s preface, acknowledgements, author note, and synthesis chapters. Field program documented via HARP publications with Meadow and later site reports (post-1998 literature not yet ingested). The 1998 catalogue embeds object-level argument for craft, religion, and ornament theses.
+
+## Wright, *The Ancient Indus* (2010)
+
+Wright 2010 reports Kenoyer (1997a) was the first to apply the **"city-state"**
+concept to the Indus civilization, drawing on early historic South Asian textual
+models of councils and merchant/ritual-specialist participation in governance, and
+credits him with comparative hinterland-size estimates (100,000–170,000 km²) placing
+Indus cities' inter-city spacing well beyond that of Mesopotamian or Aztec city-states.
+Wright also relays Kenoyer's argument (1991, with Vidale 2000) that standardized
+chert-weight production and long-carnelian bead manufacture may have been merchant- or
+elite-monitored, explicitly marked by Kenoyer and Vidale as a hypothesis rather than a
+settled finding. On Mohenjo-daro's stone sculptures, Wright records a position dispute:
+Kenoyer (1998) reads them as ancestral or clan figures, against Ratnagar's (1981)
+reading as rulers — recorded as a live disagreement, not adjudicated here.
 

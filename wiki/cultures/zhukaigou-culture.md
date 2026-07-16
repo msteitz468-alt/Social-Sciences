@@ -15,8 +15,8 @@ preceded_by: ["local late Longshan traditions"]
 succeeded_by: ["[[unknown]] — culture disappears from the record after ca. 1500 BCE; its diagnostic snake-pattern li tripod persists regionally"]
 language_affiliation: "[[unknown]] — not equated with a language/people"
 genetic_signature: "osteological continuity over time, closer to Yellow River agricultural populations than northern Mongoloid nomadic groups (Pan 2000); mtDNA of 7 individuals shows matrilineal continuity with the later local Inner Mongolia population plus similarities to modern Mongolia and Central Plain populations (as of Liu & Chen 2012, citing Wang et al. 2007)"
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [culture, bronze-age, china, east-asia]
 ---
 
@@ -71,6 +71,18 @@ genetic continuity with the later local Inner Mongolia population, plus similari
 Mongolia and Central Plain populations (as of Liu & Chen 2012, citing Wang et al. 2007). This
 evidence favors local biological continuity over wholesale population replacement, even where
 Qijia-style material culture appears in the same graves as local forms.
+
+Zhukaigou is the primary site for reconstructing second-millennium-BCE Ordos occupation: 83
+excavated houses, mostly dated to Phases II–IV (ca. 1900–1400 BCE) and only 4 to Phase V (ca.
+1400–1200 BCE); houses averaged just 11.5 m² and shrank over time, while the number of storage
+pits rose sharply across the same span (10 and 25 pits in Phases I–II vs. 51/57/61 in the final
+three phases) — a settlement-organization shift Shelach-Lavi reads alongside the site's overall
+decline in Phase V. Of 43 bronze artifacts recovered at Zhukaigou (16 from Phases III–IV, 27 from
+Phase V), scientific testing indicates the Shang-style weapon types found there (*ge*, *ding*,
+*jue*) were produced **locally**, not imported, supported by a local casting-mold fragment from
+Phase V strata — corroborating, from an independent compositional test, this page's existing
+account of Central-Plain-derived but locally manufactured Shang-style items in Phase V (as of
+[[shelach-lavi-archaeology-early-china-2015|Shelach-Lavi 2015]], citing Linduff 1995 and Han 1992).
 
 ## Distribution and Chronology
 

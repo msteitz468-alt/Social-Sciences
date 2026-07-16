@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["Deciphering the Indus Script (1994); corpus volumes with Joshi / Shah (cited throughout Kenoyer 1998)"]
 key_concepts: ["Dravidian hypothesis for Indus script", "rebus method (min = fish/star)", "astronomical orientation of Indus planning"]
 fieldwork_sites: ["[[unknown]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [thinker, archaeology]
 ---
 
@@ -57,3 +57,18 @@ Kenoyer repeatedly treats full Dravidian rebus decipherments — including Parpo
 ## Historiography
 
 Primary access in this session: Kenoyer 1998 text and endnotes citing Parpola 1994 and corpus volumes. A fuller thinker page would ingest *Deciphering the Indus Script* and the CISI corpus introductions directly.
+
+## Wright, *The Ancient Indus* (2010)
+
+Wright 2010 characterizes Parpola's decipherment approach as beginning from two
+"working hypotheses" — that the Indus script is **logosyllabic** rather than
+syllabic or alphabetic (based on a total sign count, "no more than four hundred,"
+too high for a syllabary but plausible for a logosyllabic system), and that the
+underlying language is **Dravidian** — and interpreting pictograms via comparison
+with ancient Indian languages/mythology and Mesopotamian symbolism. Wright quotes
+Parpola's own observation that "since 1875, over 50 'solutions' have been published"
+without consensus. Wright also relays Parpola's (1994) iconographic argument linking
+the gharial on Indus seals to a Dravidian "fish" sign associated with a Mesopotamian
+divinity star-sign, treated by Parpola as an "emblem" connecting proto-Śiva and Enki
+— one of several competing readings of the shared Indus/Mesopotamia/Iran iconography
+Wright records (alongside Amiet and During-Caspers) without adjudicating.

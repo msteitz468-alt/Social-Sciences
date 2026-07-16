@@ -10,8 +10,8 @@ trained: ["[[unknown]]"]
 key_works: ["[[yoffee-myths-of-the-archaic-state-2005|Myths of the Archaic State (2005)]]", "Yoffee & Cowgill (eds.), The Collapse of Ancient States and Civilizations (1988)", "Yoffee & Sherratt (eds.), Archaeological Theory: Who Sets the Agenda? (1993)"]
 key_concepts: ["myths of the archaic state", "evolution of simplicity", "dimensions of power in early states", "city-states and civilization"]
 fieldwork_sites: ["[[unknown]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [thinker, archaeology, anthropology]
 ---
 
@@ -38,6 +38,8 @@ Mesopotamian text-and-archaeology training; long collaboration and conversation 
 ## Critiques and Reappraisals
 
 *Myths* is itself a critique of mid-century archaeological theory; reception and counter-critiques to be filled as secondary literature is ingested. Comparative case detail is secondary and date-stamped to ~2003.
+
+**Pauketat's critique (2007, attributed — [[pauketat-chiefdoms-delusions-2007]]).** Pauketat quotes Yoffee's Rule verbatim ("if you can argue whether a society is a state or isn't, then it isn't"; Yoffee 1993:69, 2005:41) and rejects it as "an arbitrary yardstick": the "you" is scholarly consensus, which reversed itself on [[cahokia]] twice (a state in the 1960s–70s "Ramey state" literature, not one after the chiefdom model took over). Lekson's counter-corollary (pers. comm. 2006): "If you can argue about whether a case is or is not a state, then it's really interesting." Pauketat also critiques Yoffee's **"rituality"** concept (proposed for Chaco/the Southeast; Yoffee coined "Chaco's 'little bangs'" at a 2003 SAR conference) as implying producer autonomy and suffering "chronic theoretical underdevelopment" — "all rituals are inherently political" — and charges Yoffee with not following his own cities-as-"generative" insight through (retreating to a peer-polity-style evolutionary frame to keep Cahokia and Chaco out of the city club). Recorded per Pauketat: Yoffee (pers. comm. 2005) "stands ready to accept that Cahokia was a city" while doubting it centered an archaic state, endorsing Monica Smith's uncoupling of cities from states. Pauketat conversely applies **Yoffee, Fish & Milner's (1999) four early-state criteria** (disembedding from kinship at new capitals; ruralization as urbanization's twin; interplay of competing power sources; ideological symbol manipulation) to argue Cahokia qualifies — see [[cahokia-population-urbanism-debate]].
 
 ## Historiography
 

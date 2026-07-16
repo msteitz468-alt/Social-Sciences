@@ -7,8 +7,8 @@ positions: ["Recent African origin / Out of Africa (replacement or mostly-replac
 key_texts: [stringer-gamble-in-search-of-the-neanderthals-1993, stringer-lone-survivors-2012, wenke-olszewski-patterns-in-prehistory-2007, gamble-timewalkers-1994, klein-human-career-1999, gamble-palaeolithic-societies-europe-1999, bogucki-origins-human-society-1999]
 resolution_status: partially-resolved
 related_debates: ["[[peopling-of-the-americas-debate]]", "[[human-aggression-killer-ape-debate]]"]
-sources_ingested: 8
-last_updated: 2026-07-10
+sources_ingested: 9
+last_updated: 2026-07-15
 tags: [debate, biological-anthropology, archaeology]
 ---
 
@@ -253,3 +253,41 @@ Gamble 1999 keeps replacement/extension of Neanderthal social systems live while
 - Links anatomical modernity (~100 ka focus in his text) to sharper visibility of behavior comparable to extant foragers, while treating [[pleistocene-band-society]] as the long social regime under which technological change accumulated.
 - **Language problem** treated as open (anatomical vs archaeological inference gap).
 - Keep subordinate to Stringer/Reich/Fagan layers above for current standing; use for 1990s synthesis historiography and for links to Bogucki’s social model of deep prehistory.
+
+## Tattersall — *Masters of the Planet* (2012)
+
+*Source: [[tattersall-masters-of-the-planet-2012]], [[tattersall-ian]]. Popular synthesis; genetics and first-appearance dates **as of Tattersall 2012** (pre-Jebel Irhoud ~315 ka public redating horizon; nuclear aDNA admixture already reported but still early). No wiki-voice adjudication.*
+
+### Position: African anatomical origin + late symbolic leap (strong form)
+
+Tattersall holds that anatomically modern *[[homo-sapiens|Homo sapiens]]* emerged in Africa (earliest bony traces he emphasizes in NE Africa — Omo ~195 ka; Herto), that living-population DNA datasets converge on African ancestry with later expansion, and that **anatomical modernity is not behavioral modernity**. A qualitative symbolic/linguistic transition occurred **after** modern form, first intimated in African MSA materials and only overwhelmingly documented in later Eurasian Upper Paleolithic art (attributed — see [[behavioral-modernity]]).
+
+He rejects the long practice of labeling large-brained non-Neanderthal, non-modern-looking fossils as “archaic *Homo sapiens*” — a classificatory lumping he treats as obscuring real species diversity (attributed; [[species-concept]]).
+
+### Neanderthals as separate species; limited admixture
+
+Neanderthals are a distinctive species with their own history, not direct human precursors; species can be “leaky vessels,” and 2010 Vindija nuclear genome work (as he reports) indicated ~1–4% contribution to non-Africans after heavy processing — a finding he records with caveats about algorithmic pipelines (attributed **as of Tattersall 2012**; later vault genetics layers on [[neanderthals]] / [[reich-who-we-are-2018]] supersede for current admixture maps). He reinterprets famous putative hybrids (Lagar Velho, Oase) as unusual modern humans and sees little archaeological cultural intermixing (attributed position). Morphological distance Neanderthal/*sapiens* exceeds that between several living mammal species pairs he cites (attributed).
+
+### Levant foray and failed early exit
+
+Levantine Skhul/Qafzeh anatomical moderns with Mousterian toolkits represent an early out-of-Africa foray that was **ultimately unsuccessful**; by ~60 ka Neanderthals appear back in charge of the Levant until later modern expansions (attributed **as of Tattersall 2012**). Hybrid Skhul–Tabun scenarios are geographically tempting but he resists them (attributed).
+
+### Replacement dynamics and monoculture
+
+Modern takeover of the Old World (later New World and Pacific) was not deliberate expeditioneering but demographic spread; when behaviorally modern humans entered regions already occupied by related species (Europe’s Neanderthals), the pattern was competitive displacement rather than long co-residence as equals (attributed). He stresses that living humans are a **monoculture** relative to the multi-species hominid past (attributed).
+
+### Bottleneck / Toba (2012 horizon)
+
+DNA datasets he surveys suggest bottlenecks broadly ~75–60 ka; Toba ~73.5 ka is one earlier-bound scenario — **do not promote to wiki voice** (later work, including Fagan/Durrani textbook layer above, flags Toba catastrophe readings as likely wrong).
+
+### Relation to other positions on this page
+
+| Camp | Tattersall 2012 |
+|---|---|
+| Recent African Origin / replacement | Aligns on African origin and competitive replacement of archaics once behaviorally modern |
+| Multiregional continuity | Opposes strong regional-continuity readings |
+| Assimilation / admixture | Records limited Neanderthal genetic input; does not equalize multiregional contribution |
+| Klein cognitive threshold | Close ally on **late** cognitive modernity; mechanism framed via exaptation + language stimulus |
+| McBrearty–Brooks gradualism | Accepts African early symbolic signals but retains qualitative-leap framing |
+
+Curator note: Tattersall is a synthesis pole in the vault’s paleoanthropology stream alongside Stringer, Klein, Leakey & Lewin, and Reich — not a primary fossil monograph.

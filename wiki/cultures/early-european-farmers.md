@@ -15,8 +15,8 @@ preceded_by: [western-hunter-gatherers]
 succeeded_by: [yamnaya-culture, corded-ware-culture, bell-beaker-culture]
 language_affiliation: unresolved; entangled with the [[steppe-hypothesis-debate]] over Indo-European origins
 genetic_signature: "First European farmers (8,800–4,500 years ago) retained at least 90% ancestry from an Anatolian-related immigrant source with minimal hunter-gatherer admixture; the highest surviving proportion of this ancestry today is in Sardinia, not southeast Europe (as of Reich 2018). Pre-aDNA classical genetics debate densified from Bellwood 2005 below — do not merge 2005 mtDNA/Y figures with 2010s genome-wide results."
-sources_ingested: 2
-last_updated: 2026-07-10
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [culture, neolithic, europe, anatolia]
 ---
 
@@ -84,3 +84,31 @@ Bellwood frames disagreement as about **strength** of the wave of advance, not e
 - **Link to language:** Renfrew 1987 Anatolian homeland with first farmers is a **position** Bellwood prefers among IE options (with Gray & Atkinson 2003 computational dates ~7000 BC for PIE as cited); steppe/kurgan alternatives remain live — see [[anatolian-hypothesis]], [[steppe-hypothesis-debate]]. Do not equate EEF genomes (Reich) with PIE.
 
 **Update path:** the 2010s aDNA results in the sections above revise the geography of admixture (Sardinia peak; delayed HG admixture; later steppe turnover) while retaining a strong demic farmer entry — compare rather than overwrite. Sources: [[bellwood-first-farmers-2005]], [[reich-who-we-are-2018]]; debates: [[farming-spread-europe-debate]], [[early-farming-dispersal-hypothesis]].
+
+## Whittle 1996 — indigenous lean (pre-aDNA; not the EEF genetic construct)
+
+*(Attributed — [[whittle-alasdair|Alasdair Whittle]], *[[whittle-europe-in-the-neolithic-1996|Europe in the Neolithic]]* 1996, esp. Chs. 6, 8, 10. **Critical dating note:** Whittle writes **before** genome-wide aDNA and does **not** define or use the “Early European Farmers” genetic population. Do **not** promote his indigenous-forager agency arguments into wiki-voice demography for this page, and do **not** assert from Whittle that the later aDNA EEF “package” is false or true. Record his **position** on [[farming-spread-europe-debate]] against the demic-colonisation orthodoxy of his day; compare with Reich/Bellwood above as independent evidence classes and eras.)*
+
+### What Whittle is (and is not) talking about
+
+This page’s primary object is a **genetic population** (Anatolian-related farmer ancestry as of Reich 2018). Whittle’s object is **archaeological process** — how ceramic, architectural, and subsistence practices spread in Europe c. 7000–2500 BC — argued largely as **indigenous forager transformation / acculturation / enculturation**, with colonisation only as limited special cases. He explicitly flags physical anthropology as open and anticipates “DNA investigations in the future” for LBK origins (Ch. 6). That anticipation is not the 2010s EEF result.
+
+### Position against demic-diffusion orthodoxy (as of Whittle 1996)
+
+Whittle reports the colonisation orthodoxy he opposes: LBK as clean break with indigenous foragers portrayed as thin on the ground; LBK as demographic overflow from the Hungarian plain held by shared material culture; classic rapid colonisation into empty niches accepted even by many who grant indigenous roles elsewhere; SE Europe sometimes read as seaborne “boat-people” colonists. His **radical alternative** (densified in Ch. 6 and restated in Ch. 10): LBK may represent **acculturation/enculturation and transformation of indigenous inland foragers**, not colonisation — transformation of indigenous lifestyle in response to local resource factors **and** contact with Neolithic communities; extension of an **indigenous ethic of cooperation and integration**. Longhouses enhance aggregation/cooperation; cattle and cereals taken up to underpin these values rather than replace them. Physical anthropology from LBK cemeteries (as of 1996) **compatible with continuity of indigenous population** with area-to-area variation; indigenous population “must have been involved.” Flint toolkit continuity with forager blade production. Coastal Ertebølle–Ellerbek stable frontier with lifestyle convergence despite labels.
+
+Ch. 8–10 synthesis: primary means of change in central/west Mediterranean as **acculturation** via sea-borne transmission of contacts, ideas and resources; indigenous transformation at different rates; against demic-diffusion / colonising-farmer orthodoxy as **primary European engine** — indigenous foragers as principal agents in SE Europe, LBK formation, Mediterranean acculturation, and many secondary extensions. Colonisation only as limited/special cases (possible Sardinia/Corsica; orthodoxy’s S Italy boat model reported not endorsed as primary). Resource-orientated flexible indigenous people consciously shifted to new staples when available; Neolithic beliefs/values **grounded in Mesolithic**; in a sense Neolithic not so much creation of new worlds as **prolongation of old ones** — yet conceptual differences remain. Parallel slow trajectories of becoming Neolithic — not a single demic wavefront.
+
+### How to hold this against the aDNA EEF construct
+
+| Layer | Claim type | Do not collapse into |
+|---|---|---|
+| Reich 2018 EEF | Genome-wide ancestry of early farmers largely Anatolian-related; minimal early HG admixture | Whittle’s 1996 agency narrative |
+| Bellwood 2005 | Archaeological demic lean + classical genetics debate | 2010s aDNA geography |
+| Whittle 1996 | Indigenous agency / continuity **position** in material culture and process | Genetic population identity or “no migration” as fact |
+
+Possible future reconciliations (not asserted here): cultural continuity with demographic turnover; regionally mixed demography; material-style unity without pan-European single-source people. Those are research questions for [[farming-spread-europe-debate]] and later aDNA-era sources — **not** verdicts licensed by Whittle alone. LBK longhouses, Ertebølle neighbours, and TRB transitions densified on their archaeological-culture pages remain the proper homes for his settlement detail; this page only records that his synthesis systematically **leans indigenous** against demic orthodoxy and must not be used to rewrite the genetic definition of EEF.
+
+- studied via (process position): [[whittle-europe-in-the-neolithic-1996]] · [[whittle-alasdair]]
+- genetic construct: [[reich-who-we-are-2018]]
+- debated_in: [[farming-spread-europe-debate]] · [[early-farming-dispersal-hypothesis]] · [[demic-diffusion]]

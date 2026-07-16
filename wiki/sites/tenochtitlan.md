@@ -13,8 +13,8 @@ cultures: ["[[aztec-empire]]"]
 excavated_by: [Eduardo Matos Moctezuma, Leonardo López Luján, INAH]
 excavation_years: ["1978–present"]
 key_finds: [Coyolxauhqui Stone, Tlaltecuhtli monolith, Templo Mayor offering caches]
-sources_ingested: 1
-last_updated: "2026-07-10"
+sources_ingested: 2
+last_updated: "2026-07-15"
 tags: [site, post-classic, mesoamerica]
 ---
 
@@ -111,5 +111,14 @@ unresolved dispute — see [[sacrifice]] for the Nicholson-vs.-skeptics position
 Tenochtitlan's tzompantli and offering deposits are the primary material evidence cited
 on both sides.
 
+## Basin of Mexico Survey Population and Settlement Estimates (Sanders, Parsons & Santley 1979)
+
+[[sanders-parsons-santley-basin-of-mexico-1979]] (study page [[sanders-basin-of-mexico-study]]) incorporated Edward Calnek's documentary/archival research (1970–1976) on Tenochtitlan's urban core, reporting an estimated population of 150,000–200,000 within a densely built 12–15 km² urban area — a density of roughly 12,000–13,000 people per km², which the authors noted was far higher than Middle Horizon [[teotihuacan]]'s. They described Tenochtitlan's residents as almost exclusively non-agriculturalists organized in extended-family domestic units along a fairly regular street-and-canal grid, and recorded that Tenochtitlan and Tlatelolco began as two separate island centers that later physically merged, with Tenochtitlan absorbing Tlatelolco's rulership by forced replacement late in the 15th century.
+
+At the largest scale, the authors estimated a "Greater Tenochtitlan" zone of roughly 600 km² (from the Sierra de Guadalupe south to the Ajusco foothills) held approximately 400,000 people by the Late Horizon, encompassing Tenayuca, Azcapotzalco, Tacuba, Coyoacan, Ixtapalapa, Culhuacan, and Xochimilco among other provincial centers — which they described as the largest, densest population concentration in prehispanic Mesoamerican history, and treated analytically as a single integrated community. They put the Late Horizon Basin-wide population at roughly 1,000,000–1,200,000, with Tenochtitlan-Tlatelolco alone accounting for up to 20% of the Basin total.
+
+On social organization, the authors summarized Late Horizon stratification as roughly 5–10% noble (*pilli*) status, with commoners divided between *macehual* (free commoners holding corporate land rights) and *mayeque* (dependent tenants on noble estates, lacking corporate membership); they treated the *[[calpulli]]* — the basic territorial corporate unit, with tax, educational, military, and religious functions — as having considerable time depth, citing comparable corporate-group evidence at Middle Horizon Teotihuacan and Monte Albán. Tenochtitlan, Texcoco, and Tacuba (the Triple Alliance capitals) are described as constituting a distinctly higher political-organizational tier than the roughly fifty other semiautonomous local centers documented for the Late Horizon Basin, with Texcoco estimated at ~30,000 and Tacuba's role as largely formal/honorific.
+
 Related: [[aztec-empire]] · [[chinampa]] · [[calpulli]] · [[pochteca]] ·
-[[flowery-war]] · [[sacrifice]] · [[city-state]] · [[sources/coe-koontz-mexico-2013]]
+[[flowery-war]] · [[sacrifice]] · [[city-state]] · [[sources/coe-koontz-mexico-2013]] ·
+[[sanders-parsons-santley-basin-of-mexico-1979]]

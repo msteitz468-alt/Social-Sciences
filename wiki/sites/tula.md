@@ -13,8 +13,8 @@ cultures: ["[[cultures/toltec-culture]]"]
 excavated_by: ["Désiré Charnay (1880s)", "Jorge Acosta (from 1940, INAH)", "Eduardo Matos Moctezuma", "Richard Diehl (University of Missouri)", "Alba Guadalupe Mastache", "Robert Cobean", "Dan Healan"]
 excavation_years: ["1880s", "1940–c.1960 (Acosta)", "later 20th century (Diehl, Mastache, Cobean, Healan)"]
 key_finds: ["Pyramid B atlantean warrior columns", "chacmool sculptures", "Palacio Quemado ('Burnt Palace')", "Serpent Wall", "turquoise-and-shell tezcacuitlapilli back-mirror", "Tohil Plumbate and Papagayo Polychrome trade wares", "tzompantli base"]
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [site, mesoamerica, north-america]
 ---
 
@@ -138,8 +138,16 @@ Coe & Koontz consider it "unlikely" that Tula was conquered by Chich'en Itza rat
 the reverse, but treat the wider question as open pending better chronological control
 at both sites.
 
+## Basin of Mexico Regional Survey Comparison (Sanders, Parsons & Santley 1979)
+
+Working from a companion 1,000 km² regional survey around Tula conducted with the same field methodology as their Basin of Mexico project (crediting Mastache and Crespo's 1974/1976 fieldwork), [[sanders-parsons-santley-basin-of-mexico-1979]] (study page [[sanders-basin-of-mexico-study]]) put Tula's Second Intermediate Phase Two (Tollan-phase) urban center at roughly 60,000 inhabitants occupying about 12 km², with a comparably sized rural hinterland population of roughly 60,000 more — combined regional population of the same order as Middle Horizon [[teotihuacan]] and its hinterland. Because the Tula survey area is only about a quarter the size of the surveyed Basin of Mexico, they concluded population density there was several times higher.
+
+The authors read this settlement pattern as showing a physical separation of Tula's non-food-producing urban population from its agricultural countryside, in contrast to Teotihuacan's single nucleated center where farmers resided within the city itself. They also noted Tula's obsidian-workshop area was comparable in size to Middle Horizon Teotihuacan's despite Teotihuacan's roughly double population, which they took as an indication of an unusually high proportion of specialized craft producers at Tula. Estimated irrigable land in the Tula region (following Mastache and Crespo) could have supported, by the authors' calculation, at least half the region's population.
+
+Sanders, Parsons & Santley (1979), citing Diehl (1974) and Matos (1974), described Tula's growth as explosive but its collapse as nearly as sudden — occurring, in their estimate, within as little as a century — leaving little time for the kind of large-scale urban public-works program seen at Teotihuacan; they compared Tula circa AD 1100 physically to Teotihuacan's earlier Tzacualli/Miccaotli phases, before Teotihuacan's later architectural reorganization, while noting Tula's more developed political and economic institutions reflect its later position in the sequence. On the historical identification of Tula with the Toltec capital Tollan, the authors largely accepted the Tula=Tollan equation (per Jiménez Moreno 1941) but flagged it as potentially oversimplified: they argued "Tollan" may have been a title applied at different times to more than one center, and that [[sanders-parsons-santley-basin-of-mexico-1979|Cholula]] may have rivaled Tula in political importance during the same phase — a live interpretive question they explicitly declined to resolve ("we are not now prepared" to argue Cholula rather than Tula was the "real" Tollan).
+
 ## Related Pages
 
 [[cultures/toltec-culture]] · [[sites/chichen-itza]] ·
 [[debates/toltec-chichen-itza-connection-debate]] · [[concepts/postclassic-stage]] ·
-[[sources/coe-koontz-mexico-2013]]
+[[sources/coe-koontz-mexico-2013]] · [[sanders-parsons-santley-basin-of-mexico-1979]]
