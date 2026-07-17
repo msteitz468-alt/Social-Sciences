@@ -7,9 +7,9 @@ disciplines: [sociology, political-sociology]
 emic_or_etic: etic
 operationalized_as: "occupants of the strategic command posts of the major institutional hierarchies — big corporations, the state machinery, and the military establishment — whose decisions (or non-decisions) have major consequences for the underlying population"
 contested: yes
-related_concepts: ["[[higher-circles]]", "[[middle-levels-of-power]]", "[[mass-society]]", "[[organized-irresponsibility]]", "[[higher-immorality]]", "[[military-ascendancy]]", "[[theory-of-balance]]", "[[circulation-of-elites]]", "[[corporate-community]]", "[[policy-planning-network]]", "[[class-domination-theory]]"]
-sources_ingested: 2
-last_updated: 2026-07-10
+related_concepts: ["[[higher-circles]]", "[[middle-levels-of-power]]", "[[mass-society]]", "[[organized-irresponsibility]]", "[[higher-immorality]]", "[[military-ascendancy]]", "[[theory-of-balance]]", "[[circulation-of-elites]]", "[[corporate-community]]", "[[policy-planning-network]]", "[[class-domination-theory]]", "[[nomenklatura]]", "[[job-slot-system]]"]
+sources_ingested: 3
+last_updated: 2026-07-16
 tags: [concept]
 ---
 
@@ -83,6 +83,8 @@ itself (Mills noted the top is "often inaccessible").
 - **Later power-structure research** treated the book as a research program to refine (network
   interlocks, classwide property, state autonomy debates) — see Wolfe afterword summary on
   [[mills-power-elite-study]] and [[hubs/studies/mills-power-elite-study]].
+
+- **Soviet party-state elite (contrast case):** [[mawdsley-white-soviet-elite-study|Mawdsley & White (2000)]] operationalise a Soviet political elite as CPSU Central Committee members selected through the [[nomenklatura]] / [[job-slot-system]] — a single appointment hierarchy rather than Mills's corporate–military–political triad. Use for comparison of *elite form*, not identity of concepts. See also [[new-class]], [[soviet-central-committee]].
 
 ## Critiques and Limitations
 

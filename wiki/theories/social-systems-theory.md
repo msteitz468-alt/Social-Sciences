@@ -16,8 +16,8 @@ core_claims:
 developed_from: ["[[structural-functionalism]]"]
 competes_with: ["[[theory-of-communicative-action]]", "[[structural-functionalism]]", "[[symbolic-interactionism]]"]
 status: active
-sources_ingested: 1
-last_updated: 2026-07-10
+sources_ingested: 2
+last_updated: 2026-07-16
 tags: [theory, sociology]
 ---
 
@@ -73,6 +73,8 @@ Luhmann's central theses, all in his own voice:
   of a subsystem of society" (see the epistemology below).
 
 ## Intellectual Origins
+
+**Precursor note (attributed):** Bogdanov's [[tektology]] (1913–29) is claimed by its modern editors and by Soviet re-evaluators as the first general systems theory and a precursor of cybernetics (Gorelik 1984; Setrov; Sadovsky & Kelle / Dudley Hull edition 1996; see [[bogdanov-essays-in-tektology-1980]], [[bogdanov-tektology-book1-1996]]). No direct filiation from tektology to Parsons or Luhmann is documented in ingested sources — the parallel is retrospective scholarship, recorded as such.
 
 Luhmann's program reacted against, and cannibalized, [[parsons-talcott|Parsons]]'s
 [[structural-functionalism]], which he studied under at Harvard (1960–61). He *inverts*

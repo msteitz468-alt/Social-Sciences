@@ -9,9 +9,9 @@ region: [sub-saharan-africa, melanesia, western-europe]
 measured_by: ["case documentation of movements (cult ethnographies, colonial records, medieval archives)"]
 driven_by: ["colonial conquest and colour-bar exclusion (Gluckman 1954, attributed)", "land pressure, labour migration, urban slums (attributed)", "suppression of political and industrial organization (attributed)"]
 produces: ["separatist churches", "witch-cleansing movements", "cargo cults", "oath-bound resistance movements"]
-theorized_by: ["[[gluckman-max]]", "Norman Cohn", "Peter Worsley", "Eric Hobsbawm"]
-key_studies: ["Sundkler, Bantu Prophets of South Africa (1948)", "Cohn, The Pursuit of the Millennium (1957)", "Worsley, The Trumpet Shall Sound (1957)", "Hobsbawm, Primitive Rebels (1959)"]
-sources_ingested: 3
+theorized_by: ["[[gluckman-max]]", "[[cohn-norman]]", "Peter Worsley", "Eric Hobsbawm"]
+key_studies: ["Sundkler, Bantu Prophets of South Africa (1948)", "Cohn, The Pursuit of the Millennium (1957)", "[[cohn-warrant-for-genocide-study]]", "Worsley, The Trumpet Shall Sound (1957)", "Hobsbawm, Primitive Rebels (1959)"]
+sources_ingested: 4
 last_updated: 2026-07-15
 tags: [phenomenon, sub-saharan-africa]
 ---
@@ -32,7 +32,8 @@ No standard index; the phenomenon is documented through case ethnographies, colo
 
 - **Gluckman's Mau Mau thesis (1954, attributed and self-labelled a hypothesis):** Mau Mau was a product of colonization, not a reversion to indigenous religion — "dominantly a movement of despair" using "a magic of despair": magic mobilized against overwhelming colonial force, its oaths built on fantasies of what secret societies are reputed to do, with obscenity reflecting breakdown of ordinary moral controls. He explicitly rejected the Parliamentary Delegation's and press's primitivist framing ("back to the bush," "30,000 years of stagnation"), arguing nothing in African religions resembled Mau Mau's obscenities. [POSITION — both framings recorded; Gluckman's reply provoked a published rejoinder from Sir Philip Mitchell, former Governor of Kenya.]
 - **Intellectual lineage (attributed):** Gluckman built on [[evans-pritchard-e-e|Evans-Pritchard]]'s "Some Collective Expressions of Obscenity in Africa" (1929) and his Azande secret-society analysis (1937) — magic as the "last defence" against a power that can be neither resisted nor avoided; and on the Bambatha Rebellion (Zulu, 1906) bullets-into-water magic.
-- **Cross-disciplinary convergence:** Gluckman's 1954 broadcast and Manchester seminars fed exchanges with Norman Cohn (*The Pursuit of the Millennium*, 1957, medieval Europe) and Eric Hobsbawm, whose *Primitive Rebels* (1959) was partly stimulated by them; Worsley's *The Trumpet Shall Sound* (1957) developed parallel ideas on Melanesian cargo cults independently.
+- **Cross-disciplinary convergence:** Gluckman's 1954 broadcast and Manchester seminars fed exchanges with [[cohn-norman|Norman Cohn]] (*The Pursuit of the Millennium*, 1957, medieval Europe) and Eric Hobsbawm, whose *Primitive Rebels* (1959) was partly stimulated by them; Worsley's *The Trumpet Shall Sound* (1957) developed parallel ideas on Melanesian cargo cults independently.
+- **Cohn's modern political-myth extension (1967, attributed):** In *[[cohn-warrant-for-genocide-1967|Warrant for Genocide]]*, Cohn carries the millenarian/demonological toolkit into modern history: Nilus packages the forged *[[protocols-of-the-elders-of-zion|Protocols]]* in Antichrist/end-time frames; Rosenberg's cast of mind is permanently apocalyptic; the [[jewish-world-conspiracy-myth]] functions as a secularized demonology that can warrant [[genocide]]. This is not cargo-cult ethnography — it is the same historian tracking how "subterranean" apocalyptic fantasies capture modern states. *Pursuit* itself remains uningested as full text.
 
 ## Explanatory Theories
 
@@ -46,6 +47,6 @@ Linked to [[witchcraft]] (accusation surges under strain), [[ritual-of-rebellion
 
 ## Debates
 
-The primitivism dispute over Mau Mau (Gluckman vs the Parliamentary Delegation framing) is recorded above; a fuller Mau Mau/Kenya treatment awaits dedicated sources. Coverage note: this page is currently single-source (Gluckman 1954 plus works he cites) — expand with Worsley/Cohn/Hobsbawm ingests.
+The primitivism dispute over Mau Mau (Gluckman vs the Parliamentary Delegation framing) is recorded above; a fuller Mau Mau/Kenya treatment awaits dedicated sources. Coverage note: Gluckman 1954 primary plus partial Cohn densify via *Warrant for Genocide* (modern conspiracy-myth side); *Pursuit of the Millennium*, Worsley, and Hobsbawm full texts still wanted.
 
-*Primary densify of *[[gluckman-order-and-rebellion-1963|Order and Rebellion]]* essays: full primary extract 2026-07-10.*
+*Primary densify of *[[gluckman-order-and-rebellion-1963|Order and Rebellion]]* essays: full primary extract 2026-07-10. Cohn *Warrant* cross-link 2026-07-15.*

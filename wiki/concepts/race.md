@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "in racial typology: clusters of bodily traits defining discrete hereditary types; in Boasian critique: statistical populations of variable family lines without pure types or fixed race–mind links"
 contested: yes
 related_concepts: ["[[cultural-relativism]]", "[[culture]]", "[[psychic-unity-of-mankind]]", "[[historical-particularism]]", "[[race-and-culture-debate]]", "[[race-and-genomics-debate]]", "[[admixture]]", "[[genetic-distance]]", "[[monogenism]]", "[[polygenism]]", "[[sexual-selection]]"]
-sources_ingested: 6
-last_updated: 2026-07-10
+sources_ingested: 7
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -63,6 +63,8 @@ Boas's critical program on race, as stated in the Preface and developed in Chs. 
 **Important hedges Boas himself makes:** he does not claim that no average biological differences of any kind could ever be found; he claims the crude race–culture and race–mind equations are unproved and that opportunity blocks fair tests. Record hedges; do not harden Boas into either later "race is biological destiny" or "biology is silent" slogans.
 
 Date-stamp: biological claims are **as of Boas 1938**. Later population genetics and behavioral genetics are separate positions on [[race-and-culture-debate]].
+
+**In the primary voice (*[[boas-race-language-culture-1940|Race, Language and Culture]]*, 1940).** Boas's own gloss in the preface uses "race"/"racial" to mean "the assembly of genetic lines represented in a population" — a statistical population of variable family lines, not a discrete hereditary type. The empirical spine of the critique is the [[boas-changes-in-bodily-form-study|immigrant head-form study]] (1910–1912): if the cephalic index — the era's most trusted racial marker — is itself environmentally plastic, then the whole apparatus of typological classification is unreliable. Boas coined the **genetic type vs. physiological type (ecotype)** distinction there, and explicitly limited it (pigmentation showed *no* plasticity). See [[anthropometry]], [[nature-nurture-debate]].
 
 ## The genomic era: ancestry vs. race (Reich 2018)
 

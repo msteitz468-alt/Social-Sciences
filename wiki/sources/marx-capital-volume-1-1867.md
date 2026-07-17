@@ -61,6 +61,8 @@ Endnotes (8055–13805) not assigned to agents — main thread may pull named re
 
 **Extraction:** 6 range agents, ~448 claims (ranges 4–5 respawned after silent dropout — Obs 5).
 
+*[[marx-capital-volume-2-1885|Capital, Volume II]]* (ingested 2026-07-16) continues this analysis into the circulation and realization of capital and surplus-value. *[[marx-capital-volume-3-1894|Capital, Volume III]]* (ingested 2026-07-16) completes the trilogy with the process of capitalist production as a whole — profit, credit, rent, and the revenues of the three great classes.
+
 ## Volume Synthesis Note
 
 *Capital* I gives the wiki the scientific core of Marx’s critique of political economy that the *Manifesto* only sketched. Value theory ([[commodity]], [[labor-theory-of-value]], [[commodity-fetishism]]), the capital–wage relation ([[labor-power]], [[surplus-value]], c/v), accumulation dynamics ([[organic-composition-of-capital]], [[industrial-reserve-army]], [[general-law-of-capitalist-accumulation]]), and historical origin ([[primitive-accumulation]]) are now network-linked under attributed voice. England remains the classic illustrative ground; Ireland and colonial material enter as Marx’s mid-19th-c. documentation. Gaps: *Capital* II–III, 1859 *Preface* as full text, *Eighteenth Brumaire*, secondary transformation-problem and immiseration debates as dedicated `debates/` pages.

@@ -10,7 +10,7 @@ trained: ["[[sapir-edward]]", "[[lowie-robert-h]]", "[[mead-margaret]]", "[[bene
 key_works: ["[[boas-mind-of-primitive-man-1938|The Mind of Primitive Man (1911; rev. 1938)]]", "The Limitations of the Comparative Method of Anthropology (1896)", "[[boas-kwakiutl-ethnography-1966|Kwakiutl Ethnography (ed. Codere, 1966; corpus 1886–1943)]]", "[[boas-race-language-culture-1940|Race, Language and Culture (1940 collection)]]"]
 key_concepts: ["[[historical-particularism]]", "[[cultural-relativism]]", "[[race]]", "[[culture]]", "[[psychic-unity-of-mankind]]"]
 fieldwork_sites: ["Baffin Island Inuit (1883–84)", "Pacific Northwest / Kwakiutl (Kwakwaka'wakw) and neighboring peoples (from 1886)"]
-sources_ingested: 6
+sources_ingested: 7
 last_updated: 2026-07-15
 tags: [thinker, anthropology]
 ---
@@ -33,6 +33,7 @@ Franz Boas (1858–1942), German-born American anthropologist, is the architect 
 - **Language and thought.** Languages classify experience differently (obligatory categories, lexicon) but do not block abstraction; culture moulds language more than the reverse (*Mind* Ch. 11) — anticipates later linguistic-relativity debates without Whorf's full thesis.
 - **Emotional associations and secondary explanations.** Primitive (and civilized) custom is held by automatic habit and emotional resistance; "reasons" are often secondary (*Mind* Ch. 12).
 - **Public race science.** Ch. 13 and the 1938 Preface: against eugenic panaceas, US racial caste, and dictatorship's control of race/culture science; evaluate individuals, not class-types.
+- **The immigrant plasticity study.** Boas's most-cited empirical intervention: his US Immigration Commission study ([[boas-changes-in-bodily-form-study]], 1910–1912) found the cephalic index — the era's supposed bedrock racial marker — differing in the American-born children of immigrants, with the effect growing by time since the mother's arrival. He read it as the environmental plasticity of "racial type," coining the **genetic type vs. physiological type (ecotype)** distinction while refusing to name a mechanism. Now reanalyzed and contested (Sparks & Jantz 2002; Gravlee et al. 2003). The primary corpus for the race, language, and method arguments is *[[boas-race-language-culture-1940|Race, Language and Culture]]* (1940). See [[anthropometry]], [[nature-nurture-debate]].
 
 ## Intellectual Genealogy
 
@@ -71,7 +72,7 @@ Standard US origin story: Boas founded professional anthropology and overthrew e
 ## Links
 
 - Hub: [[hubs/thinkers/boas-franz]]
-- Sources: [[boas-mind-of-primitive-man-1938]] · [[boas-race-language-culture-1940]] (via Macat secondary guide — see its provenance flag) · Work analysis: [[boas-race-language-culture-study]]
+- Sources: [[boas-mind-of-primitive-man-1938]] · [[boas-race-language-culture-1940]] (primary text, ingested 2026-07-15) · Work analysis: [[boas-race-language-culture-study]] · Landmark study: [[boas-changes-in-bodily-form-study]] · Method: [[anthropometry]] · Debate: [[nature-nurture-debate]]
 - Theory: [[historical-particularism]] · [[hubs/theory/historical-particularism]]
 - Concepts: [[cultural-relativism]] · [[race]] · [[culture]] · [[psychic-unity-of-mankind]]
 - Debates: [[cultural-evolutionism-debate]] · [[race-and-culture-debate]]

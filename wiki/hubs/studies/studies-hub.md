@@ -280,6 +280,7 @@ Single source of truth (create on first hub ingest, then lock):
 | Lynd & Lynd, *Middletown* (1929) | [[hubs/studies/lynd-middletown-study]] | [[lynd-middletown-study]] | ✅ complete |
 | Whyte, *Street Corner Society* (1943) | [[hubs/studies/whyte-street-corner-society-study]] | [[whyte-street-corner-society-study]] | ✅ complete |
 | Mills, *The Power Elite* (1956) | [[hubs/studies/mills-power-elite-study]] | [[mills-power-elite-study]] | ✅ complete |
+| Mawdsley & White, *The Soviet Elite* (2000) | [[hubs/studies/mawdsley-white-soviet-elite-study]] | [[mawdsley-white-soviet-elite-study]] | ✅ complete — full-period CC prosopography; job-slot system; three elite revolutions; nomenklatura continuity |
 | Lipset, *Political Man* (1960) | [[hubs/studies/lipset-political-man-study]] | [[lipset-political-man-study]] | ✅ complete |
 | Skocpol, *States and Social Revolutions* (1979) | [[hubs/studies/skocpol-states-social-revolutions-study]] | [[skocpol-states-social-revolutions-study]] | ✅ complete |
 | Tilly, *From Mobilization to Revolution* (1978) | [[hubs/studies/tilly-from-mobilization-to-revolution-study]] | [[tilly-from-mobilization-to-revolution-study]] | ✅ complete |
@@ -357,6 +358,7 @@ Single source of truth (create on first hub ingest, then lock):
 
 ## Completed analyses
 
+- [[hubs/studies/boas-changes-in-bodily-form-study|Boas — Changes in Bodily Form of Descendants of Immigrants (1910–1912)]] — immigrant head-form plasticity; genetic type vs ecotype; reanalyzed-contested (Sparks & Jantz 2002 / Gravlee 2003) (ingested 2026-07-15)
 - [[hubs/studies/viveiros-de-castro-enemys-point-of-view-study|Viveiros de Castro — From the Enemy's Point of View (1992 [1986])]] — Araweté divine cannibalism; cannibal cogito; killer's enemy-voiced songs; root of perspectivism (ingested 2026-07-15)
 - [[hubs/studies/hubert-mauss-sacrifice-study|Hubert & Mauss — Sacrifice (1898)]] — founding Durkheimian morphology of sacrifice (ingested 2026-07-15) (selected)
 - [[hubs/studies/rosaldo-ilongot-headhunting-study|Rosaldo — Ilongot Headhunting, 1883–1974 (1980)]] — founding historical ethnography; oral chronology of an acephalous society; bertan deconstruction; "feud in the peace" (ingested 2026-07-15)

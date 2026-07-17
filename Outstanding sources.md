@@ -82,6 +82,8 @@ represents non-English scholarship and post-2020 literature. Rebalance on reques
 34. Meyer & Rowan — “Institutionalized Organizations” (1977) + Powell & DiMaggio iron-cage package (reader OK). ✅ ingested 2026-07-10 (both papers reprinted in full in item 33’s reader — covered by that ingest).
 35. Burt — *Brokerage and Closure* (2005) — social capital beyond structural holes (1992 already in vault). ✅ ingested 2026-07-10 (5 created + 10 updated; 4-agent extraction; complementarity + vision/echo concepts).
 36. Ostrom — *Governing the Commons* (1990) — CPR institutions; polycentric governance. [X-disc] ✅ ingested 2026-07-10 (8 created + 5 updated; OCR scan Chs 1–5; Ch.6 incomplete; filed `raw/sociology/`).
+37. Mawdsley & White — *The Soviet Elite from Lenin to Gorbachev* (2000) — Soviet CC elite prosopography (foil to US power-elite research). ✅ ingested 2026-07-16 (16 created + 10 updated; study + Studies Hub; 8-agent extraction 8/8; filed `raw/sociology/`)
+
 37. Domhoff — *Who Rules America?* (latest ed.) — power-structure research foil to Dahl/pluralism. ✅ ingested 2026-07-10 (8th ed. 2022; source + study + class-domination-theory + corporate-community/policy-planning-network/power-indicators; densified power-elite + pluralism debate)
 38. Lukes — *Power: A Radical View* (1974; 2nd ed. 2005) — three dimensions of power. ✅ ingested 2026-07-10 (5 created + 7 updated; 3-agent extraction; filed `raw/sociology/`).
 39. Harvey — *The Condition of Postmodernity* (1989) — time–space compression; urban political economy. [X-disc] ✅ ingested 2026-07-10
@@ -162,7 +164,7 @@ represents non-English scholarship and post-2020 literature. Rebalance on reques
 47. Marcus — *Ethnography through Thick and Thin* (1998) — multi-sited ethnography program. ✅ ingested 2026-07-15 (3 created + 7 updated; multi-sited-ethnography method page + complicity concept; Tonga elites section; reflexivity typology)
 48. Appadurai densify: *Fear of Small Numbers* (2006) — ethnocide and minorities after *Modernity at Large*. ⚠️ **partial** — ingested 2026-07-11 (PDF on disk is only ch. 3, pp. 49–85; 4 pages created; full book still wanted)
 49. Mauss densify companions: Hubert & Mauss *Sacrifice* (1898/1964) — ritual theory; or **Hubert & Mauss *A General Theory of Magic***. ✅ *A General Theory of Magic* ingested 2026-07-15 (3 created + 8 updated; source + study + thinker hubert-henri; mana/magic/sympathetic-magic/taboo/witchcraft/sacrifice densified). ✅ *Sacrifice: Its Nature and Functions* ingested 2026-07-15 (6 created + 5 updated; source + study + Studies Hub; sacrifier/sacralization/desacralization; densified sacrifice, sacred-and-profane, scapegoat, hubert-henri, mauss-marcel; filed `raw/anthropology/`)
-50. Boas densify: *Kwakiutl Ethnography* (ed. Codere, 1966) or *Primitive Art* (1927) — Northwest Coast primary material beyond *Mind* / *Race, Language, Culture*. ⚠️ **partial** — *Kwakiutl Ethnography* ✅ ingested 2026-07-15 (7 created + 6 updated; incl. *Primitive Art* Kwakiutl chapter as reproduced by Codere; standalone *Primitive Art* still outstanding)
+50. Boas densify: *Kwakiutl Ethnography* (ed. Codere, 1966) or *Primitive Art* (1927) — Northwest Coast primary material beyond *Mind* / *Race, Language, Culture* (the latter's **primary 1940 text ✅ ingested 2026-07-15** — see log). ⚠️ **partial** — *Kwakiutl Ethnography* ✅ ingested 2026-07-15 (7 created + 6 updated; incl. *Primitive Art* Kwakiutl chapter as reproduced by Codere; standalone *Primitive Art* still outstanding)
 
 ---
 
@@ -229,6 +231,26 @@ represents non-English scholarship and post-2020 literature. Rebalance on reques
 
 ---
 
+## Lenin counter-sources (added 2026-07-16 — re-balance pages built from Lenin's hostile quotations)
+
+Tier 1 (fixes the worst asymmetries):
+1. Kautsky — *The Dictatorship of the Proletariat* (1918) — the other side of `smash-or-capture-the-state-debate` and the `kautsky-karl` page; currently known only via Lenin's paraphrase in the Renegade Kautsky pamphlet. Pair with *Terrorism and Communism* (1919) if available. ✅ ingested 2026-07-16 (1 created + 8 updated; incl. John H. Kautsky 1964 intro as secondary scholarship; filed raw/sociology/). Trotsky's *Terrorism and Communism* (1920) reply ✅ ingested 2026-07-16 (`trotsky-terrorism-and-communism-1920`; concepts `red-terror`, `militarization-of-labour`). Kautsky's own 1919 *Terrorism and Communism* ✅ ingested 2026-07-16 (`kautsky-terrorism-and-communism-1919`; rebalanced `red-terror`).
+2. Kollontai — *The Workers' Opposition* (1921) — short; the only programmatic opposition text of the trade-union controversy; feeds `soviet-trade-union-debate`. ✅ ingested 2026-07-16 (2 created incl. kollontai-alexandra + 6 updated; Solidarity 1961/68 apparatus as secondary commentary; filed raw/sociology/).
+
+Tier 2:
+3. Bogdanov — *Empirio-monism* (1904–06) and/or *Tektology* (1913–22) — de-Leninize `bogdanov-alexander` and `empirio-criticism-debate`; Tektology also earns its systems-theory-precursor reappraisal. ✅ complete 2026-07-16 — Tektology (Gorelik Essays; theories/tektology created) AND Empiriomonism (Rowley/Brill 2020, Books 1–3 complete; 1 created + 6 updated; empirio-criticism-debate both principals now primary; autobiography + Bazarov memorial + death circumstances sourced). Tektology Book 1 full volume densified 2026-07-16 (Dudley/Hull 1996; source bogdanov-tektology-book1-1996; 1 created + 6 updated).
+4. Avrich — *Kronstadt 1921* (1970) — independent scholarly account; unlocks promotion of Kronstadt from Lenin-only framing to a proper debate page. ✅ ingested 2026-07-16 (`avrich-kronstadt-1921`, study, `kronstadt-debate`, `war-communism`).
+
+Tier 3 (secondary scholarship on Lenin himself — the wiki has Service on Trotsky but no non-Soviet scholarly source on Lenin):
+5. A major Lenin biography (Service, *Lenin: A Biography* 2000, or Lih, *Lenin* 2011 — Lih also directly reassesses What Is to Be Done?). ✅ ingested 2026-07-16 Service *Lenin: A Biography* (2000; Pan 2002 ebook) — 3 created + 7 updated; Thinkers Hub; 4-agent extraction 4/4; filed `raw/sociology/`. Lih still outstanding.
+6. Carr — *The Bolshevik Revolution* vol. 1 (1950) or Figes — *A People's Tragedy* (1996) — independent narrative frame for the 1917–21 pages. ✅ **Carr *The Russian Revolution: From Lenin to Stalin* (1979) ingested 2026-07-16** (short distillation of multi-volume History of Soviet Russia; 10 created + 16 updated; phenomenon russian-revolution + concept suite; Figes / full Carr vols still open).
+
+---
+
+**Addendum (2026-07-16):** Plekhanov — *The Development of the Monist View of History* (1895) ✅ ingested 2026-07-16 (1 created + 8 updated; plekhanov-georgi primary-sourced at last; dialectical-materialism 1895 naming; filed raw/sociology/). *Fundamental Problems of Marxism* (1908) ✅ ingested 2026-07-16 (1 created + 6 updated; Spinozism thesis, five-term formula; Riazanov 1928 apparatus as drift evidence). *Materialismus Militans* ✅ ingested 2026-07-16 (empirio-criticism-debate: all three principals primary; hieroglyph divergence dual-documented). Feuerbach notes ✅ ingested 2026-07-16 (hieroglyph original in situ; ichthyosaurus citation gap flagged). "Role of the Individual" ✅ ingested 2026-07-16 (structure-agency early pole flagged). *Our Differences* ✅ ingested 2026-07-16 — **Plekhanov corpus complete (5 works, 1885–1910)**; SPW Vol. 1 PDF retained in raw/sociology/ as reference scan.
+
+---
+
 ## Notes for the next ingest cycle
 
 | Priority cluster | Why | First picks |
@@ -244,3 +266,11 @@ represents non-English scholarship and post-2020 literature. Rebalance on reques
 When a listed work is ingested: append `✅ ingested YYYY-MM-DD` and a short note
 (pages created/updated, filed path). Do not delete completed lines until a future
 full rebuild of this roadmap.
+
+
+<!-- 2026-07-16 Essential Works of Lenin: three works ingested as separate sources (dev-cap excerpts, WITBD, imperialism). -->
+
+<!-- 2026-07-16 Lenin CW Vol. 13 ingested: lenin-collected-works-vol-13-1962 -->
+<!-- 2026-07-16 Lenin CW combined file: planned program complete — landmark waves 1-2, Vol. 3 Development of Capitalism FULL, Vol. 38 Philosophical Notebooks. -->
+<!-- 2026-07-16 Lenin CW combined 45-vol file: landmark gap-fill ingested ⚠️ partial — M&E (V14), CW Vol. 24 (April Theses/1917), Left-Wing Communism (V31), Last Writings/Testament (V33/36). Remaining volumes un-ingested; file stays in raw/ root. -->
+<!-- 2026-07-16 Lenin CW wave 2 ingested ⚠️ partial: What the Friends of the People Are (V1), Impending Catastrophe (V25), CW Vol. 26 selections (insurrection/October/Constituent Assembly), Renegade Kautsky (V28), Tax in Kind + trade-union debate (V32). File stays in raw/ root. -->

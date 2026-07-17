@@ -16,8 +16,8 @@ core_claims:
 developed_from: ["critique of [[social-evolutionism]]", "German historical/geographical ethnology", "Bastian's elementary ideas (partially, critically)"]
 competes_with: ["[[social-evolutionism]]", "racial hierarchy theories", "naïve [[comparative-method]] applications"]
 status: absorbed
-sources_ingested: 7
-last_updated: 2026-07-10
+sources_ingested: 8
+last_updated: 2026-07-15
 tags: [theory, anthropology]
 ---
 
@@ -100,6 +100,10 @@ itself the substantive achievement.
 ## From Kuper, *Invention of Primitive Society* (1988)
 
 *(Attributed — Kuper 1988, Ch. 7.)* Boasian historical particularism is framed as the American theatre of a German ethnological challenge to Anglo-American evolutionism. Kuper stresses institutional confrontation (Columbia vs Smithsonian/BAE), student program (salvage + root out evolutionism), and the irony that cogent critique did not replace the [[primitive-society]] object with a durable alternative social model — leaving space for later lineage and neo-evolutionary returns. Source: [[kuper-invention-of-primitive-society-1988]].
+
+## Boas's own later restatements (1920s–1930s essays)
+
+*(Attributed — [[boas-franz|Boas]] essays collected in *[[boas-race-language-culture-1940|Race, Language and Culture]]*, 1940; each essay date-stamped to original publication, not the 1940 collection.)* Boas returned to the program's methodological core repeatedly across his career. In "The Methods of Ethnology" (1920) he distinguished the program from both nineteenth-century evolutionism and Graebner/Elliot Smith-style hyperdiffusionism, and cited the historiography of Zuni ethnography — Cushing's over-environmental determinism corrected by Elsie Clews Parsons's and [[kroeber-alfred-l|Kroeber]]'s demonstration of deep Spanish influence on Zuni culture via **[[acculturation]]** — as an exemplar of historical-particularist method against psychological/environmental reductionism. In "Evolution or Diffusion?" (1924) he argued for **convergence** — similar cultural forms arising from historically distinct sources under similar psychological/functional pressures, not identical natural environment — against Graebner's claim that only diffusion supplies an objective criterion of relatedness, warning that "all ethnic units, separated from their cultural setting, are artificial units." In "History and Science in Anthropology: A Reply" (1936), replying to [[kroeber-alfred-l|Kroeber]], Boas restated the program's core: "To understand a phenomenon we have to know not only what it is, but also how it came into being. Our problem is historical," while conceding a career shift — from an early (1895–) emphasis on acculturation and diffusion toward, from around 1910, cultural dynamics and the integration of culture. He held that rigid cultural "laws" on the model of physics were unattainable, and that "absolute systems of phenomena as complex as those of culture are impossible. They will always be reflections of our own culture" — a self-reflexive caveat on the program's own limits. See [[boas-race-language-culture-1940]] and the deep treatment of all four essays in the [[hubs/theory/historical-particularism|Theory Hub]].
 
 ### Carneiro 2003 — evolutionist counter-historiography (attributed)
 

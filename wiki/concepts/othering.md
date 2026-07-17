@@ -8,8 +8,8 @@ disciplines: [cultural-anthropology, sociology, literary-studies, philosophy]
 emic_or_etic: etic
 operationalized_as: "not quantified; identified through analysis of representational discourse"
 contested: no
-related_concepts: ["[[orientalism]]", "[[imaginative-geography]]", "[[discourse-foucauldian]]", "[[coevalness]]", "[[allochronism]]"]
-sources_ingested: 2
+related_concepts: ["[[orientalism]]", "[[imaginative-geography]]", "[[discourse-foucauldian]]", "[[coevalness]]", "[[allochronism]]", "[[anti-judaism]]", "[[judaizing]]"]
+sources_ingested: 3
 last_updated: 2026-07-15
 tags: [concept, postcolonial-studies]
 ---
@@ -36,7 +36,11 @@ but produced, and the production serves domination.
 The term "the Other" carries a long philosophical lineage (self/other dialectics). Its
 postcolonial and feminist uses — "othering" as an active, power-laden verb — consolidated
 after Said and became standard vocabulary across the interpretive social sciences and
-humanities.
+humanities. A related but distinct long tradition is [[anti-judaism]] / [[judaizing]] as
+analyzed by [[nirenberg-david|Nirenberg]] (*[[nirenberg-anti-judaism-2013|Anti-Judaism]]*,
+2013, attributed): non-Jews use figures of “the Jew” to constitute orthodoxy, reason, and
+polity — often without living Jews present — which is othering as a *habit of thought*
+rather than solely colonial representation of an empirical Orient.
 
 **Anthropology's domestic history (Fabian, postscript to *[[fabian-time-and-the-other-1983|Time and the Other]]*, attributed).** Fabian argues that in Anglo-American anthropology "other" first "sneaked up" as a vague, all-purpose designation (Beattie's *Other Cultures*, 1964 → Boon's *Other Tribes, Other Scribes*, 1982) that let the field keep talking about research topics while avoiding labels made unsavory by decolonization — "Savages, primitives, tribal peoples, and the like were disguised as others." Edmund Leach (1973) still treated the problem as one of "translation" between obstinately different parties. Only with the [[writing-culture-debate|Writing Culture]] moment did otherness become a philosophical problem rather than a cover: Clifford's claim that every version of an "other" is also the construction of a self; Marcus's footnote that the figure of the primitive/alien other had become outmoded under global homogenization. Fabian distinguishes this inflationary discourse of alterity from his own use: the epistemological other as **interlocutor** (alterity required by intersubjectivity), not generalized exotic otherness. He further separates **allochronism** (temporal distancing devices) from "creating" alterity — without alterity, no culture / no plural *Lebenswelt* — and warns against sociologizing others into strangers (*Fremderfahrung*) or reducing all otherness to Self-identity work.
 

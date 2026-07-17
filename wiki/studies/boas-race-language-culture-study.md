@@ -8,7 +8,7 @@ fieldwork_location: ["North America (Baffin Island Inuit; Pacific Northwest Coas
 fieldwork_dates: "underlying research 1887–1937 (essays); no single fieldwork campaign — self-edited career collection"
 population_studied: ["[[race]]", "US immigrant populations", "Native American peoples (via Boas's corpus)"]
 methods_used: ["[[comparative-method]] (critiqued)", "anthropometry / statistical reanalysis", "ethnography", "linguistic description", "historical reconstruction"]
-key_findings: ["Boas argued (per Seiferle-Valencia 2017) that culture, not biology, is the primary explanation of human diversity; that race, language, and culture vary independently; that no single evolutionary ladder governs cultural development; and that anthropometric 'racial types' are environmentally plastic, not fixed hereditary essences"]
+key_findings: ["Boas argued (Race, Language and Culture, 1940) that culture, not biology, is the primary explanation of human diversity; that race, language, and culture vary independently; that no single evolutionary ladder governs cultural development; and that anthropometric 'racial types' are environmentally plastic, not fixed hereditary essences"]
 concepts_introduced: ["[[historical-particularism]]", "[[cultural-relativism]]", "[[ethnocentrism]]"]
 replication_status: not-applicable
 sources_ingested: 1
@@ -18,15 +18,15 @@ tags: [study, anthropology]
 
 # Race, Language and Culture (Boas 1940) — Study Analysis
 
-> **Source page (with provenance flag):** [[boas-race-language-culture-1940]]
-> **All content below is attributed to the secondary Macat analysis** (Seiferle-Valencia
-> 2017); the primary 1940 collection was not read directly. This summary treats the
-> *research act* the collection represents; it does not reconstruct the underlying essay
-> designs at hub resolution (the Macat guide cannot support that — see Current Standing).
+> **Source page:** [[boas-race-language-culture-1940]] (primary text, ingested 2026-07-15).
+> Everything below is Boas's own argument and so is **attributed voice** by definition —
+> this is one theorist's corpus, not a convergent finding. Each claim is date-stamped to its
+> essay's original year, not to 1940. The volume's single most consequential empirical
+> component is treated at hub resolution on [[boas-changes-in-bodily-form-study]].
 
 ## Question and Context
 
-*(Attributed — Seiferle-Valencia 2017.)* The collection's organizing question is the
+*(Attributed — Boas 1940.)* The collection's organizing question is the
 central question of turn-of-the-century anthropology: **what causes the differences and
 similarities between human groups?** At the time, the dominant answer was unilinear
 cultural evolution ([[tylor-edward-burnett|Tylor]], [[morgan-lewis-henry|Morgan]],
@@ -87,11 +87,14 @@ flags that Boas's immigrant-plasticity result was itself reanalyzed and conteste
 ## Current Standing
 
 *Race, Language and Culture* is a classic reference-point text of American anthropology
-and a staple of history-of-the-discipline teaching. **A Studies-Hub (excavation-grade)
-analysis is warranted in principle but cannot be built from the present secondary source**
-— reconstructing the essay-level designs, the anthropometric statistics, and the full
-critical afterlife requires the primary 1940 collection and Stocking's *Race, Culture, and
-Evolution* (1968), both still un-ingested. Flagged, not silently skipped.
+and a staple of history-of-the-discipline teaching. **The primary 1940 collection is now
+ingested** (2026-07-15), replacing the earlier secondary-guide provenance. Because the
+volume is an anthology rather than a single research act, its excavation-grade treatment is
+distributed: the volume-level page here plus a dedicated Studies-Hub analysis of its single
+most consequential empirical component, the [[boas-changes-in-bodily-form-study|immigrant
+head-form plasticity study]] (with [[hubs/studies/boas-changes-in-bodily-form-study|its hub
+page]]). The method essays feed the [[hubs/theory/historical-particularism|historical-
+particularism theory hub]] and the [[boas-franz]] thinker hub.
 
 ## Links
 

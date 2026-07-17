@@ -49,6 +49,10 @@ and Nietzsche (Excursus II) as the honest exposure of formalized reason; the
 [[culture-industry]] as enlightenment become mass deception; and anti-Semitism
 (via [[false-projection]]) as "the limits of enlightenment."
 
+### Cross-link — Nirenberg’s epilogue (attributed)
+
+[[nirenberg-david|Nirenberg]] (*[[nirenberg-anti-judaism-2013|Anti-Judaism]]*, 2013) contrasts prewar Horkheimer/Adorno (Jews’ participation in circulation as cause of hatred) with the postwar *Dialectic of Enlightenment* shift: genocidal anti-Semitism’s power exceeds any “real,” and the gap is the **absence of reflection** — a project he adopts for encouraging reflection on how deploying concepts might generate pathological fantasies of Judaism. Companion pages: [[anti-judaism]], [[antisemitism]], [[false-projection]].
+
 ## Semantic History
 
 The phrase names both the book and its thesis. The authors insist the terms myth

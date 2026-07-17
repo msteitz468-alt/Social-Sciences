@@ -24,18 +24,19 @@ Landmark U.S. urban ethnography of Nuyorican crack dealers in East Harlem (El Ba
 
 ## Section Plan
 
-| Section | Chapters | Lines (cache) | Discipline | Era/Period | Key Topics |
-|---|---|---|---|---|---|
-| Pref 2003 + Intro | Pref, Intro | 503–1385 | anthropology / method | 1985–2002 | Crack/heroin trends; underground economy; street culture; methods & representation; culture-of-poverty critique; political economy |
-| Ch 1 | Violating Apartheid | 1386–2551 | urban ethnography | 1985–90s | Access; race/class/police; culture of terror; Game Room entry; African American–Puerto Rican street relations |
-| Ch 2 | Street History of El Barrio | 2552–3670 | historical ethnography | early-modern→modern | Jíbaro→Hispanic dealer; immigrant maelstroms; poverty/ecology; speakeasy→crackhouse; Mafia legacies |
-| Ch 3 | Crackhouse Management | 3671–5118 | economic anthropology | 1980s–90s | Addiction, discipline, dignity; Ray’s network; minimum-wage dealers; management–labor conflict |
-| Ch 4 | Goin’ Legit | 5119–7607 | labor / political economy | 1980s–90s | Legal work humiliation; cultural capital; office “disses”; weapons of the weak; union racism |
-| Ch 5 | School Days | 7608–9276 | education / culture | childhood→adolescence of dealers | School failure; family/institutional violence; street skills; cultural capital |
-| Ch 6 | Gender Line | 9277–11270 | gender / violence | 1980s–90s | Masculinity; sexual conquest; gang rape accounts; redrawing gender power |
-| Ch 7–8 | Families / Vulnerable Fathers | 11271–13728 | kinship / gender | 1980s–90s | Children in pain; child abuse; fatherhood under exclusion |
-| Ch 9 + Epilogues | Conclusion + Epilogue + Epilogue 2003 | 13729–14977 | synthesis | 1994 / 2002 | Theoretical wrap; life updates; policy/incarceration aftermath |
-| Apparatus | Notes–Index | 14978–18883 | method / sources | — | Notes, bibliography, index |
+| Section           | Chapters                              | Key Topics                                                                                                                         | Era/Period                       | Lines (cache) | Discipline                |
+| ----------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------- | ------------------------- |
+| Pref 2003 + Intro | Pref, Intro                           | Crack/heroin trends; underground economy; street culture; methods & representation; culture-of-poverty critique; political economy | 1985–2002                        | 503–1385      | anthropology / method     |
+| Ch 1              | Violating Apartheid                   | Access; race/class/police; culture of terror; Game Room entry; African American–Puerto Rican street relations                      | 1985–90s                         | 1386–2551     | urban ethnography         |
+| Ch 2              | Street History of El Barrio           | Jíbaro→Hispanic dealer; immigrant maelstroms; poverty/ecology; speakeasy→crackhouse; Mafia legacies                                | early-modern→modern              | 2552–3670     | historical ethnography    |
+| Ch 3              | Crackhouse Management                 | Addiction, discipline, dignity; Ray’s network; minimum-wage dealers; management–labor conflict                                     | 1980s–90s                        | 3671–5118     | economic anthropology     |
+| Ch 4              | Goin’ Legit                           | Legal work humiliation; cultural capital; office “disses”; weapons of the weak; union racism                                       | 1980s–90s                        | 5119–7607     | labor / political economy |
+| Ch 5              | School Days                           | School failure; family/institutional violence; street skills; cultural capital                                                     | childhood→adolescence of dealers | 7608–9276     | education / culture       |
+| Ch 6              | Gender Line                           | Masculinity; sexual conquest; gang rape accounts; redrawing gender power                                                           | 1980s–90s                        | 9277–11270    | gender / violence         |
+| Ch 7–8            | Families / Vulnerable Fathers         | Children in pain; child abuse; fatherhood under exclusion                                                                          | 1980s–90s                        | 11271–13728   | kinship / gender          |
+| Ch 9 + Epilogues  | Conclusion + Epilogue + Epilogue 2003 | Theoretical wrap; life updates; policy/incarceration aftermath                                                                     | 1994 / 2002                      | 13729–14977   | synthesis                 |
+| Apparatus         | Notes–Index                           | Notes, bibliography, index                                                                                                         | —                                | 14978–18883   | method / sources          |
+|                   |                                       |                                                                                                                                    |                                  |               |                           |
 
 ## Intake Notes
 

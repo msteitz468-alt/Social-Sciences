@@ -1,9 +1,53 @@
+### Stalin — *Dialectical and Historical Materialism* (1938; 1975 Calcutta reprint of 1950 FLPH Eng.) ✅ 2026-07-16
+- **Source:** [[stalin-dialectical-and-historical-materialism-1938]] (pdftotext ~12k words / 44 pp; doctrinal codification, main-thread single-pass). **4 created + 4 updated.** No studies/ or hub.
+- **New:** [[stalin-joseph]] · [[dialectical-materialism]] · [[base-and-superstructure]] · source page
+- **Densified:** [[historical-materialism]] (Stalinist-codification section; full 1859 *Preface* now on wiki) · [[mode-of-production]] (five-stage schema) · [[lenin-vladimir]] (MEC canonization)
+- **Load-bearing (all attributed):** 4 dialectical features + 3 materialist features with political corollaries; geography/population negative determinations; five-stage sequence of relations of production; spontaneous forces vs conscious revolutionary transition.
+- **Filed:** `raw/sociology/` (pdf + txt).
+
+### Mao — *Quotations from Chairman Mao Tse-tung* (Little Red Book; FLP English / Lin Biao 2nd-ed. foreword 1966) ✅ 2026-07-16
+- **Source:** [[mao-quotations-from-chairman-mao-1966]] (epub→txt ~44.5k words; **polemic/artifact mode**, main-thread extract). **7 created + 8 updated.** Catechism (no studies/ hub).
+- **New:** [[mao-zedong]] · [[maoism]] · [[mass-line]] · [[contradictions-among-the-people]] · [[peoples-war]] · [[class-struggle-under-socialism-debate]] · source page
+- **Densified:** [[class-struggle]] · [[historical-materialism]] · [[dialectical-materialism]] · [[vanguard-party]] · [[ideology]] · [[peasantry-as-class]] · [[stalin-joseph]] · [[lenin-vladimir]]
+- **Load-bearing (all attributed):** continuing class/ideological struggle under socialism; mass line spiral; antagonistic vs non-antagonistic contradictions; people's war / paper tigers; practice epistemology; Lin Biao cult framing as historical position.
+- **Filed:** `raw/sociology/` (epub + txt).
+
+### Marx — *Capital, Volume 3* (1894, ed. Engels; Penguin/Fernbach 1981) ✅ 2026-07-16 — + Marx Thinkers Hub
+- **Source:** [[marx-capital-volume-3-1894]] (pdftotext ~440k words; **12-agent** extraction, inventory **12/12** ~1,466 claim lines). **8 created + 10 updated.** Theoretical work (no studies/ page).
+- **New:** [[price-of-production]] · [[transformation-problem-debate]] · [[tendential-fall-in-the-rate-of-profit]] · [[fictitious-capital]] · [[merchant-capital]] · [[ground-rent]] · [[trinity-formula]] · source page · **[[hubs/thinkers/marx-karl|Marx Thinkers Hub]]**
+- **Densified:** [[marx-karl]] · [[engels-friedrich]] (Vol 3 editing + 1895 Supplement) · [[surplus-value]] · [[organic-composition-of-capital]] · [[labor-theory-of-value]] · [[commodity-fetishism]] · [[historical-materialism]] · Capital I/II source pages
+
+### Marx — *Capital, Volume 2* (1885, ed. Engels; Penguin/Fernbach 1978) ✅ 2026-07-16
+- **Source:** [[marx-capital-volume-2-1885]] (pdftotext ~261k words; **8-agent** chapter-aligned extraction, inventory **8/8** ~949 claim lines). **6 created + 10 updated.** Theoretical work (no studies/ page).
+- **New:** [[reproduction-schemas]] · [[reproduction-schemas-debate]] · [[circuit-of-capital]] · [[turnover-of-capital]] · [[fixed-and-circulating-capital]] · [[quesnay-francois]] · source page
+- **Densified:** [[marx-karl]] · [[engels-friedrich]] (as editor; F.E. footnotes) · [[luxemburg-rosa]] · [[surplus-value]] · [[constant-and-variable-capital]] · [[labor-theory-of-value]] · [[marx-capital-volume-1-1867]] · [[marx-capital-volume-1-study]]
+
+### Lenin — *The State and Revolution* (1917/1918) ✅ 2026-07-16
+- **Source:** [[lenin-state-and-revolution-1917]] (Haymarket 2014 / Chretien annotated; pdftotext ~66.4k words / 210 pp; **4-agent** content-weighted extraction, inventory **4/4** ~296 claims). **6 created + 10 updated.** Theoretical–political pamphlet (not a study).
+- **New:** [[lenin-vladimir]] · [[dictatorship-of-the-proletariat]] · [[smash-the-state-machine]] · [[marxist-theory-of-the-state]] · [[smash-or-capture-the-state-debate]] · source page
+- **Densified:** [[withering-away-of-the-state]] · [[the-state]] · [[engels-friedrich]] · [[marx-karl]] · [[historical-materialism]] · [[political-sociology]] · [[relative-autonomy-of-the-state]] · [[social-revolution]] · [[marx-eighteenth-brumaire-study]]
+- **Load-bearing (all attributed):** irreconcilability of class antagonisms; special bodies of armed men; smash not capture; DoP / Commune form; withering of *proletarian* state only; dual formula abolish/wither; Kautsky/opportunism polemic; unfinished Ch.7 + Oct 1917 postscript.
+- **Hubs:** Thinkers Hub deferred (single pamphlet). No studies/ page.
+- **Validators:** scoped check 0/0/0; 0 NEW broken links from this ingest (concurrent Capital II noise on other pages).
+
+### Wistrich — *A Lethal Obsession* (2010) ✅ 2026-07-15
+- **Source:** [[wistrich-lethal-obsession-2010]] (epub→pandoc ~367k words, all 25 ch. + epilogue; **11-agent** chapter-aligned, one wave, 11/11 complete, 0 filter blocks). **5 created + 5 updated.**
+- **New:** [[wistrich-robert]] · [[new-antisemitism]] · [[new-antisemitism-debate]] · [[holocaust-denial]] · source page
+- **Densified:** [[antisemitism]] · [[protocols-of-the-elders-of-zion]] (post-1945 afterlife) · [[jewish-world-conspiracy-myth]] · [[blood-libel]] (Muslim-world migration; concurrent Dinnerstein page) · [[cohn-norman]]
+- **Load-bearing (all attributed):** continuity/mutation thesis quarantined as Position 1 of [[new-antisemitism-debate]]; Holocaust-denial encyclopedic record (deniers, IHR, state sponsorship, Gayssot/Irving law cases); Protocols' Arab/Soviet/Iranian career; Hamas Charter art. 32; "Eurabia" and epilogue Armageddon warning flagged as [THESIS], not imported.
+
 ### Cunliffe — *Facing the Ocean* (2001) ✅ 2026-07-15
 - **Source:** [[cunliffe-facing-the-ocean-2001]] (pdftotext ~221k words; **10-agent** chapter-aligned + Ch.9-tail main-thread recovery; **~363 claims**). **9 created (incl. hub) + ~30 updated.** Braudelian synthesis of the Atlantic façade, 8000 BCE–1500 CE.
 - **New:** [[atlantic-facade]] · [[atlantic-bronze-age]] · [[castro-culture]] · [[tartessos]] · [[phoenician-expansion]] · [[medieval-atlantic-trade]] · [[braudel-fernand]] · Thinkers Hub [[hubs/thinkers/cunliffe-barry|cunliffe-barry]]
 - **Densified:** [[celticity-debate]] (2001 "Atlantic Celtic" origin) · [[celtic-languages]] · [[megalith]] · [[passage-grave]] · [[mesolithic]] · [[coastal-adaptation]] · [[bell-beaker-culture]] · [[prestige-goods-economy]] · [[hallstatt-culture]] · [[roman-britain]] · [[viking-age-britain]] · [[longue-duree]] · [[annales-school]] · [[world-systems-analysis]] · [[core-periphery]] · [[cunliffe-barry]]
 - **Load-bearing (all attributed):** oceanic mentality / "the sea joined and the land divided"; three-cycle Atlantic model; two core zones (Gibraltar, Channel); Roman Atlantic negligible; pre-aDNA indigenism date-stamped
 
+
+### Cohn — *Warrant for Genocide* (1967) ✅ 2026-07-15
+- **Source:** [[cohn-warrant-for-genocide-1967]] (DJVU OCR ~104k words; **5-agent** chapter-weighted; **~273 claims**). **6 created + 4 updated.**
+- **New:** [[cohn-norman]] · [[cohn-warrant-for-genocide-study]] · [[protocols-of-the-elders-of-zion]] · [[jewish-world-conspiracy-myth]] · [[antisemitism]]
+- **Densified:** [[genocide]] · [[holocaust-and-modernity-debate]] (Position 6: myth-warrant) · [[millenarianism]] · [[scientific-racism]]
+- **Load-bearing (all attributed):** quasi-demonological [[jewish-world-conspiracy-myth]]; Joly plagiarism; Russian/White/Nazi career of the *Protocols*; crisis + *völkisch* fusion as warrant for genocide
 ### Mallory — *In Search of the Indo-Europeans* (1989/1991 pb) ✅ 2026-07-15
 - **Source:** [[mallory-in-search-of-the-indo-europeans-1989]] (pdftotext ~132.5k words; **7-agent** + Ch.9 main-thread; **462 claims**). **3 created + 12 updated.** Landmark English survey of steppe/Pontic-Caspian IE origins.
 - **New:** [[mallory-j-p]] · [[tripartition]]
@@ -1767,6 +1811,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[social-realism]]
 - [[institutional-economics]]
 - [[historical-materialism]]
+- [[dialectical-materialism]] — Soviet codification (Stalin 1938)
 - [[structural-marxism]] — dual charter *For Marx* + *Reading Capital* (1965); Hub: [[hubs/theory/structural-marxism]]
 - [[western-marxism]]
 - [[social-evolutionism]] · [[historical-particularism]]
@@ -1829,6 +1874,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[postcolonialism]] · [[post-development]] · Hub: [[hubs/theory/post-development]]
 
 ### Thinkers
+- [[avrich-paul|Paul Avrich]]
 - [[smith-laurajane|Laurajane Smith]] — critical heritage studies; AHD
 - [[gilchrist-roberta|Roberta Gilchrist]] — gender archaeology synthesis (1999)
 - [[algaze-guillermo|Guillermo Algaze]] — Uruk world system / informal empire; supraregional state formation
@@ -1906,6 +1952,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[mauss-marcel|Marcel Mauss]]
 - [[needham-rodney|Rodney Needham]]
 - [[veblen-thorstein|Thorstein Veblen]]
+- [[lenin-vladimir|Vladimir Ilyich Lenin]]
 - [[marx-karl|Karl Marx]]
 - [[engels-friedrich|Friedrich Engels]]
 - [[morgan-lewis-henry|Lewis Henry Morgan]]
@@ -1935,7 +1982,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[berger-peter-l|Peter L. Berger]]
 - [[luckmann-thomas|Thomas Luckmann]]
 - [[schutz-alfred|Alfred Schutz]]
-- [[mills-c-wright|C. Wright Mills]]
+- [[mawdsley-evan|Evan Mawdsley]] · [[white-stephen|Stephen White]] · [[daniels-robert-v|Robert V. Daniels]] · [[djilas-milovan|Milovan Djilas]] · [[voslensky-michael|Michael Voslensky]] · [[mills-c-wright|C. Wright Mills]]
 - [[marcuse-herbert|Herbert Marcuse]]
 - [[goffman-erving|Erving Goffman]]
 - [[hochschild-arlie-russell|Arlie Russell Hochschild]]
@@ -1980,10 +2027,13 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[coleman-james|James S. Coleman]]
 
 ### Methods
+
+- [[collective-biography]]
 - [[site-catchment-analysis|Site Catchment Analysis]] — Vita-Finzi/Higgs lineage; Formative Mesoamerica ops (EMV 1976)
 - [[path-analysis]] · [[multiple-classification-analysis]] · [[socioeconomic-index]] (Duncan SEI; also filed under Concepts)
 - [[life-history-method]]
 - [[children-of-immigrants-longitudinal-study]]
+- [[anthropometry|Anthropometry]] — craniometry/cephalic index; typological vs populational; Boas's plasticity turn
 - [[personal-documents-method]]
 - [[positive-method]]
 - [[linear-system-of-action]]
@@ -2014,6 +2064,8 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[secondary-analysis]]
 
 ### Studies
+- [[avrich-kronstadt-study|Kronstadt 1921 (Avrich study)]]
+- [[boas-changes-in-bodily-form-study|Changes in Bodily Form of Descendants of Immigrants (Boas 1910–1912)]] — immigrant head-form plasticity; reanalyzed-contested (Sparks & Jantz 2002 / Gravlee 2003)
 - [[algaze-uruk-expansion-study|The Uruk World System (Algaze, study)]] — the earliest world-system argument as research act
 - [[flannery-early-mesoamerican-village-study|The Early Mesoamerican Village (study)]] — multi-scalar program; hub [[hubs/studies/flannery-early-mesoamerican-village-study]]
 - [[levi-strauss-miel-aux-cendres-study|Du miel aux cendres (Lévi-Strauss, Mythologiques II)]]
@@ -2059,6 +2111,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[lynd-middletown-study|Middletown (as a study)]]
 - [[mills-white-collar-study|White Collar (as a study)]]
 - [[mills-power-elite-study|The Power Elite (as a study)]]
+- [[mawdsley-white-soviet-elite-study|The Soviet Elite from Lenin to Gorbachev (Mawdsley & White, as a study)]] · [[hubs/studies/mawdsley-white-soviet-elite-study|Hub]]
 - [[merton-social-structure-and-anomie-study|Social Structure and Anomie (as a study)]]
 - [[lipset-political-man-study|Political Man (as a study)]]
 - [[massey-denton-american-apartheid-study|American Apartheid (as a study)]]
@@ -2077,6 +2130,9 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[garfinkel-agnes-study|Agnes case (Garfinkel, 1967)]]
 
 ### Concepts
+- [[war-communism|War Communism]]
+- [[militarization-of-labour|Militarization of Labour]] — Trotsky 1920 labour-state programme
+- [[red-terror|Red Terror]] — Trotsky 1920 civil-war defence
 - [[authorized-heritage-discourse|Authorized Heritage Discourse (AHD)]] · [[dissonant-heritage|Dissonant heritage]] · [[intangible-heritage|Intangible heritage]]
 
 - [[sapient-paradox]] · [[material-engagement]] · [[external-symbolic-storage]] (Renfrew 2003 densify)
@@ -2264,7 +2320,7 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - Gouldner / reflexive sociology: [[domain-assumptions]] · [[theoretical-infrastructure]] · [[methodological-dualism]]
 - Parsons / structural-functionalism: [[pattern-variables]] · [[social-system]] · [[value-orientation]] · [[need-disposition]] · [[social-role]] · [[functional-prerequisites]] · [[social-equilibrium]] · [[socialization]] · [[deviance]] · [[social-control]] · [[expressive-symbols]] · [[sick-role]] · [[ideology]]
 - Mannheim / classical sociology of knowledge: [[ideology]] · [[utopia]] · [[relationism]] · [[free-floating-intelligentsia]] · [[false-consciousness]]
-- Mills: [[white-collar]] · [[new-middle-class]] · [[old-middle-class]] · [[status-panic]] · [[personality-market]] · [[cheerful-robot]] · [[the-big-split]] · [[craftsmanship]] · [[mass-society]] · [[managerial-demiurge]] · [[political-indifference]] · [[alienation]] · [[power-elite]] · [[higher-circles]] · [[middle-levels-of-power]] · [[theory-of-balance]] · [[military-ascendancy]] · [[organized-irresponsibility]] · [[higher-immorality]] · [[sociological-imagination]] · [[personal-troubles-and-public-issues]] · [[grand-theory]] · [[abstracted-empiricism]]
+- Mills: [[white-collar]] · [[new-middle-class]] · [[old-middle-class]] · [[status-panic]] · [[personality-market]] · [[cheerful-robot]] · [[the-big-split]] · [[craftsmanship]] · [[mass-society]] · [[managerial-demiurge]] · [[political-indifference]] · [[alienation]] · [[power-elite]] · [[nomenklatura]] · [[job-slot-system]] · [[circular-flow-of-power]] · [[new-class]] · [[democratic-centralism]] · [[higher-circles]] · [[middle-levels-of-power]] · [[theory-of-balance]] · [[military-ascendancy]] · [[organized-irresponsibility]] · [[higher-immorality]] · [[sociological-imagination]] · [[personal-troubles-and-public-issues]] · [[grand-theory]] · [[abstracted-empiricism]]
 - Lipset / political sociology: [[working-class-authoritarianism]] · [[legitimacy-and-effectiveness]] · [[cross-pressures]] · [[democratic-class-struggle]] · [[economic-development-and-democracy]] · [[end-of-ideology]]
 - Blau / social-exchange theory: [[social-exchange]] · [[social-attraction]] · [[social-approval]] · [[differentiation-of-power]] · [[unilateral-dependence]] · [[imbalance-of-exchange]] · [[gift-exchange]] · [[diminishing-marginal-utility]] · [[fair-exchange]] · [[mediating-values]] · [[indirect-exchange]] · [[opposition]] · [[cross-cutting-conflicts]] · [[dialectic-of-social-change]] · [[macrostructure-and-substructure]] · [[intergroup-mobility]]
 - Polanyi / economic sociology: [[embeddedness]] · [[forms-of-integration]] · [[self-regulating-market]] · [[fictitious-commodities]] · [[double-movement]] · [[economic-liberalism]] · [[speenhamland]] · [[hundred-years-peace]] · [[fascism-and-market-society]] · [[freedom-in-a-complex-society]]
@@ -2296,6 +2352,8 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - Tilly / durable inequality: [[categorical-inequality]] · [[categorical-pairs]] · [[exploitation]] · [[opportunity-hoarding]] · [[organizational-emulation]] · [[organizational-adaptation]] · [[interior-exterior-categories]]
 
 ### Debates
+- [[kronstadt-debate|Kronstadt Debate]] — White plot vs free soviets vs Avrich synthesis
+- [[nature-nurture-debate|Nature–Nurture Debate]] — heredity vs environment; Boas immigrant study at its origin; open
 - [[uruk-world-system-debate|Was the Uruk Expansion a World System? (Algaze vs. Stein/Frangipane)]]
 - [[unthinkable-haitian-revolution-debate|Unthinkable Haitian Revolution Debate]]
 - [[saving-muslim-women-debate|The 'Saving Muslim Women' debate]] (Abu-Lughod vs. rescue feminism vs. Islamic feminism)
@@ -2409,6 +2467,8 @@ Master catalog of all wiki pages. Updated after every ingest session.
 - [[olorgesailie]] · [[varna]] · [[salk-institute]] (other vault sites)
 
 ### Institutions
+
+- [[soviet-central-committee|Soviet Central Committee (CPSU)]]
 - [[indirect-rule]] (British colonial Native Administration; Asad ed. 1973)
 - [[court-society]]
 - [[family]] (Comte; Spencer; Engels/Morgan; Middletown; Polish peasant; Hochschild second shift)
@@ -2539,6 +2599,102 @@ Second *Mythologiques* volume: honey infra-culinary / tobacco meta-culinary; tra
 - Methods updated: [[landscape-archaeology]] · [[cultural-resource-management]] · [[ethnoarchaeology]] · [[irrigation]]
 
 ## Sources
+- [[avrich-kronstadt-1921|Kronstadt 1921 (Avrich, 1970)]] — independent history of the March 1921 rising
+- [[kautsky-terrorism-and-communism-1919|Terrorism and Communism (Kautsky, 1919)]] — natural history of terror; Commune vs Soviet; democracy and humanity
+- [[trotsky-terrorism-and-communism-1920|Terrorism and Communism (Trotsky, 1920)]] — reply to Kautsky; Red Terror & labour militarization
+- [[service-lenin-2000]] — Service, *Lenin: A Biography* (2000); feeds [[lenin-vladimir]], [[hubs/thinkers/lenin-vladimir]], [[krupskaya-nadezhda]]
+- [[service-trotsky-2009]] — Service, *Trotsky: A Biography* (2009); feeds [[trotsky-leon]], [[permanent-revolution]], [[russian-question-debate]]
+
+### Lenin CW Vol. 13 (2026-07-16)
+- [[lenin-collected-works-vol-13-1962|Collected Works Vol. 13 (1907–08)]]
+- Concepts: [[boycott-tactic]], [[trade-union-neutrality]], [[land-nationalisation]], [[municipalisation]], [[absolute-rent]]
+- Debate: [[nationalisation-vs-municipalisation-debate]]
+
+
+### Lenin CW landmark gap-fill (2026-07-16)
+- [[lenin-materialism-and-empirio-criticism-1909|Materialism and Empirio-criticism (1909)]] · [[lenin-collected-works-vol-24-1964|CW Vol. 24 (April–June 1917)]] · [[lenin-left-wing-communism-1920|"Left-Wing" Communism (1920)]] · [[lenin-last-writings-1923|Last Writings 1922–23 (Testament)]]
+- Concepts: [[dual-power]], [[reflection-theory]], [[new-economic-policy]]
+- Debate: [[empirio-criticism-debate]]
+- Thinkers: [[plekhanov-georgi]], [[kautsky-karl]], [[bogdanov-alexander]]
+- Major updates: [[lenin-vladimir]], [[stalin-joseph]], [[trotsky-leon]], state/party/theory concept clusters
+
+
+### Lenin CW wave 2 (2026-07-16)
+- [[lenin-what-the-friends-of-the-people-are-1894|What the "Friends of the People" Are (1894)]] · [[lenin-impending-catastrophe-1917|The Impending Catastrophe (1917)]] · [[lenin-collected-works-vol-26-1964|CW Vol. 26 selections (Oct 1917–Jan 1918)]] · [[lenin-proletarian-revolution-renegade-kautsky-1918|Renegade Kautsky (1918)]] · [[lenin-tax-in-kind-1921|Tax in Kind + trade-union debate (1921)]]
+- Concept: [[state-capitalism]]
+- Debate: [[soviet-trade-union-debate]]
+- Major updates: [[lenin-vladimir]], [[kautsky-karl]], [[trotsky-leon]], [[plekhanov-georgi]], [[historical-materialism]], [[new-economic-policy]], [[dual-power]], state/party/theory clusters
+
+
+### Kautsky counter-source (2026-07-16)
+- [[kautsky-dictatorship-of-the-proletariat-1918|The Dictatorship of the Proletariat (1918)]] — first non-Lenin primary source on the 1918 split; John H. Kautsky 1964 intro as secondary scholarship
+- Re-balanced: [[kautsky-karl]], [[smash-or-capture-the-state-debate]], [[dictatorship-of-the-proletariat]], [[marx-karl]], [[peasantry-as-class]]
+
+### Kollontai counter-source (2026-07-16)
+- [[kollontai-workers-opposition-1921|The Workers' Opposition (1921)]] · thinker [[kollontai-alexandra]]
+- Re-balanced: [[soviet-trade-union-debate]] (3 of 4 positions now primary-sourced), [[bureaucracy]], [[vanguard-party]], [[trade-union-consciousness]]
+
+### Bogdanov counter-source (2026-07-16)
+- [[bogdanov-essays-in-tektology-1980|Essays in Tektology (Gorelik trans.)]] · theory [[tektology]]
+- [[bogdanov-tektology-book1-1996|Bogdanov's Tektology, Book 1 (Dudley/Hull 1996)]] · densify of [[tektology]] + [[bogdanov-alexander]]
+- Re-balanced: [[bogdanov-alexander]] (de-Leninized), [[empirio-criticism-debate]], [[dialectical-materialism]], [[labor-theory-of-value]], [[social-systems-theory]]
+
+### Empiriomonism — counter-source program complete (2026-07-16)
+- [[bogdanov-empiriomonism-1906|Empiriomonism, Books 1–3 (Rowley trans. 2020)]] — the text Lenin attacked, now primary
+- Re-balanced: [[empirio-criticism-debate]] (both principals primary-sourced), [[bogdanov-alexander]] (autobiography, Bazarov memorial, death sourced), [[reflection-theory]], [[plekhanov-georgi]], [[tektology]], [[historical-materialism]]
+
+### Plekhanov primary (2026-07-16)
+- [[plekhanov-monist-view-of-history-1895|The Development of the Monist View of History (1895)]] — the founding text of Russian Marxism, "dialectical materialism" named
+- Re-balanced: [[plekhanov-georgi]] (primary-sourced), [[dialectical-materialism]], [[historical-materialism]], [[base-and-superstructure]]
+
+### Plekhanov, Fundamental Problems (2026-07-16)
+- [[plekhanov-fundamental-problems-of-marxism-1908|Fundamental Problems of Marxism (1908)]] — Spinozism thesis, five-term formula; Riazanov 1928 apparatus as drift stratum
+- Updated: [[plekhanov-georgi]], [[dialectical-materialism]], [[base-and-superstructure]], [[empirio-criticism-debate]]
+
+### Plekhanov, Materialismus Militans (2026-07-16)
+- [[plekhanov-materialismus-militans-1908|Materialismus Militans (1908–10)]] — the debate's last missing principal; hieroglyph divergence dual-documented
+- Updated: [[empirio-criticism-debate]], [[plekhanov-georgi]], [[reflection-theory]]
+
+### Plekhanov, Feuerbach notes (2026-07-16)
+- [[plekhanov-notes-on-ludwig-feuerbach-1892|Notes to Engels's Ludwig Feuerbach (1892/1905)]] — the hieroglyph original in situ
+- Updated: [[reflection-theory]], [[plekhanov-georgi]], [[lenin-materialism-and-empirio-criticism-1909]]
+
+### Plekhanov, Role of the Individual (2026-07-16)
+- [[plekhanov-role-of-the-individual-1898|On the Role of the Individual in History (1898)]] — structure/agency early pole
+- Updated: [[historical-materialism]], [[plekhanov-georgi]]
+
+### Plekhanov, Our Differences — corpus complete (2026-07-16)
+- [[plekhanov-our-differences-1885|Our Differences (1885)]] — the founding document; "Peruvian despotism" warning; smash-or-capture position 0
+- Updated: [[smash-or-capture-the-state-debate]], [[peasantry-as-class]], [[plekhanov-georgi]] (5 works, 1885–1910)
+
+### Lenin — The Development of Capitalism in Russia, CW Vol. 3 full text (2026-07-16)
+- Source upgraded excerpts→full: [[lenin-development-of-capitalism-in-russia-1899]]
+- Created: [[danielson-nikolai]], [[struve-pyotr]]
+- Updated: [[peasantry-as-class]] (full differentiation schema), [[mode-of-production]] (home-market theory; three stages), [[surplus-value]] (realization controversy), [[labor-theory-of-value]], [[lenin-vladimir]], [[lenin-what-the-friends-of-the-people-are-1894]]
+
+### Lenin — Philosophical Notebooks, CW Vol. 38 (2026-07-16)
+- Created: [[lenin-philosophical-notebooks-1933]]
+- Updated: [[reflection-theory]] (1914–15 stratum), [[dialectical-materialism]] (16 elements; On the Question of Dialectics), [[empirio-criticism-debate]], [[plekhanov-georgi]] (Lenin's private verdicts), [[plekhanov-fundamental-problems-of-marxism-1908]], [[lenin-vladimir]], [[lenin-materialism-and-empirio-criticism-1909]], [[marx-karl]]
+
+
+### Lenin primary works (Essential Works triple ingest, 2026-07-16)
+- [[lenin-development-of-capitalism-in-russia-1899|Development of Capitalism in Russia (1899 excerpts)]]
+- [[lenin-what-is-to-be-done-1902|What Is to Be Done? (1902)]]
+- [[lenin-imperialism-1917|Imperialism (1917)]]
+- Concepts: [[economism]], [[trade-union-consciousness]], [[consciousness-from-without]], [[professional-revolutionary]], [[vanguard-party]], [[finance-capital]]
+- Theory: [[lenin-theory-of-imperialism]]
+- Debate: [[spontaneity-vs-consciousness-debate]]
+- Thinker update: [[lenin-vladimir]]
+
+
+### Nirenberg, *Anti-Judaism* (2013) — 2026-07-15
+- Source: [[nirenberg-anti-judaism-2013]]
+- Thinker: [[nirenberg-david]]
+- Concepts: [[anti-judaism]], [[judaizing]], [[jewish-question]]
+- Debate: [[anti-judaism-continuity-debate]]
+- Updated: [[antisemitism]], [[holocaust-and-modernity-debate]], [[marx-karl]], [[dialectic-of-enlightenment]], [[othering]], [[cohn-norman]], [[cohn-warrant-for-genocide-study]], [[jewish-world-conspiracy-myth]]
+
+
 - [[smith-uses-of-heritage-2006|Smith — Uses of Heritage (2006)]] — AHD; critical heritage studies charter
 - [[gilchrist-gender-and-archaeology-1999|Gilchrist — Gender and Archaeology (1999)]] — post-charter gender archaeology synthesis + contested-garden castle case
 - [[leone-critical-historical-archaeology-2010|Leone — Critical Historical Archaeology (2010)]] — critical HA career retrospective; Annapolis / ideology program
@@ -2665,6 +2821,7 @@ Second *Mythologiques* volume: honey infra-culinary / tobacco meta-culinary; tra
 - [[mills-white-collar-1951|White Collar: The American Middle Classes (Mills, 1951)]]
 
 - [[mills-power-elite-1956|The Power Elite (Mills, 1956)]]
+- [[mawdsley-white-soviet-elite-2000|The Soviet Elite from Lenin to Gorbachev (Mawdsley & White, 2000)]]
 - [[mills-sociological-imagination-1959|The Sociological Imagination (Mills, 1959)]]
 - [[thomas-znaniecki-polish-peasant-1918|Thomas & Znaniecki, The Polish Peasant (1918 Vol I)]]
 - [[comte-positive-philosophy-martineau-1853|The Positive Philosophy of Auguste Comte (Martineau, 1853)]]
@@ -2678,6 +2835,8 @@ Second *Mythologiques* volume: honey infra-culinary / tobacco meta-culinary; tra
 - [[marx-engels-communist-manifesto-1848|The Communist Manifesto (Marx & Engels, 1848)]]
 - [[marx-capital-volume-1-1867|Capital, Volume I (Marx, 1867)]]
 - [[marx-eighteenth-brumaire-1852|The Eighteenth Brumaire of Louis Bonaparte (Marx, 1852)]]
+- [[lenin-state-and-revolution-1917|The State and Revolution (Lenin, 1917/1918)]]
+- [[stalin-dialectical-and-historical-materialism-1938|Dialectical and Historical Materialism (Stalin, 1938)]]
 - [[martineau-how-to-observe-1838|How to Observe Morals and Manners (Martineau, 1838)]]
 - [[spencer-principles-of-sociology-andreski-1969|Principles of Sociology (Spencer; Andreski abridgement, 1969)]]
 - [[simmel-philosophy-of-money-1900|The Philosophy of Money (Simmel, 1900)]]
@@ -3513,6 +3672,15 @@ Collected statement of the multi-sited ethnography program (1989–1997 essays):
 ## Index additions — Taussig *Shamanism* ingest (2026-07-15)
 
 ### Sources
+
+### Nirenberg, *Anti-Judaism* (2013) — 2026-07-15
+- Source: [[nirenberg-anti-judaism-2013]]
+- Thinker: [[nirenberg-david]]
+- Concepts: [[anti-judaism]], [[judaizing]], [[jewish-question]]
+- Debate: [[anti-judaism-continuity-debate]]
+- Updated: [[antisemitism]], [[holocaust-and-modernity-debate]], [[marx-karl]], [[dialectic-of-enlightenment]], [[othering]], [[cohn-norman]], [[cohn-warrant-for-genocide-study]], [[jewish-world-conspiracy-myth]]
+
+
 - [[taussig-shamanism-colonialism-wild-man-1987|Taussig — Shamanism, Colonialism, and the Wild Man (1987)]]
 
 ### Studies
@@ -3647,4 +3815,28 @@ Collected statement of the multi-sited ethnography program (1989–1997 essays):
 - [[insoll-gao-region-study|Insoll Gao Region study]]
 - [[gao-ancien|Gao Ancien]]
 - [[gao-saney|Gao-Saney]]
+
+- source: [[sources/dinnerstein-antisemitism-in-america-1994]] (Dinnerstein, 1994) — first comprehensive survey of American antisemitism; study/society/debate cluster
+
+## Carr 1979 ingest (2026-07-16)
+
+### Sources
+- [[carr-russian-revolution-lenin-stalin-1979|Carr — The Russian Revolution: From Lenin to Stalin (1979)]]
+
+### Thinkers
+- [[carr-edward-hallett|E. H. Carr]]
+
+### Phenomena
+- [[russian-revolution|Russian Revolution]]
+
+### Concepts
+- [[socialism-in-one-country|Socialism in One Country]]
+- [[scissors-crisis|Scissors Crisis]]
+- [[five-year-plan|Five-Year Plan]]
+- [[collectivization|Collectivization]]
+- [[left-opposition|Left Opposition]]
+- [[united-front|United Front]]
+
+### Institutions
+- [[comintern|Comintern (Communist International)]]
 

@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "[[unknown]]"
 contested: yes
 related_concepts: ["[[value-orientation]]", "[[sociology-of-knowledge]]", "[[collective-representations]]", "[[institutionalization]]", "[[legitimation]]", "[[utopia]]", "[[false-consciousness]]", "[[relationism]]", "[[end-of-ideology]]", "[[material-culture]]", "[[logic-of-contingency]]", "[[theoretical-anti-humanism]]", "[[social-formation]]", "[[epistemological-break]]", "[[language-ideology]]", "[[critical-archaeology]]", "[[georgian-worldview]]"]
-sources_ingested: 10
-last_updated: 2026-07-15
+sources_ingested: 11
+last_updated: 2026-07-16
 tags: [concept]
 ---
 
@@ -57,6 +57,7 @@ A semi-independent track: **[[language-ideology|language / linguistic ideologies
 - **Parsons:** functional-integrative belief system; cognitive distortion types (glossing malintegration; vulgarization; romantic/utopian over-idealization); counter-ideology of deviant sub-cultures vs reinterpretive deviant movements.
 - **Postwar / constructionist:** Berger & Luckmann demote ideology analysis from exclusive SoK object in favour of everyday knowledge ([[social-construction-of-reality]]).
 - **End-of-ideology (mid-1950s–60):** [[lipset-seymour-martin|Lipset]] (*[[lipset-political-man-1960|Political Man]]*, Ch XIII), with Bell, Shils, and Aron, argued that intense left–right doctrinal conflict among democratic parties in advanced industrial societies had declined to marginal disputes over state intervention — while [[democratic-class-struggle|class voting]] continued “without red flags” ([[end-of-ideology]]; [[end-of-ideology-debate]]). Period diagnosis, not wiki-voice law.
+- **Maoist mass catechism (1964/66):** *[[mao-quotations-from-chairman-mao-1966|Quotations from Chairman Mao]]* is a primary artifact of **political ideology as mass-education technology** — selected maxims for memorization and "creative study and application," framed by Lin Biao (1966) as arming minds with Mao Tse-tung Thought. Distinct from survey "belief systems": it is party doctrine packaged for workers, peasants, and soldiers. See [[maoism]], [[class-struggle-under-socialism-debate]].
 
 Parsons’s neutral, functional-integrative framing (ideology as legitimation of shared values) sits in explicit tension with the Marx–Mannheim tradition; on the Marxian reading the integrative frame is itself ideological — a tension recorded, not adjudicated. The end-of-ideology claim is a further mid-century position about *intensity and party doctrine*, not a resolution of the definitional dispute.
 

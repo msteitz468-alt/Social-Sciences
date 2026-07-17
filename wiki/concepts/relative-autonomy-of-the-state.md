@@ -7,9 +7,9 @@ disciplines: [sociology, political-economy, political-thought]
 emic_or_etic: etic
 operationalized_as: "Degree to which executive state machinery acts independently of the immediate political control of the economically dominant class, while still conditioned by class structure"
 contested: yes
-related_concepts: ["[[bonapartism]]", "[[the-state]]", "[[class-fraction]]", "[[historical-materialism]]", "[[bureaucracy]]", "[[state-autonomy]]", "[[structure-in-dominance]]", "[[overdetermination]]", "[[social-formation]]"]
-sources_ingested: 3
-last_updated: 2026-07-10
+related_concepts: ["[[bonapartism]]", "[[the-state]]", "[[class-fraction]]", "[[historical-materialism]]", "[[bureaucracy]]", "[[state-autonomy]]", "[[structure-in-dominance]]", "[[overdetermination]]", "[[social-formation]]", "[[marxist-theory-of-the-state]]"]
+sources_ingested: 4
+last_updated: 2026-07-16
 tags: [concept]
 ---
 
@@ -26,6 +26,7 @@ The phrase **relative autonomy of the state** is later Marxist school language f
 - **Althusser, *For Marx* (1965).** Generalizes the **superstructure side** of the chain: determination in the last instance by the economic [[mode-of-production]] *and* relative autonomy / specific effectivity of superstructures ([[structure-in-dominance]], [[overdetermination]]). Famous gloss: “the lonely hour of the last instance never comes.” Cult of personality is not a concept of historical materialism; superstructural effectivity must be thought within the structured whole. Source: [[althusser-for-marx-1965]].
 - **Skocpol's contrast (1979).** [[skocpol-theda|Theda Skocpol]] argues the Marxist "relative autonomy" debate does not go far enough — it still ties the state functionally or relationally to the mode of production — and proposes instead a stronger, Weberian [[state-autonomy|*potential* autonomy of the state]] as an administrative-coercive organization with interests of its own. See [[relative-autonomy-of-the-state-debate]].
 - **This wiki** dates the *concept’s classical case* to the *Brumaire* and keeps school elaborations attributed when ingested.
+- **Lenin, *State and Revolution* (1917).** Retains Engels’s exceptional-period independence (Bonapartism, absolute monarchy balancing classes) inside a programme that otherwise stresses the state as organ of class rule and the need to **smash** the machine — autonomy is the *exception*, not a license to treat the democratic republic as classless. Adjacent debate (strategy, not autonomy degree): [[smash-or-capture-the-state-debate]]; theory package: [[marxist-theory-of-the-state]].
 
 Contrast: the [[marx-engels-communist-manifesto-1848|*Manifesto*]]’s compressed line that the executive of the modern state is “but a committee for managing the common affairs of the whole bourgeoisie” — the *Brumaire* complicates that formula without abandoning class analysis ([[relative-autonomy-of-the-state-debate]]).
 

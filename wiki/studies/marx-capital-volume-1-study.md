@@ -69,7 +69,7 @@ Do not adjudicate here; record as live disputes for later `debates/` pages when 
 
 ## Current Standing
 
-Still a reference point across sociology, history, geography, and heterodox economics. Read as attributed theory + dated documentary illustration. Full standing requires Vols. II–III and the wider reception corpus (not yet ingested).
+Still a reference point across sociology, history, geography, and heterodox economics. Read as attributed theory + dated documentary illustration. *[[marx-capital-volume-2-1885|Capital, Volume II]]* (ingested 2026-07-16) continues the analysis into circulation and realization; Vol. III and the wider reception corpus remain not yet ingested.
 
 ## Historiography
 

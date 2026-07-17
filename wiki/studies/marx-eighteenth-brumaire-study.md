@@ -58,6 +58,7 @@ tags: [study, sociology, political-sociology]
 
 - **Historiography of 1848–51** contests details of class alliances, peasant votes, and the weight of “Napoleonic myth” (secondary literature not yet ingested).
 - **State theory:** later Marxists and non-Marxists dispute how far the *Brumaire* licenses a general theory of state autonomy vs. a conjunctural French case ([[relative-autonomy-of-the-state-debate]]).
+- **Smash programme (Lenin 1917):** [[lenin-vladimir|Lenin]] (*[[lenin-state-and-revolution-1917|State and Revolution]]*) reads the *Brumaire*’s “perfected instead of smashing” line as the general proletarian task — [[smash-the-state-machine]] — and pairs it with Commune form / [[dictatorship-of-the-proletariat]] ([[marxist-theory-of-the-state]]; [[smash-or-capture-the-state-debate]]). This is reception history, not a reanalysis of Marx’s 1852 French case.
 - **Peasantry thesis:** the “cannot represent themselves” formula has been read as underestimating rural organization and overgeneralizing from French smallholders (positions to be filled when agrarian sociology is ingested).
 - **Translation:** this wiki’s DigiCat/De Leon-style English (“potato-bag,” “slum-proletariat,” “allotment farmer”) differs from modern Fowkes/Penguin phrasing; concepts are stable, wording is not.
 

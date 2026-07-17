@@ -1,3 +1,12 @@
+## [2026-07-16] ingest | Service, *Trotsky: A Biography* (2009) | sociology, political-sociology | classical-era–fieldwork-revolution | Pages created: 4 | Pages updated: 5
+
+**Created:** `sources/service-trotsky-2009`, `thinkers/trotsky-leon`, `theories/permanent-revolution`, `debates/russian-question-debate`.
+**Updated:** `bureaucracy`, `vanguard-party`, `lenin-vladimir`, `stalin-joseph`, `luxemburg-rosa`.
+
+**Method:** 4 Sonnet extractors by book Part (168 claims), all completed; main thread wrote all pages. **Load-bearing:** permanent-revolution genealogy (Parvus mentorship; Service's originality deflation as SERVICE-POSITION); substitutionism critique (1904) into vanguard-party; two-phase bureaucratization analysis (1923 New Course → 1937 degenerated workers' state) into bureaucracy; Russian-question debate (Trotsky vs Shachtman/Rizzi/Burnham) as new debates page. All interpretive verdicts attributed to Service — hostile revisionist biography; Trotsky primary texts remain a coverage gap. Declined extractor proposals (kept lean): Parvus/Martov/Plekhanov thinker pages, comintern, fourth-international, narodism, dialectical-materialism concept, studies/hub pages.
+
+**Validators:** schema 0 errors; wikilinks baseline compare **0 new broken**; lint 0 errors on touched pages. Filed `raw/sociology/service-trotsky-2009.epub` (+ .txt). Structural_Sources marked (not on Outstanding sources roadmap). Cache cleaned.
+
 ## [2026-07-15] ingest | The Ancient Indus: Urbanism, Economy, and Society (Wright 2010) | archaeology / anthropology | Indus/Harappan, South Asia, Bronze Age | Pages created: 10 | Pages updated: ~34
 
 Third single-author Indus synthesis after Possehl 2002 / Kenoyer 1998 (`source_type: textbook-handbook`). pdftotext -layout **148,860 words** / 17,522 lines; body Chs 1–11 (744–14953) complete. **6-agent** chapter-weighted extraction (`scratchpad/wright_indus_cache/`; inventory 6/6 non-empty, full coverage). Two-stage: 1 extraction wave → main-thread claims review → 1 wave of 4 page-partitioned integration agents; harappan-civilization + debates indus-polity/indus-transformation/mohenjo-daro-massacre + new culture pages main-thread. Created: source wright-ancient-indus-2010; thinkers wright-rita-p, trigger-bruce; sites shortugai, rehman-dheri, sutkagen-dor, sotka-koh, balakot; cultures kulli-culture, bactria-margiana-archaeological-complex. Densified: harappan-civilization; sites mohenjo-daro/harappa/dholavira/lothal/kalibangan/nausharo/chanhudaro/allahdino/mehrgarh/rojdi/ganweriwala; concepts craft-specialization/standardized-weights/meluhha/middle-asian-interaction-sphere/indus-script/indus-valley-tradition/indus-religion/pashupati-seal/great-bath/priest-king-statue/cemetery-h/gender-in-the-indus-civilization/bioarchaeology-of-the-indus/city-state/heterarchy; central-place-theory; phenomena indus-urbanization/deurbanization-of-the-indus; early-harappan; Indus thinker pages + archaeology coverage. Load-bearing (attributed to Wright): transformative technological style; differentiated society (vs D. Miller 1985); city-state + vertical integration; emerging polities; uneven transformation + anti-continuity vs Shaffer-Lichtenstein; Kennedy 2000 vs Aryan invasion; four-way non-identity on BMAC. Pre-Rakhigarhi-aDNA. No studies/hub (survey synthesis). Validators: 0 new broken links vs baseline, 0 schema errors. Filed `raw/archaeology/`. Outstanding #38 ✅. Cache to be removed after close.
@@ -124,7 +133,7 @@ Filed `raw/sociology/`.
 - **Filed:** `raw/archaeology/dickinson-aegean-bronze-age-1994.{pdf,txt}`. Outstanding Arch #73 ✅. Structural_Sources + index updated.
 - **No git commit** (user handles git).
 
-## [2026-07-10] ingest | The Emergence of Civilisation (Colin Renfrew, 1972) | archaeology | critical-turn / Aegean EBA | Pages created: 6 | Pages updated: 10
+## [2026-07-10] ingest | The Emergence of Civilisation (Colin Renfrew, 1972) | archaeology | critical-turn / Aegean EBA | Pages created: 7 | Pages updated: 10
 
 - **Source:** [[renfrew-emergence-of-civilisation-1972]] — Methuen 1972; Oxbow 2011 + 2010 Preface/Intro (Cherry foreword). Systems-processual Aegean civilisation origins.
 - **Intake:** ebook-convert epub → **248,090 words** / 13,145 lines; complete through Ch. 21 + appendices.
@@ -889,7 +898,7 @@ Herbert Blumer, *Symbolic Interactionism: Perspective and Method* (Prentice-Hall
 - **Validation:** scoped + full check.sh — 14 touched pages 0 schema errors / 0 broken links. (Full-vault: 1 new broken link `homans-george-c → merton-robert-k` and 4 schema warns belong to a **concurrent Homans/Merton ingest**, not this session.)
 - **Filed:** `raw/sociology/The Sociological Imagination (C. Wright Mills) (z-library.sk, 1lib.sk, z-lib.sk).txt`.
 
-## [2026-07-08] ingest | The Human Group (Homans, 1950) | sociology / social-psychology | postwar-expansion | [Pages created: 6] | [Pages updated: 8]
+## [2026-07-08] ingest | The Human Group (Homans, 1950) | sociology / social-psychology | postwar-expansion | [Pages created: 7] | [Pages updated: 8]
 
 Ingested Homans *The Human Group* via deployed-subagent strategy: Transaction 1992/2017 OCR of 1950 text (~200k words / 20237 lines; word-count intake OK). **7 parallel extractors** over disjoint cache ranges (`/tmp/homans_cache/`); **filesystem inventory: all 7 claims files present** (range_1–7.md) before integration; no silent dropout this batch.
 
@@ -1371,7 +1380,7 @@ Ingested Stanley Lieberson, *Making It Count: The Improvement of Social Research
 - **Filed:** `raw/sociology/lieberson-making-it-count-1985.{pdf,txt}` (pending move).
 - **No git commit** (user handles git).
 
-## 2026-07-09 ingest | The Comparative Method (Ragin, 1987/2014) | sociology, political-science, methodology | contemporary | Pages created: 6 | Pages updated: 2
+## 2026-07-09 ingest | The Comparative Method (Ragin, 1987/2014) | sociology, political-science, methodology | contemporary | Pages created: 7 | Pages updated: 2
 
 - **Source:** Charles C. Ragin, *The Comparative Method: Moving Beyond Qualitative and Quantitative Strategies* (UC Press, 1987; 2014 edn. with new introduction). Theoretical/methodological work; founding statement of Qualitative Comparative Analysis (QCA). Word-count intake 77,930 words — complete, no truncation.
 - **Method:** deployed-subagent, 4 parallel Sonnet extractors on disjoint line-ranges (Preface+2014 intro+Ch1–2 / Ch3–5 / Ch6–7 Boolean core / Ch8–9). All 4 claims files present and non-empty; full coverage confirmed by each agent; no content-filter blocks. OCR mangled raw truth-table cells (Tables 3–9) but prose and Boolean equations clean — extracted from prose/equations, tables not reproduced.
@@ -1476,7 +1485,7 @@ Ingested Sir Henry James Sumner Maine, *Ancient Law* (1861; Everyman’s Library
 - **Filed:** `raw/anthropology/` (PDF + txt).
 - **No git commit** (user handles git).
 
-## [2026-07-09] ingest | Ancient Society (Lewis H. Morgan, 1877) | anthropology, sociology | founding-era | Pages created: 6 | Pages updated: 2
+## [2026-07-09] ingest | Ancient Society (Lewis H. Morgan, 1877) | anthropology, sociology | founding-era | Pages created: 7 | Pages updated: 2
 - **Source:** epub→txt (ebook-convert); ~187k words, body Parts I–IV (lines 156–3550) + ~458 endnotes; complete. 4 range-partitioned Sonnet extractors by Part; all 4 claims files present. One Part II-A coverage gap (Ch VI rosters, file lines 1412–1700) recovered by main-thread read — captured the gens-universality conclusion and the descent-change-via-naming mechanism.
 - **CONCURRENCY:** ran alongside a large anthropology-batch session (Frazer, Tylor, Maine, Morgan-Systems reworks, evolutionism consolidation) that was actively rewriting the shared pages (`gens`, `social-evolutionism`, `iroquois`, `unilinear-kinship-evolution-debate`, `morgan-lewis-henry`, `comparative-method`, `family`, `group-marriage`, `private-property`) and created `psychic-unity-of-mankind`, `cultural-evolutionism-debate`, `ganowanian-family`. It defensively edited this session's source page (set study_page → [[unknown]] to avoid a dangling link). To avoid clobbering, THIS session scoped to the Ancient-Society-specific pages and left shared-page updates to the batch pass.
 - **Created (6):** source `morgan-ancient-society-1877`; study `morgan-ancient-society-study`; concepts `societas-and-civitas`, `military-democracy`, `morgan-family-sequence`; debate `morgan-mclennan-debate`.
@@ -1520,7 +1529,7 @@ Ingested Sir Henry James Sumner Maine, *Ancient Law* (1861; Everyman’s Library
 - **Filed:** `raw/sociology/` (PDF + `durkheim-mauss-primitive-classification-1903.txt`).
 - **No git commit** (user handles git).
 
-## 2026-07-09 ingest | Sapir, *Language: An Introduction to the Study of Speech* (1921) | linguistic-anthropology, anthropology | classical-era / fieldwork-revolution | Pages created: 6 | Pages updated: 3
+## 2026-07-09 ingest | Sapir, *Language: An Introduction to the Study of Speech* (1921) | linguistic-anthropology, anthropology | classical-era / fieldwork-revolution | Pages created: 7 | Pages updated: 3
 - **Method:** deployed-subagent, 3 Sonnet agents by chapter (I–IV / V–VI / VII–XI), disjoint line-ranges 143–2021 / 2022–3699 / 3700–5736. All 3 claims files present, full coverage, no silent dropout.
 - **Created (6):** source `sapir-language-1921`; thinker `sapir-edward`; discipline `linguistic-anthropology`; concepts `linguistic-drift`, `phonetic-pattern`, `linguistic-typology`; method `historical-linguistics`.
 - **Updated (3):** `boas-franz` (trained: Sapir, +Lowie reciprocal fix); `race-and-culture-debate` (Ch.X linguistic corroboration of non-congruence; Sapir on language≠race≠temperament); `anthropology` (linguistic-anthropology subfield link).
@@ -1572,7 +1581,7 @@ Primary: CUP 1922 (IA digitization; pdftotext ~209k words / 556 pp). Fieldwork 1
 - **Filed:** `raw/anthropology/` (epub + txt).
 - **No git commit** (user handles git).
 
-## [2026-07-09] ingest | Coral Gardens and Their Magic Vol. II (Malinowski, 1935) | anthropology, linguistic-anthropology | fieldwork-revolution | Pages created: 6 | Pages updated: 10
+## [2026-07-09] ingest | Coral Gardens and Their Magic Vol. II (Malinowski, 1935) | anthropology, linguistic-anthropology | fieldwork-revolution | Pages created: 7 | Pages updated: 10
 
 Ingested Bronislaw Malinowski, *Coral Gardens and Their Magic*, **Volume II only** (*The Language of Magic and Gardening*; Allen & Unwin 1935; Routledge Collected Works Vol. VIII epub). Word-count intake: ebook-convert → **132,469 words / 8,764 lines**. **Vol. I absent** (methods of tilling / agricultural rites) — flagged on source page. Deployed-subagent strategy: **5 extractors** over content-weighted ranges under `/tmp/coral_gardens_cache/` → `claims/range_1.md`…`range_5.md`. **Filesystem inventory: all 5 non-empty (365 claims: 117+78+62+66+42)** before integration; no silent dropouts; no content-filter blocks.
 
@@ -1655,7 +1664,7 @@ Completed two-volume *Coral Gardens* by ingesting **Volume I** (*Soil-Tilling an
 - **Filed:** `raw/anthropology/` (pdf + txt).
 - **No git commit** (user handles git).
 
-## [2026-07-09] ingest | We, the Tikopia (Firth 1936) | anthropology | fieldwork-revolution | Pages created: 6 | Pages updated: 8
+## [2026-07-09] ingest | We, the Tikopia (Firth 1936) | anthropology | fieldwork-revolution | Pages created: 7 | Pages updated: 8
 - **Source:** classic ethnography (~289k words, epub→txt clean; 16 chapters + intro). 7-agent Sonnet extraction (ranges 1–6, 8) + main-thread recovery of range 7 (Ch. XIV "Sociology of Sex," sensitive-content triage). All 8 claims files present and non-empty on filesystem inventory.
 - **Created (6):** source `firth-we-the-tikopia-1936`; study `firth-we-the-tikopia-study` + Studies Hub `hubs/studies/firth-we-the-tikopia-study` (deep analysis, 9 canonical sections); thinker `firth-raymond`; concepts `social-organization`, `ramage`.
 - **Updated (8):** `tikopia` (society page rewritten — Firth now definitive, superseding Rivers-only version); `malinowski-bronislaw` (trained Firth, genealogy reciprocal); `rivers-w-h-r` (Firth's fieldwork rebuttals: proto-Tongan, residence-survival, FZ-veto, communism-in-children); `structural-functionalism` (Firth's qualified functionalism); `avunculate` (tuatina/tama tapu diagonal transmission); `classificatory-system-of-relationship` (Firth's refinement of Morgan); `participant-observation` (Firth's method); `anthropology` (coverage: Firth gap closed).
@@ -1812,7 +1821,7 @@ Basic Books essays (2008 reprint epub→txt ~192k words). 6-agent extraction all
 - **Filed:** `raw/anthropology/` (pdf + txt).
 - **No git commit** (user handles git).
 
-## [2026-07-09] ingest | The Forest People (Colin Turnbull, 1961) | anthropology (cultural) | postwar-expansion / modern | Pages created: 6 | Pages updated: 5
+## [2026-07-09] ingest | The Forest People (Colin Turnbull, 1961) | anthropology (cultural) | postwar-expansion / modern | Pages created: 7 | Pages updated: 5
 
 - **Source:** Mbuti (BaMbuti) net-hunter ethnography of the Ituri Forest, Belgian Congo; fieldwork 1957–58 (visits 1951, 1954). Popular narrative companion to the technical *Wayward Servants* (1965, not ingested). ~99,000 words, EPUB→txt clean (word-count intake OK).
 - **Created (6):** `sources/turnbull-forest-people-1961`; `studies/turnbull-forest-people-study`; `thinkers/turnbull-colin-m`; `societies/mbuti`; `concepts/molimo`; `concepts/elima`; `debates/mbuti-village-relations-debate`. (6 content + will note: debate counted → 7 files; index/log/Outstanding are bookkeeping.)
@@ -1927,7 +1936,7 @@ Founding text of postcolonial studies. 5 parallel extractors over disjoint cache
 - **Hubs:** none (edited collection; Asad Thinkers Hub deferred pending later corpus).
 - **Filed:** `raw/anthropology/` (PDF + OCR txt). No git commit (user handles git).
 
-## [2026-07-09] ingest | Time and the Other (Fabian, 1983) | anthropology | critical-turn | Pages created: 6 | Pages updated: 4
+## [2026-07-09] ingest | Time and the Other (Fabian, 1983) | anthropology | critical-turn | Pages created: 7 | Pages updated: 4
 
 Columbia Univ. Press 1983; landmark **critical-turn** treatise (theory/disciplinary polemic, not empirical study). pdftotext ~76k words / ~8.8k lines; decent OCR (ligature garbles, no truncation). Word-count intake OK. **5-agent line-range extraction** (one per chapter) under `scratchpad/fabian_cache/` → `claims/range_1.md`…`range_5.md`; **filesystem inventory 5/5 non-empty**, full coverage, no read-caps/blocks/TOC-mismatches. Created: source `fabian-time-and-the-other-1983`; thinker `fabian-johannes`; concepts `coevalness`, `allochronism`, `ethnographic-present`, `visualism`; debate `ethnographic-present-debate`. Updated: `anthropology` (critical-turn temporal/epistemological critique), `social-evolutionism` (secularization→naturalization→spatialization of Time; chronopolitics), `cultural-relativism` ("culture gardens" / circumventing coevalness — new POSITION section), `structuralism` (preemption of coevalness via taxonomy — new critique bullet). All claims **attributed** (theoretical/polemical work; Fabian's method is avowed polemic). **No `studies/` or hub page** — theory, not an empirical study; not a research program with a community, so no Theory Hub. Fabian's own "glaring absence of race" concession recorded on thinker + source Reflexivity. Concurrent Asad *Colonial Encounter* session shared `anthropology.md` — integrated via Edit-append (re-read after mid-session modification). 0 new broken links vs session baseline. Filed `raw/anthropology/` (PDF; text + slices in scratchpad). No git commit (user handles git).
 
@@ -1941,7 +1950,7 @@ Columbia Univ. Press 1983; landmark **critical-turn** treatise (theory/disciplin
 - **Validate:** session wikilinks baseline at start; final check.sh for 0 new broken links.
 - **Filed:** `raw/anthropology/` (pdf + txt). No git commit (user handles git).
 
-## [2026-07-09] ingest | Culture and Truth: The Remaking of Social Analysis (Renato Rosaldo, 1989/1993) | anthropology | critical-turn, contemporary | Pages created: 6 | Pages updated: 5
+## [2026-07-09] ingest | Culture and Truth: The Remaking of Social Analysis (Renato Rosaldo, 1989/1993) | anthropology | critical-turn, contemporary | Pages created: 7 | Pages updated: 5
 - **Method:** deployed-subagent ingest; epub→txt (~81k words, 11,540 lines); 4-agent parallel extraction over disjoint body ranges (401–1398, 1399–2828, 2829–4630, 4631–7478); claims-only agents, main-thread integration. All 4 claims files present, non-empty; no silent dropout.
 - **Created (6):** source `rosaldo-culture-truth-1993`; concepts `imperialist-nostalgia`, `positioned-subject`, `cultural-borderlands`; method `narrative-analysis`; society `ilongot`.
 - **Updated (5):** thinkers `rosaldo-renato` (Culture and Truth added alongside existing Writing Culture content), `rosaldo-michelle`, `geertz-clifford`, `turner-victor`; concept `culture` (culture-in-motion critique).
@@ -1992,7 +2001,7 @@ Columbia Univ. Press 1983; landmark **critical-turn** treatise (theory/disciplin
 - **Validate:** session wikilinks baseline at start (`/tmp/scs_links_baseline.json`); final `scripts/check.sh` for 0 new broken links.
 - **Filed:** `raw/anthropology/` (pdf + txt). No git commit (user handles git).
 
-## [2026-07-09] ingest | Writing Women's Worlds (Abu-Lughod 1993) | anthropology / feminist-anthropology | critical-turn–contemporary | Pages created: 6 | Pages updated: 12
+## [2026-07-09] ingest | Writing Women's Worlds (Abu-Lughod 1993) | anthropology / feminist-anthropology | critical-turn–contemporary | Pages created: 7 | Pages updated: 12
 
 - **Source:** [[abu-lughod-writing-womens-worlds-1993]] — UC Press 1993 PDF; pdftotext ~92,368 words / 9,677 lines / 260 pp; word-count intake OK.
 - **Method:** deployed-subagent strategy. Cache `/tmp/www_cache/`. **4** content-weighted extractors (front+Intro / Ch1–2 / Ch3–4 / Ch5+apparatus). **Filesystem inventory 4/4 non-empty** (~304 claims: 92+76+72+64); no silent dropouts.
@@ -2017,7 +2026,7 @@ Columbia Univ. Press 1983; landmark **critical-turn** treatise (theory/disciplin
 - **Filed:** `raw/anthropology/` (PDF + OCR `.txt`).
 - **No git commit** (user handles git).
 
-## [2026-07-09] ingest | In Search of Respect (Bourgois, 1995/2003) | anthropology, urban-sociology | critical-turn, contemporary | Pages created: 6 | Pages updated: 8
+## [2026-07-09] ingest | In Search of Respect (Bourgois, 1995/2003) | anthropology, urban-sociology | critical-turn, contemporary | Pages created: 7 | Pages updated: 8
 
 - **Method:** deployed-subagent strategy — Cambridge 2nd ed. epub via pandoc → ~156,154 words / 18,883 lines; word-count intake OK. Cache `/tmp/bourgois_respect_cache/`; **7 extractors** over content-weighted ranges (Pref+Intro+Ch1 / Ch2–3 / Ch4 / Ch5 / Ch6 / Ch7–8 / Ch9+Epilogues); **filesystem inventory 7/7 non-empty** (**560 claims**: 81/93/101/70/80/83/52), no silent dropout. Ranges 5–6 sensitive (gender/sexual violence; child abuse) — agents completed with sparse graphic verbatim.
 - **Created (6):** source `bourgois-in-search-of-respect-1995`; study `bourgois-in-search-of-respect-study`; **Studies Hub** `hubs/studies/bourgois-in-search-of-respect-study` (~3.2k+ w); thinker `bourgois-philippe`; society `el-barrio`; concept `street-culture`.
@@ -2394,7 +2403,7 @@ Founding ingest of the wiki's **archaeogenetics** layer (subject-matter cultures
 - **Voice:** program claims attributed to Binford 1983; Bordes positions as positions; Nunamiut documentation dated 1969–1973 (not ethnographic present).
 - **Validation:** scoped check clean; **0 new broken links** vs session baseline.
 
-## [2026-07-10] ingest | Nunamiut Ethnoarchaeology (Binford, 1978) | archaeology, anthropology | critical-turn | Pages created: 6 | Pages updated: 6
+## [2026-07-10] ingest | Nunamiut Ethnoarchaeology (Binford, 1978) | archaeology, anthropology | critical-turn | Pages created: 7 | Pages updated: 6
 
 - **Source:** [[binford-nunamiut-ethnoarchaeology-1978]] — Academic Press 1978 (Studies in Archeology; dedicated to A. C. Spaulding). The primary ethnoarchaeological monograph the two 1968/1983 Binford ingests flagged "outstanding." Completes the Binford three-book set (New Perspectives + In Pursuit + Nunamiut).
 - **Intake:** pdftotext, **257,914 words / 30,627 lines / ~510 pp**. Cache: `scratchpad/binford_nunamiut_cache/`. Data-dense (hundreds of pp of MNI/%MAU/MGUI tables — concepts extracted, tables not transcribed).
@@ -2406,7 +2415,7 @@ Founding ingest of the wiki's **archaeogenetics** layer (subject-matter cultures
 - **Filed:** `raw/archaeology/` (pdf + txt).
 - **No git commit** (user handles git).
 
-## [2026-07-10] ingest | The Archaeological Process (Hodder, 1999) | archaeology | critical-turn, contemporary | Pages created: 6 | Pages updated: 6
+## [2026-07-10] ingest | The Archaeological Process (Hodder, 1999) | archaeology | critical-turn, contemporary | Pages created: 7 | Pages updated: 6
 
 - **Source:** [[hodder-archaeological-process-1999]] — Blackwell 1999. Theoretical-work / method charter; no `studies/` page.
 - **Intake:** IA PDF text layer, **pdftotext ~89,941 words / 10,341 lines / 258 pp** (body ~78.6k words lines 277–8932) — complete through bibliography. Cache: `/tmp/hodder_arch_process_cache/` + `scratchpad/hodder-archaeological-process-1999/`.
@@ -2419,7 +2428,7 @@ Founding ingest of the wiki's **archaeogenetics** layer (subject-matter cultures
 - **Filed:** `raw/archaeology/` (pdf + txt).
 - **No git commit** (user handles git).
 
-## [2026-07-10] ingest | Radiocarbon Dating (Libby, 1952/1955) | archaeology | postwar-expansion | Pages created: 6 | Pages updated: 3
+## [2026-07-10] ingest | Radiocarbon Dating (Libby, 1952/1955) | archaeology | postwar-expansion | Pages created: 7 | Pages updated: 3
 
 - **Source:** [[libby-radiocarbon-dating-1952]] — University of Chicago Press 1952; Second Edition 1955 text in Fifth Impression / First Phoenix Edition 1965 (with Libby 1965 addenda). Frederick Johnson ch. VII. No `studies/` page (method monograph + catalogue).
 - **Intake:** IA PDF text layer, **pdftotext -layout ~68,792 words / 8,367 lines / 196 pp** ≈ 350 wpp — complete through indexes. Cache: `scratchpad/libby_radiocarbon_cache/`.
@@ -2432,7 +2441,7 @@ Founding ingest of the wiki's **archaeogenetics** layer (subject-matter cultures
 - **Filed:** `raw/archaeology/` (pdf + txt).
 - **No git commit** (user handles git).
 
-## [2026-07-10] ingest | Before Civilization: The Radiocarbon Revolution and Prehistoric Europe (Renfrew 1973) | archaeology | critical-turn / neolithic–bronze-age | Pages created: 6 | Pages updated: 8
+## [2026-07-10] ingest | Before Civilization: The Radiocarbon Revolution and Prehistoric Europe (Renfrew 1973) | archaeology | critical-turn / neolithic–bronze-age | Pages created: 7 | Pages updated: 8
 - **Source:** `renfrew-before-civilization-1973` (theoretical-work; 2011 Vintage Digital epub, first pub. 1973). ebook-convert ~93k words / ~290 pp — complete (word-count intake OK).
 - **Method:** deployed-subagent, **4 Sonnet extractors** by disjoint line-range (Ch1–4+Appendix / Ch5–7 / Ch8–10 / Ch11–12). All 4 claims files present & non-empty; no blocks, no gaps, no sensitive-content routing needed.
 - **Created (6):** `renfrew-before-civilization-1973`, `sites/stonehenge`, `sites/maltese-temples`, `cultures/wessex-culture`, `concepts/megalith`, `debates/diffusion-collapse-european-prehistory-debate`.
@@ -2449,7 +2458,7 @@ Founding ingest of the wiki's **archaeogenetics** layer (subject-matter cultures
 
 Reconciled `Outstanding sources.md` against all `wiki/sources/` pages (216). Added missing ✅ / ⚠️ marks for ~108 previously unmarked but already-ingested roadmap items. Resulting coverage marks: Sociology ~96/100, Anthropology ~97/100, Archaeology ~17/100 (archaeology open items correctly not yet ingested). Header note records reconciliation date. Active tracker remains `Structural_Sources.md`.
 
-## [2026-07-10] ingest | Entangled: An Archaeology of the Relationships Between Humans and Things (Hodder 2012) | archaeology, anthropology | contemporary | Pages created: 6 | Pages updated: 8
+## [2026-07-10] ingest | Entangled: An Archaeology of the Relationships Between Humans and Things (Hodder 2012) | archaeology, anthropology | contemporary | Pages created: 7 | Pages updated: 8
 
 - **Source:** [[hodder-entangled-2012]] — Wiley-Blackwell 2012. Theoretical-work / program charter; no `studies/` page.
 - **Intake:** AZW3→txt via ebook-convert, **~116,468 words / 4,900 lines** complete through Bibliography and Index. Body Ch.1–10 lines 320–2537. Cache: `/tmp/entangled_cache/` + `scratchpad/hodder-entangled-2012/`.
@@ -2572,7 +2581,7 @@ British New Archaeology charter: systems theory, polythetic hierarchical entitie
 - **Filed:** `raw/archaeology/` (epub + txt).
 - **No git commit** (user handles git).
 
-## [2026-07-10] ingest | The Philadelphia Negro (Du Bois, 1899) — WEB ingest | sociology / urban-sociology | classical-era | Pages created: 6 | Pages updated: 4
+## [2026-07-10] ingest | The Philadelphia Negro (Du Bois, 1899) — WEB ingest | sociology / urban-sociology | classical-era | Pages created: 7 | Pages updated: 4
 - **Web ingest** (not a file): built from Wikipedia, Encyclopedia of Greater Philadelphia, Elijah Anderson's 2024 *The Conversation* 125th-anniversary retrospective, and the Katz & Sugrue (1998) *W. E. B. Du Bois, Race, and the City* volume description. No full-text read — flagged throughout in attributed voice; grade percentages left unverified.
 - **Created:** sources/du-bois-philadelphia-negro-1899; studies/du-bois-philadelphia-negro-study; societies/philadelphia-seventh-ward; concepts/submerged-tenth; debates/du-bois-sociological-canon-debate.
 - **Updated:** thinkers/du-bois-w-e-b; disciplines/urban-sociology (Du Bois added as classical-era precursor founding figure); phenomena/black-urban-north (resolved the "*Philadelphia Negro* not yet ingested" placeholder); theories/chicago-school (unacknowledged-precursor note).
@@ -2657,7 +2666,7 @@ British New Archaeology charter: systems theory, polythetic hierarchical entitie
 - **Filed:** `raw/anthropology/stringer-gamble-in-search-of-the-neanderthals-1993.pdf` + `.txt`.
 - **No git commit** (user handles git).
 
-## [2026-07-10] ingest | The Prehistory of the Mind (Mithen 1996) | archaeology, biological-anthropology | critical-turn | Pages created: 6 | Pages updated: 11
+## [2026-07-10] ingest | The Prehistory of the Mind (Mithen 1996) | archaeology, biological-anthropology | critical-turn | Pages created: 7 | Pages updated: 11
 
 - **Source:** Thames & Hudson 1996 / Phoenix 1998 paperback OCR (image-only Readiris PDF → ocrmypdf); ~97k body words; 5-agent extraction **5/5 non-empty** (~276 claims: 62/58/55/51/50).
 - **Created (6):** source `mithen-prehistory-of-the-mind-1996`; thinker `mithen-steven`; theory `cognitive-fluidity` + Theory Hub; concepts `specialized-intelligences`, `cathedral-of-the-mind`.
@@ -2712,7 +2721,7 @@ Deployed-subagent ingest (Large-Volume): 48MB PDF → pdftotext ~305.6k words (4
 - **Filed:** `raw/archaeology/mithen-after-the-ice-2003.epub` + `.txt`.
 - **No git commit** (user handles git).
 
-## [2026-07-10] ingest | Lone Survivors (Stringer, 2012) | biological-anthropology / archaeology | critical-turn → contemporary | Pages created: 6 | Pages updated: 28
+## [2026-07-10] ingest | Lone Survivors (Stringer, 2012) | biological-anthropology / archaeology | critical-turn → contemporary | Pages created: 7 | Pages updated: 28
 - **Source:** [[stringer-lone-survivors-2012]] — Chris Stringer, *Lone Survivors: How We Came to Be the Only Humans on Earth* (1st U.S. ed., Times Books / Henry Holt, 2012; ISBN 978-0-8050-8891-5). `source_type: mixed` (partisan popular-to-specialist synthesis).
 - **Intake:** ebook-convert epub→txt; **115,084 total words / 5,276 lines**; body Intro–Ch.9 ~97.8k words (lines 143–1438; paragraph-length lines). Bibliography excluded. Cache: `/tmp/lone_survivors_cache/`.
 - **Method:** deployed-subagent, **5** content-weighted extractors (Intro+Ch1–2 / Ch3–4 / Ch5–6 / Ch7 / Ch8–9). **Filesystem 5/5 non-empty** (~420 claims). Stage-2: main-thread new pages + Thinkers Hub; **2** page-owned integrators (theories/debate/concepts; cultures/sites/methods/foils).
@@ -2838,7 +2847,7 @@ English synthesis (Watkins tr.) of Cauvin’s révolution des symboles thesis. O
 - **Outstanding sources.md:** item 57 ✅. Filed `raw/archaeology/` (epub + txt).
 - **No git commit** (user handles git).
 
-## [2026-07-10] ingest | The Rise of Bronze Age Society (Kristiansen & Larsson, 2005) | archaeology, anthropology | contemporary / bronze-age europe | Pages created: 6 | Pages updated: 9
+## [2026-07-10] ingest | The Rise of Bronze Age Society (Kristiansen & Larsson, 2005) | archaeology, anthropology | contemporary / bronze-age europe | Pages created: 7 | Pages updated: 9
 - **Source:** `raw/The rise of Bronze Age society ... Kristiansen, Larsson ...pdf` → pdftotext ~174k words / 463 pp; body lines ~504–16244.
 - **Extraction:** 8 Sonnet agents (Stage-1, claims-files-only), disjoint line-ranges weighted to the huge Ch.5; inventory 8/8 non-empty (~400 tagged claims). No content-filter blocks, no missing ranges.
 - **Created:** sources/kristiansen-larsson-rise-bronze-age-2005 · thinkers/kristiansen-kristian · thinkers/larsson-thomas-b · concepts/prestige-goods-economy · concepts/twin-rulership · cultures/unetice-culture (nordic-bronze-age scaffolded then filled).
@@ -2948,7 +2957,7 @@ English synthesis (Watkins tr.) of Cauvin’s révolution des symboles thesis. O
 - **Updated:** [[ingold-tim]] summary + hub (Making layer → past 4,000w standard), [[dwelling-perspective]] / [[archaeology]] cross-links.
 - **Voice:** theoretical/methodological essay — all attributed to Ingold; handaxe/mound examples treated as illustrations, not subject-matter evidence. Filed `raw/anthropology/`.
 
-## [2026-07-10] ingest | Mellaart, *Çatal Hüyük: A Neolithic Town in Anatolia* (1967) | archaeology | postwar-expansion / neolithic Anatolia | Pages created: 6 | Pages updated: 4
+## [2026-07-10] ingest | Mellaart, *Çatal Hüyük: A Neolithic Town in Anatolia* (1967) | archaeology | postwar-expansion / neolithic Anatolia | Pages created: 7 | Pages updated: 4
 - **Source:** [[mellaart-catal-huyuk-1967]] — Thames & Hudson / McGraw-Hill 1967; *New Aspects of Archaeology* (Wheeler gen. ed.); Internet Archive PDF → pdftotext **~55,378 words** / 6,255 lines / 238 pp — complete for illustrated monograph (plates reduce words/page).
 - **Method:** Deployed-subagent. Cache `scratchpad/mellaart_catal_cache/`. **3** content-weighted extractors (Intro–Town Plan / Shrines–Paintings / Sculpture–Economy). **Filesystem inventory 3/3 non-empty** (~218 claims: 78+80+60). No silent dropouts; no content-filter blocks. Main-thread scaffold + Studies Hub + integration.
 - **Created (6):** source; thinker `mellaart-james`; study `mellaart-catal-huyuk-study` + **Studies Hub** `hubs/studies/mellaart-catal-huyuk-study`; debate `catalhoyuk-shrine-house-debate`; site stub `hacilar`.
@@ -3083,7 +3092,7 @@ English synthesis (Watkins tr.) of Cauvin’s révolution des symboles thesis. O
 - **Validators:** scoped schema 0 errors; 0 NEW broken links vs session baseline.
 - **No git commit** (user handles git).
 
-## [2026-07-10] ingest | Renfrew, *Loot, Legitimacy and Ownership: The Ethical Crisis in Archaeology* (2000) | archaeology | contemporary | Pages created: 6 | Pages updated: 3
+## [2026-07-10] ingest | Renfrew, *Loot, Legitimacy and Ownership: The Ethical Crisis in Archaeology* (2000) | archaeology | contemporary | Pages created: 7 | Pages updated: 3
 - **Source:** Duckworth Debates in Archaeology (2000), expanded from the 21st Kroon Lecture (Amsterdam, 1999). `source_type: mixed` (advocacy/programmatic; theoretical + historical). IA PDF → pdftotext -layout ~46k words / 6,499 lines; body Intro+Chs 1–7 = lines 185–3377; Appendices 1–10 reproduced legal instruments (used as reference, not extracted). Word-count intake consistent with a short Debates volume — complete.
 - **Method:** 3-agent (Sonnet) content-weighted extraction over disjoint body ranges (185–1274 / 1275–2292 / 2293–3377); inventory 3/3 non-empty (~330 claims); main-thread integration + scaffolding.
 - **Created:** `renfrew-loot-legitimacy-2000` (source); `illicit-antiquities-trade` (phenomenon); `unprovenanced-antiquities`, `cultural-property`, `restitution` (concepts); `antiquities-market-looting-debate` (debate).
@@ -3107,7 +3116,7 @@ English synthesis (Watkins tr.) of Cauvin’s révolution des symboles thesis. O
 - **Validators:** run after bookkeeping.
 - **No git commit** (user handles git).
 
-## [2026-07-10] ingest | Connah, *African Civilizations: An Archaeological Perspective* (3rd ed. 2016) | archaeology, anthropology | contemporary (disciplinary); deep-time–early-modern Africa (subject) | Pages created: 14 | Pages updated: 10
+## [2026-07-10] ingest | Connah, *African Civilizations: An Archaeological Perspective* (3rd ed. 2016) | archaeology, anthropology | contemporary (disciplinary); deep-time–early-modern Africa (subject) | Pages created: 16 | Pages updated: 10
 - **Source:** [[connah-african-civilizations-2016]] — Cambridge UP 2016 3rd ed. (Outstanding listed 1987); PDF → pdftotext -layout **~158,952 words** / 425 pp / 16,370 lines — body Chs 1–12 ≈ 133k words (lines 314–13420) — complete text layer.
 - **Method:** Deployed-subagent. Cache `scratchpad/connah_african_civilizations_cache/`. **6** content-weighted extractors (Ch1–2 / Ch3–4 / Ch5–6 / Ch7–8 / Ch9–10 / Ch11–12). **Filesystem inventory 6/6 non-empty** (~526 claims: 84+97+90+95+85+75). Stage-2: 3 page-owned integrators (sites Nubia–Horn–Niger–coast; sites Zambezia–forest; thinker+concept+cultures) + main-thread shared-page densification + source synthesis.
 - **Created (14):** source; thinker `connah-graham`; concept `productive-land-hypothesis`; sites `kerma`, `meroe`, `aksum`, `jenne-jeno`, `igbo-ukwu`, `ile-ife`, `benin-city`, `kilwa-kisiwani`, `mapungubwe`, `great-zimbabwe`; cultures `nok-culture`, `swahili-culture`.
@@ -3148,7 +3157,7 @@ English synthesis (Watkins tr.) of Cauvin’s révolution des symboles thesis. O
 - **Trackers:** Outstanding #100 ✅; Structural_Sources ✅.
 - **No git commit** (user handles git).
 
-## [2026-07-10] ingest | Phillipson, *African Archaeology* (3rd ed. 2005) | archaeology, biological-anthropology | deep prehistory – early modern | Pages created: 14 | Pages updated: 10
+## [2026-07-10] ingest | Phillipson, *African Archaeology* (3rd ed. 2005) | archaeology, biological-anthropology | deep prehistory – early modern | Pages created: 16 | Pages updated: 10
 - **Source:** CUP continental synthesis (`source_type: textbook-handbook`). pdftotext -layout **140,403 words** / 16,132 lines; body ≈102.6k words complete. Outstanding listed 1985; ingested **3rd ed. 2005**.
 - **Method:** 6 Sonnet agents, chapter-weighted ranges; inventory **6/6** non-empty (~388 claims: 82+60+65+65+60+56). Main-thread scaffold + integration.
 - **Created (14):** `phillipson-african-archaeology-2005`; `phillipson-david-w`; `lithic-technological-modes`; `rock-art`; `sangoan-industry`; `aterian-industry`; `howiesons-poort-industry`; `chifumbaze-complex`; `taung`; `kabwe`; `kalambo-falls`; `nabta-playa`; `dhar-tichitt`.
@@ -3189,7 +3198,7 @@ English synthesis (Watkins tr.) of Cauvin’s révolution des symboles thesis. O
 - **No git commit** (user handles git).
 
 
-## [2026-07-10] ingest | Pathologies of Rational Choice Theory (Green & Shapiro, 1994) | political-science, sociology | contemporary | Pages created: 6 | Pages updated: 5
+## [2026-07-10] ingest | Pathologies of Rational Choice Theory (Green & Shapiro, 1994) | political-science, sociology | contemporary | Pages created: 7 | Pages updated: 5
 - **Source:** [[green-shapiro-pathologies-1994]] — Yale UP 1994. PDF → pdftotext **~110k words** / 10,625 lines — complete Chs 1–8 body (lines 200–9027; References/Index follow).
 - **Method:** Deployed-subagent. Cache `scratchpad/rational_choice_cache/`. **4** chapter-group extractors (Chs 1–3 / 4–5 / 6 / 7–8). **Filesystem inventory 4/4 non-empty**. Main-thread integration.
 - **Created (6):** source; thinkers `green-donald`, `shapiro-ian`; debate `rational-choice-controversy-debate`; concepts `method-driven-research`, `paradox-of-voter-turnout`, `spatial-model-of-voting`.
@@ -3269,7 +3278,7 @@ English synthesis (Watkins tr.) of Cauvin’s révolution des symboles thesis. O
 - **Cache cleanup:** `scratchpad/rappaport_rrmh_cache/` removed after close.
 - **No git commit** (user handles git).
 
-## [2026-07-10] ingest | The Origins of Human Society (Bogucki, 1999) | archaeology, anthropology | contemporary / deep prehistory–early states | Pages created: 6 | Pages updated: 12
+## [2026-07-10] ingest | The Origins of Human Society (Bogucki, 1999) | archaeology, anthropology | contemporary / deep prehistory–early states | Pages created: 7 | Pages updated: 12
 - **Source:** [[bogucki-origins-human-society-1999]] — Blackwell History of the World (R. I. Moore ed.), 1999. Global comparative social prehistory with explicit individual-self-interest theoretical slant.
 - **Intake:** pdftotext -layout **~220k words** / 497 pp / 25,692 lines (~443 wpp). Complete through Bibliography/Index. PDF IA metadata mislabeled (Heider); title page/CIP confirm Bogucki.
 - **Method:** Deployed-subagent strategy. Cache `scratchpad/bogucki_cache/`. **8** chapter-weighted extractors. **Filesystem inventory 8/8 non-empty** (~791 claims). Main-thread integration (vault already dense on world prehistory from Wenke/Fagan/etc.).
@@ -3454,7 +3463,7 @@ Deployed-subagent ingest of the 1968 Free Press paperback **Volume II** (Weber +
 - Load-bearing (all attributed): anti-totality power networks; IEMP organizational means; caging; multi-power-actor vs empire-of-domination; despotic/infrastructural; European accident+pattern; vs Marx last-instance and Wallerstein early transnationalism.
 - Outstanding #18 ✅. Filed `raw/sociology/`. Cache cleanup after close. No git commit (user handles git).
 
-## [2026-07-10] ingest | Gender Trouble: Feminism and the Subversion of Identity (Butler, 1990/1999) | sociology, anthropology, gender-studies, philosophy | Contemporary era | Pages created: 6 | Pages updated: 6
+## [2026-07-10] ingest | Gender Trouble: Feminism and the Subversion of Identity (Butler, 1990/1999) | sociology, anthropology, gender-studies, philosophy | Contemporary era | Pages created: 7 | Pages updated: 6
 Deployed-subagent ingest, 5 Sonnet extractors (prefaces / ch1 / ch2 / ch3a / ch3b+conclusion), 5/5 claims files non-empty; all integration on main thread (central theoretical pages). Created: sources/butler-gender-trouble-1990, thinkers/butler-judith, theories/gender-performativity, concepts/performativity, concepts/heterosexual-matrix, debates/sex-gender-distinction-debate. Updated: beauvoir-simone-de, foucault-michel, levi-strauss-claude, structuralism, doing-gender, feminist-anthropology. All claims attributed voice (theoretical work). 0 new broken links; schema clean. Butler Thinkers Hub + gender-performativity Theory Hub warranted but not built (only 1 work ingested) — flagged to user.
 
 ## [2026-07-10] ingest | The Consequences of Modernity (Giddens, 1990) | sociology, social-theory | contemporary | Pages created: 13 | Pages updated: 10
@@ -3467,7 +3476,7 @@ Deployed-subagent ingest, 5 Sonnet extractors (prefaces / ch1 / ch2 / ch3a / ch3
 - **Not created:** studies/; Thinkers Hub; Theory Hub reflexive-modernization (still deferred per Beck ledger).
 - Validators: scoped schema 0 errors; 0 new broken links from this ingest vs baseline (concurrent Olson noise unrelated). Outstanding #10 ✅. Filed `raw/sociology/`. Cache cleanup after close. No git commit (user handles git).
 
-## [2026-07-10] ingest | The Logic of Collective Action (Olson, 1965/1971) | economics, political-science, sociology | contemporary | Pages created: 6 | Pages updated: 4
+## [2026-07-10] ingest | The Logic of Collective Action (Olson, 1965/1971) | economics, political-science, sociology | contemporary | Pages created: 7 | Pages updated: 4
 - **Source:** [[olson-logic-collective-action-1965]] — Harvard Economic Studies vol. CXXIV (1965; 1971 reissue w/ new preface + bibliographic Appendix). Founding text of the economic theory of interest groups / collective action; Outstanding #28 ("free-rider charter").
 - **Intake:** pdftotext -layout → **~82k words** / ~7,823 lines; body lines ~155–7060 (Appendix 7061–7442; Index after). Scanned/OCR (cosmetic char errors only).
 - **Method:** Deployed-subagent strategy. Cache `scratchpad/olson_cache/`. **3** content-weighted extractors (Intro+Ch I / Ch II–IV / Ch V–VI). **Filesystem inventory 3/3 non-empty.** Range 3 correctly flagged the 1971 Appendix fell just past its slice → **main-thread recovery** (Appendix is a bibliographic survey of Olson's related articles — alliances theory w/ Zeckhauser, efficiency of external economies, scope/fiscal-federalism). Theoretical work → **no studies/ page**. Central/theory pages authored on main thread (well-trodden RCT area).
@@ -3576,7 +3585,7 @@ Completes Outstanding #4 (Vols. 2–3) — trilogy now ✅ full. 3-agent structu
 - **Still correctly queued in root (22 files):** Stack All Our Kin; Wright Class Counts; Tilly Coercion Capital; KKV Designing Social Inquiry; Hirschman Exit Voice; Althusser For Marx + Reading Capital; Ostrom Governing the Commons; Sampson Great American City; Klinenberg Heat Wave; Young Justice Politics of Difference; Burawoy Manufacturing Consent; Edin/Kefalas Promises; Fraser/Honneth Redistribution; Gramsci Prison Notebooks; Luhmann Social Systems; Liebow Tally's Corner; Blau-Duncan AOS; DiMaggio/Powell New Institutionalism; Bourdieu State Nobility; Habermas TCA Vol.1; Lareau Unequal Childhoods.
 - Outstanding: added missing ✅ on Latour #13 and Willis #42 where source pages already existed.
 
-## [2026-07-10] ingest | Heat Wave (Klinenberg, 2002/2015) | sociology, urban-sociology | contemporary | Pages created: 6 | Pages updated: 2
+## [2026-07-10] ingest | Heat Wave (Klinenberg, 2002/2015) | sociology, urban-sociology | contemporary | Pages created: 7 | Pages updated: 2
 - **Source:** [[klinenberg-heat-wave-2002]] — UChicago 2nd ed. 2015 text of 2002 study.
 - **Intake:** epub ebook-convert ~127,728 words / 4,336 lines; body Preface–Epilogue ~96k words (lines 293–1986) before Notes — complete.
 - **Method:** Deployed-subagent strategy. Cache `scratchpad/klinenberg_heat_wave_cache/`. **3** ranges. **Filesystem inventory 3/3 non-empty** (~325 claims). Main-thread integration.
@@ -3637,7 +3646,7 @@ Completes Outstanding #4 (Vols. 2–3) — trilogy now ✅ full. 3-agent structu
 - **Theory Hub warranted but deferred** (single primary source, no reception lit). Flagged on theory page + trackers for curator decision.
 - Validation: 0 new broken links, 0 lint errors, schema clean. Outstanding #11 ✅; Structural_Sources ledger line added. PDF filed `raw/sociology/luhmann-social-systems-1995.pdf`. Cache cleanup after. No git.
 
-## [2026-07-10] ingest | Unequal Childhoods (Lareau, 2003/2011) | sociology, sociology-of-education | contemporary | Pages created: 6 | Pages updated: 2
+## [2026-07-10] ingest | Unequal Childhoods (Lareau, 2003/2011) | sociology, sociology-of-education | contemporary | Pages created: 7 | Pages updated: 2
 - **Source:** [[lareau-unequal-childhoods-2011]] — UC Press 2nd ed. with decade-later update.
 - **Intake:** epub ebook-convert ~181k words / 8,083 lines; body Preface–Ch.15 ~146k words before Notes.
 - **Method:** 5-agent extraction; **filesystem inventory 5/5** (~357 claims). Main-thread integration.
@@ -3809,7 +3818,7 @@ Ingested Peter M. Blau & Otis Dudley Duncan, *The American Occupational Structur
 - **Method:** text-native PDF (~157k words); 6-agent extraction one wave (6/6, no gaps); 2 integration agents + main-thread study page. Roadmap Anthropology #7 ✅. Filed `raw/anthropology/`. No git.
 - **Studies Hub:** built on user request same session ([[hubs/studies/evans-pritchard-nuer-religion-study]]).
 
-## [2026-07-10] ingest | Geertz, *Peddlers and Princes* (1963) | anthropology, economic-anthropology | postwar-expansion | Pages created: 6 | Pages updated: 5
+## [2026-07-10] ingest | Geertz, *Peddlers and Princes* (1963) | anthropology, economic-anthropology | postwar-expansion | Pages created: 7 | Pages updated: 5
 - **Source:** [[geertz-peddlers-princes-1963]] — University of Chicago Press 1963; dual-site comparative economic ethnography (Modjokuto 1952–54; Tabanan 1957–58).
 - **Intake:** pdftotext -layout **~60,574 words** / 172 pp / 6,406 lines — complete (~352 w/p).
 - **Extraction:** 5 agents (Intro+Towns / Modjokuto bazaar+firm / late Modjokuto+Tabanan rural / Tabanan aristocracy / Conclusion); inventory **5/5 non-empty** (~307 claims). Cache `scratchpad/geertz_peddlers_cache/`.
@@ -3831,7 +3840,7 @@ Epub (Routledge 2004 reprint of 1939 ed.), ~161.7k words / 16,738 lines. 5-agent
 - **Load-bearing (attributed):** village as kin network (*buth*/*mar*); bridewealth ~40/20–30/16; pater vs genitor; ghost-marriage; true levirate (not *kwen*); widow-concubinage; woman-marriage; elastic-band kinship.
 - Outstanding Anthropology #8 ✅. Filed `raw/anthropology/`. No git.
 
-## [2026-07-10] ingest | Pul Eliya (Leach, 1961) | anthropology | postwar-expansion | Pages created: 6 | Pages updated: 6
+## [2026-07-10] ingest | Pul Eliya (Leach, 1961) | anthropology | postwar-expansion | Pages created: 7 | Pages updated: 6
 - **Source:** [[leach-pul-eliya-1961]] — Cambridge UP 1961; Dry Zone land tenure and kinship case history (`source_type: primary-study`; study + Studies Hub).
 - **Intake:** pdftotext -layout **~120,045 words** / ~343 pp / 15,684 lines — complete (~350 w/p).
 - **Extraction:** 6 agents (Ack+Ch I–II / Ch III–IV start / Ch IV end–V start / Ch V end–VI / Ch VII / Ch VIII+apps); inventory **6/6 non-empty** (~450 claims). Cache `scratchpad/pul_eliya_cache/`.
@@ -3912,7 +3921,7 @@ Epub (Routledge 2004 reprint of 1939 ed.), ~161.7k words / 16,738 lines. 5-agent
 - **Load-bearing (attributed):** rebels not revolutionaries; Bemba 3–5 generation civil-war cycle + predictive test; Frazer Lecture rituals of rebellion; Magic of Despair; intercalary headman; Barotse reasonable man; Malinowski one-entry / three cultural realities critique.
 - Outstanding #10 companion ✅ (with PLR 1965). Filed `raw/anthropology/`. Validators: 0 new broken links. No git.
 
-## [2026-07-10] ingest | Order and Rebellion in Tribal Africa (Gluckman 1963) | anthropology | fieldwork-revolution/postwar-expansion | Pages created: 6 | Pages updated: 18
+## [2026-07-10] ingest | Order and Rebellion in Tribal Africa (Gluckman 1963) | anthropology | fieldwork-revolution/postwar-expansion | Pages created: 7 | Pages updated: 18
 - **Session note:** ⚠️ two concurrent sessions ingested this source in parallel (this session: 4-agent extraction, `gluckman_ontr_cache`; sibling session: 5-agent, `gluckman_oar_cache`). Content is complementary but **gluckman-max carries two OAR sections** (§"primary densify" + §"autobiographical self-account") pending a merge pass; source page counts reflect the sibling's last write.
 - **Created (this session):** intercalary-role; reasonable-man; millenarianism; mitchell-j-clyde; barnes-john; source gluckman-order-and-rebellion-1963.
 - **Updated (this session):** gluckman-max; ritual-of-rebellion (Frazer Lecture + Wilson/Reay critiques); extended-case-method; manchester-school; cross-cutting-conflicts; witchcraft; fortes-meyer (incl. Gluckman-vs-Fortes segmentation POSITION); richards-audrey; schapera-isaac (1956 dispute); malinowski-bronislaw (three review essays); functionalism-and-social-change-debate (Gluckman reply to Leach; Malinowski three-realities vs single social field); anthropology-and-colonialism-debate (pre-1968 Gluckman positions); zulu; swazi; bemba; lozi; tallensi.
@@ -3943,7 +3952,7 @@ Epub (Routledge 2004 reprint of 1939 ed.), ~161.7k words / 16,738 lines. 5-agent
 - **Concurrency note:** parallel session ingested Hubert & Mauss *Sacrifice* (1898) same day; hubert-henri page shared cleanly (created here, linked there).
 - **No studies hub page** — landmark essay gets summary study page; hub criteria judged not met. **No git commit** (user handles git).
 
-## [2026-07-15] ingest | Hubert & Mauss — Sacrifice: Its Nature and Functions (1898; Halls 1964/1981) | sociology, anthropology | classical-era | Pages created: 6 | Pages updated: 5
+## [2026-07-15] ingest | Hubert & Mauss — Sacrifice: Its Nature and Functions (1898; Halls 1964/1981) | sociology, anthropology | classical-era | Pages created: 7 | Pages updated: 5
 
 Source: [[hubert-mauss-sacrifice-1898]]. Study: [[hubert-mauss-sacrifice-study]] · Hub: [[hubs/studies/hubert-mauss-sacrifice-study]]. Concepts created: [[sacrifier]], [[sacralization]], [[desacralization]]. Densified: [[sacrifice]], [[sacred-and-profane]], [[scapegoat]], [[hubert-henri]], [[mauss-marcel]]. 4-agent OCR extraction 4/4; main-thread theory integration. Filed `raw/anthropology/`. Outstanding #49 Sacrifice ✅.
 
@@ -3958,7 +3967,7 @@ Source: [[boas-kwakiutl-ethnography-1966]]. Study: [[boas-kwakiutl-ethnography-s
 - **Footprint control:** no studies/ page (essay collection, same call as Clifford Predicament); declined new pages for Kaluli, Schieffelin/Feld, Nader, eccentricity, messy-texts (handled in prose); Bourdieu polemic recorded on existing pages.
 - **Validation:** 0 new broken links from this ingest vs session baseline (3 concurrent-session links noted: stocking-after-tylor, kuper-adam). **No git commit** (user handles git).
 
-## [2026-07-15] ingest | Anthropology and Anthropologists (Kuper, 4th ed. 2015) | anthropology | fieldwork-revolution through contemporary | Pages created: 6 | Pages updated: ~25
+## [2026-07-15] ingest | Anthropology and Anthropologists (Kuper, 4th ed. 2015) | anthropology | fieldwork-revolution through contemporary | Pages created: 7 | Pages updated: ~25
 - **Method:** PDF text layer (pdftotext; ~73.8k words / 171 pp; intake clean); 4 Sonnet extractors on disjoint ranges (front+Ch1 / Ch2–3 / Ch4–5 / Ch6–7+apps); 4/4 claims files (~272 claims); main-thread scaffold + high-stakes pages; 3 integration agents (founders / mid-century / late+theories).
 - **Created:** source [[kuper-anthropology-and-anthropologists-2015]]; theory [[british-social-anthropology]]; thinkers [[haddon-a-c]], [[goody-jack]], [[gellner-ernest]], [[mair-lucy]] (seeded/densified).
 - **Updated (high-stakes main thread):** [[kuper-adam]], [[anthropology]], [[anthropology-and-colonialism-debate]] (Position 9), [[indirect-rule]].
@@ -4014,7 +4023,7 @@ Theoretical monograph, all claims attributed. Created: source `wagner-invention-
 
 ## [2026-07-15] ingest | Pathologies of Power (Farmer 2003) | medical-anthropology, public-health | contemporary | Pages created: 3 | Pages updated: 6 | 4-agent extraction (Intro+Ch1 / Ch2-3 / Ch4-5 / Ch6-9), main-thread integration; Farmer thinker-hub warranted but flagged not built (2 programmatic sources)
 
-## [2026-07-15] ingest | High Religion (Ortner 1989) | anthropology | critical-turn / early-modern–modern Himalaya | Pages created: 6 | Pages updated: 6
+## [2026-07-15] ingest | High Religion (Ortner 1989) | anthropology | critical-turn / early-modern–modern Himalaya | Pages created: 7 | Pages updated: 6
 - **Source:** [[ortner-high-religion-1989]] — Princeton Studies in Culture/Power/History; cultural and political history of Sherpa Buddhism / monastery foundings.
 - **Intake:** epub → ebook-convert txt; **~99,749 words** / 4,569 lines — complete (body + notes + index).
 - **Method:** Deployed-subagent strategy, cache `scratchpad/ortner_high_religion_cache/`. **4** content-weighted extractors (Ch I–III+chronology / IV–V / VI–VII / VIII–X). **Filesystem inventory 4/4 non-empty** (75+64+75+79 = 293 claims). Main-thread Studies Hub + source synthesis; integration agents for society/concepts and study/theory appends.
@@ -4124,7 +4133,7 @@ Chapter densification of Irvine & Gal ch. 2 (*Regimes of Language*; also standal
 - Filed `raw/anthropology/`. Cache cleaned. **No git commit**.
 
 
-## [2026-07-15] ingest | Ilongot Headhunting, 1883–1974 (Rosaldo 1980) | anthropology | critical-turn / modern | Pages created: 6 | Pages updated: 6
+## [2026-07-15] ingest | Ilongot Headhunting, 1883–1974 (Rosaldo 1980) | anthropology | critical-turn / modern | Pages created: 7 | Pages updated: 6
 
 Deployed 5-agent extraction (all ranges complete, no dropout). Created sources/rosaldo-ilongot-headhunting-1980, studies/rosaldo-ilongot-headhunting-study + hubs/studies deep analysis, institutions/headhunting, concepts/liget, concepts/bertan. Updated ilongot (historical outline 1883–1974, historical consciousness), rosaldo-renato, rosaldo-michelle, feud (Ilongot case; 'feud in the peace' vs Gluckman), historical-anthropology (precursor note; concurrent Trouillot session on same page — Edit-append only), oral-tradition (acephalous-society application). Validation: 0 new broken links from this ingest (1 NEW breakage + 6 schema errors traced to concurrent sessions' pages: labov study escaped-pipe link, Wagner concept pages).
 
@@ -4214,7 +4223,7 @@ Ethnohistory + Heroic Age historiography. Source: `trigger-natives-and-newcomers
 
 Ethnohistoric–archaeological densify of Tawantinsuyu beyond Moseley. Source `daltroy-the-incas-2002` (Blackwell Peoples of America; **first edition** — not 2014 2nd ed.). 7-agent extraction (~495 claims), main-thread [[inca-empire]] + integration wave (concepts: split-inheritance, panaqa, zeqe-system, qhapaq-ucha, yanakuna, aqllakuna; sites: machu-picchu, ollantaytambo, huanuco-pampa, cajamarca, saqsawaman; densify cuzco + labor/kin concepts). Canonical culture slug remains `inca-empire` (pointer on `inka-empire`). 0 new broken links. Outstanding #12 ✅. Filed `raw/archaeology/`.
 
-## [2026-07-15] ingest | The Maritime Foundations of Andean Civilization (Moseley 1975) | archaeology | critical-turn / Andean Cotton Preceramic | Pages created: 6 | Pages updated: 8
+## [2026-07-15] ingest | The Maritime Foundations of Andean Civilization (Moseley 1975) | archaeology | critical-turn / Andean Cotton Preceramic | Pages created: 7 | Pages updated: 8
 - **Source:** `raw/archaeology/moseley-maritime-foundations-1975.txt` (from djvu OCR, 51k words / 5,164 lines; text complete)
 - **Method:** 2 Sonnet extractors, disjoint ranges (46–2400, 2401–4660); cache `scratchpad/moseley_mfac_cache/`; both claims files landed, filesystem inventory clean.
 - **Created:** sources/moseley-maritime-foundations-1975 · studies/moseley-maritime-foundations-study · sites/ancon · sites/huaca-prieta · sites/rio-seco · thinkers/{bird-junius, lanning-edward, engel-frederic, patterson-thomas} (note: ancon updated an existing stub → counted as created content)
@@ -4351,7 +4360,7 @@ Popular-scholarly narrative archaeology of lowland Maya political history (Willi
 ## [2026-07-15] ingest | The Uruk World System (Algaze, 2nd ed. 2005) | archaeology, anthropology | chalcolithic (Uruk period, ~3800–3100 cal BCE) | Pages created: 9 | Pages updated: 7
 Supraregional synthesis of the Uruk expansion as the earliest world system / informal empire. 3-agent disjoint extraction (ranges 229–2873 / 2874–4913 / 4914–6761), inventory 3/3; main-thread integration (theory/debate/non-identity kept on main thread). Created source [[algaze-uruk-world-system-2005]], thinker [[algaze-guillermo]], study [[algaze-uruk-expansion-study]], phenomenon [[uruk-expansion]], concepts [[informal-empire]]/[[gateway-community]], debate [[uruk-world-system-debate]], sites [[habuba-kabira]]/[[tell-brak]]. Densified [[world-systems-analysis]], [[uruk-culture]], [[uruk]], [[core-periphery]], [[mesopotamian-trade]], [[prestige-goods-economy]], [[state-formation]]. Central debate Algaze–Stein–Frangipane OPEN. 0 new broken links. Filed raw/archaeology/. Outstanding #16 ✅.
 
-## [2026-07-15] ingest | Gilchrist — Gender and Archaeology (1999) | archaeology / feminist-archaeology | critical-turn–contemporary | [Pages created: 6] | [Pages updated: 8]
+## [2026-07-15] ingest | Gilchrist — Gender and Archaeology (1999) | archaeology / feminist-archaeology | critical-turn–contemporary | [Pages created: 7] | [Pages updated: 8]
 
 - **Source:** [[gilchrist-gender-and-archaeology-1999]] — Routledge *Contesting the Past*; single-author synthesis of gender archaeology ~15 years after Conkey & Spector 1984; ch.6 original multi-source medieval English castle case ([[contested-garden]]).
 - **Intake:** image-only/scanned pdfFactory PDF (209 pp); pdftotext ~2.3k words → parallel pdftoppm@150dpi + tesseract (`OMP_THREAD_LIMIT=1`) → **~71,736 words** / 8,764 lines — complete through Subject Index.
@@ -4394,7 +4403,7 @@ Rhind Lectures 2001 → Thames & Hudson monograph. 4-agent line-range extraction
 
 **Trackers:** Outstanding #20 ✅ (Lehner 1997; Hawass Giza reports synthesis still open as alternate densifier). Structural_Sources ✅. Filed `raw/archaeology/lehner-complete-pyramids-1997.{pdf,txt}`.
 
-## [2026-07-15] ingest | Stein, Rethinking World-Systems: Diasporas, Colonies, and Interaction in Uruk Mesopotamia (1999) | archaeology, anthropology | contemporary era / chalcolithic (Uruk) | Pages created: 6 | Pages updated: 7
+## [2026-07-15] ingest | Stein, Rethinking World-Systems: Diasporas, Colonies, and Interaction in Uruk Mesopotamia (1999) | archaeology, anthropology | contemporary era / chalcolithic (Uruk) | Pages created: 7 | Pages updated: 7
 
 Gil Stein's distance-parity critique of Algaze's Uruk world-system. pdftotext ~73.9k words / 8,152 lines; body ~lines 325–7558 (bibliography after). **3-agent** disjoint extraction (`scratchpad/stein_cache/`; inventory 3/3 non-empty). Main-thread claims review + main-thread integration (debate/theory/four-way-non-identity kept on main thread). **6 created:** source `stein-rethinking-world-systems-1999`; thinker `stein-gil`; site `hacinebi`; study `stein-hacinebi-study`; concepts `trade-diaspora`, `distance-parity`. **7 updated:** uruk-world-system-debate (Position 2 enriched, now-ingested), uruk-expansion, world-systems-analysis, habuba-kabira, algaze-guillermo, uruk-culture, index. Load-bearing (attributed): distance-parity model (core power decays with transport cost → symmetry at far peripheries; 8 paired archaeological correlates); trade-diaspora (Cohen/Curtin) as power-neutral replacement for "colony"; Hacınebi (1992–97, cal BCE) — two parallel sealing systems, INAA-sourced Uruk clays, distinct diets, 300–500 yr symmetric coexistence. Deferred/flagged (not created): standalone sites Godin & Arslantepe; concepts peer-polity-interaction & interaction-studies; **Hacınebi Studies-Hub judgment flagged to user** (parallel Algaze study has no hub either). Validators: 0 new broken links; scoped schema/lint clean on touched pages (6 pre-existing schema errors elsewhere untouched). Filed `raw/archaeology/`. Outstanding #17 ✅.
 
@@ -4446,7 +4455,7 @@ Seventeen-essay CUP handbook (c. 1500 CE–present). pdftotext ~153.9k words / 1
 - **Filed:** `raw/anthropology/` (pdf + txt). Outstanding #49 Stringer branch closed.
 - **Validators:** scoped check on touched pages.
 
-## [2026-07-15] ingest | Matthews, The Archaeology of Mesopotamia: Theories and Approaches (2003) | archaeology, anthropology | founding→contemporary eras / neolithic→iron-age | Pages created: 6 | Pages updated: 22
+## [2026-07-15] ingest | Matthews, The Archaeology of Mesopotamia: Theories and Approaches (2003) | archaeology, anthropology | founding→contemporary eras / neolithic→iron-age | Pages created: 7 | Pages updated: 22
 
 Roger Matthews's reflexive critical guide to Mesopotamian archaeology as a discipline. pdftotext ~94.7k words / 11,620 lines; body ~lines 388–8279 (bibliography/index after). **5-agent** disjoint extraction (`scratchpad/matthews_cache/`; inventory 5/5 non-empty) by thematic chapter, then **Two-stage variant**: 3 Edit-only integration agents partitioned by exclusive page ownership (cultures+state-formation / methods+concepts / sites+thinkers+discipline); flagship pages authored on main thread. **6 created:** source `matthews-archaeology-mesopotamia-2003`; discipline `mesopotamian-archaeology`; thinker `matthews-roger`; method `survey-archaeology`; concept `empire`; debate `archaeology-assyriology-text-object-debate`. **22 updated:** uruk-world-system-debate (Matthews arbiter arg — sides with Algaze), uruk-expansion, ubaid-culture, uruk-culture, state-formation, stratigraphic-excavation, seriation, household-archaeology, domestication, neolithic, chiefdom, catalhoyuk, abu-hureyra, eridu, gobekli-tepe, nineveh, nimrud, tell-brak, adams-robert-mcc, stein-gil, archaeology, index. Load-bearing (attributed): reflexive disciplinary history (imperial/museum origins; Bahrani on "Mesopotamia"; postcolonial critique of practice); text-vs-object debate (Bottéro vs Van De Mieroop/Matthews); Adams survey tradition; empire tripartite identification framework (Taagepera/Larsen); Neolithic push/pull (Cauvin, Younger Dryas); Ubaid temple staple-finance (Stein) + pots≠people (Nissen). Deferred/flagged (not created): sites Hallan Çemi/Umm Dabaghiyah/Tepe Gawra/Arslantepe/Godin/Kültepe-Kaneš; neolithic-origins-push-pull debate; thinkers Liverani/Taagepera/Bahrani/Koldewey/Andrae/Woolley/Rassam. Validators: 0 new broken links (baseline compare); 6 pre-existing schema errors elsewhere untouched. Filed `raw/archaeology/`. Outstanding #18 ✅.
 
@@ -4481,7 +4490,7 @@ Source: Roderick J. McIntosh, *Ancient Middle Niger: Urbanism and the Self-Organ
 - **Bookkeeping:** Outstanding sources item 27 ✅; Structural_Sources entry; filed `raw/archaeology/schiffer-behavioral-archaeology-first-principles-1995.{epub,txt}`.
 - **Validate:** 0 new broken links attributable to this ingest (session baseline compare; concurrent Hall source noise excluded).
 
-## [2026-07-15] ingest | Bones: Ancient Men and Modern Myths (Binford 1981) | archaeology, biological-anthropology | critical-turn / early-prehistory | Pages created: 6 | Pages updated: 11
+## [2026-07-15] ingest | Bones: Ancient Men and Modern Myths (Binford 1981) | archaeology, biological-anthropology | critical-turn / early-prehistory | Pages created: 7 | Pages updated: 11
 - **Extraction:** 7-agent (Sonnet) content-weighted range partition over ~174k-word scanned OCR (Ch1–Ch6); Ch7 conclusions main-thread. Inventory 7/7 non-empty; two tail gaps (Ch3 ~276 ln methodology summary, Ch5 ~868 ln incl. Swartklip control) confirmed substantively covered by main-thread scan.
 - **Created:** studies/binford-bones-study, concepts/osteodontokeratic-culture, debates/hunting-scavenging-debate, sites/makapansgat, thinkers/brain-ck, sources/binford-bones-1981.
 - **Updated:** middle-range-theory-archaeology, taphonomy, actualistic-studies, faunal-analysis, olduvai-gorge, dart-raymond, binford-lewis, isaac-glynn, home-base, food-sharing-hypothesis, hunting-hypothesis, nunamiut.
@@ -4539,7 +4548,7 @@ Cambridge University Press regional synthesis (2015), prehistory→Han. China de
 - **Filed:** `raw/archaeology/gamble-settling-the-earth-2013.pdf` (+ `.txt`).
 - **Outstanding sources.md** #48 ✅. Cache cleaned after close.
 
-## [2026-07-15] ingest | Archaeology, Cultural Heritage, and the Antiquities Trade (Brodie, Kersel, Luke & Tubb, eds. 2006) | archaeology / heritage ethics | contemporary | Pages created: 6 | Pages updated: ~12
+## [2026-07-15] ingest | Archaeology, Cultural Heritage, and the Antiquities Trade (Brodie, Kersel, Luke & Tubb, eds. 2006) | archaeology / heritage ethics | contemporary | Pages created: 7 | Pages updated: ~12
 
 Multi-author Florida volume densifying the illicit-antiquities / cultural-property cluster. 6-agent line-range extraction (~567 claims); main-thread integration of debate + phenomenon + Iraq museum. Created: source, 5 thinkers (Brodie, Kersel, Luke, Tubb, Gerstenblith), iraq-national-museum. Empirical densify: market chain, Lydia/Ulúa, Iraq 1991–2005, Hollowell legal market, CPIA/NSPA law. Outstanding #41 ✅. Filed raw/archaeology/. Cache cleaned.
 
@@ -4554,3 +4563,270 @@ BAR IS 647 Gao Middle Niger excavation monograph. Re-OCR (~100k words); 5-agent 
 
 
 ## [2026-07-15] ingest | Pauketat, Chiefdoms and Other Archaeological Delusions (2007) | archaeology | contemporary | Pages created: 2 | Pages updated: 14 | 3-agent extraction 3/3; new theory page historical-processualism; chiefdom-concept genealogy + critique layer across chiefdom/band-tribe-chiefdom-model/chiefly-cycling/yoffee-norman; Cahokia debate mechanics recorded
+
+## [2026-07-15] ingest | Boas, Race, Language and Culture (Macmillan 1940 — PRIMARY) | anthropology / biological + linguistic anthropology | classical-era–fieldwork-revolution | Pages created: 4 | Pages updated: 14
+
+Boas's self-edited career anthology (~62 papers, 1887–1937), **primary text** — replaces the 2026-07-10 secondary-guide (Macat) provenance. IA/DLI scan, djvu OCR ~261k words / 32,957 lines, complete; body ~1640–32100, index after. **15-agent** disjoint line-range extraction (`scratchpad/rlc_cache/`, inventory **15/15**, ~380 claims, no content-filter blocks despite dense race-science refutation material). Main-thread review + 3-agent page-partitioned integration wave (Edit-only) for mid-stakes pages; anchors authored on main thread.
+- **Created:** study `boas-changes-in-bodily-form-study` (the immigrant head-form plasticity landmark; replication_status **reanalyzed-contested** — Sparks & Jantz 2002 vs Gravlee/Bernard/Leonard 2003, from later literature) + **Studies Hub** `hubs/studies/boas-changes-in-bodily-form-study`; method `anthropometry`; debate `nature-nurture-debate`.
+- **Updated:** rewrote source `boas-race-language-culture-1940` to primary (removed provenance flag); reframed study `boas-race-language-culture-study`; densified `boas-franz` (+ Thinkers Hub), `race`, `scientific-racism` (Boas–Keith exchange), `culture` (Zuni acculturation), `comparative-method` (1896 Limitations quoted), `historical-particularism` (+ theory hub, manifestos quoted), `race-and-culture-debate`, `cultural-evolutionism-debate` (Boas v Tylor on future-life), `social-evolutionism`, `psychic-unity-of-mankind`, `kwakiutl`, `northwest-coast-cultural-tradition`, `totemism`.
+- **Voice discipline:** whole corpus is one theorist → all attributed; each essay date-stamped to its original year, not 1940. Peopling-of-Americas material flagged as pre-genetics positions.
+- **Validators:** 0 NEW broken links vs session baseline; schema clean on new pages. Macat guide PDF renamed `seiferle-valencia-macat-boas-rlc-2017.pdf`. Filed `raw/anthropology/` (PDF + txt). Cache cleaned.
+
+## [2026-07-15] ingest | Anti-Judaism: The Western Tradition (Nirenberg 2013) | history / intellectual-history / historical-sociology | precursors–contemporary | Pages created: 7 | Pages updated: 8
+
+- **Source:** [[nirenberg-anti-judaism-2013]] — W. W. Norton 2013; long-span intellectual history of thinking *with* Judaism; ~168k body words (epub→txt); full body L127–3160.
+- **Extraction:** 5-agent one-wave line-range extraction; claims inventory **5/5 non-empty** (~373 claims: 70+77+70+70+86); no silent dropout. Sensitive/persecution and modernity/Nazi material full fidelity.
+- **Created:** source; thinker `nirenberg-david`; concepts `anti-judaism`, `judaizing`, `jewish-question`; debate `anti-judaism-continuity-debate`.
+- **Updated:** [[antisemitism]] (third explanatory axis), [[holocaust-and-modernity-debate]] (Position 7), [[marx-karl]] (1844 Jewish Question via Nirenberg), [[dialectic-of-enlightenment]], [[othering]], [[cohn-norman]], [[cohn-warrant-for-genocide-study]], [[jewish-world-conspiracy-myth]].
+- **Hubs/studies:** no studies/ page (theoretical-work / intellectual history, not landmark empirical study); no hub (single primary; not social-science discipline-maker).
+- **Load-bearing (attributed):** anti-Judaism as habit of thought / mask; Judaism as category; three methodological deviations; Holocaust inconceivable without deep history but not caused by it; Judaizing as transferable accusation; Marx 1844 insight + failure.
+- **Validators:** `scripts/check.sh --only` touched set — 0 broken links; schema empty-list fields normalized to `[[unknown]]`.
+- **Filed:** `raw/sociology/` (cross-disciplinary intellectual history filed with sociology cluster for antisemitism apparatus).
+- **Outstanding sources.md:** not listed (user-queued raw; no roadmap line). Cache cleaned after close.
+
+## [2026-07-15] ingest | Cohn, Warrant for Genocide (1967) | history / historical-sociology | postwar–contemporary | Pages created: 7 | Pages updated: 4
+
+Norman Cohn, *Warrant for Genocide: The Myth of the Jewish World Conspiracy and the Protocols of the Elders of Zion* (Eyre & Spottiswoode 1967; Serif 2005 OCR). Landmark history of the Protocols forgery and the [[jewish-world-conspiracy-myth]] as a **warrant for genocide** (attributed thesis).
+- **Intake:** DJVU 309 pp; djvutxt **~103.8k words**; body ~99k; 5 content-weighted cache ranges (`scratchpad/cohn_warrant_cache/`).
+- **Extraction:** 5 parallel agents; filesystem inventory **5/5 non-empty** (~54+40+70+55+54 claims). No silent dropout; no content-filter blocks.
+- **Created:** [[cohn-warrant-for-genocide-1967]] · [[cohn-warrant-for-genocide-study]] · [[cohn-norman]] · [[protocols-of-the-elders-of-zion]] · [[jewish-world-conspiracy-myth]] · [[antisemitism]] (seed; concurrent sessions also densified from Nirenberg)
+- **Updated:** [[genocide]] · [[holocaust-and-modernity-debate]] (Position 6) · [[millenarianism]] · [[scientific-racism]]
+- **Load-bearing (attributed):** quasi-demonological superstition; Protocols as vehicle not origin; Joly *Dialogue aux Enfers* plagiarism; Okhrana/Nilus milieu; White-army massacres; German 1920 explosion; Ford/*International Jew*; *völkisch* fusion; Hitler permeation; Nazi propaganda stages; Berne trial; Céline title thesis close
+- **Hubs:** Studies Hub deferred (single primary; no reception volume)
+- **Validators:** 0 NEW broken links vs session baseline; schema clean on cohn-* pages
+- **Filed:** `raw/sociology/cohn-warrant-for-genocide-1967.djvu` (+ `.txt`)
+
+## [2026-07-15] ingest | Wistrich, *A Lethal Obsession: Anti-Semitism from Antiquity to the Global Jihad* (2010) | history, sociology, political-science | contemporary | Pages created: 5 | Pages updated: 5
+
+- Epub→pandoc, 37,560 lines / ~367k words; word-count intake confirmed all 25 chapters + epilogue present (notes/index not captured).
+- 11-agent chapter-aligned extraction in one wave (`scratchpad/wistrich_cache/`); filesystem inventory 11/11 claims files non-empty; **zero content-filter blocks** despite filter-prone subject matter (sparse-verbatim + line-pointer instruction held).
+- Created: [[wistrich-lethal-obsession-2010]], [[wistrich-robert]], [[new-antisemitism]], [[new-antisemitism-debate]], [[holocaust-denial]]. Updated (Edit-append; concurrent Nirenberg/Dinnerstein sessions active on same pages): [[antisemitism]], [[protocols-of-the-elders-of-zion]], [[jewish-world-conspiracy-myth]], [[blood-libel]], [[cohn-norman]].
+- Voice: the anti-Zionism-continuity thesis, "red-green axis," "Eurabia," Mufti→Arafat genealogy, and the epilogue's nuclear warning all held at [THESIS]/[POSITION]; heavy reliability_notes on source page. No studies/ page (synthetic history, not a landmark empirical study); no hub warranted.
+- Validators: 0 new broken links vs session baseline; schema clean on all touched pages (fixed concurrent blood-libel page's missing Operationalizations section).
+- Filed `raw/sociology/wistrich-lethal-obsession-2010.epub` (+ .txt). Not on Outstanding sources.md (verified by grep); Structural_Sources entry added.
+
+## [2026-07-15] ingest | Antisemitism in America (Dinnerstein, 1994) | sociology, history-of-the-disciplines | classical-era–contemporary | Pages created: 9 | Pages updated: 3
+- **Method:** deployed subagents — 5 Sonnet extractors over disjoint ranges (body lines 397–11354), all full coverage; filter-prone topic handled per sensitive-content triage (no blocks occurred)
+- **Created:** [[dinnerstein-antisemitism-in-america-1994]] · [[dinnerstein-antisemitism-in-america-study]] · [[dinnerstein-leonard]] · [[american-jews]] · [[populism-antisemitism-debate]] · [[fdr-holocaust-rescue-debate]] · [[black-jewish-relations]] · [[blood-libel]] · [[archival-research]]
+- **Updated (Edit-append; concurrent Cohn/Nirenberg/Wistrich sessions live):** [[antisemitism]] (American Case section) · [[jewish-world-conspiracy-myth]] (American carriers) · [[scientific-racism]] (Ross/Grant → 1924 restriction)
+- **Deliberately not built (lean):** standalone Leo Frank, Coughlin, Ocean Hill–Brownsville, Herberg, Glock & Stark pages — covered in attributed depth on study/society/phenomenon pages
+- **Validators:** scoped pass clean (0 errors); 0 NEW broken links vs session baseline
+- **Filed:** `raw/sociology/dinnerstein-antisemitism-in-america-1994.pdf` (+ `.txt`)
+
+## [2026-07-15] query | Historical works explaining European anti-Judaism / antisemitism
+
+Synthesized from wiki pages (Nirenberg, Cohn, Bauman, Dinnerstein/Wistrich cluster); multi-causal map of historiography; no new pages filed.
+
+## [2026-07-16] ingest | The State and Revolution (Lenin, 1917/1918) | political-sociology, political-thought | classical-era / fieldwork-revolution | Pages created: 7 | Pages updated: 10
+
+- **Source:** Haymarket 2014 annotated English edition (Todd Chretien); text follows Progress CW vol. 25. PDF in `raw/` → `raw/sociology/`.
+- **Intake:** pdftotext -layout **~66.4k words** / 210 pp / 8,184 lines (~316 w/p — complete annotated volume: Chretien intro + Lenin body + chronology/glossary). Chapter 7 unfinished (manuscript breaks off); postscript Petrograd 30 Nov 1917.
+- **Extraction:** **4-agent** content-weighted disjoint ranges (`scratchpad/lenin_state_revolution_cache/`): R1 Chretien intro; R2 Prefaces+Ch1–2; R3 Ch3–4; R4 Ch5–7+postscript. Filesystem inventory **4/4 non-empty** (~70+72+80+74 = **~296 claims**). No silent dropout; no content-filter blocks.
+- **Created:** [[lenin-state-and-revolution-1917]] · [[lenin-vladimir]] · [[dictatorship-of-the-proletariat]] · [[smash-the-state-machine]] · [[marxist-theory-of-the-state]] · [[smash-or-capture-the-state-debate]]
+- **Updated:** [[withering-away-of-the-state]] · [[the-state]] · [[engels-friedrich]] · [[marx-karl]] · [[historical-materialism]] · [[political-sociology]] · [[relative-autonomy-of-the-state]] · [[social-revolution]] · [[marx-eighteenth-brumaire-study]] (+ light cross-links)
+- **Load-bearing (all attributed):** state as product of irreconcilable class antagonisms; “special bodies of armed men” (Lenin’s synthesis of Engels); smash not capture of the ready-made machine; dictatorship of the proletariat / Commune form “at last discovered”; dual formula — bourgeois state abolished, proletarian semi-state withers; Gotha lower/higher phases; two-front polemic (Kautsky/opportunism + anarchism); unfinished Russian 1905/1917 chapter
+- **No studies/ page** (theoretical–political pamphlet, not empirical research act). **Thinkers Hub deferred** (single pamphlet; *What Is to Be Done?*, *Imperialism*, Essential Works still in queue).
+- **Voice:** theoretical-work with heavy polemic character in reliability_notes; Chretien apparatus = partisan secondary, not findings.
+- **Validators:** scoped `check.sh --only lenin-,smash-,dictatorship…` ALL PASSED (0/0/0). Full wikilinks compare: 0 NEW broken from this ingest; concurrent Capital II session noise on other pages only.
+- **Filed:** `raw/sociology/State and Revolution (V. I. Lenin,  editorTodd Chretein) (z-library.sk, 1lib.sk, z-lib.sk).pdf` + `lenin-state-and-revolution-1917.txt`
+- **Outstanding sources.md:** not listed (verified). **Structural_Sources.md:** entry appended.
+
+## [2026-07-16] ingest | Capital: A Critique of Political Economy, Volume 2 (Marx, ed. Engels 1885; Penguin/Fernbach 1978) | sociology, political-economy | founding-era | Pages created: 7 | Pages updated: 10
+
+- **Intake:** pdftotext ~261k words / 23,714 lines — complete (TOC-matched Ch. 1–21 + Mandel intro + Engels prefaces + back matter). **8-agent** chapter-aligned extraction (`scratchpad/capital2_cache/`), one wave; inventory **8/8 non-empty** (~949 claim lines), full coverage, no recoveries.
+- **Two-stage integration:** main-thread claims review; main thread wrote reproduction-schemas, reproduction-schemas-debate, source page, marx-karl + engels-friedrich updates; 2 page-partitioned integrators wrote circuit-of-capital / turnover-of-capital / fixed-and-circulating-capital and quesnay-francois + surplus-value / constant-and-variable-capital / labor-theory-of-value / luxemburg-rosa / Capital-I cross-links.
+- **Created:** source `marx-capital-volume-2-1885`; concepts `reproduction-schemas`, `circuit-of-capital`, `turnover-of-capital`, `fixed-and-circulating-capital`; thinker `quesnay-francois`; debate `reproduction-schemas-debate` (Luxemburg / neo-harmonicists / Grossman / Mandel positions via Mandel intro — rebalance from primaries later).
+- **Load-bearing (attributed):** three circuit forms and their unity; circulation time creates no value; fixed/circulating ≠ constant/variable (Smith–Ricardo conflation critique); annual rate of surplus-value S′=s′·n; monetary-realization problem; I(v+s)=IIc; Smith's dogma; fixed-capital replacement as crisis source; Ch. 21 unfinished (Manuscript VIII).
+- **Source criticism:** Engels compiled from MSS II–VIII; signed "F.E." footnotes include substantive disagreement with Marx (Ch. 15) — in reliability_notes and engels-friedrich.
+- **No studies/ page** (theoretical work). Marx **Thinkers Hub still warranted-unbuilt** (now 4 primaries) — flagged to user.
+- **Validators:** scoped ALL PASSED; full compare **0 NEW broken links** (4 pre-existing); 1 schema error on reproduction-schemas fixed in-session; remaining errors belong to concurrent session's pages. Concurrent Lenin ingest merged cleanly on marx-karl / engels-friedrich.
+- Filed `raw/sociology/` (pdf).
+
+## [2026-07-16] ingest | Lenin Essential Works (3 sources) | political-thought / political-economy / political-sociology | classical-era / fieldwork-revolution | [Pages created: 11] | [Pages updated: 4]
+
+Triple-source ingest from *Essential Works of Lenin* (Christman ed.; Bantam 1966 / Dover 1987 epub; ~148k words). **State and Revolution skipped** (already [[lenin-state-and-revolution-1917]]). Extraction: 5 agents, filesystem inventory 5/5, ~347 claims.
+
+**Sources created:**
+- `lenin-development-of-capitalism-in-russia-1899` (excerpts only)
+- `lenin-what-is-to-be-done-1902` (Sec. V omitted in edition)
+- `lenin-imperialism-1917` (complete)
+
+**Also created:** concepts `economism`, `trade-union-consciousness`, `consciousness-from-without`, `professional-revolutionary`, `vanguard-party`, `finance-capital`; theory `lenin-theory-of-imperialism`; debate `spontaneity-vs-consciousness-debate`.
+
+**Updated:** `lenin-vladimir` (4 sources), `class-consciousness`, `historical-materialism`, `lenin-state-and-revolution-1917` (sibling links).
+
+**Load-bearing (attributed):** home market / peasant disintegration; trade-union consciousness + from without; professional revolutionaries; imperialism five features / finance capital / vs Kautsky ultra-imperialism.
+
+**Validators:** scoped check 0 errors; full wikilinks baseline compare — no new broken links on Lenin pages (Marx Cap. III concurrent noise only).
+
+**Filed:** Essential Works epub → `raw/sociology/`. Cache cleanup after close.
+
+## [2026-07-16] ingest | Capital: A Critique of Political Economy, Volume 3 (Marx, ed. Engels 1894; Penguin/Fernbach 1981) | sociology, political-economy | founding-era | Pages created: 8 | Pages updated: 10
+
+- **Intake:** pdftotext ~440k words / 45,605 lines — complete (largest ingest to date). **12-agent** chapter-aligned extraction (`scratchpad/capital3_cache/`), one wave; inventory **12/12 non-empty** (~1,466 claim lines), full coverage, no recoveries (one OCR-garbled passage in Ch. 33–34 flagged, not extracted).
+- **Two-stage integration:** main-thread claims review (full read of ranges 1 and 3 — the debate-roster and transformation ranges — summaries + targeted greps for the rest); main thread wrote price-of-production, tendential-fall-in-the-rate-of-profit, transformation-problem-debate, source page, marx-karl + engels-friedrich; integrator A created fictitious-capital / merchant-capital / ground-rent / trinity-formula; integrator B updated surplus-value, organic-composition-of-capital, labor-theory-of-value, commodity-fetishism, historical-materialism, Capital I + II source cross-links.
+- **Marx Thinkers Hub built** (`hubs/thinkers/marx-karl.md`, main-thread): nine canonical sections; works-timeline + concepts matrices; composition stratigraphy (Vol 3 drafted before Vol 1 published); the Engels editorial problem as first-class source criticism; counterfactual genealogy; portal + summary reciprocals set. Closes the long-flagged warranted-unbuilt item.
+- **Load-bearing (attributed):** two aggregate equalities + input-transformation acknowledgment; falling-rate law with counteracting factors; "real barrier of capitalist production is capital itself"; credit's dual role incl. joint-stock "abolition of capital as private property within the confines of the capitalist mode of production"; absolute vs differential rent; "innermost secret" passage → historical-materialism; trinity formula as "religion of everyday life"; Classes fragment breaking off. Engels's Supplement essays attributed to Engels.
+- **Source criticism:** Ch. 4 authored by Engels; Part Five reconstructed from "a disordered jumble of notes"; Ch. 43 largely Engels; prize-essay survey (Lexis→Stiebeling) seeds transformation-problem-debate. Period-language flags (Hardcastle 1843 quotation, Ch. 20 simile, O'Conor speech) in reliability_notes, attributed-only handling verified on pages.
+- **Validators:** 0 new broken links (4 pre-existing; 7 fixed by concurrent sessions); schema errors remaining belong to concurrent session's pages. Filed `raw/sociology/` (pdf).
+
+## [2026-07-16] ingest | Lenin Collected Works Vol. 13 (June 1907–April 1908) | political-thought / political-economy / political-sociology | classical-era | [Pages created: 7] | [Pages updated: 4]
+
+FLPH Moscow 1962 English (Isaacs/Dutt); Internet Archive PDF; **~188k words** / 554 pp. **6-agent** extraction; inventory **6/6**.
+
+**Created:** source `lenin-collected-works-vol-13-1962`; concepts `boycott-tactic`, `trade-union-neutrality`, `land-nationalisation`, `municipalisation`, `absolute-rent`; debate `nationalisation-vs-municipalisation-debate`.
+
+**Updated:** `lenin-vladimir`, `economism`, `historical-materialism`, `lenin-what-is-to-be-done-1902`.
+
+**Load-bearing (attributed):** active boycott conditions vs Third Duma participation; Stuttgart colonial/war/union debates; *Twelve Years* Right-tendency narrative; two agrarian paths; nationalisation vs municipalisation + absolute rent; 1917 Postscript; trade-union anti-neutrality.
+
+**Validators:** scoped 0 errors; baseline compare **0 new broken** on this session’s pages.
+
+**Filed:** PDF → `raw/sociology/`. Cache cleanup after close.
+
+## [2026-07-16] ingest | Quotations from Chairman Mao Tse-tung (Little Red Book; FLP English / Lin Biao 2nd-ed. foreword 1966) | political-thought, political-sociology | postwar-expansion / critical-turn | Pages created: 7 | Pages updated: 8
+
+Polemic/artifact-mode ingest. ebook-convert epub → ~44,500 words / 2,333 lines (complete 33 chapters + Lin Biao foreword). **Main-thread** extract (no live-page subagents); FACTS/THESES/QUOTES split.
+
+**Created:** source `mao-quotations-from-chairman-mao-1966`; thinker `mao-zedong`; theory `maoism`; concepts `mass-line`, `contradictions-among-the-people`, `peoples-war`; debate `class-struggle-under-socialism-debate`.
+
+**Updated:** `class-struggle`, `historical-materialism`, `dialectical-materialism`, `vanguard-party`, `ideology`, `peasantry-as-class`, `stalin-joseph`, `lenin-vladimir`.
+
+**Load-bearing (all attributed):** Party as core / three weapons; continuing class+ideological struggle after ownership transformation; antagonistic vs non-antagonistic contradictions; mass line “from the masses, to the masses”; people’s war + paper-tiger dualism; practice epistemology (*On Practice* / 1963); peasant wars as feudal China’s motive force; Lin Biao cult framing as historical position.
+
+**Validators:** scoped check ALL PASSED (0 errors); wikilinks baseline compare **0 new broken**. No studies/ hub (catechism, not research act).
+
+**Filed:** epub + txt → `raw/sociology/`. Cache cleanup after close.
+
+## [2026-07-16] ingest | Stalin, Dialectical and Historical Materialism (1938) | sociology, political-economy, philosophy | fieldwork-revolution | Pages created: 4 | Pages updated: 4
+
+Doctrinal pamphlet (§2, Ch.4 of the 1938 *Short Course*; 1975 Calcutta reprint of 1950 Moscow Eng. text; pdftotext ~12k words / 44 pp — complete). **Main-thread single-pass** (no subagents; below fan-out threshold). `source_type: theoretical-work`; heavy reliability_notes (state codification, Maoist reprint context, contested drafting). **Created:** source stalin-dialectical-and-historical-materialism-1938; thinker stalin-joseph; theory dialectical-materialism; concept base-and-superstructure (1859 Preface quoted in full in this source). **Updated:** historical-materialism (Stalinist-codification section; 1859 Preface note corrected), mode-of-production (five-stage schema), lenin-vladimir (MEC canonization), index. Load-bearing (all attributed): 4 features of dialectical method + 3 of philosophical materialism with political corollaries; geography/population negative determinations; mode of production = productive forces + relations of production; five-stage sequence; spontaneous forces / conscious revolutionary transition; negation-of-negation omitted. No studies/ page (doctrine, not empirical work); hubs not warranted on single pamphlet. Concurrent Mao *Quotations* session enriched the new pages in-flight (deliberate collaboration; Edit-append discipline held). Validators: full pass 0 errors, 0 broken links. Filed `raw/sociology/`. Not on Outstanding sources roadmap (no line to mark); Structural_Sources entry appended.
+
+## [2026-07-16] ingest | Mawdsley & White, The Soviet Elite from Lenin to Gorbachev (2000) | sociology, political-sociology | postwar–contemporary (subject 1917–1991) | Pages created: 16 | Pages updated: 10
+
+OUP 2000 full-period collective biography of CPSU Central Committee full/candidate members (N=1,932; 22 CCs). ebook-convert epub → ~164k words / 26.5k lines (complete). **8-agent** content-weighted extraction; filesystem inventory **8/8** claims files (~413 claims).
+
+**Created:** source `mawdsley-white-soviet-elite-2000`; study + **Studies Hub** `mawdsley-white-soviet-elite-study`; concepts `nomenklatura`, `job-slot-system`, `circular-flow-of-power`, `new-class`, `democratic-centralism`; institution `soviet-central-committee`; method `collective-biography`; thinkers `mawdsley-evan`, `white-stephen`, `daniels-robert-v`, `djilas-milovan` (stub), `voslensky-michael` (stub).
+
+**Updated:** `power-elite`, `bureaucracy`, `vanguard-party`, `circulation-of-elites`, `stalin-joseph`, `lenin-vladimir`, `political-sociology`, `archival-research`, `mills-c-wright`, source/study scaffolds densified.
+
+**Load-bearing (all attributed):** CC as operational elite; job-slot system matures ~1934 and survives Purge of incumbents; three elite revolutions (1917 / Purges / Gorbachev); 1934 CC → 32 survivors by 1939 (~70%+ repression); second-generation dominance through Brezhnev stability of cadres (20% turnover 1976); 1957 CC overrules Anti-Party Group; 1990 turnover 88% + de-elitization; privilege office-based; post-1991 nomenklatura power conversion. **Do not equate** with Mills US power-elite or vault `elite-recruitment` (Anthony).
+
+**Validators:** scoped schema 0 errors; wikilinks baseline compare **0 new broken** (3 fixed unrelated); lint 0 errors on new pages. Filed `raw/sociology/mawdsley-white-soviet-elite-2000.{epub,txt}`. Outstanding + Structural_Sources marked. Cache cleanup after close.
+
+## [2026-07-16] ingest | Lenin Collected Works — landmark gap-fill (M&E, Vol. 24/April Theses, Left-Wing Communism, Last Writings/Testament) | sociology, political-sociology | classical-era | Pages created: 11 | Pages updated: 22
+
+**Scope:** user-directed landmark gap-fill from the combined 45-volume CW file (⚠️ partial — 41 volumes remain). Slices: V14 M&E incl. Ten Questions; V24 complete body; V31 LWC; V33/36 late works + Letter to the Congress. 15 Sonnet extractors, one wave, 15/15 claims files; 3 integration agents by exclusive page cluster; main thread wrote all new pages + lenin-vladimir/stalin-joseph/trotsky-leon.
+
+**Created:** 4 sources, concepts dual-power / reflection-theory / new-economic-policy, debate empirio-criticism-debate, thinkers plekhanov-georgi / kautsky-karl / bogdanov-alexander.
+
+**Load-bearing (all attributed):** reflection theory + practice criterion (M&E); dual power coined and elaborated (V24); April Theses commune-state program; agrarian class differentiation; state monopoly capitalism / "moribund capitalism"; LWC compromise doctrine + fundamental law of revolution; On Co-operation NEP re-foundation; Testament characterizations incl. Stalin-removal addition (suppressed until 1956 — provenance noted).
+
+**Validators:** scoped run clean after 2 piped-link fixes; full pass 0 new broken links vs baseline (3 unrelated fixed). Deferred by scope decision: Vol. 3 full Development of Capitalism (excerpts already ingested), Vol. 38 Philosophical Notebooks. No studies/hub pages (theoretical works; Lenin thinkers-hub still deferred pending secondary sources).
+
+## [2026-07-16] ingest | Lenin CW wave 2 (Friends of the People, Impending Catastrophe, Vol. 26 selections, Renegade Kautsky, Tax in Kind/TU debate) | sociology, political-sociology | founding-era, classical-era | Pages created: 7 | Pages updated: ~30
+
+**Scope:** second landmark wave from the combined 45-vol file (⚠️ partial), volumes chosen by importance: 1894 founding polemic; Sept 1917 economic program; insurrection/October/Constituent Assembly cluster; the 1918 Kautsky polemic; the 1921 NEP-founding cluster. 13 extractors + 2 recovery slices (V26 October decrees, V32 Tax in Kind pamphlet body — TOC-offset mismatches caught at claims review); 15/15 claims files; 3 integration agents by exclusive cluster; main thread wrote all new pages + lenin-vladimir/kautsky/trotsky/plekhanov updates.
+
+**Created:** sources lenin-what-the-friends-of-the-people-are-1894, lenin-impending-catastrophe-1917, lenin-collected-works-vol-26-1964, lenin-proletarian-revolution-renegade-kautsky-1918, lenin-tax-in-kind-1921; concept state-capitalism; debate soviet-trade-union-debate.
+
+**Load-bearing (attributed):** 1894 historical-materialism codification + peasant differentiation + subjective-sociology dispute; state-monopoly capitalism as "threshold of socialism"; insurrection as an art (three conditions); state as class concept / 240,000 argument; dictatorship defined as rule "unrestricted by any laws" (vs Kautsky); October decrees + Constituent Assembly dissolution; TU debate ("school of communism", "workers' state with a bureaucratic twist"); Tenth Congress factions ban; tax in kind + five economic structures.
+
+**Validators:** scoped pass clean first try; full compare 0 new broken links. Kronstadt and Brest-Litovsk noted as future debate pages pending non-Lenin sources; Kautsky's own texts flagged as the top balance need.
+
+## [2026-07-16] ingest | Kautsky, The Dictatorship of the Proletariat (1918) | sociology, political-sociology | classical-era | Pages created: 1 | Pages updated: 8
+
+**Purpose:** first counter-source of the re-balance program — supplies the missing side of the 1918 Kautsky–Lenin dyad. 2 Sonnet extractors (~39k words, incl. John H. Kautsky's 1964 introduction extracted as secondary scholarship); main-thread integration.
+
+**Created:** kautsky-dictatorship-of-the-proletariat-1918. **Updated:** kautsky-karl (now primary- and secondary-sourced; one-sidedness caveat replaced), smash-or-capture-the-state-debate (position 2 stated from Kautsky's own text; two new shared-ground rows), dictatorship-of-the-proletariat (counter-reading section + critique table), marx-karl (1875-phrase dispute, both sides attributed), peasantry-as-class (Kautsky's peasant-state prognosis), lenin-proletarian-revolution-renegade-kautsky-1918 (dyad-closed reliability note: Lenin's quotations track the argument in outline but strip its grounds; JHK flags translation inaccuracies).
+
+**Validators:** scoped pass clean; 0 new broken links vs baseline. Queue: Trotsky's Terrorism and Communism reply now in raw/; Kollontai, Bogdanov, Avrich remain the open counter-source tiers.
+
+## [2026-07-16] ingest | Terrorism and Communism (Trotsky 1920) | political-sociology | classical-era/fieldwork-revolution | Pages created: 3 | Pages updated: 8
+
+Source: Verso 2007 Eng. of Workers Party of America 1920 ed. (`Dictatorship vs Democracy`); ~88k words / 237 pp. 6-agent one-wave extraction (inventory 6/6). Created: `trotsky-terrorism-and-communism-1920`, `red-terror`, `militarization-of-labour`. Updated: trotsky-leon, kautsky-karl, dictatorship-of-the-proletariat, smash-or-capture-the-state-debate, marxist-theory-of-the-state, soviet-trade-union-debate, vanguard-party, bureaucracy. Validators: 0 new broken links (scoped clean). Balance note: Kautsky's 1919 brochure of same title still un-ingested.
+
+## [2026-07-16] ingest | Kollontai, The Workers' Opposition (1921) | sociology, political-sociology | classical-era | Pages created: 2 | Pages updated: 6
+
+**Purpose:** counter-source #2 — the Workers' Opposition's only programmatic text, in its author's words. Single-agent extraction (~22k words); main-thread integration. Three registers kept distinct: Kollontai 1921 / Solidarity editors 1961-68 (secondary commentary, themselves partisan) / transmission facts.
+
+**Created:** kollontai-workers-opposition-1921, kollontai-alexandra (thin by design — feminist corpus un-ingested, flagged). **Updated:** soviet-trade-union-debate (position 4 in Kollontai's own words; reflexivity now records 3/4 positions primary-sourced), bureaucracy (mass-self-activity counter-theory + Solidarity structural critique), vanguard-party (anti-substitutionism), trade-union-consciousness (builders-not-schools), source cross-refs.
+
+**Validators:** clean first pass. Remaining counter-source queue in raw/: Bogdanov Tektology, Avrich Kronstadt 1921, Service Lenin biography, Trotsky Terrorism and Communism (sibling session ingested this already — verify before re-queueing).
+
+## [2026-07-16] ingest | Terrorism and Communism (Kautsky 1919) | political-sociology | classical-era/fieldwork-revolution | Pages created: 1 | Pages updated: 7
+
+Source: Eng. National Labour Press 1920 (Kerridge) of German 1919; ~76k words / 250 pp. 6-agent one-wave extraction (inventory 6/6). Created: `kautsky-terrorism-and-communism-1919`. Major rebalance: `red-terror` now dual-primary (Kautsky critique + Trotsky defence). Updated: kautsky-karl, dictatorship-of-the-proletariat, smash-or-capture-the-state-debate, trotsky-terrorism-and-communism-1920, marxist-theory-of-the-state, militarization-of-labour. Validators: 0 new broken links. Completes terror half of Kautsky–Trotsky exchange (Dictatorship 1918 already held).
+
+## [2026-07-16] ingest | Kronstadt 1921 (Avrich) | political-sociology | classical-era/fieldwork-revolution | Pages created: 5 | Pages updated: 6
+
+Source: Princeton 1970; ~85k words / 288 pp. 6-agent extraction 6/6. Created: `avrich-kronstadt-1921`, `avrich-kronstadt-study`, `kronstadt-debate`, `avrich-paul`, `war-communism`. Updated: NEP, Trotsky, Lenin, red-terror, soviet-trade-union-debate, vanguard-party. Unlocks Kronstadt beyond Lenin-only framing. Validators: 0 new broken links.
+
+## [2026-07-16] ingest | Bogdanov, Essays in Tektology (Gorelik trans.) | sociology, philosophy-of-social-science | classical-era | Pages created: 2 | Pages updated: 5
+
+**Purpose:** counter-source #3 — Bogdanov's mature system in his own words, ending the Lenin-only sourcing of bogdanov-alexander. 5 extractors, 5/5; main-thread integration.
+
+**Created:** theories/tektology (nine-section research-program page; the concept architecture, the anti-dialectics argument, the class-historical grounding, reception history with attributed anticipation thesis), source page. **Updated:** bogdanov-alexander (biography via Gorelik, mature system, rehabilitation history; death-circumstances deliberately left un-asserted — not in ingested text), empirio-criticism-debate ("Bogdanov's later answer" section; reflexivity updated), dialectical-materialism (tektological critique recorded as rival position), labor-theory-of-value, social-systems-theory.
+
+**Hygiene notes:** Gorelik's introduction kept in a secondary-scholarship register throughout; his Bertalanffy/Piaget/Thom parallels carry anachronism flags. Bogdanov's divergence-derived claims on "races" and sexual division of labor flagged as period speculation under the four-way non-identity rule, not promoted anywhere. OCR proper names (Plateau mis-scanned as Plato, etc.) flagged unverified.
+
+**Validators:** clean; 1 new broken link belongs to the sibling session's in-flight Service Lenin ingest (not chased). Counter-source program status: Kautsky ✅, Kollontai ✅, Tektology ✅, Avrich ✅ (sibling), Trotsky T&C ✅ (sibling); remaining: Kautsky's Terrorism and Communism (1919), Bogdanov's Empirio-monism, Service Lenin bio (sibling in progress).
+
+## [2026-07-16] ingest | Service, Lenin: A Biography (2000) | political-sociology / political-thought | classical-era–fieldwork-revolution | Pages created: 3 | Pages updated: 7
+
+Robert Service archival biography (~232k words, ebook-convert complete). **4-agent** one-wave extraction; inventory **4/4** (~25k words claims). Created: `service-lenin-2000`, `krupskaya-nadezhda`, `hubs/thinkers/lenin-vladimir`. Updated: `lenin-vladimir` (life-course/historiography), `trotsky-leon`, `stalin-joseph`, `vanguard-party`, `red-terror`, `new-economic-policy`, `kronstadt-debate`. Rebalances primary-heavy Lenin page with non-Soviet scholarly secondary; Service verdicts attributed. Filed `raw/sociology/`.
+
+## [2026-07-16] ingest | Bogdanov, Empiriomonism Books 1-3 (Rowley trans. 2020) | sociology, philosophy-of-social-science | classical-era | Pages created: 1 | Pages updated: 6
+
+**Purpose:** final counter-source — the primary text Lenin's Materialism and Empirio-criticism attacked. 6 extractors 6/6 (~217k words, clean Brill text); main-thread integration.
+
+**Key rebalances:** empirio-criticism-debate now states Bogdanov's position from his own text (socially-organized-experience formula verbatim; explicit anti-Machist self-positioning; his own clarification of the identity thesis against Axelrod; his side of the Plekhanov dispute) — both principals primary-sourced, divergences between Lenin's rendering and Bogdanov's text recorded as part of the debate's record. bogdanov-alexander gains the 1924 autobiography, Bazarov's suppressed 1928 memorial, and (via Rowley's apparatus citing Krementsov/White) the 1928 transfusion-death circumstances this session had earlier declined to assert. reflection-theory gains a shared-word/opposed-doctrines caution. historical-materialism gains historical monism as an attributed rival systematization.
+
+**Validators:** clean; 0 new broken links. Counter-source program COMPLETE: Kautsky Dictatorship + Terrorism ✅, Trotsky T&C ✅ (sibling), Kollontai ✅, Avrich ✅ (sibling), Tektology ✅, Empiriomonism ✅. Optional follow-ups in raw/: Tektology Book 1 (full volume), Service Lenin bio (sibling in progress).
+## [2026-07-16] ingest | Carr — The Russian Revolution: From Lenin to Stalin (1979) | political-sociology / political-economy | fieldwork-revolution–postwar-expansion (1917–1929 subject) | Pages created: 10 | Pages updated: 16
+
+E. H. Carr short distillation of *History of Soviet Russia*. pdftotext ~70k words / 215 pp. 5-agent extraction 5/5. Created source, thinker Carr, phenomenon russian-revolution, 6 concepts (socialism-in-one-country, scissors-crisis, five-year-plan, collectivization, left-opposition, united-front), institution comintern. Updated Lenin/Stalin/Trotsky + WC/NEP/dual-power/terror/state-capitalism/permanent-revolution/kronstadt/russian-question/bureaucracy/peasantry/vanguard/democratic-centralism/CC. No studies/hub (secondary reference). Filed raw/sociology/.
+
+## [2026-07-16] ingest | Bogdanov — Tektology Book 1 (Dudley/Hull 1996) | sociology / philosophy-of-social-science | classical-era | Pages created: 1 | Pages updated: 6
+
+Densify of full English Book 1 beyond Gorelik *Essays*. pdftotext ~116k words / 391 pp (OCR). **6-agent** one-wave extraction 6/6. Created: source `bogdanov-tektology-book1-1996`. Updated: `tektology` (major — architecture table, law of the leasts, primary Critiques from Addendum 3, dual-source reflexivity), `bogdanov-alexander` (biography densify; fixed stale historiography), `social-systems-theory`, `dialectical-materialism`, `empirio-criticism-debate`, `labor-theory-of-value`. Books 2–3 still out. Filed `raw/sociology/`.
+
+## [2026-07-16] ingest | Plekhanov, The Development of the Monist View of History (1895) | sociology, philosophy-of-social-science | founding-era, classical-era | Pages created: 1 | Pages updated: 8
+
+**Purpose:** primary-source the last major Lenin-era figure documented only through others' eyes. 4 extractors 4/4 (~115k words); main-thread integration.
+
+**Key gains:** the "dialectical materialism" naming footnote (1895) — the missing link between Engels's formulations and Lenin/Stalin codifications, with the 1895 content's differences from later orthodoxy documented via the Soviet edition's own corrective apparatus (kept as separate register); the mediated geography prime-mover scheme; "economy is itself a function of the productive forces"; the Bauer→Lavrov→Mikhailovsky genealogy of subjective sociology, paralleling Lenin 1894 against the same targets — the founding anti-Narodnik war now documented from both authors independently.
+
+**Validators:** clean; 0 new broken links. plekhanov-georgi historiography updated: Monist View primary; Our Differences, Feuerbach commentary, Role of the Individual still open.
+
+## [2026-07-16] ingest | Plekhanov, Fundamental Problems of Marxism (1908) | sociology, philosophy-of-social-science | classical-era | Pages created: 1 | Pages updated: 6
+
+**Purpose:** the founder's last systematic work, closing the Plekhanov bracket (1895 + 1908 both primary). 2 extractors 2/2 (~47k words, Riazanov 1928 ed.).
+
+**Key gains:** the Spinozism thesis verbatim-grounded; the five-term base/superstructure formula (social psychology as mediating term) on base-and-superstructure; leaps + logic-vs-dialectic essays on dialectical-materialism; and a dating correction for empirio-criticism-debate — Plekhanov's own 1908 text barely engages Machism; the anti-Bogdanov frame is Riazanov's 1928 preface (registers kept distinct; Materialismus Militans flagged as the real Plekhanov anti-Machist text, un-ingested). Riazanov correcting Plekhanov inside his own edition = second dated stratum of doctrinal curation.
+
+**Validators:** clean; 0 new broken links.
+
+## [2026-07-16] ingest | Plekhanov, Materialismus Militans (1908-10) | sociology, philosophy-of-social-science | classical-era | Pages created: 1 | Pages updated: 5
+
+**Purpose:** the last missing primary voice of empirio-criticism-debate. 2 extractors 2/2 (~44k words). All three principals (Lenin, Bogdanov, Plekhanov) now first-hand; the debate page's Plekhanov position rewritten from his own letters. Headline: the hieroglyph/copy epistemological divergence between Plekhanov and Lenin is now dual-documented — Plekhanov's defense + self-correction in his text, Lenin's 'obvious mistake' verdict recorded by the same edition's Soviet apparatus. Validators clean; 0 new broken links. Ingest 1 of 4 in the queued Plekhanov series.
+
+## [2026-07-16] ingest | Plekhanov, Notes to Engels's Ludwig Feuerbach (1892/1905) | sociology, philosophy-of-social-science | classical-era | Pages created: 1 | Pages updated: 4
+
+Ingest 2 of 4 in the Plekhanov series. The text Lenin mined in M&E, now first-hand: hieroglyph original in situ (relations-fidelity reading recorded); 1905 dialectics theses; animism genealogy. Citation gap flagged honestly: Lenin's ichthyosaurus citation not found in this transcription. Validators clean; 0 new broken links.
+
+## [2026-07-16] ingest | Plekhanov, On the Role of the Individual in History (1898) | sociology, philosophy-of-social-science | classical-era | Pages created: 1 | Pages updated: 3
+
+Ingest 3 of 4 in the Plekhanov series. The structure/agency classic: general-trend thesis, optical illusion of great-man causation, talent as socially produced, great men as beginners, anti-quietism. Flagged as early primary pole for the standing structure-agency debate page. Validators clean; 0 new broken links.
+
+## [2026-07-16] ingest | Plekhanov, Our Differences (1885) | sociology, political-sociology | founding-era | Pages created: 1 | Pages updated: 6
+
+Ingest 4 of 4 — Plekhanov series complete. The founding programmatic document of Russian Marxism: capitalism-already-developing statistical case (ancestor of Lenin's method), commune disintegration, anti-Blanquist 'seizure of power' polemic with the 'Peruvian despotism' warning, five-thesis program, two-stage perspective. smash-or-capture-the-state-debate gains its position 0 (the 1885 origin all later positions descend from or react against). plekhanov-georgi now rests on five primary works spanning 1885–1910. Validators clean; 0 new broken links across all four ingests in the series.
+
+## [2026-07-16] ingest | Lenin, The Development of Capitalism in Russia (CW Vol. 3, full text) | sociology, political-economy | classical-era | Pages created: 2 | Pages updated: 7
+
+Full-text upgrade of the excerpts-based source page. Home-market theory vs Narodnik underconsumptionism (realization via c+v+s and the two departments; Smith's dogma), the differentiation chapters (classification by economic strength; rural bourgeoisie ~1/5 vs allotment-holding rural proletariat ~1/2), labour-service transition, three-stages schema, mission-of-capitalism conclusion, 1907 two-agrarian-paths preface, and 'Uncritical Criticism' (1900) with Lenin's definition of orthodoxy vs the Struve/Tugan-Baranovsky 'critical trend'. New concise thinker pages for the two chief polemical targets now recurrent across three ingested sources: danielson-nikolai (N.-on) and struve-pyotr. Validators clean; 0 broken links.
+
+## [2026-07-16] ingest | Lenin, Philosophical Notebooks (CW Vol. 38) | sociology, philosophy-of-social-science | classical-era | Pages created: 1 | Pages updated: 8
+
+Lenin's private philosophical workshop, three dated strata kept distinct (1895 / 1909 / 1914-16) plus the Soviet canonization apparatus as a separate register. Key holdings: the Bern Hegel notebooks (16 elements of dialectics; 'none of the Marxists understood Marx'), 'On the Question of Dialectics' at full fidelity (unity/struggle of opposites; spiral; idealism as one-sided exaggeration / 'sterile flower on the living tree'), the anti-'dead mirroring' cognition passages feeding reflection-theory's open continuity-vs-revision question against the 1908 copy theory, and first-hand marginalia verdicts on Plekhanov ('nil!!' on Hegel's Logic) extending the documented Lenin-Plekhanov divergence. Plenge's antisemitic anti-Marx polemic preserved as attributed reception history on marx-karl. With this, the Lenin Collected Works ingest program is complete. Validators clean; 0 new broken links.

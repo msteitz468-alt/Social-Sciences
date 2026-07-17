@@ -7,7 +7,7 @@ date_introduced: "long pedigree; Maine Ancient Law 1861; classical sociological 
 supersedes: ["[[unknown]]"]
 epistemic_leverage: "Can establish regularities and contrasts across cases that single-case ethnography or chronicle cannot; for Maine, reconstructs legal history of institutions from Roman/Hindu/Teutonic codes; for Durkheim, the sole means of demonstrating sociological causation when artificial experiment is impossible."
 key_limitations: ["Galton's problem / non-independence of cases", "ethnographic quality of sources", "evolutionary ordering often smuggled into comparison", "selection bias in travellers' reports", "concomitant variation needs interpretation (spurious correlation)", "[[selectivity]] into comparative conditions", "contamination of quasi-experimental comparisons (Lieberson 1985)", "assumed symmetrical causation", "Maine: progressive/stationary binary and Indo-European sampling bias"]
-sources_ingested: 24
+sources_ingested: 25
 last_updated: 2026-07-15
 tags: [method]
 ---
@@ -78,6 +78,14 @@ Long comparative tradition (Montesquieu and others); Comtean historical filiatio
 
 
 - [[boas-franz|Boas]], *[[boas-mind-of-primitive-man-1938|The Mind of Primitive Man]]* (1911/1938) — **critique** of evolutionary comparison: trait similarity ≠ parallel development; control diffusion and incomparability; [[historical-particularism]] (attributed program).
+
+### Boas 1896 — "The Limitations of the Comparative Method of Anthropology": the founding manifesto
+
+*(Attributed — [[boas-franz|Boas]], "The Limitations of the Comparative Method of Anthropology," read at the AAAS Buffalo meeting, published *Science* N.S. vol. 4, 1896, pp. 901–908; collected in *[[boas-race-language-culture-1940|Race, Language and Culture]]*, 1940.)* Boas summarized the "modern" evolutionist consensus he was attacking — attributed to D. G. Brinton in the US and to followers of Adolf Bastian in Germany — that cross-cultural similarity reflects the "uniform working of the human mind" ([[psychic-unity-of-mankind]]) rather than historical connection, quoting Bastian's own phrase for it: "the appalling monotony of the fundamental ideas of mankind all over the globe" (p. 270–271); he named [[tylor-edward-burnett|Tylor]], Spencer, Bastian, Andree, and Post as the school's principal collectors of parallel-trait evidence (p. 271). His closing statement frames the two methods as rivals for anthropology's soul: "The comparative method and the historical method... have been struggling for supremacy for a long time... The comparative method... has been remarkably barren of definite results, and I believe it will not become fruitful until we renounce the vain endeavor to construct a uniform systematic history of the evolution of culture" (p. 280) — reacted_against: [[social-evolutionism]], [[cultural-evolutionism-debate]]. This essay is the direct methodological seed of [[historical-particularism]]; deep treatment (including its afterlife in Boas's later "Evolution or Diffusion?" 1924 and "History and Science in Anthropology" 1936 essays) is in the [[hubs/theory/historical-particularism|Theory Hub]].
+
+### Boas 1920 — "The Methods of Ethnology": the three-way methodological map
+
+*(Attributed — [[boas-franz|Boas]], "The Methods of Ethnology," *American Anthropologist* N.S. vol. 22, 1920, pp. 311–322; collected in *[[boas-race-language-culture-1940|Race, Language and Culture]]*.)* Boas laid out the comparative method's three live twentieth-century rivals as he saw them: (1) nineteenth-century evolutionism (Spencer, Morgan, [[tylor-edward-burnett|Tylor]], Lubbock — "uniform evolution of culture in which all parts of mankind participated"); (2) diffusionism (traced to Ratzel's influence, developed by Fritz Graebner and Konrad Theodor Preuss, and taken to extremes by G. Elliot Smith and W. H. R. Rivers as hyperdiffusionism); and (3) the American historical/particularist school Boas himself represented (p. 281). He stated a historical-causation principle distinguishing natural-science from historical explanation: "in historical happenings we are compelled to consider every phenomenon not only as effect but also as cause," illustrated by a feedback loop between food surplus, population increase, leisure, and invention (p. 285). See [[evolutionism-diffusionism-debate]].
 ## Geertz: interpretive comparison of incommensurables (1983)
 
 In "Local Knowledge: Fact and Law" (*[[geertz-local-knowledge-1983|Local Knowledge]]*, 1983),

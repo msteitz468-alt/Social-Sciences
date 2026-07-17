@@ -4,10 +4,10 @@ theory_page: "[[historical-particularism]]"
 disciplines: [anthropology]
 era_origin: [classical-era]
 originated_by: ["[[boas-franz]]"]
-key_texts: ["Boas, Limitations of the Comparative Method (1896)", "[[boas-mind-of-primitive-man-1938|The Mind of Primitive Man (1911; rev. 1938)]]"]
+key_texts: ["Boas, Limitations of the Comparative Method (1896)", "[[boas-mind-of-primitive-man-1938|The Mind of Primitive Man (1911; rev. 1938)]]", "Boas, The Methods of Ethnology (1920)", "Boas, Evolution or Diffusion? (1924)", "Boas, The Aims of Anthropological Research (1932)", "Boas, History and Science in Anthropology: A Reply (1936)"]
 status: absorbed
-key_sources: ["[[boas-mind-of-primitive-man-1938]]"]
-last_updated: 2026-07-09
+key_sources: ["[[boas-mind-of-primitive-man-1938]]", "[[boas-race-language-culture-1940]]"]
+last_updated: 2026-07-15
 tags: [hub, theory-analysis]
 ---
 
@@ -15,7 +15,7 @@ tags: [hub, theory-analysis]
 
 > Theory Hub deep analysis. Summary: [[historical-particularism]]. Link hub by full path `[[hubs/theory/historical-particularism]]`.
 
-**Scope.** Primary base: *[[boas-mind-of-primitive-man-1938|The Mind of Primitive Man]]* (1938 rev.). The 1896 Limitations essay is part of the program's architecture but not a separate ingested source. Student monographs, culture-area studies, and neo-evolutionist primary texts are not yet ingested — claims about the school's empirical practice and later rivals beyond *Mind* are attributed and provisional.
+**Scope.** Primary base: *[[boas-mind-of-primitive-man-1938|The Mind of Primitive Man]]* (1938 rev.) plus *[[boas-race-language-culture-1940|Race, Language and Culture]]* (1940), the collected-essays volume that supplies the 1896, 1920, 1924, 1932, and 1936 programmatic texts quoted below at load-bearing length. Student monographs, culture-area studies, and neo-evolutionist primary texts beyond White and Steward are not yet ingested — claims about the school's empirical practice and later rivals are attributed and provisional.
 
 All programmatic claims in **attributed voice**.
 
@@ -68,11 +68,43 @@ Before ranking a practice, reconstruct its history and meaning in context. This 
 | Text | Year | Move it makes | Reception |
 |---|---|---|---|
 | Limitations of the Comparative Method | 1896 | Methodological break with evolutionary comparison | Founding critique |
+| The Methods of Ethnology | 1920 | Maps evolutionism / hyperdiffusionism / American historical school as three rival methods | Programmatic self-positioning |
 | *The Mind of Primitive Man* | 1911 / 1938 | Full scientific-political synthesis | School program text; teaching classic |
-| *Race, Language and Culture* | 1940 | Collected papers | Reference corpus |
+| Evolution or Diffusion? | 1924 | Defends convergence against Graebner's diffusion-only criterion of relatedness | Anti-hyperdiffusionist rejoinder |
+| The Aims of Anthropological Research | 1932 | AAAS presidential address restating history as anthropology's necessary material | Programmatic address |
+| History and Science in Anthropology: A Reply | 1936 | Restates historicism against Kroeber's "descriptive integration" reading | Intramural Boas–Kroeber debate |
+| *Race, Language and Culture* | 1940 | Collected papers (includes all essays above) | Reference corpus |
 | Student ethnographies / culture-area work | 1900–1940s | Empirical particularism | Remade US anthropology (not yet ingested) |
 
 **Proponents:** [[boas-franz]]; students (Kroeber, Lowie, Sapir, Benedict, Mead, Herskovits — link when ingested).
+
+## The Founding and Follow-On Manifestos, Quoted
+
+*(Attributed throughout — [[boas-franz|Boas]], essays as collected in *[[boas-race-language-culture-1940|Race, Language and Culture]]*, 1940; each essay dated to its original publication per the wiki's date-by-key-text convention, not the 1940 collection date.)*
+
+**"The Limitations of the Comparative Method of Anthropology" (1896)**, read at the AAAS Buffalo meeting, published *Science* N.S. vol. 4 (1896), pp. 901–908 — the program's founding text. Boas characterized the "modern view" he opposed (attributed to D. G. Brinton in the US and to followers of Adolf Bastian in Germany) as holding that cross-cultural resemblance reflects the "uniform working of the human mind" rather than historical connection — Bastian's own phrase for the pattern was "the appalling monotony of the fundamental ideas of mankind all over the globe" (pp. 270–271) — and named [[tylor-edward-burnett|Tylor]], Spencer, Bastian, Andree, and Post as the school's chief collectors of parallel-trait evidence (p. 271). His closing statement sets up the whole subsequent research program as a rejection of trait-comparison in favor of local history:
+
+> "The comparative method and the historical method... have been struggling for supremacy for a long time... The comparative method... has been remarkably barren of definite results, and I believe it will not become fruitful until we renounce the vain endeavor to construct a uniform systematic history of the evolution of culture." (p. 280)
+
+**"The Methods of Ethnology" (1920)**, *American Anthropologist* N.S. vol. 22 (1920), pp. 311–322. Boas framed a three-way methodological contrast: (1) nineteenth-century evolutionism (Spencer, Morgan, Tylor, Lubbock — "uniform evolution of culture in which all parts of mankind participated"); (2) diffusionism (traced to Ratzel, developed by Fritz Graebner and Konrad Theodor Preuss, taken to hyperdiffusionist extremes by G. Elliot Smith and W. H. R. Rivers); and (3) the American historical/particularist school he represented (p. 281). He used the historiography of Zuni ethnography as a worked case: Frank Hamilton Cushing is credited with deep insight but criticized for explaining Zuni culture wholly via "the reaction of the Zuni mind to its geographical environment," whereas Elsie Clews Parsons's studies (with [[kroeber-alfred-l|Kroeber]]'s investigations) are credited with proving "the deep influence which Spanish ideas have had upon Zuni culture" via **[[acculturation]]** — naming Leslie Spier, Ruth Benedict, and Ruth Bunzel as further students of Zuni culture (pp. 286–287). He also stated the program's historical-causation principle: "in historical happenings we are compelled to consider every phenomenon not only as effect but also as cause," illustrated by a feedback loop between food surplus, population increase, leisure, and invention (p. 285).
+
+**"Evolution or Diffusion?" (1924)**, *American Anthropologist* N.S. vol. 26 (1924), pp. 290–304. Drawing on his own North Pacific Coast work and Parsons's Tewa study, Boas argued that geographically extreme regions show distinctive social-organization types while intermediate regions show transitional/mixed types (p. 290) — a diffusion-consistent distributional pattern. Against Graebner's claim that only historical (diffusive) connection supplies an objective criterion of relatedness, and that independent development is unprovable, Boas held that "certain types of changes due to internal forces have been observed everywhere, and that... the question of similar or dissimilar evolution through internal forces does not rest on a more hypothetical basis than changes due to transmission" (p. 297) — crediting himself with having raised this convergence issue earlier, in the 1896 Limitations essay and in *The Mind of Primitive Man* (1901) (p. 297). His sharpest methodological warning:
+
+> "All ethnic units, separated from their cultural setting, are artificial units, and we always omit in our comparisons certain groups of distinctive characteristics." (p. 299)
+
+He illustrated with taboo as an apparent unit category masking psychologically distinct sources — fear, custom, ownership, sacredness — and rejected Graebner's equation of "causal connection" with historical/diffusive connection as circular (pp. 299–301).
+
+**"The Aims of Anthropological Research" (1932)**, AAAS presidential address, Atlantic City, Dec. 1932; *Science* N.S. vol. 76 (1932), pp. 605–613. Boas defined anthropology's objective as "the attempt to understand the steps by which man has come to be what he is, biologically, psychologically and culturally," concluding "our material must necessarily be historical material, historical in the widest sense of the term" (p. 244 in the 1940 collection pagination) — the clearest single-sentence statement of the program's disciplinary self-definition.
+
+**"History and Science in Anthropology: A Reply" (1936)**, reply to [[kroeber-alfred-l|Kroeber]], pp. 305–311. Boas restated his long-standing position against Kroeber's characterization of the historical approach as mere "descriptive integration":
+
+> "To understand a phenomenon we have to know not only what it is, but also how it came into being. Our problem is historical." ... "I confess that to me this does not give any sense." (p. 305)
+
+He conceded a real shift in his own emphasis — early stress (from 1895) on acculturation and diffusion (historical/diffusionist methods), then, from around 1910, a turn toward cultural dynamics, the integration of culture, and individual–society interaction (functionalist-adjacent concerns) (p. 311) — and closed with a self-limiting epistemic caveat rare among programmatic statements of the era:
+
+> "In my opinion a system of social anthropology and 'laws' of cultural development as rigid as those of physics are supposed to be are unattainable in the present stage of our knowledge... nothing will ever be found that deserves the name of a law excepting those psychological, biologically determined characteristics which are common to all cultures." ... "Absolute systems of phenomena as complex as those of culture are impossible. They will always be reflections of our own culture." (p. 311)
+
+This exchange is the primary documentary source for the intramural Boas–Kroeber historiography dispute referenced under Critiques and Responses on the summary page, and is a candidate for a dedicated `debates/` page (historical particularism vs. functionalist/synthetic history in anthropology) if a fuller Kroeber-authored source is later ingested to state his side independently.
 
 ## The Empirical Program
 
@@ -251,7 +283,7 @@ Particularism survived as **default constraints** because violating them repeate
 
 - Summary: [[historical-particularism]]
 - Thinker: [[boas-franz]] · [[hubs/thinkers/boas-franz]]
-- Source: [[boas-mind-of-primitive-man-1938]]
+- Source: [[boas-mind-of-primitive-man-1938]] · [[boas-race-language-culture-1940]]
 - Debates: [[cultural-evolutionism-debate]] · [[race-and-culture-debate]]
 - Concepts: [[cultural-relativism]] · [[race]] · [[culture]] · [[psychic-unity-of-mankind]]
 - Rivals: [[social-evolutionism]] · Method: [[comparative-method]]

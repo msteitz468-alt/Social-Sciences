@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "assumption that all human minds share the same basic constitution, so similar conditions independently produce similar culture"
 contested: yes
 related_concepts: ["[[social-evolutionism]]", "[[comparative-method]]", "[[culture]]", "[[historical-particularism]]", "[[cultural-relativism]]"]
-sources_ingested: 3
-last_updated: 2026-07-09
+sources_ingested: 4
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -22,6 +22,8 @@ The doctrine that the human mind is everywhere essentially the same in its basic
 ## Semantic History
 
 For Tylor the doctrine had a double edge, both **anti-racist for its day** and **evolutionist**: it asserted the fundamental mental equality of all peoples (against polygenist race-science that held "savages" to be a different, lower kind of human) — the "savage" is a rational philosopher reasoning correctly from limited data — while simultaneously licensing the ranking of *cultures* (not minds) on a single developmental ladder, since uniform minds pass through uniform stages. Later anthropology split these: [[boas-franz|Boasians]] kept psychic unity but used it *against* evolutionism — *[[boas-mind-of-primitive-man-1938|The Mind of Primitive Man]]* states "no fundamental difference in the ways of thinking of primitive and civilized man" while denying that shared processes entail a unilinear cultural ladder; similar traits need not mean parallel independent invention (diffusion or accident); cognitive and structural anthropology (Lévi-Strauss's universal structures of mind) gave it new, non-evolutionist forms; evolutionary psychology revives a version as a universal evolved architecture.
+
+Boas sharpened this split explicitly in "The Idea of the Future Life among Primitive Tribes" (1922, in *[[boas-race-language-culture-1940|Race, Language and Culture]]*): he retained a version of psychic unity — a shared human tendency to nominalize qualities and conditions as substances, generating "soul" concepts everywhere via convergent psychological mechanisms (the life-soul, the memory-image soul) — while explicitly rejecting Tylor's *further* claim that uniform minds produce a uniform *rational, evolutionary sequence* of religious ideas "regardless of race and historical affiliations." For Boas the growth of such ideas is "involuntary," not the outcome of parallel rational deduction, and cross-cultural resemblance must additionally be checked against diffusion before being read as independent convergence. See [[cultural-evolutionism-debate]].
 
 ## Operationalizations
 

@@ -8,8 +8,8 @@ emic_or_etic: etic
 operationalized_as: "Not a measurement construct; structural inversion whereby social relations of producers appear as objective properties of commodities / money"
 contested: yes
 related_concepts: ["[[commodity]]", "[[labor-theory-of-value]]", "[[mode-of-production]]", "[[money-economy]]", "[[devil-contract]]", "[[baptism-of-money]]", "[[tio]]", "[[reification]]", "[[body-commodification]]"]
-sources_ingested: 6
-last_updated: 2026-07-15
+sources_ingested: 7
+last_updated: 2026-07-16
 tags: [concept]
 ---
 
@@ -53,6 +53,17 @@ Not quantified. Markers Marx offers:
 - **Scheper-Hughes — fetishized kidney / organs trafficking (2001/2002):** In "Commodity Fetishism in Organs Trafficking," published in *[[scheper-hughes-wacquant-commodifying-bodies-2002|Commodifying Bodies]]* (originally *Body & Society* 7.2–3, 2001), [[scheper-hughes-nancy|Nancy Scheper-Hughes]] applies commodity fetishism to the global [[human-organs-trade|human organs trade]] and [[body-commodification]]. She argues (attributed) that the transplant kidney emerges as the "ultimate fetish," promising life, vitality, and *élan*, while naturalizing an extraordinary practice; that fetish energy attaches especially to the *purchased living* kidney (alive, young, "animate") over cadaveric organs imagined as nearly dead; and that the ultimate fetish, following Illich, is "life" itself as an object of endless manipulation — a fetishization that, she holds, erases a social ethic. Organs Watch's mandate, as she states it, includes forging a language "unencumbered by the medical rhetoric of scarcities, gifts, altruism and life-saving."
 - **Lock — gene / cell-line commodity fetishism (2001/2002):** In the same volume, [[lock-margaret|Margaret Lock]] ("The Alienation of Body Tissue and the Biopolitics of Immortalized Cell Lines") argues that escalating procurement of human body materials constitutes a nearly uncontrolled **globalized commodity fetishism** in which Appadurai's "regimes of value" at production and consumption sites are far removed; human body parts, she holds, do not have universal value, and once convertible into circulating commodities their worth and alienability are open to dispute. She also channels Haraway's "corporeal fetishism": reification of cells, genes, or parts obscures heterogeneous human/non-human interactions, leaving "exotic" donors especially vulnerable to biocapitalist exploitation (attributed, Lock).
 
+## Volume 3 Extensions (1894)
+
+In *[[marx-capital-volume-3-1894|Capital, Volume III]]* (ed. Engels, 1894), Marx traces an **ascending series of fetishization** as surplus-value's origin recedes further from view at each stage of its transformation and distribution.
+
+- **Profit obscures surplus-value.** Once surplus-value appears as profit on the total capital advanced (rather than on variable capital alone), "the capital relationship is mystified" — every portion of capital appears equally as a source of the "excess value."
+- **Interest-bearing capital as the most superficial and fetishized form.** In [[fictitious-capital|interest-bearing capital]]'s circulation form M–M′ (money directly yielding more money, without the intervening C of commercial capital's M–C–M′), "capital appears as money breeding money": "In the form of interest-bearing capital, capital appears immediately in this form, unmediated by the production and circulation processes. Capital appears as a mysterious and self-creating source of interest, of its own increase." Money/commodities become capital "simply as a thing," and it becomes "as completely the property of money to create value, to yield interest, as it is the property of a pear tree to bear pears" (Ch. 24).
+- **The [[trinity-formula]] as completed fetishism.** Marx's closing formula — "Capital-profit (profit of enterprise plus interest), land-groundrent, labour-wages, this trinity form holds in itself all the mysteries of the social production process" — represents fetishism's endpoint: land (a use-value) is conflated with rent (an exchange-value), capital (a value) with interest (more value than it is worth), and labour with "price of labour" ("just as irrational as a yellow logarithm"). Marx calls this "the religion of everyday life," which classical political economy partially dissolved by reducing interest to a share of profit and rent to surplus above average profit, but whose best representatives "remained more or less trapped in the world of illusion their criticism had dissolved" (Ch. 48).
+- **The monetary/credit-system closing analogy.** Concluding the discussion of money capital and the credit system (Ch. 35): "The monetary system is essentially Catholic, the credit system essentially Protestant... It is faith that brings salvation. Faith in money value as the immanent spirit of commodities, faith in the mode of production and its predestined disposition, faith in the individual agents of production as mere personifications of self-valorizing capital. But the credit system is no more emancipated from the monetary system as its basis than Protestantism is from the foundations of Catholicism."
+
+Links: [[marx-capital-volume-3-1894]] · [[trinity-formula]] · [[fictitious-capital]] · [[surplus-value]]
+
 ## Critiques and Limitations
 
 - Contested as metaphysics by critics of Marxism; defended as social epistemology of markets.
@@ -68,7 +79,7 @@ Not quantified. Markers Marx offers:
 - related: [[commodity]] · [[labor-theory-of-value]] · [[surplus-value]] · [[devil-contract]] · [[baptism-of-money]] · [[tio]] · [[reification]] · [[object-biography]] · [[commoditization]] · [[body-commodification]] · [[human-organs-trade]]
 - contrast: [[money-economy]] · [[value]]
 - evidenced_by: [[marx-capital-volume-1-study]] · [[taussig-devil-commodity-fetishism-study]]
-- source: [[marx-capital-volume-1-1867]] · [[taussig-devil-commodity-fetishism-1980]] · [[appadurai-social-life-of-things-1986]] · [[scheper-hughes-wacquant-commodifying-bodies-2002]]
+- source: [[marx-capital-volume-1-1867]] · [[marx-capital-volume-3-1894]] · [[taussig-devil-commodity-fetishism-1980]] · [[appadurai-social-life-of-things-1986]] · [[scheper-hughes-wacquant-commodifying-bodies-2002]]
 
 ## From Taussig *Shamanism* (1987 ingest)
 

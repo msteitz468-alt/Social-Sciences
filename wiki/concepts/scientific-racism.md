@@ -7,9 +7,9 @@ disciplines: [anthropology, biological-anthropology, sociology]
 emic_or_etic: etic
 operationalized_as: "the use of ostensibly scientific methods (craniometry, anthropometry, IQ testing, later genetics) to construct, rank, or naturalize human 'races' and justify social hierarchy"
 contested: yes
-related_concepts: ["[[race]]", "[[polygenism]]", "[[racialization]]", "[[social-darwinism]]", "[[conservation-of-races]]", "[[savagery-barbarism-civilization]]", "[[psychic-unity-of-mankind]]"]
-sources_ingested: 1
-last_updated: 2026-07-10
+related_concepts: ["[[race]]", "[[polygenism]]", "[[racialization]]", "[[social-darwinism]]", "[[conservation-of-races]]", "[[savagery-barbarism-civilization]]", "[[psychic-unity-of-mankind]]", "[[jewish-world-conspiracy-myth]]", "[[antisemitism]]"]
+sources_ingested: 3
+last_updated: 2026-07-15
 tags: [concept]
 ---
 
@@ -57,11 +57,27 @@ refutation. Its central anthropological antagonist is **Boas**: in
 *[[boas-race-language-culture-1940|Race, Language and Culture]]* (1940) and
 *[[boas-mind-of-primitive-man-1938|The Mind of Primitive Man]]* (1911/1938) he argued —
 using the anthropometric tools of his opponents — that cranial form is environmentally
-plastic (immigrant head-form change within a generation), that "racial type" is a
-misleading construct, and that race, language, and culture vary independently. See
-[[race-and-culture-debate]], [[historical-particularism]]. The concept also underwrites
+plastic (immigrant head-form change within a generation — see
+[[boas-changes-in-bodily-form-study]] and [[anthropometry]]), that "racial type" is a
+misleading construct, and that race, language, and culture vary independently. In "Race
+and Progress" (1931) Boas directly rebutted Sir Arthur Keith's claim that race prejudice
+is "implanted by nature … for her own end — the improvement of mankind through racial
+differentiation," arguing such antipathy is a social effect common to all closed groups
+(Roman patrician/plebeian, Spartan/Helot, caste), not a biological racial phenomenon. See
+[[race-and-culture-debate]], [[historical-particularism]], [[nature-nurture-debate]]. The concept also underwrites
 [[racialization]], [[conservation-of-races]] (Du Bois's counter-formulation), and the
-critique of [[savagery-barbarism-civilization]] ranking.
+critique of [[savagery-barbarism-civilization]] ranking. In Holocaust ideology history,
+[[cohn-norman|Cohn]] (*[[cohn-warrant-for-genocide-1967|Warrant for Genocide]]*, Ch. 8)
+argues that Germanic *völkisch* racial doctrine **fused** with the
+[[jewish-world-conspiracy-myth]] so that a political forgery (the
+*[[protocols-of-the-elders-of-zion|Protocols]]*) was reread as a racial war plan —
+turning conspiracy fantasy into an extermination warrant (attributed). In the American
+policy register, [[dinnerstein-antisemitism-in-america-study|Dinnerstein]] (1994, attributed)
+documents race science's antisemitic application: E. A. Ross's racialized immigrant
+typologies (1912–14), Madison Grant's *The Passing of the Great Race* (1916) ranking "the
+Polish Jew" least desirable of all, and Lothrop Stoddard's and Kenneth Roberts's
+"Nordic"-threat polemics — a literature feeding the Dillingham Commission (1911) and the
+1921/1924 immigration-restriction acts.
 
 ## Critiques and Limitations
 
@@ -73,8 +89,8 @@ framing, and (c) the political uses to which findings were put — collapsing th
 itself a source of error. The AAA and modern population genetics hold that most human
 genetic variation lies *within* conventional racial groupings, so that "race" is a social
 construct with real social consequences rather than a biological natural kind — a position
-Boas anticipated on anthropometric grounds nearly fifty years earlier
-*(as reported in Seiferle-Valencia 2017)*.
+Boas anticipated on anthropometric grounds nearly fifty years earlier (*Race, Language and
+Culture*, 1940, primary text).
 
 ## Links
 

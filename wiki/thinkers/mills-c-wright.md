@@ -11,7 +11,7 @@ key_works: ["From Max Weber: Essays in Sociology (1946, ed. with Hans Gerth)", "
 key_concepts: [white-collar, new-middle-class, status-panic, personality-market, cheerful-robot, mass-society, sociological-imagination, personal-troubles-and-public-issues, grand-theory, abstracted-empiricism, craftsmanship, power-elite, higher-circles, middle-levels-of-power, organized-irresponsibility, higher-immorality, military-ascendancy, theory-of-balance]
 fieldwork_sites: ["New York City (128 white-collar interviews, 1946)", "Middle-West and New England cities (stratification field studies, 1945)"]
 sources_ingested: 3
-last_updated: 2026-07-08
+last_updated: 2026-07-16
 tags: [thinker, sociology]
 ---
 
@@ -144,3 +144,7 @@ go-ahead rather than assumed, given its scale (a 4,000–5,000-word intellectual
 on the full trilogy plus Gitlin/Jacoby/Horowitz reception).
 
 **Later program link:** [[hochschild-arlie-russell|Hochschild]] (*[[hochschild-managed-heart-1983|The Managed Heart]]*, 1983) develops Mills's [[personality-market]] and psychological misery of the great salesroom into a full labor process of [[emotional-labor|emotional labor]] and [[commercialization-of-feeling]] (attributed); see [[hubs/studies/hochschild-managed-heart-study]].
+
+## Comparative note
+
+Soviet party-state elite operationalized differently in [[mawdsley-white-soviet-elite-study]] (Central Committee / [[nomenklatura]] / [[job-slot-system]]) — useful contrast case for [[power-elite]] without equating the constructs.

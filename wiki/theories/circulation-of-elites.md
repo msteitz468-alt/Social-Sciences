@@ -15,8 +15,8 @@ core_claims:
 developed_from: ["[[paretian-sociology]]"]
 competes_with: ["[[historical-materialism]]"]
 status: active
-sources_ingested: 1
-last_updated: 2026-07-08
+sources_ingested: 2
+last_updated: 2026-07-16
 tags: [theory, sociology]
 ---
 
@@ -77,3 +77,7 @@ Written from a Lausanne/Italian elite vantage hostile to contemporary “pluto-d
 - Thinker: [[pareto-vilfredo]]
 - Source: [[pareto-mind-and-society-1935]]
 - Concepts: [[lions-and-foxes]] · [[demagogic-plutocracy]] · [[speculators-and-rentiers]] · [[combination-instinct]] · [[group-persistence]] · [[paretian-social-equilibrium]] · [[residues]]
+
+## Empirical Program (Soviet case)
+
+[[mawdsley-white-soviet-elite-study|Mawdsley & White (2000)]] use circulation language for Soviet Central Committee turnover across three "elite revolutions" (1917; Purges; Gorbachev 1986–90) and ask whether post-1991 change was circulation vs replacement vs **power conversion** into private property. Their operational elite is the CC tier under a [[job-slot-system]], not Pareto's residue psychology — link as comparative application, not identity of theory.

@@ -7,12 +7,12 @@ date_end: recurrent
 period: modern
 region: [global-north, global-south]
 measured_by: ["Legal definition (1948 UN Genocide Convention: acts intended to destroy, in whole or in part, a national/ethnic/racial/religious group)", "Raphael Lemkin's 1944 coinage", "death tolls and victim-group demography", "typologies distinguishing genocide from politicide, ethnic cleansing, and communal massacre"]
-driven_by: ["state monopoly of violence emancipated from social control (attributed: Bauman)", "social-engineering / 'gardening' design ambitions (attributed: Bauman)", "bureaucratic-administrative capacity (attributed: Bauman)", "racism and eliminationist ideology (attributed: Goldhagen and others)", "war and communal antagonism"]
+driven_by: ["state monopoly of violence emancipated from social control (attributed: Bauman)", "social-engineering / 'gardening' design ambitions (attributed: Bauman)", "bureaucratic-administrative capacity (attributed: Bauman)", "racism and eliminationist ideology (attributed: Goldhagen and others)", "quasi-demonological conspiracy myth as warrant (attributed: Cohn)", "war and communal antagonism"]
 produces: ["destruction of targeted groups", "displacement and diaspora", "hereditary/transmitted victimhood (attributed: Bauman 2000)"]
-theorized_by: ["[[bauman-zygmunt]]", "[[appadurai-arjun]]"]
-key_studies: ["[[bauman-modernity-holocaust-1989]]"]
-sources_ingested: 1
-last_updated: 2026-07-09
+theorized_by: ["[[bauman-zygmunt]]", "[[appadurai-arjun]]", "[[cohn-norman]]"]
+key_studies: ["[[bauman-modernity-holocaust-1989]]", "[[cohn-warrant-for-genocide-study]]"]
+sources_ingested: 2
+last_updated: 2026-07-15
 tags: [phenomenon, global-north, global-south]
 ---
 
@@ -20,7 +20,7 @@ tags: [phenomenon, global-north, global-south]
 
 ## Definition and Scope
 
-**Genocide** — a term coined by the jurist Raphael Lemkin in 1944 and given legal form in the 1948 UN Genocide Convention (acts intended to destroy, in whole or in part, a national, ethnic, racial, or religious group) — denotes the organized destruction of a human group as such. As a social phenomenon it is analyzed alongside, and distinguished from, communal massacre, pogrom, politicide, and ethnic cleansing. This wiki treats the Holocaust of European Jewry (c. 6 million killed, within more than 20 million people killed under the Nazi regime) as the most intensively documented case, ingested through [[bauman-zygmunt|Zygmunt Bauman]]'s *[[bauman-modernity-holocaust-1989|Modernity and the Holocaust]]*; the Rwandan genocide (1994) and the former Yugoslavia are further modern cases Bauman invokes.
+**Genocide** — a term coined by the jurist Raphael Lemkin in 1944 and given legal form in the 1948 UN Genocide Convention (acts intended to destroy, in whole or in part, a national, ethnic, racial, or religious group) — denotes the organized destruction of a human group as such. As a social phenomenon it is analyzed alongside, and distinguished from, communal massacre, pogrom, politicide, and ethnic cleansing. This wiki treats the Holocaust of European Jewry (c. 6 million killed, within more than 20 million people killed under the Nazi regime) as the most intensively documented case, ingested through [[bauman-zygmunt|Zygmunt Bauman]]'s *[[bauman-modernity-holocaust-1989|Modernity and the Holocaust]]* and, for the ideology/myth strand, [[cohn-norman|Norman Cohn]]'s *[[cohn-warrant-for-genocide-1967|Warrant for Genocide]]* (1967); the Rwandan genocide (1994) and the former Yugoslavia are further modern cases Bauman invokes.
 
 ## Measurement
 
@@ -35,9 +35,16 @@ Bauman's theorization (attributed voice; a contested framework, not a wiki-voice
 - **"Recipe for genocide."** Bauman's structural formula: modern genocide follows when a bureaucratic apparatus capable of genocidal action meets a grand design of a perfect society (the [[gardening-state]]) *and* a state whose monopoly of violence has been emancipated from non-political (economic, social, communal) counterweights. "As far as modernity goes, genocide is neither abnormal nor a case of malfunction."
 - **Genocide as categorial murder (2000).** In the Afterword, Bauman (with Roberto Toscano) defines genocide as murder that "hav[es] a category for its object": the concrete face of the victim must first be erased into an abstraction — Rwanda's killers sorting victims "according to the entries in their passports."
 
+Cohn's warrant thesis (attributed; ideology/myth strand — see [[cohn-warrant-for-genocide-study]], [[jewish-world-conspiracy-myth]]):
+
+- **Quasi-demonological warrant.** Cohn argues the drive to exterminate the Jews sprang from a conviction that Jews everywhere form a conspiratorial body set on dominating mankind — a myth whose supreme vehicle was the forged *[[protocols-of-the-elders-of-zion|Protocols of the Elders of Zion]]* — more than from ordinary interest-conflict or "racial prejudice as such."
+- **Crisis + myth.** WWI, revolution, and the slump enabled the myth's capture of mass publics and states; without the myth, Cohn holds, those disasters alone would not have produced Auschwitz.
+- **Racism fusion.** When the conspiracy myth fused with Germanic *völkisch* [[scientific-racism|racism]] and state power, it became (in his title phrase) a **warrant for genocide**. He also traces earlier massacres under White armies during the Russian civil war as myth-structured pogrom politics.
+
 ## Explanatory Theories (side by side, attributed)
 
 - **Bauman (modernity thesis):** genocide is a latent possibility of modern rationality, bureaucracy, and design ambition — not a regression.
+- **Cohn (conspiracy-myth warrant):** genocidal antisemitism requires a quasi-demonological [[jewish-world-conspiracy-myth]] that licenses extermination; modern crises and racial ideology amplify it.
 - **Ideology/antisemitism-centred accounts (e.g. Goldhagen):** genocide is driven by eliminationist belief specific to a culture, not by generic modern organization.
 - **Perennialist accounts:** mass killing is a trans-historical feature of human communal life that modernity failed to suppress but did not cause.
 - **Appadurai (majoritarian/globalization thesis, 2006):** genocide grows from the [[anxiety-of-incompleteness]] — the gap between a census-made numerical majority and the fantasy of a pure national ethnos — mobilized into [[predatory-identity|predatory identities]]; all majoritarianisms "have in them the seeds of genocide," and globalization (migration, mediated hybridity, illicit finance) intensifies the fear that majority and minority may trade places. See [[appadurai-fear-of-small-numbers-2006]].
@@ -46,7 +53,7 @@ These positions are recorded in full on [[holocaust-and-modernity-debate]].
 
 ## Interaction
 
-Genocide interacts with racism (as a modern, science-inflected form — see [[gardening-state]] and [[modernization-theory]]), with state formation and the monopoly of violence ([[weber-max|Weber]], [[bureaucracy]]), and with the [[civilizing-process-debate|civilizing process]] (Bauman argues "civilized manners" proved fully compatible with mass murder).
+Genocide interacts with racism (as a modern, science-inflected form — see [[gardening-state]] and [[modernization-theory]]), with state formation and the monopoly of violence ([[weber-max|Weber]], [[bureaucracy]]), with conspiracy-myth [[antisemitism]] ([[cohn-norman|Cohn]]), and with the [[civilizing-process-debate|civilizing process]] (Bauman argues "civilized manners" proved fully compatible with mass murder).
 
 ## Debates
 

@@ -40,6 +40,12 @@ Single source of truth (create on first hub ingest, then lock):
 ---
 
 ## Completed
+
+### Vladimir Ilyich Lenin (1870–1924)
+- Summary: [[lenin-vladimir]]
+- Hub: [[hubs/thinkers/lenin-vladimir]]
+- Bolshevik founder / October / one-party state; primary CW holdings + Service *Lenin: A Biography* (2000); formation, pivots, Testament, cult (2026-07-16)
+- [[hubs/thinkers/marx-karl|Karl Marx]] — conflict tradition founder; Capital I–III + Manifesto + Brumaire; surplus-value, transformation, reproduction schemas; the Engels editorial problem; contested-estate reception (2026-07-16)
 - [[hubs/thinkers/labov-william|William Labov]] — variationist founder; Harlem BEV; variable rules; Observer's Paradox; deficit-difference intervention (2026-07-15)
 
 ### Bruce G. Trigger (1937–2006)

@@ -3,10 +3,10 @@ title: "Was the Holocaust a Product of Modernity or a Failure of It?"
 dispute_type: theoretical
 disciplines: [sociology, social-theory, historical-sociology]
 era: [contemporary]
-positions: ["Holocaust as product/possibility of modernity (Bauman)", "Holocaust as eruption of pre-modern barbarism / thin-veneer-of-civilization (Hobbesian)", "Holocaust as perennial genocide modernity failed to suppress (modernity innocent)", "Holocaust as eliminationist antisemitism specific to German culture (Goldhagen)", "Alarmist: 'Auschwitz is everywhere' (Feingold, Kuper, Kren & Rapoport)"]
-key_texts: ["[[bauman-modernity-holocaust-1989|Bauman, Modernity and the Holocaust (1989)]]", "Goldhagen, Hitler's Willing Executioners (1996)", "Browning, Ordinary Men (1992)"]
+positions: ["Holocaust as product/possibility of modernity (Bauman)", "Holocaust as eruption of pre-modern barbarism / thin-veneer-of-civilization (Hobbesian)", "Holocaust as perennial genocide modernity failed to suppress (modernity innocent)", "Holocaust as eliminationist antisemitism specific to German culture (Goldhagen)", "Alarmist: 'Auschwitz is everywhere' (Feingold, Kuper, Kren & Rapoport)", "Holocaust as outcome of quasi-demonological Jewish world-conspiracy myth as warrant (Cohn)", "Inconceivable without deep anti-Judaism history, not caused by it (Nirenberg)"]
+key_texts: ["[[bauman-modernity-holocaust-1989|Bauman, Modernity and the Holocaust (1989)]]", "[[cohn-warrant-for-genocide-1967|Cohn, Warrant for Genocide (1967)]]", "[[nirenberg-anti-judaism-2013|Nirenberg, Anti-Judaism (2013)]]", "Goldhagen, Hitler's Willing Executioners (1996)", "Browning, Ordinary Men (1992)"]
 resolution_status: open
-last_updated: 2026-07-09
+last_updated: 2026-07-15
 tags: [debate]
 ---
 
@@ -34,10 +34,18 @@ Daniel Goldhagen's *Hitler's Willing Executioners* (1996) argues a **monocausal*
 
 Henry Feingold, Leo Kuper, and George Kren & Leon Rapoport hold that the system and ideology that produced Auschwitz "remains intact," that the sovereign state retains an unchecked capacity for genocide, and that "existence now is more and more recognizably in accord with the principles that governed life and death in Auschwitz." Bauman shares the structural diagnosis but criticizes this framing as exaggerated and self-defeating: "if everything we know is like Auschwitz, then one can live with Auschwitz."
 
+## Position 6 — Conspiracy-myth warrant (Cohn)
+
+[[cohn-norman|Norman Cohn]]'s *[[cohn-warrant-for-genocide-1967|Warrant for Genocide]]* (1967) argues that the deadliest, genocidal form of [[antisemitism]] sprang from a **quasi-demonological** [[jewish-world-conspiracy-myth]] — the conviction that all Jews form a conspiratorial body set on ruining and dominating mankind — whose supreme vehicle was the forged *[[protocols-of-the-elders-of-zion|Protocols of the Elders of Zion]]*. In its strongest form: forgotten subterranean writers built a myth that, under WWI/revolution/slump and fused with Germanic *völkisch* racism and state power, became a **warrant for genocide**; disasters alone would not have produced Auschwitz without that myth. Cohn documents the forgery's plagiarism (Joly), Russian and White-army careers, interwar global spread (including Ford), Hitler's permeation by the text, and Nazi propaganda stages through extermination justification. This is an **ideology/myth** explanation complementary to (not identical with) Goldhagen's eliminationist culture: Cohn stresses a transnational forgery tradition and demonological structure, not only a German national disposition. Relative to Bauman, Cohn foregrounds belief-content and textual carriers where Bauman foregrounds bureaucracy and moral distance; both can be held without forcing a single monocause.
+
+## Position 7 — Deep anti-Judaism as condition of conceivability (Nirenberg)
+
+[[nirenberg-david|David Nirenberg]] (*[[nirenberg-anti-judaism-2013|Anti-Judaism]]*, 2013, attributed) is not a modernity-sociology thesis in Bauman’s sense, but supplies a related formula for the Holocaust’s **possibility-space**: the West’s long history of [[anti-judaism|Jewish questions]] did **not cause** the Final Solution and did not make it inevitable; yet the Holocaust was **inconceivable without** that history. He rejects German *Sonderweg* uniqueness of the habit (widespread in Europe and the US) while noting common history alone cannot explain why Germany enacted genocide. Full continuity dispute: [[anti-judaism-continuity-debate]]. Complements Cohn’s myth-warrant (Position 6) and Bauman’s organization (Position 1) without collapsing into either.
+
 ## Shared Factual Ground, Framed Per Side
 
-All parties accept the historical record of the destruction process and its bureaucratic character (Hilberg); they divide over its *cause and meaning* — whether the decisive variable is modern organization (Bauman), culturally specific hatred (Goldhagen), perennial human cruelty (Position 3), or the fragility of civilization (Position 2). A related but distinct historians' dispute — **intentionalist vs. functionalist** accounts of when and how the extermination was decided — bears on the debate (Bauman leans functionalist) but is a separate question about decision-making, not about modernity.
+All parties accept the historical record of the destruction process and its bureaucratic character (Hilberg); they divide over its *cause and meaning* — whether the decisive variable is modern organization (Bauman), culturally specific hatred (Goldhagen), conspiracy-myth ideology (Cohn), deep intellectual habits of anti-Judaism as condition of conceivability (Nirenberg), perennial human cruelty (Position 3), or the fragility of civilization (Position 2). Cohn's demonstration that the Protocols are a forgery plagiarized largely from Joly is not disputed among serious scholars; dispute attaches to **how much causal weight** the myth carries relative to organization, situation, and longer thought-habits. A related but distinct historians' dispute — **intentionalist vs. functionalist** accounts of when and how the extermination was decided — bears on the debate (Bauman leans functionalist; Cohn's Hitler materials lean intentionalist-compatible) but is a separate question about decision-making, not about modernity alone.
 
-## Curator's Note (2026-07-09)
+## Curator's Note (2026-07-09; updated 2026-07-15)
 
-Recorded from a single ingested source (Bauman 1989/2000), which is itself Position 1 and reports the others as an advocate. The Goldhagen, Browning, and perennialist texts are not yet ingested; their positions here are as Bauman renders them and should be widened when those works are read directly. `resolution_status: open`.
+Originally recorded from a single ingested source (Bauman 1989/2000), which is itself Position 1 and reports Positions 2–5 as an advocate. **2026-07-15:** Position 6 added from direct ingest of Cohn 1967; Position 7 from Nirenberg 2013. The Goldhagen, Browning, and perennialist texts are still not ingested as primaries; their positions remain partly as Bauman renders them. `resolution_status: open`.
