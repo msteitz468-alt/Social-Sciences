@@ -31,12 +31,19 @@ cross-vault wikilinks; where historical context is needed, state it in prose.
 
 ## Task-Observer Activation (mandatory)
 
-At the start of any task-oriented session (ingest, lint, query, or any tool-using
-work), invoke the `task-observer` (`one-skill-to-rule-them-all`) skill **before**
-reading source content or beginning work. It captures skill-improvement observations
-and runs the session-start protocol (weekly-review check, observation log). When
-loading any skill, also check `skill-observations/log.md` for OPEN observations
-relevant to the work and apply their insight even if the skill file isn't yet updated.
+**Main agent / orchestrating session only.** At the start of any task-oriented
+session (ingest, lint, query, or any tool-using work), the **main agent** invokes
+the `task-observer` (`one-skill-to-rule-them-all`) skill **before** reading source
+content or beginning work. It captures skill-improvement observations and runs the
+session-start protocol (weekly-review check, observation log). When loading any
+skill, also check `skill-observations/log.md` for OPEN observations relevant to the
+work and apply their insight even if the skill file isn't yet updated.
+
+**Subagents must not run task-observer.** Extraction, integration, and other scoped
+child agents skip task-observer and all session-start skill protocols unless the user
+explicitly asks that child to improve a skill. Put this negative instruction in every
+extractor/integrator prompt — inherited CLAUDE.md activation is not a license for
+children to re-enter the meta-skill stack (it burns turns and can stall claims files).
 
 ---
 
@@ -828,6 +835,14 @@ the evidence classes below; know which, and weight accordingly.
   position labels, `resolution_status`, or `reliability_notes`. Much of the
   social-science culture-war literature (race and IQ, sociobiology polemics,
   decolonization polemics from any direction) belongs in this mode.
+- **Public-domain OCR monographs (edition vs year).** Bibliographic year and
+  *textual state* are different facts. Queue names and Anna's Archive labels often
+  encode first publication; the body may be a later revision. Before locking
+  frontmatter `year`, scan for post-first-edition markers (war dates after the
+  claimed year, later works cited, copyright/revised-edition lines). Prefer
+  `year` = first publication with an explicit `reliability_notes` clause when the
+  body is a later revision — never silently attribute revised interpolations to the
+  first-edition date.
 
 ---
 
@@ -875,20 +890,65 @@ comparable length).
    checklist state + claims inventory (which ranges done/missing), not a re-plan and
    not a long apology without status.
 
-**Step 1 — Scaffold first, on the main thread.** Before anything else, run a
-**word-count intake check**: `wc -w` the raw text and compare against expected length
-(~250–350 words/page × page count). Converted ebooks fail silently — an epub→txt run can
-capture only Part One and drop the rest while the TOC still lists every chapter, so a
-TOC-only read won't catch it. If the ratio is badly off, grep for each TOC chapter
-heading in the body to find where the text actually ends, and note the incompleteness on
-the source page and in `reliability_notes`. Then read enough (TOC, intro, conclusion,
-targeted sampling) to: write the **source page** (with Section Plan for large volumes);
-create the **key thinker/theory/concept/method/society/site pages** everything links to;
-decide whether the work earns a **`studies/` page**, and whether a **hub page**
-(`hubs/thinkers/`, `hubs/studies/`, `hubs/theory/`) is warranted — pre-establish its
-name; decide the **topic taxonomy** and **naming conventions** for every page the ingest
-will create. Do not spawn any agent until naming conventions and the set of linkable
-page names exist on disk — subagents inherit names, never invent structural ones.
+**Step 1 — Scaffold first, on the main thread.**
+
+**Claim-the-ingest (before scaffolding).** Check whether `wiki/sources/[slug].md`
+already exists or the work is already marked ingested on `Outstanding sources.md` /
+`Structural_Sources.md`. If another session owns this source, **stop and ask the user**
+— do not run a second full extract. Write the source-page stub as the first artifact so
+a sibling session's check can see it. Same-source parallel ingest wastes wall-clock and
+produces colliding bookkeeping even when Edit-append limits content damage.
+
+**Resume-incomplete check.** If a source page exists with an `ingested:` date but (a)
+no matching `wiki/log.md` line, or (b) the file is still in `raw/` root, or (c) the
+trackers are unmarked — treat as incomplete bookkeeping and finish Step 6 before
+re-extracting.
+
+**Word-count / text-layer intake check.** Run `wc -w` on the raw text and compare
+against expected length (~250–350 words/page × page count). Note: `wc` prints
+*lines words chars* — use the words column, not the first number. Converted ebooks
+fail silently — an epub→txt run can capture only Part One and drop the rest while the
+TOC still lists every chapter, so a TOC-only read won't catch it. If the ratio is badly
+off, grep for each TOC chapter heading in the body to find where the text actually
+ends, and note incompleteness on the source page and in `reliability_notes`.
+
+**Scanned / image-only recovery ladder** (when pdftotext/ebook-convert yield ~0 or
+<< expected words):
+1. Confirm image-only: many page images in the archive, empty or wrapper-only text.
+2. Prefer workspace-local temp (`scratchpad/tmp_ocr` or `TMPDIR` on the project disk) —
+   never rely on small tmpfs `/tmp` for 300+ page OCR (ocrmypdf can hit ENOSPC and
+   silently zero the sidecar).
+3. **PDF:** try `ocrmypdf` at ~200 DPI with project-local temp; if it fails (DuXiu
+   diacritic crashes, etc.), fall back to parallel `pdftoppm` + `tesseract` with
+   `OMP_THREAD_LIMIT=1` per worker (naive parallel tesseract oversubscribes cores).
+4. **Image-only epub:** do not treat as empty — run ordered-page OCR following HTML
+   reading order (low-res scans: 2× upscale + psm 3). Prefer `ebook-convert` over
+   pandoc `-t plain` for normal epubs (pandoc can inflate word count via ASCII-art
+   borders); image epubs still need OCR.
+5. Cache OCR text to the session cache (`…/full.txt`) and file as
+   `raw/…/author-title-year.txt` after ingest. Budget 15–40 min for ~150–200 page
+   scans — state the OCR tax up front so long runs are expected, not discovered.
+
+Then read enough (TOC, intro, conclusion, targeted sampling) to: write the **source
+page** (with Section Plan for large volumes); create the **key
+thinker/theory/concept/method/society/site pages** everything links to; decide whether
+the work earns a **`studies/` page**, and whether a **hub page** (`hubs/thinkers/`,
+`hubs/studies/`, `hubs/theory/`) is warranted — pre-establish its name; decide the
+**topic taxonomy** and **naming conventions** for every page the ingest will create.
+Do not spawn any agent until naming conventions and the set of linkable page names
+exist on disk — subagents inherit names, never invent structural ones.
+
+**Grep-verify coined terms before scaffolding concept pages.** Before committing a
+pre-named concept/theory page that rests on a specific term, grep the converted source
+for that term. If absent, drop the page or route content into an adjacent
+source-grounded page — never create a term-page the ingested source does not support
+(outside-knowledge contamination at scaffold time).
+
+**Multi-site theoretical monographs.** A book's best-known field site is not always
+its only site. Spot-read empirical chapters (not only the preface) for place names and
+list **all** documented populations in extractor briefs. Site switches are entity
+boundaries — agents already flag entity mismatches; emphasize site-switching as a
+common trigger.
 
 **A warranted hub page is part of the ingest, not a follow-up.** If the source meets a
 hub's selection criteria (see the three Hub sections), create the hub page **in the same
@@ -909,10 +969,17 @@ manufactures duplicate-slug collisions (this exact mistake created a duplicate
 check only looked in `societies/`). Grep both name orders (`durkheim-emile` /
 `emile-durkheim`), check synonymous titles (`structural-functionalism` / `functionalism`),
 and watch for the same entity split across folders (a school in both `theories/` and
-`disciplines/`, a people in both `societies/` and `cultures/`). State the canonical name in
-every agent prompt and queue any duplicates found for a main-thread merge in Step 4.
-Pre-resolving naming ambiguity once is far cheaper than letting N agents each rediscover and
-work around the same duplicate.
+`disciplines/`, a people in both `societies/` and `cultures/`). **Ethnonym collision
+check:** if a society/culture slug already exists, verify region + type before locking
+it — the same ethnonym can name unrelated peoples (e.g. African Tonga vs Polynesian
+Tonga); on mismatch, use a disambiguated slug (`plateau-tonga`, etc.) and ban bare
+`[[tonga]]` for the other entity. **Concurrent same-author risk:** when multiple works
+by one thinker may be under concurrent ingest, `ls`/`find` shared concept slugs
+immediately before creating each new page and agree a shared vocabulary scheme — the
+wikilink checker cannot see duplicate *canonical* pages that both resolve. State the
+canonical name in every agent prompt and queue any duplicates found for a main-thread
+merge in Step 4. Pre-resolving naming ambiguity once is far cheaper than letting N
+agents each rediscover and work around the same duplicate.
 
 **Step 2 — Split the book by disjoint line-ranges.** Divide raw text into N contiguous,
 non-overlapping chunks by line number.
@@ -927,6 +994,10 @@ non-overlapping chunks by line number.
   natural section/chapter boundaries only where it doesn't fight the weighting — content
   weight wins.
 - Ranges must be **disjoint** — every line in exactly one chunk.
+- **Include Acknowledgments/colophon when they carry origin facts.** Lecture series
+  dates, commission notes, Rhind/host facts, and similar paratext are load-bearing for
+  the source page. Fold them into the last body range by default (or assign them to
+  main-thread ownership at scaffold) — do not leave them outside all exclusive slices.
 - **Sensitive-content triage (mandatory).** While drawing chunk boundaries, flag any
   range dense in atrocity/persecution documentation — genocide, mass violence, slavery,
   torture, sexual violence, residential-school and forced-assimilation records — **and
@@ -937,53 +1008,73 @@ non-overlapping chunks by line number.
   never toned down, summarized around, or omitted** — the risk is mechanical: automated
   output filters can block a subagent's *entire* extraction when it reproduces such
   material verbatim at high concentration. Handle flagged ranges as follows:
-  1. **Route the flagged range to the main thread by default** — the main thread
-     reads the cache slice directly and writes the extraction itself, at full
-     fidelity, quotes included. Give subagents the surrounding lighter ranges.
-  2. If the flagged range is too long for comfortable main-thread reading,
-     split it: subagents take the procedural/analytic stretches; the main
-     thread takes the concentrated documentation.
-  3. Only if neither is practical, spawn a subagent with instructions to keep
-     verbatim quotation of graphic passages sparse and pointered (record exact
-     line numbers for the main thread to pull quotes from the cache slice
-     afterward) — the facts, numbers, dates, and perpetrator/victim details are
-     still extracted in full.
+  1. **Preferred for filter-prone charged-discourse sources:** spawn extractors with a
+     **sparse-verbatim + line-pointer** clause — paraphrase claims; record exact line
+     numbers for load-bearing quotes the main thread can pull from the cache slice.
+     Filters are largely triggered by high-concentration verbatim reproduction, not by
+     subject matter alone. Size ranges so a single-range main-thread recovery stays
+     comfortable (~2.5k–4k lines) as the fallback.
+  2. **Route maximally graphic atrocity documentation to the main thread** when
+     sparse-verbatim is not enough — main thread reads the cache slice and extracts at
+     full fidelity. Give subagents the surrounding lighter ranges.
+  3. If a flagged range is too long for comfortable main-thread reading, split it:
+     subagents take procedural/analytic stretches; main thread takes concentrated
+     documentation.
   The end state is identical in every case: the wiki page carries the complete
   record, with verbatim quotes where they are load-bearing.
   - **Race-science, sociobiology-war, and extremist-ideology sources are filter-prone
     regardless of graphic density.** Content-filter blocks on these sources are
     effectively stochastic — the *least* graphic range (definitional typology, doctrine
     exposition, refutation) is as likely to be blocked as the most graphic. Do not rely
-    on triage to predict which range blocks: instead **size every range so a
-    single-range main-thread recovery stays comfortable**, and treat the Step-3 recovery
-    path (main thread reads the cache slice and extracts at full fidelity) as the real
-    safeguard. A block is a routing signal, never a content problem.
+    on triage to predict which range blocks. A block is a routing signal, never a
+    content problem.
 
 **Step 3 — Spawn one Sonnet subagent per chunk (parallel + background).** Use
 the Agent tool with **`model: sonnet`** and `run_in_background: true`, one agent per
 chunk. Each prompt must contain: its **exclusive line-range** (read only that range); the
 **schema and naming conventions** from this file — including the **Voice and Attribution
 Protocol** (extractions must mark each claim's register: finding vs. theoretical claim
-vs. position); the **established page names** it may link to (Step 1); **exclusive
-ownership of the claim titles it creates** (distinct title namespace/prefix or topic set
-so no two agents write the same file); the instruction to extract claims **with grounding
-quotes from its range only** — no outside knowledge, no reading beyond its range.
+vs. position); the **established page names** it may link to (Step 1) as **ground truth
+already verified by the main thread** — agents link those without re-deriving existence;
+**exclusive ownership of the claim titles it creates** (distinct title namespace/prefix
+or topic set so no two agents write the same file); the instruction to extract claims
+**with grounding quotes from its range only** — no outside knowledge, no reading beyond
+its range.
+
+**Complete templates in the prompt.** When a subagent creates schema'd pages, the
+prompt's YAML example must be **complete and copy-pasteable** — every mandatory field
+present with a value inline (`sources_ingested`, `last_updated`, `tags`, etc.). Prose
+like "fill all fields" does not supply a field absent from the block. For new pages,
+also paste the **exact required body-section headings** for that page type from this
+file's schema so validation passes first try.
 
 Every extraction prompt must also carry these standing instructions (each earned from a
 recurring subagent failure mode):
+- **Do not load task-observer** or run session-start skill protocols — extraction only;
+  claims file only. Main agent owns observation logging.
 - **Flag, don't force, entity mismatches.** If material near-matches a target page name
-  but the entity differs (a different Redfield, the *other* Chicago School), file it
-  under Miscellaneous with an explicit mismatch flag rather than under the target.
+  but the entity differs (a different Redfield, the *other* Chicago School, same
+  ethnonym different region), file it under Miscellaneous with an explicit mismatch
+  flag and a proposed disambiguated slug rather than under the target.
+- **No invented relations.** State relationships between named persons (kinship,
+  teacher/student, institutional ties) only when the text states them — do not glue
+  correctly identified entities together with confabulated connective tissue.
 - **Flag internal duplication.** If you find passages duplicated verbatim within your
   slice (an ebook-conversion artifact), flag them and extract once — do not double-count.
-- **Report actual coverage.** In your completion summary, state the exact line range you
-  actually covered; if a read cap or block stopped you short of your assigned range, say
-  so explicitly so the main thread can spawn a scoped gap-fill agent.
+- **Report actual coverage with checkable anchors.** In the completion summary: (a)
+  state the **last heading or quoted line actually read** (verbatim — greppable), not
+  only an estimated line number; (b) classify stopping as either *range fully read;
+  final chapter continues past my upper bound* (expected boundary spillover — no
+  recovery) or *stopped before my upper bound* (genuine gap — needs recovery). The
+  main thread only escalates (b).
 - **Treat chunk-brief content descriptions as expectations, not facts.** Any content
   summary in your brief was inferred from the TOC; verify against the text and extract
   what is actually there, flagging any mismatch. (When drafting briefs, phrase them as
   "likely covers X — verify," never as assertions; a ~10-line spot-read per chapter at
   boundary-drawing time grounds them cheaply.)
+- **Large slices:** read the cache file in sequential chunks if needed; do not silently
+  truncate mid-range. Write the claims file in **one final Write** so a mid-stream API
+  death does not leave an empty path that looks like success.
 
 Prepare small per-range cache files first (`/tmp/..._cache/range_N_START_END.txt`) so
 each agent does cheap one-shot reads of only its slice. **Cut the cache slices to the
@@ -1036,27 +1127,46 @@ status still produces "frozen" sessions.
 6. **Optional bookkeeping:** note batch size and missing-range count in `wiki/log.md`
    for the ingest so recurrence is countable.
 
+**Reliability note (evidence-based, not folklore):** multi-agent batches of 5–9
+content-weighted agents complete without silent dropout when the filesystem inventory
++ recovery path above is enforced. Dropout is not automatic at a given N — detection
+and recovery are the fix, not lowering default N. Success cases and failures both
+belong in the ingest log when useful for calibration.
+
+**Wall-clock expectations.** State expected duration up front when OCR is required
+(scan tax dominates). Cuttable time: one-wave extract + one-wave integrate (never
+staggered dispatch); summary-skim claims files with spot-check on well-structured
+anthologies; avoid re-running clean validators. Irreducible: OCR, main-thread claims
+review on contested material, hub pages when criteria are met.
+
 **Step 4 — Review and tie together (main thread).** This step has two beats: a
 **main-thread claims review** (the checkpoint), then **integration**.
 
 **4a — Claims review (the safety gate; do this before any integration).** Read the claims
 files yourself. Dedupe overlapping claims, resolve entity mismatches, catch collisions,
-and **lock the final page manifest + canonical slugs + which claims feed which page**.
-This checkpoint is what makes delegating integration safe: once naming, dedup, and the
+spot-verify **relational** claims between named persons (not only entity identities —
+confabulated kinship/teacher glosses are a recurring extractor failure), and **lock the
+final page manifest + canonical slugs + which claims feed which page**. **Re-run the
+folder-agnostic duplicate pre-scan over the final create-list** (`find wiki -name
+"<slug>.md"`) — the Step-1 scan is stale if the manifest grew mid-session. This
+checkpoint is what makes delegating integration safe: once naming, dedup, and the
 attributed-vs-wiki-voice calls are decided here, integration is just execution within
 rails. Skipping it is what produces duplicate-slug collisions.
 
 **4b — Integration.** Integration MAY be delegated to a wave of integration subagents
 (the Two-stage variant below), fired in **ONE wave after the review**, each under an
-explicit rule set you articulate (exact page ownership, the locked slug list, schema,
-Voice/Attribution Protocol, don't-touch-others'-pages, no invented slugs). **Guardrail —
-keep the highest-stakes pages on the main thread and write them yourself**: the central
+explicit rule set you articulate (exact page ownership, the locked slug list as
+**authoritative ground truth** — agents must not re-litigate slug existence or write
+"no wiki page yet" for list members; schema + required body headings; Voice/Attribution
+Protocol; don't-touch-others'-pages; no invented slugs). **Guardrail — keep the
+highest-stakes pages on the main thread and write them yourself**: the central
 culture/discipline page, the most contested `debates/`, and anything heavy on the four-way
 non-identity rule. Delegate the rest. Rationale: the validator gates links and schema but
 NOT prose nuance or subtle theory-as-fact leakage, and parallel agents can't see each
 other's live text — so the trickiest ~10% of pages keep a higher ceiling when authored on
 the main thread. After integration, run the voice-audit grep (below) over the
-**agent-written** pages specifically, not just your own.
+**agent-written** pages specifically, not just your own; also grep for phrases like
+"no wiki page" / "does not exist" as a false-negative audit.
 
 The integration mechanics: dedupe overlapping claims; fix
 cross-links between new pages (subagents only linked Step-1 names); fill the source
@@ -1066,20 +1176,39 @@ updated pages for theory-as-fact leakage into wiki voice. **Before editing any e
 page, open it with the Read *tool* (not Bash `cat`) on the lines you'll change** — the
 harness's Edit safety gate only tracks Read-tool calls, so a page you only `cat`-ed will
 reject every Edit until you Read it. `cat` is fine for fast multi-file scanning, but it
-does not satisfy the Edit precondition. **When a concurrent ingest session may touch the
-same pages, integrate with Edit-append, never a full Write** — a full Write silently
-clobbers the other session's additions. Reserve full Writes for pages this session
-created and owns. **Edit-append protects additive *bookkeeping* (index, log,
+does not satisfy the Edit precondition.
+
+**Write-time revalidation.** The Step-1 "page does not exist" check goes stale during
+a long extraction phase. Before creating any page scaffolded as "new," re-check
+existence; if a `Write` fails the Read-precondition because a concurrent session already
+created the file, **Read and Edit-append** — do not force a full Write.
+
+**Concurrent sessions — collision and collaboration.** When a concurrent ingest may
+touch the same pages, integrate with Edit-append, never a full Write — a full Write
+silently clobbers the other session's additions. Reserve full Writes for pages this
+session created and owns. **Edit-append protects additive *bookkeeping* (index, log,
 `Outstanding sources.md`, `Structural_Sources`, coverage map), but it does NOT arbitrate
 *authorship* of a shared *content* page.** If another live session *created* a content
-page (theory, debate,
-concept, etc.) — even one that references your not-yet-written source — that session owns
-its body, and its next full Write will clobber your appends no matter how careful. So on a
-content page another session created, add only **minimal cross-link stubs or a single
-attributed paragraph**, and keep your real depth on the pages *you* own that link *to* it
-(your method/concept/source pages). Reserve rich Edit-append for shared pages **neither**
-session claims as its own to author. Effort spent appending prose to another session's
-actively-authored page is effort at risk.
+page (theory, debate, concept, etc.) — even one that references your not-yet-written
+source — that session owns its body, and its next full Write will clobber your appends.
+On a content page another session created, add only **minimal cross-link stubs or a
+single attributed paragraph**, and keep real depth on pages *you* own. Reserve rich
+Edit-append for shared pages **neither** session claims to author.
+
+Same-topic-cluster parallel sessions are often **deliberate collaboration**, not only
+collision risk: (a) a pre-existing wikilink to your planned slug is confirmation, not a
+naming fight; (b) before "fixing" validator errors on pages you created this session,
+re-read them — a sibling may already have fixed the gap; (c) sibling appends on your
+new pages are normal. When two books by one author run in parallel, **partition by
+page ownership** (cases/concepts vs shared thinker/theory) rather than racing the same
+slugs. At lint, grep for near-synonym duplicate slugs created since session start
+(author's core concepts) — the wikilink checker is blind to dual-resolving duplicates.
+
+**Pre-lint mechanical greps** (before the first full validator run — cheaper than
+write→lint→fix→re-lint):
+- Era tags wrongly wikilinked:
+  `\[\[(precursors|founding-era|classical-era|fieldwork-revolution|postwar-expansion|critical-turn|contemporary)`
+- Escaped-pipe wikilinks (break in tables / confuse the checker): `\[\[[^]]*\\\|`
 
 **Two-stage variant for well-trodden sources.** When the wiki already has dense coverage
 of a source's subject (e.g., a third Durkheim commentary into a wiki already holding two),
@@ -1117,7 +1246,10 @@ are purpose-built for this wiki's schemas — see `scripts/README.md`.
 - **Take the wikilinks baseline at the START of the session:**
   `scripts/check.sh --baseline` (writes `/tmp/scs_links_baseline.json`). Then the
   final `scripts/check.sh` reports only NEW broken links — the correct signal when a
-  concurrent session may also be introducing (its own) breakage.
+  concurrent session may also be introducing (its own) breakage. Under 3+ concurrent
+  sessions this is also the only reliable way to **attribute** breakage: a broken link
+  pointing at a page you never touched is expected noise — filter `--compare` output
+  by *your* page slugs; do not chase sibling-session in-flight links.
 - **Batch page writes; don't write→re-read→verify each file.** Edit/Write error if a
   write fails, so a confirmation read is redundant. Reserve reads for pages you must
   Read before Editing (the Edit safety gate).
@@ -1145,6 +1277,12 @@ are purpose-built for this wiki's schemas — see `scripts/README.md`.
   link to a non-existent slug.
 
 **Step 6 — Bookkeeping and file.**
+**Never close an ingest with content pages done but bookkeeping incomplete.** The
+four-item close set is mandatory: `Outstanding sources.md` mark · `Structural_Sources`
+update · `wiki/log.md` entry · `wiki/index.md` update · source filed out of `raw/`
+root (and cache cleanup). Content-done / bookkeeping-incomplete is a resume case (see
+Step 1), not a successful close.
+
 **Batch the whole step — bookkeeping is the measured slow-motion phase.** Do NOT run
 Step 6 as serial Read→Edit round-trips per file. One or two Bash calls should cover it:
 a single scripted pass (python read/replace/write, or heredoc appends) that marks the
@@ -1160,7 +1298,11 @@ all bookkeeping text in one go before executing.
    the tier/number is unknown. **Do not close the ingest with the wiki marked done
    but this file still unmarked** — it is the user's working checklist.
 2. **Update `Structural_Sources.md`**: if the source is a line item, mark it ingested
-   (append ✅ / change status) and update any note.
+   (append ✅ / change status) and update any note. **Single-bullet appends only** —
+   insert at a known anchor with exact prefix match. Never multi-line / DOTALL regex
+   "dedupe" passes (a greedy match has destroyed the ledger). If dedupe is needed,
+   match one line starting with `- **DATE**` for that author/title; dry-run and verify
+   file size/line-count within ~2% after any delete.
 3. **File the source** into the right `raw/` subfolder (create discipline- or
    era-grouped subfolders as the collection takes shape; underscore-prefixed grouping
    folders for multi-volume sets). Move both the text file (`.md`/`.txt`) and its
@@ -1420,6 +1562,12 @@ after.
   in the literature; record alternatives as aliases
 - Cultures: `[culture-name]-culture.md` for archaeological cultures
   (`yamnaya-culture.md`); `[family-name]-languages.md` for language families
+- **Lithic industries (standing taxonomy):** classificatory history and analytical
+  debates live on `concepts/` (e.g. `mousterian`, `aurignacian`, `chatelperronian`).
+  Do **not** also create parallel `cultures/*-industry` pages for the same industry —
+  that dual taxonomy was reintroduced mid-ingest and thrashed across sessions. Material
+  culture constructs that are true archaeological cultures keep the `-culture` suffix;
+  industry names as etic type labels stay in concepts.
 - Sites: `[site-name].md` — conventional archaeological name (`catalhoyuk.md`);
   modern-country qualifier if ambiguous
 - Institutions and phenomena: `[name].md`
